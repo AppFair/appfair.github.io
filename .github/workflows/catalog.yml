@@ -1,4 +1,4 @@
-name: App Fair Catalog
+name: Publish App Fair Catalog
 
 on:
   workflow_dispatch:

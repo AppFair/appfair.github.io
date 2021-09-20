@@ -8,12 +8,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout Catalog
+        uses: actions/checkout@v2
+        with:
+          repository: appfair/appfair.github.io.git
+          path: catalog/
 
-      - name: Run a one-line script
-        run: echo "" >> catalog.csv
 
-      - name: Run a multi-line script
+      - name: Test catalog rebuild
         run: |
-          git add catalog.csv
-          git commit catalog.csv
+          echo "" >> catalog/fairapps.json
+          git -C catalog/ add fairapps.json
+          git -C catalog/ commit fairapps.json
+
+      - name: Checkout Fair
+        uses: actions/checkout@v2
+        with:
+          repository: appfair/Fair.git
+          path: fair/
+
+      - name: Build catalog
+          cd fair/
+          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.GITHUB_TOKEN }}" -o ../catalog/fairapps.json
+          cd ../catalog/
+          git add fairapps.json
+          git commit fairapps.json
+

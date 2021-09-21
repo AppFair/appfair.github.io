@@ -21,11 +21,11 @@ jobs:
 
       - name: Test catalog rebuild
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
           echo "" >> catalog/fairapps.json
-          git config --global user.email "fairapps@appfair.net"
-          git config --global user.name "fairapps@appfair.net"
+          git config --global user.email "appfairbot@appfair.net"
+          git config --global user.name "appfairbot@appfair.net"
 
           git -C catalog/ add fairapps.json
           git -C catalog/ commit -m "catalog update"
@@ -34,7 +34,7 @@ jobs:
       - name: Checkout Fair
         uses: actions/checkout@v2
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         with:
           repository: appfair/Fair.git
           ref: main
@@ -42,10 +42,10 @@ jobs:
 
       - name: Build catalog
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
           cd fair/
-          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.GITHUB_TOKEN }}" -o ../catalog/fairapps.json
+          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" -o ../catalog/fairapps.json
           cd ../catalog/
           git add fairapps.json
           git commit fairapps.json

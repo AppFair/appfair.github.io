@@ -8,18 +8,18 @@
       ],
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.107/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.107/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.111/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.111/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Streaming internet radio without intrusion",
       "name" : "Tune Out",
       "screenshotURLs" : [
 
       ],
-      "size" : 1423605,
+      "size" : 1423351,
       "starCount" : 0,
-      "version" : "0.8.107",
-      "versionDate" : "2021-09-20T23:05:39Z",
+      "version" : "0.8.111",
+      "versionDate" : "2021-09-21T12:21:01Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -31,18 +31,64 @@
       ],
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.107/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.107/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.111/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.111/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Streaming internet radio without intrusion",
       "name" : "Tune Out",
       "screenshotURLs" : [
 
       ],
-      "size" : 3689967,
+      "size" : 3690384,
       "starCount" : 0,
-      "version" : "0.8.107",
-      "versionDate" : "2021-09-20T23:05:39Z",
+      "version" : "0.8.111",
+      "versionDate" : "2021-09-21T12:21:01Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.35/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.35/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair catalog browser app",
+      "name" : "App Fair",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1718979,
+      "starCount" : 0,
+      "version" : "0.6.35",
+      "versionDate" : "2021-09-21T12:03:39Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.35/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.35/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair catalog browser app",
+      "name" : "App Fair",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 4282862,
+      "starCount" : 0,
+      "version" : "0.6.35",
+      "versionDate" : "2021-09-21T12:03:39Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -135,52 +181,6 @@
       "starCount" : 0,
       "version" : "0.3.45",
       "versionDate" : "2021-09-15T21:57:35Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.33/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.33/App-Fair.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The App Fair catalog browser app",
-      "name" : "App Fair",
-      "screenshotURLs" : [
-
-      ],
-      "size" : 1837139,
-      "starCount" : 0,
-      "version" : "0.6.33",
-      "versionDate" : "2021-09-14T22:19:34Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.33/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.33/App-Fair.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The App Fair catalog browser app",
-      "name" : "App Fair",
-      "screenshotURLs" : [
-
-      ],
-      "size" : 4682395,
-      "starCount" : 0,
-      "version" : "0.6.33",
-      "versionDate" : "2021-09-14T22:19:34Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

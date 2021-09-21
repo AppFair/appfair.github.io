@@ -35,6 +35,7 @@ jobs:
 
           git -C catalog/ add fairapps.json
           git -C catalog/ commit -m "catalog update"
+          git push
 
       - name: Checkout Fair
         uses: actions/checkout@v2

@@ -21,7 +21,7 @@ jobs:
 
       - uses: fwal/setup-swift@v1
         with:
-          swift-version: '5.4'
+          swift-version: '5.5'
 
       - name: Checkout Fair
         uses: actions/checkout@v2
@@ -31,7 +31,6 @@ jobs:
           path: fair/
 
       - name: Generate catalog
-        if: false
         run: |
           cd fair/
           swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" -o ../catalog/fairapps.json

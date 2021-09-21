@@ -25,6 +25,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           echo "" >> catalog/fairapps.json
+          git config --global user.email "fairapps@appfair.net"
+          git config --global user.name "fairapps@appfair.net"
+
           git -C catalog/ add fairapps.json
           git -C catalog/ commit fairapps.json
 

@@ -19,12 +19,6 @@ jobs:
           ref: main
           path: catalog/
 
-      - uses: fwal/setup-swift@v1
-        with:
-          swift-version: "5.5.0"
-      - name: Get swift version
-        run: swift --version 
-
       - name: Test catalog rebuild
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

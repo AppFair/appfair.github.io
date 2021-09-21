@@ -17,40 +17,47 @@ jobs:
         with:
           repository: appfair/appfair.github.io.git
           ref: main
-          path: catalog/
+          path: appfair.github.io/
 
       - name: Test catalog rebuild
         env:
           GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
-          echo "" >> catalog/fairapps.json
+          cd appfair.github.io/
+          echo "" >> fairapps.json
           git config --global user.email "appfairbot@appfair.net"
           git config --global user.name "appfairbot@appfair.net"
 
-          git -C catalog/ add fairapps.json
-          git -C catalog/ commit -m "catalog update"
-          git -C catalog/ push
+          git add fairapps.json
+          git commit -m "catalog update"
+          git push
+
+      - uses: fwal/setup-swift@v1
+        if: false
+        with:
+          swift-version: '5.5'
 
       - name: Checkout Fair
         uses: actions/checkout@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         with:
           repository: appfair/Fair.git
           ref: main
           path: fair/
 
-      - uses: fwal/setup-swift@v1
-        with:
-          swift-version: '5.5'
-
-      - name: Build catalog
-        env:
-          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
+      - name: Generate catalog
+        if: false
         run: |
           cd fair/
           swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" -o ../catalog/fairapps.json
-          cd ../catalog/
+          cd ..
+
+      - name: Update catalog
+        env:
+          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
+        run: |
+          cd 
           git add fairapps.json
           git commit -m "catalog update"
           git push
+
+

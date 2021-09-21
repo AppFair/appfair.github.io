@@ -1,9 +1,650 @@
+{
+  "apps" : [
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.107/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.107/Tune-Out.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Streaming internet radio without intrusion",
+      "name" : "Tune Out",
+      "screenshotURLs" : [
 
+      ],
+      "size" : 1423605,
+      "starCount" : 0,
+      "version" : "0.8.107",
+      "versionDate" : "2021-09-20T23:05:39Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.107/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.107/Tune-Out.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Streaming internet radio without intrusion",
+      "name" : "Tune Out",
+      "screenshotURLs" : [
 
+      ],
+      "size" : 3689967,
+      "starCount" : 0,
+      "version" : "0.8.107",
+      "versionDate" : "2021-09-20T23:05:39Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Pan-Opticon",
+      "categories" : [
+        "public.app-category.news"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.37/Pan-Opticon-macOS.zip",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.37/Pan-Opticon.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The all-seeing I",
+      "name" : "Pan Opticon",
+      "screenshotURLs" : [
 
+      ],
+      "size" : 1537537,
+      "starCount" : 0,
+      "version" : "0.2.37",
+      "versionDate" : "2021-09-14T05:19:09Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Pan-Opticon",
+      "categories" : [
+        "public.app-category.news"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.37/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.37/Pan-Opticon.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The all-seeing I",
+      "name" : "Pan Opticon",
+      "screenshotURLs" : [
 
+      ],
+      "size" : 3962373,
+      "starCount" : 0,
+      "version" : "0.2.37",
+      "versionDate" : "2021-09-14T05:19:09Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+        "public.app-category.weather"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.45/Fair-Skies-macOS.zip",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.45/Fair-Skies.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Detailed weather",
+      "name" : "Fair Skies",
+      "screenshotURLs" : [
 
+      ],
+      "size" : 1512462,
+      "starCount" : 0,
+      "version" : "0.3.45",
+      "versionDate" : "2021-09-15T21:57:35Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+        "public.app-category.weather"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.45/Fair-Skies-iOS.ipa",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.45/Fair-Skies.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Detailed weather",
+      "name" : "Fair Skies",
+      "screenshotURLs" : [
 
+      ],
+      "size" : 3952885,
+      "starCount" : 0,
+      "version" : "0.3.45",
+      "versionDate" : "2021-09-15T21:57:35Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.33/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.33/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair catalog browser app",
+      "name" : "App Fair",
+      "screenshotURLs" : [
 
+      ],
+      "size" : 1837139,
+      "starCount" : 0,
+      "version" : "0.6.33",
+      "versionDate" : "2021-09-14T22:19:34Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.33/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.33/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair catalog browser app",
+      "name" : "App Fair",
+      "screenshotURLs" : [
 
+      ],
+      "size" : 4682395,
+      "starCount" : 0,
+      "version" : "0.6.33",
+      "versionDate" : "2021-09-14T22:19:34Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Yankee-Swap",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 13,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.64/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.64/Yankee-Swap.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Most anything under the Sun",
+      "name" : "Yankee Swap",
+      "screenshotURLs" : [
 
+      ],
+      "size" : 1430212,
+      "starCount" : 0,
+      "version" : "0.1.64",
+      "versionDate" : "2021-09-14T12:04:34Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Yankee-Swap",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.64/Yankee-Swap-iOS.ipa",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.64/Yankee-Swap.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Most anything under the Sun",
+      "name" : "Yankee Swap",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 3605200,
+      "starCount" : 0,
+      "version" : "0.1.64",
+      "versionDate" : "2021-09-14T12:04:34Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 4,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.39/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.39/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A zany game filled with fun and delight!",
+      "name" : "Cloud Cuckoo",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1462393,
+      "starCount" : 0,
+      "version" : "0.8.39",
+      "versionDate" : "2021-09-14T06:30:43Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.39/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.39/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A zany game filled with fun and delight!",
+      "name" : "Cloud Cuckoo",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 3699363,
+      "starCount" : 0,
+      "version" : "0.8.39",
+      "versionDate" : "2021-09-14T06:30:43Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cookie-Time",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 9,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.26/Cookie-Time-macOS.zip",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.26/Cookie-Time.png",
+      "issueCount" : 0,
+      "localizedDescription" : "For fans of cookies!",
+      "name" : "Cookie Time",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1434560,
+      "starCount" : 0,
+      "version" : "0.0.26",
+      "versionDate" : "2021-09-14T06:30:29Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cookie-Time",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.26/Cookie-Time-iOS.ipa",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.26/Cookie-Time.png",
+      "issueCount" : 0,
+      "localizedDescription" : "For fans of cookies!",
+      "name" : "Cookie Time",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 3626753,
+      "starCount" : 0,
+      "version" : "0.0.26",
+      "versionDate" : "2021-09-14T06:30:29Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tattle-Tale",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 4,
+      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.32/Tattle-Tale-macOS.zip",
+      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.32/Tattle-Tale.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A tale told by an idiot signifying nothing",
+      "name" : "Tattle Tale",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1431605,
+      "starCount" : 0,
+      "version" : "0.3.32",
+      "versionDate" : "2021-09-14T06:30:21Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tattle-Tale",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.32/Tattle-Tale-iOS.ipa",
+      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.32/Tattle-Tale.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A tale told by an idiot signifying nothing",
+      "name" : "Tattle Tale",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 3623184,
+      "starCount" : 0,
+      "version" : "0.3.32",
+      "versionDate" : "2021-09-14T06:30:21Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Terms",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fair-Terms/App/releases/download/0.0.10/Fair-Terms-macOS.zip",
+      "iconURL" : "https://github.com/Fair-Terms/App/releases/download/0.0.10/Fair-Terms.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fair Terms!",
+      "name" : "Fair Terms",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1432687,
+      "starCount" : 0,
+      "version" : "0.0.10",
+      "versionDate" : "2021-09-14T06:30:17Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Terms",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/Fair-Terms/App/releases/download/0.0.10/Fair-Terms-iOS.ipa",
+      "iconURL" : "https://github.com/Fair-Terms/App/releases/download/0.0.10/Fair-Terms.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fair Terms!",
+      "name" : "Fair Terms",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 3624035,
+      "starCount" : 0,
+      "version" : "0.0.10",
+      "versionDate" : "2021-09-14T06:30:17Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Net-Hack",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.10/Net-Hack-macOS.zip",
+      "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.10/Net-Hack.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Congratulations adventurer!",
+      "name" : "Net Hack",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1427088,
+      "starCount" : 0,
+      "version" : "0.0.10",
+      "versionDate" : "2021-09-14T06:30:13Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Net-Hack",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.10/Net-Hack-iOS.ipa",
+      "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.10/Net-Hack.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Congratulations adventurer!",
+      "name" : "Net Hack",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 3618790,
+      "starCount" : 0,
+      "version" : "0.0.10",
+      "versionDate" : "2021-09-14T06:30:13Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Photo-Box",
+      "categories" : [
+        "public.app-category.photography"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.55/Photo-Box-macOS.zip",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.55/Photo-Box.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Your Photos: Private & Safe",
+      "name" : "Photo Box",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1949548,
+      "starCount" : 0,
+      "version" : "0.3.55",
+      "versionDate" : "2021-09-14T06:30:01Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Photo-Box",
+      "categories" : [
+        "public.app-category.photography"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.55/Photo-Box-iOS.ipa",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.55/Photo-Box.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Your Photos: Private & Safe",
+      "name" : "Photo Box",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 5157948,
+      "starCount" : 0,
+      "version" : "0.3.55",
+      "versionDate" : "2021-09-14T06:30:01Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Mark-Island",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Mark-Island/App/releases/download/0.2.35/Mark-Island-macOS.zip",
+      "iconURL" : "https://github.com/Mark-Island/App/releases/download/0.2.35/Mark-Island.png",
+      "issueCount" : 0,
+      "localizedDescription" : "CommonMark Editor for macOS",
+      "name" : "Mark Island",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1777681,
+      "starCount" : 0,
+      "version" : "0.2.35",
+      "versionDate" : "2021-09-14T05:19:06Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Mark-Island",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Mark-Island/App/releases/download/0.2.35/Mark-Island-iOS.ipa",
+      "iconURL" : "https://github.com/Mark-Island/App/releases/download/0.2.35/Mark-Island.png",
+      "issueCount" : 0,
+      "localizedDescription" : "CommonMark Editor for macOS",
+      "name" : "Mark Island",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 4778934,
+      "starCount" : 0,
+      "version" : "0.2.35",
+      "versionDate" : "2021-09-14T05:19:06Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Faraday-Page",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.51/Faraday-Page-macOS.zip",
+      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.51/Faraday-Page.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Isolated Browsing Environments",
+      "name" : "Faraday Page",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 2129671,
+      "starCount" : 0,
+      "version" : "0.3.51",
+      "versionDate" : "2021-09-14T05:19:01Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Faraday-Page",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.51/Faraday-Page-iOS.ipa",
+      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.51/Faraday-Page.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Isolated Browsing Environments",
+      "name" : "Faraday Page",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 6959279,
+      "starCount" : 0,
+      "version" : "0.3.51",
+      "versionDate" : "2021-09-14T05:19:01Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.43/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.43/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "E.G.: all the knowledge of a Galactic Empire",
+      "name" : "Encyclopedia Galactica",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1453519,
+      "starCount" : 0,
+      "version" : "0.3.43",
+      "versionDate" : "2021-09-14T05:18:53Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.43/Encyclopedia-Galactica-iOS.ipa",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.43/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "E.G.: all the knowledge of a Galactic Empire",
+      "name" : "Encyclopedia Galactica",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 3644279,
+      "starCount" : 0,
+      "version" : "0.3.43",
+      "versionDate" : "2021-09-14T05:18:53Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    }
+  ],
+  "identifier" : "appfair",
+  "name" : "appfair"
+}

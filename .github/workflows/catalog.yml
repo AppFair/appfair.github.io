@@ -38,7 +38,7 @@ jobs:
       - name: Generate catalog
         run: |
           cd fair/
-          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" -o ../catalog/fairapps.json
+          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" -o ../appfair.github.io/fairapps.json
           cd ..
 
       - name: Update catalog
@@ -47,7 +47,7 @@ jobs:
         run: |
           cd appfair.github.io/
           git config --global user.email "appfairbot@appfair.net"
-          git config --global user.name "appfairbot@appfair.net"
+          #git config --global user.name "appfairbot@appfair.net"
           git add fairapps.json
           git commit -m "catalog update" || echo "nothing to commit"
           git push

@@ -17,8 +17,9 @@ From an end-user standpoint, the **App Fair.app** catalog browser application al
 <img align="left" width="600" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
 
 Apps installed through the **App Fair.app** application are created using the platform-native `SwiftUI` framework and compiled for both Intel and ARM processors, thereby enabling higher performance, lower memory consumption, and more efficient resource utilization than can be achieved with non-native cross-platform application frameworks.
+
 At the same time, they use modern "Sandboxing" techniques to protect your system and ensure that you are always aware of what actions the apps are permitted to take, such as reading and writing files, communicating over the internet, or accessing your camera, microphone, and other connected devices.
-And since they rely on the native frameworks of the system, they tend to be quite small (under 2 megabytes compressed), and so are quicker to download and launch than even most web apps.
+And since they rely on the native frameworks of the system, they tend to be quite small (under 2 megabytes compressed), and so are quicker to download and launch than a typical web app.
 
 ### Getting Started
 
@@ -62,7 +63,7 @@ The configuration for the App Fair is defined primarily in the [appfair/App.git]
 <img align="left" width="450" alt="Diagram of the App Fair process" src="assets/fairground.svg" />
 
 "Fork-Apply/Integrate-Release" (F-A/I-R) describes the stages of creating, developing, building, and distributing an app.
-The "Fork" and "Apply" parts are handled by you, the developer: a fork is created from the base [`/appfair/App`](https://github.com/appfair/App) repository, and in that fork you develop your app.
+The "Fork" and "Apply" parts are handled by you, the developer: a fork is created from the base [`/appfair/App.git`](https://github.com/appfair/App.git) repository, and in that fork you develop your app.
 Once you enable GitHub actions for your fork, your app will be automatically built and released whenever you push a semantic version tag to your fork's repository.
 Since this fork is completely under the control of the developer, the fork is considered "untrusted", in that the app binary artifact that is built and released has no security or safety guarantees.
 
@@ -104,7 +105,7 @@ Each organization will have a single top-level `/App.git` fork that acts as the 
 
 ### App Repository
 
-Once your organization is set up, you create your `/APP-ORG/App` project by forking the [https://github.com/appfair/App.git](https://github.com/appfair/App.git) repository into your new organization name.
+Once your organization is set up, you create your `/APP-ORG/App.git` project by forking the [https://github.com/appfair/App.git](https://github.com/appfair/App.git) repository into your new organization name.
 This is a Swift project that contains the shell of a cross-platform `SwiftUI` app that you will use as your starting point.
 
 Your app will exist in a top-level repository named "App"; it must continue to be called "App" since that is how the catalog browser will be able to access your project metadata.
@@ -302,7 +303,7 @@ It is typically generated after each successful `integrate-release` phase, but t
 
 ### Org Requirements
 
-In order for an organization's `/APP-ORG/App` project to be visible in the **App Fair.app** catalog, it must be a public organization with at least one public member. 
+In order for an organization's `/APP-ORG/App.git` project to be visible in the **App Fair.app** catalog, it must be a public organization with at least one public member. 
 The organization must have a repository (or redirection) named "App" (literally), which must be a fork of the [appfair/App.git](https://github.com/appfair/App.git) repository.
 In addition, the repository must have issues and discussions enabled, and also must be public and un-archived.
 Finally, the `APP-ORG` organization's public contact must be a valid e-mail address ending in ".edu".
@@ -311,7 +312,7 @@ Finally, the `APP-ORG` organization's public contact must be a valid e-mail addr
 
 The [appfair/App.git](https://github.com/appfair/App.git) repository is licensed under the GNU AGPL, which means that all forks of the project are also covered under that license. 
 If you would like your app's code to be licensed differently, you can create a separate repository (either in the same organization or elsewhere; it merely needs to be publicly available on GitHub) with another license of your choosing, and then reference the project(s) from your `Package.swift` dependencies section. 
-The App/Fair release process doesn't perform any validation of the licenses of any Swift dependencies; it only requires that the license for the forked `/App` project itself remain unchanged, and that all the source files that act as inputs to the build process are available for inspection and analysis at the time of building.
+The App/Fair release process doesn't perform any validation of the licenses of any Swift dependencies; it only requires that the license for the forked `/App.git` project itself remain unchanged, and that all the source files that act as inputs to the build process are available for inspection and analysis at the time of building.
 
 ## Catalog Format
 
@@ -1033,7 +1034,7 @@ Use this checklist to ensure that your app is set up properly for distribution i
   1. Have you enabled [vigilant mode](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/displaying-verification-statuses-for-all-of-your-commits#enabling-vigilant-mode)?
  
  
-### Forked `/App` Repository
+### Forked `/App.git` Repository
 
   1. Is your forked repository *publicly* accessible at: `https://github.com/APP-ORG/App/`?
   1. Is your `/App.git` fork public?

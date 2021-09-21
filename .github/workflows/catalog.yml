@@ -16,6 +16,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: appfair/appfair.github.io.git
+          branch: main
           path: catalog/
 
 
@@ -29,6 +30,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: appfair/Fair.git
+          branch: main
           path: fair/
 
       - name: Build catalog

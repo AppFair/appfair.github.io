@@ -52,5 +52,5 @@ jobs:
           swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" -o ../catalog/fairapps.json
           cd ../catalog/
           git add fairapps.json
-          git commit fairapps.json
-
+          git commit -m "catalog update"
+          git push

@@ -40,6 +40,10 @@ jobs:
           ref: main
           path: fair/
 
+      - uses: fwal/setup-swift@v1
+        with:
+          swift-version: '5.5'
+
       - name: Build catalog
         env:
           GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}

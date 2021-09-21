@@ -45,7 +45,7 @@ jobs:
           git config --global user.email "appfairbot@appfair.net"
           git config --global user.name "appfairbot@appfair.net"
           git add fairapps.json
-          git commit -m "catalog update"
+          git commit -m "catalog update" || echo "nothing to commit"
           git push
 
 

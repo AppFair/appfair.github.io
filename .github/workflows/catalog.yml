@@ -19,23 +19,9 @@ jobs:
           ref: main
           path: appfair.github.io/
 
-      - name: Test catalog rebuild
-        env:
-          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
-        run: |
-          cd appfair.github.io/
-          echo "" >> fairapps.json
-          git config --global user.email "appfairbot@appfair.net"
-          git config --global user.name "appfairbot@appfair.net"
-
-          git add fairapps.json
-          git commit -m "catalog update"
-          git push
-
       - uses: fwal/setup-swift@v1
-        if: false
         with:
-          swift-version: '5.5'
+          swift-version: '5.4'
 
       - name: Checkout Fair
         uses: actions/checkout@v2
@@ -56,6 +42,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
           cd appfair.github.io/
+          git config --global user.email "appfairbot@appfair.net"
+          git config --global user.name "appfairbot@appfair.net"
           git add fairapps.json
           git commit -m "catalog update"
           git push

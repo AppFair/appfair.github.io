@@ -52,56 +52,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Fair-Skies",
-      "categories" : [
-        "public.app-category.weather"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.47/Fair-Skies-macOS.zip",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.47/Fair-Skies.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Detailed weather",
-      "name" : "Fair Skies",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "ce6e19c29fab486685d1c26fa791547a471d64fba6f1cdae61915644ac4879f0",
-      "size" : 1491106,
-      "starCount" : 0,
-      "version" : "0.3.47",
-      "versionDate" : "2021-09-22T17:00:47Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.45/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.45/Encyclopedia-Galactica.png",
-      "issueCount" : 0,
-      "localizedDescription" : "E.G.: all the knowledge of a Galactic Empire",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "85b386ce9e610d286a8709c2ed457ee6578e9d37f57991ac91da187d48f7fb37",
-      "size" : 1514430,
-      "starCount" : 0,
-      "version" : "0.3.45",
-      "versionDate" : "2021-09-22T17:00:43Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"

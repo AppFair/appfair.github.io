@@ -2,25 +2,25 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Cookie-Time",
+      "bundleIdentifier" : "app.App-Fair",
       "categories" : [
-
+        "public.app-category.utilities"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.35/Cookie-Time-macOS.zip",
-      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.35/Cookie-Time.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.39/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.39/App-Fair.png",
       "issueCount" : 0,
-      "localizedDescription" : "For fans of cookies!",
-      "name" : "Cookie Time",
+      "localizedDescription" : "The App Fair catalog browser app",
+      "name" : "App Fair",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c4e8e628e7ffefe1e7af384565fa0096014399aec11ca9d6e06069024dce33b7",
-      "size" : 1495909,
+      "sha256" : "741c6ef43559f4cdfb13785f838cb3bceb772f55e5f6a0f8487ad1de15e67141",
+      "size" : 1829162,
       "starCount" : 0,
-      "version" : "0.0.35",
-      "versionDate" : "2021-09-22T16:19:01Z",
+      "version" : "0.6.39",
+      "versionDate" : "2021-09-22T16:50:09Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

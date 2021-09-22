@@ -27,6 +27,56 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Photo-Box",
+      "categories" : [
+        "public.app-category.photography"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.63/Photo-Box-macOS.zip",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.63/Photo-Box.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Your Photos: Private & Safe",
+      "name" : "Photo Box",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "c20945499baba6401b72a291c84792479269bca35437e450331bf9e7d14f56ce",
+      "size" : 2020738,
+      "starCount" : 0,
+      "version" : "0.3.63",
+      "versionDate" : "2021-09-22T22:32:54Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Yankee-Swap",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.69/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.69/Yankee-Swap.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Most anything under the Sun",
+      "name" : "Yankee Swap",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "e7a322ae1bc8fba10b2518e9470f66419799ed00b8950bd2751047613c8bb0c0",
+      "size" : 1511668,
+      "starCount" : 0,
+      "version" : "0.1.69",
+      "versionDate" : "2021-09-22T22:32:51Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
         "public.app-category.utilities"

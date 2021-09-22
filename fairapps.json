@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Cookie-Time",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.38/Cookie-Time-macOS.zip",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.38/Cookie-Time.png",
+      "issueCount" : 0,
+      "localizedDescription" : "For fans of cookies!",
+      "name" : "Cookie Time",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "1034254e7f8d5b2c4ba2a038f8e150eef87e02cb954c2340ece13c6fbd5a685f",
+      "size" : 1509622,
+      "starCount" : 0,
+      "version" : "0.0.38",
+      "versionDate" : "2021-09-22T20:29:19Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

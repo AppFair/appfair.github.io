@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.122/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.122/Tune-Out.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Streaming internet radio without intrusion",
+      "name" : "Tune Out",
+      "permissions" : 536870924,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "d53ef7f90e2c63911bf64ee17d08cfbc55041521d47f263ff5cece39dea25693",
+      "size" : 1574648,
+      "starCount" : 0,
+      "version" : "0.8.122",
+      "versionDate" : "2021-09-22T22:33:11Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tattle-Tale",
       "categories" : [
         "public.app-category.entertainment"

@@ -2,6 +2,56 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Faraday-Page",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.56/Faraday-Page-macOS.zip",
+      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.56/Faraday-Page.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Isolated Browsing Environments",
+      "name" : "Faraday Page",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "3ca5068c6b4adc7afa75f13aab613e682f4093f9f6baa5d6e4380b9aadd12a32",
+      "size" : 2201229,
+      "starCount" : 0,
+      "version" : "0.3.56",
+      "versionDate" : "2021-09-22T22:33:30Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+        "public.app-category.weather"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.50/Fair-Skies-macOS.zip",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.50/Fair-Skies.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Detailed weather",
+      "name" : "Fair Skies",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "d272f156a8750f5c4624471a012d191e9a95414aeb89f1316dc6550bfd1b95b9",
+      "size" : 1503989,
+      "starCount" : 0,
+      "version" : "0.3.50",
+      "versionDate" : "2021-09-22T22:33:26Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
         "public.app-category.reference"
@@ -32,7 +82,7 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.44/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.44/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -57,7 +107,7 @@
 
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.39/Cookie-Time-macOS.zip",
       "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.39/Cookie-Time.png",
       "issueCount" : 0,

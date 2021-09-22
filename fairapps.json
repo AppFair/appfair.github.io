@@ -2,6 +2,56 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.48/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.48/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "E.G.: all the knowledge of a Galactic Empire",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "8ed439508a474fb30facfa1c8edcb3db8eae770625ca9d38facbb3e57e320162",
+      "size" : 1527314,
+      "starCount" : 0,
+      "version" : "0.3.48",
+      "versionDate" : "2021-09-22T22:33:22Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.44/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.44/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A zany game filled with fun and delight!",
+      "name" : "Cloud Cuckoo",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "1d11da123d13ae3677e465a985fb1fce17e9eefabc9092702518e1f7c908c091",
+      "size" : 1535967,
+      "starCount" : 0,
+      "version" : "0.8.44",
+      "versionDate" : "2021-09-22T22:33:19Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cookie-Time",
       "categories" : [
 

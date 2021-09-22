@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+        "public.app-category.weather"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.48/Fair-Skies-macOS.zip",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.48/Fair-Skies.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Detailed weather",
+      "name" : "Fair Skies",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "fc4d5741bcb95051ca8a2c9bb3cffc4e0e91a106e42fe2d0fd1806e63d757540",
+      "size" : 1503991,
+      "starCount" : 0,
+      "version" : "0.3.48",
+      "versionDate" : "2021-09-22T18:41:54Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
         "public.app-category.reference"

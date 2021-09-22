@@ -2,76 +2,76 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Mark-Island",
+      "bundleIdentifier" : "app.Photo-Box",
+      "categories" : [
+        "public.app-category.photography"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.61/Photo-Box-macOS.zip",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.61/Photo-Box.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Your Photos: Private & Safe",
+      "name" : "Photo Box",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "775b2d69fa9fcff539c2f75ab4f11c7d1c69ec693079dc6ae3bef75893d8fb55",
+      "size" : 2020737,
+      "starCount" : 0,
+      "version" : "0.3.61",
+      "versionDate" : "2021-09-22T18:41:20Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Yankee-Swap",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.67/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.67/Yankee-Swap.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Most anything under the Sun",
+      "name" : "Yankee Swap",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "f8248112bd1996abb70e57b544141de25ddd313b98c78ed3312fefaed414d5d4",
+      "size" : 1511669,
+      "starCount" : 0,
+      "version" : "0.1.67",
+      "versionDate" : "2021-09-22T18:41:16Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
       "categories" : [
         "public.app-category.utilities"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Mark-Island/App/releases/download/0.2.37/Mark-Island-macOS.zip",
-      "iconURL" : "https://github.com/Mark-Island/App/releases/download/0.2.37/Mark-Island.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.39/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.39/App-Fair.png",
       "issueCount" : 0,
-      "localizedDescription" : "CommonMark Editor for macOS",
-      "name" : "Mark Island",
-      "permissions" : 536870916,
+      "localizedDescription" : "The App Fair catalog browser app",
+      "name" : "App Fair",
+      "permissions" : 537657352,
       "screenshotURLs" : [
 
       ],
-      "sha256" : "4469075d14eb9da1970c0de448c8d076b1561343783c51fc7b85b75217fec763",
-      "size" : 1835305,
+      "sha256" : "741c6ef43559f4cdfb13785f838cb3bceb772f55e5f6a0f8487ad1de15e67141",
+      "size" : 1829162,
       "starCount" : 0,
-      "version" : "0.2.37",
-      "versionDate" : "2021-09-22T17:00:56Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Faraday-Page",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.53/Faraday-Page-macOS.zip",
-      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.53/Faraday-Page.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Isolated Browsing Environments",
-      "name" : "Faraday Page",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "6c70690022b3b040342c86b3f278d546af9709df2ed0d3abd3225b35829d3577",
-      "size" : 2188254,
-      "starCount" : 0,
-      "version" : "0.3.53",
-      "versionDate" : "2021-09-22T17:00:52Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.41/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.41/Cloud-Cuckoo.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A zany game filled with fun and delight!",
-      "name" : "Cloud Cuckoo",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "5f14b22350decde316c7dd1a1837e105c98e2c7c79948b1c2e65eecb80e8fa09",
-      "size" : 1523535,
-      "starCount" : 0,
-      "version" : "0.8.41",
-      "versionDate" : "2021-09-22T17:00:39Z",
+      "version" : "0.6.39",
+      "versionDate" : "2021-09-22T16:50:09Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

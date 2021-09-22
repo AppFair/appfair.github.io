@@ -2,6 +2,56 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Tattle-Tale",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.36/Tattle-Tale-macOS.zip",
+      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.36/Tattle-Tale.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A tale told by an idiot signifying nothing",
+      "name" : "Tattle Tale",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "16dc81e576c9d560a374938bc40ab375586c384ba2bad8005bd2047f498b4f99",
+      "size" : 1505279,
+      "starCount" : 0,
+      "version" : "0.3.36",
+      "versionDate" : "2021-09-22T20:29:10Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Net-Hack",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.14/Net-Hack-macOS.zip",
+      "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.14/Net-Hack.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Congratulations adventurer!",
+      "name" : "Net Hack",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "2248cea836a8f0fd05128dcda58848afce37f66962007b6d63329e0e0f8ea7bb",
+      "size" : 1501113,
+      "starCount" : 0,
+      "version" : "0.0.14",
+      "versionDate" : "2021-09-22T20:29:00Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Photo-Box",
       "categories" : [
         "public.app-category.photography"

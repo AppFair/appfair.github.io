@@ -2,12 +2,62 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Mark-Island",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Mark-Island/App/releases/download/0.2.39/Mark-Island-macOS.zip",
+      "iconURL" : "https://github.com/Mark-Island/App/releases/download/0.2.39/Mark-Island.png",
+      "issueCount" : 0,
+      "localizedDescription" : "CommonMark Editor for macOS",
+      "name" : "Mark Island",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "f6d843cc25b478efdb1f786f71166ab3f624d49a4be3c8257cdc760dace04547",
+      "size" : 1848289,
+      "starCount" : 0,
+      "version" : "0.2.39",
+      "versionDate" : "2021-09-22T20:29:43Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Faraday-Page",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.55/Faraday-Page-macOS.zip",
+      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.55/Faraday-Page.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Isolated Browsing Environments",
+      "name" : "Faraday Page",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "2ad54231558ed9b565724a2d84df713a8f37e7855dc3e34203a394b415d3d25f",
+      "size" : 2201231,
+      "starCount" : 0,
+      "version" : "0.3.55",
+      "versionDate" : "2021-09-22T20:29:39Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Fair-Skies",
       "categories" : [
         "public.app-category.weather"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.49/Fair-Skies-macOS.zip",
       "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.49/Fair-Skies.png",
       "issueCount" : 0,
@@ -32,7 +82,7 @@
         "public.app-category.reference"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.47/Encyclopedia-Galactica-macOS.zip",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.47/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -57,7 +107,7 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.43/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.43/Cloud-Cuckoo.png",
       "issueCount" : 0,

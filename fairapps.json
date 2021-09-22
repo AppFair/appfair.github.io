@@ -74,31 +74,6 @@
       "versionDate" : "2021-09-22T17:00:39Z",
       "versionDescription" : "",
       "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cookie-Time",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.36/Cookie-Time-macOS.zip",
-      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.36/Cookie-Time.png",
-      "issueCount" : 0,
-      "localizedDescription" : "For fans of cookies!",
-      "name" : "Cookie Time",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "ad8fe1c2bdd7ab40fecfc965a6e9763adbefc1d5d72ffdbabfb09c37a4f50380",
-      "size" : 1496730,
-      "starCount" : 0,
-      "version" : "0.0.36",
-      "versionDate" : "2021-09-22T17:00:34Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
     }
   ],
   "identifier" : "appfair",

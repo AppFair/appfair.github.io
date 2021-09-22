@@ -2,25 +2,51 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
+      "bundleIdentifier" : "app.Photo-Box",
       "categories" : [
-        "public.app-category.utilities"
+        "public.app-category.photography"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.39/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.39/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.60/Photo-Box-macOS.zip",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.60/Photo-Box.png",
       "issueCount" : 0,
-      "localizedDescription" : "The App Fair catalog browser app",
-      "name" : "App Fair",
+      "localizedDescription" : "Your Photos: Private & Safe",
+      "name" : "Photo Box",
+      "permissions" : 536870916,
       "screenshotURLs" : [
 
       ],
-      "sha256" : "741c6ef43559f4cdfb13785f838cb3bceb772f55e5f6a0f8487ad1de15e67141",
-      "size" : 1829162,
+      "sha256" : "6a2103ea39020f752385636f8fb1b59a3c69478a470f68c341d57029127a8562",
+      "size" : 2010060,
       "starCount" : 0,
-      "version" : "0.6.39",
-      "versionDate" : "2021-09-22T16:50:09Z",
+      "version" : "0.3.60",
+      "versionDate" : "2021-09-22T17:00:12Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Yankee-Swap",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.66/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.66/Yankee-Swap.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Most anything under the Sun",
+      "name" : "Yankee Swap",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "cd60a4a385a07529a1cbb8b37c32f3b56aed93b9900e218c9ce82a76569049e8",
+      "size" : 1498786,
+      "starCount" : 0,
+      "version" : "0.1.66",
+      "versionDate" : "2021-09-22T17:00:06Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

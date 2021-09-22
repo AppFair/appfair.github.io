@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Mark-Island",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Mark-Island/App/releases/download/0.2.38/Mark-Island-macOS.zip",
+      "iconURL" : "https://github.com/Mark-Island/App/releases/download/0.2.38/Mark-Island.png",
+      "issueCount" : 0,
+      "localizedDescription" : "CommonMark Editor for macOS",
+      "name" : "Mark Island",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "4060072a1c24f7752cf27a93641d9a485b28e3d01ac7f99b2f943ba213c0e8ad",
+      "size" : 1848288,
+      "starCount" : 0,
+      "version" : "0.2.38",
+      "versionDate" : "2021-09-22T18:42:03Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Faraday-Page",
       "categories" : [
         "public.app-category.developer-tools"

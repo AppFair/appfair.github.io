@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Faraday-Page",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.53/Faraday-Page-macOS.zip",
+      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.53/Faraday-Page.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Isolated Browsing Environments",
+      "name" : "Faraday Page",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "6c70690022b3b040342c86b3f278d546af9709df2ed0d3abd3225b35829d3577",
+      "size" : 2188254,
+      "starCount" : 0,
+      "version" : "0.3.53",
+      "versionDate" : "2021-09-22T17:00:52Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Fair-Skies",
       "categories" : [
         "public.app-category.weather"
@@ -27,31 +52,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.45/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.45/Encyclopedia-Galactica.png",
-      "issueCount" : 0,
-      "localizedDescription" : "E.G.: all the knowledge of a Galactic Empire",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "85b386ce9e610d286a8709c2ed457ee6578e9d37f57991ac91da187d48f7fb37",
-      "size" : 1514430,
-      "starCount" : 0,
-      "version" : "0.3.45",
-      "versionDate" : "2021-09-22T17:00:43Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
@@ -72,81 +72,6 @@
       "starCount" : 0,
       "version" : "0.8.41",
       "versionDate" : "2021-09-22T17:00:39Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cookie-Time",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.36/Cookie-Time-macOS.zip",
-      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.36/Cookie-Time.png",
-      "issueCount" : 0,
-      "localizedDescription" : "For fans of cookies!",
-      "name" : "Cookie Time",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "ad8fe1c2bdd7ab40fecfc965a6e9763adbefc1d5d72ffdbabfb09c37a4f50380",
-      "size" : 1496730,
-      "starCount" : 0,
-      "version" : "0.0.36",
-      "versionDate" : "2021-09-22T17:00:34Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.119/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.119/Tune-Out.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Streaming internet radio without intrusion",
-      "name" : "Tune Out",
-      "permissions" : 536870924,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "d1f7faa7f3483994969e8ba616bd807f868f68d641d0ca401a098ab70867f14d",
-      "size" : 1563855,
-      "starCount" : 0,
-      "version" : "0.8.119",
-      "versionDate" : "2021-09-22T17:00:30Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tattle-Tale",
-      "categories" : [
-        "public.app-category.entertainment"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.34/Tattle-Tale-macOS.zip",
-      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.34/Tattle-Tale.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A tale told by an idiot signifying nothing",
-      "name" : "Tattle Tale",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "7b26a858d1966621914667e89f9e8def86fc5738d072e8f6f28fdaaf756bb76e",
-      "size" : 1492399,
-      "starCount" : 0,
-      "version" : "0.3.34",
-      "versionDate" : "2021-09-22T17:00:25Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

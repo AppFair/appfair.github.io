@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.46/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.46/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "E.G.: all the knowledge of a Galactic Empire",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "d35ebced5569d2eac4b0c0c25f7218e0ad5580d517b1e31e24ade30e4e088b4b",
+      "size" : 1527316,
+      "starCount" : 0,
+      "version" : "0.3.46",
+      "versionDate" : "2021-09-22T18:41:50Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"

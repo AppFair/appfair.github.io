@@ -2,12 +2,37 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Cookie-Time",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.39/Cookie-Time-macOS.zip",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.39/Cookie-Time.png",
+      "issueCount" : 0,
+      "localizedDescription" : "For fans of cookies!",
+      "name" : "Cookie Time",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "fef264b96dbc75e0cb33de60f64497d2f7e4aa6509e074fed2715ec0afd4caac",
+      "size" : 1509624,
+      "starCount" : 0,
+      "version" : "0.0.39",
+      "versionDate" : "2021-09-22T22:33:15Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.122/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.122/Tune-Out.png",
       "issueCount" : 0,
@@ -32,7 +57,7 @@
         "public.app-category.entertainment"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.37/Tattle-Tale-macOS.zip",
       "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.37/Tattle-Tale.png",
       "issueCount" : 0,

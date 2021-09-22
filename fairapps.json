@@ -2,12 +2,37 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Tattle-Tale",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.37/Tattle-Tale-macOS.zip",
+      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.37/Tattle-Tale.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A tale told by an idiot signifying nothing",
+      "name" : "Tattle Tale",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "d05c230f361da2baefa6b3bcacb6055b87419490a40c935876781ceaaff8e957",
+      "size" : 1505281,
+      "starCount" : 0,
+      "version" : "0.3.37",
+      "versionDate" : "2021-09-22T22:33:06Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Net-Hack",
       "categories" : [
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.15/Net-Hack-macOS.zip",
       "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.15/Net-Hack.png",
       "issueCount" : 0,

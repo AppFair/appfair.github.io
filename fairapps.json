@@ -2,6 +2,56 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.42/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.42/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A zany game filled with fun and delight!",
+      "name" : "Cloud Cuckoo",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "18da8f2768a6e1cb86cac62985d5b920505f6632933d2912495838976068b0eb",
+      "size" : 1535965,
+      "starCount" : 0,
+      "version" : "0.8.42",
+      "versionDate" : "2021-09-22T18:41:46Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cookie-Time",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.37/Cookie-Time-macOS.zip",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.37/Cookie-Time.png",
+      "issueCount" : 0,
+      "localizedDescription" : "For fans of cookies!",
+      "name" : "Cookie Time",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "281fc81a519269a8c53ba4bd81c5927df94cb41c39387a34fc76bc86890cfe9f",
+      "size" : 1509624,
+      "starCount" : 0,
+      "version" : "0.0.37",
+      "versionDate" : "2021-09-22T18:41:41Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

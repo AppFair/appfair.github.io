@@ -2,6 +2,98 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Photo-Box",
+      "categories" : [
+        "public.app-category.photography"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.56/Photo-Box-macOS.zip",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.56/Photo-Box.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Your Photos: Private & Safe",
+      "name" : "Photo Box",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1898787,
+      "starCount" : 0,
+      "version" : "0.3.56",
+      "versionDate" : "2021-09-21T13:45:08Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Photo-Box",
+      "categories" : [
+        "public.app-category.photography"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.56/Photo-Box-iOS.ipa",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.56/Photo-Box.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Your Photos: Private & Safe",
+      "name" : "Photo Box",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 5078426,
+      "starCount" : 0,
+      "version" : "0.3.56",
+      "versionDate" : "2021-09-21T13:45:08Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cookie-Time",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.28/Cookie-Time-macOS.zip",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.28/Cookie-Time.png",
+      "issueCount" : 0,
+      "localizedDescription" : "For fans of cookies!",
+      "name" : "Cookie Time",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 1387573,
+      "starCount" : 0,
+      "version" : "0.0.28",
+      "versionDate" : "2021-09-22T05:40:48Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cookie-Time",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.28/Cookie-Time-iOS.ipa",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.28/Cookie-Time.png",
+      "issueCount" : 0,
+      "localizedDescription" : "For fans of cookies!",
+      "name" : "Cookie Time",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 3551220,
+      "starCount" : 0,
+      "version" : "0.0.28",
+      "versionDate" : "2021-09-22T05:40:48Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Mark-Island",
       "categories" : [
         "public.app-category.utilities"
@@ -232,52 +324,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Cookie-Time",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.27/Cookie-Time-macOS.zip",
-      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.27/Cookie-Time.png",
-      "issueCount" : 0,
-      "localizedDescription" : "For fans of cookies!",
-      "name" : "Cookie Time",
-      "screenshotURLs" : [
-
-      ],
-      "size" : 1387568,
-      "starCount" : 0,
-      "version" : "0.0.27",
-      "versionDate" : "2021-09-21T13:45:33Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cookie-Time",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.27/Cookie-Time-iOS.ipa",
-      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.27/Cookie-Time.png",
-      "issueCount" : 0,
-      "localizedDescription" : "For fans of cookies!",
-      "name" : "Cookie Time",
-      "screenshotURLs" : [
-
-      ],
-      "size" : 3551226,
-      "starCount" : 0,
-      "version" : "0.0.27",
-      "versionDate" : "2021-09-21T13:45:33Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
@@ -457,52 +503,6 @@
       "starCount" : 0,
       "version" : "0.0.11",
       "versionDate" : "2021-09-21T13:45:15Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Photo-Box",
-      "categories" : [
-        "public.app-category.photography"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.56/Photo-Box-macOS.zip",
-      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.56/Photo-Box.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Your Photos: Private & Safe",
-      "name" : "Photo Box",
-      "screenshotURLs" : [
-
-      ],
-      "size" : 1898787,
-      "starCount" : 0,
-      "version" : "0.3.56",
-      "versionDate" : "2021-09-21T13:45:08Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Photo-Box",
-      "categories" : [
-        "public.app-category.photography"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.56/Photo-Box-iOS.ipa",
-      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.56/Photo-Box.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Your Photos: Private & Safe",
-      "name" : "Photo Box",
-      "screenshotURLs" : [
-
-      ],
-      "size" : 5078426,
-      "starCount" : 0,
-      "version" : "0.3.56",
-      "versionDate" : "2021-09-21T13:45:08Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

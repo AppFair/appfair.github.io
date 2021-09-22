@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.121/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.121/Tune-Out.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Streaming internet radio without intrusion",
+      "name" : "Tune Out",
+      "permissions" : 536870924,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "38536607035bc8365ca76af9dfa1e9a7de1898d9dcfcb00d5eb57fd9c1529b08",
+      "size" : 1574642,
+      "starCount" : 0,
+      "version" : "0.8.121",
+      "versionDate" : "2021-09-22T20:29:15Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tattle-Tale",
       "categories" : [
         "public.app-category.entertainment"
@@ -57,7 +82,7 @@
         "public.app-category.photography"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.62/Photo-Box-macOS.zip",
       "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.62/Photo-Box.png",
       "issueCount" : 0,
@@ -82,7 +107,7 @@
         "public.app-category.business"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.68/Yankee-Swap-macOS.zip",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.68/Yankee-Swap.png",
       "issueCount" : 0,

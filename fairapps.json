@@ -32,9 +32,9 @@
         "public.app-category.developer-tools"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.58/Faraday-Page-macOS.zip",
-      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.58/Faraday-Page.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.59/Faraday-Page-macOS.zip",
+      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.59/Faraday-Page.png",
       "issueCount" : 0,
       "localizedDescription" : "Isolated Browsing Environments",
       "name" : "Faraday Page",
@@ -42,11 +42,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "606c7536c768579c050cacd8c4face9becaf2ad2ce62d25847b5a30cb9d56759",
-      "size" : 2193224,
+      "sha256" : "234a612e06b09eb3b13284256629c5e0f2b60c454e5b268761141b83f3f02d55",
+      "size" : 2193242,
       "starCount" : 0,
-      "version" : "0.3.58",
-      "versionDate" : "2021-09-23T04:33:46Z",
+      "version" : "0.3.59",
+      "versionDate" : "2021-09-23T11:18:13Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -57,9 +57,9 @@
         "public.app-category.weather"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.52/Fair-Skies-macOS.zip",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.52/Fair-Skies.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.53/Fair-Skies-macOS.zip",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.53/Fair-Skies.png",
       "issueCount" : 0,
       "localizedDescription" : "Detailed weather",
       "name" : "Fair Skies",
@@ -67,11 +67,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c3abf48029ec55b8ee4d2bd8b57f500bd82440d325c4260165d8837f450b96f2",
-      "size" : 1495786,
+      "sha256" : "145547eefcc38286a3743b3bf49b1aba4b2beda63a19b6cf812f4604bddd48bd",
+      "size" : 1495751,
       "starCount" : 0,
-      "version" : "0.3.52",
-      "versionDate" : "2021-09-23T04:33:41Z",
+      "version" : "0.3.53",
+      "versionDate" : "2021-09-23T11:18:09Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -107,7 +107,7 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.47/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.47/Cloud-Cuckoo.png",
       "issueCount" : 0,

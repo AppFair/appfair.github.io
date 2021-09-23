@@ -107,9 +107,9 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.47/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.47/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A zany game filled with fun and delight!",
       "name" : "Cloud Cuckoo",
@@ -117,11 +117,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "24b82cf614cdaea67dcc3c483f3b394309ca11e43651a295cd0abd6c8b13ac1e",
-      "size" : 1528615,
+      "sha256" : "8b0d4ad9d860a8f4e8821a801e455dc82d5b42abd06eda5f1e6b89eb560ccde9",
+      "size" : 1528480,
       "starCount" : 0,
-      "version" : "0.8.46",
-      "versionDate" : "2021-09-23T04:33:33Z",
+      "version" : "0.8.47",
+      "versionDate" : "2021-09-23T11:18:00Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -82,9 +82,9 @@
         "public.app-category.reference"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.49/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.49/Encyclopedia-Galactica.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.50/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.50/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "E.G.: all the knowledge of a Galactic Empire",
       "name" : "Encyclopedia Galactica",
@@ -92,11 +92,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "663337eef5d92effd4e53d25d54a03501f5f56ff85e78697a9f8afe2046a3dfb",
-      "size" : 1518858,
+      "sha256" : "8aa149a62a8a708d0ba89c92d7aba31bf464369812a68beedcb37ef765e0fbb8",
+      "size" : 1519116,
       "starCount" : 0,
-      "version" : "0.3.49",
-      "versionDate" : "2021-09-23T03:43:38Z",
+      "version" : "0.3.50",
+      "versionDate" : "2021-09-23T04:33:37Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -157,7 +157,7 @@
         "public.app-category.music"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.124/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.124/Tune-Out.png",
       "issueCount" : 0,

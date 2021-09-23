@@ -232,9 +232,9 @@
         "public.app-category.photography"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.64/Photo-Box-macOS.zip",
-      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.64/Photo-Box.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.65/Photo-Box-macOS.zip",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.65/Photo-Box.png",
       "issueCount" : 0,
       "localizedDescription" : "Your Photos: Private & Safe",
       "name" : "Photo Box",
@@ -242,11 +242,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "0ef7c3aef3d9e06e06a5730785a362c212b473d675f8ddb5f6cac07899997619",
-      "size" : 2014521,
+      "sha256" : "3f7e441e19edeb253061bf8430ccdda23a6f2df3ab31f3403f9438ce43b96631",
+      "size" : 2014658,
       "starCount" : 0,
-      "version" : "0.3.64",
-      "versionDate" : "2021-09-23T03:43:11Z",
+      "version" : "0.3.65",
+      "versionDate" : "2021-09-23T04:33:11Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -257,9 +257,9 @@
         "public.app-category.business"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.70/Yankee-Swap-macOS.zip",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.70/Yankee-Swap.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.71/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.71/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Most anything under the Sun",
       "name" : "Yankee Swap",
@@ -267,11 +267,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "27fe3641ec6c74b96a8f702669bd22a77708d390c773c494f2d79e790bcbd691",
-      "size" : 1503216,
+      "sha256" : "fa1711e7b40e0eed9cb4fbfd974fa44fbf854a33905a16cb4fad9306d4222dd0",
+      "size" : 1503470,
       "starCount" : 0,
-      "version" : "0.1.70",
-      "versionDate" : "2021-09-23T03:43:07Z",
+      "version" : "0.1.71",
+      "versionDate" : "2021-09-23T04:33:07Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

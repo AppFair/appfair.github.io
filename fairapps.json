@@ -257,9 +257,9 @@
         "public.app-category.business"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.71/Yankee-Swap-macOS.zip",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.71/Yankee-Swap.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.72/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.72/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Most anything under the Sun",
       "name" : "Yankee Swap",
@@ -267,11 +267,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "fa1711e7b40e0eed9cb4fbfd974fa44fbf854a33905a16cb4fad9306d4222dd0",
-      "size" : 1503470,
+      "sha256" : "b6304286c44e161574380cc072c20554a181b23e7c021e01124dfa4ab5c98876",
+      "size" : 1503435,
       "starCount" : 0,
-      "version" : "0.1.71",
-      "versionDate" : "2021-09-23T04:33:07Z",
+      "version" : "0.1.72",
+      "versionDate" : "2021-09-23T11:17:32Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

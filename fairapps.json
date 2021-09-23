@@ -182,9 +182,9 @@
         "public.app-category.entertainment"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.38/Tattle-Tale-macOS.zip",
-      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.38/Tattle-Tale.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.39/Tattle-Tale-macOS.zip",
+      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.39/Tattle-Tale.png",
       "issueCount" : 0,
       "localizedDescription" : "A tale told by an idiot signifying nothing",
       "name" : "Tattle Tale",
@@ -192,11 +192,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "2448f3199513f1d9bef73c2416c713c1949d628dc41833f9ef83d75b4d3b9b59",
-      "size" : 1496825,
+      "sha256" : "657789c04c0de05239b543b47dc4be28edc29ae0148594bd55b450f17bcf980d",
+      "size" : 1497072,
       "starCount" : 0,
-      "version" : "0.3.38",
-      "versionDate" : "2021-09-23T03:43:22Z",
+      "version" : "0.3.39",
+      "versionDate" : "2021-09-23T04:33:22Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -207,9 +207,9 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.16/Net-Hack-macOS.zip",
-      "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.16/Net-Hack.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.17/Net-Hack-macOS.zip",
+      "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.17/Net-Hack.png",
       "issueCount" : 0,
       "localizedDescription" : "Congratulations adventurer!",
       "name" : "Net Hack",
@@ -217,11 +217,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "966fbdf4b4785c43e5b6a9353901bb0ace0ec41465044f789b132128bf19683a",
-      "size" : 1492417,
+      "sha256" : "24c9a3d2df482729cd44cbde4cf210b9eb01456003124732159d072a6ac5e5e9",
+      "size" : 1492754,
       "starCount" : 0,
-      "version" : "0.0.16",
-      "versionDate" : "2021-09-23T03:43:15Z",
+      "version" : "0.0.17",
+      "versionDate" : "2021-09-23T04:33:14Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -257,7 +257,7 @@
         "public.app-category.business"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.71/Yankee-Swap-macOS.zip",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.71/Yankee-Swap.png",
       "issueCount" : 0,

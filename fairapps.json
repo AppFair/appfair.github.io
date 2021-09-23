@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Net-Hack",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.16/Net-Hack-macOS.zip",
+      "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.16/Net-Hack.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Congratulations adventurer!",
+      "name" : "Net Hack",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "966fbdf4b4785c43e5b6a9353901bb0ace0ec41465044f789b132128bf19683a",
+      "size" : 1492417,
+      "starCount" : 0,
+      "version" : "0.0.16",
+      "versionDate" : "2021-09-23T03:43:15Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Photo-Box",
       "categories" : [
         "public.app-category.photography"
@@ -32,7 +57,7 @@
         "public.app-category.business"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.70/Yankee-Swap-macOS.zip",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.70/Yankee-Swap.png",
       "issueCount" : 0,

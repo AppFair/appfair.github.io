@@ -32,9 +32,9 @@
         "public.app-category.developer-tools"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.57/Faraday-Page-macOS.zip",
-      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.57/Faraday-Page.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.58/Faraday-Page-macOS.zip",
+      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.58/Faraday-Page.png",
       "issueCount" : 0,
       "localizedDescription" : "Isolated Browsing Environments",
       "name" : "Faraday Page",
@@ -42,11 +42,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "82f5118199431330b937bc9ca3f7051fff5f795b2c16794225ea30b6515e2d11",
-      "size" : 2193005,
+      "sha256" : "606c7536c768579c050cacd8c4face9becaf2ad2ce62d25847b5a30cb9d56759",
+      "size" : 2193224,
       "starCount" : 0,
-      "version" : "0.3.57",
-      "versionDate" : "2021-09-23T03:43:46Z",
+      "version" : "0.3.58",
+      "versionDate" : "2021-09-23T04:33:46Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -82,7 +82,7 @@
         "public.app-category.reference"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.50/Encyclopedia-Galactica-macOS.zip",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.50/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -107,7 +107,7 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo.png",
       "issueCount" : 0,

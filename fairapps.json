@@ -2,12 +2,87 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+        "public.app-category.weather"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.51/Fair-Skies-macOS.zip",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.51/Fair-Skies.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Detailed weather",
+      "name" : "Fair Skies",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "f5a3bea89254d27aba38b2e2f3623ebcf9c4d725940eb8af1ba3af3f2ce59e34",
+      "size" : 1495532,
+      "starCount" : 0,
+      "version" : "0.3.51",
+      "versionDate" : "2021-09-23T03:43:42Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.49/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.49/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "E.G.: all the knowledge of a Galactic Empire",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "663337eef5d92effd4e53d25d54a03501f5f56ff85e78697a9f8afe2046a3dfb",
+      "size" : 1518858,
+      "starCount" : 0,
+      "version" : "0.3.49",
+      "versionDate" : "2021-09-23T03:43:38Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A zany game filled with fun and delight!",
+      "name" : "Cloud Cuckoo",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "d2cb6462e4e4c4951efee440cbab7d0f628fe023644bf62c7ab559149c67ef33",
+      "size" : 1528260,
+      "starCount" : 0,
+      "version" : "0.8.45",
+      "versionDate" : "2021-09-23T03:43:34Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cookie-Time",
       "categories" : [
 
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.40/Cookie-Time-macOS.zip",
       "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.40/Cookie-Time.png",
       "issueCount" : 0,
@@ -32,7 +107,7 @@
         "public.app-category.music"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.123/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.123/Tune-Out.png",
       "issueCount" : 0,
@@ -57,7 +132,7 @@
         "public.app-category.entertainment"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.38/Tattle-Tale-macOS.zip",
       "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.38/Tattle-Tale.png",
       "issueCount" : 0,

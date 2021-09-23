@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Tattle-Tale",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.38/Tattle-Tale-macOS.zip",
+      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.38/Tattle-Tale.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A tale told by an idiot signifying nothing",
+      "name" : "Tattle Tale",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "2448f3199513f1d9bef73c2416c713c1949d628dc41833f9ef83d75b4d3b9b59",
+      "size" : 1496825,
+      "starCount" : 0,
+      "version" : "0.3.38",
+      "versionDate" : "2021-09-23T03:43:22Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Net-Hack",
       "categories" : [
         "public.app-category.games"

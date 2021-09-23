@@ -7,9 +7,9 @@
         "public.app-category.utilities"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Mark-Island/App/releases/download/0.2.41/Mark-Island-macOS.zip",
-      "iconURL" : "https://github.com/Mark-Island/App/releases/download/0.2.41/Mark-Island.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Mark-Island/App/releases/download/0.2.42/Mark-Island-macOS.zip",
+      "iconURL" : "https://github.com/Mark-Island/App/releases/download/0.2.42/Mark-Island.png",
       "issueCount" : 0,
       "localizedDescription" : "CommonMark Editor for macOS",
       "name" : "Mark Island",
@@ -17,11 +17,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "48437a897d295065e1c41b3ea031a8390dd4d348d0aae069fc59613e5a96ce10",
-      "size" : 1840325,
+      "sha256" : "64bf885c3021159e117e3af9dd6ecabe10ab0a0d28ae4662d615fba129ed8833",
+      "size" : 1840657,
       "starCount" : 0,
-      "version" : "0.2.41",
-      "versionDate" : "2021-09-23T03:43:50Z",
+      "version" : "0.2.42",
+      "versionDate" : "2021-09-23T04:33:49Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -57,7 +57,7 @@
         "public.app-category.weather"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.52/Fair-Skies-macOS.zip",
       "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.52/Fair-Skies.png",
       "issueCount" : 0,

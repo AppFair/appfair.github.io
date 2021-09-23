@@ -107,9 +107,9 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A zany game filled with fun and delight!",
       "name" : "Cloud Cuckoo",
@@ -117,11 +117,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "d2cb6462e4e4c4951efee440cbab7d0f628fe023644bf62c7ab559149c67ef33",
-      "size" : 1528260,
+      "sha256" : "24b82cf614cdaea67dcc3c483f3b394309ca11e43651a295cd0abd6c8b13ac1e",
+      "size" : 1528615,
       "starCount" : 0,
-      "version" : "0.8.45",
-      "versionDate" : "2021-09-23T03:43:34Z",
+      "version" : "0.8.46",
+      "versionDate" : "2021-09-23T04:33:33Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -132,9 +132,9 @@
 
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.40/Cookie-Time-macOS.zip",
-      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.40/Cookie-Time.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.41/Cookie-Time-macOS.zip",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.41/Cookie-Time.png",
       "issueCount" : 0,
       "localizedDescription" : "For fans of cookies!",
       "name" : "Cookie Time",
@@ -142,11 +142,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8badfe487186535ac015b7a5c972ae2546870f4d5391c57bcd282e538d5a77f0",
-      "size" : 1500960,
+      "sha256" : "a6c2b3af853b0fc9f470cda826fd56d0bb385a606388a52c4c47a8d29a9b8e3c",
+      "size" : 1501317,
       "starCount" : 0,
-      "version" : "0.0.40",
-      "versionDate" : "2021-09-23T03:43:30Z",
+      "version" : "0.0.41",
+      "versionDate" : "2021-09-23T04:33:29Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -182,7 +182,7 @@
         "public.app-category.entertainment"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.39/Tattle-Tale-macOS.zip",
       "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.39/Tattle-Tale.png",
       "issueCount" : 0,
@@ -207,7 +207,7 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.17/Net-Hack-macOS.zip",
       "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.17/Net-Hack.png",
       "issueCount" : 0,

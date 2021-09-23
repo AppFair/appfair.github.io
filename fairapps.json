@@ -57,9 +57,9 @@
         "public.app-category.weather"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.51/Fair-Skies-macOS.zip",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.51/Fair-Skies.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.52/Fair-Skies-macOS.zip",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.52/Fair-Skies.png",
       "issueCount" : 0,
       "localizedDescription" : "Detailed weather",
       "name" : "Fair Skies",
@@ -67,11 +67,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f5a3bea89254d27aba38b2e2f3623ebcf9c4d725940eb8af1ba3af3f2ce59e34",
-      "size" : 1495532,
+      "sha256" : "c3abf48029ec55b8ee4d2bd8b57f500bd82440d325c4260165d8837f450b96f2",
+      "size" : 1495786,
       "starCount" : 0,
-      "version" : "0.3.51",
-      "versionDate" : "2021-09-23T03:43:42Z",
+      "version" : "0.3.52",
+      "versionDate" : "2021-09-23T04:33:41Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -132,7 +132,7 @@
 
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.41/Cookie-Time-macOS.zip",
       "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.41/Cookie-Time.png",
       "issueCount" : 0,

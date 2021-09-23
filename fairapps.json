@@ -2,26 +2,26 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Faraday-Page",
+      "bundleIdentifier" : "app.Photo-Box",
       "categories" : [
-        "public.app-category.developer-tools"
+        "public.app-category.photography"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.56/Faraday-Page-macOS.zip",
-      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.56/Faraday-Page.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.64/Photo-Box-macOS.zip",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.64/Photo-Box.png",
       "issueCount" : 0,
-      "localizedDescription" : "Isolated Browsing Environments",
-      "name" : "Faraday Page",
+      "localizedDescription" : "Your Photos: Private & Safe",
+      "name" : "Photo Box",
       "permissions" : 536870916,
       "screenshotURLs" : [
 
       ],
-      "sha256" : "3ca5068c6b4adc7afa75f13aab613e682f4093f9f6baa5d6e4380b9aadd12a32",
-      "size" : 2201229,
+      "sha256" : "0ef7c3aef3d9e06e06a5730785a362c212b473d675f8ddb5f6cac07899997619",
+      "size" : 2014521,
       "starCount" : 0,
-      "version" : "0.3.56",
-      "versionDate" : "2021-09-22T22:33:30Z",
+      "version" : "0.3.64",
+      "versionDate" : "2021-09-23T03:43:11Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

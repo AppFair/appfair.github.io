@@ -82,9 +82,9 @@
         "public.app-category.reference"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.50/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.50/Encyclopedia-Galactica.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.51/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.51/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "E.G.: all the knowledge of a Galactic Empire",
       "name" : "Encyclopedia Galactica",
@@ -92,11 +92,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8aa149a62a8a708d0ba89c92d7aba31bf464369812a68beedcb37ef765e0fbb8",
-      "size" : 1519116,
+      "sha256" : "e12b6d56529676a8ea197ca80e8ac6fa26fc495f35336a7bbd895eb53b8692a1",
+      "size" : 1519082,
       "starCount" : 0,
-      "version" : "0.3.50",
-      "versionDate" : "2021-09-23T04:33:37Z",
+      "version" : "0.3.51",
+      "versionDate" : "2021-09-23T11:18:05Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -132,7 +132,7 @@
 
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.42/Cookie-Time-macOS.zip",
       "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.42/Cookie-Time.png",
       "issueCount" : 0,

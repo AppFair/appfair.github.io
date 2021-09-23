@@ -132,9 +132,9 @@
 
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.41/Cookie-Time-macOS.zip",
-      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.41/Cookie-Time.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.42/Cookie-Time-macOS.zip",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.42/Cookie-Time.png",
       "issueCount" : 0,
       "localizedDescription" : "For fans of cookies!",
       "name" : "Cookie Time",
@@ -142,11 +142,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a6c2b3af853b0fc9f470cda826fd56d0bb385a606388a52c4c47a8d29a9b8e3c",
-      "size" : 1501317,
+      "sha256" : "97e76a1cd59a4ea64f6e62fd7abcffa8c085ecf36c3165afe8a9af74f0477ce4",
+      "size" : 1501245,
       "starCount" : 0,
-      "version" : "0.0.41",
-      "versionDate" : "2021-09-23T04:33:29Z",
+      "version" : "0.0.42",
+      "versionDate" : "2021-09-23T11:17:56Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -157,9 +157,9 @@
         "public.app-category.music"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.124/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.124/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.125/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.125/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Streaming internet radio without intrusion",
       "name" : "Tune Out",
@@ -167,11 +167,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "6ff6f5fe0d7842193ff027a2c1a52ff354ed5f654284fd0f17ff9433fc60b1f9",
-      "size" : 1568353,
+      "sha256" : "6eba1f6bff1ef02a2a348aea2cdbcc47eca2ab3939d73f22849985c7617b2527",
+      "size" : 1568211,
       "starCount" : 0,
-      "version" : "0.8.124",
-      "versionDate" : "2021-09-23T04:33:26Z",
+      "version" : "0.8.125",
+      "versionDate" : "2021-09-23T11:17:52Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -182,7 +182,7 @@
         "public.app-category.entertainment"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale-macOS.zip",
       "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale.png",
       "issueCount" : 0,
@@ -207,7 +207,7 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.18/Net-Hack-macOS.zip",
       "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.18/Net-Hack.png",
       "issueCount" : 0,
@@ -232,7 +232,7 @@
         "public.app-category.photography"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.66/Photo-Box-macOS.zip",
       "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.66/Photo-Box.png",
       "issueCount" : 0,

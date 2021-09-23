@@ -182,9 +182,9 @@
         "public.app-category.entertainment"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.39/Tattle-Tale-macOS.zip",
-      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.39/Tattle-Tale.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale-macOS.zip",
+      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale.png",
       "issueCount" : 0,
       "localizedDescription" : "A tale told by an idiot signifying nothing",
       "name" : "Tattle Tale",
@@ -192,11 +192,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "657789c04c0de05239b543b47dc4be28edc29ae0148594bd55b450f17bcf980d",
-      "size" : 1497072,
+      "sha256" : "02b4b45bcd1e98e5a18ef3237fba0b932f567f556b0974d1c9d013c3d5f15d45",
+      "size" : 1497037,
       "starCount" : 0,
-      "version" : "0.3.39",
-      "versionDate" : "2021-09-23T04:33:22Z",
+      "version" : "0.3.40",
+      "versionDate" : "2021-09-23T11:17:48Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -207,9 +207,9 @@
         "public.app-category.games"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.17/Net-Hack-macOS.zip",
-      "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.17/Net-Hack.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.18/Net-Hack-macOS.zip",
+      "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.18/Net-Hack.png",
       "issueCount" : 0,
       "localizedDescription" : "Congratulations adventurer!",
       "name" : "Net Hack",
@@ -217,11 +217,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "24c9a3d2df482729cd44cbde4cf210b9eb01456003124732159d072a6ac5e5e9",
-      "size" : 1492754,
+      "sha256" : "88d8defe57b501575533cae323afe4f71dbc207a81c7f8b14d82c8b703e896cf",
+      "size" : 1492791,
       "starCount" : 0,
-      "version" : "0.0.17",
-      "versionDate" : "2021-09-23T04:33:14Z",
+      "version" : "0.0.18",
+      "versionDate" : "2021-09-23T11:17:40Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -232,9 +232,9 @@
         "public.app-category.photography"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.65/Photo-Box-macOS.zip",
-      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.65/Photo-Box.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Photo-Box/App/releases/download/0.3.66/Photo-Box-macOS.zip",
+      "iconURL" : "https://github.com/Photo-Box/App/releases/download/0.3.66/Photo-Box.png",
       "issueCount" : 0,
       "localizedDescription" : "Your Photos: Private & Safe",
       "name" : "Photo Box",
@@ -242,11 +242,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "3f7e441e19edeb253061bf8430ccdda23a6f2df3ab31f3403f9438ce43b96631",
-      "size" : 2014658,
+      "sha256" : "9871ccbb0e7d542ca73f76e9dbfd7d62cae612943959ca8684c879aa08a7ef59",
+      "size" : 2014728,
       "starCount" : 0,
-      "version" : "0.3.65",
-      "versionDate" : "2021-09-23T04:33:11Z",
+      "version" : "0.3.66",
+      "versionDate" : "2021-09-23T11:17:36Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -257,7 +257,7 @@
         "public.app-category.business"
       ],
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.72/Yankee-Swap-macOS.zip",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.1.72/Yankee-Swap.png",
       "issueCount" : 0,

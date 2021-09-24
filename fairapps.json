@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Cookie-Time",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.42/Cookie-Time-macOS.zip",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.42/Cookie-Time.png",
+      "issueCount" : 0,
+      "localizedDescription" : "For fans of cookies!",
+      "name" : "Cookie Time",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "97e76a1cd59a4ea64f6e62fd7abcffa8c085ecf36c3165afe8a9af74f0477ce4",
+      "size" : 1501245,
+      "starCount" : 0,
+      "version" : "0.0.42",
+      "versionDate" : "2021-09-23T11:17:56Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Mark-Island",
       "categories" : [
         "public.app-category.utilities"
@@ -122,31 +147,6 @@
       "starCount" : 0,
       "version" : "0.8.47",
       "versionDate" : "2021-09-23T11:18:00Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cookie-Time",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.42/Cookie-Time-macOS.zip",
-      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.42/Cookie-Time.png",
-      "issueCount" : 0,
-      "localizedDescription" : "For fans of cookies!",
-      "name" : "Cookie Time",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "97e76a1cd59a4ea64f6e62fd7abcffa8c085ecf36c3165afe8a9af74f0477ce4",
-      "size" : 1501245,
-      "starCount" : 0,
-      "version" : "0.0.42",
-      "versionDate" : "2021-09-23T11:17:56Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -2,6 +2,31 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.125/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.125/Tune-Out.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Streaming internet radio without intrusion",
+      "name" : "Tune Out",
+      "permissions" : 536870924,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "6eba1f6bff1ef02a2a348aea2cdbcc47eca2ab3939d73f22849985c7617b2527",
+      "size" : 1568211,
+      "starCount" : 0,
+      "version" : "0.8.125",
+      "versionDate" : "2021-09-23T11:17:52Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Mark-Island",
       "categories" : [
         "public.app-category.utilities"
@@ -147,31 +172,6 @@
       "starCount" : 0,
       "version" : "0.0.42",
       "versionDate" : "2021-09-23T11:17:56Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.125/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.125/Tune-Out.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Streaming internet radio without intrusion",
-      "name" : "Tune Out",
-      "permissions" : 536870924,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "6eba1f6bff1ef02a2a348aea2cdbcc47eca2ab3939d73f22849985c7617b2527",
-      "size" : 1568211,
-      "starCount" : 0,
-      "version" : "0.8.125",
-      "versionDate" : "2021-09-23T11:17:52Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

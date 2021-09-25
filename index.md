@@ -62,14 +62,14 @@ Apps are built, validated, and distributed using GitHub's free actions for open-
 
 The "fair-ground" is the name for the autonomous cataloging service that acts as the reference for app distribution. It handles organization verification, app build validation, and cataloging of all the verified apps.
 The "App Fair" is one instance of a fair-ground, and is implemented as a set of GitHub repositories, actions, and policies for cataloging the build artifacts of the app forks.
-The configuration for the App Fair is defined primarily in the [appfair/App.git](https://github.com/appfair/App.git) repository, which additionally acts as the base repository to be forked by app developers.
+The configuration for the App Fair is defined primarily in the [appfair/App.git](https://appfair.org/App.git) repository, which additionally acts as the base repository to be forked by app developers.
 
 ### Introduction: the F-A/I-R process
 
 <img align="left" width="450" alt="Diagram of the App Fair process" src="assets/fairground.svg" />
 
 "Fork-Apply/Integrate-Release" (F-A/I-R) describes the stages of creating, developing, building, and distributing an app.
-The "Fork" and "Apply" parts are handled by you, the developer: a fork is created from the base [`/appfair/App.git`](https://github.com/appfair/App.git) repository, and in that fork you develop your app.
+The "Fork" and "Apply" parts are handled by you, the developer: a fork is created from the base [`/appfair/App.git`](https://appfair.org/App.git) repository, and in that fork you develop your app.
 Once you enable GitHub actions for your fork, your app will be automatically built and released whenever you push a semantic version tag to your fork's repository.
 Since this fork is completely under the control of the developer, the fork is considered "untrusted", in that the app binary artifact that is built and released has no security or safety guarantees.
 
@@ -91,8 +91,8 @@ Once the fairseal has been generated for the app, it will be available for brows
 ### Fair app development
 
 From an App developer standpoint, an App Fair app is a Swift application that is defined by a Swift Package Manager `Package.swift` file, and that uses of two source code repositories: *Fair.git* and *App.git*:
- - [https://github.com/appfair/App.git](https://github.com/appfair/App.git) is the repository that is forked to create a new  App Fair app; PRs submitted to this repository are automatically built and released to the **App Fair.app** catalog.
- - [https://appfair.org/Fair.git](https://appfair.org/Fair.git) is the runtime `SwiftUI` library that is included in every App Fair project, and acts as a sandboxed container within which your application is run. The `Fair` library is the only required dependency (and the library itself has no other dependencies) for your app's [https://github.com/appfair/App.git](https://github.com/appfair/App.git) fork.
+ - [https://appfair.org/App.git](https://appfair.org/App.git) is the repository that is forked to create a new  App Fair app; PRs submitted to this repository are automatically built and released to the **App Fair.app** catalog.
+ - [https://appfair.org/Fair.git](https://appfair.org/Fair.git) is the runtime `SwiftUI` library that is included in every App Fair project, and acts as a sandboxed container within which your application is run. The `Fair` library is the only required dependency (and the library itself has no other dependencies) for your app's [https://appfair.org/App.git](https://appfair.org/App.git) fork.
 
 
 ## The Structure of an App Fair app
@@ -111,7 +111,7 @@ Each organization will have a single top-level `/App.git` fork that acts as the 
 
 ### App Repository
 
-Once your organization is set up, you create your `/APP-ORG/App.git` project by forking the [https://github.com/appfair/App.git](https://github.com/appfair/App.git) repository into your new organization name.
+Once your organization is set up, you create your `/APP-ORG/App.git` project by forking the [https://appfair.org/App.git](https://appfair.org/App.git) repository into your new organization name.
 This is a Swift project that contains the shell of a cross-platform `SwiftUI` app that you will use as your starting point.
 
 Your app will exist in a top-level repository named "App"; it must continue to be called "App" since that is how the catalog browser will be able to access your project metadata.
@@ -193,7 +193,7 @@ The [https://appfair.org/Fair.git](https://appfair.org/Fair.git) repository is t
 Fair contains the code for the following aspects of a fair-ground:
 
   1. Managing the fair-ground process (app validation and catalog management) using the `fairtool` executable target running on the fair-ground's build host
-  2. Serving as the canonical source for the contents of the fair-ground's base repository, such as the App Fair's at: [https://github.com/appfair/App.git](https://github.com/appfair/App.git)
+  2. Serving as the canonical source for the contents of the fair-ground's base repository, such as the App Fair's at: [https://appfair.org/App.git](https://appfair.org/App.git)
   3. Acting as the point of entry to an app's launch, thereby providing automatic runtime features such as integration with the fair-ground's catalog management and runtime security checks
 
 All apps distributed through a fair-ground such as the App Fair must include the HEAD of the `Fair` library as their initial dependency.
@@ -208,7 +208,7 @@ Your `/APP-ORG/App.git` fork is pre-configured to request minimal permissions, a
 You may add new entitlements to your `/APP-ORG/App.git` fork's `Sandbox.entitlements` file.
 For each entitlement that is requested, a description of the reason for the entitlement must be added to a `FairUsage` dictionary in the `Info.plist`.
 The description's key should be the same as the key of the entitlement.
-For an example, see the base [Info.plist](https://github.com/appfair/App/blob/main/Info.plist) file.
+For an example, see the base [Info.plist](https://appfair.org/App/blob/main/Info.plist) file.
 
 The presence of the `FairUsage` key is enforced by the `Integration` phase.
 These descriptions should be plain language explaining why the app needs access to the specific permissions.
@@ -303,20 +303,20 @@ This is the only way to ensure that the untrusted fork's release artifacts confo
 
 ## App Fair Catalog Requirements 
 
-The "App Fair" catalog is the list of valid app releases at [appfair/App releases](https://github.com/appfair/App/releases) cross-referenced with the metadata for the `App/` forks: issues, discussions, support info, wikis, project web site, etc.
+The "App Fair" catalog is the list of valid app releases at [appfair/App releases](https://appfair.org/App/releases) cross-referenced with the metadata for the `App/` forks: issues, discussions, support info, wikis, project web site, etc.
 This metadata is accumulated using the public GitHub APIs, and the generation in the catalog is automated.
 It is typically generated after each successful `integrate-release` phase, but the catalog is also re-generated on a scheduled basis to re-validate catalog entires and ensure that only valid entries are included in the list of available apps.
 
 ### Org Requirements
 
 In order for an organization's `/APP-ORG/App.git` project to be visible in the **App Fair.app** catalog, it must be a public organization with at least one public member. 
-The organization must have a repository (or redirection) named "App" (literally), which must be a fork of the [appfair/App.git](https://github.com/appfair/App.git) repository.
+The organization must have a repository (or redirection) named "App" (literally), which must be a fork of the [appfair/App.git](https://appfair.org/App.git) repository.
 In addition, the repository must have issues and discussions enabled, and also must be public and un-archived.
 Finally, the `APP-ORG` organization's public contact must be a valid e-mail address ending in ".edu".
 
 ### Licensing
 
-The [appfair/App.git](https://github.com/appfair/App.git) repository is licensed under the GNU AGPL, which means that all forks of the project are also covered under that license. 
+The [appfair/App.git](https://appfair.org/App.git) repository is licensed under the GNU AGPL, which means that all forks of the project are also covered under that license. 
 If you would like your app's code to be licensed differently, you can create a separate repository (either in the same organization or elsewhere; it merely needs to be publicly available on GitHub) with another license of your choosing, and then reference the project(s) from your `Package.swift` dependencies section. 
 The App/Fair release process doesn't perform any validation of the licenses of any Swift dependencies; it only requires that the license for the forked `/App.git` project itself remain unchanged, and that all the source files that act as inputs to the build process are available for inspection and analysis at the time of building.
 
@@ -349,14 +349,14 @@ An example of a single app entry in the catalog JSON follows.
       "sha256": "348df4eb47f9230bfe89637afe7401bec883424d822257b6cbbce93ee780d992",
       "permissions": 123456,
       "screenshotURLs" : [
-        "https://github.com/appfair/App/releases/download/App-Fair/…"
+        "https://appfair.org/App/releases/download/App-Fair/…"
       ]
     }
   ]
 }
 ```
 
-The catalog is constructed from the list of all the [forks of the appfair/App.git](https://github.com/appfair/App/network/members) who have passed the `integrate-release` phases and have an [artifact for download](https://github.com/appfair/App/releases) and whose organizations are valid (e.g., have a valid app name and have issues and discussions enabled).
+The catalog is constructed from the list of all the [forks of the appfair/App.git](https://appfair.org/App/network/members) who have passed the `integrate-release` phases and have an [artifact for download](https://appfair.org/App/releases) and whose organizations are valid (e.g., have a valid app name and have issues and discussions enabled).
 The catalog creation is completely automatic.
 
 Note that the same app will appear twice if it targets multiple operating systems with different binary artifact formats (e.g., `.zip` and `.ipa`).
@@ -487,7 +487,7 @@ Storing apps in a sub-folder of the standard `/Applications/` folder prevents na
 When **App Fair.app** installs an update to an existing app, it will place the older version in the user's Trash. 
 As long as the trash remains un-emptied, the previous version of the app will continue to be available to drag back into the `/Applications/App Fair/` folder.
 The App Fair catalog itself only references the most recent version of an app, so you must rely on your own backups (or contact the author of the app) for older versions.
-Older releases may additionally be available from the archives saved from the [appfair/App/actions](https://github.com/appfair/App/actions) history; these are typically available for a short time after the release has been created. 
+Older releases may additionally be available from the archives saved from the [appfair/App/actions](https://appfair.org/App/actions) history; these are typically available for a short time after the release has been created. 
 
 ### How can a user delete an app installed with the **App Fair.app** catalog?
 
@@ -521,12 +521,12 @@ Fluency with git will be important for managing your app's lifecycle.
 
 ### Can I develop an App Fair app with a non-`.edu` academic e-mail address?
 
-While anyone is free to fork the App Fair's [base repository](https://github.com/appfair/App.git), the fair-ground enforces that the committer of the `integrate` PR has an associated academic e-mail address before it will validate the app and publish a `fairseal`, which is a prerequisite for the app to appear in the App Fair catalog.
+While anyone is free to fork the App Fair's [base repository](https://appfair.org/App.git), the fair-ground enforces that the committer of the `integrate` PR has an associated academic e-mail address before it will validate the app and publish a `fairseal`, which is a prerequisite for the app to appear in the App Fair catalog.
 These addresses are currently restricted to academic `.edu` addresses.
 
 ### How do I fork the `appfair/App.git` repository?
 
-Once you have set up your free `APP-ORG` organization that will represent the app, you can fork the repository by going to [https://github.com/appfair/App/fork](https://github.com/appfair/App/fork).
+Once you have set up your free `APP-ORG` organization that will represent the app, you can fork the repository by going to [https://appfair.org/App/fork](https://appfair.org/App/fork).
 See the GitHub documentation: [Fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 ### Can I customize my app's icon?
@@ -718,7 +718,7 @@ No. Only macOS and iOS builds are currently supported.
 ### Can I use App Fair release artifacts with other distribution channels?
 
 The binaries created by the `integrate-release` phase are standard `.zip` and `.ipa` archives and should be suitable for distributing via any compatible app distribution mechanism.
-The release artifacts at [appfair/App releases](https://github.com/appfair/App/releases) are not restricted in how they are distributed or used.
+The release artifacts at [appfair/App releases](https://appfair.org/App/releases) are not restricted in how they are distributed or used.
 
 ### Which native frameworks will my app be able to use?
 
@@ -763,7 +763,7 @@ Any changes in entitlements or other security features will require explicit con
 ### Can I have multiple versions of an app released simultaneously?
 
 No.
-There is only ever a single active version of your app that is available through the [appfair/App releases](https://github.com/appfair/App/releases) (and, thus, available for installation in the **App Fair.app** catalog). 
+There is only ever a single active version of your app that is available through the [appfair/App releases](https://appfair.org/App/releases) (and, thus, available for installation in the **App Fair.app** catalog). 
 Users can revert to previous versions only if they have their own backup or if the older version still resides in the user's Trash after the upgrade.
 
 ### What permissions am I permitted to use in `Sandbox.entitlements`
@@ -829,7 +829,7 @@ In practice, however, to develop anything but the most trivial of apps requires 
 
 ### Why is my `integrate` pull request never merged?
 
-Your `integrate` PRs are not intended to ever be merged into the [appfair/App.git](https://github.com/appfair/App/pulls) repository.
+Your `integrate` PRs are not intended to ever be merged into the [appfair/App.git](https://appfair.org/App/pulls) repository.
 Rather, they are required merely to trigger the `pull_request_target` GitHub action that initiates the `integrate-release` phases.
 
 ### Are App Fair apps signed?
@@ -941,7 +941,7 @@ For security issues related to the underlying platform or operating system (e.g.
 
 ### What is the License for the App Fair project?
 
-Both the [appfair/Fair.git](https://appfair.org/Fair.git) and [appfair/App.git](https://github.com/appfair/App.git) projects, as well as all forks thereof (including the [**App Fair.app** catalog browser application](https://github.com/App-Fair/)), are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html).
+Both the [appfair/Fair.git](https://appfair.org/Fair.git) and [appfair/App.git](https://appfair.org/App.git) projects, as well as all forks thereof (including the [**App Fair.app** catalog browser application](https://github.com/App-Fair/)), are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html).
 
 ### Is my app code required to use the AGPL?
 
@@ -960,7 +960,7 @@ The bulk of the fair-ground's logic, as well as the runtime code for fair-ground
 
 ## How is the fair-ground's catalog updated?
 
-The "App Fair" reference implementation has a special [catalog release tag](https://github.com/appfair/App/releases/tag/catalog).
+The "App Fair" reference implementation has a special [catalog release tag](https://appfair.org/App/releases/tag/catalog).
 This tag is updated with a new `catalog.json` file after every successful `integrate-release` run.
 The `catalog.json` file is the manifest of all the current and valid apps that can be downloaded using a catalog browser.
 This manifest is generated by the `fairtool`, which uses the GitHub API to aggregate the publicly-available information from the release artifacts, fork integrations, and contributor profiles that makes up the distributed collection of available apps.
@@ -986,13 +986,13 @@ If the fair-ground belongs to a GitHub Enterprise Cloud account, this limit woul
 
 ### Debugging a failed integration 
 
-Once you submit your PR your `/APP-ORG/App.git` fork ([/appfair/App/pulls](https://github.com/appfair/App/pulls)), the App Fair's `integrate-release` process is initiated with an action: [/appfair/App/actions](https://github.com/appfair/App/actions).
+Once you submit your PR your `/APP-ORG/App.git` fork ([/appfair/App/pulls](https://appfair.org/App/pulls)), the App Fair's `integrate-release` process is initiated with an action: [/appfair/App/actions](https://appfair.org/App/actions).
 This process verifies, builds, and tests your app using an action that is outside of your control.
 This means that care must be taken to keep the build process working as expected.
 Notably, you should not make changes to the template file `Sources/App/AppMai.swift` (where modifications are explicitly prohibited), nor should you make major changes to the Xcode project files (since any changes will be ignored by the `integrate` build process).
 
 When a failure occurs in the `integrate-release` phases, you will typically get an e-mail (contingent on your GitHub notification settings).
-The first place you should look is at the log for the [/appfair/App/actions](https://github.com/appfair/App/actions) that corresponds to your pull request.
+The first place you should look is at the log for the [/appfair/App/actions](https://appfair.org/App/actions) that corresponds to your pull request.
 The log will identify most common issues, such as an invalid license or e-mail address.
 
 You can also perform validation of your app by running the `fairtool` yourself.

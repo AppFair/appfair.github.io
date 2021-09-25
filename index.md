@@ -30,11 +30,17 @@ bash -c "$(curl -fsSL https://appfair.net/install.sh)"
 ```
 
 The command will download the latest release zip and install it directly into your `/Applications/` folder.
- From there, you can launch the **App Fair.app** catalog browser application to start searching for apps.
+From there, you can launch the **App Fair.app** catalog browser application to start searching for apps to install.
  
-As an alternative means of installation, you can download and unzip the [App-Fair-macOS.zip](https://github.com/appfair/App/releases/download/App-Fair/App-Fair-macOS.zip) file directly.
+As an alternative means of installation, you can download and unzip the [App-Fair-macOS.zip](https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip) archive directly.
 Since the `App Fair.app` app is not "notarized", you will need to first launch it by command-clicking the app and then selecting the "Open…" menu item.
-This will have to be done *twice*, both times accepting the warning about launching an un-notarized app.
+This will have to be done *twice*, both times accepting the system's default warnings about launching an un-notarized apps.
+
+This process can be automated by installing the app using the following `Terminal.app` command:
+
+```
+ditto --noqtn -kx ~/Downloads/App-Fair-macOS.zip /Applications/
+```
 
 Note that once you have installed and launched `App Fair.app` the first time, subsequent updates will take place via the App Fair itself, and you will no longer need to perform any special steps to launch the app.
 
@@ -46,10 +52,10 @@ They can be un-installed using the catalog app itself, or they can be removed us
 App Fair apps are written in Swift and utilize a native `SwiftUI` user interface. 
 Apps target macOS 12 and Swift version 5.5, giving them access to the full power of Swift's async/await concurrency features.
 
-The distribution process for App Fair apps is completely autonomous, instantaneous, and free. 
-The only requirement is a GitHub account that is associated with your `.edu` e-mail address.
+The distribution process for App Fair apps is autonomous, instantaneous, and free.
+The only requirement is a GitHub account that is publicly associated with your `.edu` e-mail address, and a willingness to share your work freely with the rest of the world.
 No additional registration, sign-up, or approval is required in order to start developing and distributing apps for the App Fair.
-Apps are built, validated, and distributed using GitHub's free actions for open-source projects, and so there is no cost to distribute apps on the App Fair.
+Apps are built, validated, and distributed using GitHub's free actions for open-source projects, and so there is no cost to build and distribute your apps on the App Fair.
 
 
 ## The App Fair fair-ground
@@ -86,7 +92,7 @@ Once the fairseal has been generated for the app, it will be available for brows
 
 From an App developer standpoint, an App Fair app is a Swift application that is defined by a Swift Package Manager `Package.swift` file, and that uses of two source code repositories: *Fair.git* and *App.git*:
  - [https://github.com/appfair/App.git](https://github.com/appfair/App.git) is the repository that is forked to create a new  App Fair app; PRs submitted to this repository are automatically built and released to the **App Fair.app** catalog.
- - [https://github.com/appfair/Fair.git](https://github.com/appfair/Fair.git) is the runtime `SwiftUI` library that is included in every App Fair project, and acts as a sandboxed container within which your application is run. The `Fair` library is the only required dependency (and the library itself has no other dependencies) for your app's [https://github.com/appfair/App.git](https://github.com/appfair/App.git) fork.
+ - [https://appfair.org/Fair.git](https://appfair.org/Fair.git) is the runtime `SwiftUI` library that is included in every App Fair project, and acts as a sandboxed container within which your application is run. The `Fair` library is the only required dependency (and the library itself has no other dependencies) for your app's [https://github.com/appfair/App.git](https://github.com/appfair/App.git) fork.
 
 
 ## The Structure of an App Fair app
@@ -183,7 +189,7 @@ To customize your app, you should instead start by editing the `AppContainer` ex
 
 ### The Fair Library
 
-The [https://github.com/appfair/Fair.git](https://github.com/appfair/Fair.git) repository is the cornerstone for the App Fair.
+The [https://appfair.org/Fair.git](https://appfair.org/Fair.git) repository is the cornerstone for the App Fair.
 Fair contains the code for the following aspects of a fair-ground:
 
   1. Managing the fair-ground process (app validation and catalog management) using the `fairtool` executable target running on the fair-ground's build host
@@ -316,9 +322,9 @@ The App/Fair release process doesn't perform any validation of the licenses of a
 
 ## Catalog Format
 
-The App Fair "catalog" is simply a JSON file located at [https://github.com/appfair/App/releases/download/catalog/fairapps.json](https://github.com/appfair/App/releases/download/catalog/fairapps.json).
-This catalog file is re-generated by the `integrate-release` process after each successful release.
-The catalog file is downloaded by the **App Fair.app** catalog browser application, and can be used by other catalog apps that conform to the same format.
+The App Fair "catalog" is a static JSON file located at [https://www.appfair.net/fairapps.json](https://www.appfair.net/fairapps.json).
+This catalog file is re-generated by the `appfairbot` process after each successful release.
+The catalog JSON is downloaded by the **App Fair.app** catalog browser application, and can be used by other catalog apps that conform to the same format.
 
 An example of a single app entry in the catalog JSON follows.
 
@@ -330,6 +336,9 @@ An example of a single app entry in the catalog JSON follows.
     {
       "name" : "App Fair",
       "developerName" : "appfair",
+      "downloadCount": 5224746,
+      "starCount": "1214",
+      "issueCount": 63,
       "bundleIdentifier" : "app.App-Fair",
       "version" : "1.0.0",
       "localizedDescription" : "The App Fair catalog browser app",
@@ -338,6 +347,7 @@ An example of a single app entry in the catalog JSON follows.
       "iconURL" : "https://github.com/App-Fair/App/releases/download/1.0.0/App-Fair.png",
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/1.0.0/App-Fair-macOS.zip",
       "sha256": "348df4eb47f9230bfe89637afe7401bec883424d822257b6cbbce93ee780d992",
+      "permissions": 123456,
       "screenshotURLs" : [
         "https://github.com/appfair/App/releases/download/App-Fair/…"
       ]
@@ -366,20 +376,20 @@ The App Fair is founded on a principle of mutual respect between the software us
 App Fair apps are always free; there is never any cost to download and install apps from the catalog, nor is there any mechanism for in-app purchases or subscriptions.
 All apps on the App Fair are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html), thereby guaranteeing that they will be free and fair, forever.
 
-In addition, software creators benefit from the creative freedom afforded by a platform with no annual corporate developer fees, capricious gate-keeping, or  perpetually-fluctuating terms and conditions.
+In addition, software creators benefit from the creative freedom afforded by a platform with no annual corporate developer fees, capricious gate-keeping, or compulsory acceptance of perpetually-fluctuating terms and conditions.
 Since apps developed for the App Fair are distributed directly from the GitHub fork controlled by the developer, the developer maintains exclusive control over how their app is distributed.
 
 ## Ideal: Fair
 
 A fair-ground is a nexus that enables both *sovereignty* for software creators and *agency* for software consumers.
-The App Fair is designed to encourage fairness and respect between software creators (the app developers), software consumers (the users of the app).
-This fairness is mediated by the "fair-ground" distribution platform (e.g., the App Fair).
+The App Fair is designed to encourage fairness and respect between software creators (the app developers) and software consumers (the users of the app).
+This relationship is mediated by fair-ground distribution platforms such as the App Fair.
 
 Software creators benefit from a fair platform without the delays and uncertainly of an opaque app review process.
 They also benefit from the global reach of a centralized and self-maintaining catalog with the unfettered ability to distribute bug fixes and feature improvements to their users in real time.
-In exchange, they commit to publishing all their source code for other developers to scrutinize, improve, and share.
+In exchange for access to this distribution platform and audience, they commit to publishing all their source code for other developers to scrutinize, improve, and share.
 
-Software consumers benefit from a large catalog of truly free software without any hidden undesirable behaviors.
+Software consumers benefit from a large catalog of truly free software without any hidden undesired behaviors.
 The [Source Accountability](#source-accountability) feature of the App Fair ensures that a user of the software knows the identity of the creator and has open channels to contact the developer for support.
 Consumers additionally benefit from the confidence that the apps they rely upon are not subject to a mercurial set of rules that may affect their ongoing availability in a catalog.
 
@@ -573,7 +583,7 @@ It can be run from any `/APP-ORG/App.git` fork from Terminal.app with the comman
 $ swift run fairtool help
 ```
 
-For details, see the [source](https://github.com/appfair/Fair/blob/main/Sources/FairApp/FairCLI.swift)
+For details, see the [source](https://appfair.org/Fair/blob/main/Sources/FairApp/FairCLI.swift)
 
 ### How can I change the category of my app in the **App Fair.app** catalog?
 
@@ -699,7 +709,7 @@ All apps must be able to launch on both iOS and macOS.
 ### What are the target OS versions for App Fair applications?
 
 In order to be able to utilize the Swift 5.5 concurrency features (async/await and actors), App Fair apps target macOS 12 and iOS 15.
-Note that the [Fair/FairCore](https://github.com/appfair/Fair/tree/main/Sources/FairCore) target is compatible with Swift 5.4 in order to use macOS 11 as the build host.
+Note that the [Fair/FairCore](https://appfair.org/Fair/tree/main/Sources/FairCore) target is compatible with Swift 5.4 in order to use macOS 11 as the build host.
 
 ### Can I build a watchOS or tvOS app?
 
@@ -894,6 +904,11 @@ These should not be removed or altered, but the `I-R` phases will add them back 
 Note that these restrictions only apply to the `Package.swift` in the `/APP-ORG/App.git` fork itself, and not to the `Package.swift` for any dependent packages.
 The App Fair does not analyze any of your transitive dependences other than to enforce that they do not include binary targets, so any valid SPM `Package.swift` can be used as a dependency, provided it is available for both `macOS` and `iOS`.
 
+### When I run my app from Xcode, it crashes with an error about not being sandboxed, even through sandboxing is still enabled?
+
+This is a known issue with Xcode 13. 
+Cleaning and then re-building the app often resolves the issue.
+
 ### My app's code mostly resides in an external Package. How can I make a release when only the dependent package has changed?
 
 You can simply bump the semantic release `CFBundleShortVersionString` property of your `Info.plist` and push the new tag, and the next version of your app will be up-to-date with your latest dependencies.
@@ -926,7 +941,7 @@ For security issues related to the underlying platform or operating system (e.g.
 
 ### What is the License for the App Fair project?
 
-Both the [appfair/Fair.git](https://github.com/appfair/Fair.git) and [appfair/App.git](https://github.com/appfair/App.git) projects, as well as all forks thereof (including the [**App Fair.app** catalog browser application](https://github.com/App-Fair/)), are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html).
+Both the [appfair/Fair.git](https://appfair.org/Fair.git) and [appfair/App.git](https://github.com/appfair/App.git) projects, as well as all forks thereof (including the [**App Fair.app** catalog browser application](https://github.com/App-Fair/)), are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html).
 
 ### Is my app code required to use the AGPL?
 
@@ -941,7 +956,7 @@ You can develop any portion of your app in a separate repository, which can be c
 The "App Fair" is the reference implementation of a fair-ground, using a model of non-commercial open-source projects for academic developers and mandating source transparency and the explicit disclosure of security entitlements.
 Alternative fair-ground models are possible by simply mirroring the structure and repositories of the `appfair` organization.
 Many of the App Fair's policies are simply flags that can be set on the `fairtool validate` action that is run during the `integrate` phase.
-The bulk of the fair-ground's logic, as well as the runtime code for fair-ground integration, is in the [Fair](https://github.com/appfair/Fair) library, which you can customize to handle your own implementation's policies, restrictions, and commerce needs.
+The bulk of the fair-ground's logic, as well as the runtime code for fair-ground integration, is in the [Fair](https://appfair.org/Fair) library, which you can customize to handle your own implementation's policies, restrictions, and commerce needs.
 
 ## How is the fair-ground's catalog updated?
 
@@ -997,7 +1012,7 @@ Note that this is exactly the same process that the `integrate` phase executes, 
 
   * `fair-ground`: A fair-ground is a platform for app distribution. It is the abstract name for the hosted service(s) that provides the resources for the `Fork-Apply-Integrate-Release` process of app ingestion and distribution.
   * FAIR: The `Fork-Apply-Integrate-Release` process summarizes a system whereby developers create apps by forking a fair-ground's base repository and applying their changes to back to the base in the form of a pull request. This is followed by an `integrate` phase that ingests, validates, and builds the app, verifies the creator's organization standing, and then initiates a `release` phase that publishes the build artifacts to an app cataloging and distribution system.
-  * `Fair.git`: An SPM package hosted at [https://github.com/appfair/Fair.git](https://github.com/appfair/Fair.git) and licensed under the AGPL 3.0 that has targets for both the `Fair` runtime library, as well as the `fairtool` CLI utility.
+  * `Fair.git`: An SPM package hosted at [https://appfair.org/Fair.git](https://appfair.org/Fair.git) and licensed under the AGPL 3.0 that has targets for both the `Fair` runtime library, as well as the `fairtool` CLI utility.
   * Fair.swift: A Swift 5.5 library that acts as the entry point to all apps that are distributed via a fair-ground; the library provides a container environment with features such as automatic addition of Help and Support menus, as well as runtime validation of security features. All apps distributed via a fair-ground are required to have the HEAD of `Fair.git` as their initial SPM dependency.
   * `fairtool`: An executable tool that is included with the `Fair.git` package, and is thereby included with all apps that link to the `Fair (runtime)`. The `fairtool` utility is used to validate and merge `integrate-release` requests by the trusted fair-ground build process. The tool can also be used to initialize a new fair-ground with template code for a new base repository. The utility can be run with the command: `swift run fairtool`
   * `fairseal`: the cryptographic hash of the app binary that has been validated by the trusted base fair-ground. This hash must be present in order to an app to be installable by the catalog application, and the hash must match the content of the binary that is downloaded from the app fork's releases page.

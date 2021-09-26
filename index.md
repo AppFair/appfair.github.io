@@ -1134,3 +1134,7 @@ You can include the App Fair badge with the following HTML:
 <!-- “When I'm working on a problem, I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong.” -- R. Buckminster Fuller -->
 
 
+<!-- 
+https://appfair.org/Fair.git -> https://github.com/fairapp/Fair.git
+https://github.com/appfair/App.git
+-->

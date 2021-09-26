@@ -2,31 +2,6 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.41/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.41/App-Fair.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The App Fair catalog browser app",
-      "name" : "App Fair",
-      "permissions" : 537657352,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "954c6239d2b7ba5bf6c2326a027c08d013af91cecf07d30709be3e4b479763cc",
-      "size" : 1840634,
-      "starCount" : 0,
-      "version" : "0.6.41",
-      "versionDate" : "2021-09-22T22:07:02Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Mark-Island",
       "categories" : [
         "public.app-category.utilities"

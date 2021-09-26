@@ -2,32 +2,6 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 0,
-      "developerName" : "",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.51/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.51/App-Fair.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The App Fair catalog browser app",
-      "name" : "App Fair",
-      "permissions" : 537657352,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "488afc478055f1a5ae462dcb2cabbc2beec14e1eba254def0b2b860ad7b2d029",
-      "size" : 1894886,
-      "starCount" : 0,
-      "version" : "0.6.51",
-      "versionDate" : "2021-09-26T02:51:42Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
@@ -60,9 +34,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.47/Cookie-Time-macOS.zip",
-      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.47/Cookie-Time.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.49/Cookie-Time-macOS.zip",
+      "iconURL" : "https://github.com/Cookie-Time/App/releases/download/0.0.49/Cookie-Time.png",
       "issueCount" : 0,
       "localizedDescription" : "For fans of cookies!",
       "name" : "Cookie Time",
@@ -70,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "491200c92fa58c6b79c9709fd0519c080fa10144ce11642286d4deb51a0ca8f3",
-      "size" : 1718625,
+      "sha256" : "2fd75c4f28ce905e036721dbae92be5f31360dd7b1327a867ff89c16c5886e23",
+      "size" : 1721704,
       "starCount" : 0,
-      "version" : "0.0.47",
-      "versionDate" : "2021-09-26T02:52:14Z",
+      "version" : "0.0.49",
+      "versionDate" : "2021-09-26T17:36:37Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

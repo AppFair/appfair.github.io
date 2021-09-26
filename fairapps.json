@@ -314,5 +314,6 @@
     }
   ],
   "identifier" : "appfair",
-  "name" : "appfair"
+  "name" : "appfair",
+  "sourceURL" : "https://www.appfair.net/fairapps.json"
 }

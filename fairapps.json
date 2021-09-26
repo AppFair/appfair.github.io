@@ -2,106 +2,6 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Mark-Island",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Mark-Island/App/releases/download/0.2.43/Mark-Island-macOS.zip",
-      "iconURL" : "https://github.com/Mark-Island/App/releases/download/0.2.43/Mark-Island.png",
-      "issueCount" : 0,
-      "localizedDescription" : "CommonMark Editor for macOS",
-      "name" : "Mark Island",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "d8f60e31cd7d95736ee24630c114925b72ffa97a99f51cbabecf6b5aa2caee14",
-      "size" : 1840672,
-      "starCount" : 0,
-      "version" : "0.2.43",
-      "versionDate" : "2021-09-23T11:18:16Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Faraday-Page",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.59/Faraday-Page-macOS.zip",
-      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.59/Faraday-Page.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Isolated Browsing Environments",
-      "name" : "Faraday Page",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "234a612e06b09eb3b13284256629c5e0f2b60c454e5b268761141b83f3f02d55",
-      "size" : 2193242,
-      "starCount" : 0,
-      "version" : "0.3.59",
-      "versionDate" : "2021-09-23T11:18:13Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Fair-Skies",
-      "categories" : [
-        "public.app-category.weather"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.53/Fair-Skies-macOS.zip",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.53/Fair-Skies.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Detailed weather",
-      "name" : "Fair Skies",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "145547eefcc38286a3743b3bf49b1aba4b2beda63a19b6cf812f4604bddd48bd",
-      "size" : 1495751,
-      "starCount" : 0,
-      "version" : "0.3.53",
-      "versionDate" : "2021-09-23T11:18:09Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.51/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.51/Encyclopedia-Galactica.png",
-      "issueCount" : 0,
-      "localizedDescription" : "All the knowledge of a Galactic Empire",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "e12b6d56529676a8ea197ca80e8ac6fa26fc495f35336a7bbd895eb53b8692a1",
-      "size" : 1519082,
-      "starCount" : 0,
-      "version" : "0.3.51",
-      "versionDate" : "2021-09-23T11:18:05Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
@@ -152,26 +52,101 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Tattle-Tale",
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
-        "public.app-category.entertainment"
+        "public.app-category.reference"
       ],
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale-macOS.zip",
-      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale.png",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.51/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.3.51/Encyclopedia-Galactica.png",
       "issueCount" : 0,
-      "localizedDescription" : "A tale told by an idiot signifying nothing",
-      "name" : "Tattle Tale",
+      "localizedDescription" : "All the knowledge of a Galactic Empire",
+      "name" : "Encyclopedia Galactica",
       "permissions" : 536870916,
       "screenshotURLs" : [
 
       ],
-      "sha256" : "02b4b45bcd1e98e5a18ef3237fba0b932f567f556b0974d1c9d013c3d5f15d45",
-      "size" : 1497037,
+      "sha256" : "e12b6d56529676a8ea197ca80e8ac6fa26fc495f35336a7bbd895eb53b8692a1",
+      "size" : 1519082,
       "starCount" : 0,
-      "version" : "0.3.40",
-      "versionDate" : "2021-09-23T11:17:48Z",
+      "version" : "0.3.51",
+      "versionDate" : "2021-09-23T11:18:05Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+        "public.app-category.weather"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.53/Fair-Skies-macOS.zip",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.3.53/Fair-Skies.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Detailed weather",
+      "name" : "Fair Skies",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "145547eefcc38286a3743b3bf49b1aba4b2beda63a19b6cf812f4604bddd48bd",
+      "size" : 1495751,
+      "starCount" : 0,
+      "version" : "0.3.53",
+      "versionDate" : "2021-09-23T11:18:09Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Faraday-Page",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.59/Faraday-Page-macOS.zip",
+      "iconURL" : "https://github.com/Faraday-Page/App/releases/download/0.3.59/Faraday-Page.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Isolated Browsing Environments",
+      "name" : "Faraday Page",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "234a612e06b09eb3b13284256629c5e0f2b60c454e5b268761141b83f3f02d55",
+      "size" : 2193242,
+      "starCount" : 0,
+      "version" : "0.3.59",
+      "versionDate" : "2021-09-23T11:18:13Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Mark-Island",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Mark-Island/App/releases/download/0.2.43/Mark-Island-macOS.zip",
+      "iconURL" : "https://github.com/Mark-Island/App/releases/download/0.2.43/Mark-Island.png",
+      "issueCount" : 0,
+      "localizedDescription" : "CommonMark Editor for macOS",
+      "name" : "Mark Island",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "d8f60e31cd7d95736ee24630c114925b72ffa97a99f51cbabecf6b5aa2caee14",
+      "size" : 1840672,
+      "starCount" : 0,
+      "version" : "0.2.43",
+      "versionDate" : "2021-09-23T11:18:16Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -222,6 +197,31 @@
       "starCount" : 0,
       "version" : "0.3.66",
       "versionDate" : "2021-09-23T11:17:36Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tattle-Tale",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale-macOS.zip",
+      "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A tale told by an idiot signifying nothing",
+      "name" : "Tattle Tale",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "02b4b45bcd1e98e5a18ef3237fba0b932f567f556b0974d1c9d013c3d5f15d45",
+      "size" : 1497037,
+      "starCount" : 0,
+      "version" : "0.3.40",
+      "versionDate" : "2021-09-23T11:17:48Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

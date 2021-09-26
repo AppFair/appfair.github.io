@@ -204,14 +204,14 @@
       "beta" : false,
       "bundleIdentifier" : "app.Tattle-Tale",
       "categories" : [
-        "public.app-category.entertainment"
+        "public.app-category.utilities"
       ],
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale-macOS.zip",
       "iconURL" : "https://github.com/Tattle-Tale/App/releases/download/0.3.40/Tattle-Tale.png",
       "issueCount" : 0,
-      "localizedDescription" : "A tale told by an idiot signifying nothing",
+      "localizedDescription" : "Watch the Watchers",
       "name" : "Tattle Tale",
       "permissions" : 536870916,
       "screenshotURLs" : [

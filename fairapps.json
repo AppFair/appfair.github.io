@@ -8,7 +8,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.51/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.51/App-Fair.png",
       "issueCount" : 0,
@@ -148,6 +148,32 @@
       "starCount" : 0,
       "version" : "0.2.43",
       "versionDate" : "2021-09-23T11:18:16Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Net-Hack",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 0,
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Hack/App/releases/download/0.0.23/Net-Hack-macOS.zip",
+      "iconURL" : "https://github.com/Net-Hack/App/releases/download/0.0.23/Net-Hack.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Congratulations adventurer!",
+      "name" : "Net Hack",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "c2ce906e3456ad72493bd0e5aee188135c39c4886ff4e049be5dd49312e5199b",
+      "size" : 1554458,
+      "starCount" : 0,
+      "version" : "0.0.23",
+      "versionDate" : "2021-09-26T02:51:58Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

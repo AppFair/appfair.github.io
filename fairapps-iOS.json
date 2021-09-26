@@ -1,6 +1,31 @@
 {
   "apps" : [
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 8,
+      "developerName" : "",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.60/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.60/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair catalog browser app",
+      "name" : "App Fair",
+      "permissions" : 537657352,
+      "screenshotURLs" : [
 
+      ],
+      "sha256" : "0966fab15de4335bb8a4ea5ba354a3441388e66218ede439cca4f195ee918050",
+      "size" : 4873286,
+      "starCount" : 0,
+      "version" : "0.6.60",
+      "versionDate" : "2021-09-26T20:36:45Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    }
   ],
   "identifier" : "appfair",
   "name" : "appfair",

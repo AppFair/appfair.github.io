@@ -69,4 +69,3 @@ jobs:
           git commit -m "catalog update" || echo "nothing to commit"
           git push
 
-

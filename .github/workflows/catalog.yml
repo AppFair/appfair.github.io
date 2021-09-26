@@ -48,7 +48,7 @@ jobs:
       - name: Checkout Fair
         uses: actions/checkout@v2
         with:
-          repository: https://appfair.org/Fair.git
+          repository: fairapp/Fair.git
           ref: main
           path: fair/
 

@@ -34,9 +34,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.57/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.57/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.61/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.61/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "",
       "name" : "Cloud Cuckoo",
@@ -44,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "3338502b83daa85bc2b32b5c109e00df2197224a92f75aed1314028529640f86",
-      "size" : 1607209,
+      "sha256" : "2efe77f0a2734f5610fb409b5df1e9da1269ec94499a98e93bda41ca08d6c4d8",
+      "size" : 1607208,
       "starCount" : 0,
-      "version" : "0.8.57",
-      "versionDate" : "2021-09-27T05:51:58Z",
+      "version" : "0.8.61",
+      "versionDate" : "2021-09-27T06:49:49Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -8,7 +8,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.74/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.74/App-Fair.png",
       "issueCount" : 0,
@@ -23,6 +23,58 @@
       "starCount" : 0,
       "version" : "0.6.74",
       "versionDate" : "2021-09-27T04:45:28Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "coreSize" : 0,
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.55/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.55/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "",
+      "name" : "Cloud Cuckoo",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "95d278f0fd6501f50a990e943ec78afbabd7b55ca8fc3866f74e51e323d6fc43",
+      "size" : 1606811,
+      "starCount" : 0,
+      "version" : "0.8.55",
+      "versionDate" : "2021-09-27T05:15:56Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "coreSize" : 0,
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.167/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.167/Tune-Out.png",
+      "issueCount" : 0,
+      "localizedDescription" : "",
+      "name" : "Tune Out",
+      "permissions" : 536870924,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "8797011fc0778c4394e379785c782aa4e18402d782e68e5897c9d5b2b615e182",
+      "size" : 5902166,
+      "starCount" : 0,
+      "version" : "0.8.167",
+      "versionDate" : "2021-09-27T05:15:26Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

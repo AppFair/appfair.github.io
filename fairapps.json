@@ -8,9 +8,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.74/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.74/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.75/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.75/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "295bcc527c61e42f0087b2917a81c4fa311993254695bef737a5170b366b48fa",
-      "size" : 1916458,
+      "sha256" : "0523e9378ee8adda5ae3e44bdfe733b2eebf7c167a9c1a27b56b0999db5187ab",
+      "size" : 1915365,
       "starCount" : 0,
-      "version" : "0.6.74",
-      "versionDate" : "2021-09-27T04:45:28Z",
+      "version" : "0.6.75",
+      "versionDate" : "2021-09-27T05:30:27Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

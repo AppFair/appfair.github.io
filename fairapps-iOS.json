@@ -8,9 +8,9 @@
       ],
       "coreSize" : 8,
       "developerName" : "",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.76/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.76/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.78/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.78/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "df998232c14994225b5b8d34af9eea2eaecfc38261737083b02382cf5ac8ffd6",
-      "size" : 4889781,
+      "sha256" : "d8b024e6c06aafbe95ca94fc65b2c30dedf695f3eecfc87ee378a96b4621a51b",
+      "size" : 5084398,
       "starCount" : 0,
-      "version" : "0.6.76",
-      "versionDate" : "2021-09-27T06:00:02Z",
+      "version" : "0.6.78",
+      "versionDate" : "2021-09-29T00:20:05Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

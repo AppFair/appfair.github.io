@@ -1136,6 +1136,6 @@ You can include the App Fair badge with the following HTML:
 
 
 <!-- 
-https://fair-ground.org/Fair.git -> https://github.com/fairapp/Fair.git
+https://fair-ground.org/Fair.git -> https://github.com/fair-ground/Fair.git
 https://github.com/appfair/App.git
 -->

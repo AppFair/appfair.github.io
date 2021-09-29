@@ -34,7 +34,7 @@ From there, you can launch the **App Fair.app** catalog browser application to s
  
 As an alternative means of installation, you can download and unzip the [App-Fair-macOS.zip](https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip) archive directly.
 Since the `App Fair.app` app is not "notarized", you will need to first launch it by command-clicking the app and then selecting the "Open…" menu item.
-This will have to be done *twice*, both times accepting the system's default warnings about launching an un-notarized apps.
+This will have to be done *twice*, both times accepting the system's default warnings about launching an un-notarized app.
 
 This process can be automated by installing the app using the following `Terminal.app` command:
 

@@ -26,24 +26,17 @@ on:
 
 jobs:
   build:
-    #runs-on: ubuntu-latest # TODO
+    runs-on: ubuntu-latest
     runs-on: macos-11
-    timeout-minutes: 20
+    timeout-minutes: 30
 
     env:
       DEVELOPER_DIR: /Applications/Xcode_13.0_beta.app/Contents/Developer
 
     steps:
-      #- uses: fwal/setup-swift@v1
-      #  with:
-      #    swift-version: '5.5'
-
-      - name: Checkout Catalog
-        uses: actions/checkout@v2
+      - uses: fwal/setup-swift@v1
         with:
-          repository: appfair/appfair.github.io.git
-          ref: main
-          path: appfair.github.io/
+          swift-version: '5.5'
 
       - name: Checkout Fair
         uses: actions/checkout@v2
@@ -51,6 +44,13 @@ jobs:
           repository: fairapp/Fair.git
           ref: main
           path: fair/
+
+      - name: Checkout Catalog
+        uses: actions/checkout@v2
+        with:
+          repository: appfair/appfair.github.io.git
+          ref: main
+          path: appfair.github.io/
 
       - name: Generate catalog
         run: |
@@ -64,8 +64,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
           cd appfair.github.io/
-          #git config --global user.email "appfairbot@appfair.net"
-          #git config --global user.name "appfairbot@appfair.net"
+          git pull # grab any updates that may have snuck in
           git add fairapps.json
           git add fairapps-iOS.json
           git commit -m "catalog update" || echo "nothing to commit"

@@ -608,8 +608,9 @@ Pick a new name, or else [see GitHub's advice on the topic](https://docs.github.
 
 ### What is the `fairtool`?
 
-Fairtool is the name of the utility that is included with the `Fair` project which is used to validate a project, generate icons, and interact with the catalog.
-It can be run from any `/APP-ORG/App.git` fork from Terminal.app with the command:
+Fairtool is the name of the cross-platform command line interface tool that is included with the `Fair` project which is used to validate a project, generate icons, and interact with the catalog.
+The `fairtool` can be used on any platform that supports Swift 5.5, including Linux, macOS, and Windows.
+The tool can be run from any `/APP-ORG/App.git` fork from Terminal.app with the command:
 
 ```
 $ swift run fairtool help
@@ -1044,7 +1045,7 @@ Note that this is exactly the same process that the `integrate` phase executes, 
 
   * `fair-ground`: A fair-ground is a platform for app distribution. It is the abstract name for the hosted service(s) that provides the resources for the `Fork-Apply-Integrate-Release` process of app ingestion and distribution.
   * FAIR: The `Fork-Apply-Integrate-Release` process summarizes a system whereby developers create apps by forking a fair-ground's base repository and applying their changes to back to the base in the form of a pull request. This is followed by an `integrate` phase that ingests, validates, and builds the app, verifies the creator's organization standing, and then initiates a `release` phase that publishes the build artifacts to an app cataloging and distribution system.
-  * `Fair.git`: An SPM package hosted at [https://fair-ground.org/Fair.git](https://fair-ground.org/Fair.git) and licensed under the AGPL 3.0 that has targets for both the `Fair` runtime library, as well as the `fairtool` CLI utility.
+  * `Fair.git`: An SPM package hosted at [https://fair-ground.org/Fair.git](https://fair-ground.org/Fair.git) and licensed under the AGPL 3.0 that has targets for both the `Fair` runtime library, as well as the cross-platform `fairtool` CLI utility.
   * Fair.swift: A Swift 5.5 library that acts as the entry point to all apps that are distributed via a fair-ground; the library provides a container environment with features such as automatic addition of Help and Support menus, as well as runtime validation of security features. All apps distributed via a fair-ground are required to have the HEAD of `Fair.git` as their initial SPM dependency.
   * `fairtool`: An executable tool that is included with the `Fair.git` package, and is thereby included with all apps that link to the `Fair (runtime)`. The `fairtool` utility is used to validate and merge `integrate-release` requests by the trusted fair-ground build process. The tool can also be used to initialize a new fair-ground with template code for a new base repository. The utility can be run with the command: `swift run fairtool`
   * `fairseal`: the cryptographic hash of the app binary that has been validated by the trusted base fair-ground. This hash must be present in order to an app to be installable by the catalog application, and the hash must match the content of the binary that is downloaded from the app fork's releases page.

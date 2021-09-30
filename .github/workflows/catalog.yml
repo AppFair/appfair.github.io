@@ -33,7 +33,8 @@ jobs:
       DEVELOPER_DIR: /Applications/Xcode_13.0_beta.app/Contents/Developer
 
     steps:
-      - uses: fwal/setup-swift@v1
+      - name: Install Swift 5.5
+        uses: marcprux/setup-swift@swift-5.5
         with:
           swift-version: '5.5'
 

@@ -112,7 +112,7 @@ There can be only a single `/App.git` repository per organization.
 
 ### App Repository
 
-Once your organization is set up, you create your `/APP-ORG/App.git` project by forking the [https://github.com/appfair/App.git](https://github.com/appfair/App.git) repository into your new organization name.
+Once your organization is set up, you create your `/App-Name/App.git` project by forking the [https://github.com/appfair/App.git](https://github.com/appfair/App.git) repository into your new organization name.
 This is a Swift project that contains the shell of a cross-platform `SwiftUI` app that you will use as your starting point.
 
 Your app will exist in a top-level repository named "App"; it must continue to be called "App" since that is how the catalog browser will be able to access your project metadata.
@@ -137,9 +137,9 @@ XXX ### Translating and Localizing your App
 
 
 
-### Developing your `/APP-ORG/App.git` fork
+### Developing your `/App-Name/App.git` fork
 
-The `/APP-ORG/App.git` repository is structured as a standard Swift package and includes the following code that must be included as the scaffold and starting point for your app:
+The `/App-Name/App.git` repository is structured as a standard Swift package and includes the following code that must be included as the scaffold and starting point for your app:
 
   * Package.swift
   * Sources/App/AppMain.swift
@@ -164,7 +164,7 @@ Localizable resources (such as `.strings` files containing translations of your 
 Resource files that need to retain their directory structure should be instead placed in the `Sources/App/Bundle/`.
 These resource bundles will be available at runtime by referencing the `Foundation.Bundle.module` accessor, and then using standard `Bundle` API to load resources. 
 
-### Managing dependencies in your `/APP-ORG/App.git` fork
+### Managing dependencies in your `/App-Name/App.git` fork
 
 The `Package.swift` file that defines how your package is built.
 You can add anything your want to your `Package.swift` manifest, but note that the fair-grounds validation process has some requirements:
@@ -173,10 +173,10 @@ You can add anything your want to your `Package.swift` manifest, but note that t
   1. The `App` target name must remain unchanged.
 
 This restriction is enforced by the `Integration` phase of the process, which will refuse to build the project if the `Package.swift` manifest is invalid.
-You can preview this validation with your own project by replacing `App-Org` with your app name and running:
+You can preview this validation with your own project by replacing `App-Name` with your app name and running:
 
 ```shell
-swift run -- fairtool validate --verbose true --hub github.com/appfair --org App-Org --project .
+swift run -- fairtool validate --verbose true --hub github.com/appfair --org App-Name --project .
 ```
 
 
@@ -235,9 +235,9 @@ This is a standard [Swift Package Manager manifest](https://swift.org/package-ma
 ### The App Fair sandbox
 
 The "sandbox" is the name for a security environment within which a program is run that restricts the capabilities of the software.
-Your `/APP-ORG/App.git` fork is pre-configured to request minimal permissions, and thus runs in a very restrictive sandboxed environment: USB and bluetooth hardware access is not permitted, network access communication is blocked, and file access outside the app's own sandboxed container is not allowed.
+Your `/App-Name/App.git` fork is pre-configured to request minimal permissions, and thus runs in a very restrictive sandboxed environment: USB and bluetooth hardware access is not permitted, network access communication is blocked, and file access outside the app's own sandboxed container is not allowed.
 
-You may add new entitlements to your `/APP-ORG/App.git` fork's `Sandbox.entitlements` file.
+You may add new entitlements to your `/App-Name/App.git` fork's `Sandbox.entitlements` file.
 For each entitlement that is requested, a description of the reason for the entitlement must be added to a `FairUsage` dictionary in the `Info.plist`.
 The description's key should be the same as the key of the entitlement.
 For an example, see the base [Info.plist](https://github.com/appfair/App/blob/main/Info.plist) file.
@@ -341,10 +341,10 @@ It is typically generated after each successful `integrate-release` phase, but t
 
 ### Org Requirements
 
-In order for an organization's `/APP-ORG/App.git` project to be visible in the **App Fair.app** catalog, it must be a public organization with at least one public member. 
+In order for an organization's `/App-Name/App.git` project to be visible in the **App Fair.app** catalog, it must be a public organization with at least one public member. 
 The organization must have a repository (or redirection) named "App" (literally), which must be a fork of the [appfair/App.git](https://github.com/appfair/App.git) repository.
 In addition, the repository must have issues and discussions enabled, and also must be public and un-archived.
-Finally, the `APP-ORG` organization's public contact must be a valid e-mail address ending in ".edu".
+Finally, the `App-Name` organization's public contact must be a valid e-mail address ending in ".edu".
 
 ### Licensing
 
@@ -558,7 +558,7 @@ These addresses are currently restricted to academic `.edu` addresses.
 
 ### How do I fork the `appfair/App.git` repository?
 
-Once you have set up your free `APP-ORG` organization that will represent the app, you can fork the repository by going to [https://github.com/appfair/App/fork](https://github.com/appfair/App/fork).
+Once you have set up your free `App-Name` organization that will represent the app, you can fork the repository by going to [https://github.com/appfair/App/fork](https://github.com/appfair/App/fork).
 See the GitHub documentation: [Fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 ### Can I customize my app's icon?
@@ -571,7 +571,7 @@ You are encouraged to provide your own original artwork in the `Assets.xcassets/
 The canonical name of your app is defined by the organization name that hosts your `/App/ fork.
 This name must conform to the App Fair's naming conventions (two words separated by a hyphen) as well as GitHub's limitations on organization names (URL-safe characters). 
 
-In addition to the canonical `APP-ORG` name, this name must be mirrored in the app's `Info.plist` metadata file.
+In addition to the canonical `App-Name` name, this name must be mirrored in the app's `Info.plist` metadata file.
 Specifically, the keys `CFBundleName` and `CFBundleIdentifier` will need to be manually updated in your fork, like so:
 
 ```xml
@@ -579,7 +579,7 @@ Specifically, the keys `CFBundleName` and `CFBundleIdentifier` will need to be m
     <key>CFBundleName</key>
     <string>App Org</string>
     <key>CFBundleIdentifier</key>
-    <string>app.App-Org</string>
+    <string>app.App-Name</string>
     <key>CFBundleShortVersionString</key>
     <string>0.0.1</string>
     <key>CFBundleVersion</key>
@@ -610,7 +610,7 @@ Pick a new name, or else [see GitHub's advice on the topic](https://docs.github.
 
 Fairtool is the name of the cross-platform command line interface tool that is included with the `Fair` project which is used to validate a project, generate icons, and interact with the catalog.
 The `fairtool` can be used on any platform that supports Swift 5.5, including Linux, macOS, and Windows.
-The tool can be run from any `/APP-ORG/App.git` fork from Terminal.app with the command:
+The tool can be run from any `/App-Name/App.git` fork from Terminal.app with the command:
 
 ```
 $ swift run fairtool help
@@ -641,7 +641,7 @@ When possible, the onus should be placed on the user to acquire their own token,
 There are no restrictions on the kinds of apps that you can build and distribute at the App Fair.
 The App Fair welcomes all apps: games, utilities, experiments, student projects, artistic and literary works, vanity and toy apps, demos, tests, and, especially, re-mixes of other App Fair apps.
 
-Since the App Fair is a completed automated system, there is no human review. 
+Since the App Fair is an automated system, there is no human review. 
 The only requirement for an app to be included in the App Fair catalog is that it passes the automated validation phases of the `integrate-release` process.
 
 Projects and organizations will, however, need to abide by the rules and restrictions of the hosting environment (which, in the case of the App Fair fair-ground, is GitHub).
@@ -657,7 +657,7 @@ The `README.md` file in your `/App/` fork repository should be used as the entry
 
 ### How can I categorize my app in the App Fair catalog
 
-You can classify and categorize your app for the App Fair catalog by adding any two of the following to the `topics` of your `/APP-ORG/App.git` fork's "About" settings.
+You can classify and categorize your app for the App Fair catalog by adding any two of the following to the `topics` of your `/App-Name/App.git` fork's "About" settings.
 For more information, see [Adding topics to your repository](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/classifying-your-repository-with-topics#adding-topics-to-your-repository).
 
 These settings should also match the `LSApplicationCategoryType` property in your `Info.plist` file, with the following GitHub topic property mapping:
@@ -714,9 +714,9 @@ Note, however, if you have already published multiple releases of the same app, 
 This is an intentional feature, and allows you to pull the latest release of your app while still keeping a version of your app available in the catalog.
 This means, however, that if you want to remove your app from the catalog by hiding or removing releases, you will need to hide or remove *all* the releases that you have published in order to prevent the app from appearing in the catalog.
 
-The simplest way to remove your entire app from showing up in the **App Fair.app** catalog is to mark your repository or organization as "private", or else archive (or delete) your organization's `/APP-ORG/App.git` fork.
+The simplest way to remove your entire app from showing up in the **App Fair.app** catalog is to mark your repository or organization as "private", or else archive (or delete) your organization's `/App-Name/App.git` fork.
 
-In addition, disabling issues or discussions for your `/APP-ORG/App.git` fork will also have the result of making your app no longer appear as a valid installation candidate in the **App Fair.app** catalog.
+In addition, disabling issues or discussions for your `/App-Name/App.git` fork will also have the result of making your app no longer appear as a valid installation candidate in the **App Fair.app** catalog.
 Since discussions and issues are required in order to allow users a channel for support questions and other communications, disabling either of these features will remove these apps from the catalog the next time it is generated.
 
 ### How can I have someone else's app removed from the App Fair?
@@ -764,7 +764,7 @@ Note that any frameworks your app depends on must be available on *both* `macOS`
 
 ### What kinds of source files can I include with my app?
 
-The App Fair's `integrate-release` process uses the [Swift Package Manager (SPM)](https://swift.org/package-manager/) tool for building both your `/APP-ORG/App.git` fork, as well as all the third-party dependencies.
+The App Fair's `integrate-release` process uses the [Swift Package Manager (SPM)](https://swift.org/package-manager/) tool for building both your `/App-Name/App.git` fork, as well as all the third-party dependencies.
 SPM is focused primarily on the Swift language, but it can be used to build wide variety of other languages as well.
 
 Binary dependencies, however, are not permitted in the `Package.swift` build file; the App Fair requires that all the source code that is compiled into the app be available during the build process.
@@ -855,7 +855,7 @@ Improvements to these `Fair` modules will be automatically included in any subse
 
 ### Do I need a Mac to develop App Fair apps?
 
-*Technically*, no: you could theoretically use any OS to write the Swift code for your `/APP-ORG/App.git` fork.
+*Technically*, no: you could theoretically use any OS to write the Swift code for your `/App-Name/App.git` fork.
 Since the Integration and Release phases of the App Fair process are all run in the cloud, no client-side build and run activity is required.
 
 In practice, however, to develop anything but the most trivial of apps requires being able to use a modern IDE, debugger, and the ability to run your app locally in order to test and refine the behavior.
@@ -882,16 +882,16 @@ An ad-hoc signature, however, contains no identifying information associated wit
 Although App Fair apps are signed, sandboxed, and utilize the hardened runtime, they are not automatically notarized during the fair-ground's `integrate-release` phases. 
 
 If you have a developer subscription, you are free to notarize the App Fair release binaries for your app yourself, which will enable you to distribute the same binary both via **App Fair.app** catalog browser application and via other distribution channels that may favor or require notarization.
-Notarization can be accomplished by adding your signing certificate to your `/App.git` fork's secrets and adding a signing phase that invokes `xcrun notarytool submit staging/App-Org-macOS.zip` to the workflow in the `.github/workflows/fail.yml` file.
+Notarization can be accomplished by adding your signing certificate to your `/App.git` fork's secrets and adding a signing phase that invokes `xcrun notarytool submit staging/App-Name-macOS.zip` to the workflow in the `.github/workflows/fail.yml` file.
 
 Note that notarization tickets should currently *not* be stapled to the build artifact before release upload, since that is known to interfere with the binary artifact validation by the base catalog repository.
 
 ### How do I re-name my project?
 
-An App Fair app is defined exclusively by the `App-Org` name of the organization.
+An App Fair app is defined exclusively by the `App-Name` name of the organization.
 If you can change the name of your organization, the new app name will be used the next time you make a release.
-If you re-name `App-OrgA` to `App-OrgB`, the old `App-OrgA` will automatically disappear from the catalog.
-Note, however, that since the bundle identifier will change from `app.App-OrgA` to `app.App-OrgB`, all the container settings for you app will change, so your users will find that they will not be able to access preferences or resources that were stored in the previous `app.App-OrgA` container.
+If you re-name `App-NameA` to `App-NameB`, the old `App-NameA` will automatically disappear from the catalog.
+Note, however, that since the bundle identifier will change from `app.App-NameA` to `app.App-NameB`, all the container settings for you app will change, so your users will find that they will not be able to access preferences or resources that were stored in the previous `app.App-NameA` container.
 This is an unavoidable consequence of renaming your project, so it should not be a decision that is undertaken lightly if your app has a significant number of users who may be forced to manually perform migration tasks.
 
 ### What files can my app access?
@@ -929,12 +929,12 @@ For this reason, it is advisable that the developer change nothing in the `proje
 
 ### What can I change in the Package.swift file?
 
-The `Package.swift` for your `/APP-ORG/App.git` fork is expected to conform to the structural conventions of App Fair apps.
+The `Package.swift` for your `/App-Name/App.git` fork is expected to conform to the structural conventions of App Fair apps.
 As such, the outline of the `Package.swift` file cannot be changed, but some of the elements, such as the package dependencies, can be edited.
 These requirements are enforced with a number of `precondition` statements at the end of the `Package.swift` file.
 These should not be removed or altered, but the `I-R` phases will add them back in to ensure that any PR contains a valid package structure.
 
-Note that these restrictions only apply to the `Package.swift` in the `/APP-ORG/App.git` fork itself, and not to the `Package.swift` for any dependent packages.
+Note that these restrictions only apply to the `Package.swift` in the `/App-Name/App.git` fork itself, and not to the `Package.swift` for any dependent packages.
 The App Fair does not analyze any of your transitive dependences other than to enforce that they do not include binary targets, so any valid SPM `Package.swift` can be used as a dependency, provided it is available for both `macOS` and `iOS`.
 
 ### When I run my app from Xcode, it crashes with an error about not being sandboxed, even through sandboxing is still enabled?
@@ -978,7 +978,7 @@ Both the [appfair/Fair.git](https://fair-ground.org/Fair.git) and [appfair/App.g
 
 ### Is my app code required to use the AGPL?
 
-Only the portion of your app contained in your app organization's `/APP-ORG/App.git` fork is required to be covered by the AGPL.
+Only the portion of your app contained in your app organization's `/App-Name/App.git` fork is required to be covered by the AGPL.
 You can develop any portion of your app in a separate repository, which can be covered by any license of your choosing provided the source code is available during the fair-ground's `integrate-release` phases.
 
 
@@ -1019,7 +1019,7 @@ If the fair-ground belongs to a GitHub Enterprise Cloud account, this limit woul
 
 ### Debugging a failed integration 
 
-Once you submit your PR your `/APP-ORG/App.git` fork ([/appfair/App/pulls](https://github.com/appfair/App/pulls)), the App Fair's `integrate-release` process is initiated with an action: [/appfair/App/actions](https://github.com/appfair/App/actions).
+Once you submit your PR your `/App-Name/App.git` fork ([/appfair/App/pulls](https://github.com/appfair/App/pulls)), the App Fair's `integrate-release` process is initiated with an action: [/appfair/App/actions](https://github.com/appfair/App/actions).
 This process verifies, builds, and tests your app using an action that is outside of your control.
 This means that care must be taken to keep the build process working as expected.
 Notably, you should not make changes to the template file `Sources/App/AppMai.swift` (where modifications are explicitly prohibited), nor should you make major changes to the Xcode project files (since any changes will be ignored by the `integrate` build process).
@@ -1030,13 +1030,13 @@ The log will identify most common issues, such as an invalid license or e-mail a
 
 You can also perform validation of your app by running the `fairtool` yourself.
 This utility is automatically included with every app that uses the `FairApp` SPM package.
-To validate the package using `Terminal.app` for the current directory of the `APP-ORG` organization name, you can run the following (replacing "APP-ORG" with your organization's name):
+To validate the package using `Terminal.app` for the current directory of the `App-Name` organization name, you can run the following (replacing "App-Name" with your organization's name):
 
 ```
-swift run -- fairtool validate --verbose true --hub github.com/appfair --org APP-ORG --project .
+swift run -- fairtool validate --verbose true --hub github.com/appfair --org App-Name --project .
 ```
 
-This command will analyze both the structure and content of the current package, as well as check the proper configuration for the `APP-ORG` project.
+This command will analyze both the structure and content of the current package, as well as check the proper configuration for the `App-Name` project.
 Note that this is exactly the same process that the `integrate` phase executes, so using the `fairtool` is a good validation test to run yourself before creating or updating an existing PR.
 
 # Appendix
@@ -1071,8 +1071,8 @@ Use this checklist to ensure that your app is set up properly for distribution i
 
 ### App Organization
 
-  1. Does your `APP-ORG` name consist of two distinct words separated by a hyphen?
-  1. Does your `APP-ORG` consist solely of two distinct words, each of which is 3-12 ASCII letters?
+  1. Does your `App-Name` name consist of two distinct words separated by a hyphen?
+  1. Does your `App-Name` consist solely of two distinct words, each of which is 3-12 ASCII letters?
 
 
 ### User Account
@@ -1084,7 +1084,7 @@ Use this checklist to ensure that your app is set up properly for distribution i
  
 ### Forked `/App.git` Repository
 
-  1. Is your forked repository *publicly* accessible at: `https://github.com/APP-ORG/App/`?
+  1. Is your forked repository *publicly* accessible at: `https://github.com/App-Name/App/`?
   1. Is your `/App.git` fork public?
   1. Is your `/App.git` fork not disabled?
   1. Is your `/App.git` fork not archived?
@@ -1096,7 +1096,7 @@ Use this checklist to ensure that your app is set up properly for distribution i
 
 ### Source Code
 
-  1. Is the project name in `Package.swift` the same as the `APP-ORG`?
+  1. Is the project name in `Package.swift` the same as the `App-Name`?
   1. Is the `Fair` library the initial entry in your app's dependencies list?
   1. Is the `Sources/App/AppMain.swift` file unmodified from the origin?
 
@@ -1110,7 +1110,7 @@ Use this checklist to ensure that your app is set up properly for distribution i
 ### Pull Request
 
   1. Do you have a pull request open to the base fair-ground for your fork's changes?
-  1. Is the title of your pull request: `App-Org`?
+  1. Is the title of your pull request: `App-Name`?
   1. Does the version tag of your PR match the version in `Info.plist`?
   1. Is your pull request commit signed and marked as "verified" by GitHub?
   1. Is the e-mail address associated with the commit valid (e.g., an `.edu` address)?

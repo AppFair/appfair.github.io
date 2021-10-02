@@ -63,6 +63,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
+          git config user.name "appfairz"
+          git config user.email "appfairz@appfair.net"
           cd appfair.github.io/
           git pull # grab any updates that may have snuck in
           git add fairapps.json

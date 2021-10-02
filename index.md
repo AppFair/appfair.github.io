@@ -598,8 +598,8 @@ Also note that a re-named organization will, by definition, also have a new bund
 
 The generic "App" target is used for encapsulating your app as a package.
 It is expected that you will configure your app's name in your fork's `Info.plist` metadata file.
-This allows your app's fork to, itself, be easily fork-able, which can be used by someone to derive their own variation on the app.
-This sort of app "re-mixing" is central to the idea of a fair-ground, as it allows popular apps to be augmented and improved, and to have their own version by released under a separate name while still permitting their improvements to be contributed back to the parent apps in a streamlines manner.
+This allows your app's fork to be easily fork-able itself, which can be used by someone to derive their own variation on the app.
+This sort of app "re-mixing" is central to the idea of a fair-ground, as it allows popular apps to be augmented and improved, and to have their own version by released under a separate name while still enabling their improvements to be contributed back to the parent apps in a streamlined manner.
 For this reason, the generic name "App" is used for targets and package names throughout the code, and should not be changed.
 
 ### What if the name I want is already in use by another GitHub organization?

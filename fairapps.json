@@ -8,7 +8,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 3,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.78/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.78/App-Fair.png",
       "issueCount" : 0,
@@ -61,8 +61,8 @@
       "coreSize" : 8,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.168/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.168/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.170/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.170/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "2bf6b01bee6f81b089e3f0dbb21aff262036ad626cba300a3421018429ecde54",
-      "size" : 5903844,
+      "sha256" : "a7be06d19924eb4944e786df8c4b751725aa997a4700f54c46545f8173bb7497",
+      "size" : 5911482,
       "starCount" : 0,
-      "version" : "0.8.168",
-      "versionDate" : "2021-09-30T01:36:48Z",
+      "version" : "0.8.170",
+      "versionDate" : "2021-10-02T01:38:07Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

@@ -54,13 +54,39 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 10232560,
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.13/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.13/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "name" : "Next Edit",
+      "permissions" : 537133060,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "81ca100f55b9ce185cbb5b5c3d9aebb63b3eb8c6d0dbaea10702f6774ba643ed",
+      "size" : 5933697,
+      "starCount" : 0,
+      "version" : "0.0.13",
+      "versionDate" : "2021-10-03T20:23:47Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.175/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.175/Tune-Out.png",
       "issueCount" : 0,

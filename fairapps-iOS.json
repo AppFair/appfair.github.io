@@ -8,7 +8,7 @@
       ],
       "coreSize" : 11524248,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.80/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.80/App-Fair.png",
       "issueCount" : 0,
@@ -32,11 +32,11 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 0,
+      "coreSize" : 9470032,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.61/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.61/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.62/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.62/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -44,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "0f606768298e6c206242afc4c27fdfab1fa7723524f5da4fbfb534677a055333",
-      "size" : 4217755,
+      "sha256" : "f7626ba46cfc1c9321cf40e048d73c2912981cb6bb0f322fcc5a53d55ef048cd",
+      "size" : 4239322,
       "starCount" : 0,
-      "version" : "0.8.61",
-      "versionDate" : "2021-09-27T06:49:49Z",
+      "version" : "0.8.62",
+      "versionDate" : "2021-10-03T23:39:06Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -60,9 +60,9 @@
       ],
       "coreSize" : 9401144,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.14/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.14/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.15/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.15/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "name" : "Next Edit",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "5702d1eee916c07377ba7681da5bd34ea42353b5d1e376892571162d84975ec5",
-      "size" : 4207556,
+      "sha256" : "ac27809dc0375ff17c5ad47cf9d8f59d876213e7f4428870b490864d90ddd619",
+      "size" : 4207572,
       "starCount" : 0,
-      "version" : "0.0.14",
-      "versionDate" : "2021-10-03T20:37:38Z",
+      "version" : "0.0.15",
+      "versionDate" : "2021-10-03T23:38:59Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -86,9 +86,9 @@
       ],
       "coreSize" : 20436528,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.176/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.176/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.177/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.177/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -96,11 +96,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "98666ef9c17e101b93b6879612a7440cac612d71cffd5c769133a59a5692f1dd",
-      "size" : 13516821,
+      "sha256" : "6efbfd3b6d90bf9d006c8b3bd2f1968bd787e06389fb571f247dc3c007fa592b",
+      "size" : 13516800,
       "starCount" : 0,
-      "version" : "0.8.176",
-      "versionDate" : "2021-10-03T20:37:40Z",
+      "version" : "0.8.177",
+      "versionDate" : "2021-10-03T23:38:55Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

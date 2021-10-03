@@ -60,9 +60,9 @@
       ],
       "coreSize" : 8,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.173/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.173/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.174/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.174/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "16d94140761b3ce715670e3cb607e1c07135cd7899a4120e80d090de4e5209df",
-      "size" : 7041792,
+      "sha256" : "c21df5ff15222b8e7e083827e52469f709dc92d7530ba8cb788a33fd843a2802",
+      "size" : 7048648,
       "starCount" : 0,
-      "version" : "0.8.173",
-      "versionDate" : "2021-10-02T18:51:13Z",
+      "version" : "0.8.174",
+      "versionDate" : "2021-10-03T16:28:28Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

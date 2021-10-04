@@ -8,9 +8,9 @@
       ],
       "coreSize" : 4583040,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.81/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.81/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.82/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.82/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a93d65e8d14f37c5e289eb99bc5c7345cb2ea734aaa27bfb323ea06a3df102d9",
-      "size" : 2030940,
+      "sha256" : "bd011f93effa2008dce190521972a4e0bad9e6d9c4c08b72ddc883ac76081f45",
+      "size" : 2030933,
       "starCount" : 0,
-      "version" : "0.6.81",
-      "versionDate" : "2021-10-04T13:22:19Z",
+      "version" : "0.6.82",
+      "versionDate" : "2021-10-04T13:34:03Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -34,7 +34,7 @@
       ],
       "coreSize" : 3675712,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.64/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.64/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -58,11 +58,11 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10232560,
+      "coreSize" : 10249168,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.15/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.15/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.17/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.17/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "name" : "Next Edit",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "6ad1fad018430d1b1ce5ed3c341d5485af84329f7613f52e9746033bcc97eb90",
-      "size" : 5934387,
+      "sha256" : "94fd02a96da8fb4d918fc988de4b75c061acedf5cd4796981f2b5fd71420e5d2",
+      "size" : 5938073,
       "starCount" : 0,
-      "version" : "0.0.15",
-      "versionDate" : "2021-10-03T23:38:59Z",
+      "version" : "0.0.17",
+      "versionDate" : "2021-10-04T13:33:54Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -84,11 +84,11 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 6900240,
+      "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.178/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.178/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.179/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.179/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -96,11 +96,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "fdf8cf345e903c7f49b66617f9129c3e187107ffeaf9e9f854a23ec805a5bb5c",
-      "size" : 7054847,
+      "sha256" : "1dd581d0693cdc3c78db6a545c2d7a3a9b8d898ff6722d5430a956c66265e270",
+      "size" : 7054852,
       "starCount" : 0,
-      "version" : "0.8.178",
-      "versionDate" : "2021-10-04T13:22:34Z",
+      "version" : "0.8.179",
+      "versionDate" : "2021-10-04T13:34:00Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

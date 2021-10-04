@@ -6,11 +6,11 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 11540688,
+      "coreSize" : 0,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.81/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.81/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.82/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.82/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "525f160984840e0ef3f69e8106037160923221951ae2b68341a0e3640350cea3",
-      "size" : 5208379,
+      "sha256" : "3b48ebd8722cc90b4c6f977bc0d06bfde67a3e6c018384701c89d43ce88bb480",
+      "size" : 5208377,
       "starCount" : 0,
-      "version" : "0.6.81",
-      "versionDate" : "2021-10-04T13:22:19Z",
+      "version" : "0.6.82",
+      "versionDate" : "2021-10-04T13:34:03Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -34,7 +34,7 @@
       ],
       "coreSize" : 9486680,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.64/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.64/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -58,11 +58,11 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 9401144,
+      "coreSize" : 9417792,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.15/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.15/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.17/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.17/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "name" : "Next Edit",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "ac27809dc0375ff17c5ad47cf9d8f59d876213e7f4428870b490864d90ddd619",
-      "size" : 4207572,
+      "sha256" : "03cca18c6c6bba1a9ec8b78a4a688b9ee744258b6c7d47751e92aa3851541a62",
+      "size" : 4218527,
       "starCount" : 0,
-      "version" : "0.0.15",
-      "versionDate" : "2021-10-03T23:38:59Z",
+      "version" : "0.0.17",
+      "versionDate" : "2021-10-04T13:33:54Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -87,8 +87,8 @@
       "coreSize" : 20452976,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.178/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.178/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.179/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.179/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -96,11 +96,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "612be4a2c40e25533b905077afbb9cd95540abc25e99e20e6f3d27ed7e64aae6",
-      "size" : 13530315,
+      "sha256" : "b6de83572a6418fd7899f4f0b60786893b63f7f1babbd0e009dae79c7daabab3",
+      "size" : 13530327,
       "starCount" : 0,
-      "version" : "0.8.178",
-      "versionDate" : "2021-10-04T13:22:34Z",
+      "version" : "0.8.179",
+      "versionDate" : "2021-10-04T13:34:00Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

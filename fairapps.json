@@ -8,7 +8,7 @@
       ],
       "coreSize" : 4583872,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.85/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.85/App-Fair.png",
       "issueCount" : 0,
@@ -58,11 +58,11 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10249168,
+      "coreSize" : 10250128,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.19/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.19/Next-Edit.png",
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.20/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.20/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "name" : "Next Edit",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "7d210d4ac958971b9cf26f5ebc57bf37a5888c52dc06c3d1d9d59730521fc8b9",
-      "size" : 5938252,
+      "sha256" : "6fcd340aa9b10445ec5ae54f69afe3c7135766a4dd12c7b59a3629d0ddb97ded",
+      "size" : 5939564,
       "starCount" : 0,
-      "version" : "0.0.19",
-      "versionDate" : "2021-10-05T11:31:14Z",
+      "version" : "0.0.20",
+      "versionDate" : "2021-10-05T16:17:07Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

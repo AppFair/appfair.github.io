@@ -32,11 +32,11 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 9486680,
+      "coreSize" : 9487480,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.66/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.66/Cloud-Cuckoo.png",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.67/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.67/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -44,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f94179e228c6c05dbc626cbe1ca81e3901820d66bd2180f86705dd7e524d9b68",
-      "size" : 4247401,
+      "sha256" : "40e433f41060b8c49fe6157adcff48880c0fc91c88ddaa11362741a5c405455e",
+      "size" : 4251767,
       "starCount" : 0,
-      "version" : "0.8.66",
-      "versionDate" : "2021-10-05T11:31:10Z",
+      "version" : "0.8.67",
+      "versionDate" : "2021-10-05T15:18:46Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -84,11 +84,11 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 20622952,
+      "coreSize" : 20741048,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.182/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.182/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.185/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.185/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -96,11 +96,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "7ba2d4dd24cc8f3ff95e0814d0015471a07459e791f5e6e36df68f0e49a0f9fe",
-      "size" : 13607221,
+      "sha256" : "27e7fe5ef88d40e9b1cf5dde77f5889a0ff88add04eb0b4e56967cd9f4cada5e",
+      "size" : 13656325,
       "starCount" : 0,
-      "version" : "0.8.182",
-      "versionDate" : "2021-10-05T11:31:03Z",
+      "version" : "0.8.185",
+      "versionDate" : "2021-10-05T15:18:14Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

@@ -34,9 +34,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.69/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.69/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.70/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.70/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -44,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "6d779352b8784f9f55a32e022862f19a4e92ffdce72978d4a4ad3d0f562dc406",
-      "size" : 1624734,
+      "sha256" : "a31b85da777c48e8be4b40463b94060ee3c53c14753e1e0a663c479272d44df9",
+      "size" : 1625106,
       "starCount" : 0,
-      "version" : "0.8.69",
-      "versionDate" : "2021-10-08T02:06:33Z",
+      "version" : "0.8.70",
+      "versionDate" : "2021-10-08T03:33:24Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

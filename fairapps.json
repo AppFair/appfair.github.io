@@ -32,11 +32,11 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 3676512,
+      "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.67/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.67/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.69/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.69/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -44,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "0f5b6398a4631a9710e43e86f19073f82efa86f027092ea7085adc37ba886306",
-      "size" : 1623038,
+      "sha256" : "6d779352b8784f9f55a32e022862f19a4e92ffdce72978d4a4ad3d0f562dc406",
+      "size" : 1624734,
       "starCount" : 0,
-      "version" : "0.8.67",
-      "versionDate" : "2021-10-05T15:18:46Z",
+      "version" : "0.8.69",
+      "versionDate" : "2021-10-08T02:06:33Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -86,7 +86,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.217/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.217/Tune-Out.png",
       "issueCount" : 0,

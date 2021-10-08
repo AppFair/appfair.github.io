@@ -6,11 +6,11 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 4583648,
+      "coreSize" : 0,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.87/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.87/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.89/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.89/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "011111263e82a29de49ba5bfd7a37ddd4c28b292d8381039e11946e0fe6c8ebd",
-      "size" : 2034610,
+      "sha256" : "aef7f4e384f80f2732a2e4885bcc4176516392e521a544d9028e6fbd6111626a",
+      "size" : 2034971,
       "starCount" : 0,
-      "version" : "0.6.87",
-      "versionDate" : "2021-10-08T03:15:32Z",
+      "version" : "0.6.89",
+      "versionDate" : "2021-10-08T10:46:39Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -34,9 +34,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.70/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.70/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.71/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.71/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -44,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a31b85da777c48e8be4b40463b94060ee3c53c14753e1e0a663c479272d44df9",
-      "size" : 1625106,
+      "sha256" : "8d99ccf9e0accbeaa1547b7c66d0c3f1ad6331dc9d34b839bb1824f8815fd114",
+      "size" : 1625111,
       "starCount" : 0,
-      "version" : "0.8.70",
-      "versionDate" : "2021-10-08T03:33:24Z",
+      "version" : "0.8.71",
+      "versionDate" : "2021-10-08T10:47:11Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -84,11 +84,11 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 7064992,
+      "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.222/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.222/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.223/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.223/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -96,11 +96,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "bdb98da5b8b1b1b4e62ffc7a09450fa4e5af98d1f47328eeea850a3e62b2bf5a",
+      "sha256" : "9d31fc6fbc49ca3edb8e74d1ecde810f1ee4e8cfbaa7fb7ea4153c24784e1685",
       "size" : 6926987,
       "starCount" : 0,
-      "version" : "0.8.222",
-      "versionDate" : "2021-10-08T04:05:21Z",
+      "version" : "0.8.223",
+      "versionDate" : "2021-10-08T10:46:06Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

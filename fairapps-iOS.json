@@ -54,13 +54,39 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 9435504,
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.44/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.44/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "name" : "Next Edit",
+      "permissions" : 537133060,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "5a7b37592adacf05580fc268f20b63849d47a5a246b60e5cd9f353f7f8ae58ac",
+      "size" : 4224734,
+      "starCount" : 0,
+      "version" : "0.0.44",
+      "versionDate" : "2021-10-08T22:49:55Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
       "coreSize" : 20827760,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.234/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.234/Tune-Out.png",
       "issueCount" : 0,

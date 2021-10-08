@@ -6,11 +6,11 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 11557880,
+      "coreSize" : 11558176,
       "developerName" : "App Fair Affairs <>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.85/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.85/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.87/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.87/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "982d80e3b59df3dcfe2ccb0705bffec44a0035e0617e490f791c954b67e38cfe",
-      "size" : 5212846,
+      "sha256" : "46bf893885cba89c004a86e187562c6bd9f56fa7d8e9668d5367a697eb5e701f",
+      "size" : 5218511,
       "starCount" : 0,
-      "version" : "0.6.85",
-      "versionDate" : "2021-10-05T16:17:06Z",
+      "version" : "0.6.87",
+      "versionDate" : "2021-10-08T03:15:32Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -60,7 +60,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.33/Next-Edit-iOS.ipa",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.33/Next-Edit.png",
       "issueCount" : 0,

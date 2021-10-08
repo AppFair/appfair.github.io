@@ -58,11 +58,11 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10249936,
+      "coreSize" : 10250336,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.33/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.33/Next-Edit.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.41/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.41/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "name" : "Next Edit",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "2a22254cd11e9cfc1ba4badf7ff6bace96216b96be449f5f7fa36b4a1eb4a0d5",
-      "size" : 5940816,
+      "sha256" : "2dcaeab75a76669107d940f941a4fc2e933a1c1571bc741c80e8c7e13f431e92",
+      "size" : 5941197,
       "starCount" : 0,
-      "version" : "0.0.33",
-      "versionDate" : "2021-10-08T02:45:11Z",
+      "version" : "0.0.41",
+      "versionDate" : "2021-10-08T11:35:53Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

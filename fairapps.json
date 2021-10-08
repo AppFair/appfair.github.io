@@ -34,9 +34,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.74/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.74/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.75/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.75/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -44,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "db51e0c4b19726de392509b346bdd4850dc24a26b42e753c2895dc1a024aa7a2",
+      "sha256" : "cb9e9bb8ba5af2b36acfe3f4a748f1bab436e3f580be2837ab75fe27a259ae7f",
       "size" : 1625110,
       "starCount" : 0,
-      "version" : "0.8.74",
-      "versionDate" : "2021-10-08T22:49:50Z",
+      "version" : "0.8.75",
+      "versionDate" : "2021-10-08T22:49:59Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -61,8 +61,8 @@
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.233/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.233/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.234/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.234/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "037620ba5fc3832aab77a4701d06a805888262924f941beac88a6278aa6366dd",
-      "size" : 6926990,
+      "sha256" : "a9b503aaec7a54eb20a80338c470b9a699258fbb7ed6116101fdaa4aaa842163",
+      "size" : 6926985,
       "starCount" : 0,
-      "version" : "0.8.233",
-      "versionDate" : "2021-10-08T22:49:16Z",
+      "version" : "0.8.234",
+      "versionDate" : "2021-10-08T22:49:52Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

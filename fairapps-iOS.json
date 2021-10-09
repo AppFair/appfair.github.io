@@ -61,8 +61,8 @@
       "coreSize" : 9435504,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.50/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.50/Next-Edit.png",
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.51/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.51/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "name" : "Next Edit",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "b5ce4cbb8c8b0c6379c1100d518f305776dc42f0b13a483e6d0c6a8b65da9ef9",
-      "size" : 4224703,
+      "sha256" : "25090646ebeefd50e9cc00975cfbc68ee5d06e8a06e516b04bb8bfb009782b19",
+      "size" : 4224726,
       "starCount" : 0,
-      "version" : "0.0.50",
-      "versionDate" : "2021-10-09T01:35:16Z",
+      "version" : "0.0.51",
+      "versionDate" : "2021-10-09T01:54:57Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -54,6 +54,32 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 10284304,
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.62/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.62/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "name" : "Next Edit",
+      "permissions" : 537133060,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "6f637b29243068424cbe0c1025a48df9181a69728b3dd9625609f9d65d6956f3",
+      "size" : 5950367,
+      "starCount" : 0,
+      "version" : "0.0.62",
+      "versionDate" : "2021-10-11T23:20:02Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

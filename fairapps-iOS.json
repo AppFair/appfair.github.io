@@ -54,6 +54,32 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 9452032,
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.62/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.62/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "name" : "Next Edit",
+      "permissions" : 537133060,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "21732e5ae38092c4497ce6cf7a010c866b992f896096af479d343480f178d3a1",
+      "size" : 4227000,
+      "starCount" : 0,
+      "version" : "0.0.62",
+      "versionDate" : "2021-10-11T23:20:02Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

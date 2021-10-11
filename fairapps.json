@@ -8,9 +8,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.93/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.93/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.97/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.97/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c934befbc5338e2e132d5d58875896a042e7f74647e7b4d7badd96e96b61e35a",
-      "size" : 2034976,
+      "sha256" : "17a1125eff53fe9afada8ef71da079b1bb7c19944b3f7548ab79603101c6a1b7",
+      "size" : 2038654,
       "starCount" : 0,
-      "version" : "0.6.93",
-      "versionDate" : "2021-10-09T00:38:16Z",
+      "version" : "0.6.97",
+      "versionDate" : "2021-10-11T22:33:01Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -49,32 +49,6 @@
       "starCount" : 0,
       "version" : "0.8.78",
       "versionDate" : "2021-10-09T00:38:15Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Next-Edit",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "coreSize" : 10282384,
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.55/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.55/Next-Edit.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Syntactic Text Editor",
-      "name" : "Next Edit",
-      "permissions" : 537133060,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "e702258ec5abae91da01e2f0d232844fbbd934d2a7b6c5b85a7c3ede9f2e0a30",
-      "size" : 5943689,
-      "starCount" : 0,
-      "version" : "0.0.55",
-      "versionDate" : "2021-10-09T11:27:46Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

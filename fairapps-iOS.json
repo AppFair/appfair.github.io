@@ -6,11 +6,11 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 11607432,
+      "coreSize" : 11657704,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.97/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.97/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.99/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.99/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "50ced9284fed29c76646547435ce4a5655229c54928c956a1ef0e1f846370e8e",
-      "size" : 5242324,
+      "sha256" : "8a906c77fa1679cfa18608773daf82f33cee20bdf23facf52e3b845433e87f6a",
+      "size" : 5258372,
       "starCount" : 0,
-      "version" : "0.6.97",
-      "versionDate" : "2021-10-11T22:33:01Z",
+      "version" : "0.6.99",
+      "versionDate" : "2021-10-13T00:02:31Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -87,8 +87,8 @@
       "coreSize" : 21176960,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.241/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.241/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.242/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.242/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -96,11 +96,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "99701110621f9712fd1153c30b3a67c0f1adc3dfcaedc4443af5414b9cf95709",
-      "size" : 13626002,
+      "sha256" : "8bd0d837c98de0c77ef676148dd794a3aa1dc140f77688e031129fa0badca522",
+      "size" : 13671876,
       "starCount" : 0,
-      "version" : "0.8.241",
-      "versionDate" : "2021-10-12T23:31:30Z",
+      "version" : "0.8.242",
+      "versionDate" : "2021-10-12T23:59:16Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

@@ -9,8 +9,8 @@
       "coreSize" : 0,
       "developerName" : "App Fair Affairs <>",
       "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.100/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.100/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.101/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.101/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "e00579217b01900e45b4ad36f1a27b4f9f3616cf9e227f96fe4eaeb268a6759d",
-      "size" : 2046241,
+      "sha256" : "f7bb19ba5b0fcb21a55e91abb06612faa972aaa09fb1a50645ed01cbfdce9f30",
+      "size" : 2046240,
       "starCount" : 0,
-      "version" : "0.6.100",
-      "versionDate" : "2021-10-13T00:16:55Z",
+      "version" : "0.6.101",
+      "versionDate" : "2021-10-13T01:02:16Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -86,9 +86,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.242/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.242/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.243/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.243/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -96,11 +96,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a52b7778c51693b4ebf0ed7259329a3ef7f6eba742d46ea4c6ce762f77903fd0",
-      "size" : 6985768,
+      "sha256" : "ab8ef18dcdbc3666fe653b98220126138f1061abad7f5cde8305a212281e97fc",
+      "size" : 6985756,
       "starCount" : 0,
-      "version" : "0.8.242",
-      "versionDate" : "2021-10-12T23:59:16Z",
+      "version" : "0.8.243",
+      "versionDate" : "2021-10-13T01:02:26Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

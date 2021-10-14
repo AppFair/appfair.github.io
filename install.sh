@@ -135,7 +135,8 @@ await_return
 echo ""
 
 # launch the app pointing to the ${FAIR_GROUND} folder
-open -F -n -b 'app.App-Fair' -a "${APP_PATH}" "${INSTALL_PATH}"
+open -F -n -b 'app.App-Fair' -a "${APP_PATH}" 
+# "${INSTALL_PATH}"
 
 APP_FAIR_COLORS="${tty_red}A${tty_reset}${tty_blue}p${tty_reset}${tty_yellow}p${tty_reset} ${tty_green}F${tty_reset}${tty_cyan}a${tty_reset}${tty_blue}i${tty_reset}${tty_red}r${tty_reset}"
 

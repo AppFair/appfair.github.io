@@ -335,8 +335,7 @@ The fair-ground system relies on build artifacts being exactly (byte-by-byte) re
 ## App Fair Catalog Requirements 
 
 The "App Fair" catalog is the list of valid app releases at [appfair/App releases](https://github.com/appfair/App/releases) cross-referenced with the metadata for the `App/` forks: issues, discussions, support info, wikis, project web site, etc.
-This metadata is accumulated using the public GitHub APIs, and the generation in the catalog is automated.
-It is typically generated after each successful `integrate-release` phase, but the catalog is also re-generated on a scheduled basis to re-validate catalog entires and ensure that only valid entries are included in the list of available apps.
+The catalog is automatically re-generated after each successful `integrate-release` phase, and it is also periodically refreshed to re-validate the forks and ensure that only valid entries are included in the list of installable apps.
 
 ### Org Requirements
 

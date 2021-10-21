@@ -23,22 +23,25 @@ And since they rely on the native frameworks of the system, they tend to be quit
 
 ### Getting Started
 
-The App Fair catalog browser app can be installed on macOS 12 by launching `Terminal.app` and running the following command:
+The App Fair catalog browser app can be installed on macOS 12 with `Terminal.app`.
+
+For [homebrew](https://brew.sh) users, the easiest way to install the App Fair app is with the command:
+
+```
+brew install --no-quarantine --cask appfair/apps/app-fair
+```
+
+Alternatively, the app can be installed fresh with the command:
 
 ```
 bash -c "$(curl -fsSL https://appfair.net/install.sh)"
 ```
 
-Or, if you have [homebrew](https://brew.sh) installed, you can install the app with the command:
 
-```
-brew install --cask --no-quarantine appfair/catalog/App-Fair
-```
-
-
-The command will download the latest release zip and install it directly into your `/Applications/` folder.
+Both of these commands will download the latest release zip and install it directly into your `/Applications/` folder.
 From there, you can launch the **App Fair.app** catalog browser application to start searching for apps to install.
  
+<!--
 As an alternative means of installation, you can download and unzip the [App-Fair-macOS.zip](https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip) archive directly.
 Since the `App Fair.app` app is not "notarized", you will need to first launch it by command-clicking the app and then selecting the "Open…" menu item.
 This will have to be done *twice*, both times accepting the system's default warnings about launching an un-notarized app.
@@ -50,6 +53,8 @@ ditto --noqtn -kx ~/Downloads/App-Fair-macOS.zip /Applications/
 ```
 
 Note that once you have installed and launched `App Fair.app` the first time, subsequent updates will take place via the App Fair itself, and you will no longer need to perform any special steps to launch the app.
+
+-->
 
 Apps that are installed by **App Fair.app** are placed in `/Applications/App Fair/`.
 They can be un-installed using the catalog app itself, or they can be removed using the standard macOS method of dragging the app icon into the trash.

@@ -23,11 +23,18 @@ And since they rely on the native frameworks of the system, they tend to be quit
 
 ### Getting Started
 
-The App Fair catalog browser app can be installed on macOS 12 by launching `Terminal.app` and entering the following command:
+The App Fair catalog browser app can be installed on macOS 12 by launching `Terminal.app` and running the following command:
 
 ```
 bash -c "$(curl -fsSL https://appfair.net/install.sh)"
 ```
+
+Or, if you have [homebrew](https://brew.sh) installed, you can install the app with the command:
+
+```
+brew install --cask --no-quarantine appfair/catalog/App-Fair
+```
+
 
 The command will download the latest release zip and install it directly into your `/Applications/` folder.
 From there, you can launch the **App Fair.app** catalog browser application to start searching for apps to install.

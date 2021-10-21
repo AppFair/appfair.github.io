@@ -52,10 +52,17 @@ jobs:
           ref: main
           path: appfair.github.io/
 
+      - name: Checkout Casks
+        uses: actions/checkout@v2
+        with:
+          repository: appfair/homebrew-apps
+          ref: main
+          path: homebrew-apps/
+
       - name: Generate catalog
         run: |
           cd fair/
-          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" -o ../appfair.github.io/fairapps.json
+          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --cask-folder ../homebrew-apps/ -o ../appfair.github.io/fairapps.json
           swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "ipa" -o ../appfair.github.io/fairapps-iOS.json
           cd ..
 
@@ -70,5 +77,17 @@ jobs:
           git add fairapps.json
           git add fairapps-iOS.json
           git commit -m "catalog update" || echo "nothing to commit"
+          git push
+
+      - name: Update Casks
+        env:
+          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
+        run: |
+          cd homebrew-apps/
+          git config user.name "appfairz"
+          git config user.email "appfairz@appfair.net"
+          git pull # grab any updates that may have snuck in
+          git add .
+          git commit -m "cask update" || echo "nothing to commit"
           git push
 

@@ -31,7 +31,7 @@ jobs:
     steps:
       - name: Test Cask Update
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
           git clone https://user:$GITHUB_TOKEN@github.com/appfair/homebrew-apps 
 

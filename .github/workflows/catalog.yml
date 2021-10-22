@@ -59,6 +59,11 @@ jobs:
           ref: main
           path: homebrew-apps/
 
+      - name: Clear Casks
+        run: |
+          cd homebrew-apps/
+          rm *.rb
+
       - name: Generate catalog
         run: |
           cd fair/
@@ -67,25 +72,25 @@ jobs:
           cd ..
 
       - name: Update catalog
-        env:
-          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
           cd appfair.github.io/
-          git config user.name "appfairz"
-          git config user.email "appfairz@appfair.net"
-          git pull # grab any updates that may have snuck in
+          git config credential.username "appfairbot"
+          git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
+          git config user.name "appfairbot"
+          git config user.email "appfairbot@appfair.net"
+          git pull 
           git add fairapps.json
           git add fairapps-iOS.json
           git commit -m "catalog update" || echo "nothing to commit"
           git push
 
       - name: Update Casks
-        env:
-          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
           cd homebrew-apps/
-          git config user.name "appfairz"
-          git config user.email "appfairz@appfair.net"
+          git config credential.username "appfairbot"
+          git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
+          git config user.name "appfairbot"
+          git config user.email "appfairbot@appfair.net"
           git pull
           git add .
           git commit -m "cask update" || echo "nothing to commit"

@@ -28,16 +28,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-
-    env:
-      DEVELOPER_DIR: /Applications/Xcode_13.0_beta.app/Contents/Developer
-
     steps:
-      - name: Install Swift 5.5
-        uses: marcprux/setup-swift@main
-        with:
-          swift-version: '5.5'
-
       - name: Checkout Fair
         uses: actions/checkout@v2
         with:
@@ -60,6 +51,19 @@ jobs:
           path: homebrew-apps/
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+
+      - name: Test Cask Update
+        run: |
+          cd homebrew-apps/
+          git config credential.username "appfairbot"
+          git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
+          git config user.name "appfairbot"
+          git config user.email "appfairbot@appfair.net"
+          git pull
+          echo '' >> README.md
+          git add .
+          git commit -m "cask update" || echo "nothing to commit"
+          git push
 
       - name: Clear Casks
         run: |

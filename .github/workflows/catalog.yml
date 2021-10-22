@@ -77,6 +77,7 @@ jobs:
           cd appfair.github.io/
           git config credential.username "appfairbot"
           git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
+          git config --local http.extraheader "PRIVATE-TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}"
           git config user.name "appfairbot"
           git config user.email "appfairbot@appfair.net"
           git pull 

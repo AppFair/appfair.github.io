@@ -58,15 +58,17 @@ jobs:
           repository: appfair/homebrew-apps
           ref: main
           path: homebrew-apps/
+          fetch-depth: 0 # needed to be able to push
 
       - name: Clear Casks
         run: |
-          find homebrew-apps/Casks/ -name '*.rb' -exec rm {} \;
+          rm -rf homebrew-apps/Casks/
+          mkdir -p homebrew-apps/Casks/
 
       - name: Generate Catalog
         run: |
           cd fair/
-          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --cask-folder ../homebrew-apps/ -o ../appfair.github.io/fairapps.json
+          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --cask-folder ../homebrew-apps/Casks/ -o ../appfair.github.io/fairapps.json
           swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "ipa" -o ../appfair.github.io/fairapps-iOS.json
           cd ..
 

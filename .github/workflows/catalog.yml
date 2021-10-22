@@ -86,7 +86,7 @@ jobs:
           cd homebrew-apps/
           git config user.name "appfairz"
           git config user.email "appfairz@appfair.net"
-          git pull # grab any updates that may have snuck in
+          git pull
           git add .
           git commit -m "cask update" || echo "nothing to commit"
           git push

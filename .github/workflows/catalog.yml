@@ -63,14 +63,14 @@ jobs:
         run: |
           find homebrew-apps/Casks/ -name '*.rb' -exec rm {} \;
 
-      - name: Generate catalog
+      - name: Generate Catalog
         run: |
           cd fair/
           swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --cask-folder ../homebrew-apps/ -o ../appfair.github.io/fairapps.json
           swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "ipa" -o ../appfair.github.io/fairapps-iOS.json
           cd ..
 
-      - name: Update catalog
+      - name: Update Catalog
         run: |
           cd appfair.github.io/
           git config credential.username "appfairbot"

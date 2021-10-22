@@ -29,23 +29,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Test Cask Update
-        env:
-          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
-        run: |
-          git clone https://user:$GITHUB_TOKEN@github.com/appfair/homebrew-apps 
-
-          cd homebrew-apps
-          git config user.name "appfairbot"
-          git config user.email "appfairbot@appfair.net"
-
-          echo '' >> README.md
-          git add README.md
-          git commit -m "ci: test commit"
-          git remote -v # Prints:
-          git push
-
-
       - name: Checkout Fair
         uses: actions/checkout@v2
         with:
@@ -61,28 +44,10 @@ jobs:
           path: appfair.github.io/
 
       - name: Checkout Casks
-        uses: actions/checkout@v2
-        with:
-          repository: appfair/homebrew-apps
-          ref: main
-          path: homebrew-apps/
-          persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
-          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
-
-
-
-      - name: Test Cask Update
+        env:
+          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
-          cd homebrew-apps/
-          git config credential.username "appfairbot"
-          git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
-          git config user.name "appfairbot"
-          git config user.email "appfairbot@appfair.net"
-          git pull
-          echo '' >> README.md
-          git add .
-          git commit -m "cask update" || echo "nothing to commit"
-          git push
+          git clone https://user:$GITHUB_TOKEN@github.com/appfair/homebrew-apps 
 
       - name: Clear Casks
         run: |
@@ -109,15 +74,13 @@ jobs:
           git commit -m "catalog update" || echo "nothing to commit"
           git push
 
-          #- name: Update Casks
-          #run: |
-          #cd homebrew-apps/
-          #git config credential.username "appfairbot"
-          #git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
-          #git config user.name "appfairbot"
-          #git config user.email "appfairbot@appfair.net"
-          #git pull
-          #git add .
-          #git commit -m "cask update" || echo "nothing to commit"
-          #git push
+      - name: Update Casks
+        run: |
+          cd homebrew-apps/
+          git config user.name "appfairbot"
+          git config user.email "appfairbot@appfair.net"
+          git pull
+          git add .
+          git commit -m "cask update" || echo "nothing to commit"
+          git push
 

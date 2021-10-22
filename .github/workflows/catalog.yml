@@ -61,8 +61,7 @@ jobs:
 
       - name: Clear Casks
         run: |
-          cd homebrew-apps/
-          rm *.rb
+          find homebrew-apps/Casks/ -name '*.rb' -exec rm {} \;
 
       - name: Generate catalog
         run: |

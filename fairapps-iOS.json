@@ -54,6 +54,32 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Coin-Toss",
+      "categories" : [
+
+      ],
+      "coreSize" : 9606328,
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Coin-Toss/App/releases/download/0.0.4/Coin-Toss-iOS.ipa",
+      "iconURL" : "https://github.com/Coin-Toss/App/releases/download/0.0.4/Coin-Toss.png",
+      "issueCount" : 0,
+      "localizedDescription" : "",
+      "name" : "Coin Toss",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "78edff2c447c1ac5c45354d9f1b0f31d22d7ae440c380f83f8c9ff6937af7e93",
+      "size" : 4296974,
+      "starCount" : 0,
+      "version" : "0.0.4",
+      "versionDate" : "2021-10-23T17:44:27Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"

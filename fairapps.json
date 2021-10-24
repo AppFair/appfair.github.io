@@ -28,6 +28,32 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 0,
+      "developerName" : "fairapps@appfair.net",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.7/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.7/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Book reader",
+      "name" : "Bon Mot",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "a4142783bd84c819d238cb5fc93aebc971041de853b5517c601f149aeb0adf5c",
+      "size" : 1627866,
+      "starCount" : 0,
+      "version" : "0.0.7",
+      "versionDate" : "2021-10-24T14:33:47Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"

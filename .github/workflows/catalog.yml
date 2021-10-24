@@ -47,17 +47,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
         run: |
-          git clone https://user:$GITHUB_TOKEN@github.com/appfair/homebrew-apps 
+          git clone https://user:$GITHUB_TOKEN@github.com/appfair/homebrew-app
 
       - name: Clear Casks
         run: |
-          rm -rf homebrew-apps/Casks/
-          mkdir -p homebrew-apps/Casks/
+          rm -rf homebrew-app/Casks/
+          mkdir -p homebrew-app/Casks/
 
       - name: Generate Catalog
         run: |
           cd fair/
-          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --cask-folder ../homebrew-apps/Casks/ -o ../appfair.github.io/fairapps.json
+          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --cask-folder ../homebrew-app/Casks/ -o ../appfair.github.io/fairapps.json
           swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "ipa" -o ../appfair.github.io/fairapps-iOS.json
           cd ..
 
@@ -76,7 +76,7 @@ jobs:
 
       - name: Update Casks
         run: |
-          cd homebrew-apps/
+          cd homebrew-app/
           git config user.name "appfairbot"
           git config user.email "appfairbot@appfair.net"
           git pull

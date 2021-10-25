@@ -35,8 +35,8 @@
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.17/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.17/Bon-Mot.png",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.18/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.18/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
       "name" : "Bon Mot",
@@ -44,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "282759d92f2c21ec6f6c2e549e16286c4bd9a1b668981c20a170378306ee52e2",
-      "size" : 1999852,
+      "sha256" : "9e39a29e0643b1591fecbd6d8f124890f6b88a468b3bbbe2d816addb9ac2f6e6",
+      "size" : 1999848,
       "starCount" : 0,
-      "version" : "0.0.17",
-      "versionDate" : "2021-10-25T12:38:29Z",
+      "version" : "0.0.18",
+      "versionDate" : "2021-10-25T12:57:46Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

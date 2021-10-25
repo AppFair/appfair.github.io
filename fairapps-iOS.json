@@ -6,11 +6,11 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 11813416,
+      "coreSize" : 11813368,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.116/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.116/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.117/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.117/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,11 +18,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "e19e22621a88734f83759f1cbac38a222e3c9dd405cd44175ffd6315cf8d500a",
-      "size" : 5334050,
+      "sha256" : "b6d6403476953b7971a306606f4e0aec583b4eff04d2e84e4a8863953b5987fb",
+      "size" : 5705027,
       "starCount" : 0,
-      "version" : "0.6.116",
-      "versionDate" : "2021-10-23T21:17:49Z",
+      "version" : "0.6.117",
+      "versionDate" : "2021-10-25T19:31:36Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -112,7 +112,7 @@
       ],
       "coreSize" : 21664720,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.265/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.265/Tune-Out.png",
       "issueCount" : 0,

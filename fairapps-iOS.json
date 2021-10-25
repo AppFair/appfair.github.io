@@ -34,9 +34,9 @@
       ],
       "coreSize" : 9606248,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.18/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.18/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.21/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.21/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
       "name" : "Bon Mot",
@@ -44,11 +44,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "90ed799452d30fb00ac8b33212937b64b2fd7e5a13d43b5de5b62137a798afcc",
-      "size" : 4665529,
+      "sha256" : "0e81e987bdcc48a112d2e9ce58969076881674c759bdf40a68936a31c523666b",
+      "size" : 4664603,
       "starCount" : 0,
-      "version" : "0.0.18",
-      "versionDate" : "2021-10-25T12:57:46Z",
+      "version" : "0.0.21",
+      "versionDate" : "2021-10-25T19:18:15Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -58,11 +58,11 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 9744912,
+      "coreSize" : 9744832,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.82/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.82/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.83/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.83/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -70,11 +70,11 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "6a163097929ae7403852146a654b5a83f13f27826b82ee27a227ff4068d8d1fc",
-      "size" : 4369870,
+      "sha256" : "7c83686ad3e283229c3464ae4bb09da8c873c4429705c8923dd48058ea90fc6f",
+      "size" : 4741222,
       "starCount" : 0,
-      "version" : "0.8.82",
-      "versionDate" : "2021-10-23T21:18:29Z",
+      "version" : "0.8.83",
+      "versionDate" : "2021-10-25T19:17:57Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

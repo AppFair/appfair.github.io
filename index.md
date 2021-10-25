@@ -49,7 +49,7 @@ The App Fair catalog browser app can be installed on macOS 12 "Monterey" with th
 For [homebrew](https://brew.sh) users, the easiest way to install the App Fair app is with the command:
 
 ```
-brew install --no-quarantine appfair/app/app-fair 
+brew install appfair/app/app-fair 
 ```
 
 Alternatively, the app can be installed fresh with the command:
@@ -104,7 +104,7 @@ The configuration for the App Fair is defined primarily in the [appfair/App.git]
 "Fork-Apply/Integrate-Release" (F-A/I-R) describes the stages of creating, developing, building, and distributing an app.
 The "Fork" and "Apply" parts are handled by you, the developer: a fork is created from the base [`/appfair/App.git`](https://github.com/appfair/App.git) repository, and in that fork you develop your app.
 Once you enable GitHub actions for your fork, your app will be automatically built and released whenever you push a semantic version tag to your fork's repository.
-Since this fork is completely under the control of the developer, the fork is considered "untrusted", in that the app binary artifact that is built and released has no security or safety guarantees.
+Since this fork is under the control of the developer, the fork is considered "untrusted", in that the app binary artifact that is built and released has no security or safety guarantees.
 
 To be included in the App Fair catalog (and thus be discoverable and installable in the the **App Fair.app** catalog browser app), the fork's release must be independently built and verified.
 This process is initiated by the fork's developer, who signals their desire to validate the release by creating a pull request (PR) from the fork's `/App.git` repository back to the base `/appfair/App.git` repository.
@@ -365,7 +365,7 @@ The fair-ground system relies on build artifacts being exactly (byte-by-byte) re
 
 ## App Fair Catalog Requirements 
 
-The "App Fair" catalog is the list of valid app releases at [appfair/App releases](https://github.com/appfair/App/releases) cross-referenced with the metadata for the `/App.git` forks: issues, discussions, support info, wikis, project web site, etc.
+The "App Fair" catalog is the list of validated app releases, cross-referenced with the metadata for the `/App.git` forks: issues, discussions, support info, wikis, project web site, etc.
 The catalog is automatically re-generated after each successful `integrate-release` phase, and it is also periodically refreshed to re-validate the forks and ensure that only valid entries are included in the list of installable apps.
 
 ### Org Requirements
@@ -417,8 +417,7 @@ An example of a single app entry in the catalog JSON follows.
 }
 ```
 
-The catalog is constructed from the list of all the [forks of the appfair/App.git](https://github.com/appfair/App/network/members) who have passed the `integrate-release` phases and have an [artifact for download](https://github.com/appfair/App/releases) and whose organizations are valid (e.g., have a valid app name and have issues and discussions enabled).
-The catalog creation is completely automatic.
+The catalog is automatically constructed from the list of all the [forks of the appfair/App.git](https://github.com/appfair/App/network/members) who have passed the `integrate-release` phases and have an released artifact, and whose organizations are valid (e.g., have a valid app name and have issues and discussions enabled).
 
 Note that the same app will appear twice if it targets multiple operating systems with different binary artifact formats (e.g., `.zip` and `.ipa`).
 
@@ -495,7 +494,7 @@ The App Fair integration process requires that all software be hardened and sand
 
 ### Source Transparency
 
-The App Fair's `integrate-release` build process is completely automated; there is no individual review of apps when they are initially submitted, nor is there any manual review process for update releases.
+The App Fair's `integrate-release` build process is automatic; there is no individual review of apps when they are initially submitted, nor is there any manual review process for update releases.
 This allows the release and update processes to be free of delays and keeps the catalog unencumbered by subjective and inconsistent reviewer biases.
 It also precludes the possibility of any pre-distribution "gate-keeping" to enforce content or policy.
 
@@ -579,7 +578,7 @@ App Fair apps require macOS 12+ ("Monterey") in order to run.
 On systems with an earlier macOS version, you will see an error like: 
 
 ```shell
-$ brew install --no-quarantine appfair/app/app-name
+$ brew install appfair/app/app-name
 ==> Tapping appfair/app
 ==> Downloading https://github.com/App-Name/App/releases/download/1.8.82/App-Name-macOS.zip
 ######################################################################## 100.0%
@@ -766,10 +765,11 @@ You must have a valid e-mail address configured in your list of keys in your [GP
 ### Can I distribute my app using other distribution channels?
 
 You have complete control over how you distribute your App Fair apps.
-Your app's binary package can be hosted as a direct download on your web site, which side-steps the need for users to install the **App Fair.app** catalog browser application in order to use your app.
+Your app's binary package can be hosted as a direct download on your web site, which side-steps the need for users to install homebrew or the **App Fair.app** catalog browser application in order to use your app.
 Note, however, that since the app is not "notarized" by default, any direct download will require the user to perform some manual steps in order to launch the app: on macOS, they must right-click (or command-click) on the `.app` file and select "Open…" and accept a warning dialog.
 The user must do this **twice** in order to run the app when it has been downloaded directly from a web site.
 
+<!--
 ### How can I monetize my app?
 
 Apps available through the **App Fair.app** catalog browser application are always free.
@@ -777,6 +777,7 @@ Activating GitHub sponsorships will enable your account to accept financial cont
 When sponsorships are enabled, your app's container will automatically add a Help menu link to the sponsorship service.
 
 For more information about enabling sponsorships for your app, see [Displaying a sponsor button in your repository](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/displaying-a-sponsor-button-in-your-repository).
+-->
 
 ### How can I remove my app from the App Fair catalog?
 
@@ -792,7 +793,7 @@ Since discussions and issues are required in order to allow users a channel for 
 
 ### How can I have someone else's app removed from the App Fair?
 
-As the App Fair's `integrate-release` process is completely automated, there is no mechanism for direct management of, or intervention in, the app release process. 
+As the App Fair's `integrate-release` process is automatic, there is no mechanism for direct management of, or intervention in, the app release process. 
 Each app that is listed in that app's GitHub repository, which is required to have issues and discussions enabled.
 You can use these forums to contact the developer(s) of the app.
 Organizations that are removed from GitHub will have the effect of removing that organization's app from being visible or installable from the **App Fair.app** catalog.
@@ -807,8 +808,9 @@ Side-loading the `.ipa` build artifacts is not well tested at this time.
 
 ### Why do apps need to target both macOS and iOS?
 
-The integration phase of the App Fair process will build your app's fork for both macOS and iOS, even though they are currently only installable using the macOS **App Fair.app** catalog browser application.
-All apps must be able to launch on both iOS and macOS.
+The integration phase of the App Fair process will build your app's fork for both macOS and iOS, even though they are currently only installable using homebrew or the macOS **App Fair.app** catalog browser application.
+
+All apps must be able to launch on both iOS and macOS, but they may have reduced functionality on either of the platforms.
 
 ### What are the target OS versions for App Fair applications?
 
@@ -821,8 +823,7 @@ No. Only macOS and iOS builds are currently supported.
 
 ### Can I use App Fair release artifacts with other distribution channels?
 
-The binaries created by the `integrate-release` phase are standard `.zip` and `.ipa` archives and should be suitable for distributing via any compatible app distribution mechanism.
-The release artifacts at [appfair/App releases](https://github.com/appfair/App/releases) are not restricted in how they are distributed or used.
+The binaries created by the `integrate-release` phase are standard `.zip` and `.ipa` archives and are suitable for distributing via any compatible app distribution mechanism such as homebrew, the **App Fair.app** catalog browser application, or simply drag-and-drop to a folder.
 
 ### Which native frameworks will my app be able to use?
 
@@ -872,7 +873,7 @@ Any changes in entitlements or other security features will require explicit con
 ### Can I have multiple versions of an app released simultaneously?
 
 No.
-There is only ever a single active version of your app that is available through the [appfair/App releases](https://github.com/appfair/App/releases) (and, thus, available for installation in the **App Fair.app** catalog). 
+There is only ever a single active version of your app that is available in the **App Fair.app** catalog.
 Users can revert to previous versions only if they have their own backup or if the older version still resides in the user's Trash after the upgrade.
 
 ### What permissions am I permitted to use in `Sandbox.entitlements`
@@ -1066,14 +1067,6 @@ The "App Fair" is the reference implementation of a fair-ground, using a model o
 Alternative fair-ground models are possible by simply mirroring the structure and repositories of the `appfair` organization.
 Many of the App Fair's policies are simply flags that can be set on the `fairtool validate` action that is run during the `integrate` phase.
 The bulk of the fair-ground's logic, as well as the runtime code for fair-ground integration, is in the [Fair](https://fair-ground.org/Fair) library, which you can customize to handle your own implementation's policies, restrictions, and commerce needs.
-
-## How is the fair-ground's catalog updated?
-
-The "App Fair" reference implementation has a special [catalog release tag](https://github.com/appfair/App/releases/tag/catalog).
-This tag is updated with a new `catalog.json` file after every successful `integrate-release` run.
-The `catalog.json` file is the manifest of all the current and valid apps that can be downloaded using a catalog browser.
-This manifest is generated by the `fairtool`, which uses the GitHub API to aggregate the publicly-available information from the release artifacts, fork integrations, and contributor profiles that makes up the distributed collection of available apps.
-This catalog is updated to include the `fairseal` hash for every binary artifact that it offers for download, which guarantees that the app has been independently built and verified in the trusted environment of the base fair-ground.
 
 ## Can I run a fair-ground on a self-hosted GitHub runner?
 

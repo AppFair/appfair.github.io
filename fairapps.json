@@ -35,7 +35,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.26/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.26/Bon-Mot.png",
       "issueCount" : 0,
@@ -62,7 +62,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 5,
+      "downloadCount" : 6,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.85/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.85/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -114,11 +114,11 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 7363952,
+      "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.267/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.267/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.268/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.268/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "4a5519f158eefa2deadba68c1d8772c0a40147138f491eb57274dce11668cc12",
-      "size" : 7472858,
+      "sha256" : "03b3ccfcc5d216ac70aed01388997bc180c8e0c5ddb5e0eb59452b1f67ad9f1a",
+      "size" : 7474743,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.267",
-      "versionDate" : "2021-10-25T19:57:39Z",
+      "version" : "0.8.268",
+      "versionDate" : "2021-10-26T04:05:26Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

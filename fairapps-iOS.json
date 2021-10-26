@@ -35,7 +35,7 @@
       ],
       "coreSize" : 9606248,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.26/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.26/Bon-Mot.png",
       "issueCount" : 0,
@@ -114,11 +114,11 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 21664720,
+      "coreSize" : 21681112,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.267/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.267/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.268/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.268/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a51b97d26299d0b6573b2432b033be4bdf7d8cf9dcf6f1870dd2a1d538b96dc5",
-      "size" : 14320625,
+      "sha256" : "740e8f432e4cc066a7bdd022ed9bafff05a26fee849ca346f0f8a074675cb124",
+      "size" : 14331709,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.267",
-      "versionDate" : "2021-10-25T19:57:39Z",
+      "version" : "0.8.268",
+      "versionDate" : "2021-10-26T04:05:26Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

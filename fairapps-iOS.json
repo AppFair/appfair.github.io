@@ -9,8 +9,8 @@
       "coreSize" : 11829752,
       "developerName" : "App Fair Affairs <>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.121/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.121/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.122/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.122/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,12 +18,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "89c8bce91f388920a4a67017b2fb5250a3552e38d2f2827c73119e8a17474321",
-      "size" : 5713327,
+      "sha256" : "d54488e38a1b67f48784e481e839183e65c1785acfa3c00a717f1243354a07dc",
+      "size" : 5713318,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
-      "version" : "0.6.121",
-      "versionDate" : "2021-10-27T03:32:06Z",
+      "version" : "0.6.122",
+      "versionDate" : "2021-10-27T12:29:30Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -35,9 +35,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.26/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.26/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.27/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.27/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
       "name" : "Bon Mot",
@@ -45,12 +45,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "fc6f4ae75daa3c5937d694a724ec4a8e8484b7021d944d58c22e840fbe14dda9",
-      "size" : 2003173,
+      "sha256" : "ccaa5b8b3c161f42fbee935543f8ea49ad84ab70ad2b4c07ac48c68912a35f78",
+      "size" : 2003022,
       "starCount" : 0,
       "subtitle" : "Book reader",
-      "version" : "0.0.26",
-      "versionDate" : "2021-10-26T04:05:17Z",
+      "version" : "0.0.27",
+      "versionDate" : "2021-10-27T03:33:23Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -117,8 +117,8 @@
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.274/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.274/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.280/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.280/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c33ded7471b5f218cabf6d9dba00979231240dc52b27b086c22ae642ddcf9db7",
-      "size" : 7474587,
+      "sha256" : "b352f6bd6cc74c313cca9e8e01140c3a19c83ff45c549becf07e68e15ecb8f5f",
+      "size" : 7474582,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.274",
-      "versionDate" : "2021-10-26T20:03:25Z",
+      "version" : "0.8.280",
+      "versionDate" : "2021-10-27T03:31:56Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

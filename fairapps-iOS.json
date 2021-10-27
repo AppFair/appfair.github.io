@@ -6,11 +6,11 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 11813368,
+      "coreSize" : 11829752,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.120/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.120/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.121/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.121/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -18,12 +18,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "5934207ee0e15858564fea7b6cfc806a981328b7d836e79be7b47a2595b510d9",
-      "size" : 5706263,
+      "sha256" : "89c8bce91f388920a4a67017b2fb5250a3552e38d2f2827c73119e8a17474321",
+      "size" : 5713327,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
-      "version" : "0.6.120",
-      "versionDate" : "2021-10-25T20:25:25Z",
+      "version" : "0.6.121",
+      "versionDate" : "2021-10-27T03:32:06Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -60,11 +60,11 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 0,
+      "coreSize" : 9744832,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.85/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.85/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.86/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.86/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -72,12 +72,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "615ec10f563ea33995832ba84d607a052f3f6a2787ddf97e14494740c1bea6cf",
-      "size" : 4741232,
+      "sha256" : "6168ede0c864d01ba166dfd58b3c5cdd61bcb4b807af8cf94a9f16f45971d049",
+      "size" : 4747218,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
-      "version" : "0.8.85",
-      "versionDate" : "2021-10-25T19:51:53Z",
+      "version" : "0.8.86",
+      "versionDate" : "2021-10-27T03:33:03Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

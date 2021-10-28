@@ -2,6 +2,33 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Aloneness-Hubbub",
+      "categories" : [
+        "public.app-category.sports"
+      ],
+      "coreSize" : 0,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Aloneness-Hubbub/App/releases/download/0.0.1/Aloneness-Hubbub-macOS.zip",
+      "iconURL" : "https://github.com/Aloneness-Hubbub/App/releases/download/0.0.1/Aloneness-Hubbub.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Another day, another demo",
+      "name" : "Aloneness Hubbub",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "17b5a4d778b560f1dbc91d5ec4fb7ea166d9a03da4bae9823f69b6f6e864d16d",
+      "size" : 2060309,
+      "starCount" : 0,
+      "subtitle" : "Another day, another demo",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T21:55:02Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
         "public.app-category.utilities"
@@ -35,7 +62,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.34/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.34/Bon-Mot.png",
       "issueCount" : 0,

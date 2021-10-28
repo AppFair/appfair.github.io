@@ -90,8 +90,8 @@
       "coreSize" : 9606336,
       "developerName" : "GitHub Web Flow <>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.4/Congenital-Jangle-iOS.ipa",
-      "iconURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.4/Congenital-Jangle.png",
+      "downloadURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.5/Congenital-Jangle-iOS.ipa",
+      "iconURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.5/Congenital-Jangle.png",
       "issueCount" : 0,
       "localizedDescription" : "The app for Jangle Congenital",
       "name" : "Congenital Jangle",
@@ -99,12 +99,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c57e93934311b2437de89c967399525c64ee7598147cfba39121a5f939ba69ff",
-      "size" : 4694157,
+      "sha256" : "2f6071a218cb8e893ed99b2ac43395af615ea85f7f9dae9d9bb7f225be0d67bf",
+      "size" : 4694141,
       "starCount" : 0,
       "subtitle" : "The app for Jangle Congenital",
-      "version" : "0.0.4",
-      "versionDate" : "2021-10-28T14:02:11Z",
+      "version" : "0.0.5",
+      "versionDate" : "2021-10-28T14:05:23Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

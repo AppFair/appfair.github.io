@@ -170,7 +170,7 @@
       ],
       "coreSize" : 9606344,
       "developerName" : "GitHub Web Flow <>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Disquiet-Sugar/App/releases/download/0.0.1/Disquiet-Sugar-iOS.ipa",
       "iconURL" : "https://github.com/Disquiet-Sugar/App/releases/download/0.0.1/Disquiet-Sugar.png",
       "issueCount" : 0,
@@ -186,6 +186,33 @@
       "subtitle" : "Another demo app",
       "version" : "0.0.1",
       "versionDate" : "2021-10-28T16:48:05Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Grudge-Infirmary",
+      "categories" : [
+        "public.app-category.lifestyle"
+      ],
+      "coreSize" : 9606344,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Grudge-Infirmary/App/releases/download/0.0.1/Grudge-Infirmary-iOS.ipa",
+      "iconURL" : "https://github.com/Grudge-Infirmary/App/releases/download/0.0.1/Grudge-Infirmary.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Silly demo app",
+      "name" : "Grudge Infirmary",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "6de263383ae7b489e96e5ecc02f122ef5fc4f0b97494df4e4b6650295d6c960a",
+      "size" : 4694166,
+      "starCount" : 0,
+      "subtitle" : "Silly demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T17:06:42Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

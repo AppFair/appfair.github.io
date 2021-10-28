@@ -191,13 +191,40 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Equipment-Linoleum",
+      "categories" : [
+        "public.app-category.video"
+      ],
+      "coreSize" : 9606344,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Equipment-Linoleum/App/releases/download/0.0.1/Equipment-Linoleum-iOS.ipa",
+      "iconURL" : "https://github.com/Equipment-Linoleum/App/releases/download/0.0.1/Equipment-Linoleum.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Another simple demo app",
+      "name" : "Equipment Linoleum",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "e051f2fe23904ce5239fa592a68f3f2dc0134893d3e20c1cebc57c6983e52075",
+      "size" : 4699639,
+      "starCount" : 0,
+      "subtitle" : "Another simple demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T17:39:31Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Grudge-Infirmary",
       "categories" : [
         "public.app-category.lifestyle"
       ],
       "coreSize" : 9606344,
       "developerName" : "GitHub Web Flow <>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Grudge-Infirmary/App/releases/download/0.0.1/Grudge-Infirmary-iOS.ipa",
       "iconURL" : "https://github.com/Grudge-Infirmary/App/releases/download/0.0.1/Grudge-Infirmary.png",
       "issueCount" : 0,

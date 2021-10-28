@@ -197,7 +197,7 @@
       ],
       "coreSize" : 10396512,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.90/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.90/Next-Edit.png",
       "issueCount" : 0,
@@ -218,13 +218,40 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Paradigm-Burrito",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "coreSize" : 0,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Paradigm-Burrito/App/releases/download/0.0.1/Paradigm-Burrito-macOS.zip",
+      "iconURL" : "https://github.com/Paradigm-Burrito/App/releases/download/0.0.1/Paradigm-Burrito.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A silly little demo app",
+      "name" : "Paradigm Burrito",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "af72eb3a714143e6848027ab8fbfd125968a4a01f72f9d2a826b52db4d805048",
+      "size" : 2027968,
+      "starCount" : 0,
+      "subtitle" : "A silly little demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T16:44:31Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.291/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.291/Tune-Out.png",
       "issueCount" : 0,

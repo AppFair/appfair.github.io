@@ -62,7 +62,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "GitHub Web Flow <>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Calculators-Finality/App/releases/download/0.0.1/Calculators-Finality-iOS.ipa",
       "iconURL" : "https://github.com/Calculators-Finality/App/releases/download/0.0.1/Calculators-Finality.png",
       "issueCount" : 0,
@@ -132,6 +132,33 @@
       "subtitle" : "The app for Jangle Congenital",
       "version" : "0.0.5",
       "versionDate" : "2021-10-28T14:05:23Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Herring-Inheritance",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 9606344,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Herring-Inheritance/App/releases/download/0.0.1/Herring-Inheritance-iOS.ipa",
+      "iconURL" : "https://github.com/Herring-Inheritance/App/releases/download/0.0.1/Herring-Inheritance.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A tool for stuff and nonsense ",
+      "name" : "Herring Inheritance",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "5b99d0d787e38f92080211d0cd372e3c284797632d8d93546db18927b53b76ab",
+      "size" : 4696489,
+      "starCount" : 0,
+      "subtitle" : "A tool for stuff and nonsense ",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T15:41:09Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

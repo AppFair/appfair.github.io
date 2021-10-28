@@ -35,9 +35,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.32/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.32/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.33/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.33/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
       "name" : "Bon Mot",
@@ -45,12 +45,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "d5f7708d28e694d3f4308b59e6e343a8167099badefcedcae0f7804e64e3bf8c",
-      "size" : 2001930,
+      "sha256" : "a2b8822cfe3e0ef0d73f8fe224c5827b373f72a0d24f14503e91fa88283a0ef7",
+      "size" : 2032798,
       "starCount" : 0,
       "subtitle" : "Book reader",
-      "version" : "0.0.32",
-      "versionDate" : "2021-10-28T15:59:16Z",
+      "version" : "0.0.33",
+      "versionDate" : "2021-10-28T20:04:47Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -89,7 +89,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.94/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.94/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -321,6 +321,33 @@
       "subtitle" : "A silly little demo app",
       "version" : "0.0.1",
       "versionDate" : "2021-10-28T16:44:31Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Progression-Mule",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 0,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Progression-Mule/App/releases/download/0.0.1/Progression-Mule-macOS.zip",
+      "iconURL" : "https://github.com/Progression-Mule/App/releases/download/0.0.1/Progression-Mule.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Yet another demo app",
+      "name" : "Progression Mule",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "54a4f2b0e2aebaeb5eaf080ad62307ea40790fc366204b063c11366b6cee1eb0",
+      "size" : 2052734,
+      "starCount" : 0,
+      "subtitle" : "Yet another demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T20:03:12Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

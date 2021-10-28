@@ -83,6 +83,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Congenital-Jangle",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 0,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.4/Congenital-Jangle-macOS.zip",
+      "iconURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.4/Congenital-Jangle.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The app for Jangle Congenital",
+      "name" : "Congenital Jangle",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "f036ba498d5a6ef66ffbf0d9508879fd278300c460fd1475baf8ac450f2621c0",
+      "size" : 2025330,
+      "starCount" : 0,
+      "subtitle" : "The app for Jangle Congenital",
+      "version" : "0.0.4",
+      "versionDate" : "2021-10-28T14:02:11Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"

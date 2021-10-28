@@ -33,11 +33,11 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 9606248,
+      "coreSize" : 9606344,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.31/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.31/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.32/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.32/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
       "name" : "Bon Mot",
@@ -45,12 +45,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "9af1d791037d8ffc3972eca1876167df37b91ab258a14dd447828d22436ad61b",
-      "size" : 4670960,
+      "sha256" : "5ad188c3025c171e551e68346db0bbbf8f2449151f174d42dbd28aca2b142f2c",
+      "size" : 4670356,
       "starCount" : 0,
       "subtitle" : "Book reader",
-      "version" : "0.0.31",
-      "versionDate" : "2021-10-28T11:48:57Z",
+      "version" : "0.0.32",
+      "versionDate" : "2021-10-28T15:59:16Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -137,13 +137,40 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Herring-Inheritance",
+      "bundleIdentifier" : "app.Counsel-Shrimp",
       "categories" : [
         "public.app-category.games"
       ],
       "coreSize" : 9606344,
       "developerName" : "GitHub Web Flow <>",
       "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Counsel-Shrimp/App/releases/download/0.0.1/Counsel-Shrimp-iOS.ipa",
+      "iconURL" : "https://github.com/Counsel-Shrimp/App/releases/download/0.0.1/Counsel-Shrimp.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A silly little game",
+      "name" : "Counsel Shrimp",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "28afe7a8f05d13a53f11e19ecba5f044e54ca0c99fdb5728bca397e7c0970254",
+      "size" : 4690884,
+      "starCount" : 0,
+      "subtitle" : "A silly little game",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T15:56:12Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Herring-Inheritance",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 9606344,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Herring-Inheritance/App/releases/download/0.0.1/Herring-Inheritance-iOS.ipa",
       "iconURL" : "https://github.com/Herring-Inheritance/App/releases/download/0.0.1/Herring-Inheritance.png",
       "issueCount" : 0,

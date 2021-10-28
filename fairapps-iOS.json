@@ -62,7 +62,7 @@
       ],
       "coreSize" : 9744832,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.90/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.90/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -116,9 +116,9 @@
       ],
       "coreSize" : 21681112,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.289/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.289/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.290/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.290/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8b4020047238f86ab614a33878f9bd97a0bb526f3d6f11b48ef4ff5467220d58",
-      "size" : 14331293,
+      "sha256" : "c448fed534c1d60623b3e01fe7826ec1d0ab6454cba9adbee9e1240f05789248",
+      "size" : 14331273,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.289",
-      "versionDate" : "2021-10-28T11:38:48Z",
+      "version" : "0.8.290",
+      "versionDate" : "2021-10-28T12:02:34Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

@@ -195,11 +195,11 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10396432,
+      "coreSize" : 10396512,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.89/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.89/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.90/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.90/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "name" : "Next Edit",
@@ -207,12 +207,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f9d70a44325cf4e77df3f1e3a0c8a049513f663fd92661095943666ac097d7a3",
-      "size" : 6367316,
+      "sha256" : "70a48657c808dceb4453ac42ca807a323dc5f74895cfe37efacba02a4a5d3753",
+      "size" : 6366600,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.89",
-      "versionDate" : "2021-10-28T12:35:17Z",
+      "version" : "0.0.90",
+      "versionDate" : "2021-10-28T16:14:38Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -224,9 +224,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.290/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.290/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.291/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.291/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -234,12 +234,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f0761c28b8e803e4fc29ed90fcda9d80c8ae3a792f2e5a31543e76ae7c8b25a3",
-      "size" : 7474584,
+      "sha256" : "bb1558aa65c48a78676ddd4e1bd420d822604dde78e3e6e809a2de46cc73b126",
+      "size" : 7473383,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.290",
-      "versionDate" : "2021-10-28T12:02:34Z",
+      "version" : "0.8.291",
+      "versionDate" : "2021-10-28T16:14:31Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

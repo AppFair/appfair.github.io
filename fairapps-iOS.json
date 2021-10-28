@@ -195,11 +195,11 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 9725736,
+      "coreSize" : 9725824,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.89/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.89/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.90/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.90/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "name" : "Next Edit",
@@ -207,12 +207,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "3ace1f6efc21d9c4760395a034fc7844f95861671846cbade55258daa358b433",
-      "size" : 4723314,
+      "sha256" : "b54a8572d8b1fa8d72971110005713ba9b5f2a435bec4979c911c875138b78c5",
+      "size" : 4722270,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.89",
-      "versionDate" : "2021-10-28T12:35:17Z",
+      "version" : "0.0.90",
+      "versionDate" : "2021-10-28T16:14:38Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -222,11 +222,11 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 21681112,
+      "coreSize" : 21681192,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.290/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.290/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.291/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.291/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -234,12 +234,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c448fed534c1d60623b3e01fe7826ec1d0ab6454cba9adbee9e1240f05789248",
-      "size" : 14331273,
+      "sha256" : "707c3b7822b8ff3027275e7bd7d12b06af3732bb60767f34199059f04094530d",
+      "size" : 14330623,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.290",
-      "versionDate" : "2021-10-28T12:02:34Z",
+      "version" : "0.8.291",
+      "versionDate" : "2021-10-28T16:14:31Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

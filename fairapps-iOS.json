@@ -164,6 +164,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Disquiet-Sugar",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "coreSize" : 9606344,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Disquiet-Sugar/App/releases/download/0.0.1/Disquiet-Sugar-iOS.ipa",
+      "iconURL" : "https://github.com/Disquiet-Sugar/App/releases/download/0.0.1/Disquiet-Sugar.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Another demo app",
+      "name" : "Disquiet Sugar",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "b64f866c38ca0fb7b7cbddf2afffc24fd315918ddefb24417f4bd00f34c02eee",
+      "size" : 4689792,
+      "starCount" : 0,
+      "subtitle" : "Another demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T16:48:05Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Herring-Inheritance",
       "categories" : [
         "public.app-category.games"

@@ -117,8 +117,8 @@
       "coreSize" : 21681112,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.288/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.288/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.289/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.289/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "eb7ce0f0cbc3fcdeb751cc03a7ebc7803cbbb79b149d5355fc24acd0d1ab6ca9",
-      "size" : 14331249,
+      "sha256" : "8b4020047238f86ab614a33878f9bd97a0bb526f3d6f11b48ef4ff5467220d58",
+      "size" : 14331293,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.288",
-      "versionDate" : "2021-10-28T10:51:15Z",
+      "version" : "0.8.289",
+      "versionDate" : "2021-10-28T11:38:48Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

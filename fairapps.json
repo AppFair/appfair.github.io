@@ -35,7 +35,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.30/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.30/Bon-Mot.png",
       "issueCount" : 0,
@@ -117,8 +117,8 @@
       "coreSize" : 0,
       "developerName" : "fairapps@appfair.net",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.288/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.288/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.289/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.289/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "68be2c16090cd54dec42be1e690aca972d1aa00854160c866361285dd9f9f2df",
-      "size" : 7474586,
+      "sha256" : "1fdbc60805185f82f87cf5128dd099874b956b917820404403d015efb1180fff",
+      "size" : 7474584,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.288",
-      "versionDate" : "2021-10-28T10:51:15Z",
+      "version" : "0.8.289",
+      "versionDate" : "2021-10-28T11:38:48Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

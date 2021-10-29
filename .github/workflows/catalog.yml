@@ -61,8 +61,34 @@ jobs:
       - name: Generate Catalog
         run: |
           cd fair/
-          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --allow-from "${{ secrets.APP_FAIR_ALLOW }}" --deny-from "${{ secrets.APP_FAIR_DENY }}" --cask-folder ../homebrew-app/Casks/ -o ../appfair.github.io/fairapps.json
-          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "ipa" --allow-from "${{ secrets.APP_FAIR_ALLOW }}" --deny-from "${{ secrets.APP_FAIR_DENY }}" -o ../appfair.github.io/fairapps-iOS.json
+
+          swift run -- fairtool catalog \
+            --verbose true \
+			--hub github.com/appfair \
+			--token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
+			--artifact-extension "zip" \
+			--fairseal-issuer "appfairbot" \
+			--allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
+			--allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
+			--deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
+			--allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
+			--deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
+			--cask-folder ../homebrew-app/Casks/ \
+			-o ../appfair.github.io/fairapps.json
+
+          swift run -- fairtool catalog \
+			--verbose true \
+			--hub github.com/appfair \
+			--token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
+			--artifact-extension "ipa" \
+			--fairseal-issuer "appfairbot" \
+			--allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
+			--allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
+			--deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
+			--allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
+			--deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
+			-o ../appfair.github.io/fairapps-iOS.json
+
           cd ..
 
       - name: Update Catalog

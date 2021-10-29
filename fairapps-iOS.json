@@ -434,6 +434,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Tango-Cop",
+      "categories" : [
+        "public.app-category.weather"
+      ],
+      "coreSize" : 9853992,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tango-Cop/App/releases/download/0.0.1/Tango-Cop-iOS.ipa",
+      "iconURL" : "https://github.com/Tango-Cop/App/releases/download/0.0.1/Tango-Cop.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A cute little app I just made",
+      "name" : "Tango Cop",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "7d50fedcb86b4b351e5efcf288a067eac6b2ea3892bd9fca3be5dc424487e81e",
+      "size" : 4785252,
+      "starCount" : 0,
+      "subtitle" : "A cute little app I just made",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-29T21:20:59Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

@@ -52,10 +52,8 @@ jobs:
 
       - name: Generate Catalog
         run: |
-          cd fair/
-          fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --cask-folder ../homebrew-app/Casks/ -o ../appfair.github.io/fairapps.json
-          fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "ipa" -o ../appfair.github.io/fairapps-iOS.json
-          cd ..
+          fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --allow-from "${{ secrets.APP_FAIR_ALLOW }}" --deny-from "${{ secrets.APP_FAIR_DENY }}" --cask-folder homebrew-app/Casks/ -o appfair.github.io/fairapps.json
+          fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "ipa" --allow-from "${{ secrets.APP_FAIR_ALLOW }}" --deny-from "${{ secrets.APP_FAIR_DENY }}" -o appfair.github.io/fairapps-iOS.json
 
       - name: Update Catalog
         run: |

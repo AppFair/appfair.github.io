@@ -35,7 +35,7 @@
       ],
       "coreSize" : 12061064,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.126/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.126/App-Fair.png",
       "issueCount" : 0,
@@ -375,6 +375,33 @@
       "subtitle" : "Yet another demo app",
       "version" : "0.0.1",
       "versionDate" : "2021-10-28T20:03:12Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Shore-Postmaster",
+      "categories" : [
+        "public.app-category.social-networking"
+      ],
+      "coreSize" : 9770744,
+      "developerName" : "GitHub Web Flow <>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Shore-Postmaster/App/releases/download/0.0.1/Shore-Postmaster-iOS.ipa",
+      "iconURL" : "https://github.com/Shore-Postmaster/App/releases/download/0.0.1/Shore-Postmaster.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Always demo apps",
+      "name" : "Shore Postmaster",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "350fe9f5ae21dcd82f09a18abb2baa29a44a94a66f8101831526fa76e3a51006",
+      "size" : 4776733,
+      "starCount" : 0,
+      "subtitle" : "Always demo apps",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-29T02:18:10Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

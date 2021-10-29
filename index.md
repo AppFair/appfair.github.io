@@ -92,6 +92,9 @@ No additional registration, sign-up, or approval is required in order to start d
 Apps are built, validated, and distributed using GitHub's free actions for open-source projects, and so there is no cost to build and distribute your apps on the App Fair.
 
 
+https://github.com/appfair/discussions/discussions
+
+
 ## The App Fair fair-ground
 
 The "fair-ground" is the name for the autonomous cataloging service that acts as the reference for app distribution. It handles organization verification, app build validation, and cataloging of all the verified apps.
@@ -322,8 +325,10 @@ The release artifacts also include a number of other metadata related to the app
 ## Integration-Release pull requests
 
 Once a [release](#creating-releases) has been successfully created and publicly available, it becomes eligible for inclusion in the App Fair's catalog.
-The mechanism by which releases are communicated to the cataloging process is by opening (or re-opening) a pull request from the developer's `/App.git` fork.
+The mechanism by which app releases (both the initial release, as well as subsequent updates) are communicated to the cataloging process by opening (or re-opening) a pull request from the developer's `/App.git` fork.
+
 This PR will not ever be merged in the base repository; rather, it acts as a trigger to initiate the `Integration` and `Releases` phases of the App Fair process, and as a mechanism for tracking the status of the catalog request.
+The Pull Request is always closed at the end of the `Integration-Release` workflow run regardless of success.
 
 The cataloging process, which is run with the permissions in the base `/App.git` repository, checks out the fork's PR changes. 
 After validating that the organization is valid (issues and discussions enabled, etc) and that the secure portions of the project (e.g., the `project.xcodeproj` and `Sources/App/AppMain.swift` files) haven't been tampered with, it will build the project using the Swift Package Manager's sandboxed build system.
@@ -839,7 +844,7 @@ No. Only macOS and iOS builds are currently supported.
 
 ### Can I use App Fair release artifacts with other distribution channels?
 
-The binaries created by the `integrate-release` phase are standard `.zip` and `.ipa` archives and are suitable for distributing via any compatible app distribution mechanism such as homebrew, the **App Fair.app** catalog browser application, or simply drag-and-drop to a folder.
+The binaries created by the `integrate-release` phase are standard `.zip` and `.ipa` archives and are suitable for distributing via any compatible app distribution mechanism such as homebrew, the **App Fair.app** catalog browser application, or simply dragging-and-dropping into a folder.
 
 ### Which native frameworks will my app be able to use?
 
@@ -1171,35 +1176,38 @@ Use this checklist to ensure that your app is set up properly for distribution i
 
   1. Is your forked repository *publicly* accessible at: `https://github.com/App-Name/App/`?
   1. Is your `/App.git` fork public?
-  1. Is your `/App.git` fork not disabled?
-  1. Is your `/App.git` fork not archived?
-  1. Does your `/App.git` fork have issues enabled?
-  1. Does your `/App.git` fork have discussions enabled?
+  1. Does your `/App.git` fork's setting have a description and an `appfair-*` topic set?
+  1. Does your `/App.git` fork have issues & discussions enabled?
   1. Does your `/App.git` fork have actions enabled?
-  1. Does your `/App.git` fork use the same license as the base fair-ground?
-
 
 ### Source Code
 
-  1. Is the project name in `Package.swift` the same as the `App-Name`?
   1. Is the `Fair` library the initial entry in your app's dependencies list?
   1. Is the `Sources/App/AppMain.swift` file unmodified from the origin?
 
-
 ### Metadata
 
-  1. Does your app have a version that is a semantic release containing purely numbers and dots (e.g., "1.2.3")?
-  1. Does your `Info.plist` have `*UsageDescription` properties for each entitlement sought in `Sandbox.entitlements`?
- 
+  1. Is your `Info.plist` `CFBundleName` property set to `App Name` (with a space)?
+  1. Is your `Info.plist` `CFBundleIdentifier` property set to `app.App-Name` (with a hyphen)?
+  1. Is your `Info.plist` `LSApplicationCategoryType` property set to a valid category?
+  1. Is your `Info.plist` `CFBundleShortVersionString` property set to a semantic release number that exactly matches your intended release tag?
+  
+### Fork Release
+
+  1. Did you initiate a release by tagging your `/App.git` fork's with a semantic release number?
+  1. Did the release action succeed in your fork's "Actions" tab?
+  1. Do the release artifacts show up in your fork's "Releases" page?
  
 ### Pull Request
 
-  1. Do you have a pull request open to the base fair-ground for your fork's changes?
+  1. Did you merge from the upstream base `/appfair/App.git` repository using your `/App.git` fork's "Fetch Upstream" menu?
+  1. Did you open a pull request from your fork to the base `/appfair/App.git` repository?
   1. Is the title of your pull request: `App-Name`?
   1. Does the version tag of your PR match the version in `Info.plist`?
   1. Is your pull request commit signed and marked as "verified" by GitHub?
   1. Is the e-mail address associated with the commit valid (e.g., an `.edu` address)?
- 
+  1. Did the action for your PR start running at [https://github.com/appfair/App/actions](https://github.com/appfair/App/actions)?
+  
 ### Post Release
  
   1. Did the integrate-release action in the base fair-ground that was triggered by your pull request succeed?

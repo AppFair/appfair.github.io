@@ -33,9 +33,9 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 0,
+      "coreSize" : 4794752,
       "developerName" : "App Fair Affairs <>",
-      "downloadCount" : 2,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.126/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.126/App-Fair.png",
       "issueCount" : 0,
@@ -299,33 +299,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Next-Edit",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "coreSize" : 10396512,
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.90/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.90/Next-Edit.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Syntactic Text Editor",
-      "name" : "Next Edit",
-      "permissions" : 537133060,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "70a48657c808dceb4453ac42ca807a323dc5f74895cfe37efacba02a4a5d3753",
-      "size" : 6366600,
-      "starCount" : 0,
-      "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.90",
-      "versionDate" : "2021-10-28T16:14:38Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Paradigm-Burrito",
       "categories" : [
         "public.app-category.music"
@@ -359,7 +332,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "GitHub Web Flow <>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Progression-Mule/App/releases/download/0.0.1/Progression-Mule-macOS.zip",
       "iconURL" : "https://github.com/Progression-Mule/App/releases/download/0.0.1/Progression-Mule.png",
       "issueCount" : 0,
@@ -386,7 +359,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "GitHub Web Flow <>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Shore-Postmaster/App/releases/download/0.0.1/Shore-Postmaster-macOS.zip",
       "iconURL" : "https://github.com/Shore-Postmaster/App/releases/download/0.0.1/Shore-Postmaster.png",
       "issueCount" : 0,

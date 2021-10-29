@@ -61,7 +61,6 @@ jobs:
       - name: Generate Catalog
         run: |
           cd fair/
-
           swift run -- fairtool catalog \
             --verbose true \
 			--hub github.com/appfair \
@@ -75,7 +74,6 @@ jobs:
 			--deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
 			--cask-folder ../homebrew-app/Casks/ \
 			-o ../appfair.github.io/fairapps.json
-
           swift run -- fairtool catalog \
 			--verbose true \
 			--hub github.com/appfair \
@@ -88,7 +86,6 @@ jobs:
 			--allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
 			--deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
 			-o ../appfair.github.io/fairapps-iOS.json
-
           cd ..
 
       - name: Update Catalog

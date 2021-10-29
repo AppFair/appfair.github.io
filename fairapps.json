@@ -33,11 +33,11 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 4794752,
+      "coreSize" : 0,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.126/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.126/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.128/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.128/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
       "name" : "App Fair",
@@ -45,12 +45,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "02bc8e67445558891f3a389d8ff2370a4fb3dc617a37d91756ca8aebc389a75f",
-      "size" : 2495525,
+      "sha256" : "b629f8157ddf915ece9b3575b3e3b9ea7d4c1ce7adb612c8975a2ff43f3df15b",
+      "size" : 2507114,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
-      "version" : "0.6.126",
-      "versionDate" : "2021-10-29T02:14:17Z",
+      "version" : "0.6.128",
+      "versionDate" : "2021-10-29T17:00:55Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -413,7 +413,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.298/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.298/Tune-Out.png",
       "issueCount" : 0,

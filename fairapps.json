@@ -2,12 +2,66 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Aloneness-Hubbub",
+      "categories" : [
+        "public.app-category.sports"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Aloneness-Hubbub/App/releases/download/0.0.1/Aloneness-Hubbub-macOS.zip",
+      "iconURL" : "https://github.com/Aloneness-Hubbub/App/releases/download/0.0.1/Aloneness-Hubbub.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Another day, another demo",
+      "name" : "Aloneness Hubbub",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "17b5a4d778b560f1dbc91d5ec4fb7ea166d9a03da4bae9823f69b6f6e864d16d",
+      "size" : 2060309,
+      "starCount" : 0,
+      "subtitle" : "Another day, another demo",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T21:55:02Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 4794752,
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadCount" : 4,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.126/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.126/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair Catalog Browser",
+      "name" : "App Fair",
+      "permissions" : 4398584168456,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "02bc8e67445558891f3a389d8ff2370a4fb3dc617a37d91756ca8aebc389a75f",
+      "size" : 2495525,
+      "starCount" : 0,
+      "subtitle" : "The App Fair Catalog Browser",
+      "version" : "0.6.126",
+      "versionDate" : "2021-10-29T02:14:17Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.entertainment"
       ],
       "coreSize" : 0,
-      "developerName" : "fairapps@appfair.net",
+      "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.36/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.36/Bon-Mot.png",
@@ -29,12 +83,39 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Calculators-Finality",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 4,
+      "downloadURL" : "https://github.com/Calculators-Finality/App/releases/download/0.0.1/Calculators-Finality-macOS.zip",
+      "iconURL" : "https://github.com/Calculators-Finality/App/releases/download/0.0.1/Calculators-Finality.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An app that does stuff",
+      "name" : "Calculators Finality",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "f8744dc95a1d4f5e767e2473f270fbc2b2af900e0683df61407911a636dbfa49",
+      "size" : 2027395,
+      "starCount" : 0,
+      "subtitle" : "An app that does stuff",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T15:16:15Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
       ],
       "coreSize" : 0,
-      "developerName" : "fairapps@appfair.net",
+      "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.97/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.97/Cloud-Cuckoo.png",
@@ -56,13 +137,175 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Congenital-Jangle",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.5/Congenital-Jangle-macOS.zip",
+      "iconURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.5/Congenital-Jangle.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The app for Jangle Congenital",
+      "name" : "Congenital Jangle",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "db2f4b5f3b164e75c6f1d5e1a9e5f4a6f21fa87a191e4545199647642b995b65",
+      "size" : 2025329,
+      "starCount" : 0,
+      "subtitle" : "The app for Jangle Congenital",
+      "version" : "0.0.5",
+      "versionDate" : "2021-10-28T14:05:23Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Counsel-Shrimp",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Counsel-Shrimp/App/releases/download/0.0.1/Counsel-Shrimp-macOS.zip",
+      "iconURL" : "https://github.com/Counsel-Shrimp/App/releases/download/0.0.1/Counsel-Shrimp.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A silly little game",
+      "name" : "Counsel Shrimp",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "64d9349f223cb5dac5f239c6a0d5e350a0271049ad678e9438ea05478213caac",
+      "size" : 2022889,
+      "starCount" : 0,
+      "subtitle" : "A silly little game",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T15:56:12Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Disquiet-Sugar",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Disquiet-Sugar/App/releases/download/0.0.1/Disquiet-Sugar-macOS.zip",
+      "iconURL" : "https://github.com/Disquiet-Sugar/App/releases/download/0.0.1/Disquiet-Sugar.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Another demo app",
+      "name" : "Disquiet Sugar",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "3bfd5b09adac5ab827273d8f5e0065549777465599ad5458e69ed4a90b6dbe75",
+      "size" : 2021803,
+      "starCount" : 0,
+      "subtitle" : "Another demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T16:48:05Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Equipment-Linoleum",
+      "categories" : [
+        "public.app-category.video"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Equipment-Linoleum/App/releases/download/0.0.1/Equipment-Linoleum-macOS.zip",
+      "iconURL" : "https://github.com/Equipment-Linoleum/App/releases/download/0.0.1/Equipment-Linoleum.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Another simple demo app",
+      "name" : "Equipment Linoleum",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "392d34edd0203d07afb3f82ae9ed9e5d7dca06342f1686ed5fe832da50ecc231",
+      "size" : 2031944,
+      "starCount" : 0,
+      "subtitle" : "Another simple demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T17:39:31Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Grudge-Infirmary",
+      "categories" : [
+        "public.app-category.lifestyle"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Grudge-Infirmary/App/releases/download/0.0.1/Grudge-Infirmary-macOS.zip",
+      "iconURL" : "https://github.com/Grudge-Infirmary/App/releases/download/0.0.1/Grudge-Infirmary.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Silly demo app",
+      "name" : "Grudge Infirmary",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "11f2f072723aeddfe71bce8da8d28e62bb10dad5ba7dd3918eee203f0c3ce485",
+      "size" : 2026306,
+      "starCount" : 0,
+      "subtitle" : "Silly demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T17:06:42Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Herring-Inheritance",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Herring-Inheritance/App/releases/download/0.0.1/Herring-Inheritance-macOS.zip",
+      "iconURL" : "https://github.com/Herring-Inheritance/App/releases/download/0.0.1/Herring-Inheritance.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A tool for stuff and nonsense ",
+      "name" : "Herring Inheritance",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "16fd5f00d93a3a8f70e756b2f9476a77f5732c9c1976a4b5815bf48657c2a688",
+      "size" : 2028828,
+      "starCount" : 0,
+      "subtitle" : "A tool for stuff and nonsense ",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T15:41:09Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
       ],
       "coreSize" : 10462864,
-      "developerName" : "fairapps@appfair.net",
-      "downloadCount" : 2,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.99/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.99/Next-Edit.png",
       "issueCount" : 0,
@@ -83,12 +326,93 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Paradigm-Burrito",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Paradigm-Burrito/App/releases/download/0.0.1/Paradigm-Burrito-macOS.zip",
+      "iconURL" : "https://github.com/Paradigm-Burrito/App/releases/download/0.0.1/Paradigm-Burrito.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A silly little demo app",
+      "name" : "Paradigm Burrito",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "af72eb3a714143e6848027ab8fbfd125968a4a01f72f9d2a826b52db4d805048",
+      "size" : 2027968,
+      "starCount" : 0,
+      "subtitle" : "A silly little demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T16:44:31Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Progression-Mule",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Progression-Mule/App/releases/download/0.0.1/Progression-Mule-macOS.zip",
+      "iconURL" : "https://github.com/Progression-Mule/App/releases/download/0.0.1/Progression-Mule.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Yet another demo app",
+      "name" : "Progression Mule",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "54a4f2b0e2aebaeb5eaf080ad62307ea40790fc366204b063c11366b6cee1eb0",
+      "size" : 2052734,
+      "starCount" : 0,
+      "subtitle" : "Yet another demo app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T20:03:12Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Shore-Postmaster",
+      "categories" : [
+        "public.app-category.social-networking"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Shore-Postmaster/App/releases/download/0.0.1/Shore-Postmaster-macOS.zip",
+      "iconURL" : "https://github.com/Shore-Postmaster/App/releases/download/0.0.1/Shore-Postmaster.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Always demo apps",
+      "name" : "Shore Postmaster",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "626e61f423c905ff5ad5d58fcfe5ecab7eacd25a45e3b24e095543bb803c3236",
+      "size" : 2057448,
+      "starCount" : 0,
+      "subtitle" : "Always demo apps",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-29T02:18:10Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
       "coreSize" : 0,
-      "developerName" : "fairapps@appfair.net",
+      "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.296/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.296/Tune-Out.png",

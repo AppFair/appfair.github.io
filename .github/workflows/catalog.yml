@@ -29,8 +29,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Install fairtool
-        run: brew install --build-from-source fair-ground/tool/fairtool
+      - name: Checkout Fair
+        uses: actions/checkout@v2
+        with:
+          repository: fairapp/Fair.git
+          ref: main
+          path: fair/
+
+      # not yet available on linux
+      #- name: Install fairtool
+      #run: brew install --build-from-source fair-ground/tool/fairtool
 
       - name: Checkout Catalog
         uses: actions/checkout@v2
@@ -52,8 +60,10 @@ jobs:
 
       - name: Generate Catalog
         run: |
-          fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --allow-from "${{ secrets.APP_FAIR_ALLOW }}" --deny-from "${{ secrets.APP_FAIR_DENY }}" --cask-folder homebrew-app/Casks/ -o appfair.github.io/fairapps.json
-          fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "ipa" --allow-from "${{ secrets.APP_FAIR_ALLOW }}" --deny-from "${{ secrets.APP_FAIR_DENY }}" -o appfair.github.io/fairapps-iOS.json
+          cd fair/
+          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "zip" --allow-from "${{ secrets.APP_FAIR_ALLOW }}" --deny-from "${{ secrets.APP_FAIR_DENY }}" --cask-folder ../homebrew-app/Casks/ -o ../appfair.github.io/fairapps.json
+          swift run -- fairtool catalog --verbose true --hub github.com/appfair --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" --artifact-extension "ipa" --allow-from "${{ secrets.APP_FAIR_ALLOW }}" --deny-from "${{ secrets.APP_FAIR_DENY }}" -o ../appfair.github.io/fairapps-iOS.json
+          cd ..
 
       - name: Update Catalog
         run: |

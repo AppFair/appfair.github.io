@@ -299,6 +299,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Mathematics-Delegation",
+      "categories" : [
+        "public.app-category.education"
+      ],
+      "coreSize" : 9853992,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Mathematics-Delegation/App/releases/download/0.0.1/Mathematics-Delegation-iOS.ipa",
+      "iconURL" : "https://github.com/Mathematics-Delegation/App/releases/download/0.0.1/Mathematics-Delegation.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A math education app",
+      "name" : "Mathematics Delegation",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "7337cdd8320c031e410e95738e0ff52f74dcaa86ae8a75d7e9be4fa73e6a84b0",
+      "size" : 4809802,
+      "starCount" : 0,
+      "subtitle" : "A math education app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-29T20:34:15Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"

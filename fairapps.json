@@ -116,7 +116,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.98/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.98/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -294,6 +294,33 @@
       "subtitle" : "A tool for stuff and nonsense ",
       "version" : "0.0.1",
       "versionDate" : "2021-10-28T15:41:09Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Mathematics-Delegation",
+      "categories" : [
+        "public.app-category.education"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Mathematics-Delegation/App/releases/download/0.0.1/Mathematics-Delegation-macOS.zip",
+      "iconURL" : "https://github.com/Mathematics-Delegation/App/releases/download/0.0.1/Mathematics-Delegation.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A math education app",
+      "name" : "Mathematics Delegation",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "1b541b25b3b4657eca52f5e981da87e99bc97fab7951c667fdd4a5eaeb0900a1",
+      "size" : 2076186,
+      "starCount" : 0,
+      "subtitle" : "A math education app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-29T20:34:15Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

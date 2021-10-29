@@ -63,31 +63,31 @@ jobs:
           cd fair/
 
           swift run -- fairtool catalog \
-			--verbose true \
-			--hub github.com/appfair \
-			--token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
-			--artifact-extension "zip" \
-			--fairseal-issuer "appfairbot" \
-			--allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
-			--allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
-			--deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
-			--allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
-			--deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
-			--cask-folder ../homebrew-app/Casks/ \
-			-o ../appfair.github.io/fairapps.json
+            --verbose true \
+            --hub github.com/appfair \
+            --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
+            --artifact-extension "zip" \
+            --fairseal-issuer "appfairbot" \
+            --allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
+            --allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
+            --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
+            --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
+            --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
+            --cask-folder ../homebrew-app/Casks/ \
+            -o ../appfair.github.io/fairapps.json
 
           swift run -- fairtool catalog \
-			--verbose true \
-			--hub github.com/appfair \
-			--token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
-			--artifact-extension "ipa" \
-			--fairseal-issuer "appfairbot" \
-			--allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
-			--allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
-			--deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
-			--allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
-			--deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
-			-o ../appfair.github.io/fairapps-iOS.json
+            --verbose true \
+            --hub github.com/appfair \
+            --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
+            --artifact-extension "ipa" \
+            --fairseal-issuer "appfairbot" \
+            --allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
+            --allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
+            --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
+            --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
+            --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
+            -o ../appfair.github.io/fairapps-iOS.json
 
           cd ..
 

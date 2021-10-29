@@ -83,6 +83,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Calculators-Finality",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Calculators-Finality/App/releases/download/0.0.1/Calculators-Finality-iOS.ipa",
+      "iconURL" : "https://github.com/Calculators-Finality/App/releases/download/0.0.1/Calculators-Finality.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An app that does stuff",
+      "name" : "Calculators Finality",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "59cdc04836be2b9fba0ee8cb9b1412dc1914c9a97acf54ea3c0386107f1942c8",
+      "size" : 4695941,
+      "starCount" : 0,
+      "subtitle" : "An app that does stuff",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-28T15:16:15Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"

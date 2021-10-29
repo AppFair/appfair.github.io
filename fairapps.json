@@ -440,7 +440,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "appstudent19 <appstudent19@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tango-Cop/App/releases/download/0.0.1/Tango-Cop-macOS.zip",
       "iconURL" : "https://github.com/Tango-Cop/App/releases/download/0.0.1/Tango-Cop.png",
       "issueCount" : 0,
@@ -467,9 +467,9 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.298/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.298/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.299/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.299/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -477,12 +477,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "05eae1ff190c49942c171df70e5d4dcb2349e560e7498dcb16f05f93563ad469",
-      "size" : 7517528,
+      "sha256" : "3f9fce29f60c3d137b6ce024f036830359b207394d9c508cda6ff8307868bbce",
+      "size" : 7517507,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.298",
-      "versionDate" : "2021-10-29T16:01:35Z",
+      "version" : "0.8.299",
+      "versionDate" : "2021-10-29T22:12:26Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

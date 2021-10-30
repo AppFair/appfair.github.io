@@ -33,11 +33,11 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 9853992,
+      "coreSize" : 9609952,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.41/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.41/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.42/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.42/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
       "name" : "Bon Mot",
@@ -45,12 +45,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "81431a527bc89bbb960ae2f924d4378f18e4b60566f3059643654045ad80b716",
-      "size" : 4781049,
+      "sha256" : "a1e896d4b504c600112b301bb48a77f9ef7de474db1f9b4db2100e13c307d13a",
+      "size" : 4654300,
       "starCount" : 0,
       "subtitle" : "Book reader",
-      "version" : "0.0.41",
-      "versionDate" : "2021-10-29T13:48:07Z",
+      "version" : "0.0.42",
+      "versionDate" : "2021-10-30T19:26:23Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -60,11 +60,11 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 9992504,
+      "coreSize" : 9781232,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.98/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.98/Cloud-Cuckoo.png",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.99/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.99/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -72,12 +72,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c4a79dd6a6de0d17ae403b810aedc8656c97722349b0965cb24c2c1460788abe",
-      "size" : 4857084,
+      "sha256" : "78225bd9815f84da4ff3638bbf1af64c25d1b9a9cb47edfd54adbe6c5c92ba76",
+      "size" : 4729496,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
-      "version" : "0.8.98",
-      "versionDate" : "2021-10-29T18:30:56Z",
+      "version" : "0.8.99",
+      "versionDate" : "2021-10-30T19:26:53Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

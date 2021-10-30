@@ -56,33 +56,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Chagrin-Jewel",
-      "categories" : [
-        "public.app-category.healthcare-fitness"
-      ],
-      "coreSize" : 0,
-      "developerName" : "appstudent19 <appstudent19@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Chagrin-Jewel/App/releases/download/0.0.1/Chagrin-Jewel-macOS.zip",
-      "iconURL" : "https://github.com/Chagrin-Jewel/App/releases/download/0.0.1/Chagrin-Jewel.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A final demo application",
-      "name" : "Chagrin Jewel",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "74bc7dc9636473f4a1b7e6f4baa05450183a19bed5100e13c751b80f84803efb",
-      "size" : 2063110,
-      "starCount" : 0,
-      "subtitle" : "A final demo application",
-      "version" : "0.0.1",
-      "versionDate" : "2021-10-30T14:51:29Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
@@ -110,60 +83,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Congenital-Jangle",
-      "categories" : [
-        "public.app-category.entertainment"
-      ],
-      "coreSize" : 0,
-      "developerName" : "appstudent19 <appstudent19@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.5/Congenital-Jangle-macOS.zip",
-      "iconURL" : "https://github.com/Congenital-Jangle/App/releases/download/0.0.5/Congenital-Jangle.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The app for Jangle Congenital",
-      "name" : "Congenital Jangle",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "db2f4b5f3b164e75c6f1d5e1a9e5f4a6f21fa87a191e4545199647642b995b65",
-      "size" : 2025329,
-      "starCount" : 0,
-      "subtitle" : "The app for Jangle Congenital",
-      "version" : "0.0.5",
-      "versionDate" : "2021-10-28T14:05:23Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Mathematics-Delegation",
-      "categories" : [
-        "public.app-category.education"
-      ],
-      "coreSize" : 0,
-      "developerName" : "appstudent19 <appstudent19@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Mathematics-Delegation/App/releases/download/0.0.1/Mathematics-Delegation-macOS.zip",
-      "iconURL" : "https://github.com/Mathematics-Delegation/App/releases/download/0.0.1/Mathematics-Delegation.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A math education app",
-      "name" : "Mathematics Delegation",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "1b541b25b3b4657eca52f5e981da87e99bc97fab7951c667fdd4a5eaeb0900a1",
-      "size" : 2076186,
-      "starCount" : 0,
-      "subtitle" : "A math education app",
-      "version" : "0.0.1",
-      "versionDate" : "2021-10-29T20:34:15Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
@@ -186,60 +105,6 @@
       "subtitle" : "Syntactic Text Editor",
       "version" : "0.0.100",
       "versionDate" : "2021-10-29T18:00:48Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Shore-Postmaster",
-      "categories" : [
-        "public.app-category.social-networking"
-      ],
-      "coreSize" : 0,
-      "developerName" : "appstudent19 <appstudent19@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Shore-Postmaster/App/releases/download/0.0.1/Shore-Postmaster-macOS.zip",
-      "iconURL" : "https://github.com/Shore-Postmaster/App/releases/download/0.0.1/Shore-Postmaster.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Always demo apps",
-      "name" : "Shore Postmaster",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "626e61f423c905ff5ad5d58fcfe5ecab7eacd25a45e3b24e095543bb803c3236",
-      "size" : 2057448,
-      "starCount" : 0,
-      "subtitle" : "Always demo apps",
-      "version" : "0.0.1",
-      "versionDate" : "2021-10-29T02:18:10Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tango-Cop",
-      "categories" : [
-        "public.app-category.weather"
-      ],
-      "coreSize" : 0,
-      "developerName" : "appstudent19 <appstudent19@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tango-Cop/App/releases/download/0.0.1/Tango-Cop-macOS.zip",
-      "iconURL" : "https://github.com/Tango-Cop/App/releases/download/0.0.1/Tango-Cop.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A cute little app I just made",
-      "name" : "Tango Cop",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "f90cf3c26a9150342c87ca926475bfe74f425752602caab90918c9afe7cd98a8",
-      "size" : 2050840,
-      "starCount" : 0,
-      "subtitle" : "A cute little app I just made",
-      "version" : "0.0.1",
-      "versionDate" : "2021-10-29T21:20:59Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

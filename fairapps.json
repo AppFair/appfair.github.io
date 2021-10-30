@@ -110,6 +110,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Chagrin-Jewel",
+      "categories" : [
+        "public.app-category.healthcare-fitness"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Chagrin-Jewel/App/releases/download/0.0.1/Chagrin-Jewel-macOS.zip",
+      "iconURL" : "https://github.com/Chagrin-Jewel/App/releases/download/0.0.1/Chagrin-Jewel.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A final demo application",
+      "name" : "Chagrin Jewel",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "74bc7dc9636473f4a1b7e6f4baa05450183a19bed5100e13c751b80f84803efb",
+      "size" : 2063110,
+      "starCount" : 0,
+      "subtitle" : "A final demo application",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-30T14:51:29Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
@@ -467,7 +494,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.299/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.299/Tune-Out.png",
       "issueCount" : 0,

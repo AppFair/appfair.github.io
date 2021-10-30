@@ -110,6 +110,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Chagrin-Jewel",
+      "categories" : [
+        "public.app-category.healthcare-fitness"
+      ],
+      "coreSize" : 9853992,
+      "developerName" : "appstudent19 <appstudent19@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Chagrin-Jewel/App/releases/download/0.0.1/Chagrin-Jewel-iOS.ipa",
+      "iconURL" : "https://github.com/Chagrin-Jewel/App/releases/download/0.0.1/Chagrin-Jewel.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A final demo application",
+      "name" : "Chagrin Jewel",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "afc3a0d2701f4cb00f463df0629937177a2e371e99db73d29d28429593a49f46",
+      "size" : 4797281,
+      "starCount" : 0,
+      "subtitle" : "A final demo application",
+      "version" : "0.0.1",
+      "versionDate" : "2021-10-30T14:51:29Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"

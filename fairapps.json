@@ -116,7 +116,7 @@
       ],
       "coreSize" : 0,
       "developerName" : "appstudent19 <appstudent19@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Chagrin-Jewel/App/releases/download/0.0.1/Chagrin-Jewel-macOS.zip",
       "iconURL" : "https://github.com/Chagrin-Jewel/App/releases/download/0.0.1/Chagrin-Jewel.png",
       "issueCount" : 0,
@@ -213,33 +213,6 @@
       "subtitle" : "A silly little game",
       "version" : "0.0.1",
       "versionDate" : "2021-10-28T15:56:12Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Disquiet-Sugar",
-      "categories" : [
-        "public.app-category.graphics-design"
-      ],
-      "coreSize" : 0,
-      "developerName" : "appstudent19 <appstudent19@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Disquiet-Sugar/App/releases/download/0.0.1/Disquiet-Sugar-macOS.zip",
-      "iconURL" : "https://github.com/Disquiet-Sugar/App/releases/download/0.0.1/Disquiet-Sugar.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Another demo app",
-      "name" : "Disquiet Sugar",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "3bfd5b09adac5ab827273d8f5e0065549777465599ad5458e69ed4a90b6dbe75",
-      "size" : 2021803,
-      "starCount" : 0,
-      "subtitle" : "Another demo app",
-      "version" : "0.0.1",
-      "versionDate" : "2021-10-28T16:48:05Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

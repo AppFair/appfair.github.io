@@ -110,6 +110,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Oddball-Brassiere",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 9645664,
+      "developerName" : "appbopp <appbopp@tiqtiq.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Oddball-Brassiere/App/releases/download/0.0.3/Oddball-Brassiere-iOS.ipa",
+      "iconURL" : "https://github.com/Oddball-Brassiere/App/releases/download/0.0.3/Oddball-Brassiere.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple demo app",
+      "name" : "Oddball Brassiere",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "7696fd47488c24a8081185cef0ef905db0a44dd2dc394535da8cba5ef289ecc7",
+      "size" : 4687611,
+      "starCount" : 0,
+      "subtitle" : "A simple demo app",
+      "version" : "0.0.3",
+      "versionDate" : "2021-10-31T08:09:42Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

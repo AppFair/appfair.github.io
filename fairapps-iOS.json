@@ -33,11 +33,11 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 9609848,
+      "coreSize" : 9645664,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.45/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.45/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.46/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.46/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
       "name" : "Bon Mot",
@@ -45,12 +45,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "9cde532dc1811087fe71e621089e7aaa22f4a09bf69ce3b56d239efecec976e9",
-      "size" : 4655237,
+      "sha256" : "3128c651cd106fb3f339a539a7b04b01e357e6aea4334c1212a21c4471b8f08a",
+      "size" : 4660740,
       "starCount" : 0,
       "subtitle" : "Book reader",
-      "version" : "0.0.45",
-      "versionDate" : "2021-10-30T22:06:56Z",
+      "version" : "0.0.46",
+      "versionDate" : "2021-10-31T02:45:54Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

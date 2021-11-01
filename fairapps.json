@@ -110,6 +110,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Numeral-XLIV",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appbopp <appbopp@tiqtiq.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XLIV/App/releases/download/0.0.1/Numeral-XLIV-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XLIV/App/releases/download/0.0.1/Numeral-XLIV.png",
+      "issueCount" : 0,
+      "localizedDescription" : "This is a simple app.",
+      "name" : "Numeral XLIV",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "116cd792d8954a5ccf51a120edadaeb1d0e5a41c07a18d171801597ebd1cb12c",
+      "size" : 2010255,
+      "starCount" : 0,
+      "subtitle" : "This is a simple app.",
+      "version" : "0.0.1",
+      "versionDate" : "2021-11-01T13:06:41Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

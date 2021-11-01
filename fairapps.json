@@ -110,6 +110,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Numeral-XLIVX",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appbopp <appbopp@tiqtiq.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.7/Numeral-XLIVX-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.7/Numeral-XLIVX.png",
+      "issueCount" : 0,
+      "localizedDescription" : "This is a simple app.",
+      "name" : "Numeral XLIVX",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "3a190ee769baf15d095c8f64bdb16e99a41434e4ebbad3b189f28e9bc02e0e0e",
+      "size" : 2012736,
+      "starCount" : 0,
+      "subtitle" : "This is a simple app.",
+      "version" : "0.0.7",
+      "versionDate" : "2021-11-01T19:39:01Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

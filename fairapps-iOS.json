@@ -117,8 +117,8 @@
       "coreSize" : 9711472,
       "developerName" : "appbopp <appbopp@tiqtiq.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.2/Numeral-XLIVX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.2/Numeral-XLIVX.png",
+      "downloadURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.3/Numeral-XLIVX-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.3/Numeral-XLIVX.png",
       "issueCount" : 0,
       "localizedDescription" : "This is a simple app.",
       "name" : "Numeral XLIVX",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c970edd067e15371665a03d923420967f851e285e53c5cca850c93531a4a1564",
-      "size" : 4696596,
+      "sha256" : "72a00ca416f4248b4d7bc616b21e97ee7d3b0885070926b4170a58003637ef5c",
+      "size" : 4696591,
       "starCount" : 0,
       "subtitle" : "This is a simple app.",
-      "version" : "0.0.2",
-      "versionDate" : "2021-11-01T14:04:40Z",
+      "version" : "0.0.3",
+      "versionDate" : "2021-11-01T14:51:42Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

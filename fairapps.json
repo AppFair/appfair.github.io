@@ -117,8 +117,8 @@
       "coreSize" : 0,
       "developerName" : "appbopp <appbopp@tiqtiq.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.2/Numeral-XLIVX-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.2/Numeral-XLIVX.png",
+      "downloadURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.3/Numeral-XLIVX-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.3/Numeral-XLIVX.png",
       "issueCount" : 0,
       "localizedDescription" : "This is a simple app.",
       "name" : "Numeral XLIVX",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "e30c635996a10609c3342e7fcf24c6729fb059351d2bb6081a8d1accfb4272f3",
-      "size" : 2012621,
+      "sha256" : "c54fb144949a304321baa2d864a8e2b08254c0f4aa9b828008211af3d8b4eea6",
+      "size" : 2012620,
       "starCount" : 0,
       "subtitle" : "This is a simple app.",
-      "version" : "0.0.2",
-      "versionDate" : "2021-11-01T14:04:40Z",
+      "version" : "0.0.3",
+      "versionDate" : "2021-11-01T14:51:42Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

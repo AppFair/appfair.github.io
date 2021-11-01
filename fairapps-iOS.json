@@ -110,40 +110,13 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Numeral-XLIVX",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 9711456,
-      "developerName" : "appbopp <appbopp@tiqtiq.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.5/Numeral-XLIVX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XLIVX/App/releases/download/0.0.5/Numeral-XLIVX.png",
-      "issueCount" : 0,
-      "localizedDescription" : "This is a simple app.",
-      "name" : "Numeral XLIVX",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "e9b6d0f850bbaf62b880d0ebc9e70c97a2ffb130dab3fd6c5a2db02684aaa1e8",
-      "size" : 4699486,
-      "starCount" : 0,
-      "subtitle" : "This is a simple app.",
-      "version" : "0.0.5",
-      "versionDate" : "2021-11-01T16:40:11Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
       "coreSize" : 21753448,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.308/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.308/Tune-Out.png",
       "issueCount" : 0,

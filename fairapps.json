@@ -110,6 +110,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Numeral-XIXXXI",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 0,
+      "developerName" : "appbopp <appbopp@tiqtiq.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Numeral-XIXXXI/App/releases/download/0.0.1/Numeral-XIXXXI-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XIXXXI/App/releases/download/0.0.1/Numeral-XIXXXI.png",
+      "issueCount" : 0,
+      "localizedDescription" : "This is a simple but useful app",
+      "name" : "Numeral XIXXXI",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "8be6d5790d640b7a9c6f4d5c0e7cca8f006908295423c94960ce051ea676591e",
+      "size" : 2015307,
+      "starCount" : 0,
+      "subtitle" : "This is a simple but useful app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-11-02T00:20:17Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

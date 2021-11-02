@@ -35,7 +35,7 @@
       ],
       "coreSize" : 9728544,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.53/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.53/Bon-Mot.png",
       "issueCount" : 0,
@@ -60,11 +60,11 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 9833488,
+      "coreSize" : 9850664,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.104/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.104/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.105/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.105/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -72,12 +72,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "887973fad16cd1e7543329fc928bf7a6af651d3263b636fdfc04f556cdc824d3",
-      "size" : 4747173,
+      "sha256" : "66233124088f59ed2cdd7f68e6dc938fe23c2caab446179e92d1115bf4e194e4",
+      "size" : 4756203,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
-      "version" : "0.8.104",
-      "versionDate" : "2021-10-31T21:13:42Z",
+      "version" : "0.8.105",
+      "versionDate" : "2021-11-02T05:30:51Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -105,33 +105,6 @@
       "subtitle" : "Syntactic Text Editor",
       "version" : "0.0.105",
       "versionDate" : "2021-10-31T16:50:02Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Numeral-XIXXXI",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 9711672,
-      "developerName" : "appbopp <appbopp@tiqtiq.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XIXXXI/App/releases/download/0.0.1/Numeral-XIXXXI-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XIXXXI/App/releases/download/0.0.1/Numeral-XIXXXI.png",
-      "issueCount" : 0,
-      "localizedDescription" : "This is a simple but useful app",
-      "name" : "Numeral XIXXXI",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "1fcceff024b6609dffdf4bd8220aa20ca8ce2633e7bf236cee874c1d6ac3f8ea",
-      "size" : 4702515,
-      "starCount" : 0,
-      "subtitle" : "This is a simple but useful app",
-      "version" : "0.0.1",
-      "versionDate" : "2021-11-02T00:20:17Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

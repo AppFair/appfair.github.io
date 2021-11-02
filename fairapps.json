@@ -35,7 +35,7 @@
       ],
       "coreSize" : 3756128,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.53/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.53/Bon-Mot.png",
       "issueCount" : 0,
@@ -60,11 +60,11 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 0,
+      "coreSize" : 3812816,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.104/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.104/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.105/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.105/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "name" : "Cloud Cuckoo",
@@ -72,12 +72,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "e76b6ef6baf6d15a930ae41c8e4b8e2c0b7aa67a035cba8074a26e18ed4ee08a",
-      "size" : 2030022,
+      "sha256" : "c72ae5e08feb933a66950a4dd7d6a429171f9fbee0191f11d4a31f448ab3cc51",
+      "size" : 2033513,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
-      "version" : "0.8.104",
-      "versionDate" : "2021-10-31T21:13:42Z",
+      "version" : "0.8.105",
+      "versionDate" : "2021-11-02T05:30:51Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -105,33 +105,6 @@
       "subtitle" : "Syntactic Text Editor",
       "version" : "0.0.105",
       "versionDate" : "2021-10-31T16:50:02Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Numeral-XIXXXI",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 0,
-      "developerName" : "appbopp <appbopp@tiqtiq.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Numeral-XIXXXI/App/releases/download/0.0.1/Numeral-XIXXXI-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-XIXXXI/App/releases/download/0.0.1/Numeral-XIXXXI.png",
-      "issueCount" : 0,
-      "localizedDescription" : "This is a simple but useful app",
-      "name" : "Numeral XIXXXI",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "8be6d5790d640b7a9c6f4d5c0e7cca8f006908295423c94960ce051ea676591e",
-      "size" : 2015307,
-      "starCount" : 0,
-      "subtitle" : "This is a simple but useful app",
-      "version" : "0.0.1",
-      "versionDate" : "2021-11-02T00:20:17Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

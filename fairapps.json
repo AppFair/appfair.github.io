@@ -8,7 +8,7 @@
       ],
       "coreSize" : 4719584,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.134/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.134/App-Fair.png",
       "issueCount" : 0,
@@ -62,7 +62,7 @@
       ],
       "coreSize" : 3812816,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.105/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.105/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -114,11 +114,11 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 0,
+      "coreSize" : 7388080,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.308/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.308/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.309/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.309/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "name" : "Tune Out",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "fe95ec18a350e28fbc250c93e1dc42c662a6a0f7d732583f1ba4fe93490cb9f1",
-      "size" : 7466373,
+      "sha256" : "b326438b78c2c9d53e95df4b8880e908cdba34060d7902a58a75c166b65ac52b",
+      "size" : 7469038,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.308",
-      "versionDate" : "2021-11-01T17:39:03Z",
+      "version" : "0.8.309",
+      "versionDate" : "2021-11-02T05:30:33Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

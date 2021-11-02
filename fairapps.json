@@ -110,6 +110,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Numeral-XXVVII",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 3756016,
+      "developerName" : "appbopp <appbopp@tiqtiq.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XXVVII/App/releases/download/0.0.1/Numeral-XXVVII-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XXVVII/App/releases/download/0.0.1/Numeral-XXVVII.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple but useful app",
+      "name" : "Numeral XXVVII",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "f6e2381f6b1f9f2ad104b934bc1e4a0b0de065e883e64046a020c6c6e01d198d",
+      "size" : 2015900,
+      "starCount" : 0,
+      "subtitle" : "A simple but useful app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-11-02T12:04:44Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

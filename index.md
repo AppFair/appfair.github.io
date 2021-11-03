@@ -3,27 +3,6 @@ name: AppFair
 title: The App Fair
 ---
 
-<!--
-
-Demo Script:
-
-The App Fair is a free and open-source application distribution
-platform based on GitHub.
-
-Applications are uniquely represented by a two-word GitHub organization name.
-
-Create a new free GitHub organization. 
-
-This will be the name of your app, as well as your homebrew "token".
-
-Fork the base appfair/App.git repository to start your app.
-
-Once actions, issues, and discussions are enabled, 
-
-Applications  
-
--->
-
 # Welcome to the App Fair
 
 <img align="right" width="120" alt="App Fair Icon for https://www.appfair.net" src="appfair-icon.svg" />
@@ -444,8 +423,18 @@ This enables any app to be installed (and un-installed) using the [homebrew](htt
 $ brew install appfair/app/app-name
 ```
 
-Apps installed using `homebrew`
+Apps installed using `brew install` are places in the same
+`App Fair` sub-folder of the `Applications` folder, and
+can continue to be managed by the App Fair catalog browser.
 
+Note, though, that **App Fair.app** does not use the
+Homebrew database, so apps added or removed will not be
+tracked by Homebrew, which may result in `brew upgrade`
+becoming confused if apps it installs are then upgraded
+by the **App Fair.app**.
+
+Issues between Homebrew and **App Fair.app**
+can often be mitigated with the `--force` flag to the `brew command`.
 
 # Principles of the App Fair
 
@@ -1233,3 +1222,4 @@ You can include the App Fair badge with the following HTML:
 https://fair-ground.org/Fair.git -> https://github.com/fair-ground/Fair.git
 https://github.com/appfair/App.git
 -->
+

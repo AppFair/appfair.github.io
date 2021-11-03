@@ -110,6 +110,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Numeral-XVIXV",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 9728536,
+      "developerName" : "appbopp <appbopp@tiqtiq.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXV/App/releases/download/0.0.1/Numeral-XVIXV-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XVIXV/App/releases/download/0.0.1/Numeral-XVIXV.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple but useful app",
+      "name" : "Numeral XVIXV",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "97cf50632ea402d383bef9b9d4d727393f6d3b1e7047825a65a5eb60ea3cd2e5",
+      "size" : 4705983,
+      "starCount" : 0,
+      "subtitle" : "A simple but useful app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-11-03T01:11:53Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

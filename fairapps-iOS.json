@@ -114,11 +114,11 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 9728536,
+      "coreSize" : 9728736,
       "developerName" : "appbopp <appbopp@tiqtiq.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Numeral-XVIXV/App/releases/download/0.0.1/Numeral-XVIXV-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XVIXV/App/releases/download/0.0.1/Numeral-XVIXV.png",
+      "downloadURL" : "https://github.com/Numeral-XVIXV/App/releases/download/0.0.2/Numeral-XVIXV-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XVIXV/App/releases/download/0.0.2/Numeral-XVIXV.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple but useful app",
       "name" : "Numeral XVIXV",
@@ -126,12 +126,12 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "97cf50632ea402d383bef9b9d4d727393f6d3b1e7047825a65a5eb60ea3cd2e5",
-      "size" : 4705983,
+      "sha256" : "4c19669e1d37a6afeab5bdf7d541c93934980efc0f714880ab243c643a3b2bb3",
+      "size" : 4706305,
       "starCount" : 0,
       "subtitle" : "A simple but useful app",
-      "version" : "0.0.1",
-      "versionDate" : "2021-11-03T01:11:53Z",
+      "version" : "0.0.2",
+      "versionDate" : "2021-11-03T01:59:07Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

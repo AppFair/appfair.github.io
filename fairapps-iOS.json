@@ -52,6 +52,44 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 10122528,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.56/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.56/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Book reader",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.56/Bon-Mot-iOS.plist",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+        }
+      ],
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "a34ccb885dab02858049deadcb3fe346906296d1043b7152450d6343385fac14",
+      "sha256Metadata" : "7db8186bcc85dd1a7af72834b18a55013f51e56e32703d2c96abd98555e9ac65",
+      "size" : 4880390,
+      "starCount" : 0,
+      "subtitle" : "Book reader",
+      "version" : "0.0.56",
+      "versionDate" : "2021-11-03T17:57:16Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"

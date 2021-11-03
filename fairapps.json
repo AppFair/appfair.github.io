@@ -37,7 +37,7 @@
       ],
       "coreSize" : 9949648,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.106/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.106/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -55,6 +55,35 @@
       "subtitle" : "A whimsical game of excitement and delight",
       "version" : "0.8.106",
       "versionDate" : "2021-11-03T05:28:02Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "coreSize" : 21853072,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.310/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.310/Tune-Out.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.310/Tune-Out-macOS.plist",
+      "name" : "Tune Out",
+      "permissions" : 536870924,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "705802b6d7400187788c5022e3ffb71ab88c5c804f749d1f03c2b48492575d8a",
+      "sha256Metadata" : "45882cc03e48ae456c8b39f7d267a606f4ec9569acabb617fb89ddf6d76fb328",
+      "size" : 7477715,
+      "starCount" : 0,
+      "subtitle" : "Stream Internet Radio",
+      "version" : "0.8.310",
+      "versionDate" : "2021-11-03T05:27:40Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

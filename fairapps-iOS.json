@@ -1,6 +1,32 @@
 {
   "apps" : [
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 9811136,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.54/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.54/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Book reader",
+      "name" : "Bon Mot",
+      "permissions" : 537001996,
+      "screenshotURLs" : [
 
+      ],
+      "sha256" : "9b3e8085a3796ae62206919b103198243acfbceee4fa3a2c3ef33dab9fd3799c",
+      "size" : 4713056,
+      "starCount" : 0,
+      "subtitle" : "Book reader",
+      "version" : "0.0.54",
+      "versionDate" : "2021-11-03T05:07:18Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    }
   ],
   "identifier" : "appfair",
   "name" : "appfair",

@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12412728,
+      "coreSize" : 12412856,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.143/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.143/App-Fair.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.146/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.146/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.143/App-Fair-iOS.plist",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.146/App-Fair-iOS.plist",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -40,13 +40,13 @@
       "screenshotURLs" : [
 
       ],
-      "sha256" : "30e6cafebd78ec454fc869058a01da497ba09e43927e510162527ad0d2688726",
-      "sha256Metadata" : "748b5ecef5d719b52cc6c525783279b02e3edfd47a10c572294b77f5458c4ba1",
-      "size" : 5945413,
+      "sha256" : "35c28c2d84493392ce707689098526ec581e96f76e0124869d0286ff7558f8bb",
+      "sha256Metadata" : "708dfbc127b34438aefe64a4d6da908a4ae17ba531e0b4a01158810318312d0b",
+      "size" : 5940372,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
-      "version" : "0.6.143",
-      "versionDate" : "2021-11-03T17:25:46Z",
+      "version" : "0.6.146",
+      "versionDate" : "2021-11-03T23:33:29Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

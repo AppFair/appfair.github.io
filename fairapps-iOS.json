@@ -8,7 +8,7 @@
       ],
       "coreSize" : 11986088,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.136/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.136/App-Fair.png",
       "issueCount" : 0,
@@ -105,33 +105,6 @@
       "subtitle" : "Syntactic Text Editor",
       "version" : "0.0.105",
       "versionDate" : "2021-10-31T16:50:02Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Numeral-XXVVII",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 9728536,
-      "developerName" : "appbopp <appbopp@tiqtiq.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XXVVII/App/releases/download/0.0.1/Numeral-XXVVII-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XXVVII/App/releases/download/0.0.1/Numeral-XXVVII.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A simple but useful app",
-      "name" : "Numeral XXVVII",
-      "permissions" : 536870916,
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "973ad5f8998fdcd61d15039f324eb68f222a08c8df6f88c1f7df2ed21ce0d48b",
-      "size" : 4707630,
-      "starCount" : 0,
-      "subtitle" : "A simple but useful app",
-      "version" : "0.0.1",
-      "versionDate" : "2021-11-02T12:04:44Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -2,6 +2,35 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 12118096,
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.138/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.138/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair Catalog Browser",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.138/App-Fair-macOS.plist",
+      "name" : "App Fair",
+      "permissions" : 4398584168456,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "a656a6591754504ea225ce693d650f9937d3e000ae1919e27d9b05e59c6cd54b",
+      "sha256Metadata" : "673dd2839f8ec73e07f3d09e2e47fd22729c15ab7787997e7d53281b96ff927c",
+      "size" : 2478737,
+      "starCount" : 0,
+      "subtitle" : "The App Fair Catalog Browser",
+      "version" : "0.6.138",
+      "versionDate" : "2021-11-03T05:43:33Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.entertainment"
@@ -66,7 +95,7 @@
       ],
       "coreSize" : 21853072,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.310/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.310/Tune-Out.png",
       "issueCount" : 0,

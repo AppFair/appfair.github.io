@@ -2,6 +2,35 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 12118096,
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.138/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.138/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair Catalog Browser",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.138/App-Fair-iOS.plist",
+      "name" : "App Fair",
+      "permissions" : 4398584168456,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "3494c36acd697ae1ffbed7f387afa83e20490b6e8051842b36731f29827b7171",
+      "sha256Metadata" : "ab92930949b2523d306f5c2bb4830dbcdaa4c595aa8ced581136589e09eca732",
+      "size" : 5789204,
+      "starCount" : 0,
+      "subtitle" : "The App Fair Catalog Browser",
+      "version" : "0.6.138",
+      "versionDate" : "2021-11-03T05:43:33Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.entertainment"
@@ -37,7 +66,7 @@
       ],
       "coreSize" : 9949648,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.106/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.106/Cloud-Cuckoo.png",
       "issueCount" : 0,

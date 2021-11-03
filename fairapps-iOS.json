@@ -52,6 +52,37 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 10261024,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.107/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.107/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.107/Cloud-Cuckoo-iOS.plist",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "5ded75af52365e5af8fd4cba54eb91d623fcda3a58f8d38a88d8966df62fbe31",
+      "sha256Metadata" : "a2bb1b7f829738018898e168e6b71a8560a51b446cff907acfa317ab866ee64a",
+      "size" : 4949240,
+      "starCount" : 0,
+      "subtitle" : "A whimsical game of excitement and delight",
+      "version" : "0.8.107",
+      "versionDate" : "2021-11-03T17:57:51Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

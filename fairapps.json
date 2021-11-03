@@ -8,22 +8,53 @@
       ],
       "coreSize" : 9811136,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.54/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.54/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.54/Bon-Mot-macOS.plist",
       "name" : "Bon Mot",
       "permissions" : 537001996,
       "screenshotURLs" : [
 
       ],
       "sha256" : "ab0c503e9a94aaaf9f8e9a872ba3d54e5379357daea8c3dd72e93fd56405b0cb",
+      "sha256Metadata" : "6b9d35ddcaa240cf85095e418eacc52d8cbbdb46907d0d28a38faa497ee6b84d",
       "size" : 2010599,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "version" : "0.0.54",
       "versionDate" : "2021-11-03T05:07:18Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 9949648,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.106/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.106/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.106/Cloud-Cuckoo-macOS.plist",
+      "name" : "Cloud Cuckoo",
+      "permissions" : 536870916,
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "92e0f32ad30fa4948186f267b7c66d8ef9855b208298b33750d426d5eee52b51",
+      "sha256Metadata" : "0462fa324acd45a3a000dadb01f1357e39db3b568fbe514c6c939ed1c79e4243",
+      "size" : 2045807,
+      "starCount" : 0,
+      "subtitle" : "A whimsical game of excitement and delight",
+      "version" : "0.8.106",
+      "versionDate" : "2021-11-03T05:28:02Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

@@ -1,6 +1,55 @@
 {
   "apps" : [
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 12412728,
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.143/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.143/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair Catalog Browser",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.143/App-Fair-macOS.plist",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "type" : "files.user-selected.executable",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "type" : "temporary-exception.files.absolute-path.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        }
+      ],
+      "screenshotURLs" : [
 
+      ],
+      "sha256" : "4812b0bc5b2d7b091d516341fb323209d6552c5333a0c07c4bf122dcbef2db86",
+      "sha256Metadata" : "bc4346f43dc304604a529631c0484b8462acfc93aa398763f8f460bea4328a88",
+      "size" : 2541998,
+      "starCount" : 0,
+      "subtitle" : "The App Fair Catalog Browser",
+      "version" : "0.6.143",
+      "versionDate" : "2021-11-03T17:25:46Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    }
   ],
   "identifier" : "appfair",
   "name" : "appfair",

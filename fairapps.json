@@ -121,6 +121,37 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Numeral-XIVIX",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 10122832,
+      "developerName" : "appbopp <appbopp@tiqtiq.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XIVIX/App/releases/download/0.0.1/Numeral-XIVIX-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XIVIX/App/releases/download/0.0.1/Numeral-XIVIX.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple but useful app",
+      "metadataURL" : "https://github.com/Numeral-XIVIX/App/releases/download/0.0.1/Numeral-XIVIX-macOS.plist",
+      "name" : "Numeral XIVIX",
+      "permissions" : [
+
+      ],
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "0f4192b2e6a9bd8ae197497c27e496df5fa0a9c1ad3dad3003087371d4c88baa",
+      "sha256Metadata" : "31e8ca22c022a3954c161e11560a19594fe12288e23976d8613cd5fc949d19a2",
+      "size" : 2087718,
+      "starCount" : 0,
+      "subtitle" : "A simple but useful app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-11-04T16:58:05Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

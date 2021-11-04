@@ -121,6 +121,37 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Numeral-XVIXVX",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 10122832,
+      "developerName" : "appbopp <appbopp@tiqtiq.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.1/Numeral-XVIXVX-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.1/Numeral-XVIXVX.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple yet useful app",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.1/Numeral-XVIXVX-macOS.plist",
+      "name" : "Numeral XVIXVX",
+      "permissions" : [
+
+      ],
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "fba0e3672900a4b22e56fad98404baabb04001fdb3bc92c024daf3f8343ce6ca",
+      "sha256Metadata" : "91a398122b74b40bf1836c62f4e0eae9c658b842c97c254e2e71030225d0cb0a",
+      "size" : 2092345,
+      "starCount" : 0,
+      "subtitle" : "A simple yet useful app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-11-04T19:23:23Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

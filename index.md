@@ -71,9 +71,6 @@ No additional registration, sign-up, or approval is required in order to start d
 Apps are built, validated, and distributed using GitHub's free actions for open-source projects, and so there is no cost to build and distribute your apps on the App Fair.
 
 
-https://github.com/appfair/discussions/discussions
-
-
 ## The App Fair fair-ground
 
 The "fair-ground" is the name for the autonomous cataloging service that acts as the reference for app distribution. It handles organization verification, app build validation, and cataloging of all the verified apps.
@@ -545,6 +542,10 @@ For this reason, it is the creator of the PR's commit that is considered to be t
 # Troubleshooting and Frequently Asked Questions
 
 ## User FAQ
+
+### Where can I find community support?
+
+The [App Fair Discussions](https://github.com/appfair/discussions/discussions) board is the best place to seek community support in creating and maintaining App Fair apps.
 
 ### Where are App Fair apps installed?
 

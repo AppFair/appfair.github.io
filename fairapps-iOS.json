@@ -2,6 +2,58 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 12596984,
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.149/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.149/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair Catalog Browser",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.149/Info.plist",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "type" : "files.user-selected.executable",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "type" : "temporary-exception.files.absolute-path.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        }
+      ],
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/App/releases/download/0.6.149/screenshot-ipad-01-2224x1668.png",
+        "https://github.com/App-Fair/App/releases/download/0.6.149/screenshot-iphone-01-1284x2778.png",
+        "https://github.com/App-Fair/App/releases/download/0.6.149/screenshot-mac-01-2880x1800.png"
+      ],
+      "sha256" : "ab0dce331c9cfad944cde245f119ba4470fe95f8e2c06c450a803f0e01a20a46",
+      "sha256Metadata" : "157fe34abe2d189e99c68a1b3a6cab03679671afd2b586c66bf86c5b2875ae4d",
+      "size" : 6044876,
+      "starCount" : 0,
+      "subtitle" : "The App Fair Catalog Browser",
+      "version" : "0.6.149",
+      "versionDate" : "2021-11-07T20:38:27Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.entertainment"
@@ -48,7 +100,7 @@
       ],
       "coreSize" : 10393416,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.117/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.117/Cloud-Cuckoo.png",
       "issueCount" : 0,

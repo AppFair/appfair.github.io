@@ -8,12 +8,12 @@
       ],
       "coreSize" : 12596984,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.149/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.149/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.151/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.151/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.149/Info.plist",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.151/Info.plist",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -38,17 +38,17 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.149/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/App-Fair/App/releases/download/0.6.149/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/App-Fair/App/releases/download/0.6.149/screenshot-mac-01-2880x1800.png"
+        "https://github.com/App-Fair/App/releases/download/0.6.151/screenshot-ipad-01-2224x1668.png",
+        "https://github.com/App-Fair/App/releases/download/0.6.151/screenshot-mac-01-2880x1800.png",
+        "https://github.com/App-Fair/App/releases/download/0.6.151/screenshot-iphone-01-1284x2778.png"
       ],
-      "sha256" : "89c0d97f8d345fdb8f55da0cf0913930a5f842d0f0721e72a6496c873b8ec9c1",
-      "sha256Metadata" : "157fe34abe2d189e99c68a1b3a6cab03679671afd2b586c66bf86c5b2875ae4d",
-      "size" : 2569975,
+      "sha256" : "0cce8ca294f2bd87f8428c7ad8bc5b180255e4ce850bcded0d74bf2ce097c8f7",
+      "sha256Metadata" : "d4e609d8f0232e7ca84f7e75195aa4f765bf860775625d902348806229fdf66d",
+      "size" : 2571621,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
-      "version" : "0.6.149",
-      "versionDate" : "2021-11-07T20:38:27Z",
+      "version" : "0.6.151",
+      "versionDate" : "2021-11-07T22:38:32Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -60,7 +60,7 @@
       ],
       "coreSize" : 10271304,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.65/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.65/Bon-Mot.png",
       "issueCount" : 0,
@@ -100,7 +100,7 @@
       ],
       "coreSize" : 10409800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.119/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.119/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -133,12 +133,12 @@
       ],
       "coreSize" : 22313384,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.316/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.316/Tune-Out.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.317/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.317/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.316/Info.plist",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.317/Info.plist",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -147,17 +147,17 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.316/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.316/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.316/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.317/screenshot-iphone-01-1284x2778.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.317/screenshot-ipad-01-2224x1668.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.317/screenshot-mac-01-2880x1800.png"
       ],
-      "sha256" : "efb60dfff6f88e63db0ada7f123a2c284f55b40ba38f5c2313d9e6abe5dbbb87",
-      "sha256Metadata" : "f246d0a0ca14d57d92814cc523c478e72205041f71fe85d58b8180b41fe0b4fb",
-      "size" : 7566616,
+      "sha256" : "dde637520ada5f76100971db8aa48b2f84acd5f6f607b64735e0775f365aa301",
+      "sha256Metadata" : "36f47ea87e7bfb58a1299036cf35bf9f824920239c9719606677f786d3157502",
+      "size" : 7568176,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.316",
-      "versionDate" : "2021-11-07T20:37:18Z",
+      "version" : "0.8.317",
+      "versionDate" : "2021-11-07T22:37:09Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

@@ -658,19 +658,21 @@ Specifically, the keys `CFBundleName` and `CFBundleIdentifier` will need to be m
 
 ### How do I re-name my app?
 
-See the GitHub documentation on [re-naming an organization](https://docs.github.com/en/organizations/managing-organization-settings/renaming-an-organization).
-Note that you will, at a minimum, need to update your new org's `/App.git` fork's `Info.plist` to reflect the new name in the app's metadata.
+Create a new GitHub Organization with the new name, and then fork your previous organization's app into the new organization. Change the `Info.plist` metadata `CFBundleName` and `CFBundleIdentifier` keys to reflect the new name.
 
-Also note that a re-named organization will, by definition, also have a new bundle identifier, which will mean that the re-named app will not have access to the sandboxed container of the previous app (since as far as the platform is concerned it is an entirely different and new app).
+Since the re-named app has a net bundle idenfitier, it will not have access to the sandboxed container of the previous app (since as far as the platform is concerned it is an entirely new and different app). It is recommended that any app that needs to migrate data account for this by updating the previously named app with facilities to export its data to the new app's container via an interactive process.
 
 ### Can I change the target and product names from "App" in the project file?
 
-The generic "App" target is used for encapsulating your app as a package.
-It is expected that you will configure your app's name in your fork's `Info.plist` metadata file.
+The target and product names must remain "App" in the `project.xcodeproj` file.
+
+The app's name is specified by the `CFBundleName` and `CFBundleIdentifier` keys in your fork's `Info.plist` metadata file.
+
 This allows your app's fork to be easily fork-able itself, which can be used by someone to derive their own variation on the app.
 
 This sort of app "re-mixing" is central to the idea of a fair-ground, as it allows popular apps to be augmented and improved, and to have their own version by released under a separate name while still enabling their improvements to be contributed back to the parent apps in a streamlined manner.
-For this reason, the generic name "App" is used for targets and package names throughout the code, and should not be changed.
+
+For this reason, the generic name "App" is used for targets and package names throughout the code, and cannot be changed.
 
 ### What if the name I want is already in use by another GitHub organization?
 

@@ -101,7 +101,7 @@
       ],
       "coreSize" : 10427144,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.121/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.121/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -133,12 +133,12 @@
       ],
       "coreSize" : 22347064,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.318/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.318/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.319/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.319/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.318/Info.plist",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.319/Info.plist",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -147,18 +147,18 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.318/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.318/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.318/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.319/screenshot-iphone-02-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.319/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.319/screenshot-iphone-03-1170x2532.png"
       ],
-      "sha256" : "67255351fede69656d38d158033129991feedbae18ee529c18e4d9c96bb6f38c",
-      "sha256Metadata" : "675b2a318c70d0d05f4fe86fc59e698482434f007354e6189e29f478d0effd75",
-      "size" : 7573333,
+      "sha256" : "c9c3e8314787a2baa37c11c1e5539677c2b488f81a78ad1210915e4d282b1a90",
+      "sha256Metadata" : "20ac0758cc110e3a6abdfa70156fb1fae58992745ad8f396c1ebec8b61d40d2c",
+      "size" : 7573337,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "FF9502",
-      "version" : "0.8.318",
-      "versionDate" : "2021-11-08T12:00:32Z",
+      "version" : "0.8.319",
+      "versionDate" : "2021-11-08T13:14:36Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

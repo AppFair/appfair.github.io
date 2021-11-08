@@ -99,29 +99,30 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 10427144,
+      "coreSize" : 10624112,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.121/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.121/Cloud-Cuckoo.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.122/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.122/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.121/Info.plist",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.122/Info.plist",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.121/screenshot-iphone-01-828x1792.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.121/screenshot-iphone-02-828x1792.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.122/screenshot-iphone-02-828x1792.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.122/screenshot-iphone-01-828x1792.png"
       ],
-      "sha256" : "57aaf94d89f09e7c6b0f924e49340af4b23620855fb57380557f00d9427b065d",
-      "sha256Metadata" : "bbf46b6279a63690bb213ec902d68cf7e853e0b99149cdd9b01864db38ec0f5b",
-      "size" : 2139997,
+      "sha256" : "af6aef542e08e6b95049c9c01860c9f87548c3328d18c56b18dcd5a2ae3458c8",
+      "sha256Metadata" : "1cb3968dbd3cfb48a4a5976a915815f0f3825cb98c64bb17a0c29022cfa7bc9c",
+      "size" : 2162703,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
-      "version" : "0.8.121",
-      "versionDate" : "2021-11-08T12:22:43Z",
+      "tintColor" : "AF52DE",
+      "version" : "0.8.122",
+      "versionDate" : "2021-11-08T15:09:38Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

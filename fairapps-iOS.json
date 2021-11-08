@@ -58,14 +58,14 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10271304,
+      "coreSize" : 10305040,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.65/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.65/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.68/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.68/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.65/Info.plist",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.68/Info.plist",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -78,17 +78,18 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.65/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.0.65/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.0.65/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Bon-Mot/App/releases/download/0.0.68/screenshot-ipad-01-2224x1668.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.0.68/screenshot-iphone-01-1284x2778.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.0.68/screenshot-mac-01-2880x1800.png"
       ],
-      "sha256" : "f1c60c764df7397f4b595308ec5c889b5b88bfb0bf6180d7a943b9a4c68800bd",
-      "sha256Metadata" : "76b1b6b0bffae091cb90d2c02125ce35470c880bb17ca03e282362242a5928ec",
-      "size" : 4964288,
+      "sha256" : "0bf40db90ee662e4ad2eeace9ded67f5bd22bb8c165fe08111e8d481058ff859",
+      "sha256Metadata" : "298e8074774b1fb9731fb9f7c2408bce6a50ec6d505531a3f7caf2e4716297f6",
+      "size" : 4987159,
       "starCount" : 0,
       "subtitle" : "Book reader",
-      "version" : "0.0.65",
-      "versionDate" : "2021-11-07T22:17:10Z",
+      "tintColor" : "000000",
+      "version" : "0.0.68",
+      "versionDate" : "2021-11-08T04:15:14Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

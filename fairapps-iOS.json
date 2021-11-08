@@ -60,12 +60,12 @@
       ],
       "coreSize" : 10305040,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.68/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.68/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.69/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.69/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.68/Info.plist",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.69/Info.plist",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -78,18 +78,18 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.68/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.0.68/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.0.68/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Bon-Mot/App/releases/download/0.0.69/screenshot-ipad-01-2224x1668.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.0.69/screenshot-iphone-01-1284x2778.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.0.69/screenshot-mac-01-2880x1800.png"
       ],
-      "sha256" : "0bf40db90ee662e4ad2eeace9ded67f5bd22bb8c165fe08111e8d481058ff859",
-      "sha256Metadata" : "298e8074774b1fb9731fb9f7c2408bce6a50ec6d505531a3f7caf2e4716297f6",
-      "size" : 4987159,
+      "sha256" : "41415a7848edeab3cd32bbb96430a750b5d5265c21ea4fea233ba3c4f324b7c2",
+      "sha256Metadata" : "95cc0a5782217de8594815a72b86bc1d11aba86c5665909e92183444194a6c0e",
+      "size" : 4987162,
       "starCount" : 0,
       "subtitle" : "Book reader",
-      "tintColor" : "000000",
-      "version" : "0.0.68",
-      "versionDate" : "2021-11-08T04:15:14Z",
+      "tintColor" : "1765E5",
+      "version" : "0.0.69",
+      "versionDate" : "2021-11-08T11:33:36Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

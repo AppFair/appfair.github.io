@@ -58,14 +58,14 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10305040,
+      "coreSize" : 10519344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.69/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.69/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.70/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.70/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.69/Info.plist",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.70/Info.plist",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -78,18 +78,16 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.69/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.0.69/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.0.69/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Bon-Mot/App/releases/download/0.0.70/screenshot-mac-01-1754x1364.png"
       ],
-      "sha256" : "41415a7848edeab3cd32bbb96430a750b5d5265c21ea4fea233ba3c4f324b7c2",
-      "sha256Metadata" : "95cc0a5782217de8594815a72b86bc1d11aba86c5665909e92183444194a6c0e",
-      "size" : 4987162,
+      "sha256" : "d71f6fd327440d9ab271e7092489f404a0d7f6a62526e283ed2c1e0df28c08ff",
+      "sha256Metadata" : "0936b669fbffbbc032f0a51267dc4601ebbb6b1dd389ce9cc8be1688abccb9f8",
+      "size" : 5066751,
       "starCount" : 0,
       "subtitle" : "Book reader",
-      "tintColor" : "1765E5",
-      "version" : "0.0.69",
-      "versionDate" : "2021-11-08T11:33:36Z",
+      "tintColor" : "A2845E",
+      "version" : "0.0.70",
+      "versionDate" : "2021-11-08T15:57:21Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -101,7 +99,7 @@
       ],
       "coreSize" : 10624112,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.123/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.123/Cloud-Cuckoo.png",
       "issueCount" : 0,

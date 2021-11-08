@@ -60,7 +60,7 @@
       ],
       "coreSize" : 10305040,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.69/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.69/Bon-Mot.png",
       "issueCount" : 0,
@@ -99,30 +99,30 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 10409800,
+      "coreSize" : 10427144,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.119/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.119/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.120/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.120/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.119/Info.plist",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.120/Info.plist",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.119/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.119/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.119/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.120/screenshot-iphone-01-1284x2778.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.120/screenshot-ipad-01-2224x1668.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.120/screenshot-mac-01-2880x1800.png"
       ],
-      "sha256" : "16cdc0af36c90c5a82b81f5ea879ebfbb8eb7c1f886ca6a17ad7d758ab96c15e",
-      "sha256Metadata" : "8c3d318b5fba41a5eca8e16ef28f5628dac07390ad1a1a3670426da302012e7d",
-      "size" : 5037717,
+      "sha256" : "ef959f4afdc0535ac5e6c80aaab73eda0775bbb485a3b7ead79ef8d654a5ef25",
+      "sha256Metadata" : "ee59e5a572d9c0ce105c2059d9446db8aabe7cc5f693f225afb2fcc8d11ed506",
+      "size" : 5054171,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
-      "version" : "0.8.119",
-      "versionDate" : "2021-11-07T22:22:38Z",
+      "version" : "0.8.120",
+      "versionDate" : "2021-11-08T12:00:24Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -60,12 +60,12 @@
       ],
       "coreSize" : 10519344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.71/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.71/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.72/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.72/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.71/Info.plist",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.72/Info.plist",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -78,16 +78,16 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.71/screenshot-mac-01-1754x1364.png"
+        "https://github.com/Bon-Mot/App/releases/download/0.0.72/screenshot-mac-01-1754x1364.png"
       ],
-      "sha256" : "2ee346ea5d24536a2c17a279aed828fe30ec1855adf806d0cb3443a95429e595",
-      "sha256Metadata" : "8e1c98bfcdf408d1eaa01e3df3d758d695a1bf5aa65a671f5a4222779854d66d",
-      "size" : 2133251,
+      "sha256" : "a5dffab43d7e6374fe68d09c0bddf478175b933dc5978e702193d0b326553d7b",
+      "sha256Metadata" : "389be043f90f4b71dd34b96af458b717d42029642905a7522ae998064808d8a1",
+      "size" : 2133973,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.71",
-      "versionDate" : "2021-11-09T11:58:07Z",
+      "version" : "0.0.72",
+      "versionDate" : "2021-11-09T14:39:11Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

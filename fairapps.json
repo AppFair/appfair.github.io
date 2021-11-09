@@ -99,7 +99,7 @@
       ],
       "coreSize" : 10624112,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.124/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.124/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -198,14 +198,14 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 22347064,
+      "coreSize" : 22544096,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.319/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.319/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.320/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.320/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.319/Info.plist",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.320/Info.plist",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -214,18 +214,18 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.319/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.319/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.319/screenshot-iphone-03-1170x2532.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.320/screenshot-iphone-02-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.320/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.320/screenshot-iphone-03-1170x2532.png"
       ],
-      "sha256" : "c9c3e8314787a2baa37c11c1e5539677c2b488f81a78ad1210915e4d282b1a90",
-      "sha256Metadata" : "20ac0758cc110e3a6abdfa70156fb1fae58992745ad8f396c1ebec8b61d40d2c",
-      "size" : 7573337,
+      "sha256" : "ddcfaa8dc45f69507821032f0f449400e5043a1a53ab40a4565bb2285c660598",
+      "sha256Metadata" : "f44c1231b70e2133f517fabd0c8ab0e2f1a1c10177fed66eb8f2dd032aa2504e",
+      "size" : 7596322,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "FF9502",
-      "version" : "0.8.319",
-      "versionDate" : "2021-11-08T13:14:36Z",
+      "version" : "0.8.320",
+      "versionDate" : "2021-11-09T14:53:20Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

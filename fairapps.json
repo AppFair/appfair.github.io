@@ -8,7 +8,7 @@
       ],
       "coreSize" : 12827536,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.154/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.154/App-Fair.png",
       "issueCount" : 0,
@@ -60,12 +60,12 @@
       ],
       "coreSize" : 10519344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.70/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.70/Bon-Mot.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.71/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.71/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.70/Info.plist",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.71/Info.plist",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -78,16 +78,16 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.70/screenshot-mac-01-1754x1364.png"
+        "https://github.com/Bon-Mot/App/releases/download/0.0.71/screenshot-mac-01-1754x1364.png"
       ],
-      "sha256" : "40bbe7f1d6e7eb057291aa0af9a43050ec614e7ab672008878cbb356f2da2fd5",
-      "sha256Metadata" : "0936b669fbffbbc032f0a51267dc4601ebbb6b1dd389ce9cc8be1688abccb9f8",
-      "size" : 2133252,
+      "sha256" : "2ee346ea5d24536a2c17a279aed828fe30ec1855adf806d0cb3443a95429e595",
+      "sha256Metadata" : "8e1c98bfcdf408d1eaa01e3df3d758d695a1bf5aa65a671f5a4222779854d66d",
+      "size" : 2133251,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.70",
-      "versionDate" : "2021-11-08T15:57:21Z",
+      "version" : "0.0.71",
+      "versionDate" : "2021-11-09T11:58:07Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

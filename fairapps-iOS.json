@@ -99,30 +99,30 @@
       ],
       "coreSize" : 10624112,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.123/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.123/Cloud-Cuckoo.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.124/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.124/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.123/Info.plist",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.124/Info.plist",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.123/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.123/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.123/screenshot-iphone-04-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.123/screenshot-iphone-03-1170x2532.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.124/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.124/screenshot-iphone-02-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.124/screenshot-iphone-04-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.124/screenshot-iphone-03-1170x2532.png"
       ],
-      "sha256" : "3ff58de05b880289742d349c57f0d635beecccf81aacaa747b8431a5d94acbda",
-      "sha256Metadata" : "2d0854b79d0c91f507ebfd83334290d41d59b9ddf901e49e3eea197528c4e0a7",
-      "size" : 5125310,
+      "sha256" : "2258b9703bfcec404c1d7cbdf843c2db61550d6b72a06f864f0561c690df5c93",
+      "sha256Metadata" : "0b1dd7f90c682a2e51510d1b73e4328c905004f27ac2137be20ba4911b72569a",
+      "size" : 5126002,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.123",
-      "versionDate" : "2021-11-08T15:30:49Z",
+      "version" : "0.8.124",
+      "versionDate" : "2021-11-09T14:55:49Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -156,6 +156,39 @@
       "subtitle" : "An app for learning Roman Numerals",
       "version" : "0.0.1",
       "versionDate" : "2021-11-09T14:44:37Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Numeral-XVIXVX",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 10502072,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Numeral-XVIXVX-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Numeral-XVIXVX.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple yet useful app",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Info.plist",
+      "name" : "Numeral XVIXVX",
+      "permissions" : [
+
+      ],
+      "screenshotURLs" : [
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-ipad-01-2224x1668.png",
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-iphone-01-1284x2778.png",
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png"
+      ],
+      "sha256" : "a748da2e6b3b66195dfa05799de23b979742097ac9ab7d534be90e3b1b3e2897",
+      "sha256Metadata" : "b28ad3c3679bdce2adc4ad5db325692d3548090a45c06625a1aff4fe7b43a3c8",
+      "size" : 5077664,
+      "starCount" : 0,
+      "subtitle" : "A simple yet useful app",
+      "version" : "0.0.2",
+      "versionDate" : "2021-11-09T14:50:42Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12827536,
+      "coreSize" : 12860776,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.154/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.154/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.154/Info.plist",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/Info.plist",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -38,17 +38,17 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.154/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/App-Fair/App/releases/download/0.6.154/screenshot-iphone-02-1170x2532.png"
+        "https://github.com/App-Fair/App/releases/download/0.6.155/screenshot-iphone-02-1170x2532.png",
+        "https://github.com/App-Fair/App/releases/download/0.6.155/screenshot-iphone-01-1170x2532.png"
       ],
-      "sha256" : "9aa45e7636a61b5e30a1e567e27175fb9d04e88558397c133aca8541313a8e04",
-      "sha256Metadata" : "5348db285dfc61d51a8256ef33f87b8644ac035ab3c0bc007188b00ebe6c5280",
-      "size" : 6144274,
+      "sha256" : "af8530e31455938616ca8ecd2fcf25a3b011878d3ae12619eee10a703a668fa2",
+      "sha256Metadata" : "cd6664b54c30bf3f831209ffdae3c9efa539b48e0ff6f11e65d733c4a95d49db",
+      "size" : 6156570,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1561DD",
-      "version" : "0.6.154",
-      "versionDate" : "2021-11-09T11:51:18Z",
+      "version" : "0.6.155",
+      "versionDate" : "2021-11-09T17:26:56Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

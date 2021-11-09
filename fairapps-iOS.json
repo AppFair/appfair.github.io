@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12596984,
+      "coreSize" : 12827536,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.151/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.151/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.153/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.153/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.151/Info.plist",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.153/Info.plist",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -38,17 +38,17 @@
         }
       ],
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.151/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/App-Fair/App/releases/download/0.6.151/screenshot-mac-01-2880x1800.png",
-        "https://github.com/App-Fair/App/releases/download/0.6.151/screenshot-iphone-01-1284x2778.png"
+        "https://github.com/App-Fair/App/releases/download/0.6.153/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/App-Fair/App/releases/download/0.6.153/screenshot-iphone-02-1170x2532.png"
       ],
-      "sha256" : "dbbaccea438958b2c446e4d5835007c99f4ad8901db1f28bf6b50fad90e3c537",
-      "sha256Metadata" : "d4e609d8f0232e7ca84f7e75195aa4f765bf860775625d902348806229fdf66d",
-      "size" : 6048952,
+      "sha256" : "c42945188f89f064f78a6ade1368934bb9987ad69d22e0c561fbf1b12c23604a",
+      "sha256Metadata" : "1ef0aa15d46d3a58b585a988da0130593cfa8d66bb75642d0b2e2f2369e23771",
+      "size" : 6144275,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
-      "version" : "0.6.151",
-      "versionDate" : "2021-11-07T22:38:32Z",
+      "tintColor" : "30B0C7",
+      "version" : "0.6.153",
+      "versionDate" : "2021-11-09T00:50:06Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

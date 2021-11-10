@@ -372,7 +372,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
@@ -405,43 +405,6 @@
       "tintColor" : "FF9502",
       "version" : "0.8.327",
       "versionDate" : "2021-11-10T18:32:07Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "coreSize" : 22527272,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.325/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.325/Tune-Out.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.325/Info.plist#6fd207dc890c72b4f7ec4248def4f7fc7cbeb3156d028c54c3aaee8316bf943f",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.325/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.325/screenshot-mac-01-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.325/screenshot-mac-02-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.325/screenshot-mac-03-2180x1464.png"
-      ],
-      "sha256" : "411bbaac1d7921cb87fe223de22a861946fba8c979c4bc5fc293c82c3e8e5f93",
-      "size" : 7743637,
-      "starCount" : 0,
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "FF9502",
-      "version" : "0.8.325",
-      "versionDate" : "2021-11-10T17:22:04Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12909944,
+      "coreSize" : 13008528,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.159/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.159/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/Info.plist#409bc2bc9f4229fc038688afdc4f38c7d64630a73097a8d289d2167472eab473",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.159/Info.plist#1ceb82e24707cc44489cdea5dbf8bd588fc000a3616afbadc5b76d026151e25c",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,17 +37,17 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.159/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "4c260b2722d191564ac5246d918f6f05633651b838fa8c243a9f778e78af9415",
-      "size" : 2614629,
+      "sha256" : "5fcf79ee1f253486db3b0ceba0a8a8236108b69d12cb179f7b6c12dc8d8c8f90",
+      "size" : 2636385,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.158",
-      "versionDate" : "2021-11-10T04:05:27Z",
+      "version" : "0.6.159",
+      "versionDate" : "2021-11-10T12:08:07Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -159,29 +159,29 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 10535416,
+      "coreSize" : 10535648,
       "developerName" : "appbopp <appbopp@tiqtiq.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/Numeral-MXMMXVI-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/Numeral-MXMMXVI.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/Numeral-MXMMXVI-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/Numeral-MXMMXVI.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/Info.plist#59ad77ab007bc753a54c0cc069a521f15075bfa303b20de756734a7a56ca1cc6",
+      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/Info.plist#5c18d65602da5bba1aa55b476f585e92e95e4fe929022c6439b834d26150c5ff",
       "name" : "Numeral MXMMXVI",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "78da3bf0f1cceaf0ef208a49aa20a4675c1a40f26291078534610851bb5fa897",
-      "size" : 2161077,
+      "sha256" : "0362d575c229c3b8e101470e8cfb31b860363fc058c3cf05979cb2555c7016d2",
+      "size" : 2161423,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.1",
-      "versionDate" : "2021-11-10T11:26:59Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-MXMMXVI/App/commits/0.0.1",
+      "version" : "0.0.2",
+      "versionDate" : "2021-11-10T12:09:31Z",
+      "versionDescription" : "",
       "watcherCount" : 0
     },
     {

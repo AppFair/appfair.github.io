@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13008528,
+      "coreSize" : 12958096,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.159/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.159/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.160/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.160/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.159/Info.plist#1ceb82e24707cc44489cdea5dbf8bd588fc000a3616afbadc5b76d026151e25c",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.160/Info.plist#bb6d002b4a05c77468c11c236e0f399d8a64d8c407b54e84cfe497892a9edc2a",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,18 +37,18 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.159/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.160/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.159/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/App-Fair/App/releases/download/0.6.159/screenshot-iphone-02-1170x2532.png"
+        "https://github.com/App-Fair/App/releases/download/0.6.160/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/App-Fair/App/releases/download/0.6.160/screenshot-iphone-02-1170x2532.png"
       ],
-      "sha256" : "cd67ade198eaf8dda68f67bdb929cf6e9c96a75e32eabb399bf0ac7e67355104",
-      "size" : 6228708,
+      "sha256" : "13fb4cb3f4f3edef95c627a5dc1dab489b7aa5c5168874c478f994cf0d2ec76d",
+      "size" : 6206136,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.159",
-      "versionDate" : "2021-11-10T12:08:07Z",
+      "version" : "0.6.160",
+      "versionDate" : "2021-11-10T14:07:26Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -160,6 +160,38 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Numeral-MXMMXVI",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "coreSize" : 10535416,
+      "developerName" : "appbopp <appbopp@tiqtiq.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/Numeral-MXMMXVI-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/Numeral-MXMMXVI.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A business app for business-folk",
+      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/Info.plist#59ad77ab007bc753a54c0cc069a521f15075bfa303b20de756734a7a56ca1cc6",
+      "name" : "Numeral MXMMXVI",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.1/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "057bec560665a90bf3c701657376fdfb7295631985d9c9d22f72f090d8e73af8",
+      "size" : 5098510,
+      "starCount" : 0,
+      "subtitle" : "A business app for business-folk",
+      "version" : "0.0.1",
+      "versionDate" : "2021-11-10T11:26:59Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-MXMMXVI/App/commits/0.0.1",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Numeral-VIXIV",
       "categories" : [
         "public.app-category.utilities"

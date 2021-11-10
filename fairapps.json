@@ -127,14 +127,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Numeral-IXMCIX",
       "categories" : [
         "public.app-category.graphics-design"
       ],
       "coreSize" : 10501984,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.4/Numeral-IXMCIX-macOS.zip",
       "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.4/Numeral-IXMCIX.png",
       "issueCount" : 0,
@@ -156,6 +156,39 @@
       "subtitle" : "An handy and useful artists tool",
       "version" : "0.0.4",
       "versionDate" : "2021-11-10T01:41:02Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Numeral-IXMCIX",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "coreSize" : 10501984,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Numeral-IXMCIX-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Numeral-IXMCIX.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An handy and useful artists tool",
+      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Info.plist",
+      "name" : "Numeral IXMCIX",
+      "permissions" : [
+
+      ],
+      "screenshotURLs" : [
+        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-ipad-01-2224x1668.png",
+        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-iphone-01-1284x2778.png",
+        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png"
+      ],
+      "sha256" : "3be44e75985c96ea031fd29c6184f6dab1c2aa81bbce0a51ccfd476a58f6a5dc",
+      "sha256Metadata" : "10491c281fad391a5a90be5b908ecc6c6fb0f71e07eef33796353d412d43eb4f",
+      "size" : 2147907,
+      "starCount" : 0,
+      "subtitle" : "An handy and useful artists tool",
+      "version" : "0.0.2",
+      "versionDate" : "2021-11-09T22:35:57Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

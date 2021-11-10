@@ -8,7 +8,7 @@
       ],
       "coreSize" : 12958240,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/App-Fair.png",
       "issueCount" : 0,
@@ -246,6 +246,43 @@
       "subtitle" : "A simple yet useful app",
       "version" : "0.0.2",
       "versionDate" : "2021-11-09T14:50:42Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "coreSize" : 22527272,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.328/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.328/Tune-Out.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.328/Info.plist#782c019c2cb797239c371f376883da56ea9f5b147d67bbb6600524de1a5bfd5a",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.328/README.md#96c3aeadb75e3246b8e202c0de59b809c65db9f7a08e01b5f102b6a667ce1c15",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.328/screenshot-mac-01-2212x1462.png#d93f88d3b89cebf5923123cc5d6642e7dfe817f7f7cc28703fc9f35ecc736311",
+        "https://github.com/Tune-Out/App/releases/download/0.8.328/screenshot-mac-02-2534x1112.png#202aedb69aa51c922fcb7d10a1bc90b0039b87952a23f30ab38a5994e2c2fd47",
+        "https://github.com/Tune-Out/App/releases/download/0.8.328/screenshot-mac-03-2180x1464.png#578b97c303049f6b2d2930345b224a74e515d6f3831846e6d1a86eb8b5e71989"
+      ],
+      "sha256" : "eb118d82ff78ca3a79ff10b3eee44a41cb79e8c48def861169d8b42afd765517",
+      "size" : 7950687,
+      "starCount" : 0,
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "FF9502",
+      "version" : "0.8.328",
+      "versionDate" : "2021-11-10T23:37:04Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

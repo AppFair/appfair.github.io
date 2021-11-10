@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12860776,
+      "coreSize" : 12909944,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/Info.plist#cd6664b54c30bf3f831209ffdae3c9efa539b48e0ff6f11e65d733c4a95d49db",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/Info.plist#409bc2bc9f4229fc038688afdc4f38c7d64630a73097a8d289d2167472eab473",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,17 +37,17 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "038e297e04df165af3e3e73420ad8daf943dcd6a82d7971a0f15515da1d0e185",
-      "size" : 2607226,
+      "sha256" : "4c260b2722d191564ac5246d918f6f05633651b838fa8c243a9f778e78af9415",
+      "size" : 2614629,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
-      "tintColor" : "1561DD",
-      "version" : "0.6.155",
-      "versionDate" : "2021-11-09T17:26:56Z",
+      "tintColor" : "1594E8",
+      "version" : "0.6.158",
+      "versionDate" : "2021-11-10T04:05:27Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

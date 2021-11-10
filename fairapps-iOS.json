@@ -9,11 +9,11 @@
       "coreSize" : 12958240,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.163/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.163/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.164/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.164/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.163/Info.plist#29da19b49e666a2f196f89fd28fccb4f19870dd0f90f26fdce669daafeedaec1",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.164/Info.plist#57ac4e3a23feabaeb07cdab965839d6e3ace3924fa6198992750c40eee5864a8",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,18 +37,18 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.163/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.164/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.163/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.6.163/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88"
+        "https://github.com/App-Fair/App/releases/download/0.6.164/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
+        "https://github.com/App-Fair/App/releases/download/0.6.164/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88"
       ],
-      "sha256" : "48c354086917de390a60e807baa11c3df3e8856cd5e097ace5271164b2ed427a",
-      "size" : 6209820,
+      "sha256" : "98c2e9e1200619fcb1c251bff9b9f81af8dd97d489b114300154018f2e867b26",
+      "size" : 6209794,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.163",
-      "versionDate" : "2021-11-10T18:11:39Z",
+      "version" : "0.6.164",
+      "versionDate" : "2021-11-10T18:32:54Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -190,7 +190,7 @@
       ],
       "coreSize" : 10607304,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.129/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.129/Cloud-Cuckoo.png",
       "issueCount" : 0,

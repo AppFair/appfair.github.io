@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12958184,
+      "coreSize" : 12958240,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.161/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.161/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.162/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.162/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.161/Info.plist#51dce9f58cfdc7bab04d0b9fd8d56a480ffde073bf464c8bea55ae2529942554",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.162/Info.plist#6284f2dce62d69a191faf51b52b0ef5aec3f5a98bb8c2684d8c599fc53b621a4",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,18 +37,18 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.161/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.162/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.161/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/App-Fair/App/releases/download/0.6.161/screenshot-iphone-02-1170x2532.png"
+        "https://github.com/App-Fair/App/releases/download/0.6.162/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/App-Fair/App/releases/download/0.6.162/screenshot-iphone-02-1170x2532.png"
       ],
-      "sha256" : "4b07d49e17a5744754122eda3814ebd640347c5ae6e06994cea0e11fcafc0cb6",
-      "size" : 6208823,
+      "sha256" : "65e546d7649f7103e7e934c67085ab93518c267d13cb0f671b7b857f22b275b9",
+      "size" : 6209815,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.161",
-      "versionDate" : "2021-11-10T15:26:30Z",
+      "version" : "0.6.162",
+      "versionDate" : "2021-11-10T16:14:29Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -58,7 +58,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12958184,
+      "coreSize" : 12958240,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.160/App-Fair-iOS.ipa",
@@ -112,7 +112,7 @@
       ],
       "coreSize" : 10486152,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.76/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.76/Bon-Mot.png",
       "issueCount" : 0,

@@ -1,12 +1,63 @@
 {
   "apps" : [
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 12958184,
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.161/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.161/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair Catalog Browser",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.161/Info.plist#51dce9f58cfdc7bab04d0b9fd8d56a480ffde073bf464c8bea55ae2529942554",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "type" : "files.user-selected.executable",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "type" : "temporary-exception.files.absolute-path.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.161/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "0206ac7bb276f21d17732e4866efa4cee1595f86246a4ad3aa13de7d00147c1b",
+      "size" : 2630403,
+      "starCount" : 0,
+      "subtitle" : "The App Fair Catalog Browser",
+      "tintColor" : "1594E8",
+      "version" : "0.6.161",
+      "versionDate" : "2021-11-10T15:26:30Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12958096,
+      "coreSize" : 12958184,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.160/App-Fair-macOS.zip",
@@ -148,7 +199,7 @@
       "size" : 2148264,
       "starCount" : 0,
       "subtitle" : "A handy and useful artists tool",
-      "version" : "0.0.5β",
+      "version" : "0.0.5",
       "versionDate" : "2021-11-10T02:14:15Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Numeral-IXMCIX/App/compare/0.0.4...0.0.5",
       "watcherCount" : 0
@@ -179,7 +230,7 @@
       "size" : 2161423,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.2β",
+      "version" : "0.0.2",
       "versionDate" : "2021-11-10T12:09:31Z",
       "versionDescription" : "",
       "watcherCount" : 0
@@ -210,7 +261,7 @@
       "size" : 2143983,
       "starCount" : 0,
       "subtitle" : "An app for learning Roman Numerals",
-      "version" : "0.0.1β",
+      "version" : "0.0.1",
       "versionDate" : "2021-11-09T14:44:37Z",
       "versionDescription" : "",
       "watcherCount" : 0
@@ -241,7 +292,7 @@
       "size" : 2148276,
       "starCount" : 0,
       "subtitle" : "A simple yet useful app",
-      "version" : "0.0.2β",
+      "version" : "0.0.2",
       "versionDate" : "2021-11-09T14:50:42Z",
       "versionDescription" : "",
       "watcherCount" : 0
@@ -254,7 +305,7 @@
       ],
       "coreSize" : 22510752,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.323/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.323/Tune-Out.png",
       "issueCount" : 0,
@@ -276,7 +327,7 @@
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "FF9502",
-      "version" : "0.8.323β",
+      "version" : "0.8.323",
       "versionDate" : "2021-11-10T14:51:40Z",
       "versionDescription" : "",
       "watcherCount" : 0
@@ -318,6 +369,6 @@
     }
   ],
   "identifier" : "appfair",
-  "name" : "appfair",
+  "name" : "The App Fair",
   "sourceURL" : "https://www.appfair.net/fairapps.json"
 }

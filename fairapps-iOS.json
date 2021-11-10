@@ -105,12 +105,51 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 10486152,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.76/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.76/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Book reader",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.76/Info.plist#a62248595744d5bd18faa78a431f8476aa831826d145c75e69793f37c7c928c3",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.76/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "301a86ca1a1bf2dbcc8a80af6e09625bbe76ed45a823ee6db945e80db8d016c2",
+      "size" : 5058510,
+      "starCount" : 0,
+      "subtitle" : "Book reader",
+      "tintColor" : "A2845E",
+      "version" : "0.0.76",
+      "versionDate" : "2021-11-10T16:05:05Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10536208,
+      "coreSize" : 10486152,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.73/Bon-Mot-iOS.ipa",

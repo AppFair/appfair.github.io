@@ -159,39 +159,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Numeral-IXMCIX",
-      "categories" : [
-        "public.app-category.graphics-design"
-      ],
-      "coreSize" : 10501984,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Numeral-IXMCIX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Numeral-IXMCIX.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A handy and useful artists tool",
-      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Info.plist#10491c281fad391a5a90be5b908ecc6c6fb0f71e07eef33796353d412d43eb4f",
-      "name" : "Numeral IXMCIX",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
-      ],
-      "sha256" : "12098ccd8533f793e58b83abf7019d22c4b50c4c3af0e51af0ed5b5fe0ccc82f",
-      "size" : 5077435,
-      "starCount" : 0,
-      "subtitle" : "A handy and useful artists tool",
-      "version" : "0.0.2",
-      "versionDate" : "2021-11-09T22:35:57Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Numeral-VIXIV",
       "categories" : [
         "public.app-category.utilities"
@@ -223,7 +191,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Numeral-XVIXVX",
       "categories" : [
         "public.app-category.utilities"

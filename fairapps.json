@@ -154,38 +154,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Numeral-IXMCIX",
-      "categories" : [
-        "public.app-category.graphics-design"
-      ],
-      "coreSize" : 10501984,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Numeral-IXMCIX-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Numeral-IXMCIX.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A handy and useful artists tool",
-      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Info.plist#10491c281fad391a5a90be5b908ecc6c6fb0f71e07eef33796353d412d43eb4f",
-      "name" : "Numeral IXMCIX",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "3be44e75985c96ea031fd29c6184f6dab1c2aa81bbce0a51ccfd476a58f6a5dc",
-      "size" : 2147907,
-      "starCount" : 0,
-      "subtitle" : "A handy and useful artists tool",
-      "version" : "0.0.2",
-      "versionDate" : "2021-11-09T22:35:57Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Numeral-VIXIV",
       "categories" : [
         "public.app-category.utilities"
@@ -216,7 +185,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Numeral-XVIXVX",
       "categories" : [
         "public.app-category.utilities"

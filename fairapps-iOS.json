@@ -8,7 +8,7 @@
       ],
       "coreSize" : 12909944,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.158/App-Fair.png",
       "issueCount" : 0,
@@ -262,12 +262,12 @@
       ],
       "coreSize" : 22577344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.321/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.321/Tune-Out.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.322/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.322/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.321/Info.plist#8ab791dd02c581cefab7d5848e9dac8ff99ccb75006dc0e72ee810a90abe79bc",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.322/Info.plist#cd7df86382eb272e83c690439ff67e60c34dea5fcbabc14fc7817f746fa96619",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -275,19 +275,19 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.321/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.322/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.321/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.321/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.321/screenshot-iphone-03-1170x2532.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.322/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.322/screenshot-iphone-02-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.322/screenshot-iphone-03-1170x2532.png"
       ],
-      "sha256" : "3c0021ed0999c7e90a036d95c3d8494ea423a28a92cd50eaee670210c97349b7",
-      "size" : 14708995,
+      "sha256" : "51e70ed3b4eb8fa2afb22a8c0c34402cb2d42b6c5375ff953f4ff287981f5745",
+      "size" : 14709005,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "FF9502",
-      "version" : "0.8.321",
-      "versionDate" : "2021-11-10T04:04:41Z",
+      "version" : "0.8.322",
+      "versionDate" : "2021-11-10T04:24:55Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

@@ -13,7 +13,7 @@
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/Info.plist",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/Info.plist#cd6664b54c30bf3f831209ffdae3c9efa539b48e0ff6f11e65d733c4a95d49db",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,12 +37,11 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.155/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.155/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/App-Fair/App/releases/download/0.6.155/screenshot-iphone-01-1170x2532.png"
+
       ],
       "sha256" : "038e297e04df165af3e3e73420ad8daf943dcd6a82d7971a0f15515da1d0e185",
-      "sha256Metadata" : "cd6664b54c30bf3f831209ffdae3c9efa539b48e0ff6f11e65d733c4a95d49db",
       "size" : 2607226,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
@@ -65,7 +64,7 @@
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.72/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.72/Info.plist",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.72/Info.plist#389be043f90f4b71dd34b96af458b717d42029642905a7522ae998064808d8a1",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -77,11 +76,11 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.72/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
         "https://github.com/Bon-Mot/App/releases/download/0.0.72/screenshot-mac-01-1754x1364.png"
       ],
       "sha256" : "a5dffab43d7e6374fe68d09c0bddf478175b933dc5978e702193d0b326553d7b",
-      "sha256Metadata" : "389be043f90f4b71dd34b96af458b717d42029642905a7522ae998064808d8a1",
       "size" : 2133973,
       "starCount" : 0,
       "subtitle" : "Book reader",
@@ -104,19 +103,16 @@
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.125/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.125/Info.plist",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.125/Info.plist#3850b8354ac5e197d055bc30fec4958ae12ef8f0d9529ff4d3a764d6b3728be5",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.125/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.125/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.125/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.125/screenshot-iphone-04-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.125/screenshot-iphone-03-1170x2532.png"
+
       ],
       "sha256" : "1c4c4e47a2a42c2094c93e49bc33a09b926d74dc0b467db97f0f8c949b99b8b5",
-      "sha256Metadata" : "3850b8354ac5e197d055bc30fec4958ae12ef8f0d9529ff4d3a764d6b3728be5",
       "size" : 2163433,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
@@ -139,18 +135,16 @@
       "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.5/Numeral-IXMCIX.png",
       "issueCount" : 0,
       "localizedDescription" : "A handy and useful artists tool",
-      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.5/Info.plist",
+      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.5/Info.plist#71d0bc48049f2a0cfb62104411bc4f8aada28aeac9e9c823dd6d07703fe60f0d",
       "name" : "Numeral IXMCIX",
       "permissions" : [
 
       ],
+      "readmeURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.5/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.5/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.5/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.5/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.5/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
       "sha256" : "0b02452f0c42f12224486be1e60a22609d55be69a32758fd26bb1389a668a22d",
-      "sha256Metadata" : "71d0bc48049f2a0cfb62104411bc4f8aada28aeac9e9c823dd6d07703fe60f0d",
       "size" : 2148264,
       "starCount" : 0,
       "subtitle" : "A handy and useful artists tool",
@@ -172,18 +166,16 @@
       "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Numeral-IXMCIX.png",
       "issueCount" : 0,
       "localizedDescription" : "A handy and useful artists tool",
-      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Info.plist",
+      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/Info.plist#10491c281fad391a5a90be5b908ecc6c6fb0f71e07eef33796353d412d43eb4f",
       "name" : "Numeral IXMCIX",
       "permissions" : [
 
       ],
+      "readmeURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
       "sha256" : "3be44e75985c96ea031fd29c6184f6dab1c2aa81bbce0a51ccfd476a58f6a5dc",
-      "sha256Metadata" : "10491c281fad391a5a90be5b908ecc6c6fb0f71e07eef33796353d412d43eb4f",
       "size" : 2147907,
       "starCount" : 0,
       "subtitle" : "A handy and useful artists tool",
@@ -205,18 +197,16 @@
       "iconURL" : "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/Numeral-VIXIV.png",
       "issueCount" : 0,
       "localizedDescription" : "An app for learning Roman Numerals",
-      "metadataURL" : "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/Info.plist",
+      "metadataURL" : "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/Info.plist#04e0c833a6cb80cf1922b7dd278cff9f032398cdaa6a42ca712cfdb42173fd70",
       "name" : "Numeral VIXIV",
       "permissions" : [
 
       ],
+      "readmeURL" : "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
       "sha256" : "b97dbc2ee4893d8707ec9b0af71a549105441bfaf24fce6e71177e38829cb98c",
-      "sha256Metadata" : "04e0c833a6cb80cf1922b7dd278cff9f032398cdaa6a42ca712cfdb42173fd70",
       "size" : 2143983,
       "starCount" : 0,
       "subtitle" : "An app for learning Roman Numerals",
@@ -238,18 +228,16 @@
       "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Numeral-XVIXVX.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Info.plist",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Info.plist#b28ad3c3679bdce2adc4ad5db325692d3548090a45c06625a1aff4fe7b43a3c8",
       "name" : "Numeral XVIXVX",
       "permissions" : [
 
       ],
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-ipad-01-2224x1668.png",
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-iphone-01-1284x2778.png",
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png"
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
       "sha256" : "a024e2d075941619f2e790045692c8af8ac223affd861ce7e5cea2707dbf0e8e",
-      "sha256Metadata" : "b28ad3c3679bdce2adc4ad5db325692d3548090a45c06625a1aff4fe7b43a3c8",
       "size" : 2148276,
       "starCount" : 0,
       "subtitle" : "A simple yet useful app",
@@ -271,7 +259,7 @@
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.320/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.320/Info.plist",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.320/Info.plist#f44c1231b70e2133f517fabd0c8ab0e2f1a1c10177fed66eb8f2dd032aa2504e",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -279,13 +267,11 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.320/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.320/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.320/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.320/screenshot-iphone-03-1170x2532.png"
+
       ],
       "sha256" : "ddcfaa8dc45f69507821032f0f449400e5043a1a53ab40a4565bb2285c660598",
-      "sha256Metadata" : "f44c1231b70e2133f517fabd0c8ab0e2f1a1c10177fed66eb8f2dd032aa2504e",
       "size" : 7596322,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",

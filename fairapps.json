@@ -103,7 +103,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.entertainment"
@@ -143,45 +143,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-        "public.app-category.entertainment"
-      ],
-      "coreSize" : 10486152,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.73/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.73/Bon-Mot.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.73/Info.plist#9abeb4678b338ec4278e0ea889c523d5bcb15b5c98bedcd0f1c940422fba7b8b",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.73/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.73/screenshot-mac-01-1754x1364.png"
-      ],
-      "sha256" : "28ef3960f0b5661574f53d237ab04650a9163fe7738eced6c1551c91c53ede24",
-      "size" : 2138695,
-      "starCount" : 0,
-      "subtitle" : "Book reader",
-      "tintColor" : "A2845E",
-      "version" : "0.0.73",
-      "versionDate" : "2021-11-10T04:04:53Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
@@ -212,38 +173,6 @@
       "tintColor" : "AF52DE",
       "version" : "0.8.129",
       "versionDate" : "2021-11-10T18:32:46Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "coreSize" : 10607304,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.127/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.127/Cloud-Cuckoo.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.127/Info.plist#bb957a5f93f955e8a5401e77d273efebb6ad7b147384dcd27498840b9ba10f27",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.127/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "759924c49ad1f3e17268df3be55a172d91be2024d4ece792c0bbb2ea83fbccba",
-      "size" : 2161700,
-      "starCount" : 0,
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.8.127",
-      "versionDate" : "2021-11-10T15:33:27Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

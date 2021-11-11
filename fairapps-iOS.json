@@ -61,11 +61,11 @@
       "coreSize" : 10486152,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.81/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.81/Bon-Mot.png",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.85/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.85/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.81/Info.plist#3abe2acf4936d2af47a6899d7599024680c4eda4af4a85372f1e619c91a0d5b0",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.85/Info.plist#c9f67c0c7b0a13c9ebcccd569e39613b3922f50ce624bee2c25120f095fea357",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -77,17 +77,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.81/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.85/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "068819763f2bc7a228e554e9ae0ea13543bb32346409477a61bcdfd9cf25d312",
-      "size" : 5223604,
+      "sha256" : "b6bb6baf79c643f11891ca1a54107d35e945e09d29ce5e8ab18c81499fdef645",
+      "size" : 5223596,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.81",
-      "versionDate" : "2021-11-11T03:24:23Z",
+      "version" : "0.0.85",
+      "versionDate" : "2021-11-11T04:21:31Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -99,7 +99,7 @@
       ],
       "coreSize" : 10607304,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.131/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.131/Cloud-Cuckoo.png",
       "issueCount" : 0,

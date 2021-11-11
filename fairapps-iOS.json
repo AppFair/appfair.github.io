@@ -159,12 +159,44 @@
       "watcherCount" : 0
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Numeral-MXMMXVI",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "coreSize" : 10485360,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.3/Numeral-MXMMXVI-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.3/Numeral-MXMMXVI.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A business app for business-folk",
+      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.3/Info.plist#9990d63d9a0fec587715af3a88b0cae1c32fa725297fff88311aa1f97793780d",
+      "name" : "Numeral MXMMXVI",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.3/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "screenshotURLs" : [
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.3/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.3/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "2adb1e3840675ee802b98741831ede9a9e4bf03ffb0dfa7f9eaa82ed3454fad0",
+      "size" : 5245409,
+      "starCount" : 0,
+      "subtitle" : "A business app for business-folk",
+      "version" : "0.0.3",
+      "versionDate" : "2021-11-11T00:05:01Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Numeral-VIXIV",
       "categories" : [
         "public.app-category.education"
       ],
-      "coreSize" : 10501984,
+      "coreSize" : 10468792,
       "developerName" : "appbopp <appbopp@tiqtiq.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/Numeral-VIXIV-iOS.ipa",

@@ -52,6 +52,45 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 10518960,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.93/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.93/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Book reader",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.93/Info.plist#be8770e7f8d97eee2983922e043dee3c0b7e4f3894ba68e457d2e20857ff7b72",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.93/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "screenshotURLs" : [
+        "https://github.com/Bon-Mot/App/releases/download/0.0.93/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+      ],
+      "sha256" : "14fa65a3f963d2efc7dfad2f778cc94090cc133a9f4de7a6ee5ede54b6ab1432",
+      "size" : 2304825,
+      "starCount" : 0,
+      "subtitle" : "Book reader",
+      "tintColor" : "A2845E",
+      "version" : "0.0.93",
+      "versionDate" : "2021-11-11T21:26:44Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
@@ -218,37 +257,6 @@
       "subtitle" : "A business app for business-folk",
       "version" : "0.0.4",
       "versionDate" : "2021-11-11T04:23:39Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Numeral-VIXIV",
-      "categories" : [
-        "public.app-category.education"
-      ],
-      "coreSize" : 10468792,
-      "developerName" : "appbopp <appbopp@tiqtiq.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/Numeral-VIXIV-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/Numeral-VIXIV.png",
-      "issueCount" : 0,
-      "localizedDescription" : "An app for learning Roman Numerals",
-      "metadataURL" : "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/Info.plist#04e0c833a6cb80cf1922b7dd278cff9f032398cdaa6a42ca712cfdb42173fd70",
-      "name" : "Numeral VIXIV",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-VIXIV/App/releases/download/0.0.1/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "b97dbc2ee4893d8707ec9b0af71a549105441bfaf24fce6e71177e38829cb98c",
-      "size" : 2143983,
-      "starCount" : 0,
-      "subtitle" : "An app for learning Roman Numerals",
-      "version" : "0.0.1",
-      "versionDate" : "2021-11-09T14:44:37Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

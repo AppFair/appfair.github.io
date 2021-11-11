@@ -1,70 +1,19 @@
 {
   "apps" : [
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 12958240,
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.167/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.167/App-Fair.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.167/Info.plist#02bf2100206ed832ea3aa716745a518ea2643f2d42d45628b488dfde9a85c5ab",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "type" : "temporary-exception.files.absolute-path.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.167/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "ef40936e6d7f7e937454f0c8fe1d29fa75652c23a5a72b8d99d577d552673c89",
-      "size" : 2796164,
-      "starCount" : 0,
-      "subtitle" : "The App Fair Catalog Browser",
-      "tintColor" : "1594E8",
-      "version" : "0.6.167",
-      "versionDate" : "2021-11-11T04:22:47Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12958240,
+      "coreSize" : 12991048,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.168/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.168/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/Info.plist#84a0446519129b04efe05612635d20c9ca1f65ac6a23955047c49469dd50d585",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.168/Info.plist#45e3c6993c4cf9014812c057c43af54c881e1ae72992d5e9f59a608ae408f150",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -88,22 +37,22 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.168/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f01095a3b7f5d203c08ff626b9bc517c48dbbbf5dc37ef52f88e5cdbb49a1f1d",
-      "size" : 2796148,
+      "sha256" : "3ad2dc2642becb14210c03dc623abf89aa5c60635e3ba5f1e24786d573d3cc6f",
+      "size" : 2803174,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.166",
-      "versionDate" : "2021-11-10T23:59:25Z",
-      "versionDescription" : "",
+      "version" : "0.6.168",
+      "versionDate" : "2021-11-11T20:27:27Z",
+      "versionDescription" : "release 0.6.168",
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.entertainment"
@@ -142,7 +91,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
@@ -177,14 +126,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
       ],
       "coreSize" : 10588328,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.157/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.157/Next-Edit.png",
       "issueCount" : 0,
@@ -335,14 +284,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
       "coreSize" : 22543688,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.333/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.333/Tune-Out.png",
       "issueCount" : 0,

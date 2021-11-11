@@ -1,7 +1,7 @@
 {
   "apps" : [
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
         "public.app-category.utilities"
@@ -126,7 +126,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Numeral-IXMCIX",
       "categories" : [
         "public.app-category.graphics-design"
@@ -157,7 +157,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Numeral-MXMMXVI",
       "categories" : [
         "public.app-category.business"
@@ -219,7 +219,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Numeral-XVIXVX",
       "categories" : [
         "public.app-category.lifestyle"

@@ -177,6 +177,40 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 10588328,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.159/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.159/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.159/Info.plist#e420bc60e9b084d22352e32fe508a2a67489dc3226a867641568f49e9e32010f",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.159/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "screenshotURLs" : [
+        "https://github.com/Next-Edit/App/releases/download/0.0.159/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "fa07765dd4741ba06de11c52a3f901bef942ac476dfdd8f50a28fd40cc29d2fc",
+      "size" : 6661647,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.0.159",
+      "versionDate" : "2021-11-11T21:53:00Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [

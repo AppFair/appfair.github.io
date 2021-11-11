@@ -8,12 +8,12 @@
       ],
       "coreSize" : 12958240,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/App-Fair.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/Info.plist#ed45a9b2db557a46e071847be9b15e961e06e25fd071668ef074850e781b17d9",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/Info.plist#84a0446519129b04efe05612635d20c9ca1f65ac6a23955047c49469dd50d585",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,18 +37,18 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.165/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.6.165/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88"
+        "https://github.com/App-Fair/App/releases/download/0.6.166/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
+        "https://github.com/App-Fair/App/releases/download/0.6.166/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88"
       ],
-      "sha256" : "e7e9a56b68415c3faaecf8328d8e8a6b70a3fe86a9b1db23741ca3059c47f22a",
-      "size" : 6416511,
+      "sha256" : "0e6f40b6fea2d20618e9960d1f65f7a2cff0cbc4f4704c1e766f34423a4e2f39",
+      "size" : 6375038,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.165",
-      "versionDate" : "2021-11-10T23:38:00Z",
+      "version" : "0.6.166",
+      "versionDate" : "2021-11-10T23:59:25Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -160,41 +160,9 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Numeral-MXMMXVI",
-      "categories" : [
-        "public.app-category.business"
-      ],
-      "coreSize" : 10535648,
-      "developerName" : "appbopp <appbopp@tiqtiq.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/Numeral-MXMMXVI-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/Numeral-MXMMXVI.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/Info.plist#5c18d65602da5bba1aa55b476f585e92e95e4fe929022c6439b834d26150c5ff",
-      "name" : "Numeral MXMMXVI",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
-      ],
-      "sha256" : "0ac9c845a3e5333e63203d4c27d4e740025b77f997bb9b8cace1a17c5492fc6d",
-      "size" : 5099186,
-      "starCount" : 0,
-      "subtitle" : "A business app for business-folk",
-      "version" : "0.0.2",
-      "versionDate" : "2021-11-10T12:09:31Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Numeral-VIXIV",
       "categories" : [
-        "public.app-category.utilities"
+        "public.app-category.education"
       ],
       "coreSize" : 10501984,
       "developerName" : "appbopp <appbopp@tiqtiq.net>",
@@ -223,34 +191,34 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Numeral-XVIXVX",
       "categories" : [
-        "public.app-category.utilities"
+        "public.app-category.lifestyle"
       ],
-      "coreSize" : 10502072,
+      "coreSize" : 10468880,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Numeral-XVIXVX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Numeral-XVIXVX.png",
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/Numeral-XVIXVX-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/Numeral-XVIXVX.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Info.plist#b28ad3c3679bdce2adc4ad5db325692d3548090a45c06625a1aff4fe7b43a3c8",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/Info.plist#a0da00ad77b471f1f4f39bb78b93a908f02d69f988e8f2a6b73a529f984345b6",
       "name" : "Numeral XVIXVX",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "a748da2e6b3b66195dfa05799de23b979742097ac9ab7d534be90e3b1b3e2897",
-      "size" : 5077664,
+      "sha256" : "ae66b60fa01d50af07e0c5f2f1923ed2398d0d1321abc7618a19822eeb57996e",
+      "size" : 5233954,
       "starCount" : 0,
       "subtitle" : "A simple yet useful app",
-      "version" : "0.0.2",
-      "versionDate" : "2021-11-09T14:50:42Z",
+      "version" : "0.0.3",
+      "versionDate" : "2021-11-11T00:04:10Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -262,7 +230,7 @@
       ],
       "coreSize" : 22527272,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.328/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.328/Tune-Out.png",
       "issueCount" : 0,

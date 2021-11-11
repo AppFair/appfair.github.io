@@ -9,11 +9,11 @@
       "coreSize" : 12958240,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/Info.plist#ed45a9b2db557a46e071847be9b15e961e06e25fd071668ef074850e781b17d9",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/Info.plist#84a0446519129b04efe05612635d20c9ca1f65ac6a23955047c49469dd50d585",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,17 +37,17 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.165/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.166/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "5af1c52a069761781dd0db7c3829ddcbbc790013ef3e7a3397956b71bb9c8c2d",
-      "size" : 2837631,
+      "sha256" : "f01095a3b7f5d203c08ff626b9bc517c48dbbbf5dc37ef52f88e5cdbb49a1f1d",
+      "size" : 2796148,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.165",
-      "versionDate" : "2021-11-10T23:38:00Z",
+      "version" : "0.6.166",
+      "versionDate" : "2021-11-10T23:59:25Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -158,40 +158,9 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Numeral-MXMMXVI",
-      "categories" : [
-        "public.app-category.business"
-      ],
-      "coreSize" : 10535648,
-      "developerName" : "appbopp <appbopp@tiqtiq.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/Numeral-MXMMXVI-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/Numeral-MXMMXVI.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/Info.plist#5c18d65602da5bba1aa55b476f585e92e95e4fe929022c6439b834d26150c5ff",
-      "name" : "Numeral MXMMXVI",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "0362d575c229c3b8e101470e8cfb31b860363fc058c3cf05979cb2555c7016d2",
-      "size" : 2161423,
-      "starCount" : 0,
-      "subtitle" : "A business app for business-folk",
-      "version" : "0.0.2",
-      "versionDate" : "2021-11-10T12:09:31Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Numeral-VIXIV",
       "categories" : [
-        "public.app-category.utilities"
+        "public.app-category.education"
       ],
       "coreSize" : 10501984,
       "developerName" : "appbopp <appbopp@tiqtiq.net>",
@@ -219,33 +188,33 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Numeral-XVIXVX",
       "categories" : [
-        "public.app-category.utilities"
+        "public.app-category.lifestyle"
       ],
-      "coreSize" : 10502072,
+      "coreSize" : 10468880,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Numeral-XVIXVX-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Numeral-XVIXVX.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/Numeral-XVIXVX-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/Numeral-XVIXVX.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/Info.plist#b28ad3c3679bdce2adc4ad5db325692d3548090a45c06625a1aff4fe7b43a3c8",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/Info.plist#a0da00ad77b471f1f4f39bb78b93a908f02d69f988e8f2a6b73a529f984345b6",
       "name" : "Numeral XVIXVX",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.2/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "a024e2d075941619f2e790045692c8af8ac223affd861ce7e5cea2707dbf0e8e",
-      "size" : 2148276,
+      "sha256" : "583914f0e5f3d1fa1a7eb881922beaf12c25014f05590647dcb1fbc8c1152796",
+      "size" : 2311717,
       "starCount" : 0,
       "subtitle" : "A simple yet useful app",
-      "version" : "0.0.2",
-      "versionDate" : "2021-11-09T14:50:42Z",
+      "version" : "0.0.3",
+      "versionDate" : "2021-11-11T00:04:10Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -257,7 +226,7 @@
       ],
       "coreSize" : 22527272,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.328/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.328/Tune-Out.png",
       "issueCount" : 0,

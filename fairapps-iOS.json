@@ -112,12 +112,12 @@
       ],
       "coreSize" : 10518960,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.86/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.86/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.87/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.87/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.86/Info.plist#b4643ccde508c193ab38b213244d8462555cdc811254e386a3a709db395cfb4b",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.87/Info.plist#faa8d680545d535968b4625d939f1b812b416b4779d9eb5ae73f3d3ea7789668",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -129,17 +129,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.86/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.87/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "50b88fef8833ba5bcf8de3c327b1fc4876566c6cd644287d2392e229d8fcaec4",
-      "size" : 5230705,
+      "sha256" : "9769425716842d759534df2ceafa81187b1085ba19a56ce41ffb7ee5bf20f47f",
+      "size" : 5230461,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.86",
-      "versionDate" : "2021-11-11T13:25:22Z",
+      "version" : "0.0.87",
+      "versionDate" : "2021-11-11T20:01:41Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

@@ -317,28 +317,28 @@
       ],
       "coreSize" : 10468880,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/Numeral-XVIXVX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/Numeral-XVIXVX.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/Numeral-XVIXVX-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/Numeral-XVIXVX.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/Info.plist#a0da00ad77b471f1f4f39bb78b93a908f02d69f988e8f2a6b73a529f984345b6",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/Info.plist#4d8ea35c4a71aab99f1f33b9247fa3726aed3b86647fb2306d659340354b2c54",
       "name" : "Numeral XVIXVX",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.3/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "ae66b60fa01d50af07e0c5f2f1923ed2398d0d1321abc7618a19822eeb57996e",
-      "size" : 5233954,
+      "sha256" : "705a8001ae0ecebb1159dd9b958f1bbfa9c140854b1a500b5df82165ae658537",
+      "size" : 5233937,
       "starCount" : 0,
       "subtitle" : "A simple yet useful app",
-      "version" : "0.0.3",
-      "versionDate" : "2021-11-11T00:04:10Z",
-      "versionDescription" : "",
+      "version" : "0.0.4",
+      "versionDate" : "2021-11-11T04:25:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-XVIXVX/App/compare/0.0.3...0.0.4",
       "watcherCount" : 0
     },
     {

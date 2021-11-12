@@ -8,7 +8,7 @@
       ],
       "coreSize" : 12991048,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.171/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.171/App-Fair.png",
       "issueCount" : 0,
@@ -60,7 +60,7 @@
       ],
       "coreSize" : 10518960,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Bon-Mot.png",
       "issueCount" : 0,
@@ -134,7 +134,7 @@
       ],
       "coreSize" : 10588328,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/Next-Edit-iOS.ipa",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/Next-Edit.png",
       "issueCount" : 0,
@@ -265,12 +265,12 @@
       ],
       "coreSize" : 22543688,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.335/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.335/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.336/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.336/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.335/Info.plist#55a07fe41c3ce13b8f55dc475a833f366f0c1d6d731526b1b15ebf2fcdbce1e1",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.336/Info.plist#68db7d7b1b0d0850bdf06e2719940e59edd25a80ab0cc064897576168cdfbc96",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -278,19 +278,19 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.335/README.md#96c3aeadb75e3246b8e202c0de59b809c65db9f7a08e01b5f102b6a667ce1c15",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.336/README.md#96c3aeadb75e3246b8e202c0de59b809c65db9f7a08e01b5f102b6a667ce1c15",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.335/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
-        "https://github.com/Tune-Out/App/releases/download/0.8.335/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
-        "https://github.com/Tune-Out/App/releases/download/0.8.335/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
+        "https://github.com/Tune-Out/App/releases/download/0.8.336/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
+        "https://github.com/Tune-Out/App/releases/download/0.8.336/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
+        "https://github.com/Tune-Out/App/releases/download/0.8.336/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
       ],
-      "sha256" : "5f47e2e4069770337372703b9ef7444465259d5922aac19784a5cef2a9e25115",
-      "size" : 15010951,
+      "sha256" : "8857ad0cc77f1cba6bc7d75afe139fb223f1c7a611a6493ac710e878e4d59757",
+      "size" : 15010939,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "FF9502",
-      "version" : "0.8.335",
-      "versionDate" : "2021-11-12T00:53:56Z",
+      "version" : "0.8.336",
+      "versionDate" : "2021-11-12T01:13:48Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

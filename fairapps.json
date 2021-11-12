@@ -103,45 +103,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-        "public.app-category.entertainment"
-      ],
-      "coreSize" : 10518960,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.95/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.95/Bon-Mot.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.95/Info.plist#de5ff5f0bdf091ac9f9717fd39a78ef3bd9bd96f549ad40537e4af7f2fe4fe24",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.95/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.95/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
-      ],
-      "sha256" : "34a7a8b17093cbfe5970d391b232df342656ba9ae5baef1aaa540990cea28165",
-      "size" : 2304822,
-      "starCount" : 0,
-      "subtitle" : "Book reader",
-      "tintColor" : "A2845E",
-      "version" : "0.0.95",
-      "versionDate" : "2021-11-11T22:08:31Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
@@ -149,12 +110,12 @@
       ],
       "coreSize" : 10518960,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.94/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.94/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.99/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.99/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.94/Info.plist#90b756a988749c74817a04e22b9d5d36f68e84ba5d4d1eb3690a0d1c98fb0a18",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.99/Info.plist#e440fc12e1b73f1119587c5fb85a22a1b3cbe18f2ab1ce340ea7f173e863e9e1",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -166,17 +127,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.94/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.99/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.94/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+        "https://github.com/Bon-Mot/App/releases/download/0.0.99/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
       ],
-      "sha256" : "aace6ef0ae7154c56b5d9263279f42bf9eb38e387dd298b7f3edaf838b737762",
-      "size" : 2304825,
+      "sha256" : "c4d210059ac667297968d913430c34cf6ae22f24c898c35b31bdaa99a7eb1726",
+      "size" : 2304829,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.94",
-      "versionDate" : "2021-11-11T21:52:39Z",
+      "version" : "0.0.99",
+      "versionDate" : "2021-11-11T23:54:06Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

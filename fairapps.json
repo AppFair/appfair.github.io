@@ -1,57 +1,6 @@
 {
   "apps" : [
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 12991048,
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.169/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.169/App-Fair.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.169/Info.plist#e24e156213e4a31a135fc926d43ada3c147c2acc44dd306169e4213d67ceefc6",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "type" : "temporary-exception.files.absolute-path.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.169/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "a3f4abbbc29606e707b5b5f996f9f13c28a34fef6dc7b59208cf66c447397601",
-      "size" : 2803161,
-      "starCount" : 0,
-      "subtitle" : "The App Fair Catalog Browser",
-      "tintColor" : "1594E8",
-      "version" : "0.6.169",
-      "versionDate" : "2021-11-11T21:53:37Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
@@ -59,12 +8,12 @@
       ],
       "coreSize" : 12991048,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.168/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.168/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.171/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.171/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.168/Info.plist#45e3c6993c4cf9014812c057c43af54c881e1ae72992d5e9f59a608ae408f150",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.171/Info.plist#20c19f179c4b4fedb70d9c1a68d600e0b95b445de0e37328fd7ab95bfaa1acb5",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -88,18 +37,18 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.168/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.171/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "3ad2dc2642becb14210c03dc623abf89aa5c60635e3ba5f1e24786d573d3cc6f",
-      "size" : 2803174,
+      "sha256" : "752afeaf58d1989c71097228a1c029e752193be2f842b77ccf5341da57a64429",
+      "size" : 2803156,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.168",
-      "versionDate" : "2021-11-11T20:27:27Z",
-      "versionDescription" : "release 0.6.168",
+      "version" : "0.6.171",
+      "versionDate" : "2021-11-12T01:13:39Z",
+      "versionDescription" : "",
       "watcherCount" : 0
     },
     {
@@ -177,40 +126,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Next-Edit",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "coreSize" : 10588328,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.159/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.159/Next-Edit.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.159/Info.plist#e420bc60e9b084d22352e32fe508a2a67489dc3226a867641568f49e9e32010f",
-      "name" : "Next Edit",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to read and write files in order to edit text."
-        }
-      ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.159/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
-      "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.0.159/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "fa07765dd4741ba06de11c52a3f901bef942ac476dfdd8f50a28fd40cc29d2fc",
-      "size" : 6661647,
-      "starCount" : 0,
-      "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.159",
-      "versionDate" : "2021-11-11T21:53:00Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
@@ -218,12 +133,12 @@
       ],
       "coreSize" : 10588328,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.157/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.157/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.157/Info.plist#525532700b00ecffba324655b3a5755d79439fa789ca0f024df9cba68236815e",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/Info.plist#580e536ee8eb920fc464f24788c65f9196ccd082fb4e9660ad46d1f844e0f3e0",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -231,16 +146,16 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.157/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.0.157/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Next-Edit/App/releases/download/0.0.162/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "003ab3c5573fe398c7fee7f0bd5c95d0316cc8505d643b207e259f86ca2f5e25",
-      "size" : 6661866,
+      "sha256" : "83dc743b0a641bc40e37264ab36bb818d3e0277ec364714b16ba37b9c6ab4ddb",
+      "size" : 6661733,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.157",
-      "versionDate" : "2021-11-11T20:03:49Z",
+      "version" : "0.0.162",
+      "versionDate" : "2021-11-12T01:13:41Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

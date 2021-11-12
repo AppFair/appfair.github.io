@@ -57,14 +57,14 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10518960,
+      "coreSize" : 10518976,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.101/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.101/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Info.plist#0604730dc1a4ee8a00324a3e50fda05c792f06a95446510d4d1ba20d8b2c9e9a",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.101/Info.plist#ace11d421d690ad45c8883ac59d4e04c476dd944048421f315f0d328505489e1",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -76,17 +76,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.101/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.100/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+        "https://github.com/Bon-Mot/App/releases/download/0.0.101/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
       ],
-      "sha256" : "41bd68731e5908b478fbee87b6542a4023fc0e87bb9b2fb3f12d16a12cd79145",
-      "size" : 2304827,
+      "sha256" : "01d1d9400dc88d9be9bd5e83f0a6012cb1ddbb24aebb27c8ddc60a884f37adca",
+      "size" : 2304766,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.100",
-      "versionDate" : "2021-11-12T01:13:49Z",
+      "version" : "0.0.101",
+      "versionDate" : "2021-11-12T13:40:34Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

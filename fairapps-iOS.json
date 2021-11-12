@@ -58,14 +58,14 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10518960,
+      "coreSize" : 10518976,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.101/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.101/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Info.plist#0604730dc1a4ee8a00324a3e50fda05c792f06a95446510d4d1ba20d8b2c9e9a",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.101/Info.plist#ace11d421d690ad45c8883ac59d4e04c476dd944048421f315f0d328505489e1",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -77,17 +77,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.101/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "cebf7328791f7311c951b9dbd48c4808d2a49c186f65a001093e0554b36fefbc",
-      "size" : 5230459,
+      "sha256" : "04789fbc6804f52509d696de5e5294ab1688d824e30c3020bddd15d41eb6a00b",
+      "size" : 5230277,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.100",
-      "versionDate" : "2021-11-12T01:13:49Z",
+      "version" : "0.0.101",
+      "versionDate" : "2021-11-12T13:40:34Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

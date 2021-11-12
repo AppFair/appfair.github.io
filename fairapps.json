@@ -110,12 +110,12 @@
       ],
       "coreSize" : 10518960,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.99/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.99/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.99/Info.plist#e440fc12e1b73f1119587c5fb85a22a1b3cbe18f2ab1ce340ea7f173e863e9e1",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/Info.plist#0604730dc1a4ee8a00324a3e50fda05c792f06a95446510d4d1ba20d8b2c9e9a",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -127,17 +127,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.99/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.100/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.99/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+        "https://github.com/Bon-Mot/App/releases/download/0.0.100/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
       ],
-      "sha256" : "c4d210059ac667297968d913430c34cf6ae22f24c898c35b31bdaa99a7eb1726",
-      "size" : 2304829,
+      "sha256" : "41bd68731e5908b478fbee87b6542a4023fc0e87bb9b2fb3f12d16a12cd79145",
+      "size" : 2304827,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.99",
-      "versionDate" : "2021-11-11T23:54:06Z",
+      "version" : "0.0.100",
+      "versionDate" : "2021-11-12T01:13:49Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -345,7 +345,7 @@
       ],
       "coreSize" : 22543688,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.335/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.335/Tune-Out.png",
       "issueCount" : 0,

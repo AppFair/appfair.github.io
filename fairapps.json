@@ -8,12 +8,12 @@
       ],
       "coreSize" : 12974616,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 7,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.185/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.185/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.188/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.188/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.185/Info.plist#431a723d9dfea6bada471504004ff8235c8adcd75f3e14d3e9e16eab58c5c292",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.188/Info.plist#976c381839b689df99c56563ec02069224eb9ea1278dcf6ab70e86aed740ced0",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,17 +37,17 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.185/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.188/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "bbc70c89fb595d75e7bcdd2667323ebacab0f65fe258959f2bd1f7f19dc94ddb",
-      "size" : 2813078,
+      "sha256" : "564396c03ac858bde5ad9aea5a9b8779b6f3a413a39cf4636ddc3a3ad5e49f48",
+      "size" : 2813150,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.185",
-      "versionDate" : "2021-11-12T20:05:57Z",
+      "version" : "0.6.188",
+      "versionDate" : "2021-11-13T22:02:42Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

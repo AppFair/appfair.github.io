@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12957792,
+      "coreSize" : 13158848,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.190/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.190/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.193/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.193/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.190/Info.plist#4cf2105c8186037e06c62a8fcbb3a228aa33b31792297bc90ac5958bacc0f8df",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.193/Info.plist#557a90c56a7f3a6cb3ff038777db4b210af94b3f028ccefb852e607a77716d75",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,17 +37,17 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.190/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.193/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "20df3d13db287febf4c334ea203bdaaac58376b412331fff686c6f4d0c77fb4a",
-      "size" : 2813074,
+      "sha256" : "9a7cd9bab524bc1fc346a9c7143524f1c86d2d4eb51277a72a4732629dc59333",
+      "size" : 2843677,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.190",
-      "versionDate" : "2021-11-13T22:28:04Z",
+      "version" : "0.6.193",
+      "versionDate" : "2021-11-14T05:46:48Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

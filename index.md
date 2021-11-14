@@ -355,7 +355,7 @@ The catalog is automatically re-generated after each successful `integrate-relea
 In order for an organization's `/App-Name/App.git` project to be visible in the **App Fair.app** catalog, it must be a public organization with at least one public member. 
 The organization must have a repository (or redirection) named "App" (literally), which must be a fork of the [appfair/App.git](https://github.com/appfair/App.git) repository.
 In addition, the repository must have issues and discussions enabled, and also must be public and un-archived.
-Finally, the `App-Name` organization's public contact must be a valid e-mail address ending in ".edu".
+Finally, the `App-Name` organization's public contact must be a valid e-mail address associated with the GitHub user that creates releases for the project.
 
 ### Licensing
 
@@ -708,8 +708,23 @@ For details, see the [source](https://fair-ground.org/Fair/blob/main/Sources/Fai
 From [https://reproducible-builds.org/](https://reproducible-builds.org/): “Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code.”
 
 A fair-ground is responsible for ensuring Source Transparency, which is the guarantee that all the source code that included in an app's binary is available for public scrutiny.
+
 Since the artifacts that are distributed through the App Fair are released by an _untrusted_ fork, the fair-ground re-builds every app release in its own _trusted_ environment, and then compares the binary artifacts between the two builds to ensure they are identical.
 If the build artifacts match, then a `fairseal` is published with the cryptographic hash of the validated binary, which is a pre-requisite for being included in the App Fair catalog.
+
+### How can I ensure that my project produces reproducible builds?
+
+The workflows that the fairground uses to build and validate the project specify the correct flags for enabling reproducible builds. This means that most pure-Swift projects won't need any special consideration, and can be assumed to be reproducible.
+
+Projects that build other languages, especially C and C++, may need special consideration. Specifically, any compilation output that is dependent on the current timestamp will introduce differences in the compiled output, which will cause the fairseal generation to fail.
+
+### Can I change the artifacts for a published release?
+
+The Integrate-Release phases are run only once for any given release. 
+The published artifacts are analyzed at the time of the release and the cryptographic (SHA-256) hashes are posted as part of the `fairseal`.
+These hashes cannot be changed for a given release, so any conforming catalog application will reject downloading or installing any artifact contents that do not match their corresponding `fairseal` hashes.
+
+If a release needs to be updated, a new release should be published, which will initiate the Integrate-Release phases to create a new `fairseal`.
 
 ### How can I change the category of my app in the **App Fair.app** catalog?
 

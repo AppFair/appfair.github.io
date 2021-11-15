@@ -132,14 +132,14 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10588328,
+      "coreSize" : 10724504,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.163/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.163/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/Info.plist#580e536ee8eb920fc464f24788c65f9196ccd082fb4e9660ad46d1f844e0f3e0",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.163/Info.plist#c392869838600727a013eaa03e7ce6821529c7fd637f958782fae0e28c1962a3",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -147,17 +147,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.162/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.163/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.0.162/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Next-Edit/App/releases/download/0.0.162/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Next-Edit/App/releases/download/0.0.163/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Next-Edit/App/releases/download/0.0.163/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "f54dc350ce56202357e0b7980e6871a311fe83bf89dbd00e116efcf840d144e5",
-      "size" : 5270482,
+      "sha256" : "63c7074cbeb4dab35673c6a7037db3d0a943192dd5e7d97de4807033f6b7739d",
+      "size" : 5318391,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.162",
-      "versionDate" : "2021-11-12T01:13:41Z",
+      "version" : "0.0.163",
+      "versionDate" : "2021-11-15T00:29:04Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -263,14 +263,14 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 22561184,
+      "coreSize" : 22646496,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.340/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.340/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.341/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.341/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.340/Info.plist#cef3fa2073b3acf9f6a30539992d05e8ec34a0fc88b3f660c8e87cf2adec9b35",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.341/Info.plist#8948f5ec854cac24cf5fde5061a8d34c3215fda3aa3be5d4a25a73716cc5a0c6",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -278,19 +278,19 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.340/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.341/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.340/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
-        "https://github.com/Tune-Out/App/releases/download/0.8.340/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
-        "https://github.com/Tune-Out/App/releases/download/0.8.340/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
+        "https://github.com/Tune-Out/App/releases/download/0.8.341/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
+        "https://github.com/Tune-Out/App/releases/download/0.8.341/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
+        "https://github.com/Tune-Out/App/releases/download/0.8.341/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
       ],
-      "sha256" : "e588a2c7ce85dd110578fa5a0574fff91ec19bf12ae5c8ee2c7615a085a40d97",
-      "size" : 15024383,
+      "sha256" : "a3d8ba349baaa9b66e8bf19bc396842f8dd2e3ee302abb0888e265c5b1adc345",
+      "size" : 15062478,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "FF9502",
-      "version" : "0.8.340",
-      "versionDate" : "2021-11-14T06:02:55Z",
+      "version" : "0.8.341",
+      "versionDate" : "2021-11-15T00:28:24Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

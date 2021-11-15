@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13243840,
+      "coreSize" : 13244272,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.194/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.194/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.195/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.195/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.194/Info.plist#07c732bd8483fe5126e7a461c6f16f4ea74d45488212be51f20b91eea311310a",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.195/Info.plist#ce8928633acae0f16fef49320f08609dc7f18170d3aa076066476a2dc32d3bea",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,17 +37,17 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.194/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.195/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "9347fa6855d29e54871fb837560d2de527145c4afa7cd49d344fcece50b4a671",
-      "size" : 2853288,
+      "sha256" : "eeef8d6faf89f2a1199a333313a13195c4869458dcccb534d9375f8708d1f087",
+      "size" : 2853131,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.194",
-      "versionDate" : "2021-11-14T20:55:40Z",
+      "version" : "0.6.195",
+      "versionDate" : "2021-11-15T00:26:50Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

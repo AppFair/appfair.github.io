@@ -61,7 +61,7 @@
       ],
       "coreSize" : 10622368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.107/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.107/Bon-Mot.png",
       "issueCount" : 0,
@@ -135,12 +135,12 @@
       ],
       "coreSize" : 10724504,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.163/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.163/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.164/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.164/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.163/Info.plist#c392869838600727a013eaa03e7ce6821529c7fd637f958782fae0e28c1962a3",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.164/Info.plist#3b556f3e93e37483ea4a1a0ec7294d2eaf529f0e1b6a882aa7e7cd99d1f87090",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -148,16 +148,16 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.163/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.164/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.0.163/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Next-Edit/App/releases/download/0.0.164/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "652dd908fa8fce0a9722d0e94e55e263347e87814f79663b8d54579f6a1d98a0",
-      "size" : 6672138,
+      "sha256" : "b274e0514d19dec3bab98e390076dd26f5c8b76fd25c1b9f226f2d0b101da8b5",
+      "size" : 6672412,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.163",
-      "versionDate" : "2021-11-15T00:29:04Z",
+      "version" : "0.0.164",
+      "versionDate" : "2021-11-15T12:08:56Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

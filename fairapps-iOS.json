@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13243840,
+      "coreSize" : 13244272,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.194/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.194/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.195/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.195/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.194/Info.plist#07c732bd8483fe5126e7a461c6f16f4ea74d45488212be51f20b91eea311310a",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.195/Info.plist#ce8928633acae0f16fef49320f08609dc7f18170d3aa076066476a2dc32d3bea",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,18 +37,18 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.194/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.195/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.194/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.6.194/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88"
+        "https://github.com/App-Fair/App/releases/download/0.6.195/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
+        "https://github.com/App-Fair/App/releases/download/0.6.195/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88"
       ],
-      "sha256" : "61ff85a50179f8a04e965c9c51e922ff80bcd9e007ba2d3a073cda77d4536d69",
-      "size" : 6492363,
+      "sha256" : "de34f6fab57ede9401e9b4bb7a7dcb52392aa3782c1570392242c7390161df2e",
+      "size" : 6499440,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.194",
-      "versionDate" : "2021-11-14T20:55:40Z",
+      "version" : "0.6.195",
+      "versionDate" : "2021-11-15T00:26:50Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -58,14 +58,14 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10502536,
+      "coreSize" : 10622368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.105/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.105/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.106/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.106/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.105/Info.plist#2bd6f685afa9e3cb607ca32c7bc45d617962e082b11e03245a03a05599e06d5b",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.106/Info.plist#e4a6efae66fa469aad134e7947b6c396cb12a47a6bbe24726e4dd2d9fe82cf8f",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -77,17 +77,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.105/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.106/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "ae5dbf5beebea399f6be4c8945096e7a03a52a3b09f36c3e01128bf9f3539f47",
-      "size" : 5226571,
+      "sha256" : "4fc730a3efd06d1a381542cfcaccc6bd6a4491df406fbdbc6e41de98fb70ab3d",
+      "size" : 5280702,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.105",
-      "versionDate" : "2021-11-13T20:42:32Z",
+      "version" : "0.0.106",
+      "versionDate" : "2021-11-15T00:28:39Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

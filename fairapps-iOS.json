@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13426960,
+      "coreSize" : 13476736,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.197/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.197/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.200/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.200/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.197/Info.plist#4795a89e8a538c77674acf4e1c592170c5f59ee0e3d72ecdde2b6a777efaf2e9",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.200/Info.plist#d736044e8c6548fed30128b8b27953871d8bfe69787e9aaed2cd7e87c5ef3305",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,22 +37,22 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.197/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.200/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.197/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.6.197/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
-        "https://github.com/App-Fair/App/releases/download/0.6.197/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
-        "https://github.com/App-Fair/App/releases/download/0.6.197/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
-        "https://github.com/App-Fair/App/releases/download/0.6.197/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
-        "https://github.com/App-Fair/App/releases/download/0.6.197/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
+        "https://github.com/App-Fair/App/releases/download/0.6.200/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
+        "https://github.com/App-Fair/App/releases/download/0.6.200/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
+        "https://github.com/App-Fair/App/releases/download/0.6.200/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
+        "https://github.com/App-Fair/App/releases/download/0.6.200/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
+        "https://github.com/App-Fair/App/releases/download/0.6.200/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
+        "https://github.com/App-Fair/App/releases/download/0.6.200/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
       ],
-      "sha256" : "51cb711c928ef4be9ee5b237cd84911e3704f5878ae5534a407fd751ddbcae22",
-      "size" : 6582057,
+      "sha256" : "17caa1f311eb457c5295aa2fc735ce3959b9f68659eb3834ae7fe44335fd923c",
+      "size" : 6595003,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.197",
-      "versionDate" : "2021-11-15T12:08:43Z",
+      "version" : "0.6.200",
+      "versionDate" : "2021-11-16T14:16:41Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

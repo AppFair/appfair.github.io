@@ -8,7 +8,7 @@
       ],
       "coreSize" : 13428912,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/App-Fair.png",
       "issueCount" : 0,
@@ -135,12 +135,12 @@
       ],
       "coreSize" : 10724504,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.164/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.164/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.164/Info.plist#3b556f3e93e37483ea4a1a0ec7294d2eaf529f0e1b6a882aa7e7cd99d1f87090",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/Info.plist#b48f9f21fe4d3f677547628665a75f2b7b57bbdbdd8f28cc80db9b598e821091",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -148,16 +148,16 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.164/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.0.164/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Next-Edit/App/releases/download/0.0.165/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "b274e0514d19dec3bab98e390076dd26f5c8b76fd25c1b9f226f2d0b101da8b5",
-      "size" : 6672412,
+      "sha256" : "10436ecdd2aa20e687e1c69be8ff58e97c53f716006549c9eabebf62a0d29e27",
+      "size" : 6671865,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.164",
-      "versionDate" : "2021-11-15T12:08:56Z",
+      "version" : "0.0.165",
+      "versionDate" : "2021-11-17T13:09:14Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -260,14 +260,14 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 22646496,
+      "coreSize" : 22663176,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.342/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.342/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.343/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.343/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.342/Info.plist#002ed25cff365195267ec29aca6315e5d7b1dfd7611034e8593e3faf6279cb28",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.343/Info.plist#11a11a72b66f3c672d80e9416d4cd67abc773916df411f53e1a0fee20cfae4b3",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -275,19 +275,19 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.342/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.343/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.342/screenshot-mac-01-2212x1462.png#d93f88d3b89cebf5923123cc5d6642e7dfe817f7f7cc28703fc9f35ecc736311",
-        "https://github.com/Tune-Out/App/releases/download/0.8.342/screenshot-mac-02-2534x1112.png#202aedb69aa51c922fcb7d10a1bc90b0039b87952a23f30ab38a5994e2c2fd47",
-        "https://github.com/Tune-Out/App/releases/download/0.8.342/screenshot-mac-03-2180x1464.png#578b97c303049f6b2d2930345b224a74e515d6f3831846e6d1a86eb8b5e71989"
+        "https://github.com/Tune-Out/App/releases/download/0.8.343/screenshot-mac-02-2534x1112.png#202aedb69aa51c922fcb7d10a1bc90b0039b87952a23f30ab38a5994e2c2fd47",
+        "https://github.com/Tune-Out/App/releases/download/0.8.343/screenshot-mac-01-2212x1462.png#d93f88d3b89cebf5923123cc5d6642e7dfe817f7f7cc28703fc9f35ecc736311",
+        "https://github.com/Tune-Out/App/releases/download/0.8.343/screenshot-mac-03-2180x1464.png#578b97c303049f6b2d2930345b224a74e515d6f3831846e6d1a86eb8b5e71989"
       ],
-      "sha256" : "389d5a1d446ef5e9541fab3b3d659072b2a31083bbf2074a6ff1544b75335580",
-      "size" : 7929184,
+      "sha256" : "62b3eb3c5d5f5f62f636bb562df385c07cf67e47d98e9e6e544a58b59b18df95",
+      "size" : 7930818,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "FF9502",
-      "version" : "0.8.342",
-      "versionDate" : "2021-11-15T12:08:54Z",
+      "version" : "0.8.343",
+      "versionDate" : "2021-11-17T13:08:54Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

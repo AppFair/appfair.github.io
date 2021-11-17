@@ -139,11 +139,11 @@
       "coreSize" : 10724504,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/Next-Edit.png",
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.2/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.2/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/Info.plist#b48f9f21fe4d3f677547628665a75f2b7b57bbdbdd8f28cc80db9b598e821091",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.2/Info.plist#84b0caa384843bd2ff05648316fa95477706c5e86f95e19a9e074730b9d35053",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -151,17 +151,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.2/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.0.165/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Next-Edit/App/releases/download/0.0.165/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Next-Edit/App/releases/download/0.1.2/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Next-Edit/App/releases/download/0.1.2/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "fa911ee669a0947e34e91c89593c3d84b8a7854b2c71165293970bbd0b6f6be6",
-      "size" : 5318376,
+      "sha256" : "9dc359370187744ddb3369ac0e00e24c71c4518519932336cf11c4641398ebd6",
+      "size" : 5318377,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.165",
-      "versionDate" : "2021-11-17T13:09:14Z",
+      "version" : "0.1.2",
+      "versionDate" : "2021-11-17T15:17:06Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

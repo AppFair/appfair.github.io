@@ -135,12 +135,12 @@
       ],
       "coreSize" : 10724504,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.2/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.2/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/Info.plist#b48f9f21fe4d3f677547628665a75f2b7b57bbdbdd8f28cc80db9b598e821091",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.2/Info.plist#84b0caa384843bd2ff05648316fa95477706c5e86f95e19a9e074730b9d35053",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -148,16 +148,16 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.0.165/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.2/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.0.165/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Next-Edit/App/releases/download/0.1.2/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "10436ecdd2aa20e687e1c69be8ff58e97c53f716006549c9eabebf62a0d29e27",
-      "size" : 6671865,
+      "sha256" : "458fd16a13845dbd908d835f47de60bc0b550a8ad77b659ded9db1cb47dbdda7",
+      "size" : 6672663,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.0.165",
-      "versionDate" : "2021-11-17T13:09:14Z",
+      "version" : "0.1.2",
+      "versionDate" : "2021-11-17T15:17:06Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

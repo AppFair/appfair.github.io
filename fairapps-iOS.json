@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13428912,
+      "coreSize" : 13480920,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.202/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.202/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/Info.plist#c22a6304718155208b7a918bbe415b50ec0d39eb023313c95b7cdae33ded943e",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.202/Info.plist#2ed6e783856c099e553b5f605617fe26b2031fad94c8d76271a0d86e6fc3adbb",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,22 +37,22 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.202/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.201/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.6.201/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
-        "https://github.com/App-Fair/App/releases/download/0.6.201/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
-        "https://github.com/App-Fair/App/releases/download/0.6.201/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
-        "https://github.com/App-Fair/App/releases/download/0.6.201/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
-        "https://github.com/App-Fair/App/releases/download/0.6.201/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
+        "https://github.com/App-Fair/App/releases/download/0.6.202/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
+        "https://github.com/App-Fair/App/releases/download/0.6.202/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
+        "https://github.com/App-Fair/App/releases/download/0.6.202/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
+        "https://github.com/App-Fair/App/releases/download/0.6.202/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
+        "https://github.com/App-Fair/App/releases/download/0.6.202/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
+        "https://github.com/App-Fair/App/releases/download/0.6.202/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
       ],
-      "sha256" : "994ac40312ac639daa3b6a2bb2516bfae18907ea4d8f013a66110aca537513b2",
-      "size" : 6571422,
+      "sha256" : "0c89397db1894cb344792ad63a7ce3ed4400ebd55721e1b9918a9d48c2c80259",
+      "size" : 6591372,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.201",
-      "versionDate" : "2021-11-17T13:05:43Z",
+      "version" : "0.6.202",
+      "versionDate" : "2021-11-17T15:16:04Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -65,11 +65,11 @@
       "coreSize" : 10622368,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.109/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.109/Bon-Mot.png",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.1/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.1/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.109/Info.plist#638cf0ea8b42d94b7a1d39042e106fa89b1bbbf7893002722a200ac8b6e4808d",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.1/Info.plist#927605bb5da805321b625189b5a0713981f3a661b991ff10fe0248e98828ce00",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,17 +81,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.109/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.1/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f34718e8acd468e94bfb3ad14e66c6ca049e85cfd590d502ef7ea0ce7185605b",
-      "size" : 5280700,
+      "sha256" : "d1efd2e8157f6113bedd0eadb2ea40567df527464774e76d97fc2e91748cf0c5",
+      "size" : 5280693,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.109",
-      "versionDate" : "2021-11-17T13:09:01Z",
+      "version" : "0.1.1",
+      "versionDate" : "2021-11-17T15:16:50Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

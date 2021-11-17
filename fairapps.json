@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13476736,
+      "coreSize" : 13428912,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.200/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.200/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.200/Info.plist#d736044e8c6548fed30128b8b27953871d8bfe69787e9aaed2cd7e87c5ef3305",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/Info.plist#c22a6304718155208b7a918bbe415b50ec0d39eb023313c95b7cdae33ded943e",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,19 +37,19 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.200/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.201/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.200/screenshot-mac-01-2504x1700.png#ff7903d0fbe886185ed391e059e73e9e21b200e2fba1ede4fbf88f43aaa96eb2",
-        "https://github.com/App-Fair/App/releases/download/0.6.200/screenshot-mac-02-2504x1700.png#e17f7abad6052f1f382a0390c2fd1a834796e5ab0a4012068216bf28bf955790",
-        "https://github.com/App-Fair/App/releases/download/0.6.200/screenshot-mac-03-2504x1700.png#8a1166ce2f226ff6103d5e4b3d2b4349ae4a9be055dd29e01d51c702987a0a6d"
+        "https://github.com/App-Fair/App/releases/download/0.6.201/screenshot-mac-01-2504x1700.png#ff7903d0fbe886185ed391e059e73e9e21b200e2fba1ede4fbf88f43aaa96eb2",
+        "https://github.com/App-Fair/App/releases/download/0.6.201/screenshot-mac-02-2504x1700.png#e17f7abad6052f1f382a0390c2fd1a834796e5ab0a4012068216bf28bf955790",
+        "https://github.com/App-Fair/App/releases/download/0.6.201/screenshot-mac-03-2504x1700.png#8a1166ce2f226ff6103d5e4b3d2b4349ae4a9be055dd29e01d51c702987a0a6d"
       ],
-      "sha256" : "21fe06c52c47cb1fe1540d8be8c3dd5b632a5e957069f4c4d082fb295e5facbe",
-      "size" : 2869762,
+      "sha256" : "59cf99ce660054718cd802270a213eba740384f1e0ffab80896778b0b984559e",
+      "size" : 2862487,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.200",
-      "versionDate" : "2021-11-16T14:16:41Z",
+      "version" : "0.6.201",
+      "versionDate" : "2021-11-17T13:05:43Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -61,12 +61,12 @@
       ],
       "coreSize" : 10622368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.108/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.108/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.109/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.109/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.108/Info.plist#9a9bff911218be8445a31fb574ab9ce3abdb7a5d57629dd1e7a1c742bd3e0e5d",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.109/Info.plist#638cf0ea8b42d94b7a1d39042e106fa89b1bbbf7893002722a200ac8b6e4808d",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -78,17 +78,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.108/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.0.109/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.0.108/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+        "https://github.com/Bon-Mot/App/releases/download/0.0.109/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
       ],
-      "sha256" : "65f6e2aa86d9b562025f57590a257f002fed1a40e3d3abda0c819daf073a8492",
-      "size" : 2316394,
+      "sha256" : "e7a8091d6326d6cb52802d59e4c3a5eefc337d92ad4908de104c9bca0884d511",
+      "size" : 2316388,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.0.108",
-      "versionDate" : "2021-11-16T12:57:19Z",
+      "version" : "0.0.109",
+      "versionDate" : "2021-11-17T13:09:01Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -100,30 +100,30 @@
       ],
       "coreSize" : 10743312,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.139/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.139/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.140/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.140/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.139/Info.plist#6c5dcd220fce9d481d219e399b8e3e1e524c71221860a6411f3d815d72b70001",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.140/Info.plist#e509875d2a62f19b6febbbb9bf457ade6412ac6890c636758e4299abe4fc79b3",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.139/README.md#7a39d07a25b97f3996e90e606b3150dee35cae1b482f9918403c87c6b9c7db46",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.140/README.md#7a39d07a25b97f3996e90e606b3150dee35cae1b482f9918403c87c6b9c7db46",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.139/screenshot-mac-01-1634x1040.png#a592d5ef499067dc2e3e02f021476bcd698f9c947cf3afc900b67152be6982b8",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.139/screenshot-mac-03-1714x522.png#2d94f1ff781fbf1f13cdf4444a764c276154eb84402486f028116e8fa1e842df",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.139/screenshot-mac-02-1656x1560.png#0be3e47d041d550050a73971630bb355d83936e1f3b0378fbc936fd9c7ab1e7f",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.139/screenshot-mac-04-370x1816.png#3a409bd9c1f25e1f6dd71566b5a35be4a2d853e0f8561413987474b9687d42a5"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.140/screenshot-mac-01-1634x1040.png#a592d5ef499067dc2e3e02f021476bcd698f9c947cf3afc900b67152be6982b8",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.140/screenshot-mac-02-1656x1560.png#0be3e47d041d550050a73971630bb355d83936e1f3b0378fbc936fd9c7ab1e7f",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.140/screenshot-mac-03-1714x522.png#2d94f1ff781fbf1f13cdf4444a764c276154eb84402486f028116e8fa1e842df",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.140/screenshot-mac-04-370x1816.png#3a409bd9c1f25e1f6dd71566b5a35be4a2d853e0f8561413987474b9687d42a5"
       ],
-      "sha256" : "fbf46a65f174d8a531d1f4eebd5647245f5c85c0a548f89c081bc496d2d12380",
-      "size" : 2345896,
+      "sha256" : "939497a5ffe4d09cb632b2ba1aeb0652bf64ee15ae3319cfe1d87c92bdbbd8ab",
+      "size" : 2345893,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.139",
-      "versionDate" : "2021-11-15T12:08:56Z",
+      "version" : "0.8.140",
+      "versionDate" : "2021-11-17T13:09:20Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

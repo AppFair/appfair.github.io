@@ -62,14 +62,14 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10622368,
+      "coreSize" : 10655712,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.1/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.1/Bon-Mot.png",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.2/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.2/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.1/Info.plist#927605bb5da805321b625189b5a0713981f3a661b991ff10fe0248e98828ce00",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.2/Info.plist#986ff396f1b165ec66b815d3a6721809f639b1b40c38681df1ad22837be375a1",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,17 +81,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.1/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.2/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "d1efd2e8157f6113bedd0eadb2ea40567df527464774e76d97fc2e91748cf0c5",
-      "size" : 5280693,
+      "sha256" : "0bbce3047c9f660e749dc3410d64b0d69f06f7fdb313404dcdf35df4fe0cf3f6",
+      "size" : 5295186,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.1.1",
-      "versionDate" : "2021-11-17T15:16:50Z",
+      "version" : "0.1.2",
+      "versionDate" : "2021-11-18T22:53:34Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

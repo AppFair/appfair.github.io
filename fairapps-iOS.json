@@ -171,30 +171,30 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "coreSize" : 10468792,
+      "coreSize" : 10704992,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.7/Numeral-IXMCIX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.7/Numeral-IXMCIX.png",
+      "downloadURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/Numeral-IXMCIX-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/Numeral-IXMCIX.png",
       "issueCount" : 0,
       "localizedDescription" : "A handy and useful artists tool",
-      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.7/Info.plist#b9b0fc46f2961f05c157b930ab9c3a4b04f3e37797c2cec11c77238a0967626c",
+      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/Info.plist#f8d897628d27256372ff1c998140a744f48e2101596562aa707ad20e013939c6",
       "name" : "Numeral IXMCIX",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.7/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.7/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.7/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "282abac5a7ca2898d038d5561661763f5868ffa3a7a90419caac0b9cfd4ec026",
-      "size" : 5233698,
+      "sha256" : "c65d9bc98730410f7202b2f7f2aa17d25c2e99057085d36b8a1f4b1c2f130aca",
+      "size" : 5395958,
       "starCount" : 0,
       "subtitle" : "A handy and useful artists tool",
-      "version" : "0.0.7",
-      "versionDate" : "2021-11-11T04:18:45Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-IXMCIX/App/compare/0.0.6...0.0.7",
+      "version" : "0.0.9",
+      "versionDate" : "2021-11-20T12:13:45Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-IXMCIX/App/compare/0.0.8...0.0.9",
       "watcherCount" : 0
     },
     {

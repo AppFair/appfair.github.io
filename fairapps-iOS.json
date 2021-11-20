@@ -62,14 +62,14 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10721728,
+      "coreSize" : 10721992,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.8/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.8/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.8/Info.plist#7a7e32bc5f4ca742285f48828508317567629be2aecb8dd4c655cd7677b53d54",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Info.plist#5490a633c30cbe7e5f297e8dc23b5e5deaf7992e769c806aa28225c080aa85a9",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,17 +81,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.8/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a6c1e633c9bbd69447273e74c0d99bcbdc4ee427e71e914b4dbe450bb9d7b4a3",
-      "size" : 5938664,
+      "sha256" : "1ef7ceb902a66e61924dbb9ec3e6f8639d2c7b3da0fad2f0cbd2b3ad1d873faa",
+      "size" : 6004691,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "0.1.8",
-      "versionDate" : "2021-11-20T15:14:09Z",
+      "version" : "0.1.9",
+      "versionDate" : "2021-11-20T17:07:30Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -101,32 +101,32 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 10825912,
+      "coreSize" : 10826168,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.144/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.144/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.144/Info.plist#25dbd8fd517f1bdbfc48b017ada84ac9275d87ac9f0af6a0b78232a3a677f823",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/Info.plist#3ec97b96a4180db1d7eb5feb946c88fee3704599d83092dc038e7ba3faa43cb4",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.144/README.md#7a39d07a25b97f3996e90e606b3150dee35cae1b482f9918403c87c6b9c7db46",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/README.md#7a39d07a25b97f3996e90e606b3150dee35cae1b482f9918403c87c6b9c7db46",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.144/screenshot-iphone-01-1170x2532.png#d1f2a5227a3cfac4358a9617a6de8d2e33e48a032f3b00b9021b13eab6ba063e",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.144/screenshot-iphone-02-1170x2532.png#fdd9399dfad5bdc6f2ae0958eeb95234fd5627455ab38c4916254a1fcae81d75",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.144/screenshot-iphone-03-1170x2532.png#c8e6bc37b92d71ff05f21a078a7782319b05f7afa074dc0a8f7b9022a7b4887e",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.144/screenshot-iphone-04-1170x2532.png#b7dd5f497d3379825cfa3460c93f157b3b3bd69eaa468f5b24986484720a7c5c"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/screenshot-iphone-02-1170x2532.png#fdd9399dfad5bdc6f2ae0958eeb95234fd5627455ab38c4916254a1fcae81d75",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/screenshot-iphone-01-1170x2532.png#d1f2a5227a3cfac4358a9617a6de8d2e33e48a032f3b00b9021b13eab6ba063e",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/screenshot-iphone-03-1170x2532.png#c8e6bc37b92d71ff05f21a078a7782319b05f7afa074dc0a8f7b9022a7b4887e",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/screenshot-iphone-04-1170x2532.png#b7dd5f497d3379825cfa3460c93f157b3b3bd69eaa468f5b24986484720a7c5c"
       ],
-      "sha256" : "8acf7924f43f8075821542d20c537433153c63e84aeb35fe3d95dc94fdba67fa",
-      "size" : 5955998,
+      "sha256" : "49c46e987d99afaf7c1dff1b228971b104e8ac200e4cf61a245046df7ac33264",
+      "size" : 6020034,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.144",
-      "versionDate" : "2021-11-20T15:13:10Z",
+      "version" : "0.8.145",
+      "versionDate" : "2021-11-20T17:07:26Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

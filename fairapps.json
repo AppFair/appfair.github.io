@@ -198,29 +198,29 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 10485360,
+      "coreSize" : 10705168,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.4/Numeral-MXMMXVI-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.4/Numeral-MXMMXVI.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/Numeral-MXMMXVI-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/Numeral-MXMMXVI.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.4/Info.plist#0beadf5ba5ef7ae29f45eb1da9c8f716897ccf803abcccb99a03c40797d424d2",
+      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/Info.plist#e4d5f1f78092198f0a76f9f0e0e6c676f64bc48e2a565215bea9e27f70efafaf",
       "name" : "Numeral MXMMXVI",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.4/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
       "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.4/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "1302ff39ad464d61ee2f9a666972cf185f615af9fe5ade1d088af3657b88354c",
-      "size" : 2318797,
+      "sha256" : "413bc2e6e0061850a72a648dbc99ebbf3e7fe2c1492e5f5c073395d88c308e9d",
+      "size" : 2449365,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.4",
-      "versionDate" : "2021-11-11T04:23:39Z",
-      "versionDescription" : "",
+      "version" : "0.0.6",
+      "versionDate" : "2021-11-20T12:14:26Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-MXMMXVI/App/compare/0.0.5...0.0.6",
       "watcherCount" : 0
     },
     {
@@ -229,29 +229,29 @@
       "categories" : [
         "public.app-category.lifestyle"
       ],
-      "coreSize" : 10468880,
+      "coreSize" : 10705080,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/Numeral-XVIXVX-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/Numeral-XVIXVX.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.6/Numeral-XVIXVX-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.6/Numeral-XVIXVX.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/Info.plist#4d8ea35c4a71aab99f1f33b9247fa3726aed3b86647fb2306d659340354b2c54",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.6/Info.plist#a077cad46edb5fe9ca6668b49b6cb4a8d2e235a287189edd798b5096a976a863",
       "name" : "Numeral XVIXVX",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.6/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.4/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.0.6/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "c62df3db8bf9b9a100cb40c50184e9cc363fab6d7c5a1c8c3c0ac6756b58eaf4",
-      "size" : 2311708,
+      "sha256" : "0837f992e5877b4b12635ce64e5666223531454e3de7c3f60a2c8725333a6571",
+      "size" : 2445444,
       "starCount" : 0,
       "subtitle" : "A simple yet useful app",
-      "version" : "0.0.4",
-      "versionDate" : "2021-11-11T04:25:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-XVIXVX/App/compare/0.0.3...0.0.4",
+      "version" : "0.0.6",
+      "versionDate" : "2021-11-20T12:15:21Z",
+      "versionDescription" : "",
       "watcherCount" : 0
     },
     {

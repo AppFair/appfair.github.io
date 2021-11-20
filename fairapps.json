@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13628704,
+      "coreSize" : 13628440,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.206/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.206/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.206/Info.plist#e3fde77ba4a378c25227d161b61ef85618d6398c4dfdec90e228955d20db49ed",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/Info.plist#d600e28d6f971671ef0a3348eb6be978ceb1b3ce17d4c37031f805912a80872d",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,19 +37,19 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.206/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.206/screenshot-mac-01-2504x1700.png#ff7903d0fbe886185ed391e059e73e9e21b200e2fba1ede4fbf88f43aaa96eb2",
-        "https://github.com/App-Fair/App/releases/download/0.6.206/screenshot-mac-02-2504x1700.png#e17f7abad6052f1f382a0390c2fd1a834796e5ab0a4012068216bf28bf955790",
-        "https://github.com/App-Fair/App/releases/download/0.6.206/screenshot-mac-03-2504x1700.png#8a1166ce2f226ff6103d5e4b3d2b4349ae4a9be055dd29e01d51c702987a0a6d"
+        "https://github.com/App-Fair/App/releases/download/0.6.209/screenshot-mac-01-2504x1700.png#ff7903d0fbe886185ed391e059e73e9e21b200e2fba1ede4fbf88f43aaa96eb2",
+        "https://github.com/App-Fair/App/releases/download/0.6.209/screenshot-mac-02-2504x1700.png#e17f7abad6052f1f382a0390c2fd1a834796e5ab0a4012068216bf28bf955790",
+        "https://github.com/App-Fair/App/releases/download/0.6.209/screenshot-mac-03-2504x1700.png#8a1166ce2f226ff6103d5e4b3d2b4349ae4a9be055dd29e01d51c702987a0a6d"
       ],
-      "sha256" : "757ba1e2c3944b8bce56608aac7bf055f0db20fccb77efbd2e57fe48a582d151",
-      "size" : 2894891,
+      "sha256" : "137b73fea3fedc5689f9c151e91257935b3cedf5b06c97dd7a2cf553eef61e26",
+      "size" : 3532295,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.206",
-      "versionDate" : "2021-11-20T11:53:31Z",
+      "version" : "0.6.209",
+      "versionDate" : "2021-11-20T17:07:16Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -260,14 +260,14 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 22778888,
+      "coreSize" : 22779016,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.348/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.348/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.348/Info.plist#e97e0da1388261486b9fd92185ae0757f56639b29aae8a1b395be9c650ac1619",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Info.plist#a83b3ab987bd430d7d9f63395b1cccdc5c7bf733e26b109851a6c819fc5428e5",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -275,19 +275,19 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.348/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.348/screenshot-mac-01-2212x1462.png#d93f88d3b89cebf5923123cc5d6642e7dfe817f7f7cc28703fc9f35ecc736311",
-        "https://github.com/Tune-Out/App/releases/download/0.8.348/screenshot-mac-02-2534x1112.png#202aedb69aa51c922fcb7d10a1bc90b0039b87952a23f30ab38a5994e2c2fd47",
-        "https://github.com/Tune-Out/App/releases/download/0.8.348/screenshot-mac-03-2180x1464.png#578b97c303049f6b2d2930345b224a74e515d6f3831846e6d1a86eb8b5e71989"
+        "https://github.com/Tune-Out/App/releases/download/0.8.349/screenshot-mac-01-2212x1462.png#d93f88d3b89cebf5923123cc5d6642e7dfe817f7f7cc28703fc9f35ecc736311",
+        "https://github.com/Tune-Out/App/releases/download/0.8.349/screenshot-mac-02-2534x1112.png#202aedb69aa51c922fcb7d10a1bc90b0039b87952a23f30ab38a5994e2c2fd47",
+        "https://github.com/Tune-Out/App/releases/download/0.8.349/screenshot-mac-03-2180x1464.png#578b97c303049f6b2d2930345b224a74e515d6f3831846e6d1a86eb8b5e71989"
       ],
-      "sha256" : "70df0ab91c9d40d9a032bc810cd9596f75e2e32fef3a2a0fec81a1c290d8bd7a",
-      "size" : 8578160,
+      "sha256" : "9c96f0b4e1fe860f1328d42270c7e6bd93d139baaadfeaaa94aa4e41d4e7d053",
+      "size" : 8663115,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "FF9502",
-      "version" : "0.8.348",
-      "versionDate" : "2021-11-20T15:13:43Z",
+      "version" : "0.8.349",
+      "versionDate" : "2021-11-20T17:07:21Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

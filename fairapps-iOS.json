@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13628704,
+      "coreSize" : 13628440,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.206/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.206/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.206/Info.plist#e3fde77ba4a378c25227d161b61ef85618d6398c4dfdec90e228955d20db49ed",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/Info.plist#d600e28d6f971671ef0a3348eb6be978ceb1b3ce17d4c37031f805912a80872d",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,22 +37,22 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.206/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.206/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.6.206/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
-        "https://github.com/App-Fair/App/releases/download/0.6.206/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
-        "https://github.com/App-Fair/App/releases/download/0.6.206/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
-        "https://github.com/App-Fair/App/releases/download/0.6.206/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
-        "https://github.com/App-Fair/App/releases/download/0.6.206/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
+        "https://github.com/App-Fair/App/releases/download/0.6.209/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
+        "https://github.com/App-Fair/App/releases/download/0.6.209/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
+        "https://github.com/App-Fair/App/releases/download/0.6.209/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
+        "https://github.com/App-Fair/App/releases/download/0.6.209/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
+        "https://github.com/App-Fair/App/releases/download/0.6.209/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
+        "https://github.com/App-Fair/App/releases/download/0.6.209/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
       ],
-      "sha256" : "42b2989dfa653e8f74aa5f51f232d49e1e546c780a82e25bc148b6ae51c4c9fc",
-      "size" : 6654642,
+      "sha256" : "68765fc93e4c2fb17449ebacbb6a79b33028830baf3c82b35182940c42db5b61",
+      "size" : 7239879,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.206",
-      "versionDate" : "2021-11-20T11:53:31Z",
+      "version" : "0.6.209",
+      "versionDate" : "2021-11-20T17:07:16Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },
@@ -267,14 +267,14 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 22778888,
+      "coreSize" : 22779016,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.348/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.348/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.348/Info.plist#e97e0da1388261486b9fd92185ae0757f56639b29aae8a1b395be9c650ac1619",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Info.plist#a83b3ab987bd430d7d9f63395b1cccdc5c7bf733e26b109851a6c819fc5428e5",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -282,19 +282,19 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.348/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.348/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
-        "https://github.com/Tune-Out/App/releases/download/0.8.348/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
-        "https://github.com/Tune-Out/App/releases/download/0.8.348/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
+        "https://github.com/Tune-Out/App/releases/download/0.8.349/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
+        "https://github.com/Tune-Out/App/releases/download/0.8.349/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
+        "https://github.com/Tune-Out/App/releases/download/0.8.349/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
       ],
-      "sha256" : "9d6b90f9958b7bec2973df500c4fd8fbbfa8ea849fdc1c15557a411ebe8ed835",
-      "size" : 15703187,
+      "sha256" : "c2b8cd0f797abf2f7c67a6ff7633e97aef872492f2b245d655d6a581ead6d54c",
+      "size" : 15774629,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "FF9502",
-      "version" : "0.8.348",
-      "versionDate" : "2021-11-20T15:13:43Z",
+      "version" : "0.8.349",
+      "versionDate" : "2021-11-20T17:07:21Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

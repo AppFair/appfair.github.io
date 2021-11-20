@@ -192,7 +192,7 @@
       ],
       "coreSize" : 10690656,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.146/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.146/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -313,12 +313,46 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 10656208,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.7/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.7/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.7/Info.plist#d425281df01d93e05cb130715efd2c17a5419b21c481b730dd0cc1eb8455ee1f",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.7/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "screenshotURLs" : [
+        "https://github.com/Next-Edit/App/releases/download/0.1.7/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "9ac60279f922765b69e4a164efd6cc6ef6442becbb4d14775a4c5ada0fb42394",
+      "size" : 7372939,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.1.7",
+      "versionDate" : "2021-11-20T22:38:01Z",
+      "versionDescription" : "Release ${GITHUB_REF#refs/tags/}",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10808176,
+      "coreSize" : 10656208,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit-macOS.zip",

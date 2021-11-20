@@ -103,7 +103,7 @@
       ],
       "coreSize" : 10826168,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -136,14 +136,14 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10807928,
+      "coreSize" : 10808176,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.5/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.5/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.5/Info.plist#851f7ed27c7b76ded26a5a638be8726d5a7fed2f3b74d6e97f36ed6d0a86aa54",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Info.plist#64ad267a36818c4020fab5d6e5f05a9369199b491b6f8cc8fdb109754577ea1d",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -151,17 +151,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.5/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.1.5/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Next-Edit/App/releases/download/0.1.5/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Next-Edit/App/releases/download/0.1.6/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Next-Edit/App/releases/download/0.1.6/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "28e70f551f2b46e5e7b0148c361b00ca72284a043a03ac9c4e5283983f4832de",
-      "size" : 5909865,
+      "sha256" : "2924e447a96739a996bb60a1073ad5358c7171295862f6de4d04b7e6c84ea121",
+      "size" : 5972654,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.1.5",
-      "versionDate" : "2021-11-20T15:14:03Z",
+      "version" : "0.1.6",
+      "versionDate" : "2021-11-20T17:07:34Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

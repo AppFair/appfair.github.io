@@ -8,7 +8,7 @@
       ],
       "coreSize" : 13628440,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/App-Fair.png",
       "issueCount" : 0,
@@ -61,7 +61,7 @@
       ],
       "coreSize" : 10721992,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Bon-Mot.png",
       "issueCount" : 0,
@@ -100,7 +100,7 @@
       ],
       "coreSize" : 10826168,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -128,6 +128,56 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Neural-Scry",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "coreSize" : 10704632,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.10/Neural-Scry-macOS.zip",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.10/Neural-Scry.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A handy and useful artists tool",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.10/Info.plist#2d351e185f1b8d6d6ffd2038cafdfae6733b9481c14c2063bde86f2bba791b17",
+      "name" : "Neural Scry",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.camera",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This enabled this permission for testing"
+        }
+      ],
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.10/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "screenshotURLs" : [
+        "https://github.com/Neural-Scry/App/releases/download/0.0.10/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "78111f1b767042f642dccdb397c7d684d31da5632fdc5ca3f072d47baa5bc25d",
+      "size" : 2548156,
+      "starCount" : 0,
+      "subtitle" : "A handy and useful artists tool",
+      "version" : "0.0.10",
+      "versionDate" : "2021-11-20T17:31:44Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Neural-Scry/App/compare/0.0.9...0.0.10",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
@@ -135,7 +185,7 @@
       ],
       "coreSize" : 10808176,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit.png",
       "issueCount" : 0,
@@ -159,37 +209,6 @@
       "version" : "0.1.6",
       "versionDate" : "2021-11-20T17:07:34Z",
       "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Numeral-IXMCIX",
-      "categories" : [
-        "public.app-category.graphics-design"
-      ],
-      "coreSize" : 10704992,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/Numeral-IXMCIX-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/Numeral-IXMCIX.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A handy and useful artists tool",
-      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/Info.plist#f8d897628d27256372ff1c998140a744f48e2101596562aa707ad20e013939c6",
-      "name" : "Numeral IXMCIX",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "fbb0c769f4222e027ca41442fdd359948a0369219fcbe32d7f8ea3ebf731679a",
-      "size" : 2424286,
-      "starCount" : 0,
-      "subtitle" : "A handy and useful artists tool",
-      "version" : "0.0.9",
-      "versionDate" : "2021-11-20T12:13:45Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-IXMCIX/App/compare/0.0.8...0.0.9",
       "watcherCount" : 0
     },
     {
@@ -262,7 +281,7 @@
       ],
       "coreSize" : 22779016,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out.png",
       "issueCount" : 0,

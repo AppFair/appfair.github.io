@@ -8,7 +8,7 @@
       ],
       "coreSize" : 13628440,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.209/App-Fair.png",
       "issueCount" : 0,
@@ -64,7 +64,7 @@
       ],
       "coreSize" : 10721992,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Bon-Mot.png",
       "issueCount" : 0,
@@ -131,6 +131,57 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Neural-Scry",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "coreSize" : 10704632,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.10/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.10/Neural-Scry.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A handy and useful artists tool",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.10/Info.plist#2d351e185f1b8d6d6ffd2038cafdfae6733b9481c14c2063bde86f2bba791b17",
+      "name" : "Neural Scry",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.camera",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This enabled this permission for testing"
+        }
+      ],
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.10/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "screenshotURLs" : [
+        "https://github.com/Neural-Scry/App/releases/download/0.0.10/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Neural-Scry/App/releases/download/0.0.10/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "1d8c6ffcd89ffeefb91acade9f8676b33a495ea43a5f8ef1fe922b34b6ba84b3",
+      "size" : 5532564,
+      "starCount" : 0,
+      "subtitle" : "A handy and useful artists tool",
+      "version" : "0.0.10",
+      "versionDate" : "2021-11-20T17:31:44Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Neural-Scry/App/compare/0.0.9...0.0.10",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
@@ -138,7 +189,7 @@
       ],
       "coreSize" : 10808176,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit-iOS.ipa",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit.png",
       "issueCount" : 0,
@@ -163,38 +214,6 @@
       "version" : "0.1.6",
       "versionDate" : "2021-11-20T17:07:34Z",
       "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Numeral-IXMCIX",
-      "categories" : [
-        "public.app-category.graphics-design"
-      ],
-      "coreSize" : 10704992,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/Numeral-IXMCIX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/Numeral-IXMCIX.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A handy and useful artists tool",
-      "metadataURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/Info.plist#f8d897628d27256372ff1c998140a744f48e2101596562aa707ad20e013939c6",
-      "name" : "Numeral IXMCIX",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-IXMCIX/App/releases/download/0.0.9/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
-      ],
-      "sha256" : "c65d9bc98730410f7202b2f7f2aa17d25c2e99057085d36b8a1f4b1c2f130aca",
-      "size" : 5395958,
-      "starCount" : 0,
-      "subtitle" : "A handy and useful artists tool",
-      "version" : "0.0.9",
-      "versionDate" : "2021-11-20T12:13:45Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-IXMCIX/App/compare/0.0.8...0.0.9",
       "watcherCount" : 0
     },
     {
@@ -269,7 +288,7 @@
       ],
       "coreSize" : 22779016,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out.png",
       "issueCount" : 0,

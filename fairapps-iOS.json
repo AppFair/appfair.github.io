@@ -64,12 +64,12 @@
       ],
       "coreSize" : 10670016,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.12/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.12/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.12/Info.plist#67baea557de00c3d9d00ac8af644e5bfb734e10bda8decf5f67f61066033a473",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/Info.plist#24ad9b12b51a627793609943d6abbd2fade7888ac5bcc89ddcbc163e072d1154",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,18 +81,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.12/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a06bb62d897fd4c17f2bbb0521df96ade6bd6df8f50e9d2fed25d403b962d9a0",
-      "size" : 5855936,
+      "sha256" : "54c2dd0caa81a00dfd2ed0c9c2be2dfa7c1f85eded94dcd1ddfe859a1f2c7138",
+      "size" : 5880075,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "1.1.12",
-      "versionDate" : "2021-11-21T22:23:07Z",
-      "versionDescription" : "Release 1.1.12",
+      "version" : "1.1.13",
+      "versionDate" : "2021-11-21T22:45:58Z",
+      "versionDescription" : "Release 1.1.13",
       "watcherCount" : 0
     },
     {
@@ -138,7 +138,7 @@
       ],
       "coreSize" : 10636272,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.13/Neural-Scry-iOS.ipa",
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.13/Neural-Scry.png",
       "issueCount" : 0,

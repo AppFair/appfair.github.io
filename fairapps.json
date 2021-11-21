@@ -61,7 +61,7 @@
       ],
       "coreSize" : 13626576,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.212/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.212/App-Fair.png",
       "issueCount" : 0,
@@ -321,11 +321,11 @@
       "coreSize" : 10656208,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.7/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.7/Next-Edit.png",
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.8/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.8/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.7/Info.plist#d425281df01d93e05cb130715efd2c17a5419b21c481b730dd0cc1eb8455ee1f",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.8/Info.plist#d5be5a6aa7573c41ea670e6cde498571b87bc5649853700885efee928b1323d3",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -333,16 +333,16 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.7/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.8/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.1.7/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Next-Edit/App/releases/download/0.1.8/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "9ac60279f922765b69e4a164efd6cc6ef6442becbb4d14775a4c5ada0fb42394",
-      "size" : 7372939,
+      "sha256" : "3f1f773c3aa962f156d4caa6d43569bf3010d2da7de8618e836088c75c71cd1c",
+      "size" : 7372462,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.1.7",
-      "versionDate" : "2021-11-20T22:38:01Z",
+      "version" : "0.1.8",
+      "versionDate" : "2021-11-21T01:14:44Z",
       "versionDescription" : "Release ${GITHUB_REF#refs/tags/}",
       "watcherCount" : 0
     },

@@ -133,14 +133,14 @@
       "categories" : [
         "public.app-category.medical"
       ],
-      "coreSize" : 10704632,
+      "coreSize" : 10636272,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.11/Neural-Scry-macOS.zip",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.11/Neural-Scry.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/Neural-Scry-macOS.zip",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.11/Info.plist#fbafa2590d4c7f7108a29d4a50865b508eb9ec3d0cf4b8a6673846b5a1fe650a",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/Info.plist#bf556192199303fd23d470cf32bd3bb70f38a641817d68e03acf930e751bd501",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -172,17 +172,17 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.11/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.11/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.12/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "b8cd665fbba59bf92c26961df0ddb6904967bd942484c3c5af203a5208baaf50",
-      "size" : 3090674,
+      "sha256" : "10759b8dd832e07eeb7cd60ef5e1295ec046e23b7594027603b182a33c314fc6",
+      "size" : 2845350,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
-      "version" : "0.0.11",
-      "versionDate" : "2021-11-20T18:05:51Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Neural-Scry/App/compare/0.0.10...0.0.11",
+      "version" : "0.0.12",
+      "versionDate" : "2021-11-21T22:23:14Z",
+      "versionDescription" : "Release 0.0.12",
       "watcherCount" : 0
     },
     {
@@ -285,43 +285,6 @@
       "version" : "0.8.353",
       "versionDate" : "2021-11-21T06:05:52Z",
       "versionDescription" : "Release 0.8.353",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "coreSize" : 22643592,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Tune-Out.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/Info.plist#a83b3ab987bd430d7d9f63395b1cccdc5c7bf733e26b109851a6c819fc5428e5",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.349/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.349/screenshot-mac-01-2212x1462.png#d93f88d3b89cebf5923123cc5d6642e7dfe817f7f7cc28703fc9f35ecc736311",
-        "https://github.com/Tune-Out/App/releases/download/0.8.349/screenshot-mac-02-2534x1112.png#202aedb69aa51c922fcb7d10a1bc90b0039b87952a23f30ab38a5994e2c2fd47",
-        "https://github.com/Tune-Out/App/releases/download/0.8.349/screenshot-mac-03-2180x1464.png#578b97c303049f6b2d2930345b224a74e515d6f3831846e6d1a86eb8b5e71989"
-      ],
-      "sha256" : "9c96f0b4e1fe860f1328d42270c7e6bd93d139baaadfeaaa94aa4e41d4e7d053",
-      "size" : 8663115,
-      "starCount" : 0,
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "FF9502",
-      "version" : "0.8.349",
-      "versionDate" : "2021-11-20T17:07:21Z",
-      "versionDescription" : "",
       "watcherCount" : 0
     }
   ],

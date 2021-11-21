@@ -59,14 +59,14 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10586400,
+      "coreSize" : 10586592,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.4/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.4/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.5/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.5/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.4/Info.plist#4dba0eec376ab7f79513ecb5b49643884a6db34fafa697662eb69a87d3e32cb7",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.5/Info.plist#d6cfc91c2b94941ce5cf264777db4371026031b76f53e212b7eeb78d2c9be3ac",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -78,18 +78,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.4/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.5/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/1.1.4/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+        "https://github.com/Bon-Mot/App/releases/download/1.1.5/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
       ],
-      "sha256" : "8d47c93a355f420334885e46b2ad7e8cd5e0a615538681137fda9a8d04837095",
-      "size" : 3062943,
+      "sha256" : "8ee6350ed41ef6c4abb4311fd4e966a436cfbe37f53bb96d6272abf33f7b84c4",
+      "size" : 3003798,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "1.1.4",
-      "versionDate" : "2021-11-21T04:12:47Z",
-      "versionDescription" : "Release 1.1.4",
+      "version" : "1.1.5",
+      "versionDate" : "2021-11-21T05:57:26Z",
+      "versionDescription" : "Release 1.1.5",
       "watcherCount" : 0
     },
     {
@@ -98,7 +98,7 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10586400,
+      "coreSize" : 10586592,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Bon-Mot-macOS.zip",
@@ -267,7 +267,7 @@
       ],
       "coreSize" : 10672792,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.10/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.10/Next-Edit.png",
       "issueCount" : 0,

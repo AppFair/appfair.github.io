@@ -103,7 +103,7 @@
       ],
       "coreSize" : 10774056,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.152/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.152/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -138,12 +138,12 @@
       ],
       "coreSize" : 10636272,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/Neural-Scry-iOS.ipa",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/Neural-Scry.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.13/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.13/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/Info.plist#bf556192199303fd23d470cf32bd3bb70f38a641817d68e03acf930e751bd501",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.13/Info.plist#839ae112940eef7d78c6c58b97462379ea80e33a43bfeb3d26a1f19da3463d22",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -175,18 +175,18 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.13/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.12/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Neural-Scry/App/releases/download/0.0.12/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.13/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Neural-Scry/App/releases/download/0.0.13/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "7453f44c9c47b3fcb65507db17365266ade06a7171e9511fe38f94c4a405ea3b",
-      "size" : 5852473,
+      "sha256" : "08becb7f934648a988d93a6499708335b6541e705a48925c02bc9ee688e8d01d",
+      "size" : 5679541,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
-      "version" : "0.0.12",
-      "versionDate" : "2021-11-21T22:23:14Z",
-      "versionDescription" : "Release 0.0.12",
+      "version" : "0.0.13",
+      "versionDate" : "2021-11-21T22:43:15Z",
+      "versionDescription" : "Release 0.0.13",
       "watcherCount" : 0
     },
     {

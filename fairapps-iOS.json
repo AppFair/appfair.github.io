@@ -8,12 +8,12 @@
       ],
       "coreSize" : 13626616,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.218/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.218/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/Info.plist#0da395c246dab2c47196900b319865e1cefe25a831b3f6f23089c087f5f6a637",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.218/Info.plist#4b8bfa48c45de14b22a13f3aeddb2c9e378f95379c85eb3f02b10f30f07400fc",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,23 +37,23 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.218/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.217/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.6.217/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
-        "https://github.com/App-Fair/App/releases/download/0.6.217/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
-        "https://github.com/App-Fair/App/releases/download/0.6.217/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
-        "https://github.com/App-Fair/App/releases/download/0.6.217/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
-        "https://github.com/App-Fair/App/releases/download/0.6.217/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
+        "https://github.com/App-Fair/App/releases/download/0.6.218/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
+        "https://github.com/App-Fair/App/releases/download/0.6.218/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
+        "https://github.com/App-Fair/App/releases/download/0.6.218/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
+        "https://github.com/App-Fair/App/releases/download/0.6.218/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
+        "https://github.com/App-Fair/App/releases/download/0.6.218/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
+        "https://github.com/App-Fair/App/releases/download/0.6.218/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
       ],
-      "sha256" : "cabad54e16922aecbbe592cdca4426de5946c590d5eedf048686065d64b73883",
-      "size" : 7246139,
+      "sha256" : "c4f397466becb61cdeeb58cd82d89f64a394f0011de0cecd2f5d880d056d7666",
+      "size" : 7245644,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.217",
-      "versionDate" : "2021-11-21T05:42:22Z",
-      "versionDescription" : "Release 0.6.217",
+      "version" : "0.6.218",
+      "versionDate" : "2021-11-21T06:05:46Z",
+      "versionDescription" : "Release 0.6.218",
       "watcherCount" : 0
     },
     {
@@ -257,41 +257,6 @@
       "version" : "0.1.10",
       "versionDate" : "2021-11-21T05:49:52Z",
       "versionDescription" : "Release 0.1.10",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Next-Edit",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "coreSize" : 10672792,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Info.plist#64ad267a36818c4020fab5d6e5f05a9369199b491b6f8cc8fdb109754577ea1d",
-      "name" : "Next Edit",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to read and write files in order to edit text."
-        }
-      ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
-      "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.1.6/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Next-Edit/App/releases/download/0.1.6/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
-      ],
-      "sha256" : "2924e447a96739a996bb60a1073ad5358c7171295862f6de4d04b7e6c84ea121",
-      "size" : 5972654,
-      "starCount" : 0,
-      "subtitle" : "Syntactic Text Editor",
-      "version" : "0.1.6",
-      "versionDate" : "2021-11-20T17:07:34Z",
-      "versionDescription" : "",
       "watcherCount" : 0
     },
     {

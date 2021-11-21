@@ -57,14 +57,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.entertainment"
       ],
       "coreSize" : 10670016,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/Bon-Mot.png",
       "issueCount" : 0,
@@ -96,14 +96,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
       ],
       "coreSize" : 10774056,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.153/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.153/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -132,6 +132,65 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Neural-Scry",
+      "categories" : [
+        "public.app-category.medical"
+      ],
+      "coreSize" : 10636272,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.14/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.14/Neural-Scry.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Look into the minds of others",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.14/Info.plist#13b7e85bc4b3a726833852e5f3f17585b29c1a0dd5393393a9038b15573a1170",
+      "name" : "Neural Scry",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.camera",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "cs.debugger",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "temporary-exception.mach-lookup.global-name",
+          "usageDescription" : "This enabled this permission for testing"
+        }
+      ],
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.14/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "screenshotURLs" : [
+        "https://github.com/Neural-Scry/App/releases/download/0.0.14/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Neural-Scry/App/releases/download/0.0.14/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "0b4ea295179fbd09079d353294d5b1f4586bc8cf4184b82cc56c067e1b3439bd",
+      "size" : 5679558,
+      "starCount" : 0,
+      "subtitle" : "Look into the minds of others",
+      "version" : "0.0.14",
+      "versionDate" : "2021-11-21T23:02:21Z",
+      "versionDescription" : "Release 0.0.14",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Neural-Scry",
       "categories" : [
         "public.app-category.medical"
@@ -190,7 +249,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
@@ -225,7 +284,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Numeral-MXMMXVI",
       "categories" : [
         "public.app-category.business"
@@ -257,7 +316,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Numeral-XVIXVX",
       "categories" : [
         "public.app-category.lifestyle"
@@ -289,7 +348,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

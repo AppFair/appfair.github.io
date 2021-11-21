@@ -8,7 +8,7 @@
       ],
       "coreSize" : 13626616,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.216/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.216/App-Fair.png",
       "issueCount" : 0,
@@ -54,59 +54,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 13626616,
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.212/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.212/App-Fair.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.212/Info.plist#554d29981941d47efde34ae18d740f0f7ca6a40e1b6d3cb2bcf4b9d920afeb4b",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "type" : "temporary-exception.files.absolute-path.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.212/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.212/screenshot-mac-01-2504x1700.png#ff7903d0fbe886185ed391e059e73e9e21b200e2fba1ede4fbf88f43aaa96eb2",
-        "https://github.com/App-Fair/App/releases/download/0.6.212/screenshot-mac-02-2504x1700.png#e17f7abad6052f1f382a0390c2fd1a834796e5ab0a4012068216bf28bf955790",
-        "https://github.com/App-Fair/App/releases/download/0.6.212/screenshot-mac-03-2504x1700.png#8a1166ce2f226ff6103d5e4b3d2b4349ae4a9be055dd29e01d51c702987a0a6d"
-      ],
-      "sha256" : "9f7eef45a74608e30fd6db76ccbaa90d3918dac0cf921ce392c84a4f71050af6",
-      "size" : 3532825,
-      "starCount" : 0,
-      "subtitle" : "The App Fair Catalog Browser",
-      "tintColor" : "1594E8",
-      "version" : "0.6.212",
-      "versionDate" : "2021-11-20T20:43:54Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
@@ -114,7 +61,7 @@
       ],
       "coreSize" : 10586400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.4/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.4/Bon-Mot.png",
       "issueCount" : 0,
@@ -190,33 +137,33 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 10690656,
+      "coreSize" : 10707088,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/Info.plist#204e2b7f2bbb2d458d0e84973ff184df65e30d054c52822365601714b0e26cf4",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/Info.plist#4f78ed9af72b0b15245fe50dec0b55c16d112c97260ee4c8f489437ee6510940",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/README.md#7a39d07a25b97f3996e90e606b3150dee35cae1b482f9918403c87c6b9c7db46",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/README.md#7a39d07a25b97f3996e90e606b3150dee35cae1b482f9918403c87c6b9c7db46",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/screenshot-mac-01-1634x1040.png#a592d5ef499067dc2e3e02f021476bcd698f9c947cf3afc900b67152be6982b8",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/screenshot-mac-02-1656x1560.png#0be3e47d041d550050a73971630bb355d83936e1f3b0378fbc936fd9c7ab1e7f",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/screenshot-mac-03-1714x522.png#2d94f1ff781fbf1f13cdf4444a764c276154eb84402486f028116e8fa1e842df",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/screenshot-mac-04-370x1816.png#3a409bd9c1f25e1f6dd71566b5a35be4a2d853e0f8561413987474b9687d42a5"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/screenshot-mac-01-1634x1040.png#a592d5ef499067dc2e3e02f021476bcd698f9c947cf3afc900b67152be6982b8",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/screenshot-mac-02-1656x1560.png#0be3e47d041d550050a73971630bb355d83936e1f3b0378fbc936fd9c7ab1e7f",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/screenshot-mac-04-370x1816.png#3a409bd9c1f25e1f6dd71566b5a35be4a2d853e0f8561413987474b9687d42a5",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/screenshot-mac-03-1714x522.png#2d94f1ff781fbf1f13cdf4444a764c276154eb84402486f028116e8fa1e842df"
       ],
-      "sha256" : "a7e63165a04f0bcabc67a2e01a2e4574cd9f8b8041775ed8e3c9040631fe7d59",
-      "size" : 3061155,
+      "sha256" : "7ddac1a1efedca41a1dcdfbf6821f3a104f4502196739fe5dccc7b55cd997881",
+      "size" : 3004992,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.148",
-      "versionDate" : "2021-11-21T04:13:02Z",
-      "versionDescription" : "Release 0.8.148",
+      "version" : "0.8.149",
+      "versionDate" : "2021-11-21T05:42:35Z",
+      "versionDescription" : "Release 0.8.149",
       "watcherCount" : 0
     },
     {
@@ -225,7 +172,7 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 10690656,
+      "coreSize" : 10707088,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.145/Cloud-Cuckoo-macOS.zip",

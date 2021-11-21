@@ -8,12 +8,12 @@
       ],
       "coreSize" : 13626616,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.216/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.216/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.216/Info.plist#4840fd2cc7f4cb0a70881b857d4033c4423df3035933018643f9facb908c8278",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/Info.plist#0da395c246dab2c47196900b319865e1cefe25a831b3f6f23089c087f5f6a637",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,20 +37,20 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.216/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.216/screenshot-mac-01-2504x1700.png#ff7903d0fbe886185ed391e059e73e9e21b200e2fba1ede4fbf88f43aaa96eb2",
-        "https://github.com/App-Fair/App/releases/download/0.6.216/screenshot-mac-02-2504x1700.png#e17f7abad6052f1f382a0390c2fd1a834796e5ab0a4012068216bf28bf955790",
-        "https://github.com/App-Fair/App/releases/download/0.6.216/screenshot-mac-03-2504x1700.png#8a1166ce2f226ff6103d5e4b3d2b4349ae4a9be055dd29e01d51c702987a0a6d"
+        "https://github.com/App-Fair/App/releases/download/0.6.217/screenshot-mac-01-2504x1700.png#ff7903d0fbe886185ed391e059e73e9e21b200e2fba1ede4fbf88f43aaa96eb2",
+        "https://github.com/App-Fair/App/releases/download/0.6.217/screenshot-mac-02-2504x1700.png#e17f7abad6052f1f382a0390c2fd1a834796e5ab0a4012068216bf28bf955790",
+        "https://github.com/App-Fair/App/releases/download/0.6.217/screenshot-mac-03-2504x1700.png#8a1166ce2f226ff6103d5e4b3d2b4349ae4a9be055dd29e01d51c702987a0a6d"
       ],
-      "sha256" : "e82cb8286f97ecc1563a0aef19ab4ca859be70ffdead4ed7438fcf6aed9e76d0",
-      "size" : 3396727,
+      "sha256" : "aeea3d588b3adcdec7900270d0f34fe5f10a80c3474f4b5c89f52312d56b732a",
+      "size" : 3481337,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.216",
-      "versionDate" : "2021-11-21T05:28:45Z",
-      "versionDescription" : "Release 0.6.216",
+      "version" : "0.6.217",
+      "versionDate" : "2021-11-21T05:42:22Z",
+      "versionDescription" : "Release 0.6.217",
       "watcherCount" : 0
     },
     {
@@ -139,7 +139,7 @@
       ],
       "coreSize" : 10707088,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/Cloud-Cuckoo.png",
       "issueCount" : 0,

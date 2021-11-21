@@ -8,7 +8,7 @@
       ],
       "coreSize" : 13626616,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.217/App-Fair.png",
       "issueCount" : 0,
@@ -142,7 +142,7 @@
       ],
       "coreSize" : 10707088,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -269,14 +269,14 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10656208,
+      "coreSize" : 10672792,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.9/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.9/Next-Edit.png",
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.10/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.10/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.9/Info.plist#6299e33952c26b42a49e71ed1fd62e44fa0dc83adb68608bfb25026bf51768f3",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.10/Info.plist#a69a40940f420991793b48e8cde0b8141b156e902a5951682fd79e15dfc8f075",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -284,18 +284,18 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.9/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.10/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.1.9/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Next-Edit/App/releases/download/0.1.9/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Next-Edit/App/releases/download/0.1.10/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Next-Edit/App/releases/download/0.1.10/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "606b05acd8ad864e5f00c7ea9d4696fc9ab6173217264830c9f2ee6881d5ddec",
-      "size" : 5918745,
+      "sha256" : "a23ae36dea626cd9a78190901e2f5541bc8eb46e91f250bfaeb4ee184515e10b",
+      "size" : 5921320,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.1.9",
-      "versionDate" : "2021-11-21T03:11:00Z",
-      "versionDescription" : "Release 0.1.9",
+      "version" : "0.1.10",
+      "versionDate" : "2021-11-21T05:49:52Z",
+      "versionDescription" : "Release 0.1.10",
       "watcherCount" : 0
     },
     {
@@ -304,7 +304,7 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10656208,
+      "coreSize" : 10672792,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.6/Next-Edit-iOS.ipa",
@@ -405,7 +405,7 @@
       ],
       "coreSize" : 22643592,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.352/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.352/Tune-Out.png",
       "issueCount" : 0,

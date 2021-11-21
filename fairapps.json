@@ -61,7 +61,7 @@
       ],
       "coreSize" : 10586592,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.5/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.5/Bon-Mot.png",
       "issueCount" : 0,
@@ -93,45 +93,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-        "public.app-category.entertainment"
-      ],
-      "coreSize" : 10586592,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Bon-Mot.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/Info.plist#5490a633c30cbe7e5f297e8dc23b5e5deaf7992e769c806aa28225c080aa85a9",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.1.9/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.1.9/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
-      ],
-      "sha256" : "eb8e54e0e0271c56c4cf91aa7be7ac15a93ac44c2b4c4ffea3cb84a2b5e73b8f",
-      "size" : 3079739,
-      "starCount" : 0,
-      "subtitle" : "Book reader",
-      "tintColor" : "A2845E",
-      "version" : "0.1.9",
-      "versionDate" : "2021-11-20T17:07:30Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
@@ -139,7 +100,7 @@
       ],
       "coreSize" : 10707088,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
+      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.149/Cloud-Cuckoo.png",
       "issueCount" : 0,

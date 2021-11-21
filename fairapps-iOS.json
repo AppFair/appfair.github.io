@@ -327,12 +327,12 @@
       ],
       "coreSize" : 10656208,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.8/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.8/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.9/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.9/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.8/Info.plist#d5be5a6aa7573c41ea670e6cde498571b87bc5649853700885efee928b1323d3",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.9/Info.plist#6299e33952c26b42a49e71ed1fd62e44fa0dc83adb68608bfb25026bf51768f3",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -340,18 +340,18 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.8/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.9/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.1.8/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Next-Edit/App/releases/download/0.1.8/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Next-Edit/App/releases/download/0.1.9/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Next-Edit/App/releases/download/0.1.9/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "3750e2e81625f9dd1a245b63a9649f4a467b86a911766f7f14864c8e0dc180f4",
-      "size" : 5918485,
+      "sha256" : "606b05acd8ad864e5f00c7ea9d4696fc9ab6173217264830c9f2ee6881d5ddec",
+      "size" : 5918745,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.1.8",
-      "versionDate" : "2021-11-21T01:14:44Z",
-      "versionDescription" : "Release ${GITHUB_REF#refs/tags/}",
+      "version" : "0.1.9",
+      "versionDate" : "2021-11-21T03:11:00Z",
+      "versionDescription" : "Release 0.1.9",
       "watcherCount" : 0
     },
     {

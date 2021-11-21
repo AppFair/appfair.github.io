@@ -64,7 +64,7 @@
       ],
       "coreSize" : 10670016,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.12/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.12/Bon-Mot.png",
       "issueCount" : 0,
@@ -138,7 +138,7 @@
       ],
       "coreSize" : 10636272,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/Neural-Scry-iOS.ipa",
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.12/Neural-Scry.png",
       "issueCount" : 0,
@@ -230,30 +230,62 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 10705168,
+      "coreSize" : 10669224,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/Numeral-MXMMXVI-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/Numeral-MXMMXVI.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Numeral-MXMMXVI-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Numeral-MXMMXVI.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/Info.plist#e4d5f1f78092198f0a76f9f0e0e6c676f64bc48e2a565215bea9e27f70efafaf",
+      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Info.plist#3fa0f1a9c52be30322a290ed3a3a57ea1f013da9ea204e71f883c551450407f5",
       "name" : "Numeral MXMMXVI",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
       "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.6/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
       ],
-      "sha256" : "6acfe713b027bd7de06b0e0a9e4b25f9129daddf8176429348ebf1a2c8f0f6a7",
-      "size" : 5424005,
+      "sha256" : "99477857b47b9dca9cc13142a4f700eb8cec283dd307735c43afaad4801aca49",
+      "size" : 5820079,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.6",
-      "versionDate" : "2021-11-20T12:14:26Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Numeral-MXMMXVI/App/compare/0.0.5...0.0.6",
+      "version" : "0.0.7",
+      "versionDate" : "2021-11-21T22:23:18Z",
+      "versionDescription" : "Release 0.0.7",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Numeral-XVIXVX",
+      "categories" : [
+        "public.app-category.lifestyle"
+      ],
+      "coreSize" : 10636360,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple yet useful app",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Info.plist#88413292037cc16b3bfbc07e161e2d37aa65ecde39e46e4e567b6eabe50cbbcd",
+      "name" : "Numeral XVIXVX",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
+      ],
+      "sha256" : "32db64d61b05dff578d4f8c6fad074a1617a896516078a9834ef0c35f0b74e25",
+      "size" : 5578216,
+      "starCount" : 0,
+      "subtitle" : "A simple yet useful app",
+      "version" : "0.2.2",
+      "versionDate" : "2021-11-21T22:23:21Z",
+      "versionDescription" : "Release 0.2.2",
       "watcherCount" : 0
     },
     {

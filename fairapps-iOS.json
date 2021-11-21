@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13626576,
+      "coreSize" : 13626616,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.213/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.213/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.214/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.214/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.213/Info.plist#9fd5b77879e410d8f0f44c40c8697e0762777810d5e57f6abf333bd89ec2dff0",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.214/Info.plist#077abeb533eb49c5b21b313bb5fd9cbe14edb7fef8457c2786d0538085f835c2",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,23 +37,23 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.213/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.214/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.213/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.6.213/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
-        "https://github.com/App-Fair/App/releases/download/0.6.213/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
-        "https://github.com/App-Fair/App/releases/download/0.6.213/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
-        "https://github.com/App-Fair/App/releases/download/0.6.213/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
-        "https://github.com/App-Fair/App/releases/download/0.6.213/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
+        "https://github.com/App-Fair/App/releases/download/0.6.214/screenshot-iphone-02-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
+        "https://github.com/App-Fair/App/releases/download/0.6.214/screenshot-iphone-03-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
+        "https://github.com/App-Fair/App/releases/download/0.6.214/screenshot-iphone-01-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
+        "https://github.com/App-Fair/App/releases/download/0.6.214/screenshot-iphone-04-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
+        "https://github.com/App-Fair/App/releases/download/0.6.214/screenshot-iphone-05-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
+        "https://github.com/App-Fair/App/releases/download/0.6.214/screenshot-iphone-06-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
       ],
-      "sha256" : "8b95ad8088cd27c59e8341eb1c8a39da37c756430f96dda82ecb735865c2c241",
-      "size" : 7242534,
+      "sha256" : "c6f6c3531b31cda854ebd5f13e7d73e6d2a8be89579c5608338e3f3dbe48fdc9",
+      "size" : 7225565,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.213",
-      "versionDate" : "2021-11-20T22:38:57Z",
-      "versionDescription" : "Release ${GITHUB_REF#refs/tags/}",
+      "version" : "0.6.214",
+      "versionDate" : "2021-11-21T04:58:03Z",
+      "versionDescription" : "Release 0.6.214",
       "watcherCount" : 0
     },
     {
@@ -62,7 +62,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13626576,
+      "coreSize" : 13626616,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.212/App-Fair-iOS.ipa",
@@ -120,7 +120,7 @@
       ],
       "coreSize" : 10586400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.4/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.4/Bon-Mot.png",
       "issueCount" : 0,
@@ -198,7 +198,7 @@
       ],
       "coreSize" : 10690656,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.148/Cloud-Cuckoo.png",
       "issueCount" : 0,

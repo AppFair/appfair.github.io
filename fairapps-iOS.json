@@ -64,12 +64,12 @@
       ],
       "coreSize" : 12390864,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.15/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.15/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Book reader",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Info.plist#c92079dc249e0044a4db037efb66794b5d3f4afd40830a2867e9430f2a05e634",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.15/Info.plist#072f2b534ba8e47aee180ee12f889e2608db96282f4ef68fadbcb1a0c8917fa8",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,18 +81,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.15/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "675641fdb921146fccc3a6cc24a130b2cf35c1214c0542041aa08f8d4ad6717e",
-      "size" : 6381689,
+      "sha256" : "ce50d769c7b375aa658dad9084987f52810c5f8df5f191dabb8ca604e404c06b",
+      "size" : 6030664,
       "starCount" : 0,
       "subtitle" : "Book reader",
       "tintColor" : "A2845E",
-      "version" : "1.1.14",
-      "versionDate" : "2021-11-22T02:19:38Z",
-      "versionDescription" : "Release 1.1.14",
+      "version" : "1.1.15",
+      "versionDate" : "2021-11-22T23:19:36Z",
+      "versionDescription" : "Release 1.1.15",
       "watcherCount" : 0
     },
     {

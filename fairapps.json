@@ -9,11 +9,11 @@
       "coreSize" : 15447160,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.231/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.231/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.232/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.232/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.231/Info.plist#7cce486764b45bf214c02a2490fa0af4b63689e8c6da840a1ffe1a86d1fa22f0",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.232/Info.plist#feeb7537b9b5d59a3354d47ef655dc1bc97f5459488d8a832995c18908570f0d",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,18 +37,18 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.231/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.232/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "bcfc0b5ea47155e4496779e4112f946b7025df4b7db961a22f984fa523e6b35c",
-      "size" : 3505811,
+      "sha256" : "ffbe3c195ac0cb8eac9d6cbaa5291ab7b7330e293bb757558c354f318e04f468",
+      "size" : 3505822,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.231",
-      "versionDate" : "2021-11-22T04:57:07Z",
-      "versionDescription" : "Release 0.6.231",
+      "version" : "0.6.232",
+      "versionDate" : "2021-11-22T05:14:40Z",
+      "versionDescription" : "Release 0.6.232",
       "watcherCount" : 0
     },
     {

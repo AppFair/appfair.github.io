@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 15447296,
+      "coreSize" : 15447160,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.231/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.231/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/Info.plist#7c4aa2ba7cc1cfa993ebdddc30d711ca44b8c344a7e2657e332a1246191dc6d4",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.231/Info.plist#7cce486764b45bf214c02a2490fa0af4b63689e8c6da840a1ffe1a86d1fa22f0",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,18 +37,18 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.231/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "718ed8802845ff36a0617a82504c3ea8939028f8ba0e296b5fc83c877e65db1c",
-      "size" : 3508119,
+      "sha256" : "bcfc0b5ea47155e4496779e4112f946b7025df4b7db961a22f984fa523e6b35c",
+      "size" : 3505811,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.229",
-      "versionDate" : "2021-11-22T02:19:25Z",
-      "versionDescription" : "Release 0.6.229",
+      "version" : "0.6.231",
+      "versionDate" : "2021-11-22T04:57:07Z",
+      "versionDescription" : "Release 0.6.231",
       "watcherCount" : 0
     },
     {

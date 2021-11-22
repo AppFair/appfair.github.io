@@ -1,12 +1,102 @@
 {
   "apps" : [
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 15447296,
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/App-Fair.png",
+      "issueCount" : 0,
+      "localizedDescription" : "The App Fair Catalog Browser",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/Info.plist#7c4aa2ba7cc1cfa993ebdddc30d711ca44b8c344a7e2657e332a1246191dc6d4",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "type" : "files.user-selected.executable",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "type" : "temporary-exception.files.absolute-path.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "718ed8802845ff36a0617a82504c3ea8939028f8ba0e296b5fc83c877e65db1c",
+      "size" : 3508119,
+      "starCount" : 0,
+      "subtitle" : "The App Fair Catalog Browser",
+      "tintColor" : "1594E8",
+      "version" : "0.6.229",
+      "versionDate" : "2021-11-22T02:19:25Z",
+      "versionDescription" : "Release 0.6.229",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 12390864,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Book reader",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Info.plist#c92079dc249e0044a4db037efb66794b5d3f4afd40830a2867e9430f2a05e634",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "screenshotURLs" : [
+        "https://github.com/Bon-Mot/App/releases/download/1.1.14/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+      ],
+      "sha256" : "0390289cda4f6147dac6d84bef4bb034b3390c8672a5bc4a6a13964b8169aace",
+      "size" : 2999437,
+      "starCount" : 0,
+      "subtitle" : "Book reader",
+      "tintColor" : "A2845E",
+      "version" : "1.1.14",
+      "versionDate" : "2021-11-22T02:19:38Z",
+      "versionDescription" : "Release 1.1.14",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 10670016,
+      "coreSize" : 12390864,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/Bon-Mot-macOS.zip",
@@ -226,12 +316,46 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 12477120,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Info.plist#11286fc1000191001d50e7450a4078d31a03d7336d49407db9c0c8e7d3890917",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "screenshotURLs" : [
+        "https://github.com/Next-Edit/App/releases/download/0.1.14/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "bf1830926222fdd316d9753f0ab7f084ba69a185a2f65aa060a23f66f46b32b2",
+      "size" : 7281436,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.1.14",
+      "versionDate" : "2021-11-22T02:19:41Z",
+      "versionDescription" : "Release 0.1.14",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 10756208,
+      "coreSize" : 12477120,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.13/Next-Edit-macOS.zip",

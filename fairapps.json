@@ -8,7 +8,7 @@
       ],
       "coreSize" : 15447296,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/App-Fair.png",
       "issueCount" : 0,
@@ -59,7 +59,7 @@
       ],
       "coreSize" : 12390864,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Bon-Mot.png",
       "issueCount" : 0,
@@ -137,7 +137,7 @@
       ],
       "coreSize" : 12494984,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -207,7 +207,7 @@
       ],
       "coreSize" : 12373504,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.17/Neural-Scry-macOS.zip",
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.17/Neural-Scry.png",
       "issueCount" : 0,
@@ -323,7 +323,7 @@
       ],
       "coreSize" : 12477120,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Next-Edit.png",
       "issueCount" : 0,
@@ -415,12 +415,43 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Numeral-XVIXVX",
+      "categories" : [
+        "public.app-category.lifestyle"
+      ],
+      "coreSize" : 12373592,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Numeral-XVIXVX-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Numeral-XVIXVX.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple yet useful app",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Info.plist#95cae6ac73d30f709d3c14bb43d0e5a3d2d399ff8ddc6208f0063af235a46d11",
+      "name" : "Numeral XVIXVX",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "c85b7f77519a051297c534f27a3fa75593a8f58673c759dda168069d24efc066",
+      "size" : 2884515,
+      "starCount" : 0,
+      "subtitle" : "A simple yet useful app",
+      "version" : "0.2.4",
+      "versionDate" : "2021-11-22T02:48:57Z",
+      "versionDescription" : "Release 0.2.4",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Numeral-XVIXVX",
       "categories" : [
         "public.app-category.lifestyle"
       ],
-      "coreSize" : 10636360,
+      "coreSize" : 12373592,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX-macOS.zip",

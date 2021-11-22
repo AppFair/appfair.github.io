@@ -8,7 +8,7 @@
       ],
       "coreSize" : 15447296,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.229/App-Fair.png",
       "issueCount" : 0,
@@ -64,7 +64,7 @@
       ],
       "coreSize" : 12390864,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.14/Bon-Mot.png",
       "issueCount" : 0,
@@ -142,7 +142,7 @@
       ],
       "coreSize" : 12494984,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -212,7 +212,7 @@
       ],
       "coreSize" : 12373504,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.17/Neural-Scry-iOS.ipa",
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.17/Neural-Scry.png",
       "issueCount" : 0,
@@ -330,7 +330,7 @@
       ],
       "coreSize" : 12477120,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Next-Edit-iOS.ipa",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Next-Edit.png",
       "issueCount" : 0,
@@ -425,12 +425,44 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Numeral-XVIXVX",
+      "categories" : [
+        "public.app-category.lifestyle"
+      ],
+      "coreSize" : 12373592,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Numeral-XVIXVX-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Numeral-XVIXVX.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple yet useful app",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Info.plist#95cae6ac73d30f709d3c14bb43d0e5a3d2d399ff8ddc6208f0063af235a46d11",
+      "name" : "Numeral XVIXVX",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
+      ],
+      "sha256" : "ed1f394dcf413ab6ff3c98717bdfdf98e73d71be39dddc68da84e597455c207d",
+      "size" : 6180641,
+      "starCount" : 0,
+      "subtitle" : "A simple yet useful app",
+      "version" : "0.2.4",
+      "versionDate" : "2021-11-22T02:48:57Z",
+      "versionDescription" : "Release 0.2.4",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Numeral-XVIXVX",
       "categories" : [
         "public.app-category.lifestyle"
       ],
-      "coreSize" : 10636360,
+      "coreSize" : 12373592,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX-iOS.ipa",

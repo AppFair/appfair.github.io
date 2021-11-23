@@ -140,33 +140,33 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 12494984,
+      "coreSize" : 12691768,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.155/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.155/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/Info.plist#d81dbc8dfd525a85f992602076ace6c423dbec2a9bc3161ec45c623029ea675e",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.155/Info.plist#f2700d2b82648e068e07f817a49ff6e0089919ed0bc52a6f23d912e8565e93db",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/README.md#7a39d07a25b97f3996e90e606b3150dee35cae1b482f9918403c87c6b9c7db46",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.155/README.md#7a39d07a25b97f3996e90e606b3150dee35cae1b482f9918403c87c6b9c7db46",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/screenshot-iphone-01-1170x2532.png#d1f2a5227a3cfac4358a9617a6de8d2e33e48a032f3b00b9021b13eab6ba063e",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/screenshot-iphone-02-1170x2532.png#fdd9399dfad5bdc6f2ae0958eeb95234fd5627455ab38c4916254a1fcae81d75",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/screenshot-iphone-03-1170x2532.png#c8e6bc37b92d71ff05f21a078a7782319b05f7afa074dc0a8f7b9022a7b4887e",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.154/screenshot-iphone-04-1170x2532.png#b7dd5f497d3379825cfa3460c93f157b3b3bd69eaa468f5b24986484720a7c5c"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.155/screenshot-iphone-01-1170x2532.png#d1f2a5227a3cfac4358a9617a6de8d2e33e48a032f3b00b9021b13eab6ba063e",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.155/screenshot-iphone-02-1170x2532.png#fdd9399dfad5bdc6f2ae0958eeb95234fd5627455ab38c4916254a1fcae81d75",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.155/screenshot-iphone-03-1170x2532.png#c8e6bc37b92d71ff05f21a078a7782319b05f7afa074dc0a8f7b9022a7b4887e",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.155/screenshot-iphone-04-1170x2532.png#b7dd5f497d3379825cfa3460c93f157b3b3bd69eaa468f5b24986484720a7c5c"
       ],
-      "sha256" : "f732ba797bcfd1117fadf083c021882f5bce80ffdfc90f2c5fe347f9b1d4c4d1",
-      "size" : 6439875,
+      "sha256" : "af924aa2c7e7bedb58775aa3b6dbc3129f3ba45aebf6f48a4843449cf70f5d74",
+      "size" : 6518333,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.154",
-      "versionDate" : "2021-11-22T02:19:34Z",
-      "versionDescription" : "Release 0.8.154",
+      "version" : "0.8.155",
+      "versionDate" : "2021-11-23T01:32:30Z",
+      "versionDescription" : "Release 0.8.155",
       "watcherCount" : 0
     },
     {
@@ -175,7 +175,7 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 12494984,
+      "coreSize" : 12691768,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.153/Cloud-Cuckoo-iOS.ipa",
@@ -339,30 +339,30 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 12373688,
+      "coreSize" : 12554160,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.9/Numeral-MXMMXVI-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.9/Numeral-MXMMXVI.png",
+      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/Numeral-MXMMXVI-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/Numeral-MXMMXVI.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.9/Info.plist#0fe224c35b1944005eb3ab5cf38ae14ad990c1828304761342fd93a5e68ff932",
+      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/Info.plist#068decb3292d7b56344ca4b6900d2c8e7ed479fea9a7bb44d09fa437a108203e",
       "name" : "Numeral MXMMXVI",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.9/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
       "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.9/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.9/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "a6bde83547c3d6b8f98b801ca4aa7db724bf40c7b775a2328c44d822413cf313",
-      "size" : 6321152,
+      "sha256" : "636af7919b2411bd334038dbc109b8ee9fab07c5b4137c07b13dfcaae4e1113f",
+      "size" : 6399302,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.9",
-      "versionDate" : "2021-11-22T02:56:06Z",
-      "versionDescription" : "Release 0.0.9",
+      "version" : "0.0.10",
+      "versionDate" : "2021-11-23T01:32:51Z",
+      "versionDescription" : "Release 0.0.10",
       "watcherCount" : 0
     },
     {
@@ -371,7 +371,7 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 12373688,
+      "coreSize" : 12554160,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Numeral-MXMMXVI-iOS.ipa",

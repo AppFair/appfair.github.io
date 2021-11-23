@@ -213,11 +213,11 @@
       "coreSize" : 12553968,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.20/Neural-Scry-iOS.ipa",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.20/Neural-Scry.png",
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.21/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.21/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.20/Info.plist#45fc7652c583cb4a5f41d00d7c1a78677fcb7724e80443cae9e20e54845d715b",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.21/Info.plist#ecaed5fed1ea0b97567006e293aa6d1f712dff373197131210d10b1b4b4538c3",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -249,18 +249,18 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.20/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.21/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.20/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Neural-Scry/App/releases/download/0.0.20/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.21/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Neural-Scry/App/releases/download/0.0.21/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "34fb372ad8a5f5c3cc40bb0769908ee09e7657f23f99c1359bad24305dfe251b",
-      "size" : 6244122,
+      "sha256" : "99cc2847ba44d8cdeb7456461986c25e9d1a3645fdfe6a9b5188b11af52b5282",
+      "size" : 6378810,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
-      "version" : "0.0.20",
-      "versionDate" : "2021-11-23T11:48:02Z",
-      "versionDescription" : "Release 0.0.20",
+      "version" : "0.0.21",
+      "versionDate" : "2021-11-23T12:04:41Z",
+      "versionDescription" : "Release 0.0.21",
       "watcherCount" : 0
     },
     {

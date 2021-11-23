@@ -64,12 +64,12 @@
       ],
       "coreSize" : 12571336,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.18/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.18/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.19/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.19/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.18/Info.plist#c8e110c73a2195cfa471d34696b994782475d36fbead7cc34b254d45d6ea8d97",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.19/Info.plist#003afe6ece9855fe5eb7233a1156c9e0cb03936330ad900ffebe5145b74029c0",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,57 +81,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.18/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.19/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/1.1.18/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+        "https://github.com/Bon-Mot/App/releases/download/1.1.19/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
       ],
-      "sha256" : "7e4cb841932e49009cf3ac92509c69daec63dc69495aaf7edd0c20860894af1f",
-      "size" : 3023847,
+      "sha256" : "f7547383af08f8c4ec4a553917bd36a78cfdc0f731f2c7db39085eea1902bd35",
+      "size" : 3023651,
       "starCount" : 0,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "1.1.18",
-      "versionDate" : "2021-11-23T15:20:25Z",
-      "versionDescription" : "Release 1.1.18",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 12571336,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/Bon-Mot.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/Info.plist#24ad9b12b51a627793609943d6abbd2fade7888ac5bcc89ddcbc163e072d1154",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.13/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/1.1.13/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
-      ],
-      "sha256" : "1e6078b25eb07add6f5e25bc1589e6b8020dbfded56ea72ff851f83815204ce9",
-      "size" : 2837591,
-      "starCount" : 0,
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "1.1.13",
-      "versionDate" : "2021-11-21T22:45:58Z",
-      "versionDescription" : "Release 1.1.13",
+      "version" : "1.1.19",
+      "versionDate" : "2021-11-23T16:12:33Z",
+      "versionDescription" : "Release 1.1.19",
       "watcherCount" : 0
     },
     {

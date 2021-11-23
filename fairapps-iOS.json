@@ -64,7 +64,7 @@
       ],
       "coreSize" : 12571336,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.16/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.16/Bon-Mot.png",
       "issueCount" : 0,
@@ -210,14 +210,14 @@
       "categories" : [
         "public.app-category.medical"
       ],
-      "coreSize" : 12373504,
+      "coreSize" : 12553968,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.18/Neural-Scry-iOS.ipa",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.18/Neural-Scry.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.18/Info.plist#958ca7422f184a7d11772d81dd3c9878820e876274f2d1f2c000166857ddda4f",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/Info.plist#7a928188c83aa7e105e0fba192a4158e3a3c13e847aec40844ea7ce8b144e5b6",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -249,18 +249,18 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.18/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.18/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Neural-Scry/App/releases/download/0.0.18/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.19/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Neural-Scry/App/releases/download/0.0.19/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "ada5747d954e7109c13027c5a5ea772c16e22192d9f87cfe20062e4ccecb81ca",
-      "size" : 6348485,
+      "sha256" : "a1c0144da5c1dda00dd1cc83b9120e168e67d9c4d41ddd7943a1cd96f69c5413",
+      "size" : 6421726,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
-      "version" : "0.0.18",
-      "versionDate" : "2021-11-22T02:56:16Z",
-      "versionDescription" : "Release 0.0.18",
+      "version" : "0.0.19",
+      "versionDate" : "2021-11-23T01:32:49Z",
+      "versionDescription" : "Release 0.0.19",
       "watcherCount" : 0
     },
     {
@@ -403,30 +403,30 @@
       "categories" : [
         "public.app-category.lifestyle"
       ],
-      "coreSize" : 12373592,
+      "coreSize" : 12554056,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Numeral-XVIXVX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Numeral-XVIXVX.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Numeral-XVIXVX-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Numeral-XVIXVX.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Info.plist#95cae6ac73d30f709d3c14bb43d0e5a3d2d399ff8ddc6208f0063af235a46d11",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Info.plist#ca3f6d59d8aa8ec2fe41491ad887d0a5bc7a42f0871684d7ca2a54d03e6ef567",
       "name" : "Numeral XVIXVX",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
       ],
-      "sha256" : "ed1f394dcf413ab6ff3c98717bdfdf98e73d71be39dddc68da84e597455c207d",
-      "size" : 6180641,
+      "sha256" : "b347fdf8ec8cd95330ef9185302980a80dc3e93632a705b9087df2ac9361d5f7",
+      "size" : 6434252,
       "starCount" : 0,
       "subtitle" : "A simple yet useful app",
-      "version" : "0.2.4",
-      "versionDate" : "2021-11-22T02:48:57Z",
-      "versionDescription" : "Release 0.2.4",
+      "version" : "0.2.5",
+      "versionDate" : "2021-11-23T01:32:53Z",
+      "versionDescription" : "Release 0.2.5",
       "watcherCount" : 0
     },
     {
@@ -435,7 +435,7 @@
       "categories" : [
         "public.app-category.lifestyle"
       ],
-      "coreSize" : 12373592,
+      "coreSize" : 12554056,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX-iOS.ipa",

@@ -64,7 +64,7 @@
       ],
       "coreSize" : 12571336,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.16/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.16/Bon-Mot.png",
       "issueCount" : 0,
@@ -210,14 +210,14 @@
       "categories" : [
         "public.app-category.medical"
       ],
-      "coreSize" : 12373504,
+      "coreSize" : 12553968,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.18/Neural-Scry-macOS.zip",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.18/Neural-Scry.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/Neural-Scry-macOS.zip",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.18/Info.plist#958ca7422f184a7d11772d81dd3c9878820e876274f2d1f2c000166857ddda4f",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/Info.plist#7a928188c83aa7e105e0fba192a4158e3a3c13e847aec40844ea7ce8b144e5b6",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -249,17 +249,17 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.18/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.18/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.19/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "98c14b2f2a132d94d558c3c6798684c279bce19c22827d288b6dd082067730a8",
-      "size" : 2995635,
+      "sha256" : "987ed10bd19d79cc5df68e63a3abf97eaad697a9172165272cd4b6b632c6b885",
+      "size" : 3021901,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
-      "version" : "0.0.18",
-      "versionDate" : "2021-11-22T02:56:16Z",
-      "versionDescription" : "Release 0.0.18",
+      "version" : "0.0.19",
+      "versionDate" : "2021-11-23T01:32:49Z",
+      "versionDescription" : "Release 0.0.19",
       "watcherCount" : 0
     },
     {
@@ -398,29 +398,29 @@
       "categories" : [
         "public.app-category.lifestyle"
       ],
-      "coreSize" : 12373592,
+      "coreSize" : 12554056,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Numeral-XVIXVX-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Numeral-XVIXVX.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Numeral-XVIXVX-macOS.zip",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Numeral-XVIXVX.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/Info.plist#95cae6ac73d30f709d3c14bb43d0e5a3d2d399ff8ddc6208f0063af235a46d11",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Info.plist#ca3f6d59d8aa8ec2fe41491ad887d0a5bc7a42f0871684d7ca2a54d03e6ef567",
       "name" : "Numeral XVIXVX",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.4/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "c85b7f77519a051297c534f27a3fa75593a8f58673c759dda168069d24efc066",
-      "size" : 2884515,
+      "sha256" : "db308ee9efeb573372226bec5a0010850092648aecf5e6695e4e9b46cf2367a2",
+      "size" : 3032208,
       "starCount" : 0,
       "subtitle" : "A simple yet useful app",
-      "version" : "0.2.4",
-      "versionDate" : "2021-11-22T02:48:57Z",
-      "versionDescription" : "Release 0.2.4",
+      "version" : "0.2.5",
+      "versionDate" : "2021-11-23T01:32:53Z",
+      "versionDescription" : "Release 0.2.5",
       "watcherCount" : 0
     },
     {
@@ -429,7 +429,7 @@
       "categories" : [
         "public.app-category.lifestyle"
       ],
-      "coreSize" : 12373592,
+      "coreSize" : 12554056,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX-macOS.zip",

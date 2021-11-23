@@ -212,7 +212,7 @@
       ],
       "coreSize" : 12553968,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/Neural-Scry-iOS.ipa",
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.19/Neural-Scry.png",
       "issueCount" : 0,
@@ -269,14 +269,14 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 12477120,
+      "coreSize" : 12657528,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.15/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.15/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/Info.plist#11286fc1000191001d50e7450a4078d31a03d7336d49407db9c0c8e7d3890917",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.15/Info.plist#03c1b1d1cb47348288e4a80706bc0fe7d693f4cb5684ed8f2b13626c3f825046",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -284,18 +284,18 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.14/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.15/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.1.14/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Next-Edit/App/releases/download/0.1.14/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Next-Edit/App/releases/download/0.1.15/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Next-Edit/App/releases/download/0.1.15/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "1a0804b482fb9616c07046b8ac1cb604e9e9a71f7ae640a899bc8d6be00d71c7",
-      "size" : 6310728,
+      "sha256" : "dbbd681323c6bf46d43ea2b6b721267cfc619b8b291a57fac8c614a4ce3de017",
+      "size" : 6388306,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.1.14",
-      "versionDate" : "2021-11-22T02:19:41Z",
-      "versionDescription" : "Release 0.1.14",
+      "version" : "0.1.15",
+      "versionDate" : "2021-11-23T01:32:47Z",
+      "versionDescription" : "Release 0.1.15",
       "watcherCount" : 0
     },
     {
@@ -304,7 +304,7 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 12477120,
+      "coreSize" : 12657528,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.13/Next-Edit-iOS.ipa",
@@ -405,7 +405,7 @@
       ],
       "coreSize" : 12554056,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Numeral-XVIXVX-iOS.ipa",
       "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Numeral-XVIXVX.png",
       "issueCount" : 0,

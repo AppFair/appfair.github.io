@@ -138,12 +138,12 @@
       ],
       "coreSize" : 12554072,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.26/Neural-Scry-iOS.ipa",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.26/Neural-Scry.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.27/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.27/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.26/Info.plist#0245a9487994e0d2dadf0f6d950b7a264edd7d2496789681872e669d06486aca",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.27/Info.plist#51d83c4cf7c7552b0fa2a2df64a7671a27b28a708270f360b29783e4517a7983",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -175,19 +175,19 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.26/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.27/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.26/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Neural-Scry/App/releases/download/0.0.26/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.27/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Neural-Scry/App/releases/download/0.0.27/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "8f509184f51b94d23abd2da811ba9d66c78a0f3f4591bbb911242ab1d10efb59",
-      "size" : 6403831,
+      "sha256" : "cc21d423b6571836de940d7a228134e9f446cdbf1d8d89045f4171b10f61b7e2",
+      "size" : 6403636,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
       "tintColor" : "FF0000",
-      "version" : "0.0.26",
-      "versionDate" : "2021-11-23T14:27:11Z",
-      "versionDescription" : "Release 0.0.26",
+      "version" : "0.0.27",
+      "versionDate" : "2021-11-23T19:28:36Z",
+      "versionDescription" : "Release 0.0.27",
       "watcherCount" : 0
     },
     {
@@ -268,28 +268,28 @@
       ],
       "coreSize" : 12554160,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/Numeral-MXMMXVI-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/Numeral-MXMMXVI.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.11/Numeral-MXMMXVI-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.11/Numeral-MXMMXVI.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/Info.plist#068decb3292d7b56344ca4b6900d2c8e7ed479fea9a7bb44d09fa437a108203e",
+      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.11/Info.plist#e5fad29ad44a88742763c37d2c70d81ad9d024befcc021c900a2c86019970ef6",
       "name" : "Numeral MXMMXVI",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.11/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
       "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.10/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.11/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.11/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "636af7919b2411bd334038dbc109b8ee9fab07c5b4137c07b13dfcaae4e1113f",
-      "size" : 6399302,
+      "sha256" : "365a73fbbbba088552969b5e9ffd7ae2589c6ab83a60b3f7d0fae1c08822b84a",
+      "size" : 6399089,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.10",
-      "versionDate" : "2021-11-23T01:32:51Z",
-      "versionDescription" : "Release 0.0.10",
+      "version" : "0.0.11",
+      "versionDate" : "2021-11-23T19:29:00Z",
+      "versionDescription" : "Release 0.0.11",
       "watcherCount" : 0
     },
     {
@@ -332,28 +332,28 @@
       ],
       "coreSize" : 12554056,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Numeral-XVIXVX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Numeral-XVIXVX.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.6/Numeral-XVIXVX-iOS.ipa",
+      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.6/Numeral-XVIXVX.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/Info.plist#ca3f6d59d8aa8ec2fe41491ad887d0a5bc7a42f0871684d7ca2a54d03e6ef567",
+      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.6/Info.plist#764e5779b4f258f5348cdd4b235132058c416224427f45293010b4e87daf16e4",
       "name" : "Numeral XVIXVX",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.6/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.5/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.6/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.6/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "b347fdf8ec8cd95330ef9185302980a80dc3e93632a705b9087df2ac9361d5f7",
-      "size" : 6434252,
+      "sha256" : "2aca2422075b8e887badb54c5da07d3e9bba744f3dbe7c9277c10065b42d1049",
+      "size" : 6434031,
       "starCount" : 0,
       "subtitle" : "A simple yet useful app",
-      "version" : "0.2.5",
-      "versionDate" : "2021-11-23T01:32:53Z",
-      "versionDescription" : "Release 0.2.5",
+      "version" : "0.2.6",
+      "versionDate" : "2021-11-23T19:29:20Z",
+      "versionDescription" : "Release 0.2.6",
       "watcherCount" : 0
     },
     {

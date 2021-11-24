@@ -171,7 +171,7 @@
       ],
       "coreSize" : 18748808,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica-iOS.ipa",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -363,31 +363,31 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12570800,
+      "coreSize" : 13365128,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/Pan-Opticon-iOS.ipa",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/Pan-Opticon.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.12/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.12/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/Info.plist#cddb9dad2218983ab01d327993e08c406e87542e173e2a9ff816c7d4c73c4f9b",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.12/Info.plist#d3516ecf6fb09339804215d4f276d86c1098508b1da593f0e2ab74cfd53ccf6d",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.12/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Pan-Opticon/App/releases/download/0.0.11/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Pan-Opticon/App/releases/download/0.0.11/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.12/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.12/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "1e22f216b4db5b4b9aa26cf346646ddb2358452c887d075b0c0ae1d10302328a",
-      "size" : 6500327,
+      "sha256" : "249f7a0a207e3c3d0660878ca4d79fd4d319b614a742902b1e3a500f50484f7f",
+      "size" : 6861039,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.0.11",
-      "versionDate" : "2021-11-24T14:17:31Z",
-      "versionDescription" : "Release 0.0.11",
+      "version" : "0.0.12",
+      "versionDate" : "2021-11-24T16:57:41Z",
+      "versionDescription" : "Release 0.0.12",
       "watcherCount" : 0
     },
     {

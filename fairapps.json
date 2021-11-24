@@ -62,14 +62,14 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 12571336,
+      "coreSize" : 12571688,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.19/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.19/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.19/Info.plist#003afe6ece9855fe5eb7233a1156c9e0cb03936330ad900ffebe5145b74029c0",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Info.plist#7acb238bf04e60b28d8e2152e7091cd953b5222ef892140160dafdb9d12d66cc",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,18 +81,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.19/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/1.1.19/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+        "https://github.com/Bon-Mot/App/releases/download/1.1.21/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
       ],
-      "sha256" : "f7547383af08f8c4ec4a553917bd36a78cfdc0f731f2c7db39085eea1902bd35",
-      "size" : 3023651,
+      "sha256" : "2b01a9e7a72f71f60399ef6ac1c9495b1e8beb7c14d4294b9f20a44c59a17651",
+      "size" : 3025718,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "1.1.19",
-      "versionDate" : "2021-11-23T16:12:33Z",
-      "versionDescription" : "Release 1.1.19",
+      "version" : "1.1.21",
+      "versionDate" : "2021-11-24T04:32:50Z",
+      "versionDescription" : "Release 1.1.21",
       "watcherCount" : 0
     },
     {

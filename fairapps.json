@@ -104,26 +104,27 @@
       "coreSize" : 12570896,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/Brew-Meister-macOS.zip",
-      "iconURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/Brew-Meister.png",
+      "downloadURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.4/Brew-Meister-macOS.zip",
+      "iconURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.4/Brew-Meister.png",
       "issueCount" : 0,
       "localizedDescription" : "A brew catalog",
-      "metadataURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/Info.plist#03bdccb7786ef47bc2a4a40af2d4391fc6492d88ae979ba99c3efe8a37d344d2",
+      "metadataURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.4/Info.plist#7b29aa7d552d0772a61ff9e7f562386b2c9ffaf955eb815b92a9d54ec8fff23f",
       "name" : "Brew Meister",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.4/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Brew-Meister/App/releases/download/0.0.3/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Brew-Meister/App/releases/download/0.0.4/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "f196ffb996d8e3bbd9d126c15641fd0ca1dc107938ea9e0bacdcf07017b8b5bf",
-      "size" : 3023549,
+      "sha256" : "40f4e91de1a036be391166986a3a538cfe290fe42654b212526ab29ccef67287",
+      "size" : 3024090,
       "starCount" : 0,
       "subtitle" : "A brew catalog",
-      "version" : "0.0.3",
-      "versionDate" : "2021-11-24T02:44:47Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Brew-Meister/App/compare/0.0.2...0.0.3",
+      "tintColor" : "FFFF00",
+      "version" : "0.0.4",
+      "versionDate" : "2021-11-24T03:00:23Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Brew-Meister/App/compare/0.0.3...0.0.4",
       "watcherCount" : 0
     },
     {

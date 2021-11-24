@@ -170,27 +170,27 @@
       ],
       "coreSize" : 12554408,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/Encyclopedia-Galactica.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/Info.plist#5831ba7b84e09c657a4fd2e6fb472f7211381cd2a0cace0c9eaa3511fae17545",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/Info.plist#5270e99da929a9c314cbabd7c75c53e2d7ea564dd4ecd121c9ebe34588d3f4d9",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "1a9ea19a471137841da1801b0c201f84b4eef3038f7a7f17d611cd9d803be677",
-      "size" : 3014663,
+      "sha256" : "ff7447dabed255b69f5bf2b5c979123defe4279c1437960da1f25000933bdce4",
+      "size" : 3134120,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.6",
-      "versionDate" : "2021-11-24T05:01:03Z",
-      "versionDescription" : "Release 0.0.6",
+      "version" : "0.0.7",
+      "versionDate" : "2021-11-24T05:39:12Z",
+      "versionDescription" : "Release 0.0.7",
       "watcherCount" : 0
     },
     {
@@ -260,7 +260,7 @@
       ],
       "coreSize" : 12690672,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.18/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.18/Next-Edit.png",
       "issueCount" : 0,

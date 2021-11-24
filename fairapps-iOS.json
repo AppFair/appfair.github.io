@@ -8,7 +8,7 @@
       ],
       "coreSize" : 15660608,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.236/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.236/App-Fair.png",
       "issueCount" : 0,
@@ -261,14 +261,14 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 12657528,
+      "coreSize" : 12690672,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.16/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.16/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.18/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.18/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.16/Info.plist#3ea73a716863bc541323ca6d51ed36274ff16ed59fcc59f9c0c288061fc43d8f",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.18/Info.plist#de5fe726106ea14362721913387891bb43ee0f08b3757b32e6f79345367d1d7c",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -276,18 +276,18 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.16/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.18/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.1.16/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Next-Edit/App/releases/download/0.1.16/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Next-Edit/App/releases/download/0.1.18/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Next-Edit/App/releases/download/0.1.18/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "137765b5fb9b5e36b9e09ee60d761ae3a66f1fd108c155ad2e87622f74ffb450",
-      "size" : 6388110,
+      "sha256" : "f9c275eebe02954996c1114f71e35a1a8998d1ca6cb6fdbfc20066bea10ee7f4",
+      "size" : 6389829,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.1.16",
-      "versionDate" : "2021-11-23T19:28:13Z",
-      "versionDescription" : "Release 0.1.16",
+      "version" : "0.1.18",
+      "versionDate" : "2021-11-24T05:03:40Z",
+      "versionDescription" : "Release 0.1.18",
       "watcherCount" : 0
     },
     {
@@ -426,7 +426,7 @@
       ],
       "coreSize" : 12570800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.10/Pan-Opticon-iOS.ipa",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.10/Pan-Opticon.png",
       "issueCount" : 0,

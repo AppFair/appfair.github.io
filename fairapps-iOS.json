@@ -97,6 +97,38 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Brew-Meister",
+      "categories" : [
+        "public.app-category.lifestyle"
+      ],
+      "coreSize" : 12570896,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/Brew-Meister-iOS.ipa",
+      "iconURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/Brew-Meister.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A brew catalog",
+      "metadataURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/Info.plist#03bdccb7786ef47bc2a4a40af2d4391fc6492d88ae979ba99c3efe8a37d344d2",
+      "name" : "Brew Meister",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Brew-Meister/App/releases/download/0.0.3/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Brew-Meister/App/releases/download/0.0.3/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "e994819259b61c8c60264ceb005c8b67a50c8420f77e30a06211941497b2a7b5",
+      "size" : 6431592,
+      "starCount" : 0,
+      "subtitle" : "A brew catalog",
+      "version" : "0.0.3",
+      "versionDate" : "2021-11-24T02:44:47Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Brew-Meister/App/compare/0.0.2...0.0.3",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"

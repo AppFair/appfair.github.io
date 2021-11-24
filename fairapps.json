@@ -97,6 +97,37 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Brew-Meister",
+      "categories" : [
+        "public.app-category.lifestyle"
+      ],
+      "coreSize" : 12570896,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/Brew-Meister-macOS.zip",
+      "iconURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/Brew-Meister.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A brew catalog",
+      "metadataURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/Info.plist#03bdccb7786ef47bc2a4a40af2d4391fc6492d88ae979ba99c3efe8a37d344d2",
+      "name" : "Brew Meister",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.3/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Brew-Meister/App/releases/download/0.0.3/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "f196ffb996d8e3bbd9d126c15641fd0ca1dc107938ea9e0bacdcf07017b8b5bf",
+      "size" : 3023549,
+      "starCount" : 0,
+      "subtitle" : "A brew catalog",
+      "version" : "0.0.3",
+      "versionDate" : "2021-11-24T02:44:47Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Brew-Meister/App/compare/0.0.2...0.0.3",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"

@@ -168,29 +168,32 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 12554408,
+      "coreSize" : 18748808,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/Encyclopedia-Galactica.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/Info.plist#5270e99da929a9c314cbabd7c75c53e2d7ea564dd4ecd121c9ebe34588d3f4d9",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Info.plist#2b484a1a7bdb2287f45175c406d03c122ba4149d868653f3075ba357277b884e",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
-
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "ff7447dabed255b69f5bf2b5c979123defe4279c1437960da1f25000933bdce4",
-      "size" : 3134120,
+      "sha256" : "a086f2677b586b87dee62b59f5c88fc1613a032e587dc081f2be99e247b567fc",
+      "size" : 3731199,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.7",
-      "versionDate" : "2021-11-24T05:39:12Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.8",
+      "versionDate" : "2021-11-24T16:43:36Z",
+      "versionDescription" : "Release 0.0.8",
       "watcherCount" : 0
     },
     {
@@ -201,7 +204,7 @@
       ],
       "coreSize" : 18896872,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.31/Neural-Scry-macOS.zip",
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.31/Neural-Scry.png",
       "issueCount" : 0,
@@ -346,37 +349,6 @@
       "version" : "0.2.6",
       "versionDate" : "2021-11-23T19:29:20Z",
       "versionDescription" : "Release 0.2.6",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Numeral-XVIXVX",
-      "categories" : [
-        "public.app-category.lifestyle"
-      ],
-      "coreSize" : 12554056,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Info.plist#88413292037cc16b3bfbc07e161e2d37aa65ecde39e46e4e567b6eabe50cbbcd",
-      "name" : "Numeral XVIXVX",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "dcf5072ffdcb54bd9ac053650751a457e3318b7c054682146f83426e2a49725b",
-      "size" : 2632424,
-      "starCount" : 0,
-      "subtitle" : "A simple yet useful app",
-      "version" : "0.2.2",
-      "versionDate" : "2021-11-21T22:23:21Z",
-      "versionDescription" : "Release 0.2.2",
       "watcherCount" : 0
     },
     {

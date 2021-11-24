@@ -169,30 +169,33 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 12554408,
+      "coreSize" : 18748808,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/Encyclopedia-Galactica-iOS.ipa",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/Encyclopedia-Galactica.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica-iOS.ipa",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/Info.plist#5270e99da929a9c314cbabd7c75c53e2d7ea564dd4ecd121c9ebe34588d3f4d9",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Info.plist#2b484a1a7bdb2287f45175c406d03c122ba4149d868653f3075ba357277b884e",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
-
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.7/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "075ca17ad190ca2a7bff694a94d06bf044f187d1a1b98f993c1b2377d23d288b",
-      "size" : 6554983,
+      "sha256" : "ac9ff1bff9fea11ab748c8c95dad04631a5a89854d8cf231d89759e38667e3a7",
+      "size" : 9102794,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.7",
-      "versionDate" : "2021-11-24T05:39:12Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.8",
+      "versionDate" : "2021-11-24T16:43:36Z",
+      "versionDescription" : "Release 0.0.8",
       "watcherCount" : 0
     },
     {
@@ -352,38 +355,6 @@
       "version" : "0.2.6",
       "versionDate" : "2021-11-23T19:29:20Z",
       "versionDescription" : "Release 0.2.6",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Numeral-XVIXVX",
-      "categories" : [
-        "public.app-category.lifestyle"
-      ],
-      "coreSize" : 12554056,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Numeral-XVIXVX.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/Info.plist#88413292037cc16b3bfbc07e161e2d37aa65ecde39e46e4e567b6eabe50cbbcd",
-      "name" : "Numeral XVIXVX",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.2/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
-      ],
-      "sha256" : "32db64d61b05dff578d4f8c6fad074a1617a896516078a9834ef0c35f0b74e25",
-      "size" : 5578216,
-      "starCount" : 0,
-      "subtitle" : "A simple yet useful app",
-      "version" : "0.2.2",
-      "versionDate" : "2021-11-21T22:23:21Z",
-      "versionDescription" : "Release 0.2.2",
       "watcherCount" : 0
     },
     {

@@ -1003,15 +1003,6 @@ Your app may request any permission in the `Sandbox.entitlements` with the excep
 
 Note, however, that any permission you request must have a corresponding `usageDescriptionProperties` in the `Info.plist` metadata file explaining to the user (via the listing in the App Fair catalog) why the entitlement is requested.
 
-### Can I change the permissions in `Sandbox.entitlements` for an update?
-
-No. 
-When installing an app, users are presented with the list of entitlements that the app will request, such as file or network permissions, or access to hardware devices. 
-These permissions are considered fundamental to the trust relationship between the app's user and the app's developer.
-
-Since changing the permissions the app is granted alters the terms of this trust relationship, the App Fair will not update an app whose `Sandbox.entitlements` properties have changed from the time the app was installed.
-Users will need to first manually un-install the app in order to then manually install the updated version of the app in order to get the app with the new entitlements.
-
 ### Can I distribute an Electron-style JavaScript app?
 
 The shell of the App you write, including any top-level system menus, must utilize `SwiftUI` views, idioms, and commands.

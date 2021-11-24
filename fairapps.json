@@ -418,28 +418,28 @@
       ],
       "coreSize" : 12570800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.10/Pan-Opticon-macOS.zip",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.10/Pan-Opticon.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/Pan-Opticon-macOS.zip",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.10/Info.plist#2038bfeca87f4f134dae857e8f120ff1d7bfccf9c6aa2da0c0110a785cd1e0cc",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/Info.plist#cddb9dad2218983ab01d327993e08c406e87542e173e2a9ff816c7d4c73c4f9b",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.10/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Pan-Opticon/App/releases/download/0.0.10/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.11/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "84297ae90f8565f4b3b174050b781749f63c1fd6dd4c55789ca1b44b53f75751",
-      "size" : 3089042,
+      "sha256" : "e37e426cb7d5dbb686558685bfe7f178726ee2a5c303f433c7909f510d883f01",
+      "size" : 3084269,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
-      "tintColor" : "0000AA",
-      "version" : "0.0.10",
-      "versionDate" : "2021-11-24T05:01:43Z",
-      "versionDescription" : "Release 0.0.10",
+      "tintColor" : "CC00AA",
+      "version" : "0.0.11",
+      "versionDate" : "2021-11-24T14:17:31Z",
+      "versionDescription" : "Release 0.0.11",
       "watcherCount" : 0
     },
     {

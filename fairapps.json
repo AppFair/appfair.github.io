@@ -383,6 +383,37 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Pan-Opticon",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 12570800,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.5/Pan-Opticon-macOS.zip",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.5/Pan-Opticon.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Watch the Watchers",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.5/Info.plist#6ce16ded7cfbbeaeafe800616d312990763f6648c982b80078de462676373e26",
+      "name" : "Pan Opticon",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.5/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.5/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "d1dce2e3e024399eb5d5d922a24066e1cb390e3be0f74e9c9300733a5447babd",
+      "size" : 3050652,
+      "starCount" : 0,
+      "subtitle" : "Watch the Watchers",
+      "version" : "0.0.5",
+      "versionDate" : "2021-11-24T01:08:13Z",
+      "versionDescription" : "Release 0.0.5",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

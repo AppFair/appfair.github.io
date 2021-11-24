@@ -390,6 +390,38 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Pan-Opticon",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 12570800,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.5/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.5/Pan-Opticon.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Watch the Watchers",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.5/Info.plist#6ce16ded7cfbbeaeafe800616d312990763f6648c982b80078de462676373e26",
+      "name" : "Pan Opticon",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.5/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.5/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.5/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "0659822bfd220a581cfe3d0b82ab27d644e7adef3b001e025ebc2dd6b50e5896",
+      "size" : 6459110,
+      "starCount" : 0,
+      "subtitle" : "Watch the Watchers",
+      "version" : "0.0.5",
+      "versionDate" : "2021-11-24T01:08:13Z",
+      "versionDescription" : "Release 0.0.5",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"

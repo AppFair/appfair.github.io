@@ -987,8 +987,8 @@ Any changes in entitlements or other security features will require explicit con
 
 ### Can I have multiple versions of an app released simultaneously?
 
-No.
-There is only ever a single active version of your app that is available in the **App Fair.app** catalog.
+The most recent published and sealed release, along with a single optional pre-release version, are the only versions that will be available in the App Fair catalog.
+
 Users can revert to previous versions only if they have their own backup or if the older version still resides in the user's Trash after the upgrade.
 
 ### What permissions am I permitted to use in `Sandbox.entitlements`

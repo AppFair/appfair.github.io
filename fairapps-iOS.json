@@ -426,7 +426,7 @@
       ],
       "coreSize" : 12570800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/Pan-Opticon-iOS.ipa",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.11/Pan-Opticon.png",
       "issueCount" : 0,
@@ -457,14 +457,14 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 24628760,
+      "coreSize" : 24645200,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.358/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.358/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.359/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.359/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.358/Info.plist#a88d3c8c349136e60859204922c816e232adcfe6f5c034e6d78ba45d344e7f21",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.359/Info.plist#9c2aeda1e123da6bedaa66cf6ff869b73de5aef770e043c6f258978cf4a1e27a",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -472,20 +472,20 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.358/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.359/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.358/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
-        "https://github.com/Tune-Out/App/releases/download/0.8.358/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
-        "https://github.com/Tune-Out/App/releases/download/0.8.358/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
+        "https://github.com/Tune-Out/App/releases/download/0.8.359/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
+        "https://github.com/Tune-Out/App/releases/download/0.8.359/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
+        "https://github.com/Tune-Out/App/releases/download/0.8.359/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
       ],
-      "sha256" : "0114c12efdf0bce90aaa62dee0546ed470c72714e1ad00d8b2800f007326c6b0",
-      "size" : 16169933,
+      "sha256" : "b96ba60fb05eff8eb69160d3ae9d9ce78d4a44897c8b933cc418760da6b3f6de",
+      "size" : 16169269,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "tintColor" : "FF9502",
-      "version" : "0.8.358",
-      "versionDate" : "2021-11-23T20:21:18Z",
-      "versionDescription" : "Release 0.8.358",
+      "tintColor" : "F6F447",
+      "version" : "0.8.359",
+      "versionDate" : "2021-11-24T14:35:18Z",
+      "versionDescription" : "Release 0.8.359",
       "watcherCount" : 0
     },
     {
@@ -494,7 +494,7 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 24628760,
+      "coreSize" : 24645200,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.354/Tune-Out-iOS.ipa",
@@ -519,7 +519,7 @@
       "size" : 15637404,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "tintColor" : "FF9502",
+      "tintColor" : "F6F447",
       "version" : "0.8.354",
       "versionDate" : "2021-11-21T22:22:52Z",
       "versionDescription" : "Release 0.8.354",

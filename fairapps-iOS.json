@@ -64,7 +64,7 @@
       ],
       "coreSize" : 12571688,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Bon-Mot.png",
       "issueCount" : 0,
@@ -161,6 +161,38 @@
       "version" : "0.8.24",
       "versionDate" : "2021-11-24T04:25:01Z",
       "versionDescription" : "Release 0.8.24",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "coreSize" : 12554408,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/Encyclopedia-Galactica-iOS.ipa",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fork to make an App Fair App",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/Info.plist#31cfc3ec0f61e33f4407ea4dac2376f564484fa2343a0fb60f7d0566a4b8a827",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "8ad11bb14ce94ff170bf56575f80270c515cddc07e8ace1224c7baa5482c977f",
+      "size" : 6414553,
+      "starCount" : 0,
+      "subtitle" : "Fork to make an App Fair App",
+      "version" : "0.0.5",
+      "versionDate" : "2021-11-24T04:45:10Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {
@@ -429,7 +461,7 @@
       ],
       "coreSize" : 12570800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.9/Pan-Opticon-iOS.ipa",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.9/Pan-Opticon.png",
       "issueCount" : 0,

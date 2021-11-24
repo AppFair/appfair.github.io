@@ -64,7 +64,7 @@
       ],
       "coreSize" : 12571688,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Bon-Mot.png",
       "issueCount" : 0,
@@ -160,6 +160,37 @@
       "version" : "0.8.24",
       "versionDate" : "2021-11-24T04:25:01Z",
       "versionDescription" : "Release 0.8.24",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "coreSize" : 12554408,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fork to make an App Fair App",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/Info.plist#31cfc3ec0f61e33f4407ea4dac2376f564484fa2343a0fb60f7d0566a4b8a827",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "dc70b1b12288e75874012beab30573f42a596a2b4873bd9c8b530e7dfb488eb9",
+      "size" : 3014663,
+      "starCount" : 0,
+      "subtitle" : "Fork to make an App Fair App",
+      "version" : "0.0.5",
+      "versionDate" : "2021-11-24T04:45:10Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {
@@ -421,7 +452,7 @@
       ],
       "coreSize" : 12570800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.9/Pan-Opticon-macOS.zip",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.9/Pan-Opticon.png",
       "issueCount" : 0,

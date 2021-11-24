@@ -64,12 +64,12 @@
       ],
       "coreSize" : 12571688,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.22/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.22/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/Info.plist#7acb238bf04e60b28d8e2152e7091cd953b5222ef892140160dafdb9d12d66cc",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.22/Info.plist#83dde42047125a73979ed6637fadaf7756eee254a4e7a9a8b911c7a25200db1d",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,18 +81,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.21/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.22/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f81027bc5595928ffa8c0db37c3add6850a5a2b3db5e9ec8a1db57c10f0636f4",
-      "size" : 6460698,
+      "sha256" : "cac32c233cae7a0e1fcd1d6ccdb86e106a29dd14b0bf6883dee7fbb191cd1872",
+      "size" : 6460685,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "1.1.21",
-      "versionDate" : "2021-11-24T04:32:50Z",
-      "versionDescription" : "Release 1.1.21",
+      "version" : "1.1.22",
+      "versionDate" : "2021-11-24T05:01:34Z",
+      "versionDescription" : "Release 1.1.22",
       "watcherCount" : 0
     },
     {
@@ -171,28 +171,28 @@
       ],
       "coreSize" : 12554408,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/Encyclopedia-Galactica-iOS.ipa",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/Encyclopedia-Galactica.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/Encyclopedia-Galactica-iOS.ipa",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/Info.plist#31cfc3ec0f61e33f4407ea4dac2376f564484fa2343a0fb60f7d0566a4b8a827",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/Info.plist#5831ba7b84e09c657a4fd2e6fb472f7211381cd2a0cace0c9eaa3511fae17545",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.5/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.6/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "8ad11bb14ce94ff170bf56575f80270c515cddc07e8ace1224c7baa5482c977f",
-      "size" : 6414553,
+      "sha256" : "5c4047d153b953bd25c7c4d7c10b27cf55619540eb79a3826527f7c4f1b5d088",
+      "size" : 6414550,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.5",
-      "versionDate" : "2021-11-24T04:45:10Z",
-      "versionDescription" : "Release 0.0.5",
+      "version" : "0.0.6",
+      "versionDate" : "2021-11-24T05:01:03Z",
+      "versionDescription" : "Release 0.0.6",
       "watcherCount" : 0
     },
     {

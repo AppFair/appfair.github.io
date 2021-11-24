@@ -201,12 +201,12 @@
       ],
       "coreSize" : 12570816,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.29/Neural-Scry-macOS.zip",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.29/Neural-Scry.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.30/Neural-Scry-macOS.zip",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.30/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.29/Info.plist#d4c553fe099115f8c8461269e71ae5d9630301ba79ddc91628443f725576c539",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.30/Info.plist#8dd9e5d7210a1cb8c36cb935e5b386cfab2dfcbf14acd771806c5723eebefd07",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -238,18 +238,18 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.29/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.30/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.29/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.30/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "5f1d0a1cabe99248b75f7cc9c1c1d96547cf31a56fe1645fa7382e5cd0fd17fc",
-      "size" : 2999864,
+      "sha256" : "e81616d20153caa54d0c3a97c9926c9b883045eccdea7e92b179e8fd61bb6c5e",
+      "size" : 2999946,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
       "tintColor" : "FF0000",
-      "version" : "0.0.29",
-      "versionDate" : "2021-11-24T05:04:28Z",
-      "versionDescription" : "Release 0.0.29",
+      "version" : "0.0.30",
+      "versionDate" : "2021-11-24T14:43:25Z",
+      "versionDescription" : "Release 0.0.30",
       "watcherCount" : 0
     },
     {
@@ -315,37 +315,6 @@
       "version" : "0.0.11",
       "versionDate" : "2021-11-23T19:29:00Z",
       "versionDescription" : "Release 0.0.11",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Numeral-MXMMXVI",
-      "categories" : [
-        "public.app-category.business"
-      ],
-      "coreSize" : 12554160,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Numeral-MXMMXVI-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Numeral-MXMMXVI.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Info.plist#3fa0f1a9c52be30322a290ed3a3a57ea1f013da9ea204e71f883c551450407f5",
-      "name" : "Numeral MXMMXVI",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "bc88384609cc6a51852f166d027cf279321e15dd4dc85e24be974e26d19df96a",
-      "size" : 2812353,
-      "starCount" : 0,
-      "subtitle" : "A business app for business-folk",
-      "version" : "0.0.7",
-      "versionDate" : "2021-11-21T22:23:18Z",
-      "versionDescription" : "Release 0.0.7",
       "watcherCount" : 0
     },
     {

@@ -203,12 +203,12 @@
       ],
       "coreSize" : 12570816,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.29/Neural-Scry-iOS.ipa",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.29/Neural-Scry.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.30/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.30/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.29/Info.plist#d4c553fe099115f8c8461269e71ae5d9630301ba79ddc91628443f725576c539",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.30/Info.plist#8dd9e5d7210a1cb8c36cb935e5b386cfab2dfcbf14acd771806c5723eebefd07",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -240,19 +240,19 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.29/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.30/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.29/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Neural-Scry/App/releases/download/0.0.29/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.30/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Neural-Scry/App/releases/download/0.0.30/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "af57c03a78179b474086c4bcb15d1b64b122dcc9e44f6cc954f751e339369e7b",
-      "size" : 6405014,
+      "sha256" : "eeeac6af200bcd4a5453bacf1509a5f74f20b35e1d8f78e53d16f86eec5ed2f7",
+      "size" : 6405092,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
       "tintColor" : "FF0000",
-      "version" : "0.0.29",
-      "versionDate" : "2021-11-24T05:04:28Z",
-      "versionDescription" : "Release 0.0.29",
+      "version" : "0.0.30",
+      "versionDate" : "2021-11-24T14:43:25Z",
+      "versionDescription" : "Release 0.0.30",
       "watcherCount" : 0
     },
     {
@@ -320,38 +320,6 @@
       "version" : "0.0.11",
       "versionDate" : "2021-11-23T19:29:00Z",
       "versionDescription" : "Release 0.0.11",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Numeral-MXMMXVI",
-      "categories" : [
-        "public.app-category.business"
-      ],
-      "coreSize" : 12554160,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Numeral-MXMMXVI-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Numeral-MXMMXVI.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/Info.plist#3fa0f1a9c52be30322a290ed3a3a57ea1f013da9ea204e71f883c551450407f5",
-      "name" : "Numeral MXMMXVI",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.7/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
-      ],
-      "sha256" : "99477857b47b9dca9cc13142a4f700eb8cec283dd307735c43afaad4801aca49",
-      "size" : 5820079,
-      "starCount" : 0,
-      "subtitle" : "A business app for business-folk",
-      "version" : "0.0.7",
-      "versionDate" : "2021-11-21T22:23:18Z",
-      "versionDescription" : "Release 0.0.7",
       "watcherCount" : 0
     },
     {

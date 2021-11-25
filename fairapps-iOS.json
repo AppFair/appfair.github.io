@@ -199,6 +199,41 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Lottie-Playground",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 19689792,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.9/Lottie-Playground-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.9/Lottie-Playground.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.9/Info.plist#b736fbc1f5cad20c5ef7b9deb625a714963ba1ff3503e0660d9d18a7eb22ef82",
+      "name" : "Lottie Playground",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.9/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Playground/App/releases/download/0.0.9/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Lottie-Playground/App/releases/download/0.0.9/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "a10fb0186b7b058e3423d12d356cb07d98380c662dec1122728e23c1ac883cff",
+      "size" : 9860161,
+      "starCount" : 0,
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.9",
+      "versionDate" : "2021-11-25T12:58:02Z",
+      "versionDescription" : "Release 0.0.9",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Playground",
       "categories" : [

@@ -202,14 +202,14 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 19689792,
+      "coreSize" : 19724136,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.9/Lottie-Playground-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.9/Lottie-Playground.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.11/Lottie-Playground-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.11/Lottie-Playground.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.9/Info.plist#b736fbc1f5cad20c5ef7b9deb625a714963ba1ff3503e0660d9d18a7eb22ef82",
+      "metadataURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.11/Info.plist#8c756e77939bd81b9b08d5f97fab8f6a0796ef7fb005485adf4fcac6ad026264",
       "name" : "Lottie Playground",
       "permissions" : [
         {
@@ -217,17 +217,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.9/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.11/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Lottie-Playground/App/releases/download/0.0.9/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Lottie-Playground/App/releases/download/0.0.11/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "6ca2aab5f9fc9d28abf39a7c67bfb403cb98a56cc121e2255ef5c25c875801d3",
-      "size" : 3803399,
+      "sha256" : "7dc191735d5ef650e5e93b39c367a8f1a177879606d1d217562406e810f73031",
+      "size" : 3810802,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.9",
-      "versionDate" : "2021-11-25T12:58:02Z",
-      "versionDescription" : "Release 0.0.9",
+      "version" : "0.0.11",
+      "versionDate" : "2021-11-25T14:27:39Z",
+      "versionDescription" : "Release 0.0.11",
       "watcherCount" : 0
     },
     {
@@ -236,7 +236,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 19689792,
+      "coreSize" : 19724136,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.7/Lottie-Playground-macOS.zip",

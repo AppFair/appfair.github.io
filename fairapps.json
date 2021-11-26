@@ -204,7 +204,7 @@
       ],
       "coreSize" : 19809400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.19/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.19/Lottie-Motion.png",
       "issueCount" : 0,
@@ -290,12 +290,46 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 12690664,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.20/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.20/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.20/Info.plist#45845e9c2ebbf7afd0ecbe8418abab10d5aea1a2cffa164dcc54519b501f4ee9",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.20/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "screenshotURLs" : [
+        "https://github.com/Next-Edit/App/releases/download/0.1.20/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "b0f8be8d6529938f3f758ad406b3757fab72e627330f5846e7782ffc4ca3eb07",
+      "size" : 7309960,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.1.20",
+      "versionDate" : "2021-11-26T22:25:10Z",
+      "versionDescription" : "Release 0.1.20",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 12690672,
+      "coreSize" : 12690664,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.19/Next-Edit-macOS.zip",

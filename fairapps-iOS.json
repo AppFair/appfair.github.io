@@ -206,7 +206,7 @@
       ],
       "coreSize" : 19809400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.19/Lottie-Motion-iOS.ipa",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.19/Lottie-Motion.png",
       "issueCount" : 0,
@@ -294,12 +294,47 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 12690664,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.20/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.20/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.20/Info.plist#45845e9c2ebbf7afd0ecbe8418abab10d5aea1a2cffa164dcc54519b501f4ee9",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.20/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "screenshotURLs" : [
+        "https://github.com/Next-Edit/App/releases/download/0.1.20/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Next-Edit/App/releases/download/0.1.20/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "8a801045856eb9ce3d19539b0daa19eb0352514f9cf5a33305cade3bea506fd7",
+      "size" : 6389274,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.1.20",
+      "versionDate" : "2021-11-26T22:25:10Z",
+      "versionDescription" : "Release 0.1.20",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 12690672,
+      "coreSize" : 12690664,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.19/Next-Edit-iOS.ipa",

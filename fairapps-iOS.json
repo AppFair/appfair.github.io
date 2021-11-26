@@ -204,14 +204,14 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 19861240,
+      "coreSize" : 19860672,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.17/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.17/Lottie-Motion.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.18/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.18/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.17/Info.plist#8ba4a83cb9ee0b5261bfd600bdbe4f5f3b633151c854ca035251cf825b875fd2",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.18/Info.plist#fcaa7d09cd740b8972eb7f55f52b4bdd2a618f3f6eb5d79b413a4b27d74dbf08",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -219,18 +219,18 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.17/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.18/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.17/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.17/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.18/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.18/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "f0c2cad5364686e19ecf48d77fd4d9d2182a2596d87e9eba5dd7f9cd68647c38",
-      "size" : 9924488,
+      "sha256" : "85981629cdd3f4d7a9b3bfb88fc2eed30de4142a902a13c8389dd78e7611e9f9",
+      "size" : 9925671,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.17",
-      "versionDate" : "2021-11-26T06:49:57Z",
-      "versionDescription" : "Release 0.0.17",
+      "version" : "0.0.18",
+      "versionDate" : "2021-11-26T16:27:09Z",
+      "versionDescription" : "Release 0.0.18",
       "watcherCount" : 0
     },
     {

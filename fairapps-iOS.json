@@ -200,72 +200,37 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Lottie-Playground",
+      "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
         "public.app-category.developer-tools"
       ],
       "coreSize" : 19724232,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.13/Lottie-Playground-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.13/Lottie-Playground.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.14/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.14/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.13/Info.plist#43f70a718c79a73b8f7c45cdf2b6b3f26b2fbc6637a631003057b1cc19862816",
-      "name" : "Lottie Playground",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.14/Info.plist#d34cf0130f7cd46a3b5c298118e5af37793ed436dd086a9407e5e864d3aa2dc8",
+      "name" : "Lottie Motion",
       "permissions" : [
         {
           "type" : "files.user-selected.read-write",
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.13/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.14/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Lottie-Playground/App/releases/download/0.0.13/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Lottie-Playground/App/releases/download/0.0.13/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.14/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.14/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "ab5693462146e99ae007983265564682aeac7b9bbf8600605c0ddd5a4a26bc0a",
-      "size" : 9883787,
+      "sha256" : "f0da6bf3aa21e90f13ca4d5a74396f10e8ec88fd84aba81645a857ae93da917a",
+      "size" : 9877020,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.13",
-      "versionDate" : "2021-11-25T16:06:47Z",
-      "versionDescription" : "Release 0.0.13",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Playground",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "coreSize" : 19724232,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.7/Lottie-Playground-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.7/Lottie-Playground.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.7/Info.plist#e25d858303dee6c6448f55333c1834ae01dcd24c820a68711e8d41392e447384",
-      "name" : "Lottie Playground",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Playground/App/releases/download/0.0.7/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Lottie-Playground/App/releases/download/0.0.7/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Lottie-Playground/App/releases/download/0.0.7/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
-      ],
-      "sha256" : "acca7fe72aec82d06be5bb2795f11db2f930bb0245ca969e441ae69e5bb72436",
-      "size" : 9860054,
-      "starCount" : 0,
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.7",
-      "versionDate" : "2021-11-25T03:17:53Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.14",
+      "versionDate" : "2021-11-26T00:20:26Z",
+      "versionDescription" : "Release 0.0.14",
       "watcherCount" : 0
     },
     {

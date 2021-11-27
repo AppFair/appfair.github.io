@@ -57,12 +57,51 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 19549968,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.24/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.24/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.24/Info.plist#ba39198035680463c07bac2433084757f366016df9b0150b177eeb69347517ec",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.24/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "screenshotURLs" : [
+        "https://github.com/Bon-Mot/App/releases/download/1.1.24/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+      ],
+      "sha256" : "7203c5c65e083f5acf2d41da163f7a947e2721edb34f021ffb721a2101e56822",
+      "size" : 3683658,
+      "starCount" : 1,
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "1.1.24",
+      "versionDate" : "2021-11-27T02:39:00Z",
+      "versionDescription" : "Release 1.1.24",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 19549976,
+      "coreSize" : 19549968,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.23/Bon-Mot-macOS.zip",
@@ -197,7 +236,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
         "public.app-category.developer-tools"

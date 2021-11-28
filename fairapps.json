@@ -429,37 +429,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Numeral-XVIXVX",
-      "categories" : [
-        "public.app-category.lifestyle"
-      ],
-      "coreSize" : 18624920,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/Numeral-XVIXVX-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/Numeral-XVIXVX.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/Info.plist#0561d266c44123405eaafc16d81f940aa4cbce6e57f5226192790a1fbefcb19e",
-      "name" : "Numeral XVIXVX",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "2a289d771c4f1002bba6eda158cb7c28fa74b94ded1d332a582659705bec299c",
-      "size" : 3687553,
-      "starCount" : 0,
-      "subtitle" : "A simple yet useful app",
-      "version" : "0.2.9",
-      "versionDate" : "2021-11-24T17:03:22Z",
-      "versionDescription" : "Release 0.2.9",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
         "public.app-category.utilities"

@@ -436,38 +436,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Numeral-XVIXVX",
-      "categories" : [
-        "public.app-category.lifestyle"
-      ],
-      "coreSize" : 18624920,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/Numeral-XVIXVX-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/Numeral-XVIXVX.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A simple yet useful app",
-      "metadataURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/Info.plist#0561d266c44123405eaafc16d81f940aa4cbce6e57f5226192790a1fbefcb19e",
-      "name" : "Numeral XVIXVX",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-XVIXVX/App/releases/download/0.2.9/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
-      ],
-      "sha256" : "e752d9a6eb3c96659e35d20db01d7f367282cb72db5f862d11fe6b147d12595d",
-      "size" : 9145998,
-      "starCount" : 0,
-      "subtitle" : "A simple yet useful app",
-      "version" : "0.2.9",
-      "versionDate" : "2021-11-24T17:03:22Z",
-      "versionDescription" : "Release 0.2.9",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
         "public.app-category.utilities"

@@ -203,12 +203,47 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 18617792,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/Encyclopedia-Galactica-iOS.ipa",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/Info.plist#ac5a979ff92664243af57e358eb7854936614643bd6a707f6e22f412bfc6111b",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "d7ff608fad3b32f62b2e09cccc58f14fab7a730f0c211ffd0dd6447ea93cd31d",
+      "size" : 9069317,
+      "starCount" : 0,
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.0.9",
+      "versionDate" : "2021-11-29T16:19:40Z",
+      "versionDescription" : "Release 0.0.9",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 18748808,
+      "coreSize" : 18617792,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica-iOS.ipa",

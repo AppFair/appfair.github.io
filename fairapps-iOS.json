@@ -210,7 +210,7 @@
       ],
       "coreSize" : 18601320,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.10/Encyclopedia-Galactica-iOS.ipa",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.10/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -470,38 +470,6 @@
       "version" : "0.1.19",
       "versionDate" : "2021-11-24T15:11:10Z",
       "versionDescription" : "Release 0.1.19",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Numeral-MXMMXVI",
-      "categories" : [
-        "public.app-category.business"
-      ],
-      "coreSize" : 12570896,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/Numeral-MXMMXVI-iOS.ipa",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/Numeral-MXMMXVI.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/Info.plist#ad461c8421910a131acd04cf2968f499672093534981767e443ce39688ad900d",
-      "name" : "Numeral MXMMXVI",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
-      ],
-      "sha256" : "63e685a292cfde1af4553220bcca67259bd76d41520f9b62ba8756b5bfb11854",
-      "size" : 6401027,
-      "starCount" : 0,
-      "subtitle" : "A business app for business-folk",
-      "version" : "0.0.13",
-      "versionDate" : "2021-11-24T14:44:16Z",
-      "versionDescription" : "Release 0.0.13",
       "watcherCount" : 0
     },
     {

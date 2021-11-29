@@ -209,7 +209,7 @@
       ],
       "coreSize" : 18601320,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.10/Encyclopedia-Galactica-macOS.zip",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.10/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -462,37 +462,6 @@
       "version" : "0.1.19",
       "versionDate" : "2021-11-24T15:11:10Z",
       "versionDescription" : "Release 0.1.19",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Numeral-MXMMXVI",
-      "categories" : [
-        "public.app-category.business"
-      ],
-      "coreSize" : 12570896,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/Numeral-MXMMXVI-macOS.zip",
-      "iconURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/Numeral-MXMMXVI.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/Info.plist#ad461c8421910a131acd04cf2968f499672093534981767e443ce39688ad900d",
-      "name" : "Numeral MXMMXVI",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
-      "screenshotURLs" : [
-        "https://github.com/Numeral-MXMMXVI/App/releases/download/0.0.13/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "f276f574326f49bd7f7944b831e3bb624f8517926c48032912f2c0be0f5d5b81",
-      "size" : 3000119,
-      "starCount" : 0,
-      "subtitle" : "A business app for business-folk",
-      "version" : "0.0.13",
-      "versionDate" : "2021-11-24T14:44:16Z",
-      "versionDescription" : "Release 0.0.13",
       "watcherCount" : 0
     },
     {

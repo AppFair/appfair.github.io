@@ -541,6 +541,38 @@
       "versionDate" : "2021-11-25T03:55:47Z",
       "versionDescription" : "Release 0.8.361",
       "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Visi-Calc",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "coreSize" : 12423312,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.15/Visi-Calc-iOS.ipa",
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.15/Visi-Calc.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A business app for business-folk",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.15/Info.plist#61dc4ee20386f09666e00025275e0d1aa030bc169c959a00508a296c0371c245",
+      "name" : "Visi Calc",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.15/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "screenshotURLs" : [
+        "https://github.com/Visi-Calc/App/releases/download/0.0.15/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Visi-Calc/App/releases/download/0.0.15/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "e9e904905516d293ac165c40c86a5276588169575d451d012e7449a50ef1470c",
+      "size" : 6346591,
+      "starCount" : 0,
+      "subtitle" : "A business app for business-folk",
+      "version" : "0.0.15",
+      "versionDate" : "2021-11-29T23:18:52Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Visi-Calc/App/compare/0.0.14...0.0.15",
+      "watcherCount" : 0
     }
   ],
   "identifier" : "appfair",

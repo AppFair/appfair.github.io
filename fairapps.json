@@ -207,14 +207,14 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 18617792,
+      "coreSize" : 18601320,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/Encyclopedia-Galactica.png",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.10/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.10/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/Info.plist#ac5a979ff92664243af57e358eb7854936614643bd6a707f6e22f412bfc6111b",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.10/Info.plist#dc5f9b0fa214aac948a0872c39228430edda1d8e6009b871879dbd2be5cbf0c8",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
         {
@@ -222,17 +222,17 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.10/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.9/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.10/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "eb8b5c589fc49b7ec699aa6ac30f33b42ddc6922d089931c5bf51acb2aede3f6",
-      "size" : 3716195,
+      "sha256" : "6ec87586bac194f4ece66883f2a92ba23d805c105fc2a864a706a621df8e8781",
+      "size" : 3715443,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.9",
-      "versionDate" : "2021-11-29T16:19:40Z",
-      "versionDescription" : "Release 0.0.9",
+      "version" : "0.0.10",
+      "versionDate" : "2021-11-29T22:44:40Z",
+      "versionDescription" : "Release 0.0.10",
       "watcherCount" : 0
     },
     {
@@ -241,7 +241,7 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 18617792,
+      "coreSize" : 18601320,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica-macOS.zip",

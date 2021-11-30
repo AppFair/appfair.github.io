@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 19549968,
+      "coreSize" : 19418872,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.24/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.24/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.25/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.25/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.24/Info.plist#ba39198035680463c07bac2433084757f366016df9b0150b177eeb69347517ec",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.25/Info.plist#11eb18bb800f59a074d42b581de1d31dac7a7a5bb803bc0dbf2e458eb362d194",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -25,18 +25,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.24/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.25/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "313bc8025160ccebb0632a950d1f9a2acced4f4c994692e7154d138d135da9f9",
-      "size" : 9678547,
+      "sha256" : "f9e8f8115397b016049e0007e871d6a1a4ba462689f89f4c95bd6ab9cba75067",
+      "size" : 9639920,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "1.1.24",
-      "versionDate" : "2021-11-27T02:39:00Z",
-      "versionDescription" : "Release 1.1.24",
+      "version" : "1.1.25",
+      "versionDate" : "2021-11-30T18:10:52Z",
+      "versionDescription" : "Release 1.1.25",
       "watcherCount" : 0
     },
     {
@@ -45,7 +45,7 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 19549968,
+      "coreSize" : 19418872,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.23/Bon-Mot-iOS.ipa",

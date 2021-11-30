@@ -62,12 +62,12 @@ App Fair apps are written in Swift and utilize a native `SwiftUI` user interface
 Apps target macOS 12 "Monterey" and Swift version 5.5, giving them access to modern Swift features like async/await.
 
 The distribution process for App Fair apps is instantaneous, automatic, and free.
-The only requirement is a GitHub account that is publicly associated with your `.edu` e-mail address, and a willingness to share your work freely with the rest of the world.
+The only requirement is a GitHub account that is publicly associated with an `.edu` e-mail address, along with a willingness to share your work freely with the rest of the world.
 No additional registration, sign-up, or approval is required in order to start developing and distributing apps for the App Fair.
 
 Apps are built, validated, and distributed using GitHub's free actions for open-source projects, and so there is never any cost associated with building and distributing your apps through the App Fair.
 
-App that are distributed through the App Fair can additionally be made available through any other channels available to the platform.
+App that are distributed through the App Fair can additionally be made available through any other channels available to the platform. For example, App Fair apps are automatically added to a `homebrew` "Cask" of apps, which enables them to be installed without the user needing to first install the App Fair catalog browser app.
 
 
 ### Intro Video

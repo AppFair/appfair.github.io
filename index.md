@@ -16,7 +16,7 @@ The App Fair catalog browser app is available for macOS Monterey.
 
 <img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
 
-## The App Fair for App Users
+## The App Fair for End Users
 
 From an end-user perspective, the **App Fair.app** catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
 
@@ -49,10 +49,10 @@ From there, you can launch the **App Fair.app** catalog browser application to s
  
 ### App Fair Usage
 
+<img align="right" width="50%" alt="App Fair Browser App Preferences" src="assets/app-fair-prefs.png" />
+
 Apps that are installed by **App Fair.app** are placed in `/Applications/App Fair/`.
 From there, they can be un-installed using the catalog app itself, or they can be removed using the standard macOS method of dragging the app icon into the trash.
-
-<img align="right" width="50%" alt="App Fair Browser App Preferences" src="assets/app-fair-prefs.png" />
 
 The App Fair catalog browser has preferences for the user's "Risk Exposure", which is a threshold of app permissions that will be presented to the user. Apps distributed through the App Fair are required to enumerate all the sensitive actions that they can perform, such as reading and writing files outside of the app's "sandbox", as well as accessing the internet or using the microphone or camera. 
 

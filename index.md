@@ -3,7 +3,7 @@ name: AppFair
 title: The App Fair
 ---
 
-<p align="center" style="background-image: #FFF url(assets/appfair-gallery.png) repeat center center;">
+<p align="center">
 <img align="center" width="120" alt="App Fair Icon for https://www.appfair.net" src="appfair-icon.svg" />
 </p>
 <p align="center">
@@ -17,7 +17,7 @@ App Fair apps use modern native frameworks and user-interface elements with a fo
 
 From an end-user perspective, the **App Fair.app** catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
 
-<img align="left" width="600" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
+<img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
 
 Apps installed through the **App Fair.app** application are built using the platform-native `SwiftUI` framework and compiled for both Intel and ARM processors, thereby enabling higher performance, lower memory consumption, and more efficient resource utilization than can be achieved with non-native cross-platform application frameworks.
 

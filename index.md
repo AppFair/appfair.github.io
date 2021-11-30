@@ -7,7 +7,7 @@ title: The App Fair
 <img align="center" width="120" alt="App Fair Icon for https://www.appfair.net" src="appfair-icon.svg" />
 </p>
 <p align="center">
-<h1>Welcome to the App Fair</h1>
+<h1 style="align: center;">Welcome to the App Fair</h1>
 </p>
 
 The App Fair is an independent app distribution platform for free and open-source macOS apps created by students and educators.
@@ -63,7 +63,7 @@ Apps are built, validated, and distributed using GitHub's free actions for open-
 
 ### Intro Video
 
-<iframe src="https://player.vimeo.com/video/642784328?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; min-height: 50px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/642784328?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 ## The App Fair fair-ground

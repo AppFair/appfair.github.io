@@ -884,15 +884,13 @@ Your app's binary package can be hosted as a direct download on your web site, w
 Note, however, that since the app is not "notarized" by default, any direct download will require the user to perform some manual steps in order to launch the app: on macOS, they must right-click (or command-click) on the `.app` file and select "Open…" and accept a warning dialog.
 The user must do this **twice** in order to run the app when it has been downloaded directly from a web site.
 
-<!--
 ### How can I monetize my app?
 
-Apps available through the **App Fair.app** catalog browser application are always free.
-Activating GitHub sponsorships will enable your account to accept financial contributions to your project through any of the supported funding model platforms.
+Apps available through the **App Fair.app** catalog browser application are always free to download and use.
+Activating GitHub sponsorships will enable your organization to accept financial contributions to your project.
 When sponsorships are enabled, your app's container will automatically add a Help menu link to the sponsorship service.
 
-For more information about enabling sponsorships for your app, see [Displaying a sponsor button in your repository](https://docs.github.com/en/github/administering-a-repository/managing-repository-settings/displaying-a-sponsor-button-in-your-repository).
--->
+For more information about enabling sponsorships for your organization, see [Setting up GitHub Sponsors for your organization](https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors/setting-up-github-sponsors-for-your-organization).
 
 ### How can I remove my app from the App Fair catalog?
 
@@ -921,11 +919,14 @@ The integration phase of the App Fair builds and packages all apps for both macO
 
 Side-loading the `.ipa` build artifacts is not well tested at this time.
 
-### Why do apps need to target both macOS and iOS?
+### How do I target either macOS or iOS instead of both?
 
-The integration phase of the App Fair process will build your app's fork for both macOS and iOS, even though they are currently only installable using homebrew or the macOS **App Fair.app** catalog browser application.
+The default app fork contains a cross-platform macOS and iOS app.
+For apps that want to support only one of those platforms, the
+`Info.plist` can be edited:
 
-All apps must be able to launch on both iOS and macOS, but they may have reduced functionality on either of the platforms.
+  * Removing the `UISupportedInterfaceOrientations` key will prevent iOS builds
+  * Removing the `LSUIPresentationMode` key will prevent macOS builds
 
 ### What are the target OS versions for App Fair applications?
 

@@ -62,7 +62,7 @@ Apps are built, validated, and distributed using GitHub's free actions for open-
 
 ### Intro Video
 
-<iframe src="https://player.vimeo.com/video/642784328?texttrack=en" width="960" height="540" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/642784328?texttrack=en" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 ## The App Fair fair-ground

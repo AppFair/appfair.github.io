@@ -4,8 +4,12 @@ title: The App Fair
 ---
 
 <p align="center">
-<img align="center" alt="App Fair Icon Gallery for https://www.appfair.net" src="appfair-gallery.png" />
+<img align="center" alt="App Fair Icon Gallery for https://www.appfair.net" src="assets/appfair-gallery.png" />
+</p>
+<p align="center">
 <img align="center" width="120" alt="App Fair Icon for https://www.appfair.net" src="appfair-icon.svg" />
+</p>
+<p align="center">
 <h1>Welcome to the App Fair</h1>
 </p>
 
@@ -62,7 +66,7 @@ Apps are built, validated, and distributed using GitHub's free actions for open-
 
 ### Intro Video
 
-<iframe src="https://player.vimeo.com/video/642784328?texttrack=en" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/642784328?texttrack=en" frameborder="0" width="90%" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 
 ## The App Fair fair-ground

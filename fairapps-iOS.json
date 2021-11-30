@@ -8,12 +8,12 @@
       ],
       "coreSize" : 19418872,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.26/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.26/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.27/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.27/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.26/Info.plist#ff7f831ffbd00c04e5a541ee0533250c35c3aa0c3c95b25f6fee453601e5ed6e",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.27/Info.plist#2f48a4e9191ccf5641caa433cd028e8aaed42d3400360d3e42abef1519c65a95",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -25,18 +25,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.26/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.27/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "0232777ffe6b127af5e40f29c708e02f042ae1b0dab3c7fe9381b3b824c60769",
-      "size" : 9639916,
+      "sha256" : "0f0ee158ee20a008e4960aa02e9f01e1a85df44c813c9ba18d64f1696c4eae70",
+      "size" : 9639930,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "1.1.26",
-      "versionDate" : "2021-11-30T20:58:03Z",
-      "versionDescription" : "Release 1.1.26",
+      "version" : "1.1.27",
+      "versionDate" : "2021-11-30T21:47:10Z",
+      "versionDescription" : "Release 1.1.27",
       "watcherCount" : 0
     },
     {
@@ -224,7 +224,7 @@
       ],
       "coreSize" : 18477416,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/Hear-Tell-iOS.ipa",
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/Hear-Tell.png",
       "issueCount" : 0,
@@ -259,7 +259,7 @@
       ],
       "coreSize" : 19661632,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Lottie-Motion-iOS.ipa",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Lottie-Motion.png",
       "issueCount" : 0,

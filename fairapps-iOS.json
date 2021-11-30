@@ -154,12 +154,12 @@
       ],
       "coreSize" : 18601320,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.11/Encyclopedia-Galactica-iOS.ipa",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.11/Encyclopedia-Galactica.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/Encyclopedia-Galactica-iOS.ipa",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.11/Info.plist#f17f1745e4f98b6c8c6ccb43a838af37abe0034a7acf6e32a3f38552ef6b6cf8",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/Info.plist#2589b48dc666041c735e6197e3b7d9a847c7d5abba1ea766ad5d283a653b7ef0",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
         {
@@ -167,18 +167,18 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.11/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.11/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.11/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "94d435606c517798b4491a69c7a888db192a7e45b7874e76bdba75f33ed06dd8",
-      "size" : 9064628,
+      "sha256" : "6aae3b4136bc4e88ea6890f02dcf87465175873bb74f7b561b92302f5e43d008",
+      "size" : 9064597,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.11",
-      "versionDate" : "2021-11-30T00:20:07Z",
-      "versionDescription" : "Release 0.0.11",
+      "version" : "0.0.12",
+      "versionDate" : "2021-11-30T20:58:11Z",
+      "versionDescription" : "Release 0.0.12",
       "watcherCount" : 0
     },
     {
@@ -425,28 +425,28 @@
       "coreSize" : 13234032,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.13/Pan-Opticon-iOS.ipa",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.13/Pan-Opticon.png",
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.14/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.14/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.13/Info.plist#99425280e3a1f298089e521f59694fb22f6ad96849cb918eeacc176822cb8a5e",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.14/Info.plist#8bf8def050d7e7eaac694adbae4fe78505b27a0a8ec5c4551a48b0a759566988",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.13/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.14/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Pan-Opticon/App/releases/download/0.0.13/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Pan-Opticon/App/releases/download/0.0.13/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.14/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.14/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "3034933646477929119d3e41b2e3356f43e825b2726334bfaab8a52973dfefa5",
-      "size" : 6822237,
+      "sha256" : "ec3f4e3ac07ac055c2a5f2b49c5ac31300f93c9ec1e2730d199accf1c8b98f58",
+      "size" : 6822248,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.0.13",
-      "versionDate" : "2021-11-30T12:24:25Z",
-      "versionDescription" : "Release 0.0.13",
+      "version" : "0.0.14",
+      "versionDate" : "2021-11-30T20:58:10Z",
+      "versionDescription" : "Release 0.0.14",
       "watcherCount" : 0
     },
     {
@@ -457,7 +457,7 @@
       ],
       "coreSize" : 24514088,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.367/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.367/Tune-Out.png",
       "issueCount" : 0,

@@ -65,7 +65,9 @@ The distribution process for App Fair apps is instantaneous, automatic, and free
 The only requirement is a GitHub account that is publicly associated with your `.edu` e-mail address, and a willingness to share your work freely with the rest of the world.
 No additional registration, sign-up, or approval is required in order to start developing and distributing apps for the App Fair.
 
-Apps are built, validated, and distributed using GitHub's free actions for open-source projects, and so there is no cost to build and distribute your apps on the App Fair.
+Apps are built, validated, and distributed using GitHub's free actions for open-source projects, and so there is never any cost associated with building and distributing your apps through the App Fair.
+
+App that are distributed through the App Fair can additionally be made available through any other channels available to the platform.
 
 
 ### Intro Video
@@ -88,11 +90,11 @@ The "Fork" and "Apply" parts are handled by you, the developer: a fork is create
 Once you enable GitHub actions for your fork, your app will be automatically built and released whenever you push a semantic version tag to your fork's repository.
 Since this fork is under the control of the developer, the fork is considered "untrusted", in that the app binary artifact that is built and released has no security or safety guarantees.
 
-To be included in the App Fair catalog (and thus be discoverable and installable in the the **App Fair.app** catalog browser app), the fork's release must be independently built and verified.
+In order to be included in the App Fair catalog (and thus be discoverable and installable in the the **App Fair.app** catalog browser app), the fork's release must be independently built and the results be verified as reproducible by the trusted base repository.
 This process is initiated by the fork's developer, who signals their desire to validate the release by creating a pull request (PR) from the fork's `/App.git` repository back to the base `/appfair/App.git` repository.
 
 The creation of the PR for the base `/appfair/App.git` repository will trigger the integrate process, which will verify and re-build the app's release in the trusted environment of the base fair-ground.
-Verification will guarantee that the resulting app binary is signed, sandboxed, and uses the hardened runtime.
+Verification will guarantee that the resulting app binary is signed, sandboxed, and uses the hardened runtime, and validates that the resulting built binary is identical to the version that is being released in the app's fork.
 It will also verify various required metadata properties in the `Info.plist`, such as the requirement that all security entitlements are given usage descriptions that will be communicated to end users before they can install the app.
 
 Once verification is completed, the fork's (untrusted) release artifact will be fetched and compared with the (trusted) binary that was built by the base fair-ground.

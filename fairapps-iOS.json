@@ -278,14 +278,14 @@
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
-      "coreSize" : 18493872,
+      "coreSize" : 18477416,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.12/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.12/Hear-Tell.png",
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.12/Info.plist#82132e4c7f409519d02b8baa07859b38894aa567948744120dc83ca40fa44714",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/Info.plist#2456551e9a0f74e375ee033f5b2afc939c5cce1dcf2f84d48d57f50d49dce162",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -293,18 +293,18 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.12/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Hear-Tell/App/releases/download/0.2.12/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Hear-Tell/App/releases/download/0.2.12/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Hear-Tell/App/releases/download/0.2.14/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
+        "https://github.com/Hear-Tell/App/releases/download/0.2.14/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
       ],
-      "sha256" : "c5511dabf881435adf587d943215884d199fcf65374ff0d754e7d6fec28ed073",
-      "size" : 9138563,
+      "sha256" : "3360f3da93eddcec36fb2229324c5ed07be1a204f9721b47b7f09ff7ebed867e",
+      "size" : 9131172,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.2.12",
-      "versionDate" : "2021-11-29T01:01:09Z",
-      "versionDescription" : "Release 0.2.12",
+      "version" : "0.2.14",
+      "versionDate" : "2021-11-30T00:09:30Z",
+      "versionDescription" : "Release 0.2.14",
       "watcherCount" : 0
     },
     {
@@ -548,30 +548,30 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 12423312,
+      "coreSize" : 33241736,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.15/Visi-Calc-iOS.ipa",
-      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.15/Visi-Calc.png",
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/Visi-Calc-iOS.ipa",
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/Visi-Calc.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.15/Info.plist#61dc4ee20386f09666e00025275e0d1aa030bc169c959a00508a296c0371c245",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/Info.plist#f3542307902eb363f3ce217aeb9da125ad5fc225bf7f0fb51508d23741c1f8cd",
       "name" : "Visi Calc",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.15/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
       "screenshotURLs" : [
-        "https://github.com/Visi-Calc/App/releases/download/0.0.15/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Visi-Calc/App/releases/download/0.0.15/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Visi-Calc/App/releases/download/0.0.17/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Visi-Calc/App/releases/download/0.0.17/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "e9e904905516d293ac165c40c86a5276588169575d451d012e7449a50ef1470c",
-      "size" : 6346591,
+      "sha256" : "d67c9cd31c223769a0e7e019beee4e18a1d60e3edfe8c1f16d49584557616f96",
+      "size" : 15057294,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.15",
-      "versionDate" : "2021-11-29T23:18:52Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Visi-Calc/App/compare/0.0.14...0.0.15",
+      "version" : "0.0.17",
+      "versionDate" : "2021-11-30T00:03:32Z",
+      "versionDescription" : "Release 0.0.17",
       "watcherCount" : 0
     }
   ],

@@ -47,11 +47,14 @@ bash -c "$(curl -fsSL https://appfair.net/install.sh)"
 Both of these commands will download the latest release zip and install it directly into your `/Applications/` folder.
 From there, you can launch the **App Fair.app** catalog browser application to start searching for apps to install.
  
+### App Fair Usage
+
 Apps that are installed by **App Fair.app** are placed in `/Applications/App Fair/`.
 From there, they can be un-installed using the catalog app itself, or they can be removed using the standard macOS method of dragging the app icon into the trash.
 
-The App Fair catalog browser has preferences for the user's "Risk Exposure", which is a threshold of app permissions that will be presented to the user. Apps distributed through the App Fair are required to enumerate all the sensitive actions that they can perform, such as reading and writing files outside of the app's "sandbox", as well as accessing the internet or using the microphone or camera. 
 <img align="right" width="50%" alt="App Fair Browser App Preferences" src="assets/app-fair-prefs.png" />
+
+The App Fair catalog browser has preferences for the user's "Risk Exposure", which is a threshold of app permissions that will be presented to the user. Apps distributed through the App Fair are required to enumerate all the sensitive actions that they can perform, such as reading and writing files outside of the app's "sandbox", as well as accessing the internet or using the microphone or camera. 
 
 ## The App Fair for App Developers
 

@@ -10,8 +10,9 @@ title: The App Fair
 <h1 style="text-align: center; font-family: system-ui;">Welcome to the App Fair</h1>
 </p>
 
-The App Fair is an independent app distribution platform for free and open-source macOS apps created by students and educators.
+The App Fair is an independent application distribution platform for free and open-source apps.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, accessibility and inclusiveness.
+The App Fair catalog browser app is available for macOS Monterey.
 
 <img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
 

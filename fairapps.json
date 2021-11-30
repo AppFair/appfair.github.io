@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 15647824,
+      "coreSize" : 15614408,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.239/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.239/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.241/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.241/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.239/Info.plist#6846683fea87acf9684502042d71aab45b0fc3d0ced294c5f5f20dec7acee79a",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.241/Info.plist#1d54009ee9f1e881f133456ba4d1d7e98c22c88b5662654ecb9131ea12117224",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,23 +37,23 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.239/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.241/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.239/screenshot_01-mac-dark-2418x1980.png#715f7a19f96f312dfa57e0687a1b58c73a10a980b98b6495098db1ace7ac8959",
-        "https://github.com/App-Fair/App/releases/download/0.6.239/screenshot_01-mac-light-2418x1980.png#182ae0a2b50a286916707b2f53b26716319ca35de55ca09bb0a6a260082e5786",
-        "https://github.com/App-Fair/App/releases/download/0.6.239/screenshot_02-mac-dark-2720x1876.png#7415ec32f03af98e673ef033a0bdb59bff2f568dfb38d7fbb5158620f8b0e7da",
-        "https://github.com/App-Fair/App/releases/download/0.6.239/screenshot_02-mac-light-2720x1876.png#300afe21d2656ab252b629c08d326446c3149f1919ebc465ecd58bc053b06885",
-        "https://github.com/App-Fair/App/releases/download/0.6.239/screenshot_03-mac-dark-1424x1462.png#06e47fbb6b2d9a3e770da61f5cf51e5e9c0965cd4c2c0105cc37199fc9b708c3",
-        "https://github.com/App-Fair/App/releases/download/0.6.239/screenshot_03-mac-light-1424x1462.png#e7af0030ebc2c2782fa18eca6433fe690fd65af83142ad857f8802240f63774c"
+        "https://github.com/App-Fair/App/releases/download/0.6.241/screenshot_01-mac-dark-2418x1980.png#715f7a19f96f312dfa57e0687a1b58c73a10a980b98b6495098db1ace7ac8959",
+        "https://github.com/App-Fair/App/releases/download/0.6.241/screenshot_01-mac-light-2418x1980.png#182ae0a2b50a286916707b2f53b26716319ca35de55ca09bb0a6a260082e5786",
+        "https://github.com/App-Fair/App/releases/download/0.6.241/screenshot_02-mac-dark-2720x1876.png#7415ec32f03af98e673ef033a0bdb59bff2f568dfb38d7fbb5158620f8b0e7da",
+        "https://github.com/App-Fair/App/releases/download/0.6.241/screenshot_02-mac-light-2720x1876.png#300afe21d2656ab252b629c08d326446c3149f1919ebc465ecd58bc053b06885",
+        "https://github.com/App-Fair/App/releases/download/0.6.241/screenshot_03-mac-dark-1424x1462.png#06e47fbb6b2d9a3e770da61f5cf51e5e9c0965cd4c2c0105cc37199fc9b708c3",
+        "https://github.com/App-Fair/App/releases/download/0.6.241/screenshot_03-mac-light-1424x1462.png#e7af0030ebc2c2782fa18eca6433fe690fd65af83142ad857f8802240f63774c"
       ],
-      "sha256" : "3dfbdc98738d43d9310adc78199faa142d80530feeeb81e5b950753d0f54faa4",
-      "size" : 3533637,
+      "sha256" : "5e3e6e0b09c1f4608358dd7d1da663af6f51b741fffcd0646bed6ab6aa96c0c7",
+      "size" : 3531575,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.239",
-      "versionDate" : "2021-11-29T02:09:37Z",
-      "versionDescription" : "Release 0.6.239",
+      "version" : "0.6.241",
+      "versionDate" : "2021-11-30T00:11:59Z",
+      "versionDescription" : "Release 0.6.241",
       "watcherCount" : 0
     },
     {
@@ -541,7 +541,7 @@
       ],
       "coreSize" : 33241736,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/Visi-Calc-macOS.zip",
       "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/Visi-Calc.png",
       "issueCount" : 0,

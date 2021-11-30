@@ -7,17 +7,17 @@ title: The App Fair
 <img align="center" width="120" alt="App Fair Icon for https://www.appfair.net" src="appfair-icon.svg" />
 </p>
 <p align="center">
-<h1 style="align: center;">Welcome to the App Fair</h1>
+<h1 style="text-align: center; font-family: system-ui;">Welcome to the App Fair</h1>
 </p>
 
 The App Fair is an independent app distribution platform for free and open-source macOS apps created by students and educators.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, accessibility and inclusiveness.
 
+<img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
+
 ## The App Fair for App Users
 
 From an end-user perspective, the **App Fair.app** catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
-
-<img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
 
 Apps installed through the **App Fair.app** application are built using the platform-native `SwiftUI` framework and compiled for both Intel and ARM processors, thereby enabling higher performance, lower memory consumption, and more efficient resource utilization than can be achieved with non-native cross-platform application frameworks.
 

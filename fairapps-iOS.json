@@ -154,7 +154,7 @@
       ],
       "coreSize" : 18601320,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/Encyclopedia-Galactica-iOS.ipa",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -225,11 +225,11 @@
       "coreSize" : 18477416,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/Hear-Tell.png",
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/Info.plist#d4d651b3bb12fd0e7aa09f44ac4ebf8ba3f7e1b678fd6ab67258ac65b202bd3d",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/Info.plist#51dfd40b95f24afb78d0cce0e70fd3354cd90edac99eb468f686316de8bbad3a",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -237,18 +237,18 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Hear-Tell/App/releases/download/0.2.19/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Hear-Tell/App/releases/download/0.2.19/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Hear-Tell/App/releases/download/0.2.20/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Hear-Tell/App/releases/download/0.2.20/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "ba27cd348706c5cdf9a76a410563627cc832f845e0229fd785f0743ac0c11068",
-      "size" : 9131107,
+      "sha256" : "05ce19d2e2d3cb8aa4fa8121729d0d24eb399e5c34993929174e3c038cbf7950",
+      "size" : 9131096,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.2.19",
-      "versionDate" : "2021-11-30T14:13:41Z",
-      "versionDescription" : "Release 0.2.19",
+      "version" : "0.2.20",
+      "versionDate" : "2021-11-30T20:58:21Z",
+      "versionDescription" : "Release 0.2.20",
       "watcherCount" : 0
     },
     {
@@ -459,7 +459,7 @@
       ],
       "coreSize" : 13234032,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.14/Pan-Opticon-iOS.ipa",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.14/Pan-Opticon.png",
       "issueCount" : 0,
@@ -564,7 +564,7 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 33241736,
+      "coreSize" : 11712592,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.29/Visi-Calc-iOS.ipa",

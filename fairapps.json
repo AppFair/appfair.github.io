@@ -8,12 +8,12 @@
       ],
       "coreSize" : 6237248,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.248/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.248/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.249/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.249/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.248/Info.plist#520681a1457c8307e6bbdabc9076e25b4e5f1fd36fc5145b7a383b653adaab7b",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.6.249/Info.plist#74017406c853c44c3c00d931ed7a7079366cd79649bfc55d52e4dfc1722ce8df",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,23 +37,23 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.248/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.6.249/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.6.248/screenshot_01-mac-dark-2418x1980.png#715f7a19f96f312dfa57e0687a1b58c73a10a980b98b6495098db1ace7ac8959",
-        "https://github.com/App-Fair/App/releases/download/0.6.248/screenshot_01-mac-light-2418x1980.png#182ae0a2b50a286916707b2f53b26716319ca35de55ca09bb0a6a260082e5786",
-        "https://github.com/App-Fair/App/releases/download/0.6.248/screenshot_02-mac-light-2720x1876.png#300afe21d2656ab252b629c08d326446c3149f1919ebc465ecd58bc053b06885",
-        "https://github.com/App-Fair/App/releases/download/0.6.248/screenshot_02-mac-dark-2720x1876.png#7415ec32f03af98e673ef033a0bdb59bff2f568dfb38d7fbb5158620f8b0e7da",
-        "https://github.com/App-Fair/App/releases/download/0.6.248/screenshot_03-mac-dark-1424x1462.png#06e47fbb6b2d9a3e770da61f5cf51e5e9c0965cd4c2c0105cc37199fc9b708c3",
-        "https://github.com/App-Fair/App/releases/download/0.6.248/screenshot_03-mac-light-1424x1462.png#e7af0030ebc2c2782fa18eca6433fe690fd65af83142ad857f8802240f63774c"
+        "https://github.com/App-Fair/App/releases/download/0.6.249/screenshot_01-mac-dark-2418x1980.png#715f7a19f96f312dfa57e0687a1b58c73a10a980b98b6495098db1ace7ac8959",
+        "https://github.com/App-Fair/App/releases/download/0.6.249/screenshot_01-mac-light-2418x1980.png#182ae0a2b50a286916707b2f53b26716319ca35de55ca09bb0a6a260082e5786",
+        "https://github.com/App-Fair/App/releases/download/0.6.249/screenshot_02-mac-dark-2720x1876.png#7415ec32f03af98e673ef033a0bdb59bff2f568dfb38d7fbb5158620f8b0e7da",
+        "https://github.com/App-Fair/App/releases/download/0.6.249/screenshot_02-mac-light-2720x1876.png#300afe21d2656ab252b629c08d326446c3149f1919ebc465ecd58bc053b06885",
+        "https://github.com/App-Fair/App/releases/download/0.6.249/screenshot_03-mac-dark-1424x1462.png#06e47fbb6b2d9a3e770da61f5cf51e5e9c0965cd4c2c0105cc37199fc9b708c3",
+        "https://github.com/App-Fair/App/releases/download/0.6.249/screenshot_03-mac-light-1424x1462.png#e7af0030ebc2c2782fa18eca6433fe690fd65af83142ad857f8802240f63774c"
       ],
-      "sha256" : "c626f1114947bf08742d2733f924b1cfa00fe18fb5e199ec18e6a6889aeea4bb",
-      "size" : 3531350,
+      "sha256" : "d91dad606c121989f3bf251c70cbc965eae3181e41ad1cfc1fe7cbd542bccc03",
+      "size" : 3531342,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.6.248",
-      "versionDate" : "2021-11-30T14:13:20Z",
-      "versionDescription" : "Release 0.6.248",
+      "version" : "0.6.249",
+      "versionDate" : "2021-11-30T15:18:01Z",
+      "versionDescription" : "Release 0.6.249",
       "watcherCount" : 0
     },
     {

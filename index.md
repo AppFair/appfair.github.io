@@ -3,9 +3,11 @@ name: AppFair
 title: The App Fair
 ---
 
-# Welcome to the App Fair
-
-<img align="right" width="120" alt="App Fair Icon for https://www.appfair.net" src="appfair-icon.svg" />
+<p align="center">
+<img align="center" alt="App Fair Icon Gallery for https://www.appfair.net" src="appfair-gallery.png" />
+<img align="center" width="120" alt="App Fair Icon for https://www.appfair.net" src="appfair-icon.svg" />
+<h1>Welcome to the App Fair</h1>
+</p>
 
 The App Fair is an independent app distribution platform for free and open-source macOS apps created by students and educators.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, accessibility and inclusiveness.

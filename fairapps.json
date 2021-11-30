@@ -209,7 +209,7 @@
       ],
       "coreSize" : 18601320,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.11/Encyclopedia-Galactica-macOS.zip",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.11/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -541,27 +541,27 @@
       ],
       "coreSize" : 33241736,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/Visi-Calc-macOS.zip",
-      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/Visi-Calc.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/Visi-Calc-macOS.zip",
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/Visi-Calc.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/Info.plist#f3542307902eb363f3ce217aeb9da125ad5fc225bf7f0fb51508d23741c1f8cd",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/Info.plist#352fb766f30e102831cc3b44178b67dfa95a9852d6dda1c67c3021af5d0d3f7a",
       "name" : "Visi Calc",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.17/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
       "screenshotURLs" : [
-        "https://github.com/Visi-Calc/App/releases/download/0.0.17/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Visi-Calc/App/releases/download/0.0.18/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "c8bdbff843e66fe0f72e71c743630ad23dad281d65d27d7955ccc3ca0535c081",
-      "size" : 5209484,
+      "sha256" : "ba36c9608e982d4fe687a114b1615eb750f8f571186692a371ce4418aef3c3a8",
+      "size" : 5209482,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.17",
-      "versionDate" : "2021-11-30T00:03:32Z",
-      "versionDescription" : "Release 0.0.17",
+      "version" : "0.0.18",
+      "versionDate" : "2021-11-30T00:19:51Z",
+      "versionDescription" : "Release 0.0.18",
       "watcherCount" : 0
     }
   ],

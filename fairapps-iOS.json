@@ -348,14 +348,14 @@
       "categories" : [
         "public.app-category.medical"
       ],
-      "coreSize" : 18896872,
+      "coreSize" : 18765760,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.31/Neural-Scry-iOS.ipa",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.31/Neural-Scry.png",
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.31/Info.plist#dbcab183cf7b266a093d69777db969dae83dd0c2b6d5235307d89128d6c33a6a",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Info.plist#a421f769dded57daecd204c43b832f67be550c0d6fc33348873887e2c86be24c",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -387,19 +387,19 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.31/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.31/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Neural-Scry/App/releases/download/0.0.31/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.32/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Neural-Scry/App/releases/download/0.0.32/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "4ecfdae03fe21d7fa6587d56cf82112acd466218a5b7a52bf62454310b3c11b0",
-      "size" : 9132248,
+      "sha256" : "14f9fcd9d70f2bff005c55cfac4b01b0274c5ffa63dff2a1ead5c89b05699dba",
+      "size" : 9094706,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
       "tintColor" : "FF0000",
-      "version" : "0.0.31",
-      "versionDate" : "2021-11-24T14:57:36Z",
-      "versionDescription" : "Release 0.0.31",
+      "version" : "0.0.32",
+      "versionDate" : "2021-11-30T00:28:00Z",
+      "versionDescription" : "Release 0.0.32",
       "watcherCount" : 0
     },
     {
@@ -550,7 +550,7 @@
       ],
       "coreSize" : 33241736,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/Visi-Calc-iOS.ipa",
       "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/Visi-Calc.png",
       "issueCount" : 0,

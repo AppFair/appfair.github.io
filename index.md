@@ -4,7 +4,7 @@ title: The App Fair
 ---
 
 <p align="center">
-<img align="center" width="120" alt="App Fair Icon for https://www.appfair.net" src="appfair-icon.svg" />
+<a href="https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip"><img align="center" width="120" alt="Download the App Fair for macOS Monterey" src="appfair-icon.svg" /></a>
 </p>
 <p align="center">
 <h1 style="text-align: center; font-family: system-ui;">Welcome to the App Fair</h1>
@@ -48,6 +48,9 @@ From there, you can launch the **App Fair.app** catalog browser application to s
  
 Apps that are installed by **App Fair.app** are placed in `/Applications/App Fair/`.
 From there, they can be un-installed using the catalog app itself, or they can be removed using the standard macOS method of dragging the app icon into the trash.
+
+The App Fair catalog browser has preferences for the user's "Risk Exposure", which is a threshold of app permissions that will be presented to the user. Apps distributed through the App Fair are required to enumerate all the sensitive actions that they can perform, such as reading and writing files outside of the app's "sandbox", as well as accessing the internet or using the microphone or camera. 
+<img align="right" width="50%" alt="App Fair Browser App Preferences" src="assets/app-fair-prefs.png" />
 
 ## The App Fair for App Developers
 

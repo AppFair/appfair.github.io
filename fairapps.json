@@ -345,7 +345,7 @@
       ],
       "coreSize" : 18765760,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Neural-Scry-macOS.zip",
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Neural-Scry.png",
       "issueCount" : 0,
@@ -542,26 +542,26 @@
       "coreSize" : 33241736,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/Visi-Calc-macOS.zip",
-      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/Visi-Calc.png",
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.19/Visi-Calc-macOS.zip",
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.19/Visi-Calc.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/Info.plist#352fb766f30e102831cc3b44178b67dfa95a9852d6dda1c67c3021af5d0d3f7a",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.19/Info.plist#725613fb22b09268dbcbeb6fa3659fc3ee51109d5afecfb8686f3b1033628cc8",
       "name" : "Visi Calc",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.18/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.19/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
       "screenshotURLs" : [
-        "https://github.com/Visi-Calc/App/releases/download/0.0.18/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Visi-Calc/App/releases/download/0.0.19/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "ba36c9608e982d4fe687a114b1615eb750f8f571186692a371ce4418aef3c3a8",
-      "size" : 5209482,
+      "sha256" : "0531e834192edf47833b79ce861a131d2974740c5f574d16c65bb1194a9d048a",
+      "size" : 5209478,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.18",
-      "versionDate" : "2021-11-30T00:19:51Z",
-      "versionDescription" : "Release 0.0.18",
+      "version" : "0.0.19",
+      "versionDate" : "2021-11-30T01:12:19Z",
+      "versionDescription" : "Release 0.0.19",
       "watcherCount" : 0
     }
   ],

@@ -8,7 +8,7 @@
       ],
       "coreSize" : 6237248,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.6.248/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.6.248/App-Fair.png",
       "issueCount" : 0,
@@ -369,11 +369,11 @@
       "coreSize" : 18477416,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/Hear-Tell.png",
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/Info.plist#2456551e9a0f74e375ee033f5b2afc939c5cce1dcf2f84d48d57f50d49dce162",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/Info.plist#d4d651b3bb12fd0e7aa09f44ac4ebf8ba3f7e1b678fd6ab67258ac65b202bd3d",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -381,17 +381,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Hear-Tell/App/releases/download/0.2.14/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Hear-Tell/App/releases/download/0.2.19/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "d500246fbb7a13e708d592a0bea3ae978dcb3f19583d467f208f04379125d878",
+      "sha256" : "c3907e553dddb063f0936ca4594d1688f79db60bf17bc4dc32906092556ee62a",
       "size" : 3691349,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.2.14",
-      "versionDate" : "2021-11-30T00:09:30Z",
-      "versionDescription" : "Release 0.2.14",
+      "version" : "0.2.19",
+      "versionDate" : "2021-11-30T14:13:41Z",
+      "versionDescription" : "Release 0.2.19",
       "watcherCount" : 0
     },
     {

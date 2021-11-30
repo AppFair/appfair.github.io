@@ -316,11 +316,11 @@
       "coreSize" : 18477416,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/Hear-Tell.png",
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/Info.plist#2456551e9a0f74e375ee033f5b2afc939c5cce1dcf2f84d48d57f50d49dce162",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/Info.plist#d4d651b3bb12fd0e7aa09f44ac4ebf8ba3f7e1b678fd6ab67258ac65b202bd3d",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -328,18 +328,18 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.14/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.19/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Hear-Tell/App/releases/download/0.2.14/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Hear-Tell/App/releases/download/0.2.14/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
+        "https://github.com/Hear-Tell/App/releases/download/0.2.19/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Hear-Tell/App/releases/download/0.2.19/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "3360f3da93eddcec36fb2229324c5ed07be1a204f9721b47b7f09ff7ebed867e",
-      "size" : 9131172,
+      "sha256" : "ba27cd348706c5cdf9a76a410563627cc832f845e0229fd785f0743ac0c11068",
+      "size" : 9131107,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.2.14",
-      "versionDate" : "2021-11-30T00:09:30Z",
-      "versionDescription" : "Release 0.2.14",
+      "version" : "0.2.19",
+      "versionDate" : "2021-11-30T14:13:41Z",
+      "versionDescription" : "Release 0.2.19",
       "watcherCount" : 0
     },
     {

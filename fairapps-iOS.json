@@ -385,12 +385,12 @@
       ],
       "coreSize" : 18765760,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Neural-Scry-iOS.ipa",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Neural-Scry.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.35/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.35/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Info.plist#a421f769dded57daecd204c43b832f67be550c0d6fc33348873887e2c86be24c",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.35/Info.plist#a155e8ff97dc73e6cdb9a9b11305f885eef262c19cda3f3a40286362b2ed7edc",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -422,19 +422,19 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.35/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
       "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.32/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Neural-Scry/App/releases/download/0.0.32/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Neural-Scry/App/releases/download/0.0.35/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Neural-Scry/App/releases/download/0.0.35/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "14f9fcd9d70f2bff005c55cfac4b01b0274c5ffa63dff2a1ead5c89b05699dba",
-      "size" : 9094706,
+      "sha256" : "b0a0d2237009354aa17bb779f9a5d84ef29fbc16c56e8a41244eb81d3476a647",
+      "size" : 9094757,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
       "tintColor" : "FF0000",
-      "version" : "0.0.32",
-      "versionDate" : "2021-11-30T00:28:00Z",
-      "versionDescription" : "Release 0.0.32",
+      "version" : "0.0.35",
+      "versionDate" : "2021-11-30T04:09:07Z",
+      "versionDescription" : "Release 0.0.35",
       "watcherCount" : 0
     },
     {
@@ -443,7 +443,7 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 12690664,
+      "coreSize" : 11593632,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.20/Next-Edit-iOS.ipa",
@@ -478,7 +478,7 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 12690664,
+      "coreSize" : 11593632,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.19/Next-Edit-iOS.ipa",

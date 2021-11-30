@@ -115,12 +115,12 @@
       ],
       "coreSize" : 18601320,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/Encyclopedia-Galactica-iOS.ipa",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/Encyclopedia-Galactica.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.13/Encyclopedia-Galactica-iOS.ipa",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.13/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/Info.plist#2589b48dc666041c735e6197e3b7d9a847c7d5abba1ea766ad5d283a653b7ef0",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.13/Info.plist#84d1968bbde0637186910db0736e9de0f57b3d2a2cc5f852791517c8660a19ff",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
         {
@@ -128,69 +128,34 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.13/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.12/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.13/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.13/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "6aae3b4136bc4e88ea6890f02dcf87465175873bb74f7b561b92302f5e43d008",
-      "size" : 9064597,
+      "sha256" : "508b83c9c9fce4185460f9a48b6c0035ce8ca7925ebf08e9dcc017673cc999d2",
+      "size" : 9064626,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.12",
-      "versionDate" : "2021-11-30T20:58:11Z",
-      "versionDescription" : "Release 0.0.12",
+      "version" : "0.0.13",
+      "versionDate" : "2021-11-30T22:12:09Z",
+      "versionDescription" : "Release 0.0.13",
       "watcherCount" : 0
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 18601320,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica-iOS.ipa",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Encyclopedia-Galactica.png",
-      "issueCount" : 0,
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/Info.plist#2b484a1a7bdb2287f45175c406d03c122ba4149d868653f3075ba357277b884e",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.8/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
-      ],
-      "sha256" : "ac9ff1bff9fea11ab748c8c95dad04631a5a89854d8cf231d89759e38667e3a7",
-      "size" : 9102794,
-      "starCount" : 0,
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.8",
-      "versionDate" : "2021-11-24T16:43:36Z",
-      "versionDescription" : "Release 0.0.8",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
       "coreSize" : 18477416,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/Hear-Tell.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.21/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.21/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/Info.plist#51dfd40b95f24afb78d0cce0e70fd3354cd90edac99eb468f686316de8bbad3a",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.21/Info.plist#33fea9f691884730fab292700bb07c446e09470ffe482e0f878a65ed173d72c6",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -198,18 +163,18 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.20/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.21/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Hear-Tell/App/releases/download/0.2.20/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Hear-Tell/App/releases/download/0.2.20/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Hear-Tell/App/releases/download/0.2.21/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
+        "https://github.com/Hear-Tell/App/releases/download/0.2.21/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
       ],
-      "sha256" : "05ce19d2e2d3cb8aa4fa8121729d0d24eb399e5c34993929174e3c038cbf7950",
-      "size" : 9131096,
+      "sha256" : "e06b758c483168f12b2c8453ad257303c9d6830e6de6aa90449652dde182d15e",
+      "size" : 9131140,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.2.20",
-      "versionDate" : "2021-11-30T20:58:21Z",
-      "versionDescription" : "Release 0.2.20",
+      "version" : "0.2.21",
+      "versionDate" : "2021-11-30T22:12:12Z",
+      "versionDescription" : "Release 0.2.21",
       "watcherCount" : 0
     },
     {
@@ -220,12 +185,12 @@
       ],
       "coreSize" : 19661632,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Lottie-Motion.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.21/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.21/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Info.plist#41dd82ef04e4157d07b1085e426ef160dd40c7c52d1ee5d03b1761efce7a6d8b",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.21/Info.plist#3781582439923857df88eeaae16b2e5c5dd19ef3866a4b3ed4a1fbf29e43e3e6",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -233,18 +198,18 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.21/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.20/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.20/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.21/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.21/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "2e77ba6a54e78537314306800e5801f0e754d190cc49f79be15817171271ddea",
-      "size" : 9876768,
+      "sha256" : "25d8215d18b9b353e50b8a00837f1a3b09a60d79f7be003a324322ea4cd1cb6e",
+      "size" : 9876752,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.20",
-      "versionDate" : "2021-11-30T20:58:16Z",
-      "versionDescription" : "Release 0.0.20",
+      "version" : "0.0.21",
+      "versionDate" : "2021-11-30T22:12:11Z",
+      "versionDescription" : "Release 0.0.21",
       "watcherCount" : 0
     },
     {
@@ -420,7 +385,7 @@
       ],
       "coreSize" : 13234032,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/Pan-Opticon-iOS.ipa",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/Pan-Opticon.png",
       "issueCount" : 0,

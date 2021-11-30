@@ -950,7 +950,9 @@ The integration phase of the App Fair builds and packages all apps for both macO
 
 ### Can the `.ipa` release artifacts be side-loaded on iOS devices?
 
+<a name="altore"/>
 Side-loading the `.ipa` build artifacts is not well tested at this time.
+The experimental iOS catalog is available at: [https://www.appfair.net/fairapps-iOS.json](altstore://source?url=https://www.appfair.net/fairapps-iOS.json).
 
 ### How do I target either macOS or iOS instead of both?
 

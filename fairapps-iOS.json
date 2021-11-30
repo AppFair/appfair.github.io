@@ -252,12 +252,47 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 19661632,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Lottie-Motion.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Info.plist#41dd82ef04e4157d07b1085e426ef160dd40c7c52d1ee5d03b1761efce7a6d8b",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.20/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.20/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "2e77ba6a54e78537314306800e5801f0e754d190cc49f79be15817171271ddea",
+      "size" : 9876768,
+      "starCount" : 0,
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.20",
+      "versionDate" : "2021-11-30T20:58:16Z",
+      "versionDescription" : "Release 0.0.20",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 19809400,
+      "coreSize" : 19661632,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.19/Lottie-Motion-iOS.ipa",

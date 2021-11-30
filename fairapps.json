@@ -360,12 +360,46 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 19661632,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Lottie-Motion.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/Info.plist#41dd82ef04e4157d07b1085e426ef160dd40c7c52d1ee5d03b1761efce7a6d8b",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.20/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.20/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+      ],
+      "sha256" : "760fb88ccb0fa592a24bbc01f4cd344a7a671647815f7932a2570158e1ed37c2",
+      "size" : 3800376,
+      "starCount" : 0,
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.20",
+      "versionDate" : "2021-11-30T20:58:16Z",
+      "versionDescription" : "Release 0.0.20",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 19809400,
+      "coreSize" : 19661632,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.19/Lottie-Motion-macOS.zip",

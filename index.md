@@ -23,39 +23,26 @@ And since they rely on the native frameworks of the system, they tend to be quit
 
 ### Getting Started
 
-The App Fair catalog browser app can be installed on macOS 12 "Monterey" using the system `Terminal.app`, which is located in the "/Applications/Utilities/" folder.
+The App Fair catalog browser app can be installed on macOS 12 "Monterey" by downloading [App-Fair-macOS.zip](https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip).
+The app can be dragged from the Downloads folder into the `/Applications` folder, from where it can be launched.
 
-For [homebrew](https://brew.sh) users, the simplest way to install the App Fair app is with the command:
+
+Alternatively, [homebrew](https://brew.sh) users can install the App Fair app with the command:
 
 ```
 brew install appfair/app/app-fair 
 ```
 
-Alternatively, the app can be installed fresh with the command:
+And for those who want a headless installation but do not have homebrew,
+the app can be downloaded and installed fresh with the command:
 
 ```
 bash -c "$(curl -fsSL https://appfair.net/install.sh)"
 ```
 
-
 Both of these commands will download the latest release zip and install it directly into your `/Applications/` folder.
 From there, you can launch the **App Fair.app** catalog browser application to start searching for apps to install.
  
-<!--
-As an alternative means of installation, you can download and unzip the [App-Fair-macOS.zip](https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip) archive directly.
-Since the `App Fair.app` app is not "notarized", you will need to first launch it by command-clicking the app and then selecting the "Open…" menu item.
-This will have to be done *twice*, both times accepting the system's default warnings about launching an un-notarized app.
-
-This process can be automated by installing the app using the following `Terminal.app` command:
-
-```
-ditto --noqtn -kx ~/Downloads/App-Fair-macOS.zip /Applications/
-```
-
-Note that once you have installed and launched `App Fair.app` the first time, subsequent updates will take place via the App Fair itself, and you will no longer need to perform any special steps to launch the app.
-
--->
-
 Apps that are installed by **App Fair.app** are placed in `/Applications/App Fair/`.
 From there, they can be un-installed using the catalog app itself, or they can be removed using the standard macOS method of dragging the app icon into the trash.
 

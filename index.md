@@ -4,9 +4,7 @@ title: The App Fair
 ---
 
 <p align="center">
-<a href="https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip"><img align="center" width="187" alt="Download the App Fair for macOS Monterey" src="appfair-icon.svg" /></a>
-</p>
-<p align="center">
+<a href="https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip"><img align="center" height="100" alt="Download the App Fair for macOS Monterey" src="appfair-icon.svg" /></a>
 <h1 style="text-align: center; font-family: system-ui;">Welcome to the App Fair</h1>
 </p>
 

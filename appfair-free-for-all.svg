@@ -22,7 +22,7 @@
     </linearGradient>
     <path id="carriage-path" d="M0,0c0,3.121,-2.533,5.653,-5.653,5.653l-22.613,0c-3.121,0,-5.654,-2.532,-5.654,-5.653l0,-22.613c0,-3.121,2.533,-5.653,5.654,-5.653l22.613,0c3.12,0,5.653,2.532,5.653,5.653l0,22.613zm-22.851,-5.653l11.307,0l0,-11.307l-11.307,0l0,11.307z"/>
   </defs>
-  <g fill="none" transform="translate(1 1)">
+  <g fill="none" transform="translate(30 1)">
     <g transform="translate(43 50)">
         <g>
           <g id="rotating-carriage" transform="translate(152,147)">

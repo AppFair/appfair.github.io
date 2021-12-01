@@ -8,12 +8,12 @@
       ],
       "coreSize" : 19418872,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.28/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.28/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.29/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.29/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.28/Info.plist#8c76839ecfb32ae8d7b38b3d0e98c50f5154d9fa9c8a43ce019645f4484e777d",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.29/Info.plist#198e6aa0fd56d20792a4645519a15c533b047a2d7ece51bfb615615f8392b107",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -25,18 +25,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.28/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.29/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "abdebad12c28305d8973fb3e1652d726a30462cbe2362227df46089faa9543b7",
-      "size" : 9639943,
+      "sha256" : "f130dee0a96adc1ccbab48281d2fb779514e15a929ba14e9da4af92fda5ec7a1",
+      "size" : 9639942,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "1.1.28",
-      "versionDate" : "2021-11-30T22:01:10Z",
-      "versionDescription" : "Release 1.1.28",
+      "version" : "1.1.29",
+      "versionDate" : "2021-12-01T04:21:17Z",
+      "versionDescription" : "Release 1.1.29",
       "watcherCount" : 0
     },
     {

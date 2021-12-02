@@ -116,11 +116,11 @@
       "coreSize" : 18601376,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/Encyclopedia-Galactica-iOS.ipa",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/Encyclopedia-Galactica.png",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/Encyclopedia-Galactica-iOS.ipa",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/Info.plist#1a791ce1362c0df95dc8d50a4cdf802518ec4dfbe9b0b9226ec1184e657c7ec8",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/Info.plist#708873fcec615ec61d824295071f9e9ba75fcca11f4ae1dabded082dab208be8",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
         {
@@ -128,18 +128,18 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "7b0cbdff5b740f16bfb909c33d25215fd702f139f969c20f08af14ac51508228",
-      "size" : 9067005,
+      "sha256" : "1d87847bd0844c165c65f1fb64c4d4dea32caef49e1ed87b43eedcc8aa3aa503",
+      "size" : 9067024,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.21",
-      "versionDate" : "2021-12-01T23:31:52Z",
-      "versionDescription" : "Release 0.0.21",
+      "version" : "0.0.22",
+      "versionDate" : "2021-12-02T00:08:20Z",
+      "versionDescription" : "Release 0.0.22",
       "watcherCount" : 0
     },
     {

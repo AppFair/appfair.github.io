@@ -171,11 +171,11 @@
       "coreSize" : 18601376,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/Encyclopedia-Galactica.png",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/Info.plist#1a791ce1362c0df95dc8d50a4cdf802518ec4dfbe9b0b9226ec1184e657c7ec8",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/Info.plist#708873fcec615ec61d824295071f9e9ba75fcca11f4ae1dabded082dab208be8",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
         {
@@ -183,17 +183,17 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.21/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "b16fce2c5d3f5156f62ce333295719e77bb0ca85d06933c7440c2ff1c6f46646",
-      "size" : 3716228,
+      "sha256" : "8a3db0fc6321aa48443118374fb5e1c9e7fa6313de344e42da8bd5868a939db8",
+      "size" : 3716226,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.21",
-      "versionDate" : "2021-12-01T23:31:52Z",
-      "versionDescription" : "Release 0.0.21",
+      "version" : "0.0.22",
+      "versionDate" : "2021-12-02T00:08:20Z",
+      "versionDescription" : "Release 0.0.22",
       "watcherCount" : 0
     },
     {

@@ -578,7 +578,7 @@ The App Fair integration process requires that all software be hardened and sand
 ### Source Transparency
 
 The App Fair's `integrate-release` build process is automatic; there is no individual review of apps when they are initially submitted, nor is there any manual review process for update releases.
-This allows the release and update processes to be free of delays and keeps the catalog unencumbered by subjective and inconsistent reviewer biases.
+This allows the release and update processes to be free of delays and keeps the catalog unencumbered by the subjective judgements of human reviewers.
 It also precludes the possibility of any pre-distribution "gate-keeping" to enforce content or policy.
 
 The App Fair instead provides post-distribution accountability by requiring that the source code for the entire app be available to the build process and that it be hosted in publicly-available forks of the base GitHub repository.
@@ -618,7 +618,7 @@ For this reason, it is the creator of the PR's commit that is considered to be t
 ### Release Artifact Scanning
 
 In addition to protections that may be provided by GitHub's own source and binary artifact scanning, the `integrate-release` phase performs virus and malware scanning on released artifacts before it will issue a `fairseal`.
-This provides an additional pre-publication line of defense against any malicious code manages to get built into the release artifacts.
+This provides an additional pre-publication line of defense against any malicious payloads that may manage to get bundled in with the release artifacts.
 
 Along with these preventative layers of protection, macOS itself provides multiple independent remedial protections against malicious binaries:
 

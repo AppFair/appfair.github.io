@@ -77,8 +77,10 @@ App that are distributed through the App Fair can additionally be made available
 
 ## The App Fair fair-ground
 
-The "fair-ground" is the name for the autonomous cataloging service that acts as the reference for app distribution. It handles organization verification, app build validation, and cataloging of all the verified apps.
-The "App Fair" is one instance of a fair-ground, and is implemented as a set of GitHub repositories, actions, and policies for cataloging the build artifacts of the app forks.
+The "fair-ground" is the name for the autonomous cataloging service that indexes the releases of forks of the base repository.
+It handles organization verification, app build validation, and cataloging of all the verified apps.
+
+The "App Fair" is the reference implementation of the fair-ground system, and is implemented as a set of GitHub repositories, workflows, and policies for cataloging the build artifacts of the app forks.
 The configuration for the App Fair is defined primarily in the [appfair/App.git](https://github.com/appfair/App.git) repository, which additionally acts as the base repository to be forked by app developers.
 
 ### Introduction: the FAIR process

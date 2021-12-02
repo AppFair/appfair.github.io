@@ -143,12 +143,47 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hear-Tell",
+      "categories" : [
+        "public.app-category.healthcare-fitness"
+      ],
+      "coreSize" : 18477464,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.22/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.22/Hear-Tell.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Identify ambient sounds.",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.22/Info.plist#c4d6ac39cd5ec452fb632f9d0dd16adb16f3a14c1718d74d89098d8f4ff07040",
+      "name" : "Hear Tell",
+      "permissions" : [
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "The microphone is used to process and identify ambient sounds."
+        }
+      ],
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.22/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "screenshotURLs" : [
+        "https://github.com/Hear-Tell/App/releases/download/0.2.22/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Hear-Tell/App/releases/download/0.2.22/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+      ],
+      "sha256" : "1c9ba4ec62005d5e7b5295b5ec9a95aad98250d059d9aab1b2df0b198b1b979f",
+      "size" : 9133661,
+      "starCount" : 0,
+      "subtitle" : "Identify ambient sounds.",
+      "version" : "0.2.22",
+      "versionDate" : "2021-12-02T01:17:17Z",
+      "versionDescription" : "Release 0.2.22",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
-      "coreSize" : 18477416,
+      "coreSize" : 18477464,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.21/Hear-Tell-iOS.ipa",
@@ -420,7 +455,7 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 11712592,
+      "coreSize" : 11812080,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.29/Visi-Calc-iOS.ipa",

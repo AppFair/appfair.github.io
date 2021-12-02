@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 19418872,
+      "coreSize" : 19418920,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.29/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.29/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.30/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.30/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.29/Info.plist#198e6aa0fd56d20792a4645519a15c533b047a2d7ece51bfb615615f8392b107",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.30/Info.plist#2d9c59a5093511bea2ad475c7944fb4522a2ba48b8cb60dba9b99f69bc50ba55",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -25,18 +25,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.29/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/1.1.30/README.md#13ece5f54c7e8ae16e87c8765e29841d430fc1117a3ae9824b78a5ab2b262cd8",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f130dee0a96adc1ccbab48281d2fb779514e15a929ba14e9da4af92fda5ec7a1",
-      "size" : 9639942,
+      "sha256" : "a158b905461124aeae8a087f727c5e3534e80f9858944033d164443f4d23ca8f",
+      "size" : 9642660,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "1.1.29",
-      "versionDate" : "2021-12-01T04:21:17Z",
-      "versionDescription" : "Release 1.1.29",
+      "version" : "1.1.30",
+      "versionDate" : "2021-12-02T16:58:13Z",
+      "versionDescription" : "Release 1.1.30",
       "watcherCount" : 0
     },
     {

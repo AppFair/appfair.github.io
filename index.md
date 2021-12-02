@@ -582,11 +582,12 @@ It also precludes the possibility of any pre-distribution "gate-keeping" to enfo
 The App Fair instead provides post-distribution accountability by requiring that the source code for the entire app be available to the build process and that it be hosted in publicly-available forks of the base GitHub repository.
 For any release in the App Fair catalog, the complete source code is available for inspection, review, and analysis by the entire world.
 This access enables the security community to use all its resources to identify, isolate, and mitigate badly-behaved apps.
+
 In addition, a requirement that all the code be hosted in publicly-available Git repositories means that tools like [code scanning](https://docs.github.com/en/code-security/secure-coding/automatically-scanning-your-code-for-vulnerabilities-and-errors/about-code-scanning) can be used to identify security vulnerabilities in the app or any of the frameworks it embeds.
 
 ### Source Accountability
 
-The App Fair's `integrate-release` build process signs the release's binary artifacts with an ad-hoc code signing certificate.
+The App Fair's build process signs the release's binary artifacts with an ad-hoc code signing certificate.
 While this satisfies the policy requirements of certain platforms and provides some protection against tampering, this ad-hoc signature itself does not confer any useful identifying information.
 The signature is essentially an anonymous seal on the binary placed on it by the `integrate-release` build phases.
 
@@ -612,6 +613,16 @@ Note that only the commit that creates or updates the `integrate` PR is required
 Commits to the fork's repository itself, or to any third-party dependency repositories, do not need to be signed (although it is always encouraged). 
 For this reason, it is the creator of the PR's commit that is considered to be the "author" of the app in terms of validation and accountability.
 
+### Release Artifact Scanning
+
+In addition to protections that may be provided by GitHub's own source and binary artifact scanning, the `integrate-release` phase performs virus and malware scanning on released artifacts before it will issue a `fairseal`.
+This provides an additional pre-publication line of defense against any malicious code manages to get built into the release artifacts.
+
+Along with these preventative layers of protection, macOS itself provides multiple independent remedial protections agains malicious binaries:
+
+  * built-in antivirus technology called "XProtect" performs signature-based detection of malware using a database that is updated regularly with signatures of newly-identified malware infections and strains
+
+  * the "Malware Removal Tool" (MRT) process remediates infections based on automatic updates of system data files and security information. The MRT removes malware upon receiving updated information, and it continues to check for infections on restart and login.
 
 
 # Troubleshooting and Frequently Asked Questions

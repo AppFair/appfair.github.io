@@ -205,11 +205,11 @@
       "coreSize" : 18477464,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.22/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.22/Hear-Tell.png",
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.23/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.23/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.22/Info.plist#c4d6ac39cd5ec452fb632f9d0dd16adb16f3a14c1718d74d89098d8f4ff07040",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.23/Info.plist#395df20d3a60a9eef03430dc5e712c6b35036c20da60650e101c0433a44bc640",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -217,17 +217,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.22/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.23/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Hear-Tell/App/releases/download/0.2.22/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Hear-Tell/App/releases/download/0.2.23/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "44361cb6532b76771b2ab4c4c793497b7c64f6f8644e1f74530660af14d8d1de",
-      "size" : 3692438,
+      "sha256" : "3339b9651e7f2c6f5423ee6fecfe3f7bad0e5fa6fa30311bbdd3096cd67ec316",
+      "size" : 3692440,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.2.22",
-      "versionDate" : "2021-12-02T01:17:17Z",
-      "versionDescription" : "Release 0.2.22",
+      "version" : "0.2.23",
+      "versionDate" : "2021-12-02T15:27:29Z",
+      "versionDescription" : "Release 0.2.23",
       "watcherCount" : 0
     },
     {

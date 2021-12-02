@@ -618,7 +618,7 @@ For this reason, it is the creator of the PR's commit that is considered to be t
 In addition to protections that may be provided by GitHub's own source and binary artifact scanning, the `integrate-release` phase performs virus and malware scanning on released artifacts before it will issue a `fairseal`.
 This provides an additional pre-publication line of defense against any malicious code manages to get built into the release artifacts.
 
-Along with these preventative layers of protection, macOS itself provides multiple independent remedial protections agains malicious binaries:
+Along with these preventative layers of protection, macOS itself provides multiple independent remedial protections against malicious binaries:
 
   * built-in antivirus technology called "XProtect" performs signature-based detection of malware using a database that is updated regularly with signatures of newly-identified malware infections and strains
 
@@ -1184,7 +1184,7 @@ You can simply bump the semantic release `CFBundleShortVersionString` property o
 App Fair apps are sandboxed, which prevents them from accessing files that are not explicitly granted authorization from the user.
 This helps to contain any damage that may be caused by a malicious (or merely poorly-written) application.
 
-Along with these preventative layers of protection, the underlying system also provides multiple independent remedial protections agains bad actors, regardless of the signing or notarization status of the the app:
+Along with these preventative layers of protection, the underlying system also provides multiple independent remedial protections against bad actors, regardless of the signing or notarization status of the the app:
 
   * built-in antivirus technology called "XProtect" performs signature-based detection of malware using a database that is updated regularly with signatures of newly-identified malware infections and strains
 

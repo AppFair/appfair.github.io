@@ -143,7 +143,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [
         "public.app-category.healthcare-fitness"
@@ -175,41 +175,6 @@
       "version" : "0.2.22",
       "versionDate" : "2021-12-02T01:17:17Z",
       "versionDescription" : "Release 0.2.22",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hear-Tell",
-      "categories" : [
-        "public.app-category.healthcare-fitness"
-      ],
-      "coreSize" : 18477464,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.21/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.21/Hear-Tell.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.21/Info.plist#33fea9f691884730fab292700bb07c446e09470ffe482e0f878a65ed173d72c6",
-      "name" : "Hear Tell",
-      "permissions" : [
-        {
-          "type" : "device.microphone",
-          "usageDescription" : "The microphone is used to process and identify ambient sounds."
-        }
-      ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.21/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Hear-Tell/App/releases/download/0.2.21/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Hear-Tell/App/releases/download/0.2.21/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
-      ],
-      "sha256" : "e06b758c483168f12b2c8453ad257303c9d6830e6de6aa90449652dde182d15e",
-      "size" : 9131140,
-      "starCount" : 0,
-      "subtitle" : "Identify ambient sounds.",
-      "version" : "0.2.21",
-      "versionDate" : "2021-11-30T22:12:12Z",
-      "versionDescription" : "Release 0.2.21",
       "watcherCount" : 0
     },
     {

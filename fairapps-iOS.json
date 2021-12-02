@@ -313,31 +313,31 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13234032,
+      "coreSize" : 13234080,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/Pan-Opticon-iOS.ipa",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/Pan-Opticon.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.16/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.16/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/Info.plist#e9315bdc521405cec9ded1f900c1d89ea2b73e6a8262113c5f05e15b8328ea3e",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.16/Info.plist#0a4c87ed54deb87158db9bf32c5ef55747c7a0b4c99d68e9864e36a5f2a40e9e",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.16/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Pan-Opticon/App/releases/download/0.0.15/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Pan-Opticon/App/releases/download/0.0.15/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.16/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.16/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
       ],
-      "sha256" : "80f7359eb7514bc0bed3d8e34b14e29fbddac8ebdb7c4ac0d92141e7dd4015aa",
-      "size" : 6822256,
+      "sha256" : "52506bbcecd44c3a6dab1c98bfcd16a16d3bdc8566334b6069a36c4f94cb347c",
+      "size" : 6825625,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.0.15",
-      "versionDate" : "2021-11-30T22:12:07Z",
-      "versionDescription" : "Release 0.0.15",
+      "version" : "0.0.16",
+      "versionDate" : "2021-12-02T00:10:23Z",
+      "versionDescription" : "Release 0.0.16",
       "watcherCount" : 0
     },
     {

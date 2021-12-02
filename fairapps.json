@@ -363,30 +363,30 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13234032,
+      "coreSize" : 13234080,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/Pan-Opticon-macOS.zip",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/Pan-Opticon.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.16/Pan-Opticon-macOS.zip",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.16/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/Info.plist#e9315bdc521405cec9ded1f900c1d89ea2b73e6a8262113c5f05e15b8328ea3e",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.16/Info.plist#0a4c87ed54deb87158db9bf32c5ef55747c7a0b4c99d68e9864e36a5f2a40e9e",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.15/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.0.16/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
       "screenshotURLs" : [
-        "https://github.com/Pan-Opticon/App/releases/download/0.0.15/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+        "https://github.com/Pan-Opticon/App/releases/download/0.0.16/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
       ],
-      "sha256" : "3c1ea83eeef9180fa7b6a4df97d5eef4d35b07d12d07f8e4f6d8f2f558dcc46b",
-      "size" : 3177402,
+      "sha256" : "d199950a0ce5138e0cbe259179ee34feaafabdd5fe9a9890ba46c9c82a32f3c7",
+      "size" : 3178160,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.0.15",
-      "versionDate" : "2021-11-30T22:12:07Z",
-      "versionDescription" : "Release 0.0.15",
+      "version" : "0.0.16",
+      "versionDate" : "2021-12-02T00:10:23Z",
+      "versionDescription" : "Release 0.0.16",
       "watcherCount" : 0
     },
     {

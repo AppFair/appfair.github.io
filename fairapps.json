@@ -64,12 +64,12 @@
       ],
       "coreSize" : 19205592,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.13/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.13/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.14/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.14/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.13/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.14/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,17 +81,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.13/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.14/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.13/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+        "https://github.com/Bon-Mot/App/releases/download/0.2.14/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
       ],
-      "sha256" : "89d5a58b2a709f7733648a77a410ad01b0a333ac573a9d1c68d77682f6b4c587",
-      "size" : 3145371,
+      "sha256" : "2aa4be57d829a126c3133022439ee4fd0845e0b63a6dbc8112e7a268800bfb70",
+      "size" : 3147806,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
-      "version" : "0.2.13",
-      "versionDate" : "2021-12-04T02:21:10Z",
-      "versionDescription" : "Release 0.2.13",
+      "version" : "0.2.14",
+      "versionDate" : "2021-12-04T02:38:33Z",
+      "versionDescription" : "Release 0.2.14",
       "watcherCount" : 0
     },
     {

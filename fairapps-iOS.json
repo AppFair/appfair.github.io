@@ -8,7 +8,7 @@
       ],
       "coreSize" : 15492568,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.1/App-Fair-iOS.ipa",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.1/App-Fair.png",
       "issueCount" : 0,
@@ -320,6 +320,40 @@
       "version" : "0.0.45",
       "versionDate" : "2021-12-04T02:37:55Z",
       "versionDescription" : "Release 0.0.45",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 12294664,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "21801548dfd2d645eec2ef5eec79a73ba646c72c22ed3b851780a9d541a02e70",
+      "size" : 5830416,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.3",
+      "versionDate" : "2021-12-04T03:19:27Z",
+      "versionDescription" : "Release 0.4.3",
       "watcherCount" : 0
     },
     {

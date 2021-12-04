@@ -8,7 +8,7 @@
       ],
       "coreSize" : 15492568,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.1/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.1/App-Fair.png",
       "issueCount" : 0,
@@ -268,14 +268,14 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 11593680,
+      "coreSize" : 12294664,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.1.28/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.1.28/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.1.28/Info.plist#f02d2824da8f31a9414f6a317f789afe77f7ae6b11fc0f87179a05978a1dab65",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -283,17 +283,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.1.28/README.md#04e07c2c047eee22fce6b248ad21e95be01447030e680fb52f9bfa683fbd0c60",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.1.28/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+
       ],
-      "sha256" : "8cb9fb08ddedcfb3d04ab53dca86b266435ed60757a9764ef2f06d354bfc5985",
-      "size" : 7292103,
+      "sha256" : "42428af40abdbc3102b277a6ebb74f675ae47e564fa5d038551330036cf530c7",
+      "size" : 6778267,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.1.28",
-      "versionDate" : "2021-12-02T13:59:22Z",
-      "versionDescription" : "Release 0.1.28",
+      "version" : "0.4.3",
+      "versionDate" : "2021-12-04T03:19:27Z",
+      "versionDescription" : "Release 0.4.3",
       "watcherCount" : 0
     },
     {

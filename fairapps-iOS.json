@@ -168,7 +168,7 @@
       ],
       "coreSize" : 18399096,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.24/Encyclopedia-Galactica-iOS.ipa",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.24/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -386,6 +386,40 @@
       "version" : "0.0.45",
       "versionDate" : "2021-12-04T02:37:55Z",
       "versionDescription" : "Release 0.0.45",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 12294664,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "f859a04b0f45a797f90824b6b2757057bd3bb8e4d9d55310309ed436aeeb351f",
+      "size" : 5830428,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.4",
+      "versionDate" : "2021-12-04T14:58:12Z",
+      "versionDescription" : "Release 0.4.4",
       "watcherCount" : 0
     },
     {

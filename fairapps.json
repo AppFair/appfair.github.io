@@ -167,7 +167,7 @@
       ],
       "coreSize" : 18399096,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.24/Encyclopedia-Galactica-macOS.zip",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.24/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -235,7 +235,7 @@
       ],
       "coreSize" : 18275288,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.3/Hear-Tell-macOS.zip",
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.3/Hear-Tell.png",
       "issueCount" : 0,
@@ -327,6 +327,40 @@
       "version" : "0.0.26",
       "versionDate" : "2021-12-04T03:36:58Z",
       "versionDescription" : "Release 0.0.26",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 12294664,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "1e8b9bcf9319e40cfb50b5e56789165d84e655476812843c895cfde4c3d0d667",
+      "size" : 6778586,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.4",
+      "versionDate" : "2021-12-04T14:58:12Z",
+      "versionDescription" : "Release 0.4.4",
       "watcherCount" : 0
     },
     {

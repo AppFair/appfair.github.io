@@ -166,8 +166,8 @@ The `/App-Name/App.git` repository is structured as a standard Swift package and
 In addition, at the top level of the repository, there are `Xcode`-specific project files that describe the metadata, build rules, assets, and permissions for the project:
 
   * `App.xcworkspace` – Xcode workspace file for running and debugging your app
-  * `project.xcodeproj` – internal project file; you should not open this directly, but instead work with `App.xcworkspace`
   * `AppFairApp.xcconfig` – build-time metadata about your app containing the name, version and build numbers
+  * `project.xcodeproj` – internal project file; you should not open this directly, but instead work with `App.xcworkspace`
   * `Info.plist` – runtime metadata about your app containing the information about what files and URL schemes it can handle
   * `Sandbox.entitlements` – permissions that should be granted to your app
   * `Assets.xcassets` – the app's icon and tint color definition (auto-generated when left un-configured)
@@ -178,9 +178,11 @@ It will be best not to make changes to the project files themselves, since none 
 Specifically, your build must not rely on any script build phases that you add to the project files since these scripts will not be run during `I-R`.
 
 When adding project files, they should be added directly to the `App` Swift package's `Sources/App/` folder or a sub-folder that you create.
+These source files will automatically be incorporated into the Xcode project, so there is no need to add the sources files to the project itself; doing so may result in built errors.
+
 Localizable resources (such as `.strings` files containing translations of your app into different languages) should be placed beneath `Sources/App/Resources/`, which is the folder that will be pre-processed and flattened as part of the build process.
 Resource files that need to retain their directory structure should be instead placed in the `Sources/App/Bundle/`.
-These resource bundles will be available at runtime by referencing the `Foundation.Bundle.module` accessor, and then using standard `Bundle` API to load resources. 
+These resource bundles will be available at runtime by referencing the `Foundation.Bundle.module` accessor, and then using standard `Bundle` API to load resources and localize strings.
 
 ### Managing dependencies in your `/App-Name/App.git` fork
 
@@ -1230,7 +1232,7 @@ This limitation is based on [GitHub's API rate limit](https://docs.github.com/en
 Once you submit your PR your `/App-Name/App.git` fork ([/appfair/App/pulls](https://github.com/appfair/App/pulls)), the App Fair's `integrate-release` process is initiated with an action: [/appfair/App/actions](https://github.com/appfair/App/actions).
 This process verifies, builds, and tests your app using an action that is outside of your control.
 This means that care must be taken to keep the build process working as expected.
-Notably, you should not make changes to the template file `Sources/App/AppMai.swift` (where modifications are explicitly prohibited), nor should you make major changes to the Xcode project files (since any changes will be ignored by the `integrate` build process).
+Notably, you should not make changes to the template file `Sources/App/AppMain.swift` (where modifications are explicitly prohibited), nor should you make major changes to the Xcode project files (since `integrate` process restricts certain alterations to the base template `project.xcodeproj`).
 
 When a failure occurs in the `integrate-release` phases, you will typically get an e-mail (contingent on your GitHub notification settings).
 The first place you should look is at the log for the [/appfair/App/actions](https://github.com/appfair/App/actions) that corresponds to your pull request.

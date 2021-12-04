@@ -8,12 +8,12 @@
       ],
       "coreSize" : 15492568,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.1/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.1/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.2/App-Fair-iOS.ipa",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.2/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.1/Info.plist#f2414147186581f63dde10f09e150639af2b328cb31ae550d15501bdf8af4ec1",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.2/Info.plist#f2414147186581f63dde10f09e150639af2b328cb31ae550d15501bdf8af4ec1",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,22 +37,22 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.1/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.2/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.1/screenshot_01-iphone-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.7.1/screenshot_02-iphone-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
-        "https://github.com/App-Fair/App/releases/download/0.7.1/screenshot_03-iphone-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
-        "https://github.com/App-Fair/App/releases/download/0.7.1/screenshot_04-iphone-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
-        "https://github.com/App-Fair/App/releases/download/0.7.1/screenshot_05-iphone-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
-        "https://github.com/App-Fair/App/releases/download/0.7.1/screenshot_06-iphone-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
+        "https://github.com/App-Fair/App/releases/download/0.7.2/screenshot_01-iphone-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
+        "https://github.com/App-Fair/App/releases/download/0.7.2/screenshot_02-iphone-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
+        "https://github.com/App-Fair/App/releases/download/0.7.2/screenshot_03-iphone-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
+        "https://github.com/App-Fair/App/releases/download/0.7.2/screenshot_04-iphone-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
+        "https://github.com/App-Fair/App/releases/download/0.7.2/screenshot_05-iphone-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857",
+        "https://github.com/App-Fair/App/releases/download/0.7.2/screenshot_06-iphone-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5"
       ],
-      "sha256" : "904c209bfac5c7dc06ffad966feb329dcefe1bb78a2776871a63320ee1a10761",
-      "size" : 7313210,
+      "sha256" : "0780f24a25598f11d1944603ae84be7f9ddc9473c282a59b6a1cd42a0aceee98",
+      "size" : 7378166,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
-      "version" : "0.7.1",
-      "versionDate" : "2021-12-04T03:14:37Z",
-      "versionDescription" : "Release 0.7.1",
+      "version" : "0.7.2",
+      "versionDate" : "2021-12-04T03:38:25Z",
+      "versionDescription" : "Release 0.7.2",
       "watcherCount" : 0
     },
     {
@@ -235,14 +235,14 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 19661680,
+      "coreSize" : 19467680,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.25/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.25/Lottie-Motion.png",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.26/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.26/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.25/Info.plist#6896da9ba08e02efe0561cb96b20d95ec8ceb0b46b1685e5a4874de7aee84635",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.26/Info.plist#c5dad1d87701392d95a35d8114f954650808cf78fe978b9a172cd1e700872d7e",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -250,18 +250,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.25/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.26/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.25/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.25/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+
       ],
-      "sha256" : "728ae749a7ac99f8b619e2640718fda301f08990947cbf798ef5da5ade4a92a8",
-      "size" : 9878953,
+      "sha256" : "8372ad89911754fae9b44070c961f492ccc70a92443df88238c9434b125e5c2a",
+      "size" : 9409762,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.25",
-      "versionDate" : "2021-12-02T00:34:58Z",
-      "versionDescription" : "Release 0.0.25",
+      "version" : "0.0.26",
+      "versionDate" : "2021-12-04T03:36:58Z",
+      "versionDescription" : "Release 0.0.26",
       "watcherCount" : 0
     },
     {
@@ -330,7 +329,7 @@
       ],
       "coreSize" : 12294664,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/Next-Edit-iOS.ipa",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.3/Next-Edit.png",
       "issueCount" : 0,

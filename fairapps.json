@@ -226,65 +226,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Neural-Scry",
-      "categories" : [
-        "public.app-category.medical"
-      ],
-      "coreSize" : 18765760,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Neural-Scry-macOS.zip",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Neural-Scry.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/Info.plist#a421f769dded57daecd204c43b832f67be550c0d6fc33348873887e2c86be24c",
-      "name" : "Neural Scry",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "device.camera",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "device.microphone",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "device.usb",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "cs.debugger",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "temporary-exception.mach-lookup.global-name",
-          "usageDescription" : "This enabled this permission for testing"
-        }
-      ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.32/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
-      "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.32/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "f49278a7afd807fcde7ac3a2258e8fe99862acc26843e6105b737b26e1a506d2",
-      "size" : 3841562,
-      "starCount" : 0,
-      "subtitle" : "Look into the minds of others",
-      "tintColor" : "FF0000",
-      "version" : "0.0.32",
-      "versionDate" : "2021-11-30T00:28:00Z",
-      "versionDescription" : "Release 0.0.32",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [

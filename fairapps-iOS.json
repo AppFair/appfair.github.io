@@ -174,66 +174,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Neural-Scry",
-      "categories" : [
-        "public.app-category.medical"
-      ],
-      "coreSize" : 18765760,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.36/Neural-Scry-iOS.ipa",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.36/Neural-Scry.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.36/Info.plist#5767f770ced1ec46437bc48b620b2b7ed1316cdb040709addff9217747daa554",
-      "name" : "Neural Scry",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "device.camera",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "device.microphone",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "device.usb",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "cs.debugger",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "temporary-exception.mach-lookup.global-name",
-          "usageDescription" : "This enabled this permission for testing"
-        }
-      ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.36/README.md#283bdfa5b0fdd2aa797f4c0faf7a6dee9c912c41a5d0980b3dbbcc30930b82d2",
-      "screenshotURLs" : [
-        "https://github.com/Neural-Scry/App/releases/download/0.0.36/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c",
-        "https://github.com/Neural-Scry/App/releases/download/0.0.36/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006"
-      ],
-      "sha256" : "e31a903fa308a6852d73762a273266c638c5b4245469c4afe3b394463e3a572b",
-      "size" : 9094731,
-      "starCount" : 0,
-      "subtitle" : "Look into the minds of others",
-      "tintColor" : "FF0000",
-      "version" : "0.0.36",
-      "versionDate" : "2021-11-30T20:58:07Z",
-      "versionDescription" : "Release 0.0.36",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [

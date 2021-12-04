@@ -167,14 +167,14 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 18601376,
+      "coreSize" : 18399096,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/Encyclopedia-Galactica.png",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/Info.plist#708873fcec615ec61d824295071f9e9ba75fcca11f4ae1dabded082dab208be8",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
         {
@@ -182,17 +182,17 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.22/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+
       ],
-      "sha256" : "8a3db0fc6321aa48443118374fb5e1c9e7fa6313de344e42da8bd5868a939db8",
-      "size" : 3716226,
+      "sha256" : "dcfe892beeeadbad9aa116afc915a105ba22390c5e85829fcf63428f05029ea3",
+      "size" : 3196483,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.22",
-      "versionDate" : "2021-12-02T00:08:20Z",
-      "versionDescription" : "Release 0.0.22",
+      "version" : "0.0.23",
+      "versionDate" : "2021-12-04T02:51:09Z",
+      "versionDescription" : "Release 0.0.23",
       "watcherCount" : 0
     },
     {
@@ -305,7 +305,7 @@
       ],
       "coreSize" : 12974376,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.3/Pan-Opticon-macOS.zip",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.3/Pan-Opticon.png",
       "issueCount" : 0,

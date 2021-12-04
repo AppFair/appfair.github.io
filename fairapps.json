@@ -228,53 +228,19 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "coreSize" : 19467680,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.30/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.30/Lottie-Motion.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.30/Info.plist#f7d2341687b43f1472c08de6607ca83eb28757c489926424ee3af8d8e1adff96",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.30/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "09e95602958b747d40250e184060939e87f48b5348f91d6aaf6a4df3116e90fb",
-      "size" : 3281335,
-      "starCount" : 0,
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.30",
-      "versionDate" : "2021-12-04T18:02:21Z",
-      "versionDescription" : "Release 0.0.30",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 19467680,
+      "coreSize" : 19467888,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.26/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.26/Lottie-Motion.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.31/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.31/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.26/Info.plist#c5dad1d87701392d95a35d8114f954650808cf78fe978b9a172cd1e700872d7e",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.31/Info.plist#ae070aec856d9e8da56bcbd56ee8b1ce5bbaf73f389cadba12e0847777252d25",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -282,17 +248,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.26/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.31/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8e66ec4f1841c1dbe899b0bd2ef8d91350c35a387bff22d00672194f2ee4565a",
-      "size" : 3280903,
+      "sha256" : "4bdb1aa175e003fbaca08351bfbef1943613d750973e55da895f9b400a96bc3b",
+      "size" : 3282073,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.26",
-      "versionDate" : "2021-12-04T03:36:58Z",
-      "versionDescription" : "Release 0.0.26",
+      "version" : "0.0.31",
+      "versionDate" : "2021-12-04T19:02:15Z",
+      "versionDescription" : "Release 0.0.31",
       "watcherCount" : 0
     },
     {

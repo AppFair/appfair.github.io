@@ -63,12 +63,12 @@
       ],
       "coreSize" : 19205592,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.14/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.14/Bon-Mot.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.15/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.15/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.14/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.15/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -80,17 +80,17 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.14/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.15/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "ca1be81911739de89796022d4ee2f2dd7a900f6f54db49649bddd3cc9b375bf2",
-      "size" : 9167512,
+      "sha256" : "0d255262b46fb6328fbe50f4611c3c1742f53c4a960710b3f0945fd574b58d91",
+      "size" : 9167544,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
-      "version" : "0.2.14",
-      "versionDate" : "2021-12-04T02:38:33Z",
-      "versionDescription" : "Release 0.2.14",
+      "version" : "0.2.15",
+      "versionDate" : "2021-12-04T14:57:55Z",
+      "versionDescription" : "Release 0.2.15",
       "watcherCount" : 0
     },
     {
@@ -134,30 +134,30 @@
       ],
       "coreSize" : 12311888,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.38/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.38/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.38/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.38/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/screenshot-iphone-01-1170x2532.png#d1f2a5227a3cfac4358a9617a6de8d2e33e48a032f3b00b9021b13eab6ba063e",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/screenshot-iphone-02-1170x2532.png#fdd9399dfad5bdc6f2ae0958eeb95234fd5627455ab38c4916254a1fcae81d75",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/screenshot-iphone-03-1170x2532.png#c8e6bc37b92d71ff05f21a078a7782319b05f7afa074dc0a8f7b9022a7b4887e",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/screenshot-iphone-04-1170x2532.png#b7dd5f497d3379825cfa3460c93f157b3b3bd69eaa468f5b24986484720a7c5c"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.38/screenshot-iphone-02-1170x2532.png#fdd9399dfad5bdc6f2ae0958eeb95234fd5627455ab38c4916254a1fcae81d75",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.38/screenshot-iphone-01-1170x2532.png#d1f2a5227a3cfac4358a9617a6de8d2e33e48a032f3b00b9021b13eab6ba063e",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.38/screenshot-iphone-03-1170x2532.png#c8e6bc37b92d71ff05f21a078a7782319b05f7afa074dc0a8f7b9022a7b4887e",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.38/screenshot-iphone-04-1170x2532.png#b7dd5f497d3379825cfa3460c93f157b3b3bd69eaa468f5b24986484720a7c5c"
       ],
-      "sha256" : "26f85c89699f98271d5189fc74017079e01428445688f019602c8d3b88fe3563",
-      "size" : 6053255,
+      "sha256" : "f85d3306d5da0ded16afc851462b79bbfb47a1a3d3b533da43b6e09d82b00bf1",
+      "size" : 6053243,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
-      "version" : "0.8.37",
-      "versionDate" : "2021-12-04T03:45:35Z",
-      "versionDescription" : "Release 0.8.37",
+      "version" : "0.8.38",
+      "versionDate" : "2021-12-04T14:56:32Z",
+      "versionDescription" : "Release 0.8.38",
       "watcherCount" : 0
     },
     {
@@ -393,12 +393,12 @@
       ],
       "coreSize" : 24358984,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.368/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.368/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.369/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.369/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.368/Info.plist#097ee58d52306c395053e9a5bebb3a531d6145c6e8abf88eeb7ea0f7a9040b23",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.369/Info.plist#097ee58d52306c395053e9a5bebb3a531d6145c6e8abf88eeb7ea0f7a9040b23",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -406,19 +406,19 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.368/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.369/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.368/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
-        "https://github.com/Tune-Out/App/releases/download/0.8.368/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
-        "https://github.com/Tune-Out/App/releases/download/0.8.368/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
+        "https://github.com/Tune-Out/App/releases/download/0.8.369/screenshot-iphone-02-1170x2532.png#e0d9cd48e5f07bcca74118f0f1e5ac0c3691b85c6134d8dc8ffe97e144fd8eea",
+        "https://github.com/Tune-Out/App/releases/download/0.8.369/screenshot-iphone-01-1170x2532.png#65cd04c10bc9eb328e9ed2476177aa9b7c9d7e8f4090884c5513b64e12a2354b",
+        "https://github.com/Tune-Out/App/releases/download/0.8.369/screenshot-iphone-03-1170x2532.png#e0730e7b5d9d92207d6da9c2cf15485e314aa8199515a9758b10846beec4239f"
       ],
-      "sha256" : "60b0c89123027e6c52cda87fce76fcc9d1cc41b97fa43dbe6cae5a9a7c64588e",
-      "size" : 15697846,
+      "sha256" : "365fcdb84f2cb1a77abe0b64759c2a0af1a0bad3c99189668c3c419a7265c3b9",
+      "size" : 15697865,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "version" : "0.8.368",
-      "versionDate" : "2021-12-04T03:45:10Z",
-      "versionDescription" : "Release 0.8.368",
+      "version" : "0.8.369",
+      "versionDate" : "2021-12-04T14:57:10Z",
+      "versionDescription" : "Release 0.8.369",
       "watcherCount" : 0
     },
     {

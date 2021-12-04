@@ -133,7 +133,7 @@
       ],
       "coreSize" : 12311888,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.37/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -167,7 +167,7 @@
       ],
       "coreSize" : 18399096,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/Encyclopedia-Galactica-macOS.zip",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -327,56 +327,19 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "coreSize" : 24514088,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 16,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.367/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.367/Tune-Out.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.367/Info.plist#bfae951e9d3455546ad067d701714e04cea3efea347738e2c431eeda7e257fb4",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.367/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.367/screenshot-mac-01-2212x1462.png#d93f88d3b89cebf5923123cc5d6642e7dfe817f7f7cc28703fc9f35ecc736311",
-        "https://github.com/Tune-Out/App/releases/download/0.8.367/screenshot-mac-02-2534x1112.png#202aedb69aa51c922fcb7d10a1bc90b0039b87952a23f30ab38a5994e2c2fd47",
-        "https://github.com/Tune-Out/App/releases/download/0.8.367/screenshot-mac-03-2180x1464.png#578b97c303049f6b2d2930345b224a74e515d6f3831846e6d1a86eb8b5e71989"
-      ],
-      "sha256" : "107d7c9be34d4abec8b07afefaba1737b3aae1264b80c9d25ed93ad65cc0734c",
-      "size" : 8552312,
-      "starCount" : 0,
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "F60000",
-      "version" : "0.8.367",
-      "versionDate" : "2021-11-30T20:58:00Z",
-      "versionDescription" : "Release 0.8.367",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 24514088,
+      "coreSize" : 24358984,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.366/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.366/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.368/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.368/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.366/Info.plist#1e379398918831afda9885cc47a852b05eaef7f6535b53c5de85f3694480ebda",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.368/Info.plist#097ee58d52306c395053e9a5bebb3a531d6145c6e8abf88eeb7ea0f7a9040b23",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -384,20 +347,19 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.366/README.md#dcef5b11158ae0e9984ca485f4316cd66f2dd4e1ad328dc34f88c4e2e1b10673",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.368/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.366/screenshot-mac-01-2212x1462.png#d93f88d3b89cebf5923123cc5d6642e7dfe817f7f7cc28703fc9f35ecc736311",
-        "https://github.com/Tune-Out/App/releases/download/0.8.366/screenshot-mac-02-2534x1112.png#202aedb69aa51c922fcb7d10a1bc90b0039b87952a23f30ab38a5994e2c2fd47",
-        "https://github.com/Tune-Out/App/releases/download/0.8.366/screenshot-mac-03-2180x1464.png#578b97c303049f6b2d2930345b224a74e515d6f3831846e6d1a86eb8b5e71989"
+        "https://github.com/Tune-Out/App/releases/download/0.8.368/screenshot-mac-01-2212x1462.png#d93f88d3b89cebf5923123cc5d6642e7dfe817f7f7cc28703fc9f35ecc736311",
+        "https://github.com/Tune-Out/App/releases/download/0.8.368/screenshot-mac-02-2534x1112.png#202aedb69aa51c922fcb7d10a1bc90b0039b87952a23f30ab38a5994e2c2fd47",
+        "https://github.com/Tune-Out/App/releases/download/0.8.368/screenshot-mac-03-2180x1464.png#578b97c303049f6b2d2930345b224a74e515d6f3831846e6d1a86eb8b5e71989"
       ],
-      "sha256" : "24440eb125f3ae988e2db49d277547550dac7058eafb1848c8f8493ac051663e",
-      "size" : 8552312,
+      "sha256" : "e59fc691ac95c5d188c70a68b1b3f27321df76dae73364195821014063856bfe",
+      "size" : 8026838,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "tintColor" : "F60000",
-      "version" : "0.8.366",
-      "versionDate" : "2021-11-30T18:21:08Z",
-      "versionDescription" : "Release 0.8.366",
+      "version" : "0.8.368",
+      "versionDate" : "2021-12-04T03:45:10Z",
+      "versionDescription" : "Release 0.8.368",
       "watcherCount" : 0
     },
     {

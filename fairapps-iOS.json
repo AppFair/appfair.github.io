@@ -297,6 +297,40 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 19467680,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/Lottie-Motion.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/Info.plist#c5dad1d87701392d95a35d8114f954650808cf78fe978b9a172cd1e700872d7e",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "a61902e0297b9a88cd96bcf6f7d0c9b3a6924bb6f52b947f0b67f19c4750b39b",
+      "size" : 9409721,
+      "starCount" : 0,
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.27",
+      "versionDate" : "2021-12-04T14:58:18Z",
+      "versionDescription" : "Release 0.0.27",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
@@ -396,7 +430,7 @@
       ],
       "coreSize" : 12294664,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/Next-Edit-iOS.ipa",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.4/Next-Edit.png",
       "issueCount" : 0,
@@ -531,7 +565,7 @@
       ],
       "coreSize" : 33519080,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc-iOS.ipa",
       "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc.png",
       "issueCount" : 0,

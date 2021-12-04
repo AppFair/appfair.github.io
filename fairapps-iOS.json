@@ -63,7 +63,7 @@
       ],
       "coreSize" : 19205592,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.15/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.15/Bon-Mot.png",
       "issueCount" : 0,
@@ -158,6 +158,40 @@
       "version" : "0.8.38",
       "versionDate" : "2021-12-04T14:56:32Z",
       "versionDescription" : "Release 0.8.38",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 18399096,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.24/Encyclopedia-Galactica-iOS.ipa",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.24/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.24/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.24/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "ccd7f749db01a80e24280286447c1d9229603fff24fcebf2333a5c49bc28a339",
+      "size" : 8592449,
+      "starCount" : 0,
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.0.24",
+      "versionDate" : "2021-12-04T14:58:00Z",
+      "versionDescription" : "Release 0.0.24",
       "watcherCount" : 0
     },
     {
@@ -362,7 +396,7 @@
       ],
       "coreSize" : 12974376,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.4/Pan-Opticon-iOS.ipa",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.4/Pan-Opticon.png",
       "issueCount" : 0,
@@ -393,7 +427,7 @@
       ],
       "coreSize" : 24358984,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.369/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.369/Tune-Out.png",
       "issueCount" : 0,

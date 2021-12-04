@@ -160,7 +160,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
         "public.app-category.reference"
@@ -195,40 +195,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 18399096,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/Encyclopedia-Galactica.png",
-      "issueCount" : 0,
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "dcfe892beeeadbad9aa116afc915a105ba22390c5e85829fcf63428f05029ea3",
-      "size" : 3196483,
-      "starCount" : 0,
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.23",
-      "versionDate" : "2021-12-04T02:51:09Z",
-      "versionDescription" : "Release 0.0.23",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [
         "public.app-category.healthcare-fitness"
@@ -262,40 +228,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hear-Tell",
-      "categories" : [
-        "public.app-category.healthcare-fitness"
-      ],
-      "coreSize" : 18275288,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.2/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.2/Hear-Tell.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.2/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
-      "name" : "Hear Tell",
-      "permissions" : [
-        {
-          "type" : "device.microphone",
-          "usageDescription" : "The microphone is used to process and identify ambient sounds."
-        }
-      ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "a7665a1d46a67927ea497c16b3591fdb9fe52945a7a375d027cf1cb9d772d465",
-      "size" : 3175949,
-      "starCount" : 0,
-      "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.2",
-      "versionDate" : "2021-12-04T02:51:20Z",
-      "versionDescription" : "Release 0.3.2",
-      "watcherCount" : 0
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
@@ -303,7 +235,7 @@
       ],
       "coreSize" : 19467680,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/Lottie-Motion.png",
       "issueCount" : 0,
@@ -499,7 +431,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Visi-Calc",
       "categories" : [
         "public.app-category.business"
@@ -527,37 +459,6 @@
       "version" : "0.0.35",
       "versionDate" : "2021-12-04T14:58:06Z",
       "versionDescription" : "Release 0.0.35",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Visi-Calc",
-      "categories" : [
-        "public.app-category.business"
-      ],
-      "coreSize" : 33519080,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.34/Visi-Calc-macOS.zip",
-      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.34/Visi-Calc.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.34/Info.plist#354daad9a6dba5b23313216733523ad2149f7b4eb92d3f73613cdd063230e626",
-      "name" : "Visi Calc",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.34/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "4c097488761c16ea96a1fbe6f33b9290a5beabe4d4910966881efb13ad3f39bb",
-      "size" : 4731717,
-      "starCount" : 0,
-      "subtitle" : "A business app for business-folk",
-      "version" : "0.0.34",
-      "versionDate" : "2021-12-04T03:00:21Z",
-      "versionDescription" : "Release 0.0.34",
       "watcherCount" : 0
     }
   ],

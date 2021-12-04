@@ -465,6 +465,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Visi-Calc",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "coreSize" : 33519080,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc-macOS.zip",
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A business app for business-folk",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Info.plist#354daad9a6dba5b23313216733523ad2149f7b4eb92d3f73613cdd063230e626",
+      "name" : "Visi Calc",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "bf272b1c05d5dba3bb0514e4ab429009301d57d6fb147f7b36b882db426ac782",
+      "size" : 4731730,
+      "starCount" : 0,
+      "subtitle" : "A business app for business-folk",
+      "version" : "0.0.35",
+      "versionDate" : "2021-12-04T14:58:06Z",
+      "versionDescription" : "Release 0.0.35",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Visi-Calc",
       "categories" : [

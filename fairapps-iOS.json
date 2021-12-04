@@ -236,7 +236,7 @@
       ],
       "coreSize" : 18275288,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.3/Hear-Tell-iOS.ipa",
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.3/Hear-Tell.png",
       "issueCount" : 0,
@@ -521,6 +521,37 @@
       "version" : "0.8.369",
       "versionDate" : "2021-12-04T14:57:10Z",
       "versionDescription" : "Release 0.8.369",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Visi-Calc",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "coreSize" : 33519080,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc-iOS.ipa",
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A business app for business-folk",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Info.plist#354daad9a6dba5b23313216733523ad2149f7b4eb92d3f73613cdd063230e626",
+      "name" : "Visi Calc",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "5656df5821dfdc7fca752162de28462294119b818417d0ac19a5bc400167889a",
+      "size" : 14882780,
+      "starCount" : 0,
+      "subtitle" : "A business app for business-folk",
+      "version" : "0.0.35",
+      "versionDate" : "2021-12-04T14:58:06Z",
+      "versionDescription" : "Release 0.0.35",
       "watcherCount" : 0
     },
     {

@@ -235,12 +235,12 @@
       ],
       "coreSize" : 19467680,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/Lottie-Motion.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.30/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.30/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/Info.plist#c5dad1d87701392d95a35d8114f954650808cf78fe978b9a172cd1e700872d7e",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.30/Info.plist#f7d2341687b43f1472c08de6607ca83eb28757c489926424ee3af8d8e1adff96",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -248,17 +248,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.27/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.30/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a539ee746a333487c7cf67cc7c90c4d058711571bd9fc3f88432af8900df169b",
-      "size" : 3280909,
+      "sha256" : "09e95602958b747d40250e184060939e87f48b5348f91d6aaf6a4df3116e90fb",
+      "size" : 3281335,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.27",
-      "versionDate" : "2021-12-04T14:58:18Z",
-      "versionDescription" : "Release 0.0.27",
+      "version" : "0.0.30",
+      "versionDate" : "2021-12-04T18:02:21Z",
+      "versionDescription" : "Release 0.0.30",
       "watcherCount" : 0
     },
     {

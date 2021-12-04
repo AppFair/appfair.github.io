@@ -373,35 +373,34 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Visi-Calc",
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 11812080,
+      "coreSize" : 33519080,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.29/Visi-Calc-iOS.ipa",
-      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.29/Visi-Calc.png",
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.34/Visi-Calc-iOS.ipa",
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.34/Visi-Calc.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.29/Info.plist#f409235182cce368204287ab97f3f0bc47b1b9a46968def79474a7b1156ddc2a",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.34/Info.plist#354daad9a6dba5b23313216733523ad2149f7b4eb92d3f73613cdd063230e626",
       "name" : "Visi Calc",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.29/README.md#f509fee6a8ecd416547c9ac5b610fec1f6503705bf23f5fd22890cc3184abc62",
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.34/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
       "screenshotURLs" : [
-        "https://github.com/Visi-Calc/App/releases/download/0.0.29/screenshot-ipad-01-2224x1668.png#e02ecc107c29a3ed1e6a4f657408ca4e967adc88af3fecd14e32efb348fe7006",
-        "https://github.com/Visi-Calc/App/releases/download/0.0.29/screenshot-iphone-01-1284x2778.png#8d6fb3488be8cda21b0394d6b5368ce255fc8c9311b351c0b0cf92820eb9eb7c"
+
       ],
-      "sha256" : "ffce235e505dd0060d6a6720826bb614e4a5d921837ab3b7e590be2c434159c0",
-      "size" : 15057314,
+      "sha256" : "8706acac2889d9a1a0f4ed7dc15d135615e2622be2733a460ad00ee773645b34",
+      "size" : 14882708,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.29",
-      "versionDate" : "2021-11-30T02:53:10Z",
-      "versionDescription" : "Release 0.0.29",
+      "version" : "0.0.34",
+      "versionDate" : "2021-12-04T03:00:21Z",
+      "versionDescription" : "Release 0.0.34",
       "watcherCount" : 0
     }
   ],

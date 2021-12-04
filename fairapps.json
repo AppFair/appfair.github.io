@@ -201,14 +201,14 @@
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
-      "coreSize" : 18477464,
+      "coreSize" : 18275288,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.23/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.23/Hear-Tell.png",
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.2/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.2/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.23/Info.plist#395df20d3a60a9eef03430dc5e712c6b35036c20da60650e101c0433a44bc640",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.2/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -216,17 +216,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.2.23/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Hear-Tell/App/releases/download/0.2.23/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
+
       ],
-      "sha256" : "3339b9651e7f2c6f5423ee6fecfe3f7bad0e5fa6fa30311bbdd3096cd67ec316",
-      "size" : 3692440,
+      "sha256" : "a7665a1d46a67927ea497c16b3591fdb9fe52945a7a375d027cf1cb9d772d465",
+      "size" : 3175949,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.2.23",
-      "versionDate" : "2021-12-02T15:27:29Z",
-      "versionDescription" : "Release 0.2.23",
+      "version" : "0.3.2",
+      "versionDate" : "2021-12-04T02:51:20Z",
+      "versionDescription" : "Release 0.3.2",
       "watcherCount" : 0
     },
     {

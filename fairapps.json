@@ -237,12 +237,12 @@
       ],
       "coreSize" : 18275288,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.14/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.14/Hear-Tell.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.16/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.16/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.14/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.16/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -250,17 +250,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.14/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "3ee7f4b89a9dd9b9c4c80aa7ec3ee456454467fd032f625313c611342069f97a",
-      "size" : 3175941,
+      "sha256" : "a4a4bdb14f4d9ddcfe3442d47e30563f43cac0036d9f05a40e4c6f59dd8c68f5",
+      "size" : 3175949,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.14",
-      "versionDate" : "2021-12-05T04:27:52Z",
-      "versionDescription" : "Release 0.3.14",
+      "version" : "0.3.16",
+      "versionDate" : "2021-12-05T22:01:35Z",
+      "versionDescription" : "Release 0.3.16",
       "watcherCount" : 0
     },
     {

@@ -195,53 +195,19 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Hear-Tell",
-      "categories" : [
-        "public.app-category.healthcare-fitness"
-      ],
-      "coreSize" : 18275304,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.17/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.17/Hear-Tell.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.17/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
-      "name" : "Hear Tell",
-      "permissions" : [
-        {
-          "type" : "device.microphone",
-          "usageDescription" : "The microphone is used to process and identify ambient sounds."
-        }
-      ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.17/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "849b89b08a06c585b8117ec3bc145e379275a749aa72bb8d8b0f215d2a6a30cb",
-      "size" : 3177174,
-      "starCount" : 0,
-      "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.17",
-      "versionDate" : "2021-12-05T23:01:53Z",
-      "versionDescription" : "Release 0.3.17",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
-      "coreSize" : 18275304,
+      "coreSize" : 18275288,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.16/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.16/Hear-Tell.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.18/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.18/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.16/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.18/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -249,17 +215,51 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.18/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a4a4bdb14f4d9ddcfe3442d47e30563f43cac0036d9f05a40e4c6f59dd8c68f5",
-      "size" : 3175949,
+      "sha256" : "ae021ab2c56338c2771b97a479f4d364dcb228250af6da2fc18a4e124142d3ff",
+      "size" : 3176829,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.16",
-      "versionDate" : "2021-12-05T22:01:35Z",
-      "versionDescription" : "Release 0.3.16",
+      "version" : "0.3.18",
+      "versionDate" : "2021-12-05T23:27:27Z",
+      "versionDescription" : "Release 0.3.18",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 6401936,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.50/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.50/Lottie-Motion.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.50/Info.plist#7db02791effde073329673a226e48aa949d95b564cfdb1b03a633eb7e7061629",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.50/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "83c99e49e36db9aaa70e5eb0a8b147c507c30ed0a2d94e2494c1cdfe052c8e99",
+      "size" : 6187465,
+      "starCount" : 0,
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.50",
+      "versionDate" : "2021-12-05T23:01:51Z",
+      "versionDescription" : "Release 0.0.50",
       "watcherCount" : 0
     },
     {

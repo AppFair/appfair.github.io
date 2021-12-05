@@ -56,6 +56,45 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 19205592,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "88af229fe13f2caf581a85d87342e3e263a96e5675b9b24fb83fd2badb955934",
+      "size" : 9172161,
+      "starCount" : 1,
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.20",
+      "versionDate" : "2021-12-05T23:27:30Z",
+      "versionDescription" : "Release 0.2.20",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
@@ -88,6 +127,7 @@
       "size" : 9167562,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
       "version" : "0.2.17",
       "versionDate" : "2021-12-05T04:41:01Z",
       "versionDescription" : "Release 0.2.17",

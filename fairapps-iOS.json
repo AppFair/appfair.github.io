@@ -239,7 +239,7 @@
       ],
       "coreSize" : 19568560,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/Lottie-Motion-iOS.ipa",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/Lottie-Motion.png",
       "issueCount" : 0,
@@ -324,14 +324,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
       ],
       "coreSize" : 12294472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/Next-Edit-iOS.ipa",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/Next-Edit.png",
       "issueCount" : 0,
@@ -359,67 +359,34 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Next-Edit",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "coreSize" : 12294472,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.6/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.6/Next-Edit.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.6/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
-      "name" : "Next Edit",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to read and write files in order to edit text."
-        }
-      ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.6/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "6954daf4ac33d477f5b2c166d121e3b1e4e405b85e7afa21cc62d1a9447c2470",
-      "size" : 5833200,
-      "starCount" : 0,
-      "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.6",
-      "versionDate" : "2021-12-06T00:05:57Z",
-      "versionDescription" : "Release 0.4.6",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12974376,
+      "coreSize" : 12974168,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.4/Pan-Opticon-iOS.ipa",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.4/Pan-Opticon.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.4/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "3d5053c374740e6fa3bc26732c53af788ed149d485f29445166fab24b44e4bf1",
-      "size" : 6307812,
+      "sha256" : "f1b99ec83f558b63ec66f30dd722dfcd614171c0c98f23fd1a7428172f068e16",
+      "size" : 6309928,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
-      "version" : "0.2.4",
-      "versionDate" : "2021-12-04T14:57:58Z",
-      "versionDescription" : "Release 0.2.4",
+      "tintColor" : "CC00AA",
+      "version" : "0.2.5",
+      "versionDate" : "2021-12-06T02:15:58Z",
+      "versionDescription" : "Release 0.2.5",
       "watcherCount" : 0
     },
     {

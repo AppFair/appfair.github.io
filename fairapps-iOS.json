@@ -164,14 +164,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
         "public.app-category.reference"
       ],
       "coreSize" : 18398904,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.26/Encyclopedia-Galactica-iOS.ipa",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.26/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -195,40 +195,6 @@
       "version" : "0.0.26",
       "versionDate" : "2021-12-06T03:09:32Z",
       "versionDescription" : "Release 0.0.26",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 18398904,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.25/Encyclopedia-Galactica-iOS.ipa",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.25/Encyclopedia-Galactica.png",
-      "issueCount" : 0,
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.25/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.25/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "6135cfe61820c7d0c3219e8bbc53fbebc606e19effb2930f85396b078fca546d",
-      "size" : 8592416,
-      "starCount" : 0,
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.25",
-      "versionDate" : "2021-12-05T18:14:29Z",
-      "versionDescription" : "Release 0.0.25",
       "watcherCount" : 0
     },
     {

@@ -8,7 +8,7 @@
       ],
       "coreSize" : 6142000,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.9/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.9/App-Fair.png",
       "issueCount" : 0,
@@ -265,6 +265,40 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 12294472,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "201ae6f79efdef131401a2912b53c3da16e8d5bfcff21af20732517ff6f87977",
+      "size" : 6775344,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.8",
+      "versionDate" : "2021-12-06T03:02:59Z",
+      "versionDescription" : "Release 0.4.8",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
@@ -306,28 +340,28 @@
       ],
       "coreSize" : 12974168,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/Pan-Opticon-macOS.zip",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/Pan-Opticon.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.6/Pan-Opticon-macOS.zip",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.6/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.6/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "9b9707417802d0e928c0de65f5ee4dfa6b544ff094954efbe2efd1af612af8f3",
-      "size" : 2662482,
+      "sha256" : "4f911f018ca9cb6049afdc28511509854da06e666d8fa25a8c4b15f6ae2e9038",
+      "size" : 2662493,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.2.5",
-      "versionDate" : "2021-12-06T02:15:58Z",
-      "versionDescription" : "Release 0.2.5",
+      "version" : "0.2.6",
+      "versionDate" : "2021-12-06T03:02:56Z",
+      "versionDescription" : "Release 0.2.6",
       "watcherCount" : 0
     },
     {

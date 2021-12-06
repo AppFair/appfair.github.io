@@ -331,12 +331,12 @@
       ],
       "coreSize" : 12294472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/Next-Edit-iOS.ipa",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -344,17 +344,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "cc12928356351f142ebd6864297aa5335f37d612919b5986b63313ed91fc09a2",
-      "size" : 5833406,
+      "sha256" : "8baacf975e437188e6684aae05ca35b9c9370cc8ee6f35df54f51ca028d8e389",
+      "size" : 5833409,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.7",
-      "versionDate" : "2021-12-06T01:46:53Z",
-      "versionDescription" : "Release 0.4.7",
+      "version" : "0.4.8",
+      "versionDate" : "2021-12-06T03:02:59Z",
+      "versionDescription" : "Release 0.4.8",
       "watcherCount" : 0
     },
     {
@@ -365,28 +365,28 @@
       ],
       "coreSize" : 12974168,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/Pan-Opticon-iOS.ipa",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/Pan-Opticon.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.6/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.6/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.6/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f1b99ec83f558b63ec66f30dd722dfcd614171c0c98f23fd1a7428172f068e16",
-      "size" : 6309928,
+      "sha256" : "89329fdebe63679ea1240e694ca9f7cc3e635058dcbf72d4e9a1d90fe4a8a4b9",
+      "size" : 6309927,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.2.5",
-      "versionDate" : "2021-12-06T02:15:58Z",
-      "versionDescription" : "Release 0.2.5",
+      "version" : "0.2.6",
+      "versionDate" : "2021-12-06T03:02:56Z",
+      "versionDescription" : "Release 0.2.6",
       "watcherCount" : 0
     },
     {

@@ -205,12 +205,12 @@
       ],
       "coreSize" : 18275080,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/Hear-Tell.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.20/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.20/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.20/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -218,17 +218,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.20/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "436ab071e1431981a5323486a7e224dd8db6861c46511f724e1bac16f8fbddb1",
-      "size" : 8668701,
+      "sha256" : "64c05a271b42dbd98f8d3e12bb1966cfe09ad73ca546e28a65441c80fd0391eb",
+      "size" : 8668744,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.19",
-      "versionDate" : "2021-12-06T01:15:29Z",
-      "versionDescription" : "Release 0.3.19",
+      "version" : "0.3.20",
+      "versionDate" : "2021-12-06T16:55:09Z",
+      "versionDescription" : "Release 0.3.20",
       "watcherCount" : 0
     },
     {

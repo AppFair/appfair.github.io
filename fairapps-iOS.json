@@ -6,7 +6,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 6142208,
+      "coreSize" : 6142000,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.6/App-Fair-iOS.ipa",
@@ -50,6 +50,7 @@
       "size" : 7378166,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
+      "tintColor" : "1594E8",
       "version" : "0.7.6",
       "versionDate" : "2021-12-05T00:08:37Z",
       "versionDescription" : "Release 0.7.6",
@@ -61,14 +62,14 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 19205592,
+      "coreSize" : 19205400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -80,18 +81,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "88af229fe13f2caf581a85d87342e3e263a96e5675b9b24fb83fd2badb955934",
-      "size" : 9172161,
+      "sha256" : "729e5b68287f1d0971b7ab5494ee97e863a89ff6dbff1c62ad3e34c55a220a7d",
+      "size" : 9171907,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "0.2.20",
-      "versionDate" : "2021-12-05T23:27:30Z",
-      "versionDescription" : "Release 0.2.20",
+      "version" : "0.2.22",
+      "versionDate" : "2021-12-06T01:41:24Z",
+      "versionDescription" : "Release 0.2.22",
       "watcherCount" : 0
     },
     {
@@ -204,7 +205,7 @@
       ],
       "coreSize" : 18275080,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/Hear-Tell-iOS.ipa",
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/Hear-Tell.png",
       "issueCount" : 0,

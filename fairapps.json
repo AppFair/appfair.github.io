@@ -6,14 +6,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 6142208,
+      "coreSize" : 6142000,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.7/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.7/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.8/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.8/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.7/Info.plist#f2414147186581f63dde10f09e150639af2b328cb31ae550d15501bdf8af4ec1",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.8/Info.plist#f2414147186581f63dde10f09e150639af2b328cb31ae550d15501bdf8af4ec1",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,22 +37,23 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.7/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.8/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.7/screenshot_01-mac-dark-2418x1980.png#715f7a19f96f312dfa57e0687a1b58c73a10a980b98b6495098db1ace7ac8959",
-        "https://github.com/App-Fair/App/releases/download/0.7.7/screenshot_01-mac-light-2418x1980.png#182ae0a2b50a286916707b2f53b26716319ca35de55ca09bb0a6a260082e5786",
-        "https://github.com/App-Fair/App/releases/download/0.7.7/screenshot_02-mac-dark-2720x1876.png#7415ec32f03af98e673ef033a0bdb59bff2f568dfb38d7fbb5158620f8b0e7da",
-        "https://github.com/App-Fair/App/releases/download/0.7.7/screenshot_02-mac-light-2720x1876.png#300afe21d2656ab252b629c08d326446c3149f1919ebc465ecd58bc053b06885",
-        "https://github.com/App-Fair/App/releases/download/0.7.7/screenshot_03-mac-dark-1424x1462.png#06e47fbb6b2d9a3e770da61f5cf51e5e9c0965cd4c2c0105cc37199fc9b708c3",
-        "https://github.com/App-Fair/App/releases/download/0.7.7/screenshot_03-mac-light-1424x1462.png#e7af0030ebc2c2782fa18eca6433fe690fd65af83142ad857f8802240f63774c"
+        "https://github.com/App-Fair/App/releases/download/0.7.8/screenshot_01-mac-dark-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.8/screenshot_01-mac-light-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.8/screenshot_02-mac-dark-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.8/screenshot_02-mac-light-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.8/screenshot_03-mac-dark-1424x1462.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.8/screenshot_03-mac-light-1424x1462.png"
       ],
-      "sha256" : "16c1ccbcb14c83d2715c491066d33fe9385ca51cc011bec2a001fdf5b476705f",
-      "size" : 3064788,
+      "sha256" : "c6e25f38f8cad3d6a1646033b8aca65fdf146c4507ad7ac9b9cd885f6f444bfa",
+      "size" : 3065150,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
-      "version" : "0.7.7",
-      "versionDate" : "2021-12-05T04:40:30Z",
-      "versionDescription" : "Release 0.7.7",
+      "tintColor" : "1594E8",
+      "version" : "0.7.8",
+      "versionDate" : "2021-12-06T01:47:00Z",
+      "versionDescription" : "Release 0.7.8",
       "watcherCount" : 0
     },
     {
@@ -61,14 +62,14 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 19205592,
+      "coreSize" : 19205400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -80,18 +81,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.20/screenshot-mac-01-1754x1364.png#221d4a11129d79d4c3333c1a916140ebad53b4a1264e920891d2fdd1ababc45a"
+        "https://github.com/Bon-Mot/App/releases/download/0.2.22/screenshot-mac-01-1754x1364.png"
       ],
-      "sha256" : "d804dadad442f084ecf91d5c361f941cdfd457254b52cf09f11fb3f8ab4fb282",
-      "size" : 3148722,
+      "sha256" : "74f4993281e66b0ff3ea7ac5a2b3077c674e3c82a56da3e5e66a302d7768ff07",
+      "size" : 3147946,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "0.2.20",
-      "versionDate" : "2021-12-05T23:27:30Z",
-      "versionDescription" : "Release 0.2.20",
+      "version" : "0.2.22",
+      "versionDate" : "2021-12-06T01:41:24Z",
+      "versionDescription" : "Release 0.2.22",
       "watcherCount" : 0
     },
     {

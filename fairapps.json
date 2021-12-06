@@ -63,7 +63,7 @@
       ],
       "coreSize" : 19205592,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.20/Bon-Mot.png",
       "issueCount" : 0,
@@ -134,7 +134,7 @@
       ],
       "coreSize" : 12311888,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.44/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.44/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -169,7 +169,7 @@
       ],
       "coreSize" : 18399096,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.25/Encyclopedia-Galactica-macOS.zip",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.25/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -201,14 +201,14 @@
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
-      "coreSize" : 18275288,
+      "coreSize" : 18275080,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.18/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.18/Hear-Tell.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.18/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -216,17 +216,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.18/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.19/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "ae021ab2c56338c2771b97a479f4d364dcb228250af6da2fc18a4e124142d3ff",
-      "size" : 3176829,
+      "sha256" : "f97f9a7311c7b1c0db8878dbaf98e7265aae62c00f4baacd1a7301e110182bf6",
+      "size" : 3176619,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.18",
-      "versionDate" : "2021-12-05T23:27:27Z",
-      "versionDescription" : "Release 0.3.18",
+      "version" : "0.3.19",
+      "versionDate" : "2021-12-06T01:15:29Z",
+      "versionDescription" : "Release 0.3.19",
       "watcherCount" : 0
     },
     {
@@ -237,7 +237,7 @@
       ],
       "coreSize" : 6401728,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 0,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.54/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.54/Lottie-Motion.png",
       "issueCount" : 0,

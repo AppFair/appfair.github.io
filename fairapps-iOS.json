@@ -64,7 +64,7 @@
       ],
       "coreSize" : 19205400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot.png",
       "issueCount" : 0,
@@ -233,6 +233,40 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 19568560,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/Lottie-Motion.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/Info.plist#7db02791effde073329673a226e48aa949d95b564cfdb1b03a633eb7e7061629",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "3f444e278f781f56291112a5ed9f84311b462f13a5ac745c01697496325b7de1",
+      "size" : 9472158,
+      "starCount" : 0,
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.56",
+      "versionDate" : "2021-12-06T01:45:14Z",
+      "versionDescription" : "Release 0.0.56",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Neural-Scry",
       "categories" : [
         "public.app-category.medical"
@@ -290,12 +324,46 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 12294472,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.7/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "cc12928356351f142ebd6864297aa5335f37d612919b5986b63313ed91fc09a2",
+      "size" : 5833406,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.7",
+      "versionDate" : "2021-12-06T01:46:53Z",
+      "versionDescription" : "Release 0.4.7",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 12294664,
+      "coreSize" : 12294472,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.6/Next-Edit-iOS.ipa",

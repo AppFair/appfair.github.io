@@ -136,7 +136,7 @@
       ],
       "coreSize" : 12311680,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -465,25 +465,25 @@
       "coreSize" : 12173704,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.1/Yankee-Swap-iOS.ipa",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.1/Yankee-Swap.png",
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Yankee-Swap-iOS.ipa",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Social swap",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.1/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Yankee Swap",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "e22868e7c1abcf8547b320c95f9fd8f47697805c2bc7dfec53894f1d65b5db57",
-      "size" : 5697929,
+      "sha256" : "0888abcd9852f77bcdd1a0b400b04f0b3f1848f0617c212fdd9cb93b530255a8",
+      "size" : 5697942,
       "starCount" : 0,
       "subtitle" : "Social swap",
-      "version" : "0.0.1",
-      "versionDate" : "2021-12-07T13:53:18Z",
+      "version" : "0.0.2",
+      "versionDate" : "2021-12-07T13:55:24Z",
       "versionDescription" : "",
       "watcherCount" : 0
     }

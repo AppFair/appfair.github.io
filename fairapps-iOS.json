@@ -64,12 +64,12 @@
       ],
       "coreSize" : 19205400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,18 +81,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "729e5b68287f1d0971b7ab5494ee97e863a89ff6dbff1c62ad3e34c55a220a7d",
-      "size" : 9171907,
+      "sha256" : "ed9fa8d5787af98ddeeeff2b1a396502d3963dc75aecf89a5c2fcf90da95e665",
+      "size" : 9150651,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "0.2.22",
-      "versionDate" : "2021-12-06T01:41:24Z",
-      "versionDescription" : "Release 0.2.22",
+      "version" : "0.2.23",
+      "versionDate" : "2021-12-07T12:24:15Z",
+      "versionDescription" : "Release 0.2.23",
       "watcherCount" : 0
     },
     {

@@ -64,12 +64,12 @@
       ],
       "coreSize" : 19205400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -81,18 +81,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.22/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.22/screenshot-mac-01-1754x1364.png"
+        "https://github.com/Bon-Mot/App/releases/download/0.2.23/screenshot-mac-01-1754x1364.png"
       ],
-      "sha256" : "74f4993281e66b0ff3ea7ac5a2b3077c674e3c82a56da3e5e66a302d7768ff07",
-      "size" : 3147946,
+      "sha256" : "60af2200fe86b4acae2468858bca608c0a5bc1ebbdcfed36894bb3cd36bfd8b4",
+      "size" : 3131592,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "0.2.22",
-      "versionDate" : "2021-12-06T01:41:24Z",
-      "versionDescription" : "Release 0.2.22",
+      "version" : "0.2.23",
+      "versionDate" : "2021-12-07T12:24:15Z",
+      "versionDescription" : "Release 0.2.23",
       "watcherCount" : 0
     },
     {

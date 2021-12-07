@@ -135,31 +135,31 @@
       ],
       "coreSize" : 12311680,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/screenshot-mac-01-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/screenshot-mac-02-1656x1560.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/screenshot-mac-03-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.45/screenshot-mac-04-370x1816.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/screenshot-mac-01-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/screenshot-mac-02-1656x1560.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/screenshot-mac-03-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/screenshot-mac-04-370x1816.png"
       ],
-      "sha256" : "2ff120e214658c2e2ab02535ec52dfe40e7692ca440290a74f2527d51464da50",
-      "size" : 2611571,
+      "sha256" : "fcc9c9914786a358c65ded03693af69a5c36af50560eb8878cbcd39aed3e36fe",
+      "size" : 2611569,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.45",
-      "versionDate" : "2021-12-06T04:37:46Z",
-      "versionDescription" : "Release 0.8.45",
+      "version" : "0.8.46",
+      "versionDate" : "2021-12-07T13:56:46Z",
+      "versionDescription" : "Release 0.8.46",
       "watcherCount" : 0
     },
     {
@@ -395,6 +395,37 @@
       "version" : "0.0.35",
       "versionDate" : "2021-12-04T14:58:06Z",
       "versionDescription" : "Release 0.0.35",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Yankee-Swap",
+      "categories" : [
+        "public.app-category.social-networking"
+      ],
+      "coreSize" : 12173704,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.1/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.1/Yankee-Swap.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Social swap",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.1/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "name" : "Yankee Swap",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "75e900dcf12fa255c72d48ccdd38cab7587632b818b8ad68a6e1de0e19b41488",
+      "size" : 2330447,
+      "starCount" : 0,
+      "subtitle" : "Social swap",
+      "version" : "0.0.1",
+      "versionDate" : "2021-12-07T13:53:18Z",
+      "versionDescription" : "",
       "watcherCount" : 0
     }
   ],

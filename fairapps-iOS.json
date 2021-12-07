@@ -2,62 +2,6 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 6142000,
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.6/App-Fair-iOS.ipa",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.6/App-Fair.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.6/Info.plist#f2414147186581f63dde10f09e150639af2b328cb31ae550d15501bdf8af4ec1",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "type" : "temporary-exception.files.absolute-path.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.6/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.6/screenshot_01-iphone-1170x2532.png#47eaea043372ea23922996535819757e3cda7b34b1fb014f83c22a8738165924",
-        "https://github.com/App-Fair/App/releases/download/0.7.6/screenshot_02-iphone-1170x2532.png#c916485d597b7b92713fb90f04ce1c4289f6b09198f10cc1d3cdc03de46b2c88",
-        "https://github.com/App-Fair/App/releases/download/0.7.6/screenshot_03-iphone-828x1792.png#a44a3f3fedab70a1637c5ddb260d946067d3cdbb5360bcbd165f903327e1addc",
-        "https://github.com/App-Fair/App/releases/download/0.7.6/screenshot_04-iphone-828x1792.png#56898bce0729f6927c7f2f6ea43b8613ae86a540fd72e7c9ff988d49c9561e6f",
-        "https://github.com/App-Fair/App/releases/download/0.7.6/screenshot_06-iphone-1792x828.png#614bb74023d5dffcb9a01d2045407f60fa03db5c1913e0e4d60f7f67d1fc81b5",
-        "https://github.com/App-Fair/App/releases/download/0.7.6/screenshot_05-iphone-1792x828.png#0ece10a5830b6749703feda82c7d1920d884ae92b15e68ab14b4d07e40ac5857"
-      ],
-      "sha256" : "8052e78c1a9e19aa3f071d1d459e85bbea708e1d050c79a3fd878726ea9179a5",
-      "size" : 7378166,
-      "starCount" : 0,
-      "subtitle" : "The App Fair Catalog Browser",
-      "tintColor" : "1594E8",
-      "version" : "0.7.6",
-      "versionDate" : "2021-12-05T00:08:37Z",
-      "versionDescription" : "Release 0.7.6",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"

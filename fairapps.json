@@ -64,7 +64,7 @@
       ],
       "coreSize" : 19205400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot.png",
       "issueCount" : 0,
@@ -170,7 +170,7 @@
       ],
       "coreSize" : 18398904,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.27/Encyclopedia-Galactica-macOS.zip",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.27/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -236,14 +236,14 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 19568560,
+      "coreSize" : 19618480,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/Lottie-Motion.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.57/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.57/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/Info.plist#7db02791effde073329673a226e48aa949d95b564cfdb1b03a633eb7e7061629",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.57/Info.plist#7db02791effde073329673a226e48aa949d95b564cfdb1b03a633eb7e7061629",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -251,17 +251,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.56/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.57/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "af74a2f3448e97d54a28842d5f2bd3ded02cff0c63d0a070c9a4afff84195a86",
-      "size" : 3294432,
+      "sha256" : "a681a789c80199203b86de8f671376cb07917775b2715a4a18ef06e4d436af1d",
+      "size" : 3298801,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.56",
-      "versionDate" : "2021-12-06T01:45:14Z",
-      "versionDescription" : "Release 0.0.56",
+      "version" : "0.0.57",
+      "versionDate" : "2021-12-07T22:45:07Z",
+      "versionDescription" : "Release 0.0.57",
       "watcherCount" : 0
     },
     {

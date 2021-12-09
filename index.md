@@ -19,7 +19,9 @@ The App Fair is an independent application distribution platform for free and op
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, accessibility and inclusiveness.
 The App Fair catalog browser app is available for macOS Monterey.
 
-<img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
+<iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<!-- <img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" /> -->
 
 ## The App Fair for End Users
 
@@ -75,9 +77,9 @@ Apps are built, validated, and distributed using GitHub's free actions for open-
 App that are distributed through the App Fair can additionally be made available through any other channels available to the platform. For example, App Fair apps are automatically added to a `homebrew` "Cask" of apps, which enables them to be installed without the user needing to first install the App Fair catalog browser app.
 
 
-### Intro Video
+<!-- ### Intro Video -->
 
-<iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
 <!-- <iframe src="https://player.vimeo.com/video/642784328?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
 
 

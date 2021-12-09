@@ -88,14 +88,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"
       ],
       "coreSize" : 19205368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.24/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.24/Bon-Mot.png",
       "issueCount" : 0,
@@ -124,45 +124,6 @@
       "version" : "0.2.24",
       "versionDate" : "2021-12-09T13:07:37Z",
       "versionDescription" : "Release 0.2.24",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 19205368,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 11,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot-macOS.zip",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.23/screenshot-mac-01-1754x1364.png"
-      ],
-      "sha256" : "60af2200fe86b4acae2468858bca608c0a5bc1ebbdcfed36894bb3cd36bfd8b4",
-      "size" : 3131592,
-      "starCount" : 1,
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.23",
-      "versionDate" : "2021-12-07T12:24:15Z",
-      "versionDescription" : "Release 0.2.23",
       "watcherCount" : 0
     },
     {
@@ -198,7 +159,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
@@ -230,41 +191,6 @@
       "version" : "0.8.47",
       "versionDate" : "2021-12-09T13:07:51Z",
       "versionDescription" : "Release 0.8.47",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "coreSize" : 12311664,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 6,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Cloud-Cuckoo.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/screenshot-mac-01-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/screenshot-mac-02-1656x1560.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/screenshot-mac-03-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.46/screenshot-mac-04-370x1816.png"
-      ],
-      "sha256" : "fcc9c9914786a358c65ded03693af69a5c36af50560eb8878cbcd39aed3e36fe",
-      "size" : 2611569,
-      "starCount" : 0,
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.8.46",
-      "versionDate" : "2021-12-07T13:56:46Z",
-      "versionDescription" : "Release 0.8.46",
       "watcherCount" : 0
     },
     {
@@ -309,7 +235,7 @@
       ],
       "coreSize" : 18258552,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.21/Hear-Tell-macOS.zip",
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.21/Hear-Tell.png",
       "issueCount" : 0,
@@ -343,7 +269,7 @@
       ],
       "coreSize" : 19618448,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.58/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.58/Lottie-Motion.png",
       "issueCount" : 0,
@@ -438,7 +364,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
         "public.app-category.utilities"
@@ -471,50 +397,18 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Pan-Opticon",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 12990648,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.8/Pan-Opticon-macOS.zip",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.8/Pan-Opticon.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.8/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
-      "name" : "Pan Opticon",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "a24fb905074b39da0c2c8950d6cc070bb18f1c479f21a6028c705e94057311e1",
-      "size" : 2662485,
-      "starCount" : 0,
-      "subtitle" : "Watch the Watchers",
-      "tintColor" : "CC00AA",
-      "version" : "0.2.8",
-      "versionDate" : "2021-12-06T23:14:09Z",
-      "versionDescription" : "Release 0.2.8",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
       "coreSize" : 24477304,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.373/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.373/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.374/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.374/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.373/Info.plist#097ee58d52306c395053e9a5bebb3a531d6145c6e8abf88eeb7ea0f7a9040b23",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.374/Info.plist#097ee58d52306c395053e9a5bebb3a531d6145c6e8abf88eeb7ea0f7a9040b23",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -522,20 +416,20 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.373/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.374/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.373/screenshot-mac-01-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.373/screenshot-mac-02-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.373/screenshot-mac-03-2180x1464.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.374/screenshot-mac-01-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.374/screenshot-mac-02-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.374/screenshot-mac-03-2180x1464.png"
       ],
-      "sha256" : "d921300e42f2376c7aadb8e120d6331941b46b18e0b9a9141cffa4e9c84fbc99",
-      "size" : 8037147,
+      "sha256" : "0a6e7553276ca83f089458ef3bca461ffa81fcbc8f5986e5112776b9d63029f2",
+      "size" : 8037151,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "F60000",
-      "version" : "0.8.373",
-      "versionDate" : "2021-12-09T12:50:24Z",
-      "versionDescription" : "Release 0.8.373",
+      "version" : "0.8.374",
+      "versionDate" : "2021-12-09T13:07:54Z",
+      "versionDescription" : "Release 0.8.374",
       "watcherCount" : 0
     },
     {

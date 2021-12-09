@@ -199,14 +199,14 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 18398904,
+      "coreSize" : 18415368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 7,
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.27/Encyclopedia-Galactica-macOS.zip",
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.27/Encyclopedia-Galactica.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.28/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.28/Encyclopedia-Galactica.png",
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.27/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.28/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
         {
@@ -214,17 +214,17 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.27/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.28/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8c82aaa2f0231e0377e01860ab1a22c1d7b5b12fc760de06de62d13112683e64",
-      "size" : 3197087,
+      "sha256" : "d8a46186b9090be3f98e84d7f0ae3cf4b62498a8b15639b1cb24df6e366cb64b",
+      "size" : 3202629,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.27",
-      "versionDate" : "2021-12-06T22:06:50Z",
-      "versionDescription" : "Release 0.0.27",
+      "version" : "0.0.28",
+      "versionDate" : "2021-12-09T12:50:52Z",
+      "versionDescription" : "Release 0.0.28",
       "watcherCount" : 0
     },
     {
@@ -301,14 +301,14 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 12294472,
+      "coreSize" : 11413024,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.9/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.9/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.9/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -316,17 +316,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.9/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "201ae6f79efdef131401a2912b53c3da16e8d5bfcff21af20732517ff6f87977",
-      "size" : 6775344,
+      "sha256" : "b1b51adc32553209dc858353bf4e76ff9f92a58890c799b50890ec5239f521c6",
+      "size" : 6777692,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.8",
-      "versionDate" : "2021-12-06T03:02:59Z",
-      "versionDescription" : "Release 0.4.8",
+      "version" : "0.4.9",
+      "versionDate" : "2021-12-09T12:52:14Z",
+      "versionDescription" : "Release 0.4.9",
       "watcherCount" : 0
     },
     {

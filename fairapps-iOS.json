@@ -1,7 +1,7 @@
 {
   "apps" : [
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.AppDemoXIXXI",
       "categories" : [
         "public.app-category.utilities"

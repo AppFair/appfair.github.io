@@ -1153,7 +1153,7 @@ Apps installed by the App Fair catalog browser or using the homebrew cask do not
 
 Individual app forks can, optionally, configure automatic notarization of their app releases using [GitHub secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) for the organization. To perform notarization, add the following secrets to the organization containing the app fork:
 
- * `NOTARY_USERID`: The Apple ID for developer ID performing the notarization
+ * `NOTARY_USERID`: The developer ID performing the notarization
  * `NOTARY_PASSWORD`: An app-specific password for the developer
  * `NOTARY_TEAMID`: The Team ID associated with the developer
  * `NOTARY_CERTKEY_P12_BASE64`: The exported certificate and key

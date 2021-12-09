@@ -1,6 +1,37 @@
 {
   "apps" : [
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.App-Day",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 4782912,
+      "developerName" : "Marc Prud'hommeaux <mwp1@cornell.edu>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Day/App/releases/download/0.0.1/App-Day-macOS.zip",
+      "iconURL" : "https://github.com/App-Day/App/releases/download/0.0.1/App-Day.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple but useful app",
+      "metadataURL" : "https://github.com/App-Day/App/releases/download/0.0.1/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "name" : "App Day",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/App-Day/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "29784e20edd6a31c011e301e30c6c08abb442c9a512cbac128d4e56d1cc68e42",
+      "size" : 2433879,
+      "starCount" : 0,
+      "subtitle" : "A simple but useful app",
+      "version" : "0.0.1",
+      "versionDate" : "2021-12-09T10:57:52Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [

@@ -8,6 +8,11 @@ title: The App Fair
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 
+<!--
+<h3>Welcome Hacker News Visitors!</h3>
+<h4>The edu e-mail address prerequisite has been paused. There is no restriction on who can create an App Fair app.</h4>
+-->
+
 <!-- <a href="https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip"><img align="center" height="100" alt="Download the App Fair for macOS Monterey" src="appfair-icon.svg" /></a> -->
 
 The App Fair is an independent application distribution platform for free and open-source apps.
@@ -72,7 +77,8 @@ App that are distributed through the App Fair can additionally be made available
 
 ### Intro Video
 
-<iframe src="https://player.vimeo.com/video/642784328?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<!-- <iframe src="https://player.vimeo.com/video/642784328?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
 
 
 ## The App Fair fair-ground
@@ -119,7 +125,7 @@ From an App developer standpoint, an App Fair app is a Swift application that is
 ### App Organization 
 
 Your App's name is represented uniquely by a GitHub Organization, so the first step is to [create a new free organization](https://github.com/account/organizations/new). 
-The App's organization name must be a two word string consisting of 3-12 letters from the Roman alphabet in upper or lower case (A–Z, a–z) and separated by a hyphen (e.g., "App-Fair").
+The App's organization name must be one or more words consisting of 3-12 letters from the Roman alphabet in upper or lower case (A–Z, a–z), with multiple words separated by a hyphen (e.g., "App-Fair").
 For example, the GitHub organization for the **App Fair.app** catalog browser application itself is [https://github.com/App-Fair/](https://github.com/App-Fair/).
 
 Your app organization can be structured however you want, and can consist of a team of as few or as many as you like. 
@@ -522,7 +528,7 @@ The App Fair is founded on a principle of mutual respect between the software us
 App Fair apps are always free; there is never any cost to download and install apps from the catalog, nor is there any mechanism for in-app purchases or subscriptions.
 All apps on the App Fair are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html), thereby guaranteeing that they will be free and fair, forever.
 
-In addition, software creators benefit from the creative freedom afforded by a platform with no annual corporate developer fees, capricious gate-keeping, or compulsory acceptance of perpetually-fluctuating terms and conditions.
+In addition, software creators benefit from the creative freedom afforded by a platform with no annual corporate developer fees, capricious gate-keeping, or periodic acquiescence to perpetually-fluctuating terms and conditions.
 Since apps developed for the App Fair are distributed directly from the GitHub fork controlled by the developer, the developer maintains exclusive control over how their app is distributed.
 
 ## Ideal: Fair
@@ -743,7 +749,7 @@ The tint color of the app, which controls the accent color of the user interface
 ### Where do I customize my app's name?
 
 The canonical name of your app is defined by the organization name that hosts your `/App.git` fork.
-This name must conform to the App Fair's naming conventions (two words separated by a hyphen) as well as GitHub's limitations on organization names (URL-safe characters). 
+This name must conform to the App Fair's naming conventions (multiple words separated by a hyphen) as well as GitHub's limitations on organization names (URL-safe characters). 
 
 In addition to the canonical `App-Name` name, this name must be mirrored in the app's `AppFairApp.xcconfig` metadata file.
 Specifically, the keys `PRODUCT_NAME` and `PRODUCT_BUNDLE_IDENTIFIER` will need to be manually updated in your fork, like so:
@@ -956,8 +962,11 @@ You must have a valid e-mail address configured in your list of keys in your [GP
 
 You have complete control over how you distribute your App Fair apps.
 Your app's binary package can be hosted as a direct download on your web site, which side-steps the need for users to install homebrew or the **App Fair.app** catalog browser application in order to use your app.
+
 Note, however, that since the app is not "notarized" by default, any direct download will require the user to perform some manual steps in order to launch the app: on macOS, they must right-click (or command-click) on the `.app` file and select "Open…" and accept a warning dialog.
 The user must do this **twice** in order to run the app when it has been downloaded directly from a web site.
+
+Notarization can be configured on an individual per-fork basis.
 
 ### How can I monetize my app?
 
@@ -1136,14 +1145,43 @@ The `Integrate` phase of the App Fair process signs the app with an ad-hoc signi
 When an app is "signed", it protects the app from being tampered with once it has been installed, and permits the app to load on architectures where code-signing is a prerequisite.
 An ad-hoc signature, however, contains no identifying information associated with the signature, and so cannot be used as any sort of guarantee of the identity of the developer.
 
-### Are App Fair apps notarized?
+### How can I notarize my App Fair app?
+<a name="notarization"/>
 
-Although App Fair apps are signed, sandboxed, and utilize the hardened runtime, they are not automatically notarized during the fair-ground's `integrate-release` phases. 
+By default, apps built by the fair-ground system are not "notarized", as this requires a paid developer subscription.
+Apps installed by the App Fair catalog browser or using the homebrew cask do not require notarization.
 
-If you have a developer subscription, you are free to notarize the App Fair release binaries for your app yourself, which will enable you to distribute the same binary both via **App Fair.app** catalog browser application and via other distribution channels that may favor or require notarization.
-Notarization can be accomplished by adding your signing certificate to your `/App.git` fork's secrets and adding a signing phase that invokes `xcrun notarytool submit staging/App-Name-macOS.zip` to the workflow in the `.github/workflows/fail.yml` file.
+Individual app forks can, optionally, configure automatic notarization of their app releases using [GitHub secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) for the organization. To perform notarization, add the following secrets to the organization containing the app fork:
 
-Note that notarization tickets should currently *not* be stapled to the build artifact before release upload, since that is known to interfere with the binary artifact validation by the base catalog repository.
+ * `NOTARY_USERID`: The Apple ID for developer ID performing the notarization
+ * `NOTARY_PASSWORD`: An app-specific password for the developer
+ * `NOTARY_TEAMID`: The Team ID associated with the developer
+ * `NOTARY_CERTKEY_P12_BASE64`: The exported certificate and key
+ * `NOTARY_CERTKEY_PASSWORD`: The password for the exported certificate
+
+To obtain the `NOTARY_CERTKEY_P12_BASE64` value first request a certificate through the developer portal, import it into `Keychain Access.app`, and then export is as a .p12 file, which will be base64 encoded and saved into the GitHub secret.
+First get a Developer ID certificate by logging into your developer account and selecting "Certificates IDs & Profiles", then create a new Developer ID Application certificate.
+To get a CSR, launch `Keychain Access.app` and select `Certificate Assistant` -> `Request a Certificate from a Certificate Authority`.
+Ensure the "CA Email Address" matches the developer e-mail, then save to disk.
+Next, upload the CSR request file to the portal and it will create a new certificate for you. 
+Download the certificate and add it to `Keychain Access.app` by opening it. 
+
+The certificate should be added to one of your default keychains and not to the system keychain; otherwise you might later have troubles exporting it.
+The signing data can then be exported from `Keychain Access.app` by going to the "Certificates" tab and finding the  "Developer ID Application: DEVNAME (DEVID)" entry that has a single child private key named "Mac Developer ID Application: DEVNAME".
+
+Select **BOTH** items and right-click select "Export 2 Items…".
+Export to a file named "Certificates.p12" and select a password.
+Create a GitHub organization secret called "NOTARIZATION_SIGNING_PASSWORD" with the value of that password.
+
+Next copy the "NOTARY_CERTKEY_P12_BASE64" itslef to the clipboard with:
+
+  `base64 Certificates.p12 | pbcopy`
+  
+In your GitHub organization Secrets settings, paste the value into a "NOTARY_CERTKEY_P12_BASE64" key.
+
+Once these secrets have been configured for your organization, any subsequent release builds of your app will be automatically notarized.
+If errors occur, see the GitHub actions log for your release action to identify the cause. 
+Typically, the source errors is the format of the `NOTARY_CERTKEY_P12_BASE64` secret, which must be correctly formatted as the base64 representation of the `p12` export.
 
 ### How are App Fair apps scanned for viruses and malware?
 
@@ -1342,8 +1380,7 @@ Use this checklist to ensure that your app is set up properly for distribution i
 
 ### App Organization
 
-  1. Does your `App-Name` name consist of two distinct words separated by a hyphen?
-  1. Does your `App-Name` consist solely of two distinct words, each of which is 3-12 ASCII letters?
+  1. Does your `App-Name` name contain only valid characters.
 
 
 ### User Account

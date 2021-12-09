@@ -62,29 +62,29 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12174016,
+      "coreSize" : 4782912,
       "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/AppDemoXIXXI-macOS.zip",
-      "iconURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/AppDemoXIXXI.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.9/AppDemoXIXXI-macOS.zip",
+      "iconURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.9/AppDemoXIXXI.png",
       "issueCount" : 0,
       "localizedDescription" : "A simple single-word app",
-      "metadataURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.9/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "AppDemoXIXXI",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "479dba16043557411337f803eeee72d24491e5f1a6fe76144e81a5a49ffc9e1e",
-      "size" : 2454703,
+      "sha256" : "9829b601585a8a3cefa5d9613bd7263c88870def3021c79b7de499081318648f",
+      "size" : 2454693,
       "starCount" : 0,
       "subtitle" : "A simple single-word app",
-      "version" : "0.0.8",
-      "versionDate" : "2021-12-09T00:48:41Z",
-      "versionDescription" : "Release 0.0.8",
+      "version" : "0.0.9",
+      "versionDate" : "2021-12-09T07:52:41Z",
+      "versionDescription" : "Release 0.0.9",
       "watcherCount" : 0
     },
     {

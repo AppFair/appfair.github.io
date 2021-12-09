@@ -2,37 +2,6 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.AppDemoXIXXI",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 4782912,
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/AppDemoXIXXI-iOS.ipa",
-      "iconURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/AppDemoXIXXI.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A simple single-word app",
-      "metadataURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
-      "name" : "AppDemoXIXXI",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "55ca8c6f006f45125dc86d15a33c327efaf5240d1c56e7a6ad50210b15737f08",
-      "size" : 5830125,
-      "starCount" : 0,
-      "subtitle" : "A simple single-word app",
-      "version" : "0.0.8",
-      "versionDate" : "2021-12-09T00:48:41Z",
-      "versionDescription" : "Release 0.0.8",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"

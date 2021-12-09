@@ -57,6 +57,68 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.AppDemoXIXXI",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 12174016,
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/AppDemoXIXXI-macOS.zip",
+      "iconURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/AppDemoXIXXI.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple single-word app",
+      "metadataURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "name" : "AppDemoXIXXI",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "479dba16043557411337f803eeee72d24491e5f1a6fe76144e81a5a49ffc9e1e",
+      "size" : 2454703,
+      "starCount" : 0,
+      "subtitle" : "A simple single-word app",
+      "version" : "0.0.8",
+      "versionDate" : "2021-12-09T00:48:41Z",
+      "versionDescription" : "Release 0.0.8",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.AppDemoXIXXI",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 12174016,
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.7/AppDemoXIXXI-macOS.zip",
+      "iconURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.7/AppDemoXIXXI.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A simple single-word app",
+      "metadataURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.7/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "name" : "AppDemoXIXXI",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/AppDemoXIXXI/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "a32eb6101dd9c9d63097311dabeb73ee4948ec1d39728fd6c6c2df05c306faf9",
+      "size" : 2454698,
+      "starCount" : 0,
+      "subtitle" : "A simple single-word app",
+      "version" : "0.0.7",
+      "versionDate" : "2021-12-09T00:37:21Z",
+      "versionDescription" : "Release 0.0.7",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
@@ -64,7 +126,7 @@
       ],
       "coreSize" : 19205400,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 10,
+      "downloadCount" : 11,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.23/Bon-Mot.png",
       "issueCount" : 0,

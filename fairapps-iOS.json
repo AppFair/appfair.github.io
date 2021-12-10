@@ -1,7 +1,7 @@
 {
   "apps" : [
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"
@@ -37,45 +37,6 @@
       "version" : "0.2.25",
       "versionDate" : "2021-12-10T22:42:32Z",
       "versionDescription" : "Release 0.2.25",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 19205368,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.24/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.24/Bon-Mot.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.24/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.24/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "5279d5b7d1de76b74f0f282e625a5de52895ae2b58fb96574a5445934e11a7b8",
-      "size" : 9148978,
-      "starCount" : 1,
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.24",
-      "versionDate" : "2021-12-09T13:07:37Z",
-      "versionDescription" : "Release 0.2.24",
       "watcherCount" : 0
     },
     {

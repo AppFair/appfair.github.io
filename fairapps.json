@@ -337,12 +337,12 @@
       ],
       "coreSize" : 11413024,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.9/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.9/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.10/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.10/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.9/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.10/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -350,17 +350,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.9/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.10/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "b1b51adc32553209dc858353bf4e76ff9f92a58890c799b50890ec5239f521c6",
-      "size" : 6777692,
+      "sha256" : "1188f7b5a99a2416dab3faf7f98f94f28b362f3f6e780997b47e9dff31cd1985",
+      "size" : 6778780,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.9",
-      "versionDate" : "2021-12-09T12:52:14Z",
-      "versionDescription" : "Release 0.4.9",
+      "version" : "0.4.10",
+      "versionDate" : "2021-12-11T02:16:41Z",
+      "versionDescription" : "Release 0.4.10",
       "watcherCount" : 0
     },
     {

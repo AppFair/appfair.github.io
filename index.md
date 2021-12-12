@@ -20,9 +20,6 @@ App Fair apps use modern native frameworks and user-interface elements with a fo
 The App Fair catalog browser app is available for macOS Monterey.
 
 <img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
-<!--
-<iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
--->
 
 
 ## The App Fair for End Users
@@ -82,6 +79,7 @@ App that are distributed through the App Fair can additionally be made available
 <!-- ### Intro Video -->
 
 <iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
 <!-- <iframe src="https://player.vimeo.com/video/642784328?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
 
 
@@ -1318,9 +1316,8 @@ Many of the App Fair's policies are simply flags that can be set on the `fairtoo
 The bulk of the fair-ground's logic, as well as the runtime code for fair-ground integration, is in the [Fair](https://fair-ground.org/Fair) library, which you can customize to handle your own implementation's policies, restrictions, and commerce needs.
 
 ## Can I run a fair-ground on a self-hosted GitHub runner?
-<details>
+
 In theory, yes.
-</details>
 
 ## What is the limit on the number of apps in a fair-ground?
 

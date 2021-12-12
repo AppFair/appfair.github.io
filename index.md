@@ -19,14 +19,15 @@ The App Fair is an independent application distribution platform for free and op
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, accessibility and inclusiveness.
 The App Fair catalog browser app is available for macOS Monterey.
 
+<img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
+<!--
 <iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+-->
 
 
 ## The App Fair for End Users
 
 From an end-user perspective, the **App Fair.app** catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
-
-<img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
 
 Apps installed through the **App Fair.app** application are built using the platform-native `SwiftUI` framework and compiled for both Intel and ARM processors, thereby enabling higher performance, lower memory consumption, and more efficient resource utilization than can be achieved with non-native cross-platform application frameworks.
 
@@ -80,7 +81,7 @@ App that are distributed through the App Fair can additionally be made available
 
 <!-- ### Intro Video -->
 
-<!-- <iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
+<iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <!-- <iframe src="https://player.vimeo.com/video/642784328?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
 
 

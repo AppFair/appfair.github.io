@@ -1317,8 +1317,9 @@ Many of the App Fair's policies are simply flags that can be set on the `fairtoo
 The bulk of the fair-ground's logic, as well as the runtime code for fair-ground integration, is in the [Fair](https://fair-ground.org/Fair) library, which you can customize to handle your own implementation's policies, restrictions, and commerce needs.
 
 ## Can I run a fair-ground on a self-hosted GitHub runner?
-
+<details>
 In theory, yes.
+</details>
 
 ## What is the limit on the number of apps in a fair-ground?
 

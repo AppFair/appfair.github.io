@@ -150,11 +150,11 @@
       "coreSize" : 18258552,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.21/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.21/Hear-Tell.png",
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.22/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.22/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.21/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.22/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -162,17 +162,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.21/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.22/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "6f0f65b0ac1156f5dec6143121cd7cffb3e413487ff1c3422a2c7aa4a5266fce",
-      "size" : 8664813,
+      "sha256" : "7da730365c740dd03488fa6af8d530a0e46c4a308ebacf973e4d5dee2669e2b0",
+      "size" : 8664810,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.21",
-      "versionDate" : "2021-12-09T13:07:43Z",
-      "versionDescription" : "Release 0.3.21",
+      "version" : "0.3.22",
+      "versionDate" : "2021-12-12T14:14:58Z",
+      "versionDescription" : "Release 0.3.22",
       "watcherCount" : 0
     },
     {

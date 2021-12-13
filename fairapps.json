@@ -396,6 +396,43 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "coreSize" : 24477304,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.375/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.375/Tune-Out.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.375/Info.plist#097ee58d52306c395053e9a5bebb3a531d6145c6e8abf88eeb7ea0f7a9040b23",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.375/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.375/screenshot-mac-01-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.375/screenshot-mac-02-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.375/screenshot-mac-03-2180x1464.png"
+      ],
+      "sha256" : "cbca01cc9c7a77c518e0f82ac0a965e4599183f4bb7bd432a442b49fddeef184",
+      "size" : 8039242,
+      "starCount" : 0,
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "EF824A",
+      "version" : "0.8.375",
+      "versionDate" : "2021-12-13T14:19:57Z",
+      "versionDescription" : "Release 0.8.375",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
@@ -426,7 +463,7 @@
       "size" : 8037151,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
-      "tintColor" : "F60000",
+      "tintColor" : "EF824A",
       "version" : "0.8.374",
       "versionDate" : "2021-12-09T13:07:54Z",
       "versionDescription" : "Release 0.8.374",

@@ -384,7 +384,7 @@ The generated icons will not be part of any local builds of the app, but they wi
 The auto-generation process can be customized using the following keys in the `AppFairApp.xcconfig` file:
 
   * `ICON_TINT`: a 6-character RGB hex string that will be used as the base color for the generated icon; if this is excluded, the tint of the icon will be derived from the app's tint color defined in `Assets.xcassets/AccentColor.colorset/Contents.json`
-  * `ICON_SYMBOL`: a system symbol name to embed in the icon instead of the default monogram of the app's name; the symbol name must be available on the build machine that performs the app release.
+  * `ICON_SYMBOL`: a system symbol name or SVG path string to embed in the icon instead of the default monogram of the app's name; when using a symbol name, it must be available on the build machine that performs the app release (which means that symbols new in macOS 12 won't render anything on macOS 11 build hosts).
 
 ### Using a custom app icon
 

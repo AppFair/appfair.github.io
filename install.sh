@@ -10,6 +10,8 @@ echo "Welcome to the ${FAIR_GROUND}!"
 BASE_PATH="/Applications" 
 APP_PATH="${BASE_PATH}/${FAIR_GROUND}.app"
 INSTALL_PATH="${BASE_PATH}/${FAIR_GROUND}/"
+TOKEN="${FAIR_GROUND// /-}"
+ZIPURL="https://github.com/${TOKEN}/App/releases/latest/download/${TOKEN}-macOS.zip"
 
 echo "This script will download and install the ${FAIR_GROUND} catalog browser app."
 
@@ -87,10 +89,6 @@ tty_purple="$(tty_mkbold 35)"
 tty_cyan="$(tty_mkbold 36)"
 tty_bold="$(tty_mkbold 39)"
 tty_reset="$(tty_escape 0)"
-
-
-#ZIPURL="https://github.com/appfair/App/releases/download/App-Fair/App-Fair-macOS.zip"
-ZIPURL="https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip"
 
 
 echo ""

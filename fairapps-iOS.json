@@ -184,11 +184,11 @@
       "coreSize" : 19973008,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.61/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.61/Lottie-Motion.png",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.62/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.62/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.61/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.62/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -196,17 +196,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.61/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.62/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "470e145e102743bcc8e41efa1ba422f8ccb92f1048c99837fc41b83b9be1be4d",
-      "size" : 9636285,
+      "sha256" : "89b5e6c6b5a0021ddccc3a65c8a0d3ae3f057b89c40ef1fd91757c4ba13479f6",
+      "size" : 9458996,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.61",
-      "versionDate" : "2021-12-15T00:02:57Z",
-      "versionDescription" : "Release 0.0.61",
+      "version" : "0.0.62",
+      "versionDate" : "2021-12-16T01:37:01Z",
+      "versionDescription" : "Release 0.0.62",
       "watcherCount" : 0
     },
     {

@@ -269,12 +269,12 @@
       ],
       "coreSize" : 19973008,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.61/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.61/Lottie-Motion.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.62/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.62/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.61/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.62/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -282,17 +282,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.61/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.62/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8e0a058722a65ef048f1ff2c7f4f91832b9d441944a9b4a592c5582ab9b7b507",
-      "size" : 3350686,
+      "sha256" : "44861012a56aba16994504d55b5dcc7309419032c2896b35b4edfeb3b0f3b821",
+      "size" : 3190341,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.61",
-      "versionDate" : "2021-12-15T00:02:57Z",
-      "versionDescription" : "Release 0.0.61",
+      "version" : "0.0.62",
+      "versionDate" : "2021-12-16T01:37:01Z",
+      "versionDescription" : "Release 0.0.62",
       "watcherCount" : 0
     },
     {
@@ -303,7 +303,7 @@
       ],
       "coreSize" : 11413024,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 7,
+      "downloadCount" : 8,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.10/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.10/Next-Edit.png",
       "issueCount" : 0,
@@ -369,7 +369,7 @@
       ],
       "coreSize" : 24831912,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.376/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.376/Tune-Out.png",
       "issueCount" : 0,

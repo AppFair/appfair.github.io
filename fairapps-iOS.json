@@ -181,14 +181,14 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 6558272,
+      "coreSize" : 19989808,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.64/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.64/Lottie-Motion.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.66/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.66/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.64/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.66/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -196,17 +196,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.64/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.66/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "2a171f1da6b8423b39ffbbb26a1bf243028e85eb07e2fc8b6844cf19c437590d",
-      "size" : 9459020,
+      "sha256" : "40399f4a54f23c15e9c41830447b4b0a8736367f6002fefd137deafe29ab9fe0",
+      "size" : 9549957,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.64",
-      "versionDate" : "2021-12-17T03:20:44Z",
-      "versionDescription" : "Release 0.0.64",
+      "version" : "0.0.66",
+      "versionDate" : "2021-12-20T18:30:35Z",
+      "versionDescription" : "Release 0.0.66",
       "watcherCount" : 0
     },
     {

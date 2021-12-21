@@ -39,7 +39,7 @@
       ],
       "coreSize" : 6349792,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.52/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.52/App-Fair.png",
       "issueCount" : 0,
@@ -301,14 +301,14 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 11583264,
+      "coreSize" : 11617888,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.12/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.12/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.13/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.13/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.12/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.13/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -316,17 +316,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.12/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.13/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a1aa97423bcad7886dc159c4c5fb62a7a593ededbb221b4f06c32eba855171c6",
-      "size" : 6831033,
+      "sha256" : "2d72378949f71c4a87cd1375e9b6d277ee28b4a9191e1d296bd562c1d3ccc2fc",
+      "size" : 6888783,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.12",
-      "versionDate" : "2021-12-19T00:35:12Z",
-      "versionDescription" : "Release 0.4.12",
+      "version" : "0.4.13",
+      "versionDate" : "2021-12-21T22:20:07Z",
+      "versionDescription" : "Release 0.4.13",
       "watcherCount" : 0
     },
     {

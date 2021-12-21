@@ -367,28 +367,28 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 4939728,
+      "coreSize" : 4990192,
       "developerName" : "Marc Prud'hommeaux <mwp1@cornell.edu>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.1/Story-Points-macOS.zip",
-      "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.1/Story-Points.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/Story-Points-macOS.zip",
+      "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/Story-Points.png",
       "issueCount" : 0,
       "localizedDescription" : "UX Design Tool",
-      "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Story Points",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Story-Points/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8f3de233311e87b953aed5055fad47e335650ce81fb8a5a1bbe74f80189b0983",
-      "size" : 2508885,
+      "sha256" : "8644685eab767c4a3b1e5b87a1842fb5c9e2be621096eff204ef1cbf01b448e3",
+      "size" : 2620073,
       "starCount" : 0,
       "subtitle" : "UX Design Tool",
-      "version" : "0.0.1",
-      "versionDate" : "2021-12-21T14:21:38Z",
+      "version" : "0.0.2",
+      "versionDate" : "2021-12-21T22:04:41Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

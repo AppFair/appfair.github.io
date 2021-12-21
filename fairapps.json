@@ -267,14 +267,14 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 20107856,
+      "coreSize" : 20324304,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.68/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.68/Lottie-Motion.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.69/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.69/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.68/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.69/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -282,17 +282,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.68/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.69/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "e26ad3932e68a497f15bac0389d57a4df2e6a0aa6666ae62be6a3728aad27073",
-      "size" : 3269011,
+      "sha256" : "c62e3104e82ca35ec6f9fb406b7c739071dd585f15963de1b99aded64df36f17",
+      "size" : 3287844,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.68",
-      "versionDate" : "2021-12-21T19:49:24Z",
-      "versionDescription" : "Release 0.0.68",
+      "version" : "0.0.69",
+      "versionDate" : "2021-12-21T22:03:38Z",
+      "versionDescription" : "Release 0.0.69",
       "watcherCount" : 0
     },
     {
@@ -369,7 +369,7 @@
       ],
       "coreSize" : 4990192,
       "developerName" : "Marc Prud'hommeaux <mwp1@cornell.edu>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/Story-Points-macOS.zip",
       "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/Story-Points.png",
       "issueCount" : 0,

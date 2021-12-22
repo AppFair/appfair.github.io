@@ -398,29 +398,29 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 4990256,
+      "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.3/Trivial-Quiz-macOS.zip",
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.3/Trivial-Quiz.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.5/Trivial-Quiz-macOS.zip",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.5/Trivial-Quiz.png",
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.3/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.5/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Trivial Quiz",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "9dc638064ba6e9fd9ba4b1cae354143e3845929a98c544b89e91449a4a6128a3",
-      "size" : 2589844,
+      "sha256" : "44356b9d2cc358cb22801903d33f9af219a8e67926485cb4dc810b567ee8a9d2",
+      "size" : 2285953,
       "starCount" : 0,
       "subtitle" : "A little quiz game",
-      "version" : "0.0.3",
-      "versionDate" : "2021-12-22T14:44:07Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.5",
+      "versionDate" : "2021-12-22T22:54:23Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {

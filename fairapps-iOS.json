@@ -273,30 +273,30 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 12990648,
+      "coreSize" : 13529384,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.10/Pan-Opticon-iOS.ipa",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.10/Pan-Opticon.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.11/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.11/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.10/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.11/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.10/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "d35e2ab100de3b9c49adf86091e1564019ecf1b9d8024a544e548712ea0047da",
-      "size" : 6307388,
+      "sha256" : "89c4e9d4de8266160ad446400ac1215d87957e9ea71517b1afab20493778dc1e",
+      "size" : 6679297,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.2.10",
-      "versionDate" : "2021-12-13T02:05:45Z",
-      "versionDescription" : "Release 0.2.10",
+      "version" : "0.2.11",
+      "versionDate" : "2021-12-22T01:41:40Z",
+      "versionDescription" : "Release 0.2.11",
       "watcherCount" : 0
     },
     {

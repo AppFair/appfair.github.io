@@ -147,14 +147,14 @@
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
-      "coreSize" : 18746712,
+      "coreSize" : 18901176,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.23/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.23/Hear-Tell.png",
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.23/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -162,17 +162,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "ba753534806a8a41b33995c69ddbce447d3bf1bae4e9cfb9a4b6971a3baee7dd",
-      "size" : 8402670,
+      "sha256" : "7b471841eeda46853c0232ef3d936100527906bca034bc4ef17ccd6e009b01e4",
+      "size" : 8465408,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.23",
-      "versionDate" : "2021-12-22T15:58:09Z",
-      "versionDescription" : "Release 0.3.23",
+      "version" : "0.3.26",
+      "versionDate" : "2021-12-22T20:57:32Z",
+      "versionDescription" : "Release 0.3.26",
       "watcherCount" : 0
     },
     {
@@ -181,14 +181,14 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 20257456,
+      "coreSize" : 20395680,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.70/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.70/Lottie-Motion.png",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.71/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.71/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.70/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.71/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -196,17 +196,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.70/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.71/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c0fd68f71975893f080de67614fb29126250c2b3cc86e6f634e2fc16346f27a1",
-      "size" : 9268392,
+      "sha256" : "2a2fced2241e61a102115a8ceedbfe11cad8ecad9ec46a15491c2cd7ab17de24",
+      "size" : 9329445,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.70",
-      "versionDate" : "2021-12-22T15:33:37Z",
-      "versionDescription" : "Release 0.0.70",
+      "version" : "0.0.71",
+      "versionDate" : "2021-12-22T21:02:11Z",
+      "versionDescription" : "Release 0.0.71",
       "watcherCount" : 0
     },
     {

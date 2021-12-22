@@ -37,14 +37,14 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 6316272,
+      "coreSize" : 6300224,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.54/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.54/App-Fair.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.57/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.57/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.54/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.57/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -68,23 +68,23 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.54/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.57/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.54/screenshot_01-mac-dark-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.54/screenshot_01-mac-light-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.54/screenshot_02-mac-dark-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.54/screenshot_02-mac-light-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.54/screenshot_03-mac-dark-1424x1462.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.54/screenshot_03-mac-light-1424x1462.png"
+        "https://github.com/App-Fair/App/releases/download/0.7.57/screenshot_01-mac-dark-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.57/screenshot_01-mac-light-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.57/screenshot_02-mac-dark-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.57/screenshot_02-mac-light-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.57/screenshot_03-mac-dark-1424x1462.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.57/screenshot_03-mac-light-1424x1462.png"
       ],
-      "sha256" : "82e5117f7c8c506c4c795550f65cd8a98643d68079b42e0672409a57fb433ce4",
-      "size" : 2843830,
+      "sha256" : "8750bdf4324802a0e29c9341d261ad6c71920e5abee6806d4a461a7c615891fe",
+      "size" : 2839013,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.7.54",
-      "versionDate" : "2021-12-22T16:10:38Z",
-      "versionDescription" : "Release 0.7.54",
+      "version" : "0.7.57",
+      "versionDate" : "2021-12-22T21:40:27Z",
+      "versionDescription" : "Release 0.7.57",
       "watcherCount" : 0
     },
     {
@@ -95,7 +95,7 @@
       ],
       "coreSize" : 19544648,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 17,
+      "downloadCount" : 19,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/Bon-Mot.png",
       "issueCount" : 0,
@@ -233,14 +233,14 @@
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
-      "coreSize" : 18746712,
+      "coreSize" : 18901176,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.23/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.23/Hear-Tell.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.23/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -248,17 +248,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f558d72253b07eaae7d2718442f161098697550aa5cebdc0ed8f763dbb87fa3d",
-      "size" : 2776053,
+      "sha256" : "ef89f498025cc22d9aac6afc19016b4d9d6bd2fbb9355c6a31ddf86c2c785825",
+      "size" : 2808987,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.23",
-      "versionDate" : "2021-12-22T15:58:09Z",
-      "versionDescription" : "Release 0.3.23",
+      "version" : "0.3.26",
+      "versionDate" : "2021-12-22T20:57:32Z",
+      "versionDescription" : "Release 0.3.26",
       "watcherCount" : 0
     },
     {
@@ -267,14 +267,14 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 20257456,
+      "coreSize" : 20395680,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.70/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.70/Lottie-Motion.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.71/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.71/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.70/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.71/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -282,17 +282,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.70/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.71/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "dd9dfda1ce8c38b940ee1c68912ce47c51794e7a41a4f6e8f5539cab422b91ce",
-      "size" : 2902079,
+      "sha256" : "882f795ac5f26b7d49029c491cf1533990047ad66dcfdf4a1b347ddcd41277fd",
+      "size" : 2938610,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.70",
-      "versionDate" : "2021-12-22T15:33:37Z",
-      "versionDescription" : "Release 0.0.70",
+      "version" : "0.0.71",
+      "versionDate" : "2021-12-22T21:02:11Z",
+      "versionDescription" : "Release 0.0.71",
       "watcherCount" : 0
     },
     {
@@ -431,7 +431,7 @@
       ],
       "coreSize" : 25082072,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
+      "downloadCount" : 7,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.385/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.385/Tune-Out.png",
       "issueCount" : 0,

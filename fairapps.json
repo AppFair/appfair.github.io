@@ -95,7 +95,7 @@
       ],
       "coreSize" : 19544648,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 16,
+      "downloadCount" : 17,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/Bon-Mot.png",
       "issueCount" : 0,
@@ -389,6 +389,37 @@
       "subtitle" : "UX Design Tool",
       "version" : "0.0.2",
       "versionDate" : "2021-12-21T22:04:41Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Trivial-Quiz",
+      "categories" : [
+
+      ],
+      "coreSize" : 4990256,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.1/Trivial-Quiz-macOS.zip",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.1/Trivial-Quiz.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fork to make an App Fair App",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Trivial Quiz",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "7591331f10ed88c932c83859ed227faf85ebfb9bbe137f48384671379971f8e8",
+      "size" : 2663977,
+      "starCount" : 0,
+      "subtitle" : "Fork to make an App Fair App",
+      "version" : "0.0.1",
+      "versionDate" : "2021-12-22T01:26:37Z",
       "versionDescription" : "",
       "watcherCount" : 0
     },

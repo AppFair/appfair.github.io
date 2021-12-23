@@ -366,30 +366,30 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "coreSize" : 13529384,
+      "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.11/Pan-Opticon-macOS.zip",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.11/Pan-Opticon.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.12/Pan-Opticon-macOS.zip",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.12/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.11/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.12/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "512c4ccd2f5f5121cac9a1c9fa54c7ca3e9ca71f90d1240abdf9590f7600bd13",
-      "size" : 2834859,
+      "sha256" : "b3de19d0d89802d52b44936aea33e6bf3c665a5afcb919456f93f41ec4454ade",
+      "size" : 2424712,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.2.11",
-      "versionDate" : "2021-12-22T01:41:40Z",
-      "versionDescription" : "Release 0.2.11",
+      "version" : "0.2.12",
+      "versionDate" : "2021-12-23T15:19:52Z",
+      "versionDescription" : "Release 0.2.12",
       "watcherCount" : 0
     },
     {
@@ -431,7 +431,7 @@
       ],
       "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/Trivial-Quiz-macOS.zip",
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/Trivial-Quiz.png",
       "issueCount" : 0,

@@ -431,27 +431,27 @@
       ],
       "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.7/Trivial-Quiz-macOS.zip",
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.7/Trivial-Quiz.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/Trivial-Quiz-macOS.zip",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/Trivial-Quiz.png",
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.7/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Trivial Quiz",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "376c74e2c54996b3d05e14af2e4f9ec6d6e8e6744f814a556e9a9545e7ba1bfd",
-      "size" : 2286150,
+      "sha256" : "d4a9481a556fb92efba6ffb7e88e34898090ca8b30bcf68d5c9cf606bb1e5962",
+      "size" : 2285996,
       "starCount" : 0,
       "subtitle" : "A little quiz game",
-      "version" : "0.0.7",
-      "versionDate" : "2021-12-23T01:28:35Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.8",
+      "versionDate" : "2021-12-23T15:18:07Z",
+      "versionDescription" : "Release 0.0.8",
       "watcherCount" : 0
     },
     {

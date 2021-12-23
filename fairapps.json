@@ -88,12 +88,51 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/Bon-Mot-macOS.zip",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "screenshotURLs" : [
+        "https://github.com/Bon-Mot/App/releases/download/0.2.28/screenshot-mac-01-1754x1364.png"
+      ],
+      "sha256" : "7991e2e5af75de41cd18488fabbbe2b7f6c03a3977770c28e3e3fc2719d1a23d",
+      "size" : 2255323,
+      "starCount" : 1,
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.28",
+      "versionDate" : "2021-12-23T15:21:07Z",
+      "versionDescription" : "Release 0.2.28",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 19544648,
+      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 19,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/Bon-Mot-macOS.zip",
@@ -327,12 +366,46 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 152800,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.15/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.15/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.15/Info.plist#8e4aedaafd45f88342669720d387b8d2de7f2cc761530b1ddf121b6bffc15911",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.15/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "cf84a5f8cb32ba166048c61d64ee30f345bc1c13a9c29e32d73c2fe698f598b5",
+      "size" : 6636190,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.15",
+      "versionDate" : "2021-12-23T15:22:05Z",
+      "versionDescription" : "Release 0.4.15",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 11617888,
+      "coreSize" : 152800,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.14/Next-Edit-macOS.zip",
@@ -424,12 +497,43 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Trivial-Quiz",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 68368,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/Trivial-Quiz-macOS.zip",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/Trivial-Quiz.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A little quiz game",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Trivial Quiz",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "0a63589733e9d5b5cdcd60c85365da40808caabc1648f7983fa59e5109b0aacd",
+      "size" : 2285989,
+      "starCount" : 0,
+      "subtitle" : "A little quiz game",
+      "version" : "0.0.9",
+      "versionDate" : "2021-12-23T15:27:12Z",
+      "versionDescription" : "Release 0.0.9",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 152624,
+      "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/Trivial-Quiz-macOS.zip",

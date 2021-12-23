@@ -1,12 +1,51 @@
 {
   "apps" : [
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/Bon-Mot.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "9c527d6391d30d481ef713c45c40188270e2c586d287a93ddb8bfc76689aa13f",
+      "size" : 5783965,
+      "starCount" : 1,
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.28",
+      "versionDate" : "2021-12-23T15:21:07Z",
+      "versionDescription" : "Release 0.2.28",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 19544648,
+      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/Bon-Mot-iOS.ipa",
@@ -328,6 +367,37 @@
       "version" : "0.2.12",
       "versionDate" : "2021-12-23T15:19:52Z",
       "versionDescription" : "Release 0.2.12",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Trivial-Quiz",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 68368,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/Trivial-Quiz-iOS.ipa",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/Trivial-Quiz.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A little quiz game",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Trivial Quiz",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "e2a2ef492b87d16f2b8430b2fb81fcd7be4129b0e0d5d02f9175c27cf43dcce3",
+      "size" : 5794677,
+      "starCount" : 0,
+      "subtitle" : "A little quiz game",
+      "version" : "0.0.9",
+      "versionDate" : "2021-12-23T15:27:12Z",
+      "versionDescription" : "Release 0.0.9",
       "watcherCount" : 0
     },
     {

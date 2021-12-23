@@ -164,33 +164,33 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 12800448,
+      "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.50/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.50/Cloud-Cuckoo.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.50/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.50/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.50/screenshot-mac-01-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.50/screenshot-mac-02-1656x1560.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.50/screenshot-mac-03-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.50/screenshot-mac-04-370x1816.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/screenshot-mac-01-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/screenshot-mac-02-1656x1560.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/screenshot-mac-03-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/screenshot-mac-04-370x1816.png"
       ],
-      "sha256" : "6935dd852e96a88147a4177b3305517cbf4896fefd3482ac668e6352ece30949",
-      "size" : 2178462,
+      "sha256" : "bca5bbf7479ca48ea69b7091414520ea4f54c7d14298129580ac9825d122e6f1",
+      "size" : 2258465,
       "starCount" : 1,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.50",
-      "versionDate" : "2021-12-22T15:53:06Z",
-      "versionDescription" : "Release 0.8.50",
+      "version" : "0.8.51",
+      "versionDate" : "2021-12-23T15:18:39Z",
+      "versionDescription" : "Release 0.8.51",
       "watcherCount" : 0
     },
     {
@@ -267,14 +267,14 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 152720,
+      "coreSize" : 68464,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.72/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.72/Lottie-Motion.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.73/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.73/Lottie-Motion.png",
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.72/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.73/Info.plist#a26c52dd8ac310c510f838b3a331b31760d53e0e689cfb596f6dac49966f7040",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -282,17 +282,17 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.72/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.73/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "6026b91024b461003a312b614bb65fb0a6b2297d6fa4d448dd678738578443eb",
-      "size" : 3028057,
+      "sha256" : "a5fb99eba57e37ebf8847c95566842a90a6947c9546d8a6b2d7ea865765c12f2",
+      "size" : 3027923,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.72",
-      "versionDate" : "2021-12-23T01:41:37Z",
-      "versionDescription" : "Release 0.0.72",
+      "version" : "0.0.73",
+      "versionDate" : "2021-12-23T15:17:42Z",
+      "versionDescription" : "Release 0.0.73",
       "watcherCount" : 0
     },
     {

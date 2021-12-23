@@ -342,7 +342,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.6/Name-Sense-macOS.zip",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.6/Name-Sense.png",
       "issueCount" : 0,
@@ -366,40 +366,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Next-Edit",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "coreSize" : 152800,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.15/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.15/Next-Edit.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.15/Info.plist#8e4aedaafd45f88342669720d387b8d2de7f2cc761530b1ddf121b6bffc15911",
-      "name" : "Next Edit",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to read and write files in order to edit text."
-        }
-      ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.15/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "cf84a5f8cb32ba166048c61d64ee30f345bc1c13a9c29e32d73c2fe698f598b5",
-      "size" : 6636190,
-      "starCount" : 0,
-      "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.15",
-      "versionDate" : "2021-12-23T15:22:05Z",
-      "versionDescription" : "Release 0.4.15",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
@@ -407,12 +373,12 @@
       ],
       "coreSize" : 152800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.14/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.14/Next-Edit.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.16/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.16/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.14/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.16/Info.plist#8e4aedaafd45f88342669720d387b8d2de7f2cc761530b1ddf121b6bffc15911",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -420,17 +386,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.14/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.16/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "30ac1b145c47cedddf9d4210975608a4e155ffdc0790d400bc9221e4bc7deff4",
-      "size" : 6865307,
+      "sha256" : "c5904324ab2c2f650fc75144e026711ff900e82b6f59ec3dce6d14c4b80a7869",
+      "size" : 6636065,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.14",
-      "versionDate" : "2021-12-21T22:55:01Z",
-      "versionDescription" : "Release 0.4.14",
+      "version" : "0.4.16",
+      "versionDate" : "2021-12-23T21:16:17Z",
+      "versionDescription" : "Release 0.4.16",
       "watcherCount" : 0
     },
     {

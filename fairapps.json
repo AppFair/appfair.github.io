@@ -39,7 +39,7 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.59/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.59/App-Fair.png",
       "issueCount" : 0,
@@ -233,14 +233,14 @@
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
-      "coreSize" : 18901176,
+      "coreSize" : 152496,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/Hear-Tell.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.30/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.30/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/Info.plist#2da9130e7859571902c53b0496db7de12035191ff07a46d36d52b6dec917a8c1",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.30/Info.plist#f722aa111cb3f3748448f646dc75cc82440ad8190bd710f60f6bbf8da8da1f9e",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -248,17 +248,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.26/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.30/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "ef89f498025cc22d9aac6afc19016b4d9d6bd2fbb9355c6a31ddf86c2c785825",
-      "size" : 2808987,
+      "sha256" : "1240cd3e32c95e2f392335387f5c909bc94e564bbede7a41641fccf94ea9aeb6",
+      "size" : 2214555,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.26",
-      "versionDate" : "2021-12-22T20:57:32Z",
-      "versionDescription" : "Release 0.3.26",
+      "version" : "0.3.30",
+      "versionDate" : "2021-12-23T01:28:37Z",
+      "versionDescription" : "Release 0.3.30",
       "watcherCount" : 0
     },
     {
@@ -296,7 +296,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
 
@@ -304,26 +304,26 @@
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.3/Name-Sense-macOS.zip",
-      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.3/Name-Sense.png",
+      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.5/Name-Sense-macOS.zip",
+      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.5/Name-Sense.png",
       "issueCount" : 0,
       "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.3/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.5/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Name Sense",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a9def0aa46f9d6ba5ea92da3ca0fd188f82aef0faab5caaa93c0ee79d52c4fee",
-      "size" : 2283483,
+      "sha256" : "a95ea6b1b59bbf668455dd485ca46b13b3427c5c358979654ff61c00536d159d",
+      "size" : 2294085,
       "starCount" : 0,
       "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.3",
-      "versionDate" : "2021-12-23T00:59:19Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.5",
+      "versionDate" : "2021-12-23T01:34:24Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {
@@ -431,7 +431,7 @@
       ],
       "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.7/Trivial-Quiz-macOS.zip",
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.7/Trivial-Quiz.png",
       "issueCount" : 0,
@@ -462,12 +462,12 @@
       ],
       "coreSize" : 153168,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.386/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.386/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.387/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.387/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.386/Info.plist#35938f82e024769dc865d828e25595c97cb42bb045879190a2819033d1100652",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.387/Info.plist#35938f82e024769dc865d828e25595c97cb42bb045879190a2819033d1100652",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -475,20 +475,20 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.386/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.387/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.386/screenshot-mac-01-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.386/screenshot-mac-02-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.386/screenshot-mac-03-2180x1464.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.387/screenshot-mac-01-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.387/screenshot-mac-02-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.387/screenshot-mac-03-2180x1464.png"
       ],
-      "sha256" : "a80d5b4356dc531ff2b6a21e3737d755c7c2ac08a1d4e2de2807b014bd0cd601",
-      "size" : 8195514,
+      "sha256" : "3fdad559d06f77ae3275e0ab8f5a63795f9306cdedb14b02ff2c874b47fef3cd",
+      "size" : 8067688,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.386",
-      "versionDate" : "2021-12-22T23:25:48Z",
-      "versionDescription" : "Release 0.8.386",
+      "version" : "0.8.387",
+      "versionDate" : "2021-12-23T01:28:29Z",
+      "versionDescription" : "Release 0.8.387",
       "watcherCount" : 0
     },
     {

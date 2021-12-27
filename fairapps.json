@@ -335,37 +335,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Name-Sense",
-      "categories" : [
-
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.11/Name-Sense-macOS.zip",
-      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.11/Name-Sense.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.11/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
-      "name" : "Name Sense",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "bdddf2cd4cc536e5424a94310d64fb632025138ef1208b8da0a03ab5c5b5718b",
-      "size" : 2310237,
-      "starCount" : 0,
-      "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.11",
-      "versionDate" : "2021-12-27T03:19:39Z",
-      "versionDescription" : "Release 0.0.11",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
@@ -373,27 +342,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.6/Name-Sense-macOS.zip",
-      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.6/Name-Sense.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.12/Name-Sense-macOS.zip",
+      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.12/Name-Sense.png",
       "issueCount" : 0,
       "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.6/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.12/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Name Sense",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "3a72f240abc7d9bc1c9ccb5716537569a72eee8cee768df6e07a6e6c5e9f4811",
-      "size" : 2293905,
+      "sha256" : "8d98bf5d32d0a2d97458caaf9490e7e85028d618b7b998db403b36e6a48406a1",
+      "size" : 2310244,
       "starCount" : 0,
       "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.6",
-      "versionDate" : "2021-12-23T15:20:20Z",
-      "versionDescription" : "Release 0.0.6",
+      "version" : "0.0.12",
+      "versionDate" : "2021-12-27T04:10:05Z",
+      "versionDescription" : "Release 0.0.12",
       "watcherCount" : 0
     },
     {

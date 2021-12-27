@@ -257,26 +257,26 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.12/Name-Sense-iOS.ipa",
-      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.12/Name-Sense.png",
+      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.14/Name-Sense-iOS.ipa",
+      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.14/Name-Sense.png",
       "issueCount" : 0,
       "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.12/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.14/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Name Sense",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.14/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "509c683baecce528cc662024bcbb581911685af34f44ba90afa37487729d8a6c",
-      "size" : 5775763,
+      "sha256" : "5c9893bbe2b56503baa1822f43b87dfdb9ac52543ca013159728a808f94b3ab0",
+      "size" : 5775758,
       "starCount" : 0,
       "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.12",
-      "versionDate" : "2021-12-27T04:10:05Z",
-      "versionDescription" : "Release 0.0.12",
+      "version" : "0.0.14",
+      "versionDate" : "2021-12-27T06:47:07Z",
+      "versionDescription" : "Release 0.0.14",
       "watcherCount" : 0
     },
     {

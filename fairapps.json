@@ -593,6 +593,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Unclear-Purpose",
+      "categories" : [
+
+      ],
+      "coreSize" : 152640,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/Unclear-Purpose-macOS.zip",
+      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/Unclear-Purpose.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fork to make an App Fair App",
+      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Unclear Purpose",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "8dc122c43e66d68cafc663db06ef2eeb711e3cc4aac11bf0d0643f21d98dc833",
+      "size" : 2223262,
+      "starCount" : 0,
+      "subtitle" : "Fork to make an App Fair App",
+      "version" : "0.0.1",
+      "versionDate" : "2021-12-27T03:54:58Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Visi-Calc",
       "categories" : [

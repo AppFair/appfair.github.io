@@ -198,6 +198,41 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 68368,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-mac-01-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-mac-02-1656x1560.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-mac-03-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-mac-04-370x1816.png"
+      ],
+      "sha256" : "dfea6d4afa8897434512be195e708cb97c973a0b72668499369b607b2e7f0f55",
+      "size" : 2265181,
+      "starCount" : 1,
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.8.52",
+      "versionDate" : "2021-12-29T04:37:38Z",
+      "versionDescription" : "Release 0.8.52",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
@@ -298,6 +333,37 @@
       "version" : "0.3.32",
       "versionDate" : "2021-12-23T21:51:27Z",
       "versionDescription" : "Release 0.3.32",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 152608,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/Hex-Loupe.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Hex Loupe",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "a0e1dfc6f233daaebf1076a4421c8adbcfb45caf5a747e97dfb03ad3c768366e",
+      "size" : 2193464,
+      "starCount" : 0,
+      "subtitle" : "A hex viewer",
+      "version" : "0.0.1",
+      "versionDate" : "2021-12-29T04:36:27Z",
+      "versionDescription" : "",
       "watcherCount" : 0
     },
     {

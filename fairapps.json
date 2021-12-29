@@ -301,67 +301,35 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "coreSize" : 152608,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/Hex-Loupe-macOS.zip",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/Hex-Loupe.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
-      "name" : "Hex Loupe",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "bfceeb48953716175cf39de1b79a7c24b0e44dd12cafb4db9d5cc14f85cdecac",
-      "size" : 2297866,
-      "starCount" : 0,
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.3",
-      "versionDate" : "2021-12-29T17:37:02Z",
-      "versionDescription" : "Release 0.0.3",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 152608,
+      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.2/Hex-Loupe-macOS.zip",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.2/Hex-Loupe.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Hex Loupe",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "246cd393de1f826afed56b483c281c1dbe5d3102e7602745f414954d48cf0ffd",
-      "size" : 2288196,
+      "sha256" : "0674f33516269090e8bdc0edba7422e47fbf3ebc38a1c21832e5320615b2c403",
+      "size" : 2297870,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.2",
-      "versionDate" : "2021-12-29T14:38:26Z",
-      "versionDescription" : "Release 0.0.2",
+      "version" : "0.0.4",
+      "versionDate" : "2021-12-29T19:20:32Z",
+      "versionDescription" : "Release 0.0.4",
       "watcherCount" : 0
     },
     {
@@ -633,27 +601,27 @@
       ],
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.1/Tweet-Storm-macOS.zip",
-      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.1/Tweet-Storm.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.2/Tweet-Storm-macOS.zip",
+      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.2/Tweet-Storm.png",
       "issueCount" : 0,
       "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Tweet Storm",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "b08ea3bdd8a9a5773fb7373b86fea70432cf880bd63d09a0a473bba7d6fa34cf",
-      "size" : 2228428,
+      "sha256" : "044faeca6a594df7034db1438d90124f92872f924028025a89cbcc229fd87139",
+      "size" : 2441726,
       "starCount" : 0,
       "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.1",
-      "versionDate" : "2021-12-29T18:30:45Z",
-      "versionDescription" : "",
+      "version" : "0.0.2",
+      "versionDate" : "2021-12-29T19:18:54Z",
+      "versionDescription" : "Release 0.0.2",
       "watcherCount" : 0
     },
     {
@@ -724,29 +692,30 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "coreSize" : 12173704,
+      "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Yankee-Swap-macOS.zip",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Yankee-Swap.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.3/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.3/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Social swap",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.3/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Yankee Swap",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8c23118a7492939836f97aae1b450630ff22080686c63e39569560b2257a313a",
-      "size" : 2330441,
+      "sha256" : "9f50ba09ac5a6f68490d1fc5af87087339809efbbed067c7f231d7b7d9cf3ae5",
+      "size" : 2252617,
       "starCount" : 0,
       "subtitle" : "Social swap",
-      "version" : "0.0.2",
-      "versionDate" : "2021-12-07T13:55:24Z",
-      "versionDescription" : "",
+      "tintColor" : "3C82C1",
+      "version" : "0.0.3",
+      "versionDate" : "2021-12-29T19:26:25Z",
+      "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     }
   ],

@@ -216,6 +216,38 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Hex-Loupe.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Hex Loupe",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "6ae4dc184438637e0850b169d4c5cb221cdd0c39fb462c800be39a5450ddbbdc",
+      "size" : 5802069,
+      "starCount" : 0,
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.4",
+      "versionDate" : "2021-12-29T19:20:32Z",
+      "versionDescription" : "Release 0.0.4",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
         "public.app-category.developer-tools"
@@ -474,7 +506,7 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "coreSize" : 12173704,
+      "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Yankee-Swap-iOS.ipa",
@@ -494,6 +526,7 @@
       "size" : 5697942,
       "starCount" : 0,
       "subtitle" : "Social swap",
+      "tintColor" : "3C82C1",
       "version" : "0.0.2",
       "versionDate" : "2021-12-07T13:55:24Z",
       "versionDescription" : "",

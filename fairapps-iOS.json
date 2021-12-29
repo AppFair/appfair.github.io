@@ -181,6 +181,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Festivus-Pole",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 68368,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.1/Festivus-Pole-iOS.ipa",
+      "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.1/Festivus-Pole.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A true Festivus celebration",
+      "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Festivus Pole",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "c5df5605e36a51cf22c0da472760c1fe6fb5e909dbf40a429de5f9300a28c1f6",
+      "size" : 5623868,
+      "starCount" : 0,
+      "subtitle" : "A true Festivus celebration",
+      "version" : "0.0.1",
+      "versionDate" : "2021-12-29T20:29:41Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [

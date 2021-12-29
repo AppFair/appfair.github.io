@@ -308,7 +308,7 @@
       ],
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/Hex-Loupe-macOS.zip",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/Hex-Loupe.png",
       "issueCount" : 0,
@@ -623,6 +623,37 @@
       "version" : "0.8.392",
       "versionDate" : "2021-12-26T20:07:53Z",
       "versionDescription" : "Release 0.8.392",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tweet-Storm",
+      "categories" : [
+
+      ],
+      "coreSize" : 152608,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.1/Tweet-Storm-macOS.zip",
+      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.1/Tweet-Storm.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fork to make an App Fair App",
+      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Tweet Storm",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "b08ea3bdd8a9a5773fb7373b86fea70432cf880bd63d09a0a473bba7d6fa34cf",
+      "size" : 2228428,
+      "starCount" : 0,
+      "subtitle" : "Fork to make an App Fair App",
+      "version" : "0.0.1",
+      "versionDate" : "2021-12-29T18:30:45Z",
+      "versionDescription" : "",
       "watcherCount" : 0
     },
     {

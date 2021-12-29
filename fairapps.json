@@ -198,14 +198,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
         "public.app-category.games"
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -230,41 +230,6 @@
       "version" : "0.8.52",
       "versionDate" : "2021-12-29T04:37:38Z",
       "versionDescription" : "Release 0.8.52",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "coreSize" : 68368,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/Cloud-Cuckoo.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/screenshot-mac-01-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/screenshot-mac-02-1656x1560.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/screenshot-mac-03-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.51/screenshot-mac-04-370x1816.png"
-      ],
-      "sha256" : "bca5bbf7479ca48ea69b7091414520ea4f54c7d14298129580ac9825d122e6f1",
-      "size" : 2258465,
-      "starCount" : 1,
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.8.51",
-      "versionDate" : "2021-12-23T15:18:39Z",
-      "versionDescription" : "Release 0.8.51",
       "watcherCount" : 0
     },
     {
@@ -343,7 +308,7 @@
       ],
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/Hex-Loupe-macOS.zip",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/Hex-Loupe.png",
       "issueCount" : 0,

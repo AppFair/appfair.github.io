@@ -301,6 +301,38 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 152608,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/Hex-Loupe.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Hex Loupe",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "bfceeb48953716175cf39de1b79a7c24b0e44dd12cafb4db9d5cc14f85cdecac",
+      "size" : 2297866,
+      "starCount" : 0,
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.3",
+      "versionDate" : "2021-12-29T17:37:02Z",
+      "versionDescription" : "Release 0.0.3",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
@@ -326,6 +358,7 @@
       "size" : 2288196,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
       "version" : "0.0.2",
       "versionDate" : "2021-12-29T14:38:26Z",
       "versionDescription" : "Release 0.0.2",

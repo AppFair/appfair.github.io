@@ -301,7 +301,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
         "public.app-category.developer-tools"
@@ -309,26 +309,26 @@
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/Hex-Loupe-macOS.zip",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/Hex-Loupe.png",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.2/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.2/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Hex Loupe",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a0e1dfc6f233daaebf1076a4421c8adbcfb45caf5a747e97dfb03ad3c768366e",
-      "size" : 2193464,
+      "sha256" : "246cd393de1f826afed56b483c281c1dbe5d3102e7602745f414954d48cf0ffd",
+      "size" : 2288196,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
-      "version" : "0.0.1",
-      "versionDate" : "2021-12-29T04:36:27Z",
-      "versionDescription" : "",
+      "version" : "0.0.2",
+      "versionDate" : "2021-12-29T14:38:26Z",
+      "versionDescription" : "Release 0.0.2",
       "watcherCount" : 0
     },
     {

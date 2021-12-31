@@ -459,34 +459,34 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
         "public.app-category.entertainment"
       ],
       "coreSize" : 68376,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.1/Sita-Sings-the-Blues-macOS.zip",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.1/Sita-Sings-the-Blues.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.5/Sita-Sings-the-Blues-macOS.zip",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.5/Sita-Sings-the-Blues.png",
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.5/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "ed81f89968500e326bac06bf5a32ef2e1d59f71178bcf8abb53994c4fe859e8e",
-      "size" : 2377020,
+      "sha256" : "80ce2eb4f1bfc8f52a211de18e566469793f5ba243b5e0cc1c9ef67653e05357",
+      "size" : 2389637,
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.1",
-      "versionDate" : "2021-12-31T15:30:51Z",
-      "versionDescription" : "",
+      "version" : "0.0.5",
+      "versionDate" : "2021-12-31T19:06:27Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {

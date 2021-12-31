@@ -39,12 +39,12 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.63/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.63/App-Fair.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.63/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -68,23 +68,23 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.63/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.63/screenshot_01-mac-dark-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.63/screenshot_01-mac-light-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.63/screenshot_02-mac-dark-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.63/screenshot_02-mac-light-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.63/screenshot_03-mac-dark-1424x1462.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.63/screenshot_03-mac-light-1424x1462.png"
+        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_01-mac-dark-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_01-mac-light-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_02-mac-dark-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_02-mac-light-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_03-mac-dark-1424x1462.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_03-mac-light-1424x1462.png"
       ],
-      "sha256" : "ad64e4b44cc29310a29ba4febefae748cfef6670756427a497c169ba9411832e",
-      "size" : 2969296,
+      "sha256" : "7387dd9e71028f09ca6173e77fac7941800a97ee7757d3197ec3fd324173dda9",
+      "size" : 2971274,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.7.63",
-      "versionDate" : "2021-12-26T20:07:29Z",
-      "versionDescription" : "Release 0.7.63",
+      "version" : "0.7.64",
+      "versionDate" : "2021-12-31T03:42:56Z",
+      "versionDescription" : "Release 0.7.64",
       "watcherCount" : 0
     },
     {

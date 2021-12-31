@@ -119,31 +119,31 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-iphone-03-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-iphone-04-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-iphone-01-1170x2532.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-iphone-02-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-iphone-03-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-iphone-04-1170x2532.png"
       ],
-      "sha256" : "09be43c73fa7044db98ee22b70096f5028ff0960fad71ad7a28b5c450cee20d5",
-      "size" : 5787021,
+      "sha256" : "bedcc868fe70cfe772d48f0115bf3c0bc19cd3271133faaf7bcadf65d661ed70",
+      "size" : 5792947,
       "starCount" : 1,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.52",
-      "versionDate" : "2021-12-29T04:37:38Z",
-      "versionDescription" : "Release 0.8.52",
+      "version" : "0.8.53",
+      "versionDate" : "2021-12-31T03:42:31Z",
+      "versionDescription" : "Release 0.8.53",
       "watcherCount" : 0
     },
     {
@@ -253,28 +253,31 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Hex-Loupe.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Info.plist#db0de0d0cb5e85e55cb285941e3146d1bd20e1d1cca995a286250e4cdef40744",
       "name" : "Hex Loupe",
       "permissions" : [
-
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "6ae4dc184438637e0850b169d4c5cb221cdd0c39fb462c800be39a5450ddbbdc",
-      "size" : 5802069,
+      "sha256" : "9e68430c9bdd9374e1ae34f3535cb086ebb93c502e330c91ee714450d43db899",
+      "size" : 5840624,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.4",
-      "versionDate" : "2021-12-29T19:20:32Z",
-      "versionDescription" : "Release 0.0.4",
+      "version" : "0.0.6",
+      "versionDate" : "2021-12-31T03:42:28Z",
+      "versionDescription" : "Release 0.0.6",
       "watcherCount" : 0
     },
     {

@@ -39,7 +39,7 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/App-Fair.png",
       "issueCount" : 0,
@@ -205,31 +205,31 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Cloud-Cuckoo.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-mac-01-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-mac-02-1656x1560.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-mac-03-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.52/screenshot-mac-04-370x1816.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-mac-01-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-mac-02-1656x1560.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-mac-03-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-mac-04-370x1816.png"
       ],
-      "sha256" : "dfea6d4afa8897434512be195e708cb97c973a0b72668499369b607b2e7f0f55",
-      "size" : 2265181,
+      "sha256" : "3e6edc1983026bce8da785335a860b4bbb8977d3c5e2db536d6bd0fbc6e976dc",
+      "size" : 2267495,
       "starCount" : 1,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.52",
-      "versionDate" : "2021-12-29T04:37:38Z",
-      "versionDescription" : "Release 0.8.52",
+      "version" : "0.8.53",
+      "versionDate" : "2021-12-31T03:42:31Z",
+      "versionDescription" : "Release 0.8.53",
       "watcherCount" : 0
     },
     {
@@ -340,27 +340,30 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Hex-Loupe-macOS.zip",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Hex-Loupe.png",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Info.plist#db0de0d0cb5e85e55cb285941e3146d1bd20e1d1cca995a286250e4cdef40744",
       "name" : "Hex Loupe",
       "permissions" : [
-
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "0674f33516269090e8bdc0edba7422e47fbf3ebc38a1c21832e5320615b2c403",
-      "size" : 2297870,
+      "sha256" : "a7ad18e5fbcc25c49b96065c4807321d96fd9d3280ee2a73861e29734d29d597",
+      "size" : 2311262,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.4",
-      "versionDate" : "2021-12-29T19:20:32Z",
-      "versionDescription" : "Release 0.0.4",
+      "version" : "0.0.6",
+      "versionDate" : "2021-12-31T03:42:28Z",
+      "versionDescription" : "Release 0.0.6",
       "watcherCount" : 0
     },
     {
@@ -718,35 +721,35 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
         "public.app-category.social-networking"
       ],
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.3/Yankee-Swap-macOS.zip",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.3/Yankee-Swap.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.4/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.4/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Social swap",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.3/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.4/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Yankee Swap",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "9f50ba09ac5a6f68490d1fc5af87087339809efbbed067c7f231d7b7d9cf3ae5",
-      "size" : 2252617,
+      "sha256" : "51b983cae367aad162f4225a5e2d423a49289779c5f41489f5e34b16cbcb027c",
+      "size" : 2255346,
       "starCount" : 0,
       "subtitle" : "Social swap",
       "tintColor" : "3C82C1",
-      "version" : "0.0.3",
-      "versionDate" : "2021-12-29T19:26:25Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.4",
+      "versionDate" : "2021-12-31T03:42:58Z",
+      "versionDescription" : "Release 0.0.4",
       "watcherCount" : 0
     }
   ],

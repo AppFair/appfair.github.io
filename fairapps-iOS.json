@@ -1,45 +1,6 @@
 {
   "apps" : [
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/Bon-Mot.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.28/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "9c527d6391d30d481ef713c45c40188270e2c586d287a93ddb8bfc76689aa13f",
-      "size" : 5783965,
-      "starCount" : 1,
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.28",
-      "versionDate" : "2021-12-23T15:21:07Z",
-      "versionDescription" : "Release 0.2.28",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
@@ -47,12 +8,12 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/Bon-Mot.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.29/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.29/Bon-Mot.png",
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.29/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -64,18 +25,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.27/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.29/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8ee213292a3858445e62f2d1614933c379e6458a22036d11c33d1ccdf8d0c0c4",
-      "size" : 9294075,
+      "sha256" : "ba2e286b9877e26e4a1372738eed4fffe35707c53f447dc32f466a146a8e1817",
+      "size" : 5774688,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "0.2.27",
-      "versionDate" : "2021-12-20T02:01:10Z",
-      "versionDescription" : "Release 0.2.27",
+      "version" : "0.2.29",
+      "versionDate" : "2021-12-31T03:42:45Z",
+      "versionDescription" : "Release 0.2.29",
       "watcherCount" : 0
     },
     {
@@ -474,12 +435,12 @@
       ],
       "coreSize" : 69000,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.392/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.392/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.392/Info.plist#35938f82e024769dc865d828e25595c97cb42bb045879190a2819033d1100652",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/Info.plist#35938f82e024769dc865d828e25595c97cb42bb045879190a2819033d1100652",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -487,20 +448,20 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.392/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.392/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.392/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.392/screenshot-iphone-03-1170x2532.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.393/screenshot-iphone-02-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.393/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.393/screenshot-iphone-03-1170x2532.png"
       ],
-      "sha256" : "273ce6b1951b27ccf9bccb2c0d05f8d28970e36123a7aa2b93bb4b09fed0161b",
-      "size" : 15734551,
+      "sha256" : "adfd48233ca48bfc35d87f0f171c1e8bc3ac32d19cbdcb24255e214c0e298d65",
+      "size" : 15738809,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.392",
-      "versionDate" : "2021-12-26T20:07:53Z",
-      "versionDescription" : "Release 0.8.392",
+      "version" : "0.8.393",
+      "versionDate" : "2021-12-31T03:42:53Z",
+      "versionDescription" : "Release 0.8.393",
       "watcherCount" : 0
     },
     {

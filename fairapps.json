@@ -95,7 +95,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.29/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.29/Bon-Mot.png",
       "issueCount" : 0,
@@ -166,7 +166,7 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -300,7 +300,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Hex-Loupe-macOS.zip",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Hex-Loupe.png",
       "issueCount" : 0,
@@ -552,14 +552,14 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
       ],
       "coreSize" : 69000,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/Tune-Out.png",
       "issueCount" : 0,
@@ -589,71 +589,34 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "coreSize" : 69000,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.392/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.392/Tune-Out.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.392/Info.plist#35938f82e024769dc865d828e25595c97cb42bb045879190a2819033d1100652",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.392/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.392/screenshot-mac-01-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.392/screenshot-mac-02-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.392/screenshot-mac-03-2180x1464.png"
-      ],
-      "sha256" : "34f50b132b2fcd8bf394d54aba04122083cc539884e2e523703526d4c88c524b",
-      "size" : 8309018,
-      "starCount" : 0,
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.392",
-      "versionDate" : "2021-12-26T20:07:53Z",
-      "versionDescription" : "Release 0.8.392",
-      "watcherCount" : 0
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Tweet-Storm",
       "categories" : [
 
       ],
-      "coreSize" : 152608,
+      "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.2/Tweet-Storm-macOS.zip",
-      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.2/Tweet-Storm.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Tweet-Storm-macOS.zip",
+      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Tweet-Storm.png",
       "issueCount" : 0,
       "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Tweet Storm",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "044faeca6a594df7034db1438d90124f92872f924028025a89cbcc229fd87139",
-      "size" : 2441726,
+      "sha256" : "bf51807860cc8f3962b1e8adaa4790d38010b7ac3a05223646affeb411ff688e",
+      "size" : 2444428,
       "starCount" : 0,
       "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.2",
-      "versionDate" : "2021-12-29T19:18:54Z",
-      "versionDescription" : "Release 0.0.2",
+      "version" : "0.0.4",
+      "versionDate" : "2021-12-31T03:43:02Z",
+      "versionDescription" : "Release 0.0.4",
       "watcherCount" : 0
     },
     {
@@ -726,7 +689,7 @@
       ],
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.4/Yankee-Swap-macOS.zip",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.4/Yankee-Swap.png",
       "issueCount" : 0,

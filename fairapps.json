@@ -39,12 +39,12 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.65/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.65/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.65/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -68,23 +68,23 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.64/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.65/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_01-mac-dark-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_01-mac-light-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_02-mac-dark-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_02-mac-light-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_03-mac-dark-1424x1462.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.64/screenshot_03-mac-light-1424x1462.png"
+        "https://github.com/App-Fair/App/releases/download/0.7.65/screenshot_01-mac-dark-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.65/screenshot_01-mac-light-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.65/screenshot_02-mac-dark-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.65/screenshot_02-mac-light-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.65/screenshot_03-mac-dark-1424x1462.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.65/screenshot_03-mac-light-1424x1462.png"
       ],
-      "sha256" : "7387dd9e71028f09ca6173e77fac7941800a97ee7757d3197ec3fd324173dda9",
-      "size" : 2971274,
+      "sha256" : "7dda2d71836f677635b8ee46a278ea5303cadaf75b0a4f1584100a8652ce26f3",
+      "size" : 2971249,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.7.64",
-      "versionDate" : "2021-12-31T03:42:56Z",
-      "versionDescription" : "Release 0.7.64",
+      "version" : "0.7.65",
+      "versionDate" : "2022-01-01T05:32:49Z",
+      "versionDescription" : "Release 0.7.65",
       "watcherCount" : 0
     },
     {
@@ -166,31 +166,31 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Cloud-Cuckoo.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.54/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.54/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.54/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.54/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-mac-01-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-mac-02-1656x1560.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-mac-03-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.53/screenshot-mac-04-370x1816.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.54/screenshot-mac-01-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.54/screenshot-mac-02-1656x1560.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.54/screenshot-mac-03-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.8.54/screenshot-mac-04-370x1816.png"
       ],
-      "sha256" : "3e6edc1983026bce8da785335a860b4bbb8977d3c5e2db536d6bd0fbc6e976dc",
-      "size" : 2267495,
+      "sha256" : "a7c32a3e2f5ce6d5f635c3f94d21fae8d61806da4ba31d1cde43fbe63815c8e0",
+      "size" : 2267492,
       "starCount" : 1,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.8.53",
-      "versionDate" : "2021-12-31T03:42:31Z",
-      "versionDescription" : "Release 0.8.53",
+      "version" : "0.8.54",
+      "versionDate" : "2022-01-01T05:30:07Z",
+      "versionDescription" : "Release 0.8.54",
       "watcherCount" : 0
     },
     {

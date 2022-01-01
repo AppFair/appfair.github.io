@@ -402,29 +402,29 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "coreSize" : 68376,
+      "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.5/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.5/Sita-Sings-the-Blues.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.11/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.11/Sita-Sings-the-Blues.png",
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.5/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.11/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f77150d99b43a9015134cc4dbb17c00d617b8092481ad6f31339a704cf616a6e",
-      "size" : 5933772,
+      "sha256" : "6585daaac880ff3b729c06e91963b44a5eec7496aa47206fea099c0a46c9e618",
+      "size" : 5959043,
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.5",
-      "versionDate" : "2021-12-31T19:06:27Z",
-      "versionDescription" : "Release 0.0.5",
+      "version" : "0.0.11",
+      "versionDate" : "2022-01-01T16:14:03Z",
+      "versionDescription" : "Release 0.0.11",
       "watcherCount" : 0
     },
     {

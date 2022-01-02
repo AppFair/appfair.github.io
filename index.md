@@ -795,7 +795,8 @@ For this reason, extensions are not yet supported.
 
 Create a new GitHub Organization with the new name, and then fork your previous organization's app into the new organization. Change the `AppFairApp.xcconfig` metadata `PRODUCT_NAME` and `PRODUCT_BUNDLE_IDENTIFIER` keys to reflect the new name.
 
-Since the renamed app has a net bundle identifier, it will not have access to the sandboxed container of the previous app (since as far as the platform is concerned it is an entirely new and different app). It is recommended that any app that needs to migrate data account for this by updating the previously named app with facilities to export its data to the new app's container via an interactive process.
+Since the renamed app will have a new bundle identifier, it will not have access to the sandboxed container of the previous app (since as far as the platform is concerned it is an entirely new and different app). 
+It is recommended that any app that needs to migrate data account for this by updating the previously named app with facilities to export its data to the new app's container via an interactive process.
 
 Alternatively, an existing organization can be renamed to a new name, but note that any releases from the previous organization's name will no longer be available in the catalog.
 Once the `AppFairApp.xcconfig` metadata is updated to reflect the new name, releases can be issued from the new app.

@@ -1273,6 +1273,21 @@ The App Fair does not analyze any of your transitive dependences other than to e
 This is a known issue with Xcode 13. 
 Cleaning and then re-building the app often resolves the issue.
 
+### What is the maximum size of an App Fair app?
+
+There is no built-in maximum size that an App Fair app can be, other than limitations imposed by the fair-ground's hub's release mechanisms.
+GitHub limits individual binary releases to be [under 2 gigabytes in size](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#distributing-large-binaries).
+
+### How can I embed large files within an app?
+
+Individual files contained within an app, such as media resources, will be limited by the GitHub's limit of individual files being [under 100 megabytes](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-large-files-on-github#file-size-limits).
+Also, GitHub forks cannot utilize git's [Large File Support (LFS)](https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage).
+
+It is possible to structure the Swift Package Manager project so it depends on a resource-only package (such as with the sample app:  [Sita-Sings-the-Blues/App](https://github.com/Sita-Sings-the-Blues/App.git) and [Sita-Sings-the-Blues/Media](https://github.com/Sita-Sings-the-Blues/Media.git)), however these package still cannot use LFS due to issues with [SPM](https://forums.swift.org/t/swiftpm-with-git-lfs/42396).
+
+Other than structuring the app to dyamically download the large resources post-installation, the only other solution is to split up the media into multiple separate files and re-assemble them at runtime.
+One possible way to do this is with a command like `split -b 50m My_Large_Movie.mp4`, which will split up the resource into multiple files each 50 megabytes or less, and thereby suitable for inclusion within a package.
+
 ### My app's code mostly resides in an external Package. How can I make a release when only the dependent package has changed?
 
 You can simply bump the semantic release `MARKETING_VERSION` property of your `AppFairApp.xcconfig` and push the new tag, and the next version of your app will be up-to-date with your latest dependencies.

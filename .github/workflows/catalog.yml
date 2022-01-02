@@ -68,6 +68,7 @@ jobs:
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --artifact-extension "zip" \
             --fairseal-issuer "appfairbot" \
+            --retry-duration 600 \
             --allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
             --allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
@@ -82,6 +83,7 @@ jobs:
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --artifact-extension "ipa" \
             --fairseal-issuer "appfairbot" \
+            --retry-duration 600 \
             --allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
             --allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \

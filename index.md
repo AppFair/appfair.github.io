@@ -1150,8 +1150,10 @@ An ad-hoc signature, however, contains no identifying information associated wit
 ### How can I notarize my App Fair app?
 <a name="notarization"/>
 
-By default, apps built by the fair-ground system are not "notarized", as this requires a paid developer subscription.
-Apps installed by the App Fair catalog browser or using the homebrew cask do not require notarization.
+Notarization is a paid malware scanning service.
+Since the fair-ground scans release artifacts for malware, notarization provides minimal additional protection, and so Apps built by the fair-ground system do not require notarization.
+
+Apps installed by the App Fair catalog browser or using the homebrew cask do not require notarization. 
 
 Individual app forks can, optionally, configure automatic notarization of their app releases using [GitHub secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) for the organization. To perform notarization, add the following secrets to the organization containing the app fork:
 
@@ -1221,7 +1223,7 @@ then update the `PRODUCT_NAME` and `PRODUCT_BUNDLE_IDENTIFIER` keys in
 the `AppFairApp.xcconfig` to the new name.
 The next release you create will be released as the new name.
 
-### What are the consequences of rename an app?
+### What are the consequences of renaming an app?
 
 Since the bundle identifier will change from `app.App-NameA` to `app.App-NameB`, all the container settings for you app will change, so your users will find that they will not be able to access preferences or resources that were stored in the previous `app.App-NameA` container.
 
@@ -1230,6 +1232,14 @@ Since the bundle identifier will change from `app.App-NameA` to `app.App-NameB`,
 As a sandboxed app, only local container files and a certain set of system files can be accessed without adding the `files.user-selected.read-write` permission to the `Sandbox.entitlements` file and the corresponding `FairUsage` usage description property in the `Info.plist`.
 With the `files.user-selected.read-write` entitlement enabled, the normal sandboxing rules for file access will come into effect: users will need to explicitly grant access to files, either using the standard system "Powerbox" open panel, or by actions such as dragging a file onto the app's icon.
 Long-term access permissions for files will require that the security-scoped bookmark for the local file URL be persisted by the app and re-used for future access to the file.
+
+### How can resources be embedded in an App?
+
+The `/App-Name/App.git` fork contains two resource-specific folders that can be added to, and accessed at runtime using `Bundle.module.url(for:withExtension:)`:
+
+  1. Sources/App/Resources: a flat folder of Xcode-processable resources. This is where string translation and other localization-specific files should be placed. This folder will be flattened at build time, and so it not suitable for containing nested folders.
+  1. Sources/App/Bundle: a folder whose contents will be embedded with processing, and can be accessed at runtime in the "Bundle" resource. The folder can contain a hierarchy of sub-folders that will be maintained in the app's artifact. This folder can be accessed at runtime with: `Bundle.module.url(forResource: "Bundle/ResourceName.ext", withExtension: nil)`.
+
 
 ### How can I open and debug the app in Xcode?
 
@@ -1299,9 +1309,9 @@ This helps to contain any damage that may be caused by a malicious (or merely po
 
 Along with these preventative layers of protection, the underlying system also provides multiple independent remedial protections against bad actors, regardless of the signing or notarization status of the the app:
 
-  * built-in antivirus technology called "XProtect" performs signature-based detection of malware using a database that is updated regularly with signatures of newly-identified malware infections and strains
+  * Built-in antivirus technology based on [YARA signatures](https://github.com/VirusTotal/yara) (marketed as "XProtect") performs detection of malware using a database that is updated regularly with signatures of newly-identified malware infections and strains.
 
-  * the "Malware Removal Tool" (MRT) process remediates infections based on automatic updates of system data files and security information. The MRT removes malware upon receiving updated information, and it continues to check for infections on restart and login.
+  * The "Malware Removal Tool" (MRT) process remediates infections based on automatic updates of system data files and security information. The MRT removes malware upon receiving updated information, and it continues to check for infections over time.
 
 ### Does the integrate phase run an App's test cases?
 

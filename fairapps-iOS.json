@@ -397,37 +397,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "categories" : [
-        "public.app-category.entertainment"
-      ],
-      "coreSize" : 68840,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.22/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.22/Sita-Sings-the-Blues.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.22/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.22/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "2c7077ce6a8c6a577a2551ceaa256dfdb5ce49aeea36e4652c73e23bf6fff7fa",
-      "size" : 227082669,
-      "starCount" : 0,
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.22",
-      "versionDate" : "2022-01-02T16:53:46Z",
-      "versionDescription" : "Release 0.0.22",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
@@ -435,27 +404,27 @@
       ],
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.21/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.21/Sita-Sings-the-Blues.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.23/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.23/Sita-Sings-the-Blues.png",
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.21/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.23/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.21/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "0dbe8cae301ca47d9e1b7a5136e5e44a005d92f82bb8c222fcaf448d719e7c1f",
-      "size" : 227034024,
+      "sha256" : "95b94c5cebd69e34a3c626e09f4f417ded4533ba14d52b91199433b3d3dc2af6",
+      "size" : 227082706,
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.21",
-      "versionDate" : "2022-01-02T15:50:07Z",
-      "versionDescription" : "Release 0.0.21",
+      "version" : "0.0.23",
+      "versionDate" : "2022-01-02T17:07:56Z",
+      "versionDescription" : "Release 0.0.23",
       "watcherCount" : 0
     },
     {

@@ -40,11 +40,11 @@
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.67/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.67/App-Fair.png",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.68/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.68/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.67/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.68/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -68,23 +68,23 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.67/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.68/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.67/screenshot_01-mac-dark-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.67/screenshot_01-mac-light-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.67/screenshot_02-mac-dark-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.67/screenshot_02-mac-light-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.67/screenshot_03-mac-dark-1424x1462.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.67/screenshot_03-mac-light-1424x1462.png"
+        "https://github.com/App-Fair/App/releases/download/0.7.68/screenshot_01-mac-dark-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.68/screenshot_01-mac-light-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.68/screenshot_02-mac-dark-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.68/screenshot_02-mac-light-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.68/screenshot_03-mac-dark-1424x1462.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.68/screenshot_03-mac-light-1424x1462.png"
       ],
-      "sha256" : "1140fdbff3e64953b5f1d72f293b2b97ee0287ab61ca9d873595b6bf4bfb7081",
-      "size" : 2972227,
+      "sha256" : "44094177e53adc0222bca3b3f4b43f151931c4c0ba3306ca6649f34f6ba9d163",
+      "size" : 2989662,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.7.67",
-      "versionDate" : "2022-01-02T01:23:02Z",
-      "versionDescription" : "Release 0.7.67",
+      "version" : "0.7.68",
+      "versionDate" : "2022-01-02T16:57:24Z",
+      "versionDescription" : "Release 0.7.68",
       "watcherCount" : 0
     },
     {
@@ -466,7 +466,7 @@
       ],
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.22/Sita-Sings-the-Blues-macOS.zip",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.22/Sita-Sings-the-Blues.png",
       "issueCount" : 0,

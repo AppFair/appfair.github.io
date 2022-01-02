@@ -405,26 +405,26 @@
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.25/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.25/Sita-Sings-the-Blues.png",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.26/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.26/Sita-Sings-the-Blues.png",
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.25/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.26/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.25/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.26/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "b86dffe01999595170d1aa9f1f0e001437cf0c3b4340689fa83b96141b231dfd",
-      "size" : 1458009705,
+      "sha256" : "54e1455df10d5965525444afabf557a5e8a6a6c1228d3dd374813cc5d120523a",
+      "size" : 1458009701,
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.25",
-      "versionDate" : "2022-01-02T21:20:03Z",
-      "versionDescription" : "Release 0.0.25",
+      "version" : "0.0.26",
+      "versionDate" : "2022-01-02T21:47:39Z",
+      "versionDescription" : "Release 0.0.26",
       "watcherCount" : 0
     },
     {

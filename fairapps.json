@@ -425,6 +425,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.1/Net-Skip-macOS.zip",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.1/Net-Skip.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Net Skip",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "839d339a9279781e2f441f7a22637538434b7ffbf31f3845578f7dca6f0efee7",
+      "size" : 2425178,
+      "starCount" : 0,
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.1",
+      "versionDate" : "2022-01-03T16:29:15Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [

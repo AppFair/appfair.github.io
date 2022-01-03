@@ -8,7 +8,7 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.71/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.71/App-Fair.png",
       "issueCount" : 0,
@@ -229,6 +229,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Fox-Glove",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Fox-Glove-macOS.zip",
+      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Fox-Glove.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Browse the Web",
+      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Fox Glove",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "b6422a300d3f278b246a7e28f549a60c3d07e2c519f11f184af2809fb933f6b8",
+      "size" : 2388341,
+      "starCount" : 0,
+      "subtitle" : "Browse the Web",
+      "version" : "0.0.1",
+      "versionDate" : "2022-01-03T05:25:24Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [
@@ -339,7 +370,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.4/Media-Res-macOS.zip",
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.4/Media-Res.png",
       "issueCount" : 0,

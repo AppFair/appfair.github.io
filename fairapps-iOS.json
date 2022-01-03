@@ -173,6 +173,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Fox-Glove",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Fox-Glove-iOS.ipa",
+      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Fox-Glove.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Browse the Web",
+      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Fox Glove",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "7c6a2ce9908db7a192c7cc73dbae5b82ffc5264a2059bc6acb997f13d8681107",
+      "size" : 5918533,
+      "starCount" : 0,
+      "subtitle" : "Browse the Web",
+      "version" : "0.0.1",
+      "versionDate" : "2022-01-03T05:25:24Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [

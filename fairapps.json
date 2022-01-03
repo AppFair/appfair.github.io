@@ -363,6 +363,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+        "public.app-category.lifestyle"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.2/Media-Res-macOS.zip",
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.2/Media-Res.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "14fd9b9b4ff783e02ee54412c1ac75c28b7c03b9d357e2593c7d5274c9b22607",
+      "size" : 2313387,
+      "starCount" : 0,
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.2",
+      "versionDate" : "2022-01-03T00:49:39Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [

@@ -1,37 +1,6 @@
 {
   "apps" : [
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.App-Day",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 4782912,
-      "developerName" : "Marc Prud'hommeaux <mwp1@cornell.edu>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/App-Day/App/releases/download/0.0.1/App-Day-macOS.zip",
-      "iconURL" : "https://github.com/App-Day/App/releases/download/0.0.1/App-Day.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A simple but useful app",
-      "metadataURL" : "https://github.com/App-Day/App/releases/download/0.0.1/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
-      "name" : "App Day",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/App-Day/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "29784e20edd6a31c011e301e30c6c08abb442c9a512cbac128d4e56d1cc68e42",
-      "size" : 2433879,
-      "starCount" : 0,
-      "subtitle" : "A simple but useful app",
-      "version" : "0.0.1",
-      "versionDate" : "2021-12-09T10:57:52Z",
-      "versionDescription" : "",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
@@ -688,7 +657,7 @@
       "beta" : true,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "categories" : [
-
+        "public.app-category.finance"
       ],
       "coreSize" : 152640,
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -696,7 +665,7 @@
       "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/Unclear-Purpose-macOS.zip",
       "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/Unclear-Purpose.png",
       "issueCount" : 0,
-      "localizedDescription" : "Fork to make an App Fair App",
+      "localizedDescription" : "An unclear app",
       "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Unclear Purpose",
       "permissions" : [
@@ -709,7 +678,7 @@
       "sha256" : "8dc122c43e66d68cafc663db06ef2eeb711e3cc4aac11bf0d0643f21d98dc833",
       "size" : 2223262,
       "starCount" : 0,
-      "subtitle" : "Fork to make an App Fair App",
+      "subtitle" : "An unclear app",
       "version" : "0.0.1",
       "versionDate" : "2021-12-27T03:54:58Z",
       "versionDescription" : "",

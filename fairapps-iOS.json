@@ -369,7 +369,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
         "public.app-category.productivity"

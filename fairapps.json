@@ -2,63 +2,6 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 153056,
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.72/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.72/App-Fair.png",
-      "issueCount" : 0,
-      "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.72/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "type" : "temporary-exception.files.absolute-path.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.72/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.72/screenshot_01-mac-dark-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.72/screenshot_01-mac-light-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.72/screenshot_02-mac-dark-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.72/screenshot_02-mac-light-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.72/screenshot_03-mac-dark-1424x1462.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.72/screenshot_03-mac-light-1424x1462.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.72/screenshot_04-mac-dark-2878x2120.png"
-      ],
-      "sha256" : "bf40a38f4deaf666b25e543977e5873f20978ac855347be5b821e158efdaa829",
-      "size" : 2988973,
-      "starCount" : 0,
-      "subtitle" : "The App Fair Catalog Browser",
-      "tintColor" : "1594E8",
-      "version" : "0.7.72",
-      "versionDate" : "2022-01-03T14:28:02Z",
-      "versionDescription" : "Release 0.7.72",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"
@@ -432,7 +375,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.4/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.4/Net-Skip.png",
       "issueCount" : 0,
@@ -655,12 +598,12 @@
       ],
       "coreSize" : 69000,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 7,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/Tune-Out.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.394/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.394/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/Info.plist#35938f82e024769dc865d828e25595c97cb42bb045879190a2819033d1100652",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.394/Info.plist#35938f82e024769dc865d828e25595c97cb42bb045879190a2819033d1100652",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -668,20 +611,20 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.393/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.394/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.393/screenshot-mac-01-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.393/screenshot-mac-02-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.393/screenshot-mac-03-2180x1464.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.394/screenshot-mac-01-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.394/screenshot-mac-02-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.394/screenshot-mac-03-2180x1464.png"
       ],
-      "sha256" : "399b8a4e67de386e4ed2c4341d5d88ab91828f7f30d9418d1500f692d204b8ef",
-      "size" : 8312581,
+      "sha256" : "9c5b72c34df811f137dbd90b3eee57fcd3979f1aaba2dbf4ef8854ea3e70937c",
+      "size" : 8362061,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.393",
-      "versionDate" : "2021-12-31T03:42:53Z",
-      "versionDescription" : "Release 0.8.393",
+      "version" : "0.8.394",
+      "versionDate" : "2022-01-03T23:53:40Z",
+      "versionDescription" : "Release 0.8.394",
       "watcherCount" : 0
     },
     {
@@ -692,7 +635,7 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Tweet-Storm-macOS.zip",
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Tweet-Storm.png",
       "issueCount" : 0,

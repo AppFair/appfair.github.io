@@ -242,12 +242,12 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.32/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.32/Hear-Tell.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.33/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.33/Hear-Tell.png",
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.32/Info.plist#f722aa111cb3f3748448f646dc75cc82440ad8190bd710f60f6bbf8da8da1f9e",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.33/Info.plist#021c4acb1d6c79566c4a74b63a2c6dea94fef96c04558156f1da0d83daa7f0e4",
       "name" : "Hear Tell",
       "permissions" : [
         {
@@ -255,17 +255,17 @@
           "usageDescription" : "The microphone is used to process and identify ambient sounds."
         }
       ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.32/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.33/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "82abba4274ce4cfd39f935f043169561f7f47ee9880e6f81738a70dbd52a3294",
-      "size" : 5708248,
+      "sha256" : "d6ebbd20a9218c6d647c001273d572191b86731efecc5539c688acfa7a6791df",
+      "size" : 5837001,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.32",
-      "versionDate" : "2021-12-23T21:51:27Z",
-      "versionDescription" : "Release 0.3.32",
+      "version" : "0.3.33",
+      "versionDate" : "2022-01-04T16:25:01Z",
+      "versionDescription" : "Release 0.3.33",
       "watcherCount" : 0
     },
     {

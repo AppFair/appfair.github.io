@@ -528,27 +528,27 @@
       ],
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.29/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.29/Sita-Sings-the-Blues.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.30/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.30/Sita-Sings-the-Blues.png",
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.29/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.30/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.29/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.30/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "1764bfe352f3de9a4f1e6b5eb4d39ee1e94cba45e2731ef8eb7f7fa472e9f61c",
-      "size" : 1458111892,
+      "sha256" : "048f66baf64d8a291a388daeae3a75c7dcc95924cb1550b193e4d03ef0a4772b",
+      "size" : 1458111878,
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.29",
-      "versionDate" : "2022-01-03T22:19:59Z",
-      "versionDescription" : "Release 0.0.29",
+      "version" : "0.0.30",
+      "versionDate" : "2022-01-04T14:24:10Z",
+      "versionDescription" : "Release 0.0.30",
       "watcherCount" : 0
     },
     {
@@ -583,7 +583,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
@@ -617,43 +617,6 @@
       "version" : "0.8.395",
       "versionDate" : "2022-01-04T14:30:42Z",
       "versionDescription" : "Release 0.8.395",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "coreSize" : 69000,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.394/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.394/Tune-Out.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.394/Info.plist#35938f82e024769dc865d828e25595c97cb42bb045879190a2819033d1100652",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.394/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.394/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.394/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.394/screenshot-iphone-03-1170x2532.png"
-      ],
-      "sha256" : "4621bbc0daedec8cad13ddb4879f9efcb7cac91577373f133891e07c72e7dbb0",
-      "size" : 15876046,
-      "starCount" : 0,
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.394",
-      "versionDate" : "2022-01-03T23:53:40Z",
-      "versionDescription" : "Release 0.8.394",
       "watcherCount" : 0
     },
     {

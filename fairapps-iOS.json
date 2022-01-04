@@ -338,7 +338,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
         "public.app-category.education"
@@ -346,26 +346,26 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.1/Main-Course-iOS.ipa",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.1/Main-Course.png",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.3/Main-Course-iOS.ipa",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.3/Main-Course.png",
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.1/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.3/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Main Course",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.3/README.md#8070dddbae4b1b7eeb7dd4f95ba102a32acbd36644be53cc8fdfbdfc114dd53c",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "15e7e67a53d112acaea60c6353082317cddd10b80571f86e86cb66277ef9e781",
-      "size" : 5818031,
+      "sha256" : "8d447dc740725c1695903d68762b219aac6879add37be12a93c07251b2188242",
+      "size" : 15887397,
       "starCount" : 0,
       "subtitle" : "An offline recipe book",
-      "version" : "0.0.1",
-      "versionDate" : "2022-01-04T16:28:17Z",
-      "versionDescription" : "",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-04T16:53:01Z",
+      "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     },
     {

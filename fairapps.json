@@ -402,26 +402,26 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.4/Main-Course-macOS.zip",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.4/Main-Course.png",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.6/Main-Course-macOS.zip",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.6/Main-Course.png",
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.4/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.6/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Main Course",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.4/README.md#8070dddbae4b1b7eeb7dd4f95ba102a32acbd36644be53cc8fdfbdfc114dd53c",
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.6/README.md#8070dddbae4b1b7eeb7dd4f95ba102a32acbd36644be53cc8fdfbdfc114dd53c",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "50ffa76d08a5ae92dc81ecb002bad1b7d1dbcd6b9a6ef052600f68ebc9fce910",
-      "size" : 12406217,
+      "sha256" : "49820177b56cabb67f8a45881342ac5fa2c24af4909ddc5ab43ef43d7aaf5d3c",
+      "size" : 13138822,
       "starCount" : 0,
       "subtitle" : "An offline recipe book",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-04T19:52:33Z",
-      "versionDescription" : "Release 0.0.4",
+      "version" : "0.0.6",
+      "versionDate" : "2022-01-04T23:03:24Z",
+      "versionDescription" : "Release 0.0.6",
       "watcherCount" : 0
     },
     {

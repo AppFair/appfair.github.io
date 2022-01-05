@@ -376,27 +376,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.6/Media-Res-iOS.ipa",
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.6/Media-Res.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/Media-Res-iOS.ipa",
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/Media-Res.png",
       "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.6/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Media Res",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "b700a0e946071413518493d38158c066d06ddb8c43462eda0664cb3ab8692829",
-      "size" : 5938105,
+      "sha256" : "3d34ad31b465e1834717ecdbb3e6e002cf7939bbd35d140294510aee4a534067",
+      "size" : 5938116,
       "starCount" : 0,
       "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.6",
-      "versionDate" : "2022-01-03T22:19:40Z",
-      "versionDescription" : "Release 0.0.6",
+      "version" : "0.0.7",
+      "versionDate" : "2022-01-05T20:17:19Z",
+      "versionDescription" : "Release 0.0.7",
       "watcherCount" : 0
     },
     {

@@ -80,7 +80,7 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -713,35 +713,35 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "coreSize" : 152608,
+      "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Yankee-Swap-iOS.ipa",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Yankee-Swap.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/Yankee-Swap-iOS.ipa",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/Info.plist#69c09b6caaa9c3e7eaf9d0ec21a664a0f629146603d414c481a4a30eeddd4b19",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Yankee Swap",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "0888abcd9852f77bcdd1a0b400b04f0b3f1848f0617c212fdd9cb93b530255a8",
-      "size" : 5697942,
+      "sha256" : "b742d121c72393c8d76c07d8f1bd369efefc1cf7bd0e1d813b4be91e0e0b8983",
+      "size" : 5934084,
       "starCount" : 0,
       "subtitle" : "Old-time horse trading",
       "tintColor" : "3C82C1",
-      "version" : "0.0.2",
-      "versionDate" : "2021-12-07T13:55:24Z",
-      "versionDescription" : "",
+      "version" : "0.0.5",
+      "versionDate" : "2022-01-05T01:51:00Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     }
   ],

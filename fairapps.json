@@ -8,12 +8,12 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.88/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.88/App-Fair.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.89/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.89/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.88/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.89/Info.plist#32c6bc2b171a2b5fc705bcb9bc07a2dd3f511927b51cf8c057715eca41a136d2",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,24 +37,24 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.88/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.89/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.88/screenshot_01-mac-dark-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.88/screenshot_01-mac-light-2418x1980.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.88/screenshot_02-mac-dark-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.88/screenshot_02-mac-light-2720x1876.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.88/screenshot_03-mac-dark-1424x1462.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.88/screenshot_03-mac-light-1424x1462.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.88/screenshot_04-mac-dark-2878x2120.png"
+        "https://github.com/App-Fair/App/releases/download/0.7.89/screenshot_01-mac-dark-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.89/screenshot_01-mac-light-2418x1980.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.89/screenshot_02-mac-dark-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.89/screenshot_02-mac-light-2720x1876.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.89/screenshot_03-mac-dark-1424x1462.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.89/screenshot_03-mac-light-1424x1462.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.89/screenshot_04-mac-dark-2878x2120.png"
       ],
-      "sha256" : "32703d040dbd83e8392f1a6484f8e199df04315861581b44f7e4f2e131b947b5",
-      "size" : 3075036,
+      "sha256" : "882c89d2d78aaf4bed98afed6e66cbd5ca566b6ea4941afbe94ff400009ed7d7",
+      "size" : 3051670,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.7.88",
-      "versionDate" : "2022-01-05T06:06:36Z",
-      "versionDescription" : "Release 0.7.88",
+      "version" : "0.7.89",
+      "versionDate" : "2022-01-05T14:21:11Z",
+      "versionDescription" : "Release 0.7.89",
       "watcherCount" : 0
     },
     {
@@ -136,31 +136,31 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/Cloud-Cuckoo.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/screenshot-mac-01-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/screenshot-mac-02-1656x1560.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/screenshot-mac-03-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/screenshot-mac-04-370x1816.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/screenshot-mac-01-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/screenshot-mac-02-1656x1560.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/screenshot-mac-03-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/screenshot-mac-04-370x1816.png"
       ],
-      "sha256" : "120fdea0b172014ddb7d0f1dcf832f436ec06b5ee17fee7d171d778cb6478eaa",
-      "size" : 2316385,
+      "sha256" : "6156e79eedcf15f0fc0b395e1fd2adf33d1cec18b0a2b2b4b9797bc734f04bdb",
+      "size" : 2316537,
       "starCount" : 1,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.5",
-      "versionDate" : "2022-01-05T01:49:38Z",
-      "versionDescription" : "Release 0.9.5",
+      "version" : "0.9.6",
+      "versionDate" : "2022-01-05T16:02:36Z",
+      "versionDescription" : "Release 0.9.6",
       "watcherCount" : 0
     },
     {
@@ -267,7 +267,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
+      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Fox-Glove-macOS.zip",
       "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Fox-Glove.png",
       "issueCount" : 0,
@@ -367,7 +367,7 @@
       ],
       "coreSize" : 68464,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.75/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.75/Lottie-Motion.png",
       "issueCount" : 0,
@@ -494,7 +494,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
+      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.4/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.4/Net-Skip.png",
       "issueCount" : 0,
@@ -591,29 +591,29 @@
       ],
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 6,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/Sita-Sings-the-Blues-macOS.zip",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/Sita-Sings-the-Blues.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/Sita-Sings-the-Blues-macOS.zip",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/Sita-Sings-the-Blues.png",
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
       "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/screenshot-mac-01-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/screenshot-mac-02-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/screenshot-mac-03-2540x1658.png"
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/screenshot-mac-01-2540x1658.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/screenshot-mac-03-2540x1658.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/screenshot-mac-02-2540x1658.png"
       ],
-      "sha256" : "12add4c6eac33180720e2b6249493e0d17306ed214111008bec9a6d3a0a050e6",
-      "size" : 1454455922,
+      "sha256" : "18a2de28497d856e546caf4a13d65db238db955496fd6adbca36b1300b841651",
+      "size" : 1454456387,
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.31",
-      "versionDate" : "2022-01-04T19:52:19Z",
-      "versionDescription" : "Release 0.0.31",
+      "version" : "0.0.32",
+      "versionDate" : "2022-01-05T16:02:42Z",
+      "versionDescription" : "Release 0.0.32",
       "watcherCount" : 0
     },
     {
@@ -715,14 +715,14 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 69000,
+      "coreSize" : 153168,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.397/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.397/Tune-Out.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.398/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.398/Tune-Out.png",
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.397/Info.plist#1cae741c6cbc1923f8556f012ba8d08ad02fae26c41165f6c9b698c532dea18e",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.398/Info.plist#1cae741c6cbc1923f8556f012ba8d08ad02fae26c41165f6c9b698c532dea18e",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -730,20 +730,20 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.397/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.398/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.397/screenshot-mac-01-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.397/screenshot-mac-02-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.397/screenshot-mac-03-2180x1464.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.398/screenshot-mac-01-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.398/screenshot-mac-02-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.398/screenshot-mac-03-2180x1464.png"
       ],
-      "sha256" : "61e079306e6c84a4598f76d8a18b9df6f5c9afd3566238f9d7812fd84ac9375a",
-      "size" : 8362101,
+      "sha256" : "c2b7d057acb11a1eb92579690525e431f6f3ec3ea4bec69c3d1a0ebe8966b718",
+      "size" : 8362487,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.397",
-      "versionDate" : "2022-01-05T01:03:00Z",
-      "versionDescription" : "Release 0.8.397",
+      "version" : "0.8.398",
+      "versionDate" : "2022-01-05T16:02:58Z",
+      "versionDescription" : "Release 0.8.398",
       "watcherCount" : 0
     },
     {
@@ -778,34 +778,34 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Ultra-Light",
       "categories" : [
 
       ],
-      "coreSize" : 152608,
+      "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.1/Ultra-Light-macOS.zip",
-      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.1/Ultra-Light.png",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/Ultra-Light-macOS.zip",
+      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/Ultra-Light.png",
       "issueCount" : 0,
       "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Ultra Light",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "84063a698fc0137e91c8a2e2422be99faa213632b5bb2ab7804e29840147ce06",
-      "size" : 2254193,
+      "sha256" : "e3366dccc91b620a92bc47a40050e4eb9c66a4d2fd64018a3c217f9d39a0df69",
+      "size" : 2262496,
       "starCount" : 0,
       "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.1",
-      "versionDate" : "2022-01-04T07:13:18Z",
-      "versionDescription" : "",
+      "version" : "0.0.2",
+      "versionDate" : "2022-01-05T16:05:30Z",
+      "versionDescription" : "Release 0.0.2",
       "watcherCount" : 0
     },
     {

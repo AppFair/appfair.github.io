@@ -81,30 +81,30 @@
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/Cloud-Cuckoo.png",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/Cloud-Cuckoo.png",
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/screenshot-iphone-01-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/screenshot-iphone-02-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/screenshot-iphone-03-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.5/screenshot-iphone-04-1170x2532.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/screenshot-iphone-01-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/screenshot-iphone-03-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/screenshot-iphone-02-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/screenshot-iphone-04-1170x2532.png"
       ],
-      "sha256" : "d7ed9621bfe86cbad9f8974c7ce0d4ef0e641920363008eb645a61584a2f6f6f",
-      "size" : 5933373,
+      "sha256" : "598fdfc552bc3dd841ee775a000d3f2f2122c296d9e84f40c557e4fbc03fd663",
+      "size" : 5933822,
       "starCount" : 1,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.5",
-      "versionDate" : "2022-01-05T01:49:38Z",
-      "versionDescription" : "Release 0.9.5",
+      "version" : "0.9.6",
+      "versionDate" : "2022-01-05T16:02:36Z",
+      "versionDescription" : "Release 0.9.6",
       "watcherCount" : 0
     },
     {
@@ -560,26 +560,26 @@
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/Sita-Sings-the-Blues.png",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/Sita-Sings-the-Blues.png",
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.31/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.32/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8f15e86229b380d6fa0eaacf976e2d64d6d7b801dabf156f228b33108c9761da",
-      "size" : 1458111922,
+      "sha256" : "3072c890ef0eea39600e46f2a437b296de4d2ad617b40d3686609bf64e2f1b83",
+      "size" : 1458112598,
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.31",
-      "versionDate" : "2022-01-04T19:52:19Z",
-      "versionDescription" : "Release 0.0.31",
+      "version" : "0.0.32",
+      "versionDate" : "2022-01-05T16:02:42Z",
+      "versionDescription" : "Release 0.0.32",
       "watcherCount" : 0
     },
     {
@@ -619,7 +619,7 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "coreSize" : 69000,
+      "coreSize" : 153168,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.397/Tune-Out-iOS.ipa",
@@ -679,6 +679,37 @@
       "version" : "0.0.4",
       "versionDate" : "2021-12-31T03:43:02Z",
       "versionDescription" : "Release 0.0.4",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Ultra-Light",
+      "categories" : [
+
+      ],
+      "coreSize" : 68360,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/Ultra-Light-iOS.ipa",
+      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/Ultra-Light.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fork to make an App Fair App",
+      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Ultra Light",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "c1da45e3d67b40f579b5135539d352430374e195e2dbce6030512b3ab1727660",
+      "size" : 5833721,
+      "starCount" : 0,
+      "subtitle" : "Fork to make an App Fair App",
+      "version" : "0.0.2",
+      "versionDate" : "2022-01-05T16:05:30Z",
+      "versionDescription" : "Release 0.0.2",
       "watcherCount" : 0
     },
     {

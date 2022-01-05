@@ -714,6 +714,37 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Unclear-Purpose",
+      "categories" : [
+        "public.app-category.finance"
+      ],
+      "coreSize" : 68368,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Unclear-Purpose-iOS.ipa",
+      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Unclear-Purpose.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An unclear app",
+      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "name" : "Unclear Purpose",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "5a4f996899fee293e6bd1975cc3f6c24cfbd85fad9241864f32cb2a546a81f42",
+      "size" : 5871288,
+      "starCount" : 0,
+      "subtitle" : "An unclear app",
+      "version" : "0.0.2",
+      "versionDate" : "2022-01-05T21:39:05Z",
+      "versionDescription" : "Release 0.0.2",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Visi-Calc",
       "categories" : [
         "public.app-category.business"

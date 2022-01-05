@@ -136,7 +136,7 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.6/Cloud-Cuckoo.png",
       "issueCount" : 0,
@@ -432,7 +432,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/Media-Res-macOS.zip",
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/Media-Res.png",
       "issueCount" : 0,
@@ -809,34 +809,34 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "categories" : [
         "public.app-category.finance"
       ],
-      "coreSize" : 152640,
+      "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/Unclear-Purpose-macOS.zip",
-      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/Unclear-Purpose.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Unclear-Purpose-macOS.zip",
+      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Unclear-Purpose.png",
       "issueCount" : 0,
       "localizedDescription" : "An unclear app",
-      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Unclear Purpose",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8dc122c43e66d68cafc663db06ef2eeb711e3cc4aac11bf0d0643f21d98dc833",
-      "size" : 2223262,
+      "sha256" : "f77e7057302da90cf01cc73449f10e7fb36bb5e9dba6490d1ca6bde29cfb7d25",
+      "size" : 2299750,
       "starCount" : 0,
       "subtitle" : "An unclear app",
-      "version" : "0.0.1",
-      "versionDate" : "2021-12-27T03:54:58Z",
-      "versionDescription" : "",
+      "version" : "0.0.2",
+      "versionDate" : "2022-01-05T21:39:05Z",
+      "versionDescription" : "Release 0.0.2",
       "watcherCount" : 0
     },
     {

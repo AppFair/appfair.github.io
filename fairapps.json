@@ -332,12 +332,12 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Hex-Loupe-macOS.zip",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Hex-Loupe.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/Info.plist#db0de0d0cb5e85e55cb285941e3146d1bd20e1d1cca995a286250e4cdef40744",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/Info.plist#db0de0d0cb5e85e55cb285941e3146d1bd20e1d1cca995a286250e4cdef40744",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -345,18 +345,18 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a7ad18e5fbcc25c49b96065c4807321d96fd9d3280ee2a73861e29734d29d597",
-      "size" : 2311262,
+      "sha256" : "d287bd55637825d749c3af0543f90f712e67ca125d1ec8cd45da70d82a328f1e",
+      "size" : 2360252,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.6",
-      "versionDate" : "2021-12-31T03:42:28Z",
-      "versionDescription" : "Release 0.0.6",
+      "version" : "0.0.7",
+      "versionDate" : "2022-01-06T00:31:45Z",
+      "versionDescription" : "Release 0.0.7",
       "watcherCount" : 0
     },
     {

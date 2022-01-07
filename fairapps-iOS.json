@@ -689,27 +689,27 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/Ultra-Light-iOS.ipa",
-      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/Ultra-Light.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/Ultra-Light-iOS.ipa",
+      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/Ultra-Light.png",
       "issueCount" : 0,
       "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Ultra Light",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c1da45e3d67b40f579b5135539d352430374e195e2dbce6030512b3ab1727660",
-      "size" : 5833721,
+      "sha256" : "8aadbfa4cbfe527d44d8c1742ffbc820f2ca29bcb01c00bcaaaaa228a2c5a67d",
+      "size" : 5834020,
       "starCount" : 0,
       "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-05T16:05:30Z",
-      "versionDescription" : "Release 0.0.2",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-07T21:51:15Z",
+      "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     },
     {

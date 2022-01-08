@@ -590,27 +590,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.1/Tidal-Zone-iOS.ipa",
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.1/Tidal-Zone.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.3/Tidal-Zone-iOS.ipa",
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.3/Tidal-Zone.png",
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.1/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.3/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Tidal Zone",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f755f27610a446dc929439d2c4f1d1a2d566456ff472bf2ca93fb5afd0f0b89e",
-      "size" : 6013462,
+      "sha256" : "8cea3169f12179791a6b685f4a57142ed5b23a1e0b74a89a527bb129642f514b",
+      "size" : 6013456,
       "starCount" : 0,
       "subtitle" : "What tide is it right now?",
-      "version" : "0.0.1",
-      "versionDate" : "2022-01-08T18:27:34Z",
-      "versionDescription" : "",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-08T20:16:28Z",
+      "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     },
     {

@@ -584,6 +584,37 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Tidal-Zone",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.1/Tidal-Zone-iOS.ipa",
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.1/Tidal-Zone.png",
+      "issueCount" : 0,
+      "localizedDescription" : "What tide is it right now?",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.1/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Tidal Zone",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "f755f27610a446dc929439d2c4f1d1a2d566456ff472bf2ca93fb5afd0f0b89e",
+      "size" : 6013462,
+      "starCount" : 0,
+      "subtitle" : "What tide is it right now?",
+      "version" : "0.0.1",
+      "versionDate" : "2022-01-08T18:27:34Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
         "public.app-category.games"

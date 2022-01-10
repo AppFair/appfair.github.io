@@ -298,7 +298,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell-macOS.zip",
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell.png",
       "issueCount" : 0,
@@ -524,6 +524,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+        "public.app-category.lifestyle"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.8/Media-Res-macOS.zip",
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.8/Media-Res.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.8/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "334324c2e2850cbc53abffe5f99742c505ff22d1cc1505fac3070637e9affb04",
+      "size" : 2349533,
+      "starCount" : 0,
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.8",
+      "versionDate" : "2022-01-10T00:38:57Z",
+      "versionDescription" : "Release 0.0.8",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Media-Res",
       "categories" : [
@@ -555,6 +586,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Name-Sense",
+      "categories" : [
+
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/Name-Sense-macOS.zip",
+      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/Name-Sense.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fork to make an App Fair App",
+      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Name Sense",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "59de3b1a37874f1b528d39636a87a59496bd796ffd7b696d1460019b48cf0c7c",
+      "size" : 2363944,
+      "starCount" : 0,
+      "subtitle" : "Fork to make an App Fair App",
+      "version" : "0.0.16",
+      "versionDate" : "2022-01-10T00:38:48Z",
+      "versionDescription" : "Release 0.0.16",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
@@ -583,6 +645,37 @@
       "version" : "0.0.15",
       "versionDate" : "2021-12-27T07:01:27Z",
       "versionDescription" : "Release 0.0.15",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip-macOS.zip",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Net Skip",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "7dc866411eeff952367d2860843b636ef6ac8315e17886e454f59f5216b6fe8f",
+      "size" : 2451412,
+      "starCount" : 0,
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.5",
+      "versionDate" : "2022-01-10T00:38:53Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {
@@ -648,6 +741,38 @@
       "version" : "0.4.16",
       "versionDate" : "2021-12-23T21:16:17Z",
       "versionDescription" : "Release 0.4.16",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Pan-Opticon",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 68360,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/Pan-Opticon-macOS.zip",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/Pan-Opticon.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Watch the Watchers",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Pan Opticon",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "026a8a79460a5d9d7ffc9b28f00507017842ddb3e60961bec65bb169cd090cf8",
+      "size" : 2597921,
+      "starCount" : 0,
+      "subtitle" : "Watch the Watchers",
+      "tintColor" : "CC00AA",
+      "version" : "0.2.16",
+      "versionDate" : "2022-01-10T00:38:51Z",
+      "versionDescription" : "Release 0.2.16",
       "watcherCount" : 0
     },
     {

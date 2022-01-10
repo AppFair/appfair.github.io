@@ -291,6 +291,40 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hear-Tell",
+      "categories" : [
+        "public.app-category.healthcare-fitness"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Identify ambient sounds.",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Info.plist#021c4acb1d6c79566c4a74b63a2c6dea94fef96c04558156f1da0d83daa7f0e4",
+      "name" : "Hear Tell",
+      "permissions" : [
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "The microphone is used to process and identify ambient sounds."
+        }
+      ],
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "9e5c2f493e63c9f9a2f04090bc5083964852354ae5b5115c991c899c57eb63bc",
+      "size" : 2284142,
+      "starCount" : 0,
+      "subtitle" : "Identify ambient sounds.",
+      "version" : "0.3.34",
+      "versionDate" : "2022-01-10T00:38:44Z",
+      "versionDescription" : "Release 0.3.34",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [
@@ -367,7 +401,7 @@
       ],
       "coreSize" : 68464,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Lottie-Motion.png",
       "issueCount" : 0,

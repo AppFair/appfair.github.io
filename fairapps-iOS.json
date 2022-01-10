@@ -235,6 +235,40 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hear-Tell",
+      "categories" : [
+        "public.app-category.healthcare-fitness"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell-iOS.ipa",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Identify ambient sounds.",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Info.plist#021c4acb1d6c79566c4a74b63a2c6dea94fef96c04558156f1da0d83daa7f0e4",
+      "name" : "Hear Tell",
+      "permissions" : [
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "The microphone is used to process and identify ambient sounds."
+        }
+      ],
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "36ce41c89395e0193400c519f309057da5310d85b65208374e9f4205f119b63f",
+      "size" : 5839094,
+      "starCount" : 0,
+      "subtitle" : "Identify ambient sounds.",
+      "version" : "0.3.34",
+      "versionDate" : "2022-01-10T00:38:44Z",
+      "versionDescription" : "Release 0.3.34",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Hear-Tell",
       "categories" : [
@@ -311,7 +345,7 @@
       ],
       "coreSize" : 68464,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Lottie-Motion-iOS.ipa",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Lottie-Motion.png",
       "issueCount" : 0,
@@ -379,7 +413,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Main-Course-iOS.ipa",
       "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Main-Course.png",
       "issueCount" : 0,
@@ -582,6 +616,38 @@
       "version" : "0.0.45",
       "versionDate" : "2021-12-04T02:37:55Z",
       "versionDescription" : "Release 0.0.45",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Pan-Opticon",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 68360,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/Pan-Opticon.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Watch the Watchers",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Pan Opticon",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "15e93626716de1e2002eacf161e6d01eae29af6d1ec7dd731c23ccbd78eda2a8",
+      "size" : 6449910,
+      "starCount" : 0,
+      "subtitle" : "Watch the Watchers",
+      "tintColor" : "CC00AA",
+      "version" : "0.2.16",
+      "versionDate" : "2022-01-10T00:38:51Z",
+      "versionDescription" : "Release 0.2.16",
       "watcherCount" : 0
     },
     {

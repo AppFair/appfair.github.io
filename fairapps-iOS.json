@@ -276,12 +276,12 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/Hex-Loupe.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/Info.plist#db0de0d0cb5e85e55cb285941e3146d1bd20e1d1cca995a286250e4cdef40744",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Info.plist#a8a673131c9f71096d58e1155fab49056bad5d9a6126deb62560ab7715eb8764",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -289,18 +289,18 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "914c651a5741b5982b007b4f8abdea3b0d5741fc121dc19b40217d5184507df7",
-      "size" : 5977922,
+      "sha256" : "e01cc64a125c32e2f5b6805b880ab42fd884b0ef637fcd46186f8da1b7b1b132",
+      "size" : 5979178,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.7",
-      "versionDate" : "2022-01-06T00:31:45Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.8",
+      "versionDate" : "2022-01-10T00:21:28Z",
+      "versionDescription" : "Release 0.0.8",
       "watcherCount" : 0
     },
     {
@@ -590,27 +590,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.6/Tidal-Zone-iOS.ipa",
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.6/Tidal-Zone.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/Tidal-Zone-iOS.ipa",
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/Tidal-Zone.png",
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.6/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Tidal Zone",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.6/README.md#b1d0690e1c2a8c039d5a69a350794bf1f7411e9193fd5cff2905584299a44a47",
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/README.md#b1d0690e1c2a8c039d5a69a350794bf1f7411e9193fd5cff2905584299a44a47",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "0213ade6bca4dacd222474eab100085aa33b8ef330aa248b56eb787a662bb4d4",
-      "size" : 6013455,
+      "sha256" : "c30f9a55222b2807fa5db914f7e2bf29518617c8e2a896b753925a1d920de703",
+      "size" : 6013465,
       "starCount" : 0,
       "subtitle" : "What tide is it right now?",
-      "version" : "0.0.6",
-      "versionDate" : "2022-01-09T15:34:22Z",
-      "versionDescription" : "Release 0.0.6",
+      "version" : "0.0.7",
+      "versionDate" : "2022-01-10T00:21:39Z",
+      "versionDescription" : "Release 0.0.7",
       "watcherCount" : 0
     },
     {

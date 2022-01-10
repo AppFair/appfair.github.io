@@ -332,12 +332,12 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/Hex-Loupe-macOS.zip",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/Hex-Loupe.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/Info.plist#db0de0d0cb5e85e55cb285941e3146d1bd20e1d1cca995a286250e4cdef40744",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Info.plist#a8a673131c9f71096d58e1155fab49056bad5d9a6126deb62560ab7715eb8764",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -345,18 +345,18 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "d287bd55637825d749c3af0543f90f712e67ca125d1ec8cd45da70d82a328f1e",
-      "size" : 2360252,
+      "sha256" : "ca191b9af923ab4f276b1bc024d6f9eff975fe4e1aba6430eb2fc592fea1dfb4",
+      "size" : 2361101,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.7",
-      "versionDate" : "2022-01-06T00:31:45Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.8",
+      "versionDate" : "2022-01-10T00:21:28Z",
+      "versionDescription" : "Release 0.0.8",
       "watcherCount" : 0
     },
     {
@@ -655,27 +655,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.6/Tidal-Zone-macOS.zip",
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.6/Tidal-Zone.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/Tidal-Zone-macOS.zip",
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/Tidal-Zone.png",
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.6/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Tidal Zone",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.6/README.md#b1d0690e1c2a8c039d5a69a350794bf1f7411e9193fd5cff2905584299a44a47",
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/README.md#b1d0690e1c2a8c039d5a69a350794bf1f7411e9193fd5cff2905584299a44a47",
       "screenshotURLs" : [
-        "https://github.com/Tidal-Zone/App/releases/download/0.0.6/screenshot-mac-01-2024x1124.png"
+        "https://github.com/Tidal-Zone/App/releases/download/0.0.7/screenshot-mac-01-2024x1124.png"
       ],
-      "sha256" : "b6263c7267e885f943715a533ca188973d86add7f9bb4b4fc6815ecf92346ebc",
-      "size" : 2412684,
+      "sha256" : "5eba83bea4ad7ee33fde97eaf493fc7a3f52bc7d271bfceb90ff5d698e8b4f35",
+      "size" : 2412680,
       "starCount" : 0,
       "subtitle" : "What tide is it right now?",
-      "version" : "0.0.6",
-      "versionDate" : "2022-01-09T15:34:22Z",
-      "versionDescription" : "Release 0.0.6",
+      "version" : "0.0.7",
+      "versionDate" : "2022-01-10T00:21:39Z",
+      "versionDescription" : "Release 0.0.7",
       "watcherCount" : 0
     },
     {

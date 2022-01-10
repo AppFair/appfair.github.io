@@ -360,6 +360,40 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 68464,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Lottie-Motion-macOS.zip",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Lottie-Motion.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Info.plist#59f0642ec715c4c86fe4da2a72c0929601088387d6a94f86ca893ceb42b033a3",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "f8dba624b9746b7f791d5a6af052cd6b451d610e1b44f6a7800ef26ef313c241",
+      "size" : 3098496,
+      "starCount" : 0,
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.76",
+      "versionDate" : "2022-01-10T00:38:41Z",
+      "versionDescription" : "Release 0.0.76",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
@@ -391,6 +425,37 @@
       "version" : "0.0.75",
       "versionDate" : "2022-01-05T04:05:06Z",
       "versionDescription" : "Release 0.0.75",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Main-Course",
+      "categories" : [
+        "public.app-category.education"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Main-Course-macOS.zip",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Main-Course.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An offline recipe book",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Main Course",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/README.md#8070dddbae4b1b7eeb7dd4f95ba102a32acbd36644be53cc8fdfbdfc114dd53c",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "652c40aa2f5bebd55d6ea1a7a5ab9f7ddc84d582b982b3fccf22b8e09b488e11",
+      "size" : 13139829,
+      "starCount" : 0,
+      "subtitle" : "An offline recipe book",
+      "version" : "0.0.8",
+      "versionDate" : "2022-01-10T00:38:38Z",
+      "versionDescription" : "Release 0.0.8",
       "watcherCount" : 0
     },
     {
@@ -816,7 +881,7 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Ultra-Light-macOS.zip",
       "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Ultra-Light.png",
       "issueCount" : 0,
@@ -867,6 +932,37 @@
       "subtitle" : "Fork to make an App Fair App",
       "version" : "0.0.3",
       "versionDate" : "2022-01-07T21:51:15Z",
+      "versionDescription" : "Release 0.0.3",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Unclear-Purpose",
+      "categories" : [
+        "public.app-category.finance"
+      ],
+      "coreSize" : 68368,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/Unclear-Purpose-macOS.zip",
+      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/Unclear-Purpose.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An unclear app",
+      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Unclear Purpose",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "a616273d8cd060bf7124406dd12d0df5f42a17aa07f4b68ee558ca5dbbc52bbe",
+      "size" : 2300908,
+      "starCount" : 0,
+      "subtitle" : "An unclear app",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-10T00:38:27Z",
       "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     },

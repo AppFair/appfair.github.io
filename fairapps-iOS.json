@@ -276,7 +276,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Hex-Loupe-iOS.ipa",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Hex-Loupe.png",
       "issueCount" : 0,
@@ -590,7 +590,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/Tidal-Zone-iOS.ipa",
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.7/Tidal-Zone.png",
       "issueCount" : 0,
@@ -713,6 +713,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Ultra-Light",
+      "categories" : [
+
+      ],
+      "coreSize" : 68360,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Ultra-Light-iOS.ipa",
+      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Ultra-Light.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Fork to make an App Fair App",
+      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Ultra Light",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "cb62f16ec74839346db2518c5a8238ffd0398a5cb53be529c73ee064617c525e",
+      "size" : 5835835,
+      "starCount" : 0,
+      "subtitle" : "Fork to make an App Fair App",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-10T00:38:31Z",
+      "versionDescription" : "Release 0.0.4",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Ultra-Light",
       "categories" : [
@@ -803,6 +834,38 @@
       "version" : "0.0.35",
       "versionDate" : "2021-12-04T14:58:06Z",
       "versionDescription" : "Release 0.0.35",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Yankee-Swap",
+      "categories" : [
+        "public.app-category.social-networking"
+      ],
+      "coreSize" : 68360,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/Yankee-Swap-iOS.ipa",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/Yankee-Swap.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Old-time horse trading",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Yankee Swap",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "0abd618a5125ab9ec9b8bc6013f9ca1115f148276ac11b7ccc70e03bebdebfc6",
+      "size" : 5936212,
+      "starCount" : 0,
+      "subtitle" : "Old-time horse trading",
+      "tintColor" : "3C82C1",
+      "version" : "0.0.6",
+      "versionDate" : "2022-01-10T00:38:34Z",
+      "versionDescription" : "Release 0.0.6",
       "watcherCount" : 0
     },
     {

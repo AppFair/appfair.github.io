@@ -105,7 +105,7 @@ killall -qI "${FAIR_GROUND}"
 # ensure we have write access to App Fair (otherwise we may need sudo)
 mkdir -p "${INSTALL_PATH}" || abort "Could not create install folder: ${INSTALL_PATH}"
 
-chmod 777 "${INSTALL_PATH}/" || abort "Could not fix permissions on ${INSTALL_PATH}/"
+chmod 777 "${INSTALL_PATH}/" || true # abort "Could not fix permissions on ${INSTALL_PATH}/"
 
 # remove previous version if it is installed
 mv -f "${INSTALL_PATH}" "~/.Trash/App-Fair-$(uuidgen)" || true # failure is permitted
@@ -123,6 +123,23 @@ codesign --verify --deep --strict "${APP_PATH}" || abort "Validation Failed"
 #spctl -a -vv -t execute "${APP_PATH}" || abort "Validation Failed"
 
 echo " Success!"
+
+echo ""
+
+if [ ! -d "/opt/homebrew" -a ! -d "/usr/local/Homebrew" ]; then
+    echo ""
+    echo "  The App Fair integrates with the Homebrew Cask catalog"
+    echo "  It can be installed by running:"
+    echo '     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'
+    echo ""
+    printf "Hit return to proceed (or CMD-C to quit): "
+    await_return
+
+    # install as per https://brew.sh
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+fi
+
 
 echo ""
 

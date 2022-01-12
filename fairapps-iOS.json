@@ -783,27 +783,27 @@
       ],
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/Sita-Sings-the-Blues.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/Sita-Sings-the-Blues.png",
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "b62c2e641e5176630ecafc57a8467438b62d4c625315bf88899e11b05a49d564",
-      "size" : 1458114688,
+      "sha256" : "84410f58f551a2152c8839ab058370d2c7e15c9e80d2a1edbbf84d70aa817a44",
+      "size" : 1458114608,
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.34",
-      "versionDate" : "2022-01-10T12:45:24Z",
-      "versionDescription" : "Release 0.0.34",
+      "version" : "0.0.35",
+      "versionDate" : "2022-01-12T12:53:04Z",
+      "versionDescription" : "Release 0.0.35",
       "watcherCount" : 0
     },
     {

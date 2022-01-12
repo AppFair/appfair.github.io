@@ -815,29 +815,29 @@
       ],
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/Sita-Sings-the-Blues-macOS.zip",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/Sita-Sings-the-Blues.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/Sita-Sings-the-Blues-macOS.zip",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/Sita-Sings-the-Blues.png",
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
       "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/screenshot-mac-01-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/screenshot-mac-02-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.34/screenshot-mac-03-2540x1658.png"
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/screenshot-mac-01-2540x1658.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/screenshot-mac-02-2540x1658.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/screenshot-mac-03-2540x1658.png"
       ],
-      "sha256" : "ebfcbe978031e690b2f50ae649919f9e6fbbe061761b3908ff0e83be2fc74d3e",
-      "size" : 1454457597,
+      "sha256" : "76c9a751464cc6911ad564d2ec18820a8b4a65303e0dcec83de33dfb55af4766",
+      "size" : 1454457579,
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.34",
-      "versionDate" : "2022-01-10T12:45:24Z",
-      "versionDescription" : "Release 0.0.34",
+      "version" : "0.0.35",
+      "versionDate" : "2022-01-12T12:53:04Z",
+      "versionDescription" : "Release 0.0.35",
       "watcherCount" : 0
     },
     {

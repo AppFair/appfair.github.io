@@ -807,6 +807,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tidal-Zone",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.11/Tidal-Zone-iOS.ipa",
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.11/Tidal-Zone.png",
+      "issueCount" : 0,
+      "localizedDescription" : "What tide is it right now?",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.11/Info.plist#0a648a6c3a7ea72259a47e82e581ec74e456467d83df5cca907cc5384c79e445",
+      "name" : "Tidal Zone",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.11/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "ce38363b7da948965c37c641ee22f7f626bb44b982e42137da8540a02a0dcd3d",
+      "size" : 6027803,
+      "starCount" : 0,
+      "subtitle" : "What tide is it right now?",
+      "version" : "0.0.11",
+      "versionDate" : "2022-01-15T15:33:06Z",
+      "versionDescription" : "Release 0.0.11",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
       "categories" : [
@@ -876,7 +907,7 @@
       ],
       "coreSize" : 69000,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.401/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.401/Tune-Out.png",
       "issueCount" : 0,

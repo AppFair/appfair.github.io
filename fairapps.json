@@ -98,38 +98,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Brew-Meister",
-      "categories" : [
-        "public.app-category.lifestyle"
-      ],
-      "coreSize" : 12570896,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 28,
-      "downloadURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.4/Brew-Meister-macOS.zip",
-      "iconURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.4/Brew-Meister.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A brew catalog",
-      "metadataURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.4/Info.plist#7b29aa7d552d0772a61ff9e7f562386b2c9ffaf955eb815b92a9d54ec8fff23f",
-      "name" : "Brew Meister",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Brew-Meister/App/releases/download/0.0.4/README.md#579b401635975b593960f70ec5ee47a4576fa7b3a2a78fdd98f75cad0f82c751",
-      "screenshotURLs" : [
-        "https://github.com/Brew-Meister/App/releases/download/0.0.4/screenshot-mac-01-2880x1800.png#98e9a4bcaf2fe1fe74022da0df54379fca770d90c96b6cfb5f021273ed50c239"
-      ],
-      "sha256" : "40f4e91de1a036be391166986a3a538cfe290fe42654b212526ab29ccef67287",
-      "size" : 3024090,
-      "starCount" : 0,
-      "subtitle" : "A brew catalog",
-      "tintColor" : "FFFF00",
-      "version" : "0.0.4",
-      "versionDate" : "2021-11-24T03:00:23Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Brew-Meister/App/compare/0.0.3...0.0.4",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
@@ -395,7 +363,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
         "public.app-category.developer-tools"
@@ -426,40 +394,6 @@
       "version" : "0.0.76",
       "versionDate" : "2022-01-10T00:38:41Z",
       "versionDescription" : "Release 0.0.76",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "coreSize" : 68464,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.75/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.75/Lottie-Motion.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.75/Info.plist#59f0642ec715c4c86fe4da2a72c0929601088387d6a94f86ca893ceb42b033a3",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.75/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "6478041b7ea8a9a3d5c1e5426ca270f2981a898cf21c3d3c9eabc0c9a22d9ec5",
-      "size" : 3097833,
-      "starCount" : 0,
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.75",
-      "versionDate" : "2022-01-05T04:05:06Z",
-      "versionDescription" : "Release 0.0.75",
       "watcherCount" : 0
     },
     {
@@ -712,6 +646,64 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Neural-Scry",
+      "categories" : [
+        "public.app-category.medical"
+      ],
+      "coreSize" : 153232,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.50/Neural-Scry-macOS.zip",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.50/Neural-Scry.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Look into the minds of others",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.50/Info.plist#2215eff2478180960a9c3d722d16eb05a760a8a09dab75af2881197aaff61bd1",
+      "name" : "Neural Scry",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.camera",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "cs.debugger",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "temporary-exception.mach-lookup.global-name",
+          "usageDescription" : "This enabled this permission for testing"
+        }
+      ],
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.50/README.md#f9af449c34702872740ca1db657be31a62c8caa3f1dc77e96d64a0fb040ef186",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "94bae2e4d21a252f40efa0c25b4f6c2f58f2c2b2e28f2916d4d1345706bf4396",
+      "size" : 2306327,
+      "starCount" : 0,
+      "subtitle" : "Look into the minds of others",
+      "version" : "0.0.50",
+      "versionDate" : "2022-01-15T17:11:44Z",
+      "versionDescription" : "Release 0.0.50",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
         "public.app-category.productivity"
@@ -913,7 +905,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.12/Tidal-Zone-macOS.zip",
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.12/Tidal-Zone.png",
       "issueCount" : 0,

@@ -277,12 +277,12 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Hex-Loupe.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.9/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.9/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/Info.plist#a8a673131c9f71096d58e1155fab49056bad5d9a6126deb62560ab7715eb8764",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.9/Info.plist#a8a673131c9f71096d58e1155fab49056bad5d9a6126deb62560ab7715eb8764",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -290,18 +290,18 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.9/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "e01cc64a125c32e2f5b6805b880ab42fd884b0ef637fcd46186f8da1b7b1b132",
-      "size" : 5979178,
+      "sha256" : "42568708bfa08ece66fc769c02aac9ce4df4bc70e75d036a3f056b21f11923af",
+      "size" : 5991514,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.8",
-      "versionDate" : "2022-01-10T00:21:28Z",
-      "versionDescription" : "Release 0.0.8",
+      "version" : "0.0.9",
+      "versionDate" : "2022-01-16T01:38:15Z",
+      "versionDescription" : "Release 0.0.9",
       "watcherCount" : 0
     },
     {

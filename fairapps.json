@@ -8,7 +8,7 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.139/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.139/App-Fair.png",
       "issueCount" : 0,
@@ -652,12 +652,12 @@
       ],
       "coreSize" : 153232,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.50/Neural-Scry-macOS.zip",
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.50/Neural-Scry.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Neural-Scry-macOS.zip",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Neural-Scry.png",
       "issueCount" : 0,
       "localizedDescription" : "Look into the minds of others",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.50/Info.plist#2215eff2478180960a9c3d722d16eb05a760a8a09dab75af2881197aaff61bd1",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Info.plist#2215eff2478180960a9c3d722d16eb05a760a8a09dab75af2881197aaff61bd1",
       "name" : "Neural Scry",
       "permissions" : [
         {
@@ -689,17 +689,17 @@
           "usageDescription" : "This enabled this permission for testing"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.50/README.md#f9af449c34702872740ca1db657be31a62c8caa3f1dc77e96d64a0fb040ef186",
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/README.md#f9af449c34702872740ca1db657be31a62c8caa3f1dc77e96d64a0fb040ef186",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "94bae2e4d21a252f40efa0c25b4f6c2f58f2c2b2e28f2916d4d1345706bf4396",
-      "size" : 2306327,
+      "sha256" : "b88e1400b49f2a9949e4acd5564bbb41415b3d244a309eee5f73ecbf20ff09ab",
+      "size" : 2306403,
       "starCount" : 0,
       "subtitle" : "Look into the minds of others",
-      "version" : "0.0.50",
-      "versionDate" : "2022-01-15T17:11:44Z",
-      "versionDescription" : "Release 0.0.50",
+      "version" : "0.0.51",
+      "versionDate" : "2022-01-16T15:48:12Z",
+      "versionDescription" : "Release 0.0.51",
       "watcherCount" : 0
     },
     {

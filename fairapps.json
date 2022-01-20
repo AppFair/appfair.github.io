@@ -713,28 +713,28 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/Pan-Opticon-macOS.zip",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/Pan-Opticon.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.19/Pan-Opticon-macOS.zip",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.19/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.19/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.19/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-
+        "https://github.com/Pan-Opticon/App/releases/download/0.2.19/screenshot_01-mac-1220x1050.png"
       ],
-      "sha256" : "026a8a79460a5d9d7ffc9b28f00507017842ddb3e60961bec65bb169cd090cf8",
-      "size" : 2597921,
+      "sha256" : "9de7c8e78a97a3ea209532e90688e0879d3097aae520484ae2391be9102e773e",
+      "size" : 2606171,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.2.16",
-      "versionDate" : "2022-01-10T00:38:51Z",
-      "versionDescription" : "Release 0.2.16",
+      "version" : "0.2.19",
+      "versionDate" : "2022-01-20T13:34:08Z",
+      "versionDescription" : "Release 0.2.19",
       "watcherCount" : 0
     },
     {

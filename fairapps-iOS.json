@@ -75,7 +75,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Crazy-Glue",
       "categories" : [
         "public.app-category.graphics-design"
@@ -83,26 +83,26 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.1/Crazy-Glue-iOS.ipa",
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.1/Crazy-Glue.png",
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Crazy-Glue-iOS.ipa",
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Crazy-Glue.png",
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Crazy Glue",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "7043e3837b5dc03b68e968d203508be3c4f2288f7e928ec560411d70f50d41e7",
-      "size" : 5891366,
+      "sha256" : "c52d0f8dcb1693b2c173eeead6c20935187f1588909d036607c7ec1cc1c9c42b",
+      "size" : 5904217,
       "starCount" : 0,
       "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.1",
-      "versionDate" : "2022-01-04T00:09:46Z",
-      "versionDescription" : "",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-20T14:31:22Z",
+      "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     },
     {

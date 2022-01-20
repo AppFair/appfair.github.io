@@ -132,34 +132,34 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Crazy-Glue",
       "categories" : [
         "public.app-category.graphics-design"
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.1/Crazy-Glue-macOS.zip",
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.1/Crazy-Glue.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Crazy-Glue-macOS.zip",
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Crazy-Glue.png",
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Crazy Glue",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.3/screenshot_01-mac-1936x1036.png"
       ],
-      "sha256" : "be451e94631255d8d71c4df7ed99b06175da6d1e57210fa57b3b79d6a7d16cb0",
-      "size" : 2312975,
+      "sha256" : "db6d1cd0fb1a6410fe566839908631778acf6f0e810123a3cbbae42952d815d4",
+      "size" : 2320689,
       "starCount" : 0,
       "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.1",
-      "versionDate" : "2022-01-04T00:09:46Z",
-      "versionDescription" : "",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-20T14:31:22Z",
+      "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     },
     {

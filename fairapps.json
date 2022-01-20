@@ -709,12 +709,12 @@
       ],
       "coreSize" : 152800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.17/Next-Edit-macOS.zip",
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.17/Next-Edit.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.17/Info.plist#1a5f8d0853c63e228a5ed37b947a53a27babd3cac4f989e07f8e47fe03c429be",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
       "name" : "Next Edit",
       "permissions" : [
         {
@@ -722,17 +722,17 @@
           "usageDescription" : "This app needs to read and write files in order to edit text."
         }
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.17/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
       "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.4.17/screenshot_01-mac-2006x1520.png"
+        "https://github.com/Next-Edit/App/releases/download/0.4.18/screenshot_01-mac-2006x1520.png"
       ],
-      "sha256" : "5d96bb71a387a41ca00e91e53f2af20e2dca628191367a46a454d29ef18a5011",
-      "size" : 6702160,
+      "sha256" : "6ee478349595968078112b52bbde2bf14753271fd31531bea7c0bca10977d28a",
+      "size" : 6702858,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.17",
-      "versionDate" : "2022-01-16T01:19:53Z",
-      "versionDescription" : "Release 0.4.17",
+      "version" : "0.4.18",
+      "versionDate" : "2022-01-20T03:44:49Z",
+      "versionDescription" : "Release 0.4.18",
       "watcherCount" : 0
     },
     {
@@ -1095,37 +1095,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Ultra-Light",
-      "categories" : [
-
-      ],
-      "coreSize" : 68360,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Ultra-Light-macOS.zip",
-      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Ultra-Light.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Ultra Light",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "b17ae083e249ad52c39e80aa8d3bdf6e268384f2f4a25f0f2a44fa324e2ca93c",
-      "size" : 2263641,
-      "starCount" : 0,
-      "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-10T00:38:31Z",
-      "versionDescription" : "Release 0.0.4",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Ultra-Light",
       "categories" : [
@@ -1133,27 +1102,27 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/Ultra-Light-macOS.zip",
-      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/Ultra-Light.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Ultra-Light-macOS.zip",
+      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Ultra-Light.png",
       "issueCount" : 0,
       "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Ultra Light",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "61e4107e28b3e4046edc79289cb2a3f7df3c0887b88c23c64292a80e3a61c9c5",
-      "size" : 2262809,
+      "sha256" : "9f1bdf5f21403856dc640ecfbc92a6b20fa4a40951ceb99dd1dce1cf6545fc8f",
+      "size" : 2270107,
       "starCount" : 0,
       "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-07T21:51:15Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.5",
+      "versionDate" : "2022-01-20T03:44:45Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {
@@ -1164,7 +1133,7 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 10,
+      "downloadCount" : 11,
       "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/Unclear-Purpose-macOS.zip",
       "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/Unclear-Purpose.png",
       "issueCount" : 0,
@@ -1250,38 +1219,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Yankee-Swap",
-      "categories" : [
-        "public.app-category.social-networking"
-      ],
-      "coreSize" : 68360,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/Yankee-Swap-macOS.zip",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/Yankee-Swap.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Old-time horse trading",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Yankee Swap",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "eefd8bab4272709a33ac0e9ffd99724f47ec367154657247e6543d23878b9715",
-      "size" : 2355364,
-      "starCount" : 0,
-      "subtitle" : "Old-time horse trading",
-      "tintColor" : "3C82C1",
-      "version" : "0.0.6",
-      "versionDate" : "2022-01-10T00:38:34Z",
-      "versionDescription" : "Release 0.0.6",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
@@ -1289,28 +1226,28 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/Yankee-Swap-macOS.zip",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/Yankee-Swap.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Yankee Swap",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "780f5fe8bd893e8303370efec84c0057c3701ed641ffeadf97bef2b56f4a8b0e",
-      "size" : 2354098,
+      "sha256" : "bd7890230cb66f8ebe9705b52dccba850acb525aece7485822f8836fc9253bf1",
+      "size" : 2361806,
       "starCount" : 0,
       "subtitle" : "Old-time horse trading",
       "tintColor" : "3C82C1",
-      "version" : "0.0.5",
-      "versionDate" : "2022-01-05T01:51:00Z",
-      "versionDescription" : "Release 0.0.5",
+      "version" : "0.0.9",
+      "versionDate" : "2022-01-20T03:44:50Z",
+      "versionDescription" : "Release 0.0.9",
       "watcherCount" : 0
     }
   ],

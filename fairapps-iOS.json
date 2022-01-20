@@ -880,37 +880,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Ultra-Light",
-      "categories" : [
-
-      ],
-      "coreSize" : 68360,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Ultra-Light-iOS.ipa",
-      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Ultra-Light.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Ultra Light",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "cb62f16ec74839346db2518c5a8238ffd0398a5cb53be529c73ee064617c525e",
-      "size" : 5835835,
-      "starCount" : 0,
-      "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-10T00:38:31Z",
-      "versionDescription" : "Release 0.0.4",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Ultra-Light",
       "categories" : [
@@ -919,26 +888,26 @@
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/Ultra-Light-iOS.ipa",
-      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/Ultra-Light.png",
+      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Ultra-Light-iOS.ipa",
+      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Ultra-Light.png",
       "issueCount" : 0,
       "localizedDescription" : "Fork to make an App Fair App",
-      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Ultra Light",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8aadbfa4cbfe527d44d8c1742ffbc820f2ca29bcb01c00bcaaaaa228a2c5a67d",
-      "size" : 5834020,
+      "sha256" : "04e9162bf78e04a417973607c4d6c4228c1ff33753daa15d84582c45feea6e7e",
+      "size" : 5846545,
       "starCount" : 0,
       "subtitle" : "Fork to make an App Fair App",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-07T21:51:15Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.5",
+      "versionDate" : "2022-01-20T03:44:45Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {
@@ -1035,38 +1004,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Yankee-Swap",
-      "categories" : [
-        "public.app-category.social-networking"
-      ],
-      "coreSize" : 68360,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/Yankee-Swap-iOS.ipa",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/Yankee-Swap.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Old-time horse trading",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Yankee Swap",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "0abd618a5125ab9ec9b8bc6013f9ca1115f148276ac11b7ccc70e03bebdebfc6",
-      "size" : 5936212,
-      "starCount" : 0,
-      "subtitle" : "Old-time horse trading",
-      "tintColor" : "3C82C1",
-      "version" : "0.0.6",
-      "versionDate" : "2022-01-10T00:38:34Z",
-      "versionDescription" : "Release 0.0.6",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
@@ -1075,27 +1012,27 @@
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/Yankee-Swap-iOS.ipa",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/Yankee-Swap.png",
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap-iOS.ipa",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Yankee Swap",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "b742d121c72393c8d76c07d8f1bd369efefc1cf7bd0e1d813b4be91e0e0b8983",
-      "size" : 5934084,
+      "sha256" : "30b0d79c64e43925f710b3dba2d56bfdd19279ab18c288a00def9edc006d0ca9",
+      "size" : 5946960,
       "starCount" : 0,
       "subtitle" : "Old-time horse trading",
       "tintColor" : "3C82C1",
-      "version" : "0.0.5",
-      "versionDate" : "2022-01-05T01:51:00Z",
-      "versionDescription" : "Release 0.0.5",
+      "version" : "0.0.9",
+      "versionDate" : "2022-01-20T03:44:50Z",
+      "versionDescription" : "Release 0.0.9",
       "watcherCount" : 0
     }
   ],

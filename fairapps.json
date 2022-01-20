@@ -228,34 +228,34 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Fox-Glove",
       "categories" : [
         "public.app-category.utilities"
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 6,
-      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Fox-Glove-macOS.zip",
-      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Fox-Glove.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/Fox-Glove-macOS.zip",
+      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/Fox-Glove.png",
       "issueCount" : 0,
       "localizedDescription" : "There, I fixed the web for you. You're welcome.",
-      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Fox Glove",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-
+        "https://github.com/Fox-Glove/App/releases/download/0.0.2/screenshot_01-mac-dark-mac-1936x1036.png"
       ],
-      "sha256" : "b6422a300d3f278b246a7e28f549a60c3d07e2c519f11f184af2809fb933f6b8",
-      "size" : 2388341,
+      "sha256" : "6c0323b39d03a4dc5e294126f6a32cae74e51a07959be42b43f32b20d3018e49",
+      "size" : 2429976,
       "starCount" : 0,
       "subtitle" : "There, I fixed the web for you. You're welcome.",
-      "version" : "0.0.1",
-      "versionDate" : "2022-01-03T05:25:24Z",
-      "versionDescription" : "",
+      "version" : "0.0.2",
+      "versionDate" : "2022-01-20T16:05:05Z",
+      "versionDescription" : "Release 0.0.2",
       "watcherCount" : 0
     },
     {
@@ -360,40 +360,6 @@
       "version" : "0.0.11",
       "versionDate" : "2022-01-20T13:27:12Z",
       "versionDescription" : "Release 0.0.11",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "coreSize" : 68464,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Lottie-Motion-macOS.zip",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Lottie-Motion.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/Info.plist#59f0642ec715c4c86fe4da2a72c0929601088387d6a94f86ca893ceb42b033a3",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.76/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "f8dba624b9746b7f791d5a6af052cd6b451d610e1b44f6a7800ef26ef313c241",
-      "size" : 3098496,
-      "starCount" : 0,
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.76",
-      "versionDate" : "2022-01-10T00:38:41Z",
-      "versionDescription" : "Release 0.0.76",
       "watcherCount" : 0
     },
     {

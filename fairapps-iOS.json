@@ -339,37 +339,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Main-Course",
-      "categories" : [
-        "public.app-category.education"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Main-Course-iOS.ipa",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Main-Course.png",
-      "issueCount" : 0,
-      "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Main Course",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/README.md#8070dddbae4b1b7eeb7dd4f95ba102a32acbd36644be53cc8fdfbdfc114dd53c",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "df679648ec561ad2dfc4269eeafb2c86a3634cc923a3149a56fbd7d3e5bcc330",
-      "size" : 18816291,
-      "starCount" : 0,
-      "subtitle" : "An offline recipe book",
-      "version" : "0.0.8",
-      "versionDate" : "2022-01-10T00:38:38Z",
-      "versionDescription" : "Release 0.0.8",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
@@ -377,27 +346,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.7/Main-Course-iOS.ipa",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.7/Main-Course.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/Main-Course-iOS.ipa",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/Main-Course.png",
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.7/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Main Course",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.7/README.md#8070dddbae4b1b7eeb7dd4f95ba102a32acbd36644be53cc8fdfbdfc114dd53c",
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/README.md#ae462023f2e2674a5dcd57187d4c9875b2d5c1adfb9ab96b2f79988a7fe11e2d",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "4810c48b2e2edad391c25bcf1ee5fed5a4a1d8650a5ddc85fcea81d7c44e8af5",
-      "size" : 18812568,
+      "sha256" : "2edc442e0dab36d2c123603eb3a4499745814e93e65021852366057df0144cff",
+      "size" : 18826898,
       "starCount" : 0,
       "subtitle" : "An offline recipe book",
-      "version" : "0.0.7",
-      "versionDate" : "2022-01-05T01:03:06Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.11",
+      "versionDate" : "2022-01-20T03:44:15Z",
+      "versionDescription" : "Release 0.0.11",
       "watcherCount" : 0
     },
     {

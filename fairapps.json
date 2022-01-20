@@ -334,7 +334,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/Hex-Loupe-macOS.zip",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/Hex-Loupe.png",
       "issueCount" : 0,
@@ -396,37 +396,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Main-Course",
-      "categories" : [
-        "public.app-category.education"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Main-Course-macOS.zip",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Main-Course.png",
-      "issueCount" : 0,
-      "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Main Course",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.8/README.md#8070dddbae4b1b7eeb7dd4f95ba102a32acbd36644be53cc8fdfbdfc114dd53c",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "652c40aa2f5bebd55d6ea1a7a5ab9f7ddc84d582b982b3fccf22b8e09b488e11",
-      "size" : 13139829,
-      "starCount" : 0,
-      "subtitle" : "An offline recipe book",
-      "version" : "0.0.8",
-      "versionDate" : "2022-01-10T00:38:38Z",
-      "versionDescription" : "Release 0.0.8",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
@@ -434,27 +403,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.7/Main-Course-macOS.zip",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.7/Main-Course.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/Main-Course-macOS.zip",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/Main-Course.png",
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.7/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Main Course",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.7/README.md#8070dddbae4b1b7eeb7dd4f95ba102a32acbd36644be53cc8fdfbdfc114dd53c",
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/README.md#ae462023f2e2674a5dcd57187d4c9875b2d5c1adfb9ab96b2f79988a7fe11e2d",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "e4183fe29340cb7eddf992fbc397298213ff99fdae5857ecdbdb1455fb12d615",
-      "size" : 13138819,
+      "sha256" : "44d762c775c572bdda016ea0373f94c187136a8a42b0893377cfc29acb674c1b",
+      "size" : 13150222,
       "starCount" : 0,
       "subtitle" : "An offline recipe book",
-      "version" : "0.0.7",
-      "versionDate" : "2022-01-05T01:03:06Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.11",
+      "versionDate" : "2022-01-20T03:44:15Z",
+      "versionDescription" : "Release 0.0.11",
       "watcherCount" : 0
     },
     {

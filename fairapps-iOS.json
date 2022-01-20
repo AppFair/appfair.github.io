@@ -277,12 +277,12 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/Hex-Loupe.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.11/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.11/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.11/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -290,18 +290,18 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.11/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "58c9cd5950dc29e6ce62e669801fcfbe5ea84eb3000b7bcb96782138224a9794",
-      "size" : 5993834,
+      "sha256" : "220025509823abe4dcd3b3b6326acb24570a68fbd049b23bbb2ca569f2e932c2",
+      "size" : 5993841,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.10",
-      "versionDate" : "2022-01-20T03:44:39Z",
-      "versionDescription" : "Release 0.0.10",
+      "version" : "0.0.11",
+      "versionDate" : "2022-01-20T13:27:12Z",
+      "versionDescription" : "Release 0.0.11",
       "watcherCount" : 0
     },
     {

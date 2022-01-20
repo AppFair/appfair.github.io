@@ -556,7 +556,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
         "public.app-category.utilities"
@@ -585,38 +585,6 @@
       "version" : "0.2.16",
       "versionDate" : "2022-01-10T00:38:51Z",
       "versionDescription" : "Release 0.2.16",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Pan-Opticon",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 68360,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.15/Pan-Opticon-iOS.ipa",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.15/Pan-Opticon.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.15/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Pan Opticon",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.15/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "10e1926811fab0ce3ded0df8916e99216a64ea54f9645fb2e0e19058cf78ba56",
-      "size" : 6447229,
-      "starCount" : 0,
-      "subtitle" : "Watch the Watchers",
-      "tintColor" : "CC00AA",
-      "version" : "0.2.15",
-      "versionDate" : "2022-01-04T21:47:44Z",
-      "versionDescription" : "Release 0.2.15",
       "watcherCount" : 0
     },
     {

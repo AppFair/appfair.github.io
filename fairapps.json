@@ -459,7 +459,7 @@
       "beta" : true,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
-
+        "public.app-category.education"
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -467,7 +467,7 @@
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/Name-Sense-macOS.zip",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/Name-Sense.png",
       "issueCount" : 0,
-      "localizedDescription" : "Fork to make an App Fair App",
+      "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Name Sense",
       "permissions" : [
@@ -480,7 +480,7 @@
       "sha256" : "59de3b1a37874f1b528d39636a87a59496bd796ffd7b696d1460019b48cf0c7c",
       "size" : 2363944,
       "starCount" : 0,
-      "subtitle" : "Fork to make an App Fair App",
+      "subtitle" : "A name picking app",
       "version" : "0.0.16",
       "versionDate" : "2022-01-10T00:38:48Z",
       "versionDescription" : "Release 0.0.16",
@@ -490,7 +490,7 @@
       "beta" : false,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
-
+        "public.app-category.education"
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -498,7 +498,7 @@
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.15/Name-Sense-macOS.zip",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.15/Name-Sense.png",
       "issueCount" : 0,
-      "localizedDescription" : "Fork to make an App Fair App",
+      "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.15/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Name Sense",
       "permissions" : [
@@ -511,7 +511,7 @@
       "sha256" : "d6ecffbe44ad578994819afe09249237708587cd23e30ad2dec7be5131a7145f",
       "size" : 2310231,
       "starCount" : 0,
-      "subtitle" : "Fork to make an App Fair App",
+      "subtitle" : "A name picking app",
       "version" : "0.0.15",
       "versionDate" : "2021-12-27T07:01:27Z",
       "versionDescription" : "Release 0.0.15",

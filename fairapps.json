@@ -334,12 +334,12 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.9/Hex-Loupe-macOS.zip",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.9/Hex-Loupe.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.9/Info.plist#a8a673131c9f71096d58e1155fab49056bad5d9a6126deb62560ab7715eb8764",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -347,18 +347,18 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.9/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.10/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
       "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.9/screenshot_01-mac-2360x1742.png"
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.10/screenshot_01-mac-2360x1742.png"
       ],
-      "sha256" : "e6083178e607de4bfa2317b38bf374c6a32b522b7af0fb54d3487cb051618918",
-      "size" : 2369709,
+      "sha256" : "733edb1df5d4d4e4c9e893aac5a835ff8a1714a01e45651b1b6f59d2a307647e",
+      "size" : 2370428,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.9",
-      "versionDate" : "2022-01-16T01:38:15Z",
-      "versionDescription" : "Release 0.0.9",
+      "version" : "0.0.10",
+      "versionDate" : "2022-01-20T03:44:39Z",
+      "versionDescription" : "Release 0.0.10",
       "watcherCount" : 0
     },
     {
@@ -709,7 +709,7 @@
       ],
       "coreSize" : 152800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
       "issueCount" : 0,
@@ -1226,7 +1226,7 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap-macOS.zip",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap.png",
       "issueCount" : 0,

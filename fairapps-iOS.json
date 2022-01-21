@@ -914,28 +914,28 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap-iOS.ipa",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/Yankee-Swap-iOS.ipa",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Yankee Swap",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "30b0d79c64e43925f710b3dba2d56bfdd19279ab18c288a00def9edc006d0ca9",
-      "size" : 5946960,
+      "sha256" : "fc41918fe7eb1cbf18c03f19ba62c86704ea93b17f03d520eb510ff8747d14e3",
+      "size" : 5955164,
       "starCount" : 0,
       "subtitle" : "Old-time horse trading",
       "tintColor" : "3C82C1",
-      "version" : "0.0.9",
-      "versionDate" : "2022-01-20T03:44:50Z",
-      "versionDescription" : "Release 0.0.9",
+      "version" : "0.0.10",
+      "versionDate" : "2022-01-21T13:21:44Z",
+      "versionDescription" : "Release 0.0.10",
       "watcherCount" : 0
     }
   ],

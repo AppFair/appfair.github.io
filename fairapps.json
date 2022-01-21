@@ -1192,28 +1192,28 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap-macOS.zip",
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Yankee-Swap.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/Yankee-Swap-macOS.zip",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/Yankee-Swap.png",
       "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Yankee Swap",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-
+        "https://github.com/Yankee-Swap/App/releases/download/0.0.10/screenshot_01-mac-dark-mac-924x1384.png"
       ],
-      "sha256" : "bd7890230cb66f8ebe9705b52dccba850acb525aece7485822f8836fc9253bf1",
-      "size" : 2361806,
+      "sha256" : "98775dc673535355b8b004569ea305a3b3d07534c77d6d1688600a027219f926",
+      "size" : 2363220,
       "starCount" : 0,
       "subtitle" : "Old-time horse trading",
       "tintColor" : "3C82C1",
-      "version" : "0.0.9",
-      "versionDate" : "2022-01-20T03:44:50Z",
-      "versionDescription" : "Release 0.0.9",
+      "version" : "0.0.10",
+      "versionDate" : "2022-01-21T13:21:44Z",
+      "versionDescription" : "Release 0.0.10",
       "watcherCount" : 0
     }
   ],

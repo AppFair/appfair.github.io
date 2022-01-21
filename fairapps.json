@@ -1002,27 +1002,28 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 7,
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/Trivial-Quiz-macOS.zip",
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/Trivial-Quiz.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/Trivial-Quiz-macOS.zip",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/Trivial-Quiz.png",
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Trivial Quiz",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-
+        "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/screenshot_01-mac-light-mac-2024x1124.png"
       ],
-      "sha256" : "0a63589733e9d5b5cdcd60c85365da40808caabc1648f7983fa59e5109b0aacd",
-      "size" : 2285989,
+      "sha256" : "af7d0a152cc3dc72aade8fa716cfb1bdbea8fd388641573db65c6fff55209e84",
+      "size" : 2353549,
       "starCount" : 0,
       "subtitle" : "A little quiz game",
-      "version" : "0.0.9",
-      "versionDate" : "2021-12-23T15:27:12Z",
-      "versionDescription" : "Release 0.0.9",
+      "version" : "0.0.11",
+      "versionDate" : "2022-01-21T14:55:04Z",
+      "versionDescription" : "Release 0.0.11",
       "watcherCount" : 0
     },
     {

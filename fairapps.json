@@ -938,7 +938,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 4990192,
+      "coreSize" : 152624,
       "developerName" : "Marc Prud'hommeaux <mwp1@cornell.edu>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/Story-Points-macOS.zip",
@@ -995,7 +995,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
         "public.app-category.games"
@@ -1023,37 +1023,6 @@
       "version" : "0.0.9",
       "versionDate" : "2021-12-23T15:27:12Z",
       "versionDescription" : "Release 0.0.9",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Trivial-Quiz",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "coreSize" : 68368,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/Trivial-Quiz-macOS.zip",
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/Trivial-Quiz.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
-      "name" : "Trivial Quiz",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "d4a9481a556fb92efba6ffb7e88e34898090ca8b30bcf68d5c9cf606bb1e5962",
-      "size" : 2285996,
-      "starCount" : 0,
-      "subtitle" : "A little quiz game",
-      "version" : "0.0.8",
-      "versionDate" : "2021-12-23T15:18:07Z",
-      "versionDescription" : "Release 0.0.8",
       "watcherCount" : 0
     },
     {
@@ -1234,7 +1203,7 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose-macOS.zip",
       "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose.png",
       "issueCount" : 0,

@@ -713,7 +713,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
         "public.app-category.games"
@@ -856,7 +856,7 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-iOS.ipa",
       "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
       "issueCount" : 0,
@@ -918,7 +918,7 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose-iOS.ipa",
       "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose.png",
       "issueCount" : 0,

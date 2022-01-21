@@ -262,6 +262,38 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Fox-Glove",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/Fox-Glove-macOS.zip",
+      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/Fox-Glove.png",
+      "issueCount" : 0,
+      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
+      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Fox Glove",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Fox-Glove/App/releases/download/0.0.3/screenshot_01-mac-dark-mac-1936x1036.png",
+        "https://github.com/Fox-Glove/App/releases/download/0.0.3/screenshot_01-mac-light-mac-1936x1036.png"
+      ],
+      "sha256" : "fbbfbe617fcef2edc7673cc6f510434d4d25c7b0825b951c9d0bdc24d00f21e7",
+      "size" : 2431378,
+      "starCount" : 0,
+      "subtitle" : "There, I fixed the web for you. You're welcome.",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-21T14:01:05Z",
+      "versionDescription" : "Release 0.0.3",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Fox-Glove",
       "categories" : [
@@ -705,6 +737,39 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T03:44:49Z",
       "versionDescription" : "Release 0.4.18",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Pan-Opticon",
+      "categories" : [
+        "public.app-category.sports"
+      ],
+      "coreSize" : 68360,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/Pan-Opticon-macOS.zip",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/Pan-Opticon.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Watch the Watchers",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Pan Opticon",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Pan-Opticon/App/releases/download/0.2.21/screenshot_01-mac-dark-mac-1220x1050.png",
+        "https://github.com/Pan-Opticon/App/releases/download/0.2.21/screenshot_01-mac-light-mac-1220x1050.png"
+      ],
+      "sha256" : "63059d007956779777a33b97ba50bbc72af159b24a08506b618aaf35c964435b",
+      "size" : 2608049,
+      "starCount" : 0,
+      "subtitle" : "Watch the Watchers",
+      "tintColor" : "CC00AA",
+      "version" : "0.2.21",
+      "versionDate" : "2022-01-21T14:00:41Z",
+      "versionDescription" : "Release 0.2.21",
       "watcherCount" : 0
     },
     {
@@ -1197,7 +1262,7 @@
       ],
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/Visi-Calc-macOS.zip",
       "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/Visi-Calc.png",
       "issueCount" : 0,

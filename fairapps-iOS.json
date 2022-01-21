@@ -212,7 +212,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/Fox-Glove-iOS.ipa",
       "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/Fox-Glove.png",
       "issueCount" : 0,
@@ -563,7 +563,7 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/Pan-Opticon-iOS.ipa",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/Pan-Opticon.png",
       "issueCount" : 0,
@@ -849,6 +849,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Ultra-Light",
+      "categories" : [
+        "public.app-category.news"
+      ],
+      "coreSize" : 68360,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-iOS.ipa",
+      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A bit of lite reading",
+      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Ultra Light",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "0d990f2da3e4d93fac853b232e32b397244065f86f4d8a15225ae7ade858f9f6",
+      "size" : 5854777,
+      "starCount" : 0,
+      "subtitle" : "A bit of lite reading",
+      "version" : "0.0.7",
+      "versionDate" : "2022-01-21T14:04:24Z",
+      "versionDescription" : "Release 0.0.7",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Ultra-Light",
       "categories" : [
@@ -888,26 +919,26 @@
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/Unclear-Purpose-iOS.ipa",
-      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/Unclear-Purpose.png",
+      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose-iOS.ipa",
+      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose.png",
       "issueCount" : 0,
       "localizedDescription" : "An unclear app",
-      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Unclear Purpose",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f7eb368297fd8ae1d37cf78b514125a7eef959ea1388b8800a2c83af4e8f797e",
-      "size" : 5873411,
+      "sha256" : "71dc6bb3476b5bcc1a6cd8a4c74f013933d24935110de3007004164f0cfdeacb",
+      "size" : 5889877,
       "starCount" : 0,
       "subtitle" : "An unclear app",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-10T00:38:27Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-21T14:05:38Z",
+      "versionDescription" : "Release 0.0.4",
       "watcherCount" : 0
     },
     {

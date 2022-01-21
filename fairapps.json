@@ -170,7 +170,7 @@
       ],
       "coreSize" : 68376,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.29/Encyclopedia-Galactica-macOS.zip",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.29/Encyclopedia-Galactica.png",
       "issueCount" : 0,
@@ -1195,29 +1195,29 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "coreSize" : 33519080,
+      "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 10,
-      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc-macOS.zip",
-      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/Visi-Calc-macOS.zip",
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/Visi-Calc.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Info.plist#354daad9a6dba5b23313216733523ad2149f7b4eb92d3f73613cdd063230e626",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/Info.plist#d1d3028fa679289adb1356dbcf36b05a7b11590f77677c0eb908ad3a8fd8b75f",
       "name" : "Visi Calc",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "bf272b1c05d5dba3bb0514e4ab429009301d57d6fb147f7b36b882db426ac782",
-      "size" : 4731730,
+      "sha256" : "9aa20ae375ca919239e805abef6ef59258d0809cde71dde0a05b569d90cd769f",
+      "size" : 4735976,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.35",
-      "versionDate" : "2021-12-04T14:58:06Z",
-      "versionDescription" : "Release 0.0.35",
+      "version" : "0.0.36",
+      "versionDate" : "2022-01-21T13:51:26Z",
+      "versionDescription" : "Release 0.0.36",
       "watcherCount" : 0
     },
     {

@@ -704,6 +704,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Red-Light-Green-Light",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 152640,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.2/Red-Light-Green-Light-macOS.zip",
+      "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.2/Red-Light-Green-Light.png",
+      "issueCount" : 0,
+      "localizedDescription" : "오징어 게임",
+      "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Red Light Green Light",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "61f64f9d03caa78785063f25cb8bed6d1204e9e1ba157a8f165d01536b7208ba",
+      "size" : 2370459,
+      "starCount" : 0,
+      "subtitle" : "오징어 게임",
+      "version" : "0.0.2",
+      "versionDate" : "2022-01-21T03:41:46Z",
+      "versionDescription" : "Release 0.0.2",
+      "watcherCount" : 0
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [

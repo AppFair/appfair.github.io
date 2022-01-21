@@ -312,58 +312,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/Main-Course-iOS.ipa",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/Main-Course.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Main-Course-iOS.ipa",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Main-Course.png",
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Main Course",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.11/README.md#ae462023f2e2674a5dcd57187d4c9875b2d5c1adfb9ab96b2f79988a7fe11e2d",
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/README.md#ae462023f2e2674a5dcd57187d4c9875b2d5c1adfb9ab96b2f79988a7fe11e2d",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "2edc442e0dab36d2c123603eb3a4499745814e93e65021852366057df0144cff",
-      "size" : 18826898,
+      "sha256" : "4375d6350decf43f12a42764ec3e9fd0e8eb1cb4b0243879832382a95b6f1f92",
+      "size" : 18831350,
       "starCount" : 0,
       "subtitle" : "An offline recipe book",
-      "version" : "0.0.11",
-      "versionDate" : "2022-01-20T03:44:15Z",
-      "versionDescription" : "Release 0.0.11",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-        "public.app-category.lifestyle"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.8/Media-Res-iOS.ipa",
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.8/Media-Res.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.8/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "7015a627c37cd8587ceb9af67172f8e9e0079d77f7753a7ed6edc0b93cc893bf",
-      "size" : 5940232,
-      "starCount" : 0,
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.8",
-      "versionDate" : "2022-01-10T00:38:57Z",
-      "versionDescription" : "Release 0.0.8",
+      "version" : "0.0.12",
+      "versionDate" : "2022-01-21T13:31:42Z",
+      "versionDescription" : "Release 0.0.12",
       "watcherCount" : 0
     },
     {
@@ -375,26 +344,26 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/Media-Res-iOS.ipa",
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/Media-Res.png",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/Media-Res-iOS.ipa",
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/Media-Res.png",
       "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
       "name" : "Media Res",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "3d34ad31b465e1834717ecdbb3e6e002cf7939bbd35d140294510aee4a534067",
-      "size" : 5938116,
+      "sha256" : "5101aff69d19ac8ec4c84f9318ac212016017ece3a2bd838d10d5fc10bbb0a6b",
+      "size" : 5959067,
       "starCount" : 0,
       "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.7",
-      "versionDate" : "2022-01-05T20:17:19Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.15",
+      "versionDate" : "2022-01-21T13:33:25Z",
+      "versionDescription" : "Release 0.0.15",
       "watcherCount" : 0
     },
     {
@@ -525,7 +494,7 @@
       "beta" : false,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
-        "public.app-category.utilities"
+        "public.app-category.sports"
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -557,7 +526,7 @@
       "beta" : true,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
-        "public.app-category.entertainment"
+        "public.app-category.video"
       ],
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -588,7 +557,7 @@
       "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
-        "public.app-category.entertainment"
+        "public.app-category.video"
       ],
       "coreSize" : 68840,
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -619,7 +588,7 @@
       "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
       "categories" : [
-        "public.app-category.utilities"
+        "public.app-category.weather"
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -755,7 +724,7 @@
       "beta" : true,
       "bundleIdentifier" : "app.Tweet-Storm",
       "categories" : [
-
+        "public.app-category.social-networking"
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -763,7 +732,7 @@
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Tweet-Storm-iOS.ipa",
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Tweet-Storm.png",
       "issueCount" : 0,
-      "localizedDescription" : "Fork to make an App Fair App",
+      "localizedDescription" : "Unleash your inner dialog",
       "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
       "name" : "Tweet Storm",
       "permissions" : [
@@ -776,7 +745,7 @@
       "sha256" : "23b5b9a028052b8b4f8a0d48c15ffe9de38178700a95ec251b42170796df4c87",
       "size" : 5967178,
       "starCount" : 0,
-      "subtitle" : "Fork to make an App Fair App",
+      "subtitle" : "Unleash your inner dialog",
       "version" : "0.0.4",
       "versionDate" : "2021-12-31T03:43:02Z",
       "versionDescription" : "Release 0.0.4",
@@ -786,7 +755,7 @@
       "beta" : false,
       "bundleIdentifier" : "app.Ultra-Light",
       "categories" : [
-
+        "public.app-category.news"
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -794,7 +763,7 @@
       "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Ultra-Light-iOS.ipa",
       "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Ultra-Light.png",
       "issueCount" : 0,
-      "localizedDescription" : "Fork to make an App Fair App",
+      "localizedDescription" : "A bit of lite reading",
       "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Ultra Light",
       "permissions" : [
@@ -807,7 +776,7 @@
       "sha256" : "04e9162bf78e04a417973607c4d6c4228c1ff33753daa15d84582c45feea6e7e",
       "size" : 5846545,
       "starCount" : 0,
-      "subtitle" : "Fork to make an App Fair App",
+      "subtitle" : "A bit of lite reading",
       "version" : "0.0.5",
       "versionDate" : "2022-01-20T03:44:45Z",
       "versionDescription" : "Release 0.0.5",
@@ -914,7 +883,7 @@
       ],
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/Yankee-Swap-iOS.ipa",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.10/Yankee-Swap.png",
       "issueCount" : 0,

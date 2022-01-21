@@ -163,12 +163,46 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 68376,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.29/Encyclopedia-Galactica-macOS.zip",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.29/Encyclopedia-Galactica.png",
+      "issueCount" : 0,
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.29/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.29/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "b6af54f733a2a4b00798b18edd78cd5ef5564425589a79ffd2ad098b3692c1f5",
+      "size" : 2452257,
+      "starCount" : 0,
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.0.29",
+      "versionDate" : "2022-01-21T13:46:39Z",
+      "versionDescription" : "Release 0.0.29",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 18415368,
+      "coreSize" : 68376,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.28/Encyclopedia-Galactica-macOS.zip",
@@ -370,7 +404,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Main-Course-macOS.zip",
       "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Main-Course.png",
       "issueCount" : 0,
@@ -402,7 +436,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/Media-Res-macOS.zip",
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/Media-Res.png",
       "issueCount" : 0,
@@ -424,6 +458,37 @@
       "version" : "0.0.15",
       "versionDate" : "2022-01-21T13:33:25Z",
       "versionDescription" : "Release 0.0.15",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Micro-Vector",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "coreSize" : 152624,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.4/Micro-Vector-macOS.zip",
+      "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.4/Micro-Vector.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A vector drawing app",
+      "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Micro Vector",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "8c5c08bf51f5d10706c56ec486d5547f5cb3bdc4fb2cc92c7ba24373648583d7",
+      "size" : 2313573,
+      "starCount" : 0,
+      "subtitle" : "A vector drawing app",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-21T13:53:38Z",
+      "versionDescription" : "Release 0.0.4",
       "watcherCount" : 0
     },
     {

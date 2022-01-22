@@ -525,37 +525,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Name-Sense",
-      "categories" : [
-        "public.app-category.education"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/Name-Sense-macOS.zip",
-      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/Name-Sense.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A name picking app",
-      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Name Sense",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "59de3b1a37874f1b528d39636a87a59496bd796ffd7b696d1460019b48cf0c7c",
-      "size" : 2363944,
-      "starCount" : 0,
-      "subtitle" : "A name picking app",
-      "version" : "0.0.16",
-      "versionDate" : "2022-01-10T00:38:48Z",
-      "versionDescription" : "Release 0.0.16",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
@@ -563,27 +532,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.15/Name-Sense-macOS.zip",
-      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.15/Name-Sense.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.18/Name-Sense-macOS.zip",
+      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.18/Name-Sense.png",
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
-      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.15/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.18/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Name Sense",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.15/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.18/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-
+        "https://github.com/Name-Sense/App/releases/download/0.0.18/screenshot_01-mac-dark-mac-1862x852.png"
       ],
-      "sha256" : "d6ecffbe44ad578994819afe09249237708587cd23e30ad2dec7be5131a7145f",
-      "size" : 2310231,
+      "sha256" : "9d4e1ee7559812261a271591c8e8bc032569495e1f94dfaf1aa0f4a81b7ecdd6",
+      "size" : 2536002,
       "starCount" : 0,
       "subtitle" : "A name picking app",
-      "version" : "0.0.15",
-      "versionDate" : "2021-12-27T07:01:27Z",
-      "versionDescription" : "Release 0.0.15",
+      "version" : "0.0.18",
+      "versionDate" : "2022-01-22T03:37:39Z",
+      "versionDescription" : "Release 0.0.18",
       "watcherCount" : 0
     },
     {

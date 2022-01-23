@@ -164,6 +164,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Down-Town",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 152608,
+      "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.1/Down-Town-macOS.zip",
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.1/Down-Town.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An urban street guide",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.1/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Down Town",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "72c9f82a0270a49ae0154fd117b2dbcfcca3ec5516fc365711c80c12370ee277",
+      "size" : 2271001,
+      "starCount" : 0,
+      "subtitle" : "An urban street guide",
+      "version" : "0.0.1",
+      "versionDate" : "2022-01-17T22:02:46Z",
+      "versionDescription" : "",
+      "watcherCount" : 0
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
@@ -229,6 +260,37 @@
       "version" : "0.0.28",
       "versionDate" : "2021-12-09T12:50:52Z",
       "versionDescription" : "Release 0.0.28",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Eternal-September",
+      "categories" : [
+        "public.app-category.education"
+      ],
+      "coreSize" : 152640,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.27/Eternal-September-macOS.zip",
+      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.27/Eternal-September.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An app for learning Roman Numerals",
+      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.27/Info.plist#ad405aab1da742590d05542a187bf07101e84113806b41d48d43f17b938b5a22",
+      "name" : "Eternal September",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.27/README.md#721eb5f81ec8d74a19278cd6ff67d62ef22beecdc29657d3f3c65254f4b90a13",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "69537d7cb80309a1fabbc0be199cab3454f31ea86a9953db6b6acf86bc68b6ba",
+      "size" : 2442386,
+      "starCount" : 0,
+      "subtitle" : "An app for learning Roman Numerals",
+      "version" : "0.0.27",
+      "versionDate" : "2022-01-05T16:02:47Z",
+      "versionDescription" : "Release 0.0.27",
       "watcherCount" : 0
     },
     {
@@ -775,7 +837,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Red-Light-Green-Light",
       "categories" : [
         "public.app-category.developer-tools"
@@ -803,37 +865,6 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-21T06:10:22Z",
       "versionDescription" : "Release 0.0.4",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Red-Light-Green-Light",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "coreSize" : 152640,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.2/Red-Light-Green-Light-macOS.zip",
-      "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.2/Red-Light-Green-Light.png",
-      "issueCount" : 0,
-      "localizedDescription" : "무궁화 꽃이 피었습니다",
-      "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Red Light Green Light",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "61f64f9d03caa78785063f25cb8bed6d1204e9e1ba157a8f165d01536b7208ba",
-      "size" : 2370459,
-      "starCount" : 0,
-      "subtitle" : "무궁화 꽃이 피었습니다",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-21T03:41:46Z",
-      "versionDescription" : "Release 0.0.2",
       "watcherCount" : 0
     },
     {
@@ -909,28 +940,29 @@
         "public.app-category.developer-tools"
       ],
       "coreSize" : 152624,
-      "developerName" : "Marc Prud'hommeaux <mwp1@cornell.edu>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/Story-Points-macOS.zip",
-      "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/Story-Points.png",
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.4/Story-Points-macOS.zip",
+      "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.4/Story-Points.png",
       "issueCount" : 0,
       "localizedDescription" : "UX Design Tool",
-      "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Story Points",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Story-Points/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Story-Points/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-
+        "https://github.com/Story-Points/App/releases/download/0.0.4/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Story-Points/App/releases/download/0.0.4/screenshot_01-mac-light-mac-2024x1124.png"
       ],
-      "sha256" : "8644685eab767c4a3b1e5b87a1842fb5c9e2be621096eff204ef1cbf01b448e3",
-      "size" : 2620073,
+      "sha256" : "8a26814c93c6b07aef3616dedbae4ef75b5222db74d708d1ad993700e50e232b",
+      "size" : 2383904,
       "starCount" : 0,
       "subtitle" : "UX Design Tool",
-      "version" : "0.0.2",
-      "versionDate" : "2021-12-21T22:04:41Z",
-      "versionDescription" : "",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-21T14:35:47Z",
+      "versionDescription" : "Release 0.0.4",
       "watcherCount" : 0
     },
     {

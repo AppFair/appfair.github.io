@@ -4,15 +4,44 @@ title: The App Fair
 ---
 
 <p align="center">
-<img align="center" height="100" alt="The App Fair Icon" src="appfair-icon.svg" />
+<a alt="Download the App Fair app for macOS Monterey" href="https://app-fair.app"><img alt="The App Fair icon" align="center" height="100" src="appfair-icon.svg" /></a>
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 
-<a href="https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip"><img align="center" height="100" alt="Download the App Fair for macOS Monterey" src="appfair-icon.svg" /></a>
 
-The App Fair is an independent application distribution platform for free and open-source apps.
-App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, accessibility and inclusiveness.
-The App Fair catalog browser app is available for macOS Monterey.
+The App Fair is an independent application distribution platform for free, open-source, and native macOS apps.
+App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, and accessibility.
+
+App Fair apps can be browsed and installed using the App Fair catalog browser, which is a native tool that can be downloaded from [https://app-fair.app](https://app-fair.app) and installed on macOS Monterey.
+App Fair.app supports installing both third-party apps (via [Homebrew Casks](https://github.com/Homebrew/homebrew-cask)), as well as apps published through the App Fair catalog, which is a catalog of free and open-source forks of the [appfair/App repository](https://github.com/appfair/App/network/members).
+
+## Quick Start
+
+Anyone can create and publish their own native app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and around an hour of time.
+
+  1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). The name of the organization is the name of your app, so you'll need to choose a new unique name. It can be easily changed later, so just pick the first thing that pops in your mind!
+  2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created. Be careful not to fork it into your own personal account – it must be forked into the new organization, since the app's name is solely defined by its containing organization.
+  3. In your new forked repository, select the **`Settings`** tab and follow the `Pages` settings link on the left. Turn on page publishing by setting the source branch to `main` and the folder to `/docs`, then hit **Save**. This sets up the landing page for your app that you will use to publish the app description, screenshots, and support information.
+  4. Select the **`Settings`** tab and enable both the _`Issues`_ and _`Discussions`_ features. These community features are required for the app to be included in the App Fair catalog.
+  5. Select the **`Actions`** tab and then select `Configure App` workflow on the left. Select the **Run workflow** drop-down, set the version to "0.0.1", then hit **Run workflow**. Wait a couple minutes for the action to complete (the yellow dot should turn green, indicating that the workflow ran successfully).
+  6. Select the **`Code`** tab and follow the _`Releases`_ link on the right. Hit the **Draft a new Release** button. Under `Choose a tag`, enter "0.0.1" and hit the "`Create a new tag on publish`" menu item. At the bottom of the page, enable "`This is a pre-release`", and hit the **Publish release** button.
+  7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. It should take under 10 minutes.    
+  8. Select the **`Pull Requests`** tab, then hit **Create Pull Request**. The `Title` field must be the name of the app (i.e., the organization name) and the body can be left empty. Hit the **Create Pull Request** button.
+  9. On the new pull request page page, hit its _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow to complete successfully, which should take around 10 minutes.
+
+Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written written any code yet), but it is your's to develop, maintain, and share with the world.
+
+On a computer with macOS Monterey, you can now install and run the [App Fair catalog browser app](https://app-fair.app/), enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
+
+The next step will be to code your app, which typically involves cloning your fork and opening `App.xcworkspace` in an IDE like `Xcode.app`. The `App/Sources/AppContainer.swift` file contains the scaffold for your SwiftUI code; start there to begin fleshing out your app's behavior. The default permissions are very restrictive (no network or peripheral access, file system access restricted to the app's sandbox folder, etc.), so you can edit the `Sandbox.entitlements` file to expand the permissions for your app. This will affect the "Risk" assessment of the app as shown in the catalog browser, which plays a central role in an end user's decision whether to trust and install your app.
+
+You should also update the app's catalog description and categories by updating the repository's description and tags (e.g. "appfair-games" or "appfair-productivity"), and those changes will be automatically integrated into the App Fair catalog entry for your app.
+
+Releasing updates to your app is simply a matter of pushing changes to your fork, updating the app version to "0.0.2" using the `Configure App` GitHub actions (or by editing `AppFairApp.xcconfig` directly), creating a new "0.0.2" release tag, and then opening a new Pull Request against [appfair/App](https://github.com/appfair/App/pulls) with your app's name as the title. 
+
+And for finishing touches you can fill in your `README.md` with a description of the technical aspects of your app and `docs/index.md` with your landing page's marketing copy. Screenshots saved to the `docs/screenshots/` folder will be automatically published on your landing page, and be displayed in your App Fair catalog entry the next time you publish a new release. You can also register a custom domain (using any domain name registrar) and set that domain in your fork's  Pages setting, making any changes your push from your `docs/` folder immediately available as your app's home page. 
+
+Continue reading for the full development guide, FAQs, and discussion of the security and source disclosure mechanisms for fair-ground apps. Jump right in and start developing your own native app!
 
 <img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
 
@@ -407,8 +436,15 @@ If these files are added to the `Assets.xcassets/AppIcon.appiconset/` asset cata
 
 ### App Screenshots
 
+Screenshots for your app that are saved to your `docs/screenshots/` folder will be automatically included in both the **App Fair.app** catalog entry for the app, as well as your app's landing page at `https://<your organization name>.github.io/App`.
 
+Screenshots should be named: `screenshot_[01]-[device]-[mode]-[width]x[height]@[scale].png`, where `[device]` is `mac`, `iphone`, or `ipad` and `[mode]` is either `light` or `dark`. The width and height are not constrained, so you can display any shape of window.
 
+If two screenshots are named the same thing with only the exception of the `mode` part, they will be assumed to be a shot of the exact same screen (varying only between dark and light modes), and may be given special treatment by the catalog browser app. For example:
+
+  * `screenshot_04-iphone-dark-828x1792.png`
+  * `screenshot_04-iphone-light-828x1792.png`
+  
 # The App Fair Catalog
 
 ## App Fair Catalog Requirements 
@@ -894,12 +930,6 @@ In addition, the `#Description` section of the App's `README.md` file will be us
 ### How do I provide documentation for my app?
 
 The `README.md` file in your `/App/` fork repository should be used as the entry point to your application's documentation.
-
-### How do I provide screenshots for the app?
-
-The `/App/` fork has a `screenshots/` folder, which contains files with the pattern `screenshot-[device]-[NN]-[width]x[height].png`, where `[device]` is `mac`, `iphone`, or `ipad`.
-
-Screenshots for the app can be placed in this folder, and they will be automatically included in the artifacts for the next release build. These release artifacts will be, in turn, included in the App's catalog entry and viewable in the catalog browser app.
 
 ### How can I release a beta version of my app?
 

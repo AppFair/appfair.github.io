@@ -8,12 +8,7 @@ title: The App Fair
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 
-<!--
-<h3>Welcome Hacker News Visitors!</h3>
-<h4>The edu e-mail address prerequisite has been paused. There is no restriction on who can create an App Fair app.</h4>
--->
-
-<!-- <a href="https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip"><img align="center" height="100" alt="Download the App Fair for macOS Monterey" src="appfair-icon.svg" /></a> -->
+<a href="https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip"><img align="center" height="100" alt="Download the App Fair for macOS Monterey" src="appfair-icon.svg" /></a>
 
 The App Fair is an independent application distribution platform for free and open-source apps.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, accessibility and inclusiveness.

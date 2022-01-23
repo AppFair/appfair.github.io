@@ -100,9 +100,9 @@ jobs:
           git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
           git config user.name "appfairbot"
           git config user.email "appfairbot@appfair.net"
-          git pull 
           git add fairapps.json
           git add fairapps-iOS.json
+          git pull -ff
           git commit -m "catalog update" || echo "nothing to commit"
           git push
 

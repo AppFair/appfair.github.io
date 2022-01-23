@@ -82,27 +82,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Crazy-Glue-iOS.ipa",
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Crazy-Glue.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-iOS.ipa",
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Crazy Glue",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "c52d0f8dcb1693b2c173eeead6c20935187f1588909d036607c7ec1cc1c9c42b",
-      "size" : 5904217,
+      "sha256" : "aae320c8f7a9295fb79840e507ee24918963da8f5ea6e9e115a2e63fc36b6a34",
+      "size" : 5901949,
       "starCount" : 0,
       "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-20T14:31:22Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-23T23:13:56Z",
+      "versionDescription" : "Release 0.0.4",
       "watcherCount" : 0
     },
     {
@@ -174,7 +174,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Festivus-Pole",
       "categories" : [
         "public.app-category.entertainment"
@@ -206,37 +206,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Festivus-Pole",
-      "categories" : [
-        "public.app-category.entertainment"
-      ],
-      "coreSize" : 68368,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.2/Festivus-Pole-iOS.ipa",
-      "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.2/Festivus-Pole.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A true Festivus celebration",
-      "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Festivus Pole",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "5ca48a807e84042b5d30e5e3e22be357596fae0b41c4d56ddc45afcde523afa1",
-      "size" : 5784671,
-      "starCount" : 0,
-      "subtitle" : "A true Festivus celebration",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-20T14:56:05Z",
-      "versionDescription" : "Release 0.0.2",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Fox-Glove",
       "categories" : [
         "public.app-category.utilities"
@@ -264,37 +233,6 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-23T23:13:52Z",
       "versionDescription" : "Release 0.0.4",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Fox-Glove",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/Fox-Glove-iOS.ipa",
-      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/Fox-Glove.png",
-      "issueCount" : 0,
-      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
-      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Fox Glove",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "5032c048713a98bfb1fb75c10cf9bb951b6bd77ca0605a9fb0254065d2bae2a9",
-      "size" : 6023484,
-      "starCount" : 0,
-      "subtitle" : "There, I fixed the web for you. You're welcome.",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-20T16:05:05Z",
-      "versionDescription" : "Release 0.0.2",
       "watcherCount" : 0
     },
     {

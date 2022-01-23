@@ -140,27 +140,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Crazy-Glue-macOS.zip",
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Crazy-Glue.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Crazy Glue",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Crazy-Glue/App/releases/download/0.0.3/screenshot_01-mac-1936x1036.png"
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.4/screenshot_01-mac-1936x1036.png"
       ],
-      "sha256" : "db6d1cd0fb1a6410fe566839908631778acf6f0e810123a3cbbae42952d815d4",
-      "size" : 2320689,
+      "sha256" : "bb88aca0dda7fed7a8fb7c8d0c292357e90d6326e1667f2dd8947f1b11f04eac",
+      "size" : 2317729,
       "starCount" : 0,
       "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-20T14:31:22Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-23T23:13:56Z",
+      "versionDescription" : "Release 0.0.4",
       "watcherCount" : 0
     },
     {
@@ -294,7 +294,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Festivus-Pole",
       "categories" : [
         "public.app-category.entertainment"
@@ -326,37 +326,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Festivus-Pole",
-      "categories" : [
-        "public.app-category.entertainment"
-      ],
-      "coreSize" : 68368,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.2/Festivus-Pole-macOS.zip",
-      "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.2/Festivus-Pole.png",
-      "issueCount" : 0,
-      "localizedDescription" : "A true Festivus celebration",
-      "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Festivus Pole",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Festivus-Pole/App/releases/download/0.0.2/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "ecd5792c0926dbd4f95c704cb5dac54ccd98c4b87fa082267ab794ec529e74b5",
-      "size" : 2327909,
-      "starCount" : 0,
-      "subtitle" : "A true Festivus celebration",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-20T14:56:05Z",
-      "versionDescription" : "Release 0.0.2",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Fox-Glove",
       "categories" : [
         "public.app-category.utilities"
@@ -385,37 +354,6 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-23T23:13:52Z",
       "versionDescription" : "Release 0.0.4",
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Fox-Glove",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/Fox-Glove-macOS.zip",
-      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/Fox-Glove.png",
-      "issueCount" : 0,
-      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
-      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Fox Glove",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Fox-Glove/App/releases/download/0.0.2/screenshot_01-mac-dark-mac-1936x1036.png"
-      ],
-      "sha256" : "6c0323b39d03a4dc5e294126f6a32cae74e51a07959be42b43f32b20d3018e49",
-      "size" : 2429976,
-      "starCount" : 0,
-      "subtitle" : "There, I fixed the web for you. You're welcome.",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-20T16:05:05Z",
-      "versionDescription" : "Release 0.0.2",
       "watcherCount" : 0
     },
     {

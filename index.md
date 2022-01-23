@@ -17,17 +17,17 @@ App Fair.app supports installing both third-party apps (via [Homebrew Casks](htt
 
 ## Quick Start
 
-Anyone can create and publish their own native app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and around an hour of time.
+Anyone can create and publish their own native app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time.
 
-  1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). The name of the organization is the name of your app, so you'll need to choose a new unique name. It can be easily changed later, so just pick the first thing that pops in your mind!
+  1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). The name of the organization is the name of your app, so you'll need to choose a new unique name. It can be easily changed later, so just pick the first available name that pops in your mind!
   2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created. Be careful not to fork it into your own personal account – it must be forked into the new organization, since the app's name is solely defined by its containing organization.
-  3. In your new forked repository, select the **`Settings`** tab and follow the `Pages` settings link on the left. Turn on page publishing by setting the source branch to `main` and the folder to `/docs`, then hit **Save**. This sets up the landing page for your app that you will use to publish the app description, screenshots, and support information.
-  4. Select the **`Settings`** tab and enable both the _`Issues`_ and _`Discussions`_ features. These community features are required for the app to be included in the App Fair catalog.
-  5. Select the **`Actions`** tab and then select `Configure App` workflow on the left. Select the **Run workflow** drop-down, set the version to "0.0.1", then hit **Run workflow**. Wait a couple minutes for the action to complete (the yellow dot should turn green, indicating that the workflow ran successfully).
-  6. Select the **`Code`** tab and follow the _`Releases`_ link on the right. Hit the **Draft a new Release** button. Under `Choose a tag`, enter "0.0.1" and hit the "`Create a new tag on publish`" menu item. At the bottom of the page, enable "`This is a pre-release`", and hit the **Publish release** button.
-  7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. It should take under 10 minutes.    
-  8. Select the **`Pull Requests`** tab, then hit **Create Pull Request**. The `Title` field must be the name of the app (i.e., the organization name) and the body can be left empty. Hit the **Create Pull Request** button.
-  9. On the new pull request page page, hit its _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow to complete successfully, which should take around 10 minutes.
+  3. In your new forked repository, select the **`Settings`** tab and follow the `Pages` settings link on the left. Configure the source branch to be `main` and the folder to be `/docs`, then hit **Save**. This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
+  4. Select the **`Settings`** tab's `Options` section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area. These community features are required for the app to be included in the App Fair catalog.
+  5. Select the **`Actions`** tab and then select `Configure App` workflow on the left. Expand the **Run workflow** drop-down, set the version to "0.0.1", then hit **Run workflow**. Wait a couple minutes for the action to complete: the yellow dot should turn green, indicating that the workflow ran successfully.
+  6. Select the **`Code`** tab and follow the _`Releases`_ link (on the right side of the page). Hit the **Create a new Release** button. Under `Choose a tag`, enter "0.0.1" and hit the "`Create new tag on publish`" menu item. At the bottom of the page, enable the "`This is a pre-release`" checkbox then hit the **Publish release** button.
+  7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. It should take under 10 minutes.
+  8. Select the **`Pull Requests`** tab, then hit the **New Pull Request** button. On the next page, hit the **Create Pull Request** button. The `Title` field must be the name and version of the app (e.g., "My App Name 0.0.1"). The body can be left empty. Hit the **Create Pull Request** button.
+  9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow to complete successfully, which should take around 10 minutes.
 
 Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written written any code yet), but it is your's to develop, maintain, and share with the world.
 
@@ -1241,6 +1241,17 @@ Start Date: 2021:12:04 15:19:19
 End Date:   2021:12:04 15:19:47
 ```
 
+### How do I diagnose failures in the "Generate fairseal" phase?
+
+On occasion, the `Integrate Release` phase may fail with an error like:
+
+```
+fairtool error: Trusted and untrusted artifact content mismatch at App Name.app/Contents/Frameworks/App.framework/Versions/A/App: 1 insertions in 1 ranges ["19145..<19146"] and 1 removals in 1 ranges ["19145..<19146"] and totalChanges 2 beyond permitted threshold: 0
+```
+
+This is a known issue with the validation that the integrated app match is identical to the released app binary. For unknown reasons, the binary created by the `fork-apply` phase is not identical to the `integrate-release` reproduction (possibly due to alignment issues with the code signing). 
+
+The only known work-around at this time is to make some change to your app's fork (it can be a trivial change, but it must result in a difference in the compiled binary) and then re-run the FAIR process with a new version.
 
 ### How do I rename an app?
 

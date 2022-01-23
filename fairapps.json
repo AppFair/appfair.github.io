@@ -294,6 +294,37 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Festivus-Pole",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 68368,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole-macOS.zip",
+      "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A true Festivus celebration",
+      "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Festivus Pole",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Festivus-Pole/App/releases/download/0.0.3/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "4c85036bb30f16b52bb03b4781cd6c8c299a548ed568ee25eac226ef95829c4c",
+      "size" : 2324945,
+      "starCount" : 0,
+      "subtitle" : "A true Festivus celebration",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-23T23:13:54Z",
+      "versionDescription" : "Release 0.0.3",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Festivus-Pole",
       "categories" : [
@@ -332,28 +363,28 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/Fox-Glove-macOS.zip",
-      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/Fox-Glove.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove-macOS.zip",
+      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
       "issueCount" : 0,
       "localizedDescription" : "There, I fixed the web for you. You're welcome.",
-      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Fox Glove",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Fox-Glove/App/releases/download/0.0.3/screenshot_01-mac-dark-mac-1936x1036.png",
-        "https://github.com/Fox-Glove/App/releases/download/0.0.3/screenshot_01-mac-light-mac-1936x1036.png"
+        "https://github.com/Fox-Glove/App/releases/download/0.0.4/screenshot_01-mac-dark-mac-1936x1036.png",
+        "https://github.com/Fox-Glove/App/releases/download/0.0.4/screenshot_01-mac-light-mac-1936x1036.png"
       ],
-      "sha256" : "fbbfbe617fcef2edc7673cc6f510434d4d25c7b0825b951c9d0bdc24d00f21e7",
-      "size" : 2431378,
+      "sha256" : "b1c654805f85e21d51803ac45995486c60d4b7b9a8f5b4d648497f63fa5f42fa",
+      "size" : 2427021,
       "starCount" : 0,
       "subtitle" : "There, I fixed the web for you. You're welcome.",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-21T14:01:05Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-23T23:13:52Z",
+      "versionDescription" : "Release 0.0.4",
       "watcherCount" : 0
     },
     {

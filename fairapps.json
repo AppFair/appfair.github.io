@@ -844,27 +844,28 @@
       ],
       "coreSize" : 152640,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.4/Red-Light-Green-Light-macOS.zip",
-      "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.4/Red-Light-Green-Light.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.10/Red-Light-Green-Light-macOS.zip",
+      "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.10/Red-Light-Green-Light.png",
       "issueCount" : 0,
       "localizedDescription" : "무궁화 꽃이 피었습니다",
-      "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.10/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Red Light Green Light",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.10/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.4/screenshot_01-mac-dark-mac-1936x1036.png"
+        "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.10/screenshot_01-mac-dark-2024x1124.png",
+        "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.10/screenshot_01-mac-light-2024x1124.png"
       ],
-      "sha256" : "43680cf1723054f1e2b36825aa3aa0ed9363b428c78fcc654b74a33e73240edd",
-      "size" : 2371857,
+      "sha256" : "1489abbad962f15a581b08951bcb93836a8932c8324b29589ab591b630f1178a",
+      "size" : 2367488,
       "starCount" : 0,
       "subtitle" : "무궁화 꽃이 피었습니다",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-21T06:10:22Z",
-      "versionDescription" : "Release 0.0.4",
+      "version" : "0.0.10",
+      "versionDate" : "2022-01-23T22:40:10Z",
+      "versionDescription" : "Release 0.0.10",
       "watcherCount" : 0
     },
     {

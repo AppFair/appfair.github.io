@@ -57,6 +57,8 @@ jobs:
         run: |
           rm -rf homebrew-app/Casks/
           mkdir -p homebrew-app/Casks/
+          rm -f fairapps-macos.json fairapps-macos.md
+          rm -f fairapps-ios.json fairapps-ios.md
 
       - name: Generate Catalog
         run: |

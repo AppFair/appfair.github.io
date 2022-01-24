@@ -30,7 +30,7 @@ Anyone can create and publish their own native app on the App Fair, for free, us
   9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow to complete successfully, which should take around 10 minutes.
   10. Your app will soon be listed in the [recent apps](https://www.appfair.net/fairapps-macos) catalog, indicating that it has been published successfully.
 
-Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written written any code yet), but it is your's to develop, maintain, and share with the world.
+Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written written any code yet), but it is yours to develop, maintain, and share with the world.
 
 On a computer with macOS Monterey, you can now install and run the [App Fair catalog browser app](https://app-fair.app/), enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
 

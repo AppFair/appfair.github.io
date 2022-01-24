@@ -563,7 +563,7 @@
       ],
       "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.5/Micro-Vector-macOS.zip",
       "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.5/Micro-Vector.png",
       "issueCount" : 0,
@@ -935,35 +935,35 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Story-Points",
       "categories" : [
         "public.app-category.developer-tools"
       ],
       "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.4/Story-Points-macOS.zip",
-      "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.4/Story-Points.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points-macOS.zip",
+      "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points.png",
       "issueCount" : 0,
       "localizedDescription" : "UX Design Tool",
-      "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Story Points",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Story-Points/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Story-Points/App/releases/download/0.0.4/screenshot_01-mac-dark-mac-2024x1124.png",
-        "https://github.com/Story-Points/App/releases/download/0.0.4/screenshot_01-mac-light-mac-2024x1124.png"
+        "https://github.com/Story-Points/App/releases/download/0.0.6/screenshot_01-mac-light-mac-2024x1124.png",
+        "https://github.com/Story-Points/App/releases/download/0.0.6/screenshot_01-mac-dark-mac-2024x1124.png"
       ],
-      "sha256" : "8a26814c93c6b07aef3616dedbae4ef75b5222db74d708d1ad993700e50e232b",
-      "size" : 2383904,
+      "sha256" : "e6b3bff7dd943fea8dfab2ee57d61a454bd8c4ddb2f443ed649cd93729352f8c",
+      "size" : 2383127,
       "starCount" : 0,
       "subtitle" : "UX Design Tool",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-21T14:35:47Z",
-      "versionDescription" : "Release 0.0.4",
+      "version" : "0.0.6",
+      "versionDate" : "2022-01-24T01:59:22Z",
+      "versionDescription" : "Release 0.0.6",
       "watcherCount" : 0
     },
     {
@@ -994,6 +994,38 @@
       "subtitle" : "What tide is it right now?",
       "version" : "0.0.12",
       "versionDate" : "2022-01-15T16:12:59Z",
+      "versionDescription" : "Release 0.0.12",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Trivial-Quiz",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 68368,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Trivial-Quiz-macOS.zip",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Trivial-Quiz.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A little quiz game",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Trivial Quiz",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/screenshot_01-mac-light-mac-2024x1124.png",
+        "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/screenshot_01-mac-dark-mac-2024x1124.png"
+      ],
+      "sha256" : "1c7941299efb9bb88ccb044dc7d2efab5eabf09b694eaeddb104af0ae4b62dd9",
+      "size" : 2352768,
+      "starCount" : 0,
+      "subtitle" : "A little quiz game",
+      "version" : "0.0.12",
+      "versionDate" : "2022-01-24T01:55:09Z",
       "versionDescription" : "Release 0.0.12",
       "watcherCount" : 0
     },

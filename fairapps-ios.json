@@ -277,12 +277,12 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/Hex-Loupe.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -290,18 +290,18 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "18f297918116446cdf200dd77e5de6726752439c0653cfe2a6e2f67d450f8ce1",
-      "size" : 6023438,
+      "sha256" : "6b9a08a3c3010b69fbff95c30114cdb0939f12fdcab6e42b7ac6048c879978c5",
+      "size" : 6040267,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.12",
-      "versionDate" : "2022-01-24T11:51:11Z",
-      "versionDescription" : "Release 0.0.12",
+      "version" : "0.0.13",
+      "versionDate" : "2022-01-24T23:39:49Z",
+      "versionDescription" : "Release 0.0.13",
       "watcherCount" : 0
     },
     {
@@ -531,7 +531,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 152608,
+      "coreSize" : 152704,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/SQL-Hero-iOS.ipa",
@@ -541,7 +541,18 @@
       "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "SQL Hero",
       "permissions" : [
-
+        {
+          "type" : "network.client",
+          "usageDescription" : "Network client access required to connect to remote databases."
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "Network server access is needed to handle requests."
+        },
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "Filesystem access required to read and write local databases."
+        }
       ],
       "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [

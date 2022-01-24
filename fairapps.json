@@ -399,11 +399,11 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/Hex-Loupe-macOS.zip",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/Hex-Loupe.png",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -411,19 +411,21 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
       "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.12/screenshot_01-mac-2360x1742.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.12/screenshot_02-mac-1864x1392.png"
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.13/screenshot_01-mac-dark-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.13/screenshot_01-mac-light-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.13/screenshot_02-mac-1864x1392.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.13/screenshot_03-mac-2360x1742.png"
       ],
-      "sha256" : "2ba1f65b55139e867aedc171d618a08a2fce414f3180aee697e24801d6d71940",
-      "size" : 2380668,
+      "sha256" : "eeaaff43830d8e857cbd78944a2a687e00c7624ff9b005aaffe5b5b57b46a0dc",
+      "size" : 2387104,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.12",
-      "versionDate" : "2022-01-24T11:51:11Z",
-      "versionDescription" : "Release 0.0.12",
+      "version" : "0.0.13",
+      "versionDate" : "2022-01-24T23:39:49Z",
+      "versionDescription" : "Release 0.0.13",
       "watcherCount" : 0
     },
     {
@@ -595,27 +597,28 @@
       ],
       "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.7/Micro-Vector-macOS.zip",
-      "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.7/Micro-Vector.png",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector-macOS.zip",
+      "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector.png",
       "issueCount" : 0,
       "localizedDescription" : "A vector drawing app",
-      "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Micro Vector",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-
+        "https://github.com/Micro-Vector/App/releases/download/0.0.8/screenshot_01-mac-dark-1412x1082.png",
+        "https://github.com/Micro-Vector/App/releases/download/0.0.8/screenshot_01-mac-light-1412x1082.png"
       ],
-      "sha256" : "6ed81ca13fd6d8fde7b05456b52692f8407294b1ad883a97657b947d7db8e98a",
+      "sha256" : "62d9c7a67c652dd3504c0574780869dcba80b5cae7617cb05790e0028d5fc482",
       "size" : 2791600,
       "starCount" : 0,
       "subtitle" : "A vector drawing app",
-      "version" : "0.0.7",
-      "versionDate" : "2022-01-24T22:00:57Z",
-      "versionDescription" : "Release 0.0.7",
+      "version" : "0.0.8",
+      "versionDate" : "2022-01-24T23:35:02Z",
+      "versionDescription" : "Release 0.0.8",
       "watcherCount" : 0
     },
     {

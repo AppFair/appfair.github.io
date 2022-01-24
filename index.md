@@ -49,7 +49,7 @@ Continue reading for the full development guide, FAQs, and discussion of the sec
 
 ## The App Fair for End Users
 
-<img align="right" width="50%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
+<a href="assets/app-fair-app.png" target="_blank"><img align="right" width="50%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" /></a>
 
 From an end-user perspective, the **App Fair.app** catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
 
@@ -105,9 +105,9 @@ App that are distributed through the App Fair can additionally be made available
 
 <!-- ### Intro Video -->
 
+<!--
 <iframe src="https://player.vimeo.com/video/654949321?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
-<!-- <iframe src="https://player.vimeo.com/video/642784328?texttrack=en" frameborder="0" scrolling="no" style="width: 100%; height: 400px; min-height: 150px; border: none; overflow: hidden;" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe> -->
+-->
 
 
 ## The App Fair fair-ground
@@ -193,10 +193,9 @@ XXX ### Translating and Localizing your App
 
 The `/App-Name/App.git` repository is structured as a standard Swift package and includes the following code that must be included as the scaffold and starting point for your app:
 
-  * Package.swift
-  * Sources/App/AppMain.swift
-  * Sources/App/AppContainer.swift
-  * Tests/AppTests/AppTests.swift
+  * `Package.swift`
+  * `Sources/App/AppContainer.swift`
+  * `Tests/AppTests/AppTests.swift`
 
 In addition, at the top level of the repository, there are `Xcode`-specific project files that describe the metadata, build rules, assets, and permissions for the project:
 
@@ -207,7 +206,7 @@ In addition, at the top level of the repository, there are `Xcode`-specific proj
   * `Sandbox.entitlements` – permissions that should be granted to your app
   * `Assets.xcassets` – the app's icon and tint color definition (auto-generated when left un-configured)
 
-App development must be done by opening `App.xcworkspace` using `Xcode.app` to build, run, and debug the `SwiftUI` app that is defined in `Sources/App/AppContainer.swift`.
+App development should be done by opening `App.xcworkspace` using `Xcode.app` to build, run, and debug the `SwiftUI` app that is defined in `Sources/App/AppContainer.swift`.
 Note, however, that changes to these project files, `App.xcworkspace` and `project.xcodeproj`, will *not* be incorporated into the final project.
 It will be best not to make changes to the project files themselves, since none of the changes will be used in the eventual `integrate-release` phases of the process.
 Specifically, your build must not rely on any script build phases that you add to the project files since these scripts will not be run during `I-R`.

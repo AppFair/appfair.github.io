@@ -1,6 +1,10 @@
 ---
 layout: catalog
 ---
+  * [Pan Opticon](https://Pan-Opticon.github.io/App) 0.2.22: 2022-01-24 11:51:13 +0000)
+
+  * [Hex Loupe](https://Hex-Loupe.github.io/App) 0.0.12: 2022-01-24 11:51:11 +0000)
+
   * [Lottie Motion](https://Lottie-Motion.github.io/App) 0.0.82: 2022-01-24 05:38:00 +0000)
 
   * [Tidal Zone](https://Tidal-Zone.github.io/App) 0.0.14: 2022-01-24 05:28:32 +0000)
@@ -29,15 +33,9 @@ layout: catalog
 
   * [Ultra Light](https://Ultra-Light.github.io/App) 0.0.7: 2022-01-21 14:04:24 +0000)
 
-  * [Pan Opticon](https://Pan-Opticon.github.io/App) 0.2.21: 2022-01-21 14:00:41 +0000)
-
   * [Main Course](https://Main-Course.github.io/App) 0.0.12: 2022-01-21 13:31:42 +0000)
 
   * [Yankee Swap](https://Yankee-Swap.github.io/App) 0.0.10: 2022-01-21 13:21:44 +0000)
-
-  * [Pan Opticon](https://Pan-Opticon.github.io/App) 0.2.20: 2022-01-21 05:51:04 +0000)
-
-  * [Hex Loupe](https://Hex-Loupe.github.io/App) 0.0.11: 2022-01-20 13:27:12 +0000)
 
   * [Ultra Light](https://Ultra-Light.github.io/App) 0.0.5: 2022-01-20 03:44:45 +0000)
 

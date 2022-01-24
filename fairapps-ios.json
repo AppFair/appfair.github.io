@@ -313,11 +313,11 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.11/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.11/Hex-Loupe.png",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/Hex-Loupe.png",
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.11/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -325,18 +325,18 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.11/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.12/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "220025509823abe4dcd3b3b6326acb24570a68fbd049b23bbb2ca569f2e932c2",
-      "size" : 5993841,
+      "sha256" : "18f297918116446cdf200dd77e5de6726752439c0653cfe2a6e2f67d450f8ce1",
+      "size" : 6023438,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.11",
-      "versionDate" : "2022-01-20T13:27:12Z",
-      "versionDescription" : "Release 0.0.11",
+      "version" : "0.0.12",
+      "versionDate" : "2022-01-24T11:51:11Z",
+      "versionDescription" : "Release 0.0.12",
       "watcherCount" : 0
     },
     {
@@ -529,38 +529,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Pan-Opticon",
-      "categories" : [
-        "public.app-category.sports"
-      ],
-      "coreSize" : 68360,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/Pan-Opticon-iOS.ipa",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/Pan-Opticon.png",
-      "issueCount" : 0,
-      "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Pan Opticon",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.21/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "0922652f16bfd9f59124b5c5e54ad6af24043e79ccea997df52c4a5c0e0a1467",
-      "size" : 6464839,
-      "starCount" : 0,
-      "subtitle" : "Watch the Watchers",
-      "tintColor" : "CC00AA",
-      "version" : "0.2.21",
-      "versionDate" : "2022-01-21T14:00:41Z",
-      "versionDescription" : "Release 0.2.21",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
@@ -569,27 +537,27 @@
       "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.20/Pan-Opticon-iOS.ipa",
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.20/Pan-Opticon.png",
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon-iOS.ipa",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon.png",
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.20/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.20/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "def63a81388aff33a23ebcdeff2220a6af550dc31603fac5ff21a4aaed8dfdc4",
-      "size" : 6464813,
+      "sha256" : "37b8c56673fde758a3fdebf24030907ef25a0e93b3ab8e7be577549768b324a8",
+      "size" : 6493112,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
-      "version" : "0.2.20",
-      "versionDate" : "2022-01-21T05:51:04Z",
-      "versionDescription" : "Release 0.2.20",
+      "version" : "0.2.22",
+      "versionDate" : "2022-01-24T11:51:13Z",
+      "versionDescription" : "Release 0.2.22",
       "watcherCount" : 0
     },
     {

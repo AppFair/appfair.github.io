@@ -591,27 +591,28 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.18/Name-Sense-macOS.zip",
-      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.18/Name-Sense.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense-macOS.zip",
+      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense.png",
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
-      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.18/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Name Sense",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.18/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Name-Sense/App/releases/download/0.0.18/screenshot_01-mac-dark-mac-1862x852.png"
+        "https://github.com/Name-Sense/App/releases/download/0.0.23/screenshot_01-mac-dark-1392x1126.png",
+        "https://github.com/Name-Sense/App/releases/download/0.0.23/screenshot_01-mac-light-1392x1126.png"
       ],
-      "sha256" : "9d4e1ee7559812261a271591c8e8bc032569495e1f94dfaf1aa0f4a81b7ecdd6",
-      "size" : 2536002,
+      "sha256" : "3a0868eb5cd9764612f10251023c8f91d76e3def4bbd62fe48b654e569aa7389",
+      "size" : 2535187,
       "starCount" : 0,
       "subtitle" : "A name picking app",
-      "version" : "0.0.18",
-      "versionDate" : "2022-01-22T03:37:39Z",
-      "versionDescription" : "Release 0.0.18",
+      "version" : "0.0.23",
+      "versionDate" : "2022-01-24T04:09:31Z",
+      "versionDescription" : "Release 0.0.23",
       "watcherCount" : 0
     },
     {

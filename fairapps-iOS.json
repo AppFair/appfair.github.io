@@ -40,6 +40,41 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 68368,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.14/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.14/Cloud-Cuckoo.png",
+      "issueCount" : 0,
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.14/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.14/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.14/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.14/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.14/screenshot_03-iphone-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.14/screenshot_04-iphone-1170x2532.png"
+      ],
+      "sha256" : "523a415885237d7023cd61c49c69818c97aab71c63242f57ea1c15a25f1f0d41",
+      "size" : 5979868,
+      "starCount" : 1,
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.14",
+      "versionDate" : "2022-01-24T05:17:55Z",
+      "versionDescription" : "Release 0.9.14",
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
@@ -973,5 +1008,5 @@
   ],
   "identifier" : "appfair",
   "name" : "The App Fair",
-  "sourceURL" : "https://www.appfair.net/fairapps-iOS.json"
+  "sourceURL" : "https://www.appfair.net/fairapps-ios.json"
 }

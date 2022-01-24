@@ -1,6 +1,8 @@
 ---
 layout: catalog
 ---
+  * [**Micro Vector**](https://Micro-Vector.github.io/App) 0.0.6: [downloads: 1](https://github.com/Micro-Vector/App/releases) [issues: 0](https://github.com/Micro-Vector/App/issues) [stars: 0](https://github.com/Micro-Vector/App.git) [category: graphics-design](https://github.com/topics/appfair-graphics-design) 2022-01-24 21:22:28 +0000
+
   * [**SQL Hero**](https://SQL-Hero.github.io/App) 0.0.6: [downloads: 3](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 20:26:18 +0000
 
   * [**Cloud Cuckoo**](https://Cloud-Cuckoo.github.io/App) 0.9.15: [downloads: 2](https://github.com/Cloud-Cuckoo/App/releases) [issues: 0](https://github.com/Cloud-Cuckoo/App/issues) [stars: 1](https://github.com/Cloud-Cuckoo/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-24 16:40:05 +0000
@@ -28,8 +30,6 @@ layout: catalog
   * [**Visi Calc**](https://Visi-Calc.github.io/App) 0.0.37: [downloads: 2](https://github.com/Visi-Calc/App/releases) [issues: 0](https://github.com/Visi-Calc/App/issues) [stars: 0](https://github.com/Visi-Calc/App.git) [category: business](https://github.com/topics/appfair-business) 2022-01-24 01:59:51 +0000
 
   * [**Story Points**](https://Story-Points.github.io/App) 0.0.6: [downloads: 2](https://github.com/Story-Points/App/releases) [issues: 0](https://github.com/Story-Points/App/issues) [stars: 0](https://github.com/Story-Points/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 01:59:22 +0000
-
-  * [**Micro Vector**](https://Micro-Vector.github.io/App) 0.0.5: [downloads: 2](https://github.com/Micro-Vector/App/releases) [issues: 0](https://github.com/Micro-Vector/App/issues) [stars: 0](https://github.com/Micro-Vector/App.git) [category: graphics-design](https://github.com/topics/appfair-graphics-design) 2022-01-24 01:55:11 +0000
 
   * [**Trivial Quiz**](https://Trivial-Quiz.github.io/App) _0.0.12 pre-release_: [downloads: 1](https://github.com/Trivial-Quiz/App/releases) [issues: 0](https://github.com/Trivial-Quiz/App/issues) [stars: 0](https://github.com/Trivial-Quiz/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-24 01:55:09 +0000
 

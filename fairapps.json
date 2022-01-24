@@ -462,6 +462,37 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Huffle-Puff",
+      "categories" : [
+        "public.app-category.entertainment"
+      ],
+      "coreSize" : 152608,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.5/Huffle-Puff-macOS.zip",
+      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.5/Huffle-Puff.png",
+      "issueCount" : 0,
+      "localizedDescription" : "H.R. Huffle Puff ",
+      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Huffle Puff",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "cf5bb81bc15df2cf5a5e1d605dad6c544267b05892ad4f0463579408d664436f",
+      "size" : 2277680,
+      "starCount" : 0,
+      "subtitle" : "H.R. Huffle Puff ",
+      "version" : "0.0.5",
+      "versionDate" : "2022-01-24T00:30:37Z",
+      "versionDescription" : "Release 0.0.5",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
         "public.app-category.education"

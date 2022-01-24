@@ -75,6 +75,7 @@ jobs:
             --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
             --cask-folder ../homebrew-app/Casks/ \
+            --index ../appfair.github.io/fairapps.md \
             -o ../appfair.github.io/fairapps.json
 
           swift run -- fairtool catalog \
@@ -89,6 +90,7 @@ jobs:
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
             --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
+            --index ../appfair.github.io/fairapps-iOS.md \
             -o ../appfair.github.io/fairapps-iOS.json
 
           cd ..
@@ -100,7 +102,9 @@ jobs:
           git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
           git config user.name "appfairbot"
           git config user.email "appfairbot@appfair.net"
+          git add fairapps.md
           git add fairapps.json
+          git add fairapps-iOS.md
           git add fairapps-iOS.json
           git pull -ff
           git commit -m "catalog update" || echo "nothing to commit"

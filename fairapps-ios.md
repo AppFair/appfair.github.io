@@ -1,6 +1,8 @@
 ---
 layout: catalog
 ---
+  * [**SQL Hero**](https://SQL-Hero.github.io/App) _0.0.3 pre-release_: [downloads: 2](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 16:11:25 +0000
+
   * [**Yankee Swap**](https://Yankee-Swap.github.io/App) 0.0.11: [downloads: 1](https://github.com/Yankee-Swap/App/releases) [issues: 0](https://github.com/Yankee-Swap/App/issues) [stars: 0](https://github.com/Yankee-Swap/App.git) [category: social-networking](https://github.com/topics/appfair-social-networking) 2022-01-24 14:24:10 +0000
 
   * [**Main Course**](https://Main-Course.github.io/App) 0.0.15: [downloads: 1](https://github.com/Main-Course/App/releases) [issues: 0](https://github.com/Main-Course/App/issues) [stars: 0](https://github.com/Main-Course/App.git) [category: education](https://github.com/topics/appfair-education) 2022-01-24 14:09:10 +0000

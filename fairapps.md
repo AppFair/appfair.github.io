@@ -1,13 +1,13 @@
 ---
 layout: catalog
 ---
+  * [**SQL Hero**](https://SQL-Hero.github.io/App) _0.0.3 pre-release_: [downloads: 2](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 16:11:25 +0000
+
   * [**Yankee Swap**](https://Yankee-Swap.github.io/App) 0.0.11: [downloads: 1](https://github.com/Yankee-Swap/App/releases) [issues: 0](https://github.com/Yankee-Swap/App/issues) [stars: 0](https://github.com/Yankee-Swap/App.git) [category: social-networking](https://github.com/topics/appfair-social-networking) 2022-01-24 14:24:10 +0000
 
   * [**Main Course**](https://Main-Course.github.io/App) 0.0.15: [downloads: 3](https://github.com/Main-Course/App/releases) [issues: 0](https://github.com/Main-Course/App/issues) [stars: 0](https://github.com/Main-Course/App.git) [category: education](https://github.com/topics/appfair-education) 2022-01-24 14:09:10 +0000
 
   * [**App Fair**](https://App-Fair.github.io/App) 0.7.164: [downloads: 1](https://github.com/App-Fair/App/releases) [issues: 0](https://github.com/App-Fair/App/issues) [stars: 0](https://github.com/App-Fair/App.git) [category: utilities](https://github.com/topics/appfair-utilities) 2022-01-24 14:08:36 +0000
-
-  * [**SQL Hero**](https://SQL-Hero.github.io/App) _0.0.2 pre-release_: [downloads: 2](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 13:13:21 +0000
 
   * [**Pan Opticon**](https://Pan-Opticon.github.io/App) 0.2.22: [downloads: 2](https://github.com/Pan-Opticon/App/releases) [issues: 0](https://github.com/Pan-Opticon/App/issues) [stars: 0](https://github.com/Pan-Opticon/App.git) [category: sports](https://github.com/topics/appfair-sports) 2022-01-24 11:51:13 +0000
 

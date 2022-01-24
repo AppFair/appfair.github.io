@@ -910,29 +910,29 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 152608,
-      "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.2/SQL-Hero-macOS.zip",
-      "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.2/SQL-Hero.png",
+      "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/SQL-Hero-macOS.zip",
+      "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/SQL-Hero.png",
       "issueCount" : 0,
       "localizedDescription" : "Query Like a Boss",
-      "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "SQL Hero",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f811827f3620e20f2f9ea529e8b2df08b17c407a53dd5c2cf420009edb237c06",
-      "size" : 2311923,
+      "sha256" : "2e43d29370ea2694ab7b1810903a8cca603505b2ed903ad8aa25f337cd385b9b",
+      "size" : 2444757,
       "starCount" : 0,
       "subtitle" : "Query Like a Boss",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-24T13:13:21Z",
-      "versionDescription" : "",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-24T16:11:25Z",
+      "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     },
     {

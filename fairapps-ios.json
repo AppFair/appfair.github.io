@@ -562,6 +562,37 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.SQL-Hero",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/SQL-Hero-iOS.ipa",
+      "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/SQL-Hero.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Query Like a Boss",
+      "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "SQL Hero",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "3ade2e59fda3b8470e8bebdca711f61906e0a197e73deb00b813d6889f7dbfc0",
+      "size" : 6071057,
+      "starCount" : 0,
+      "subtitle" : "Query Like a Boss",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-24T16:11:25Z",
+      "versionDescription" : "Release 0.0.3",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
         "public.app-category.video"

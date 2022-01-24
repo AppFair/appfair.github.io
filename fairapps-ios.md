@@ -1,7 +1,9 @@
 ---
 layout: catalog
 ---
-  * [**SQL Hero**](https://SQL-Hero.github.io/App) _0.0.3 pre-release_: [downloads: 2](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 16:11:25 +0000
+  * [**Cloud Cuckoo**](https://Cloud-Cuckoo.github.io/App) 0.9.15: [downloads: 1](https://github.com/Cloud-Cuckoo/App/releases) [issues: 0](https://github.com/Cloud-Cuckoo/App/issues) [stars: 1](https://github.com/Cloud-Cuckoo/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-24 16:40:05 +0000
+
+  * [**SQL Hero**](https://SQL-Hero.github.io/App) 0.0.3: [downloads: 2](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 16:11:25 +0000
 
   * [**Yankee Swap**](https://Yankee-Swap.github.io/App) 0.0.11: [downloads: 1](https://github.com/Yankee-Swap/App/releases) [issues: 0](https://github.com/Yankee-Swap/App/issues) [stars: 0](https://github.com/Yankee-Swap/App.git) [category: social-networking](https://github.com/topics/appfair-social-networking) 2022-01-24 14:24:10 +0000
 
@@ -14,8 +16,6 @@ layout: catalog
   * [**Lottie Motion**](https://Lottie-Motion.github.io/App) 0.0.82: [downloads: 2](https://github.com/Lottie-Motion/App/releases) [issues: 0](https://github.com/Lottie-Motion/App/issues) [stars: 0](https://github.com/Lottie-Motion/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 05:38:00 +0000
 
   * [**Tidal Zone**](https://Tidal-Zone.github.io/App) 0.0.14: [downloads: 2](https://github.com/Tidal-Zone/App/releases) [issues: 0](https://github.com/Tidal-Zone/App/issues) [stars: 0](https://github.com/Tidal-Zone/App.git) [category: weather](https://github.com/topics/appfair-weather) 2022-01-24 05:28:32 +0000
-
-  * [**Cloud Cuckoo**](https://Cloud-Cuckoo.github.io/App) _0.9.14 pre-release_: [downloads: 2](https://github.com/Cloud-Cuckoo/App/releases) [issues: 0](https://github.com/Cloud-Cuckoo/App/issues) [stars: 1](https://github.com/Cloud-Cuckoo/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-24 05:17:55 +0000
 
   * [**Name Sense**](https://Name-Sense.github.io/App) 0.0.23: [downloads: 2](https://github.com/Name-Sense/App/releases) [issues: 0](https://github.com/Name-Sense/App/issues) [stars: 0](https://github.com/Name-Sense/App.git) [category: education](https://github.com/topics/appfair-education) 2022-01-24 04:09:31 +0000
 
@@ -46,8 +46,6 @@ layout: catalog
   * [**Tune Out**](https://Tune-Out.github.io/App) 0.8.402: [downloads: 1](https://github.com/Tune-Out/App/releases) [issues: 0](https://github.com/Tune-Out/App/issues) [stars: 0](https://github.com/Tune-Out/App.git) [category: music](https://github.com/topics/appfair-music) 2022-01-17 18:20:48 +0000
 
   * [**Sita Sings the Blues**](https://Sita-Sings-the-Blues.github.io/App) _0.0.36 pre-release_: [downloads: 3](https://github.com/Sita-Sings-the-Blues/App/releases) [issues: 0](https://github.com/Sita-Sings-the-Blues/App/issues) [stars: 0](https://github.com/Sita-Sings-the-Blues/App.git) [category: video](https://github.com/topics/appfair-video) 2022-01-15 15:28:06 +0000
-
-  * [**Cloud Cuckoo**](https://Cloud-Cuckoo.github.io/App) 0.9.11: [downloads: 2](https://github.com/Cloud-Cuckoo/App/releases) [issues: 0](https://github.com/Cloud-Cuckoo/App/issues) [stars: 1](https://github.com/Cloud-Cuckoo/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-15 15:25:14 +0000
 
   * [**Sita Sings the Blues**](https://Sita-Sings-the-Blues.github.io/App) 0.0.35: [downloads: 1](https://github.com/Sita-Sings-the-Blues/App/releases) [issues: 0](https://github.com/Sita-Sings-the-Blues/App/issues) [stars: 0](https://github.com/Sita-Sings-the-Blues/App.git) [category: video](https://github.com/topics/appfair-video) 2022-01-12 12:53:04 +0000
 

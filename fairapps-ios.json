@@ -382,26 +382,26 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Main-Course-iOS.ipa",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Main-Course.png",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course-iOS.ipa",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course.png",
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Main Course",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/README.md#ae462023f2e2674a5dcd57187d4c9875b2d5c1adfb9ab96b2f79988a7fe11e2d",
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/README.md#ae462023f2e2674a5dcd57187d4c9875b2d5c1adfb9ab96b2f79988a7fe11e2d",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "4375d6350decf43f12a42764ec3e9fd0e8eb1cb4b0243879832382a95b6f1f92",
-      "size" : 18831350,
+      "sha256" : "5980c1822002555108ed26d90bc56bb414ef5af9a04eef7d09354061184cad18",
+      "size" : 18873120,
       "starCount" : 0,
       "subtitle" : "An offline recipe book",
-      "version" : "0.0.12",
-      "versionDate" : "2022-01-21T13:31:42Z",
-      "versionDescription" : "Release 0.0.12",
+      "version" : "0.0.15",
+      "versionDate" : "2022-01-24T14:09:10Z",
+      "versionDescription" : "Release 0.0.15",
       "watcherCount" : 0
     },
     {

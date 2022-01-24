@@ -1,13 +1,13 @@
 ---
 layout: catalog
 ---
+  * [**App Fair**](https://App-Fair.github.io/App) 0.7.164: [downloads: 1](https://github.com/App-Fair/App/releases) [issues: 0](https://github.com/App-Fair/App/issues) [stars: 0](https://github.com/App-Fair/App.git) [category: utilities](https://github.com/topics/appfair-utilities) 2022-01-24 14:08:36 +0000
+
   * [**SQL Hero**](https://SQL-Hero.github.io/App) _0.0.2 pre-release_: [downloads: 2](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 13:13:21 +0000
 
   * [**Pan Opticon**](https://Pan-Opticon.github.io/App) 0.2.22: [downloads: 2](https://github.com/Pan-Opticon/App/releases) [issues: 0](https://github.com/Pan-Opticon/App/issues) [stars: 0](https://github.com/Pan-Opticon/App.git) [category: sports](https://github.com/topics/appfair-sports) 2022-01-24 11:51:13 +0000
 
   * [**Hex Loupe**](https://Hex-Loupe.github.io/App) 0.0.12: [downloads: 2](https://github.com/Hex-Loupe/App/releases) [issues: 0](https://github.com/Hex-Loupe/App/issues) [stars: 0](https://github.com/Hex-Loupe/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 11:51:11 +0000
-
-  * [**App Fair**](https://App-Fair.github.io/App) 0.7.163: [downloads: 3](https://github.com/App-Fair/App/releases) [issues: 0](https://github.com/App-Fair/App/issues) [stars: 0](https://github.com/App-Fair/App.git) [category: utilities](https://github.com/topics/appfair-utilities) 2022-01-24 05:39:44 +0000
 
   * [**Lottie Motion**](https://Lottie-Motion.github.io/App) 0.0.82: [downloads: 2](https://github.com/Lottie-Motion/App/releases) [issues: 0](https://github.com/Lottie-Motion/App/issues) [stars: 0](https://github.com/Lottie-Motion/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 05:38:00 +0000
 
@@ -65,7 +65,7 @@ layout: catalog
 
   * [**Neural Scry**](https://Neural-Scry.github.io/App) 0.0.51: [downloads: 2](https://github.com/Neural-Scry/App/releases) [issues: 0](https://github.com/Neural-Scry/App/issues) [stars: 0](https://github.com/Neural-Scry/App.git) [category: medical](https://github.com/topics/appfair-medical) 2022-01-16 15:48:12 +0000
 
-  * [**Sita Sings the Blues**](https://Sita-Sings-the-Blues.github.io/App) _0.0.36 pre-release_: [downloads: 7](https://github.com/Sita-Sings-the-Blues/App/releases) [issues: 0](https://github.com/Sita-Sings-the-Blues/App/issues) [stars: 0](https://github.com/Sita-Sings-the-Blues/App.git) [category: video](https://github.com/topics/appfair-video) 2022-01-15 15:28:06 +0000
+  * [**Sita Sings the Blues**](https://Sita-Sings-the-Blues.github.io/App) _0.0.36 pre-release_: [downloads: 8](https://github.com/Sita-Sings-the-Blues/App/releases) [issues: 0](https://github.com/Sita-Sings-the-Blues/App/issues) [stars: 0](https://github.com/Sita-Sings-the-Blues/App.git) [category: video](https://github.com/topics/appfair-video) 2022-01-15 15:28:06 +0000
 
   * [**Cloud Cuckoo**](https://Cloud-Cuckoo.github.io/App) 0.9.11: [downloads: 7](https://github.com/Cloud-Cuckoo/App/releases) [issues: 0](https://github.com/Cloud-Cuckoo/App/issues) [stars: 1](https://github.com/Cloud-Cuckoo/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-15 15:25:14 +0000
 

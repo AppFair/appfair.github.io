@@ -1,6 +1,8 @@
 ---
 layout: catalog
 ---
+  * [**Main Course**](https://Main-Course.github.io/App) 0.0.15: [downloads: 1](https://github.com/Main-Course/App/releases) [issues: 0](https://github.com/Main-Course/App/issues) [stars: 0](https://github.com/Main-Course/App.git) [category: education](https://github.com/topics/appfair-education) 2022-01-24 14:09:10 +0000
+
   * [**Pan Opticon**](https://Pan-Opticon.github.io/App) 0.2.22: [downloads: 2](https://github.com/Pan-Opticon/App/releases) [issues: 0](https://github.com/Pan-Opticon/App/issues) [stars: 0](https://github.com/Pan-Opticon/App.git) [category: sports](https://github.com/topics/appfair-sports) 2022-01-24 11:51:13 +0000
 
   * [**Hex Loupe**](https://Hex-Loupe.github.io/App) 0.0.12: [downloads: 2](https://github.com/Hex-Loupe/App/releases) [issues: 0](https://github.com/Hex-Loupe/App/issues) [stars: 0](https://github.com/Hex-Loupe/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 11:51:11 +0000
@@ -32,8 +34,6 @@ layout: catalog
   * [**Unclear Purpose**](https://Unclear-Purpose.github.io/App) _0.0.4 pre-release_: [downloads: 2](https://github.com/Unclear-Purpose/App/releases) [issues: 0](https://github.com/Unclear-Purpose/App/issues) [stars: 0](https://github.com/Unclear-Purpose/App.git) [category: finance](https://github.com/topics/appfair-finance) 2022-01-21 14:05:38 +0000
 
   * [**Ultra Light**](https://Ultra-Light.github.io/App) _0.0.7 pre-release_: [downloads: 2](https://github.com/Ultra-Light/App/releases) [issues: 0](https://github.com/Ultra-Light/App/issues) [stars: 0](https://github.com/Ultra-Light/App.git) [category: news](https://github.com/topics/appfair-news) 2022-01-21 14:04:24 +0000
-
-  * [**Main Course**](https://Main-Course.github.io/App) 0.0.12: [downloads: 1](https://github.com/Main-Course/App/releases) [issues: 0](https://github.com/Main-Course/App/issues) [stars: 0](https://github.com/Main-Course/App.git) [category: education](https://github.com/topics/appfair-education) 2022-01-21 13:31:42 +0000
 
   * [**Yankee Swap**](https://Yankee-Swap.github.io/App) 0.0.10: [downloads: 2](https://github.com/Yankee-Swap/App/releases) [issues: 0](https://github.com/Yankee-Swap/App/issues) [stars: 0](https://github.com/Yankee-Swap/App.git) [category: social-networking](https://github.com/topics/appfair-social-networking) 2022-01-21 13:21:44 +0000
 

@@ -1,6 +1,8 @@
 ---
 layout: catalog
 ---
+  * [Lottie Motion](https://Lottie-Motion.github.io/App) 0.0.82: 2022-01-24 05:38:00 +0000)
+
   * [Tidal Zone](https://Tidal-Zone.github.io/App) 0.0.14: 2022-01-24 05:28:32 +0000)
 
   * [Cloud Cuckoo](https://Cloud-Cuckoo.github.io/App) 0.9.14: 2022-01-24 05:17:55 +0000)

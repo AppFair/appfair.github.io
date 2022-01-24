@@ -563,27 +563,27 @@
       ],
       "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.4/Micro-Vector-macOS.zip",
-      "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.4/Micro-Vector.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.5/Micro-Vector-macOS.zip",
+      "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.5/Micro-Vector.png",
       "issueCount" : 0,
       "localizedDescription" : "A vector drawing app",
-      "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Micro Vector",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8c5c08bf51f5d10706c56ec486d5547f5cb3bdc4fb2cc92c7ba24373648583d7",
-      "size" : 2313573,
+      "sha256" : "4ecfc1dcf3ee811c7e2df6b27083f06586b3c9545709975c0d28798fa2c4b153",
+      "size" : 2312804,
       "starCount" : 0,
       "subtitle" : "A vector drawing app",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-21T13:53:38Z",
-      "versionDescription" : "Release 0.0.4",
+      "version" : "0.0.5",
+      "versionDate" : "2022-01-24T01:55:11Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {

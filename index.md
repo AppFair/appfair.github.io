@@ -34,7 +34,9 @@ Congratulations: you now have your very own native app published on the App Fair
 
 On a computer with macOS Monterey, you can now install and run the [App Fair catalog browser app](https://app-fair.app/), enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
 
-The next step will be to code your app, which typically involves cloning your fork and opening `App.xcworkspace` in an IDE like `Xcode.app`. The `App/Sources/AppContainer.swift` file contains the scaffold for your SwiftUI code; start there to begin fleshing out your app's behavior. The default permissions are very restrictive (no network or peripheral access, file system access restricted to the app's sandbox folder, etc.), so you can edit the `Sandbox.entitlements` file to expand the permissions for your app. This will affect the "Risk" assessment of the app as shown in the catalog browser, which plays a central role in an end user's decision whether to trust and install your app.
+The next step will be to code your app, which typically involves cloning your fork to a local machine and opening `App.xcworkspace` in an IDE like `Xcode.app` to run and debug. The `App/Sources/AppContainer.swift` source file contains the scaffold for your SwiftUI code; start there to begin defining your app's behavior. 
+
+The default permissions for App Fair apps are very restrictive (no network or peripheral access, file system access restricted to the app's sandbox folder, etc.), so you can edit the `Sandbox.entitlements` file to expand the permissions for your app. This will affect the "Risk" assessment of the app as shown in the catalog browser, which plays a central role in an end user's decision whether to trust and install your app.
 
 You should also update the app's catalog description and categories by updating the repository's description and tags (e.g. "appfair-games" or "appfair-productivity"), and those changes will be automatically integrated into the App Fair catalog entry for your app.
 
@@ -44,10 +46,10 @@ And for finishing touches you can fill in your `README.md` with a description of
 
 Continue reading for the full development guide, FAQs, and discussion of the security and source disclosure mechanisms for fair-ground apps. Jump right in and start developing your own native app!
 
-<img align="center" width="100%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
-
 
 ## The App Fair for End Users
+
+<img align="right" width="50%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" />
 
 From an end-user perspective, the **App Fair.app** catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
 

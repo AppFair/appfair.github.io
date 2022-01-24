@@ -529,27 +529,27 @@
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/Media-Res-macOS.zip",
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/Media-Res.png",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res-macOS.zip",
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res.png",
       "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Media Res",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.15/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Media-Res/App/releases/download/0.0.15/screenshot_01-mac-dark-mac-484x460.png",
-        "https://github.com/Media-Res/App/releases/download/0.0.15/screenshot_01-mac-light-mac-484x460.png"
+        "https://github.com/Media-Res/App/releases/download/0.0.17/screenshot_01-mac-dark-mac-484x460.png",
+        "https://github.com/Media-Res/App/releases/download/0.0.17/screenshot_01-mac-light-mac-484x460.png"
       ],
-      "sha256" : "daad425ed1f3e2619c398557bcfa4aedfe9117c0620f0989263b3973cda43a9a",
-      "size" : 2357307,
+      "sha256" : "ec1eb7ae225c3031d06a93b032fbb4f5947a2eff6264446e3c3ebd452ac7faf0",
+      "size" : 2356646,
       "starCount" : 0,
       "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.15",
-      "versionDate" : "2022-01-21T13:33:25Z",
-      "versionDescription" : "Release 0.0.15",
+      "version" : "0.0.17",
+      "versionDate" : "2022-01-24T04:09:17Z",
+      "versionDescription" : "Release 0.0.17",
       "watcherCount" : 0
     },
     {
@@ -591,7 +591,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense-macOS.zip",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense.png",
       "issueCount" : 0,

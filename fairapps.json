@@ -8,7 +8,7 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.162/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.162/App-Fair.png",
       "issueCount" : 0,
@@ -1007,27 +1007,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.12/Tidal-Zone-macOS.zip",
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.12/Tidal-Zone.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Tidal-Zone-macOS.zip",
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Tidal-Zone.png",
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.12/Info.plist#0a648a6c3a7ea72259a47e82e581ec74e456467d83df5cca907cc5384c79e445",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
       "name" : "Tidal Zone",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.12/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
       "screenshotURLs" : [
-        "https://github.com/Tidal-Zone/App/releases/download/0.0.12/screenshot-mac-01-2024x1124.png"
+        "https://github.com/Tidal-Zone/App/releases/download/0.0.14/screenshot-mac-01-2024x1124.png"
       ],
-      "sha256" : "b2b2eb26d1652b69b08f38777b27cf7b342ce19c94ec54bcaea03b0712d4f780",
-      "size" : 2415793,
+      "sha256" : "da36bf842dcf33e25778ba7671494043ee09375912a0d5a15d877b8a3a576ae6",
+      "size" : 2430778,
       "starCount" : 0,
       "subtitle" : "What tide is it right now?",
-      "version" : "0.0.12",
-      "versionDate" : "2022-01-15T16:12:59Z",
-      "versionDescription" : "Release 0.0.12",
+      "version" : "0.0.14",
+      "versionDate" : "2022-01-24T05:28:32Z",
+      "versionDescription" : "Release 0.0.14",
       "watcherCount" : 0
     },
     {

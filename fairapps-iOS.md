@@ -1,6 +1,8 @@
 ---
 layout: catalog
 ---
+  * [Tidal Zone](https://Tidal-Zone.github.io/App) 0.0.14: 2022-01-24 05:28:32 +0000)
+
   * [Cloud Cuckoo](https://Cloud-Cuckoo.github.io/App) 0.9.14: 2022-01-24 05:17:55 +0000)
 
   * [Name Sense](https://Name-Sense.github.io/App) 0.0.23: 2022-01-24 04:09:31 +0000)
@@ -40,8 +42,6 @@ layout: catalog
   * [Tune Out](https://Tune-Out.github.io/App) 0.8.403: 2022-01-18 14:58:21 +0000)
 
   * [Tune Out](https://Tune-Out.github.io/App) 0.8.402: 2022-01-17 18:20:48 +0000)
-
-  * [Tidal Zone](https://Tidal-Zone.github.io/App) 0.0.12: 2022-01-15 16:12:59 +0000)
 
   * [Sita Sings the Blues](https://Sita-Sings-the-Blues.github.io/App) 0.0.36: 2022-01-15 15:28:06 +0000)
 

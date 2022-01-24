@@ -1301,27 +1301,27 @@
       ],
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/Visi-Calc-macOS.zip",
-      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/Visi-Calc.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc-macOS.zip",
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc.png",
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/Info.plist#d1d3028fa679289adb1356dbcf36b05a7b11590f77677c0eb908ad3a8fd8b75f",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Info.plist#d1d3028fa679289adb1356dbcf36b05a7b11590f77677c0eb908ad3a8fd8b75f",
       "name" : "Visi Calc",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.36/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "9aa20ae375ca919239e805abef6ef59258d0809cde71dde0a05b569d90cd769f",
-      "size" : 4735976,
+      "sha256" : "43841499d299d2bf7aa617cd14df2026c4f7c0a95be9d6c1eefe265e6a6883ca",
+      "size" : 4734574,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
-      "version" : "0.0.36",
-      "versionDate" : "2022-01-21T13:51:26Z",
-      "versionDescription" : "Release 0.0.36",
+      "version" : "0.0.37",
+      "versionDate" : "2022-01-24T01:59:51Z",
+      "versionDescription" : "Release 0.0.37",
       "watcherCount" : 0
     },
     {

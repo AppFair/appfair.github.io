@@ -1,6 +1,8 @@
 ---
 layout: catalog
 ---
+  * [SQL Hero](https://SQL-Hero.github.io/App) 0.0.2: 2022-01-24 13:13:21 +0000)
+
   * [Pan Opticon](https://Pan-Opticon.github.io/App) 0.2.22: 2022-01-24 11:51:13 +0000)
 
   * [Hex Loupe](https://Hex-Loupe.github.io/App) 0.0.12: 2022-01-24 11:51:11 +0000)

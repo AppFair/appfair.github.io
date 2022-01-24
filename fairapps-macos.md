@@ -1,9 +1,9 @@
 ---
 layout: catalog
 ---
-  * [**Cloud Cuckoo**](https://Cloud-Cuckoo.github.io/App) 0.9.15: [downloads: 2](https://github.com/Cloud-Cuckoo/App/releases) [issues: 0](https://github.com/Cloud-Cuckoo/App/issues) [stars: 1](https://github.com/Cloud-Cuckoo/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-24 16:40:05 +0000
+  * [**SQL Hero**](https://SQL-Hero.github.io/App) 0.0.6: [downloads: 2](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 20:26:18 +0000
 
-  * [**SQL Hero**](https://SQL-Hero.github.io/App) 0.0.3: [downloads: 2](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 16:11:25 +0000
+  * [**Cloud Cuckoo**](https://Cloud-Cuckoo.github.io/App) 0.9.15: [downloads: 2](https://github.com/Cloud-Cuckoo/App/releases) [issues: 0](https://github.com/Cloud-Cuckoo/App/issues) [stars: 1](https://github.com/Cloud-Cuckoo/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-24 16:40:05 +0000
 
   * [**Yankee Swap**](https://Yankee-Swap.github.io/App) 0.0.11: [downloads: 1](https://github.com/Yankee-Swap/App/releases) [issues: 0](https://github.com/Yankee-Swap/App/issues) [stars: 0](https://github.com/Yankee-Swap/App.git) [category: social-networking](https://github.com/topics/appfair-social-networking) 2022-01-24 14:24:10 +0000
 

@@ -875,29 +875,29 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 68344,
+      "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/SQL-Hero-macOS.zip",
-      "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/SQL-Hero.png",
+      "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.6/SQL-Hero-macOS.zip",
+      "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.6/SQL-Hero.png",
       "issueCount" : 0,
       "localizedDescription" : "Query Like a Boss",
-      "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "SQL Hero",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "2e43d29370ea2694ab7b1810903a8cca603505b2ed903ad8aa25f337cd385b9b",
-      "size" : 2444757,
+      "sha256" : "20ef62f6febb035079bd03101d4b605d580dc79b71a2e59797d8360df27159f2",
+      "size" : 8727214,
       "starCount" : 0,
       "subtitle" : "Query Like a Boss",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-24T16:11:25Z",
-      "versionDescription" : "Release 0.0.3",
+      "version" : "0.0.6",
+      "versionDate" : "2022-01-24T20:26:18Z",
+      "versionDescription" : "Release 0.0.6",
       "watcherCount" : 0
     },
     {

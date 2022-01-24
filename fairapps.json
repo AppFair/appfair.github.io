@@ -468,27 +468,27 @@
       ],
       "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.5/Huffle-Puff-macOS.zip",
-      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.5/Huffle-Puff.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.6/Huffle-Puff-macOS.zip",
+      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.6/Huffle-Puff.png",
       "issueCount" : 0,
       "localizedDescription" : "H.R. Huffle Puff ",
-      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Huffle Puff",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "cf5bb81bc15df2cf5a5e1d605dad6c544267b05892ad4f0463579408d664436f",
-      "size" : 2277680,
+      "sha256" : "c2fc4b4785323ce82868401fdba3d63b962ee2a288ebb95a70c3b257ac81ba57",
+      "size" : 2246802,
       "starCount" : 0,
       "subtitle" : "H.R. Huffle Puff ",
-      "version" : "0.0.5",
-      "versionDate" : "2022-01-24T00:30:37Z",
-      "versionDescription" : "Release 0.0.5",
+      "version" : "0.0.6",
+      "versionDate" : "2022-01-24T00:46:51Z",
+      "versionDescription" : "Release 0.0.6",
       "watcherCount" : 0
     },
     {

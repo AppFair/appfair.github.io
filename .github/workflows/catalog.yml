@@ -75,8 +75,8 @@ jobs:
             --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
             --cask-folder ../homebrew-app/Casks/ \
-            --index ../appfair.github.io/fairapps.md \
-            -o ../appfair.github.io/fairapps.json
+            --index ../appfair.github.io/fairapps-macos.md \
+            -o ../appfair.github.io/fairapps-macos.json
 
           swift run -- fairtool catalog \
             --verbose true \
@@ -90,8 +90,8 @@ jobs:
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
             --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
-            --index ../appfair.github.io/fairapps-iOS.md \
-            -o ../appfair.github.io/fairapps-iOS.json
+            --index ../appfair.github.io/fairapps-ios.md \
+            -o ../appfair.github.io/fairapps-ios.json
 
           cd ..
 
@@ -102,10 +102,14 @@ jobs:
           git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
           git config user.name "appfairbot"
           git config user.email "appfairbot@appfair.net"
+          cp fairapps-macos.md fairapps.md
+          cp fairapps-macos.json fairapps.json
           git add fairapps.md
           git add fairapps.json
-          git add fairapps-iOS.md
-          git add fairapps-iOS.json
+          git add fairapps-macos.md
+          git add fairapps-macos.json
+          git add fairapps-ios.md
+          git add fairapps-ios.json
           git pull -ff
           git commit -m "catalog update" || echo "nothing to commit"
           git push

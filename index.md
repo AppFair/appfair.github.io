@@ -19,7 +19,7 @@ App Fair.app supports installing both third-party apps (via [Homebrew Casks](htt
 
 Anyone can create and publish their own native app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time.
 
-  1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). The name of the organization is the name of your app, so you'll need to choose a new unique name. It can be easily changed later, so just pick the first available name that pops in your mind!
+  1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). The name of the organization is the name of your app, so you'll need to choose a new unique name. It can be easily changed later, so just pick the first available name that comes to mind.
   2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created. Be careful not to fork it into your own personal account – it must be forked into the new organization, since the app's name is solely defined by its containing organization.
   3. In your new forked repository, select the **`Settings`** tab and follow the `Pages` settings link on the left. Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**. This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
   4. Select the **`Settings`** tab's `Options` section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area. These community features are required for the app to be included in the App Fair catalog.
@@ -28,6 +28,7 @@ Anyone can create and publish their own native app on the App Fair, for free, us
   7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. It should take under 10 minutes.
   8. Select the **`Pull Requests`** tab, then hit the **New Pull Request** button. On the next page, hit the **Create Pull Request** button. The `Title` field must be the name and version of the app (e.g., "My App Name 0.0.1"). The body can be left empty. Hit the **Create Pull Request** button.
   9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow to complete successfully, which should take around 10 minutes.
+  10. Your app will soon be listed in the [recent apps](https://www.appfair.net/fairapps-macos) catalog, indicating that it has been published successfully.
 
 Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written written any code yet), but it is your's to develop, maintain, and share with the world.
 

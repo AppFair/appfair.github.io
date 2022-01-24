@@ -1,6 +1,8 @@
 ---
 layout: catalog
 ---
+  * [App Fair](https://App-Fair.github.io/App) 0.7.162: 2022-01-24 05:25:23 +0000)
+
   * [Cloud Cuckoo](https://Cloud-Cuckoo.github.io/App) 0.9.14: 2022-01-24 05:17:55 +0000)
 
   * [Name Sense](https://Name-Sense.github.io/App) 0.0.23: 2022-01-24 04:09:31 +0000)
@@ -44,8 +46,6 @@ layout: catalog
   * [Yankee Swap](https://Yankee-Swap.github.io/App) 0.0.10: 2022-01-21 13:21:44 +0000)
 
   * [Pan Opticon](https://Pan-Opticon.github.io/App) 0.2.20: 2022-01-21 05:51:04 +0000)
-
-  * [App Fair](https://App-Fair.github.io/App) 0.7.158: 2022-01-20 15:22:22 +0000)
 
   * [Hex Loupe](https://Hex-Loupe.github.io/App) 0.0.11: 2022-01-20 13:27:12 +0000)
 

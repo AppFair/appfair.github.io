@@ -45,6 +45,8 @@ layout: catalog
 
   * [Pan Opticon](https://Pan-Opticon.github.io/App) 0.2.21: 2022-01-21 14:00:41 +0000)
 
+  * [Main Course](https://Main-Course.github.io/App) 0.0.12: 2022-01-21 13:31:42 +0000)
+
   * [Yankee Swap](https://Yankee-Swap.github.io/App) 0.0.10: 2022-01-21 13:21:44 +0000)
 
   * [Pan Opticon](https://Pan-Opticon.github.io/App) 0.2.20: 2022-01-21 05:51:04 +0000)

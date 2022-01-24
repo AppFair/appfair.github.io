@@ -560,6 +560,38 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Main-Course",
+      "categories" : [
+        "public.app-category.education"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Main-Course-macOS.zip",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Main-Course.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An offline recipe book",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "name" : "Main Course",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.12/README.md#ae462023f2e2674a5dcd57187d4c9875b2d5c1adfb9ab96b2f79988a7fe11e2d",
+      "screenshotURLs" : [
+        "https://github.com/Main-Course/App/releases/download/0.0.12/screenshot_01-mac-dark-mac-984x842.png",
+        "https://github.com/Main-Course/App/releases/download/0.0.12/screenshot_01-mac-light-mac-984x842.png"
+      ],
+      "sha256" : "f88a382f8694d1f4f95ea878cf8e26c3c031a73fc6fdc06085f0454122941fbb",
+      "size" : 13153873,
+      "starCount" : 0,
+      "subtitle" : "An offline recipe book",
+      "version" : "0.0.12",
+      "versionDate" : "2022-01-21T13:31:42Z",
+      "versionDescription" : "Release 0.0.12",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Media-Res",
       "categories" : [
         "public.app-category.lifestyle"

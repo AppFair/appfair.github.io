@@ -1,7 +1,9 @@
 ---
 layout: catalog
 ---
-  * [**Hex Loupe**](https://Hex-Loupe.github.io/App) 0.0.13: [downloads: 1](https://github.com/Hex-Loupe/App/releases) [issues: 0](https://github.com/Hex-Loupe/App/issues) [stars: 0](https://github.com/Hex-Loupe/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 23:39:49 +0000
+  * [**Down Town**](https://Down-Town.github.io/App) 0.0.2: [downloads: 2](https://github.com/Down-Town/App/releases) [issues: 0](https://github.com/Down-Town/App/issues) [stars: 0](https://github.com/Down-Town/App.git) [category: travel](https://github.com/topics/appfair-travel) 2022-01-25 00:19:44 +0000
+
+  * [**Hex Loupe**](https://Hex-Loupe.github.io/App) 0.0.13: [downloads: 2](https://github.com/Hex-Loupe/App/releases) [issues: 0](https://github.com/Hex-Loupe/App/issues) [stars: 0](https://github.com/Hex-Loupe/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 23:39:49 +0000
 
   * [**Cloud Cuckoo**](https://Cloud-Cuckoo.github.io/App) 0.9.15: [downloads: 1](https://github.com/Cloud-Cuckoo/App/releases) [issues: 0](https://github.com/Cloud-Cuckoo/App/issues) [stars: 1](https://github.com/Cloud-Cuckoo/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-24 16:40:05 +0000
 

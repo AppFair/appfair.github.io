@@ -1,11 +1,13 @@
 ---
 layout: catalog
 ---
-  * [**Hex Loupe**](https://Hex-Loupe.github.io/App) 0.0.13: [downloads: 2](https://github.com/Hex-Loupe/App/releases) [issues: 0](https://github.com/Hex-Loupe/App/issues) [stars: 0](https://github.com/Hex-Loupe/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 23:39:49 +0000
+  * [**Down Town**](https://Down-Town.github.io/App) 0.0.2: [downloads: 3](https://github.com/Down-Town/App/releases) [issues: 0](https://github.com/Down-Town/App/issues) [stars: 0](https://github.com/Down-Town/App.git) [category: travel](https://github.com/topics/appfair-travel) 2022-01-25 00:19:44 +0000
 
-  * [**Micro Vector**](https://Micro-Vector.github.io/App) 0.0.8: [downloads: 3](https://github.com/Micro-Vector/App/releases) [issues: 0](https://github.com/Micro-Vector/App/issues) [stars: 0](https://github.com/Micro-Vector/App.git) [category: graphics-design](https://github.com/topics/appfair-graphics-design) 2022-01-24 23:35:02 +0000
+  * [**Hex Loupe**](https://Hex-Loupe.github.io/App) 0.0.13: [downloads: 3](https://github.com/Hex-Loupe/App/releases) [issues: 0](https://github.com/Hex-Loupe/App/issues) [stars: 0](https://github.com/Hex-Loupe/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 23:39:49 +0000
 
-  * [**SQL Hero**](https://SQL-Hero.github.io/App) 0.0.6: [downloads: 4](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 20:26:18 +0000
+  * [**Micro Vector**](https://Micro-Vector.github.io/App) 0.0.8: [downloads: 4](https://github.com/Micro-Vector/App/releases) [issues: 0](https://github.com/Micro-Vector/App/issues) [stars: 0](https://github.com/Micro-Vector/App.git) [category: graphics-design](https://github.com/topics/appfair-graphics-design) 2022-01-24 23:35:02 +0000
+
+  * [**SQL Hero**](https://SQL-Hero.github.io/App) 0.0.8: [downloads: 3](https://github.com/SQL-Hero/App/releases) [issues: 0](https://github.com/SQL-Hero/App/issues) [stars: 0](https://github.com/SQL-Hero/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 23:34:42 +0000
 
   * [**Cloud Cuckoo**](https://Cloud-Cuckoo.github.io/App) 0.9.15: [downloads: 2](https://github.com/Cloud-Cuckoo/App/releases) [issues: 0](https://github.com/Cloud-Cuckoo/App/issues) [stars: 1](https://github.com/Cloud-Cuckoo/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-24 16:40:05 +0000
 
@@ -15,7 +17,7 @@ layout: catalog
 
   * [**App Fair**](https://App-Fair.github.io/App) 0.7.164: [downloads: 2](https://github.com/App-Fair/App/releases) [issues: 0](https://github.com/App-Fair/App/issues) [stars: 0](https://github.com/App-Fair/App.git) [category: utilities](https://github.com/topics/appfair-utilities) 2022-01-24 14:08:36 +0000
 
-  * [**Pan Opticon**](https://Pan-Opticon.github.io/App) 0.2.22: [downloads: 2](https://github.com/Pan-Opticon/App/releases) [issues: 0](https://github.com/Pan-Opticon/App/issues) [stars: 0](https://github.com/Pan-Opticon/App.git) [category: sports](https://github.com/topics/appfair-sports) 2022-01-24 11:51:13 +0000
+  * [**Pan Opticon**](https://Pan-Opticon.github.io/App) 0.2.22: [downloads: 3](https://github.com/Pan-Opticon/App/releases) [issues: 0](https://github.com/Pan-Opticon/App/issues) [stars: 0](https://github.com/Pan-Opticon/App.git) [category: sports](https://github.com/topics/appfair-sports) 2022-01-24 11:51:13 +0000
 
   * [**Lottie Motion**](https://Lottie-Motion.github.io/App) 0.0.82: [downloads: 2](https://github.com/Lottie-Motion/App/releases) [issues: 0](https://github.com/Lottie-Motion/App/issues) [stars: 0](https://github.com/Lottie-Motion/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 05:38:00 +0000
 
@@ -58,8 +60,6 @@ layout: catalog
   * [**Ultra Light**](https://Ultra-Light.github.io/App) 0.0.5: [downloads: 2](https://github.com/Ultra-Light/App/releases) [issues: 0](https://github.com/Ultra-Light/App/issues) [stars: 0](https://github.com/Ultra-Light/App.git) [category: news](https://github.com/topics/appfair-news) 2022-01-20 03:44:45 +0000
 
   * [**Tune Out**](https://Tune-Out.github.io/App) _0.8.403 pre-release_: [downloads: 2](https://github.com/Tune-Out/App/releases) [issues: 0](https://github.com/Tune-Out/App/issues) [stars: 0](https://github.com/Tune-Out/App.git) [category: music](https://github.com/topics/appfair-music) 2022-01-18 14:58:21 +0000
-
-  * [**Down Town**](https://Down-Town.github.io/App) 0.0.1: [downloads: 1](https://github.com/Down-Town/App/releases) [issues: 0](https://github.com/Down-Town/App/issues) [stars: 0](https://github.com/Down-Town/App.git) [category: entertainment](https://github.com/topics/appfair-entertainment) 2022-01-17 22:02:46 +0000
 
   * [**Tune Out**](https://Tune-Out.github.io/App) 0.8.402: [downloads: 5](https://github.com/Tune-Out/App/releases) [issues: 0](https://github.com/Tune-Out/App/issues) [stars: 0](https://github.com/Tune-Out/App.git) [category: music](https://github.com/topics/appfair-music) 2022-01-17 18:20:48 +0000
 

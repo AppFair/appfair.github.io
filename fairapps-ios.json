@@ -107,6 +107,37 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Down-Town",
+      "categories" : [
+        "public.app-category.travel"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/Down-Town-iOS.ipa",
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/Down-Town.png",
+      "issueCount" : 0,
+      "localizedDescription" : "An urban street guide",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Down Town",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "4a496c7fcbf8d99a1b3a0c04d53de4feeccfaa01c7583adea2d475337e340b1a",
+      "size" : 5952005,
+      "starCount" : 0,
+      "subtitle" : "An urban street guide",
+      "version" : "0.0.2",
+      "versionDate" : "2022-01-25T00:19:44Z",
+      "versionDescription" : "Release 0.0.2",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
         "public.app-category.reference"
@@ -277,7 +308,7 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe-iOS.ipa",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe.png",
       "issueCount" : 0,

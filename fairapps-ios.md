@@ -1,7 +1,9 @@
 ---
 layout: catalog
 ---
-  * [**Down Town**](https://Down-Town.github.io/App) 0.0.2: [downloads: 2](https://github.com/Down-Town/App/releases) [issues: 0](https://github.com/Down-Town/App/issues) [stars: 0](https://github.com/Down-Town/App.git) [category: travel](https://github.com/topics/appfair-travel) 2022-01-25 00:19:44 +0000
+  * [**Down Town**](https://Down-Town.github.io/App) 0.0.3: [downloads: 1](https://github.com/Down-Town/App/releases) [issues: 0](https://github.com/Down-Town/App/issues) [stars: 0](https://github.com/Down-Town/App.git) [category: travel](https://github.com/topics/appfair-travel) 2022-01-25 00:49:11 +0000
+
+  * [**Unclear Purpose**](https://Unclear-Purpose.github.io/App) 0.0.5: [downloads: 1](https://github.com/Unclear-Purpose/App/releases) [issues: 0](https://github.com/Unclear-Purpose/App/issues) [stars: 0](https://github.com/Unclear-Purpose/App.git) [category: finance](https://github.com/topics/appfair-finance) 2022-01-25 00:48:27 +0000
 
   * [**Hex Loupe**](https://Hex-Loupe.github.io/App) 0.0.13: [downloads: 2](https://github.com/Hex-Loupe/App/releases) [issues: 0](https://github.com/Hex-Loupe/App/issues) [stars: 0](https://github.com/Hex-Loupe/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 23:39:49 +0000
 
@@ -37,8 +39,6 @@ layout: catalog
 
   * [**Trivial Quiz**](https://Trivial-Quiz.github.io/App) 0.0.11: [downloads: 1](https://github.com/Trivial-Quiz/App/releases) [issues: 0](https://github.com/Trivial-Quiz/App/issues) [stars: 0](https://github.com/Trivial-Quiz/App.git) [category: games](https://github.com/topics/appfair-games) 2022-01-21 14:55:04 +0000
 
-  * [**Unclear Purpose**](https://Unclear-Purpose.github.io/App) _0.0.4 pre-release_: [downloads: 2](https://github.com/Unclear-Purpose/App/releases) [issues: 0](https://github.com/Unclear-Purpose/App/issues) [stars: 0](https://github.com/Unclear-Purpose/App.git) [category: finance](https://github.com/topics/appfair-finance) 2022-01-21 14:05:38 +0000
-
   * [**Ultra Light**](https://Ultra-Light.github.io/App) _0.0.7 pre-release_: [downloads: 2](https://github.com/Ultra-Light/App/releases) [issues: 0](https://github.com/Ultra-Light/App/issues) [stars: 0](https://github.com/Ultra-Light/App.git) [category: news](https://github.com/topics/appfair-news) 2022-01-21 14:04:24 +0000
 
   * [**Ultra Light**](https://Ultra-Light.github.io/App) 0.0.5: [downloads: 2](https://github.com/Ultra-Light/App/releases) [issues: 0](https://github.com/Ultra-Light/App/issues) [stars: 0](https://github.com/Ultra-Light/App.git) [category: news](https://github.com/topics/appfair-news) 2022-01-20 03:44:45 +0000
@@ -54,8 +54,6 @@ layout: catalog
   * [**Net Skip**](https://Net-Skip.github.io/App) _0.0.5 pre-release_: [downloads: 1](https://github.com/Net-Skip/App/releases) [issues: 0](https://github.com/Net-Skip/App/issues) [stars: 0](https://github.com/Net-Skip/App.git) [category: productivity](https://github.com/topics/appfair-productivity) 2022-01-10 00:38:53 +0000
 
   * [**Hear Tell**](https://Hear-Tell.github.io/App) _0.3.34 pre-release_: [downloads: 1](https://github.com/Hear-Tell/App/releases) [issues: 0](https://github.com/Hear-Tell/App/issues) [stars: 0](https://github.com/Hear-Tell/App.git) [category: healthcare-fitness](https://github.com/topics/appfair-healthcare-fitness) 2022-01-10 00:38:44 +0000
-
-  * [**Unclear Purpose**](https://Unclear-Purpose.github.io/App) 0.0.2: [downloads: 2](https://github.com/Unclear-Purpose/App/releases) [issues: 0](https://github.com/Unclear-Purpose/App/issues) [stars: 0](https://github.com/Unclear-Purpose/App.git) [category: finance](https://github.com/topics/appfair-finance) 2022-01-05 21:39:05 +0000
 
   * [**Hear Tell**](https://Hear-Tell.github.io/App) 0.3.33: [downloads: 1](https://github.com/Hear-Tell/App/releases) [issues: 0](https://github.com/Hear-Tell/App/issues) [stars: 0](https://github.com/Hear-Tell/App.git) [category: healthcare-fitness](https://github.com/topics/appfair-healthcare-fitness) 2022-01-04 16:25:01 +0000
 

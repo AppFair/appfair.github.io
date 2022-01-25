@@ -8,12 +8,12 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.164/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.164/App-Fair.png",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.165/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.165/App-Fair.png",
       "issueCount" : 0,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.164/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.165/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -37,24 +37,24 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.164/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.165/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.164/screenshot_01-mac-2484x1742.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.164/screenshot_02-mac-dark-2436x1708.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.164/screenshot_02-mac-light-2436x1708.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.164/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.164/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.164/screenshot_05-mac-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.164/screenshot_06-mac-1424x1426.png"
+        "https://github.com/App-Fair/App/releases/download/0.7.165/screenshot_01-mac-2484x1742.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.165/screenshot_02-mac-dark-2436x1708.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.165/screenshot_02-mac-light-2436x1708.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.165/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.165/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.165/screenshot_05-mac-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.165/screenshot_06-mac-1424x1426.png"
       ],
-      "sha256" : "fdd911332d0b84d894b31e43786c5d7bbcb28c7d4573f5c3290c0770027d0bca",
-      "size" : 3342206,
+      "sha256" : "8afda68784919d9a27daf380d0742992b25fed5359122198f8ec2dfa79dfb51e",
+      "size" : 3342232,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.7.164",
-      "versionDate" : "2022-01-24T14:08:36Z",
-      "versionDescription" : "Release 0.7.164",
+      "version" : "0.7.165",
+      "versionDate" : "2022-01-25T00:49:23Z",
+      "versionDescription" : "Release 0.7.165",
       "watcherCount" : 0
     },
     {
@@ -171,27 +171,28 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/Down-Town-macOS.zip",
-      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/Down-Town.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
       "issueCount" : 0,
       "localizedDescription" : "An urban street guide",
-      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Down Town",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
       "screenshotURLs" : [
-
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
       ],
-      "sha256" : "1bcead2873837c80638ba85b7a499780a75653467bc58ea3353558a940759132",
-      "size" : 2338256,
+      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
+      "size" : 2338254,
       "starCount" : 0,
       "subtitle" : "An urban street guide",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-25T00:19:44Z",
-      "versionDescription" : "Release 0.0.2",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-25T00:49:11Z",
+      "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     },
     {
@@ -1279,37 +1280,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Unclear-Purpose",
-      "categories" : [
-        "public.app-category.finance"
-      ],
-      "coreSize" : 68368,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose-macOS.zip",
-      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose.png",
-      "issueCount" : 0,
-      "localizedDescription" : "An unclear app",
-      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Unclear Purpose",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "abeb48203a7b702f2566e1963363675584d011fa303809cb1688535f241bb281",
-      "size" : 2308594,
-      "starCount" : 0,
-      "subtitle" : "An unclear app",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-21T14:05:38Z",
-      "versionDescription" : "Release 0.0.4",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "categories" : [
@@ -1317,27 +1287,27 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 15,
-      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Unclear-Purpose-macOS.zip",
-      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Unclear-Purpose.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose-macOS.zip",
+      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose.png",
       "issueCount" : 0,
       "localizedDescription" : "An unclear app",
-      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Unclear Purpose",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f77e7057302da90cf01cc73449f10e7fb36bb5e9dba6490d1ca6bde29cfb7d25",
-      "size" : 2299750,
+      "sha256" : "7e52be3c6558eddf0eab2c32d5069a48036241fc6e118570a6b2a0654fcd8a79",
+      "size" : 2323720,
       "starCount" : 0,
       "subtitle" : "An unclear app",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-05T21:39:05Z",
-      "versionDescription" : "Release 0.0.2",
+      "version" : "0.0.5",
+      "versionDate" : "2022-01-25T00:48:27Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {

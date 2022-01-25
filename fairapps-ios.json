@@ -113,27 +113,27 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/Down-Town-iOS.ipa",
-      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/Down-Town.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-iOS.ipa",
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
       "issueCount" : 0,
       "localizedDescription" : "An urban street guide",
-      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Down Town",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.2/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "4a496c7fcbf8d99a1b3a0c04d53de4feeccfaa01c7583adea2d475337e340b1a",
-      "size" : 5952005,
+      "sha256" : "4548b4e560513a5e424f4c7de38a83d4e839a31c3f287d880fb6c5b9b644cb8f",
+      "size" : 5951996,
       "starCount" : 0,
       "subtitle" : "An urban street guide",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-25T00:19:44Z",
-      "versionDescription" : "Release 0.0.2",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-25T00:49:11Z",
+      "versionDescription" : "Release 0.0.3",
       "watcherCount" : 0
     },
     {
@@ -921,37 +921,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Unclear-Purpose",
-      "categories" : [
-        "public.app-category.finance"
-      ],
-      "coreSize" : 68368,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose-iOS.ipa",
-      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Unclear-Purpose.png",
-      "issueCount" : 0,
-      "localizedDescription" : "An unclear app",
-      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Unclear Purpose",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "71dc6bb3476b5bcc1a6cd8a4c74f013933d24935110de3007004164f0cfdeacb",
-      "size" : 5889877,
-      "starCount" : 0,
-      "subtitle" : "An unclear app",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-21T14:05:38Z",
-      "versionDescription" : "Release 0.0.4",
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "categories" : [
@@ -959,27 +928,27 @@
       ],
       "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Unclear-Purpose-iOS.ipa",
-      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Unclear-Purpose.png",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose-iOS.ipa",
+      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose.png",
       "issueCount" : 0,
       "localizedDescription" : "An unclear app",
-      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
+      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Unclear Purpose",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.2/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "5a4f996899fee293e6bd1975cc3f6c24cfbd85fad9241864f32cb2a546a81f42",
-      "size" : 5871288,
+      "sha256" : "61449d391d94f26f64db6c535992d631357c48250bdadf06cdd6aa54fac87d90",
+      "size" : 5930811,
       "starCount" : 0,
       "subtitle" : "An unclear app",
-      "version" : "0.0.2",
-      "versionDate" : "2022-01-05T21:39:05Z",
-      "versionDescription" : "Release 0.0.2",
+      "version" : "0.0.5",
+      "versionDate" : "2022-01-25T00:48:27Z",
+      "versionDescription" : "Release 0.0.5",
       "watcherCount" : 0
     },
     {

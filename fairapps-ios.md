@@ -38,4 +38,4 @@ layout: catalog
 | `0.0.35` | [Visi Calc](https://Visi-Calc.github.io/App/) | `4` | `0` | `0` | `2021-12-04T14:58:06Z` | [`business`](https://github.com/topics/appfair-business)  |
 | `0.0.45` | [Neural Scry](https://Neural-Scry.github.io/App/) | `4` | `0` | `0` | `2021-12-04T02:37:55Z` | [`medical`](https://github.com/topics/appfair-medical)  |
  
-_Updated: `2022-01-25T18:54:42Z`_
+_Updated: `2022-01-25T19:09:36Z`_

@@ -65,7 +65,7 @@ layout: catalog
 
   * [**Neural Scry**](https://Neural-Scry.github.io/App) 0.0.51: [downloads: 2](https://github.com/Neural-Scry/App/releases) [issues: 0](https://github.com/Neural-Scry/App/issues) [stars: 0](https://github.com/Neural-Scry/App.git) [category: medical](https://github.com/topics/appfair-medical) 2022-01-16 15:48:12 +0000
 
-  * [**Sita Sings the Blues**](https://Sita-Sings-the-Blues.github.io/App) _0.0.36 pre-release_: [downloads: 8](https://github.com/Sita-Sings-the-Blues/App/releases) [issues: 0](https://github.com/Sita-Sings-the-Blues/App/issues) [stars: 0](https://github.com/Sita-Sings-the-Blues/App.git) [category: video](https://github.com/topics/appfair-video) 2022-01-15 15:28:06 +0000
+  * [**Sita Sings the Blues**](https://Sita-Sings-the-Blues.github.io/App) _0.0.36 pre-release_: [downloads: 9](https://github.com/Sita-Sings-the-Blues/App/releases) [issues: 0](https://github.com/Sita-Sings-the-Blues/App/issues) [stars: 0](https://github.com/Sita-Sings-the-Blues/App.git) [category: video](https://github.com/topics/appfair-video) 2022-01-15 15:28:06 +0000
 
   * [**Sita Sings the Blues**](https://Sita-Sings-the-Blues.github.io/App) 0.0.35: [downloads: 5](https://github.com/Sita-Sings-the-Blues/App/releases) [issues: 0](https://github.com/Sita-Sings-the-Blues/App/issues) [stars: 0](https://github.com/Sita-Sings-the-Blues/App.git) [category: video](https://github.com/topics/appfair-video) 2022-01-12 12:53:04 +0000
 

@@ -3,9 +3,9 @@ layout: catalog
 ---
   * [**App Fair**](https://App-Fair.github.io/App) 0.7.165: [downloads: 3](https://github.com/App-Fair/App/releases) [issues: 0](https://github.com/App-Fair/App/issues) [stars: 0](https://github.com/App-Fair/App.git) [category: utilities](https://github.com/topics/appfair-utilities) 2022-01-25 00:49:23 +0000
 
-  * [**Down Town**](https://Down-Town.github.io/App) 0.0.3: [downloads: 1](https://github.com/Down-Town/App/releases) [issues: 0](https://github.com/Down-Town/App/issues) [stars: 0](https://github.com/Down-Town/App.git) [category: travel](https://github.com/topics/appfair-travel) 2022-01-25 00:49:11 +0000
+  * [**Down Town**](https://Down-Town.github.io/App) 0.0.3: [downloads: 2](https://github.com/Down-Town/App/releases) [issues: 0](https://github.com/Down-Town/App/issues) [stars: 0](https://github.com/Down-Town/App.git) [category: travel](https://github.com/topics/appfair-travel) 2022-01-25 00:49:11 +0000
 
-  * [**Unclear Purpose**](https://Unclear-Purpose.github.io/App) 0.0.5: [downloads: 1](https://github.com/Unclear-Purpose/App/releases) [issues: 0](https://github.com/Unclear-Purpose/App/issues) [stars: 0](https://github.com/Unclear-Purpose/App.git) [category: finance](https://github.com/topics/appfair-finance) 2022-01-25 00:48:27 +0000
+  * [**Unclear Purpose**](https://Unclear-Purpose.github.io/App) 0.0.5: [downloads: 2](https://github.com/Unclear-Purpose/App/releases) [issues: 0](https://github.com/Unclear-Purpose/App/issues) [stars: 0](https://github.com/Unclear-Purpose/App.git) [category: finance](https://github.com/topics/appfair-finance) 2022-01-25 00:48:27 +0000
 
   * [**Hex Loupe**](https://Hex-Loupe.github.io/App) 0.0.13: [downloads: 3](https://github.com/Hex-Loupe/App/releases) [issues: 0](https://github.com/Hex-Loupe/App/issues) [stars: 0](https://github.com/Hex-Loupe/App.git) [category: developer-tools](https://github.com/topics/appfair-developer-tools) 2022-01-24 23:39:49 +0000
 

@@ -37,7 +37,7 @@ tr:nth-child(even) {
 | [`Media Res`](https://Media-Res.github.io/App/) | `0.0.17` | `2` | `42` | `10` | `6 MB` | `0` | `0` | `2022-01-24T04:09:17Z` | [`lifestyle`](https://github.com/topics/appfair-lifestyle)  |
 | [`Encyclopedia Galactica`](https://Encyclopedia-Galactica.github.io/App/) | `0.0.32` | `2` | `27` | `9` | `6.1 MB` | `0` | `0` | `2022-01-24T02:35:43Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | `0.0.12β` | `2` | `18` | `7` | `5.9 MB` | `0` | `0` | `2022-01-24T01:55:09Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`Bon Mot`](https://Bon-Mot.github.io/App/) | `0.2.33` | `2` | `37` | `8` | `5.9 MB` | `1` | `0` | `2022-01-24T01:55:01Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`Bon Mot`](https://Bon-Mot.github.io/App/) | `0.2.33` | `2` | `38` | `8` | `5.9 MB` | `1` | `0` | `2022-01-24T01:55:01Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Crazy Glue`](https://Crazy-Glue.github.io/App/) | `0.0.4` | `2` | `48` | `11` | `5.9 MB` | `0` | `0` | `2022-01-23T23:13:56Z` | [`graphics-design`](https://github.com/topics/appfair-graphics-design)  |
 | [`Festivus Pole`](https://Festivus-Pole.github.io/App/) | `0.0.3` | `2` | `25` | `8` | `5.8 MB` | `0` | `0` | `2022-01-23T23:13:54Z` | [`entertainment`](https://github.com/topics/appfair-entertainment)  |
 | [`Fox Glove`](https://Fox-Glove.github.io/App/) | `0.0.4` | `2` | `49` | `9` | `6 MB` | `0` | `0` | `2022-01-23T23:13:52Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
@@ -57,4 +57,4 @@ tr:nth-child(even) {
 | [`Visi Calc`](https://Visi-Calc.github.io/App/) | `0.0.35` | `4` | `1125` | `191` | `14.9 MB` | `0` | `0` | `2021-12-04T14:58:06Z` | [`business`](https://github.com/topics/appfair-business)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | `0.0.45` | `4` | `3` | `2` | `8.7 MB` | `0` | `0` | `2021-12-04T02:37:55Z` | [`medical`](https://github.com/topics/appfair-medical)  |
  
-_Updated: `2022-01-25T20:11:06Z`_
+_Updated: `2022-01-25T21:10:07Z`_

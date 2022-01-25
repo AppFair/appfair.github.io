@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | downloads | impressions | views | size | stars | issues | date | category |
 | ---: | :------ | --------: | ----------: | -----: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | `0.7.166` | `2` | `3` | `1` | `3.4 MB` | `0` | `1` | `2022-01-25T14:22:30Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | `0.7.166` | `2` | `4` | `1` | `3.4 MB` | `0` | `1` | `2022-01-25T14:22:30Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Down Town`](https://Down-Town.github.io/App/) | `0.0.3` | `2` | `9` | `3` | `2.3 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | `0.0.5` | `2` | `6` | `3` | `2.3 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | `0.0.13` | `3` | `29` | `3` | `2.4 MB` | `0` | `0` | `2022-01-24T23:39:49Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
@@ -41,7 +41,7 @@ tr:nth-child(even) {
 | [`Visi Calc`](https://Visi-Calc.github.io/App/) | `0.0.37` | `2` | `25` | `9` | `4.7 MB` | `0` | `0` | `2022-01-24T01:59:51Z` | [`business`](https://github.com/topics/appfair-business)  |
 | [`Story Points`](https://Story-Points.github.io/App/) | `0.0.6` | `2` | `29` | `9` | `2.4 MB` | `0` | `0` | `2022-01-24T01:59:22Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | `0.0.12β` | `1` | `18` | `7` | `2.4 MB` | `0` | `0` | `2022-01-24T01:55:09Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`Bon Mot`](https://Bon-Mot.github.io/App/) | `0.2.33` | `2` | `37` | `8` | `2.3 MB` | `1` | `0` | `2022-01-24T01:55:01Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`Bon Mot`](https://Bon-Mot.github.io/App/) | `0.2.33` | `2` | `38` | `8` | `2.3 MB` | `1` | `0` | `2022-01-24T01:55:01Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Huffle Puff`](https://Huffle-Puff.github.io/App/) | `0.0.7β` | `2` | `23` | `9` | `2.2 MB` | `0` | `0` | `2022-01-24T01:54:53Z` | [`entertainment`](https://github.com/topics/appfair-entertainment)  |
 | [`Huffle Puff`](https://Huffle-Puff.github.io/App/) | `0.0.6` | `3` | `3` | `2` | `2.2 MB` | `0` | `0` | `2022-01-24T00:46:51Z` | [`entertainment`](https://github.com/topics/appfair-entertainment)  |
 | [`Crazy Glue`](https://Crazy-Glue.github.io/App/) | `0.0.4` | `3` | `48` | `11` | `2.3 MB` | `0` | `0` | `2022-01-23T23:13:56Z` | [`graphics-design`](https://github.com/topics/appfair-graphics-design)  |
@@ -54,7 +54,7 @@ tr:nth-child(even) {
 | [`Ultra Light`](https://Ultra-Light.github.io/App/) | `0.0.5` | `2` | `38` | `6` | `2.3 MB` | `0` | `0` | `2022-01-20T03:44:45Z` | [`news`](https://github.com/topics/appfair-news)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | `0.8.403β` | `2` | `50` | `11` | `8.4 MB` | `0` | `0` | `2022-01-18T14:58:21Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | `0.8.402` | `5` | `62` | `8` | `8.4 MB` | `0` | `0` | `2022-01-17T18:20:48Z` | [`music`](https://github.com/topics/appfair-music)  |
-| [`Neural Scry`](https://Neural-Scry.github.io/App/) | `0.0.51` | `2` | `4` | `2` | `2.3 MB` | `0` | `0` | `2022-01-16T15:48:12Z` | [`medical`](https://github.com/topics/appfair-medical)  |
+| [`Neural Scry`](https://Neural-Scry.github.io/App/) | `0.0.51` | `2` | `6` | `2` | `2.3 MB` | `0` | `0` | `2022-01-16T15:48:12Z` | [`medical`](https://github.com/topics/appfair-medical)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | `0.0.36β` | `9` | `177` | `39` | `1.45 GB` | `0` | `0` | `2022-01-15T15:28:06Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | `0.0.35` | `5` | `75` | `26` | `1.45 GB` | `0` | `0` | `2022-01-12T12:53:04Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | `0.0.5β` | `4` | `427` | `68` | `2.5 MB` | `0` | `0` | `2022-01-10T00:38:53Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
@@ -64,4 +64,4 @@ tr:nth-child(even) {
 | [`Net Skip`](https://Net-Skip.github.io/App/) | `0.0.4` | `5` | `238` | `21` | `2.5 MB` | `0` | `0` | `2022-01-03T22:19:38Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | `0.0.4β` | `4` | `717` | `87` | `2.4 MB` | `0` | `0` | `2021-12-31T03:43:02Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
  
-_Updated: `2022-01-25T20:10:39Z`_
+_Updated: `2022-01-25T21:09:39Z`_

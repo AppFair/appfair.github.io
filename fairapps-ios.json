@@ -526,6 +526,98 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Neural-Scry",
+      "categories" : [
+        "public.app-category.medical"
+      ],
+      "coreSize" : 153232,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 4,
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Neural-Scry-iOS.ipa",
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Neural-Scry.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Brain scanner",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Info.plist#93213f87da1e37a2a7609f6487544900ca06f4481927d242e10379ce76da921f",
+      "name" : "Neural Scry",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.camera",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "cs.debugger",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "temporary-exception.mach-lookup.global-name",
+          "usageDescription" : "This enabled this permission for testing"
+        }
+      ],
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/README.md#f9af449c34702872740ca1db657be31a62c8caa3f1dc77e96d64a0fb040ef186",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "7e76b57e37b5ae275fbd940aa08ae1d6006524db101a412601f0f75b7089f7a1",
+      "size" : 8658102,
+      "starCount" : 0,
+      "subtitle" : "Brain scanner",
+      "version" : "0.0.45",
+      "versionDate" : "2021-12-04T02:37:55Z",
+      "versionDescription" : "Release 0.0.45",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 152800,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit-iOS.ipa",
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit.png",
+      "issueCount" : 0,
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "8baacf975e437188e6684aae05ca35b9c9370cc8ee6f35df54f51ca028d8e389",
+      "size" : 5833409,
+      "starCount" : 0,
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.8",
+      "versionDate" : "2021-12-06T03:02:59Z",
+      "versionDescription" : "Release 0.4.8",
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
         "public.app-category.sports"

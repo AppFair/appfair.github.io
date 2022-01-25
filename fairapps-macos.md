@@ -34,7 +34,7 @@ tr:nth-child(even) {
 | [`Main Course`](https://Main-Course.github.io/App/) | `0.0.15` | `3` | `36` | `5` | `13.2 MB` | `0` | `0` | `2022-01-24T14:09:10Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Pan Opticon`](https://Pan-Opticon.github.io/App/) | `0.2.22` | `3` | `33` | `8` | `2.6 MB` | `0` | `0` | `2022-01-24T11:51:13Z` | [`sports`](https://github.com/topics/appfair-sports)  |
 | [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | `0.0.82` | `2` | `21` | `8` | `3.1 MB` | `0` | `0` | `2022-01-24T05:38:00Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
-| [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | `0.0.14` | `3` | `38` | `8` | `2.4 MB` | `0` | `0` | `2022-01-24T05:28:32Z` | [`weather`](https://github.com/topics/appfair-weather)  |
+| [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | `0.0.14` | `3` | `39` | `8` | `2.4 MB` | `0` | `0` | `2022-01-24T05:28:32Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | `0.0.23` | `2` | `20` | `9` | `2.5 MB` | `0` | `0` | `2022-01-24T04:09:31Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Media Res`](https://Media-Res.github.io/App/) | `0.0.17` | `3` | `42` | `10` | `2.4 MB` | `0` | `0` | `2022-01-24T04:09:17Z` | [`lifestyle`](https://github.com/topics/appfair-lifestyle)  |
 | [`Encyclopedia Galactica`](https://Encyclopedia-Galactica.github.io/App/) | `0.0.32` | `2` | `27` | `9` | `2.5 MB` | `0` | `0` | `2022-01-24T02:35:43Z` | [`reference`](https://github.com/topics/appfair-reference)  |
@@ -64,4 +64,4 @@ tr:nth-child(even) {
 | [`Net Skip`](https://Net-Skip.github.io/App/) | `0.0.4` | `5` | `238` | `21` | `2.5 MB` | `0` | `0` | `2022-01-03T22:19:38Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | `0.0.4β` | `4` | `717` | `87` | `2.4 MB` | `0` | `0` | `2021-12-31T03:43:02Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
  
-_Updated: `2022-01-25T21:09:39Z`_
+_Updated: `2022-01-25T22:10:00Z`_

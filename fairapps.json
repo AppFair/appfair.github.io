@@ -8,10 +8,10 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/App-Fair.png",
-      "impressionCount" : 0,
+      "impressionCount" : 2,
       "issueCount" : 1,
       "localizedDescription" : "The App Fair Catalog Browser",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
@@ -56,7 +56,7 @@
       "version" : "0.7.168",
       "versionDate" : "2022-01-26T15:01:26Z",
       "versionDescription" : "Release 0.7.168",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {

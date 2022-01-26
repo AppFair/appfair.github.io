@@ -4,7 +4,7 @@ title: The App Fair
 ---
 
 <p align="center">
-appfair.app<a alt="Download the App Fair app for macOS Monterey" href="https://appfair.app"><img alt="The App Fair icon" align="center" height="100" src="appfair-icon.svg" /></a>
+<a alt="Download the App Fair app for macOS Monterey" href="https://appfair.app"><img alt="The App Fair icon" align="center" height="100" src="appfair-icon.svg" /></a>
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 

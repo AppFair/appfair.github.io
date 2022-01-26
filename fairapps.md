@@ -25,8 +25,9 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Eternal September`](https://Eternal-September.github.io/App/) | [``0.0.32``](https://github.com/Eternal-September/App/0.0.32) | `0` | `0` | `1` | `2.5 MB` | `0` | `0` | `2022-01-26T22:20:37Z` | [`education`](https://github.com/topics/appfair-education)  |
-| [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.7``](https://github.com/Tweet-Storm/App/0.0.7) | `0` | `0` | `2` | `2.5 MB` | `0` | `0` | `2022-01-26T22:14:00Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
+| [`Eternal September`](https://Eternal-September.github.io/App/) | [``0.0.32``](https://github.com/Eternal-September/App/0.0.32) | `1` | `1` | `2` | `2.5 MB` | `0` | `0` | `2022-01-26T22:20:37Z` | [`education`](https://github.com/topics/appfair-education)  |
+| [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.39``](https://github.com/Sita-Sings-the-Blues/App/0.0.39) | `1` | `1` | `3` | `1.45 GB` | `0` | `0` | `2022-01-26T22:14:31Z` | [`video`](https://github.com/topics/appfair-video)  |
+| [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.7``](https://github.com/Tweet-Storm/App/0.0.7) | `1` | `1` | `3` | `2.5 MB` | `0` | `0` | `2022-01-26T22:14:00Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.38β``](https://github.com/Hear-Tell/App/0.3.38) | `1` | `1` | `3` | `2.3 MB` | `0` | `0` | `2022-01-26T22:12:32Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.168``](https://github.com/App-Fair/App/0.7.168) | `16` | `2` | `3` | `3.4 MB` | `0` | `1` | `2022-01-26T15:01:26Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.83``](https://github.com/Lottie-Motion/App/0.0.83) | `7` | `1` | `2` | `3.1 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
@@ -60,6 +61,5 @@ tr:nth-child(even) {
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.403β``](https://github.com/Tune-Out/App/0.8.403) | `53` | `12` | `2` | `8.4 MB` | `0` | `0` | `2022-01-18T14:58:21Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.402``](https://github.com/Tune-Out/App/0.8.402) | `70` | `9` | `5` | `8.4 MB` | `0` | `0` | `2022-01-17T18:20:48Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.51``](https://github.com/Neural-Scry/App/0.0.51) | `10` | `3` | `2` | `2.3 MB` | `0` | `0` | `2022-01-16T15:48:12Z` | [`medical`](https://github.com/topics/appfair-medical)  |
-| [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.36``](https://github.com/Sita-Sings-the-Blues/App/0.0.36) | `186` | `39` | `9` | `1.45 GB` | `0` | `0` | `2022-01-15T15:28:06Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.5``](https://github.com/Net-Skip/App/0.0.5) | `438` | `68` | `4` | `2.5 MB` | `0` | `0` | `2022-01-10T00:38:53Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.34``](https://github.com/Hear-Tell/App/0.3.34) | `271` | `47` | `3` | `2.3 MB` | `0` | `0` | `2022-01-10T00:38:44Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |

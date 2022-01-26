@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | downloads | impressions | views | size | stars | issues | date | category |
 | ---: | :------ | --------: | ----------: | -----: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | `0.7.166` | `4` | `14` | `2` | `3.4 MB` | `0` | `1` | `2022-01-25T14:22:30Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | `0.7.166` | `4` | `15` | `2` | `3.4 MB` | `0` | `1` | `2022-01-25T14:22:30Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Down Town`](https://Down-Town.github.io/App/) | `0.0.3` | `2` | `15` | `3` | `2.3 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | `0.0.5` | `2` | `12` | `4` | `2.3 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | `0.0.13` | `3` | `35` | `4` | `2.4 MB` | `0` | `0` | `2022-01-24T23:39:49Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
@@ -64,4 +64,4 @@ tr:nth-child(even) {
 | [`Net Skip`](https://Net-Skip.github.io/App/) | `0.0.4` | `5` | `241` | `22` | `2.5 MB` | `0` | `0` | `2022-01-03T22:19:38Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | `0.0.4β` | `4` | `721` | `87` | `2.4 MB` | `0` | `0` | `2021-12-31T03:43:02Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
  
-_Updated: `2022-01-26T02:36:19Z`_
+_Updated: `2022-01-26T03:12:57Z`_

@@ -8,26 +8,42 @@ title: The App Fair
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 
-The App Fair is an autonomous distribution platform for free and open-source macOS apps.
+The App Fair is an autonomous distribution platform for free and open-source macOS applications.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, and accessibility.
 
-The app catalog can be accessed using the `App Fair.app` catalog browser, which is a native tool available for macOS Monterey at [https://app-fair.app](https://app-fair.app).
+The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey available at [https://app-fair.app](https://app-fair.app).
 
 This is a guide for the development and publication of your own app on the App Fair catalog. It assumes some familiarity with GitHub and SwiftUI.
 
 ## Quick Start
 
-Anyone can create and publish their own native app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time. At the end of this Quick Start guide, you will have your own app published and available through the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser.
+Anyone can create and publish their own app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time. At the end of this Quick Start guide, you will have your own app published and available through the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser.
 
-  1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). The name of the organization is the name of your app, so you'll need to choose a new unique name. It can be easily changed later, so just pick the first available name that comes to mind.
-  2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created. Be **sure** to avoid forking it into your own personal account – it must be forked into the new organization, since the app's name is solely defined by its containing organization.
-  3. In your new forked repository, select the **`Settings`** tab and follow the `Pages` settings link on the left. Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**. This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
-  4. Select the **`Settings`** tab's `Options` section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area. These community features are required for the app to be included in the App Fair catalog.
-  5. Select the **`Actions`** tab and then select `Configure App` workflow on the left. Expand the **Run workflow** drop-down, set the version to "0.0.1", then hit **Run workflow**. Wait a couple minutes for the action to complete: the yellow dot should turn green, indicating that the workflow ran successfully.
-  6. Select the **`Code`** tab and follow the _`Releases`_ link (on the right side of the page). Hit the **Create a new Release** button. Under `Choose a tag`, enter "0.0.1" and hit the "`Create new tag on publish`" menu item. At the bottom of the page, enable the "`This is a pre-release`" checkbox then hit the **Publish release** button.
-  7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. It should take under 10 minutes.
-  8. Select the **`Pull Requests`** tab, then hit the **New Pull Request** button. On the next page, hit the **Create Pull Request** button. The `Title` field must be the name and version of the app (e.g., "My App Name 0.0.1"). The body can be left empty. Hit the **Create Pull Request** button.
-  9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow to complete successfully, which should take around 10 minutes.
+  1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). 
+  * The name of the organization is the name of your app, so you'll need to choose a new unique name. 
+  * The name can be easily changed later, so just pick the first available name that comes to mind.
+  2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created. 
+  * Be sure to avoid forking it into your own personal account – it must be forked into the new organization, since the app's name is solely defined by its containing organization.
+  3. In your new forked repository, select the **`Settings`** tab and follow the `Pages` settings link on the left. 
+  * Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**. 
+  * This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
+  4. Select the **`Settings`** tab's `Options` section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area. 
+  * These community features are required for the app to be included in the App Fair catalog.
+  5. Select the **`Actions`** tab and then select `Configure App` workflow on the left. 
+  * Expand the **Run workflow** drop-down, set the version to "0.0.1", then hit **Run workflow**. 
+  * Wait a couple minutes for the action to complete: the yellow dot should turn green, indicating that the workflow ran successfully.
+  6. Select the **`Code`** tab and follow the _`Releases`_ link (on the right side of the page). 
+  * Hit the **Create a new Release** button. 
+  * Under `Choose a tag`, enter "0.0.1" and hit the "`Create new tag on publish`" menu item. 
+  * At the bottom of the page, enable the "`This is a pre-release`" checkbox then hit the **Publish release** button.
+  7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. 
+  * It should take under 10 minutes.
+  8. Select the **`Pull Requests`** tab, then hit the **New Pull Request** button. 
+  * On the next page, hit the **Create Pull Request** button. 
+  * The `Title` field must be the name and version of the app (e.g., "My App Name 0.0.1"). The body can be left empty. 
+  * Hit the **Create Pull Request** button.
+  9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow to complete successfully.
+  * It should take around 10 minutes.
   10. Your app will soon be listed in the [recent apps](https://www.appfair.net/fairapps-macos) catalog, indicating that it has been published successfully.
 
 Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written written any code yet), but it is yours to develop, maintain, and share with the world.

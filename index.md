@@ -11,7 +11,7 @@ title: The App Fair
 The App Fair is an autonomous distribution platform for free and open-source macOS applications.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, and accessibility.
 
-The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey available at [https://app-fair.app](https://app-fair.app).
+The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey that can be downloaded from [https://app-fair.app](https://app-fair.app).
 
 This is a guide for the development and publication of your own app on the App Fair catalog. It assumes some familiarity with GitHub and SwiftUI.
 
@@ -23,32 +23,35 @@ Anyone can create and publish their own app on the App Fair, for free, using onl
   * The name of the organization is the name of your app, so you'll need to choose a new unique name. 
   * The name can be easily changed later, so just pick the first available name that comes to mind.
   2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created. 
-  * Be sure to avoid forking it into your own personal account – it must be forked into the new organization, since the app's name is solely defined by its containing organization.
-  3. In your new forked repository, select the **`Settings`** tab and follow the `Pages` settings link on the left. 
+  * It must be forked into an organization, rather than into your personal account, since the app's name is defined by its containing organization.
+  3. In your new `/App` repository fork, select the **`Settings`** tab and follow the **`Pages`** settings link on the left. 
   * Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**. 
   * This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
-  4. Select the **`Settings`** tab's `Options` section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area. 
+  4. Select the **`Settings`** tab's **`Options`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area. 
   * These community features are required for the app to be included in the App Fair catalog.
-  5. Select the **`Actions`** tab and then select `Configure App` workflow on the left. 
-  * Expand the **Run workflow** drop-down, set the version to "0.0.1", then hit **Run workflow**. 
+  5. Select the **`Actions`** tab and then select the “`Configure App`” workflow on the left. 
+  * Expand the **Run workflow** drop-down, set the version to "_0.0.1_", then hit **Run workflow**. 
   * Wait a couple minutes for the action to complete: the yellow dot should turn green, indicating that the workflow ran successfully.
+  * Common mis-configurations will be indicated by a red dot; the log for the workflow run will indicate the cause of the issue.
   6. Select the **`Code`** tab and follow the _`Releases`_ link (on the right side of the page). 
   * Hit the **Create a new Release** button. 
   * Under `Choose a tag`, enter "0.0.1" and hit the "`Create new tag on publish`" menu item. 
   * At the bottom of the page, enable the "`This is a pre-release`" checkbox then hit the **Publish release** button.
   7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. 
+  * This process builds your app and releases a binary artifact.
   * It should take under 10 minutes.
   8. Select the **`Pull Requests`** tab, then hit the **New Pull Request** button. 
   * On the next page, hit the **Create Pull Request** button. 
   * The `Title` field must be the name and version of the app (e.g., "My App Name 0.0.1"). The body can be left empty. 
   * Hit the **Create Pull Request** button.
   9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow to complete successfully.
+  * This process creates, scans, and validates a reproducible build of your app's binary artifact in a trusted environment.
   * It should take around 10 minutes.
   10. Your app will soon be listed in the [recent apps](https://www.appfair.net/fairapps-macos) catalog, indicating that it has been published successfully.
 
 Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written written any code yet), but it is yours to develop, maintain, and share with the world.
 
-On a computer with macOS Monterey, you can now install and run the [App Fair catalog browser app](https://app-fair.app/), enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
+On a computer with macOS Monterey, you can now download and launch the <a href="https://app-fair.app" target="_blank"x>`App Fair.app`</a> catalog browser, enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
 
 The next step will be to code your app, which typically involves cloning your fork to a local machine and opening `App.xcworkspace` in an IDE like `Xcode.app` to run and debug. The `App/Sources/AppContainer.swift` source file contains the scaffold for your SwiftUI code; start there to begin defining your app's behavior. 
 
@@ -67,7 +70,7 @@ Continue reading for the full development guide, FAQs, and discussion of the sec
 
 <a href="assets/app-fair-app.png" target="_blank"><img align="right" width="50%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" /></a>
 
-From an end-user perspective, the <a href="https://app-fair.app" target="_blank"><a href="https://app-fair.app" target="_blank"x>`App Fair.app`</a></a> catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
+From an end-user perspective, the <a href="https://app-fair.app" target="_blank"x>`App Fair.app`</a> catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
 
 Apps installed through the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> application are built using the platform-native `SwiftUI` framework and compiled for both Intel and ARM processors, thereby enabling higher performance, lower memory consumption, and more efficient resource utilization than can be achieved with non-native cross-platform application frameworks.
 

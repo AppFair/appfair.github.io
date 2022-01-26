@@ -57,4 +57,4 @@ tr:nth-child(even) {
 | [`Visi Calc`](https://Visi-Calc.github.io/App/) | `0.0.35` | `4` | `1125` | `191` | `14.9 MB` | `0` | `0` | `2021-12-04T14:58:06Z` | [`business`](https://github.com/topics/appfair-business)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | `0.0.45` | `4` | `3` | `2` | `8.7 MB` | `0` | `0` | `2021-12-04T02:37:55Z` | [`medical`](https://github.com/topics/appfair-medical)  |
  
-_Updated: `2022-01-26T11:09:53Z`_
+_Updated: `2022-01-26T12:15:46Z`_

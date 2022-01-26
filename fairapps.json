@@ -11,7 +11,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/App-Fair-macOS.zip",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/App-Fair.png",
-      "impressionCount" : 14,
+      "impressionCount" : 16,
       "issueCount" : 1,
       "localizedDescription" : "The App Fair Catalog Browser",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
@@ -252,7 +252,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.27/Eternal-September-macOS.zip",
       "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.27/Eternal-September.png",
-      "impressionCount" : 61,
+      "impressionCount" : 62,
       "issueCount" : 0,
       "localizedDescription" : "An app for learning Roman Numerals",
       "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.27/Info.plist#ad405aab1da742590d05542a187bf07101e84113806b41d48d43f17b938b5a22",
@@ -349,10 +349,46 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell-macOS.zip",
+      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell.png",
+      "impressionCount" : 0,
+      "issueCount" : 0,
+      "localizedDescription" : "Identify ambient sounds.",
+      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Info.plist#263a3737ed9d259afbaf4020b17e232339ca0bd4e981a0d8d160ba52476ec460",
+      "name" : "Hear Tell",
+      "permissions" : [
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "The microphone is used to process and identify ambient sounds."
+        }
+      ],
+      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "637b46022cb1ac3b100471d8f7dff1cba01a1d552369f927e5eefa3ded6c93bc",
+      "size" : 2309731,
+      "starCount" : 0,
+      "subtitle" : "Identify ambient sounds.",
+      "version" : "0.3.38",
+      "versionDate" : "2022-01-26T22:12:32Z",
+      "versionDescription" : "Release 0.3.38",
+      "viewCount" : 0,
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Hear-Tell",
+      "categories" : [
+        "public.app-category.healthcare-fitness"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell-macOS.zip",
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell.png",
-      "impressionCount" : 269,
+      "impressionCount" : 271,
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
       "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Info.plist#021c4acb1d6c79566c4a74b63a2c6dea94fef96c04558156f1da0d83daa7f0e4",
@@ -375,42 +411,6 @@
       "versionDate" : "2022-01-10T00:38:44Z",
       "versionDescription" : "Release 0.3.34",
       "viewCount" : 47,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hear-Tell",
-      "categories" : [
-        "public.app-category.healthcare-fitness"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.33/Hear-Tell-macOS.zip",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.33/Hear-Tell.png",
-      "impressionCount" : 207,
-      "issueCount" : 0,
-      "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.33/Info.plist#021c4acb1d6c79566c4a74b63a2c6dea94fef96c04558156f1da0d83daa7f0e4",
-      "name" : "Hear Tell",
-      "permissions" : [
-        {
-          "type" : "device.microphone",
-          "usageDescription" : "The microphone is used to process and identify ambient sounds."
-        }
-      ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.33/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "ad4b6525cd154bf1391a03504c2ad7fa7736873d1887e73c0ec81e27b53a6958",
-      "size" : 2283152,
-      "starCount" : 0,
-      "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.33",
-      "versionDate" : "2022-01-04T16:25:01Z",
-      "versionDescription" : "Release 0.3.33",
-      "viewCount" : 25,
       "watcherCount" : 0
     },
     {
@@ -693,7 +693,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
         "public.app-category.productivity"
@@ -703,7 +703,7 @@
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip.png",
-      "impressionCount" : 436,
+      "impressionCount" : 438,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
@@ -727,39 +727,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.4/Net-Skip-macOS.zip",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.4/Net-Skip.png",
-      "impressionCount" : 245,
-      "issueCount" : 0,
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.4/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",
-      "name" : "Net Skip",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "daa9e12ab7e84b8371224d386b5460bb3cda1811655918df452c0c13638d9086",
-      "size" : 2450125,
-      "starCount" : 0,
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-03T22:19:38Z",
-      "versionDescription" : "Release 0.0.4",
-      "viewCount" : 22,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Neural-Scry",
       "categories" : [
         "public.app-category.medical"
@@ -769,7 +736,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Neural-Scry-macOS.zip",
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Neural-Scry.png",
-      "impressionCount" : 9,
+      "impressionCount" : 10,
       "issueCount" : 0,
       "localizedDescription" : "Brain scanner",
       "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Info.plist#2215eff2478180960a9c3d722d16eb05a760a8a09dab75af2881197aaff61bd1",
@@ -969,7 +936,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
         "public.app-category.video"
@@ -1001,41 +968,6 @@
       "versionDate" : "2022-01-15T15:28:06Z",
       "versionDescription" : "Release 0.0.36",
       "viewCount" : 39,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "categories" : [
-        "public.app-category.video"
-      ],
-      "coreSize" : 68840,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/Sita-Sings-the-Blues-macOS.zip",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/Sita-Sings-the-Blues.png",
-      "impressionCount" : 81,
-      "issueCount" : 0,
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
-      "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/screenshot-mac-01-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/screenshot-mac-02-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.35/screenshot-mac-03-2540x1658.png"
-      ],
-      "sha256" : "76c9a751464cc6911ad564d2ec18820a8b4a65303e0dcec83de33dfb55af4766",
-      "size" : 1454457579,
-      "starCount" : 0,
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.35",
-      "versionDate" : "2022-01-12T12:53:04Z",
-      "versionDescription" : "Release 0.0.35",
-      "viewCount" : 26,
       "watcherCount" : 0
     },
     {
@@ -1223,7 +1155,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.402/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.402/Tune-Out.png",
-      "impressionCount" : 69,
+      "impressionCount" : 70,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.402/Info.plist#1cae741c6cbc1923f8556f012ba8d08ad02fae26c41165f6c9b698c532dea18e",
@@ -1252,7 +1184,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tweet-Storm",
       "categories" : [
         "public.app-category.social-networking"
@@ -1262,7 +1194,7 @@
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Tweet-Storm-macOS.zip",
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Tweet-Storm.png",
-      "impressionCount" : 726,
+      "impressionCount" : 729,
       "issueCount" : 0,
       "localizedDescription" : "Unleash your inner dialog",
       "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.4/Info.plist#502bf47d721368a06aa5978588cb5866f1e2882c575c5de0d2e9d92e38de37c6",

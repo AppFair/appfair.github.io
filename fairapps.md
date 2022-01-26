@@ -21,6 +21,7 @@ tr:nth-child(even) {
 }
 </style>
 
+<small>Last updated: {{ site.time | date_to_xmlschema }}</small>
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
@@ -64,5 +65,3 @@ tr:nth-child(even) {
 | [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.33``](https://github.com/Hear-Tell/App/0.3.33) | `207` | `25` | `5` | `2.3 MB` | `0` | `0` | `2022-01-04T16:25:01Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.4``](https://github.com/Net-Skip/App/0.0.4) | `245` | `22` | `5` | `2.5 MB` | `0` | `0` | `2022-01-03T22:19:38Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.4β``](https://github.com/Tweet-Storm/App/0.0.4) | `726` | `87` | `4` | `2.4 MB` | `0` | `0` | `2021-12-31T03:43:02Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
-
-<small>Updated: {{ page.date }}</small>

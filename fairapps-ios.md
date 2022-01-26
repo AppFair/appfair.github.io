@@ -21,6 +21,7 @@ tr:nth-child(even) {
 }
 </style>
 
+<small>Last updated: {{ site.time | date_to_xmlschema }}</small>
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
@@ -57,5 +58,3 @@ tr:nth-child(even) {
 | [`Next Edit`](https://Next-Edit.github.io/App/) | [``0.4.8``](https://github.com/Next-Edit/App/0.4.8) | `49` | `13` | `2` | `5.8 MB` | `0` | `0` | `2021-12-06T03:02:59Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Visi Calc`](https://Visi-Calc.github.io/App/) | [``0.0.35``](https://github.com/Visi-Calc/App/0.0.35) | `1125` | `191` | `4` | `14.9 MB` | `0` | `0` | `2021-12-04T14:58:06Z` | [`business`](https://github.com/topics/appfair-business)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.45``](https://github.com/Neural-Scry/App/0.0.45) | `3` | `2` | `4` | `8.7 MB` | `0` | `0` | `2021-12-04T02:37:55Z` | [`medical`](https://github.com/topics/appfair-medical)  |
-
-<small>Updated: {{ page.date }}</small>

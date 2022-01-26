@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | downloads | impressions | views | size | stars | issues | date | category |
 | ---: | :------ | --------: | ----------: | -----: | :--- | -----:| -----: | ---- | :------- |
-| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | `0.0.83` | `1` | `0` | `0` | `3.1 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
+| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | `0.0.83` | `2` | `2` | `1` | `3.1 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | `0.7.166` | `4` | `15` | `2` | `3.4 MB` | `0` | `1` | `2022-01-25T14:22:30Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Down Town`](https://Down-Town.github.io/App/) | `0.0.3` | `2` | `15` | `3` | `2.3 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | `0.0.5` | `2` | `12` | `4` | `2.3 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |
@@ -64,4 +64,4 @@ tr:nth-child(even) {
 | [`Net Skip`](https://Net-Skip.github.io/App/) | `0.0.4` | `5` | `241` | `22` | `2.5 MB` | `0` | `0` | `2022-01-03T22:19:38Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | `0.0.4β` | `4` | `721` | `87` | `2.4 MB` | `0` | `0` | `2021-12-31T03:43:02Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
  
-_Updated: `2022-01-26T12:40:26Z`_
+_Updated: `2022-01-26T13:13:45Z`_

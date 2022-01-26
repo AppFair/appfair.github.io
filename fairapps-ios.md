@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | downloads | impressions | views | size | stars | issues | date | category |
 | ---: | :------ | --------: | ----------: | -----: | :--- | -----:| -----: | ---- | :------- |
-| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | `0.0.83` | `1` | `0` | `0` | `9.5 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
+| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | `0.0.83` | `2` | `2` | `1` | `9.5 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Down Town`](https://Down-Town.github.io/App/) | `0.0.3` | `2` | `15` | `3` | `6 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | `0.0.5` | `2` | `12` | `4` | `5.9 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | `0.0.13` | `2` | `35` | `4` | `6 MB` | `0` | `0` | `2022-01-24T23:39:49Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
@@ -57,4 +57,4 @@ tr:nth-child(even) {
 | [`Visi Calc`](https://Visi-Calc.github.io/App/) | `0.0.35` | `4` | `1125` | `191` | `14.9 MB` | `0` | `0` | `2021-12-04T14:58:06Z` | [`business`](https://github.com/topics/appfair-business)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | `0.0.45` | `4` | `3` | `2` | `8.7 MB` | `0` | `0` | `2021-12-04T02:37:55Z` | [`medical`](https://github.com/topics/appfair-medical)  |
  
-_Updated: `2022-01-26T12:40:52Z`_
+_Updated: `2022-01-26T13:14:12Z`_

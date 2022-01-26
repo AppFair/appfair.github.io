@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | downloads | impressions | views | size | stars | issues | date | category |
 | ---: | :------ | --------: | ----------: | -----: | :--- | -----:| -----: | ---- | :------- |
+| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | `0.0.83` | `1` | `0` | `0` | `9.5 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Down Town`](https://Down-Town.github.io/App/) | `0.0.3` | `2` | `15` | `3` | `6 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | `0.0.5` | `2` | `12` | `4` | `5.9 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | `0.0.13` | `2` | `35` | `4` | `6 MB` | `0` | `0` | `2022-01-24T23:39:49Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
@@ -31,7 +32,6 @@ tr:nth-child(even) {
 | [`Yankee Swap`](https://Yankee-Swap.github.io/App/) | `0.0.11` | `1` | `45` | `5` | `6 MB` | `0` | `0` | `2022-01-24T14:24:10Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Main Course`](https://Main-Course.github.io/App/) | `0.0.15` | `1` | `41` | `5` | `18.9 MB` | `0` | `0` | `2022-01-24T14:09:10Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Pan Opticon`](https://Pan-Opticon.github.io/App/) | `0.2.22` | `2` | `37` | `9` | `6.5 MB` | `0` | `0` | `2022-01-24T11:51:13Z` | [`sports`](https://github.com/topics/appfair-sports)  |
-| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | `0.0.82` | `2` | `26` | `9` | `9.5 MB` | `0` | `0` | `2022-01-24T05:38:00Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | `0.0.14` | `2` | `44` | `8` | `6.1 MB` | `0` | `0` | `2022-01-24T05:28:32Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | `0.0.23` | `2` | `25` | `10` | `6.1 MB` | `0` | `0` | `2022-01-24T04:09:31Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Media Res`](https://Media-Res.github.io/App/) | `0.0.17` | `2` | `47` | `11` | `6 MB` | `0` | `0` | `2022-01-24T04:09:17Z` | [`lifestyle`](https://github.com/topics/appfair-lifestyle)  |
@@ -57,4 +57,4 @@ tr:nth-child(even) {
 | [`Visi Calc`](https://Visi-Calc.github.io/App/) | `0.0.35` | `4` | `1125` | `191` | `14.9 MB` | `0` | `0` | `2021-12-04T14:58:06Z` | [`business`](https://github.com/topics/appfair-business)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | `0.0.45` | `4` | `3` | `2` | `8.7 MB` | `0` | `0` | `2021-12-04T02:37:55Z` | [`medical`](https://github.com/topics/appfair-medical)  |
  
-_Updated: `2022-01-26T12:15:46Z`_
+_Updated: `2022-01-26T12:40:52Z`_

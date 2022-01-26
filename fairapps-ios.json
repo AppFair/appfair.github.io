@@ -363,13 +363,13 @@
       ],
       "coreSize" : 68464,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.82/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.82/Lottie-Motion.png",
-      "impressionCount" : 26,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.82/Info.plist#76f9d948a52cc9c42ed46c99936d3329c9675802a548c3e19557a047992ce020",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Info.plist#76f9d948a52cc9c42ed46c99936d3329c9675802a548c3e19557a047992ce020",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -377,18 +377,18 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.82/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "f06cf00074cc0b6402ef2345749b9cffa5eb9e14eb909cf5a3e606c9d54d0f1f",
-      "size" : 9465821,
+      "sha256" : "a5a6ea17fdb7a18f73a4d3c7f0cf6339846af13f43e72868f071a583f43d5d48",
+      "size" : 9488730,
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.82",
-      "versionDate" : "2022-01-24T05:38:00Z",
-      "versionDescription" : "Release 0.0.82",
-      "viewCount" : 9,
+      "version" : "0.0.83",
+      "versionDate" : "2022-01-26T12:24:38Z",
+      "versionDescription" : "Release 0.0.83",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

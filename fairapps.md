@@ -24,8 +24,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.168``](https://github.com/App-Fair/App/0.7.168) | `6` | `1` | `3` | `3.4 MB` | `0` | `1` | `2022-01-26T15:01:26Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
-| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.83``](https://github.com/Lottie-Motion/App/0.0.83) | `4` | `1` | `2` | `3.1 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.168``](https://github.com/App-Fair/App/0.7.168) | `8` | `1` | `3` | `3.4 MB` | `0` | `1` | `2022-01-26T15:01:26Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.83``](https://github.com/Lottie-Motion/App/0.0.83) | `5` | `1` | `2` | `3.1 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Down Town`](https://Down-Town.github.io/App/) | [``0.0.3``](https://github.com/Down-Town/App/0.0.3) | `18` | `3` | `2` | `2.3 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | [``0.0.5``](https://github.com/Unclear-Purpose/App/0.0.5) | `13` | `4` | `2` | `2.3 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.13``](https://github.com/Hex-Loupe/App/0.0.13) | `39` | `4` | `3` | `2.4 MB` | `0` | `0` | `2022-01-24T23:39:49Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |

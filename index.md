@@ -4,20 +4,20 @@ title: The App Fair
 ---
 
 <p align="center">
-<a alt="Download the App Fair app for macOS Monterey" href="https://app-fair.app"><img alt="The App Fair icon" align="center" height="100" src="appfair-icon.svg" /></a>
+appfair.app<a alt="Download the App Fair app for macOS Monterey" href="https://appfair.app"><img alt="The App Fair icon" align="center" height="100" src="appfair-icon.svg" /></a>
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 
 The App Fair is an autonomous distribution platform for free and open-source macOS applications.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, and accessibility.
 
-The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey that can be downloaded from [https://app-fair.app](https://app-fair.app).
+The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey that can be downloaded from [https://appfair.app](https://appfair.app).
 
 This is a guide for the development and publication of your own app on the App Fair catalog. It assumes some familiarity with GitHub and SwiftUI.
 
 ## Quick Start
 
-Anyone can create and publish their own app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time. At the end of this Quick Start guide, you will have your own app published and available through the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser.
+Anyone can create and publish their own app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time. At the end of this Quick Start guide, you will have your own app published and available through the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser.
 
   1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). 
   * The name of the organization is the name of your app, so you'll need to choose a new unique name. 
@@ -27,7 +27,7 @@ Anyone can create and publish their own app on the App Fair, for free, using onl
   3. In your new `/App` repository fork, select the **`Settings`** tab and follow the **`Pages`** settings link on the left. 
   * Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**. 
   * This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
-  4. Select the **`Settings`** tab's **`Options`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area. 
+  4. Select the **`Settings`** tab's **`General`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area. 
   * These community features are required for the app to be included in the App Fair catalog.
   5. Select the **`Actions`** tab and then select the “`Configure App`” workflow on the left. 
   * Expand the **Run workflow** drop-down, set the version to "_0.0.1_", then hit **Run workflow**. 
@@ -51,7 +51,7 @@ Anyone can create and publish their own app on the App Fair, for free, using onl
 
 Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written any code yet), but it is yours to develop, maintain, and share with the world.
 
-On a computer with macOS Monterey, you can now download and launch the <a href="https://app-fair.app" target="_blank"x>`App Fair.app`</a> catalog browser, enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
+On a computer with macOS Monterey, you can now download and launch the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser, enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
 
 The next step will be to code your app, which typically involves cloning your fork to a local machine and opening `App.xcworkspace` in an IDE like `Xcode.app` to run and debug. The `App/Sources/AppContainer.swift` source file contains the scaffold for your SwiftUI code; start there to begin defining your app's behavior. 
 
@@ -70,9 +70,9 @@ Continue reading for the full development guide, FAQs, and discussion of the sec
 
 <a href="assets/app-fair-app.png" target="_blank"><img align="right" width="50%" alt="App Fair macOS Catalog Browser App" src="assets/app-fair-app.png" /></a>
 
-From an end-user perspective, the <a href="https://app-fair.app" target="_blank"x>`App Fair.app`</a> catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
+From an end-user perspective, the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser is a graphical tool that enables users to search, browse, compare, appraise, install, and update apps from an unlimited online collection of free and open-source applications. 
 
-Apps installed through the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> application are built using the platform-native `SwiftUI` framework and compiled for both Intel and ARM processors, thereby enabling higher performance, lower memory consumption, and more efficient resource utilization than can be achieved with non-native cross-platform application frameworks.
+Apps installed through the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> application are built using the platform-native `SwiftUI` framework and compiled for both Intel and ARM processors, thereby enabling higher performance, lower memory consumption, and more efficient resource utilization than can be achieved with non-native cross-platform application frameworks.
 
 At the same time, they use modern "Sandboxing" techniques to protect your system and ensure that you are always aware of what actions the apps are permitted to take, such as reading and writing files, communicating over the internet, or accessing your camera, microphone, and other connected devices.
 And since they rely on the native frameworks of the system, they tend to be quite compact (a few megabytes compressed), and so are quicker to download and launch than a typical web app.
@@ -97,13 +97,13 @@ bash -c "$(curl -fsSL https://appfair.net/install.sh)"
 ```
 
 Both of these commands will download the latest release zip and install it directly into your `/Applications/` folder.
-From there, you can launch the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser application to start searching for apps to install.
+From there, you can launch the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application to start searching for apps to install.
  
 ### App Fair Usage
 
 <img align="right" width="50%" alt="App Fair Browser App Preferences" src="assets/app-fair-prefs.png" />
 
-Apps that are installed by <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> are placed in `/Applications/App Fair/`.
+Apps that are installed by <a href="https://appfair.app" target="_blank">`App Fair.app`</a> are placed in `/Applications/App Fair/`.
 From there, they can be un-installed using the catalog app itself, or they can be removed using the standard macOS method of dragging the app icon into the trash.
 
 The App Fair catalog browser has preferences for the user's "Risk Exposure", which is a threshold of app permissions that will be presented to the user. Apps distributed through the App Fair are required to enumerate all the sensitive actions that they can perform, such as reading and writing files outside of the app's "sandbox", as well as accessing the internet or using the microphone or camera. 
@@ -146,7 +146,7 @@ The "Fork" and "Apply" parts are handled by you, the developer: a fork is create
 Once you enable GitHub actions for your fork, your app will be automatically built and released whenever you push a semantic version tag to your fork's repository.
 Since this fork is under the control of the developer, the fork is considered "untrusted", in that the app binary artifact that is built and released has no security or safety guarantees.
 
-In order to be included in the App Fair catalog (and thus be discoverable and installable in the the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser app), the fork's release must be independently built and the results be verified as reproducible by the trusted base repository.
+In order to be included in the App Fair catalog (and thus be discoverable and installable in the the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser app), the fork's release must be independently built and the results be verified as reproducible by the trusted base repository.
 This process is initiated by the fork's developer, who signals their desire to validate the release by creating a pull request (PR) from the fork's `/App.git` repository back to the base `/appfair/App.git` repository.
 
 The creation of the PR for the base `/appfair/App.git` repository will trigger the integrate process, which will verify and re-build the app's release in the trusted environment of the base fair-ground.
@@ -159,12 +159,12 @@ This hash is known as the `fairseal` for the app, and is used by the catalog bro
 
 The final phase of the process is the "release", which is where the online catalog of App Fair apps is updated to include the newly built and verified forked app.
 The online catalog lists the most recently verified published release artifacts for all the public forks of the base repository.
-Once the fairseal has been generated for the app, it will be available for browsing and installing using the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser app)
+Once the fairseal has been generated for the app, it will be available for browsing and installing using the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser app)
 
 ### Fair app development
 
 From an App developer standpoint, an App Fair app is a Swift application that is defined by a Swift Package Manager `Package.swift` file, and that uses of two source code repositories: *Fair.git* and *App.git*:
- - [https://github.com/appfair/App.git](https://github.com/appfair/App.git) is the repository that is forked to create a new  App Fair app; PRs submitted to this repository are automatically built and released to the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog.
+ - [https://github.com/appfair/App.git](https://github.com/appfair/App.git) is the repository that is forked to create a new  App Fair app; PRs submitted to this repository are automatically built and released to the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog.
  - [https://fair-ground.org/Fair.git](https://fair-ground.org/Fair.git) is the runtime `SwiftUI` library that is included in every App Fair project, and acts as a sandboxed container within which your application is run. The `Fair` library is the sole required dependency for your app's `Package.swift` manifest.
 
 
@@ -174,7 +174,7 @@ From an App developer standpoint, an App Fair app is a Swift application that is
 
 Your App's name is represented uniquely by a GitHub Organization, so the first step is to [create a new free organization](https://github.com/account/organizations/new). 
 The App's organization name must be one or more words consisting of 3-12 letters from the Roman alphabet in upper or lower case (A–Z, a–z), with multiple words separated by a hyphen (e.g., "App-Fair").
-For example, the GitHub organization for the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser application itself is [https://github.com/App-Fair/](https://github.com/App-Fair/).
+For example, the GitHub organization for the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application itself is [https://github.com/App-Fair/](https://github.com/App-Fair/).
 
 Your app organization can be structured however you want, and can consist of a team of as few or as many as you like. 
 You can manage, create and distribute multiple apps by creating multiple separate uniquely-named organizations.
@@ -318,7 +318,7 @@ For an example, see the base [Info.plist](https://github.com/appfair/App/blob/ma
 The presence of the `FairUsage` key is enforced by the `Integration` phase.
 These descriptions should be plain language explaining why the app needs access to the specific permissions.
 
-The descriptions will be presented to the user via the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser, and the user will need to confirm that the app should be granted these permissions.
+The descriptions will be presented to the user via the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser, and the user will need to confirm that the app should be granted these permissions.
 The apps may periodically remind the users of the permissions that have been granted to the app, and re-confirm with the user whether the app may continue to be granted the permissions.
 This is in addition to automatic confirmations and re-confirmations that the host OS may present to the user over time.
 
@@ -343,7 +343,7 @@ The developer has complete control over their app's own releases, and they can a
 
 ### Release Artifacts
 
-The `/App.git` fork's `/releases` page contain all the releases of the app that will be available to the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser.
+The `/App.git` fork's `/releases` page contain all the releases of the app that will be available to the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser.
 The artifacts contain the application binaries that will be installed on the end-user's device.
 
 The release artifacts also include a number of other metadata related to the app:
@@ -374,7 +374,7 @@ After validating that the organization is valid (issues and discussions enabled,
 If the app passes validation and is built successfully, the resulting release artifacts are then compared to the release artifacts that were built and released in the `/App.git`'s forked repository.
 If these release artifacts match the artifacts from the `/App.git`'s forked repository's release, then the fork's artifacts will be considered "trusted", and the base fair-ground will publish the `fairseal` (a SHA-256 hash of the fork's validated release artifact) for that fork's release, thereby making it eligible for inclusion in the fair-ground's catalog.
 
-The <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser will validate that any app that it downloads has a valid `fairseal`, which demonstrates that the app that was downloaded is exactly the same as the app that passed the validation process.
+The <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser will validate that any app that it downloads has a valid `fairseal`, which demonstrates that the app that was downloaded is exactly the same as the app that passed the validation process.
 
 Once this process has been completed for an initial release of the app, the pull request can either be closed or left open.
 The decision of which to do is up to the developer, and the choice has the following effects:
@@ -457,7 +457,7 @@ If these files are added to the `Assets.xcassets/AppIcon.appiconset/` asset cata
 
 ### App Screenshots
 
-Screenshots for your app that are saved to your `docs/screenshots/` folder will be automatically included in both the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog entry for the app, as well as your app's landing page at `https://<your organization name>.github.io/App`.
+Screenshots for your app that are saved to your `docs/screenshots/` folder will be automatically included in both the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog entry for the app, as well as your app's landing page at `https://<your organization name>.github.io/App`.
 
 Screenshots should be named: `screenshot_[01]-[device]-[mode]-[width]x[height]@[scale].png`, where `[device]` is `mac`, `iphone`, or `ipad` and `[mode]` is either `light` or `dark`. The width and height are not constrained, so you can display any shape of window.
 
@@ -475,7 +475,7 @@ The catalog is automatically re-generated after each successful `integrate-relea
 
 ### Org Requirements
 
-In order for an organization's `/App-Name/App.git` project to be visible in the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog, it must be a public organization with at least one public member. 
+In order for an organization's `/App-Name/App.git` project to be visible in the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog, it must be a public organization with at least one public member. 
 The organization must have a repository (or redirection) named "App" (literally), which must be a fork of the [appfair/App.git](https://github.com/appfair/App.git) repository.
 In addition, the repository must have issues and discussions enabled, and also must be public and un-archived.
 Finally, the `App-Name` organization's public contact must be a valid e-mail address associated with the GitHub user that creates releases for the project.
@@ -493,7 +493,7 @@ The App/Fair release process doesn't perform any validation of the licenses of a
 The App Fair "catalog" is a static JSON file located at [https://www.appfair.net/fairapps.json](https://www.appfair.net/fairapps.json).
 This catalog file is re-generated by the `appfairbot` process after each successful release by using the `fairtool`'s `catalog` operation.
 
-The catalog JSON is downloaded by the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser application, and can be used by other catalog apps that conform to the same format.
+The catalog JSON is downloaded by the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application, and can be used by other catalog apps that conform to the same format.
 
 An example of a single app entry in the catalog JSON follows.
 
@@ -542,7 +542,7 @@ The full structure of the `fairapps.json` file is:
 
 ### Homebrew Cask
 
-In addition to the JSON catalog format used by <a href="https://app-fair.app" target="_blank">`App Fair.app`</a>, a "Cask" for each app is generated and pushed to [https://github.com/appfair/homebrew-app/tree/main/Casks](https://github.com/appfair/homebrew-app/tree/main/Casks).
+In addition to the JSON catalog format used by <a href="https://appfair.app" target="_blank">`App Fair.app`</a>, a "Cask" for each app is generated and pushed to [https://github.com/appfair/homebrew-app/tree/main/Casks](https://github.com/appfair/homebrew-app/tree/main/Casks).
 This enables any app to be installed (and un-installed) using the [homebrew](https://brew.sh) package manager using the following and replacing "app-name" with the lower-case hyphen-separated name of your app:
 
 ```shell
@@ -559,18 +559,18 @@ Apps installed using `brew install` are placed in the same
 `App Fair` sub-folder of the `Applications` folder, and
 can continue to be managed by the App Fair catalog browser.
 
-Note, though, that <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> does not use the
+Note, though, that <a href="https://appfair.app" target="_blank">`App Fair.app`</a> does not use the
 Homebrew database, so apps added or removed will not be
 tracked by Homebrew, which may result in `brew upgrade`
 becoming confused if apps it installs are then upgraded
-by the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a>.
+by the <a href="https://appfair.app" target="_blank">`App Fair.app`</a>.
 
 In addition, switching between stable and pre-release
 versions of apps will require first un-installing
 the alternate version, since `Homebrew` will not know
 that the two different forms of the app are releated.
 
-Issues between Homebrew and <a href="https://app-fair.app" target="_blank">`App Fair.app`</a>
+Issues between Homebrew and <a href="https://appfair.app" target="_blank">`App Fair.app`</a>
 can often be mitigated with the `--force` flag to the `brew command`.
 
 # Principles of the App Fair
@@ -705,7 +705,7 @@ Storing apps in a sub-folder of the standard `/Applications/` folder prevents na
 
 ### Can I revert to an older version of an app?
 
-When <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> installs an update to an existing app, it will place the older version in the user's Trash. 
+When <a href="https://appfair.app" target="_blank">`App Fair.app`</a> installs an update to an existing app, it will place the older version in the user's Trash. 
 As long as the trash remains un-emptied, the previous version of the app will continue to be available to drag back into the `/Applications/App Fair/` folder.
 The App Fair catalog itself only references the most recent version of an app, so you must rely on your own backups (or contact the author of the app) for older versions.
 Older releases may additionally be available from the archives saved from the [appfair/App/actions](https://github.com/appfair/App/actions) history; these are typically available for a short time after the release has been created. 
@@ -724,10 +724,10 @@ brew uninstall app-name
 
 ### Should I use `App Fair.app` or homebrew to install and manage App Fair apps?
 
-Both `brew` and the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser do the same thing: they download and install App Fair apps in the `/Applications/App Fair/` folder. 
+Both `brew` and the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser do the same thing: they download and install App Fair apps in the `/Applications/App Fair/` folder. 
 They also allow you to un-install and view information about the individual apps.
 
-The <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser application, being a tool with a graphical user interface, is generally easier for users to use to browse, discover, and appraise apps.
+The <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application, being a tool with a graphical user interface, is generally easier for users to use to browse, discover, and appraise apps.
 It also provides detailed security information about the app's entitlements, which gives user more information to determine whether or not an app might be suitable for their system.
 
 Homebrew's `brew` command, on the other hand, may be preferred by system administrators and other power users who prefer to install and manage applications from the command-line.
@@ -1010,7 +1010,7 @@ You must have a valid e-mail address configured in your list of keys in your [GP
 ### Can I distribute my app using other distribution channels?
 
 You have complete control over how you distribute your App Fair apps.
-Your app's binary package can be hosted as a direct download on your web site, which avoids the need for users to install homebrew or the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser application in order to use your app.
+Your app's binary package can be hosted as a direct download on your web site, which avoids the need for users to install homebrew or the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application in order to use your app.
 
 Note, however, that since the app is not "notarized" by default, any direct download will require the user to perform some manual steps in order to launch the app: on macOS, they must right-click (or command-click) on the `.app` file and select "Open…" and accept a warning dialog.
 The user must do this **twice** in order to run the app when it has been downloaded directly from a web site.
@@ -1019,7 +1019,7 @@ Notarization can be configured on an individual per-fork basis using secrets tha
 
 ### How can I monetize my app?
 
-Apps available through the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser application are always free to download and use.
+Apps available through the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application are always free to download and use.
 Activating GitHub sponsorships will enable your organization to accept financial contributions to your project.
 When sponsorships are enabled, your app's container will automatically add a Help menu link to the sponsorship service.
 
@@ -1032,9 +1032,9 @@ Note, however, if you have already published multiple releases of the same app, 
 This is a feature that allows you to pull the latest release of your app while still keeping a version of your app available in the catalog.
 It does mean, however, that if you want to remove your app from the catalog by hiding or removing releases, you will need to hide or remove *all* the releases that you have published in order to prevent the app from appearing in the catalog.
 
-The simplest way to remove your entire app from showing up in the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog is to mark your repository or organization as "private", or else archive (or delete) your organization's `/App-Name/App.git` fork.
+The simplest way to remove your entire app from showing up in the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog is to mark your repository or organization as "private", or else archive (or delete) your organization's `/App-Name/App.git` fork.
 
-In addition, disabling issues or discussions for your `/App-Name/App.git` fork will also have the result of making your app no longer appear as a valid installation candidate in the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog.
+In addition, disabling issues or discussions for your `/App-Name/App.git` fork will also have the result of making your app no longer appear as a valid installation candidate in the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog.
 Since discussions and issues are required in order to provide users with a channel for questions and communications, disabling either of these features will remove these apps from the catalog the next time it is generated.
 
 ### How can I have someone else's app removed from the App Fair?
@@ -1042,11 +1042,11 @@ Since discussions and issues are required in order to provide users with a chann
 As the App Fair's `integrate-release` process is automatic, there is no mechanism for direct management of, or intervention in, the app release process. 
 Each app that is listed in that app's GitHub repository, which is required to have issues and discussions enabled.
 You can use these forums to contact the developer(s) of the app.
-Organizations that are removed from GitHub will have the effect of removing that organization's app from being visible or installable from the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog.
+Organizations that are removed from GitHub will have the effect of removing that organization's app from being visible or installable from the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog.
 
 ### What platforms do App Fair apps support?
 
-The integration phase of the App Fair builds and packages all apps for both macOS and iOS, but the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser is currently only available for macOS 12 on ARM and Intel processors.
+The integration phase of the App Fair builds and packages all apps for both macOS and iOS, but the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser is currently only available for macOS 12 on ARM and Intel processors.
 
 ### Can the `.ipa` release artifacts be side-loaded on iOS devices?
 
@@ -1072,7 +1072,7 @@ No. Only macOS and iOS builds are currently supported.
 
 ### Can I use App Fair release artifacts with other distribution channels?
 
-The binaries created by the `integrate-release` phase are standard `.zip` and `.ipa` archives and are suitable for distributing via any compatible app distribution mechanism such as homebrew, the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser application, or simply dragging-and-dropping into a folder.
+The binaries created by the `integrate-release` phase are standard `.zip` and `.ipa` archives and are suitable for distributing via any compatible app distribution mechanism such as homebrew, the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application, or simply dragging-and-dropping into a folder.
 
 ### Which native frameworks will my app be able to use?
 
@@ -1116,7 +1116,7 @@ Since they use the built-in native frameworks included with the host OS, App Fai
 
 No.
 There is no auto-updating feature in the App Fair.
-App updates must be installed manually and individually from the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser application.
+App updates must be installed manually and individually from the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser application.
 Any changes in entitlements or other security features will require explicit consent from the user before an upgrade will take place.
 
 ### Can I have multiple versions of an app released simultaneously?
@@ -1381,7 +1381,7 @@ Note, though, that your own repository's fork will come with the `.github/workfl
 
 ### What is the License for the App Fair project?
 
-Both the [appfair/Fair.git](https://fair-ground.org/Fair.git) and [appfair/App.git](https://github.com/appfair/App.git) projects, as well as all forks thereof (including the <a href="https://app-fair.app" target="_blank">`App Fair.app`</a> catalog browser app), are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html).
+Both the [appfair/Fair.git](https://fair-ground.org/Fair.git) and [appfair/App.git](https://github.com/appfair/App.git) projects, as well as all forks thereof (including the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser app), are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html).
 
 ### Is my app code required to use the AGPL?
 

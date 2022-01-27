@@ -8,13 +8,13 @@
       ],
       "coreSize" : 153056,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/App-Fair-macOS.zip",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/App-Fair.png",
-      "impressionCount" : 30,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.169/App-Fair-macOS.zip",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.169/App-Fair.png",
+      "impressionCount" : 0,
       "issueCount" : 1,
       "localizedDescription" : "The App Fair Catalog Browser",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.169/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -38,25 +38,26 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.168/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.169/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.168/screenshot_01-mac-2484x1742.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.168/screenshot_02-mac-dark-2436x1708.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.168/screenshot_02-mac-light-2436x1708.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.168/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.168/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.168/screenshot_05-mac-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.168/screenshot_06-mac-1424x1426.png"
+        "https://github.com/App-Fair/App/releases/download/0.7.169/screenshot_01-mac-2484x1742.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.169/screenshot_02-mac-dark-2436x1708.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.169/screenshot_02-mac-light-2436x1708.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.169/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.169/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.169/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.169/screenshot_06-mac-1424x1426.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.169/screenshot_05-mac-light-1424x1038.png"
       ],
-      "sha256" : "a9d51ef29f9bb84d39c8fc1475daf92651579e31add36e703842bf80ff42812c",
-      "size" : 3352492,
+      "sha256" : "d2df13ac060bd4b03adfe5f6941020d4ee58c1294c2a03734120b153b38bcd82",
+      "size" : 3358114,
       "starCount" : 0,
       "subtitle" : "The App Fair Catalog Browser",
       "tintColor" : "1594E8",
-      "version" : "0.7.168",
-      "versionDate" : "2022-01-26T15:01:26Z",
-      "versionDescription" : "Release 0.7.168",
-      "viewCount" : 4,
+      "version" : "0.7.169",
+      "versionDate" : "2022-01-27T14:42:03Z",
+      "versionDescription" : "Release 0.7.169",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -70,7 +71,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
-      "impressionCount" : 56,
+      "impressionCount" : 62,
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -149,7 +150,7 @@
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 77,
+      "impressionCount" : 84,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -168,7 +169,7 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-23T23:13:56Z",
       "versionDescription" : "Release 0.0.4",
-      "viewCount" : 15,
+      "viewCount" : 17,
       "watcherCount" : 0
     },
     {
@@ -318,7 +319,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove-macOS.zip",
       "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
-      "impressionCount" : 79,
+      "impressionCount" : 80,
       "issueCount" : 0,
       "localizedDescription" : "There, I fixed the web for you. You're welcome.",
       "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -601,7 +602,7 @@
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res-macOS.zip",
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res.png",
-      "impressionCount" : 68,
+      "impressionCount" : 75,
       "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
       "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -621,7 +622,7 @@
       "version" : "0.0.17",
       "versionDate" : "2022-01-24T04:09:17Z",
       "versionDescription" : "Release 0.0.17",
-      "viewCount" : 13,
+      "viewCount" : 15,
       "watcherCount" : 0
     },
     {
@@ -635,7 +636,7 @@
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector-macOS.zip",
       "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector.png",
-      "impressionCount" : 53,
+      "impressionCount" : 60,
       "issueCount" : 0,
       "localizedDescription" : "A vector drawing app",
       "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -655,7 +656,7 @@
       "version" : "0.0.8",
       "versionDate" : "2022-01-24T23:35:02Z",
       "versionDescription" : "Release 0.0.8",
-      "viewCount" : 8,
+      "viewCount" : 10,
       "watcherCount" : 0
     },
     {
@@ -669,7 +670,7 @@
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense-macOS.zip",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense.png",
-      "impressionCount" : 40,
+      "impressionCount" : 47,
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -689,7 +690,7 @@
       "version" : "0.0.23",
       "versionDate" : "2022-01-24T04:09:31Z",
       "versionDescription" : "Release 0.0.23",
-      "viewCount" : 13,
+      "viewCount" : 15,
       "watcherCount" : 0
     },
     {
@@ -703,7 +704,7 @@
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip.png",
-      "impressionCount" : 450,
+      "impressionCount" : 456,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
@@ -722,7 +723,7 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-10T00:38:53Z",
       "versionDescription" : "Release 0.0.5",
-      "viewCount" : 70,
+      "viewCount" : 71,
       "watcherCount" : 0
     },
     {
@@ -901,7 +902,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero-macOS.zip",
       "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero.png",
-      "impressionCount" : 45,
+      "impressionCount" : 52,
       "issueCount" : 0,
       "localizedDescription" : "Query Like a Boss",
       "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/Info.plist#f4f5af5e949181c450648183357dc49105d946769ffbc87050c930326d2ff8c5",
@@ -932,7 +933,7 @@
       "version" : "0.0.8",
       "versionDate" : "2022-01-24T23:34:42Z",
       "versionDescription" : "Release 0.0.8",
-      "viewCount" : 7,
+      "viewCount" : 9,
       "watcherCount" : 0
     },
     {
@@ -946,7 +947,7 @@
       "downloadCount" : 9,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues-macOS.zip",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues.png",
-      "impressionCount" : 13,
+      "impressionCount" : 20,
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -967,7 +968,7 @@
       "version" : "0.0.39",
       "versionDate" : "2022-01-26T22:14:31Z",
       "versionDescription" : "Release 0.0.39",
-      "viewCount" : 7,
+      "viewCount" : 9,
       "watcherCount" : 0
     },
     {
@@ -981,7 +982,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points-macOS.zip",
       "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points.png",
-      "impressionCount" : 50,
+      "impressionCount" : 57,
       "issueCount" : 0,
       "localizedDescription" : "UX Design Tool",
       "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1001,7 +1002,7 @@
       "version" : "0.0.6",
       "versionDate" : "2022-01-24T01:59:22Z",
       "versionDescription" : "Release 0.0.6",
-      "viewCount" : 13,
+      "viewCount" : 15,
       "watcherCount" : 0
     },
     {
@@ -1194,7 +1195,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.7/Tweet-Storm-macOS.zip",
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.7/Tweet-Storm.png",
-      "impressionCount" : 13,
+      "impressionCount" : 20,
       "issueCount" : 0,
       "localizedDescription" : "Unleash your inner dialog",
       "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.7/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
@@ -1213,7 +1214,7 @@
       "version" : "0.0.7",
       "versionDate" : "2022-01-26T22:14:00Z",
       "versionDescription" : "Release 0.0.7",
-      "viewCount" : 5,
+      "viewCount" : 7,
       "watcherCount" : 0
     },
     {
@@ -1362,7 +1363,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-macOS.zip",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
-      "impressionCount" : 67,
+      "impressionCount" : 73,
       "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
       "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",

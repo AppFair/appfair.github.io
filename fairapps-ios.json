@@ -11,7 +11,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
-      "impressionCount" : 56,
+      "impressionCount" : 62,
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -89,7 +89,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-iOS.ipa",
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 77,
+      "impressionCount" : 84,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -108,7 +108,7 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-23T23:13:56Z",
       "versionDescription" : "Release 0.0.4",
-      "viewCount" : 15,
+      "viewCount" : 17,
       "watcherCount" : 0
     },
     {
@@ -224,7 +224,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove-iOS.ipa",
       "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
-      "impressionCount" : 79,
+      "impressionCount" : 80,
       "issueCount" : 0,
       "localizedDescription" : "There, I fixed the web for you. You're welcome.",
       "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -435,7 +435,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res-iOS.ipa",
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res.png",
-      "impressionCount" : 68,
+      "impressionCount" : 75,
       "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
       "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -454,7 +454,7 @@
       "version" : "0.0.17",
       "versionDate" : "2022-01-24T04:09:17Z",
       "versionDescription" : "Release 0.0.17",
-      "viewCount" : 13,
+      "viewCount" : 15,
       "watcherCount" : 0
     },
     {
@@ -468,7 +468,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense-iOS.ipa",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense.png",
-      "impressionCount" : 40,
+      "impressionCount" : 47,
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -487,7 +487,7 @@
       "version" : "0.0.23",
       "versionDate" : "2022-01-24T04:09:31Z",
       "versionDescription" : "Release 0.0.23",
-      "viewCount" : 13,
+      "viewCount" : 15,
       "watcherCount" : 0
     },
     {
@@ -501,7 +501,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip-iOS.ipa",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip.png",
-      "impressionCount" : 450,
+      "impressionCount" : 456,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
@@ -520,7 +520,7 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-10T00:38:53Z",
       "versionDescription" : "Release 0.0.5",
-      "viewCount" : 70,
+      "viewCount" : 71,
       "watcherCount" : 0
     },
     {
@@ -708,7 +708,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues-iOS.ipa",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues.png",
-      "impressionCount" : 13,
+      "impressionCount" : 20,
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -727,7 +727,7 @@
       "version" : "0.0.39",
       "versionDate" : "2022-01-26T22:14:31Z",
       "versionDescription" : "Release 0.0.39",
-      "viewCount" : 7,
+      "viewCount" : 9,
       "watcherCount" : 0
     },
     {
@@ -918,7 +918,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.7/Tweet-Storm-iOS.ipa",
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.7/Tweet-Storm.png",
-      "impressionCount" : 13,
+      "impressionCount" : 20,
       "issueCount" : 0,
       "localizedDescription" : "Unleash your inner dialog",
       "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.7/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
@@ -937,7 +937,7 @@
       "version" : "0.0.7",
       "versionDate" : "2022-01-26T22:14:00Z",
       "versionDescription" : "Release 0.0.7",
-      "viewCount" : 5,
+      "viewCount" : 7,
       "watcherCount" : 0
     },
     {
@@ -1083,7 +1083,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-iOS.ipa",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
-      "impressionCount" : 67,
+      "impressionCount" : 73,
       "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
       "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",

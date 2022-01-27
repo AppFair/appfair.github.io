@@ -20,17 +20,17 @@ This is a guide for the development and publication of your own app on the App F
 Anyone can create and publish their own app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time. At the end of this Quick Start guide, you will have your own app published and available through the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser.
 
   1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). 
-  * The name of the organization is the name of your app, so you'll need to choose a new unique name. 
+  * The name of the organization is the name of your app, so you'll need to choose a new unique name.
   * The name can be easily changed later, so just pick the first available name that comes to mind.
-  2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created. 
+  2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created.
   * It must be forked into an organization, rather than into your personal account, since the app's name is defined by its containing organization.
-  3. In your new `/App` repository fork, select the **`Settings`** tab and follow the **`Pages`** settings link on the left. 
-  * Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**. 
+  3. In your new `/App` repository fork, select the **`Settings`** tab and follow the **`Pages`** settings link on the left.
+  * Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**.
   * This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
-  4. Select the **`Settings`** tab's **`General`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area. 
+  4. Select the **`Settings`** tab's **`General`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area.
   * These community features are required for the app to be included in the App Fair catalog.
-  5. Select the **`Actions`** tab and then select the “`Configure App`” workflow on the left. 
-  * Expand the **Run workflow** drop-down, set the version to "_0.0.1_", then hit **Run workflow**. 
+  5. Select the **`Actions`** tab and then select the “`Configure App`” workflow on the left.
+  * Expand the **Run workflow** drop-down, set the version to "_0.0.1_", then hit **Run workflow**.
   * Wait a couple minutes for the action to complete: the yellow dot should turn green, indicating that the workflow ran successfully.
   * Common mis-configurations will be indicated by a red dot; the log for the workflow run will indicate the cause of the issue.
   6. Select the **`Code`** tab and follow the _`Releases`_ link (on the right side of the page). 
@@ -44,7 +44,7 @@ Anyone can create and publish their own app on the App Fair, for free, using onl
   * On the next page, hit the **Create Pull Request** button. 
   * The `Title` field must be the name and version of the app (e.g., "My App Name 0.0.1"). The body can be left empty. 
   * Hit the **Create Pull Request** button.
-  9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow to complete successfully.
+  9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow run to complete successfully.
   * This process creates, scans, and validates a reproducible build of your app's binary artifact in a trusted environment.
   * It should take around 10 minutes.
   10. Your app will soon be listed in the [recent apps](https://www.appfair.net/fairapps-macos) catalog, indicating that it has been published successfully.

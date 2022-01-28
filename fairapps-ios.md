@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.18``](https://github.com/Cloud-Cuckoo/App/releases/0.9.18) | `0` | `0` | `1` | `6 MB` | `1` | `0` | `2022-01-28T00:23:27Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.39``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.39) | `41` | `13` | `2` | `1.46 GB` | `0` | `0` | `2022-01-26T22:14:31Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.7``](https://github.com/Tweet-Storm/App/releases/0.0.7) | `42` | `8` | `3` | `6.2 MB` | `0` | `0` | `2022-01-26T22:14:00Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.38β``](https://github.com/Hear-Tell/App/releases/0.3.38) | `23` | `6` | `1` | `5.9 MB` | `0` | `0` | `2022-01-26T22:12:32Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |
@@ -30,7 +31,6 @@ tr:nth-child(even) {
 | [`Down Town`](https://Down-Town.github.io/App/) | [``0.0.3``](https://github.com/Down-Town/App/releases/0.0.3) | `40` | `6` | `2` | `6 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | [``0.0.5``](https://github.com/Unclear-Purpose/App/releases/0.0.5) | `35` | `6` | `2` | `5.9 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.13``](https://github.com/Hex-Loupe/App/releases/0.0.13) | `75` | `10` | `2` | `6 MB` | `0` | `0` | `2022-01-24T23:39:49Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.15``](https://github.com/Cloud-Cuckoo/App/releases/0.9.15) | `47` | `8` | `1` | `6 MB` | `1` | `0` | `2022-01-24T16:40:05Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`SQL Hero`](https://SQL-Hero.github.io/App/) | [``0.0.3``](https://github.com/SQL-Hero/App/releases/0.0.3) | `3` | `2` | `2` | `6.1 MB` | `0` | `0` | `2022-01-24T16:11:25Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Yankee Swap`](https://Yankee-Swap.github.io/App/) | [``0.0.11``](https://github.com/Yankee-Swap/App/releases/0.0.11) | `95` | `8` | `1` | `6 MB` | `0` | `0` | `2022-01-24T14:24:10Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Main Course`](https://Main-Course.github.io/App/) | [``0.0.15``](https://github.com/Main-Course/App/releases/0.0.15) | `71` | `7` | `1` | `18.9 MB` | `0` | `0` | `2022-01-24T14:09:10Z` | [`education`](https://github.com/topics/appfair-education)  |

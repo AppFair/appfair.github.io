@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.179β``](https://github.com/App-Fair/App/releases/0.7.179) | `0` | `0` | `1` | `3.4 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-01-28T22:20:46Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.179β``](https://github.com/App-Fair/App/releases/0.7.179) | `1` | `1` | `2` | `3.4 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-01-28T22:20:46Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.175``](https://github.com/App-Fair/App/releases/0.7.175) | `3` | `1` | `2` | `3.3 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-01-28T18:55:11Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.18``](https://github.com/Cloud-Cuckoo/App/releases/0.9.18) | `22` | `4` | `4` | `2.4 MB` | `1` | `0` | `2022-01-28T00:23:27Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Eternal September`](https://Eternal-September.github.io/App/) | [``0.0.32``](https://github.com/Eternal-September/App/releases/0.0.32) | `21` | `2` | `2` | `2.5 MB` | `0` | `0` | `2022-01-26T22:20:37Z` | [`education`](https://github.com/topics/appfair-education)  |

@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.180``](https://github.com/App-Fair/App/releases/0.7.180) | `3` | `2` | `7` | `3.4 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-01-28T23:27:18Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.180``](https://github.com/App-Fair/App/releases/0.7.180) | `4` | `2` | `7` | `3.4 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-01-28T23:27:18Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.18``](https://github.com/Cloud-Cuckoo/App/releases/0.9.18) | `24` | `4` | `4` | `2.4 MB` | `1` | `0` | `2022-01-28T00:23:27Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Eternal September`](https://Eternal-September.github.io/App/) | [``0.0.32``](https://github.com/Eternal-September/App/releases/0.0.32) | `22` | `2` | `2` | `2.5 MB` | `0` | `0` | `2022-01-26T22:20:37Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.39``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.39) | `82` | `17` | `10` | `1.45 GB` | `0` | `0` | `2022-01-26T22:14:31Z` | [`video`](https://github.com/topics/appfair-video)  |
@@ -57,7 +57,7 @@ tr:nth-child(even) {
 | [`Next Edit`](https://Next-Edit.github.io/App/) | [``0.4.18``](https://github.com/Next-Edit/App/releases/0.4.18) | `84` | `17` | `3` | `6.7 MB` | `0` | `0` | `2022-01-20T03:44:49Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Ultra Light`](https://Ultra-Light.github.io/App/) | [``0.0.5``](https://github.com/Ultra-Light/App/releases/0.0.5) | `43` | `7` | `3` | `2.3 MB` | `0` | `0` | `2022-01-20T03:44:45Z` | [`news`](https://github.com/topics/appfair-news)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.403β``](https://github.com/Tune-Out/App/releases/0.8.403) | `69` | `16` | `2` | `8.4 MB` | `0` | `0` | `2022-01-18T14:58:21Z` | [`music`](https://github.com/topics/appfair-music)  |
-| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.402``](https://github.com/Tune-Out/App/releases/0.8.402) | `76` | `9` | `5` | `8.4 MB` | `0` | `0` | `2022-01-17T18:20:48Z` | [`music`](https://github.com/topics/appfair-music)  |
+| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.402``](https://github.com/Tune-Out/App/releases/0.8.402) | `77` | `9` | `5` | `8.4 MB` | `0` | `0` | `2022-01-17T18:20:48Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.51``](https://github.com/Neural-Scry/App/releases/0.0.51) | `10` | `3` | `2` | `2.3 MB` | `0` | `0` | `2022-01-16T15:48:12Z` | [`medical`](https://github.com/topics/appfair-medical)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.5``](https://github.com/Net-Skip/App/releases/0.0.5) | `517` | `73` | `4` | `2.5 MB` | `0` | `0` | `2022-01-10T00:38:53Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.34``](https://github.com/Hear-Tell/App/releases/0.3.34) | `272` | `47` | `3` | `2.3 MB` | `0` | `0` | `2022-01-10T00:38:44Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |

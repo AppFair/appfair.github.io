@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.180``](https://github.com/App-Fair/App/releases/0.7.180) | `4` | `2` | `7` | `3.4 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-01-28T23:27:18Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.182``](https://github.com/App-Fair/App/releases/0.7.182) | `0` | `0` | `2` | `3.4 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-01-30T20:09:41Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.18``](https://github.com/Cloud-Cuckoo/App/releases/0.9.18) | `24` | `4` | `4` | `2.4 MB` | `1` | `0` | `2022-01-28T00:23:27Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Eternal September`](https://Eternal-September.github.io/App/) | [``0.0.32``](https://github.com/Eternal-September/App/releases/0.0.32) | `22` | `2` | `2` | `2.5 MB` | `0` | `0` | `2022-01-26T22:20:37Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.39``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.39) | `82` | `17` | `10` | `1.45 GB` | `0` | `0` | `2022-01-26T22:14:31Z` | [`video`](https://github.com/topics/appfair-video)  |

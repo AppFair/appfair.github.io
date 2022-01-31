@@ -11,7 +11,7 @@ title: The App Fair
 The App Fair is an autonomous distribution network of free and open-source macOS applications.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, and accessibility.
 
-The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey that can be downloaded from [https://appfair.app](https://appfair.app).
+The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey that can be downloaded from [appfair.app](https://appfair.app).
 
 This is a guide for the development and publication of your own app on the App Fair catalog. It assumes some familiarity with GitHub.
 

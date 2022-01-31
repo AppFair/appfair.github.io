@@ -8,12 +8,12 @@ title: The App Fair
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 
-The App Fair is an autonomous distribution platform for free and open-source macOS applications.
+The App Fair is an autonomous distribution network of free and open-source macOS applications.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, and accessibility.
 
 The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey that can be downloaded from [https://appfair.app](https://appfair.app).
 
-This is a guide for the development and publication of your own app on the App Fair catalog. It assumes some familiarity with GitHub and SwiftUI.
+This is a guide for the development and publication of your own app on the App Fair catalog. It assumes some familiarity with GitHub.
 
 ## Quick Start
 

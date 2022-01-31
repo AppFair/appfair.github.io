@@ -126,23 +126,6 @@ echo " Success!"
 
 echo ""
 
-if [ ! -d "/opt/homebrew" -a ! -d "/usr/local/Homebrew" ]; then
-    echo ""
-    echo "  The App Fair integrates with the Homebrew Cask catalog"
-    echo "  It can be installed by running:"
-    echo '     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)'
-    echo ""
-    printf "Hit return to proceed (or CMD-C to quit): "
-    await_return
-
-    # install as per https://brew.sh
-    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-fi
-
-
-echo ""
-
 echo "The ${FAIR_GROUND} is now installed in ${APP_PATH}"
 printf "Hit return to launch the app (or CMD-C to exit): "
 await_return

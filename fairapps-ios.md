@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.404``](https://github.com/Tune-Out/App/releases/0.8.404) | `2` | `1` | `1` | `16 MB` | `0` | `0` | `2022-01-30T23:11:36Z` | [`music`](https://github.com/topics/appfair-music)  |
+| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.404``](https://github.com/Tune-Out/App/releases/0.8.404) | `3` | `1` | `1` | `16 MB` | `0` | `0` | `2022-01-30T23:11:36Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.18``](https://github.com/Cloud-Cuckoo/App/releases/0.9.18) | `27` | `5` | `2` | `6 MB` | `1` | `0` | `2022-01-28T00:23:27Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.39``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.39) | `85` | `19` | `2` | `1.46 GB` | `0` | `0` | `2022-01-26T22:14:31Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.7``](https://github.com/Tweet-Storm/App/releases/0.0.7) | `90` | `13` | `3` | `6.2 MB` | `0` | `0` | `2022-01-26T22:14:00Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |

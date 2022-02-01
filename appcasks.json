@@ -1,0 +1,37 @@
+{
+  "apps" : [
+    {
+      "beta" : false,
+      "bundleIdentifier" : "iterm2",
+      "categories" : [
+
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "This is the _iTerm2_ app.",
+      "name" : "iterm2",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/iterm2/screenshot_01-mac-1364x1174.png",
+        "https://github.com/App-Fair/appcasks/releases/download/iterm2/screenshot_02-mac-1364x1308.png",
+        "https://github.com/App-Fair/appcasks/releases/download/iterm2/screenshot_03-mac-2624x1614.png",
+        "https://github.com/App-Fair/appcasks/releases/download/iterm2/screenshot_04-mac-2232x1332.png",
+        "https://github.com/App-Fair/appcasks/releases/download/iterm2/screenshot_05-mac-1364x1128.png",
+        "https://github.com/App-Fair/appcasks/releases/download/iterm2/screenshot_06-mac-1706x1402.png",
+        "https://github.com/App-Fair/appcasks/releases/download/iterm2/screenshot_07-mac-1694x1054.png",
+        "https://github.com/App-Fair/appcasks/releases/download/iterm2/screenshot_08-mac-1834x1070.png",
+        "https://github.com/App-Fair/appcasks/releases/download/iterm2/screenshot_09-mac-1604x646.png"
+      ],
+      "size" : 18074,
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : "This is the _iTerm2_ app.",
+      "viewCount" : 0
+    }
+  ],
+  "identifier" : "appcasks",
+  "name" : "Cask enhanced metadata",
+  "sourceURL" : "https://www.appfair.net/appcasks.json"
+}

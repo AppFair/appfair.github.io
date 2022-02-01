@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.185``](https://github.com/App-Fair/App/releases/0.7.185) | `0` | `0` | `1` | `3.4 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-01T06:23:46Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.185``](https://github.com/App-Fair/App/releases/0.7.185) | `0` | `0` | `2` | `3.4 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-01T06:23:46Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Red Light Green Light`](https://Red-Light-Green-Light.github.io/App/) | [``0.0.11``](https://github.com/Red-Light-Green-Light/App/releases/0.0.11) | `8` | `3` | `2` | `2.4 MB` | `0` | `0` | `2022-01-30T23:12:47Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.404``](https://github.com/Tune-Out/App/releases/0.8.404) | `10` | `3` | `1` | `8.4 MB` | `0` | `0` | `2022-01-30T23:11:36Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.18``](https://github.com/Cloud-Cuckoo/App/releases/0.9.18) | `33` | `6` | `4` | `2.4 MB` | `1` | `0` | `2022-01-28T00:23:27Z` | [`games`](https://github.com/topics/appfair-games)  |

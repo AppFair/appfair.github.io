@@ -2,15 +2,35 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "firefox",
+      "bundleIdentifier" : "blender",
       "categories" : [
 
       ],
       "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/blender/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/blender/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "",
+      "name" : "blender",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 126896,
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : ""
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "firefox",
+      "categories" : [
+
+      ],
+      "downloadCount" : 6,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
-      "impressionCount" : 0,
+      "impressionCount" : 6,
       "localizedDescription" : "",
       "name" : "firefox",
       "screenshotURLs" : [
@@ -26,11 +46,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 10,
+      "downloadCount" : 17,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 17,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",
@@ -56,11 +76,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 0,
+      "downloadCount" : 7,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/signal/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/signal/AppIcon.png",
-      "impressionCount" : 0,
+      "impressionCount" : 7,
       "localizedDescription" : "From Wikipedia: Signal is a cross-platform centralized encrypted instant messaging service developed by the non-profit Signal Technology Foundation and Signal Messenger LLC. Users can send one-to-one and group messages, which can include files, voice notes, images and videos. It can also be used to make one-to-one and group voice and video calls,[16][17] and the Android version can optionally function as an SMS app.\r\n\r\nSignal uses standard cellular telephone numbers as identifiers and secures all communications to other Signal users with end-to-end encryption. The client software includes mechanisms by which users can independently verify the identity of their contacts and the integrity of the data channel.\r\n\r\nSignal's software is free and open-source. Its mobile clients are published under the GPL-3.0-only license, while the desktop client and server are published under the AGPL-3.0-only license. The official Android app generally uses the proprietary Google Play Services (installed on most Android devices), though it is designed to still work without them installed. Signal also has an official client app for iOS and desktop programs for Windows, macOS and Linux (although registration requires an iOS or Android device).\r\n",
       "name" : "signal",
       "screenshotURLs" : [
@@ -69,6 +89,66 @@
       "size" : 86562,
       "versionDate" : "2022-02-01T01:07:41Z",
       "versionDescription" : "From Wikipedia: Signal is a cross-platform centralized encrypted instant messaging service developed by the non-profit Signal Technology Foundation and Signal Messenger LLC. Users can send one-to-one and group messages, which can include files, voice notes, images and videos. It can also be used to make one-to-one and group voice and video calls,[16][17] and the Android version can optionally function as an SMS app.\r\n\r\nSignal uses standard cellular telephone numbers as identifiers and secures all communications to other Signal users with end-to-end encryption. The client software includes mechanisms by which users can independently verify the identity of their contacts and the integrity of the data channel.\r\n\r\nSignal's software is free and open-source. Its mobile clients are published under the GPL-3.0-only license, while the desktop client and server are published under the AGPL-3.0-only license. The official Android app generally uses the proprietary Google Play Services (installed on most Android devices), though it is designed to still work without them installed. Signal also has an official client app for iOS and desktop programs for Windows, macOS and Linux (although registration requires an iOS or Android device).\r\n"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tableplus",
+      "categories" : [
+
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/tableplus/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/tableplus/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "",
+      "name" : "tableplus",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 8867,
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : ""
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "transmission",
+      "categories" : [
+
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/transmission/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/transmission/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "",
+      "name" : "transmission",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 222323,
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : ""
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "vlc",
+      "categories" : [
+
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "",
+      "name" : "vlc",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 406328,
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : ""
     }
   ],
   "identifier" : "appcasks",

@@ -95,6 +95,13 @@ jobs:
             --index ../appfair.github.io/fairapps-ios.md \
             -o ../appfair.github.io/fairapps-ios.json
 
+          swift run -- fairtool appcasks \
+            --verbose true \
+            --hub github.com/appfair \
+            --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
+            --retry-duration 600 \
+            -o ../appfair.github.io/appcasks.json
+
           cd ..
 
       - name: Update Catalog
@@ -112,6 +119,7 @@ jobs:
           git add fairapps-macos.json
           git add fairapps-ios.md
           git add fairapps-ios.json
+          git add appcasks.json
           git pull -ff
           git commit -m "catalog update" || echo "nothing to commit"
           git push

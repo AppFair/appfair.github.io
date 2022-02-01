@@ -31,11 +31,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 10,
+      "downloadCount" : 11,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 11,
       "localizedDescription" : "",
       "name" : "firefox",
       "screenshotURLs" : [
@@ -51,11 +51,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 22,
+      "downloadCount" : 23,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 22,
+      "impressionCount" : 23,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",

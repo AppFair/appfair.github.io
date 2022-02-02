@@ -31,11 +31,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 35,
+      "downloadCount" : 36,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
-      "impressionCount" : 35,
+      "impressionCount" : 36,
       "localizedDescription" : "",
       "name" : "firefox",
       "screenshotURLs" : [
@@ -51,11 +51,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 7,
+      "downloadCount" : 8,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
-      "impressionCount" : 7,
+      "impressionCount" : 8,
       "localizedDescription" : "",
       "name" : "google-chrome",
       "screenshotURLs" : [
@@ -71,11 +71,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 51,
+      "downloadCount" : 52,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 51,
+      "impressionCount" : 52,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",
@@ -101,11 +101,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 7,
+      "downloadCount" : 8,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
-      "impressionCount" : 7,
+      "impressionCount" : 8,
       "localizedDescription" : "",
       "name" : "microsoft-edge",
       "screenshotURLs" : [
@@ -222,11 +222,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 3,
+      "downloadCount" : 4,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/zoom/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/zoom/AppIcon.png",
-      "impressionCount" : 3,
+      "impressionCount" : 4,
       "localizedDescription" : "",
       "name" : "zoom",
       "screenshotURLs" : [

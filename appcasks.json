@@ -31,11 +31,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 32,
+      "downloadCount" : 33,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
-      "impressionCount" : 32,
+      "impressionCount" : 33,
       "localizedDescription" : "",
       "name" : "firefox",
       "screenshotURLs" : [
@@ -51,11 +51,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 4,
+      "downloadCount" : 5,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
-      "impressionCount" : 4,
+      "impressionCount" : 5,
       "localizedDescription" : "",
       "name" : "google-chrome",
       "screenshotURLs" : [
@@ -71,11 +71,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 48,
+      "downloadCount" : 49,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 48,
+      "impressionCount" : 49,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",
@@ -101,11 +101,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 4,
+      "downloadCount" : 5,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
-      "impressionCount" : 4,
+      "impressionCount" : 5,
       "localizedDescription" : "",
       "name" : "microsoft-edge",
       "screenshotURLs" : [

@@ -6,11 +6,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 20,
+      "downloadCount" : 25,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/blender/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/blender/AppIcon.png",
-      "impressionCount" : 20,
+      "impressionCount" : 25,
       "localizedDescription" : "Blender is the free and open source 3D creation suite. It supports the entirety of the 3D pipeline — modeling, rigging, animation, simulation, rendering, compositing, motion tracking, and video editing.\r\n\r\nBlender is a public project, made by hundreds of people from around the world; by studios and individual artists, professionals and hobbyists, scientists, students, VFX experts, animators, game artists, modders, and the list goes on.\r\n",
       "name" : "blender",
       "screenshotURLs" : [
@@ -27,15 +27,35 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "dbeaver-community",
+      "bundleIdentifier" : "brave-browser",
       "categories" : [
 
       ],
       "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/brave-browser/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/brave-browser/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "",
+      "name" : "brave-browser",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 116978,
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : ""
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "dbeaver-community",
+      "categories" : [
+
+      ],
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/dbeaver-community/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/dbeaver-community/AppIcon.png",
-      "impressionCount" : 0,
+      "impressionCount" : 2,
       "localizedDescription" : "",
       "name" : "dbeaver-community",
       "screenshotURLs" : [
@@ -47,15 +67,35 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "figma",
+      "categories" : [
+
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/figma/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/figma/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "",
+      "name" : "figma",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 761453,
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : ""
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "firefox",
       "categories" : [
 
       ],
-      "downloadCount" : 39,
+      "downloadCount" : 48,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
-      "impressionCount" : 39,
+      "impressionCount" : 48,
       "localizedDescription" : "",
       "name" : "firefox",
       "screenshotURLs" : [
@@ -71,11 +111,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 10,
+      "downloadCount" : 17,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 17,
       "localizedDescription" : "",
       "name" : "google-chrome",
       "screenshotURLs" : [
@@ -91,11 +131,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 55,
+      "downloadCount" : 65,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 55,
+      "impressionCount" : 65,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",
@@ -121,11 +161,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 10,
+      "downloadCount" : 16,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 16,
       "localizedDescription" : "",
       "name" : "microsoft-edge",
       "screenshotURLs" : [
@@ -137,21 +177,41 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "obs",
+      "bundleIdentifier" : "minecraft",
       "categories" : [
 
       ],
       "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/minecraft/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/minecraft/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "",
+      "name" : "",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 85522,
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : ""
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "obs",
+      "categories" : [
+
+      ],
+      "downloadCount" : 5,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/obs/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/obs/AppIcon.png",
-      "impressionCount" : 0,
+      "impressionCount" : 5,
       "localizedDescription" : "",
       "name" : "obs",
       "screenshotURLs" : [
 
       ],
-      "size" : 35306,
+      "size" : 387926,
       "versionDate" : "2022-02-01T01:07:41Z",
       "versionDescription" : ""
     },
@@ -161,11 +221,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 0,
+      "downloadCount" : 10,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
-      "impressionCount" : 0,
+      "impressionCount" : 10,
       "localizedDescription" : "",
       "name" : "postman",
       "screenshotURLs" : [
@@ -181,11 +241,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 23,
+      "downloadCount" : 28,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/signal/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/signal/AppIcon.png",
-      "impressionCount" : 23,
+      "impressionCount" : 28,
       "localizedDescription" : "From Wikipedia: Signal is a cross-platform centralized encrypted instant messaging service developed by the non-profit Signal Technology Foundation and Signal Messenger LLC. Users can send one-to-one and group messages, which can include files, voice notes, images and videos. It can also be used to make one-to-one and group voice and video calls,[16][17] and the Android version can optionally function as an SMS app.\r\n\r\nSignal uses standard cellular telephone numbers as identifiers and secures all communications to other Signal users with end-to-end encryption. The client software includes mechanisms by which users can independently verify the identity of their contacts and the integrity of the data channel.\r\n\r\nSignal's software is free and open-source. Its mobile clients are published under the GPL-3.0-only license, while the desktop client and server are published under the AGPL-3.0-only license. The official Android app generally uses the proprietary Google Play Services (installed on most Android devices), though it is designed to still work without them installed. Signal also has an official client app for iOS and desktop programs for Windows, macOS and Linux (although registration requires an iOS or Android device).\r\n",
       "name" : "signal",
       "screenshotURLs" : [
@@ -201,11 +261,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 0,
+      "downloadCount" : 10,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/spotify/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/spotify/AppIcon.png",
-      "impressionCount" : 0,
+      "impressionCount" : 10,
       "localizedDescription" : "",
       "name" : "spotify",
       "screenshotURLs" : [
@@ -221,11 +281,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 13,
+      "downloadCount" : 18,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/tableplus/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/tableplus/AppIcon.png",
-      "impressionCount" : 13,
+      "impressionCount" : 18,
       "localizedDescription" : "",
       "name" : "tableplus",
       "screenshotURLs" : [
@@ -241,11 +301,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 14,
+      "downloadCount" : 20,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/transmission/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/transmission/AppIcon.png",
-      "impressionCount" : 14,
+      "impressionCount" : 20,
       "localizedDescription" : "",
       "name" : "transmission",
       "screenshotURLs" : [
@@ -261,11 +321,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 20,
+      "downloadCount" : 25,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
-      "impressionCount" : 20,
+      "impressionCount" : 25,
       "localizedDescription" : "",
       "name" : "vlc",
       "screenshotURLs" : [
@@ -281,11 +341,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 6,
+      "downloadCount" : 12,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/xcodes/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/xcodes/AppIcon.png",
-      "impressionCount" : 6,
+      "impressionCount" : 12,
       "localizedDescription" : "",
       "name" : "xcodes",
       "screenshotURLs" : [
@@ -302,11 +362,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 5,
+      "downloadCount" : 9,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/zoom/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/zoom/AppIcon.png",
-      "impressionCount" : 5,
+      "impressionCount" : 9,
       "localizedDescription" : "",
       "name" : "zoom",
       "screenshotURLs" : [

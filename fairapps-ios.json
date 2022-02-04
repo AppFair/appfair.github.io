@@ -11,7 +11,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
-      "impressionCount" : 124,
+      "impressionCount" : 127,
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -38,7 +38,7 @@
       "version" : "0.2.33",
       "versionDate" : "2022-01-24T01:55:01Z",
       "versionDescription" : "Release 0.2.33",
-      "viewCount" : 13,
+      "viewCount" : 14,
       "watcherCount" : 0
     },
     {
@@ -52,7 +52,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.18/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.18/Cloud-Cuckoo.png",
-      "impressionCount" : 44,
+      "impressionCount" : 47,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.18/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -75,7 +75,7 @@
       "version" : "0.9.18",
       "versionDate" : "2022-01-28T00:23:27Z",
       "versionDescription" : "Release 0.9.18",
-      "viewCount" : 8,
+      "viewCount" : 10,
       "watcherCount" : 0
     },
     {
@@ -89,7 +89,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-iOS.ipa",
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 172,
+      "impressionCount" : 175,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -108,7 +108,7 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-23T23:13:56Z",
       "versionDescription" : "Release 0.0.4",
-      "viewCount" : 26,
+      "viewCount" : 27,
       "watcherCount" : 0
     },
     {
@@ -122,7 +122,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-iOS.ipa",
       "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "impressionCount" : 66,
+      "impressionCount" : 69,
       "issueCount" : 0,
       "localizedDescription" : "An urban street guide",
       "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -141,7 +141,7 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:49:11Z",
       "versionDescription" : "Release 0.0.3",
-      "viewCount" : 11,
+      "viewCount" : 12,
       "watcherCount" : 0
     },
     {
@@ -155,7 +155,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica-iOS.ipa",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica.png",
-      "impressionCount" : 80,
+      "impressionCount" : 83,
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
       "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -177,11 +177,11 @@
       "version" : "0.0.32",
       "versionDate" : "2022-01-24T02:35:43Z",
       "versionDescription" : "Release 0.0.32",
-      "viewCount" : 13,
+      "viewCount" : 15,
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Festivus-Pole",
       "categories" : [
         "public.app-category.entertainment"
@@ -191,7 +191,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole-iOS.ipa",
       "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
-      "impressionCount" : 71,
+      "impressionCount" : 74,
       "issueCount" : 0,
       "localizedDescription" : "A true Festivus celebration",
       "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -210,11 +210,11 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-23T23:13:54Z",
       "versionDescription" : "Release 0.0.3",
-      "viewCount" : 13,
+      "viewCount" : 14,
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Fox-Glove",
       "categories" : [
         "public.app-category.utilities"
@@ -224,7 +224,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove-iOS.ipa",
       "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
-      "impressionCount" : 125,
+      "impressionCount" : 128,
       "issueCount" : 0,
       "localizedDescription" : "There, I fixed the web for you. You're welcome.",
       "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -243,7 +243,7 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-23T23:13:52Z",
       "versionDescription" : "Release 0.0.4",
-      "viewCount" : 14,
+      "viewCount" : 15,
       "watcherCount" : 0
     },
     {
@@ -257,7 +257,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell-iOS.ipa",
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell.png",
-      "impressionCount" : 57,
+      "impressionCount" : 58,
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
       "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Info.plist#263a3737ed9d259afbaf4020b17e232339ca0bd4e981a0d8d160ba52476ec460",
@@ -279,43 +279,7 @@
       "version" : "0.3.38",
       "versionDate" : "2022-01-26T22:12:32Z",
       "versionDescription" : "Release 0.3.38",
-      "viewCount" : 12,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hear-Tell",
-      "categories" : [
-        "public.app-category.healthcare-fitness"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell-iOS.ipa",
-      "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Hear-Tell.png",
-      "impressionCount" : 274,
-      "issueCount" : 0,
-      "localizedDescription" : "Identify ambient sounds.",
-      "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/Info.plist#021c4acb1d6c79566c4a74b63a2c6dea94fef96c04558156f1da0d83daa7f0e4",
-      "name" : "Hear Tell",
-      "permissions" : [
-        {
-          "type" : "device.microphone",
-          "usageDescription" : "The microphone is used to process and identify ambient sounds."
-        }
-      ],
-      "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.34/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "36ce41c89395e0193400c519f309057da5310d85b65208374e9f4205f119b63f",
-      "size" : 5839094,
-      "starCount" : 0,
-      "subtitle" : "Identify ambient sounds.",
-      "version" : "0.3.34",
-      "versionDate" : "2022-01-10T00:38:44Z",
-      "versionDescription" : "Release 0.3.34",
-      "viewCount" : 47,
+      "viewCount" : 13,
       "watcherCount" : 0
     },
     {
@@ -329,7 +293,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe-iOS.ipa",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe.png",
-      "impressionCount" : 136,
+      "impressionCount" : 139,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
@@ -352,7 +316,7 @@
       "version" : "0.0.13",
       "versionDate" : "2022-01-24T23:39:49Z",
       "versionDescription" : "Release 0.0.13",
-      "viewCount" : 15,
+      "viewCount" : 17,
       "watcherCount" : 0
     },
     {
@@ -366,7 +330,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion-iOS.ipa",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion.png",
-      "impressionCount" : 48,
+      "impressionCount" : 51,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Info.plist#76f9d948a52cc9c42ed46c99936d3329c9675802a548c3e19557a047992ce020",
@@ -388,11 +352,11 @@
       "version" : "0.0.83",
       "versionDate" : "2022-01-26T12:24:38Z",
       "versionDescription" : "Release 0.0.83",
-      "viewCount" : 8,
+      "viewCount" : 10,
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
         "public.app-category.education"
@@ -402,7 +366,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course-iOS.ipa",
       "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course.png",
-      "impressionCount" : 101,
+      "impressionCount" : 104,
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
       "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -421,7 +385,7 @@
       "version" : "0.0.15",
       "versionDate" : "2022-01-24T14:09:10Z",
       "versionDescription" : "Release 0.0.15",
-      "viewCount" : 10,
+      "viewCount" : 12,
       "watcherCount" : 0
     },
     {
@@ -435,7 +399,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res-iOS.ipa",
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res.png",
-      "impressionCount" : 153,
+      "impressionCount" : 156,
       "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
       "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -454,7 +418,7 @@
       "version" : "0.0.17",
       "versionDate" : "2022-01-24T04:09:17Z",
       "versionDescription" : "Release 0.0.17",
-      "viewCount" : 16,
+      "viewCount" : 17,
       "watcherCount" : 0
     },
     {
@@ -468,7 +432,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense-iOS.ipa",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense.png",
-      "impressionCount" : 123,
+      "impressionCount" : 126,
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -487,11 +451,11 @@
       "version" : "0.0.23",
       "versionDate" : "2022-01-24T04:09:31Z",
       "versionDescription" : "Release 0.0.23",
-      "viewCount" : 20,
+      "viewCount" : 22,
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
         "public.app-category.productivity"
@@ -501,7 +465,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip-iOS.ipa",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip.png",
-      "impressionCount" : 533,
+      "impressionCount" : 536,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
@@ -520,11 +484,11 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-10T00:38:53Z",
       "versionDescription" : "Release 0.0.5",
-      "viewCount" : 74,
+      "viewCount" : 75,
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Neural-Scry",
       "categories" : [
         "public.app-category.medical"
@@ -620,7 +584,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
         "public.app-category.sports"
@@ -630,7 +594,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon-iOS.ipa",
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon.png",
-      "impressionCount" : 66,
+      "impressionCount" : 69,
       "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
       "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -650,11 +614,11 @@
       "version" : "0.2.22",
       "versionDate" : "2022-01-24T11:51:13Z",
       "versionDescription" : "Release 0.2.22",
-      "viewCount" : 10,
+      "viewCount" : 12,
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.SQL-Hero",
       "categories" : [
         "public.app-category.developer-tools"
@@ -708,7 +672,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues-iOS.ipa",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues.png",
-      "impressionCount" : 99,
+      "impressionCount" : 102,
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -727,11 +691,11 @@
       "version" : "0.0.39",
       "versionDate" : "2022-01-26T22:14:31Z",
       "versionDescription" : "Release 0.0.39",
-      "viewCount" : 23,
+      "viewCount" : 24,
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Tidal-Zone",
       "categories" : [
         "public.app-category.weather"
@@ -741,7 +705,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Tidal-Zone-iOS.ipa",
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Tidal-Zone.png",
-      "impressionCount" : 101,
+      "impressionCount" : 104,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -760,7 +724,7 @@
       "version" : "0.0.14",
       "versionDate" : "2022-01-24T05:28:32Z",
       "versionDescription" : "Release 0.0.14",
-      "viewCount" : 14,
+      "viewCount" : 16,
       "watcherCount" : 0
     },
     {
@@ -774,7 +738,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Trivial-Quiz-iOS.ipa",
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Trivial-Quiz.png",
-      "impressionCount" : 34,
+      "impressionCount" : 36,
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
       "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -798,39 +762,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Trivial-Quiz",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "coreSize" : 68368,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/Trivial-Quiz-iOS.ipa",
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/Trivial-Quiz.png",
-      "impressionCount" : 21,
-      "issueCount" : 0,
-      "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Trivial Quiz",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "42c28dde9387cc807b05ce96c1eb9012adc5b8a92fb6279f001868f1b6072137",
-      "size" : 5944654,
-      "starCount" : 0,
-      "subtitle" : "A little quiz game",
-      "version" : "0.0.11",
-      "versionDate" : "2022-01-21T14:55:04Z",
-      "versionDescription" : "Release 0.0.11",
-      "viewCount" : 5,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
         "public.app-category.music"
@@ -840,7 +771,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.405/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.405/Tune-Out.png",
-      "impressionCount" : 7,
+      "impressionCount" : 10,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.405/Info.plist#da1178bbc554a616134b3e3978c20c006aa1ff3014f14b3d0a6fc7e96cbc451a",
@@ -865,11 +796,11 @@
       "version" : "0.8.405",
       "versionDate" : "2022-02-02T02:04:45Z",
       "versionDescription" : "Release 0.8.405",
-      "viewCount" : 1,
+      "viewCount" : 3,
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Tweet-Storm",
       "categories" : [
         "public.app-category.social-networking"
@@ -879,7 +810,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.7/Tweet-Storm-iOS.ipa",
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.7/Tweet-Storm.png",
-      "impressionCount" : 106,
+      "impressionCount" : 110,
       "issueCount" : 0,
       "localizedDescription" : "Unleash your inner dialog",
       "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.7/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
@@ -898,7 +829,7 @@
       "version" : "0.0.7",
       "versionDate" : "2022-01-26T22:14:00Z",
       "versionDescription" : "Release 0.0.7",
-      "viewCount" : 16,
+      "viewCount" : 18,
       "watcherCount" : 0
     },
     {
@@ -912,7 +843,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-iOS.ipa",
       "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
-      "impressionCount" : 55,
+      "impressionCount" : 56,
       "issueCount" : 0,
       "localizedDescription" : "A bit of lite reading",
       "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -935,40 +866,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Ultra-Light",
-      "categories" : [
-        "public.app-category.news"
-      ],
-      "coreSize" : 68360,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Ultra-Light-iOS.ipa",
-      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Ultra-Light.png",
-      "impressionCount" : 45,
-      "issueCount" : 0,
-      "localizedDescription" : "A bit of lite reading",
-      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Ultra Light",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "04e9162bf78e04a417973607c4d6c4228c1ff33753daa15d84582c45feea6e7e",
-      "size" : 5846545,
-      "starCount" : 0,
-      "subtitle" : "A bit of lite reading",
-      "version" : "0.0.5",
-      "versionDate" : "2022-01-20T03:44:45Z",
-      "versionDescription" : "Release 0.0.5",
-      "viewCount" : 7,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "categories" : [
         "public.app-category.finance"
@@ -978,7 +876,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose-iOS.ipa",
       "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose.png",
-      "impressionCount" : 61,
+      "impressionCount" : 64,
       "issueCount" : 0,
       "localizedDescription" : "An unclear app",
       "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -997,7 +895,7 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:48:27Z",
       "versionDescription" : "Release 0.0.5",
-      "viewCount" : 11,
+      "viewCount" : 12,
       "watcherCount" : 0
     },
     {
@@ -1034,7 +932,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
         "public.app-category.social-networking"
@@ -1044,7 +942,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-iOS.ipa",
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
-      "impressionCount" : 154,
+      "impressionCount" : 157,
       "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
       "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1064,7 +962,7 @@
       "version" : "0.0.11",
       "versionDate" : "2022-01-24T14:24:10Z",
       "versionDescription" : "Release 0.0.11",
-      "viewCount" : 11,
+      "viewCount" : 12,
       "watcherCount" : 0
     }
   ],

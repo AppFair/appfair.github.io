@@ -71,11 +71,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 5,
+      "downloadCount" : 6,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/chromedriver/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/chromedriver/AppIcon.png",
-      "impressionCount" : 5,
+      "impressionCount" : 6,
       "localizedDescription" : "",
       "name" : "chromedriver",
       "screenshotURLs" : [
@@ -91,11 +91,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 16,
+      "downloadCount" : 17,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/dbeaver-community/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/dbeaver-community/AppIcon.png",
-      "impressionCount" : 16,
+      "impressionCount" : 17,
       "localizedDescription" : "",
       "name" : "dbeaver-community",
       "screenshotURLs" : [
@@ -151,11 +151,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 59,
+      "downloadCount" : 60,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
-      "impressionCount" : 59,
+      "impressionCount" : 60,
       "localizedDescription" : "",
       "name" : "firefox",
       "screenshotURLs" : [
@@ -171,11 +171,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 27,
+      "downloadCount" : 28,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
-      "impressionCount" : 27,
+      "impressionCount" : 28,
       "localizedDescription" : "",
       "name" : "google-chrome",
       "screenshotURLs" : [
@@ -191,11 +191,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 81,
+      "downloadCount" : 82,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 81,
+      "impressionCount" : 82,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",
@@ -221,11 +221,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 26,
+      "downloadCount" : 27,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
-      "impressionCount" : 26,
+      "impressionCount" : 27,
       "localizedDescription" : "",
       "name" : "microsoft-edge",
       "screenshotURLs" : [
@@ -281,11 +281,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 24,
+      "downloadCount" : 25,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
-      "impressionCount" : 24,
+      "impressionCount" : 25,
       "localizedDescription" : "",
       "name" : "postman",
       "screenshotURLs" : [
@@ -381,11 +381,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 39,
+      "downloadCount" : 40,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
-      "impressionCount" : 39,
+      "impressionCount" : 40,
       "localizedDescription" : "",
       "name" : "vlc",
       "screenshotURLs" : [

@@ -1,7 +1,7 @@
 {
   "apps" : [
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"
@@ -11,7 +11,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot-iOS.ipa",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
-      "impressionCount" : 127,
+      "impressionCount" : 129,
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -79,7 +79,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Crazy-Glue",
       "categories" : [
         "public.app-category.graphics-design"
@@ -89,7 +89,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-iOS.ipa",
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 175,
+      "impressionCount" : 176,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -112,7 +112,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Down-Town",
       "categories" : [
         "public.app-category.travel"
@@ -122,7 +122,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-iOS.ipa",
       "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "impressionCount" : 69,
+      "impressionCount" : 70,
       "issueCount" : 0,
       "localizedDescription" : "An urban street guide",
       "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -145,7 +145,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
         "public.app-category.reference"
@@ -155,7 +155,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica-iOS.ipa",
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica.png",
-      "impressionCount" : 83,
+      "impressionCount" : 84,
       "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
       "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -330,7 +330,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion-iOS.ipa",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion.png",
-      "impressionCount" : 51,
+      "impressionCount" : 52,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Info.plist#76f9d948a52cc9c42ed46c99936d3329c9675802a548c3e19557a047992ce020",
@@ -389,7 +389,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Media-Res",
       "categories" : [
         "public.app-category.lifestyle"
@@ -422,7 +422,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
         "public.app-category.education"
@@ -672,7 +672,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues-iOS.ipa",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues.png",
-      "impressionCount" : 102,
+      "impressionCount" : 104,
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -771,7 +771,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.405/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.405/Tune-Out.png",
-      "impressionCount" : 10,
+      "impressionCount" : 12,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.405/Info.plist#da1178bbc554a616134b3e3978c20c006aa1ff3014f14b3d0a6fc7e96cbc451a",
@@ -899,7 +899,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Visi-Calc",
       "categories" : [
         "public.app-category.business"

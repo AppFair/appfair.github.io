@@ -71,11 +71,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 38,
+      "downloadCount" : 39,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/chromedriver/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/chromedriver/AppIcon.png",
-      "impressionCount" : 38,
+      "impressionCount" : 39,
       "localizedDescription" : "",
       "name" : "chromedriver",
       "screenshotURLs" : [
@@ -151,11 +151,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 105,
+      "downloadCount" : 106,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
-      "impressionCount" : 105,
+      "impressionCount" : 106,
       "localizedDescription" : "",
       "name" : "firefox",
       "screenshotURLs" : [
@@ -171,11 +171,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 77,
+      "downloadCount" : 78,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
-      "impressionCount" : 77,
+      "impressionCount" : 78,
       "localizedDescription" : "",
       "name" : "google-chrome",
       "screenshotURLs" : [
@@ -191,11 +191,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 130,
+      "downloadCount" : 131,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 130,
+      "impressionCount" : 131,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",
@@ -221,11 +221,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 74,
+      "downloadCount" : 75,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
-      "impressionCount" : 74,
+      "impressionCount" : 75,
       "localizedDescription" : "",
       "name" : "microsoft-edge",
       "screenshotURLs" : [
@@ -281,11 +281,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 70,
+      "downloadCount" : 71,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
-      "impressionCount" : 70,
+      "impressionCount" : 71,
       "localizedDescription" : "",
       "name" : "postman",
       "screenshotURLs" : [

@@ -91,11 +91,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 21,
+      "downloadCount" : 22,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/dbeaver-community/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/dbeaver-community/AppIcon.png",
-      "impressionCount" : 21,
+      "impressionCount" : 22,
       "localizedDescription" : "",
       "name" : "dbeaver-community",
       "screenshotURLs" : [
@@ -151,11 +151,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 76,
+      "downloadCount" : 77,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
-      "impressionCount" : 76,
+      "impressionCount" : 77,
       "localizedDescription" : "",
       "name" : "firefox",
       "screenshotURLs" : [
@@ -171,11 +171,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 45,
+      "downloadCount" : 46,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
-      "impressionCount" : 45,
+      "impressionCount" : 46,
       "localizedDescription" : "",
       "name" : "google-chrome",
       "screenshotURLs" : [
@@ -191,11 +191,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 99,
+      "downloadCount" : 100,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 99,
+      "impressionCount" : 100,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",
@@ -221,11 +221,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 44,
+      "downloadCount" : 45,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
-      "impressionCount" : 44,
+      "impressionCount" : 45,
       "localizedDescription" : "",
       "name" : "microsoft-edge",
       "screenshotURLs" : [
@@ -281,11 +281,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 41,
+      "downloadCount" : 42,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
-      "impressionCount" : 41,
+      "impressionCount" : 42,
       "localizedDescription" : "",
       "name" : "postman",
       "screenshotURLs" : [
@@ -381,11 +381,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 44,
+      "downloadCount" : 45,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
-      "impressionCount" : 44,
+      "impressionCount" : 45,
       "localizedDescription" : "",
       "name" : "vlc",
       "screenshotURLs" : [
@@ -442,11 +442,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 24,
+      "downloadCount" : 25,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/zoom/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/zoom/AppIcon.png",
-      "impressionCount" : 24,
+      "impressionCount" : 25,
       "localizedDescription" : "",
       "name" : "zoom",
       "screenshotURLs" : [

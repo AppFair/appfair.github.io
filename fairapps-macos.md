@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.198``](https://github.com/App-Fair/App/releases/0.7.198) | `0` | `0` | `2` | `6.7 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-09T22:02:01Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.19``](https://github.com/Cloud-Cuckoo/App/releases/0.9.19) | `12` | `3` | `3` | `2.4 MB` | `0` | `0` | `2022-02-08T22:20:44Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.195``](https://github.com/App-Fair/App/releases/0.7.195) | `15` | `2` | `5` | `6.7 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-06T14:49:07Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Red Light Green Light`](https://Red-Light-Green-Light.github.io/App/) | [``0.0.12β``](https://github.com/Red-Light-Green-Light/App/releases/0.0.12) | `14` | `4` | `2` | `2.4 MB` | `0` | `0` | `2022-02-02T02:04:48Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.405``](https://github.com/Tune-Out/App/releases/0.8.405) | `43` | `7` | `3` | `8.6 MB` | `0` | `0` | `2022-02-02T02:04:45Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Eternal September`](https://Eternal-September.github.io/App/) | [``0.0.32β``](https://github.com/Eternal-September/App/releases/0.0.32) | `33` | `5` | `2` | `2.5 MB` | `0` | `0` | `2022-01-26T22:20:37Z` | [`education`](https://github.com/topics/appfair-education)  |

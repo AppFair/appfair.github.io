@@ -6,11 +6,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 35,
+      "downloadCount" : 40,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/alfred/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/alfred/AppIcon.png",
-      "impressionCount" : 35,
+      "impressionCount" : 40,
       "localizedDescription" : "",
       "name" : "alfred",
       "screenshotURLs" : [
@@ -191,11 +191,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 196,
+      "downloadCount" : 198,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 196,
+      "impressionCount" : 198,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",

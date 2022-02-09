@@ -6,11 +6,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 33,
+      "downloadCount" : 34,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/alfred/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/alfred/AppIcon.png",
-      "impressionCount" : 33,
+      "impressionCount" : 34,
       "localizedDescription" : "",
       "name" : "alfred",
       "screenshotURLs" : [
@@ -51,11 +51,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 34,
+      "downloadCount" : 35,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/brave-browser/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/brave-browser/AppIcon.png",
-      "impressionCount" : 34,
+      "impressionCount" : 35,
       "localizedDescription" : "",
       "name" : "brave-browser",
       "screenshotURLs" : [
@@ -71,11 +71,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 87,
+      "downloadCount" : 88,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/chromedriver/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/chromedriver/AppIcon.png",
-      "impressionCount" : 87,
+      "impressionCount" : 88,
       "localizedDescription" : "",
       "name" : "chromedriver",
       "screenshotURLs" : [
@@ -151,11 +151,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 161,
+      "downloadCount" : 162,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/firefox/AppIcon.png",
-      "impressionCount" : 161,
+      "impressionCount" : 162,
       "localizedDescription" : "",
       "name" : "firefox",
       "screenshotURLs" : [
@@ -171,11 +171,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 134,
+      "downloadCount" : 135,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/google-chrome/AppIcon.png",
-      "impressionCount" : 134,
+      "impressionCount" : 135,
       "localizedDescription" : "",
       "name" : "google-chrome",
       "screenshotURLs" : [
@@ -191,11 +191,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 186,
+      "downloadCount" : 187,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/AppIcon.png",
-      "impressionCount" : 186,
+      "impressionCount" : 187,
       "localizedDescription" : "This is the _iTerm2_ app.",
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/iterm2/README.md",
@@ -221,11 +221,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 129,
+      "downloadCount" : 130,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/microsoft-edge/AppIcon.png",
-      "impressionCount" : 129,
+      "impressionCount" : 130,
       "localizedDescription" : "",
       "name" : "microsoft-edge",
       "screenshotURLs" : [
@@ -281,11 +281,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 126,
+      "downloadCount" : 127,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/postman/AppIcon.png",
-      "impressionCount" : 126,
+      "impressionCount" : 127,
       "localizedDescription" : "",
       "name" : "postman",
       "screenshotURLs" : [
@@ -321,11 +321,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 57,
+      "downloadCount" : 58,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/spotify/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/spotify/AppIcon.png",
-      "impressionCount" : 57,
+      "impressionCount" : 58,
       "localizedDescription" : "",
       "name" : "spotify",
       "screenshotURLs" : [
@@ -381,11 +381,11 @@
       "categories" : [
 
       ],
-      "downloadCount" : 73,
+      "downloadCount" : 74,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/vlc/AppIcon.png",
-      "impressionCount" : 73,
+      "impressionCount" : 74,
       "localizedDescription" : "",
       "name" : "vlc",
       "screenshotURLs" : [

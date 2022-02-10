@@ -87,6 +87,30 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "coteditor",
+      "categories" : [
+
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/coteditor/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/coteditor/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "",
+      "name" : "coteditor",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/coteditor/screenshot_01-mac-light-1464x1298.png",
+        "https://github.com/App-Fair/appcasks/releases/download/coteditor/screenshot_02-mac-dark-1464x1298.png",
+        "https://github.com/App-Fair/appcasks/releases/download/coteditor/screenshot_03-mac-light-1364x1226.png",
+        "https://github.com/App-Fair/appcasks/releases/download/coteditor/screenshot_04-mac-light-1464x1298.png",
+        "https://github.com/App-Fair/appcasks/releases/download/coteditor/screenshot_05-mac-light-1466x1298.png"
+      ],
+      "size" : 76171,
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : ""
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "dbeaver-community",
       "categories" : [
 

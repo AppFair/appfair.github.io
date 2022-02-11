@@ -13,7 +13,16 @@
       "impressionCount" : 0,
       "name" : "vlc",
       "screenshotURLs" : [
-
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_011-mac-dark-1920x1312.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_010-mac-dark-1606x1400.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_01-mac-dark-1226x1144.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_03-mac-dark-2504x1514.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_04-mac-dark-2504x1514.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_05-mac-dark-1602x1696.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_06-mac-dark-1602x1248.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_07-mac-dark-1600x1512.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_08-mac-dark-1598x1224.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/screenshot_09-mac-dark-1606x1400.png"
       ],
       "size" : 406328,
       "versionDate" : "2022-02-01T01:07:41Z"

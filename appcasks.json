@@ -1,6 +1,23 @@
 {
   "apps" : [
+    {
+      "beta" : false,
+      "bundleIdentifier" : "cask-vlc",
+      "categories" : [
 
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "vlc",
+      "screenshotURLs" : [
+
+      ],
+      "size" : 406328,
+      "versionDate" : "2022-02-01T01:07:41Z"
+    }
   ],
   "identifier" : "appcasks",
   "name" : "Cask enhanced metadata",

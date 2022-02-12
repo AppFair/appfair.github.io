@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20β``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `0` | `0` | `1` | `6.4 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.16β``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `0` | `0` | `1` | `6.3 MB` | `0` | `0` | `2022-02-12T16:07:11Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.24``](https://github.com/Name-Sense/App/releases/0.0.24) | `2` | `2` | `2` | `6.5 MB` | `0` | `0` | `2022-02-12T14:56:58Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.13``](https://github.com/Trivial-Quiz/App/releases/0.0.13) | `1` | `1` | `2` | `6.3 MB` | `0` | `0` | `2022-02-12T14:54:35Z` | [`games`](https://github.com/topics/appfair-games)  |

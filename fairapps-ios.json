@@ -695,12 +695,45 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tidal-Zone",
+      "categories" : [
+        "public.app-category.weather"
+      ],
+      "coreSize" : 102472,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-iOS.ipa",
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
+      "impressionCount" : 0,
+      "issueCount" : 0,
+      "localizedDescription" : "What tide is it right now?",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
+      "name" : "Tidal Zone",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "5b3f5ec202a63f4b1df928211474562850519c362c7a2c295b35bdc214393c87",
+      "size" : 6362176,
+      "starCount" : 0,
+      "subtitle" : "What tide is it right now?",
+      "version" : "0.0.20",
+      "versionDate" : "2022-02-12T16:07:15Z",
+      "versionDescription" : "Release 0.0.20",
+      "viewCount" : 0,
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
       "categories" : [
         "public.app-category.weather"
       ],
-      "coreSize" : 68344,
+      "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Tidal-Zone-iOS.ipa",

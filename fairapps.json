@@ -8,11 +8,11 @@
       ],
       "coreSize" : 170656,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.212/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.212/App-Fair.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "issueCount" : 1,
       "localizedDescription" : "The App Fair Catalog Browser",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.212/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
@@ -59,7 +59,7 @@
       "version" : "0.7.212",
       "versionDate" : "2022-02-12T14:36:16Z",
       "versionDescription" : "Release 0.7.212",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -110,35 +110,35 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 68368,
+      "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/Cloud-Cuckoo.png",
-      "impressionCount" : 14,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/screenshot_04-mac-370x1816.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/screenshot_06-mac-1656x1560.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/screenshot_04-mac-370x1816.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "311496d09621b41a323498bef98ceee18b8209230c6fe17857204b924e8b93f6",
-      "size" : 2410915,
+      "sha256" : "ff4276d931ad7fb5707dc7c086c9abab8282438befe199b98ac76cd39d48de1d",
+      "size" : 2450587,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.19",
-      "versionDate" : "2022-02-08T22:20:44Z",
-      "versionDescription" : "Release 0.9.19",
-      "viewCount" : 3,
+      "version" : "0.9.20",
+      "versionDate" : "2022-02-12T14:52:58Z",
+      "versionDescription" : "Release 0.9.20",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -939,7 +939,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
       "categories" : [
         "public.app-category.weather"

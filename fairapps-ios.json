@@ -47,35 +47,35 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 68368,
+      "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/Cloud-Cuckoo.png",
-      "impressionCount" : 14,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/screenshot_03-iphone-1170x2532.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.19/screenshot_04-iphone-1170x2532.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/screenshot_03-iphone-1170x2532.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/screenshot_04-iphone-1170x2532.png"
       ],
-      "sha256" : "f6e5d599dfcfc9ee8045efe622b6839b490575218a9e0c2144273aca4682f548",
-      "size" : 6182718,
+      "sha256" : "1603d399cbae47c0629c0d942e82e7cbfe22f7b458e838ba3472bd323ee6a61b",
+      "size" : 6286805,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.19",
-      "versionDate" : "2022-02-08T22:20:44Z",
-      "versionDescription" : "Release 0.9.19",
-      "viewCount" : 3,
+      "version" : "0.9.20",
+      "versionDate" : "2022-02-12T14:52:58Z",
+      "versionDescription" : "Release 0.9.20",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -695,7 +695,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
       "categories" : [
         "public.app-category.weather"

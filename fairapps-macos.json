@@ -972,37 +972,37 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 68368,
+      "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Trivial-Quiz-macOS.zip",
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Trivial-Quiz.png",
-      "impressionCount" : 37,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz-macOS.zip",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Trivial Quiz",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/screenshot_01-mac-light-mac-2024x1124.png",
-        "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/screenshot_01-mac-dark-mac-2024x1124.png"
+        "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/screenshot_01-mac-light-mac-2024x1124.png"
       ],
-      "sha256" : "1c7941299efb9bb88ccb044dc7d2efab5eabf09b694eaeddb104af0ae4b62dd9",
-      "size" : 2352768,
+      "sha256" : "71931e682cdb19ae8becc9bcde5f4cc28cd8d5bc5a5e8887f4e16c6148f2ab88",
+      "size" : 2472957,
       "starCount" : 0,
       "subtitle" : "A little quiz game",
-      "version" : "0.0.12",
-      "versionDate" : "2022-01-24T01:55:09Z",
-      "versionDescription" : "Release 0.0.12",
-      "viewCount" : 9,
+      "version" : "0.0.13",
+      "versionDate" : "2022-02-12T14:54:35Z",
+      "versionDescription" : "Release 0.0.13",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

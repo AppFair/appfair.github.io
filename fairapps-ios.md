@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.13``](https://github.com/Trivial-Quiz/App/releases/0.0.13) | `0` | `0` | `1` | `6.3 MB` | `0` | `0` | `2022-02-12T14:54:35Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.20``](https://github.com/Cloud-Cuckoo/App/releases/0.9.20) | `0` | `0` | `1` | `6.3 MB` | `0` | `0` | `2022-02-12T14:52:58Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.405``](https://github.com/Tune-Out/App/releases/0.8.405) | `48` | `8` | `2` | `16.3 MB` | `0` | `0` | `2022-02-02T02:04:45Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.39``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.39) | `137` | `31` | `2` | `1.46 GB` | `0` | `0` | `2022-01-26T22:14:31Z` | [`video`](https://github.com/topics/appfair-video)  |
@@ -40,7 +41,6 @@ tr:nth-child(even) {
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.23β``](https://github.com/Name-Sense/App/releases/0.0.23) | `130` | `23` | `2` | `6.1 MB` | `0` | `0` | `2022-01-24T04:09:31Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Media Res`](https://Media-Res.github.io/App/) | [``0.0.17β``](https://github.com/Media-Res/App/releases/0.0.17) | `161` | `18` | `2` | `6 MB` | `0` | `0` | `2022-01-24T04:09:17Z` | [`lifestyle`](https://github.com/topics/appfair-lifestyle)  |
 | [`Encyclopedia Galactica`](https://Encyclopedia-Galactica.github.io/App/) | [``0.0.32β``](https://github.com/Encyclopedia-Galactica/App/releases/0.0.32) | `90` | `16` | `2` | `6.1 MB` | `0` | `0` | `2022-01-24T02:35:43Z` | [`reference`](https://github.com/topics/appfair-reference)  |
-| [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.12β``](https://github.com/Trivial-Quiz/App/releases/0.0.12) | `37` | `9` | `2` | `5.9 MB` | `0` | `0` | `2022-01-24T01:55:09Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Bon Mot`](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `136` | `15` | `2` | `5.9 MB` | `1` | `0` | `2022-01-24T01:55:01Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Crazy Glue`](https://Crazy-Glue.github.io/App/) | [``0.0.4β``](https://github.com/Crazy-Glue/App/releases/0.0.4) | `182` | `28` | `2` | `5.9 MB` | `0` | `0` | `2022-01-23T23:13:56Z` | [`graphics-design`](https://github.com/topics/appfair-graphics-design)  |
 | [`Festivus Pole`](https://Festivus-Pole.github.io/App/) | [``0.0.3β``](https://github.com/Festivus-Pole/App/releases/0.0.3) | `80` | `15` | `2` | `5.8 MB` | `0` | `0` | `2022-01-23T23:13:54Z` | [`entertainment`](https://github.com/topics/appfair-entertainment)  |

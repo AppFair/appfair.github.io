@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.13``](https://github.com/Trivial-Quiz/App/releases/0.0.13) | `0` | `0` | `1` | `2.5 MB` | `0` | `0` | `2022-02-12T14:54:35Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.20``](https://github.com/Cloud-Cuckoo/App/releases/0.9.20) | `0` | `0` | `1` | `2.5 MB` | `0` | `0` | `2022-02-12T14:52:58Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.212``](https://github.com/App-Fair/App/releases/0.7.212) | `1` | `1` | `2` | `6.7 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-12T14:36:16Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Red Light Green Light`](https://Red-Light-Green-Light.github.io/App/) | [``0.0.12β``](https://github.com/Red-Light-Green-Light/App/releases/0.0.12) | `14` | `4` | `2` | `2.4 MB` | `0` | `0` | `2022-02-02T02:04:48Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
@@ -46,7 +47,6 @@ tr:nth-child(even) {
 | [`Encyclopedia Galactica`](https://Encyclopedia-Galactica.github.io/App/) | [``0.0.32β``](https://github.com/Encyclopedia-Galactica/App/releases/0.0.32) | `90` | `16` | `3` | `2.5 MB` | `0` | `0` | `2022-01-24T02:35:43Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Visi Calc`](https://Visi-Calc.github.io/App/) | [``0.0.37β``](https://github.com/Visi-Calc/App/releases/0.0.37) | `80` | `18` | `6` | `4.7 MB` | `0` | `0` | `2022-01-24T01:59:51Z` | [`business`](https://github.com/topics/appfair-business)  |
 | [`Story Points`](https://Story-Points.github.io/App/) | [``0.0.6β``](https://github.com/Story-Points/App/releases/0.0.6) | `147` | `26` | `7` | `2.4 MB` | `0` | `0` | `2022-01-24T01:59:22Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
-| [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.12β``](https://github.com/Trivial-Quiz/App/releases/0.0.12) | `37` | `9` | `1` | `2.4 MB` | `0` | `0` | `2022-01-24T01:55:09Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Bon Mot`](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `136` | `15` | `3` | `2.3 MB` | `1` | `0` | `2022-01-24T01:55:01Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Huffle Puff`](https://Huffle-Puff.github.io/App/) | [``0.0.7β``](https://github.com/Huffle-Puff/App/releases/0.0.7) | `60` | `15` | `3` | `2.2 MB` | `0` | `0` | `2022-01-24T01:54:53Z` | [`entertainment`](https://github.com/topics/appfair-entertainment)  |
 | [`Crazy Glue`](https://Crazy-Glue.github.io/App/) | [``0.0.4β``](https://github.com/Crazy-Glue/App/releases/0.0.4) | `182` | `28` | `8` | `2.3 MB` | `0` | `0` | `2022-01-23T23:13:56Z` | [`graphics-design`](https://github.com/topics/appfair-graphics-design)  |

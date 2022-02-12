@@ -728,36 +728,36 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
         "public.app-category.games"
       ],
-      "coreSize" : 68368,
+      "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Trivial-Quiz-iOS.ipa",
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Trivial-Quiz.png",
-      "impressionCount" : 37,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz-iOS.ipa",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Trivial Quiz",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "38e04461afdf7a45948034b7a21d2edf9736ade56477b47b2c6d0b9e5b651d2a",
-      "size" : 5945339,
+      "sha256" : "9bd822e22a34b66b6febbaf5ae3b805ddc8208778982b1315cffb4bc82b7eca7",
+      "size" : 6274379,
       "starCount" : 0,
       "subtitle" : "A little quiz game",
-      "version" : "0.0.12",
-      "versionDate" : "2022-01-24T01:55:09Z",
-      "versionDescription" : "Release 0.0.12",
-      "viewCount" : 9,
+      "version" : "0.0.13",
+      "versionDate" : "2022-02-12T14:54:35Z",
+      "versionDescription" : "Release 0.0.13",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

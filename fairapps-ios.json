@@ -695,17 +695,17 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
       "categories" : [
         "public.app-category.weather"
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-iOS.ipa",
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -724,44 +724,11 @@
       "version" : "0.0.20",
       "versionDate" : "2022-02-12T16:07:15Z",
       "versionDescription" : "Release 0.0.20",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Tidal-Zone",
-      "categories" : [
-        "public.app-category.weather"
-      ],
-      "coreSize" : 102472,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Tidal-Zone-iOS.ipa",
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Tidal-Zone.png",
-      "impressionCount" : 107,
-      "issueCount" : 0,
-      "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
-      "name" : "Tidal Zone",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "8cbaea18917dc24e514e1f26ba59d2dfac130e8302a81fd0cb40e59d4ac2b97f",
-      "size" : 6056835,
-      "starCount" : 0,
-      "subtitle" : "What tide is it right now?",
-      "version" : "0.0.14",
-      "versionDate" : "2022-01-24T05:28:32Z",
-      "versionDescription" : "Release 0.0.14",
-      "viewCount" : 17,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
         "public.app-category.games"
@@ -791,39 +758,6 @@
       "versionDate" : "2022-02-12T16:07:11Z",
       "versionDescription" : "Release 0.0.16",
       "viewCount" : 0,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Trivial-Quiz",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "coreSize" : 102480,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz-iOS.ipa",
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz.png",
-      "impressionCount" : 1,
-      "issueCount" : 0,
-      "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Trivial Quiz",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "9bd822e22a34b66b6febbaf5ae3b805ddc8208778982b1315cffb4bc82b7eca7",
-      "size" : 6274379,
-      "starCount" : 0,
-      "subtitle" : "A little quiz game",
-      "version" : "0.0.13",
-      "versionDate" : "2022-02-12T14:54:35Z",
-      "versionDescription" : "Release 0.0.13",
-      "viewCount" : 1,
       "watcherCount" : 0
     },
     {

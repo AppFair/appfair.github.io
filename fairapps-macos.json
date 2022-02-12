@@ -939,17 +939,17 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
       "categories" : [
         "public.app-category.weather"
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-macOS.zip",
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -968,44 +968,11 @@
       "version" : "0.0.20",
       "versionDate" : "2022-02-12T16:07:15Z",
       "versionDescription" : "Release 0.0.20",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Tidal-Zone",
-      "categories" : [
-        "public.app-category.weather"
-      ],
-      "coreSize" : 102472,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Tidal-Zone-macOS.zip",
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Tidal-Zone.png",
-      "impressionCount" : 107,
-      "issueCount" : 0,
-      "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
-      "name" : "Tidal Zone",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.14/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
-      "screenshotURLs" : [
-        "https://github.com/Tidal-Zone/App/releases/download/0.0.14/screenshot-mac-01-2024x1124.png"
-      ],
-      "sha256" : "da36bf842dcf33e25778ba7671494043ee09375912a0d5a15d877b8a3a576ae6",
-      "size" : 2430778,
-      "starCount" : 0,
-      "subtitle" : "What tide is it right now?",
-      "version" : "0.0.14",
-      "versionDate" : "2022-01-24T05:28:32Z",
-      "versionDescription" : "Release 0.0.14",
-      "viewCount" : 17,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
         "public.app-category.games"
@@ -1036,40 +1003,6 @@
       "versionDate" : "2022-02-12T16:07:11Z",
       "versionDescription" : "Release 0.0.16",
       "viewCount" : 0,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Trivial-Quiz",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "coreSize" : 102480,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz-macOS.zip",
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz.png",
-      "impressionCount" : 1,
-      "issueCount" : 0,
-      "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Trivial Quiz",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/screenshot_01-mac-dark-mac-2024x1124.png",
-        "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/screenshot_01-mac-light-mac-2024x1124.png"
-      ],
-      "sha256" : "71931e682cdb19ae8becc9bcde5f4cc28cd8d5bc5a5e8887f4e16c6148f2ab88",
-      "size" : 2472957,
-      "starCount" : 0,
-      "subtitle" : "A little quiz game",
-      "version" : "0.0.13",
-      "versionDate" : "2022-02-12T14:54:35Z",
-      "versionDescription" : "Release 0.0.13",
-      "viewCount" : 1,
       "watcherCount" : 0
     },
     {

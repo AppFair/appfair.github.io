@@ -8,11 +8,11 @@
       ],
       "coreSize" : 170656,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.212/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.212/App-Fair.png",
-      "impressionCount" : 1,
+      "impressionCount" : 2,
       "issueCount" : 1,
       "localizedDescription" : "The App Fair Catalog Browser",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.212/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
@@ -112,10 +112,10 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo.png",
-      "impressionCount" : 1,
+      "impressionCount" : 2,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -138,7 +138,7 @@
       "version" : "0.9.20",
       "versionDate" : "2022-02-12T14:52:58Z",
       "versionDescription" : "Release 0.9.20",
-      "viewCount" : 1,
+      "viewCount" : 2,
       "watcherCount" : 0
     },
     {
@@ -600,10 +600,10 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense-macOS.zip",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense.png",
-      "impressionCount" : 0,
+      "impressionCount" : 2,
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -623,7 +623,7 @@
       "version" : "0.0.24",
       "versionDate" : "2022-02-12T14:56:58Z",
       "versionDescription" : "Release 0.0.24",
-      "viewCount" : 0,
+      "viewCount" : 2,
       "watcherCount" : 0
     },
     {
@@ -972,7 +972,7 @@
       "watcherCount" : 0
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
         "public.app-category.games"
@@ -980,9 +980,43 @@
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.14/Trivial-Quiz-macOS.zip",
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.14/Trivial-Quiz.png",
+      "impressionCount" : 0,
+      "issueCount" : 0,
+      "localizedDescription" : "A little quiz game",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.14/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Trivial Quiz",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.14/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Trivial-Quiz/App/releases/download/0.0.14/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Trivial-Quiz/App/releases/download/0.0.14/screenshot_01-mac-light-mac-2024x1124.png"
+      ],
+      "sha256" : "62c8c4a599c98f9d1e7c65fe351b39c36e334ce96bf6487f3724fb53e3d55b31",
+      "size" : 2472956,
+      "starCount" : 0,
+      "subtitle" : "A little quiz game",
+      "version" : "0.0.14",
+      "versionDate" : "2022-02-12T15:15:36Z",
+      "versionDescription" : "Release 0.0.14",
+      "viewCount" : 0,
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Trivial-Quiz",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 102480,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz-macOS.zip",
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Trivial-Quiz.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
       "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.13/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1002,7 +1036,7 @@
       "version" : "0.0.13",
       "versionDate" : "2022-02-12T14:54:35Z",
       "versionDescription" : "Release 0.0.13",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {

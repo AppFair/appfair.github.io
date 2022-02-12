@@ -8,7 +8,7 @@ title: The App Fair
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 
-The App Fair is an autonomous distribution network of free and open-source macOS applications.
+appfair.net is an autonomous distribution network of free and open-source macOS applications.
 App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, and accessibility.
 
 The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey that can be downloaded from [appfair.app](https://appfair.app).
@@ -559,8 +559,8 @@ Apps installed using `brew install` are placed in the same
 `App Fair` sub-folder of the `Applications` folder, and
 can continue to be managed by the App Fair catalog browser.
 
-Note, though, that <a href="https://appfair.app" target="_blank">`App Fair.app`</a> does not use the
-Homebrew database, so apps added or removed will not be
+:exclamation: Note that <a href="https://appfair.app" target="_blank">`App Fair.app`</a> does not use the
+system-wide Homebrew database, so apps added or removed will not be
 tracked by Homebrew, which may result in `brew upgrade`
 becoming confused if apps it installs are then upgraded
 by the <a href="https://appfair.app" target="_blank">`App Fair.app`</a>.

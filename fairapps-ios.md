@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.14β``](https://github.com/Trivial-Quiz/App/releases/0.0.14) | `0` | `0` | `1` | `6.3 MB` | `0` | `0` | `2022-02-12T15:15:36Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.14β``](https://github.com/Trivial-Quiz/App/releases/0.0.14) | `1` | `1` | `2` | `6.3 MB` | `0` | `0` | `2022-02-12T15:15:36Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.24``](https://github.com/Name-Sense/App/releases/0.0.24) | `2` | `2` | `2` | `6.5 MB` | `0` | `0` | `2022-02-12T14:56:58Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.13``](https://github.com/Trivial-Quiz/App/releases/0.0.13) | `1` | `1` | `2` | `6.3 MB` | `0` | `0` | `2022-02-12T14:54:35Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.20``](https://github.com/Cloud-Cuckoo/App/releases/0.9.20) | `2` | `2` | `2` | `6.3 MB` | `0` | `0` | `2022-02-12T14:52:58Z` | [`games`](https://github.com/topics/appfair-games)  |

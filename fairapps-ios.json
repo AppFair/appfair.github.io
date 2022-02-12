@@ -49,10 +49,10 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -75,7 +75,7 @@
       "version" : "0.9.20",
       "versionDate" : "2022-02-12T14:52:58Z",
       "versionDescription" : "Release 0.9.20",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -422,36 +422,36 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
         "public.app-category.education"
       ],
-      "coreSize" : 68344,
+      "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense-iOS.ipa",
-      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Name-Sense.png",
-      "impressionCount" : 130,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense-iOS.ipa",
+      "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
-      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Name Sense",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "00f6d8e33b7f1e089e6ed6ffa4911840bc8d309d6edbd28b502a356dcb568665",
-      "size" : 6133904,
+      "sha256" : "16700d8e1ae746bcf605dd14891d7041e0c53239133aefaf6a8a35f49ceafead",
+      "size" : 6462991,
       "starCount" : 0,
       "subtitle" : "A name picking app",
-      "version" : "0.0.23",
-      "versionDate" : "2022-01-24T04:09:31Z",
-      "versionDescription" : "Release 0.0.23",
-      "viewCount" : 23,
+      "version" : "0.0.24",
+      "versionDate" : "2022-02-12T14:56:58Z",
+      "versionDescription" : "Release 0.0.24",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

@@ -33,7 +33,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "name" : "signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
       "screenshotURLs" : [
@@ -78,6 +78,28 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "coteditor",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "coteditor",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_01-mac-light-1464x1298.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_02-mac-dark-1464x1298.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_03-mac-light-1364x1226.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_04-mac-light-1464x1298.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_05-mac-light-1466x1298.png"
+      ],
+      "tintColor" : "AACD7B",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "firefox",
       "categories" : [
         "public.app-category.reference"
@@ -117,23 +139,20 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "coteditor",
+      "bundleIdentifier" : "blender",
       "categories" : [
-        "public.app-category.productivity"
+        "public.app-category.graphics-design"
       ],
       "downloadCount" : 0,
-      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/cask-install",
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/cask-install",
       "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/AppIcon.png",
-      "impressionCount" : 23,
-      "name" : "coteditor",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "blender",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_03-mac-light-1364x1226.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_02-mac-dark-1464x1298.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_01-mac-light-1464x1298.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_04-mac-light-1464x1298.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_05-mac-light-1466x1298.png"
+
       ],
+      "tintColor" : "D28C43",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -334,21 +353,6 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/cask-install",
       "homepage" : "https://appfair.app",
       "name" : "0-ad",
-      "screenshotURLs" : [
-
-      ],
-      "versionDate" : "2022-02-01T01:07:41Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "blender",
-      "categories" : [
-
-      ],
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/cask-install",
-      "homepage" : "https://appfair.app",
-      "name" : "blender",
       "screenshotURLs" : [
 
       ],

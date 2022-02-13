@@ -386,15 +386,15 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 68344,
+      "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe-macOS.zip",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe.png",
-      "impressionCount" : 169,
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.16/Hex-Loupe-macOS.zip",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.16/Hex-Loupe.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.16/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -402,22 +402,22 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.16/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
       "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.13/screenshot_01-mac-dark-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.13/screenshot_01-mac-light-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.13/screenshot_02-mac-1864x1392.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.13/screenshot_03-mac-2360x1742.png"
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.16/screenshot_01-mac-dark-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.16/screenshot_01-mac-light-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.16/screenshot_02-mac-1864x1392.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.16/screenshot_03-mac-2360x1742.png"
       ],
-      "sha256" : "eeaaff43830d8e857cbd78944a2a687e00c7624ff9b005aaffe5b5b57b46a0dc",
-      "size" : 2387104,
+      "sha256" : "7c6870088fd822b03e53d612c74cf473e6b3b7b9c4f74bd722695032aa50f58b",
+      "size" : 2526415,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.13",
-      "versionDate" : "2022-01-24T23:39:49Z",
-      "versionDescription" : "Release 0.0.13",
-      "viewCount" : 21,
+      "version" : "0.0.16",
+      "versionDate" : "2022-02-13T00:16:33Z",
+      "versionDescription" : "Release 0.0.16",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.16``](https://github.com/Hex-Loupe/App/releases/0.0.16) | `0` | `0` | `1` | `6.4 MB` | `0` | `0` | `2022-02-13T00:16:33Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `1` | `1` | `2` | `6.4 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.16``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `0` | `0` | `1` | `6.3 MB` | `0` | `0` | `2022-02-12T16:07:11Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.24``](https://github.com/Name-Sense/App/releases/0.0.24) | `2` | `2` | `2` | `6.5 MB` | `0` | `0` | `2022-02-12T14:56:58Z` | [`education`](https://github.com/topics/appfair-education)  |
@@ -34,7 +35,6 @@ tr:nth-child(even) {
 | [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.83``](https://github.com/Lottie-Motion/App/releases/0.0.83) | `81` | `15` | `2` | `9.5 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Down Town`](https://Down-Town.github.io/App/) | [``0.0.3β``](https://github.com/Down-Town/App/releases/0.0.3) | `76` | `13` | `2` | `6 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | [``0.0.5β``](https://github.com/Unclear-Purpose/App/releases/0.0.5) | `66` | `13` | `2` | `5.9 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |
-| [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.13``](https://github.com/Hex-Loupe/App/releases/0.0.13) | `169` | `21` | `2` | `6 MB` | `0` | `0` | `2022-01-24T23:39:49Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`SQL Hero`](https://SQL-Hero.github.io/App/) | [``0.0.3β``](https://github.com/SQL-Hero/App/releases/0.0.3) | `3` | `2` | `2` | `6.1 MB` | `0` | `0` | `2022-01-24T16:11:25Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Yankee Swap`](https://Yankee-Swap.github.io/App/) | [``0.0.11β``](https://github.com/Yankee-Swap/App/releases/0.0.11) | `163` | `12` | `1` | `6 MB` | `0` | `0` | `2022-01-24T14:24:10Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Main Course`](https://Main-Course.github.io/App/) | [``0.0.15β``](https://github.com/Main-Course/App/releases/0.0.15) | `110` | `13` | `1` | `18.9 MB` | `0` | `0` | `2022-01-24T14:09:10Z` | [`education`](https://github.com/topics/appfair-education)  |

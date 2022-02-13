@@ -288,15 +288,15 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "coreSize" : 68344,
+      "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Hex-Loupe.png",
-      "impressionCount" : 169,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.16/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.16/Hex-Loupe.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.16/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
       "name" : "Hex Loupe",
       "permissions" : [
         {
@@ -304,19 +304,19 @@
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.13/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.16/README.md#1c286368299d03bbbc0488d52315e1d1fed8b734a61bffea1d79db6f96989c74",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "6b9a08a3c3010b69fbff95c30114cdb0939f12fdcab6e42b7ac6048c879978c5",
-      "size" : 6040267,
+      "sha256" : "47a43a2590e6a84dac138b231cd367bca18cc2bf8a105f9970fd6e7000fe8467",
+      "size" : 6409557,
       "starCount" : 0,
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
-      "version" : "0.0.13",
-      "versionDate" : "2022-01-24T23:39:49Z",
-      "versionDescription" : "Release 0.0.13",
-      "viewCount" : 21,
+      "version" : "0.0.16",
+      "versionDate" : "2022-02-13T00:16:33Z",
+      "versionDescription" : "Release 0.0.16",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

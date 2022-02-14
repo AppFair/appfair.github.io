@@ -33,7 +33,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 39,
+      "impressionCount" : 40,
       "name" : "signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
       "screenshotURLs" : [
@@ -59,12 +59,11 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
-      "impressionCount" : 2,
+      "impressionCount" : 3,
+      "localizedDescription" : "",
       "name" : "blender",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/README.md",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_01-mac-1544x1320.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_01-mac-2568x1846.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_02-mac-1280x720.jpg",
         "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_03-mac-1280x720.jpg",
         "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_04-mac-1280x720.jpg",
@@ -75,7 +74,8 @@
       ],
       "tintColor" : "D28C43",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 0
+      "versionDescription" : "",
+      "viewCount" : 1
     },
     {
       "beta" : false,
@@ -88,7 +88,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 32,
+      "impressionCount" : 33,
       "name" : "firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
       "screenshotURLs" : [
@@ -109,7 +109,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 67,
+      "impressionCount" : 68,
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
       "screenshotURLs" : [

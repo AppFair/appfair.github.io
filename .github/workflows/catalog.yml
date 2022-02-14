@@ -60,10 +60,9 @@ jobs:
           rm -f fairapps-macos.json fairapps-macos.md
           rm -f fairapps-ios.json fairapps-ios.md
 
-      - name: Generate Catalog
+      - name: Generate macOS catalog
         run: |
           cd fair/
-
           swift run -- fairtool catalog \
             --verbose true \
             --hub github.com/appfair \
@@ -79,7 +78,11 @@ jobs:
             --cask-folder ../homebrew-app/Casks/ \
             --index ../appfair.github.io/fairapps-macos.md \
             -o ../appfair.github.io/fairapps-macos.json
+          cd -
 
+      - name: Generate iOS catalog
+        run: |
+          cd fair/
           swift run -- fairtool catalog \
             --verbose true \
             --hub github.com/appfair \
@@ -94,17 +97,21 @@ jobs:
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
             --index ../appfair.github.io/fairapps-ios.md \
             -o ../appfair.github.io/fairapps-ios.json
+          cd -
 
+      - name: Generate appcasks catalog
+        run: |
+          cd fair/
           swift run -- fairtool appcasks \
             --verbose true \
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
+            --boost-factor 100000 \
             --retry-duration 600 \
             -o ../appfair.github.io/appcasks.json
+          cd -
 
-          cd ..
-
-      - name: Update Catalog
+      - name: Commit catalog
         run: |
           cd appfair.github.io/
           git config credential.username "appfairbot"
@@ -124,7 +131,7 @@ jobs:
           git commit -m "catalog update" || echo "nothing to commit"
           git push
 
-      - name: Update Casks
+      - name: Update casks inventory
         run: |
           cd homebrew-app/
           git config user.name "appfairbot"

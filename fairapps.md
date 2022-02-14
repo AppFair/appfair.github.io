@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.222``](https://github.com/App-Fair/App/releases/0.7.222) | `0` | `0` | `1` | `6.8 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-13T23:11:53Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.222``](https://github.com/App-Fair/App/releases/0.7.222) | `0` | `0` | `2` | `6.8 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-13T23:11:53Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.16``](https://github.com/Hex-Loupe/App/releases/0.0.16) | `5` | `1` | `3` | `2.5 MB` | `0` | `0` | `2022-02-13T00:16:33Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `5` | `2` | `4` | `2.5 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.16``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `1` | `0` | `1` | `2.5 MB` | `0` | `0` | `2022-02-12T16:07:11Z` | [`games`](https://github.com/topics/appfair-games)  |

@@ -10,7 +10,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brackets/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brackets/AppIcon.png",
-      "impressionCount" : 36,
+      "impressionCount" : 38,
       "name" : "brackets",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brackets/README.md",
       "screenshotURLs" : [
@@ -25,37 +25,15 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "firefox",
-      "categories" : [
-        "public.app-category.reference",
-        "public.app-category.productivity"
-      ],
-      "downloadCount" : 0,
-      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/cask-install",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 29,
-      "name" : "firefox",
-      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/screenshot_01-mac-2604x2058.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/screenshot_02-mac-2604x2058.png"
-      ],
-      "tintColor" : "E2725E",
-      "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 6
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "signal",
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadCount" : 0,
+      "downloadCount" : 1,
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 36,
+      "impressionCount" : 38,
       "name" : "signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
       "screenshotURLs" : [
@@ -73,6 +51,56 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "blender",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
+      "impressionCount" : 1,
+      "name" : "blender",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/README.md",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_01-mac-1544x1320.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_01-mac-2568x1846.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_02-mac-1280x720.jpg",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_03-mac-1280x720.jpg",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_04-mac-1280x720.jpg",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_05-mac-1280x720.jpg",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_06-mac-1280x720.jpg",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_07-mac-1544x1320.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_08-mac-1280x720.jpg"
+      ],
+      "tintColor" : "D28C43",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "firefox",
+      "categories" : [
+        "public.app-category.reference",
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
+      "impressionCount" : 31,
+      "name" : "firefox",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/screenshot_01-mac-2604x2058.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/screenshot_02-mac-2604x2058.png"
+      ],
+      "tintColor" : "E2725E",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 6
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "iterm2",
       "categories" : [
         "public.app-category.developer-tools"
@@ -81,7 +109,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 64,
+      "impressionCount" : 66,
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
       "screenshotURLs" : [
@@ -100,25 +128,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "blender",
-      "categories" : [
-        "public.app-category.graphics-design"
-      ],
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/cask-install",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
-      "impressionCount" : 37,
-      "name" : "blender",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_01-mac-1544x1320.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_01-mac-2568x1846.png"
-      ],
-      "tintColor" : "D28C43",
-      "versionDate" : "2022-02-01T01:07:41Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "coteditor",
       "categories" : [
         "public.app-category.productivity"
@@ -127,7 +136,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/AppIcon.png",
-      "impressionCount" : 37,
+      "impressionCount" : 38,
       "name" : "coteditor",
       "screenshotURLs" : [
         "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_01-mac-light-1464x1298.png",
@@ -149,7 +158,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-transmission/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-transmission/AppIcon.png",
-      "impressionCount" : 31,
+      "impressionCount" : 32,
       "name" : "transmission",
       "screenshotURLs" : [
         "https://github.com/App-Fair/appcasks/releases/download/cask-transmission/screenshot_01-mac-1308x1126.png",

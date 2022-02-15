@@ -82,6 +82,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "0-ad",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "0-ad",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/README.md",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/screenshot_01-mac-1600x900.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/screenshot_02-mac-1600x900.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/screenshot_03-mac-1600x900.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/screenshot_04-mac-1600x900.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/screenshot_06-mac-1600x900.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/screenshot_05-mac-1600x900.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/screenshot_07-mac-1600x900.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/screenshot_08-mac-1600x900.png"
+      ],
+      "tintColor" : "776742",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "discord",
       "categories" : [
         "public.app-category.social-networking"
@@ -529,21 +556,6 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chromedriver/AppIcon.png",
       "impressionCount" : 46,
       "name" : "chromedriver",
-      "screenshotURLs" : [
-
-      ],
-      "versionDate" : "2022-02-01T01:07:41Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "0-ad",
-      "categories" : [
-
-      ],
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/cask-install",
-      "homepage" : "https://appfair.app",
-      "name" : "0-ad",
       "screenshotURLs" : [
 
       ],

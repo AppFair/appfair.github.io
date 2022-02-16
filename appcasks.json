@@ -259,6 +259,29 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "macvim",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "macvim",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/README.md",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/screenshot_01-mac-1300x1044.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/screenshot_02-mac-1190x1012.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/screenshot_04-mac-1190x912.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/screenshot_03-mac-1190x1014.png"
+      ],
+      "tintColor" : "5EAF52",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "signal",
       "categories" : [
         "public.app-category.social-networking"
@@ -633,21 +656,6 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-endless-sky/cask-install",
       "homepage" : "https://appfair.app",
       "name" : "endless-sky",
-      "screenshotURLs" : [
-
-      ],
-      "versionDate" : "2022-02-01T01:07:41Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "macvim",
-      "categories" : [
-
-      ],
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/cask-install",
-      "homepage" : "https://appfair.app",
-      "name" : "macvim",
       "screenshotURLs" : [
 
       ],

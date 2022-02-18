@@ -244,11 +244,11 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/AppIcon.png",
-      "impressionCount" : 2,
+      "impressionCount" : 3,
+      "localizedDescription" : "",
       "name" : "bbedit",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/README.md",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/screenshot_01-mac-2750x1958.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/screenshot_02-mac-1588x1438.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/screenshot_03-mac-1588x1438.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/screenshot_04-mac-1588x1438.png",
@@ -259,7 +259,8 @@
       ],
       "tintColor" : "A8A7CF",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 0
+      "versionDescription" : "",
+      "viewCount" : 1
     },
     {
       "beta" : false,

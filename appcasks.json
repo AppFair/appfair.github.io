@@ -676,6 +676,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "bee",
+      "categories" : [
+
+      ],
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bee/cask-install",
+      "homepage" : "https://appfair.app",
+      "name" : "bee",
+      "screenshotURLs" : [
+
+      ],
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "dropdmg",
       "categories" : [
 

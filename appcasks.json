@@ -679,6 +679,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "cyberduck",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cyberduck/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cyberduck/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "cyberduck",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cyberduck/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "F1BC0C",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "dbeaver-community",
       "categories" : [
         "public.app-category.developer-tools"
@@ -1168,6 +1188,26 @@
       ],
       "tintColor" : "958080",
       "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wireshark",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "wireshark",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "1E54CB",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
     },
     {
       "beta" : false,

@@ -519,6 +519,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "alacritty",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-alacritty/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-alacritty/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "alacritty",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-alacritty/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "514438",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "alfred",
       "categories" : [
         "public.app-category.productivity"
@@ -899,6 +919,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "libreoffice",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-libreoffice/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-libreoffice/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "libreoffice",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-libreoffice/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "CBCBCB",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "musescore",
       "categories" : [
         "public.app-category.music"
@@ -1016,6 +1056,26 @@
       "tintColor" : "434648",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 2
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "skype",
+      "categories" : [
+        "public.app-category.social-networking"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "skype",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "21A4E3",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
     },
     {
       "beta" : false,

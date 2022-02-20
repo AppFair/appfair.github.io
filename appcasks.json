@@ -473,6 +473,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "gimp",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gimp/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gimp/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "gimp",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gimp/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "5F5B52",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "tor-browser",
       "categories" : [
         "public.app-category.productivity"

@@ -10,7 +10,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
-      "impressionCount" : 178,
+      "impressionCount" : 182,
       "localizedDescription" : "",
       "name" : "blender",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/README.md",
@@ -38,7 +38,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 151,
+      "impressionCount" : 155,
       "name" : "discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
       "screenshotURLs" : [
@@ -63,7 +63,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 136,
+      "impressionCount" : 139,
       "localizedDescription" : "",
       "name" : "firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -77,7 +77,7 @@
       "tintColor" : "E2725E",
       "versionDate" : "2022-02-01T01:07:41Z",
       "versionDescription" : "",
-      "viewCount" : 27
+      "viewCount" : 28
     },
     {
       "beta" : false,
@@ -89,7 +89,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 160,
+      "impressionCount" : 163,
       "localizedDescription" : "",
       "name" : "keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -119,7 +119,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 176,
+      "impressionCount" : 179,
       "localizedDescription" : "",
       "name" : "vlc",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -148,7 +148,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brackets/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brackets/AppIcon.png",
-      "impressionCount" : 215,
+      "impressionCount" : 219,
       "name" : "brackets",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brackets/README.md",
       "screenshotURLs" : [
@@ -172,7 +172,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 136,
+      "impressionCount" : 139,
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
       "screenshotURLs" : [
@@ -200,7 +200,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/AppIcon.png",
-      "impressionCount" : 94,
+      "impressionCount" : 97,
       "name" : "macvim",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/README.md",
       "screenshotURLs" : [
@@ -223,7 +223,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 150,
+      "impressionCount" : 153,
       "name" : "obs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
       "screenshotURLs" : [
@@ -244,7 +244,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/AppIcon.png",
-      "impressionCount" : 69,
+      "impressionCount" : 73,
       "localizedDescription" : "",
       "name" : "bbedit",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/README.md",
@@ -272,7 +272,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 144,
+      "impressionCount" : 147,
       "name" : "emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
       "screenshotURLs" : [
@@ -296,7 +296,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eve-launcher/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eve-launcher/AppIcon.png",
-      "impressionCount" : 129,
+      "impressionCount" : 132,
       "name" : "eve-launcher",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eve-launcher/README.md",
       "screenshotURLs" : [
@@ -318,7 +318,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 143,
+      "impressionCount" : 146,
       "name" : "signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
       "screenshotURLs" : [
@@ -333,7 +333,7 @@
       ],
       "tintColor" : "80A6F4",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 11
+      "viewCount" : 12
     },
     {
       "beta" : false,
@@ -345,7 +345,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 118,
+      "impressionCount" : 119,
       "name" : "spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
       "screenshotURLs" : [
@@ -366,7 +366,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 122,
+      "impressionCount" : 124,
       "name" : "steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
       "screenshotURLs" : [
@@ -389,7 +389,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tower/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tower/AppIcon.png",
-      "impressionCount" : 4,
+      "impressionCount" : 5,
       "name" : "tower",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tower/README.md",
       "screenshotURLs" : [
@@ -414,7 +414,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/AppIcon.png",
-      "impressionCount" : 103,
+      "impressionCount" : 104,
       "name" : "unison",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/README.md",
       "screenshotURLs" : [
@@ -435,7 +435,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yt-music/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yt-music/AppIcon.png",
-      "impressionCount" : 3,
+      "impressionCount" : 5,
       "name" : "yt-music",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yt-music/README.md",
       "screenshotURLs" : [
@@ -456,7 +456,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 103,
+      "impressionCount" : 105,
       "name" : "whatsapp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
       "screenshotURLs" : [
@@ -479,7 +479,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/AppIcon.png",
-      "impressionCount" : 69,
+      "impressionCount" : 71,
       "localizedDescription" : "",
       "name" : "minecraft",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/README.md",
@@ -493,7 +493,7 @@
       "tintColor" : "53552D",
       "versionDate" : "2022-02-01T01:07:41Z",
       "versionDescription" : "",
-      "viewCount" : 16
+      "viewCount" : 17
     },
     {
       "beta" : false,
@@ -505,7 +505,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/AppIcon.png",
-      "impressionCount" : 151,
+      "impressionCount" : 154,
       "name" : "coteditor",
       "screenshotURLs" : [
         "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_01-mac-light-1464x1298.png",
@@ -527,7 +527,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-alfred/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-alfred/AppIcon.png",
-      "impressionCount" : 15,
+      "impressionCount" : 17,
       "name" : "alfred",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-alfred/README.md",
       "screenshotURLs" : [
@@ -547,7 +547,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arduino/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arduino/AppIcon.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "name" : "arduino",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arduino/README.md",
       "screenshotURLs" : [
@@ -567,7 +567,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-atom/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-atom/AppIcon.png",
-      "impressionCount" : 15,
+      "impressionCount" : 17,
       "name" : "atom",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-atom/README.md",
       "screenshotURLs" : [
@@ -587,7 +587,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audio-hijack/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audio-hijack/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 12,
       "name" : "audio-hijack",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audio-hijack/README.md",
       "screenshotURLs" : [
@@ -607,7 +607,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brave-browser/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brave-browser/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 13,
       "name" : "brave-browser",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brave-browser/README.md",
       "screenshotURLs" : [
@@ -627,7 +627,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/AppIcon.png",
-      "impressionCount" : 8,
+      "impressionCount" : 10,
       "name" : "calibre",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/README.md",
       "screenshotURLs" : [
@@ -647,7 +647,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-charles/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-charles/AppIcon.png",
-      "impressionCount" : 5,
+      "impressionCount" : 7,
       "name" : "charles",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-charles/README.md",
       "screenshotURLs" : [
@@ -659,6 +659,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "dbeaver-community",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dbeaver-community/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dbeaver-community/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "dbeaver-community",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dbeaver-community/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "BBBFBD",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "duet",
       "categories" : [
         "public.app-category.productivity"
@@ -667,7 +687,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-duet/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-duet/AppIcon.png",
-      "impressionCount" : 13,
+      "impressionCount" : 14,
       "name" : "duet",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-duet/README.md",
       "screenshotURLs" : [
@@ -687,7 +707,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electrum/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electrum/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 11,
       "name" : "electrum",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electrum/README.md",
       "screenshotURLs" : [
@@ -707,7 +727,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geany/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geany/AppIcon.png",
-      "impressionCount" : 2,
+      "impressionCount" : 3,
       "name" : "geany",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geany/README.md",
       "screenshotURLs" : [
@@ -727,7 +747,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gimp/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gimp/AppIcon.png",
-      "impressionCount" : 16,
+      "impressionCount" : 17,
       "name" : "gimp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gimp/README.md",
       "screenshotURLs" : [
@@ -739,6 +759,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "github",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-github/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-github/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "github",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-github/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "9767B3",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "handbrake",
       "categories" : [
         "public.app-category.video"
@@ -747,7 +787,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-handbrake/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-handbrake/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 11,
       "name" : "handbrake",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-handbrake/README.md",
       "screenshotURLs" : [
@@ -767,7 +807,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hazel/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hazel/AppIcon.png",
-      "impressionCount" : 12,
+      "impressionCount" : 13,
       "name" : "hazel",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hazel/README.md",
       "screenshotURLs" : [
@@ -787,7 +827,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-inkscape/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-inkscape/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 11,
       "name" : "inkscape",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-inkscape/README.md",
       "screenshotURLs" : [
@@ -807,7 +847,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-joplin/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-joplin/AppIcon.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "name" : "joplin",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-joplin/README.md",
       "screenshotURLs" : [
@@ -827,7 +867,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keyboard-maestro/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keyboard-maestro/AppIcon.png",
-      "impressionCount" : 12,
+      "impressionCount" : 13,
       "name" : "keyboard-maestro",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keyboard-maestro/README.md",
       "screenshotURLs" : [
@@ -847,7 +887,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/AppIcon.png",
-      "impressionCount" : 12,
+      "impressionCount" : 13,
       "name" : "league-of-legends",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/README.md",
       "screenshotURLs" : [
@@ -867,7 +907,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-musescore/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-musescore/AppIcon.png",
-      "impressionCount" : 12,
+      "impressionCount" : 13,
       "name" : "musescore",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-musescore/README.md",
       "screenshotURLs" : [
@@ -887,7 +927,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-notion/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-notion/AppIcon.png",
-      "impressionCount" : 14,
+      "impressionCount" : 15,
       "name" : "notion",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-notion/README.md",
       "screenshotURLs" : [
@@ -907,7 +947,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnifocus/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnifocus/AppIcon.png",
-      "impressionCount" : 10,
+      "impressionCount" : 11,
       "name" : "omnifocus",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnifocus/README.md",
       "screenshotURLs" : [
@@ -927,7 +967,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnigraffle/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnigraffle/AppIcon.png",
-      "impressionCount" : 12,
+      "impressionCount" : 13,
       "name" : "omnigraffle",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnigraffle/README.md",
       "screenshotURLs" : [
@@ -947,7 +987,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/AppIcon.png",
-      "impressionCount" : 13,
+      "impressionCount" : 14,
       "name" : "plex",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/README.md",
       "screenshotURLs" : [
@@ -967,7 +1007,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-processing/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-processing/AppIcon.png",
-      "impressionCount" : 11,
+      "impressionCount" : 12,
       "name" : "processing",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-processing/README.md",
       "screenshotURLs" : [
@@ -987,7 +1027,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slack/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slack/AppIcon.png",
-      "impressionCount" : 11,
+      "impressionCount" : 13,
       "name" : "slack",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slack/README.md",
       "screenshotURLs" : [
@@ -1007,7 +1047,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-text/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-text/AppIcon.png",
-      "impressionCount" : 15,
+      "impressionCount" : 16,
       "name" : "sublime-text",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-text/README.md",
       "screenshotURLs" : [
@@ -1027,7 +1067,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/AppIcon.png",
-      "impressionCount" : 25,
+      "impressionCount" : 26,
       "name" : "tor-browser",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
       "screenshotURLs" : [
@@ -1047,7 +1087,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-transmission/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-transmission/AppIcon.png",
-      "impressionCount" : 145,
+      "impressionCount" : 146,
       "name" : "transmission",
       "screenshotURLs" : [
         "https://github.com/App-Fair/appcasks/releases/download/cask-transmission/screenshot_01-mac-1308x1126.png",
@@ -1079,7 +1119,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/AppIcon.png",
-      "impressionCount" : 156,
+      "impressionCount" : 157,
       "name" : "xcodes",
       "screenshotURLs" : [
         "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/screenshot_01-mac-dark-1830x1322.png",
@@ -1097,7 +1137,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-figma/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-figma/AppIcon.png",
-      "impressionCount" : 144,
+      "impressionCount" : 145,
       "name" : "figma",
       "screenshotURLs" : [
 
@@ -1114,7 +1154,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-google-chrome/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-google-chrome/AppIcon.png",
-      "impressionCount" : 157,
+      "impressionCount" : 159,
       "name" : "google-chrome",
       "screenshotURLs" : [
 
@@ -1131,7 +1171,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-microsoft-edge/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-microsoft-edge/AppIcon.png",
-      "impressionCount" : 145,
+      "impressionCount" : 146,
       "name" : "microsoft-edge",
       "screenshotURLs" : [
 
@@ -1148,7 +1188,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-postman/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-postman/AppIcon.png",
-      "impressionCount" : 134,
+      "impressionCount" : 136,
       "name" : "postman",
       "screenshotURLs" : [
 
@@ -1165,7 +1205,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zoom/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zoom/AppIcon.png",
-      "impressionCount" : 112,
+      "impressionCount" : 113,
       "name" : "zoom",
       "screenshotURLs" : [
 
@@ -1182,7 +1222,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xquartz/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xquartz/AppIcon.png",
-      "impressionCount" : 115,
+      "impressionCount" : 116,
       "name" : "xquartz",
       "screenshotURLs" : [
 
@@ -1199,7 +1239,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/AppIcon.png",
-      "impressionCount" : 76,
+      "impressionCount" : 79,
       "localizedDescription" : "",
       "name" : "0-ad",
       "screenshotURLs" : [
@@ -1218,7 +1258,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chromedriver/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chromedriver/AppIcon.png",
-      "impressionCount" : 114,
+      "impressionCount" : 116,
       "name" : "chromedriver",
       "screenshotURLs" : [
 

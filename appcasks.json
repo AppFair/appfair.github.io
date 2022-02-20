@@ -533,6 +533,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "hazel",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hazel/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hazel/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "hazel",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hazel/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "CBC6C5",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "keyboard-maestro",
       "categories" : [
         "public.app-category.productivity"
@@ -573,6 +593,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "musescore",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-musescore/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-musescore/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "musescore",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-musescore/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "3989BF",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "notion",
       "categories" : [
         "public.app-category.productivity"
@@ -588,6 +628,26 @@
 
       ],
       "tintColor" : "9A9A9A",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "omnigraffle",
+      "categories" : [
+        "public.app-category.business"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnigraffle/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnigraffle/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "omnigraffle",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnigraffle/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "6AC276",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 0
     },

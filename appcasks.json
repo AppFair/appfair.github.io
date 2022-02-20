@@ -513,6 +513,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "duet",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-duet/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-duet/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "duet",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-duet/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "EBF1F7",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "gimp",
       "categories" : [
         "public.app-category.graphics-design"
@@ -668,6 +688,26 @@
 
       ],
       "tintColor" : "3C3221",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "processing",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-processing/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-processing/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "processing",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-processing/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "434648",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 0
     },

@@ -633,6 +633,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "geany",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geany/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geany/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "geany",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geany/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "EDDD98",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "gimp",
       "categories" : [
         "public.app-category.graphics-design"

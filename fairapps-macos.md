@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.249``](https://github.com/App-Fair/App/releases/0.7.249) | `0` | `0` | `1` | `6.8 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-21T17:58:55Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
-| [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.17``](https://github.com/Hex-Loupe/App/releases/0.0.17) | `14` | `7` | `2` | `2.5 MB` | `0` | `0` | `2022-02-20T09:22:27Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.250``](https://github.com/App-Fair/App/releases/0.7.250) | `0` | `0` | `1` | `6.8 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-21T18:50:16Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.17``](https://github.com/Hex-Loupe/App/releases/0.0.17) | `15` | `7` | `2` | `2.5 MB` | `0` | `0` | `2022-02-20T09:22:27Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `21` | `6` | `4` | `2.5 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.16``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `15` | `2` | `1` | `2.5 MB` | `0` | `0` | `2022-02-12T16:07:11Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.24``](https://github.com/Name-Sense/App/releases/0.0.24) | `16` | `8` | `3` | `2.7 MB` | `0` | `0` | `2022-02-12T14:56:58Z` | [`education`](https://github.com/topics/appfair-education)  |

@@ -23,13 +23,12 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.414β``](https://github.com/Tune-Out/App/releases/0.8.414) | `0` | `0` | `1` | `16.5 MB` | `0` | `0` | `2022-02-22T18:16:27Z` | [`music`](https://github.com/topics/appfair-music)  |
+| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.414``](https://github.com/Tune-Out/App/releases/0.8.414) | `1` | `1` | `2` | `16.5 MB` | `0` | `0` | `2022-02-22T18:16:27Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.17``](https://github.com/Hex-Loupe/App/releases/0.0.17) | `17` | `7` | `2` | `6.4 MB` | `0` | `0` | `2022-02-20T09:22:27Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `22` | `7` | `2` | `6.4 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.16``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `16` | `2` | `1` | `6.3 MB` | `0` | `0` | `2022-02-12T16:07:11Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.24``](https://github.com/Name-Sense/App/releases/0.0.24) | `17` | `9` | `2` | `6.5 MB` | `0` | `0` | `2022-02-12T14:56:58Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.20``](https://github.com/Cloud-Cuckoo/App/releases/0.9.20) | `28` | `10` | `2` | `6.3 MB` | `0` | `0` | `2022-02-12T14:52:58Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.405``](https://github.com/Tune-Out/App/releases/0.8.405) | `63` | `12` | `2` | `16.3 MB` | `0` | `0` | `2022-02-02T02:04:45Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.39``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.39) | `152` | `37` | `2` | `1.46 GB` | `0` | `0` | `2022-01-26T22:14:31Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.7β``](https://github.com/Tweet-Storm/App/releases/0.0.7) | `113` | `19` | `3` | `6.2 MB` | `0` | `0` | `2022-01-26T22:14:00Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.38β``](https://github.com/Hear-Tell/App/releases/0.3.38) | `68` | `15` | `1` | `5.9 MB` | `0` | `0` | `2022-01-26T22:12:32Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |

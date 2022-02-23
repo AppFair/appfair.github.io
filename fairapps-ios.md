@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.414``](https://github.com/Tune-Out/App/releases/0.8.414) | `2` | `2` | `2` | `16.5 MB` | `0` | `0` | `2022-02-22T18:16:27Z` | [`music`](https://github.com/topics/appfair-music)  |
+| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.414``](https://github.com/Tune-Out/App/releases/0.8.414) | `3` | `2` | `2` | `16.5 MB` | `0` | `0` | `2022-02-22T18:16:27Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.17``](https://github.com/Hex-Loupe/App/releases/0.0.17) | `18` | `8` | `2` | `6.4 MB` | `0` | `0` | `2022-02-20T09:22:27Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `22` | `7` | `2` | `6.4 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.16``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `16` | `2` | `1` | `6.3 MB` | `0` | `0` | `2022-02-12T16:07:11Z` | [`games`](https://github.com/topics/appfair-games)  |

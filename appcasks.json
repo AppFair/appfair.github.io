@@ -779,6 +779,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "fork",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fork/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fork/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "fork",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fork/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "2FB4DE",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "geany",
       "categories" : [
         "public.app-category.developer-tools"
@@ -938,6 +958,26 @@
       "tintColor" : "9F94D6",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 2
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "istat-menus",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-istat-menus/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-istat-menus/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "istat-menus",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-istat-menus/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "94A1C6",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
     },
     {
       "beta" : false,

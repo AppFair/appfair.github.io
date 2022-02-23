@@ -739,6 +739,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "dozer",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dozer/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dozer/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "dozer",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dozer/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "D8D6C1",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "duet",
       "categories" : [
         "public.app-category.productivity"
@@ -1058,6 +1078,26 @@
       "tintColor" : "CBCBCB",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 4
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "maccy",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-maccy/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-maccy/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "maccy",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-maccy/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "E6A5B1",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
     },
     {
       "beta" : false,

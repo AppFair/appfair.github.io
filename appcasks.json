@@ -1121,6 +1121,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "opera",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-opera/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-opera/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "opera",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-opera/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "D71E28",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "plex",
       "categories" : [
         "public.app-category.video"
@@ -1158,6 +1178,26 @@
       "tintColor" : "434648",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 4
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sequel-pro",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sequel-pro/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sequel-pro/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "sequel-pro",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sequel-pro/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "C9B482",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
     },
     {
       "beta" : false,
@@ -1238,6 +1278,26 @@
       "tintColor" : "FBE0A3",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 1
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "thunderbird",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thunderbird/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thunderbird/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "thunderbird",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thunderbird/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "B0C3DC",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
     },
     {
       "beta" : false,

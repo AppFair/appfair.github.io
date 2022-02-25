@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.257β``](https://github.com/App-Fair/App/releases/0.7.257) | `0` | `0` | `2` | `6.8 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-25T12:16:02Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.416``](https://github.com/Tune-Out/App/releases/0.8.416) | `0` | `1` | `1` | `8.7 MB` | `0` | `0` | `2022-02-25T11:44:53Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.256``](https://github.com/App-Fair/App/releases/0.7.256) | `1` | `0` | `4` | `6.8 MB` | `0` | [``1``](https://github.com/App-Fair/App/issues) | `2022-02-25T11:44:09Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.17``](https://github.com/Hex-Loupe/App/releases/0.0.17) | `22` | `9` | `2` | `2.5 MB` | `0` | `0` | `2022-02-20T09:22:27Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |

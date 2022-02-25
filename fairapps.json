@@ -1,7 +1,7 @@
 {
   "apps" : [
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
         "public.app-category.utilities"
@@ -59,68 +59,6 @@
       "version" : "0.7.257",
       "versionDate" : "2022-02-25T12:16:02Z",
       "versionDescription" : "Release 0.7.257",
-      "viewCount" : 0,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "coreSize" : 170656,
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.256/App-Fair-macOS.zip",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.256/App-Fair.png",
-      "impressionCount" : 1,
-      "issueCount" : 1,
-      "localizedDescription" : "The App Fair catalog browser for discovering & installing macOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.256/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "type" : "temporary-exception.files.absolute-path.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.256/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_01-mac-dark-2480x2038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_01-mac-light-2480x2038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_02-mac-dark-2764x1826.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_02-mac-light-2764x1826.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_06-mac-1424x1426.png"
-      ],
-      "sha256" : "a473046cf5057994525ee341e8cecc4224546262fac5a8609ba4741a3ca85643",
-      "size" : 6845115,
-      "starCount" : 0,
-      "subtitle" : "The App Fair catalog browser for discovering & installing macOS apps",
-      "tintColor" : "1594E8",
-      "version" : "0.7.256",
-      "versionDate" : "2022-02-25T11:44:09Z",
-      "versionDescription" : "Release 0.7.256",
       "viewCount" : 0,
       "watcherCount" : 0
     },
@@ -1076,12 +1014,12 @@
       "coreSize" : 103112,
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.416/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.416/Tune-Out.png",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.417/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.417/Tune-Out.png",
       "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.416/Info.plist#da1178bbc554a616134b3e3978c20c006aa1ff3014f14b3d0a6fc7e96cbc451a",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.417/Info.plist#da1178bbc554a616134b3e3978c20c006aa1ff3014f14b3d0a6fc7e96cbc451a",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -1089,24 +1027,24 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.416/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.417/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.416/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.416/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.416/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.416/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.416/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.416/screenshot_03-mac-2180x1464.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.417/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.417/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.417/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.417/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.417/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.417/screenshot_03-mac-2180x1464.png"
       ],
-      "sha256" : "9643f4d8f5710f61b79c14093064bb7d42de7b81248a444272ddaf7044caf595",
-      "size" : 8673808,
+      "sha256" : "fa0da0be78fca4d3e0334f0c78f9c2ef15eca6d73ed5612d111e73149c27b6fe",
+      "size" : 8673799,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.416",
-      "versionDate" : "2022-02-25T11:44:53Z",
-      "versionDescription" : "Release 0.8.416",
-      "viewCount" : 1,
+      "version" : "0.8.417",
+      "versionDate" : "2022-02-25T12:16:06Z",
+      "versionDescription" : "Release 0.8.417",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

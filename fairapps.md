@@ -54,7 +54,7 @@ tr:nth-child(even) {
 | [`Fox Glove`](https://Fox-Glove.github.io/App/) | [``0.0.4β``](https://github.com/Fox-Glove/App/releases/0.0.4) | `141` | `16` | `3` | `2.4 MB` | `0` | `0` | `2022-01-23T23:13:52Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Ultra Light`](https://Ultra-Light.github.io/App/) | [``0.0.7β``](https://github.com/Ultra-Light/App/releases/0.0.7) | `58` | `15` | `2` | `2.3 MB` | `0` | `0` | `2022-01-21T14:04:24Z` | [`news`](https://github.com/topics/appfair-news)  |
 | [`Next Edit`](https://Next-Edit.github.io/App/) | [``0.4.18``](https://github.com/Next-Edit/App/releases/0.4.18) | `135` | `29` | `4` | `6.7 MB` | `0` | `0` | `2022-01-20T03:44:49Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
-| [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.51β``](https://github.com/Neural-Scry/App/releases/0.0.51) | `10` | `4` | `3` | `2.3 MB` | `0` | `0` | `2022-01-16T15:48:12Z` | [`medical`](https://github.com/topics/appfair-medical)  |
+| [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.51β``](https://github.com/Neural-Scry/App/releases/0.0.51) | `11` | `4` | `3` | `2.3 MB` | `0` | `0` | `2022-01-16T15:48:12Z` | [`medical`](https://github.com/topics/appfair-medical)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.5β``](https://github.com/Net-Skip/App/releases/0.0.5) | `539` | `76` | `4` | `2.5 MB` | `0` | `0` | `2022-01-10T00:38:53Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 
 <center><small>`{{ site.time | date_to_xmlschema }}`</small></center>

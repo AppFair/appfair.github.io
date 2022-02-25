@@ -8,14 +8,14 @@
       ],
       "coreSize" : 170656,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.255/App-Fair-macOS.zip",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.256/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.255/App-Fair.png",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.256/App-Fair.png",
       "impressionCount" : 0,
       "issueCount" : 1,
       "localizedDescription" : "The App Fair catalog browser for discovering & installing macOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.255/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.256/Info.plist#f9031ca024d3665ff2bd6f595fad8c594538b51726bbfcef7bd84985944b533b",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -39,26 +39,26 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.255/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.256/README.md#0979487b3e08e5f537f7c28d5caf80ea0ce0775ae8d162b7648f3f3ff7c51334",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.255/screenshot_01-mac-dark-2480x2038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.255/screenshot_01-mac-light-2480x2038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.255/screenshot_02-mac-dark-2764x1826.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.255/screenshot_02-mac-light-2764x1826.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.255/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.255/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.255/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.255/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.255/screenshot_06-mac-1424x1426.png"
+        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_01-mac-dark-2480x2038.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_01-mac-light-2480x2038.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_02-mac-dark-2764x1826.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_02-mac-light-2764x1826.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.256/screenshot_06-mac-1424x1426.png"
       ],
-      "sha256" : "cb9bcc67be2efe8d7bdd525ba0ed57767d6dcdc7d519c11aa49261e9c61deb60",
-      "size" : 6845128,
+      "sha256" : "a473046cf5057994525ee341e8cecc4224546262fac5a8609ba4741a3ca85643",
+      "size" : 6845115,
       "starCount" : 0,
       "subtitle" : "The App Fair catalog browser for discovering & installing macOS apps",
       "tintColor" : "1594E8",
-      "version" : "0.7.255",
-      "versionDate" : "2022-02-25T10:23:20Z",
-      "versionDescription" : "Release 0.7.255",
+      "version" : "0.7.256",
+      "versionDate" : "2022-02-25T11:44:09Z",
+      "versionDescription" : "Release 0.7.256",
       "viewCount" : 0,
       "watcherCount" : 0
     },
@@ -115,7 +115,7 @@
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Cloud-Cuckoo.png",
-      "impressionCount" : 29,
+      "impressionCount" : 30,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.20/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -138,7 +138,7 @@
       "version" : "0.9.20",
       "versionDate" : "2022-02-12T14:52:58Z",
       "versionDescription" : "Release 0.9.20",
-      "viewCount" : 10,
+      "viewCount" : 11,
       "watcherCount" : 0
     },
     {
@@ -391,7 +391,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.17/Hex-Loupe-macOS.zip",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.17/Hex-Loupe.png",
-      "impressionCount" : 19,
+      "impressionCount" : 20,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.17/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
@@ -417,7 +417,7 @@
       "version" : "0.0.17",
       "versionDate" : "2022-02-20T09:22:27Z",
       "versionDescription" : "Release 0.0.17",
-      "viewCount" : 8,
+      "viewCount" : 9,
       "watcherCount" : 0
     },
     {
@@ -464,7 +464,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion.png",
-      "impressionCount" : 99,
+      "impressionCount" : 100,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Info.plist#76f9d948a52cc9c42ed46c99936d3329c9675802a548c3e19557a047992ce020",
@@ -487,7 +487,7 @@
       "version" : "0.0.83",
       "versionDate" : "2022-01-26T12:24:38Z",
       "versionDescription" : "Release 0.0.83",
-      "viewCount" : 22,
+      "viewCount" : 23,
       "watcherCount" : 0
     },
     {
@@ -603,7 +603,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense-macOS.zip",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense.png",
-      "impressionCount" : 18,
+      "impressionCount" : 19,
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -623,7 +623,7 @@
       "version" : "0.0.24",
       "versionDate" : "2022-02-12T14:56:58Z",
       "versionDescription" : "Release 0.0.24",
-      "viewCount" : 9,
+      "viewCount" : 10,
       "watcherCount" : 0
     },
     {
@@ -730,7 +730,7 @@
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "impressionCount" : 135,
+      "impressionCount" : 136,
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
@@ -752,7 +752,7 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T03:44:49Z",
       "versionDescription" : "Release 0.4.18",
-      "viewCount" : 29,
+      "viewCount" : 30,
       "watcherCount" : 0
     },
     {
@@ -880,7 +880,7 @@
       "downloadCount" : 13,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues-macOS.zip",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Sita-Sings-the-Blues.png",
-      "impressionCount" : 153,
+      "impressionCount" : 154,
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.39/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -901,7 +901,7 @@
       "version" : "0.0.39",
       "versionDate" : "2022-01-26T22:14:31Z",
       "versionDescription" : "Release 0.0.39",
-      "viewCount" : 37,
+      "viewCount" : 38,
       "watcherCount" : 0
     },
     {
@@ -949,7 +949,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-macOS.zip",
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 25,
+      "impressionCount" : 26,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -968,7 +968,7 @@
       "version" : "0.0.20",
       "versionDate" : "2022-02-12T16:07:15Z",
       "versionDescription" : "Release 0.0.20",
-      "viewCount" : 8,
+      "viewCount" : 9,
       "watcherCount" : 0
     },
     {
@@ -982,7 +982,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-macOS.zip",
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz.png",
-      "impressionCount" : 17,
+      "impressionCount" : 18,
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
       "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1002,7 +1002,7 @@
       "version" : "0.0.16",
       "versionDate" : "2022-02-12T16:07:11Z",
       "versionDescription" : "Release 0.0.16",
-      "viewCount" : 2,
+      "viewCount" : 3,
       "watcherCount" : 0
     },
     {
@@ -1016,7 +1016,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.414/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.414/Tune-Out.png",
-      "impressionCount" : 4,
+      "impressionCount" : 5,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.414/Info.plist#da1178bbc554a616134b3e3978c20c006aa1ff3014f14b3d0a6fc7e96cbc451a",
@@ -1044,7 +1044,7 @@
       "version" : "0.8.414",
       "versionDate" : "2022-02-22T18:16:27Z",
       "versionDescription" : "Release 0.8.414",
-      "viewCount" : 2,
+      "viewCount" : 3,
       "watcherCount" : 0
     },
     {

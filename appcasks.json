@@ -274,6 +274,29 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "whatsapp",
+      "categories" : [
+        "public.app-category.social-networking"
+      ],
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
+      "impressionCount" : 221,
+      "name" : "whatsapp",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_01-mac-2272x1524.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_02-mac-1724x1420.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_03-mac-1724x1420.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_04-mac-1724x1746.png"
+      ],
+      "tintColor" : "5DE26D",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 18
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "bbedit",
       "categories" : [
         "public.app-category.developer-tools"
@@ -491,29 +514,6 @@
       "tintColor" : "D3872A",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 19
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "whatsapp",
-      "categories" : [
-        "public.app-category.social-networking"
-      ],
-      "downloadCount" : 0,
-      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/cask-install",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 220,
-      "name" : "whatsapp",
-      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_01-mac-2272x1524.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_02-mac-1724x1420.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_03-mac-1724x1420.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_04-mac-1724x1746.png"
-      ],
-      "tintColor" : "5DE26D",
-      "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 17
     },
     {
       "beta" : false,

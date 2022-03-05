@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.273``](https://github.com/App-Fair/App/releases/0.7.273) | `0` | `0` | `2` | `6.9 MB` | `2` | [``1``](https://github.com/App-Fair/App/issues) | `2022-03-04T23:13:26Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
-| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.418``](https://github.com/Tune-Out/App/releases/0.8.418) | `23` | `2` | `3` | `8.8 MB` | `0` | `0` | `2022-02-25T22:08:57Z` | [`music`](https://github.com/topics/appfair-music)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.274``](https://github.com/App-Fair/App/releases/0.7.274) | `0` | `0` | `1` | `6.9 MB` | `2` | [``1``](https://github.com/App-Fair/App/issues) | `2022-03-04T23:59:18Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.418``](https://github.com/Tune-Out/App/releases/0.8.418) | `24` | `2` | `3` | `8.8 MB` | `0` | `0` | `2022-02-25T22:08:57Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.45``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.45) | `20` | `3` | `3` | `1.45 GB` | `0` | `0` | `2022-02-25T14:24:44Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.17``](https://github.com/Hex-Loupe/App/releases/0.0.17) | `44` | `12` | `3` | `2.5 MB` | `0` | `0` | `2022-02-20T09:22:27Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `50` | `11` | `5` | `2.5 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |

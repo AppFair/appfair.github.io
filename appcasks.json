@@ -2697,6 +2697,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "mimestream",
+      "categories" : [
+
+      ],
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mimestream/cask-install",
+      "homepage" : "https://appfair.app",
+      "name" : "mimestream",
+      "screenshotURLs" : [
+
+      ],
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "volt",
       "categories" : [
 
@@ -2840,21 +2855,6 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-microsoft-excel/cask-install",
       "homepage" : "https://appfair.app",
       "name" : "microsoft-excel",
-      "screenshotURLs" : [
-
-      ],
-      "versionDate" : "2022-02-01T01:07:41Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "mimestream",
-      "categories" : [
-
-      ],
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mimestream/cask-install",
-      "homepage" : "https://appfair.app",
-      "name" : "mimestream",
       "screenshotURLs" : [
 
       ],

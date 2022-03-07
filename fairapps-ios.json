@@ -1,6 +1,59 @@
 {
   "apps" : [
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Blunder-Busq",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 102480,
+      "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.6/Blunder-Busq-iOS.ipa",
+      "homepage" : "https://www.blunderbusq.app",
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.6/Blunder-Busq.png",
+      "impressionCount" : 0,
+      "issueCount" : 0,
+      "localizedDescription" : "App for managing iOS devices",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.6/Info.plist#2b718972e75627755bdc271577a63e95927bfc6fc75d22c7df0a0f35e0d16abe",
+      "name" : "Blunder Busq",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This app needs to access USB devices"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+        },
+        {
+          "type" : "application-groups",
+          "usageDescription" : "This app needs to access application groups"
+        }
+      ],
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "bc99a131605ed66875d14df0608a920fe5c07238b9237458529cd92c1065750e",
+      "size" : 9122931,
+      "starCount" : 0,
+      "subtitle" : "App for managing iOS devices",
+      "version" : "0.0.6",
+      "versionDate" : "2022-03-07T22:26:20Z",
+      "versionDescription" : "Release 0.0.6",
+      "viewCount" : 0,
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Blunder-Busq",
       "categories" : [

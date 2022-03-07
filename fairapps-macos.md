@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.1β``](https://github.com/Blunder-Busq/App/releases/0.0.1) | `0` | `0` | `1` | `2.5 MB` | `0` | `0` | `2022-03-07T10:47:35Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.274``](https://github.com/App-Fair/App/releases/0.7.274) | `3` | `1` | `5` | `6.9 MB` | `2` | [``1``](https://github.com/App-Fair/App/issues) | `2022-03-04T23:59:18Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.418``](https://github.com/Tune-Out/App/releases/0.8.418) | `25` | `2` | `3` | `8.8 MB` | `0` | `0` | `2022-02-25T22:08:57Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.45``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.45) | `21` | `3` | `3` | `1.45 GB` | `0` | `0` | `2022-02-25T14:24:44Z` | [`video`](https://github.com/topics/appfair-video)  |

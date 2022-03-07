@@ -66,6 +66,40 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Blunder-Busq",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "coreSize" : 170224,
+      "developerName" : "blunderbusq <101105313+blunderbusq@users.noreply.github.com>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.1/Blunder-Busq-macOS.zip",
+      "homepage" : "https://www.blunderbusq.app",
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.1/Blunder-Busq.png",
+      "impressionCount" : 0,
+      "issueCount" : 0,
+      "localizedDescription" : "App for managing iOS devices",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.1/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Blunder Busq",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "1c900e92a1e89035c5d2b5ef8f2794da2b44ca85b0084505438046421e690f39",
+      "size" : 2488743,
+      "starCount" : 0,
+      "subtitle" : "App for managing iOS devices",
+      "version" : "0.0.1",
+      "versionDate" : "2022-03-07T10:47:35Z",
+      "versionDescription" : "",
+      "viewCount" : 0,
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
         "public.app-category.reference"

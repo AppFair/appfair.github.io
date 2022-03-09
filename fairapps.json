@@ -72,14 +72,14 @@
       ],
       "coreSize" : 102480,
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.8/Blunder-Busq-macOS.zip",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.9/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.8/Blunder-Busq.png",
-      "impressionCount" : 8,
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.9/Blunder-Busq.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.8/Info.plist#2b718972e75627755bdc271577a63e95927bfc6fc75d22c7df0a0f35e0d16abe",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.9/Info.plist#2b718972e75627755bdc271577a63e95927bfc6fc75d22c7df0a0f35e0d16abe",
       "name" : "Blunder Busq",
       "permissions" : [
         {
@@ -103,18 +103,18 @@
           "usageDescription" : "This app needs to access application groups"
         }
       ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "a8f986b09b7dccdb1adc2546c4983c025db046ccb4cb4a564f827c977dfb157e",
-      "size" : 3603203,
+      "sha256" : "fd276da59df06aa35111ce46520d39088323f56ec5bd19e00937a57a840010bc",
+      "size" : 3624286,
       "starCount" : 0,
       "subtitle" : "App for managing iOS devices",
-      "version" : "0.0.8",
-      "versionDate" : "2022-03-08T23:56:10Z",
-      "versionDescription" : "Release 0.0.8",
-      "viewCount" : 1,
+      "version" : "0.0.9",
+      "versionDate" : "2022-03-09T17:58:28Z",
+      "versionDescription" : "Release 0.0.9",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

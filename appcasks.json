@@ -91,7 +91,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/AppIcon.png",
-      "impressionCount" : 208,
+      "impressionCount" : 209,
       "name" : "macdown",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/README.md",
       "screenshotURLs" : [
@@ -687,6 +687,26 @@
       "tintColor" : "434648",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 18
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tor-browser",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/cask-install",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/AppIcon.png",
+      "impressionCount" : 114,
+      "name" : "tor-browser",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "8236A8",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 10
     },
     {
       "beta" : false,
@@ -1720,7 +1740,7 @@
       "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-monitorcontrol/cask-install",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-monitorcontrol/AppIcon.png",
-      "impressionCount" : 67,
+      "impressionCount" : 68,
       "name" : "monitorcontrol",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-monitorcontrol/README.md",
       "screenshotURLs" : [
@@ -2271,26 +2291,6 @@
       "tintColor" : "B0C3DC",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 1
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tor-browser",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadCount" : 0,
-      "downloadURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/cask-install",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/AppIcon.png",
-      "impressionCount" : 113,
-      "name" : "tor-browser",
-      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
-      "screenshotURLs" : [
-
-      ],
-      "tintColor" : "8236A8",
-      "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 9
     },
     {
       "beta" : false,

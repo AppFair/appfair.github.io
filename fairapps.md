@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.12``](https://github.com/Blunder-Busq/App/releases/0.0.12) | `2` | `1` | `2` | `3.7 MB` | `0` | `0` | `2022-03-10T10:51:17Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.276``](https://github.com/App-Fair/App/releases/0.7.276) | `9` | `1` | `6` | `6.9 MB` | `2` | [``1``](https://github.com/App-Fair/App/issues) | `2022-03-08T06:26:56Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.12``](https://github.com/Blunder-Busq/App/releases/0.0.12) | `3` | `1` | `2` | `3.7 MB` | `0` | `0` | `2022-03-10T10:51:17Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.276``](https://github.com/App-Fair/App/releases/0.7.276) | `10` | `1` | `6` | `6.9 MB` | `2` | [``1``](https://github.com/App-Fair/App/issues) | `2022-03-08T06:26:56Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.418``](https://github.com/Tune-Out/App/releases/0.8.418) | `38` | `4` | `3` | `8.8 MB` | `0` | `0` | `2022-02-25T22:08:57Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.45``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.45) | `31` | `5` | `3` | `1.45 GB` | `0` | `0` | `2022-02-25T14:24:44Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.17``](https://github.com/Hex-Loupe/App/releases/0.0.17) | `54` | `14` | `3` | `2.5 MB` | `0` | `0` | `2022-02-20T09:22:27Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |

@@ -8,14 +8,14 @@
       ],
       "coreSize" : 102480,
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.12/Blunder-Busq-iOS.ipa",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.13/Blunder-Busq-iOS.ipa",
       "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.12/Blunder-Busq.png",
-      "impressionCount" : 11,
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.13/Blunder-Busq.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.12/Info.plist#2b718972e75627755bdc271577a63e95927bfc6fc75d22c7df0a0f35e0d16abe",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.13/Info.plist#cc378620c106672312bbe92f7ca3e83c3a4777274443f4e77c516b9de1c5fa9d",
       "name" : "Blunder Busq",
       "permissions" : [
         {
@@ -33,25 +33,21 @@
         {
           "type" : "files.user-selected.read-only",
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
-        },
-        {
-          "type" : "application-groups",
-          "usageDescription" : "This app needs to access application groups"
         }
       ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.12/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.13/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "8a9362795941894f7a588fd7b4361f89af691aca221304ea350ace455d65fc21",
-      "size" : 9480666,
+      "sha256" : "b245daf1ac620cfea45a55581896fe71ca140ed078dd9e00f7d6c299a463f10b",
+      "size" : 9512907,
       "starCount" : 0,
       "subtitle" : "App for managing iOS devices",
       "tintColor" : "587FE3",
-      "version" : "0.0.12",
-      "versionDate" : "2022-03-10T10:51:17Z",
-      "versionDescription" : "Release 0.0.12",
-      "viewCount" : 6,
+      "version" : "0.0.13",
+      "versionDate" : "2022-03-10T18:48:31Z",
+      "versionDescription" : "Release 0.0.13",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

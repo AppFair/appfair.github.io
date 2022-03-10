@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.9``](https://github.com/Blunder-Busq/App/releases/0.0.9) | `2` | `1` | `2` | `9.3 MB` | `0` | `0` | `2022-03-09T17:58:28Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
-| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.418``](https://github.com/Tune-Out/App/releases/0.8.418) | `34` | `4` | `1` | `16.6 MB` | `0` | `0` | `2022-02-25T22:08:57Z` | [`music`](https://github.com/topics/appfair-music)  |
+| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.418``](https://github.com/Tune-Out/App/releases/0.8.418) | `35` | `4` | `2` | `16.6 MB` | `0` | `0` | `2022-02-25T22:08:57Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.45``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.45) | `28` | `5` | `1` | `1.46 GB` | `0` | `0` | `2022-02-25T14:24:44Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.17``](https://github.com/Hex-Loupe/App/releases/0.0.17) | `52` | `14` | `2` | `6.4 MB` | `0` | `0` | `2022-02-20T09:22:27Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `61` | `12` | `2` | `6.4 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |

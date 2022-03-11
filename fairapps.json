@@ -72,11 +72,11 @@
       ],
       "coreSize" : 102480,
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/Blunder-Busq.png",
-      "impressionCount" : 0,
+      "impressionCount" : 2,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
       "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/Info.plist#cc378620c106672312bbe92f7ca3e83c3a4777274443f4e77c516b9de1c5fa9d",
@@ -108,7 +108,7 @@
       "version" : "0.0.15",
       "versionDate" : "2022-03-11T08:36:22Z",
       "versionDescription" : "Release 0.0.15",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {

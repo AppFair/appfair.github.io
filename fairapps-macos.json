@@ -72,14 +72,14 @@
       ],
       "coreSize" : 170576,
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.19/Blunder-Busq-macOS.zip",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.20/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.19/Blunder-Busq.png",
-      "impressionCount" : 3,
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.20/Blunder-Busq.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.19/Info.plist#99cc44e4cbf050700371984814b95971f777bf75d5c1b946b455533faed2bf4e",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.20/Info.plist#99cc44e4cbf050700371984814b95971f777bf75d5c1b946b455533faed2bf4e",
       "name" : "Blunder Busq",
       "permissions" : [
         {
@@ -95,20 +95,20 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.19/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.20/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
       "screenshotURLs" : [
-        "https://github.com/Blunder-Busq/App/releases/download/0.0.19/screenshot_01-mac-dark-2560x1884.png",
-        "https://github.com/Blunder-Busq/App/releases/download/0.0.19/screenshot_01-mac-light-2560x1884.png"
+        "https://github.com/Blunder-Busq/App/releases/download/0.0.20/screenshot_01-mac-dark-2560x1884.png",
+        "https://github.com/Blunder-Busq/App/releases/download/0.0.20/screenshot_01-mac-light-2560x1884.png"
       ],
-      "sha256" : "2b1aa8ebea6b2049441fe6b346a496c1240a9def2a2089f60bf32f0c89e38854",
-      "size" : 3762556,
+      "sha256" : "6d8935fd52d9e2609f7128c726a3a3e6302849786f352ad05ac153f7a1422bdf",
+      "size" : 3781237,
       "starCount" : 0,
       "subtitle" : "App for managing iOS devices",
       "tintColor" : "587FE3",
-      "version" : "0.0.19",
-      "versionDate" : "2022-03-11T20:16:44Z",
-      "versionDescription" : "Release 0.0.19",
-      "viewCount" : 2,
+      "version" : "0.0.20",
+      "versionDate" : "2022-03-11T23:43:58Z",
+      "versionDescription" : "Release 0.0.20",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -1065,7 +1065,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.418/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.418/Tune-Out.png",
-      "impressionCount" : 42,
+      "impressionCount" : 43,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.418/Info.plist#da1178bbc554a616134b3e3978c20c006aa1ff3014f14b3d0a6fc7e96cbc451a",

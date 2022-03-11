@@ -73,21 +73,17 @@
       "coreSize" : 102480,
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.13/Blunder-Busq-macOS.zip",
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.14/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.13/Blunder-Busq.png",
-      "impressionCount" : 1,
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.14/Blunder-Busq.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.13/Info.plist#cc378620c106672312bbe92f7ca3e83c3a4777274443f4e77c516b9de1c5fa9d",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.14/Info.plist#cc378620c106672312bbe92f7ca3e83c3a4777274443f4e77c516b9de1c5fa9d",
       "name" : "Blunder Busq",
       "permissions" : [
         {
           "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "type" : "network.server",
           "usageDescription" : "This app needs to access the network in order to download books"
         },
         {
@@ -99,19 +95,19 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.13/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.14/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
       "screenshotURLs" : [
-        "https://github.com/Blunder-Busq/App/releases/download/0.0.13/screenshot_01-mac-dark-2580x1776.png",
-        "https://github.com/Blunder-Busq/App/releases/download/0.0.13/screenshot_01-mac-light-2580x1776.png"
+        "https://github.com/Blunder-Busq/App/releases/download/0.0.14/screenshot_01-mac-dark-2580x1776.png",
+        "https://github.com/Blunder-Busq/App/releases/download/0.0.14/screenshot_01-mac-light-2580x1776.png"
       ],
-      "sha256" : "6d68b7d9d57ccb65c2109d81e2e89f7a81b81f2da50c8d1cacbb86e62d8f2f14",
-      "size" : 3718580,
+      "sha256" : "2fd88517ab374305b935c3291f67bcafcc9f9167f9a473df4b83f442ee3093b4",
+      "size" : 3720993,
       "starCount" : 0,
       "subtitle" : "App for managing iOS devices",
       "tintColor" : "587FE3",
-      "version" : "0.0.13",
-      "versionDate" : "2022-03-10T18:48:31Z",
-      "versionDescription" : "Release 0.0.13",
+      "version" : "0.0.14",
+      "versionDate" : "2022-03-11T08:07:11Z",
+      "versionDescription" : "Release 0.0.14",
       "viewCount" : 0,
       "watcherCount" : 0
     },

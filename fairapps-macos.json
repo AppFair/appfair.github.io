@@ -72,14 +72,14 @@
       ],
       "coreSize" : 102480,
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/Blunder-Busq-macOS.zip",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.16/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/Blunder-Busq.png",
-      "impressionCount" : 2,
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.16/Blunder-Busq.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/Info.plist#cc378620c106672312bbe92f7ca3e83c3a4777274443f4e77c516b9de1c5fa9d",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.16/Info.plist#cc378620c106672312bbe92f7ca3e83c3a4777274443f4e77c516b9de1c5fa9d",
       "name" : "Blunder Busq",
       "permissions" : [
         {
@@ -95,20 +95,20 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.16/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
       "screenshotURLs" : [
-        "https://github.com/Blunder-Busq/App/releases/download/0.0.15/screenshot_01-mac-dark-2580x1776.png",
-        "https://github.com/Blunder-Busq/App/releases/download/0.0.15/screenshot_01-mac-light-2580x1776.png"
+        "https://github.com/Blunder-Busq/App/releases/download/0.0.16/screenshot_01-mac-dark-2560x1884.png",
+        "https://github.com/Blunder-Busq/App/releases/download/0.0.16/screenshot_01-mac-light-2560x1884.png"
       ],
-      "sha256" : "44fef9492aae62ec23fa092c1134fde0e0b887f175942695833251cfb11975b8",
-      "size" : 3720777,
+      "sha256" : "3e6d8eb2945be449bb72dcc54e3c1e2b3599f2011db9836f49abb437edabf904",
+      "size" : 3751825,
       "starCount" : 0,
       "subtitle" : "App for managing iOS devices",
       "tintColor" : "587FE3",
-      "version" : "0.0.15",
-      "versionDate" : "2022-03-11T08:36:22Z",
-      "versionDescription" : "Release 0.0.15",
-      "viewCount" : 1,
+      "version" : "0.0.16",
+      "versionDate" : "2022-03-11T10:30:25Z",
+      "versionDescription" : "Release 0.0.16",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

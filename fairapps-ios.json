@@ -9,13 +9,13 @@
       "coreSize" : 102480,
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.14/Blunder-Busq-iOS.ipa",
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/Blunder-Busq-iOS.ipa",
       "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.14/Blunder-Busq.png",
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/Blunder-Busq.png",
       "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.14/Info.plist#cc378620c106672312bbe92f7ca3e83c3a4777274443f4e77c516b9de1c5fa9d",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/Info.plist#cc378620c106672312bbe92f7ca3e83c3a4777274443f4e77c516b9de1c5fa9d",
       "name" : "Blunder Busq",
       "permissions" : [
         {
@@ -31,18 +31,18 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.14/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.15/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "7701227e503787408d95e18ae0993cdb652d5f7592481e33b3284e672e3ef44e",
-      "size" : 9527828,
+      "sha256" : "b243a628033c71188eb412452389b910c87e119ec89b4733a6c7555975ffad67",
+      "size" : 9527903,
       "starCount" : 0,
       "subtitle" : "App for managing iOS devices",
       "tintColor" : "587FE3",
-      "version" : "0.0.14",
-      "versionDate" : "2022-03-11T08:07:11Z",
-      "versionDescription" : "Release 0.0.14",
+      "version" : "0.0.15",
+      "versionDate" : "2022-03-11T08:36:22Z",
+      "versionDescription" : "Release 0.0.15",
       "viewCount" : 0,
       "watcherCount" : 0
     },

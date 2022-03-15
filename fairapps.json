@@ -676,36 +676,36 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
         "public.app-category.productivity"
       ],
-      "coreSize" : 68344,
+      "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip-macOS.zip",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Net-Skip.png",
-      "impressionCount" : 558,
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.9/Net-Skip-macOS.zip",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.9/Net-Skip.png",
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/Info.plist#60885095cdd348ba1e67d36504b7cd4ab0ff6b704f01c892bc10d33d5c08bf58",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.9/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Net Skip",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "7dc866411eeff952367d2860843b636ef6ac8315e17886e454f59f5216b6fe8f",
-      "size" : 2451412,
+      "sha256" : "ae34ac760dc4d4ba09ec502cd18899d8a43ef18efcb7ac9cf06b26cae3a42a65",
+      "size" : 2679896,
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.5",
-      "versionDate" : "2022-01-10T00:38:53Z",
-      "versionDescription" : "Release 0.0.5",
-      "viewCount" : 77,
+      "version" : "0.0.9",
+      "versionDate" : "2022-03-15T21:58:33Z",
+      "versionDescription" : "Release 0.0.9",
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {

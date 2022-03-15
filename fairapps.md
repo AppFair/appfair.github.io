@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.9``](https://github.com/Net-Skip/App/releases/0.0.9) | `1` | `1` | `3` | `2.7 MB` | `0` | `0` | `2022-03-15T21:58:33Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.27``](https://github.com/Blunder-Busq/App/releases/0.0.27) | `1` | `1` | `3` | `3.9 MB` | `0` | `0` | `2022-03-15T13:25:29Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.419``](https://github.com/Tune-Out/App/releases/0.8.419) | `4` | `3` | `2` | `8.8 MB` | `0` | `0` | `2022-03-15T09:34:29Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.279``](https://github.com/App-Fair/App/releases/0.7.279) | `3` | `1` | `5` | `6.9 MB` | `2` | [``1``](https://github.com/App-Fair/App/issues) | `2022-03-14T09:35:56Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
@@ -56,6 +57,5 @@ tr:nth-child(even) {
 | [`Ultra Light`](https://Ultra-Light.github.io/App/) | [``0.0.7β``](https://github.com/Ultra-Light/App/releases/0.0.7) | `70` | `16` | `2` | `2.3 MB` | `0` | `0` | `2022-01-21T14:04:24Z` | [`news`](https://github.com/topics/appfair-news)  |
 | [`Next Edit`](https://Next-Edit.github.io/App/) | [``0.4.18``](https://github.com/Next-Edit/App/releases/0.4.18) | `171` | `34` | `5` | `6.7 MB` | `0` | `0` | `2022-01-20T03:44:49Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.51β``](https://github.com/Neural-Scry/App/releases/0.0.51) | `12` | `4` | `3` | `2.3 MB` | `0` | `0` | `2022-01-16T15:48:12Z` | [`medical`](https://github.com/topics/appfair-medical)  |
-| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.5β``](https://github.com/Net-Skip/App/releases/0.0.5) | `558` | `77` | `4` | `2.5 MB` | `0` | `0` | `2022-01-10T00:38:53Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 
 <center><small>`{{ site.time | date_to_xmlschema }}`</small></center>

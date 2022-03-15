@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.419``](https://github.com/Tune-Out/App/releases/0.8.419) | `2` | `2` | `2` | `8.8 MB` | `0` | `0` | `2022-03-15T09:34:29Z` | [`music`](https://github.com/topics/appfair-music)  |
-| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.26``](https://github.com/Blunder-Busq/App/releases/0.0.26) | `4` | `1` | `2` | `3.9 MB` | `0` | `0` | `2022-03-14T17:04:13Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.26``](https://github.com/Blunder-Busq/App/releases/0.0.26) | `5` | `1` | `2` | `3.9 MB` | `0` | `0` | `2022-03-14T17:04:13Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.279``](https://github.com/App-Fair/App/releases/0.7.279) | `1` | `1` | `5` | `6.9 MB` | `2` | [``1``](https://github.com/App-Fair/App/issues) | `2022-03-14T09:35:56Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.45``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.45) | `38` | `5` | `3` | `1.45 GB` | `0` | `0` | `2022-02-25T14:24:44Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.17``](https://github.com/Hex-Loupe/App/releases/0.0.17) | `62` | `14` | `3` | `2.5 MB` | `0` | `0` | `2022-02-20T09:22:27Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |

@@ -198,10 +198,10 @@
       ],
       "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 8,
+      "downloadCount" : 9,
       "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 213,
+      "impressionCount" : 214,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -220,7 +220,7 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-23T23:13:56Z",
       "versionDescription" : "Release 0.0.4",
-      "viewCount" : 32,
+      "viewCount" : 33,
       "watcherCount" : 0
     },
     {
@@ -513,7 +513,7 @@
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Lottie-Motion.png",
-      "impressionCount" : 138,
+      "impressionCount" : 139,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.83/Info.plist#76f9d948a52cc9c42ed46c99936d3329c9675802a548c3e19557a047992ce020",
@@ -536,7 +536,7 @@
       "version" : "0.0.83",
       "versionDate" : "2022-01-26T12:24:38Z",
       "versionDescription" : "Release 0.0.83",
-      "viewCount" : 29,
+      "viewCount" : 30,
       "watcherCount" : 0
     },
     {
@@ -884,7 +884,7 @@
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero-macOS.zip",
       "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero.png",
-      "impressionCount" : 134,
+      "impressionCount" : 135,
       "issueCount" : 0,
       "localizedDescription" : "Query Like a Boss",
       "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/Info.plist#f4f5af5e949181c450648183357dc49105d946769ffbc87050c930326d2ff8c5",
@@ -915,7 +915,7 @@
       "version" : "0.0.8",
       "versionDate" : "2022-01-24T23:34:42Z",
       "versionDescription" : "Release 0.0.8",
-      "viewCount" : 16,
+      "viewCount" : 17,
       "watcherCount" : 0
     },
     {
@@ -964,7 +964,7 @@
       "downloadCount" : 7,
       "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points-macOS.zip",
       "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points.png",
-      "impressionCount" : 163,
+      "impressionCount" : 164,
       "issueCount" : 0,
       "localizedDescription" : "UX Design Tool",
       "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -984,7 +984,7 @@
       "version" : "0.0.6",
       "versionDate" : "2022-01-24T01:59:22Z",
       "versionDescription" : "Release 0.0.6",
-      "viewCount" : 27,
+      "viewCount" : 28,
       "watcherCount" : 0
     },
     {

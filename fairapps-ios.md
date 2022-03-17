@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.10β``](https://github.com/Net-Skip/App/releases/0.0.10) | `0` | `0` | `1` | `6.6 MB` | `0` | `0` | `2022-03-17T13:29:23Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.10β``](https://github.com/Net-Skip/App/releases/0.0.10) | `1` | `1` | `2` | `6.6 MB` | `0` | `0` | `2022-03-17T13:29:23Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.9``](https://github.com/Net-Skip/App/releases/0.0.9) | `2` | `1` | `3` | `6.6 MB` | `0` | `0` | `2022-03-15T21:58:33Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.419``](https://github.com/Tune-Out/App/releases/0.8.419) | `5` | `3` | `2` | `16.7 MB` | `0` | `0` | `2022-03-15T09:34:29Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.45``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.45) | `41` | `5` | `3` | `1.46 GB` | `0` | `0` | `2022-02-25T14:24:44Z` | [`video`](https://github.com/topics/appfair-video)  |

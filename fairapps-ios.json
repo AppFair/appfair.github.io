@@ -462,10 +462,10 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.10/Net-Skip-iOS.ipa",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.10/Net-Skip.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.10/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -484,7 +484,7 @@
       "version" : "0.0.10",
       "versionDate" : "2022-03-17T13:29:23Z",
       "versionDescription" : "Release 0.0.10",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {

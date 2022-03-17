@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.28β``](https://github.com/Blunder-Busq/App/releases/0.0.28) | `0` | `0` | `1` | `3.9 MB` | `0` | `0` | `2022-03-17T13:27:46Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.9``](https://github.com/Net-Skip/App/releases/0.0.9) | `1` | `1` | `3` | `2.7 MB` | `0` | `0` | `2022-03-15T21:58:33Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.27``](https://github.com/Blunder-Busq/App/releases/0.0.27) | `3` | `1` | `3` | `3.9 MB` | `0` | `0` | `2022-03-15T13:25:29Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.419``](https://github.com/Tune-Out/App/releases/0.8.419) | `5` | `3` | `2` | `8.8 MB` | `0` | `0` | `2022-03-15T09:34:29Z` | [`music`](https://github.com/topics/appfair-music)  |

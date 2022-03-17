@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.32β``](https://github.com/Blunder-Busq/App/releases/0.0.32) | `0` | `0` | `1` | `3.9 MB` | `0` | `0` | `2022-03-17T15:40:46Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.32β``](https://github.com/Blunder-Busq/App/releases/0.0.32) | `1` | `1` | `2` | `3.9 MB` | `0` | `0` | `2022-03-17T15:40:46Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.10β``](https://github.com/Net-Skip/App/releases/0.0.10) | `1` | `1` | `2` | `2.7 MB` | `0` | `0` | `2022-03-17T13:29:23Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.28``](https://github.com/Blunder-Busq/App/releases/0.0.28) | `1` | `1` | `2` | `3.9 MB` | `0` | `0` | `2022-03-17T13:27:46Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.9``](https://github.com/Net-Skip/App/releases/0.0.9) | `2` | `1` | `3` | `2.7 MB` | `0` | `0` | `2022-03-15T21:58:33Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |

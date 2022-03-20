@@ -53,36 +53,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "keka",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadCount" : 2,
-      "downloadURL" : "https://appfair.app",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 536,
-      "localizedDescription" : "",
-      "name" : "keka",
-      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_01-mac-896x994.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_03-mac-1330x1244.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_04-mac-1330x930.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_05-mac-1330x708.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_02-mac-896x756.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_06-mac-1330x1554.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_07-mac-1330x1130.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_08-mac-1330x1218.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_09-mac-1330x1212.png"
-      ],
-      "tintColor" : "8E7568",
-      "versionDate" : "2022-02-01T01:07:41Z",
-      "versionDescription" : "",
-      "viewCount" : 78
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "brackets",
       "categories" : [
         "public.app-category.developer-tools"
@@ -301,6 +271,36 @@
       ],
       "tintColor" : "202B2A",
       "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "keka",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
+      "impressionCount" : 0,
+      "localizedDescription" : "",
+      "name" : "keka",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_01-mac-896x994.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_02-mac-896x756.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_03-mac-1330x1244.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_04-mac-1330x930.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_05-mac-1330x708.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_06-mac-1330x1554.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_07-mac-1330x1130.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_08-mac-1330x1218.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-keka/screenshot_09-mac-1330x1212.png"
+      ],
+      "tintColor" : "8E7568",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "versionDescription" : "",
       "viewCount" : 0
     },
     {

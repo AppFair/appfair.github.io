@@ -72,14 +72,14 @@
       ],
       "coreSize" : 170576,
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.33/Blunder-Busq-macOS.zip",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.33/Blunder-Busq.png",
-      "impressionCount" : 16,
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/Blunder-Busq.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.33/Info.plist#99cc44e4cbf050700371984814b95971f777bf75d5c1b946b455533faed2bf4e",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/Info.plist#99cc44e4cbf050700371984814b95971f777bf75d5c1b946b455533faed2bf4e",
       "name" : "Blunder Busq",
       "permissions" : [
         {
@@ -95,20 +95,20 @@
           "usageDescription" : "This app needs to read local files in order to load user-selected books"
         }
       ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.33/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/README.md#fca3524811e6ddcaa9e7f88e676535980000b6f0899f962796f86f52e3007f8f",
       "screenshotURLs" : [
-        "https://github.com/Blunder-Busq/App/releases/download/0.0.33/screenshot_01-mac-dark-2560x1884.png",
-        "https://github.com/Blunder-Busq/App/releases/download/0.0.33/screenshot_01-mac-light-2560x1884.png"
+        "https://github.com/Blunder-Busq/App/releases/download/0.0.34/screenshot_01-mac-dark-2560x1884.png",
+        "https://github.com/Blunder-Busq/App/releases/download/0.0.34/screenshot_01-mac-light-2560x1884.png"
       ],
-      "sha256" : "df26131b65c4d40ab47fbc25e1bc1d60d2580dc2711ae7202fee47f5c3727d61",
-      "size" : 3878890,
+      "sha256" : "7840341497efec0c1452fa1de22b5f1278cefa769f2953c16e07b192a86049f5",
+      "size" : 3878697,
       "starCount" : 0,
       "subtitle" : "App for managing iOS devices",
       "tintColor" : "587FE3",
-      "version" : "0.0.33",
-      "versionDate" : "2022-03-19T17:48:59Z",
-      "versionDescription" : "Release 0.0.33",
-      "viewCount" : 1,
+      "version" : "0.0.34",
+      "versionDate" : "2022-03-21T18:29:06Z",
+      "versionDescription" : "Release 0.0.34",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -404,7 +404,7 @@
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell-macOS.zip",
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell.png",
-      "impressionCount" : 107,
+      "impressionCount" : 108,
       "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
       "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Info.plist#263a3737ed9d259afbaf4020b17e232339ca0bd4e981a0d8d160ba52476ec460",
@@ -426,7 +426,7 @@
       "version" : "0.3.38",
       "versionDate" : "2022-01-26T22:12:32Z",
       "versionDescription" : "Release 0.3.38",
-      "viewCount" : 16,
+      "viewCount" : 17,
       "watcherCount" : 0
     },
     {
@@ -683,10 +683,10 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.10/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.10/Net-Skip.png",
-      "impressionCount" : 17,
+      "impressionCount" : 18,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.10/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -705,7 +705,7 @@
       "version" : "0.0.10",
       "versionDate" : "2022-03-17T13:29:23Z",
       "versionDescription" : "Release 0.0.10",
-      "viewCount" : 1,
+      "viewCount" : 2,
       "watcherCount" : 0
     },
     {
@@ -883,7 +883,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light-macOS.zip",
       "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light.png",
-      "impressionCount" : 54,
+      "impressionCount" : 55,
       "issueCount" : 0,
       "localizedDescription" : "무궁화 꽃이 피었습니다",
       "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -903,7 +903,7 @@
       "version" : "0.0.12",
       "versionDate" : "2022-02-02T02:04:48Z",
       "versionDescription" : "Release 0.0.12",
-      "viewCount" : 5,
+      "viewCount" : 6,
       "watcherCount" : 0
     },
     {

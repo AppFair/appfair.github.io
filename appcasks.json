@@ -15293,6 +15293,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "macfuse",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macfuse/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "macfuse",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "D0D7DE",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "macgesture",
       "categories" : [
         "public.app-category.utilities"
@@ -19249,6 +19267,24 @@
 
       ],
       "tintColor" : "86C7C5",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "osxfuse",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-osxfuse/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "osxfuse",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "D0D7DE",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -28573,6 +28609,24 @@
 
       ],
       "tintColor" : "4A9FD1",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wezterm",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wezterm/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "wezterm",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "293154",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {

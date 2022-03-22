@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.35β``](https://github.com/Blunder-Busq/App/releases/0.0.35) | `0` | `0` | `1` | `3.9 MB` | `0` | `0` | `2022-03-22T18:04:32Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.291``](https://github.com/App-Fair/App/releases/0.7.291) | `2` | `0` | `3` | `6.9 MB` | `2` | [``1``](https://github.com/App-Fair/App/issues) | `2022-03-22T13:15:07Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.34``](https://github.com/Blunder-Busq/App/releases/0.0.34) | `9` | `2` | `1` | `3.9 MB` | `0` | `0` | `2022-03-21T18:29:06Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.10β``](https://github.com/Net-Skip/App/releases/0.0.10) | `22` | `2` | `3` | `2.7 MB` | `0` | `0` | `2022-03-17T13:29:23Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |

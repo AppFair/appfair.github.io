@@ -7696,6 +7696,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "data-integration",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-data-integration/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "data-integration",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "D42B2B",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "data-science-studio",
       "categories" : [
         "public.app-category.developer-tools"
@@ -9510,6 +9528,24 @@
 
       ],
       "tintColor" : "888888",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "fanny",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fanny/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "fanny",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "474747",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -11364,6 +11400,24 @@
 
       ],
       "tintColor" : "FDD835",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "goneovim",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-goneovim/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "goneovim",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "079AD5",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -13385,6 +13439,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "jdk-mission-control",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jdk-mission-control/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "jdk-mission-control",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "AD7970",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "jedit",
       "categories" : [
         "public.app-category.developer-tools"
@@ -14123,6 +14195,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "kitematic",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kitematic/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "kitematic",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "67ADE8",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "kiwi-for-gmail",
       "categories" : [
         "public.app-category.developer-tools"
@@ -14407,6 +14497,24 @@
 
       ],
       "tintColor" : "5FA2FC",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "kui",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kui/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "kui",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "ECECEC",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -17539,6 +17647,24 @@
 
       ],
       "tintColor" : "9487D0",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "musicbrainz-picard",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-musicbrainz-picard/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "musicbrainz-picard",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "BC6178",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {

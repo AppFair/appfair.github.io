@@ -17381,6 +17381,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "miditrail",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-miditrail/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "miditrail",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "6A6A6B",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "miktex-console",
       "categories" : [
         "public.app-category.developer-tools"
@@ -17917,6 +17935,24 @@
 
       ],
       "tintColor" : "E4D5E0",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "mongotron",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mongotron/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "mongotron",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "BAD1E5",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -19685,6 +19721,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "omegat",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omegat/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "omegat",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "C1BBA7",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "omnidazzle",
       "categories" : [
         "public.app-category.utilities"
@@ -20545,6 +20599,24 @@
 
       ],
       "tintColor" : "B5B9B5",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "parsehub",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-parsehub/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "parsehub",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "678D97",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -24325,6 +24397,23 @@
 
       ],
       "tintColor" : "D4CFC5",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "shortcuts",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-shortcuts/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "shortcuts",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "000000",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {

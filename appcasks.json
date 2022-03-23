@@ -2548,6 +2548,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "nova",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 1,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nova/AppIcon.png",
+      "impressionCount" : 19,
+      "name" : "nova",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "702495",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "1clipboard",
       "categories" : [
         "public.app-category.productivity"
@@ -20761,24 +20779,6 @@
 
       ],
       "tintColor" : "F98997",
-      "versionDate" : "2022-02-01T01:07:41Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "nova",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadCount" : 0,
-      "downloadURL" : "https://appfair.app",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nova/AppIcon.png",
-      "impressionCount" : 19,
-      "name" : "nova",
-      "screenshotURLs" : [
-
-      ],
-      "tintColor" : "702495",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {

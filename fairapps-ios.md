@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.21``](https://github.com/Cloud-Cuckoo/App/releases/0.9.21) | `1` | `0` | `1` | `6.5 MB` | `0` | `0` | `2022-03-25T10:51:42Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.10β``](https://github.com/Net-Skip/App/releases/0.0.10) | `23` | `2` | `2` | `6.6 MB` | `0` | `0` | `2022-03-17T13:29:23Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.9``](https://github.com/Net-Skip/App/releases/0.0.9) | `9` | `1` | `3` | `6.6 MB` | `0` | `0` | `2022-03-15T21:58:33Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.419``](https://github.com/Tune-Out/App/releases/0.8.419) | `37` | `9` | `2` | `16.7 MB` | `0` | `0` | `2022-03-15T09:34:29Z` | [`music`](https://github.com/topics/appfair-music)  |
@@ -31,7 +32,6 @@ tr:nth-child(even) {
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `110` | `13` | `3` | `6.4 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.16``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `81` | `7` | `3` | `6.3 MB` | `0` | `0` | `2022-02-12T16:07:11Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.24``](https://github.com/Name-Sense/App/releases/0.0.24) | `86` | `13` | `4` | `6.5 MB` | `0` | `0` | `2022-02-12T14:56:58Z` | [`education`](https://github.com/topics/appfair-education)  |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.20``](https://github.com/Cloud-Cuckoo/App/releases/0.9.20) | `106` | `14` | `7` | `6.3 MB` | `0` | `0` | `2022-02-12T14:52:58Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.7β``](https://github.com/Tweet-Storm/App/releases/0.0.7) | `152` | `22` | `4` | `6.2 MB` | `0` | `0` | `2022-01-26T22:14:00Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.38β``](https://github.com/Hear-Tell/App/releases/0.3.38) | `116` | `18` | `3` | `5.9 MB` | `0` | `0` | `2022-01-26T22:12:32Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |
 | [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.83``](https://github.com/Lottie-Motion/App/releases/0.0.83) | `172` | `30` | `5` | `9.5 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |

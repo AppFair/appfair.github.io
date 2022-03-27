@@ -550,11 +550,11 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadCount" : 0,
+      "downloadCount" : 1,
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/AppIcon.png",
-      "impressionCount" : 82,
+      "impressionCount" : 83,
       "name" : "coteditor",
       "screenshotURLs" : [
         "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_01-mac-light-1464x1298.png",

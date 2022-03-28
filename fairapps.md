@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.22``](https://github.com/Cloud-Cuckoo/App/releases/0.9.22) | `0` | `0` | `2` | `2.5 MB` | `0` | `0` | `2022-03-28T13:10:00Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.294``](https://github.com/App-Fair/App/releases/0.7.294) | `1` | `0` | `4` | `6.9 MB` | `2` | [``1``](https://github.com/App-Fair/App/issues) | `2022-03-25T15:54:22Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.21``](https://github.com/Cloud-Cuckoo/App/releases/0.9.21) | `4` | `0` | `2` | `2.5 MB` | `0` | `0` | `2022-03-25T10:51:42Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.35β``](https://github.com/Blunder-Busq/App/releases/0.0.35) | `4` | `0` | `1` | `3.9 MB` | `0` | `0` | `2022-03-22T18:04:32Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.34``](https://github.com/Blunder-Busq/App/releases/0.0.34) | `14` | `2` | `1` | `3.9 MB` | `0` | `0` | `2022-03-21T18:29:06Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.10β``](https://github.com/Net-Skip/App/releases/0.0.10) | `25` | `2` | `3` | `2.7 MB` | `0` | `0` | `2022-03-17T13:29:23Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |

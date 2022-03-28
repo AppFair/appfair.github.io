@@ -5914,6 +5914,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "burp-suite-professional",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-burp-suite-professional/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "burp-suite-professional",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "655AFE",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "butter",
       "categories" : [
         "public.app-category.utilities"
@@ -8484,6 +8502,24 @@
 
       ],
       "tintColor" : "6DAFF0",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "dbschema",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dbschema/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "dbschema",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "607BB5",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -19001,6 +19037,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "milkman",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-milkman/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "milkman",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "3DA0F4",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "milkytracker",
       "categories" : [
         "public.app-category.music"
@@ -23501,6 +23555,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "popsql",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-popsql/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "popsql",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "F6DAD6",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "porting-kit",
       "categories" : [
         "public.app-category.utilities"
@@ -27101,6 +27173,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "slicer",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slicer/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "slicer",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "8E8F96",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "slidepilot",
       "categories" : [
         "public.app-category.productivity"
@@ -27691,6 +27781,24 @@
 
       ],
       "tintColor" : "C9B995",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sound-control",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sound-control/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "sound-control",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "676764",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -29491,6 +29599,24 @@
 
       ],
       "tintColor" : "E5E5E5",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tencent-docs",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tencent-docs/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "tencent-docs",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "5D9AFE",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {

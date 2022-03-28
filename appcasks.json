@@ -4150,6 +4150,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "atomic-wallet",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-atomic-wallet/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "atomic-wallet",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "24406B",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "au-lab",
       "categories" : [
         "public.app-category.utilities"
@@ -7156,6 +7174,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "cloudcompare",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cloudcompare/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "cloudcompare",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "A3BFD0",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "cloudmounter",
       "categories" : [
         "public.app-category.utilities"
@@ -7206,6 +7242,24 @@
 
       ],
       "tintColor" : "3D3D41",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "clover-configurator",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clover-configurator/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "clover-configurator",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "559661",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -8722,6 +8776,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "deltawalker",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-deltawalker/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "deltawalker",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "4195FC",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "deskreen",
       "categories" : [
         "public.app-category.developer-tools"
@@ -9334,6 +9406,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "dropbox-capture",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dropbox-capture/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "dropbox-capture",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "C7D1E3",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "dropbox-passwords",
       "categories" : [
         "public.app-category.productivity"
@@ -9622,6 +9712,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "eddie",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eddie/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "eddie",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "5FB9F4",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "edex-ui",
       "categories" : [
         "public.app-category.utilities"
@@ -9762,6 +9870,24 @@
 
       ],
       "tintColor" : "DFDCE2",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "electron-fiddle",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electron-fiddle/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "electron-fiddle",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "F79637",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -10734,6 +10860,24 @@
 
       ],
       "tintColor" : "000000",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "firealpaca",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firealpaca/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "firealpaca",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "9E8D87",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -17219,6 +17363,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "ludwig",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ludwig/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "ludwig",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "636363",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "lumen",
       "categories" : [
         "public.app-category.utilities"
@@ -20207,6 +20369,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "mymonero",
+      "categories" : [
+        "public.app-category.finance"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mymonero/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "mymonero",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "444B4F",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "mysqlworkbench",
       "categories" : [
         "public.app-category.developer-tools"
@@ -23137,6 +23317,24 @@
 
       ],
       "tintColor" : "1A1918",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "pixelorama",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pixelorama/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "pixelorama",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "5B4B65",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -26148,6 +26346,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "secure-pipes",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-secure-pipes/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "secure-pipes",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "C7CFDF",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "securityspy",
       "categories" : [
         "public.app-category.video"
@@ -27817,6 +28033,24 @@
 
       ],
       "tintColor" : "F66B19",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "soundcloud-downloader",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-soundcloud-downloader/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "soundcloud-downloader",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "89725A",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -31925,6 +32159,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "unlox",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unlox/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "unlox",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "F1588D",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "unnaturalscrollwheels",
       "categories" : [
         "public.app-category.utilities"
@@ -35017,6 +35269,24 @@
 
       ],
       "tintColor" : "F5F5F5",
+      "versionDate" : "2022-02-01T05:24:43Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "unicopedia-plus",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 0,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unicopedia-plus/AppIcon.png",
+      "impressionCount" : 0,
+      "name" : "unicopedia-plus",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "A7CBD9",
       "versionDate" : "2022-02-01T05:24:43Z"
     },
     {

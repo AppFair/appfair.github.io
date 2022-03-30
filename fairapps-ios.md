@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.22``](https://github.com/Cloud-Cuckoo/App/releases/0.9.22) | `6` | `1` | `3` | `6.5 MB` | `0` | `0` | `2022-03-28T13:10:00Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.22``](https://github.com/Cloud-Cuckoo/App/releases/0.9.22) | `7` | `1` | `3` | `6.5 MB` | `0` | `0` | `2022-03-28T13:10:00Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.10β``](https://github.com/Net-Skip/App/releases/0.0.10) | `27` | `2` | `2` | `6.6 MB` | `0` | `0` | `2022-03-17T13:29:23Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.9``](https://github.com/Net-Skip/App/releases/0.0.9) | `10` | `1` | `3` | `6.6 MB` | `0` | `0` | `2022-03-15T21:58:33Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.419``](https://github.com/Tune-Out/App/releases/0.8.419) | `46` | `9` | `2` | `16.7 MB` | `0` | `0` | `2022-03-15T09:34:29Z` | [`music`](https://github.com/topics/appfair-music)  |
@@ -33,7 +33,7 @@ tr:nth-child(even) {
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.16``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `87` | `7` | `3` | `6.3 MB` | `0` | `0` | `2022-02-12T16:07:11Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.24``](https://github.com/Name-Sense/App/releases/0.0.24) | `93` | `13` | `4` | `6.5 MB` | `0` | `0` | `2022-02-12T14:56:58Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.7β``](https://github.com/Tweet-Storm/App/releases/0.0.7) | `156` | `22` | `4` | `6.2 MB` | `0` | `0` | `2022-01-26T22:14:00Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
-| [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.38β``](https://github.com/Hear-Tell/App/releases/0.3.38) | `122` | `18` | `3` | `5.9 MB` | `0` | `0` | `2022-01-26T22:12:32Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |
+| [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.38β``](https://github.com/Hear-Tell/App/releases/0.3.38) | `123` | `18` | `3` | `5.9 MB` | `0` | `0` | `2022-01-26T22:12:32Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |
 | [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.83``](https://github.com/Lottie-Motion/App/releases/0.0.83) | `181` | `30` | `5` | `9.5 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Down Town`](https://Down-Town.github.io/App/) | [``0.0.3β``](https://github.com/Down-Town/App/releases/0.0.3) | `134` | `15` | `3` | `6 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | [``0.0.5β``](https://github.com/Unclear-Purpose/App/releases/0.0.5) | `103` | `14` | `3` | `5.9 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |

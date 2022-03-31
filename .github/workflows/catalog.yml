@@ -127,7 +127,7 @@ jobs:
           git add fairapps-ios.md
           git add fairapps-ios.json
           git add appcasks.json
-          git pull -ff
+          git pull
           git commit -m "catalog update" || echo "nothing to commit"
           git push
 

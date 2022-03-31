@@ -462,13 +462,13 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.11/Net-Skip-iOS.ipa",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.11/Net-Skip.png",
-      "impressionCount" : 6,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.13/Net-Skip-iOS.ipa",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.13/Net-Skip.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.11/Info.plist#a0785230c1b9bfc3de8e37dd171128476809aa781277788351f6bf63fdcd3f71",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.13/Info.plist#a0785230c1b9bfc3de8e37dd171128476809aa781277788351f6bf63fdcd3f71",
       "name" : "Net Skip",
       "permissions" : [
         {
@@ -480,18 +480,18 @@
           "usageDescription" : "This app needs to read and write files in order to…"
         }
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.13/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "30c12d5a3ca965619d163e947b96c5b8e13774e636d21e411229af2bb66d302d",
-      "size" : 7035302,
+      "sha256" : "1c3181aa3ea60a41d2005bfa50ace0cb3cb3cdd399d90437eb5f2efcb6511a39",
+      "size" : 7036916,
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.11",
-      "versionDate" : "2022-03-31T12:28:04Z",
-      "versionDescription" : "Release 0.0.11",
-      "viewCount" : 3,
+      "version" : "0.0.13",
+      "versionDate" : "2022-03-31T13:26:41Z",
+      "versionDescription" : "Release 0.0.13",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

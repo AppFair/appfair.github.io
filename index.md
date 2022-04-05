@@ -8,16 +8,22 @@ title: The App Fair
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 
-appfair.net is an autonomous distribution network of free and open-source macOS applications.
-App Fair apps use modern native frameworks and user-interface elements with a focus on performance, efficiency, and accessibility.
+appfair.net is an autonomous distribution network of free and
+open-source macOS applications.
+App Fair apps use modern native frameworks and user-interface
+elements with a focus on performance, efficiency, and accessibility.
 
 The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey that can be downloaded from [appfair.app](https://appfair.app).
+New users should start by downloading this app and exploring its features and capabilities.
 
-This is a guide for the development and publication of your own app on the App Fair catalog. It assumes some familiarity with GitHub.
+The rest of this page is a guide for the development and publication of your own apps on the App Fair catalog.
+It assumes some familiarity with GitHub and software development in the Swift programming language.
 
 ## Quick Start
 
-Anyone can create and publish their own app on the App Fair, for free, using only a web browser. The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time. At the end of this Quick Start guide, you will have your own app published and available through the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser.
+Anyone can create and publish their own app on the App Fair, for free, using only a web browser.
+The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time.
+At the end of this Quick Start guide, you will have your own app published and available through the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser.
 
   1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). 
   * The name of the organization is the name of your app, so you'll need to choose a new unique name.

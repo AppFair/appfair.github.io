@@ -535,8 +535,8 @@ The catalog is automatically constructed from the list of all the [forks of the 
 
 Separate platforms will be placed in separate catalogs:
 
-  * macOS: [https://www.appfair.net/fairapps.json](https://www.appfair.net/fairapps.json)
-  * iOS: [https://www.appfair.net/fairapps-iOS.json](https://www.appfair.net/fairapps-iOS.json)
+  * macOS: [https://www.appfair.net/fairapps-macos.json](https://www.appfair.net/fairapps-macos.json)
+  * iOS: [https://www.appfair.net/fairapps-ios.json](https://www.appfair.net/fairapps-ios.json)
 
 
 
@@ -1058,7 +1058,7 @@ The integration phase of the App Fair builds and packages all apps for both macO
 
 <a name="altstore"/>
 Side-loading the `.ipa` build artifacts is not well tested at this time.
-The experimental iOS catalog is available at: [https://www.appfair.net/fairapps-iOS.json](altstore://source?url=https://www.appfair.net/fairapps-iOS.json).
+The experimental iOS catalog is available at: [https://www.appfair.net/fairapps-ios.json](altstore://source?url=https://www.appfair.net/fairapps-ios.json).
 
 ### How do I target either macOS or iOS instead of both?
 

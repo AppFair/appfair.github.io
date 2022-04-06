@@ -12,7 +12,7 @@
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.325/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.325/App-Fair.png",
-      "impressionCount" : 2,
+      "impressionCount" : 3,
       "issueCount" : 1,
       "localizedDescription" : "The App Fair catalog browser for discovering & installing macOS apps",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.325/Info.plist#563a42d6d02a1be7ee9aaa419f174b688a6a0cffc00c10fe84cd4668024e0857",
@@ -124,7 +124,7 @@
       "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/Blunder-Busq.png",
-      "impressionCount" : 45,
+      "impressionCount" : 46,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
       "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/Info.plist#99cc44e4cbf050700371984814b95971f777bf75d5c1b946b455533faed2bf4e",
@@ -212,7 +212,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.25/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.25/Cloud-Cuckoo.png",
-      "impressionCount" : 3,
+      "impressionCount" : 5,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.25/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -235,7 +235,7 @@
       "version" : "0.9.25",
       "versionDate" : "2022-04-06T14:16:42Z",
       "versionDescription" : "Release 0.9.25",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -488,7 +488,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.17/Hex-Loupe-macOS.zip",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.17/Hex-Loupe.png",
-      "impressionCount" : 190,
+      "impressionCount" : 192,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.17/Info.plist#6f689b5bdc397a1b26a9983c472403fbf164e230657378b223ee542e83585b07",
@@ -514,7 +514,7 @@
       "version" : "0.0.17",
       "versionDate" : "2022-02-20T09:22:27Z",
       "versionDescription" : "Release 0.0.17",
-      "viewCount" : 24,
+      "viewCount" : 25,
       "watcherCount" : 0
     },
     {
@@ -561,7 +561,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion.png",
-      "impressionCount" : 2,
+      "impressionCount" : 4,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
@@ -584,7 +584,7 @@
       "version" : "0.0.87",
       "versionDate" : "2022-04-06T15:01:42Z",
       "versionDescription" : "Release 0.0.87",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -700,7 +700,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense-macOS.zip",
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense.png",
-      "impressionCount" : 179,
+      "impressionCount" : 180,
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -720,7 +720,7 @@
       "version" : "0.0.24",
       "versionDate" : "2022-02-12T14:56:58Z",
       "versionDescription" : "Release 0.0.24",
-      "viewCount" : 20,
+      "viewCount" : 21,
       "watcherCount" : 0
     },
     {
@@ -734,7 +734,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.16/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.16/Net-Skip.png",
-      "impressionCount" : 37,
+      "impressionCount" : 39,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.16/Info.plist#a0785230c1b9bfc3de8e37dd171128476809aa781277788351f6bf63fdcd3f71",
@@ -839,7 +839,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "impressionCount" : 275,
+      "impressionCount" : 276,
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
@@ -861,7 +861,7 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T03:44:49Z",
       "versionDescription" : "Release 0.4.18",
-      "viewCount" : 40,
+      "viewCount" : 41,
       "watcherCount" : 0
     },
     {
@@ -989,7 +989,7 @@
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.45/Sita-Sings-the-Blues-macOS.zip",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.45/Sita-Sings-the-Blues.png",
-      "impressionCount" : 159,
+      "impressionCount" : 161,
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.45/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1010,7 +1010,7 @@
       "version" : "0.0.45",
       "versionDate" : "2022-02-25T14:24:44Z",
       "versionDescription" : "Release 0.0.45",
-      "viewCount" : 10,
+      "viewCount" : 11,
       "watcherCount" : 0
     },
     {
@@ -1058,7 +1058,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-macOS.zip",
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 211,
+      "impressionCount" : 212,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -1077,7 +1077,7 @@
       "version" : "0.0.20",
       "versionDate" : "2022-02-12T16:07:15Z",
       "versionDescription" : "Release 0.0.20",
-      "viewCount" : 18,
+      "viewCount" : 19,
       "watcherCount" : 0
     },
     {
@@ -1091,7 +1091,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-macOS.zip",
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz.png",
-      "impressionCount" : 157,
+      "impressionCount" : 158,
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
       "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1111,7 +1111,7 @@
       "version" : "0.0.16",
       "versionDate" : "2022-02-12T16:07:11Z",
       "versionDescription" : "Release 0.0.16",
-      "viewCount" : 12,
+      "viewCount" : 13,
       "watcherCount" : 0
     },
     {
@@ -1125,7 +1125,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.419/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.419/Tune-Out.png",
-      "impressionCount" : 141,
+      "impressionCount" : 143,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.419/Info.plist#da1178bbc554a616134b3e3978c20c006aa1ff3014f14b3d0a6fc7e96cbc451a",

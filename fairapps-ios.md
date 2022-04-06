@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.87``](https://github.com/Lottie-Motion/App/releases/0.0.87) | `0` | `0` | `1` | `10 MB` | `0` | `0` | `2022-04-06T15:01:42Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.25``](https://github.com/Cloud-Cuckoo/App/releases/0.9.25) | `2` | `0` | `2` | `6.5 MB` | `0` | `0` | `2022-04-06T14:16:42Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.16``](https://github.com/Net-Skip/App/releases/0.0.16) | `36` | `6` | `2` | `7 MB` | `0` | `0` | `2022-03-31T14:35:17Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.419``](https://github.com/Tune-Out/App/releases/0.8.419) | `140` | `15` | `2` | `16.7 MB` | `0` | `0` | `2022-03-15T09:34:29Z` | [`music`](https://github.com/topics/appfair-music)  |
@@ -33,7 +34,6 @@ tr:nth-child(even) {
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.24``](https://github.com/Name-Sense/App/releases/0.0.24) | `178` | `20` | `4` | `6.5 MB` | `0` | `0` | `2022-02-12T14:56:58Z` | [`education`](https://github.com/topics/appfair-education)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.7β``](https://github.com/Tweet-Storm/App/releases/0.0.7) | `191` | `23` | `4` | `6.2 MB` | `0` | `0` | `2022-01-26T22:14:00Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Hear Tell`](https://Hear-Tell.github.io/App/) | [``0.3.38β``](https://github.com/Hear-Tell/App/releases/0.3.38) | `184` | `25` | `3` | `5.9 MB` | `0` | `0` | `2022-01-26T22:12:32Z` | [`healthcare-fitness`](https://github.com/topics/appfair-healthcare-fitness)  |
-| [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.83``](https://github.com/Lottie-Motion/App/releases/0.0.83) | `272` | `38` | `5` | `9.5 MB` | `0` | `0` | `2022-01-26T12:24:38Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Down Town`](https://Down-Town.github.io/App/) | [``0.0.3β``](https://github.com/Down-Town/App/releases/0.0.3) | `187` | `22` | `3` | `6 MB` | `0` | `0` | `2022-01-25T00:49:11Z` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [`Unclear Purpose`](https://Unclear-Purpose.github.io/App/) | [``0.0.5β``](https://github.com/Unclear-Purpose/App/releases/0.0.5) | `143` | `15` | `3` | `5.9 MB` | `0` | `0` | `2022-01-25T00:48:27Z` | [`finance`](https://github.com/topics/appfair-finance)  |
 | [`SQL Hero`](https://SQL-Hero.github.io/App/) | [``0.0.3β``](https://github.com/SQL-Hero/App/releases/0.0.3) | `3` | `2` | `3` | `6.1 MB` | `0` | `0` | `2022-01-24T16:11:25Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |

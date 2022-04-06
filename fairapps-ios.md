@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.19``](https://github.com/Hex-Loupe/App/releases/0.0.19) | `0` | `0` | `1` | `6.6 MB` | `0` | `0` | `2022-04-06T16:11:00Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
+| [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.19``](https://github.com/Hex-Loupe/App/releases/0.0.19) | `0` | `0` | `2` | `6.6 MB` | `0` | `0` | `2022-04-06T16:11:00Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.87``](https://github.com/Lottie-Motion/App/releases/0.0.87) | `4` | `1` | `1` | `10 MB` | `0` | `0` | `2022-04-06T15:01:42Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.25``](https://github.com/Cloud-Cuckoo/App/releases/0.9.25) | `5` | `1` | `2` | `6.5 MB` | `0` | `0` | `2022-04-06T14:16:42Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.16``](https://github.com/Net-Skip/App/releases/0.0.16) | `39` | `6` | `2` | `7 MB` | `0` | `0` | `2022-03-31T14:35:17Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |

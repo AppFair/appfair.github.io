@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.426β``](https://github.com/Tune-Out/App/releases/0.8.426) | `0` | `0` | `1` | `17.1 MB` | `0` | `0` | `2022-04-07T14:42:13Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.48``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.48) | `6` | `1` | `1` | `1.46 GB` | `0` | `0` | `2022-04-06T18:24:28Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.19``](https://github.com/Hex-Loupe/App/releases/0.0.19) | `8` | `1` | `2` | `6.6 MB` | `0` | `0` | `2022-04-06T16:11:00Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.87``](https://github.com/Lottie-Motion/App/releases/0.0.87) | `11` | `2` | `1` | `10 MB` | `0` | `0` | `2022-04-06T15:01:42Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |

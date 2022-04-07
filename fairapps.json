@@ -731,10 +731,10 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/Net-Skip.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/Info.plist#08419679dc706dc2d5872e901f325091fee82be5a33f355f98d5ccf7854a4335",
@@ -765,7 +765,7 @@
       "version" : "0.0.17",
       "versionDate" : "2022-04-07T20:15:02Z",
       "versionDescription" : "Release 0.0.17",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {

@@ -52,7 +52,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.25/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.25/Cloud-Cuckoo.png",
-      "impressionCount" : 20,
+      "impressionCount" : 21,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.25/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -464,13 +464,13 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/Net-Skip-iOS.ipa",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/Net-Skip.png",
-      "impressionCount" : 2,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.24/Net-Skip-iOS.ipa",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.24/Net-Skip.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.24/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
       "name" : "Net Skip",
       "permissions" : [
         {
@@ -482,19 +482,19 @@
           "usageDescription" : "This app needs to write files in order to save downloads."
         }
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.24/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_02-iphone-1170x2532.png"
+        "https://github.com/Net-Skip/App/releases/download/0.0.24/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.24/screenshot_02-iphone-1170x2532.png"
       ],
-      "sha256" : "c2613314fff2fdee1af73ba83de4880a0cb3bf1a84ed71a98235093c8287cc36",
-      "size" : 7239160,
+      "sha256" : "940fbd366fd4fb83897750d8e60bf835e1964a3e83bb12b488f7085c2df53191",
+      "size" : 7256141,
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.23",
-      "versionDate" : "2022-04-08T13:21:19Z",
-      "versionDescription" : "Release 0.0.23",
-      "viewCount" : 1,
+      "version" : "0.0.24",
+      "versionDate" : "2022-04-08T20:18:51Z",
+      "versionDescription" : "Release 0.0.24",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -682,7 +682,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues-iOS.ipa",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues.png",
-      "impressionCount" : 3,
+      "impressionCount" : 4,
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",

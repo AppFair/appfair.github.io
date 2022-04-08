@@ -464,37 +464,37 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/Net-Skip-iOS.ipa",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/Net-Skip.png",
-      "impressionCount" : 4,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/Net-Skip-iOS.ipa",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/Net-Skip.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/Info.plist#08419679dc706dc2d5872e901f325091fee82be5a33f355f98d5ccf7854a4335",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
       "name" : "Net Skip",
       "permissions" : [
         {
           "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
+          "usageDescription" : "This app needs to access the network to load web pages."
         },
         {
           "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to read and write files in order to…"
+          "usageDescription" : "This app needs to write files in order to save downloads."
         }
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.17/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.17/screenshot_02-iphone-1170x2532.png"
+        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_02-iphone-1170x2532.png"
       ],
-      "sha256" : "528ee5dd1dd816543e5621125aa0988b6544f135cb01966717d81fddf7b55f55",
-      "size" : 7148196,
+      "sha256" : "c2613314fff2fdee1af73ba83de4880a0cb3bf1a84ed71a98235093c8287cc36",
+      "size" : 7239160,
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.17",
-      "versionDate" : "2022-04-07T20:15:02Z",
-      "versionDescription" : "Release 0.0.17",
-      "viewCount" : 2,
+      "version" : "0.0.23",
+      "versionDate" : "2022-04-08T13:21:19Z",
+      "versionDescription" : "Release 0.0.23",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

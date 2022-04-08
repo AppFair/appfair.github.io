@@ -731,41 +731,41 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/Net-Skip-macOS.zip",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/Net-Skip.png",
-      "impressionCount" : 4,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/Net-Skip-macOS.zip",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/Net-Skip.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/Info.plist#08419679dc706dc2d5872e901f325091fee82be5a33f355f98d5ccf7854a4335",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
       "name" : "Net Skip",
       "permissions" : [
         {
           "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
+          "usageDescription" : "This app needs to access the network to load web pages."
         },
         {
           "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to read and write files in order to…"
+          "usageDescription" : "This app needs to write files in order to save downloads."
         }
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.17/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.23/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.17/screenshot_01-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.17/screenshot_01-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.17/screenshot_02-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.17/screenshot_02-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.17/screenshot_03-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.17/screenshot_03-mac-light-2528x2010.png"
+        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_01-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_01-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_02-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_02-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_03-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.23/screenshot_03-mac-light-2528x2010.png"
       ],
-      "sha256" : "fc8f49ac4820a72ccdb45865ed831649b2cf44b1e1a115f15b6d269ffeee1a95",
-      "size" : 2872044,
+      "sha256" : "1f06fad849003d58e07a1e4f6d97dc3bc0b220fbe06f157c4d74a29dae338bd2",
+      "size" : 2914912,
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.17",
-      "versionDate" : "2022-04-07T20:15:02Z",
-      "versionDescription" : "Release 0.0.17",
-      "viewCount" : 2,
+      "version" : "0.0.23",
+      "versionDate" : "2022-04-08T13:21:19Z",
+      "versionDescription" : "Release 0.0.23",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

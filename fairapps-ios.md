@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.23``](https://github.com/Net-Skip/App/releases/0.0.23) | `0` | `0` | `1` | `7.2 MB` | `0` | `0` | `2022-04-08T13:21:19Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.49``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.49) | `3` | `1` | `2` | `1.46 GB` | `0` | `0` | `2022-04-08T08:53:44Z` | [`video`](https://github.com/topics/appfair-video)  |
-| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.17``](https://github.com/Net-Skip/App/releases/0.0.17) | `4` | `2` | `2` | `7.1 MB` | `0` | `0` | `2022-04-07T20:15:02Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.427``](https://github.com/Tune-Out/App/releases/0.8.427) | `5` | `2` | `2` | `17.1 MB` | `0` | `0` | `2022-04-07T17:33:56Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.19``](https://github.com/Hex-Loupe/App/releases/0.0.19) | `12` | `1` | `2` | `6.6 MB` | `0` | `0` | `2022-04-06T16:11:00Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.87``](https://github.com/Lottie-Motion/App/releases/0.0.87) | `15` | `2` | `1` | `10 MB` | `0` | `0` | `2022-04-06T15:01:42Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |

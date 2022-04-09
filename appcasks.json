@@ -150,7 +150,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 457,
+      "impressionCount" : 459,
       "name" : "signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
       "screenshotURLs" : [
@@ -165,7 +165,7 @@
       ],
       "tintColor" : "80A6F4",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 60
+      "viewCount" : 61
     },
     {
       "beta" : false,
@@ -820,7 +820,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/AppIcon.png",
-      "impressionCount" : 205,
+      "impressionCount" : 207,
       "name" : "tor-browser",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
       "screenshotURLs" : [
@@ -828,7 +828,7 @@
       ],
       "tintColor" : "8236A8",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 13
+      "viewCount" : 14
     },
     {
       "beta" : false,
@@ -2576,7 +2576,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nova/AppIcon.png",
-      "impressionCount" : 138,
+      "impressionCount" : 140,
       "name" : "nova",
       "screenshotURLs" : [
 
@@ -2793,7 +2793,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-studio-code/AppIcon.png",
-      "impressionCount" : 160,
+      "impressionCount" : 162,
       "name" : "visual-studio-code",
       "screenshotURLs" : [
 
@@ -36265,7 +36265,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex-media-server/AppIcon.png",
-      "impressionCount" : 56,
+      "impressionCount" : 58,
       "name" : "plex-media-server",
       "screenshotURLs" : [
 
@@ -36283,7 +36283,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vivaldi/AppIcon.png",
-      "impressionCount" : 66,
+      "impressionCount" : 68,
       "name" : "vivaldi",
       "screenshotURLs" : [
 

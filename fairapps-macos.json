@@ -732,12 +732,12 @@
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.26/Net-Skip-macOS.zip",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.26/Net-Skip.png",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.27/Net-Skip-macOS.zip",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.27/Net-Skip.png",
       "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.26/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.27/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
       "name" : "Net Skip",
       "permissions" : [
         {
@@ -749,22 +749,22 @@
           "usageDescription" : "This app needs to write files in order to save downloads."
         }
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.26/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.27/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.26/screenshot_01-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.26/screenshot_01-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.26/screenshot_02-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.26/screenshot_02-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.26/screenshot_03-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.26/screenshot_03-mac-light-2528x2010.png"
+        "https://github.com/Net-Skip/App/releases/download/0.0.27/screenshot_01-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.27/screenshot_01-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.27/screenshot_02-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.27/screenshot_02-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.27/screenshot_03-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.27/screenshot_03-mac-light-2528x2010.png"
       ],
-      "sha256" : "456effb617296457f9643f56527f4ec930e98f6322a47adc18ab68f3cb166e5e",
-      "size" : 2928143,
+      "sha256" : "faff179c805a0743f5a8bc92a4828808c93a78eec26c17163d5fefc3c1667e70",
+      "size" : 2930330,
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.26",
-      "versionDate" : "2022-04-09T07:42:18Z",
-      "versionDescription" : "Release 0.0.26",
+      "version" : "0.0.27",
+      "versionDate" : "2022-04-09T08:25:00Z",
+      "versionDescription" : "Release 0.0.27",
       "viewCount" : 0,
       "watcherCount" : 0
     },

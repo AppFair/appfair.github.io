@@ -552,6 +552,42 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Lex-Stanza",
+      "categories" : [
+
+      ],
+      "coreSize" : 102472,
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.8/Lex-Stanza-macOS.zip",
+      "iconURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.8/Lex-Stanza.png",
+      "impressionCount" : 0,
+      "issueCount" : 0,
+      "localizedDescription" : "Fork to make an App Fair App",
+      "metadataURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.8/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
+      "name" : "Lex Stanza",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read epub files"
+        }
+      ],
+      "readmeURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "fe3564c7a84daadcd50103bad400fe1a6117c621bbd6fb71393852a896f15aeb",
+      "size" : 4063042,
+      "starCount" : 0,
+      "subtitle" : "Fork to make an App Fair App",
+      "version" : "0.0.8",
+      "versionDate" : "2022-04-09T17:04:04Z",
+      "versionDescription" : "Release 0.0.8",
+      "viewCount" : 0,
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
         "public.app-category.developer-tools"

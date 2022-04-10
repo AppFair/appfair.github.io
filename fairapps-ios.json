@@ -464,10 +464,10 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 1,
+      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.29/Net-Skip-iOS.ipa",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.29/Net-Skip.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.29/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -494,7 +494,7 @@
       "version" : "0.0.29",
       "versionDate" : "2022-04-10T18:58:46Z",
       "versionDescription" : "Release 0.0.29",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -715,13 +715,13 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.10/Stanza-Redux-iOS.ipa",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.10/Stanza-Redux.png",
-      "impressionCount" : 4,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.11/Stanza-Redux-iOS.ipa",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.11/Stanza-Redux.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.10/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.11/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -733,18 +733,19 @@
           "usageDescription" : "This app needs to read epub files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.10/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "e5b13574c206aab29f65cdd1af00f446c77c8558ea3e95840e98a006a215e782",
-      "size" : 8160287,
+      "sha256" : "d4e13adfea51031c7c07d927b6a61199a2cfa80f74740af476cbb5fe5d6ab10f",
+      "size" : 8396346,
       "starCount" : 0,
       "subtitle" : "An electronic book reader",
-      "version" : "0.0.10",
-      "versionDate" : "2022-04-10T14:17:10Z",
-      "versionDescription" : "Release 0.0.10",
-      "viewCount" : 1,
+      "tintColor" : "187BF7",
+      "version" : "0.0.11",
+      "versionDate" : "2022-04-10T19:36:58Z",
+      "versionDescription" : "Release 0.0.11",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

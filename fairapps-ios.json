@@ -320,78 +320,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Lex-Stanza",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 102472,
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.9/Lex-Stanza-iOS.ipa",
-      "iconURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.9/Lex-Stanza.png",
-      "impressionCount" : 0,
-      "issueCount" : 0,
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.9/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
-      "name" : "Lex Stanza",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read epub files"
-        }
-      ],
-      "readmeURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.9/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "d55e72514bc25171bb98e1371b8f405e80e6cb001a140c5c8dd70e4980a6408f",
-      "size" : 8079368,
-      "starCount" : 0,
-      "subtitle" : "An electronic book reader",
-      "version" : "0.0.9",
-      "versionDate" : "2022-04-09T17:24:40Z",
-      "versionDescription" : "Release 0.0.9",
-      "viewCount" : 0,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lex-Stanza",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 102472,
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.8/Lex-Stanza-iOS.ipa",
-      "iconURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.8/Lex-Stanza.png",
-      "impressionCount" : 5,
-      "issueCount" : 0,
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.8/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
-      "name" : "Lex Stanza",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read epub files"
-        }
-      ],
-      "readmeURL" : "https://github.com/Lex-Stanza/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
-      "sha256" : "a5ffd243cb7fec72d53af1f864a2543114d74ec529ce3aa93fc3eb70141fe955",
-      "size" : 8079341,
-      "starCount" : 0,
-      "subtitle" : "An electronic book reader",
-      "version" : "0.0.8",
-      "versionDate" : "2022-04-09T17:04:04Z",
-      "versionDescription" : "Release 0.0.8",
-      "viewCount" : 2,
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
@@ -777,6 +705,46 @@
       "versionDate" : "2022-04-08T08:53:44Z",
       "versionDescription" : "Release 0.0.49",
       "viewCount" : 2,
+      "watcherCount" : 0
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Stanza-Redux",
+      "categories" : [
+        "public.app-category.reference"
+      ],
+      "coreSize" : 102480,
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.10/Stanza-Redux-iOS.ipa",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.10/Stanza-Redux.png",
+      "impressionCount" : 0,
+      "issueCount" : 0,
+      "localizedDescription" : "An electronic book reader",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.10/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
+      "name" : "Stanza Redux",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read epub files"
+        }
+      ],
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.10/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "e5b13574c206aab29f65cdd1af00f446c77c8558ea3e95840e98a006a215e782",
+      "size" : 8160287,
+      "starCount" : 0,
+      "subtitle" : "An electronic book reader",
+      "version" : "0.0.10",
+      "versionDate" : "2022-04-10T14:17:10Z",
+      "versionDescription" : "Release 0.0.10",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

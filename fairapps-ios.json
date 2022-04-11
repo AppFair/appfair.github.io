@@ -715,13 +715,13 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.12/Stanza-Redux-iOS.ipa",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.12/Stanza-Redux.png",
-      "impressionCount" : 1,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.13/Stanza-Redux-iOS.ipa",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.13/Stanza-Redux.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.12/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.13/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -733,19 +733,19 @@
           "usageDescription" : "This app needs to read epub files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.13/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "09dde186ae99df59125fa669fe2b17d65150a94823e5676821476ec37a1bca51",
-      "size" : 8400692,
+      "sha256" : "33c31dced86d937e23485c53a1d76ded6d8a5d43ec040353956d0fabf879b15b",
+      "size" : 8446212,
       "starCount" : 0,
       "subtitle" : "An electronic book reader",
       "tintColor" : "187BF7",
-      "version" : "0.0.12",
-      "versionDate" : "2022-04-10T22:31:23Z",
-      "versionDescription" : "Release 0.0.12",
-      "viewCount" : 1,
+      "version" : "0.0.13",
+      "versionDate" : "2022-04-11T00:13:17Z",
+      "versionDescription" : "Release 0.0.13",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

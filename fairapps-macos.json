@@ -1021,13 +1021,13 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.14/Stanza-Redux-macOS.zip",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.14/Stanza-Redux.png",
-      "impressionCount" : 2,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.15/Stanza-Redux-macOS.zip",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.15/Stanza-Redux.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.14/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.15/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -1039,18 +1039,18 @@
           "usageDescription" : "This app needs to read epub files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.14/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.15/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "d98b1e6d4b201d7aeeef9ba4f17c0a9aaf74b6d03cd702e615d67f42563c9be9",
-      "size" : 4226620,
+      "sha256" : "fba1f036eb32aacec69dc84f7f5a8bf3f1534a5ec468265ade35c1137ef15682",
+      "size" : 4226342,
       "starCount" : 0,
       "subtitle" : "An electronic book reader",
       "tintColor" : "187BF7",
-      "version" : "0.0.14",
-      "versionDate" : "2022-04-11T09:23:55Z",
-      "versionDescription" : "Release 0.0.14",
+      "version" : "0.0.15",
+      "versionDate" : "2022-04-11T16:48:32Z",
+      "versionDescription" : "Release 0.0.15",
       "viewCount" : 0,
       "watcherCount" : 0
     },

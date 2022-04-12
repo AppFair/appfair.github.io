@@ -1019,15 +1019,15 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "coreSize" : 102480,
+      "coreSize" : 170208,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.15/Stanza-Redux-macOS.zip",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.15/Stanza-Redux.png",
-      "impressionCount" : 5,
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.3/Stanza-Redux-macOS.zip",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.3/Stanza-Redux.png",
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.15/Info.plist#221f2bacfddb347b4315ffc3c70dfe2b4ae371d402b6bc4591e2c1632e3b5917",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.3/Info.plist#68a2759f137c328d6a08a6fe7e49aecab2f5123aed6a202ee4aa9650d6b630ca",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -1039,18 +1039,18 @@
           "usageDescription" : "This app needs to read epub files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.0.15/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "fba1f036eb32aacec69dc84f7f5a8bf3f1534a5ec468265ade35c1137ef15682",
-      "size" : 4226342,
+      "sha256" : "85a6a88827289afefdc54ece080575e17119db8c41e91c0cfdb17cfc9648a4c3",
+      "size" : 3596381,
       "starCount" : 0,
       "subtitle" : "An electronic book reader",
       "tintColor" : "187BF7",
-      "version" : "0.0.15",
-      "versionDate" : "2022-04-11T16:48:32Z",
-      "versionDescription" : "Release 0.0.15",
+      "version" : "0.2.3",
+      "versionDate" : "2022-04-12T15:43:59Z",
+      "versionDescription" : "Release 0.2.3",
       "viewCount" : 1,
       "watcherCount" : 0
     },

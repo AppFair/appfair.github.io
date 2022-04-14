@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.2.9``](https://github.com/Stanza-Redux/App/releases/0.2.9) | `0` | `0` | `2` | `3.6 MB` | `0` | `0` | `2022-04-14T11:53:56Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.2.11``](https://github.com/Stanza-Redux/App/releases/0.2.11) | `0` | `0` | `2` | `3.6 MB` | `0` | `0` | `2022-04-14T17:52:27Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.331``](https://github.com/App-Fair/App/releases/0.7.331) | `3` | `1` | `7` | `7.2 MB` | `3` | [``1``](https://github.com/App-Fair/App/issues) | `2022-04-11T12:38:16Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.30``](https://github.com/Net-Skip/App/releases/0.0.30) | `17` | `3` | `2` | `2.9 MB` | `0` | `0` | `2022-04-11T08:57:50Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.49``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.49) | `18` | `2` | `3` | `1.45 GB` | `0` | `0` | `2022-04-08T08:53:44Z` | [`video`](https://github.com/topics/appfair-video)  |

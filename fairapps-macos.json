@@ -1021,13 +1021,13 @@
       ],
       "coreSize" : 170208,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.6/Stanza-Redux-macOS.zip",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.6/Stanza-Redux.png",
-      "impressionCount" : 1,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.7/Stanza-Redux-macOS.zip",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.7/Stanza-Redux.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.6/Info.plist#358a640c50d8568a81debfd91598e11335e14d61bb0b531afb665b1c014595bc",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.7/Info.plist#358a640c50d8568a81debfd91598e11335e14d61bb0b531afb665b1c014595bc",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -1039,19 +1039,19 @@
           "usageDescription" : "This app needs to read epub files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.2.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
 
       ],
-      "sha256" : "ac926584bc07c1d47481b95c3d89bb78bfb38cb679828bdb4b5248863a5a6625",
-      "size" : 3625135,
+      "sha256" : "dfa4e9274cdeef65d89e167c717c7376666dba870fc45641978146bad0da150d",
+      "size" : 3625132,
       "starCount" : 0,
       "subtitle" : "An electronic book reader",
       "tintColor" : "187BF7",
-      "version" : "0.2.6",
-      "versionDate" : "2022-04-13T23:21:36Z",
-      "versionDescription" : "Release 0.2.6",
-      "viewCount" : 1,
+      "version" : "0.2.7",
+      "versionDate" : "2022-04-14T06:23:16Z",
+      "versionDescription" : "Release 0.2.7",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

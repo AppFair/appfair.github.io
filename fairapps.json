@@ -8,14 +8,14 @@
       ],
       "coreSize" : 170656,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.335/App-Fair-macOS.zip",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.7.336/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.335/App-Fair.png",
-      "impressionCount" : 11,
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.7.336/App-Fair.png",
+      "impressionCount" : 0,
       "issueCount" : 1,
       "localizedDescription" : "The App Fair catalog browser for discovering & installing macOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.335/Info.plist#563a42d6d02a1be7ee9aaa419f174b688a6a0cffc00c10fe84cd4668024e0857",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.7.336/Info.plist#563a42d6d02a1be7ee9aaa419f174b688a6a0cffc00c10fe84cd4668024e0857",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -39,30 +39,30 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.335/README.md#9f245a393a99761459c7c6277e7d2496f812d306cd43c1b14e74a1c05ccfe1bb",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.7.336/README.md#9f245a393a99761459c7c6277e7d2496f812d306cd43c1b14e74a1c05ccfe1bb",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_00-mac-dark-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_00-mac-light-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_01-mac-dark-2790x1924.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_01-mac-light-2790x1924.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_06-mac-dark-1424x1722.png",
-        "https://github.com/App-Fair/App/releases/download/0.7.335/screenshot_06-mac-light-1424x1722.png"
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_00-mac-dark-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_00-mac-light-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_01-mac-dark-2790x1924.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_01-mac-light-2790x1924.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_06-mac-dark-1424x1722.png",
+        "https://github.com/App-Fair/App/releases/download/0.7.336/screenshot_06-mac-light-1424x1722.png"
       ],
-      "sha256" : "9ef57f4b6b4ceb54eab904af1c954e72d6c8614b3eb180fee5fcefaea6ca994c",
-      "size" : 7227222,
+      "sha256" : "c4e516b3d6aa0b8a562815504456c2dccc986f2a34acd74c939c54691b464232",
+      "size" : 7230098,
       "starCount" : 3,
       "subtitle" : "The App Fair catalog browser for discovering & installing macOS apps",
       "tintColor" : "1594E8",
-      "version" : "0.7.335",
-      "versionDate" : "2022-04-17T16:42:19Z",
-      "versionDescription" : "Release 0.7.335",
-      "viewCount" : 8,
+      "version" : "0.7.336",
+      "versionDate" : "2022-04-18T09:41:59Z",
+      "versionDescription" : "Release 0.7.336",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -124,7 +124,7 @@
       "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/Blunder-Busq.png",
-      "impressionCount" : 82,
+      "impressionCount" : 87,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
       "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.0.34/Info.plist#99cc44e4cbf050700371984814b95971f777bf75d5c1b946b455533faed2bf4e",
@@ -156,7 +156,7 @@
       "version" : "0.0.34",
       "versionDate" : "2022-03-21T18:29:06Z",
       "versionDescription" : "Release 0.0.34",
-      "viewCount" : 7,
+      "viewCount" : 12,
       "watcherCount" : 0
     },
     {
@@ -212,7 +212,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.25/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.25/Cloud-Cuckoo.png",
-      "impressionCount" : 84,
+      "impressionCount" : 89,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.25/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -235,7 +235,7 @@
       "version" : "0.9.25",
       "versionDate" : "2022-04-06T14:16:42Z",
       "versionDescription" : "Release 0.9.25",
-      "viewCount" : 14,
+      "viewCount" : 19,
       "watcherCount" : 0
     },
     {
@@ -488,7 +488,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe-macOS.zip",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe.png",
-      "impressionCount" : 63,
+      "impressionCount" : 68,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
@@ -514,7 +514,7 @@
       "version" : "0.0.19",
       "versionDate" : "2022-04-06T16:11:00Z",
       "versionDescription" : "Release 0.0.19",
-      "viewCount" : 7,
+      "viewCount" : 11,
       "watcherCount" : 0
     },
     {
@@ -561,7 +561,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion-macOS.zip",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion.png",
-      "impressionCount" : 63,
+      "impressionCount" : 68,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
@@ -584,7 +584,7 @@
       "version" : "0.0.87",
       "versionDate" : "2022-04-06T15:01:42Z",
       "versionDescription" : "Release 0.0.87",
-      "viewCount" : 11,
+      "viewCount" : 16,
       "watcherCount" : 0
     },
     {
@@ -734,7 +734,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.31/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.31/Net-Skip.png",
-      "impressionCount" : 30,
+      "impressionCount" : 35,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.31/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -765,7 +765,7 @@
       "version" : "0.0.31",
       "versionDate" : "2022-04-15T12:18:07Z",
       "versionDescription" : "Release 0.0.31",
-      "viewCount" : 10,
+      "viewCount" : 15,
       "watcherCount" : 0
     },
     {
@@ -839,7 +839,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "impressionCount" : 306,
+      "impressionCount" : 309,
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
@@ -861,7 +861,7 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T03:44:49Z",
       "versionDescription" : "Release 0.4.18",
-      "viewCount" : 50,
+      "viewCount" : 53,
       "watcherCount" : 0
     },
     {
@@ -989,7 +989,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues-macOS.zip",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues.png",
-      "impressionCount" : 53,
+      "impressionCount" : 58,
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1010,7 +1010,7 @@
       "version" : "0.0.49",
       "versionDate" : "2022-04-08T08:53:44Z",
       "versionDescription" : "Release 0.0.49",
-      "viewCount" : 10,
+      "viewCount" : 15,
       "watcherCount" : 0
     },
     {
@@ -1021,10 +1021,10 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.1/Stanza-Redux-macOS.zip",
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.1/Stanza-Redux.png",
-      "impressionCount" : 6,
+      "impressionCount" : 11,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.1/Info.plist#d9e42b0df6d5dc96dce18722cb0c77c82f1b71721ac03f3d7867da0c11ae6c79",
@@ -1052,7 +1052,7 @@
       "version" : "0.3.1",
       "versionDate" : "2022-04-18T07:56:26Z",
       "versionDescription" : "Release 0.3.1",
-      "viewCount" : 3,
+      "viewCount" : 8,
       "watcherCount" : 0
     },
     {
@@ -1167,7 +1167,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.427/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.427/Tune-Out.png",
-      "impressionCount" : 56,
+      "impressionCount" : 61,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.427/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -1195,7 +1195,7 @@
       "version" : "0.8.427",
       "versionDate" : "2022-04-07T17:33:56Z",
       "versionDescription" : "Release 0.8.427",
-      "viewCount" : 9,
+      "viewCount" : 14,
       "watcherCount" : 0
     },
     {

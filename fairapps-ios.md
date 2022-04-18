@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.2``](https://github.com/Stanza-Redux/App/releases/0.3.2) | `1` | `0` | `1` | `8.2 MB` | `0` | `0` | `2022-04-18T09:41:53Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.2``](https://github.com/Stanza-Redux/App/releases/0.3.2) | `2` | `0` | `3` | `8.2 MB` | `0` | `0` | `2022-04-18T09:41:53Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.31``](https://github.com/Net-Skip/App/releases/0.0.31) | `35` | `15` | `3` | `7.2 MB` | `0` | `0` | `2022-04-15T12:18:07Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.49``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.49) | `58` | `15` | `2` | `1.46 GB` | `0` | `0` | `2022-04-08T08:53:44Z` | [`video`](https://github.com/topics/appfair-video)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.427``](https://github.com/Tune-Out/App/releases/0.8.427) | `61` | `14` | `2` | `17.1 MB` | `0` | `0` | `2022-04-07T17:33:56Z` | [`music`](https://github.com/topics/appfair-music)  |

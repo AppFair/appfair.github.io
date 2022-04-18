@@ -1217,7 +1217,9 @@ Individual app forks can, optionally, configure automatic notarization of their 
  * `NOTARY_CERTKEY_PASSWORD`: The password for the exported certificate
 
 To obtain the `NOTARY_CERTKEY_P12_BASE64` value first request a certificate through the developer portal, import it into `Keychain Access.app`, and then export is as a .p12 file, which will be base64 encoded and saved into the GitHub secret.
-First get a Developer ID certificate by logging into your developer account and selecting "Certificates IDs & Profiles", then create a new Developer ID Application certificate.
+
+First obtain a Developer ID certificate by logging into your developer account and selecting "Certificates IDs & Profiles", then create a new Developer ID Application certificate.
+
 To get a CSR, launch `Keychain Access.app` and select `Certificate Assistant` -> `Request a Certificate from a Certificate Authority`.
 Ensure the "CA Email Address" matches the developer e-mail, then save to disk.
 Next, upload the CSR request file to the portal and it will create a new certificate for you. 
@@ -1228,15 +1230,16 @@ The signing data can then be exported from `Keychain Access.app` by going to the
 
 Select **BOTH** items and right-click select "Export 2 Items…".
 Export to a file named "Certificates.p12" and select a password.
-Create a GitHub organization secret called "NOTARIZATION_SIGNING_PASSWORD" with the value of that password.
+Create a GitHub organization secret called "`NOTARIZATION_SIGNING_PASSWORD`" with the value of that password.
 
-Next copy the "NOTARY_CERTKEY_P12_BASE64" itslef to the clipboard with:
+Next copy the "`NOTARY_CERTKEY_P12_BASE64`" itself to the clipboard with:
 
   `base64 Certificates.p12 | pbcopy`
   
-In your GitHub organization Secrets settings, paste the value into a "NOTARY_CERTKEY_P12_BASE64" key.
+In your GitHub organization Secrets settings, paste the whole value into a "`NOTARY_CERTKEY_P12_BASE64`" key.
 
 Once these secrets have been configured for your organization, any subsequent release builds of your app will be automatically notarized.
+
 If errors occur, see the GitHub actions log for your release action to identify the cause. 
 Typically, the source errors is the format of the `NOTARY_CERTKEY_P12_BASE64` secret, which must be correctly formatted as the base64 representation of the `p12` export.
 

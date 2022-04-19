@@ -900,10 +900,10 @@ For details, see the [source](https://fair-ground.org/Fair/blob/main/Sources/Fai
 
 From [https://reproducible-builds.org/](https://reproducible-builds.org/): “Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code.”
 
-A fair-ground is responsible for ensuring Source Transparency, which is the guarantee that all the source code that included in an app's binary is available for public scrutiny.
+A fair-ground is responsible for ensuring Source Transparency, which is the guarantee that all the source code that is compiled into an app's executable binary is available for public scrutiny.
 
 Since the artifacts that are distributed through the App Fair are released by an _untrusted_ fork, the fair-ground re-builds every app release in its own _trusted_ environment, and then compares the binary artifacts between the two builds to ensure they are identical.
-If the build artifacts match, then a `fairseal` is published with the cryptographic hash of the validated binary, which is a pre-requisite for being included in the App Fair catalog.
+If these build artifacts match, then a `fairseal` is published with the cryptographic hash of the validated binary. This `fairseal` is a pre-requisite for being included in the App Fair catalog.
 
 ### How can I ensure that my project produces reproducible builds?
 

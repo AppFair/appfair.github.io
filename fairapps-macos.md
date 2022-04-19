@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.1.3``](https://github.com/Blunder-Busq/App/releases/0.1.3) | `0` | `0` | `1` | `4 MB` | `0` | `0` | `2022-04-19T17:17:16Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.1.3``](https://github.com/Blunder-Busq/App/releases/0.1.3) | `1` | `1` | `2` | `4 MB` | `0` | `0` | `2022-04-19T17:17:16Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.6``](https://github.com/App-Fair/App/releases/0.8.6) | `2` | `1` | `3` | `7.2 MB` | `3` | [``1``](https://github.com/App-Fair/App/issues) | `2022-04-19T16:22:13Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.2``](https://github.com/Stanza-Redux/App/releases/0.3.2) | `41` | `10` | `2` | `3.7 MB` | `0` | `0` | `2022-04-18T09:41:53Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.31``](https://github.com/Net-Skip/App/releases/0.0.31) | `62` | `19` | `5` | `2.9 MB` | `0` | `0` | `2022-04-15T12:18:07Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |

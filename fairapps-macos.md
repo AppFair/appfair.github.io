@@ -23,6 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.36``](https://github.com/Blunder-Busq/App/releases/0.0.36) | `0` | `0` | `1` | `4 MB` | `0` | `0` | `2022-04-19T13:30:25Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.7.336``](https://github.com/App-Fair/App/releases/0.7.336) | `40` | `6` | `6` | `7.2 MB` | `3` | [``1``](https://github.com/App-Fair/App/issues) | `2022-04-18T09:41:59Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.2``](https://github.com/Stanza-Redux/App/releases/0.3.2) | `27` | `9` | `2` | `3.7 MB` | `0` | `0` | `2022-04-18T09:41:53Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.31``](https://github.com/Net-Skip/App/releases/0.0.31) | `47` | `18` | `5` | `2.9 MB` | `0` | `0` | `2022-04-15T12:18:07Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
@@ -31,8 +32,6 @@ tr:nth-child(even) {
 | [`Hex Loupe`](https://Hex-Loupe.github.io/App/) | [``0.0.19``](https://github.com/Hex-Loupe/App/releases/0.0.19) | `80` | `14` | `1` | `2.6 MB` | `0` | `0` | `2022-04-06T16:11:00Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Lottie Motion`](https://Lottie-Motion.github.io/App/) | [``0.0.87``](https://github.com/Lottie-Motion/App/releases/0.0.87) | `80` | `20` | `2` | `3.3 MB` | `0` | `0` | `2022-04-06T15:01:42Z` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.25``](https://github.com/Cloud-Cuckoo/App/releases/0.9.25) | `101` | `22` | `2` | `2.5 MB` | `0` | `0` | `2022-04-06T14:16:42Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.35β``](https://github.com/Blunder-Busq/App/releases/0.0.35) | `87` | `12` | `2` | `3.9 MB` | `0` | `0` | `2022-03-22T18:04:32Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
-| [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.0.34``](https://github.com/Blunder-Busq/App/releases/0.0.34) | `100` | `15` | `1` | `3.9 MB` | `0` | `0` | `2022-03-21T18:29:06Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tidal Zone`](https://Tidal-Zone.github.io/App/) | [``0.0.20β``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `231` | `19` | `5` | `2.5 MB` | `0` | `0` | `2022-02-12T16:07:15Z` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [`Trivial Quiz`](https://Trivial-Quiz.github.io/App/) | [``0.0.16β``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `170` | `13` | `1` | `2.5 MB` | `0` | `0` | `2022-02-12T16:07:11Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Name Sense`](https://Name-Sense.github.io/App/) | [``0.0.24β``](https://github.com/Name-Sense/App/releases/0.0.24) | `192` | `21` | `3` | `2.7 MB` | `0` | `0` | `2022-02-12T14:56:58Z` | [`education`](https://github.com/topics/appfair-education)  |

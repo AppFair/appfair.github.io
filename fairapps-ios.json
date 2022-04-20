@@ -50,31 +50,31 @@
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.27/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.27/Cloud-Cuckoo.png",
-      "impressionCount" : 4,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.28/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.28/Cloud-Cuckoo.png",
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.27/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.27/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.28/README.md#cb1aa2dac6e5a6b3766674fd7d47c57972119262865c74f818ef590ade2e2b31",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.27/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.27/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.27/screenshot_03-iphone-750x1334.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.28/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.28/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.28/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "ff48b353356d8337a0d031f1197926426f1bc0ceacce12bf73d3dc767942f419",
-      "size" : 6809179,
+      "sha256" : "b8b769ab326e60aa79d70e00f35435884237022b86843bf656459252bc9e2bb8",
+      "size" : 6809442,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.27",
-      "versionDate" : "2022-04-20T13:39:04Z",
-      "versionDescription" : "Release 0.9.27",
-      "viewCount" : 2,
+      "version" : "0.9.28",
+      "versionDate" : "2022-04-20T15:15:10Z",
+      "versionDescription" : "Release 0.9.28",
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -292,7 +292,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe-iOS.ipa",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe.png",
-      "impressionCount" : 102,
+      "impressionCount" : 103,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
@@ -330,7 +330,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion-iOS.ipa",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion.png",
-      "impressionCount" : 102,
+      "impressionCount" : 103,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
@@ -465,12 +465,12 @@
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.33/Net-Skip-iOS.ipa",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.33/Net-Skip.png",
-      "impressionCount" : 2,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.34/Net-Skip-iOS.ipa",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.34/Net-Skip.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.33/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.34/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
       "name" : "Net Skip",
       "permissions" : [
         {
@@ -482,19 +482,19 @@
           "usageDescription" : "This app needs to write files in order to save downloads."
         }
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.33/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.34/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.33/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.33/screenshot_02-iphone-1170x2532.png"
+        "https://github.com/Net-Skip/App/releases/download/0.0.34/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.34/screenshot_02-iphone-1170x2532.png"
       ],
-      "sha256" : "fcdcf31d5ded406113092cb474506c6af857f2c4c445ef96d7bfc07c083c846a",
-      "size" : 7222363,
+      "sha256" : "831eb744177e2c47e8d90107519aec7b200bda75b8b1bb0f9364af575046f4d9",
+      "size" : 7222836,
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.33",
-      "versionDate" : "2022-04-20T13:39:13Z",
-      "versionDescription" : "Release 0.0.33",
-      "viewCount" : 1,
+      "version" : "0.0.34",
+      "versionDate" : "2022-04-20T15:15:14Z",
+      "versionDescription" : "Release 0.0.34",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -682,7 +682,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues-iOS.ipa",
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues.png",
-      "impressionCount" : 91,
+      "impressionCount" : 92,
       "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -716,12 +716,12 @@
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.5/Stanza-Redux-iOS.ipa",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.5/Stanza-Redux.png",
-      "impressionCount" : 2,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.6/Stanza-Redux-iOS.ipa",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.6/Stanza-Redux.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.5/Info.plist#d9e42b0df6d5dc96dce18722cb0c77c82f1b71721ac03f3d7867da0c11ae6c79",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.6/Info.plist#d9e42b0df6d5dc96dce18722cb0c77c82f1b71721ac03f3d7867da0c11ae6c79",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -733,23 +733,23 @@
           "usageDescription" : "This app needs to read epub files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.5/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.6/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.5/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.5/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.5/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.5/screenshot_04-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.5/screenshot_05-iphone-750x1334.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.6/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.6/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.6/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.6/screenshot_04-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.6/screenshot_05-iphone-750x1334.png"
       ],
-      "sha256" : "02c103738b3ffab680725d7b4807177e36c21cecd46e469119d258ae18d0bf32",
-      "size" : 8171677,
+      "sha256" : "7cd8bdca2e4ebd2f6315717ef60d5ee2d6176104bf8e138fb326e491a1e39af2",
+      "size" : 8172013,
       "starCount" : 0,
       "subtitle" : "An electronic book reader",
       "tintColor" : "006E5C",
-      "version" : "0.3.5",
-      "versionDate" : "2022-04-20T13:39:25Z",
-      "versionDescription" : "Release 0.3.5",
-      "viewCount" : 1,
+      "version" : "0.3.6",
+      "versionDate" : "2022-04-20T15:15:08Z",
+      "versionDescription" : "Release 0.3.6",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -826,13 +826,13 @@
       ],
       "coreSize" : 103112,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.429/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.429/Tune-Out.png",
-      "impressionCount" : 3,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.429/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -840,21 +840,21 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.429/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.429/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.429/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.429/screenshot_03-iphone-1170x2532.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.430/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.430/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.430/screenshot_03-iphone-1170x2532.png"
       ],
-      "sha256" : "e938c31c4cadf2983d405aa1bd8e2834cf008591a09e05560cc83acc971a9c08",
-      "size" : 17243665,
+      "sha256" : "fe1398fb20726aa32a34a3766a96ad37eea80f89b1220c0a9ce54609bb71c42f",
+      "size" : 17244108,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.429",
-      "versionDate" : "2022-04-20T13:39:10Z",
-      "versionDescription" : "Release 0.8.429",
-      "viewCount" : 2,
+      "version" : "0.8.430",
+      "versionDate" : "2022-04-20T15:15:12Z",
+      "versionDescription" : "Release 0.8.430",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

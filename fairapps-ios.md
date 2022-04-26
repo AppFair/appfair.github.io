@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.36``](https://github.com/Net-Skip/App/releases/0.0.36) | `3` | `1` | `2` | `7.2 MB` | `0` | `0` | `2022-04-25T20:08:40Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.36``](https://github.com/Net-Skip/App/releases/0.0.36) | `4` | `1` | `2` | `7.2 MB` | `0` | `0` | `2022-04-25T20:08:40Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.30``](https://github.com/Cloud-Cuckoo/App/releases/0.9.30) | `26` | `2` | `2` | `6.8 MB` | `0` | `0` | `2022-04-20T16:40:53Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.430``](https://github.com/Tune-Out/App/releases/0.8.430) | `22` | `6` | `1` | `17.2 MB` | `0` | `0` | `2022-04-20T15:15:12Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.6``](https://github.com/Stanza-Redux/App/releases/0.3.6) | `27` | `4` | `2` | `8.2 MB` | `0` | `0` | `2022-04-20T15:15:08Z` | [`reference`](https://github.com/topics/appfair-reference)  |

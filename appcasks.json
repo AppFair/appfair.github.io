@@ -11,7 +11,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 666,
+      "impressionCount" : 667,
       "localizedDescription" : "",
       "name" : "firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -198,7 +198,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/AppIcon.png",
-      "impressionCount" : 627,
+      "impressionCount" : 628,
       "localizedDescription" : "",
       "name" : "minecraft",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/README.md",
@@ -690,6 +690,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "calibre",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 1,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/AppIcon.png",
+      "impressionCount" : 229,
+      "name" : "calibre",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/README.md",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "75706B",
+      "versionDate" : "2022-02-01T01:07:41Z",
+      "viewCount" : 5
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "daisydisk",
       "categories" : [
         "public.app-category.utilities"
@@ -1145,26 +1165,6 @@
       "tintColor" : "4B878A",
       "versionDate" : "2022-02-01T01:07:41Z",
       "viewCount" : 8
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "calibre",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadCount" : 0,
-      "downloadURL" : "https://appfair.app",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/AppIcon.png",
-      "impressionCount" : 228,
-      "name" : "calibre",
-      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/README.md",
-      "screenshotURLs" : [
-
-      ],
-      "tintColor" : "75706B",
-      "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 4
     },
     {
       "beta" : false,
@@ -1659,7 +1659,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-joplin/AppIcon.png",
-      "impressionCount" : 265,
+      "impressionCount" : 266,
       "name" : "joplin",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-joplin/README.md",
       "screenshotURLs" : [

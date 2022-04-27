@@ -975,13 +975,13 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.6/Stanza-Redux-macOS.zip",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.6/Stanza-Redux.png",
-      "impressionCount" : 27,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.7/Stanza-Redux-macOS.zip",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.7/Stanza-Redux.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.6/Info.plist#d9e42b0df6d5dc96dce18722cb0c77c82f1b71721ac03f3d7867da0c11ae6c79",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.7/Info.plist#b4b90e72faeb599141e8e95da4ed7868d2e158f3d8848c2eee29a5c5d47d070b",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -989,24 +989,24 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         },
         {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read epub files"
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read epub files and save bookmark progress"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.6/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.7/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.6/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.6/screenshot_01-mac-light-2436x2012.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.7/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.7/screenshot_01-mac-light-2436x2012.png"
       ],
-      "sha256" : "2aff1eeaab847f61d0e2c5f55eec6e8de26cb37eaa6c62b49b12f463cf62d8ad",
-      "size" : 3662515,
+      "sha256" : "45091f3bf2760df45c731f79fab00f87d9f760f5140991bb32a52cbdc8745402",
+      "size" : 3677257,
       "starCount" : 0,
       "subtitle" : "An electronic book reader",
-      "tintColor" : "006E5C",
-      "version" : "0.3.6",
-      "versionDate" : "2022-04-20T15:15:08Z",
-      "versionDescription" : "Release 0.3.6",
-      "viewCount" : 4,
+      "tintColor" : "00375C",
+      "version" : "0.3.7",
+      "versionDate" : "2022-04-27T11:58:22Z",
+      "versionDescription" : "Release 0.3.7",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

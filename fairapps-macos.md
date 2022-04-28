@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.7``](https://github.com/Stanza-Redux/App/releases/0.3.7) | `4` | `1` | `2` | `3.7 MB` | `0` | `0` | `2022-04-27T11:58:22Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.8``](https://github.com/Stanza-Redux/App/releases/0.3.8) | `0` | `0` | `1` | `3.7 MB` | `0` | `0` | `2022-04-28T19:12:58Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.36``](https://github.com/Net-Skip/App/releases/0.0.36) | `7` | `1` | `3` | `2.9 MB` | `0` | `0` | `2022-04-25T20:08:40Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.11``](https://github.com/App-Fair/App/releases/0.8.11) | `5` | `1` | `5` | `7.3 MB` | `3` | [``1``](https://github.com/App-Fair/App/issues) | `2022-04-24T21:32:59Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.30``](https://github.com/Cloud-Cuckoo/App/releases/0.9.30) | `33` | `3` | `2` | `2.7 MB` | `0` | `0` | `2022-04-20T16:40:53Z` | [`games`](https://github.com/topics/appfair-games)  |

@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.11``](https://github.com/Stanza-Redux/App/releases/0.3.11) | `2` | `1` | `2` | `8.3 MB` | `0` | `0` | `2022-04-29T20:58:00Z` | [`reference`](https://github.com/topics/appfair-reference)  |
-| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.36``](https://github.com/Net-Skip/App/releases/0.0.36) | `19` | `1` | `3` | `7.2 MB` | `0` | `0` | `2022-04-25T20:08:40Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.36``](https://github.com/Net-Skip/App/releases/0.0.36) | `20` | `1` | `3` | `7.2 MB` | `0` | `0` | `2022-04-25T20:08:40Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.30``](https://github.com/Cloud-Cuckoo/App/releases/0.9.30) | `42` | `3` | `2` | `6.8 MB` | `0` | `0` | `2022-04-20T16:40:53Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.430``](https://github.com/Tune-Out/App/releases/0.8.430) | `34` | `6` | `1` | `17.2 MB` | `0` | `0` | `2022-04-20T15:15:12Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.49``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.49) | `121` | `24` | `2` | `1.46 GB` | `0` | `0` | `2022-04-08T08:53:44Z` | [`video`](https://github.com/topics/appfair-video)  |

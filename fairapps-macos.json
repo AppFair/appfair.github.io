@@ -975,10 +975,10 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
+      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.13/Stanza-Redux-macOS.zip",
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.13/Stanza-Redux.png",
-      "impressionCount" : 0,
+      "impressionCount" : 2,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.13/Info.plist#b4b90e72faeb599141e8e95da4ed7868d2e158f3d8848c2eee29a5c5d47d070b",
@@ -1006,7 +1006,7 @@
       "version" : "0.3.13",
       "versionDate" : "2022-04-30T01:06:35Z",
       "versionDescription" : "Release 0.3.13",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {

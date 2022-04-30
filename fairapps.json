@@ -165,7 +165,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.30/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.30/Cloud-Cuckoo.png",
-      "impressionCount" : 42,
+      "impressionCount" : 43,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -442,7 +442,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe-macOS.zip",
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe.png",
-      "impressionCount" : 139,
+      "impressionCount" : 140,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
@@ -688,7 +688,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.36/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.36/Net-Skip.png",
-      "impressionCount" : 20,
+      "impressionCount" : 21,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.36/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -976,12 +976,12 @@
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.11/Stanza-Redux-macOS.zip",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.11/Stanza-Redux.png",
-      "impressionCount" : 2,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.13/Stanza-Redux-macOS.zip",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.13/Stanza-Redux.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.11/Info.plist#b4b90e72faeb599141e8e95da4ed7868d2e158f3d8848c2eee29a5c5d47d070b",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.13/Info.plist#b4b90e72faeb599141e8e95da4ed7868d2e158f3d8848c2eee29a5c5d47d070b",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -993,20 +993,20 @@
           "usageDescription" : "This app needs to read epub files and save bookmark progress"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.11/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.13/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.11/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.11/screenshot_01-mac-light-2436x2012.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.13/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.13/screenshot_01-mac-light-2436x2012.png"
       ],
-      "sha256" : "ebc0d9011e529dc4a384c2ffc7b8eb8ca8887e13c3bfe81818f84b6325bebd11",
-      "size" : 3685814,
+      "sha256" : "4271a497c34ce680efb565edeb46b77047303eb8949c0de55e23fbe8a96c2c81",
+      "size" : 3685812,
       "starCount" : 0,
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
-      "version" : "0.3.11",
-      "versionDate" : "2022-04-29T20:58:00Z",
-      "versionDescription" : "Release 0.3.11",
-      "viewCount" : 1,
+      "version" : "0.3.13",
+      "versionDate" : "2022-04-30T01:06:35Z",
+      "versionDescription" : "Release 0.3.13",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

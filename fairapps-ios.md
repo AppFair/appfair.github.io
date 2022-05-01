@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.38``](https://github.com/Net-Skip/App/releases/0.0.38) | `0` | `0` | `1` | `7.2 MB` | `0` | `0` | `2022-05-01T20:47:21Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.38``](https://github.com/Net-Skip/App/releases/0.0.38) | `1` | `1` | `2` | `7.2 MB` | `0` | `0` | `2022-05-01T20:47:21Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.14``](https://github.com/Stanza-Redux/App/releases/0.3.14) | `13` | `1` | `3` | `8.3 MB` | `0` | `0` | `2022-05-01T13:48:05Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `12` | `3` | `2` | `6.4 MB` | `0` | `0` | `2022-05-01T12:44:04Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.30``](https://github.com/Cloud-Cuckoo/App/releases/0.9.30) | `70` | `6` | `2` | `6.8 MB` | `0` | `0` | `2022-04-20T16:40:53Z` | [`games`](https://github.com/topics/appfair-games)  |

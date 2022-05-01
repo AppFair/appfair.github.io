@@ -464,13 +464,13 @@
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.36/Net-Skip-iOS.ipa",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.36/Net-Skip.png",
-      "impressionCount" : 32,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.37/Net-Skip-iOS.ipa",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.37/Net-Skip.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.36/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.37/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
       "name" : "Net Skip",
       "permissions" : [
         {
@@ -482,19 +482,19 @@
           "usageDescription" : "This app needs to write files in order to save downloads."
         }
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.36/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.37/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.36/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.36/screenshot_02-iphone-1170x2532.png"
+        "https://github.com/Net-Skip/App/releases/download/0.0.37/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.37/screenshot_02-iphone-1170x2532.png"
       ],
-      "sha256" : "1b9b631c8bd4d8ec01f993c8547ca5fe34940982901ca91991c84b1cd7e3791c",
-      "size" : 7222004,
+      "sha256" : "1c18add9dbfb4b896b3832544d3ee5d91b17a5daff472ede989f3ff39c645f3b",
+      "size" : 7236302,
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.36",
-      "versionDate" : "2022-04-25T20:08:40Z",
-      "versionDescription" : "Release 0.0.36",
-      "viewCount" : 3,
+      "version" : "0.0.37",
+      "versionDate" : "2022-05-01T14:29:32Z",
+      "versionDescription" : "Release 0.0.37",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

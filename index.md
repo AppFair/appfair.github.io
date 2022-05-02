@@ -3,7 +3,6 @@ name: AppFair
 title: The App Fair
 ---
 
-<div style="text-align: justify; hyphens: auto; -webkit-hyphens: auto;">
 <p align="center">
 <a alt="Download the App Fair app for macOS 12" href="https://appfair.app"><img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" /></a>
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
@@ -1536,4 +1535,3 @@ https://fair-ground.org/Fair.git -> https://github.com/fair-ground/Fair.git
 https://github.com/appfair/App.git
 -->
 
-</div>

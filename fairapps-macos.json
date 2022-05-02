@@ -976,12 +976,12 @@
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 1,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.14/Stanza-Redux-macOS.zip",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.14/Stanza-Redux.png",
-      "impressionCount" : 15,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.15/Stanza-Redux-macOS.zip",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.15/Stanza-Redux.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.14/Info.plist#b4b90e72faeb599141e8e95da4ed7868d2e158f3d8848c2eee29a5c5d47d070b",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.15/Info.plist#b4b90e72faeb599141e8e95da4ed7868d2e158f3d8848c2eee29a5c5d47d070b",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -993,20 +993,20 @@
           "usageDescription" : "This app needs to read epub files and save bookmark progress"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.14/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.15/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.14/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.14/screenshot_01-mac-light-2436x2012.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.15/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.15/screenshot_01-mac-light-2436x2012.png"
       ],
-      "sha256" : "b462c0ee895aadccec26b7742ed6d12d2022915bc42da49e22f93928db667287",
-      "size" : 3718623,
+      "sha256" : "1ea87b843ddfcc4f76ce010cf368d592715333876fdb8ca12fc295d505b7259f",
+      "size" : 3723458,
       "starCount" : 0,
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
-      "version" : "0.3.14",
-      "versionDate" : "2022-05-01T13:48:05Z",
-      "versionDescription" : "Release 0.3.14",
-      "viewCount" : 1,
+      "version" : "0.3.15",
+      "versionDate" : "2022-05-02T13:15:04Z",
+      "versionDescription" : "Release 0.3.15",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

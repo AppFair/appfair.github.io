@@ -3,8 +3,9 @@ name: AppFair
 title: The App Fair
 ---
 
+<div style="text-align: justify; hyphens: auto; -webkit-hyphens: auto;">
 <p align="center">
-<a alt="Download the App Fair app for macOS Monterey" href="https://appfair.app"><img alt="The App Fair icon" align="center" height="100" src="appfair-icon.svg" /></a>
+<a alt="Download the App Fair app for macOS 12" href="https://appfair.app"><img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" /></a>
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
 </p>
 
@@ -13,7 +14,7 @@ open-source macOS applications.
 App Fair apps use modern native frameworks and user-interface
 elements with a focus on performance, efficiency, and accessibility.
 
-The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS Monterey that can be downloaded from [appfair.app](https://appfair.app).
+The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS 12 that can be downloaded from [appfair.app](https://appfair.app).
 New users should start by downloading this app and exploring its features and capabilities.
 
 The rest of this page is a guide for the development and publication of your own apps on the App Fair catalog.
@@ -57,7 +58,7 @@ At the end of this Quick Start guide, you will have your own app published and a
 
 Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written any code yet), but it is yours to develop, maintain, and share with the world.
 
-On a computer with macOS Monterey, you can now download and launch the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser, enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
+On a computer with macOS 12 and higher, you can now download and launch the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser, enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
 
 The next step will be to code your app, which typically involves cloning your fork to a local machine and opening `App.xcworkspace` in an IDE like `Xcode.app` to run and debug. The `App/Sources/AppContainer.swift` source file contains the scaffold for your SwiftUI code; start there to begin defining your app's behavior. 
 
@@ -1535,3 +1536,4 @@ https://fair-ground.org/Fair.git -> https://github.com/fair-ground/Fair.git
 https://github.com/appfair/App.git
 -->
 
+</div>

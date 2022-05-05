@@ -102,7 +102,7 @@ jobs:
 
           # generate AltStore-specific catalog
           cd appfair.github.io
-          cat fairapps-ios.json | jq '.apps |= map(select(.bundleIdentifier|match("${{ secrets.APP_FAIR_ALTSTORE_APPS }}")))' > fairapps-altstore.json
+          cat fairapps-ios.json | jq '.apps |= map(select(.bundleIdentifier|match("${{ secrets.APP_FAIR_ALTSTORE_APPS }}")))' | jq '.sourceURL |= "https://www.appfair.net/fairapps-altstore.json"' > fairapps-altstore.json
 
           cd -
 

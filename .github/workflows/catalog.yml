@@ -97,6 +97,13 @@ jobs:
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
             --index ../appfair.github.io/fairapps-ios.md \
             -o ../appfair.github.io/fairapps-ios.json
+
+          cd -
+
+          # generate AltStore-specific catalog
+          cd appfair.github.io
+          cat fairapps-ios.json | jq '.apps |= map(select(.bundleIdentifier|match("${{ secrets.APP_FAIR_ALTSTORE_APPS }}")))' > fairapps-altstore.json
+
           cd -
 
       - name: Generate appcasks catalog
@@ -126,6 +133,7 @@ jobs:
           git add fairapps-macos.json
           git add fairapps-ios.md
           git add fairapps-ios.json
+          git add fairapps-altstore.json
           git add appcasks.json
           git pull
           git commit -m "catalog update" || echo "nothing to commit"

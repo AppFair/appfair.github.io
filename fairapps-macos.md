@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.20``](https://github.com/App-Fair/App/releases/0.8.20) | `0` | `0` | `1` | `7.4 MB` | `3` | [``1``](https://github.com/App-Fair/App/issues) | `2022-05-09T14:08:10Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.18``](https://github.com/Stanza-Redux/App/releases/0.3.18) | `2` | `2` | `2` | `3.8 MB` | `0` | `0` | `2022-05-09T13:21:19Z` | [`reference`](https://github.com/topics/appfair-reference)  |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.18``](https://github.com/App-Fair/App/releases/0.8.18) | `4` | `2` | `7` | `7.4 MB` | `3` | [``1``](https://github.com/App-Fair/App/issues) | `2022-05-08T21:06:28Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.38β``](https://github.com/Net-Skip/App/releases/0.0.38) | `50` | `4` | `3` | `2.9 MB` | `0` | `0` | `2022-05-01T20:47:21Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `45` | `4` | `2` | `2.6 MB` | `0` | `0` | `2022-05-01T12:44:04Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.30β``](https://github.com/Cloud-Cuckoo/App/releases/0.9.30) | `132` | `9` | `2` | `2.7 MB` | `0` | `0` | `2022-04-20T16:40:53Z` | [`games`](https://github.com/topics/appfair-games)  |

@@ -108,10 +108,13 @@ At the end of this Quick Start guide, you will have your own app published and a
   * Wait a couple minutes for the action to complete: the yellow dot should turn green, indicating that the workflow ran successfully.
   * Common mis-configurations will be indicated by a red dot; the log for the workflow run will indicate the cause of the issue.
   <img style="width: 75%; max-width: 1000px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-run-configure-app.png" />
+  <img style="width: 75%; max-width: 1000px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-run-configure-app-success.png" />
   6. Select the **`Code`** tab and follow the _`Releases`_ link (on the right side of the page). 
   * Hit the **Create a new Release** button. 
   * Under `Choose a tag`, enter "0.0.1" and hit the "`Create new tag on publish`" menu item. 
   * At the bottom of the page, enable the "`This is a pre-release`" checkbox then hit the **Publish release** button.
+  <img style="width: 75%; max-width: 1000px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-create-release.png" />
+  <img style="width: 75%; max-width: 750px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-publish-release.png" />
   7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. 
   * This process builds your app and releases a binary artifact.
   * It should take under 10 minutes.

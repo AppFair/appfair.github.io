@@ -102,10 +102,12 @@ At the end of this Quick Start guide, you will have your own app published and a
   <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-pages-setting.png" />
   4. Select the **`Settings`** tab's **`General`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area.
   * These community features are required for the app to be included in the App Fair catalog.
+  <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-issues-discussions-setting.png" />
   5. Select the **`Actions`** tab and then select the “`Configure App`” workflow on the left.
   * Expand the **Run workflow** drop-down, set the version to "_0.0.1_", then hit **Run workflow**.
   * Wait a couple minutes for the action to complete: the yellow dot should turn green, indicating that the workflow ran successfully.
   * Common mis-configurations will be indicated by a red dot; the log for the workflow run will indicate the cause of the issue.
+  <img style="width: 75%; max-width: 1000px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-issues-discussions-setting.png" />
   6. Select the **`Code`** tab and follow the _`Releases`_ link (on the right side of the page). 
   * Hit the **Create a new Release** button. 
   * Under `Choose a tag`, enter "0.0.1" and hit the "`Create new tag on publish`" menu item. 

@@ -123,6 +123,8 @@ At the end of this Quick Start guide, you will have your own app published and a
   * On the next page, hit the **Create Pull Request** button. 
   * The `Title` field must be the name and version of the app (e.g., "My App Name 0.0.1"). The body can be left empty. 
   * Hit the **Create Pull Request** button.
+  <img style="width: 75%; max-width: 1020px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-pull-request-start.png" />
+  <img style="width: 75%; max-width: 1017px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-pull-request-create.png" />  
   9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow run to complete successfully.
   * This process creates, scans, and validates a reproducible build of your app's binary artifact in a trusted environment.
   * It should take around 10 minutes.

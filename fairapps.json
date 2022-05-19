@@ -66,6 +66,38 @@
       "watcherCount" : 0
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.App-Title",
+      "categories" : [
+
+      ],
+      "coreSize" : 170128,
+      "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title-macOS.zip",
+      "iconURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title.png",
+      "impressionCount" : 0,
+      "issueCount" : 0,
+      "localizedDescription" : "A very useful app indeed",
+      "metadataURL" : "https://github.com/App-Title/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "App Title",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/App-Title/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+
+      ],
+      "sha256" : "cdee27f9a4108574041b293ae1483bd748186d61b74cb165f1e60a7b921a6f45",
+      "size" : 2443924,
+      "starCount" : 0,
+      "subtitle" : "A very useful app indeed",
+      "version" : "0.0.1",
+      "versionDate" : "2022-05-19T21:18:14Z",
+      "viewCount" : 0,
+      "watcherCount" : 0
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Blunder-Busq",
       "categories" : [

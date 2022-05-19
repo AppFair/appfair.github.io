@@ -67,8 +67,8 @@ App Fair apps are written in Swift and utilize a native `SwiftUI` user interface
 Apps target macOS 12 "Monterey" and Swift version 5.5, giving them access to modern Swift features like async/await.
 
 The distribution process for App Fair apps is instantaneous, automatic, and free.
-The only requirement is a GitHub account that is publicly associated with an academic e-mail address, along with a willingness to share your work freely with the rest of the world.
-No additional registration, sign-up, or approval is required in order to start developing and distributing apps for the App Fair.
+The only requirement is a GitHub account and a willingness to share your work freely with the rest of the world.
+No additional registration, sign-up, or approval is required in order to start developing and distributing apps on the App Fair.
 
 Apps are built, validated, and distributed using GitHub's free actions for open-source projects, and so there is never any cost associated with building and distributing your apps through the App Fair.
 
@@ -117,7 +117,8 @@ At the end of this Quick Start guide, you will have your own app published and a
   <img style="width: 75%; max-width: 750px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-publish-release.png" />
   7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. 
   * This process builds your app and releases a binary artifact.
-  * It should take under 10 minutes.
+  <img style="width: 75%; max-width: 1064px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-release-action-running.png" />
+  <img style="width: 75%; max-width: 1100px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-release-action-success.png" />
   8. Select the **`Pull Requests`** tab, then hit the **New Pull Request** button. 
   * On the next page, hit the **Create Pull Request** button. 
   * The `Title` field must be the name and version of the app (e.g., "My App Name 0.0.1"). The body can be left empty. 
@@ -786,10 +787,10 @@ There are a multitude of resources available online for both `git` (the source c
 A good starting point is GitHub's [Hello World](https://guides.github.com/activities/hello-world/) tutorial.
 Fluency with git will be important for managing your app's lifecycle.
 
-### Can I develop an App Fair app with a non-`.edu` academic e-mail address?
+<!-- ### Can I develop an App Fair app with a non-`.edu` academic e-mail address?
 
 While anyone is free to fork the App Fair's [base repository](https://github.com/appfair/App.git), the fair-ground enforces that the committer of the `integrate` PR has an associated academic e-mail address before it will validate the app and publish a `fairseal`, which is a prerequisite for the app to appear in the App Fair catalog.
-These addresses are currently restricted to academic `.edu` addresses.
+These addresses are currently restricted to academic `.edu` addresses. -->
 
 ### How do I fork the `appfair/App.git` repository?
 

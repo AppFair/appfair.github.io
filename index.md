@@ -95,19 +95,19 @@ At the end of this Quick Start guide, you will have your own app published and a
   * It must be forked into an organization, rather than into your personal account, since the app's name is defined by its containing organization.
   * The repository name must be left as "App".
   * The value you enter in the Description text field will be used as the summary title in the App Fair.
-  <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-fork-app.png" />
+  <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Fork base app screen" src="assets/quickstart-fork-app.png" />
   3. In your new `/App` repository fork, select the **`Settings`** tab and follow the **`Pages`** settings link on the left.
   * Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**.
   * This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
-  <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-pages-setting.png" />
+  <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub page settings screen" src="assets/quickstart-pages-setting.png" />
   4. Select the **`Settings`** tab's **`General`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area.
   * These community features are required for the app to be included in the App Fair catalog.
-  <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-issues-discussions-setting.png" />
+  <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub general settings screen" src="assets/quickstart-issues-discussions-setting.png" />
   5. Select the **`Actions`** tab and then select the “`Configure App`” workflow on the left.
   * Expand the **Run workflow** drop-down, set the version to "_0.0.1_", then hit **Run workflow**.
   * Wait a couple minutes for the action to complete: the yellow dot should turn green, indicating that the workflow ran successfully.
   * Common mis-configurations will be indicated by a red dot; the log for the workflow run will indicate the cause of the issue.
-  <img style="width: 75%; max-width: 1000px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-issues-discussions-setting.png" />
+  <img style="width: 75%; max-width: 1000px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Actions run screen" src="assets/quickstart-run-configure-app.png" />
   6. Select the **`Code`** tab and follow the _`Releases`_ link (on the right side of the page). 
   * Hit the **Create a new Release** button. 
   * Under `Choose a tag`, enter "0.0.1" and hit the "`Create new tag on publish`" menu item. 

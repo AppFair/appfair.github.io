@@ -93,10 +93,13 @@ At the end of this Quick Start guide, you will have your own app published and a
   <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-new-org.png" />
   2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created.
   * It must be forked into an organization, rather than into your personal account, since the app's name is defined by its containing organization.
+  * The repository name must be left as "App".
+  * The value you enter in the Description text field will be used as the summary title in the App Fair.
   <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-fork-app.png" />
   3. In your new `/App` repository fork, select the **`Settings`** tab and follow the **`Pages`** settings link on the left.
   * Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**.
   * This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
+  <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-pages-setting.png" />
   4. Select the **`Settings`** tab's **`General`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area.
   * These community features are required for the app to be included in the App Fair catalog.
   5. Select the **`Actions`** tab and then select the “`Configure App`” workflow on the left.

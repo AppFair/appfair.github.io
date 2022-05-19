@@ -90,7 +90,7 @@ At the end of this Quick Start guide, you will have your own app published and a
   1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). 
   * The name of the organization is the name of your app, so you'll need to choose a new unique name.
   * The name can be easily changed later, so just pick the first available name that comes to mind.
-  <img style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
+  <img style="max-width: 601px; display: block;" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created.
   * It must be forked into an organization, rather than into your personal account, since the app's name is defined by its containing organization.
   3. In your new `/App` repository fork, select the **`Settings`** tab and follow the **`Pages`** settings link on the left.

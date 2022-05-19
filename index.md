@@ -87,53 +87,35 @@ Anyone can create and publish their own app on the App Fair, for free, using onl
 The process just requires a regular GitHub account ([signup here](https://github.com/join)) and under an hour of your time.
 At the end of this Quick Start guide, you will have your own app published and available through the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser.
 
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   1. The first step is to [create a free GitHub organization](https://github.com/account/organizations/new?plan=team_free). 
   * The name of the organization is the name of your app, so you'll need to choose a new unique name.
   * The name can be easily changed later, so just pick the first available name that comes to mind.
-  <hr />
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
+  <img style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created.
   * It must be forked into an organization, rather than into your personal account, since the app's name is defined by its containing organization.
-  <hr />
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   3. In your new `/App` repository fork, select the **`Settings`** tab and follow the **`Pages`** settings link on the left.
   * Set the `Source` branch to be `main` and change the root folder to be `/docs`, then hit **Save**.
   * This will set up the landing page for your app that can be used to publish the app description, screenshots, and support information.
-  <hr />
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   4. Select the **`Settings`** tab's **`General`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area.
   * These community features are required for the app to be included in the App Fair catalog.
-  <hr />
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   5. Select the **`Actions`** tab and then select the “`Configure App`” workflow on the left.
   * Expand the **Run workflow** drop-down, set the version to "_0.0.1_", then hit **Run workflow**.
   * Wait a couple minutes for the action to complete: the yellow dot should turn green, indicating that the workflow ran successfully.
   * Common mis-configurations will be indicated by a red dot; the log for the workflow run will indicate the cause of the issue.
-  <hr />
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   6. Select the **`Code`** tab and follow the _`Releases`_ link (on the right side of the page). 
   * Hit the **Create a new Release** button. 
   * Under `Choose a tag`, enter "0.0.1" and hit the "`Create new tag on publish`" menu item. 
   * At the bottom of the page, enable the "`This is a pre-release`" checkbox then hit the **Publish release** button.
-  <hr />
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   7. Return to the **`Actions`** tab and wait for the "_Fork Apply_" workflow run to complete. 
   * This process builds your app and releases a binary artifact.
   * It should take under 10 minutes.
-  <hr />
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   8. Select the **`Pull Requests`** tab, then hit the **New Pull Request** button. 
   * On the next page, hit the **Create Pull Request** button. 
   * The `Title` field must be the name and version of the app (e.g., "My App Name 0.0.1"). The body can be left empty. 
   * Hit the **Create Pull Request** button.
-  <hr />
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow run to complete successfully.
   * This process creates, scans, and validates a reproducible build of your app's binary artifact in a trusted environment.
   * It should take around 10 minutes.
-  <hr />
-  <img align="right" style="max-width: 601px" alt="GitHub New Organizaion Screen" src="assets/quickstart-new-org.png" />
   10. Your app will soon be listed in the [recent apps](https://www.appfair.net/fairapps-macos) catalog, indicating that it has been published successfully.
 
 Congratulations: you now have your very own native app published on the App Fair!  It just has a generic icon, and it doesn't do much of anything (since you haven't written any code yet), but it is yours to develop, maintain, and share with the world.

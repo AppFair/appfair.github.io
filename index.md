@@ -128,6 +128,7 @@ At the end of this Quick Start guide, you will have your own app published and a
   9. On the new pull request page page, select the _`Checks`_ sub-tab and wait for the "_Integrate Release_" workflow run to complete successfully.
   * This process creates, scans, and validates a reproducible build of your app's binary artifact in a trusted environment.
   * It should take only a few minutes.
+  * The pull request will be automatically closed at the end of the run.
   <img style="width: 75%; max-width: 1159px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Pull Request checks screen" src="assets/quickstart-pull-request-checks-start.png" />
   <img style="width: 75%; max-width: 1159px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Pull Request checks screen" src="assets/quickstart-pull-request-checks-success.png" />  
   10. Your app will soon be listed in the [recent apps](https://www.appfair.net/fairapps-macos) catalog, indicating that it has been published successfully.

@@ -137,7 +137,7 @@ Congratulations: you now have your very own native app published on the App Fair
 
 On a computer with macOS 12 and higher, you can now download and launch the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser, enable "Show Pre-Releases" in the app's "Fairapps" preference, search for your app name, and install and run your app. You can also share your app's landing page at `https://<your organization name>.github.io/App` to provide a link for opening your app's entry in the App Fair catalog.
 
-<img style="width: 75%; max-width: 1360px; display: block;" alt="GitHub Pull Request checks screen" src="assets/quickstart-app-entry.png" />  
+<img style="width: 75%; display: block;" alt="GitHub Pull Request checks screen" src="assets/quickstart-app-entry.png" />  
 
 The next step will be to code your app, which typically involves cloning your fork to a local machine and opening `App.xcworkspace` in an IDE like `Xcode.app` to run and debug. The `App/Sources/AppContainer.swift` source file contains the scaffold for your SwiftUI code; start there to begin defining your app's behavior. 
 

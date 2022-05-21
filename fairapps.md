@@ -23,10 +23,10 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.35``](https://github.com/Cloud-Cuckoo/App/releases/0.9.35) | `2` | `1` | `2` | `2.5 MB` | `0` | `0` | `2022-05-21T01:18:21Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.40``](https://github.com/App-Fair/App/releases/0.8.40) | `3` | `1` | `3` | `7.4 MB` | `3` | [``1``](https://github.com/App-Fair/App/issues) | `2022-05-19T23:04:47Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.34``](https://github.com/Cloud-Cuckoo/App/releases/0.9.34) | `10` | `3` | `2` | `2.5 MB` | `0` | `0` | `2022-05-19T21:47:53Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`App Title`](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `5` | `4` | `2` | `2.4 MB` | `0` | `0` | `2022-05-19T21:18:14Z` |  |
-| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.18``](https://github.com/Stanza-Redux/App/releases/0.3.18) | `120` | `17` | `3` | `3.8 MB` | `0` | `0` | `2022-05-09T13:21:19Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`App Title`](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `6` | `5` | `2` | `2.4 MB` | `0` | `0` | `2022-05-19T21:18:14Z` |  |
+| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.18``](https://github.com/Stanza-Redux/App/releases/0.3.18) | `121` | `18` | `3` | `3.8 MB` | `0` | `0` | `2022-05-09T13:21:19Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.38β``](https://github.com/Net-Skip/App/releases/0.0.38) | `115` | `4` | `3` | `2.9 MB` | `0` | `0` | `2022-05-01T20:47:21Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `84` | `8` | `2` | `2.6 MB` | `0` | `0` | `2022-05-01T12:44:04Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.1.6``](https://github.com/Blunder-Busq/App/releases/0.1.6) | `147` | `11` | `2` | `4 MB` | `0` | `0` | `2022-04-20T15:15:16Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |

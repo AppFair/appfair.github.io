@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.37``](https://github.com/Cloud-Cuckoo/App/releases/0.9.37) | `5` | `1` | `2` | `6.4 MB` | `0` | `0` | `2022-05-21T01:54:48Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.37``](https://github.com/Cloud-Cuckoo/App/releases/0.9.37) | `6` | `1` | `2` | `6.4 MB` | `0` | `0` | `2022-05-21T01:54:48Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.18``](https://github.com/Stanza-Redux/App/releases/0.3.18) | `122` | `18` | `5` | `8.5 MB` | `0` | `0` | `2022-05-09T13:21:19Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.38β``](https://github.com/Net-Skip/App/releases/0.0.38) | `115` | `4` | `3` | `7.2 MB` | `0` | `0` | `2022-05-01T20:47:21Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `84` | `8` | `2` | `6.4 MB` | `0` | `0` | `2022-05-01T12:44:04Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
@@ -43,7 +43,7 @@ tr:nth-child(even) {
 | [`Pan Opticon`](https://Pan-Opticon.github.io/App/) | [``0.2.22β``](https://github.com/Pan-Opticon/App/releases/0.2.22) | `228` | `23` | `3` | `6.5 MB` | `0` | `0` | `2022-01-24T11:51:13Z` | [`sports`](https://github.com/topics/appfair-sports)  |
 | [`Media Res`](https://Media-Res.github.io/App/) | [``0.0.17β``](https://github.com/Media-Res/App/releases/0.0.17) | `374` | `29` | `3` | `6 MB` | `0` | `0` | `2022-01-24T04:09:17Z` | [`lifestyle`](https://github.com/topics/appfair-lifestyle)  |
 | [`Encyclopedia Galactica`](https://Encyclopedia-Galactica.github.io/App/) | [``0.0.32β``](https://github.com/Encyclopedia-Galactica/App/releases/0.0.32) | `247` | `23` | `3` | `6.1 MB` | `0` | `0` | `2022-01-24T02:35:43Z` | [`reference`](https://github.com/topics/appfair-reference)  |
-| [`Bon Mot`](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `467` | `40` | `6` | `5.9 MB` | `1` | `0` | `2022-01-24T01:55:01Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`Bon Mot`](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `468` | `40` | `6` | `5.9 MB` | `1` | `0` | `2022-01-24T01:55:01Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Crazy Glue`](https://Crazy-Glue.github.io/App/) | [``0.0.4β``](https://github.com/Crazy-Glue/App/releases/0.0.4) | `501` | `58` | `3` | `5.9 MB` | `0` | `0` | `2022-01-23T23:13:56Z` | [`graphics-design`](https://github.com/topics/appfair-graphics-design)  |
 | [`Festivus Pole`](https://Festivus-Pole.github.io/App/) | [``0.0.3β``](https://github.com/Festivus-Pole/App/releases/0.0.3) | `302` | `30` | `3` | `5.8 MB` | `0` | `0` | `2022-01-23T23:13:54Z` | [`entertainment`](https://github.com/topics/appfair-entertainment)  |
 | [`Fox Glove`](https://Fox-Glove.github.io/App/) | [``0.0.4β``](https://github.com/Fox-Glove/App/releases/0.0.4) | `345` | `32` | `3` | `6 MB` | `0` | `0` | `2022-01-23T23:13:52Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |

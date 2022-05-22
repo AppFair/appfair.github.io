@@ -92,7 +92,7 @@ At the end of this Quick Start guide, you will have your own app published and a
   * The name can be easily changed later, so just pick the first available name that comes to mind.
   <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub New Organization Screen" src="assets/quickstart-new-org.png" />
   2. Once you have completed the new organization process, [fork the appfair/App repository](https://github.com/appfair/App/fork) into the new organization you just created.
-  * The “owner” of the fork must be the new organization, rather than into your personal account, since the app's name is defined by its containing organization of the app fork.
+  * The “owner” of the fork must be the new organization, rather than your personal account, since the app's name is defined by the forked repository's owner organization.
   * The forked repository name must be left as "App".
   * The value you enter in the Description text field will be used as the summary title in the App Fair.
   <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub Fork base app screen" src="assets/quickstart-fork-app.png" />

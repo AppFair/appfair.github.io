@@ -54,7 +54,6 @@ jobs:
 
       - name: Generate macOS catalog
         run: |
-          cd fair/
           fairtool catalog \
             --verbose true \
             --hub github.com/appfair \
@@ -67,14 +66,12 @@ jobs:
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
             --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
-            --cask-folder ../homebrew-app/Casks/ \
-            --index ../appfair.github.io/fairapps-macos.md \
-            -o ../appfair.github.io/fairapps-macos.json
-          cd -
+            --cask-folder homebrew-app/Casks/ \
+            --index appfair.github.io/fairapps-macos.md \
+            -o appfair.github.io/fairapps-macos.json
 
       - name: Generate iOS catalog
         run: |
-          cd fair/
           fairtool catalog \
             --verbose true \
             --hub github.com/appfair \
@@ -87,10 +84,9 @@ jobs:
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
             --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
-            --index ../appfair.github.io/fairapps-ios.md \
-            -o ../appfair.github.io/fairapps-ios.json
+            --index appfair.github.io/fairapps-ios.md \
+            -o appfair.github.io/fairapps-ios.json
 
-          cd -
 
           # generate AltStore-specific catalog
           cd appfair.github.io
@@ -100,15 +96,13 @@ jobs:
 
       - name: Generate appcasks catalog
         run: |
-          cd fair/
           fairtool appcasks \
             --verbose true \
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --boost-factor 100000 \
             --retry-duration 600 \
-            -o ../appfair.github.io/appcasks.json
-          cd -
+            -o appfair.github.io/appcasks.json
 
       - name: Commit catalog
         run: |

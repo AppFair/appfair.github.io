@@ -457,20 +457,20 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
         "public.app-category.productivity"
       ],
       "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.38/Net-Skip-iOS.ipa",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.38/Net-Skip.png",
-      "impressionCount" : 118,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.41/Net-Skip-iOS.ipa",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.41/Net-Skip.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.38/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.41/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
       "name" : "Net Skip",
       "permissions" : [
         {
@@ -482,19 +482,19 @@
           "usageDescription" : "This app needs to write files in order to save downloads."
         }
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.38/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.41/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.38/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.38/screenshot_02-iphone-1170x2532.png"
+        "https://github.com/Net-Skip/App/releases/download/0.0.41/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.41/screenshot_02-iphone-1170x2532.png"
       ],
-      "sha256" : "6037a7614f01527658df0c8d02bebdd9af56c26294f2a5b5ab96e4ea875d5cff",
-      "size" : 7238224,
+      "sha256" : "12118cae20ba1ca98748c348c8a7afdf71481bde8171d25a2c520bf294ec1b20",
+      "size" : 9310377,
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.38",
-      "versionDate" : "2022-05-01T20:47:21Z",
-      "versionDescription" : "Release 0.0.38",
-      "viewCount" : 4,
+      "version" : "0.0.41",
+      "versionDate" : "2022-05-26T14:00:30Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.40...0.0.41",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {

@@ -23,12 +23,12 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
+| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.41``](https://github.com/Net-Skip/App/releases/0.0.41) | `0` | `0` | `2` | `3.7 MB` | `0` | `0` | `2022-05-26T14:00:30Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.42``](https://github.com/App-Fair/App/releases/0.8.42) | `1` | `1` | `2` | `8.1 MB` | `3` | [``1``](https://github.com/App-Fair/App/issues) | `2022-05-25T19:02:11Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.41``](https://github.com/Cloud-Cuckoo/App/releases/0.9.41) | `3` | `3` | `3` | `3.2 MB` | `0` | `0` | `2022-05-25T18:33:58Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.19``](https://github.com/Stanza-Redux/App/releases/0.3.19) | `4` | `2` | `1` | `4.3 MB` | `0` | `0` | `2022-05-24T15:16:54Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `5` | `0` | `1` | `4.5 MB` | `0` | `0` | `2022-05-24T14:45:09Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Title`](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `9` | `6` | `2` | `2.4 MB` | `0` | `0` | `2022-05-19T21:18:14Z` |  |
-| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.38β``](https://github.com/Net-Skip/App/releases/0.0.38) | `118` | `4` | `3` | `2.9 MB` | `0` | `0` | `2022-05-01T20:47:21Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `86` | `8` | `2` | `2.6 MB` | `0` | `0` | `2022-05-01T12:44:04Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.430``](https://github.com/Tune-Out/App/releases/0.8.430) | `270` | `24` | `5` | `9.1 MB` | `0` | `0` | `2022-04-20T15:15:12Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Sita Sings the Blues`](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.49β``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.49) | `222` | `34` | `3` | `1.45 GB` | `0` | `0` | `2022-04-08T08:53:44Z` | [`video`](https://github.com/topics/appfair-video)  |

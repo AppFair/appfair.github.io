@@ -29,16 +29,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Checkout Fair
-        uses: actions/checkout@v2
-        with:
-          repository: fairapp/Fair.git
-          ref: main
-          path: fair/
-
-      # not yet available on linux
-      #- name: Install fairtool
-      #run: brew install --build-from-source fair-ground/tool/fairtool
+      - name: Install fairtool
+        run: brew install appfair/app/fairtool
 
       - name: Checkout Catalog
         uses: actions/checkout@v2
@@ -63,7 +55,7 @@ jobs:
       - name: Generate macOS catalog
         run: |
           cd fair/
-          swift run -- fairtool catalog \
+          fairtool catalog \
             --verbose true \
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
@@ -83,7 +75,7 @@ jobs:
       - name: Generate iOS catalog
         run: |
           cd fair/
-          swift run -- fairtool catalog \
+          fairtool catalog \
             --verbose true \
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
@@ -109,7 +101,7 @@ jobs:
       - name: Generate appcasks catalog
         run: |
           cd fair/
-          swift run -- fairtool appcasks \
+          fairtool appcasks \
             --verbose true \
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \

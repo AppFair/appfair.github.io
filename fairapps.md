@@ -57,7 +57,7 @@ tr:nth-child(even) {
 | [`Festivus Pole`](https://Festivus-Pole.github.io/App/) | [``0.0.3β``](https://github.com/Festivus-Pole/App/releases/0.0.3) | `305` | `30` | `3` | `2.3 MB` | `0` | `0` | `2022-01-23T23:13:54Z` | [`entertainment`](https://github.com/topics/appfair-entertainment)  |
 | [`Fox Glove`](https://Fox-Glove.github.io/App/) | [``0.0.4β``](https://github.com/Fox-Glove/App/releases/0.0.4) | `348` | `32` | `3` | `2.4 MB` | `0` | `0` | `2022-01-23T23:13:52Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Ultra Light`](https://Ultra-Light.github.io/App/) | [``0.0.7β``](https://github.com/Ultra-Light/App/releases/0.0.7) | `190` | `27` | `2` | `2.3 MB` | `0` | `0` | `2022-01-21T14:04:24Z` | [`news`](https://github.com/topics/appfair-news)  |
-| [`Next Edit`](https://Next-Edit.github.io/App/) | [``0.4.18``](https://github.com/Next-Edit/App/releases/0.4.18) | `483` | `74` | `5` | `6.7 MB` | `0` | `0` | `2022-01-20T03:44:49Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`Next Edit`](https://Next-Edit.github.io/App/) | [``0.4.18``](https://github.com/Next-Edit/App/releases/0.4.18) | `484` | `74` | `5` | `6.7 MB` | `0` | `0` | `2022-01-20T03:44:49Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.51β``](https://github.com/Neural-Scry/App/releases/0.0.51) | `69` | `6` | `3` | `2.3 MB` | `0` | `0` | `2022-01-16T15:48:12Z` | [`medical`](https://github.com/topics/appfair-medical)  |
 
 <center><small>`{{ site.time | date_to_xmlschema }}`</small></center>

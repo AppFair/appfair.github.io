@@ -50,6 +50,6 @@ tr:nth-child(even) {
 | [`Ultra Light`](https://Ultra-Light.github.io/App/) | [``0.0.7β``](https://github.com/Ultra-Light/App/releases/0.0.7) | `191` | `27` | `3` | `5.9 MB` | `0` | `0` | `2022-01-21T14:04:24Z` | [`news`](https://github.com/topics/appfair-news)  |
 | [`Next Edit`](https://Next-Edit.github.io/App/) | [``0.4.8β``](https://github.com/Next-Edit/App/releases/0.4.8) | `118` | `13` | `3` | `5.8 MB` | `0` | `0` | `2021-12-06T03:02:59Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Visi Calc`](https://Visi-Calc.github.io/App/) | [``0.0.35β``](https://github.com/Visi-Calc/App/releases/0.0.35) | `1174` | `192` | `5` | `14.9 MB` | `0` | `0` | `2021-12-04T14:58:06Z` | [`business`](https://github.com/topics/appfair-business)  |
-| [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.45β``](https://github.com/Neural-Scry/App/releases/0.0.45) | `54` | `2` | `5` | `8.7 MB` | `0` | `0` | `2021-12-04T02:37:55Z` | [`medical`](https://github.com/topics/appfair-medical)  |
+| [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.45β``](https://github.com/Neural-Scry/App/releases/0.0.45) | `54` | `3` | `5` | `8.7 MB` | `0` | `0` | `2021-12-04T02:37:55Z` | [`medical`](https://github.com/topics/appfair-medical)  |
 
 <center><small>`{{ site.time | date_to_xmlschema }}`</small></center>

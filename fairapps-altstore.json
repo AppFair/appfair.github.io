@@ -18,12 +18,12 @@
       "name": "Stanza Redux",
       "permissions": [
         {
-          "type": "com.apple.security.network.client",
-          "usageDescription": "This app needs to access the network in order to access books"
-        },
-        {
           "type": "com.apple.security.files.user-selected.read-only",
           "usageDescription": "This app needs to read ebook files"
+        },
+        {
+          "type": "com.apple.security.network.client",
+          "usageDescription": "This app needs to access the network in order to access books"
         }
       ],
       "readmeURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.19/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",

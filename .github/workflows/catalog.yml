@@ -56,7 +56,7 @@ jobs:
 
       - name: Generate macOS catalog
         run: |
-          fairtool catalog \
+          fairtool fair catalog \
             --verbose \
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
@@ -74,7 +74,7 @@ jobs:
 
       - name: Generate iOS catalog
         run: |
-          fairtool catalog \
+          fairtool fair catalog \
             --verbose \
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
@@ -98,7 +98,7 @@ jobs:
 
       - name: Generate appcasks catalog
         run: |
-          fairtool appcasks \
+          fairtool brew appcasks \
             --verbose \
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \

@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
 | [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.57``](https://github.com/Cloud-Cuckoo/App/releases/0.9.57) | `23` | `3` | `1` | `8.1 MB` | `0` | `0` | `2022-06-02T12:16:53Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.42``](https://github.com/Net-Skip/App/releases/0.0.42) | `56` | `12` | `1` | `9.3 MB` | `0` | `0` | `2022-05-26T14:16:43Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
+| [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.42``](https://github.com/Net-Skip/App/releases/0.0.42) | `57` | `12` | `1` | `9.3 MB` | `0` | `0` | `2022-05-26T14:16:43Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.19``](https://github.com/Stanza-Redux/App/releases/0.3.19) | `34` | `5` | `2` | `9.9 MB` | `0` | `0` | `2022-05-24T15:16:54Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `90` | `8` | `2` | `6.4 MB` | `0` | `0` | `2022-05-01T12:44:04Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.430``](https://github.com/Tune-Out/App/releases/0.8.430) | `326` | `34` | `13` | `17.2 MB` | `0` | `0` | `2022-04-20T15:15:12Z` | [`music`](https://github.com/topics/appfair-music)  |

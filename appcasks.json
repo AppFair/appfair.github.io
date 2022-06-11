@@ -10,7 +10,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 1792,
+      "impressionCount" : 1794,
       "localizedDescription" : "",
       "name" : "keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -28,7 +28,7 @@
       "tintColor" : "8E7568",
       "versionDate" : "2022-02-01T01:07:41Z",
       "versionDescription" : "",
-      "viewCount" : 319
+      "viewCount" : 320
     },
     {
       "beta" : false,
@@ -41,7 +41,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 1877,
+      "impressionCount" : 1879,
       "localizedDescription" : "",
       "name" : "firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -56,7 +56,7 @@
       "tintColor" : "E2725E",
       "versionDate" : "2022-02-01T01:07:41Z",
       "versionDescription" : "",
-      "viewCount" : 308
+      "viewCount" : 309
     },
     {
       "beta" : false,
@@ -68,7 +68,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 1405,
+      "impressionCount" : 1408,
       "localizedDescription" : "",
       "name" : "vlc",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -97,7 +97,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/AppIcon.png",
-      "impressionCount" : 1808,
+      "impressionCount" : 1810,
       "localizedDescription" : "",
       "name" : "bbedit",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/README.md",
@@ -113,7 +113,7 @@
       "tintColor" : "A8A7CF",
       "versionDate" : "2022-02-01T01:07:41Z",
       "versionDescription" : "",
-      "viewCount" : 246
+      "viewCount" : 247
     },
     {
       "beta" : false,
@@ -125,7 +125,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 1726,
+      "impressionCount" : 1728,
       "name" : "signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
       "screenshotURLs" : [
@@ -140,7 +140,7 @@
       ],
       "tintColor" : "80A6F4",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 241
+      "viewCount" : 242
     },
     {
       "beta" : false,
@@ -152,7 +152,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 1705,
+      "impressionCount" : 1709,
       "name" : "spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
       "screenshotURLs" : [
@@ -174,7 +174,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-altserver/AppIcon.png",
-      "impressionCount" : 1136,
+      "impressionCount" : 1138,
       "localizedDescription" : "",
       "name" : "altserver",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-altserver/README.md",
@@ -185,7 +185,7 @@
       "tintColor" : "55A1A2",
       "versionDate" : "2022-02-01T01:07:41Z",
       "versionDescription" : "",
-      "viewCount" : 165
+      "viewCount" : 166
     },
     {
       "beta" : false,
@@ -197,7 +197,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yt-music/AppIcon.png",
-      "impressionCount" : 1057,
+      "impressionCount" : 1061,
       "name" : "yt-music",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yt-music/README.md",
       "screenshotURLs" : [
@@ -206,7 +206,7 @@
       ],
       "tintColor" : "E73737",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 92
+      "viewCount" : 93
     },
     {
       "beta" : false,
@@ -218,7 +218,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 1686,
+      "impressionCount" : 1688,
       "name" : "whatsapp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
       "screenshotURLs" : [
@@ -241,7 +241,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
-      "impressionCount" : 1758,
+      "impressionCount" : 1761,
       "localizedDescription" : "",
       "name" : "blender",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/README.md",
@@ -257,7 +257,7 @@
       "tintColor" : "D28C43",
       "versionDate" : "2022-02-01T01:07:41Z",
       "versionDescription" : "",
-      "viewCount" : 180
+      "viewCount" : 181
     },
     {
       "beta" : false,
@@ -269,7 +269,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tower/AppIcon.png",
-      "impressionCount" : 1683,
+      "impressionCount" : 1685,
       "name" : "tower",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tower/README.md",
       "screenshotURLs" : [
@@ -294,7 +294,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brackets/AppIcon.png",
-      "impressionCount" : 1722,
+      "impressionCount" : 1724,
       "name" : "brackets",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brackets/README.md",
       "screenshotURLs" : [
@@ -317,7 +317,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 1696,
+      "impressionCount" : 1698,
       "name" : "emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
       "screenshotURLs" : [
@@ -341,7 +341,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macintoshjs/AppIcon.png",
-      "impressionCount" : 1253,
+      "impressionCount" : 1255,
       "name" : "macintoshjs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macintoshjs/README.md",
       "screenshotURLs" : [
@@ -363,7 +363,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/AppIcon.png",
-      "impressionCount" : 1707,
+      "impressionCount" : 1709,
       "localizedDescription" : "",
       "name" : "minecraft",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/README.md",
@@ -389,7 +389,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 1287,
+      "impressionCount" : 1290,
       "name" : "obs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
       "screenshotURLs" : [
@@ -410,7 +410,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/AppIcon.png",
-      "impressionCount" : 930,
+      "impressionCount" : 932,
       "localizedDescription" : "",
       "name" : "unison",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/README.md",
@@ -434,7 +434,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 1510,
+      "impressionCount" : 1512,
       "name" : "discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
       "screenshotURLs" : [
@@ -446,7 +446,7 @@
       ],
       "tintColor" : "8E95EF",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 123
+      "viewCount" : 124
     },
     {
       "beta" : false,
@@ -459,7 +459,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 1195,
+      "impressionCount" : 1197,
       "name" : "iterm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
       "screenshotURLs" : [
@@ -475,7 +475,7 @@
       ],
       "tintColor" : "202B2A",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 93
+      "viewCount" : 95
     },
     {
       "beta" : false,
@@ -487,7 +487,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/AppIcon.png",
-      "impressionCount" : 1032,
+      "impressionCount" : 1034,
       "name" : "macvim",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/README.md",
       "screenshotURLs" : [
@@ -510,7 +510,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eve-launcher/AppIcon.png",
-      "impressionCount" : 1028,
+      "impressionCount" : 1030,
       "name" : "eve-launcher",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eve-launcher/README.md",
       "screenshotURLs" : [
@@ -520,7 +520,7 @@
       ],
       "tintColor" : "5D93AB",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 104
+      "viewCount" : 105
     },
     {
       "beta" : false,
@@ -532,7 +532,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/AppIcon.png",
-      "impressionCount" : 1056,
+      "impressionCount" : 1058,
       "name" : "macdown",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/README.md",
       "screenshotURLs" : [
@@ -543,7 +543,7 @@
       ],
       "tintColor" : "5BC1DA",
       "versionDate" : "2022-02-01T01:07:41Z",
-      "viewCount" : 102
+      "viewCount" : 103
     },
     {
       "beta" : false,
@@ -555,7 +555,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 995,
+      "impressionCount" : 997,
       "name" : "steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
       "screenshotURLs" : [
@@ -578,7 +578,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/AppIcon.png",
-      "impressionCount" : 981,
+      "impressionCount" : 982,
       "name" : "vscodium",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/README.md",
       "screenshotURLs" : [
@@ -598,7 +598,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brave-browser/AppIcon.png",
-      "impressionCount" : 1005,
+      "impressionCount" : 1006,
       "name" : "brave-browser",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brave-browser/README.md",
       "screenshotURLs" : [
@@ -618,7 +618,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dash/AppIcon.png",
-      "impressionCount" : 864,
+      "impressionCount" : 865,
       "name" : "dash",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dash/README.md",
       "screenshotURLs" : [
@@ -638,7 +638,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/AppIcon.png",
-      "impressionCount" : 1017,
+      "impressionCount" : 1019,
       "name" : "coteditor",
       "screenshotURLs" : [
         "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_01-mac-light-1464x1298.png",
@@ -783,7 +783,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-raven-reader/AppIcon.png",
-      "impressionCount" : 852,
+      "impressionCount" : 853,
       "name" : "raven-reader",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-raven-reader/README.md",
       "screenshotURLs" : [
@@ -863,7 +863,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-netnewswire/AppIcon.png",
-      "impressionCount" : 746,
+      "impressionCount" : 747,
       "localizedDescription" : "",
       "name" : "netnewswire",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-netnewswire/README.md",
@@ -945,7 +945,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-darktable/AppIcon.png",
-      "impressionCount" : 682,
+      "impressionCount" : 684,
       "name" : "darktable",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-darktable/README.md",
       "screenshotURLs" : [
@@ -965,7 +965,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fluent-reader/AppIcon.png",
-      "impressionCount" : 597,
+      "impressionCount" : 598,
       "name" : "fluent-reader",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fluent-reader/README.md",
       "screenshotURLs" : [
@@ -985,7 +985,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-inkscape/AppIcon.png",
-      "impressionCount" : 684,
+      "impressionCount" : 685,
       "name" : "inkscape",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-inkscape/README.md",
       "screenshotURLs" : [
@@ -1185,7 +1185,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gimp/AppIcon.png",
-      "impressionCount" : 668,
+      "impressionCount" : 669,
       "name" : "gimp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gimp/README.md",
       "screenshotURLs" : [
@@ -1205,7 +1205,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hacker-menu/AppIcon.png",
-      "impressionCount" : 568,
+      "impressionCount" : 569,
       "name" : "hacker-menu",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hacker-menu/README.md",
       "screenshotURLs" : [
@@ -1225,7 +1225,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-handbrake/AppIcon.png",
-      "impressionCount" : 804,
+      "impressionCount" : 805,
       "name" : "handbrake",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-handbrake/README.md",
       "screenshotURLs" : [
@@ -1345,7 +1345,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-musescore/AppIcon.png",
-      "impressionCount" : 611,
+      "impressionCount" : 613,
       "name" : "musescore",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-musescore/README.md",
       "screenshotURLs" : [
@@ -1385,7 +1385,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/AppIcon.png",
-      "impressionCount" : 584,
+      "impressionCount" : 585,
       "name" : "plex",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/README.md",
       "screenshotURLs" : [
@@ -1405,7 +1405,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slack/AppIcon.png",
-      "impressionCount" : 889,
+      "impressionCount" : 891,
       "name" : "slack",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slack/README.md",
       "screenshotURLs" : [
@@ -1465,7 +1465,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-transmission/AppIcon.png",
-      "impressionCount" : 921,
+      "impressionCount" : 923,
       "name" : "transmission",
       "screenshotURLs" : [
         "https://github.com/App-Fair/appcasks/releases/download/cask-transmission/screenshot_01-mac-1308x1126.png",
@@ -1497,7 +1497,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/AppIcon.png",
-      "impressionCount" : 890,
+      "impressionCount" : 891,
       "name" : "xcodes",
       "screenshotURLs" : [
         "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/screenshot_01-mac-dark-1830x1322.png",
@@ -1639,7 +1639,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audacity/AppIcon.png",
-      "impressionCount" : 666,
+      "impressionCount" : 668,
       "name" : "audacity",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audacity/README.md",
       "screenshotURLs" : [
@@ -1659,7 +1659,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/AppIcon.png",
-      "impressionCount" : 729,
+      "impressionCount" : 731,
       "name" : "barrier",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/README.md",
       "screenshotURLs" : [
@@ -1942,7 +1942,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jitsi-meet/AppIcon.png",
-      "impressionCount" : 565,
+      "impressionCount" : 566,
       "name" : "jitsi-meet",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jitsi-meet/README.md",
       "screenshotURLs" : [
@@ -2162,7 +2162,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnigraffle/AppIcon.png",
-      "impressionCount" : 681,
+      "impressionCount" : 683,
       "name" : "omnigraffle",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-omnigraffle/README.md",
       "screenshotURLs" : [
@@ -2262,7 +2262,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sabnzbd/AppIcon.png",
-      "impressionCount" : 502,
+      "impressionCount" : 503,
       "name" : "sabnzbd",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sabnzbd/README.md",
       "screenshotURLs" : [
@@ -2443,7 +2443,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-usenapp/AppIcon.png",
-      "impressionCount" : 592,
+      "impressionCount" : 593,
       "name" : "usenapp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-usenapp/README.md",
       "screenshotURLs" : [
@@ -2503,7 +2503,7 @@
       "downloadURL" : "https://c-command.com",
       "homepage" : "https://c-command.com",
       "iconURL" : "https://github.com/C-Command-Software/appcasks/releases/download/cask-eaglefiler/AppIcon.png",
-      "impressionCount" : 829,
+      "impressionCount" : 830,
       "localizedDescription" : "",
       "name" : "eaglefiler",
       "readmeURL" : "https://github.com/C-Command-Software/appcasks/releases/download/cask-eaglefiler/README.md",
@@ -2521,7 +2521,7 @@
       ],
       "versionDate" : "2022-02-01T05:24:43Z",
       "versionDescription" : "",
-      "viewCount" : 81
+      "viewCount" : 82
     },
     {
       "beta" : false,
@@ -2533,7 +2533,7 @@
       "downloadURL" : "https://c-command.com",
       "homepage" : "https://c-command.com",
       "iconURL" : "https://github.com/C-Command-Software/appcasks/releases/download/cask-dropdmg/AppIcon.png",
-      "impressionCount" : 871,
+      "impressionCount" : 872,
       "localizedDescription" : "",
       "name" : "dropdmg",
       "readmeURL" : "https://github.com/C-Command-Software/appcasks/releases/download/cask-dropdmg/README.md",
@@ -2550,7 +2550,7 @@
       ],
       "versionDate" : "2022-02-01T05:24:43Z",
       "versionDescription" : "",
-      "viewCount" : 75
+      "viewCount" : 76
     },
     {
       "beta" : false,
@@ -2616,7 +2616,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-curiosity/AppIcon.png",
-      "impressionCount" : 466,
+      "impressionCount" : 467,
       "name" : "curiosity",
       "screenshotURLs" : [
 
@@ -2778,7 +2778,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-advancedrestclient/AppIcon.png",
-      "impressionCount" : 361,
+      "impressionCount" : 362,
       "name" : "advancedrestclient",
       "screenshotURLs" : [
 
@@ -2922,7 +2922,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-datweatherdoe/AppIcon.png",
-      "impressionCount" : 312,
+      "impressionCount" : 313,
       "name" : "datweatherdoe",
       "screenshotURLs" : [
 
@@ -2976,7 +2976,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hype/AppIcon.png",
-      "impressionCount" : 469,
+      "impressionCount" : 470,
       "name" : "hype",
       "screenshotURLs" : [
 
@@ -2994,7 +2994,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iina/AppIcon.png",
-      "impressionCount" : 269,
+      "impressionCount" : 270,
       "name" : "iina",
       "screenshotURLs" : [
 
@@ -3192,7 +3192,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-utm/AppIcon.png",
-      "impressionCount" : 573,
+      "impressionCount" : 575,
       "name" : "utm",
       "screenshotURLs" : [
 
@@ -3516,7 +3516,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-birdfont/AppIcon.png",
-      "impressionCount" : 390,
+      "impressionCount" : 391,
       "name" : "birdfont",
       "screenshotURLs" : [
 
@@ -3966,7 +3966,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cog/AppIcon.png",
-      "impressionCount" : 375,
+      "impressionCount" : 377,
       "name" : "cog",
       "screenshotURLs" : [
 
@@ -4080,6 +4080,24 @@
 
       ],
       "tintColor" : "EBB045",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "dockey",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 1,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dockey/AppIcon.png",
+      "impressionCount" : 113,
+      "name" : "dockey",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "1D7CE2",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -4290,7 +4308,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-figma/AppIcon.png",
-      "impressionCount" : 539,
+      "impressionCount" : 540,
       "name" : "figma",
       "screenshotURLs" : [
 
@@ -4308,7 +4326,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-filemaker-pro/AppIcon.png",
-      "impressionCount" : 512,
+      "impressionCount" : 514,
       "name" : "filemaker-pro",
       "screenshotURLs" : [
 
@@ -4362,7 +4380,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-foobar2000/AppIcon.png",
-      "impressionCount" : 266,
+      "impressionCount" : 268,
       "name" : "foobar2000",
       "screenshotURLs" : [
 
@@ -4380,7 +4398,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-freeyourmusic/AppIcon.png",
-      "impressionCount" : 239,
+      "impressionCount" : 241,
       "name" : "freeyourmusic",
       "screenshotURLs" : [
 
@@ -4543,7 +4561,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-harmony/AppIcon.png",
-      "impressionCount" : 216,
+      "impressionCount" : 218,
       "name" : "harmony",
       "screenshotURLs" : [
 
@@ -4579,7 +4597,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-idagio/AppIcon.png",
-      "impressionCount" : 253,
+      "impressionCount" : 255,
       "name" : "idagio",
       "screenshotURLs" : [
 
@@ -4687,7 +4705,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kap/AppIcon.png",
-      "impressionCount" : 210,
+      "impressionCount" : 211,
       "name" : "kap",
       "screenshotURLs" : [
 
@@ -4769,6 +4787,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "macdropany",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 1,
+      "downloadURL" : "https://appfair.app",
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdropany/AppIcon.png",
+      "impressionCount" : 55,
+      "name" : "macdropany",
+      "screenshotURLs" : [
+
+      ],
+      "tintColor" : "6DB4F8",
+      "versionDate" : "2022-02-01T01:07:41Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "masscode",
       "categories" : [
         "public.app-category.developer-tools"
@@ -4795,7 +4831,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-metaimage/AppIcon.png",
-      "impressionCount" : 278,
+      "impressionCount" : 280,
       "name" : "metaimage",
       "screenshotURLs" : [
 
@@ -5101,7 +5137,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonic-pi/AppIcon.png",
-      "impressionCount" : 118,
+      "impressionCount" : 120,
       "name" : "sonic-pi",
       "screenshotURLs" : [
 
@@ -5191,7 +5227,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tabby/AppIcon.png",
-      "impressionCount" : 92,
+      "impressionCount" : 93,
       "name" : "tabby",
       "screenshotURLs" : [
 
@@ -5209,7 +5245,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tagger/AppIcon.png",
-      "impressionCount" : 148,
+      "impressionCount" : 150,
       "name" : "tagger",
       "screenshotURLs" : [
 
@@ -5263,7 +5299,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-toinane-colorpicker/AppIcon.png",
-      "impressionCount" : 143,
+      "impressionCount" : 144,
       "name" : "toinane-colorpicker",
       "screenshotURLs" : [
 
@@ -5443,7 +5479,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xnviewmp/AppIcon.png",
-      "impressionCount" : 198,
+      "impressionCount" : 200,
       "name" : "xnviewmp",
       "screenshotURLs" : [
 
@@ -5695,7 +5731,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-4peaks/AppIcon.png",
-      "impressionCount" : 365,
+      "impressionCount" : 367,
       "name" : "4peaks",
       "screenshotURLs" : [
 
@@ -5713,7 +5749,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-5kplayer/AppIcon.png",
-      "impressionCount" : 366,
+      "impressionCount" : 367,
       "name" : "5kplayer",
       "screenshotURLs" : [
 
@@ -5785,7 +5821,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-abstract/AppIcon.png",
-      "impressionCount" : 437,
+      "impressionCount" : 438,
       "name" : "abstract",
       "screenshotURLs" : [
 
@@ -5839,7 +5875,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-acorn/AppIcon.png",
-      "impressionCount" : 453,
+      "impressionCount" : 454,
       "name" : "acorn",
       "screenshotURLs" : [
 
@@ -5893,7 +5929,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-aether/AppIcon.png",
-      "impressionCount" : 363,
+      "impressionCount" : 364,
       "name" : "aether",
       "screenshotURLs" : [
 
@@ -6271,7 +6307,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-amadeus-pro/AppIcon.png",
-      "impressionCount" : 403,
+      "impressionCount" : 405,
       "name" : "amadeus-pro",
       "screenshotURLs" : [
 
@@ -6289,7 +6325,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-amadine/AppIcon.png",
-      "impressionCount" : 415,
+      "impressionCount" : 416,
       "name" : "amadine",
       "screenshotURLs" : [
 
@@ -6847,7 +6883,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ascension/AppIcon.png",
-      "impressionCount" : 384,
+      "impressionCount" : 385,
       "name" : "ascension",
       "screenshotURLs" : [
 
@@ -6865,7 +6901,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-astropad/AppIcon.png",
-      "impressionCount" : 383,
+      "impressionCount" : 384,
       "name" : "astropad",
       "screenshotURLs" : [
 
@@ -6883,7 +6919,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-astropad-studio/AppIcon.png",
-      "impressionCount" : 383,
+      "impressionCount" : 384,
       "name" : "astropad-studio",
       "screenshotURLs" : [
 
@@ -6991,7 +7027,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audirvana/AppIcon.png",
-      "impressionCount" : 362,
+      "impressionCount" : 364,
       "name" : "audirvana",
       "screenshotURLs" : [
 
@@ -7009,7 +7045,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audius/AppIcon.png",
-      "impressionCount" : 359,
+      "impressionCount" : 360,
       "name" : "audius",
       "screenshotURLs" : [
 
@@ -7027,7 +7063,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-aural/AppIcon.png",
-      "impressionCount" : 367,
+      "impressionCount" : 368,
       "name" : "aural",
       "screenshotURLs" : [
 
@@ -7063,7 +7099,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-avitools/AppIcon.png",
-      "impressionCount" : 288,
+      "impressionCount" : 289,
       "name" : "avitools",
       "screenshotURLs" : [
 
@@ -7495,7 +7531,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-beamer/AppIcon.png",
-      "impressionCount" : 303,
+      "impressionCount" : 304,
       "name" : "beamer",
       "screenshotURLs" : [
 
@@ -7657,7 +7693,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bilibili/AppIcon.png",
-      "impressionCount" : 299,
+      "impressionCount" : 300,
       "name" : "bilibili",
       "screenshotURLs" : [
 
@@ -7891,7 +7927,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blu-ray-player/AppIcon.png",
-      "impressionCount" : 288,
+      "impressionCount" : 289,
       "name" : "blu-ray-player",
       "screenshotURLs" : [
 
@@ -7909,7 +7945,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blu-ray-player-pro/AppIcon.png",
-      "impressionCount" : 282,
+      "impressionCount" : 283,
       "name" : "blu-ray-player-pro",
       "screenshotURLs" : [
 
@@ -8647,7 +8683,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-canva/AppIcon.png",
-      "impressionCount" : 379,
+      "impressionCount" : 380,
       "name" : "canva",
       "screenshotURLs" : [
 
@@ -9043,7 +9079,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cheetah3d/AppIcon.png",
-      "impressionCount" : 317,
+      "impressionCount" : 318,
       "name" : "cheetah3d",
       "screenshotURLs" : [
 
@@ -9187,7 +9223,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cisdem-pdf-converter-ocr/AppIcon.png",
-      "impressionCount" : 488,
+      "impressionCount" : 490,
       "name" : "cisdem-pdf-converter-ocr",
       "screenshotURLs" : [
 
@@ -9727,7 +9763,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-colortester/AppIcon.png",
-      "impressionCount" : 477,
+      "impressionCount" : 479,
       "name" : "colortester",
       "screenshotURLs" : [
 
@@ -10051,7 +10087,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-corona-tracker/AppIcon.png",
-      "impressionCount" : 281,
+      "impressionCount" : 283,
       "name" : "corona-tracker",
       "screenshotURLs" : [
 
@@ -10087,7 +10123,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-couchbase-server-community/AppIcon.png",
-      "impressionCount" : 482,
+      "impressionCount" : 484,
       "name" : "couchbase-server-community",
       "screenshotURLs" : [
 
@@ -10105,7 +10141,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-couchbase-server-enterprise/AppIcon.png",
-      "impressionCount" : 468,
+      "impressionCount" : 470,
       "name" : "couchbase-server-enterprise",
       "screenshotURLs" : [
 
@@ -10825,7 +10861,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-depthmapx/AppIcon.png",
-      "impressionCount" : 409,
+      "impressionCount" : 411,
       "name" : "depthmapx",
       "screenshotURLs" : [
 
@@ -10897,7 +10933,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-detectx-swift/AppIcon.png",
-      "impressionCount" : 110,
+      "impressionCount" : 111,
       "name" : "detectx-swift",
       "screenshotURLs" : [
 
@@ -10969,7 +11005,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-deviceinfo/AppIcon.png",
-      "impressionCount" : 105,
+      "impressionCount" : 106,
       "name" : "deviceinfo",
       "screenshotURLs" : [
 
@@ -11005,7 +11041,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-devonagent/AppIcon.png",
-      "impressionCount" : 118,
+      "impressionCount" : 119,
       "name" : "devonagent",
       "screenshotURLs" : [
 
@@ -11059,7 +11095,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dialpad/AppIcon.png",
-      "impressionCount" : 469,
+      "impressionCount" : 471,
       "name" : "dialpad",
       "screenshotURLs" : [
 
@@ -11077,7 +11113,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dictater/AppIcon.png",
-      "impressionCount" : 76,
+      "impressionCount" : 77,
       "name" : "dictater",
       "screenshotURLs" : [
 
@@ -11131,7 +11167,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-direqual/AppIcon.png",
-      "impressionCount" : 107,
+      "impressionCount" : 108,
       "name" : "direqual",
       "screenshotURLs" : [
 
@@ -11149,7 +11185,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-disk-diet/AppIcon.png",
-      "impressionCount" : 108,
+      "impressionCount" : 109,
       "name" : "disk-diet",
       "screenshotURLs" : [
 
@@ -11221,7 +11257,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-diskwave/AppIcon.png",
-      "impressionCount" : 104,
+      "impressionCount" : 105,
       "name" : "diskwave",
       "screenshotURLs" : [
 
@@ -11239,30 +11275,12 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dmenu-mac/AppIcon.png",
-      "impressionCount" : 124,
+      "impressionCount" : 125,
       "name" : "dmenu-mac",
       "screenshotURLs" : [
 
       ],
       "tintColor" : "D2F1AB",
-      "versionDate" : "2022-02-01T01:07:41Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "dockey",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadCount" : 0,
-      "downloadURL" : "https://appfair.app",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dockey/AppIcon.png",
-      "impressionCount" : 112,
-      "name" : "dockey",
-      "screenshotURLs" : [
-
-      ],
-      "tintColor" : "1D7CE2",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -11311,7 +11329,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dosbox-x/AppIcon.png",
-      "impressionCount" : 103,
+      "impressionCount" : 104,
       "name" : "dosbox-x",
       "screenshotURLs" : [
 
@@ -11365,7 +11383,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dremel-slicer/AppIcon.png",
-      "impressionCount" : 101,
+      "impressionCount" : 102,
       "name" : "dremel-slicer",
       "screenshotURLs" : [
 
@@ -11383,7 +11401,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-droidid/AppIcon.png",
-      "impressionCount" : 102,
+      "impressionCount" : 103,
       "name" : "droidid",
       "screenshotURLs" : [
 
@@ -11491,7 +11509,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-duplicate-file-finder/AppIcon.png",
-      "impressionCount" : 117,
+      "impressionCount" : 118,
       "name" : "duplicate-file-finder",
       "screenshotURLs" : [
 
@@ -11581,7 +11599,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ears/AppIcon.png",
-      "impressionCount" : 107,
+      "impressionCount" : 108,
       "name" : "ears",
       "screenshotURLs" : [
 
@@ -11599,7 +11617,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-easy-move-plus-resize/AppIcon.png",
-      "impressionCount" : 129,
+      "impressionCount" : 130,
       "name" : "easy-move-plus-resize",
       "screenshotURLs" : [
 
@@ -11635,7 +11653,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-easyfind/AppIcon.png",
-      "impressionCount" : 131,
+      "impressionCount" : 132,
       "name" : "easyfind",
       "screenshotURLs" : [
 
@@ -11653,7 +11671,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ebmac/AppIcon.png",
-      "impressionCount" : 462,
+      "impressionCount" : 464,
       "name" : "ebmac",
       "screenshotURLs" : [
 
@@ -11671,7 +11689,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eddie/AppIcon.png",
-      "impressionCount" : 95,
+      "impressionCount" : 96,
       "name" : "eddie",
       "screenshotURLs" : [
 
@@ -11689,7 +11707,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-edex-ui/AppIcon.png",
-      "impressionCount" : 135,
+      "impressionCount" : 136,
       "name" : "edex-ui",
       "screenshotURLs" : [
 
@@ -11725,7 +11743,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eiskaltdcpp/AppIcon.png",
-      "impressionCount" : 111,
+      "impressionCount" : 112,
       "name" : "eiskaltdcpp",
       "screenshotURLs" : [
 
@@ -11761,7 +11779,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electorrent/AppIcon.png",
-      "impressionCount" : 122,
+      "impressionCount" : 123,
       "name" : "electorrent",
       "screenshotURLs" : [
 
@@ -11869,7 +11887,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-elpass/AppIcon.png",
-      "impressionCount" : 105,
+      "impressionCount" : 106,
       "name" : "elpass",
       "screenshotURLs" : [
 
@@ -11905,7 +11923,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-encryptme/AppIcon.png",
-      "impressionCount" : 114,
+      "impressionCount" : 115,
       "name" : "encryptme",
       "screenshotURLs" : [
 
@@ -11959,7 +11977,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-energybar/AppIcon.png",
-      "impressionCount" : 101,
+      "impressionCount" : 102,
       "name" : "energybar",
       "screenshotURLs" : [
 
@@ -11977,7 +11995,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-enfusegui/AppIcon.png",
-      "impressionCount" : 308,
+      "impressionCount" : 310,
       "name" : "enfusegui",
       "screenshotURLs" : [
 
@@ -11995,7 +12013,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-enjoyable/AppIcon.png",
-      "impressionCount" : 116,
+      "impressionCount" : 117,
       "name" : "enjoyable",
       "screenshotURLs" : [
 
@@ -12067,7 +12085,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-equinox/AppIcon.png",
-      "impressionCount" : 108,
+      "impressionCount" : 109,
       "name" : "equinox",
       "screenshotURLs" : [
 
@@ -12139,7 +12157,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eul/AppIcon.png",
-      "impressionCount" : 132,
+      "impressionCount" : 133,
       "name" : "eul",
       "screenshotURLs" : [
 
@@ -12193,7 +12211,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-exifrenamer/AppIcon.png",
-      "impressionCount" : 318,
+      "impressionCount" : 320,
       "name" : "exifrenamer",
       "screenshotURLs" : [
 
@@ -12337,7 +12355,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fanny/AppIcon.png",
-      "impressionCount" : 94,
+      "impressionCount" : 95,
       "name" : "fanny",
       "screenshotURLs" : [
 
@@ -12355,7 +12373,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fantasy-grounds/AppIcon.png",
-      "impressionCount" : 95,
+      "impressionCount" : 96,
       "name" : "fantasy-grounds",
       "screenshotURLs" : [
 
@@ -12391,7 +12409,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fastclicker/AppIcon.png",
-      "impressionCount" : 105,
+      "impressionCount" : 106,
       "name" : "fastclicker",
       "screenshotURLs" : [
 
@@ -12463,7 +12481,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-feishu/AppIcon.png",
-      "impressionCount" : 467,
+      "impressionCount" : 469,
       "name" : "feishu",
       "screenshotURLs" : [
 
@@ -12499,7 +12517,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fetch/AppIcon.png",
-      "impressionCount" : 105,
+      "impressionCount" : 106,
       "name" : "fetch",
       "screenshotURLs" : [
 
@@ -12517,7 +12535,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ff-works/AppIcon.png",
-      "impressionCount" : 112,
+      "impressionCount" : 113,
       "name" : "ff-works",
       "screenshotURLs" : [
 
@@ -12535,7 +12553,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-file-juicer/AppIcon.png",
-      "impressionCount" : 106,
+      "impressionCount" : 107,
       "name" : "file-juicer",
       "screenshotURLs" : [
 
@@ -12553,7 +12571,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-final-cut-library-manager/AppIcon.png",
-      "impressionCount" : 102,
+      "impressionCount" : 103,
       "name" : "final-cut-library-manager",
       "screenshotURLs" : [
 
@@ -12571,7 +12589,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-find-any-file/AppIcon.png",
-      "impressionCount" : 120,
+      "impressionCount" : 121,
       "name" : "find-any-file",
       "screenshotURLs" : [
 
@@ -12589,7 +12607,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-find-empty-folders/AppIcon.png",
-      "impressionCount" : 99,
+      "impressionCount" : 100,
       "name" : "find-empty-folders",
       "screenshotURLs" : [
 
@@ -12625,7 +12643,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-finicky/AppIcon.png",
-      "impressionCount" : 123,
+      "impressionCount" : 124,
       "name" : "finicky",
       "screenshotURLs" : [
 
@@ -12643,7 +12661,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firealpaca/AppIcon.png",
-      "impressionCount" : 90,
+      "impressionCount" : 91,
       "name" : "firealpaca",
       "screenshotURLs" : [
 
@@ -12733,7 +12751,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fiscript/AppIcon.png",
-      "impressionCount" : 91,
+      "impressionCount" : 92,
       "name" : "fiscript",
       "screenshotURLs" : [
 
@@ -12859,7 +12877,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flic/AppIcon.png",
-      "impressionCount" : 91,
+      "impressionCount" : 92,
       "name" : "flic",
       "screenshotURLs" : [
 
@@ -12877,7 +12895,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flickr-uploadr/AppIcon.png",
-      "impressionCount" : 294,
+      "impressionCount" : 296,
       "name" : "flickr-uploadr",
       "screenshotURLs" : [
 
@@ -12967,7 +12985,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flume/AppIcon.png",
-      "impressionCount" : 312,
+      "impressionCount" : 314,
       "name" : "flume",
       "screenshotURLs" : [
 
@@ -13021,7 +13039,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fmail/AppIcon.png",
-      "impressionCount" : 454,
+      "impressionCount" : 456,
       "name" : "fmail",
       "screenshotURLs" : [
 
@@ -13093,7 +13111,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-folder-colorizer/AppIcon.png",
-      "impressionCount" : 93,
+      "impressionCount" : 94,
       "name" : "folder-colorizer",
       "screenshotURLs" : [
 
@@ -13129,7 +13147,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-folx/AppIcon.png",
-      "impressionCount" : 121,
+      "impressionCount" : 122,
       "name" : "folx",
       "screenshotURLs" : [
 
@@ -13147,7 +13165,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-font-smoothing-adjuster/AppIcon.png",
-      "impressionCount" : 108,
+      "impressionCount" : 109,
       "name" : "font-smoothing-adjuster",
       "screenshotURLs" : [
 
@@ -13255,7 +13273,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-forecast/AppIcon.png",
-      "impressionCount" : 269,
+      "impressionCount" : 270,
       "name" : "forecast",
       "screenshotURLs" : [
 
@@ -13273,7 +13291,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-forklift/AppIcon.png",
-      "impressionCount" : 118,
+      "impressionCount" : 119,
       "name" : "forklift",
       "screenshotURLs" : [
 
@@ -13345,7 +13363,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fredm-fuse/AppIcon.png",
-      "impressionCount" : 87,
+      "impressionCount" : 88,
       "name" : "fredm-fuse",
       "screenshotURLs" : [
 
@@ -13363,7 +13381,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-free-ruler/AppIcon.png",
-      "impressionCount" : 110,
+      "impressionCount" : 111,
       "name" : "free-ruler",
       "screenshotURLs" : [
 
@@ -13381,7 +13399,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-freecol/AppIcon.png",
-      "impressionCount" : 88,
+      "impressionCount" : 89,
       "name" : "freecol",
       "screenshotURLs" : [
 
@@ -13417,7 +13435,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-freenettray/AppIcon.png",
-      "impressionCount" : 91,
+      "impressionCount" : 92,
       "name" : "freenettray",
       "screenshotURLs" : [
 
@@ -13453,7 +13471,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-freetube/AppIcon.png",
-      "impressionCount" : 121,
+      "impressionCount" : 122,
       "name" : "freetube",
       "screenshotURLs" : [
 
@@ -13471,7 +13489,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-freeze/AppIcon.png",
-      "impressionCount" : 103,
+      "impressionCount" : 104,
       "name" : "freeze",
       "screenshotURLs" : [
 
@@ -13507,7 +13525,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fspy/AppIcon.png",
-      "impressionCount" : 90,
+      "impressionCount" : 91,
       "name" : "fspy",
       "screenshotURLs" : [
 
@@ -13525,7 +13543,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-funter/AppIcon.png",
-      "impressionCount" : 96,
+      "impressionCount" : 97,
       "name" : "funter",
       "screenshotURLs" : [
 
@@ -13561,7 +13579,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-futurerestore-gui/AppIcon.png",
-      "impressionCount" : 121,
+      "impressionCount" : 122,
       "name" : "futurerestore-gui",
       "screenshotURLs" : [
 
@@ -13579,7 +13597,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fuwari/AppIcon.png",
-      "impressionCount" : 95,
+      "impressionCount" : 96,
       "name" : "fuwari",
       "screenshotURLs" : [
 
@@ -13597,7 +13615,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fuzzyclock/AppIcon.png",
-      "impressionCount" : 89,
+      "impressionCount" : 90,
       "name" : "fuzzyclock",
       "screenshotURLs" : [
 
@@ -13741,7 +13759,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gcs/AppIcon.png",
-      "impressionCount" : 102,
+      "impressionCount" : 103,
       "name" : "gcs",
       "screenshotURLs" : [
 
@@ -13759,7 +13777,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gdat/AppIcon.png",
-      "impressionCount" : 65,
+      "impressionCount" : 66,
       "name" : "gdat",
       "screenshotURLs" : [
 
@@ -13795,7 +13813,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gearboy/AppIcon.png",
-      "impressionCount" : 104,
+      "impressionCount" : 105,
       "name" : "gearboy",
       "screenshotURLs" : [
 
@@ -13813,7 +13831,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gearsystem/AppIcon.png",
-      "impressionCount" : 96,
+      "impressionCount" : 97,
       "name" : "gearsystem",
       "screenshotURLs" : [
 
@@ -13831,7 +13849,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geburtstagschecker/AppIcon.png",
-      "impressionCount" : 87,
+      "impressionCount" : 88,
       "name" : "geburtstagschecker",
       "screenshotURLs" : [
 
@@ -13849,7 +13867,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geekbench/AppIcon.png",
-      "impressionCount" : 116,
+      "impressionCount" : 117,
       "name" : "geekbench",
       "screenshotURLs" : [
 
@@ -13867,7 +13885,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geektool/AppIcon.png",
-      "impressionCount" : 108,
+      "impressionCount" : 109,
       "name" : "geektool",
       "screenshotURLs" : [
 
@@ -13885,7 +13903,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gemini/AppIcon.png",
-      "impressionCount" : 118,
+      "impressionCount" : 119,
       "name" : "gemini",
       "screenshotURLs" : [
 
@@ -13903,7 +13921,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geneious-prime/AppIcon.png",
-      "impressionCount" : 68,
+      "impressionCount" : 69,
       "name" : "geneious-prime",
       "screenshotURLs" : [
 
@@ -13939,7 +13957,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geotag/AppIcon.png",
-      "impressionCount" : 287,
+      "impressionCount" : 289,
       "name" : "geotag",
       "screenshotURLs" : [
 
@@ -13975,7 +13993,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geph/AppIcon.png",
-      "impressionCount" : 92,
+      "impressionCount" : 93,
       "name" : "geph",
       "screenshotURLs" : [
 
@@ -14011,7 +14029,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-get-lyrical/AppIcon.png",
-      "impressionCount" : 82,
+      "impressionCount" : 83,
       "name" : "get-lyrical",
       "screenshotURLs" : [
 
@@ -14029,7 +14047,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gfxcardstatus/AppIcon.png",
-      "impressionCount" : 104,
+      "impressionCount" : 105,
       "name" : "gfxcardstatus",
       "screenshotURLs" : [
 
@@ -14047,7 +14065,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gifox/AppIcon.png",
-      "impressionCount" : 96,
+      "impressionCount" : 97,
       "name" : "gifox",
       "screenshotURLs" : [
 
@@ -14317,7 +14335,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-goldenpassport/AppIcon.png",
-      "impressionCount" : 84,
+      "impressionCount" : 85,
       "name" : "goldenpassport",
       "screenshotURLs" : [
 
@@ -14353,7 +14371,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-goneovim/AppIcon.png",
-      "impressionCount" : 78,
+      "impressionCount" : 79,
       "name" : "goneovim",
       "screenshotURLs" : [
 
@@ -14425,7 +14443,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-google-web-designer/AppIcon.png",
-      "impressionCount" : 80,
+      "impressionCount" : 81,
       "name" : "google-web-designer",
       "screenshotURLs" : [
 
@@ -14605,7 +14623,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gray/AppIcon.png",
-      "impressionCount" : 98,
+      "impressionCount" : 99,
       "name" : "gray",
       "screenshotURLs" : [
 
@@ -14623,7 +14641,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-greenfoot/AppIcon.png",
-      "impressionCount" : 78,
+      "impressionCount" : 79,
       "name" : "greenfoot",
       "screenshotURLs" : [
 
@@ -14677,7 +14695,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gswitch/AppIcon.png",
-      "impressionCount" : 104,
+      "impressionCount" : 105,
       "name" : "gswitch",
       "screenshotURLs" : [
 
@@ -14731,7 +14749,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gyazmail/AppIcon.png",
-      "impressionCount" : 83,
+      "impressionCount" : 84,
       "name" : "gyazmail",
       "screenshotURLs" : [
 
@@ -14785,7 +14803,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ha-menu/AppIcon.png",
-      "impressionCount" : 96,
+      "impressionCount" : 97,
       "name" : "ha-menu",
       "screenshotURLs" : [
 
@@ -14875,7 +14893,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-handshaker/AppIcon.png",
-      "impressionCount" : 91,
+      "impressionCount" : 92,
       "name" : "handshaker",
       "screenshotURLs" : [
 
@@ -14911,7 +14929,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hdrmerge/AppIcon.png",
-      "impressionCount" : 79,
+      "impressionCount" : 80,
       "name" : "hdrmerge",
       "screenshotURLs" : [
 
@@ -14983,7 +15001,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hey/AppIcon.png",
-      "impressionCount" : 392,
+      "impressionCount" : 394,
       "name" : "hey",
       "screenshotURLs" : [
 
@@ -15001,7 +15019,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hiddenbar/AppIcon.png",
-      "impressionCount" : 108,
+      "impressionCount" : 109,
       "name" : "hiddenbar",
       "screenshotURLs" : [
 
@@ -15091,7 +15109,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-honer/AppIcon.png",
-      "impressionCount" : 82,
+      "impressionCount" : 83,
       "name" : "honer",
       "screenshotURLs" : [
 
@@ -15127,7 +15145,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-horos/AppIcon.png",
-      "impressionCount" : 273,
+      "impressionCount" : 275,
       "name" : "horos",
       "screenshotURLs" : [
 
@@ -15145,7 +15163,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hostsx/AppIcon.png",
-      "impressionCount" : 81,
+      "impressionCount" : 82,
       "name" : "hostsx",
       "screenshotURLs" : [
 
@@ -15163,7 +15181,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hot/AppIcon.png",
-      "impressionCount" : 100,
+      "impressionCount" : 101,
       "name" : "hot",
       "screenshotURLs" : [
 
@@ -15181,7 +15199,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hotswitch/AppIcon.png",
-      "impressionCount" : 76,
+      "impressionCount" : 77,
       "name" : "hotswitch",
       "screenshotURLs" : [
 
@@ -15199,7 +15217,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-houdahspot/AppIcon.png",
-      "impressionCount" : 78,
+      "impressionCount" : 79,
       "name" : "houdahspot",
       "screenshotURLs" : [
 
@@ -15235,7 +15253,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hp-prime/AppIcon.png",
-      "impressionCount" : 76,
+      "impressionCount" : 77,
       "name" : "hp-prime",
       "screenshotURLs" : [
 
@@ -15307,7 +15325,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hush/AppIcon.png",
-      "impressionCount" : 76,
+      "impressionCount" : 77,
       "name" : "hush",
       "screenshotURLs" : [
 
@@ -15343,7 +15361,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hyperkey/AppIcon.png",
-      "impressionCount" : 86,
+      "impressionCount" : 87,
       "name" : "hyperkey",
       "screenshotURLs" : [
 
@@ -15361,7 +15379,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hyperswitch/AppIcon.png",
-      "impressionCount" : 103,
+      "impressionCount" : 104,
       "name" : "hyperswitch",
       "screenshotURLs" : [
 
@@ -15397,7 +15415,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ibettercharge/AppIcon.png",
-      "impressionCount" : 75,
+      "impressionCount" : 76,
       "name" : "ibettercharge",
       "screenshotURLs" : [
 
@@ -15649,7 +15667,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ilya-birman-typography-layout/AppIcon.png",
-      "impressionCount" : 68,
+      "impressionCount" : 69,
       "name" : "ilya-birman-typography-layout",
       "screenshotURLs" : [
 
@@ -15685,7 +15703,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-imagemin/AppIcon.png",
-      "impressionCount" : 66,
+      "impressionCount" : 67,
       "name" : "imagemin",
       "screenshotURLs" : [
 
@@ -15721,7 +15739,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-imazing/AppIcon.png",
-      "impressionCount" : 98,
+      "impressionCount" : 99,
       "name" : "imazing",
       "screenshotURLs" : [
 
@@ -15793,7 +15811,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-impactor/AppIcon.png",
-      "impressionCount" : 82,
+      "impressionCount" : 83,
       "name" : "impactor",
       "screenshotURLs" : [
 
@@ -15901,7 +15919,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-inssider/AppIcon.png",
-      "impressionCount" : 77,
+      "impressionCount" : 78,
       "name" : "inssider",
       "screenshotURLs" : [
 
@@ -15919,7 +15937,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-install-disk-creator/AppIcon.png",
-      "impressionCount" : 71,
+      "impressionCount" : 72,
       "name" : "install-disk-creator",
       "screenshotURLs" : [
 
@@ -15973,7 +15991,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-interarchy/AppIcon.png",
-      "impressionCount" : 70,
+      "impressionCount" : 71,
       "name" : "interarchy",
       "screenshotURLs" : [
 
@@ -16027,7 +16045,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-invisor-lite/AppIcon.png",
-      "impressionCount" : 66,
+      "impressionCount" : 67,
       "name" : "invisor-lite",
       "screenshotURLs" : [
 
@@ -16063,7 +16081,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ios-app-signer/AppIcon.png",
-      "impressionCount" : 77,
+      "impressionCount" : 78,
       "name" : "ios-app-signer",
       "screenshotURLs" : [
 
@@ -16099,7 +16117,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ipa-manager/AppIcon.png",
-      "impressionCount" : 68,
+      "impressionCount" : 69,
       "name" : "ipa-manager",
       "screenshotURLs" : [
 
@@ -16153,7 +16171,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ipfs/AppIcon.png",
-      "impressionCount" : 95,
+      "impressionCount" : 96,
       "name" : "ipfs",
       "screenshotURLs" : [
 
@@ -16171,7 +16189,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ipsecuritas/AppIcon.png",
-      "impressionCount" : 68,
+      "impressionCount" : 69,
       "name" : "ipsecuritas",
       "screenshotURLs" : [
 
@@ -16243,7 +16261,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-isolator/AppIcon.png",
-      "impressionCount" : 68,
+      "impressionCount" : 69,
       "name" : "isolator",
       "screenshotURLs" : [
 
@@ -16261,7 +16279,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-istumbler/AppIcon.png",
-      "impressionCount" : 80,
+      "impressionCount" : 81,
       "name" : "istumbler",
       "screenshotURLs" : [
 
@@ -16297,7 +16315,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iswiff/AppIcon.png",
-      "impressionCount" : 67,
+      "impressionCount" : 68,
       "name" : "iswiff",
       "screenshotURLs" : [
 
@@ -16315,7 +16333,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-itunes-volume-control/AppIcon.png",
-      "impressionCount" : 72,
+      "impressionCount" : 73,
       "name" : "itunes-volume-control",
       "screenshotURLs" : [
 
@@ -16333,7 +16351,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ivideonserver/AppIcon.png",
-      "impressionCount" : 67,
+      "impressionCount" : 68,
       "name" : "ivideonserver",
       "screenshotURLs" : [
 
@@ -16369,7 +16387,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-izip/AppIcon.png",
-      "impressionCount" : 77,
+      "impressionCount" : 78,
       "name" : "izip",
       "screenshotURLs" : [
 
@@ -16387,7 +16405,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-j/AppIcon.png",
-      "impressionCount" : 69,
+      "impressionCount" : 70,
       "name" : "j",
       "screenshotURLs" : [
 
@@ -16441,7 +16459,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jamf-migrator/AppIcon.png",
-      "impressionCount" : 70,
+      "impressionCount" : 71,
       "name" : "jamf-migrator",
       "screenshotURLs" : [
 
@@ -16495,7 +16513,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jandi/AppIcon.png",
-      "impressionCount" : 310,
+      "impressionCount" : 312,
       "name" : "jandi",
       "screenshotURLs" : [
 
@@ -16531,7 +16549,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jaxx-liberty/AppIcon.png",
-      "impressionCount" : 68,
+      "impressionCount" : 69,
       "name" : "jaxx-liberty",
       "screenshotURLs" : [
 
@@ -16567,7 +16585,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jdk-mission-control/AppIcon.png",
-      "impressionCount" : 66,
+      "impressionCount" : 67,
       "name" : "jdk-mission-control",
       "screenshotURLs" : [
 
@@ -16657,7 +16675,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jenkins-menu/AppIcon.png",
-      "impressionCount" : 66,
+      "impressionCount" : 67,
       "name" : "jenkins-menu",
       "screenshotURLs" : [
 
@@ -16675,7 +16693,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jetbrains-space/AppIcon.png",
-      "impressionCount" : 303,
+      "impressionCount" : 304,
       "name" : "jetbrains-space",
       "screenshotURLs" : [
 
@@ -16711,7 +16729,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jettison/AppIcon.png",
-      "impressionCount" : 73,
+      "impressionCount" : 74,
       "name" : "jettison",
       "screenshotURLs" : [
 
@@ -16747,7 +16765,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jietu/AppIcon.png",
-      "impressionCount" : 77,
+      "impressionCount" : 78,
       "name" : "jietu",
       "screenshotURLs" : [
 
@@ -16765,7 +16783,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jiggler/AppIcon.png",
-      "impressionCount" : 85,
+      "impressionCount" : 86,
       "name" : "jiggler",
       "screenshotURLs" : [
 
@@ -16801,7 +16819,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jollysfastvnc/AppIcon.png",
-      "impressionCount" : 74,
+      "impressionCount" : 75,
       "name" : "jollysfastvnc",
       "screenshotURLs" : [
 
@@ -16819,7 +16837,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-joshjon-nocturnal/AppIcon.png",
-      "impressionCount" : 83,
+      "impressionCount" : 84,
       "name" : "joshjon-nocturnal",
       "screenshotURLs" : [
 
@@ -16837,7 +16855,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-josm/AppIcon.png",
-      "impressionCount" : 61,
+      "impressionCount" : 62,
       "name" : "josm",
       "screenshotURLs" : [
 
@@ -16891,7 +16909,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jump/AppIcon.png",
-      "impressionCount" : 274,
+      "impressionCount" : 275,
       "name" : "jump",
       "screenshotURLs" : [
 
@@ -16909,7 +16927,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jumpcut/AppIcon.png",
-      "impressionCount" : 91,
+      "impressionCount" : 92,
       "name" : "jumpcut",
       "screenshotURLs" : [
 
@@ -16963,7 +16981,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kapow/AppIcon.png",
-      "impressionCount" : 67,
+      "impressionCount" : 68,
       "name" : "kapow",
       "screenshotURLs" : [
 
@@ -16999,7 +17017,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kawa/AppIcon.png",
-      "impressionCount" : 87,
+      "impressionCount" : 88,
       "name" : "kawa",
       "screenshotURLs" : [
 
@@ -17089,7 +17107,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keepingyouawake/AppIcon.png",
-      "impressionCount" : 95,
+      "impressionCount" : 96,
       "name" : "keepingyouawake",
       "screenshotURLs" : [
 
@@ -17107,7 +17125,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kekaexternalhelper/AppIcon.png",
-      "impressionCount" : 80,
+      "impressionCount" : 81,
       "name" : "kekaexternalhelper",
       "screenshotURLs" : [
 
@@ -17125,7 +17143,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kext-updater/AppIcon.png",
-      "impressionCount" : 77,
+      "impressionCount" : 78,
       "name" : "kext-updater",
       "screenshotURLs" : [
 
@@ -17143,7 +17161,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kextviewr/AppIcon.png",
-      "impressionCount" : 67,
+      "impressionCount" : 68,
       "name" : "kextviewr",
       "screenshotURLs" : [
 
@@ -17179,7 +17197,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keyboard-lock/AppIcon.png",
-      "impressionCount" : 64,
+      "impressionCount" : 65,
       "name" : "keyboard-lock",
       "screenshotURLs" : [
 
@@ -17197,7 +17215,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keyboardcleantool/AppIcon.png",
-      "impressionCount" : 81,
+      "impressionCount" : 82,
       "name" : "keyboardcleantool",
       "screenshotURLs" : [
 
@@ -17215,7 +17233,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keyboardholder/AppIcon.png",
-      "impressionCount" : 69,
+      "impressionCount" : 70,
       "name" : "keyboardholder",
       "screenshotURLs" : [
 
@@ -17233,7 +17251,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keycast/AppIcon.png",
-      "impressionCount" : 64,
+      "impressionCount" : 65,
       "name" : "keycast",
       "screenshotURLs" : [
 
@@ -17269,7 +17287,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keyfinder/AppIcon.png",
-      "impressionCount" : 62,
+      "impressionCount" : 63,
       "name" : "keyfinder",
       "screenshotURLs" : [
 
@@ -17467,7 +17485,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-klokki/AppIcon.png",
-      "impressionCount" : 247,
+      "impressionCount" : 248,
       "name" : "klokki",
       "screenshotURLs" : [
 
@@ -17503,7 +17521,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-knock/AppIcon.png",
-      "impressionCount" : 57,
+      "impressionCount" : 58,
       "name" : "knock",
       "screenshotURLs" : [
 
@@ -17557,7 +17575,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-koa11y/AppIcon.png",
-      "impressionCount" : 56,
+      "impressionCount" : 57,
       "name" : "koa11y",
       "screenshotURLs" : [
 
@@ -17665,7 +17683,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kube-cluster/AppIcon.png",
-      "impressionCount" : 57,
+      "impressionCount" : 58,
       "name" : "kube-cluster",
       "screenshotURLs" : [
 
@@ -17863,7 +17881,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-latexit/AppIcon.png",
-      "impressionCount" : 75,
+      "impressionCount" : 76,
       "name" : "latexit",
       "screenshotURLs" : [
 
@@ -17899,7 +17917,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-launchcontrol/AppIcon.png",
-      "impressionCount" : 73,
+      "impressionCount" : 74,
       "name" : "launchcontrol",
       "screenshotURLs" : [
 
@@ -17917,7 +17935,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-launchpad-manager/AppIcon.png",
-      "impressionCount" : 60,
+      "impressionCount" : 61,
       "name" : "launchpad-manager",
       "screenshotURLs" : [
 
@@ -17971,7 +17989,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-displays/AppIcon.png",
-      "impressionCount" : 55,
+      "impressionCount" : 56,
       "name" : "league-displays",
       "screenshotURLs" : [
 
@@ -18151,7 +18169,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lincastor/AppIcon.png",
-      "impressionCount" : 60,
+      "impressionCount" : 61,
       "name" : "lincastor",
       "screenshotURLs" : [
 
@@ -18223,7 +18241,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-linearmouse/AppIcon.png",
-      "impressionCount" : 80,
+      "impressionCount" : 81,
       "name" : "linearmouse",
       "screenshotURLs" : [
 
@@ -18241,7 +18259,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lingon-x/AppIcon.png",
-      "impressionCount" : 64,
+      "impressionCount" : 65,
       "name" : "lingon-x",
       "screenshotURLs" : [
 
@@ -18259,7 +18277,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-linkliar/AppIcon.png",
-      "impressionCount" : 63,
+      "impressionCount" : 64,
       "name" : "linkliar",
       "screenshotURLs" : [
 
@@ -18295,7 +18313,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-liteicon/AppIcon.png",
-      "impressionCount" : 63,
+      "impressionCount" : 64,
       "name" : "liteicon",
       "screenshotURLs" : [
 
@@ -18313,7 +18331,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-liteide/AppIcon.png",
-      "impressionCount" : 53,
+      "impressionCount" : 54,
       "name" : "liteide",
       "screenshotURLs" : [
 
@@ -18331,7 +18349,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-little-navmap/AppIcon.png",
-      "impressionCount" : 51,
+      "impressionCount" : 52,
       "name" : "little-navmap",
       "screenshotURLs" : [
 
@@ -18367,7 +18385,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-loading/AppIcon.png",
-      "impressionCount" : 56,
+      "impressionCount" : 57,
       "name" : "loading",
       "screenshotURLs" : [
 
@@ -18403,7 +18421,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lockrattler/AppIcon.png",
-      "impressionCount" : 57,
+      "impressionCount" : 58,
       "name" : "lockrattler",
       "screenshotURLs" : [
 
@@ -18421,7 +18439,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-logicalshift-zoom/AppIcon.png",
-      "impressionCount" : 54,
+      "impressionCount" : 55,
       "name" : "logicalshift-zoom",
       "screenshotURLs" : [
 
@@ -18439,7 +18457,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-logicsniffer/AppIcon.png",
-      "impressionCount" : 52,
+      "impressionCount" : 53,
       "name" : "logicsniffer",
       "screenshotURLs" : [
 
@@ -18619,7 +18637,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lumen/AppIcon.png",
-      "impressionCount" : 53,
+      "impressionCount" : 54,
       "name" : "lumen",
       "screenshotURLs" : [
 
@@ -18655,7 +18673,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lunasea/AppIcon.png",
-      "impressionCount" : 60,
+      "impressionCount" : 61,
       "name" : "lunasea",
       "screenshotURLs" : [
 
@@ -18709,7 +18727,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lycheeslicer/AppIcon.png",
-      "impressionCount" : 52,
+      "impressionCount" : 53,
       "name" : "lycheeslicer",
       "screenshotURLs" : [
 
@@ -18763,7 +18781,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mac2imgur/AppIcon.png",
-      "impressionCount" : 53,
+      "impressionCount" : 54,
       "name" : "mac2imgur",
       "screenshotURLs" : [
 
@@ -18781,7 +18799,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdependency/AppIcon.png",
-      "impressionCount" : 50,
+      "impressionCount" : 51,
       "name" : "macdependency",
       "screenshotURLs" : [
 
@@ -18799,7 +18817,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdive/AppIcon.png",
-      "impressionCount" : 49,
+      "impressionCount" : 51,
       "name" : "macdive",
       "screenshotURLs" : [
 
@@ -18817,30 +18835,12 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdroid/AppIcon.png",
-      "impressionCount" : 57,
+      "impressionCount" : 59,
       "name" : "macdroid",
       "screenshotURLs" : [
 
       ],
       "tintColor" : "4DBC50",
-      "versionDate" : "2022-02-01T01:07:41Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "macdropany",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadCount" : 0,
-      "downloadURL" : "https://appfair.app",
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdropany/AppIcon.png",
-      "impressionCount" : 53,
-      "name" : "macdropany",
-      "screenshotURLs" : [
-
-      ],
-      "tintColor" : "6DB4F8",
       "versionDate" : "2022-02-01T01:07:41Z"
     },
     {
@@ -18871,7 +18871,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macgesture/AppIcon.png",
-      "impressionCount" : 63,
+      "impressionCount" : 65,
       "name" : "macgesture",
       "screenshotURLs" : [
 
@@ -18925,7 +18925,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macloggerdx/AppIcon.png",
-      "impressionCount" : 50,
+      "impressionCount" : 52,
       "name" : "macloggerdx",
       "screenshotURLs" : [
 
@@ -18943,7 +18943,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macpilot/AppIcon.png",
-      "impressionCount" : 52,
+      "impressionCount" : 54,
       "name" : "macpilot",
       "screenshotURLs" : [
 
@@ -18961,7 +18961,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macrorecorder/AppIcon.png",
-      "impressionCount" : 48,
+      "impressionCount" : 50,
       "name" : "macrorecorder",
       "screenshotURLs" : [
 
@@ -18979,7 +18979,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macstroke/AppIcon.png",
-      "impressionCount" : 49,
+      "impressionCount" : 50,
       "name" : "macstroke",
       "screenshotURLs" : [
 
@@ -18997,7 +18997,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macterm/AppIcon.png",
-      "impressionCount" : 53,
+      "impressionCount" : 54,
       "name" : "macterm",
       "screenshotURLs" : [
 
@@ -19033,7 +19033,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macupdater/AppIcon.png",
-      "impressionCount" : 72,
+      "impressionCount" : 74,
       "name" : "macupdater",
       "screenshotURLs" : [
 
@@ -19051,7 +19051,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macwinzipper/AppIcon.png",
-      "impressionCount" : 51,
+      "impressionCount" : 52,
       "name" : "macwinzipper",
       "screenshotURLs" : [
 
@@ -19069,7 +19069,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-maczip/AppIcon.png",
-      "impressionCount" : 63,
+      "impressionCount" : 64,
       "name" : "maczip",
       "screenshotURLs" : [
 
@@ -19177,7 +19177,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-maintenance/AppIcon.png",
-      "impressionCount" : 55,
+      "impressionCount" : 56,
       "name" : "maintenance",
       "screenshotURLs" : [
 
@@ -19195,7 +19195,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-malus/AppIcon.png",
-      "impressionCount" : 51,
+      "impressionCount" : 52,
       "name" : "malus",
       "screenshotURLs" : [
 
@@ -19303,7 +19303,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-maria/AppIcon.png",
-      "impressionCount" : 52,
+      "impressionCount" : 53,
       "name" : "maria",
       "screenshotURLs" : [
 
@@ -19357,7 +19357,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-markright/AppIcon.png",
-      "impressionCount" : 48,
+      "impressionCount" : 49,
       "name" : "markright",
       "screenshotURLs" : [
 
@@ -19555,7 +19555,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mattr-slate/AppIcon.png",
-      "impressionCount" : 44,
+      "impressionCount" : 45,
       "name" : "mattr-slate",
       "screenshotURLs" : [
 
@@ -19573,7 +19573,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mauve/AppIcon.png",
-      "impressionCount" : 43,
+      "impressionCount" : 44,
       "name" : "mauve",
       "screenshotURLs" : [
 
@@ -19681,7 +19681,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-media-converter/AppIcon.png",
-      "impressionCount" : 42,
+      "impressionCount" : 43,
       "name" : "media-converter",
       "screenshotURLs" : [
 
@@ -19699,7 +19699,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mediaelch/AppIcon.png",
-      "impressionCount" : 48,
+      "impressionCount" : 49,
       "name" : "mediaelch",
       "screenshotURLs" : [
 
@@ -19717,7 +19717,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mediainfo/AppIcon.png",
-      "impressionCount" : 62,
+      "impressionCount" : 63,
       "name" : "mediainfo",
       "screenshotURLs" : [
 
@@ -19825,7 +19825,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-memory-clean-3/AppIcon.png",
-      "impressionCount" : 55,
+      "impressionCount" : 56,
       "name" : "memory-clean-3",
       "screenshotURLs" : [
 
@@ -19843,7 +19843,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-memory-cleaner/AppIcon.png",
-      "impressionCount" : 54,
+      "impressionCount" : 55,
       "name" : "memory-cleaner",
       "screenshotURLs" : [
 
@@ -19879,7 +19879,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-menu-bar-splitter/AppIcon.png",
-      "impressionCount" : 47,
+      "impressionCount" : 48,
       "name" : "menu-bar-splitter",
       "screenshotURLs" : [
 
@@ -19897,7 +19897,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-menubar-colors/AppIcon.png",
-      "impressionCount" : 46,
+      "impressionCount" : 47,
       "name" : "menubar-colors",
       "screenshotURLs" : [
 
@@ -19915,7 +19915,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-menubar-countdown/AppIcon.png",
-      "impressionCount" : 52,
+      "impressionCount" : 53,
       "name" : "menubar-countdown",
       "screenshotURLs" : [
 
@@ -19933,7 +19933,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-menubar-stats/AppIcon.png",
-      "impressionCount" : 51,
+      "impressionCount" : 52,
       "name" : "menubar-stats",
       "screenshotURLs" : [
 
@@ -19951,7 +19951,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-menumeters/AppIcon.png",
-      "impressionCount" : 68,
+      "impressionCount" : 69,
       "name" : "menumeters",
       "screenshotURLs" : [
 
@@ -20023,7 +20023,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-messenger-native/AppIcon.png",
-      "impressionCount" : 45,
+      "impressionCount" : 46,
       "name" : "messenger-native",
       "screenshotURLs" : [
 
@@ -20059,7 +20059,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-metabase/AppIcon.png",
-      "impressionCount" : 49,
+      "impressionCount" : 50,
       "name" : "metabase",
       "screenshotURLs" : [
 
@@ -20077,7 +20077,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-meteorologist/AppIcon.png",
-      "impressionCount" : 216,
+      "impressionCount" : 217,
       "name" : "meteorologist",
       "screenshotURLs" : [
 
@@ -20095,7 +20095,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mi/AppIcon.png",
-      "impressionCount" : 62,
+      "impressionCount" : 63,
       "name" : "mi",
       "screenshotURLs" : [
 
@@ -21535,7 +21535,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mylio/AppIcon.png",
-      "impressionCount" : 267,
+      "impressionCount" : 269,
       "name" : "mylio",
       "screenshotURLs" : [
 
@@ -23677,7 +23677,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-paper/AppIcon.png",
-      "impressionCount" : 270,
+      "impressionCount" : 272,
       "name" : "paper",
       "screenshotURLs" : [
 
@@ -24235,7 +24235,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-photosrevive/AppIcon.png",
-      "impressionCount" : 259,
+      "impressionCount" : 261,
       "name" : "photosrevive",
       "screenshotURLs" : [
 
@@ -24253,7 +24253,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-photosweeper-x/AppIcon.png",
-      "impressionCount" : 258,
+      "impressionCount" : 260,
       "name" : "photosweeper-x",
       "screenshotURLs" : [
 
@@ -24379,7 +24379,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pika/AppIcon.png",
-      "impressionCount" : 52,
+      "impressionCount" : 53,
       "name" : "pika",
       "screenshotURLs" : [
 
@@ -26306,7 +26306,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-raw-photo-processor/AppIcon.png",
-      "impressionCount" : 256,
+      "impressionCount" : 258,
       "name" : "raw-photo-processor",
       "screenshotURLs" : [
 
@@ -26900,7 +26900,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-retrobatch/AppIcon.png",
-      "impressionCount" : 247,
+      "impressionCount" : 248,
       "name" : "retrobatch",
       "screenshotURLs" : [
 
@@ -31525,7 +31525,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thumbsup/AppIcon.png",
-      "impressionCount" : 215,
+      "impressionCount" : 216,
       "name" : "thumbsup",
       "screenshotURLs" : [
 
@@ -34099,7 +34099,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xnconvert/AppIcon.png",
-      "impressionCount" : 257,
+      "impressionCount" : 259,
       "name" : "xnconvert",
       "screenshotURLs" : [
 
@@ -34189,7 +34189,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ximalaya/AppIcon.png",
-      "impressionCount" : 250,
+      "impressionCount" : 251,
       "name" : "ximalaya",
       "screenshotURLs" : [
 
@@ -34855,7 +34855,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-webull/AppIcon.png",
-      "impressionCount" : 261,
+      "impressionCount" : 262,
       "name" : "webull",
       "screenshotURLs" : [
 
@@ -35251,7 +35251,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vsee/AppIcon.png",
-      "impressionCount" : 214,
+      "impressionCount" : 216,
       "name" : "vsee",
       "screenshotURLs" : [
 
@@ -35305,7 +35305,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vrew/AppIcon.png",
-      "impressionCount" : 182,
+      "impressionCount" : 183,
       "name" : "vrew",
       "screenshotURLs" : [
 
@@ -35683,7 +35683,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vidrio/AppIcon.png",
-      "impressionCount" : 396,
+      "impressionCount" : 398,
       "name" : "vidrio",
       "screenshotURLs" : [
 
@@ -35701,7 +35701,7 @@
       "downloadURL" : "https://appfair.app",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-videofusion/AppIcon.png",
-      "impressionCount" : 180,
+      "impressionCount" : 181,
       "name" : "videofusion",
       "screenshotURLs" : [
 

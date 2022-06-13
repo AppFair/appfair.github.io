@@ -11,7 +11,7 @@
       "downloadCount": 3,
       "downloadURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.27/Stanza-Redux-iOS.ipa",
       "iconURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.27/Stanza-Redux.png",
-      "impressionCount": 164,
+      "impressionCount": 169,
       "issueCount": 0,
       "localizedDescription": "An electronic book reader",
       "metadataURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.27/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -42,7 +42,7 @@
       "version": "0.3.27",
       "versionDate": "2022-06-11T19:12:49Z",
       "versionDescription": "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.26...0.3.27",
-      "viewCount": 37,
+      "viewCount": 38,
       "watcherCount": 0
     },
     {
@@ -56,7 +56,7 @@
       "downloadCount": 14,
       "downloadURL": "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out-iOS.ipa",
       "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out.png",
-      "impressionCount": 1028,
+      "impressionCount": 1033,
       "issueCount": 0,
       "localizedDescription": "Stream Internet Radio",
       "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.430/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -81,7 +81,7 @@
       "version": "0.8.430",
       "versionDate": "2022-04-20T15:15:12Z",
       "versionDescription": "Release 0.8.430",
-      "viewCount": 238,
+      "viewCount": 239,
       "watcherCount": 0
     }
   ],

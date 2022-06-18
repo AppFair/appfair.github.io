@@ -8,7 +8,7 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 903,
+      "downloadCount" : 906,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.53/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.53/App-Fair.png",
@@ -109,7 +109,7 @@
       "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
-      "impressionCount" : 1128,
+      "impressionCount" : 1129,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
       "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
@@ -141,7 +141,7 @@
       "version" : "0.1.7",
       "versionDate" : "2022-05-24T14:45:09Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7",
-      "viewCount" : 265,
+      "viewCount" : 266,
       "watcherCount" : 1
     },
     {
@@ -194,10 +194,10 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 11,
+      "downloadCount" : 12,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.69/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.69/Cloud-Cuckoo.png",
-      "impressionCount" : 81,
+      "impressionCount" : 82,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.69/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -221,7 +221,7 @@
       "version" : "0.9.69",
       "versionDate" : "2022-06-16T03:01:11Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.68...0.9.69",
-      "viewCount" : 16,
+      "viewCount" : 17,
       "watcherCount" : 0
     },
     {
@@ -720,7 +720,7 @@
       "downloadCount" : 9,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "impressionCount" : 1132,
+      "impressionCount" : 1133,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -751,7 +751,7 @@
       "version" : "0.0.42",
       "versionDate" : "2022-05-26T14:16:43Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42",
-      "viewCount" : 275,
+      "viewCount" : 276,
       "watcherCount" : 0
     },
     {
@@ -825,7 +825,7 @@
       "downloadCount" : 13,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "impressionCount" : 1496,
+      "impressionCount" : 1497,
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
@@ -847,7 +847,7 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T03:44:49Z",
       "versionDescription" : "Release 0.4.18",
-      "viewCount" : 305,
+      "viewCount" : 306,
       "watcherCount" : 0
     },
     {
@@ -1010,7 +1010,7 @@
       "downloadCount" : 14,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.27/Stanza-Redux-macOS.zip",
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.27/Stanza-Redux.png",
-      "impressionCount" : 488,
+      "impressionCount" : 489,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.27/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -1038,7 +1038,7 @@
       "version" : "0.3.27",
       "versionDate" : "2022-06-11T19:12:49Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.26...0.3.27",
-      "viewCount" : 100,
+      "viewCount" : 101,
       "watcherCount" : 0
     },
     {
@@ -1153,7 +1153,7 @@
       "downloadCount" : 38,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out.png",
-      "impressionCount" : 1346,
+      "impressionCount" : 1347,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -1181,7 +1181,7 @@
       "version" : "0.8.430",
       "versionDate" : "2022-04-20T15:15:12Z",
       "versionDescription" : "Release 0.8.430",
-      "viewCount" : 320,
+      "viewCount" : 321,
       "watcherCount" : 0
     },
     {

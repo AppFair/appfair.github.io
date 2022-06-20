@@ -52,7 +52,7 @@
       "downloadCount" : 10,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.71/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.71/Cloud-Cuckoo.png",
-      "impressionCount" : 4,
+      "impressionCount" : 6,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.71/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -467,7 +467,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip-iOS.ipa",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "impressionCount" : 1229,
+      "impressionCount" : 1232,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -494,7 +494,7 @@
       "version" : "0.0.42",
       "versionDate" : "2022-05-26T14:16:43Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42",
-      "viewCount" : 286,
+      "viewCount" : 287,
       "watcherCount" : 0
     },
     {
@@ -718,7 +718,7 @@
       "downloadCount" : 7,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.27/Stanza-Redux-iOS.ipa",
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.27/Stanza-Redux.png",
-      "impressionCount" : 582,
+      "impressionCount" : 586,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.27/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -749,7 +749,7 @@
       "version" : "0.3.27",
       "versionDate" : "2022-06-11T19:12:49Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.26...0.3.27",
-      "viewCount" : 109,
+      "viewCount" : 110,
       "watcherCount" : 0
     },
     {
@@ -829,7 +829,7 @@
       "downloadCount" : 14,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out.png",
-      "impressionCount" : 1435,
+      "impressionCount" : 1438,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -854,7 +854,7 @@
       "version" : "0.8.430",
       "versionDate" : "2022-04-20T15:15:12Z",
       "versionDescription" : "Release 0.8.430",
-      "viewCount" : 329,
+      "viewCount" : 331,
       "watcherCount" : 0
     },
     {

@@ -29,11 +29,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Install fairtool
-        run: |
-          brew tap appfair/app
-          brew install fairtool
-
       - name: Checkout Catalog
         uses: actions/checkout@v2
         with:
@@ -47,12 +42,42 @@ jobs:
         run: |
           git clone https://user:$GITHUB_TOKEN@github.com/appfair/homebrew-app
 
+      - name: Update fairtool version
+        env:
+          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
+        run: |
+          cd homebrew-app/Formula/
+
+          cd `mktemp -d`
+          git clone --depth 1 https://github.com/fair-ground/Fair.git .
+          git fetch --tags
+          TAG=`git describe --abbrev=0 --tags`
+          URL="https://github.com/fair-ground/Fair/archive/${TAG}.tar.gz"
+          CHECKSUM=`curl -fsSL "${URL}" | shasum -a 256 | cut -f 1 -d ' '`
+          cd -
+
+          sed -I "" 's;^  url "https://github.com/fair-ground/Fair/archive/.*;  url "https://github.com/fair-ground/Fair/archive/'${TAG}'.tar.gz";g' fairtool.rb
+          sed -I "" 's;^  checksum ".*;  checksum "'${CHECKSUM}'";g' fairtool.rb
+
+          git config user.name "appfairbot"
+          git config user.email "appfairbot@appfair.net"
+          git pull
+          git add .
+          git commit -m "fairtool cask update: ${TAG}" || echo "nothing to commit"
+          git push
+
       - name: Clear Casks
         run: |
           rm -rf homebrew-app/Casks/
           mkdir -p homebrew-app/Casks/
           rm -f fairapps-macos.json fairapps-macos.md
           rm -f fairapps-ios.json fairapps-ios.md
+
+      - name: Install fairtool
+        run: |
+          brew tap appfair/app
+          brew install fairtool-head
+          fairtool version
 
       - name: Generate macOS catalog
         run: |

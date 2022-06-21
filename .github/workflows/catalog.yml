@@ -77,7 +77,7 @@ jobs:
       - name: Install fairtool
         run: |
           brew tap appfair/app
-          brew install fairtool-head
+          brew install fairtool
           fairtool version
 
       - name: Generate macOS catalog

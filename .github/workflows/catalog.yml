@@ -51,7 +51,8 @@ jobs:
           cd `mktemp -d`
           git clone --depth 1 https://github.com/fair-ground/Fair.git .
           git fetch --tags
-          TAG=`git describe --abbrev=0 --tags`
+          #TAG=`git describe --abbrev=0 --tags`
+          TAG=`git tag -l --sort=-creatordate | head -n 1`
           URL="https://github.com/fair-ground/Fair/archive/${TAG}.tar.gz"
           CHECKSUM=`curl -fsSL "${URL}" | shasum -a 256 | cut -f 1 -d ' '`
           cd -

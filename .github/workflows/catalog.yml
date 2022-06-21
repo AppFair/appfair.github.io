@@ -56,8 +56,9 @@ jobs:
           CHECKSUM=`curl -fsSL "${URL}" | shasum -a 256 | cut -f 1 -d ' '`
           cd -
 
-          sed -i 's;^  url "https://github.com/fair-ground/Fair/archive/.*;  url "https://github.com/fair-ground/Fair/archive/'${TAG}'.tar.gz";g' fairtool.rb
-          sed -i 's;^  checksum ".*;  checksum "'${CHECKSUM}'";g' fairtool.rb
+          sed -i 's;^  version ".*";  version "'${TAG}'";g' fairtool.rb
+          sed -i 's;^  url "https://github.com/fair-ground/Fair/archive/.*";  url "https://github.com/fair-ground/Fair/archive/'${TAG}'.tar.gz";g' fairtool.rb
+          sed -i 's;^  checksum ".*";  checksum "'${CHECKSUM}'";g' fairtool.rb
 
           git config user.name "appfairbot"
           git config user.email "appfairbot@appfair.net"

@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.71``](https://github.com/Cloud-Cuckoo/App/releases/0.9.71) | `10` | `3` | `15` | `6.7 MB` | `0` | `0` | `2022-06-20T16:41:20Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.71``](https://github.com/Cloud-Cuckoo/App/releases/0.9.71) | `10` | `3` | `19` | `6.7 MB` | `0` | `0` | `2022-06-20T16:41:20Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.27``](https://github.com/Stanza-Redux/App/releases/0.3.27) | `590` | `112` | `7` | `9.7 MB` | `1` | `0` | `2022-06-11T19:12:49Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.42``](https://github.com/Net-Skip/App/releases/0.0.42) | `1236` | `289` | `2` | `9.3 MB` | `0` | `0` | `2022-05-26T14:16:43Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `108` | `8` | `2` | `6.4 MB` | `0` | `0` | `2022-05-01T12:44:04Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |

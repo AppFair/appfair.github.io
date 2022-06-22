@@ -23,9 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.73``](https://github.com/Cloud-Cuckoo/App/releases/0.9.73) | `1` | `1` | `2` | `4.9 MB` | `0` | `0` | `2022-06-22T01:14:59Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.29β``](https://github.com/Stanza-Redux/App/releases/0.3.29) | `1` | `0` | `2` | `9.8 MB` | `1` | `0` | `2022-06-21T14:23:20Z` | [`reference`](https://github.com/topics/appfair-reference)  |
-| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.27``](https://github.com/Stanza-Redux/App/releases/0.3.27) | `619` | `118` | `8` | `9.7 MB` | `1` | `0` | `2022-06-11T19:12:49Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.30``](https://github.com/Stanza-Redux/App/releases/0.3.30) | `1` | `1` | `2` | `7.9 MB` | `1` | `0` | `2022-06-22T01:49:00Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.73``](https://github.com/Cloud-Cuckoo/App/releases/0.9.73) | `1` | `1` | `4` | `4.9 MB` | `0` | `0` | `2022-06-22T01:14:59Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.42``](https://github.com/Net-Skip/App/releases/0.0.42) | `1266` | `295` | `2` | `9.3 MB` | `0` | `0` | `2022-05-26T14:16:43Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `109` | `8` | `3` | `6.4 MB` | `0` | `0` | `2022-05-01T12:44:04Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.430``](https://github.com/Tune-Out/App/releases/0.8.430) | `1470` | `340` | `16` | `17.2 MB` | `0` | `0` | `2022-04-20T15:15:12Z` | [`music`](https://github.com/topics/appfair-music)  |

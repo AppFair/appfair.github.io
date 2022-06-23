@@ -8,61 +8,61 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 1062,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.53/App-Fair-macOS.zip",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.55/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.53/App-Fair.png",
-      "impressionCount" : 624,
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.55/App-Fair.png",
+      "impressionCount" : 1,
       "issueCount" : 4,
       "localizedDescription" : "The App Fair catalog browser for discovering & installing macOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.53/Info.plist#563a42d6d02a1be7ee9aaa419f174b688a6a0cffc00c10fe84cd4668024e0857",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.55/Info.plist#563a42d6d02a1be7ee9aaa419f174b688a6a0cffc00c10fe84cd4668024e0857",
       "name" : "App Fair",
       "permissions" : [
         {
-          "type" : "com.apple.security.network.client",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+          "type" : "com.apple.security.files.user-selected.executable",
+          "usageDescription" : "The App Fair installs executable apps"
         },
         {
-          "type" : "com.apple.security.files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
+          "type" : "com.apple.security.network.client",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
         },
         {
           "type" : "com.apple.security.network.server",
           "usageDescription" : "The App Fair acts as a server for checking for app updates"
         },
         {
-          "type" : "com.apple.security.files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
+          "type" : "com.apple.security.files.user-selected.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
         },
         {
           "type" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
           "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.53/README.md#9f245a393a99761459c7c6277e7d2496f812d306cd43c1b14e74a1c05ccfe1bb",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.55/README.md#9f245a393a99761459c7c6277e7d2496f812d306cd43c1b14e74a1c05ccfe1bb",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_00-mac-dark-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_00-mac-light-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_01-mac-dark-2790x1924.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_01-mac-light-2790x1924.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_06-mac-dark-1424x1722.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.53/screenshot_06-mac-light-1424x1722.png"
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_00-mac-dark-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_00-mac-light-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_01-mac-dark-2790x1924.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_01-mac-light-2790x1924.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_06-mac-dark-1424x1722.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.55/screenshot_06-mac-light-1424x1722.png"
       ],
-      "sha256" : "e97179eaafe761341f6a80525cca20384defcf4fbbc58ae2c480a7d1972d2a51",
-      "size" : 7892707,
+      "sha256" : "20422af74944705f03043eca826f566e53cd9bad371a073a7ccb172b7bd471f5",
+      "size" : 8519778,
       "starCount" : 19,
       "subtitle" : "The App Fair catalog browser for discovering & installing macOS apps",
       "tintColor" : "1594E8",
-      "version" : "0.8.53",
-      "versionDate" : "2022-06-11T00:18:47Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.52...0.8.53",
-      "viewCount" : 105,
+      "version" : "0.8.55",
+      "versionDate" : "2022-06-23T19:08:09Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.53...0.8.55",
+      "viewCount" : 1,
       "watcherCount" : 3
     },
     {

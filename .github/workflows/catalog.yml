@@ -82,9 +82,18 @@ jobs:
           brew test fairtool
           fairtool version
 
+      - name: Setup appfair.github.io repo
+        run: |
+          cd appfair.github.io/
+          git config credential.username "appfairbot"
+          git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
+          git config user.name "appfairbot"
+          git config user.email "appfairbot@appfair.net"
+          cd -
 
       - name: Generate macOS catalog
         run: |
+          cp appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos-prev.json && touch appfair.github.io/fairapps-macos-prev.json
           fairtool fair catalog \
             --verbose \
             --hub github.com/appfair \
@@ -102,8 +111,21 @@ jobs:
             --index appfair.github.io/fairapps-macos.md \
             -o appfair.github.io/fairapps-macos.json
 
+          # generate a difference of the catalogs for publication
+          diff appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos-prev.json || true
+
+          cd appfair.github.io/
+          cp fairapps-macos.md fairapps.md
+          cp fairapps-macos.json fairapps.json
+          git add fairapps.md fairapps.json fairapps-macos.md fairapps-macos.json
+          git pull
+          git commit -m "macOS catalog update" || echo "nothing to commit"
+          git push
+          cd -
+
       - name: Generate iOS catalog
         run: |
+          cp appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios-prev.json && touch appfair.github.io/appcasks-prev.json
           fairtool fair catalog \
             --verbose \
             --hub github.com/appfair \
@@ -121,13 +143,24 @@ jobs:
             -o appfair.github.io/fairapps-ios.json
 
           # generate AltStore-specific catalog
-          cd appfair.github.io
+          cd appfair.github.io/
           cat fairapps-ios.json | jq '.apps |= map(select(.bundleIdentifier|match("${{ secrets.APP_FAIR_ALTSTORE_APPS }}")))' | jq '.sourceURL |= "https://www.appfair.net/fairapps-altstore.json"' > fairapps-altstore.json
 
           cd -
 
+          # generate a difference of the catalogs for publication
+          diff appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios-prev.json || true
+
+          cd appfair.github.io/
+          git add fairapps-ios.md fairapps-ios.json fairapps-altstore.json
+          git pull
+          git commit -m "iOS catalog update" || echo "nothing to commit"
+          git push
+          cd -
+
       - name: Generate appcasks catalog
         run: |
+          cp appfair.github.io/appcasks.json appfair.github.io/appcasks-prev.json && touch appfair.github.io/appcasks-prev.json
           fairtool brew appcasks \
             --verbose \
             --hub github.com/appfair \
@@ -135,26 +168,14 @@ jobs:
             --boost-factor 100000 \
             --retry-duration 600 \
             -o appfair.github.io/appcasks.json
+          
+          # generate a difference of the catalogs for publication
+          diff appfair.github.io/appcasks.json appfair.github.io/appcasks-prev.json || true
 
-      - name: Commit catalog
-        run: |
           cd appfair.github.io/
-          git config credential.username "appfairbot"
-          git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
-          git config user.name "appfairbot"
-          git config user.email "appfairbot@appfair.net"
-          cp fairapps-macos.md fairapps.md
-          cp fairapps-macos.json fairapps.json
-          git add fairapps.md
-          git add fairapps.json
-          git add fairapps-macos.md
-          git add fairapps-macos.json
-          git add fairapps-ios.md
-          git add fairapps-ios.json
-          git add fairapps-altstore.json
           git add appcasks.json
           git pull
-          git commit -m "catalog update" || echo "nothing to commit"
+          git commit -m "casks catalog update" || echo "nothing to commit"
           git push
 
       - name: Update casks inventory

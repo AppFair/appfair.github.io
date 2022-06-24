@@ -49,31 +49,31 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 4,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.76/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.76/Cloud-Cuckoo.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.77/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.77/Cloud-Cuckoo.png",
       "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.76/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.77/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.76/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.77/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.76/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.76/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.76/screenshot_02-iphone-750x1334.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.77/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.77/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.77/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "b240fa43b196856b35940699f1e087c14dd8badbf09df5c86053e51a3d13f27e",
-      "size" : 5134429,
+      "sha256" : "56e51d23ac1a96723a7bec9ffb810b02caa073537393846cd99b690a42472277",
+      "size" : 5134411,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.76",
-      "versionDate" : "2022-06-24T04:43:03Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.75...0.9.76",
+      "version" : "0.9.77",
+      "versionDate" : "2022-06-24T05:10:18Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.76...0.9.77",
       "viewCount" : 1,
       "watcherCount" : 0
     },
@@ -1026,5 +1026,14 @@
   ],
   "identifier" : "appfair",
   "name" : "The App Fair iOS App Catalog",
+  "news" : [
+    {
+      "appID" : "app.Cloud-Cuckoo",
+      "caption" : "",
+      "date" : "2022-06-24T05:35:16Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.77",
+      "title" : "New App Fair Release: Cloud Cuckoo 0.9.77"
+    }
+  ],
   "sourceURL" : "https://www.appfair.net/fairapps-ios.json"
 }

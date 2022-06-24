@@ -194,33 +194,33 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 3,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.78/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.78/Cloud-Cuckoo.png",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.79/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.79/Cloud-Cuckoo.png",
       "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.78/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.79/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.78/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.79/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.78/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.78/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.78/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.78/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.78/screenshot_06-mac-1656x1560.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.79/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.79/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.79/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.79/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.79/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "b020a7cd4fa01e4d438e5071cb03e496210c42bfc3536480e45da6b8bc8f2a87",
-      "size" : 2007534,
+      "sha256" : "6f86ca481dfd0a9213c263263b5636e90720250841c084c85d56de6a79e5d33a",
+      "size" : 2007535,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.78",
-      "versionDate" : "2022-06-24T05:41:44Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.77...0.9.78",
+      "version" : "0.9.79",
+      "versionDate" : "2022-06-24T06:18:48Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.78...0.9.79",
       "viewCount" : 1,
       "watcherCount" : 0
     },
@@ -1000,48 +1000,6 @@
       "watcherCount" : 0
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Stanza-Redux",
-      "categories" : [
-        "public.app-category.reference"
-      ],
-      "coreSize" : 102480,
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.31/Stanza-Redux-macOS.zip",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.31/Stanza-Redux.png",
-      "impressionCount" : 1,
-      "issueCount" : 0,
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.31/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
-      "name" : "Stanza Redux",
-      "permissions" : [
-        {
-          "type" : "com.apple.security.network.client",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        },
-        {
-          "type" : "com.apple.security.files.user-selected.read-only",
-          "usageDescription" : "This app needs to read ebook files"
-        }
-      ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.31/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
-      "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.31/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.31/screenshot_01-mac-light-2436x2012.png"
-      ],
-      "sha256" : "4b39d98b415224483323cf0c860ff437356581d06275ca95eaa9dcd40c7986f8",
-      "size" : 3730623,
-      "starCount" : 1,
-      "subtitle" : "An electronic book reader",
-      "tintColor" : "00375C",
-      "version" : "0.3.31",
-      "versionDate" : "2022-06-24T05:41:41Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.30...0.3.31",
-      "viewCount" : 1,
-      "watcherCount" : 0
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Stanza-Redux",
       "categories" : [
@@ -1049,13 +1007,13 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.30/Stanza-Redux-macOS.zip",
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.30/Stanza-Redux.png",
-      "impressionCount" : 86,
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.32/Stanza-Redux-macOS.zip",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.32/Stanza-Redux.png",
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.30/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.32/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -1067,20 +1025,20 @@
           "usageDescription" : "This app needs to read ebook files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.30/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.32/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.30/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.30/screenshot_01-mac-light-2436x2012.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.32/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.32/screenshot_01-mac-light-2436x2012.png"
       ],
-      "sha256" : "75b6fe424f0526d89887607550fbe9a1ed19bf2ed5b722b26486967f892f06b3",
-      "size" : 3646170,
+      "sha256" : "bff4487d3b8a3f667d71894c82040376eb588c8f060a41f19ff98757ec07dfda",
+      "size" : 3730619,
       "starCount" : 1,
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
-      "version" : "0.3.30",
-      "versionDate" : "2022-06-22T01:49:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.29...0.3.30",
-      "viewCount" : 21,
+      "version" : "0.3.32",
+      "versionDate" : "2022-06-24T06:18:50Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.31...0.3.32",
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -1398,5 +1356,21 @@
   ],
   "identifier" : "appfair",
   "name" : "The App Fair macOS App Catalog",
+  "news" : [
+    {
+      "appID" : "app.Cloud-Cuckoo",
+      "caption" : "",
+      "date" : "2022-06-24T06:39:27Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.79",
+      "title" : "New App Fair Release: Cloud Cuckoo 0.9.79"
+    },
+    {
+      "appID" : "app.Stanza-Redux",
+      "caption" : "",
+      "date" : "2022-06-24T06:39:27Z",
+      "identifier" : "release-app.Stanza-Redux-0.3.32",
+      "title" : "New App Fair Release: Stanza Redux 0.3.32"
+    }
+  ],
   "sourceURL" : "https://www.appfair.net/fairapps-macos.json"
 }

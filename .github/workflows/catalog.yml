@@ -93,7 +93,7 @@ jobs:
 
       - name: Generate macOS catalog
         run: |
-          cp appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos-prev.json && touch appfair.github.io/fairapps-macos-prev.json
+          cp appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json && touch appfair.github.io/fairapps-macos_old.json
           fairtool fair catalog \
             --verbose \
             --hub github.com/appfair \
@@ -112,7 +112,11 @@ jobs:
             -o appfair.github.io/fairapps-macos.json
 
           # generate a difference of the catalogs for publication
-          diff appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos-prev.json || true
+          diff appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json || true
+
+          # update the catalog to include news items 
+          fairtool source postrelease --from-catalog appfair.github.io/fairapps-macos_old.json --to-catalog appfair.github.io/fairapps-macos.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' --post-title 'New App Fair Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' --post-app-id 'app.#(appname_hyphenated)' --news-items 10 -o appfair.github.io/fairapps-macos.json.new
+          mv appfair.github.io/fairapps-macos.json.new appfair.github.io/fairapps-macos.json
 
           cd appfair.github.io/
           cp fairapps-macos.md fairapps.md
@@ -125,7 +129,7 @@ jobs:
 
       - name: Generate iOS catalog
         run: |
-          cp appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios-prev.json && touch appfair.github.io/appcasks-prev.json
+          cp appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios_old.json && touch appfair.github.io/appcasks_old.json
           fairtool fair catalog \
             --verbose \
             --hub github.com/appfair \
@@ -149,7 +153,7 @@ jobs:
           cd -
 
           # generate a difference of the catalogs for publication
-          diff appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios-prev.json || true
+          diff appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios_old.json || true
 
           cd appfair.github.io/
           git add fairapps-ios.md fairapps-ios.json fairapps-altstore.json
@@ -160,7 +164,7 @@ jobs:
 
       - name: Generate appcasks catalog
         run: |
-          cp appfair.github.io/appcasks.json appfair.github.io/appcasks-prev.json && touch appfair.github.io/appcasks-prev.json
+          cp appfair.github.io/appcasks.json appfair.github.io/appcasks_old.json && touch appfair.github.io/appcasks_old.json
           fairtool brew appcasks \
             --verbose \
             --hub github.com/appfair \
@@ -170,7 +174,7 @@ jobs:
             -o appfair.github.io/appcasks.json
           
           # generate a difference of the catalogs for publication
-          diff appfair.github.io/appcasks.json appfair.github.io/appcasks-prev.json || true
+          diff appfair.github.io/appcasks.json appfair.github.io/appcasks_old.json || true
 
           cd appfair.github.io/
           git add appcasks.json

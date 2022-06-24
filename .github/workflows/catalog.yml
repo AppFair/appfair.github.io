@@ -111,9 +111,6 @@ jobs:
             --index appfair.github.io/fairapps-macos.md \
             -o appfair.github.io/fairapps-macos.json
 
-          # generate a difference of the catalogs for publication
-          diff appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json || true
-
           # update the catalog to include news items 
           fairtool source postrelease --from-catalog appfair.github.io/fairapps-macos_old.json --to-catalog appfair.github.io/fairapps-macos.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' --post-title 'New App Fair Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' --post-app-id 'app.#(appname_hyphenated)' --news-items 10 -o appfair.github.io/fairapps-macos_new.json
           mv appfair.github.io/fairapps-macos_new.json appfair.github.io/fairapps-macos.json
@@ -152,9 +149,6 @@ jobs:
 
           cd -
 
-          # generate a difference of the catalogs for publication
-          diff appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios_old.json || true
-
           # update the catalog to include news items 
           fairtool source postrelease --from-catalog appfair.github.io/fairapps-ios_old.json --to-catalog appfair.github.io/fairapps-ios.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' --post-title 'New App Fair Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' --post-app-id 'app.#(appname_hyphenated)' --news-items 10 -o appfair.github.io/fairapps-ios_new.json
           mv appfair.github.io/fairapps-ios_new.json appfair.github.io/fairapps-ios.json
@@ -177,8 +171,8 @@ jobs:
             --retry-duration 600 \
             -o appfair.github.io/appcasks.json
           
-          # generate a difference of the catalogs for publication
-          diff appfair.github.io/appcasks.json appfair.github.io/appcasks_old.json || true
+          # update the catalog to include news items 
+          fairtool source postrelease --from-catalog appfair.github.io/appcasks_old.json --to-catalog appfair.github.io/appcasks.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?cask=#(apptoken)">#(appname) #(appversion)"</a>' --post-title 'New Release on the App Fair: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?cask=#(apptoken)' --post-app-id '#(apptoken)' --news-items 50 -o appfair.github.io/appcasks_new.json
 
           cd appfair.github.io/
           git add appcasks.json

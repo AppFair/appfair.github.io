@@ -8,41 +8,41 @@
       ],
       "coreSize": 102480,
       "developerName": "fairapps <fairapps@appfair.org>",
-      "downloadCount": 4,
-      "downloadURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.32/Stanza-Redux-iOS.ipa",
-      "iconURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.32/Stanza-Redux.png",
-      "impressionCount": 12,
+      "downloadCount": 2,
+      "downloadURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux-iOS.ipa",
+      "iconURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux.png",
+      "impressionCount": 1,
       "issueCount": 0,
       "localizedDescription": "An electronic book reader",
-      "metadataURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.32/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
+      "metadataURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
       "name": "Stanza Redux",
       "permissions": [
         {
-          "type": "com.apple.security.network.client",
-          "usageDescription": "This app needs to access the network in order to access books"
-        },
-        {
           "type": "com.apple.security.files.user-selected.read-only",
           "usageDescription": "This app needs to read ebook files"
+        },
+        {
+          "type": "com.apple.security.network.client",
+          "usageDescription": "This app needs to access the network in order to access books"
         }
       ],
-      "readmeURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.32/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
+      "readmeURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.33/README.md#35ad623f3f981e1df9c6a71e324ed8766c66b272630b4e56f61ae856092de3bc",
       "screenshotURLs": [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.32/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.32/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.32/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.32/screenshot_04-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.32/screenshot_05-iphone-750x1334.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.33/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.33/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.33/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.33/screenshot_04-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.33/screenshot_05-iphone-750x1334.png"
       ],
-      "sha256": "058c9c9c4966fb2ecb1236ea6d3d7095408583c7ba70565f7f86922e9b8aaf6e",
-      "size": 8138949,
+      "sha256": "2d37f9cd98923e3033b1209225032454cfd68cc795b4f2e8f09c4fa2ed7341de",
+      "size": 8138940,
       "starCount": 1,
       "subtitle": "An electronic book reader",
       "tintColor": "00375C",
-      "version": "0.3.32",
-      "versionDate": "2022-06-24T06:18:50Z",
-      "versionDescription": "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.31...0.3.32",
-      "viewCount": 2,
+      "version": "0.3.33",
+      "versionDate": "2022-06-24T14:30:08Z",
+      "versionDescription": "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.32...0.3.33",
+      "viewCount": 1,
       "watcherCount": 0
     },
     {
@@ -56,7 +56,7 @@
       "downloadCount": 17,
       "downloadURL": "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out-iOS.ipa",
       "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out.png",
-      "impressionCount": 1561,
+      "impressionCount": 1564,
       "issueCount": 0,
       "localizedDescription": "Stream Internet Radio",
       "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.430/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",

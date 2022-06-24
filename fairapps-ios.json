@@ -718,7 +718,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.31/Stanza-Redux-iOS.ipa",
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.31/Stanza-Redux.png",
-      "impressionCount" : 0,
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.31/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -749,7 +749,7 @@
       "version" : "0.3.31",
       "versionDate" : "2022-06-24T05:41:41Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.30...0.3.31",
-      "viewCount" : 0,
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -1071,14 +1071,5 @@
   ],
   "identifier" : "appfair",
   "name" : "The App Fair iOS App Catalog",
-  "news" : [
-    {
-      "appID" : "app.Cloud-Cuckoo",
-      "caption" : "",
-      "date" : "2022-06-24T06:03:06Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.78",
-      "title" : "New App Fair Release: Cloud Cuckoo 0.9.78"
-    }
-  ],
   "sourceURL" : "https://www.appfair.net/fairapps-ios.json"
 }

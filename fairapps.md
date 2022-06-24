@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.76``](https://github.com/Cloud-Cuckoo/App/releases/0.9.76) | `1` | `1` | `6` | `2 MB` | `0` | `0` | `2022-06-24T04:43:03Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.55``](https://github.com/App-Fair/App/releases/0.8.55) | `10` | `3` | `33` | `8.5 MB` | `19` | [``4``](https://github.com/App-Fair/App/issues) | `2022-06-23T19:08:09Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.77``](https://github.com/Cloud-Cuckoo/App/releases/0.9.77) | `1` | `1` | `2` | `2 MB` | `0` | `0` | `2022-06-24T05:10:18Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.55``](https://github.com/App-Fair/App/releases/0.8.55) | `11` | `3` | `34` | `8.5 MB` | `19` | [``4``](https://github.com/App-Fair/App/issues) | `2022-06-23T19:08:09Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.30``](https://github.com/Stanza-Redux/App/releases/0.3.30) | `85` | `21` | `5` | `3.6 MB` | `1` | `0` | `2022-06-22T01:49:00Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.42``](https://github.com/Net-Skip/App/releases/0.0.42) | `1350` | `313` | `13` | `3.7 MB` | `0` | `0` | `2022-05-26T14:16:43Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `1339` | `297` | `24` | `4.5 MB` | `1` | `0` | `2022-05-24T14:45:09Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |

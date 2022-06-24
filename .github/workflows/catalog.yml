@@ -115,8 +115,8 @@ jobs:
           diff appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json || true
 
           # update the catalog to include news items 
-          fairtool source postrelease --from-catalog appfair.github.io/fairapps-macos_old.json --to-catalog appfair.github.io/fairapps-macos.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' --post-title 'New App Fair Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' --post-app-id 'app.#(appname_hyphenated)' --news-items 10 -o appfair.github.io/fairapps-macos.json.new
-          mv appfair.github.io/fairapps-macos.json.new appfair.github.io/fairapps-macos.json
+          fairtool source postrelease --from-catalog appfair.github.io/fairapps-macos_old.json --to-catalog appfair.github.io/fairapps-macos.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' --post-title 'New App Fair Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' --post-app-id 'app.#(appname_hyphenated)' --news-items 10 -o appfair.github.io/fairapps-macos_new.json
+          mv appfair.github.io/fairapps-macos_new.json appfair.github.io/fairapps-macos.json
 
           cd appfair.github.io/
           cp fairapps-macos.md fairapps.md
@@ -154,6 +154,10 @@ jobs:
 
           # generate a difference of the catalogs for publication
           diff appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios_old.json || true
+
+          # update the catalog to include news items 
+          fairtool source postrelease --from-catalog appfair.github.io/fairapps-ios_old.json --to-catalog appfair.github.io/fairapps-ios.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' --post-title 'New App Fair Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' --post-app-id 'app.#(appname_hyphenated)' --news-items 10 -o appfair.github.io/fairapps-ios_new.json
+          mv appfair.github.io/fairapps-ios_new.json appfair.github.io/fairapps-ios.json
 
           cd appfair.github.io/
           git add fairapps-ios.md fairapps-ios.json fairapps-altstore.json

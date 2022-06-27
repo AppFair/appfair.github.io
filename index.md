@@ -551,8 +551,8 @@ An example of an app source catalog with a single app is as follows:
 
 ```json
 {
-  "identifier": "unique.identifier",
   "name": "A Simple App Source Catalog",
+  "identifier": "com.appsource.catalog",
   "apps": [
     {
       "name": "App Name",
@@ -598,7 +598,41 @@ An example of an app source catalog with a single app is as follows:
 }
 ```
 
+#### App Catalog Properties
 
+The top level catalog contains the following properties:
+
+ - identifier: A unique identifier for the catalog in reverse DNS notation (e.g., "com.appsource.catalog").
+ - name: A localized name for the catalog (e.g., "A Simple App Source Catalog")
+ - apps:
+
+#### App Source Properties
+
+An element of the "apps" array will contain the following properties:
+
+ - name: Required.
+ - subtitle: Required.
+ - developerName: Required.
+ - localizedDescription: Required.
+ - bundleIdentifier: Required.
+ - iconURL: A URL for a 512x512 png icon for the app. Required.
+ - downloadURL: The URL of the .ipa archive of the app. Required.
+ - sha256: The SHA256 checksum of the contents of the `downloadURL`. Optional, but may become required.
+ - size: The size, in bytes, of the contents of the `downloadURL`. Optional, but may become required.
+ - version: The semantic version string for this version of the app. Required.
+ - versionDate: An ISO-8601 date string for this version of the app. Required.
+ - versionDescription: A description of the changes made to this version of the app. Required.
+ - screenshotURLs: An array of URL strings pointing to a PNG screenshot of the app. Optional.
+ - permissions: An array of permission definitions, one for each entitlement, background mode, and feature "*UsageDescription" in use by the app. Optional only if there are no permissions, entitlements, or background modes used by the app.
+
+#### Permission Types
+
+The properties of the elements of the `permissions` array will vary depending on what type
+of permission it describes. 
+
+ - usage: e.g., `NSBluetoothPeripheralUsageDescription`.
+ - background-mode: e.g., `audio`
+ - entitlement: e.g., `com.apple.developer.networking.multicast`
 
 ### Catalog Generation
 

@@ -23,9 +23,9 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.81``](https://github.com/Cloud-Cuckoo/App/releases/0.9.81) | `86` | `15` | `11` | `2 MB` | `0` | `0` | `2022-06-24T15:46:07Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.33``](https://github.com/Stanza-Redux/App/releases/0.3.33) | `93` | `17` | `2` | `3.7 MB` | `1` | `0` | `2022-06-24T14:30:08Z` | [`reference`](https://github.com/topics/appfair-reference)  |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.55``](https://github.com/App-Fair/App/releases/0.8.55) | `89` | `16` | `241` | `8.5 MB` | `19` | [``4``](https://github.com/App-Fair/App/issues) | `2022-06-23T19:08:09Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.81``](https://github.com/Cloud-Cuckoo/App/releases/0.9.81) | `87` | `15` | `11` | `2 MB` | `0` | `0` | `2022-06-24T15:46:07Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.33``](https://github.com/Stanza-Redux/App/releases/0.3.33) | `94` | `17` | `2` | `3.7 MB` | `1` | `0` | `2022-06-24T14:30:08Z` | [`reference`](https://github.com/topics/appfair-reference)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.55``](https://github.com/App-Fair/App/releases/0.8.55) | `89` | `16` | `242` | `8.5 MB` | `19` | [``4``](https://github.com/App-Fair/App/issues) | `2022-06-23T19:08:09Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.42``](https://github.com/Net-Skip/App/releases/0.0.42) | `1446` | `324` | `13` | `3.7 MB` | `0` | `0` | `2022-05-26T14:16:43Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `1427` | `312` | `24` | `4.5 MB` | `1` | `0` | `2022-05-24T14:45:09Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Title`](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `28` | `8` | `4` | `2.4 MB` | `0` | `0` | `2022-05-19T21:18:14Z` |  |

@@ -556,17 +556,26 @@ An example of an app source catalog with a single app is as follows:
   "apps": [
     {
       "name": "App Name",
-      "subtitle": "A brief and informative description of the app",
+      "subtitle": "A brief and informative description of the app",      
+      "localizedDescription": "A longer (max 1000 char) description of the app. Limited markdown permitted.",
+      
       "developerName": "Developer Name <developer@email.address>",
-      "localizedDescription": "A longer (max 1000 chars) description of the app. Limited markdown permitted.",
       "bundleIdentifier": "app.bundle.identifier.from.info.plist",
       "iconURL": "https://domain.name/assets/icon_512x512.png",
-      "downloadURL": "https://domain.name/permanent/link/to/download.ipa",
-      "sha256": "74247c3e_sha_256_checksum_of_downloadURL_8a3b671143404681da26b96f",
-      "size": 3503022,
+      
       "version": "1.8.0",
       "versionDate": "2022-03-12T10:31:59Z",
-      "versionDescription": "A description (max 1000 chars) of what has changed in this release. Limited markdown permitted.",
+      "versionDescription": "A description (max 1000 char) of what has changed in this release. Limited markdown permitted.",
+      
+      "downloadURL": "https://domain.name/permanent/link/to/app_version_1_8_0.ipa",
+      "sha256": "74247c3e_sha_256_checksum_of_downloadURL_8a3b671143404681da26b96f",
+      "size": 3503022,
+      
+      "screenshotURLs": [
+        "https://domain.name/assets/screenshot_01-iphone-light-750x1334.png",
+        "https://domain.name/assets/screenshot_02-iphone-dark-750x1334.png"
+      ],
+      
       "permissions": [
         {
           "type": "usage",
@@ -585,13 +594,9 @@ An example of an app source catalog with a single app is as follows:
         },
         {
           "type": "entitlement",
-          "entitlement": "com.apple.developer.networking.multicast",
+          "entitlement": "com.vendor.developer.networking.multicast",
           "usageDescription": "Attestation of this app's multicast entitlement purpose."
         }
-      ],
-      "screenshotURLs": [
-        "https://domain.name/assets/screenshot_01-iphone-light-750x1334.png",
-        "https://domain.name/assets/screenshot_02-iphone-dark-750x1334.png"
       ]
     }
   ]
@@ -602,42 +607,47 @@ An example of an app source catalog with a single app is as follows:
 
 The top level catalog contains the following properties:
 
- - identifier: A unique identifier for the catalog in reverse DNS notation (e.g., "com.appsource.catalog").
- - name: A localized name for the catalog (e.g., "A Simple App Source Catalog")
- - apps:
+ - `identifier`: A unique identifier for the catalog in reverse DNS notation (e.g., "com.appsource.catalog").
+ - `name`: A localized name for the catalog (e.g., "A Simple App Source Catalog")
+ - `apps`: An array of the apps that are available from this app source catalog.
 
 #### App Source Properties
 
 An element of the "apps" array will contain the following properties:
 
- - name: Required.
- - subtitle: Required.
- - developerName: Required.
- - localizedDescription: Required.
- - bundleIdentifier: Required.
- - iconURL: A URL for a 512x512 png icon for the app. Required.
- - downloadURL: The URL of the .ipa archive of the app. Required.
- - sha256: The SHA256 checksum of the contents of the `downloadURL`. Optional, but may become required.
- - size: The size, in bytes, of the contents of the `downloadURL`. Optional, but may become required.
- - version: The semantic version string for this version of the app. Required.
- - versionDate: An ISO-8601 date string for this version of the app. Required.
- - versionDescription: A description of the changes made to this version of the app. Required.
- - screenshotURLs: An array of URL strings pointing to a PNG screenshot of the app. Optional.
- - permissions: An array of permission definitions, one for each entitlement, background mode, and feature "*UsageDescription" in use by the app. Optional only if there are no permissions, entitlements, or background modes used by the app.
+ - `name`: The name of the app. Must match the value of the `CFBundleName` property in the `Info.plist` file.
+ - `subtitle`: A single-line concisely (80 char limit) describing what the app does. Required.
+ - `localizedDescription`: A description of this app. Supports limited markdown (e.g., bold and italics). Required.
+ 
+ - `developerName`: The name and e-mail address of the primary developer of the app, in the form `Developer Name <developer@email.address>`. Required.
+ - `bundleIdentifier`: The value of the `CFBundleIdentifier` property in the `Info.plist` file. Required.
+ - `iconURL`: A URL for a 512x512 `.png` icon for the app. Required.
+ 
+ - `version`: The semantic version string for this version of the app. Must match the value of the `CFBundleShortVersionString` property in the `Info.plist`. Required.
+ - `versionDate`: An ISO-8601 date string for this version of the app. Required.
+ - `versionDescription`: A description of the changes made to this version of the app. Required.
+  
+ - `downloadURL`: The URL of the `.ipa` or `.zip` archive of the app. Required.
+ - `sha256`: The SHA256 checksum of the contents of the `downloadURL`. Optional, but may become required.
+ - `size`: The size, in bytes, of the contents of the `downloadURL`. Optional, but may become required.
+ 
+ - `screenshotURLs`: An array of URL strings pointing to a PNG screenshot of the app. Optional.
+ - `permissions`: An array of permission definitions, one for each entitlement, background mode, and feature "*UsageDescription" in use by the app. Optional only if there are no permissions, entitlements, or background modes used by the app.
 
 #### Permission Types
 
 The properties of the elements of the `permissions` array will vary depending on what type
 of permission it describes. 
 
- - usage: e.g., `NSBluetoothPeripheralUsageDescription`.
- - background-mode: e.g., `audio`
- - entitlement: e.g., `com.apple.developer.networking.multicast`
+ - `usage`: e.g., `NSBluetoothPeripheralUsageDescription`.
+ - `background-mode`: e.g., `audio`
+ - `entitlement`: e.g., `keychain-access-groups` or `com.vendor.entitlement.id`
 
 ### Catalog Generation
 
 The catalog is automatically constructed from the list of all the [forks of the appfair/App.git](https://github.com/appfair/App/network/members) who have passed the `integrate-release` stages and have a released artifact, and whose organizations are valid (e.g., have a valid app name and have issues and discussions enabled).
-The [fairtool](#fairtool) is used to generate the catalog using the GitHub GraphQL API.
+
+The [fairtool](#fairtool) `fair catalog` command is used to generate the catalog using the GitHub GraphQL API.
 
 ### Homebrew Cask
 
@@ -667,7 +677,7 @@ by the <a href="https://appfair.app" target="_blank">`App Fair.app`</a>.
 In addition, switching between stable and pre-release
 versions of apps will require first un-installing
 the alternate version, since `Homebrew` will not know
-that the two different forms of the app are releated.
+that the two different forms of the app are related.
 
 Issues between Homebrew and <a href="https://appfair.app" target="_blank">`App Fair.app`</a>
 can often be mitigated with the `--force` flag to the `brew command`.
@@ -1323,7 +1333,7 @@ Typically, the source errors is the format of the `NOTARY_CERTKEY_P12_BASE64` se
 
 ### How are App Fair apps scanned for viruses and malware?
 
-In addition to any automated scans of release aritifcats by the
+In addition to any automated scans of release artifacts by the
 hosting platform itself (GitHub), the `integrate-release` stage
 runs a virus and malware scanner on the binaries before
 issuing a `fairseal`.
@@ -1440,7 +1450,7 @@ Also, GitHub forks cannot utilize git's [Large File Support (LFS)](https://docs.
 
 It is possible to structure the Swift Package Manager project so it depends on a resource-only package (such as with the sample app:  [Sita-Sings-the-Blues/App](https://github.com/Sita-Sings-the-Blues/App.git) and [Sita-Sings-the-Blues/Media](https://github.com/Sita-Sings-the-Blues/Media.git)), however these package still cannot use LFS due to issues with [SPM](https://forums.swift.org/t/swiftpm-with-git-lfs/42396).
 
-Other than structuring the app to dyamically download the large resources post-installation, the only other solution is to split up the media into multiple separate files and re-assemble them at runtime.
+Other than structuring the app to dynamically download the large resources post-installation, the only other solution is to split up the media into multiple separate files and re-assemble them at runtime.
 One possible way to do this is with a command like `split -b 50m My_Large_Movie.mp4`, which will split up the resource into multiple files each 50 megabytes or less, and thereby suitable for inclusion within a package.
 
 ### My app's code mostly resides in an external Package. How can I make a release when only the dependent package has changed?

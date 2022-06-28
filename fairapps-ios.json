@@ -49,32 +49,32 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 6,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.88/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.88/Cloud-Cuckoo.png",
-      "impressionCount" : 1,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.89/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.89/Cloud-Cuckoo.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.88/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.89/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.88/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.89/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.88/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.88/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.88/screenshot_03-iphone-750x1334.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.89/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.89/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.89/screenshot_02-iphone-750x1334.png"
       ],
-      "sha256" : "64326f2b36981bd2dc700628a5156b5539e7aa55027c85cad574be720c3826d7",
-      "size" : 5134433,
+      "sha256" : "25e400f3bdd9774fec51de5ea4a41a38eff074331a59f4f78ab99ad278178686",
+      "size" : 5134406,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.88",
-      "versionDate" : "2022-06-28T06:13:47Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.87...0.9.88",
-      "viewCount" : 1,
+      "version" : "0.9.89",
+      "versionDate" : "2022-06-28T07:44:19Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.88...0.9.89",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -718,7 +718,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux-iOS.ipa",
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux.png",
-      "impressionCount" : 138,
+      "impressionCount" : 140,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -749,7 +749,7 @@
       "version" : "0.3.33",
       "versionDate" : "2022-06-24T14:30:08Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.32...0.3.33",
-      "viewCount" : 26,
+      "viewCount" : 27,
       "watcherCount" : 0
     },
     {
@@ -829,7 +829,7 @@
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out.png",
-      "impressionCount" : 9,
+      "impressionCount" : 10,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -854,7 +854,7 @@
       "version" : "0.8.436",
       "versionDate" : "2022-06-27T23:44:14Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.435...0.8.436",
-      "viewCount" : 3,
+      "viewCount" : 4,
       "watcherCount" : 0
     },
     {
@@ -1044,9 +1044,9 @@
     {
       "appID" : "app.Cloud-Cuckoo",
       "caption" : "",
-      "date" : "2022-06-28T06:36:24Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.88",
-      "title" : "New Release: Cloud Cuckoo 0.9.88"
+      "date" : "2022-06-28T07:55:08Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.89",
+      "title" : "New Release: Cloud Cuckoo 0.9.89"
     }
   ],
   "sourceURL" : "https://www.appfair.net/fairapps-ios.json"

@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.436``](https://github.com/Tune-Out/App/releases/0.8.436) | `0` | `0` | `1` | `17.3 MB` | `0` | `0` | `2022-06-27T23:44:14Z` | [`music`](https://github.com/topics/appfair-music)  |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.85``](https://github.com/Cloud-Cuckoo/App/releases/0.9.85) | `2` | `1` | `2` | `5.1 MB` | `0` | `0` | `2022-06-27T23:00:18Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.436``](https://github.com/Tune-Out/App/releases/0.8.436) | `1` | `1` | `1` | `17.3 MB` | `0` | `0` | `2022-06-27T23:44:14Z` | [`music`](https://github.com/topics/appfair-music)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.85``](https://github.com/Cloud-Cuckoo/App/releases/0.9.85) | `2` | `1` | `6` | `5.1 MB` | `0` | `0` | `2022-06-27T23:00:18Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.33``](https://github.com/Stanza-Redux/App/releases/0.3.33) | `131` | `26` | `3` | `8.1 MB` | `1` | `0` | `2022-06-24T14:30:08Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.42``](https://github.com/Net-Skip/App/releases/0.0.42) | `1471` | `329` | `2` | `9.3 MB` | `0` | `0` | `2022-05-26T14:16:43Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`Tweet Storm`](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `118` | `9` | `3` | `6.4 MB` | `0` | `0` | `2022-05-01T12:44:04Z` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |

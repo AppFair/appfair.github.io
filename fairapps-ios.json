@@ -52,7 +52,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.85/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.85/Cloud-Cuckoo.png",
-      "impressionCount" : 1,
+      "impressionCount" : 2,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.85/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -718,7 +718,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux-iOS.ipa",
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux.png",
-      "impressionCount" : 130,
+      "impressionCount" : 131,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -826,35 +826,35 @@
       ],
       "coreSize" : 103112,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 17,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Tune-Out.png",
-      "impressionCount" : 1675,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
       "name" : "Tune Out",
       "permissions" : [
         {
-          "type" : "network.client",
+          "type" : "com.apple.security.network.client",
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.430/README.md#60ac0e9bc21e80204b0b588b0d89fc0678d0462f8c3d572b713b4e7db4d7896a",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/README.md#3e971d17f66a342aa7e8b5b2c0068075fe8aa8a95fa12658e60aa98621bcc325",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.430/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.430/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.430/screenshot_03-iphone-1170x2532.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.436/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.436/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.436/screenshot_03-iphone-1170x2532.png"
       ],
-      "sha256" : "fe1398fb20726aa32a34a3766a96ad37eea80f89b1220c0a9ce54609bb71c42f",
-      "size" : 17244108,
+      "sha256" : "60e842b9a4807c3536efc011521ba9e6d7524f78da7491c0dbcd9a5d9a4ebdd4",
+      "size" : 17265187,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.430",
-      "versionDate" : "2022-04-20T15:15:12Z",
-      "versionDescription" : "Release 0.8.430",
-      "viewCount" : 380,
+      "version" : "0.8.436",
+      "versionDate" : "2022-06-27T23:44:14Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.435...0.8.436",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -1040,6 +1040,13 @@
       "date" : "2022-06-27T23:18:11Z",
       "identifier" : "release-app.Cloud-Cuckoo-0.9.85",
       "title" : "New App Fair Release: Cloud Cuckoo 0.9.85"
+    },
+    {
+      "appID" : "app.Tune-Out",
+      "caption" : "",
+      "date" : "2022-06-28T00:08:41Z",
+      "identifier" : "release-app.Tune-Out-0.8.436",
+      "title" : "New App Fair Release: Tune Out 0.8.436"
     }
   ],
   "sourceURL" : "https://www.appfair.net/fairapps-ios.json"

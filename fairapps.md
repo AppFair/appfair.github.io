@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.90``](https://github.com/Cloud-Cuckoo/App/releases/0.9.90) | `0` | `0` | `1` | `2 MB` | `0` | `0` | `2022-06-28T21:16:45Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.90``](https://github.com/Cloud-Cuckoo/App/releases/0.9.90) | `1` | `1` | `1` | `2 MB` | `0` | `0` | `2022-06-28T21:16:45Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.436``](https://github.com/Tune-Out/App/releases/0.8.436) | `33` | `6` | `5` | `9.4 MB` | `0` | `0` | `2022-06-27T23:44:14Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.33``](https://github.com/Stanza-Redux/App/releases/0.3.33) | `162` | `27` | `3` | `3.7 MB` | `1` | `0` | `2022-06-24T14:30:08Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.55``](https://github.com/App-Fair/App/releases/0.8.55) | `132` | `28` | `328` | `8.5 MB` | `19` | [``4``](https://github.com/App-Fair/App/issues) | `2022-06-23T19:08:09Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |

@@ -27,16 +27,12 @@
         }
       ],
       "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "f936848d11738610a8fa1e6f7cef7db795ef337cb5a4fb71703b7c879c1ba588",
       "size" : 5934877,
       "starCount" : 1,
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
       "version" : "0.2.33",
-      "versionDate" : "2022-01-24T01:55:01Z",
       "versionDescription" : "Release 0.2.33",
       "viewCount" : 43,
       "watcherCount" : 0
@@ -49,10 +45,10 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 20,
+      "downloadCount" : 24,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.90/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.90/Cloud-Cuckoo.png",
-      "impressionCount" : 30,
+      "impressionCount" : 31,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.90/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -72,9 +68,8 @@
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
       "version" : "0.9.90",
-      "versionDate" : "2022-06-28T21:16:45Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.89...0.9.90",
-      "viewCount" : 6,
+      "viewCount" : 7,
       "watcherCount" : 0
     },
     {
@@ -97,15 +92,11 @@
 
       ],
       "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "aae320c8f7a9295fb79840e507ee24918963da8f5ea6e9e115a2e63fc36b6a34",
       "size" : 5901949,
       "starCount" : 0,
       "subtitle" : "Putting the pieces back together",
       "version" : "0.0.4",
-      "versionDate" : "2022-01-23T23:13:56Z",
       "versionDescription" : "Release 0.0.4",
       "viewCount" : 60,
       "watcherCount" : 0
@@ -130,15 +121,11 @@
 
       ],
       "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "4548b4e560513a5e424f4c7de38a83d4e839a31c3f287d880fb6c5b9b644cb8f",
       "size" : 5951996,
       "starCount" : 0,
       "subtitle" : "An urban street guide",
       "version" : "0.0.3",
-      "versionDate" : "2022-01-25T00:49:11Z",
       "versionDescription" : "Release 0.0.3",
       "viewCount" : 31,
       "watcherCount" : 0
@@ -166,15 +153,11 @@
         }
       ],
       "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "f63a5d599aa3b4da65ac447bcb4ec810a30041cf00ee6d9d5a662ddaf4ce8329",
       "size" : 6063708,
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
       "version" : "0.0.32",
-      "versionDate" : "2022-01-24T02:35:43Z",
       "versionDescription" : "Release 0.0.32",
       "viewCount" : 25,
       "watcherCount" : 0
@@ -199,15 +182,11 @@
 
       ],
       "readmeURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "b99b78682936f8aefa0b6a200a11ec130a676382617e5dff0b6279f13b96c61e",
       "size" : 5782409,
       "starCount" : 0,
       "subtitle" : "A true Festivus celebration",
       "version" : "0.0.3",
-      "versionDate" : "2022-01-23T23:13:54Z",
       "versionDescription" : "Release 0.0.3",
       "viewCount" : 31,
       "watcherCount" : 0
@@ -232,15 +211,11 @@
 
       ],
       "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "cb968bf552f4ca502a9e0f2fa2e384094bc63b242b6fbfc015ee2b254a194144",
       "size" : 6021250,
       "starCount" : 0,
       "subtitle" : "There, I fixed the web for you. You're welcome.",
       "version" : "0.0.4",
-      "versionDate" : "2022-01-23T23:13:52Z",
       "versionDescription" : "Release 0.0.4",
       "viewCount" : 33,
       "watcherCount" : 0
@@ -268,15 +243,11 @@
         }
       ],
       "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "79fe5d1353047d72b08012bee4a8b6d5a89b747d818039114a67b8fe504a5ae8",
       "size" : 5905243,
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
       "version" : "0.3.38",
-      "versionDate" : "2022-01-26T22:12:32Z",
       "versionDescription" : "Release 0.3.38",
       "viewCount" : 33,
       "watcherCount" : 0
@@ -314,7 +285,6 @@
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
       "version" : "0.0.19",
-      "versionDate" : "2022-04-06T16:11:00Z",
       "versionDescription" : "Release 0.0.19",
       "viewCount" : 29,
       "watcherCount" : 0
@@ -352,7 +322,6 @@
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
       "version" : "0.0.87",
-      "versionDate" : "2022-04-06T15:01:42Z",
       "versionDescription" : "Release 0.0.87",
       "viewCount" : 35,
       "watcherCount" : 0
@@ -377,15 +346,11 @@
 
       ],
       "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/README.md#ae462023f2e2674a5dcd57187d4c9875b2d5c1adfb9ab96b2f79988a7fe11e2d",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "5980c1822002555108ed26d90bc56bb414ef5af9a04eef7d09354061184cad18",
       "size" : 18873120,
       "starCount" : 0,
       "subtitle" : "An offline recipe book",
       "version" : "0.0.15",
-      "versionDate" : "2022-01-24T14:09:10Z",
       "versionDescription" : "Release 0.0.15",
       "viewCount" : 29,
       "watcherCount" : 0
@@ -410,15 +375,11 @@
 
       ],
       "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "aee8dab053539a8dd577180ad90fad30176e6515f4314fb523405bf3e79c54f0",
       "size" : 5959870,
       "starCount" : 0,
       "subtitle" : "Art imitating Life (imitating Art)",
       "version" : "0.0.17",
-      "versionDate" : "2022-01-24T04:09:17Z",
       "versionDescription" : "Release 0.0.17",
       "viewCount" : 30,
       "watcherCount" : 0
@@ -443,15 +404,11 @@
 
       ],
       "readmeURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "16700d8e1ae746bcf605dd14891d7041e0c53239133aefaf6a8a35f49ceafead",
       "size" : 6462991,
       "starCount" : 0,
       "subtitle" : "A name picking app",
       "version" : "0.0.24",
-      "versionDate" : "2022-02-12T14:56:58Z",
       "versionDescription" : "Release 0.0.24",
       "viewCount" : 29,
       "watcherCount" : 0
@@ -467,7 +424,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip-iOS.ipa",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "impressionCount" : 1514,
+      "impressionCount" : 1515,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -492,7 +449,6 @@
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
       "version" : "0.0.42",
-      "versionDate" : "2022-05-26T14:16:43Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42",
       "viewCount" : 333,
       "watcherCount" : 0
@@ -544,15 +500,11 @@
         }
       ],
       "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/README.md#f9af449c34702872740ca1db657be31a62c8caa3f1dc77e96d64a0fb040ef186",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "7e76b57e37b5ae275fbd940aa08ae1d6006524db101a412601f0f75b7089f7a1",
       "size" : 8658102,
       "starCount" : 0,
       "subtitle" : "Brain scanner",
       "version" : "0.0.45",
-      "versionDate" : "2021-12-04T02:37:55Z",
       "versionDescription" : "Release 0.0.45",
       "viewCount" : 3,
       "watcherCount" : 0
@@ -580,15 +532,11 @@
         }
       ],
       "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "8baacf975e437188e6684aae05ca35b9c9370cc8ee6f35df54f51ca028d8e389",
       "size" : 5833409,
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
       "version" : "0.4.8",
-      "versionDate" : "2021-12-06T03:02:59Z",
       "versionDescription" : "Release 0.4.8",
       "viewCount" : 13,
       "watcherCount" : 0
@@ -613,16 +561,12 @@
 
       ],
       "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "37b8c56673fde758a3fdebf24030907ef25a0e93b3ab8e7be577549768b324a8",
       "size" : 6493112,
       "starCount" : 0,
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
       "version" : "0.2.22",
-      "versionDate" : "2022-01-24T11:51:13Z",
       "versionDescription" : "Release 0.2.22",
       "viewCount" : 25,
       "watcherCount" : 0
@@ -658,15 +602,11 @@
         }
       ],
       "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "3ade2e59fda3b8470e8bebdca711f61906e0a197e73deb00b813d6889f7dbfc0",
       "size" : 6071057,
       "starCount" : 0,
       "subtitle" : "Query Like a Boss",
       "version" : "0.0.3",
-      "versionDate" : "2022-01-24T16:11:25Z",
       "versionDescription" : "Release 0.0.3",
       "viewCount" : 2,
       "watcherCount" : 0
@@ -702,7 +642,6 @@
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
       "version" : "0.0.49",
-      "versionDate" : "2022-04-08T08:53:44Z",
       "versionDescription" : "Release 0.0.49",
       "viewCount" : 34,
       "watcherCount" : 0
@@ -718,7 +657,7 @@
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux-iOS.ipa",
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux.png",
-      "impressionCount" : 187,
+      "impressionCount" : 188,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -747,7 +686,6 @@
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
       "version" : "0.3.33",
-      "versionDate" : "2022-06-24T14:30:08Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.32...0.3.33",
       "viewCount" : 32,
       "watcherCount" : 0
@@ -772,15 +710,11 @@
 
       ],
       "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "5b3f5ec202a63f4b1df928211474562850519c362c7a2c295b35bdc214393c87",
       "size" : 6362176,
       "starCount" : 0,
       "subtitle" : "What tide is it right now?",
       "version" : "0.0.20",
-      "versionDate" : "2022-02-12T16:07:15Z",
       "versionDescription" : "Release 0.0.20",
       "viewCount" : 31,
       "watcherCount" : 0
@@ -805,15 +739,11 @@
 
       ],
       "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "96812134feb788e0258dd905b1f6fd9c8c9749aaa41008e580dfdeb68c42e578",
       "size" : 6274381,
       "starCount" : 0,
       "subtitle" : "A little quiz game",
       "version" : "0.0.16",
-      "versionDate" : "2022-02-12T16:07:11Z",
       "versionDescription" : "Release 0.0.16",
       "viewCount" : 17,
       "watcherCount" : 0
@@ -829,7 +759,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out-iOS.ipa",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out.png",
-      "impressionCount" : 62,
+      "impressionCount" : 63,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -852,7 +782,6 @@
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
       "version" : "0.8.436",
-      "versionDate" : "2022-06-27T23:44:14Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.435...0.8.436",
       "viewCount" : 12,
       "watcherCount" : 0
@@ -877,15 +806,11 @@
 
       ],
       "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "aeb2ff06d3230234d3b1934b86218fca5e50e77556f92c91015b93e8ecf9f937",
       "size" : 6408682,
       "starCount" : 0,
       "subtitle" : "Unleash your inner dialog",
       "version" : "0.0.12",
-      "versionDate" : "2022-05-01T12:44:04Z",
       "versionDescription" : "Release 0.0.12",
       "viewCount" : 9,
       "watcherCount" : 0
@@ -910,15 +835,11 @@
 
       ],
       "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "0d990f2da3e4d93fac853b232e32b397244065f86f4d8a15225ae7ade858f9f6",
       "size" : 5854777,
       "starCount" : 0,
       "subtitle" : "A bit of lite reading",
       "version" : "0.0.7",
-      "versionDate" : "2022-01-21T14:04:24Z",
       "versionDescription" : "Release 0.0.7",
       "viewCount" : 30,
       "watcherCount" : 0
@@ -943,15 +864,11 @@
 
       ],
       "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "61449d391d94f26f64db6c535992d631357c48250bdadf06cdd6aa54fac87d90",
       "size" : 5930811,
       "starCount" : 0,
       "subtitle" : "An unclear app",
       "version" : "0.0.5",
-      "versionDate" : "2022-01-25T00:48:27Z",
       "versionDescription" : "Release 0.0.5",
       "viewCount" : 19,
       "watcherCount" : 0
@@ -976,15 +893,11 @@
 
       ],
       "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "5656df5821dfdc7fca752162de28462294119b818417d0ac19a5bc400167889a",
       "size" : 14882780,
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
       "version" : "0.0.35",
-      "versionDate" : "2021-12-04T14:58:06Z",
       "versionDescription" : "Release 0.0.35",
       "viewCount" : 192,
       "watcherCount" : 0
@@ -1009,16 +922,12 @@
 
       ],
       "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-
-      ],
       "sha256" : "bd2f3452bde28bec01c441da80e7d6404aa9ab5806a34d10d5d18481c6ee4182",
       "size" : 5992847,
       "starCount" : 0,
       "subtitle" : "Old-time horse trading",
       "tintColor" : "3C82C1",
       "version" : "0.0.11",
-      "versionDate" : "2022-01-24T14:24:10Z",
       "versionDescription" : "Release 0.0.11",
       "viewCount" : 25,
       "watcherCount" : 0

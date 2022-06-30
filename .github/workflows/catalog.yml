@@ -88,7 +88,7 @@ jobs:
             --from-catalog appfair.github.io/fairapps-macos_old.json \
             --to-catalog appfair.github.io/fairapps-macos.json \
             --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' \
-                                                                                                                --post-title 'New Release: #(appname) #(appversion)' \
+            --post-title 'New Release: #(appname) #(appversion)' \
             --post-title-update 'New Release: #(appname) #(appversion)' \
             --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
             --post-app-id 'app.#(appname_hyphenated)' \
@@ -139,6 +139,7 @@ jobs:
             --to-catalog appfair.github.io/fairapps-ios.json \
             --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' \
             --post-title 'New Release: #(appname) #(appversion)' \
+            --post-title-update 'New Release: #(appname) #(appversion)' \
             --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
             --post-app-id 'app.#(appname_hyphenated)' \
             --post-caption "#(appname) #(oldappversion) released" \
@@ -175,6 +176,7 @@ jobs:
             --to-catalog appfair.github.io/appcasks.json \
             --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?cask=#(apptoken)">#(appname) #(appversion)"</a>' \
             --post-title 'New Release: #(appname) #(appversion)' \
+            --post-title-update 'New Release: #(appname) #(appversion)' \
             --post-url 'https://appfair.app/fair?cask=#(apptoken)' \
             --post-app-id '#(apptoken)' \
             --post-caption "#(appname) #(oldappversion) released" \

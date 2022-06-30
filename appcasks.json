@@ -10,7 +10,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 3070,
+      "impressionCount" : 3071,
       "localizedDescription" : "",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -41,7 +41,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.47.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 3337,
+      "impressionCount" : 3338,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -72,7 +72,7 @@
       "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0/mac/en-US/Firefox%20102.0.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 3690,
+      "impressionCount" : 3691,
       "localizedDescription" : "",
       "name" : "Mozilla Firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -101,7 +101,7 @@
       "downloadURL" : "https://c-command.com/downloads/EagleFiler-1.9.8.dmg",
       "homepage" : "https://c-command.com/eaglefiler/",
       "iconURL" : "https://github.com/C-Command-Software/appcasks/releases/download/cask-eaglefiler/AppIcon.png",
-      "impressionCount" : 1548,
+      "impressionCount" : 1549,
       "localizedDescription" : "",
       "name" : "EagleFiler",
       "readmeURL" : "https://github.com/C-Command-Software/appcasks/releases/download/cask-eaglefiler/README.md",
@@ -134,7 +134,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 2956,
+      "impressionCount" : 2957,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -165,7 +165,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 3328,
+      "impressionCount" : 3329,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -188,7 +188,7 @@
       "downloadURL" : "https://dl.discordapp.net/apps/osx/0.0.267/Discord.dmg",
       "homepage" : "https://discord.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 2885,
+      "impressionCount" : 2886,
       "localizedDescription" : "Voice and text chat software",
       "name" : "Discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
@@ -215,7 +215,7 @@
       "downloadURL" : "https://emacsformacosx.com/emacs-builds/Emacs-28.1-4-universal.dmg",
       "homepage" : "https://emacsformacosx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 2754,
+      "impressionCount" : 2755,
       "localizedDescription" : "Text editor",
       "name" : "Emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
@@ -242,7 +242,7 @@
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 3286,
+      "impressionCount" : 3287,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -1751,7 +1751,7 @@
       "downloadURL" : "https://kapeli.com/downloads/v6/Dash.zip",
       "homepage" : "https://kapeli.com/dash",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dash/AppIcon.png",
-      "impressionCount" : 1652,
+      "impressionCount" : 1653,
       "localizedDescription" : "API documentation browser and code snippet manager",
       "name" : "Dash",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dash/README.md",
@@ -6280,8 +6280,7 @@
       "sha256" : "f9c89ed1d325c766317f9fabdd78a917aec7e78f120e76b20ee9dc4d6b6c37f0",
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
-      "version" : "2489,d739e68e",
-      "versionDate" : "2022-06-30T00:00:00Z"
+      "version" : "2489,d739e68e"
     },
     {
       "beta" : false,
@@ -10070,8 +10069,7 @@
       "sha256" : "ed4272f3d61db40d94a366bf58d4d6ae0c549f920a8a91752b4e98f2add01a87",
       "subtitle" : "Tool to run web apps like desktop apps",
       "tintColor" : "75A3D7",
-      "version" : "43.4.1",
-      "versionDate" : "2022-06-30T00:00:00Z"
+      "version" : "43.4.1"
     },
     {
       "beta" : false,
@@ -20283,8 +20281,7 @@
       "name" : "Monal",
       "subtitle" : "Tool to securely connect to chat servers",
       "tintColor" : "49D9E5",
-      "version" : "5.2.0,794",
-      "versionDate" : "2022-06-30T00:00:00Z"
+      "version" : "5.2.0,794"
     },
     {
       "beta" : false,
@@ -36466,16 +36463,17 @@
       "beta" : false,
       "bundleIdentifier" : "mucommander",
       "downloadCount" : 191,
-      "downloadURL" : "https://github.com/mucommander/mucommander/releases/download/1.0.0-1/muCommander-1.0.0-1.dmg",
+      "downloadURL" : "https://github.com/mucommander/mucommander/releases/download/1.0.1-1/muCommander-1.0.1-1.dmg",
       "homepage" : "https://www.mucommander.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mucommander/AppIcon.png",
       "impressionCount" : 26,
       "localizedDescription" : "File manager with a dual-pane interface",
       "name" : "muCommander",
-      "sha256" : "7af739c4807202ce56dac95ab980ae0f3ca6abf06393b6ab68382cc67301bae9",
+      "sha256" : "1a2df75b5defa1b69ec2e4a2f9d50d3b8b9c9bcfc312d96dd807fefe807fa38f",
       "subtitle" : "File manager with a dual-pane interface",
       "tintColor" : "2192B8",
-      "version" : "1.0.0-1"
+      "version" : "1.0.1-1",
+      "versionDate" : "2022-06-30T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51075,8 +51073,7 @@
       "name" : "Vysor",
       "sha256" : "4d2ac58a7d0bf7e71dc8d6c4d341e13a7b34ab57fd0f2fbb25e76a6d2cefee76",
       "subtitle" : "Mirror and control your phone",
-      "version" : "4.2.3",
-      "versionDate" : "2022-06-30T00:00:00Z"
+      "version" : "4.2.3"
     },
     {
       "beta" : false,
@@ -57403,8 +57400,7 @@
       "name" : "Unity WebGL Build Support",
       "sha256" : "a910f7bcea3463bccc33761bb54d176170e4ac890fcfd98f967046af4547eeca",
       "subtitle" : "WebGL target support for Unity",
-      "version" : "2022.1.7f1,240f4c1f462c",
-      "versionDate" : "2022-06-30T00:00:00Z"
+      "version" : "2022.1.7f1,240f4c1f462c"
     },
     {
       "beta" : false,
@@ -58215,8 +58211,7 @@
       "name" : "Unity iOS Build Support",
       "sha256" : "660cd3fcfe21ff7c30b1d90499b88c67d520ef0847e0962bccccc41b12d553b3",
       "subtitle" : "iOS target support for Unity",
-      "version" : "2022.1.7f1,240f4c1f462c",
-      "versionDate" : "2022-06-30T00:00:00Z"
+      "version" : "2022.1.7f1,240f4c1f462c"
     },
     {
       "beta" : false,
@@ -59190,8 +59185,7 @@
       "name" : "Unity Windows (Mono) Build Support",
       "sha256" : "e1d10cf5408665ee7212f64252d8780493bb45707aa3681a61367d8dce4db1c1",
       "subtitle" : "Windows (Mono) target support for Unity",
-      "version" : "2022.1.7f1,240f4c1f462c",
-      "versionDate" : "2022-06-30T00:00:00Z"
+      "version" : "2022.1.7f1,240f4c1f462c"
     },
     {
       "beta" : false,
@@ -59244,13 +59238,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "App Fair AppCasks",
   "news" : [
-    {
-      "appID" : "syncalicious",
-      "caption" : "",
-      "date" : "2022-06-30T05:18:01Z",
-      "identifier" : "release-syncalicious-0.0.6",
-      "title" : "New Release: Syncalicious 0.0.6"
-    },
     {
       "appID" : "syncroom",
       "caption" : "",
@@ -59943,6 +59930,13 @@
       "date" : "2022-06-30T07:19:12Z",
       "identifier" : "release-unity-windows-support-for-editor-2022.1.7f1,240f4c1f462c",
       "title" : "New Release: Unity Windows (Mono) Build Support 2022.1.7f1,240f4c1f462c"
+    },
+    {
+      "appID" : "mucommander",
+      "caption" : "",
+      "date" : "2022-06-30T08:23:36Z",
+      "identifier" : "release-mucommander-1.0.1-1",
+      "title" : "New Release: muCommander 1.0.1-1"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

@@ -208,4 +208,3 @@ jobs:
           git add .
           git commit -m "cask update" || echo "nothing to commit"
           git push
-

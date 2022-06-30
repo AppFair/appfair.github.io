@@ -139,7 +139,6 @@ jobs:
             --verbose \
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
-            --promote-apps "${{ secrets.APP_FAIR_PROMOTED_APPS }}" \
             --merge-cask-info "https://formulae.brew.sh/api/cask.json" \
             --boost-factor 100000 \
             --retry-duration 600 \

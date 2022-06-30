@@ -8,11 +8,11 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 382,
+      "downloadCount" : 383,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.55/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.55/App-Fair.png",
-      "impressionCount" : 161,
+      "impressionCount" : 162,
       "issueCount" : 4,
       "localizedDescription" : "The App Fair catalog browser for discovering & installing macOS apps",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.55/Info.plist#563a42d6d02a1be7ee9aaa419f174b688a6a0cffc00c10fe84cd4668024e0857",
@@ -60,6 +60,7 @@
       "subtitle" : "The App Fair catalog browser for discovering & installing macOS apps",
       "tintColor" : "1594E8",
       "version" : "0.8.55",
+      "versionDate" : "2022-06-23T19:08:09Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.53...0.8.55",
       "viewCount" : 35,
       "watcherCount" : 3
@@ -89,6 +90,7 @@
       "starCount" : 0,
       "subtitle" : "A very useful app indeed",
       "version" : "0.0.1",
+      "versionDate" : "2022-05-19T21:18:14Z",
       "viewCount" : 10,
       "watcherCount" : 0
     },
@@ -104,7 +106,7 @@
       "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
-      "impressionCount" : 1506,
+      "impressionCount" : 1507,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
       "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
@@ -134,6 +136,7 @@
       "subtitle" : "App for managing iOS devices",
       "tintColor" : "587FE3",
       "version" : "0.1.7",
+      "versionDate" : "2022-05-24T14:45:09Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7",
       "viewCount" : 329,
       "watcherCount" : 1
@@ -149,7 +152,7 @@
       "downloadCount" : 9,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot-macOS.zip",
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
-      "impressionCount" : 541,
+      "impressionCount" : 542,
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -175,8 +178,47 @@
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
       "version" : "0.2.33",
+      "versionDate" : "2022-01-24T01:55:01Z",
       "versionDescription" : "Release 0.2.33",
       "viewCount" : 44,
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "coreSize" : 102400,
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.91/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.91/Cloud-Cuckoo.png",
+      "impressionCount" : 0,
+      "issueCount" : 0,
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.91/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.91/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.91/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.91/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.91/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.91/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.91/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "4f6ecec73cde0f810580f4372b2b20fdd4dc7212611a57b13f77625f4ac7da0a",
+      "size" : 2001658,
+      "starCount" : 0,
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.91",
+      "versionDate" : "2022-06-30T20:18:13Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.90...0.9.91",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -187,10 +229,10 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 29,
+      "downloadCount" : 34,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.90/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.90/Cloud-Cuckoo.png",
-      "impressionCount" : 44,
+      "impressionCount" : 45,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.90/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -212,6 +254,7 @@
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
       "version" : "0.9.90",
+      "versionDate" : "2022-06-28T21:16:45Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.89...0.9.90",
       "viewCount" : 10,
       "watcherCount" : 0
@@ -227,7 +270,7 @@
       "downloadCount" : 14,
       "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 566,
+      "impressionCount" : 567,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -244,6 +287,7 @@
       "starCount" : 0,
       "subtitle" : "Putting the pieces back together",
       "version" : "0.0.4",
+      "versionDate" : "2022-01-23T23:13:56Z",
       "versionDescription" : "Release 0.0.4",
       "viewCount" : 62,
       "watcherCount" : 0
@@ -259,7 +303,7 @@
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
       "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "impressionCount" : 355,
+      "impressionCount" : 356,
       "issueCount" : 0,
       "localizedDescription" : "An urban street guide",
       "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -277,6 +321,7 @@
       "starCount" : 0,
       "subtitle" : "An urban street guide",
       "version" : "0.0.3",
+      "versionDate" : "2022-01-25T00:49:11Z",
       "versionDescription" : "Release 0.0.3",
       "viewCount" : 32,
       "watcherCount" : 0
@@ -309,6 +354,7 @@
       "starCount" : 0,
       "subtitle" : "All the accumulated knowledge in the galaxy",
       "version" : "0.0.32",
+      "versionDate" : "2022-01-24T02:35:43Z",
       "versionDescription" : "Release 0.0.32",
       "viewCount" : 27,
       "watcherCount" : 0
@@ -338,6 +384,7 @@
       "starCount" : 0,
       "subtitle" : "An app for learning Roman Numerals",
       "version" : "0.0.32",
+      "versionDate" : "2022-01-26T22:20:37Z",
       "versionDescription" : "Release 0.0.32",
       "viewCount" : 17,
       "watcherCount" : 0
@@ -370,6 +417,7 @@
       "starCount" : 0,
       "subtitle" : "A true Festivus celebration",
       "version" : "0.0.3",
+      "versionDate" : "2022-01-23T23:13:54Z",
       "versionDescription" : "Release 0.0.3",
       "viewCount" : 31,
       "watcherCount" : 0
@@ -403,6 +451,7 @@
       "starCount" : 0,
       "subtitle" : "There, I fixed the web for you. You're welcome.",
       "version" : "0.0.4",
+      "versionDate" : "2022-01-23T23:13:52Z",
       "versionDescription" : "Release 0.0.4",
       "viewCount" : 33,
       "watcherCount" : 0
@@ -435,6 +484,7 @@
       "starCount" : 0,
       "subtitle" : "Identify ambient sounds.",
       "version" : "0.3.38",
+      "versionDate" : "2022-01-26T22:12:32Z",
       "versionDescription" : "Release 0.3.38",
       "viewCount" : 35,
       "watcherCount" : 0
@@ -474,6 +524,7 @@
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
       "version" : "0.0.19",
+      "versionDate" : "2022-04-06T16:11:00Z",
       "versionDescription" : "Release 0.0.19",
       "viewCount" : 29,
       "watcherCount" : 0
@@ -503,6 +554,7 @@
       "starCount" : 0,
       "subtitle" : "H.R. Huffle Puff ",
       "version" : "0.0.7",
+      "versionDate" : "2022-01-24T01:54:53Z",
       "versionDescription" : "Release 0.0.7",
       "viewCount" : 23,
       "watcherCount" : 0
@@ -539,6 +591,7 @@
       "starCount" : 0,
       "subtitle" : "Preview and experiment with Lottie animations",
       "version" : "0.0.87",
+      "versionDate" : "2022-04-06T15:01:42Z",
       "versionDescription" : "Release 0.0.87",
       "viewCount" : 35,
       "watcherCount" : 0
@@ -554,7 +607,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course-macOS.zip",
       "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course.png",
-      "impressionCount" : 373,
+      "impressionCount" : 374,
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
       "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -572,6 +625,7 @@
       "starCount" : 0,
       "subtitle" : "An offline recipe book",
       "version" : "0.0.15",
+      "versionDate" : "2022-01-24T14:09:10Z",
       "versionDescription" : "Release 0.0.15",
       "viewCount" : 29,
       "watcherCount" : 0
@@ -587,7 +641,7 @@
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res-macOS.zip",
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res.png",
-      "impressionCount" : 421,
+      "impressionCount" : 422,
       "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
       "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -605,6 +659,7 @@
       "starCount" : 0,
       "subtitle" : "Art imitating Life (imitating Art)",
       "version" : "0.0.17",
+      "versionDate" : "2022-01-24T04:09:17Z",
       "versionDescription" : "Release 0.0.17",
       "viewCount" : 30,
       "watcherCount" : 0
@@ -620,7 +675,7 @@
       "downloadCount" : 7,
       "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector-macOS.zip",
       "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector.png",
-      "impressionCount" : 327,
+      "impressionCount" : 328,
       "issueCount" : 0,
       "localizedDescription" : "A vector drawing app",
       "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -638,6 +693,7 @@
       "starCount" : 0,
       "subtitle" : "A vector drawing app",
       "version" : "0.0.8",
+      "versionDate" : "2022-01-24T23:35:02Z",
       "versionDescription" : "Release 0.0.8",
       "viewCount" : 37,
       "watcherCount" : 0
@@ -671,6 +727,7 @@
       "starCount" : 0,
       "subtitle" : "A name picking app",
       "version" : "0.0.24",
+      "versionDate" : "2022-02-12T14:56:58Z",
       "versionDescription" : "Release 0.0.24",
       "viewCount" : 30,
       "watcherCount" : 0
@@ -686,7 +743,7 @@
       "downloadCount" : 13,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip-macOS.zip",
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "impressionCount" : 1533,
+      "impressionCount" : 1534,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -715,6 +772,7 @@
       "starCount" : 0,
       "subtitle" : "Web browsing for the connoisseur",
       "version" : "0.0.42",
+      "versionDate" : "2022-05-26T14:16:43Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42",
       "viewCount" : 336,
       "watcherCount" : 0
@@ -771,6 +829,7 @@
       "starCount" : 0,
       "subtitle" : "Brain scanner",
       "version" : "0.0.51",
+      "versionDate" : "2022-01-16T15:48:12Z",
       "versionDescription" : "Release 0.0.51",
       "viewCount" : 7,
       "watcherCount" : 0
@@ -786,7 +845,7 @@
       "downloadCount" : 20,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "impressionCount" : 1847,
+      "impressionCount" : 1848,
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
@@ -806,8 +865,9 @@
       "starCount" : 0,
       "subtitle" : "Syntactic Text Editor",
       "version" : "0.4.18",
+      "versionDate" : "2022-01-20T03:44:49Z",
       "versionDescription" : "Release 0.4.18",
-      "viewCount" : 363,
+      "viewCount" : 364,
       "watcherCount" : 0
     },
     {
@@ -840,6 +900,7 @@
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
       "version" : "0.2.22",
+      "versionDate" : "2022-01-24T11:51:13Z",
       "versionDescription" : "Release 0.2.22",
       "viewCount" : 25,
       "watcherCount" : 0
@@ -873,6 +934,7 @@
       "starCount" : 0,
       "subtitle" : "무궁화 꽃이 피었습니다",
       "version" : "0.0.12",
+      "versionDate" : "2022-02-02T02:04:48Z",
       "versionDescription" : "Release 0.0.12",
       "viewCount" : 20,
       "watcherCount" : 0
@@ -888,7 +950,7 @@
       "downloadCount" : 8,
       "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero-macOS.zip",
       "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero.png",
-      "impressionCount" : 233,
+      "impressionCount" : 234,
       "issueCount" : 0,
       "localizedDescription" : "Query Like a Boss",
       "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/Info.plist#f4f5af5e949181c450648183357dc49105d946769ffbc87050c930326d2ff8c5",
@@ -917,6 +979,7 @@
       "starCount" : 0,
       "subtitle" : "Query Like a Boss",
       "version" : "0.0.8",
+      "versionDate" : "2022-01-24T23:34:42Z",
       "versionDescription" : "Release 0.0.8",
       "viewCount" : 24,
       "watcherCount" : 0
@@ -951,6 +1014,7 @@
       "starCount" : 0,
       "subtitle" : "The movie \"Sita Sings the Blues\"",
       "version" : "0.0.49",
+      "versionDate" : "2022-04-08T08:53:44Z",
       "versionDescription" : "Release 0.0.49",
       "viewCount" : 35,
       "watcherCount" : 0
@@ -992,6 +1056,7 @@
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
       "version" : "0.3.33",
+      "versionDate" : "2022-06-24T14:30:08Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.32...0.3.33",
       "viewCount" : 35,
       "watcherCount" : 0
@@ -1007,7 +1072,7 @@
       "downloadCount" : 7,
       "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points-macOS.zip",
       "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points.png",
-      "impressionCount" : 308,
+      "impressionCount" : 309,
       "issueCount" : 0,
       "localizedDescription" : "UX Design Tool",
       "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1025,6 +1090,7 @@
       "starCount" : 0,
       "subtitle" : "UX Design Tool",
       "version" : "0.0.6",
+      "versionDate" : "2022-01-24T01:59:22Z",
       "versionDescription" : "Release 0.0.6",
       "viewCount" : 45,
       "watcherCount" : 0
@@ -1040,7 +1106,7 @@
       "downloadCount" : 7,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-macOS.zip",
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 429,
+      "impressionCount" : 430,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -1057,6 +1123,7 @@
       "starCount" : 0,
       "subtitle" : "What tide is it right now?",
       "version" : "0.0.20",
+      "versionDate" : "2022-02-12T16:07:15Z",
       "versionDescription" : "Release 0.0.20",
       "viewCount" : 32,
       "watcherCount" : 0
@@ -1090,6 +1157,7 @@
       "starCount" : 0,
       "subtitle" : "A little quiz game",
       "version" : "0.0.16",
+      "versionDate" : "2022-02-12T16:07:11Z",
       "versionDescription" : "Release 0.0.16",
       "viewCount" : 17,
       "watcherCount" : 0
@@ -1105,7 +1173,7 @@
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out.png",
-      "impressionCount" : 78,
+      "impressionCount" : 79,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.436/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -1131,6 +1199,7 @@
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
       "version" : "0.8.436",
+      "versionDate" : "2022-06-27T23:44:14Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.435...0.8.436",
       "viewCount" : 15,
       "watcherCount" : 0
@@ -1146,7 +1215,7 @@
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-macOS.zip",
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
-      "impressionCount" : 122,
+      "impressionCount" : 123,
       "issueCount" : 0,
       "localizedDescription" : "Unleash your inner dialog",
       "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1160,6 +1229,7 @@
       "starCount" : 0,
       "subtitle" : "Unleash your inner dialog",
       "version" : "0.0.12",
+      "versionDate" : "2022-05-01T12:44:04Z",
       "versionDescription" : "Release 0.0.12",
       "viewCount" : 10,
       "watcherCount" : 0
@@ -1195,6 +1265,7 @@
       "starCount" : 0,
       "subtitle" : "A bit of lite reading",
       "version" : "0.0.7",
+      "versionDate" : "2022-01-21T14:04:24Z",
       "versionDescription" : "Release 0.0.7",
       "viewCount" : 30,
       "watcherCount" : 0
@@ -1224,6 +1295,7 @@
       "starCount" : 0,
       "subtitle" : "An unclear app",
       "version" : "0.0.5",
+      "versionDate" : "2022-01-25T00:48:27Z",
       "versionDescription" : "Release 0.0.5",
       "viewCount" : 19,
       "watcherCount" : 0
@@ -1253,6 +1325,7 @@
       "starCount" : 0,
       "subtitle" : "A business app for business-folk",
       "version" : "0.0.37",
+      "versionDate" : "2022-01-24T01:59:51Z",
       "versionDescription" : "Release 0.0.37",
       "viewCount" : 27,
       "watcherCount" : 0
@@ -1286,6 +1359,7 @@
       "subtitle" : "Old-time horse trading",
       "tintColor" : "3C82C1",
       "version" : "0.0.11",
+      "versionDate" : "2022-01-24T14:24:10Z",
       "versionDescription" : "Release 0.0.11",
       "viewCount" : 25,
       "watcherCount" : 0

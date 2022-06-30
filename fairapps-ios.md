@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | imps | views | dls | size | stars | issues | date | category |
 | ---: | :------ | ---: | ----: | --: | :--- | -----:| -----: | ---- | :------- |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.92β``](https://github.com/Cloud-Cuckoo/App/releases/0.9.92) | `1` | `1` | `1` | `5.1 MB` | `0` | `0` | `2022-06-30T21:19:15Z` | [`games`](https://github.com/topics/appfair-games)  |
-| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.90``](https://github.com/Cloud-Cuckoo/App/releases/0.9.90) | `45` | `10` | `37` | `5.1 MB` | `0` | `0` | `2022-06-28T21:16:45Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.92β``](https://github.com/Cloud-Cuckoo/App/releases/0.9.92) | `1` | `1` | `2` | `5.1 MB` | `0` | `0` | `2022-06-30T21:19:15Z` | [`games`](https://github.com/topics/appfair-games)  |
+| [`Cloud Cuckoo`](https://Cloud-Cuckoo.github.io/App/) | [``0.9.90``](https://github.com/Cloud-Cuckoo/App/releases/0.9.90) | `45` | `10` | `38` | `5.1 MB` | `0` | `0` | `2022-06-28T21:16:45Z` | [`games`](https://github.com/topics/appfair-games)  |
 | [`Tune Out`](https://Tune-Out.github.io/App/) | [``0.8.436``](https://github.com/Tune-Out/App/releases/0.8.436) | `80` | `16` | `2` | `17.3 MB` | `0` | `0` | `2022-06-27T23:44:14Z` | [`music`](https://github.com/topics/appfair-music)  |
 | [`Stanza Redux`](https://Stanza-Redux.github.io/App/) | [``0.3.33``](https://github.com/Stanza-Redux/App/releases/0.3.33) | `202` | `36` | `3` | `8.1 MB` | `1` | `0` | `2022-06-24T14:30:08Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Net Skip`](https://Net-Skip.github.io/App/) | [``0.0.42``](https://github.com/Net-Skip/App/releases/0.0.42) | `1535` | `337` | `2` | `9.3 MB` | `0` | `0` | `2022-05-26T14:16:43Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
@@ -53,4 +53,4 @@ tr:nth-child(even) {
 | [`Visi Calc`](https://Visi-Calc.github.io/App/) | [``0.0.35β``](https://github.com/Visi-Calc/App/releases/0.0.35) | `1188` | `192` | `6` | `14.9 MB` | `0` | `0` | `2021-12-04T14:58:06Z` | [`business`](https://github.com/topics/appfair-business)  |
 | [`Neural Scry`](https://Neural-Scry.github.io/App/) | [``0.0.45β``](https://github.com/Neural-Scry/App/releases/0.0.45) | `72` | `3` | `9` | `8.7 MB` | `0` | `0` | `2021-12-04T02:37:55Z` | [`medical`](https://github.com/topics/appfair-medical)  |
 
-<center><small>`{{ site.time | date_to_xmlschema }}`</small></center>
+<center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

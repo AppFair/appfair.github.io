@@ -58,6 +58,6 @@ tr:nth-child(even) {
 | [`Bon Mot`](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `534` | `43` | `8` | `2.3 MB` | `1` | `0` | `0001-12-30T00:00:00Z` | [`reference`](https://github.com/topics/appfair-reference)  |
 | [`Blunder Busq`](https://Blunder-Busq.github.io/App/) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `1493` | `324` | `25` | `4.5 MB` | `1` | `0` | `0001-12-30T00:00:00Z` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [`App Title`](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `33` | `10` | `4` | `2.4 MB` | `0` | `0` | `0001-12-30T00:00:00Z` |  |
-| [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.55``](https://github.com/App-Fair/App/releases/0.8.55) | `149` | `32` | `364` | `8.5 MB` | `20` | [``4``](https://github.com/App-Fair/App/issues) | `0001-12-30T00:00:00Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [`App Fair`](https://App-Fair.github.io/App/) | [``0.8.55``](https://github.com/App-Fair/App/releases/0.8.55) | `149` | `32` | `365` | `8.5 MB` | `20` | [``4``](https://github.com/App-Fair/App/issues) | `0001-12-30T00:00:00Z` | [`utilities`](https://github.com/topics/appfair-utilities)  |
 
 <center><small>`{{ site.time | date_to_xmlschema }}`</small></center>

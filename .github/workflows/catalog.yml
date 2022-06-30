@@ -140,11 +140,12 @@ jobs:
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --merge-cask-info "https://formulae.brew.sh/api/cask.json" \
+            --merge-cask-stats "https://formulae.brew.sh/api/analytics/cask-install/homebrew-cask/30d.json" \
             --boost-apps "${{ secrets.APP_FAIR_BOOSTED_CASKS }}" \
             --boost-factor 100000 \
             --retry-duration 600 \
             -o appfair.github.io/appcasks.json
-          
+
           # update the catalog to include news items 
           fairtool source postrelease --from-catalog appfair.github.io/appcasks_old.json --to-catalog appfair.github.io/appcasks.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?cask=#(apptoken)">#(appname) #(appversion)"</a>' --post-title 'New Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?cask=#(apptoken)' --post-app-id '#(apptoken)' --update-version-date --news-items 100 -o appfair.github.io/appcasks_new.json
 

@@ -140,6 +140,7 @@ jobs:
             --hub github.com/appfair \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --merge-cask-info "https://formulae.brew.sh/api/cask.json" \
+            --boost-apps "${{ secrets.APP_FAIR_BOOSTED_CASKS }}" \
             --boost-factor 100000 \
             --retry-duration 600 \
             -o appfair.github.io/appcasks.json

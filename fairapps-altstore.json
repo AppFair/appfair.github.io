@@ -40,6 +40,7 @@
       "subtitle": "An electronic book reader",
       "tintColor": "00375C",
       "version": "0.3.33",
+      "versionDate": "2022-06-24T14:30:08Z",
       "versionDescription": "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.32...0.3.33",
       "viewCount": 35,
       "watcherCount": 0
@@ -55,7 +56,7 @@
       "downloadCount": 2,
       "downloadURL": "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out-iOS.ipa",
       "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.436/Tune-Out.png",
-      "impressionCount": 78,
+      "impressionCount": 79,
       "issueCount": 0,
       "localizedDescription": "Stream Internet Radio",
       "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.436/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -78,6 +79,7 @@
       "subtitle": "Stream Internet Radio",
       "tintColor": "32ADE6",
       "version": "0.8.436",
+      "versionDate": "2022-06-27T23:44:14Z",
       "versionDescription": "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.435...0.8.436",
       "viewCount": 15,
       "watcherCount": 0

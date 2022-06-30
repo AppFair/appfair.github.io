@@ -84,7 +84,17 @@ jobs:
             -o appfair.github.io/fairapps-macos.json
 
           # update the catalog to include news items 
-          fairtool source postrelease --from-catalog appfair.github.io/fairapps-macos_old.json --to-catalog appfair.github.io/fairapps-macos.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' --post-title 'New Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' --post-app-id 'app.#(appname_hyphenated)' --news-items 10 -o appfair.github.io/fairapps-macos_new.json
+          fairtool source postrelease \
+            --from-catalog appfair.github.io/fairapps-macos_old.json \
+            --to-catalog appfair.github.io/fairapps-macos.json \
+            --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' \
+                                                                                                                --post-title 'New Release: #(appname) #(appversion)' \
+            --post-title-update 'New Release: #(appname) #(appversion)' \
+            --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
+            --post-app-id 'app.#(appname_hyphenated)' \
+            --news-items 10 \
+            -o appfair.github.io/fairapps-macos_new.json
+
           mv appfair.github.io/fairapps-macos_new.json appfair.github.io/fairapps-macos.json
 
           cd appfair.github.io/
@@ -122,7 +132,16 @@ jobs:
           cd -
 
           # update the catalog to include news items 
-          fairtool source postrelease --from-catalog appfair.github.io/fairapps-ios_old.json --to-catalog appfair.github.io/fairapps-ios.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' --post-title 'New Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' --post-app-id 'app.#(appname_hyphenated)' --news-items 10 -o appfair.github.io/fairapps-ios_new.json
+          fairtool source postrelease \
+            --from-catalog appfair.github.io/fairapps-ios_old.json \
+            --to-catalog appfair.github.io/fairapps-ios.json \
+            --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' \
+            --post-title 'New Release: #(appname) #(appversion)' \
+            --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
+            --post-app-id 'app.#(appname_hyphenated)' \
+            --news-items 10 \
+            -o appfair.github.io/fairapps-ios_new.json
+
           mv appfair.github.io/fairapps-ios_new.json appfair.github.io/fairapps-ios.json
 
           cd appfair.github.io/
@@ -147,7 +166,17 @@ jobs:
             -o appfair.github.io/appcasks.json
 
           # update the catalog to include news items 
-          fairtool source postrelease --from-catalog appfair.github.io/appcasks_old.json --to-catalog appfair.github.io/appcasks.json --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?cask=#(apptoken)">#(appname) #(appversion)"</a>' --post-title 'New Release: #(appname) #(appversion)' --post-url 'https://appfair.app/fair?cask=#(apptoken)' --post-app-id '#(apptoken)' --post-caption-update "#(appname) updated from #(oldappversion) to #(appversion)" --update-version-date --news-items 100 -o appfair.github.io/appcasks_new.json
+          fairtool source postrelease \
+            --from-catalog appfair.github.io/appcasks_old.json \
+            --to-catalog appfair.github.io/appcasks.json \
+            --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?cask=#(apptoken)">#(appname) #(appversion)"</a>' \
+            --post-title 'New Release: #(appname) #(appversion)' \
+            --post-url 'https://appfair.app/fair?cask=#(apptoken)' \
+            --post-app-id '#(apptoken)' \
+            --post-caption-update "#(appname) updated from #(oldappversion) to #(appversion)" \
+            --update-version-date \
+            --news-items 100 \
+            -o appfair.github.io/appcasks_new.json
 
           mv appfair.github.io/appcasks_new.json appfair.github.io/appcasks.json
 

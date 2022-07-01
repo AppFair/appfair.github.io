@@ -46,7 +46,7 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 42,
+      "downloadCount" : 44,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/Cloud-Cuckoo.png",
       "impressionCount" : 45,
@@ -963,28 +963,5 @@
   ],
   "identifier" : "appfair",
   "name" : "The App Fair iOS App Catalog",
-  "news" : [
-    {
-      "appID" : "app.Stanza-Redux",
-      "caption" : "",
-      "date" : "2022-06-24T14:54:20Z",
-      "identifier" : "release-app.Stanza-Redux-0.3.33",
-      "title" : "New App Fair Release: Stanza Redux 0.3.33"
-    },
-    {
-      "appID" : "app.Cloud-Cuckoo",
-      "caption" : "",
-      "date" : "2022-06-30T22:31:01Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.93",
-      "title" : "New Release: Cloud Cuckoo 0.9.93"
-    },
-    {
-      "appID" : "app.Tune-Out",
-      "caption" : "",
-      "date" : "2022-06-30T23:46:21Z",
-      "identifier" : "release-app.Tune-Out-0.8.437",
-      "title" : "New Release: Tune Out 0.8.437"
-    }
-  ],
   "sourceURL" : "https://www.appfair.net/fairapps-ios.json"
 }

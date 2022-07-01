@@ -102,6 +102,7 @@ At the end of this Quick Start guide, you will have your own app published and a
   <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub page settings screen" src="assets/quickstart-pages-setting.png" />
   4. Select the **`Settings`** tab's **`General`** section and turn on both _`Issues`_ and _`Discussions`_ by activating their checkboxes in the `Features` area.
   * These community features are required for the app to be included in the App Fair catalog.
+  * You can optionally enable _`Sponsorships`_ for the project.
   <img style="width: 75%; max-width: 600px; display: block; margin: 12px; border: 1px solid black;" alt="GitHub general settings screen" src="assets/quickstart-issues-discussions-setting.png" />
   5. Select the **`Actions`** tab and then select the “`Configure App`” workflow on the left.
   * Expand the **Run workflow** drop-down, set the version to "_0.0.1_", then hit **Run workflow**.

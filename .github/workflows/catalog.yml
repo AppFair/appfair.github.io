@@ -15,7 +15,7 @@
 #
 ##############################################################################
 
-name: Publish App Fair Catalog
+name: Publish App Catalogs
 
 on:
   push:
@@ -63,8 +63,19 @@ jobs:
           git config user.email "appfairbot@appfair.net"
           cd -
 
+      - name: "Configure posting auth"
+        run: |
+          # configure the posting auth just once
+          echo "FAIRTOOL_TWITTER_USER=${{ secrets.APP_FAIR_TWITTER_USER }}" >> $GITHUB_ENV
+          echo "FAIRTOOL_TWITTER_CONSUMER_KEY=${{ secrets.APP_FAIR_TWITTER_CONSUMER_KEY }}" >> $GITHUB_ENV
+          echo "FAIRTOOL_TWITTER_CONSUMER_SECRET=${{ secrets.APP_FAIR_TWITTER_CONSUMER_SECRET }}" >> $GITHUB_ENV
+          echo "FAIRTOOL_TWITTER_TOKEN=${{ secrets.APP_FAIR_TWITTER_TOKEN }}" >> $GITHUB_ENV
+          echo "FAIRTOOL_TWITTER_TOKEN_SECRET=${{ secrets.APP_FAIR_TWITTER_TOKEN_SECRET }}" >> $GITHUB_ENV
+
       - name: Generate macOS catalog
         run: |
+          fairtool-head social tweet "The App Fair macOS catalog has been re-built (${RANDOM})" || true
+
           cp appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json && touch appfair.github.io/fairapps-macos_old.json
           fairtool-head fair catalog \
             --verbose \
@@ -87,6 +98,7 @@ jobs:
             --from-catalog appfair.github.io/fairapps-macos_old.json \
             --to-catalog appfair.github.io/fairapps-macos.json \
             --markdown-index appfair.github.io/fairapps-macos.md \
+            --tweet-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' \
             --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' \
             --post-title 'New Release: #(appname) #(appversion)' \
             --post-title-update 'New Release: #(appname) #(appversion)' \
@@ -149,7 +161,7 @@ jobs:
             --post-app-id 'app.#(appname_hyphenated)' \
             --post-caption "#(appname) #(oldappversion) released" \
             --post-caption-update "#(appname) updated from #(oldappversion) to #(appversion)" \
-            --news-items 10 \
+            --news-items 0 \
             -o appfair.github.io/fairapps-ios_new.json
 
           mv appfair.github.io/fairapps-ios_new.json appfair.github.io/fairapps-ios.json

@@ -193,6 +193,7 @@ jobs:
             --to-catalog appfair.github.io/appcasks.json \
             --markdown-index appfair.github.io/appcasks.md \
             --post-url 'https://appfair.app/fair?cask=#(apptoken)' \
+            --tweet-body 'New Release on the App Fair: #(appname) #(appversion) - https://appfair.app/fair?cask=#(apptoken)' \
             --post-body 'New Release on the App Fair: #(appname) #(appversion) - https://appfair.app/fair?cask=#(apptoken)' \
             --post-title 'New Release: #(appname) #(appversion)' \
             --post-title-update 'New Release: #(appname) #(appversion)' \

@@ -74,8 +74,6 @@ jobs:
 
       - name: Generate macOS catalog
         run: |
-          fairtool-head social tweet "The App Fair macOS catalog has been re-built (${RANDOM})" || true
-
           cp appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json && touch appfair.github.io/fairapps-macos_old.json
           fairtool-head fair catalog \
             --verbose \

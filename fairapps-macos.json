@@ -8,7 +8,7 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 84,
+      "downloadCount" : 85,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.63/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.63/App-Fair.png",
@@ -191,34 +191,34 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 45,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/Cloud-Cuckoo.png",
-      "impressionCount" : 49,
+      "downloadCount" : 1,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.94/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.94/Cloud-Cuckoo.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.94/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.94/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.93/screenshot_06-mac-1656x1560.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.94/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.94/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.94/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.94/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.94/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "63113db389f9866761abacb7f0bf5dc8208caa8d17a05eba642a991f5658867c",
-      "size" : 2002029,
+      "sha256" : "cd8825b3d41400476d8957c0fc929f0a45dedf7e666e3a24a7f7f66b3c5d1a20",
+      "size" : 2042782,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.93",
-      "versionDate" : "2022-06-30T22:13:50Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.92...0.9.93",
-      "viewCount" : 12,
+      "version" : "0.9.94",
+      "versionDate" : "2022-07-02T01:43:08Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.93...0.9.94",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -1338,13 +1338,6 @@
       "title" : "New App Fair Release: Stanza Redux 0.3.33"
     },
     {
-      "appID" : "app.Cloud-Cuckoo",
-      "caption" : "",
-      "date" : "2022-06-30T22:30:26Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.93",
-      "title" : "New Release: Cloud Cuckoo 0.9.93"
-    },
-    {
       "appID" : "app.Tune-Out",
       "caption" : "",
       "date" : "2022-06-30T23:45:42Z",
@@ -1357,6 +1350,13 @@
       "date" : "2022-07-01T03:05:08Z",
       "identifier" : "release-app.App-Fair-0.8.63",
       "title" : "New Release: App Fair 0.8.63"
+    },
+    {
+      "appID" : "app.Cloud-Cuckoo",
+      "caption" : "Cloud Cuckoo updated from 0.9.93 to 0.9.94",
+      "date" : "2022-07-02T01:57:55Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.94",
+      "title" : "New Release: Cloud Cuckoo 0.9.94"
     }
   ],
   "sourceURL" : "https://www.appfair.net/fairapps-macos.json"

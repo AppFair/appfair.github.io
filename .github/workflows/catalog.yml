@@ -98,11 +98,11 @@ jobs:
             --from-catalog appfair.github.io/fairapps-macos_old.json \
             --to-catalog appfair.github.io/fairapps-macos.json \
             --markdown-index appfair.github.io/fairapps-macos.md \
-            --tweet-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' \
-            --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' \
+            --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
+            --tweet-body 'New Release on the App Fair: #(appname) #(appversion) - https://appfair.app/fair?app=#(appname_hyphenated)' \
+            --post-body 'New Release on the App Fair: #(appname) #(appversion) - https://appfair.app/fair?app=#(appname_hyphenated)' \
             --post-title 'New Release: #(appname) #(appversion)' \
             --post-title-update 'New Release: #(appname) #(appversion)' \
-            --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
             --post-app-id 'app.#(appname_hyphenated)' \
             --post-caption "#(appname) #(oldappversion) released" \
             --post-caption-update "#(appname) updated from #(oldappversion) to #(appversion)" \
@@ -115,7 +115,7 @@ jobs:
 
           git add fairapps-macos.md fairapps-macos.json
 
-          # TODO: deprecate legack name
+          # TODO: deprecate legacy endpoints
           cp fairapps-macos.md fairapps.md
           cp fairapps-macos.json fairapps.json
           git add fairapps.md fairapps.json 
@@ -154,10 +154,10 @@ jobs:
             --from-catalog appfair.github.io/fairapps-ios_old.json \
             --to-catalog appfair.github.io/fairapps-ios.json \
             --markdown-index appfair.github.io/fairapps-ios.md \
-            --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?app=#(appname_hyphenated)">#(appname) #(appversion)"</a>' \
+            --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
+            --post-body 'New Release on the App Fair: #(appname) #(appversion) - https://appfair.app/fair?app=#(appname_hyphenated)' \
             --post-title 'New Release: #(appname) #(appversion)' \
             --post-title-update 'New Release: #(appname) #(appversion)' \
-            --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
             --post-app-id 'app.#(appname_hyphenated)' \
             --post-caption "#(appname) #(oldappversion) released" \
             --post-caption-update "#(appname) updated from #(oldappversion) to #(appversion)" \
@@ -192,10 +192,10 @@ jobs:
             --from-catalog appfair.github.io/appcasks_old.json \
             --to-catalog appfair.github.io/appcasks.json \
             --markdown-index appfair.github.io/appcasks.md \
-            --post-body 'New Release on the App Fair: <a href="https://appfair.app/fair?cask=#(apptoken)">#(appname) #(appversion)"</a>' \
+            --post-url 'https://appfair.app/fair?cask=#(apptoken)' \
+            --post-body 'New Release on the App Fair: #(appname) #(appversion) - https://appfair.app/fair?cask=#(apptoken)' \
             --post-title 'New Release: #(appname) #(appversion)' \
             --post-title-update 'New Release: #(appname) #(appversion)' \
-            --post-url 'https://appfair.app/fair?cask=#(apptoken)' \
             --post-app-id '#(apptoken)' \
             --post-caption "#(appname) #(oldappversion) released" \
             --post-caption-update "#(appname) updated from #(oldappversion) to #(appversion)" \

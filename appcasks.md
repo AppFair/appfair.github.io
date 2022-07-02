@@ -23,18 +23,18 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Signal``](https://signal.org/) | ``5.47.0`` | `2490` |  |  | `3521` | `395` |  | `0` | `social-networking` |
-| [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``102.0`` | `13364` |  |  | `3874` | `514` |  | `0` | `reference` |
-| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `7883` |  |  | `3254` | `322` |  | `0` | `video` |
-| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `26490` |  |  | `3143` | `245` |  | `0` | `developer-tools` |
-| [``Spotify``](https://www.spotify.com/) | ``1.1.88.612,cc529952,10`` | `7462` |  |  | `3510` | `311` |  | `0` | `music` |
-| [``Discord``](https://discord.com/) | ``0.0.267`` | `5738` |  |  | `3066` | `223` |  | `0` | `social-networking` |
-| [``Emacs``](https://emacsformacosx.com/) | ``28.1-4`` | `3062` |  |  | `2925` | `249` |  | `0` | `productivity` |
-| [``WhatsApp``](https://www.whatsapp.com/) | ``2.2222.12`` | `2834` |  |  | `3452` | `315` |  | `0` | `social-networking` |
-| [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2545` |  |  | `2021` | `168` |  | `0` | `games` |
-| [``Keka``](https://www.keka.io/) | ``1.2.55`` | `1792` |  |  | `3712` | `613` |  | `0` | `utilities` |
-| [``OBS``](https://obsproject.com/) | ``27.2.4`` | `1683` |  |  | `2788` | `234` |  | `0` | `video` |
-| [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1414` |  |  | `2212` | `242` |  | `0` | `productivity` |
+| [``Signal``](https://signal.org/) | ``5.47.0`` | `2490` |  |  | `3522` | `395` |  | `0` | `social-networking` |
+| [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``102.0`` | `13364` |  |  | `3875` | `514` |  | `0` | `reference` |
+| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `7883` |  |  | `3255` | `322` |  | `0` | `video` |
+| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `26490` |  |  | `3144` | `245` |  | `0` | `developer-tools` |
+| [``Spotify``](https://www.spotify.com/) | ``1.1.88.612,cc529952,10`` | `7462` |  |  | `3511` | `311` |  | `0` | `music` |
+| [``Discord``](https://discord.com/) | ``0.0.267`` | `5738` |  |  | `3067` | `223` |  | `0` | `social-networking` |
+| [``Emacs``](https://emacsformacosx.com/) | ``28.1-4`` | `3062` |  |  | `2926` | `249` |  | `0` | `productivity` |
+| [``WhatsApp``](https://www.whatsapp.com/) | ``2.2222.12`` | `2834` |  |  | `3453` | `315` |  | `0` | `social-networking` |
+| [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2545` |  |  | `2022` | `168` |  | `0` | `games` |
+| [``Keka``](https://www.keka.io/) | ``1.2.55`` | `1792` |  |  | `3713` | `613` |  | `0` | `utilities` |
+| [``OBS``](https://obsproject.com/) | ``27.2.4`` | `1683` |  |  | `2789` | `234` |  | `0` | `video` |
+| [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1414` |  |  | `2213` | `242` |  | `0` | `productivity` |
 | [``Blender``](https://www.blender.org/) | ``3.2.0`` | `1200` |  |  | `3520` | `319` |  | `0` | `graphics-design` |
 | [``HandBrake``](https://handbrake.fr/) | ``1.5.1`` | `990` |  |  | `1394` | `95` |  | `0` | `video` |
 | [``MacVim``](https://github.com/macvim-dev/macvim) | ``172`` | `538` |  |  | `2099` | `165` |  | `0` | `productivity` |
@@ -100,7 +100,7 @@ tr:nth-child(even) {
 | [``Telegram Desktop``](https://desktop.telegram.org/) | ``4.0.2`` | `691` |  |  | `1023` | `61` |  | `0` | `social-networking` |
 | [``Charles``](https://www.charlesproxy.com/) | ``4.6.2`` | `588` |  |  | `1034` | `53` |  | `0` | `developer-tools` |
 | [``Joplin``](https://joplinapp.org/) | ``2.8.8`` | `573` |  |  | `1547` | `73` |  | `0` | `developer-tools` |
-| [``Barrier``](https://github.com/debauchee/barrier/) | ``2.4.0`` | `551` |  |  | `1257` | `74` |  | `0` | `developer-tools` |
+| [``Barrier``](https://github.com/debauchee/barrier/) | ``2.4.0`` | `551` |  |  | `1258` | `74` |  | `0` | `developer-tools` |
 | [``Arduino``](https://www.arduino.cc/) | ``1.8.19`` | `536` |  |  | `1147` | `58` |  | `0` | `education` |
 | [``Dash``](https://kapeli.com/dash) | ``6.2.4,996`` | `536` |  |  | `1814` | `138` |  | `0` | `developer-tools` |
 | [``Plex``](https://www.plex.tv/) | ``1.47.1.3086,6c3d964f`` | `491` |  |  | `1112` | `53` |  | `0` | `video` |

@@ -10,7 +10,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.48.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 3623,
+      "impressionCount" : 3625,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -42,7 +42,7 @@
       "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0/mac/en-US/Firefox%20102.0.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 3974,
+      "impressionCount" : 3975,
       "localizedDescription" : "",
       "name" : "Mozilla Firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 3356,
+      "impressionCount" : 3357,
       "localizedDescription" : "",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -103,7 +103,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 3245,
+      "impressionCount" : 3246,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -134,7 +134,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 3612,
+      "impressionCount" : 3613,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -157,7 +157,7 @@
       "downloadURL" : "https://dl.discordapp.net/apps/osx/0.0.267/Discord.dmg",
       "homepage" : "https://discord.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 3167,
+      "impressionCount" : 3168,
       "localizedDescription" : "Voice and text chat software",
       "name" : "Discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
@@ -184,7 +184,7 @@
       "downloadURL" : "https://emacsformacosx.com/emacs-builds/Emacs-28.1-4-universal.dmg",
       "homepage" : "https://emacsformacosx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 3020,
+      "impressionCount" : 3021,
       "localizedDescription" : "Text editor",
       "name" : "Emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
@@ -211,7 +211,7 @@
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 3545,
+      "impressionCount" : 3547,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -237,7 +237,7 @@
       "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
       "homepage" : "https://store.steampowered.com/about/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 2113,
+      "impressionCount" : 2115,
       "localizedDescription" : "Video game digital distribution service",
       "name" : "Steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
@@ -262,7 +262,7 @@
       "downloadURL" : "https://github.com/aonez/Keka/releases/download/v1.2.55/Keka-1.2.55.dmg",
       "homepage" : "https://www.keka.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 3803,
+      "impressionCount" : 3804,
       "localizedDescription" : "",
       "name" : "Keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -294,7 +294,7 @@
       "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 2880,
+      "impressionCount" : 2881,
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
@@ -1756,7 +1756,7 @@
       "downloadURL" : "https://github.com/debauchee/barrier/releases/download/v2.4.0/Barrier-2.4.0-Release.dmg",
       "homepage" : "https://github.com/debauchee/barrier/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/AppIcon.png",
-      "impressionCount" : 1339,
+      "impressionCount" : 1340,
       "localizedDescription" : "Open-source KVM software",
       "name" : "Barrier",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/README.md",
@@ -1897,7 +1897,7 @@
       "downloadURL" : "https://github.com/coteditor/CotEditor/releases/download/4.3.1/CotEditor_4.3.1.dmg",
       "homepage" : "https://coteditor.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/AppIcon.png",
-      "impressionCount" : 1998,
+      "impressionCount" : 1999,
       "localizedDescription" : "Plain-text editor for web pages, program source codes and more",
       "name" : "CotEditor",
       "screenshotURLs" : [
@@ -13724,17 +13724,17 @@
         "public.app-category.games"
       ],
       "downloadCount" : 28,
-      "downloadURL" : "https://github.com/mborgerson/xemu/releases/download/v0.7.56/xemu-macos-universal-release.zip",
+      "downloadURL" : "https://github.com/mborgerson/xemu/releases/download/v0.7.57/xemu-macos-universal-release.zip",
       "homepage" : "https://xemu.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xemu/AppIcon.png",
       "impressionCount" : 655,
       "localizedDescription" : "Original Xbox Emulator",
       "name" : "Xemu",
-      "sha256" : "1be77adb8325ce14cde56d697ee870b76f446da2815c365d8d44ea6e4ddbbbe0",
+      "sha256" : "c4cdeb14cd4df535fab5958959a862453b2f324b39e408cd925c61b697cf3c0f",
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
-      "version" : "0.7.56",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "0.7.57",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -31054,16 +31054,17 @@
         "public.app-category.social-networking"
       ],
       "downloadCount" : 2,
-      "downloadURL" : "https://s3.amazonaws.com/micro.blog/mac/Micro.blog_2.5.1.zip",
+      "downloadURL" : "https://s3.amazonaws.com/micro.blog/mac/Micro.blog_2.5.2.zip",
       "homepage" : "https://help.micro.blog/t/micro-blog-for-mac/45",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-microblog/AppIcon.png",
       "impressionCount" : 198,
       "localizedDescription" : "Microblogging and social networking service",
       "name" : "Micro.blog",
-      "sha256" : "4be8726d8f5f094bbac3a4f9da007f248363369dcdc0e70b050511f97b1d57ee",
+      "sha256" : "6bd006b57af0df7677d96d0f14e2f03cee0f936c1a959d3026ecba9e66c7bc7d",
       "subtitle" : "Microblogging and social networking service",
       "tintColor" : "FFB611",
-      "version" : "2.5.1,115"
+      "version" : "2.5.2,116",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -31528,7 +31529,8 @@
       "name" : "SessionRestore",
       "subtitle" : "Helps to keep numerous Safari tabs open for reading them later",
       "tintColor" : "BDD9C8",
-      "version" : "2.6.7"
+      "version" : "2.6.7.1",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -31728,16 +31730,17 @@
         "public.app-category.business"
       ],
       "downloadCount" : 2,
-      "downloadURL" : "https://downloads.stork.ai/macos/release/Stork-1.0.9.1613.dmg",
+      "downloadURL" : "https://downloads.stork.ai/macos/release/Stork-1.0.9.1646.dmg",
       "homepage" : "https://stork.ai/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stork/AppIcon.png",
       "impressionCount" : 322,
       "localizedDescription" : "Messenger with a powerful features for hybrid work",
       "name" : "Stork for macOS",
-      "sha256" : "66b7956b671b79039133a30574d7eb6427ea5f5cd061d81e7b7eba4d73c82071",
+      "sha256" : "b7d6c20cfbd48f5e8f7ac516e1b738929922f3095bba118a70479026b17be344",
       "subtitle" : "Messenger with a powerful features for hybrid work",
       "tintColor" : "EDBBA4",
-      "version" : "1.0.9,1613"
+      "version" : "1.0.9,1646",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -44024,7 +44027,7 @@
       "downloadURL" : "https://files.mcneel.com/rhino/7/mac/releases/rhino_7.19.22180.09002.dmg",
       "homepage" : "https://www.rhino3d.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rhino/AppIcon.png",
-      "impressionCount" : 12,
+      "impressionCount" : 13,
       "localizedDescription" : "3D model creator",
       "name" : "Rhinoceros",
       "sha256" : "3350864b12961cec0f05ae81df91b157d24ec0129ccea6def2bfd6d733af90f1",
@@ -44037,16 +44040,17 @@
       "beta" : false,
       "bundleIdentifier" : "sameboy",
       "downloadCount" : 8,
-      "downloadURL" : "https://github.com/LIJI32/SameBoy/releases/download/v0.14.7/sameboy_cocoa_v0.14.7.zip",
+      "downloadURL" : "https://github.com/LIJI32/SameBoy/releases/download/v0.15/sameboy_cocoa_v0.15.zip",
       "homepage" : "https://sameboy.github.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sameboy/AppIcon.png",
       "impressionCount" : 10,
       "localizedDescription" : "Game Boy and Game Boy Color emulator written in C",
       "name" : "SameBoy",
-      "sha256" : "0cc8acb65beac9a53d56d28aa2f57a78c364b28ca4f84e74fc03b4f800ff93bb",
+      "sha256" : "38b6fdd4e1b8fad7b35746a25ab5c1120d7ddbbb71d0b919604c18318db56f33",
       "subtitle" : "Game Boy and Game Boy Color emulator written in C",
       "tintColor" : "7D8786",
-      "version" : "0.14.7"
+      "version" : "0.15",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -49917,14 +49921,14 @@
       "beta" : false,
       "bundleIdentifier" : "metasploit",
       "downloadCount" : 626,
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.6%2B20220701103056-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.6%2B20220702103018-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "11ed6e91808eff2aee9afcbb0e78791a4baa28ae71215e8aaacf7000a4268e52",
+      "sha256" : "5312ab8ae66785b7fb86cfa52a40329bfa1ddf11ec492684661da50aa229d8ac",
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.6,20220701103056",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "6.2.6,20220702103018",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -50655,13 +50659,14 @@
       "beta" : false,
       "bundleIdentifier" : "krisp",
       "downloadCount" : 202,
-      "downloadURL" : "https://cdn.krisp.ai/mac/release/v1.38/krisp_1.38.4.pkg",
+      "downloadURL" : "https://cdn.krisp.ai/mac/release/v1.39/krisp_1.39.5.pkg",
       "homepage" : "https://krisp.ai/",
       "localizedDescription" : "Sound clear in online meetings",
       "name" : "Krisp",
-      "sha256" : "14ee91683e60d8ce1dddf068851b3ee0666c1150dd0ecbbced24e272be7e699d",
+      "sha256" : "7f8a5da339742afdcad16f96b971cfd5a7c95d23d2af5ccb4d3810b86e2fd806",
       "subtitle" : "Sound clear in online meetings",
-      "version" : "1.38.4"
+      "version" : "1.39.5",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -51380,14 +51385,14 @@
       "beta" : false,
       "bundleIdentifier" : "quarto",
       "downloadCount" : 98,
-      "downloadURL" : "https://github.com/quarto-dev/quarto-cli/releases/download/v0.9.637/quarto-0.9.637-macos.pkg",
+      "downloadURL" : "https://github.com/quarto-dev/quarto-cli/releases/download/v0.9.640/quarto-0.9.640-macos.pkg",
       "homepage" : "https://www.quarto.org/",
       "localizedDescription" : "Scientific and technical publishing system built on Pandoc",
       "name" : "quarto",
-      "sha256" : "f08b7b5ca91b3dded0e6779a7a7ecf2058c34d59734ed0a308a13ed46915d95f",
+      "sha256" : "7499f6eb33bd05ea40339a8dbdaf3c408a7570b7d7f2fa4ee322989c99c72d65",
       "subtitle" : "Scientific and technical publishing system built on Pandoc",
-      "version" : "0.9.637",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "0.9.640",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -52295,13 +52300,14 @@
       "beta" : false,
       "bundleIdentifier" : "sparkle",
       "downloadCount" : 42,
-      "downloadURL" : "https://github.com/sparkle-project/Sparkle/releases/download/2.1.0/Sparkle-2.1.0.tar.xz",
+      "downloadURL" : "https://github.com/sparkle-project/Sparkle/releases/download/2.2.0/Sparkle-2.2.0.tar.xz",
       "homepage" : "https://sparkle-project.org/",
       "localizedDescription" : "Software update framework for Cocoa developers",
       "name" : "Sparkle",
-      "sha256" : "bf6ac1caa9f8d321d5784859c88da874f28412f37fb327bc21b7b14c5d61ef94",
+      "sha256" : "e6c4453058430fd33469b1c093e82094266b1d9874e43a974c52e2ca86671dae",
       "subtitle" : "Software update framework for Cocoa developers",
-      "version" : "2.1.0"
+      "version" : "2.2.0",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -54540,13 +54546,14 @@
       "beta" : false,
       "bundleIdentifier" : "murus",
       "downloadCount" : 10,
-      "downloadURL" : "https://github.com/TheMurusTeam/Murus/releases/download/v2.3.2/Murus.2.3.2.zip",
+      "downloadURL" : "https://github.com/TheMurusTeam/Murus/releases/download/v2.3.3/murus-2.3.3.zip",
       "homepage" : "https://www.murusfirewall.com/",
       "localizedDescription" : "Firewall app",
       "name" : "Murus Firewall",
-      "sha256" : "7a1d3ef8961ae04c1ec3d8de2245fa88a4f5fc4e35c746f6ca80cd16f6171e23",
+      "sha256" : "94b4fa108766fefa60c5d7f00b75790dcc08c17e324a19cd64ac5069f2141bc3",
       "subtitle" : "Firewall app",
-      "version" : "2.3.2"
+      "version" : "2.3.3",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -55495,13 +55502,14 @@
       "beta" : false,
       "bundleIdentifier" : "vallum",
       "downloadCount" : 7,
-      "downloadURL" : "https://github.com/TheMurusTeam/Vallum/releases/download/v4.0.10/vallum-4.0.10.zip",
+      "downloadURL" : "https://github.com/TheMurusTeam/Vallum/releases/download/v4.0.11/vallum-4.0.11.zip",
       "homepage" : "https://www.vallumfirewall.com/",
       "localizedDescription" : "Application firewall",
       "name" : "Vallum",
-      "sha256" : "5e7d8b3ca38fcf784eb0c9aedbe95ef3d7de5a87c9d5b32c6bb905311c52a32b",
+      "sha256" : "0aa154d3b5cf6c06454275be5ac1904ccadf139efa8a93b175a4f8f86c2b28d1",
       "subtitle" : "Application firewall",
-      "version" : "4.0.10"
+      "version" : "4.0.11",
+      "versionDate" : "2022-07-03T07:19:49Z"
     },
     {
       "beta" : false,
@@ -59415,62 +59423,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "telegram",
-      "caption" : "Telegram for macOS updated from 8.8,232680 to 8.8.1,232774",
-      "date" : "2022-07-03T01:10:31Z",
-      "identifier" : "release-telegram-8.8.1,232774",
-      "title" : "New Release: Telegram for macOS 8.8.1,232774"
-    },
-    {
-      "appID" : "darktable",
-      "caption" : "darktable updated from 3.8.1 to 4.0.0",
-      "date" : "2022-07-03T01:10:31Z",
-      "identifier" : "release-darktable-4.0.0",
-      "title" : "New Release: darktable 4.0.0"
-    },
-    {
-      "appID" : "daisydisk",
-      "caption" : "DaisyDisk updated from 4.23 to 4.23.1",
-      "date" : "2022-07-03T01:10:32Z",
-      "identifier" : "release-daisydisk-4.23.1",
-      "title" : "New Release: DaisyDisk 4.23.1"
-    },
-    {
-      "appID" : "usenapp",
-      "caption" : "Usenapp updated from 1.21.1,357 to 1.22,358",
-      "date" : "2022-07-03T01:10:32Z",
-      "identifier" : "release-usenapp-1.22,358",
-      "title" : "New Release: Usenapp 1.22,358"
-    },
-    {
-      "appID" : "microsoft-edge",
-      "caption" : "Microsoft Edge updated from 103.0.1264.37 to 103.0.1264.44",
-      "date" : "2022-07-03T01:10:32Z",
-      "identifier" : "release-microsoft-edge-103.0.1264.44",
-      "title" : "New Release: Microsoft Edge 103.0.1264.44"
-    },
-    {
-      "appID" : "fig",
-      "caption" : "fig updated from 1.0.58,463 to 1.0.58,467",
-      "date" : "2022-07-03T01:10:32Z",
-      "identifier" : "release-fig-1.0.58,467",
-      "title" : "New Release: fig 1.0.58,467"
-    },
-    {
-      "appID" : "librewolf",
-      "caption" : "LibreWolf updated from 101.0.1,1,7e71ebf6a602644d41b0abc72050485d to 102.0,2,829840a978bd03cd57376e47dc3219ff",
-      "date" : "2022-07-03T01:10:32Z",
-      "identifier" : "release-librewolf-102.0,2,829840a978bd03cd57376e47dc3219ff",
-      "title" : "New Release: LibreWolf 102.0,2,829840a978bd03cd57376e47dc3219ff"
-    },
-    {
-      "appID" : "bettertouchtool",
-      "caption" : "BetterTouchTool updated from 3.802,1942 to 3.808,1949",
-      "date" : "2022-07-03T01:10:32Z",
-      "identifier" : "release-bettertouchtool-3.808,1949",
-      "title" : "New Release: BetterTouchTool 3.808,1949"
-    },
-    {
       "appID" : "netron",
       "caption" : "Netron updated from 5.8.9 to 5.9.0",
       "date" : "2022-07-03T01:10:32Z",
@@ -59651,13 +59603,6 @@
       "date" : "2022-07-03T01:10:36Z",
       "identifier" : "release-trilium-notes-0.52.4",
       "title" : "New Release: Trilium Notes 0.52.4"
-    },
-    {
-      "appID" : "xemu",
-      "caption" : "Xemu updated from 0.7.55 to 0.7.56",
-      "date" : "2022-07-03T01:10:36Z",
-      "identifier" : "release-xemu-0.7.56",
-      "title" : "New Release: Xemu 0.7.56"
     },
     {
       "appID" : "popsql",
@@ -59975,13 +59920,6 @@
       "title" : "New Release: Bitwarden 2022.6.0"
     },
     {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.5,20220625103005 to 6.2.6,20220701103056",
-      "date" : "2022-07-03T01:10:43Z",
-      "identifier" : "release-metasploit-6.2.6,20220701103056",
-      "title" : "New Release: Metasploit Framework 6.2.6,20220701103056"
-    },
-    {
       "appID" : "onedrive",
       "caption" : "OneDrive updated from 22.111.0522.0003 to 22.121.0605.0002",
       "date" : "2022-07-03T01:10:43Z",
@@ -60008,13 +59946,6 @@
       "date" : "2022-07-03T01:10:43Z",
       "identifier" : "release-p4-2022.1,2305383",
       "title" : "New Release: Perforce Helix Command-Line Client (P4) 2022.1,2305383"
-    },
-    {
-      "appID" : "quarto",
-      "caption" : "quarto updated from 0.9.629 to 0.9.637",
-      "date" : "2022-07-03T01:10:43Z",
-      "identifier" : "release-quarto-0.9.637",
-      "title" : "New Release: quarto 0.9.637"
     },
     {
       "appID" : "vnc-server",
@@ -60113,6 +60044,83 @@
       "date" : "2022-07-03T04:32:12Z",
       "identifier" : "release-chatty-0.19",
       "title" : "New Release: Chatty 0.19"
+    },
+    {
+      "appID" : "xemu",
+      "caption" : "Xemu updated from 0.7.56 to 0.7.57",
+      "date" : "2022-07-03T07:19:49Z",
+      "identifier" : "release-xemu-0.7.57",
+      "title" : "New Release: Xemu 0.7.57"
+    },
+    {
+      "appID" : "microblog",
+      "caption" : "Micro.blog updated from 2.5.1,115 to 2.5.2,116",
+      "date" : "2022-07-03T07:19:50Z",
+      "identifier" : "release-microblog-2.5.2,116",
+      "title" : "New Release: Micro.blog 2.5.2,116"
+    },
+    {
+      "appID" : "sessionrestore",
+      "caption" : "SessionRestore updated from 2.6.7 to 2.6.7.1",
+      "date" : "2022-07-03T07:19:50Z",
+      "identifier" : "release-sessionrestore-2.6.7.1",
+      "title" : "New Release: SessionRestore 2.6.7.1"
+    },
+    {
+      "appID" : "stork",
+      "caption" : "Stork for macOS updated from 1.0.9,1613 to 1.0.9,1646",
+      "date" : "2022-07-03T07:19:50Z",
+      "identifier" : "release-stork-1.0.9,1646",
+      "title" : "New Release: Stork for macOS 1.0.9,1646"
+    },
+    {
+      "appID" : "sameboy",
+      "caption" : "SameBoy updated from 0.14.7 to 0.15",
+      "date" : "2022-07-03T07:19:50Z",
+      "identifier" : "release-sameboy-0.15",
+      "title" : "New Release: SameBoy 0.15"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.6,20220701103056 to 6.2.6,20220702103018",
+      "date" : "2022-07-03T07:19:50Z",
+      "identifier" : "release-metasploit-6.2.6,20220702103018",
+      "title" : "New Release: Metasploit Framework 6.2.6,20220702103018"
+    },
+    {
+      "appID" : "krisp",
+      "caption" : "Krisp updated from 1.38.4 to 1.39.5",
+      "date" : "2022-07-03T07:19:50Z",
+      "identifier" : "release-krisp-1.39.5",
+      "title" : "New Release: Krisp 1.39.5"
+    },
+    {
+      "appID" : "quarto",
+      "caption" : "quarto updated from 0.9.637 to 0.9.640",
+      "date" : "2022-07-03T07:19:51Z",
+      "identifier" : "release-quarto-0.9.640",
+      "title" : "New Release: quarto 0.9.640"
+    },
+    {
+      "appID" : "sparkle",
+      "caption" : "Sparkle updated from 2.1.0 to 2.2.0",
+      "date" : "2022-07-03T07:19:51Z",
+      "identifier" : "release-sparkle-2.2.0",
+      "title" : "New Release: Sparkle 2.2.0"
+    },
+    {
+      "appID" : "murus",
+      "caption" : "Murus Firewall updated from 2.3.2 to 2.3.3",
+      "date" : "2022-07-03T07:19:51Z",
+      "identifier" : "release-murus-2.3.3",
+      "title" : "New Release: Murus Firewall 2.3.3"
+    },
+    {
+      "appID" : "vallum",
+      "caption" : "Vallum updated from 4.0.10 to 4.0.11",
+      "date" : "2022-07-03T07:19:51Z",
+      "identifier" : "release-vallum-4.0.11",
+      "title" : "New Release: Vallum 4.0.11"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

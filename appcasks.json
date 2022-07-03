@@ -10,7 +10,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.48.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 3684,
+      "impressionCount" : 3685,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -42,7 +42,7 @@
       "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0/mac/en-US/Firefox%20102.0.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 4034,
+      "impressionCount" : 4035,
       "localizedDescription" : "",
       "name" : "Mozilla Firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 3417,
+      "impressionCount" : 3418,
       "localizedDescription" : "",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -103,7 +103,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 3304,
+      "impressionCount" : 3305,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -134,7 +134,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 3671,
+      "impressionCount" : 3672,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -157,7 +157,7 @@
       "downloadURL" : "https://dl.discordapp.net/apps/osx/0.0.267/Discord.dmg",
       "homepage" : "https://discord.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 3226,
+      "impressionCount" : 3227,
       "localizedDescription" : "Voice and text chat software",
       "name" : "Discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
@@ -184,7 +184,7 @@
       "downloadURL" : "https://emacsformacosx.com/emacs-builds/Emacs-28.1-4-universal.dmg",
       "homepage" : "https://emacsformacosx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 3080,
+      "impressionCount" : 3081,
       "localizedDescription" : "Text editor",
       "name" : "Emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
@@ -211,7 +211,7 @@
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 3604,
+      "impressionCount" : 3605,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -237,7 +237,7 @@
       "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
       "homepage" : "https://store.steampowered.com/about/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 2174,
+      "impressionCount" : 2175,
       "localizedDescription" : "Video game digital distribution service",
       "name" : "Steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
@@ -262,7 +262,7 @@
       "downloadURL" : "https://github.com/aonez/Keka/releases/download/v1.2.55/Keka-1.2.55.dmg",
       "homepage" : "https://www.keka.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 3861,
+      "impressionCount" : 3862,
       "localizedDescription" : "",
       "name" : "Keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -294,7 +294,7 @@
       "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 2937,
+      "impressionCount" : 2938,
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
@@ -318,7 +318,7 @@
       "downloadURL" : "https://github.com/MacDownApp/macdown/releases/download/v0.7.2/MacDown.app.zip",
       "homepage" : "https://macdown.uranusjr.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/AppIcon.png",
-      "impressionCount" : 2361,
+      "impressionCount" : 2362,
       "localizedDescription" : "Open-source Markdown editor",
       "name" : "MacDown",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/README.md",
@@ -344,7 +344,7 @@
       "downloadURL" : "https://download.blender.org/release/Blender3.2/blender-3.2.0-macos-x64.dmg",
       "homepage" : "https://www.blender.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
-      "impressionCount" : 3640,
+      "impressionCount" : 3641,
       "localizedDescription" : "",
       "name" : "Blender",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/README.md",
@@ -394,7 +394,7 @@
       "downloadURL" : "https://github.com/macvim-dev/macvim/releases/download/snapshot-172/MacVim.dmg",
       "homepage" : "https://github.com/macvim-dev/macvim",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/AppIcon.png",
-      "impressionCount" : 2210,
+      "impressionCount" : 2211,
       "localizedDescription" : "Text editor",
       "name" : "MacVim",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/README.md",
@@ -420,7 +420,7 @@
       "downloadURL" : "https://launcher.mojang.com/download/Minecraft.dmg",
       "homepage" : "https://minecraft.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/AppIcon.png",
-      "impressionCount" : 2963,
+      "impressionCount" : 2964,
       "localizedDescription" : "",
       "name" : "Minecraft",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/README.md",
@@ -447,7 +447,7 @@
       "downloadURL" : "https://www.git-tower.com/apps/tower3-mac/325-ba151a8d/Tower-8.3-325.zip",
       "homepage" : "https://www.git-tower.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tower/AppIcon.png",
-      "impressionCount" : 3222,
+      "impressionCount" : 3223,
       "localizedDescription" : "Git client focusing on power and productivity",
       "name" : "Tower",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tower/README.md",
@@ -793,17 +793,18 @@
         "public.app-category.utilities"
       ],
       "downloadCount" : 4443,
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.23/Stats.dmg",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.24/Stats.dmg",
       "homepage" : "https://github.com/exelban/stats",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/AppIcon.png",
       "impressionCount" : 1517,
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "b7bf62a5af5f3bae9b0a9eaf320798adee970a30a0f5643a0a98b48b3d022c91",
+      "sha256" : "f43d3f81e084cc8d84fe52c4fb966675f6ed5cf73aa4cc5cd9fc0737bf7f1849",
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
-      "version" : "2.7.23",
+      "version" : "2.7.24",
+      "versionDate" : "2022-07-03T22:19:36Z",
       "viewCount" : 172
     },
     {
@@ -1756,7 +1757,7 @@
       "downloadURL" : "https://github.com/debauchee/barrier/releases/download/v2.4.0/Barrier-2.4.0-Release.dmg",
       "homepage" : "https://github.com/debauchee/barrier/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/AppIcon.png",
-      "impressionCount" : 1374,
+      "impressionCount" : 1375,
       "localizedDescription" : "Open-source KVM software",
       "name" : "Barrier",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/README.md",
@@ -3104,16 +3105,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 1840,
-      "downloadURL" : "https://github.com/flameshot-org/flameshot/releases/download/v12.0.0/flameshot.dmg",
+      "downloadURL" : "https://github.com/flameshot-org/flameshot/releases/download/v12.1.0/flameshot.dmg",
       "homepage" : "https://flameshot.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flameshot/AppIcon.png",
       "impressionCount" : 369,
       "localizedDescription" : "Screenshot software",
       "name" : "Flameshot",
-      "sha256" : "8ffb0c53d983583f8a045df2325ca4852114ace9b806d551d0ee61ebcbfe5007",
+      "sha256" : "70fa1cb9990093b00d184eace8e6c5f1cfefe33decb8ab051141a3847439ff14",
       "subtitle" : "Screenshot software",
       "tintColor" : "DFDFDF",
-      "version" : "12.0.0"
+      "version" : "12.1.0",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -3660,16 +3662,17 @@
         "public.app-category.utilities"
       ],
       "downloadCount" : 842,
-      "downloadURL" : "https://github.com/linearmouse/linearmouse/releases/download/v0.6.2/LinearMouse.dmg",
+      "downloadURL" : "https://github.com/linearmouse/linearmouse/releases/download/v0.7.0/LinearMouse.dmg",
       "homepage" : "https://linearmouse.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-linearmouse/AppIcon.png",
       "impressionCount" : 197,
       "localizedDescription" : "Customize mouse behavior",
       "name" : "LinearMouse",
-      "sha256" : "a2219f8deb08de715f773fb869b26de889a48e8b017dd8349b1731b45886e9c9",
+      "sha256" : "a5015caed2149d7a1f7d5dfc91c4c2b0d636f092db871e6c61d559677c849789",
       "subtitle" : "Customize mouse behavior",
       "tintColor" : "65AAE1",
-      "version" : "0.6.2"
+      "version" : "0.7.0",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -4883,17 +4886,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 338,
-      "downloadURL" : "https://static.lunar.fyi/releases/Lunar-5.7.1.dmg",
+      "downloadURL" : "https://static.lunar.fyi/releases/Lunar-5.7.2.dmg",
       "homepage" : "https://lunar.fyi/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lunar/AppIcon.png",
       "impressionCount" : 207,
       "localizedDescription" : "Adaptive brightness for external displays",
       "name" : "Lunar",
-      "sha256" : "356df730567860409ec8ac960a6836519f918ebbb1ff132f4c4ee7a627bc6bca",
+      "sha256" : "fa1bc6b308e06fb321e9f16c72eb8a74b80e182f3e2943ea7ca8b71268bd0435",
       "subtitle" : "Adaptive brightness for external displays",
       "tintColor" : "F4E2B6",
-      "version" : "5.7.1",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "5.7.2",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -8282,16 +8285,17 @@
         "public.app-category.video"
       ],
       "downloadCount" : 83,
-      "downloadURL" : "https://github.com/xjbeta/iina-plus/releases/download/0.6.14/IINA+.0.6.14.dmg",
+      "downloadURL" : "https://github.com/xjbeta/iina-plus/releases/download/0.6.15/IINA+.0.6.15.dmg",
       "homepage" : "https://github.com/xjbeta/iina-plus",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iina-plus/AppIcon.png",
       "impressionCount" : 328,
       "localizedDescription" : "Extra danmaku support for iina (iina 弹幕支持)",
       "name" : "IINA+",
-      "sha256" : "b99197a4bf8b67a8bb4f3bcff46bef0e26081ac0d23b6791ab22e5676c3dfaef",
+      "sha256" : "320a6caeb3b1f754813824ed41a12e22fb9fd27d7ac789eccdc1ff315eebdbf6",
       "subtitle" : "Extra danmaku support for iina (iina 弹幕支持)",
       "tintColor" : "C1B6ED",
-      "version" : "0.6.14"
+      "version" : "0.6.15",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -9276,16 +9280,17 @@
         "public.app-category.developer-tools"
       ],
       "downloadCount" : 63,
-      "downloadURL" : "https://curseforge.overwolf.com/electron/mac/CurseForge-0.201.1-5.dmg",
+      "downloadURL" : "https://curseforge.overwolf.com/electron/mac/CurseForge-0.203.1-4.dmg",
       "homepage" : "https://curseforge.overwolf.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-curseforge/AppIcon.png",
       "impressionCount" : 233,
       "localizedDescription" : "Download and manage your addons and mods",
       "name" : "CurseForge",
-      "sha256" : "6c053ca1029aa44e6ff91545b5082a076ee0dd0d69e69fc50c06405178eae3ed",
+      "sha256" : "5d04a6c0435c5c4729ce3e431dfe44317b0f67f0f5dd35c8d947bf6003f38b04",
       "subtitle" : "Download and manage your addons and mods",
       "tintColor" : "333333",
-      "version" : "0.201.1-5"
+      "version" : "0.203.1-4",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -18130,16 +18135,17 @@
         "public.app-category.developer-tools"
       ],
       "downloadCount" : 15,
-      "downloadURL" : "https://get.wiz.cn/x/wiznote-desktop-0.1.82-mac-x64.dmg",
+      "downloadURL" : "https://get.wiz.cn/x/wiznote-desktop-0.1.83-mac-x64.dmg",
       "homepage" : "https://www.wiz.cn/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wiznote/AppIcon.png",
       "impressionCount" : 63,
       "localizedDescription" : "Note-taking application",
       "name" : "WizNote",
-      "sha256" : "e4ffb6c8b820e9541c20b61ff5ba5a5cabc3a940cd895f3e55454281f0ea7a30",
+      "sha256" : "3a94e649cdfa05f36306591204c091f7efdf7f209337a0464219ad02823b20aa",
       "subtitle" : "Note-taking application",
       "tintColor" : "9A8DCF",
-      "version" : "0.1.82"
+      "version" : "0.1.83",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -30130,24 +30136,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "vidrio",
-      "categories" : [
-        "public.app-category.business"
-      ],
-      "downloadCount" : 3,
-      "downloadURL" : "https://vidr.io/releases/macos/Vidrio-1.23.dmg",
-      "homepage" : "https://vidr.io/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vidrio/AppIcon.png",
-      "impressionCount" : 861,
-      "localizedDescription" : "Presentation design tool",
-      "name" : "Vidrio",
-      "sha256" : "b24ec467d51fba90ed55c715c27f700b50dd3fe564ec849d8ceec8ec3c7101bf",
-      "subtitle" : "Presentation design tool",
-      "tintColor" : "444444",
-      "version" : "1.23"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vellum",
       "categories" : [
         "public.app-category.productivity"
@@ -31998,17 +31986,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.164.0/Hepta-0.164.0-mac.zip",
+      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.165.0/Hepta-0.165.0-mac.zip",
       "homepage" : "https://heptabase.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hepta/AppIcon.png",
       "impressionCount" : 90,
       "localizedDescription" : "Note-taking tool for visual learning",
       "name" : "Hepta",
-      "sha256" : "ae1ea82a2f2e1727fbe0f8ef4f699625595b2d4302910bf81764f49412d84817",
+      "sha256" : "5083dba85a6f7f6f59704819a9ee56880fcf88b017fb83751de28898b13065d3",
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
-      "version" : "0.164.0",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "0.165.0",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -37933,16 +37921,17 @@
       "beta" : false,
       "bundleIdentifier" : "dupeguru",
       "downloadCount" : 74,
-      "downloadURL" : "https://github.com/arsenetar/dupeguru/releases/download/4.2.1/dupeguru_macOS_Qt_4.2.1.zip",
+      "downloadURL" : "https://github.com/arsenetar/dupeguru/releases/download/4.3.0/dupeguru_macOS_Qt_4.3.0.zip",
       "homepage" : "https://dupeguru.voltaicideas.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dupeguru/AppIcon.png",
       "impressionCount" : 22,
       "localizedDescription" : "Finds duplicate files in a computer system",
       "name" : "dupeGuru",
-      "sha256" : "ce0a49f4524dbd2567a01635bb41f95c10fcac1267cb9372861a5e7098a5d41d",
+      "sha256" : "9fed13632e34a374039147c4acc7887d8018d5270d8fe8efbf1221ab08771d5c",
       "subtitle" : "Finds duplicate files in a computer system",
       "tintColor" : "71321D",
-      "version" : "4.2.1"
+      "version" : "4.3.0",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -38669,16 +38658,17 @@
       "beta" : false,
       "bundleIdentifier" : "chirp",
       "downloadCount" : 51,
-      "downloadURL" : "https://trac.chirp.danplanet.com/chirp_daily/daily-20220620/chirp-unified-daily-20220620.app.zip",
+      "downloadURL" : "https://trac.chirp.danplanet.com/chirp_daily/daily-20220703/chirp-unified-daily-20220703.app.zip",
       "homepage" : "https://chirp.danplanet.com/projects/chirp/wiki/Home",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chirp/AppIcon.png",
       "impressionCount" : 38,
       "localizedDescription" : "Tool for programming amateur radio",
       "name" : "CHIRP",
-      "sha256" : "08116d48d0c2243435b47ab0e806c097fa9678641c4f196d520205f04d30143a",
+      "sha256" : "7e558df9ada89abcb767f1e9760521270f6a89cc27bc9c1a5369f69ad8f0cdcf",
       "subtitle" : "Tool for programming amateur radio",
       "tintColor" : "9AB3B6",
-      "version" : "20220620"
+      "version" : "20220703",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -44427,16 +44417,17 @@
       "beta" : false,
       "bundleIdentifier" : "jgrennison-openttd",
       "downloadCount" : 7,
-      "downloadURL" : "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.47.3/openttd-jgrpp-0.47.3-macos-universal.dmg",
+      "downloadURL" : "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.48.0/openttd-jgrpp-0.48.0-macos-universal.dmg",
       "homepage" : "https://github.com/JGRennison/OpenTTD-patches/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jgrennison-openttd/AppIcon.png",
       "impressionCount" : 10,
       "localizedDescription" : "Collection of patches applied to OpenTTD",
       "name" : "JGR's OpenTTD Patchpack",
-      "sha256" : "5bc5245bf726c5d676d096696699e1e27aafd5560f1cf4f77b7a3b9b7fea85d1",
+      "sha256" : "29fcef04fc5ad8097fdb43dfa43df9df85a95bee0a8a39b18f34d34594497b76",
       "subtitle" : "Collection of patches applied to OpenTTD",
       "tintColor" : "B28846",
-      "version" : "0.47.3"
+      "version" : "0.48.0",
+      "versionDate" : "2022-07-03T22:19:36Z"
     },
     {
       "beta" : false,
@@ -59426,76 +59417,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "burp-suite",
-      "caption" : "Burp Suite Community Edition updated from 2022.5.2 to 2022.6.1",
-      "date" : "2022-07-03T01:10:33Z",
-      "identifier" : "release-burp-suite-2022.6.1",
-      "title" : "New Release: Burp Suite Community Edition 2022.6.1"
-    },
-    {
-      "appID" : "lunar",
-      "caption" : "Lunar updated from 5.7.0 to 5.7.1",
-      "date" : "2022-07-03T01:10:33Z",
-      "identifier" : "release-lunar-5.7.1",
-      "title" : "New Release: Lunar 5.7.1"
-    },
-    {
-      "appID" : "qq",
-      "caption" : "QQ updated from 6.7.9.21089_961 to 6.8.0.21161_962",
-      "date" : "2022-07-03T01:10:33Z",
-      "identifier" : "release-qq-6.8.0.21161_962",
-      "title" : "New Release: QQ 6.8.0.21161_962"
-    },
-    {
-      "appID" : "loom",
-      "caption" : "Loom updated from 0.135.0 to 0.136.0",
-      "date" : "2022-07-03T01:10:33Z",
-      "identifier" : "release-loom-0.136.0",
-      "title" : "New Release: Loom 0.136.0"
-    },
-    {
-      "appID" : "app-cleaner",
-      "caption" : "Nektony App Cleaner & Uninstaller updated from 7.8,878 to 7.8.1,880",
-      "date" : "2022-07-03T01:10:33Z",
-      "identifier" : "release-app-cleaner-7.8.1,880",
-      "title" : "New Release: Nektony App Cleaner & Uninstaller 7.8.1,880"
-    },
-    {
-      "appID" : "downie",
-      "caption" : "Downie updated from 4.5.5,4415 to 4.5.6,4421",
-      "date" : "2022-07-03T01:10:34Z",
-      "identifier" : "release-downie-4.5.6,4421",
-      "title" : "New Release: Downie 4.5.6,4421"
-    },
-    {
-      "appID" : "dropzone",
-      "caption" : "Dropzone updated from 4.3.8,1620 to 4.3.9,1626",
-      "date" : "2022-07-03T01:10:34Z",
-      "identifier" : "release-dropzone-4.3.9,1626",
-      "title" : "New Release: Dropzone 4.3.9,1626"
-    },
-    {
-      "appID" : "cog",
-      "caption" : "Cog updated from 2489,d739e68e to 2514,6a463893",
-      "date" : "2022-07-03T01:10:34Z",
-      "identifier" : "release-cog-2514,6a463893",
-      "title" : "New Release: Cog 2514,6a463893"
-    },
-    {
-      "appID" : "feishu",
-      "caption" : "feishu updated from 5.14.9,ae7e37 to 5.15.6,cc63c6",
-      "date" : "2022-07-03T01:10:34Z",
-      "identifier" : "release-feishu-5.15.6,cc63c6",
-      "title" : "New Release: feishu 5.15.6,cc63c6"
-    },
-    {
-      "appID" : "electron",
-      "caption" : "Electron updated from 19.0.6 to 19.0.7",
-      "date" : "2022-07-03T01:10:34Z",
-      "identifier" : "release-electron-19.0.7",
-      "title" : "New Release: Electron 19.0.7"
-    },
-    {
       "appID" : "runjs",
       "caption" : "RunJS updated from 2.4.1 to 2.5.0",
       "date" : "2022-07-03T01:10:34Z",
@@ -59718,13 +59639,6 @@
       "date" : "2022-07-03T01:10:39Z",
       "identifier" : "release-clock-signal-2022-07-01",
       "title" : "New Release: Clock Signal 2022-07-01"
-    },
-    {
-      "appID" : "hepta",
-      "caption" : "Hepta updated from 0.163.1 to 0.164.0",
-      "date" : "2022-07-03T01:10:39Z",
-      "identifier" : "release-hepta-0.164.0",
-      "title" : "New Release: Hepta 0.164.0"
     },
     {
       "appID" : "coin-wallet",
@@ -60124,6 +60038,83 @@
       "date" : "2022-07-03T16:25:18Z",
       "identifier" : "release-cakebrewjs-1.1.1",
       "title" : "New Release: cakebrewjs 1.1.1"
+    },
+    {
+      "appID" : "stats",
+      "caption" : "Stats updated from 2.7.23 to 2.7.24",
+      "date" : "2022-07-03T22:19:37Z",
+      "identifier" : "release-stats-2.7.24",
+      "title" : "New Release: Stats 2.7.24"
+    },
+    {
+      "appID" : "flameshot",
+      "caption" : "Flameshot updated from 12.0.0 to 12.1.0",
+      "date" : "2022-07-03T22:19:37Z",
+      "identifier" : "release-flameshot-12.1.0",
+      "title" : "New Release: Flameshot 12.1.0"
+    },
+    {
+      "appID" : "linearmouse",
+      "caption" : "LinearMouse updated from 0.6.2 to 0.7.0",
+      "date" : "2022-07-03T22:19:37Z",
+      "identifier" : "release-linearmouse-0.7.0",
+      "title" : "New Release: LinearMouse 0.7.0"
+    },
+    {
+      "appID" : "lunar",
+      "caption" : "Lunar updated from 5.7.1 to 5.7.2",
+      "date" : "2022-07-03T22:19:38Z",
+      "identifier" : "release-lunar-5.7.2",
+      "title" : "New Release: Lunar 5.7.2"
+    },
+    {
+      "appID" : "iina-plus",
+      "caption" : "IINA+ updated from 0.6.14 to 0.6.15",
+      "date" : "2022-07-03T22:19:38Z",
+      "identifier" : "release-iina-plus-0.6.15",
+      "title" : "New Release: IINA+ 0.6.15"
+    },
+    {
+      "appID" : "curseforge",
+      "caption" : "CurseForge updated from 0.201.1-5 to 0.203.1-4",
+      "date" : "2022-07-03T22:19:38Z",
+      "identifier" : "release-curseforge-0.203.1-4",
+      "title" : "New Release: CurseForge 0.203.1-4"
+    },
+    {
+      "appID" : "wiznote",
+      "caption" : "WizNote updated from 0.1.82 to 0.1.83",
+      "date" : "2022-07-03T22:19:38Z",
+      "identifier" : "release-wiznote-0.1.83",
+      "title" : "New Release: WizNote 0.1.83"
+    },
+    {
+      "appID" : "hepta",
+      "caption" : "Hepta updated from 0.164.0 to 0.165.0",
+      "date" : "2022-07-03T22:19:38Z",
+      "identifier" : "release-hepta-0.165.0",
+      "title" : "New Release: Hepta 0.165.0"
+    },
+    {
+      "appID" : "dupeguru",
+      "caption" : "dupeGuru updated from 4.2.1 to 4.3.0",
+      "date" : "2022-07-03T22:19:38Z",
+      "identifier" : "release-dupeguru-4.3.0",
+      "title" : "New Release: dupeGuru 4.3.0"
+    },
+    {
+      "appID" : "chirp",
+      "caption" : "CHIRP updated from 20220620 to 20220703",
+      "date" : "2022-07-03T22:19:38Z",
+      "identifier" : "release-chirp-20220703",
+      "title" : "New Release: CHIRP 20220703"
+    },
+    {
+      "appID" : "jgrennison-openttd",
+      "caption" : "JGR's OpenTTD Patchpack updated from 0.47.3 to 0.48.0",
+      "date" : "2022-07-03T22:19:39Z",
+      "identifier" : "release-jgrennison-openttd-0.48.0",
+      "title" : "New Release: JGR's OpenTTD Patchpack 0.48.0"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

@@ -580,6 +580,15 @@ An example of an app source catalog with a single app is as follows:
         "https://app.example.net/releases/download/1.8.1/screenshot_02-iphone-dark-750x1334.png"
       ],
       
+      "fundingLinks": [
+        {
+          "platform": "GITHUB",
+          "url": "https://github.com/App-Org",
+          "localizedTitle": "Support the development of this app",
+          "localizedDescription": "Help support new features and improvements to this app."
+        }
+      ],
+      
       "permissions": [
         {
           "type": "usage",
@@ -636,16 +645,30 @@ An element of the "apps" array will contain the following properties:
  - `size`: The size, in bytes, of the contents of the `downloadURL`. Optional, but may become required.
  
  - `screenshotURLs`: An array of URL strings pointing to a PNG screenshot of the app. Optional.
- - `permissions`: An array of permission definitions, one for each entitlement, background mode, and feature "*UsageDescription" in use by the app. Optional only if there are no permissions, entitlements, or background modes used by the app.
+ - `fundingLinks`: An array of links to supported funding links. See [Funding Links](#funding-links).
+ - `permissions`: An array of permission definitions, one for each entitlement, background mode, and feature "*UsageDescription" in use by the app. Optional only if there are no permissions, entitlements, or background modes used by the app. See [Permission Types](#permission-types).
 
+#### Funding Links
+ 
+ The properties of the elements of the `fundingLinks` array will contain 
+ these mandatory properties:
+
+ - `platform`: A supported funding platform. e.g., "GITHUB" or "PATREON".
+ - `url`: A valid link to the funding platform's landing page for the account. e.g., "https://github.com/Some-App" or "https://patreon.com/app-creators-united".
+
+Elements can also include the following optional properties:
+
+ - `localizedTitle`: The brief title describing the funding option.
+ - `localizedDescription`: A longer description of the funding goal.
+  
 #### Permission Types
-
-The properties of the elements of the `permissions` array will vary depending on what type
-of permission it describes. 
-
- - `usage`: e.g., `NSBluetoothPeripheralUsageDescription`.
- - `background-mode`: e.g., `audio`
- - `entitlement`: e.g., `keychain-access-groups` or `com.vendor.entitlement.id`
+  
+  The properties of the elements of the `permissions` array will vary depending on what type
+  of permission it describes. 
+  
+   - `usage`: e.g., `NSBluetoothPeripheralUsageDescription`.
+   - `background-mode`: e.g., `audio`
+   - `entitlement`: e.g., `keychain-access-groups` or `com.vendor.entitlement.id`
 
 ### Catalog Generation
 

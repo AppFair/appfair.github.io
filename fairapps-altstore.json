@@ -11,7 +11,7 @@
       "downloadCount": 3,
       "downloadURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux-iOS.ipa",
       "iconURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Stanza-Redux.png",
-      "impressionCount": 276,
+      "impressionCount": 277,
       "issueCount": 0,
       "localizedDescription": "An electronic book reader",
       "metadataURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.33/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -42,7 +42,7 @@
       "version": "0.3.33",
       "versionDate": "2022-06-24T14:30:08Z",
       "versionDescription": "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.32...0.3.33",
-      "viewCount": 52,
+      "viewCount": 53,
       "watcherCount": 0
     },
     {
@@ -81,7 +81,7 @@
       "version": "0.8.439",
       "versionDate": "2022-07-02T02:59:28Z",
       "versionDescription": "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.438...0.8.439",
-      "viewCount": 9,
+      "viewCount": 10,
       "watcherCount": 0
     }
   ],

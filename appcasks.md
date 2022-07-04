@@ -23,22 +23,22 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Signal``](https://signal.org/) | ``5.48.0`` | `2391` | `2022-07-03T01:10:30Z` |  | `3687` | `413` |  | `0` | `social-networking` |
-| [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``102.0`` | `13191` |  |  | `4038` | `524` |  | `0` | `reference` |
-| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `7868` |  |  | `3421` | `335` |  | `0` | `video` |
-| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `26184` |  |  | `3308` | `258` |  | `0` | `developer-tools` |
-| [``Spotify``](https://www.spotify.com/) | ``1.1.88.612,cc529952,10`` | `7382` |  |  | `3675` | `324` |  | `0` | `music` |
-| [``Discord``](https://discord.com/) | ``0.0.267`` | `5732` |  |  | `3230` | `234` |  | `0` | `social-networking` |
-| [``Emacs``](https://emacsformacosx.com/) | ``28.1-4`` | `3043` |  |  | `3084` | `265` |  | `0` | `productivity` |
-| [``WhatsApp``](https://www.whatsapp.com/) | ``2.2222.12`` | `2818` |  |  | `3608` | `325` |  | `0` | `social-networking` |
-| [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2569` |  |  | `2178` | `174` |  | `0` | `games` |
-| [``Keka``](https://www.keka.io/) | ``1.2.55`` | `1820` |  |  | `3865` | `624` |  | `0` | `utilities` |
-| [``OBS``](https://obsproject.com/) | ``27.2.4`` | `1686` |  |  | `2941` | `241` |  | `0` | `video` |
-| [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1396` |  |  | `2365` | `259` |  | `0` | `productivity` |
-| [``Blender``](https://www.blender.org/) | ``3.2.0`` | `1200` |  |  | `3644` | `327` |  | `0` | `graphics-design` |
+| [``Signal``](https://signal.org/) | ``5.48.0`` | `2391` | `2022-07-03T01:10:30Z` |  | `3689` | `413` |  | `0` | `social-networking` |
+| [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``102.0`` | `13191` |  |  | `4040` | `524` |  | `0` | `reference` |
+| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `7868` |  |  | `3423` | `335` |  | `0` | `video` |
+| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `26184` |  |  | `3310` | `258` |  | `0` | `developer-tools` |
+| [``Spotify``](https://www.spotify.com/) | ``1.1.88.612,cc529952,10`` | `7382` |  |  | `3677` | `324` |  | `0` | `music` |
+| [``Discord``](https://discord.com/) | ``0.0.267`` | `5732` |  |  | `3232` | `234` |  | `0` | `social-networking` |
+| [``Emacs``](https://emacsformacosx.com/) | ``28.1-4`` | `3043` |  |  | `3086` | `265` |  | `0` | `productivity` |
+| [``WhatsApp``](https://www.whatsapp.com/) | ``2.2222.12`` | `2818` |  |  | `3610` | `325` |  | `0` | `social-networking` |
+| [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2569` |  |  | `2180` | `174` |  | `0` | `games` |
+| [``Keka``](https://www.keka.io/) | ``1.2.55`` | `1820` |  |  | `3867` | `624` |  | `0` | `utilities` |
+| [``OBS``](https://obsproject.com/) | ``27.2.4`` | `1686` |  |  | `2943` | `241` |  | `0` | `video` |
+| [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1396` |  |  | `2367` | `259` |  | `0` | `productivity` |
+| [``Blender``](https://www.blender.org/) | ``3.2.0`` | `1200` |  |  | `3646` | `327` |  | `0` | `graphics-design` |
 | [``HandBrake``](https://handbrake.fr/) | ``1.5.1`` | `1012` |  |  | `1439` | `101` |  | `0` | `video` |
-| [``MacVim``](https://github.com/macvim-dev/macvim) | ``172`` | `527` |  |  | `2214` | `176` |  | `0` | `productivity` |
-| [``Minecraft``](https://minecraft.net/) | ``1.0.1222`` | `458` |  |  | `2967` | `341` |  | `0` | `games` |
+| [``MacVim``](https://github.com/macvim-dev/macvim) | ``172`` | `527` |  |  | `2216` | `176` |  | `0` | `productivity` |
+| [``Minecraft``](https://minecraft.net/) | ``1.0.1222`` | `458` |  |  | `2969` | `341` |  | `0` | `games` |
 | [``Tower``](https://www.git-tower.com/) | ``8.3,325,ba151a8d`` | `333` |  |  | `3223` | `325` |  | `0` | `developer-tools` |
 | [``BBEdit``](https://www.barebones.com/products/bbedit/) | ``14.5`` | `317` |  |  | `3542` | `399` |  | `0` | `developer-tools` |
 | [``YouTube Music``](https://github.com/steve228uk/YouTube-Music) | ``1.3.3`` | `235` |  |  | `2849` | `242` |  | `0` | `music` |
@@ -99,7 +99,7 @@ tr:nth-child(even) {
 | [``Suspicious Package``](https://www.mothersruin.com/software/SuspiciousPackage/) | ``4.2.1,932`` | `715` |  |  | `853` | `50` |  | `0` | `developer-tools` |
 | [``Telegram Desktop``](https://desktop.telegram.org/) | ``4.0.2`` | `690` |  |  | `1047` | `64` |  | `0` | `social-networking` |
 | [``Charles``](https://www.charlesproxy.com/) | ``4.6.2`` | `569` |  |  | `1057` | `57` |  | `0` | `developer-tools` |
-| [``Joplin``](https://joplinapp.org/) | ``2.8.8`` | `563` |  |  | `1605` | `79` |  | `0` | `developer-tools` |
+| [``Joplin``](https://joplinapp.org/) | ``2.8.8`` | `563` |  |  | `1607` | `79` |  | `0` | `developer-tools` |
 | [``Barrier``](https://github.com/debauchee/barrier/) | ``2.4.0`` | `556` |  |  | `1375` | `80` |  | `0` | `developer-tools` |
 | [``Arduino``](https://www.arduino.cc/) | ``1.8.19`` | `536` |  |  | `1175` | `60` |  | `0` | `education` |
 | [``Dash``](https://kapeli.com/dash) | ``6.2.4,996`` | `520` |  |  | `1839` | `142` |  | `0` | `developer-tools` |
@@ -699,7 +699,7 @@ tr:nth-child(even) {
 | [``AirDroid``](https://www.airdroid.com/) | ``3.7.1.0`` | `33` |  |  | `481` |  |  | `0` | `productivity` |
 | [``Bunch``](https://bunchapp.co/) | ``1.4.8,143`` | `33` |  |  | `348` |  |  | `0` | `productivity` |
 | [``Eltima CloudMounter``](https://mac.eltima.com/mount-cloud-drive.html) | ``3.11,698`` | `33` |  |  | `265` |  |  | `0` | `utilities` |
-| [``MoneyMoney``](https://moneymoney-app.com/) | ``2.4.13,406`` | `33` | `2022-07-03T23:20:45Z` |  | `299` |  |  | `0` | `finance` |
+| [``MoneyMoney``](https://moneymoney-app.com/) | ``2.4.13,406`` | `33` | `2022-07-03T23:20:45Z` |  | `302` |  |  | `0` | `finance` |
 | [``PingPlotter``](https://www.pingplotter.com/) | ``5.23.3`` | `33` |  |  | `110` |  |  | `0` | `utilities` |
 | [``QR Journal``](https://www.joshjacob.com/mac-development/qrjournal.php) | ``2.0`` | `33` |  |  | `97` |  |  | `0` | `utilities` |
 | [``Reveal``](https://revealapp.com/) | ``38,17380`` | `33` |  |  | `93` |  |  | `0` | `developer-tools` |

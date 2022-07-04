@@ -219,3 +219,23 @@ jobs:
           git add .
           git commit -m "cask update" || echo "nothing to commit"
           git push
+          cd -
+
+      # the authoritative fairtool Formula is located at
+      # https://github.com/fair-ground/homebrew-tool
+      # but we maintain a mirror of it (which may someday include extensions)
+      - name: Update Homebrew formulae
+        run: |
+          git clone https://github.com/fair-ground/homebrew-tool.git
+          rm -r homebrew-app/Formula
+          cp -a fair-ground/Formula homebrew-app/Formula
+
+          cd homebrew-app/
+          git config user.name "appfairbot"
+          git config user.email "appfairbot@appfair.net"
+          git pull
+          git add .
+          git commit -m "Update mirror of fair-ground/homebrew-tool" || echo "nothing to commit"
+          git push
+          cd -
+

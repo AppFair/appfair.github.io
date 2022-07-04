@@ -8,7 +8,7 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 141,
+      "downloadCount" : 143,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.65/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.65/App-Fair.png",
@@ -222,33 +222,33 @@
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 2,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.104/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.104/Cloud-Cuckoo.png",
-      "impressionCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/Cloud-Cuckoo.png",
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.104/Info.plist#a5fc4d98ce12224eb4c84abd59f0615a2ba0587c60ea99f2deb06204f3d88c01",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/Info.plist#a5fc4d98ce12224eb4c84abd59f0615a2ba0587c60ea99f2deb06204f3d88c01",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.104/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/README.md#90b2d694802f77768c35dd9aeac9d6b81325b6cb2b603ddd90a63c38495de514",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.104/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.104/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.104/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.104/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.104/screenshot_06-mac-1656x1560.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "3f809413f1adb0c44381c6f8225c0f56cf2a7cb7a1b25568974c33fea12fb9b1",
-      "size" : 2028377,
+      "sha256" : "25471e0fdbcb9210c5052e1a38eaec607a31bbf3260f4691b3f2372cc535dc70",
+      "size" : 2028374,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.104",
-      "versionDate" : "2022-07-04T02:50:26Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.103...0.9.104",
-      "viewCount" : 2,
+      "version" : "0.9.105",
+      "versionDate" : "2022-07-04T04:22:59Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.104...0.9.105",
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -1162,13 +1162,13 @@
       ],
       "coreSize" : 103112,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.439/Tune-Out-macOS.zip",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.439/Tune-Out.png",
-      "impressionCount" : 44,
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.440/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.440/Tune-Out.png",
+      "impressionCount" : 0,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.439/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.440/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -1176,24 +1176,24 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.439/README.md#3e971d17f66a342aa7e8b5b2c0068075fe8aa8a95fa12658e60aa98621bcc325",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.440/README.md#3e971d17f66a342aa7e8b5b2c0068075fe8aa8a95fa12658e60aa98621bcc325",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.439/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.439/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.439/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.439/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.439/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.439/screenshot_03-mac-2180x1464.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.440/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.440/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.440/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.440/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.440/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.440/screenshot_03-mac-2180x1464.png"
       ],
-      "sha256" : "56a4e64d43b494b0b836789259a48239d7f9404fe00b4203bb806cfc7295640e",
-      "size" : 9384604,
+      "sha256" : "de3089bff133fd81a1f601a0b689b5f872e5f8bbc6e8a24eb78d9f9b0a0dbf53",
+      "size" : 9374838,
       "starCount" : 0,
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.439",
-      "versionDate" : "2022-07-02T02:59:28Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.438...0.8.439",
-      "viewCount" : 12,
+      "version" : "0.8.440",
+      "versionDate" : "2022-07-04T04:23:08Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.439...0.8.440",
+      "viewCount" : 0,
       "watcherCount" : 0
     },
     {
@@ -1375,18 +1375,18 @@
       "title" : "New Release: App Fair 0.8.65"
     },
     {
-      "appID" : "app.Tune-Out",
-      "caption" : "Tune Out updated from 0.8.437 to 0.8.439",
-      "date" : "2022-07-02T03:13:57Z",
-      "identifier" : "release-app.Tune-Out-0.8.439",
-      "title" : "New Release: Tune Out 0.8.439"
+      "appID" : "app.Cloud-Cuckoo",
+      "caption" : "Cloud Cuckoo updated from 0.9.104 to 0.9.105",
+      "date" : "2022-07-04T04:41:12Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.105",
+      "title" : "New Release: Cloud Cuckoo 0.9.105"
     },
     {
-      "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo updated from 0.9.102 to 0.9.104",
-      "date" : "2022-07-04T03:10:08Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.104",
-      "title" : "New Release: Cloud Cuckoo 0.9.104"
+      "appID" : "app.Tune-Out",
+      "caption" : "Tune Out updated from 0.8.439 to 0.8.440",
+      "date" : "2022-07-04T04:41:12Z",
+      "identifier" : "release-app.Tune-Out-0.8.440",
+      "title" : "New Release: Tune Out 0.8.440"
     }
   ],
   "sourceURL" : "https://www.appfair.net/fairapps-macos.json"

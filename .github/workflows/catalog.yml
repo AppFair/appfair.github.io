@@ -31,7 +31,7 @@ jobs:
     steps:
       - name: Install fairtool
         run: |
-          brew install appfair/app/fairtool-head
+          brew install fair-ground/tool/fairtool-head
           fairtool-head version
 
       - name: Checkout Catalog

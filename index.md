@@ -311,7 +311,7 @@ It is primarily used by the GitHub action workflows that handle the integration-
 command locally with the `Terminal.app` command:
 
 ```
-brew tap appfair/app && brew install fairtool
+brew install fair-ground/tool/fairtool
 ```
 
 You can check your installation with the commands:
@@ -321,7 +321,8 @@ fairtool version
 fairtool --help
 ```
 
-More information on the `fairtool` can be found in the [documentation](https://fair-ground.github.io/Fair/documentation/fairtool/).
+More information on the `fairtool` can be found in the documentation at
+[fair-ground.org/Fair](https://fair-ground.org/Fair).
 
 An online version of the `fairtool` that can perform a limited subset of the tool commands
 is available at [https://fairtool.herokuapp.com](https://fairtool.herokuapp.com).

@@ -8,7 +8,7 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 192,
+      "downloadCount" : 193,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.65/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.65/App-Fair.png",
@@ -221,8 +221,8 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 6,
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/Cloud-Cuckoo-macOS.zip",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.107/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
         {
           "localizedDescription" : "Help fund upcoming challenges and new additions to the whimsical and award-winning “Cloud Cuckoo” game. Fun for all ages!",
@@ -231,32 +231,65 @@
           "url" : "https://github.com/Cloud-Cuckoo"
         }
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/Cloud-Cuckoo.png",
-      "impressionCount" : 8,
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.107/Cloud-Cuckoo.png",
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/Info.plist#a5fc4d98ce12224eb4c84abd59f0615a2ba0587c60ea99f2deb06204f3d88c01",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.107/Info.plist#a5fc4d98ce12224eb4c84abd59f0615a2ba0587c60ea99f2deb06204f3d88c01",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.107/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/screenshot_06-mac-1656x1560.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.107/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.107/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.107/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.107/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.107/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "3f13b24a1cbc831c10c91e18f206df3295f2fd73b12c82e6547fe91a55ace173",
-      "size" : 2028373,
+      "sha256" : "5aa5df955811b5d9a8cd5444adfdc8a4c8670220ff8c32be605e354eba45a603",
+      "size" : 2028349,
       "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.106",
-      "versionDate" : "2022-07-04T16:23:52Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.105...0.9.106",
-      "viewCount" : 4,
+      "version" : "0.9.107",
+      "versionDate" : "2022-07-04T20:15:30Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.106...0.9.107",
+      "viewCount" : 1,
+      "watcherCount" : 0
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Crazy-Glue",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "coreSize" : 68344,
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadCount" : 14,
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
+      "impressionCount" : 597,
+      "issueCount" : 0,
+      "localizedDescription" : "Putting the pieces back together",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Crazy Glue",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.4/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "bb88aca0dda7fed7a8fb7c8d0c292357e90d6326e1667f2dd8947f1b11f04eac",
+      "size" : 2317729,
+      "starCount" : 0,
+      "subtitle" : "Putting the pieces back together",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-23T23:13:56Z",
+      "versionDescription" : "Release 0.0.4",
+      "viewCount" : 67,
       "watcherCount" : 0
     },
     {
@@ -1388,10 +1421,10 @@
     },
     {
       "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo updated from 0.9.105 to 0.9.106",
-      "date" : "2022-07-04T16:38:47Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.106",
-      "title" : "New Release: Cloud Cuckoo 0.9.106"
+      "caption" : "Cloud Cuckoo updated from 0.9.106 to 0.9.107",
+      "date" : "2022-07-04T20:33:42Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.107",
+      "title" : "New Release: Cloud Cuckoo 0.9.107"
     }
   ],
   "sourceURL" : "https://www.appfair.net/fairapps-macos.json"

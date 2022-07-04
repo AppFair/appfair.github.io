@@ -8,7 +8,7 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 191,
+      "downloadCount" : 192,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.65/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.65/App-Fair.png",
@@ -221,7 +221,7 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 4,
+      "downloadCount" : 6,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.106/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
         {
@@ -257,39 +257,6 @@
       "versionDate" : "2022-07-04T16:23:52Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.105...0.9.106",
       "viewCount" : 4,
-      "watcherCount" : 0
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-        "public.app-category.graphics-design"
-      ],
-      "coreSize" : 68344,
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 14,
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 597,
-      "issueCount" : 0,
-      "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Crazy Glue",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Crazy-Glue/App/releases/download/0.0.4/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "bb88aca0dda7fed7a8fb7c8d0c292357e90d6326e1667f2dd8947f1b11f04eac",
-      "size" : 2317729,
-      "starCount" : 0,
-      "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-23T23:13:56Z",
-      "versionDescription" : "Release 0.0.4",
-      "viewCount" : 67,
       "watcherCount" : 0
     },
     {

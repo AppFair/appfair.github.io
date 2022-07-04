@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | [``0.8.65``](https://github.com/App-Fair/App/releases/0.8.65) | `177` | `2022-07-02T03:02:37Z` | `8.9 MB` | `46` | `14` | `20` | [``4``](https://github.com/App-Fair/App/issues) | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [``App Fair``](https://appfair.app) | [``0.8.65``](https://github.com/App-Fair/App/releases/0.8.65) | `179` | `2022-07-02T03:02:37Z` | `8.9 MB` | `46` | `14` | `20` | [``4``](https://github.com/App-Fair/App/issues) | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [``App Name``](https://App-Name.github.io/App/) | [``0.0.1β``](https://github.com/App-Name/App/releases/0.0.1) | `2` | `2022-07-02T16:38:41Z` | `2 MB` | `8` | `2` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `4` | `2022-05-19T21:18:14Z` | `2.4 MB` | `50` | `11` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `25` | `2022-05-24T14:45:09Z` | `4.5 MB` | `1590` | `347` | `1` | `0` | [`productivity`](https://github.com/topics/appfair-productivity)  |

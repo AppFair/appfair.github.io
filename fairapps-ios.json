@@ -48,6 +48,14 @@
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "localizedDescription" : "Help fund upcoming challenges and new additions to the whimsical and award-winning “Cloud Cuckoo” game. Fun for all ages!",
+          "localizedTitle" : "Support the development of “Cloud Cuckoo”",
+          "platform" : "GITHUB",
+          "url" : "https://github.com/Cloud-Cuckoo"
+        }
+      ],
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.105/Cloud-Cuckoo.png",
       "impressionCount" : 1,
       "issueCount" : 0,

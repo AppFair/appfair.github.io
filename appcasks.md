@@ -23,18 +23,18 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Signal``](https://signal.org/) | ``5.48.0`` | `2422` | `2022-07-03T01:10:30Z` |  | `3741` | `420` |  | `0` | `social-networking` |
-| [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``102.0`` | `13065` |  |  | `4093` | `528` |  | `0` | `reference` |
-| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `7818` |  |  | `3474` | `339` |  | `0` | `video` |
-| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `25882` |  |  | `3362` | `263` |  | `0` | `developer-tools` |
-| [``Spotify``](https://www.spotify.com/) | ``1.1.88.612,cc529952,10`` | `7274` |  |  | `3728` | `325` |  | `0` | `music` |
-| [``Discord``](https://discord.com/) | ``0.0.267`` | `5642` |  |  | `3284` | `238` |  | `0` | `social-networking` |
-| [``Emacs``](https://emacsformacosx.com/) | ``28.1-4`` | `3037` |  |  | `3137` | `269` |  | `0` | `productivity` |
-| [``WhatsApp``](https://www.whatsapp.com/) | ``2.2222.12`` | `2808` |  |  | `3660` | `328` |  | `0` | `social-networking` |
-| [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2532` |  |  | `2230` | `175` |  | `0` | `games` |
-| [``Keka``](https://www.keka.io/) | ``1.2.55`` | `1819` |  |  | `3917` | `627` |  | `0` | `utilities` |
-| [``OBS``](https://obsproject.com/) | ``27.2.4`` | `1686` |  |  | `2993` | `243` |  | `0` | `video` |
-| [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1385` |  |  | `2417` | `263` |  | `0` | `productivity` |
+| [``Signal``](https://signal.org/) | ``5.48.0`` | `2422` | `2022-07-03T01:10:30Z` |  | `3743` | `420` |  | `0` | `social-networking` |
+| [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``102.0`` | `13065` |  |  | `4094` | `528` |  | `0` | `reference` |
+| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `7818` |  |  | `3476` | `339` |  | `0` | `video` |
+| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `25882` |  |  | `3364` | `263` |  | `0` | `developer-tools` |
+| [``Spotify``](https://www.spotify.com/) | ``1.1.88.612,cc529952,10`` | `7274` |  |  | `3730` | `325` |  | `0` | `music` |
+| [``Discord``](https://discord.com/) | ``0.0.267`` | `5642` |  |  | `3285` | `238` |  | `0` | `social-networking` |
+| [``Emacs``](https://emacsformacosx.com/) | ``28.1-4`` | `3037` |  |  | `3138` | `269` |  | `0` | `productivity` |
+| [``WhatsApp``](https://www.whatsapp.com/) | ``2.2222.12`` | `2808` |  |  | `3662` | `328` |  | `0` | `social-networking` |
+| [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2532` |  |  | `2232` | `175` |  | `0` | `games` |
+| [``Keka``](https://www.keka.io/) | ``1.2.55`` | `1819` |  |  | `3919` | `627` |  | `0` | `utilities` |
+| [``OBS``](https://obsproject.com/) | ``27.2.4`` | `1686` |  |  | `2995` | `243` |  | `0` | `video` |
+| [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1385` |  |  | `2418` | `263` |  | `0` | `productivity` |
 | [``Blender``](https://www.blender.org/) | ``3.2.0`` | `1196` |  |  | `3685` | `329` |  | `0` | `graphics-design` |
 | [``HandBrake``](https://handbrake.fr/) | ``1.5.1`` | `1007` |  |  | `1453` | `103` |  | `0` | `video` |
 | [``MacVim``](https://github.com/macvim-dev/macvim) | ``172`` | `517` |  |  | `2256` | `181` |  | `0` | `productivity` |

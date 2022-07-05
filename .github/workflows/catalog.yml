@@ -78,6 +78,7 @@ jobs:
           fairtool-head fair catalog \
             --verbose \
             --hub github.com/appfair \
+            --base-repo "App" \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --artifact-extension "zip" \
             --fairseal-issuer "appfairbot" \
@@ -129,6 +130,7 @@ jobs:
           fairtool-head fair catalog \
             --verbose \
             --hub github.com/appfair \
+            --base-repo "App" \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --artifact-extension "ipa" \
             --fairseal-issuer "appfairbot" \
@@ -177,6 +179,7 @@ jobs:
           fairtool-head brew appcasks \
             --verbose \
             --hub github.com/appfair \
+            --base-repo "App" \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --merge-cask-info "https://formulae.brew.sh/api/cask.json" \
             --merge-cask-stats "https://formulae.brew.sh/api/analytics/cask-install/homebrew-cask/30d.json" \

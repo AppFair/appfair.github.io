@@ -3185,7 +3185,7 @@ tr:nth-child(even) {
 | [``Sqlectron``](https://sqlectron.github.io/) | ``1.38.0`` | `54` |  |  |  |  |  | `0` |  |
 | [``Tableau Public``](https://public.tableau.com/s/) | ``2022.2.0`` | `54` |  |  |  |  |  | `0` |  |
 | [``SteamCMD``](https://developer.valvesoftware.com/wiki/SteamCMD) | ``latest`` | `53` |  |  |  |  |  | `0` |  |
-| [``Yandex.Disk``](https://disk.yandex.ru/) | ``3.2.18,2920`` | `53` |  |  |  |  |  | `0` |  |
+| [``Yandex.Disk``](https://disk.yandex.ru/) | ``3.2.19,2943`` | `53` | `2022-07-06T10:21:26Z` |  |  |  |  | `0` |  |
 | [``BlueJeans``](https://www.bluejeans.com/) | ``2.36.0.270`` | `52` |  |  |  |  |  | `0` |  |
 | [``Dwarf Fortress``](https://www.bay12games.com/dwarves/) | ``0.47.05`` | `51` |  |  |  |  |  | `0` |  |
 | [``sqlcl``](https://www.oracle.com/sqlcl) | ``22.2.0.172.1718`` | `51` |  |  |  |  |  | `0` |  |

@@ -52060,7 +52060,8 @@
       "localizedDescription" : "Cloud storage",
       "name" : "Yandex.Disk",
       "subtitle" : "Cloud storage",
-      "version" : "3.2.18,2920"
+      "version" : "3.2.19,2943",
+      "versionDate" : "2022-07-06T10:21:26Z"
     },
     {
       "beta" : false,
@@ -59497,13 +59498,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "ff-works",
-      "caption" : "ff·Works updated from 3.1 to 3.1.1",
-      "date" : "2022-07-04T16:26:09Z",
-      "identifier" : "release-ff-works-3.1.1",
-      "title" : "New Release: ff·Works 3.1.1"
-    },
-    {
       "appID" : "anydo",
       "caption" : "Any.do updated from 4.2.166 to 4.2.167",
       "date" : "2022-07-04T16:26:10Z",
@@ -60195,6 +60189,13 @@
       "date" : "2022-07-06T04:52:08Z",
       "identifier" : "release-volanta-1.3.2,7e327832",
       "title" : "New Release: Volanta 1.3.2,7e327832"
+    },
+    {
+      "appID" : "yandex-disk",
+      "caption" : "Yandex.Disk updated from 3.2.18,2920 to 3.2.19,2943",
+      "date" : "2022-07-06T10:21:27Z",
+      "identifier" : "release-yandex-disk-3.2.19,2943",
+      "title" : "New Release: Yandex.Disk 3.2.19,2943"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

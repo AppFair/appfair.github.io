@@ -10,7 +10,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.48.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 3892,
+      "impressionCount" : 3896,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -42,7 +42,7 @@
       "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0.1/mac/en-US/Firefox%20102.0.1.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 4243,
+      "impressionCount" : 4247,
       "localizedDescription" : "Web browser",
       "name" : "Mozilla Firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 3625,
+      "impressionCount" : 3629,
       "localizedDescription" : "Multimedia player",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -89,7 +89,7 @@
       "subtitle" : "Multimedia player",
       "tintColor" : "E5984A",
       "version" : "3.0.17.3",
-      "viewCount" : 343
+      "viewCount" : 344
     },
     {
       "beta" : false,
@@ -102,7 +102,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 3512,
+      "impressionCount" : 3516,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -121,7 +121,7 @@
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
       "tintColor" : "202B2A",
       "version" : "3.4.16",
-      "viewCount" : 275
+      "viewCount" : 276
     },
     {
       "beta" : false,
@@ -133,7 +133,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 3878,
+      "impressionCount" : 3882,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -144,7 +144,7 @@
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
       "version" : "1.1.88.612,cc529952,10",
-      "viewCount" : 329
+      "viewCount" : 330
     },
     {
       "beta" : false,
@@ -156,7 +156,7 @@
       "downloadURL" : "https://dl.discordapp.net/apps/osx/0.0.267/Discord.dmg",
       "homepage" : "https://discord.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 3433,
+      "impressionCount" : 3437,
       "localizedDescription" : "Voice and text chat software",
       "name" : "Discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
@@ -171,7 +171,7 @@
       "subtitle" : "Voice and text chat software",
       "tintColor" : "8E95EF",
       "version" : "0.0.267",
-      "viewCount" : 244
+      "viewCount" : 245
     },
     {
       "beta" : false,
@@ -183,7 +183,7 @@
       "downloadURL" : "https://emacsformacosx.com/emacs-builds/Emacs-28.1-4-universal.dmg",
       "homepage" : "https://emacsformacosx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 3279,
+      "impressionCount" : 3283,
       "localizedDescription" : "Text editor",
       "name" : "Emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
@@ -198,7 +198,7 @@
       "subtitle" : "Text editor",
       "tintColor" : "9379BF",
       "version" : "28.1-4",
-      "viewCount" : 273
+      "viewCount" : 274
     },
     {
       "beta" : false,
@@ -210,7 +210,7 @@
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 3797,
+      "impressionCount" : 3801,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -224,7 +224,7 @@
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
       "version" : "2.2222.12",
-      "viewCount" : 330
+      "viewCount" : 331
     },
     {
       "beta" : false,
@@ -236,7 +236,7 @@
       "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
       "homepage" : "https://store.steampowered.com/about/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 2366,
+      "impressionCount" : 2370,
       "localizedDescription" : "Video game digital distribution service",
       "name" : "Steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
@@ -249,7 +249,7 @@
       "subtitle" : "Video game digital distribution service",
       "tintColor" : "416082",
       "version" : "4.0",
-      "viewCount" : 176
+      "viewCount" : 177
     },
     {
       "beta" : false,
@@ -261,7 +261,7 @@
       "downloadURL" : "https://github.com/aonez/Keka/releases/download/v1.2.55/Keka-1.2.55.dmg",
       "homepage" : "https://www.keka.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 4055,
+      "impressionCount" : 4059,
       "localizedDescription" : "File archiver",
       "name" : "Keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -280,7 +280,7 @@
       "subtitle" : "File archiver",
       "tintColor" : "8E7568",
       "version" : "1.2.55",
-      "viewCount" : 629
+      "viewCount" : 630
     },
     {
       "beta" : false,
@@ -292,7 +292,7 @@
       "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 3131,
+      "impressionCount" : 3135,
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
@@ -304,7 +304,7 @@
       "subtitle" : "Open-source software for live streaming and screen recording",
       "tintColor" : "369C3B",
       "version" : "27.2.4",
-      "viewCount" : 246
+      "viewCount" : 247
     },
     {
       "beta" : false,
@@ -316,7 +316,7 @@
       "downloadURL" : "https://github.com/MacDownApp/macdown/releases/download/v0.7.2/MacDown.app.zip",
       "homepage" : "https://macdown.uranusjr.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/AppIcon.png",
-      "impressionCount" : 2551,
+      "impressionCount" : 2555,
       "localizedDescription" : "Open-source Markdown editor",
       "name" : "MacDown",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/README.md",
@@ -330,7 +330,7 @@
       "subtitle" : "Open-source Markdown editor",
       "tintColor" : "5BC1DA",
       "version" : "0.7.2",
-      "viewCount" : 268
+      "viewCount" : 269
     },
     {
       "beta" : false,
@@ -342,7 +342,7 @@
       "downloadURL" : "https://download.blender.org/release/Blender3.2/blender-3.2.0-macos-x64.dmg",
       "homepage" : "https://www.blender.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
-      "impressionCount" : 3787,
+      "impressionCount" : 3791,
       "localizedDescription" : "3D creation suite",
       "name" : "Blender",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/README.md",
@@ -391,7 +391,7 @@
       "downloadURL" : "https://github.com/macvim-dev/macvim/releases/download/snapshot-172/MacVim.dmg",
       "homepage" : "https://github.com/macvim-dev/macvim",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/AppIcon.png",
-      "impressionCount" : 2350,
+      "impressionCount" : 2354,
       "localizedDescription" : "Text editor",
       "name" : "MacVim",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/README.md",
@@ -417,7 +417,7 @@
       "downloadURL" : "https://launcher.mojang.com/download/Minecraft.dmg",
       "homepage" : "https://minecraft.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/AppIcon.png",
-      "impressionCount" : 3088,
+      "impressionCount" : 3092,
       "localizedDescription" : "Sandbox construction video game",
       "name" : "Minecraft",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/README.md",
@@ -686,7 +686,7 @@
       "downloadURL" : "https://desktop.docker.com/mac/main/amd64/82475/Docker.dmg",
       "homepage" : "https://www.docker.com/products/docker-desktop",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-docker/AppIcon.png",
-      "impressionCount" : 1870,
+      "impressionCount" : 1871,
       "localizedDescription" : "App to build and share containerized applications and microservices",
       "name" : "Docker Desktop",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-docker/README.md",
@@ -1757,7 +1757,7 @@
       "downloadURL" : "https://downloads.arduino.cc/arduino-1.8.19-macosx.zip",
       "homepage" : "https://www.arduino.cc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arduino/AppIcon.png",
-      "impressionCount" : 1308,
+      "impressionCount" : 1312,
       "localizedDescription" : "Electronics prototyping platform",
       "name" : "Arduino",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arduino/README.md",
@@ -3159,7 +3159,7 @@
       "downloadURL" : "https://github.com/facebook/flipper/releases/download/v0.153.0/Flipper-mac.dmg",
       "homepage" : "https://fbflipper.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flipper/AppIcon.png",
-      "impressionCount" : 265,
+      "impressionCount" : 266,
       "localizedDescription" : "Desktop debugging platform for mobile developers",
       "name" : "Facebook Flipper",
       "sha256" : "966bd0f138fed35c048bf367329bbb59d4e5a9b79194cc56152e95a277439197",
@@ -9708,7 +9708,7 @@
       "downloadURL" : "https://sf16-va.larksuitecdn.com/obj/lark-artifact-storage/64f569/Lark-darwin_x64-5.13.10-signed.dmg",
       "homepage" : "https://www.larksuite.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lark/AppIcon.png",
-      "impressionCount" : 560,
+      "impressionCount" : 561,
       "localizedDescription" : "Project management software",
       "name" : "Lark",
       "sha256" : "77e9fd1fa92a9ccd42b12fd1cafd9d980e569e10658378e82900542b49ce9eed",
@@ -10048,7 +10048,7 @@
       "downloadURL" : "https://github.com/massCodeIO/massCode/releases/download/v2.7.0/massCode-2.7.0.dmg",
       "homepage" : "https://masscode.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-masscode/AppIcon.png",
-      "impressionCount" : 383,
+      "impressionCount" : 384,
       "localizedDescription" : "Open-source code snippets manager for developers",
       "name" : "massCode",
       "sha256" : "58dbb36f2a18dca9e8fb54f1d0996915f31448eb4b56dcb352ddbf8ebc228d60",
@@ -10355,7 +10355,7 @@
       "downloadURL" : "https://soulver.app/mac/sparkle/soulver-3.5.9-297.zip",
       "homepage" : "https://soulver.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-soulver/AppIcon.png",
-      "impressionCount" : 146,
+      "impressionCount" : 147,
       "localizedDescription" : "Notepad with a built-in calculator",
       "name" : "Soulver",
       "sha256" : "456e67f6cbf057de0d6cb9159c0e8616a097ee6a25d769e8335232cd06a46773",
@@ -12502,7 +12502,7 @@
       "downloadURL" : "https://files.gyazo.com/setup/Gyazo-3.9.4.dmg",
       "homepage" : "https://gyazo.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gyazo/AppIcon.png",
-      "impressionCount" : 241,
+      "impressionCount" : 242,
       "localizedDescription" : "Screenshot and screen recording tool",
       "name" : "Nota Gyazo GIF",
       "sha256" : "28bfd9bc3001f1020cc8c7b364a4b79e0d4f2d1e43ace2fc692513a205cd31a1",
@@ -13230,7 +13230,7 @@
       "downloadURL" : "https://github.com/mborgerson/xemu/releases/download/v0.7.58/xemu-macos-universal-release.zip",
       "homepage" : "https://xemu.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xemu/AppIcon.png",
-      "impressionCount" : 711,
+      "impressionCount" : 712,
       "localizedDescription" : "Original Xbox Emulator",
       "name" : "Xemu",
       "sha256" : "2d230316c73b76a06910365d5a415d8f53d19103c5bf1b6d6289546619a98241",
@@ -13712,7 +13712,7 @@
       "downloadURL" : "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.11.1.dmg",
       "homepage" : "https://www.lunarclient.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lunar-client/AppIcon.png",
-      "impressionCount" : 732,
+      "impressionCount" : 733,
       "localizedDescription" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "name" : "Lunar Client",
       "sha256" : "656efc88576dc6dd5f0783f9da8b05f181b625af9781a28004d10c4d110cb471",
@@ -14853,7 +14853,7 @@
       "downloadURL" : "https://www.facebook.com/work/chat/download/mac",
       "homepage" : "https://www.facebook.com/workplace/chat-app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-workplace-chat/AppIcon.png",
-      "impressionCount" : 147,
+      "impressionCount" : 148,
       "localizedDescription" : "Communications portal for your organisation",
       "name" : "Facebook Workplace Chat",
       "subtitle" : "Communications portal for your organisation",

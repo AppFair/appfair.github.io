@@ -79,6 +79,7 @@ jobs:
             --verbose \
             --hub github.com/appfair \
             --base-repo "App" \
+            --funding-sources \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --artifact-extension "zip" \
             --fairseal-issuer "appfairbot" \
@@ -131,6 +132,7 @@ jobs:
             --verbose \
             --hub github.com/appfair \
             --base-repo "App" \
+            --funding-sources \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --artifact-extension "ipa" \
             --fairseal-issuer "appfairbot" \
@@ -180,6 +182,9 @@ jobs:
             --verbose \
             --hub github.com/appfair \
             --base-repo "App" \
+            --funding-sources \
+            --casks-repo "appcasks" \
+            --max-apps 1000000 \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --merge-cask-info "https://formulae.brew.sh/api/cask.json" \
             --merge-cask-stats "https://formulae.brew.sh/api/analytics/cask-install/homebrew-cask/30d.json" \

@@ -1997,7 +1997,7 @@
       "version" : "1.11.0",
       "versionDate" : "2022-07-06T02:17:47Z",
       "versionDescription" : "",
-      "viewCount" : 116
+      "viewCount" : 117
     },
     {
       "beta" : false,
@@ -9831,24 +9831,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "boostnote",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadCount" : 57,
-      "downloadURL" : "https://github.com/BoostIO/boost-releases/releases/download/v0.16.1/Boostnote-mac.zip",
-      "homepage" : "https://boostnote.io/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-boostnote/AppIcon.png",
-      "impressionCount" : 313,
-      "localizedDescription" : "Markdown editor for developers",
-      "name" : "Boostnote",
-      "sha256" : "518b562f7139d4a50f75cba2c4221913c22bcb88f1e322c6c942119b3f3bc1bf",
-      "subtitle" : "Markdown editor for developers",
-      "tintColor" : "43CD9A",
-      "version" : "0.16.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "datweatherdoe",
       "categories" : [
         "public.app-category.weather"
@@ -10394,16 +10376,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 51,
-      "downloadURL" : "https://soulver.app/mac/sparkle/soulver-3.5.8-295.zip",
+      "downloadURL" : "https://soulver.app/mac/sparkle/soulver-3.5.9-297.zip",
       "homepage" : "https://soulver.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-soulver/AppIcon.png",
       "impressionCount" : 136,
       "localizedDescription" : "Notepad with a built-in calculator",
       "name" : "Soulver",
-      "sha256" : "7adba68490ca1b6b50f7a3829b3954f1b3657817608ad3ed1e2294d54da0dc8b",
+      "sha256" : "456e67f6cbf057de0d6cb9159c0e8616a097ee6a25d769e8335232cd06a46773",
       "subtitle" : "Notepad with a built-in calculator",
       "tintColor" : "C9B995",
-      "version" : "3.5.8,295"
+      "version" : "3.5.9,297",
+      "versionDate" : "2022-07-06T04:52:06Z"
     },
     {
       "beta" : false,
@@ -13268,17 +13251,17 @@
         "public.app-category.games"
       ],
       "downloadCount" : 31,
-      "downloadURL" : "https://github.com/mborgerson/xemu/releases/download/v0.7.57/xemu-macos-universal-release.zip",
+      "downloadURL" : "https://github.com/mborgerson/xemu/releases/download/v0.7.58/xemu-macos-universal-release.zip",
       "homepage" : "https://xemu.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xemu/AppIcon.png",
       "impressionCount" : 697,
       "localizedDescription" : "Original Xbox Emulator",
       "name" : "Xemu",
-      "sha256" : "c4cdeb14cd4df535fab5958959a862453b2f324b39e408cd925c61b697cf3c0f",
+      "sha256" : "2d230316c73b76a06910365d5a415d8f53d19103c5bf1b6d6289546619a98241",
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
-      "version" : "0.7.57",
-      "versionDate" : "2022-07-03T07:19:49Z"
+      "version" : "0.7.58",
+      "versionDate" : "2022-07-06T04:52:06Z"
     },
     {
       "beta" : false,
@@ -13750,16 +13733,17 @@
         "public.app-category.games"
       ],
       "downloadCount" : 28,
-      "downloadURL" : "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.10.9.dmg",
+      "downloadURL" : "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.11.1.dmg",
       "homepage" : "https://www.lunarclient.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lunar-client/AppIcon.png",
       "impressionCount" : 718,
       "localizedDescription" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "name" : "Lunar Client",
-      "sha256" : "e7a55cacfa3b4374ec71de97643447956b347570ca7eac8f6760b9c30e0e8580",
+      "sha256" : "656efc88576dc6dd5f0783f9da8b05f181b625af9781a28004d10c4d110cb471",
       "subtitle" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "tintColor" : "828487",
-      "version" : "2.10.9"
+      "version" : "2.11.1",
+      "versionDate" : "2022-07-06T04:52:06Z"
     },
     {
       "beta" : false,
@@ -14898,7 +14882,8 @@
       "name" : "Facebook Workplace Chat",
       "subtitle" : "Communications portal for your organisation",
       "tintColor" : "A79CDB",
-      "version" : "103.72.123"
+      "version" : "155.0.0.22.218",
+      "versionDate" : "2022-07-06T04:52:06Z"
     },
     {
       "beta" : false,
@@ -30234,8 +30219,10 @@
       "homepage" : "https://awaremac.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-aware/AppIcon.png",
       "impressionCount" : 577,
+      "localizedDescription" : "Menubar app to track active computer use",
       "name" : "Aware",
       "sha256" : "d987999711365f0d925a8e64da8122e1ae501e45e6782fa093264180b0e32b45",
+      "subtitle" : "Menubar app to track active computer use",
       "tintColor" : "8C5178",
       "version" : "1.0.6"
     },
@@ -59484,14 +59471,14 @@
       "beta" : false,
       "bundleIdentifier" : "volanta",
       "downloadCount" : 1,
-      "downloadURL" : "https://cdn.volanta.app/software/volanta-app/1.3.0-5fe25830/volanta-1.3.0.dmg",
+      "downloadURL" : "https://cdn.volanta.app/software/volanta-app/1.3.2-7e327832/volanta-1.3.2.dmg",
       "homepage" : "https://volanta.app/roadmap/",
       "localizedDescription" : "Personal flight tracker",
       "name" : "Volanta",
-      "sha256" : "0e321a52a088df0589cce0976f3a0c1f15a5ee2a5dd60a8a72503dc406361daa",
+      "sha256" : "bf7d8337cca4de5a2c524f0dd726c81a9f7cc616a9f332b06d4fb7854c5d6038",
       "subtitle" : "Personal flight tracker",
-      "version" : "1.3.0,5fe25830",
-      "versionDate" : "2022-07-05T12:32:07Z"
+      "version" : "1.3.2,7e327832",
+      "versionDate" : "2022-07-06T04:52:06Z"
     },
     {
       "beta" : false,
@@ -59509,34 +59496,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "App Fair AppCasks",
   "news" : [
-    {
-      "appID" : "yuque",
-      "caption" : "Yuque updated from 1.3.5 to 1.4.3",
-      "date" : "2022-07-04T15:21:32Z",
-      "identifier" : "release-yuque-1.4.3",
-      "title" : "New Release: Yuque 1.4.3"
-    },
-    {
-      "appID" : "valentina-studio",
-      "caption" : "Valentina Studio updated from 12.4.3 to 12.4.4",
-      "date" : "2022-07-04T16:26:09Z",
-      "identifier" : "release-valentina-studio-12.4.4",
-      "title" : "New Release: Valentina Studio 12.4.4"
-    },
-    {
-      "appID" : "izip",
-      "caption" : "iZip updated from 4.0.19 to 4.1.20",
-      "date" : "2022-07-04T16:26:09Z",
-      "identifier" : "release-izip-4.1.20",
-      "title" : "New Release: iZip 4.1.20"
-    },
-    {
-      "appID" : "youdaonote",
-      "caption" : "youdaonote updated from 7.1.0 to 7.1.3",
-      "date" : "2022-07-04T16:26:09Z",
-      "identifier" : "release-youdaonote-7.1.3",
-      "title" : "New Release: youdaonote 7.1.3"
-    },
     {
       "appID" : "ff-works",
       "caption" : "ff·Works updated from 3.1 to 3.1.1",
@@ -59844,13 +59803,6 @@
       "date" : "2022-07-05T12:32:14Z",
       "identifier" : "release-winclone-10.1,50060",
       "title" : "New Release: Winclone 10.1,50060"
-    },
-    {
-      "appID" : "volanta",
-      "caption" : "Volanta 1.3.0,5fe25830 released",
-      "date" : "2022-07-05T12:32:14Z",
-      "identifier" : "release-volanta-1.3.0,5fe25830",
-      "title" : "New Release: Volanta 1.3.0,5fe25830"
     },
     {
       "appID" : "get-backup-pro",
@@ -60208,6 +60160,41 @@
       "date" : "2022-07-06T03:58:09Z",
       "identifier" : "release-gyazo-3.9.4",
       "title" : "New Release: Nota Gyazo GIF 3.9.4"
+    },
+    {
+      "appID" : "soulver",
+      "caption" : "Soulver updated from 3.5.8,295 to 3.5.9,297",
+      "date" : "2022-07-06T04:52:07Z",
+      "identifier" : "release-soulver-3.5.9,297",
+      "title" : "New Release: Soulver 3.5.9,297"
+    },
+    {
+      "appID" : "xemu",
+      "caption" : "Xemu updated from 0.7.57 to 0.7.58",
+      "date" : "2022-07-06T04:52:08Z",
+      "identifier" : "release-xemu-0.7.58",
+      "title" : "New Release: Xemu 0.7.58"
+    },
+    {
+      "appID" : "lunar-client",
+      "caption" : "Lunar Client updated from 2.10.9 to 2.11.1",
+      "date" : "2022-07-06T04:52:08Z",
+      "identifier" : "release-lunar-client-2.11.1",
+      "title" : "New Release: Lunar Client 2.11.1"
+    },
+    {
+      "appID" : "workplace-chat",
+      "caption" : "Facebook Workplace Chat updated from 103.72.123 to 155.0.0.22.218",
+      "date" : "2022-07-06T04:52:08Z",
+      "identifier" : "release-workplace-chat-155.0.0.22.218",
+      "title" : "New Release: Facebook Workplace Chat 155.0.0.22.218"
+    },
+    {
+      "appID" : "volanta",
+      "caption" : "Volanta updated from 1.3.0,5fe25830 to 1.3.2,7e327832",
+      "date" : "2022-07-06T04:52:08Z",
+      "identifier" : "release-volanta-1.3.2,7e327832",
+      "title" : "New Release: Volanta 1.3.2,7e327832"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

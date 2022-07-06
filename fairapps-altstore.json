@@ -42,7 +42,7 @@
       "version": "0.3.34",
       "versionDate": "2022-07-04T21:50:51Z",
       "versionDescription": "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.33...0.3.34",
-      "viewCount": 9,
+      "viewCount": 10,
       "watcherCount": 0
     },
     {
@@ -54,12 +54,12 @@
       "coreSize": 103112,
       "developerName": "fairapps <fairapps@appfair.org>",
       "downloadCount": 2,
-      "downloadURL": "https://github.com/Tune-Out/App/releases/download/0.8.441/Tune-Out-iOS.ipa",
-      "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.441/Tune-Out.png",
-      "impressionCount": 43,
+      "downloadURL": "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out-iOS.ipa",
+      "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out.png",
+      "impressionCount": 1,
       "issueCount": 0,
       "localizedDescription": "Stream Internet Radio",
-      "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.441/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.442/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
       "name": "Tune Out",
       "permissions": [
         {
@@ -67,21 +67,21 @@
           "usageDescription": "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL": "https://github.com/Tune-Out/App/releases/download/0.8.441/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "readmeURL": "https://github.com/Tune-Out/App/releases/download/0.8.442/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
       "screenshotURLs": [
-        "https://github.com/Tune-Out/App/releases/download/0.8.441/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.441/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.441/screenshot_03-iphone-1170x2532.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.442/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.442/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.442/screenshot_03-iphone-1170x2532.png"
       ],
-      "sha256": "0c72aac1dfed412d26c1c4fcf12c7e1078a9403c324e65f7cb13b52894a6b0be",
-      "size": 17330671,
+      "sha256": "8c102cb5d410a3553e64d1d5bd8a36797180b7b58b0427e167585e1f1abb10e3",
+      "size": 17339139,
       "starCount": 0,
       "subtitle": "Stream Internet Radio",
       "tintColor": "32ADE6",
-      "version": "0.8.441",
-      "versionDate": "2022-07-04T21:52:16Z",
-      "versionDescription": "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.440...0.8.441",
-      "viewCount": 7,
+      "version": "0.8.442",
+      "versionDate": "2022-07-06T13:11:16Z",
+      "versionDescription": "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.441...0.8.442",
+      "viewCount": 1,
       "watcherCount": 0
     }
   ],

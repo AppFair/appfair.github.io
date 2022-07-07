@@ -1837,17 +1837,18 @@
         "public.app-category.video"
       ],
       "downloadCount" : 492,
-      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.47.1.3086-6c3d964f/macos/Plex-1.47.1.3086-6c3d964f-x86_64.zip",
+      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.48.2.3124-647ff031/macos/Plex-1.48.2.3124-647ff031-x86_64.zip",
       "homepage" : "https://www.plex.tv/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/AppIcon.png",
       "impressionCount" : 1170,
       "localizedDescription" : "Home media player",
       "name" : "Plex",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/README.md",
-      "sha256" : "24f582d1ed7aab99d3f62118e913be0680e705975aaea7c9b6358a27d05566f2",
+      "sha256" : "8829ee729853d32f9cd17736e3767b77b904441a59e2d28dac58284e0dc82551",
       "subtitle" : "Home media player",
       "tintColor" : "3C3221",
-      "version" : "1.47.1.3086,6c3d964f",
+      "version" : "1.48.2.3124,647ff031",
+      "versionDate" : "2022-07-07T17:31:03Z",
       "viewCount" : 59
     },
     {
@@ -2779,17 +2780,17 @@
         "public.app-category.developer-tools"
       ],
       "downloadCount" : 3442,
-      "downloadURL" : "https://versions.withfig.com/fig%20467.dmg",
+      "downloadURL" : "https://versions.withfig.com/fig%20472.dmg",
       "homepage" : "https://fig.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fig/AppIcon.png",
       "impressionCount" : 610,
       "localizedDescription" : "Reimagine your terminal",
       "name" : "fig",
-      "sha256" : "cd4044f758d91e77bd10c97c70100c6c0bc92049d701d2887e13d45f0e86ea81",
+      "sha256" : "6f80b5ef9cf34dfe508df3a1c81f073e17ac5d27b84322f5e42067396a09e4ec",
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
-      "version" : "1.0.58,467",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "1.0.58,472",
+      "versionDate" : "2022-07-07T17:31:03Z"
     },
     {
       "beta" : false,
@@ -7655,17 +7656,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 105,
-      "downloadURL" : "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.23.21/standard-notes-3.23.21-mac-x64.zip",
+      "downloadURL" : "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.23.61/standard-notes-3.23.61-mac-x64.zip",
       "homepage" : "https://standardnotes.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-standard-notes/AppIcon.png",
       "impressionCount" : 145,
       "localizedDescription" : "Free, open-source, and completely encrypted notes app",
       "name" : "Standard Notes",
-      "sha256" : "528e34305177cbe8f2ab17709dac1fc6ca92a9a69b64f10c1b027a3853a42a94",
+      "sha256" : "49ae329b1bf51c0669e76ed7269a545c45a041791baaf898576995081a49dcce",
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
-      "version" : "3.23.21",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "3.23.61",
+      "versionDate" : "2022-07-07T17:31:03Z"
     },
     {
       "beta" : false,
@@ -59481,27 +59482,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "teacode",
-      "caption" : "TeaCode updated from 1.0.1 to 1.1",
-      "date" : "2022-07-06T02:17:51Z",
-      "identifier" : "release-teacode-1.1",
-      "title" : "New Release: TeaCode 1.1"
-    },
-    {
-      "appID" : "mailbutler",
-      "caption" : "Mailbutler updated from 5322,2352433 to 5405,2370905",
-      "date" : "2022-07-06T02:17:51Z",
-      "identifier" : "release-mailbutler-5405,2370905",
-      "title" : "New Release: Mailbutler 5405,2370905"
-    },
-    {
-      "appID" : "manyverse",
-      "caption" : "Manyverse updated from 0.2206.27-beta to 0.2207.5-beta",
-      "date" : "2022-07-06T02:17:51Z",
-      "identifier" : "release-manyverse-0.2207.5-beta",
-      "title" : "New Release: Manyverse 0.2207.5-beta"
-    },
-    {
       "appID" : "screenfocus",
       "caption" : "ScreenFocus updated from 1.0.1 to 1.1",
       "date" : "2022-07-06T02:17:51Z",
@@ -60179,6 +60159,27 @@
       "date" : "2022-07-07T15:29:23Z",
       "identifier" : "release-a-better-finder-attributes-7.20",
       "title" : "New Release: A Better Finder Attributes 7.20"
+    },
+    {
+      "appID" : "plex",
+      "caption" : "Plex updated from 1.47.1.3086,6c3d964f to 1.48.2.3124,647ff031",
+      "date" : "2022-07-07T17:31:04Z",
+      "identifier" : "release-plex-1.48.2.3124,647ff031",
+      "title" : "New Release: Plex 1.48.2.3124,647ff031"
+    },
+    {
+      "appID" : "fig",
+      "caption" : "fig updated from 1.0.58,467 to 1.0.58,472",
+      "date" : "2022-07-07T17:31:04Z",
+      "identifier" : "release-fig-1.0.58,472",
+      "title" : "New Release: fig 1.0.58,472"
+    },
+    {
+      "appID" : "standard-notes",
+      "caption" : "Standard Notes updated from 3.23.21 to 3.23.61",
+      "date" : "2022-07-07T17:31:05Z",
+      "identifier" : "release-standard-notes-3.23.61",
+      "title" : "New Release: Standard Notes 3.23.61"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

@@ -23,12 +23,12 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | [``0.8.67``](https://github.com/App-Fair/App/releases/0.8.67) | `168` | `2022-07-04T22:40:02Z` | `9 MB` | `55` | `14` | `20` | [``4``](https://github.com/App-Fair/App/issues) | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [``App Fair``](https://appfair.app) | [``0.8.67``](https://github.com/App-Fair/App/releases/0.8.67) | `170` | `2022-07-04T22:40:02Z` | `9 MB` | `55` | `14` | `20` | [``4``](https://github.com/App-Fair/App/issues) | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [``App Name``](https://App-Name.github.io/App/) | [``0.0.1β``](https://github.com/App-Name/App/releases/0.0.1) | `2` | `2022-07-02T16:38:41Z` | `2 MB` | `22` | `3` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `4` | `2022-05-19T21:18:14Z` | `2.4 MB` | `61` | `14` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `27` | `2022-05-24T14:45:09Z` | `4.5 MB` | `1652` | `362` | `1` | `0` | [`productivity`](https://github.com/topics/appfair-productivity)  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `9` | `2022-01-24T01:55:01Z` | `2.3 MB` | `591` | `50` | `1` | `0` | [`reference`](https://github.com/topics/appfair-reference)  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | [``0.9.111``](https://github.com/Cloud-Cuckoo/App/releases/0.9.111) | `17` | `2022-07-06T04:06:10Z` | `2 MB` | `31` | `8` | `0` | `0` | [`games`](https://github.com/topics/appfair-games)  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | [``0.9.111``](https://github.com/Cloud-Cuckoo/App/releases/0.9.111) | `19` | `2022-07-06T04:06:10Z` | `2 MB` | `31` | `8` | `0` | `0` | [`games`](https://github.com/topics/appfair-games)  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | [``0.0.4β``](https://github.com/Crazy-Glue/App/releases/0.0.4) | `14` | `2022-01-23T23:13:56Z` | `2.3 MB` | `618` | `69` | `0` | `0` | [`graphics-design`](https://github.com/topics/appfair-graphics-design)  |
 | [``Down Town``](https://Down-Town.github.io/App/) | [``0.0.3β``](https://github.com/Down-Town/App/releases/0.0.3) | `6` | `2022-01-25T00:49:11Z` | `2.3 MB` | `397` | `36` | `0` | `0` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | [``0.0.32β``](https://github.com/Encyclopedia-Galactica/App/releases/0.0.32) | `5` | `2022-01-24T02:35:43Z` | `2.5 MB` | `304` | `28` | `0` | `0` | [`reference`](https://github.com/topics/appfair-reference)  |

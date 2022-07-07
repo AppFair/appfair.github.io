@@ -10,7 +10,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.48.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 3903,
+      "impressionCount" : 3904,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -42,7 +42,7 @@
       "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0.1/mac/en-US/Firefox%20102.0.1.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 4254,
+      "impressionCount" : 4255,
       "localizedDescription" : "Web browser",
       "name" : "Mozilla Firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 3636,
+      "impressionCount" : 3637,
       "localizedDescription" : "Multimedia player",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -102,7 +102,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 3523,
+      "impressionCount" : 3524,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -133,7 +133,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 3889,
+      "impressionCount" : 3890,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -156,7 +156,7 @@
       "downloadURL" : "https://dl.discordapp.net/apps/osx/0.0.267/Discord.dmg",
       "homepage" : "https://discord.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 3444,
+      "impressionCount" : 3445,
       "localizedDescription" : "Voice and text chat software",
       "name" : "Discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
@@ -183,7 +183,7 @@
       "downloadURL" : "https://emacsformacosx.com/emacs-builds/Emacs-28.1-4-universal.dmg",
       "homepage" : "https://emacsformacosx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 3290,
+      "impressionCount" : 3291,
       "localizedDescription" : "Text editor",
       "name" : "Emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
@@ -210,7 +210,7 @@
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 3808,
+      "impressionCount" : 3809,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -236,7 +236,7 @@
       "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
       "homepage" : "https://store.steampowered.com/about/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 2377,
+      "impressionCount" : 2378,
       "localizedDescription" : "Video game digital distribution service",
       "name" : "Steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
@@ -261,7 +261,7 @@
       "downloadURL" : "https://github.com/aonez/Keka/releases/download/v1.2.55/Keka-1.2.55.dmg",
       "homepage" : "https://www.keka.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 4066,
+      "impressionCount" : 4067,
       "localizedDescription" : "File archiver",
       "name" : "Keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -292,7 +292,7 @@
       "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 3142,
+      "impressionCount" : 3143,
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
@@ -316,7 +316,7 @@
       "downloadURL" : "https://github.com/MacDownApp/macdown/releases/download/v0.7.2/MacDown.app.zip",
       "homepage" : "https://macdown.uranusjr.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/AppIcon.png",
-      "impressionCount" : 2562,
+      "impressionCount" : 2563,
       "localizedDescription" : "Open-source Markdown editor",
       "name" : "MacDown",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/README.md",
@@ -342,7 +342,7 @@
       "downloadURL" : "https://download.blender.org/release/Blender3.2/blender-3.2.1-macos-x64.dmg",
       "homepage" : "https://www.blender.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
-      "impressionCount" : 3794,
+      "impressionCount" : 3795,
       "localizedDescription" : "3D creation suite",
       "name" : "Blender",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/README.md",
@@ -392,7 +392,7 @@
       "downloadURL" : "https://github.com/macvim-dev/macvim/releases/download/snapshot-172/MacVim.dmg",
       "homepage" : "https://github.com/macvim-dev/macvim",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/AppIcon.png",
-      "impressionCount" : 2357,
+      "impressionCount" : 2358,
       "localizedDescription" : "Text editor",
       "name" : "MacVim",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/README.md",
@@ -418,7 +418,7 @@
       "downloadURL" : "https://launcher.mojang.com/download/Minecraft.dmg",
       "homepage" : "https://minecraft.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/AppIcon.png",
-      "impressionCount" : 3095,
+      "impressionCount" : 3096,
       "localizedDescription" : "Sandbox construction video game",
       "name" : "Minecraft",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/README.md",
@@ -1759,7 +1759,7 @@
       "downloadURL" : "https://github.com/debauchee/barrier/releases/download/v2.4.0/Barrier-2.4.0-Release.dmg",
       "homepage" : "https://github.com/debauchee/barrier/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/AppIcon.png",
-      "impressionCount" : 1445,
+      "impressionCount" : 1446,
       "localizedDescription" : "Open-source KVM software",
       "name" : "Barrier",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/README.md",
@@ -9406,17 +9406,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 64,
-      "downloadURL" : "https://soulver.app/mac/sparkle/soulver-3.5.9-297.zip",
+      "downloadURL" : "https://soulver.app/mac/sparkle/soulver-3.5.9.1-299.zip",
       "homepage" : "https://soulver.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-soulver/AppIcon.png",
       "impressionCount" : 150,
       "localizedDescription" : "Notepad with a built-in calculator",
       "name" : "Soulver",
-      "sha256" : "456e67f6cbf057de0d6cb9159c0e8616a097ee6a25d769e8335232cd06a46773",
+      "sha256" : "bcdb96d1c52a11aaca1c2f029fd2d2b414d680304ecd38f78d0165c21fc92d4b",
       "subtitle" : "Notepad with a built-in calculator",
       "tintColor" : "C9B995",
-      "version" : "3.5.9,297",
-      "versionDate" : "2022-07-06T04:52:06Z"
+      "version" : "3.5.9.1,299",
+      "versionDate" : "2022-07-07T04:48:33Z"
     },
     {
       "beta" : false,
@@ -20160,17 +20160,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 11,
-      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.82.0-stable.1-ci4263679.dmg",
+      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.82.0-stable.2-ci4278428.dmg",
       "homepage" : "https://pitch.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pitch/AppIcon.png",
       "impressionCount" : 141,
       "localizedDescription" : "Collaborative presentation software",
       "name" : "Pitch",
-      "sha256" : "55c738b67e2d0e26b2a17c7114d67ced15069646c7f0153afb932da0a6f0c29f",
+      "sha256" : "fbc2a77be865bdc5e4502f4371e81ce70fb56c87c2f8c3080a0881e037496d61",
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
-      "version" : "1.82.0,stable.1,4263679",
-      "versionDate" : "2022-07-06T02:17:47Z"
+      "version" : "1.82.0,stable.2,4278428",
+      "versionDate" : "2022-07-07T04:48:33Z"
     },
     {
       "beta" : false,
@@ -27890,7 +27890,8 @@
       "name" : "Smultron",
       "subtitle" : "General-purpose text editor",
       "tintColor" : "CB8761",
-      "version" : "13.2,13200"
+      "version" : "13.2.1,13210",
+      "versionDate" : "2022-07-07T04:48:33Z"
     },
     {
       "beta" : false,
@@ -32438,17 +32439,17 @@
         "public.app-category.graphics-design"
       ],
       "downloadCount" : 1,
-      "downloadURL" : "https://fontlab.s3.amazonaws.com/fontlab-8/8203/FontLab-8-Mac-Install-8203.dmg",
+      "downloadURL" : "https://fontlab.s3.amazonaws.com/fontlab-8/8222/FontLab-8-Mac-Install-8222.dmg",
       "homepage" : "https://www.fontlab.com/font-editor/fontlab/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fontlab/AppIcon.png",
       "impressionCount" : 366,
       "localizedDescription" : "Professional font editor",
       "name" : "Fontlab",
-      "sha256" : "521f1fb91f6248ca9ad42a659bf44e284a273b8113c0fbaa2dddbb73a91d4af1",
+      "sha256" : "4c075007b9fb6fda9c8b712c663f84be73b1c6b10be17ea5d440da1f43a6795f",
       "subtitle" : "Professional font editor",
       "tintColor" : "4F535B",
-      "version" : "8.0.0.8203",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "8.0.0.8222",
+      "versionDate" : "2022-07-07T04:48:33Z"
     },
     {
       "beta" : false,
@@ -49087,7 +49088,8 @@
       "name" : "PDF-Over",
       "subtitle" : "Digitally sign PDFs with the Austrian Buergerkarte or ID Austria",
       "tintColor" : "C9C9C9",
-      "version" : "4.4.0,1"
+      "version" : "4.4.1",
+      "versionDate" : "2022-07-07T04:48:33Z"
     },
     {
       "beta" : false,
@@ -49503,7 +49505,8 @@
       "localizedDescription" : "Client for the Dropbox cloud storage service",
       "name" : "Dropbox",
       "subtitle" : "Client for the Dropbox cloud storage service",
-      "version" : "151.4.4304"
+      "version" : "152.4.4880",
+      "versionDate" : "2022-07-07T04:48:33Z"
     },
     {
       "beta" : false,
@@ -57851,13 +57854,14 @@
       "beta" : false,
       "bundleIdentifier" : "fme",
       "downloadCount" : 2,
-      "downloadURL" : "https://downloads.safe.com/fme/2022/fme-desktop-2022.0.1.1-b22350-macosx.pkg",
+      "downloadURL" : "https://downloads.safe.com/fme/2022/fme-desktop-2022.1-b22618-macosx.pkg",
       "homepage" : "https://www.safe.com/",
       "localizedDescription" : "Platform for integrating spatial data",
       "name" : "FME Desktop",
-      "sha256" : "2f640e777a7a5ca29e73d215daaf1acc672b58870581c35ee502808b9657a391",
+      "sha256" : "34775adb4cfbdae6e70d8b68dce1f795114a504e14aa24e6dbdfeed30a7bfb2e",
       "subtitle" : "Platform for integrating spatial data",
-      "version" : "2022.0.1.1,22350"
+      "version" : "2022.1,22618",
+      "versionDate" : "2022-07-07T04:48:33Z"
     },
     {
       "beta" : false,
@@ -59449,41 +59453,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "elan",
-      "caption" : "ELAN updated from 6.3 to 6.4",
-      "date" : "2022-07-05T12:32:12Z",
-      "identifier" : "release-elan-6.4",
-      "title" : "New Release: ELAN 6.4"
-    },
-    {
-      "appID" : "nextcloud",
-      "caption" : "Nextcloud updated from 3.5.1 to 3.5.2",
-      "date" : "2022-07-05T12:32:12Z",
-      "identifier" : "release-nextcloud-3.5.2",
-      "title" : "New Release: Nextcloud 3.5.2"
-    },
-    {
-      "appID" : "expressvpn",
-      "caption" : "ExpressVPN updated from 11.2.0.67174 to 11.3.0.67753",
-      "date" : "2022-07-05T12:32:12Z",
-      "identifier" : "release-expressvpn-11.3.0.67753",
-      "title" : "New Release: ExpressVPN 11.3.0.67753"
-    },
-    {
-      "appID" : "lagrange",
-      "caption" : "Lagrange updated from 1.13.6 to 1.13.7",
-      "date" : "2022-07-05T12:32:13Z",
-      "identifier" : "release-lagrange-1.13.7",
-      "title" : "New Release: Lagrange 1.13.7"
-    },
-    {
-      "appID" : "vcv-rack",
-      "caption" : "VCV Rack updated from 2.1.1 to 2.1.2",
-      "date" : "2022-07-05T12:32:13Z",
-      "identifier" : "release-vcv-rack-2.1.2",
-      "title" : "New Release: VCV Rack 2.1.2"
-    },
-    {
       "appID" : "bankid",
       "caption" : "BankID updated from 7.12.1 to 7.13.0",
       "date" : "2022-07-05T12:32:13Z",
@@ -59687,13 +59656,6 @@
       "title" : "New Release: WiFi Explorer Pro 3.4.7,26"
     },
     {
-      "appID" : "pitch",
-      "caption" : "Pitch updated from 1.81.0,stable.5,4253036 to 1.82.0,stable.1,4263679",
-      "date" : "2022-07-06T02:17:51Z",
-      "identifier" : "release-pitch-1.82.0,stable.1,4263679",
-      "title" : "New Release: Pitch 1.82.0,stable.1,4263679"
-    },
-    {
       "appID" : "gitfox",
       "caption" : "Gitfox updated from 2.8.0,6944 to 2.8.1,7023",
       "date" : "2022-07-06T02:17:51Z",
@@ -59874,13 +59836,6 @@
       "date" : "2022-07-06T03:58:09Z",
       "identifier" : "release-gyazo-3.9.4",
       "title" : "New Release: Nota Gyazo GIF 3.9.4"
-    },
-    {
-      "appID" : "soulver",
-      "caption" : "Soulver updated from 3.5.8,295 to 3.5.9,297",
-      "date" : "2022-07-06T04:52:07Z",
-      "identifier" : "release-soulver-3.5.9,297",
-      "title" : "New Release: Soulver 3.5.9,297"
     },
     {
       "appID" : "xemu",
@@ -60147,6 +60102,55 @@
       "date" : "2022-07-07T01:11:37Z",
       "identifier" : "release-tidelift-1.12.4",
       "title" : "New Release: Tidelift CLI 1.12.4"
+    },
+    {
+      "appID" : "soulver",
+      "caption" : "Soulver updated from 3.5.9,297 to 3.5.9.1,299",
+      "date" : "2022-07-07T04:48:33Z",
+      "identifier" : "release-soulver-3.5.9.1,299",
+      "title" : "New Release: Soulver 3.5.9.1,299"
+    },
+    {
+      "appID" : "pitch",
+      "caption" : "Pitch updated from 1.82.0,stable.1,4263679 to 1.82.0,stable.2,4278428",
+      "date" : "2022-07-07T04:48:34Z",
+      "identifier" : "release-pitch-1.82.0,stable.2,4278428",
+      "title" : "New Release: Pitch 1.82.0,stable.2,4278428"
+    },
+    {
+      "appID" : "smultron",
+      "caption" : "Smultron updated from 13.2,13200 to 13.2.1,13210",
+      "date" : "2022-07-07T04:48:34Z",
+      "identifier" : "release-smultron-13.2.1,13210",
+      "title" : "New Release: Smultron 13.2.1,13210"
+    },
+    {
+      "appID" : "fontlab",
+      "caption" : "Fontlab updated from 8.0.0.8203 to 8.0.0.8222",
+      "date" : "2022-07-07T04:48:34Z",
+      "identifier" : "release-fontlab-8.0.0.8222",
+      "title" : "New Release: Fontlab 8.0.0.8222"
+    },
+    {
+      "appID" : "pdf-over",
+      "caption" : "PDF-Over updated from 4.4.0,1 to 4.4.1",
+      "date" : "2022-07-07T04:48:34Z",
+      "identifier" : "release-pdf-over-4.4.1",
+      "title" : "New Release: PDF-Over 4.4.1"
+    },
+    {
+      "appID" : "dropbox",
+      "caption" : "Dropbox updated from 151.4.4304 to 152.4.4880",
+      "date" : "2022-07-07T04:48:34Z",
+      "identifier" : "release-dropbox-152.4.4880",
+      "title" : "New Release: Dropbox 152.4.4880"
+    },
+    {
+      "appID" : "fme",
+      "caption" : "FME Desktop updated from 2022.0.1.1,22350 to 2022.1,22618",
+      "date" : "2022-07-07T04:48:34Z",
+      "identifier" : "release-fme-2022.1,22618",
+      "title" : "New Release: FME Desktop 2022.1,22618"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

@@ -8,7 +8,7 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 15,
+      "downloadCount" : 24,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.69/App-Fair-macOS.zip",
       "fundingLinks" : [
         {
@@ -18,7 +18,7 @@
       ],
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.69/App-Fair.png",
-      "impressionCount" : 14,
+      "impressionCount" : 15,
       "issueCount" : 4,
       "localizedDescription" : "The App Fair catalog browser for discovering & installing macOS apps",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.69/Info.plist#0b2b6a87e0abe5df541c4779cb6cba46f04a6b5ec0484de735216d4464dd9721",
@@ -68,7 +68,7 @@
       "version" : "0.8.69",
       "versionDate" : "2022-07-08T00:57:26Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.67...0.8.69",
-      "viewCount" : 12,
+      "viewCount" : 13,
       "watcherCount" : 3
     },
     {

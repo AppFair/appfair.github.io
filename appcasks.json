@@ -10,7 +10,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.49.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 4047,
+      "impressionCount" : 4049,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -42,7 +42,7 @@
       "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0.1/mac/en-US/Firefox%20102.0.1.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 4367,
+      "impressionCount" : 4370,
       "localizedDescription" : "Web browser",
       "name" : "Mozilla Firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 3748,
+      "impressionCount" : 3750,
       "localizedDescription" : "Multimedia player",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -102,7 +102,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 3636,
+      "impressionCount" : 3638,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -133,7 +133,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 3998,
+      "impressionCount" : 4000,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -156,7 +156,7 @@
       "downloadURL" : "https://dl.discordapp.net/apps/osx/0.0.267/Discord.dmg",
       "homepage" : "https://discord.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 3555,
+      "impressionCount" : 3557,
       "localizedDescription" : "Voice and text chat software",
       "name" : "Discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
@@ -183,7 +183,7 @@
       "downloadURL" : "https://emacsformacosx.com/emacs-builds/Emacs-28.1-4-universal.dmg",
       "homepage" : "https://emacsformacosx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 3398,
+      "impressionCount" : 3399,
       "localizedDescription" : "Text editor",
       "name" : "Emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
@@ -206,11 +206,11 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadCount" : 2895,
+      "downloadCount" : 2896,
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 3918,
+      "impressionCount" : 3919,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -224,7 +224,7 @@
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
       "version" : "2.2222.12",
-      "viewCount" : 344
+      "viewCount" : 345
     },
     {
       "beta" : false,
@@ -236,7 +236,7 @@
       "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
       "homepage" : "https://store.steampowered.com/about/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 2482,
+      "impressionCount" : 2483,
       "localizedDescription" : "Video game digital distribution service",
       "name" : "Steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
@@ -261,7 +261,7 @@
       "downloadURL" : "https://github.com/aonez/Keka/releases/download/v1.2.55/Keka-1.2.55.dmg",
       "homepage" : "https://www.keka.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 4173,
+      "impressionCount" : 4174,
       "localizedDescription" : "File archiver",
       "name" : "Keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -292,7 +292,7 @@
       "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 3246,
+      "impressionCount" : 3247,
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
@@ -316,7 +316,7 @@
       "downloadURL" : "https://github.com/MacDownApp/macdown/releases/download/v0.7.2/MacDown.app.zip",
       "homepage" : "https://macdown.uranusjr.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/AppIcon.png",
-      "impressionCount" : 2661,
+      "impressionCount" : 2662,
       "localizedDescription" : "Open-source Markdown editor",
       "name" : "MacDown",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/README.md",
@@ -1761,7 +1761,7 @@
       "downloadURL" : "https://downloads.arduino.cc/arduino-1.8.19-macosx.zip",
       "homepage" : "https://www.arduino.cc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arduino/AppIcon.png",
-      "impressionCount" : 1360,
+      "impressionCount" : 1363,
       "localizedDescription" : "Electronics prototyping platform",
       "name" : "Arduino",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arduino/README.md",
@@ -2763,7 +2763,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadCount" : 4082,
+      "downloadCount" : 4083,
       "downloadURL" : "https://github.com/lwouis/alt-tab-macos/releases/download/v6.46.1/AltTab-6.46.1.zip",
       "homepage" : "https://github.com/lwouis/alt-tab-macos",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-alt-tab/AppIcon.png",
@@ -5066,7 +5066,7 @@
       "downloadURL" : "https://downloads.pdfexpert.com/pem3/versions/844/PDFExpert.zip",
       "homepage" : "https://pdfexpert.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pdf-expert/AppIcon.png",
-      "impressionCount" : 206,
+      "impressionCount" : 207,
       "localizedDescription" : "PDF reader, editor and annotator",
       "name" : "PDF Expert",
       "sha256" : "23c3ce60f27b36edfbe5727a7e4c17d737ce2df1aa17b735924cff1443adebb6",
@@ -21856,17 +21856,17 @@
         "public.app-category.utilities"
       ],
       "downloadCount" : 9,
-      "downloadURL" : "https://cdn.getpublii.com/Publii-0.40.0-intel.dmg",
+      "downloadURL" : "https://cdn.getpublii.com/Publii-0.40.1-intel.dmg",
       "homepage" : "https://getpublii.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-publii/AppIcon.png",
       "impressionCount" : 83,
       "localizedDescription" : "Static website generator",
       "name" : "Publii",
-      "sha256" : "3ac0fe18153fd565ce3e4da76a2bbae58c05675ca2d41224e04fc34403b6e2b5",
+      "sha256" : "a41f8b2a6c942d2d3d31af86be81fb2944011641a3f789573db41876aae17a46",
       "subtitle" : "Static website generator",
       "tintColor" : "64B7F6",
-      "version" : "0.40.0",
-      "versionDate" : "2022-07-07T11:18:29Z"
+      "version" : "0.40.1",
+      "versionDate" : "2022-07-08T11:17:48Z"
     },
     {
       "beta" : false,
@@ -35371,7 +35371,7 @@
     {
       "beta" : false,
       "bundleIdentifier" : "vivaldi",
-      "downloadCount" : 967,
+      "downloadCount" : 968,
       "downloadURL" : "https://downloads.vivaldi.com/stable/Vivaldi.5.3.2679.68.universal.dmg",
       "homepage" : "https://vivaldi.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vivaldi/AppIcon.png",
@@ -38327,17 +38327,17 @@
       "beta" : false,
       "bundleIdentifier" : "qownnotes",
       "downloadCount" : 62,
-      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.7.0/QOwnNotes.dmg",
+      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.7.1/QOwnNotes.dmg",
       "homepage" : "https://www.qownnotes.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-qownnotes/AppIcon.png",
       "impressionCount" : 47,
       "localizedDescription" : "Plain-text file notepad and todo-list manager",
       "name" : "QOwnNotes",
-      "sha256" : "84eb8cede38909937beff0a9f70df8a45ec3944bb4e21e598ea6529b89efe139",
+      "sha256" : "b2a4a1898650877483b6448b61ea56051793529a06d2bac317dfd9ffd7f2b3a7",
       "subtitle" : "Plain-text file notepad and todo-list manager",
       "tintColor" : "283B6F",
-      "version" : "22.7.0",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "22.7.1",
+      "versionDate" : "2022-07-08T11:17:48Z"
     },
     {
       "beta" : false,
@@ -39177,17 +39177,17 @@
       "beta" : false,
       "bundleIdentifier" : "pushplaylabs-sidekick",
       "downloadCount" : 41,
-      "downloadURL" : "https://fast-cdn.meetsidekick.com/builds/sidekick-mac-release-x64-100.24.5.21203-58b6910-df.dmg",
+      "downloadURL" : "https://fast-cdn.meetsidekick.com/builds/sidekick-mac-release-x64-100.24.5.21210-fffdccf-df.dmg",
       "homepage" : "https://www.meetsidekick.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pushplaylabs-sidekick/AppIcon.png",
       "impressionCount" : 38,
       "localizedDescription" : "Browser designed for modern work",
       "name" : "Sidekick",
-      "sha256" : "772fb62dcb80de00bb8686e46950188a29a7f46192e86956e5b2b4e4040ce26a",
+      "sha256" : "c104829b7f11e154d060cfe725abdbee85dec6a9c5ec0f53a5b5aa65a2f4a47a",
       "subtitle" : "Browser designed for modern work",
       "tintColor" : "EFDADC",
-      "version" : "100.24.5.21203,58b6910",
-      "versionDate" : "2022-07-08T02:38:52Z"
+      "version" : "100.24.5.21210,fffdccf",
+      "versionDate" : "2022-07-08T11:17:48Z"
     },
     {
       "beta" : false,
@@ -42353,16 +42353,17 @@
       "beta" : false,
       "bundleIdentifier" : "packetproxy",
       "downloadCount" : 12,
-      "downloadURL" : "https://github.com/DeNA/PacketProxy/releases/download/2.1.8/PacketProxy-2.1.8-Installer-Mac-Signed.dmg",
+      "downloadURL" : "https://github.com/DeNA/PacketProxy/releases/download/2.1.9/PacketProxy-2.1.9-Installer-Mac-Signed.dmg",
       "homepage" : "https://github.com/DeNA/PacketProxy",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-packetproxy/AppIcon.png",
       "impressionCount" : 20,
       "localizedDescription" : "Local proxy written in Java",
       "name" : "PacketProxy",
-      "sha256" : "4ae04b7951291d651dc8ee56eb5a7526fabb734641100babf4d108537604541c",
+      "sha256" : "781a3b32177dfdf77c8f5015fa980a08f0b4b227437ea3eaa3a3fb6a95d9e3af",
       "subtitle" : "Local proxy written in Java",
       "tintColor" : "24EFD5",
-      "version" : "2.1.8"
+      "version" : "2.1.9",
+      "versionDate" : "2022-07-08T11:17:48Z"
     },
     {
       "beta" : false,
@@ -52706,13 +52707,14 @@
       "beta" : false,
       "bundleIdentifier" : "kotlin-native",
       "downloadCount" : 29,
-      "downloadURL" : "https://github.com/JetBrains/kotlin/releases/download/v1.7.0/kotlin-native-macos-x86_64-1.7.0.tar.gz",
+      "downloadURL" : "https://github.com/JetBrains/kotlin/releases/download/v1.7.10/kotlin-native-macos-x86_64-1.7.10.tar.gz",
       "homepage" : "https://kotlinlang.org/docs/reference/native-overview.html",
       "localizedDescription" : "LLVM backend for Kotlin",
       "name" : "Kotlin Native",
-      "sha256" : "b39a85a6e59e91eecb09f51290dc9704e816752275f9cb3a83b994d68b14fc9f",
+      "sha256" : "4e9470c25e0c6b3b79e86a59c7eca4d79c5a28ca515e80db93504535b2332a00",
       "subtitle" : "LLVM backend for Kotlin",
-      "version" : "1.7.0"
+      "version" : "1.7.10",
+      "versionDate" : "2022-07-08T11:17:48Z"
     },
     {
       "beta" : false,
@@ -59513,27 +59515,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "mochi",
-      "caption" : "Mochi updated from 1.14.5 to 1.14.6",
-      "date" : "2022-07-07T01:11:36Z",
-      "identifier" : "release-mochi-1.14.6",
-      "title" : "New Release: Mochi 1.14.6"
-    },
-    {
-      "appID" : "resolume-arena",
-      "caption" : "Resolume Arena updated from 7.12.1,15322 to 7.13.0,15847",
-      "date" : "2022-07-07T01:11:37Z",
-      "identifier" : "release-resolume-arena-7.13.0,15847",
-      "title" : "New Release: Resolume Arena 7.13.0,15847"
-    },
-    {
-      "appID" : "daedalus-testnet",
-      "caption" : "Daedalus Testnet 4.11.0,21857 released",
-      "date" : "2022-07-07T01:11:37Z",
-      "identifier" : "release-daedalus-testnet-4.11.0,21857",
-      "title" : "New Release: Daedalus Testnet 4.11.0,21857"
-    },
-    {
       "appID" : "manictime",
       "caption" : "ManicTime 2.3.0 released",
       "date" : "2022-07-07T01:11:37Z",
@@ -59714,13 +59695,6 @@
       "date" : "2022-07-07T11:18:30Z",
       "identifier" : "release-uvtools-3.5.3",
       "title" : "New Release: UVtools 3.5.3"
-    },
-    {
-      "appID" : "publii",
-      "caption" : "Publii updated from 0.39.1 to 0.40.0",
-      "date" : "2022-07-07T11:18:30Z",
-      "identifier" : "release-publii-0.40.0",
-      "title" : "New Release: Publii 0.40.0"
     },
     {
       "appID" : "musicbrainz-picard",
@@ -60038,13 +60012,6 @@
       "title" : "New Release: Stellarium 0.22.2"
     },
     {
-      "appID" : "pushplaylabs-sidekick",
-      "caption" : "Sidekick updated from 100.24.5.21051,a8ab372 to 100.24.5.21203,58b6910",
-      "date" : "2022-07-08T02:38:57Z",
-      "identifier" : "release-pushplaylabs-sidekick-100.24.5.21203,58b6910",
-      "title" : "New Release: Sidekick 100.24.5.21203,58b6910"
-    },
-    {
       "appID" : "screens-connect",
       "caption" : "Screens Connect updated from 4.11.1,21658 to 4.11.2,21665",
       "date" : "2022-07-08T02:38:57Z",
@@ -60211,6 +60178,41 @@
       "date" : "2022-07-08T06:23:16Z",
       "identifier" : "release-atomic-wallet-2.48.2-1180",
       "title" : "New Release: Atomic Wallet 2.48.2-1180"
+    },
+    {
+      "appID" : "publii",
+      "caption" : "Publii updated from 0.40.0 to 0.40.1",
+      "date" : "2022-07-08T11:17:49Z",
+      "identifier" : "release-publii-0.40.1",
+      "title" : "New Release: Publii 0.40.1"
+    },
+    {
+      "appID" : "qownnotes",
+      "caption" : "QOwnNotes updated from 22.7.0 to 22.7.1",
+      "date" : "2022-07-08T11:17:49Z",
+      "identifier" : "release-qownnotes-22.7.1",
+      "title" : "New Release: QOwnNotes 22.7.1"
+    },
+    {
+      "appID" : "pushplaylabs-sidekick",
+      "caption" : "Sidekick updated from 100.24.5.21203,58b6910 to 100.24.5.21210,fffdccf",
+      "date" : "2022-07-08T11:17:49Z",
+      "identifier" : "release-pushplaylabs-sidekick-100.24.5.21210,fffdccf",
+      "title" : "New Release: Sidekick 100.24.5.21210,fffdccf"
+    },
+    {
+      "appID" : "packetproxy",
+      "caption" : "PacketProxy updated from 2.1.8 to 2.1.9",
+      "date" : "2022-07-08T11:17:50Z",
+      "identifier" : "release-packetproxy-2.1.9",
+      "title" : "New Release: PacketProxy 2.1.9"
+    },
+    {
+      "appID" : "kotlin-native",
+      "caption" : "Kotlin Native updated from 1.7.0 to 1.7.10",
+      "date" : "2022-07-08T11:17:50Z",
+      "identifier" : "release-kotlin-native-1.7.10",
+      "title" : "New Release: Kotlin Native 1.7.10"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

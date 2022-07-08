@@ -10,8 +10,11 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 20,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
-      "impressionCount" : 681,
+      "impressionCount" : 682,
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -46,10 +49,16 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
+      "downloadCount" : 6,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.113/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.113/Cloud-Cuckoo.png",
-      "impressionCount" : 1,
+      "impressionCount" : 3,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.113/Info.plist#678580e1d240a21b0bc55c886a427dc6dcd737ee740da1caaa4cdd13efc31360",
@@ -65,13 +74,13 @@
       ],
       "sha256" : "ffa8ca691c0e644b9264a4961c14a91f806570bdd55ea2a4a36e3b15a3eefa4f",
       "size" : 5185872,
-      "starCount" : 1,
+      "starCount" : 0,
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
       "version" : "0.9.113",
       "versionDate" : "2022-07-08T02:18:21Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.112...0.9.113",
-      "viewCount" : 1,
+      "viewCount" : 6,
       "watcherCount" : 0
     },
     {
@@ -84,8 +93,14 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 713,
+      "impressionCount" : 715,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -101,7 +116,7 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-23T23:13:56Z",
       "versionDescription" : "Release 0.0.4",
-      "viewCount" : 103,
+      "viewCount" : 107,
       "watcherCount" : 0
     },
     {
@@ -114,8 +129,11 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "impressionCount" : 485,
+      "impressionCount" : 486,
       "issueCount" : 0,
       "localizedDescription" : "An urban street guide",
       "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -144,6 +162,9 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica.png",
       "impressionCount" : 310,
       "issueCount" : 0,
@@ -177,8 +198,14 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
-      "impressionCount" : 461,
+      "impressionCount" : 462,
       "issueCount" : 0,
       "localizedDescription" : "A true Festivus celebration",
       "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -207,8 +234,14 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
-      "impressionCount" : 499,
+      "impressionCount" : 500,
       "issueCount" : 0,
       "localizedDescription" : "There, I fixed the web for you. You're welcome.",
       "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -237,6 +270,9 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell.png",
       "impressionCount" : 320,
       "issueCount" : 0,
@@ -270,8 +306,11 @@
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe.png",
-      "impressionCount" : 470,
+      "impressionCount" : 472,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
@@ -295,7 +334,7 @@
       "version" : "0.0.19",
       "versionDate" : "2022-04-06T16:11:00Z",
       "versionDescription" : "Release 0.0.19",
-      "viewCount" : 58,
+      "viewCount" : 62,
       "watcherCount" : 0
     },
     {
@@ -308,8 +347,11 @@
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion.png",
-      "impressionCount" : 391,
+      "impressionCount" : 393,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
@@ -333,7 +375,7 @@
       "version" : "0.0.87",
       "versionDate" : "2022-04-06T15:01:42Z",
       "versionDescription" : "Release 0.0.87",
-      "viewCount" : 64,
+      "viewCount" : 68,
       "watcherCount" : 0
     },
     {
@@ -346,8 +388,11 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course.png",
-      "impressionCount" : 502,
+      "impressionCount" : 503,
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
       "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -376,8 +421,14 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res.png",
-      "impressionCount" : 550,
+      "impressionCount" : 551,
       "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
       "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -406,6 +457,12 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense.png",
       "impressionCount" : 433,
       "issueCount" : 0,
@@ -436,8 +493,11 @@
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "impressionCount" : 1764,
+      "impressionCount" : 1766,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -464,7 +524,7 @@
       "version" : "0.0.42",
       "versionDate" : "2022-05-26T14:16:43Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42",
-      "viewCount" : 379,
+      "viewCount" : 382,
       "watcherCount" : 0
     },
     {
@@ -477,6 +537,9 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 9,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Neural-Scry-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Neural-Scry.png",
       "impressionCount" : 73,
       "issueCount" : 0,
@@ -534,6 +597,9 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 9,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit.png",
       "impressionCount" : 135,
       "issueCount" : 0,
@@ -567,6 +633,9 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon.png",
       "impressionCount" : 288,
       "issueCount" : 0,
@@ -598,6 +667,9 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/SQL-Hero-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/SQL-Hero.png",
       "impressionCount" : 69,
       "issueCount" : 0,
@@ -639,6 +711,9 @@
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues.png",
       "impressionCount" : 290,
       "issueCount" : 0,
@@ -675,8 +750,14 @@
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.34/Stanza-Redux-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.34/Stanza-Redux.png",
-      "impressionCount" : 103,
+      "impressionCount" : 105,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.34/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -707,7 +788,7 @@
       "version" : "0.3.34",
       "versionDate" : "2022-07-04T21:50:51Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.33...0.3.34",
-      "viewCount" : 30,
+      "viewCount" : 33,
       "watcherCount" : 0
     },
     {
@@ -720,8 +801,11 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 482,
+      "impressionCount" : 484,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -737,7 +821,7 @@
       "version" : "0.0.20",
       "versionDate" : "2022-02-12T16:07:15Z",
       "versionDescription" : "Release 0.0.20",
-      "viewCount" : 44,
+      "viewCount" : 46,
       "watcherCount" : 0
     },
     {
@@ -750,6 +834,12 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz.png",
       "impressionCount" : 277,
       "issueCount" : 0,
@@ -780,8 +870,14 @@
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out.png",
-      "impressionCount" : 71,
+      "impressionCount" : 77,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -806,7 +902,7 @@
       "version" : "0.8.442",
       "versionDate" : "2022-07-06T13:11:16Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.441...0.8.442",
-      "viewCount" : 19,
+      "viewCount" : 20,
       "watcherCount" : 0
     },
     {
@@ -819,6 +915,12 @@
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
       "impressionCount" : 151,
       "issueCount" : 0,
@@ -849,6 +951,12 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
       "impressionCount" : 234,
       "issueCount" : 0,
@@ -879,6 +987,12 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose.png",
       "impressionCount" : 257,
       "issueCount" : 0,
@@ -909,6 +1023,9 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
       "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc.png",
       "impressionCount" : 1188,
       "issueCount" : 0,
@@ -939,6 +1056,12 @@
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadCount" : 4,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-iOS.ipa",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/appfair"
+        }
+      ],
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
       "impressionCount" : 412,
       "issueCount" : 0,

@@ -10,7 +10,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.49.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 4299,
+      "impressionCount" : 4301,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -42,7 +42,7 @@
       "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0.1/mac/en-US/Firefox%20102.0.1.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 4536,
+      "impressionCount" : 4538,
       "localizedDescription" : "Web browser",
       "name" : "Mozilla Firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 3905,
+      "impressionCount" : 3907,
       "localizedDescription" : "Multimedia player",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -102,7 +102,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 3805,
+      "impressionCount" : 3807,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -133,7 +133,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 4155,
+      "impressionCount" : 4157,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -156,7 +156,7 @@
       "downloadURL" : "https://dl.discordapp.net/apps/osx/0.0.267/Discord.dmg",
       "homepage" : "https://discord.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 3715,
+      "impressionCount" : 3717,
       "localizedDescription" : "Voice and text chat software",
       "name" : "Discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
@@ -183,7 +183,7 @@
       "downloadURL" : "https://emacsformacosx.com/emacs-builds/Emacs-28.1-4-universal.dmg",
       "homepage" : "https://emacsformacosx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 3550,
+      "impressionCount" : 3552,
       "localizedDescription" : "Text editor",
       "name" : "Emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
@@ -210,7 +210,7 @@
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 4070,
+      "impressionCount" : 4071,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -236,7 +236,7 @@
       "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
       "homepage" : "https://store.steampowered.com/about/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 2629,
+      "impressionCount" : 2630,
       "localizedDescription" : "Video game digital distribution service",
       "name" : "Steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
@@ -261,7 +261,7 @@
       "downloadURL" : "https://github.com/aonez/Keka/releases/download/v1.2.55/Keka-1.2.55.dmg",
       "homepage" : "https://www.keka.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 4318,
+      "impressionCount" : 4319,
       "localizedDescription" : "File archiver",
       "name" : "Keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -292,7 +292,7 @@
       "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 3387,
+      "impressionCount" : 3388,
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
@@ -1762,7 +1762,7 @@
       "downloadURL" : "https://downloads.arduino.cc/arduino-1.8.19-macosx.zip",
       "homepage" : "https://www.arduino.cc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arduino/AppIcon.png",
-      "impressionCount" : 1583,
+      "impressionCount" : 1585,
       "localizedDescription" : "Electronics prototyping platform",
       "name" : "Arduino",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arduino/README.md",
@@ -4534,17 +4534,17 @@
         "public.app-category.developer-tools"
       ],
       "downloadCount" : 426,
-      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v5.9.1/Netron-5.9.1-mac.zip",
+      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v5.9.2/Netron-5.9.2-mac.zip",
       "homepage" : "https://github.com/lutzroeder/netron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-netron/AppIcon.png",
       "impressionCount" : 408,
       "localizedDescription" : "Visualizer for neural network, deep learning, and machine learning models",
       "name" : "Netron",
-      "sha256" : "8bf97f4acd5260efe95194fae638563eaf2a41ee5a7ca531af92af2351412c13",
+      "sha256" : "7bbc4378811b6bb8c6d8db449aef6d91bb1b7f87671daa175a7690a59e4693fc",
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
-      "version" : "5.9.1",
-      "versionDate" : "2022-07-04T03:13:57Z"
+      "version" : "5.9.2",
+      "versionDate" : "2022-07-09T06:21:51Z"
     },
     {
       "beta" : false,
@@ -5353,16 +5353,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 254,
-      "downloadURL" : "https://cdn.flexibits.com/Fantastical_3.6.5.zip",
+      "downloadURL" : "https://cdn.flexibits.com/Fantastical_3.6.6.zip",
       "homepage" : "https://flexibits.com/fantastical",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fantastical/AppIcon.png",
       "impressionCount" : 574,
       "localizedDescription" : "Calendar software",
       "name" : "Fantastical",
-      "sha256" : "d7e0a5cc8c3e033a6c51b9c9ee7875bb1b907e96ad295cfffa5b2f3dc1514506",
+      "sha256" : "bd91c006c35c6cdaadc53fd7be7dcef35016f42496d6aa0a6398daee1a29ffc1",
       "subtitle" : "Calendar software",
       "tintColor" : "DFBBB9",
-      "version" : "3.6.5,1448"
+      "version" : "3.6.6,1454",
+      "versionDate" : "2022-07-09T06:21:51Z"
     },
     {
       "beta" : false,
@@ -5948,17 +5949,17 @@
         "public.app-category.business"
       ],
       "downloadCount" : 187,
-      "downloadURL" : "https://sf3-cn.feishucdn.com/obj/ee-appcenter/cc63c6/Feishu-darwin_x64-5.15.6-signed.dmg",
+      "downloadURL" : "https://sf3-cn.feishucdn.com/obj/ee-appcenter/511dd9/Feishu-darwin_x64-5.16.5-signed.dmg",
       "homepage" : "https://www.feishu.cn/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-feishu/AppIcon.png",
       "impressionCount" : 1024,
       "localizedDescription" : "Project management software",
       "name" : "feishu",
-      "sha256" : "0c84f4fd7e0a105557f0390560f73565d1539e79490473152f02fa18900d3298",
+      "sha256" : "445c829ebf35d47cd3f093603a5cef82278604efa149a957a39813a739746ac4",
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
-      "version" : "5.15.6,cc63c6",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "5.16.5,511dd9",
+      "versionDate" : "2022-07-09T06:21:51Z"
     },
     {
       "beta" : false,
@@ -59492,27 +59493,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "thunderbird",
-      "caption" : "Mozilla Thunderbird updated from 102.0 to 102.0.1",
-      "date" : "2022-07-07T09:29:43Z",
-      "identifier" : "release-thunderbird-102.0.1",
-      "title" : "New Release: Mozilla Thunderbird 102.0.1"
-    },
-    {
-      "appID" : "airfoil",
-      "caption" : "Airfoil updated from 5.11.0 to 5.11.1",
-      "date" : "2022-07-07T09:29:44Z",
-      "identifier" : "release-airfoil-5.11.1",
-      "title" : "New Release: Airfoil 5.11.1"
-    },
-    {
-      "appID" : "yate",
-      "caption" : "Yate updated from 6.10.4,11083 to 6.10.5,11089",
-      "date" : "2022-07-07T09:29:44Z",
-      "identifier" : "release-yate-6.10.5,11089",
-      "title" : "New Release: Yate 6.10.5,11089"
-    },
-    {
       "appID" : "squeak",
       "caption" : "Squeak updated from 6.0,22101 to 6.0,22104",
       "date" : "2022-07-07T09:29:44Z",
@@ -60190,6 +60170,27 @@
       "date" : "2022-07-09T01:01:06Z",
       "identifier" : "release-grisbi-2.0.5",
       "title" : "New Release: Grisbi 2.0.5"
+    },
+    {
+      "appID" : "netron",
+      "caption" : "Netron updated from 5.9.1 to 5.9.2",
+      "date" : "2022-07-09T06:21:52Z",
+      "identifier" : "release-netron-5.9.2",
+      "title" : "New Release: Netron 5.9.2"
+    },
+    {
+      "appID" : "fantastical",
+      "caption" : "Fantastical updated from 3.6.5,1448 to 3.6.6,1454",
+      "date" : "2022-07-09T06:21:52Z",
+      "identifier" : "release-fantastical-3.6.6,1454",
+      "title" : "New Release: Fantastical 3.6.6,1454"
+    },
+    {
+      "appID" : "feishu",
+      "caption" : "feishu updated from 5.15.6,cc63c6 to 5.16.5,511dd9",
+      "date" : "2022-07-09T06:21:53Z",
+      "identifier" : "release-feishu-5.16.5,511dd9",
+      "title" : "New Release: feishu 5.16.5,511dd9"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

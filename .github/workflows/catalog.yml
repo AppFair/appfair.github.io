@@ -182,9 +182,11 @@ jobs:
             --verbose \
             --hub github.com/appfair \
             --base-repo "App" \
-            --funding-sources \
+            --starrer-name "appfairbot" \
+            --topic-name "appfair-cask" \
             --casks-repo "appcasks" \
             --max-apps 1000000 \
+            --funding-sources \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --merge-cask-info "https://formulae.brew.sh/api/cask.json" \
             --merge-cask-stats "https://formulae.brew.sh/api/analytics/cask-install/homebrew-cask/30d.json" \

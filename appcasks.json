@@ -2677,11 +2677,11 @@
         "public.app-category.reference",
         "public.app-category.productivity"
       ],
-      "downloadCount" : 16920,
+      "downloadCount" : 16921,
       "downloadURL" : "https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg",
       "homepage" : "https://www.google.com/chrome/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-google-chrome/AppIcon.png",
-      "impressionCount" : 1089,
+      "impressionCount" : 1090,
       "localizedDescription" : "Web browser",
       "name" : "Google Chrome",
       "subtitle" : "Web browser",
@@ -11524,16 +11524,17 @@
         "public.app-category.utilities"
       ],
       "downloadCount" : 39,
-      "downloadURL" : "https://github.com/leaves615/KeyboardHolder/releases/download/v1.8.2/KeyboardHolder-1.8.2.zip",
+      "downloadURL" : "https://github.com/leaves615/KeyboardHolder/releases/download/v1.8.3/KeyboardHolder-1.8.3.zip",
       "homepage" : "https://keyboardholder.leavesc.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keyboardholder/AppIcon.png",
       "impressionCount" : 135,
       "localizedDescription" : "Switch input method per application",
       "name" : "KeyboardHolder",
-      "sha256" : "a77aeca1b7f901282fd86452cf9313062f483f26d4b7f9ea4f93109be21e9799",
+      "sha256" : "ed6d6eb838d263c64cc95b4a579f2cd5238a8ee9da82994f231d7533658b55da",
       "subtitle" : "Switch input method per application",
       "tintColor" : "888888",
-      "version" : "1.8.2"
+      "version" : "1.8.3",
+      "versionDate" : "2022-07-11T12:33:05Z"
     },
     {
       "beta" : false,
@@ -11595,16 +11596,17 @@
         "public.app-category.entertainment"
       ],
       "downloadCount" : 39,
-      "downloadURL" : "https://dldir1.qq.com/qqtv/mac/QQLive_distribute_universal_2.48.0.53322.dmg",
+      "downloadURL" : "https://dldir1.qq.com/qqtv/mac/QQLive_distribute_universal_2.49.0.53350.dmg",
       "homepage" : "https://v.qq.com/download.html#mac",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-qqlive/AppIcon.png",
       "impressionCount" : 340,
       "localizedDescription" : "Tencent video streaming and sharing platform",
       "name" : "QQLive",
-      "sha256" : "08d1dfea2f1e093ae37c1264a9db2907532ea223be0aef132c755c873922790b",
+      "sha256" : "3a062ec81e8924094126a544c918a6ff64ed00d02ef5f467a5d7ea797535d9b9",
       "subtitle" : "Tencent video streaming and sharing platform",
       "tintColor" : "84BF85",
-      "version" : "2.48.0.53322"
+      "version" : "2.49.0.53350",
+      "versionDate" : "2022-07-11T12:33:05Z"
     },
     {
       "beta" : false,
@@ -12719,16 +12721,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 32,
-      "downloadURL" : "https://archive.mozilla.org/pub/seamonkey/releases/2.53.12/mac/en-US/seamonkey-2.53.12.en-US.mac.dmg",
+      "downloadURL" : "https://archive.mozilla.org/pub/seamonkey/releases/2.53.13/mac/en-US/seamonkey-2.53.13.en-US.mac.dmg",
       "homepage" : "https://www.seamonkey-project.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-seamonkey/AppIcon.png",
       "impressionCount" : 141,
       "localizedDescription" : "Development of SeaMonkey Internet Application Suite",
       "name" : "SeaMonkey",
-      "sha256" : "395b9db941e2619ffb36f1451fc81a5087d70d51ac55a3be803b9e1e86a4cf12",
+      "sha256" : "b7d4dd48b1370b9079699f62c13680c37542968b7b9643fd8e7646685789923c",
       "subtitle" : "Development of SeaMonkey Internet Application Suite",
       "tintColor" : "4B59D3",
-      "version" : "2.53.12"
+      "version" : "2.53.13",
+      "versionDate" : "2022-07-11T12:33:05Z"
     },
     {
       "beta" : false,
@@ -59330,27 +59333,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "biglybt",
-      "caption" : "biglybt updated from 3.0.0.0 to 3.1.0.0",
-      "date" : "2022-07-08T02:38:57Z",
-      "identifier" : "release-biglybt-3.1.0.0",
-      "title" : "New Release: biglybt 3.1.0.0"
-    },
-    {
-      "appID" : "sfdx",
-      "caption" : "Salesforce DX CLI updated from 7.157.0 to 7.158.1",
-      "date" : "2022-07-08T02:38:58Z",
-      "identifier" : "release-sfdx-7.158.1",
-      "title" : "New Release: Salesforce DX CLI 7.158.1"
-    },
-    {
-      "appID" : "amazon-workspaces",
-      "caption" : "Amazon Workspaces updated from 4.0.7.2248 to 5.1.0.2370",
-      "date" : "2022-07-08T02:38:58Z",
-      "identifier" : "release-amazon-workspaces-5.1.0.2370",
-      "title" : "New Release: Amazon Workspaces 5.1.0.2370"
-    },
-    {
       "appID" : "vox",
       "caption" : "VOX updated from 3.5,3500.9 to 3.5.1,3510.3",
       "date" : "2022-07-08T02:38:58Z",
@@ -60028,6 +60010,27 @@
       "date" : "2022-07-11T10:20:25Z",
       "identifier" : "release-librewolf-102.0.1,1,fa35f6baa1d4b6cf14524505543413dc",
       "title" : "New Release: LibreWolf 102.0.1,1,fa35f6baa1d4b6cf14524505543413dc"
+    },
+    {
+      "appID" : "keyboardholder",
+      "caption" : "KeyboardHolder updated from 1.8.2 to 1.8.3",
+      "date" : "2022-07-11T12:33:05Z",
+      "identifier" : "release-keyboardholder-1.8.3",
+      "title" : "New Release: KeyboardHolder 1.8.3"
+    },
+    {
+      "appID" : "qqlive",
+      "caption" : "QQLive updated from 2.48.0.53322 to 2.49.0.53350",
+      "date" : "2022-07-11T12:33:06Z",
+      "identifier" : "release-qqlive-2.49.0.53350",
+      "title" : "New Release: QQLive 2.49.0.53350"
+    },
+    {
+      "appID" : "seamonkey",
+      "caption" : "SeaMonkey updated from 2.53.12 to 2.53.13",
+      "date" : "2022-07-11T12:33:06Z",
+      "identifier" : "release-seamonkey-2.53.13",
+      "title" : "New Release: SeaMonkey 2.53.13"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

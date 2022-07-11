@@ -10,7 +10,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.49.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 4535,
+      "impressionCount" : 4538,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -42,7 +42,7 @@
       "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0.1/mac/en-US/Firefox%20102.0.1.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 4766,
+      "impressionCount" : 4768,
       "localizedDescription" : "Web browser",
       "name" : "Mozilla Firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 4113,
+      "impressionCount" : 4115,
       "localizedDescription" : "Multimedia player",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -102,7 +102,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 4023,
+      "impressionCount" : 4025,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -133,7 +133,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 4360,
+      "impressionCount" : 4362,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -143,7 +143,8 @@
       ],
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
-      "version" : "1.1.88.612,cc529952,10",
+      "version" : "1.1.89.862,94554d24,16",
+      "versionDate" : "2022-07-11T23:21:04Z",
       "viewCount" : 416
     },
     {
@@ -156,7 +157,7 @@
       "downloadURL" : "https://dl.discordapp.net/apps/osx/0.0.267/Discord.dmg",
       "homepage" : "https://discord.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 3928,
+      "impressionCount" : 3930,
       "localizedDescription" : "Voice and text chat software",
       "name" : "Discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
@@ -183,7 +184,7 @@
       "downloadURL" : "https://emacsformacosx.com/emacs-builds/Emacs-28.1-4-universal.dmg",
       "homepage" : "https://emacsformacosx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 3754,
+      "impressionCount" : 3756,
       "localizedDescription" : "Text editor",
       "name" : "Emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
@@ -210,7 +211,7 @@
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 4268,
+      "impressionCount" : 4270,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -236,7 +237,7 @@
       "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
       "homepage" : "https://store.steampowered.com/about/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 2822,
+      "impressionCount" : 2824,
       "localizedDescription" : "Video game digital distribution service",
       "name" : "Steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
@@ -261,7 +262,7 @@
       "downloadURL" : "https://github.com/aonez/Keka/releases/download/v1.2.55/Keka-1.2.55.dmg",
       "homepage" : "https://www.keka.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 4515,
+      "impressionCount" : 4517,
       "localizedDescription" : "File archiver",
       "name" : "Keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -292,7 +293,7 @@
       "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 3573,
+      "impressionCount" : 3575,
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
@@ -316,7 +317,7 @@
       "downloadURL" : "https://github.com/MacDownApp/macdown/releases/download/v0.7.2/MacDown.app.zip",
       "homepage" : "https://macdown.uranusjr.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/AppIcon.png",
-      "impressionCount" : 2989,
+      "impressionCount" : 2991,
       "localizedDescription" : "Open-source Markdown editor",
       "name" : "MacDown",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/README.md",
@@ -342,7 +343,7 @@
       "downloadURL" : "https://download.blender.org/release/Blender3.2/blender-3.2.1-macos-x64.dmg",
       "homepage" : "https://www.blender.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
-      "impressionCount" : 4150,
+      "impressionCount" : 4151,
       "localizedDescription" : "3D creation suite",
       "name" : "Blender",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/README.md",
@@ -398,7 +399,7 @@
       ],
       "homepage" : "https://github.com/macvim-dev/macvim",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/AppIcon.png",
-      "impressionCount" : 2614,
+      "impressionCount" : 2622,
       "localizedDescription" : "Text editor",
       "name" : "MacVim",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/README.md",
@@ -412,7 +413,7 @@
       "subtitle" : "Text editor",
       "tintColor" : "5EAF52",
       "version" : "172",
-      "viewCount" : 199
+      "viewCount" : 201
     },
     {
       "beta" : false,
@@ -813,7 +814,7 @@
       ],
       "homepage" : "https://github.com/exelban/stats",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/AppIcon.png",
-      "impressionCount" : 1908,
+      "impressionCount" : 1916,
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
@@ -822,7 +823,7 @@
       "tintColor" : "3A383C",
       "version" : "2.7.25",
       "versionDate" : "2022-07-11T03:23:24Z",
-      "viewCount" : 244
+      "viewCount" : 248
     },
     {
       "beta" : false,
@@ -1253,7 +1254,7 @@
       ],
       "homepage" : "https://github.com/Sequel-Ace/Sequel-Ace",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sequel-ace/AppIcon.png",
-      "impressionCount" : 1016,
+      "impressionCount" : 1022,
       "localizedDescription" : "MySQL/MariaDB database management",
       "name" : "Sequel Ace",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sequel-ace/README.md",
@@ -1261,7 +1262,7 @@
       "subtitle" : "MySQL/MariaDB database management",
       "tintColor" : "A66666",
       "version" : "3.5.2,20033",
-      "viewCount" : 45
+      "viewCount" : 47
     },
     {
       "beta" : false,
@@ -1311,7 +1312,7 @@
       ],
       "homepage" : "https://github.com/kovidgoyal/kitty",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kitty/AppIcon.png",
-      "impressionCount" : 1346,
+      "impressionCount" : 1352,
       "localizedDescription" : "GPU-based terminal emulator",
       "name" : "kitty",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kitty/README.md",
@@ -1319,7 +1320,7 @@
       "subtitle" : "GPU-based terminal emulator",
       "tintColor" : "A09995",
       "version" : "0.25.2",
-      "viewCount" : 93
+      "viewCount" : 95
     },
     {
       "beta" : false,
@@ -1659,7 +1660,7 @@
       ],
       "homepage" : "https://github.com/MonitorControl/MonitorControl",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-monitorcontrol/AppIcon.png",
-      "impressionCount" : 1664,
+      "impressionCount" : 1671,
       "localizedDescription" : "Tool to control external monitor brightness & volume",
       "name" : "MonitorControl",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-monitorcontrol/README.md",
@@ -1667,7 +1668,7 @@
       "subtitle" : "Tool to control external monitor brightness & volume",
       "tintColor" : "84779C",
       "version" : "4.1.0",
-      "viewCount" : 183
+      "viewCount" : 186
     },
     {
       "beta" : false,
@@ -1818,7 +1819,7 @@
       "downloadURL" : "https://github.com/debauchee/barrier/releases/download/v2.4.0/Barrier-2.4.0-Release.dmg",
       "homepage" : "https://github.com/debauchee/barrier/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/AppIcon.png",
-      "impressionCount" : 1643,
+      "impressionCount" : 1646,
       "localizedDescription" : "Open-source KVM software",
       "name" : "Barrier",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-barrier/README.md",
@@ -2904,7 +2905,7 @@
       ],
       "homepage" : "https://github.com/jhen0409/react-native-debugger",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-react-native-debugger/AppIcon.png",
-      "impressionCount" : 227,
+      "impressionCount" : 233,
       "localizedDescription" : "Standalone app for debugging React Native apps",
       "name" : "React Native Debugger",
       "sha256" : "cb7d184a495e2a45cc2dc02730f828a552e45d8328df1c7a229f0ffa7fed8106",
@@ -3049,7 +3050,7 @@
       "downloadURL" : "https://github.com/qishibo/AnotherRedisDesktopManager/releases/download/v1.5.6/Another-Redis-Desktop-Manager.1.5.6.dmg",
       "homepage" : "https://github.com/qishibo/AnotherRedisDesktopManager/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-another-redis-desktop-manager/AppIcon.png",
-      "impressionCount" : 621,
+      "impressionCount" : 622,
       "localizedDescription" : "Redis desktop manager",
       "name" : "Another Redis Desktop Manager",
       "sha256" : "c56835fbb994816af57407ddaade7cbdc2e856357b647cc8ef2178ce3d32a200",
@@ -3729,7 +3730,7 @@
       ],
       "homepage" : "https://github.com/ther0n/UnnaturalScrollWheels",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unnaturalscrollwheels/AppIcon.png",
-      "impressionCount" : 170,
+      "impressionCount" : 177,
       "localizedDescription" : "Tool to invert scroll direction for physical scroll wheels",
       "name" : "UnnaturalScrollWheels",
       "sha256" : "89e4bbdf74c1025f045a34f7d3949fe5ea0d1b0cd8d3e893d41c9c0d50caf7c5",
@@ -3770,7 +3771,8 @@
       "name" : "LastPass",
       "subtitle" : "Password manager",
       "tintColor" : "D55B56",
-      "version" : "4.98.1,1268"
+      "version" : "4.99.0,1271",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -4204,7 +4206,7 @@
       ],
       "homepage" : "https://github.com/TermiT/Flycut",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flycut/AppIcon.png",
-      "impressionCount" : 271,
+      "impressionCount" : 280,
       "localizedDescription" : "Clipboard manager for developers",
       "name" : "Flycut",
       "sha256" : "bc1a73b9cb4b4d316fa11572f43383f0f02fc7e6ba88bbed046cc1b074336862",
@@ -4246,7 +4248,7 @@
       ],
       "homepage" : "https://github.com/logseq/logseq",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-logseq/AppIcon.png",
-      "impressionCount" : 242,
+      "impressionCount" : 252,
       "localizedDescription" : "Privacy-first, open-source platform for knowledge sharing and management",
       "name" : "Logseq",
       "sha256" : "1f6e892e89aab97713d5301dc13e4b2364ee44b9b75689281434c332dffe0723",
@@ -4535,7 +4537,7 @@
       "downloadURL" : "https://github.com/Eugeny/tabby/releases/download/v1.0.181/tabby-1.0.181-macos-x86_64.zip",
       "homepage" : "https://eugeny.github.io/tabby/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tabby/AppIcon.png",
-      "impressionCount" : 456,
+      "impressionCount" : 457,
       "localizedDescription" : "Terminal emulator, SSH and serial client",
       "name" : "Tabby",
       "sha256" : "f9bb044071a8ecfba7e98919e27e8be645cecb561cf3789feb0e4b69504965d0",
@@ -4586,7 +4588,7 @@
       ],
       "homepage" : "https://github.com/artginzburg/MiddleClick-BigSur",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-middleclick/AppIcon.png",
-      "impressionCount" : 243,
+      "impressionCount" : 252,
       "localizedDescription" : "Utility to extend trackpad functionality",
       "name" : "MiddleClick",
       "sha256" : "50bb016602e8e792a8a6b53053a4ec4129ca89926a44fc1ac898f3d11102aada",
@@ -4601,16 +4603,17 @@
         "public.app-category.utilities"
       ],
       "downloadCount" : 429,
-      "downloadURL" : "https://protonvpn.com/download/ProtonVPN_mac_v3.0.0.dmg",
+      "downloadURL" : "https://protonvpn.com/download/ProtonVPN_mac_v3.0.1.dmg",
       "homepage" : "https://protonvpn.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-protonvpn/AppIcon.png",
       "impressionCount" : 172,
       "localizedDescription" : "VPN client focusing on security",
       "name" : "ProtonVPN",
-      "sha256" : "61d01500452933a4e5299f1c15b726e2b8969c4c0fa11ef283678420acd6b4c8",
+      "sha256" : "d88c1484b57e0d45dbd4317bcc4ae319b1cfccaafc0e2e9f77150b24d6ab45a3",
       "subtitle" : "VPN client focusing on security",
       "tintColor" : "65B973",
-      "version" : "3.0.0"
+      "version" : "3.0.1",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -4822,16 +4825,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 366,
-      "downloadURL" : "https://issuepcdn.baidupcs.com/issue/netdisk/MACguanjia/BaiduNetdisk_mac_4.10.1.dmg",
+      "downloadURL" : "https://issuepcdn.baidupcs.com/issue/netdisk/MACguanjia/BaiduNetdisk_mac_4.11.0.dmg",
       "homepage" : "https://pan.baidu.com/download",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-baidunetdisk/AppIcon.png",
       "impressionCount" : 515,
       "localizedDescription" : "Cloud storage service",
       "name" : "Baidu NetDisk",
-      "sha256" : "f6608a58a42890c5d74175a3594330d70644484efaffad59f989199610eaf01f",
+      "sha256" : "99f150a2519fd05a3e706ff267401e6867f4fb1b329bc43e6076fdaf37b157ba",
       "subtitle" : "Cloud storage service",
       "tintColor" : "D9E9F5",
-      "version" : "4.10.1"
+      "version" : "4.11.0",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -5142,7 +5146,7 @@
       ],
       "homepage" : "https://github.com/leits/MeetingBar",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-meetingbar/AppIcon.png",
-      "impressionCount" : 261,
+      "impressionCount" : 269,
       "localizedDescription" : "Shows the next meeting in the menu bar",
       "name" : "MeetingBar",
       "sha256" : "828f9f4055c7d5895699ca5d6aaa48ba406aa1d870770ec152234a1e1a664397",
@@ -5166,7 +5170,7 @@
       ],
       "homepage" : "https://github.com/Ji4n1ng/OpenInTerminal",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openinterminal/AppIcon.png",
-      "impressionCount" : 198,
+      "impressionCount" : 206,
       "localizedDescription" : "Finder Toolbar app to open the current directory in Terminal or Editor",
       "name" : "OpenInTerminal",
       "sha256" : "11af1d2367e966dc4ea829cbf39cc7c869af50d687708600b188024539180ec8",
@@ -5232,7 +5236,7 @@
       ],
       "homepage" : "https://github.com/gao-sun/eul",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eul/AppIcon.png",
-      "impressionCount" : 286,
+      "impressionCount" : 295,
       "localizedDescription" : "Status monitoring",
       "name" : "eul",
       "sha256" : "09b036f1e934472d55a0417e2a3ce736559caf81a38537c94ab2c6331f258851",
@@ -5278,7 +5282,7 @@
       ],
       "homepage" : "https://github.com/will-stone/browserosaurus",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-browserosaurus/AppIcon.png",
-      "impressionCount" : 604,
+      "impressionCount" : 614,
       "localizedDescription" : "Open-source browser prompter",
       "name" : "Browserosaurus",
       "sha256" : "1942ce8bff7315de9ec24a8df0461641a2209139a46f93897e4759d0bb6e8708",
@@ -5337,7 +5341,7 @@
       ],
       "homepage" : "https://github.com/macmade/Hot",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hot/AppIcon.png",
-      "impressionCount" : 236,
+      "impressionCount" : 243,
       "localizedDescription" : "Menu bar application that displays the CPU speed limit due to thermal issues",
       "name" : "Hot",
       "sha256" : "3eae0f62c55fe22b4bb5b06e1cfe39e557fda2ba9a11e8e65dcabeafbdd31884",
@@ -5917,7 +5921,7 @@
       ],
       "homepage" : "https://github.com/Kevin-De-Koninck/Clean-Me",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clean-me/AppIcon.png",
-      "impressionCount" : 516,
+      "impressionCount" : 523,
       "localizedDescription" : "System cleaner for logs, caches and more",
       "name" : "Clean-me",
       "sha256" : "f58124740e8d9cbf8b4f45ee9a3e30a2aced109381fc34583d1c28d49d54dfe5",
@@ -6322,7 +6326,7 @@
       ],
       "homepage" : "https://github.com/Ji4n1ng/OpenInTerminal",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openinterminal-lite/AppIcon.png",
-      "impressionCount" : 171,
+      "impressionCount" : 178,
       "localizedDescription" : "Finder Toolbar app to open the current directory in Terminal",
       "name" : "OpenInTerminal-Lite",
       "sha256" : "2d2f7ab19bcd443fa533a294875a0e95333cca0a60707ac7226bcafaaae2972b",
@@ -6532,16 +6536,17 @@
         "public.app-category.developer-tools"
       ],
       "downloadCount" : 154,
-      "downloadURL" : "https://updates.kaleidoscope.app/v3/prod/Kaleidoscope-3.4.4-2070.app.zip",
+      "downloadURL" : "https://updates.kaleidoscope.app/v3/prod/Kaleidoscope-3.5-2073.app.zip",
       "homepage" : "https://www.kaleidoscope.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kaleidoscope/AppIcon.png",
       "impressionCount" : 374,
       "localizedDescription" : "Spot and merge differences in text and image files or folders",
       "name" : "Kaleidoscope",
-      "sha256" : "1619a59d7d1d4d20c20e9cd798241b497081ea491ddc65d97f8ea2ff341a0625",
+      "sha256" : "7b9756d8145eee9dbaf55dd6878d9cb4fa99097ba4172123cbe385228d068d61",
       "subtitle" : "Spot and merge differences in text and image files or folders",
       "tintColor" : "556055",
-      "version" : "3.4.4,2070"
+      "version" : "3.5,2073",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -6598,7 +6603,7 @@
       ],
       "homepage" : "https://github.com/Jintin/Swimat",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swimat/AppIcon.png",
-      "impressionCount" : 125,
+      "impressionCount" : 132,
       "localizedDescription" : "Xcode formatter plug-in for Swift code",
       "name" : "Swimat",
       "sha256" : "adcf450d98c247fe4c45c68353f19afca3e2039c8431ec080f14000fe9cc36bf",
@@ -7224,17 +7229,17 @@
         "public.app-category.utilities"
       ],
       "downloadCount" : 123,
-      "downloadURL" : "https://max.codes/latest/0.8.1.zip",
+      "downloadURL" : "https://max.codes/latest/0.8.2.zip",
       "homepage" : "https://max.codes/latest",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-latest/AppIcon.png",
       "impressionCount" : 617,
       "localizedDescription" : "Utility that shows the latest app updates",
       "name" : "Latest",
-      "sha256" : "8563072816b20a014f90107ca8fb781e38affb31d027c90894adbab5090a960e",
+      "sha256" : "875d1482ce69676065a794b508b34275b3d99715d3ce9eb74eb025e4b6a2d71c",
       "subtitle" : "Utility that shows the latest app updates",
       "tintColor" : "C5E9F0",
-      "version" : "0.8.1,708",
-      "versionDate" : "2022-07-10T01:14:44Z"
+      "version" : "0.8.2,736",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -7799,7 +7804,7 @@
       ],
       "homepage" : "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-heroic/AppIcon.png",
-      "impressionCount" : 688,
+      "impressionCount" : 695,
       "localizedDescription" : "Open Source Game Launcher",
       "name" : "Heroic Games Launcher",
       "sha256" : "adfed3868e5aab11fed4de14ee496e13cfeabcb7600f8b0b2c60653fc32686ba",
@@ -8037,7 +8042,7 @@
       ],
       "homepage" : "https://github.com/Toxblh/MTMR",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mtmr/AppIcon.png",
-      "impressionCount" : 130,
+      "impressionCount" : 137,
       "localizedDescription" : "TouchBar customization app",
       "name" : "My TouchBar. My rules",
       "sha256" : "cf0b1b8cb9d6758cd0b69d2c4c5f9f1a067416126a7daa76a8d94fea8189d608",
@@ -8385,7 +8390,7 @@
       ],
       "homepage" : "https://github.com/ruiaureliano/X-SwiftFormat",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-x-swiftformat/AppIcon.png",
-      "impressionCount" : 76,
+      "impressionCount" : 83,
       "localizedDescription" : "Xcode extension to format Swift code",
       "name" : "X-SwiftFormat",
       "sha256" : "00862e3f761217e4dfa7d8ac042bc085c530eb1375bccca7f765896f0c523b21",
@@ -8571,7 +8576,7 @@
       ],
       "homepage" : "https://github.com/FreeTubeApp/FreeTube",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-freetube/AppIcon.png",
-      "impressionCount" : 249,
+      "impressionCount" : 257,
       "localizedDescription" : "YouTube player focusing on privacy",
       "name" : "FreeTube",
       "sha256" : "22086b8899b8bc2b8bd8b3217978d9864260a7d359cf1fdc113c6f3262032a7d",
@@ -8599,7 +8604,7 @@
       ],
       "homepage" : "https://github.com/ts1/BLEUnlock",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bleunlock/AppIcon.png",
-      "impressionCount" : 545,
+      "impressionCount" : 553,
       "localizedDescription" : "Lock/unlock Apple computers using the proximity of a bluetooth low energy device",
       "name" : "BLEUnlock",
       "sha256" : "d9847b2f540393bb2a18dc5be6929021c7499c383d12a198ee9f9e9ffada5f6b",
@@ -8930,7 +8935,7 @@
       ],
       "homepage" : "https://github.com/GitSquared/edex-ui",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-edex-ui/AppIcon.png",
-      "impressionCount" : 267,
+      "impressionCount" : 275,
       "localizedDescription" : "Sci-fi themed terminal emulator and system monitor",
       "name" : "eDEX-UI",
       "sha256" : "db38e5dea11e8b0f528c1a59971fe97cbecbcdd8cf29b21621ad7105173c3407",
@@ -9581,7 +9586,7 @@
       ],
       "homepage" : "https://github.com/mxcl/Workbench",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-workbench/AppIcon.png",
-      "impressionCount" : 347,
+      "impressionCount" : 354,
       "localizedDescription" : "Seamless, automatic, “dotfile” sync to iCloud",
       "name" : "Workbench",
       "sha256" : "7fec7bf1fb93854ed87cbaf4d9e21ef964adfc064d731b82a84a499f5b911e1f",
@@ -9898,7 +9903,7 @@
       ],
       "homepage" : "https://github.com/mifi/lossless-cut",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-losslesscut/AppIcon.png",
-      "impressionCount" : 207,
+      "impressionCount" : 213,
       "localizedDescription" : "Trims video and audio files losslessly",
       "name" : "LosslessCut",
       "sha256" : "ebf07832496e09bda6d66ff7e51e575dfa24192065ffccdf89d92f99baae585b",
@@ -10141,7 +10146,7 @@
       ],
       "homepage" : "https://github.com/sn4k3/UVtools",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-uvtools/AppIcon.png",
-      "impressionCount" : 120,
+      "impressionCount" : 127,
       "localizedDescription" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "name" : "UVtools",
       "sha256" : "bad7db644f27779680c90cc9f1d40cd3c69d79675450baf0941b546bdc9aebbe",
@@ -10564,7 +10569,7 @@
       ],
       "homepage" : "https://github.com/siyuan-note/siyuan",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-siyuan/AppIcon.png",
-      "impressionCount" : 96,
+      "impressionCount" : 103,
       "localizedDescription" : "Local-first personal knowledge management system",
       "name" : "SiYuan",
       "sha256" : "1a4256f47c8d7881463718db6608b0f8df347191d19971a30e4931af69b4a85a",
@@ -10649,7 +10654,7 @@
       ],
       "homepage" : "https://github.com/sindresorhus/touch-bar-simulator",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-touch-bar-simulator/AppIcon.png",
-      "impressionCount" : 82,
+      "impressionCount" : 89,
       "localizedDescription" : "Touch Bar as a standalone app",
       "name" : "Touch Bar Simulator",
       "sha256" : "7af139d541a8d2875d76aa46ef4074496d07ef49d2aec27467d8879aac903d43",
@@ -10735,7 +10740,7 @@
       ],
       "homepage" : "https://github.com/sindresorhus/caprine",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-caprine/AppIcon.png",
-      "impressionCount" : 545,
+      "impressionCount" : 553,
       "localizedDescription" : "Elegant Facebook Messenger desktop app",
       "name" : "Caprine",
       "sha256" : "c3abc07155b210658c682d6cddc942e2a8be3e1344a51fd2d628fc6eb17b2578",
@@ -10759,7 +10764,7 @@
       ],
       "homepage" : "https://github.com/zenangst/Gray",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gray/AppIcon.png",
-      "impressionCount" : 175,
+      "impressionCount" : 182,
       "localizedDescription" : "Tool to set light or dark appearance on a per-app basis",
       "name" : "Gray",
       "sha256" : "631e13cf28bae804e7e1a77cddaf2277f91d2de0c45c6fd7805a7c0eac627edd",
@@ -10893,7 +10898,7 @@
       ],
       "homepage" : "https://github.com/joshjon/nocturnal",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-joshjon-nocturnal/AppIcon.png",
-      "impressionCount" : 146,
+      "impressionCount" : 152,
       "localizedDescription" : "Dimness and night shift menu bar app",
       "name" : "Nocturnal",
       "sha256" : "5bc5c7c6231a4cc4c316335dfca57c0cc8964410e6b8898ae09120bbc8d98779",
@@ -11168,7 +11173,8 @@
       "name" : "Yandex.Browser",
       "subtitle" : "Web browser",
       "tintColor" : "EACCCC",
-      "version" : "22.5.0"
+      "version" : "22.7.0",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -11368,7 +11374,7 @@
       ],
       "homepage" : "https://github.com/visualfc/liteide",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-liteide/AppIcon.png",
-      "impressionCount" : 120,
+      "impressionCount" : 126,
       "localizedDescription" : "Go IDE",
       "name" : "LiteIDE",
       "sha256" : "a48f7ab142144ba0c3b7fee1ea9cb2c03a999d48f0a2e486270cb2cd6e6762d8",
@@ -12370,17 +12376,17 @@
         "public.app-category.games"
       ],
       "downloadCount" : 35,
-      "downloadURL" : "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.11.3.dmg",
+      "downloadURL" : "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.12.3.dmg",
       "homepage" : "https://www.lunarclient.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lunar-client/AppIcon.png",
       "impressionCount" : 800,
       "localizedDescription" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "name" : "Lunar Client",
-      "sha256" : "2d0dad7164463a4c184bac25a7e6161a4aed79858e05765674fd6bf2d3ca7017",
+      "sha256" : "a620e0300b6b266753ec7e2b23407c275e3c5dc19b09f1e74324130e93a7ad91",
       "subtitle" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "tintColor" : "828487",
-      "version" : "2.11.3",
-      "versionDate" : "2022-07-08T02:38:52Z"
+      "version" : "2.12.3",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -13004,7 +13010,7 @@
       ],
       "homepage" : "https://github.com/Ji4n1ng/OpenInTerminal",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openineditor-lite/AppIcon.png",
-      "impressionCount" : 129,
+      "impressionCount" : 135,
       "localizedDescription" : "Finder Toolbar app to open the current directory in Editor",
       "name" : "OpenInEditor-Lite",
       "sha256" : "745f81ba178795d44e97c8c60b8b28022f7258f70f673555da0da3a34637519d",
@@ -13995,7 +14001,7 @@
       ],
       "homepage" : "https://github.com/timche/gmail-desktop",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-timche-gmail-desktop/AppIcon.png",
-      "impressionCount" : 126,
+      "impressionCount" : 131,
       "localizedDescription" : "Unofficial Gmail desktop app",
       "name" : "Gmail Desktop",
       "sha256" : "8c5a8c4e651d7c328f3e7947e2b1ccc437245840ef33ea3d3f4b45fe7b82dc2e",
@@ -14388,16 +14394,17 @@
         "public.app-category.developer-tools"
       ],
       "downloadCount" : 26,
-      "downloadURL" : "https://kubernetic.s3.amazonaws.com/Kubernetic-4.2.0.dmg",
+      "downloadURL" : "https://kubernetic.s3.amazonaws.com/Kubernetic-4.3.0.dmg",
       "homepage" : "https://kubernetic.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kubernetic/AppIcon.png",
       "impressionCount" : 171,
       "localizedDescription" : "Kubernetes desktop client",
       "name" : "Kubernetic",
-      "sha256" : "bac0c8b17f84a5abc1d9895c26db1a13a28be2982241eb42f7ebf9730a1e4446",
+      "sha256" : "61919e54afa08214c5781f9546b96929016d282f1f732151ccad3d024afacac3",
       "subtitle" : "Kubernetes desktop client",
       "tintColor" : "6B7EAE",
-      "version" : "4.2.0"
+      "version" : "4.3.0",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -14722,7 +14729,7 @@
       ],
       "homepage" : "https://github.com/zadam/trilium",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-trilium-notes/AppIcon.png",
-      "impressionCount" : 113,
+      "impressionCount" : 118,
       "localizedDescription" : "Personal knowledge base",
       "name" : "Trilium Notes",
       "sha256" : "f1b65caaa4b74ce446062d3083a8db73f7618cef03d0f9f1a0dc2efa1a6a74ff",
@@ -15288,7 +15295,7 @@
       ],
       "homepage" : "https://github.com/warmuuh/milkman",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-milkman/AppIcon.png",
-      "impressionCount" : 99,
+      "impressionCount" : 104,
       "localizedDescription" : "Extensible request and response workbench",
       "name" : "Milkman",
       "sha256" : "18a6c8952bd662ec0ff2f24bb7ecdcef0fb0af7d1707e7dd4197570defef363a",
@@ -15316,7 +15323,7 @@
       ],
       "homepage" : "https://github.com/jely2002/youtube-dl-gui",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-open-video-downloader/AppIcon.png",
-      "impressionCount" : 119,
+      "impressionCount" : 124,
       "localizedDescription" : "Cross-platform GUI for youtube-dl made in Electron and node.js",
       "name" : "Open Video Downloader",
       "sha256" : "02032bce606998f86dc0375a0c597d0320e689bddaf6528528e310446c432707",
@@ -15640,7 +15647,7 @@
       ],
       "homepage" : "https://github.com/ransome1/sleek",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sleek/AppIcon.png",
-      "impressionCount" : 130,
+      "impressionCount" : 135,
       "localizedDescription" : "Todo manager based on the todo.txt syntax",
       "name" : "sleek",
       "sha256" : "e7ff92653d1a85b3484d8204a02ca2e49fd44792085513c13accd2ba14475419",
@@ -15716,7 +15723,8 @@
       "name" : "Ankama Launcher",
       "subtitle" : "Portal to download Ankama's PC games",
       "tintColor" : "F08612",
-      "version" : "3.6.15"
+      "version" : "3.6.16",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -16055,7 +16063,7 @@
       ],
       "homepage" : "https://github.com/klaussinani/ao",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ao/AppIcon.png",
-      "impressionCount" : 385,
+      "impressionCount" : 390,
       "localizedDescription" : "Elegant Microsoft To-Do desktop app",
       "name" : "Ao",
       "sha256" : "c69522f78e82476540637fd3a2ab0c9de1e911530a1eb88c9cf757e933debe0e",
@@ -16437,7 +16445,7 @@
       ],
       "homepage" : "https://github.com/ApolloZhu/Dynamic-Dark-Mode",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dynamic-dark-mode/AppIcon.png",
-      "impressionCount" : 531,
+      "impressionCount" : 536,
       "localizedDescription" : "Automatic Dark Mode toggle",
       "name" : "Dynamic Dark Mode",
       "sha256" : "696d5d605b3c2b54d2485936eff59cd150116f82f584b76938bf80f252d8f194",
@@ -16832,7 +16840,7 @@
       ],
       "homepage" : "https://github.com/Dimillian/RedditOS",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-curiosity/AppIcon.png",
-      "impressionCount" : 863,
+      "impressionCount" : 868,
       "localizedDescription" : "SwiftUI Reddit client",
       "name" : "Curiosity",
       "sha256" : "cee2a11755b23c55d96a2226750e80ee991ae8bff74bda4ff757717bcbdf9cad",
@@ -17791,7 +17799,7 @@
       ],
       "homepage" : "https://github.com/nteract/nteract",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nteract/AppIcon.png",
-      "impressionCount" : 116,
+      "impressionCount" : 121,
       "localizedDescription" : "Interactive computing suite",
       "name" : "nteract",
       "sha256" : "de65abe5ed76489217a9c29bcc177aa5b2ee2f0657cd017301af33280ca8a737",
@@ -19240,7 +19248,8 @@
       "name" : "Integrity",
       "subtitle" : "Tool to scan a website checking for broken links",
       "tintColor" : "862323",
-      "version" : "12.3.14"
+      "version" : "12.3.15",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -19575,7 +19584,7 @@
       ],
       "homepage" : "https://github.com/alexkim205/g-desktop-suite",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-g-desktop-suite/AppIcon.png",
-      "impressionCount" : 216,
+      "impressionCount" : 220,
       "name" : "G Desktop Suite",
       "sha256" : "461c5d19149a088981f8f7a87148cda1762458b7c64d59e1ec5062106eb8ad90",
       "tintColor" : "80AB7E",
@@ -20131,7 +20140,7 @@
       ],
       "homepage" : "https://github.com/onmyway133/FinderGo",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-findergo/AppIcon.png",
-      "impressionCount" : 283,
+      "impressionCount" : 287,
       "localizedDescription" : "Open terminal quickly from Finder",
       "name" : "FinderGo",
       "sha256" : "0484e158c4fd95c5ecb8bbdb14a01a039268758fb5bb1cc1754d78e2592db638",
@@ -20596,17 +20605,17 @@
         "public.app-category.developer-tools"
       ],
       "downloadCount" : 10,
-      "downloadURL" : "https://get.atomicwallet.io/download/atomicwallet-2.48.2-1180.dmg",
+      "downloadURL" : "https://get.atomicwallet.io/download/atomicwallet-2.49.2-1193.dmg",
       "homepage" : "https://atomicwallet.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-atomic-wallet/AppIcon.png",
       "impressionCount" : 343,
       "localizedDescription" : "Manage Bitcoin, Ethereum, XRP, Litecoin, XLM and over 300 other coins and tokens",
       "name" : "Atomic Wallet",
-      "sha256" : "9e63d2c150dc2905da49c31179deca7853e8623c971b323970c0b4ae0fe878fe",
+      "sha256" : "119b802c47607746ad3869738cc7c863034105c898b699ebbf112f9aa6a87f9e",
       "subtitle" : "Manage Bitcoin, Ethereum, XRP, Litecoin, XLM and over 300 other coins and tokens",
       "tintColor" : "24406B",
-      "version" : "2.48.2-1180",
-      "versionDate" : "2022-07-08T06:23:15Z"
+      "version" : "2.49.2-1193",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -20678,7 +20687,7 @@
       ],
       "homepage" : "https://github.com/v002/v002-Camera-Live",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-camera-live/AppIcon.png",
-      "impressionCount" : 439,
+      "impressionCount" : 443,
       "localizedDescription" : "Live Syphon Camera",
       "name" : "Camera Live",
       "sha256" : "4c7a6ecdbec677a6fbbb90af427e54b0d429278c87b49966c6448ce065c78e75",
@@ -20947,7 +20956,7 @@
       ],
       "homepage" : "https://github.com/codechimp-org/ha-menu",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ha-menu/AppIcon.png",
-      "impressionCount" : 158,
+      "impressionCount" : 162,
       "localizedDescription" : "Menu Bar app to perform common Home Assistant functions",
       "name" : "HA Menu",
       "sha256" : "eeca3cfea1545f1ff53281ccf801ace17d70773d37d6ea6e97fe0d0c0a8e584f",
@@ -21365,7 +21374,7 @@
       ],
       "homepage" : "https://github.com/4gray/iptvnator",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iptvnator/AppIcon.png",
-      "impressionCount" : 322,
+      "impressionCount" : 326,
       "localizedDescription" : "Open Source m3u, m3u8 player",
       "name" : "IPTVnator",
       "sha256" : "9c1d719e5fdb787433181b262a5096581c5167b77156b67b7f4cfea314d90ea2",
@@ -21723,7 +21732,7 @@
       ],
       "homepage" : "https://github.com/jlord/git-it-electron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-git-it/AppIcon.png",
-      "impressionCount" : 519,
+      "impressionCount" : 522,
       "localizedDescription" : "Desktop app for learning Git and GitHub",
       "name" : "Git-it",
       "sha256" : "b96c06bca744af94e2f035824fbd16f59673c4c454fd4bf96aa4bde965fe711d",
@@ -22319,7 +22328,7 @@
       ],
       "homepage" : "https://github.com/1000ch/whale",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whale/AppIcon.png",
-      "impressionCount" : 99,
+      "impressionCount" : 102,
       "localizedDescription" : "Unofficial Trello app :whale:",
       "name" : "Whale",
       "sha256" : "63857d17bf6d44c65215d729870737a17153f33c01605dc093626b7185731b02",
@@ -22379,7 +22388,7 @@
       ],
       "homepage" : "https://github.com/trulyspinach/SMCAMDProcessor",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-amd-power-gadget/AppIcon.png",
-      "impressionCount" : 294,
+      "impressionCount" : 300,
       "localizedDescription" : "Power management, monitoring and VirtualSMC plugin for AMD processors",
       "name" : "AMD Power Gadget",
       "sha256" : "2f3877365d42c4212e5ef0280b4d619f0315f31467b42ce3a45928a2ea8b74ee",
@@ -22998,17 +23007,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 8,
-      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.82.2-stable.1-ci4307436.dmg",
+      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.82.3-stable.1-ci4320708.dmg",
       "homepage" : "https://pitch.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pitch/AppIcon.png",
       "impressionCount" : 180,
       "localizedDescription" : "Collaborative presentation software",
       "name" : "Pitch",
-      "sha256" : "72b39965669b81676e9b665b3d1440a57ec371b9fe0e5883dd05237a9874a853",
+      "sha256" : "f43310d8887c526f48bedfb2a796f98a4d2f8554909c4ce8d26c5bcce64f3457",
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
-      "version" : "1.82.2,stable.1,4307436",
-      "versionDate" : "2022-07-10T01:14:44Z"
+      "version" : "1.82.3,stable.1,4320708",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -23698,7 +23707,7 @@
       ],
       "homepage" : "https://github.com/vitorgalvao/fog",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fog/AppIcon.png",
-      "impressionCount" : 422,
+      "impressionCount" : 426,
       "localizedDescription" : "Unofficial overcast.fm podcast app",
       "name" : "Fog",
       "sha256" : "dbf1216fce69ead08e9e9a37b18391d3d65e7f06ae4e6f633e7047832c6b1adc",
@@ -23767,16 +23776,17 @@
         "public.app-category.utilities"
       ],
       "downloadCount" : 7,
-      "downloadURL" : "https://www.freezeapp.net/download/Freeze-3.15-307.zip",
+      "downloadURL" : "https://www.freezeapp.net/download/Freeze-3.16-312.zip",
       "homepage" : "https://www.freezeapp.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-freeze/AppIcon.png",
       "impressionCount" : 167,
       "localizedDescription" : "Amazon Glacier file transfer client",
       "name" : "Freeze",
-      "sha256" : "c6b08d03139820c997b8870a48a7e6ddf0d64f9b76c2d18d38fd2838e49aeb8e",
+      "sha256" : "506ac942f5fd105858a8415d7c3d4b6036d75e7e537310b4faae71cb4bd7e59b",
       "subtitle" : "Amazon Glacier file transfer client",
       "tintColor" : "6C95D3",
-      "version" : "3.15,307"
+      "version" : "3.16,312",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -25576,7 +25586,8 @@
       "name" : "almighty",
       "subtitle" : "Settings and tweaks configurator",
       "tintColor" : "9CC37C",
-      "version" : "2.3.1,41"
+      "version" : "2.3.3,43",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -25630,7 +25641,7 @@
       ],
       "homepage" : "https://github.com/lapcat/Bonjeff",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bonjeff/AppIcon.png",
-      "impressionCount" : 793,
+      "impressionCount" : 799,
       "localizedDescription" : "Shows a live display of the Bonjour services published on your network",
       "name" : "Bonjeff",
       "sha256" : "d6793dffe0c4ebcd962bb8a1802d5c092b24effdd18ec27655eeb3d20b7953fc",
@@ -25900,7 +25911,7 @@
       ],
       "homepage" : "https://github.com/drhelius/Gearsystem",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gearsystem/AppIcon.png",
-      "impressionCount" : 154,
+      "impressionCount" : 161,
       "name" : "Gearsystem",
       "sha256" : "b5a9a2dc62d721448d315f7116e08433257ee5f849362f570ebe99eb7f425336",
       "tintColor" : "242627",
@@ -25980,16 +25991,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 5,
-      "downloadURL" : "https://imdone.io/downloads/imdone-1.29.4.dmg",
+      "downloadURL" : "https://imdone.io/downloads/imdone-1.29.5.dmg",
       "homepage" : "https://imdone.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-imdone/AppIcon.png",
       "impressionCount" : 185,
       "localizedDescription" : "Kanban board that works on plain text markdown files or code",
       "name" : "imdone",
-      "sha256" : "6d5cfe1044f35f71c5a083f289042908c4ea5e0c8544f91c250885e2aaef2821",
+      "sha256" : "9efa92e35ce27e8c3d72dd0d5038314df19dc76102c3165582c7fa49edd420ef",
       "subtitle" : "Kanban board that works on plain text markdown files or code",
       "tintColor" : "242424",
-      "version" : "1.29.4"
+      "version" : "1.29.5",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -26624,16 +26636,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 5,
-      "downloadURL" : "https://update.christiantietze.de/tableflip/v1/TableFlip-v1.3.1.zip",
+      "downloadURL" : "https://update.christiantietze.de/tableflip/v1/TableFlip-v1.4.0.zip",
       "homepage" : "https://tableflipapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tableflip/AppIcon.png",
       "impressionCount" : 113,
       "localizedDescription" : "App to edit markdown files in place",
       "name" : "TableFlip",
-      "sha256" : "c2c715a7bb8182f261571aab43ecb3ccdc401f410b27eb81d513b740cf16e37b",
+      "sha256" : "f16b19161e442180586fb99376fac7c90d8ae4c62837ecfb09374e7bed78656b",
       "subtitle" : "App to edit markdown files in place",
       "tintColor" : "D1D3DC",
-      "version" : "1.3.1,61"
+      "version" : "1.4.0,65",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -28012,7 +28025,7 @@
       ],
       "homepage" : "https://github.com/amiantos/pibar",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pibar/AppIcon.png",
-      "impressionCount" : 73,
+      "impressionCount" : 80,
       "localizedDescription" : "Pi-hole(s) management in the menu bar",
       "name" : "PiBar",
       "sha256" : "4badcd4056f879e35cf749ce4e2a142a127fd198eec5ddcb15da63a2a0b3c64c",
@@ -28335,7 +28348,7 @@
       ],
       "homepage" : "https://github.com/tiddly-gittly/TidGi-Desktop",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tidgi/AppIcon.png",
-      "impressionCount" : 78,
+      "impressionCount" : 85,
       "localizedDescription" : "Personal knowledge-base app",
       "name" : "TidGi",
       "sha256" : "c0a338265d76f22ad25b1239226ea853bc364776c6438a23b513b68c49f95f5a",
@@ -28851,7 +28864,7 @@
       ],
       "homepage" : "https://github.com/egoist/eme",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eme/AppIcon.png",
-      "impressionCount" : 193,
+      "impressionCount" : 200,
       "localizedDescription" : "Markdown editor",
       "name" : "EME",
       "sha256" : "bae758c1dde501365cc774adeb2dd85418e0b0513df48a2ee66ba0b792cb02d5",
@@ -29476,7 +29489,7 @@
       ],
       "homepage" : "https://github.com/muan/mojibar",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mojibar/AppIcon.png",
-      "impressionCount" : 92,
+      "impressionCount" : 98,
       "localizedDescription" : "Emoji searcher as a menu bar app",
       "name" : "Mojibar",
       "sha256" : "28e9811bb9a43c15f7a7ba9100e86cc5f45e4f53c093cd9f08972fda8694b363",
@@ -29951,7 +29964,7 @@
       ],
       "homepage" : "https://github.com/NicolasConstant/sengi",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sengi/AppIcon.png",
-      "impressionCount" : 214,
+      "impressionCount" : 219,
       "localizedDescription" : "Mastodon and Pleroma desktop client",
       "name" : "Sengi",
       "sha256" : "753f92fd621ac142f2608d837598c0187918d66c45176430ed5a95d05acbc3d9",
@@ -30723,7 +30736,7 @@
       ],
       "homepage" : "https://github.com/garrylachman/ElectroCRUD",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electrocrud/AppIcon.png",
-      "impressionCount" : 188,
+      "impressionCount" : 192,
       "localizedDescription" : "Database CRUD application",
       "name" : "ElectroCRUD",
       "sha256" : "b5f758c354b1c4e0d0d5434e8c6856629a85e1bf05121467e913ce3d8485be2e",
@@ -31648,16 +31661,17 @@
         "public.app-category.social-networking"
       ],
       "downloadCount" : 2,
-      "downloadURL" : "https://popo.netease.com/file/popomac/POPO-setup_3_51_1.dmg",
+      "downloadURL" : "https://popo.netease.com/file/popomac/POPO-setup_3_52_1.dmg",
       "homepage" : "https://popo.netease.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-popo/AppIcon.png",
       "impressionCount" : 178,
       "localizedDescription" : "Instant messaging platform",
       "name" : "NetEase POPO",
-      "sha256" : "6d26c2943fe155a107d34c43b5ad30a187e9c4103081a5d1f6343b7a5d728a4e",
+      "sha256" : "45fa238a66cb2a037765e10c9d7b85d070ee2f096367d098f37dd108345207eb",
       "subtitle" : "Instant messaging platform",
       "tintColor" : "F6F6FB",
-      "version" : "3.51.1"
+      "version" : "3.52.1",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -32210,7 +32224,7 @@
       ],
       "homepage" : "https://github.com/tanin47/tip",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tip/AppIcon.png",
-      "impressionCount" : 94,
+      "impressionCount" : 97,
       "localizedDescription" : "Programmable tooltip that can be used with any app",
       "name" : "Tip",
       "sha256" : "4d986a461d1b24bb5776fb49063b9a1891939f336b306a6bc75f58d0a4e98bcb",
@@ -33091,7 +33105,7 @@
       ],
       "homepage" : "https://github.com/drhelius/Gearboy",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gearboy/AppIcon.png",
-      "impressionCount" : 161,
+      "impressionCount" : 165,
       "name" : "Gearboy",
       "sha256" : "9b7b276c2f4b01dab8a1562b9dce5c61ab61c770b74a81c4d26e1d1e69be2bfb",
       "tintColor" : "74746D",
@@ -33298,16 +33312,17 @@
         "public.app-category.utilities"
       ],
       "downloadCount" : 1,
-      "downloadURL" : "https://www.dogparksoftware.com/files/MacLoggerDX640.dmg",
+      "downloadURL" : "https://www.dogparksoftware.com/files/MacLoggerDX641.dmg",
       "homepage" : "https://www.dogparksoftware.com/MacLoggerDX.html",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macloggerdx/AppIcon.png",
       "impressionCount" : 100,
       "localizedDescription" : "Ham radio logging and rig control software",
       "name" : "MacLoggerDX",
-      "sha256" : "2cf99a95ab7db0bc3d22738fb33ed0a59f41ad6ff36f6a4502ecf5397ed10813",
+      "sha256" : "228d76dffadf1f4654595fb37c38a1b6d21a36f8938db7daf55e085743e6844a",
       "subtitle" : "Ham radio logging and rig control software",
       "tintColor" : "868F7E",
-      "version" : "6.40"
+      "version" : "6.41",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -34601,7 +34616,7 @@
       ],
       "homepage" : "https://github.com/TomHarte/CLK",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clock-signal/AppIcon.png",
-      "impressionCount" : 701,
+      "impressionCount" : 707,
       "localizedDescription" : "Latency-hating emulator of 8- and 16-bit platforms",
       "name" : "Clock Signal",
       "sha256" : "c4dedee6c111ad29d142c7f4f39e742a9220ce9d632a03e4956a9a433d26bdf4",
@@ -36854,16 +36869,17 @@
       "beta" : false,
       "bundleIdentifier" : "grammarly-desktop",
       "downloadCount" : 203,
-      "downloadURL" : "https://download-mac.grammarly.com/versions/1.7.0.1/Grammarly.dmg",
+      "downloadURL" : "https://download-mac.grammarly.com/versions/1.8.0.0/Grammarly.dmg",
       "homepage" : "https://www.grammarly.com/desktop",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-grammarly-desktop/AppIcon.png",
       "impressionCount" : 19,
       "localizedDescription" : "Grammarly for desktop",
       "name" : "Grammarly Desktop",
-      "sha256" : "915188f4761a28e77749ed312d1ceebc9adb139eafefec47481cd5095f36ede0",
+      "sha256" : "a791a530ac77359674b2e5ea931f260fd0864c8659349936f4372235e23cf40f",
       "subtitle" : "Grammarly for desktop",
       "tintColor" : "80DEC8",
-      "version" : "1.7.0.1"
+      "version" : "1.8.0.0",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -36887,7 +36903,7 @@
       "downloadURL" : "https://github.com/matryer/xbar/releases/download/v2.1.7-beta/xbar.v2.1.7-beta.dmg",
       "homepage" : "https://xbarapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xbar/AppIcon.png",
-      "impressionCount" : 32,
+      "impressionCount" : 33,
       "localizedDescription" : "View output from scripts in the menu bar",
       "name" : "xbar",
       "sha256" : "0a7ea7c40e4d4e2ecce0dae3c9c3773d459ddf5af86744f70c44b9f9901bc73f",
@@ -40122,7 +40138,8 @@
       "name" : "VueScan",
       "subtitle" : "App that provides drivers for older model scanners that are no longer supported",
       "tintColor" : "AA9D92",
-      "version" : "9.7.88"
+      "version" : "9.7.89",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -40569,17 +40586,17 @@
       "beta" : false,
       "bundleIdentifier" : "sejda-pdf",
       "downloadCount" : 27,
-      "downloadURL" : "https://sejda-cdn.com/downloads/sejda-desktop_7.5.2.dmg",
+      "downloadURL" : "https://sejda-cdn.com/downloads/sejda-desktop_7.5.3.dmg",
       "homepage" : "https://www.sejda.com/desktop",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sejda-pdf/AppIcon.png",
       "impressionCount" : 39,
       "localizedDescription" : "PDF editor",
       "name" : "Sejda PDF Desktop",
-      "sha256" : "0f51cb443ad13ddad973732477cf4608f18605cdaaeb3a6d564c6938414cc45a",
+      "sha256" : "e856abc26c08de4cf28e49619db520266c6ad3e63aa7c5ab1b43ad84753a08de",
       "subtitle" : "PDF editor",
       "tintColor" : "4BAE87",
-      "version" : "7.5.2",
-      "versionDate" : "2022-07-03T01:10:30Z"
+      "version" : "7.5.3",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -42086,8 +42103,8 @@
       "name" : "iBackup Viewer",
       "subtitle" : "Extract Data from iPhone Backups",
       "tintColor" : "A9AAAA",
-      "version" : "4.2620",
-      "versionDate" : "2022-07-08T17:32:45Z"
+      "version" : "4.2630",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -46505,16 +46522,17 @@
       "beta" : false,
       "bundleIdentifier" : "code-composer-studio",
       "downloadCount" : 4,
-      "downloadURL" : "https://software-dl.ti.com/ccs/esd/CCSv11/CCS_11_2_0/exports/ccs_installer_osx_11.2.0.00007.dmg",
+      "downloadURL" : "https://dr-download.ti.com/software-development/ide-configuration-compiler-or-debugger/MD-J1VdearkvK/12.0.0/ccs_installer_osx_12.0.0.00009.dmg",
       "homepage" : "https://www.ti.com/tool/CCSTUDIO",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-code-composer-studio/AppIcon.png",
       "impressionCount" : 0,
       "localizedDescription" : "Integrated development environment",
       "name" : "Code Composer Studio (CCS)",
-      "sha256" : "3881536501845c6ce1de0c1cbc16302dcc470657ef19971bdaa10e14ee61790a",
+      "sha256" : "b69a0ba01d07605ca06ccaba8cd2c6ba9136f2091ec15afaeac135111f917f95",
       "subtitle" : "Integrated development environment",
       "tintColor" : "CC0000",
-      "version" : "11.2.0.00007"
+      "version" : "12.0.0.00009",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -50030,7 +50048,8 @@
       "localizedDescription" : "Client for the Google Drive storage service",
       "name" : "Google Drive",
       "subtitle" : "Client for the Google Drive storage service",
-      "version" : "59.0.3"
+      "version" : "60.0.2",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -50400,14 +50419,14 @@
       "beta" : false,
       "bundleIdentifier" : "metasploit",
       "downloadCount" : 625,
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.7%2B20220709102942-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.7%2B20220711102946-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "65eb267893e34026ddb7bf73e80593cdf623ada0f76cf252874470c9ceeff7b2",
+      "sha256" : "5d0899650c20438e21c3a002e8c7c1bc0a59b3441e89604c5998d191ebf95a29",
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.7,20220709102942",
-      "versionDate" : "2022-07-10T01:14:44Z"
+      "version" : "6.2.7,20220711102946",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -51804,13 +51823,14 @@
       "beta" : false,
       "bundleIdentifier" : "deezer",
       "downloadCount" : 98,
-      "downloadURL" : "https://www.deezer.com/desktop/download/artifact/darwin/x64/5.30.270",
+      "downloadURL" : "https://www.deezer.com/desktop/download/artifact/darwin/x64/5.30.280",
       "homepage" : "https://www.deezer.com/download",
       "localizedDescription" : "Music player",
       "name" : "Deezer",
-      "sha256" : "e6584835073edcce00437b1d915085e8637ec50a0f4264a4db8031a1c20bbe62",
+      "sha256" : "4df6c4f326e19cf50a9f1cd17a1d7958b311b581cd76d4e5090d4e5a03241ba0",
       "subtitle" : "Music player",
-      "version" : "5.30.270"
+      "version" : "5.30.280",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -53531,13 +53551,14 @@
       "beta" : false,
       "bundleIdentifier" : "accurics",
       "downloadCount" : 22,
-      "downloadURL" : "https://downloads.accurics.com/cli/1.0.40/accurics-cli.dmg",
+      "downloadURL" : "https://downloads.accurics.com/cli/1.0.41/accurics-cli.dmg",
       "homepage" : "https://www.accurics.com/",
       "localizedDescription" : "Security and compliance for Infrastructure as Code",
       "name" : "Accurics CLI",
-      "sha256" : "0c3b17336ce775a81154df2e2e5b59ae7fa168d3c9bcd7615fd479cd139b70e9",
+      "sha256" : "55ed7150504c5854aec2c2a03d496d04f8286031cdad5eadf302229af0415c4f",
       "subtitle" : "Security and compliance for Infrastructure as Code",
-      "version" : "1.0.40"
+      "version" : "1.0.41",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -56230,8 +56251,8 @@
       "localizedDescription" : "Macro remote control",
       "name" : "Touch Portal",
       "subtitle" : "Macro remote control",
-      "version" : "3.1.2",
-      "versionDate" : "2022-07-07T09:29:43Z"
+      "version" : "3.1.3",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -56339,13 +56360,14 @@
       "beta" : false,
       "bundleIdentifier" : "chemdoodle",
       "downloadCount" : 5,
-      "downloadURL" : "https://www.ichemlabs.com/downloads/ChemDoodle-macos-11.9.0.dmg",
+      "downloadURL" : "https://www.ichemlabs.com/downloads/ChemDoodle-macos-11.10.0.dmg",
       "homepage" : "https://www.ichemlabs.com/",
       "localizedDescription" : "2D chemical drawing, publishing and informatics",
       "name" : "ChemDoodle",
-      "sha256" : "4216e57b5f5b62ad0fe177e5661ed3f770bef22bc967c36a25563ab4425d19f3",
+      "sha256" : "ddf5b0f29a5b1cdc5e71c1a4858108fab4497019f7c7b21282795a959bfcc139",
       "subtitle" : "2D chemical drawing, publishing and informatics",
-      "version" : "11.9.0"
+      "version" : "11.10.0",
+      "versionDate" : "2022-07-11T23:21:04Z"
     },
     {
       "beta" : false,
@@ -59856,195 +59878,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "balsamiq-wireframes",
-      "caption" : "Balsamiq Wireframes updated from 4.5.3 to 4.5.4",
-      "date" : "2022-07-08T02:38:58Z",
-      "identifier" : "release-balsamiq-wireframes-4.5.4",
-      "title" : "New Release: Balsamiq Wireframes 4.5.4"
-    },
-    {
-      "appID" : "front",
-      "caption" : "Front updated from 3.35.20 to 3.35.21",
-      "date" : "2022-07-08T02:38:59Z",
-      "identifier" : "release-front-3.35.21",
-      "title" : "New Release: Front 3.35.21"
-    },
-    {
-      "appID" : "santa",
-      "caption" : "Santa updated from 2022.5 to 2022.6",
-      "date" : "2022-07-08T02:38:59Z",
-      "identifier" : "release-santa-2022.6",
-      "title" : "New Release: Santa 2022.6"
-    },
-    {
-      "appID" : "plasticscm-cloud-edition",
-      "caption" : "PlasicSCM - a Cloud Edition updated from 11.0.16.7134 to 11.0.16.7176",
-      "date" : "2022-07-08T02:38:59Z",
-      "identifier" : "release-plasticscm-cloud-edition-11.0.16.7176",
-      "title" : "New Release: PlasicSCM - a Cloud Edition 11.0.16.7176"
-    },
-    {
-      "appID" : "yggdrasil",
-      "caption" : "Yggdrasil updated from 0.4.3 to 0.4.4",
-      "date" : "2022-07-08T02:38:59Z",
-      "identifier" : "release-yggdrasil-0.4.4",
-      "title" : "New Release: Yggdrasil 0.4.4"
-    },
-    {
-      "appID" : "unity-ios-support-for-editor",
-      "caption" : "Unity iOS Build Support updated from 2022.1.7f1,240f4c1f462c to 2022.1.8f1,2961e8c2b463",
-      "date" : "2022-07-08T02:38:59Z",
-      "identifier" : "release-unity-ios-support-for-editor-2022.1.8f1,2961e8c2b463",
-      "title" : "New Release: Unity iOS Build Support 2022.1.8f1,2961e8c2b463"
-    },
-    {
-      "appID" : "unity-webgl-support-for-editor",
-      "caption" : "Unity WebGL Build Support updated from 2022.1.7f1,240f4c1f462c to 2022.1.8f1,2961e8c2b463",
-      "date" : "2022-07-08T02:38:59Z",
-      "identifier" : "release-unity-webgl-support-for-editor-2022.1.8f1,2961e8c2b463",
-      "title" : "New Release: Unity WebGL Build Support 2022.1.8f1,2961e8c2b463"
-    },
-    {
-      "appID" : "logdna-agent",
-      "caption" : "LogDNA Agent updated from 2.1.2 to 2.2.2",
-      "date" : "2022-07-08T02:39:00Z",
-      "identifier" : "release-logdna-agent-2.2.2",
-      "title" : "New Release: LogDNA Agent 2.2.2"
-    },
-    {
-      "appID" : "unity-windows-support-for-editor",
-      "caption" : "Unity Windows (Mono) Build Support updated from 2022.1.7f1,240f4c1f462c to 2022.1.8f1,2961e8c2b463",
-      "date" : "2022-07-08T02:39:00Z",
-      "identifier" : "release-unity-windows-support-for-editor-2022.1.8f1,2961e8c2b463",
-      "title" : "New Release: Unity Windows (Mono) Build Support 2022.1.8f1,2961e8c2b463"
-    },
-    {
-      "appID" : "imazing",
-      "caption" : "iMazing updated from 2.15.6,16417 to 2.15.7,16466",
-      "date" : "2022-07-08T03:44:15Z",
-      "identifier" : "release-imazing-2.15.7,16466",
-      "title" : "New Release: iMazing 2.15.7,16466"
-    },
-    {
-      "appID" : "josm",
-      "caption" : "JOSM updated from 18511 to 18513",
-      "date" : "2022-07-08T03:44:16Z",
-      "identifier" : "release-josm-18513",
-      "title" : "New Release: JOSM 18513"
-    },
-    {
-      "appID" : "goodsync",
-      "caption" : "GoodSync updated from 11.11.3 to 11.11.4",
-      "date" : "2022-07-08T03:44:16Z",
-      "identifier" : "release-goodsync-11.11.4",
-      "title" : "New Release: GoodSync 11.11.4"
-    },
-    {
-      "appID" : "vscodium",
-      "caption" : "VSCodium updated from 1.68.1 to 1.69.0",
-      "date" : "2022-07-08T06:23:15Z",
-      "identifier" : "release-vscodium-1.69.0",
-      "title" : "New Release: VSCodium 1.69.0"
-    },
-    {
-      "appID" : "atomic-wallet",
-      "caption" : "Atomic Wallet updated from 2.49.2 to 2.48.2-1180",
-      "date" : "2022-07-08T06:23:16Z",
-      "identifier" : "release-atomic-wallet-2.48.2-1180",
-      "title" : "New Release: Atomic Wallet 2.48.2-1180"
-    },
-    {
-      "appID" : "publii",
-      "caption" : "Publii updated from 0.40.0 to 0.40.1",
-      "date" : "2022-07-08T11:17:49Z",
-      "identifier" : "release-publii-0.40.1",
-      "title" : "New Release: Publii 0.40.1"
-    },
-    {
-      "appID" : "qownnotes",
-      "caption" : "QOwnNotes updated from 22.7.0 to 22.7.1",
-      "date" : "2022-07-08T11:17:49Z",
-      "identifier" : "release-qownnotes-22.7.1",
-      "title" : "New Release: QOwnNotes 22.7.1"
-    },
-    {
-      "appID" : "pushplaylabs-sidekick",
-      "caption" : "Sidekick updated from 100.24.5.21203,58b6910 to 100.24.5.21210,fffdccf",
-      "date" : "2022-07-08T11:17:49Z",
-      "identifier" : "release-pushplaylabs-sidekick-100.24.5.21210,fffdccf",
-      "title" : "New Release: Sidekick 100.24.5.21210,fffdccf"
-    },
-    {
-      "appID" : "packetproxy",
-      "caption" : "PacketProxy updated from 2.1.8 to 2.1.9",
-      "date" : "2022-07-08T11:17:50Z",
-      "identifier" : "release-packetproxy-2.1.9",
-      "title" : "New Release: PacketProxy 2.1.9"
-    },
-    {
-      "appID" : "kotlin-native",
-      "caption" : "Kotlin Native updated from 1.7.0 to 1.7.10",
-      "date" : "2022-07-08T11:17:50Z",
-      "identifier" : "release-kotlin-native-1.7.10",
-      "title" : "New Release: Kotlin Native 1.7.10"
-    },
-    {
-      "appID" : "tableplus",
-      "caption" : "TablePlus updated from 4.7.1,428 to 4.8.0,432",
-      "date" : "2022-07-08T17:32:46Z",
-      "identifier" : "release-tableplus-4.8.0,432",
-      "title" : "New Release: TablePlus 4.8.0,432"
-    },
-    {
-      "appID" : "devutils",
-      "caption" : "DevUtils updated from 1.14.0,127 to 1.15,132",
-      "date" : "2022-07-08T17:32:46Z",
-      "identifier" : "release-devutils-1.15,132",
-      "title" : "New Release: DevUtils 1.15,132"
-    },
-    {
-      "appID" : "adrive",
-      "caption" : "Aliyundrive updated from 3.6.0 to 3.6.1",
-      "date" : "2022-07-08T17:32:46Z",
-      "identifier" : "release-adrive-3.6.1",
-      "title" : "New Release: Aliyundrive 3.6.1"
-    },
-    {
-      "appID" : "arctype",
-      "caption" : "Arctype updated from 0.9.70 to 0.9.71",
-      "date" : "2022-07-08T17:32:46Z",
-      "identifier" : "release-arctype-0.9.71",
-      "title" : "New Release: Arctype 0.9.71"
-    },
-    {
-      "appID" : "progressive-downloader",
-      "caption" : "Progressive Downloader updated from 5.2.1 to 5.3",
-      "date" : "2022-07-08T17:32:47Z",
-      "identifier" : "release-progressive-downloader-5.3",
-      "title" : "New Release: Progressive Downloader 5.3"
-    },
-    {
-      "appID" : "clock-signal",
-      "caption" : "Clock Signal updated from 2022-07-01 to 2022-07-08",
-      "date" : "2022-07-08T17:32:47Z",
-      "identifier" : "release-clock-signal-2022-07-08",
-      "title" : "New Release: Clock Signal 2022-07-08"
-    },
-    {
-      "appID" : "fontgoggles",
-      "caption" : "FontGoggles updated from 1.4.5 to 1.5.0",
-      "date" : "2022-07-08T17:32:47Z",
-      "identifier" : "release-fontgoggles-1.5.0",
-      "title" : "New Release: FontGoggles 1.5.0"
-    },
-    {
-      "appID" : "ibackup-viewer",
-      "caption" : "iBackup Viewer updated from 4.2610 to 4.2620",
-      "date" : "2022-07-08T17:32:47Z",
-      "identifier" : "release-ibackup-viewer-4.2620",
-      "title" : "New Release: iBackup Viewer 4.2620"
-    },
-    {
       "appID" : "touchosc-bridge",
       "caption" : "TouchOSC Bridge updated from 1.7.3.149 to 1.7.3.152",
       "date" : "2022-07-08T17:32:47Z",
@@ -60127,13 +59960,6 @@
       "date" : "2022-07-10T01:14:45Z",
       "identifier" : "release-bob-0.10.3",
       "title" : "New Release: Bob 0.10.3"
-    },
-    {
-      "appID" : "latest",
-      "caption" : "Latest updated from 0.8,487 to 0.8.1,708",
-      "date" : "2022-07-10T01:14:45Z",
-      "identifier" : "release-latest-0.8.1,708",
-      "title" : "New Release: Latest 0.8.1,708"
     },
     {
       "appID" : "poedit",
@@ -60234,13 +60060,6 @@
       "title" : "New Release: Shapr3D 5.164.0.3536"
     },
     {
-      "appID" : "pitch",
-      "caption" : "Pitch updated from 1.82.1,stable.1,4294161 to 1.82.2,stable.1,4307436",
-      "date" : "2022-07-10T01:14:48Z",
-      "identifier" : "release-pitch-1.82.2,stable.1,4307436",
-      "title" : "New Release: Pitch 1.82.2,stable.1,4307436"
-    },
-    {
       "appID" : "immersed",
       "caption" : "Immersed updated from 16.6,139 to 16.7,140",
       "date" : "2022-07-10T01:14:48Z",
@@ -60330,13 +60149,6 @@
       "date" : "2022-07-10T01:14:50Z",
       "identifier" : "release-ddnet-16.2.1",
       "title" : "New Release: DDNet 16.2.1"
-    },
-    {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.6,20220707103212 to 6.2.7,20220709102942",
-      "date" : "2022-07-10T01:14:50Z",
-      "identifier" : "release-metasploit-6.2.7,20220709102942",
-      "title" : "New Release: Metasploit Framework 6.2.7,20220709102942"
     },
     {
       "appID" : "nota",
@@ -60554,6 +60366,216 @@
       "date" : "2022-07-11T15:31:21Z",
       "identifier" : "release-geogebra-6.0.720.0",
       "title" : "New Release: GeoGebra 6.0.720.0"
+    },
+    {
+      "appID" : "spotify",
+      "caption" : "Spotify updated from 1.1.88.612,cc529952,10 to 1.1.89.862,94554d24,16",
+      "date" : "2022-07-11T23:21:05Z",
+      "identifier" : "release-spotify-1.1.89.862,94554d24,16",
+      "title" : "New Release: Spotify 1.1.89.862,94554d24,16"
+    },
+    {
+      "appID" : "lastpass",
+      "caption" : "LastPass updated from 4.98.1,1268 to 4.99.0,1271",
+      "date" : "2022-07-11T23:21:06Z",
+      "identifier" : "release-lastpass-4.99.0,1271",
+      "title" : "New Release: LastPass 4.99.0,1271"
+    },
+    {
+      "appID" : "protonvpn",
+      "caption" : "ProtonVPN updated from 3.0.0 to 3.0.1",
+      "date" : "2022-07-11T23:21:06Z",
+      "identifier" : "release-protonvpn-3.0.1",
+      "title" : "New Release: ProtonVPN 3.0.1"
+    },
+    {
+      "appID" : "baidunetdisk",
+      "caption" : "Baidu NetDisk updated from 4.10.1 to 4.11.0",
+      "date" : "2022-07-11T23:21:06Z",
+      "identifier" : "release-baidunetdisk-4.11.0",
+      "title" : "New Release: Baidu NetDisk 4.11.0"
+    },
+    {
+      "appID" : "kaleidoscope",
+      "caption" : "Kaleidoscope updated from 3.4.4,2070 to 3.5,2073",
+      "date" : "2022-07-11T23:21:06Z",
+      "identifier" : "release-kaleidoscope-3.5,2073",
+      "title" : "New Release: Kaleidoscope 3.5,2073"
+    },
+    {
+      "appID" : "latest",
+      "caption" : "Latest updated from 0.8.1,708 to 0.8.2,736",
+      "date" : "2022-07-11T23:21:06Z",
+      "identifier" : "release-latest-0.8.2,736",
+      "title" : "New Release: Latest 0.8.2,736"
+    },
+    {
+      "appID" : "yandex",
+      "caption" : "Yandex.Browser updated from 22.5.0 to 22.7.0",
+      "date" : "2022-07-11T23:21:06Z",
+      "identifier" : "release-yandex-22.7.0",
+      "title" : "New Release: Yandex.Browser 22.7.0"
+    },
+    {
+      "appID" : "lunar-client",
+      "caption" : "Lunar Client updated from 2.11.3 to 2.12.3",
+      "date" : "2022-07-11T23:21:07Z",
+      "identifier" : "release-lunar-client-2.12.3",
+      "title" : "New Release: Lunar Client 2.12.3"
+    },
+    {
+      "appID" : "kubernetic",
+      "caption" : "Kubernetic updated from 4.2.0 to 4.3.0",
+      "date" : "2022-07-11T23:21:07Z",
+      "identifier" : "release-kubernetic-4.3.0",
+      "title" : "New Release: Kubernetic 4.3.0"
+    },
+    {
+      "appID" : "ankama",
+      "caption" : "Ankama Launcher updated from 3.6.15 to 3.6.16",
+      "date" : "2022-07-11T23:21:07Z",
+      "identifier" : "release-ankama-3.6.16",
+      "title" : "New Release: Ankama Launcher 3.6.16"
+    },
+    {
+      "appID" : "integrity",
+      "caption" : "Integrity updated from 12.3.14 to 12.3.15",
+      "date" : "2022-07-11T23:21:07Z",
+      "identifier" : "release-integrity-12.3.15",
+      "title" : "New Release: Integrity 12.3.15"
+    },
+    {
+      "appID" : "atomic-wallet",
+      "caption" : "Atomic Wallet updated from 2.48.2-1180 to 2.49.2-1193",
+      "date" : "2022-07-11T23:21:07Z",
+      "identifier" : "release-atomic-wallet-2.49.2-1193",
+      "title" : "New Release: Atomic Wallet 2.49.2-1193"
+    },
+    {
+      "appID" : "pitch",
+      "caption" : "Pitch updated from 1.82.2,stable.1,4307436 to 1.82.3,stable.1,4320708",
+      "date" : "2022-07-11T23:21:07Z",
+      "identifier" : "release-pitch-1.82.3,stable.1,4320708",
+      "title" : "New Release: Pitch 1.82.3,stable.1,4320708"
+    },
+    {
+      "appID" : "freeze",
+      "caption" : "Freeze updated from 3.15,307 to 3.16,312",
+      "date" : "2022-07-11T23:21:07Z",
+      "identifier" : "release-freeze-3.16,312",
+      "title" : "New Release: Freeze 3.16,312"
+    },
+    {
+      "appID" : "almighty",
+      "caption" : "almighty updated from 2.3.1,41 to 2.3.3,43",
+      "date" : "2022-07-11T23:21:08Z",
+      "identifier" : "release-almighty-2.3.3,43",
+      "title" : "New Release: almighty 2.3.3,43"
+    },
+    {
+      "appID" : "imdone",
+      "caption" : "imdone updated from 1.29.4 to 1.29.5",
+      "date" : "2022-07-11T23:21:08Z",
+      "identifier" : "release-imdone-1.29.5",
+      "title" : "New Release: imdone 1.29.5"
+    },
+    {
+      "appID" : "tableflip",
+      "caption" : "TableFlip updated from 1.3.1,61 to 1.4.0,65",
+      "date" : "2022-07-11T23:21:08Z",
+      "identifier" : "release-tableflip-1.4.0,65",
+      "title" : "New Release: TableFlip 1.4.0,65"
+    },
+    {
+      "appID" : "popo",
+      "caption" : "NetEase POPO updated from 3.51.1 to 3.52.1",
+      "date" : "2022-07-11T23:21:08Z",
+      "identifier" : "release-popo-3.52.1",
+      "title" : "New Release: NetEase POPO 3.52.1"
+    },
+    {
+      "appID" : "macloggerdx",
+      "caption" : "MacLoggerDX updated from 6.40 to 6.41",
+      "date" : "2022-07-11T23:21:08Z",
+      "identifier" : "release-macloggerdx-6.41",
+      "title" : "New Release: MacLoggerDX 6.41"
+    },
+    {
+      "appID" : "grammarly-desktop",
+      "caption" : "Grammarly Desktop updated from 1.7.0.1 to 1.8.0.0",
+      "date" : "2022-07-11T23:21:08Z",
+      "identifier" : "release-grammarly-desktop-1.8.0.0",
+      "title" : "New Release: Grammarly Desktop 1.8.0.0"
+    },
+    {
+      "appID" : "vuescan",
+      "caption" : "VueScan updated from 9.7.88 to 9.7.89",
+      "date" : "2022-07-11T23:21:09Z",
+      "identifier" : "release-vuescan-9.7.89",
+      "title" : "New Release: VueScan 9.7.89"
+    },
+    {
+      "appID" : "sejda-pdf",
+      "caption" : "Sejda PDF Desktop updated from 7.5.2 to 7.5.3",
+      "date" : "2022-07-11T23:21:09Z",
+      "identifier" : "release-sejda-pdf-7.5.3",
+      "title" : "New Release: Sejda PDF Desktop 7.5.3"
+    },
+    {
+      "appID" : "ibackup-viewer",
+      "caption" : "iBackup Viewer updated from 4.2620 to 4.2630",
+      "date" : "2022-07-11T23:21:09Z",
+      "identifier" : "release-ibackup-viewer-4.2630",
+      "title" : "New Release: iBackup Viewer 4.2630"
+    },
+    {
+      "appID" : "code-composer-studio",
+      "caption" : "Code Composer Studio (CCS) updated from 11.2.0.00007 to 12.0.0.00009",
+      "date" : "2022-07-11T23:21:09Z",
+      "identifier" : "release-code-composer-studio-12.0.0.00009",
+      "title" : "New Release: Code Composer Studio (CCS) 12.0.0.00009"
+    },
+    {
+      "appID" : "google-drive",
+      "caption" : "Google Drive updated from 59.0.3 to 60.0.2",
+      "date" : "2022-07-11T23:21:09Z",
+      "identifier" : "release-google-drive-60.0.2",
+      "title" : "New Release: Google Drive 60.0.2"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.7,20220709102942 to 6.2.7,20220711102946",
+      "date" : "2022-07-11T23:21:10Z",
+      "identifier" : "release-metasploit-6.2.7,20220711102946",
+      "title" : "New Release: Metasploit Framework 6.2.7,20220711102946"
+    },
+    {
+      "appID" : "deezer",
+      "caption" : "Deezer updated from 5.30.270 to 5.30.280",
+      "date" : "2022-07-11T23:21:10Z",
+      "identifier" : "release-deezer-5.30.280",
+      "title" : "New Release: Deezer 5.30.280"
+    },
+    {
+      "appID" : "accurics",
+      "caption" : "Accurics CLI updated from 1.0.40 to 1.0.41",
+      "date" : "2022-07-11T23:21:10Z",
+      "identifier" : "release-accurics-1.0.41",
+      "title" : "New Release: Accurics CLI 1.0.41"
+    },
+    {
+      "appID" : "touch-portal",
+      "caption" : "Touch Portal updated from 3.1.2 to 3.1.3",
+      "date" : "2022-07-11T23:21:10Z",
+      "identifier" : "release-touch-portal-3.1.3",
+      "title" : "New Release: Touch Portal 3.1.3"
+    },
+    {
+      "appID" : "chemdoodle",
+      "caption" : "ChemDoodle updated from 11.9.0 to 11.10.0",
+      "date" : "2022-07-11T23:21:10Z",
+      "identifier" : "release-chemdoodle-11.10.0",
+      "title" : "New Release: ChemDoodle 11.10.0"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

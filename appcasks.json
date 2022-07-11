@@ -1320,17 +1320,18 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 1524,
-      "downloadURL" : "https://download.calibre-ebook.com/5.44.0/calibre-5.44.0.dmg",
+      "downloadURL" : "https://download.calibre-ebook.com/6.0.0/calibre-6.0.0.dmg",
       "homepage" : "https://calibre-ebook.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/AppIcon.png",
       "impressionCount" : 1759,
       "localizedDescription" : "E-books management software",
       "name" : "calibre",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/README.md",
-      "sha256" : "89d7772ba1b95d219b34e285353340a174a013e06b4d8ad370433b3b98c94ad4",
+      "sha256" : "0c0ece2e79605c625562d08bdbb7fdf389c01a95328f87f9a395df316e31d535",
       "subtitle" : "E-books management software",
       "tintColor" : "75706B",
-      "version" : "5.44.0",
+      "version" : "6.0.0",
+      "versionDate" : "2022-07-11T04:40:56Z",
       "viewCount" : 124
     },
     {
@@ -5896,17 +5897,17 @@
         "public.app-category.music"
       ],
       "downloadCount" : 188,
-      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-f1500651.zip",
+      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-833e298d.zip",
       "homepage" : "https://cog.losno.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cog/AppIcon.png",
       "impressionCount" : 934,
       "localizedDescription" : "Audio player",
       "name" : "Cog",
-      "sha256" : "ff26161c44353501935b3bface342eb0763ce456594c637ef4fbff52aa1301ed",
+      "sha256" : "571692a9dcd64e9c032b9086ed72f3fe3399c645665e623e4d89a0fe63a06ef8",
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
-      "version" : "2567,f1500651",
-      "versionDate" : "2022-07-11T03:23:24Z"
+      "version" : "2575,833e298d",
+      "versionDate" : "2022-07-11T04:40:56Z"
     },
     {
       "beta" : false,
@@ -7320,7 +7321,7 @@
       "downloadURL" : "https://desktop-release.canva-deploy.com/Canva-1.47.0-x64.dmg",
       "homepage" : "https://www.canva.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-canva/AppIcon.png",
-      "impressionCount" : 758,
+      "impressionCount" : 760,
       "localizedDescription" : "Design tool",
       "name" : "Canva",
       "sha256" : "9e1a421d8e378ccb018cbd429bc420a39924a492e27b58c5d31f283ea5a159e4",
@@ -59329,13 +59330,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "visit",
-      "caption" : "VisIt updated from 3.2.2 to 3.3.0",
-      "date" : "2022-07-08T02:38:57Z",
-      "identifier" : "release-visit-3.3.0",
-      "title" : "New Release: VisIt 3.3.0"
-    },
-    {
       "appID" : "spitfire-audio",
       "caption" : "Spitfire Audio updated from 3.3.23,1642640400 to 3.3.25,1657202400",
       "date" : "2022-07-08T02:38:57Z",
@@ -59945,13 +59939,6 @@
       "title" : "New Release: Mimestream 0.36.2"
     },
     {
-      "appID" : "cog",
-      "caption" : "Cog updated from 2557,413ec69e to 2567,f1500651",
-      "date" : "2022-07-11T03:23:26Z",
-      "identifier" : "release-cog-2567,f1500651",
-      "title" : "New Release: Cog 2567,f1500651"
-    },
-    {
       "appID" : "wechatwork",
       "caption" : "WeChat Work updated from 4.0.8.90588 to 4.0.9.90599",
       "date" : "2022-07-11T03:23:26Z",
@@ -60027,6 +60014,20 @@
       "date" : "2022-07-11T03:23:28Z",
       "identifier" : "release-quarto-1.0.8",
       "title" : "New Release: quarto 1.0.8"
+    },
+    {
+      "appID" : "calibre",
+      "caption" : "calibre updated from 5.44.0 to 6.0.0",
+      "date" : "2022-07-11T04:40:57Z",
+      "identifier" : "release-calibre-6.0.0",
+      "title" : "New Release: calibre 6.0.0"
+    },
+    {
+      "appID" : "cog",
+      "caption" : "Cog updated from 2567,f1500651 to 2575,833e298d",
+      "date" : "2022-07-11T04:40:58Z",
+      "identifier" : "release-cog-2575,833e298d",
+      "title" : "New Release: Cog 2575,833e298d"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

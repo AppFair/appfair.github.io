@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `20` | `2022-01-24T01:55:01Z` | `5.9 MB` | `690` | `79` | `1` | `0` | [`reference`](https://github.com/topics/appfair-reference)  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | [``0.9.114``](https://github.com/Cloud-Cuckoo/App/releases/0.9.114) | `17` | `2022-07-08T04:39:07Z` | `5.2 MB` | `179` | `48` | `0` | `0` | [`games`](https://github.com/topics/appfair-games)  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | [``0.9.114``](https://github.com/Cloud-Cuckoo/App/releases/0.9.114) | `18` | `2022-07-08T04:39:07Z` | `5.2 MB` | `179` | `48` | `0` | `0` | [`games`](https://github.com/topics/appfair-games)  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | [``0.0.4β``](https://github.com/Crazy-Glue/App/releases/0.0.4) | `6` | `2022-01-23T23:13:56Z` | `5.9 MB` | `742` | `115` | `0` | `0` | [`graphics-design`](https://github.com/topics/appfair-graphics-design)  |
 | [``Down Town``](https://Down-Town.github.io/App/) | [``0.0.3β``](https://github.com/Down-Town/App/releases/0.0.3) | `4` | `2022-01-25T00:49:11Z` | `6 MB` | `493` | `60` | `0` | `0` | [`travel`](https://github.com/topics/appfair-travel)  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | [``0.0.32β``](https://github.com/Encyclopedia-Galactica/App/releases/0.0.32) | `4` | `2022-01-24T02:35:43Z` | `6.1 MB` | `315` | `31` | `0` | `0` | [`reference`](https://github.com/topics/appfair-reference)  |

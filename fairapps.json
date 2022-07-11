@@ -8,7 +8,7 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 172,
+      "downloadCount" : 173,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.70/App-Fair-macOS.zip",
       "fundingLinks" : [
         {
@@ -62,7 +62,7 @@
       ],
       "sha256" : "96762cc0c781ee7f58a5bfcc39415d998624737444c147a7eb39f723c30a8503",
       "size" : 9025467,
-      "starCount" : 21,
+      "starCount" : 20,
       "subtitle" : "The App Fair catalog browser for discovering & installing macOS apps",
       "tintColor" : "1594E8",
       "version" : "0.8.70",

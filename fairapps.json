@@ -8,7 +8,7 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 216,
+      "downloadCount" : 217,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.70/App-Fair-macOS.zip",
       "fundingLinks" : [
         {
@@ -274,7 +274,7 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 20,
+      "downloadCount" : 21,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
         {
@@ -283,7 +283,7 @@
         }
       ],
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo.png",
-      "impressionCount" : 182,
+      "impressionCount" : 185,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Info.plist#678580e1d240a21b0bc55c886a427dc6dcd737ee740da1caaa4cdd13efc31360",
@@ -307,7 +307,7 @@
       "version" : "0.9.114",
       "versionDate" : "2022-07-08T04:39:07Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.113...0.9.114",
-      "viewCount" : 48,
+      "viewCount" : 49,
       "watcherCount" : 0
     },
     {
@@ -1198,19 +1198,16 @@
       ],
       "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 5,
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.34/Stanza-Redux-macOS.zip",
+      "downloadCount" : 2,
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Stanza-Redux-macOS.zip",
       "fundingLinks" : [
-        {
-          "platform" : "GITHUB",
-          "url" : "https://github.com/appfair"
-        }
+
       ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.34/Stanza-Redux.png",
-      "impressionCount" : 292,
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Stanza-Redux.png",
+      "impressionCount" : 1,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.34/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -1222,20 +1219,20 @@
           "usageDescription" : "This app needs to access the network in order to access books"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.34/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.34/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.34/screenshot_01-mac-light-2436x2012.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.35/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.35/screenshot_01-mac-light-2436x2012.png"
       ],
-      "sha256" : "e043f52f3c5c228011ed351a7239f075db10cc4cd36802cacfb97d25e85700dc",
-      "size" : 3755059,
+      "sha256" : "acf773119a31e370073ae532c14e5dbf1724cb5b4d8374d32ac176ea7e53ee0a",
+      "size" : 3750789,
       "starCount" : 1,
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
-      "version" : "0.3.34",
-      "versionDate" : "2022-07-04T21:50:51Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.33...0.3.34",
-      "viewCount" : 76,
+      "version" : "0.3.35",
+      "versionDate" : "2022-07-12T00:02:19Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.34...0.3.35",
+      "viewCount" : 1,
       "watcherCount" : 0
     },
     {
@@ -1368,7 +1365,7 @@
         }
       ],
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out.png",
-      "impressionCount" : 278,
+      "impressionCount" : 282,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -1396,7 +1393,7 @@
       "version" : "0.8.442",
       "versionDate" : "2022-07-06T13:11:16Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.441...0.8.442",
-      "viewCount" : 53,
+      "viewCount" : 54,
       "watcherCount" : 0
     },
     {
@@ -1606,13 +1603,6 @@
   "name" : "The App Fair macOS App Catalog",
   "news" : [
     {
-      "appID" : "app.Stanza-Redux",
-      "caption" : "Stanza Redux updated from 0.3.33 to 0.3.34",
-      "date" : "2022-07-04T22:08:04Z",
-      "identifier" : "release-app.Stanza-Redux-0.3.34",
-      "title" : "New Release: Stanza Redux 0.3.34"
-    },
-    {
       "appID" : "app.Tune-Out",
       "caption" : "Tune Out updated from 0.8.441 to 0.8.442",
       "date" : "2022-07-06T13:32:14Z",
@@ -1639,6 +1629,13 @@
       "date" : "2022-07-08T16:20:07Z",
       "identifier" : "release-app.App-Fair-0.8.70",
       "title" : "New Release: App Fair 0.8.70"
+    },
+    {
+      "appID" : "app.Stanza-Redux",
+      "caption" : "Stanza Redux updated from 0.3.34 to 0.3.35",
+      "date" : "2022-07-12T00:16:26Z",
+      "identifier" : "release-app.Stanza-Redux-0.3.35",
+      "title" : "New Release: Stanza Redux 0.3.35"
     }
   ],
   "sourceURL" : "https://www.appfair.net/fairapps-macos.json"

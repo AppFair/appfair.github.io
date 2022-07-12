@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | [``0.8.70``](https://github.com/App-Fair/App/releases/0.8.70) | `249` | `2022-07-08T15:59:18Z` | `9 MB` | `124` | `22` | `20` | [``4``](https://github.com/App-Fair/App/issues) | [`utilities`](https://github.com/topics/appfair-utilities)  |
+| [``App Fair``](https://appfair.app) | [``0.8.70``](https://github.com/App-Fair/App/releases/0.8.70) | `251` | `2022-07-08T15:59:18Z` | `9 MB` | `124` | `22` | `20` | [``4``](https://github.com/App-Fair/App/issues) | [`utilities`](https://github.com/topics/appfair-utilities)  |
 | [``App Name``](https://App-Name.github.io/App/) | [``0.0.1β``](https://github.com/App-Name/App/releases/0.0.1) | `2` | `2022-07-02T16:38:41Z` | `2 MB` | `77` | `10` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `4` | `2022-05-19T21:18:14Z` | `2.4 MB` | `101` | `37` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `28` | `2022-05-24T14:45:09Z` | `4.5 MB` | `1949` | `466` | `1` | `0` | [`productivity`](https://github.com/topics/appfair-productivity)  |
@@ -55,7 +55,7 @@ tr:nth-child(even) {
 | [``Story Points``](https://Story-Points.github.io/App/) | [``0.0.6β``](https://github.com/Story-Points/App/releases/0.0.6) | `7` | `2022-01-24T01:59:22Z` | `2.4 MB` | `343` | `51` | `0` | `0` | [`developer-tools`](https://github.com/topics/appfair-developer-tools)  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | [``0.0.20β``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `7` | `2022-02-12T16:07:15Z` | `2.5 MB` | `514` | `46` | `0` | `0` | [`weather`](https://github.com/topics/appfair-weather)  |
 | [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | [``0.0.16β``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `1` | `2022-02-12T16:07:11Z` | `2.5 MB` | `288` | `26` | `0` | `0` | [`games`](https://github.com/topics/appfair-games)  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | [``0.8.442``](https://github.com/Tune-Out/App/releases/0.8.442) | `9` | `2022-07-06T13:11:16Z` | `9.4 MB` | `302` | `54` | `1` | `0` | [`music`](https://github.com/topics/appfair-music)  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | [``0.8.442``](https://github.com/Tune-Out/App/releases/0.8.442) | `9` | `2022-07-06T13:11:16Z` | `9.4 MB` | `303` | `54` | `1` | `0` | [`music`](https://github.com/topics/appfair-music)  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | [``0.0.12β``](https://github.com/Tweet-Storm/App/releases/0.0.12) | `2` | `2022-05-01T12:44:04Z` | `2.6 MB` | `162` | `12` | `0` | `0` | [`social-networking`](https://github.com/topics/appfair-social-networking)  |
 | [``Ultra Light``](https://Ultra-Light.github.io/App/) | [``0.0.7β``](https://github.com/Ultra-Light/App/releases/0.0.7) | `3` | `2022-01-21T14:04:24Z` | `2.3 MB` | `242` | `37` | `0` | `0` | [`news`](https://github.com/topics/appfair-news)  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | [``0.0.5β``](https://github.com/Unclear-Purpose/App/releases/0.0.5) | `3` | `2022-01-25T00:48:27Z` | `2.3 MB` | `266` | `22` | `0` | `0` | [`finance`](https://github.com/topics/appfair-finance)  |

@@ -10,7 +10,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.49.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 4538,
+      "impressionCount" : 4539,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 4115,
+      "impressionCount" : 4116,
       "localizedDescription" : "Multimedia player",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -102,7 +102,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 4025,
+      "impressionCount" : 4026,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -133,7 +133,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 4362,
+      "impressionCount" : 4363,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -211,7 +211,7 @@
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 4270,
+      "impressionCount" : 4271,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -237,7 +237,7 @@
       "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
       "homepage" : "https://store.steampowered.com/about/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 2824,
+      "impressionCount" : 2825,
       "localizedDescription" : "Video game digital distribution service",
       "name" : "Steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
@@ -262,7 +262,7 @@
       "downloadURL" : "https://github.com/aonez/Keka/releases/download/v1.2.55/Keka-1.2.55.dmg",
       "homepage" : "https://www.keka.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 4517,
+      "impressionCount" : 4518,
       "localizedDescription" : "File archiver",
       "name" : "Keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -293,7 +293,7 @@
       "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 3575,
+      "impressionCount" : 3576,
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
@@ -317,7 +317,7 @@
       "downloadURL" : "https://github.com/MacDownApp/macdown/releases/download/v0.7.2/MacDown.app.zip",
       "homepage" : "https://macdown.uranusjr.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/AppIcon.png",
-      "impressionCount" : 2991,
+      "impressionCount" : 2992,
       "localizedDescription" : "Open-source Markdown editor",
       "name" : "MacDown",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/README.md",
@@ -399,7 +399,7 @@
       ],
       "homepage" : "https://github.com/macvim-dev/macvim",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/AppIcon.png",
-      "impressionCount" : 2622,
+      "impressionCount" : 2626,
       "localizedDescription" : "Text editor",
       "name" : "MacVim",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macvim/README.md",
@@ -425,7 +425,7 @@
       "downloadURL" : "https://launcher.mojang.com/download/Minecraft.dmg",
       "homepage" : "https://minecraft.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/AppIcon.png",
-      "impressionCount" : 3321,
+      "impressionCount" : 3322,
       "localizedDescription" : "Sandbox construction video game",
       "name" : "Minecraft",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraft/README.md",
@@ -480,7 +480,7 @@
       "downloadURL" : "https://www.git-tower.com/apps/tower3-mac/325-ba151a8d/Tower-8.3-325.zip",
       "homepage" : "https://www.git-tower.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tower/AppIcon.png",
-      "impressionCount" : 3496,
+      "impressionCount" : 3497,
       "localizedDescription" : "Git client focusing on power and productivity",
       "name" : "Tower",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tower/README.md",
@@ -534,7 +534,7 @@
       "downloadURL" : "https://github.com/steve228uk/YouTube-Music/releases/download/1.3.3/YT-Music-1.3.3.zip",
       "homepage" : "https://github.com/steve228uk/YouTube-Music",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yt-music/AppIcon.png",
-      "impressionCount" : 3086,
+      "impressionCount" : 3087,
       "localizedDescription" : "App wrapper for music.youtube.com",
       "name" : "YouTube Music",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yt-music/README.md",
@@ -558,7 +558,7 @@
       "downloadURL" : "https://github.com/bcpierce00/unison/releases/download/v2.52.1/Unison-v2.52.1.ocaml-4.14.0.macos-10.15.app.tar.gz",
       "homepage" : "https://www.cis.upenn.edu/~bcpierce/unison/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/AppIcon.png",
-      "impressionCount" : 2245,
+      "impressionCount" : 2246,
       "localizedDescription" : "File synchronizer",
       "name" : "Unison",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/README.md",
@@ -715,7 +715,7 @@
       "downloadURL" : "https://downloads.slack-edge.com/releases/macos/4.27.154/prod/x64/Slack-4.27.154-macOS.dmg",
       "homepage" : "https://slack.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slack/AppIcon.png",
-      "impressionCount" : 1866,
+      "impressionCount" : 1867,
       "localizedDescription" : "Team communication and collaboration software",
       "name" : "Slack",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slack/README.md",
@@ -756,7 +756,7 @@
       "downloadURL" : "https://github.com/rxhanson/Rectangle/releases/download/v0.57/Rectangle0.57.dmg",
       "homepage" : "https://rectangleapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rectangle/AppIcon.png",
-      "impressionCount" : 1570,
+      "impressionCount" : 1571,
       "localizedDescription" : "Move and resize windows using keyboard shortcuts or snap areas",
       "name" : "Rectangle",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rectangle/README.md",
@@ -776,7 +776,7 @@
       "downloadURL" : "https://download.sublimetext.com/sublime_text_build_4126_mac.zip",
       "homepage" : "https://www.sublimetext.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-text/AppIcon.png",
-      "impressionCount" : 1139,
+      "impressionCount" : 1140,
       "localizedDescription" : "Text editor for code, markup and prose",
       "name" : "Sublime Text",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-text/README.md",
@@ -814,7 +814,7 @@
       ],
       "homepage" : "https://github.com/exelban/stats",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/AppIcon.png",
-      "impressionCount" : 1916,
+      "impressionCount" : 1919,
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
@@ -876,7 +876,7 @@
       "downloadURL" : "https://desktop-release.notion-static.com/Notion-2.0.23.dmg",
       "homepage" : "https://www.notion.so/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-notion/AppIcon.png",
-      "impressionCount" : 1579,
+      "impressionCount" : 1580,
       "localizedDescription" : "App to write, plan, collaborate, and get organized",
       "name" : "Notion",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-notion/README.md",
@@ -916,7 +916,7 @@
       "downloadURL" : "https://github.com/VSCodium/vscodium/releases/download/1.69.0/VSCodium.x64.1.69.0.dmg",
       "homepage" : "https://github.com/VSCodium/vscodium",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/AppIcon.png",
-      "impressionCount" : 2112,
+      "impressionCount" : 2113,
       "localizedDescription" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "name" : "VSCodium",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/README.md",
@@ -1018,7 +1018,7 @@
       "downloadURL" : "https://osx.telegram.org/updates/Telegram-8.8.1.232774.app.zip",
       "homepage" : "https://macos.telegram.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/AppIcon.png",
-      "impressionCount" : 1201,
+      "impressionCount" : 1202,
       "localizedDescription" : "Messaging app with a focus on speed and security",
       "name" : "Telegram for macOS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/README.md",
@@ -1100,7 +1100,7 @@
       "downloadURL" : "https://github.com/p0deje/Maccy/releases/download/0.22.2/Maccy.app.zip",
       "homepage" : "https://maccy.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-maccy/AppIcon.png",
-      "impressionCount" : 1275,
+      "impressionCount" : 1276,
       "localizedDescription" : "Clipboard manager",
       "name" : "Maccy",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-maccy/README.md",
@@ -1140,7 +1140,7 @@
       "downloadURL" : "https://2.na.dl.wireshark.org/osx/Wireshark%203.6.6%20Intel%2064.dmg",
       "homepage" : "https://www.wireshark.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark/AppIcon.png",
-      "impressionCount" : 978,
+      "impressionCount" : 979,
       "localizedDescription" : "Network protocol analyzer",
       "name" : "Wireshark",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark/README.md",
@@ -1254,7 +1254,7 @@
       ],
       "homepage" : "https://github.com/Sequel-Ace/Sequel-Ace",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sequel-ace/AppIcon.png",
-      "impressionCount" : 1022,
+      "impressionCount" : 1025,
       "localizedDescription" : "MySQL/MariaDB database management",
       "name" : "Sequel Ace",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sequel-ace/README.md",
@@ -1312,7 +1312,7 @@
       ],
       "homepage" : "https://github.com/kovidgoyal/kitty",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kitty/AppIcon.png",
-      "impressionCount" : 1352,
+      "impressionCount" : 1354,
       "localizedDescription" : "GPU-based terminal emulator",
       "name" : "kitty",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kitty/README.md",
@@ -1332,7 +1332,7 @@
       "downloadURL" : "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.85.0.409.dmg",
       "homepage" : "https://www.skype.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/AppIcon.png",
-      "impressionCount" : 930,
+      "impressionCount" : 931,
       "localizedDescription" : "Video chat, voice call and instant messaging application",
       "name" : "Skype",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/README.md",
@@ -1352,7 +1352,7 @@
       "downloadURL" : "https://download.jetbrains.com/python/pycharm-professional-2022.1.3.dmg",
       "homepage" : "https://www.jetbrains.com/pycharm/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pycharm/AppIcon.png",
-      "impressionCount" : 985,
+      "impressionCount" : 986,
       "localizedDescription" : "IDE for professional Python development",
       "name" : "PyCharm",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pycharm/README.md",
@@ -1393,7 +1393,7 @@
       "downloadURL" : "https://github.com/transmission/transmission/releases/download/3.00/Transmission-3.00.dmg",
       "homepage" : "https://transmissionbt.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-transmission/AppIcon.png",
-      "impressionCount" : 2061,
+      "impressionCount" : 2062,
       "localizedDescription" : "Open-source BitTorrent client",
       "name" : "Transmission",
       "screenshotURLs" : [
@@ -1428,7 +1428,7 @@
       "downloadURL" : "https://dist.torproject.org/torbrowser/11.0.15/TorBrowser-11.0.15-osx64_en-US.dmg",
       "homepage" : "https://www.torproject.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/AppIcon.png",
-      "impressionCount" : 1693,
+      "impressionCount" : 1694,
       "localizedDescription" : "Web browser focusing on security",
       "name" : "Tor Browser",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
@@ -1449,7 +1449,7 @@
       "downloadURL" : "https://download.tableplus.com/macos/432/TablePlus.dmg",
       "homepage" : "https://tableplus.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tableplus/AppIcon.png",
-      "impressionCount" : 1470,
+      "impressionCount" : 1471,
       "localizedDescription" : "Native GUI tool for relational databases",
       "name" : "TablePlus",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tableplus/README.md",
@@ -1490,7 +1490,7 @@
       "downloadURL" : "https://ftp.mozilla.org/pub/thunderbird/releases/102.0.1/mac/en-US/Thunderbird%20102.0.1.dmg",
       "homepage" : "https://www.thunderbird.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thunderbird/AppIcon.png",
-      "impressionCount" : 1195,
+      "impressionCount" : 1196,
       "localizedDescription" : "Customizable email client",
       "name" : "Mozilla Thunderbird",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thunderbird/README.md",
@@ -1511,7 +1511,7 @@
       "downloadURL" : "https://github.com/eczarny/spectacle/releases/download/1.2/Spectacle+1.2.zip",
       "homepage" : "https://www.spectacleapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spectacle/AppIcon.png",
-      "impressionCount" : 1162,
+      "impressionCount" : 1163,
       "localizedDescription" : "Move and resize windows with ease",
       "name" : "Spectacle",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spectacle/README.md",
@@ -1531,7 +1531,7 @@
       "downloadURL" : "https://github.com/RobotsAndPencils/XcodesApp/releases/download/v1.6.0b14/Xcodes.zip",
       "homepage" : "https://github.com/RobotsAndPencils/XcodesApp",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/AppIcon.png",
-      "impressionCount" : 1897,
+      "impressionCount" : 1898,
       "localizedDescription" : "Install and switch between multiple versions of Xcode",
       "name" : "Xcodes",
       "screenshotURLs" : [
@@ -1593,7 +1593,7 @@
       "downloadURL" : "https://get.geo.opera.com/pub/opera/desktop/89.0.4447.38/mac/Opera_89.0.4447.38_Setup.dmg",
       "homepage" : "https://www.opera.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-opera/AppIcon.png",
-      "impressionCount" : 1250,
+      "impressionCount" : 1251,
       "localizedDescription" : "Web browser",
       "name" : "Opera",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-opera/README.md",
@@ -1634,7 +1634,7 @@
       "downloadURL" : "https://downloads.sourceforge.net/skim-app/Skim/Skim-1.6.11/Skim-1.6.11.dmg",
       "homepage" : "https://skim-app.sourceforge.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skim/AppIcon.png",
-      "impressionCount" : 1167,
+      "impressionCount" : 1168,
       "localizedDescription" : "PDF reader and note-taking application",
       "name" : "Skim",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skim/README.md",
@@ -1660,7 +1660,7 @@
       ],
       "homepage" : "https://github.com/MonitorControl/MonitorControl",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-monitorcontrol/AppIcon.png",
-      "impressionCount" : 1671,
+      "impressionCount" : 1674,
       "localizedDescription" : "Tool to control external monitor brightness & volume",
       "name" : "MonitorControl",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-monitorcontrol/README.md",
@@ -1699,7 +1699,7 @@
       "downloadURL" : "https://github.com/sequelpro/sequelpro/releases/download/release-1.1.2/sequel-pro-1.1.2.dmg",
       "homepage" : "https://www.sequelpro.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sequel-pro/AppIcon.png",
-      "impressionCount" : 984,
+      "impressionCount" : 985,
       "localizedDescription" : "MySQL/MariaDB database management platform",
       "name" : "Sequel Pro",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sequel-pro/README.md",
@@ -1719,7 +1719,7 @@
       "downloadURL" : "https://download.typora.io/mac/Typora-1.3.7.dmg",
       "homepage" : "https://typora.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-typora/AppIcon.png",
-      "impressionCount" : 970,
+      "impressionCount" : 971,
       "localizedDescription" : "Configurable document editor that supports Markdown",
       "name" : "Typora",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-typora/README.md",
@@ -1739,7 +1739,7 @@
       "downloadURL" : "https://updates.tdesktop.com/tmac/tsetup.4.0.2.dmg",
       "homepage" : "https://desktop.telegram.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram-desktop/AppIcon.png",
-      "impressionCount" : 1128,
+      "impressionCount" : 1129,
       "localizedDescription" : "Desktop client for Telegram messenger",
       "name" : "Telegram Desktop",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram-desktop/README.md",
@@ -1759,7 +1759,7 @@
       "downloadURL" : "https://www.mothersruin.com/software/downloads/SuspiciousPackage.dmg",
       "homepage" : "https://www.mothersruin.com/software/SuspiciousPackage/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/AppIcon.png",
-      "impressionCount" : 946,
+      "impressionCount" : 947,
       "localizedDescription" : "Application for inspecting installer packages",
       "name" : "Suspicious Package",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
@@ -1839,7 +1839,7 @@
       "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.48.2.3124-647ff031/macos/Plex-1.48.2.3124-647ff031-x86_64.zip",
       "homepage" : "https://www.plex.tv/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/AppIcon.png",
-      "impressionCount" : 1337,
+      "impressionCount" : 1338,
       "localizedDescription" : "Home media player",
       "name" : "Plex",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/README.md",
@@ -1920,7 +1920,7 @@
       "downloadURL" : "https://download.proxyman.io/30620/Proxyman_3.6.2.dmg",
       "homepage" : "https://proxyman.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-proxyman/AppIcon.png",
-      "impressionCount" : 1064,
+      "impressionCount" : 1065,
       "localizedDescription" : "Modern and intuitive HTTP Debugging Proxy app",
       "name" : "Proxyman",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-proxyman/README.md",
@@ -1941,7 +1941,7 @@
       "downloadURL" : "https://cdn1.evernote.com/skitch/mac/release/Skitch-2.9.zip",
       "homepage" : "https://evernote.com/products/skitch",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skitch/AppIcon.png",
-      "impressionCount" : 969,
+      "impressionCount" : 970,
       "localizedDescription" : "Screen capture tool with mark up and sharing features",
       "name" : "Skitch",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skitch/README.md",
@@ -2088,7 +2088,7 @@
       "downloadURL" : "https://github.com/OpenEmu/OpenEmu/releases/download/v2.3.3/OpenEmu_2.3.3.zip",
       "homepage" : "https://openemu.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openemu/AppIcon.png",
-      "impressionCount" : 1469,
+      "impressionCount" : 1470,
       "localizedDescription" : "Retro video game emulation",
       "name" : "OpenEmu",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openemu/README.md",
@@ -2108,7 +2108,7 @@
       "downloadURL" : "https://cdn-builds.paw.cloud/paw/Paw-3.3.6.zip",
       "homepage" : "https://paw.cloud/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-paw/AppIcon.png",
-      "impressionCount" : 1500,
+      "impressionCount" : 1501,
       "localizedDescription" : "HTTP client that helps testing and describing APIs",
       "name" : "Paw",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-paw/README.md",
@@ -2248,7 +2248,7 @@
       "downloadURL" : "https://github.com/processing/processing/releases/download/processing-0270-3.5.4/processing-3.5.4-macosx.zip",
       "homepage" : "https://processing.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-processing/AppIcon.png",
-      "impressionCount" : 909,
+      "impressionCount" : 910,
       "localizedDescription" : "Flexible software sketchbook and a language for learning how to code",
       "name" : "Processing",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-processing/README.md",
@@ -2407,7 +2407,7 @@
       "downloadURL" : "https://github.com/sabnzbd/sabnzbd/releases/download/3.6.0/SABnzbd-3.6.0-osx.dmg",
       "homepage" : "https://sabnzbd.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sabnzbd/AppIcon.png",
-      "impressionCount" : 974,
+      "impressionCount" : 975,
       "localizedDescription" : "Binary newsreader",
       "name" : "SABnzbd",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sabnzbd/README.md",
@@ -2428,7 +2428,7 @@
       "downloadURL" : "https://download.helloefficiency.com/ravenreader/Raven%20Reader-1.0.73.dmg",
       "homepage" : "https://ravenreader.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-raven-reader/AppIcon.png",
-      "impressionCount" : 1813,
+      "impressionCount" : 1814,
       "localizedDescription" : "News reader with flexible settings",
       "name" : "Raven Reader",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-raven-reader/README.md",
@@ -2905,7 +2905,7 @@
       ],
       "homepage" : "https://github.com/jhen0409/react-native-debugger",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-react-native-debugger/AppIcon.png",
-      "impressionCount" : 233,
+      "impressionCount" : 235,
       "localizedDescription" : "Standalone app for debugging React Native apps",
       "name" : "React Native Debugger",
       "sha256" : "cb7d184a495e2a45cc2dc02730f828a552e45d8328df1c7a229f0ffa7fed8106",
@@ -2995,7 +2995,7 @@
       "downloadURL" : "https://product-downloads.atlassian.com/software/sourcetree/ga/Sourcetree_4.1.8_244.zip",
       "homepage" : "https://www.sourcetreeapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sourcetree/AppIcon.png",
-      "impressionCount" : 277,
+      "impressionCount" : 278,
       "localizedDescription" : "Graphical client for Git version control",
       "name" : "Atlassian SourceTree",
       "sha256" : "c0cb5fda296dd97f211f42914693722279dc39d7f14b93717f1452431614f2e0",
@@ -3730,7 +3730,7 @@
       ],
       "homepage" : "https://github.com/ther0n/UnnaturalScrollWheels",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unnaturalscrollwheels/AppIcon.png",
-      "impressionCount" : 177,
+      "impressionCount" : 180,
       "localizedDescription" : "Tool to invert scroll direction for physical scroll wheels",
       "name" : "UnnaturalScrollWheels",
       "sha256" : "89e4bbdf74c1025f045a34f7d3949fe5ea0d1b0cd8d3e893d41c9c0d50caf7c5",
@@ -4206,7 +4206,7 @@
       ],
       "homepage" : "https://github.com/TermiT/Flycut",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flycut/AppIcon.png",
-      "impressionCount" : 280,
+      "impressionCount" : 282,
       "localizedDescription" : "Clipboard manager for developers",
       "name" : "Flycut",
       "sha256" : "bc1a73b9cb4b4d316fa11572f43383f0f02fc7e6ba88bbed046cc1b074336862",
@@ -4248,7 +4248,7 @@
       ],
       "homepage" : "https://github.com/logseq/logseq",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-logseq/AppIcon.png",
-      "impressionCount" : 252,
+      "impressionCount" : 254,
       "localizedDescription" : "Privacy-first, open-source platform for knowledge sharing and management",
       "name" : "Logseq",
       "sha256" : "1f6e892e89aab97713d5301dc13e4b2364ee44b9b75689281434c332dffe0723",
@@ -4588,7 +4588,7 @@
       ],
       "homepage" : "https://github.com/artginzburg/MiddleClick-BigSur",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-middleclick/AppIcon.png",
-      "impressionCount" : 252,
+      "impressionCount" : 254,
       "localizedDescription" : "Utility to extend trackpad functionality",
       "name" : "MiddleClick",
       "sha256" : "50bb016602e8e792a8a6b53053a4ec4129ca89926a44fc1ac898f3d11102aada",
@@ -5146,7 +5146,7 @@
       ],
       "homepage" : "https://github.com/leits/MeetingBar",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-meetingbar/AppIcon.png",
-      "impressionCount" : 269,
+      "impressionCount" : 271,
       "localizedDescription" : "Shows the next meeting in the menu bar",
       "name" : "MeetingBar",
       "sha256" : "828f9f4055c7d5895699ca5d6aaa48ba406aa1d870770ec152234a1e1a664397",
@@ -5170,7 +5170,7 @@
       ],
       "homepage" : "https://github.com/Ji4n1ng/OpenInTerminal",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openinterminal/AppIcon.png",
-      "impressionCount" : 206,
+      "impressionCount" : 208,
       "localizedDescription" : "Finder Toolbar app to open the current directory in Terminal or Editor",
       "name" : "OpenInTerminal",
       "sha256" : "11af1d2367e966dc4ea829cbf39cc7c869af50d687708600b188024539180ec8",
@@ -5236,7 +5236,7 @@
       ],
       "homepage" : "https://github.com/gao-sun/eul",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eul/AppIcon.png",
-      "impressionCount" : 295,
+      "impressionCount" : 297,
       "localizedDescription" : "Status monitoring",
       "name" : "eul",
       "sha256" : "09b036f1e934472d55a0417e2a3ce736559caf81a38537c94ab2c6331f258851",
@@ -5282,7 +5282,7 @@
       ],
       "homepage" : "https://github.com/will-stone/browserosaurus",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-browserosaurus/AppIcon.png",
-      "impressionCount" : 614,
+      "impressionCount" : 616,
       "localizedDescription" : "Open-source browser prompter",
       "name" : "Browserosaurus",
       "sha256" : "1942ce8bff7315de9ec24a8df0461641a2209139a46f93897e4759d0bb6e8708",
@@ -5341,7 +5341,7 @@
       ],
       "homepage" : "https://github.com/macmade/Hot",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hot/AppIcon.png",
-      "impressionCount" : 243,
+      "impressionCount" : 246,
       "localizedDescription" : "Menu bar application that displays the CPU speed limit due to thermal issues",
       "name" : "Hot",
       "sha256" : "3eae0f62c55fe22b4bb5b06e1cfe39e557fda2ba9a11e8e65dcabeafbdd31884",
@@ -5921,7 +5921,7 @@
       ],
       "homepage" : "https://github.com/Kevin-De-Koninck/Clean-Me",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clean-me/AppIcon.png",
-      "impressionCount" : 523,
+      "impressionCount" : 526,
       "localizedDescription" : "System cleaner for logs, caches and more",
       "name" : "Clean-me",
       "sha256" : "f58124740e8d9cbf8b4f45ee9a3e30a2aced109381fc34583d1c28d49d54dfe5",
@@ -6326,7 +6326,7 @@
       ],
       "homepage" : "https://github.com/Ji4n1ng/OpenInTerminal",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openinterminal-lite/AppIcon.png",
-      "impressionCount" : 178,
+      "impressionCount" : 181,
       "localizedDescription" : "Finder Toolbar app to open the current directory in Terminal",
       "name" : "OpenInTerminal-Lite",
       "sha256" : "2d2f7ab19bcd443fa533a294875a0e95333cca0a60707ac7226bcafaaae2972b",
@@ -6603,7 +6603,7 @@
       ],
       "homepage" : "https://github.com/Jintin/Swimat",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swimat/AppIcon.png",
-      "impressionCount" : 132,
+      "impressionCount" : 135,
       "localizedDescription" : "Xcode formatter plug-in for Swift code",
       "name" : "Swimat",
       "sha256" : "adcf450d98c247fe4c45c68353f19afca3e2039c8431ec080f14000fe9cc36bf",
@@ -6893,7 +6893,7 @@
       "downloadURL" : "https://dldir1.qq.com/foxmail/wecom-mac/update/WeCom_4.0.9.90599.dmg",
       "homepage" : "https://work.weixin.qq.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wechatwork/AppIcon.png",
-      "impressionCount" : 420,
+      "impressionCount" : 421,
       "localizedDescription" : "Messaging and calling application",
       "name" : "WeChat Work",
       "sha256" : "ba400a08c969b80593d3ff4a78d153ba786fb0a3a1635c63fd1f2dd436efe16c",
@@ -7804,7 +7804,7 @@
       ],
       "homepage" : "https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-heroic/AppIcon.png",
-      "impressionCount" : 695,
+      "impressionCount" : 698,
       "localizedDescription" : "Open Source Game Launcher",
       "name" : "Heroic Games Launcher",
       "sha256" : "adfed3868e5aab11fed4de14ee496e13cfeabcb7600f8b0b2c60653fc32686ba",
@@ -8042,7 +8042,7 @@
       ],
       "homepage" : "https://github.com/Toxblh/MTMR",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mtmr/AppIcon.png",
-      "impressionCount" : 137,
+      "impressionCount" : 140,
       "localizedDescription" : "TouchBar customization app",
       "name" : "My TouchBar. My rules",
       "sha256" : "cf0b1b8cb9d6758cd0b69d2c4c5f9f1a067416126a7daa76a8d94fea8189d608",
@@ -8390,7 +8390,7 @@
       ],
       "homepage" : "https://github.com/ruiaureliano/X-SwiftFormat",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-x-swiftformat/AppIcon.png",
-      "impressionCount" : 83,
+      "impressionCount" : 86,
       "localizedDescription" : "Xcode extension to format Swift code",
       "name" : "X-SwiftFormat",
       "sha256" : "00862e3f761217e4dfa7d8ac042bc085c530eb1375bccca7f765896f0c523b21",
@@ -8576,7 +8576,7 @@
       ],
       "homepage" : "https://github.com/FreeTubeApp/FreeTube",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-freetube/AppIcon.png",
-      "impressionCount" : 257,
+      "impressionCount" : 260,
       "localizedDescription" : "YouTube player focusing on privacy",
       "name" : "FreeTube",
       "sha256" : "22086b8899b8bc2b8bd8b3217978d9864260a7d359cf1fdc113c6f3262032a7d",
@@ -8604,7 +8604,7 @@
       ],
       "homepage" : "https://github.com/ts1/BLEUnlock",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bleunlock/AppIcon.png",
-      "impressionCount" : 553,
+      "impressionCount" : 556,
       "localizedDescription" : "Lock/unlock Apple computers using the proximity of a bluetooth low energy device",
       "name" : "BLEUnlock",
       "sha256" : "d9847b2f540393bb2a18dc5be6929021c7499c383d12a198ee9f9e9ffada5f6b",
@@ -8676,7 +8676,7 @@
       "downloadURL" : "https://codown.youdao.com/cidian/download/MacDict.dmg",
       "homepage" : "https://cidian.youdao.com/index-mac.html",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-youdaodict/AppIcon.png",
-      "impressionCount" : 447,
+      "impressionCount" : 448,
       "localizedDescription" : "Youdao Dictionary",
       "name" : "YoudaoDict",
       "subtitle" : "Youdao Dictionary",
@@ -8935,7 +8935,7 @@
       ],
       "homepage" : "https://github.com/GitSquared/edex-ui",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-edex-ui/AppIcon.png",
-      "impressionCount" : 275,
+      "impressionCount" : 278,
       "localizedDescription" : "Sci-fi themed terminal emulator and system monitor",
       "name" : "eDEX-UI",
       "sha256" : "db38e5dea11e8b0f528c1a59971fe97cbecbcdd8cf29b21621ad7105173c3407",
@@ -9586,7 +9586,7 @@
       ],
       "homepage" : "https://github.com/mxcl/Workbench",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-workbench/AppIcon.png",
-      "impressionCount" : 354,
+      "impressionCount" : 357,
       "localizedDescription" : "Seamless, automatic, “dotfile” sync to iCloud",
       "name" : "Workbench",
       "sha256" : "7fec7bf1fb93854ed87cbaf4d9e21ef964adfc064d731b82a84a499f5b911e1f",
@@ -9903,7 +9903,7 @@
       ],
       "homepage" : "https://github.com/mifi/lossless-cut",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-losslesscut/AppIcon.png",
-      "impressionCount" : 213,
+      "impressionCount" : 217,
       "localizedDescription" : "Trims video and audio files losslessly",
       "name" : "LosslessCut",
       "sha256" : "ebf07832496e09bda6d66ff7e51e575dfa24192065ffccdf89d92f99baae585b",
@@ -10146,7 +10146,7 @@
       ],
       "homepage" : "https://github.com/sn4k3/UVtools",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-uvtools/AppIcon.png",
-      "impressionCount" : 127,
+      "impressionCount" : 130,
       "localizedDescription" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "name" : "UVtools",
       "sha256" : "bad7db644f27779680c90cc9f1d40cd3c69d79675450baf0941b546bdc9aebbe",
@@ -10569,7 +10569,7 @@
       ],
       "homepage" : "https://github.com/siyuan-note/siyuan",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-siyuan/AppIcon.png",
-      "impressionCount" : 103,
+      "impressionCount" : 106,
       "localizedDescription" : "Local-first personal knowledge management system",
       "name" : "SiYuan",
       "sha256" : "1a4256f47c8d7881463718db6608b0f8df347191d19971a30e4931af69b4a85a",
@@ -10654,7 +10654,7 @@
       ],
       "homepage" : "https://github.com/sindresorhus/touch-bar-simulator",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-touch-bar-simulator/AppIcon.png",
-      "impressionCount" : 89,
+      "impressionCount" : 92,
       "localizedDescription" : "Touch Bar as a standalone app",
       "name" : "Touch Bar Simulator",
       "sha256" : "7af139d541a8d2875d76aa46ef4074496d07ef49d2aec27467d8879aac903d43",
@@ -10740,7 +10740,7 @@
       ],
       "homepage" : "https://github.com/sindresorhus/caprine",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-caprine/AppIcon.png",
-      "impressionCount" : 553,
+      "impressionCount" : 556,
       "localizedDescription" : "Elegant Facebook Messenger desktop app",
       "name" : "Caprine",
       "sha256" : "c3abc07155b210658c682d6cddc942e2a8be3e1344a51fd2d628fc6eb17b2578",
@@ -10764,7 +10764,7 @@
       ],
       "homepage" : "https://github.com/zenangst/Gray",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gray/AppIcon.png",
-      "impressionCount" : 182,
+      "impressionCount" : 185,
       "localizedDescription" : "Tool to set light or dark appearance on a per-app basis",
       "name" : "Gray",
       "sha256" : "631e13cf28bae804e7e1a77cddaf2277f91d2de0c45c6fd7805a7c0eac627edd",
@@ -10898,7 +10898,7 @@
       ],
       "homepage" : "https://github.com/joshjon/nocturnal",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-joshjon-nocturnal/AppIcon.png",
-      "impressionCount" : 152,
+      "impressionCount" : 155,
       "localizedDescription" : "Dimness and night shift menu bar app",
       "name" : "Nocturnal",
       "sha256" : "5bc5c7c6231a4cc4c316335dfca57c0cc8964410e6b8898ae09120bbc8d98779",
@@ -11077,7 +11077,7 @@
       "downloadURL" : "https://github.com/ViennaRSS/vienna-rss/releases/download/v%2F3.7.4/Vienna3.7.4.tar.gz",
       "homepage" : "https://www.vienna-rss.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vienna/AppIcon.png",
-      "impressionCount" : 108,
+      "impressionCount" : 109,
       "localizedDescription" : "RSS and Atom reader",
       "name" : "Vienna",
       "sha256" : "f42a5971703984a85d76cc9a65df44ab4816fd387a017c3b2a8e9eaaf70f85b9",
@@ -11168,7 +11168,7 @@
       "downloadURL" : "https://browser.yandex.ru/download/?os=mac&full=1",
       "homepage" : "https://browser.yandex.ru/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yandex/AppIcon.png",
-      "impressionCount" : 70,
+      "impressionCount" : 71,
       "localizedDescription" : "Web browser",
       "name" : "Yandex.Browser",
       "subtitle" : "Web browser",
@@ -11374,7 +11374,7 @@
       ],
       "homepage" : "https://github.com/visualfc/liteide",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-liteide/AppIcon.png",
-      "impressionCount" : 126,
+      "impressionCount" : 129,
       "localizedDescription" : "Go IDE",
       "name" : "LiteIDE",
       "sha256" : "a48f7ab142144ba0c3b7fee1ea9cb2c03a999d48f0a2e486270cb2cd6e6762d8",
@@ -11807,7 +11807,7 @@
       "downloadURL" : "https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/11.1.1.1/UMS-11.1.1.1.dmg",
       "homepage" : "https://www.universalmediaserver.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-universal-media-server/AppIcon.png",
-      "impressionCount" : 319,
+      "impressionCount" : 320,
       "localizedDescription" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "name" : "Universal Media Server",
       "sha256" : "b226db87b7d676103910dbbe506b5b27e9ed7ff594a63521f62925823382c415",
@@ -13010,7 +13010,7 @@
       ],
       "homepage" : "https://github.com/Ji4n1ng/OpenInTerminal",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openineditor-lite/AppIcon.png",
-      "impressionCount" : 135,
+      "impressionCount" : 138,
       "localizedDescription" : "Finder Toolbar app to open the current directory in Editor",
       "name" : "OpenInEditor-Lite",
       "sha256" : "745f81ba178795d44e97c8c60b8b28022f7258f70f673555da0da3a34637519d",
@@ -13047,7 +13047,7 @@
       "downloadURL" : "https://archive.mozilla.org/pub/seamonkey/releases/2.53.13/mac/en-US/seamonkey-2.53.13.en-US.mac.dmg",
       "homepage" : "https://www.seamonkey-project.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-seamonkey/AppIcon.png",
-      "impressionCount" : 160,
+      "impressionCount" : 161,
       "localizedDescription" : "Development of SeaMonkey Internet Application Suite",
       "name" : "SeaMonkey",
       "sha256" : "b7d4dd48b1370b9079699f62c13680c37542968b7b9643fd8e7646685789923c",
@@ -14001,7 +14001,7 @@
       ],
       "homepage" : "https://github.com/timche/gmail-desktop",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-timche-gmail-desktop/AppIcon.png",
-      "impressionCount" : 131,
+      "impressionCount" : 134,
       "localizedDescription" : "Unofficial Gmail desktop app",
       "name" : "Gmail Desktop",
       "sha256" : "8c5a8c4e651d7c328f3e7947e2b1ccc437245840ef33ea3d3f4b45fe7b82dc2e",
@@ -14729,7 +14729,7 @@
       ],
       "homepage" : "https://github.com/zadam/trilium",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-trilium-notes/AppIcon.png",
-      "impressionCount" : 118,
+      "impressionCount" : 121,
       "localizedDescription" : "Personal knowledge base",
       "name" : "Trilium Notes",
       "sha256" : "f1b65caaa4b74ce446062d3083a8db73f7618cef03d0f9f1a0dc2efa1a6a74ff",
@@ -15295,7 +15295,7 @@
       ],
       "homepage" : "https://github.com/warmuuh/milkman",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-milkman/AppIcon.png",
-      "impressionCount" : 104,
+      "impressionCount" : 107,
       "localizedDescription" : "Extensible request and response workbench",
       "name" : "Milkman",
       "sha256" : "18a6c8952bd662ec0ff2f24bb7ecdcef0fb0af7d1707e7dd4197570defef363a",
@@ -15323,7 +15323,7 @@
       ],
       "homepage" : "https://github.com/jely2002/youtube-dl-gui",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-open-video-downloader/AppIcon.png",
-      "impressionCount" : 124,
+      "impressionCount" : 128,
       "localizedDescription" : "Cross-platform GUI for youtube-dl made in Electron and node.js",
       "name" : "Open Video Downloader",
       "sha256" : "02032bce606998f86dc0375a0c597d0320e689bddaf6528528e310446c432707",
@@ -15647,7 +15647,7 @@
       ],
       "homepage" : "https://github.com/ransome1/sleek",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sleek/AppIcon.png",
-      "impressionCount" : 135,
+      "impressionCount" : 139,
       "localizedDescription" : "Todo manager based on the todo.txt syntax",
       "name" : "sleek",
       "sha256" : "e7ff92653d1a85b3484d8204a02ca2e49fd44792085513c13accd2ba14475419",
@@ -16063,7 +16063,7 @@
       ],
       "homepage" : "https://github.com/klaussinani/ao",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ao/AppIcon.png",
-      "impressionCount" : 390,
+      "impressionCount" : 393,
       "localizedDescription" : "Elegant Microsoft To-Do desktop app",
       "name" : "Ao",
       "sha256" : "c69522f78e82476540637fd3a2ab0c9de1e911530a1eb88c9cf757e933debe0e",
@@ -16445,7 +16445,7 @@
       ],
       "homepage" : "https://github.com/ApolloZhu/Dynamic-Dark-Mode",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dynamic-dark-mode/AppIcon.png",
-      "impressionCount" : 536,
+      "impressionCount" : 539,
       "localizedDescription" : "Automatic Dark Mode toggle",
       "name" : "Dynamic Dark Mode",
       "sha256" : "696d5d605b3c2b54d2485936eff59cd150116f82f584b76938bf80f252d8f194",
@@ -16840,7 +16840,7 @@
       ],
       "homepage" : "https://github.com/Dimillian/RedditOS",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-curiosity/AppIcon.png",
-      "impressionCount" : 868,
+      "impressionCount" : 871,
       "localizedDescription" : "SwiftUI Reddit client",
       "name" : "Curiosity",
       "sha256" : "cee2a11755b23c55d96a2226750e80ee991ae8bff74bda4ff757717bcbdf9cad",
@@ -17799,7 +17799,7 @@
       ],
       "homepage" : "https://github.com/nteract/nteract",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nteract/AppIcon.png",
-      "impressionCount" : 121,
+      "impressionCount" : 124,
       "localizedDescription" : "Interactive computing suite",
       "name" : "nteract",
       "sha256" : "de65abe5ed76489217a9c29bcc177aa5b2ee2f0657cd017301af33280ca8a737",
@@ -19584,7 +19584,7 @@
       ],
       "homepage" : "https://github.com/alexkim205/g-desktop-suite",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-g-desktop-suite/AppIcon.png",
-      "impressionCount" : 220,
+      "impressionCount" : 223,
       "name" : "G Desktop Suite",
       "sha256" : "461c5d19149a088981f8f7a87148cda1762458b7c64d59e1ec5062106eb8ad90",
       "tintColor" : "80AB7E",
@@ -20140,7 +20140,7 @@
       ],
       "homepage" : "https://github.com/onmyway133/FinderGo",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-findergo/AppIcon.png",
-      "impressionCount" : 287,
+      "impressionCount" : 290,
       "localizedDescription" : "Open terminal quickly from Finder",
       "name" : "FinderGo",
       "sha256" : "0484e158c4fd95c5ecb8bbdb14a01a039268758fb5bb1cc1754d78e2592db638",
@@ -20687,7 +20687,7 @@
       ],
       "homepage" : "https://github.com/v002/v002-Camera-Live",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-camera-live/AppIcon.png",
-      "impressionCount" : 443,
+      "impressionCount" : 446,
       "localizedDescription" : "Live Syphon Camera",
       "name" : "Camera Live",
       "sha256" : "4c7a6ecdbec677a6fbbb90af427e54b0d429278c87b49966c6448ce065c78e75",
@@ -20956,7 +20956,7 @@
       ],
       "homepage" : "https://github.com/codechimp-org/ha-menu",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ha-menu/AppIcon.png",
-      "impressionCount" : 162,
+      "impressionCount" : 165,
       "localizedDescription" : "Menu Bar app to perform common Home Assistant functions",
       "name" : "HA Menu",
       "sha256" : "eeca3cfea1545f1ff53281ccf801ace17d70773d37d6ea6e97fe0d0c0a8e584f",
@@ -21374,7 +21374,7 @@
       ],
       "homepage" : "https://github.com/4gray/iptvnator",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iptvnator/AppIcon.png",
-      "impressionCount" : 326,
+      "impressionCount" : 329,
       "localizedDescription" : "Open Source m3u, m3u8 player",
       "name" : "IPTVnator",
       "sha256" : "9c1d719e5fdb787433181b262a5096581c5167b77156b67b7f4cfea314d90ea2",
@@ -21732,7 +21732,7 @@
       ],
       "homepage" : "https://github.com/jlord/git-it-electron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-git-it/AppIcon.png",
-      "impressionCount" : 522,
+      "impressionCount" : 524,
       "localizedDescription" : "Desktop app for learning Git and GitHub",
       "name" : "Git-it",
       "sha256" : "b96c06bca744af94e2f035824fbd16f59673c4c454fd4bf96aa4bde965fe711d",
@@ -22328,7 +22328,7 @@
       ],
       "homepage" : "https://github.com/1000ch/whale",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whale/AppIcon.png",
-      "impressionCount" : 102,
+      "impressionCount" : 104,
       "localizedDescription" : "Unofficial Trello app :whale:",
       "name" : "Whale",
       "sha256" : "63857d17bf6d44c65215d729870737a17153f33c01605dc093626b7185731b02",
@@ -22388,7 +22388,7 @@
       ],
       "homepage" : "https://github.com/trulyspinach/SMCAMDProcessor",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-amd-power-gadget/AppIcon.png",
-      "impressionCount" : 300,
+      "impressionCount" : 304,
       "localizedDescription" : "Power management, monitoring and VirtualSMC plugin for AMD processors",
       "name" : "AMD Power Gadget",
       "sha256" : "2f3877365d42c4212e5ef0280b4d619f0315f31467b42ce3a45928a2ea8b74ee",
@@ -23707,7 +23707,7 @@
       ],
       "homepage" : "https://github.com/vitorgalvao/fog",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fog/AppIcon.png",
-      "impressionCount" : 426,
+      "impressionCount" : 428,
       "localizedDescription" : "Unofficial overcast.fm podcast app",
       "name" : "Fog",
       "sha256" : "dbf1216fce69ead08e9e9a37b18391d3d65e7f06ae4e6f633e7047832c6b1adc",
@@ -25641,7 +25641,7 @@
       ],
       "homepage" : "https://github.com/lapcat/Bonjeff",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bonjeff/AppIcon.png",
-      "impressionCount" : 799,
+      "impressionCount" : 801,
       "localizedDescription" : "Shows a live display of the Bonjour services published on your network",
       "name" : "Bonjeff",
       "sha256" : "d6793dffe0c4ebcd962bb8a1802d5c092b24effdd18ec27655eeb3d20b7953fc",
@@ -25911,7 +25911,7 @@
       ],
       "homepage" : "https://github.com/drhelius/Gearsystem",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gearsystem/AppIcon.png",
-      "impressionCount" : 161,
+      "impressionCount" : 163,
       "name" : "Gearsystem",
       "sha256" : "b5a9a2dc62d721448d315f7116e08433257ee5f849362f570ebe99eb7f425336",
       "tintColor" : "242627",
@@ -26639,7 +26639,7 @@
       "downloadURL" : "https://update.christiantietze.de/tableflip/v1/TableFlip-v1.4.0.zip",
       "homepage" : "https://tableflipapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tableflip/AppIcon.png",
-      "impressionCount" : 113,
+      "impressionCount" : 114,
       "localizedDescription" : "App to edit markdown files in place",
       "name" : "TableFlip",
       "sha256" : "f16b19161e442180586fb99376fac7c90d8ae4c62837ecfb09374e7bed78656b",
@@ -28025,7 +28025,7 @@
       ],
       "homepage" : "https://github.com/amiantos/pibar",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pibar/AppIcon.png",
-      "impressionCount" : 80,
+      "impressionCount" : 82,
       "localizedDescription" : "Pi-hole(s) management in the menu bar",
       "name" : "PiBar",
       "sha256" : "4badcd4056f879e35cf749ce4e2a142a127fd198eec5ddcb15da63a2a0b3c64c",
@@ -28348,7 +28348,7 @@
       ],
       "homepage" : "https://github.com/tiddly-gittly/TidGi-Desktop",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tidgi/AppIcon.png",
-      "impressionCount" : 85,
+      "impressionCount" : 87,
       "localizedDescription" : "Personal knowledge-base app",
       "name" : "TidGi",
       "sha256" : "c0a338265d76f22ad25b1239226ea853bc364776c6438a23b513b68c49f95f5a",
@@ -28864,7 +28864,7 @@
       ],
       "homepage" : "https://github.com/egoist/eme",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eme/AppIcon.png",
-      "impressionCount" : 200,
+      "impressionCount" : 202,
       "localizedDescription" : "Markdown editor",
       "name" : "EME",
       "sha256" : "bae758c1dde501365cc774adeb2dd85418e0b0513df48a2ee66ba0b792cb02d5",
@@ -29489,7 +29489,7 @@
       ],
       "homepage" : "https://github.com/muan/mojibar",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mojibar/AppIcon.png",
-      "impressionCount" : 98,
+      "impressionCount" : 101,
       "localizedDescription" : "Emoji searcher as a menu bar app",
       "name" : "Mojibar",
       "sha256" : "28e9811bb9a43c15f7a7ba9100e86cc5f45e4f53c093cd9f08972fda8694b363",
@@ -29964,7 +29964,7 @@
       ],
       "homepage" : "https://github.com/NicolasConstant/sengi",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sengi/AppIcon.png",
-      "impressionCount" : 219,
+      "impressionCount" : 221,
       "localizedDescription" : "Mastodon and Pleroma desktop client",
       "name" : "Sengi",
       "sha256" : "753f92fd621ac142f2608d837598c0187918d66c45176430ed5a95d05acbc3d9",
@@ -30736,7 +30736,7 @@
       ],
       "homepage" : "https://github.com/garrylachman/ElectroCRUD",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electrocrud/AppIcon.png",
-      "impressionCount" : 192,
+      "impressionCount" : 194,
       "localizedDescription" : "Database CRUD application",
       "name" : "ElectroCRUD",
       "sha256" : "b5f758c354b1c4e0d0d5434e8c6856629a85e1bf05121467e913ce3d8485be2e",
@@ -32224,7 +32224,7 @@
       ],
       "homepage" : "https://github.com/tanin47/tip",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tip/AppIcon.png",
-      "impressionCount" : 97,
+      "impressionCount" : 99,
       "localizedDescription" : "Programmable tooltip that can be used with any app",
       "name" : "Tip",
       "sha256" : "4d986a461d1b24bb5776fb49063b9a1891939f336b306a6bc75f58d0a4e98bcb",
@@ -32470,7 +32470,7 @@
       "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.169.2/Hepta-0.169.2-mac.zip",
       "homepage" : "https://heptabase.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hepta/AppIcon.png",
-      "impressionCount" : 159,
+      "impressionCount" : 160,
       "localizedDescription" : "Note-taking tool for visual learning",
       "name" : "Hepta",
       "sha256" : "7c41c0a8b9b65806a944df38c5e39abbb5bb4849cf3da4a60f62a6513270732e",
@@ -33105,7 +33105,7 @@
       ],
       "homepage" : "https://github.com/drhelius/Gearboy",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gearboy/AppIcon.png",
-      "impressionCount" : 165,
+      "impressionCount" : 168,
       "name" : "Gearboy",
       "sha256" : "9b7b276c2f4b01dab8a1562b9dce5c61ab61c770b74a81c4d26e1d1e69be2bfb",
       "tintColor" : "74746D",
@@ -33942,7 +33942,7 @@
       "downloadURL" : "https://github.com/Bambosh/unofficial-homestuck-collection/releases/download/2.0.5/The.Unofficial.Homestuck.Collection-2.0.5.dmg",
       "homepage" : "https://bambosh.github.io/unofficial-homestuck-collection/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-the-unofficial-homestuck-collection/AppIcon.png",
-      "impressionCount" : 276,
+      "impressionCount" : 277,
       "localizedDescription" : "Offline viewer for the webcomic Homestuck",
       "name" : "The Unofficial Homestuck Collection",
       "sha256" : "2ccab1a0f1dbaa1335d24d3dd4ee2887c947898f65cb3d7f6b452f8489f0bdee",
@@ -34616,7 +34616,7 @@
       ],
       "homepage" : "https://github.com/TomHarte/CLK",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clock-signal/AppIcon.png",
-      "impressionCount" : 707,
+      "impressionCount" : 713,
       "localizedDescription" : "Latency-hating emulator of 8- and 16-bit platforms",
       "name" : "Clock Signal",
       "sha256" : "c4dedee6c111ad29d142c7f4f39e742a9220ce9d632a03e4956a9a433d26bdf4",
@@ -35099,6 +35099,20 @@
       ],
       "downloadCount" : 0,
       "downloadURL" : "https://github.com/Nault/Nault/releases/download/v1.18.0/Nault-1.18.0-Mac.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/BitDesert"
+        },
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/Joohansson"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://mynano.ninja/account/nault-donations/send"
+        }
+      ],
       "homepage" : "https://github.com/Nault/Nault",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nault/AppIcon.png",
       "impressionCount" : 255,
@@ -35238,6 +35252,16 @@
       ],
       "downloadCount" : 0,
       "downloadURL" : "https://github.com/1000ch/quail/releases/download/v2.4.0/Quail-2.4.0.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/1000ch"
+        },
+        {
+          "platform" : "PATREON",
+          "url" : "https://patreon.com/1000ch"
+        }
+      ],
       "homepage" : "https://github.com/1000ch/quail",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-quail/AppIcon.png",
       "impressionCount" : 103,
@@ -37241,6 +37265,16 @@
       "bundleIdentifier" : "cool-retro-term",
       "downloadCount" : 146,
       "downloadURL" : "https://github.com/Swordfish90/cool-retro-term/releases/download/1.2.0/Cool-Retro-Term-1.2.0.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "PATREON",
+          "url" : "https://patreon.com/swordfish90"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=flscogna%40gmail.com&item_name=Support+CRT&currency_code=EUR&source=url"
+        }
+      ],
       "homepage" : "https://github.com/Swordfish90/cool-retro-term",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cool-retro-term/AppIcon.png",
       "impressionCount" : 44,
@@ -37703,7 +37737,7 @@
       "downloadURL" : "https://github.com/smplayer-dev/smplayer/releases/download/v22.7.0/smplayer-22.7.0.dmg",
       "homepage" : "https://www.smplayer.info/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smplayer/AppIcon.png",
-      "impressionCount" : 34,
+      "impressionCount" : 35,
       "localizedDescription" : "Media player with built-in codecs",
       "name" : "SMPlayer",
       "sha256" : "0d0ab27a359a5965fe050baaf33f4787115354b8df7c190c563e922e5f29528d",
@@ -37896,6 +37930,12 @@
       "bundleIdentifier" : "wombat",
       "downloadCount" : 100,
       "downloadURL" : "https://github.com/rogchap/wombat/releases/download/v0.5.0/Wombat_v0.5.0_Darwin_x86_64.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/rogchap"
+        }
+      ],
       "homepage" : "https://github.com/rogchap/wombat",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wombat/AppIcon.png",
       "impressionCount" : 15,
@@ -38131,6 +38171,16 @@
       "bundleIdentifier" : "spotmenu",
       "downloadCount" : 86,
       "downloadURL" : "https://github.com/kmikiy/SpotMenu/releases/download/v1.9/SpotMenu.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "CUSTOM",
+          "url" : "paypal.me/kmikiy"
+        },
+        {
+          "platform" : "OPEN_COLLECTIVE",
+          "url" : "https://opencollective.com/SpotMenu"
+        }
+      ],
       "homepage" : "https://github.com/kmikiy/SpotMenu",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotmenu/AppIcon.png",
       "impressionCount" : 17,
@@ -38160,6 +38210,12 @@
       "bundleIdentifier" : "katrain",
       "downloadCount" : 82,
       "downloadURL" : "https://github.com/sanderland/katrain/releases/download/v1.11.2fixes-for-osx/KaTrainOSX.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/sanderland"
+        }
+      ],
       "homepage" : "https://github.com/sanderland/katrain",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-katrain/AppIcon.png",
       "impressionCount" : 24,
@@ -38996,6 +39052,16 @@
       "bundleIdentifier" : "superslicer",
       "downloadCount" : 58,
       "downloadURL" : "https://github.com/supermerill/SuperSlicer/releases/download/2.3.57.12/SuperSlicer_2.3.57.12_macos_220401.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/supermerill"
+        },
+        {
+          "platform" : "KO_FI",
+          "url" : "https://ko-fi.com/superslicer"
+        }
+      ],
       "homepage" : "https://github.com/supermerill/SuperSlicer",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-superslicer/AppIcon.png",
       "impressionCount" : 21,
@@ -39359,6 +39425,12 @@
       "bundleIdentifier" : "pennywise",
       "downloadCount" : 47,
       "downloadURL" : "https://github.com/kamranahmedse/pennywise/releases/download/v0.8.0/Pennywise-0.8.0.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/kamranahmedse"
+        }
+      ],
       "homepage" : "https://github.com/kamranahmedse/pennywise",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pennywise/AppIcon.png",
       "impressionCount" : 27,
@@ -39476,6 +39548,16 @@
       "bundleIdentifier" : "crunch",
       "downloadCount" : 41,
       "downloadURL" : "https://github.com/chrissimpkins/Crunch/releases/download/v5.0.0/Crunch-Installer.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/chrissimpkins"
+        },
+        {
+          "platform" : "LIBERAPAY",
+          "url" : "https://liberapay.com/chrissimpkins"
+        }
+      ],
       "homepage" : "https://github.com/chrissimpkins/Crunch",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-crunch/AppIcon.png",
       "impressionCount" : 21,
@@ -39755,6 +39837,12 @@
       "bundleIdentifier" : "gifcapture",
       "downloadCount" : 38,
       "downloadURL" : "https://github.com/onmyway133/GifCapture/releases/download/1.1.0/GifCapture.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/onmyway133"
+        }
+      ],
       "homepage" : "https://github.com/onmyway133/GifCapture",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gifcapture/AppIcon.png",
       "impressionCount" : 20,
@@ -39855,6 +39943,16 @@
       "bundleIdentifier" : "flycast",
       "downloadCount" : 38,
       "downloadURL" : "https://github.com/flyinghead/flycast/releases/download/v1.3/flycast-macOS-1.3.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://utip.io/flyinghead"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.paypal.com/paypalme/FlycastEmu"
+        }
+      ],
       "homepage" : "https://github.com/flyinghead/flycast",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flycast/AppIcon.png",
       "impressionCount" : 21,
@@ -39972,6 +40070,28 @@
       "bundleIdentifier" : "ksnip",
       "downloadCount" : 36,
       "downloadURL" : "https://github.com/ksnip/ksnip/releases/download/v1.10.0/ksnip-1.10.0.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/DamirPorobic"
+        },
+        {
+          "platform" : "LIBERAPAY",
+          "url" : "https://liberapay.com/dporobic"
+        },
+        {
+          "platform" : "PATREON",
+          "url" : "https://patreon.com/dporobic"
+        },
+        {
+          "platform" : "OPEN_COLLECTIVE",
+          "url" : "https://opencollective.com/ksnip"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "paypal.me/damirporobic"
+        }
+      ],
       "homepage" : "https://github.com/ksnip/ksnip",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ksnip/AppIcon.png",
       "impressionCount" : 18,
@@ -40133,7 +40253,7 @@
       "downloadURL" : "https://www.hamrick.com/files/vuea6497.dmg",
       "homepage" : "https://www.hamrick.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vuescan/AppIcon.png",
-      "impressionCount" : 17,
+      "impressionCount" : 18,
       "localizedDescription" : "App that provides drivers for older model scanners that are no longer supported",
       "name" : "VueScan",
       "subtitle" : "App that provides drivers for older model scanners that are no longer supported",
@@ -40219,6 +40339,16 @@
       "bundleIdentifier" : "anybar",
       "downloadCount" : 31,
       "downloadURL" : "https://github.com/tonsky/AnyBar/releases/download/0.2.3/AnyBar-0.2.3.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/tonsky"
+        },
+        {
+          "platform" : "PATREON",
+          "url" : "https://patreon.com/tonsky"
+        }
+      ],
       "homepage" : "https://github.com/tonsky/AnyBar",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-anybar/AppIcon.png",
       "impressionCount" : 21,
@@ -40589,7 +40719,7 @@
       "downloadURL" : "https://sejda-cdn.com/downloads/sejda-desktop_7.5.3.dmg",
       "homepage" : "https://www.sejda.com/desktop",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sejda-pdf/AppIcon.png",
-      "impressionCount" : 39,
+      "impressionCount" : 40,
       "localizedDescription" : "PDF editor",
       "name" : "Sejda PDF Desktop",
       "sha256" : "e856abc26c08de4cf28e49619db520266c6ad3e63aa7c5ab1b43ad84753a08de",
@@ -40721,6 +40851,12 @@
       "bundleIdentifier" : "spotter",
       "downloadCount" : 26,
       "downloadURL" : "https://github.com/spotter-application/spotter/releases/download/1.0.7/spotter.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/ziulev"
+        }
+      ],
       "homepage" : "https://github.com/spotter-application/spotter",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotter/AppIcon.png",
       "impressionCount" : 11,
@@ -41077,6 +41213,16 @@
       "bundleIdentifier" : "betaflight-configurator",
       "downloadCount" : 22,
       "downloadURL" : "https://github.com/betaflight/betaflight-configurator/releases/download/10.8.0/betaflight-configurator_10.8.0_macOS.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://paypal.me/betaflight"
+        },
+        {
+          "platform" : "PATREON",
+          "url" : "https://patreon.com/betaflight"
+        }
+      ],
       "homepage" : "https://github.com/betaflight/betaflight-configurator",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-betaflight-configurator/AppIcon.png",
       "impressionCount" : 35,
@@ -42567,6 +42713,12 @@
       "bundleIdentifier" : "nuage",
       "downloadCount" : 13,
       "downloadURL" : "https://github.com/lbrndnr/nuage-macos/releases/download/v0.0.2/Nuage.app.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/lbrndnr"
+        }
+      ],
       "homepage" : "https://github.com/lbrndnr/nuage-macos",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nuage/AppIcon.png",
       "impressionCount" : 16,
@@ -45166,6 +45318,12 @@
       "bundleIdentifier" : "ckan",
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/KSP-CKAN/CKAN/releases/download/v1.30.4/CKAN.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "PATREON",
+          "url" : "https://patreon.com/_pjf"
+        }
+      ],
       "homepage" : "https://github.com/KSP-CKAN/CKAN",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ckan/AppIcon.png",
       "impressionCount" : 16,
@@ -47864,6 +48022,16 @@
       "bundleIdentifier" : "audioscrobbler",
       "downloadCount" : 2,
       "downloadURL" : "https://github.com/mxcl/Audioscrobbler.app/releases/download/0.9.15/Audioscrobbler-0.9.15.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/mxcl"
+        },
+        {
+          "platform" : "PATREON",
+          "url" : "https://patreon.com/mxcl"
+        }
+      ],
       "homepage" : "https://github.com/mxcl/Audioscrobbler.app",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audioscrobbler/AppIcon.png",
       "impressionCount" : 17,
@@ -48690,6 +48858,12 @@
       "bundleIdentifier" : "brook",
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/txthinking/brook/releases/download/v20220707/Brook.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/txthinking"
+        }
+      ],
       "homepage" : "https://github.com/txthinking/brook",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brook/AppIcon.png",
       "impressionCount" : 14,
@@ -49009,6 +49183,12 @@
       "bundleIdentifier" : "n1ghtshade",
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/synackuk/n1ghtshade/releases/download/RC3/n1ghtshade-macos.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/synackuk"
+        }
+      ],
       "homepage" : "https://github.com/synackuk/n1ghtshade",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-n1ghtshade/AppIcon.png",
       "impressionCount" : 8,
@@ -49891,6 +50071,16 @@
       "bundleIdentifier" : "miniforge",
       "downloadCount" : 4309,
       "downloadURL" : "https://github.com/conda-forge/miniforge/releases/download/4.12.0-2/Miniforge3-4.12.0-2-MacOSX-x86_64.sh",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/numfocus"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://numfocus.org/donate-to-conda-forge"
+        }
+      ],
       "homepage" : "https://github.com/conda-forge/miniforge",
       "localizedDescription" : "Minimal installer for conda specific to conda-forge",
       "name" : "miniforge",
@@ -50116,6 +50306,20 @@
       "bundleIdentifier" : "brooklyn",
       "downloadCount" : 1886,
       "downloadURL" : "https://github.com/pedrommcarrasco/Brooklyn/releases/download/2.1.0/Brooklyn.saver.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/pedrommcarrasco"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.buymeacoffee.com/pedrommcarrasco"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.paypal.me/pedrommcarrasco"
+        }
+      ],
       "homepage" : "https://github.com/pedrommcarrasco/Brooklyn",
       "localizedDescription" : "Screen saver based on animations presented during Apple Special Event Brooklyn",
       "name" : "Brooklyn",
@@ -50995,6 +51199,12 @@
       "bundleIdentifier" : "secretive",
       "downloadCount" : 255,
       "downloadURL" : "https://github.com/maxgoedjen/secretive/releases/download/v2.2.0/Secretive.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/maxgoedjen"
+        }
+      ],
       "homepage" : "https://github.com/maxgoedjen/secretive",
       "localizedDescription" : "Store SSH keys in the Secure Enclave",
       "name" : "Secretive",
@@ -51115,6 +51325,12 @@
       "bundleIdentifier" : "picgo",
       "downloadCount" : 218,
       "downloadURL" : "https://github.com/Molunerfinn/PicGo/releases/download/v2.3.0/PicGo-2.3.0-mac.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://paypal.me/Molunerfinn"
+        }
+      ],
       "homepage" : "https://github.com/Molunerfinn/PicGo",
       "localizedDescription" : "Tool for uploading images",
       "name" : "PicGo",
@@ -51710,6 +51926,16 @@
       "bundleIdentifier" : "mambaforge",
       "downloadCount" : 112,
       "downloadURL" : "https://github.com/conda-forge/miniforge/releases/download/4.12.0-2/Mambaforge-4.12.0-2-MacOSX-x86_64.sh",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/numfocus"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://numfocus.org/donate-to-conda-forge"
+        }
+      ],
       "homepage" : "https://github.com/conda-forge/miniforge",
       "localizedDescription" : "Minimal installer for conda with preinstalled support for Mamba",
       "name" : "mambaforge",
@@ -51940,6 +52166,28 @@
       "bundleIdentifier" : "klogg",
       "downloadCount" : 88,
       "downloadURL" : "https://github.com/variar/klogg/releases/download/v22.06/klogg-22.06.0.1289-OSX-Qt5.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/variar"
+        },
+        {
+          "platform" : "KO_FI",
+          "url" : "https://ko-fi.com/variar"
+        },
+        {
+          "platform" : "PATREON",
+          "url" : "https://patreon.com/variar"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://paypal.me/variarfav"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.buymeacoffee.com/variar"
+        }
+      ],
       "homepage" : "https://github.com/variar/klogg",
       "localizedDescription" : "Fast, advanced log explorer",
       "name" : "Klogg",
@@ -51972,6 +52220,12 @@
       "bundleIdentifier" : "locationsimulator",
       "downloadCount" : 84,
       "downloadURL" : "https://github.com/Schlaubischlump/LocationSimulator/releases/download/v0.1.9.2/LocationSimulator.app.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.paypal.com/donate/?hosted_button_id=9NR3CLRUG22SJ"
+        }
+      ],
       "homepage" : "https://github.com/Schlaubischlump/LocationSimulator",
       "localizedDescription" : "Application to spoof your iOS, iPadOS or iPhoneSimulator device location",
       "name" : "LocationSimulator",
@@ -52031,6 +52285,12 @@
       "bundleIdentifier" : "gltfquicklook",
       "downloadCount" : 78,
       "downloadURL" : "https://github.com/magicien/GLTFQuickLook/releases/download/v0.3.0/GLTFQuickLook_v0.3.0.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/magicien"
+        }
+      ],
       "homepage" : "https://github.com/magicien/GLTFQuickLook",
       "localizedDescription" : "QuickLook plugin for glTF files",
       "name" : "GLTFQuickLook",
@@ -52303,6 +52563,16 @@
       "bundleIdentifier" : "obs-ndi",
       "downloadCount" : 57,
       "downloadURL" : "https://github.com/Palakis/obs-ndi/releases/download/4.9.0/obs-ndi-4.9.0-macOS.pkg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/Palakis"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.paypal.me/stephanelepin"
+        }
+      ],
       "homepage" : "https://github.com/Palakis/obs-ndi",
       "localizedDescription" : "NewTek NDI integration for OBS Studio",
       "name" : "obs-ndi",
@@ -52936,6 +53206,12 @@
       "bundleIdentifier" : "obs-websocket",
       "downloadCount" : 36,
       "downloadURL" : "https://github.com/obsproject/obs-websocket/releases/download/5.0.0/obs-websocket-5.0.0-macOS.pkg",
+      "fundingLinks" : [
+        {
+          "platform" : "OPEN_COLLECTIVE",
+          "url" : "https://opencollective.com/obs-websocket-dev"
+        }
+      ],
       "homepage" : "https://github.com/obsproject/obs-websocket",
       "localizedDescription" : "Remote-control OBS Studio through WebSockets",
       "name" : "obs-websocket",
@@ -53214,6 +53490,20 @@
       "bundleIdentifier" : "corelocationcli",
       "downloadCount" : 29,
       "downloadURL" : "https://github.com/fulldecent/corelocationcli/releases/download/4.0.0/CoreLocationCLI.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/fulldecent"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.paypal.me/fulldecent"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://amazon.com/hz/wishlist/ls/EE78A23EEGQB"
+        }
+      ],
       "homepage" : "https://github.com/fulldecent/corelocationcli",
       "name" : "Core Location CLI",
       "sha256" : "73772a3bfad8b530925f1db19be3c80af504521f5cf903990e7534ae5fabc484",
@@ -55336,6 +55626,12 @@
       "bundleIdentifier" : "brightness-sync",
       "downloadCount" : 8,
       "downloadURL" : "https://github.com/OCJvanDijk/Brightness-Sync/releases/download/v2.3.2/Brightness.Sync.app.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "KO_FI",
+          "url" : "https://ko-fi.com/ocjvandijk"
+        }
+      ],
       "homepage" : "https://github.com/OCJvanDijk/Brightness-Sync",
       "localizedDescription" : "Utility to synchronize the brightness of LG UltraFine display(s)",
       "name" : "Brightness Sync",
@@ -56051,6 +56347,12 @@
       "bundleIdentifier" : "developerexcuses",
       "downloadCount" : 6,
       "downloadURL" : "https://github.com/kimar/DeveloperExcuses/releases/download/2.1.4/DeveloperExcuses.saver.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/kimar"
+        }
+      ],
       "homepage" : "https://github.com/kimar/DeveloperExcuses",
       "name" : "Developer Excuses Screensaver",
       "sha256" : "cbcee9d430a707f0b1b6187392af038ea8d8a5602a05a6d327dc54b4d01ab657",
@@ -56447,6 +56749,20 @@
       "bundleIdentifier" : "emojipedia",
       "downloadCount" : 5,
       "downloadURL" : "https://github.com/gingerbeardman/Emojipedia/releases/download/20190306/Emojipedia.dictionary.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "PATREON",
+          "url" : "https://patreon.com/gingerbeardman"
+        },
+        {
+          "platform" : "KO_FI",
+          "url" : "https://ko-fi.com/gingerbeardman"
+        },
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.paypal.me/mattsephton"
+        }
+      ],
       "homepage" : "https://github.com/gingerbeardman/Emojipedia",
       "name" : "Emojipedia",
       "sha256" : "32c2e398cac48a9fbd05e45b1a11b791c539bb09aa964c54ec066e2a6aa1f047",
@@ -58056,6 +58372,12 @@
       "bundleIdentifier" : "syncalicious",
       "downloadCount" : 3,
       "downloadURL" : "https://github.com/zenangst/Syncalicious/releases/download/0.0.6/Syncalicious.zip",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/zenangst"
+        }
+      ],
       "homepage" : "https://github.com/zenangst/Syncalicious",
       "localizedDescription" : "Backup and synchronize preferences across multiple machines",
       "name" : "Syncalicious",
@@ -59607,6 +59929,12 @@
       "bundleIdentifier" : "repoz",
       "downloadCount" : 1,
       "downloadURL" : "https://github.com/awaescher/RepoZ/releases/download/v5.5/RepoZ.5.5.pkg",
+      "fundingLinks" : [
+        {
+          "platform" : "GITHUB",
+          "url" : "https://github.com/awaescher"
+        }
+      ],
       "homepage" : "https://github.com/awaescher/RepoZ",
       "localizedDescription" : "Zero-conf git repository hub",
       "name" : "RepoZ",

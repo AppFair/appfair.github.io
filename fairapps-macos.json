@@ -8,8 +8,8 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 70,
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.71/App-Fair-macOS.zip",
+      "downloadCount" : 3,
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.72/App-Fair-macOS.zip",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -17,58 +17,58 @@
         }
       ],
       "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.71/App-Fair.png",
-      "impressionCount" : 23,
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.72/App-Fair.png",
+      "impressionCount" : 1,
       "issueCount" : 4,
       "localizedDescription" : "The App Fair catalog browser for discovering & installing macOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.71/Info.plist#0b2b6a87e0abe5df541c4779cb6cba46f04a6b5ec0484de735216d4464dd9721",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.72/Info.plist#0b2b6a87e0abe5df541c4779cb6cba46f04a6b5ec0484de735216d4464dd9721",
       "name" : "App Fair",
       "permissions" : [
         {
-          "type" : "com.apple.security.files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "type" : "com.apple.security.network.client",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
           "type" : "com.apple.security.files.user-selected.read-write",
           "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "type" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "type" : "com.apple.security.files.user-selected.executable",
+          "usageDescription" : "The App Fair installs executable apps"
         },
         {
           "type" : "com.apple.security.network.server",
           "usageDescription" : "The App Fair acts as a server for checking for app updates"
         },
         {
-          "type" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
+          "type" : "com.apple.security.network.client",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.71/README.md#2e818c0471081243bb5e49364e7923152dcd8a36dcd5c596bd8fe699d74c76e1",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.72/README.md#2e818c0471081243bb5e49364e7923152dcd8a36dcd5c596bd8fe699d74c76e1",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_00-mac-dark-2864x1950.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_00-mac-dark-3078x2044.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_00-mac-light-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_06-mac-dark-1424x1722.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.71/screenshot_05-mac-light-1424x1038.png"
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_00-mac-dark-2864x1950.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_00-mac-dark-3078x2044.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_00-mac-light-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.72/screenshot_06-mac-dark-1424x1722.png"
       ],
-      "sha256" : "901ae0a0c8573384ad1c20e0387c286ef812ac0be87c516ac07ba10af7f19cac",
-      "size" : 9087978,
+      "sha256" : "f96bcccf41b5b37b92824b0a4af1ce078360b4f38420eb8419b90891f2d495a3",
+      "size" : 9121363,
       "starCount" : 20,
       "subtitle" : "The App Fair catalog browser for discovering & installing macOS apps",
       "tintColor" : "1594E8",
-      "version" : "0.8.71",
-      "versionDate" : "2022-07-13T00:34:21Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.70...0.8.71",
-      "viewCount" : 5,
+      "version" : "0.8.72",
+      "versionDate" : "2022-07-13T16:57:06Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.71...0.8.72",
+      "viewCount" : 1,
       "watcherCount" : 3
     },
     {
@@ -153,7 +153,7 @@
 
       ],
       "iconURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title.png",
-      "impressionCount" : 136,
+      "impressionCount" : 137,
       "issueCount" : 0,
       "localizedDescription" : "A very useful app indeed",
       "metadataURL" : "https://github.com/App-Title/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -186,7 +186,7 @@
       ],
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
-      "impressionCount" : 2056,
+      "impressionCount" : 2058,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
       "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
@@ -235,7 +235,7 @@
 
       ],
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
-      "impressionCount" : 753,
+      "impressionCount" : 754,
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -274,7 +274,7 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 40,
+      "downloadCount" : 42,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
         {
@@ -283,7 +283,7 @@
         }
       ],
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo.png",
-      "impressionCount" : 382,
+      "impressionCount" : 385,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Info.plist#678580e1d240a21b0bc55c886a427dc6dcd737ee740da1caaa4cdd13efc31360",
@@ -327,7 +327,7 @@
         }
       ],
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 863,
+      "impressionCount" : 864,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -584,7 +584,7 @@
 
       ],
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe.png",
-      "impressionCount" : 577,
+      "impressionCount" : 578,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
@@ -663,7 +663,7 @@
 
       ],
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion.png",
-      "impressionCount" : 586,
+      "impressionCount" : 589,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
@@ -686,7 +686,7 @@
       "version" : "0.0.87",
       "versionDate" : "2022-04-06T15:01:42Z",
       "versionDescription" : "Release 0.0.87",
-      "viewCount" : 90,
+      "viewCount" : 91,
       "watcherCount" : 0
     },
     {
@@ -857,7 +857,7 @@
 
       ],
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "impressionCount" : 1924,
+      "impressionCount" : 1926,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -965,7 +965,7 @@
 
       ],
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "impressionCount" : 2139,
+      "impressionCount" : 2140,
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
@@ -1045,7 +1045,7 @@
         }
       ],
       "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light.png",
-      "impressionCount" : 409,
+      "impressionCount" : 412,
       "issueCount" : 0,
       "localizedDescription" : "무궁화 꽃이 피었습니다",
       "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1065,7 +1065,7 @@
       "version" : "0.0.12",
       "versionDate" : "2022-02-02T02:04:48Z",
       "versionDescription" : "Release 0.0.12",
-      "viewCount" : 36,
+      "viewCount" : 38,
       "watcherCount" : 0
     },
     {
@@ -1133,7 +1133,7 @@
         }
       ],
       "iconURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Silly-Little-App.png",
-      "impressionCount" : 195,
+      "impressionCount" : 196,
       "issueCount" : 0,
       "localizedDescription" : "A simple little app to demonstrate the App Fair",
       "metadataURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1204,7 +1204,7 @@
 
       ],
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Stanza-Redux.png",
-      "impressionCount" : 193,
+      "impressionCount" : 195,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -1286,7 +1286,7 @@
 
       ],
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 561,
+      "impressionCount" : 562,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -1365,7 +1365,7 @@
         }
       ],
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out.png",
-      "impressionCount" : 484,
+      "impressionCount" : 488,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -1632,10 +1632,10 @@
     },
     {
       "appID" : "app.App-Fair",
-      "caption" : "App Fair updated from 0.8.70 to 0.8.71",
-      "date" : "2022-07-13T02:24:52Z",
-      "identifier" : "release-app.App-Fair-0.8.71",
-      "title" : "New Release: App Fair 0.8.71"
+      "caption" : "App Fair updated from 0.8.71 to 0.8.72",
+      "date" : "2022-07-13T17:15:49Z",
+      "identifier" : "release-app.App-Fair-0.8.72",
+      "title" : "New Release: App Fair 0.8.72"
     }
   ],
   "sourceURL" : "https://www.appfair.net/fairapps-macos.json"

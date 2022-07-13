@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 4333,
+      "impressionCount" : 4334,
       "localizedDescription" : "Multimedia player",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -608,7 +608,7 @@
       "downloadURL" : "https://c-command.com/downloads/EagleFiler-1.9.8.dmg",
       "homepage" : "https://c-command.com/eaglefiler/",
       "iconURL" : "https://github.com/C-Command-Software/appcasks/releases/download/cask-eaglefiler/AppIcon.png",
-      "impressionCount" : 1935,
+      "impressionCount" : 1936,
       "localizedDescription" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "name" : "EagleFiler",
       "readmeURL" : "https://github.com/C-Command-Software/appcasks/releases/download/cask-eaglefiler/README.md",
@@ -953,11 +953,11 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadCount" : 3360,
+      "downloadCount" : 3361,
       "downloadURL" : "https://github.com/VSCodium/vscodium/releases/download/1.69.0/VSCodium.x64.1.69.0.dmg",
       "homepage" : "https://github.com/VSCodium/vscodium",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/AppIcon.png",
-      "impressionCount" : 2227,
+      "impressionCount" : 2229,
       "localizedDescription" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "name" : "VSCodium",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/README.md",
@@ -966,7 +966,7 @@
       "tintColor" : "5385DF",
       "version" : "1.69.0",
       "versionDate" : "2022-07-08T06:23:15Z",
-      "viewCount" : 299
+      "viewCount" : 300
     },
     {
       "beta" : false,
@@ -1525,6 +1525,28 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "xcodes",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 1066,
+      "downloadURL" : "https://github.com/RobotsAndPencils/XcodesApp/releases/download/v1.6.0b14/Xcodes.zip",
+      "homepage" : "https://github.com/RobotsAndPencils/XcodesApp",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/AppIcon.png",
+      "impressionCount" : 1945,
+      "localizedDescription" : "Install and switch between multiple versions of Xcode",
+      "name" : "Xcodes",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/screenshot_01-mac-dark-1830x1322.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/screenshot_01-mac-light-1830x1322.png"
+      ],
+      "sha256" : "fb58b64faa7ab73dedad69a7ad11fc44ed3ecdfa05c74ef2831ba4139aa8a338",
+      "subtitle" : "Install and switch between multiple versions of Xcode",
+      "tintColor" : "8D263D",
+      "version" : "1.6.0,14"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "fork",
       "categories" : [
         "public.app-category.developer-tools"
@@ -1542,28 +1564,6 @@
       "tintColor" : "2FB4DE",
       "version" : "2.19.2",
       "viewCount" : 178
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "xcodes",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadCount" : 1065,
-      "downloadURL" : "https://github.com/RobotsAndPencils/XcodesApp/releases/download/v1.6.0b14/Xcodes.zip",
-      "homepage" : "https://github.com/RobotsAndPencils/XcodesApp",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/AppIcon.png",
-      "impressionCount" : 1942,
-      "localizedDescription" : "Install and switch between multiple versions of Xcode",
-      "name" : "Xcodes",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/screenshot_01-mac-dark-1830x1322.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-xcodes/screenshot_01-mac-light-1830x1322.png"
-      ],
-      "sha256" : "fb58b64faa7ab73dedad69a7ad11fc44ed3ecdfa05c74ef2831ba4139aa8a338",
-      "subtitle" : "Install and switch between multiple versions of Xcode",
-      "tintColor" : "8D263D",
-      "version" : "1.6.0,14"
     },
     {
       "beta" : false,
@@ -1717,11 +1717,11 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadCount" : 740,
+      "downloadCount" : 741,
       "downloadURL" : "https://updates.tdesktop.com/tmac/tsetup.4.0.2.dmg",
       "homepage" : "https://desktop.telegram.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram-desktop/AppIcon.png",
-      "impressionCount" : 1164,
+      "impressionCount" : 1166,
       "localizedDescription" : "Desktop client for Telegram messenger",
       "name" : "Telegram Desktop",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram-desktop/README.md",
@@ -1729,7 +1729,7 @@
       "subtitle" : "Desktop client for Telegram messenger",
       "tintColor" : "3DA3D5",
       "version" : "4.0.2",
-      "viewCount" : 70
+      "viewCount" : 71
     },
     {
       "beta" : false,
@@ -2447,11 +2447,11 @@
         "public.app-category.news",
         "public.app-category.developer-tools"
       ],
-      "downloadCount" : 32,
+      "downloadCount" : 33,
       "downloadURL" : "https://download.helloefficiency.com/ravenreader/Raven%20Reader-1.0.73.dmg",
       "homepage" : "https://ravenreader.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-raven-reader/AppIcon.png",
-      "impressionCount" : 1841,
+      "impressionCount" : 1843,
       "localizedDescription" : "News reader with flexible settings",
       "name" : "Raven Reader",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-raven-reader/README.md",
@@ -2459,7 +2459,7 @@
       "subtitle" : "News reader with flexible settings",
       "tintColor" : "629885",
       "version" : "1.0.73",
-      "viewCount" : 175
+      "viewCount" : 176
     },
     {
       "beta" : false,
@@ -3415,7 +3415,7 @@
       "downloadURL" : "https://github.com/CocoaPods/CocoaPods-app/releases/download/1.5.2/CocoaPods.app-1.5.2.tar.bz2",
       "homepage" : "https://cocoapods.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cocoapods/AppIcon.png",
-      "impressionCount" : 792,
+      "impressionCount" : 793,
       "localizedDescription" : "Dependency manager for Cocoa projects",
       "name" : "CocoaPods.app",
       "sha256" : "03aa37afb129d6ae515d3b9ee7a81c30ba91050131e2dfbb3683bdd2f05ac67a",
@@ -4088,11 +4088,11 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadCount" : 662,
+      "downloadCount" : 663,
       "downloadURL" : "https://github.com/nicklockwood/SwiftFormat/releases/download/0.49.11/SwiftFormat.for.Xcode.app.zip",
       "homepage" : "https://github.com/nicklockwood/SwiftFormat",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swiftformat-for-xcode/AppIcon.png",
-      "impressionCount" : 411,
+      "impressionCount" : 413,
       "localizedDescription" : "Xcode Extension for reformatting Swift code",
       "name" : "SwiftFormat for Xcode",
       "sha256" : "0fa923c5117425dafd8d8fc764cacb1ab5d00be55b48f12a6e3fca324d91d675",
@@ -5256,7 +5256,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadCount" : 303,
+      "downloadCount" : 304,
       "downloadURL" : "https://github.com/will-stone/browserosaurus/releases/download/v18.4.2/Browserosaurus-darwin-x64-18.4.2.zip",
       "fundingLinks" : [
         {
@@ -5270,7 +5270,7 @@
       ],
       "homepage" : "https://github.com/will-stone/browserosaurus",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-browserosaurus/AppIcon.png",
-      "impressionCount" : 691,
+      "impressionCount" : 693,
       "localizedDescription" : "Open-source browser prompter",
       "name" : "Browserosaurus",
       "sha256" : "1942ce8bff7315de9ec24a8df0461641a2209139a46f93897e4759d0bb6e8708",
@@ -5691,7 +5691,7 @@
       "downloadURL" : "https://github.com/oldj/SwitchHosts/releases/download/v4.1.2/SwitchHosts_mac_x64_4.1.2.6086.dmg",
       "homepage" : "https://oldj.github.io/SwitchHosts/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-switchhosts/AppIcon.png",
-      "impressionCount" : 477,
+      "impressionCount" : 479,
       "localizedDescription" : "App to switch hosts",
       "name" : "SwitchHosts",
       "sha256" : "8a8556ca83496ffd965af493a139e84cec25c38e9f64eb26f1a134a621bc9ec3",
@@ -6031,7 +6031,7 @@
       "downloadURL" : "https://cogcdn.cog.losno.co/Cog-40cc36d8.zip",
       "homepage" : "https://cog.losno.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cog/AppIcon.png",
-      "impressionCount" : 1029,
+      "impressionCount" : 1031,
       "localizedDescription" : "Audio player",
       "name" : "Cog",
       "sha256" : "c7d457e79b4e535441c74596e553a86819d34ebf6e0e6986288d7985db37ab9f",
@@ -7596,7 +7596,7 @@
       "downloadURL" : "https://dl.nssurge.com/mac/v4/Surge-4.7.0-1757-0b3d1ec3c3f7067386361dd582ad964a.zip",
       "homepage" : "https://nssurge.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-surge/AppIcon.png",
-      "impressionCount" : 145,
+      "impressionCount" : 146,
       "localizedDescription" : "Network toolbox",
       "name" : "Surge",
       "sha256" : "269def766afeb4cf1102bcee888ea28442f6dd421e5ba968b290e25246446d58",
@@ -9625,7 +9625,7 @@
       ],
       "homepage" : "https://github.com/mxcl/Workbench",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-workbench/AppIcon.png",
-      "impressionCount" : 396,
+      "impressionCount" : 398,
       "localizedDescription" : "Seamless, automatic, “dotfile” sync to iCloud",
       "name" : "Workbench",
       "sha256" : "7fec7bf1fb93854ed87cbaf4d9e21ef964adfc064d731b82a84a499f5b911e1f",
@@ -11462,7 +11462,7 @@
       "downloadURL" : "https://s3.ap-northeast-2.amazonaws.com/update.cocoable.com/MovistPro_2.8.3.dmg",
       "homepage" : "https://movistprime.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-movist-pro/AppIcon.png",
-      "impressionCount" : 297,
+      "impressionCount" : 298,
       "localizedDescription" : "Media player",
       "name" : "Movist Pro",
       "sha256" : "37fa31f456307060f1ba30f269394afed3a5b41b3f19640ee2a35a9e314363b5",
@@ -14914,7 +14914,7 @@
       "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2020/08/xattred13.zip",
       "homepage" : "https://eclecticlight.co/xattred-sandstrip-xattr-tools/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xattred/AppIcon.png",
-      "impressionCount" : 325,
+      "impressionCount" : 326,
       "localizedDescription" : "Extended attribute editor",
       "name" : "xattred",
       "sha256" : "606823107254a9a66af2c67d0e6aa25ae820d8dfba2be5427325d05c4a5482a7",
@@ -14968,7 +14968,7 @@
       "downloadURL" : "https://raw.githubusercontent.com/w0lfschild/app_updates/master/DockMate/DockMate.0.8.7.zip",
       "homepage" : "https://www.macenhance.com/dockmate",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dockmate/AppIcon.png",
-      "impressionCount" : 551,
+      "impressionCount" : 552,
       "localizedDescription" : "Window previews and controls",
       "name" : "Dock Mate",
       "sha256" : "0bff2c4b3c915bbd8719a57fd8f2b6c7251af01ceb625bd554fc0326e3fcaf35",
@@ -15528,7 +15528,7 @@
       ],
       "homepage" : "https://github.com/jlord/git-it-electron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-git-it/AppIcon.png",
-      "impressionCount" : 557,
+      "impressionCount" : 558,
       "localizedDescription" : "Desktop app for learning Git and GitHub",
       "name" : "Git-it",
       "sha256" : "b96c06bca744af94e2f035824fbd16f59673c4c454fd4bf96aa4bde965fe711d",
@@ -15966,7 +15966,7 @@
       "downloadURL" : "https://github.com/sedwards2009/extraterm/releases/download/v0.64.0/extratermqt-0.64.0-darwin-x64.zip",
       "homepage" : "https://extraterm.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-extraterm/AppIcon.png",
-      "impressionCount" : 495,
+      "impressionCount" : 496,
       "localizedDescription" : "Swiss army chainsaw of terminal emulators",
       "name" : "extraterm",
       "sha256" : "f289799b3b91a9863bfebb28d6af9a15d474f953ac68d66f1bcdfe740d4fa977",
@@ -16004,7 +16004,7 @@
       "downloadURL" : "https://github.com/jasperapp/jasper/releases/download/v1.0.7/jasper_v1.0.7_mac.zip",
       "homepage" : "https://jasperapp.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jasper/AppIcon.png",
-      "impressionCount" : 388,
+      "impressionCount" : 389,
       "localizedDescription" : "Issue reader for GitHub",
       "name" : "Jasper",
       "sha256" : "4a1077c8e775587b94ea3e0bebaca2681f19b362e1d5cfd576019d0a734ff6fc",
@@ -16578,6 +16578,25 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "ogdesign-eagle",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 20,
+      "downloadURL" : "https://r2-app.eagle.cool/releases/Eagle-3.0-build7.dmg",
+      "homepage" : "https://eagle.cool/macOS",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ogdesign-eagle/AppIcon.png",
+      "impressionCount" : 402,
+      "localizedDescription" : "Organize all your reference images in one place",
+      "name" : "Eagle",
+      "sha256" : "9b35d210f1a75efd313053272cb38f19650fdf4c51f940c690407fbc36ddb3ca",
+      "subtitle" : "Organize all your reference images in one place",
+      "tintColor" : "60A6F4",
+      "version" : "3.0,7",
+      "versionDate" : "2022-07-10T01:14:44Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "pdf-toolbox",
       "categories" : [
         "public.app-category.productivity"
@@ -16785,7 +16804,7 @@
       ],
       "homepage" : "https://github.com/Dimillian/RedditOS",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-curiosity/AppIcon.png",
-      "impressionCount" : 949,
+      "impressionCount" : 950,
       "localizedDescription" : "SwiftUI Reddit client",
       "name" : "Curiosity",
       "sha256" : "cee2a11755b23c55d96a2226750e80ee991ae8bff74bda4ff757717bcbdf9cad",
@@ -16870,25 +16889,6 @@
       "sha256" : "a70d66d92310737d9599215d558670a45265795be0be980934a91e9880eb4a73",
       "tintColor" : "1F4B4C",
       "version" : "0.2.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "ogdesign-eagle",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadCount" : 19,
-      "downloadURL" : "https://r2-app.eagle.cool/releases/Eagle-3.0-build7.dmg",
-      "homepage" : "https://eagle.cool/macOS",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ogdesign-eagle/AppIcon.png",
-      "impressionCount" : 400,
-      "localizedDescription" : "Organize all your reference images in one place",
-      "name" : "Eagle",
-      "sha256" : "9b35d210f1a75efd313053272cb38f19650fdf4c51f940c690407fbc36ddb3ca",
-      "subtitle" : "Organize all your reference images in one place",
-      "tintColor" : "60A6F4",
-      "version" : "3.0,7",
-      "versionDate" : "2022-07-10T01:14:44Z"
     },
     {
       "beta" : false,
@@ -19777,6 +19777,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "codekit",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 12,
+      "downloadURL" : "https://codekitapp.com/binaries/codekit-34365.zip",
+      "homepage" : "https://codekitapp.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-codekit/AppIcon.png",
+      "impressionCount" : 531,
+      "localizedDescription" : "App for building websites",
+      "name" : "CodeKit",
+      "sha256" : "88e3e46782c67d50e302b01a20c0fa17fa948370d36f73d0f89bd9d80e36bc31",
+      "subtitle" : "App for building websites",
+      "tintColor" : "363636",
+      "version" : "3.17.1,34365"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "controlplane",
       "categories" : [
         "public.app-category.utilities"
@@ -20450,24 +20468,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "codekit",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadCount" : 11,
-      "downloadURL" : "https://codekitapp.com/binaries/codekit-34365.zip",
-      "homepage" : "https://codekitapp.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-codekit/AppIcon.png",
-      "impressionCount" : 529,
-      "localizedDescription" : "App for building websites",
-      "name" : "CodeKit",
-      "sha256" : "88e3e46782c67d50e302b01a20c0fa17fa948370d36f73d0f89bd9d80e36bc31",
-      "subtitle" : "App for building websites",
-      "tintColor" : "363636",
-      "version" : "3.17.1,34365"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "datasette",
       "categories" : [
         "public.app-category.developer-tools"
@@ -20916,6 +20916,30 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "iptvnator",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 11,
+      "downloadURL" : "https://github.com/4gray/iptvnator/releases/download/v0.10.0/IPTVnator-0.10.0-universal.dmg",
+      "fundingLinks" : [
+        {
+          "platform" : "CUSTOM",
+          "url" : "https://www.buymeacoffee.com/4gray"
+        }
+      ],
+      "homepage" : "https://github.com/4gray/iptvnator",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iptvnator/AppIcon.png",
+      "impressionCount" : 368,
+      "localizedDescription" : "Open Source m3u, m3u8 player",
+      "name" : "IPTVnator",
+      "sha256" : "9c1d719e5fdb787433181b262a5096581c5167b77156b67b7f4cfea314d90ea2",
+      "subtitle" : "Open Source m3u, m3u8 player",
+      "tintColor" : "061A25",
+      "version" : "0.10.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "ampps",
       "categories" : [
         "public.app-category.utilities"
@@ -21016,6 +21040,25 @@
       "subtitle" : "Test and debug chat bots built with the Bot Framework SDK",
       "tintColor" : "B1D0F2",
       "version" : "4.14.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "cacher",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadCount" : 10,
+      "downloadURL" : "https://cacher-download.nyc3.digitaloceanspaces.com/Cacher-2.44.3-universal-mac.zip",
+      "homepage" : "https://www.cacher.io/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cacher/AppIcon.png",
+      "impressionCount" : 574,
+      "localizedDescription" : "Code snippet organizer",
+      "name" : "Cacher",
+      "sha256" : "95ce17d6a36a2736690d01e4f076d8fdf4025cdd6d476fc87c221a9f0ac45180",
+      "subtitle" : "Code snippet organizer",
+      "tintColor" : "75B5E2",
+      "version" : "2.44.3",
+      "versionDate" : "2022-07-03T01:10:30Z"
     },
     {
       "beta" : false,
@@ -21590,30 +21633,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "iptvnator",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadCount" : 10,
-      "downloadURL" : "https://github.com/4gray/iptvnator/releases/download/v0.10.0/IPTVnator-0.10.0-universal.dmg",
-      "fundingLinks" : [
-        {
-          "platform" : "CUSTOM",
-          "url" : "https://www.buymeacoffee.com/4gray"
-        }
-      ],
-      "homepage" : "https://github.com/4gray/iptvnator",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iptvnator/AppIcon.png",
-      "impressionCount" : 366,
-      "localizedDescription" : "Open Source m3u, m3u8 player",
-      "name" : "IPTVnator",
-      "sha256" : "9c1d719e5fdb787433181b262a5096581c5167b77156b67b7f4cfea314d90ea2",
-      "subtitle" : "Open Source m3u, m3u8 player",
-      "tintColor" : "061A25",
-      "version" : "0.10.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "avocode",
       "categories" : [
         "public.app-category.developer-tools"
@@ -21622,7 +21641,7 @@
       "downloadURL" : "https://media.avocode.com/download/avocode-app/4.15.6/Avocode-4.15.6-mac.zip",
       "homepage" : "https://avocode.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-avocode/AppIcon.png",
-      "impressionCount" : 600,
+      "impressionCount" : 601,
       "localizedDescription" : "Collaborate on design files",
       "name" : "Avocode",
       "sha256" : "3754d8ca81a47f73afa629ea6c0a0edcad6476c1625715f0fbed3233d21371bf",
@@ -21721,25 +21740,6 @@
       "subtitle" : "Downloads scientific computing jobs and runs them invisibly in the background",
       "tintColor" : "959685",
       "version" : "7.16.21"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "cacher",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadCount" : 9,
-      "downloadURL" : "https://cacher-download.nyc3.digitaloceanspaces.com/Cacher-2.44.3-universal-mac.zip",
-      "homepage" : "https://www.cacher.io/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cacher/AppIcon.png",
-      "impressionCount" : 572,
-      "localizedDescription" : "Code snippet organizer",
-      "name" : "Cacher",
-      "sha256" : "95ce17d6a36a2736690d01e4f076d8fdf4025cdd6d476fc87c221a9f0ac45180",
-      "subtitle" : "Code snippet organizer",
-      "tintColor" : "75B5E2",
-      "version" : "2.44.3",
-      "versionDate" : "2022-07-03T01:10:30Z"
     },
     {
       "beta" : false,
@@ -22139,7 +22139,7 @@
       "downloadURL" : "https://pantheon-localdev.s3.amazonaws.com/Localdev-v1.3.1.dmg",
       "homepage" : "https://pantheon.io/localdev",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-localdev/AppIcon.png",
-      "impressionCount" : 364,
+      "impressionCount" : 365,
       "name" : "Localdev",
       "sha256" : "946f49215c4559f28ebf8b183698f986c3de0baa8d1e10d2cdd1fbe44fb9d9f2",
       "tintColor" : "414039",
@@ -22386,7 +22386,7 @@
       "downloadURL" : "https://github.com/DeveloperMaris/ToolReleases/releases/download/v1.5.0/ToolReleases_v1.5.0.b59.zip",
       "homepage" : "https://github.com/DeveloperMaris/ToolReleases",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-toolreleases/AppIcon.png",
-      "impressionCount" : 390,
+      "impressionCount" : 391,
       "localizedDescription" : "Utility to notify about the latest Apple tool releases (including Beta releases)",
       "name" : "ToolReleases",
       "sha256" : "2097bafa9cfe648c259e5c81f98137e3e38217838deccfe262460773807dd8df",
@@ -23898,7 +23898,7 @@
       "downloadURL" : "https://github.com/vitorgalvao/fog/releases/download/1.4.5/Fog-1.4.5-mac.zip",
       "homepage" : "https://github.com/vitorgalvao/fog",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fog/AppIcon.png",
-      "impressionCount" : 442,
+      "impressionCount" : 443,
       "localizedDescription" : "Unofficial overcast.fm podcast app",
       "name" : "Fog",
       "sha256" : "dbf1216fce69ead08e9e9a37b18391d3d65e7f06ae4e6f633e7047832c6b1adc",
@@ -24250,7 +24250,7 @@
       "downloadURL" : "https://github.com/officert/mongotron/releases/download/1.0.0-alpha.5/Mongotron-darwin-x64.zip",
       "homepage" : "http://mongotron.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mongotron/AppIcon.png",
-      "impressionCount" : 493,
+      "impressionCount" : 494,
       "localizedDescription" : "Mongo DB management",
       "name" : "Mongotron",
       "sha256" : "b20d014ae3a9355a112f84d98d2f81c27d3f99fd2dd7dc3455be465b27ab1e20",
@@ -24836,7 +24836,7 @@
       "downloadURL" : "https://github.com/lauthieb/code-notes/releases/download/1.2.4/code-notes-1.2.4.dmg",
       "homepage" : "https://lauthieb.github.io/code-notes/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-code-notes/AppIcon.png",
-      "impressionCount" : 538,
+      "impressionCount" : 539,
       "name" : "Code Notes",
       "sha256" : "c3844123d14642d423f8f04e4fca1bbe7661c54b109cd8eb3eb1cfda8a6d8a60",
       "tintColor" : "3D5C6D",
@@ -25444,7 +25444,7 @@
       "downloadURL" : "https://get.snipy.io/Snipy-1.0.3-mac.zip",
       "homepage" : "https://snipy.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-snipy/AppIcon.png",
-      "impressionCount" : 601,
+      "impressionCount" : 602,
       "localizedDescription" : "Snippet manager with sharing support",
       "name" : "Snipy",
       "sha256" : "ed1e120c5f59f72f5b45fbdc0e1a2c43fc16dd6d4567fc936da2a3b4e02fa004",
@@ -25553,7 +25553,7 @@
       "downloadURL" : "https://zeezide.com/en/products/swiftpmcatalog/archives/SwiftPM%20Catalog.app-1.1.10-v30.zip",
       "homepage" : "https://zeezide.com/en/products/swiftpmcatalog/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swiftpm-catalog/AppIcon.png",
-      "impressionCount" : 328,
+      "impressionCount" : 329,
       "localizedDescription" : "Browse and search for Swift Package Manager packages",
       "name" : "SwiftPM Catalog",
       "sha256" : "584a4d4ad2b3d8945c527606dedd15376690975adb243b89fa3cc1bacfe81848",
@@ -25985,7 +25985,7 @@
       "downloadURL" : "https://github.com/electron/electron-api-demos/releases/download/v2.0.2/electron-api-demos-mac.zip",
       "homepage" : "https://github.com/electron/electron-api-demos",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electron-api-demos/AppIcon.png",
-      "impressionCount" : 455,
+      "impressionCount" : 456,
       "localizedDescription" : "Explore the Electron APIs",
       "name" : "Electron API Demos",
       "sha256" : "274e1f3c2a90ab884b117af84988c1aea9931d37fe8169fb6aeecab8e5b78464",
@@ -26964,7 +26964,7 @@
       "downloadURL" : "https://swiftybeaver.s3.amazonaws.com/SBMac-1.1.0.zip",
       "homepage" : "https://swiftybeaver.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swiftybeaver/AppIcon.png",
-      "impressionCount" : 301,
+      "impressionCount" : 302,
       "name" : "SwiftyBeaver",
       "sha256" : "1a12cf1061aac8cb455ebce2898b8165f89c5016b3befdbbe71ebbcef6680f0a",
       "tintColor" : "46515E",
@@ -27030,7 +27030,7 @@
       "downloadURL" : "https://github.com/ryanmaxwell/UncrustifyX/releases/download/0.4.3/UncrustifyX-0.4.3.zip",
       "homepage" : "https://github.com/ryanmaxwell/UncrustifyX",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-uncrustifyx/AppIcon.png",
-      "impressionCount" : 323,
+      "impressionCount" : 324,
       "localizedDescription" : "Uncrustify utility and documentation browser",
       "name" : "UncrustifyX",
       "sha256" : "017c0781ce05db59c1a3fe52a140166df55aa2d87286a7cf5ba5e3eb6b06c7df",
@@ -27048,7 +27048,7 @@
       "downloadURL" : "http://s.sudre.free.fr/Software/files/Unexpectedly.dmg",
       "homepage" : "http://s.sudre.free.fr/Software/Unexpectedly/about.html",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unexpectedly/AppIcon.png",
-      "impressionCount" : 323,
+      "impressionCount" : 324,
       "localizedDescription" : "Browse and visualize the reports from crashes",
       "name" : "Unexpectedly",
       "subtitle" : "Browse and visualize the reports from crashes",
@@ -27620,7 +27620,7 @@
       "downloadURL" : "https://github.com/Kilian/fromscratch/releases/download/v1.4.3/FromScratch-1.4.3.dmg",
       "homepage" : "https://fromscratch.rocks/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fromscratch/AppIcon.png",
-      "impressionCount" : 437,
+      "impressionCount" : 438,
       "localizedDescription" : "Autosaving Scratchpad. A simple but smart note-taking app",
       "name" : "FromScratch",
       "sha256" : "fd3d8bc1cf8bc7e03dfb584a89e02b3c4da98f44d96eda0979d149dd668d709f",
@@ -29398,7 +29398,7 @@
       "downloadURL" : "https://github.com/wigl/iSimulator/releases/download/3.3.0/iSimulator.zip",
       "homepage" : "https://github.com/wigl/iSimulator",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-isimulator/AppIcon.png",
-      "impressionCount" : 479,
+      "impressionCount" : 480,
       "localizedDescription" : "Utility to control and manage the Simulator",
       "name" : "iSimulator",
       "sha256" : "b9d4e1b3726ff3dd222f123a6d0b425015ff13733e95863a95d8256f80530a60",
@@ -32609,7 +32609,7 @@
       "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.169.2/Hepta-0.169.2-mac.zip",
       "homepage" : "https://heptabase.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hepta/AppIcon.png",
-      "impressionCount" : 166,
+      "impressionCount" : 167,
       "localizedDescription" : "Note-taking tool for visual learning",
       "name" : "Hepta",
       "sha256" : "7c41c0a8b9b65806a944df38c5e39abbb5bb4849cf3da4a60f62a6513270732e",
@@ -33589,7 +33589,7 @@
       "downloadURL" : "https://github.com/thmsbfft/oryoki/releases/download/0.2.2/Oryoki-0.2.2.zip",
       "homepage" : "http://oryoki.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-oryoki/AppIcon.png",
-      "impressionCount" : 355,
+      "impressionCount" : 356,
       "localizedDescription" : "Experimental web browser with a thin interface",
       "name" : "Oryoki",
       "sha256" : "419a251b1be83c1f11763d4713920f5e7676a2cb23fc9e359e0d2d4fd349e23f",

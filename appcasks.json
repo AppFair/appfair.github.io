@@ -129,11 +129,11 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadCount" : 7342,
+      "downloadCount" : 7343,
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 4882,
+      "impressionCount" : 4883,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -145,7 +145,7 @@
       "tintColor" : "1CB151",
       "version" : "1.1.89.862,94554d24,16",
       "versionDate" : "2022-07-11T23:21:04Z",
-      "viewCount" : 463
+      "viewCount" : 464
     },
     {
       "beta" : false,
@@ -3755,11 +3755,11 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadCount" : 856,
+      "downloadCount" : 857,
       "downloadURL" : "https://folivora.ai/releases/btt3.821-1964.zip",
       "homepage" : "https://folivora.ai/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bettertouchtool/AppIcon.png",
-      "impressionCount" : 854,
+      "impressionCount" : 855,
       "localizedDescription" : "Tool to customize input devices and automate computer systems",
       "name" : "BetterTouchTool",
       "sha256" : "39d40c87a061c3e24c533a2176e8b1c928437014ef217f94ad6a6a913e9c8fb8",
@@ -5753,7 +5753,7 @@
       "downloadURL" : "https://download.mimestream.com/Mimestream_0.36.2.dmg",
       "homepage" : "https://mimestream.com/",
       "iconURL" : "https://github.com/mimestream/appcasks/releases/download/cask-mimestream/AppIcon.png",
-      "impressionCount" : 147,
+      "impressionCount" : 148,
       "localizedDescription" : "Native app email client for Gmail",
       "name" : "Mimestream",
       "readmeURL" : "https://github.com/mimestream/appcasks/releases/download/cask-mimestream/README.md",
@@ -5761,7 +5761,7 @@
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.36.2",
       "versionDate" : "2022-07-11T03:23:24Z",
-      "viewCount" : 11
+      "viewCount" : 12
     },
     {
       "beta" : false,

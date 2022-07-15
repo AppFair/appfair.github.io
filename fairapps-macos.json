@@ -8,7 +8,7 @@
       ],
       "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 119,
+      "downloadCount" : 123,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.72/App-Fair-macOS.zip",
       "fundingLinks" : [
         {
@@ -18,7 +18,7 @@
       ],
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.72/App-Fair.png",
-      "impressionCount" : 22,
+      "impressionCount" : 58,
       "issueCount" : 4,
       "localizedDescription" : "The App Fair catalog browser for discovering & installing macOS apps",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.72/Info.plist#0b2b6a87e0abe5df541c4779cb6cba46f04a6b5ec0484de735216d4464dd9721",
@@ -120,7 +120,7 @@
         }
       ],
       "iconURL" : "https://github.com/App-Name/App/releases/download/0.0.1/App-Name.png",
-      "impressionCount" : 265,
+      "impressionCount" : 301,
       "issueCount" : 0,
       "localizedDescription" : "A simple but useful app",
       "metadataURL" : "https://github.com/App-Name/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -153,7 +153,7 @@
 
       ],
       "iconURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title.png",
-      "impressionCount" : 137,
+      "impressionCount" : 145,
       "issueCount" : 0,
       "localizedDescription" : "A very useful app indeed",
       "metadataURL" : "https://github.com/App-Title/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -186,7 +186,7 @@
       ],
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
-      "impressionCount" : 2073,
+      "impressionCount" : 2097,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
       "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
@@ -235,7 +235,7 @@
 
       ],
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
-      "impressionCount" : 756,
+      "impressionCount" : 768,
       "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -274,7 +274,7 @@
       ],
       "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 46,
+      "downloadCount" : 47,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
         {
@@ -283,7 +283,7 @@
         }
       ],
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo.png",
-      "impressionCount" : 414,
+      "impressionCount" : 446,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Info.plist#678580e1d240a21b0bc55c886a427dc6dcd737ee740da1caaa4cdd13efc31360",
@@ -327,7 +327,7 @@
         }
       ],
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 869,
+      "impressionCount" : 893,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -363,7 +363,7 @@
 
       ],
       "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "impressionCount" : 541,
+      "impressionCount" : 549,
       "issueCount" : 0,
       "localizedDescription" : "An urban street guide",
       "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -472,7 +472,7 @@
         }
       ],
       "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
-      "impressionCount" : 564,
+      "impressionCount" : 580,
       "issueCount" : 0,
       "localizedDescription" : "A true Festivus celebration",
       "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -511,7 +511,7 @@
         }
       ],
       "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
-      "impressionCount" : 600,
+      "impressionCount" : 616,
       "issueCount" : 0,
       "localizedDescription" : "There, I fixed the web for you. You're welcome.",
       "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -584,7 +584,7 @@
 
       ],
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe.png",
-      "impressionCount" : 578,
+      "impressionCount" : 594,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
@@ -630,7 +630,7 @@
         }
       ],
       "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.7/Huffle-Puff.png",
-      "impressionCount" : 214,
+      "impressionCount" : 222,
       "issueCount" : 0,
       "localizedDescription" : "H.R. Huffle Puff ",
       "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -663,7 +663,7 @@
 
       ],
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion.png",
-      "impressionCount" : 607,
+      "impressionCount" : 623,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
@@ -703,7 +703,7 @@
 
       ],
       "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course.png",
-      "impressionCount" : 556,
+      "impressionCount" : 564,
       "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
       "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -743,7 +743,7 @@
         }
       ],
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res.png",
-      "impressionCount" : 647,
+      "impressionCount" : 663,
       "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
       "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -780,7 +780,7 @@
 
       ],
       "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector.png",
-      "impressionCount" : 503,
+      "impressionCount" : 511,
       "issueCount" : 0,
       "localizedDescription" : "A vector drawing app",
       "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -820,7 +820,7 @@
         }
       ],
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense.png",
-      "impressionCount" : 527,
+      "impressionCount" : 543,
       "issueCount" : 0,
       "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -857,7 +857,7 @@
 
       ],
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "impressionCount" : 1944,
+      "impressionCount" : 1960,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -1045,7 +1045,7 @@
         }
       ],
       "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light.png",
-      "impressionCount" : 415,
+      "impressionCount" : 431,
       "issueCount" : 0,
       "localizedDescription" : "무궁화 꽃이 피었습니다",
       "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1133,7 +1133,7 @@
         }
       ],
       "iconURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Silly-Little-App.png",
-      "impressionCount" : 205,
+      "impressionCount" : 229,
       "issueCount" : 0,
       "localizedDescription" : "A simple little app to demonstrate the App Fair",
       "metadataURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1204,7 +1204,7 @@
 
       ],
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Stanza-Redux.png",
-      "impressionCount" : 221,
+      "impressionCount" : 257,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -1286,7 +1286,7 @@
 
       ],
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 562,
+      "impressionCount" : 574,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -1325,7 +1325,7 @@
         }
       ],
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz.png",
-      "impressionCount" : 331,
+      "impressionCount" : 339,
       "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
       "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1365,7 +1365,7 @@
         }
       ],
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out.png",
-      "impressionCount" : 517,
+      "impressionCount" : 553,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -1413,7 +1413,7 @@
         }
       ],
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
-      "impressionCount" : 208,
+      "impressionCount" : 216,
       "issueCount" : 0,
       "localizedDescription" : "Unleash your inner dialog",
       "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1449,7 +1449,7 @@
         }
       ],
       "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
-      "impressionCount" : 280,
+      "impressionCount" : 288,
       "issueCount" : 0,
       "localizedDescription" : "A bit of lite reading",
       "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1524,7 +1524,7 @@
 
       ],
       "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc.png",
-      "impressionCount" : 439,
+      "impressionCount" : 455,
       "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
       "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Info.plist#d1d3028fa679289adb1356dbcf36b05a7b11590f77677c0eb908ad3a8fd8b75f",
@@ -1560,7 +1560,7 @@
         }
       ],
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
-      "impressionCount" : 507,
+      "impressionCount" : 523,
       "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
       "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",

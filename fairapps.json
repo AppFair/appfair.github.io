@@ -18,7 +18,7 @@
       ],
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.74/App-Fair.png",
-      "impressionCount" : 83,
+      "impressionCount" : 124,
       "issueCount" : 4,
       "localizedDescription" : "Open-source browser and installer for macOS apps and Homebrew casks",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.74/Info.plist#0b2b6a87e0abe5df541c4779cb6cba46f04a6b5ec0484de735216d4464dd9721",
@@ -68,7 +68,7 @@
       "version" : "0.8.74",
       "versionDate" : "2022-07-16T21:23:37Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.72...0.8.74",
-      "viewCount" : 4,
+      "viewCount" : 8,
       "watcherCount" : 3
     },
     {
@@ -186,7 +186,7 @@
       ],
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
-      "impressionCount" : 2305,
+      "impressionCount" : 2338,
       "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
       "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
@@ -218,7 +218,7 @@
       "version" : "0.1.7",
       "versionDate" : "2022-05-24T14:45:09Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7",
-      "viewCount" : 481,
+      "viewCount" : 484,
       "watcherCount" : 1
     },
     {
@@ -283,7 +283,7 @@
         }
       ],
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo.png",
-      "impressionCount" : 795,
+      "impressionCount" : 851,
       "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Info.plist#678580e1d240a21b0bc55c886a427dc6dcd737ee740da1caaa4cdd13efc31360",
@@ -307,7 +307,7 @@
       "version" : "0.9.114",
       "versionDate" : "2022-07-08T04:39:07Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.113...0.9.114",
-      "viewCount" : 121,
+      "viewCount" : 134,
       "watcherCount" : 0
     },
     {
@@ -327,7 +327,7 @@
         }
       ],
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 1101,
+      "impressionCount" : 1113,
       "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -584,7 +584,7 @@
 
       ],
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe.png",
-      "impressionCount" : 743,
+      "impressionCount" : 755,
       "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
@@ -610,7 +610,7 @@
       "version" : "0.0.19",
       "versionDate" : "2022-04-06T16:11:00Z",
       "versionDescription" : "Release 0.0.19",
-      "viewCount" : 80,
+      "viewCount" : 81,
       "watcherCount" : 0
     },
     {
@@ -663,7 +663,7 @@
 
       ],
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion.png",
-      "impressionCount" : 790,
+      "impressionCount" : 815,
       "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
@@ -686,7 +686,7 @@
       "version" : "0.0.87",
       "versionDate" : "2022-04-06T15:01:42Z",
       "versionDescription" : "Release 0.0.87",
-      "viewCount" : 100,
+      "viewCount" : 102,
       "watcherCount" : 0
     },
     {
@@ -857,7 +857,7 @@
 
       ],
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "impressionCount" : 2100,
+      "impressionCount" : 2126,
       "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
@@ -888,7 +888,7 @@
       "version" : "0.0.42",
       "versionDate" : "2022-05-26T14:16:43Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42",
-      "viewCount" : 405,
+      "viewCount" : 409,
       "watcherCount" : 0
     },
     {
@@ -965,7 +965,7 @@
 
       ],
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "impressionCount" : 2203,
+      "impressionCount" : 2217,
       "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
@@ -987,7 +987,7 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T03:44:49Z",
       "versionDescription" : "Release 0.4.18",
-      "viewCount" : 420,
+      "viewCount" : 423,
       "watcherCount" : 0
     },
     {
@@ -1045,7 +1045,7 @@
         }
       ],
       "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light.png",
-      "impressionCount" : 557,
+      "impressionCount" : 569,
       "issueCount" : 0,
       "localizedDescription" : "무궁화 꽃이 피었습니다",
       "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1204,7 +1204,7 @@
 
       ],
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Stanza-Redux.png",
-      "impressionCount" : 581,
+      "impressionCount" : 643,
       "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
@@ -1232,7 +1232,7 @@
       "version" : "0.3.35",
       "versionDate" : "2022-07-12T00:02:19Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.34...0.3.35",
-      "viewCount" : 65,
+      "viewCount" : 73,
       "watcherCount" : 0
     },
     {
@@ -1286,7 +1286,7 @@
 
       ],
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 670,
+      "impressionCount" : 687,
       "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
@@ -1365,7 +1365,7 @@
         }
       ],
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out.png",
-      "impressionCount" : 898,
+      "impressionCount" : 989,
       "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -1393,7 +1393,7 @@
       "version" : "0.8.442",
       "versionDate" : "2022-07-06T13:11:16Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.441...0.8.442",
-      "viewCount" : 111,
+      "viewCount" : 118,
       "watcherCount" : 0
     },
     {

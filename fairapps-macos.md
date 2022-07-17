@@ -23,15 +23,15 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | [``0.8.74``](https://github.com/App-Fair/App/releases/0.8.74) | `70` | `2022-07-16T21:23:37Z` | `9.2 MB` | `207` | `16` | `19` | [``4``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | [``0.8.74``](https://github.com/App-Fair/App/releases/0.8.74) | `71` | `2022-07-16T21:23:37Z` | `9.2 MB` | `208` | `17` | `19` | [``4``](https://github.com/App-Fair/App/issues) |  |
 | [``App Name``](https://App-Name.github.io/App/) | [``0.0.1β``](https://github.com/App-Name/App/releases/0.0.1) | `3` | `2022-07-02T16:38:41Z` | `2 MB` | `621` | `39` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `5` | `2022-05-19T21:18:14Z` | `2.4 MB` | `223` | `48` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `29` | `2022-05-24T14:45:09Z` | `4.5 MB` | `2387` | `490` | `1` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `9` | `2022-01-24T01:55:01Z` | `2.3 MB` | `866` | `83` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | [``0.9.114``](https://github.com/Cloud-Cuckoo/App/releases/0.9.114) | `59` | `2022-07-08T04:39:07Z` | `2 MB` | `1012` | `151` | `1` | `0` |  |
-| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | [``0.0.4β``](https://github.com/Crazy-Glue/App/releases/0.0.4) | `14` | `2022-01-23T23:13:56Z` | `2.3 MB` | `1145` | `140` | `0` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `9` | `2022-01-24T01:55:01Z` | `2.3 MB` | `868` | `83` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | [``0.9.114``](https://github.com/Cloud-Cuckoo/App/releases/0.9.114) | `59` | `2022-07-08T04:39:07Z` | `2 MB` | `1014` | `151` | `1` | `0` |  |
+| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | [``0.0.4β``](https://github.com/Crazy-Glue/App/releases/0.0.4) | `14` | `2022-01-23T23:13:56Z` | `2.3 MB` | `1147` | `140` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | [``0.0.3β``](https://github.com/Down-Town/App/releases/0.0.3) | `9` | `2022-01-25T00:49:11Z` | `2.3 MB` | `635` | `68` | `0` | `0` |  |
-| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | [``0.0.32β``](https://github.com/Encyclopedia-Galactica/App/releases/0.0.32) | `5` | `2022-01-24T02:35:43Z` | `2.5 MB` | `360` | `41` | `0` | `0` |  |
+| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | [``0.0.32β``](https://github.com/Encyclopedia-Galactica/App/releases/0.0.32) | `5` | `2022-01-24T02:35:43Z` | `2.5 MB` | `361` | `41` | `0` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | [``0.0.32β``](https://github.com/Eternal-September/App/releases/0.0.32) | `4` | `2022-01-26T22:20:37Z` | `2.5 MB` | `200` | `32` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | [``0.0.3β``](https://github.com/Festivus-Pole/App/releases/0.0.3) | `7` | `2022-01-23T23:13:54Z` | `2.3 MB` | `724` | `74` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | [``0.0.4β``](https://github.com/Fox-Glove/App/releases/0.0.4) | `4` | `2022-01-23T23:13:52Z` | `2.4 MB` | `758` | `73` | `0` | `0` |  |
@@ -60,6 +60,6 @@ tr:nth-child(even) {
 | [``Ultra Light``](https://Ultra-Light.github.io/App/) | [``0.0.7β``](https://github.com/Ultra-Light/App/releases/0.0.7) | `3` | `2022-01-21T14:04:24Z` | `2.3 MB` | `355` | `40` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | [``0.0.5β``](https://github.com/Unclear-Purpose/App/releases/0.0.5) | `3` | `2022-01-25T00:48:27Z` | `2.3 MB` | `321` | `24` | `0` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | [``0.0.37β``](https://github.com/Visi-Calc/App/releases/0.0.37) | `8` | `2022-01-24T01:59:51Z` | `4.7 MB` | `551` | `29` | `0` | `0` |  |
-| [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | [``0.0.11β``](https://github.com/Yankee-Swap/App/releases/0.0.11) | `4` | `2022-01-24T14:24:10Z` | `2.4 MB` | `716` | `32` | `0` | `0` |  |
+| [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | [``0.0.11β``](https://github.com/Yankee-Swap/App/releases/0.0.11) | `4` | `2022-01-24T14:24:10Z` | `2.4 MB` | `717` | `32` | `0` | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

@@ -10,7 +10,7 @@
       "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.50.1.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
-      "impressionCount" : 6505,
+      "impressionCount" : 6507,
       "localizedDescription" : "Instant messaging application focusing on security",
       "name" : "Signal",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
@@ -42,7 +42,7 @@
       "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/102.0.1/mac/en-US/Firefox%20102.0.1.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
-      "impressionCount" : 5945,
+      "impressionCount" : 5947,
       "localizedDescription" : "Web browser",
       "name" : "Mozilla Firefox",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/README.md",
@@ -71,7 +71,7 @@
       "downloadURL" : "https://download.videolan.org/vlc/3.0.17.3/macosx/vlc-3.0.17.3-intel64.dmg",
       "homepage" : "https://www.videolan.org/vlc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/AppIcon.png",
-      "impressionCount" : 5201,
+      "impressionCount" : 5203,
       "localizedDescription" : "Multimedia player",
       "name" : "VLC media player",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vlc/README.md",
@@ -102,7 +102,7 @@
       "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_16.zip",
       "homepage" : "https://www.iterm2.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/AppIcon.png",
-      "impressionCount" : 5228,
+      "impressionCount" : 5230,
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iterm2/README.md",
@@ -133,7 +133,7 @@
       "downloadURL" : "https://download.scdn.co/Spotify.dmg",
       "homepage" : "https://www.spotify.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "impressionCount" : 5495,
+      "impressionCount" : 5497,
       "localizedDescription" : "Music streaming service",
       "name" : "Spotify",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
@@ -157,7 +157,7 @@
       "downloadURL" : "https://dl.discordapp.net/apps/osx/0.0.267/Discord.dmg",
       "homepage" : "https://discord.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/AppIcon.png",
-      "impressionCount" : 5167,
+      "impressionCount" : 5169,
       "localizedDescription" : "Voice and text chat software",
       "name" : "Discord",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-discord/README.md",
@@ -184,7 +184,7 @@
       "downloadURL" : "https://emacsformacosx.com/emacs-builds/Emacs-28.1-4-universal.dmg",
       "homepage" : "https://emacsformacosx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/AppIcon.png",
-      "impressionCount" : 4830,
+      "impressionCount" : 4832,
       "localizedDescription" : "Text editor",
       "name" : "Emacs",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-emacs/README.md",
@@ -211,7 +211,7 @@
       "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2222.12.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
-      "impressionCount" : 5440,
+      "impressionCount" : 5442,
       "localizedDescription" : "Desktop client for WhatsApp",
       "name" : "WhatsApp",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/README.md",
@@ -237,7 +237,7 @@
       "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
       "homepage" : "https://store.steampowered.com/about/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "impressionCount" : 3901,
+      "impressionCount" : 3902,
       "localizedDescription" : "Video game digital distribution service",
       "name" : "Steam",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
@@ -262,7 +262,7 @@
       "downloadURL" : "https://github.com/aonez/Keka/releases/download/v1.2.55/Keka-1.2.55.dmg",
       "homepage" : "https://www.keka.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/AppIcon.png",
-      "impressionCount" : 5547,
+      "impressionCount" : 5548,
       "localizedDescription" : "File archiver",
       "name" : "Keka",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keka/README.md",
@@ -293,7 +293,7 @@
       "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
-      "impressionCount" : 4594,
+      "impressionCount" : 4595,
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/README.md",
@@ -317,7 +317,7 @@
       "downloadURL" : "https://github.com/MacDownApp/macdown/releases/download/v0.7.2/MacDown.app.zip",
       "homepage" : "https://macdown.uranusjr.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/AppIcon.png",
-      "impressionCount" : 4026,
+      "impressionCount" : 4027,
       "localizedDescription" : "Open-source Markdown editor",
       "name" : "MacDown",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macdown/README.md",
@@ -343,7 +343,7 @@
       "downloadURL" : "https://download.blender.org/release/Blender3.2/blender-3.2.1-macos-x64.dmg",
       "homepage" : "https://www.blender.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
-      "impressionCount" : 5400,
+      "impressionCount" : 5401,
       "localizedDescription" : "3D creation suite",
       "name" : "Blender",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/README.md",
@@ -817,7 +817,7 @@
         "public.app-category.utilities"
       ],
       "downloadCount" : 4615,
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.25/Stats.dmg",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.26/Stats.dmg",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -842,11 +842,11 @@
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "e483ee1272764d0613043c2a7d2d98f6565601e09f4f45a67573f814b4679ce5",
+      "sha256" : "0311e6c955d7b01d0e330b369dbb9ca1056d2c3c39390109f47c92fd099956d3",
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
-      "version" : "2.7.25",
-      "versionDate" : "2022-07-11T03:23:24Z",
+      "version" : "2.7.26",
+      "versionDate" : "2022-07-18T03:28:13Z",
       "viewCount" : 330
     },
     {
@@ -1085,7 +1085,7 @@
       "downloadURL" : "https://github.com/VSCodium/vscodium/releases/download/1.69.1/VSCodium.x64.1.69.1.dmg",
       "homepage" : "https://github.com/VSCodium/vscodium",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/AppIcon.png",
-      "impressionCount" : 2603,
+      "impressionCount" : 2604,
       "localizedDescription" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "name" : "VSCodium",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/README.md",
@@ -1360,7 +1360,7 @@
       "downloadURL" : "https://download.calibre-ebook.com/6.1.0/calibre-6.1.0.dmg",
       "homepage" : "https://calibre-ebook.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/AppIcon.png",
-      "impressionCount" : 2481,
+      "impressionCount" : 2482,
       "localizedDescription" : "E-books management software",
       "name" : "calibre",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/README.md",
@@ -1369,7 +1369,7 @@
       "tintColor" : "75706B",
       "version" : "6.1.0",
       "versionDate" : "2022-07-17T01:16:42Z",
-      "viewCount" : 146
+      "viewCount" : 147
     },
     {
       "beta" : false,
@@ -1828,7 +1828,7 @@
       "downloadURL" : "https://www.charlesproxy.com/assets/release/4.6.2/charles-proxy-4.6.2.dmg",
       "homepage" : "https://www.charlesproxy.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-charles/AppIcon.png",
-      "impressionCount" : 2637,
+      "impressionCount" : 2639,
       "localizedDescription" : "Web debugging Proxy application",
       "name" : "Charles",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-charles/README.md",
@@ -2607,17 +2607,18 @@
         "public.app-category.finance"
       ],
       "downloadCount" : 5,
-      "downloadURL" : "https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.5.16/mmex-1.5.16-Darwin.dmg",
+      "downloadURL" : "https://github.com/moneymanagerex/moneymanagerex/releases/download/v1.5.17/mmex-1.5.17-Darwin.dmg",
       "homepage" : "https://www.moneymanagerex.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mmex/AppIcon.png",
       "impressionCount" : 1182,
       "localizedDescription" : "Money management application",
       "name" : "Money Manager Ex",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mmex/README.md",
-      "sha256" : "664be47534cafaacb75819279941e0839b28cf294b688e01e305c8199086d125",
+      "sha256" : "9f452764f891f6311c9238ac869b8de6229ecf7bb138d2d5e333cd39025346e2",
       "subtitle" : "Money management application",
       "tintColor" : "61A434",
-      "version" : "1.5.16",
+      "version" : "1.5.17",
+      "versionDate" : "2022-07-18T03:28:13Z",
       "viewCount" : 81
     },
     {
@@ -4769,17 +4770,17 @@
         "public.app-category.developer-tools"
       ],
       "downloadCount" : 382,
-      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v5.9.3/Netron-5.9.3-mac.zip",
+      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v5.9.4/Netron-5.9.4-mac.zip",
       "homepage" : "https://github.com/lutzroeder/netron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-netron/AppIcon.png",
       "impressionCount" : 587,
       "localizedDescription" : "Visualizer for neural network, deep learning, and machine learning models",
       "name" : "Netron",
-      "sha256" : "6c27a24e7ec4f8d3ac1e18d634df78a8e6b35120c1a4ed23953a52ae4ba37110",
+      "sha256" : "662dd08542f20864d04e4a11a1b80560e6b3f29d3d8fe07dae82f1b48df2230c",
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
-      "version" : "5.9.3",
-      "versionDate" : "2022-07-17T01:16:42Z"
+      "version" : "5.9.4",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -6558,6 +6559,25 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "moom",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 151,
+      "downloadURL" : "https://manytricks.com/download/_do_not_hotlink_/moom3225.dmg",
+      "homepage" : "https://manytricks.com/moom/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-moom/AppIcon.png",
+      "impressionCount" : 184,
+      "localizedDescription" : "Utility to move and zoom windows—on one display",
+      "name" : "Moom",
+      "sha256" : "93e69ccc7f69892aae30a6422fcc0bab386a562e7e14f8cad18a8ceb15650498",
+      "subtitle" : "Utility to move and zoom windows—on one display",
+      "tintColor" : "BAB9B7",
+      "version" : "3.2.25,3349",
+      "versionDate" : "2022-07-18T03:28:13Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "via",
       "categories" : [
         "public.app-category.developer-tools"
@@ -7384,17 +7404,17 @@
         "public.app-category.productivity"
       ],
       "downloadCount" : 118,
-      "downloadURL" : "https://pages.uoregon.edu/koch/texshop/texshop-64/texshop477.zip",
+      "downloadURL" : "https://pages.uoregon.edu/koch/texshop/texshop-64/texshop478.zip",
       "homepage" : "https://pages.uoregon.edu/koch/texshop/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-texshop/AppIcon.png",
       "impressionCount" : 248,
       "localizedDescription" : "TeX previewer",
       "name" : "TeXShop",
-      "sha256" : "4a37b2f04266ce20503c5305f1493b0047c0c591db01552bf9f902dacb9f8bc5",
+      "sha256" : "accab0d22e8d8a8d1298be6cb45d35bff3d054a7b5aaa7072dbe5d8b802dc461",
       "subtitle" : "TeX previewer",
       "tintColor" : "9AAAAE",
-      "version" : "4.77",
-      "versionDate" : "2022-07-07T23:20:18Z"
+      "version" : "4.78",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -9012,17 +9032,17 @@
         "public.app-category.reference"
       ],
       "downloadCount" : 75,
-      "downloadURL" : "https://www.mactracker.ca/downloads/Mactracker_7.11.3.zip",
+      "downloadURL" : "https://www.mactracker.ca/downloads/Mactracker_7.11.4.zip",
       "homepage" : "https://mactracker.ca/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mactracker/AppIcon.png",
       "impressionCount" : 521,
       "localizedDescription" : "Detailed information on every Apple product ever made",
       "name" : "Mactracker",
-      "sha256" : "aa84f739bed5b9fb0e62a22acff2851d3ae3fcc1b2eec6708b9a654f345c43fb",
+      "sha256" : "0e5d5cf40b1f1a74c33204631a0baf65b930e9c383944eb8c6519ef2079d1a05",
       "subtitle" : "Detailed information on every Apple product ever made",
       "tintColor" : "69A4CB",
-      "version" : "7.11.3",
-      "versionDate" : "2022-07-05T12:32:07Z"
+      "version" : "7.11.4",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -10301,7 +10321,8 @@
       "name" : "OpenCore Configurator",
       "subtitle" : "OpenCore EFI bootloader configuration helper",
       "tintColor" : "949495",
-      "version" : "2.61.1.0"
+      "version" : "2.61.2.0",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -10341,7 +10362,7 @@
       ],
       "homepage" : "https://github.com/sn4k3/UVtools",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-uvtools/AppIcon.png",
-      "impressionCount" : 251,
+      "impressionCount" : 252,
       "localizedDescription" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "name" : "UVtools",
       "sha256" : "016ec54a9618a6dd675973f1821e38886147b7b1cf450f9a76751076fb65121f",
@@ -19227,6 +19248,25 @@
       "subtitle" : "PyCharm IDE with Anaconda plugin",
       "tintColor" : "528C53",
       "version" : "2020.3.2,203.6682.179"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "resolutionator",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadCount" : 13,
+      "downloadURL" : "https://manytricks.com/download/_do_not_hotlink_/resolutionator220.dmg",
+      "homepage" : "https://manytricks.com/resolutionator/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-resolutionator/AppIcon.png",
+      "impressionCount" : 80,
+      "localizedDescription" : "Use any of your display's available resolutions",
+      "name" : "Resolutionator",
+      "sha256" : "9f2fd542957f70fd45a64aca8804399b44b12d30cc58d9dabda1b8924348769c",
+      "subtitle" : "Use any of your display's available resolutions",
+      "tintColor" : "446486",
+      "version" : "2.2.0,122",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -29869,6 +29909,25 @@
       "tintColor" : "C3AB00",
       "version" : "7.16.1,20220630,60299D",
       "versionDate" : "2022-07-03T01:10:30Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "time-sink",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadCount" : 3,
+      "downloadURL" : "https://manytricks.com/download/_do_not_hotlink_/timesink223.dmg",
+      "homepage" : "https://manytricks.com/timesink/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-time-sink/AppIcon.png",
+      "impressionCount" : 94,
+      "localizedDescription" : "Tracks how you spend your time on your computer",
+      "name" : "Time Sink",
+      "sha256" : "560ebfb30b2203e3376241954c6fe118f6de47f89e27052c06128655852f5b93",
+      "subtitle" : "Tracks how you spend your time on your computer",
+      "tintColor" : "B98ECF",
+      "version" : "2.2.3",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -41050,16 +41109,17 @@
 
       ],
       "downloadCount" : 33,
-      "downloadURL" : "https://github.com/buchen/portfolio/releases/download/0.58.5/PortfolioPerformance-0.58.5-x86_64.dmg",
+      "downloadURL" : "https://github.com/buchen/portfolio/releases/download/0.59.0/PortfolioPerformance-0.59.0-x86_64.dmg",
       "homepage" : "https://www.portfolio-performance.info/en/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-portfolioperformance/AppIcon.png",
       "impressionCount" : 18,
       "localizedDescription" : "Calculate the overall performance of an investment portfolio",
       "name" : "Portfolio Performance",
-      "sha256" : "7afcf97ec3e3153d943f39a6093e841553f24950a246a5af1268594731022d3e",
+      "sha256" : "30816629463882bd8520d209cd6e042df210418e1895e4bf580a880cb13f9fbd",
       "subtitle" : "Calculate the overall performance of an investment portfolio",
       "tintColor" : "CECB7E",
-      "version" : "0.58.5"
+      "version" : "0.59.0",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -45368,16 +45428,17 @@
 
       ],
       "downloadCount" : 9,
-      "downloadURL" : "https://github.com/ATLauncher/ATLauncher/releases/download/v3.4.18.2/ATLauncher-3.4.18.2.zip",
+      "downloadURL" : "https://github.com/ATLauncher/ATLauncher/releases/download/v3.4.19.0/ATLauncher-3.4.19.0.zip",
       "homepage" : "https://atlauncher.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-atlauncher/AppIcon.png",
       "impressionCount" : 19,
       "localizedDescription" : "Minecraft launcher",
       "name" : "ATLauncher",
-      "sha256" : "39976a11e3809905a3c48a2ec4f72c30f4c9d1e190ff81281166a47007fb9793",
+      "sha256" : "f2bafa5cbb5b7a026ed3fd2c73d6876960acad77ce5b60719c13bf786dd5eb58",
       "subtitle" : "Minecraft launcher",
       "tintColor" : "465433",
-      "version" : "3.4.18.2"
+      "version" : "3.4.19.0",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -53061,7 +53122,7 @@
       "homepage" : "https://developer.1password.com/docs/cli",
       "localizedDescription" : "Command-line helper for the 1Password password manager",
       "name" : "1Password CLI",
-      "sha256" : "5de6c3df77d7d7946c15475b57e0ef311222d4c4b231f2110b724ec1c9a2f249",
+      "sha256" : "bf104efd543c2f5a0a309f05ea519dadcd67f49f31669969c3ba2a73a3ef996d",
       "subtitle" : "Command-line helper for the 1Password password manager",
       "version" : "2.5.1"
     },
@@ -55639,6 +55700,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "witch",
+      "categories" : [
+
+      ],
+      "downloadCount" : 83,
+      "downloadURL" : "https://manytricks.com/download/witch",
+      "homepage" : "https://manytricks.com/witch/",
+      "localizedDescription" : "Switch apps, windows, or tabs",
+      "name" : "Witch",
+      "subtitle" : "Switch apps, windows, or tabs",
+      "version" : "4.5.2,3534",
+      "versionDate" : "2022-07-18T03:28:13Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "ibm-cloud-cli",
       "categories" : [
 
@@ -57088,11 +57164,14 @@
 
       ],
       "downloadCount" : 31,
-      "downloadURL" : "https://github.com/dsward2/macSVG/releases/download/v1.1.7/macSVG-v1.1.7.zip",
+      "downloadURL" : "https://github.com/dsward2/macSVG/releases/download/v1.2.0/macSVG-v1.2.zip",
       "homepage" : "https://macsvg.org/",
+      "localizedDescription" : "App for designing HTML5 Scalable Vector Graphics",
       "name" : "macSVG",
-      "sha256" : "a0dbf7636296accf0cee1df7635e8f2a379d32bca48f055030143e0b11091bc8",
-      "version" : "1.1.7"
+      "sha256" : "c25105533150f5f9d28e6b08ac20f346f49999f70af55fa0a3aa4d6093aa37ec",
+      "subtitle" : "App for designing HTML5 Scalable Vector Graphics",
+      "version" : "1.2.0",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -57849,6 +57928,21 @@
       "sha256" : "8d4a65a74417f598a8c9733192b45b0e7c5fb898e108c35e1f70787bc6f9f98e",
       "subtitle" : "Screenshot and screen recorder",
       "version" : "5.9.18,477"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "key-codes",
+      "categories" : [
+
+      ],
+      "downloadCount" : 20,
+      "downloadURL" : "https://manytricks.com/download/keycodes",
+      "homepage" : "https://manytricks.com/keycodes/",
+      "localizedDescription" : "Display key code, unicode value and modifier keys state for any key combination",
+      "name" : "Key Codes",
+      "subtitle" : "Display key code, unicode value and modifier keys state for any key combination",
+      "version" : "2.2.1,2027",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -58796,6 +58890,21 @@
       "sha256" : "4ac6631df3ef05301305a0e299337987c2a2d2f8558edccd41936552c95a8ea9",
       "subtitle" : "VST2/VST3/AU/AAX DSP Server Plugin",
       "version" : "1.1.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "displaperture",
+      "categories" : [
+
+      ],
+      "downloadCount" : 13,
+      "downloadURL" : "https://manytricks.com/download/displaperture",
+      "homepage" : "https://manytricks.com/displaperture/",
+      "localizedDescription" : "Rounds your display corners",
+      "name" : "Displaperture",
+      "subtitle" : "Rounds your display corners",
+      "version" : "2.2,1055",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -60731,6 +60840,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "butler",
+      "categories" : [
+
+      ],
+      "downloadCount" : 6,
+      "downloadURL" : "https://manytricks.com/download/butler",
+      "homepage" : "https://manytricks.com/butler/",
+      "localizedDescription" : "Arrange your tasks in a customizable configuration",
+      "name" : "Butler",
+      "subtitle" : "Arrange your tasks in a customizable configuration",
+      "version" : "4.4.5,5123",
+      "versionDate" : "2022-07-18T03:28:13Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "calmly-writer",
       "categories" : [
 
@@ -61385,6 +61509,21 @@
       "name" : "Sumologic livetail CLI",
       "sha256" : "fd8b3d8521c4be647c8cbb85d02f659d547f2c8825bd3d270e44d0401c4197fa",
       "version" : "2.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "menuwhere",
+      "categories" : [
+
+      ],
+      "downloadCount" : 5,
+      "downloadURL" : "https://manytricks.com/download/menuwhere",
+      "homepage" : "https://manytricks.com/menuwhere/",
+      "localizedDescription" : "Access the menu from anywhere",
+      "name" : "Menuwhere",
+      "subtitle" : "Access the menu from anywhere",
+      "version" : "2.2.1,31",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -62043,6 +62182,21 @@
       "sha256" : "eb16715e0953956bb9668985366c56bfb1af1619bf34b8184b3e872575146d4a",
       "subtitle" : "Mirroring software application for wePresent systems",
       "version" : "2.5.4.90"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "name-mangler",
+      "categories" : [
+
+      ],
+      "downloadCount" : 4,
+      "downloadURL" : "https://manytricks.com/download/namemangler",
+      "homepage" : "https://manytricks.com/namemangler/",
+      "localizedDescription" : "Multi-file renaming tool",
+      "name" : "Name Mangler",
+      "subtitle" : "Multi-file renaming tool",
+      "version" : "3.7.3,3327",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -63736,6 +63890,21 @@
       "sha256" : "870d888488e36f8c15b9d709dc7e4c822adac41390ec74732599686b87944c73",
       "subtitle" : "Real-time 3D rendering",
       "version" : "11.2.0.102"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "leech",
+      "categories" : [
+
+      ],
+      "downloadCount" : 2,
+      "downloadURL" : "https://manytricks.com/download/leech",
+      "homepage" : "https://manytricks.com/leech/",
+      "localizedDescription" : "Lightweight download manager",
+      "name" : "Leech",
+      "subtitle" : "Lightweight download manager",
+      "version" : "3.1.7,3161",
+      "versionDate" : "2022-07-18T03:28:13Z"
     },
     {
       "beta" : false,
@@ -65513,132 +65682,6 @@
   "name" : "App Fair AppCasks",
   "news" : [
     {
-      "appID" : "pagico",
-      "caption" : "Pagico updated from 10,20220621 to 10,20220714",
-      "date" : "2022-07-15T01:17:23Z",
-      "identifier" : "release-pagico-10,20220714",
-      "title" : "New Release: Pagico 10,20220714"
-    },
-    {
-      "appID" : "polkadot-js",
-      "caption" : "polkadot{.js} updated from 0.117.2 to 0.117.3",
-      "date" : "2022-07-15T01:17:24Z",
-      "identifier" : "release-polkadot-js-0.117.3",
-      "title" : "New Release: polkadot{.js} 0.117.3"
-    },
-    {
-      "appID" : "black-ink",
-      "caption" : "Black Ink updated from 2.2.3,3230 to 2.2.4,3263",
-      "date" : "2022-07-15T01:17:24Z",
-      "identifier" : "release-black-ink-2.2.4,3263",
-      "title" : "New Release: Black Ink 2.2.4,3263"
-    },
-    {
-      "appID" : "psychopy",
-      "caption" : "PsychoPy updated from 2022.2.1 to 2022.2.2",
-      "date" : "2022-07-15T01:17:24Z",
-      "identifier" : "release-psychopy-2022.2.2",
-      "title" : "New Release: PsychoPy 2022.2.2"
-    },
-    {
-      "appID" : "superslicer",
-      "caption" : "SuperSlicer updated from 2.3.57.12,220401 to 2.4.58.3,220714",
-      "date" : "2022-07-15T01:17:24Z",
-      "identifier" : "release-superslicer-2.4.58.3,220714",
-      "title" : "New Release: SuperSlicer 2.4.58.3,220714"
-    },
-    {
-      "appID" : "mediathekview",
-      "caption" : "MediathekView updated from 13.9.0 to 13.9.1",
-      "date" : "2022-07-15T01:17:24Z",
-      "identifier" : "release-mediathekview-13.9.1",
-      "title" : "New Release: MediathekView 13.9.1"
-    },
-    {
-      "appID" : "ibackup-viewer",
-      "caption" : "iBackup Viewer updated from 4.2630 to 4.2640",
-      "date" : "2022-07-15T01:17:25Z",
-      "identifier" : "release-ibackup-viewer-4.2640",
-      "title" : "New Release: iBackup Viewer 4.2640"
-    },
-    {
-      "appID" : "cloudflare-warp",
-      "caption" : "Cloudflare WARP updated from 2022.5.342.0,20220616.9 to 2022.7.175.0,20220714.10",
-      "date" : "2022-07-15T01:17:25Z",
-      "identifier" : "release-cloudflare-warp-2022.7.175.0,20220714.10",
-      "title" : "New Release: Cloudflare WARP 2022.7.175.0,20220714.10"
-    },
-    {
-      "appID" : "sfdx",
-      "caption" : "Salesforce DX CLI updated from 7.158.1 to 7.159.0",
-      "date" : "2022-07-15T01:17:25Z",
-      "identifier" : "release-sfdx-7.159.0",
-      "title" : "New Release: Salesforce DX CLI 7.159.0"
-    },
-    {
-      "appID" : "unity",
-      "caption" : "Unity Editor updated from 2022.1.8f1,2961e8c2b463 to 2022.1.9f1,07e076b6d414",
-      "date" : "2022-07-15T01:17:25Z",
-      "identifier" : "release-unity-2022.1.9f1,07e076b6d414",
-      "title" : "New Release: Unity Editor 2022.1.9f1,07e076b6d414"
-    },
-    {
-      "appID" : "bricklink-studio",
-      "caption" : "Studio updated from 2.22.6_1 to 2.22.7_1",
-      "date" : "2022-07-15T01:17:26Z",
-      "identifier" : "release-bricklink-studio-2.22.7_1",
-      "title" : "New Release: Studio 2.22.7_1"
-    },
-    {
-      "appID" : "cinc-workstation",
-      "caption" : "Cinc Workstation updated from 22.6.973 to 22.7.1006",
-      "date" : "2022-07-15T01:17:26Z",
-      "identifier" : "release-cinc-workstation-22.7.1006",
-      "title" : "New Release: Cinc Workstation 22.7.1006"
-    },
-    {
-      "appID" : "weakauras-companion",
-      "caption" : "WeakAuras Companion updated from 4.0.3 to 4.0.4",
-      "date" : "2022-07-15T01:17:26Z",
-      "identifier" : "release-weakauras-companion-4.0.4",
-      "title" : "New Release: WeakAuras Companion 4.0.4"
-    },
-    {
-      "appID" : "hashbackup",
-      "caption" : "HashBackup updated from 3015 to 3032",
-      "date" : "2022-07-15T01:17:26Z",
-      "identifier" : "release-hashbackup-3032",
-      "title" : "New Release: HashBackup 3032"
-    },
-    {
-      "appID" : "daedalus-testnet",
-      "caption" : "Daedalus Testnet updated from 4.11.0,21857 to 4.12.0,22058",
-      "date" : "2022-07-15T01:17:26Z",
-      "identifier" : "release-daedalus-testnet-4.12.0,22058",
-      "title" : "New Release: Daedalus Testnet 4.12.0,22058"
-    },
-    {
-      "appID" : "ptpwebcam",
-      "caption" : "ptpwebcam 1.3.0 released",
-      "date" : "2022-07-15T01:17:26Z",
-      "identifier" : "release-ptpwebcam-1.3.0",
-      "title" : "New Release: ptpwebcam 1.3.0"
-    },
-    {
-      "appID" : "beatunes",
-      "caption" : "beaTunes 5.2.28 released",
-      "date" : "2022-07-15T01:17:27Z",
-      "identifier" : "release-beatunes-5.2.28",
-      "title" : "New Release: beaTunes 5.2.28"
-    },
-    {
-      "appID" : "foxglove-studio",
-      "caption" : "Foxglove Studio 1.17.1 released",
-      "date" : "2022-07-15T01:17:27Z",
-      "identifier" : "release-foxglove-studio-1.17.1",
-      "title" : "New Release: Foxglove Studio 1.17.1"
-    },
-    {
       "appID" : "framer-x",
       "caption" : "Framer X 36854,1590141192 released",
       "date" : "2022-07-15T01:17:27Z",
@@ -65777,13 +65820,6 @@
       "date" : "2022-07-17T01:16:43Z",
       "identifier" : "release-swiftformat-for-xcode-0.49.13",
       "title" : "New Release: SwiftFormat for Xcode 0.49.13"
-    },
-    {
-      "appID" : "netron",
-      "caption" : "Netron updated from 5.9.2 to 5.9.3",
-      "date" : "2022-07-17T01:16:44Z",
-      "identifier" : "release-netron-5.9.3",
-      "title" : "New Release: Netron 5.9.3"
     },
     {
       "appID" : "pdf-expert",
@@ -66211,6 +66247,139 @@
       "date" : "2022-07-17T15:21:25Z",
       "identifier" : "release-karabiner-elements-14.5.0",
       "title" : "New Release: Karabiner Elements 14.5.0"
+    },
+    {
+      "appID" : "stats",
+      "caption" : "Stats updated from 2.7.25 to 2.7.26",
+      "date" : "2022-07-18T03:28:14Z",
+      "identifier" : "release-stats-2.7.26",
+      "title" : "New Release: Stats 2.7.26"
+    },
+    {
+      "appID" : "mmex",
+      "caption" : "Money Manager Ex updated from 1.5.16 to 1.5.17",
+      "date" : "2022-07-18T03:28:14Z",
+      "identifier" : "release-mmex-1.5.17",
+      "title" : "New Release: Money Manager Ex 1.5.17"
+    },
+    {
+      "appID" : "netron",
+      "caption" : "Netron updated from 5.9.3 to 5.9.4",
+      "date" : "2022-07-18T03:28:14Z",
+      "identifier" : "release-netron-5.9.4",
+      "title" : "New Release: Netron 5.9.4"
+    },
+    {
+      "appID" : "texshop",
+      "caption" : "TeXShop updated from 4.77 to 4.78",
+      "date" : "2022-07-18T03:28:14Z",
+      "identifier" : "release-texshop-4.78",
+      "title" : "New Release: TeXShop 4.78"
+    },
+    {
+      "appID" : "mactracker",
+      "caption" : "Mactracker updated from 7.11.3 to 7.11.4",
+      "date" : "2022-07-18T03:28:14Z",
+      "identifier" : "release-mactracker-7.11.4",
+      "title" : "New Release: Mactracker 7.11.4"
+    },
+    {
+      "appID" : "opencore-configurator",
+      "caption" : "OpenCore Configurator updated from 2.61.1.0 to 2.61.2.0",
+      "date" : "2022-07-18T03:28:15Z",
+      "identifier" : "release-opencore-configurator-2.61.2.0",
+      "title" : "New Release: OpenCore Configurator 2.61.2.0"
+    },
+    {
+      "appID" : "portfolioperformance",
+      "caption" : "Portfolio Performance updated from 0.58.5 to 0.59.0",
+      "date" : "2022-07-18T03:28:15Z",
+      "identifier" : "release-portfolioperformance-0.59.0",
+      "title" : "New Release: Portfolio Performance 0.59.0"
+    },
+    {
+      "appID" : "atlauncher",
+      "caption" : "ATLauncher updated from 3.4.18.2 to 3.4.19.0",
+      "date" : "2022-07-18T03:28:15Z",
+      "identifier" : "release-atlauncher-3.4.19.0",
+      "title" : "New Release: ATLauncher 3.4.19.0"
+    },
+    {
+      "appID" : "macsvg",
+      "caption" : "macSVG updated from 1.1.7 to 1.2.0",
+      "date" : "2022-07-18T03:28:15Z",
+      "identifier" : "release-macsvg-1.2.0",
+      "title" : "New Release: macSVG 1.2.0"
+    },
+    {
+      "appID" : "moom",
+      "caption" : "Moom 3.2.25,3349 released",
+      "date" : "2022-07-18T03:28:15Z",
+      "identifier" : "release-moom-3.2.25,3349",
+      "title" : "New Release: Moom 3.2.25,3349"
+    },
+    {
+      "appID" : "resolutionator",
+      "caption" : "Resolutionator 2.2.0,122 released",
+      "date" : "2022-07-18T03:28:15Z",
+      "identifier" : "release-resolutionator-2.2.0,122",
+      "title" : "New Release: Resolutionator 2.2.0,122"
+    },
+    {
+      "appID" : "time-sink",
+      "caption" : "Time Sink 2.2.3 released",
+      "date" : "2022-07-18T03:28:15Z",
+      "identifier" : "release-time-sink-2.2.3",
+      "title" : "New Release: Time Sink 2.2.3"
+    },
+    {
+      "appID" : "witch",
+      "caption" : "Witch 4.5.2,3534 released",
+      "date" : "2022-07-18T03:28:16Z",
+      "identifier" : "release-witch-4.5.2,3534",
+      "title" : "New Release: Witch 4.5.2,3534"
+    },
+    {
+      "appID" : "key-codes",
+      "caption" : "Key Codes 2.2.1,2027 released",
+      "date" : "2022-07-18T03:28:16Z",
+      "identifier" : "release-key-codes-2.2.1,2027",
+      "title" : "New Release: Key Codes 2.2.1,2027"
+    },
+    {
+      "appID" : "displaperture",
+      "caption" : "Displaperture 2.2,1055 released",
+      "date" : "2022-07-18T03:28:16Z",
+      "identifier" : "release-displaperture-2.2,1055",
+      "title" : "New Release: Displaperture 2.2,1055"
+    },
+    {
+      "appID" : "butler",
+      "caption" : "Butler 4.4.5,5123 released",
+      "date" : "2022-07-18T03:28:16Z",
+      "identifier" : "release-butler-4.4.5,5123",
+      "title" : "New Release: Butler 4.4.5,5123"
+    },
+    {
+      "appID" : "menuwhere",
+      "caption" : "Menuwhere 2.2.1,31 released",
+      "date" : "2022-07-18T03:28:16Z",
+      "identifier" : "release-menuwhere-2.2.1,31",
+      "title" : "New Release: Menuwhere 2.2.1,31"
+    },
+    {
+      "appID" : "name-mangler",
+      "caption" : "Name Mangler 3.7.3,3327 released",
+      "date" : "2022-07-18T03:28:16Z",
+      "identifier" : "release-name-mangler-3.7.3,3327",
+      "title" : "New Release: Name Mangler 3.7.3,3327"
+    },
+    {
+      "appID" : "leech",
+      "caption" : "Leech 3.1.7,3161 released",
+      "date" : "2022-07-18T03:28:17Z",
+      "identifier" : "release-leech-3.1.7,3161",
+      "title" : "New Release: Leech 3.1.7,3161"
     }
   ],
   "sourceURL" : "https://www.appfair.net/appcasks.json"

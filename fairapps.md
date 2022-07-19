@@ -23,12 +23,12 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | [``0.8.74``](https://github.com/App-Fair/App/releases/0.8.74) | `169` | `2022-07-16T21:23:37Z` | `9.2 MB` | `483` | `21` | `21` | [``5``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | [``0.8.74``](https://github.com/App-Fair/App/releases/0.8.74) | `171` | `2022-07-16T21:23:37Z` | `9.2 MB` | `483` | `21` | `21` | [``5``](https://github.com/App-Fair/App/issues) |  |
 | [``App Name``](https://App-Name.github.io/App/) | [``0.0.1β``](https://github.com/App-Name/App/releases/0.0.1) | `3` | `2022-07-02T16:38:41Z` | `2 MB` | `767` | `42` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `5` | `2022-05-19T21:18:14Z` | `2.4 MB` | `285` | `50` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `29` | `2022-05-24T14:45:09Z` | `4.5 MB` | `2626` | `502` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | [``0.2.33β``](https://github.com/Bon-Mot/App/releases/0.2.33) | `9` | `2022-01-24T01:55:01Z` | `2.3 MB` | `991` | `86` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | [``0.9.114``](https://github.com/Cloud-Cuckoo/App/releases/0.9.114) | `64` | `2022-07-08T04:39:07Z` | `2 MB` | `1787` | `184` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | [``0.9.114``](https://github.com/Cloud-Cuckoo/App/releases/0.9.114) | `66` | `2022-07-08T04:39:07Z` | `2 MB` | `1787` | `184` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | [``0.0.4β``](https://github.com/Crazy-Glue/App/releases/0.0.4) | `14` | `2022-01-23T23:13:56Z` | `2.3 MB` | `1395` | `145` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | [``0.0.3β``](https://github.com/Down-Town/App/releases/0.0.3) | `10` | `2022-01-25T00:49:11Z` | `2.3 MB` | `763` | `71` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | [``0.0.32β``](https://github.com/Encyclopedia-Galactica/App/releases/0.0.32) | `5` | `2022-01-24T02:35:43Z` | `2.5 MB` | `475` | `44` | `0` | `0` |  |

@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | [``0.8.74``](https://github.com/App-Fair/App/releases/0.8.74) | `161` | `2022-07-16T21:23:37Z` | `9.2 MB` | `482` | `21` | `21` | [``5``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | [``0.8.74``](https://github.com/App-Fair/App/releases/0.8.74) | `164` | `2022-07-16T21:23:37Z` | `9.2 MB` | `482` | `21` | `21` | [``5``](https://github.com/App-Fair/App/issues) |  |
 | [``App Name``](https://App-Name.github.io/App/) | [``0.0.1β``](https://github.com/App-Name/App/releases/0.0.1) | `3` | `2022-07-02T16:38:41Z` | `2 MB` | `767` | `42` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | [``0.0.1β``](https://github.com/App-Title/App/releases/0.0.1) | `5` | `2022-05-19T21:18:14Z` | `2.4 MB` | `285` | `50` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | [``0.1.7``](https://github.com/Blunder-Busq/App/releases/0.1.7) | `29` | `2022-05-24T14:45:09Z` | `4.5 MB` | `2626` | `502` | `1` | `0` |  |
@@ -51,7 +51,7 @@ tr:nth-child(even) {
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | [``0.0.8β``](https://github.com/SQL-Hero/App/releases/0.0.8) | `8` | `2022-01-24T23:34:42Z` | `8.7 MB` | `305` | `30` | `0` | `0` |  |
 | [``Silly Little App``](https://Silly-Little-App.github.io/App/) | [``0.0.1β``](https://github.com/Silly-Little-App/App/releases/0.0.1) | `5` | `2022-07-04T16:28:44Z` | `2 MB` | `473` | `76` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | [``0.0.49β``](https://github.com/Sita-Sings-the-Blues/App/releases/0.0.49) | `5` | `2022-04-08T08:53:44Z` | `1.45 GB` | `323` | `42` | `0` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | [``0.3.35``](https://github.com/Stanza-Redux/App/releases/0.3.35) | `6` | `2022-07-12T00:02:19Z` | `3.8 MB` | `1702` | `105` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | [``0.3.35``](https://github.com/Stanza-Redux/App/releases/0.3.35) | `6` | `2022-07-12T00:02:19Z` | `3.8 MB` | `1703` | `105` | `1` | `0` |  |
 | [``Story Points``](https://Story-Points.github.io/App/) | [``0.0.6β``](https://github.com/Story-Points/App/releases/0.0.6) | `8` | `2022-01-24T01:59:22Z` | `2.4 MB` | `360` | `53` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | [``0.0.20β``](https://github.com/Tidal-Zone/App/releases/0.0.20) | `7` | `2022-02-12T16:07:15Z` | `2.5 MB` | `925` | `53` | `0` | `0` |  |
 | [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | [``0.0.16β``](https://github.com/Trivial-Quiz/App/releases/0.0.16) | `1` | `2022-02-12T16:07:11Z` | `2.5 MB` | `436` | `31` | `0` | `0` |  |

@@ -52,14 +52,9 @@
       "developerName": "fairapps <fairapps@appfair.org>",
       "downloadCount": 2,
       "downloadURL": "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out-iOS.ipa",
-      "fundingLinks": [
-        {
-          "platform": "GITHUB",
-          "url": "https://github.com/appfair"
-        }
-      ],
+      "fundingLinks": [],
       "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out.png",
-      "impressionCount": 2376,
+      "impressionCount": 2377,
       "issueCount": 0,
       "localizedDescription": "Stream Internet Radio",
       "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.442/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
@@ -88,21 +83,7 @@
       "watcherCount": 0
     }
   ],
-  "fundingSources": [
-    {
-      "goals": [
-        {
-          "description": "Attaining our sponsorship goal will enable us to set out a firm roadmap for version 1.0 of the project, as well as break ground on implementing support for additional platforms and integrations.",
-          "kind": "TOTAL_SPONSORS_COUNT",
-          "percentComplete": 0,
-          "targetValue": 100,
-          "title": "100 sponsors"
-        }
-      ],
-      "platform": "GITHUB",
-      "url": "https://github.com/appfair"
-    }
-  ],
+  "fundingSources": [],
   "identifier": "appfair",
   "name": "Fair Apps (iOS)",
   "sourceURL": "https://www.appfair.net/fairapps-altstore.json"

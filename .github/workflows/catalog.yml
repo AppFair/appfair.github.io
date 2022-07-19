@@ -84,7 +84,7 @@ jobs:
             --artifact-extension "zip" \
             --fairseal-issuer "appfairbot" \
             --retry-duration 600 \
-            --catalog-title "The App Fair macOS App Catalog" \
+            --catalog-title "Fair Apps" \
             --allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
             --allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
@@ -137,7 +137,7 @@ jobs:
             --artifact-extension "ipa" \
             --fairseal-issuer "appfairbot" \
             --retry-duration 600 \
-            --catalog-title "The App Fair iOS App Catalog" \
+            --catalog-title "Fair Apps (iOS)" \
             --allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
             --allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \

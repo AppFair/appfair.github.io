@@ -6,17 +6,13 @@
       "categories" : [
 
       ],
-      "coreSize" : 170672,
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadCount" : 187,
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.74/App-Fair-macOS.zip",
       "fundingLinks" : [
 
       ],
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.74/App-Fair.png",
-      "impressionCount" : 533,
-      "issueCount" : 5,
       "localizedDescription" : "Open-source browser and installer for macOS apps and Homebrew casks",
       "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.74/Info.plist#0b2b6a87e0abe5df541c4779cb6cba46f04a6b5ec0484de735216d4464dd9721",
       "name" : "App Fair",
@@ -59,14 +55,20 @@
       ],
       "sha256" : "970d9d1874d4c7ecd3de2d8520f2fb61c4c9100b990ed8e7a175301b78b28e4e",
       "size" : 9170409,
-      "starCount" : 21,
+      "stats" : {
+        "coreSize" : 170672,
+        "downloadCount" : 187,
+        "impressionCount" : 543,
+        "issueCount" : 5,
+        "starCount" : 21,
+        "viewCount" : 23,
+        "watcherCount" : 3
+      },
       "subtitle" : "Open-source browser and installer for macOS apps and Homebrew casks",
       "tintColor" : "1594E8",
       "version" : "0.8.74",
-      "versionDate" : "2022-07-16T21:23:37Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.72...0.8.74",
-      "viewCount" : 22,
-      "watcherCount" : 3
+      "versionDate" : "2022-07-16T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.72...0.8.74"
     },
     {
       "beta" : true,
@@ -74,9 +76,7 @@
       "categories" : [
 
       ],
-      "coreSize" : 170128,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
       "downloadURL" : "https://github.com/App-Name/App/releases/download/0.0.1/App-Name-macOS.zip",
       "fundingLinks" : [
         {
@@ -113,8 +113,6 @@
         }
       ],
       "iconURL" : "https://github.com/App-Name/App/releases/download/0.0.1/App-Name.png",
-      "impressionCount" : 879,
-      "issueCount" : 0,
       "localizedDescription" : "A simple but useful app",
       "metadataURL" : "https://github.com/App-Name/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "App Name",
@@ -124,13 +122,19 @@
       "readmeURL" : "https://github.com/App-Name/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "sha256" : "c35011df91f87df53050827af45638a1876afdd553b2de4cca238f657b7f74e6",
       "size" : 1971109,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 170128,
+        "downloadCount" : 3,
+        "impressionCount" : 897,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 45,
+        "watcherCount" : 0
+      },
       "subtitle" : "A simple but useful app",
       "version" : "0.0.1",
-      "versionDate" : "2022-07-02T16:38:41Z",
-      "versionDescription" : "",
-      "viewCount" : 43,
-      "watcherCount" : 0
+      "versionDate" : "2022-07-02T00:00:00Z",
+      "versionDescription" : ""
     },
     {
       "beta" : true,
@@ -138,16 +142,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 170128,
       "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
-      "downloadCount" : 5,
       "downloadURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title.png",
-      "impressionCount" : 319,
-      "issueCount" : 0,
       "localizedDescription" : "A very useful app indeed",
       "metadataURL" : "https://github.com/App-Title/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "App Title",
@@ -157,12 +157,18 @@
       "readmeURL" : "https://github.com/App-Title/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "sha256" : "cdee27f9a4108574041b293ae1483bd748186d61b74cb165f1e60a7b921a6f45",
       "size" : 2443924,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 170128,
+        "downloadCount" : 5,
+        "impressionCount" : 325,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 54,
+        "watcherCount" : 0
+      },
       "subtitle" : "A very useful app indeed",
       "version" : "0.0.1",
-      "versionDate" : "2022-05-19T21:18:14Z",
-      "viewCount" : 51,
-      "watcherCount" : 0
+      "versionDate" : "2022-05-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -170,17 +176,13 @@
       "categories" : [
 
       ],
-      "coreSize" : 170576,
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadCount" : 29,
       "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
       "fundingLinks" : [
 
       ],
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
-      "impressionCount" : 2678,
-      "issueCount" : 0,
       "localizedDescription" : "App for managing iOS devices",
       "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
       "name" : "Blunder Busq",
@@ -205,14 +207,20 @@
       ],
       "sha256" : "4ec4bc454a71f12fa9abe0dd5ab3ec44d3d9fd2babd2e1c8fad514c1af907100",
       "size" : 4506286,
-      "starCount" : 1,
+      "stats" : {
+        "coreSize" : 170576,
+        "downloadCount" : 29,
+        "impressionCount" : 2685,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 508,
+        "watcherCount" : 1
+      },
       "subtitle" : "App for managing iOS devices",
       "tintColor" : "587FE3",
       "version" : "0.1.7",
-      "versionDate" : "2022-05-24T14:45:09Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7",
-      "viewCount" : 505,
-      "watcherCount" : 1
+      "versionDate" : "2022-05-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
     },
     {
       "beta" : true,
@@ -220,16 +228,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 9,
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
-      "impressionCount" : 1064,
-      "issueCount" : 0,
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Bon Mot",
@@ -250,14 +254,20 @@
       ],
       "sha256" : "188906482b46893630a541618e20f82abff3d2c501df9225392136692f794b36",
       "size" : 2322187,
-      "starCount" : 1,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 9,
+        "impressionCount" : 1074,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 90,
+        "watcherCount" : 0
+      },
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
       "version" : "0.2.33",
-      "versionDate" : "2022-01-24T01:55:01Z",
-      "versionDescription" : "Release 0.2.33",
-      "viewCount" : 87,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.2.33"
     },
     {
       "beta" : false,
@@ -265,16 +275,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102400,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 67,
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo.png",
-      "impressionCount" : 1891,
-      "issueCount" : 0,
       "localizedDescription" : "A whimsical game of excitement and delight",
       "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Info.plist#678580e1d240a21b0bc55c886a427dc6dcd737ee740da1caaa4cdd13efc31360",
       "name" : "Cloud Cuckoo",
@@ -291,14 +297,20 @@
       ],
       "sha256" : "8e491ea6612abbfd0fbadfc1107b1ab806bdb19439e7bebf196c1e95ee493351",
       "size" : 2026147,
-      "starCount" : 1,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 80,
+        "impressionCount" : 1906,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 192,
+        "watcherCount" : 0
+      },
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
       "version" : "0.9.114",
-      "versionDate" : "2022-07-08T04:39:07Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.113...0.9.114",
-      "viewCount" : 188,
-      "watcherCount" : 0
+      "versionDate" : "2022-07-08T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.113...0.9.114"
     },
     {
       "beta" : true,
@@ -306,16 +318,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 14,
       "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "impressionCount" : 1463,
-      "issueCount" : 0,
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Crazy Glue",
@@ -328,13 +336,19 @@
       ],
       "sha256" : "bb88aca0dda7fed7a8fb7c8d0c292357e90d6326e1667f2dd8947f1b11f04eac",
       "size" : 2317729,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 14,
+        "impressionCount" : 1472,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 149,
+        "watcherCount" : 0
+      },
       "subtitle" : "Putting the pieces back together",
       "version" : "0.0.4",
-      "versionDate" : "2022-01-23T23:13:56Z",
-      "versionDescription" : "Release 0.0.4",
-      "viewCount" : 146,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-23T00:00:00Z",
+      "versionDescription" : "Release 0.0.4"
     },
     {
       "beta" : true,
@@ -342,16 +356,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 10,
       "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "impressionCount" : 831,
-      "issueCount" : 0,
       "localizedDescription" : "An urban street guide",
       "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Down Town",
@@ -365,13 +375,19 @@
       ],
       "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
       "size" : 2338254,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 10,
+        "impressionCount" : 839,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 74,
+        "watcherCount" : 0
+      },
       "subtitle" : "An urban street guide",
       "version" : "0.0.3",
-      "versionDate" : "2022-01-25T00:49:11Z",
-      "versionDescription" : "Release 0.0.3",
-      "viewCount" : 72,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-25T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -379,16 +395,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68376,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica.png",
-      "impressionCount" : 533,
-      "issueCount" : 0,
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
       "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Encyclopedia Galactica",
@@ -401,13 +413,19 @@
       "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "sha256" : "628b345aa3bf7e9cc0dc778d9369aabc96219ad24ba8bc4ffc262a133a0d484a",
       "size" : 2451488,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68376,
+        "downloadCount" : 5,
+        "impressionCount" : 540,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 46,
+        "watcherCount" : 0
+      },
       "subtitle" : "All the accumulated knowledge in the galaxy",
       "version" : "0.0.32",
-      "versionDate" : "2022-01-24T02:35:43Z",
-      "versionDescription" : "Release 0.0.32",
-      "viewCount" : 44,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.32"
     },
     {
       "beta" : true,
@@ -415,16 +433,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 152640,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Eternal-September-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Eternal-September.png",
-      "impressionCount" : 293,
-      "issueCount" : 0,
       "localizedDescription" : "An app for learning Roman Numerals",
       "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Info.plist#5af4bf8fcdb5c153dd6d420a4ea10fd8664b88c04dc7d374db849f7d9ccd43ee",
       "name" : "Eternal September",
@@ -434,13 +448,19 @@
       "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/README.md#721eb5f81ec8d74a19278cd6ff67d62ef22beecdc29657d3f3c65254f4b90a13",
       "sha256" : "4251fc77459c4621f0b52014fa2f76b8e73996bd07e5da04df4550649f586bb1",
       "size" : 2471831,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 152640,
+        "downloadCount" : 4,
+        "impressionCount" : 298,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 36,
+        "watcherCount" : 0
+      },
       "subtitle" : "An app for learning Roman Numerals",
       "version" : "0.0.32",
-      "versionDate" : "2022-01-26T22:20:37Z",
-      "versionDescription" : "Release 0.0.32",
-      "viewCount" : 34,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-26T00:00:00Z",
+      "versionDescription" : "Release 0.0.32"
     },
     {
       "beta" : true,
@@ -448,16 +468,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 7,
       "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
-      "impressionCount" : 909,
-      "issueCount" : 0,
       "localizedDescription" : "A true Festivus celebration",
       "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Festivus Pole",
@@ -470,13 +486,19 @@
       ],
       "sha256" : "4c85036bb30f16b52bb03b4781cd6c8c299a548ed568ee25eac226ef95829c4c",
       "size" : 2324945,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68368,
+        "downloadCount" : 7,
+        "impressionCount" : 916,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 78,
+        "watcherCount" : 0
+      },
       "subtitle" : "A true Festivus celebration",
       "version" : "0.0.3",
-      "versionDate" : "2022-01-23T23:13:54Z",
-      "versionDescription" : "Release 0.0.3",
-      "viewCount" : 76,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-23T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -484,16 +506,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
-      "impressionCount" : 944,
-      "issueCount" : 0,
       "localizedDescription" : "There, I fixed the web for you. You're welcome.",
       "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Fox Glove",
@@ -507,13 +525,19 @@
       ],
       "sha256" : "b1c654805f85e21d51803ac45995486c60d4b7b9a8f5b4d648497f63fa5f42fa",
       "size" : 2427021,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 4,
+        "impressionCount" : 950,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 76,
+        "watcherCount" : 0
+      },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
       "version" : "0.0.4",
-      "versionDate" : "2022-01-23T23:13:52Z",
-      "versionDescription" : "Release 0.0.4",
-      "viewCount" : 75,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-23T00:00:00Z",
+      "versionDescription" : "Release 0.0.4"
     },
     {
       "beta" : true,
@@ -521,16 +545,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 7,
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell.png",
-      "impressionCount" : 538,
-      "issueCount" : 0,
       "localizedDescription" : "Identify ambient sounds.",
       "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Info.plist#263a3737ed9d259afbaf4020b17e232339ca0bd4e981a0d8d160ba52476ec460",
       "name" : "Hear Tell",
@@ -543,13 +563,19 @@
       "readmeURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "sha256" : "637b46022cb1ac3b100471d8f7dff1cba01a1d552369f927e5eefa3ded6c93bc",
       "size" : 2309731,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 7,
+        "impressionCount" : 544,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 47,
+        "watcherCount" : 0
+      },
       "subtitle" : "Identify ambient sounds.",
       "version" : "0.3.38",
-      "versionDate" : "2022-01-26T22:12:32Z",
-      "versionDescription" : "Release 0.3.38",
-      "viewCount" : 46,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-26T00:00:00Z",
+      "versionDescription" : "Release 0.3.38"
     },
     {
       "beta" : true,
@@ -557,16 +583,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Hex-Loupe.png",
-      "impressionCount" : 1091,
-      "issueCount" : 0,
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.19/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
       "name" : "Hex Loupe",
@@ -585,14 +607,20 @@
       ],
       "sha256" : "a9c42456620c7e1bde3d434d2ccb2d99084168bfa235b22d0a62cc32a916e486",
       "size" : 2591271,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 102472,
+        "downloadCount" : 4,
+        "impressionCount" : 1097,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 89,
+        "watcherCount" : 0
+      },
       "subtitle" : "A hex viewer",
       "tintColor" : "A008FF",
       "version" : "0.0.19",
-      "versionDate" : "2022-04-06T16:11:00Z",
-      "versionDescription" : "Release 0.0.19",
-      "viewCount" : 89,
-      "watcherCount" : 0
+      "versionDate" : "2022-04-06T00:00:00Z",
+      "versionDescription" : "Release 0.0.19"
     },
     {
       "beta" : true,
@@ -600,16 +628,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.7/Huffle-Puff-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.7/Huffle-Puff.png",
-      "impressionCount" : 417,
-      "issueCount" : 0,
       "localizedDescription" : "H.R. Huffle Puff ",
       "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Huffle Puff",
@@ -619,13 +643,19 @@
       "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "sha256" : "de70cbd5d9af1cd40a5a4fe6cb761f3f8186ff97adc6c94be14325d7784fb23b",
       "size" : 2246786,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 152608,
+        "downloadCount" : 4,
+        "impressionCount" : 420,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 44,
+        "watcherCount" : 0
+      },
       "subtitle" : "H.R. Huffle Puff ",
       "version" : "0.0.7",
-      "versionDate" : "2022-01-24T01:54:53Z",
-      "versionDescription" : "Release 0.0.7",
-      "viewCount" : 44,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.7"
     },
     {
       "beta" : false,
@@ -633,16 +663,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102576,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion.png",
-      "impressionCount" : 1311,
-      "issueCount" : 0,
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
       "name" : "Lottie Motion",
@@ -659,13 +685,19 @@
       ],
       "sha256" : "810cb81f8d0a6e27e5b3668960cc39cd79afb894e77e42dd9e7bb45618d41034",
       "size" : 3325159,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 102576,
+        "downloadCount" : 5,
+        "impressionCount" : 1315,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 130,
+        "watcherCount" : 0
+      },
       "subtitle" : "Preview and experiment with Lottie animations",
       "version" : "0.0.87",
-      "versionDate" : "2022-04-06T15:01:42Z",
-      "versionDescription" : "Release 0.0.87",
-      "viewCount" : 130,
-      "watcherCount" : 0
+      "versionDate" : "2022-04-06T00:00:00Z",
+      "versionDescription" : "Release 0.0.87"
     },
     {
       "beta" : true,
@@ -673,16 +705,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course.png",
-      "impressionCount" : 722,
-      "issueCount" : 0,
       "localizedDescription" : "An offline recipe book",
       "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Main Course",
@@ -696,13 +724,19 @@
       ],
       "sha256" : "61d9aafa6bbde8fc57effa4a9bc46823453042a33d5ffccf2ee49da7cc32574f",
       "size" : 13167122,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 5,
+        "impressionCount" : 724,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 51,
+        "watcherCount" : 0
+      },
       "subtitle" : "An offline recipe book",
       "version" : "0.0.15",
-      "versionDate" : "2022-01-24T14:09:10Z",
-      "versionDescription" : "Release 0.0.15",
-      "viewCount" : 51,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.15"
     },
     {
       "beta" : true,
@@ -710,16 +744,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68344,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res.png",
-      "impressionCount" : 882,
-      "issueCount" : 0,
       "localizedDescription" : "Art imitating Life (imitating Art)",
       "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Media Res",
@@ -733,13 +763,19 @@
       ],
       "sha256" : "ec1eb7ae225c3031d06a93b032fbb4f5947a2eff6264446e3c3ebd452ac7faf0",
       "size" : 2356646,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 5,
+        "impressionCount" : 884,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 53,
+        "watcherCount" : 0
+      },
       "subtitle" : "Art imitating Life (imitating Art)",
       "version" : "0.0.17",
-      "versionDate" : "2022-01-24T04:09:17Z",
-      "versionDescription" : "Release 0.0.17",
-      "viewCount" : 53,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.17"
     },
     {
       "beta" : true,
@@ -747,16 +783,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 7,
       "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector.png",
-      "impressionCount" : 575,
-      "issueCount" : 0,
       "localizedDescription" : "A vector drawing app",
       "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Micro Vector",
@@ -770,13 +802,19 @@
       ],
       "sha256" : "62d9c7a67c652dd3504c0574780869dcba80b5cae7617cb05790e0028d5fc482",
       "size" : 2791600,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 152624,
+        "downloadCount" : 7,
+        "impressionCount" : 575,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 53,
+        "watcherCount" : 0
+      },
       "subtitle" : "A vector drawing app",
       "version" : "0.0.8",
-      "versionDate" : "2022-01-24T23:35:02Z",
-      "versionDescription" : "Release 0.0.8",
-      "viewCount" : 53,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.8"
     },
     {
       "beta" : true,
@@ -784,16 +822,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense.png",
-      "impressionCount" : 757,
-      "issueCount" : 0,
       "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Name Sense",
@@ -807,13 +841,19 @@
       ],
       "sha256" : "44460c1912eb428c3c4a1d45791c1fe51d060489640854c73a420b07c4e1f6d8",
       "size" : 2650836,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 102472,
+        "downloadCount" : 4,
+        "impressionCount" : 759,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 47,
+        "watcherCount" : 0
+      },
       "subtitle" : "A name picking app",
       "version" : "0.0.24",
-      "versionDate" : "2022-02-12T14:56:58Z",
-      "versionDescription" : "Release 0.0.24",
-      "viewCount" : 47,
-      "watcherCount" : 0
+      "versionDate" : "2022-02-12T00:00:00Z",
+      "versionDescription" : "Release 0.0.24"
     },
     {
       "beta" : false,
@@ -821,16 +861,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 16,
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "impressionCount" : 2580,
-      "issueCount" : 0,
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
       "name" : "Net Skip",
@@ -855,13 +891,19 @@
       ],
       "sha256" : "93b676dee4a4c71809dfe57966f38ac739902432bc5ab501cd87e36bb45e2ed6",
       "size" : 3687703,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 102472,
+        "downloadCount" : 16,
+        "impressionCount" : 2584,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 443,
+        "watcherCount" : 0
+      },
       "subtitle" : "Web browsing for the connoisseur",
       "version" : "0.0.42",
-      "versionDate" : "2022-05-26T14:16:43Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42",
-      "viewCount" : 443,
-      "watcherCount" : 0
+      "versionDate" : "2022-05-26T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42"
     },
     {
       "beta" : true,
@@ -869,16 +911,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 153232,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Neural-Scry-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Neural-Scry.png",
-      "impressionCount" : 122,
-      "issueCount" : 0,
       "localizedDescription" : "Brain scanner",
       "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Info.plist#2215eff2478180960a9c3d722d16eb05a760a8a09dab75af2881197aaff61bd1",
       "name" : "Neural Scry",
@@ -915,13 +953,19 @@
       "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/README.md#f9af449c34702872740ca1db657be31a62c8caa3f1dc77e96d64a0fb040ef186",
       "sha256" : "b88e1400b49f2a9949e4acd5564bbb41415b3d244a309eee5f73ecbf20ff09ab",
       "size" : 2306403,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 153232,
+        "downloadCount" : 4,
+        "impressionCount" : 122,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 17,
+        "watcherCount" : 0
+      },
       "subtitle" : "Brain scanner",
       "version" : "0.0.51",
-      "versionDate" : "2022-01-16T15:48:12Z",
-      "versionDescription" : "Release 0.0.51",
-      "viewCount" : 17,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-16T00:00:00Z",
+      "versionDescription" : "Release 0.0.51"
     },
     {
       "beta" : false,
@@ -929,16 +973,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 152800,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 21,
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "impressionCount" : 2338,
-      "issueCount" : 0,
       "localizedDescription" : "Syntactic Text Editor",
       "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
       "name" : "Next Edit",
@@ -954,13 +994,19 @@
       ],
       "sha256" : "6ee478349595968078112b52bbde2bf14753271fd31531bea7c0bca10977d28a",
       "size" : 6702858,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 152800,
+        "downloadCount" : 21,
+        "impressionCount" : 2339,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 434,
+        "watcherCount" : 0
+      },
       "subtitle" : "Syntactic Text Editor",
       "version" : "0.4.18",
-      "versionDate" : "2022-01-20T03:44:49Z",
-      "versionDescription" : "Release 0.4.18",
-      "viewCount" : 434,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-20T00:00:00Z",
+      "versionDescription" : "Release 0.4.18"
     },
     {
       "beta" : true,
@@ -968,16 +1014,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon.png",
-      "impressionCount" : 334,
-      "issueCount" : 0,
       "localizedDescription" : "Watch the Watchers",
       "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Pan Opticon",
@@ -991,14 +1033,20 @@
       ],
       "sha256" : "6f6765b12411f568825a8def3d0187ca12f2d3d1f9ce62edc8dc6d8c4151fce8",
       "size" : 2617474,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68360,
+        "downloadCount" : 4,
+        "impressionCount" : 334,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 38,
+        "watcherCount" : 0
+      },
       "subtitle" : "Watch the Watchers",
       "tintColor" : "CC00AA",
       "version" : "0.2.22",
-      "versionDate" : "2022-01-24T11:51:13Z",
-      "versionDescription" : "Release 0.2.22",
-      "viewCount" : 38,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.2.22"
     },
     {
       "beta" : true,
@@ -1006,16 +1054,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 152640,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light.png",
-      "impressionCount" : 687,
-      "issueCount" : 0,
       "localizedDescription" : "무궁화 꽃이 피었습니다",
       "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Red Light Green Light",
@@ -1029,13 +1073,19 @@
       ],
       "sha256" : "9074f553a7b0f8817aa76aa7cd302bb62af52c9fbca7ced06805ddfeab0526d6",
       "size" : 2448634,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 152640,
+        "downloadCount" : 4,
+        "impressionCount" : 688,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 47,
+        "watcherCount" : 0
+      },
       "subtitle" : "무궁화 꽃이 피었습니다",
       "version" : "0.0.12",
-      "versionDate" : "2022-02-02T02:04:48Z",
-      "versionDescription" : "Release 0.0.12",
-      "viewCount" : 47,
-      "watcherCount" : 0
+      "versionDate" : "2022-02-02T00:00:00Z",
+      "versionDescription" : "Release 0.0.12"
     },
     {
       "beta" : true,
@@ -1043,16 +1093,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 152704,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 8,
       "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero.png",
-      "impressionCount" : 309,
-      "issueCount" : 0,
       "localizedDescription" : "Query Like a Boss",
       "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/Info.plist#f4f5af5e949181c450648183357dc49105d946769ffbc87050c930326d2ff8c5",
       "name" : "SQL Hero",
@@ -1077,13 +1123,19 @@
       ],
       "sha256" : "7b7acaf8df44e8d45ff3cd38b9b0273cbe4147d00ded68d55e2608ccc8b2068a",
       "size" : 8727214,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 152704,
+        "downloadCount" : 8,
+        "impressionCount" : 309,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 30,
+        "watcherCount" : 0
+      },
       "subtitle" : "Query Like a Boss",
       "version" : "0.0.8",
-      "versionDate" : "2022-01-24T23:34:42Z",
-      "versionDescription" : "Release 0.0.8",
-      "viewCount" : 30,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.8"
     },
     {
       "beta" : true,
@@ -1091,16 +1143,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 170144,
       "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
-      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Silly-Little-App-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Silly-Little-App.png",
-      "impressionCount" : 495,
-      "issueCount" : 0,
       "localizedDescription" : "A simple little app to demonstrate the App Fair",
       "metadataURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Silly Little App",
@@ -1110,13 +1158,19 @@
       "readmeURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/README.md#e72aab68c394821d6a058ec5fb365b734d06301321a1b882ef9d27411fcdcec9",
       "sha256" : "91e9f817b8f49ba57115b3abe7e327e295f15f4b2b28c3c0f188fc64d1e6f819",
       "size" : 1971250,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 5,
+        "impressionCount" : 499,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 77,
+        "watcherCount" : 0
+      },
       "subtitle" : "A simple little app to demonstrate the App Fair",
       "version" : "0.0.1",
-      "versionDate" : "2022-07-04T16:28:44Z",
-      "versionDescription" : "",
-      "viewCount" : 77,
-      "watcherCount" : 0
+      "versionDate" : "2022-07-04T00:00:00Z",
+      "versionDescription" : ""
     },
     {
       "beta" : true,
@@ -1124,16 +1178,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102952,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 5,
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues.png",
-      "impressionCount" : 330,
-      "issueCount" : 0,
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Sita Sings the Blues",
@@ -1148,13 +1198,19 @@
       ],
       "sha256" : "4f1c7a3e65440f41b2e9a8f8b4d5774dcf52e4566f35bdce470fca0c63199247",
       "size" : 1454736702,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 102952,
+        "downloadCount" : 5,
+        "impressionCount" : 330,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 45,
+        "watcherCount" : 0
+      },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
       "version" : "0.0.49",
-      "versionDate" : "2022-04-08T08:53:44Z",
-      "versionDescription" : "Release 0.0.49",
-      "viewCount" : 45,
-      "watcherCount" : 0
+      "versionDate" : "2022-04-08T00:00:00Z",
+      "versionDescription" : "Release 0.0.49"
     },
     {
       "beta" : false,
@@ -1162,16 +1218,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 6,
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Stanza-Redux-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Stanza-Redux.png",
-      "impressionCount" : 1792,
-      "issueCount" : 0,
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
       "name" : "Stanza Redux",
@@ -1192,14 +1244,20 @@
       ],
       "sha256" : "acf773119a31e370073ae532c14e5dbf1724cb5b4d8374d32ac176ea7e53ee0a",
       "size" : 3750789,
-      "starCount" : 1,
+      "stats" : {
+        "coreSize" : 102480,
+        "downloadCount" : 6,
+        "impressionCount" : 1804,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 107,
+        "watcherCount" : 0
+      },
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
       "version" : "0.3.35",
-      "versionDate" : "2022-07-12T00:02:19Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.34...0.3.35",
-      "viewCount" : 107,
-      "watcherCount" : 0
+      "versionDate" : "2022-07-12T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.34...0.3.35"
     },
     {
       "beta" : true,
@@ -1207,16 +1265,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 152624,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 8,
       "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points.png",
-      "impressionCount" : 364,
-      "issueCount" : 0,
       "localizedDescription" : "UX Design Tool",
       "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Story Points",
@@ -1230,13 +1284,19 @@
       ],
       "sha256" : "e6b3bff7dd943fea8dfab2ee57d61a454bd8c4ddb2f443ed649cd93729352f8c",
       "size" : 2383127,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 152624,
+        "downloadCount" : 8,
+        "impressionCount" : 364,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 53,
+        "watcherCount" : 0
+      },
       "subtitle" : "UX Design Tool",
       "version" : "0.0.6",
-      "versionDate" : "2022-01-24T01:59:22Z",
-      "versionDescription" : "Release 0.0.6",
-      "viewCount" : 53,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.6"
     },
     {
       "beta" : true,
@@ -1244,16 +1304,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102472,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 7,
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "impressionCount" : 941,
-      "issueCount" : 0,
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
       "name" : "Tidal Zone",
@@ -1266,13 +1322,19 @@
       ],
       "sha256" : "db951840a4f86b2e0589cb1b41b2c8695570af19f0af03dafb5d79af5fa2734f",
       "size" : 2539951,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 102472,
+        "downloadCount" : 7,
+        "impressionCount" : 942,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 54,
+        "watcherCount" : 0
+      },
       "subtitle" : "What tide is it right now?",
       "version" : "0.0.20",
-      "versionDate" : "2022-02-12T16:07:15Z",
-      "versionDescription" : "Release 0.0.20",
-      "viewCount" : 54,
-      "watcherCount" : 0
+      "versionDate" : "2022-02-12T00:00:00Z",
+      "versionDescription" : "Release 0.0.20"
     },
     {
       "beta" : true,
@@ -1280,16 +1342,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102480,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 1,
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz.png",
-      "impressionCount" : 444,
-      "issueCount" : 0,
       "localizedDescription" : "A little quiz game",
       "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Trivial Quiz",
@@ -1303,13 +1361,19 @@
       ],
       "sha256" : "8eb419e580e42211fd47a3e67e62f2b6a80f0e191695a3891451e49530d203f4",
       "size" : 2472954,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 102480,
+        "downloadCount" : 1,
+        "impressionCount" : 445,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 32,
+        "watcherCount" : 0
+      },
       "subtitle" : "A little quiz game",
       "version" : "0.0.16",
-      "versionDate" : "2022-02-12T16:07:11Z",
-      "versionDescription" : "Release 0.0.16",
-      "viewCount" : 32,
-      "watcherCount" : 0
+      "versionDate" : "2022-02-12T00:00:00Z",
+      "versionDescription" : "Release 0.0.16"
     },
     {
       "beta" : false,
@@ -1317,16 +1381,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 103112,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 15,
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out.png",
-      "impressionCount" : 2463,
-      "issueCount" : 0,
       "localizedDescription" : "Stream Internet Radio",
       "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
       "name" : "Tune Out",
@@ -1347,14 +1407,20 @@
       ],
       "sha256" : "b73738ab91323ddd0f67053bdb0588ac726544554ef8dbe2fd52f17804283c58",
       "size" : 9378224,
-      "starCount" : 1,
+      "stats" : {
+        "coreSize" : 103112,
+        "downloadCount" : 15,
+        "impressionCount" : 2475,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 153,
+        "watcherCount" : 0
+      },
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
       "version" : "0.8.442",
-      "versionDate" : "2022-07-06T13:11:16Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.441...0.8.442",
-      "viewCount" : 153,
-      "watcherCount" : 0
+      "versionDate" : "2022-07-06T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.441...0.8.442"
     },
     {
       "beta" : true,
@@ -1362,16 +1428,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 102392,
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadCount" : 2,
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
-      "impressionCount" : 306,
-      "issueCount" : 0,
       "localizedDescription" : "Unleash your inner dialog",
       "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Tweet Storm",
@@ -1381,13 +1443,19 @@
       "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "sha256" : "98dbae297fcc754e3695a96c65a3e18b91e887353e7348ed2287914740c56564",
       "size" : 2624128,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 2,
+        "impressionCount" : 306,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 18,
+        "watcherCount" : 0
+      },
       "subtitle" : "Unleash your inner dialog",
       "version" : "0.0.12",
-      "versionDate" : "2022-05-01T12:44:04Z",
-      "versionDescription" : "Release 0.0.12",
-      "viewCount" : 18,
-      "watcherCount" : 0
+      "versionDate" : "2022-05-01T00:00:00Z",
+      "versionDescription" : "Release 0.0.12"
     },
     {
       "beta" : true,
@@ -1395,16 +1463,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
-      "impressionCount" : 378,
-      "issueCount" : 0,
       "localizedDescription" : "A bit of lite reading",
       "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Ultra Light",
@@ -1420,13 +1484,19 @@
       ],
       "sha256" : "633d678f1dcf6a960ecab0ecff581f2ceb6c1e191e2b7bfea5ba67b4173cdcb1",
       "size" : 2271510,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68360,
+        "downloadCount" : 3,
+        "impressionCount" : 378,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 40,
+        "watcherCount" : 0
+      },
       "subtitle" : "A bit of lite reading",
       "version" : "0.0.7",
-      "versionDate" : "2022-01-21T14:04:24Z",
-      "versionDescription" : "Release 0.0.7",
-      "viewCount" : 40,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-21T00:00:00Z",
+      "versionDescription" : "Release 0.0.7"
     },
     {
       "beta" : true,
@@ -1434,16 +1504,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68368,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 3,
       "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose.png",
-      "impressionCount" : 345,
-      "issueCount" : 0,
       "localizedDescription" : "An unclear app",
       "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Unclear Purpose",
@@ -1453,13 +1519,19 @@
       "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "sha256" : "7e52be3c6558eddf0eab2c32d5069a48036241fc6e118570a6b2a0654fcd8a79",
       "size" : 2323720,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68368,
+        "downloadCount" : 3,
+        "impressionCount" : 345,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 25,
+        "watcherCount" : 0
+      },
       "subtitle" : "An unclear app",
       "version" : "0.0.5",
-      "versionDate" : "2022-01-25T00:48:27Z",
-      "versionDescription" : "Release 0.0.5",
-      "viewCount" : 25,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-25T00:00:00Z",
+      "versionDescription" : "Release 0.0.5"
     },
     {
       "beta" : true,
@@ -1467,16 +1539,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 152608,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 8,
       "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc.png",
-      "impressionCount" : 555,
-      "issueCount" : 0,
       "localizedDescription" : "A business app for business-folk",
       "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Info.plist#d1d3028fa679289adb1356dbcf36b05a7b11590f77677c0eb908ad3a8fd8b75f",
       "name" : "Visi Calc",
@@ -1486,13 +1554,19 @@
       "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
       "sha256" : "43841499d299d2bf7aa617cd14df2026c4f7c0a95be9d6c1eefe265e6a6883ca",
       "size" : 4734574,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 152608,
+        "downloadCount" : 8,
+        "impressionCount" : 555,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 29,
+        "watcherCount" : 0
+      },
       "subtitle" : "A business app for business-folk",
       "version" : "0.0.37",
-      "versionDate" : "2022-01-24T01:59:51Z",
-      "versionDescription" : "Release 0.0.37",
-      "viewCount" : 29,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.37"
     },
     {
       "beta" : true,
@@ -1500,16 +1574,12 @@
       "categories" : [
 
       ],
-      "coreSize" : 68360,
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadCount" : 4,
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-macOS.zip",
       "fundingLinks" : [
 
       ],
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
-      "impressionCount" : 980,
-      "issueCount" : 0,
       "localizedDescription" : "Old-time horse trading",
       "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Yankee Swap",
@@ -1522,20 +1592,26 @@
       ],
       "sha256" : "939c72e726019d26d6d225dd5a6d3d099a7aa662e65b82ff91ce268acb5e40a7",
       "size" : 2378046,
-      "starCount" : 0,
+      "stats" : {
+        "coreSize" : 68360,
+        "downloadCount" : 4,
+        "impressionCount" : 990,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 33,
+        "watcherCount" : 0
+      },
       "subtitle" : "Old-time horse trading",
       "tintColor" : "3C82C1",
       "version" : "0.0.11",
-      "versionDate" : "2022-01-24T14:24:10Z",
-      "versionDescription" : "Release 0.0.11",
-      "viewCount" : 33,
-      "watcherCount" : 0
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.11"
     }
   ],
   "fundingSources" : [
 
   ],
-  "identifier" : "appfair",
+  "identifier" : "net.appfair.fairapps-macos",
   "name" : "Fair Apps",
   "news" : [
     {
@@ -1574,5 +1650,6 @@
       "title" : "New Release: App Fair 0.8.74"
     }
   ],
+  "platform" : "macos",
   "sourceURL" : "https://www.appfair.net/fairapps-macos.json"
 }

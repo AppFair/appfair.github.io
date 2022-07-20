@@ -25,7 +25,7 @@
       "sha256" : "838a8a1c1d18911e009fe0160be8053da9c5338418fcdb007560788f085cff4d",
       "stats" : {
         "downloadCount" : 2656,
-        "impressionCount" : 7749,
+        "impressionCount" : 7753,
         "viewCount" : 793
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,8 +57,8 @@
       "sha256" : "b63a1aaf440c0eb7040914ddcc6052f5dcee65fdc48d52ca626931b7da92ba0d",
       "stats" : {
         "downloadCount" : 13518,
-        "impressionCount" : 6635,
-        "viewCount" : 795
+        "impressionCount" : 6638,
+        "viewCount" : 796
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -90,8 +90,8 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 7796,
-        "impressionCount" : 5880,
-        "viewCount" : 564
+        "impressionCount" : 5883,
+        "viewCount" : 565
       },
       "subtitle" : "Multimedia player",
       "tintColor" : "E5984A",
@@ -124,8 +124,8 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28252,
-        "impressionCount" : 5955,
-        "viewCount" : 495
+        "impressionCount" : 5958,
+        "viewCount" : 496
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
       "tintColor" : "202B2A",
@@ -149,8 +149,8 @@
       ],
       "stats" : {
         "downloadCount" : 7530,
-        "impressionCount" : 6184,
-        "viewCount" : 550
+        "impressionCount" : 6187,
+        "viewCount" : 551
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5356,
-        "impressionCount" : 5908,
+        "impressionCount" : 5910,
         "viewCount" : 422
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 2994,
-        "impressionCount" : 5512,
+        "impressionCount" : 5514,
         "viewCount" : 460
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "3e66b5d0863937f8f12425dea13422174c3a75778d38aefd541a7be3f94d809d",
       "stats" : {
         "downloadCount" : 2667,
-        "impressionCount" : 6163,
+        "impressionCount" : 6165,
         "viewCount" : 490
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -263,7 +263,7 @@
       ],
       "stats" : {
         "downloadCount" : 2544,
-        "impressionCount" : 4569,
+        "impressionCount" : 4571,
         "viewCount" : 318
       },
       "subtitle" : "Video game digital distribution service",
@@ -296,7 +296,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2018,
-        "impressionCount" : 6191,
+        "impressionCount" : 6193,
         "viewCount" : 757
       },
       "subtitle" : "File archiver",
@@ -322,7 +322,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1727,
-        "impressionCount" : 5228,
+        "impressionCount" : 5230,
         "viewCount" : 360
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -350,7 +350,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1324,
-        "impressionCount" : 4668,
+        "impressionCount" : 4670,
         "viewCount" : 391
       },
       "subtitle" : "Open-source Markdown editor",
@@ -381,7 +381,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1162,
-        "impressionCount" : 6188,
+        "impressionCount" : 6190,
         "viewCount" : 419
       },
       "subtitle" : "3D creation suite",
@@ -438,7 +438,7 @@
       "sha256" : "c603a81036e7dab04e5daee70e1811675a859f833ae6aa713aca5bfc8a26c977",
       "stats" : {
         "downloadCount" : 520,
-        "impressionCount" : 4530,
+        "impressionCount" : 4532,
         "viewCount" : 272
       },
       "subtitle" : "Text editor",
@@ -3228,7 +3228,7 @@
       "sha256" : "cbf77223c66b5438bbb89ea3a658430cea0e230fe5a9b88b42bf048ef805964a",
       "stats" : {
         "downloadCount" : 2759,
-        "impressionCount" : 1099
+        "impressionCount" : 1103
       },
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
@@ -4681,7 +4681,7 @@
       "subtitle" : "App for note taking, organizing, task lists, and archiving",
       "tintColor" : "A2DFB2",
       "version" : "10.41.4,3525,e9fd61c1c2",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5728,7 +5728,7 @@
       "subtitle" : "SSH client",
       "tintColor" : "242A48",
       "version" : "7.45.2",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6875,7 +6875,7 @@
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
       "version" : "2636,4c4f479f",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8215,7 +8215,7 @@
       "subtitle" : "Virtual video-calling space",
       "tintColor" : "3260E6",
       "version" : "0.3.1",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20177,7 +20177,7 @@
       "subtitle" : "Organize your ideas and projects into visual boards",
       "tintColor" : "8E8E92",
       "version" : "3.1.12",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30475,7 +30475,7 @@
       "subtitle" : "Slicer for Resin 3D printers",
       "tintColor" : "9D4650",
       "version" : "4.0.11",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44207,7 +44207,7 @@
       "subtitle" : "Untraceable cryptocurrency wallet",
       "tintColor" : "CF8656",
       "version" : "0.18.0.0",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59946,7 +59946,7 @@
       },
       "subtitle" : "OpenJDK distribution from Azul",
       "version" : "18.0.2,18.32.11-ca",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60400,7 +60400,7 @@
       },
       "subtitle" : "OpenJDK distribution from Amazon",
       "version" : "18.0.1.10.1",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61683,7 +61683,7 @@
       },
       "subtitle" : "Customize mouse buttons, wheels and cursor speed",
       "version" : "5.6.2",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -63352,7 +63352,7 @@
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
       "version" : "2022.3.1,2022-07-20-03-34",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64433,7 +64433,7 @@
       },
       "subtitle" : "Adjusts cursor acceleration and sensitivity",
       "version" : "2.3.1",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67554,7 +67554,7 @@
       },
       "subtitle" : "Universal chat app powered by Matrix, unifying 15 different chat networks",
       "version" : "3.18.19",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67878,7 +67878,7 @@
       },
       "subtitle" : "Anti-theft, data security, and management platform",
       "version" : "1.10.8",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73101,7 +73101,7 @@
       },
       "subtitle" : "Lua-based game engine",
       "version" : "2022.3675",
-      "versionDate" : "2022-07-20T04:17:07Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,

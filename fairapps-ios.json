@@ -71,11 +71,11 @@
       "size" : 5186602,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 97,
-        "impressionCount" : 1906,
+        "downloadCount" : 99,
+        "impressionCount" : 1909,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 192,
+        "viewCount" : 195,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -798,10 +798,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 1804,
+        "impressionCount" : 1808,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 107,
+        "viewCount" : 111,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -912,10 +912,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 2,
-        "impressionCount" : 2475,
+        "impressionCount" : 2479,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 153,
+        "viewCount" : 157,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

@@ -81,10 +81,11 @@ jobs:
             --base-repo "App" \
             --funding-sources \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
+            --catalog-name "Fair Apps" \
+            --catalog-identifier "net.appfair.fairapps-macos" \
             --artifact-extension "zip" \
             --fairseal-issuer "appfairbot" \
             --retry-duration 600 \
-            --catalog-title "Fair Apps" \
             --allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
             --allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
@@ -134,10 +135,11 @@ jobs:
             --base-repo "App" \
             --funding-sources \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
+            --catalog-name "Fair Apps (iOS)" \
+            --catalog-identifier "net.appfair.fairapps-ios" \
             --artifact-extension "ipa" \
             --fairseal-issuer "appfairbot" \
             --retry-duration 600 \
-            --catalog-title "Fair Apps (iOS)" \
             --allow-license "${{ secrets.APP_FAIR_ALLOW_LICENSE }}" \
             --allow-name "${{ secrets.APP_FAIR_ALLOW_NAME }}" \
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
@@ -188,6 +190,8 @@ jobs:
             --max-apps 1000000 \
             --funding-sources \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
+            --catalog-name "Homebrew Casks" \
+            --catalog-identifier "net.appfair.appcasks" \
             --merge-cask-info "https://formulae.brew.sh/api/cask.json" \
             --merge-cask-stats "https://formulae.brew.sh/api/analytics/cask-install/homebrew-cask/30d.json" \
             --boost-apps "${{ secrets.APP_FAIR_BOOSTED_CASKS }}" \

@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.33β`` | `20` | `2022-01-24T00:00:00Z` | `5.9 MB` | `1074` | `90` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.114`` | `99` | `2022-07-08T00:00:00Z` | `5.2 MB` | `1909` | `195` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.114`` | `109` | `2022-07-08T00:00:00Z` | `5.2 MB` | `1909` | `195` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `6` | `2022-01-23T00:00:00Z` | `5.9 MB` | `1472` | `149` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `4` | `2022-01-25T00:00:00Z` | `6 MB` | `839` | `74` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `4` | `2022-01-24T00:00:00Z` | `6.1 MB` | `540` | `46` | `0` | `0` |  |

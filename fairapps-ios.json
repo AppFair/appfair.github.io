@@ -309,41 +309,41 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion-iOS.ipa",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Lottie-Motion.png",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
       "name" : "Lottie Motion",
       "permissions" : [
         {
-          "type" : "files.user-selected.read-write",
+          "type" : "com.apple.security.files.user-selected.read-write",
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.87/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
       "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.87/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.87/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.87/screenshot_03-iphone-750x1334.png"
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "c3f420559d521358562cb0b8fdf49b8c1d55516e89c17cc19443255845ed8e14",
-      "size" : 10002579,
+      "sha256" : "5dc9d5209f376093487eee542b5f06d6b3ca550692b0432fed4e3997d8e9bcc5",
+      "size" : 12016119,
       "stats" : {
         "coreSize" : 102576,
-        "downloadCount" : 4,
-        "impressionCount" : 1344,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 132,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.87",
-      "versionDate" : "2022-04-06T00:00:00Z",
-      "versionDescription" : "Release 0.0.87"
+      "version" : "0.0.90",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
     },
     {
       "beta" : false,
@@ -726,48 +726,48 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Stanza-Redux-iOS.ipa",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/Stanza-Redux-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Stanza-Redux.png",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/Stanza-Redux.png",
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
       "name" : "Stanza Redux",
       "permissions" : [
         {
-          "type" : "com.apple.security.files.user-selected.read-only",
-          "usageDescription" : "This app needs to read ebook files"
-        },
-        {
           "type" : "com.apple.security.network.client",
           "usageDescription" : "This app needs to access the network in order to access books"
+        },
+        {
+          "type" : "com.apple.security.files.user-selected.read-only",
+          "usageDescription" : "This app needs to read ebook files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.35/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.35/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.35/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.35/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.35/screenshot_04-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.35/screenshot_05-iphone-750x1334.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_04-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_05-iphone-750x1334.png"
       ],
-      "sha256" : "7eb6ebd830702e473c08c8ed34cfbb71cba17948eff793074b9af0ed84940519",
-      "size" : 8194111,
+      "sha256" : "618d85eaf5273ab60d155080daababeff2ef0d3c235b71bbf9024c6fd1d3df4e",
+      "size" : 8358601,
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 1874,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 111,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
-      "version" : "0.3.35",
-      "versionDate" : "2022-07-12T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.34...0.3.35"
+      "version" : "0.3.38",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.37...0.3.38"
     },
     {
       "beta" : true,
@@ -846,13 +846,13 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out-iOS.ipa",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.446/Tune-Out-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Tune-Out.png",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.446/Tune-Out.png",
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.446/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -860,28 +860,28 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.442/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.446/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.442/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.442/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.442/screenshot_03-iphone-1170x2532.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.446/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.446/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.446/screenshot_03-iphone-1170x2532.png"
       ],
-      "sha256" : "8c102cb5d410a3553e64d1d5bd8a36797180b7b58b0427e167585e1f1abb10e3",
-      "size" : 17339139,
+      "sha256" : "ec17c462d00aeaa31904e3bd1f268f499791f2d7340e6d034fa903993d17edec",
+      "size" : 17494520,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 2,
-        "impressionCount" : 2548,
+        "downloadCount" : 1,
+        "impressionCount" : 0,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 157,
+        "viewCount" : 0,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.442",
-      "versionDate" : "2022-07-06T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.441...0.8.442"
+      "version" : "0.8.446",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.445...0.8.446"
     },
     {
       "beta" : true,

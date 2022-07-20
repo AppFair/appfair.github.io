@@ -23,10 +23,10 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.79`` | `32` | `2022-07-20T00:00:00Z` | `9.4 MB` | `46` | `5` | `23` | [``5``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.83`` | `3` | `2022-07-20T00:00:00Z` | `9.4 MB` | `1` | `1` | `23` | [``5``](https://github.com/App-Fair/App/issues) |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `5` | `2022-05-19T00:00:00Z` | `2.4 MB` | `366` | `58` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `29` | `2022-05-24T00:00:00Z` | `4.5 MB` | `2748` | `514` | `1` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.34β`` | `6` | `2022-07-20T00:00:00Z` | `2.1 MB` | `57` | `4` | `1` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.34β`` | `8` | `2022-07-20T00:00:00Z` | `2.1 MB` | `57` | `4` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `14` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1534` | `156` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `10` | `2022-01-25T00:00:00Z` | `2.3 MB` | `901` | `81` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `5` | `2022-01-24T00:00:00Z` | `2.5 MB` | `580` | `50` | `0` | `0` |  |
@@ -34,7 +34,7 @@ tr:nth-child(even) {
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `7` | `2022-01-23T00:00:00Z` | `2.3 MB` | `954` | `80` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `4` | `2022-01-23T00:00:00Z` | `2.4 MB` | `988` | `78` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `7` | `2022-01-26T00:00:00Z` | `2.3 MB` | `581` | `48` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `5` | `2022-07-20T00:00:00Z` | `2.1 MB` | `40` | `4` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `7` | `2022-07-20T00:00:00Z` | `2.1 MB` | `40` | `4` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.7β`` | `4` | `2022-01-24T00:00:00Z` | `2.2 MB` | `454` | `44` | `0` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `3` | `2022-07-20T00:00:00Z` | `3.9 MB` | `41` | `5` | `0` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `2` | `2022-07-20T00:00:00Z` | `12.9 MB` | `40` | `3` | `0` | `0` |  |

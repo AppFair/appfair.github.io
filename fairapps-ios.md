@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.34β`` | `1` | `2022-07-20T00:00:00Z` | `5.3 MB` | `1` | `1` | `1` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.34β`` | `1` | `2022-07-20T00:00:00Z` | `5.3 MB` | `6` | `2` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `6` | `2022-01-23T00:00:00Z` | `5.9 MB` | `1489` | `154` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `4` | `2022-01-25T00:00:00Z` | `6 MB` | `856` | `79` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `4` | `2022-01-24T00:00:00Z` | `6.1 MB` | `549` | `48` | `0` | `0` |  |

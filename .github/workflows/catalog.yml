@@ -81,7 +81,7 @@ jobs:
             --base-repo "App" \
             --funding-sources \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
-            --catalog-name "Fair Apps" \
+            --catalog-title "Fair Apps" \
             --catalog-identifier "net.appfair.fairapps-macos" \
             --artifact-extension "zip" \
             --fairseal-issuer "appfairbot" \
@@ -135,7 +135,7 @@ jobs:
             --base-repo "App" \
             --funding-sources \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
-            --catalog-name "Fair Apps (iOS)" \
+            --catalog-title "Fair Apps (iOS)" \
             --catalog-identifier "net.appfair.fairapps-ios" \
             --artifact-extension "ipa" \
             --fairseal-issuer "appfairbot" \

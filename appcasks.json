@@ -1477,7 +1477,7 @@
       "sha256" : "5b9cb00a46b48cc03b5c843b5a3da9298f231f6fdb76eb418f038ce53490e99f",
       "stats" : {
         "downloadCount" : 1883,
-        "impressionCount" : 2731,
+        "impressionCount" : 2732,
         "viewCount" : 150
       },
       "subtitle" : "E-books management software",
@@ -11630,7 +11630,7 @@
       "sha256" : "f5a094f291b81563c31ce0a6f3b789d7a51f0503d348bdf71e13897c94484c03",
       "stats" : {
         "downloadCount" : 52,
-        "impressionCount" : 280
+        "impressionCount" : 281
       },
       "subtitle" : "Fork of the DOSBox project",
       "tintColor" : "484463",
@@ -48843,7 +48843,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "72BBEC",
       "version" : "10.103.39.2",
-      "versionDate" : "2022-07-20T15:57:58Z"
+      "versionDate" : "2022-07-20T00:00:00Z"
     },
     {
       "beta" : false,

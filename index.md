@@ -552,6 +552,11 @@ An example of an app source catalog with a single app is as follows:
 {
   "name": "A Simple App Source Catalog",
   "identifier": "net.example.catalog",
+  "platform": "macos",
+  "sourceURL": "https://catalog.example.net/apps.json",
+  "iconURL": "https://catalog.example.net/catalog.png",
+  "tintColor": "ABFF4G",
+  "localizedDescription": "This is a **great** catalog of apps!",
   "apps": [
     {
       "name": "App Name",
@@ -617,7 +622,11 @@ The top level catalog contains the following properties:
 
  - `identifier`: A unique identifier for the catalog in reverse DNS notation (e.g., "org.example.catalog").
  - `name`: A localized name for the catalog (e.g., "A Simple App Source Catalog")
+ - `localizedDescription`: A summary of this catalog.
  - `apps`: An array of the apps that are available from this app source catalog.
+ - `sourceURL`: The canonical link to this catalog.
+ - `iconURL`: A link to a small .png image for the catalog.
+ - `tintColor`: An RGB hex color string for suggested styling.
 
 #### App Source Properties
 

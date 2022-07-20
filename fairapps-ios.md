@@ -23,15 +23,15 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.34β`` | `5` | `2022-07-20T00:00:00Z` | `5.3 MB` | `57` | `4` | `1` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.34β`` | `7` | `2022-07-20T00:00:00Z` | `5.3 MB` | `57` | `4` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `6` | `2022-01-23T00:00:00Z` | `5.9 MB` | `1534` | `156` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `4` | `2022-01-25T00:00:00Z` | `6 MB` | `901` | `81` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `4` | `2022-01-24T00:00:00Z` | `6.1 MB` | `580` | `50` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `6` | `2022-01-23T00:00:00Z` | `5.8 MB` | `954` | `80` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `4` | `2022-01-23T00:00:00Z` | `6 MB` | `988` | `78` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `5` | `2022-01-26T00:00:00Z` | `5.9 MB` | `581` | `48` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `5` | `2022-07-20T00:00:00Z` | `5.4 MB` | `40` | `4` | `0` | `0` |  |
-| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `5` | `2022-07-20T00:00:00Z` | `12 MB` | `41` | `5` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `7` | `2022-07-20T00:00:00Z` | `5.4 MB` | `40` | `4` | `0` | `0` |  |
+| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `7` | `2022-07-20T00:00:00Z` | `12 MB` | `41` | `5` | `0` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `3` | `2022-07-20T00:00:00Z` | `18.2 MB` | `40` | `3` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.17β`` | `6` | `2022-01-24T00:00:00Z` | `6 MB` | `905` | `53` | `0` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `6.5 MB` | `772` | `47` | `0` | `0` |  |

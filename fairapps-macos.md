@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.79`` | `7` | `2022-07-20T00:00:00Z` | `9.4 MB` | `28` | `1` | `22` | [``5``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.79`` | `9` | `2022-07-20T00:00:00Z` | `9.4 MB` | `28` | `1` | `23` | [``5``](https://github.com/App-Fair/App/issues) |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `5` | `2022-05-19T00:00:00Z` | `2.4 MB` | `346` | `56` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `29` | `2022-05-24T00:00:00Z` | `4.5 MB` | `2717` | `510` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.34β`` | `3` | `2022-07-20T00:00:00Z` | `2.1 MB` | `36` | `3` | `1` | `0` |  |
@@ -41,7 +41,7 @@ tr:nth-child(even) {
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.17β`` | `5` | `2022-01-24T00:00:00Z` | `2.4 MB` | `893` | `53` | `0` | `0` |  |
 | [``Micro Vector``](https://Micro-Vector.github.io/App/) | ``0.0.8β`` | `7` | `2022-01-24T00:00:00Z` | `2.8 MB` | `580` | `53` | `0` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `4` | `2022-02-12T00:00:00Z` | `2.7 MB` | `768` | `47` | `0` | `0` |  |
-| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.42`` | `16` | `2022-05-26T00:00:00Z` | `3.7 MB` | `2609` | `444` | `0` | `0` |  |
+| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.42`` | `16` | `2022-05-26T00:00:00Z` | `3.7 MB` | `2610` | `444` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.51β`` | `4` | `2022-01-16T00:00:00Z` | `2.3 MB` | `126` | `17` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `21` | `2022-01-20T00:00:00Z` | `6.7 MB` | `2344` | `434` | `0` | `0` |  |
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `4` | `2022-01-24T00:00:00Z` | `2.6 MB` | `339` | `39` | `0` | `0` |  |

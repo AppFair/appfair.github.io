@@ -6,83 +6,42 @@
       "categories" : [
 
       ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot-iOS.ipa",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.34/Bon-Mot-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Bon-Mot.png",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.34/Bon-Mot.png",
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.34/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Bon Mot",
       "permissions" : [
         {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
+          "type" : "com.apple.security.files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected books"
         },
         {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+          "type" : "com.apple.security.network.client",
+          "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.33/README.md#fa66bc6b37d8f7e00b3c97d0ed0a45ad2f559eb09a72a80da1afb9fd0f914821",
-      "sha256" : "f936848d11738610a8fa1e6f7cef7db795ef337cb5a4fb71703b7c879c1ba588",
-      "size" : 5934877,
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.34/README.md#6aaa6d708dd87e0f287fcc67e14ce094575bb468f231c59a4341043ae9ff6708",
+      "sha256" : "0f61141380be3e8401c9eb3941bf395b6823df67079ba515ed6b55127f5a5da3",
+      "size" : 5310659,
       "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 20,
-        "impressionCount" : 1074,
+        "coreSize" : 102376,
+        "downloadCount" : 1,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 90,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "0.2.33",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.2.33"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/Info.plist#678580e1d240a21b0bc55c886a427dc6dcd737ee740da1caaa4cdd13efc31360",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.114/screenshot_02-iphone-750x1334.png"
-      ],
-      "sha256" : "9e2d0c5a45176491c219a1e46374431d8ceef460ed9b3aa611432be27b1d677a",
-      "size" : 5186602,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 109,
-        "impressionCount" : 1909,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 195,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.114",
-      "versionDate" : "2022-07-08T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.113...0.9.114"
+      "version" : "0.2.34",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.33...0.2.34"
     },
     {
       "beta" : true,
@@ -108,10 +67,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1472,
+        "impressionCount" : 1481,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 149,
+        "viewCount" : 151,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -143,10 +102,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 839,
+        "impressionCount" : 849,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 74,
+        "viewCount" : 77,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -181,10 +140,10 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 4,
-        "impressionCount" : 540,
+        "impressionCount" : 547,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 46,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -216,7 +175,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 916,
+        "impressionCount" : 921,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 78,
@@ -251,7 +210,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 950,
+        "impressionCount" : 955,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 76,
@@ -289,7 +248,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 5,
-        "impressionCount" : 544,
+        "impressionCount" : 549,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -331,7 +290,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 3,
-        "impressionCount" : 1097,
+        "impressionCount" : 1104,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 89,
@@ -375,7 +334,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 1315,
+        "impressionCount" : 1319,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 130,
@@ -410,7 +369,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 2,
-        "impressionCount" : 724,
+        "impressionCount" : 726,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 51,
@@ -445,7 +404,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 884,
+        "impressionCount" : 886,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 53,
@@ -480,7 +439,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 759,
+        "impressionCount" : 761,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -526,7 +485,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 2,
-        "impressionCount" : 2584,
+        "impressionCount" : 2588,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 443,
@@ -661,7 +620,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 334,
+        "impressionCount" : 335,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -749,10 +708,10 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 5,
-        "impressionCount" : 330,
+        "impressionCount" : 332,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 45,
+        "viewCount" : 46,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -798,7 +757,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 1808,
+        "impressionCount" : 1819,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 111,
@@ -834,7 +793,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 942,
+        "impressionCount" : 945,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 54,
@@ -869,10 +828,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 445,
+        "impressionCount" : 448,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 32,
+        "viewCount" : 33,
         "watcherCount" : 0
       },
       "subtitle" : "A little quiz game",
@@ -912,7 +871,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 2,
-        "impressionCount" : 2479,
+        "impressionCount" : 2489,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 157,
@@ -948,7 +907,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 306,
+        "impressionCount" : 307,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 18,
@@ -983,7 +942,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 378,
+        "impressionCount" : 379,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -1018,7 +977,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 4,
-        "impressionCount" : 345,
+        "impressionCount" : 346,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -1088,7 +1047,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 990,
+        "impressionCount" : 998,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,

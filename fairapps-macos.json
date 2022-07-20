@@ -58,10 +58,10 @@
       "stats" : {
         "coreSize" : 170672,
         "downloadCount" : 187,
-        "impressionCount" : 543,
+        "impressionCount" : 545,
         "issueCount" : 5,
         "starCount" : 21,
-        "viewCount" : 23,
+        "viewCount" : 25,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for macOS apps and Homebrew casks",
@@ -125,10 +125,10 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 3,
-        "impressionCount" : 897,
+        "impressionCount" : 899,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 45,
+        "viewCount" : 47,
         "watcherCount" : 0
       },
       "subtitle" : "A simple but useful app",
@@ -299,11 +299,11 @@
       "size" : 2026147,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 80,
-        "impressionCount" : 1906,
+        "downloadCount" : 82,
+        "impressionCount" : 1909,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 192,
+        "viewCount" : 195,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -1161,10 +1161,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 499,
+        "impressionCount" : 503,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 77,
+        "viewCount" : 81,
         "watcherCount" : 0
       },
       "subtitle" : "A simple little app to demonstrate the App Fair",
@@ -1247,10 +1247,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 6,
-        "impressionCount" : 1804,
+        "impressionCount" : 1808,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 107,
+        "viewCount" : 111,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1410,10 +1410,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 15,
-        "impressionCount" : 2475,
+        "impressionCount" : 2479,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 153,
+        "viewCount" : 157,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

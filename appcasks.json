@@ -25,8 +25,8 @@
       "sha256" : "838a8a1c1d18911e009fe0160be8053da9c5338418fcdb007560788f085cff4d",
       "stats" : {
         "downloadCount" : 2656,
-        "impressionCount" : 7900,
-        "viewCount" : 805
+        "impressionCount" : 7902,
+        "viewCount" : 806
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -57,7 +57,7 @@
       "sha256" : "b63a1aaf440c0eb7040914ddcc6052f5dcee65fdc48d52ca626931b7da92ba0d",
       "stats" : {
         "downloadCount" : 13518,
-        "impressionCount" : 6748,
+        "impressionCount" : 6750,
         "viewCount" : 805
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 7796,
-        "impressionCount" : 5992,
+        "impressionCount" : 5994,
         "viewCount" : 573
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28252,
-        "impressionCount" : 6073,
+        "impressionCount" : 6075,
         "viewCount" : 503
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7530,
-        "impressionCount" : 6296,
+        "impressionCount" : 6298,
         "viewCount" : 555
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5357,
-        "impressionCount" : 6034,
+        "impressionCount" : 6036,
         "viewCount" : 432
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 2994,
-        "impressionCount" : 5620,
+        "impressionCount" : 5622,
         "viewCount" : 463
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "3e66b5d0863937f8f12425dea13422174c3a75778d38aefd541a7be3f94d809d",
       "stats" : {
         "downloadCount" : 2667,
-        "impressionCount" : 6293,
+        "impressionCount" : 6295,
         "viewCount" : 497
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -263,7 +263,7 @@
       ],
       "stats" : {
         "downloadCount" : 2544,
-        "impressionCount" : 4678,
+        "impressionCount" : 4680,
         "viewCount" : 323
       },
       "subtitle" : "Video game digital distribution service",
@@ -296,7 +296,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2019,
-        "impressionCount" : 6299,
+        "impressionCount" : 6301,
         "viewCount" : 762
       },
       "subtitle" : "File archiver",
@@ -322,7 +322,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1727,
-        "impressionCount" : 5333,
+        "impressionCount" : 5335,
         "viewCount" : 363
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -350,7 +350,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1324,
-        "impressionCount" : 4770,
+        "impressionCount" : 4772,
         "viewCount" : 399
       },
       "subtitle" : "Open-source Markdown editor",
@@ -381,7 +381,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1162,
-        "impressionCount" : 6305,
+        "impressionCount" : 6307,
         "viewCount" : 420
       },
       "subtitle" : "3D creation suite",
@@ -438,7 +438,7 @@
       "sha256" : "c603a81036e7dab04e5daee70e1811675a859f833ae6aa713aca5bfc8a26c977",
       "stats" : {
         "downloadCount" : 520,
-        "impressionCount" : 4646,
+        "impressionCount" : 4647,
         "viewCount" : 275
       },
       "subtitle" : "Text editor",
@@ -466,7 +466,7 @@
       ],
       "stats" : {
         "downloadCount" : 456,
-        "impressionCount" : 4509,
+        "impressionCount" : 4510,
         "viewCount" : 415
       },
       "subtitle" : "Sandbox construction video game",
@@ -497,7 +497,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 432,
-        "impressionCount" : 4974,
+        "impressionCount" : 4975,
         "viewCount" : 439
       },
       "subtitle" : "Text, code, and markup editor",
@@ -528,7 +528,7 @@
       "sha256" : "bd116c7050a1422be12fa3f308d5a624ef56eb7587a8695fdd4df39843de04d1",
       "stats" : {
         "downloadCount" : 290,
-        "impressionCount" : 4076,
+        "impressionCount" : 4077,
         "viewCount" : 372
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -556,7 +556,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 248,
-        "impressionCount" : 3923,
+        "impressionCount" : 3924,
         "viewCount" : 345
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -584,7 +584,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 216,
-        "impressionCount" : 2700,
+        "impressionCount" : 2701,
         "viewCount" : 247
       },
       "subtitle" : "File synchronizer",
@@ -610,7 +610,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 208,
-        "impressionCount" : 3545,
+        "impressionCount" : 3546,
         "viewCount" : 286
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -637,7 +637,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 134,
-        "impressionCount" : 4240,
+        "impressionCount" : 4241,
         "viewCount" : 481
       },
       "subtitle" : "iOS App Store alternative",
@@ -672,7 +672,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 2303,
+        "impressionCount" : 2305,
         "viewCount" : 210
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -698,7 +698,7 @@
       "sha256" : "65c67ab1fa1e016363b14b303d5979cb61c051ee97d1763e0abfee6592085d23",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 2652,
+        "impressionCount" : 2653,
         "viewCount" : 261
       },
       "subtitle" : "EVE Online client",
@@ -731,7 +731,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 2312,
+        "impressionCount" : 2313,
         "viewCount" : 199
       },
       "subtitle" : "Create DMGs and other archives",
@@ -973,7 +973,7 @@
       "sha256" : "216944843bf357c5799b3335dd5cf35381eadef95dd9d1bfa7650374fcd0667e",
       "stats" : {
         "downloadCount" : 3623,
-        "impressionCount" : 1889,
+        "impressionCount" : 1890,
         "viewCount" : 113
       },
       "subtitle" : "Password manager that keeps all passwords secure behind one password",
@@ -1041,7 +1041,7 @@
       "sha256" : "473f994698ec082f16bb20b4824dadbfb744f53a01b737b4016f6cc45f403b83",
       "stats" : {
         "downloadCount" : 3176,
-        "impressionCount" : 1604,
+        "impressionCount" : 1605,
         "viewCount" : 104
       },
       "subtitle" : "Password manager app",
@@ -1500,8 +1500,8 @@
       "sha256" : "af7594948effdbe5c9a704185d8abd65a23aab5098059f3fbfef4f29c777fd98",
       "stats" : {
         "downloadCount" : 1805,
-        "impressionCount" : 1321,
-        "viewCount" : 63
+        "impressionCount" : 1322,
+        "viewCount" : 64
       },
       "subtitle" : "IDE for professional Python development",
       "tintColor" : "569051",
@@ -1900,7 +1900,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 695,
-        "impressionCount" : 1214,
+        "impressionCount" : 1215,
         "viewCount" : 71
       },
       "subtitle" : "Application for inspecting installer packages",
@@ -2055,7 +2055,7 @@
       "sha256" : "1aca3e8174b5d63f2e5c83be3a478197917226bb956d0dd19b17a56fe21ff93e",
       "stats" : {
         "downloadCount" : 520,
-        "impressionCount" : 1901,
+        "impressionCount" : 1902,
         "viewCount" : 104
       },
       "subtitle" : "Note taking and to-do application with synchronization capabilities",
@@ -2151,7 +2151,7 @@
       "sha256" : "89bb6048e5ea19cdc2c49094e521260a46acfeeffbd4a9ff712f7c27ae775de2",
       "stats" : {
         "downloadCount" : 409,
-        "impressionCount" : 2942
+        "impressionCount" : 2943
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2194,7 +2194,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-daisydisk/README.md",
       "stats" : {
         "downloadCount" : 399,
-        "impressionCount" : 1877,
+        "impressionCount" : 1878,
         "viewCount" : 148
       },
       "subtitle" : "Disk space visualizer",
@@ -2239,7 +2239,7 @@
       "sha256" : "2d0d3bdc945b42c0c1fe79b1eb74e5969b5f768ffc56aa286d73d3492873b173",
       "stats" : {
         "downloadCount" : 370,
-        "impressionCount" : 1426,
+        "impressionCount" : 1427,
         "viewCount" : 106
       },
       "subtitle" : "Open-source, KeePass-client and password manager",
@@ -2306,7 +2306,7 @@
       "sha256" : "166d3513828b61fdd2ece818eb8a292b30c7b629ca4e2006069f6d6403772db5",
       "stats" : {
         "downloadCount" : 264,
-        "impressionCount" : 1703,
+        "impressionCount" : 1704,
         "viewCount" : 108
       },
       "subtitle" : "HTTP client that helps testing and describing APIs",
@@ -2482,7 +2482,7 @@
       "sha256" : "dbf06e0839b280d6bca69c2f7d7fd85141efac698765f2e77ae74738aeea09de",
       "stats" : {
         "downloadCount" : 108,
-        "impressionCount" : 1411,
+        "impressionCount" : 1412,
         "viewCount" : 95
       },
       "subtitle" : "Tool for using an iPad as a second display",
@@ -3228,7 +3228,7 @@
       "sha256" : "43fdbf8dd65b62e5ebd5f1be52e840389784035aa7b94e3c50a1977c960abf7e",
       "stats" : {
         "downloadCount" : 2759,
-        "impressionCount" : 1199
+        "impressionCount" : 1201
       },
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
@@ -3552,7 +3552,7 @@
       "sha256" : "4602bf08296747614fdcabfa68f420836dec9c8ebe9286a93b4c509a1e567c62",
       "stats" : {
         "downloadCount" : 1608,
-        "impressionCount" : 309
+        "impressionCount" : 310
       },
       "subtitle" : "Unpacks archive files",
       "tintColor" : "DABC92",
@@ -3674,7 +3674,7 @@
       "sha256" : "d653aaf52be86d7327d566f03a61a5ce4dfd8059948d1d612833215410dde09b",
       "stats" : {
         "downloadCount" : 1411,
-        "impressionCount" : 300
+        "impressionCount" : 301
       },
       "subtitle" : "IDE for Python programming - Community Edition",
       "tintColor" : "6D8A2D",
@@ -3774,7 +3774,7 @@
       "sha256" : "52cf91ff6b1f4168896c8ce5bf28c43d7ffbf50f30e29cd46a89bde8227d71dc",
       "stats" : {
         "downloadCount" : 1244,
-        "impressionCount" : 367
+        "impressionCount" : 368
       },
       "subtitle" : "Data science software focusing on R and Python",
       "tintColor" : "80B1DE",
@@ -3996,7 +3996,7 @@
       "sha256" : "dfbb66ce3135fbaa2d64eaeea99a63e63485e322c9746045a1098b1696a1ecd5",
       "stats" : {
         "downloadCount" : 941,
-        "impressionCount" : 496
+        "impressionCount" : 497
       },
       "subtitle" : "Clipboard extension app",
       "tintColor" : "6199C0",
@@ -6704,7 +6704,7 @@
       "name" : "CopyClip",
       "stats" : {
         "downloadCount" : 194,
-        "impressionCount" : 420
+        "impressionCount" : 421
       },
       "subtitle" : "Clipboard manager",
       "tintColor" : "BEAA60",
@@ -7524,7 +7524,7 @@
       "sha256" : "adcb2651ab81bc10e4682ef264724b27137444f10f1bbb867e7d0bd7b6063d46",
       "stats" : {
         "downloadCount" : 147,
-        "impressionCount" : 524
+        "impressionCount" : 525
       },
       "subtitle" : "Change the behavior of the fn keys depending on the active application",
       "tintColor" : "9B6582",
@@ -8092,7 +8092,7 @@
       "sha256" : "da3c4850b34a03cca1949c5b2d42050827c4f10210d14620a950e0b6bf952178",
       "stats" : {
         "downloadCount" : 124,
-        "impressionCount" : 478
+        "impressionCount" : 479
       },
       "subtitle" : "Hard disk backup and cloning utility",
       "tintColor" : "8198A9",
@@ -12814,7 +12814,7 @@
       "sha256" : "5da337e06e1ac6325627f99a0662042b1d97689613685cc046441d41d6d1f075",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 263
+        "impressionCount" : 264
       },
       "subtitle" : "Tool that translates text in real-time while copying",
       "tintColor" : "BF82CF",
@@ -14772,7 +14772,7 @@
       "sha256" : "7193e018efdc6f0acc8fe19bbae3b7cb1cc92185dbd149c06c42222d9569db14",
       "stats" : {
         "downloadCount" : 31,
-        "impressionCount" : 174
+        "impressionCount" : 175
       },
       "subtitle" : "Professional IDE for scientific and web Python development",
       "tintColor" : "3F8349",
@@ -16272,7 +16272,7 @@
       "sha256" : "978819647422f10a58761f9fc93f2a302f497da3e966c8a6b9e4a113558daf32",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 124
+        "impressionCount" : 125
       },
       "subtitle" : "PyCharm IDE with Anaconda plugin",
       "tintColor" : "798841",
@@ -17371,7 +17371,7 @@
       "sha256" : "de8b6ad6c42509f2c394997694c13a161dcb4f74edfa87f5a63d7362897538f5",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 91
+        "impressionCount" : 92
       },
       "subtitle" : "Manage SSH tunnels",
       "tintColor" : "C7CFDF",
@@ -20317,7 +20317,7 @@
       "sha256" : "61637593237424a9bb7b44408ab3631a8e2458b58c68b5060fea9b218a10256f",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 111
+        "impressionCount" : 112
       },
       "subtitle" : "PyCharm IDE with Anaconda plugin",
       "tintColor" : "528C53",
@@ -21054,7 +21054,7 @@
       "sha256" : "ef8e62028cd991ed8e668797035286f4e5220190a9d70591fe7e853be90b862d",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 98
+        "impressionCount" : 99
       },
       "subtitle" : "Research photo management",
       "tintColor" : "699BE2",
@@ -25141,7 +25141,7 @@
       "sha256" : "9ed1780e28da381c92ea6667f64a8d6ba715658d3a8957bf5190fb7edbd00ba9",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 169
+        "impressionCount" : 170
       },
       "subtitle" : "Cloud computing platform",
       "tintColor" : "578FF0",
@@ -26049,7 +26049,7 @@
       "sha256" : "80d2cb26e90306b7fea7ca9fb00dfb1a89df1ae3f6e0d9c53f792c9edd8359f7",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 260
+        "impressionCount" : 261
       },
       "subtitle" : "GUI Python implementation for the Chia blockchain",
       "tintColor" : "D2EBD9",
@@ -32945,7 +32945,7 @@
       "sha256" : "9e96d1966cc2a5159c4079312e30c1c20ad834fa766bc92dac938fb944c79d0d",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 94
+        "impressionCount" : 95
       },
       "subtitle" : "Data science IDE for Python",
       "tintColor" : "EF5926",
@@ -41362,7 +41362,7 @@
       "sha256" : "21cfe16202a5e73907d64b991b2221f7c4ab7f5adb96b5a58165ade2198ad080",
       "stats" : {
         "downloadCount" : 198,
-        "impressionCount" : 50
+        "impressionCount" : 51
       },
       "subtitle" : "Scientific Python IDE",
       "tintColor" : "D9C1C1",
@@ -41730,7 +41730,7 @@
       "sha256" : "d5ebc6f104bb57457c68ce651864053040af38f218bad1eef17491db7e6282ef",
       "stats" : {
         "downloadCount" : 143,
-        "impressionCount" : 29
+        "impressionCount" : 30
       },
       "subtitle" : "Free and open-source page layout program",
       "tintColor" : "558197",
@@ -42068,7 +42068,7 @@
       "sha256" : "4bf3ff38a9539d7d0f16122522599f44fde5833d1a16c704e49beb754d60a062",
       "stats" : {
         "downloadCount" : 124,
-        "impressionCount" : 30
+        "impressionCount" : 31
       },
       "subtitle" : "Utility to render Jupyter notebooks",
       "tintColor" : "7B716A",
@@ -46080,7 +46080,7 @@
       "sha256" : "3cb81559e97ee8813d126810fb11f981b32981d22e1767204f43b1a33f6e9f11",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 21
+        "impressionCount" : 22
       },
       "subtitle" : "Small, simple editor for beginner Python programmers",
       "tintColor" : "B28781",
@@ -53813,7 +53813,7 @@
       "sha256" : "5a6a92cbf86e9c3ad7976147ee2bd7b14bbb68ff79038cdc6f9c08f13b58cc47",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 15
+        "impressionCount" : 16
       },
       "subtitle" : "Python IDE focused on interactivity and introspection",
       "tintColor" : "6D706F",
@@ -54120,7 +54120,7 @@
       "sha256" : "53d0286e54bad62309f3a79a33118f2d1f369be36f9a08b07e61d04aa39f6516",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 17
+        "impressionCount" : 18
       },
       "subtitle" : "Python-Based Bitcoin Software",
       "tintColor" : "6B5E70",
@@ -54657,7 +54657,7 @@
       "sha256" : "6c979c404c388bd712c3507d1f9494a11586106179deaba5a2ea83207716a112",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 12
+        "impressionCount" : 13
       },
       "subtitle" : "Reverse engineer Python source code into UML",
       "tintColor" : "D9CFAD",
@@ -56778,7 +56778,7 @@
       "sha256" : "9eae9bb82491cb1bce82ae407a39ac90f5ddfa1ff20bbcb33428091a1f462258",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 10
+        "impressionCount" : 11
       },
       "subtitle" : "Free Python IDE designed for students and hobbyists",
       "tintColor" : "8E9193",

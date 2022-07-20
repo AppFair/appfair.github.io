@@ -57,11 +57,11 @@
       "size" : 9371805,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 1,
-        "impressionCount" : 0,
+        "downloadCount" : 3,
+        "impressionCount" : 21,
         "issueCount" : 5,
         "starCount" : 21,
-        "viewCount" : 0,
+        "viewCount" : 1,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for macOS apps and Homebrew casks",
@@ -94,10 +94,10 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 5,
-        "impressionCount" : 331,
+        "impressionCount" : 342,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 54,
+        "viewCount" : 55,
         "watcherCount" : 0
       },
       "subtitle" : "A very useful app indeed",
@@ -144,10 +144,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 29,
-        "impressionCount" : 2698,
+        "impressionCount" : 2709,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 509,
+        "viewCount" : 510,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -191,10 +191,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 3,
-        "impressionCount" : 6,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -230,10 +230,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 14,
-        "impressionCount" : 1489,
+        "impressionCount" : 1502,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 154,
+        "viewCount" : 155,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -269,10 +269,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 10,
-        "impressionCount" : 856,
+        "impressionCount" : 869,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 79,
+        "viewCount" : 80,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -307,10 +307,10 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 5,
-        "impressionCount" : 549,
+        "impressionCount" : 557,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 48,
+        "viewCount" : 49,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -342,10 +342,10 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 305,
+        "impressionCount" : 311,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 36,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -380,10 +380,10 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 7,
-        "impressionCount" : 923,
+        "impressionCount" : 931,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 78,
+        "viewCount" : 79,
         "watcherCount" : 0
       },
       "subtitle" : "A true Festivus celebration",
@@ -419,10 +419,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 957,
+        "impressionCount" : 965,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 76,
+        "viewCount" : 77,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -457,10 +457,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 551,
+        "impressionCount" : 559,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 47,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "Identify ambient sounds.",
@@ -501,7 +501,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 1111,
+        "impressionCount" : 1123,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 91,
@@ -537,7 +537,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 429,
+        "impressionCount" : 434,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 44,
@@ -579,7 +579,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 1325,
+        "impressionCount" : 1337,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 132,
@@ -591,43 +591,43 @@
       "versionDescription" : "Release 0.0.87"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
 
       ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course-macOS.zip",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Main-Course.png",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
       "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Main Course",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.15/README.md#ae462023f2e2674a5dcd57187d4c9875b2d5c1adfb9ab96b2f79988a7fe11e2d",
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
       "screenshotURLs" : [
-        "https://github.com/Main-Course/App/releases/download/0.0.15/screenshot_01-mac-light-mac-984x842.png",
-        "https://github.com/Main-Course/App/releases/download/0.0.15/screenshot_01-mac-dark-mac-984x842.png"
+        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-dark-mac-984x842.png",
+        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-light-mac-984x842.png"
       ],
-      "sha256" : "61d9aafa6bbde8fc57effa4a9bc46823453042a33d5ffccf2ee49da7cc32574f",
-      "size" : 13167122,
+      "sha256" : "926fde94d13f0a780767f29d4fce37592d73c03cf2b5b58fc4b9ae9c66e127aa",
+      "size" : 12898573,
       "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 5,
-        "impressionCount" : 727,
+        "coreSize" : 102392,
+        "downloadCount" : 1,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 51,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
-      "version" : "0.0.15",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.15"
+      "version" : "0.0.16",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
       "beta" : true,
@@ -657,7 +657,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 5,
-        "impressionCount" : 887,
+        "impressionCount" : 889,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 53,
@@ -735,7 +735,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 762,
+        "impressionCount" : 764,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -785,7 +785,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2593,
+        "impressionCount" : 2600,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 444,
@@ -967,7 +967,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 696,
+        "impressionCount" : 701,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -1052,7 +1052,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 513,
+        "impressionCount" : 526,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 81,
@@ -1138,7 +1138,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 6,
-        "impressionCount" : 1831,
+        "impressionCount" : 1858,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 111,
@@ -1216,7 +1216,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 949,
+        "impressionCount" : 954,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 54,
@@ -1301,7 +1301,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 15,
-        "impressionCount" : 2505,
+        "impressionCount" : 2531,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 157,
@@ -1486,7 +1486,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1003,
+        "impressionCount" : 1017,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -1539,6 +1539,13 @@
       "date" : "2022-07-20T06:30:16Z",
       "identifier" : "release-app.App-Fair-0.8.79",
       "title" : "New Release: App Fair 0.8.79"
+    },
+    {
+      "appID" : "app.Main-Course",
+      "caption" : "Main Course 0.0.16 released",
+      "date" : "2022-07-20T06:39:21Z",
+      "identifier" : "release-app.Main-Course-0.0.16",
+      "title" : "New Release: Main Course 0.0.16"
     }
   ],
   "platform" : "macos",

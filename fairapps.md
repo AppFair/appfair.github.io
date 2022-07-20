@@ -28,7 +28,7 @@ tr:nth-child(even) {
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `5` | `2022-05-19T00:00:00Z` | `2.4 MB` | `325` | `54` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `29` | `2022-05-24T00:00:00Z` | `4.5 MB` | `2685` | `508` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.33β`` | `9` | `2022-01-24T00:00:00Z` | `2.3 MB` | `1074` | `90` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.114`` | `82` | `2022-07-08T00:00:00Z` | `2 MB` | `1909` | `195` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.114`` | `92` | `2022-07-08T00:00:00Z` | `2 MB` | `1909` | `195` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `14` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1472` | `149` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `10` | `2022-01-25T00:00:00Z` | `2.3 MB` | `839` | `74` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `5` | `2022-01-24T00:00:00Z` | `2.5 MB` | `540` | `46` | `0` | `0` |  |

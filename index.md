@@ -13,8 +13,13 @@ open-source macOS and iOS applications.
 App Fair apps use modern native frameworks and user-interface
 elements with a focus on performance, efficiency, and accessibility.
 
-The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS 12.5 that can be downloaded from [appfair.app](https://appfair.app).
+The app catalog can be accessed using `App Fair.app`, which is a native app for macOS 12.5 that can be downloaded from [appfair.app](https://appfair.app).
 New users should start by downloading this app and exploring its features and capabilities.
+For help and assistance with the App Fair,
+visit the [project discussions](https://github.com/App-Fair/App/discussions),
+join the [discord channel](https://discord.gg/R4bFP8qpw7),
+and browse the [issue reports](https://github.com/App-Fair/App/issues).
+
 
 The rest of this page is a guide for the development and publication of your own apps on the App Fair catalog.
 It assumes some familiarity with GitHub and software development in the Swift programming language.

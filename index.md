@@ -911,7 +911,13 @@ App Fair apps are written in Swift, a modern and safe language, compiled nativel
 This makes apps installed from the App Fair capable of being small, fast and efficient.
 Apps will also have access to the full range of the platform's native frameworks, including built-in audio-visual codecs, 3d rendering kits, hardware accelerated operations, accessibility interfaces, machine learning and natural language processing, embeddable web browser, and much more.
 
-What sets the App Fair apart from other platform-native store-fronts is that there is no application process, no developer fees, and no ongoing acceptance of terms and conditions, nor are there any reviews or systematic delays in issuing updates to existing apps.
+What sets appfair.net apart from other app store-fronts is that there is
+no application process,
+no developer fees,
+and no ongoing acceptance of terms and conditions,
+nor are there any reviews
+or systematic delays
+in issuing updates to existing apps.
 
 ## Developer FAQ
 

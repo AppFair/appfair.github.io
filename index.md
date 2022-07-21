@@ -9,11 +9,11 @@ title: The App Fair
 </p>
 
 appfair.net is an autonomous distribution network of free and
-open-source macOS applications.
+open-source macOS and iOS applications.
 App Fair apps use modern native frameworks and user-interface
 elements with a focus on performance, efficiency, and accessibility.
 
-The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS 12 that can be downloaded from [appfair.app](https://appfair.app).
+The app catalog can be accessed using `App Fair.app`, which is a native tool for macOS 12.5 that can be downloaded from [appfair.app](https://appfair.app).
 New users should start by downloading this app and exploring its features and capabilities.
 
 The rest of this page is a guide for the development and publication of your own apps on the App Fair catalog.
@@ -32,7 +32,7 @@ And since they rely on the native frameworks of the system, they tend to be quit
 
 ### Getting Started
 
-The App Fair catalog browser app can be installed on macOS 12 "Monterey" by downloading [App-Fair-macOS.zip](https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip).
+The App Fair catalog browser app can be installed on macOS 12.5 "Monterey" by downloading [App-Fair-macOS.zip](https://github.com/App-Fair/App/releases/latest/download/App-Fair-macOS.zip).
 The app can be dragged from the Downloads folder into the `/Applications` folder, from where it can be launched.
 
 

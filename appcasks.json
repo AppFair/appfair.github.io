@@ -4631,7 +4631,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/logseq/logseq/releases/download/0.7.7/logseq-darwin-x64-0.7.7.dmg",
+      "downloadURL" : "https://github.com/logseq/logseq/releases/download/0.7.8/logseq-darwin-x64-0.7.8.dmg",
       "fundingLinks" : [
         {
           "platform" : "OPEN_COLLECTIVE",
@@ -4642,15 +4642,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-logseq/AppIcon.png",
       "localizedDescription" : "Privacy-first, open-source platform for knowledge sharing and management",
       "name" : "Logseq",
-      "sha256" : "ef7345c7f86390acfcaaa7ae1eeb4cf4123b3ff82830e1eaa21ed2f1bba84c7b",
+      "sha256" : "7905893c26d8256686dcaba006dc5f2ad1907a9936074a76bf7e268caea0dd0b",
       "stats" : {
         "downloadCount" : 561,
         "impressionCount" : 770
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
-      "version" : "0.7.7",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "0.7.8",
+      "versionDate" : "2022-07-21T05:33:15Z"
     },
     {
       "beta" : false,
@@ -4977,7 +4977,7 @@
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
       "version" : "3.5.0.17,22920",
-      "versionDate" : "2022-07-21T04:47:10Z"
+      "versionDate" : "2022-07-21T00:00:00Z"
     },
     {
       "beta" : false,
@@ -26524,7 +26524,7 @@
       "subtitle" : "General purpose system maintenance tool",
       "tintColor" : "DC987C",
       "version" : "17.0.5",
-      "versionDate" : "2022-07-21T04:47:10Z"
+      "versionDate" : "2022-07-21T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35331,20 +35331,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://downloads.stork.ai/macos/release/Stork-1.0.11.1678.dmg",
+      "downloadURL" : "https://downloads.stork.ai/macos/release/Stork-1.0.11.1686.dmg",
       "homepage" : "https://stork.ai/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stork/AppIcon.png",
       "localizedDescription" : "Messenger with a powerful features for hybrid work",
       "name" : "Stork for macOS",
-      "sha256" : "3090515d6d35f3c1b9a1805f12006c8c619388a7eb7790a1d5c14eceec1a41f3",
+      "sha256" : "c577be3a9a0c5d2f486665b9f923bc59ce4f7f6c3b14cb82d7f56e5e52f95d7e",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 476
       },
       "subtitle" : "Messenger with a powerful features for hybrid work",
       "tintColor" : "EDBBA4",
-      "version" : "1.0.11,1678",
-      "versionDate" : "2022-07-17T00:00:00Z"
+      "version" : "1.0.11,1686",
+      "versionDate" : "2022-07-21T05:33:15Z"
     },
     {
       "beta" : false,
@@ -61313,7 +61313,7 @@
       },
       "subtitle" : "Enables developers to manage Confluent Cloud or Confluent Platform",
       "version" : "2.22.0",
-      "versionDate" : "2022-07-21T04:47:10Z"
+      "versionDate" : "2022-07-21T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66420,7 +66420,7 @@
       },
       "subtitle" : "Batch rename utility",
       "version" : "6.3",
-      "versionDate" : "2022-07-21T04:47:10Z"
+      "versionDate" : "2022-07-21T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73428,13 +73428,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "thunderbird",
-      "caption" : "Mozilla Thunderbird updated from 102.0.2 to 102.0.3",
-      "date" : "2022-07-20T01:06:52Z",
-      "identifier" : "release-thunderbird-102.0.3",
-      "title" : "New Release: Mozilla Thunderbird 102.0.3"
-    },
-    {
       "appID" : "lunar",
       "caption" : "Lunar updated from 5.7.2 to 5.7.3",
       "date" : "2022-07-20T01:06:53Z",
@@ -73566,13 +73559,6 @@
       "date" : "2022-07-20T04:17:10Z",
       "identifier" : "release-solar2d-2022.3675",
       "title" : "New Release: Solar2D 2022.3675"
-    },
-    {
-      "appID" : "logseq",
-      "caption" : "Logseq updated from 0.7.6 to 0.7.7",
-      "date" : "2022-07-20T10:24:15Z",
-      "identifier" : "release-logseq-0.7.7",
-      "title" : "New Release: Logseq 0.7.7"
     },
     {
       "appID" : "cog",
@@ -74126,6 +74112,20 @@
       "date" : "2022-07-21T04:47:11Z",
       "identifier" : "release-transnomino-6.3",
       "title" : "New Release: Transnomino 6.3"
+    },
+    {
+      "appID" : "logseq",
+      "caption" : "Logseq updated from 0.7.7 to 0.7.8",
+      "date" : "2022-07-21T05:33:16Z",
+      "identifier" : "release-logseq-0.7.8",
+      "title" : "New Release: Logseq 0.7.8"
+    },
+    {
+      "appID" : "stork",
+      "caption" : "Stork for macOS updated from 1.0.11,1678 to 1.0.11,1686",
+      "date" : "2022-07-21T05:33:16Z",
+      "identifier" : "release-stork-1.0.11,1686",
+      "title" : "New Release: Stork for macOS 1.0.11,1686"
     }
   ],
   "platform" : "macos",

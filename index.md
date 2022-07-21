@@ -724,6 +724,8 @@ that the two different forms of the app are related.
 Issues between Homebrew and <a href="https://appfair.app" target="_blank">`App Fair.app`</a>
 can often be mitigated with the `--force` flag to the `brew command`.
 
+
+<!--
 # Principles of the App Fair
 
 The App Fair is founded on a principle of mutual respect between the software users and the developers of the software.
@@ -772,6 +774,8 @@ While apps distributed via the App Fair catalog can be removed by their creators
 Once you have downloaded and installed an app, you can be confident that it will remain in its current operational state until you remove or update it.
 To this end, the App Fair does not impose any automatic updating mechanism on your apps.
 App updates must always be explicitly initiated by the end user.
+
+-->
 
 
 ## App Fair Security

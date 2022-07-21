@@ -559,7 +559,7 @@ An example of an app source catalog with a single app is as follows:
   "platform": "macos",
   "sourceURL": "https://catalog.example.net/apps.json",
   "iconURL": "https://catalog.example.net/catalog.png",
-  "tintColor": "ABFF4G",
+  "tintColor": "RGBHEX",
   "localizedDescription": "This is a **great** catalog of apps!",
   "apps": [
     {
@@ -570,6 +570,7 @@ An example of an app source catalog with a single app is as follows:
       "developerName": "Developer Name <developer@example.net>",
       "bundleIdentifier": "net.example.bundle.identifier.from.info.plist",
       "iconURL": "https://app.example.net/assets/app-icon_512x512.png",
+      "tintColor": "RGBHEX",
       
       "version": "1.8.1",
       "versionDate": "2022-03-12T10:31:59Z",
@@ -624,13 +625,18 @@ An example of an app source catalog with a single app is as follows:
 
 The top level catalog contains the following properties:
 
- - `identifier`: A unique identifier for the catalog in reverse DNS notation (e.g., "org.example.catalog").
- - `name`: A localized name for the catalog (e.g., "A Simple App Source Catalog")
- - `localizedDescription`: A summary of this catalog.
- - `apps`: An array of the apps that are available from this app source catalog.
- - `sourceURL`: The canonical link to this catalog.
- - `iconURL`: A link to a small .png image for the catalog.
- - `tintColor`: An RGB hex color string for suggested styling.
+ - `name`: A localized name for the catalog (e.g., "A Simple App Source Catalog"). Required.
+ - `identifier`: A unique identifier for the catalog in reverse DNS notation (e.g., "org.example.catalog"). Required.
+
+ - `platform`: The name of the platform for the catalog, such as `macos`, `ios`, or `android`. If left blank, the platform may be inferred by a client application. Optional.
+ - `localizedDescription`: A description of this catalog. Supports limited markdown (e.g., bold and italics). Optional.
+
+ - `homepage`: The home page for the catalog. Optional.
+ - `sourceURL`: The canonical link to this catalog. Optional.
+ - `iconURL`: A link to a small .png image for the catalog. Optional.
+ - `tintColor`: An RGB hex color string for suggested styling; this should typically match the dominant color from the catalog's icon. Optional.
+
+ - `apps`: An array of the apps that are available from this app source catalog. Required.
 
 #### App Source Properties
 
@@ -643,14 +649,15 @@ An element of the "apps" array will contain the following properties:
  - `developerName`: The name and e-mail address of the primary developer of the app, in the form `Developer Name <developer@email.address>`. Required.
  - `bundleIdentifier`: The value of the `CFBundleIdentifier` property in the `Info.plist` file. Required.
  - `iconURL`: A URL for a 512x512 `.png` icon for the app. Required.
+ - `tintColor`: An RGB hex color string for suggested styling for the app; this should typically match the dominant color from the icon. Optional.
  
  - `version`: The semantic version string for this version of the app. Must match the value of the `CFBundleShortVersionString` property in the `Info.plist`. Required.
  - `versionDate`: An ISO-8601 date string for this version of the app. Required.
  - `versionDescription`: A description of the changes made to this version of the app. Required.
   
  - `downloadURL`: The URL of the `.ipa` or `.zip` archive of the app. Required.
- - `sha256`: The SHA256 checksum of the contents of the `downloadURL`. Optional, but may become required.
- - `size`: The size, in bytes, of the contents of the `downloadURL`. Optional, but may become required.
+ - `sha256`: The SHA256 checksum of the contents of the `downloadURL`. Optional, but may be required by client applications.
+ - `size`: The size, in bytes, of the contents of the `downloadURL`. Optional, but may be required by client applications.
  
  - `screenshotURLs`: An array of URL strings pointing to a PNG screenshot of the app. Optional.
  - `fundingLinks`: An array of links to supported funding links. See [Funding Links](#funding-links).

@@ -25,7 +25,7 @@
       "sha256" : "51d8c3fc1a6548063a540aa38956c56efa5c7920d0f39bc720f7960e82b2372c",
       "stats" : {
         "downloadCount" : 2623,
-        "impressionCount" : 8098,
+        "impressionCount" : 8101,
         "viewCount" : 816
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,8 +57,8 @@
       "sha256" : "b63a1aaf440c0eb7040914ddcc6052f5dcee65fdc48d52ca626931b7da92ba0d",
       "stats" : {
         "downloadCount" : 13558,
-        "impressionCount" : 6908,
-        "viewCount" : 812
+        "impressionCount" : 6911,
+        "viewCount" : 813
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 7868,
-        "impressionCount" : 6111,
+        "impressionCount" : 6114,
         "viewCount" : 580
       },
       "subtitle" : "Multimedia player",
@@ -124,8 +124,8 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28303,
-        "impressionCount" : 6210,
-        "viewCount" : 513
+        "impressionCount" : 6213,
+        "viewCount" : 516
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
       "tintColor" : "202B2A",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7545,
-        "impressionCount" : 6413,
+        "impressionCount" : 6416,
         "viewCount" : 558
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5359,
-        "impressionCount" : 6181,
+        "impressionCount" : 6184,
         "viewCount" : 437
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3014,
-        "impressionCount" : 5734,
+        "impressionCount" : 5737,
         "viewCount" : 466
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "3e66b5d0863937f8f12425dea13422174c3a75778d38aefd541a7be3f94d809d",
       "stats" : {
         "downloadCount" : 2645,
-        "impressionCount" : 6436,
+        "impressionCount" : 6439,
         "viewCount" : 500
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -263,7 +263,7 @@
       ],
       "stats" : {
         "downloadCount" : 2543,
-        "impressionCount" : 4791,
+        "impressionCount" : 4794,
         "viewCount" : 325
       },
       "subtitle" : "Video game digital distribution service",
@@ -296,8 +296,8 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2038,
-        "impressionCount" : 6418,
-        "viewCount" : 763
+        "impressionCount" : 6421,
+        "viewCount" : 764
       },
       "subtitle" : "File archiver",
       "tintColor" : "8E7568",
@@ -322,7 +322,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1749,
-        "impressionCount" : 5445,
+        "impressionCount" : 5448,
         "viewCount" : 367
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -350,7 +350,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1328,
-        "impressionCount" : 4879,
+        "impressionCount" : 4882,
         "viewCount" : 405
       },
       "subtitle" : "Open-source Markdown editor",
@@ -381,7 +381,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1149,
-        "impressionCount" : 6461,
+        "impressionCount" : 6464,
         "viewCount" : 425
       },
       "subtitle" : "3D creation suite",
@@ -438,7 +438,7 @@
       "sha256" : "c603a81036e7dab04e5daee70e1811675a859f833ae6aa713aca5bfc8a26c977",
       "stats" : {
         "downloadCount" : 509,
-        "impressionCount" : 4750,
+        "impressionCount" : 4751,
         "viewCount" : 276
       },
       "subtitle" : "Text editor",
@@ -466,7 +466,7 @@
       ],
       "stats" : {
         "downloadCount" : 457,
-        "impressionCount" : 4566,
+        "impressionCount" : 4567,
         "viewCount" : 416
       },
       "subtitle" : "Sandbox construction video game",
@@ -497,7 +497,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 440,
-        "impressionCount" : 5089,
+        "impressionCount" : 5090,
         "viewCount" : 441
       },
       "subtitle" : "Text, code, and markup editor",
@@ -528,7 +528,7 @@
       "sha256" : "bd116c7050a1422be12fa3f308d5a624ef56eb7587a8695fdd4df39843de04d1",
       "stats" : {
         "downloadCount" : 282,
-        "impressionCount" : 4122,
+        "impressionCount" : 4123,
         "viewCount" : 374
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -556,7 +556,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 253,
-        "impressionCount" : 3971,
+        "impressionCount" : 3972,
         "viewCount" : 349
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -3101,7 +3101,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 5980,
-        "impressionCount" : 42
+        "impressionCount" : 45
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -5013,7 +5013,7 @@
       "sha256" : "699908db22c09378a27e03587c1d8b51e1c0138e0df3dcba823a66950b9f664d",
       "stats" : {
         "downloadCount" : 475,
-        "impressionCount" : 245
+        "impressionCount" : 246
       },
       "subtitle" : "All-in-One Java Troubleshooting Tool",
       "tintColor" : "F24A1D",
@@ -5054,7 +5054,7 @@
       "sha256" : "0ad78b0a7bb2e0bb724f0de65107d5397c5a32e1d974f7b3533acc8a0dd129e7",
       "stats" : {
         "downloadCount" : 452,
-        "impressionCount" : 300
+        "impressionCount" : 301
       },
       "subtitle" : "Simple application that will prevent iTunes or Apple Music from launching",
       "tintColor" : "F98997",
@@ -5851,7 +5851,7 @@
       "sha256" : "4317fc2b5257e0f6a7d21a270fc3af143cb4a059e8cd854bdda8802bdf244f9c",
       "stats" : {
         "downloadCount" : 294,
-        "impressionCount" : 561
+        "impressionCount" : 562
       },
       "subtitle" : "Graphically shows disk usage within a file system",
       "tintColor" : "1B359C",
@@ -6996,7 +6996,7 @@
       "sha256" : "875d1482ce69676065a794b508b34275b3d99715d3ce9eb74eb025e4b6a2d71c",
       "stats" : {
         "downloadCount" : 171,
-        "impressionCount" : 725
+        "impressionCount" : 726
       },
       "subtitle" : "Utility that shows the latest app updates",
       "tintColor" : "C5E9F0",
@@ -8795,7 +8795,7 @@
       "sha256" : "35441d5520cdf0ac35e20c76704a65c97183d3729c49d1012c16a55a7056f70d",
       "stats" : {
         "downloadCount" : 99,
-        "impressionCount" : 163
+        "impressionCount" : 164
       },
       "subtitle" : "PKG software package uninstall tool",
       "tintColor" : "A28548",
@@ -9315,7 +9315,7 @@
       "sha256" : "1539a562539e3b3a243da864fddee0351a4c7d109aa9dcae436775ecbb288fc9",
       "stats" : {
         "downloadCount" : 88,
-        "impressionCount" : 308
+        "impressionCount" : 309
       },
       "subtitle" : "Find files, folders, or contents in any file",
       "tintColor" : "6F6858",
@@ -9927,7 +9927,7 @@
       "sha256" : "4064c9e2c2e87b1a07b89d62534dcf6592e596c77f2b20f3f34ab463648ee154",
       "stats" : {
         "downloadCount" : 78,
-        "impressionCount" : 169
+        "impressionCount" : 170
       },
       "subtitle" : "Connect to almost anything with a serial port",
       "tintColor" : "2F4154",

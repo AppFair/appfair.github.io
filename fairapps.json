@@ -7,27 +7,23 @@
 
       ],
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.83/App-Fair-macOS.zip",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.84/App-Fair-macOS.zip",
       "fundingLinks" : [
 
       ],
       "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.83/App-Fair.png",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.84/App-Fair.png",
       "localizedDescription" : "Open-source browser and installer for macOS apps and Homebrew casks",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.83/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.84/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
       "name" : "App Fair",
       "permissions" : [
         {
-          "type" : "com.apple.security.files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "com.apple.security.files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
           "type" : "com.apple.security.network.client",
           "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "type" : "com.apple.security.files.user-selected.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
         },
         {
           "type" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
@@ -36,39 +32,43 @@
         {
           "type" : "com.apple.security.network.server",
           "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "type" : "com.apple.security.files.user-selected.executable",
+          "usageDescription" : "The App Fair installs executable apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.83/README.md#2e818c0471081243bb5e49364e7923152dcd8a36dcd5c596bd8fe699d74c76e1",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.84/README.md#2e818c0471081243bb5e49364e7923152dcd8a36dcd5c596bd8fe699d74c76e1",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_00-mac-dark-2864x1950.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_00-mac-dark-3078x2044.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_00-mac-light-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.83/screenshot_06-mac-dark-1424x1722.png"
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_00-mac-dark-3078x2044.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_00-mac-dark-2864x1950.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_00-mac-light-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_06-mac-dark-1424x1722.png"
       ],
-      "sha256" : "5d5d7ed75607dbca493431155da84fcb1b19d057a1388aa650c48f0e3d7b10d0",
-      "size" : 9410702,
+      "sha256" : "6c147aa38b0a7634221d8b66072fc4ac87c2d4a552be331804727e98ec4d3ffb",
+      "size" : 9417244,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 108,
-        "impressionCount" : 98,
+        "downloadCount" : 3,
+        "impressionCount" : 1,
         "issueCount" : 5,
         "starCount" : 23,
-        "viewCount" : 8,
+        "viewCount" : 1,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for macOS apps and Homebrew casks",
       "tintColor" : "1594E8",
-      "version" : "0.8.83",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.82...0.8.83"
+      "version" : "0.8.84",
+      "versionDate" : "2022-07-21T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.83...0.8.84"
     },
     {
       "beta" : true,
@@ -501,7 +501,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 13,
-        "impressionCount" : 291,
+        "impressionCount" : 292,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -579,7 +579,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 294,
+        "impressionCount" : 295,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -618,7 +618,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 221,
+        "impressionCount" : 222,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -785,7 +785,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2712,
+        "impressionCount" : 2713,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 448,
@@ -1138,7 +1138,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 198,
+        "impressionCount" : 199,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 14,
@@ -1301,7 +1301,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 4,
-        "impressionCount" : 255,
+        "impressionCount" : 256,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 24,
@@ -1549,10 +1549,10 @@
     },
     {
       "appID" : "app.App-Fair",
-      "caption" : "App Fair updated from 0.8.79 to 0.8.83",
-      "date" : "2022-07-20T15:52:28Z",
-      "identifier" : "release-app.App-Fair-0.8.83",
-      "title" : "New Release: App Fair 0.8.83"
+      "caption" : "App Fair updated from 0.8.83 to 0.8.84",
+      "date" : "2022-07-21T20:23:50Z",
+      "identifier" : "release-app.App-Fair-0.8.84",
+      "title" : "New Release: App Fair 0.8.84"
     }
   ],
   "platform" : "macos"

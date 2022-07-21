@@ -851,12 +851,14 @@ Along with these preventative layers of protection, macOS itself provides multip
 
 ### Where can I find community support?
 
-The [App Fair Discussions](https://github.com/appfair/discussions/discussions) board is the best place to seek community support in creating and maintaining App Fair apps.
+The App Fair [discord channel](https://discord.gg/R4bFP8qpw7) and [discussion boards](https://github.com/appfair/discussions/discussions) are the best places to seek community support in creating and maintaining App Fair apps.
 
 ### Where are App Fair apps installed?
 
 The standard install location for App Fair apps is the `/Applications/App Fair/` folder, which exists as a peer to the `/Applications/App Fair.app` application. 
 Storing apps in a sub-folder of the standard `/Applications/` folder prevents naming conflicts with apps installed through other distribution mechanisms.
+
+Applications that are installed from custom [app source](#appsource) catalogs will be installed in `/Applications/App Fair/catalog.identifier/`.
 
 ### Can I revert to an older version of an app?
 

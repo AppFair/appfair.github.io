@@ -5,7 +5,7 @@ title: The App Fair
 
 <p align="center">
 <a alt="Download the App Fair app for macOS 12" href="https://appfair.app"><img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" /></a>
-<h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to the App Fair</h1>
+<h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to appfair.net</h1>
 </p>
 
 appfair.net is an autonomous distribution network of free and
@@ -15,13 +15,12 @@ elements with a focus on performance, efficiency, and accessibility.
 
 The app catalog can be accessed using `App Fair.app`, which is a native app for macOS 12.5 that can be downloaded from [appfair.app](https://appfair.app).
 New users should start by downloading this app and exploring its features and capabilities.
-For help and assistance with the App Fair,
+For help and assistance with the App Fair application itself,
 visit the [project discussions](https://github.com/App-Fair/App/discussions),
 join the [discord channel](https://discord.gg/R4bFP8qpw7),
 and browse the [issue reports](https://github.com/App-Fair/App/issues).
 
-
-The rest of this page is a guide for the development and publication of your own apps on the App Fair catalog.
+The rest of this document serves as a guide for the development and publication of your own apps on the appfair.net [app source](#appsource) catalog;
 It assumes some familiarity with GitHub and software development in the Swift programming language.
 
 ## The App Fair for End Users

@@ -58,7 +58,7 @@
       "stats" : {
         "coreSize" : 170672,
         "downloadCount" : 3,
-        "impressionCount" : 1,
+        "impressionCount" : 3,
         "issueCount" : 5,
         "starCount" : 23,
         "viewCount" : 1,
@@ -1301,7 +1301,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 4,
-        "impressionCount" : 256,
+        "impressionCount" : 258,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 24,

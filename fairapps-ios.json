@@ -290,10 +290,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 11,
-        "impressionCount" : 216,
+        "impressionCount" : 220,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 13,
+        "viewCount" : 14,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -334,10 +334,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 11,
-        "impressionCount" : 219,
+        "impressionCount" : 223,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 15,
+        "viewCount" : 16,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -369,7 +369,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 173,
+        "impressionCount" : 177,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -485,7 +485,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 2,
-        "impressionCount" : 2688,
+        "impressionCount" : 2692,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 448,
@@ -757,7 +757,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 147,
+        "impressionCount" : 151,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 14,
@@ -871,7 +871,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 1,
-        "impressionCount" : 196,
+        "impressionCount" : 200,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 24,

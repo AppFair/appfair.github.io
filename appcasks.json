@@ -25,7 +25,7 @@
       "sha256" : "51d8c3fc1a6548063a540aa38956c56efa5c7920d0f39bc720f7960e82b2372c",
       "stats" : {
         "downloadCount" : 2705,
-        "impressionCount" : 8179,
+        "impressionCount" : 8180,
         "viewCount" : 824
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "b63a1aaf440c0eb7040914ddcc6052f5dcee65fdc48d52ca626931b7da92ba0d",
       "stats" : {
         "downloadCount" : 13564,
-        "impressionCount" : 6975,
+        "impressionCount" : 6976,
         "viewCount" : 822
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 7865,
-        "impressionCount" : 6176,
+        "impressionCount" : 6177,
         "viewCount" : 585
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28268,
-        "impressionCount" : 6281,
+        "impressionCount" : 6282,
         "viewCount" : 521
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -148,9 +148,9 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/screenshot_02-mac-2642x1926.png"
       ],
       "stats" : {
-        "downloadCount" : 7518,
-        "impressionCount" : 6475,
-        "viewCount" : 560
+        "downloadCount" : 7519,
+        "impressionCount" : 6477,
+        "viewCount" : 561
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5340,
-        "impressionCount" : 6250,
+        "impressionCount" : 6251,
         "viewCount" : 437
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3014,
-        "impressionCount" : 5796,
+        "impressionCount" : 5797,
         "viewCount" : 471
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "3e66b5d0863937f8f12425dea13422174c3a75778d38aefd541a7be3f94d809d",
       "stats" : {
         "downloadCount" : 2616,
-        "impressionCount" : 6503,
+        "impressionCount" : 6504,
         "viewCount" : 500
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -263,7 +263,7 @@
       ],
       "stats" : {
         "downloadCount" : 2544,
-        "impressionCount" : 4853,
+        "impressionCount" : 4854,
         "viewCount" : 328
       },
       "subtitle" : "Video game digital distribution service",
@@ -296,7 +296,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2033,
-        "impressionCount" : 6478,
+        "impressionCount" : 6479,
         "viewCount" : 765
       },
       "subtitle" : "File archiver",
@@ -322,7 +322,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1760,
-        "impressionCount" : 5502,
+        "impressionCount" : 5503,
         "viewCount" : 367
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -350,7 +350,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1311,
-        "impressionCount" : 4937,
+        "impressionCount" : 4938,
         "viewCount" : 408
       },
       "subtitle" : "Open-source Markdown editor",
@@ -438,7 +438,7 @@
       "sha256" : "c603a81036e7dab04e5daee70e1811675a859f833ae6aa713aca5bfc8a26c977",
       "stats" : {
         "downloadCount" : 511,
-        "impressionCount" : 4803,
+        "impressionCount" : 4804,
         "viewCount" : 278
       },
       "subtitle" : "Text editor",
@@ -1722,7 +1722,7 @@
       "sha256" : "fb58b64faa7ab73dedad69a7ad11fc44ed3ecdfa05c74ef2831ba4139aa8a338",
       "stats" : {
         "downloadCount" : 1010,
-        "impressionCount" : 2272
+        "impressionCount" : 2273
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -3232,7 +3232,7 @@
       "sha256" : "43fdbf8dd65b62e5ebd5f1be52e840389784035aa7b94e3c50a1977c960abf7e",
       "stats" : {
         "downloadCount" : 2866,
-        "impressionCount" : 1271
+        "impressionCount" : 1272
       },
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
@@ -4503,6 +4503,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "swiftformat-for-xcode",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://github.com/nicklockwood/SwiftFormat/releases/download/0.49.13/SwiftFormat.for.Xcode.app.zip",
+      "homepage" : "https://github.com/nicklockwood/SwiftFormat",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swiftformat-for-xcode/AppIcon.png",
+      "localizedDescription" : "Xcode Extension for reformatting Swift code",
+      "name" : "SwiftFormat for Xcode",
+      "sha256" : "789994e7404f3b79182b6f677128ed3c732e14a75910ce0896903370a0456e2f",
+      "stats" : {
+        "downloadCount" : 668,
+        "impressionCount" : 621
+      },
+      "subtitle" : "Xcode Extension for reformatting Swift code",
+      "tintColor" : "44424D",
+      "version" : "0.49.13",
+      "versionDate" : "2022-07-17T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "jumpcut",
       "categories" : [
         "public.app-category.utilities"
@@ -4520,27 +4541,6 @@
       "subtitle" : "Clipboard manager",
       "tintColor" : "96979B",
       "version" : "0.82"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "swiftformat-for-xcode",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://github.com/nicklockwood/SwiftFormat/releases/download/0.49.13/SwiftFormat.for.Xcode.app.zip",
-      "homepage" : "https://github.com/nicklockwood/SwiftFormat",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swiftformat-for-xcode/AppIcon.png",
-      "localizedDescription" : "Xcode Extension for reformatting Swift code",
-      "name" : "SwiftFormat for Xcode",
-      "sha256" : "789994e7404f3b79182b6f677128ed3c732e14a75910ce0896903370a0456e2f",
-      "stats" : {
-        "downloadCount" : 667,
-        "impressionCount" : 620
-      },
-      "subtitle" : "Xcode Extension for reformatting Swift code",
-      "tintColor" : "44424D",
-      "version" : "0.49.13",
-      "versionDate" : "2022-07-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5107,7 +5107,7 @@
       "subtitle" : "Web security testing toolkit",
       "tintColor" : "0FA7BC",
       "version" : "2022.7.1",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5333,7 +5333,7 @@
       "subtitle" : "Shows the next meeting in the menu bar",
       "tintColor" : "47484B",
       "version" : "4.0.6",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6600,7 +6600,7 @@
       "sha256" : "20ffe559a85bd28b86f75d97bda591de70cbd53dc7ac167613ca69fd66c71a04",
       "stats" : {
         "downloadCount" : 204,
-        "impressionCount" : 210
+        "impressionCount" : 211
       },
       "subtitle" : "Menu bar customization tool",
       "tintColor" : "263D3E",
@@ -7478,7 +7478,7 @@
       "sha256" : "adcf450d98c247fe4c45c68353f19afca3e2039c8431ec080f14000fe9cc36bf",
       "stats" : {
         "downloadCount" : 146,
-        "impressionCount" : 337
+        "impressionCount" : 338
       },
       "subtitle" : "Xcode formatter plug-in for Swift code",
       "tintColor" : "F0553B",
@@ -8208,7 +8208,7 @@
       "sha256" : "2a1a48c608b30667671f4111f1d38455a6291210604d81ca70ef4a5f02823f5e",
       "stats" : {
         "downloadCount" : 119,
-        "impressionCount" : 184
+        "impressionCount" : 185
       },
       "subtitle" : "Generate and view a class diagram for Swift code in Xcode",
       "tintColor" : "617FFB",
@@ -8412,7 +8412,7 @@
       "subtitle" : "HTTP(S) debugging proxy, analyzer, and client",
       "tintColor" : "E1421F",
       "version" : "1.9.1",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8799,7 +8799,7 @@
       "sha256" : "00862e3f761217e4dfa7d8ac042bc085c530eb1375bccca7f765896f0c523b21",
       "stats" : {
         "downloadCount" : 99,
-        "impressionCount" : 233
+        "impressionCount" : 234
       },
       "subtitle" : "Xcode extension to format Swift code",
       "tintColor" : "4EA1E5",
@@ -9735,7 +9735,7 @@
       "subtitle" : "GUI based on Clash",
       "tintColor" : "BAC3D0",
       "version" : "0.19.25",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12623,7 +12623,7 @@
       "subtitle" : "Web security testing toolkit",
       "tintColor" : "655AFE",
       "version" : "2022.7.1",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13741,7 +13741,7 @@
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
       "version" : "2.1.2",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14547,7 +14547,7 @@
       "sha256" : "b0ea0ac8793ee1e343c815f5e2bfbeba01ea713181c2c66ad69b73fbed69a902",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 591
+        "impressionCount" : 592
       },
       "subtitle" : "Medical image viewer",
       "tintColor" : "3DA5E6",
@@ -21505,7 +21505,7 @@
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
       "version" : "1.84.0,stable.4,4430205",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23888,7 +23888,7 @@
       "sha256" : "f31f664d512fd248d479fc82e17670d1e99bd4f37174698b39faf74ab3b05460",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 240
+        "impressionCount" : 241
       },
       "subtitle" : "WinAMP clone written in SwiftUI",
       "tintColor" : "C4B5A3",
@@ -25693,7 +25693,7 @@
       "subtitle" : "VPN client",
       "tintColor" : "5A2A61",
       "version" : "10.12.4",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25958,7 +25958,7 @@
       "name" : "DetectX Swift",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 205
+        "impressionCount" : 206
       },
       "subtitle" : "Searching and troubleshooting tool",
       "tintColor" : "74785A",
@@ -26942,7 +26942,7 @@
       "name" : "4Peaks",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 683
+        "impressionCount" : 684
       },
       "subtitle" : "Visualize and edit DNA sequence trace files",
       "tintColor" : "99A5AD",
@@ -28719,7 +28719,7 @@
       "sha256" : "696a2cd0c6245502727b2cab0f0a2d92c636fca6e4c3c1fbfa289e152cadc46c",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 198
+        "impressionCount" : 199
       },
       "subtitle" : "Native implementation of Google Authenticator based on Swift3",
       "tintColor" : "FDD835",
@@ -29564,7 +29564,7 @@
       "sha256" : "1a12cf1061aac8cb455ebce2898b8165f89c5016b3befdbbe71ebbcef6680f0a",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 320
+        "impressionCount" : 321
       },
       "tintColor" : "46515E",
       "version" : "1.1.0,1100"
@@ -31015,7 +31015,7 @@
       "sha256" : "584a4d4ad2b3d8945c527606dedd15376690975adb243b89fa3cc1bacfe81848",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 353
+        "impressionCount" : 354
       },
       "subtitle" : "Browse and search for Swift Package Manager packages",
       "tintColor" : "EA8064",
@@ -31653,7 +31653,7 @@
       "subtitle" : "Interactive Geometry Software",
       "tintColor" : "A18119",
       "version" : "3.0b.2046",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31768,7 +31768,7 @@
       "sha256" : "43a8a2512d8b33199d0c6e5a8d79d514c999c56293d0a665fa664bc0762c587b",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 569
+        "impressionCount" : 570
       },
       "subtitle" : "Coronavirus tracker app with maps and charts",
       "tintColor" : "CECACB",
@@ -33625,7 +33625,7 @@
       "sha256" : "2e903a8bbc0661f8741b3b60d232d113ad1d56832d6675b5284da7d430a2f1df",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 535
+        "impressionCount" : 536
       },
       "subtitle" : "Group video calls, screen sharing and instant messaging",
       "tintColor" : "7CB64C",
@@ -34320,7 +34320,7 @@
       "name" : "iSwiff",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 128
+        "impressionCount" : 129
       },
       "tintColor" : "7CDA75",
       "version" : "1.14,94"
@@ -35361,7 +35361,7 @@
       "sha256" : "d91cd9da8470954978ee3cdcd74faaf4be3c128c5895d28b46b00778d8b7558e",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 88
+        "impressionCount" : 89
       },
       "subtitle" : "Access the SwiftStack data storage and management platform",
       "tintColor" : "F4D8B7",
@@ -35447,7 +35447,7 @@
       "subtitle" : "Trading platform",
       "tintColor" : "C3AB00",
       "version" : "7.17.9,20220722,6E3190",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37697,7 +37697,7 @@
       "sha256" : "e50e533fc325fc264dc6f043aca60e76be578ebb8010a620f9c0d4cbab6d2255",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 79
+        "impressionCount" : 80
       },
       "subtitle" : "Offline password manager tool",
       "tintColor" : "F5E2EB",
@@ -56726,7 +56726,7 @@
       "sha256" : "7fc8ed6911f91f0888b4b9ec3c26df41325cb4d8c2fc588fbacd35a0be7f772b",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 20
+        "impressionCount" : 21
       },
       "tintColor" : "191919",
       "version" : "4.0.2"
@@ -59780,7 +59780,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.9,20220722103024",
-      "versionDate" : "2022-07-22T17:34:43Z"
+      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,

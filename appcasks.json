@@ -25,7 +25,7 @@
       "sha256" : "51d8c3fc1a6548063a540aa38956c56efa5c7920d0f39bc720f7960e82b2372c",
       "stats" : {
         "downloadCount" : 2705,
-        "impressionCount" : 8162,
+        "impressionCount" : 8163,
         "viewCount" : 823
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "b63a1aaf440c0eb7040914ddcc6052f5dcee65fdc48d52ca626931b7da92ba0d",
       "stats" : {
         "downloadCount" : 13564,
-        "impressionCount" : 6956,
+        "impressionCount" : 6957,
         "viewCount" : 822
       },
       "subtitle" : "Web browser",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28268,
-        "impressionCount" : 6261,
+        "impressionCount" : 6262,
         "viewCount" : 520
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7518,
-        "impressionCount" : 6458,
+        "impressionCount" : 6459,
         "viewCount" : 560
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5340,
-        "impressionCount" : 6232,
+        "impressionCount" : 6233,
         "viewCount" : 437
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3014,
-        "impressionCount" : 5778,
+        "impressionCount" : 5779,
         "viewCount" : 469
       },
       "subtitle" : "Text editor",
@@ -263,7 +263,7 @@
       ],
       "stats" : {
         "downloadCount" : 2544,
-        "impressionCount" : 4835,
+        "impressionCount" : 4836,
         "viewCount" : 328
       },
       "subtitle" : "Video game digital distribution service",
@@ -296,7 +296,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2033,
-        "impressionCount" : 6460,
+        "impressionCount" : 6461,
         "viewCount" : 765
       },
       "subtitle" : "File archiver",
@@ -322,7 +322,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1760,
-        "impressionCount" : 5485,
+        "impressionCount" : 5486,
         "viewCount" : 367
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -350,7 +350,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1311,
-        "impressionCount" : 4919,
+        "impressionCount" : 4920,
         "viewCount" : 407
       },
       "subtitle" : "Open-source Markdown editor",
@@ -1991,7 +1991,7 @@
       "sha256" : "8e66c73ebd5d97bbe2b79e27bdfd3f06299edb7f941246ea52cc32883917df12",
       "stats" : {
         "downloadCount" : 583,
-        "impressionCount" : 3296,
+        "impressionCount" : 3297,
         "viewCount" : 87
       },
       "subtitle" : "Web debugging Proxy application",

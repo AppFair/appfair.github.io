@@ -7,14 +7,14 @@
 
       ],
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.84/App-Fair-macOS.zip",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.85/App-Fair-macOS.zip",
       "fundingLinks" : [
 
       ],
       "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.84/App-Fair.png",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.85/App-Fair.png",
       "localizedDescription" : "Open-source browser and installer for macOS apps and Homebrew casks",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.84/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.85/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -22,53 +22,53 @@
           "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
         },
         {
-          "type" : "com.apple.security.files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
+          "type" : "com.apple.security.files.user-selected.executable",
+          "usageDescription" : "The App Fair installs executable apps"
         },
         {
           "type" : "com.apple.security.network.server",
           "usageDescription" : "The App Fair acts as a server for checking for app updates"
         },
         {
-          "type" : "com.apple.security.files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
+          "type" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "type" : "com.apple.security.files.user-selected.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.84/README.md#2e818c0471081243bb5e49364e7923152dcd8a36dcd5c596bd8fe699d74c76e1",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.85/README.md#2e818c0471081243bb5e49364e7923152dcd8a36dcd5c596bd8fe699d74c76e1",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_00-mac-dark-3078x2044.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_00-mac-dark-2864x1950.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_00-mac-light-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.84/screenshot_06-mac-dark-1424x1722.png"
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_00-mac-dark-2864x1950.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_00-mac-dark-3078x2044.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_00-mac-light-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_06-mac-dark-1424x1722.png"
       ],
-      "sha256" : "6c147aa38b0a7634221d8b66072fc4ac87c2d4a552be331804727e98ec4d3ffb",
-      "size" : 9417244,
+      "sha256" : "557479d858743e98b31ff34e1503269391ad4a4ddadc574f2fb51c9414aef6c4",
+      "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 125,
-        "impressionCount" : 37,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 5,
         "starCount" : 25,
-        "viewCount" : 3,
+        "viewCount" : 1,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for macOS apps and Homebrew casks",
       "tintColor" : "1594E8",
-      "version" : "0.8.84",
-      "versionDate" : "2022-07-21T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.83...0.8.84"
+      "version" : "0.8.85",
+      "versionDate" : "2022-07-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.84...0.8.85"
     },
     {
       "beta" : true,
@@ -1577,13 +1577,6 @@
       "title" : "New Release: Stanza Redux 0.3.38"
     },
     {
-      "appID" : "app.App-Fair",
-      "caption" : "App Fair updated from 0.8.83 to 0.8.84",
-      "date" : "2022-07-21T20:23:50Z",
-      "identifier" : "release-app.App-Fair-0.8.84",
-      "title" : "New Release: App Fair 0.8.84"
-    },
-    {
       "appID" : "app.Cloud-Cuckoo",
       "caption" : "Cloud Cuckoo updated from 0.9.138 to 0.9.140",
       "date" : "2022-07-22T21:18:24Z",
@@ -1596,6 +1589,13 @@
       "date" : "2022-07-22T21:18:24Z",
       "identifier" : "release-app.Tune-Out-0.8.447",
       "title" : "New Release: Tune Out 0.8.447"
+    },
+    {
+      "appID" : "app.App-Fair",
+      "caption" : "App Fair updated from 0.8.84 to 0.8.85",
+      "date" : "2022-07-22T21:26:51Z",
+      "identifier" : "release-app.App-Fair-0.8.85",
+      "title" : "New Release: App Fair 0.8.85"
     }
   ],
   "platform" : "macos"

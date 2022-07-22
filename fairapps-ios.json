@@ -72,10 +72,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 10,
-        "impressionCount" : 30,
+        "impressionCount" : 31,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -331,7 +331,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 26,
-        "impressionCount" : 324,
+        "impressionCount" : 325,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,
@@ -375,7 +375,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 20,
-        "impressionCount" : 325,
+        "impressionCount" : 326,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -410,7 +410,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 247,
+        "impressionCount" : 248,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -526,7 +526,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 2,
-        "impressionCount" : 2726,
+        "impressionCount" : 2727,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 450,
@@ -798,10 +798,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 226,
+        "impressionCount" : 228,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 17,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -912,10 +912,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 1,
-        "impressionCount" : 286,
+        "impressionCount" : 288,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 28,
+        "viewCount" : 29,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

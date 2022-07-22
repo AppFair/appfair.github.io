@@ -57,10 +57,10 @@
       "size" : 9417244,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 115,
-        "impressionCount" : 31,
+        "downloadCount" : 125,
+        "impressionCount" : 37,
         "issueCount" : 5,
-        "starCount" : 24,
+        "starCount" : 25,
         "viewCount" : 3,
         "watcherCount" : 3
       },
@@ -94,7 +94,7 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 6,
-        "impressionCount" : 448,
+        "impressionCount" : 450,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -144,10 +144,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 2891,
+        "impressionCount" : 2896,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 526,
+        "viewCount" : 527,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -190,8 +190,8 @@
       "size" : 2075091,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 27,
-        "impressionCount" : 252,
+        "downloadCount" : 30,
+        "impressionCount" : 258,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 10,
@@ -210,41 +210,41 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.138/Cloud-Cuckoo-macOS.zip",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.138/Cloud-Cuckoo.png",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.138/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.138/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.138/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.138/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.138/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.138/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.138/screenshot_06-mac-1656x1560.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "001abadfee686bae55ed8d43ab813b3bc389dca2aaa512e637dac998fe4d7c17",
-      "size" : 2084765,
+      "sha256" : "c5ee8eee18487c8bd5b7cf107e9fde7c91638ce1f8313a2a46fa9d48f6158f5b",
+      "size" : 2114534,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 8,
-        "impressionCount" : 36,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 5,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.138",
-      "versionDate" : "2022-07-21T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.137...0.9.138"
+      "version" : "0.9.140",
+      "versionDate" : "2022-07-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.139...0.9.140"
     },
     {
       "beta" : true,
@@ -273,7 +273,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 14,
-        "impressionCount" : 1677,
+        "impressionCount" : 1680,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 157,
@@ -312,7 +312,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 10,
-        "impressionCount" : 1042,
+        "impressionCount" : 1045,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 83,
@@ -350,7 +350,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 5,
-        "impressionCount" : 695,
+        "impressionCount" : 697,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 52,
@@ -385,7 +385,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 5,
-        "impressionCount" : 412,
+        "impressionCount" : 414,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -423,7 +423,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 7,
-        "impressionCount" : 1068,
+        "impressionCount" : 1070,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 82,
@@ -462,7 +462,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1103,
+        "impressionCount" : 1105,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 81,
@@ -500,7 +500,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 696,
+        "impressionCount" : 698,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -544,7 +544,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 20,
-        "impressionCount" : 330,
+        "impressionCount" : 339,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 18,
@@ -580,7 +580,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 533,
+        "impressionCount" : 535,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -622,7 +622,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 331,
+        "impressionCount" : 339,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 20,
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 253,
+        "impressionCount" : 260,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,
@@ -828,7 +828,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2731,
+        "impressionCount" : 2734,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 451,
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2395,
+        "impressionCount" : 2397,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 441,
@@ -1010,7 +1010,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 749,
+        "impressionCount" : 750,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 51,
@@ -1095,7 +1095,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 633,
+        "impressionCount" : 641,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 86,
@@ -1181,7 +1181,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 233,
+        "impressionCount" : 239,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -1259,7 +1259,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1005,
+        "impressionCount" : 1006,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -1316,13 +1316,13 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.446/Tune-Out-macOS.zip",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.446/Tune-Out.png",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out.png",
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.446/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -1330,31 +1330,31 @@
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.446/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
       "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.446/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.446/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.446/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.446/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.446/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.446/screenshot_03-mac-2180x1464.png"
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_03-mac-2180x1464.png"
       ],
-      "sha256" : "027dd57a3e1c83191e52c0ca3ba7f71c76cf68eed87b7d7315c097a181411bae",
-      "size" : 9431905,
+      "sha256" : "137d21d37493cb0b8e9f58768b8dc88b3de6ab4da880b6c2e95f147b5817c707",
+      "size" : 9466880,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 5,
-        "impressionCount" : 294,
+        "downloadCount" : 1,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 30,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
       "tintColor" : "32ADE6",
-      "version" : "0.8.446",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.445...0.8.446"
+      "version" : "0.8.447",
+      "versionDate" : "2022-07-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.446...0.8.447"
     },
     {
       "beta" : true,
@@ -1529,7 +1529,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1146,
+        "impressionCount" : 1148,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -1577,13 +1577,6 @@
       "title" : "New Release: Stanza Redux 0.3.38"
     },
     {
-      "appID" : "app.Tune-Out",
-      "caption" : "Tune Out updated from 0.8.442 to 0.8.446",
-      "date" : "2022-07-20T07:20:15Z",
-      "identifier" : "release-app.Tune-Out-0.8.446",
-      "title" : "New Release: Tune Out 0.8.446"
-    },
-    {
       "appID" : "app.App-Fair",
       "caption" : "App Fair updated from 0.8.83 to 0.8.84",
       "date" : "2022-07-21T20:23:50Z",
@@ -1592,10 +1585,17 @@
     },
     {
       "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo updated from 0.9.137 to 0.9.138",
-      "date" : "2022-07-21T22:17:05Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.138",
-      "title" : "New Release: Cloud Cuckoo 0.9.138"
+      "caption" : "Cloud Cuckoo updated from 0.9.138 to 0.9.140",
+      "date" : "2022-07-22T21:18:24Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.140",
+      "title" : "New Release: Cloud Cuckoo 0.9.140"
+    },
+    {
+      "appID" : "app.Tune-Out",
+      "caption" : "Tune Out updated from 0.8.446 to 0.8.447",
+      "date" : "2022-07-22T21:18:24Z",
+      "identifier" : "release-app.Tune-Out-0.8.447",
+      "title" : "New Release: Tune Out 0.8.447"
     }
   ],
   "platform" : "macos"

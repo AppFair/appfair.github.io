@@ -57,7 +57,7 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 37,
+        "downloadCount" : 40,
         "impressionCount" : 15,
         "issueCount" : 5,
         "starCount" : 25,
@@ -144,10 +144,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 2908,
+        "impressionCount" : 2909,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 529,
+        "viewCount" : 530,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -234,7 +234,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 4,
-        "impressionCount" : 25,
+        "impressionCount" : 26,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -544,7 +544,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 20,
-        "impressionCount" : 358,
+        "impressionCount" : 359,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -622,10 +622,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 357,
+        "impressionCount" : 358,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 26,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 277,
+        "impressionCount" : 278,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -828,7 +828,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2743,
+        "impressionCount" : 2744,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 452,
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2405,
+        "impressionCount" : 2406,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 442,
@@ -1181,7 +1181,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 251,
+        "impressionCount" : 252,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 23,
@@ -1344,7 +1344,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 4,
-        "impressionCount" : 22,
+        "impressionCount" : 23,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,

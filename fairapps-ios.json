@@ -72,7 +72,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 10,
-        "impressionCount" : 33,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 11,
@@ -108,10 +108,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1686,
+        "impressionCount" : 1687,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 158,
+        "viewCount" : 159,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -143,7 +143,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1051,
+        "impressionCount" : 1052,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 84,
@@ -331,7 +331,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 29,
-        "impressionCount" : 365,
+        "impressionCount" : 366,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -375,7 +375,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 20,
-        "impressionCount" : 365,
+        "impressionCount" : 366,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 29,
@@ -526,7 +526,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 2,
-        "impressionCount" : 2750,
+        "impressionCount" : 2751,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 453,
@@ -798,7 +798,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 258,
+        "impressionCount" : 259,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 24,
@@ -834,7 +834,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1006,
+        "impressionCount" : 1007,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -912,7 +912,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 8,
-        "impressionCount" : 29,
+        "impressionCount" : 31,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 10,

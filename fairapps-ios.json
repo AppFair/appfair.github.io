@@ -72,10 +72,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 8,
-        "impressionCount" : 20,
+        "impressionCount" : 21,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 7,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -143,7 +143,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1049,
+        "impressionCount" : 1050,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 83,
@@ -216,7 +216,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1074,
+        "impressionCount" : 1075,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 82,
@@ -331,7 +331,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 29,
-        "impressionCount" : 353,
+        "impressionCount" : 354,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -375,7 +375,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 20,
-        "impressionCount" : 352,
+        "impressionCount" : 353,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -410,7 +410,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 272,
+        "impressionCount" : 273,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -526,10 +526,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 2,
-        "impressionCount" : 2738,
+        "impressionCount" : 2740,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 451,
+        "viewCount" : 452,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -798,7 +798,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 246,
+        "impressionCount" : 247,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 22,
@@ -912,7 +912,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 6,
-        "impressionCount" : 17,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 8,

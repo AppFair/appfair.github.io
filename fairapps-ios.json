@@ -72,10 +72,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 10,
-        "impressionCount" : 27,
+        "impressionCount" : 28,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -108,10 +108,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1685,
+        "impressionCount" : 1686,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 157,
+        "viewCount" : 158,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -143,10 +143,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1050,
+        "impressionCount" : 1051,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 83,
+        "viewCount" : 84,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -375,10 +375,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 20,
-        "impressionCount" : 359,
+        "impressionCount" : 360,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 27,
+        "viewCount" : 28,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",

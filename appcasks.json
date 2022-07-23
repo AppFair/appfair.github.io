@@ -1265,9 +1265,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-libreoffice/README.md",
       "sha256" : "9534e444b3102a653f3d0c0e3fb54efb20caf2c91ce121b2db00d2531ab8b7fa",
       "stats" : {
-        "downloadCount" : 2444,
-        "impressionCount" : 1686,
-        "viewCount" : 91
+        "downloadCount" : 2445,
+        "impressionCount" : 1688,
+        "viewCount" : 93
       },
       "subtitle" : "Office suite",
       "tintColor" : "CBCBCB",
@@ -40025,8 +40025,8 @@
       "name" : "Ungoogled Chromium",
       "sha256" : "aa1a20809e4511c13905793dcbff0313110f426acecba6e26787c41cd1ae39ca",
       "stats" : {
-        "downloadCount" : 925,
-        "impressionCount" : 138
+        "downloadCount" : 926,
+        "impressionCount" : 139
       },
       "subtitle" : "Google Chromium, sans integration with Google",
       "tintColor" : "ACC4F1",

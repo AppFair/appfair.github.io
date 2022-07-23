@@ -25,8 +25,8 @@
       "sha256" : "51d8c3fc1a6548063a540aa38956c56efa5c7920d0f39bc720f7960e82b2372c",
       "stats" : {
         "downloadCount" : 2734,
-        "impressionCount" : 8228,
-        "viewCount" : 831
+        "impressionCount" : 8230,
+        "viewCount" : 832
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -57,7 +57,7 @@
       "sha256" : "b63a1aaf440c0eb7040914ddcc6052f5dcee65fdc48d52ca626931b7da92ba0d",
       "stats" : {
         "downloadCount" : 13494,
-        "impressionCount" : 7020,
+        "impressionCount" : 7022,
         "viewCount" : 824
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 7870,
-        "impressionCount" : 6222,
+        "impressionCount" : 6224,
         "viewCount" : 589
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28267,
-        "impressionCount" : 6329,
+        "impressionCount" : 6331,
         "viewCount" : 528
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7601,
-        "impressionCount" : 6526,
+        "impressionCount" : 6528,
         "viewCount" : 565
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5354,
-        "impressionCount" : 6298,
+        "impressionCount" : 6300,
         "viewCount" : 441
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3023,
-        "impressionCount" : 5837,
+        "impressionCount" : 5839,
         "viewCount" : 474
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "3e66b5d0863937f8f12425dea13422174c3a75778d38aefd541a7be3f94d809d",
       "stats" : {
         "downloadCount" : 2592,
-        "impressionCount" : 6544,
+        "impressionCount" : 6546,
         "viewCount" : 502
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -263,7 +263,7 @@
       ],
       "stats" : {
         "downloadCount" : 2558,
-        "impressionCount" : 4893,
+        "impressionCount" : 4895,
         "viewCount" : 332
       },
       "subtitle" : "Video game digital distribution service",
@@ -296,7 +296,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2045,
-        "impressionCount" : 6522,
+        "impressionCount" : 6524,
         "viewCount" : 767
       },
       "subtitle" : "File archiver",
@@ -322,7 +322,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1752,
-        "impressionCount" : 5545,
+        "impressionCount" : 5547,
         "viewCount" : 371
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -350,8 +350,8 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1295,
-        "impressionCount" : 4978,
-        "viewCount" : 408
+        "impressionCount" : 4980,
+        "viewCount" : 409
       },
       "subtitle" : "Open-source Markdown editor",
       "tintColor" : "5BC1DA",
@@ -381,7 +381,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1137,
-        "impressionCount" : 6565,
+        "impressionCount" : 6567,
         "viewCount" : 428
       },
       "subtitle" : "3D creation suite",
@@ -438,7 +438,7 @@
       "sha256" : "c603a81036e7dab04e5daee70e1811675a859f833ae6aa713aca5bfc8a26c977",
       "stats" : {
         "downloadCount" : 496,
-        "impressionCount" : 4840,
+        "impressionCount" : 4842,
         "viewCount" : 281
       },
       "subtitle" : "Text editor",
@@ -466,7 +466,7 @@
       ],
       "stats" : {
         "downloadCount" : 450,
-        "impressionCount" : 4628,
+        "impressionCount" : 4630,
         "viewCount" : 419
       },
       "subtitle" : "Sandbox construction video game",
@@ -497,7 +497,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 442,
-        "impressionCount" : 5161,
+        "impressionCount" : 5163,
         "viewCount" : 442
       },
       "subtitle" : "Text, code, and markup editor",
@@ -528,7 +528,7 @@
       "sha256" : "bd116c7050a1422be12fa3f308d5a624ef56eb7587a8695fdd4df39843de04d1",
       "stats" : {
         "downloadCount" : 277,
-        "impressionCount" : 4183,
+        "impressionCount" : 4185,
         "viewCount" : 375
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -556,7 +556,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 243,
-        "impressionCount" : 4026,
+        "impressionCount" : 4028,
         "viewCount" : 353
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -584,7 +584,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 221,
-        "impressionCount" : 2778,
+        "impressionCount" : 2779,
         "viewCount" : 250
       },
       "subtitle" : "File synchronizer",
@@ -672,8 +672,8 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 2370,
-        "viewCount" : 216
+        "impressionCount" : 2371,
+        "viewCount" : 217
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.8"
@@ -842,7 +842,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5777,
-        "impressionCount" : 1577,
+        "impressionCount" : 1578,
         "viewCount" : 77
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -928,7 +928,7 @@
       "sha256" : "e0b4f5ddafa8e478b5f0e8fd36e8e042718e8cef394005efedb7cb6cd7ea0f92",
       "stats" : {
         "downloadCount" : 4057,
-        "impressionCount" : 3218,
+        "impressionCount" : 3219,
         "viewCount" : 213
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1108,7 +1108,7 @@
       "sha256" : "b7c4011bcbd374c25e27148b452dbc2b0b72846bd993ffe6ac0ba922c2b5612f",
       "stats" : {
         "downloadCount" : 2779,
-        "impressionCount" : 1880,
+        "impressionCount" : 1881,
         "viewCount" : 166
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1326,7 +1326,7 @@
       "sha256" : "e70f2983852e4d05f69ee7676c38ad0cb4214e3e252887cbc053ea973bd27568",
       "stats" : {
         "downloadCount" : 2376,
-        "impressionCount" : 1893,
+        "impressionCount" : 1894,
         "viewCount" : 103
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1584,7 +1584,7 @@
       "sha256" : "70e061df686965ead02bc7fc6701fd6070a8cbf88fa4de0db710c3472d2530d8",
       "stats" : {
         "downloadCount" : 1351,
-        "impressionCount" : 1599,
+        "impressionCount" : 1600,
         "viewCount" : 90
       },
       "subtitle" : "Customizable email client",
@@ -1859,7 +1859,7 @@
       "sha256" : "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
       "stats" : {
         "downloadCount" : 763,
-        "impressionCount" : 1301,
+        "impressionCount" : 1302,
         "viewCount" : 68
       },
       "subtitle" : "MySQL/MariaDB database management platform",
@@ -1991,7 +1991,7 @@
       "sha256" : "336ac944cf473a9832b703d8eaa3df8016831ce6c15e0062338d1d23c6dc0e40",
       "stats" : {
         "downloadCount" : 565,
-        "impressionCount" : 2187,
+        "impressionCount" : 2188,
         "viewCount" : 163
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -2013,7 +2013,7 @@
       "sha256" : "88731f0eace5784915a9e221724eca5c7460076d43290dd3444e8ad1c5e5ba5e",
       "stats" : {
         "downloadCount" : 545,
-        "impressionCount" : 1287,
+        "impressionCount" : 1288,
         "viewCount" : 71
       },
       "subtitle" : "Configurable document editor that supports Markdown",
@@ -2125,7 +2125,7 @@
       "sha256" : "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
       "stats" : {
         "downloadCount" : 461,
-        "impressionCount" : 1236,
+        "impressionCount" : 1237,
         "viewCount" : 64
       },
       "subtitle" : "Screen capture tool with mark up and sharing features",
@@ -3232,7 +3232,7 @@
       "sha256" : "43fdbf8dd65b62e5ebd5f1be52e840389784035aa7b94e3c50a1977c960abf7e",
       "stats" : {
         "downloadCount" : 2901,
-        "impressionCount" : 1276
+        "impressionCount" : 1277
       },
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
@@ -3375,7 +3375,7 @@
       "sha256" : "1ade99d2e85828475a88268a38e6b0eda372d5106e316439bf9794e9c76b9ac2",
       "stats" : {
         "downloadCount" : 2281,
-        "impressionCount" : 819
+        "impressionCount" : 820
       },
       "subtitle" : "Knowledge base that works on top of a local folder of plain text Markdown files",
       "tintColor" : "CBC6E5",
@@ -3679,7 +3679,7 @@
       "sha256" : "f8ad590d9d5cc081d3e8f9ecf559e41991aa8a72fd41ed4e7bac70e8e804a2c5",
       "stats" : {
         "downloadCount" : 1404,
-        "impressionCount" : 363
+        "impressionCount" : 364
       },
       "subtitle" : "QuickLook generator for Markdown files",
       "tintColor" : "254255",
@@ -3861,7 +3861,7 @@
       "sha256" : "83320faad3b217079f6638b1f4169ffc37465f255a93e262d1646f2a5f53f263",
       "stats" : {
         "downloadCount" : 1050,
-        "impressionCount" : 365
+        "impressionCount" : 366
       },
       "subtitle" : "Simple and elegant markdown editor",
       "tintColor" : "1E3C43",
@@ -5061,7 +5061,7 @@
       "sha256" : "bb30c10d4681ae753efccb055ea97290e9f208f7e62798a4be3b555b0db2230e",
       "stats" : {
         "downloadCount" : 456,
-        "impressionCount" : 867
+        "impressionCount" : 868
       },
       "subtitle" : "Utility to fix grammar errors and style issues in text",
       "tintColor" : "81DEC8",
@@ -6032,7 +6032,7 @@
       "sha256" : "0db364bcb0b2eaad0237c6f8fbca2178ce0469a2c042f1f73b9cd6558c44ca1f",
       "stats" : {
         "downloadCount" : 261,
-        "impressionCount" : 324
+        "impressionCount" : 325
       },
       "subtitle" : "Extensible two-pane file manager",
       "tintColor" : "EA7429",
@@ -6255,7 +6255,7 @@
       "sha256" : "73ee8fbcf481b1cf68a3456f3c215be8a7d8835342220cc44fba6fa0440f37fc",
       "stats" : {
         "downloadCount" : 231,
-        "impressionCount" : 222
+        "impressionCount" : 223
       },
       "subtitle" : "Open-source markdown editor",
       "tintColor" : "41C1A1",
@@ -7088,7 +7088,7 @@
       "sha256" : "bf317b23ea1f2a5ecd9ae3a6b60e3c878008bfe51a7b0b69d17427945f6f89e2",
       "stats" : {
         "downloadCount" : 172,
-        "impressionCount" : 309
+        "impressionCount" : 310
       },
       "subtitle" : "All-in-one bookmark manager",
       "tintColor" : "ADD1F2",
@@ -7351,7 +7351,7 @@
       "sha256" : "94e83f27c3b9c0ffdecc96c7f04d34cc7fb95e4e71c7b5f19c4faae83b2e91eb",
       "stats" : {
         "downloadCount" : 153,
-        "impressionCount" : 343
+        "impressionCount" : 344
       },
       "subtitle" : "Utility to support moving and resizing using a modifier key and mouse drag",
       "tintColor" : "464646",
@@ -8145,7 +8145,7 @@
       "sha256" : "49ae329b1bf51c0669e76ed7269a545c45a041791baaf898576995081a49dcce",
       "stats" : {
         "downloadCount" : 120,
-        "impressionCount" : 286
+        "impressionCount" : 287
       },
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
@@ -8248,7 +8248,7 @@
       "sha256" : "2a1a48c608b30667671f4111f1d38455a6291210604d81ca70ef4a5f02823f5e",
       "stats" : {
         "downloadCount" : 117,
-        "impressionCount" : 189
+        "impressionCount" : 190
       },
       "subtitle" : "Generate and view a class diagram for Swift code in Xcode",
       "tintColor" : "617FFB",
@@ -9690,7 +9690,7 @@
       "sha256" : "4a13e711373d100d51337f29b445ab0d214f6601684779e4f9cb790e703c5ab2",
       "stats" : {
         "downloadCount" : 82,
-        "impressionCount" : 453
+        "impressionCount" : 454
       },
       "subtitle" : "Notes manager",
       "tintColor" : "CAD1F3",
@@ -9810,7 +9810,7 @@
       "sha256" : "e70aef4218e4ae27a0df095d32f489aa9d89cc2bb3de1da6ab2989d1bb4c6300",
       "stats" : {
         "downloadCount" : 81,
-        "impressionCount" : 683
+        "impressionCount" : 684
       },
       "subtitle" : "View, Screen Share, organize, import, and download files to a reMarkable device",
       "tintColor" : "0B0B0B",
@@ -10072,7 +10072,7 @@
       "sha256" : "017f862e7dc0583a2a6f162e3842f1ab1f5d9d08499962c4d577ad1a49db5630",
       "stats" : {
         "downloadCount" : 75,
-        "impressionCount" : 224
+        "impressionCount" : 225
       },
       "subtitle" : "Desktop version of Remix web IDE used for Ethereum smart contract development",
       "tintColor" : "000000",
@@ -10578,7 +10578,7 @@
       "sha256" : "5ca00f5135e769165c683dc0174ea95bd9052ca751a0704b1a1a20dd297b4e3d",
       "stats" : {
         "downloadCount" : 66,
-        "impressionCount" : 191
+        "impressionCount" : 192
       },
       "subtitle" : "Markdown-based note-taking app that doesn't suck",
       "tintColor" : "F4B85A",
@@ -11293,7 +11293,7 @@
       "name" : "AmorphousDiskMark",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 680
+        "impressionCount" : 681
       },
       "subtitle" : "App to measure storage read/write performance",
       "tintColor" : "A4BD91",
@@ -11637,7 +11637,7 @@
       "sha256" : "7495fb235067c6548179a7e6fbaaa728e9616b92e5b5984481d4c97f84996953",
       "stats" : {
         "downloadCount" : 52,
-        "impressionCount" : 337
+        "impressionCount" : 339
       },
       "subtitle" : "Markdown note editor for developers",
       "tintColor" : "207582",
@@ -12017,7 +12017,7 @@
       "sha256" : "046f2603f7e4dcdc7535c6a5652dbfbab5cbe93fa36ca161f8a8029b53770b76",
       "stats" : {
         "downloadCount" : 50,
-        "impressionCount" : 198
+        "impressionCount" : 199
       },
       "subtitle" : "Native markdown editor",
       "tintColor" : "E8EFDC",
@@ -15260,7 +15260,7 @@
       "sha256" : "397499d1ff1712eb14b7dcf169ab0f78a7ee70f2df51a40a8b6aa60ef319ef5a",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 210
+        "impressionCount" : 211
       },
       "subtitle" : "Previewer for Markdown, MultiMarkdown and other text markup languages",
       "tintColor" : "C1E5EE",
@@ -15782,7 +15782,7 @@
       "sha256" : "ccd48b7967dabb6e59872010222f60f455ac195b3c549c206d0c1ed3237fc3c2",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 422
+        "impressionCount" : 423
       },
       "subtitle" : "Markdown editor with inline preview",
       "tintColor" : "FE924A",
@@ -17557,7 +17557,7 @@
       "sha256" : "f1b65caaa4b74ce446062d3083a8db73f7618cef03d0f9f1a0dc2efa1a6a74ff",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 234
+        "impressionCount" : 235
       },
       "subtitle" : "Personal knowledge base",
       "tintColor" : "A07E2A",
@@ -18067,7 +18067,7 @@
       "name" : "Unclutter",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 404
+        "impressionCount" : 405
       },
       "subtitle" : "Desktop storage area for notes, files and pasteboard clips",
       "tintColor" : "488BBB",
@@ -20183,7 +20183,7 @@
       "name" : "Novabench",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 117
+        "impressionCount" : 118
       },
       "subtitle" : "Benchmark tool to quickly test and compare the computer's performance",
       "tintColor" : "687C89",
@@ -20302,7 +20302,7 @@
       "sha256" : "fb0e3dd5c54eb0e2005bf9d6b7293aa41a3516ef40e42c5ff9240da2cee062e5",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 137
+        "impressionCount" : 138
       },
       "subtitle" : "Note-taking application",
       "tintColor" : "1F4D6B",
@@ -21038,7 +21038,7 @@
       "sha256" : "e33b49fb41a264006d3e59b3ffad431f6aa1e70be24d0a2d07b9c128bf17f5b9",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 89
+        "impressionCount" : 91
       },
       "subtitle" : "Cloud notes",
       "tintColor" : "ACAAAA",
@@ -23666,7 +23666,7 @@
       "sha256" : "040086b134f45895914c0e00f38f4ef744803dc367245c1163329ae46b4f1b73",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 217
+        "impressionCount" : 218
       },
       "subtitle" : "Markdown writing, note taking, and static blog generator app",
       "tintColor" : "75737B",
@@ -24881,7 +24881,7 @@
       "sha256" : "f16b19161e442180586fb99376fac7c90d8ae4c62837ecfb09374e7bed78656b",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 166
+        "impressionCount" : 167
       },
       "subtitle" : "App to edit markdown files in place",
       "tintColor" : "D1D3DC",
@@ -25257,7 +25257,7 @@
       "sha256" : "add26e0a018920c0a483db8c79a0e2cdbbd0a12bbe959aa48f737763f4f1ce8f",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 253
+        "impressionCount" : 254
       },
       "subtitle" : "Notes, whiteboarding, todos, and a daily planner in one tool",
       "tintColor" : "3D3D41",
@@ -25862,7 +25862,7 @@
       "name" : "Box Notes",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 372
+        "impressionCount" : 373
       },
       "tintColor" : "E6E6EE",
       "version" : "1.4.0"
@@ -26689,7 +26689,7 @@
       "sha256" : "8c3e5c7c761f31abf414d632e6787f95e08ad112bfd43e63f90a925ae0c3fef2",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 129
+        "impressionCount" : 130
       },
       "subtitle" : "Word processor that uses plain text Markdown",
       "tintColor" : "BCBCBC",
@@ -27419,7 +27419,7 @@
       "sha256" : "f59b5f6c57b4c3bfed4ab5fc40b04628041e5e8bca961c45204a5f189bd4946c",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 196
+        "impressionCount" : 197
       },
       "subtitle" : "Text editor",
       "tintColor" : "828282",
@@ -27814,7 +27814,7 @@
       "sha256" : "254c1f656191c916f5994354d66160864e1269fd2b70b82e69d497909fcb4cef",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 171
+        "impressionCount" : 172
       },
       "subtitle" : "Manage all your tasks, files, and notes",
       "tintColor" : "47535E",
@@ -29519,7 +29519,7 @@
       "sha256" : "02fa6519b152d28cb6bd9d41be0a859ef66c35bdf563a0a2dab7e4dccd334d8e",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 231
+        "impressionCount" : 232
       },
       "subtitle" : "Learn how to play the piano using falling notes",
       "tintColor" : "4B5850",
@@ -29876,7 +29876,7 @@
       "sha256" : "c3844123d14642d423f8f04e4fca1bbe7661c54b109cd8eb3eb1cfda8a6d8a60",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 564
+        "impressionCount" : 565
       },
       "tintColor" : "3D5C6D",
       "version" : "1.2.4"
@@ -30723,7 +30723,7 @@
       "sha256" : "d0e4431d02a7f6185f12958f805ffba97b212f6fc7e2baff0564ac6e5fea0cf0",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 138
+        "impressionCount" : 139
       },
       "subtitle" : "Markdown editor with pandoc integration and paginated preview",
       "tintColor" : "BAAC97",
@@ -31516,7 +31516,7 @@
       "sha256" : "ae0c4291182011a92be5b48ffa1f3568ed69fd1663d57c4a00abdc3241a54e1d",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 140
+        "impressionCount" : 141
       },
       "subtitle" : "Collaborative note-taking app",
       "tintColor" : "FB738C",
@@ -32288,7 +32288,7 @@
       "sha256" : "9efa92e35ce27e8c3d72dd0d5038314df19dc76102c3165582c7fa49edd420ef",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 238
+        "impressionCount" : 239
       },
       "subtitle" : "Kanban board that works on plain text markdown files or code",
       "tintColor" : "242424",
@@ -33522,7 +33522,7 @@
       "sha256" : "4fff4042c6ac7c047097c5e6d59a8a1c3f9dacfbdcadb3121904426413b38e06",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 105
+        "impressionCount" : 106
       },
       "subtitle" : "Markdown editor",
       "tintColor" : "F0A839",
@@ -33662,7 +33662,7 @@
       "sha256" : "17f9bf20ade564f59cc65f7f6ca63419635f8350d1dee7e64ca9b8ba46fd9043",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 95
+        "impressionCount" : 96
       },
       "subtitle" : "Notes organizer",
       "tintColor" : "B2A89F",
@@ -34022,7 +34022,7 @@
       "sha256" : "bae758c1dde501365cc774adeb2dd85418e0b0513df48a2ee66ba0b792cb02d5",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 282
+        "impressionCount" : 283
       },
       "subtitle" : "Markdown editor",
       "tintColor" : "D6D7D4",
@@ -34474,7 +34474,7 @@
       "sha256" : "c78d19930c904ce19313c4ca981aa1141c9a7264a23fc3eb49aa7d3a5cb4e4b1",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 186
+        "impressionCount" : 187
       },
       "subtitle" : "Reading notes management tool",
       "tintColor" : "F1F5FE",
@@ -35449,7 +35449,7 @@
       "sha256" : "7ac0c07fbe3c0b9b1bf575274e590c7070e9b30f46d16744464ae99d4aed9f07",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 119
+        "impressionCount" : 120
       },
       "subtitle" : "Rich text (HTML & Markdown) editor that saves documents with themes",
       "tintColor" : "F4F4F4",
@@ -36663,7 +36663,7 @@
       "sha256" : "2d293121534a468e5f166e18eaa28f8db7e39a617b092e06c0d8b339191d9f47",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 117
+        "impressionCount" : 118
       },
       "subtitle" : "Electron-powered markdown editor with live preview",
       "tintColor" : "363636",
@@ -37463,7 +37463,7 @@
       "sha256" : "599dc0db44d82145fb71583cdca6561077d72e532bf132a4b013a360f7b9ba82",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 102
+        "impressionCount" : 103
       },
       "subtitle" : "Rich markdown live preview app with linter",
       "tintColor" : "DDA873",
@@ -37824,7 +37824,7 @@
       "sha256" : "40f3b03175fa00628957151c26c2b4755ace3510825003a4c8a13dbbe44224f8",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 109
+        "impressionCount" : 110
       },
       "subtitle" : "Tool to take, visualize and analyze notes",
       "tintColor" : "876431",
@@ -43032,7 +43032,7 @@
       "sha256" : "3ce1d3e6cf452fe065a1f187959c8ec434cbe7a3e83fae17d4e7ed511c59af15",
       "stats" : {
         "downloadCount" : 83,
-        "impressionCount" : 161
+        "impressionCount" : 162
       },
       "subtitle" : "Plain-text file notepad and todo-list manager",
       "tintColor" : "283B6F",
@@ -49980,7 +49980,7 @@
       "sha256" : "9990fecfee204ed79e76b730078aa5fc0621b558a1e09da960a10fab11e827a0",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 32
+        "impressionCount" : 33
       },
       "subtitle" : "Write, view, manage and share content-rich notes",
       "tintColor" : "3C7EC9",
@@ -51313,7 +51313,7 @@
       "sha256" : "234b50d22d126eedaefcac5f3d331d1d913b2140b3ea4869f92042f2a5216c26",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 29
+        "impressionCount" : 30
       },
       "subtitle" : "Thinking notebook and Markdown IDE",
       "tintColor" : "535553",
@@ -54230,7 +54230,7 @@
       "sha256" : "4b3d44a0666c2bf2dd838c0f190e9a5678b2dc4d76e83d70fe091295d4cabdbc",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 24
+        "impressionCount" : 25
       },
       "subtitle" : "Text editor",
       "tintColor" : "ACDCE9",

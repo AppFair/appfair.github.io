@@ -71,11 +71,11 @@
       "size" : 5400273,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 14,
-        "impressionCount" : 58,
+        "downloadCount" : 21,
+        "impressionCount" : 64,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -108,7 +108,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1695,
+        "impressionCount" : 1696,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 159,
@@ -143,7 +143,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1060,
+        "impressionCount" : 1061,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 84,
@@ -181,7 +181,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 4,
-        "impressionCount" : 707,
+        "impressionCount" : 708,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 52,
@@ -216,7 +216,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1080,
+        "impressionCount" : 1081,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 82,
@@ -251,7 +251,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1115,
+        "impressionCount" : 1116,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 81,
@@ -289,7 +289,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 5,
-        "impressionCount" : 707,
+        "impressionCount" : 708,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 51,
@@ -331,7 +331,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 29,
-        "impressionCount" : 392,
+        "impressionCount" : 393,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,
@@ -375,7 +375,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 20,
-        "impressionCount" : 390,
+        "impressionCount" : 391,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -410,7 +410,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 303,
+        "impressionCount" : 304,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -526,7 +526,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 2,
-        "impressionCount" : 2764,
+        "impressionCount" : 2765,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 456,
@@ -798,10 +798,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 280,
+        "impressionCount" : 281,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 27,
+        "viewCount" : 28,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -912,10 +912,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 12,
-        "impressionCount" : 57,
+        "impressionCount" : 58,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 13,
+        "viewCount" : 14,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

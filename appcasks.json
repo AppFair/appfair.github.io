@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 7790,
-        "impressionCount" : 6264,
+        "impressionCount" : 6265,
         "viewCount" : 593
       },
       "subtitle" : "Multimedia player",
@@ -235,8 +235,8 @@
       ],
       "stats" : {
         "downloadCount" : 2569,
-        "impressionCount" : 4933,
-        "viewCount" : 335
+        "impressionCount" : 4935,
+        "viewCount" : 336
       },
       "subtitle" : "Video game digital distribution service",
       "tintColor" : "416082",
@@ -322,7 +322,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1755,
-        "impressionCount" : 5584,
+        "impressionCount" : 5585,
         "viewCount" : 372
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -404,7 +404,7 @@
       "sha256" : "767cb16314e3869c42cff78db92bcad7a7faa861c70f97b1326fe3686c62b61f",
       "stats" : {
         "downloadCount" : 1081,
-        "impressionCount" : 2258,
+        "impressionCount" : 2259,
         "viewCount" : 148
       },
       "subtitle" : "Open-source video transcoder",
@@ -466,7 +466,7 @@
       ],
       "stats" : {
         "downloadCount" : 447,
-        "impressionCount" : 4657,
+        "impressionCount" : 4659,
         "viewCount" : 419
       },
       "subtitle" : "Sandbox construction video game",
@@ -698,7 +698,7 @@
       "sha256" : "65c67ab1fa1e016363b14b303d5979cb61c051ee97d1763e0abfee6592085d23",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 2725,
+        "impressionCount" : 2727,
         "viewCount" : 264
       },
       "subtitle" : "EVE Online client",
@@ -775,7 +775,7 @@
       "sha256" : "76f8038715c792482185a927881186417d960adb62940949de28e03867626c28",
       "stats" : {
         "downloadCount" : 7994,
-        "impressionCount" : 2518,
+        "impressionCount" : 2519,
         "viewCount" : 199
       },
       "subtitle" : "Team communication and collaboration software",
@@ -911,7 +911,7 @@
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
       "version" : "2.7.27",
-      "versionDate" : "2022-07-24T12:30:55Z"
+      "versionDate" : "2022-07-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2036,7 +2036,7 @@
       "sha256" : "2f242f70fe8c338d5808378866111a48d6ae47b652552d860a6c1fd2b3e82bd5",
       "stats" : {
         "downloadCount" : 510,
-        "impressionCount" : 1950,
+        "impressionCount" : 1951,
         "viewCount" : 97
       },
       "subtitle" : "Home media player",
@@ -2286,8 +2286,8 @@
       "sha256" : "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73",
       "stats" : {
         "downloadCount" : 311,
-        "impressionCount" : 1761,
-        "viewCount" : 181
+        "impressionCount" : 1763,
+        "viewCount" : 183
       },
       "subtitle" : "Retro video game emulation",
       "tintColor" : "571728",
@@ -2374,8 +2374,8 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/README.md",
       "stats" : {
         "downloadCount" : 178,
-        "impressionCount" : 150,
-        "viewCount" : 9
+        "impressionCount" : 152,
+        "viewCount" : 10
       },
       "subtitle" : "Multiplayer online battle arena game",
       "tintColor" : "4A553E",
@@ -2507,7 +2507,7 @@
       "sha256" : "212e86f21e944db6200c19cdb95e7dc5bca31c6be3e51923d27c96a8695ba738",
       "stats" : {
         "downloadCount" : 104,
-        "impressionCount" : 1338,
+        "impressionCount" : 1339,
         "viewCount" : 79
       },
       "subtitle" : "Secure video conferencing app",
@@ -2553,7 +2553,7 @@
       "sha256" : "5b37ff0853875678175e01f785dd5db06d401fa5e8e2a1c6b8a4103a912b3666",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 1827,
+        "impressionCount" : 1828,
         "viewCount" : 161
       },
       "subtitle" : "Visual communication software",
@@ -2619,8 +2619,8 @@
       "sha256" : "20346073731e3dc0ccfc79ce05abe2e1e3a9d815fb945c0683169d455c6c1004",
       "stats" : {
         "downloadCount" : 85,
-        "impressionCount" : 1612,
-        "viewCount" : 155
+        "impressionCount" : 1614,
+        "viewCount" : 156
       },
       "subtitle" : "Real-time strategy game engine for Westwood games",
       "tintColor" : "574938",
@@ -2663,8 +2663,8 @@
       "sha256" : "d1a2073dee3435d8a78bf289206248c9ed6be5e17f4ba1ac8412caf6d0eae0b0",
       "stats" : {
         "downloadCount" : 31,
-        "impressionCount" : 1681,
-        "viewCount" : 149
+        "impressionCount" : 1683,
+        "viewCount" : 150
       },
       "subtitle" : "Real-time strategy game",
       "tintColor" : "776742",
@@ -2829,8 +2829,8 @@
       "sha256" : "5a0bdd9bc4cb7beea03b95a2549c1cf994ea8646f6621f5353dd22d79c757404",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 1578,
-        "viewCount" : 130
+        "impressionCount" : 1580,
+        "viewCount" : 131
       },
       "subtitle" : "Turn-based strategy, artillery, action and comedy game",
       "tintColor" : "C077C6",
@@ -2916,7 +2916,7 @@
       "sha256" : "d5c01584a97aaee4aef222b0f07ada24ada823a7a515a79c357084b1ecddd8a2",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 1391,
+        "impressionCount" : 1393,
         "viewCount" : 82
       },
       "subtitle" : "Board game engine",
@@ -3314,7 +3314,7 @@
       "sha256" : "b50c416828005e1eec0dc8066c961efcc389e6be1a5a595541ea62d48d31a391",
       "stats" : {
         "downloadCount" : 2549,
-        "impressionCount" : 1005
+        "impressionCount" : 1006
       },
       "subtitle" : "Free and open-source media player",
       "tintColor" : "29445A",
@@ -3497,7 +3497,7 @@
       "sha256" : "7a351f2fa507a8cbac55f6a094694e0cab457ca6cdc336752e6464712ce27aca",
       "stats" : {
         "downloadCount" : 1797,
-        "impressionCount" : 1609
+        "impressionCount" : 1610
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -5144,7 +5144,7 @@
       "sha256" : "55f879dc3b5bbfa5419a3def4bb5663c7ea387136a4d87e6404387a602523ad9",
       "stats" : {
         "downloadCount" : 417,
-        "impressionCount" : 855
+        "impressionCount" : 856
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -5227,7 +5227,7 @@
       "sha256" : "f9bb044071a8ecfba7e98919e27e8be645cecb561cf3789feb0e4b69504965d0",
       "stats" : {
         "downloadCount" : 403,
-        "impressionCount" : 592
+        "impressionCount" : 593
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
@@ -6620,7 +6620,7 @@
       "sha256" : "954a23bd074723803cd752cf3dbf17c46884b0fe61c99c0354e63ea3106a06e7",
       "stats" : {
         "downloadCount" : 198,
-        "impressionCount" : 1379
+        "impressionCount" : 1380
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
@@ -7064,7 +7064,7 @@
       "sha256" : "41dba6d0640c15deffc2f20d0141341ea00aa3329aa0b7417157e350cb12a3b7",
       "stats" : {
         "downloadCount" : 172,
-        "impressionCount" : 777
+        "impressionCount" : 778
       },
       "subtitle" : "Messaging and calling application",
       "tintColor" : "E4F0F7",
@@ -7105,7 +7105,7 @@
       "sha256" : "1ac83d0c73ccd91fa0756e5062412835d3f9ccafa044a540fae825b5093c3d48",
       "stats" : {
         "downloadCount" : 167,
-        "impressionCount" : 746
+        "impressionCount" : 747
       },
       "subtitle" : "Downloads videos from different websites",
       "tintColor" : "A676DB",
@@ -7131,7 +7131,7 @@
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
       "version" : "2649,e796e23a",
-      "versionDate" : "2022-07-24T12:30:55Z"
+      "versionDate" : "2022-07-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7579,7 +7579,7 @@
       "sha256" : "26ea3843a23b7b76c76525270f02f1971c394c28b072391c766dfab9fc14f6d3",
       "stats" : {
         "downloadCount" : 139,
-        "impressionCount" : 540
+        "impressionCount" : 541
       },
       "subtitle" : "Virtual video-calling space",
       "tintColor" : "3260E6",
@@ -8593,7 +8593,7 @@
       "sha256" : "04896021cbe5f1f8548f26d2ab9251128699510d2676a6ef3d544a3d99d6f7c0",
       "stats" : {
         "downloadCount" : 104,
-        "impressionCount" : 763
+        "impressionCount" : 765
       },
       "subtitle" : "2D game framework for Lua",
       "tintColor" : "C598C4",
@@ -8613,7 +8613,7 @@
       "sha256" : "da40d4361810bf131cd06a1afe71e9a7a15918f2b154e1399db7306b2a3b72d3",
       "stats" : {
         "downloadCount" : 104,
-        "impressionCount" : 455
+        "impressionCount" : 456
       },
       "subtitle" : "Cross-platform video editor",
       "tintColor" : "718596",
@@ -8953,7 +8953,7 @@
       "sha256" : "c4e0e64668ef303f07305e8d2d38dd757a79fca42fd631cd0ac939bca9401e26",
       "stats" : {
         "downloadCount" : 95,
-        "impressionCount" : 991
+        "impressionCount" : 992
       },
       "subtitle" : "Open Source Game Launcher",
       "tintColor" : "362B25",
@@ -8994,7 +8994,7 @@
       "sha256" : "8f8d72ab99fd47c7b9df1acd51c6fcc8b6ebb8c574587e8e1fc6cdc5868ba21c",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 705
+        "impressionCount" : 706
       },
       "subtitle" : "Desktop casting/streaming app for Apple TV and Chromecast",
       "tintColor" : "9BB0BE",
@@ -9054,7 +9054,7 @@
       "sha256" : "38968f05330fd34ed9e836ec91fd8d512d3f63e33335560fc4a1966526d0fd77",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 524
+        "impressionCount" : 525
       },
       "subtitle" : "Extra danmaku support for iina (iina 弹幕支持)",
       "tintColor" : "C1B6ED",
@@ -9256,7 +9256,7 @@
       "sha256" : "5e28a64b390cbae0484bfe40ae841028109430d5c3bd7b0a98eb5028731d8897",
       "stats" : {
         "downloadCount" : 88,
-        "impressionCount" : 765
+        "impressionCount" : 766
       },
       "subtitle" : "Developer IDE or Management Environment for Neo4j instances",
       "tintColor" : "D7E0E8",
@@ -9326,7 +9326,7 @@
       "sha256" : "0a16e33e21784baadea9f45befa2d55f3d21781d0cf3291b983004d1520d9650",
       "stats" : {
         "downloadCount" : 87,
-        "impressionCount" : 736
+        "impressionCount" : 737
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -9749,7 +9749,7 @@
       "sha256" : "e70aef4218e4ae27a0df095d32f489aa9d89cc2bb3de1da6ab2989d1bb4c6300",
       "stats" : {
         "downloadCount" : 81,
-        "impressionCount" : 691
+        "impressionCount" : 692
       },
       "subtitle" : "View, Screen Share, organize, import, and download files to a reMarkable device",
       "tintColor" : "0B0B0B",
@@ -9889,7 +9889,7 @@
       "sha256" : "a2456f7cdb250a37acd60cae67016a9b31521997173a8707c823000f082a4411",
       "stats" : {
         "downloadCount" : 78,
-        "impressionCount" : 682
+        "impressionCount" : 683
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -9970,7 +9970,7 @@
       "sha256" : "59f09175d6ffd8253a23201a5703f7d9d9bec6753692876163790c3c991e413a",
       "stats" : {
         "downloadCount" : 76,
-        "impressionCount" : 822
+        "impressionCount" : 823
       },
       "subtitle" : "Fork of Nylas Mail",
       "tintColor" : "95E5E8",
@@ -10226,20 +10226,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://curseforge.overwolf.com/electron/mac/CurseForge-0.203.2-1.dmg",
+      "downloadURL" : "https://curseforge.overwolf.com/electron/mac/CurseForge-0.204.1-1.dmg",
       "homepage" : "https://curseforge.overwolf.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-curseforge/AppIcon.png",
       "localizedDescription" : "Download and manage your addons and mods",
       "name" : "CurseForge",
-      "sha256" : "4e5c59e71b074a677270cf333233ffdc3e050e9b118a570a7e0f693865abf9c4",
+      "sha256" : "bba50856a2d54dc41f48f3cbbba5739f6a67e4b44fe6efe35625ee893b5aa742",
       "stats" : {
         "downloadCount" : 71,
         "impressionCount" : 353
       },
       "subtitle" : "Download and manage your addons and mods",
       "tintColor" : "333333",
-      "version" : "0.203.2-1",
-      "versionDate" : "2022-07-14T00:00:00Z"
+      "version" : "0.204.1-1",
+      "versionDate" : "2022-07-24T13:33:47Z"
     },
     {
       "beta" : false,
@@ -10290,7 +10290,7 @@
       "sha256" : "3596dad190deae9dfcdd6bac68a477def27df407e97f6870553b4640c08fd0b6",
       "stats" : {
         "downloadCount" : 71,
-        "impressionCount" : 427
+        "impressionCount" : 428
       },
       "subtitle" : "Mux and tag mp4 files",
       "tintColor" : "5A626B",
@@ -10456,7 +10456,7 @@
       "sha256" : "1aa95db4c97d57e63fb03a3244a9bcc2c5a82ee41552a972d65f21dd5dd218ae",
       "stats" : {
         "downloadCount" : 68,
-        "impressionCount" : 402
+        "impressionCount" : 403
       },
       "subtitle" : "Screen recording and video editing software",
       "tintColor" : "C6C0C7",
@@ -11097,7 +11097,7 @@
       "sha256" : "77e9fd1fa92a9ccd42b12fd1cafd9d980e569e10658378e82900542b49ce9eed",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 869
+        "impressionCount" : 870
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
@@ -11838,7 +11838,7 @@
       "sha256" : "9368414dc210ce6746735cf4def6692a1dee05e847ee3fb5b3a06b0fe45ef963",
       "stats" : {
         "downloadCount" : 51,
-        "impressionCount" : 598
+        "impressionCount" : 599
       },
       "subtitle" : "Handwriting notetaking software",
       "tintColor" : "E5D8CE",
@@ -14610,7 +14610,7 @@
       "sha256" : "ba74e35e3eef1858d9badae790a9c445cc38945c4a44da3c0555f059b1baed62",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 961
+        "impressionCount" : 963
       },
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
@@ -16023,7 +16023,7 @@
       "sha256" : "32fca874dc376f6bcf22ff05e280a4dac99bb00dd0be3d81ab576e836f742f9e",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 967
+        "impressionCount" : 968
       },
       "subtitle" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "tintColor" : "828487",
@@ -19022,7 +19022,7 @@
       "sha256" : "3e6baf5aafacbbe69b484af26fa6c426ec326a527243807db66d24f6ec354dae",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 645
+        "impressionCount" : 646
       },
       "subtitle" : "World of Warcraft addon manager",
       "tintColor" : "7B7AB9",
@@ -19963,7 +19963,7 @@
       "name" : "Ankama Launcher",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 905
+        "impressionCount" : 907
       },
       "subtitle" : "Portal to download Ankama's PC games",
       "tintColor" : "F08612",
@@ -20617,19 +20617,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.25/GDLauncher-mac-setup.dmg",
+      "downloadURL" : "https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.27/GDLauncher-mac-setup.dmg",
       "homepage" : "https://gdevs.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gdlauncher/AppIcon.png",
       "localizedDescription" : "Custom Minecraft Launcher",
       "name" : "GDLauncher",
-      "sha256" : "f542be8565bc8bb76ea5797ec8e97abd59436a0cd1168c00b1069579c632eb21",
+      "sha256" : "cc1c0ce7a2e0cfb8f08f1f70c4fa42d9fa72ed03d9f12c2b459e5aa34b8074e8",
       "stats" : {
         "downloadCount" : 14,
         "impressionCount" : 210
       },
       "subtitle" : "Custom Minecraft Launcher",
       "tintColor" : "647996",
-      "version" : "1.1.25"
+      "version" : "1.1.27",
+      "versionDate" : "2022-07-24T13:33:47Z"
     },
     {
       "beta" : false,
@@ -20923,7 +20924,7 @@
       "name" : "TETR.IO",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 728
+        "impressionCount" : 730
       },
       "subtitle" : "Free-to-play Tetris clone",
       "tintColor" : "7055A4",
@@ -23742,7 +23743,7 @@
       "name" : "Pokemon Trading Card Game Online",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 490
+        "impressionCount" : 492
       },
       "subtitle" : "Play the Pokemon TCG online",
       "tintColor" : "997862",
@@ -24787,7 +24788,7 @@
       "subtitle" : "Engine for iD software's Quake",
       "tintColor" : "171311",
       "version" : "0.94.7",
-      "versionDate" : "2022-07-24T12:30:55Z"
+      "versionDate" : "2022-07-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27915,7 +27916,7 @@
       "name" : "sixtyforce",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 442
+        "impressionCount" : 444
       },
       "subtitle" : "N64 emulator",
       "tintColor" : "595858",
@@ -29184,7 +29185,7 @@
       "sha256" : "050f317e303b1955ad977fa7e50bd77ca43f82e3658aa7e4d963bc41d57a77c1",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 484
+        "impressionCount" : 486
       },
       "subtitle" : "Scalable KanColle browser and tool",
       "tintColor" : "847367",
@@ -29385,7 +29386,7 @@
       "sha256" : "c4dbe867738c244d0f00e4b13b432dca305559fc36ef1614f749291c805e5003",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 442
+        "impressionCount" : 444
       },
       "subtitle" : "Multi-platform Atari 2600 Emulator",
       "tintColor" : "7B4D02",
@@ -29740,7 +29741,7 @@
       "sha256" : "ae8102f503596822c45a2b3c12e48e218473f1525772bbe824139ce48a23a5ea",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 693
+        "impressionCount" : 695
       },
       "subtitle" : "Guitar Hero clone",
       "tintColor" : "8C7AC8",
@@ -30079,7 +30080,7 @@
       "sha256" : "ce285b85c88e46e6cd9c462a972d8ad0ab1ad4d7b5b9a4d6a735500cf38198ea",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 679
+        "impressionCount" : 680
       },
       "subtitle" : "Group chat platform",
       "tintColor" : "B69624",
@@ -30667,7 +30668,7 @@
       "sha256" : "0f3ee04e6874b560482c091445a73d1411a444538928e232681d15a829fab605",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 577
+        "impressionCount" : 578
       },
       "tintColor" : "637D9A",
       "version" : "1.90"
@@ -31538,7 +31539,7 @@
       "sha256" : "207513b33b7198c0f3106de510a13960434cb1c177fccc062d4e53cfbf981543",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 963
+        "impressionCount" : 964
       },
       "subtitle" : "First-person game",
       "tintColor" : "7E7377",
@@ -33157,7 +33158,7 @@
       "sha256" : "d1f7b64cdeae0dcd41692c62c6d4e331bf02160cc258596b819f813eccf7b9e9",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 675
+        "impressionCount" : 677
       },
       "subtitle" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
       "tintColor" : "2AA5EA",
@@ -34795,7 +34796,7 @@
       "sha256" : "7ef790a6d294584a50f13d3ef9d8caa6d28d9d29965b05b4265711aa2417eb95",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 672
+        "impressionCount" : 673
       },
       "subtitle" : "PlayStation 2 emulator",
       "tintColor" : "7E80DF",
@@ -37233,7 +37234,7 @@
       "subtitle" : "Build engine port backed by GZDoom tech",
       "tintColor" : "4D6379",
       "version" : "1.5.0",
-      "versionDate" : "2022-07-24T12:30:55Z"
+      "versionDate" : "2022-07-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37474,7 +37475,7 @@
       "sha256" : "d1a1543285c0821702bc2d8862cefeefeaa5af156720525a61d97f7a4b0828cc",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 475
+        "impressionCount" : 476
       },
       "subtitle" : "Review, edit and share dive log data",
       "tintColor" : "62757C",
@@ -38675,7 +38676,7 @@
       "sha256" : "0c32fd8e15eff4bdd19fe4fae4f9dc29c6225a5a238bc25664cac0f5b6d5c1ab",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 1024
+        "impressionCount" : 1025
       },
       "subtitle" : "Spatial Network Analysis Software",
       "tintColor" : "CABC7C",
@@ -38825,7 +38826,7 @@
       "sha256" : "f72bc10420e4df6f745a7c14c9d22c29b79e0d0d51a129d005ff3618ed975428",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 381
+        "impressionCount" : 382
       },
       "subtitle" : "Create and correct time lapse movies",
       "tintColor" : "8CCEE9",
@@ -39654,7 +39655,7 @@
       "name" : "Universal Battle",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 490
+        "impressionCount" : 491
       },
       "subtitle" : "Realtime multiplayer tabletop war game",
       "tintColor" : "544F5E",
@@ -39870,7 +39871,7 @@
       "sha256" : "6b73e8f9eb7fca202feea27545163d08d237ea1b23289716a1d4d0928f392c0d",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 490
+        "impressionCount" : 491
       },
       "subtitle" : "Game Master for Fantasy Flight board games",
       "tintColor" : "797979",
@@ -68466,16 +68467,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/korzhyk/macOS-Ukrainian-Unicode-Layout/archive/1.1.0.tar.gz",
+      "downloadURL" : "https://github.com/korzhyk/macOS-Ukrainian-Unicode-Layout/archive/1.2.0.tar.gz",
       "homepage" : "https://github.com/korzhyk/OSX-Ukrainian-Unicode-Layout",
       "localizedDescription" : "Installer for Ukrainian Unicode layout",
       "name" : "Ukrainian Unicode Layout",
-      "sha256" : "0b3a086a76f57a954a6c96fed9b470353c06576cd34f60d156e56be0ffaadd3d",
+      "sha256" : "224f7ce62722df4817d994a706179695589f0679164f0c48af08e2a518ac6fc6",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "Installer for Ukrainian Unicode layout",
-      "version" : "1.1.0"
+      "version" : "1.2.0",
+      "versionDate" : "2022-07-24T13:33:47Z"
     },
     {
       "beta" : false,
@@ -73325,27 +73327,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "threema",
-      "caption" : "threema updated from 1.2.13 to 1.2.18",
-      "date" : "2022-07-22T04:48:12Z",
-      "identifier" : "release-threema-1.2.18",
-      "title" : "New Release: threema 1.2.18"
-    },
-    {
-      "appID" : "navicat-for-mysql",
-      "caption" : "Navicat for MySQL updated from 16.0.14 to 16.1.0",
-      "date" : "2022-07-22T04:48:13Z",
-      "identifier" : "release-navicat-for-mysql-16.1.0",
-      "title" : "New Release: Navicat for MySQL 16.1.0"
-    },
-    {
-      "appID" : "jetbrains-space",
-      "caption" : "JetBrains Space updated from 2022.1.1 to 2022.1.2",
-      "date" : "2022-07-22T04:48:13Z",
-      "identifier" : "release-jetbrains-space-2022.1.2",
-      "title" : "New Release: JetBrains Space 2022.1.2"
-    },
-    {
       "appID" : "silicon",
       "caption" : "Silicon updated from 1.0.3 to 1.0.4",
       "date" : "2022-07-22T04:48:13Z",
@@ -74023,6 +74004,27 @@
       "date" : "2022-07-24T12:30:57Z",
       "identifier" : "release-raze-1.5.0",
       "title" : "New Release: Raze 1.5.0"
+    },
+    {
+      "appID" : "curseforge",
+      "caption" : "CurseForge updated from 0.203.2-1 to 0.204.1-1",
+      "date" : "2022-07-24T13:33:48Z",
+      "identifier" : "release-curseforge-0.204.1-1",
+      "title" : "New Release: CurseForge 0.204.1-1"
+    },
+    {
+      "appID" : "gdlauncher",
+      "caption" : "GDLauncher updated from 1.1.25 to 1.1.27",
+      "date" : "2022-07-24T13:33:48Z",
+      "identifier" : "release-gdlauncher-1.1.27",
+      "title" : "New Release: GDLauncher 1.1.27"
+    },
+    {
+      "appID" : "ukrainian-unicode-layout",
+      "caption" : "Ukrainian Unicode Layout updated from 1.1.0 to 1.2.0",
+      "date" : "2022-07-24T13:33:48Z",
+      "identifier" : "release-ukrainian-unicode-layout-1.2.0",
+      "title" : "New Release: Ukrainian Unicode Layout 1.2.0"
     }
   ],
   "platform" : "macos",

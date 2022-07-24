@@ -72,7 +72,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 12,
-        "impressionCount" : 53,
+        "impressionCount" : 54,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 12,
@@ -331,7 +331,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 29,
-        "impressionCount" : 387,
+        "impressionCount" : 388,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,
@@ -375,10 +375,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 20,
-        "impressionCount" : 385,
+        "impressionCount" : 386,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -410,7 +410,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 298,
+        "impressionCount" : 299,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -526,10 +526,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 2,
-        "impressionCount" : 2759,
+        "impressionCount" : 2760,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 455,
+        "viewCount" : 456,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -798,10 +798,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 274,
+        "impressionCount" : 275,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 26,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -912,10 +912,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 10,
-        "impressionCount" : 51,
+        "impressionCount" : 52,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

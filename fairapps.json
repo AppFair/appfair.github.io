@@ -57,8 +57,8 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 123,
-        "impressionCount" : 38,
+        "downloadCount" : 127,
+        "impressionCount" : 40,
         "issueCount" : 5,
         "starCount" : 25,
         "viewCount" : 8,
@@ -144,7 +144,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 2931,
+        "impressionCount" : 2932,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 533,
@@ -234,7 +234,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 10,
-        "impressionCount" : 65,
+        "impressionCount" : 66,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -544,10 +544,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 20,
-        "impressionCount" : 394,
+        "impressionCount" : 395,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 28,
+        "viewCount" : 29,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -622,7 +622,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 392,
+        "impressionCount" : 393,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -661,10 +661,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 305,
+        "impressionCount" : 306,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 25,
+        "viewCount" : 26,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -828,7 +828,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2765,
+        "impressionCount" : 2766,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 456,
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2421,
+        "impressionCount" : 2422,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 445,
@@ -1181,10 +1181,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 282,
+        "impressionCount" : 283,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 28,
+        "viewCount" : 29,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1344,10 +1344,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 11,
-        "impressionCount" : 59,
+        "impressionCount" : 60,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

@@ -57,7 +57,7 @@
       "sha256" : "b63a1aaf440c0eb7040914ddcc6052f5dcee65fdc48d52ca626931b7da92ba0d",
       "stats" : {
         "downloadCount" : 13278,
-        "impressionCount" : 7067,
+        "impressionCount" : 7068,
         "viewCount" : 830
       },
       "subtitle" : "Web browser",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28013,
-        "impressionCount" : 6379,
+        "impressionCount" : 6380,
         "viewCount" : 534
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5286,
-        "impressionCount" : 6360,
+        "impressionCount" : 6361,
         "viewCount" : 444
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 2965,
-        "impressionCount" : 5877,
+        "impressionCount" : 5878,
         "viewCount" : 478
       },
       "subtitle" : "Text editor",
@@ -296,7 +296,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2053,
-        "impressionCount" : 6566,
+        "impressionCount" : 6567,
         "viewCount" : 771
       },
       "subtitle" : "File archiver",
@@ -350,7 +350,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1252,
-        "impressionCount" : 5016,
+        "impressionCount" : 5017,
         "viewCount" : 410
       },
       "subtitle" : "Open-source Markdown editor",
@@ -381,7 +381,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1118,
-        "impressionCount" : 6631,
+        "impressionCount" : 6632,
         "viewCount" : 428
       },
       "subtitle" : "3D creation suite",
@@ -878,7 +878,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.26/Stats.dmg",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.27/Stats.dmg",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -902,7 +902,7 @@
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "0311e6c955d7b01d0e330b369dbb9ca1056d2c3c39390109f47c92fd099956d3",
+      "sha256" : "94051c2aa3f57e1c418043c262e00326fcebf5ad2ff85bfd047b8e15427be707",
       "stats" : {
         "downloadCount" : 4822,
         "impressionCount" : 3372,
@@ -910,8 +910,8 @@
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
-      "version" : "2.7.26",
-      "versionDate" : "2022-07-18T00:00:00Z"
+      "version" : "2.7.27",
+      "versionDate" : "2022-07-24T12:30:55Z"
     },
     {
       "beta" : false,
@@ -2103,7 +2103,7 @@
       "sha256" : "1aca3e8174b5d63f2e5c83be3a478197917226bb956d0dd19b17a56fe21ff93e",
       "stats" : {
         "downloadCount" : 499,
-        "impressionCount" : 1941,
+        "impressionCount" : 1942,
         "viewCount" : 106
       },
       "subtitle" : "Note taking and to-do application with synchronization capabilities",
@@ -2263,7 +2263,7 @@
       "sha256" : "059473c0a532226647b447765c58e8681ba6ec88aac356f6e6b1ebf9b3721a22",
       "stats" : {
         "downloadCount" : 333,
-        "impressionCount" : 2393,
+        "impressionCount" : 2394,
         "viewCount" : 137
       },
       "subtitle" : "Matrix collaboration client",
@@ -2575,7 +2575,7 @@
       "sha256" : "f13fabfa4c227c2a8fbba7ea82eb7ef8c726c52b6f3468cd5e3ef89fdf11902d",
       "stats" : {
         "downloadCount" : 87,
-        "impressionCount" : 1452,
+        "impressionCount" : 1453,
         "viewCount" : 83
       },
       "subtitle" : "Bitcoin thin client",
@@ -3105,7 +3105,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 5747,
-        "impressionCount" : 145
+        "impressionCount" : 146
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3616,7 +3616,7 @@
       "sha256" : "ab8a8b21c94ca2777a091432e6e7761bb1fc9c52c80263a4622b69b19a68e1c6",
       "stats" : {
         "downloadCount" : 1452,
-        "impressionCount" : 526
+        "impressionCount" : 527
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
       "tintColor" : "8E76B6",
@@ -5261,7 +5261,7 @@
       "sha256" : "50bb016602e8e792a8a6b53053a4ec4129ca89926a44fc1ac898f3d11102aada",
       "stats" : {
         "downloadCount" : 400,
-        "impressionCount" : 823
+        "impressionCount" : 824
       },
       "subtitle" : "Utility to extend trackpad functionality",
       "tintColor" : "000000",
@@ -5677,7 +5677,7 @@
       "sha256" : "61a5700f1add9fe909aa921e4980f4fea08ba2e6e402e733a4bd11bb380583e9",
       "stats" : {
         "downloadCount" : 339,
-        "impressionCount" : 384
+        "impressionCount" : 385
       },
       "subtitle" : "Finder replacement and FTP, SFTP, WebDAV and Amazon s3 client",
       "tintColor" : "BFA13E",
@@ -6092,7 +6092,7 @@
       "sha256" : "bd91c006c35c6cdaadc53fd7be7dcef35016f42496d6aa0a6398daee1a29ffc1",
       "stats" : {
         "downloadCount" : 241,
-        "impressionCount" : 766
+        "impressionCount" : 767
       },
       "subtitle" : "Calendar software",
       "tintColor" : "DFBBB9",
@@ -7118,20 +7118,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-9c4d9ebb.zip",
+      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-e796e23a.zip",
       "homepage" : "https://cog.losno.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cog/AppIcon.png",
       "localizedDescription" : "Audio player",
       "name" : "Cog",
-      "sha256" : "474eafb3bbb466d795a3814365e8cb33e9ebc116ad0cdff70b3f497b700170be",
+      "sha256" : "ffcd56e01a4233b9ad73cdfc140059e067f5ba4eeee5f3d206b9f375589a1c7c",
       "stats" : {
         "downloadCount" : 166,
         "impressionCount" : 1435
       },
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
-      "version" : "2643,9c4d9ebb",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "2649,e796e23a",
+      "versionDate" : "2022-07-24T12:30:55Z"
     },
     {
       "beta" : false,
@@ -24774,20 +24774,20 @@
       "categories" : [
         "public.app-category.action-games"
       ],
-      "downloadURL" : "https://downloads.sourceforge.net/quakespasm/Mac/QuakeSpasm-0.94.6-osx-SDL2.zip",
+      "downloadURL" : "https://downloads.sourceforge.net/quakespasm/Mac/QuakeSpasm-0.94.7-osx-SDL2.zip",
       "homepage" : "https://quakespasm.sourceforge.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-quakespasm/AppIcon.png",
       "localizedDescription" : "Engine for iD software's Quake",
       "name" : "QuakeSpasm",
-      "sha256" : "8c7fb9c41ac44c1c12d75681842b7d74c16b5aeaeaffb651f420b851a935717a",
+      "sha256" : "2bfbc3bcc6f1e73afcd5503bfa50abec2abf280d29d637d0b4e9688b357e7e9c",
       "stats" : {
         "downloadCount" : 9,
         "impressionCount" : 7
       },
       "subtitle" : "Engine for iD software's Quake",
       "tintColor" : "171311",
-      "version" : "0.94.6",
-      "versionDate" : "2022-07-04T00:00:00Z"
+      "version" : "0.94.7",
+      "versionDate" : "2022-07-24T12:30:55Z"
     },
     {
       "beta" : false,
@@ -37220,19 +37220,20 @@
       "categories" : [
         "public.app-category.action-games"
       ],
-      "downloadURL" : "https://github.com/coelckers/Raze/releases/download/1.4.1/raze-macos-1.4.1.zip",
+      "downloadURL" : "https://github.com/coelckers/Raze/releases/download/1.5.0/raze-macos-1.5.0.zip",
       "homepage" : "https://github.com/coelckers/Raze",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-raze/AppIcon.png",
       "localizedDescription" : "Build engine port backed by GZDoom tech",
       "name" : "Raze",
-      "sha256" : "28293d931028aa79d1a796dde238a0eeb8d40000407d926d3ddecac268a3dca5",
+      "sha256" : "1099033d952e206eded8aad367cf34e55295816c366a99bcf1d6cb3f523158e4",
       "stats" : {
         "downloadCount" : 1,
         "impressionCount" : 37
       },
       "subtitle" : "Build engine port backed by GZDoom tech",
       "tintColor" : "4D6379",
-      "version" : "1.4.1"
+      "version" : "1.5.0",
+      "versionDate" : "2022-07-24T12:30:55Z"
     },
     {
       "beta" : false,
@@ -73324,34 +73325,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "devonthink",
-      "caption" : "DEVONthink updated from 3.8.4 to 3.8.5",
-      "date" : "2022-07-22T04:48:12Z",
-      "identifier" : "release-devonthink-3.8.5",
-      "title" : "New Release: DEVONthink 3.8.5"
-    },
-    {
-      "appID" : "arctype",
-      "caption" : "Arctype updated from 0.9.73 to 0.9.76",
-      "date" : "2022-07-22T04:48:12Z",
-      "identifier" : "release-arctype-0.9.76",
-      "title" : "New Release: Arctype 0.9.76"
-    },
-    {
-      "appID" : "dataspell",
-      "caption" : "DataSpell updated from 2022.1.3,221.5921.20 to 2022.1.4,221.6008.15",
-      "date" : "2022-07-22T04:48:12Z",
-      "identifier" : "release-dataspell-2022.1.4,221.6008.15",
-      "title" : "New Release: DataSpell 2022.1.4,221.6008.15"
-    },
-    {
-      "appID" : "pdfelement",
-      "caption" : "Wondershare PDFelement for Mac updated from 9.0.5 to 9.0.6",
-      "date" : "2022-07-22T04:48:12Z",
-      "identifier" : "release-pdfelement-9.0.6",
-      "title" : "New Release: Wondershare PDFelement for Mac 9.0.6"
-    },
-    {
       "appID" : "threema",
       "caption" : "threema updated from 1.2.13 to 1.2.18",
       "date" : "2022-07-22T04:48:12Z",
@@ -74022,6 +73995,34 @@
       "date" : "2022-07-24T10:23:11Z",
       "identifier" : "release-catlight-2.38.11",
       "title" : "New Release: catlight 2.38.11"
+    },
+    {
+      "appID" : "stats",
+      "caption" : "Stats updated from 2.7.26 to 2.7.27",
+      "date" : "2022-07-24T12:30:56Z",
+      "identifier" : "release-stats-2.7.27",
+      "title" : "New Release: Stats 2.7.27"
+    },
+    {
+      "appID" : "cog",
+      "caption" : "Cog updated from 2643,9c4d9ebb to 2649,e796e23a",
+      "date" : "2022-07-24T12:30:56Z",
+      "identifier" : "release-cog-2649,e796e23a",
+      "title" : "New Release: Cog 2649,e796e23a"
+    },
+    {
+      "appID" : "quakespasm",
+      "caption" : "QuakeSpasm updated from 0.94.6 to 0.94.7",
+      "date" : "2022-07-24T12:30:56Z",
+      "identifier" : "release-quakespasm-0.94.7",
+      "title" : "New Release: QuakeSpasm 0.94.7"
+    },
+    {
+      "appID" : "raze",
+      "caption" : "Raze updated from 1.4.1 to 1.5.0",
+      "date" : "2022-07-24T12:30:57Z",
+      "identifier" : "release-raze-1.5.0",
+      "title" : "New Release: Raze 1.5.0"
     }
   ],
   "platform" : "macos",

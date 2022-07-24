@@ -57,8 +57,8 @@
       "sha256" : "b63a1aaf440c0eb7040914ddcc6052f5dcee65fdc48d52ca626931b7da92ba0d",
       "stats" : {
         "downloadCount" : 13278,
-        "impressionCount" : 7063,
-        "viewCount" : 829
+        "impressionCount" : 7064,
+        "viewCount" : 830
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5286,
-        "impressionCount" : 6356,
+        "impressionCount" : 6357,
         "viewCount" : 444
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 2965,
-        "impressionCount" : 5873,
+        "impressionCount" : 5874,
         "viewCount" : 478
       },
       "subtitle" : "Text editor",
@@ -381,7 +381,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1118,
-        "impressionCount" : 6627,
+        "impressionCount" : 6628,
         "viewCount" : 428
       },
       "subtitle" : "3D creation suite",
@@ -1991,7 +1991,7 @@
       "sha256" : "336ac944cf473a9832b703d8eaa3df8016831ce6c15e0062338d1d23c6dc0e40",
       "stats" : {
         "downloadCount" : 563,
-        "impressionCount" : 2198,
+        "impressionCount" : 2199,
         "viewCount" : 163
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -3105,7 +3105,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 5747,
-        "impressionCount" : 141
+        "impressionCount" : 142
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -6829,7 +6829,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download-cdn.panic.com/nova/Nova%209.4.zip",
+      "downloadURL" : "https://download-keycdn.panic.com/nova/Nova%209.4.zip",
       "homepage" : "https://nova.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nova/AppIcon.png",
       "localizedDescription" : "Native code editor",
@@ -7896,20 +7896,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/electerm/electerm/releases/download/v1.21.93/electerm-1.21.93-mac-x64.dmg",
+      "downloadURL" : "https://github.com/electerm/electerm/releases/download/v1.22.1/electerm-1.22.1-mac-x64.dmg",
       "homepage" : "https://github.com/electerm/electerm/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electerm/AppIcon.png",
       "localizedDescription" : "Terminal/ssh/sftp client",
       "name" : "electerm",
-      "sha256" : "356f6cc5b032370c3488394e2b7b9f9fb3a0ee0a1b43239eecf65d2167a60345",
+      "sha256" : "a499412a8d57f3a76b777987548353242fefae6c557b3c08352b9c4417f9e226",
       "stats" : {
         "downloadCount" : 127,
         "impressionCount" : 380
       },
       "subtitle" : "Terminal/ssh/sftp client",
       "tintColor" : "7E7570",
-      "version" : "1.21.93",
-      "versionDate" : "2022-07-04T00:00:00Z"
+      "version" : "1.22.1",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -11566,20 +11566,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://cdn.yinxiang.com/mac-smd/public/YinxiangBiji_RELEASE_9.5.25_467538.zip",
+      "downloadURL" : "https://cdn.yinxiang.com/mac-smd/public/YinxiangBiji_RELEASE_9.5.27_467661.zip",
       "homepage" : "https://www.yinxiang.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yinxiangbiji/AppIcon.png",
       "localizedDescription" : "Note taking app",
       "name" : "Evernote",
-      "sha256" : "155d3a38e5d221991eca105da5400933853f5aba33f5d5d633399701fcfd780d",
+      "sha256" : "2c6fc034d4eefc64963147f86a8bfa8d6a4a12755b7ed5b355b709f883583b83",
       "stats" : {
         "downloadCount" : 53,
         "impressionCount" : 223
       },
       "subtitle" : "Note taking app",
       "tintColor" : "289638",
-      "version" : "9.5.25_467538",
-      "versionDate" : "2022-07-14T00:00:00Z"
+      "version" : "9.5.27_467661",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -18028,20 +18028,20 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://github.com/HearthSim/HSTracker/releases/download/2.1.12/HSTracker.app.zip",
+      "downloadURL" : "https://github.com/HearthSim/HSTracker/releases/download/2.1.13/HSTracker.app.zip",
       "homepage" : "https://hsdecktracker.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hstracker/AppIcon.png",
       "localizedDescription" : "Deck tracker and deck manager for Hearthstone",
       "name" : "Hearthstone Deck Tracker",
-      "sha256" : "156adea84ceeb4f5ab0659891bea91f1d06cfa7f63415e56319ef40038c99910",
+      "sha256" : "cac98204178ba53abc02ca0ad49c6b1f0e2011d3e858119dab35d3b685857bcb",
       "stats" : {
         "downloadCount" : 20,
         "impressionCount" : 772
       },
       "subtitle" : "Deck tracker and deck manager for Hearthstone",
       "tintColor" : "34ACFD",
-      "version" : "2.1.12",
-      "versionDate" : "2022-07-13T00:00:00Z"
+      "version" : "2.1.13",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -31469,20 +31469,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.176.0/Hepta-0.176.0-mac.zip",
+      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.179.0/Hepta-0.179.0-mac.zip",
       "homepage" : "https://heptabase.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hepta/AppIcon.png",
       "localizedDescription" : "Note-taking tool for visual learning",
       "name" : "Hepta",
-      "sha256" : "2c02405792c623c01a687a03aa3743a38e8dc67bb756a84687ef2fbccf943c74",
+      "sha256" : "a2c07532c8a17d2d3bb3c7cf685aa49a554e70474905424885ce2b0f2037c782",
       "stats" : {
         "downloadCount" : 4,
         "impressionCount" : 266
       },
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
-      "version" : "0.176.0",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "0.179.0",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -35091,20 +35091,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://downloads.stork.ai/macos/release/Stork-1.0.11.1686.dmg",
+      "downloadURL" : "https://downloads.stork.ai/macos/release/Stork-1.0.11.1693.dmg",
       "homepage" : "https://stork.ai/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stork/AppIcon.png",
       "localizedDescription" : "Messenger with a powerful features for hybrid work",
       "name" : "Stork for macOS",
-      "sha256" : "c577be3a9a0c5d2f486665b9f923bc59ce4f7f6c3b14cb82d7f56e5e52f95d7e",
+      "sha256" : "cf4a607134e6707522b755fe1fce4b04ff2588c56e6f32d010b0dd918cc793e3",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 498
       },
       "subtitle" : "Messenger with a powerful features for hybrid work",
       "tintColor" : "EDBBA4",
-      "version" : "1.0.11,1686",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "1.0.11,1693",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -35837,7 +35837,7 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://github.com/TomHarte/CLK/releases/download/2022-07-08/Clock.Signal.macOS.2022-07-08.zip",
+      "downloadURL" : "https://github.com/TomHarte/CLK/releases/download/2022-07-23/Clock.Signal.macOS.2022-07-23.zip",
       "fundingLinks" : [
         {
           "platform" : "CUSTOM",
@@ -35848,15 +35848,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clock-signal/AppIcon.png",
       "localizedDescription" : "Latency-hating emulator of 8- and 16-bit platforms",
       "name" : "Clock Signal",
-      "sha256" : "c4dedee6c111ad29d142c7f4f39e742a9220ce9d632a03e4956a9a433d26bdf4",
+      "sha256" : "a4ca89f4d6df943714ff9e8e6a1f0f81c89ea8901b3125c210d7a1de9bb577b9",
       "stats" : {
         "downloadCount" : 1,
         "impressionCount" : 896
       },
       "subtitle" : "Latency-hating emulator of 8- and 16-bit platforms",
       "tintColor" : "46494C",
-      "version" : "2022-07-08",
-      "versionDate" : "2022-07-08T00:00:00Z"
+      "version" : "2022-07-23",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -46467,20 +46467,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/dbgate/dbgate/releases/download/v5.0.8/dbgate-5.0.8-mac_universal.dmg",
+      "downloadURL" : "https://github.com/dbgate/dbgate/releases/download/v5.0.9/dbgate-5.0.9-mac_universal.dmg",
       "homepage" : "https://dbgate.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dbgate/AppIcon.png",
       "localizedDescription" : "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others",
       "name" : "DbGate",
-      "sha256" : "b80c7c79b37fb142bb46bed44675cf6ac3328402d80d3e91adc52faac7128469",
+      "sha256" : "c0f410d3116b5b1388ce6a15d59c5aa6a0be7d25011a2eefb4e47ec3aa889a26",
       "stats" : {
         "downloadCount" : 27,
         "impressionCount" : 56
       },
       "subtitle" : "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others",
       "tintColor" : "879493",
-      "version" : "5.0.8",
-      "versionDate" : "2022-07-19T00:00:00Z"
+      "version" : "5.0.9",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -53161,19 +53161,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/BeyondDimension/SteamTools/releases/download/2.7.2/Steam++_macos_x64_v2.7.2.dmg",
+      "downloadURL" : "https://github.com/BeyondDimension/SteamTools/releases/download/2.8.1/Steam++_macos_x64_v2.8.1.dmg",
       "homepage" : "https://steampp.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam-plus-plus/AppIcon.png",
       "localizedDescription" : "Steam helper tools",
       "name" : "Steam++",
-      "sha256" : "f31fe7ecda1b84aca2cdeeabbb5fc1f3c8c533b1a1a2877ba3da5228068b4ce8",
+      "sha256" : "02fedeef0dc691a374445e63994cf221fc9b3881f4ea49627ff0c858acb31ee3",
       "stats" : {
         "downloadCount" : 6,
         "impressionCount" : 26
       },
       "subtitle" : "Steam helper tools",
       "tintColor" : "4BA7D7",
-      "version" : "2.7.2"
+      "version" : "2.8.1",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -58031,19 +58032,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://bliskcloudstorage.blob.core.windows.net/mac-installers/BliskInstaller_18.0.194.12.dmg",
+      "downloadURL" : "https://bliskcloudstorage.blob.core.windows.net/mac-installers/BliskInstaller_19.0.60.43.dmg",
       "homepage" : "https://blisk.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blisk/AppIcon.png",
       "localizedDescription" : "Developer-oriented browser",
       "name" : "Blisk Browser",
-      "sha256" : "078bd212f352f953ed5344bf72d896ae31d844f043a442b35918bec722f96d2d",
+      "sha256" : "a6c96e12b4c42fe26534156278098e883634e03e047011a712f0bdff5ca3d97b",
       "stats" : {
         "downloadCount" : 0,
         "impressionCount" : 30
       },
       "subtitle" : "Developer-oriented browser",
       "tintColor" : "3785BA",
-      "version" : "18.0.194.12"
+      "version" : "19.0.60.43",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -59789,17 +59791,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.9%2B20220722103024-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.9%2B20220723103042-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "5d35a7b39e4a6e7bd166934b53b6c87395ea504aef6952552a965c68b25d9f1e",
+      "sha256" : "dcab05e7fe210385b239d2cf51d5ebf3e129df4eb9b2b292deb970a3f5498bcd",
       "stats" : {
         "downloadCount" : 617
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.9,20220722103024",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "6.2.9,20220723103042",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -60168,17 +60170,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/pritunl/pritunl-client-electron/releases/download/1.2.3233.75/Pritunl.pkg.zip",
+      "downloadURL" : "https://github.com/pritunl/pritunl-client-electron/releases/download/1.2.3236.80/Pritunl.pkg.zip",
       "homepage" : "https://client.pritunl.com/",
       "localizedDescription" : "OpenVPN client",
       "name" : "Pritunl",
-      "sha256" : "ee5be52d05711df1506f5321939c20c324a1aa333b83d7b09b592bc50d5fe76e",
+      "sha256" : "47281dab7501d10db66249636f29bec2d4c9b2e9f4971f9fc9967b97f20a60d9",
       "stats" : {
         "downloadCount" : 401
       },
       "subtitle" : "OpenVPN client",
-      "version" : "1.2.3233.75",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "1.2.3236.80",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -67118,8 +67120,8 @@
         "downloadCount" : 9
       },
       "subtitle" : "Data Modeling for NoSQL databases, storage formats, REST APIs, and JSON in RDBMS",
-      "version" : "6.2.4",
-      "versionDate" : "2022-07-19T00:00:00Z"
+      "version" : "6.2.5",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -69955,8 +69957,8 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/dat-land/dat-desktop/releases/download/v3.0.1/dat-desktop-3.0.1-mac.zip",
-      "homepage" : "https://datproject.org/",
+      "downloadURL" : "https://github.com/dat-ecosystem-archive/dat-desktop/releases/download/v3.0.1/dat-desktop-3.0.1-mac.zip",
+      "homepage" : "https://dat-ecosystem.org/",
       "localizedDescription" : "Peer to peer data sharing app built for humans",
       "name" : "Dat Desktop",
       "sha256" : "f6c89150f72568c2de1f42653bca0fa356cbb24704f31f1ef5e11f75b0095866",
@@ -70911,16 +70913,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.catlight.io/rel/mac/beta/CatLightSetup-2.37.0.zip",
+      "downloadURL" : "https://download.catlight.io/rel/mac/beta/CatLightSetup-2.38.11.zip",
       "homepage" : "https://catlight.io/",
       "localizedDescription" : "Action center for developers",
       "name" : "catlight",
-      "sha256" : "79bd75106c17faa75cdc2e4c7567e67d0c6591ef1071f8020f5807d91de22f72",
+      "sha256" : "a7d3ba12c4342d8bbcceaa07a83a35d9565bb42281ab5431e077eef170cf218d",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Action center for developers",
-      "version" : "2.37.0"
+      "version" : "2.38.11",
+      "versionDate" : "2022-07-24T10:23:08Z"
     },
     {
       "beta" : false,
@@ -73321,90 +73324,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "overdrive-media-console",
-      "caption" : "OverDrive Media Console 1.2 released",
-      "date" : "2022-07-22T01:12:43Z",
-      "identifier" : "release-overdrive-media-console-1.2",
-      "title" : "New Release: OverDrive Media Console 1.2"
-    },
-    {
-      "appID" : "libreoffice",
-      "caption" : "LibreOffice updated from 7.3.4 to 7.3.5",
-      "date" : "2022-07-22T04:48:10Z",
-      "identifier" : "release-libreoffice-7.3.5",
-      "title" : "New Release: LibreOffice 7.3.5"
-    },
-    {
-      "appID" : "pycharm",
-      "caption" : "PyCharm updated from 2022.1.3,221.5921.27 to 2022.1.4,221.6008.17",
-      "date" : "2022-07-22T04:48:10Z",
-      "identifier" : "release-pycharm-2022.1.4,221.6008.17",
-      "title" : "New Release: PyCharm 2022.1.4,221.6008.17"
-    },
-    {
-      "appID" : "postman",
-      "caption" : "Postman updated from 9.22.2 to 9.25.0",
-      "date" : "2022-07-22T04:48:10Z",
-      "identifier" : "release-postman-9.25.0",
-      "title" : "New Release: Postman 9.25.0"
-    },
-    {
-      "appID" : "pycharm-ce",
-      "caption" : "Jetbrains PyCharm Community Edition updated from 2022.1.3,221.5921.27 to 2022.1.4,221.6008.17",
-      "date" : "2022-07-22T04:48:10Z",
-      "identifier" : "release-pycharm-ce-2022.1.4,221.6008.17",
-      "title" : "New Release: Jetbrains PyCharm Community Edition 2022.1.4,221.6008.17"
-    },
-    {
-      "appID" : "lastpass",
-      "caption" : "LastPass updated from 4.99.1,1273 to 4.100.0,1274",
-      "date" : "2022-07-22T04:48:10Z",
-      "identifier" : "release-lastpass-4.100.0,1274",
-      "title" : "New Release: LastPass 4.100.0,1274"
-    },
-    {
-      "appID" : "datagrip",
-      "caption" : "DataGrip updated from 2022.1.5,221.5787.39 to 2022.2,222.3345.83",
-      "date" : "2022-07-22T04:48:11Z",
-      "identifier" : "release-datagrip-2022.2,222.3345.83",
-      "title" : "New Release: DataGrip 2022.2,222.3345.83"
-    },
-    {
-      "appID" : "phpstorm",
-      "caption" : "JetBrains PhpStorm updated from 2022.1.3,221.5921.28 to 2022.1.4,221.6008.16",
-      "date" : "2022-07-22T04:48:11Z",
-      "identifier" : "release-phpstorm-2022.1.4,221.6008.16",
-      "title" : "New Release: JetBrains PhpStorm 2022.1.4,221.6008.16"
-    },
-    {
-      "appID" : "evernote",
-      "caption" : "Evernote updated from 10.41.4,3525,e9fd61c1c2 to 10.41.5,3540,fc7ed4329d",
-      "date" : "2022-07-22T04:48:11Z",
-      "identifier" : "release-evernote-10.41.5,3540,fc7ed4329d",
-      "title" : "New Release: Evernote 10.41.5,3540,fc7ed4329d"
-    },
-    {
-      "appID" : "feishu",
-      "caption" : "feishu updated from 5.16.5,511dd9 to 5.17.6,1a2b3c4d",
-      "date" : "2022-07-22T04:48:11Z",
-      "identifier" : "release-feishu-5.17.6,1a2b3c4d",
-      "title" : "New Release: feishu 5.17.6,1a2b3c4d"
-    },
-    {
-      "appID" : "cog",
-      "caption" : "Cog updated from 2639,41e87e38 to 2643,9c4d9ebb",
-      "date" : "2022-07-22T04:48:11Z",
-      "identifier" : "release-cog-2643,9c4d9ebb",
-      "title" : "New Release: Cog 2643,9c4d9ebb"
-    },
-    {
-      "appID" : "switchresx",
-      "caption" : "SwitchResX updated from 4.12 to 4.12.1",
-      "date" : "2022-07-22T04:48:11Z",
-      "identifier" : "release-switchresx-4.12.1",
-      "title" : "New Release: SwitchResX 4.12.1"
-    },
-    {
       "appID" : "devonthink",
       "caption" : "DEVONthink updated from 3.8.4 to 3.8.5",
       "date" : "2022-07-22T04:48:12Z",
@@ -73874,13 +73793,6 @@
       "title" : "New Release: Tiger Trade 7.17.9,20220722,6E3190"
     },
     {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.8,20220721103039 to 6.2.9,20220722103024",
-      "date" : "2022-07-22T17:34:45Z",
-      "identifier" : "release-metasploit-6.2.9,20220722103024",
-      "title" : "New Release: Metasploit Framework 6.2.9,20220722103024"
-    },
-    {
       "appID" : "figma",
       "caption" : "Figma updated from 116.2.2 to 116.2.3",
       "date" : "2022-07-23T01:10:42Z",
@@ -74019,6 +73931,97 @@
       "date" : "2022-07-24T01:15:36Z",
       "identifier" : "release-provisioning-1.0.4",
       "title" : "New Release: Provisioning 1.0.4"
+    },
+    {
+      "appID" : "electerm",
+      "caption" : "electerm updated from 1.21.93 to 1.22.1",
+      "date" : "2022-07-24T10:23:08Z",
+      "identifier" : "release-electerm-1.22.1",
+      "title" : "New Release: electerm 1.22.1"
+    },
+    {
+      "appID" : "yinxiangbiji",
+      "caption" : "Evernote updated from 9.5.25_467538 to 9.5.27_467661",
+      "date" : "2022-07-24T10:23:09Z",
+      "identifier" : "release-yinxiangbiji-9.5.27_467661",
+      "title" : "New Release: Evernote 9.5.27_467661"
+    },
+    {
+      "appID" : "hstracker",
+      "caption" : "Hearthstone Deck Tracker updated from 2.1.12 to 2.1.13",
+      "date" : "2022-07-24T10:23:09Z",
+      "identifier" : "release-hstracker-2.1.13",
+      "title" : "New Release: Hearthstone Deck Tracker 2.1.13"
+    },
+    {
+      "appID" : "hepta",
+      "caption" : "Hepta updated from 0.176.0 to 0.179.0",
+      "date" : "2022-07-24T10:23:09Z",
+      "identifier" : "release-hepta-0.179.0",
+      "title" : "New Release: Hepta 0.179.0"
+    },
+    {
+      "appID" : "stork",
+      "caption" : "Stork for macOS updated from 1.0.11,1686 to 1.0.11,1693",
+      "date" : "2022-07-24T10:23:09Z",
+      "identifier" : "release-stork-1.0.11,1693",
+      "title" : "New Release: Stork for macOS 1.0.11,1693"
+    },
+    {
+      "appID" : "clock-signal",
+      "caption" : "Clock Signal updated from 2022-07-08 to 2022-07-23",
+      "date" : "2022-07-24T10:23:09Z",
+      "identifier" : "release-clock-signal-2022-07-23",
+      "title" : "New Release: Clock Signal 2022-07-23"
+    },
+    {
+      "appID" : "dbgate",
+      "caption" : "DbGate updated from 5.0.8 to 5.0.9",
+      "date" : "2022-07-24T10:23:10Z",
+      "identifier" : "release-dbgate-5.0.9",
+      "title" : "New Release: DbGate 5.0.9"
+    },
+    {
+      "appID" : "steam-plus-plus",
+      "caption" : "Steam++ updated from 2.7.2 to 2.8.1",
+      "date" : "2022-07-24T10:23:10Z",
+      "identifier" : "release-steam-plus-plus-2.8.1",
+      "title" : "New Release: Steam++ 2.8.1"
+    },
+    {
+      "appID" : "blisk",
+      "caption" : "Blisk Browser updated from 18.0.194.12 to 19.0.60.43",
+      "date" : "2022-07-24T10:23:10Z",
+      "identifier" : "release-blisk-19.0.60.43",
+      "title" : "New Release: Blisk Browser 19.0.60.43"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.9,20220722103024 to 6.2.9,20220723103042",
+      "date" : "2022-07-24T10:23:10Z",
+      "identifier" : "release-metasploit-6.2.9,20220723103042",
+      "title" : "New Release: Metasploit Framework 6.2.9,20220723103042"
+    },
+    {
+      "appID" : "pritunl",
+      "caption" : "Pritunl updated from 1.2.3233.75 to 1.2.3236.80",
+      "date" : "2022-07-24T10:23:10Z",
+      "identifier" : "release-pritunl-1.2.3236.80",
+      "title" : "New Release: Pritunl 1.2.3236.80"
+    },
+    {
+      "appID" : "hackolade",
+      "caption" : "Hackolade updated from 6.2.4 to 6.2.5",
+      "date" : "2022-07-24T10:23:10Z",
+      "identifier" : "release-hackolade-6.2.5",
+      "title" : "New Release: Hackolade 6.2.5"
+    },
+    {
+      "appID" : "catlight",
+      "caption" : "catlight updated from 2.37.0 to 2.38.11",
+      "date" : "2022-07-24T10:23:11Z",
+      "identifier" : "release-catlight-2.38.11",
+      "title" : "New Release: catlight 2.38.11"
     }
   ],
   "platform" : "macos",

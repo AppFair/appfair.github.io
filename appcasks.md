@@ -23,13 +23,13 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Signal``](https://signal.org/) | ``5.51.0`` | `2698` | `2022-07-21T00:00:00Z` |  | `8285` | `835` |  | `0` | `public.app-category.social-networking` |
-| [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``102.0.1`` | `13278` | `2022-07-06T00:00:00Z` |  | `7070` | `830` |  | `0` | `public.app-category.reference` |
-| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `7790` |  |  | `6266` | `593` |  | `0` | `public.app-category.video` |
-| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `28013` |  |  | `6381` | `534` |  | `0` | `public.app-category.developer-tools` |
-| [``Spotify``](https://www.spotify.com/) | ``1.1.90.859,f1bb1e36,15`` | `7516` | `2022-07-22T00:00:00Z` |  | `6579` | `572` |  | `0` | `public.app-category.music` |
-| [``Discord``](https://discord.com/) | ``0.0.267`` | `5286` |  |  | `6361` | `444` |  | `0` | `public.app-category.social-networking` |
-| [``Emacs``](https://emacsformacosx.com/) | ``28.1-4`` | `2965` |  |  | `5879` | `478` |  | `0` | `public.app-category.productivity` |
+| [``Signal``](https://signal.org/) | ``5.51.0`` | `2698` | `2022-07-21T00:00:00Z` |  | `8286` | `835` |  | `0` | `public.app-category.social-networking` |
+| [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``102.0.1`` | `13278` | `2022-07-06T00:00:00Z` |  | `7071` | `830` |  | `0` | `public.app-category.reference` |
+| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `7790` |  |  | `6267` | `593` |  | `0` | `public.app-category.video` |
+| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `28013` |  |  | `6382` | `534` |  | `0` | `public.app-category.developer-tools` |
+| [``Spotify``](https://www.spotify.com/) | ``1.1.90.859,f1bb1e36,15`` | `7516` | `2022-07-22T00:00:00Z` |  | `6580` | `572` |  | `0` | `public.app-category.music` |
+| [``Discord``](https://discord.com/) | ``0.0.267`` | `5286` |  |  | `6362` | `444` |  | `0` | `public.app-category.social-networking` |
+| [``Emacs``](https://emacsformacosx.com/) | ``28.1-4`` | `2965` |  |  | `5880` | `478` |  | `0` | `public.app-category.productivity` |
 | [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2569` |  |  | `4936` | `336` |  | `0` | `public.app-category.games` |
 | [``WhatsApp``](https://www.whatsapp.com/) | ``2.2222.12`` | `2565` |  |  | `6605` | `505` |  | `0` | `public.app-category.social-networking` |
 | [``Keka``](https://www.keka.io/) | ``1.2.55`` | `2053` |  |  | `6568` | `771` |  | `0` | `public.app-category.utilities` |
@@ -100,7 +100,7 @@ tr:nth-child(even) {
 | [``Suspicious Package``](https://www.mothersruin.com/software/SuspiciousPackage/) | ``4.2.1,932`` | `681` |  |  | `1254` | `71` |  | `0` | `public.app-category.developer-tools` |
 | [``darktable``](https://www.darktable.org/) | ``4.0.0`` | `656` | `2022-07-03T00:00:00Z` |  | `1878` | `177` |  | `0` | `public.app-category.photography` |
 | [``Charles``](https://www.charlesproxy.com/) | ``4.6.2`` | `577` |  |  | `3322` | `87` |  | `0` | `public.app-category.developer-tools` |
-| [``Dash``](https://kapeli.com/dash) | ``6.2.4,996`` | `563` |  |  | `2200` | `163` |  | `0` | `public.app-category.developer-tools` |
+| [``Dash``](https://kapeli.com/dash) | ``6.2.4,996`` | `563` |  |  | `2201` | `163` |  | `0` | `public.app-category.developer-tools` |
 | [``Proxyman``](https://proxyman.io/) | ``3.7.0,30700`` | `515` | `2022-07-17T00:00:00Z` |  | `1374` | `103` |  | `0` | `public.app-category.developer-tools` |
 | [``Plex``](https://www.plex.tv/) | ``1.49.1.3146,73559c78`` | `510` | `2022-07-20T00:00:00Z` |  | `1952` | `97` |  | `0` | `public.app-category.video` |
 | [``Typora``](https://typora.io/) | ``1.3.7`` | `509` |  |  | `1297` | `71` |  | `0` | `public.app-category.productivity` |

@@ -57,7 +57,7 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 93,
+        "downloadCount" : 95,
         "impressionCount" : 32,
         "issueCount" : 5,
         "starCount" : 25,
@@ -144,7 +144,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 2925,
+        "impressionCount" : 2926,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 532,
@@ -234,7 +234,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 8,
-        "impressionCount" : 53,
+        "impressionCount" : 54,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 12,
@@ -544,7 +544,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 20,
-        "impressionCount" : 387,
+        "impressionCount" : 388,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,
@@ -622,10 +622,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 385,
+        "impressionCount" : 386,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 298,
+        "impressionCount" : 299,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -828,10 +828,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2759,
+        "impressionCount" : 2760,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 455,
+        "viewCount" : 456,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2415,
+        "impressionCount" : 2416,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 445,
@@ -1181,10 +1181,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 274,
+        "impressionCount" : 275,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 26,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1344,10 +1344,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 8,
-        "impressionCount" : 51,
+        "impressionCount" : 52,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

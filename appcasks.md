@@ -2462,7 +2462,7 @@ tr:nth-child(even) {
 | [``Teensy``](https://pjrc.com/teensy/loader_mac.html) | ``1.52`` | `12` |  |  | `11` |  |  | `0` |  |
 | [``WWDC``](https://wwdc.io/) | ``7.3.3,1024`` | `12` |  |  | `21` |  |  | `0` |  |
 | [``VitalSource Bookshelf``](https://www.vitalsource.com/bookshelf-features) | ``10.1.0.1405`` | `12` |  |  | `21` |  |  | `0` |  |
-| [``Visual Paradigm``](https://www.visual-paradigm.com/) | ``16.3,20220516`` | `12` |  |  | `18` |  |  | `0` |  |
+| [``Visual Paradigm``](https://www.visual-paradigm.com/) | ``16.3,20220622`` | `12` | `2022-07-25T12:35:23Z` |  | `18` |  |  | `0` |  |
 | [``Airy``](https://mac.eltima.com/youtube-downloader-mac.html) | ``3.26,371`` | `11` |  |  | `35` |  |  | `0` |  |
 | [``AutoDMG``](https://github.com/MagerValp/AutoDMG) | ``1.9`` | `11` |  |  | `23` |  |  | `0` |  |
 | [``Blockbench``](https://www.blockbench.net/) | ``4.3.0`` | `11` | `2022-07-23T00:00:00Z` |  | `59` |  |  | `0` |  |
@@ -2630,7 +2630,7 @@ tr:nth-child(even) {
 | [``OneCast``](https://onecast.me/) | ``1.14,20`` | `6` |  |  | `23` |  |  | `0` |  |
 | [``Pester``](https://sabi.net/nriley/software/index.html#pester) | ``1.1b24,71`` | `6` |  |  | `25` |  |  | `0` |  |
 | [``PodcastMenu``](https://github.com/insidegui/PodcastMenu) | ``1.3,10`` | `6` |  |  | `23` |  |  | `0` |  |
-| [``ProFind``](https://www.zeroonetwenty.com/profind/) | ``1.13.0,11303`` | `6` | `2022-07-07T00:00:00Z` |  | `65` |  |  | `0` |  |
+| [``ProFind``](https://www.zeroonetwenty.com/profind/) | ``1.14.0,11402`` | `6` | `2022-07-25T12:35:23Z` |  | `65` |  |  | `0` |  |
 | [``Quaternion``](https://github.com/quotient-im/Quaternion) | ``0.0.95.1`` | `6` |  |  | `24` |  |  | `0` |  |
 | [``Roku Remote Tool``](https://devtools.web.roku.com/RokuRemote/electron.html) | ``3.2.22.1288`` | `6` |  |  | `17` |  |  | `0` |  |
 | [``scansion``](http://www.logicpoet.com/scansion/) | ``1.12`` | `6` |  |  | `23` |  |  | `0` |  |
@@ -3294,7 +3294,7 @@ tr:nth-child(even) {
 | [``Pro Picker``](https://irradiated.net/tool/pro-picker/) | ``1.1`` | `17` |  |  |  |  |  | `0` |  |
 | [``HWSensors``](https://github.com/kozlekek/HWSensors/) | ``6.26.1440`` | `17` |  |  |  |  |  | `0` |  |
 | [``LANDrop``](https://landrop.app/) | ``0.4.0`` | `17` |  |  |  |  |  | `0` |  |
-| [``Mission Control Plus``](https://fadel.io/MissionControlPlus) | ``1.17`` | `17` |  |  |  |  |  | `0` |  |
+| [``Mission Control Plus``](https://fadel.io/MissionControlPlus) | ``1.18`` | `17` | `2022-07-25T12:35:23Z` |  |  |  |  | `0` |  |
 | [``NoMachine Enterprise Cli…``](https://www.nomachine.com/) | ``7.10.1_1`` | `17` |  |  |  |  |  | `0` |  |
 | [``Surge XT``](https://surge-synthesizer.github.io/) | ``1.0.1`` | `17` |  |  |  |  |  | `0` |  |
 | [``Transnomino``](https://transnomino.bastiaanverreijt.com/) | ``6.3`` | `17` | `2022-07-21T00:00:00Z` |  |  |  |  | `0` |  |

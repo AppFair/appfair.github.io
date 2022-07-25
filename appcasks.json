@@ -13476,7 +13476,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-remnote/AppIcon.png",
       "localizedDescription" : "Spaced-repetition powered note-taking tool",
       "name" : "RemNote",
-      "sha256" : "03dcb3769500f91c340b201f3f0490fe12f553e3b451e80fc9dce3c128e8216d",
+      "sha256" : "f793e0b57ca709f0db9bbd788a635d5a53c971da27068a804c315818e591850a",
       "stats" : {
         "downloadCount" : 37,
         "impressionCount" : 347
@@ -49549,19 +49549,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp16.3/20220516/Visual_Paradigm_16_3_20220516_OSX_WithJRE.dmg",
+      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp16.3/20220622/Visual_Paradigm_16_3_20220622_OSX_WithJRE.dmg",
       "homepage" : "https://www.visual-paradigm.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-paradigm/AppIcon.png",
       "localizedDescription" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "name" : "Visual Paradigm",
-      "sha256" : "a9816320997832bc94770764b629fde829e037bd5c2a15146a52e2746dea9887",
+      "sha256" : "550e2860ad34d2633cee6ea15cb1fc9c74368a59285203f91dc4f0d5f206d153",
       "stats" : {
         "downloadCount" : 12,
         "impressionCount" : 18
       },
       "subtitle" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "tintColor" : "DE7A7A",
-      "version" : "16.3,20220516"
+      "version" : "16.3,20220622",
+      "versionDate" : "2022-07-25T12:35:23Z"
     },
     {
       "beta" : false,
@@ -52846,20 +52847,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.zeroonetwenty.com/profind/downloads/ProFind1130.dmg",
+      "downloadURL" : "https://www.zeroonetwenty.com/profind/downloads/ProFind1140.dmg",
       "homepage" : "https://www.zeroonetwenty.com/profind/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-profind/AppIcon.png",
       "localizedDescription" : "File search app",
       "name" : "ProFind",
-      "sha256" : "d3b9df443a2dc80129f1192a010ef7677a3d8207788fb179554b043078e1d8e0",
+      "sha256" : "d84d0729b7197e3b8ecd79d276df46843a48cf59d71a3ef30db7dbc9ac8f8cb8",
       "stats" : {
         "downloadCount" : 6,
         "impressionCount" : 65
       },
       "subtitle" : "File search app",
       "tintColor" : "B96238",
-      "version" : "1.13.0,11303",
-      "versionDate" : "2022-07-07T00:00:00Z"
+      "version" : "1.14.0,11402",
+      "versionDate" : "2022-07-25T12:35:23Z"
     },
     {
       "beta" : false,
@@ -64940,16 +64941,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.17/Mission.Control.Plus.tgz",
+      "downloadURL" : "https://github.com/ronyfadel/MissionControlPlusReleases/releases/download/v1.18/Mission.Control.Plus.tgz",
       "homepage" : "https://fadel.io/MissionControlPlus",
       "localizedDescription" : "Manage your windows in Mission Control",
       "name" : "Mission Control Plus",
-      "sha256" : "724615c328d3a446d2d0a9d8f3030c45a291c394f5a9c856ad36d26d42145356",
+      "sha256" : "4c8ce658c56bff0125398840289c9ef5b07d165ccab85e4df9a0c18566f063da",
       "stats" : {
         "downloadCount" : 17
       },
       "subtitle" : "Manage your windows in Mission Control",
-      "version" : "1.17"
+      "version" : "1.18",
+      "versionDate" : "2022-07-25T12:35:23Z"
     },
     {
       "beta" : false,
@@ -73348,27 +73350,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "timeular",
-      "caption" : "Timeular updated from 5.0.0 to 5.0.1",
-      "date" : "2022-07-22T04:48:15Z",
-      "identifier" : "release-timeular-5.0.1",
-      "title" : "New Release: Timeular 5.0.1"
-    },
-    {
-      "appID" : "colorwell",
-      "caption" : "ColorWell updated from 7.3.5 to 7.3.5.1",
-      "date" : "2022-07-22T04:48:15Z",
-      "identifier" : "release-colorwell-7.3.5.1",
-      "title" : "New Release: ColorWell 7.3.5.1"
-    },
-    {
-      "appID" : "millie",
-      "caption" : "millie updated from 2.38.0 to 2.38.2",
-      "date" : "2022-07-22T04:48:15Z",
-      "identifier" : "release-millie-2.38.2",
-      "title" : "New Release: millie 2.38.2"
-    },
-    {
       "appID" : "navicat-for-sqlite",
       "caption" : "Navicat for SQLite updated from 16.0.14 to 16.1.0",
       "date" : "2022-07-22T04:48:15Z",
@@ -74046,6 +74027,27 @@
       "date" : "2022-07-25T10:30:14Z",
       "identifier" : "release-clocker-22.06",
       "title" : "New Release: Clocker 22.06"
+    },
+    {
+      "appID" : "visual-paradigm",
+      "caption" : "Visual Paradigm updated from 16.3,20220516 to 16.3,20220622",
+      "date" : "2022-07-25T12:35:24Z",
+      "identifier" : "release-visual-paradigm-16.3,20220622",
+      "title" : "New Release: Visual Paradigm 16.3,20220622"
+    },
+    {
+      "appID" : "profind",
+      "caption" : "ProFind updated from 1.13.0,11303 to 1.14.0,11402",
+      "date" : "2022-07-25T12:35:25Z",
+      "identifier" : "release-profind-1.14.0,11402",
+      "title" : "New Release: ProFind 1.14.0,11402"
+    },
+    {
+      "appID" : "mission-control-plus",
+      "caption" : "Mission Control Plus updated from 1.17 to 1.18",
+      "date" : "2022-07-25T12:35:25Z",
+      "identifier" : "release-mission-control-plus-1.18",
+      "title" : "New Release: Mission Control Plus 1.18"
     }
   ],
   "platform" : "macos",

@@ -4259,7 +4259,7 @@
       "subtitle" : "MikroTik Winbox",
       "tintColor" : "54A1EC",
       "version" : "3.37.0",
-      "versionDate" : "2022-07-25T10:30:13Z"
+      "versionDate" : "2022-07-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7130,7 +7130,7 @@
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
       "version" : "2659,9f84a8bf",
-      "versionDate" : "2022-07-25T10:30:13Z"
+      "versionDate" : "2022-07-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61337,7 +61337,7 @@
       },
       "subtitle" : "Menu bar timezone tracker and compact calendar",
       "version" : "22.06",
-      "versionDate" : "2022-07-25T10:30:13Z"
+      "versionDate" : "2022-07-25T00:00:00Z"
     },
     {
       "beta" : false,

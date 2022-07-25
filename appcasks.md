@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Signal``](https://signal.org/) | ``5.51.0`` | `2597` | `2022-07-21T00:00:00Z` |  | `8300` | `838` |  | `0` | `public.app-category.social-networking` |
+| [``Signal``](https://signal.org/) | ``5.51.0`` | `2597` | `2022-07-21T00:00:00Z` |  | `8301` | `838` |  | `0` | `public.app-category.social-networking` |
 | [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``102.0.1`` | `13156` | `2022-07-06T00:00:00Z` |  | `7082` | `831` |  | `0` | `public.app-category.reference` |
 | [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `7779` |  |  | `6278` | `593` |  | `0` | `public.app-category.video` |
 | [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `27763` |  |  | `6395` | `534` |  | `0` | `public.app-category.developer-tools` |
@@ -184,7 +184,7 @@ tr:nth-child(even) {
 | [``Caffeine``](https://intelliscapesolutions.com/apps/caffeine) | ``1.1.3`` | `1281` |  |  | `604` |  |  | `0` | `public.app-category.utilities` |
 | [``RStudio``](https://www.rstudio.com/) | ``2022.07.0,548`` | `1281` | `2022-07-08T00:00:00Z` |  | `399` |  |  | `0` | `public.app-category.developer-tools` |
 | [``CocoaPods.app``](https://cocoapods.org/) | ``1.5.2`` | `1193` |  |  | `954` |  |  | `0` | `public.app-category.developer-tools` |
-| [``LibreWolf``](https://librewolf.net/) | ``102.0.1,1,fa35f6baa1d4b6…`` | `1138` | `2022-07-11T00:00:00Z` |  | `618` |  |  | `0` | `public.app-category.productivity` |
+| [``LibreWolf``](https://librewolf.net/) | ``102.0.1,1,fa35f6baa1d4b6…`` | `1138` | `2022-07-11T00:00:00Z` |  | `619` |  |  | `0` | `public.app-category.productivity` |
 | [``Mounty for NTFS``](https://mounty.app/) | ``1.14`` | `1112` |  |  | `381` |  |  | `0` | `public.app-category.utilities` |
 | [``Hidden Bar``](https://github.com/dwarvesf/hidden/) | ``1.9`` | `1082` |  |  | `431` |  |  | `0` | `public.app-category.utilities` |
 | [``MarkText``](https://github.com/marktext/marktext) | ``0.17.1`` | `1025` |  |  | `373` |  |  | `0` | `public.app-category.developer-tools` |
@@ -363,7 +363,7 @@ tr:nth-child(even) {
 | [``TeXShop``](https://pages.uoregon.edu/koch/texshop/) | ``4.78`` | `144` | `2022-07-18T00:00:00Z` |  | `320` |  |  | `0` | `public.app-category.productivity` |
 | [``Appium Inspector GUI``](https://github.com/appium/appium-inspector/) | ``2022.7.1`` | `143` | `2022-07-15T00:00:00Z` |  | `584` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Boop``](https://boop.okat.best/) | ``1.4.0`` | `143` |  |  | `678` |  |  | `0` | `public.app-category.developer-tools` |
-| [``VIA``](https://caniusevia.com/) | ``1.3.1`` | `141` |  |  | `178` |  |  | `0` | `public.app-category.developer-tools` |
+| [``VIA``](https://caniusevia.com/) | ``1.3.1`` | `141` |  |  | `179` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Fing Desktop``](https://www.fing.com/products/fing-desktop) | ``3.0.0`` | `140` | `2022-07-19T00:00:00Z` |  | `810` |  |  | `0` | `public.app-category.utilities` |
 | [``Gather Town``](https://gather.town/) | ``0.3.1`` | `138` | `2022-07-20T00:00:00Z` |  | `544` |  |  | `0` | `public.app-category.video` |
 | [``Local``](https://localwp.com/) | ``6.4.1,5978`` | `138` |  |  | `233` |  |  | `0` | `public.app-category.developer-tools` |
@@ -373,7 +373,7 @@ tr:nth-child(even) {
 | [``Carbon Copy Cloner``](https://bombich.com/) | ``6.1.2.7359`` | `132` |  |  | `505` |  |  | `0` | `public.app-category.utilities` |
 | [``electerm``](https://github.com/electerm/electerm/) | ``1.22.1`` | `132` | `2022-07-24T00:00:00Z` |  | `386` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Fluor``](https://github.com/Pyroh/Fluor) | ``2.5.1`` | `132` | `2022-07-07T00:00:00Z` |  | `545` |  |  | `0` | `public.app-category.productivity` |
-| [``ONLYOFFICE``](https://www.onlyoffice.com/) | ``7.1.1`` | `132` | `2022-07-14T00:00:00Z` |  | `463` |  |  | `0` | `public.app-category.productivity` |
+| [``ONLYOFFICE``](https://www.onlyoffice.com/) | ``7.1.1`` | `132` | `2022-07-14T00:00:00Z` |  | `464` |  |  | `0` | `public.app-category.productivity` |
 | [``RunJS``](https://runjs.app/) | ``2.5.1`` | `131` | `2022-07-06T00:00:00Z` |  | `283` |  |  | `0` | `public.app-category.developer-tools` |
 | [``SQL Workbench/J``](https://www.sql-workbench.eu/) | ``124`` | `131` |  |  | `186` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Stoplight Studio``](https://stoplight.io/studio/) | ``2.8.1,7959.git-777e356`` | `131` | `2022-07-14T00:00:00Z` |  | `226` |  |  | `0` | `public.app-category.developer-tools` |

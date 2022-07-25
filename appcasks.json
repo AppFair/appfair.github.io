@@ -4246,20 +4246,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/nrlquaker/winbox-mac/releases/download/v3.36.1/Winbox-mac-3.36.1.zip",
+      "downloadURL" : "https://github.com/nrlquaker/winbox-mac/releases/download/v3.37.0/Winbox-mac-3.37.0.zip",
       "homepage" : "https://github.com/nrlquaker/winbox-mac/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nrlquaker-winbox/AppIcon.png",
       "localizedDescription" : "MikroTik Winbox",
       "name" : "Winbox-mac",
-      "sha256" : "230096c81ef43973319cfca00452017835b86ab1b4b9bebbe57dbd0625e489c9",
+      "sha256" : "02294303a181663a79070c60d2c56e7e5b9aa36fa68c7abddcd7bf05078a7ae8",
       "stats" : {
         "downloadCount" : 760,
         "impressionCount" : 383
       },
       "subtitle" : "MikroTik Winbox",
       "tintColor" : "54A1EC",
-      "version" : "3.36.1",
-      "versionDate" : "2022-07-18T00:00:00Z"
+      "version" : "3.37.0",
+      "versionDate" : "2022-07-25T10:30:13Z"
     },
     {
       "beta" : false,
@@ -7117,20 +7117,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-e796e23a.zip",
+      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-9f84a8bf.zip",
       "homepage" : "https://cog.losno.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cog/AppIcon.png",
       "localizedDescription" : "Audio player",
       "name" : "Cog",
-      "sha256" : "ffcd56e01a4233b9ad73cdfc140059e067f5ba4eeee5f3d206b9f375589a1c7c",
+      "sha256" : "11a5479d4d66480aed65ebfb38d1fbfa973d4433e9801f1caf82daceffefd2e8",
       "stats" : {
         "downloadCount" : 166,
         "impressionCount" : 1443
       },
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
-      "version" : "2649,e796e23a",
-      "versionDate" : "2022-07-24T00:00:00Z"
+      "version" : "2659,9f84a8bf",
+      "versionDate" : "2022-07-25T10:30:13Z"
     },
     {
       "beta" : false,
@@ -61327,16 +61327,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/n0shake/Clocker/releases/download/22.05/Clocker.v22.05.zip",
+      "downloadURL" : "https://github.com/n0shake/Clocker/releases/download/22.06/Clocker.zip",
       "homepage" : "https://abhishekbanthia.com/clocker",
       "localizedDescription" : "Menu bar timezone tracker and compact calendar",
       "name" : "Clocker",
-      "sha256" : "5d0ba12ca0c169c938bff5eb6dc4d1934c780aaa525c983b929046ceb88ae1d6",
+      "sha256" : "683ab58e3d4636a5200c3a31982185abe02adedc60fc07ddc7dfd30db8a5acba",
       "stats" : {
         "downloadCount" : 131
       },
       "subtitle" : "Menu bar timezone tracker and compact calendar",
-      "version" : "22.05"
+      "version" : "22.06",
+      "versionDate" : "2022-07-25T10:30:13Z"
     },
     {
       "beta" : false,
@@ -73347,20 +73348,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "navicat-for-mariadb",
-      "caption" : "Navicat for MariaDB updated from 16.0.14 to 16.1.0",
-      "date" : "2022-07-22T04:48:14Z",
-      "identifier" : "release-navicat-for-mariadb-16.1.0",
-      "title" : "New Release: Navicat for MariaDB 16.1.0"
-    },
-    {
-      "appID" : "navicat-for-oracle",
-      "caption" : "Navicat for Oracle updated from 16.0.14 to 16.1.0",
-      "date" : "2022-07-22T04:48:15Z",
-      "identifier" : "release-navicat-for-oracle-16.1.0",
-      "title" : "New Release: Navicat for Oracle 16.1.0"
-    },
-    {
       "appID" : "timeular",
       "caption" : "Timeular updated from 5.0.0 to 5.0.1",
       "date" : "2022-07-22T04:48:15Z",
@@ -73935,13 +73922,6 @@
       "title" : "New Release: Stats 2.7.27"
     },
     {
-      "appID" : "cog",
-      "caption" : "Cog updated from 2643,9c4d9ebb to 2649,e796e23a",
-      "date" : "2022-07-24T12:30:56Z",
-      "identifier" : "release-cog-2649,e796e23a",
-      "title" : "New Release: Cog 2649,e796e23a"
-    },
-    {
       "appID" : "quakespasm",
       "caption" : "QuakeSpasm updated from 0.94.6 to 0.94.7",
       "date" : "2022-07-24T12:30:56Z",
@@ -74045,6 +74025,27 @@
       "date" : "2022-07-25T08:30:56Z",
       "identifier" : "release-canva-1.48.0",
       "title" : "New Release: Canva 1.48.0"
+    },
+    {
+      "appID" : "nrlquaker-winbox",
+      "caption" : "Winbox-mac updated from 3.36.1 to 3.37.0",
+      "date" : "2022-07-25T10:30:14Z",
+      "identifier" : "release-nrlquaker-winbox-3.37.0",
+      "title" : "New Release: Winbox-mac 3.37.0"
+    },
+    {
+      "appID" : "cog",
+      "caption" : "Cog updated from 2649,e796e23a to 2659,9f84a8bf",
+      "date" : "2022-07-25T10:30:14Z",
+      "identifier" : "release-cog-2659,9f84a8bf",
+      "title" : "New Release: Cog 2659,9f84a8bf"
+    },
+    {
+      "appID" : "clocker",
+      "caption" : "Clocker updated from 22.05 to 22.06",
+      "date" : "2022-07-25T10:30:14Z",
+      "identifier" : "release-clocker-22.06",
+      "title" : "New Release: Clocker 22.06"
     }
   ],
   "platform" : "macos",

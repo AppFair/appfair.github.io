@@ -206,7 +206,7 @@ tr:nth-child(even) {
 | [``Goland``](https://www.jetbrains.com/go/) | ``2022.1.4,221.6008.15`` | `787` | `2022-07-20T00:00:00Z` |  | `409` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Microsoft Visual Studio``](https://visualstudio.microsoft.com/vs/mac/) | ``17.0.4.5`` | `775` |  |  | `61` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Mos``](https://mos.caldis.me/) | ``3.3.2`` | `771` |  |  | `347` |  |  | `0` | `public.app-category.utilities` |
-| [``Winbox-mac``](https://github.com/nrlquaker/winbox-mac/) | ``3.36.1`` | `760` | `2022-07-18T00:00:00Z` |  | `383` |  |  | `0` | `public.app-category.utilities` |
+| [``Winbox-mac``](https://github.com/nrlquaker/winbox-mac/) | ``3.37.0`` | `760` | `2022-07-25T10:30:13Z` |  | `383` |  |  | `0` | `public.app-category.utilities` |
 | [``GitKraken``](https://www.gitkraken.com/) | ``8.7.0`` | `746` | `2022-07-14T00:00:00Z` |  | `430` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Cisco Proximity``](https://proximity.cisco.com/) | ``4.0.0`` | `740` |  |  | `555` |  |  | `0` | `public.app-category.utilities` |
 | [``ImageOptim``](https://imageoptim.com/mac) | ``1.8.8`` | `736` |  |  | `419` |  |  | `0` | `public.app-category.developer-tools` |
@@ -344,7 +344,7 @@ tr:nth-child(even) {
 | [``YouTube Downloader``](https://github.com/DenBeke/YouTube-Downloader-for-macOS) | ``0.9`` | `170` |  |  | `234` |  |  | `0` | `public.app-category.utilities` |
 | [``Downie``](https://software.charliemonroe.net/downie.php) | ``4.5.6,4421`` | `169` | `2022-07-03T00:00:00Z` |  | `748` |  |  | `0` | `public.app-category.video` |
 | [``GnuCash``](https://www.gnucash.org/) | ``4.11-1`` | `169` |  |  | `575` |  |  | `0` | `public.app-category.finance` |
-| [``Cog``](https://cog.losno.co/) | ``2649,e796e23a`` | `166` | `2022-07-24T00:00:00Z` |  | `1443` |  |  | `0` | `public.app-category.music` |
+| [``Cog``](https://cog.losno.co/) | ``2659,9f84a8bf`` | `166` | `2022-07-25T10:30:13Z` |  | `1443` |  |  | `0` | `public.app-category.music` |
 | [``Goneovim``](https://github.com/akiyosi/goneovim) | ``0.6.2`` | `166` |  |  | `267` |  |  | `0` | `public.app-category.utilities` |
 | [``WeChat Work``](https://work.weixin.qq.com/) | ``4.0.9.90603`` | `165` | `2022-07-18T00:00:00Z` |  | `780` |  |  | `0` | `public.app-category.business` |
 | [``Electron``](https://electronjs.org/) | ``19.0.9`` | `162` | `2022-07-22T00:00:00Z` |  | `425` |  |  | `0` | `public.app-category.developer-tools` |
@@ -3081,7 +3081,7 @@ tr:nth-child(even) {
 | [``MySQL Connector for Pyth…``](https://dev.mysql.com/downloads/connector/python/) | ``8.0.29`` | `133` |  |  |  |  |  | `0` |  |
 | [``Oracle Java Standard Edi…``](https://www.oracle.com/java/technologies/downloads/) | ``18.0.2,9,f6ad4b4450fd4d2…`` | `133` | `2022-07-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``JupyterLab App``](https://github.com/jupyterlab/jupyterlab-desktop) | ``3.3.4-2`` | `132` |  |  |  |  |  | `0` |  |
-| [``Clocker``](https://abhishekbanthia.com/clocker) | ``22.05`` | `131` |  |  |  |  |  | `0` |  |
+| [``Clocker``](https://abhishekbanthia.com/clocker) | ``22.06`` | `131` | `2022-07-25T10:30:13Z` |  |  |  |  | `0` |  |
 | [``Confluent CLI``](https://docs.confluent.io/confluent-cli/current/overview.html) | ``2.22.0`` | `127` | `2022-07-21T00:00:00Z` |  |  |  |  | `0` |  |
 | [``quarto``](https://www.quarto.org/) | ``1.0.36`` | `126` | `2022-07-23T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Vysor``](https://www.vysor.io/) | ``4.2.3`` | `126` |  |  |  |  |  | `0` |  |

@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.34β`` | `43` | `2022-07-20T00:00:00Z` | `5.3 MB` | `302` | `16` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.140`` | `83` | `2022-07-22T00:00:00Z` | `5.4 MB` | `113` | `14` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.140`` | `91` | `2022-07-22T00:00:00Z` | `5.4 MB` | `113` | `14` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `6` | `2022-01-23T00:00:00Z` | `5.9 MB` | `1717` | `159` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `4` | `2022-01-25T00:00:00Z` | `6 MB` | `1081` | `84` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `4` | `2022-01-24T00:00:00Z` | `6.1 MB` | `720` | `52` | `0` | `0` |  |
@@ -32,11 +32,11 @@ tr:nth-child(even) {
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `4` | `2022-01-23T00:00:00Z` | `6 MB` | `1128` | `81` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `5` | `2022-01-26T00:00:00Z` | `5.9 MB` | `720` | `51` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `31` | `2022-07-20T00:00:00Z` | `5.4 MB` | `450` | `31` | `0` | `0` |  |
-| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `20` | `2022-07-20T00:00:00Z` | `12 MB` | `440` | `31` | `0` | `0` |  |
+| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `21` | `2022-07-20T00:00:00Z` | `12 MB` | `440` | `31` | `0` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `4` | `2022-07-20T00:00:00Z` | `18.2 MB` | `339` | `27` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.17β`` | `6` | `2022-01-24T00:00:00Z` | `6 MB` | `978` | `55` | `0` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `6.5 MB` | `824` | `49` | `0` | `0` |  |
-| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.42`` | `3` | `2022-05-26T00:00:00Z` | `9.3 MB` | `2786` | `457` | `0` | `0` |  |
+| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.42`` | `4` | `2022-05-26T00:00:00Z` | `9.3 MB` | `2786` | `457` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `180` | `3` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.8β`` | `9` | `2021-12-06T00:00:00Z` | `5.8 MB` | `178` | `14` | `0` | `0` |  |
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `4` | `2022-01-24T00:00:00Z` | `6.5 MB` | `362` | `42` | `0` | `0` |  |

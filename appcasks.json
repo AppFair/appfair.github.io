@@ -1947,8 +1947,8 @@
       "sha256" : "addab784af18bafa303340e754c00084c126e61c3d5b93006f8e6d602f838203",
       "stats" : {
         "downloadCount" : 669,
-        "impressionCount" : 1885,
-        "viewCount" : 177
+        "impressionCount" : 1886,
+        "viewCount" : 178
       },
       "subtitle" : "Photography workflow application and raw developer",
       "tintColor" : "6D4C40",
@@ -7351,7 +7351,7 @@
       "name" : "XnViewMP",
       "stats" : {
         "downloadCount" : 153,
-        "impressionCount" : 703
+        "impressionCount" : 704
       },
       "subtitle" : "Photo viewer, image manager, image resizer and more",
       "tintColor" : "D56402",
@@ -15393,7 +15393,7 @@
       "name" : "XnSoft XnConvert",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 647
+        "impressionCount" : 648
       },
       "subtitle" : "Image-converter and resizer tool",
       "tintColor" : "BD8F32",
@@ -18098,7 +18098,7 @@
       "name" : "ExifRenamer",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 728
+        "impressionCount" : 729
       },
       "subtitle" : "Tool to rename digital photos, movie- and audio-clips",
       "tintColor" : "635F62",
@@ -21407,7 +21407,7 @@
       "sha256" : "25b80175858387a19a3eedde2df3b25a5b28b420fdd9bad1a8b552a0a86320ea",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 709
+        "impressionCount" : 710
       },
       "subtitle" : "Instagram desktop client",
       "tintColor" : "6CA9C8",
@@ -21550,7 +21550,7 @@
       "sha256" : "9b896efb33313016bd9110daab9a1bb9c8132ee6cdb4555de6c61bb5804470de",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 768
+        "impressionCount" : 769
       },
       "subtitle" : "Editor to read, write and edit images metadata",
       "tintColor" : "F29245",
@@ -23656,7 +23656,7 @@
       "sha256" : "bcfdde7006a8aa207ff7d9f8327787cb22c225a224575b5af12a99d45860eeb6",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 573
+        "impressionCount" : 574
       },
       "subtitle" : "Batch image processor",
       "tintColor" : "BFA58F",
@@ -26774,7 +26774,7 @@
       "name" : "PhotoSweeper X",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 637
+        "impressionCount" : 638
       },
       "subtitle" : "Tool to eliminate similar or duplicate photos",
       "tintColor" : "8A7A5F",
@@ -28813,7 +28813,7 @@
       "sha256" : "88a3eff04aa6ce9f9b3ab0af241d0cd186d42c453f692066dfca4ea79caf7d5e",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 654
+        "impressionCount" : 655
       },
       "subtitle" : "Geo location editor for images",
       "tintColor" : "C4D3D1",
@@ -30706,7 +30706,7 @@
       "name" : "Mylio",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 623
+        "impressionCount" : 624
       },
       "subtitle" : "Photo organizer",
       "tintColor" : "313338",
@@ -31322,7 +31322,7 @@
       "sha256" : "05e1bbefd09e098eeb7faec29ea7556f76cf17b49be719af93e443d993beeb8c",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 539
+        "impressionCount" : 540
       },
       "tintColor" : "868180",
       "version" : "4.5.3"
@@ -32012,7 +32012,7 @@
       "name" : "Flickr Uploadr",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 671
+        "impressionCount" : 672
       },
       "tintColor" : "C3B8E0",
       "version" : "1.1.2,2121"
@@ -33989,7 +33989,7 @@
       "sha256" : "b4927431294fe5b66d5d29998840c43d93fc909245c3a008701bfbeb84b87a82",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 724
+        "impressionCount" : 725
       },
       "subtitle" : "HDR image creator",
       "tintColor" : "D7D8CA",
@@ -37108,7 +37108,7 @@
       "sha256" : "b36de0c93bccd2850878b7dcf549b983ead46b9e557e8de3ba81474983517054",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 614
+        "impressionCount" : 615
       },
       "subtitle" : "Colorize old black and white photos automatically",
       "tintColor" : "A8B0C1",
@@ -37339,7 +37339,7 @@
       "sha256" : "8b7f5e9e3cefa2320ed9d1650f30ec1c56c54b40292a2b11f855b5036db245e3",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 610
+        "impressionCount" : 611
       },
       "subtitle" : "Process raw photos",
       "tintColor" : "7D7A71",

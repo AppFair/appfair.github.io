@@ -25,7 +25,7 @@
       "sha256" : "51d8c3fc1a6548063a540aa38956c56efa5c7920d0f39bc720f7960e82b2372c",
       "stats" : {
         "downloadCount" : 2629,
-        "impressionCount" : 8407,
+        "impressionCount" : 8411,
         "viewCount" : 852
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "228e515764e0484adb84e31b94791528996a538214d0280a4db9f4fe6eb67750",
       "stats" : {
         "downloadCount" : 13434,
-        "impressionCount" : 7172,
+        "impressionCount" : 7176,
         "viewCount" : 838
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 7875,
-        "impressionCount" : 6362,
+        "impressionCount" : 6366,
         "viewCount" : 596
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28307,
-        "impressionCount" : 6487,
+        "impressionCount" : 6491,
         "viewCount" : 541
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7641,
-        "impressionCount" : 6684,
+        "impressionCount" : 6688,
         "viewCount" : 577
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5300,
-        "impressionCount" : 6480,
+        "impressionCount" : 6484,
         "viewCount" : 448
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 2986,
-        "impressionCount" : 5972,
+        "impressionCount" : 5976,
         "viewCount" : 481
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "3e66b5d0863937f8f12425dea13422174c3a75778d38aefd541a7be3f94d809d",
       "stats" : {
         "downloadCount" : 2538,
-        "impressionCount" : 6716,
+        "impressionCount" : 6720,
         "viewCount" : 510
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -263,7 +263,7 @@
       ],
       "stats" : {
         "downloadCount" : 2500,
-        "impressionCount" : 5028,
+        "impressionCount" : 5032,
         "viewCount" : 337
       },
       "subtitle" : "Video game digital distribution service",
@@ -296,7 +296,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2088,
-        "impressionCount" : 6662,
+        "impressionCount" : 6666,
         "viewCount" : 773
       },
       "subtitle" : "File archiver",
@@ -322,7 +322,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1769,
-        "impressionCount" : 5676,
+        "impressionCount" : 5680,
         "viewCount" : 377
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -350,7 +350,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1284,
-        "impressionCount" : 5110,
+        "impressionCount" : 5114,
         "viewCount" : 415
       },
       "subtitle" : "Open-source Markdown editor",
@@ -381,7 +381,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1129,
-        "impressionCount" : 6759,
+        "impressionCount" : 6763,
         "viewCount" : 432
       },
       "subtitle" : "3D creation suite",
@@ -438,7 +438,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 498,
-        "impressionCount" : 5010,
+        "impressionCount" : 5014,
         "viewCount" : 287
       },
       "subtitle" : "Text editor",
@@ -467,7 +467,7 @@
       ],
       "stats" : {
         "downloadCount" : 451,
-        "impressionCount" : 4742,
+        "impressionCount" : 4746,
         "viewCount" : 422
       },
       "subtitle" : "Sandbox construction video game",
@@ -498,7 +498,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 449,
-        "impressionCount" : 5325,
+        "impressionCount" : 5329,
         "viewCount" : 446
       },
       "subtitle" : "Text, code, and markup editor",
@@ -529,7 +529,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 265,
-        "impressionCount" : 4251,
+        "impressionCount" : 4255,
         "viewCount" : 381
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -558,7 +558,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 245,
-        "impressionCount" : 4095,
+        "impressionCount" : 4099,
         "viewCount" : 358
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -586,7 +586,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 220,
-        "impressionCount" : 2832,
+        "impressionCount" : 2836,
         "viewCount" : 255
       },
       "subtitle" : "File synchronizer",
@@ -612,8 +612,8 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 199,
-        "impressionCount" : 3669,
-        "viewCount" : 293
+        "impressionCount" : 3673,
+        "viewCount" : 294
       },
       "subtitle" : "App wrapper for music.youtube.com",
       "tintColor" : "E73737",
@@ -638,9 +638,9 @@
       ],
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
-        "downloadCount" : 143,
-        "impressionCount" : 4456,
-        "viewCount" : 489
+        "downloadCount" : 144,
+        "impressionCount" : 4461,
+        "viewCount" : 494
       },
       "subtitle" : "iOS App Store alternative",
       "tintColor" : "55A1A2",
@@ -674,8 +674,8 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 2421,
-        "viewCount" : 218
+        "impressionCount" : 2425,
+        "viewCount" : 219
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.8"
@@ -700,7 +700,7 @@
       "sha256" : "65c67ab1fa1e016363b14b303d5979cb61c051ee97d1763e0abfee6592085d23",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 2765,
+        "impressionCount" : 2769,
         "viewCount" : 267
       },
       "subtitle" : "EVE Online client",
@@ -733,7 +733,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 2445,
+        "impressionCount" : 2449,
         "viewCount" : 210
       },
       "subtitle" : "Create DMGs and other archives",
@@ -1542,7 +1542,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1518,
-        "impressionCount" : 2559
+        "impressionCount" : 2562
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -1747,7 +1747,7 @@
       "sha256" : "fb58b64faa7ab73dedad69a7ad11fc44ed3ecdfa05c74ef2831ba4139aa8a338",
       "stats" : {
         "downloadCount" : 977,
-        "impressionCount" : 2336
+        "impressionCount" : 2338
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -3107,7 +3107,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 5755,
-        "impressionCount" : 215
+        "impressionCount" : 219
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -67910,17 +67910,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bct-2022.3.1-2022-07-26-14-00.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bct-2022.3.1-2022-07-26-20-32.zip",
       "homepage" : "https://www.busymac.com/busycontacts/index.html",
       "localizedDescription" : "Contact manager focusing on efficiency",
       "name" : "BusyContacts",
-      "sha256" : "6695a7b3599e2f647b5b19e4cd3ba2855c9c6d1d0abe93d504238787610fe2d5",
+      "sha256" : "e41875cb31cc40dc7f9f010c4e7b8d1a2f809d7062671065cd2a21d3b490f2ba",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "Contact manager focusing on efficiency",
-      "version" : "2022.3.1,2022-07-26-14-00",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "2022.3.1,2022-07-26-20-32",
+      "versionDate" : "2022-07-26T22:21:35Z"
     },
     {
       "beta" : false,
@@ -73979,10 +73979,10 @@
     },
     {
       "appID" : "busycontacts",
-      "caption" : "BusyContacts updated from 2022.3.1,2022-07-26-06-29 to 2022.3.1,2022-07-26-14-00",
-      "date" : "2022-07-26T17:25:01Z",
-      "identifier" : "release-busycontacts-2022.3.1,2022-07-26-14-00",
-      "title" : "New Release: BusyContacts 2022.3.1,2022-07-26-14-00"
+      "caption" : "BusyContacts updated from 2022.3.1,2022-07-26-14-00 to 2022.3.1,2022-07-26-20-32",
+      "date" : "2022-07-26T22:21:36Z",
+      "identifier" : "release-busycontacts-2022.3.1,2022-07-26-20-32",
+      "title" : "New Release: BusyContacts 2022.3.1,2022-07-26-20-32"
     }
   ],
   "platform" : "macos",

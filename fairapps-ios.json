@@ -30,7 +30,7 @@
       "size" : 5310659,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 43,
+        "downloadCount" : 52,
         "impressionCount" : 302,
         "issueCount" : 0,
         "starCount" : 1,
@@ -71,8 +71,8 @@
       "size" : 5400273,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 91,
-        "impressionCount" : 113,
+        "downloadCount" : 102,
+        "impressionCount" : 114,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 14,
@@ -331,7 +331,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 31,
-        "impressionCount" : 450,
+        "impressionCount" : 451,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -375,7 +375,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 440,
+        "impressionCount" : 441,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -410,7 +410,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 339,
+        "impressionCount" : 340,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -526,7 +526,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 2786,
+        "impressionCount" : 2787,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 457,
@@ -798,10 +798,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 321,
+        "impressionCount" : 322,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -911,11 +911,11 @@
       "size" : 17553833,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 19,
-        "impressionCount" : 108,
+        "downloadCount" : 28,
+        "impressionCount" : 110,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 16,
+        "viewCount" : 17,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

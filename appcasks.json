@@ -7564,20 +7564,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/electerm/electerm/releases/download/v1.22.1/electerm-1.22.1-mac-x64.dmg",
+      "downloadURL" : "https://github.com/electerm/electerm/releases/download/v1.22.8/electerm-1.22.8-mac-x64.dmg",
       "homepage" : "https://github.com/electerm/electerm/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electerm/AppIcon.png",
       "localizedDescription" : "Terminal/ssh/sftp client",
       "name" : "electerm",
-      "sha256" : "a499412a8d57f3a76b777987548353242fefae6c557b3c08352b9c4417f9e226",
+      "sha256" : "d853d89d07634d8fe234dcb51ada39ba98103d06ae95aa8a0b142be980152923",
       "stats" : {
         "downloadCount" : 140,
         "impressionCount" : 397
       },
       "subtitle" : "Terminal/ssh/sftp client",
       "tintColor" : "7E7570",
-      "version" : "1.22.1",
-      "versionDate" : "2022-07-24T00:00:00Z"
+      "version" : "1.22.8",
+      "versionDate" : "2022-07-26T09:24:07Z"
     },
     {
       "beta" : false,
@@ -11245,20 +11245,20 @@
       "categories" : [
         "public.app-category.education"
       ],
-      "downloadURL" : "https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-721-0.zip",
+      "downloadURL" : "https://download.geogebra.org/installers/6.0/GeoGebra-Classic-6-MacOS-Portable-6-0-722-0.zip",
       "homepage" : "https://www.geogebra.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-geogebra/AppIcon.png",
       "localizedDescription" : "Solve, save and share math problems, graph functions, etc",
       "name" : "GeoGebra",
-      "sha256" : "5d97512059df05b988a338f07fc5d18909a81c3a557f050c4435eee8f96db1c3",
+      "sha256" : "a53fe933830487f4906bcd5523e0d2534ad9d660c67ed28b5faf76aeb02fa97e",
       "stats" : {
         "downloadCount" : 57,
         "impressionCount" : 819
       },
       "subtitle" : "Solve, save and share math problems, graph functions, etc",
       "tintColor" : "DADAE0",
-      "version" : "6.0.721.0",
-      "versionDate" : "2022-07-18T00:00:00Z"
+      "version" : "6.0.722.0",
+      "versionDate" : "2022-07-26T09:24:07Z"
     },
     {
       "beta" : false,
@@ -18487,20 +18487,20 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://github.com/HearthSim/HSTracker/releases/download/2.1.13/HSTracker.app.zip",
+      "downloadURL" : "https://github.com/HearthSim/HSTracker/releases/download/2.1.14/HSTracker.app.zip",
       "homepage" : "https://hsdecktracker.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hstracker/AppIcon.png",
       "localizedDescription" : "Deck tracker and deck manager for Hearthstone",
       "name" : "Hearthstone Deck Tracker",
-      "sha256" : "cac98204178ba53abc02ca0ad49c6b1f0e2011d3e858119dab35d3b685857bcb",
+      "sha256" : "3f8fd3cc139d81d737c522a9db088089cbe94ffbb806c68654a4ce86b5e986be",
       "stats" : {
         "downloadCount" : 19,
         "impressionCount" : 785
       },
       "subtitle" : "Deck tracker and deck manager for Hearthstone",
       "tintColor" : "34ACFD",
-      "version" : "2.1.13",
-      "versionDate" : "2022-07-24T00:00:00Z"
+      "version" : "2.1.14",
+      "versionDate" : "2022-07-26T09:24:07Z"
     },
     {
       "beta" : false,
@@ -45150,7 +45150,8 @@
       },
       "subtitle" : "Test localhost and staging websites",
       "tintColor" : "A99162",
-      "version" : "3.4.3"
+      "version" : "3.5.0",
+      "versionDate" : "2022-07-26T09:24:07Z"
     },
     {
       "beta" : false,
@@ -61789,16 +61790,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://s3.amazonaws.com/dd-agent/datadog-agent-7.37.1-1.dmg",
+      "downloadURL" : "https://s3.amazonaws.com/dd-agent/datadog-agent-7.38.0-1.dmg",
       "homepage" : "https://www.datadoghq.com/",
       "localizedDescription" : "Monitoring and security across systems, apps, and services",
       "name" : "Datadog Agent",
-      "sha256" : "29c521ade50c0ebce15317088ff5b9e5d2d511ac919201062bd7700408f3c798",
+      "sha256" : "fcaaca41184bb04a503b5356e13fdd047e81ca075592bd9529c1522e18831e5d",
       "stats" : {
         "downloadCount" : 102
       },
       "subtitle" : "Monitoring and security across systems, apps, and services",
-      "version" : "7.37.1-1"
+      "version" : "7.38.0-1",
+      "versionDate" : "2022-07-26T09:24:07Z"
     },
     {
       "beta" : false,
@@ -73285,27 +73287,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "1password-cli",
-      "caption" : "1Password CLI updated from 2.5.1 to 2.6.0",
-      "date" : "2022-07-22T04:48:17Z",
-      "identifier" : "release-1password-cli-2.6.0",
-      "title" : "New Release: 1Password CLI 2.6.0"
-    },
-    {
-      "appID" : "vmware-fusion",
-      "caption" : "VMware Fusion updated from 12.2.3,19436697 to 12.2.4,20071091",
-      "date" : "2022-07-22T04:48:17Z",
-      "identifier" : "release-vmware-fusion-12.2.4,20071091",
-      "title" : "New Release: VMware Fusion 12.2.4,20071091"
-    },
-    {
-      "appID" : "sfdx",
-      "caption" : "Salesforce DX CLI updated from 7.159.0 to 7.160.0",
-      "date" : "2022-07-22T04:48:17Z",
-      "identifier" : "release-sfdx-7.160.0",
-      "title" : "New Release: Salesforce DX CLI 7.160.0"
-    },
-    {
       "appID" : "ivpn",
       "caption" : "IVPN updated from 3.8.20 to 3.9.0",
       "date" : "2022-07-22T04:48:17Z",
@@ -73691,25 +73672,11 @@
       "title" : "New Release: Provisioning 1.0.4"
     },
     {
-      "appID" : "electerm",
-      "caption" : "electerm updated from 1.21.93 to 1.22.1",
-      "date" : "2022-07-24T10:23:08Z",
-      "identifier" : "release-electerm-1.22.1",
-      "title" : "New Release: electerm 1.22.1"
-    },
-    {
       "appID" : "yinxiangbiji",
       "caption" : "Evernote updated from 9.5.25_467538 to 9.5.27_467661",
       "date" : "2022-07-24T10:23:09Z",
       "identifier" : "release-yinxiangbiji-9.5.27_467661",
       "title" : "New Release: Evernote 9.5.27_467661"
-    },
-    {
-      "appID" : "hstracker",
-      "caption" : "Hearthstone Deck Tracker updated from 2.1.12 to 2.1.13",
-      "date" : "2022-07-24T10:23:09Z",
-      "identifier" : "release-hstracker-2.1.13",
-      "title" : "New Release: Hearthstone Deck Tracker 2.1.13"
     },
     {
       "appID" : "hepta",
@@ -73983,6 +73950,41 @@
       "date" : "2022-07-26T05:20:01Z",
       "identifier" : "release-sameboy-0.15.3",
       "title" : "New Release: SameBoy 0.15.3"
+    },
+    {
+      "appID" : "electerm",
+      "caption" : "electerm updated from 1.22.1 to 1.22.8",
+      "date" : "2022-07-26T09:24:08Z",
+      "identifier" : "release-electerm-1.22.8",
+      "title" : "New Release: electerm 1.22.8"
+    },
+    {
+      "appID" : "geogebra",
+      "caption" : "GeoGebra updated from 6.0.721.0 to 6.0.722.0",
+      "date" : "2022-07-26T09:24:08Z",
+      "identifier" : "release-geogebra-6.0.722.0",
+      "title" : "New Release: GeoGebra 6.0.722.0"
+    },
+    {
+      "appID" : "hstracker",
+      "caption" : "Hearthstone Deck Tracker updated from 2.1.13 to 2.1.14",
+      "date" : "2022-07-26T09:24:08Z",
+      "identifier" : "release-hstracker-2.1.14",
+      "title" : "New Release: Hearthstone Deck Tracker 2.1.14"
+    },
+    {
+      "appID" : "browserstacklocal",
+      "caption" : "BrowserStack Local Testing updated from 3.4.3 to 3.5.0",
+      "date" : "2022-07-26T09:24:08Z",
+      "identifier" : "release-browserstacklocal-3.5.0",
+      "title" : "New Release: BrowserStack Local Testing 3.5.0"
+    },
+    {
+      "appID" : "datadog-agent",
+      "caption" : "Datadog Agent updated from 7.37.1-1 to 7.38.0-1",
+      "date" : "2022-07-26T09:24:08Z",
+      "identifier" : "release-datadog-agent-7.38.0-1",
+      "title" : "New Release: Datadog Agent 7.38.0-1"
     }
   ],
   "platform" : "macos",

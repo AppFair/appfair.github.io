@@ -57,7 +57,7 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 191,
+        "downloadCount" : 195,
         "impressionCount" : 74,
         "issueCount" : 5,
         "starCount" : 25,
@@ -144,10 +144,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3001,
+        "impressionCount" : 3002,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 535,
+        "viewCount" : 536,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -233,11 +233,11 @@
       "size" : 2114534,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 28,
-        "impressionCount" : 258,
+        "downloadCount" : 30,
+        "impressionCount" : 259,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 33,
+        "viewCount" : 34,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -544,10 +544,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 21,
-        "impressionCount" : 587,
+        "impressionCount" : 588,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 39,
+        "viewCount" : 40,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -622,10 +622,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 567,
+        "impressionCount" : 569,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 34,
+        "viewCount" : 35,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 459,
+        "impressionCount" : 460,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -828,10 +828,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2876,
+        "impressionCount" : 2877,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 459,
+        "viewCount" : 460,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2438,
+        "impressionCount" : 2439,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 446,
@@ -1181,10 +1181,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 348,
+        "impressionCount" : 349,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 36,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1343,8 +1343,8 @@
       "size" : 9466880,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 30,
-        "impressionCount" : 133,
+        "downloadCount" : 32,
+        "impressionCount" : 134,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 18,

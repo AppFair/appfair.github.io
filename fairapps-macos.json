@@ -57,8 +57,8 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 167,
-        "impressionCount" : 65,
+        "downloadCount" : 178,
+        "impressionCount" : 66,
         "issueCount" : 5,
         "starCount" : 25,
         "viewCount" : 10,
@@ -144,7 +144,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 2956,
+        "impressionCount" : 2957,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 535,
@@ -233,8 +233,8 @@
       "size" : 2114534,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 16,
-        "impressionCount" : 113,
+        "downloadCount" : 25,
+        "impressionCount" : 114,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 14,
@@ -544,7 +544,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 20,
-        "impressionCount" : 450,
+        "impressionCount" : 451,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -622,7 +622,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 440,
+        "impressionCount" : 441,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 339,
+        "impressionCount" : 340,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -828,7 +828,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2786,
+        "impressionCount" : 2787,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 457,
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2430,
+        "impressionCount" : 2431,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 446,
@@ -1181,10 +1181,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 321,
+        "impressionCount" : 322,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1343,11 +1343,11 @@
       "size" : 9466880,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 17,
-        "impressionCount" : 108,
+        "downloadCount" : 28,
+        "impressionCount" : 110,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 16,
+        "viewCount" : 17,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

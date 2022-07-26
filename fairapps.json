@@ -57,8 +57,8 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 202,
-        "impressionCount" : 86,
+        "downloadCount" : 207,
+        "impressionCount" : 87,
         "issueCount" : 5,
         "starCount" : 25,
         "viewCount" : 11,
@@ -144,10 +144,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3016,
+        "impressionCount" : 3017,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 536,
+        "viewCount" : 537,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -233,8 +233,8 @@
       "size" : 2114534,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 30,
-        "impressionCount" : 290,
+        "downloadCount" : 33,
+        "impressionCount" : 291,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 34,
@@ -544,7 +544,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 21,
-        "impressionCount" : 621,
+        "impressionCount" : 622,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -622,7 +622,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 600,
+        "impressionCount" : 601,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 486,
+        "impressionCount" : 487,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -828,7 +828,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2889,
+        "impressionCount" : 2890,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 460,
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2439,
+        "impressionCount" : 2440,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 446,
@@ -1181,7 +1181,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 364,
+        "impressionCount" : 365,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 37,
@@ -1343,11 +1343,11 @@
       "size" : 9466880,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 33,
-        "impressionCount" : 156,
+        "downloadCount" : 36,
+        "impressionCount" : 157,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

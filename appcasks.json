@@ -6,7 +6,7 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.51.0.dmg",
+      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.51.1.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
       "localizedDescription" : "Instant messaging application focusing on security",
@@ -22,16 +22,16 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_07-mac-1624x1624.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_08-mac-1958x1532.png"
       ],
-      "sha256" : "51d8c3fc1a6548063a540aa38956c56efa5c7920d0f39bc720f7960e82b2372c",
+      "sha256" : "015039368cd198945f057bc756dbeaaf597d3f318b142de1659b62ed1db83441",
       "stats" : {
         "downloadCount" : 2629,
-        "impressionCount" : 8411,
-        "viewCount" : 852
+        "impressionCount" : 8412,
+        "viewCount" : 853
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
-      "version" : "5.51.0",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "5.51.1",
+      "versionDate" : "2022-07-26T23:21:32Z"
     },
     {
       "beta" : false,
@@ -57,7 +57,7 @@
       "sha256" : "228e515764e0484adb84e31b94791528996a538214d0280a4db9f4fe6eb67750",
       "stats" : {
         "downloadCount" : 13434,
-        "impressionCount" : 7176,
+        "impressionCount" : 7177,
         "viewCount" : 838
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 7875,
-        "impressionCount" : 6366,
+        "impressionCount" : 6367,
         "viewCount" : 596
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28307,
-        "impressionCount" : 6491,
+        "impressionCount" : 6494,
         "viewCount" : 541
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7641,
-        "impressionCount" : 6688,
+        "impressionCount" : 6689,
         "viewCount" : 577
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5300,
-        "impressionCount" : 6484,
+        "impressionCount" : 6485,
         "viewCount" : 448
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 2986,
-        "impressionCount" : 5976,
+        "impressionCount" : 5977,
         "viewCount" : 481
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "3e66b5d0863937f8f12425dea13422174c3a75778d38aefd541a7be3f94d809d",
       "stats" : {
         "downloadCount" : 2538,
-        "impressionCount" : 6720,
+        "impressionCount" : 6721,
         "viewCount" : 510
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -263,7 +263,7 @@
       ],
       "stats" : {
         "downloadCount" : 2500,
-        "impressionCount" : 5032,
+        "impressionCount" : 5033,
         "viewCount" : 337
       },
       "subtitle" : "Video game digital distribution service",
@@ -296,7 +296,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2088,
-        "impressionCount" : 6666,
+        "impressionCount" : 6667,
         "viewCount" : 773
       },
       "subtitle" : "File archiver",
@@ -322,8 +322,8 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1769,
-        "impressionCount" : 5680,
-        "viewCount" : 377
+        "impressionCount" : 5682,
+        "viewCount" : 378
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
       "tintColor" : "369C3B",
@@ -350,7 +350,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1284,
-        "impressionCount" : 5114,
+        "impressionCount" : 5115,
         "viewCount" : 415
       },
       "subtitle" : "Open-source Markdown editor",
@@ -381,7 +381,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1129,
-        "impressionCount" : 6763,
+        "impressionCount" : 6764,
         "viewCount" : 432
       },
       "subtitle" : "3D creation suite",
@@ -404,7 +404,7 @@
       "sha256" : "767cb16314e3869c42cff78db92bcad7a7faa861c70f97b1326fe3686c62b61f",
       "stats" : {
         "downloadCount" : 1086,
-        "impressionCount" : 2307,
+        "impressionCount" : 2308,
         "viewCount" : 150
       },
       "subtitle" : "Open-source video transcoder",
@@ -438,7 +438,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 498,
-        "impressionCount" : 5014,
+        "impressionCount" : 5015,
         "viewCount" : 287
       },
       "subtitle" : "Text editor",
@@ -467,7 +467,7 @@
       ],
       "stats" : {
         "downloadCount" : 451,
-        "impressionCount" : 4746,
+        "impressionCount" : 4747,
         "viewCount" : 422
       },
       "subtitle" : "Sandbox construction video game",
@@ -498,7 +498,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 449,
-        "impressionCount" : 5329,
+        "impressionCount" : 5332,
         "viewCount" : 446
       },
       "subtitle" : "Text, code, and markup editor",
@@ -529,8 +529,8 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 265,
-        "impressionCount" : 4255,
-        "viewCount" : 381
+        "impressionCount" : 4258,
+        "viewCount" : 382
       },
       "subtitle" : "Git client focusing on power and productivity",
       "tintColor" : "91B5AD",
@@ -558,7 +558,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 245,
-        "impressionCount" : 4099,
+        "impressionCount" : 4102,
         "viewCount" : 358
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -586,8 +586,8 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 220,
-        "impressionCount" : 2836,
-        "viewCount" : 255
+        "impressionCount" : 2837,
+        "viewCount" : 256
       },
       "subtitle" : "File synchronizer",
       "tintColor" : "D3872A",
@@ -612,7 +612,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 199,
-        "impressionCount" : 3673,
+        "impressionCount" : 3674,
         "viewCount" : 294
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -639,8 +639,8 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 144,
-        "impressionCount" : 4461,
-        "viewCount" : 494
+        "impressionCount" : 4462,
+        "viewCount" : 495
       },
       "subtitle" : "iOS App Store alternative",
       "tintColor" : "55A1A2",
@@ -674,8 +674,8 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 2425,
-        "viewCount" : 219
+        "impressionCount" : 2427,
+        "viewCount" : 220
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.8"
@@ -700,8 +700,8 @@
       "sha256" : "65c67ab1fa1e016363b14b303d5979cb61c051ee97d1763e0abfee6592085d23",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 2769,
-        "viewCount" : 267
+        "impressionCount" : 2771,
+        "viewCount" : 268
       },
       "subtitle" : "EVE Online client",
       "tintColor" : "5D93AB",
@@ -733,7 +733,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 2449,
+        "impressionCount" : 2452,
         "viewCount" : 210
       },
       "subtitle" : "Create DMGs and other archives",
@@ -754,7 +754,7 @@
       "sha256" : "8be8e5245d6a8dbf7b8cb580fb7d99f04cc143c95323695c0d9be4f85dd60b0e",
       "stats" : {
         "downloadCount" : 26380,
-        "impressionCount" : 3225,
+        "impressionCount" : 3228,
         "viewCount" : 239
       },
       "subtitle" : "App to build and share containerized applications and microservices",
@@ -777,7 +777,7 @@
       "sha256" : "76f8038715c792482185a927881186417d960adb62940949de28e03867626c28",
       "stats" : {
         "downloadCount" : 8080,
-        "impressionCount" : 2550,
+        "impressionCount" : 2552,
         "viewCount" : 200
       },
       "subtitle" : "Team communication and collaboration software",
@@ -799,7 +799,7 @@
       "sha256" : "cbf2f6c4bd600628fb908a73a648be177739f1fde11b27759105d503b039b35f",
       "stats" : {
         "downloadCount" : 7473,
-        "impressionCount" : 2030,
+        "impressionCount" : 2031,
         "viewCount" : 157
       },
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
@@ -821,8 +821,8 @@
       "sha256" : "a145d4e4b6b005551a95e94da7559ae473034b869a1e36c7a8d58a74d3edb0b2",
       "stats" : {
         "downloadCount" : 7372,
-        "impressionCount" : 1877,
-        "viewCount" : 110
+        "impressionCount" : 1880,
+        "viewCount" : 111
       },
       "subtitle" : "Universal database tool and SQL client",
       "tintColor" : "BBBFBD",
@@ -844,7 +844,7 @@
       "sha256" : "378019dca17cd2c3e1821c5328b51e5279809b9a7c9d180afae4b4d7dc21609f",
       "stats" : {
         "downloadCount" : 5812,
-        "impressionCount" : 1895,
+        "impressionCount" : 1896,
         "viewCount" : 121
       },
       "subtitle" : "Application launcher and productivity software",
@@ -867,7 +867,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5766,
-        "impressionCount" : 1617,
+        "impressionCount" : 1618,
         "viewCount" : 79
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -907,7 +907,7 @@
       "sha256" : "94051c2aa3f57e1c418043c262e00326fcebf5ad2ff85bfd047b8e15427be707",
       "stats" : {
         "downloadCount" : 4990,
-        "impressionCount" : 3452,
+        "impressionCount" : 3454,
         "viewCount" : 365
       },
       "subtitle" : "System monitor for the menu bar",
@@ -930,7 +930,7 @@
       "sha256" : "e0b4f5ddafa8e478b5f0e8fd36e8e042718e8cef394005efedb7cb6cd7ea0f92",
       "stats" : {
         "downloadCount" : 4037,
-        "impressionCount" : 3334,
+        "impressionCount" : 3335,
         "viewCount" : 221
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -953,7 +953,7 @@
       "sha256" : "330ea9c88f24c0487c7ecfc887c0fac7e12fb3f3a636c02bfec610333f46091a",
       "stats" : {
         "downloadCount" : 3825,
-        "impressionCount" : 2037,
+        "impressionCount" : 2038,
         "viewCount" : 116
       },
       "subtitle" : "Password manager that keeps all passwords secure behind one password",
@@ -976,7 +976,7 @@
       "sha256" : "8081b230e2e2d7f9a439c17c6a0b9fc281c52cad65358f211149792e9cdd47c1",
       "stats" : {
         "downloadCount" : 3547,
-        "impressionCount" : 2006,
+        "impressionCount" : 2007,
         "viewCount" : 146
       },
       "subtitle" : "App to write, plan, collaborate, and get organized",
@@ -998,7 +998,7 @@
       "sha256" : "987a03547689a44b14b795b4d52424a58424e1fd5691d1dcc68054def8845c4f",
       "stats" : {
         "downloadCount" : 3500,
-        "impressionCount" : 1719,
+        "impressionCount" : 1721,
         "viewCount" : 104
       },
       "subtitle" : "Desktop client for GitHub repositories",
@@ -1065,7 +1065,7 @@
       "sha256" : "fcaf413951119324ab22a0a4f2634bade90692991e9381cbf4a274e3cd60243a",
       "stats" : {
         "downloadCount" : 3008,
-        "impressionCount" : 1937,
+        "impressionCount" : 1939,
         "viewCount" : 93
       },
       "subtitle" : "Tools for building Android applications",
@@ -1088,7 +1088,7 @@
       "sha256" : "08b59c3b41bdf369a8ce8ed65c8607eeac2e73672298a04ebf53e7a802b56939",
       "stats" : {
         "downloadCount" : 2962,
-        "impressionCount" : 2346,
+        "impressionCount" : 2347,
         "viewCount" : 156
       },
       "subtitle" : "GPU-accelerated terminal emulator",
@@ -1202,7 +1202,7 @@
       "sha256" : "dc5271b496c995b8ef957f4a53c3224771002715d15917c776fddb7d4a03b2c5",
       "stats" : {
         "downloadCount" : 2493,
-        "impressionCount" : 2139,
+        "impressionCount" : 2141,
         "viewCount" : 140
       },
       "subtitle" : "Text editor",
@@ -1224,7 +1224,7 @@
       "sha256" : "43d52e7e1008944c9ea1a47fa16091d4e4a39906bbc10ebabd425604f199d68d",
       "stats" : {
         "downloadCount" : 2485,
-        "impressionCount" : 1575,
+        "impressionCount" : 1578,
         "viewCount" : 69
       },
       "subtitle" : "IDE for Java development - community edition",
@@ -1247,7 +1247,7 @@
       "sha256" : "e459b9ce81078b8251549168c0d8473c069a14e817f3a8f386ec84b0f220955a",
       "stats" : {
         "downloadCount" : 2477,
-        "impressionCount" : 2045,
+        "impressionCount" : 2046,
         "viewCount" : 176
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
@@ -1269,7 +1269,7 @@
       "sha256" : "62ac17bb21d5312600c243c351c83efcc527dc4e0908379d5ad2726415c843d1",
       "stats" : {
         "downloadCount" : 2395,
-        "impressionCount" : 1941,
+        "impressionCount" : 1943,
         "viewCount" : 140
       },
       "subtitle" : "HTTP and GraphQL Client",
@@ -1313,7 +1313,7 @@
       "sha256" : "c77aa39d405ee627dbd671a0514eb97bf7aae9206fee113c9253c552719ef0d2",
       "stats" : {
         "downloadCount" : 2325,
-        "impressionCount" : 3034,
+        "impressionCount" : 3036,
         "viewCount" : 336
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -1354,7 +1354,7 @@
       "sha256" : "a1a964ab100ff92cbc5ce50c63699199050572474c2b1f34bec84de673d31a7f",
       "stats" : {
         "downloadCount" : 2320,
-        "impressionCount" : 2226,
+        "impressionCount" : 2227,
         "viewCount" : 167
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1390,7 +1390,7 @@
       "sha256" : "e70f2983852e4d05f69ee7676c38ad0cb4214e3e252887cbc053ea973bd27568",
       "stats" : {
         "downloadCount" : 2311,
-        "impressionCount" : 1975,
+        "impressionCount" : 1977,
         "viewCount" : 105
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1412,7 +1412,7 @@
       "sha256" : "189425e92d213ab84477190c1313e71d97e5bb59e03a1de9571d34a1db678290",
       "stats" : {
         "downloadCount" : 2247,
-        "impressionCount" : 1737,
+        "impressionCount" : 1740,
         "viewCount" : 120
       },
       "subtitle" : "Kubernetes IDE",
@@ -1434,7 +1434,7 @@
       "sha256" : "8117d5d864358c9f626ce574d07d2f121ad96fc96a535cc3fddaba3c74bd3279",
       "stats" : {
         "downloadCount" : 2197,
-        "impressionCount" : 1889,
+        "impressionCount" : 1890,
         "viewCount" : 109
       },
       "subtitle" : "Vector graphics editor",
@@ -1457,7 +1457,7 @@
       "sha256" : "2d5d22cc6884a55dab82f00a9b32827b2391a93d528204b6870e5da6cb996421",
       "stats" : {
         "downloadCount" : 2093,
-        "impressionCount" : 1312,
+        "impressionCount" : 1313,
         "viewCount" : 45
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -1480,7 +1480,7 @@
       "sha256" : "5b9cb00a46b48cc03b5c843b5a3da9298f231f6fdb76eb418f038ce53490e99f",
       "stats" : {
         "downloadCount" : 1948,
-        "impressionCount" : 2954,
+        "impressionCount" : 2955,
         "viewCount" : 155
       },
       "subtitle" : "E-books management software",
@@ -1503,7 +1503,7 @@
       "sha256" : "2d22c4761cc7e10e27cf70ce708ed87124f6d975c38c5e78b762805b29db06b6",
       "stats" : {
         "downloadCount" : 1748,
-        "impressionCount" : 1427,
+        "impressionCount" : 1430,
         "viewCount" : 76
       },
       "subtitle" : "IDE for professional Python development",
@@ -1542,7 +1542,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1518,
-        "impressionCount" : 2562
+        "impressionCount" : 2564
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -1563,7 +1563,7 @@
       "sha256" : "51cc88dcc07a2a4a0cf91ec1a2e02544183f88e5ce745ffe6089b9fb0ef68f02",
       "stats" : {
         "downloadCount" : 1476,
-        "impressionCount" : 2413,
+        "impressionCount" : 2414,
         "viewCount" : 129
       },
       "subtitle" : "Web browser focusing on security",
@@ -1586,7 +1586,7 @@
       "sha256" : "70e061df686965ead02bc7fc6701fd6070a8cbf88fa4de0db710c3472d2530d8",
       "stats" : {
         "downloadCount" : 1373,
-        "impressionCount" : 1632,
+        "impressionCount" : 1633,
         "viewCount" : 93
       },
       "subtitle" : "Customizable email client",
@@ -1609,8 +1609,8 @@
       "sha256" : "d3ed1c3f315ed873bcdff77f8db971fd90aae6be32d43bf9774e14f80b6916a1",
       "stats" : {
         "downloadCount" : 1326,
-        "impressionCount" : 2160,
-        "viewCount" : 131
+        "impressionCount" : 2163,
+        "viewCount" : 132
       },
       "subtitle" : "Native GUI tool for relational databases",
       "tintColor" : "FBE0A3",
@@ -1632,7 +1632,7 @@
       "sha256" : "d1a17bb4c8c62960d7ae7ff352a3647bc3109b8989dae4ed7b51cf8a71048768",
       "stats" : {
         "downloadCount" : 1311,
-        "impressionCount" : 156,
+        "impressionCount" : 157,
         "viewCount" : 12
       },
       "subtitle" : "Tools to protect your emails and files",
@@ -1654,7 +1654,7 @@
       "sha256" : "766d5bf3b404ec567110a25de1d221290bc829302283b28ed0fbe73b9557f30c",
       "stats" : {
         "downloadCount" : 1169,
-        "impressionCount" : 1520,
+        "impressionCount" : 1521,
         "viewCount" : 76
       },
       "subtitle" : "Move and resize windows with ease",
@@ -1676,7 +1676,7 @@
       "sha256" : "0e940c1c31213ea3c8c3cd3d56e893f74a595b3bae29456827f6c34173eabb1b",
       "stats" : {
         "downloadCount" : 1055,
-        "impressionCount" : 1722,
+        "impressionCount" : 1723,
         "viewCount" : 90
       },
       "subtitle" : "Multi-track audio editor and recorder",
@@ -1698,8 +1698,8 @@
       "sha256" : "61169ad13228cf360af0632f88de2d5615e5413e16071b003e30e91566c95590",
       "stats" : {
         "downloadCount" : 1028,
-        "impressionCount" : 2161,
-        "viewCount" : 207
+        "impressionCount" : 2164,
+        "viewCount" : 208
       },
       "subtitle" : "GIT client",
       "tintColor" : "2FB4DE",
@@ -1721,7 +1721,7 @@
       "sha256" : "92f62abf5adcd16fec123ac6dd3c95513ebf3e5d4778c76eac7a8bef848e20c2",
       "stats" : {
         "downloadCount" : 985,
-        "impressionCount" : 1690,
+        "impressionCount" : 1691,
         "viewCount" : 75
       },
       "subtitle" : "Web browser",
@@ -1747,7 +1747,7 @@
       "sha256" : "fb58b64faa7ab73dedad69a7ad11fc44ed3ecdfa05c74ef2831ba4139aa8a338",
       "stats" : {
         "downloadCount" : 977,
-        "impressionCount" : 2338
+        "impressionCount" : 2341
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -1768,7 +1768,7 @@
       "sha256" : "d8d37a114c9dab2f16a56e60d8a977115ba34fe408ff7947d0d74028f1f22843",
       "stats" : {
         "downloadCount" : 964,
-        "impressionCount" : 1906,
+        "impressionCount" : 1907,
         "viewCount" : 120
       },
       "subtitle" : "Tool to hide status bar icons",
@@ -1790,7 +1790,7 @@
       "sha256" : "d06977700a6a6d1a88f500bcd62da7cc3c4833ab96ccfa5189cadca62ed12660",
       "stats" : {
         "downloadCount" : 901,
-        "impressionCount" : 1506,
+        "impressionCount" : 1507,
         "viewCount" : 106
       },
       "subtitle" : "PDF reader and note-taking application",
@@ -1811,7 +1811,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-istat-menus/README.md",
       "stats" : {
         "downloadCount" : 868,
-        "impressionCount" : 1895,
+        "impressionCount" : 1896,
         "viewCount" : 146
       },
       "subtitle" : "System monitoring app",
@@ -1839,7 +1839,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 816,
-        "impressionCount" : 2532,
+        "impressionCount" : 2533,
         "viewCount" : 254
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -1861,7 +1861,7 @@
       "sha256" : "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
       "stats" : {
         "downloadCount" : 742,
-        "impressionCount" : 1326,
+        "impressionCount" : 1329,
         "viewCount" : 69
       },
       "subtitle" : "MySQL/MariaDB database management platform",
@@ -1883,7 +1883,7 @@
       "sha256" : "26bd233f5e5340e2705a6a3c45b9f67c658cbcca1241343e4e5f5ee078058c17",
       "stats" : {
         "downloadCount" : 701,
-        "impressionCount" : 1454,
+        "impressionCount" : 1455,
         "viewCount" : 80
       },
       "subtitle" : "Desktop client for Telegram messenger",
@@ -1905,7 +1905,7 @@
       "sha256" : "1d5f4aa4c82c8cf8d858c413928be55963ccd1203552d8dc07f4ca123f814c01",
       "stats" : {
         "downloadCount" : 690,
-        "impressionCount" : 2103,
+        "impressionCount" : 2104,
         "viewCount" : 82
       },
       "subtitle" : "Electronics prototyping platform",
@@ -1926,8 +1926,8 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 678,
-        "impressionCount" : 1272,
-        "viewCount" : 74
+        "impressionCount" : 1275,
+        "viewCount" : 75
       },
       "subtitle" : "Application for inspecting installer packages",
       "tintColor" : "6F99E9",
@@ -1948,7 +1948,7 @@
       "sha256" : "addab784af18bafa303340e754c00084c126e61c3d5b93006f8e6d602f838203",
       "stats" : {
         "downloadCount" : 669,
-        "impressionCount" : 1892,
+        "impressionCount" : 1893,
         "viewCount" : 180
       },
       "subtitle" : "Photography workflow application and raw developer",
@@ -1971,8 +1971,8 @@
       "sha256" : "8e66c73ebd5d97bbe2b79e27bdfd3f06299edb7f941246ea52cc32883917df12",
       "stats" : {
         "downloadCount" : 600,
-        "impressionCount" : 3337,
-        "viewCount" : 89
+        "impressionCount" : 3340,
+        "viewCount" : 90
       },
       "subtitle" : "Web debugging Proxy application",
       "tintColor" : "CACDCC",
@@ -1993,8 +1993,8 @@
       "sha256" : "336ac944cf473a9832b703d8eaa3df8016831ce6c15e0062338d1d23c6dc0e40",
       "stats" : {
         "downloadCount" : 573,
-        "impressionCount" : 2234,
-        "viewCount" : 165
+        "impressionCount" : 2237,
+        "viewCount" : 166
       },
       "subtitle" : "API documentation browser and code snippet manager",
       "tintColor" : "8571B7",
@@ -2015,7 +2015,7 @@
       "sha256" : "af938d17dcea5701da7a990705acbd0686dfedfdbcd64721666ae0bef7644ba9",
       "stats" : {
         "downloadCount" : 516,
-        "impressionCount" : 1930,
+        "impressionCount" : 1933,
         "viewCount" : 110
       },
       "subtitle" : "Open-source KVM software",
@@ -2059,8 +2059,8 @@
       "sha256" : "5c81a9c3640a8ece241982e5313fa615a7a673f57a459cd70486d3f90f30227a",
       "stats" : {
         "downloadCount" : 506,
-        "impressionCount" : 1389,
-        "viewCount" : 104
+        "impressionCount" : 1391,
+        "viewCount" : 105
       },
       "subtitle" : "Modern and intuitive HTTP Debugging Proxy app",
       "tintColor" : "6DA4E9",
@@ -2082,8 +2082,8 @@
       "sha256" : "1aca3e8174b5d63f2e5c83be3a478197917226bb956d0dd19b17a56fe21ff93e",
       "stats" : {
         "downloadCount" : 504,
-        "impressionCount" : 1959,
-        "viewCount" : 110
+        "impressionCount" : 1960,
+        "viewCount" : 111
       },
       "subtitle" : "Note taking and to-do application with synchronization capabilities",
       "tintColor" : "3583D2",
@@ -2148,7 +2148,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-daisydisk/README.md",
       "stats" : {
         "downloadCount" : 417,
-        "impressionCount" : 1938,
+        "impressionCount" : 1939,
         "viewCount" : 152
       },
       "subtitle" : "Disk space visualizer",
@@ -2177,7 +2177,7 @@
       "sha256" : "89bb6048e5ea19cdc2c49094e521260a46acfeeffbd4a9ff712f7c27ae775de2",
       "stats" : {
         "downloadCount" : 388,
-        "impressionCount" : 3110
+        "impressionCount" : 3111
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2199,7 +2199,7 @@
       "sha256" : "115c40eb710085969a72a24d5d84ae2c05260192cc68a22e73e99e148c6638da",
       "stats" : {
         "downloadCount" : 359,
-        "impressionCount" : 1942,
+        "impressionCount" : 1943,
         "viewCount" : 121
       },
       "subtitle" : "Animated screen capture application",
@@ -2243,7 +2243,7 @@
       "sha256" : "6358b42546906c43e46499ea176f901df83ed8c922af65aad068ed048248138d",
       "stats" : {
         "downloadCount" : 349,
-        "impressionCount" : 1378,
+        "impressionCount" : 1379,
         "viewCount" : 69
       },
       "subtitle" : "C and C++ IDE",
@@ -2310,8 +2310,8 @@
       "sha256" : "166d3513828b61fdd2ece818eb8a292b30c7b629ca4e2006069f6d6403772db5",
       "stats" : {
         "downloadCount" : 268,
-        "impressionCount" : 1752,
-        "viewCount" : 112
+        "impressionCount" : 1753,
+        "viewCount" : 113
       },
       "subtitle" : "HTTP client that helps testing and describing APIs",
       "tintColor" : "B3D9F6",
@@ -2354,7 +2354,7 @@
       "sha256" : "ad35556acca114abacc4e43a1eef8a2b87dd1a00c744dcbeade4a94c88d26488",
       "stats" : {
         "downloadCount" : 215,
-        "impressionCount" : 1670,
+        "impressionCount" : 1671,
         "viewCount" : 127
       },
       "subtitle" : "Automated organization",
@@ -2398,8 +2398,8 @@
       "sha256" : "f9882c1ea469c57d8c6d00012d0dc59735efeb48b0c504cccd13f03bb5184bed",
       "stats" : {
         "downloadCount" : 163,
-        "impressionCount" : 1395,
-        "viewCount" : 98
+        "impressionCount" : 1396,
+        "viewCount" : 99
       },
       "subtitle" : "Fast and lightweight IDE",
       "tintColor" : "EDDD98",
@@ -2599,8 +2599,8 @@
       "sha256" : "4d64fe42a6c5c0863cc82e93a036e73731999ee9448be45bc322f91b0010bb6b",
       "stats" : {
         "downloadCount" : 90,
-        "impressionCount" : 1153,
-        "viewCount" : 85
+        "impressionCount" : 1154,
+        "viewCount" : 86
       },
       "subtitle" : "Flexible software sketchbook and a language for learning how to code",
       "tintColor" : "434648",
@@ -2688,8 +2688,8 @@
       "sha256" : "c5ded48436c096e9b2e9ff19d94fc2aa22306dd2eab7f0ba031c5e945a0d062d",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 2119,
-        "viewCount" : 204
+        "impressionCount" : 2120,
+        "viewCount" : 205
       },
       "subtitle" : "News reader with flexible settings",
       "tintColor" : "629885",
@@ -2732,8 +2732,8 @@
       "sha256" : "4ca41517f15c594e718da622074a2160754cb8f1293cb1fad908f6d0ae585384",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 3082,
-        "viewCount" : 472
+        "impressionCount" : 3083,
+        "viewCount" : 473
       },
       "subtitle" : "Virtual Apple Macintosh with System 8, running in Electron",
       "version" : "1.1.0"
@@ -2764,7 +2764,7 @@
       "sha256" : "b38ea5e306021686835781812d4a74fa1898d9f2c77bd266f0c731d85ac009b3",
       "stats" : {
         "downloadCount" : 12,
-        "viewCount" : 69
+        "viewCount" : 70
       },
       "subtitle" : "Spam filtering extension for e-mail clients",
       "version" : "2.9.49"
@@ -2807,7 +2807,7 @@
       "sha256" : "cb5112ee26aa55394a8e40fa79b459fbef0610dd5a9d58743a4113e0ef012953",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 1659,
+        "impressionCount" : 1660,
         "viewCount" : 133
       },
       "subtitle" : "Newsreader and Usenet client",
@@ -2961,7 +2961,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chronicle/README.md",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 1413,
+        "impressionCount" : 1414,
         "viewCount" : 89
       },
       "subtitle" : "Personal finance manager",
@@ -2982,7 +2982,7 @@
       "sha256" : "f616025cb4160ea3210eb71766848d3482ad2cb96c8187acbe1341b31c70a1d8",
       "stats" : {
         "downloadCount" : 31846,
-        "impressionCount" : 966
+        "impressionCount" : 967
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -3025,7 +3025,7 @@
       "sha256" : "42160a3c3011f43692fcb28b37dec5f708395318681de960f0cb932cea36021f",
       "stats" : {
         "downloadCount" : 12427,
-        "impressionCount" : 709
+        "impressionCount" : 710
       },
       "subtitle" : "Collaboration platform for API development",
       "tintColor" : "FE7747",
@@ -3107,7 +3107,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 5755,
-        "impressionCount" : 219
+        "impressionCount" : 220
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3127,7 +3127,7 @@
       "sha256" : "536e2a4beb637e4cb97a9f258a709e1c63f497a9f4a70ea206f1ef5fc7bb373e",
       "stats" : {
         "downloadCount" : 3346,
-        "impressionCount" : 1265
+        "impressionCount" : 1266
       },
       "subtitle" : "Enable Windows-like alt-tab",
       "tintColor" : "49477D",
@@ -3167,7 +3167,7 @@
       "sha256" : "45b1ec724c8d72746d2b7f05fd229e6ef68fb82e38f420a1a0ae47faae1086a1",
       "stats" : {
         "downloadCount" : 3327,
-        "impressionCount" : 492
+        "impressionCount" : 493
       },
       "subtitle" : "Java IDE by JetBrains",
       "tintColor" : "5F5977",
@@ -3438,7 +3438,7 @@
       "sha256" : "5a71b8c859fbfdbcfc2df1a2a40824e28e12b0b41ff8929fa0b3bcbd24f00774",
       "stats" : {
         "downloadCount" : 2096,
-        "impressionCount" : 378
+        "impressionCount" : 379
       },
       "subtitle" : "Visual tool to design, develop and administer MySQL servers",
       "tintColor" : "346083",
@@ -3519,7 +3519,7 @@
       "name" : "TeamViewer",
       "stats" : {
         "downloadCount" : 1755,
-        "impressionCount" : 60
+        "impressionCount" : 61
       },
       "subtitle" : "Remote access and connectivity software focused on security",
       "tintColor" : "B5B0A3",
@@ -3641,7 +3641,7 @@
       "sha256" : "7a287e2dd307c213c0f7815ee592ed22b24a0c86f706d6da2e44253d0298de53",
       "stats" : {
         "downloadCount" : 1459,
-        "impressionCount" : 498
+        "impressionCount" : 499
       },
       "subtitle" : "Explore and manipulate your MongoDB data",
       "tintColor" : "D5EADD",
@@ -3683,7 +3683,7 @@
       "sha256" : "f8ad590d9d5cc081d3e8f9ecf559e41991aa8a72fd41ed4e7bac70e8e804a2c5",
       "stats" : {
         "downloadCount" : 1385,
-        "impressionCount" : 381
+        "impressionCount" : 382
       },
       "subtitle" : "QuickLook generator for Markdown files",
       "tintColor" : "254255",
@@ -3703,7 +3703,7 @@
       "sha256" : "7b1a22854f10a9647a01ba442a50c26f0177b4cc9aa6faf9321a72eb861e5ca8",
       "stats" : {
         "downloadCount" : 1321,
-        "impressionCount" : 421
+        "impressionCount" : 422
       },
       "subtitle" : "Data science software focusing on R and Python",
       "tintColor" : "80B1DE",
@@ -4378,7 +4378,7 @@
       "sha256" : "e9a16626aa7c7998d87f9d8c37de7f89f61b6864977d1efae3f63d606f0544aa",
       "stats" : {
         "downloadCount" : 713,
-        "impressionCount" : 356
+        "impressionCount" : 357
       },
       "subtitle" : "JavaScript IDE",
       "tintColor" : "2E7991",
@@ -5169,7 +5169,7 @@
       "sha256" : "d806254af68425089d40a7a302ce10c87283a25399e7b667e8d261b3958f4fbb",
       "stats" : {
         "downloadCount" : 424,
-        "impressionCount" : 314
+        "impressionCount" : 315
       },
       "subtitle" : "Ruby on Rails IDE",
       "tintColor" : "AA4B46",
@@ -5482,7 +5482,7 @@
       "sha256" : "ee4709732e8a2a2c0a6a0f1bded963c294ffe06da56fa0f326cbb9674d315369",
       "stats" : {
         "downloadCount" : 368,
-        "impressionCount" : 436
+        "impressionCount" : 437
       },
       "subtitle" : "Instant messaging tool",
       "tintColor" : "80584A",
@@ -5855,7 +5855,7 @@
       "sha256" : "dc8342b5decb200f7a54a02479c9d8d0d735b1c987032ee6534d93399ee0e184",
       "stats" : {
         "downloadCount" : 299,
-        "impressionCount" : 1203
+        "impressionCount" : 1204
       },
       "subtitle" : "Open-source browser prompter",
       "tintColor" : "364A62",
@@ -6929,7 +6929,7 @@
       "sha256" : "efc66e943e6327896d0c1b82b0c1798c9ea17cffa03581e4949541c30d9833b0",
       "stats" : {
         "downloadCount" : 177,
-        "impressionCount" : 243
+        "impressionCount" : 244
       },
       "subtitle" : "Tool to create native applications from command-line scripts",
       "tintColor" : "B47836",
@@ -7212,7 +7212,7 @@
       "sha256" : "320021574b14687bf3b55bf98709e0309c2c793b13afd8e1b5ea700be388f865",
       "stats" : {
         "downloadCount" : 163,
-        "impressionCount" : 1472
+        "impressionCount" : 1473
       },
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
@@ -7535,7 +7535,7 @@
       "sha256" : "65f1358e53b2a65ce88f48a3d25d2346633c0a1a743e791d3be0f7e337236906",
       "stats" : {
         "downloadCount" : 143,
-        "impressionCount" : 822
+        "impressionCount" : 823
       },
       "subtitle" : "Network scanner",
       "tintColor" : "5A94FF",
@@ -7556,7 +7556,7 @@
       "sha256" : "bf45931af4bcced57c4aac81f916fb6466ee5fc5ff33788ae70b81c53ae052aa",
       "stats" : {
         "downloadCount" : 143,
-        "impressionCount" : 253
+        "impressionCount" : 254
       },
       "subtitle" : "WordPress local development tool by Flywheel",
       "tintColor" : "6ED697",
@@ -7577,7 +7577,7 @@
       "sha256" : "d853d89d07634d8fe234dcb51ada39ba98103d06ae95aa8a0b142be980152923",
       "stats" : {
         "downloadCount" : 140,
-        "impressionCount" : 418
+        "impressionCount" : 419
       },
       "subtitle" : "Terminal/ssh/sftp client",
       "tintColor" : "7E7570",
@@ -7747,7 +7747,7 @@
       "name" : "Aliyundrive",
       "stats" : {
         "downloadCount" : 133,
-        "impressionCount" : 693
+        "impressionCount" : 694
       },
       "subtitle" : "Intelligent cloud storage platform",
       "tintColor" : "8895F1",
@@ -8846,7 +8846,7 @@
       "sha256" : "9b2234ecc063f392c94e796f2aaed0fcf6676d30b3459bec062bc52f55e9c53e",
       "stats" : {
         "downloadCount" : 96,
-        "impressionCount" : 354
+        "impressionCount" : 355
       },
       "subtitle" : "Alternate version of the Opera web browser to complement gaming",
       "tintColor" : "EA214D",
@@ -9431,7 +9431,7 @@
       "sha256" : "7b30052a8439af9f34c6120e4a24cf19c326e4abc33da00f30ace6b4a770c24a",
       "stats" : {
         "downloadCount" : 87,
-        "impressionCount" : 289
+        "impressionCount" : 290
       },
       "subtitle" : "Notetaking tool",
       "tintColor" : "6391B2",
@@ -11258,7 +11258,7 @@
       "sha256" : "a53fe933830487f4906bcd5523e0d2534ad9d660c67ed28b5faf76aeb02fa97e",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 839
+        "impressionCount" : 840
       },
       "subtitle" : "Solve, save and share math problems, graph functions, etc",
       "tintColor" : "DADAE0",
@@ -12353,7 +12353,7 @@
       "sha256" : "88ec942ef586ca9a658844ab673aabd72b115668fbfcf720f8c4fc6d680c37fb",
       "stats" : {
         "downloadCount" : 46,
-        "impressionCount" : 134
+        "impressionCount" : 135
       },
       "subtitle" : "Remote development gateway by Jetbrains",
       "tintColor" : "B35593",
@@ -13465,7 +13465,7 @@
       "sha256" : "54b3b5c9a3609d771e5b1b2569c5fa7251914f4a0c16c33f5050ca38629f69be",
       "stats" : {
         "downloadCount" : 38,
-        "impressionCount" : 142
+        "impressionCount" : 143
       },
       "subtitle" : "Menu bar clock",
       "tintColor" : "726767",
@@ -15496,7 +15496,7 @@
       "sha256" : "408556e281b96e7dbab20e21c6346af5ef68b0dd30688be75562466dab9d99fa",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 276
+        "impressionCount" : 277
       },
       "subtitle" : "Text editor",
       "tintColor" : "66C522",
@@ -19561,7 +19561,7 @@
       "sha256" : "3e6baf5aafacbbe69b484af26fa6c426ec326a527243807db66d24f6ec354dae",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 656
+        "impressionCount" : 657
       },
       "subtitle" : "World of Warcraft addon manager",
       "tintColor" : "7B7AB9",
@@ -67920,7 +67920,7 @@
       },
       "subtitle" : "Contact manager focusing on efficiency",
       "version" : "2022.3.1,2022-07-26-20-32",
-      "versionDate" : "2022-07-26T22:21:35Z"
+      "versionDate" : "2022-07-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73285,13 +73285,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "deepstream",
-      "caption" : "deepstream 6.2.1 released",
-      "date" : "2022-07-25T01:09:30Z",
-      "identifier" : "release-deepstream-6.2.1",
-      "title" : "New Release: deepstream 6.2.1"
-    },
-    {
       "appID" : "dbeaver-community",
       "caption" : "DBeaver Community Edition updated from 22.1.2 to 22.1.3",
       "date" : "2022-07-25T03:30:53Z",
@@ -73983,6 +73976,13 @@
       "date" : "2022-07-26T22:21:36Z",
       "identifier" : "release-busycontacts-2022.3.1,2022-07-26-20-32",
       "title" : "New Release: BusyContacts 2022.3.1,2022-07-26-20-32"
+    },
+    {
+      "appID" : "signal",
+      "caption" : "Signal updated from 5.51.0 to 5.51.1",
+      "date" : "2022-07-26T23:21:32Z",
+      "identifier" : "release-signal-5.51.1",
+      "title" : "New Release: Signal 5.51.1"
     }
   ],
   "platform" : "macos",

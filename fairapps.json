@@ -57,11 +57,11 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 208,
-        "impressionCount" : 88,
+        "downloadCount" : 211,
+        "impressionCount" : 91,
         "issueCount" : 5,
         "starCount" : 25,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for macOS apps and Homebrew casks",
@@ -234,7 +234,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 33,
-        "impressionCount" : 292,
+        "impressionCount" : 293,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 34,
@@ -544,7 +544,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 21,
-        "impressionCount" : 623,
+        "impressionCount" : 624,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -622,7 +622,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 602,
+        "impressionCount" : 603,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 488,
+        "impressionCount" : 489,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -1181,7 +1181,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 366,
+        "impressionCount" : 367,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 37,
@@ -1344,7 +1344,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 36,
-        "impressionCount" : 158,
+        "impressionCount" : 159,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 20,

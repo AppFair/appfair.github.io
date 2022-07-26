@@ -45,7 +45,7 @@ tr:nth-child(even) {
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.38`` | `3` | `2022-07-20T00:00:00Z` | `8.4 MB` | `368` | `37` | `1` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.0.20β`` | `5` | `2022-02-12T00:00:00Z` | `6.4 MB` | `1029` | `59` | `0` | `0` |  |
 | [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | ``0.0.16β`` | `3` | `2022-02-12T00:00:00Z` | `6.3 MB` | `474` | `38` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `35` | `2022-07-22T00:00:00Z` | `17.6 MB` | `160` | `20` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `35` | `2022-07-22T00:00:00Z` | `17.6 MB` | `161` | `21` | `1` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `325` | `24` | `0` | `0` |  |
 | [``Ultra Light``](https://Ultra-Light.github.io/App/) | ``0.0.7β`` | `4` | `2022-01-21T00:00:00Z` | `5.9 MB` | `397` | `46` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `4` | `2022-01-25T00:00:00Z` | `5.9 MB` | `363` | `30` | `0` | `0` |  |

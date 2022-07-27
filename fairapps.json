@@ -57,11 +57,11 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 228,
-        "impressionCount" : 96,
+        "downloadCount" : 229,
+        "impressionCount" : 97,
         "issueCount" : 5,
         "starCount" : 25,
-        "viewCount" : 13,
+        "viewCount" : 14,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for macOS apps and Homebrew casks",
@@ -144,7 +144,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3023,
+        "impressionCount" : 3024,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 539,
@@ -234,7 +234,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 35,
-        "impressionCount" : 299,
+        "impressionCount" : 300,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 36,
@@ -544,7 +544,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 21,
-        "impressionCount" : 630,
+        "impressionCount" : 631,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 42,
@@ -622,7 +622,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 609,
+        "impressionCount" : 610,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 495,
+        "impressionCount" : 496,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -828,7 +828,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2898,
+        "impressionCount" : 2899,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 462,
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2446,
+        "impressionCount" : 2447,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 446,
@@ -1181,7 +1181,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 373,
+        "impressionCount" : 374,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 37,
@@ -1343,11 +1343,11 @@
       "size" : 9466880,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 39,
-        "impressionCount" : 166,
+        "downloadCount" : 40,
+        "impressionCount" : 169,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 21,
+        "viewCount" : 22,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

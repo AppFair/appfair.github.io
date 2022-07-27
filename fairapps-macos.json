@@ -57,7 +57,7 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 238,
+        "downloadCount" : 241,
         "impressionCount" : 102,
         "issueCount" : 5,
         "starCount" : 25,
@@ -144,10 +144,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3043,
+        "impressionCount" : 3044,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 543,
+        "viewCount" : 544,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -234,7 +234,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 37,
-        "impressionCount" : 340,
+        "impressionCount" : 341,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 43,
@@ -544,7 +544,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 21,
-        "impressionCount" : 667,
+        "impressionCount" : 668,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -622,7 +622,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 644,
+        "impressionCount" : 645,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 529,
+        "impressionCount" : 530,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -828,7 +828,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2925,
+        "impressionCount" : 2926,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 466,
@@ -931,10 +931,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2459,
+        "impressionCount" : 2460,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 450,
+        "viewCount" : 451,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -1181,10 +1181,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 392,
+        "impressionCount" : 393,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 43,
+        "viewCount" : 44,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1344,7 +1344,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 42,
-        "impressionCount" : 186,
+        "impressionCount" : 187,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 25,

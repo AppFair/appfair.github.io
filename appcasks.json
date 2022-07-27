@@ -1134,8 +1134,8 @@
       "sha256" : "9534e444b3102a653f3d0c0e3fb54efb20caf2c91ce121b2db00d2531ab8b7fa",
       "stats" : {
         "downloadCount" : 2711,
-        "impressionCount" : 1737,
-        "viewCount" : 102
+        "impressionCount" : 1738,
+        "viewCount" : 103
       },
       "subtitle" : "Office suite",
       "tintColor" : "CBCBCB",
@@ -4658,7 +4658,7 @@
       "sha256" : "7905893c26d8256686dcaba006dc5f2ad1907a9936074a76bf7e268caea0dd0b",
       "stats" : {
         "downloadCount" : 586,
-        "impressionCount" : 951
+        "impressionCount" : 952
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -64401,11 +64401,13 @@
       ],
       "downloadURL" : "https://snip.qq.com/resources/Snip_V2.0_5771.dmg",
       "homepage" : "https://snip.qq.com/",
+      "localizedDescription" : "Screen capture tool",
       "name" : "Snip",
       "sha256" : "2e9c2863d4412dbfa1323c1f2cb056c6a81b77d520c8b2a732cade1e7b40df00",
       "stats" : {
         "downloadCount" : 22
       },
+      "subtitle" : "Screen capture tool",
       "version" : "2.0,5771"
     },
     {

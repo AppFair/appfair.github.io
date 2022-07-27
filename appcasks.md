@@ -64,7 +64,7 @@ tr:nth-child(even) {
 | [``Android Studio``](https://developer.android.com/studio/) | ``2021.2.1.15`` | `3089` |  |  | `1940` | `93` |  | `0` | `public.app-category.developer-tools` |
 | [``Alacritty``](https://github.com/alacritty/alacritty/) | ``0.10.1`` | `3015` |  |  | `2348` | `156` |  | `0` | `public.app-category.productivity` |
 | [``Cyberduck``](https://cyberduck.io/) | ``8.4.2,38090`` | `2838` | `2022-07-12T00:00:00Z` |  | `1915` | `172` |  | `0` | `public.app-category.productivity` |
-| [``LibreOffice``](https://www.libreoffice.org/) | ``7.3.5`` | `2711` | `2022-07-22T00:00:00Z` |  | `1737` | `102` |  | `0` | `public.app-category.productivity` |
+| [``LibreOffice``](https://www.libreoffice.org/) | ``7.3.5`` | `2711` | `2022-07-22T00:00:00Z` |  | `1738` | `103` |  | `0` | `public.app-category.productivity` |
 | [``Maccy``](https://maccy.app/) | ``0.23.0,12`` | `2609` | `2022-07-19T00:00:00Z` |  | `1674` | `121` |  | `0` | `public.app-category.productivity` |
 | [``Telegram for macOS``](https://macos.telegram.org/) | ``8.8.1,232774`` | `2587` | `2022-07-03T00:00:00Z` |  | `1621` | `120` |  | `0` | `public.app-category.social-networking` |
 | [``IntelliJ IDEA Community …``](https://www.jetbrains.com/idea/) | ``2022.2,222.3345.118`` | `2565` | `2022-07-26T00:00:00Z` |  | `1579` | `69` |  | `0` | `public.app-category.developer-tools` |
@@ -225,7 +225,7 @@ tr:nth-child(even) {
 | [``Evernote``](https://evernote.com/) | ``10.41.5,3540,fc7ed4329d`` | `619` | `2022-07-22T00:00:00Z` |  | `604` |  |  | `0` | `public.app-category.productivity` |
 | [``OSXFUSE``](https://osxfuse.github.io/) | ``3.11.2`` | `616` |  |  | `38` |  |  | `0` | `public.app-category.utilities` |
 | [``Keybase``](https://keybase.io/) | ``6.0.1,20220609162338,0fc…`` | `602` |  |  | `323` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Logseq``](https://github.com/logseq/logseq) | ``0.7.8`` | `586` | `2022-07-21T00:00:00Z` |  | `951` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Logseq``](https://github.com/logseq/logseq) | ``0.7.8`` | `586` | `2022-07-21T00:00:00Z` |  | `952` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Anki``](https://apps.ankiweb.net/) | ``2.1.54`` | `585` |  |  | `955` |  |  | `0` | `public.app-category.education` |
 | [``AlDente``](https://github.com/davidwernhart/AlDente) | ``1.17.1`` | `580` |  |  | `895` |  |  | `0` | `public.app-category.utilities` |
 | [``DeepL``](https://www.deepl.com/) | ``3.4.205896`` | `579` |  |  | `708` |  |  | `0` | `public.app-category.reference` |

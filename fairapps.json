@@ -57,7 +57,7 @@
       "size" : 9484000,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 229,
+        "downloadCount" : 233,
         "impressionCount" : 97,
         "issueCount" : 5,
         "starCount" : 25,
@@ -144,7 +144,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3024,
+        "impressionCount" : 3025,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 539,
@@ -233,8 +233,8 @@
       "size" : 2114534,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 35,
-        "impressionCount" : 300,
+        "downloadCount" : 37,
+        "impressionCount" : 301,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 36,
@@ -544,10 +544,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 21,
-        "impressionCount" : 631,
+        "impressionCount" : 632,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 42,
+        "viewCount" : 43,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -622,10 +622,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 610,
+        "impressionCount" : 611,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 36,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -661,10 +661,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 496,
+        "impressionCount" : 497,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 31,
+        "viewCount" : 32,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -828,7 +828,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 2899,
+        "impressionCount" : 2900,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 462,
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2447,
+        "impressionCount" : 2448,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 446,
@@ -1181,7 +1181,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 374,
+        "impressionCount" : 375,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 37,
@@ -1343,8 +1343,8 @@
       "size" : 9466880,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 40,
-        "impressionCount" : 169,
+        "downloadCount" : 42,
+        "impressionCount" : 170,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 22,

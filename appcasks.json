@@ -242,7 +242,7 @@
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
       "version" : "2.2226.5",
-      "versionDate" : "2022-07-27T01:13:45Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1555,13 +1555,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://dist.torproject.org/torbrowser/11.5/TorBrowser-11.5-osx64_en-US.dmg",
+      "downloadURL" : "https://dist.torproject.org/torbrowser/11.5.1/TorBrowser-11.5.1-osx64_en-US.dmg",
       "homepage" : "https://www.torproject.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/AppIcon.png",
       "localizedDescription" : "Web browser focusing on security",
       "name" : "Tor Browser",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
-      "sha256" : "51cc88dcc07a2a4a0cf91ec1a2e02544183f88e5ce745ffe6089b9fb0ef68f02",
+      "sha256" : "616d719572e4917d1264c622033afb1b4dd98e2553a0d09fd72470c99bad48e5",
       "stats" : {
         "downloadCount" : 1507,
         "impressionCount" : 2415,
@@ -1569,8 +1569,8 @@
       },
       "subtitle" : "Web browser focusing on security",
       "tintColor" : "8236A8",
-      "version" : "11.5",
-      "versionDate" : "2022-07-15T00:00:00Z"
+      "version" : "11.5.1",
+      "versionDate" : "2022-07-27T03:57:12Z"
     },
     {
       "beta" : false,
@@ -54345,7 +54345,7 @@
       "subtitle" : "Viewer for accessing Virtual Worlds",
       "tintColor" : "6C3016",
       "version" : "6.5.6.66221",
-      "versionDate" : "2022-07-27T01:13:45Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72405,7 +72405,7 @@
       },
       "subtitle" : "Multiplatform MIDI File Player",
       "version" : "1.6.0",
-      "versionDate" : "2022-07-27T01:13:45Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72565,7 +72565,7 @@
         "downloadCount" : 1
       },
       "version" : "1.6.6",
-      "versionDate" : "2022-07-27T01:13:45Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72991,7 +72991,7 @@
       },
       "subtitle" : "Video mapping software",
       "version" : "7.13.1,16350",
-      "versionDate" : "2022-07-27T01:13:45Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73253,13 +73253,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "output-factory",
-      "caption" : "Output Factory updated from 2.4.77 to 2.4.78",
-      "date" : "2022-07-25T04:50:40Z",
-      "identifier" : "release-output-factory-2.4.78",
-      "title" : "New Release: Output Factory 2.4.78"
-    },
     {
       "appID" : "canva",
       "caption" : "Canva updated from 1.47.0 to 1.48.0",
@@ -73952,6 +73945,13 @@
       "date" : "2022-07-27T01:13:47Z",
       "identifier" : "release-glimmerblocker-1.6.6",
       "title" : "New Release: GlimmerBlocker 1.6.6"
+    },
+    {
+      "appID" : "tor-browser",
+      "caption" : "Tor Browser updated from 11.5 to 11.5.1",
+      "date" : "2022-07-27T03:57:13Z",
+      "identifier" : "release-tor-browser-11.5.1",
+      "title" : "New Release: Tor Browser 11.5.1"
     }
   ],
   "platform" : "macos",

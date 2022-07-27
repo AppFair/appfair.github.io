@@ -30,11 +30,11 @@
       "size" : 5310659,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 100,
-        "impressionCount" : 512,
+        "downloadCount" : 102,
+        "impressionCount" : 523,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 77,
+        "viewCount" : 79,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -71,11 +71,11 @@
       "size" : 5400273,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 125,
-        "impressionCount" : 307,
+        "downloadCount" : 128,
+        "impressionCount" : 322,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 36,
+        "viewCount" : 40,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -108,7 +108,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1869,
+        "impressionCount" : 1875,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 173,
@@ -143,7 +143,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1228,
+        "impressionCount" : 1235,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 93,
@@ -181,7 +181,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 4,
-        "impressionCount" : 859,
+        "impressionCount" : 866,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 61,
@@ -216,7 +216,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1231,
+        "impressionCount" : 1237,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 90,
@@ -251,7 +251,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1265,
+        "impressionCount" : 1271,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 88,
@@ -289,7 +289,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 859,
+        "impressionCount" : 865,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -331,10 +331,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 32,
-        "impressionCount" : 638,
+        "impressionCount" : 648,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 43,
+        "viewCount" : 44,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -375,10 +375,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 617,
+        "impressionCount" : 626,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 37,
+        "viewCount" : 38,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -410,10 +410,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 503,
+        "impressionCount" : 512,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 32,
+        "viewCount" : 33,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -445,7 +445,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1090,
+        "impressionCount" : 1097,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -480,7 +480,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 919,
+        "impressionCount" : 926,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 51,
@@ -526,10 +526,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 2906,
+        "impressionCount" : 2914,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 462,
+        "viewCount" : 463,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -588,7 +588,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 9,
-        "impressionCount" : 276,
+        "impressionCount" : 281,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -626,7 +626,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 9,
-        "impressionCount" : 228,
+        "impressionCount" : 231,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 15,
@@ -661,7 +661,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 368,
+        "impressionCount" : 370,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -708,7 +708,7 @@
       "stats" : {
         "coreSize" : 152704,
         "downloadCount" : 4,
-        "impressionCount" : 92,
+        "impressionCount" : 93,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 6,
@@ -749,10 +749,10 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 5,
-        "impressionCount" : 358,
+        "impressionCount" : 361,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 52,
+        "viewCount" : 53,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -798,10 +798,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 377,
+        "impressionCount" : 381,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 37,
+        "viewCount" : 38,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -834,7 +834,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1032,
+        "impressionCount" : 1034,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -869,7 +869,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 477,
+        "impressionCount" : 479,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -912,7 +912,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 39,
-        "impressionCount" : 172,
+        "impressionCount" : 176,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 22,
@@ -948,7 +948,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 328,
+        "impressionCount" : 330,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -983,7 +983,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 400,
+        "impressionCount" : 402,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1018,7 +1018,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 4,
-        "impressionCount" : 366,
+        "impressionCount" : 368,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1053,7 +1053,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 6,
-        "impressionCount" : 1206,
+        "impressionCount" : 1207,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 193,
@@ -1088,7 +1088,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1252,
+        "impressionCount" : 1258,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,

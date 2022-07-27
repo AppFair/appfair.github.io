@@ -778,7 +778,7 @@
       "sha256" : "76f8038715c792482185a927881186417d960adb62940949de28e03867626c28",
       "stats" : {
         "downloadCount" : 8292,
-        "impressionCount" : 2553,
+        "impressionCount" : 2554,
         "viewCount" : 201
       },
       "subtitle" : "Team communication and collaboration software",
@@ -1927,7 +1927,7 @@
       "sha256" : "1d5f4aa4c82c8cf8d858c413928be55963ccd1203552d8dc07f4ca123f814c01",
       "stats" : {
         "downloadCount" : 684,
-        "impressionCount" : 2105,
+        "impressionCount" : 2106,
         "viewCount" : 82
       },
       "subtitle" : "Electronics prototyping platform",
@@ -2294,7 +2294,7 @@
       "subtitle" : "Matrix collaboration client",
       "tintColor" : "35CB9F",
       "version" : "1.11.1",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2556,7 +2556,7 @@
       "sha256" : "5b37ff0853875678175e01f785dd5db06d401fa5e8e2a1c6b8a4103a912b3666",
       "stats" : {
         "downloadCount" : 99,
-        "impressionCount" : 1850,
+        "impressionCount" : 1851,
         "viewCount" : 161
       },
       "subtitle" : "Visual communication software",
@@ -3362,7 +3362,7 @@
       "subtitle" : "Knowledge base that works on top of a local folder of plain text Markdown files",
       "tintColor" : "CBC6E5",
       "version" : "0.15.9",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3383,7 +3383,7 @@
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
       "version" : "116.2.4",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3521,7 +3521,7 @@
       "sha256" : "7a351f2fa507a8cbac55f6a094694e0cab457ca6cdc336752e6464712ce27aca",
       "stats" : {
         "downloadCount" : 1838,
-        "impressionCount" : 1627
+        "impressionCount" : 1628
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -4679,7 +4679,7 @@
       "sha256" : "92eb39f59f4e7b8b1b025178b337a0ef9d619521144748a32b3e2b8df1c45a00",
       "stats" : {
         "downloadCount" : 585,
-        "impressionCount" : 954
+        "impressionCount" : 955
       },
       "subtitle" : "Memory training application",
       "tintColor" : "91A2AE",
@@ -5107,7 +5107,7 @@
       "sha256" : "55f879dc3b5bbfa5419a3def4bb5663c7ea387136a4d87e6404387a602523ad9",
       "stats" : {
         "downloadCount" : 439,
-        "impressionCount" : 878
+        "impressionCount" : 879
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -5517,7 +5517,7 @@
       "subtitle" : "Calling and messaging application focusing on security",
       "tintColor" : "8E7FF3",
       "version" : "18.1.0,1810",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6544,7 +6544,7 @@
       "sha256" : "954a23bd074723803cd752cf3dbf17c46884b0fe61c99c0354e63ea3106a06e7",
       "stats" : {
         "downloadCount" : 216,
-        "impressionCount" : 1399
+        "impressionCount" : 1400
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
@@ -7212,7 +7212,7 @@
       "sha256" : "41dba6d0640c15deffc2f20d0141341ea00aa3329aa0b7417157e350cb12a3b7",
       "stats" : {
         "downloadCount" : 166,
-        "impressionCount" : 798
+        "impressionCount" : 799
       },
       "subtitle" : "Messaging and calling application",
       "tintColor" : "E4F0F7",
@@ -9306,7 +9306,7 @@
       "sha256" : "5e28a64b390cbae0484bfe40ae841028109430d5c3bd7b0a98eb5028731d8897",
       "stats" : {
         "downloadCount" : 89,
-        "impressionCount" : 780
+        "impressionCount" : 781
       },
       "subtitle" : "Developer IDE or Management Environment for Neo4j instances",
       "tintColor" : "D7E0E8",
@@ -9517,7 +9517,7 @@
       "sha256" : "0a16e33e21784baadea9f45befa2d55f3d21781d0cf3291b983004d1520d9650",
       "stats" : {
         "downloadCount" : 85,
-        "impressionCount" : 753
+        "impressionCount" : 754
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -9713,7 +9713,7 @@
       "sha256" : "e70aef4218e4ae27a0df095d32f489aa9d89cc2bb3de1da6ab2989d1bb4c6300",
       "stats" : {
         "downloadCount" : 83,
-        "impressionCount" : 704
+        "impressionCount" : 705
       },
       "subtitle" : "View, Screen Share, organize, import, and download files to a reMarkable device",
       "tintColor" : "0B0B0B",
@@ -9915,7 +9915,7 @@
       "sha256" : "59f09175d6ffd8253a23201a5703f7d9d9bec6753692876163790c3c991e413a",
       "stats" : {
         "downloadCount" : 80,
-        "impressionCount" : 835
+        "impressionCount" : 836
       },
       "subtitle" : "Fork of Nylas Mail",
       "tintColor" : "95E5E8",
@@ -9935,7 +9935,7 @@
       "sha256" : "a2456f7cdb250a37acd60cae67016a9b31521997173a8707c823000f082a4411",
       "stats" : {
         "downloadCount" : 79,
-        "impressionCount" : 700
+        "impressionCount" : 701
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -10754,7 +10754,7 @@
       "sha256" : "e94ba07fa606c927e6ec68c6d276cd6decb5988f00639f36a6507e847a7c3342",
       "stats" : {
         "downloadCount" : 65,
-        "impressionCount" : 710
+        "impressionCount" : 711
       },
       "subtitle" : "Digital logic designer and simulator",
       "tintColor" : "4DA64D",
@@ -11186,7 +11186,7 @@
       "sha256" : "77e9fd1fa92a9ccd42b12fd1cafd9d980e569e10658378e82900542b49ce9eed",
       "stats" : {
         "downloadCount" : 58,
-        "impressionCount" : 884
+        "impressionCount" : 885
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
@@ -11247,7 +11247,7 @@
       "sha256" : "a53fe933830487f4906bcd5523e0d2534ad9d660c67ed28b5faf76aeb02fa97e",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 841
+        "impressionCount" : 842
       },
       "subtitle" : "Solve, save and share math problems, graph functions, etc",
       "tintColor" : "DADAE0",
@@ -11420,7 +11420,7 @@
       "sha256" : "9368414dc210ce6746735cf4def6692a1dee05e847ee3fb5b3a06b0fe45ef963",
       "stats" : {
         "downloadCount" : 56,
-        "impressionCount" : 614
+        "impressionCount" : 615
       },
       "subtitle" : "Handwriting notetaking software",
       "tintColor" : "E5D8CE",
@@ -12101,7 +12101,7 @@
       "sha256" : "0032867c2eb6885e1e1f3e24fe24f37fc5a12c3e995825f8eea5630eb8052860",
       "stats" : {
         "downloadCount" : 49,
-        "impressionCount" : 428
+        "impressionCount" : 429
       },
       "subtitle" : "Programs interactive stories, games, and animations",
       "tintColor" : "FBBA4B",
@@ -14018,7 +14018,7 @@
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
       "version" : "2.1.3",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14393,7 +14393,7 @@
       "name" : "Nektony VSD Viewer",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 590
+        "impressionCount" : 591
       },
       "subtitle" : "Preview .VSD, .VDX, .VSDX file formats of Visio drawings",
       "tintColor" : "86A2C9",
@@ -14520,7 +14520,7 @@
       "sha256" : "27fec18eaf28e39dca57f4af35b748527e5194ddf1e7d0d8df7621f1a54522fa",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 558
+        "impressionCount" : 559
       },
       "subtitle" : "Plot geo-referenced data from netCDF, HDF, and GRIB",
       "tintColor" : "547B95",
@@ -14888,7 +14888,7 @@
       "sha256" : "29be16125e54481dc65686c09d6660ea76c61c271063452f817128577acef22a",
       "stats" : {
         "downloadCount" : 31,
-        "impressionCount" : 863
+        "impressionCount" : 864
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "55B9AA",
@@ -15239,7 +15239,7 @@
       "name" : "ShareMouse",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 472
+        "impressionCount" : 473
       },
       "subtitle" : "Share peripherals between computers",
       "tintColor" : "CFCFCF",
@@ -15400,7 +15400,7 @@
       "sha256" : "bd402c1b2a69b0a3f3c695a3cd0074d73fdf0d851ceee11c6b5e3efa23e7d37a",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 1222
+        "impressionCount" : 1223
       },
       "subtitle" : "Distributed NoSQL cloud database",
       "tintColor" : "E04E54",
@@ -17007,7 +17007,7 @@
       "sha256" : "a13b0fca4db8c054d37414c32887b07ddc4870c525cc60ac38d29f0ffc1c4cb1",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 902
+        "impressionCount" : 903
       },
       "subtitle" : "Access the HEY email service",
       "tintColor" : "5850EC",
@@ -17527,7 +17527,7 @@
       "name" : "PDF Reader Pro",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 578
+        "impressionCount" : 579
       },
       "subtitle" : "Read, annotate, edit, convert, create, OCR, fill forms and sign PDFs",
       "tintColor" : "EC9999",
@@ -17785,7 +17785,7 @@
       "name" : "Nektony VSDX Annotator",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 384
+        "impressionCount" : 385
       },
       "subtitle" : "Preview, edit and convert Visio drawings",
       "tintColor" : "E396A0",
@@ -18582,7 +18582,7 @@
       "name" : "Dialpad",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 1021
+        "impressionCount" : 1022
       },
       "subtitle" : "Cloud communication platform",
       "tintColor" : "8B66FE",
@@ -18708,7 +18708,7 @@
       "sha256" : "51c47eef515cef38da22c9e06b1b9ecfcfa152d14022cdbc016e364f7385d16e",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 677
+        "impressionCount" : 678
       },
       "subtitle" : "Remote desktop application",
       "tintColor" : "65ACED",
@@ -18931,7 +18931,7 @@
       "subtitle" : "Media file tag editor",
       "tintColor" : "3F7AA6",
       "version" : "6.10.5.1,11090",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19240,7 +19240,7 @@
       "sha256" : "b8acadfac2a017eb722dcdd757493cfaca2ede80375ccc95d0b82e8c53ea4812",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 447
+        "impressionCount" : 448
       },
       "subtitle" : "Doing phonetics by computer",
       "tintColor" : "DC788D",
@@ -19359,7 +19359,7 @@
       "name" : "TOPCAT",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 404
+        "impressionCount" : 405
       },
       "subtitle" : "Interactive graphical viewer and editor for tabular data",
       "tintColor" : "9C9C07",
@@ -19458,7 +19458,7 @@
       "sha256" : "d12778ecdf9036a8ca22b257d9f8574bf507cc8c886cb3808f4edca32f2d5b6e",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 773
+        "impressionCount" : 774
       },
       "subtitle" : "Space simulation for exploring the universe in three dimensions",
       "tintColor" : "5B4B3A",
@@ -22022,7 +22022,7 @@
       "subtitle" : "Downloads scientific computing jobs and runs them invisibly in the background",
       "tintColor" : "959685",
       "version" : "7.20.2",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22703,7 +22703,7 @@
       "name" : "CAJViewer",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 742
+        "impressionCount" : 743
       },
       "subtitle" : "Literature reader",
       "tintColor" : "4CC0EB",
@@ -22728,7 +22728,7 @@
       "subtitle" : "GUI Python implementation for the Chia blockchain",
       "tintColor" : "D2EBD9",
       "version" : "1.5.0",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23439,7 +23439,7 @@
       "name" : "Detexify",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 687
+        "impressionCount" : 688
       },
       "tintColor" : "DEB38C",
       "version" : "1.0.2"
@@ -23641,7 +23641,7 @@
       "subtitle" : "Mind Mapping Tool",
       "tintColor" : "94A1CD",
       "version" : "22.2.133",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24869,7 +24869,7 @@
       "sha256" : "300b8a25858bccf7ab41ef844ae496c454f53a840aecbfcb75f75b379b0f6445",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 420
+        "impressionCount" : 421
       },
       "subtitle" : "Web browser environment to carry out e-assessments safely",
       "tintColor" : "71818B",
@@ -25289,7 +25289,7 @@
       "name" : "CrystalMaker",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 677
+        "impressionCount" : 678
       },
       "subtitle" : "Visualize crystal and molecular structures",
       "tintColor" : "875CA8",
@@ -27442,7 +27442,7 @@
       "sha256" : "bc946ab51a3eec7ed82478ad18acb41726bcd08d01007b3ce004528f1eaa8f0a",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 645
+        "impressionCount" : 646
       },
       "subtitle" : "Companion app for the LEGO MINDSTORMS Education EV3 Core Set",
       "tintColor" : "F96C73",
@@ -27624,7 +27624,7 @@
       "subtitle" : "Instagram desktop application",
       "tintColor" : "EA898B",
       "version" : "8.1.1",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29749,7 +29749,7 @@
       "sha256" : "066f86e1a62fe6444a5bd998afe6f95c93f34deadf35d325320ac65d47438488",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 310
+        "impressionCount" : 311
       },
       "subtitle" : "Connectivity software for the TI-84 Plus family of graphing calculators",
       "tintColor" : "6EAB8C",
@@ -31629,7 +31629,7 @@
       "sha256" : "4b581f5441aa257ba77abef56175af60cc334adda0cfddd47e6557a51a1ef36f",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 530
+        "impressionCount" : 531
       },
       "subtitle" : "Free open-source cross-platform bioinformatics software",
       "tintColor" : "4C5F67",
@@ -32057,7 +32057,7 @@
       "sha256" : "e48f26d0df278ace9f65d67640f0876313b0710e11121ee352d87e9aab580ff2",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 676
+        "impressionCount" : 677
       },
       "subtitle" : "Interactive Geometry Software",
       "tintColor" : "A18119",
@@ -32419,7 +32419,7 @@
       "name" : "iBabel",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 616
+        "impressionCount" : 617
       },
       "tintColor" : "A9705A",
       "version" : "3.6"
@@ -32770,7 +32770,7 @@
       "sha256" : "67419db679bd1c5cd9c6bc919dfb4e37e767222afe4a2d164e67abfd94fda11b",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 456
+        "impressionCount" : 457
       },
       "subtitle" : "Software for nonlinear fitting, plotting and data analysis",
       "tintColor" : "989595",
@@ -33085,7 +33085,7 @@
       "name" : "Physics 101",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 409
+        "impressionCount" : 410
       },
       "subtitle" : "Collection of simulations, tools, and equations across the field of physics",
       "tintColor" : "BB8E25",
@@ -33857,7 +33857,7 @@
       "subtitle" : "Private rolodex to remember people better",
       "tintColor" : "313132",
       "version" : "1.9.14",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34039,7 +34039,7 @@
       "subtitle" : "File synchronization for Cozy Cloud",
       "tintColor" : "76AEF9",
       "version" : "3.36.0",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -38578,7 +38578,7 @@
       "sha256" : "68bf1c2e3156ce4849c644bc47f9bcb1f817ca0e35a45ddc3f90fb6b49bb2e10",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 649
+        "impressionCount" : 650
       },
       "subtitle" : "Classroom management app for Minecraft Education Edition",
       "tintColor" : "7C9F70",
@@ -38736,7 +38736,7 @@
       "sha256" : "0c32fd8e15eff4bdd19fe4fae4f9dc29c6225a5a238bc25664cac0f5b6d5c1ab",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 1037
+        "impressionCount" : 1038
       },
       "subtitle" : "Spatial Network Analysis Software",
       "tintColor" : "CABC7C",
@@ -38774,7 +38774,7 @@
       "sha256" : "031c18b8aaa05962df7cd1d660dfe3366a3dc6ff148fd7bdb89fd37ebbc492e5",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 634
+        "impressionCount" : 635
       },
       "subtitle" : "Electronics prototyping platform",
       "tintColor" : "8F1C1C",
@@ -47656,7 +47656,7 @@
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
       "version" : "10.16.1o",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59344,7 +59344,7 @@
       },
       "subtitle" : "Remote desktop client",
       "version" : "10.7.8",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59972,7 +59972,7 @@
       },
       "subtitle" : "Software reverse engineering (SRE) suite of tools",
       "version" : "10.1.5,20220726",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60973,7 +60973,7 @@
       },
       "subtitle" : "Share, organize and collaborate on designs",
       "version" : "4.3.4,1595",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65130,7 +65130,7 @@
       },
       "subtitle" : "Automatic file synchronization",
       "version" : "5.0.4.0725",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65545,7 +65545,7 @@
       },
       "subtitle" : "Free-to-play online poker",
       "version" : "52.262",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -68043,7 +68043,7 @@
       },
       "subtitle" : "Universal chat app powered by Matrix, unifying 15 different chat networks",
       "version" : "3.19.13",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -68341,7 +68341,7 @@
       },
       "subtitle" : "Tool to make any cloud storage unified, synchronized, shareable, and encrypted",
       "version" : "7291",
-      "versionDate" : "2022-07-27T06:24:34Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,

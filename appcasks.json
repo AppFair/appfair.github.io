@@ -2279,13 +2279,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://packages.riot.im/desktop/install/macos/Element-1.11.0-universal.dmg",
+      "downloadURL" : "https://packages.riot.im/desktop/install/macos/Element-1.11.1-universal.dmg",
       "homepage" : "https://element.io/get-started",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-element/AppIcon.png",
       "localizedDescription" : "Matrix collaboration client",
       "name" : "Element",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-element/README.md",
-      "sha256" : "059473c0a532226647b447765c58e8681ba6ec88aac356f6e6b1ebf9b3721a22",
+      "sha256" : "712b28380317aa3be2c8ed9abc337e219f24d9f8afaa2ffe80f85d1309e56402",
       "stats" : {
         "downloadCount" : 317,
         "impressionCount" : 2433,
@@ -2293,8 +2293,8 @@
       },
       "subtitle" : "Matrix collaboration client",
       "tintColor" : "35CB9F",
-      "version" : "1.11.0",
-      "versionDate" : "2022-07-06T00:00:00Z"
+      "version" : "1.11.1",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -3349,20 +3349,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.8/Obsidian-0.15.8-universal.dmg",
+      "downloadURL" : "https://github.com/obsidianmd/obsidian-releases/releases/download/v0.15.9/Obsidian-0.15.9-universal.dmg",
       "homepage" : "https://obsidian.md/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obsidian/AppIcon.png",
       "localizedDescription" : "Knowledge base that works on top of a local folder of plain text Markdown files",
       "name" : "Obsidian",
-      "sha256" : "1ade99d2e85828475a88268a38e6b0eda372d5106e316439bf9794e9c76b9ac2",
+      "sha256" : "5694a09c18dcbe4c5e67c69720d32cf2fa6ddf8a3481a6e7e722868972a52ae1",
       "stats" : {
         "downloadCount" : 2563,
         "impressionCount" : 875
       },
       "subtitle" : "Knowledge base that works on top of a local folder of plain text Markdown files",
       "tintColor" : "CBC6E5",
-      "version" : "0.15.8",
-      "versionDate" : "2022-07-23T00:00:00Z"
+      "version" : "0.15.9",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -3370,20 +3370,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.2.3.zip",
+      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.2.4.zip",
       "homepage" : "https://www.figma.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-figma/AppIcon.png",
       "localizedDescription" : "Collaborative team software",
       "name" : "Figma",
-      "sha256" : "a47315bef8e22bc4552be805f8509144cf56ae6e1323cdb0db74ae8e76109470",
+      "sha256" : "60e3db6ef10e328577072338add87fd7a3480604ff1da82935de59557e48ad65",
       "stats" : {
         "downloadCount" : 2386,
         "impressionCount" : 1957
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
-      "version" : "116.2.3",
-      "versionDate" : "2022-07-23T00:00:00Z"
+      "version" : "116.2.4",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -5516,8 +5516,8 @@
       },
       "subtitle" : "Calling and messaging application focusing on security",
       "tintColor" : "8E7FF3",
-      "version" : "18.0.0,1800",
-      "versionDate" : "2022-07-13T00:00:00Z"
+      "version" : "18.1.0,1810",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -13995,7 +13995,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.1.2/siyuan-2.1.2-mac.dmg",
+      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.1.3/siyuan-2.1.3-mac.dmg",
       "fundingLinks" : [
         {
           "platform" : "OPEN_COLLECTIVE",
@@ -14010,15 +14010,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-siyuan/AppIcon.png",
       "localizedDescription" : "Local-first personal knowledge management system",
       "name" : "SiYuan",
-      "sha256" : "bc7638920c571d49a2bd212af715e91407135bdcf143c074146be907e367e6e7",
+      "sha256" : "99f32b68e922a83151dbad1a954c1c1e000870e26e6f87ccfda4eb56e400f474",
       "stats" : {
         "downloadCount" : 35,
         "impressionCount" : 358
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
-      "version" : "2.1.2",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "2.1.3",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -18930,8 +18930,8 @@
       },
       "subtitle" : "Media file tag editor",
       "tintColor" : "3F7AA6",
-      "version" : "6.10.5,11089",
-      "versionDate" : "2022-07-07T00:00:00Z"
+      "version" : "6.10.5.1,11090",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -22009,19 +22009,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://boinc.berkeley.edu/dl/boinc_7.16.21_macOSX_universal.zip",
+      "downloadURL" : "https://boinc.berkeley.edu/dl/boinc_7.20.2_macOSX_universal.zip",
       "homepage" : "https://boinc.berkeley.edu/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-boinc/AppIcon.png",
       "localizedDescription" : "Downloads scientific computing jobs and runs them invisibly in the background",
       "name" : "Berkeley Open Infrastructure for Network Computing",
-      "sha256" : "ad00220f8d83e1a8890475ec1ddf192fbc27b87ec34e3c71e4c87ec1c9d5898e",
+      "sha256" : "34bbcfca18915294e5da18110a0e8c302effa1dbe1ae0eca9dd5e40d3a8b3a98",
       "stats" : {
         "downloadCount" : 12,
         "impressionCount" : 23
       },
       "subtitle" : "Downloads scientific computing jobs and runs them invisibly in the background",
       "tintColor" : "959685",
-      "version" : "7.16.21"
+      "version" : "7.20.2",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -22714,19 +22715,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/Chia-Network/chia-blockchain/releases/download/1.4.0/Chia-1.4.0.dmg",
+      "downloadURL" : "https://github.com/Chia-Network/chia-blockchain/releases/download/1.5.0/Chia-1.5.0.dmg",
       "homepage" : "https://www.chia.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chia/AppIcon.png",
       "localizedDescription" : "GUI Python implementation for the Chia blockchain",
       "name" : "Chia Blockchain",
-      "sha256" : "80d2cb26e90306b7fea7ca9fb00dfb1a89df1ae3f6e0d9c53f792c9edd8359f7",
+      "sha256" : "0db183c1ffb31badbc77899f2cdafaca33eca5432d2f3f01c4cf21f614b663c5",
       "stats" : {
         "downloadCount" : 11,
         "impressionCount" : 272
       },
       "subtitle" : "GUI Python implementation for the Chia blockchain",
       "tintColor" : "D2EBD9",
-      "version" : "1.4.0"
+      "version" : "1.5.0",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -23626,19 +23628,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://download.mindjet.com/MindManager_Mac_22.1.159.dmg",
+      "downloadURL" : "https://download.mindjet.com/MindManager_Mac_22.2.133.dmg",
       "homepage" : "https://www.mindjet.com/mindmanager/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mindjet-mindmanager/AppIcon.png",
       "localizedDescription" : "Mind Mapping Tool",
       "name" : "Mindmanager",
-      "sha256" : "eab569648f6c260aa1f65082d67028cb9fa1b3d5585a239584788c786b14caee",
+      "sha256" : "da225dcba4b19812f73644eeb99c42f2984937c5c711e375c52665171f263ca6",
       "stats" : {
         "downloadCount" : 10,
         "impressionCount" : 170
       },
       "subtitle" : "Mind Mapping Tool",
       "tintColor" : "94A1CD",
-      "version" : "22.1.159"
+      "version" : "22.2.133",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -27608,20 +27611,20 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://gridsapp.net/bin/Grids_8.1.zip",
+      "downloadURL" : "https://gridsapp.net/bin/Grids_8.1.1.zip",
       "homepage" : "https://gridsapp.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-grids/AppIcon.png",
       "localizedDescription" : "Instagram desktop application",
       "name" : "Grids",
-      "sha256" : "1b536ebb94857ec046ddcb258dd88e64ab348baa0a8c59a89119e18fa7506d11",
+      "sha256" : "0ff9795c82edcf887e74f65ba9be0fb24f2c4fc52086dc6f0fe8cd06406eebda",
       "stats" : {
         "downloadCount" : 6,
         "impressionCount" : 624
       },
       "subtitle" : "Instagram desktop application",
       "tintColor" : "EA898B",
-      "version" : "8.1",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "8.1.1",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -33841,20 +33844,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://assets.clay.earth/desktop/mac/Clay-1.9.10.dmg",
+      "downloadURL" : "https://assets.clay.earth/desktop/mac/Clay-1.9.14.dmg",
       "homepage" : "https://clay.earth/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clay/AppIcon.png",
       "localizedDescription" : "Private rolodex to remember people better",
       "name" : "clay",
-      "sha256" : "dee948bfb41280437e8b847eae18f4b9fefe9d5ea59d5b560730d8b75647e977",
+      "sha256" : "6699a8ed97eac21984d2f7bf45f6d645ffcd7648cf143b71e104da1a73f7e5d6",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 123
       },
       "subtitle" : "Private rolodex to remember people better",
       "tintColor" : "313132",
-      "version" : "1.9.10",
-      "versionDate" : "2022-07-19T00:00:00Z"
+      "version" : "1.9.14",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -34023,19 +34026,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/cozy-labs/cozy-desktop/releases/download/v3.35.0/Cozy-Drive-3.35.0.dmg",
+      "downloadURL" : "https://github.com/cozy-labs/cozy-desktop/releases/download/v3.36.0/Cozy-Drive-3.36.0.dmg",
       "homepage" : "https://cozy.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cozy-drive/AppIcon.png",
       "localizedDescription" : "File synchronization for Cozy Cloud",
       "name" : "Cozy Drive",
-      "sha256" : "84b2366c637617fbbe03479bbe59104dc3d853508bc578a1d9e5e4e3d1457b70",
+      "sha256" : "feabd1880bb9dc9e1d9aa551e294ff6516ce42a58601327cf429cc3728e70c04",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 282
       },
       "subtitle" : "File synchronization for Cozy Cloud",
       "tintColor" : "76AEF9",
-      "version" : "3.35.0"
+      "version" : "3.36.0",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -47651,8 +47655,8 @@
       },
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
-      "version" : "10.16.1n",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "10.16.1o",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -59330,16 +59334,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Desktop_10.7.7_installer.pkg",
+      "downloadURL" : "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Remote_Desktop_10.7.8_installer.pkg",
       "homepage" : "https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-mac",
       "localizedDescription" : "Remote desktop client",
       "name" : "Microsoft Remote Desktop",
-      "sha256" : "f109329c038819c4bd75d667572154435aa96ce73e047e8a1bff0c9bc05f6973",
+      "sha256" : "9eac38256f1e152e04545c342159bfa165e11a44761384d2820c3fd0db31eaf6",
       "stats" : {
         "downloadCount" : 1860
       },
       "subtitle" : "Remote desktop client",
-      "version" : "10.7.7"
+      "version" : "10.7.8",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -59957,16 +59962,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_10.1.4_build/ghidra_10.1.4_PUBLIC_20220519.zip",
+      "downloadURL" : "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_10.1.5_build/ghidra_10.1.5_PUBLIC_20220726.zip",
       "homepage" : "https://www.ghidra-sre.org/",
       "localizedDescription" : "Software reverse engineering (SRE) suite of tools",
       "name" : "Ghidra",
-      "sha256" : "91556c77c7b00f376ca101a6026c0d079efbf24a35b09daaf80bda897318c1f1",
+      "sha256" : "17db4ba7d411d11b00d1638f163ab5d61ef38712cd68e462eb8c855ec5cfb5ed",
       "stats" : {
         "downloadCount" : 490
       },
       "subtitle" : "Software reverse engineering (SRE) suite of tools",
-      "version" : "10.1.4,20220519"
+      "version" : "10.1.5,20220726",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -60966,8 +60972,8 @@
         "downloadCount" : 190
       },
       "subtitle" : "Share, organize and collaborate on designs",
-      "version" : "4.3.3,1581",
-      "versionDate" : "2022-07-13T00:00:00Z"
+      "version" : "4.3.4,1595",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -65114,16 +65120,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.qnap.com/Storage/Utility/QNAPQsyncClientMac-5.0.3.0328.dmg",
+      "downloadURL" : "https://download.qnap.com/Storage/Utility/QNAPQsyncClientMac-5.0.4.0725.dmg",
       "homepage" : "https://www.qnap.com/en/utilities/essentials#utliity_3",
       "localizedDescription" : "Automatic file synchronization",
       "name" : "Qnap Qsync",
-      "sha256" : "9977c153f16858353df7f735e492395de75a9eec95a37761247c0c10ec626958",
+      "sha256" : "d26bbf7961724ec84c8cb2f3460c5ed8d4c49700a169470a8e154f4e792b7f83",
       "stats" : {
         "downloadCount" : 17
       },
       "subtitle" : "Automatic file synchronization",
-      "version" : "5.0.3.0328"
+      "version" : "5.0.4.0725",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -65537,7 +65544,8 @@
         "downloadCount" : 15
       },
       "subtitle" : "Free-to-play online poker",
-      "version" : "51.258"
+      "version" : "52.262",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -68034,8 +68042,8 @@
         "downloadCount" : 6
       },
       "subtitle" : "Universal chat app powered by Matrix, unifying 15 different chat networks",
-      "version" : "3.18.19",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "3.19.13",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -68323,17 +68331,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://d3huse1s6vwzq6.cloudfront.net/odrivesync.7284.pkg",
+      "downloadURL" : "https://d3huse1s6vwzq6.cloudfront.net/odrivesync.7291.pkg",
       "homepage" : "https://www.odrive.com/",
       "localizedDescription" : "Tool to make any cloud storage unified, synchronized, shareable, and encrypted",
       "name" : "odrive",
-      "sha256" : "535d423a3c760512c82d1c121f4bbc3e3ff7edf568370a90a3daf120d762c559",
+      "sha256" : "a4121bd587171acdc41eec21f1e9df65a175b9e74f362593e06d086448245b49",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "Tool to make any cloud storage unified, synchronized, shareable, and encrypted",
-      "version" : "7284",
-      "versionDate" : "2022-07-07T00:00:00Z"
+      "version" : "7291",
+      "versionDate" : "2022-07-27T06:24:34Z"
     },
     {
       "beta" : false,
@@ -73256,146 +73264,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "canva",
-      "caption" : "Canva updated from 1.47.0 to 1.48.0",
-      "date" : "2022-07-25T08:30:56Z",
-      "identifier" : "release-canva-1.48.0",
-      "title" : "New Release: Canva 1.48.0"
-    },
-    {
-      "appID" : "nrlquaker-winbox",
-      "caption" : "Winbox-mac updated from 3.36.1 to 3.37.0",
-      "date" : "2022-07-25T10:30:14Z",
-      "identifier" : "release-nrlquaker-winbox-3.37.0",
-      "title" : "New Release: Winbox-mac 3.37.0"
-    },
-    {
-      "appID" : "clocker",
-      "caption" : "Clocker updated from 22.05 to 22.06",
-      "date" : "2022-07-25T10:30:14Z",
-      "identifier" : "release-clocker-22.06",
-      "title" : "New Release: Clocker 22.06"
-    },
-    {
-      "appID" : "visual-paradigm",
-      "caption" : "Visual Paradigm updated from 16.3,20220516 to 16.3,20220622",
-      "date" : "2022-07-25T12:35:24Z",
-      "identifier" : "release-visual-paradigm-16.3,20220622",
-      "title" : "New Release: Visual Paradigm 16.3,20220622"
-    },
-    {
-      "appID" : "profind",
-      "caption" : "ProFind updated from 1.13.0,11303 to 1.14.0,11402",
-      "date" : "2022-07-25T12:35:25Z",
-      "identifier" : "release-profind-1.14.0,11402",
-      "title" : "New Release: ProFind 1.14.0,11402"
-    },
-    {
-      "appID" : "mission-control-plus",
-      "caption" : "Mission Control Plus updated from 1.17 to 1.18",
-      "date" : "2022-07-25T12:35:25Z",
-      "identifier" : "release-mission-control-plus-1.18",
-      "title" : "New Release: Mission Control Plus 1.18"
-    },
-    {
-      "appID" : "tableplus",
-      "caption" : "TablePlus updated from 4.8.0,432 to 4.8.2,436",
-      "date" : "2022-07-25T13:51:39Z",
-      "identifier" : "release-tableplus-4.8.2,436",
-      "title" : "New Release: TablePlus 4.8.2,436"
-    },
-    {
-      "appID" : "shapr3d",
-      "caption" : "Shapr3D updated from 5.172.0.3586 to 5.180.0.3642",
-      "date" : "2022-07-25T13:51:39Z",
-      "identifier" : "release-shapr3d-5.180.0.3642",
-      "title" : "New Release: Shapr3D 5.180.0.3642"
-    },
-    {
-      "appID" : "visual-paradigm-ce",
-      "caption" : "Visual Paradigm Community Edition updated from 16.3,20220516 to 16.3,20220622",
-      "date" : "2022-07-25T13:51:39Z",
-      "identifier" : "release-visual-paradigm-ce-16.3,20220622",
-      "title" : "New Release: Visual Paradigm Community Edition 16.3,20220622"
-    },
-    {
-      "appID" : "start",
-      "caption" : "START updated from 0.301.19-183 to 0.301.24-188",
-      "date" : "2022-07-25T16:29:35Z",
-      "identifier" : "release-start-0.301.24-188",
-      "title" : "New Release: START 0.301.24-188"
-    },
-    {
-      "appID" : "padloc",
-      "caption" : "Padloc updated from 3.1.3 to 4.0.0",
-      "date" : "2022-07-25T16:29:35Z",
-      "identifier" : "release-padloc-4.0.0",
-      "title" : "New Release: Padloc 4.0.0"
-    },
-    {
-      "appID" : "nudge",
-      "caption" : "Nudge 1.1.7.81411 released",
-      "date" : "2022-07-26T01:14:11Z",
-      "identifier" : "release-nudge-1.1.7.81411",
-      "title" : "New Release: Nudge 1.1.7.81411"
-    },
-    {
-      "appID" : "tau",
-      "caption" : "TAU latest released",
-      "date" : "2022-07-26T01:14:11Z",
-      "identifier" : "release-tau-latest",
-      "title" : "New Release: TAU latest"
-    },
-    {
-      "appID" : "ankama",
-      "caption" : "Ankama Launcher updated from 3.6.16 to 3.6.18",
-      "date" : "2022-07-26T04:14:08Z",
-      "identifier" : "release-ankama-3.6.18",
-      "title" : "New Release: Ankama Launcher 3.6.18"
-    },
-    {
-      "appID" : "tencent-docs",
-      "caption" : "Tencent Docs updated from 2.3.10 to 2.3.11",
-      "date" : "2022-07-26T05:20:00Z",
-      "identifier" : "release-tencent-docs-2.3.11",
-      "title" : "New Release: Tencent Docs 2.3.11"
-    },
-    {
-      "appID" : "sameboy",
-      "caption" : "SameBoy updated from 0.15.2 to 0.15.3",
-      "date" : "2022-07-26T05:20:01Z",
-      "identifier" : "release-sameboy-0.15.3",
-      "title" : "New Release: SameBoy 0.15.3"
-    },
-    {
-      "appID" : "electerm",
-      "caption" : "electerm updated from 1.22.1 to 1.22.8",
-      "date" : "2022-07-26T09:24:08Z",
-      "identifier" : "release-electerm-1.22.8",
-      "title" : "New Release: electerm 1.22.8"
-    },
-    {
-      "appID" : "geogebra",
-      "caption" : "GeoGebra updated from 6.0.721.0 to 6.0.722.0",
-      "date" : "2022-07-26T09:24:08Z",
-      "identifier" : "release-geogebra-6.0.722.0",
-      "title" : "New Release: GeoGebra 6.0.722.0"
-    },
-    {
-      "appID" : "hstracker",
-      "caption" : "Hearthstone Deck Tracker updated from 2.1.13 to 2.1.14",
-      "date" : "2022-07-26T09:24:08Z",
-      "identifier" : "release-hstracker-2.1.14",
-      "title" : "New Release: Hearthstone Deck Tracker 2.1.14"
-    },
-    {
-      "appID" : "browserstacklocal",
-      "caption" : "BrowserStack Local Testing updated from 3.4.3 to 3.5.0",
-      "date" : "2022-07-26T09:24:08Z",
-      "identifier" : "release-browserstacklocal-3.5.0",
-      "title" : "New Release: BrowserStack Local Testing 3.5.0"
-    },
-    {
       "appID" : "datadog-agent",
       "caption" : "Datadog Agent updated from 7.37.1-1 to 7.38.0-1",
       "date" : "2022-07-26T09:24:08Z",
@@ -73954,6 +73822,146 @@
       "date" : "2022-07-27T03:57:13Z",
       "identifier" : "release-tor-browser-11.5.1",
       "title" : "New Release: Tor Browser 11.5.1"
+    },
+    {
+      "appID" : "element",
+      "caption" : "Element updated from 1.11.0 to 1.11.1",
+      "date" : "2022-07-27T06:24:34Z",
+      "identifier" : "release-element-1.11.1",
+      "title" : "New Release: Element 1.11.1"
+    },
+    {
+      "appID" : "obsidian",
+      "caption" : "Obsidian updated from 0.15.8 to 0.15.9",
+      "date" : "2022-07-27T06:24:35Z",
+      "identifier" : "release-obsidian-0.15.9",
+      "title" : "New Release: Obsidian 0.15.9"
+    },
+    {
+      "appID" : "figma",
+      "caption" : "Figma updated from 116.2.3 to 116.2.4",
+      "date" : "2022-07-27T06:24:35Z",
+      "identifier" : "release-figma-116.2.4",
+      "title" : "New Release: Figma 116.2.4"
+    },
+    {
+      "appID" : "viber",
+      "caption" : "Viber updated from 18.0.0,1800 to 18.1.0,1810",
+      "date" : "2022-07-27T06:24:35Z",
+      "identifier" : "release-viber-18.1.0,1810",
+      "title" : "New Release: Viber 18.1.0,1810"
+    },
+    {
+      "appID" : "siyuan",
+      "caption" : "SiYuan updated from 2.1.2 to 2.1.3",
+      "date" : "2022-07-27T06:24:35Z",
+      "identifier" : "release-siyuan-2.1.3",
+      "title" : "New Release: SiYuan 2.1.3"
+    },
+    {
+      "appID" : "yate",
+      "caption" : "Yate updated from 6.10.5,11089 to 6.10.5.1,11090",
+      "date" : "2022-07-27T06:24:35Z",
+      "identifier" : "release-yate-6.10.5.1,11090",
+      "title" : "New Release: Yate 6.10.5.1,11090"
+    },
+    {
+      "appID" : "boinc",
+      "caption" : "Berkeley Open Infrastructure for Network Computing updated from 7.16.21 to 7.20.2",
+      "date" : "2022-07-27T06:24:35Z",
+      "identifier" : "release-boinc-7.20.2",
+      "title" : "New Release: Berkeley Open Infrastructure for Network Computing 7.20.2"
+    },
+    {
+      "appID" : "chia",
+      "caption" : "Chia Blockchain updated from 1.4.0 to 1.5.0",
+      "date" : "2022-07-27T06:24:36Z",
+      "identifier" : "release-chia-1.5.0",
+      "title" : "New Release: Chia Blockchain 1.5.0"
+    },
+    {
+      "appID" : "mindjet-mindmanager",
+      "caption" : "Mindmanager updated from 22.1.159 to 22.2.133",
+      "date" : "2022-07-27T06:24:36Z",
+      "identifier" : "release-mindjet-mindmanager-22.2.133",
+      "title" : "New Release: Mindmanager 22.2.133"
+    },
+    {
+      "appID" : "grids",
+      "caption" : "Grids updated from 8.1 to 8.1.1",
+      "date" : "2022-07-27T06:24:36Z",
+      "identifier" : "release-grids-8.1.1",
+      "title" : "New Release: Grids 8.1.1"
+    },
+    {
+      "appID" : "clay",
+      "caption" : "clay updated from 1.9.10 to 1.9.14",
+      "date" : "2022-07-27T06:24:36Z",
+      "identifier" : "release-clay-1.9.14",
+      "title" : "New Release: clay 1.9.14"
+    },
+    {
+      "appID" : "cozy-drive",
+      "caption" : "Cozy Drive updated from 3.35.0 to 3.36.0",
+      "date" : "2022-07-27T06:24:36Z",
+      "identifier" : "release-cozy-drive-3.36.0",
+      "title" : "New Release: Cozy Drive 3.36.0"
+    },
+    {
+      "appID" : "trader-workstation",
+      "caption" : "Trader Workstation updated from 10.16.1n to 10.16.1o",
+      "date" : "2022-07-27T06:24:36Z",
+      "identifier" : "release-trader-workstation-10.16.1o",
+      "title" : "New Release: Trader Workstation 10.16.1o"
+    },
+    {
+      "appID" : "microsoft-remote-desktop",
+      "caption" : "Microsoft Remote Desktop updated from 10.7.7 to 10.7.8",
+      "date" : "2022-07-27T06:24:36Z",
+      "identifier" : "release-microsoft-remote-desktop-10.7.8",
+      "title" : "New Release: Microsoft Remote Desktop 10.7.8"
+    },
+    {
+      "appID" : "ghidra",
+      "caption" : "Ghidra updated from 10.1.4,20220519 to 10.1.5,20220726",
+      "date" : "2022-07-27T06:24:37Z",
+      "identifier" : "release-ghidra-10.1.5,20220726",
+      "title" : "New Release: Ghidra 10.1.5,20220726"
+    },
+    {
+      "appID" : "zeplin",
+      "caption" : "Zeplin updated from 4.3.3,1581 to 4.3.4,1595",
+      "date" : "2022-07-27T06:24:37Z",
+      "identifier" : "release-zeplin-4.3.4,1595",
+      "title" : "New Release: Zeplin 4.3.4,1595"
+    },
+    {
+      "appID" : "qsync-client",
+      "caption" : "Qnap Qsync updated from 5.0.3.0328 to 5.0.4.0725",
+      "date" : "2022-07-27T06:24:37Z",
+      "identifier" : "release-qsync-client-5.0.4.0725",
+      "title" : "New Release: Qnap Qsync 5.0.4.0725"
+    },
+    {
+      "appID" : "pokerstars",
+      "caption" : "PokerStars updated from 51.258 to 52.262",
+      "date" : "2022-07-27T06:24:37Z",
+      "identifier" : "release-pokerstars-52.262",
+      "title" : "New Release: PokerStars 52.262"
+    },
+    {
+      "appID" : "beeper",
+      "caption" : "Beeper updated from 3.18.19 to 3.19.13",
+      "date" : "2022-07-27T06:24:37Z",
+      "identifier" : "release-beeper-3.19.13",
+      "title" : "New Release: Beeper 3.19.13"
+    },
+    {
+      "appID" : "odrive",
+      "caption" : "odrive updated from 7284 to 7291",
+      "date" : "2022-07-27T06:24:37Z",
+      "identifier" : "release-odrive-7291",
+      "title" : "New Release: odrive 7291"
     }
   ],
   "platform" : "macos",

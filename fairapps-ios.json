@@ -31,10 +31,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 102,
-        "impressionCount" : 523,
+        "impressionCount" : 542,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 79,
+        "viewCount" : 84,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -72,10 +72,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 128,
-        "impressionCount" : 322,
+        "impressionCount" : 340,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 40,
+        "viewCount" : 43,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -108,10 +108,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1875,
+        "impressionCount" : 1891,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 173,
+        "viewCount" : 176,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -143,10 +143,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1235,
+        "impressionCount" : 1251,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 93,
+        "viewCount" : 97,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -181,10 +181,10 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 4,
-        "impressionCount" : 866,
+        "impressionCount" : 882,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 61,
+        "viewCount" : 65,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -216,10 +216,10 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1237,
+        "impressionCount" : 1253,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 90,
+        "viewCount" : 94,
         "watcherCount" : 0
       },
       "subtitle" : "A true Festivus celebration",
@@ -251,10 +251,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1271,
+        "impressionCount" : 1286,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 88,
+        "viewCount" : 91,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -289,10 +289,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 865,
+        "impressionCount" : 881,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 59,
+        "viewCount" : 62,
         "watcherCount" : 0
       },
       "subtitle" : "Identify ambient sounds.",
@@ -331,10 +331,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 32,
-        "impressionCount" : 648,
+        "impressionCount" : 667,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 44,
+        "viewCount" : 47,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -375,10 +375,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 626,
+        "impressionCount" : 644,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 38,
+        "viewCount" : 41,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -410,10 +410,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 512,
+        "impressionCount" : 529,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 33,
+        "viewCount" : 35,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -445,10 +445,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1097,
+        "impressionCount" : 1108,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 58,
+        "viewCount" : 61,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -480,10 +480,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 926,
+        "impressionCount" : 936,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 51,
+        "viewCount" : 53,
         "watcherCount" : 0
       },
       "subtitle" : "A name picking app",
@@ -526,10 +526,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 2914,
+        "impressionCount" : 2925,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 463,
+        "viewCount" : 466,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -588,7 +588,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 9,
-        "impressionCount" : 281,
+        "impressionCount" : 283,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -626,7 +626,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 9,
-        "impressionCount" : 231,
+        "impressionCount" : 232,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 15,
@@ -661,10 +661,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 370,
+        "impressionCount" : 376,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 43,
+        "viewCount" : 46,
         "watcherCount" : 0
       },
       "subtitle" : "Watch the Watchers",
@@ -749,10 +749,10 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 5,
-        "impressionCount" : 361,
+        "impressionCount" : 369,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 53,
+        "viewCount" : 58,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -798,10 +798,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 381,
+        "impressionCount" : 392,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 38,
+        "viewCount" : 43,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -834,10 +834,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1034,
+        "impressionCount" : 1043,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 59,
+        "viewCount" : 65,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -869,10 +869,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 479,
+        "impressionCount" : 488,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 38,
+        "viewCount" : 42,
         "watcherCount" : 0
       },
       "subtitle" : "A little quiz game",
@@ -912,10 +912,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 39,
-        "impressionCount" : 176,
+        "impressionCount" : 186,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 22,
+        "viewCount" : 25,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -948,10 +948,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 330,
+        "impressionCount" : 337,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 24,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "Unleash your inner dialog",
@@ -983,10 +983,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 402,
+        "impressionCount" : 408,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 46,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "A bit of lite reading",
@@ -1018,10 +1018,10 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 4,
-        "impressionCount" : 368,
+        "impressionCount" : 374,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 30,
+        "viewCount" : 32,
         "watcherCount" : 0
       },
       "subtitle" : "An unclear app",
@@ -1088,10 +1088,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1258,
+        "impressionCount" : 1270,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 36,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "Old-time horse trading",

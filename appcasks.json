@@ -1570,7 +1570,7 @@
       "subtitle" : "Web browser focusing on security",
       "tintColor" : "8236A8",
       "version" : "11.5.1",
-      "versionDate" : "2022-07-27T03:57:12Z"
+      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28793,12 +28793,14 @@
       "downloadURL" : "https://github.com/billziss-gh/EnergyBar/releases/download/v1.7/EnergyBar-1.7.19321.zip",
       "homepage" : "https://github.com/billziss-gh/EnergyBar",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-energybar/AppIcon.png",
+      "localizedDescription" : "Touch Bar widget application",
       "name" : "EnergyBar",
       "sha256" : "96c06a93d5916001306af401046295926bf38996d767365c199131e068d85627",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 194
       },
+      "subtitle" : "Touch Bar widget application",
       "tintColor" : "55517E",
       "version" : "1.7.19321"
     },
@@ -61080,7 +61082,7 @@
       "homepage" : "https://eqmac.app/",
       "localizedDescription" : "System-wide audio equalizer",
       "name" : "eqMac",
-      "sha256" : "a78828dd61ffcbfa434b6ffa0574c445b1181c97733957b7bc71040fdd2decbf",
+      "sha256" : "56ea5d4852d57df7060596167c0701be187b5fa4e53ada19fbc3133132bf1e0a",
       "stats" : {
         "downloadCount" : 163
       },

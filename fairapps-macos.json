@@ -7,14 +7,14 @@
 
       ],
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.85/App-Fair-macOS.zip",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.88/App-Fair-macOS.zip",
       "fundingLinks" : [
 
       ],
       "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.85/App-Fair.png",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.88/App-Fair.png",
       "localizedDescription" : "Open-source browser and installer for macOS apps and Homebrew casks",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.85/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.88/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
       "name" : "App Fair",
       "permissions" : [
         {
@@ -22,53 +22,53 @@
           "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
         },
         {
-          "type" : "com.apple.security.files.user-selected.executable",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
           "type" : "com.apple.security.network.server",
           "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "type" : "com.apple.security.files.user-selected.read-write",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
         },
         {
           "type" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
           "usageDescription" : "The App Fair uses the local file system to install apps"
         },
         {
-          "type" : "com.apple.security.files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
+          "type" : "com.apple.security.files.user-selected.executable",
+          "usageDescription" : "The App Fair installs executable apps"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.85/README.md#2e818c0471081243bb5e49364e7923152dcd8a36dcd5c596bd8fe699d74c76e1",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.88/README.md#2e818c0471081243bb5e49364e7923152dcd8a36dcd5c596bd8fe699d74c76e1",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_00-mac-dark-2864x1950.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_00-mac-dark-3078x2044.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_00-mac-light-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.85/screenshot_06-mac-dark-1424x1722.png"
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_00-mac-dark-2864x1950.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_00-mac-dark-3078x2044.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_00-mac-light-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_06-mac-dark-1424x1722.png"
       ],
-      "sha256" : "557479d858743e98b31ff34e1503269391ad4a4ddadc574f2fb51c9414aef6c4",
-      "size" : 9484000,
+      "sha256" : "fb2826fd8502419636962cdb42fdbdf5559f74c289bf9a35a37ea19b134a77ac",
+      "size" : 9560008,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 264,
-        "impressionCount" : 213,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 5,
         "starCount" : 25,
-        "viewCount" : 20,
+        "viewCount" : 1,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for macOS apps and Homebrew casks",
       "tintColor" : "1594E8",
-      "version" : "0.8.85",
-      "versionDate" : "2022-07-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.84...0.8.85"
+      "version" : "0.8.88",
+      "versionDate" : "2022-07-28T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.87...0.8.88"
     },
     {
       "beta" : true,
@@ -94,7 +94,7 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 20,
-        "impressionCount" : 631,
+        "impressionCount" : 637,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 76,
@@ -144,10 +144,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3181,
+        "impressionCount" : 3192,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 553,
+        "viewCount" : 554,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -191,10 +191,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 57,
-        "impressionCount" : 854,
+        "impressionCount" : 877,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 95,
+        "viewCount" : 99,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -210,41 +210,41 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/Cloud-Cuckoo-macOS.zip",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/Cloud-Cuckoo.png",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.140/screenshot_06-mac-1656x1560.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "c5ee8eee18487c8bd5b7cf107e9fde7c91638ce1f8313a2a46fa9d48f6158f5b",
-      "size" : 2114534,
+      "sha256" : "d4d7f35031f7dee837ca8fb0afddd7a683f85d412dd62816c98708d8ec881270",
+      "size" : 2153078,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 47,
-        "impressionCount" : 687,
+        "downloadCount" : 3,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 60,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.140",
-      "versionDate" : "2022-07-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.139...0.9.140"
+      "version" : "0.9.141",
+      "versionDate" : "2022-07-28T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.140...0.9.141"
     },
     {
       "beta" : true,
@@ -273,10 +273,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2106,
+        "impressionCount" : 2134,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 180,
+        "viewCount" : 187,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -312,10 +312,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 10,
-        "impressionCount" : 1418,
+        "impressionCount" : 1441,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 101,
+        "viewCount" : 106,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -350,10 +350,10 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 6,
-        "impressionCount" : 1031,
+        "impressionCount" : 1049,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 69,
+        "viewCount" : 73,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -385,7 +385,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 7,
-        "impressionCount" : 589,
+        "impressionCount" : 595,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -423,10 +423,10 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1400,
+        "impressionCount" : 1419,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 97,
+        "viewCount" : 101,
         "watcherCount" : 0
       },
       "subtitle" : "A true Festivus celebration",
@@ -462,10 +462,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1433,
+        "impressionCount" : 1450,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 93,
+        "viewCount" : 96,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -500,10 +500,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1027,
+        "impressionCount" : 1044,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 64,
+        "viewCount" : 67,
         "watcherCount" : 0
       },
       "subtitle" : "Identify ambient sounds.",
@@ -544,10 +544,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1001,
+        "impressionCount" : 1027,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 58,
+        "viewCount" : 62,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -580,7 +580,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 708,
+        "impressionCount" : 714,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 49,
@@ -622,10 +622,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 960,
+        "impressionCount" : 989,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 51,
+        "viewCount" : 56,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -661,10 +661,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 767,
+        "impressionCount" : 787,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 42,
+        "viewCount" : 45,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -700,10 +700,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1165,
+        "impressionCount" : 1176,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 62,
+        "viewCount" : 65,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -739,7 +739,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 7,
-        "impressionCount" : 618,
+        "impressionCount" : 621,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -778,10 +778,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 985,
+        "impressionCount" : 997,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 53,
+        "viewCount" : 56,
         "watcherCount" : 0
       },
       "subtitle" : "A name picking app",
@@ -828,10 +828,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3008,
+        "impressionCount" : 3026,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 468,
+        "viewCount" : 473,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -890,7 +890,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 4,
-        "impressionCount" : 149,
+        "impressionCount" : 153,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 23,
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2473,
+        "impressionCount" : 2476,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 453,
@@ -970,10 +970,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 378,
+        "impressionCount" : 387,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 46,
+        "viewCount" : 49,
         "watcherCount" : 0
       },
       "subtitle" : "Watch the Watchers",
@@ -1010,10 +1010,10 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 824,
+        "impressionCount" : 832,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 55,
+        "viewCount" : 57,
         "watcherCount" : 0
       },
       "subtitle" : "무궁화 꽃이 피었습니다",
@@ -1060,7 +1060,7 @@
       "stats" : {
         "coreSize" : 152704,
         "downloadCount" : 8,
-        "impressionCount" : 342,
+        "impressionCount" : 344,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -1095,7 +1095,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 851,
+        "impressionCount" : 857,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -1135,10 +1135,10 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 7,
-        "impressionCount" : 378,
+        "impressionCount" : 389,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 58,
+        "viewCount" : 62,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -1181,10 +1181,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 5,
-        "impressionCount" : 570,
+        "impressionCount" : 591,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 48,
+        "viewCount" : 54,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1221,7 +1221,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
-        "impressionCount" : 391,
+        "impressionCount" : 394,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -1259,10 +1259,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1066,
+        "impressionCount" : 1084,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 65,
+        "viewCount" : 72,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1298,10 +1298,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 516,
+        "impressionCount" : 530,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 42,
+        "viewCount" : 47,
         "watcherCount" : 0
       },
       "subtitle" : "A little quiz game",
@@ -1343,11 +1343,11 @@
       "size" : 9466880,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 49,
-        "impressionCount" : 380,
+        "downloadCount" : 51,
+        "impressionCount" : 404,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 33,
+        "viewCount" : 38,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -1380,10 +1380,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 339,
+        "impressionCount" : 350,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 27,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "Unleash your inner dialog",
@@ -1421,10 +1421,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 409,
+        "impressionCount" : 421,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 48,
+        "viewCount" : 53,
         "watcherCount" : 0
       },
       "subtitle" : "A bit of lite reading",
@@ -1456,10 +1456,10 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 3,
-        "impressionCount" : 375,
+        "impressionCount" : 386,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 32,
+        "viewCount" : 36,
         "watcherCount" : 0
       },
       "subtitle" : "An unclear app",
@@ -1491,7 +1491,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 8,
-        "impressionCount" : 578,
+        "impressionCount" : 580,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -1529,10 +1529,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1405,
+        "impressionCount" : 1423,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 37,
+        "viewCount" : 39,
         "watcherCount" : 0
       },
       "subtitle" : "Old-time horse trading",
@@ -1577,13 +1577,6 @@
       "title" : "New Release: Stanza Redux 0.3.38"
     },
     {
-      "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo updated from 0.9.138 to 0.9.140",
-      "date" : "2022-07-22T21:18:24Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.140",
-      "title" : "New Release: Cloud Cuckoo 0.9.140"
-    },
-    {
       "appID" : "app.Tune-Out",
       "caption" : "Tune Out updated from 0.8.446 to 0.8.447",
       "date" : "2022-07-22T21:18:24Z",
@@ -1592,10 +1585,17 @@
     },
     {
       "appID" : "app.App-Fair",
-      "caption" : "App Fair updated from 0.8.84 to 0.8.85",
-      "date" : "2022-07-22T21:26:51Z",
-      "identifier" : "release-app.App-Fair-0.8.85",
-      "title" : "New Release: App Fair 0.8.85"
+      "caption" : "App Fair updated from 0.8.85 to 0.8.88",
+      "date" : "2022-07-28T22:19:00Z",
+      "identifier" : "release-app.App-Fair-0.8.88",
+      "title" : "New Release: App Fair 0.8.88"
+    },
+    {
+      "appID" : "app.Cloud-Cuckoo",
+      "caption" : "Cloud Cuckoo updated from 0.9.140 to 0.9.141",
+      "date" : "2022-07-28T22:19:01Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.141",
+      "title" : "New Release: Cloud Cuckoo 0.9.141"
     }
   ],
   "platform" : "macos"

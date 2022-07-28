@@ -25,8 +25,8 @@
       "sha256" : "015039368cd198945f057bc756dbeaaf597d3f318b142de1659b62ed1db83441",
       "stats" : {
         "downloadCount" : 2745,
-        "impressionCount" : 8469,
-        "viewCount" : 863
+        "impressionCount" : 8471,
+        "viewCount" : 864
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -57,7 +57,7 @@
       "sha256" : "228e515764e0484adb84e31b94791528996a538214d0280a4db9f4fe6eb67750",
       "stats" : {
         "downloadCount" : 14243,
-        "impressionCount" : 7235,
+        "impressionCount" : 7237,
         "viewCount" : 845
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8018,
-        "impressionCount" : 6411,
+        "impressionCount" : 6413,
         "viewCount" : 597
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29035,
-        "impressionCount" : 6545,
+        "impressionCount" : 6547,
         "viewCount" : 544
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7817,
-        "impressionCount" : 6733,
+        "impressionCount" : 6735,
         "viewCount" : 579
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5426,
-        "impressionCount" : 6535,
+        "impressionCount" : 6537,
         "viewCount" : 449
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3052,
-        "impressionCount" : 6022,
+        "impressionCount" : 6023,
         "viewCount" : 481
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "0bfbe8a0109c827a45ae74342e826e81c9c7f7b2471545199a25591a3594ce1b",
       "stats" : {
         "downloadCount" : 2633,
-        "impressionCount" : 6790,
+        "impressionCount" : 6791,
         "viewCount" : 512
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -264,7 +264,7 @@
       ],
       "stats" : {
         "downloadCount" : 2493,
-        "impressionCount" : 5077,
+        "impressionCount" : 5078,
         "viewCount" : 337
       },
       "subtitle" : "Video game digital distribution service",
@@ -297,7 +297,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2108,
-        "impressionCount" : 6715,
+        "impressionCount" : 6716,
         "viewCount" : 774
       },
       "subtitle" : "File archiver",
@@ -323,7 +323,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1809,
-        "impressionCount" : 5725,
+        "impressionCount" : 5726,
         "viewCount" : 378
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -1994,7 +1994,7 @@
       "sha256" : "336ac944cf473a9832b703d8eaa3df8016831ce6c15e0062338d1d23c6dc0e40",
       "stats" : {
         "downloadCount" : 590,
-        "impressionCount" : 2251,
+        "impressionCount" : 2252,
         "viewCount" : 166
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -7394,7 +7394,7 @@
       "sha256" : "bf45931af4bcced57c4aac81f916fb6466ee5fc5ff33788ae70b81c53ae052aa",
       "stats" : {
         "downloadCount" : 158,
-        "impressionCount" : 264
+        "impressionCount" : 265
       },
       "subtitle" : "WordPress local development tool by Flywheel",
       "tintColor" : "6ED697",
@@ -28748,7 +28748,7 @@
       "name" : "DevKinsta",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 233
+        "impressionCount" : 234
       },
       "subtitle" : "Local WordPress Development Suite by Kinsta",
       "tintColor" : "5F49CF",
@@ -54575,7 +54575,7 @@
       "sha256" : "ae458d82235aabedb2e32f12e514f69b3c931ca8b1f63cf7d271e3243de8bc97",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 32
+        "impressionCount" : 33
       },
       "subtitle" : "Create, design and alter an SQLite3 database",
       "tintColor" : "A4A6A8",
@@ -67201,6 +67201,23 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "blocs",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://blocsapp.com/download/Blocs.zip",
+      "homepage" : "https://blocsapp.com/",
+      "localizedDescription" : "Visual web design software",
+      "name" : "Blocs",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "subtitle" : "Visual web design software",
+      "version" : "4.5.2,452",
+      "versionDate" : "2022-07-04T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "chatty",
       "categories" : [
 
@@ -67540,23 +67557,6 @@
       "subtitle" : "Installer for Ukrainian Unicode layout",
       "version" : "1.2.2",
       "versionDate" : "2022-07-25T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "blocs",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://blocsapp.com/download/Blocs.zip",
-      "homepage" : "https://blocsapp.com/",
-      "localizedDescription" : "Visual web design software",
-      "name" : "Blocs",
-      "stats" : {
-        "downloadCount" : 7
-      },
-      "subtitle" : "Visual web design software",
-      "version" : "4.5.2,452",
-      "versionDate" : "2022-07-04T00:00:00Z"
     },
     {
       "beta" : false,

@@ -31,7 +31,7 @@
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
       "version" : "5.52.0",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -474,7 +474,7 @@
       "subtitle" : "Sandbox construction video game",
       "tintColor" : "53552D",
       "version" : "1.1.26",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1299,7 +1299,7 @@
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
       "version" : "3.6.7",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1754,7 +1754,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "D71E28",
       "version" : "89.0.4447.71",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3589,7 +3589,7 @@
       "subtitle" : "Kubernetes and container management on the desktop",
       "tintColor" : "389ACA",
       "version" : "1.5.0",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5906,7 +5906,7 @@
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
       "version" : "3.8.0,1658842472",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7179,7 +7179,7 @@
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
       "version" : "19.0.10",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8449,7 +8449,7 @@
       "subtitle" : "Remote pair programming app",
       "tintColor" : "616CBA",
       "version" : "0.98.2,2022-07-27,99364aa15",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13353,7 +13353,7 @@
       "subtitle" : "Javascript Secrets Vault - Multi-Platform Desktop Application",
       "tintColor" : "47BAA8",
       "version" : "2.16.0",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20717,7 +20717,7 @@
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
       "version" : "1.85.0,stable.2,4456590",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21431,7 +21431,7 @@
       "subtitle" : "Diagram software",
       "tintColor" : "7CBCF9",
       "version" : "12.0.1",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22639,7 +22639,7 @@
       "subtitle" : "Performance analysis software",
       "tintColor" : "E70E3F",
       "version" : "1.17.23",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23195,7 +23195,7 @@
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
       "version" : "0.11.21",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25164,7 +25164,7 @@
       "subtitle" : "Music streaming and sharing platform",
       "tintColor" : "852DBB",
       "version" : "1.2.1",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33535,7 +33535,7 @@
       "subtitle" : "Trading platform",
       "tintColor" : "C3AB00",
       "version" : "7.17.10,20220727,6EF41C",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35028,7 +35028,7 @@
       "subtitle" : "Instant messaging platform",
       "tintColor" : "F6F6FB",
       "version" : "3.53.0",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35089,7 +35089,7 @@
       "subtitle" : "PlayStation 2 emulator",
       "tintColor" : "7E80DF",
       "version" : "2022-07-25,47b43033",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40646,7 +40646,7 @@
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
       "version" : "3.6.7",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51334,7 +51334,7 @@
       "subtitle" : "Minecraft mod downloader and manager",
       "tintColor" : "947B4F",
       "version" : "202207271710,0f9644f5fc",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54445,7 +54445,7 @@
       "subtitle" : "Personal booru-style media tagger to organize your media",
       "tintColor" : "000000",
       "version" : "493",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57499,7 +57499,7 @@
       "subtitle" : "Browser history and bookmarks keyword search",
       "tintColor" : "E15F5E",
       "version" : "2.3.3,9012",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60885,7 +60885,7 @@
       },
       "subtitle" : "Remote desktop",
       "version" : "150.84.3",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -63491,7 +63491,7 @@
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
       "version" : "2022.3.1,2022-07-28-04-06",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64759,7 +64759,7 @@
       },
       "subtitle" : "Binary authorization system",
       "version" : "2022.7",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66763,7 +66763,7 @@
       },
       "subtitle" : "Design, animate, and prototype design tool from Facebook",
       "version" : "120.0.0.6.217,385920162",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -68618,7 +68618,7 @@
       },
       "subtitle" : "Create and share augmented reality experiences using the Facebook family of apps",
       "version" : "143",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -70654,7 +70654,7 @@
       },
       "subtitle" : "Lua-based game engine",
       "version" : "2022.3676",
-      "versionDate" : "2022-07-28T09:26:32Z"
+      "versionDate" : "2022-07-28T00:00:00Z"
     },
     {
       "beta" : false,

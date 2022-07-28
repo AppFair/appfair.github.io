@@ -6,7 +6,7 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.51.1.dmg",
+      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.52.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
       "localizedDescription" : "Instant messaging application focusing on security",
@@ -22,7 +22,7 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_07-mac-1624x1624.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_08-mac-1958x1532.png"
       ],
-      "sha256" : "015039368cd198945f057bc756dbeaaf597d3f318b142de1659b62ed1db83441",
+      "sha256" : "2c3b795c5682a0270e647e5ca47dc697239f26078e15648b4721d22bea98dfe3",
       "stats" : {
         "downloadCount" : 2745,
         "impressionCount" : 8471,
@@ -30,8 +30,8 @@
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
-      "version" : "5.51.1",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "5.52.0",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -473,7 +473,8 @@
       },
       "subtitle" : "Sandbox construction video game",
       "tintColor" : "53552D",
-      "version" : "1.0.1222"
+      "version" : "1.1.26",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -1283,13 +1284,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://2.na.dl.wireshark.org/osx/Wireshark%203.6.6%20Intel%2064.dmg",
+      "downloadURL" : "https://2.na.dl.wireshark.org/osx/Wireshark%203.6.7%20Intel%2064.dmg",
       "homepage" : "https://www.wireshark.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark/AppIcon.png",
       "localizedDescription" : "Network protocol analyzer",
       "name" : "Wireshark",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark/README.md",
-      "sha256" : "1ddd2b1fc9a8de008c09c02a2179f4280e8f1ac925a7e1d2ec9b4f0fc41f7614",
+      "sha256" : "930fd418cf4b966b1299ceacd888ebd0705cf44269027cf375acc94cb7af49e8",
       "stats" : {
         "downloadCount" : 2402,
         "impressionCount" : 1339,
@@ -1297,7 +1298,8 @@
       },
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
-      "version" : "3.6.6"
+      "version" : "3.6.7",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -1737,13 +1739,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://get.geo.opera.com/pub/opera/desktop/89.0.4447.51/mac/Opera_89.0.4447.51_Setup.dmg",
+      "downloadURL" : "https://get.geo.opera.com/pub/opera/desktop/89.0.4447.71/mac/Opera_89.0.4447.71_Setup.dmg",
       "homepage" : "https://www.opera.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-opera/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "Opera",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-opera/README.md",
-      "sha256" : "92f62abf5adcd16fec123ac6dd3c95513ebf3e5d4778c76eac7a8bef848e20c2",
+      "sha256" : "2b866c502323134dda2dd15426fc279a786b9176a5e038ff753fafbfafc2cb48",
       "stats" : {
         "downloadCount" : 995,
         "impressionCount" : 1699,
@@ -1751,8 +1753,8 @@
       },
       "subtitle" : "Web browser",
       "tintColor" : "D71E28",
-      "version" : "89.0.4447.51",
-      "versionDate" : "2022-07-19T00:00:00Z"
+      "version" : "89.0.4447.71",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -3574,19 +3576,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.4.1/Rancher.Desktop-1.4.1.x86_64.dmg",
+      "downloadURL" : "https://github.com/rancher-sandbox/rancher-desktop/releases/download/v1.5.0/Rancher.Desktop-1.5.0.x86_64.dmg",
       "homepage" : "https://rancherdesktop.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rancher/AppIcon.png",
       "localizedDescription" : "Kubernetes and container management on the desktop",
       "name" : "Rancher Desktop",
-      "sha256" : "74a4e511b22fc4db27a1c844c6ebf109f224e9cdce967a0a47c50001bc465076",
+      "sha256" : "080c3eb05e01285413f984e53dbf6204df9b9b3485208b7887353688796c6def",
       "stats" : {
         "downloadCount" : 1605,
         "impressionCount" : 344
       },
       "subtitle" : "Kubernetes and container management on the desktop",
       "tintColor" : "389ACA",
-      "version" : "1.4.1"
+      "version" : "1.5.0",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -5890,20 +5893,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://dl.devmate.com/com.setapp.DesktopClient/3.7.0/1658154274/Setapp-3.7.0.zip",
+      "downloadURL" : "https://dl.devmate.com/com.setapp.DesktopClient/3.8.0/1658842472/Setapp-3.8.0.zip",
       "homepage" : "https://setapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-setapp/AppIcon.png",
       "localizedDescription" : "Collection of apps available by subscription",
       "name" : "Setapp",
-      "sha256" : "37831e8a2c9d72cad4e79c602e5d67f5bd509ae009fffc5bc597cf51d6e33438",
+      "sha256" : "b2c54eb22423d7583614d4464deeb90858f294a425196a90b9576c897bdfa98e",
       "stats" : {
         "downloadCount" : 283,
         "impressionCount" : 272
       },
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
-      "version" : "3.7.0,1658154274",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "3.8.0,1658842472",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -7163,20 +7166,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/electron/electron/releases/download/v19.0.9/electron-v19.0.9-darwin-x64.zip",
+      "downloadURL" : "https://github.com/electron/electron/releases/download/v19.0.10/electron-v19.0.10-darwin-x64.zip",
       "homepage" : "https://electronjs.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electron/AppIcon.png",
       "localizedDescription" : "Build desktop apps with JavaScript, HTML, and CSS",
       "name" : "Electron",
-      "sha256" : "db40db62ab53d4d30efe707ebffa2487d266289cd8ad3b1eb215737ef22bbd99",
+      "sha256" : "e14707a1d2f4ac875b53fe90d19228f64d70fcea6644b56298e89d5c386e8fd9",
       "stats" : {
         "downloadCount" : 169,
         "impressionCount" : 437
       },
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
-      "version" : "19.0.9",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "19.0.10",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -8433,19 +8436,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-0.98.0-2022-06-23-3e7978c4c.zip",
+      "downloadURL" : "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-0.98.2-2022-07-27-99364aa15.zip",
       "homepage" : "https://tuple.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tuple/AppIcon.png",
       "localizedDescription" : "Remote pair programming app",
       "name" : "Tuple",
-      "sha256" : "e4cddb413ec708f2a6bae140b322f59f7cf23d8594c55bb89ea3bdaa52b6ef9a",
+      "sha256" : "aadd3a9dd9a9ee3034ce33f96894d83448b1505913e10bdad60b56453298e774",
       "stats" : {
         "downloadCount" : 112,
         "impressionCount" : 171
       },
       "subtitle" : "Remote pair programming app",
       "tintColor" : "616CBA",
-      "version" : "0.98.0,2022-06-23,3e7978c4c"
+      "version" : "0.98.2,2022-07-27,99364aa15",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -13336,20 +13340,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/buttercup/buttercup-desktop/releases/download/v2.15.1/Buttercup-mac-x64-2.15.1.dmg",
+      "downloadURL" : "https://github.com/buttercup/buttercup-desktop/releases/download/v2.16.0/Buttercup-mac-x64-2.16.0.dmg",
       "homepage" : "https://buttercup.pw/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-buttercup/AppIcon.png",
       "localizedDescription" : "Javascript Secrets Vault - Multi-Platform Desktop Application",
       "name" : "Buttercup",
-      "sha256" : "64fc115def15267dc75be44bf42a92f9db1fec359a910caa0c3a73f1e670df06",
+      "sha256" : "9a3f925f62d8d18baa3f7deba7f44ec8be456cac28e4c18c86877158d16ec6a0",
       "stats" : {
         "downloadCount" : 39,
         "impressionCount" : 467
       },
       "subtitle" : "Javascript Secrets Vault - Multi-Platform Desktop Application",
       "tintColor" : "47BAA8",
-      "version" : "2.15.1",
-      "versionDate" : "2022-07-03T00:00:00Z"
+      "version" : "2.16.0",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -20700,20 +20704,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.85.0-stable.1-ci4446427.dmg",
+      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.85.0-stable.2-ci4456590.dmg",
       "homepage" : "https://pitch.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pitch/AppIcon.png",
       "localizedDescription" : "Collaborative presentation software",
       "name" : "Pitch",
-      "sha256" : "d7d4231b1a6c348050757341708ee744fc50f850b62e628178faa7396cf9925e",
+      "sha256" : "969cd288b1e60b96a57df7cdcf8b03d39d3ffa3e00bf217dfb88567ff1f488e0",
       "stats" : {
         "downloadCount" : 15,
         "impressionCount" : 293
       },
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
-      "version" : "1.85.0,stable.1,4446427",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "1.85.0,stable.2,4456590",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -21426,7 +21430,8 @@
       },
       "subtitle" : "Diagram software",
       "tintColor" : "7CBCF9",
-      "version" : "12.0.0"
+      "version" : "12.0.1",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -22621,20 +22626,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://blitz-stable.blitz.gg/Blitz-1.17.18.dmg",
+      "downloadURL" : "https://blitz-stable.blitz.gg/Blitz-x64-1.17.23.dmg",
       "homepage" : "https://blitz.gg/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blitz/AppIcon.png",
       "localizedDescription" : "Performance analysis software",
       "name" : "Blitz",
-      "sha256" : "a09177ad42fb07b160254af4d1d5a4bca97cce575827fa554881af2e218d7a99",
+      "sha256" : "d6815ad24d61d098ca61dca946aeaaeb0caa81ed5d7b479ed458cc7a5ce9363b",
       "stats" : {
         "downloadCount" : 11,
         "impressionCount" : 523
       },
       "subtitle" : "Performance analysis software",
       "tintColor" : "E70E3F",
-      "version" : "1.17.18",
-      "versionDate" : "2022-07-23T00:00:00Z"
+      "version" : "1.17.23",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -23177,20 +23182,20 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://vrew-files.voyagerx.com/Vrew-0.11.20.dmg",
+      "downloadURL" : "https://vrew-files.voyagerx.com/Vrew-0.11.21.dmg",
       "homepage" : "https://vrew.voyagerx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vrew/AppIcon.png",
       "localizedDescription" : "Video editor",
       "name" : "vrew",
-      "sha256" : "756a2931e023722daabd8a86a762fb627db3ff7a5b698f7ac499497d7dc1664e",
+      "sha256" : "82dfcb35b5347b05c0924c0e6a997fa3cdda6ccf832991bc0dd14c1728747471",
       "stats" : {
         "downloadCount" : 11,
         "impressionCount" : 545
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
-      "version" : "0.11.20",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "0.11.21",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -25146,20 +25151,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://download.audius.co/Audius-1.2.0.dmg",
+      "downloadURL" : "https://download.audius.co/Audius-1.2.1.dmg",
       "homepage" : "https://audius.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audius/AppIcon.png",
       "localizedDescription" : "Music streaming and sharing platform",
       "name" : "Audius",
-      "sha256" : "7336090b98cc69f414fd53971d6942cd6cdbc6b6ccbba9495c34b4ffc0b864cc",
+      "sha256" : "01d99916b4724b36d4c89dde2134be0d14f2847794b3e1a9e8df977a06e5b518",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 603
       },
       "subtitle" : "Music streaming and sharing platform",
       "tintColor" : "852DBB",
-      "version" : "1.2.0",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "1.2.1",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -29657,26 +29662,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "soundcloud-downloader",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://black-burn.ch/app/SCD2/download/2.8.2",
-      "homepage" : "https://black-burn.ch/app/SCD2",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-soundcloud-downloader/AppIcon.png",
-      "localizedDescription" : "Download songs from soundcloud to a computer",
-      "name" : "SoundCloud Downloader",
-      "sha256" : "b83cded033e9fd2211171cd2bd40dfefb3e328944f81a34ec49c2a487f296b16",
-      "stats" : {
-        "downloadCount" : 5,
-        "impressionCount" : 431
-      },
-      "subtitle" : "Download songs from soundcloud to a computer",
-      "tintColor" : "89725A",
-      "version" : "2.8.2"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "startupizer",
       "categories" : [
         "public.app-category.productivity"
@@ -33537,20 +33522,20 @@
       "categories" : [
         "public.app-category.finance"
       ],
-      "downloadURL" : "https://s.tigerfintech.com/desktop/cdn/f/TigerTrade_7.17.9_20220722_6E3190.dmg",
+      "downloadURL" : "https://s.tigerfintech.com/desktop/cdn/f/TigerTrade_7.17.10_20220727_6EF41C.dmg",
       "homepage" : "https://www.tigerbrokers.com.sg/download/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tiger-trade/AppIcon.png",
       "localizedDescription" : "Trading platform",
       "name" : "Tiger Trade",
-      "sha256" : "4a4d010107019caf0e0131ac7bde72c2df1de96c72022f21688f44da6130871b",
+      "sha256" : "74b4d72c342d031752e222c66ef8a3aa503a7b31468bd7d090c02cc85b3c16a7",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 253
       },
       "subtitle" : "Trading platform",
       "tintColor" : "C3AB00",
-      "version" : "7.17.9,20220722,6E3190",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "7.17.10,20220727,6EF41C",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -35030,20 +35015,20 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://popo.netease.com/file/popomac/POPO-setup_3_52_1.dmg",
+      "downloadURL" : "https://popo.netease.com/file/popomac/POPO-setup_3_53_0.dmg",
       "homepage" : "https://popo.netease.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-popo/AppIcon.png",
       "localizedDescription" : "Instant messaging platform",
       "name" : "NetEase POPO",
-      "sha256" : "45fa238a66cb2a037765e10c9d7b85d070ee2f096367d098f37dd108345207eb",
+      "sha256" : "b34088e092448c21922bbcbf2494168882929968933e7fa888620e76c449c6ca",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 239
       },
       "subtitle" : "Instant messaging platform",
       "tintColor" : "F6F6FB",
-      "version" : "3.52.1",
-      "versionDate" : "2022-07-11T00:00:00Z"
+      "version" : "3.53.0",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -35091,20 +35076,20 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "downloadURL" : "https://s3.us-east-2.amazonaws.com/playbuilds/f4092836/Play.dmg",
+      "downloadURL" : "https://s3.us-east-2.amazonaws.com/playbuilds/47b43033/Play.dmg",
       "homepage" : "https://purei.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-purei-play/AppIcon.png",
       "localizedDescription" : "PlayStation 2 emulator",
       "name" : "Play!",
-      "sha256" : "dabcd38b3dec0d8163c135b2c1327cae2ee69f927c1d7e8926fe4d3719651c26",
+      "sha256" : "ec53b23dfd5aac9bed335eaa485d155930d840865897ef612440ebda58f50397",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 688
       },
       "subtitle" : "PlayStation 2 emulator",
       "tintColor" : "7E80DF",
-      "version" : "2022-07-25,f4092836",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "2022-07-25,47b43033",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -40648,19 +40633,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.wireshark.org/download/osx/Wireshark%203.6.6%20Intel%2064.dmg",
+      "downloadURL" : "https://www.wireshark.org/download/osx/Wireshark%203.6.7%20Intel%2064.dmg",
       "homepage" : "https://www.wireshark.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark-chmodbpf/AppIcon.png",
       "localizedDescription" : "Network protocol analyzer",
       "name" : "Wireshark-ChmodBPF",
-      "sha256" : "1ddd2b1fc9a8de008c09c02a2179f4280e8f1ac925a7e1d2ec9b4f0fc41f7614",
+      "sha256" : "930fd418cf4b966b1299ceacd888ebd0705cf44269027cf375acc94cb7af49e8",
       "stats" : {
         "downloadCount" : 361,
         "impressionCount" : 13
       },
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
-      "version" : "3.6.6"
+      "version" : "3.6.7",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -51335,19 +51321,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://apps.modpacks.ch/FTBApp/release/202206081143-2e021f8e74-release/FTBA_macos_202206081143-2e021f8e74-release.dmg",
+      "downloadURL" : "https://apps.modpacks.ch/FTBApp/release/202207271710-0f9644f5fc-release/FTBA_macos_202207271710-0f9644f5fc-release.dmg",
       "homepage" : "https://www.feed-the-beast.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-feed-the-beast/AppIcon.png",
       "localizedDescription" : "Minecraft mod downloader and manager",
       "name" : "Feed the Beast",
-      "sha256" : "74163fc744db3cd4fa25f56999820d8e8fbbf82f999c95d4bba6897538b98308",
+      "sha256" : "70dd050c48e18680461593368fd2a5b92f84f2f61ecb4d1eefa4be3e05fef57e",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 28
       },
       "subtitle" : "Minecraft mod downloader and manager",
       "tintColor" : "947B4F",
-      "version" : "202206081143,2e021f8e74"
+      "version" : "202207271710,0f9644f5fc",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -54445,20 +54432,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/hydrusnetwork/hydrus/releases/download/v492/Hydrus.Network.492.-.macOS.-.App.dmg",
+      "downloadURL" : "https://github.com/hydrusnetwork/hydrus/releases/download/v493/Hydrus.Network.493.-.macOS.-.App.dmg",
       "homepage" : "https://hydrusnetwork.github.io/hydrus/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hydrus-network/AppIcon.png",
       "localizedDescription" : "Personal booru-style media tagger to organize your media",
       "name" : "hydrus-network",
-      "sha256" : "b37289d3278a01405cff1feeee9de3b58d9f3cc880676b30f2b9ca280469d691",
+      "sha256" : "7f7202149bfebb82e20bd088995e9c8e4d5c72dcc49b9efbc1f1cb375d017ed9",
       "stats" : {
         "downloadCount" : 4,
         "impressionCount" : 68
       },
       "subtitle" : "Personal booru-style media tagger to organize your media",
       "tintColor" : "000000",
-      "version" : "492",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "493",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -57499,19 +57486,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.stclairsoft.com/download/HistoryHound-2.3.2.dmg",
+      "downloadURL" : "https://www.stclairsoft.com/download/HistoryHound-2.3.3.dmg",
       "homepage" : "https://www.stclairsoft.com/HistoryHound/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-historyhound/AppIcon.png",
       "localizedDescription" : "Browser history and bookmarks keyword search",
       "name" : "HistoryHound",
-      "sha256" : "e06cb23988390ddf4043b113fa8d6cbf83d8689b78cf6be37f7d83b8514aaf25",
+      "sha256" : "02cb0df03d19442355e57df27f36a9dba2be02d7b02059b7ddd608c31f741a38",
       "stats" : {
         "downloadCount" : 1,
         "impressionCount" : 30
       },
       "subtitle" : "Browser history and bookmarks keyword search",
       "tintColor" : "E15F5E",
-      "version" : "2.3.2,8864"
+      "version" : "2.3.3,9012",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -60896,7 +60884,8 @@
         "downloadCount" : 206
       },
       "subtitle" : "Remote desktop",
-      "version" : "2.0.0"
+      "version" : "150.84.3",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -63492,17 +63481,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.3.1-2022-07-27-15-34.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.3.1-2022-07-28-04-06.zip",
       "homepage" : "https://busymac.com/busycal/index.html",
       "localizedDescription" : "Calendar software focusing on flexibility and reliability",
       "name" : "BusyCal",
-      "sha256" : "23c189ce53c6a2aa1c3de27ec2b6d21bc8965769dec015fb37a3feec918be447",
+      "sha256" : "9ab26ea0883bbd567a05a3ccf8d14f9692a112f42ced40e0768ad6c17702aa0d",
       "stats" : {
         "downloadCount" : 36
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
-      "version" : "2022.3.1,2022-07-27-15-34",
-      "versionDate" : "2022-07-27T00:00:00Z"
+      "version" : "2022.3.1,2022-07-28-04-06",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -64760,17 +64749,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/google/santa/releases/download/2022.6/santa-2022.6.dmg",
+      "downloadURL" : "https://github.com/google/santa/releases/download/2022.7/santa-2022.7.dmg",
       "homepage" : "https://github.com/google/santa",
       "localizedDescription" : "Binary authorization system",
       "name" : "Santa",
-      "sha256" : "164f34bac54e3f8fe27a49a5ee6f9523df50be5b6838537e4a8dffe2ba86e179",
+      "sha256" : "97cf5122cdfa7c3b0606cb2f64322221c270795ccd1ca14d467fdb409a7c925a",
       "stats" : {
         "downloadCount" : 20
       },
       "subtitle" : "Binary authorization system",
-      "version" : "2022.6",
-      "versionDate" : "2022-07-08T00:00:00Z"
+      "version" : "2022.7",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -66773,8 +66762,8 @@
         "downloadCount" : 10
       },
       "subtitle" : "Design, animate, and prototype design tool from Facebook",
-      "version" : "120.0.0.5.217,384099040",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "120.0.0.6.217,385920162",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -68628,7 +68617,8 @@
         "downloadCount" : 6
       },
       "subtitle" : "Create and share augmented reality experiences using the Facebook family of apps",
-      "version" : "141"
+      "version" : "143",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -70654,17 +70644,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/coronalabs/corona/releases/download/3675/Solar2D-macOS-2022.3675.dmg",
+      "downloadURL" : "https://github.com/coronalabs/corona/releases/download/3676/Solar2D-macOS-2022.3676.dmg",
       "homepage" : "https://solar2d.com/",
       "localizedDescription" : "Lua-based game engine",
       "name" : "Solar2D",
-      "sha256" : "42cfd2b00d2743539da5d8cfc5a250d0d87fde54b1b17271e7c3fc3d9a9bcdfe",
+      "sha256" : "a51a7792f92a8325e43735eda1f754eaeb0a703639dffbeaa943663499346770",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "Lua-based game engine",
-      "version" : "2022.3675",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "2022.3676",
+      "versionDate" : "2022-07-28T09:26:32Z"
     },
     {
       "beta" : false,
@@ -73278,174 +73268,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "browserosaurus",
-      "caption" : "Browserosaurus updated from 18.5.0 to 19.0.0",
-      "date" : "2022-07-26T11:20:17Z",
-      "identifier" : "release-browserosaurus-19.0.0",
-      "title" : "New Release: Browserosaurus 19.0.0"
-    },
-    {
-      "appID" : "jetbrains-gateway",
-      "caption" : "jetbrains-gateway updated from 221.5921.22 to 222.3345.108",
-      "date" : "2022-07-26T11:20:17Z",
-      "identifier" : "release-jetbrains-gateway-222.3345.108",
-      "title" : "New Release: jetbrains-gateway 222.3345.108"
-    },
-    {
-      "appID" : "keeper-password-manager",
-      "caption" : "Keeper Password Manager updated from 16.7.1,1657212345568 to 16.7.2,1658764644578",
-      "date" : "2022-07-26T11:20:17Z",
-      "identifier" : "release-keeper-password-manager-16.7.2,1658764644578",
-      "title" : "New Release: Keeper Password Manager 16.7.2,1658764644578"
-    },
-    {
-      "appID" : "metaimage",
-      "caption" : "MetaImage updated from 2.0.6,a50d26d4-5b3e-4786-80e6-f530a5579a32 to 2.0.8,c1701765-abda-4e2e-a31e-0e581a681845",
-      "date" : "2022-07-26T11:20:18Z",
-      "identifier" : "release-metaimage-2.0.8,c1701765-abda-4e2e-a31e-0e581a681845",
-      "title" : "New Release: MetaImage 2.0.8,c1701765-abda-4e2e-a31e-0e581a681845"
-    },
-    {
-      "appID" : "quicken",
-      "caption" : "Quicken updated from 6.8.2,608.44865.100 to 6.8.3,608.44884.100",
-      "date" : "2022-07-26T11:20:18Z",
-      "identifier" : "release-quicken-6.8.3,608.44884.100",
-      "title" : "New Release: Quicken 6.8.3,608.44884.100"
-    },
-    {
-      "appID" : "immersed",
-      "caption" : "Immersed updated from 16.7,140 to 16.8,141",
-      "date" : "2022-07-26T11:20:18Z",
-      "identifier" : "release-immersed-16.8,141",
-      "title" : "New Release: Immersed 16.8,141"
-    },
-    {
-      "appID" : "trainerroad",
-      "caption" : "TrainerRoad updated from 2022.26.0.193 to 2022.27.0.194",
-      "date" : "2022-07-26T11:20:18Z",
-      "identifier" : "release-trainerroad-2022.27.0.194",
-      "title" : "New Release: TrainerRoad 2022.27.0.194"
-    },
-    {
-      "appID" : "archipelago",
-      "caption" : "Archipelago updated from 4.2.2 to 4.3.0",
-      "date" : "2022-07-26T11:20:18Z",
-      "identifier" : "release-archipelago-4.3.0",
-      "title" : "New Release: Archipelago 4.3.0"
-    },
-    {
-      "appID" : "infoflow",
-      "caption" : "Baidu Hi updated from 2.3.17.7,20220713153053 to 2.3.18.6,20220725201701",
-      "date" : "2022-07-26T11:20:18Z",
-      "identifier" : "release-infoflow-2.3.18.6,20220725201701",
-      "title" : "New Release: Baidu Hi 2.3.18.6,20220725201701"
-    },
-    {
-      "appID" : "chirp",
-      "caption" : "CHIRP updated from 20220703 to 20220726",
-      "date" : "2022-07-26T11:20:19Z",
-      "identifier" : "release-chirp-20220726",
-      "title" : "New Release: CHIRP 20220726"
-    },
-    {
-      "appID" : "blockbench",
-      "caption" : "Blockbench updated from 4.3.0 to 4.3.1",
-      "date" : "2022-07-26T11:20:19Z",
-      "identifier" : "release-blockbench-4.3.1",
-      "title" : "New Release: Blockbench 4.3.1"
-    },
-    {
-      "appID" : "coccoc",
-      "caption" : "Cốc Cốc updated from 102.0.5005.132,102.0.132 to 103.0.5060.134,103.0.134",
-      "date" : "2022-07-26T11:20:19Z",
-      "identifier" : "release-coccoc-103.0.5060.134,103.0.134",
-      "title" : "New Release: Cốc Cốc 103.0.5060.134,103.0.134"
-    },
-    {
-      "appID" : "flrig",
-      "caption" : "flrig updated from 1.4.5 to 1.4.6",
-      "date" : "2022-07-26T11:20:19Z",
-      "identifier" : "release-flrig-1.4.6",
-      "title" : "New Release: flrig 1.4.6"
-    },
-    {
-      "appID" : "lightkey",
-      "caption" : "Lightkey updated from 4.0.1,7a5b4d8687-1657887879 to 4.0.2,02c0e761bb-1658824478",
-      "date" : "2022-07-26T11:20:19Z",
-      "identifier" : "release-lightkey-4.0.2,02c0e761bb-1658824478",
-      "title" : "New Release: Lightkey 4.0.2,02c0e761bb-1658824478"
-    },
-    {
-      "appID" : "origami-studio",
-      "caption" : "Origami Studio updated from 119.2.0.7.222,383286047 to 120.0.0.5.217,384099040",
-      "date" : "2022-07-26T11:20:20Z",
-      "identifier" : "release-origami-studio-120.0.0.5.217,384099040",
-      "title" : "New Release: Origami Studio 120.0.0.5.217,384099040"
-    },
-    {
-      "appID" : "devilutionx",
-      "caption" : "DevilutionX updated from 1.4.0 to 1.4.1",
-      "date" : "2022-07-26T11:20:20Z",
-      "identifier" : "release-devilutionx-1.4.1",
-      "title" : "New Release: DevilutionX 1.4.1"
-    },
-    {
-      "appID" : "foxglove-studio",
-      "caption" : "Foxglove Studio updated from 1.18.0 to 1.19.0",
-      "date" : "2022-07-26T11:20:20Z",
-      "identifier" : "release-foxglove-studio-1.19.0",
-      "title" : "New Release: Foxglove Studio 1.19.0"
-    },
-    {
-      "appID" : "catlight",
-      "caption" : "catlight updated from 2.38.12 to 2.38.14",
-      "date" : "2022-07-26T11:20:20Z",
-      "identifier" : "release-catlight-2.38.14",
-      "title" : "New Release: catlight 2.38.14"
-    },
-    {
-      "appID" : "firefox",
-      "caption" : "Mozilla Firefox updated from 102.0.1 to 103.0",
-      "date" : "2022-07-26T17:24:56Z",
-      "identifier" : "release-firefox-103.0",
-      "title" : "New Release: Mozilla Firefox 103.0"
-    },
-    {
-      "appID" : "tower",
-      "caption" : "Tower updated from 8.3,325,ba151a8d to 9.0,342,26634c15",
-      "date" : "2022-07-26T17:24:56Z",
-      "identifier" : "release-tower-9.0,342,26634c15",
-      "title" : "New Release: Tower 9.0,342,26634c15"
-    },
-    {
-      "appID" : "intellij-idea-ce",
-      "caption" : "IntelliJ IDEA Community Edition updated from 2022.1.4,221.6008.13 to 2022.2,222.3345.118",
-      "date" : "2022-07-26T17:24:56Z",
-      "identifier" : "release-intellij-idea-ce-2022.2,222.3345.118",
-      "title" : "New Release: IntelliJ IDEA Community Edition 2022.2,222.3345.118"
-    },
-    {
-      "appID" : "intellij-idea",
-      "caption" : "IntelliJ IDEA Ultimate updated from 2022.1.4,221.6008.13 to 2022.2,222.3345.118",
-      "date" : "2022-07-26T17:24:57Z",
-      "identifier" : "release-intellij-idea-2022.2,222.3345.118",
-      "title" : "New Release: IntelliJ IDEA Ultimate 2022.2,222.3345.118"
-    },
-    {
-      "appID" : "mysqlworkbench",
-      "caption" : "MySQL Workbench updated from 8.0.29 to 8.0.30",
-      "date" : "2022-07-26T17:24:57Z",
-      "identifier" : "release-mysqlworkbench-8.0.30",
-      "title" : "New Release: MySQL Workbench 8.0.30"
-    },
-    {
-      "appID" : "rubymine",
-      "caption" : "RubyMine updated from 2022.1.4,221.6008.14 to 2022.2,222.3345.111",
-      "date" : "2022-07-26T17:24:57Z",
-      "identifier" : "release-rubymine-2022.2,222.3345.111",
-      "title" : "New Release: RubyMine 2022.2,222.3345.111"
-    },
-    {
       "appID" : "qq",
       "caption" : "QQ updated from 6.8.0.21161_962 to 6.8.1.21202_963",
       "date" : "2022-07-26T17:24:57Z",
@@ -73507,13 +73329,6 @@
       "date" : "2022-07-26T17:24:59Z",
       "identifier" : "release-notebooks-3.0,223",
       "title" : "New Release: Notebooks 3.0,223"
-    },
-    {
-      "appID" : "pitch",
-      "caption" : "Pitch updated from 1.84.0,stable.5,4438346 to 1.85.0,stable.1,4446427",
-      "date" : "2022-07-26T17:24:59Z",
-      "identifier" : "release-pitch-1.85.0,stable.1,4446427",
-      "title" : "New Release: Pitch 1.85.0,stable.1,4446427"
     },
     {
       "appID" : "holavpn",
@@ -73605,13 +73420,6 @@
       "date" : "2022-07-26T22:21:36Z",
       "identifier" : "release-busycontacts-2022.3.1,2022-07-26-20-32",
       "title" : "New Release: BusyContacts 2022.3.1,2022-07-26-20-32"
-    },
-    {
-      "appID" : "signal",
-      "caption" : "Signal updated from 5.51.0 to 5.51.1",
-      "date" : "2022-07-26T23:21:32Z",
-      "identifier" : "release-signal-5.51.1",
-      "title" : "New Release: Signal 5.51.1"
     },
     {
       "appID" : "whatsapp",
@@ -73915,13 +73723,6 @@
       "title" : "New Release: Metasploit Framework 6.2.9,20220727103233"
     },
     {
-      "appID" : "busycal",
-      "caption" : "BusyCal updated from 2022.3.1,2022-07-26-18-09 to 2022.3.1,2022-07-27-15-34",
-      "date" : "2022-07-27T16:25:43Z",
-      "identifier" : "release-busycal-2022.3.1,2022-07-27-15-34",
-      "title" : "New Release: BusyCal 2022.3.1,2022-07-27-15-34"
-    },
-    {
       "appID" : "clion",
       "caption" : "CLion updated from 2022.1.3,221.5921.27 to 2022.2,222.3345.126",
       "date" : "2022-07-27T19:19:55Z",
@@ -73976,6 +73777,195 @@
       "date" : "2022-07-28T01:09:48Z",
       "identifier" : "release-qldds-1.33",
       "title" : "New Release: QuickLook DDS 1.33"
+    },
+    {
+      "appID" : "signal",
+      "caption" : "Signal updated from 5.51.1 to 5.52.0",
+      "date" : "2022-07-28T09:26:33Z",
+      "identifier" : "release-signal-5.52.0",
+      "title" : "New Release: Signal 5.52.0"
+    },
+    {
+      "appID" : "minecraft",
+      "caption" : "Minecraft updated from 1.0.1222 to 1.1.26",
+      "date" : "2022-07-28T09:26:33Z",
+      "identifier" : "release-minecraft-1.1.26",
+      "title" : "New Release: Minecraft 1.1.26"
+    },
+    {
+      "appID" : "wireshark",
+      "caption" : "Wireshark updated from 3.6.6 to 3.6.7",
+      "date" : "2022-07-28T09:26:33Z",
+      "identifier" : "release-wireshark-3.6.7",
+      "title" : "New Release: Wireshark 3.6.7"
+    },
+    {
+      "appID" : "opera",
+      "caption" : "Opera updated from 89.0.4447.51 to 89.0.4447.71",
+      "date" : "2022-07-28T09:26:33Z",
+      "identifier" : "release-opera-89.0.4447.71",
+      "title" : "New Release: Opera 89.0.4447.71"
+    },
+    {
+      "appID" : "rancher",
+      "caption" : "Rancher Desktop updated from 1.4.1 to 1.5.0",
+      "date" : "2022-07-28T09:26:33Z",
+      "identifier" : "release-rancher-1.5.0",
+      "title" : "New Release: Rancher Desktop 1.5.0"
+    },
+    {
+      "appID" : "setapp",
+      "caption" : "Setapp updated from 3.7.0,1658154274 to 3.8.0,1658842472",
+      "date" : "2022-07-28T09:26:34Z",
+      "identifier" : "release-setapp-3.8.0,1658842472",
+      "title" : "New Release: Setapp 3.8.0,1658842472"
+    },
+    {
+      "appID" : "electron",
+      "caption" : "Electron updated from 19.0.9 to 19.0.10",
+      "date" : "2022-07-28T09:26:34Z",
+      "identifier" : "release-electron-19.0.10",
+      "title" : "New Release: Electron 19.0.10"
+    },
+    {
+      "appID" : "tuple",
+      "caption" : "Tuple updated from 0.98.0,2022-06-23,3e7978c4c to 0.98.2,2022-07-27,99364aa15",
+      "date" : "2022-07-28T09:26:34Z",
+      "identifier" : "release-tuple-0.98.2,2022-07-27,99364aa15",
+      "title" : "New Release: Tuple 0.98.2,2022-07-27,99364aa15"
+    },
+    {
+      "appID" : "buttercup",
+      "caption" : "Buttercup updated from 2.15.1 to 2.16.0",
+      "date" : "2022-07-28T09:26:34Z",
+      "identifier" : "release-buttercup-2.16.0",
+      "title" : "New Release: Buttercup 2.16.0"
+    },
+    {
+      "appID" : "pitch",
+      "caption" : "Pitch updated from 1.85.0,stable.1,4446427 to 1.85.0,stable.2,4456590",
+      "date" : "2022-07-28T09:26:34Z",
+      "identifier" : "release-pitch-1.85.0,stable.2,4456590",
+      "title" : "New Release: Pitch 1.85.0,stable.2,4456590"
+    },
+    {
+      "appID" : "wondershare-edrawmax",
+      "caption" : "EdrawMax updated from 12.0.0 to 12.0.1",
+      "date" : "2022-07-28T09:26:34Z",
+      "identifier" : "release-wondershare-edrawmax-12.0.1",
+      "title" : "New Release: EdrawMax 12.0.1"
+    },
+    {
+      "appID" : "blitz",
+      "caption" : "Blitz updated from 1.17.18 to 1.17.23",
+      "date" : "2022-07-28T09:26:34Z",
+      "identifier" : "release-blitz-1.17.23",
+      "title" : "New Release: Blitz 1.17.23"
+    },
+    {
+      "appID" : "vrew",
+      "caption" : "vrew updated from 0.11.20 to 0.11.21",
+      "date" : "2022-07-28T09:26:35Z",
+      "identifier" : "release-vrew-0.11.21",
+      "title" : "New Release: vrew 0.11.21"
+    },
+    {
+      "appID" : "audius",
+      "caption" : "Audius updated from 1.2.0 to 1.2.1",
+      "date" : "2022-07-28T09:26:35Z",
+      "identifier" : "release-audius-1.2.1",
+      "title" : "New Release: Audius 1.2.1"
+    },
+    {
+      "appID" : "tiger-trade",
+      "caption" : "Tiger Trade updated from 7.17.9,20220722,6E3190 to 7.17.10,20220727,6EF41C",
+      "date" : "2022-07-28T09:26:35Z",
+      "identifier" : "release-tiger-trade-7.17.10,20220727,6EF41C",
+      "title" : "New Release: Tiger Trade 7.17.10,20220727,6EF41C"
+    },
+    {
+      "appID" : "popo",
+      "caption" : "NetEase POPO updated from 3.52.1 to 3.53.0",
+      "date" : "2022-07-28T09:26:35Z",
+      "identifier" : "release-popo-3.53.0",
+      "title" : "New Release: NetEase POPO 3.53.0"
+    },
+    {
+      "appID" : "purei-play",
+      "caption" : "Play! updated from 2022-07-25,f4092836 to 2022-07-25,47b43033",
+      "date" : "2022-07-28T09:26:35Z",
+      "identifier" : "release-purei-play-2022-07-25,47b43033",
+      "title" : "New Release: Play! 2022-07-25,47b43033"
+    },
+    {
+      "appID" : "wireshark-chmodbpf",
+      "caption" : "Wireshark-ChmodBPF updated from 3.6.6 to 3.6.7",
+      "date" : "2022-07-28T09:26:35Z",
+      "identifier" : "release-wireshark-chmodbpf-3.6.7",
+      "title" : "New Release: Wireshark-ChmodBPF 3.6.7"
+    },
+    {
+      "appID" : "feed-the-beast",
+      "caption" : "Feed the Beast updated from 202206081143,2e021f8e74 to 202207271710,0f9644f5fc",
+      "date" : "2022-07-28T09:26:35Z",
+      "identifier" : "release-feed-the-beast-202207271710,0f9644f5fc",
+      "title" : "New Release: Feed the Beast 202207271710,0f9644f5fc"
+    },
+    {
+      "appID" : "hydrus-network",
+      "caption" : "hydrus-network updated from 492 to 493",
+      "date" : "2022-07-28T09:26:36Z",
+      "identifier" : "release-hydrus-network-493",
+      "title" : "New Release: hydrus-network 493"
+    },
+    {
+      "appID" : "historyhound",
+      "caption" : "HistoryHound updated from 2.3.2,8864 to 2.3.3,9012",
+      "date" : "2022-07-28T09:26:36Z",
+      "identifier" : "release-historyhound-2.3.3,9012",
+      "title" : "New Release: HistoryHound 2.3.3,9012"
+    },
+    {
+      "appID" : "parsec",
+      "caption" : "Parsec updated from 2.0.0 to 150.84.3",
+      "date" : "2022-07-28T09:26:36Z",
+      "identifier" : "release-parsec-150.84.3",
+      "title" : "New Release: Parsec 150.84.3"
+    },
+    {
+      "appID" : "busycal",
+      "caption" : "BusyCal updated from 2022.3.1,2022-07-27-15-34 to 2022.3.1,2022-07-28-04-06",
+      "date" : "2022-07-28T09:26:36Z",
+      "identifier" : "release-busycal-2022.3.1,2022-07-28-04-06",
+      "title" : "New Release: BusyCal 2022.3.1,2022-07-28-04-06"
+    },
+    {
+      "appID" : "santa",
+      "caption" : "Santa updated from 2022.6 to 2022.7",
+      "date" : "2022-07-28T09:26:36Z",
+      "identifier" : "release-santa-2022.7",
+      "title" : "New Release: Santa 2022.7"
+    },
+    {
+      "appID" : "origami-studio",
+      "caption" : "Origami Studio updated from 120.0.0.5.217,384099040 to 120.0.0.6.217,385920162",
+      "date" : "2022-07-28T09:26:36Z",
+      "identifier" : "release-origami-studio-120.0.0.6.217,385920162",
+      "title" : "New Release: Origami Studio 120.0.0.6.217,385920162"
+    },
+    {
+      "appID" : "spark-ar-studio",
+      "caption" : "Spark AR Studio updated from 141 to 143",
+      "date" : "2022-07-28T09:26:37Z",
+      "identifier" : "release-spark-ar-studio-143",
+      "title" : "New Release: Spark AR Studio 143"
+    },
+    {
+      "appID" : "solar2d",
+      "caption" : "Solar2D updated from 2022.3675 to 2022.3676",
+      "date" : "2022-07-28T09:26:37Z",
+      "identifier" : "release-solar2d-2022.3676",
+      "title" : "New Release: Solar2D 2022.3676"
     }
   ],
   "platform" : "macos",

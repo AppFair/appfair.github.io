@@ -72,7 +72,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 135,
-        "impressionCount" : 447,
+        "impressionCount" : 448,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 50,
@@ -331,10 +331,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 32,
-        "impressionCount" : 764,
+        "impressionCount" : 765,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 53,
+        "viewCount" : 54,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -375,10 +375,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 748,
+        "impressionCount" : 749,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 46,
+        "viewCount" : 47,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -410,10 +410,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 598,
+        "impressionCount" : 599,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 38,
+        "viewCount" : 39,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -526,7 +526,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 2967,
+        "impressionCount" : 2968,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 468,
@@ -798,7 +798,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 451,
+        "impressionCount" : 452,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 48,
@@ -912,10 +912,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 43,
-        "impressionCount" : 263,
+        "impressionCount" : 264,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

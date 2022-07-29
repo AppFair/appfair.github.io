@@ -30,7 +30,7 @@
       "size" : 5310659,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 113,
+        "downloadCount" : 115,
         "impressionCount" : 879,
         "issueCount" : 0,
         "starCount" : 1,
@@ -71,11 +71,11 @@
       "size" : 5480536,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 5,
-        "impressionCount" : 7,
+        "downloadCount" : 7,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -108,7 +108,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 8,
-        "impressionCount" : 2136,
+        "impressionCount" : 2138,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 187,
@@ -143,7 +143,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1443,
+        "impressionCount" : 1445,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 106,
@@ -331,7 +331,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 32,
-        "impressionCount" : 1030,
+        "impressionCount" : 1032,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -375,7 +375,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 992,
+        "impressionCount" : 996,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 56,
@@ -526,7 +526,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 3028,
+        "impressionCount" : 3030,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 473,
@@ -749,10 +749,10 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 5,
-        "impressionCount" : 390,
+        "impressionCount" : 392,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 62,
+        "viewCount" : 64,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -767,13 +767,13 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/Stanza-Redux-iOS.ipa",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/Stanza-Redux.png",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux.png",
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Info.plist#f98d4812e5b09e4cd1390756eb4071d1b1334e56e32d63c5f5381d2c070bb7ce",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -785,30 +785,30 @@
           "usageDescription" : "This app needs to read ebook files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_04-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_05-iphone-750x1334.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_04-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_05-iphone-750x1334.png"
       ],
-      "sha256" : "618d85eaf5273ab60d155080daababeff2ef0d3c235b71bbf9024c6fd1d3df4e",
-      "size" : 8358601,
+      "sha256" : "cae4947c951c216a89d511285baa997714d9ff22b178880c69e9b9aae9030372",
+      "size" : 8491944,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 3,
-        "impressionCount" : 593,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 54,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
-      "version" : "0.3.38",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.37...0.3.38"
+      "version" : "0.3.41",
+      "versionDate" : "2022-07-29T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.38...0.3.41"
     },
     {
       "beta" : true,
@@ -834,10 +834,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1085,
+        "impressionCount" : 1089,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 72,
+        "viewCount" : 74,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -869,10 +869,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 531,
+        "impressionCount" : 532,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 47,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "A little quiz game",
@@ -911,8 +911,8 @@
       "size" : 17553833,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 50,
-        "impressionCount" : 406,
+        "downloadCount" : 52,
+        "impressionCount" : 410,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 38,

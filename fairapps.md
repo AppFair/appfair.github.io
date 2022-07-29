@@ -26,7 +26,7 @@ tr:nth-child(even) {
 | [``App Fair``](https://appfair.app) | ``0.8.88`` | `87` | `2022-07-28T00:00:00Z` | `9.6 MB` | `25` | `6` | `25` | [``5``](https://github.com/App-Fair/App/issues) |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `20` | `2022-05-19T00:00:00Z` | `2.4 MB` | `647` | `79` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `30` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3212` | `557` | `1` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `2` | `2022-07-29T00:00:00Z` | `2.2 MB` | `1` | `1` | `1` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `2` | `2022-07-29T00:00:00Z` | `2.2 MB` | `4` | `1` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `4` | `2022-07-29T00:00:00Z` | `2.2 MB` | `6` | `1` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `20` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2145` | `188` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `10` | `2022-01-25T00:00:00Z` | `2.3 MB` | `1453` | `108` | `0` | `0` |  |

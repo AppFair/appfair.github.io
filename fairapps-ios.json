@@ -72,10 +72,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 7,
-        "impressionCount" : 19,
+        "impressionCount" : 21,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 5,
+        "viewCount" : 6,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -331,10 +331,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 32,
-        "impressionCount" : 1033,
+        "impressionCount" : 1035,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 63,
+        "viewCount" : 64,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -375,10 +375,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 997,
+        "impressionCount" : 999,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 56,
+        "viewCount" : 57,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -410,10 +410,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 791,
+        "impressionCount" : 793,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 46,
+        "viewCount" : 47,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -526,10 +526,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 3031,
+        "impressionCount" : 3032,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 473,
+        "viewCount" : 474,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -798,10 +798,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -912,10 +912,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 52,
-        "impressionCount" : 411,
+        "impressionCount" : 416,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 38,
+        "viewCount" : 41,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

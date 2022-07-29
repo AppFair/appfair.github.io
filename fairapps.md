@@ -28,9 +28,9 @@ tr:nth-child(even) {
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `30` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3197` | `554` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.34β`` | `57` | `2022-07-20T00:00:00Z` | `2.1 MB` | `879` | `99` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.141`` | `9` | `2022-07-28T00:00:00Z` | `2.2 MB` | `18` | `5` | `1` | `0` |  |
-| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `20` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2138` | `187` | `0` | `0` |  |
-| [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `10` | `2022-01-25T00:00:00Z` | `2.3 MB` | `1445` | `106` | `0` | `0` |  |
-| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `6` | `2022-01-24T00:00:00Z` | `2.5 MB` | `1051` | `73` | `0` | `0` |  |
+| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `20` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2139` | `187` | `0` | `0` |  |
+| [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `10` | `2022-01-25T00:00:00Z` | `2.3 MB` | `1446` | `106` | `0` | `0` |  |
+| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `6` | `2022-01-24T00:00:00Z` | `2.5 MB` | `1052` | `73` | `0` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.32β`` | `7` | `2022-01-26T00:00:00Z` | `2.5 MB` | `597` | `48` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1421` | `101` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `4` | `2022-01-23T00:00:00Z` | `2.4 MB` | `1452` | `96` | `0` | `0` |  |

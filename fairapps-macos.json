@@ -57,8 +57,8 @@
       "size" : 9560008,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 11,
-        "impressionCount" : 7,
+        "downloadCount" : 15,
+        "impressionCount" : 9,
         "issueCount" : 5,
         "starCount" : 25,
         "viewCount" : 2,
@@ -144,7 +144,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3195,
+        "impressionCount" : 3197,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 554,
@@ -233,11 +233,11 @@
       "size" : 2153078,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 6,
-        "impressionCount" : 7,
+        "downloadCount" : 9,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -273,7 +273,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2136,
+        "impressionCount" : 2138,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 187,
@@ -312,7 +312,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 10,
-        "impressionCount" : 1443,
+        "impressionCount" : 1445,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 106,
@@ -544,7 +544,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1030,
+        "impressionCount" : 1032,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -622,7 +622,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 992,
+        "impressionCount" : 996,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 56,
@@ -828,7 +828,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3028,
+        "impressionCount" : 3030,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 473,
@@ -1010,7 +1010,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 833,
+        "impressionCount" : 835,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -1060,10 +1060,10 @@
       "stats" : {
         "coreSize" : 152704,
         "downloadCount" : 8,
-        "impressionCount" : 346,
+        "impressionCount" : 347,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 39,
+        "viewCount" : 40,
         "watcherCount" : 0
       },
       "subtitle" : "Query Like a Boss",
@@ -1095,10 +1095,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 858,
+        "impressionCount" : 859,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 92,
+        "viewCount" : 94,
         "watcherCount" : 0
       },
       "subtitle" : "A simple little app to demonstrate the App Fair",
@@ -1135,10 +1135,10 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 7,
-        "impressionCount" : 390,
+        "impressionCount" : 392,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 62,
+        "viewCount" : 64,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -1153,13 +1153,13 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/Stanza-Redux-macOS.zip",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/Stanza-Redux.png",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux.png",
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/Info.plist#b74fe2ab3fbba805f94a9fc4bac7c1fe82a59251d8330f281689fa77368ec297",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Info.plist#f98d4812e5b09e4cd1390756eb4071d1b1334e56e32d63c5f5381d2c070bb7ce",
       "name" : "Stanza Redux",
       "permissions" : [
         {
@@ -1171,27 +1171,27 @@
           "usageDescription" : "This app needs to read ebook files"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.38/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.38/screenshot_01-mac-light-2436x2012.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_01-mac-light-2436x2012.png"
       ],
-      "sha256" : "6fa8fef752062dfc50d41f3271307bd3dee6d387cdc978b901facfe8db7ab891",
-      "size" : 3810588,
+      "sha256" : "4567ea478403ef070c55a9ed4c87566680c911ebb6f28d65d47af20fbab8cb90",
+      "size" : 3881835,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 5,
-        "impressionCount" : 593,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 54,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
-      "version" : "0.3.38",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.37...0.3.38"
+      "version" : "0.3.41",
+      "versionDate" : "2022-07-29T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.38...0.3.41"
     },
     {
       "beta" : true,
@@ -1221,10 +1221,10 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
-        "impressionCount" : 395,
+        "impressionCount" : 397,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 63,
+        "viewCount" : 65,
         "watcherCount" : 0
       },
       "subtitle" : "UX Design Tool",
@@ -1259,10 +1259,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1085,
+        "impressionCount" : 1089,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 72,
+        "viewCount" : 74,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1298,10 +1298,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 531,
+        "impressionCount" : 532,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 47,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "A little quiz game",
@@ -1343,8 +1343,8 @@
       "size" : 9466880,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 54,
-        "impressionCount" : 406,
+        "downloadCount" : 56,
+        "impressionCount" : 410,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 38,
@@ -1570,13 +1570,6 @@
       "title" : "New Release: Lottie Motion 0.0.90"
     },
     {
-      "appID" : "app.Stanza-Redux",
-      "caption" : "Stanza Redux updated from 0.3.35 to 0.3.38",
-      "date" : "2022-07-20T07:20:15Z",
-      "identifier" : "release-app.Stanza-Redux-0.3.38",
-      "title" : "New Release: Stanza Redux 0.3.38"
-    },
-    {
       "appID" : "app.Tune-Out",
       "caption" : "Tune Out updated from 0.8.446 to 0.8.447",
       "date" : "2022-07-22T21:18:24Z",
@@ -1596,6 +1589,13 @@
       "date" : "2022-07-28T22:19:01Z",
       "identifier" : "release-app.Cloud-Cuckoo-0.9.141",
       "title" : "New Release: Cloud Cuckoo 0.9.141"
+    },
+    {
+      "appID" : "app.Stanza-Redux",
+      "caption" : "Stanza Redux updated from 0.3.38 to 0.3.41",
+      "date" : "2022-07-29T03:24:44Z",
+      "identifier" : "release-app.Stanza-Redux-0.3.41",
+      "title" : "New Release: Stanza Redux 0.3.41"
     }
   ],
   "platform" : "macos"

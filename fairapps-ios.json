@@ -7,31 +7,33 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/Bon-Mot-iOS.ipa",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Bon-Mot-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/Bon-Mot.png",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Bon-Mot.png",
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
       "name" : "Bon Mot",
       "permissions" : [
         {
-          "type" : "com.apple.security.files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
         },
         {
-          "type" : "com.apple.security.network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "sha256" : "d08671f848076e644cefd1e12d78f4f5013e3d84f220aef7db2a5c468b157cf5",
-      "size" : 5482241,
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "sha256" : "4576e28dc78566069fd1858a45ac026b12a53714ff74224d6edc362f93e98a55",
+      "size" : 5482239,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 2,
-        "impressionCount" : 3,
+        "downloadCount" : 1,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -39,9 +41,9 @@
       },
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "0.2.36",
+      "version" : "0.2.37",
       "versionDate" : "2022-07-29T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.35...0.2.36"
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.36...0.2.37"
     },
     {
       "beta" : false,
@@ -71,8 +73,8 @@
       "size" : 5509778,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 2,
-        "impressionCount" : 3,
+        "downloadCount" : 4,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -108,7 +110,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 8,
-        "impressionCount" : 2143,
+        "impressionCount" : 2145,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 188,
@@ -143,10 +145,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1450,
+        "impressionCount" : 1453,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 107,
+        "viewCount" : 108,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -181,10 +183,10 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 4,
-        "impressionCount" : 1056,
+        "impressionCount" : 1059,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 74,
+        "viewCount" : 75,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -216,7 +218,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1425,
+        "impressionCount" : 1427,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 102,
@@ -251,7 +253,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1456,
+        "impressionCount" : 1458,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 97,
@@ -289,7 +291,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1050,
+        "impressionCount" : 1052,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 68,
@@ -331,7 +333,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 32,
-        "impressionCount" : 1045,
+        "impressionCount" : 1048,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 65,
@@ -375,7 +377,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 1008,
+        "impressionCount" : 1011,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -410,7 +412,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 801,
+        "impressionCount" : 803,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -445,7 +447,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1179,
+        "impressionCount" : 1180,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 66,
@@ -526,7 +528,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 3038,
+        "impressionCount" : 3039,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 474,
@@ -797,8 +799,8 @@
       "size" : 8491944,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 15,
-        "impressionCount" : 9,
+        "downloadCount" : 17,
+        "impressionCount" : 10,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -912,7 +914,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 65,
-        "impressionCount" : 422,
+        "impressionCount" : 423,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 42,
@@ -1088,7 +1090,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1427,
+        "impressionCount" : 1428,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,

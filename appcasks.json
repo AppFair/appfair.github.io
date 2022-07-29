@@ -7578,20 +7578,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://pages.uoregon.edu/koch/texshop/texshop-64/texshop478.zip",
+      "downloadURL" : "https://pages.uoregon.edu/koch/texshop/texshop-64/texshop479.zip",
       "homepage" : "https://pages.uoregon.edu/koch/texshop/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-texshop/AppIcon.png",
       "localizedDescription" : "TeX previewer",
       "name" : "TeXShop",
-      "sha256" : "d0ba3cdc27d9e56d2a4f21e378635218e731189a540607eb173ae441497d337d",
+      "sha256" : "4630172a56cbe64334bb740a5236aaed001f494933c74e9a5b55bbc6cc518c76",
       "stats" : {
         "downloadCount" : 150,
         "impressionCount" : 345
       },
       "subtitle" : "TeX previewer",
       "tintColor" : "9AAAAE",
-      "version" : "4.78",
-      "versionDate" : "2022-07-18T00:00:00Z"
+      "version" : "4.79",
+      "versionDate" : "2022-07-29T20:20:54Z"
     },
     {
       "beta" : false,
@@ -12340,7 +12340,8 @@
       },
       "subtitle" : "Utility to finds and fix problems on computer systems",
       "tintColor" : "DEA166",
-      "version" : "6.6.1"
+      "version" : "6.7",
+      "versionDate" : "2022-07-29T20:20:54Z"
     },
     {
       "beta" : false,
@@ -73344,20 +73345,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "electron",
-      "caption" : "Electron updated from 19.0.9 to 19.0.10",
-      "date" : "2022-07-28T09:26:34Z",
-      "identifier" : "release-electron-19.0.10",
-      "title" : "New Release: Electron 19.0.10"
-    },
-    {
-      "appID" : "tuple",
-      "caption" : "Tuple updated from 0.98.0,2022-06-23,3e7978c4c to 0.98.2,2022-07-27,99364aa15",
-      "date" : "2022-07-28T09:26:34Z",
-      "identifier" : "release-tuple-0.98.2,2022-07-27,99364aa15",
-      "title" : "New Release: Tuple 0.98.2,2022-07-27,99364aa15"
-    },
-    {
       "appID" : "buttercup",
       "caption" : "Buttercup updated from 2.15.1 to 2.16.0",
       "date" : "2022-07-28T09:26:34Z",
@@ -74042,6 +74029,20 @@
       "date" : "2022-07-29T15:53:22Z",
       "identifier" : "release-foxitreader-12.0.1",
       "title" : "New Release: Foxit Reader 12.0.1"
+    },
+    {
+      "appID" : "texshop",
+      "caption" : "TeXShop updated from 4.78 to 4.79",
+      "date" : "2022-07-29T20:20:55Z",
+      "identifier" : "release-texshop-4.79",
+      "title" : "New Release: TeXShop 4.79"
+    },
+    {
+      "appID" : "etrecheckpro",
+      "caption" : "EtreCheck updated from 6.6.1 to 6.7",
+      "date" : "2022-07-29T20:20:56Z",
+      "identifier" : "release-etrecheckpro-6.7",
+      "title" : "New Release: EtreCheck 6.7"
     }
   ],
   "platform" : "macos",

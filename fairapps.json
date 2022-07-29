@@ -57,11 +57,11 @@
       "size" : 9560008,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 83,
-        "impressionCount" : 21,
+        "downloadCount" : 87,
+        "impressionCount" : 25,
         "issueCount" : 5,
         "starCount" : 25,
-        "viewCount" : 5,
+        "viewCount" : 6,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for macOS apps and Homebrew casks",
@@ -94,10 +94,10 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 20,
-        "impressionCount" : 643,
+        "impressionCount" : 647,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 77,
+        "viewCount" : 79,
         "watcherCount" : 0
       },
       "subtitle" : "A very useful app indeed",
@@ -144,7 +144,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3209,
+        "impressionCount" : 3212,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 557,
@@ -163,35 +163,37 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/Bon-Mot-macOS.zip",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Bon-Mot-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/Bon-Mot.png",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Bon-Mot.png",
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
       "name" : "Bon Mot",
       "permissions" : [
         {
-          "type" : "com.apple.security.files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected books"
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
         },
         {
-          "type" : "com.apple.security.network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.36/screenshot_01-mac-dark-mac-2024x1124.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.2.36/screenshot_01-mac-light-mac-2024x1124.png"
+        "https://github.com/Bon-Mot/App/releases/download/0.2.37/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.2.37/screenshot_01-mac-light-mac-2024x1124.png"
       ],
-      "sha256" : "9b8ca012bc127b26c4b35e015dcbf68d086639e6f6eb6bfd39866bdb90732304",
-      "size" : 2155542,
+      "sha256" : "e4872eaccd17c5c06c8f75779befcc7b068673c2d38019e2df893a1f4dc8d004",
+      "size" : 2155523,
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 2,
-        "impressionCount" : 3,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -199,9 +201,9 @@
       },
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "0.2.36",
+      "version" : "0.2.37",
       "versionDate" : "2022-07-29T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.35...0.2.36"
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.36...0.2.37"
     },
     {
       "beta" : false,
@@ -233,8 +235,8 @@
       "size" : 2164762,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 2,
-        "impressionCount" : 3,
+        "downloadCount" : 4,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -273,7 +275,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2143,
+        "impressionCount" : 2145,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 188,
@@ -312,10 +314,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 10,
-        "impressionCount" : 1450,
+        "impressionCount" : 1453,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 107,
+        "viewCount" : 108,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -350,10 +352,10 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 7,
-        "impressionCount" : 1056,
+        "impressionCount" : 1059,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 74,
+        "viewCount" : 75,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -385,7 +387,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 7,
-        "impressionCount" : 601,
+        "impressionCount" : 603,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 49,
@@ -423,7 +425,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1425,
+        "impressionCount" : 1427,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 102,
@@ -462,7 +464,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1456,
+        "impressionCount" : 1458,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 97,
@@ -500,7 +502,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1050,
+        "impressionCount" : 1052,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 68,
@@ -544,7 +546,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1045,
+        "impressionCount" : 1048,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 65,
@@ -580,7 +582,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 720,
+        "impressionCount" : 722,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -622,7 +624,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 1008,
+        "impressionCount" : 1011,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -661,7 +663,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 801,
+        "impressionCount" : 803,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -700,7 +702,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1179,
+        "impressionCount" : 1180,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 66,
@@ -828,7 +830,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3038,
+        "impressionCount" : 3039,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 474,
@@ -931,7 +933,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2486,
+        "impressionCount" : 2487,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 454,
@@ -1180,8 +1182,8 @@
       "size" : 3881835,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 15,
-        "impressionCount" : 9,
+        "downloadCount" : 17,
+        "impressionCount" : 10,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -1344,7 +1346,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 57,
-        "impressionCount" : 422,
+        "impressionCount" : 423,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 42,
@@ -1529,7 +1531,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1427,
+        "impressionCount" : 1428,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -1599,10 +1601,10 @@
     },
     {
       "appID" : "app.Bon-Mot",
-      "caption" : "Bon Mot 0.2.36 released",
-      "date" : "2022-07-29T15:50:14Z",
-      "identifier" : "release-app.Bon-Mot-0.2.36",
-      "title" : "New Release: Bon Mot 0.2.36"
+      "caption" : "Bon Mot updated from 0.2.36 to 0.2.37",
+      "date" : "2022-07-29T18:01:10Z",
+      "identifier" : "release-app.Bon-Mot-0.2.37",
+      "title" : "New Release: Bon Mot 0.2.37"
     }
   ],
   "platform" : "macos"

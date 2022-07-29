@@ -57,7 +57,7 @@
       "size" : 9560008,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 74,
+        "downloadCount" : 77,
         "impressionCount" : 20,
         "issueCount" : 5,
         "starCount" : 25,
@@ -157,19 +157,19 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.34/Bon-Mot-macOS.zip",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/Bon-Mot-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.34/Bon-Mot.png",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/Bon-Mot.png",
       "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.34/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Bon Mot",
       "permissions" : [
         {
@@ -181,27 +181,27 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.34/README.md#6aaa6d708dd87e0f287fcc67e14ce094575bb468f231c59a4341043ae9ff6708",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.36/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
       "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.34/screenshot_01-mac-dark-mac-2024x1124.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.2.34/screenshot_01-mac-light-mac-2024x1124.png"
+        "https://github.com/Bon-Mot/App/releases/download/0.2.36/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.2.36/screenshot_01-mac-light-mac-2024x1124.png"
       ],
-      "sha256" : "bb74a5996de9ddf235b4935021b14fc6151221a2e51a995e528d31b7b88af752",
-      "size" : 2075091,
+      "sha256" : "9b8ca012bc127b26c4b35e015dcbf68d086639e6f6eb6bfd39866bdb90732304",
+      "size" : 2155542,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 57,
-        "impressionCount" : 884,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 101,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
       "tintColor" : "A2845E",
-      "version" : "0.2.34",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.33...0.2.34"
+      "version" : "0.2.36",
+      "versionDate" : "2022-07-29T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.35...0.2.36"
     },
     {
       "beta" : false,
@@ -210,41 +210,41 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/Cloud-Cuckoo-macOS.zip",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/Cloud-Cuckoo.png",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.141/screenshot_06-mac-1656x1560.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "d4d7f35031f7dee837ca8fb0afddd7a683f85d412dd62816c98708d8ec881270",
-      "size" : 2153078,
+      "sha256" : "1171af37f76fb1194a9578cc8a04a8d861a97828879feccc38c09f636a336d93",
+      "size" : 2164762,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 21,
-        "impressionCount" : 29,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 7,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.141",
-      "versionDate" : "2022-07-28T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.140...0.9.141"
+      "version" : "0.9.142",
+      "versionDate" : "2022-07-29T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.141...0.9.142"
     },
     {
       "beta" : true,
@@ -1180,7 +1180,7 @@
       "size" : 3881835,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 14,
+        "downloadCount" : 15,
         "impressionCount" : 7,
         "issueCount" : 0,
         "starCount" : 1,
@@ -1584,18 +1584,25 @@
       "title" : "New Release: App Fair 0.8.88"
     },
     {
-      "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo updated from 0.9.140 to 0.9.141",
-      "date" : "2022-07-28T22:19:01Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.141",
-      "title" : "New Release: Cloud Cuckoo 0.9.141"
-    },
-    {
       "appID" : "app.Stanza-Redux",
       "caption" : "Stanza Redux updated from 0.3.38 to 0.3.41",
       "date" : "2022-07-29T03:24:44Z",
       "identifier" : "release-app.Stanza-Redux-0.3.41",
       "title" : "New Release: Stanza Redux 0.3.41"
+    },
+    {
+      "appID" : "app.Cloud-Cuckoo",
+      "caption" : "Cloud Cuckoo updated from 0.9.141 to 0.9.142",
+      "date" : "2022-07-29T15:50:13Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.142",
+      "title" : "New Release: Cloud Cuckoo 0.9.142"
+    },
+    {
+      "appID" : "app.Bon-Mot",
+      "caption" : "Bon Mot 0.2.36 released",
+      "date" : "2022-07-29T15:50:14Z",
+      "identifier" : "release-app.Bon-Mot-0.2.36",
+      "title" : "New Release: Bon Mot 0.2.36"
     }
   ],
   "platform" : "macos"

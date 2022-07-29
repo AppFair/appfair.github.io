@@ -1475,13 +1475,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://download.calibre-ebook.com/6.2.0/calibre-6.2.0.dmg",
+      "downloadURL" : "https://download.calibre-ebook.com/6.2.1/calibre-6.2.1.dmg",
       "homepage" : "https://calibre-ebook.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/AppIcon.png",
       "localizedDescription" : "E-books management software",
       "name" : "calibre",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/README.md",
-      "sha256" : "7fd4f189cf63ed7990c6c86c6672370b9b71b250977534a08a03a2d1e6990592",
+      "sha256" : "6c7bd8e0b3dbadfa25d070fb4bc3f3b322e5a1b85c50a922ee2d8abb09280744",
       "stats" : {
         "downloadCount" : 1985,
         "impressionCount" : 3121,
@@ -1489,8 +1489,8 @@
       },
       "subtitle" : "E-books management software",
       "tintColor" : "75706B",
-      "version" : "6.2.0",
-      "versionDate" : "2022-07-29T00:00:00Z"
+      "version" : "6.2.1",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -3051,7 +3051,7 @@
       "sha256" : "6f80b5ef9cf34dfe508df3a1c81f073e17ac5d27b84322f5e42067396a09e4ec",
       "stats" : {
         "downloadCount" : 8719,
-        "impressionCount" : 963
+        "impressionCount" : 964
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -3211,20 +3211,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.25.12569.dmg",
+      "downloadURL" : "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.25.12627.dmg",
       "homepage" : "https://www.jetbrains.com/toolbox-app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jetbrains-toolbox/AppIcon.png",
       "localizedDescription" : "JetBrains tools manager",
       "name" : "JetBrains Toolbox",
-      "sha256" : "43fdbf8dd65b62e5ebd5f1be52e840389784035aa7b94e3c50a1977c960abf7e",
+      "sha256" : "0f0ce719cbacfd83d10608a07795b3102a57e7fc1652864098fda599fca5323f",
       "stats" : {
         "downloadCount" : 3125,
         "impressionCount" : 1312
       },
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
-      "version" : "1.25,1.25.12569",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "1.25,1.25.12627",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -5085,20 +5085,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://updatecdn.meeting.qq.com/cos/1302be9fbf4dbb7d3a85b45e90606aa0/TencentMeeting_0300000000_3.9.7.433.publish.x86_64.dmg",
+      "downloadURL" : "https://updatecdn.meeting.qq.com/cos/8dd69ebe8a5279c6b2ee3ef83c9b60e3/TencentMeeting_0300000000_3.9.8.417.publish.x86_64.dmg",
       "homepage" : "https://meeting.tencent.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tencent-meeting/AppIcon.png",
       "localizedDescription" : "Cloud video conferencing",
       "name" : "Tencent Meeting",
-      "sha256" : "55f879dc3b5bbfa5419a3def4bb5663c7ea387136a4d87e6404387a602523ad9",
+      "sha256" : "3c25b610ea52ea3f6018cb4651ef13cd33099f6e36948d55401f96b02440cbe0",
       "stats" : {
         "downloadCount" : 449,
         "impressionCount" : 918
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
-      "version" : "3.9.7.433,1302be9fbf4dbb7d3a85b45e90606aa0",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "3.9.8.417,8dd69ebe8a5279c6b2ee3ef83c9b60e3",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -5106,20 +5106,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://downloads.pdfexpert.com/pem3/versions/848/PDFExpert.zip",
+      "downloadURL" : "https://downloads.pdfexpert.com/pem3/versions/850/PDFExpert.zip",
       "homepage" : "https://pdfexpert.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pdf-expert/AppIcon.png",
       "localizedDescription" : "PDF reader, editor and annotator",
       "name" : "PDF Expert",
-      "sha256" : "bb81d6f4b05850e19d37dbdfb042e5c650192d49cbd40d4d465aab78e21d3c47",
+      "sha256" : "628c0c0d4fe13fa378ee088046f3e84b16ec7d4cbd7eb016e570683dd316cf44",
       "stats" : {
         "downloadCount" : 440,
         "impressionCount" : 508
       },
       "subtitle" : "PDF reader, editor and annotator",
       "tintColor" : "D87D70",
-      "version" : "3.0.24,848",
-      "versionDate" : "2022-07-17T00:00:00Z"
+      "version" : "3.0.25,850",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -5842,7 +5842,7 @@
       "sha256" : "edb15bcb9c8b79d0b7c52621ffdebb41a4e6df6016ebefeb2f6e1e89beec76af",
       "stats" : {
         "downloadCount" : 305,
-        "impressionCount" : 302
+        "impressionCount" : 303
       },
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
@@ -6969,19 +6969,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/cryptomator/cryptomator/releases/download/1.6.10/Cryptomator-1.6.10.dmg",
+      "downloadURL" : "https://github.com/cryptomator/cryptomator/releases/download/1.6.11/Cryptomator-1.6.11.dmg",
       "homepage" : "https://cryptomator.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cryptomator/AppIcon.png",
       "localizedDescription" : "Multi-platform client-side cloud file encryption tool",
       "name" : "Cryptomator",
-      "sha256" : "84328376c3919a1b7948adbfbd446ea1e2d1f90f07808d866bb32a6f39cf0571",
+      "sha256" : "9bb5ef5630a971c849d2471fdf6deebf14e182d1670a9eed588fb5632492fffb",
       "stats" : {
         "downloadCount" : 179,
         "impressionCount" : 444
       },
       "subtitle" : "Multi-platform client-side cloud file encryption tool",
       "tintColor" : "6E9471",
-      "version" : "1.6.10"
+      "version" : "1.6.11",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -7087,20 +7088,20 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://software.charliemonroe.net/trial/downie/v4/Downie_4_4421.dmg",
+      "downloadURL" : "https://software.charliemonroe.net/trial/downie/v4/Downie_4_4433.dmg",
       "homepage" : "https://software.charliemonroe.net/downie.php",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-downie/AppIcon.png",
       "localizedDescription" : "Downloads videos from different websites",
       "name" : "Downie",
-      "sha256" : "1ac83d0c73ccd91fa0756e5062412835d3f9ccafa044a540fae825b5093c3d48",
+      "sha256" : "18b1e422b2b28f1e98c1e830cf6e61155635d5a9f6a56cffa5723702da289152",
       "stats" : {
         "downloadCount" : 172,
         "impressionCount" : 767
       },
       "subtitle" : "Downloads videos from different websites",
       "tintColor" : "A676DB",
-      "version" : "4.5.6,4421",
-      "versionDate" : "2022-07-03T00:00:00Z"
+      "version" : "4.5.7,4433",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -7247,20 +7248,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-660cb1ba.zip",
+      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-3f7b375b.zip",
       "homepage" : "https://cog.losno.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cog/AppIcon.png",
       "localizedDescription" : "Audio player",
       "name" : "Cog",
-      "sha256" : "5d0c2a96d26423b65600f5f218e1545cecdb3c82cb22087d3986976dbe77a165",
+      "sha256" : "529322747509996530a5cf35ebe18b3a3ed53a9c3524c8a45c7e341e6d3f2b36",
       "stats" : {
         "downloadCount" : 164,
         "impressionCount" : 1588
       },
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
-      "version" : "2665,660cb1ba",
-      "versionDate" : "2022-07-28T00:00:00Z"
+      "version" : "2668,3f7b375b",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -7421,7 +7422,7 @@
       "sha256" : "1f935f7fa49a640117396ae15cfe5cdfdfdb7269f16b2b3d61faf2f3e2cb5884",
       "stats" : {
         "downloadCount" : 158,
-        "impressionCount" : 204
+        "impressionCount" : 205
       },
       "subtitle" : "App that enables mouse-free UI interaction",
       "tintColor" : "D4CFC5",
@@ -8728,20 +8729,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://downloads.exodus.com/releases/exodus-macos-22.7.15.dmg",
+      "downloadURL" : "https://downloads.exodus.com/releases/exodus-macos-22.7.29.dmg",
       "homepage" : "https://www.exodus.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-exodus/AppIcon.png",
       "localizedDescription" : "Desktop wallet for cryptocurrency assets",
       "name" : "Exodus",
-      "sha256" : "baf92d8d77182a4dfcae5a2b0e7b38b0199a3f8c75e64f1ce08cf182d94e5240",
+      "sha256" : "a8dea3a0c477452ef96575fe42c85ace474308a376eba298cba2390d4c192c44",
       "stats" : {
         "downloadCount" : 100,
         "impressionCount" : 406
       },
       "subtitle" : "Desktop wallet for cryptocurrency assets",
       "tintColor" : "162763",
-      "version" : "22.7.15",
-      "versionDate" : "2022-07-15T00:00:00Z"
+      "version" : "22.7.29",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -9672,20 +9673,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://arctype-downloads.s3-us-west-2.amazonaws.com/updates/Arctype-0.9.76.dmg",
+      "downloadURL" : "https://arctype-downloads.s3-us-west-2.amazonaws.com/updates/Arctype-0.9.77.dmg",
       "homepage" : "https://arctype.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arctype/AppIcon.png",
       "localizedDescription" : "SQL client and database management tool",
       "name" : "Arctype",
-      "sha256" : "8e67cb2d6eb4076f0f2c5f82c54d5218338e46734ef4d9c7b410b86ac331566a",
+      "sha256" : "32c36e29a93ad3da3fef308d745288009d527026781c91622f0ba2593236e7cb",
       "stats" : {
         "downloadCount" : 82,
         "impressionCount" : 840
       },
       "subtitle" : "SQL client and database management tool",
       "tintColor" : "3F3247",
-      "version" : "0.9.76",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "0.9.77",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -10383,19 +10384,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.jetbrains.com/objc/AppCode-2022.1.3.dmg",
+      "downloadURL" : "https://download.jetbrains.com/objc/AppCode-2022.1.4.dmg",
       "homepage" : "https://www.jetbrains.com/objc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-appcode/AppIcon.png",
       "localizedDescription" : "IDE for Swift, Objective-C, C, and C++ development",
       "name" : "AppCode",
-      "sha256" : "dead3a971fe49791b4c34786c1c6354344e61844d6333a25b6f9b8eba5d63a79",
+      "sha256" : "cfe9e6861a6f1ee74e0628733e171534e87ead124af45c0fe264fa2b93f4a476",
       "stats" : {
         "downloadCount" : 70,
         "impressionCount" : 654
       },
       "subtitle" : "IDE for Swift, Objective-C, C, and C++ development",
       "tintColor" : "1B718E",
-      "version" : "2022.1.3,221.5921.25"
+      "version" : "2022.1.4,221.6008.18",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -11277,8 +11279,8 @@
       },
       "subtitle" : "Online editor for Word, Excel and PPT documents",
       "tintColor" : "5D9AFE",
-      "version" : "2.3.11",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "2.3.12",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -12970,7 +12972,7 @@
       "sha256" : "9fc0d1cc06bcccf990b63e8718bbad30327e15073bbd495341e5d319ce76c519",
       "stats" : {
         "downloadCount" : 43,
-        "impressionCount" : 331
+        "impressionCount" : 332
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
@@ -28729,20 +28731,20 @@
       "categories" : [
         "public.app-category.finance"
       ],
-      "downloadURL" : "https://github.com/iotaledger/firefly/releases/download/desktop-1.6.4/firefly-desktop-1.6.4.dmg",
+      "downloadURL" : "https://github.com/iotaledger/firefly/releases/download/desktop-1.6.5/firefly-desktop-1.6.5.dmg",
       "homepage" : "https://firefly.iota.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefly/AppIcon.png",
       "localizedDescription" : "Official wallet for IOTA",
       "name" : "Firefly",
-      "sha256" : "6bd02ea66044c9548c453ed694e3a5f38181a656389f76a569cb2c02d8f6ad67",
+      "sha256" : "07be9f0a3c645bd0d9566b7fcc77befd406e727e60aaf2d7f752ab287d3e5ee3",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 554
       },
       "subtitle" : "Official wallet for IOTA",
       "tintColor" : "DAE7F2",
-      "version" : "1.6.4",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "1.6.5",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -32014,20 +32016,20 @@
       "categories" : [
         "public.app-category.education"
       ],
-      "downloadURL" : "https://beta.cinderella.de/Cinderella-3.0b.2046.dmg",
+      "downloadURL" : "https://beta.cinderella.de/Cinderella-3.0b.2047.dmg",
       "homepage" : "https://cinderella.de/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cinderella/AppIcon.png",
       "localizedDescription" : "Interactive Geometry Software",
       "name" : "Cinderella",
-      "sha256" : "e48f26d0df278ace9f65d67640f0876313b0710e11121ee352d87e9aab580ff2",
+      "sha256" : "cb84af8daf480675cf0e8187ffd3f10a3c82775cfbcbafec52f03c1806e6d85d",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 688
       },
       "subtitle" : "Interactive Geometry Software",
       "tintColor" : "A18119",
-      "version" : "3.0b.2046",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "3.0b.2047",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -38262,19 +38264,20 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "downloadURL" : "https://github.com/NPBruce/valkyrie/releases/download/release/2.5/v2.5.6/valkyrie-macos-2.5.6.tar.gz",
+      "downloadURL" : "https://github.com/NPBruce/valkyrie/releases/download/release/2.5/v2.5.7/valkyrie-macos-2.5.7.tar.gz",
       "homepage" : "https://npbruce.github.io/valkyrie/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-valkyrie/AppIcon.png",
       "localizedDescription" : "Game Master for Fantasy Flight board games",
       "name" : "Valkyrie",
-      "sha256" : "6b73e8f9eb7fca202feea27545163d08d237ea1b23289716a1d4d0928f392c0d",
+      "sha256" : "e667934e6ee3f27d3f81591b830d2be4513c8997f54f5312be56917c0697ce75",
       "stats" : {
         "downloadCount" : 1,
         "impressionCount" : 506
       },
       "subtitle" : "Game Master for Fantasy Flight board games",
       "tintColor" : "797979",
-      "version" : "2.5.6"
+      "version" : "2.5.7",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -39261,19 +39264,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://releases.radicle.xyz/radicle-upstream-0.3.1.dmg",
+      "downloadURL" : "https://releases.radicle.xyz/radicle-upstream-0.3.2.dmg",
       "homepage" : "https://radicle.xyz/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-radicle-upstream/AppIcon.png",
       "localizedDescription" : "Desktop client for Radicle, a p2p stack for code collaboration",
       "name" : "Radicle Upstream",
-      "sha256" : "9fedea23da893069bc0af77bfa0debccb5f80637a19abbcff898d3a37c95c198",
+      "sha256" : "f197b3858ed84506019afd25a3e1b5d61b9858cea4f4e460a21c0fd5aafc0d8e",
       "stats" : {
         "downloadCount" : 0,
         "impressionCount" : 106
       },
       "subtitle" : "Desktop client for Radicle, a p2p stack for code collaboration",
       "tintColor" : "557D6A",
-      "version" : "0.3.1"
+      "version" : "0.3.2",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -46230,7 +46234,7 @@
       "sha256" : "fa48db88e50cd31f06ae87f076b5bd961c50372e0582bda88f971a33cdf4b3e5",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 127
+        "impressionCount" : 128
       },
       "subtitle" : "Browser designed for modern work",
       "tintColor" : "EFDADC",
@@ -50613,7 +50617,7 @@
       "sha256" : "0c4403cc990ae21d264b94915d4c1e161e129b059d39c4427bdecbed7e05fd50",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 58
+        "impressionCount" : 59
       },
       "subtitle" : "Privacy enhanced BitTorrent client with P2P content discovery",
       "tintColor" : "F07358",
@@ -56755,20 +56759,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://desktopassets.prezi.com/mac/prezi-video/releases/Prezi_Video_2.10.0.zip",
+      "downloadURL" : "https://desktopassets.prezi.com/mac/prezi-video/releases/Prezi_Video_2.11.0.zip",
       "homepage" : "https://prezi.com/video/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-prezi-video/AppIcon.png",
       "localizedDescription" : "Lets you interact with your content live as you stream or record",
       "name" : "Prezi Video",
-      "sha256" : "a336c429a2cf469b60c8182f616e1d8be83ba2fc2bce9211334713b1525f54b4",
+      "sha256" : "f950646f6d3d47abfaa1f25ae8a19f2452fc68891cb14e3f6e6fa7aec037f92e",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 13
       },
       "subtitle" : "Lets you interact with your content live as you stream or record",
       "tintColor" : "C39955",
-      "version" : "2.10.0",
-      "versionDate" : "2022-07-07T00:00:00Z"
+      "version" : "2.11.0",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -57087,19 +57091,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://wingware.com/pub/wing-personal/8.3.2.0/wing-personal-8.3.2.0-intel.dmg",
+      "downloadURL" : "https://wingware.com/pub/wing-personal/8.3.3.0/wing-personal-8.3.3.0-intel.dmg",
       "homepage" : "https://www.wingware.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wing-personal/AppIcon.png",
       "localizedDescription" : "Free Python IDE designed for students and hobbyists",
       "name" : "Wing Personal",
-      "sha256" : "9eae9bb82491cb1bce82ae407a39ac90f5ddfa1ff20bbcb33428091a1f462258",
+      "sha256" : "06214808731fe6e267a7509254a62ffabf529d15f0a6ea0c45acbcd16191162c",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 28
       },
       "subtitle" : "Free Python IDE designed for students and hobbyists",
       "tintColor" : "8E9193",
-      "version" : "8.3.2.0"
+      "version" : "8.3.3.0",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -61194,17 +61199,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://s3-us-west-2.amazonaws.com/confluent.cloud/confluent-cli/archives/2.22.0/confluent_v2.22.0_darwin_amd64.tar.gz",
+      "downloadURL" : "https://s3-us-west-2.amazonaws.com/confluent.cloud/confluent-cli/archives/2.23.0/confluent_v2.23.0_darwin_amd64.tar.gz",
       "homepage" : "https://docs.confluent.io/confluent-cli/current/overview.html",
       "localizedDescription" : "Enables developers to manage Confluent Cloud or Confluent Platform",
       "name" : "Confluent CLI",
-      "sha256" : "454e412941eb14881612bbd991c71361e4b6e22ea95423f49bbdb611c4f3b5db",
+      "sha256" : "a4c40176b497f786268367fa6f5d42c5f2284c092c2eccfee0aba7522883318a",
       "stats" : {
         "downloadCount" : 152
       },
       "subtitle" : "Enables developers to manage Confluent Cloud or Confluent Platform",
-      "version" : "2.22.0",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "2.23.0",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -61797,16 +61802,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/mac/12.x/12.0/ML/FoxitPDFReader1200.L10N.Setup.pkg",
+      "downloadURL" : "https://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/mac/12.x/12.0/ML/FoxitPDFReader1201.L10N.Setup.pkg",
       "homepage" : "https://www.foxit.com/pdf-reader/",
       "localizedDescription" : "PDF reader",
       "name" : "Foxit Reader",
-      "sha256" : "8ede2dae5163bc68f12146960b95437c29773709569c848e2bef2400dd93477f",
+      "sha256" : "72668979897eab47f21e77550cc670d3b0b972adda566fda1cf1fa506d3b1f8f",
       "stats" : {
         "downloadCount" : 103
       },
       "subtitle" : "PDF reader",
-      "version" : "12.0.0"
+      "version" : "12.0.1",
+      "versionDate" : "2022-07-29T15:53:18Z"
     },
     {
       "beta" : false,
@@ -73338,125 +73344,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "a-better-finder-rename",
-      "caption" : "A Better Finder Rename updated from 11.50 to 11.51",
-      "date" : "2022-07-27T16:25:42Z",
-      "identifier" : "release-a-better-finder-rename-11.51",
-      "title" : "New Release: A Better Finder Rename 11.51"
-    },
-    {
-      "appID" : "youtube-to-mp3",
-      "caption" : "MediaHuman YouTube to MP3 Converter updated from 3.9.9.73 to 3.9.9.74",
-      "date" : "2022-07-27T16:25:42Z",
-      "identifier" : "release-youtube-to-mp3-3.9.9.74",
-      "title" : "New Release: MediaHuman YouTube to MP3 Converter 3.9.9.74"
-    },
-    {
-      "appID" : "knime",
-      "caption" : "KNIME Analytics Platform updated from 4.6.0 to 4.6.1",
-      "date" : "2022-07-27T16:25:42Z",
-      "identifier" : "release-knime-4.6.1",
-      "title" : "New Release: KNIME Analytics Platform 4.6.1"
-    },
-    {
-      "appID" : "mediahuman-youtube-downloader",
-      "caption" : "MediaHuman YouTube Downloader updated from 3.9.9.73 to 3.9.9.76",
-      "date" : "2022-07-27T16:25:43Z",
-      "identifier" : "release-mediahuman-youtube-downloader-3.9.9.76",
-      "title" : "New Release: MediaHuman YouTube Downloader 3.9.9.76"
-    },
-    {
-      "appID" : "clion",
-      "caption" : "CLion updated from 2022.1.3,221.5921.27 to 2022.2,222.3345.126",
-      "date" : "2022-07-27T19:19:55Z",
-      "identifier" : "release-clion-2022.2,222.3345.126",
-      "title" : "New Release: CLion 2022.2,222.3345.126"
-    },
-    {
-      "appID" : "path-finder",
-      "caption" : "Path Finder updated from 2135 to 2136",
-      "date" : "2022-07-27T19:19:55Z",
-      "identifier" : "release-path-finder-2136",
-      "title" : "New Release: Path Finder 2136"
-    },
-    {
-      "appID" : "pdfsam-basic",
-      "caption" : "PDFsam Basic updated from 4.3.2 to 4.3.3",
-      "date" : "2022-07-27T19:19:56Z",
-      "identifier" : "release-pdfsam-basic-4.3.3",
-      "title" : "New Release: PDFsam Basic 4.3.3"
-    },
-    {
-      "appID" : "dbschema",
-      "caption" : "DbSchema updated from 9.0.2 to 9.0.3",
-      "date" : "2022-07-27T19:19:56Z",
-      "identifier" : "release-dbschema-9.0.3",
-      "title" : "New Release: DbSchema 9.0.3"
-    },
-    {
-      "appID" : "azure-data-studio",
-      "caption" : "Azure Data Studio updated from 1.37.0 to 1.38.0",
-      "date" : "2022-07-27T19:19:57Z",
-      "identifier" : "release-azure-data-studio-1.38.0",
-      "title" : "New Release: Azure Data Studio 1.38.0"
-    },
-    {
-      "appID" : "minecraft-server",
-      "caption" : "Minecraft Server updated from 1.19,e00c4052dac1d59a1188b2aa9d5a87113aaf1122 to 1.19.1,8399e1211e95faa421c1507b322dbeae86d604df",
-      "date" : "2022-07-27T19:19:57Z",
-      "identifier" : "release-minecraft-server-1.19.1,8399e1211e95faa421c1507b322dbeae86d604df",
-      "title" : "New Release: Minecraft Server 1.19.1,8399e1211e95faa421c1507b322dbeae86d604df"
-    },
-    {
-      "appID" : "qldds",
-      "caption" : "QuickLook DDS 1.33 released",
-      "date" : "2022-07-28T01:09:48Z",
-      "identifier" : "release-qldds-1.33",
-      "title" : "New Release: QuickLook DDS 1.33"
-    },
-    {
-      "appID" : "signal",
-      "caption" : "Signal updated from 5.51.1 to 5.52.0",
-      "date" : "2022-07-28T09:26:33Z",
-      "identifier" : "release-signal-5.52.0",
-      "title" : "New Release: Signal 5.52.0"
-    },
-    {
-      "appID" : "minecraft",
-      "caption" : "Minecraft updated from 1.0.1222 to 1.1.26",
-      "date" : "2022-07-28T09:26:33Z",
-      "identifier" : "release-minecraft-1.1.26",
-      "title" : "New Release: Minecraft 1.1.26"
-    },
-    {
-      "appID" : "wireshark",
-      "caption" : "Wireshark updated from 3.6.6 to 3.6.7",
-      "date" : "2022-07-28T09:26:33Z",
-      "identifier" : "release-wireshark-3.6.7",
-      "title" : "New Release: Wireshark 3.6.7"
-    },
-    {
-      "appID" : "opera",
-      "caption" : "Opera updated from 89.0.4447.51 to 89.0.4447.71",
-      "date" : "2022-07-28T09:26:33Z",
-      "identifier" : "release-opera-89.0.4447.71",
-      "title" : "New Release: Opera 89.0.4447.71"
-    },
-    {
-      "appID" : "rancher",
-      "caption" : "Rancher Desktop updated from 1.4.1 to 1.5.0",
-      "date" : "2022-07-28T09:26:33Z",
-      "identifier" : "release-rancher-1.5.0",
-      "title" : "New Release: Rancher Desktop 1.5.0"
-    },
-    {
-      "appID" : "setapp",
-      "caption" : "Setapp updated from 3.7.0,1658154274 to 3.8.0,1658842472",
-      "date" : "2022-07-28T09:26:34Z",
-      "identifier" : "release-setapp-3.8.0,1658842472",
-      "title" : "New Release: Setapp 3.8.0,1658842472"
-    },
-    {
       "appID" : "electron",
       "caption" : "Electron updated from 19.0.9 to 19.0.10",
       "date" : "2022-07-28T09:26:34Z",
@@ -73583,13 +73470,6 @@
       "title" : "New Release: Logseq 0.7.9"
     },
     {
-      "appID" : "cog",
-      "caption" : "Cog updated from 2664,4ec21465 to 2665,660cb1ba",
-      "date" : "2022-07-28T11:21:22Z",
-      "identifier" : "release-cog-2665,660cb1ba",
-      "title" : "New Release: Cog 2665,660cb1ba"
-    },
-    {
       "appID" : "clockify",
       "caption" : "Clockify updated from 2.7.18,417 to 2.7.19,427",
       "date" : "2022-07-28T11:21:22Z",
@@ -73707,13 +73587,6 @@
       "date" : "2022-07-29T06:26:11Z",
       "identifier" : "release-docker-4.11.0,83626",
       "title" : "New Release: Docker Desktop 4.11.0,83626"
-    },
-    {
-      "appID" : "calibre",
-      "caption" : "calibre updated from 6.1.0 to 6.2.0",
-      "date" : "2022-07-29T06:26:12Z",
-      "identifier" : "release-calibre-6.2.0",
-      "title" : "New Release: calibre 6.2.0"
     },
     {
       "appID" : "thunderbird",
@@ -74036,6 +73909,139 @@
       "date" : "2022-07-29T06:26:18Z",
       "identifier" : "release-marsedit-4.6,10367",
       "title" : "New Release: MarsEdit 4.6,10367"
+    },
+    {
+      "appID" : "calibre",
+      "caption" : "calibre updated from 6.2.0 to 6.2.1",
+      "date" : "2022-07-29T15:53:18Z",
+      "identifier" : "release-calibre-6.2.1",
+      "title" : "New Release: calibre 6.2.1"
+    },
+    {
+      "appID" : "jetbrains-toolbox",
+      "caption" : "JetBrains Toolbox updated from 1.25,1.25.12569 to 1.25,1.25.12627",
+      "date" : "2022-07-29T15:53:19Z",
+      "identifier" : "release-jetbrains-toolbox-1.25,1.25.12627",
+      "title" : "New Release: JetBrains Toolbox 1.25,1.25.12627"
+    },
+    {
+      "appID" : "tencent-meeting",
+      "caption" : "Tencent Meeting updated from 3.9.7.433,1302be9fbf4dbb7d3a85b45e90606aa0 to 3.9.8.417,8dd69ebe8a5279c6b2ee3ef83c9b60e3",
+      "date" : "2022-07-29T15:53:19Z",
+      "identifier" : "release-tencent-meeting-3.9.8.417,8dd69ebe8a5279c6b2ee3ef83c9b60e3",
+      "title" : "New Release: Tencent Meeting 3.9.8.417,8dd69ebe8a5279c6b2ee3ef83c9b60e3"
+    },
+    {
+      "appID" : "pdf-expert",
+      "caption" : "PDF Expert updated from 3.0.24,848 to 3.0.25,850",
+      "date" : "2022-07-29T15:53:19Z",
+      "identifier" : "release-pdf-expert-3.0.25,850",
+      "title" : "New Release: PDF Expert 3.0.25,850"
+    },
+    {
+      "appID" : "cryptomator",
+      "caption" : "Cryptomator updated from 1.6.10 to 1.6.11",
+      "date" : "2022-07-29T15:53:19Z",
+      "identifier" : "release-cryptomator-1.6.11",
+      "title" : "New Release: Cryptomator 1.6.11"
+    },
+    {
+      "appID" : "downie",
+      "caption" : "Downie updated from 4.5.6,4421 to 4.5.7,4433",
+      "date" : "2022-07-29T15:53:20Z",
+      "identifier" : "release-downie-4.5.7,4433",
+      "title" : "New Release: Downie 4.5.7,4433"
+    },
+    {
+      "appID" : "cog",
+      "caption" : "Cog updated from 2665,660cb1ba to 2668,3f7b375b",
+      "date" : "2022-07-29T15:53:20Z",
+      "identifier" : "release-cog-2668,3f7b375b",
+      "title" : "New Release: Cog 2668,3f7b375b"
+    },
+    {
+      "appID" : "exodus",
+      "caption" : "Exodus updated from 22.7.15 to 22.7.29",
+      "date" : "2022-07-29T15:53:20Z",
+      "identifier" : "release-exodus-22.7.29",
+      "title" : "New Release: Exodus 22.7.29"
+    },
+    {
+      "appID" : "arctype",
+      "caption" : "Arctype updated from 0.9.76 to 0.9.77",
+      "date" : "2022-07-29T15:53:20Z",
+      "identifier" : "release-arctype-0.9.77",
+      "title" : "New Release: Arctype 0.9.77"
+    },
+    {
+      "appID" : "appcode",
+      "caption" : "AppCode updated from 2022.1.3,221.5921.25 to 2022.1.4,221.6008.18",
+      "date" : "2022-07-29T15:53:20Z",
+      "identifier" : "release-appcode-2022.1.4,221.6008.18",
+      "title" : "New Release: AppCode 2022.1.4,221.6008.18"
+    },
+    {
+      "appID" : "tencent-docs",
+      "caption" : "Tencent Docs updated from 2.3.11 to 2.3.12",
+      "date" : "2022-07-29T15:53:21Z",
+      "identifier" : "release-tencent-docs-2.3.12",
+      "title" : "New Release: Tencent Docs 2.3.12"
+    },
+    {
+      "appID" : "firefly",
+      "caption" : "Firefly updated from 1.6.4 to 1.6.5",
+      "date" : "2022-07-29T15:53:21Z",
+      "identifier" : "release-firefly-1.6.5",
+      "title" : "New Release: Firefly 1.6.5"
+    },
+    {
+      "appID" : "cinderella",
+      "caption" : "Cinderella updated from 3.0b.2046 to 3.0b.2047",
+      "date" : "2022-07-29T15:53:21Z",
+      "identifier" : "release-cinderella-3.0b.2047",
+      "title" : "New Release: Cinderella 3.0b.2047"
+    },
+    {
+      "appID" : "valkyrie",
+      "caption" : "Valkyrie updated from 2.5.6 to 2.5.7",
+      "date" : "2022-07-29T15:53:21Z",
+      "identifier" : "release-valkyrie-2.5.7",
+      "title" : "New Release: Valkyrie 2.5.7"
+    },
+    {
+      "appID" : "radicle-upstream",
+      "caption" : "Radicle Upstream updated from 0.3.1 to 0.3.2",
+      "date" : "2022-07-29T15:53:21Z",
+      "identifier" : "release-radicle-upstream-0.3.2",
+      "title" : "New Release: Radicle Upstream 0.3.2"
+    },
+    {
+      "appID" : "prezi-video",
+      "caption" : "Prezi Video updated from 2.10.0 to 2.11.0",
+      "date" : "2022-07-29T15:53:21Z",
+      "identifier" : "release-prezi-video-2.11.0",
+      "title" : "New Release: Prezi Video 2.11.0"
+    },
+    {
+      "appID" : "wing-personal",
+      "caption" : "Wing Personal updated from 8.3.2.0 to 8.3.3.0",
+      "date" : "2022-07-29T15:53:22Z",
+      "identifier" : "release-wing-personal-8.3.3.0",
+      "title" : "New Release: Wing Personal 8.3.3.0"
+    },
+    {
+      "appID" : "confluent-cli",
+      "caption" : "Confluent CLI updated from 2.22.0 to 2.23.0",
+      "date" : "2022-07-29T15:53:22Z",
+      "identifier" : "release-confluent-cli-2.23.0",
+      "title" : "New Release: Confluent CLI 2.23.0"
+    },
+    {
+      "appID" : "foxitreader",
+      "caption" : "Foxit Reader updated from 12.0.0 to 12.0.1",
+      "date" : "2022-07-29T15:53:22Z",
+      "identifier" : "release-foxitreader-12.0.1",
+      "title" : "New Release: Foxit Reader 12.0.1"
     }
   ],
   "platform" : "macos",

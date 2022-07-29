@@ -323,7 +323,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1835,
-        "impressionCount" : 5850,
+        "impressionCount" : 5851,
         "viewCount" : 383
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -1248,7 +1248,7 @@
       "sha256" : "62ac17bb21d5312600c243c351c83efcc527dc4e0908379d5ad2726415c843d1",
       "stats" : {
         "downloadCount" : 2465,
-        "impressionCount" : 1992,
+        "impressionCount" : 1993,
         "viewCount" : 141
       },
       "subtitle" : "HTTP and GraphQL Client",
@@ -1415,7 +1415,7 @@
       "sha256" : "c77aa39d405ee627dbd671a0514eb97bf7aae9206fee113c9253c552719ef0d2",
       "stats" : {
         "downloadCount" : 2281,
-        "impressionCount" : 3086,
+        "impressionCount" : 3087,
         "viewCount" : 336
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -1952,7 +1952,7 @@
       "sha256" : "addab784af18bafa303340e754c00084c126e61c3d5b93006f8e6d602f838203",
       "stats" : {
         "downloadCount" : 670,
-        "impressionCount" : 1920,
+        "impressionCount" : 1921,
         "viewCount" : 180
       },
       "subtitle" : "Photography workflow application and raw developer",
@@ -2315,7 +2315,7 @@
       "sha256" : "166d3513828b61fdd2ece818eb8a292b30c7b629ca4e2006069f6d6403772db5",
       "stats" : {
         "downloadCount" : 274,
-        "impressionCount" : 1779,
+        "impressionCount" : 1780,
         "viewCount" : 113
       },
       "subtitle" : "HTTP client that helps testing and describing APIs",
@@ -2671,7 +2671,7 @@
       "sha256" : "c5ded48436c096e9b2e9ff19d94fc2aa22306dd2eab7f0ba031c5e945a0d062d",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 2158,
+        "impressionCount" : 2159,
         "viewCount" : 205
       },
       "subtitle" : "News reader with flexible settings",
@@ -3485,7 +3485,7 @@
       "sha256" : "70fa1cb9990093b00d184eace8e6c5f1cfefe33decb8ab051141a3847439ff14",
       "stats" : {
         "downloadCount" : 2012,
-        "impressionCount" : 639
+        "impressionCount" : 640
       },
       "subtitle" : "Screenshot software",
       "tintColor" : "DFDFDF",
@@ -3546,7 +3546,7 @@
       "sha256" : "363f8f7a45a657abdc8709d56bb8b100a3ce85c0857b69e5a906476867e33eb3",
       "stats" : {
         "downloadCount" : 1745,
-        "impressionCount" : 772
+        "impressionCount" : 773
       },
       "subtitle" : "Draw.io is free online diagram software",
       "tintColor" : "EC9B45",
@@ -5566,7 +5566,7 @@
       "sha256" : "e0129757db1a0b9770e3c6d7fbdba63bfe893bdfd476eae45a12bbd1e5b8f2e6",
       "stats" : {
         "downloadCount" : 378,
-        "impressionCount" : 302
+        "impressionCount" : 303
       },
       "subtitle" : "Free and open source web app scanner",
       "tintColor" : "5E89B0",
@@ -6532,7 +6532,7 @@
       "sha256" : "94206b9fe2c6ec72b0ae4ac139f1309bd4e1bdfceea02819706e041532a8c2e7",
       "stats" : {
         "downloadCount" : 218,
-        "impressionCount" : 266
+        "impressionCount" : 267
       },
       "subtitle" : "Modified browser that helps in responsive web development",
       "tintColor" : "C1C2C2",
@@ -7177,7 +7177,7 @@
       "sha256" : "48c21f8d702907b8627b3f4cf939b2447b09e8ed1f06d0dbe8f5a91451a76471",
       "stats" : {
         "downloadCount" : 170,
-        "impressionCount" : 282
+        "impressionCount" : 283
       },
       "subtitle" : "Minimal browser that protects privacy",
       "tintColor" : "4FB4FC",
@@ -7987,6 +7987,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "tradingview",
+      "categories" : [
+        "public.app-category.finance"
+      ],
+      "downloadURL" : "https://tvd-packages.tradingview.com/stable/1.0.12/darwin/TradingView.dmg",
+      "homepage" : "https://www.tradingview.com/desktop/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tradingview/AppIcon.png",
+      "localizedDescription" : "Charting and social-networking for investment traders",
+      "name" : "TradingView Desktop",
+      "sha256" : "2ccf8a4f5576dc0ce90021ac8b4523d26f0ed133d9bcef7b303ebb39454cc18a",
+      "stats" : {
+        "downloadCount" : 129,
+        "impressionCount" : 491
+      },
+      "subtitle" : "Charting and social-networking for investment traders",
+      "tintColor" : "3E414A",
+      "version" : "1.0.12",
+      "versionDate" : "2022-07-27T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "cabal",
       "categories" : [
         "public.app-category.utilities"
@@ -8004,27 +8025,6 @@
       "subtitle" : "Desktop client for the chat platform Cabal",
       "tintColor" : "2B2B31",
       "version" : "7.0.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tradingview",
-      "categories" : [
-        "public.app-category.finance"
-      ],
-      "downloadURL" : "https://tvd-packages.tradingview.com/stable/1.0.12/darwin/TradingView.dmg",
-      "homepage" : "https://www.tradingview.com/desktop/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tradingview/AppIcon.png",
-      "localizedDescription" : "Charting and social-networking for investment traders",
-      "name" : "TradingView Desktop",
-      "sha256" : "2ccf8a4f5576dc0ce90021ac8b4523d26f0ed133d9bcef7b303ebb39454cc18a",
-      "stats" : {
-        "downloadCount" : 128,
-        "impressionCount" : 490
-      },
-      "subtitle" : "Charting and social-networking for investment traders",
-      "tintColor" : "3E414A",
-      "version" : "1.0.12",
-      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9374,7 +9374,7 @@
       "sha256" : "9266c6187405b005b652ca643b926f1937bec5e08c0d6c9bc75b5216d00eec94",
       "stats" : {
         "downloadCount" : 87,
-        "impressionCount" : 252
+        "impressionCount" : 253
       },
       "subtitle" : "Font manager",
       "tintColor" : "6A40BA",
@@ -10621,7 +10621,7 @@
       "sha256" : "7fec7bf1fb93854ed87cbaf4d9e21ef964adfc064d731b82a84a499f5b911e1f",
       "stats" : {
         "downloadCount" : 67,
-        "impressionCount" : 530
+        "impressionCount" : 531
       },
       "subtitle" : "Seamless, automatic, “dotfile” sync to iCloud",
       "tintColor" : "83C4EC",
@@ -14686,7 +14686,7 @@
       "sha256" : "dfe909bed36ec250df65dfcf5e543080edd9c4f26d5f0c274e1d1c52eefa6748",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 586
+        "impressionCount" : 587
       },
       "subtitle" : "Swiss army chainsaw of terminal emulators",
       "tintColor" : "46B159",
@@ -18495,7 +18495,7 @@
       "sha256" : "d628bd2956b2f57a610ba75b94d510f2af2d3fe8f9f621ff4922d0a1eb134193",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 111
+        "impressionCount" : 112
       },
       "subtitle" : "Epub reader",
       "tintColor" : "699FFD",

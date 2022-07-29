@@ -71,7 +71,7 @@
       "size" : 5480536,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 7,
+        "downloadCount" : 8,
         "impressionCount" : 23,
         "issueCount" : 0,
         "starCount" : 1,
@@ -797,7 +797,7 @@
       "size" : 8491944,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 2,
+        "downloadCount" : 3,
         "impressionCount" : 5,
         "issueCount" : 0,
         "starCount" : 1,
@@ -911,7 +911,7 @@
       "size" : 17553833,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 52,
+        "downloadCount" : 53,
         "impressionCount" : 418,
         "issueCount" : 0,
         "starCount" : 1,

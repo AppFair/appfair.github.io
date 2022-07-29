@@ -1490,7 +1490,7 @@
       "subtitle" : "E-books management software",
       "tintColor" : "75706B",
       "version" : "6.2.1",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3224,7 +3224,7 @@
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
       "version" : "1.25,1.25.12627",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5098,7 +5098,7 @@
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
       "version" : "3.9.8.417,8dd69ebe8a5279c6b2ee3ef83c9b60e3",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5119,7 +5119,7 @@
       "subtitle" : "PDF reader, editor and annotator",
       "tintColor" : "D87D70",
       "version" : "3.0.25,850",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6982,7 +6982,7 @@
       "subtitle" : "Multi-platform client-side cloud file encryption tool",
       "tintColor" : "6E9471",
       "version" : "1.6.11",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7101,7 +7101,7 @@
       "subtitle" : "Downloads videos from different websites",
       "tintColor" : "A676DB",
       "version" : "4.5.7,4433",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7261,7 +7261,7 @@
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
       "version" : "2668,3f7b375b",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8742,7 +8742,7 @@
       "subtitle" : "Desktop wallet for cryptocurrency assets",
       "tintColor" : "162763",
       "version" : "22.7.29",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9686,7 +9686,7 @@
       "subtitle" : "SQL client and database management tool",
       "tintColor" : "3F3247",
       "version" : "0.9.77",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10397,7 +10397,7 @@
       "subtitle" : "IDE for Swift, Objective-C, C, and C++ development",
       "tintColor" : "1B718E",
       "version" : "2022.1.4,221.6008.18",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11280,7 +11280,7 @@
       "subtitle" : "Online editor for Word, Excel and PPT documents",
       "tintColor" : "5D9AFE",
       "version" : "2.3.12",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28744,7 +28744,7 @@
       "subtitle" : "Official wallet for IOTA",
       "tintColor" : "DAE7F2",
       "version" : "1.6.5",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32029,7 +32029,7 @@
       "subtitle" : "Interactive Geometry Software",
       "tintColor" : "A18119",
       "version" : "3.0b.2047",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -38277,7 +38277,7 @@
       "subtitle" : "Game Master for Fantasy Flight board games",
       "tintColor" : "797979",
       "version" : "2.5.7",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39277,7 +39277,7 @@
       "subtitle" : "Desktop client for Radicle, a p2p stack for code collaboration",
       "tintColor" : "557D6A",
       "version" : "0.3.2",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56772,7 +56772,7 @@
       "subtitle" : "Lets you interact with your content live as you stream or record",
       "tintColor" : "C39955",
       "version" : "2.11.0",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57104,7 +57104,7 @@
       "subtitle" : "Free Python IDE designed for students and hobbyists",
       "tintColor" : "8E9193",
       "version" : "8.3.3.0",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61209,7 +61209,7 @@
       },
       "subtitle" : "Enables developers to manage Confluent Cloud or Confluent Platform",
       "version" : "2.23.0",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61812,7 +61812,7 @@
       },
       "subtitle" : "PDF reader",
       "version" : "12.0.1",
-      "versionDate" : "2022-07-29T15:53:18Z"
+      "versionDate" : "2022-07-29T00:00:00Z"
     },
     {
       "beta" : false,

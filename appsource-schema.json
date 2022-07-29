@@ -1,0 +1,187 @@
+{
+  "$schema": "http://json-schema.org/draft-05/schema#",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "The title of this app source catalog."
+    },
+    "identifier": {
+      "type": "string",
+      "description": "The unique identifier for this catalog."
+    },
+    "locale": {
+      "type": "string",
+      "description": "The name of the locale for the base catalog (IETF BCP 47 language tag)."
+    },
+    "sourceURL": {
+      "type": "string",
+      "description": "The canonical URL for this catalog"
+    },
+    "iconURL": {
+      "type": "string",
+      "description": "A URL pointing to an icon that can be used to represent the catalog."
+    },
+    "tintColor": {
+      "type": "string",
+      "description": "An RGB hex code that suggests how a catalog browser app might style the catalog."
+    },
+    "localizedDescription": {
+      "type": "string",
+      "description": "A full description of this catalog. Limited markdown is permitted."
+    },
+    "apps": {
+      "type": "array",
+      "description": "A list of the apps available in this catalog, ordered by the default ranking for the catalog.",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "string",
+              "description": "The name for this app."
+            },
+            "subtitle": {
+              "type": "string",
+              "description": "A subtitle for the app."
+            },
+            "localizedDescription": {
+              "type": "string",
+              "description": "A full description of this app. Limited markdown is permitted."
+            },
+            "developerName": {
+              "type": "string",
+              "description": "The name and e-mail address of the developer."
+            },
+            "bundleIdentifier": {
+              "type": "string",
+              "description": "The unique identifier for this app."
+            },
+            "iconURL": {
+              "type": "string",
+              "description": "A URL pointing to a PNG of the icon for the app."
+            },
+            "tintColor": {
+              "type": "string",
+              "description": "An RGB hex code that suggests how a catalog browser app might style the app."
+            },
+            "version": {
+              "type": "string",
+              "description": "The version of the app."
+            },
+            "versionDate": {
+              "type": "string",
+              "description": "The date when the specified version was released."
+            },
+            "versionDescription": {
+              "type": "string",
+              "description": "The description of the version, such as release notes or a change log. Limited markdown permitted."
+            },
+            "downloadURL": {
+              "type": "string",
+              "description": "The canonical link to download this app."
+            },
+            "sha256": {
+              "type": "string",
+              "description": "The SHA-256 checksum of the app download artifact."
+            },
+            "size": {
+              "type": "integer",
+              "description": "The size in bytes of the app download artifact."
+            },
+            "screenshotURLs": {
+              "type": "array",
+              "description": "A list of URLs pointing to screenshots of the app.",
+              "items": [
+                {
+                  "type": "string"
+                }
+              ]
+            },
+            "localizations": {
+              "type": "object",
+              "description": "A map of localization keys to a value that is either a URL or else an inline catalog whose values are in the locale's language."
+            },
+            "permissions": {
+              "type": "array",
+              "description": "A list of system-level permissions that ths app may request or utilize.",
+              "items": [
+                {
+                  "type": "object",
+                  "description": "A single permission",
+                  "properties": {
+                    "type": {
+                      "type": "string",
+                      "description": "The type of permission, such as usage, entitlement, or background-mode."
+                    },
+                    "identifier": {
+                      "type": "string",
+                      "description": "The type-specific identifier for the permission, such as the usage description key, the entitlement key, or the background mode name."
+                    },
+                    "usageDescription": {
+                      "type": "string",
+                      "description": "The description displayed to the end-user about the reason the app wants to use the given permission."
+                    }
+                  },
+                  "required": [
+                    "type",
+                    "identifier",
+                    "usageDescription"
+                  ]
+                }
+              ]
+            },
+            "fundingLinks": {
+              "type": "array",
+              "description": "A list of links to funding sources for this app.",
+              "items": [
+                {
+                  "type": "object",
+                  "description": "A single funding source for the app.",
+                  "properties": {
+                    "platform": {
+                      "type": "string",
+                      "description": "The platform title for the funding souce."
+                    },
+                    "url": {
+                      "type": "string",
+                      "description": "The URL to the source-specific funding page for the given app developer."
+                    },
+                    "localizedTitle": {
+                      "type": "string",
+                      "description": "The title of the funding campaign."
+                    },
+                    "localizedDescription": {
+                      "type": "string",
+                      "description": "A full description of the funding campaign. Limited markdown permitted."
+                    }
+                  },
+                  "required": [
+                    "platform",
+                    "url",
+                    "localizedTitle",
+                    "localizedDescription"
+                  ]
+                }
+              ]
+            }
+          },
+          "required": [
+            "name",
+            "bundleIdentifier",
+            "version",
+            "downloadURL",
+            "sha256",
+            "size"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "name",
+    "identifier",
+    "apps"
+  ]
+}
+

@@ -548,6 +548,12 @@ This catalog format is designed to provide interoperable metadata about an
 app, including its name, download location, size, and optional metadata
 such as screenshots and funding links.
 
+The JSON Schema for the appsource catalog format can be found at
+[https://appfair.net/appsource-schema.json](https://appfair.net/appsource-schema.json).
+
+This schema can be used to check the validity of
+exiting catalogs.
+
 #### App Source Example
 
 An example of an app source catalog with a single app is as follows:
@@ -597,22 +603,22 @@ An example of an app source catalog with a single app is as follows:
       "permissions": [
         {
           "type": "usage",
-          "usage": "NSBluetoothPeripheralUsageDescription",
+          "identifier": "NSBluetoothPeripheralUsageDescription",
           "usageDescription": "Attestation of this app's bluetooth peripheral usage purpose."
         },
         {
           "type": "usage",
-          "usage": "NSLocalNetworkUsageDescription",
+          "identifier": "NSLocalNetworkUsageDescription",
           "usageDescription": "Attestation of this app's local network usage purpose."
         },
         {
           "type": "background-mode",
-          "background-mode": "audio",
+          "identifier": "audio",
           "usageDescription": "Attestation of this app's audio background mode purpose."
         },
         {
           "type": "entitlement",
-          "entitlement": "com.vendor.developer.networking.multicast",
+          "identifier": "com.vendor.developer.networking.multicast",
           "usageDescription": "Attestation of this app's multicast entitlement purpose."
         }
       ]
@@ -661,7 +667,7 @@ An element of the "apps" array will contain the following properties:
  
  - `screenshotURLs`: An array of URL strings pointing to a PNG screenshot of the app. Optional.
  - `fundingLinks`: An array of links to supported funding links. See [Funding Links](#funding-links).
- - `permissions`: An array of permission definitions, one for each entitlement, background mode, and feature "*UsageDescription" in use by the app. Optional only if there are no permissions, entitlements, or background modes used by the app. See [Permission Types](#permission-types).
+ - `permissions`: An array of permission definitions, one for each entitlement, background mode, and feature `*UsageDescription` in use by the app. Optional only if there are no permissions, entitlements, or background modes used by the app. See [Permission Types](#permission-types).
 
 #### Funding Links
  
@@ -678,12 +684,15 @@ Elements can also include the following optional properties:
   
 #### Permission Types
   
-  The properties of the elements of the `permissions` array will vary depending on what type
+  The properties of the elements of the `permissions` array will vary depending on what `type`
   of permission it describes. 
   
-   - `usage`: e.g., `NSBluetoothPeripheralUsageDescription`.
-   - `background-mode`: e.g., `audio`
-   - `entitlement`: e.g., `keychain-access-groups` or `com.vendor.entitlement.id`
+  - `type`: one of the supported permission classes, such as `usage`, `entitlement`, or `background-mode`.
+  - `identifier`: this property will vary depending on the value of the `identifier` property:
+    - `usage`: the `identifier` will be one of the standard usage descriptions. E.g., `NSBluetoothPeripheralUsageDescription`.
+    - `background-mode`: the `identifier` will be one of the background modes. E.g., `audio`
+    - `entitlement`: the `identifier` will be the key of the entitielement. E.g., `keychain-access-groups` or `com.vendor.entitlement.id`
+  - `usageDescription`: the localized attestation of the reason the app may need to use the permission.
 
 ### Catalog Generation
 

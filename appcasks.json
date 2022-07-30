@@ -25,7 +25,7 @@
       "sha256" : "2c3b795c5682a0270e647e5ca47dc697239f26078e15648b4721d22bea98dfe3",
       "stats" : {
         "downloadCount" : 2893,
-        "impressionCount" : 8742,
+        "impressionCount" : 8744,
         "viewCount" : 883
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "228e515764e0484adb84e31b94791528996a538214d0280a4db9f4fe6eb67750",
       "stats" : {
         "downloadCount" : 14098,
-        "impressionCount" : 7438,
+        "impressionCount" : 7440,
         "viewCount" : 857
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8068,
-        "impressionCount" : 6607,
+        "impressionCount" : 6609,
         "viewCount" : 612
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28440,
-        "impressionCount" : 6754,
+        "impressionCount" : 6756,
         "viewCount" : 567
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7866,
-        "impressionCount" : 6917,
+        "impressionCount" : 6919,
         "viewCount" : 588
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5448,
-        "impressionCount" : 6801,
+        "impressionCount" : 6803,
         "viewCount" : 460
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3073,
-        "impressionCount" : 6201,
+        "impressionCount" : 6203,
         "viewCount" : 490
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "0bfbe8a0109c827a45ae74342e826e81c9c7f7b2471545199a25591a3594ce1b",
       "stats" : {
         "downloadCount" : 2682,
-        "impressionCount" : 7113,
+        "impressionCount" : 7115,
         "viewCount" : 521
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -264,7 +264,7 @@
       ],
       "stats" : {
         "downloadCount" : 2522,
-        "impressionCount" : 5249,
+        "impressionCount" : 5251,
         "viewCount" : 342
       },
       "subtitle" : "Video game digital distribution service",
@@ -297,7 +297,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2043,
-        "impressionCount" : 6907,
+        "impressionCount" : 6909,
         "viewCount" : 777
       },
       "subtitle" : "File archiver",
@@ -323,7 +323,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1831,
-        "impressionCount" : 5898,
+        "impressionCount" : 5900,
         "viewCount" : 383
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -351,7 +351,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1288,
-        "impressionCount" : 5331,
+        "impressionCount" : 5333,
         "viewCount" : 419
       },
       "subtitle" : "Open-source Markdown editor",
@@ -382,7 +382,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1154,
-        "impressionCount" : 7078,
+        "impressionCount" : 7080,
         "viewCount" : 435
       },
       "subtitle" : "3D creation suite",
@@ -439,7 +439,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 574,
-        "impressionCount" : 5311,
+        "impressionCount" : 5313,
         "viewCount" : 291
       },
       "subtitle" : "Text editor",
@@ -468,7 +468,7 @@
       ],
       "stats" : {
         "downloadCount" : 506,
-        "impressionCount" : 5020,
+        "impressionCount" : 5021,
         "viewCount" : 424
       },
       "subtitle" : "Sandbox construction video game",
@@ -500,7 +500,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 450,
-        "impressionCount" : 5583,
+        "impressionCount" : 5584,
         "viewCount" : 450
       },
       "subtitle" : "Text, code, and markup editor",
@@ -846,7 +846,7 @@
       "sha256" : "6429d531c5a15e3a6b956be08b01bc6e206a783c1918837755734470564868fd",
       "stats" : {
         "downloadCount" : 6369,
-        "impressionCount" : 1957,
+        "impressionCount" : 1958,
         "viewCount" : 121
       },
       "subtitle" : "Application launcher and productivity software",
@@ -932,7 +932,7 @@
       "sha256" : "e0b4f5ddafa8e478b5f0e8fd36e8e042718e8cef394005efedb7cb6cd7ea0f92",
       "stats" : {
         "downloadCount" : 3978,
-        "impressionCount" : 3539,
+        "impressionCount" : 3540,
         "viewCount" : 225
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -955,7 +955,7 @@
       "sha256" : "330ea9c88f24c0487c7ecfc887c0fac7e12fb3f3a636c02bfec610333f46091a",
       "stats" : {
         "downloadCount" : 3975,
-        "impressionCount" : 2078,
+        "impressionCount" : 2079,
         "viewCount" : 116
       },
       "subtitle" : "Password manager that keeps all passwords secure behind one password",
@@ -1998,7 +1998,7 @@
       "sha256" : "336ac944cf473a9832b703d8eaa3df8016831ce6c15e0062338d1d23c6dc0e40",
       "stats" : {
         "downloadCount" : 607,
-        "impressionCount" : 2297,
+        "impressionCount" : 2299,
         "viewCount" : 166
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -2792,7 +2792,7 @@
       "sha256" : "b38ea5e306021686835781812d4a74fa1898d9f2c77bd266f0c731d85ac009b3",
       "stats" : {
         "downloadCount" : 11,
-        "viewCount" : 73
+        "viewCount" : 74
       },
       "subtitle" : "Spam filtering extension for e-mail clients",
       "version" : "2.9.49"

@@ -32,8 +32,8 @@
       "size" : 5482239,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 3,
-        "impressionCount" : 71,
+        "downloadCount" : 4,
+        "impressionCount" : 72,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 7,
@@ -73,8 +73,8 @@
       "size" : 5509778,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 6,
-        "impressionCount" : 81,
+        "downloadCount" : 7,
+        "impressionCount" : 82,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 6,
@@ -333,7 +333,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 32,
-        "impressionCount" : 1109,
+        "impressionCount" : 1110,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 66,
@@ -377,7 +377,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 1064,
+        "impressionCount" : 1065,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -412,7 +412,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 837,
+        "impressionCount" : 838,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 49,
@@ -528,7 +528,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 3063,
+        "impressionCount" : 3064,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 476,
@@ -799,8 +799,8 @@
       "size" : 8491944,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 20,
-        "impressionCount" : 64,
+        "downloadCount" : 21,
+        "impressionCount" : 65,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 8,
@@ -914,7 +914,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 65,
-        "impressionCount" : 499,
+        "impressionCount" : 500,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 50,

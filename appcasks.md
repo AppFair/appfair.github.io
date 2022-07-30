@@ -349,7 +349,7 @@ tr:nth-child(even) {
 | [``GnuCash``](https://www.gnucash.org/) | ``4.11-1`` | `169` |  |  | `604` |  |  | `0` | `public.app-category.finance` |
 | [``electerm``](https://github.com/electerm/electerm/) | ``1.22.20`` | `167` | `2022-07-27T00:00:00Z` |  | `451` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Chat``](https://gsuite.google.com/products/chat/) | ``20.11.241`` | `167` |  |  | `373` |  |  | `0` | `public.app-category.productivity` |
-| [``Sproutcube Shortcat``](https://shortcat.app/) | ``0.9.3,155`` | `167` | `2022-07-18T00:00:00Z` |  | `209` |  |  | `0` | `public.app-category.productivity` |
+| [``Sproutcube Shortcat``](https://shortcat.app/) | ``0.9.4,157`` | `167` | `2022-07-30T18:21:48Z` |  | `209` |  |  | `0` | `public.app-category.productivity` |
 | [``Easy Move+Resize``](https://github.com/dmarcotte/easy-move-resize) | ``1.5.0`` | `165` |  |  | `373` |  |  | `0` | `public.app-category.utilities` |
 | [``Local``](https://localwp.com/) | ``6.4.2,6012`` | `162` | `2022-07-26T00:00:00Z` |  | `280` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Moom``](https://manytricks.com/moom/) | ``3.2.25,3349`` | `162` | `2022-07-18T00:00:00Z` |  | `304` |  |  | `0` | `public.app-category.utilities` |

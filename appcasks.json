@@ -7231,20 +7231,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://files.shortcat.app/releases/v0.9.3/Shortcat.zip",
+      "downloadURL" : "https://files.shortcat.app/releases/v0.9.4/Shortcat.zip",
       "homepage" : "https://shortcat.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-shortcat/AppIcon.png",
       "localizedDescription" : "App that enables mouse-free UI interaction",
       "name" : "Sproutcube Shortcat",
-      "sha256" : "1f935f7fa49a640117396ae15cfe5cdfdfdb7269f16b2b3d61faf2f3e2cb5884",
+      "sha256" : "6ca901a8f850363c07825bbe985ee3adb06eedcfbe568afc9374beeff794f730",
       "stats" : {
         "downloadCount" : 167,
         "impressionCount" : 209
       },
       "subtitle" : "App that enables mouse-free UI interaction",
       "tintColor" : "D4CFC5",
-      "version" : "0.9.3,155",
-      "versionDate" : "2022-07-18T00:00:00Z"
+      "version" : "0.9.4,157",
+      "versionDate" : "2022-07-30T18:21:48Z"
     },
     {
       "beta" : false,
@@ -24049,7 +24049,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cleanmymac-zh/AppIcon.png",
       "localizedDescription" : "Tool to remove unnecessary files and folders from disk Chinese edition",
       "name" : "CleanMyMac X Chinese",
-      "sha256" : "4d0f4a1469d3d1c85ecebac839e10adf57439384f674091c2f03988bb403f9c8",
+      "sha256" : "91482d1fd99ce9ddec0daa67f159dbf5fbc1758e63fb0517ebad93fb97c70697",
       "stats" : {
         "downloadCount" : 9,
         "impressionCount" : 347
@@ -73348,13 +73348,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "mailmaster",
-      "caption" : "NetEase Mail Master updated from 4.16.1,1282 to 4.17.1,1285",
-      "date" : "2022-07-29T06:26:14Z",
-      "identifier" : "release-mailmaster-4.17.1,1285",
-      "title" : "New Release: NetEase Mail Master 4.17.1,1285"
-    },
-    {
       "appID" : "popsql",
       "caption" : "PopSQL updated from 1.0.75 to 1.0.76",
       "date" : "2022-07-29T06:26:14Z",
@@ -74046,6 +74039,13 @@
       "date" : "2022-07-30T06:22:10Z",
       "identifier" : "release-talon-0.3.1",
       "title" : "New Release: Talon 0.3.1"
+    },
+    {
+      "appID" : "shortcat",
+      "caption" : "Sproutcube Shortcat updated from 0.9.3,155 to 0.9.4,157",
+      "date" : "2022-07-30T18:21:49Z",
+      "identifier" : "release-shortcat-0.9.4,157",
+      "title" : "New Release: Sproutcube Shortcat 0.9.4,157"
     }
   ],
   "platform" : "macos",

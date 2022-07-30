@@ -33,7 +33,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 5,
-        "impressionCount" : 206,
+        "impressionCount" : 219,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -73,11 +73,11 @@
       "size" : 5509778,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 8,
-        "impressionCount" : 259,
+        "downloadCount" : 9,
+        "impressionCount" : 277,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 10,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -110,7 +110,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 8,
-        "impressionCount" : 2291,
+        "impressionCount" : 2304,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 192,
@@ -145,7 +145,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 5,
-        "impressionCount" : 1589,
+        "impressionCount" : 1603,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 113,
@@ -183,10 +183,10 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 4,
-        "impressionCount" : 1158,
+        "impressionCount" : 1169,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 77,
+        "viewCount" : 78,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -218,7 +218,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1525,
+        "impressionCount" : 1536,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 103,
@@ -252,11 +252,11 @@
       "size" : 6021250,
       "stats" : {
         "coreSize" : 68344,
-        "downloadCount" : 6,
-        "impressionCount" : 1557,
+        "downloadCount" : 9,
+        "impressionCount" : 1569,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 99,
+        "viewCount" : 100,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -291,7 +291,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 8,
-        "impressionCount" : 1157,
+        "impressionCount" : 1168,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 72,
@@ -333,7 +333,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 34,
-        "impressionCount" : 1236,
+        "impressionCount" : 1251,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 68,
@@ -377,7 +377,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 1185,
+        "impressionCount" : 1198,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -411,11 +411,11 @@
       "size" : 18201175,
       "stats" : {
         "coreSize" : 102392,
-        "downloadCount" : 7,
-        "impressionCount" : 931,
+        "downloadCount" : 8,
+        "impressionCount" : 961,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 52,
+        "viewCount" : 55,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -447,7 +447,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1225,
+        "impressionCount" : 1231,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -482,7 +482,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1044,
+        "impressionCount" : 1050,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -528,7 +528,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 3138,
+        "impressionCount" : 3147,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 479,
@@ -590,7 +590,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 9,
-        "impressionCount" : 344,
+        "impressionCount" : 347,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -800,7 +800,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 22,
-        "impressionCount" : 183,
+        "impressionCount" : 189,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -836,7 +836,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1121,
+        "impressionCount" : 1124,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 76,
@@ -914,7 +914,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 65,
-        "impressionCount" : 608,
+        "impressionCount" : 617,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 52,
@@ -1090,7 +1090,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1514,
+        "impressionCount" : 1524,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,

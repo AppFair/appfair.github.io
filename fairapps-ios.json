@@ -32,8 +32,8 @@
       "size" : 5482239,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 4,
-        "impressionCount" : 83,
+        "downloadCount" : 5,
+        "impressionCount" : 149,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 7,
@@ -73,8 +73,8 @@
       "size" : 5509778,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 7,
-        "impressionCount" : 93,
+        "downloadCount" : 8,
+        "impressionCount" : 174,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 6,
@@ -110,10 +110,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 8,
-        "impressionCount" : 2211,
+        "impressionCount" : 2245,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 189,
+        "viewCount" : 190,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -145,7 +145,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1516,
+        "impressionCount" : 1544,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 110,
@@ -183,7 +183,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 4,
-        "impressionCount" : 1112,
+        "impressionCount" : 1130,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 77,
@@ -218,7 +218,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1479,
+        "impressionCount" : 1497,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 103,
@@ -253,7 +253,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1511,
+        "impressionCount" : 1529,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 99,
@@ -291,7 +291,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1105,
+        "impressionCount" : 1123,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 70,
@@ -333,7 +333,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 32,
-        "impressionCount" : 1137,
+        "impressionCount" : 1183,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -377,7 +377,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 1089,
+        "impressionCount" : 1133,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -412,7 +412,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 854,
+        "impressionCount" : 884,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -447,7 +447,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1198,
+        "impressionCount" : 1206,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -482,7 +482,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1016,
+        "impressionCount" : 1024,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -528,7 +528,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 3080,
+        "impressionCount" : 3104,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 479,
@@ -590,7 +590,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 9,
-        "impressionCount" : 331,
+        "impressionCount" : 334,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -710,7 +710,7 @@
       "stats" : {
         "coreSize" : 152704,
         "downloadCount" : 4,
-        "impressionCount" : 105,
+        "impressionCount" : 106,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 13,
@@ -751,7 +751,7 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 5,
-        "impressionCount" : 405,
+        "impressionCount" : 410,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -799,8 +799,8 @@
       "size" : 8491944,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 21,
-        "impressionCount" : 74,
+        "downloadCount" : 22,
+        "impressionCount" : 127,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 10,
@@ -836,7 +836,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1104,
+        "impressionCount" : 1115,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 76,
@@ -871,7 +871,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 539,
+        "impressionCount" : 545,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -914,7 +914,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 65,
-        "impressionCount" : 510,
+        "impressionCount" : 575,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 52,
@@ -985,7 +985,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 431,
+        "impressionCount" : 443,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 56,
@@ -1090,7 +1090,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1470,
+        "impressionCount" : 1492,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,

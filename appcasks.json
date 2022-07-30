@@ -25,7 +25,7 @@
       "sha256" : "2c3b795c5682a0270e647e5ca47dc697239f26078e15648b4721d22bea98dfe3",
       "stats" : {
         "downloadCount" : 2893,
-        "impressionCount" : 8738,
+        "impressionCount" : 8740,
         "viewCount" : 882
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "228e515764e0484adb84e31b94791528996a538214d0280a4db9f4fe6eb67750",
       "stats" : {
         "downloadCount" : 14098,
-        "impressionCount" : 7434,
+        "impressionCount" : 7436,
         "viewCount" : 857
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8068,
-        "impressionCount" : 6603,
+        "impressionCount" : 6605,
         "viewCount" : 611
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28440,
-        "impressionCount" : 6750,
+        "impressionCount" : 6752,
         "viewCount" : 566
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7866,
-        "impressionCount" : 6913,
+        "impressionCount" : 6915,
         "viewCount" : 588
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5448,
-        "impressionCount" : 6797,
+        "impressionCount" : 6799,
         "viewCount" : 460
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3073,
-        "impressionCount" : 6197,
+        "impressionCount" : 6199,
         "viewCount" : 489
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "0bfbe8a0109c827a45ae74342e826e81c9c7f7b2471545199a25591a3594ce1b",
       "stats" : {
         "downloadCount" : 2682,
-        "impressionCount" : 7109,
+        "impressionCount" : 7111,
         "viewCount" : 521
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -264,7 +264,7 @@
       ],
       "stats" : {
         "downloadCount" : 2522,
-        "impressionCount" : 5245,
+        "impressionCount" : 5247,
         "viewCount" : 342
       },
       "subtitle" : "Video game digital distribution service",
@@ -297,7 +297,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2043,
-        "impressionCount" : 6903,
+        "impressionCount" : 6905,
         "viewCount" : 777
       },
       "subtitle" : "File archiver",
@@ -323,7 +323,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1831,
-        "impressionCount" : 5894,
+        "impressionCount" : 5896,
         "viewCount" : 383
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -351,7 +351,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1288,
-        "impressionCount" : 5327,
+        "impressionCount" : 5329,
         "viewCount" : 419
       },
       "subtitle" : "Open-source Markdown editor",
@@ -382,7 +382,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1154,
-        "impressionCount" : 7074,
+        "impressionCount" : 7076,
         "viewCount" : 435
       },
       "subtitle" : "3D creation suite",
@@ -405,7 +405,7 @@
       "sha256" : "767cb16314e3869c42cff78db92bcad7a7faa861c70f97b1326fe3686c62b61f",
       "stats" : {
         "downloadCount" : 1102,
-        "impressionCount" : 2371,
+        "impressionCount" : 2372,
         "viewCount" : 153
       },
       "subtitle" : "Open-source video transcoder",
@@ -439,7 +439,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 574,
-        "impressionCount" : 5307,
+        "impressionCount" : 5309,
         "viewCount" : 291
       },
       "subtitle" : "Text editor",
@@ -468,7 +468,7 @@
       ],
       "stats" : {
         "downloadCount" : 506,
-        "impressionCount" : 5017,
+        "impressionCount" : 5018,
         "viewCount" : 423
       },
       "subtitle" : "Sandbox construction video game",
@@ -531,7 +531,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 282,
-        "impressionCount" : 4353,
+        "impressionCount" : 4354,
         "viewCount" : 386
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -756,7 +756,7 @@
       "sha256" : "1aa207c2f81a4dda6583dabb23fcc39fbfacee0f41058fca9d0e482c4210ce96",
       "stats" : {
         "downloadCount" : 26905,
-        "impressionCount" : 3404,
+        "impressionCount" : 3405,
         "viewCount" : 245
       },
       "subtitle" : "App to build and share containerized applications and microservices",
@@ -846,7 +846,7 @@
       "sha256" : "6429d531c5a15e3a6b956be08b01bc6e206a783c1918837755734470564868fd",
       "stats" : {
         "downloadCount" : 6369,
-        "impressionCount" : 1955,
+        "impressionCount" : 1956,
         "viewCount" : 121
       },
       "subtitle" : "Application launcher and productivity software",
@@ -1312,7 +1312,7 @@
       "sha256" : "a1a964ab100ff92cbc5ce50c63699199050572474c2b1f34bec84de673d31a7f",
       "stats" : {
         "downloadCount" : 2377,
-        "impressionCount" : 2397,
+        "impressionCount" : 2398,
         "viewCount" : 173
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1462,7 +1462,7 @@
       "sha256" : "2d5d22cc6884a55dab82f00a9b32827b2391a93d528204b6870e5da6cb996421",
       "stats" : {
         "downloadCount" : 2117,
-        "impressionCount" : 1344,
+        "impressionCount" : 1345,
         "viewCount" : 45
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -2153,7 +2153,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-daisydisk/README.md",
       "stats" : {
         "downloadCount" : 436,
-        "impressionCount" : 1986,
+        "impressionCount" : 1987,
         "viewCount" : 153
       },
       "subtitle" : "Disk space visualizer",
@@ -2294,7 +2294,7 @@
       "sha256" : "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73",
       "stats" : {
         "downloadCount" : 322,
-        "impressionCount" : 1819,
+        "impressionCount" : 1820,
         "viewCount" : 185
       },
       "subtitle" : "Retro video game emulation",
@@ -2560,7 +2560,7 @@
       "sha256" : "5b37ff0853875678175e01f785dd5db06d401fa5e8e2a1c6b8a4103a912b3666",
       "stats" : {
         "downloadCount" : 103,
-        "impressionCount" : 1910,
+        "impressionCount" : 1911,
         "viewCount" : 163
       },
       "subtitle" : "Visual communication software",
@@ -3113,7 +3113,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 5843,
-        "impressionCount" : 377
+        "impressionCount" : 379
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -24678,7 +24678,7 @@
       "sha256" : "300b8a25858bccf7ab41ef844ae496c454f53a840aecbfcb75f75b379b0f6445",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 439
+        "impressionCount" : 440
       },
       "subtitle" : "Web browser environment to carry out e-assessments safely",
       "tintColor" : "71818B",
@@ -40227,8 +40227,8 @@
       "name" : "Vivaldi",
       "sha256" : "4a8e872a349b6b4e5ba154534148f94005edd3c480b575676c88239856db6592",
       "stats" : {
-        "downloadCount" : 713,
-        "impressionCount" : 430
+        "downloadCount" : 714,
+        "impressionCount" : 433
       },
       "subtitle" : "Web browser focusing on customization and control",
       "tintColor" : "F17179",

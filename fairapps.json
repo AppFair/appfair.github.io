@@ -57,7 +57,7 @@
       "size" : 9560008,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 111,
+        "downloadCount" : 116,
         "impressionCount" : 75,
         "issueCount" : 5,
         "starCount" : 25,
@@ -144,10 +144,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3251,
+        "impressionCount" : 3252,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 560,
+        "viewCount" : 561,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -193,10 +193,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 4,
-        "impressionCount" : 70,
+        "impressionCount" : 71,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 6,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -236,10 +236,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 6,
-        "impressionCount" : 80,
+        "impressionCount" : 81,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 5,
+        "viewCount" : 6,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -546,10 +546,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1108,
+        "impressionCount" : 1109,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 65,
+        "viewCount" : 66,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -624,10 +624,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 1063,
+        "impressionCount" : 1064,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 58,
+        "viewCount" : 59,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -663,10 +663,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 836,
+        "impressionCount" : 837,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 48,
+        "viewCount" : 49,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -830,10 +830,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3062,
+        "impressionCount" : 3063,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 475,
+        "viewCount" : 476,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -933,10 +933,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2490,
+        "impressionCount" : 2491,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 454,
+        "viewCount" : 455,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -1183,7 +1183,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 19,
-        "impressionCount" : 63,
+        "impressionCount" : 64,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 8,
@@ -1346,10 +1346,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 57,
-        "impressionCount" : 498,
+        "impressionCount" : 499,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 49,
+        "viewCount" : 50,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

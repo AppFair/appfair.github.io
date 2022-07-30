@@ -58,7 +58,7 @@
       "stats" : {
         "coreSize" : 170672,
         "downloadCount" : 145,
-        "impressionCount" : 135,
+        "impressionCount" : 155,
         "issueCount" : 5,
         "starCount" : 25,
         "viewCount" : 13,
@@ -94,7 +94,7 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 20,
-        "impressionCount" : 697,
+        "impressionCount" : 705,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 79,
@@ -144,7 +144,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3297,
+        "impressionCount" : 3311,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 561,
@@ -193,10 +193,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 6,
-        "impressionCount" : 149,
+        "impressionCount" : 206,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 7,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -236,10 +236,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 8,
-        "impressionCount" : 174,
+        "impressionCount" : 259,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 6,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -275,10 +275,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2245,
+        "impressionCount" : 2291,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 190,
+        "viewCount" : 192,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -314,10 +314,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 10,
-        "impressionCount" : 1544,
+        "impressionCount" : 1589,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 110,
+        "viewCount" : 113,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -352,7 +352,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 7,
-        "impressionCount" : 1130,
+        "impressionCount" : 1158,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 77,
@@ -387,7 +387,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 7,
-        "impressionCount" : 653,
+        "impressionCount" : 661,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -425,7 +425,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1497,
+        "impressionCount" : 1525,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 103,
@@ -464,7 +464,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1529,
+        "impressionCount" : 1557,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 99,
@@ -502,10 +502,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1123,
+        "impressionCount" : 1157,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 70,
+        "viewCount" : 72,
         "watcherCount" : 0
       },
       "subtitle" : "Identify ambient sounds.",
@@ -546,10 +546,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1183,
+        "impressionCount" : 1236,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 67,
+        "viewCount" : 68,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -582,7 +582,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 772,
+        "impressionCount" : 780,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -624,7 +624,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 1133,
+        "impressionCount" : 1185,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -663,10 +663,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 884,
+        "impressionCount" : 931,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 50,
+        "viewCount" : 52,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -702,7 +702,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1206,
+        "impressionCount" : 1225,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -780,7 +780,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 1024,
+        "impressionCount" : 1044,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -830,7 +830,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3104,
+        "impressionCount" : 3138,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 479,
@@ -1012,7 +1012,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 866,
+        "impressionCount" : 873,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -1097,7 +1097,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 918,
+        "impressionCount" : 929,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 94,
@@ -1137,7 +1137,7 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 7,
-        "impressionCount" : 410,
+        "impressionCount" : 415,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -1183,10 +1183,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 21,
-        "impressionCount" : 127,
+        "impressionCount" : 183,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 10,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1261,7 +1261,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1115,
+        "impressionCount" : 1121,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 76,
@@ -1300,7 +1300,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 545,
+        "impressionCount" : 548,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -1346,7 +1346,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 57,
-        "impressionCount" : 575,
+        "impressionCount" : 608,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 52,
@@ -1531,7 +1531,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1492,
+        "impressionCount" : 1514,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,

@@ -23,22 +23,22 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.90`` | `34` | `2022-07-31T00:00:00Z` | `9.6 MB` | `17` | `2` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
-| [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `20` | `2022-05-19T00:00:00Z` | `2.4 MB` | `735` | `82` | `0` | `0` |  |
-| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `30` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3360` | `565` | `1` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `10` | `2022-07-29T00:00:00Z` | `2.2 MB` | `290` | `13` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `12` | `2022-07-29T00:00:00Z` | `2.2 MB` | `384` | `19` | `1` | `0` |  |
-| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `20` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2370` | `197` | `0` | `0` |  |
-| [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `1656` | `115` | `0` | `0` |  |
-| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `7` | `2022-01-24T00:00:00Z` | `2.5 MB` | `1223` | `82` | `0` | `0` |  |
-| [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.32β`` | `7` | `2022-01-26T00:00:00Z` | `2.5 MB` | `688` | `50` | `0` | `0` |  |
-| [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1576` | `104` | `0` | `0` |  |
-| [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `4` | `2022-01-23T00:00:00Z` | `2.4 MB` | `1609` | `101` | `0` | `0` |  |
-| [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `7` | `2022-01-26T00:00:00Z` | `2.3 MB` | `1223` | `77` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `23` | `2022-07-20T00:00:00Z` | `2.1 MB` | `1341` | `73` | `0` | `0` |  |
-| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.7β`` | `4` | `2022-01-24T00:00:00Z` | `2.2 MB` | `807` | `50` | `0` | `0` |  |
-| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `4` | `2022-07-20T00:00:00Z` | `3.9 MB` | `1287` | `65` | `0` | `0` |  |
-| [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `3` | `2022-07-20T00:00:00Z` | `12.9 MB` | `1043` | `59` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.90`` | `37` | `2022-07-31T00:00:00Z` | `9.6 MB` | `18` | `2` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `20` | `2022-05-19T00:00:00Z` | `2.4 MB` | `736` | `82` | `0` | `0` |  |
+| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `30` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3361` | `565` | `1` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `10` | `2022-07-29T00:00:00Z` | `2.2 MB` | `291` | `13` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `12` | `2022-07-29T00:00:00Z` | `2.2 MB` | `385` | `19` | `1` | `0` |  |
+| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `20` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2371` | `197` | `0` | `0` |  |
+| [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `1657` | `115` | `0` | `0` |  |
+| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `7` | `2022-01-24T00:00:00Z` | `2.5 MB` | `1224` | `82` | `0` | `0` |  |
+| [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.32β`` | `7` | `2022-01-26T00:00:00Z` | `2.5 MB` | `689` | `50` | `0` | `0` |  |
+| [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1577` | `104` | `0` | `0` |  |
+| [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `4` | `2022-01-23T00:00:00Z` | `2.4 MB` | `1610` | `101` | `0` | `0` |  |
+| [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `7` | `2022-01-26T00:00:00Z` | `2.3 MB` | `1224` | `77` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `23` | `2022-07-20T00:00:00Z` | `2.1 MB` | `1342` | `73` | `0` | `0` |  |
+| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.7β`` | `4` | `2022-01-24T00:00:00Z` | `2.2 MB` | `808` | `50` | `0` | `0` |  |
+| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `4` | `2022-07-20T00:00:00Z` | `3.9 MB` | `1288` | `65` | `0` | `0` |  |
+| [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `3` | `2022-07-20T00:00:00Z` | `12.9 MB` | `1044` | `59` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.17β`` | `6` | `2022-01-24T00:00:00Z` | `2.4 MB` | `1253` | `67` | `0` | `0` |  |
 | [``Micro Vector``](https://Micro-Vector.github.io/App/) | ``0.0.8β`` | `7` | `2022-01-24T00:00:00Z` | `2.8 MB` | `629` | `57` | `0` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `4` | `2022-02-12T00:00:00Z` | `2.7 MB` | `1070` | `57` | `0` | `0` |  |
@@ -59,6 +59,6 @@ tr:nth-child(even) {
 | [``Ultra Light``](https://Ultra-Light.github.io/App/) | ``0.0.7β`` | `4` | `2022-01-21T00:00:00Z` | `2.3 MB` | `445` | `56` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `393` | `38` | `0` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.37β`` | `8` | `2022-01-24T00:00:00Z` | `4.7 MB` | `583` | `35` | `0` | `0` |  |
-| [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `2.4 MB` | `1560` | `40` | `0` | `0` |  |
+| [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `2.4 MB` | `1561` | `40` | `0` | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

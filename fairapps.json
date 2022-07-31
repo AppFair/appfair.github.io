@@ -62,9 +62,9 @@
       "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 22,
-        "impressionCount" : 12,
-        "issueCount" : 5,
+        "downloadCount" : 26,
+        "impressionCount" : 14,
+        "issueCount" : 6,
         "starCount" : 25,
         "viewCount" : 2,
         "watcherCount" : 3
@@ -149,10 +149,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3340,
+        "impressionCount" : 3343,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 563,
+        "viewCount" : 564,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -197,11 +197,11 @@
       "size" : 2155523,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 9,
-        "impressionCount" : 262,
+        "downloadCount" : 10,
+        "impressionCount" : 264,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 10,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -240,8 +240,8 @@
       "size" : 2164762,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 11,
-        "impressionCount" : 341,
+        "downloadCount" : 12,
+        "impressionCount" : 344,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 17,
@@ -280,7 +280,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2341,
+        "impressionCount" : 2342,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 197,
@@ -357,7 +357,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 7,
-        "impressionCount" : 1197,
+        "impressionCount" : 1198,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 81,
@@ -551,7 +551,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1306,
+        "impressionCount" : 1309,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 73,
@@ -629,10 +629,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 1258,
+        "impressionCount" : 1261,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 64,
+        "viewCount" : 65,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -668,7 +668,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 1013,
+        "impressionCount" : 1016,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -835,7 +835,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3171,
+        "impressionCount" : 3174,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 480,
@@ -938,10 +938,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2507,
+        "impressionCount" : 2510,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 456,
+        "viewCount" : 457,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -1188,10 +1188,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 24,
-        "impressionCount" : 238,
+        "impressionCount" : 243,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 16,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1351,10 +1351,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 57,
-        "impressionCount" : 659,
+        "impressionCount" : 663,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 55,
+        "viewCount" : 56,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -1536,7 +1536,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1540,
+        "impressionCount" : 1541,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,

@@ -721,7 +721,7 @@ tr:nth-child(even) {
 | [``Tomighty``](https://github.com/tomighty/tomighty-osx) | ``1.2`` | `32` |  |  | `427` |  |  | `0` | `public.app-category.productivity` |
 | [``TREZOR Suite``](https://suite.trezor.io/) | ``22.7.3`` | `32` | `2022-07-26T00:00:00Z` |  | `208` |  |  | `0` | `public.app-category.developer-tools` |
 | [``XScreenSaver``](https://www.jwz.org/xscreensaver/) | ``6.04`` | `32` |  |  | `64` |  |  | `0` | `public.app-category.entertainment` |
-| [``Ao``](https://github.com/klaussinani/ao) | ``6.9.0`` | `31` |  |  | `521` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Ao``](https://github.com/klaussinani/ao) | ``6.9.0`` | `31` |  |  | `522` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Flock``](https://flock.com/) | ``2.2.509`` | `31` |  |  | `338` |  |  | `0` | `public.app-category.productivity` |
 | [``GZDoom``](https://zdoom.org/index) | ``4.8.2`` | `31` | `2022-07-07T00:00:00Z` |  | `183` |  |  | `0` | `public.app-category.action-games` |
 | [``HazeOver``](https://hazeover.com/) | ``1.8.9,1050,10.13`` | `31` |  |  | `451` |  |  | `0` | `public.app-category.productivity` |

@@ -7,68 +7,73 @@
 
       ],
       "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.88/App-Fair-macOS.zip",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.90/App-Fair-macOS.zip",
       "fundingLinks" : [
 
       ],
       "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.88/App-Fair.png",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.90/App-Fair.png",
       "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.88/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.90/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
       "name" : "App Fair",
       "permissions" : [
         {
-          "type" : "com.apple.security.network.client",
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
           "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
         },
         {
-          "type" : "com.apple.security.network.server",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "type" : "com.apple.security.files.user-selected.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "type" : "com.apple.security.files.user-selected.executable",
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
           "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
         }
       ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.88/README.md#2e818c0471081243bb5e49364e7923152dcd8a36dcd5c596bd8fe699d74c76e1",
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.90/README.md#dd3f7b3655878c0c1ac9bcadcd13e838ea7acd45a1c0f6fc5802fc7b9f6b5bd9",
       "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_00-mac-dark-2864x1950.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_00-mac-dark-3078x2044.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_00-mac-light-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.88/screenshot_06-mac-dark-1424x1722.png"
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_00-mac-dark-2864x1950.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_00-mac-dark-3078x2044.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_00-mac-light-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.90/screenshot_06-mac-dark-1424x1722.png"
       ],
-      "sha256" : "fb2826fd8502419636962cdb42fdbdf5559f74c289bf9a35a37ea19b134a77ac",
-      "size" : 9560008,
+      "sha256" : "e8310e2f022e6bb7a5d099e92a3cd11247824026e96a5a6e08a78b658812d682",
+      "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 151,
-        "impressionCount" : 164,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 5,
         "starCount" : 25,
-        "viewCount" : 13,
+        "viewCount" : 1,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
       "tintColor" : "1594E8",
-      "version" : "0.8.88",
-      "versionDate" : "2022-07-28T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.87...0.8.88"
+      "version" : "0.8.90",
+      "versionDate" : "2022-07-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.89...0.8.90"
     },
     {
       "beta" : true,
@@ -94,7 +99,7 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 20,
-        "impressionCount" : 710,
+        "impressionCount" : 712,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 79,
@@ -144,7 +149,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3321,
+        "impressionCount" : 3325,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 562,
@@ -192,8 +197,8 @@
       "size" : 2155523,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 8,
-        "impressionCount" : 220,
+        "downloadCount" : 9,
+        "impressionCount" : 237,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -235,11 +240,11 @@
       "size" : 2164762,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 10,
-        "impressionCount" : 278,
+        "downloadCount" : 11,
+        "impressionCount" : 301,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 13,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -275,10 +280,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2304,
+        "impressionCount" : 2317,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 192,
+        "viewCount" : 195,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -314,7 +319,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 10,
-        "impressionCount" : 1603,
+        "impressionCount" : 1613,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 113,
@@ -352,10 +357,10 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 7,
-        "impressionCount" : 1169,
+        "impressionCount" : 1178,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 78,
+        "viewCount" : 79,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -387,7 +392,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 7,
-        "impressionCount" : 666,
+        "impressionCount" : 668,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -425,7 +430,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1536,
+        "impressionCount" : 1544,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 103,
@@ -464,7 +469,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1569,
+        "impressionCount" : 1577,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 100,
@@ -502,7 +507,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1168,
+        "impressionCount" : 1176,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 72,
@@ -546,7 +551,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1252,
+        "impressionCount" : 1270,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 68,
@@ -582,7 +587,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 785,
+        "impressionCount" : 787,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -624,7 +629,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 3,
-        "impressionCount" : 1199,
+        "impressionCount" : 1218,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -663,7 +668,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 962,
+        "impressionCount" : 980,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -702,7 +707,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1231,
+        "impressionCount" : 1237,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -780,7 +785,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 1050,
+        "impressionCount" : 1056,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -830,7 +835,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3148,
+        "impressionCount" : 3156,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 479,
@@ -1012,7 +1017,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 876,
+        "impressionCount" : 878,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -1097,7 +1102,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 929,
+        "impressionCount" : 932,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 94,
@@ -1137,7 +1142,7 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 7,
-        "impressionCount" : 415,
+        "impressionCount" : 417,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -1182,8 +1187,8 @@
       "size" : 3881835,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 23,
-        "impressionCount" : 190,
+        "downloadCount" : 24,
+        "impressionCount" : 202,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -1261,7 +1266,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1124,
+        "impressionCount" : 1126,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 76,
@@ -1300,7 +1305,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 548,
+        "impressionCount" : 549,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -1346,7 +1351,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 57,
-        "impressionCount" : 618,
+        "impressionCount" : 633,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 52,
@@ -1531,7 +1536,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1524,
+        "impressionCount" : 1531,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -1579,13 +1584,6 @@
       "title" : "New Release: Tune Out 0.8.447"
     },
     {
-      "appID" : "app.App-Fair",
-      "caption" : "App Fair updated from 0.8.85 to 0.8.88",
-      "date" : "2022-07-28T22:19:00Z",
-      "identifier" : "release-app.App-Fair-0.8.88",
-      "title" : "New Release: App Fair 0.8.88"
-    },
-    {
       "appID" : "app.Stanza-Redux",
       "caption" : "Stanza Redux updated from 0.3.38 to 0.3.41",
       "date" : "2022-07-29T03:24:44Z",
@@ -1605,6 +1603,13 @@
       "date" : "2022-07-29T18:01:10Z",
       "identifier" : "release-app.Bon-Mot-0.2.37",
       "title" : "New Release: Bon Mot 0.2.37"
+    },
+    {
+      "appID" : "app.App-Fair",
+      "caption" : "App Fair updated from 0.8.88 to 0.8.90",
+      "date" : "2022-07-31T01:45:33Z",
+      "identifier" : "release-app.App-Fair-0.8.90",
+      "title" : "New Release: App Fair 0.8.90"
     }
   ],
   "platform" : "macos"

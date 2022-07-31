@@ -62,8 +62,8 @@
       "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 7,
-        "impressionCount" : 9,
+        "downloadCount" : 8,
+        "impressionCount" : 10,
         "issueCount" : 5,
         "starCount" : 25,
         "viewCount" : 1,
@@ -149,7 +149,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3336,
+        "impressionCount" : 3337,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 562,
@@ -198,7 +198,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 9,
-        "impressionCount" : 258,
+        "impressionCount" : 259,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -241,7 +241,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 11,
-        "impressionCount" : 337,
+        "impressionCount" : 338,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 16,
@@ -551,7 +551,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1302,
+        "impressionCount" : 1303,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 72,
@@ -629,10 +629,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 1254,
+        "impressionCount" : 1255,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 62,
+        "viewCount" : 63,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -668,10 +668,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 1009,
+        "impressionCount" : 1010,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 58,
+        "viewCount" : 59,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -835,7 +835,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3167,
+        "impressionCount" : 3168,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 479,
@@ -938,7 +938,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2503,
+        "impressionCount" : 2504,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 455,
@@ -1188,10 +1188,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 24,
-        "impressionCount" : 233,
+        "impressionCount" : 234,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1351,10 +1351,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 57,
-        "impressionCount" : 653,
+        "impressionCount" : 654,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 53,
+        "viewCount" : 54,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",

@@ -62,7 +62,7 @@
       "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 31,
+        "downloadCount" : 33,
         "impressionCount" : 17,
         "issueCount" : 6,
         "starCount" : 26,
@@ -99,10 +99,10 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 20,
-        "impressionCount" : 726,
+        "impressionCount" : 735,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 79,
+        "viewCount" : 82,
         "watcherCount" : 0
       },
       "subtitle" : "A very useful app indeed",
@@ -149,10 +149,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3353,
+        "impressionCount" : 3360,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 564,
+        "viewCount" : 565,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -198,10 +198,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 10,
-        "impressionCount" : 281,
+        "impressionCount" : 290,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 11,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -241,10 +241,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 12,
-        "impressionCount" : 376,
+        "impressionCount" : 384,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 18,
+        "viewCount" : 19,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -280,7 +280,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2363,
+        "impressionCount" : 2370,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 197,
@@ -319,7 +319,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 11,
-        "impressionCount" : 1649,
+        "impressionCount" : 1656,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 115,
@@ -357,10 +357,10 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 7,
-        "impressionCount" : 1215,
+        "impressionCount" : 1223,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 81,
+        "viewCount" : 82,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -392,7 +392,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 7,
-        "impressionCount" : 682,
+        "impressionCount" : 688,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -430,7 +430,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1569,
+        "impressionCount" : 1576,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 104,
@@ -469,7 +469,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1602,
+        "impressionCount" : 1609,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 101,
@@ -507,10 +507,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1215,
+        "impressionCount" : 1223,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 76,
+        "viewCount" : 77,
         "watcherCount" : 0
       },
       "subtitle" : "Identify ambient sounds.",
@@ -551,7 +551,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1334,
+        "impressionCount" : 1341,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 73,
@@ -587,7 +587,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 801,
+        "impressionCount" : 807,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -629,7 +629,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 1280,
+        "impressionCount" : 1287,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 65,
@@ -668,7 +668,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 1036,
+        "impressionCount" : 1043,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -707,7 +707,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1248,
+        "impressionCount" : 1253,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -746,7 +746,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 7,
-        "impressionCount" : 628,
+        "impressionCount" : 629,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -785,7 +785,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 1067,
+        "impressionCount" : 1070,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -835,10 +835,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3181,
+        "impressionCount" : 3185,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 480,
+        "viewCount" : 481,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -897,7 +897,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 4,
-        "impressionCount" : 160,
+        "impressionCount" : 161,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 23,
@@ -938,7 +938,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2511,
+        "impressionCount" : 2512,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 457,
@@ -977,7 +977,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 397,
+        "impressionCount" : 398,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 52,
@@ -1017,7 +1017,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 887,
+        "impressionCount" : 888,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -1067,7 +1067,7 @@
       "stats" : {
         "coreSize" : 152704,
         "downloadCount" : 8,
-        "impressionCount" : 351,
+        "impressionCount" : 352,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -1102,7 +1102,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 947,
+        "impressionCount" : 948,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 94,
@@ -1142,7 +1142,7 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 7,
-        "impressionCount" : 421,
+        "impressionCount" : 422,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 67,
@@ -1188,7 +1188,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 24,
-        "impressionCount" : 267,
+        "impressionCount" : 268,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 18,
@@ -1228,7 +1228,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
-        "impressionCount" : 402,
+        "impressionCount" : 403,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 65,
@@ -1266,7 +1266,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1134,
+        "impressionCount" : 1135,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 76,
@@ -1305,10 +1305,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 555,
+        "impressionCount" : 557,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 51,
+        "viewCount" : 52,
         "watcherCount" : 0
       },
       "subtitle" : "A little quiz game",
@@ -1351,7 +1351,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 57,
-        "impressionCount" : 678,
+        "impressionCount" : 679,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 57,
@@ -1387,7 +1387,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 358,
+        "impressionCount" : 359,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,
@@ -1536,7 +1536,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1554,
+        "impressionCount" : 1560,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,

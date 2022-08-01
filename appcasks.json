@@ -882,7 +882,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.27/Stats.dmg",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.28/Stats.dmg",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -906,7 +906,7 @@
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "94051c2aa3f57e1c418043c262e00326fcebf5ad2ff85bfd047b8e15427be707",
+      "sha256" : "1d3eb2d87c7580f7d8b42e2997edad80b1783a2c91ce7b476898f1d6b3a594ef",
       "stats" : {
         "downloadCount" : 5144,
         "impressionCount" : 3831,
@@ -914,8 +914,8 @@
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
-      "version" : "2.7.27",
-      "versionDate" : "2022-07-24T00:00:00Z"
+      "version" : "2.7.28",
+      "versionDate" : "2022-08-01T05:30:55Z"
     },
     {
       "beta" : false,
@@ -5150,19 +5150,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/tombonez/noTunes/releases/download/v3.2/noTunes-3.2.zip",
+      "downloadURL" : "https://github.com/tombonez/noTunes/releases/download/v3.3/noTunes-3.3.zip",
       "homepage" : "https://github.com/tombonez/noTunes",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-notunes/AppIcon.png",
       "localizedDescription" : "Simple application that will prevent iTunes or Apple Music from launching",
       "name" : "noTunes",
-      "sha256" : "0ad78b0a7bb2e0bb724f0de65107d5397c5a32e1d974f7b3533acc8a0dd129e7",
+      "sha256" : "2e7aa2362927ea845d1531dfc935a4626fb6b9fb1873c90bbc397f6171757f20",
       "stats" : {
         "downloadCount" : 436,
         "impressionCount" : 381
       },
       "subtitle" : "Simple application that will prevent iTunes or Apple Music from launching",
       "tintColor" : "F98997",
-      "version" : "3.2"
+      "version" : "3.3",
+      "versionDate" : "2022-08-01T05:30:55Z"
     },
     {
       "beta" : false,
@@ -5376,20 +5377,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v5.9.7/Netron-5.9.7-mac.zip",
+      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v5.9.8/Netron-5.9.8-mac.zip",
       "homepage" : "https://github.com/lutzroeder/netron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-netron/AppIcon.png",
       "localizedDescription" : "Visualizer for neural network, deep learning, and machine learning models",
       "name" : "Netron",
-      "sha256" : "4349b55944ef7c9c6e470df734f324c50de95445330686a0d75bcc47d850c4de",
+      "sha256" : "79120c63ca8dc0464964fc647c2a3fedf1258d94a61ca0af7483a70cd262f5c5",
       "stats" : {
         "downloadCount" : 384,
         "impressionCount" : 817
       },
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
-      "version" : "5.9.7",
-      "versionDate" : "2022-07-30T00:00:00Z"
+      "version" : "5.9.8",
+      "versionDate" : "2022-08-01T05:30:55Z"
     },
     {
       "beta" : false,
@@ -39653,19 +39654,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/ubports/ubports-installer/releases/download/0.9.5-beta/ubports-installer_0.9.5-beta_mac_x64.dmg",
+      "downloadURL" : "https://github.com/ubports/ubports-installer/releases/download/0.9.6-beta/ubports-installer_0.9.6-beta_mac_x64.dmg",
       "homepage" : "https://ubports.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ubports-installer/AppIcon.png",
       "localizedDescription" : "Application to install ubports on mobile devices",
       "name" : "ubports-installer",
-      "sha256" : "178ed0bd936888ec6512de3cfe5ff20041a7cd92a507334d85d9873b2256dae6",
+      "sha256" : "99a60a920617326d67f8d58c7e58d5d9e95091111d227e545ab4080faf34ced2",
       "stats" : {
         "downloadCount" : 0,
         "impressionCount" : 76
       },
       "subtitle" : "Application to install ubports on mobile devices",
       "tintColor" : "B44B28",
-      "version" : "0.9.5-beta"
+      "version" : "0.9.6-beta",
+      "versionDate" : "2022-08-01T05:30:55Z"
     },
     {
       "beta" : false,
@@ -42068,19 +42070,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/LedgerHQ/ledger-live-desktop/releases/download/v2.42.0/ledger-live-desktop-2.42.0-mac.dmg",
+      "downloadURL" : "https://download.live.ledger.com/ledger-live-desktop-2.45.0-mac.dmg",
       "homepage" : "https://www.ledger.com/ledger-live",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ledger-live/AppIcon.png",
       "localizedDescription" : "Wallet desktop application to maintain multiple cryptocurrencies",
       "name" : "Ledger Live",
-      "sha256" : "8d1c7087f016b6ee4946ecbd5e6868b03642170421f51849487fa384390bb94c",
+      "sha256" : "5d476f1e9832e76077bd6b851f0ce0714fb8c7017ae259ee710ac3d3772e207c",
       "stats" : {
         "downloadCount" : 123,
         "impressionCount" : 23
       },
       "subtitle" : "Wallet desktop application to maintain multiple cryptocurrencies",
       "tintColor" : "1B1B1B",
-      "version" : "2.42.0"
+      "version" : "2.45.0",
+      "versionDate" : "2022-08-01T05:30:55Z"
     },
     {
       "beta" : false,
@@ -43405,20 +43408,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.sourceforge.net/sweethome3d/SweetHome3D/SweetHome3D-7.0/SweetHome3D-7.0-macosx.dmg",
+      "downloadURL" : "https://downloads.sourceforge.net/sweethome3d/SweetHome3D/SweetHome3D-7.0.2/SweetHome3D-7.0.2-macosx.dmg",
       "homepage" : "https://www.sweethome3d.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sweet-home3d/AppIcon.png",
       "localizedDescription" : "Interior design application",
       "name" : "Sweet Home 3D",
-      "sha256" : "26f0242e435ce2230f051f1342a6071e2bc1ea8b33d34dec24e630f0fc435c5a",
+      "sha256" : "d4e14e26e4cd25d5c65165835ac1d1c212012857ca333270298270fb6071952b",
       "stats" : {
         "downloadCount" : 75,
         "impressionCount" : 71
       },
       "subtitle" : "Interior design application",
       "tintColor" : "80777B",
-      "version" : "7.0",
-      "versionDate" : "2022-07-14T00:00:00Z"
+      "version" : "7.0.2",
+      "versionDate" : "2022-08-01T05:30:55Z"
     },
     {
       "beta" : false,
@@ -55476,7 +55479,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-idafree/AppIcon.png",
       "localizedDescription" : "Binary code analysis tool",
       "name" : "IDA Free",
-      "sha256" : "75f623b3f438aac5d5207fc48fee14db262db6dcf0393d3f636d1117f480f337",
+      "sha256" : "def16362e338ef3ace4ed91cb1bfb2f1ffef220a9988e32d3468c17736c1f851",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 19
@@ -73234,41 +73237,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "cryptomator",
-      "caption" : "Cryptomator updated from 1.6.10 to 1.6.11",
-      "date" : "2022-07-29T15:53:19Z",
-      "identifier" : "release-cryptomator-1.6.11",
-      "title" : "New Release: Cryptomator 1.6.11"
-    },
-    {
-      "appID" : "downie",
-      "caption" : "Downie updated from 4.5.6,4421 to 4.5.7,4433",
-      "date" : "2022-07-29T15:53:20Z",
-      "identifier" : "release-downie-4.5.7,4433",
-      "title" : "New Release: Downie 4.5.7,4433"
-    },
-    {
-      "appID" : "cog",
-      "caption" : "Cog updated from 2665,660cb1ba to 2668,3f7b375b",
-      "date" : "2022-07-29T15:53:20Z",
-      "identifier" : "release-cog-2668,3f7b375b",
-      "title" : "New Release: Cog 2668,3f7b375b"
-    },
-    {
-      "appID" : "exodus",
-      "caption" : "Exodus updated from 22.7.15 to 22.7.29",
-      "date" : "2022-07-29T15:53:20Z",
-      "identifier" : "release-exodus-22.7.29",
-      "title" : "New Release: Exodus 22.7.29"
-    },
-    {
-      "appID" : "arctype",
-      "caption" : "Arctype updated from 0.9.76 to 0.9.77",
-      "date" : "2022-07-29T15:53:20Z",
-      "identifier" : "release-arctype-0.9.77",
-      "title" : "New Release: Arctype 0.9.77"
-    },
-    {
       "appID" : "appcode",
       "caption" : "AppCode updated from 2022.1.3,221.5921.25 to 2022.1.4,221.6008.18",
       "date" : "2022-07-29T15:53:20Z",
@@ -73682,13 +73650,6 @@
       "title" : "New Release: Tabby 1.0.182"
     },
     {
-      "appID" : "netron",
-      "caption" : "Netron updated from 5.9.6 to 5.9.7",
-      "date" : "2022-07-30T06:22:09Z",
-      "identifier" : "release-netron-5.9.7",
-      "title" : "New Release: Netron 5.9.7"
-    },
-    {
       "appID" : "siyuan",
       "caption" : "SiYuan updated from 2.1.3 to 2.1.4",
       "date" : "2022-07-30T06:22:09Z",
@@ -73932,6 +73893,48 @@
       "date" : "2022-08-01T01:18:34Z",
       "identifier" : "release-spires-2.0.7",
       "title" : "New Release: spires 2.0.7"
+    },
+    {
+      "appID" : "stats",
+      "caption" : "Stats updated from 2.7.27 to 2.7.28",
+      "date" : "2022-08-01T05:30:55Z",
+      "identifier" : "release-stats-2.7.28",
+      "title" : "New Release: Stats 2.7.28"
+    },
+    {
+      "appID" : "notunes",
+      "caption" : "noTunes updated from 3.2 to 3.3",
+      "date" : "2022-08-01T05:30:56Z",
+      "identifier" : "release-notunes-3.3",
+      "title" : "New Release: noTunes 3.3"
+    },
+    {
+      "appID" : "netron",
+      "caption" : "Netron updated from 5.9.7 to 5.9.8",
+      "date" : "2022-08-01T05:30:56Z",
+      "identifier" : "release-netron-5.9.8",
+      "title" : "New Release: Netron 5.9.8"
+    },
+    {
+      "appID" : "ubports-installer",
+      "caption" : "ubports-installer updated from 0.9.5-beta to 0.9.6-beta",
+      "date" : "2022-08-01T05:30:56Z",
+      "identifier" : "release-ubports-installer-0.9.6-beta",
+      "title" : "New Release: ubports-installer 0.9.6-beta"
+    },
+    {
+      "appID" : "ledger-live",
+      "caption" : "Ledger Live updated from 2.42.0 to 2.45.0",
+      "date" : "2022-08-01T05:30:56Z",
+      "identifier" : "release-ledger-live-2.45.0",
+      "title" : "New Release: Ledger Live 2.45.0"
+    },
+    {
+      "appID" : "sweet-home3d",
+      "caption" : "Sweet Home 3D updated from 7.0 to 7.0.2",
+      "date" : "2022-08-01T05:30:56Z",
+      "identifier" : "release-sweet-home3d-7.0.2",
+      "title" : "New Release: Sweet Home 3D 7.0.2"
     }
   ],
   "platform" : "macos",

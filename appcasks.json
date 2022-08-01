@@ -915,7 +915,7 @@
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
       "version" : "2.7.28",
-      "versionDate" : "2022-08-01T05:30:55Z"
+      "versionDate" : "2022-08-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5163,7 +5163,7 @@
       "subtitle" : "Simple application that will prevent iTunes or Apple Music from launching",
       "tintColor" : "F98997",
       "version" : "3.3",
-      "versionDate" : "2022-08-01T05:30:55Z"
+      "versionDate" : "2022-08-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5390,7 +5390,7 @@
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
       "version" : "5.9.8",
-      "versionDate" : "2022-08-01T05:30:55Z"
+      "versionDate" : "2022-08-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12311,6 +12311,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "silicon",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/DigiDNA/Silicon/releases/download/1.0.4/Silicon.app.zip",
+      "homepage" : "https://github.com/DigiDNA/Silicon",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silicon/AppIcon.png",
+      "localizedDescription" : "Identify Intel-only apps",
+      "name" : "Silicon",
+      "sha256" : "25d113f4709a6b0af6f8ef626879e3ef9bebc9922b81b9df2411785eec001210",
+      "stats" : {
+        "downloadCount" : 48,
+        "impressionCount" : 698
+      },
+      "subtitle" : "Identify Intel-only apps",
+      "tintColor" : "D3DBDD",
+      "version" : "1.0.4",
+      "versionDate" : "2022-07-22T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "smartsvn",
       "categories" : [
         "public.app-category.developer-tools"
@@ -12409,27 +12430,6 @@
       "subtitle" : "Extract files and folders from package files, disk images, and archives",
       "tintColor" : "D6BC54",
       "version" : "4.0.3,66254"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "silicon",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/DigiDNA/Silicon/releases/download/1.0.4/Silicon.app.zip",
-      "homepage" : "https://github.com/DigiDNA/Silicon",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silicon/AppIcon.png",
-      "localizedDescription" : "Identify Intel-only apps",
-      "name" : "Silicon",
-      "sha256" : "25d113f4709a6b0af6f8ef626879e3ef9bebc9922b81b9df2411785eec001210",
-      "stats" : {
-        "downloadCount" : 47,
-        "impressionCount" : 697
-      },
-      "subtitle" : "Identify Intel-only apps",
-      "tintColor" : "D3DBDD",
-      "version" : "1.0.4",
-      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39667,7 +39667,7 @@
       "subtitle" : "Application to install ubports on mobile devices",
       "tintColor" : "B44B28",
       "version" : "0.9.6-beta",
-      "versionDate" : "2022-08-01T05:30:55Z"
+      "versionDate" : "2022-08-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42083,7 +42083,7 @@
       "subtitle" : "Wallet desktop application to maintain multiple cryptocurrencies",
       "tintColor" : "1B1B1B",
       "version" : "2.45.0",
-      "versionDate" : "2022-08-01T05:30:55Z"
+      "versionDate" : "2022-08-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43421,7 +43421,7 @@
       "subtitle" : "Interior design application",
       "tintColor" : "80777B",
       "version" : "7.0.2",
-      "versionDate" : "2022-08-01T05:30:55Z"
+      "versionDate" : "2022-08-01T00:00:00Z"
     },
     {
       "beta" : false,

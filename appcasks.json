@@ -10466,7 +10466,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/FreeTubeApp/FreeTube/releases/download/v0.16.0-beta/freetube-0.16.0-mac.dmg",
+      "downloadURL" : "https://github.com/FreeTubeApp/FreeTube/releases/download/v0.17.0-beta/freetube-0.17.0-mac.dmg",
       "fundingLinks" : [
         {
           "platform" : "LIBERAPAY",
@@ -10477,14 +10477,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-freetube/AppIcon.png",
       "localizedDescription" : "YouTube player focusing on privacy",
       "name" : "FreeTube",
-      "sha256" : "22086b8899b8bc2b8bd8b3217978d9864260a7d359cf1fdc113c6f3262032a7d",
+      "sha256" : "c9fc2b5be39d1ac8bba3d52b948196209201eafba635d07a32905d9126b884b4",
       "stats" : {
         "downloadCount" : 69,
         "impressionCount" : 459
       },
       "subtitle" : "YouTube player focusing on privacy",
       "tintColor" : "DEB3BE",
-      "version" : "0.16.0"
+      "version" : "0.17.0",
+      "versionDate" : "2022-08-01T09:24:13Z"
     },
     {
       "beta" : false,
@@ -73237,13 +73238,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "appcode",
-      "caption" : "AppCode updated from 2022.1.3,221.5921.25 to 2022.1.4,221.6008.18",
-      "date" : "2022-07-29T15:53:20Z",
-      "identifier" : "release-appcode-2022.1.4,221.6008.18",
-      "title" : "New Release: AppCode 2022.1.4,221.6008.18"
-    },
-    {
       "appID" : "tencent-docs",
       "caption" : "Tencent Docs updated from 2.3.11 to 2.3.12",
       "date" : "2022-07-29T15:53:21Z",
@@ -73935,6 +73929,13 @@
       "date" : "2022-08-01T05:30:56Z",
       "identifier" : "release-sweet-home3d-7.0.2",
       "title" : "New Release: Sweet Home 3D 7.0.2"
+    },
+    {
+      "appID" : "freetube",
+      "caption" : "FreeTube updated from 0.16.0 to 0.17.0",
+      "date" : "2022-08-01T09:24:14Z",
+      "identifier" : "release-freetube-0.17.0",
+      "title" : "New Release: FreeTube 0.17.0"
     }
   ],
   "platform" : "macos",

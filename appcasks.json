@@ -49193,20 +49193,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/LIJI32/SameBoy/releases/download/v0.15.3/sameboy_cocoa_v0.15.3.zip",
+      "downloadURL" : "https://github.com/LIJI32/SameBoy/releases/download/v0.15.4/sameboy_cocoa_v0.15.4.zip",
       "homepage" : "https://sameboy.github.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sameboy/AppIcon.png",
       "localizedDescription" : "Game Boy and Game Boy Color emulator written in C",
       "name" : "SameBoy",
-      "sha256" : "884361bb646148b939a2b7657f04a251b08d2ce990fc55f54cb2a0262629a6b8",
+      "sha256" : "a6f6e090e95f423d024b302b4cadba83cc6935599b245516856c5e0fd0476735",
       "stats" : {
         "downloadCount" : 14,
         "impressionCount" : 141
       },
       "subtitle" : "Game Boy and Game Boy Color emulator written in C",
       "tintColor" : "7D8786",
-      "version" : "0.15.3",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "0.15.4",
+      "versionDate" : "2022-08-01T11:21:24Z"
     },
     {
       "beta" : false,
@@ -52959,20 +52959,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.48.0/openttd-jgrpp-0.48.0-macos-universal.dmg",
+      "downloadURL" : "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.48.1/openttd-jgrpp-0.48.1-macos-universal.dmg",
       "homepage" : "https://github.com/JGRennison/OpenTTD-patches/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jgrennison-openttd/AppIcon.png",
       "localizedDescription" : "Collection of patches applied to OpenTTD",
       "name" : "JGR's OpenTTD Patchpack",
-      "sha256" : "29fcef04fc5ad8097fdb43dfa43df9df85a95bee0a8a39b18f34d34594497b76",
+      "sha256" : "352369c046616c744d2a4be9991154f474d67499289ca2744dbfdd76615f781e",
       "stats" : {
         "downloadCount" : 6,
         "impressionCount" : 75
       },
       "subtitle" : "Collection of patches applied to OpenTTD",
       "tintColor" : "B28846",
-      "version" : "0.48.0",
-      "versionDate" : "2022-07-03T00:00:00Z"
+      "version" : "0.48.1",
+      "versionDate" : "2022-08-01T11:21:24Z"
     },
     {
       "beta" : false,
@@ -73238,20 +73238,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "tencent-docs",
-      "caption" : "Tencent Docs updated from 2.3.11 to 2.3.12",
-      "date" : "2022-07-29T15:53:21Z",
-      "identifier" : "release-tencent-docs-2.3.12",
-      "title" : "New Release: Tencent Docs 2.3.12"
-    },
-    {
-      "appID" : "firefly",
-      "caption" : "Firefly updated from 1.6.4 to 1.6.5",
-      "date" : "2022-07-29T15:53:21Z",
-      "identifier" : "release-firefly-1.6.5",
-      "title" : "New Release: Firefly 1.6.5"
-    },
-    {
       "appID" : "cinderella",
       "caption" : "Cinderella updated from 3.0b.2046 to 3.0b.2047",
       "date" : "2022-07-29T15:53:21Z",
@@ -73936,6 +73922,20 @@
       "date" : "2022-08-01T09:24:14Z",
       "identifier" : "release-freetube-0.17.0",
       "title" : "New Release: FreeTube 0.17.0"
+    },
+    {
+      "appID" : "sameboy",
+      "caption" : "SameBoy updated from 0.15.3 to 0.15.4",
+      "date" : "2022-08-01T11:21:25Z",
+      "identifier" : "release-sameboy-0.15.4",
+      "title" : "New Release: SameBoy 0.15.4"
+    },
+    {
+      "appID" : "jgrennison-openttd",
+      "caption" : "JGR's OpenTTD Patchpack updated from 0.48.0 to 0.48.1",
+      "date" : "2022-08-01T11:21:26Z",
+      "identifier" : "release-jgrennison-openttd-0.48.1",
+      "title" : "New Release: JGR's OpenTTD Patchpack 0.48.1"
     }
   ],
   "platform" : "macos",

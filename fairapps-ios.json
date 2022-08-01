@@ -32,10 +32,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 66,
-        "impressionCount" : 1120,
+        "impressionCount" : 1127,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 71,
+        "viewCount" : 73,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -82,10 +82,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 37,
-        "impressionCount" : 696,
+        "impressionCount" : 705,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 34,
+        "viewCount" : 36,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -125,10 +125,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 36,
-        "impressionCount" : 1854,
+        "impressionCount" : 1859,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 99,
+        "viewCount" : 101,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -166,10 +166,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 29,
-        "impressionCount" : 971,
+        "impressionCount" : 976,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 56,
+        "viewCount" : 59,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -210,7 +210,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 1771,
+        "impressionCount" : 1776,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 86,
@@ -254,10 +254,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 20,
-        "impressionCount" : 780,
+        "impressionCount" : 787,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 44,
+        "viewCount" : 46,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -498,7 +498,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 1542,
+        "impressionCount" : 1547,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 78,
@@ -754,10 +754,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 3526,
+        "impressionCount" : 3536,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 495,
+        "viewCount" : 496,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",

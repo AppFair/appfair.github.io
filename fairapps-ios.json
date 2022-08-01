@@ -2,6 +2,227 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "type" : "com.apple.security.network.client",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_03-iphone-1170x2532.png"
+      ],
+      "sha256" : "366bc11e5a61f413cd3325ef5980cce5901d42e1be4c93dc1a2c7e7240a18462",
+      "size" : 17553833,
+      "stats" : {
+        "coreSize" : 103112,
+        "downloadCount" : 66,
+        "impressionCount" : 1120,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 71,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.447",
+      "versionDate" : "2022-07-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.446...0.8.447"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Stanza-Redux",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux.png",
+      "localizedDescription" : "An electronic book reader",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Info.plist#f98d4812e5b09e4cd1390756eb4071d1b1334e56e32d63c5f5381d2c070bb7ce",
+      "name" : "Stanza Redux",
+      "permissions" : [
+        {
+          "type" : "com.apple.security.network.client",
+          "usageDescription" : "This app needs to access the network in order to access books"
+        },
+        {
+          "type" : "com.apple.security.files.user-selected.read-only",
+          "usageDescription" : "This app needs to read ebook files"
+        }
+      ],
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "screenshotURLs" : [
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_04-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_05-iphone-750x1334.png"
+      ],
+      "sha256" : "cae4947c951c216a89d511285baa997714d9ff22b178880c69e9b9aae9030372",
+      "size" : 8491944,
+      "stats" : {
+        "coreSize" : 102480,
+        "downloadCount" : 37,
+        "impressionCount" : 696,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 34,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An electronic book reader",
+      "tintColor" : "00375C",
+      "version" : "0.3.41",
+      "versionDate" : "2022-07-29T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.38...0.3.41"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "type" : "com.apple.security.files.user-selected.read-only",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-iphone-1334x750.png"
+      ],
+      "sha256" : "23a83ecf71649f49ba98384b7640ed5e3fa3ea3733e5d87ea79e8ba148cfa589",
+      "size" : 5381927,
+      "stats" : {
+        "coreSize" : 102376,
+        "downloadCount" : 36,
+        "impressionCount" : 1854,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 99,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.20",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "f412cb3044db7eb03904f75bb13c72f6b9c61cadc9dd9ba4929ca16b8e39ff89",
+      "size" : 5509778,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 29,
+        "impressionCount" : 971,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 56,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.142",
+      "versionDate" : "2022-07-29T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.141...0.9.142"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "type" : "com.apple.security.files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "5dc9d5209f376093487eee542b5f06d6b3ca550692b0432fed4e3997d8e9bcc5",
+      "size" : 12016119,
+      "stats" : {
+        "coreSize" : 102576,
+        "downloadCount" : 21,
+        "impressionCount" : 1771,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 86,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.90",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
 
@@ -32,11 +253,11 @@
       "size" : 5482239,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 11,
-        "impressionCount" : 755,
+        "downloadCount" : 20,
+        "impressionCount" : 780,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 34,
+        "viewCount" : 44,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -44,190 +265,6 @@
       "version" : "0.2.37",
       "versionDate" : "2022-07-29T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.36...0.2.37"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "f412cb3044db7eb03904f75bb13c72f6b9c61cadc9dd9ba4929ca16b8e39ff89",
-      "size" : 5509778,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 20,
-        "impressionCount" : 946,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 46,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.142",
-      "versionDate" : "2022-07-29T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.141...0.9.142"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Crazy Glue",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "aae320c8f7a9295fb79840e507ee24918963da8f5ea6e9e115a2e63fc36b6a34",
-      "size" : 5901949,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 10,
-        "impressionCount" : 2794,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 218,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-23T00:00:00Z",
-      "versionDescription" : "Release 0.0.4"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Down-Town",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "localizedDescription" : "An urban street guide",
-      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Down Town",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
-      "sha256" : "4548b4e560513a5e424f4c7de38a83d4e839a31c3f287d880fb6c5b9b644cb8f",
-      "size" : 5951996,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 5,
-        "impressionCount" : 2036,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 132,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An urban street guide",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-25T00:00:00Z",
-      "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "f63a5d599aa3b4da65ac447bcb4ec810a30041cf00ee6d9d5a662ddaf4ce8329",
-      "size" : 6063708,
-      "stats" : {
-        "coreSize" : 68376,
-        "downloadCount" : 5,
-        "impressionCount" : 1598,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 100,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.32",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.32"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Festivus-Pole",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
-      "localizedDescription" : "A true Festivus celebration",
-      "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Festivus Pole",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "b99b78682936f8aefa0b6a200a11ec130a676382617e5dff0b6279f13b96c61e",
-      "size" : 5782409,
-      "stats" : {
-        "coreSize" : 68368,
-        "downloadCount" : 6,
-        "impressionCount" : 1914,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 117,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A true Festivus celebration",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-23T00:00:00Z",
-      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -263,6 +300,141 @@
       "version" : "0.0.4",
       "versionDate" : "2022-01-23T00:00:00Z",
       "versionDescription" : "Release 0.0.4"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Crazy-Glue",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
+      "localizedDescription" : "Putting the pieces back together",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Crazy Glue",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "aae320c8f7a9295fb79840e507ee24918963da8f5ea6e9e115a2e63fc36b6a34",
+      "size" : 5901949,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 10,
+        "impressionCount" : 2799,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 221,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Putting the pieces back together",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-23T00:00:00Z",
+      "versionDescription" : "Release 0.0.4"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit.png",
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "sha256" : "8baacf975e437188e6684aae05ca35b9c9370cc8ee6f35df54f51ca028d8e389",
+      "size" : 5833409,
+      "stats" : {
+        "coreSize" : 152800,
+        "downloadCount" : 9,
+        "impressionCount" : 345,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 20,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.8",
+      "versionDate" : "2021-12-06T00:00:00Z",
+      "versionDescription" : "Release 0.4.8"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Neural-Scry",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Neural-Scry-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Neural-Scry.png",
+      "localizedDescription" : "Brain scanner",
+      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Info.plist#93213f87da1e37a2a7609f6487544900ca06f4481927d242e10379ce76da921f",
+      "name" : "Neural Scry",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "network.server",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.camera",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.microphone",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "cs.debugger",
+          "usageDescription" : "This enabled this permission for testing"
+        },
+        {
+          "type" : "temporary-exception.mach-lookup.global-name",
+          "usageDescription" : "This enabled this permission for testing"
+        }
+      ],
+      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/README.md#f9af449c34702872740ca1db657be31a62c8caa3f1dc77e96d64a0fb040ef186",
+      "sha256" : "7e76b57e37b5ae275fbd940aa08ae1d6006524db101a412601f0f75b7089f7a1",
+      "size" : 8658102,
+      "stats" : {
+        "coreSize" : 153232,
+        "downloadCount" : 9,
+        "impressionCount" : 475,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 9,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Brain scanner",
+      "version" : "0.0.45",
+      "versionDate" : "2021-12-04T00:00:00Z",
+      "versionDescription" : "Release 0.0.45"
     },
     {
       "beta" : true,
@@ -304,92 +476,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "type" : "com.apple.security.files.user-selected.read-only",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-iphone-1334x750.png"
-      ],
-      "sha256" : "23a83ecf71649f49ba98384b7640ed5e3fa3ea3733e5d87ea79e8ba148cfa589",
-      "size" : 5381927,
-      "stats" : {
-        "coreSize" : 102376,
-        "downloadCount" : 36,
-        "impressionCount" : 1828,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 88,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.20",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion.png",
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "type" : "com.apple.security.files.user-selected.read-write",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "5dc9d5209f376093487eee542b5f06d6b3ca550692b0432fed4e3997d8e9bcc5",
-      "size" : 12016119,
-      "stats" : {
-        "coreSize" : 102576,
-        "downloadCount" : 21,
-        "impressionCount" : 1746,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 76,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.90",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
 
@@ -412,10 +498,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 1519,
+        "impressionCount" : 1542,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 70,
+        "viewCount" : 78,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -457,6 +543,146 @@
       "version" : "0.0.17",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.0.17"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Festivus-Pole",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
+      "localizedDescription" : "A true Festivus celebration",
+      "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Festivus Pole",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "b99b78682936f8aefa0b6a200a11ec130a676382617e5dff0b6279f13b96c61e",
+      "size" : 5782409,
+      "stats" : {
+        "coreSize" : 68368,
+        "downloadCount" : 6,
+        "impressionCount" : 1914,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 117,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A true Festivus celebration",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-23T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Visi-Calc",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc.png",
+      "localizedDescription" : "A business app for business-folk",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Info.plist#354daad9a6dba5b23313216733523ad2149f7b4eb92d3f73613cdd063230e626",
+      "name" : "Visi Calc",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
+      "sha256" : "5656df5821dfdc7fca752162de28462294119b818417d0ac19a5bc400167889a",
+      "size" : 14882780,
+      "stats" : {
+        "coreSize" : 152608,
+        "downloadCount" : 6,
+        "impressionCount" : 1284,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 201,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A business app for business-folk",
+      "version" : "0.0.35",
+      "versionDate" : "2021-12-04T00:00:00Z",
+      "versionDescription" : "Release 0.0.35"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tidal-Zone",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
+      "localizedDescription" : "What tide is it right now?",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
+      "name" : "Tidal Zone",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
+      "sha256" : "5b3f5ec202a63f4b1df928211474562850519c362c7a2c295b35bdc214393c87",
+      "size" : 6362176,
+      "stats" : {
+        "coreSize" : 102472,
+        "downloadCount" : 6,
+        "impressionCount" : 1381,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 80,
+        "watcherCount" : 0
+      },
+      "subtitle" : "What tide is it right now?",
+      "version" : "0.0.20",
+      "versionDate" : "2022-02-12T00:00:00Z",
+      "versionDescription" : "Release 0.0.20"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Ultra-Light",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
+      "localizedDescription" : "A bit of lite reading",
+      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Ultra Light",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "0d990f2da3e4d93fac853b232e32b397244065f86f4d8a15225ae7ade858f9f6",
+      "size" : 5854777,
+      "stats" : {
+        "coreSize" : 68360,
+        "downloadCount" : 5,
+        "impressionCount" : 659,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 61,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A bit of lite reading",
+      "version" : "0.0.7",
+      "versionDate" : "2022-01-21T00:00:00Z",
+      "versionDescription" : "Release 0.0.7"
     },
     {
       "beta" : true,
@@ -528,10 +754,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 3504,
+        "impressionCount" : 3526,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 486,
+        "viewCount" : 495,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -541,139 +767,223 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Neural-Scry",
+      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues.png",
+      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sita Sings the Blues",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
+      "screenshotURLs" : [
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_04-iphone-750x1334.png"
+      ],
+      "sha256" : "395208b54a04781502fdaf57d8dc2cc631f70977bb5e817e9ae0a06f438a224b",
+      "size" : 1458850545,
+      "stats" : {
+        "coreSize" : 102952,
+        "downloadCount" : 5,
+        "impressionCount" : 635,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 70,
+        "watcherCount" : 0
+      },
+      "subtitle" : "The movie \"Sita Sings the Blues\"",
+      "version" : "0.0.49",
+      "versionDate" : "2022-04-08T00:00:00Z",
+      "versionDescription" : "Release 0.0.49"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Neural-Scry-iOS.ipa",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Neural-Scry.png",
-      "localizedDescription" : "Brain scanner",
-      "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/Info.plist#93213f87da1e37a2a7609f6487544900ca06f4481927d242e10379ce76da921f",
-      "name" : "Neural Scry",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Encyclopedia Galactica",
       "permissions" : [
         {
           "type" : "network.client",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "device.camera",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "device.microphone",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "device.usb",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "cs.debugger",
-          "usageDescription" : "This enabled this permission for testing"
-        },
-        {
-          "type" : "temporary-exception.mach-lookup.global-name",
-          "usageDescription" : "This enabled this permission for testing"
+          "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.45/README.md#f9af449c34702872740ca1db657be31a62c8caa3f1dc77e96d64a0fb040ef186",
-      "sha256" : "7e76b57e37b5ae275fbd940aa08ae1d6006524db101a412601f0f75b7089f7a1",
-      "size" : 8658102,
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "f63a5d599aa3b4da65ac447bcb4ec810a30041cf00ee6d9d5a662ddaf4ce8329",
+      "size" : 6063708,
       "stats" : {
-        "coreSize" : 153232,
-        "downloadCount" : 9,
-        "impressionCount" : 475,
+        "coreSize" : 68376,
+        "downloadCount" : 5,
+        "impressionCount" : 1598,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 9,
+        "viewCount" : 100,
         "watcherCount" : 0
       },
-      "subtitle" : "Brain scanner",
-      "version" : "0.0.45",
-      "versionDate" : "2021-12-04T00:00:00Z",
-      "versionDescription" : "Release 0.0.45"
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.0.32",
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.32"
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Next-Edit",
+      "bundleIdentifier" : "app.Down-Town",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit-iOS.ipa",
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Next-Edit.png",
-      "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/Info.plist#1dbf85e8b1b6af306237943215e8f6855ff598cc0801485c8c6c412779fc17f3",
-      "name" : "Next Edit",
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
+      "localizedDescription" : "An urban street guide",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Down Town",
       "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to read and write files in order to edit text."
-        }
+
       ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.8/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
-      "sha256" : "8baacf975e437188e6684aae05ca35b9c9370cc8ee6f35df54f51ca028d8e389",
-      "size" : 5833409,
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
+      "sha256" : "4548b4e560513a5e424f4c7de38a83d4e839a31c3f287d880fb6c5b9b644cb8f",
+      "size" : 5951996,
       "stats" : {
-        "coreSize" : 152800,
-        "downloadCount" : 9,
-        "impressionCount" : 345,
+        "coreSize" : 68344,
+        "downloadCount" : 5,
+        "impressionCount" : 2041,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 20,
+        "viewCount" : 135,
         "watcherCount" : 0
       },
-      "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.8",
-      "versionDate" : "2021-12-06T00:00:00Z",
-      "versionDescription" : "Release 0.4.8"
+      "subtitle" : "An urban street guide",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-25T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Pan-Opticon",
+      "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon-iOS.ipa",
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon.png",
-      "localizedDescription" : "Watch the Watchers",
-      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Pan Opticon",
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
+      "localizedDescription" : "Old-time horse trading",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Yankee Swap",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "37b8c56673fde758a3fdebf24030907ef25a0e93b3ab8e7be577549768b324a8",
-      "size" : 6493112,
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "bd2f3452bde28bec01c441da80e7d6404aa9ab5806a34d10d5d18481c6ee4182",
+      "size" : 5992847,
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 603,
+        "impressionCount" : 1878,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 54,
+        "viewCount" : 42,
         "watcherCount" : 0
       },
-      "subtitle" : "Watch the Watchers",
-      "tintColor" : "CC00AA",
-      "version" : "0.2.22",
+      "subtitle" : "Old-time horse trading",
+      "tintColor" : "3C82C1",
+      "version" : "0.0.11",
       "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.2.22"
+      "versionDescription" : "Release 0.0.11"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Unclear-Purpose",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose.png",
+      "localizedDescription" : "An unclear app",
+      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Unclear Purpose",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "61449d391d94f26f64db6c535992d631357c48250bdadf06cdd6aa54fac87d90",
+      "size" : 5930811,
+      "stats" : {
+        "coreSize" : 68368,
+        "downloadCount" : 4,
+        "impressionCount" : 609,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 43,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An unclear app",
+      "version" : "0.0.5",
+      "versionDate" : "2022-01-25T00:00:00Z",
+      "versionDescription" : "Release 0.0.5"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Trivial-Quiz",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz.png",
+      "localizedDescription" : "A little quiz game",
+      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Trivial Quiz",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "96812134feb788e0258dd905b1f6fd9c8c9749aaa41008e580dfdeb68c42e578",
+      "size" : 6274381,
+      "stats" : {
+        "coreSize" : 102480,
+        "downloadCount" : 4,
+        "impressionCount" : 832,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 56,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A little quiz game",
+      "version" : "0.0.16",
+      "versionDate" : "2022-02-12T00:00:00Z",
+      "versionDescription" : "Release 0.0.16"
     },
     {
       "beta" : true,
@@ -723,208 +1033,39 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues.png",
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
-      "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_04-iphone-750x1334.png"
-      ],
-      "sha256" : "395208b54a04781502fdaf57d8dc2cc631f70977bb5e817e9ae0a06f438a224b",
-      "size" : 1458850545,
-      "stats" : {
-        "coreSize" : 102952,
-        "downloadCount" : 5,
-        "impressionCount" : 635,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 70,
-        "watcherCount" : 0
-      },
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.49",
-      "versionDate" : "2022-04-08T00:00:00Z",
-      "versionDescription" : "Release 0.0.49"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Stanza-Redux",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux.png",
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Info.plist#f98d4812e5b09e4cd1390756eb4071d1b1334e56e32d63c5f5381d2c070bb7ce",
-      "name" : "Stanza Redux",
-      "permissions" : [
-        {
-          "type" : "com.apple.security.network.client",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        },
-        {
-          "type" : "com.apple.security.files.user-selected.read-only",
-          "usageDescription" : "This app needs to read ebook files"
-        }
-      ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
-      "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_04-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_05-iphone-750x1334.png"
-      ],
-      "sha256" : "cae4947c951c216a89d511285baa997714d9ff22b178880c69e9b9aae9030372",
-      "size" : 8491944,
-      "stats" : {
-        "coreSize" : 102480,
-        "downloadCount" : 28,
-        "impressionCount" : 671,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 25,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An electronic book reader",
-      "tintColor" : "00375C",
-      "version" : "0.3.41",
-      "versionDate" : "2022-07-29T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.38...0.3.41"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tidal-Zone",
+      "bundleIdentifier" : "app.Pan-Opticon",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-iOS.ipa",
+      "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
-      "name" : "Tidal Zone",
+      "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon.png",
+      "localizedDescription" : "Watch the Watchers",
+      "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Pan Opticon",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
-      "sha256" : "5b3f5ec202a63f4b1df928211474562850519c362c7a2c295b35bdc214393c87",
-      "size" : 6362176,
+      "readmeURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "37b8c56673fde758a3fdebf24030907ef25a0e93b3ab8e7be577549768b324a8",
+      "size" : 6493112,
       "stats" : {
-        "coreSize" : 102472,
-        "downloadCount" : 6,
-        "impressionCount" : 1378,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 79,
-        "watcherCount" : 0
-      },
-      "subtitle" : "What tide is it right now?",
-      "version" : "0.0.20",
-      "versionDate" : "2022-02-12T00:00:00Z",
-      "versionDescription" : "Release 0.0.20"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Trivial-Quiz",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz.png",
-      "localizedDescription" : "A little quiz game",
-      "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Trivial Quiz",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "96812134feb788e0258dd905b1f6fd9c8c9749aaa41008e580dfdeb68c42e578",
-      "size" : 6274381,
-      "stats" : {
-        "coreSize" : 102480,
+        "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 832,
+        "impressionCount" : 603,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 56,
+        "viewCount" : 54,
         "watcherCount" : 0
       },
-      "subtitle" : "A little quiz game",
-      "version" : "0.0.16",
-      "versionDate" : "2022-02-12T00:00:00Z",
-      "versionDescription" : "Release 0.0.16"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "type" : "com.apple.security.network.client",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_03-iphone-1170x2532.png"
-      ],
-      "sha256" : "366bc11e5a61f413cd3325ef5980cce5901d42e1be4c93dc1a2c7e7240a18462",
-      "size" : 17553833,
-      "stats" : {
-        "coreSize" : 103112,
-        "downloadCount" : 66,
-        "impressionCount" : 1087,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 65,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.447",
-      "versionDate" : "2022-07-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.446...0.8.447"
+      "subtitle" : "Watch the Watchers",
+      "tintColor" : "CC00AA",
+      "version" : "0.2.22",
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.2.22"
     },
     {
       "beta" : true,
@@ -960,147 +1101,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Ultra-Light",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
-      "localizedDescription" : "A bit of lite reading",
-      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Ultra Light",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "0d990f2da3e4d93fac853b232e32b397244065f86f4d8a15225ae7ade858f9f6",
-      "size" : 5854777,
-      "stats" : {
-        "coreSize" : 68360,
-        "downloadCount" : 5,
-        "impressionCount" : 659,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 61,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A bit of lite reading",
-      "version" : "0.0.7",
-      "versionDate" : "2022-01-21T00:00:00Z",
-      "versionDescription" : "Release 0.0.7"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Unclear-Purpose",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose.png",
-      "localizedDescription" : "An unclear app",
-      "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Unclear Purpose",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "61449d391d94f26f64db6c535992d631357c48250bdadf06cdd6aa54fac87d90",
-      "size" : 5930811,
-      "stats" : {
-        "coreSize" : 68368,
-        "downloadCount" : 4,
-        "impressionCount" : 609,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 43,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An unclear app",
-      "version" : "0.0.5",
-      "versionDate" : "2022-01-25T00:00:00Z",
-      "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Visi-Calc",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Visi-Calc.png",
-      "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/Info.plist#354daad9a6dba5b23313216733523ad2149f7b4eb92d3f73613cdd063230e626",
-      "name" : "Visi Calc",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.35/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
-      "sha256" : "5656df5821dfdc7fca752162de28462294119b818417d0ac19a5bc400167889a",
-      "size" : 14882780,
-      "stats" : {
-        "coreSize" : 152608,
-        "downloadCount" : 6,
-        "impressionCount" : 1284,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 201,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A business app for business-folk",
-      "version" : "0.0.35",
-      "versionDate" : "2021-12-04T00:00:00Z",
-      "versionDescription" : "Release 0.0.35"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Yankee-Swap",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
-      "localizedDescription" : "Old-time horse trading",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Yankee Swap",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "bd2f3452bde28bec01c441da80e7d6404aa9ab5806a34d10d5d18481c6ee4182",
-      "size" : 5992847,
-      "stats" : {
-        "coreSize" : 68360,
-        "downloadCount" : 4,
-        "impressionCount" : 1878,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 42,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Old-time horse trading",
-      "tintColor" : "3C82C1",
-      "version" : "0.0.11",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.11"
     }
   ],
   "fundingSources" : [

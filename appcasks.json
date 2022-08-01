@@ -1726,8 +1726,8 @@
       "sha256" : "61169ad13228cf360af0632f88de2d5615e5413e16071b003e30e91566c95590",
       "stats" : {
         "downloadCount" : 990,
-        "impressionCount" : 2237,
-        "viewCount" : 210
+        "impressionCount" : 2238,
+        "viewCount" : 211
       },
       "subtitle" : "GIT client",
       "tintColor" : "2FB4DE",
@@ -12232,6 +12232,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "silicon",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/DigiDNA/Silicon/releases/download/1.0.4/Silicon.app.zip",
+      "homepage" : "https://github.com/DigiDNA/Silicon",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silicon/AppIcon.png",
+      "localizedDescription" : "Identify Intel-only apps",
+      "name" : "Silicon",
+      "sha256" : "25d113f4709a6b0af6f8ef626879e3ef9bebc9922b81b9df2411785eec001210",
+      "stats" : {
+        "downloadCount" : 49,
+        "impressionCount" : 700
+      },
+      "subtitle" : "Identify Intel-only apps",
+      "tintColor" : "D3DBDD",
+      "version" : "1.0.4",
+      "versionDate" : "2022-07-22T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "artisan",
       "categories" : [
         "public.app-category.developer-tools"
@@ -12309,27 +12330,6 @@
       "subtitle" : "Proxy client",
       "tintColor" : "4E8FD3",
       "version" : "3.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "silicon",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/DigiDNA/Silicon/releases/download/1.0.4/Silicon.app.zip",
-      "homepage" : "https://github.com/DigiDNA/Silicon",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silicon/AppIcon.png",
-      "localizedDescription" : "Identify Intel-only apps",
-      "name" : "Silicon",
-      "sha256" : "25d113f4709a6b0af6f8ef626879e3ef9bebc9922b81b9df2411785eec001210",
-      "stats" : {
-        "downloadCount" : 48,
-        "impressionCount" : 699
-      },
-      "subtitle" : "Identify Intel-only apps",
-      "tintColor" : "D3DBDD",
-      "version" : "1.0.4",
-      "versionDate" : "2022-07-22T00:00:00Z"
     },
     {
       "beta" : false,

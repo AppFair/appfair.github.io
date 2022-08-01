@@ -25,7 +25,7 @@
       "sha256" : "2c3b795c5682a0270e647e5ca47dc697239f26078e15648b4721d22bea98dfe3",
       "stats" : {
         "downloadCount" : 2901,
-        "impressionCount" : 8847,
+        "impressionCount" : 8848,
         "viewCount" : 893
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "228e515764e0484adb84e31b94791528996a538214d0280a4db9f4fe6eb67750",
       "stats" : {
         "downloadCount" : 13707,
-        "impressionCount" : 7554,
+        "impressionCount" : 7555,
         "viewCount" : 865
       },
       "subtitle" : "Web browser",
@@ -932,7 +932,7 @@
       "sha256" : "e0b4f5ddafa8e478b5f0e8fd36e8e042718e8cef394005efedb7cb6cd7ea0f92",
       "stats" : {
         "downloadCount" : 3968,
-        "impressionCount" : 3644,
+        "impressionCount" : 3645,
         "viewCount" : 230
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1136,7 +1136,7 @@
       "sha256" : "b7c4011bcbd374c25e27148b452dbc2b0b72846bd993ffe6ac0ba922c2b5612f",
       "stats" : {
         "downloadCount" : 2616,
-        "impressionCount" : 1986,
+        "impressionCount" : 1987,
         "viewCount" : 174
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1531,7 +1531,7 @@
       "sha256" : "616d719572e4917d1264c622033afb1b4dd98e2553a0d09fd72470c99bad48e5",
       "stats" : {
         "downloadCount" : 1721,
-        "impressionCount" : 2607,
+        "impressionCount" : 2608,
         "viewCount" : 132
       },
       "subtitle" : "Web browser focusing on security",
@@ -1636,7 +1636,7 @@
       "sha256" : "97992136e7d1ae2a998df7e295d6d674608d2ebb8eac812cd019c969ba77c97e",
       "stats" : {
         "downloadCount" : 1245,
-        "impressionCount" : 1719,
+        "impressionCount" : 1720,
         "viewCount" : 94
       },
       "subtitle" : "Customizable email client",
@@ -2138,7 +2138,7 @@
       "sha256" : "abb88e86b938fea173ee458c5aa393daff6ae3dc3302fc3ed83628f322566623",
       "stats" : {
         "downloadCount" : 440,
-        "impressionCount" : 3396
+        "impressionCount" : 3397
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2227,7 +2227,7 @@
       "sha256" : "712b28380317aa3be2c8ed9abc337e219f24d9f8afaa2ffe80f85d1309e56402",
       "stats" : {
         "downloadCount" : 338,
-        "impressionCount" : 2762,
+        "impressionCount" : 2763,
         "viewCount" : 144
       },
       "subtitle" : "Matrix collaboration client",
@@ -3220,7 +3220,7 @@
       "sha256" : "0f0ce719cbacfd83d10608a07795b3102a57e7fc1652864098fda599fca5323f",
       "stats" : {
         "downloadCount" : 3124,
-        "impressionCount" : 1354
+        "impressionCount" : 1355
       },
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
@@ -4519,7 +4519,7 @@
       "sha256" : "c2dd35d3ed6f320e1145a67835a92b562d77665ed954e1c74ec456d623631930",
       "stats" : {
         "downloadCount" : 651,
-        "impressionCount" : 544
+        "impressionCount" : 545
       },
       "subtitle" : "Family of tools to build, test and package software",
       "tintColor" : "5A5C5C",

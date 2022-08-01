@@ -10485,7 +10485,7 @@
       "subtitle" : "YouTube player focusing on privacy",
       "tintColor" : "DEB3BE",
       "version" : "0.17.0",
-      "versionDate" : "2022-08-01T09:24:13Z"
+      "versionDate" : "2022-08-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39248,7 +39248,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-radicle-upstream/AppIcon.png",
       "localizedDescription" : "Desktop client for Radicle, a p2p stack for code collaboration",
       "name" : "Radicle Upstream",
-      "sha256" : "f197b3858ed84506019afd25a3e1b5d61b9858cea4f4e460a21c0fd5aafc0d8e",
+      "sha256" : "d52d9c101c4c59fb414ef736c49e5f751ee1be5b407d3bf26e097bb01ffca29d",
       "stats" : {
         "downloadCount" : 0,
         "impressionCount" : 110

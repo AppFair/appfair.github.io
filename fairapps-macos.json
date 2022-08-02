@@ -62,8 +62,8 @@
       "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 148,
-        "impressionCount" : 142,
+        "downloadCount" : 151,
+        "impressionCount" : 144,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 6,
@@ -509,11 +509,11 @@
       "size" : 3687703,
       "stats" : {
         "coreSize" : 102472,
-        "downloadCount" : 16,
-        "impressionCount" : 3612,
+        "downloadCount" : 17,
+        "impressionCount" : 3613,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 503,
+        "viewCount" : 504,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",

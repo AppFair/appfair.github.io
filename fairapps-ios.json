@@ -81,7 +81,7 @@
       "size" : 8491944,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 37,
+        "downloadCount" : 39,
         "impressionCount" : 705,
         "issueCount" : 0,
         "starCount" : 1,
@@ -165,7 +165,7 @@
       "size" : 5509778,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 29,
+        "downloadCount" : 31,
         "impressionCount" : 976,
         "issueCount" : 0,
         "starCount" : 1,
@@ -177,6 +177,51 @@
       "version" : "0.9.142",
       "versionDate" : "2022-07-29T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.141...0.9.142"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Bon-Mot-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "sha256" : "4576e28dc78566069fd1858a45ac026b12a53714ff74224d6edc362f93e98a55",
+      "size" : 5482239,
+      "stats" : {
+        "coreSize" : 102376,
+        "downloadCount" : 22,
+        "impressionCount" : 787,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 46,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.37",
+      "versionDate" : "2022-07-29T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.36...0.2.37"
     },
     {
       "beta" : false,
@@ -220,51 +265,6 @@
       "version" : "0.0.90",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Bon-Mot-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.37/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "sha256" : "4576e28dc78566069fd1858a45ac026b12a53714ff74224d6edc362f93e98a55",
-      "size" : 5482239,
-      "stats" : {
-        "coreSize" : 102376,
-        "downloadCount" : 20,
-        "impressionCount" : 787,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 46,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.37",
-      "versionDate" : "2022-07-29T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.36...0.2.37"
     },
     {
       "beta" : true,
@@ -546,6 +546,41 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Tidal-Zone",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
+      "localizedDescription" : "What tide is it right now?",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
+      "name" : "Tidal Zone",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
+      "sha256" : "5b3f5ec202a63f4b1df928211474562850519c362c7a2c295b35bdc214393c87",
+      "size" : 6362176,
+      "stats" : {
+        "coreSize" : 102472,
+        "downloadCount" : 7,
+        "impressionCount" : 1381,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 81,
+        "watcherCount" : 0
+      },
+      "subtitle" : "What tide is it right now?",
+      "version" : "0.0.20",
+      "versionDate" : "2022-02-12T00:00:00Z",
+      "versionDescription" : "Release 0.0.20"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Festivus-Pole",
       "categories" : [
 
@@ -613,41 +648,6 @@
       "version" : "0.0.35",
       "versionDate" : "2021-12-04T00:00:00Z",
       "versionDescription" : "Release 0.0.35"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tidal-Zone",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
-      "name" : "Tidal Zone",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
-      "sha256" : "5b3f5ec202a63f4b1df928211474562850519c362c7a2c295b35bdc214393c87",
-      "size" : 6362176,
-      "stats" : {
-        "coreSize" : 102472,
-        "downloadCount" : 6,
-        "impressionCount" : 1381,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 80,
-        "watcherCount" : 0
-      },
-      "subtitle" : "What tide is it right now?",
-      "version" : "0.0.20",
-      "versionDate" : "2022-02-12T00:00:00Z",
-      "versionDescription" : "Release 0.0.20"
     },
     {
       "beta" : true,

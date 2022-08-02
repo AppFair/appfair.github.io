@@ -25,7 +25,7 @@
       "sha256" : "2c3b795c5682a0270e647e5ca47dc697239f26078e15648b4721d22bea98dfe3",
       "stats" : {
         "downloadCount" : 2975,
-        "impressionCount" : 8911,
+        "impressionCount" : 8912,
         "viewCount" : 894
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,8 +57,8 @@
       "sha256" : "a2195ef3719ac9267df7fee5e211914b4289acb74639355def354014ac14eb38",
       "stats" : {
         "downloadCount" : 13998,
-        "impressionCount" : 7630,
-        "viewCount" : 867
+        "impressionCount" : 7631,
+        "viewCount" : 868
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8104,
-        "impressionCount" : 6790,
+        "impressionCount" : 6791,
         "viewCount" : 620
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28329,
-        "impressionCount" : 6957,
+        "impressionCount" : 6958,
         "viewCount" : 578
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 7958,
-        "impressionCount" : 7081,
+        "impressionCount" : 7082,
         "viewCount" : 595
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5557,
-        "impressionCount" : 7020,
+        "impressionCount" : 7021,
         "viewCount" : 468
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3093,
-        "impressionCount" : 6363,
+        "impressionCount" : 6364,
         "viewCount" : 499
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "0bfbe8a0109c827a45ae74342e826e81c9c7f7b2471545199a25591a3594ce1b",
       "stats" : {
         "downloadCount" : 2730,
-        "impressionCount" : 7397,
+        "impressionCount" : 7398,
         "viewCount" : 530
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -264,7 +264,7 @@
       ],
       "stats" : {
         "downloadCount" : 2557,
-        "impressionCount" : 5404,
+        "impressionCount" : 5405,
         "viewCount" : 346
       },
       "subtitle" : "Video game digital distribution service",
@@ -297,7 +297,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2005,
-        "impressionCount" : 7076,
+        "impressionCount" : 7077,
         "viewCount" : 783
       },
       "subtitle" : "File archiver",
@@ -323,7 +323,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1855,
-        "impressionCount" : 6055,
+        "impressionCount" : 6056,
         "viewCount" : 390
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -351,7 +351,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1243,
-        "impressionCount" : 5489,
+        "impressionCount" : 5490,
         "viewCount" : 425
       },
       "subtitle" : "Open-source Markdown editor",
@@ -382,7 +382,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1134,
-        "impressionCount" : 7314,
+        "impressionCount" : 7315,
         "viewCount" : 440
       },
       "subtitle" : "3D creation suite",
@@ -439,7 +439,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 568,
-        "impressionCount" : 5527,
+        "impressionCount" : 5528,
         "viewCount" : 296
       },
       "subtitle" : "Text editor",
@@ -468,7 +468,7 @@
       ],
       "stats" : {
         "downloadCount" : 528,
-        "impressionCount" : 5195,
+        "impressionCount" : 5196,
         "viewCount" : 427
       },
       "subtitle" : "Sandbox construction video game",
@@ -500,7 +500,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 435,
-        "impressionCount" : 5792,
+        "impressionCount" : 5793,
         "viewCount" : 451
       },
       "subtitle" : "Text, code, and markup editor",
@@ -531,7 +531,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 282,
-        "impressionCount" : 4442,
+        "impressionCount" : 4443,
         "viewCount" : 387
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -560,7 +560,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 237,
-        "impressionCount" : 4248,
+        "impressionCount" : 4249,
         "viewCount" : 364
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -735,7 +735,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 2585,
+        "impressionCount" : 2586,
         "viewCount" : 221
       },
       "subtitle" : "Create DMGs and other archives",
@@ -846,7 +846,7 @@
       "sha256" : "6429d531c5a15e3a6b956be08b01bc6e206a783c1918837755734470564868fd",
       "stats" : {
         "downloadCount" : 6374,
-        "impressionCount" : 2009,
+        "impressionCount" : 2010,
         "viewCount" : 125
       },
       "subtitle" : "Application launcher and productivity software",
@@ -909,7 +909,7 @@
       "sha256" : "1d3eb2d87c7580f7d8b42e2997edad80b1783a2c91ce7b476898f1d6b3a594ef",
       "stats" : {
         "downloadCount" : 5330,
-        "impressionCount" : 3927,
+        "impressionCount" : 3928,
         "viewCount" : 378
       },
       "subtitle" : "System monitor for the menu bar",
@@ -932,7 +932,7 @@
       "sha256" : "e0b4f5ddafa8e478b5f0e8fd36e8e042718e8cef394005efedb7cb6cd7ea0f92",
       "stats" : {
         "downloadCount" : 4033,
-        "impressionCount" : 3712,
+        "impressionCount" : 3713,
         "viewCount" : 230
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -2672,13 +2672,13 @@
       "sha256" : "9d37e7787476dfd5ccf9eebfbc06c41124d0338ae3b2d90f94740620143b24d4",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 2206,
+        "impressionCount" : 2207,
         "viewCount" : 208
       },
       "subtitle" : "News reader with flexible settings",
       "tintColor" : "629885",
       "version" : "1.0.74",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3053,12 +3053,12 @@
       "sha256" : "1e81b6c69c4512ed40b5788c14d4d53679865e10d291f436807027b3fb18ad59",
       "stats" : {
         "downloadCount" : 8990,
-        "impressionCount" : 1064
+        "impressionCount" : 1065
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
       "version" : "1.0.59,487",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3114,7 +3114,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 5848,
-        "impressionCount" : 491
+        "impressionCount" : 492
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -4106,7 +4106,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 897,
-        "impressionCount" : 1089
+        "impressionCount" : 1090
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -5182,7 +5182,7 @@
       "sha256" : "43ba5fb3d776f2d2ed1128c377aaa9d3420d792579cc9389c32e75b1f9c87a6c",
       "stats" : {
         "downloadCount" : 446,
-        "impressionCount" : 717
+        "impressionCount" : 718
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
@@ -7467,12 +7467,12 @@
       "sha256" : "e493320e3410bf8cb7ac5b17a5d58a0a8a50b8637303a7c1d9342c08af6cd180",
       "stats" : {
         "downloadCount" : 154,
-        "impressionCount" : 563
+        "impressionCount" : 564
       },
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
       "version" : "20.0.0",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7673,12 +7673,12 @@
       "sha256" : "1ae759f65d1836ad12015897cb60f0fd5da82862c6528f014e5489ef888529ab",
       "stats" : {
         "downloadCount" : 144,
-        "impressionCount" : 507
+        "impressionCount" : 508
       },
       "subtitle" : "System and utility switches",
       "tintColor" : "AB87D8",
       "version" : "2.3.5",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11026,7 +11026,7 @@
       "sha256" : "5b36be9e137031ec9dc567c5e47aeef39bfb852841e3294316f29d41af0cc6dc",
       "stats" : {
         "downloadCount" : 63,
-        "impressionCount" : 286
+        "impressionCount" : 287
       },
       "subtitle" : "Web browser",
       "tintColor" : "23BAF6",
@@ -11256,12 +11256,12 @@
       "sha256" : "1ead84054eb80d2ed1232ac3b3768fa082685a2c4f5e2018c4c8414b3e6447ab",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 255
+        "impressionCount" : 256
       },
       "subtitle" : "Music player focusing on visuals",
       "tintColor" : "2C2517",
       "version" : "4.3.0",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13521,12 +13521,12 @@
       "sha256" : "09ffeb8cc1b70370ee4ed740760d220fd22fb6ec3d187f045ee9f2952ea36148",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 372
+        "impressionCount" : 373
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
       "version" : "1.8.10",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21818,12 +21818,12 @@
       "sha256" : "460c0644f28b2df3ce4d9d85beb91ae3688799b1863ebc60a8f3e3b4a3361530",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 290
+        "impressionCount" : 291
       },
       "subtitle" : "Decentralised instant messenger and softphone",
       "tintColor" : "1A76B1",
       "version" : "2022080116",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22725,12 +22725,12 @@
       "sha256" : "7caf9cb31558312c07f5b452fbe2a59d75f56e9ef627a0d57bbd84a59e65e4e8",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 568
+        "impressionCount" : 569
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
       "version" : "0.11.24",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23015,19 +23015,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/1zilc/fishing-funds/releases/download/v6.1.1/Fishing-Funds-6.1.1.dmg",
+      "downloadURL" : "https://github.com/1zilc/fishing-funds/releases/download/v6.2.0/Fishing-Funds-6.2.0.dmg",
       "homepage" : "https://ff.1zilc.top/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fishing-funds/AppIcon.png",
       "localizedDescription" : "Display real-time trends of Chinese funds in the menubar",
       "name" : "Fishing Funds",
-      "sha256" : "a955fd666ca33a4e79f9cc96ee715587785c11f5b07266cdb00878b596511a85",
+      "sha256" : "0c369126610bfd5a92efd5906b3a7cceac7df1d50df1cc3b0383ee27fffd4b0c",
       "stats" : {
         "downloadCount" : 11,
         "impressionCount" : 225
       },
       "subtitle" : "Display real-time trends of Chinese funds in the menubar",
       "tintColor" : "C7172C",
-      "version" : "6.1.1"
+      "version" : "6.2.0",
+      "versionDate" : "2022-08-02T05:23:09Z"
     },
     {
       "beta" : false,
@@ -24936,12 +24937,12 @@
       "sha256" : "094c4191c2d0b6b61cdfa293a5a3fc0faa8b51298f3a34189f7bbbc62df28cd5",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 224
+        "impressionCount" : 225
       },
       "subtitle" : "Cycling training system",
       "tintColor" : "E04D42",
       "version" : "2022.28.0.195",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36389,12 +36390,12 @@
       "sha256" : "0318c54aa133165470638e5ea3a727364883317f9c31a1ef38782ab8df834048",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 395
+        "impressionCount" : 396
       },
       "subtitle" : "Create and correct time lapse movies",
       "tintColor" : "8CCEE9",
       "version" : "2.0.5,dbf5f35f-1a57-4487-a6ef-4571a8647ea0",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46642,12 +46643,12 @@
       "sha256" : "21e7c9575a76bd2e00b3ee8e45119d3cd6919e4f1dd31eb39e51d08b55683c3b",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 30
+        "impressionCount" : 31
       },
       "subtitle" : "Run classic graphical adventure and role-playing games",
       "tintColor" : "148630",
       "version" : "2.6.0",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56117,12 +56118,12 @@
       "sha256" : "06355f4b47efea9930822358eb919b6214829d7c6c575e76eaa397becf8bb99e",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 153
+        "impressionCount" : 154
       },
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
       "version" : "6.2.1112",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60304,7 +60305,7 @@
       },
       "subtitle" : "Free app that makes your Internet safer",
       "version" : "2022.7.422.0,20220801.16",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62727,7 +62728,7 @@
       },
       "subtitle" : "Email tracker, read receipt and spy pixel blocker plugin for Apple Mail",
       "version" : "0.7.2",
-      "versionDate" : "2022-08-02T04:07:55Z"
+      "versionDate" : "2022-08-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73228,13 +73229,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "metaimage",
-      "caption" : "MetaImage updated from 2.0.8,c1701765-abda-4e2e-a31e-0e581a681845 to 2.0.9,18c2f061-7d3e-4497-a68e-380c0c754181",
-      "date" : "2022-07-30T04:42:02Z",
-      "identifier" : "release-metaimage-2.0.9,18c2f061-7d3e-4497-a68e-380c0c754181",
-      "title" : "New Release: MetaImage 2.0.9,18c2f061-7d3e-4497-a68e-380c0c754181"
-    },
-    {
       "appID" : "hbuilderx",
       "caption" : "HBuilderX updated from 3.4.18.20220630 to 3.5.3.20220729",
       "date" : "2022-07-30T04:42:02Z",
@@ -73926,6 +73920,13 @@
       "date" : "2022-08-02T04:07:58Z",
       "identifier" : "release-mailtrackerblocker-0.7.2",
       "title" : "New Release: MailTrackerBlocker 0.7.2"
+    },
+    {
+      "appID" : "fishing-funds",
+      "caption" : "Fishing Funds updated from 6.1.1 to 6.2.0",
+      "date" : "2022-08-02T05:23:10Z",
+      "identifier" : "release-fishing-funds-6.2.0",
+      "title" : "New Release: Fishing Funds 6.2.0"
     }
   ],
   "platform" : "macos",

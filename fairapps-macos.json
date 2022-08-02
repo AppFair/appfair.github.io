@@ -62,7 +62,7 @@
       "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 135,
+        "downloadCount" : 137,
         "impressionCount" : 108,
         "issueCount" : 6,
         "starCount" : 26,
@@ -109,11 +109,11 @@
       "size" : 9466880,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 57,
-        "impressionCount" : 1131,
+        "downloadCount" : 58,
+        "impressionCount" : 1133,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 73,
+        "viewCount" : 75,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -208,11 +208,11 @@
       "size" : 3881835,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 26,
-        "impressionCount" : 709,
+        "downloadCount" : 27,
+        "impressionCount" : 711,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 36,
+        "viewCount" : 38,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",

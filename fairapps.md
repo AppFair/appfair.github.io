@@ -23,11 +23,11 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.90`` | `121` | `2022-07-31T00:00:00Z` | `9.6 MB` | `101` | `5` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.90`` | `126` | `2022-07-31T00:00:00Z` | `9.6 MB` | `101` | `5` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `57` | `2022-07-22T00:00:00Z` | `9.5 MB` | `1127` | `73` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `30` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3664` | `585` | `1` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `24` | `2022-07-29T00:00:00Z` | `3.9 MB` | `705` | `36` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `23` | `2022-07-29T00:00:00Z` | `2.2 MB` | `976` | `59` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `26` | `2022-07-29T00:00:00Z` | `3.9 MB` | `705` | `36` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `25` | `2022-07-29T00:00:00Z` | `2.2 MB` | `976` | `59` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `23` | `2022-07-20T00:00:00Z` | `2.1 MB` | `1859` | `101` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `22` | `2022-07-29T00:00:00Z` | `2.2 MB` | `787` | `46` | `1` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `21` | `2022-01-20T00:00:00Z` | `6.7 MB` | `2699` | `473` | `0` | `0` |  |
@@ -40,7 +40,7 @@ tr:nth-child(even) {
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.8β`` | `8` | `2022-01-24T00:00:00Z` | `8.7 MB` | `486` | `42` | `0` | `0` |  |
 | [``Story Points``](https://Story-Points.github.io/App/) | ``0.0.6β`` | `8` | `2022-01-24T00:00:00Z` | `2.4 MB` | `558` | `68` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.49β`` | `7` | `2022-04-08T00:00:00Z` | `1.45 GB` | `635` | `70` | `0` | `0` |  |
-| [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.0.20β`` | `7` | `2022-02-12T00:00:00Z` | `2.5 MB` | `1381` | `80` | `0` | `0` |  |
+| [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.0.20β`` | `7` | `2022-02-12T00:00:00Z` | `2.5 MB` | `1381` | `81` | `0` | `0` |  |
 | [``Micro Vector``](https://Micro-Vector.github.io/App/) | ``0.0.8β`` | `7` | `2022-01-24T00:00:00Z` | `2.8 MB` | `772` | `58` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `7` | `2022-01-26T00:00:00Z` | `2.3 MB` | `1582` | `91` | `0` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.32β`` | `7` | `2022-01-26T00:00:00Z` | `2.5 MB` | `929` | `63` | `0` | `0` |  |

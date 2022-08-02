@@ -62,7 +62,7 @@
       "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 121,
+        "downloadCount" : 126,
         "impressionCount" : 101,
         "issueCount" : 6,
         "starCount" : 26,
@@ -208,7 +208,7 @@
       "size" : 3881835,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 24,
+        "downloadCount" : 26,
         "impressionCount" : 705,
         "issueCount" : 0,
         "starCount" : 1,
@@ -251,7 +251,7 @@
       "size" : 2164762,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 23,
+        "downloadCount" : 25,
         "impressionCount" : 976,
         "issueCount" : 0,
         "starCount" : 1,
@@ -792,7 +792,7 @@
         "impressionCount" : 1381,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 80,
+        "viewCount" : 81,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",

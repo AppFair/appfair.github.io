@@ -25,7 +25,7 @@
       "sha256" : "2c3b795c5682a0270e647e5ca47dc697239f26078e15648b4721d22bea98dfe3",
       "stats" : {
         "downloadCount" : 2975,
-        "impressionCount" : 8918,
+        "impressionCount" : 8919,
         "viewCount" : 899
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -56,9 +56,9 @@
       ],
       "sha256" : "a2195ef3719ac9267df7fee5e211914b4289acb74639355def354014ac14eb38",
       "stats" : {
-        "downloadCount" : 13998,
-        "impressionCount" : 7641,
-        "viewCount" : 870
+        "downloadCount" : 13999,
+        "impressionCount" : 7643,
+        "viewCount" : 871
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8104,
-        "impressionCount" : 6798,
+        "impressionCount" : 6799,
         "viewCount" : 621
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28329,
-        "impressionCount" : 6966,
+        "impressionCount" : 6967,
         "viewCount" : 579
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -148,9 +148,9 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/screenshot_02-mac-2642x1926.png"
       ],
       "stats" : {
-        "downloadCount" : 7958,
-        "impressionCount" : 7090,
-        "viewCount" : 595
+        "downloadCount" : 7959,
+        "impressionCount" : 7092,
+        "viewCount" : 596
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5557,
-        "impressionCount" : 7027,
+        "impressionCount" : 7028,
         "viewCount" : 468
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3093,
-        "impressionCount" : 6371,
+        "impressionCount" : 6372,
         "viewCount" : 499
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "0bfbe8a0109c827a45ae74342e826e81c9c7f7b2471545199a25591a3594ce1b",
       "stats" : {
         "downloadCount" : 2730,
-        "impressionCount" : 7404,
+        "impressionCount" : 7405,
         "viewCount" : 530
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -264,7 +264,7 @@
       ],
       "stats" : {
         "downloadCount" : 2557,
-        "impressionCount" : 5413,
+        "impressionCount" : 5414,
         "viewCount" : 346
       },
       "subtitle" : "Video game digital distribution service",
@@ -297,7 +297,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2005,
-        "impressionCount" : 7085,
+        "impressionCount" : 7086,
         "viewCount" : 784
       },
       "subtitle" : "File archiver",
@@ -323,7 +323,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1855,
-        "impressionCount" : 6064,
+        "impressionCount" : 6065,
         "viewCount" : 390
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -351,7 +351,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1243,
-        "impressionCount" : 5497,
+        "impressionCount" : 5498,
         "viewCount" : 425
       },
       "subtitle" : "Open-source Markdown editor",
@@ -382,7 +382,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1134,
-        "impressionCount" : 7322,
+        "impressionCount" : 7323,
         "viewCount" : 441
       },
       "subtitle" : "3D creation suite",
@@ -439,7 +439,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 568,
-        "impressionCount" : 5536,
+        "impressionCount" : 5537,
         "viewCount" : 296
       },
       "subtitle" : "Text editor",
@@ -468,7 +468,7 @@
       ],
       "stats" : {
         "downloadCount" : 528,
-        "impressionCount" : 5202,
+        "impressionCount" : 5203,
         "viewCount" : 427
       },
       "subtitle" : "Sandbox construction video game",
@@ -500,7 +500,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 435,
-        "impressionCount" : 5797,
+        "impressionCount" : 5798,
         "viewCount" : 451
       },
       "subtitle" : "Text, code, and markup editor",
@@ -908,9 +908,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
       "sha256" : "1d3eb2d87c7580f7d8b42e2997edad80b1783a2c91ce7b476898f1d6b3a594ef",
       "stats" : {
-        "downloadCount" : 5330,
-        "impressionCount" : 3935,
-        "viewCount" : 379
+        "downloadCount" : 5331,
+        "impressionCount" : 3937,
+        "viewCount" : 380
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
@@ -932,8 +932,8 @@
       "sha256" : "e0b4f5ddafa8e478b5f0e8fd36e8e042718e8cef394005efedb7cb6cd7ea0f92",
       "stats" : {
         "downloadCount" : 4033,
-        "impressionCount" : 3716,
-        "viewCount" : 230
+        "impressionCount" : 3717,
+        "viewCount" : 231
       },
       "subtitle" : "Web browser focusing on privacy",
       "tintColor" : "FCB8A6",
@@ -1046,7 +1046,7 @@
       "sha256" : "9534e444b3102a653f3d0c0e3fb54efb20caf2c91ce121b2db00d2531ab8b7fa",
       "stats" : {
         "downloadCount" : 3162,
-        "impressionCount" : 1823,
+        "impressionCount" : 1824,
         "viewCount" : 103
       },
       "subtitle" : "Office suite",
@@ -1461,9 +1461,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/README.md",
       "sha256" : "6c7bd8e0b3dbadfa25d070fb4bc3f3b322e5a1b85c50a922ee2d8abb09280744",
       "stats" : {
-        "downloadCount" : 2141,
-        "impressionCount" : 3325,
-        "viewCount" : 158
+        "downloadCount" : 2142,
+        "impressionCount" : 3328,
+        "viewCount" : 160
       },
       "subtitle" : "E-books management software",
       "tintColor" : "75706B",
@@ -1530,9 +1530,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
       "sha256" : "616d719572e4917d1264c622033afb1b4dd98e2553a0d09fd72470c99bad48e5",
       "stats" : {
-        "downloadCount" : 1717,
-        "impressionCount" : 2645,
-        "viewCount" : 132
+        "downloadCount" : 1718,
+        "impressionCount" : 2647,
+        "viewCount" : 133
       },
       "subtitle" : "Web browser focusing on security",
       "tintColor" : "8236A8",
@@ -2137,8 +2137,8 @@
       ],
       "sha256" : "abb88e86b938fea173ee458c5aa393daff6ae3dc3302fc3ed83628f322566623",
       "stats" : {
-        "downloadCount" : 466,
-        "impressionCount" : 3468
+        "downloadCount" : 467,
+        "impressionCount" : 3470
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2671,9 +2671,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-raven-reader/README.md",
       "sha256" : "9d37e7787476dfd5ccf9eebfbc06c41124d0338ae3b2d90f94740620143b24d4",
       "stats" : {
-        "downloadCount" : 29,
-        "impressionCount" : 2214,
-        "viewCount" : 209
+        "downloadCount" : 30,
+        "impressionCount" : 2216,
+        "viewCount" : 210
       },
       "subtitle" : "News reader with flexible settings",
       "tintColor" : "629885",
@@ -3114,7 +3114,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 5848,
-        "impressionCount" : 498
+        "impressionCount" : 499
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -6659,8 +6659,8 @@
       "name" : "Cryptomator",
       "sha256" : "9bb5ef5630a971c849d2471fdf6deebf14e182d1670a9eed588fb5632492fffb",
       "stats" : {
-        "downloadCount" : 205,
-        "impressionCount" : 490
+        "downloadCount" : 206,
+        "impressionCount" : 492
       },
       "subtitle" : "Multi-platform client-side cloud file encryption tool",
       "tintColor" : "6E9471",
@@ -7476,6 +7476,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "cog",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-c2a880fa.zip",
+      "homepage" : "https://cog.losno.co/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cog/AppIcon.png",
+      "localizedDescription" : "Audio player",
+      "name" : "Cog",
+      "sha256" : "09b61112ba5acc52cc7d95bdaeaf1879d280e333d9dfcf5391d44a07337e3118",
+      "stats" : {
+        "downloadCount" : 153,
+        "impressionCount" : 1642
+      },
+      "subtitle" : "Audio player",
+      "tintColor" : "E3D1B1",
+      "version" : "2672,c2a880fa",
+      "versionDate" : "2022-08-01T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "local",
       "categories" : [
         "public.app-category.developer-tools"
@@ -7515,27 +7536,6 @@
       "tintColor" : "9C9595",
       "version" : "2.0.5",
       "versionDate" : "2022-07-31T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "cog",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-c2a880fa.zip",
-      "homepage" : "https://cog.losno.co/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cog/AppIcon.png",
-      "localizedDescription" : "Audio player",
-      "name" : "Cog",
-      "sha256" : "09b61112ba5acc52cc7d95bdaeaf1879d280e333d9dfcf5391d44a07337e3118",
-      "stats" : {
-        "downloadCount" : 152,
-        "impressionCount" : 1640
-      },
-      "subtitle" : "Audio player",
-      "tintColor" : "E3D1B1",
-      "version" : "2672,c2a880fa",
-      "versionDate" : "2022-08-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13918,6 +13918,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "strawberry",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "downloadURL" : "https://github.com/strawberrymusicplayer/strawberry/releases/download/1.0.7/strawberry-1.0.7-x86_64.dmg",
+      "homepage" : "https://www.strawberrymusicplayer.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-strawberry/AppIcon.png",
+      "localizedDescription" : "Music player and music collection organizer",
+      "name" : "Strawberry",
+      "sha256" : "0b8d1bbf41747d7d7a26bcee9bb5a5b9d098b2e6be43e7833fdecb541fb74780",
+      "stats" : {
+        "downloadCount" : 37,
+        "impressionCount" : 419
+      },
+      "subtitle" : "Music player and music collection organizer",
+      "tintColor" : "C03C21",
+      "version" : "1.0.7",
+      "versionDate" : "2022-07-26T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "youdaonote",
       "categories" : [
         "public.app-category.utilities"
@@ -14098,27 +14119,6 @@
       "subtitle" : "Customize and maintain app icons",
       "tintColor" : "BFAAD1",
       "version" : "0.1,13"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "strawberry",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://github.com/strawberrymusicplayer/strawberry/releases/download/1.0.7/strawberry-1.0.7-x86_64.dmg",
-      "homepage" : "https://www.strawberrymusicplayer.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-strawberry/AppIcon.png",
-      "localizedDescription" : "Music player and music collection organizer",
-      "name" : "Strawberry",
-      "sha256" : "0b8d1bbf41747d7d7a26bcee9bb5a5b9d098b2e6be43e7833fdecb541fb74780",
-      "stats" : {
-        "downloadCount" : 36,
-        "impressionCount" : 417
-      },
-      "subtitle" : "Music player and music collection organizer",
-      "tintColor" : "C03C21",
-      "version" : "1.0.7",
-      "versionDate" : "2022-07-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59172,7 +59172,7 @@
       "name" : "Karabiner Elements",
       "sha256" : "37e03ff5fc848fb47303f43453615f3388848d4ae935a6868430a73c7f8d9346",
       "stats" : {
-        "downloadCount" : 2995
+        "downloadCount" : 2996
       },
       "subtitle" : "Keyboard customizer",
       "version" : "14.6.0",
@@ -59239,7 +59239,7 @@
       "localizedDescription" : "Control your tools with a few keystrokes",
       "name" : "Raycast",
       "stats" : {
-        "downloadCount" : 2773
+        "downloadCount" : 2774
       },
       "subtitle" : "Control your tools with a few keystrokes",
       "version" : "1.38.2",

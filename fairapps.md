@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.90`` | `134` | `2022-07-31T00:00:00Z` | `9.6 MB` | `108` | `6` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.90`` | `135` | `2022-07-31T00:00:00Z` | `9.6 MB` | `108` | `6` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `57` | `2022-07-22T00:00:00Z` | `9.5 MB` | `1131` | `73` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `30` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3668` | `586` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `26` | `2022-07-29T00:00:00Z` | `3.9 MB` | `709` | `36` | `1` | `0` |  |

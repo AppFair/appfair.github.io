@@ -62,8 +62,8 @@
       "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 132,
-        "impressionCount" : 106,
+        "downloadCount" : 134,
+        "impressionCount" : 108,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 6,
@@ -110,7 +110,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 57,
-        "impressionCount" : 1128,
+        "impressionCount" : 1131,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 73,
@@ -162,10 +162,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 30,
-        "impressionCount" : 3665,
+        "impressionCount" : 3668,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 585,
+        "viewCount" : 586,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 26,
-        "impressionCount" : 706,
+        "impressionCount" : 709,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 36,
@@ -252,7 +252,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 25,
-        "impressionCount" : 977,
+        "impressionCount" : 980,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 59,
@@ -297,7 +297,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1860,
+        "impressionCount" : 1863,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 101,
@@ -346,10 +346,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 788,
+        "impressionCount" : 791,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 46,
+        "viewCount" : 47,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -388,7 +388,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2700,
+        "impressionCount" : 2703,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 473,
@@ -510,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 16,
-        "impressionCount" : 3537,
+        "impressionCount" : 3540,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 496,
@@ -1213,10 +1213,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 1777,
+        "impressionCount" : 1780,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 86,
+        "viewCount" : 87,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 1548,
+        "impressionCount" : 1551,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 78,

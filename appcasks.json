@@ -29966,7 +29966,7 @@
       "sha256" : "3dbe512d4e6dbb25c010917088bf23e868a5695089068098d70379a3f368be2e",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 355
+        "impressionCount" : 356
       },
       "subtitle" : "Connectivity software for the TI-84 Plus family of graphing calculators",
       "tintColor" : "6EAB8C",
@@ -35772,7 +35772,7 @@
       "sha256" : "5c32cb3090476fef3f7149faf80c8d7507ec205f3596953b555112a556afa97b",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 107
+        "impressionCount" : 108
       },
       "subtitle" : "Ebook creation software",
       "tintColor" : "B576AD",
@@ -47218,7 +47218,7 @@
       "sha256" : "34f9308b099d03de611411741d9ead2e57d3cc1eca7f15c3aeff69ab2c783095",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 11
+        "impressionCount" : 12
       },
       "subtitle" : "Software-defined perimeter for secure network access",
       "tintColor" : "D8914D",
@@ -47515,7 +47515,7 @@
       "name" : "Prefs Editor",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 36
+        "impressionCount" : 37
       },
       "subtitle" : "Graphical user interface for the 'defaults' command",
       "tintColor" : "DFDBCE",
@@ -47795,7 +47795,7 @@
       "name" : "Trader Workstation",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 37
+        "impressionCount" : 38
       },
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
@@ -48091,6 +48091,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "wavebox",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.104.7.2.dmg",
+      "homepage" : "https://wavebox.io/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wavebox/AppIcon.png",
+      "localizedDescription" : "Web browser",
+      "name" : "Wavebox",
+      "sha256" : "0a18ef2124f999fc5f7f0878408865cd6aa01a1386603eba1a5064a5107421d4",
+      "stats" : {
+        "downloadCount" : 19,
+        "impressionCount" : 98
+      },
+      "subtitle" : "Web browser",
+      "tintColor" : "72BBEC",
+      "version" : "10.104.7.2",
+      "versionDate" : "2022-08-03T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "8bitdo-ultimate-software",
       "categories" : [
 
@@ -48327,27 +48348,6 @@
       "subtitle" : "Productivity and performance optimization tool for Sencha Ext JS",
       "tintColor" : "42747B",
       "version" : "7.5.1.20"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "wavebox",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.104.7.2.dmg",
-      "homepage" : "https://wavebox.io/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wavebox/AppIcon.png",
-      "localizedDescription" : "Web browser",
-      "name" : "Wavebox",
-      "sha256" : "0a18ef2124f999fc5f7f0878408865cd6aa01a1386603eba1a5064a5107421d4",
-      "stats" : {
-        "downloadCount" : 18,
-        "impressionCount" : 97
-      },
-      "subtitle" : "Web browser",
-      "tintColor" : "72BBEC",
-      "version" : "10.104.7.2",
-      "versionDate" : "2022-08-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50247,7 +50247,7 @@
       "sha256" : "fb66ff79ce0437d8ee4a6395f65ac91bbdb72a74f17f5bf12851897a342e6d61",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 30
+        "impressionCount" : 31
       },
       "subtitle" : "Create digital art and comics",
       "tintColor" : "CBDBCC",
@@ -50446,7 +50446,7 @@
       "sha256" : "20340bc84de33144f21a9d433b0b1b3264376208987c7b6541a75dbd56f9bf97",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 19
+        "impressionCount" : 20
       },
       "subtitle" : "Remote access software",
       "tintColor" : "BAB7B8",
@@ -51414,7 +51414,7 @@
       "name" : "Simon Tatham's Portable Puzzle Collection",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 42
+        "impressionCount" : 43
       },
       "subtitle" : "Collection of small computer programs which implement one-player puzzle games",
       "tintColor" : "808391",
@@ -53219,7 +53219,7 @@
       "sha256" : "e83e95e004778b66ea9079d608cda009c1996a0ac975a4258fcd68ae0d23479b",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 43
+        "impressionCount" : 44
       },
       "subtitle" : "Ham radio rig control",
       "tintColor" : "584B25",
@@ -53260,7 +53260,7 @@
       "sha256" : "51017c0047b5b06d6cd46c93a65583d4fbf086502de884ebcb8d72033b65e5a0",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 24
+        "impressionCount" : 25
       },
       "subtitle" : "Binary code analysis tool",
       "tintColor" : "6D584B",
@@ -58862,7 +58862,7 @@
       "sha256" : "96f84e10fbb0202f34c34c4427705e941382b7ba1c6bae994f8cdce0023e0e40",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 36
+        "impressionCount" : 37
       },
       "subtitle" : "Online poker HUD and tracking software",
       "tintColor" : "929A8B",

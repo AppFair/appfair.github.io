@@ -32,7 +32,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 66,
-        "impressionCount" : 1257,
+        "impressionCount" : 1259,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 82,
@@ -82,10 +82,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 45,
-        "impressionCount" : 824,
+        "impressionCount" : 825,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 49,
+        "viewCount" : 50,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -123,10 +123,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 37,
-        "impressionCount" : 1093,
+        "impressionCount" : 1094,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 71,
+        "viewCount" : 72,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -166,10 +166,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 36,
-        "impressionCount" : 1964,
+        "impressionCount" : 1965,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 110,
+        "viewCount" : 111,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -211,7 +211,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 28,
-        "impressionCount" : 862,
+        "impressionCount" : 863,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 51,
@@ -255,7 +255,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 1874,
+        "impressionCount" : 1875,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 97,
@@ -498,10 +498,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 1665,
+        "impressionCount" : 1666,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 84,
+        "viewCount" : 85,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -754,7 +754,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 3622,
+        "impressionCount" : 3623,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 505,

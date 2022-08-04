@@ -23,11 +23,11 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.90`` | `193` | `2022-07-31T00:00:00Z` | `9.6 MB` | `159` | `9` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.90`` | `195` | `2022-07-31T00:00:00Z` | `9.6 MB` | `159` | `9` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `58` | `2022-07-22T00:00:00Z` | `9.5 MB` | `1267` | `84` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `34` | `2022-07-29T00:00:00Z` | `3.9 MB` | `833` | `52` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `32` | `2022-07-29T00:00:00Z` | `2.2 MB` | `1102` | `73` | `1` | `0` |  |
-| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `30` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3742` | `600` | `1` | `0` |  |
+| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `31` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3743` | `601` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `23` | `2022-07-20T00:00:00Z` | `2.1 MB` | `1973` | `112` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `22` | `2022-07-29T00:00:00Z` | `2.2 MB` | `871` | `53` | `1` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `21` | `2022-01-20T00:00:00Z` | `6.7 MB` | `2755` | `481` | `0` | `0` |  |

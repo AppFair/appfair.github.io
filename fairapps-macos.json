@@ -62,7 +62,7 @@
       "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 193,
+        "downloadCount" : 195,
         "impressionCount" : 159,
         "issueCount" : 6,
         "starCount" : 26,
@@ -251,11 +251,11 @@
       "size" : 4506286,
       "stats" : {
         "coreSize" : 170576,
-        "downloadCount" : 30,
-        "impressionCount" : 3742,
+        "downloadCount" : 31,
+        "impressionCount" : 3743,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 600,
+        "viewCount" : 601,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",

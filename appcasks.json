@@ -1438,9 +1438,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-inkscape/README.md",
       "sha256" : "8117d5d864358c9f626ce574d07d2f121ad96fc96a535cc3fddaba3c74bd3279",
       "stats" : {
-        "downloadCount" : 2219,
-        "impressionCount" : 1990,
-        "viewCount" : 114
+        "downloadCount" : 2220,
+        "impressionCount" : 1993,
+        "viewCount" : 115
       },
       "subtitle" : "Vector graphics editor",
       "tintColor" : "ABACB0",
@@ -8642,7 +8642,7 @@
       "sha256" : "38fa30f931016cad103e5f519b3a77d4073d19e311c5d8939f2ee88702a79584",
       "stats" : {
         "downloadCount" : 110,
-        "impressionCount" : 353
+        "impressionCount" : 354
       },
       "subtitle" : "Tool for telling interactive, nonlinear stories",
       "tintColor" : "11C396",
@@ -9526,8 +9526,8 @@
       "name" : "Arctype",
       "sha256" : "32c36e29a93ad3da3fef308d745288009d527026781c91622f0ba2593236e7cb",
       "stats" : {
-        "downloadCount" : 84,
-        "impressionCount" : 867
+        "downloadCount" : 85,
+        "impressionCount" : 870
       },
       "subtitle" : "SQL client and database management tool",
       "tintColor" : "3F3247",
@@ -37940,7 +37940,7 @@
       "sha256" : "c0a338265d76f22ad25b1239226ea853bc364776c6438a23b513b68c49f95f5a",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 189
+        "impressionCount" : 192
       },
       "subtitle" : "Personal knowledge-base app",
       "tintColor" : "D0D9F3",

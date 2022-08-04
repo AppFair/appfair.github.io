@@ -155,7 +155,7 @@
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
       "version" : "1.1.91.824,07f1e963,9",
-      "versionDate" : "2022-08-04T12:31:19Z"
+      "versionDate" : "2022-08-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43543,12 +43543,6 @@
 
       ],
       "downloadURL" : "https://github.com/sanderland/katrain/releases/download/v1.11.2fixes-for-osx/KaTrainOSX.zip",
-      "fundingLinks" : [
-        {
-          "platform" : "GITHUB",
-          "url" : "https://github.com/sanderland"
-        }
-      ],
       "homepage" : "https://github.com/sanderland/katrain",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-katrain/AppIcon.png",
       "localizedDescription" : "Tool for analyzing games and playing go with AI feedback from KataGo",

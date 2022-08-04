@@ -25,8 +25,8 @@
       "sha256" : "2c3b795c5682a0270e647e5ca47dc697239f26078e15648b4721d22bea98dfe3",
       "stats" : {
         "downloadCount" : 2885,
-        "impressionCount" : 8978,
-        "viewCount" : 910
+        "impressionCount" : 8980,
+        "viewCount" : 911
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -56,8 +56,8 @@
       ],
       "sha256" : "a2195ef3719ac9267df7fee5e211914b4289acb74639355def354014ac14eb38",
       "stats" : {
-        "downloadCount" : 14729,
-        "impressionCount" : 7722,
+        "downloadCount" : 14730,
+        "impressionCount" : 7723,
         "viewCount" : 878
       },
       "subtitle" : "Web browser",
@@ -90,8 +90,8 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8262,
-        "impressionCount" : 6851,
-        "viewCount" : 624
+        "impressionCount" : 6853,
+        "viewCount" : 625
       },
       "subtitle" : "Multimedia player",
       "tintColor" : "E5984A",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29129,
-        "impressionCount" : 7034,
+        "impressionCount" : 7035,
         "viewCount" : 587
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8222,
-        "impressionCount" : 7145,
+        "impressionCount" : 7147,
         "viewCount" : 598
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "1320576af5c7c00b59b973e5ec7ed20322ce91f6b18896a282a9a7665bfaf0e0",
       "stats" : {
         "downloadCount" : 5755,
-        "impressionCount" : 7101,
+        "impressionCount" : 7102,
         "viewCount" : 470
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3189,
-        "impressionCount" : 6423,
+        "impressionCount" : 6424,
         "viewCount" : 500
       },
       "subtitle" : "Text editor",
@@ -236,7 +236,7 @@
       "sha256" : "0bfbe8a0109c827a45ae74342e826e81c9c7f7b2471545199a25591a3594ce1b",
       "stats" : {
         "downloadCount" : 2803,
-        "impressionCount" : 7483,
+        "impressionCount" : 7485,
         "viewCount" : 530
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -264,8 +264,8 @@
       ],
       "stats" : {
         "downloadCount" : 2586,
-        "impressionCount" : 5462,
-        "viewCount" : 347
+        "impressionCount" : 5464,
+        "viewCount" : 348
       },
       "subtitle" : "Video game digital distribution service",
       "tintColor" : "416082",
@@ -297,7 +297,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2065,
-        "impressionCount" : 7146,
+        "impressionCount" : 7147,
         "viewCount" : 785
       },
       "subtitle" : "File archiver",
@@ -323,7 +323,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1908,
-        "impressionCount" : 6113,
+        "impressionCount" : 6115,
         "viewCount" : 393
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -351,7 +351,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1306,
-        "impressionCount" : 5546,
+        "impressionCount" : 5547,
         "viewCount" : 426
       },
       "subtitle" : "Open-source Markdown editor",
@@ -382,7 +382,7 @@
       "sha256" : "a1b8aa2d02dd867ef5585d120c0159f40e1a3fa698691a27537e809ec18a72e1",
       "stats" : {
         "downloadCount" : 1165,
-        "impressionCount" : 7398,
+        "impressionCount" : 7399,
         "viewCount" : 443
       },
       "subtitle" : "3D creation suite",
@@ -439,7 +439,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 585,
-        "impressionCount" : 5599,
+        "impressionCount" : 5600,
         "viewCount" : 296
       },
       "subtitle" : "Text editor",
@@ -468,7 +468,7 @@
       ],
       "stats" : {
         "downloadCount" : 526,
-        "impressionCount" : 5263,
+        "impressionCount" : 5265,
         "viewCount" : 431
       },
       "subtitle" : "Sandbox construction video game",
@@ -500,7 +500,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 440,
-        "impressionCount" : 5867,
+        "impressionCount" : 5868,
         "viewCount" : 452
       },
       "subtitle" : "Text, code, and markup editor",
@@ -779,7 +779,7 @@
       "sha256" : "76f8038715c792482185a927881186417d960adb62940949de28e03867626c28",
       "stats" : {
         "downloadCount" : 8398,
-        "impressionCount" : 2712,
+        "impressionCount" : 2713,
         "viewCount" : 212
       },
       "subtitle" : "Team communication and collaboration software",
@@ -801,8 +801,8 @@
       "sha256" : "cbf2f6c4bd600628fb908a73a648be177739f1fde11b27759105d503b039b35f",
       "stats" : {
         "downloadCount" : 7961,
-        "impressionCount" : 2159,
-        "viewCount" : 165
+        "impressionCount" : 2160,
+        "viewCount" : 166
       },
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
       "tintColor" : "287398",
@@ -1704,7 +1704,7 @@
       "sha256" : "0e940c1c31213ea3c8c3cd3d56e893f74a595b3bae29456827f6c34173eabb1b",
       "stats" : {
         "downloadCount" : 1068,
-        "impressionCount" : 1818,
+        "impressionCount" : 1819,
         "viewCount" : 93
       },
       "subtitle" : "Multi-track audio editor and recorder",
@@ -3116,7 +3116,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 6022,
-        "impressionCount" : 532
+        "impressionCount" : 533
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3387,7 +3387,7 @@
       "sha256" : "60e3db6ef10e328577072338add87fd7a3480604ff1da82935de59557e48ad65",
       "stats" : {
         "downloadCount" : 2561,
-        "impressionCount" : 2321
+        "impressionCount" : 2322
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
@@ -3529,7 +3529,7 @@
       "name" : "TeamViewer",
       "stats" : {
         "downloadCount" : 1859,
-        "impressionCount" : 121
+        "impressionCount" : 122
       },
       "subtitle" : "Remote access and connectivity software focused on security",
       "tintColor" : "B5B0A3",
@@ -5082,7 +5082,7 @@
       "sha256" : "43ba5fb3d776f2d2ed1128c377aaa9d3420d792579cc9389c32e75b1f9c87a6c",
       "stats" : {
         "downloadCount" : 492,
-        "impressionCount" : 737
+        "impressionCount" : 738
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
@@ -6582,7 +6582,7 @@
       "sha256" : "24ec3d5a709313979ab8cd658e03cfee4ce4dec6201943c2fd8d467376328c43",
       "stats" : {
         "downloadCount" : 219,
-        "impressionCount" : 578
+        "impressionCount" : 579
       },
       "subtitle" : "Calendar for professionals and teams",
       "tintColor" : "EF4B0C",
@@ -6642,7 +6642,7 @@
       "name" : "Asana",
       "stats" : {
         "downloadCount" : 211,
-        "impressionCount" : 515
+        "impressionCount" : 516
       },
       "subtitle" : "Manage team projects and tasks",
       "tintColor" : "FBDADA",
@@ -8539,7 +8539,7 @@
       "sha256" : "6e6de589ca1e87552450f8c5ae731f35d813b2327bf4efef5aa41de10b44294d",
       "stats" : {
         "downloadCount" : 111,
-        "impressionCount" : 349
+        "impressionCount" : 350
       },
       "subtitle" : "Window snapping tool",
       "tintColor" : "4764C5",
@@ -11831,7 +11831,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 55,
-        "impressionCount" : 185
+        "impressionCount" : 186
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -14060,7 +14060,7 @@
       "sha256" : "4319dfd3eafa83dc2fa73317fb00cab8baccf938dd12dc2cefcedcab4b3fe132",
       "stats" : {
         "downloadCount" : 36,
-        "impressionCount" : 347
+        "impressionCount" : 348
       },
       "subtitle" : "Business messaging and team collaboration app",
       "tintColor" : "B0E9C6",
@@ -14401,7 +14401,7 @@
       "sha256" : "29be16125e54481dc65686c09d6660ea76c61c271063452f817128577acef22a",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 931
+        "impressionCount" : 932
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "55B9AA",
@@ -14738,7 +14738,7 @@
       "sha256" : "5154e1bbc6f978c0a377c70c4a2866b02a406c1e8183e1618a97ed8386de3a4f",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 220
+        "impressionCount" : 221
       },
       "subtitle" : "Tool for teams to create living documents",
       "tintColor" : "F1BEB2",
@@ -15606,7 +15606,7 @@
       "sha256" : "659753c84be206c5060521ef37c2fec2e79749c93da8a72f04c26a247696bc14",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 195
+        "impressionCount" : 196
       },
       "subtitle" : "Screen measuring tool",
       "tintColor" : "E17345",
@@ -16145,7 +16145,7 @@
       "sha256" : "75fbc9a5c43a81017cb1be1b62df47950504def14f9378b25f58e079302828e5",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 305
+        "impressionCount" : 306
       },
       "subtitle" : "Color picking application",
       "tintColor" : "8E7F6F",
@@ -16498,7 +16498,7 @@
       "sha256" : "2a01c9dc79673463e28a6c8e72abd1e4041a3480defaa9092ab85b1869575717",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 181
+        "impressionCount" : 182
       },
       "subtitle" : "Virtual office for remote teams",
       "tintColor" : "4998E1",
@@ -17028,7 +17028,7 @@
       "sha256" : "00dd82a9f8ab8f193f4d60b635edaac9f75b341f53c1ca0957efd898db1ba952",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 169
+        "impressionCount" : 170
       },
       "subtitle" : "Visual database editor for Prisma projects",
       "tintColor" : "8D79CB",
@@ -18488,7 +18488,7 @@
       "name" : "Framer",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 483
+        "impressionCount" : 484
       },
       "subtitle" : "Tool that helps teams design every part of the product experience",
       "tintColor" : "4A8FFD",
@@ -18939,7 +18939,7 @@
       "sha256" : "90d359d6d8936a924f0f0d1c5f194cbf1571c4ef5cf67b3ee853f2676aa83549",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 245
+        "impressionCount" : 246
       },
       "subtitle" : "Password manager for teams",
       "tintColor" : "663C79",
@@ -23440,7 +23440,7 @@
       "sha256" : "26bf66a278442d402e3bbf98f1229770b8cb18eabd3d94cb9aecfd8696cdc8a7",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 113
+        "impressionCount" : 114
       },
       "subtitle" : "Task manager for teams",
       "tintColor" : "9C8585",
@@ -27014,7 +27014,7 @@
       "sha256" : "e5be4e2a56fe3495f491c468171b390be6423f8becd831283daf5bd56e8dedf0",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 157
+        "impressionCount" : 158
       },
       "subtitle" : "Business phone for professionals, teams, and companies",
       "tintColor" : "835DF9",
@@ -30687,7 +30687,7 @@
       "sha256" : "90ca5f61de4912f7958bd690e424fa3e962e69459ca0a796a7737da712984b4b",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 239
+        "impressionCount" : 240
       },
       "subtitle" : "Window snapping tool",
       "tintColor" : "1943C3",
@@ -35114,7 +35114,7 @@
       "sha256" : "22edf316966edb1edf13dc2846714cb4523479298f372b02b0fed00092e550f4",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 107
+        "impressionCount" : 108
       },
       "subtitle" : "Data warehouse client for data analytics teams",
       "tintColor" : "5290BB",
@@ -35307,7 +35307,7 @@
       "sha256" : "5f46c1e003bf4adad52e3e201d81d6ad26b4eef481106f1ef3799a11ed078a5a",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 86
+        "impressionCount" : 87
       },
       "subtitle" : "Screen capture application",
       "tintColor" : "757776",
@@ -37774,7 +37774,7 @@
       "sha256" : "0074e80f564b6e0477ccbe14339e232938b5d33c8d655c2ba288ec66a06b09d4",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 383
+        "impressionCount" : 384
       },
       "subtitle" : "Extract images from videos",
       "tintColor" : "45C1E5",
@@ -39513,7 +39513,7 @@
       "name" : "Snappy",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 207
+        "impressionCount" : 208
       },
       "tintColor" : "DBDA9D",
       "version" : "1.2.5,315"
@@ -40450,7 +40450,7 @@
       "name" : "Webex Teams",
       "stats" : {
         "downloadCount" : 503,
-        "impressionCount" : 76
+        "impressionCount" : 77
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "tintColor" : "22445D",
@@ -44859,7 +44859,7 @@
       "sha256" : "993965f8c2a5f579de4ae17f6a6ac713557f7517d3ba5a9eb423cf95a33fbb90",
       "stats" : {
         "downloadCount" : 48,
-        "impressionCount" : 31
+        "impressionCount" : 32
       },
       "subtitle" : "Voice communication client",
       "tintColor" : "8398B2",
@@ -47031,7 +47031,7 @@
       "sha256" : "660289eb18a579e861b04cb1983640e0d02ee69a2d31abb6c1c5cfcf677a371f",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 29
+        "impressionCount" : 30
       },
       "subtitle" : "Screen capture tool for remote teams",
       "tintColor" : "FF6C30",
@@ -51261,7 +51261,7 @@
       "sha256" : "135405baf7abc900d17d9120798b104654a9bc271aa9476c9c1150d165ee5fd8",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 36
+        "impressionCount" : 37
       },
       "subtitle" : "Segment structures in 3D medical images",
       "tintColor" : "AD1600",

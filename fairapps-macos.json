@@ -35,7 +35,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 59,
-        "impressionCount" : 1321,
+        "impressionCount" : 1322,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 94,
@@ -82,7 +82,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 41,
-        "impressionCount" : 885,
+        "impressionCount" : 886,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 59,
@@ -125,7 +125,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 40,
-        "impressionCount" : 1160,
+        "impressionCount" : 1161,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 86,
@@ -222,7 +222,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2025,
+        "impressionCount" : 2026,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 120,
@@ -271,7 +271,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 916,
+        "impressionCount" : 917,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 57,
@@ -282,47 +282,6 @@
       "version" : "0.2.37",
       "versionDate" : "2022-07-29T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.36...0.2.37"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Next-Edit",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
-      "name" : "Next Edit",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to read and write files in order to edit text."
-        }
-      ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
-      "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.4.18/screenshot_01-mac-2006x1520.png"
-      ],
-      "sha256" : "6ee478349595968078112b52bbde2bf14753271fd31531bea7c0bca10977d28a",
-      "size" : 6702858,
-      "stats" : {
-        "coreSize" : 152800,
-        "downloadCount" : 21,
-        "impressionCount" : 2792,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 484,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.18",
-      "versionDate" : "2022-01-20T00:00:00Z",
-      "versionDescription" : "Release 0.4.18"
     },
     {
       "beta" : false,
@@ -386,7 +345,7 @@
       "size" : 9607172,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 20,
+        "downloadCount" : 21,
         "impressionCount" : 12,
         "issueCount" : 6,
         "starCount" : 26,
@@ -398,6 +357,47 @@
       "version" : "0.8.94",
       "versionDate" : "2022-08-05T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.93...0.8.94"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "screenshotURLs" : [
+        "https://github.com/Next-Edit/App/releases/download/0.4.18/screenshot_01-mac-2006x1520.png"
+      ],
+      "sha256" : "6ee478349595968078112b52bbde2bf14753271fd31531bea7c0bca10977d28a",
+      "size" : 6702858,
+      "stats" : {
+        "coreSize" : 152800,
+        "downloadCount" : 21,
+        "impressionCount" : 2792,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 484,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.18",
+      "versionDate" : "2022-01-20T00:00:00Z",
+      "versionDescription" : "Release 0.4.18"
     },
     {
       "beta" : true,
@@ -426,7 +426,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2825,
+        "impressionCount" : 2827,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 222,
@@ -510,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 3670,
+        "impressionCount" : 3671,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 507,
@@ -549,7 +549,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 11,
-        "impressionCount" : 2068,
+        "impressionCount" : 2070,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 135,
@@ -587,7 +587,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1920,
+        "impressionCount" : 1922,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 117,
@@ -751,7 +751,7 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 7,
-        "impressionCount" : 639,
+        "impressionCount" : 640,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 70,
@@ -789,7 +789,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1404,
+        "impressionCount" : 1405,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 81,
@@ -866,7 +866,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1588,
+        "impressionCount" : 1590,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 91,
@@ -939,7 +939,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 7,
-        "impressionCount" : 1606,
+        "impressionCount" : 1608,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 100,
@@ -978,7 +978,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1542,
+        "impressionCount" : 1543,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 70,
@@ -1051,7 +1051,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1884,
+        "impressionCount" : 1885,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 42,
@@ -1093,7 +1093,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 662,
+        "impressionCount" : 663,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 61,
@@ -1171,7 +1171,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 1349,
+        "impressionCount" : 1350,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 1933,
+        "impressionCount" : 1934,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 101,
@@ -1287,7 +1287,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1968,
+        "impressionCount" : 1970,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 115,
@@ -1326,7 +1326,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 607,
+        "impressionCount" : 608,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 54,
@@ -1424,7 +1424,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 3,
-        "impressionCount" : 612,
+        "impressionCount" : 613,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 1731,
+        "impressionCount" : 1732,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 89,
@@ -1498,7 +1498,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 575,
+        "impressionCount" : 576,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -1537,7 +1537,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 840,
+        "impressionCount" : 841,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 56,

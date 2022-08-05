@@ -62,8 +62,8 @@
       "size" : 9607635,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 225,
-        "impressionCount" : 175,
+        "downloadCount" : 227,
+        "impressionCount" : 178,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 10,
@@ -110,10 +110,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 58,
-        "impressionCount" : 1286,
+        "impressionCount" : 1293,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 84,
+        "viewCount" : 85,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -157,10 +157,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 38,
-        "impressionCount" : 852,
+        "impressionCount" : 859,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 52,
+        "viewCount" : 53,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -200,10 +200,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 36,
-        "impressionCount" : 1123,
+        "impressionCount" : 1130,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 75,
+        "viewCount" : 76,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -252,7 +252,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 34,
-        "impressionCount" : 3765,
+        "impressionCount" : 3768,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 608,
@@ -297,7 +297,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 23,
-        "impressionCount" : 1994,
+        "impressionCount" : 2000,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 113,
@@ -346,10 +346,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 891,
+        "impressionCount" : 896,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 53,
+        "viewCount" : 54,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -388,7 +388,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2773,
+        "impressionCount" : 2776,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 482,
@@ -510,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 3650,
+        "impressionCount" : 3653,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 506,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 1904,
+        "impressionCount" : 1910,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 98,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 1695,
+        "impressionCount" : 1704,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 86,

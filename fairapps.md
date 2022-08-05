@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.90`` | `227` | `2022-07-31T00:00:00Z` | `9.6 MB` | `178` | `10` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `58` | `2022-07-22T00:00:00Z` | `9.5 MB` | `1293` | `85` | `1` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.90`` | `228` | `2022-07-31T00:00:00Z` | `9.6 MB` | `178` | `10` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `58` | `2022-07-22T00:00:00Z` | `9.5 MB` | `1294` | `85` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `38` | `2022-07-29T00:00:00Z` | `3.9 MB` | `859` | `53` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `36` | `2022-07-29T00:00:00Z` | `2.2 MB` | `1130` | `76` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `34` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3768` | `608` | `1` | `0` |  |

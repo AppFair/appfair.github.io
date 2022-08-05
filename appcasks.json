@@ -297,8 +297,8 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2053,
-        "impressionCount" : 7212,
-        "viewCount" : 787
+        "impressionCount" : 7213,
+        "viewCount" : 788
       },
       "subtitle" : "File archiver",
       "tintColor" : "8E7568",
@@ -587,8 +587,8 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 248,
-        "impressionCount" : 3844,
-        "viewCount" : 299
+        "impressionCount" : 3845,
+        "viewCount" : 300
       },
       "subtitle" : "App wrapper for music.youtube.com",
       "tintColor" : "E73737",
@@ -908,9 +908,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
       "sha256" : "1d3eb2d87c7580f7d8b42e2997edad80b1783a2c91ce7b476898f1d6b3a594ef",
       "stats" : {
-        "downloadCount" : 5624,
-        "impressionCount" : 4023,
-        "viewCount" : 384
+        "downloadCount" : 5625,
+        "impressionCount" : 4024,
+        "viewCount" : 385
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
@@ -3552,7 +3552,7 @@
       "sha256" : "363f8f7a45a657abdc8709d56bb8b100a3ce85c0857b69e5a906476867e33eb3",
       "stats" : {
         "downloadCount" : 1781,
-        "impressionCount" : 829
+        "impressionCount" : 830
       },
       "subtitle" : "Draw.io is free online diagram software",
       "tintColor" : "EC9B45",
@@ -3736,7 +3736,7 @@
       "sha256" : "ca2cf1ac7fdca30e979a024e404722bddde0b7aadce5fb4d00f533eafcf7bf17",
       "stats" : {
         "downloadCount" : 1405,
-        "impressionCount" : 660
+        "impressionCount" : 661
       },
       "subtitle" : "Open-source keystroke visualizer",
       "tintColor" : "DED4E5",
@@ -3817,7 +3817,7 @@
       "sha256" : "731788d512899fdaafdcb42ac1ac3a008531d3d7c5f3bc0abe0bf63be71447b4",
       "stats" : {
         "downloadCount" : 1252,
-        "impressionCount" : 744
+        "impressionCount" : 745
       },
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
@@ -3838,7 +3838,7 @@
       "sha256" : "78eceb653ba33ed3f4c511ef880ea0be8cafb7c52eb46e4804e24a7b991c552a",
       "stats" : {
         "downloadCount" : 1177,
-        "impressionCount" : 479
+        "impressionCount" : 480
       },
       "subtitle" : "Re-mounts write-protected NTFS volumes",
       "tintColor" : "AECCE3",
@@ -3858,7 +3858,7 @@
       "sha256" : "3f54b024f5c1c40bc18aebe39014710289b47e147e71561fae22a661cab26d02",
       "stats" : {
         "downloadCount" : 1114,
-        "impressionCount" : 514
+        "impressionCount" : 515
       },
       "subtitle" : "Utility to hide menu bar items",
       "tintColor" : "D3D3D3",
@@ -3878,7 +3878,7 @@
       "sha256" : "83320faad3b217079f6638b1f4169ffc37465f255a93e262d1646f2a5f53f263",
       "stats" : {
         "downloadCount" : 1099,
-        "impressionCount" : 451
+        "impressionCount" : 452
       },
       "subtitle" : "Simple and elegant markdown editor",
       "tintColor" : "1E3C43",
@@ -3898,7 +3898,7 @@
       "sha256" : "1bfd6b85e8180d33bc6ba19620b5c6f083536d749bbd84c66d0a47f93459ee17",
       "stats" : {
         "downloadCount" : 1073,
-        "impressionCount" : 729
+        "impressionCount" : 730
       },
       "subtitle" : "Tool to list all active shortcuts of the current application",
       "tintColor" : "A6A6A6",
@@ -3918,7 +3918,7 @@
       "sha256" : "0c89d5e462a8e16a8640db19e7afdae51ad18298de76e919639501e7f30f3977",
       "stats" : {
         "downloadCount" : 1061,
-        "impressionCount" : 1091
+        "impressionCount" : 1092
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
@@ -3959,7 +3959,7 @@
       "sha256" : "204dd3db5c11bf265700d8d57defc4798cd0040651f751f35e2a646cb4846ac7",
       "stats" : {
         "downloadCount" : 1008,
-        "impressionCount" : 478
+        "impressionCount" : 479
       },
       "subtitle" : "Light, Electron-based Wrapper around GraphiQL",
       "tintColor" : "E637AC",
@@ -3999,7 +3999,7 @@
       "sha256" : "b6c0172af9bd24bf10114eb7528ff7de40e9ba6fbb14bce92fa9a2f8e92edb0a",
       "stats" : {
         "downloadCount" : 994,
-        "impressionCount" : 769
+        "impressionCount" : 770
       },
       "subtitle" : "Menu bar icon organizer",
       "tintColor" : "585857",
@@ -4019,7 +4019,7 @@
       "sha256" : "08efdaf559d482441fb61557f4e2d0a406f9a96d5489692ebab5ab3fbf0f0915",
       "stats" : {
         "downloadCount" : 994,
-        "impressionCount" : 464
+        "impressionCount" : 465
       },
       "subtitle" : "Terminal built on web technologies",
       "tintColor" : "3E2223",
@@ -4039,7 +4039,7 @@
       "sha256" : "dfbb66ce3135fbaa2d64eaeea99a63e63485e322c9746045a1098b1696a1ecd5",
       "stats" : {
         "downloadCount" : 986,
-        "impressionCount" : 623
+        "impressionCount" : 624
       },
       "subtitle" : "Clipboard extension app",
       "tintColor" : "6199C0",
@@ -4059,7 +4059,7 @@
       "sha256" : "88663f7e83cec5a39c4336df9fb395b30447431c8902d0769211f1e31006d2db",
       "stats" : {
         "downloadCount" : 958,
-        "impressionCount" : 817
+        "impressionCount" : 818
       },
       "subtitle" : "Two-factor authentication software",
       "tintColor" : "F34A5D",
@@ -4172,7 +4172,7 @@
       "sha256" : "5a630c9660aa51c37e79fa963343ad43131eb4966343965e434b9b0a5bc9de88",
       "stats" : {
         "downloadCount" : 849,
-        "impressionCount" : 594
+        "impressionCount" : 595
       },
       "subtitle" : "Customize mouse behavior",
       "tintColor" : "65AAE1",
@@ -5353,7 +5353,7 @@
       "name" : "Cisco Proximity",
       "stats" : {
         "downloadCount" : 423,
-        "impressionCount" : 640
+        "impressionCount" : 641
       },
       "subtitle" : "Content sharing and video conference system control",
       "tintColor" : "F0F8FC",
@@ -10126,7 +10126,7 @@
       "sha256" : "fe88e03035fa02c3cf74e2b3a752cff2df5a3fdeaed0e3587abdc928b60962fc",
       "stats" : {
         "downloadCount" : 76,
-        "impressionCount" : 310
+        "impressionCount" : 311
       },
       "subtitle" : "Free and Open Source messaging and emailing app",
       "tintColor" : "4D8992",
@@ -14353,7 +14353,7 @@
       "sha256" : "a13b0fca4db8c054d37414c32887b07ddc4870c525cc60ac38d29f0ffc1c4cb1",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 970
+        "impressionCount" : 971
       },
       "subtitle" : "Access the HEY email service",
       "tintColor" : "5850EC",
@@ -15819,7 +15819,7 @@
       "sha256" : "8cf0a45961efa74b459c0c3e613dce7135fef687b76322eb909a68eeb124956a",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 233
+        "impressionCount" : 234
       },
       "subtitle" : "Email client focusing on privacy protection",
       "tintColor" : "4CC6F9",
@@ -39619,7 +39619,7 @@
       "sha256" : "acfe86aedce23077a34de27717f38920bf4eafb740841088ab31b685fec4e3af",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 160
+        "impressionCount" : 161
       },
       "subtitle" : "Email client that delivers all email in batches",
       "tintColor" : "E5E5E5",

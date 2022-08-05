@@ -35,10 +35,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 59,
-        "impressionCount" : 1318,
+        "impressionCount" : 1321,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 92,
+        "viewCount" : 94,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -82,10 +82,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 41,
-        "impressionCount" : 882,
+        "impressionCount" : 885,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 58,
+        "viewCount" : 59,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -125,10 +125,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 40,
-        "impressionCount" : 1157,
+        "impressionCount" : 1160,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 85,
+        "viewCount" : 86,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -177,10 +177,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 34,
-        "impressionCount" : 3783,
+        "impressionCount" : 3785,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 611,
+        "viewCount" : 612,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -222,10 +222,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2022,
+        "impressionCount" : 2025,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 119,
+        "viewCount" : 120,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -271,10 +271,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 913,
+        "impressionCount" : 916,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 56,
+        "viewCount" : 57,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -313,7 +313,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2790,
+        "impressionCount" : 2792,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 484,
@@ -323,6 +323,81 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T00:00:00Z",
       "versionDescription" : "Release 0.4.18"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.94/App-Fair-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.94/App-Fair.png",
+      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.94/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.94/README.md#dd3f7b3655878c0c1ac9bcadcd13e838ea7acd45a1c0f6fc5802fc7b9f6b5bd9",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_00-mac-dark-2864x1950.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_00-mac-dark-3078x2044.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_00-mac-light-2454x1654.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_06-mac-dark-1424x1722.png"
+      ],
+      "sha256" : "588cc46a976c2678d6143757365b4cd2f0fb86c89389484c03c6e28f5acb4621",
+      "size" : 9607172,
+      "stats" : {
+        "coreSize" : 170672,
+        "downloadCount" : 20,
+        "impressionCount" : 12,
+        "issueCount" : 6,
+        "starCount" : 26,
+        "viewCount" : 2,
+        "watcherCount" : 3
+      },
+      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "tintColor" : "1594E8",
+      "version" : "0.8.94",
+      "versionDate" : "2022-08-05T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.93...0.8.94"
     },
     {
       "beta" : true,
@@ -398,81 +473,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.94/App-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.94/App-Fair.png",
-      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.94/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.server",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.executable",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.94/README.md#dd3f7b3655878c0c1ac9bcadcd13e838ea7acd45a1c0f6fc5802fc7b9f6b5bd9",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_00-mac-dark-2864x1950.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_00-mac-dark-3078x2044.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_00-mac-light-2454x1654.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.94/screenshot_06-mac-dark-1424x1722.png"
-      ],
-      "sha256" : "588cc46a976c2678d6143757365b4cd2f0fb86c89389484c03c6e28f5acb4621",
-      "size" : 9607172,
-      "stats" : {
-        "coreSize" : 170672,
-        "downloadCount" : 18,
-        "impressionCount" : 8,
-        "issueCount" : 6,
-        "starCount" : 26,
-        "viewCount" : 2,
-        "watcherCount" : 3
-      },
-      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "tintColor" : "1594E8",
-      "version" : "0.8.94",
-      "versionDate" : "2022-08-05T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.93...0.8.94"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
 
@@ -510,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 3668,
+        "impressionCount" : 3670,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 507,
@@ -1213,10 +1213,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 1930,
+        "impressionCount" : 1933,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 100,
+        "viewCount" : 101,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1463,10 +1463,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 1728,
+        "impressionCount" : 1731,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 88,
+        "viewCount" : 89,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",

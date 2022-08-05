@@ -57,7 +57,7 @@
       "sha256" : "a2195ef3719ac9267df7fee5e211914b4289acb74639355def354014ac14eb38",
       "stats" : {
         "downloadCount" : 14944,
-        "impressionCount" : 7761,
+        "impressionCount" : 7762,
         "viewCount" : 879
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8332,
-        "impressionCount" : 6880,
+        "impressionCount" : 6881,
         "viewCount" : 626
       },
       "subtitle" : "Multimedia player",
@@ -382,7 +382,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1193,
-        "impressionCount" : 7433,
+        "impressionCount" : 7434,
         "viewCount" : 447
       },
       "subtitle" : "3D creation suite",
@@ -2475,7 +2475,7 @@
       "sha256" : "9477247e14d3ac3cda1b095b9d9e70d0ed6030f6d19ab9a0013206318e75ee5d",
       "stats" : {
         "downloadCount" : 142,
-        "impressionCount" : 1737,
+        "impressionCount" : 1738,
         "viewCount" : 96
       },
       "subtitle" : "Open-source music notation software",
@@ -2993,7 +2993,7 @@
       "sha256" : "ed6b3f9368ca3dd792fc18e74e3d4a4070cf36df4efd1d81db8c96df8c647dde",
       "stats" : {
         "downloadCount" : 33047,
-        "impressionCount" : 1071
+        "impressionCount" : 1072
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -40524,7 +40524,7 @@
       "sha256" : "44271fef18fd07a29241e5324be407fa8edce77fb0b55c5646cd238092cdf823",
       "stats" : {
         "downloadCount" : 456,
-        "impressionCount" : 50
+        "impressionCount" : 51
       },
       "subtitle" : "Personal data manager focusing on security",
       "tintColor" : "728D6A",
@@ -44280,7 +44280,7 @@
       "sha256" : "4529bbed37b3736623b5083e99088866bfec98973383df2553c27175738072a9",
       "stats" : {
         "downloadCount" : 60,
-        "impressionCount" : 97
+        "impressionCount" : 98
       },
       "subtitle" : "Manages online multimedia libs of German, Austrian and Swiss public broadcasters",
       "tintColor" : "4E4E50",
@@ -61031,16 +61031,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://aka.ms/download-jdk/microsoft-jdk-17.0.3-macos-x64.pkg",
+      "downloadURL" : "https://aka.ms/download-jdk/microsoft-jdk-17.0.4-macos-x64.pkg",
       "homepage" : "https://microsoft.com/openjdk",
       "localizedDescription" : "OpenJDK distribution from Microsoft",
       "name" : "Microsoft Build of OpenJDK",
-      "sha256" : "c88f2a01e88901538991c4198dbe4661a63e278e2a2a0df180e70737b2d14c60",
+      "sha256" : "9d42c26bca136197f4424897b23ddf3051b210f26ae004643636b769f712697e",
       "stats" : {
         "downloadCount" : 201
       },
       "subtitle" : "OpenJDK distribution from Microsoft",
-      "version" : "17.0.3"
+      "version" : "17.0.4",
+      "versionDate" : "2022-08-05T09:22:32Z"
     },
     {
       "beta" : false,
@@ -65765,16 +65766,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/surge-synthesizer/releases-xt/releases/download/1.0.1/surge-xt-macOS-1.0.1.dmg",
+      "downloadURL" : "https://github.com/surge-synthesizer/releases-xt/releases/download/1.1.0/surge-xt-macOS-1.1.0.dmg",
       "homepage" : "https://surge-synthesizer.github.io/",
       "localizedDescription" : "Hybrid synthesizer",
       "name" : "Surge XT",
-      "sha256" : "644efd84e2a8c62e6211f3d1c1311c8f5a0386c6e91d69c5a37e5a1aaebc504a",
+      "sha256" : "03f8970ffe89ec576d436c5580ebf94e229154fe13ac9571118e99f3bbd58600",
       "stats" : {
         "downloadCount" : 15
       },
       "subtitle" : "Hybrid synthesizer",
-      "version" : "1.0.1"
+      "version" : "1.1.0",
+      "versionDate" : "2022-08-05T09:22:32Z"
     },
     {
       "beta" : false,
@@ -73319,20 +73321,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "combine-pdfs",
-      "caption" : "Combine PDFs updated from 5.6.0 to 5.6.1",
-      "date" : "2022-08-03T13:51:27Z",
-      "identifier" : "release-combine-pdfs-5.6.1",
-      "title" : "New Release: Combine PDFs 5.6.1"
-    },
-    {
-      "appID" : "appgate-sdp-client",
-      "caption" : "AppGate SDP Client for macOS updated from 6.0.0 to 6.0.1",
-      "date" : "2022-08-03T13:51:27Z",
-      "identifier" : "release-appgate-sdp-client-6.0.1",
-      "title" : "New Release: AppGate SDP Client for macOS 6.0.1"
-    },
-    {
       "appID" : "trader-workstation",
       "caption" : "Trader Workstation updated from 10.16.1o to 10.17.1q",
       "date" : "2022-08-03T13:51:27Z",
@@ -74017,6 +74005,20 @@
       "date" : "2022-08-05T03:49:26Z",
       "identifier" : "release-volley-1.0.72",
       "title" : "New Release: Volley 1.0.72"
+    },
+    {
+      "appID" : "microsoft-openjdk",
+      "caption" : "Microsoft Build of OpenJDK updated from 17.0.3 to 17.0.4",
+      "date" : "2022-08-05T09:22:33Z",
+      "identifier" : "release-microsoft-openjdk-17.0.4",
+      "title" : "New Release: Microsoft Build of OpenJDK 17.0.4"
+    },
+    {
+      "appID" : "surge-xt",
+      "caption" : "Surge XT updated from 1.0.1 to 1.1.0",
+      "date" : "2022-08-05T09:22:34Z",
+      "identifier" : "release-surge-xt-1.1.0",
+      "title" : "New Release: Surge XT 1.1.0"
     }
   ],
   "platform" : "macos",

@@ -23,9 +23,9 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `59` | `2022-07-22T00:00:00Z` | `9.5 MB` | `1309` | `88` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `59` | `2022-07-22T00:00:00Z` | `9.5 MB` | `1310` | `88` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `41` | `2022-07-29T00:00:00Z` | `3.9 MB` | `873` | `55` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `40` | `2022-07-29T00:00:00Z` | `2.2 MB` | `1147` | `80` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `40` | `2022-07-29T00:00:00Z` | `2.2 MB` | `1148` | `81` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `34` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3780` | `610` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `23` | `2022-07-20T00:00:00Z` | `2.1 MB` | `2013` | `115` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `22` | `2022-07-29T00:00:00Z` | `2.2 MB` | `905` | `54` | `1` | `0` |  |
@@ -33,8 +33,8 @@ tr:nth-child(even) {
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `20` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2824` | `222` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `20` | `2022-05-19T00:00:00Z` | `2.4 MB` | `976` | `88` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.42`` | `17` | `2022-05-26T00:00:00Z` | `3.7 MB` | `3664` | `506` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.94`` | `12` | `2022-08-05T00:00:00Z` | `9.6 MB` | `4` | `1` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2067` | `135` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.94`` | `10` | `2022-08-05T00:00:00Z` | `9.6 MB` | `3` | `1` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1919` | `117` | `0` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.37β`` | `8` | `2022-01-24T00:00:00Z` | `4.7 MB` | `732` | `38` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.8β`` | `8` | `2022-01-24T00:00:00Z` | `8.7 MB` | `488` | `42` | `0` | `0` |  |

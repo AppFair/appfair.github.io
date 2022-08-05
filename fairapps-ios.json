@@ -32,10 +32,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 66,
-        "impressionCount" : 1296,
+        "impressionCount" : 1302,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 85,
+        "viewCount" : 87,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -81,11 +81,11 @@
       "size" : 8491944,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 50,
-        "impressionCount" : 861,
+        "downloadCount" : 52,
+        "impressionCount" : 867,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 53,
+        "viewCount" : 55,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -122,11 +122,11 @@
       "size" : 5509778,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 42,
-        "impressionCount" : 1132,
+        "downloadCount" : 44,
+        "impressionCount" : 1138,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 76,
+        "viewCount" : 78,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -166,10 +166,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 36,
-        "impressionCount" : 2002,
+        "impressionCount" : 2008,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 113,
+        "viewCount" : 115,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -210,8 +210,8 @@
       "size" : 5482239,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 33,
-        "impressionCount" : 898,
+        "downloadCount" : 35,
+        "impressionCount" : 900,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 54,
@@ -255,7 +255,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 1912,
+        "impressionCount" : 1916,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 98,
@@ -498,7 +498,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 1706,
+        "impressionCount" : 1712,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 86,
@@ -754,7 +754,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 3655,
+        "impressionCount" : 3659,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 506,

@@ -33,7 +33,7 @@ tr:nth-child(even) {
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `20` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2824` | `222` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `20` | `2022-05-19T00:00:00Z` | `2.4 MB` | `976` | `88` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.42`` | `17` | `2022-05-26T00:00:00Z` | `3.7 MB` | `3665` | `506` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.94`` | `14` | `2022-08-05T00:00:00Z` | `9.6 MB` | `7` | `2` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.94`` | `15` | `2022-08-05T00:00:00Z` | `9.6 MB` | `7` | `2` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2067` | `135` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1919` | `117` | `0` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.37β`` | `8` | `2022-01-24T00:00:00Z` | `4.7 MB` | `732` | `38` | `0` | `0` |  |

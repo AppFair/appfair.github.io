@@ -27,7 +27,7 @@ tr:nth-child(even) {
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `43` | `2022-07-29T00:00:00Z` | `2.2 MB` | `1174` | `89` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `43` | `2022-07-29T00:00:00Z` | `3.9 MB` | `899` | `62` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `34` | `2022-05-24T00:00:00Z` | `4.5 MB` | `3792` | `615` | `1` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.94`` | `28` | `2022-08-05T00:00:00Z` | `9.6 MB` | `16` | `2` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.94`` | `31` | `2022-08-05T00:00:00Z` | `9.6 MB` | `16` | `2` | `26` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `2038` | `122` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `22` | `2022-07-29T00:00:00Z` | `2.2 MB` | `921` | `57` | `1` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `21` | `2022-01-20T00:00:00Z` | `6.7 MB` | `2798` | `486` | `0` | `0` |  |

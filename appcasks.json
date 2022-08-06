@@ -57089,20 +57089,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.podpisuj.sk/staticweb/install/podpisuj-5.6.41.dmg",
+      "downloadURL" : "https://www.podpisuj.sk/staticweb/install/podpisuj-5.6.42.dmg",
       "homepage" : "https://www.podpisuj.sk/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-podpisuj/AppIcon.png",
       "localizedDescription" : "Application for electronic signing and validation of signatures",
       "name" : "Podpisuj",
-      "sha256" : "9887f16600a4f78cbd219dafbd6e2dd158fa55a180001ed5f4d9b44161ebb84d",
+      "sha256" : "9ee3582502442b2e5da4e0841fa699e596bf946938ca45418aac9e763c882d62",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 73
       },
       "subtitle" : "Application for electronic signing and validation of signatures",
       "tintColor" : "39668B",
-      "version" : "5.6.41",
-      "versionDate" : "2022-07-19T00:00:00Z"
+      "version" : "5.6.42",
+      "versionDate" : "2022-08-06T05:19:33Z"
     },
     {
       "beta" : false,
@@ -60958,17 +60958,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/quarto-dev/quarto-cli/releases/download/v1.0.37/quarto-1.0.37-macos.pkg",
+      "downloadURL" : "https://github.com/quarto-dev/quarto-cli/releases/download/v1.0.38/quarto-1.0.38-macos.pkg",
       "homepage" : "https://www.quarto.org/",
       "localizedDescription" : "Scientific and technical publishing system built on Pandoc",
       "name" : "quarto",
-      "sha256" : "07b79bc9742e5b4c59556cecfd2ea3155b59d75bafbbee5262f9bfd1fbcb5519",
+      "sha256" : "e7b8f13a999c58371eae27d586d707de66b797e24f0d44cbefb84aa2111a1759",
       "stats" : {
         "downloadCount" : 220
       },
       "subtitle" : "Scientific and technical publishing system built on Pandoc",
-      "version" : "1.0.37",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "1.0.38",
+      "versionDate" : "2022-08-06T05:19:33Z"
     },
     {
       "beta" : false,
@@ -70062,17 +70062,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://s3.eu-west-2.amazonaws.com/plastic-releases/releases/11.0.16.7248/plasticscm/osx/plasticscm-cloud-11.0.16.7248.pkg.zip",
+      "downloadURL" : "https://s3.eu-west-2.amazonaws.com/plastic-releases/releases/11.0.16.7274/plasticscm/osx/plasticscm-cloud-11.0.16.7274.pkg.zip",
       "homepage" : "https://www.plasticscm.com/",
       "localizedDescription" : "Install PlasticSCM locally and join a Cloud Edition subscription",
       "name" : "PlasicSCM - a Cloud Edition",
-      "sha256" : "62da211e0491f4784ece9a9710fbc33e293e28843a9171557ab8a67a5535e185",
+      "sha256" : "369be62ef7a069bd2a436e8fbeca90a70ccf281372243ddf1acf46fceb8903a3",
       "stats" : {
         "downloadCount" : 4
       },
       "subtitle" : "Install PlasticSCM locally and join a Cloud Edition subscription",
-      "version" : "11.0.16.7248",
-      "versionDate" : "2022-07-29T00:00:00Z"
+      "version" : "11.0.16.7274",
+      "versionDate" : "2022-08-06T05:19:33Z"
     },
     {
       "beta" : false,
@@ -73366,27 +73366,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "blender",
-      "caption" : "Blender updated from 3.2.1 to 3.2.2",
-      "date" : "2022-08-04T08:29:19Z",
-      "identifier" : "release-blender-3.2.2",
-      "title" : "New Release: Blender 3.2.2"
-    },
-    {
-      "appID" : "brave-browser",
-      "caption" : "Brave updated from 1.41.100.0,141.100 to 1.42.86.0,142.86",
-      "date" : "2022-08-04T08:29:20Z",
-      "identifier" : "release-brave-browser-1.42.86.0,142.86",
-      "title" : "New Release: Brave 1.42.86.0,142.86"
-    },
-    {
-      "appID" : "android-studio",
-      "caption" : "Android Studio updated from 2021.2.1.15 to 2021.2.1.16",
-      "date" : "2022-08-04T08:29:20Z",
-      "identifier" : "release-android-studio-2021.2.1.16",
-      "title" : "New Release: Android Studio 2021.2.1.16"
-    },
-    {
       "appID" : "opera",
       "caption" : "Opera updated from 89.0.4447.71 to 89.0.4447.83",
       "date" : "2022-08-04T08:29:20Z",
@@ -74064,6 +74043,27 @@
       "date" : "2022-08-06T03:06:58Z",
       "identifier" : "release-sparrow-1.6.6",
       "title" : "New Release: Sparrow Bitcoin Wallet 1.6.6"
+    },
+    {
+      "appID" : "podpisuj",
+      "caption" : "Podpisuj updated from 5.6.41 to 5.6.42",
+      "date" : "2022-08-06T05:19:34Z",
+      "identifier" : "release-podpisuj-5.6.42",
+      "title" : "New Release: Podpisuj 5.6.42"
+    },
+    {
+      "appID" : "quarto",
+      "caption" : "quarto updated from 1.0.37 to 1.0.38",
+      "date" : "2022-08-06T05:19:34Z",
+      "identifier" : "release-quarto-1.0.38",
+      "title" : "New Release: quarto 1.0.38"
+    },
+    {
+      "appID" : "plasticscm-cloud-edition",
+      "caption" : "PlasicSCM - a Cloud Edition updated from 11.0.16.7248 to 11.0.16.7274",
+      "date" : "2022-08-06T05:19:34Z",
+      "identifier" : "release-plasticscm-cloud-edition-11.0.16.7274",
+      "title" : "New Release: PlasicSCM - a Cloud Edition 11.0.16.7274"
     }
   ],
   "platform" : "macos",

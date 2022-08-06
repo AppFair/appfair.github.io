@@ -2839,7 +2839,7 @@ tr:nth-child(even) {
 | [``Operator``](https://www.prelude.org/) | ``1.7.0`` | `2` | `2022-07-21T00:00:00Z` |  | `63` |  |  | `0` |  |
 | [``PHD2``](https://openphdguiding.org/) | ``2.6.11`` | `2` |  |  | `40` |  |  | `0` |  |
 | [``Pinegrow``](https://pinegrow.com/) | ``6.21`` | `2` |  |  | `38` |  |  | `0` |  |
-| [``Podpisuj``](https://www.podpisuj.sk/) | ``5.6.42`` | `2` | `2022-08-06T05:19:33Z` |  | `73` |  |  | `0` |  |
+| [``Podpisuj``](https://www.podpisuj.sk/) | ``5.6.42`` | `2` | `2022-08-06T00:00:00Z` |  | `73` |  |  | `0` |  |
 | [``Prezi Video``](https://prezi.com/video/) | ``2.11.0`` | `2` | `2022-07-29T00:00:00Z` |  | `33` |  |  | `0` |  |
 | [``QBlocker``](https://qblocker.com/) | ``1.2,20,1464612307`` | `2` |  |  | `38` |  |  | `0` |  |
 | [``qmoji``](https://github.com/jaredly/qmoji) | ``1.3.1`` | `2` |  |  | `47` |  |  | `0` |  |
@@ -3050,7 +3050,7 @@ tr:nth-child(even) {
 | [``Fuse Studio``](https://fuse-open.github.io/) | ``1.9.0`` | `229` |  |  |  |  |  | `0` |  |
 | [``SF Symbols``](https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/) | ``3.3`` | `226` |  |  |  |  |  | `0` |  |
 | [``VMware Horizon Client``](https://www.vmware.com/) | ``2206-8.6.0-20094589,CART…`` | `225` | `2022-07-19T00:00:00Z` |  |  |  |  | `0` |  |
-| [``quarto``](https://www.quarto.org/) | ``1.0.38`` | `220` | `2022-08-06T05:19:33Z` |  |  |  |  | `0` |  |
+| [``quarto``](https://www.quarto.org/) | ``1.0.38`` | `220` | `2022-08-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``LaunchRocket``](https://github.com/jimbojsb/launchrocket) | ``0.7`` | `215` |  |  |  |  |  | `0` |  |
 | [``OpenMTP``](https://openmtp.ganeshrvel.com/) | ``3.1.15`` | `213` |  |  |  |  |  | `0` |  |
 | [``Malwarebytes for Mac``](https://www.malwarebytes.com/mac/) | ``4.16.7.4745`` | `211` | `2022-07-14T00:00:00Z` |  |  |  |  | `0` |  |
@@ -3590,7 +3590,7 @@ tr:nth-child(even) {
 | [``Nifty``](https://niftypm.com/) | ``3.35.10`` | `4` |  |  |  |  |  | `0` |  |
 | [``Ninja Download Manager``](https://ninjadownloadmanager.com/) | ``46`` | `4` |  |  |  |  |  | `0` |  |
 | [``outset``](https://github.com/chilcote/outset) | ``3.0.3`` | `4` |  |  |  |  |  | `0` |  |
-| [``PlasicSCM - a Cloud Edit…``](https://www.plasticscm.com/) | ``11.0.16.7274`` | `4` | `2022-08-06T05:19:33Z` |  |  |  |  | `0` |  |
+| [``PlasicSCM - a Cloud Edit…``](https://www.plasticscm.com/) | ``11.0.16.7274`` | `4` | `2022-08-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``PostgresPrefs``](https://github.com/MaccaTech/PostgresPrefs) | ``2.7`` | `4` |  |  |  |  |  | `0` |  |
 | [``Private Eye``](https://radiosilenceapp.com/private-eye) | ``1.1.0`` | `4` |  |  |  |  |  | `0` |  |
 | [``RingCentral Meetings for…``](https://www.ringcentral.com/online-meetings/overview.html) | ``latest`` | `4` |  |  |  |  |  | `0` |  |

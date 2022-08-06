@@ -4852,20 +4852,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://downloads.tuxfamily.org/godotengine/3.4.5/Godot_v3.4.5-stable_osx.universal.zip",
+      "downloadURL" : "https://downloads.tuxfamily.org/godotengine/3.5/Godot_v3.5-stable_osx.universal.zip",
       "homepage" : "https://godotengine.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-godot/AppIcon.png",
       "localizedDescription" : "Game development engine",
       "name" : "Godot Engine",
-      "sha256" : "b280b986b3fbed7f4e80b3e3c4b57dc8a1fca772eb51f228b13fe9eb9a9fba12",
+      "sha256" : "69ab972ca0b84068003cbabe5ba9bb45841ac51b668f500d8e71123737abc954",
       "stats" : {
         "downloadCount" : 562,
         "impressionCount" : 452
       },
       "subtitle" : "Game development engine",
       "tintColor" : "445B6D",
-      "version" : "3.4.5",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "3.5",
+      "versionDate" : "2022-08-06T19:17:53Z"
     },
     {
       "beta" : false,
@@ -5446,20 +5446,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v5.9.8/Netron-5.9.8-mac.zip",
+      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v5.9.9/Netron-5.9.9-mac.zip",
       "homepage" : "https://github.com/lutzroeder/netron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-netron/AppIcon.png",
       "localizedDescription" : "Visualizer for neural network, deep learning, and machine learning models",
       "name" : "Netron",
-      "sha256" : "79120c63ca8dc0464964fc647c2a3fedf1258d94a61ca0af7483a70cd262f5c5",
+      "sha256" : "c4d911ecff746f04b2421c8aad31a074b7a24a0523201b436542fe9911be64e2",
       "stats" : {
         "downloadCount" : 408,
         "impressionCount" : 894
       },
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
-      "version" : "5.9.8",
-      "versionDate" : "2022-08-01T00:00:00Z"
+      "version" : "5.9.9",
+      "versionDate" : "2022-08-06T19:17:53Z"
     },
     {
       "beta" : false,
@@ -12650,20 +12650,20 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://imgcdn.start.qq.com/cdn/mac.client/installer/START-Installer-0.301.24-188.dmg",
+      "downloadURL" : "https://imgcdn.start.qq.com/cdn/mac.client/installer/START-Installer-0.301.29-193.dmg",
       "homepage" : "https://start.qq.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-start/AppIcon.png",
       "localizedDescription" : "Tencent cloud gaming platform",
       "name" : "START",
-      "sha256" : "780324b94d5e3cc21204ea35a55af4b992187424588cf95a48961826a7e79565",
+      "sha256" : "fcbfb60dd562ef3b1c5c0198f987b0dbdd95b287b9019b3a63e1a671cb25d313",
       "stats" : {
         "downloadCount" : 47,
         "impressionCount" : 569
       },
       "subtitle" : "Tencent cloud gaming platform",
       "tintColor" : "051C20",
-      "version" : "0.301.24-188",
-      "versionDate" : "2022-07-25T00:00:00Z"
+      "version" : "0.301.29-193",
+      "versionDate" : "2022-08-06T19:17:53Z"
     },
     {
       "beta" : false,
@@ -13951,15 +13951,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lingon-x/AppIcon.png",
       "localizedDescription" : "Automator software to start apps, run scripts or commands and more",
       "name" : "Lingon X",
-      "sha256" : "2e2b34681da745575fd55c24f1f073e690ab3520e28320a837f6afb4c67efb75",
+      "sha256" : "b564d59243b1b84fdb30f20f13bef2acbf2721f7766e46cab6a4aa0871a2cd57",
       "stats" : {
         "downloadCount" : 37,
         "impressionCount" : 266
       },
       "subtitle" : "Automator software to start apps, run scripts or commands and more",
       "tintColor" : "C15A5A",
-      "version" : "8.4.7",
-      "versionDate" : "2022-07-13T00:00:00Z"
+      "version" : "8.4.8",
+      "versionDate" : "2022-08-06T19:17:53Z"
     },
     {
       "beta" : false,
@@ -16130,8 +16130,8 @@
       },
       "subtitle" : "Email client",
       "tintColor" : "B76B65",
-      "version" : "3.98.17",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "3.98.20",
+      "versionDate" : "2022-08-06T19:17:53Z"
     },
     {
       "beta" : false,
@@ -30783,20 +30783,20 @@
       "categories" : [
         "public.app-category.education"
       ],
-      "downloadURL" : "https://beta.cinderella.de/Cinderella-3.0b.2053.dmg",
+      "downloadURL" : "https://beta.cinderella.de/Cinderella-3.0b.2055.dmg",
       "homepage" : "https://cinderella.de/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cinderella/AppIcon.png",
       "localizedDescription" : "Interactive Geometry Software",
       "name" : "Cinderella",
-      "sha256" : "78c840987e68bf9386267599c2963e85bab5d4c8015dfaaf5afffef4782baae0",
+      "sha256" : "270cbb7169a7ec026ae9605e0660c82d080c3c529b281e652c0e0adbd5f59016",
       "stats" : {
         "downloadCount" : 4,
         "impressionCount" : 747
       },
       "subtitle" : "Interactive Geometry Software",
       "tintColor" : "A18119",
-      "version" : "3.0b.2053",
-      "versionDate" : "2022-08-05T00:00:00Z"
+      "version" : "3.0b.2055",
+      "versionDate" : "2022-08-06T19:17:53Z"
     },
     {
       "beta" : false,
@@ -42312,19 +42312,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.sourceforge.net/kid3/kid3-3.9.1-Darwin.dmg",
+      "downloadURL" : "https://downloads.sourceforge.net/kid3/kid3-3.9.2-Darwin.dmg",
       "homepage" : "https://kid3.sourceforge.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kid3/AppIcon.png",
       "localizedDescription" : "Audio tagger focusing on efficiency",
       "name" : "Kid3",
-      "sha256" : "7228e15373e5f3c58d928bd0267dc51bc2f505b64ba86fddd627c6631b7bab37",
+      "sha256" : "f29bdd539c2cdfae0f5a4ee10e567a23f882c6eba6cae788a10ee4d9d6391b9b",
       "stats" : {
         "downloadCount" : 122,
         "impressionCount" : 37
       },
       "subtitle" : "Audio tagger focusing on efficiency",
       "tintColor" : "86907A",
-      "version" : "3.9.1"
+      "version" : "3.9.2",
+      "versionDate" : "2022-08-06T19:17:53Z"
     },
     {
       "beta" : false,
@@ -47336,20 +47337,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.stclairsoft.com/download/AppTamer-2.7.4.dmg",
+      "downloadURL" : "https://www.stclairsoft.com/download/AppTamer-2.7.5.dmg",
       "homepage" : "https://www.stclairsoft.com/AppTamer/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-app-tamer/AppIcon.png",
       "localizedDescription" : "CPU management applicataion",
       "name" : "AppTamer",
-      "sha256" : "92b4bd568488e7b30e9975abf148db76341b2573ff486d36c782592490f91e61",
+      "sha256" : "0451d3912a157d6cbd43a1462d1fc6b9bcd0de102976fc5d5281656427093ac6",
       "stats" : {
         "downloadCount" : 22,
         "impressionCount" : 90
       },
       "subtitle" : "CPU management applicataion",
       "tintColor" : "A3A47D",
-      "version" : "2.7.4,11585",
-      "versionDate" : "2022-07-28T00:00:00Z"
+      "version" : "2.7.5,11617",
+      "versionDate" : "2022-08-06T19:17:53Z"
     },
     {
       "beta" : false,
@@ -55980,7 +55981,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openboard/AppIcon.png",
       "localizedDescription" : "Interactive whiteboard application",
       "name" : "OpenBoard",
-      "sha256" : "f412ffd1ee956906a389fc9eec19f2046234d785cef24e50882e6b9ced266291",
+      "sha256" : "b50fb2ad4933b9ce081b9dfdb0ceb5f0169128663ba17e77859b2ca1ba460c20",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 56
@@ -73370,55 +73371,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "hstracker",
-      "caption" : "Hearthstone Deck Tracker updated from 2.2.0 to 2.2.1",
-      "date" : "2022-08-04T08:29:22Z",
-      "identifier" : "release-hstracker-2.2.1",
-      "title" : "New Release: Hearthstone Deck Tracker 2.2.1"
-    },
-    {
-      "appID" : "vrew",
-      "caption" : "vrew updated from 0.11.25 to 0.11.26",
-      "date" : "2022-08-04T08:29:22Z",
-      "identifier" : "release-vrew-0.11.26",
-      "title" : "New Release: vrew 0.11.26"
-    },
-    {
-      "appID" : "razorsql",
-      "caption" : "RazorSQL updated from 10.0.6 to 10.0.7",
-      "date" : "2022-08-04T08:29:22Z",
-      "identifier" : "release-razorsql-10.0.7",
-      "title" : "New Release: RazorSQL 10.0.7"
-    },
-    {
-      "appID" : "monal",
-      "caption" : "Monal updated from 5.2.0,795 to 5.3.0,797",
-      "date" : "2022-08-04T08:29:23Z",
-      "identifier" : "release-monal-5.3.0,797",
-      "title" : "New Release: Monal 5.3.0,797"
-    },
-    {
-      "appID" : "timeular",
-      "caption" : "Timeular updated from 5.0.1 to 5.1.0",
-      "date" : "2022-08-04T08:29:23Z",
-      "identifier" : "release-timeular-5.1.0",
-      "title" : "New Release: Timeular 5.1.0"
-    },
-    {
-      "appID" : "sessionrestore",
-      "caption" : "SessionRestore updated from 2.7.2 to 2.7.23,2.7.3",
-      "date" : "2022-08-04T08:29:23Z",
-      "identifier" : "release-sessionrestore-2.7.23,2.7.3",
-      "title" : "New Release: SessionRestore 2.7.23,2.7.3"
-    },
-    {
-      "appID" : "bdash",
-      "caption" : "Bdash updated from 1.15.1 to 1.15.2",
-      "date" : "2022-08-04T08:29:23Z",
-      "identifier" : "release-bdash-1.15.2",
-      "title" : "New Release: Bdash 1.15.2"
-    },
-    {
       "appID" : "chromedriver",
       "caption" : "ChromeDriver updated from 103.0.5060.134 to 104.0.5112.79",
       "date" : "2022-08-04T08:29:23Z",
@@ -73804,13 +73756,6 @@
       "title" : "New Release: SideQuest 0.10.30"
     },
     {
-      "appID" : "cinderella",
-      "caption" : "Cinderella updated from 3.0b.2052 to 3.0b.2053",
-      "date" : "2022-08-05T20:24:41Z",
-      "identifier" : "release-cinderella-3.0b.2053",
-      "title" : "New Release: Cinderella 3.0b.2053"
-    },
-    {
       "appID" : "jabref",
       "caption" : "JabRef updated from 5.6 to 5.7",
       "date" : "2022-08-05T20:24:41Z",
@@ -74068,6 +74013,62 @@
       "date" : "2022-08-06T08:24:50Z",
       "identifier" : "release-name-mangler-3.8,3339",
       "title" : "New Release: Name Mangler 3.8,3339"
+    },
+    {
+      "appID" : "godot",
+      "caption" : "Godot Engine updated from 3.4.5 to 3.5",
+      "date" : "2022-08-06T19:17:53Z",
+      "identifier" : "release-godot-3.5",
+      "title" : "New Release: Godot Engine 3.5"
+    },
+    {
+      "appID" : "netron",
+      "caption" : "Netron updated from 5.9.8 to 5.9.9",
+      "date" : "2022-08-06T19:17:54Z",
+      "identifier" : "release-netron-5.9.9",
+      "title" : "New Release: Netron 5.9.9"
+    },
+    {
+      "appID" : "start",
+      "caption" : "START updated from 0.301.24-188 to 0.301.29-193",
+      "date" : "2022-08-06T19:17:54Z",
+      "identifier" : "release-start-0.301.29-193",
+      "title" : "New Release: START 0.301.29-193"
+    },
+    {
+      "appID" : "lingon-x",
+      "caption" : "Lingon X updated from 8.4.7 to 8.4.8",
+      "date" : "2022-08-06T19:17:54Z",
+      "identifier" : "release-lingon-x-8.4.8",
+      "title" : "New Release: Lingon X 8.4.8"
+    },
+    {
+      "appID" : "tutanota",
+      "caption" : "Tutanota Desktop updated from 3.98.17 to 3.98.20",
+      "date" : "2022-08-06T19:17:54Z",
+      "identifier" : "release-tutanota-3.98.20",
+      "title" : "New Release: Tutanota Desktop 3.98.20"
+    },
+    {
+      "appID" : "cinderella",
+      "caption" : "Cinderella updated from 3.0b.2053 to 3.0b.2055",
+      "date" : "2022-08-06T19:17:55Z",
+      "identifier" : "release-cinderella-3.0b.2055",
+      "title" : "New Release: Cinderella 3.0b.2055"
+    },
+    {
+      "appID" : "kid3",
+      "caption" : "Kid3 updated from 3.9.1 to 3.9.2",
+      "date" : "2022-08-06T19:17:55Z",
+      "identifier" : "release-kid3-3.9.2",
+      "title" : "New Release: Kid3 3.9.2"
+    },
+    {
+      "appID" : "app-tamer",
+      "caption" : "AppTamer updated from 2.7.4,11585 to 2.7.5,11617",
+      "date" : "2022-08-06T19:17:55Z",
+      "identifier" : "release-app-tamer-2.7.5,11617",
+      "title" : "New Release: AppTamer 2.7.5,11617"
     }
   ],
   "platform" : "macos",

@@ -1463,9 +1463,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/README.md",
       "sha256" : "8866219c7126608b0e2c342fec1a54ff55dfc2bd0b0c0ba463ac33504a0991a2",
       "stats" : {
-        "downloadCount" : 2200,
-        "impressionCount" : 3222,
-        "viewCount" : 342
+        "downloadCount" : 2201,
+        "impressionCount" : 3223,
+        "viewCount" : 343
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
@@ -1644,7 +1644,7 @@
       "subtitle" : "Customizable email client",
       "tintColor" : "B0C3DC",
       "version" : "102.1.1",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3204,7 +3204,7 @@
       },
       "subtitle" : "Web browser",
       "version" : "104.0.1293.47",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3577,7 +3577,7 @@
       "subtitle" : "Draw.io is free online diagram software",
       "tintColor" : "EC9B45",
       "version" : "20.2.3",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4925,7 +4925,7 @@
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
       "version" : "91,150837",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6632,7 +6632,7 @@
       "subtitle" : "Manage team projects and tasks",
       "tintColor" : "FBDADA",
       "version" : "1.9.0",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7647,7 +7647,7 @@
       "subtitle" : "Charting and social-networking for investment traders",
       "tintColor" : "3E414A",
       "version" : "1.0.14",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15391,7 +15391,7 @@
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
       "version" : "0.7.67",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17727,7 +17727,7 @@
       "subtitle" : "Use any of your display's available resolutions",
       "tintColor" : "446486",
       "version" : "2.3.0,124",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28911,7 +28911,7 @@
       "subtitle" : "Yet another monitor",
       "tintColor" : "EFEFEF",
       "version" : "2.4",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30038,7 +30038,7 @@
       "subtitle" : "Tool to eliminate similar or duplicate photos",
       "tintColor" : "8A7A5F",
       "version" : "4.5.0,4500",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32012,7 +32012,7 @@
       "subtitle" : "Tool to take, visualize and analyze notes",
       "tintColor" : "876431",
       "version" : "9.3.0",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -38438,7 +38438,7 @@
       "subtitle" : "Local one-stop model training and deployment platform",
       "tintColor" : "6A76EC",
       "version" : "2.1.1,1464",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41001,7 +41001,7 @@
       "subtitle" : "Next generation tooling for Spring Boot",
       "tintColor" : "459730",
       "version" : "4.15.2,4.24.0",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41284,7 +41284,7 @@
       "subtitle" : "Grammarly for desktop",
       "tintColor" : "80DEC8",
       "version" : "1.9.1.0",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44197,7 +44197,7 @@
       "subtitle" : "Play PC games and connect with your friends",
       "tintColor" : "E75B11",
       "version" : "10.5.114.51455",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59955,7 +59955,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.12,20220805103105",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66743,7 +66743,7 @@
       },
       "subtitle" : "Run a Minecraft multiplayer server",
       "version" : "1.19.2,f69c284232d7c7580bd89a5a4931c3581eae1378",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67950,7 +67950,7 @@
       },
       "subtitle" : "Bitcoin wallet application",
       "version" : "1.6.6",
-      "versionDate" : "2022-08-06T03:06:53Z"
+      "versionDate" : "2022-08-06T00:00:00Z"
     },
     {
       "beta" : false,

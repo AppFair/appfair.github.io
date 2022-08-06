@@ -35,7 +35,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 59,
-        "impressionCount" : 1335,
+        "impressionCount" : 1336,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 96,
@@ -78,7 +78,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 43,
-        "impressionCount" : 1174,
+        "impressionCount" : 1175,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 89,
@@ -125,7 +125,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 43,
-        "impressionCount" : 899,
+        "impressionCount" : 900,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 62,
@@ -136,58 +136,6 @@
       "version" : "0.3.41",
       "versionDate" : "2022-07-29T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.38...0.3.41"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Blunder-Busq",
-      "categories" : [
-
-      ],
-      "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
-      "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
-      "name" : "Blunder Busq",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download apps"
-        },
-        {
-          "type" : "device.usb",
-          "usageDescription" : "This app needs to access USB connections to devices"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected IPAs"
-        }
-      ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/README.md#3f5af5ae690752c4cdb38f3c2620a4c99e60f17d144edcec5a1f8ae1c5a34ba8",
-      "screenshotURLs" : [
-        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-dark-2560x1884.png",
-        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-light-2560x1884.png"
-      ],
-      "sha256" : "4ec4bc454a71f12fa9abe0dd5ab3ec44d3d9fd2babd2e1c8fad514c1af907100",
-      "size" : 4506286,
-      "stats" : {
-        "coreSize" : 170576,
-        "downloadCount" : 34,
-        "impressionCount" : 3792,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 615,
-        "watcherCount" : 1
-      },
-      "subtitle" : "App for managing iOS devices",
-      "tintColor" : "587FE3",
-      "version" : "0.1.7",
-      "versionDate" : "2022-05-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
     },
     {
       "beta" : false,
@@ -251,8 +199,8 @@
       "size" : 9607172,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 33,
-        "impressionCount" : 17,
+        "downloadCount" : 39,
+        "impressionCount" : 19,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 3,
@@ -263,6 +211,58 @@
       "version" : "0.8.94",
       "versionDate" : "2022-08-05T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.93...0.8.94"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Blunder-Busq",
+      "categories" : [
+
+      ],
+      "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://www.blunderbusq.app",
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
+      "localizedDescription" : "App for managing iOS devices",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
+      "name" : "Blunder Busq",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download apps"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This app needs to access USB connections to devices"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected IPAs"
+        }
+      ],
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/README.md#3f5af5ae690752c4cdb38f3c2620a4c99e60f17d144edcec5a1f8ae1c5a34ba8",
+      "screenshotURLs" : [
+        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-dark-2560x1884.png",
+        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-light-2560x1884.png"
+      ],
+      "sha256" : "4ec4bc454a71f12fa9abe0dd5ab3ec44d3d9fd2babd2e1c8fad514c1af907100",
+      "size" : 4506286,
+      "stats" : {
+        "coreSize" : 170576,
+        "downloadCount" : 34,
+        "impressionCount" : 3793,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 615,
+        "watcherCount" : 1
+      },
+      "subtitle" : "App for managing iOS devices",
+      "tintColor" : "587FE3",
+      "version" : "0.1.7",
+      "versionDate" : "2022-05-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
     },
     {
       "beta" : false,
@@ -297,7 +297,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2038,
+        "impressionCount" : 2039,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 122,
@@ -346,7 +346,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 921,
+        "impressionCount" : 922,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 57,
@@ -388,7 +388,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2798,
+        "impressionCount" : 2799,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 486,
@@ -510,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 3681,
+        "impressionCount" : 3682,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 508,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 1944,
+        "impressionCount" : 1945,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 101,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 1746,
+        "impressionCount" : 1747,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 89,

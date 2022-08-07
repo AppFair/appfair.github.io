@@ -55,7 +55,7 @@ tr:nth-child(even) {
 | [``Alfred``](https://www.alfredapp.com/) | ``5.0.1,2067`` | `6639` | `2022-07-27T00:00:00Z` |  | `2078` | `131` |  | `0` | `public.app-category.productivity` |
 | [``Sublime Text``](https://www.sublimetext.com/) | ``4126`` | `6127` |  |  | `1788` | `84` |  | `0` | `public.app-category.productivity` |
 | [``Stats``](https://github.com/exelban/stats) | ``2.7.28`` | `5662` | `2022-08-01T00:00:00Z` |  | `4122` | `390` |  | `0` | `public.app-category.utilities` |
-| [``Brave``](https://brave.com/) | ``1.42.86.0,142.86`` | `4120` | `2022-08-04T00:00:00Z` |  | `3873` | `239` |  | `0` | `public.app-category.productivity` |
+| [``Brave``](https://brave.com/) | ``1.42.88.0,142.88`` | `4120` | `2022-08-07T15:19:01Z` |  | `3873` | `239` |  | `0` | `public.app-category.productivity` |
 | [``Notion``](https://www.notion.so/) | ``2.0.24`` | `4088` | `2022-07-30T00:00:00Z` |  | `2216` | `156` |  | `0` | `public.app-category.productivity` |
 | [``1Password``](https://1password.com/) | ``8.8.0`` | `3976` | `2022-07-21T00:00:00Z` |  | `2187` | `123` |  | `0` | `public.app-category.productivity` |
 | [``GIMP``](https://www.gimp.org/) | ``2.10.32`` | `3594` |  |  | `2019` | `129` |  | `0` | `public.app-category.graphics-design` |

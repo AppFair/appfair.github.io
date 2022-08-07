@@ -923,13 +923,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/142.86/Brave-Browser-x64.dmg",
+      "downloadURL" : "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/142.88/Brave-Browser-x64.dmg",
       "homepage" : "https://brave.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brave-browser/AppIcon.png",
       "localizedDescription" : "Web browser focusing on privacy",
       "name" : "Brave",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brave-browser/README.md",
-      "sha256" : "ee4f2f9bd58a8965a7c118f12f0f28bb8dc6a4db85e3445c07e3df09dc3bddb6",
+      "sha256" : "3fa4ae81ea619140906164d114526419a783bb34017a69c5de6b4114eee0df00",
       "stats" : {
         "downloadCount" : 4120,
         "impressionCount" : 3873,
@@ -937,8 +937,8 @@
       },
       "subtitle" : "Web browser focusing on privacy",
       "tintColor" : "FCB8A6",
-      "version" : "1.42.86.0,142.86",
-      "versionDate" : "2022-08-04T00:00:00Z"
+      "version" : "1.42.88.0,142.88",
+      "versionDate" : "2022-08-07T15:19:01Z"
     },
     {
       "beta" : false,
@@ -73385,13 +73385,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "bloodhound",
-      "caption" : "bloodhound updated from 4.1.1 to 4.2.0",
-      "date" : "2022-08-04T21:20:14Z",
-      "identifier" : "release-bloodhound-4.2.0",
-      "title" : "New Release: bloodhound 4.2.0"
-    },
-    {
       "appID" : "my-image-garden",
       "caption" : "Canon My Image Garden 3.6.6,04 released",
       "date" : "2022-08-05T03:49:25Z",
@@ -74083,6 +74076,13 @@
       "date" : "2022-08-07T12:29:09Z",
       "identifier" : "release-lrtimelapse-6.1.0",
       "title" : "New Release: LRTimelapse 6.1.0"
+    },
+    {
+      "appID" : "brave-browser",
+      "caption" : "Brave updated from 1.42.86.0,142.86 to 1.42.88.0,142.88",
+      "date" : "2022-08-07T15:19:02Z",
+      "identifier" : "release-brave-browser-1.42.88.0,142.88",
+      "title" : "New Release: Brave 1.42.88.0,142.88"
     }
   ],
   "platform" : "macos",

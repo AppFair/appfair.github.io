@@ -62,8 +62,8 @@
       "size" : 9607172,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 95,
-        "impressionCount" : 95,
+        "downloadCount" : 96,
+        "impressionCount" : 108,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 5,
@@ -110,10 +110,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 60,
-        "impressionCount" : 1623,
+        "impressionCount" : 1669,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 115,
+        "viewCount" : 116,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -157,7 +157,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 49,
-        "impressionCount" : 1162,
+        "impressionCount" : 1205,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 89,
@@ -200,7 +200,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 48,
-        "impressionCount" : 1449,
+        "impressionCount" : 1491,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 126,
@@ -252,10 +252,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 3897,
+        "impressionCount" : 3920,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 632,
+        "viewCount" : 634,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -297,10 +297,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2306,
+        "impressionCount" : 2349,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 159,
+        "viewCount" : 161,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -346,7 +346,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1048,
+        "impressionCount" : 1070,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 66,
@@ -388,7 +388,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2874,
+        "impressionCount" : 2887,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 503,
@@ -426,7 +426,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2860,
+        "impressionCount" : 2868,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 222,
@@ -510,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 3880,
+        "impressionCount" : 3906,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 526,
@@ -549,7 +549,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 11,
-        "impressionCount" : 2103,
+        "impressionCount" : 2111,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 135,
@@ -789,7 +789,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1436,
+        "impressionCount" : 1443,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 81,
@@ -939,7 +939,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 7,
-        "impressionCount" : 1639,
+        "impressionCount" : 1648,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 100,
@@ -1132,7 +1132,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 1135,
+        "impressionCount" : 1142,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2176,
+        "impressionCount" : 2211,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 128,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2061,
+        "impressionCount" : 2117,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 111,
@@ -1537,7 +1537,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 898,
+        "impressionCount" : 916,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 56,

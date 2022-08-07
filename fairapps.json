@@ -62,8 +62,8 @@
       "size" : 9607172,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 73,
-        "impressionCount" : 80,
+        "downloadCount" : 78,
+        "impressionCount" : 82,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 5,
@@ -110,7 +110,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 60,
-        "impressionCount" : 1570,
+        "impressionCount" : 1573,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 113,
@@ -153,7 +153,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 46,
-        "impressionCount" : 1394,
+        "impressionCount" : 1397,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 123,
@@ -200,7 +200,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 46,
-        "impressionCount" : 1113,
+        "impressionCount" : 1115,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 86,
@@ -252,7 +252,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 3877,
+        "impressionCount" : 3880,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 629,
@@ -297,7 +297,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2250,
+        "impressionCount" : 2253,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 156,
@@ -346,7 +346,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1018,
+        "impressionCount" : 1021,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 63,
@@ -388,7 +388,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2861,
+        "impressionCount" : 2863,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 500,
@@ -510,10 +510,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 3844,
+        "impressionCount" : 3847,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 522,
+        "viewCount" : 523,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -1213,10 +1213,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2132,
+        "impressionCount" : 2136,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 126,
+        "viewCount" : 127,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 1996,
+        "impressionCount" : 1999,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 109,

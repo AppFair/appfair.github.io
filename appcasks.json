@@ -938,7 +938,7 @@
       "subtitle" : "Web browser focusing on privacy",
       "tintColor" : "FCB8A6",
       "version" : "1.42.88.0,142.88",
-      "versionDate" : "2022-08-07T15:19:01Z"
+      "versionDate" : "2022-08-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4840,7 +4840,7 @@
       "sha256" : "69ab972ca0b84068003cbabe5ba9bb45841ac51b668f500d8e71123737abc954",
       "stats" : {
         "downloadCount" : 579,
-        "impressionCount" : 461
+        "impressionCount" : 462
       },
       "subtitle" : "Game development engine",
       "tintColor" : "445B6D",

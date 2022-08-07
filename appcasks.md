@@ -55,7 +55,7 @@ tr:nth-child(even) {
 | [``Alfred``](https://www.alfredapp.com/) | ``5.0.1,2067`` | `6639` | `2022-07-27T00:00:00Z` |  | `2078` | `131` |  | `0` | `public.app-category.productivity` |
 | [``Sublime Text``](https://www.sublimetext.com/) | ``4126`` | `6127` |  |  | `1788` | `84` |  | `0` | `public.app-category.productivity` |
 | [``Stats``](https://github.com/exelban/stats) | ``2.7.28`` | `5662` | `2022-08-01T00:00:00Z` |  | `4122` | `390` |  | `0` | `public.app-category.utilities` |
-| [``Brave``](https://brave.com/) | ``1.42.88.0,142.88`` | `4120` | `2022-08-07T15:19:01Z` |  | `3873` | `239` |  | `0` | `public.app-category.productivity` |
+| [``Brave``](https://brave.com/) | ``1.42.88.0,142.88`` | `4120` | `2022-08-07T00:00:00Z` |  | `3873` | `239` |  | `0` | `public.app-category.productivity` |
 | [``Notion``](https://www.notion.so/) | ``2.0.24`` | `4088` | `2022-07-30T00:00:00Z` |  | `2216` | `156` |  | `0` | `public.app-category.productivity` |
 | [``1Password``](https://1password.com/) | ``8.8.0`` | `3976` | `2022-07-21T00:00:00Z` |  | `2187` | `123` |  | `0` | `public.app-category.productivity` |
 | [``GIMP``](https://www.gimp.org/) | ``2.10.32`` | `3594` |  |  | `2019` | `129` |  | `0` | `public.app-category.graphics-design` |
@@ -233,7 +233,7 @@ tr:nth-child(even) {
 | [``OSXFUSE``](https://osxfuse.github.io/) | ``3.11.2`` | `605` |  |  | `126` |  |  | `0` | `public.app-category.utilities` |
 | [``ProtonVPN``](https://protonvpn.com/) | ``3.0.1`` | `604` | `2022-07-11T00:00:00Z` |  | `422` |  |  | `0` | `public.app-category.utilities` |
 | [``Anki``](https://apps.ankiweb.net/) | ``2.1.54`` | `585` |  |  | `1063` |  |  | `0` | `public.app-category.education` |
-| [``Godot Engine``](https://godotengine.org/) | ``3.5`` | `579` | `2022-08-06T00:00:00Z` |  | `461` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Godot Engine``](https://godotengine.org/) | ``3.5`` | `579` | `2022-08-06T00:00:00Z` |  | `462` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Facebook Messenger``](https://www.messenger.com/desktop) | ``155.22.218,380205507`` | `579` | `2022-07-13T00:00:00Z` |  | `575` |  |  | `0` | `public.app-category.social-networking` |
 | [``Tabby``](https://eugeny.github.io/tabby/) | ``1.0.183`` | `546` | `2022-08-01T00:00:00Z` |  | `759` |  |  | `0` | `public.app-category.video` |
 | [``Miro``](https://miro.com/) | ``0.7.17`` | `545` | `2022-08-06T00:00:00Z` |  | `478` |  |  | `0` | `public.app-category.productivity` |

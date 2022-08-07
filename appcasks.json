@@ -1464,7 +1464,7 @@
       "sha256" : "8866219c7126608b0e2c342fec1a54ff55dfc2bd0b0c0ba463ac33504a0991a2",
       "stats" : {
         "downloadCount" : 2184,
-        "impressionCount" : 3295,
+        "impressionCount" : 3296,
         "viewCount" : 347
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",

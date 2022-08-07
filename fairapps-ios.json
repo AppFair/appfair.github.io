@@ -32,7 +32,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 66,
-        "impressionCount" : 1570,
+        "impressionCount" : 1573,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 113,
@@ -82,7 +82,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 58,
-        "impressionCount" : 1113,
+        "impressionCount" : 1115,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 86,
@@ -123,7 +123,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 50,
-        "impressionCount" : 1394,
+        "impressionCount" : 1397,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 123,
@@ -168,7 +168,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 41,
-        "impressionCount" : 1018,
+        "impressionCount" : 1021,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 63,
@@ -211,7 +211,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2250,
+        "impressionCount" : 2253,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 156,
@@ -255,10 +255,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 2132,
+        "impressionCount" : 2136,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 126,
+        "viewCount" : 127,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -498,7 +498,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 1996,
+        "impressionCount" : 1999,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 109,
@@ -754,10 +754,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 3844,
+        "impressionCount" : 3847,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 522,
+        "viewCount" : 523,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",

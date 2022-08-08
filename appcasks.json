@@ -814,13 +814,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://dbeaver.io/files/22.1.3/dbeaver-ce-22.1.3-macos-x86_64.dmg",
+      "downloadURL" : "https://dbeaver.io/files/22.1.4/dbeaver-ce-22.1.4-macos-x86_64.dmg",
       "homepage" : "https://dbeaver.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dbeaver-community/AppIcon.png",
       "localizedDescription" : "Universal database tool and SQL client",
       "name" : "DBeaver Community Edition",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dbeaver-community/README.md",
-      "sha256" : "a145d4e4b6b005551a95e94da7559ae473034b869a1e36c7a8d58a74d3edb0b2",
+      "sha256" : "fb468daed2cb968b358bffef92db7642dc6a52b12e32c158b90d52d11416ceac",
       "stats" : {
         "downloadCount" : 7221,
         "impressionCount" : 2089,
@@ -828,8 +828,8 @@
       },
       "subtitle" : "Universal database tool and SQL client",
       "tintColor" : "BBBFBD",
-      "version" : "22.1.3",
-      "versionDate" : "2022-07-25T00:00:00Z"
+      "version" : "22.1.4",
+      "versionDate" : "2022-08-08T11:23:23Z"
     },
     {
       "beta" : false,
@@ -2147,7 +2147,7 @@
       "subtitle" : "Modern and intuitive HTTP Debugging Proxy app",
       "tintColor" : "6DA4E9",
       "version" : "3.8.0,30800",
-      "versionDate" : "2022-08-08T10:27:40Z"
+      "versionDate" : "2022-08-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12776,20 +12776,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/leaves615/KeyboardHolder/releases/download/v1.9.0/KeyboardHolder-1.9.0.zip",
+      "downloadURL" : "https://github.com/leaves615/KeyboardHolder/releases/download/v1.9.1/KeyboardHolder-1.9.1.zip",
       "homepage" : "https://keyboardholder.leavesc.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-keyboardholder/AppIcon.png",
       "localizedDescription" : "Switch input method per application",
       "name" : "KeyboardHolder",
-      "sha256" : "7a5a2e048121bf72c1c1af9a8bbc672058af588ea4d11706e383a5a3d60b84af",
+      "sha256" : "02ff640bb81373bc52b430f2bc5f14a7bcc9cec8f44a89473f306968c581a253",
       "stats" : {
         "downloadCount" : 45,
         "impressionCount" : 293
       },
       "subtitle" : "Switch input method per application",
       "tintColor" : "888888",
-      "version" : "1.9.0",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "1.9.1",
+      "versionDate" : "2022-08-08T11:23:23Z"
     },
     {
       "beta" : false,
@@ -41222,19 +41222,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/texstudio-org/texstudio/releases/download/4.2.3/texstudio-4.2.3-osx.dmg",
+      "downloadURL" : "https://github.com/texstudio-org/texstudio/releases/download/4.3.0/texstudio-4.3.0-osx.dmg",
       "homepage" : "https://texstudio.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-texstudio/AppIcon.png",
       "localizedDescription" : "LaTeX editor",
       "name" : "TeXstudio",
-      "sha256" : "d13b76cab7f93a63b815d476df47d8c5d187f377efd68d21f8d2384e382352bc",
+      "sha256" : "cf56f4d28d9cfa8b41852f6aad41460b14425981002e8c3ea7e71cdb42291bcb",
       "stats" : {
         "downloadCount" : 232,
         "impressionCount" : 39
       },
       "subtitle" : "LaTeX editor",
       "tintColor" : "4F3E7C",
-      "version" : "4.2.3"
+      "version" : "4.3.0",
+      "versionDate" : "2022-08-08T11:23:23Z"
     },
     {
       "beta" : false,
@@ -53635,7 +53636,7 @@
       "sha256" : "06355f4b47efea9930822358eb919b6214829d7c6c575e76eaa397becf8bb99e",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 189
+        "impressionCount" : 190
       },
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
@@ -73429,27 +73430,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "mongodb-compass",
-      "caption" : "MongoDB Compass updated from 1.32.5 to 1.32.6",
-      "date" : "2022-08-05T13:46:25Z",
-      "identifier" : "release-mongodb-compass-1.32.6",
-      "title" : "New Release: MongoDB Compass 1.32.6"
-    },
-    {
-      "appID" : "lastpass",
-      "caption" : "LastPass updated from 4.100.0,1274 to 4.101.0,1276",
-      "date" : "2022-08-05T13:46:25Z",
-      "identifier" : "release-lastpass-4.101.0,1276",
-      "title" : "New Release: LastPass 4.101.0,1276"
-    },
-    {
-      "appID" : "coconutbattery",
-      "caption" : "coconutBattery updated from 3.9.8,0733d026 to 3.9.9,6b311840",
-      "date" : "2022-08-05T13:46:25Z",
-      "identifier" : "release-coconutbattery-3.9.9,6b311840",
-      "title" : "New Release: coconutBattery 3.9.9,6b311840"
-    },
-    {
       "appID" : "standard-notes",
       "caption" : "Standard Notes updated from 3.23.61 to 3.23.83",
       "date" : "2022-08-05T13:46:26Z",
@@ -74127,6 +74107,27 @@
       "date" : "2022-08-08T10:27:40Z",
       "identifier" : "release-proxyman-3.8.0,30800",
       "title" : "New Release: Proxyman 3.8.0,30800"
+    },
+    {
+      "appID" : "dbeaver-community",
+      "caption" : "DBeaver Community Edition updated from 22.1.3 to 22.1.4",
+      "date" : "2022-08-08T11:23:24Z",
+      "identifier" : "release-dbeaver-community-22.1.4",
+      "title" : "New Release: DBeaver Community Edition 22.1.4"
+    },
+    {
+      "appID" : "keyboardholder",
+      "caption" : "KeyboardHolder updated from 1.9.0 to 1.9.1",
+      "date" : "2022-08-08T11:23:24Z",
+      "identifier" : "release-keyboardholder-1.9.1",
+      "title" : "New Release: KeyboardHolder 1.9.1"
+    },
+    {
+      "appID" : "texstudio",
+      "caption" : "TeXstudio updated from 4.2.3 to 4.3.0",
+      "date" : "2022-08-08T11:23:24Z",
+      "identifier" : "release-texstudio-4.3.0",
+      "title" : "New Release: TeXstudio 4.3.0"
     }
   ],
   "platform" : "macos",

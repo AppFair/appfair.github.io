@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28262,
-        "impressionCount" : 7214,
+        "impressionCount" : 7215,
         "viewCount" : 599
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -3248,7 +3248,7 @@
       "sha256" : "54a5848acd01e84949e1ba61f8ca90d661ad11b65e504c615bd2ce5999501ffc",
       "stats" : {
         "downloadCount" : 3023,
-        "impressionCount" : 598
+        "impressionCount" : 599
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -6064,7 +6064,7 @@
       "subtitle" : "Break time reminder app",
       "tintColor" : "6C0F00",
       "version" : "1.11.0",
-      "versionDate" : "2022-08-08T07:19:58Z"
+      "versionDate" : "2022-08-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7912,20 +7912,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://desktop-release.canva-deploy.com/Canva-1.48.0-x64.dmg",
+      "downloadURL" : "https://desktop-release.canva-deploy.com/Canva-1.49.0-x64.dmg",
       "homepage" : "https://www.canva.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-canva/AppIcon.png",
       "localizedDescription" : "Design tool",
       "name" : "Canva",
-      "sha256" : "b5c54d21b8b168fe2010f24d92b47f406b5680b9dbd5973dd3d44ec92f5cfdab",
+      "sha256" : "999f3345f222d2c3fdc2aef4726c3593e5fa966d63537f93695d4ad3c171ec86",
       "stats" : {
         "downloadCount" : 130,
         "impressionCount" : 1090
       },
       "subtitle" : "Design tool",
       "tintColor" : "3E8BDD",
-      "version" : "1.48.0",
-      "versionDate" : "2022-07-25T00:00:00Z"
+      "version" : "1.49.0",
+      "versionDate" : "2022-08-08T08:31:33Z"
     },
     {
       "beta" : false,
@@ -9836,20 +9836,20 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "downloadURL" : "https://www.mactracker.ca/downloads/Mactracker_7.11.4.zip",
+      "downloadURL" : "https://www.mactracker.ca/downloads/Mactracker_7.11.5.zip",
       "homepage" : "https://mactracker.ca/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mactracker/AppIcon.png",
       "localizedDescription" : "Detailed information on every Apple product ever made",
       "name" : "Mactracker",
-      "sha256" : "0e5d5cf40b1f1a74c33204631a0baf65b930e9c383944eb8c6519ef2079d1a05",
+      "sha256" : "75ea8c783b5bf9d986f0d3ca938f86d508adadf5762e9a3f0aa7c9b3f4ad1af9",
       "stats" : {
         "downloadCount" : 78,
-        "impressionCount" : 698
+        "impressionCount" : 699
       },
       "subtitle" : "Detailed information on every Apple product ever made",
       "tintColor" : "69A4CB",
-      "version" : "7.11.4",
-      "versionDate" : "2022-07-18T00:00:00Z"
+      "version" : "7.11.5",
+      "versionDate" : "2022-08-08T08:31:33Z"
     },
     {
       "beta" : false,
@@ -12610,7 +12610,7 @@
       "subtitle" : "PVR for Usenet and BitTorrent users",
       "tintColor" : "9FB6C0",
       "version" : "3.0.9.1549",
-      "versionDate" : "2022-08-08T07:19:58Z"
+      "versionDate" : "2022-08-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53487,19 +53487,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/schismtracker/schismtracker/releases/download/20220506/schismtracker-20220506-macos.zip",
+      "downloadURL" : "https://github.com/schismtracker/schismtracker/releases/download/20220807/schismtracker-20220807-macos.zip",
       "homepage" : "https://github.com/schismtracker/schismtracker",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-schism-tracker/AppIcon.png",
       "localizedDescription" : "Oldschool sample-based music composition tool",
       "name" : "Schism Tracker",
-      "sha256" : "f2265e58e5c932ec35cde29d5133dd87f45d851dc0ad4bfcb2666305455fb1d5",
+      "sha256" : "8f8e63d4d4f520b9a640246abaaea384e9b5a2466c8597bde77100beb549571c",
       "stats" : {
         "downloadCount" : 6,
         "impressionCount" : 29
       },
       "subtitle" : "Oldschool sample-based music composition tool",
       "tintColor" : "585146",
-      "version" : "20220506"
+      "version" : "20220807",
+      "versionDate" : "2022-08-08T08:31:33Z"
     },
     {
       "beta" : false,
@@ -68307,16 +68308,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/ibmruntimes/semeru18-binaries/releases/download/jdk-18.0.1.1+2_openj9-0.32.0/ibm-semeru-open-jdk_x64_mac_18.0.1.1_2_openj9-0.32.0.pkg",
+      "downloadURL" : "https://github.com/ibmruntimes/semeru18-binaries/releases/download/jdk-18.0.2+9_openj9-0.33.0/ibm-semeru-open-jdk_x64_mac_18.0.2_9_openj9-0.33.0.pkg",
       "homepage" : "https://developer.ibm.com/languages/java/semeru-runtimes",
       "localizedDescription" : "Production-ready JDK with the OpenJDK class libraries and the Eclipse OpenJ9 JVM",
       "name" : "IBM Semeru Runtime (JDK) Open Edition",
-      "sha256" : "ff63b5e7e97f1e55eb0d1cdedd9d36fff4d5e4869f916a24d1c5855ab16bd086",
+      "sha256" : "96b3b66ef8dacfe555f6fc5b4003d1d225a2f7aaa7bb420a07fce24f87fa9536",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Production-ready JDK with the OpenJDK class libraries and the Eclipse OpenJ9 JVM",
-      "version" : "18.0.1.1+2,openj9-0.32.0"
+      "version" : "18.0.2+9,openj9-0.33.0",
+      "versionDate" : "2022-08-08T08:31:33Z"
     },
     {
       "beta" : false,
@@ -73427,34 +73429,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "volley",
-      "caption" : "Volley 1.0.72 released",
-      "date" : "2022-08-05T03:49:26Z",
-      "identifier" : "release-volley-1.0.72",
-      "title" : "New Release: Volley 1.0.72"
-    },
-    {
-      "appID" : "microsoft-openjdk",
-      "caption" : "Microsoft Build of OpenJDK updated from 17.0.3 to 17.0.4",
-      "date" : "2022-08-05T09:22:33Z",
-      "identifier" : "release-microsoft-openjdk-17.0.4",
-      "title" : "New Release: Microsoft Build of OpenJDK 17.0.4"
-    },
-    {
-      "appID" : "surge-xt",
-      "caption" : "Surge XT updated from 1.0.1 to 1.1.0",
-      "date" : "2022-08-05T09:22:34Z",
-      "identifier" : "release-surge-xt-1.1.0",
-      "title" : "New Release: Surge XT 1.1.0"
-    },
-    {
-      "appID" : "whatsapp",
-      "caption" : "WhatsApp updated from 2.2226.5 to 2.2228.12",
-      "date" : "2022-08-05T13:46:24Z",
-      "identifier" : "release-whatsapp-2.2228.12",
-      "title" : "New Release: WhatsApp 2.2228.12"
-    },
-    {
       "appID" : "vscodium",
       "caption" : "VSCodium updated from 1.69.2 to 1.70.0",
       "date" : "2022-08-05T13:46:25Z",
@@ -74125,6 +74099,34 @@
       "date" : "2022-08-08T07:19:59Z",
       "identifier" : "release-sonarr-3.0.9.1549",
       "title" : "New Release: Sonarr 3.0.9.1549"
+    },
+    {
+      "appID" : "canva",
+      "caption" : "Canva updated from 1.48.0 to 1.49.0",
+      "date" : "2022-08-08T08:31:34Z",
+      "identifier" : "release-canva-1.49.0",
+      "title" : "New Release: Canva 1.49.0"
+    },
+    {
+      "appID" : "mactracker",
+      "caption" : "Mactracker updated from 7.11.4 to 7.11.5",
+      "date" : "2022-08-08T08:31:34Z",
+      "identifier" : "release-mactracker-7.11.5",
+      "title" : "New Release: Mactracker 7.11.5"
+    },
+    {
+      "appID" : "schism-tracker",
+      "caption" : "Schism Tracker updated from 20220506 to 20220807",
+      "date" : "2022-08-08T08:31:34Z",
+      "identifier" : "release-schism-tracker-20220807",
+      "title" : "New Release: Schism Tracker 20220807"
+    },
+    {
+      "appID" : "semeru-jdk-open",
+      "caption" : "IBM Semeru Runtime (JDK) Open Edition updated from 18.0.1.1+2,openj9-0.32.0 to 18.0.2+9,openj9-0.33.0",
+      "date" : "2022-08-08T08:31:34Z",
+      "identifier" : "release-semeru-jdk-open-18.0.2+9,openj9-0.33.0",
+      "title" : "New Release: IBM Semeru Runtime (JDK) Open Edition 18.0.2+9,openj9-0.33.0"
     }
   ],
   "platform" : "macos",

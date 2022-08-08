@@ -62,8 +62,8 @@
       "size" : 9607172,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 121,
-        "impressionCount" : 139,
+        "downloadCount" : 123,
+        "impressionCount" : 141,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 6,
@@ -110,7 +110,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 62,
-        "impressionCount" : 1774,
+        "impressionCount" : 1775,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 123,
@@ -153,10 +153,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 51,
-        "impressionCount" : 1587,
+        "impressionCount" : 1588,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 133,
+        "viewCount" : 134,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -200,7 +200,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 51,
-        "impressionCount" : 1313,
+        "impressionCount" : 1314,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 96,
@@ -252,10 +252,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 3959,
+        "impressionCount" : 3960,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 640,
+        "viewCount" : 641,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -297,10 +297,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2443,
+        "impressionCount" : 2444,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 168,
+        "viewCount" : 169,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -346,10 +346,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1121,
+        "impressionCount" : 1122,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 68,
+        "viewCount" : 69,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -388,7 +388,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 21,
-        "impressionCount" : 2910,
+        "impressionCount" : 2911,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 510,
@@ -510,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 3982,
+        "impressionCount" : 3983,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 531,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2300,
+        "impressionCount" : 2301,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 134,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2231,
+        "impressionCount" : 2232,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 114,

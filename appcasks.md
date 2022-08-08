@@ -117,7 +117,7 @@ tr:nth-child(even) {
 | [``Paw``](https://paw.cloud/) | ``3.3.6,3003006001`` | `269` |  |  | `1862` | `116` |  | `0` | `public.app-category.developer-tools` |
 | [``NetNewsWire``](https://netnewswire.com/) | ``6.1`` | `260` |  |  | `1874` | `138` |  | `0` | `public.app-category.news` |
 | [``Hazel``](https://www.noodlesoft.com/) | ``5.1.4`` | `246` | `2022-07-17T00:00:00Z` |  | `1818` | `136` |  | `0` | `public.app-category.utilities` |
-| [``League of Legends``](https://na.leagueoflegends.com/en-us/) | ``1.0`` | `195` |  |  | `286` | `19` |  | `0` | `public.app-category.games` |
+| [``League of Legends``](https://na.leagueoflegends.com/en-us/) | ``1.0`` | `195` |  |  | `287` | `19` |  | `0` | `public.app-category.games` |
 | [``Geany``](https://www.geany.org/) | ``1.38,4`` | `166` |  |  | `1511` | `106` |  | `0` | `public.app-category.developer-tools` |
 | [``OmniFocus``](https://www.omnigroup.com/omnifocus/) | ``3.13.1`` | `159` | `2022-07-29T00:00:00Z` |  | `1458` | `86` |  | `0` | `public.app-category.productivity` |
 | [``Keyboard Maestro``](https://www.keyboardmaestro.com/main/) | ``10.1.1,1011`` | `154` |  |  | `1441` | `67` |  | `0` | `public.app-category.productivity` |

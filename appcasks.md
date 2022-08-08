@@ -437,7 +437,7 @@ tr:nth-child(even) {
 | [``Hackintool``](https://github.com/headkaze/Hackintool) | ``3.8.7`` | `94` |  |  | `413` |  |  | `0` | `public.app-category.productivity` |
 | [``MacZip``](https://ezip.awehunt.com/) | ``2.3`` | `94` |  |  | `239` |  |  | `0` | `public.app-category.utilities` |
 | [``Logisim Evolution``](https://github.com/reds-heig/logisim-evolution) | ``3.7.2`` | `93` |  |  | `794` |  |  | `0` | `public.app-category.education` |
-| [``Jellyfin``](https://jellyfin.org/) | ``10.8.3`` | `92` | `2022-08-03T00:00:00Z` |  | `914` |  |  | `0` | `public.app-category.entertainment` |
+| [``Jellyfin``](https://jellyfin.org/) | ``10.8.3`` | `92` | `2022-08-03T00:00:00Z` |  | `916` |  |  | `0` | `public.app-category.entertainment` |
 | [``Clash for Windows``](https://github.com/Fndroid/clash_for_windows_pkg) | ``0.19.26`` | `91` | `2022-08-07T00:00:00Z` |  | `468` |  |  | `0` | `public.app-category.developer-tools` |
 | [``SuperDuper!``](https://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) | ``3.6.2,125`` | `91` |  |  | `276` |  |  | `0` | `public.app-category.utilities` |
 | [``EasyFind``](https://www.devontechnologies.com/apps/freeware) | ``5.0.2`` | `90` |  |  | `406` |  |  | `0` | `public.app-category.utilities` |
@@ -1416,7 +1416,7 @@ tr:nth-child(even) {
 | [``Yam Display``](https://www.yamdisplay.com/) | ``2.4`` | `6` | `2022-08-06T00:00:00Z` |  | `144` |  |  | `0` | `public.app-category.productivity` |
 | [``Waterfox Classic``](https://classic.waterfox.net/) | ``2022.08`` | `6` | `2022-08-03T00:00:00Z` |  | `153` |  |  | `0` | `public.app-category.productivity` |
 | [``WAIL``](https://github.com/machawk1/wail) | ``0.2019.05.21`` | `6` |  |  | `95` |  |  | `0` | `public.app-category.utilities` |
-| [``Hepta``](https://heptabase.com/) | ``0.183.0`` | `6` | `2022-08-03T00:00:00Z` |  | `330` |  |  | `0` | `public.app-category.productivity` |
+| [``Hepta``](https://heptabase.com/) | ``0.183.0`` | `6` | `2022-08-03T00:00:00Z` |  | `331` |  |  | `0` | `public.app-category.productivity` |
 | [``AirUnlock``](https://github.com/pinetum/AirUnlock-for-Mac) | ``0.4`` | `5` |  |  | `483` |  |  | `0` | `public.app-category.utilities` |
 | [``Alternote``](https://alternoteapp.com/) | ``1.0.18,1018`` | `5` |  |  | `495` |  |  | `0` | `public.app-category.productivity` |
 | [``Astropad Studio``](https://astropad.com/) | ``5.0.0,4220`` | `5` |  |  | `692` |  |  | `0` | `public.app-category.graphics-design` |

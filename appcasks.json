@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28262,
-        "impressionCount" : 7213,
+        "impressionCount" : 7214,
         "viewCount" : 599
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -323,7 +323,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1864,
-        "impressionCount" : 6240,
+        "impressionCount" : 6241,
         "viewCount" : 397
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -801,7 +801,7 @@
       "sha256" : "cbf2f6c4bd600628fb908a73a648be177739f1fde11b27759105d503b039b35f",
       "stats" : {
         "downloadCount" : 7927,
-        "impressionCount" : 2212,
+        "impressionCount" : 2213,
         "viewCount" : 171
       },
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
@@ -915,7 +915,7 @@
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
       "version" : "2.7.29",
-      "versionDate" : "2022-08-08T03:24:27Z"
+      "versionDate" : "2022-08-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1160,7 +1160,7 @@
       "sha256" : "b7c4011bcbd374c25e27148b452dbc2b0b72846bd993ffe6ac0ba922c2b5612f",
       "stats" : {
         "downloadCount" : 2624,
-        "impressionCount" : 2052,
+        "impressionCount" : 2053,
         "viewCount" : 181
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1441,7 +1441,7 @@
       "sha256" : "8117d5d864358c9f626ce574d07d2f121ad96fc96a535cc3fddaba3c74bd3279",
       "stats" : {
         "downloadCount" : 2191,
-        "impressionCount" : 2030,
+        "impressionCount" : 2031,
         "viewCount" : 115
       },
       "subtitle" : "Vector graphics editor",
@@ -1847,7 +1847,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 856,
-        "impressionCount" : 2954,
+        "impressionCount" : 2955,
         "viewCount" : 267
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -2342,7 +2342,7 @@
       "sha256" : "9168fc1f7a340bdefb8e8669313d7f9669c13d5f5504d7df116944dbbb8f7f69",
       "stats" : {
         "downloadCount" : 260,
-        "impressionCount" : 1867,
+        "impressionCount" : 1868,
         "viewCount" : 138
       },
       "subtitle" : "Free and open-source RSS reader",
@@ -3269,7 +3269,7 @@
       "sha256" : "5694a09c18dcbe4c5e67c69720d32cf2fa6ddf8a3481a6e7e722868972a52ae1",
       "stats" : {
         "downloadCount" : 2997,
-        "impressionCount" : 998
+        "impressionCount" : 999
       },
       "subtitle" : "Knowledge base that works on top of a local folder of plain text Markdown files",
       "tintColor" : "CBC6E5",
@@ -3290,7 +3290,7 @@
       "sha256" : "b50c416828005e1eec0dc8066c961efcc389e6be1a5a595541ea62d48d31a391",
       "stats" : {
         "downloadCount" : 2832,
-        "impressionCount" : 1094
+        "impressionCount" : 1095
       },
       "subtitle" : "Free and open-source media player",
       "tintColor" : "29445A",
@@ -3901,7 +3901,7 @@
       "sha256" : "1bfd6b85e8180d33bc6ba19620b5c6f083536d749bbd84c66d0a47f93459ee17",
       "stats" : {
         "downloadCount" : 1077,
-        "impressionCount" : 744
+        "impressionCount" : 745
       },
       "subtitle" : "Tool to list all active shortcuts of the current application",
       "tintColor" : "A6A6A6",
@@ -4196,7 +4196,7 @@
       "sha256" : "5ff8bb9022c090457e1a85a8728e8d3cc9216e3d9122af4afe113c392e77cbd8",
       "stats" : {
         "downloadCount" : 830,
-        "impressionCount" : 456
+        "impressionCount" : 457
       },
       "subtitle" : "Smooths scrolling and set mouse scroll directions independently",
       "tintColor" : "282B4A",
@@ -4411,7 +4411,7 @@
       "name" : "WeChat for Mac",
       "stats" : {
         "downloadCount" : 703,
-        "impressionCount" : 496
+        "impressionCount" : 497
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
@@ -4799,7 +4799,7 @@
       "sha256" : "40738824e0fbebaa9ea31c901e157a98738b403df346b73677f8b2ef2201238a",
       "stats" : {
         "downloadCount" : 593,
-        "impressionCount" : 1382
+        "impressionCount" : 1383
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -5334,7 +5334,7 @@
       "sha256" : "09b036f1e934472d55a0417e2a3ce736559caf81a38537c94ab2c6331f258851",
       "stats" : {
         "downloadCount" : 417,
-        "impressionCount" : 1207
+        "impressionCount" : 1208
       },
       "subtitle" : "Status monitoring",
       "tintColor" : "454545",
@@ -6223,7 +6223,7 @@
       "sha256" : "095ea0379fa5ec07381c0b7c9c745bbaed297c7c83a0020c7baafecfb76265e5",
       "stats" : {
         "downloadCount" : 259,
-        "impressionCount" : 657
+        "impressionCount" : 658
       },
       "subtitle" : "Rule-based custom proxy with GUI based on clash",
       "tintColor" : "4F9FF1",
@@ -6425,7 +6425,7 @@
       "name" : "QQ音乐",
       "stats" : {
         "downloadCount" : 230,
-        "impressionCount" : 602
+        "impressionCount" : 603
       },
       "subtitle" : "Chinese music streaming application",
       "tintColor" : "DFEB98",
@@ -6838,7 +6838,7 @@
       "sha256" : "07532c3458c446e1081caa8e087edeb4a089a4d43e47463a665995f35ba08652",
       "stats" : {
         "downloadCount" : 191,
-        "impressionCount" : 664
+        "impressionCount" : 665
       },
       "subtitle" : "Productivity app",
       "tintColor" : "909EE2",
@@ -8164,7 +8164,7 @@
       "sha256" : "0e2909d80d35e33120162b3270dbe639eadb0d2aa8f2f811009ed6076d838637",
       "stats" : {
         "downloadCount" : 120,
-        "impressionCount" : 285
+        "impressionCount" : 286
       },
       "subtitle" : "Mouse utility to add gesture functions and smooth scrolling to 3rd party mice",
       "tintColor" : "B3D3EB",
@@ -10925,7 +10925,7 @@
       "name" : "Mathpix Snipping Tool",
       "stats" : {
         "downloadCount" : 64,
-        "impressionCount" : 292
+        "impressionCount" : 293
       },
       "subtitle" : "Scanner app for math and science",
       "tintColor" : "52A2F8",
@@ -17243,7 +17243,7 @@
       "sha256" : "d8d76bc7c9e1254f61f47fefe865d631a2f98dfe897b079187ab2294b2496c0e",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 204
+        "impressionCount" : 205
       },
       "subtitle" : "Read, annotate and manage ePub books",
       "tintColor" : "93CBF2",
@@ -18165,7 +18165,7 @@
       "name" : "NetEase Mail Master",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 243
+        "impressionCount" : 244
       },
       "subtitle" : "Email client",
       "tintColor" : "FB5151",
@@ -31579,7 +31579,7 @@
       "name" : "Recents",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 150
+        "impressionCount" : 151
       },
       "subtitle" : "File launcher",
       "tintColor" : "74BEF2",
@@ -40201,7 +40201,7 @@
       "sha256" : "a6c5188b9648e25669a1e052a724125d1887270fb813d4451879f10585c63405",
       "stats" : {
         "downloadCount" : 832,
-        "impressionCount" : 51
+        "impressionCount" : 52
       },
       "subtitle" : "Calculator and converter application",
       "tintColor" : "FFE5E6",
@@ -44572,7 +44572,7 @@
       "sha256" : "91deabd5844968467b5b6b3423e12654d4e339ba309f333c25d991a2e689fd96",
       "stats" : {
         "downloadCount" : 53,
-        "impressionCount" : 55
+        "impressionCount" : 56
       },
       "subtitle" : "Time tracker",
       "tintColor" : "BABABA",

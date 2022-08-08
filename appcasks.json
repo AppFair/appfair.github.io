@@ -6051,19 +6051,20 @@
       "categories" : [
         "public.app-category.healthcare-fitness"
       ],
-      "downloadURL" : "https://github.com/hovancik/stretchly/releases/download/v1.10.0/stretchly-1.10.0.dmg",
+      "downloadURL" : "https://github.com/hovancik/stretchly/releases/download/v1.11.0/stretchly-1.11.0.dmg",
       "homepage" : "https://hovancik.net/stretchly/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stretchly/AppIcon.png",
       "localizedDescription" : "Break time reminder app",
       "name" : "Stretchly",
-      "sha256" : "d5bff265d0d3142af98629b648ec4d39d4058aaad4d55a8f4780f1682ce1a471",
+      "sha256" : "06afceb398eb479d9221333f6f1c5218844565343e653dd9a01b874c0cd13bb7",
       "stats" : {
         "downloadCount" : 275,
         "impressionCount" : 709
       },
       "subtitle" : "Break time reminder app",
       "tintColor" : "6C0F00",
-      "version" : "1.10.0"
+      "version" : "1.11.0",
+      "versionDate" : "2022-08-08T07:19:58Z"
     },
     {
       "beta" : false,
@@ -12596,19 +12597,20 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://download.sonarr.tv/v3/main/3.0.8.1507/Sonarr.main.3.0.8.1507.macos.zip",
+      "downloadURL" : "https://download.sonarr.tv/v3/main/3.0.9.1549/Sonarr.main.3.0.9.1549.macos.zip",
       "homepage" : "https://sonarr.tv/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonarr/AppIcon.png",
       "localizedDescription" : "PVR for Usenet and BitTorrent users",
       "name" : "Sonarr",
-      "sha256" : "bc85825983df6f0e58d551fa8a9c9716ed5d8f550328e84d4936182fb6230748",
+      "sha256" : "599b9e2fe8079bb4bc504aae2597c8f04e651c85e2eb7eb2af8aa90d30ee4781",
       "stats" : {
         "downloadCount" : 47,
         "impressionCount" : 814
       },
       "subtitle" : "PVR for Usenet and BitTorrent users",
       "tintColor" : "9FB6C0",
-      "version" : "3.0.8.1507"
+      "version" : "3.0.9.1549",
+      "versionDate" : "2022-08-08T07:19:58Z"
     },
     {
       "beta" : false,
@@ -73425,20 +73427,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "pdfshaver",
-      "caption" : "PDFShaver 1.0 released",
-      "date" : "2022-08-05T03:49:26Z",
-      "identifier" : "release-pdfshaver-1.0",
-      "title" : "New Release: PDFShaver 1.0"
-    },
-    {
-      "appID" : "supermjograph",
-      "caption" : "SuperMjograph 0.17.1 released",
-      "date" : "2022-08-05T03:49:26Z",
-      "identifier" : "release-supermjograph-0.17.1",
-      "title" : "New Release: SuperMjograph 0.17.1"
-    },
-    {
       "appID" : "volley",
       "caption" : "Volley 1.0.72 released",
       "date" : "2022-08-05T03:49:26Z",
@@ -74123,6 +74111,20 @@
       "date" : "2022-08-08T03:24:28Z",
       "identifier" : "release-stats-2.7.29",
       "title" : "New Release: Stats 2.7.29"
+    },
+    {
+      "appID" : "stretchly",
+      "caption" : "Stretchly updated from 1.10.0 to 1.11.0",
+      "date" : "2022-08-08T07:19:58Z",
+      "identifier" : "release-stretchly-1.11.0",
+      "title" : "New Release: Stretchly 1.11.0"
+    },
+    {
+      "appID" : "sonarr",
+      "caption" : "Sonarr updated from 3.0.8.1507 to 3.0.9.1549",
+      "date" : "2022-08-08T07:19:59Z",
+      "identifier" : "release-sonarr-3.0.9.1549",
+      "title" : "New Release: Sonarr 3.0.9.1549"
     }
   ],
   "platform" : "macos",

@@ -25,7 +25,7 @@ tr:nth-child(even) {
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `66` | `2022-07-22T00:00:00Z` | `17.6 MB` | `1778` | `124` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `64` | `2022-07-29T00:00:00Z` | `8.5 MB` | `1316` | `97` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `57` | `2022-07-29T00:00:00Z` | `5.5 MB` | `1590` | `135` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.142`` | `57` | `2022-07-29T00:00:00Z` | `5.5 MB` | `1597` | `135` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `47` | `2022-07-29T00:00:00Z` | `5.5 MB` | `1124` | `70` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `37` | `2022-07-20T00:00:00Z` | `5.4 MB` | `2446` | `170` | `0` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `21` | `2022-07-20T00:00:00Z` | `12 MB` | `2303` | `135` | `0` | `0` |  |

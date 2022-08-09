@@ -3720,7 +3720,7 @@ tr:nth-child(even) {
 | [``AutoVolume``](https://github.com/jesse-c/AutoVolume) | ``1.0.1`` | `1` | `2022-08-05T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Billings Pro``](https://www.marketcircle.com/billingspro/) | ``1.7.18,37803`` | `1` |  |  |  |  |  | `0` |  |
 | [``Boxer``](http://boxerapp.com/) | ``1.4.0`` | `1` | `2022-07-29T00:00:00Z` |  |  |  |  | `0` |  |
-| [``BTCPayServer Vault``](https://github.com/btcpayserver/BTCPayServer.Vault) | ``2.0.5`` | `1` | `2022-08-09T01:12:55Z` |  |  |  |  | `0` |  |
+| [``BTCPayServer Vault``](https://github.com/btcpayserver/BTCPayServer.Vault) | ``2.0.5`` | `1` | `2022-08-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``CashNotify``](https://cashnotify.com/) | ``3.6.2`` | `1` | `2022-07-12T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ChronoAgent``](https://www.econtechnologies.com/) | ``2.1.0`` | `1` |  |  |  |  |  | `0` |  |
 | [``CLIX``](https://rixstep.com/4/0/clix/) | ``2.4.0.0`` | `1` |  |  |  |  |  | `0` |  |
@@ -3754,7 +3754,7 @@ tr:nth-child(even) {
 | [``ManicTime``](https://www.manictime.com/Mac) | ``2.3.0`` | `1` | `2022-07-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Markdown Spotlight Plugi``](https://brettterpstra.com/2011/10/18/fixing-spotlight-indexing-of-markdown-content/) | ``latest`` | `1` |  |  |  |  |  | `0` |  |
 | [``MegaZeux``](https://www.digitalmzx.com/) | ``2.92f`` | `1` | `2022-08-08T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Agisoft Metashape Profes…``](https://www.agisoft.com/) | ``1.8.4`` | `1` | `2022-08-09T01:12:55Z` |  |  |  |  | `0` |  |
+| [``Agisoft Metashape Profes…``](https://www.agisoft.com/) | ``1.8.4`` | `1` | `2022-08-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Midi View``](https://hautetechnique.com/midi/midiview/) | ``1.2.0`` | `1` |  |  |  |  |  | `0` |  |
 | [``MIT App Inventor``](https://appinventor.mit.edu/explore/ai2/mac) | ``3.0rc3`` | `1` | `2022-08-05T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Moscow ML``](https://mosml.org/) | ``2.10.1`` | `1` | `2022-07-10T00:00:00Z` |  |  |  |  | `0` |  |

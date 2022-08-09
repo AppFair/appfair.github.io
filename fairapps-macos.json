@@ -2,6 +2,49 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "1171af37f76fb1194a9578cc8a04a8d861a97828879feccc38c09f636a336d93",
+      "size" : 2164762,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 62,
+        "impressionCount" : 1655,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 136,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.142",
+      "versionDate" : "2022-07-29T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.141...0.9.142"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
 
@@ -35,7 +78,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 62,
-        "impressionCount" : 1845,
+        "impressionCount" : 1846,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 125,
@@ -46,49 +89,6 @@
       "version" : "0.8.447",
       "versionDate" : "2022-07-22T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.446...0.8.447"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.142/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "1171af37f76fb1194a9578cc8a04a8d861a97828879feccc38c09f636a336d93",
-      "size" : 2164762,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 60,
-        "impressionCount" : 1654,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 136,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.142",
-      "versionDate" : "2022-07-29T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.141...0.9.142"
     },
     {
       "beta" : false,
@@ -124,8 +124,8 @@
       "size" : 3881835,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 56,
-        "impressionCount" : 1388,
+        "downloadCount" : 58,
+        "impressionCount" : 1389,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 98,
@@ -177,7 +177,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 3992,
+        "impressionCount" : 3993,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 644,
@@ -222,7 +222,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2505,
+        "impressionCount" : 2506,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 172,
@@ -233,6 +233,81 @@
       "version" : "0.0.20",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.96/App-Fair-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.96/App-Fair.png",
+      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.96/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.96/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_00-mac-dark-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_00-mac-light-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_06-mac-dark-1424x1722.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_06-mac-light-1424x1722.png"
+      ],
+      "sha256" : "8977ba765170c359a37dd2d18492e2f546fb4184fdf6ebe42e3b2e04472b3e74",
+      "size" : 9620516,
+      "stats" : {
+        "coreSize" : 170672,
+        "downloadCount" : 22,
+        "impressionCount" : 10,
+        "issueCount" : 6,
+        "starCount" : 26,
+        "viewCount" : 4,
+        "watcherCount" : 3
+      },
+      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "tintColor" : "1594E8",
+      "version" : "0.8.96",
+      "versionDate" : "2022-08-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.95...0.8.96"
     },
     {
       "beta" : false,
@@ -271,7 +346,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1158,
+        "impressionCount" : 1159,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 70,
@@ -313,7 +388,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 2933,
+        "impressionCount" : 2934,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 512,
@@ -435,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4037,
+        "impressionCount" : 4038,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 532,
@@ -445,81 +520,6 @@
       "version" : "0.0.42",
       "versionDate" : "2022-05-26T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.96/App-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.96/App-Fair.png",
-      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.96/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.executable",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.server",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.96/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_00-mac-dark-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_00-mac-light-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_06-mac-dark-1424x1722.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.96/screenshot_06-mac-light-1424x1722.png"
-      ],
-      "sha256" : "8977ba765170c359a37dd2d18492e2f546fb4184fdf6ebe42e3b2e04472b3e74",
-      "size" : 9620516,
-      "stats" : {
-        "coreSize" : 170672,
-        "downloadCount" : 15,
-        "impressionCount" : 9,
-        "issueCount" : 6,
-        "starCount" : 26,
-        "viewCount" : 4,
-        "watcherCount" : 3
-      },
-      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "tintColor" : "1594E8",
-      "version" : "0.8.96",
-      "versionDate" : "2022-08-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.95...0.8.96"
     },
     {
       "beta" : true,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2355,
+        "impressionCount" : 2356,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 135,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2306,
+        "impressionCount" : 2307,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 115,

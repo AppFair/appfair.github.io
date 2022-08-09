@@ -139,58 +139,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Blunder-Busq",
-      "categories" : [
-
-      ],
-      "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
-      "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
-      "name" : "Blunder Busq",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download apps"
-        },
-        {
-          "type" : "device.usb",
-          "usageDescription" : "This app needs to access USB connections to devices"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected IPAs"
-        }
-      ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/README.md#3f5af5ae690752c4cdb38f3c2620a4c99e60f17d144edcec5a1f8ae1c5a34ba8",
-      "screenshotURLs" : [
-        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-dark-2560x1884.png",
-        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-light-2560x1884.png"
-      ],
-      "sha256" : "4ec4bc454a71f12fa9abe0dd5ab3ec44d3d9fd2babd2e1c8fad514c1af907100",
-      "size" : 4506286,
-      "stats" : {
-        "coreSize" : 170576,
-        "downloadCount" : 35,
-        "impressionCount" : 4000,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 644,
-        "watcherCount" : 1
-      },
-      "subtitle" : "App for managing iOS devices",
-      "tintColor" : "587FE3",
-      "version" : "0.1.7",
-      "versionDate" : "2022-05-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
 
@@ -251,7 +199,7 @@
       "size" : 9620516,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 33,
+        "downloadCount" : 36,
         "impressionCount" : 20,
         "issueCount" : 6,
         "starCount" : 26,
@@ -263,6 +211,58 @@
       "version" : "0.8.96",
       "versionDate" : "2022-08-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.95...0.8.96"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Blunder-Busq",
+      "categories" : [
+
+      ],
+      "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://www.blunderbusq.app",
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
+      "localizedDescription" : "App for managing iOS devices",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
+      "name" : "Blunder Busq",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download apps"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This app needs to access USB connections to devices"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected IPAs"
+        }
+      ],
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/README.md#3f5af5ae690752c4cdb38f3c2620a4c99e60f17d144edcec5a1f8ae1c5a34ba8",
+      "screenshotURLs" : [
+        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-dark-2560x1884.png",
+        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-light-2560x1884.png"
+      ],
+      "sha256" : "4ec4bc454a71f12fa9abe0dd5ab3ec44d3d9fd2babd2e1c8fad514c1af907100",
+      "size" : 4506286,
+      "stats" : {
+        "coreSize" : 170576,
+        "downloadCount" : 35,
+        "impressionCount" : 4000,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 644,
+        "watcherCount" : 1
+      },
+      "subtitle" : "App for managing iOS devices",
+      "tintColor" : "587FE3",
+      "version" : "0.1.7",
+      "versionDate" : "2022-05-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
     },
     {
       "beta" : false,

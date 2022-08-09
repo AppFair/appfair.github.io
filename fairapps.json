@@ -31,10 +31,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 63,
-        "impressionCount" : 1662,
+        "impressionCount" : 1666,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 136,
+        "viewCount" : 137,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -78,10 +78,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 62,
-        "impressionCount" : 1853,
+        "impressionCount" : 1857,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 126,
+        "viewCount" : 127,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -125,10 +125,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 59,
-        "impressionCount" : 1396,
+        "impressionCount" : 1400,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 98,
+        "viewCount" : 99,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -177,7 +177,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 3997,
+        "impressionCount" : 4000,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 644,
@@ -251,8 +251,8 @@
       "size" : 9620516,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 30,
-        "impressionCount" : 18,
+        "downloadCount" : 33,
+        "impressionCount" : 20,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 6,
@@ -297,10 +297,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2513,
+        "impressionCount" : 2517,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 172,
+        "viewCount" : 173,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -346,7 +346,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1166,
+        "impressionCount" : 1169,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 70,
@@ -388,10 +388,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 2938,
+        "impressionCount" : 2941,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 512,
+        "viewCount" : 513,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -510,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4042,
+        "impressionCount" : 4045,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 532,
@@ -1213,10 +1213,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2363,
+        "impressionCount" : 2367,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 135,
+        "viewCount" : 136,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2314,
+        "impressionCount" : 2318,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 116,

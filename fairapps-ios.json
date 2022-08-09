@@ -37,11 +37,11 @@
       "size" : 8491944,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 75,
-        "impressionCount" : 1403,
+        "downloadCount" : 80,
+        "impressionCount" : 1410,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 99,
+        "viewCount" : 102,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -78,11 +78,11 @@
       "size" : 5509778,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 68,
-        "impressionCount" : 1669,
+        "downloadCount" : 73,
+        "impressionCount" : 1674,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 137,
+        "viewCount" : 139,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -123,10 +123,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 66,
-        "impressionCount" : 1860,
+        "impressionCount" : 1865,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 127,
+        "viewCount" : 129,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -167,7 +167,7 @@
       "size" : 5482239,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 57,
+        "downloadCount" : 62,
         "impressionCount" : 1172,
         "issueCount" : 0,
         "starCount" : 1,
@@ -211,10 +211,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2520,
+        "impressionCount" : 2524,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 173,
+        "viewCount" : 174,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -255,10 +255,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 2370,
+        "impressionCount" : 2375,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 136,
+        "viewCount" : 137,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -498,7 +498,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2321,
+        "impressionCount" : 2326,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 116,
@@ -754,10 +754,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4048,
+        "impressionCount" : 4055,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 532,
+        "viewCount" : 533,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",

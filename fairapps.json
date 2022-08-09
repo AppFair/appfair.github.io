@@ -31,7 +31,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 63,
-        "impressionCount" : 1658,
+        "impressionCount" : 1662,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 136,
@@ -78,7 +78,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 62,
-        "impressionCount" : 1849,
+        "impressionCount" : 1853,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 126,
@@ -125,7 +125,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 59,
-        "impressionCount" : 1392,
+        "impressionCount" : 1396,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 98,
@@ -177,7 +177,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 3994,
+        "impressionCount" : 3997,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 644,
@@ -251,8 +251,8 @@
       "size" : 9620516,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 28,
-        "impressionCount" : 14,
+        "downloadCount" : 30,
+        "impressionCount" : 18,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 6,
@@ -297,7 +297,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2509,
+        "impressionCount" : 2513,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 172,
@@ -346,7 +346,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1162,
+        "impressionCount" : 1166,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 70,
@@ -388,7 +388,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 2935,
+        "impressionCount" : 2938,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 512,
@@ -510,7 +510,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4039,
+        "impressionCount" : 4042,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 532,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2359,
+        "impressionCount" : 2363,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 135,
@@ -1463,10 +1463,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2310,
+        "impressionCount" : 2314,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 115,
+        "viewCount" : 116,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",

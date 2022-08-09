@@ -35,7 +35,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 68,
-        "impressionCount" : 1414,
+        "impressionCount" : 1417,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 102,
@@ -82,7 +82,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 62,
-        "impressionCount" : 1869,
+        "impressionCount" : 1872,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 129,
@@ -134,7 +134,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 4010,
+        "impressionCount" : 4013,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 646,
@@ -179,7 +179,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2528,
+        "impressionCount" : 2531,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 174,
@@ -228,7 +228,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1176,
+        "impressionCount" : 1179,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 70,
@@ -270,7 +270,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 2952,
+        "impressionCount" : 2955,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 514,
@@ -392,7 +392,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4059,
+        "impressionCount" : 4062,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 533,
@@ -402,45 +402,6 @@
       "version" : "0.0.42",
       "versionDate" : "2022-05-26T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Down-Town",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "localizedDescription" : "An urban street guide",
-      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Down Town",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
-      "screenshotURLs" : [
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
-      ],
-      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
-      "size" : 2338254,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 11,
-        "impressionCount" : 2141,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 135,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An urban street guide",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-25T00:00:00Z",
-      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : false,
@@ -504,8 +465,8 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 10,
-        "impressionCount" : 4,
+        "downloadCount" : 16,
+        "impressionCount" : 7,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 1,
@@ -516,6 +477,45 @@
       "version" : "0.8.97",
       "versionDate" : "2022-08-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.96...0.8.97"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Down-Town",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
+      "localizedDescription" : "An urban street guide",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Down Town",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
+      "screenshotURLs" : [
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
+      ],
+      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
+      "size" : 2338254,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 11,
+        "impressionCount" : 2141,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 135,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An urban street guide",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-25T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -977,7 +977,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 5,
-        "impressionCount" : 1,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2379,
+        "impressionCount" : 2382,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 137,
@@ -1402,6 +1402,49 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.144/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.144/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.144/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.144/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.144/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.144/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.144/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.144/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.144/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "f8afbc99721ed0de2f68b17230eb06bb46692bdd4ac61b4c1b072c23da786136",
+      "size" : 2180361,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 3,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.144",
+      "versionDate" : "2022-08-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.143...0.9.144"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "categories" : [
 
@@ -1463,7 +1506,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2330,
+        "impressionCount" : 2333,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 116,

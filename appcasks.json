@@ -6959,8 +6959,8 @@
       "name" : "Latest",
       "sha256" : "875d1482ce69676065a794b508b34275b3d99715d3ce9eb74eb025e4b6a2d71c",
       "stats" : {
-        "downloadCount" : 185,
-        "impressionCount" : 842
+        "downloadCount" : 186,
+        "impressionCount" : 843
       },
       "subtitle" : "Utility that shows the latest app updates",
       "tintColor" : "C5E9F0",
@@ -59420,7 +59420,7 @@
       },
       "subtitle" : "View, print, and comment on PDF documents",
       "version" : "22.002.20191",
-      "versionDate" : "2022-08-09T13:52:47Z"
+      "versionDate" : "2022-08-09T00:00:00Z"
     },
     {
       "beta" : false,

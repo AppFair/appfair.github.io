@@ -38,10 +38,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 92,
-        "impressionCount" : 1435,
+        "impressionCount" : 1441,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 103,
+        "viewCount" : 105,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -83,10 +83,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 69,
-        "impressionCount" : 1197,
+        "impressionCount" : 1202,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 72,
+        "viewCount" : 73,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -127,10 +127,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 66,
-        "impressionCount" : 1891,
+        "impressionCount" : 1897,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 131,
+        "viewCount" : 132,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -170,10 +170,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2550,
+        "impressionCount" : 2556,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 176,
+        "viewCount" : 177,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -214,10 +214,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 2400,
+        "impressionCount" : 2406,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 139,
+        "viewCount" : 140,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -457,7 +457,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2351,
+        "impressionCount" : 2357,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 118,
@@ -748,7 +748,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4079,
+        "impressionCount" : 4085,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 535,
@@ -1090,10 +1090,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 2,
+        "impressionCount" : 8,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",

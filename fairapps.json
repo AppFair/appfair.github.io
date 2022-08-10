@@ -62,11 +62,11 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 122,
-        "impressionCount" : 40,
+        "downloadCount" : 123,
+        "impressionCount" : 41,
         "issueCount" : 6,
         "starCount" : 26,
-        "viewCount" : 5,
+        "viewCount" : 6,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -110,10 +110,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 77,
-        "impressionCount" : 1455,
+        "impressionCount" : 1457,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 109,
+        "viewCount" : 110,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -157,7 +157,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 63,
-        "impressionCount" : 1912,
+        "impressionCount" : 1914,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 135,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 4047,
+        "impressionCount" : 4049,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 652,
@@ -254,7 +254,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2570,
+        "impressionCount" : 2572,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 179,
@@ -303,7 +303,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1216,
+        "impressionCount" : 1218,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 76,
@@ -345,7 +345,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 2990,
+        "impressionCount" : 2992,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 519,
@@ -467,7 +467,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4098,
+        "impressionCount" : 4100,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 536,
@@ -1170,10 +1170,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2420,
+        "impressionCount" : 2422,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 141,
+        "viewCount" : 142,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1420,7 +1420,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2371,
+        "impressionCount" : 2373,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 119,
@@ -1462,7 +1462,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 9,
+        "impressionCount" : 11,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,

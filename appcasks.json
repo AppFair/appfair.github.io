@@ -31,7 +31,7 @@
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
       "version" : "5.54.0",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -63,7 +63,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
       "version" : "103.0.2",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2015,13 +2015,13 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.50.1.3176-06a9352d/macos/Plex-1.50.1.3176-06a9352d-x86_64.zip",
+      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.51.1.3185-700af1eb/macos/Plex-1.51.1.3185-700af1eb-x86_64.zip",
       "homepage" : "https://www.plex.tv/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/AppIcon.png",
       "localizedDescription" : "Home media player",
       "name" : "Plex",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/README.md",
-      "sha256" : "c10e46d1e850bbc53d858a7d4744088f9a54c62af442e40f7370aa7f67563a05",
+      "sha256" : "f49de04d89c9c7452a9abe062eb0e3f1130244b1a5ca3b11c00b0e654ac0e769",
       "stats" : {
         "downloadCount" : 524,
         "impressionCount" : 2355,
@@ -2029,8 +2029,8 @@
       },
       "subtitle" : "Home media player",
       "tintColor" : "3C3221",
-      "version" : "1.50.1.3176,06a9352d",
-      "versionDate" : "2022-08-04T00:00:00Z"
+      "version" : "1.51.1.3185,700af1eb",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -3065,7 +3065,7 @@
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
       "version" : "1.0.60,502",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4067,7 +4067,7 @@
       "subtitle" : "Password manager",
       "tintColor" : "D55B56",
       "version" : "4.101.1,1277",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4181,7 +4181,7 @@
       "subtitle" : "Go (golang) IDE",
       "tintColor" : "47578E",
       "version" : "2022.2.1,222.3345.146",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4536,7 +4536,7 @@
       "subtitle" : "Interface for reading and syncing eBooks",
       "tintColor" : "3F6E7F",
       "version" : "1.38.65287",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6413,7 +6413,7 @@
       "subtitle" : "Spot and merge differences in text and image files or folders",
       "tintColor" : "556055",
       "version" : "3.6,2079",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10831,7 +10831,7 @@
       "subtitle" : "Tencent video streaming and sharing platform",
       "tintColor" : "84BF85",
       "version" : "2.51.1.53393",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11376,8 +11376,8 @@
       },
       "subtitle" : "Web browser",
       "tintColor" : "EACCCC",
-      "version" : "22.7.0",
-      "versionDate" : "2022-07-11T00:00:00Z"
+      "version" : "22.7.3",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -12443,7 +12443,7 @@
       "subtitle" : "Store credentials in a single place and log in on any device, even when offline",
       "tintColor" : "BFDDDE",
       "version" : "4.28.7",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12556,7 +12556,7 @@
       "subtitle" : "Switch input method per application",
       "tintColor" : "888888",
       "version" : "1.9.2",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13582,7 +13582,7 @@
       "subtitle" : "German banking and financial management software",
       "tintColor" : "639FD2",
       "version" : "2.4.15,410",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14026,7 +14026,7 @@
       "subtitle" : "Use Vim in input fields and non input fields",
       "tintColor" : "282D32",
       "version" : "31.0.3",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14067,7 +14067,7 @@
       "subtitle" : "Workflow application to improve productivity",
       "tintColor" : "B5ACA5",
       "version" : "2.4.2",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16768,19 +16768,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/edrlab/thorium-reader/releases/download/v2.0.0/Thorium-2.0.0.dmg",
+      "downloadURL" : "https://github.com/edrlab/thorium-reader/releases/download/v2.1.0/Thorium-2.1.0.dmg",
       "homepage" : "https://www.edrlab.org/software/thorium-reader/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thorium/AppIcon.png",
       "localizedDescription" : "Epub reader",
       "name" : "Thorium Reader",
-      "sha256" : "d628bd2956b2f57a610ba75b94d510f2af2d3fe8f9f621ff4922d0a1eb134193",
+      "sha256" : "924fe26c6ddb12a65c05de7573138ef10a3a482801341f5aecf39619d5d5db53",
       "stats" : {
         "downloadCount" : 26,
         "impressionCount" : 162
       },
       "subtitle" : "Epub reader",
       "tintColor" : "699FFD",
-      "version" : "2.0.0"
+      "version" : "2.1.0",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -16788,7 +16789,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/zadam/trilium/releases/download/v0.53.2/trilium-mac-x64-0.53.2.zip",
+      "downloadURL" : "https://github.com/zadam/trilium/releases/download/v0.54.2/trilium-mac-x64-0.54.2.zip",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -16803,15 +16804,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-trilium-notes/AppIcon.png",
       "localizedDescription" : "Personal knowledge base",
       "name" : "Trilium Notes",
-      "sha256" : "f1b65caaa4b74ce446062d3083a8db73f7618cef03d0f9f1a0dc2efa1a6a74ff",
+      "sha256" : "1dd0f925762ddadf485c6546117f7b0e5bbb556ed95660839921cc027c8f727f",
       "stats" : {
         "downloadCount" : 26,
         "impressionCount" : 318
       },
       "subtitle" : "Personal knowledge base",
       "tintColor" : "A07E2A",
-      "version" : "0.53.2",
-      "versionDate" : "2022-07-10T00:00:00Z"
+      "version" : "0.54.2",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -18858,7 +18859,7 @@
       "subtitle" : "Your gaming PC powered by Cloud technology",
       "tintColor" : "3B4041",
       "version" : "5.0.1155.9211",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19295,20 +19296,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://s1.xmcdn.com/yx/ximalaya-pc-client/3.0.2/download/mac-x64/Ximalaya_3.0.2_1659089544_x64.dmg",
+      "downloadURL" : "https://s1.xmcdn.com/yx/ximalaya-pc-client/3.0.2/download/mac-x64/Ximalaya_3.0.2_1660040037_x64.dmg",
       "homepage" : "https://www.ximalaya.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ximalaya/AppIcon.png",
       "localizedDescription" : "Platform for podcasting and audio-sharing",
       "name" : "ximalaya",
-      "sha256" : "6efbf8717a59db6fd0d8ae886614f6aef4a25484ff06e886903d588264ab103f",
+      "sha256" : "68ee096453509fa5104cb68875d9b6e451c02c8c8e64108495c8965073222b4e",
       "stats" : {
         "downloadCount" : 19,
         "impressionCount" : 636
       },
       "subtitle" : "Platform for podcasting and audio-sharing",
       "tintColor" : "FB4D2D",
-      "version" : "3.0.2,1659089544",
-      "versionDate" : "2022-07-30T00:00:00Z"
+      "version" : "3.0.2,1660040037",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -19830,7 +19831,7 @@
       "subtitle" : "Editor to read, write and edit images metadata",
       "tintColor" : "F29245",
       "version" : "2.0.10,f2797a39-8b55-4822-95f3-db85220ea3a7",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25239,7 +25240,7 @@
       "subtitle" : "Cycling training system",
       "tintColor" : "E04D42",
       "version" : "2022.29.0.196",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27448,7 +27449,7 @@
       "subtitle" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "tintColor" : "CBA87F",
       "version" : "22.1.4,220144",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29923,7 +29924,7 @@
       "subtitle" : "Portal into the Polkadot and Substrate networks",
       "tintColor" : "FFA02D",
       "version" : "0.120.1",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33339,19 +33340,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/Tracktion/pluginval/releases/download/v0.3.0/pluginval_macOS.zip",
+      "downloadURL" : "https://github.com/Tracktion/pluginval/releases/download/v1.0.0/pluginval_macOS.zip",
       "homepage" : "https://www.tracktion.com/develop/pluginval",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pluginval/AppIcon.png",
       "localizedDescription" : "Cross-platform plugin validator and tester application",
       "name" : "pluginval",
-      "sha256" : "1678f91c1afed6857a7a7c05bb13fc2b5586a7a29b02381751aa622c0386429c",
+      "sha256" : "904c077aabedaee9feaae2cb3fb91aeff0b0078c162d7113cd29ac8677485c05",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 114
       },
       "subtitle" : "Cross-platform plugin validator and tester application",
       "tintColor" : "1E1E1E",
-      "version" : "0.3.0"
+      "version" : "1.0.0",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -33551,7 +33553,7 @@
       "subtitle" : "Messenger with powerful features for hybrid work",
       "tintColor" : "EDBBA4",
       "version" : "1.0.14,1734",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35154,7 +35156,7 @@
       "subtitle" : "PlayStation 2 emulator",
       "tintColor" : "7E80DF",
       "version" : "2022-08-07,b6c05d03",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39178,7 +39180,7 @@
       "subtitle" : "Colorize old black and white photos automatically",
       "tintColor" : "A8B0C1",
       "version" : "2.0.7,63d383ee-faf0-45c7-8628-0b3ccfb63548",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43494,7 +43496,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "3B6D9B",
       "version" : "3.16.138.22",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44389,7 +44391,7 @@
       "subtitle" : "Tools for the Mercurial distributed revision control system",
       "tintColor" : "425947",
       "version" : "6.2.1",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46498,20 +46500,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.katalon.com/8.4.0/Katalon%20Studio.dmg",
+      "downloadURL" : "https://download.katalon.com/8.4.1/Katalon%20Studio.dmg",
       "homepage" : "https://www.katalon.com/download/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-katalon-studio/AppIcon.png",
       "localizedDescription" : "Test automation solution",
       "name" : "Katalon Studio",
-      "sha256" : "9a8e3e2184f4523220ac7c0a8088bce660120e869bee9834db71072dfa008907",
+      "sha256" : "d047ea526f6d4c5d4c531953e456a9b16b760acf50f008ceb293d01cf7f22e48",
       "stats" : {
         "downloadCount" : 29,
         "impressionCount" : 82
       },
       "subtitle" : "Test automation solution",
       "tintColor" : "58AF73",
-      "version" : "8.4.0",
-      "versionDate" : "2022-07-13T00:00:00Z"
+      "version" : "8.4.1",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -49407,7 +49409,7 @@
       "subtitle" : "Professional audio software for audio recording, mixing, broadcast and others",
       "tintColor" : "955D1D",
       "version" : "1.4.6",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49570,7 +49572,7 @@
       "subtitle" : "Stenotype engine",
       "tintColor" : "739790",
       "version" : "4.0.0.dev12",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50382,7 +50384,7 @@
       "subtitle" : "Podcast client",
       "tintColor" : "E16989",
       "version" : "2.0.0",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53063,7 +53065,7 @@
       "subtitle" : "Collection of productivity tools and techniques",
       "tintColor" : "676B6E",
       "version" : "4.14",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -58990,7 +58992,7 @@
       },
       "subtitle" : "Development environment",
       "version" : "2.3.0",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59265,17 +59267,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://cache.agilebits.com/dist/1P/op2/pkg/v2.6.0/op_apple_universal_v2.6.0.pkg",
+      "downloadURL" : "https://cache.agilebits.com/dist/1P/op2/pkg/v2.6.1/op_apple_universal_v2.6.1.pkg",
       "homepage" : "https://developer.1password.com/docs/cli",
       "localizedDescription" : "Command-line helper for the 1Password password manager",
       "name" : "1Password CLI",
-      "sha256" : "60f89d45737334db83a0cd86779744b020f1c28b01245292ce3a0fd123e4419b",
+      "sha256" : "67c30aa7d7d006cbe0d67434412ae7315d01c72e8b9a7c076f9588ae11a3c6ff",
       "stats" : {
         "downloadCount" : 3111
       },
       "subtitle" : "Command-line helper for the 1Password password manager",
-      "version" : "2.6.0",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "2.6.1",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -60678,7 +60680,7 @@
       },
       "subtitle" : "Strongdm client",
       "version" : "15.57.0,2EE548135F1FC9C9B13808A8522304251FD4D571",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60842,7 +60844,7 @@
       },
       "subtitle" : "Desktop virtualization development kit",
       "version" : "18.0.0-53049",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -63897,7 +63899,7 @@
       },
       "subtitle" : "Collect, organize & share colors",
       "version" : "2.6.1",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65074,7 +65076,7 @@
       },
       "subtitle" : "Design, animate, and prototype design tool from Facebook",
       "version" : "121.0.0.11.220,387081216",
-      "versionDate" : "2022-08-10T10:23:50Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65130,16 +65132,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dl.xamarin.com/MonoTouch/Mac/xamarin.ios-15.10.0.5.pkg",
+      "downloadURL" : "https://dl.xamarin.com/MonoTouch/Mac/xamarin.ios-15.12.0.2.pkg",
       "homepage" : "https://www.xamarin.com/platform",
       "localizedDescription" : "Gives .NET developers complete access to iOS, watchOS, and tvOS SDK's",
       "name" : "Xamarin.iOS",
-      "sha256" : "6614c96ee3880613e75c2214eec8cf113fead40f1a368ce83558293c78e3c386",
+      "sha256" : "00a102a997360728e7fad37950b73918c54de10696b979e5f90ef75a560c314d",
       "stats" : {
         "downloadCount" : 19
       },
       "subtitle" : "Gives .NET developers complete access to iOS, watchOS, and tvOS SDK's",
-      "version" : "15.10.0.5"
+      "version" : "15.12.0.2",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -65674,16 +65677,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dl.xamarin.com/MonoforAndroid/Mac/xamarin.android-12.3.3.3.pkg",
+      "downloadURL" : "https://dl.xamarin.com/MonoforAndroid/Mac/xamarin.android-13.0.0.0.pkg",
       "homepage" : "https://www.xamarin.com/platform",
       "localizedDescription" : "Gives .NET developers complete access to Android SDK's",
       "name" : "Xamarin.Android",
-      "sha256" : "516d089430cfc25fb2bb1f7faf876237c0bfa6ed12ee3cda80371437cc1664d8",
+      "sha256" : "fcd2cf6b81f0a1d96422414ba50c16df870b3ae93912a253817d789d59b56c3e",
       "stats" : {
         "downloadCount" : 16
       },
       "subtitle" : "Gives .NET developers complete access to Android SDK's",
-      "version" : "12.3.3.3"
+      "version" : "13.0.0.0",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -69006,16 +69010,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dl.xamarin.com/XamarinforMac/Mac/xamarin.mac-8.10.0.5.pkg",
+      "downloadURL" : "https://dl.xamarin.com/XamarinforMac/Mac/xamarin.mac-8.12.0.2.pkg",
       "homepage" : "https://www.xamarin.com/platform",
       "localizedDescription" : "Gives C# and .NET developers access to Objective-C and Swift API's",
       "name" : "Xamarin Mac",
-      "sha256" : "b01e18187dec5cb14d589f45cd1da504ad8180292ca8ddb3e0b099d10a0e7364",
+      "sha256" : "6b40010e9a7534929cd00b5cae4cbec883278c35918ec85e7d9c0fda70640080",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "Gives C# and .NET developers access to Objective-C and Swift API's",
-      "version" : "8.10.0.5"
+      "version" : "8.12.0.2",
+      "versionDate" : "2022-08-10T11:19:40Z"
     },
     {
       "beta" : false,
@@ -73468,83 +73473,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "librewolf",
-      "caption" : "LibreWolf updated from 103.0,3,86c7d9aa23a32976facfc9da57bdea32 to 103.0.1,1,ac0702cefee1297ea5c0d97a10ac032d",
-      "date" : "2022-08-07T12:29:05Z",
-      "identifier" : "release-librewolf-103.0.1,1,ac0702cefee1297ea5c0d97a10ac032d",
-      "title" : "New Release: LibreWolf 103.0.1,1,ac0702cefee1297ea5c0d97a10ac032d"
-    },
-    {
-      "appID" : "linearmouse",
-      "caption" : "LinearMouse updated from 0.7.2 to 0.7.3",
-      "date" : "2022-08-07T12:29:05Z",
-      "identifier" : "release-linearmouse-0.7.3",
-      "title" : "New Release: LinearMouse 0.7.3"
-    },
-    {
-      "appID" : "google-chat-electron",
-      "caption" : "google-chat-electron updated from 2.17.0 to 2.18.0",
-      "date" : "2022-08-07T12:29:05Z",
-      "identifier" : "release-google-chat-electron-2.18.0",
-      "title" : "New Release: google-chat-electron 2.18.0"
-    },
-    {
-      "appID" : "http-toolkit",
-      "caption" : "HTTP Toolkit updated from 1.9.1 to 1.10.0",
-      "date" : "2022-08-07T12:29:05Z",
-      "identifier" : "release-http-toolkit-1.10.0",
-      "title" : "New Release: HTTP Toolkit 1.10.0"
-    },
-    {
-      "appID" : "clash-for-windows",
-      "caption" : "Clash for Windows updated from 0.19.25 to 0.19.26",
-      "date" : "2022-08-07T12:29:06Z",
-      "identifier" : "release-clash-for-windows-0.19.26",
-      "title" : "New Release: Clash for Windows 0.19.26"
-    },
-    {
-      "appID" : "gitfox",
-      "caption" : "Gitfox updated from 2.8.1,7023 to 2.8.2,7059",
-      "date" : "2022-08-07T12:29:06Z",
-      "identifier" : "release-gitfox-2.8.2,7059",
-      "title" : "New Release: Gitfox 2.8.2,7059"
-    },
-    {
-      "appID" : "mcbopomofo",
-      "caption" : "McBopomofo updated from 2.3 to 2.4",
-      "date" : "2022-08-07T12:29:06Z",
-      "identifier" : "release-mcbopomofo-2.4",
-      "title" : "New Release: McBopomofo 2.4"
-    },
-    {
-      "appID" : "bookends",
-      "caption" : "Bookends updated from 14.1 to 14.1.1",
-      "date" : "2022-08-07T12:29:06Z",
-      "identifier" : "release-bookends-14.1.1",
-      "title" : "New Release: Bookends 14.1.1"
-    },
-    {
-      "appID" : "codekit",
-      "caption" : "CodeKit updated from 3.17.1,34365 to 3.18.1,34408",
-      "date" : "2022-08-07T12:29:06Z",
-      "identifier" : "release-codekit-3.18.1,34408",
-      "title" : "New Release: CodeKit 3.18.1,34408"
-    },
-    {
-      "appID" : "dynobase",
-      "caption" : "Dynobase updated from 1.10.5 to 1.10.7",
-      "date" : "2022-08-07T12:29:06Z",
-      "identifier" : "release-dynobase-1.10.7",
-      "title" : "New Release: Dynobase 1.10.7"
-    },
-    {
-      "appID" : "audiobook-builder",
-      "caption" : "Audiobook Builder updated from 2.2.2 to 2.2.3",
-      "date" : "2022-08-07T12:29:07Z",
-      "identifier" : "release-audiobook-builder-2.2.3",
-      "title" : "New Release: Audiobook Builder 2.2.3"
-    },
-    {
       "appID" : "kiwi-for-gmail",
       "caption" : "Kiwi for Gmail updated from 3.4.5,2446 to 3.5.0,2469",
       "date" : "2022-08-07T12:29:07Z",
@@ -74166,6 +74094,83 @@
       "date" : "2022-08-10T10:23:56Z",
       "identifier" : "release-origami-studio-121.0.0.11.220,387081216",
       "title" : "New Release: Origami Studio 121.0.0.11.220,387081216"
+    },
+    {
+      "appID" : "plex",
+      "caption" : "Plex updated from 1.50.1.3176,06a9352d to 1.51.1.3185,700af1eb",
+      "date" : "2022-08-10T11:19:41Z",
+      "identifier" : "release-plex-1.51.1.3185,700af1eb",
+      "title" : "New Release: Plex 1.51.1.3185,700af1eb"
+    },
+    {
+      "appID" : "yandex",
+      "caption" : "Yandex.Browser updated from 22.7.0 to 22.7.3",
+      "date" : "2022-08-10T11:19:41Z",
+      "identifier" : "release-yandex-22.7.3",
+      "title" : "New Release: Yandex.Browser 22.7.3"
+    },
+    {
+      "appID" : "thorium",
+      "caption" : "Thorium Reader updated from 2.0.0 to 2.1.0",
+      "date" : "2022-08-10T11:19:41Z",
+      "identifier" : "release-thorium-2.1.0",
+      "title" : "New Release: Thorium Reader 2.1.0"
+    },
+    {
+      "appID" : "trilium-notes",
+      "caption" : "Trilium Notes updated from 0.53.2 to 0.54.2",
+      "date" : "2022-08-10T11:19:41Z",
+      "identifier" : "release-trilium-notes-0.54.2",
+      "title" : "New Release: Trilium Notes 0.54.2"
+    },
+    {
+      "appID" : "ximalaya",
+      "caption" : "ximalaya updated from 3.0.2,1659089544 to 3.0.2,1660040037",
+      "date" : "2022-08-10T11:19:42Z",
+      "identifier" : "release-ximalaya-3.0.2,1660040037",
+      "title" : "New Release: ximalaya 3.0.2,1660040037"
+    },
+    {
+      "appID" : "pluginval",
+      "caption" : "pluginval updated from 0.3.0 to 1.0.0",
+      "date" : "2022-08-10T11:19:42Z",
+      "identifier" : "release-pluginval-1.0.0",
+      "title" : "New Release: pluginval 1.0.0"
+    },
+    {
+      "appID" : "katalon-studio",
+      "caption" : "Katalon Studio updated from 8.4.0 to 8.4.1",
+      "date" : "2022-08-10T11:19:42Z",
+      "identifier" : "release-katalon-studio-8.4.1",
+      "title" : "New Release: Katalon Studio 8.4.1"
+    },
+    {
+      "appID" : "1password-cli",
+      "caption" : "1Password CLI updated from 2.6.0 to 2.6.1",
+      "date" : "2022-08-10T11:19:42Z",
+      "identifier" : "release-1password-cli-2.6.1",
+      "title" : "New Release: 1Password CLI 2.6.1"
+    },
+    {
+      "appID" : "xamarin-ios",
+      "caption" : "Xamarin.iOS updated from 15.10.0.5 to 15.12.0.2",
+      "date" : "2022-08-10T11:19:42Z",
+      "identifier" : "release-xamarin-ios-15.12.0.2",
+      "title" : "New Release: Xamarin.iOS 15.12.0.2"
+    },
+    {
+      "appID" : "xamarin-android",
+      "caption" : "Xamarin.Android updated from 12.3.3.3 to 13.0.0.0",
+      "date" : "2022-08-10T11:19:42Z",
+      "identifier" : "release-xamarin-android-13.0.0.0",
+      "title" : "New Release: Xamarin.Android 13.0.0.0"
+    },
+    {
+      "appID" : "xamarin-mac",
+      "caption" : "Xamarin Mac updated from 8.10.0.5 to 8.12.0.2",
+      "date" : "2022-08-10T11:19:42Z",
+      "identifier" : "release-xamarin-mac-8.12.0.2",
+      "title" : "New Release: Xamarin Mac 8.12.0.2"
     }
   ],
   "platform" : "macos",

@@ -38,10 +38,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 92,
-        "impressionCount" : 1444,
+        "impressionCount" : 1445,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 106,
+        "viewCount" : 107,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -83,10 +83,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 69,
-        "impressionCount" : 1205,
+        "impressionCount" : 1206,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 74,
+        "viewCount" : 75,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -127,7 +127,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 66,
-        "impressionCount" : 1900,
+        "impressionCount" : 1901,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 133,
@@ -170,7 +170,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2559,
+        "impressionCount" : 2560,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 178,
@@ -214,7 +214,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 2409,
+        "impressionCount" : 2410,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 141,
@@ -457,7 +457,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2360,
+        "impressionCount" : 2361,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 119,
@@ -748,7 +748,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4088,
+        "impressionCount" : 4089,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 536,
@@ -1090,10 +1090,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 11,
+        "impressionCount" : 12,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",

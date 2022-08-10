@@ -35,10 +35,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 72,
-        "impressionCount" : 1435,
+        "impressionCount" : 1441,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 103,
+        "viewCount" : 105,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -46,53 +46,6 @@
       "version" : "0.3.41",
       "versionDate" : "2022-07-29T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.38...0.3.41"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "type" : "com.apple.security.network.client",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_03-mac-2180x1464.png"
-      ],
-      "sha256" : "137d21d37493cb0b8e9f58768b8dc88b3de6ab4da880b6c2e95f147b5817c707",
-      "size" : 9466880,
-      "stats" : {
-        "coreSize" : 103112,
-        "downloadCount" : 63,
-        "impressionCount" : 1891,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 131,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.447",
-      "versionDate" : "2022-07-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.446...0.8.447"
     },
     {
       "beta" : false,
@@ -156,11 +109,11 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 61,
-        "impressionCount" : 24,
+        "downloadCount" : 68,
+        "impressionCount" : 29,
         "issueCount" : 6,
         "starCount" : 26,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -168,6 +121,53 @@
       "version" : "0.8.97",
       "versionDate" : "2022-08-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.96...0.8.97"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "type" : "com.apple.security.network.client",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.447/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.447/screenshot_03-mac-2180x1464.png"
+      ],
+      "sha256" : "137d21d37493cb0b8e9f58768b8dc88b3de6ab4da880b6c2e95f147b5817c707",
+      "size" : 9466880,
+      "stats" : {
+        "coreSize" : 103112,
+        "downloadCount" : 63,
+        "impressionCount" : 1897,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 132,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.447",
+      "versionDate" : "2022-07-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.446...0.8.447"
     },
     {
       "beta" : false,
@@ -209,10 +209,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 4028,
+        "impressionCount" : 4034,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 649,
+        "viewCount" : 650,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -254,10 +254,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2550,
+        "impressionCount" : 2556,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 176,
+        "viewCount" : 177,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -303,10 +303,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1197,
+        "impressionCount" : 1202,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 72,
+        "viewCount" : 73,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -345,10 +345,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 2971,
+        "impressionCount" : 2977,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 516,
+        "viewCount" : 518,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -467,7 +467,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4079,
+        "impressionCount" : 4085,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 535,
@@ -1012,10 +1012,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 4,
-        "impressionCount" : 2,
+        "impressionCount" : 8,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -1213,10 +1213,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2400,
+        "impressionCount" : 2406,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 139,
+        "viewCount" : 140,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2351,
+        "impressionCount" : 2357,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 118,

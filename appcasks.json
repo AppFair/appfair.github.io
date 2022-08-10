@@ -641,7 +641,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 169,
-        "impressionCount" : 5004,
+        "impressionCount" : 5005,
         "viewCount" : 522
       },
       "subtitle" : "iOS App Store alternative",
@@ -703,7 +703,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 2680,
+        "impressionCount" : 2681,
         "viewCount" : 237
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -735,7 +735,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 2741,
+        "impressionCount" : 2742,
         "viewCount" : 230
       },
       "subtitle" : "Create DMGs and other archives",
@@ -2701,7 +2701,7 @@
       "sha256" : "d1a2073dee3435d8a78bf289206248c9ed6be5e17f4ba1ac8412caf6d0eae0b0",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 1846,
+        "impressionCount" : 1847,
         "viewCount" : 155
       },
       "subtitle" : "Real-time strategy game",
@@ -2954,7 +2954,7 @@
       "sha256" : "95159e54c011aba02f64b0d126a497b99544e1086429a11e67587e3ffc0533d4",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 1675,
+        "impressionCount" : 1676,
         "viewCount" : 134
       },
       "subtitle" : "Privacy-focused app for managing your finances",
@@ -3459,7 +3459,7 @@
       "subtitle" : "Redis desktop manager",
       "tintColor" : "B1493B",
       "version" : "1.5.7",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10103,7 +10103,7 @@
       "subtitle" : "OpenCore EFI bootloader configuration helper",
       "tintColor" : "949495",
       "version" : "2.62.0.0",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10812,7 +10812,7 @@
       "subtitle" : "Fork of Nylas Mail",
       "tintColor" : "95E5E8",
       "version" : "1.10.4",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12405,7 +12405,7 @@
       "subtitle" : "Visual editors for data",
       "tintColor" : "9DA5A8",
       "version" : "12.5.1",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15581,7 +15581,7 @@
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
       "version" : "1.8.14",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17666,7 +17666,7 @@
       "subtitle" : "Read, annotate and manage ePub books",
       "tintColor" : "93CBF2",
       "version" : "8.1.4",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24070,7 +24070,7 @@
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
       "version" : "5.190.0.3807",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35295,7 +35295,7 @@
       "subtitle" : "Private and anonymous instant messaging over tor",
       "tintColor" : "0A9ECD",
       "version" : "3.0.13",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40322,7 +40322,7 @@
       "subtitle" : "Web browser focusing on customization and control",
       "tintColor" : "F17179",
       "version" : "5.4.2753.28",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44609,7 +44609,7 @@
       "sha256" : "91deabd5844968467b5b6b3423e12654d4e339ba309f333c25d991a2e689fd96",
       "stats" : {
         "downloadCount" : 54,
-        "impressionCount" : 56
+        "impressionCount" : 57
       },
       "subtitle" : "Time tracker",
       "tintColor" : "BABABA",
@@ -44941,7 +44941,7 @@
       "subtitle" : "Administration tool for Native Instruments products",
       "tintColor" : "76B3D7",
       "version" : "2.2.0",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53717,7 +53717,7 @@
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
       "version" : "6.2.1113",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59437,7 +59437,7 @@
       },
       "subtitle" : "Remote desktop client",
       "version" : "10.7.9",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61199,7 +61199,7 @@
       },
       "subtitle" : "SalesForce CLI tools",
       "version" : "7.162.0",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65604,7 +65604,7 @@
       },
       "subtitle" : "Markdown files editor",
       "version" : "0.38.0",
-      "versionDate" : "2022-08-10T12:30:04Z"
+      "versionDate" : "2022-08-10T00:00:00Z"
     },
     {
       "beta" : false,

@@ -38,7 +38,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 98,
-        "impressionCount" : 1458,
+        "impressionCount" : 1461,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 110,
@@ -83,7 +83,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 75,
-        "impressionCount" : 1219,
+        "impressionCount" : 1222,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 76,
@@ -127,7 +127,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 66,
-        "impressionCount" : 1915,
+        "impressionCount" : 1918,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 135,
@@ -170,7 +170,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2573,
+        "impressionCount" : 2576,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 179,
@@ -214,7 +214,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 2423,
+        "impressionCount" : 2426,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 142,
@@ -457,7 +457,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2374,
+        "impressionCount" : 2377,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 119,
@@ -748,7 +748,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4101,
+        "impressionCount" : 4104,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 536,
@@ -949,10 +949,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 4,
-        "impressionCount" : 12,
+        "impressionCount" : 15,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",

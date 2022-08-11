@@ -62,8 +62,8 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 170,
-        "impressionCount" : 55,
+        "downloadCount" : 171,
+        "impressionCount" : 56,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 10,
@@ -110,10 +110,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 81,
-        "impressionCount" : 1476,
+        "impressionCount" : 1478,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 113,
+        "viewCount" : 114,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -157,7 +157,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 1934,
+        "impressionCount" : 1936,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 139,
@@ -208,11 +208,11 @@
       "size" : 4506286,
       "stats" : {
         "coreSize" : 170576,
-        "downloadCount" : 35,
-        "impressionCount" : 4062,
+        "downloadCount" : 36,
+        "impressionCount" : 4063,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 654,
+        "viewCount" : 655,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -254,7 +254,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2591,
+        "impressionCount" : 2593,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 181,
@@ -303,7 +303,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1237,
+        "impressionCount" : 1239,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 77,
@@ -345,7 +345,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3005,
+        "impressionCount" : 3006,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 519,
@@ -467,7 +467,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4114,
+        "impressionCount" : 4116,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 536,
@@ -938,7 +938,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 6,
-        "impressionCount" : 30,
+        "impressionCount" : 32,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2441,
+        "impressionCount" : 2443,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 143,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2392,
+        "impressionCount" : 2394,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 120,

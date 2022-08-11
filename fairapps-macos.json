@@ -62,11 +62,11 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 176,
-        "impressionCount" : 57,
+        "downloadCount" : 179,
+        "impressionCount" : 62,
         "issueCount" : 6,
         "starCount" : 26,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -110,10 +110,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 81,
-        "impressionCount" : 1480,
+        "impressionCount" : 1483,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 115,
+        "viewCount" : 116,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -157,7 +157,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 1938,
+        "impressionCount" : 1941,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 139,
@@ -254,7 +254,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2595,
+        "impressionCount" : 2598,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 181,
@@ -303,7 +303,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1241,
+        "impressionCount" : 1244,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 77,
@@ -938,7 +938,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 6,
-        "impressionCount" : 34,
+        "impressionCount" : 37,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2446,
+        "impressionCount" : 2449,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 145,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2396,
+        "impressionCount" : 2401,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,

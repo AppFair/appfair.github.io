@@ -62,11 +62,11 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 167,
-        "impressionCount" : 53,
+        "downloadCount" : 170,
+        "impressionCount" : 55,
         "issueCount" : 6,
         "starCount" : 26,
-        "viewCount" : 8,
+        "viewCount" : 10,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -110,10 +110,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 81,
-        "impressionCount" : 1473,
+        "impressionCount" : 1476,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 111,
+        "viewCount" : 113,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -157,10 +157,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 1931,
+        "impressionCount" : 1934,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 138,
+        "viewCount" : 139,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -209,10 +209,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 35,
-        "impressionCount" : 4060,
+        "impressionCount" : 4062,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 653,
+        "viewCount" : 654,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -254,10 +254,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2588,
+        "impressionCount" : 2591,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 180,
+        "viewCount" : 181,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -303,7 +303,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1234,
+        "impressionCount" : 1237,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 77,
@@ -345,7 +345,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3003,
+        "impressionCount" : 3005,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 519,
@@ -467,7 +467,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4112,
+        "impressionCount" : 4114,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 536,
@@ -938,10 +938,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 6,
-        "impressionCount" : 27,
+        "impressionCount" : 30,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -1213,10 +1213,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2438,
+        "impressionCount" : 2441,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 142,
+        "viewCount" : 143,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1463,10 +1463,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2389,
+        "impressionCount" : 2392,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 119,
+        "viewCount" : 120,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",

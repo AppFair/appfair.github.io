@@ -63,10 +63,10 @@
       "stats" : {
         "coreSize" : 170672,
         "downloadCount" : 225,
-        "impressionCount" : 75,
+        "impressionCount" : 76,
         "issueCount" : 6,
         "starCount" : 26,
-        "viewCount" : 15,
+        "viewCount" : 16,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",

@@ -25,7 +25,7 @@
       "sha256" : "af1f384ba44767f6416fa23b9149329e491f9c151ca3c8bc75e7c61a8faf1306",
       "stats" : {
         "downloadCount" : 2939,
-        "impressionCount" : 9372,
+        "impressionCount" : 9373,
         "viewCount" : 970
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,8 +57,8 @@
       "sha256" : "c3e9e2ec300d231ee6e9cdfe1dd8fc03d62ac6c23d8ddfcc9358e430dca73ea4",
       "stats" : {
         "downloadCount" : 15577,
-        "impressionCount" : 8186,
-        "viewCount" : 904
+        "impressionCount" : 8187,
+        "viewCount" : 905
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -90,8 +90,8 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8584,
-        "impressionCount" : 7207,
-        "viewCount" : 643
+        "impressionCount" : 7208,
+        "viewCount" : 644
       },
       "subtitle" : "Multimedia player",
       "tintColor" : "E5984A",
@@ -124,8 +124,8 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29316,
-        "impressionCount" : 7449,
-        "viewCount" : 626
+        "impressionCount" : 7450,
+        "viewCount" : 627
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
       "tintColor" : "202B2A",
@@ -149,8 +149,8 @@
       ],
       "stats" : {
         "downloadCount" : 8731,
-        "impressionCount" : 7510,
-        "viewCount" : 625
+        "impressionCount" : 7511,
+        "viewCount" : 626
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -179,8 +179,8 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6131,
-        "impressionCount" : 7523,
-        "viewCount" : 494
+        "impressionCount" : 7524,
+        "viewCount" : 495
       },
       "subtitle" : "Voice and text chat software",
       "tintColor" : "8E95EF",
@@ -209,8 +209,8 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3268,
-        "impressionCount" : 6780,
-        "viewCount" : 522
+        "impressionCount" : 6781,
+        "viewCount" : 523
       },
       "subtitle" : "Text editor",
       "tintColor" : "9379BF",
@@ -237,8 +237,8 @@
       "sha256" : "091fa3a5106451f868eb217ac369629da82355b1cc5a5d3dfdd1553bdd1f92c5",
       "stats" : {
         "downloadCount" : 3164,
-        "impressionCount" : 7971,
-        "viewCount" : 551
+        "impressionCount" : 7972,
+        "viewCount" : 552
       },
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
@@ -265,8 +265,8 @@
       ],
       "stats" : {
         "downloadCount" : 2647,
-        "impressionCount" : 5794,
-        "viewCount" : 363
+        "impressionCount" : 5795,
+        "viewCount" : 364
       },
       "subtitle" : "Video game digital distribution service",
       "tintColor" : "416082",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2068,
-        "impressionCount" : 7522,
+        "impressionCount" : 7523,
         "viewCount" : 801
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1912,
-        "impressionCount" : 6434,
+        "impressionCount" : 6435,
         "viewCount" : 411
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1309,
-        "impressionCount" : 5892,
+        "impressionCount" : 5893,
         "viewCount" : 456
       },
       "subtitle" : "Open-source Markdown editor",
@@ -405,7 +405,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1177,
-        "impressionCount" : 7862,
+        "impressionCount" : 7863,
         "viewCount" : 459
       },
       "subtitle" : "3D creation suite",
@@ -3127,7 +3127,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 6064,
-        "impressionCount" : 830
+        "impressionCount" : 831
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",

@@ -1470,8 +1470,8 @@
       "sha256" : "3f7123c87c6486016512ab70714bf7928a419accc207b9a4caddd3e7e6e44fa8",
       "stats" : {
         "downloadCount" : 2237,
-        "impressionCount" : 3396,
-        "viewCount" : 357
+        "impressionCount" : 3397,
+        "viewCount" : 358
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
@@ -7494,7 +7494,7 @@
       "sha256" : "994c3ff2b448bf59bfc6ca9725d894ed00171ebfe0066940e2f6d0153329984f",
       "stats" : {
         "downloadCount" : 156,
-        "impressionCount" : 443
+        "impressionCount" : 444
       },
       "subtitle" : "TeX previewer",
       "tintColor" : "9AAAAE",
@@ -17362,7 +17362,7 @@
       "sha256" : "29e297933e364ae37224f95c7086e99b22bae257dd1bc87c0afd1f673f9e9543",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 440
+        "impressionCount" : 441
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
@@ -40930,7 +40930,7 @@
       "name" : "Citrix Workspace",
       "stats" : {
         "downloadCount" : 309,
-        "impressionCount" : 32
+        "impressionCount" : 33
       },
       "subtitle" : "Managed desktop virtualization solution",
       "tintColor" : "B1C2D3",
@@ -53570,7 +53570,7 @@
       "sha256" : "8672ba9f1980fe7fbe8f9ad2a5d5cdeb516d922ef445bd2a36bb9cc5cbeeb4f4",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 44
+        "impressionCount" : 45
       },
       "subtitle" : "Find and download lyrics",
       "tintColor" : "B6B3A9",
@@ -54017,7 +54017,7 @@
       "sha256" : "1e45abf868349f1ad43b6f3a1234a254d31e943ef5c7d72b84eff9f955a15a33",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 51
+        "impressionCount" : 52
       },
       "subtitle" : "Tool to stream videos to Apple devices",
       "tintColor" : "5D90BF",
@@ -55905,7 +55905,7 @@
       "sha256" : "8b53170d1954d384dc4005cf27dfc44e0d1d61482424929b877d961091cfa3dc",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 107
+        "impressionCount" : 108
       },
       "subtitle" : "Personal booru-style media tagger to organize your media",
       "tintColor" : "000000",
@@ -56100,7 +56100,7 @@
       "sha256" : "aaebb401dbd9d9e2fd576cc88807f6dee6702b4d2fe0812a0a486e84e49bedd3",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 64
+        "impressionCount" : 65
       },
       "subtitle" : "IDE for Microchip's microcontrollers and digital signal controllers",
       "tintColor" : "859195",
@@ -56845,7 +56845,7 @@
       "sha256" : "ee1b08c2d6698b1938e0044b21a0cc6746543d2853048234b5eca91169db233b",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 47
+        "impressionCount" : 48
       },
       "tintColor" : "DDEFF7",
       "version" : "1.0,217"
@@ -57762,7 +57762,7 @@
       "sha256" : "949902f859efeba9b5d9112210f32cb1020f9b43d81f43489c559ddd8e20f0e2",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 70
+        "impressionCount" : 71
       },
       "tintColor" : "CC709A",
       "version" : "5.2"

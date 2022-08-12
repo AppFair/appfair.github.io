@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `104` | `2022-07-29T00:00:00Z` | `8.5 MB` | `1501` | `118` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.41`` | `105` | `2022-07-29T00:00:00Z` | `8.5 MB` | `1501` | `118` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `81` | `2022-07-29T00:00:00Z` | `5.5 MB` | `1261` | `79` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.447`` | `66` | `2022-07-22T00:00:00Z` | `17.6 MB` | `1961` | `141` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `37` | `2022-07-20T00:00:00Z` | `5.4 MB` | `2616` | `183` | `0` | `0` |  |

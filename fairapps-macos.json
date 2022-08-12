@@ -62,7 +62,7 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 200,
+        "downloadCount" : 202,
         "impressionCount" : 66,
         "issueCount" : 6,
         "starCount" : 26,
@@ -110,10 +110,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 83,
-        "impressionCount" : 1490,
+        "impressionCount" : 1491,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 117,
+        "viewCount" : 118,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -157,10 +157,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 1948,
+        "impressionCount" : 1949,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 140,
+        "viewCount" : 141,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -209,10 +209,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 36,
-        "impressionCount" : 4070,
+        "impressionCount" : 4071,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 656,
+        "viewCount" : 657,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -254,10 +254,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2605,
+        "impressionCount" : 2606,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 182,
+        "viewCount" : 183,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -303,10 +303,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1251,
+        "impressionCount" : 1252,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 78,
+        "viewCount" : 79,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -345,7 +345,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3013,
+        "impressionCount" : 3014,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 520,
@@ -467,7 +467,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4124,
+        "impressionCount" : 4125,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 538,
@@ -586,7 +586,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 8,
-        "impressionCount" : 44,
+        "impressionCount" : 45,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2456,
+        "impressionCount" : 2457,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 146,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2408,
+        "impressionCount" : 2409,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 122,

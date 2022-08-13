@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29312,
-        "impressionCount" : 7481,
+        "impressionCount" : 7482,
         "viewCount" : 629
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2096,
-        "impressionCount" : 7552,
+        "impressionCount" : 7553,
         "viewCount" : 802
       },
       "subtitle" : "File archiver",
@@ -619,7 +619,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 193,
-        "impressionCount" : 3199,
+        "impressionCount" : 3200,
         "viewCount" : 285
       },
       "subtitle" : "File synchronizer",
@@ -646,7 +646,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 176,
-        "impressionCount" : 5080,
+        "impressionCount" : 5081,
         "viewCount" : 531
       },
       "subtitle" : "iOS App Store alternative",
@@ -914,7 +914,7 @@
       "sha256" : "2fe1c7b6db09e0cf6497c7157501ca5d8c7fa37c72dd26763684a52639cdfa8e",
       "stats" : {
         "downloadCount" : 6106,
-        "impressionCount" : 4356,
+        "impressionCount" : 4357,
         "viewCount" : 421
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1120,7 +1120,7 @@
       "sha256" : "08b59c3b41bdf369a8ce8ed65c8607eeac2e73672298a04ebf53e7a802b56939",
       "stats" : {
         "downloadCount" : 3095,
-        "impressionCount" : 2656,
+        "impressionCount" : 2657,
         "viewCount" : 167
       },
       "subtitle" : "GPU-accelerated terminal emulator",
@@ -1211,8 +1211,8 @@
       "sha256" : "e459b9ce81078b8251549168c0d8473c069a14e817f3a8f386ec84b0f220955a",
       "stats" : {
         "downloadCount" : 2618,
-        "impressionCount" : 2300,
-        "viewCount" : 198
+        "impressionCount" : 2301,
+        "viewCount" : 199
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
       "tintColor" : "A528B1",
@@ -1379,7 +1379,7 @@
       "sha256" : "a1a964ab100ff92cbc5ce50c63699199050572474c2b1f34bec84de673d31a7f",
       "stats" : {
         "downloadCount" : 2465,
-        "impressionCount" : 2819,
+        "impressionCount" : 2820,
         "viewCount" : 194
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1578,7 +1578,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1627,
-        "impressionCount" : 2897
+        "impressionCount" : 2898
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -1599,7 +1599,7 @@
       "sha256" : "d1a17bb4c8c62960d7ae7ff352a3647bc3109b8989dae4ed7b51cf8a71048768",
       "stats" : {
         "downloadCount" : 1428,
-        "impressionCount" : 377,
+        "impressionCount" : 378,
         "viewCount" : 20
       },
       "subtitle" : "Tools to protect your emails and files",
@@ -1667,7 +1667,7 @@
       "sha256" : "766d5bf3b404ec567110a25de1d221290bc829302283b28ed0fbe73b9557f30c",
       "stats" : {
         "downloadCount" : 1226,
-        "impressionCount" : 1746,
+        "impressionCount" : 1747,
         "viewCount" : 84
       },
       "subtitle" : "Move and resize windows with ease",
@@ -1689,7 +1689,7 @@
       "sha256" : "d8d37a114c9dab2f16a56e60d8a977115ba34fe408ff7947d0d74028f1f22843",
       "stats" : {
         "downloadCount" : 1126,
-        "impressionCount" : 2136,
+        "impressionCount" : 2137,
         "viewCount" : 128
       },
       "subtitle" : "Tool to hide status bar icons",
@@ -1803,7 +1803,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-istat-menus/README.md",
       "stats" : {
         "downloadCount" : 1000,
-        "impressionCount" : 2124,
+        "impressionCount" : 2125,
         "viewCount" : 153
       },
       "subtitle" : "System monitoring app",
@@ -1854,7 +1854,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 894,
-        "impressionCount" : 3102,
+        "impressionCount" : 3103,
         "viewCount" : 275
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -2240,7 +2240,7 @@
       "sha256" : "115c40eb710085969a72a24d5d84ae2c05260192cc68a22e73e99e148c6638da",
       "stats" : {
         "downloadCount" : 353,
-        "impressionCount" : 2175,
+        "impressionCount" : 2176,
         "viewCount" : 126
       },
       "subtitle" : "Animated screen capture application",
@@ -2283,7 +2283,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-daisydisk/README.md",
       "stats" : {
         "downloadCount" : 329,
-        "impressionCount" : 2165,
+        "impressionCount" : 2166,
         "viewCount" : 160
       },
       "subtitle" : "Disk space visualizer",
@@ -2372,7 +2372,7 @@
       "sha256" : "ad35556acca114abacc4e43a1eef8a2b87dd1a00c744dcbeade4a94c88d26488",
       "stats" : {
         "downloadCount" : 219,
-        "impressionCount" : 1889,
+        "impressionCount" : 1890,
         "viewCount" : 140
       },
       "subtitle" : "Automated organization",
@@ -2893,7 +2893,7 @@
       "sha256" : "cb5112ee26aa55394a8e40fa79b459fbef0610dd5a9d58743a4113e0ef012953",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 1893,
+        "impressionCount" : 1894,
         "viewCount" : 140
       },
       "subtitle" : "Newsreader and Usenet client",
@@ -3046,7 +3046,7 @@
       "sha256" : "466b65935f1aae11571d902e7bbdf7ff130c2382a29b33c4789c5ee88c7bf1b2",
       "stats" : {
         "downloadCount" : 13191,
-        "impressionCount" : 974
+        "impressionCount" : 975
       },
       "subtitle" : "Collaboration platform for API development",
       "tintColor" : "FE7747",
@@ -3128,7 +3128,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 6024,
-        "impressionCount" : 857
+        "impressionCount" : 858
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3148,7 +3148,7 @@
       "sha256" : "536e2a4beb637e4cb97a9f258a709e1c63f497a9f4a70ea206f1ef5fc7bb373e",
       "stats" : {
         "downloadCount" : 4595,
-        "impressionCount" : 1426
+        "impressionCount" : 1427
       },
       "subtitle" : "Enable Windows-like alt-tab",
       "tintColor" : "49477D",
@@ -3360,7 +3360,7 @@
       "sha256" : "610c22fda19d558130e742f9c1d5a40587bc182967abdb2e47b4385fdaad1501",
       "stats" : {
         "downloadCount" : 2798,
-        "impressionCount" : 1276
+        "impressionCount" : 1277
       },
       "subtitle" : "Application uninstaller",
       "tintColor" : "B58F5C",
@@ -5625,7 +5625,7 @@
       "sha256" : "858045662074579856a521dcf967ddfc818f68583ddc96fe73612d82e071bd00",
       "stats" : {
         "downloadCount" : 374,
-        "impressionCount" : 356
+        "impressionCount" : 357
       },
       "subtitle" : "Tool to manage the size and position of windows",
       "tintColor" : "6E6E6D",
@@ -6055,7 +6055,7 @@
       "name" : "Folx",
       "stats" : {
         "downloadCount" : 281,
-        "impressionCount" : 486
+        "impressionCount" : 487
       },
       "subtitle" : "Download manager with a torrent client",
       "tintColor" : "926652",
@@ -6318,8 +6318,8 @@
       "name" : "Motrix",
       "sha256" : "70fa245e44b8e0ec62f50ba5731bc0a876535a51dc0ea318010736d2a6be6dd9",
       "stats" : {
-        "downloadCount" : 251,
-        "impressionCount" : 771
+        "downloadCount" : 252,
+        "impressionCount" : 772
       },
       "subtitle" : "Open-source download manager",
       "tintColor" : "B9ABD3",
@@ -7134,7 +7134,7 @@
       "name" : "Spark",
       "stats" : {
         "downloadCount" : 174,
-        "impressionCount" : 312
+        "impressionCount" : 313
       },
       "tintColor" : "CDC27A",
       "version" : "3.3.2,501"
@@ -7234,7 +7234,7 @@
       "sha256" : "4f45a4ea3d22b7e991f0ec519b89e36630f6b0944b749bdafaa6f709b044714e",
       "stats" : {
         "downloadCount" : 170,
-        "impressionCount" : 351
+        "impressionCount" : 352
       },
       "subtitle" : "Simple menu bar app to download YouTube movies",
       "tintColor" : "FD7D49",
@@ -7500,7 +7500,7 @@
       "sha256" : "93e69ccc7f69892aae30a6422fcc0bab386a562e7e14f8cad18a8ceb15650498",
       "stats" : {
         "downloadCount" : 159,
-        "impressionCount" : 385
+        "impressionCount" : 386
       },
       "subtitle" : "Utility to move and zoom windows—on one display",
       "tintColor" : "BAB9B7",
@@ -7639,7 +7639,7 @@
       "sha256" : "65f1358e53b2a65ce88f48a3d25d2346633c0a1a743e791d3be0f7e337236906",
       "stats" : {
         "downloadCount" : 152,
-        "impressionCount" : 948
+        "impressionCount" : 949
       },
       "subtitle" : "Network scanner",
       "tintColor" : "5A94FF",
@@ -9034,7 +9034,7 @@
       "sha256" : "dc06a995b63f8e32be9b86c265fd2979a6d73d4742d0ff16e1b2bb8f538d77a3",
       "stats" : {
         "downloadCount" : 97,
-        "impressionCount" : 225
+        "impressionCount" : 226
       },
       "tintColor" : "7ABF74",
       "version" : "1.9.4"
@@ -9428,7 +9428,7 @@
       "sha256" : "f4ca05c6abb14f6193b158645d74ca9d2672aabba7e07cc1c6cc3af18aa44907",
       "stats" : {
         "downloadCount" : 88,
-        "impressionCount" : 526
+        "impressionCount" : 527
       },
       "subtitle" : "Allows switching between application windows",
       "tintColor" : "0B8FF8",
@@ -10837,7 +10837,7 @@
       "sha256" : "5ca00f5135e769165c683dc0174ea95bd9052ca751a0704b1a1a20dd297b4e3d",
       "stats" : {
         "downloadCount" : 67,
-        "impressionCount" : 266
+        "impressionCount" : 267
       },
       "subtitle" : "Markdown-based note-taking app that doesn't suck",
       "tintColor" : "F4B85A",
@@ -11513,7 +11513,7 @@
       "sha256" : "c190b719a4ecd98680fcea6a8095432012a2b9e0067adac9d4e7b2c92dc8ca6b",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 230
+        "impressionCount" : 231
       },
       "subtitle" : "Utility to display the Dock in the Touch Bar",
       "tintColor" : "1E1E20",
@@ -11533,7 +11533,7 @@
       "sha256" : "c663f69a0d5101bda8368d640d2a729f28f3bc48c2341993ca801f70791fabc2",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 334
+        "impressionCount" : 335
       },
       "subtitle" : "Install games and apps compiled for Microsoft Windows",
       "tintColor" : "768390",
@@ -11725,7 +11725,7 @@
       "sha256" : "8039f5642afead0eac18306b2303cffb477bf7fdf1ebd550ec82cbe9d54464dc",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 75
+        "impressionCount" : 76
       },
       "subtitle" : "Command-line tool for the App Store version of Kaleidoscope",
       "tintColor" : "9C653C",
@@ -11925,7 +11925,7 @@
       "sha256" : "eae5c25104dbae9368fdcdb8b05c42f4bab671659183e66df25f6bb5b67e9aba",
       "stats" : {
         "downloadCount" : 55,
-        "impressionCount" : 221
+        "impressionCount" : 222
       },
       "subtitle" : "Control windows and applications right from your trackpad",
       "tintColor" : "C4D6E9",
@@ -12585,7 +12585,7 @@
       "sha256" : "ac684024318271c551f5cffbc18cb44ef9e5470a35f64b726e7ed890b0d03e7a",
       "stats" : {
         "downloadCount" : 48,
-        "impressionCount" : 367
+        "impressionCount" : 368
       },
       "subtitle" : "Fork of the DOSBox project",
       "tintColor" : "484463",
@@ -12932,7 +12932,7 @@
       "sha256" : "20362f8564cf7384350f19ee39d46db675473cf82417e7b552e2cdabc363fd4b",
       "stats" : {
         "downloadCount" : 45,
-        "impressionCount" : 198
+        "impressionCount" : 199
       },
       "subtitle" : "Windows manager",
       "tintColor" : "97A9BB",
@@ -13003,7 +13003,7 @@
       "sha256" : "02032bce606998f86dc0375a0c597d0320e689bddaf6528528e310446c432707",
       "stats" : {
         "downloadCount" : 44,
-        "impressionCount" : 351
+        "impressionCount" : 352
       },
       "subtitle" : "Cross-platform GUI for youtube-dl made in Electron and node.js",
       "tintColor" : "9CBDA2",
@@ -13303,7 +13303,7 @@
       "sha256" : "1bd4b72737abca7f10faf3cc0af22d546f232af4b460c6a208dd85d04b14c011",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 207
+        "impressionCount" : 208
       },
       "subtitle" : "Remote access software focusing on usability",
       "tintColor" : "8C64A1",
@@ -15601,7 +15601,7 @@
       "name" : "Box Tools",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 406
+        "impressionCount" : 407
       },
       "subtitle" : "Create and edit any file directly from a web browser",
       "tintColor" : "2774DA",
@@ -15907,7 +15907,7 @@
       "sha256" : "ed5050e0806d633a717807f90e28acf4b6c2ebcd789b68d3b1c4d461aba0dfc7",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 333
+        "impressionCount" : 334
       },
       "subtitle" : "Block nags to accept cookies and privacy invasive tracking in Safari",
       "tintColor" : "C9BF5C",
@@ -18963,7 +18963,7 @@
       "sha256" : "34bbcfca18915294e5da18110a0e8c302effa1dbe1ae0eca9dd5e40d3a8b3a98",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 80
+        "impressionCount" : 81
       },
       "subtitle" : "Downloads scientific computing jobs and runs them invisibly in the background",
       "tintColor" : "959685",
@@ -21730,7 +21730,7 @@
       "sha256" : "61094da70e77fcd43eb5111c1a9fdb09e383a6ba0edcc2f34ac869ac98ec06fd",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 277
+        "impressionCount" : 278
       },
       "subtitle" : "Download manager",
       "tintColor" : "ABD0B6",
@@ -23018,7 +23018,7 @@
       "sha256" : "f8d7fe6e0b8e540a5adc02eda20314f10093f58ca4a85925f607e45e9f02c5ec",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 155
+        "impressionCount" : 156
       },
       "subtitle" : "Usenet downloader focusing on efficiency",
       "tintColor" : "4BA449",
@@ -23155,7 +23155,7 @@
       "sha256" : "40edde41b0add514d061f2c18086c0148b76a3e2337f534f3f150a2d7939af27",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 146
+        "impressionCount" : 147
       },
       "subtitle" : "Website downloader tool",
       "tintColor" : "E3DDE0",
@@ -26824,7 +26824,7 @@
       "sha256" : "49fdca9fb362b96d9e51a5663edc4a7f2d2e27e3f9d14ffcaea60fdb2a155e06",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 154
+        "impressionCount" : 155
       },
       "subtitle" : "App/widget for aria2 download tool",
       "tintColor" : "F0BDB5",
@@ -27061,7 +27061,7 @@
       "sha256" : "8c631c1c0c6b82b063c634f11c8b8d3ab2dd8dfb6b439f419055afc291ea42a0",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 145
+        "impressionCount" : 146
       },
       "subtitle" : "Keeps current IP address in sync",
       "tintColor" : "CEE098",
@@ -28920,7 +28920,7 @@
       "sha256" : "6f9ec965957a8db69632df89fdfdc8bdb90e3971ae3bea67ab69f2fdc30729aa",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 317
+        "impressionCount" : 318
       },
       "subtitle" : "Real-time interactive education platform",
       "tintColor" : "D4DCFE",
@@ -39039,7 +39039,7 @@
       "sha256" : "8c772b2777ac29b52775c9ce8b4281406fe62f0d4565d478112c15408b3a2efc",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 138
+        "impressionCount" : 139
       },
       "subtitle" : "Top-down action game from Pangea Software (a.k.a. Power Pete)",
       "tintColor" : "6C7142",

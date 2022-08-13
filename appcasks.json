@@ -25,7 +25,7 @@
       "sha256" : "af1f384ba44767f6416fa23b9149329e491f9c151ca3c8bc75e7c61a8faf1306",
       "stats" : {
         "downloadCount" : 2953,
-        "impressionCount" : 9403,
+        "impressionCount" : 9404,
         "viewCount" : 975
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c3e9e2ec300d231ee6e9cdfe1dd8fc03d62ac6c23d8ddfcc9358e430dca73ea4",
       "stats" : {
         "downloadCount" : 15732,
-        "impressionCount" : 8220,
+        "impressionCount" : 8222,
         "viewCount" : 907
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8651,
-        "impressionCount" : 7236,
+        "impressionCount" : 7238,
         "viewCount" : 645
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29312,
-        "impressionCount" : 7483,
+        "impressionCount" : 7485,
         "viewCount" : 629
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8671,
-        "impressionCount" : 7542,
+        "impressionCount" : 7543,
         "viewCount" : 628
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6213,
-        "impressionCount" : 7554,
+        "impressionCount" : 7555,
         "viewCount" : 497
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3274,
-        "impressionCount" : 6810,
+        "impressionCount" : 6811,
         "viewCount" : 523
       },
       "subtitle" : "Text editor",
@@ -237,7 +237,7 @@
       "sha256" : "091fa3a5106451f868eb217ac369629da82355b1cc5a5d3dfdd1553bdd1f92c5",
       "stats" : {
         "downloadCount" : 3158,
-        "impressionCount" : 8001,
+        "impressionCount" : 8002,
         "viewCount" : 554
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2096,
-        "impressionCount" : 7554,
+        "impressionCount" : 7555,
         "viewCount" : 802
       },
       "subtitle" : "File archiver",
@@ -373,9 +373,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-handbrake/README.md",
       "sha256" : "767cb16314e3869c42cff78db92bcad7a7faa861c70f97b1326fe3686c62b61f",
       "stats" : {
-        "downloadCount" : 1187,
-        "impressionCount" : 2691,
-        "viewCount" : 168
+        "downloadCount" : 1188,
+        "impressionCount" : 2693,
+        "viewCount" : 169
       },
       "subtitle" : "Open-source video transcoder",
       "tintColor" : "866B36",
@@ -937,7 +937,7 @@
       "sha256" : "9534e444b3102a653f3d0c0e3fb54efb20caf2c91ce121b2db00d2531ab8b7fa",
       "stats" : {
         "downloadCount" : 4321,
-        "impressionCount" : 1976,
+        "impressionCount" : 1977,
         "viewCount" : 110
       },
       "subtitle" : "Office suite",
@@ -1097,7 +1097,7 @@
       "sha256" : "473f994698ec082f16bb20b4824dadbfb744f53a01b737b4016f6cc45f403b83",
       "stats" : {
         "downloadCount" : 3217,
-        "impressionCount" : 1907,
+        "impressionCount" : 1908,
         "viewCount" : 113
       },
       "subtitle" : "Password manager app",
@@ -1211,7 +1211,7 @@
       "sha256" : "e459b9ce81078b8251549168c0d8473c069a14e817f3a8f386ec84b0f220955a",
       "stats" : {
         "downloadCount" : 2618,
-        "impressionCount" : 2301,
+        "impressionCount" : 2302,
         "viewCount" : 199
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
@@ -1279,7 +1279,7 @@
       "sha256" : "b7c4011bcbd374c25e27148b452dbc2b0b72846bd993ffe6ac0ba922c2b5612f",
       "stats" : {
         "downloadCount" : 2540,
-        "impressionCount" : 2134,
+        "impressionCount" : 2135,
         "viewCount" : 184
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1711,7 +1711,7 @@
       "sha256" : "0e940c1c31213ea3c8c3cd3d56e893f74a595b3bae29456827f6c34173eabb1b",
       "stats" : {
         "downloadCount" : 1118,
-        "impressionCount" : 1930,
+        "impressionCount" : 1931,
         "viewCount" : 98
       },
       "subtitle" : "Multi-track audio editor and recorder",
@@ -2150,7 +2150,7 @@
       "sha256" : "abb88e86b938fea173ee458c5aa393daff6ae3dc3302fc3ed83628f322566623",
       "stats" : {
         "downloadCount" : 484,
-        "impressionCount" : 3765
+        "impressionCount" : 3766
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2306,7 +2306,7 @@
       "sha256" : "2d0d3bdc945b42c0c1fe79b1eb74e5969b5f768ffc56aa286d73d3492873b173",
       "stats" : {
         "downloadCount" : 299,
-        "impressionCount" : 1662,
+        "impressionCount" : 1663,
         "viewCount" : 111
       },
       "subtitle" : "Open-source, KeePass-client and password manager",
@@ -3128,7 +3128,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 6024,
-        "impressionCount" : 859
+        "impressionCount" : 860
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3340,7 +3340,7 @@
       "sha256" : "b50c416828005e1eec0dc8066c961efcc389e6be1a5a595541ea62d48d31a391",
       "stats" : {
         "downloadCount" : 2842,
-        "impressionCount" : 1137
+        "impressionCount" : 1138
       },
       "subtitle" : "Free and open-source media player",
       "tintColor" : "29445A",
@@ -3483,7 +3483,7 @@
       "sha256" : "bb5858619a58561d07d23df470b9548b82c1544cea9ffade30c4362dc8f3bd93",
       "stats" : {
         "downloadCount" : 2027,
-        "impressionCount" : 655
+        "impressionCount" : 656
       },
       "subtitle" : "Free and open-source OpenVPN client",
       "tintColor" : "5E6A74",
@@ -4433,7 +4433,7 @@
       "sha256" : "4dc971e5275e5eda8d4c48c5c7cbab3483c5c64ef2873f162aad002524c69c9c",
       "stats" : {
         "downloadCount" : 741,
-        "impressionCount" : 993
+        "impressionCount" : 994
       },
       "subtitle" : "Menu bar calendar",
       "tintColor" : "B9C2D5",
@@ -9174,7 +9174,7 @@
       "sha256" : "8f8d72ab99fd47c7b9df1acd51c6fcc8b6ebb8c574587e8e1fc6cdc5868ba21c",
       "stats" : {
         "downloadCount" : 92,
-        "impressionCount" : 821
+        "impressionCount" : 822
       },
       "subtitle" : "Desktop casting/streaming app for Apple TV and Chromecast",
       "tintColor" : "9BB0BE",
@@ -12827,7 +12827,7 @@
       "sha256" : "2871b5324210a04eb13b27aa69ab572215a6ac11a33ca96de8e8526b39f77113",
       "stats" : {
         "downloadCount" : 46,
-        "impressionCount" : 676
+        "impressionCount" : 677
       },
       "subtitle" : "Finder Toolbar app to open the current directory in the Terminal",
       "tintColor" : "2F2F2F",
@@ -14749,6 +14749,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "mkvtools",
+      "categories" : [
+        "public.app-category.video"
+      ],
+      "downloadURL" : "https://www.emmgunn.com/downloads/mkvtools3.7.2.zip",
+      "homepage" : "https://www.emmgunn.com/mkvtools-home/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mkvtools/AppIcon.png",
+      "localizedDescription" : "App to create and edit MKV videos",
+      "name" : "MKVtools",
+      "sha256" : "c7b4ab1a0031146ad76660b526e3be778eefa2d1ffaf590023c9b1d839e433e1",
+      "stats" : {
+        "downloadCount" : 34,
+        "impressionCount" : 402
+      },
+      "subtitle" : "App to create and edit MKV videos",
+      "tintColor" : "C1C6C9",
+      "version" : "3.7.2"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "screenflick",
       "categories" : [
         "public.app-category.video"
@@ -14928,26 +14948,6 @@
       "subtitle" : "Programming language for mathematical, statistical and logical analysis of data",
       "tintColor" : "D5BF26",
       "version" : "903"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "mkvtools",
-      "categories" : [
-        "public.app-category.video"
-      ],
-      "downloadURL" : "https://www.emmgunn.com/downloads/mkvtools3.7.2.zip",
-      "homepage" : "https://www.emmgunn.com/mkvtools-home/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mkvtools/AppIcon.png",
-      "localizedDescription" : "App to create and edit MKV videos",
-      "name" : "MKVtools",
-      "sha256" : "c7b4ab1a0031146ad76660b526e3be778eefa2d1ffaf590023c9b1d839e433e1",
-      "stats" : {
-        "downloadCount" : 33,
-        "impressionCount" : 400
-      },
-      "subtitle" : "App to create and edit MKV videos",
-      "tintColor" : "C1C6C9",
-      "version" : "3.7.2"
     },
     {
       "beta" : false,
@@ -19968,7 +19968,7 @@
       "sha256" : "39021b0538bab26a6c25abd295e9ba1f833ccb419ccaa70ee8a1389e0533d126",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 569
+        "impressionCount" : 570
       },
       "subtitle" : "For browsing, enhancing and converting images",
       "tintColor" : "AEB4B6",
@@ -23592,7 +23592,7 @@
       "sha256" : "5e99acc34113b6974d799a4442682d3b82efc7096fc9a3fef78dc471975d68e8",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 155
+        "impressionCount" : 156
       },
       "subtitle" : "Mechanical keyboard simulator",
       "tintColor" : "000000",
@@ -24651,7 +24651,7 @@
       "sha256" : "d5f57d1a7ef9a85b32c800aa8c94ea73420940b6a9e463561df343fe82c64c6c",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 515
+        "impressionCount" : 516
       },
       "tintColor" : "8BA599",
       "version" : "2.25"
@@ -28277,7 +28277,7 @@
       "sha256" : "a87ea0a73c00169eaaa935f3ba83d41082b8842954b4b914835c09648293d8dc",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 149
+        "impressionCount" : 150
       },
       "subtitle" : "Convert avi, wmv, mkv, rm, mov and more to other formats",
       "tintColor" : "E3E2E2",
@@ -33403,7 +33403,7 @@
       "sha256" : "2557e042d1df12dacfe5d87ff6c96d252721f3d10a26dbb7f8dc2e3ac6248e91",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 99
+        "impressionCount" : 100
       },
       "subtitle" : "Helper-application for MP4tools, MKVtools, and AVItools",
       "tintColor" : "B8BBC0",
@@ -35946,7 +35946,7 @@
       "sha256" : "59e9992f29569b950dfeea397814e88cea5b45b1ed7ddaa8f748774ac6db6db7",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 109
+        "impressionCount" : 110
       },
       "subtitle" : "Modular touch control surface editor for OSC & MIDI",
       "tintColor" : "282828",
@@ -41179,8 +41179,8 @@
       "name" : "MKVToolNix",
       "sha256" : "6f7c862a2114c9bd58b4455ef486c61ddd688037d15be0b6e646290535b516a9",
       "stats" : {
-        "downloadCount" : 259,
-        "impressionCount" : 118
+        "downloadCount" : 260,
+        "impressionCount" : 121
       },
       "subtitle" : "Set of tools to create, alter and inspect Matroska files (MKV)",
       "tintColor" : "665160",
@@ -41424,7 +41424,7 @@
       "sha256" : "5234e17218624e6bb341a2bb23c8994310b7d4962d3f878c3ed27b265d2791d6",
       "stats" : {
         "downloadCount" : 207,
-        "impressionCount" : 43
+        "impressionCount" : 44
       },
       "subtitle" : "Lossless audio decoder",
       "tintColor" : "A8A3B0",
@@ -41793,8 +41793,8 @@
       "name" : "MakeMKV",
       "sha256" : "8bcb532b95192023fb78ec4d4c19deba8e9f525bcce21834e548b4ae3c118eb6",
       "stats" : {
-        "downloadCount" : 161,
-        "impressionCount" : 71
+        "downloadCount" : 162,
+        "impressionCount" : 73
       },
       "subtitle" : "Video format converter (transcoder)",
       "tintColor" : "4E82A8",

@@ -62,11 +62,11 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 244,
-        "impressionCount" : 85,
+        "downloadCount" : 246,
+        "impressionCount" : 86,
         "issueCount" : 6,
         "starCount" : 26,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -110,10 +110,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 87,
-        "impressionCount" : 1512,
+        "impressionCount" : 1513,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 123,
+        "viewCount" : 124,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -157,10 +157,10 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 1972,
+        "impressionCount" : 1973,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 144,
+        "viewCount" : 145,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -209,10 +209,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 36,
-        "impressionCount" : 4086,
+        "impressionCount" : 4087,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 660,
+        "viewCount" : 661,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -254,10 +254,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2627,
+        "impressionCount" : 2628,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 185,
+        "viewCount" : 186,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -303,10 +303,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1272,
+        "impressionCount" : 1273,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 82,
+        "viewCount" : 83,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -345,10 +345,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3029,
+        "impressionCount" : 3030,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 521,
+        "viewCount" : 522,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -467,10 +467,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4140,
+        "impressionCount" : 4141,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 539,
+        "viewCount" : 540,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -509,10 +509,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 11,
-        "impressionCount" : 66,
+        "impressionCount" : 67,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 7,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -1213,10 +1213,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2479,
+        "impressionCount" : 2480,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 150,
+        "viewCount" : 151,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1463,10 +1463,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2430,
+        "impressionCount" : 2431,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 125,
+        "viewCount" : 126,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",

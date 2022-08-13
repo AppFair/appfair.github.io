@@ -3100,19 +3100,19 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://cdn.zoom.us/prod/5.11.3.9065/Zoom.pkg",
+      "downloadURL" : "https://cdn.zoom.us/prod/5.11.5.9788/Zoom.pkg",
       "homepage" : "https://www.zoom.us/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zoom/AppIcon.png",
       "localizedDescription" : "Video communication and virtual meeting platform",
       "name" : "Zoom.us",
-      "sha256" : "8fad6e2afc52ae23d87157f1580ca929d6e7e4f075349139b8fa0de1e3a8804b",
+      "sha256" : "c4f7713199e18745cb497b98d65770131fa8bb3adcb33c00e31e42441c68f958",
       "stats" : {
         "downloadCount" : 7499,
         "impressionCount" : 446
       },
       "subtitle" : "Video communication and virtual meeting platform",
-      "version" : "5.11.3.9065",
-      "versionDate" : "2022-07-19T00:00:00Z"
+      "version" : "5.11.5.9788",
+      "versionDate" : "2022-08-13T18:23:19Z"
     },
     {
       "beta" : false,
@@ -61059,17 +61059,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://cdn.zoom.us/prod/5.11.3.9065/ZoomInstallerIT.pkg",
+      "downloadURL" : "https://cdn.zoom.us/prod/5.11.5.9788/ZoomInstallerIT.pkg",
       "homepage" : "https://support.zoom.us/hc/en-us/articles/115001799006-Mass-Deployment-with-Preconfigured-Settings-for-Mac",
       "localizedDescription" : "Video communication and virtual meeting platform",
       "name" : "Zoom for IT Admins",
-      "sha256" : "640ee7ced8b28a8b392b7da8904f12adf825c5c5aacd0ffe7a6bfd7035d9d81c",
+      "sha256" : "b86408366eb9e2032378e97b1be4ff15129eae61e662eaa8361550194e1edd63",
       "stats" : {
         "downloadCount" : 216
       },
       "subtitle" : "Video communication and virtual meeting platform",
-      "version" : "5.11.3.9065",
-      "versionDate" : "2022-07-19T00:00:00Z"
+      "version" : "5.11.5.9788",
+      "versionDate" : "2022-08-13T18:23:19Z"
     },
     {
       "beta" : false,
@@ -73716,20 +73716,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "antconc",
-      "caption" : "AntConc updated from 4.1.0 to 4.1.1",
-      "date" : "2022-08-11T10:22:09Z",
-      "identifier" : "release-antconc-4.1.1",
-      "title" : "New Release: AntConc 4.1.1"
-    },
-    {
-      "appID" : "mission-control-plus",
-      "caption" : "Mission Control Plus updated from 1.18 to 1.19",
-      "date" : "2022-08-11T10:22:09Z",
-      "identifier" : "release-mission-control-plus-1.19",
-      "title" : "New Release: Mission Control Plus 1.19"
-    },
-    {
       "appID" : "nordlocker",
       "caption" : "NordLocker updated from 3.3.0,159 to 3.3.1,160",
       "date" : "2022-08-11T10:22:09Z",
@@ -74414,6 +74400,20 @@
       "date" : "2022-08-13T05:21:39Z",
       "identifier" : "release-vnc-server-6.10.1",
       "title" : "New Release: Real VNC Server 6.10.1"
+    },
+    {
+      "appID" : "zoom",
+      "caption" : "Zoom.us updated from 5.11.3.9065 to 5.11.5.9788",
+      "date" : "2022-08-13T18:23:20Z",
+      "identifier" : "release-zoom-5.11.5.9788",
+      "title" : "New Release: Zoom.us 5.11.5.9788"
+    },
+    {
+      "appID" : "zoom-for-it-admins",
+      "caption" : "Zoom for IT Admins updated from 5.11.3.9065 to 5.11.5.9788",
+      "date" : "2022-08-13T18:23:20Z",
+      "identifier" : "release-zoom-for-it-admins-5.11.5.9788",
+      "title" : "New Release: Zoom for IT Admins 5.11.5.9788"
     }
   ],
   "platform" : "macos",

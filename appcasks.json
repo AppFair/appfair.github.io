@@ -17622,19 +17622,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://updates.versionsapp.com/v2/prod/Versions-2.4-2031.zip",
+      "downloadURL" : "https://updates.versionsapp.com/v2/prod/Versions-2.4.1-2032.zip",
       "homepage" : "https://versionsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-versions/AppIcon.png",
       "localizedDescription" : "Subversion client",
       "name" : "Versions",
-      "sha256" : "d51afcfdb4c26f9b687f772169ef764f848d392a70abdfcb8300ef361730a3a3",
+      "sha256" : "75521751729563a8df7105fb45763575312fda7c2143bf97a8c4016157c12bdf",
       "stats" : {
         "downloadCount" : 23,
         "impressionCount" : 165
       },
       "subtitle" : "Subversion client",
       "tintColor" : "277C5F",
-      "version" : "2.4,2031"
+      "version" : "2.4.1,2032",
+      "versionDate" : "2022-08-14T21:21:44Z"
     },
     {
       "beta" : false,
@@ -17980,19 +17981,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://jp-minerals.org/vesta/archives/3.5.7/VESTA.dmg",
+      "downloadURL" : "https://jp-minerals.org/vesta/archives/3.5.8/VESTA.dmg",
       "homepage" : "https://jp-minerals.org/vesta/en/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vesta/AppIcon.png",
       "localizedDescription" : "Visualization for electronic and structural analysis",
       "name" : "VESTA",
-      "sha256" : "5e7110f4c09a426fd6abc0db2b6ef1fc8288e8d4ffa393a22338d93c10d792ef",
+      "sha256" : "2fcbe3dcc3701e8de6e703f5941c8d8c767855354e5929b4022c3522da2c6d2c",
       "stats" : {
         "downloadCount" : 22,
         "impressionCount" : 158
       },
       "subtitle" : "Visualization for electronic and structural analysis",
       "tintColor" : "DF9D7B",
-      "version" : "3.5.7"
+      "version" : "3.5.8",
+      "versionDate" : "2022-08-14T21:21:44Z"
     },
     {
       "beta" : false,
@@ -71146,8 +71148,8 @@
         "downloadCount" : 3
       },
       "subtitle" : "Client for the Zoho cloud storage service",
-      "version" : "2.6.47",
-      "versionDate" : "2022-07-18T00:00:00Z"
+      "version" : "2.6.49",
+      "versionDate" : "2022-08-14T21:21:44Z"
     },
     {
       "beta" : false,
@@ -73682,27 +73684,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "telegram-desktop",
-      "caption" : "Telegram Desktop updated from 4.0.2 to 4.1.0",
-      "date" : "2022-08-13T03:57:11Z",
-      "identifier" : "release-telegram-desktop-4.1.0",
-      "title" : "New Release: Telegram Desktop 4.1.0"
-    },
-    {
-      "appID" : "duet",
-      "caption" : "Duet updated from 2.4.3.0 to 2.4.4.0",
-      "date" : "2022-08-13T03:57:11Z",
-      "identifier" : "release-duet-2.4.4.0",
-      "title" : "New Release: Duet 2.4.4.0"
-    },
-    {
-      "appID" : "jitsi-meet",
-      "caption" : "Jitsi Meet updated from 2022.7.1 to 2022.8.1",
-      "date" : "2022-08-13T03:57:11Z",
-      "identifier" : "release-jitsi-meet-2022.8.1",
-      "title" : "New Release: Jitsi Meet 2022.8.1"
-    },
-    {
       "appID" : "app-cleaner",
       "caption" : "Nektony App Cleaner & Uninstaller updated from 7.8.1,880 to 7.8.2,883",
       "date" : "2022-08-13T03:57:11Z",
@@ -74380,6 +74361,27 @@
       "date" : "2022-08-14T14:25:04Z",
       "identifier" : "release-daedalus-testnet-4.12.1,22105",
       "title" : "New Release: Daedalus Testnet 4.12.1,22105"
+    },
+    {
+      "appID" : "versions",
+      "caption" : "Versions updated from 2.4,2031 to 2.4.1,2032",
+      "date" : "2022-08-14T21:21:45Z",
+      "identifier" : "release-versions-2.4.1,2032",
+      "title" : "New Release: Versions 2.4.1,2032"
+    },
+    {
+      "appID" : "vesta",
+      "caption" : "VESTA updated from 3.5.7 to 3.5.8",
+      "date" : "2022-08-14T21:21:46Z",
+      "identifier" : "release-vesta-3.5.8",
+      "title" : "New Release: VESTA 3.5.8"
+    },
+    {
+      "appID" : "zoho-workdrive",
+      "caption" : "Zoho WorkDrive updated from 2.6.47 to 2.6.49",
+      "date" : "2022-08-14T21:21:46Z",
+      "identifier" : "release-zoho-workdrive-2.6.49",
+      "title" : "New Release: Zoho WorkDrive 2.6.49"
     }
   ],
   "platform" : "macos",

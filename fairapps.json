@@ -1432,6 +1432,49 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.190/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.190/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.190/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.190/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.190/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.190/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.190/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.190/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.190/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "20d4a09df96a18e7e494e2f2976a35a3c0dff8844a1bf7453c53c2ed49537880",
+      "size" : 2180549,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.190",
+      "versionDate" : "2022-08-14T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.189...0.9.190"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Tweet-Storm",
       "categories" : [
@@ -1563,10 +1606,10 @@
     },
     {
       "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo updated from 0.9.156 to 0.9.157",
-      "date" : "2022-08-14T04:31:36Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.157",
-      "title" : "New Release: Cloud Cuckoo 0.9.157"
+      "caption" : "Cloud Cuckoo 0.9.190 released",
+      "date" : "2022-08-14T15:18:23Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.190",
+      "title" : "New Release: Cloud Cuckoo 0.9.190"
     }
   ],
   "platform" : "macos"

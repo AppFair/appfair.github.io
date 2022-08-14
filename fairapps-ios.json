@@ -37,8 +37,8 @@
       "size" : 8491944,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 108,
-        "impressionCount" : 1518,
+        "downloadCount" : 110,
+        "impressionCount" : 1522,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 126,
@@ -82,11 +82,11 @@
       "size" : 5482239,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 84,
-        "impressionCount" : 1277,
+        "downloadCount" : 86,
+        "impressionCount" : 1280,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 83,
+        "viewCount" : 84,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -127,7 +127,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 66,
-        "impressionCount" : 1978,
+        "impressionCount" : 1982,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 147,
@@ -170,7 +170,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2633,
+        "impressionCount" : 2637,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 187,
@@ -214,7 +214,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 21,
-        "impressionCount" : 2485,
+        "impressionCount" : 2489,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 153,
@@ -288,11 +288,11 @@
       "size" : 5563621,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 13,
-        "impressionCount" : 72,
+        "downloadCount" : 15,
+        "impressionCount" : 76,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 10,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -498,7 +498,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2436,
+        "impressionCount" : 2440,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 128,
@@ -789,7 +789,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4147,
+        "impressionCount" : 4150,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 542,

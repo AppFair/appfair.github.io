@@ -947,6 +947,48 @@
       "versionDescription" : "Release 0.0.17"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "type" : "com.apple.security.files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_01-mac-1574x1294.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_02-mac-1228x916.png"
+      ],
+      "sha256" : "10f12c2de1d0a634050caec65eaf07aaf44642aa0310c88695022971b87451e7",
+      "size" : 3926096,
+      "stats" : {
+        "coreSize" : 102576,
+        "downloadCount" : 5,
+        "impressionCount" : 2491,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 153,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.90",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Silly-Little-App",
       "categories" : [
@@ -1138,48 +1180,6 @@
       "version" : "0.0.24",
       "versionDate" : "2022-02-12T00:00:00Z",
       "versionDescription" : "Release 0.0.24"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion.png",
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "type" : "com.apple.security.files.user-selected.read-write",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_01-mac-1574x1294.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_02-mac-1228x916.png"
-      ],
-      "sha256" : "10f12c2de1d0a634050caec65eaf07aaf44642aa0310c88695022971b87451e7",
-      "size" : 3926096,
-      "stats" : {
-        "coreSize" : 102576,
-        "downloadCount" : 4,
-        "impressionCount" : 2491,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 153,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.90",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
     },
     {
       "beta" : true,

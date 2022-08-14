@@ -62,8 +62,8 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 262,
-        "impressionCount" : 89,
+        "downloadCount" : 265,
+        "impressionCount" : 94,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 20,
@@ -109,8 +109,8 @@
       "size" : 3881835,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 89,
-        "impressionCount" : 1518,
+        "downloadCount" : 91,
+        "impressionCount" : 1522,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 126,
@@ -157,7 +157,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 1978,
+        "impressionCount" : 1982,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 147,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4092,
+        "impressionCount" : 4095,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 663,
@@ -254,7 +254,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2633,
+        "impressionCount" : 2637,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 187,
@@ -303,10 +303,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 22,
-        "impressionCount" : 1277,
+        "impressionCount" : 1280,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 83,
+        "viewCount" : 84,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -345,10 +345,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3035,
+        "impressionCount" : 3038,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 523,
+        "viewCount" : 525,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -467,7 +467,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4147,
+        "impressionCount" : 4150,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 542,
@@ -508,11 +508,11 @@
       "size" : 2180358,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 13,
-        "impressionCount" : 72,
+        "downloadCount" : 15,
+        "impressionCount" : 76,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 10,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 4,
-        "impressionCount" : 2485,
+        "impressionCount" : 2489,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 153,
@@ -1463,7 +1463,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2436,
+        "impressionCount" : 2440,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 128,

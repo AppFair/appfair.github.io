@@ -1492,9 +1492,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/README.md",
       "sha256" : "6c7bd8e0b3dbadfa25d070fb4bc3f3b322e5a1b85c50a922ee2d8abb09280744",
       "stats" : {
-        "downloadCount" : 2102,
-        "impressionCount" : 3603,
-        "viewCount" : 169
+        "downloadCount" : 2103,
+        "impressionCount" : 3604,
+        "viewCount" : 170
       },
       "subtitle" : "E-books management software",
       "tintColor" : "75706B",
@@ -13085,7 +13085,7 @@
       "sha256" : "02032bce606998f86dc0375a0c597d0320e689bddaf6528528e310446c432707",
       "stats" : {
         "downloadCount" : 43,
-        "impressionCount" : 357
+        "impressionCount" : 358
       },
       "subtitle" : "Cross-platform GUI for youtube-dl made in Electron and node.js",
       "tintColor" : "9CBDA2",

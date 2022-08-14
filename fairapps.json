@@ -62,11 +62,11 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 295,
-        "impressionCount" : 101,
+        "downloadCount" : 297,
+        "impressionCount" : 102,
         "issueCount" : 6,
         "starCount" : 26,
-        "viewCount" : 20,
+        "viewCount" : 21,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -109,8 +109,8 @@
       "size" : 3881835,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 110,
-        "impressionCount" : 1529,
+        "downloadCount" : 111,
+        "impressionCount" : 1531,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 128,
@@ -157,7 +157,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 1989,
+        "impressionCount" : 1991,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 148,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4100,
+        "impressionCount" : 4102,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 664,
@@ -254,7 +254,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2646,
+        "impressionCount" : 2648,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 189,
@@ -302,8 +302,8 @@
       "size" : 2155523,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 22,
-        "impressionCount" : 1286,
+        "downloadCount" : 23,
+        "impressionCount" : 1288,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 84,
@@ -345,10 +345,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3043,
+        "impressionCount" : 3045,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 526,
+        "viewCount" : 527,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -467,10 +467,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4156,
+        "impressionCount" : 4158,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 544,
+        "viewCount" : 545,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -977,7 +977,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2497,
+        "impressionCount" : 2499,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 156,
@@ -1420,7 +1420,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2447,
+        "impressionCount" : 2449,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 128,

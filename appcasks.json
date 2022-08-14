@@ -1499,7 +1499,7 @@
       "subtitle" : "E-books management software",
       "tintColor" : "75706B",
       "version" : "6.3.0",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3630,7 +3630,7 @@
       "subtitle" : "Kubernetes and container management on the desktop",
       "tintColor" : "389ACA",
       "version" : "1.5.1",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7099,7 +7099,7 @@
       "subtitle" : "Virtual video-calling space",
       "tintColor" : "3260E6",
       "version" : "0.3.5",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7299,7 +7299,7 @@
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
       "version" : "20.0.2",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9038,7 +9038,7 @@
       "subtitle" : "Desktop wallet for cryptocurrency assets",
       "tintColor" : "162763",
       "version" : "22.8.12",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10078,7 +10078,7 @@
       "subtitle" : "Fork of Nylas Mail",
       "tintColor" : "95E5E8",
       "version" : "1.10.5",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15317,7 +15317,7 @@
       "subtitle" : "2D and 3D game engine",
       "tintColor" : "445B6D",
       "version" : "3.5",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16596,7 +16596,7 @@
       "subtitle" : "Video-encoding and transcoding app",
       "tintColor" : "474747",
       "version" : "3.1.5",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17190,7 +17190,7 @@
       "subtitle" : "Tool for running time-saving scripts",
       "tintColor" : "7B777A",
       "version" : "3.1.2,1661",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20511,7 +20511,7 @@
       "subtitle" : "Display real-time trends of Chinese funds in the menubar",
       "tintColor" : "C7172C",
       "version" : "6.2.2",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22243,7 +22243,7 @@
       "subtitle" : "Markdown writing, note taking, and static blog generator app",
       "tintColor" : "75737B",
       "version" : "4.3.2",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22508,7 +22508,7 @@
       "subtitle" : "Mastodon, Pleroma and Misskey client",
       "tintColor" : "B4DCEA",
       "version" : "4.6.3",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22628,7 +22628,7 @@
       "subtitle" : "GUI Client for DynamoDB",
       "tintColor" : "43A1FF",
       "version" : "1.10.8",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24424,7 +24424,7 @@
       "subtitle" : "Video editor",
       "tintColor" : "3E3E3E",
       "version" : "3.3.0.7657.0",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -26859,7 +26859,7 @@
       "subtitle" : "Music streaming service",
       "tintColor" : "5EDDF7",
       "version" : "22.8.2",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28839,7 +28839,7 @@
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
       "version" : "0.184.2",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34143,7 +34143,7 @@
       "subtitle" : "Protects credentials and syncs configurations",
       "tintColor" : "728489",
       "version" : "1.4.28",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40925,7 +40925,7 @@
       "subtitle" : "Managed desktop virtualization solution",
       "tintColor" : "B1C2D3",
       "version" : "22.06.1.51,2206.1",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46679,7 +46679,7 @@
       "subtitle" : "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others",
       "tintColor" : "879493",
       "version" : "5.1.0",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47683,7 +47683,7 @@
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
       "version" : "10.17.1t",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48234,7 +48234,7 @@
       "subtitle" : "GPS log file viewer and analyzer",
       "tintColor" : "DBDBDB",
       "version" : "11.3",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57705,7 +57705,7 @@
       "subtitle" : "Open-source application for biological image analysis",
       "tintColor" : "DD6A96",
       "version" : "4.2.4",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -58635,7 +58635,7 @@
       "subtitle" : "File transfer over ad-hoc wifi",
       "tintColor" : "B7B7B7",
       "version" : "6.0",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65033,7 +65033,7 @@
       },
       "subtitle" : "VPN client",
       "version" : "3.9.8",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66660,7 +66660,7 @@
       },
       "subtitle" : "Software package for econometric analysis",
       "version" : "2022b",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67226,7 +67226,7 @@
       },
       "subtitle" : "Data Modeling for NoSQL databases, storage formats, REST APIs, and JSON in RDBMS",
       "version" : "6.4.0",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67749,7 +67749,7 @@
       },
       "subtitle" : "IDE with visualizations for improving software comprehensibility",
       "version" : "2.0.6_10",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69789,7 +69789,7 @@
       },
       "subtitle" : "Backup software with folder synchronization",
       "version" : "3.6.9,1676",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -71570,7 +71570,7 @@
       },
       "subtitle" : "Visualization and debugging tool for robotics",
       "version" : "1.21.0",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72433,7 +72433,7 @@
       },
       "subtitle" : "Cryptocurrency wallet for test ada on the Cardano Testnet blockchain",
       "version" : "4.12.1,22105",
-      "versionDate" : "2022-08-14T14:24:59Z"
+      "versionDate" : "2022-08-14T00:00:00Z"
     },
     {
       "beta" : false,

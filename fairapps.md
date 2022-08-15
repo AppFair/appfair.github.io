@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.97`` | `368` | `2022-08-09T00:00:00Z` | `9.6 MB` | `135` | `26` | `27` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.97`` | `369` | `2022-08-09T00:00:00Z` | `9.6 MB` | `135` | `26` | `27` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `37` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4140` | `669` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `35` | `2022-07-29T00:00:00Z` | `2.2 MB` | `1334` | `88` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `2695` | `194` | `0` | `0` |  |
@@ -53,11 +53,11 @@ tr:nth-child(even) {
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `4` | `2022-01-23T00:00:00Z` | `2.4 MB` | `1982` | `115` | `0` | `0` |  |
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `4` | `2022-01-24T00:00:00Z` | `2.6 MB` | `616` | `54` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.51β`` | `4` | `2022-01-16T00:00:00Z` | `2.3 MB` | `312` | `26` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.453β`` | `3` | `2022-08-15T00:00:00Z` | `9.5 MB` | `1` | `1` | `1` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `621` | `43` | `0` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `3` | `2022-07-20T00:00:00Z` | `12.9 MB` | `2496` | `132` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.451`` | `2` | `2022-08-15T00:00:00Z` | `9.5 MB` | `2` | `1` | `1` | `0` |  |
 | [``App Fair``](https://appfair.app) | ``0.8.102β`` | `2` | `2022-08-15T00:00:00Z` | `9.6 MB` | `1` | `1` | `27` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454β`` | `2` | `2022-08-15T00:00:00Z` | `9.5 MB` | `1` | `1` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.451`` | `2` | `2022-08-15T00:00:00Z` | `9.5 MB` | `3` | `1` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.220`` | `2` | `2022-08-15T00:00:00Z` | `2.2 MB` | `5` | `3` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.48`` | `2` | `2022-08-15T00:00:00Z` | `3.9 MB` | `9` | `3` | `1` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `2` | `2022-05-01T00:00:00Z` | `2.6 MB` | `584` | `38` | `0` | `0` |  |

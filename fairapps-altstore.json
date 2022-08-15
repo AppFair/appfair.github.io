@@ -1,6 +1,47 @@
 {
   "apps": [
     {
+      "beta": true,
+      "bundleIdentifier": "app.Tune-Out",
+      "categories": [],
+      "developerName": "fairapps <fairapps@appfair.org>",
+      "downloadURL": "https://github.com/Tune-Out/App/releases/download/0.8.453/Tune-Out-iOS.ipa",
+      "fundingLinks": [],
+      "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.453/Tune-Out.png",
+      "localizedDescription": "Stream Internet Radio",
+      "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.453/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name": "Tune Out",
+      "permissions": [
+        {
+          "identifier": "com.apple.security.network.client",
+          "type": "entitlement",
+          "usageDescription": "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL": "https://github.com/Tune-Out/App/releases/download/0.8.453/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs": [
+        "https://github.com/Tune-Out/App/releases/download/0.8.453/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.453/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.453/screenshot_03-iphone-1170x2532.png"
+      ],
+      "sha256": "1483ff700505ffa4b54e83ad736c063ce20a8374d2610cda6ccd1e3c95c6f62b",
+      "size": 17680042,
+      "stats": {
+        "coreSize": 170784,
+        "downloadCount": 2,
+        "impressionCount": 1,
+        "issueCount": 0,
+        "starCount": 1,
+        "viewCount": 1,
+        "watcherCount": 0
+      },
+      "subtitle": "Stream Internet Radio",
+      "tintColor": "32ADE6",
+      "version": "0.8.453",
+      "versionDate": "2022-08-15T16:38:40Z",
+      "versionDescription": "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.452...0.8.453"
+    },
+    {
       "beta": false,
       "bundleIdentifier": "app.Tune-Out",
       "categories": [],
@@ -27,9 +68,9 @@
       "sha256": "716677098bb24fe193128105e30ed23d64e208d9cc73919fef66213036d3bb4c",
       "size": 17680056,
       "stats": {
-        "coreSize": 103112,
+        "coreSize": 170784,
         "downloadCount": 2,
-        "impressionCount": 1,
+        "impressionCount": 2,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 1,
@@ -77,7 +118,7 @@
       "stats": {
         "coreSize": 102480,
         "downloadCount": 2,
-        "impressionCount": 8,
+        "impressionCount": 9,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 3,

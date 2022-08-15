@@ -62,11 +62,11 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 362,
-        "impressionCount" : 124,
+        "downloadCount" : 363,
+        "impressionCount" : 132,
         "issueCount" : 6,
         "starCount" : 27,
-        "viewCount" : 25,
+        "viewCount" : 26,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -111,7 +111,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 2030,
+        "impressionCount" : 2033,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 151,
@@ -163,7 +163,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4134,
+        "impressionCount" : 4136,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 668,
@@ -212,7 +212,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1327,
+        "impressionCount" : 1330,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 87,
@@ -257,7 +257,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2688,
+        "impressionCount" : 2691,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 193,
@@ -299,7 +299,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3077,
+        "impressionCount" : 3079,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 530,
@@ -421,7 +421,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4196,
+        "impressionCount" : 4198,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 550,
@@ -931,7 +931,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2538,
+        "impressionCount" : 2542,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 158,
@@ -1312,49 +1312,6 @@
       "versionDescription" : "Release 0.0.51"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.215/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.215/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.215/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.215/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.215/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.215/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.215/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.215/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.215/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "15cebda842e39757ba9c2db624de43928e79fb028152d2ce90e338fdbead642a",
-      "size" : 2192557,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 3,
-        "impressionCount" : 22,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.215",
-      "versionDate" : "2022-08-15T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.214...0.9.215"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "categories" : [
@@ -1417,7 +1374,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2488,
+        "impressionCount" : 2492,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 130,
@@ -1429,7 +1386,7 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
@@ -1508,7 +1465,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1692,18 +1649,18 @@
       "title" : "New Release: App Fair 0.8.97"
     },
     {
-      "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo updated from 0.9.214 to 0.9.215",
-      "date" : "2022-08-15T04:18:13Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.215",
-      "title" : "New Release: Cloud Cuckoo 0.9.215"
-    },
-    {
       "appID" : "app.Stanza-Redux",
       "caption" : "Stanza Redux updated from 0.3.46 to 0.3.48",
       "date" : "2022-08-15T15:04:01Z",
       "identifier" : "release-app.Stanza-Redux-0.3.48",
       "title" : "New Release: Stanza Redux 0.3.48"
+    },
+    {
+      "appID" : "app.Cloud-Cuckoo",
+      "caption" : "Cloud Cuckoo updated from 0.9.215 to 0.9.220",
+      "date" : "2022-08-15T15:20:41Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.220",
+      "title" : "New Release: Cloud Cuckoo 0.9.220"
     }
   ],
   "platform" : "macos"

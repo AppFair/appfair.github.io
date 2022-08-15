@@ -62,8 +62,8 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 335,
-        "impressionCount" : 107,
+        "downloadCount" : 339,
+        "impressionCount" : 111,
         "issueCount" : 6,
         "starCount" : 26,
         "viewCount" : 23,
@@ -110,7 +110,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 2012,
+        "impressionCount" : 2016,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 150,
@@ -162,10 +162,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4116,
+        "impressionCount" : 4120,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 666,
+        "viewCount" : 667,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -211,7 +211,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1309,
+        "impressionCount" : 1313,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 86,
@@ -256,10 +256,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2669,
+        "impressionCount" : 2674,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 191,
+        "viewCount" : 192,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -298,7 +298,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3059,
+        "impressionCount" : 3063,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 529,
@@ -420,10 +420,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4177,
+        "impressionCount" : 4182,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 548,
+        "viewCount" : 549,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -930,7 +930,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2520,
+        "impressionCount" : 2524,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 157,
@@ -1373,10 +1373,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2469,
+        "impressionCount" : 2474,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 128,
+        "viewCount" : 129,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1415,10 +1415,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 3,
+        "impressionCount" : 8,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -1499,10 +1499,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 2,
+        "impressionCount" : 7,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",

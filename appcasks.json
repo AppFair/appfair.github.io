@@ -25,7 +25,7 @@
       "sha256" : "af1f384ba44767f6416fa23b9149329e491f9c151ca3c8bc75e7c61a8faf1306",
       "stats" : {
         "downloadCount" : 2725,
-        "impressionCount" : 9487,
+        "impressionCount" : 9490,
         "viewCount" : 989
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c3e9e2ec300d231ee6e9cdfe1dd8fc03d62ac6c23d8ddfcc9358e430dca73ea4",
       "stats" : {
         "downloadCount" : 15515,
-        "impressionCount" : 8318,
+        "impressionCount" : 8321,
         "viewCount" : 917
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8614,
-        "impressionCount" : 7320,
+        "impressionCount" : 7323,
         "viewCount" : 648
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28596,
-        "impressionCount" : 7581,
+        "impressionCount" : 7584,
         "viewCount" : 635
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8426,
-        "impressionCount" : 7623,
+        "impressionCount" : 7626,
         "viewCount" : 630
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6234,
-        "impressionCount" : 7636,
+        "impressionCount" : 7639,
         "viewCount" : 503
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3234,
-        "impressionCount" : 6895,
+        "impressionCount" : 6898,
         "viewCount" : 526
       },
       "subtitle" : "Text editor",
@@ -237,7 +237,7 @@
       "sha256" : "091fa3a5106451f868eb217ac369629da82355b1cc5a5d3dfdd1553bdd1f92c5",
       "stats" : {
         "downloadCount" : 3139,
-        "impressionCount" : 8081,
+        "impressionCount" : 8084,
         "viewCount" : 559
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2700,
-        "impressionCount" : 5902,
+        "impressionCount" : 5904,
         "viewCount" : 373
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2062,
-        "impressionCount" : 7635,
+        "impressionCount" : 7637,
         "viewCount" : 808
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1849,
-        "impressionCount" : 6539,
+        "impressionCount" : 6541,
         "viewCount" : 419
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1270,
-        "impressionCount" : 6001,
+        "impressionCount" : 6003,
         "viewCount" : 467
       },
       "subtitle" : "Open-source Markdown editor",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1190,
-        "impressionCount" : 7968,
+        "impressionCount" : 7970,
         "viewCount" : 466
       },
       "subtitle" : "3D creation suite",
@@ -444,7 +444,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 627,
-        "impressionCount" : 6119,
+        "impressionCount" : 6121,
         "viewCount" : 325
       },
       "subtitle" : "Text editor",
@@ -473,7 +473,7 @@
       ],
       "stats" : {
         "downloadCount" : 533,
-        "impressionCount" : 5707,
+        "impressionCount" : 5709,
         "viewCount" : 456
       },
       "subtitle" : "Sandbox construction video game",
@@ -505,7 +505,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 398,
-        "impressionCount" : 6302,
+        "impressionCount" : 6304,
         "viewCount" : 468
       },
       "subtitle" : "Text, code, and markup editor",
@@ -536,7 +536,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 287,
-        "impressionCount" : 4812,
+        "impressionCount" : 4814,
         "viewCount" : 413
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -563,7 +563,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 272,
-        "impressionCount" : 4086,
+        "impressionCount" : 4087,
         "viewCount" : 317
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -707,7 +707,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 2850,
+        "impressionCount" : 2851,
         "viewCount" : 238
       },
       "subtitle" : "Create DMGs and other archives",
@@ -1310,13 +1310,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://osx.telegram.org/updates/Telegram-8.9.234894.app.zip",
+      "downloadURL" : "https://osx.telegram.org/updates/Telegram-8.9.234913.app.zip",
       "homepage" : "https://macos.telegram.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/AppIcon.png",
       "localizedDescription" : "Messaging app with a focus on speed and security",
       "name" : "Telegram for macOS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/README.md",
-      "sha256" : "e290c1dfb7f471b083a74ac2edac5b61d11d7546e849a215ee2a732214583551",
+      "sha256" : "0d906124f9e26eab6766bab01b352dba7e7eb84d5ae8cfebd32bb56e3977ac98",
       "stats" : {
         "downloadCount" : 2406,
         "impressionCount" : 1859,
@@ -1324,8 +1324,8 @@
       },
       "subtitle" : "Messaging app with a focus on speed and security",
       "tintColor" : "87CAEB",
-      "version" : "8.9,234894",
-      "versionDate" : "2022-08-14T00:00:00Z"
+      "version" : "8.9,234913",
+      "versionDate" : "2022-08-15T18:28:11Z"
     },
     {
       "beta" : false,
@@ -1825,7 +1825,7 @@
       "sha256" : "9fea6c6a99700222caec3a26296e65aa1196f5d6474399c48410691bf6c80b94",
       "stats" : {
         "downloadCount" : 937,
-        "impressionCount" : 1739,
+        "impressionCount" : 1740,
         "viewCount" : 122
       },
       "subtitle" : "PDF reader and note-taking application",
@@ -3129,7 +3129,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 5914,
-        "impressionCount" : 934
+        "impressionCount" : 937
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -5514,7 +5514,7 @@
       "sha256" : "628c0c0d4fe13fa378ee088046f3e84b16ec7d4cbd7eb016e570683dd316cf44",
       "stats" : {
         "downloadCount" : 404,
-        "impressionCount" : 642
+        "impressionCount" : 643
       },
       "subtitle" : "PDF reader, editor and annotator",
       "tintColor" : "D87D70",
@@ -7783,7 +7783,7 @@
       "sha256" : "875d1482ce69676065a794b508b34275b3d99715d3ce9eb74eb025e4b6a2d71c",
       "stats" : {
         "downloadCount" : 141,
-        "impressionCount" : 883
+        "impressionCount" : 884
       },
       "subtitle" : "Utility that shows the latest app updates",
       "tintColor" : "C5E9F0",
@@ -8914,7 +8914,7 @@
       "name" : "MacUpdater",
       "stats" : {
         "downloadCount" : 97,
-        "impressionCount" : 426
+        "impressionCount" : 427
       },
       "subtitle" : "Track and update to the latest versions of installed software",
       "tintColor" : "90A3A3",
@@ -11233,7 +11233,7 @@
       "name" : "PDF Squeezer",
       "stats" : {
         "downloadCount" : 62,
-        "impressionCount" : 397
+        "impressionCount" : 398
       },
       "subtitle" : "PDF compression tool",
       "tintColor" : "7A586B",
@@ -11811,6 +11811,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "pdfsam-basic",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://github.com/torakiki/pdfsam/releases/download/v4.3.3/PDFsam-4.3.3.dmg",
+      "homepage" : "https://pdfsam.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pdfsam-basic/AppIcon.png",
+      "localizedDescription" : "Extracts pages, splits, merges, mixes and rotates PDF files",
+      "name" : "PDFsam Basic",
+      "sha256" : "0f2dfcab1fefce5579ffbac035cef220c97840d0c6d494c6e7e4d88f08d1d3ff",
+      "stats" : {
+        "downloadCount" : 56,
+        "impressionCount" : 380
+      },
+      "subtitle" : "Extracts pages, splits, merges, mixes and rotates PDF files",
+      "tintColor" : "76C194",
+      "version" : "4.3.3",
+      "versionDate" : "2022-07-27T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sensei",
       "categories" : [
         "public.app-category.utilities"
@@ -11847,27 +11868,6 @@
       "subtitle" : "Drive health diagnostic & monitoring tool",
       "tintColor" : "8E9694",
       "version" : "1.11.0,730"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "pdfsam-basic",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://github.com/torakiki/pdfsam/releases/download/v4.3.3/PDFsam-4.3.3.dmg",
-      "homepage" : "https://pdfsam.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pdfsam-basic/AppIcon.png",
-      "localizedDescription" : "Extracts pages, splits, merges, mixes and rotates PDF files",
-      "name" : "PDFsam Basic",
-      "sha256" : "0f2dfcab1fefce5579ffbac035cef220c97840d0c6d494c6e7e4d88f08d1d3ff",
-      "stats" : {
-        "downloadCount" : 55,
-        "impressionCount" : 379
-      },
-      "subtitle" : "Extracts pages, splits, merges, mixes and rotates PDF files",
-      "tintColor" : "76C194",
-      "version" : "4.3.3",
-      "versionDate" : "2022-07-27T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73676,13 +73676,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "electron",
-      "caption" : "Electron updated from 20.0.1 to 20.0.2",
-      "date" : "2022-08-14T14:25:00Z",
-      "identifier" : "release-electron-20.0.2",
-      "title" : "New Release: Electron 20.0.2"
-    },
-    {
       "appID" : "exodus",
       "caption" : "Exodus updated from 22.7.29 to 22.8.12",
       "date" : "2022-08-14T14:25:00Z",
@@ -74374,6 +74367,13 @@
       "date" : "2022-08-15T09:20:42Z",
       "identifier" : "release-vamiga-2.1",
       "title" : "New Release: vAmiga 2.1"
+    },
+    {
+      "appID" : "telegram",
+      "caption" : "Telegram for macOS updated from 8.9,234894 to 8.9,234913",
+      "date" : "2022-08-15T18:28:11Z",
+      "identifier" : "release-telegram-8.9,234913",
+      "title" : "New Release: Telegram for macOS 8.9,234913"
     }
   ],
   "platform" : "macos",

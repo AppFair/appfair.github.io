@@ -18,19 +18,14 @@
       "name" : "App Fair",
       "permissions" : [
         {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
           "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
           "type" : "entitlement",
           "usageDescription" : "The App Fair uses the local file system to install apps"
         },
         {
-          "identifier" : "com.apple.security.files.user-selected.executable",
+          "identifier" : "com.apple.security.network.server",
           "type" : "entitlement",
-          "usageDescription" : "The App Fair installs executable apps"
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
         },
         {
           "identifier" : "com.apple.security.network.client",
@@ -38,9 +33,14 @@
           "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
         },
         {
-          "identifier" : "com.apple.security.network.server",
+          "identifier" : "com.apple.security.files.user-selected.read-write",
           "type" : "entitlement",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
         }
       ],
       "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.97/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
@@ -62,7 +62,7 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 367,
+        "downloadCount" : 368,
         "impressionCount" : 135,
         "issueCount" : 6,
         "starCount" : 27,
@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4139,
+        "impressionCount" : 4140,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 669,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1333,
+        "impressionCount" : 1334,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 88,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2694,
+        "impressionCount" : 2695,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 194,
@@ -251,7 +251,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3082,
+        "impressionCount" : 3083,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 531,
@@ -373,7 +373,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4201,
+        "impressionCount" : 4202,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 551,
@@ -883,7 +883,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2545,
+        "impressionCount" : 2546,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 159,
@@ -1265,6 +1265,54 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.453/Tune-Out-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.453/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.453/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.453/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.453/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.453/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.453/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.453/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.453/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.453/screenshot_03-mac-2180x1464.png"
+      ],
+      "sha256" : "180b0f91e5e58454e1531e058e02bae3bb094712a98abe5441d630afc3915885",
+      "size" : 9538500,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 3,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.453",
+      "versionDate" : "2022-08-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.452...0.8.453"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "categories" : [
 
@@ -1326,7 +1374,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2495,
+        "impressionCount" : 2496,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 132,
@@ -1371,9 +1419,9 @@
       "sha256" : "666039d886438ce983e914f82eb216f9f151518a7d8e758c85744a01931509e6",
       "size" : 9538504,
       "stats" : {
-        "coreSize" : 103112,
+        "coreSize" : 170784,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 2,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1384,6 +1432,81 @@
       "version" : "0.8.451",
       "versionDate" : "2022-08-15T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.450...0.8.451"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.102/App-Fair-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.102/App-Fair.png",
+      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.102/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.102/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_00-mac-dark-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_00-mac-light-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_06-mac-dark-1424x1722.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.102/screenshot_06-mac-light-1424x1722.png"
+      ],
+      "sha256" : "2cc83c45e45959a7a9a0c34bc815ecfbb09d546c490b36b0ed72b61f38a2e930",
+      "size" : 9609407,
+      "stats" : {
+        "coreSize" : 170672,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 6,
+        "starCount" : 27,
+        "viewCount" : 1,
+        "watcherCount" : 3
+      },
+      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "tintColor" : "1594E8",
+      "version" : "0.8.102",
+      "versionDate" : "2022-08-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.101...0.8.102"
     },
     {
       "beta" : false,
@@ -1416,7 +1539,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 4,
+        "impressionCount" : 5,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,
@@ -1465,7 +1588,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 8,
+        "impressionCount" : 9,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,

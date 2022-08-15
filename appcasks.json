@@ -6260,7 +6260,7 @@
       "sha256" : "76339ca2e99802143d5b914e3f545bcd1ef6dc57e5068099f966eebeee9d8cb8",
       "stats" : {
         "downloadCount" : 258,
-        "impressionCount" : 369
+        "impressionCount" : 371
       },
       "subtitle" : "Explorer for Azure Storage",
       "tintColor" : "DCE7F2",
@@ -7292,7 +7292,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-texshop/AppIcon.png",
       "localizedDescription" : "TeX previewer",
       "name" : "TeXShop",
-      "sha256" : "994c3ff2b448bf59bfc6ca9725d894ed00171ebfe0066940e2f6d0153329984f",
+      "sha256" : "85e7039705be4e148bedb8140c3d1fa8edc6101a4c0d5b3a39d399dd8d574b62",
       "stats" : {
         "downloadCount" : 165,
         "impressionCount" : 472
@@ -19777,7 +19777,7 @@
       "subtitle" : "Chat via the e-mail server network",
       "tintColor" : "96A2A7",
       "version" : "1.32.0",
-      "versionDate" : "2022-08-15T04:01:45Z"
+      "versionDate" : "2022-08-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62287,7 +62287,7 @@
       },
       "subtitle" : "Monitoring and security across systems, apps, and services",
       "version" : "7.38.2-1",
-      "versionDate" : "2022-08-15T04:01:45Z"
+      "versionDate" : "2022-08-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -68245,16 +68245,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://loginput-mac2.totest.top/loginputmac2_latest.pkg",
-      "homepage" : "https://im.logcg.com/loginputmac2",
+      "downloadURL" : "https://loginput-mac2.totest.top/loginputmac3_latest.dmg",
+      "homepage" : "https://im.logcg.com/loginputmac3",
       "localizedDescription" : "Chinese input method",
       "name" : "LoginputMac",
-      "sha256" : "97b42e001112bec4b4a89948aa48669ec8b6a2b676eb4200c7339298e9317287",
+      "sha256" : "31f7cc30089c2e1d43255f0213dd8e68c78ad6bc0f0558ae7b1fb3c62c1e7e19",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Chinese input method",
-      "version" : "2.5.7,24262"
+      "version" : "3.2.2,8502",
+      "versionDate" : "2022-08-15T04:23:40Z"
     },
     {
       "beta" : false,
@@ -71373,7 +71374,7 @@
       },
       "subtitle" : "Multiplatform MIDI File Player",
       "version" : "1.7.0",
-      "versionDate" : "2022-08-15T04:01:45Z"
+      "versionDate" : "2022-08-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73693,13 +73694,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "calibre",
-      "caption" : "calibre updated from 6.2.1 to 6.3.0",
-      "date" : "2022-08-14T14:25:00Z",
-      "identifier" : "release-calibre-6.3.0",
-      "title" : "New Release: calibre 6.3.0"
-    },
-    {
       "appID" : "rancher",
       "caption" : "Rancher Desktop updated from 1.5.0 to 1.5.1",
       "date" : "2022-08-14T14:25:00Z",
@@ -74391,6 +74385,13 @@
       "date" : "2022-08-15T04:01:46Z",
       "identifier" : "release-dmidiplayer-1.7.0",
       "title" : "New Release: dmidiplayer 1.7.0"
+    },
+    {
+      "appID" : "loginputmac",
+      "caption" : "LoginputMac updated from 2.5.7,24262 to 3.2.2,8502",
+      "date" : "2022-08-15T04:23:40Z",
+      "identifier" : "release-loginputmac-3.2.2,8502",
+      "title" : "New Release: LoginputMac 3.2.2,8502"
     }
   ],
   "platform" : "macos",

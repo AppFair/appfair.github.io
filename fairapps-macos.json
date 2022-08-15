@@ -62,7 +62,7 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 355,
+        "downloadCount" : 356,
         "impressionCount" : 120,
         "issueCount" : 6,
         "starCount" : 27,
@@ -92,7 +92,8 @@
       "name" : "Tune Out",
       "permissions" : [
         {
-          "type" : "com.apple.security.network.client",
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
           "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
         }
       ],
@@ -1428,53 +1429,144 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
-      "beta" : false,
+      "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.451/Tune-Out-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.451/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.451/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.451/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.451/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.451/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.451/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.451/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.451/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.451/screenshot_03-mac-2180x1464.png"
+      ],
+      "sha256" : "666039d886438ce983e914f82eb216f9f151518a7d8e758c85744a01931509e6",
+      "size" : 9538504,
+      "stats" : {
+        "coreSize" : 103112,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.451",
+      "versionDate" : "2022-08-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.450...0.8.451"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Stanza-Redux",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.44/Stanza-Redux-macOS.zip",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.47/Stanza-Redux-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.44/Stanza-Redux.png",
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.47/Stanza-Redux.png",
       "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.44/Info.plist#ea22e6b58baad6eac94348431f43253ec008b0c7a75eba2e334f4d850c30c57c",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.47/Info.plist#ea22e6b58baad6eac94348431f43253ec008b0c7a75eba2e334f4d850c30c57c",
       "name" : "Stanza Redux",
       "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        },
         {
           "identifier" : "com.apple.security.files.user-selected.read-only",
           "type" : "entitlement",
           "usageDescription" : "This app needs to read ebook files"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to access books"
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.44/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.47/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.44/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.44/screenshot_01-mac-light-2436x2012.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.47/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.47/screenshot_01-mac-light-2436x2012.png"
       ],
-      "sha256" : "3028bdfd4eb31d2fca5fdfad71d0daab63f39d167d81510bfa738c28fca86db3",
-      "size" : 3916034,
+      "sha256" : "bf06fdb7f8a34cb15a07564cac470294fa8256a70641bd2f9085bf7ebf5049f1",
+      "size" : 3916036,
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 17,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
       "tintColor" : "00375C",
-      "version" : "0.3.44",
+      "version" : "0.3.47",
       "versionDate" : "2022-08-15T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.43...0.3.44"
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.46...0.3.47"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.219/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.219/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.219/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.219/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.219/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.219/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.219/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.219/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.219/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "4e9e76a00bdd8138bfb5907a5545a6183669f2d5d9879fecea36aac496aa391f",
+      "size" : 2192555,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.219",
+      "versionDate" : "2022-08-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.218...0.9.219"
     },
     {
       "beta" : true,
@@ -1512,7 +1604,7 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Stanza-Redux",
       "categories" : [
 
@@ -1528,14 +1620,14 @@
       "name" : "Stanza Redux",
       "permissions" : [
         {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        },
-        {
           "identifier" : "com.apple.security.files.user-selected.read-only",
           "type" : "entitlement",
           "usageDescription" : "This app needs to read ebook files"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to access books"
         }
       ],
       "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.46/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
@@ -1657,10 +1749,10 @@
     },
     {
       "appID" : "app.Stanza-Redux",
-      "caption" : "Stanza Redux updated from 0.3.41 to 0.3.44",
-      "date" : "2022-08-15T05:42:27Z",
-      "identifier" : "release-app.Stanza-Redux-0.3.44",
-      "title" : "New Release: Stanza Redux 0.3.44"
+      "caption" : "Stanza Redux updated from 0.3.44 to 0.3.46",
+      "date" : "2022-08-15T13:42:31Z",
+      "identifier" : "release-app.Stanza-Redux-0.3.46",
+      "title" : "New Release: Stanza Redux 0.3.46"
     }
   ],
   "platform" : "macos"

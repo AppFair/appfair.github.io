@@ -13,7 +13,8 @@
       "name": "Tune Out",
       "permissions": [
         {
-          "type": "com.apple.security.network.client",
+          "identifier": "com.apple.security.network.client",
+          "type": "entitlement",
           "usageDescription": "This app needs to access the network in order to stream internet radio stations."
         }
       ],
@@ -41,55 +42,96 @@
       "versionDescription": "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.446...0.8.447"
     },
     {
-      "beta": false,
-      "bundleIdentifier": "app.Stanza-Redux",
+      "beta": true,
+      "bundleIdentifier": "app.Tune-Out",
       "categories": [],
       "developerName": "fairapps <fairapps@appfair.org>",
-      "downloadURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.44/Stanza-Redux-iOS.ipa",
+      "downloadURL": "https://github.com/Tune-Out/App/releases/download/0.8.451/Tune-Out-iOS.ipa",
       "fundingLinks": [],
-      "iconURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.44/Stanza-Redux.png",
-      "localizedDescription": "An electronic book reader",
-      "metadataURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.44/Info.plist#ea22e6b58baad6eac94348431f43253ec008b0c7a75eba2e334f4d850c30c57c",
-      "name": "Stanza Redux",
+      "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.451/Tune-Out.png",
+      "localizedDescription": "Stream Internet Radio",
+      "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.451/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name": "Tune Out",
       "permissions": [
         {
           "identifier": "com.apple.security.network.client",
           "type": "entitlement",
-          "usageDescription": "This app needs to access the network in order to access books"
-        },
+          "usageDescription": "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL": "https://github.com/Tune-Out/App/releases/download/0.8.451/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs": [
+        "https://github.com/Tune-Out/App/releases/download/0.8.451/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.451/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.451/screenshot_03-iphone-1170x2532.png"
+      ],
+      "sha256": "716677098bb24fe193128105e30ed23d64e208d9cc73919fef66213036d3bb4c",
+      "size": 17680056,
+      "stats": {
+        "coreSize": 103112,
+        "downloadCount": 2,
+        "impressionCount": 1,
+        "issueCount": 0,
+        "starCount": 1,
+        "viewCount": 1,
+        "watcherCount": 0
+      },
+      "subtitle": "Stream Internet Radio",
+      "tintColor": "32ADE6",
+      "version": "0.8.451",
+      "versionDate": "2022-08-15T13:15:26Z",
+      "versionDescription": "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.450...0.8.451"
+    },
+    {
+      "beta": true,
+      "bundleIdentifier": "app.Stanza-Redux",
+      "categories": [],
+      "developerName": "fairapps <fairapps@appfair.org>",
+      "downloadURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.47/Stanza-Redux-iOS.ipa",
+      "fundingLinks": [],
+      "iconURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.47/Stanza-Redux.png",
+      "localizedDescription": "An electronic book reader",
+      "metadataURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.47/Info.plist#ea22e6b58baad6eac94348431f43253ec008b0c7a75eba2e334f4d850c30c57c",
+      "name": "Stanza Redux",
+      "permissions": [
         {
           "identifier": "com.apple.security.files.user-selected.read-only",
           "type": "entitlement",
           "usageDescription": "This app needs to read ebook files"
+        },
+        {
+          "identifier": "com.apple.security.network.client",
+          "type": "entitlement",
+          "usageDescription": "This app needs to access the network in order to access books"
         }
       ],
-      "readmeURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.44/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "readmeURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.47/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
       "screenshotURLs": [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.44/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.44/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.44/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.44/screenshot_04-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.44/screenshot_05-iphone-750x1334.png"
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.47/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.47/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.47/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.47/screenshot_04-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.47/screenshot_05-iphone-750x1334.png"
       ],
-      "sha256": "480dfa3610f8be44dbaaf207622894b6d7833d3327a814455e97db25692bef9f",
-      "size": 8596966,
+      "sha256": "86087d6d9ba872836fbec38c5d0c4ebbc915c5ad152d4943956518b100d4a013",
+      "size": 8596960,
       "stats": {
         "coreSize": 102480,
-        "downloadCount": 3,
-        "impressionCount": 17,
+        "downloadCount": 2,
+        "impressionCount": 1,
         "issueCount": 0,
         "starCount": 1,
-        "viewCount": 2,
+        "viewCount": 1,
         "watcherCount": 0
       },
       "subtitle": "An electronic book reader",
       "tintColor": "00375C",
-      "version": "0.3.44",
-      "versionDate": "2022-08-15T04:15:05Z",
-      "versionDescription": "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.43...0.3.44"
+      "version": "0.3.47",
+      "versionDate": "2022-08-15T13:15:14Z",
+      "versionDescription": "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.46...0.3.47"
     },
     {
-      "beta": true,
+      "beta": false,
       "bundleIdentifier": "app.Stanza-Redux",
       "categories": [],
       "developerName": "fairapps <fairapps@appfair.org>",
@@ -101,14 +143,14 @@
       "name": "Stanza Redux",
       "permissions": [
         {
-          "identifier": "com.apple.security.network.client",
-          "type": "entitlement",
-          "usageDescription": "This app needs to access the network in order to access books"
-        },
-        {
           "identifier": "com.apple.security.files.user-selected.read-only",
           "type": "entitlement",
           "usageDescription": "This app needs to read ebook files"
+        },
+        {
+          "identifier": "com.apple.security.network.client",
+          "type": "entitlement",
+          "usageDescription": "This app needs to access the network in order to access books"
         }
       ],
       "readmeURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.46/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",

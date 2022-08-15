@@ -48,9 +48,11 @@ tr:nth-child(even) {
 | [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `6 MB` | `1894` | `43` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `4` | `2022-01-25T00:00:00Z` | `5.9 MB` | `621` | `43` | `0` | `0` |  |
 | [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | ``0.0.16β`` | `4` | `2022-02-12T00:00:00Z` | `6.3 MB` | `971` | `57` | `0` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.44`` | `3` | `2022-08-15T00:00:00Z` | `8.6 MB` | `17` | `2` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.215`` | `3` | `2022-08-15T00:00:00Z` | `5.6 MB` | `18` | `2` | `1` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `584` | `38` | `0` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.46β`` | `2` | `2022-08-15T00:00:00Z` | `8.6 MB` | `1` | `1` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.451β`` | `2` | `2022-08-15T00:00:00Z` | `17.7 MB` | `1` | `1` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.47β`` | `2` | `2022-08-15T00:00:00Z` | `8.6 MB` | `1` | `1` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.46`` | `2` | `2022-08-15T00:00:00Z` | `8.6 MB` | `1` | `1` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.219β`` | `2` | `2022-08-15T00:00:00Z` | `5.6 MB` | `1` | `1` | `1` | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

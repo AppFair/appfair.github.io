@@ -1325,7 +1325,7 @@
       "subtitle" : "Messaging app with a focus on speed and security",
       "tintColor" : "87CAEB",
       "version" : "8.9,234913",
-      "versionDate" : "2022-08-15T18:28:11Z"
+      "versionDate" : "2022-08-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11213,7 +11213,7 @@
       "sha256" : "0027ce869745594ff4cc560c93499a25adf2f64f04255444662c19ed22c7cdb5",
       "stats" : {
         "downloadCount" : 62,
-        "impressionCount" : 817
+        "impressionCount" : 818
       },
       "subtitle" : "Menu bar weather app",
       "tintColor" : "E8E8E8",
@@ -28201,7 +28201,7 @@
       "sha256" : "ecd2e76bbedafb29ccf40d00fefd86afd9266c78221d7a3686370369cdfd42ef",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 599
+        "impressionCount" : 600
       },
       "subtitle" : "Adjustable weather viewing application",
       "tintColor" : "977D83",

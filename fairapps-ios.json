@@ -33,7 +33,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 119,
-        "impressionCount" : 1309,
+        "impressionCount" : 1313,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 86,
@@ -77,7 +77,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 78,
-        "impressionCount" : 2012,
+        "impressionCount" : 2016,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 150,
@@ -120,10 +120,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2670,
+        "impressionCount" : 2674,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 191,
+        "viewCount" : 192,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2520,
+        "impressionCount" : 2524,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 157,
@@ -407,10 +407,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2470,
+        "impressionCount" : 2474,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 128,
+        "viewCount" : 129,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -698,10 +698,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4178,
+        "impressionCount" : 4182,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 548,
+        "viewCount" : 549,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -1040,10 +1040,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 3,
+        "impressionCount" : 8,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -1092,10 +1092,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 2,
+        "impressionCount" : 7,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",

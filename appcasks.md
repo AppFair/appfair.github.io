@@ -2085,7 +2085,7 @@ tr:nth-child(even) {
 | [``Avidemux``](https://www.avidemux.org/) | ``2.8.0`` | `134` |  |  | `39` |  |  | `0` |  |
 | [``Ableton Live Standard``](https://www.ableton.com/en/live/) | ``11.1.6`` | `133` |  |  | `49` |  |  | `0` |  |
 | [``Loopback``](https://rogueamoeba.com/loopback/) | ``2.2.9`` | `130` |  |  | `46` |  |  | `0` |  |
-| [``Postgres``](https://postgresapp.com/) | ``2.5.9`` | `129` | `2022-08-13T00:00:00Z` |  | `42` |  |  | `0` |  |
+| [``Postgres``](https://postgresapp.com/) | ``2.5.9`` | `129` | `2022-08-13T00:00:00Z` |  | `43` |  |  | `0` |  |
 | [``SQLiteStudio``](https://sqlitestudio.pl/) | ``3.3.3`` | `129` |  |  | `47` |  |  | `0` |  |
 | [``Backblaze``](https://backblaze.com/) | ``8.0.1.602`` | `128` |  |  | `25` |  |  | `0` |  |
 | [``Offset Explorer``](https://www.kafkatool.com/index.html) | ``2.3`` | `128` | `2022-07-03T00:00:00Z` |  | `91` |  |  | `0` |  |
@@ -2113,7 +2113,7 @@ tr:nth-child(even) {
 | [``Dolphin``](https://dolphin-emu.org/) | ``5.0`` | `107` |  |  | `42` |  |  | `0` |  |
 | [``Windscribe``](https://windscribe.com/) | ``2.4.11`` | `107` |  |  | `27` |  |  | `0` |  |
 | [``dupeGuru``](https://dupeguru.voltaicideas.net/) | ``4.3.1`` | `104` | `2022-07-10T00:00:00Z` |  | `110` |  |  | `0` |  |
-| [``REAPER``](https://www.reaper.fm/) | ``6.65`` | `103` | `2022-08-13T00:00:00Z` |  | `120` |  |  | `0` |  |
+| [``REAPER``](https://www.reaper.fm/) | ``6.65`` | `103` | `2022-08-13T00:00:00Z` |  | `121` |  |  | `0` |  |
 | [``SpotMenu``](https://github.com/kmikiy/SpotMenu) | ``1.9`` | `103` |  |  | `115` |  |  | `0` |  |
 | [``GoToMeeting``](https://www.goto.com/meeting) | ``19950`` | `102` |  |  | `44` |  |  | `0` |  |
 | [``SMPlayer``](https://www.smplayer.info/) | ``22.7.0`` | `101` | `2022-07-11T00:00:00Z` |  | `78` |  |  | `0` |  |
@@ -2149,7 +2149,7 @@ tr:nth-child(even) {
 | [``JabRef``](https://www.jabref.org/) | ``5.7`` | `76` | `2022-08-05T00:00:00Z` |  | `59` |  |  | `0` |  |
 | [``Quicksilver``](https://qsapp.com/) | ``2.4.0`` | `76` | `2022-07-12T00:00:00Z` |  | `129` |  |  | `0` |  |
 | [``Asset Catalog Tinkerer``](https://github.com/insidegui/AssetCatalogTinkerer) | ``2.7`` | `75` |  |  | `57` |  |  | `0` |  |
-| [``Monero Wallet``](https://getmonero.org/) | ``0.18.1.0`` | `75` | `2022-08-13T00:00:00Z` |  | `72` |  |  | `0` |  |
+| [``Monero Wallet``](https://getmonero.org/) | ``0.18.1.0`` | `75` | `2022-08-13T00:00:00Z` |  | `73` |  |  | `0` |  |
 | [``NAVER Whale``](https://whale.naver.com/) | ``3.16.138.22`` | `75` | `2022-08-10T00:00:00Z` |  | `48` |  |  | `0` |  |
 | [``Vorta``](https://github.com/borgbase/vorta) | ``0.8.7`` | `75` |  |  | `44` |  |  | `0` |  |
 | [``Around``](https://www.around.co/) | ``0.59.35`` | `74` |  |  | `27` |  |  | `0` |  |

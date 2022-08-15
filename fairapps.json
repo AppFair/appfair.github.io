@@ -62,7 +62,7 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 326,
+        "downloadCount" : 327,
         "impressionCount" : 106,
         "issueCount" : 6,
         "starCount" : 26,
@@ -74,55 +74,6 @@
       "version" : "0.8.97",
       "versionDate" : "2022-08-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.96...0.8.97"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Stanza-Redux",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Stanza-Redux.png",
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/Info.plist#f98d4812e5b09e4cd1390756eb4071d1b1334e56e32d63c5f5381d2c070bb7ce",
-      "name" : "Stanza Redux",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read ebook files"
-        }
-      ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.41/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
-      "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.41/screenshot_01-mac-light-2436x2012.png"
-      ],
-      "sha256" : "4567ea478403ef070c55a9ed4c87566680c911ebb6f28d65d47af20fbab8cb90",
-      "size" : 3881835,
-      "stats" : {
-        "coreSize" : 102480,
-        "downloadCount" : 124,
-        "impressionCount" : 1550,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 131,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An electronic book reader",
-      "tintColor" : "00375C",
-      "version" : "0.3.41",
-      "versionDate" : "2022-07-29T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.38...0.3.41"
     },
     {
       "beta" : false,
@@ -159,7 +110,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 2010,
+        "impressionCount" : 2011,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 150,
@@ -211,7 +162,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4115,
+        "impressionCount" : 4116,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 666,
@@ -260,7 +211,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1307,
+        "impressionCount" : 1308,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 86,
@@ -305,7 +256,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2667,
+        "impressionCount" : 2668,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 191,
@@ -347,7 +298,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3058,
+        "impressionCount" : 3059,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 529,
@@ -385,7 +336,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2905,
+        "impressionCount" : 2906,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 222,
@@ -469,7 +420,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4176,
+        "impressionCount" : 4177,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 548,
@@ -508,7 +459,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 11,
-        "impressionCount" : 2148,
+        "impressionCount" : 2149,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 135,
@@ -546,7 +497,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1934,
+        "impressionCount" : 1935,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 118,
@@ -898,7 +849,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 7,
-        "impressionCount" : 1681,
+        "impressionCount" : 1682,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 100,
@@ -979,7 +930,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2518,
+        "impressionCount" : 2519,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 157,
@@ -1422,7 +1373,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2467,
+        "impressionCount" : 2468,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 128,
@@ -1464,7 +1415,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 2,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1512,7 +1463,7 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Stanza-Redux",
       "categories" : [
 
@@ -1635,13 +1586,6 @@
       "title" : "New Release: Tune Out 0.8.447"
     },
     {
-      "appID" : "app.Stanza-Redux",
-      "caption" : "Stanza Redux updated from 0.3.38 to 0.3.41",
-      "date" : "2022-07-29T03:24:44Z",
-      "identifier" : "release-app.Stanza-Redux-0.3.41",
-      "title" : "New Release: Stanza Redux 0.3.41"
-    },
-    {
       "appID" : "app.Bon-Mot",
       "caption" : "Bon Mot updated from 0.2.36 to 0.2.37",
       "date" : "2022-07-29T18:01:10Z",
@@ -1661,6 +1605,13 @@
       "date" : "2022-08-15T04:18:13Z",
       "identifier" : "release-app.Cloud-Cuckoo-0.9.215",
       "title" : "New Release: Cloud Cuckoo 0.9.215"
+    },
+    {
+      "appID" : "app.Stanza-Redux",
+      "caption" : "Stanza Redux updated from 0.3.41 to 0.3.44",
+      "date" : "2022-08-15T05:42:27Z",
+      "identifier" : "release-app.Stanza-Redux-0.3.44",
+      "title" : "New Release: Stanza Redux 0.3.44"
     }
   ],
   "platform" : "macos"

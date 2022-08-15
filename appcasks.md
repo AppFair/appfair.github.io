@@ -3474,7 +3474,7 @@ tr:nth-child(even) {
 | [``iDrive``](https://www.idrive.com/) | ``latest`` | `7` |  |  |  |  |  | `0` |  |
 | [``iThoughtsX``](https://www.toketaware.com/ithoughts-osx) | ``9.0.0`` | `7` |  |  |  |  |  | `0` |  |
 | [``KeyShot``](https://www.keyshot.com/) | ``11.2.1.5`` | `7` | `2022-08-11T00:00:00Z` |  |  |  |  | `0` |  |
-| [``LoginputMac``](https://im.logcg.com/loginputmac3) | ``3.2.2,8502`` | `7` | `2022-08-15T04:23:40Z` |  |  |  |  | `0` |  |
+| [``LoginputMac``](https://im.logcg.com/loginputmac3) | ``3.2.2,8502`` | `7` | `2022-08-15T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Marble``](https://marble.kde.org/) | ``2.2.0`` | `7` |  |  |  |  |  | `0` |  |
 | [``MCreator``](https://mcreator.net/) | ``2022.2.33511`` | `7` | `2022-08-14T00:00:00Z` |  |  |  |  | `0` |  |
 | [``NativeDisplayBrightness``](https://github.com/Bensge/NativeDisplayBrightness/) | ``0.0.5`` | `7` |  |  |  |  |  | `0` |  |

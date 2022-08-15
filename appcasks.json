@@ -57,7 +57,7 @@
       "sha256" : "c3e9e2ec300d231ee6e9cdfe1dd8fc03d62ac6c23d8ddfcc9358e430dca73ea4",
       "stats" : {
         "downloadCount" : 15513,
-        "impressionCount" : 8293,
+        "impressionCount" : 8294,
         "viewCount" : 911
       },
       "subtitle" : "Web browser",
@@ -619,7 +619,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 178,
-        "impressionCount" : 3237,
+        "impressionCount" : 3238,
         "viewCount" : 287
       },
       "subtitle" : "File synchronizer",
@@ -1825,7 +1825,7 @@
       "sha256" : "9fea6c6a99700222caec3a26296e65aa1196f5d6474399c48410691bf6c80b94",
       "stats" : {
         "downloadCount" : 937,
-        "impressionCount" : 1729,
+        "impressionCount" : 1730,
         "viewCount" : 121
       },
       "subtitle" : "PDF reader and note-taking application",
@@ -3025,7 +3025,7 @@
       "name" : "Google Chrome",
       "stats" : {
         "downloadCount" : 18662,
-        "impressionCount" : 1642
+        "impressionCount" : 1643
       },
       "subtitle" : "Web browser",
       "tintColor" : "C5C2AA",
@@ -3190,7 +3190,7 @@
       "sha256" : "3dd856028f80a91afa15d5d75399c91f2c716bf9a27e470e05301de0f4dad216",
       "stats" : {
         "downloadCount" : 3413,
-        "impressionCount" : 551
+        "impressionCount" : 552
       },
       "subtitle" : "Web browser",
       "version" : "104.0.1293.54",
@@ -4433,7 +4433,7 @@
       "sha256" : "5d1e74d9e9c8cfe9c914adb901bf401507f2e7675e3c7032bec66048ce2dec97",
       "stats" : {
         "downloadCount" : 745,
-        "impressionCount" : 802
+        "impressionCount" : 803
       },
       "subtitle" : "Interface for reading and syncing eBooks",
       "tintColor" : "3F6E7F",
@@ -4835,7 +4835,7 @@
       "name" : "DeepL",
       "stats" : {
         "downloadCount" : 592,
-        "impressionCount" : 842
+        "impressionCount" : 843
       },
       "subtitle" : "Trains AIs to understand and translate texts",
       "tintColor" : "A4AEB8",
@@ -8057,7 +8057,7 @@
       "sha256" : "75ea8c783b5bf9d986f0d3ca938f86d508adadf5762e9a3f0aa7c9b3f4ad1af9",
       "stats" : {
         "downloadCount" : 125,
-        "impressionCount" : 791
+        "impressionCount" : 792
       },
       "subtitle" : "Detailed information on every Apple product ever made",
       "tintColor" : "69A4CB",
@@ -9770,7 +9770,7 @@
       "sha256" : "ceb705bd4532085ff5c5ce6922012d135a3134896bddd9931755d99ec50a6090",
       "stats" : {
         "downloadCount" : 81,
-        "impressionCount" : 746
+        "impressionCount" : 747
       },
       "subtitle" : "Research management tool",
       "tintColor" : "EA4551",
@@ -10658,7 +10658,7 @@
       "name" : "YoudaoDict",
       "stats" : {
         "downloadCount" : 68,
-        "impressionCount" : 657
+        "impressionCount" : 658
       },
       "subtitle" : "Youdao Dictionary",
       "tintColor" : "FD3045",
@@ -11527,7 +11527,7 @@
       "name" : "Kobo",
       "stats" : {
         "downloadCount" : 58,
-        "impressionCount" : 573
+        "impressionCount" : 574
       },
       "tintColor" : "D84646",
       "version" : "latest"
@@ -17450,7 +17450,7 @@
       "sha256" : "831d3aa0bff98f5cdde9137b9393eb292a8b22f688d59db5fed35341fc65e6f2",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 563
+        "impressionCount" : 564
       },
       "subtitle" : "App providing offline access to Wikipedia and many other web sites",
       "tintColor" : "B5B5B5",
@@ -28880,7 +28880,7 @@
       "sha256" : "d425e73ab3d15aee0e57f4226e08d3d884f2dfd33956e5e612e3b3b03da07790",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 669
+        "impressionCount" : 670
       },
       "subtitle" : "Bible study software",
       "tintColor" : "EBC9BA",
@@ -30924,7 +30924,7 @@
       "sha256" : "4a3ca09fdf12ef7385c110c552b0a1acba136f11a610cf4d56e7abb7d0074a94",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 631
+        "impressionCount" : 632
       },
       "subtitle" : "Team inbox and chat tool",
       "tintColor" : "D3E5F4",
@@ -34718,7 +34718,7 @@
       "sha256" : "d7557a32a863ca3acab4019cc5765613a6156583d31d67832bdebfdaced9d48b",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 321
+        "impressionCount" : 322
       },
       "subtitle" : "Social network built on the peer-to-peer SSB protocol",
       "tintColor" : "627DEE",
@@ -34953,7 +34953,7 @@
       "sha256" : "cef58bf8e2c2e165a3a8e5e7771fe8dd46a0ffb68baecc6220058faa756ab675",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 497
+        "impressionCount" : 498
       },
       "subtitle" : "Electronic thesaurus that for the 'Service' menu",
       "tintColor" : "A05A54",
@@ -38755,7 +38755,7 @@
       "name" : "EnzymeX",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 584
+        "impressionCount" : 585
       },
       "tintColor" : "6E7D7D",
       "version" : "3.3.3"
@@ -41298,7 +41298,7 @@
       "sha256" : "60ef580f5b26528c929cba8dfd641d8c7b383209163a9121d6856c6fad47c4e3",
       "stats" : {
         "downloadCount" : 231,
-        "impressionCount" : 114
+        "impressionCount" : 115
       },
       "subtitle" : "Grammarly for desktop",
       "tintColor" : "80DEC8",
@@ -41874,7 +41874,7 @@
       "sha256" : "f29bdd539c2cdfae0f5a4ee10e567a23f882c6eba6cae788a10ee4d9d6391b9b",
       "stats" : {
         "downloadCount" : 145,
-        "impressionCount" : 51
+        "impressionCount" : 52
       },
       "subtitle" : "Audio tagger focusing on efficiency",
       "tintColor" : "86907A",
@@ -43568,7 +43568,7 @@
       "name" : "Origin",
       "stats" : {
         "downloadCount" : 73,
-        "impressionCount" : 55
+        "impressionCount" : 56
       },
       "subtitle" : "Play PC games and connect with your friends",
       "tintColor" : "E75B11",
@@ -47224,7 +47224,7 @@
       "sha256" : "0451d3912a157d6cbd43a1462d1fc6b9bcd0de102976fc5d5281656427093ac6",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 102
+        "impressionCount" : 103
       },
       "subtitle" : "CPU management applicataion",
       "tintColor" : "A3A47D",
@@ -48825,7 +48825,7 @@
       "name" : "RapidMiner Studio",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 51
+        "impressionCount" : 53
       },
       "subtitle" : "Data science platform",
       "tintColor" : "887448",
@@ -57110,7 +57110,7 @@
       "sha256" : "99dd94c7708ff627ce9fe67b39cab8b85ba7df3021aafa7a24c30c873a38eb42",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 113
+        "impressionCount" : 114
       },
       "subtitle" : "Ergonomic Assistant to prevent health problems",
       "tintColor" : "53CADD",
@@ -57268,7 +57268,7 @@
       "sha256" : "9ee3582502442b2e5da4e0841fa699e596bf946938ca45418aac9e763c882d62",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 104
+        "impressionCount" : 105
       },
       "subtitle" : "Application for electronic signing and validation of signatures",
       "tintColor" : "39668B",

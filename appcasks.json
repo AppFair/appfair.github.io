@@ -887,7 +887,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.29/Stats.dmg",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.30/Stats.dmg",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -911,7 +911,7 @@
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "2fe1c7b6db09e0cf6497c7157501ca5d8c7fa37c72dd26763684a52639cdfa8e",
+      "sha256" : "ea66fe55fe65ffb181c1524442c82d7572d06614096224262e77c4d1f3c910c8",
       "stats" : {
         "downloadCount" : 6032,
         "impressionCount" : 4383,
@@ -919,8 +919,8 @@
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
-      "version" : "2.7.29",
-      "versionDate" : "2022-08-08T00:00:00Z"
+      "version" : "2.7.30",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -2135,7 +2135,7 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/coteditor/CotEditor/releases/download/4.3.2/CotEditor_4.3.2.dmg",
+      "downloadURL" : "https://github.com/coteditor/CotEditor/releases/download/4.3.3/CotEditor_4.3.3.dmg",
       "homepage" : "https://coteditor.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/AppIcon.png",
       "localizedDescription" : "Plain-text editor for web pages, program source codes and more",
@@ -2147,15 +2147,15 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_04-mac-light-1464x1298.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_05-mac-light-1466x1298.png"
       ],
-      "sha256" : "abb88e86b938fea173ee458c5aa393daff6ae3dc3302fc3ed83628f322566623",
+      "sha256" : "ae237598c01f44d114408c4d12a554f0bb4ec389fbebb5569731b1ea0020fcdf",
       "stats" : {
         "downloadCount" : 470,
         "impressionCount" : 3788
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
-      "version" : "4.3.2",
-      "versionDate" : "2022-07-30T00:00:00Z"
+      "version" : "4.3.3",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -2854,7 +2854,8 @@
       },
       "subtitle" : "Personal financial management application focused on privacy",
       "tintColor" : "FE9A6A",
-      "version" : "2022.4,4087"
+      "version" : "2022.5,4091",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -4507,19 +4508,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/wulkano/kap/releases/download/v3.5.4/Kap-3.5.4-x64.dmg",
+      "downloadURL" : "https://github.com/wulkano/kap/releases/download/v3.5.5/Kap-3.5.5-x64.dmg",
       "homepage" : "https://getkap.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kap/AppIcon.png",
       "localizedDescription" : "Open-source screen recorder built with web technology",
       "name" : "Kap",
-      "sha256" : "141c69b044887eb772688b6dc60029f4da8fac2793336c54d2777545e3324df9",
+      "sha256" : "8b6bf654cd140719bd810b65485bd6b490bc90a0ed0dc70336acbd3fa2f240c0",
       "stats" : {
         "downloadCount" : 715,
         "impressionCount" : 771
       },
       "subtitle" : "Open-source screen recorder built with web technology",
       "tintColor" : "E2F0F8",
-      "version" : "3.5.4"
+      "version" : "3.5.5",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -4765,20 +4767,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/nicklockwood/SwiftFormat/releases/download/0.49.14/SwiftFormat.for.Xcode.app.zip",
+      "downloadURL" : "https://github.com/nicklockwood/SwiftFormat/releases/download/0.49.15/SwiftFormat.for.Xcode.app.zip",
       "homepage" : "https://github.com/nicklockwood/SwiftFormat",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swiftformat-for-xcode/AppIcon.png",
       "localizedDescription" : "Xcode Extension for reformatting Swift code",
       "name" : "SwiftFormat for Xcode",
-      "sha256" : "88cacb17b4319e498e3d07fc6cbb902799c987787d94eef7fa97871aa228eadb",
+      "sha256" : "eac6da6b1dce5e0e7c97f49ceea0ec7b44f1ec79f5c218994de0185888d199f9",
       "stats" : {
         "downloadCount" : 607,
         "impressionCount" : 772
       },
       "subtitle" : "Xcode Extension for reformatting Swift code",
       "tintColor" : "44424D",
-      "version" : "0.49.14",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "0.49.15",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -6046,20 +6048,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://asset.noovolari.com/0.13.2/Leapp-0.13.2.dmg",
+      "downloadURL" : "https://asset.noovolari.com/0.13.4/Leapp-0.13.4.dmg",
       "homepage" : "https://www.leapp.cloud/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-leapp/AppIcon.png",
       "localizedDescription" : "Cloud credentials manager",
       "name" : "Leapp",
-      "sha256" : "324d61919de4762f5aca599a3a4c406211dff59ffbb22c0176df0c6d9ca89c46",
+      "sha256" : "b166e133c673dacc628d802f2a08426d2bd0b49451dcf215a011134b10b7cc35",
       "stats" : {
         "downloadCount" : 275,
         "impressionCount" : 437
       },
       "subtitle" : "Cloud credentials manager",
       "tintColor" : "2A2F50",
-      "version" : "0.13.2",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "0.13.4",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -8703,20 +8705,20 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://repo.jellyfin.org/releases/server/macos/stable/installer/jellyfin_10.8.3.dmg",
+      "downloadURL" : "https://repo.jellyfin.org/releases/server/macos/stable/installer/jellyfin_10.8.4.dmg",
       "homepage" : "https://jellyfin.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jellyfin/AppIcon.png",
       "localizedDescription" : "Media system",
       "name" : "Jellyfin",
-      "sha256" : "a1718b3769314049ed4e51ad2d554b6076d520fa5ed005e9a98cb2879f9632d2",
+      "sha256" : "cb0f35f9abdbe6c7cdeecc2f2a90ea1a30e28099161b84a6b1e80bd26f266dc5",
       "stats" : {
         "downloadCount" : 103,
         "impressionCount" : 978
       },
       "subtitle" : "Media system",
       "tintColor" : "6878CD",
-      "version" : "10.8.3",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "10.8.4",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -13299,20 +13301,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://valentina-db.com/download/prev_releases/12.5.1/mac_64/vstudio_x64_12_mac.dmg",
+      "downloadURL" : "https://valentina-db.com/download/prev_releases/12.5.2/mac_64/vstudio_x64_12_mac.dmg",
       "homepage" : "https://valentina-db.com/en/valentina-studio-overview",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-valentina-studio/AppIcon.png",
       "localizedDescription" : "Visual editors for data",
       "name" : "Valentina Studio",
-      "sha256" : "a69afe229a5230c5eb967884e19436c5abdcf0bffc3eeb83226d4e6a3a333a64",
+      "sha256" : "997223291a3f596d75be97f3b9223dadf5ca529a065330657eddbc48b5612495",
       "stats" : {
         "downloadCount" : 42,
         "impressionCount" : 262
       },
       "subtitle" : "Visual editors for data",
       "tintColor" : "9DA5A8",
-      "version" : "12.5.1",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "12.5.2",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -13419,20 +13421,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.30/SideQuest-0.10.30.dmg",
+      "downloadURL" : "https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.31/SideQuest-0.10.31.dmg",
       "homepage" : "https://sidequestvr.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidequest/AppIcon.png",
       "localizedDescription" : "Virtual reality content platform",
       "name" : "SideQuest",
-      "sha256" : "80c17aa903281d9f118b0d2f36b8fc1772fd6407a7b1dfb36bb1ec9009df8149",
+      "sha256" : "6639bf7b29b7cdf274c667d4ff490d600b3732d8323cd052703080a4b4ada80f",
       "stats" : {
         "downloadCount" : 41,
         "impressionCount" : 222
       },
       "subtitle" : "Virtual reality content platform",
       "tintColor" : "2E2E33",
-      "version" : "0.10.30",
-      "versionDate" : "2022-08-05T00:00:00Z"
+      "version" : "0.10.31",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -13820,20 +13822,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://kubernetic.s3.amazonaws.com/Kubernetic-4.3.0.dmg",
+      "downloadURL" : "https://kubernetic.s3.amazonaws.com/Kubernetic-4.4.0.dmg",
       "homepage" : "https://kubernetic.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kubernetic/AppIcon.png",
       "localizedDescription" : "Kubernetes desktop client",
       "name" : "Kubernetic",
-      "sha256" : "61919e54afa08214c5781f9546b96929016d282f1f732151ccad3d024afacac3",
+      "sha256" : "176f3210c3b53b882dee831af622010cf1ba74b54d4d71cdfe4ab4bc4eef17ed",
       "stats" : {
         "downloadCount" : 38,
         "impressionCount" : 304
       },
       "subtitle" : "Kubernetes desktop client",
       "tintColor" : "6B7EAE",
-      "version" : "4.3.0",
-      "versionDate" : "2022-07-11T00:00:00Z"
+      "version" : "4.4.0",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -15142,20 +15144,20 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://github.com/oxen-io/session-desktop/releases/download/v1.9.0/session-desktop-mac-1.9.0.dmg",
+      "downloadURL" : "https://github.com/oxen-io/session-desktop/releases/download/v1.9.1/session-desktop-mac-1.9.1.dmg",
       "homepage" : "https://getsession.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-session/AppIcon.png",
       "localizedDescription" : "Onion routing based messenger",
       "name" : "Session",
-      "sha256" : "463b0ef0f45fc5b0fe1df1a7036bd085afd7c00e3adec139882384e6de88bb6b",
+      "sha256" : "dd342dcb7ee432674a9cd72d56c135d0fc6234bd654c36f2ebd12fe015a21b07",
       "stats" : {
         "downloadCount" : 32,
         "impressionCount" : 284
       },
       "subtitle" : "Onion routing based messenger",
       "tintColor" : "2C4B3D",
-      "version" : "1.9.0",
-      "versionDate" : "2022-08-11T00:00:00Z"
+      "version" : "1.9.1",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -15225,19 +15227,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://nspektor.com/downloads/Calendar366_v2.12.3.dmg",
+      "downloadURL" : "https://nspektor.com/downloads/Calendar366_v2.12.4.dmg",
       "homepage" : "https://nspektor.com/calendar366/mac",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calendar-366/AppIcon.png",
       "localizedDescription" : "Menu bar calendar for events and reminders",
       "name" : "Calendar 366 II",
-      "sha256" : "e7088953117a376d8e00d734e9f48617ff14abec00fd1bf939a4687af9b3a6a9",
+      "sha256" : "4783deee1962c654289cea82fef8516421f328a0c40654ddab302a223b89f748",
       "stats" : {
         "downloadCount" : 31,
         "impressionCount" : 427
       },
       "subtitle" : "Menu bar calendar for events and reminders",
       "tintColor" : "FDF6F6",
-      "version" : "2.12.3,3427"
+      "version" : "2.12.4,3431",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -16900,20 +16903,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.remnote.io/RemNote-1.8.14.dmg",
+      "downloadURL" : "https://download.remnote.io/RemNote-1.8.16.dmg",
       "homepage" : "https://www.remnote.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-remnote/AppIcon.png",
       "localizedDescription" : "Spaced-repetition powered note-taking tool",
       "name" : "RemNote",
-      "sha256" : "29e297933e364ae37224f95c7086e99b22bae257dd1bc87c0afd1f673f9e9543",
+      "sha256" : "e7bf183bf2b82b1e410028002dd65b84c6b809ad9bafc72cefdff87e17900dc2",
       "stats" : {
         "downloadCount" : 25,
         "impressionCount" : 459
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
-      "version" : "1.8.14",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "1.8.16",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -17855,7 +17858,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.1.5/siyuan-2.1.5-mac.dmg",
+      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.1.6/siyuan-2.1.6-mac.dmg",
       "fundingLinks" : [
         {
           "platform" : "OPEN_COLLECTIVE",
@@ -17870,15 +17873,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-siyuan/AppIcon.png",
       "localizedDescription" : "Local-first personal knowledge management system",
       "name" : "SiYuan",
-      "sha256" : "e9a6be3b03343f59e0819ad3eafda7ed29dab12216a2f7435121ba2e6f1be2dc",
+      "sha256" : "f7a21f76070206df787666e34b1b67a036d01ab2d9df0006b26cb9db222ee82d",
       "stats" : {
         "downloadCount" : 22,
         "impressionCount" : 492
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
-      "version" : "2.1.5",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "2.1.6",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -17957,8 +17960,8 @@
       },
       "subtitle" : "Communications portal for your organisation",
       "tintColor" : "A79CDB",
-      "version" : "155.0.0.27.218",
-      "versionDate" : "2022-07-14T00:00:00Z"
+      "version" : "155.0.0.38.218",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -18307,8 +18310,8 @@
       },
       "subtitle" : "Collaborative SQL editor",
       "tintColor" : "F6DAD6",
-      "version" : "1.0.76",
-      "versionDate" : "2022-07-29T00:00:00Z"
+      "version" : "1.0.77",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -18642,20 +18645,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://desktop.qobuz.com/releases/darwin/x64/elCapitan_sierra/6.1.1-b039/Qobuz.dmg",
+      "downloadURL" : "https://desktop.qobuz.com/releases/darwin/x64/elCapitan_sierra/6.1.1-b040/Qobuz.dmg",
       "homepage" : "https://www.qobuz.com/applications",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-qobuz/AppIcon.png",
       "localizedDescription" : "Catalogue of hi-res music for streaming and download",
       "name" : "Qobuz",
-      "sha256" : "f45fc5ad483b546aeb18e001a1128029080ca7c1dab3acba219b8f5ffe46202c",
+      "sha256" : "256731c921c8d676d971136979fef1c78f5af21a186a62a6842dceed87a5bb33",
       "stats" : {
         "downloadCount" : 20,
         "impressionCount" : 559
       },
       "subtitle" : "Catalogue of hi-res music for streaming and download",
       "tintColor" : "696969",
-      "version" : "6.1.1,039",
-      "versionDate" : "2022-07-08T00:00:00Z"
+      "version" : "6.1.1,040",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -18931,19 +18934,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://nektony.com/pro-support/duplicates-finder-site/update/DFFS_v6.17b581.zip",
+      "downloadURL" : "https://nektony.com/pro-support/duplicates-finder-site/update/DFFS_v6.17.2b586.zip",
       "homepage" : "https://nektony.com/duplicate-finder-free",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-duplicate-file-finder/AppIcon.png",
       "localizedDescription" : "Find and remove unwanted duplicate files and folders",
       "name" : "Duplicate File Finder",
-      "sha256" : "ebcc6835753dba5448290258a42eac3be488dc093df9c96a49bb3f2528a6bc21",
+      "sha256" : "3ce52dc70047eabd7c4ae6abca23749f8ab5d1d52d2c0ad1c51a9c1ba84bd9e3",
       "stats" : {
         "downloadCount" : 19,
         "impressionCount" : 316
       },
       "subtitle" : "Find and remove unwanted duplicate files and folders",
       "tintColor" : "B3B4AA",
-      "version" : "6.17,581"
+      "version" : "6.17.2,586",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -19299,19 +19303,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/electron/fiddle/releases/download/v0.29.1/Electron.Fiddle-darwin-x64-0.29.1.zip",
+      "downloadURL" : "https://github.com/electron/fiddle/releases/download/v0.29.2/Electron.Fiddle-darwin-x64-0.29.2.zip",
       "homepage" : "https://www.electronjs.org/fiddle",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electron-fiddle/AppIcon.png",
       "localizedDescription" : "Create and play with small Electron experiments",
       "name" : "Electron Fiddle",
-      "sha256" : "838813fe33a07a4c298b0168c853732b52b3ff4b3429190c595aa259e6872de1",
+      "sha256" : "5cc91b5c2f30125b04e720a690fd670a10cd4c91b653e7b1d14895701e636076",
       "stats" : {
         "downloadCount" : 18,
         "impressionCount" : 228
       },
       "subtitle" : "Create and play with small Electron experiments",
       "tintColor" : "F79637",
-      "version" : "0.29.1"
+      "version" : "0.29.2",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -20446,19 +20451,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://dl.houdah.com/houdahSpot/updates/cast6_assets/HoudahSpot6.2.zip",
+      "downloadURL" : "https://dl.houdah.com/houdahSpot/updates/cast6_assets/HoudahSpot6.2.1.zip",
       "homepage" : "https://www.houdah.com/houdahSpot/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-houdahspot/AppIcon.png",
       "localizedDescription" : "File searching application",
       "name" : "HoudahSpot",
-      "sha256" : "9d6625562562fad82936a54f4677dee851be69632258eb55985571759db95729",
+      "sha256" : "872e8c21716fe169e0f695fb296338d6e6cf153bd6f84469537362ef03cb50d5",
       "stats" : {
         "downloadCount" : 16,
         "impressionCount" : 198
       },
       "subtitle" : "File searching application",
       "tintColor" : "FCA02C",
-      "version" : "6.2,734"
+      "version" : "6.2.1,747",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -21622,20 +21628,20 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://vrew-files.voyagerx.com/Vrew-0.11.26.dmg",
+      "downloadURL" : "https://vrew-files.voyagerx.com/Vrew-0.11.28.dmg",
       "homepage" : "https://vrew.voyagerx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vrew/AppIcon.png",
       "localizedDescription" : "Video editor",
       "name" : "vrew",
-      "sha256" : "aa573dabd416b09e912f337a595679921ddbe13c1197e80474c1909c2277fc3e",
+      "sha256" : "d0c453974eaf3821e055c2d9fb1f48818524d596cd686f548104a08de9d0616f",
       "stats" : {
         "downloadCount" : 14,
         "impressionCount" : 624
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
-      "version" : "0.11.26",
-      "versionDate" : "2022-08-04T00:00:00Z"
+      "version" : "0.11.28",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -25043,20 +25049,20 @@
       "categories" : [
         "public.app-category.finance"
       ],
-      "downloadURL" : "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.1.3/Wasabi-2.0.1.3.dmg",
+      "downloadURL" : "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.1.4/Wasabi-2.0.1.4.dmg",
       "homepage" : "https://github.com/zkSNACKs/WalletWasabi/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wasabi-wallet/AppIcon.png",
       "localizedDescription" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
       "name" : "Wasabi Wallet",
-      "sha256" : "db6274be5155d3a022dacc834a13acd4b930081e643d07f3d9beb32db4c29156",
+      "sha256" : "d2a7076104d5473479b100f3039944efbf7fa599173af43a7dab3c32e7937fc1",
       "stats" : {
         "downloadCount" : 9,
         "impressionCount" : 743
       },
       "subtitle" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
       "tintColor" : "A8AD40",
-      "version" : "2.0.1.3",
-      "versionDate" : "2022-07-30T00:00:00Z"
+      "version" : "2.0.1.4",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -25716,8 +25722,8 @@
       },
       "subtitle" : "Tool to securely connect to chat servers",
       "tintColor" : "49D9E5",
-      "version" : "5.3.0,799",
-      "versionDate" : "2022-08-14T00:00:00Z"
+      "version" : "5.3.0,802",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -28566,20 +28572,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://downloads.stork.ai/macos/release/Stork-1.0.14.1734.dmg",
+      "downloadURL" : "https://downloads.stork.ai/macos/release/Stork-1.0.15.1745.dmg",
       "homepage" : "https://stork.ai/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stork/AppIcon.png",
       "localizedDescription" : "Messenger with powerful features for hybrid work",
       "name" : "Stork",
-      "sha256" : "0779f40a666697b614c40fb38b63cb20d9bfdd4105e9c1e287d7768428b00da6",
+      "sha256" : "1864255216e4b11875ba900c2422fdfabe1f6bc4059be0578bd43536a05d5a2c",
       "stats" : {
         "downloadCount" : 6,
         "impressionCount" : 621
       },
       "subtitle" : "Messenger with powerful features for hybrid work",
       "tintColor" : "EDBBA4",
-      "version" : "1.0.14,1734",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "1.0.15,1745",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -32150,7 +32156,8 @@
       },
       "subtitle" : "Quick access to useful system tasks",
       "tintColor" : "535353",
-      "version" : "5.0.1"
+      "version" : "5.0.2",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -33654,19 +33661,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://download.veepn.com/mac/VeePN_v2.1.0.dmg",
+      "downloadURL" : "https://download.veepn.com/mac/VeePN_v2.2.0.dmg",
       "homepage" : "https://veepn.com/vpn-apps/vpn-for-mac/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-veepn/AppIcon.png",
       "localizedDescription" : "VPN client",
       "name" : "VeePN",
-      "sha256" : "25f0376e95e6721de0c252a1cb9b3c2938055cb25ac3138abc8e421a1c52c16b",
+      "sha256" : "6d55af3b8150821cd7de5f62a3d986e0dcc29e1415d2d4a947f6c40748ac63b0",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 99
       },
       "subtitle" : "VPN client",
       "tintColor" : "2DAB99",
-      "version" : "2.1.0,911009"
+      "version" : "2.2.0,918493",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -33706,8 +33714,8 @@
       },
       "subtitle" : "Settings and tweaks configurator",
       "tintColor" : "9CC37C",
-      "version" : "2.3.5,46",
-      "versionDate" : "2022-08-07T00:00:00Z"
+      "version" : "2.3.7,48",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -35090,20 +35098,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/Tracktion/pluginval/releases/download/v1.0.0/pluginval_macOS.zip",
+      "downloadURL" : "https://github.com/Tracktion/pluginval/releases/download/v1.0.1/pluginval_macOS.zip",
       "homepage" : "https://www.tracktion.com/develop/pluginval",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pluginval/AppIcon.png",
       "localizedDescription" : "Cross-platform plugin validator and tester application",
       "name" : "pluginval",
-      "sha256" : "904c077aabedaee9feaae2cb3fb91aeff0b0078c162d7113cd29ac8677485c05",
+      "sha256" : "1263b2a3d107b80e84890f8765c21e4ac32a012bc87b87b58684755f56572524",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 128
       },
       "subtitle" : "Cross-platform plugin validator and tester application",
       "tintColor" : "1E1E1E",
-      "version" : "1.0.0",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "1.0.1",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -36487,20 +36495,20 @@
       "categories" : [
         "public.app-category.finance"
       ],
-      "downloadURL" : "https://github.com/CoinSpace/CoinSpace/releases/download/v5.7.0/Coin.Wallet.dmg",
+      "downloadURL" : "https://github.com/CoinSpace/CoinSpace/releases/download/v5.8.0/Coin.Wallet.dmg",
       "homepage" : "https://coin.space/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coin-wallet/AppIcon.png",
       "localizedDescription" : "Digital currency wallet",
       "name" : "Coin Wallet",
-      "sha256" : "4c3d727511424c8a23bfdff39715ba082e04626879725d5960c1b79a98307bd4",
+      "sha256" : "4f770db464b4cc07e8a4f41c677cb77900f145847c306a5b8ad1d7923070f2ab",
       "stats" : {
         "downloadCount" : 1,
         "impressionCount" : 649
       },
       "subtitle" : "Digital currency wallet",
       "tintColor" : "446143",
-      "version" : "5.7.0",
-      "versionDate" : "2022-07-03T00:00:00Z"
+      "version" : "5.8.0",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -38997,19 +39005,20 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://files.jriver.com/mediacenter/channels/v29/stable/MediaCenter290058-Universal.dmg",
+      "downloadURL" : "https://files.jriver.com/mediacenter/channels/v29/stable/MediaCenter290086-Universal.dmg",
       "homepage" : "https://www.jriver.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-media-center/AppIcon.png",
       "localizedDescription" : "Manage and play your media",
       "name" : "JRiver Media Center",
-      "sha256" : "383e1544cee762e2333489eab932655a37325bce3d588223b29cd9838f9809ab",
+      "sha256" : "1a3235859343232e4e5081bac57282e6fbe33cefc0a38f049ca2fb0a960a68dc",
       "stats" : {
         "downloadCount" : 0,
         "impressionCount" : 442
       },
       "subtitle" : "Manage and play your media",
       "tintColor" : "90A8BB",
-      "version" : "29.00.58"
+      "version" : "29.00.86",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -40584,8 +40593,8 @@
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "tintColor" : "22445D",
-      "version" : "42.7.0.22904",
-      "versionDate" : "2022-07-12T00:00:00Z"
+      "version" : "42.8.0.23214",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -41150,7 +41159,7 @@
       "subtitle" : "Set of tools to create, alter and inspect Matroska files (MKV)",
       "tintColor" : "665160",
       "version" : "70.0.0",
-      "versionDate" : "2022-08-15T01:13:47Z"
+      "versionDate" : "2022-08-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41177,20 +41186,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.springsource.com/release/STS4/4.15.2.RELEASE/dist/e4.24/spring-tool-suite-4-4.15.2.RELEASE-e4.24.0-macosx.cocoa.x86_64.dmg",
+      "downloadURL" : "https://download.springsource.com/release/STS4/4.15.3.RELEASE/dist/e4.24/spring-tool-suite-4-4.15.3.RELEASE-e4.24.0-macosx.cocoa.x86_64.dmg",
       "homepage" : "https://spring.io/tools",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-springtoolsuite/AppIcon.png",
       "localizedDescription" : "Next generation tooling for Spring Boot",
       "name" : "Spring Tool Suite",
-      "sha256" : "1ef952d6af0fcbfa107ad08a3d4d247f1878baa0cff1f25a2307e9d1e15d6067",
+      "sha256" : "9e69a29355e039ce9a0bb9441a515aabb212ef04131d45e9537710225a026b32",
       "stats" : {
         "downloadCount" : 255,
         "impressionCount" : 64
       },
       "subtitle" : "Next generation tooling for Spring Boot",
       "tintColor" : "459730",
-      "version" : "4.15.2,4.24.0",
-      "versionDate" : "2022-08-06T00:00:00Z"
+      "version" : "4.15.3,4.24.0",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -41320,20 +41329,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://d1uj6qtbmh3dt5.cloudfront.net/2022.1/Clients/nice-dcv-viewer-2022.1.4251.x86_64.dmg",
+      "downloadURL" : "https://d1uj6qtbmh3dt5.cloudfront.net/2022.1/Clients/nice-dcv-viewer-2022.1.4279.x86_64.dmg",
       "homepage" : "https://www.nice-dcv.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dcv-viewer/AppIcon.png",
       "localizedDescription" : "Client for NICE DCV remote display protocol",
       "name" : "NICE DCV Viewer",
-      "sha256" : "b2058fc5e2d909f6b5203d2782145f2b8a084b4a5b18323cf6b3eadea5f8e1f7",
+      "sha256" : "036bab4870ffb2f0240f8813910a1f72e3718b4fa552cda8311f20cd8ed25e7d",
       "stats" : {
         "downloadCount" : 228,
         "impressionCount" : 59
       },
       "subtitle" : "Client for NICE DCV remote display protocol",
       "tintColor" : "DAEEF6",
-      "version" : "2022.1.4251",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "2022.1.4279",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -43650,20 +43659,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.8.0/QOwnNotes.dmg",
+      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.8.1/QOwnNotes.dmg",
       "homepage" : "https://www.qownnotes.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-qownnotes/AppIcon.png",
       "localizedDescription" : "Plain-text file notepad and todo-list manager",
       "name" : "QOwnNotes",
-      "sha256" : "49b744fbbb2ee394043b202957793b7b880072cc831cdd285faf30cba8a0c194",
+      "sha256" : "93d3e60616415f86b0d2d273c88276fd3ef8b2a476736ce150b04092194caa7d",
       "stats" : {
         "downloadCount" : 72,
         "impressionCount" : 197
       },
       "subtitle" : "Plain-text file notepad and todo-list manager",
       "tintColor" : "283B6F",
-      "version" : "22.8.0",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "22.8.1",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -43989,7 +43998,7 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/supermerill/SuperSlicer/releases/download/2.4.58.3/SuperSlicer_2.4.58.3_macos_220714.dmg",
+      "downloadURL" : "https://github.com/supermerill/SuperSlicer/releases/download/2.4.58.4/SuperSlicer_2.4.58.4_macos_intel_220811.dmg",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -44004,15 +44013,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-superslicer/AppIcon.png",
       "localizedDescription" : "Convert 3D models into G-code instructions or PNG layers",
       "name" : "SuperSlicer",
-      "sha256" : "4fb4a65d2f56bf75867257ea40a7b32515fbb598e992c69ee8a94ef4579781c5",
+      "sha256" : "594f10459f4d3b2081ae89ef170bc9aa9ad13ebe62bbf2acac3311c58c114026",
       "stats" : {
         "downloadCount" : 66,
         "impressionCount" : 143
       },
       "subtitle" : "Convert 3D models into G-code instructions or PNG layers",
       "tintColor" : "9AB4C9",
-      "version" : "2.4.58.3,220714",
-      "versionDate" : "2022-07-15T00:00:00Z"
+      "version" : "2.4.58.4,220811",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -45671,20 +45680,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/openaudible/openaudible/releases/download/v3.5.8/OpenAudible_3.5.8_x86_64.dmg",
+      "downloadURL" : "https://github.com/openaudible/openaudible/releases/download/v3.5.9/OpenAudible_3.5.9_x86_64.dmg",
       "homepage" : "https://openaudible.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openaudible/AppIcon.png",
       "localizedDescription" : "Audiobook manager for Audible users",
       "name" : "OpenAudible",
-      "sha256" : "bc0464fa7e5ab10c33ec7b3bf3e58525129d42fbba9180b8f68c77543f14e81a",
+      "sha256" : "e5b9a122a249cebf0e1bd7adfcab24924274878f711e8a2b501f4e634687bb62",
       "stats" : {
         "downloadCount" : 37,
         "impressionCount" : 70
       },
       "subtitle" : "Audiobook manager for Audible users",
       "tintColor" : "8A6264",
-      "version" : "3.5.8",
-      "versionDate" : "2022-07-29T00:00:00Z"
+      "version" : "3.5.9",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -48082,7 +48091,8 @@
       },
       "subtitle" : "Client for the Tresorit cloud storage service",
       "tintColor" : "CDE8F6",
-      "version" : "3.5.2336.3090"
+      "version" : "3.5.2382.3220",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -48365,20 +48375,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp17.0/20220801/Visual_Paradigm_17_0_20220801_OSX_WithJRE.dmg",
+      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp17.0/20220816/Visual_Paradigm_17_0_20220816_OSX_WithJRE.dmg",
       "homepage" : "https://www.visual-paradigm.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-paradigm/AppIcon.png",
       "localizedDescription" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "name" : "Visual Paradigm",
-      "sha256" : "224ae7ee55a81fc6e49a4f9b0018e42584bcce75c6115d1dbeec8d9c3d691f83",
+      "sha256" : "af1dea5f6b629d2e0e0a7347c53cd612d2ee8063084f272a79a2bbb085593f96",
       "stats" : {
         "downloadCount" : 18,
         "impressionCount" : 68
       },
       "subtitle" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "tintColor" : "DE7A7A",
-      "version" : "17.0,20220801",
-      "versionDate" : "2022-08-01T00:00:00Z"
+      "version" : "17.0,20220816",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -48605,19 +48615,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://meedownloads.azureedge.net/retailbuilds/MacOS/Minecraft_Education_Edition_1-17-32-00.dmg",
+      "downloadURL" : "https://meedownloads.azureedge.net/retailbuilds/MacOS/Minecraft_Education_Edition_1.18.32.0.dmg",
       "homepage" : "https://education.minecraft.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-minecraftpe/AppIcon.png",
       "localizedDescription" : "Educational version of Minecraft",
       "name" : "Minecraft Education Edition",
-      "sha256" : "dc8f792fe2107d4203bb795d9e05e538356e21c8145e4c919f2bbfda1a217676",
+      "sha256" : "aa9d2befed54e22b56c07b021b1bebda9b2aedc873c4ddb175d8d2fe4f936dc9",
       "stats" : {
         "downloadCount" : 17,
         "impressionCount" : 47
       },
       "subtitle" : "Educational version of Minecraft",
       "tintColor" : "8E6633",
-      "version" : "1.17.32.00"
+      "version" : "1.18.32.0",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -48735,7 +48746,8 @@
       },
       "subtitle" : "Transforms audio input",
       "tintColor" : "1D2C3D",
-      "version" : "1.7.4,101.7.4007"
+      "version" : "1.7.5,101.7.5041",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -48835,8 +48847,8 @@
       },
       "subtitle" : "Data science platform",
       "tintColor" : "887448",
-      "version" : "9.10.10",
-      "versionDate" : "2022-07-18T00:00:00Z"
+      "version" : "9.10.11",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -49184,20 +49196,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_17_0_20220801_OSX_WithJRE.dmg",
+      "downloadURL" : "https://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_17_0_20220816_OSX_WithJRE.dmg",
       "homepage" : "https://www.visual-paradigm.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-paradigm-ce/AppIcon.png",
       "localizedDescription" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
       "name" : "Visual Paradigm Community Edition",
-      "sha256" : "f7d4db8b65982054ea2ee803b3c92e60ea5e7b9816fa4536f763e7061e17458c",
+      "sha256" : "06521bb728f5aa338dd583daf789d5bc512884f1b4e043805cd09dfdb9926112",
       "stats" : {
         "downloadCount" : 15,
         "impressionCount" : 62
       },
       "subtitle" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
       "tintColor" : "DE7A7A",
-      "version" : "17.0,20220801",
-      "versionDate" : "2022-08-01T00:00:00Z"
+      "version" : "17.0,20220816",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -50929,20 +50941,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.formlabs.com/PreForm/Release/3.26.1/PreForm_mac_3.26.1_release_releaser_154_21934.dmg",
+      "downloadURL" : "https://downloads.formlabs.com/PreForm/Release/3.26.2/PreForm_mac_3.26.2_release_releaser_155_22353.dmg",
       "homepage" : "https://formlabs.com/tools/preform/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-preform/AppIcon.png",
       "localizedDescription" : "3D printing setup, management, and monitoring",
       "name" : "PreForm",
-      "sha256" : "5696f8610a1f9c56c511502a7c2e4d354af1a744ab468466b8e5377a0e4012a1",
+      "sha256" : "547cd2fd327d32d29ae90f85fa289a8a153c3ea32ad04d1f8cd877086bd11993",
       "stats" : {
         "downloadCount" : 10,
         "impressionCount" : 117
       },
       "subtitle" : "3D printing setup, management, and monitoring",
       "tintColor" : "83858A",
-      "version" : "3.26.1,154_21934",
-      "versionDate" : "2022-08-04T00:00:00Z"
+      "version" : "3.26.2,155_22353",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -52387,20 +52399,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/BeyondDimension/SteamTools/releases/download/2.8.2/Steam++_macos_x64_v2.8.2.dmg",
+      "downloadURL" : "https://github.com/BeyondDimension/SteamTools/releases/download/2.8.3/Steam++_macos_x64_v2.8.3.dmg",
       "homepage" : "https://steampp.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam-plus-plus/AppIcon.png",
       "localizedDescription" : "Steam helper tools",
       "name" : "Steam++",
-      "sha256" : "96ea6370596e6c12d475615d062599fd05ba58bde6222de68f0cb54e37d1bc8c",
+      "sha256" : "9d07681cb51e68c945b017b684f7394caef94a256a5bbe5e81fe27670e41ea4f",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 69
       },
       "subtitle" : "Steam helper tools",
       "tintColor" : "4BA7D7",
-      "version" : "2.8.2",
-      "versionDate" : "2022-07-29T00:00:00Z"
+      "version" : "2.8.3",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -52696,7 +52708,8 @@
       },
       "subtitle" : "HP-42S calculator simulator",
       "tintColor" : "3F434C",
-      "version" : "3.0.13a"
+      "version" : "3.0.14",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -52879,19 +52892,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://get.openlp.org/2.9.4/OpenLP-2.9.4.dmg",
+      "downloadURL" : "https://get.openlp.org/2.9.5/OpenLP-2.9.5.dmg",
       "homepage" : "https://openlp.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openlp/AppIcon.png",
       "localizedDescription" : "Worship presentation software",
       "name" : "OpenLP",
-      "sha256" : "ad4e93c8a0f360cfbbb3cdbe27268235251ac2cfb9ac6cd6ebd2d14e8b7c31d3",
+      "sha256" : "adcf0101826d303d4278eb887a0eb16f0e68e86d259c6f909b2750afdb568a6c",
       "stats" : {
         "downloadCount" : 7,
         "impressionCount" : 59
       },
       "subtitle" : "Worship presentation software",
       "tintColor" : "98AFD9",
-      "version" : "2.9.4"
+      "version" : "2.9.5",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -54034,20 +54048,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/asciidocfx/AsciidocFX/releases/download/v1.7.5/AsciidocFX_Mac.dmg",
+      "downloadURL" : "https://github.com/asciidocfx/AsciidocFX/releases/download/v1.7.6/AsciidocFX_Mac.dmg",
       "homepage" : "https://www.asciidocfx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-asciidocfx/AppIcon.png",
       "localizedDescription" : "Asciidoc Editor and Toolchain to build books, documents and slides",
       "name" : "AsciidocFX",
-      "sha256" : "b7f25bed27d4fb39187cfcef1495652174d39fef01ea9b3e5a67eb10fea4299f",
+      "sha256" : "271f0ba474bc007069e62c7e586c741da082dd342099ba0bfa2feab23074930f",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 57
       },
       "subtitle" : "Asciidoc Editor and Toolchain to build books, documents and slides",
       "tintColor" : "8FBAA9",
-      "version" : "1.7.5",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "1.7.6",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -54153,20 +54167,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/davide-romanini/comictagger/releases/download/1.4.5/ComicTagger-1.4.5-osx-10.15.7-x86_64.app.zip",
+      "downloadURL" : "https://github.com/davide-romanini/comictagger/releases/download/1.4.6/ComicTagger-1.4.6-osx-10.15.7-x86_64.app.zip",
       "homepage" : "https://github.com/davide-romanini/comictagger",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-comictagger/AppIcon.png",
       "localizedDescription" : "Metadata editor for digital comics",
       "name" : "ComicTagger",
-      "sha256" : "8bf80a097a28ce1a37c7aaa99cdd27571553cc3fed30bebb8b236ee715d78411",
+      "sha256" : "71998f14c1a4d95447b7aecfcdeca6276a09df2dc442f99ba85caaedc9e065ac",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 66
       },
       "subtitle" : "Metadata editor for digital comics",
       "tintColor" : "897179",
-      "version" : "1.4.5",
-      "versionDate" : "2022-08-13T00:00:00Z"
+      "version" : "1.4.6",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -54960,7 +54974,8 @@
       },
       "subtitle" : "HP-42S calculator simulator",
       "tintColor" : "3F434C",
-      "version" : "3.0.13a"
+      "version" : "3.0.14",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -58984,16 +58999,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/PowerShell/PowerShell/releases/download/v7.2.5/powershell-7.2.5-osx-x64.pkg",
+      "downloadURL" : "https://github.com/PowerShell/PowerShell/releases/download/v7.2.6/powershell-7.2.6-osx-x64.pkg",
       "homepage" : "https://github.com/PowerShell/PowerShell",
       "localizedDescription" : "Command-line shell and scripting language",
       "name" : "PowerShell",
-      "sha256" : "d007bc8c1e2bdb43e8b54ccacb86499a619588866255eab5a823f46228587b2c",
+      "sha256" : "07ca6ddfbb6a9d98671c2f166cee93df2844f2a2c4132f59e71ac9869577564d",
       "stats" : {
         "downloadCount" : 11118
       },
       "subtitle" : "Command-line shell and scripting language",
-      "version" : "7.2.5"
+      "version" : "7.2.6",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -59103,16 +59119,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.1%2B10/OpenJDK18U-jdk_x64_mac_hotspot_18.0.1_10.pkg",
+      "downloadURL" : "https://github.com/adoptium/temurin18-binaries/releases/download/jdk-18.0.2%2B9/OpenJDK18U-jdk_x64_mac_hotspot_18.0.2_9.pkg",
       "homepage" : "https://adoptium.net/",
       "localizedDescription" : "JDK from the Eclipse Foundation (Adoptium)",
       "name" : "Eclipse Temurin Java Development Kit",
-      "sha256" : "568aaf7c58ea913c1188fb033677b92e2b3145a0babadff2179a7a7d2050129d",
+      "sha256" : "aa78eba86b8bda6e1b38240707fc27792065046ff9e13f1b6a52eefa1dfa854c",
       "stats" : {
         "downloadCount" : 5014
       },
       "subtitle" : "JDK from the Eclipse Foundation (Adoptium)",
-      "version" : "18.0.1,10"
+      "version" : "18.0.2,9",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -59708,17 +59725,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/3da50ef8-7b22-4f08-95e9-3641416fdc08/ee91bcdbbbb117803e315f673c9d19f1/dotnet-runtime-6.0.7-osx-x64.pkg",
+      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/5cda9364-6621-40a0-9519-c460a37571c6/a73481f3abf7bd0325420d2ce740bfed/dotnet-runtime-6.0.8-osx-x64.pkg",
       "homepage" : "https://www.microsoft.com/net/core#macos",
       "localizedDescription" : "Developer platform",
       "name" : ".Net Runtime",
-      "sha256" : "9aba5aca71ada681a77a9058a5d5c2fdfed7d6a197ba416c88e8093906abbdeb",
+      "sha256" : "b401bf0279e076a7e3187858f7be9613fe06b0260565155e5e0118e24ba3e0a2",
       "stats" : {
         "downloadCount" : 1039
       },
       "subtitle" : "Developer platform",
-      "version" : "6.0.7,3da50ef8-7b22-4f08-95e9-3641416fdc08,ee91bcdbbbb117803e315f673c9d19f1",
-      "versionDate" : "2022-07-13T00:00:00Z"
+      "version" : "6.0.8,5cda9364-6621-40a0-9519-c460a37571c6,a73481f3abf7bd0325420d2ce740bfed",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -60070,17 +60087,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.13%2B20220812102905-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.13%2B20220814103055-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "64ad3e8e1222c5af93887fefaea4b40e09e2b40dd367baa56c4f925c60b0a7c2",
+      "sha256" : "8a0d247ace88604157d807b36ebe623a8a858c1b2baba31f5d474edb74750a46",
       "stats" : {
         "downloadCount" : 580
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.13,20220812102905",
-      "versionDate" : "2022-08-13T00:00:00Z"
+      "version" : "6.2.13,20220814103055",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -61076,8 +61093,8 @@
         "downloadCount" : 202
       },
       "subtitle" : "Video communication and virtual meeting platform",
-      "version" : "42.7.0.22904",
-      "versionDate" : "2022-07-12T00:00:00Z"
+      "version" : "42.8.0.23214",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -61300,8 +61317,8 @@
         "downloadCount" : 155
       },
       "subtitle" : "SalesForce CLI tools",
-      "version" : "7.162.0",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "7.163.0",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -62554,8 +62571,8 @@
         "downloadCount" : 69
       },
       "subtitle" : "Time optimising application",
-      "version" : "3.1.0.17",
-      "versionDate" : "2022-08-01T00:00:00Z"
+      "version" : "3.1.1.1",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -67141,8 +67158,8 @@
         "downloadCount" : 10
       },
       "subtitle" : "Create and share augmented reality experiences using the Facebook family of apps",
-      "version" : "143",
-      "versionDate" : "2022-07-28T00:00:00Z"
+      "version" : "144",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -67479,7 +67496,8 @@
         "downloadCount" : 9
       },
       "subtitle" : "Office suite",
-      "version" : "2021,1046"
+      "version" : "2021,1050",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -67857,17 +67875,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://updates.remotion.com/installers/Remotion%201.89.1.dmg",
+      "downloadURL" : "https://updates.remotion.com/installers/Remotion%201.90.1.dmg",
       "homepage" : "https://www.remotion.com/",
       "localizedDescription" : "Communication tool for remote teams",
       "name" : "remotion",
-      "sha256" : "28f9e1e8f9d7fd7679eced56443f3517fdb0e13176505e87c5869b1324b5dab6",
+      "sha256" : "8ceabe284036de47b69b2b5aef5555fbf78f579467a4ad31419763dc5919c719",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "Communication tool for remote teams",
-      "version" : "1.89.1",
-      "versionDate" : "2022-08-04T00:00:00Z"
+      "version" : "1.90.1",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -67975,16 +67993,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://ugs.jfrog.io/ugs/UGS/v2.0.11/ugs-platform-app-ios.dmg",
+      "downloadURL" : "https://ugs.jfrog.io/ugs/UGS/v2.0.12/ugs-platform-app-ios.dmg",
       "homepage" : "https://winder.github.io/ugs_website/",
       "localizedDescription" : "G-code sender for CNC (compatible with GRBL, TinyG, g2core and Smoothieware)",
       "name" : "Universal G-code Sender (Platform version)",
-      "sha256" : "5a1ab4c6cdc4425c6fac233be3fdb3865b1b0c817df1dcb8f2f231f0b2a81b1f",
+      "sha256" : "07dc8d2946b3c1f8de5d7cb58c8bd94ca379bb9fd8f306a898f76fd68d34806e",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "G-code sender for CNC (compatible with GRBL, TinyG, g2core and Smoothieware)",
-      "version" : "2.0.11"
+      "version" : "2.0.12",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -69236,17 +69255,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://s3.eu-west-2.amazonaws.com/plastic-releases/releases/11.0.16.7274/plasticscm/osx/plasticscm-cloud-11.0.16.7274.pkg.zip",
+      "downloadURL" : "https://s3.eu-west-2.amazonaws.com/plastic-releases/releases/11.0.16.7303/plasticscm/osx/plasticscm-cloud-11.0.16.7303.pkg.zip",
       "homepage" : "https://www.plasticscm.com/",
       "localizedDescription" : "Install PlasticSCM locally and join a Cloud Edition subscription",
       "name" : "PlasicSCM - a Cloud Edition",
-      "sha256" : "369be62ef7a069bd2a436e8fbeca90a70ccf281372243ddf1acf46fceb8903a3",
+      "sha256" : "59f55f96ac1a5a056c7d1d9a052154ff7e5d6d2e2e7a7968f1f9960c2a444fc7",
       "stats" : {
         "downloadCount" : 5
       },
       "subtitle" : "Install PlasticSCM locally and join a Cloud Edition subscription",
-      "version" : "11.0.16.7274",
-      "versionDate" : "2022-08-06T00:00:00Z"
+      "version" : "11.0.16.7303",
+      "versionDate" : "2022-08-15T02:06:29Z"
     },
     {
       "beta" : false,
@@ -72197,7 +72216,7 @@
       },
       "subtitle" : "Wireless modular synthesizer",
       "version" : "2.9.3,12092",
-      "versionDate" : "2022-08-15T01:13:47Z"
+      "versionDate" : "2022-08-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73386,7 +73405,7 @@
       },
       "subtitle" : "Audio Effects Plugins",
       "version" : "5.3.7.16421",
-      "versionDate" : "2022-08-15T01:13:47Z"
+      "versionDate" : "2022-08-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73673,433 +73692,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "dropzone",
-      "caption" : "Dropzone updated from 4.4.3,1804 to 4.4.4,1814",
-      "date" : "2022-08-13T03:57:12Z",
-      "identifier" : "release-dropzone-4.4.4,1814",
-      "title" : "New Release: Dropzone 4.4.4,1814"
-    },
-    {
-      "appID" : "masscode",
-      "caption" : "massCode updated from 3.1.0 to 3.2.0",
-      "date" : "2022-08-13T03:57:12Z",
-      "identifier" : "release-masscode-3.2.0",
-      "title" : "New Release: massCode 3.2.0"
-    },
-    {
-      "appID" : "cog",
-      "caption" : "Cog updated from 2672,c2a880fa to 2684,d7418c3b",
-      "date" : "2022-08-13T03:57:12Z",
-      "identifier" : "release-cog-2684,d7418c3b",
-      "title" : "New Release: Cog 2684,d7418c3b"
-    },
-    {
-      "appID" : "nosqlbooster-for-mongodb",
-      "caption" : "NoSQLBooster for MongoDB updated from 7.1.6 to 7.1.7",
-      "date" : "2022-08-13T03:57:12Z",
-      "identifier" : "release-nosqlbooster-for-mongodb-7.1.7",
-      "title" : "New Release: NoSQLBooster for MongoDB 7.1.7"
-    },
-    {
-      "appID" : "arctype",
-      "caption" : "Arctype updated from 0.9.77 to 0.9.79",
-      "date" : "2022-08-13T03:57:12Z",
-      "identifier" : "release-arctype-0.9.79",
-      "title" : "New Release: Arctype 0.9.79"
-    },
-    {
-      "appID" : "heroic",
-      "caption" : "Heroic Games Launcher updated from 2.3.10 to 2.4.0",
-      "date" : "2022-08-13T03:57:13Z",
-      "identifier" : "release-heroic-2.4.0",
-      "title" : "New Release: Heroic Games Launcher 2.4.0"
-    },
-    {
-      "appID" : "freetube",
-      "caption" : "FreeTube updated from 0.17.0 to 0.17.1",
-      "date" : "2022-08-13T03:57:13Z",
-      "identifier" : "release-freetube-0.17.1",
-      "title" : "New Release: FreeTube 0.17.1"
-    },
-    {
-      "appID" : "utools",
-      "caption" : "uTools updated from 2.6.3 to 3.0.1",
-      "date" : "2022-08-13T03:57:13Z",
-      "identifier" : "release-utools-3.0.1",
-      "title" : "New Release: uTools 3.0.1"
-    },
-    {
-      "appID" : "geogebra",
-      "caption" : "GeoGebra updated from 6.0.723.0 to 6.0.724.0",
-      "date" : "2022-08-13T03:57:14Z",
-      "identifier" : "release-geogebra-6.0.724.0",
-      "title" : "New Release: GeoGebra 6.0.724.0"
-    },
-    {
-      "appID" : "ocenaudio",
-      "caption" : "ocenaudio updated from 3.11.13 to 3.11.14",
-      "date" : "2022-08-13T03:57:14Z",
-      "identifier" : "release-ocenaudio-3.11.14",
-      "title" : "New Release: ocenaudio 3.11.14"
-    },
-    {
-      "appID" : "camtasia",
-      "caption" : "Camtasia updated from 2022.0.4 to 2022.1.0",
-      "date" : "2022-08-13T03:57:14Z",
-      "identifier" : "release-camtasia-2022.1.0",
-      "title" : "New Release: Camtasia 2022.1.0"
-    },
-    {
-      "appID" : "batteries",
-      "caption" : "Batteries updated from 2.2.4 to 2.2.5",
-      "date" : "2022-08-13T03:57:14Z",
-      "identifier" : "release-batteries-2.2.5",
-      "title" : "New Release: Batteries 2.2.5"
-    },
-    {
-      "appID" : "kext-updater",
-      "caption" : "Kext Updater updated from 4.0.4,404 to 4.0.5,405",
-      "date" : "2022-08-13T03:57:15Z",
-      "identifier" : "release-kext-updater-4.0.5,405",
-      "title" : "New Release: Kext Updater 4.0.5,405"
-    },
-    {
-      "appID" : "cleanmymac-zh",
-      "caption" : "CleanMyMac X Chinese updated from 4.11.1,41101.0.2207121840 to 4.11.2,41102.0.2208091809",
-      "date" : "2022-08-13T03:57:15Z",
-      "identifier" : "release-cleanmymac-zh-4.11.2,41102.0.2208091809",
-      "title" : "New Release: CleanMyMac X Chinese 4.11.2,41102.0.2208091809"
-    },
-    {
-      "appID" : "iconjar",
-      "caption" : "IconJar updated from 2.10.0,50258 to 2.11.0,50391",
-      "date" : "2022-08-13T03:57:15Z",
-      "identifier" : "release-iconjar-2.11.0,50391",
-      "title" : "New Release: IconJar 2.11.0,50391"
-    },
-    {
-      "appID" : "gcollazo-mongodb",
-      "caption" : "MongoDB updated from 4.2.0-build.3 to 6.0.0-build.1",
-      "date" : "2022-08-13T03:57:15Z",
-      "identifier" : "release-gcollazo-mongodb-6.0.0-build.1",
-      "title" : "New Release: MongoDB 6.0.0-build.1"
-    },
-    {
-      "appID" : "macloggerdx",
-      "caption" : "MacLoggerDX updated from 6.41 to 6.42",
-      "date" : "2022-08-13T03:57:16Z",
-      "identifier" : "release-macloggerdx-6.42",
-      "title" : "New Release: MacLoggerDX 6.42"
-    },
-    {
-      "appID" : "badlion-client",
-      "caption" : "Badlion Client updated from 3.10.2 to 3.11.0",
-      "date" : "2022-08-13T03:57:16Z",
-      "identifier" : "release-badlion-client-3.11.0",
-      "title" : "New Release: Badlion Client 3.11.0"
-    },
-    {
-      "appID" : "reaper",
-      "caption" : "REAPER updated from 6.64 to 6.65",
-      "date" : "2022-08-13T03:57:16Z",
-      "identifier" : "release-reaper-6.65",
-      "title" : "New Release: REAPER 6.65"
-    },
-    {
-      "appID" : "monero-wallet",
-      "caption" : "Monero Wallet updated from 0.18.0.0 to 0.18.1.0",
-      "date" : "2022-08-13T03:57:16Z",
-      "identifier" : "release-monero-wallet-0.18.1.0",
-      "title" : "New Release: Monero Wallet 0.18.1.0"
-    },
-    {
-      "appID" : "chirp",
-      "caption" : "CHIRP updated from 20220726 to 20220808",
-      "date" : "2022-08-13T03:57:16Z",
-      "identifier" : "release-chirp-20220808",
-      "title" : "New Release: CHIRP 20220808"
-    },
-    {
-      "appID" : "tiled",
-      "caption" : "Tiled updated from 1.9.0 to 1.9.1",
-      "date" : "2022-08-13T03:57:17Z",
-      "identifier" : "release-tiled-1.9.1",
-      "title" : "New Release: Tiled 1.9.1"
-    },
-    {
-      "appID" : "jamovi",
-      "caption" : "jamovi updated from 2.3.13.0 to 2.3.15.0",
-      "date" : "2022-08-13T03:57:17Z",
-      "identifier" : "release-jamovi-2.3.15.0",
-      "title" : "New Release: jamovi 2.3.15.0"
-    },
-    {
-      "appID" : "comictagger",
-      "caption" : "ComicTagger updated from 1.4.3 to 1.4.5",
-      "date" : "2022-08-13T03:57:17Z",
-      "identifier" : "release-comictagger-1.4.5",
-      "title" : "New Release: ComicTagger 1.4.5"
-    },
-    {
-      "appID" : "bitwarden",
-      "caption" : "Bitwarden updated from 2022.8.0 to 2022.8.1",
-      "date" : "2022-08-13T03:57:17Z",
-      "identifier" : "release-bitwarden-2022.8.1",
-      "title" : "New Release: Bitwarden 2022.8.1"
-    },
-    {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.12,20220811103046 to 6.2.13,20220812102905",
-      "date" : "2022-08-13T03:57:17Z",
-      "identifier" : "release-metasploit-6.2.13,20220812102905",
-      "title" : "New Release: Metasploit Framework 6.2.13,20220812102905"
-    },
-    {
-      "appID" : "deezer",
-      "caption" : "Deezer updated from 5.30.280 to 5.30.300",
-      "date" : "2022-08-13T03:57:17Z",
-      "identifier" : "release-deezer-5.30.300",
-      "title" : "New Release: Deezer 5.30.300"
-    },
-    {
-      "appID" : "ilok-license-manager",
-      "caption" : "iLok License Manager updated from 5.5.2,4268 to 5.6.0,4626",
-      "date" : "2022-08-13T03:57:18Z",
-      "identifier" : "release-ilok-license-manager-5.6.0,4626",
-      "title" : "New Release: iLok License Manager 5.6.0,4626"
-    },
-    {
-      "appID" : "adguard-vpn",
-      "caption" : "AdGuard VPN updated from 1.2.3.207 to 1.2.3.208",
-      "date" : "2022-08-13T03:57:18Z",
-      "identifier" : "release-adguard-vpn-1.2.3.208",
-      "title" : "New Release: AdGuard VPN 1.2.3.208"
-    },
-    {
-      "appID" : "beeper",
-      "caption" : "Beeper updated from 3.20.14 to 3.21.20",
-      "date" : "2022-08-13T03:57:18Z",
-      "identifier" : "release-beeper-3.21.20",
-      "title" : "New Release: Beeper 3.21.20"
-    },
-    {
-      "appID" : "chatty",
-      "caption" : "Chatty updated from 0.19 to 0.20",
-      "date" : "2022-08-13T03:57:19Z",
-      "identifier" : "release-chatty-0.20",
-      "title" : "New Release: Chatty 0.20"
-    },
-    {
-      "appID" : "fotokasten",
-      "caption" : "Fotokasten updated from 3.61.0,220518.0954 to 3.64.0,220805.1210",
-      "date" : "2022-08-13T03:57:19Z",
-      "identifier" : "release-fotokasten-3.64.0,220805.1210",
-      "title" : "New Release: Fotokasten 3.64.0,220805.1210"
-    },
-    {
-      "appID" : "vnc-server",
-      "caption" : "Real VNC Server updated from 6.10.0 to 6.10.1",
-      "date" : "2022-08-13T05:21:39Z",
-      "identifier" : "release-vnc-server-6.10.1",
-      "title" : "New Release: Real VNC Server 6.10.1"
-    },
-    {
-      "appID" : "zoom",
-      "caption" : "Zoom.us updated from 5.11.3.9065 to 5.11.5.9788",
-      "date" : "2022-08-13T18:23:20Z",
-      "identifier" : "release-zoom-5.11.5.9788",
-      "title" : "New Release: Zoom.us 5.11.5.9788"
-    },
-    {
-      "appID" : "zoom-for-it-admins",
-      "caption" : "Zoom for IT Admins updated from 5.11.3.9065 to 5.11.5.9788",
-      "date" : "2022-08-13T18:23:20Z",
-      "identifier" : "release-zoom-for-it-admins-5.11.5.9788",
-      "title" : "New Release: Zoom for IT Admins 5.11.5.9788"
-    },
-    {
-      "appID" : "fabfilter-saturn",
-      "caption" : "FabFilter Saturn 2.06 released",
-      "date" : "2022-08-14T01:12:57Z",
-      "identifier" : "release-fabfilter-saturn-2.06",
-      "title" : "New Release: FabFilter Saturn 2.06"
-    },
-    {
-      "appID" : "telegram",
-      "caption" : "Telegram for macOS updated from 8.9,234881 to 8.9,234894",
-      "date" : "2022-08-14T13:35:56Z",
-      "identifier" : "release-telegram-8.9,234894",
-      "title" : "New Release: Telegram for macOS 8.9,234894"
-    },
-    {
-      "appID" : "opera",
-      "caption" : "Opera updated from 89.0.4447.83 to 89.0.4447.91",
-      "date" : "2022-08-14T13:35:57Z",
-      "identifier" : "release-opera-89.0.4447.91",
-      "title" : "New Release: Opera 89.0.4447.91"
-    },
-    {
-      "appID" : "microsoft-edge",
-      "caption" : "Microsoft Edge updated from 104.0.1293.47 to 104.0.1293.54",
-      "date" : "2022-08-14T13:35:57Z",
-      "identifier" : "release-microsoft-edge-104.0.1293.54",
-      "title" : "New Release: Microsoft Edge 104.0.1293.54"
-    },
-    {
-      "appID" : "bettertouchtool",
-      "caption" : "BetterTouchTool updated from 3.833,1980 to 3.834,1981",
-      "date" : "2022-08-14T13:35:57Z",
-      "identifier" : "release-bettertouchtool-3.834,1981",
-      "title" : "New Release: BetterTouchTool 3.834,1981"
-    },
-    {
-      "appID" : "browserosaurus",
-      "caption" : "Browserosaurus updated from 19.0.0 to 19.0.1",
-      "date" : "2022-08-14T13:35:57Z",
-      "identifier" : "release-browserosaurus-19.0.1",
-      "title" : "New Release: Browserosaurus 19.0.1"
-    },
-    {
-      "appID" : "microsoft-azure-storage-explorer",
-      "caption" : "Microsoft Azure Storage Explorer updated from 1.25.0 to 1.25.1",
-      "date" : "2022-08-14T13:35:57Z",
-      "identifier" : "release-microsoft-azure-storage-explorer-1.25.1",
-      "title" : "New Release: Microsoft Azure Storage Explorer 1.25.1"
-    },
-    {
-      "appID" : "keyboardcleantool",
-      "caption" : "KeyboardCleanTool updated from 3 to 4",
-      "date" : "2022-08-14T13:35:57Z",
-      "identifier" : "release-keyboardcleantool-4",
-      "title" : "New Release: KeyboardCleanTool 4"
-    },
-    {
-      "appID" : "keyboardholder",
-      "caption" : "KeyboardHolder updated from 1.9.2 to 1.9.3",
-      "date" : "2022-08-14T13:35:57Z",
-      "identifier" : "release-keyboardholder-1.9.3",
-      "title" : "New Release: KeyboardHolder 1.9.3"
-    },
-    {
-      "appID" : "dropbox-capture",
-      "caption" : "Dropbox Capture updated from 81.0.10 to 82.0.7",
-      "date" : "2022-08-14T13:35:58Z",
-      "identifier" : "release-dropbox-capture-82.0.7",
-      "title" : "New Release: Dropbox Capture 82.0.7"
-    },
-    {
-      "appID" : "pdf-reader-pro",
-      "caption" : "PDF Reader Pro updated from 2.8.13.1 to 2.8.15.1",
-      "date" : "2022-08-14T13:35:58Z",
-      "identifier" : "release-pdf-reader-pro-2.8.15.1",
-      "title" : "New Release: PDF Reader Pro 2.8.15.1"
-    },
-    {
-      "appID" : "nwjs",
-      "caption" : "NW.js updated from 0.67.0 to 0.67.1",
-      "date" : "2022-08-14T13:35:58Z",
-      "identifier" : "release-nwjs-0.67.1",
-      "title" : "New Release: NW.js 0.67.1"
-    },
-    {
-      "appID" : "igv",
-      "caption" : "Integrative Genomics Viewer (IGV) updated from 2.13.2 to 2.14.0",
-      "date" : "2022-08-14T13:35:58Z",
-      "identifier" : "release-igv-2.14.0",
-      "title" : "New Release: Integrative Genomics Viewer (IGV) 2.14.0"
-    },
-    {
-      "appID" : "milanote",
-      "caption" : "Milanote updated from 3.3.0 to 3.3.1",
-      "date" : "2022-08-14T13:35:58Z",
-      "identifier" : "release-milanote-3.3.1",
-      "title" : "New Release: Milanote 3.3.1"
-    },
-    {
-      "appID" : "pitch",
-      "caption" : "Pitch updated from 1.86.0,stable.2,4494312 to 1.87.2,stable.1,4545046",
-      "date" : "2022-08-14T13:35:58Z",
-      "identifier" : "release-pitch-1.87.2,stable.1,4545046",
-      "title" : "New Release: Pitch 1.87.2,stable.1,4545046"
-    },
-    {
-      "appID" : "mymonero",
-      "caption" : "MyMonero updated from 1.2.7 to 1.3.0",
-      "date" : "2022-08-14T13:35:59Z",
-      "identifier" : "release-mymonero-1.3.0",
-      "title" : "New Release: MyMonero 1.3.0"
-    },
-    {
-      "appID" : "disk-expert",
-      "caption" : "Disk Expert updated from 3.8,372 to 3.8.1,375",
-      "date" : "2022-08-14T13:35:59Z",
-      "identifier" : "release-disk-expert-3.8.1,375",
-      "title" : "New Release: Disk Expert 3.8.1,375"
-    },
-    {
-      "appID" : "monal",
-      "caption" : "Monal updated from 5.3.0,797 to 5.3.0,799",
-      "date" : "2022-08-14T13:35:59Z",
-      "identifier" : "release-monal-5.3.0,799",
-      "title" : "New Release: Monal 5.3.0,799"
-    },
-    {
-      "appID" : "notebooks",
-      "caption" : "Notebooks updated from 3.0,223 to 3.0.1,224",
-      "date" : "2022-08-14T13:35:59Z",
-      "identifier" : "release-notebooks-3.0.1,224",
-      "title" : "New Release: Notebooks 3.0.1,224"
-    },
-    {
-      "appID" : "vivaldi",
-      "caption" : "Vivaldi updated from 5.4.2753.28 to 5.4.2753.33",
-      "date" : "2022-08-14T13:35:59Z",
-      "identifier" : "release-vivaldi-5.4.2753.33",
-      "title" : "New Release: Vivaldi 5.4.2753.33"
-    },
-    {
-      "appID" : "origin",
-      "caption" : "Origin updated from 10.5.114.51455 to 10.5.115.51547",
-      "date" : "2022-08-14T13:35:59Z",
-      "identifier" : "release-origin-10.5.115.51547",
-      "title" : "New Release: Origin 10.5.115.51547"
-    },
-    {
-      "appID" : "feed-the-beast",
-      "caption" : "Feed the Beast updated from 202207271710,0f9644f5fc to 202208131844,e5790011d3",
-      "date" : "2022-08-14T13:35:59Z",
-      "identifier" : "release-feed-the-beast-202208131844,e5790011d3",
-      "title" : "New Release: Feed the Beast 202208131844,e5790011d3"
-    },
-    {
-      "appID" : "altair-graphql-client",
-      "caption" : "Altair GraphQL Client updated from 4.5.3 to 4.6.2",
-      "date" : "2022-08-14T13:36:00Z",
-      "identifier" : "release-altair-graphql-client-4.6.2",
-      "title" : "New Release: Altair GraphQL Client 4.6.2"
-    },
-    {
-      "appID" : "nota",
-      "caption" : "Nota updated from 0.38.0 to 0.38.1",
-      "date" : "2022-08-14T13:36:00Z",
-      "identifier" : "release-nota-0.38.1",
-      "title" : "New Release: Nota 0.38.1"
-    },
-    {
-      "appID" : "maccleaner-pro",
-      "caption" : "Nektony MacCleaner Pro updated from 2.9,342 to 2.9.1,346",
-      "date" : "2022-08-14T13:36:00Z",
-      "identifier" : "release-maccleaner-pro-2.9.1,346",
-      "title" : "New Release: Nektony MacCleaner Pro 2.9.1,346"
-    },
-    {
-      "appID" : "mcreator",
-      "caption" : "MCreator updated from 2022.1.20510 to 2022.2.33511",
-      "date" : "2022-08-14T13:36:00Z",
-      "identifier" : "release-mcreator-2022.2.33511",
-      "title" : "New Release: MCreator 2022.2.33511"
-    },
-    {
       "appID" : "mathcha-notebook",
       "caption" : "Mathcha Notebook updated from 1.0.438 to 1.0.439",
       "date" : "2022-08-14T13:36:00Z",
@@ -74371,6 +73963,433 @@
       "date" : "2022-08-15T01:13:48Z",
       "identifier" : "release-soundtoys-5.3.7.16421",
       "title" : "New Release: Soundtoys 5.3.7.16421"
+    },
+    {
+      "appID" : "stats",
+      "caption" : "Stats updated from 2.7.29 to 2.7.30",
+      "date" : "2022-08-15T02:06:30Z",
+      "identifier" : "release-stats-2.7.30",
+      "title" : "New Release: Stats 2.7.30"
+    },
+    {
+      "appID" : "coteditor",
+      "caption" : "CotEditor updated from 4.3.2 to 4.3.3",
+      "date" : "2022-08-15T02:06:31Z",
+      "identifier" : "release-coteditor-4.3.3",
+      "title" : "New Release: CotEditor 4.3.3"
+    },
+    {
+      "appID" : "moneydance",
+      "caption" : "Moneydance updated from 2022.4,4087 to 2022.5,4091",
+      "date" : "2022-08-15T02:06:31Z",
+      "identifier" : "release-moneydance-2022.5,4091",
+      "title" : "New Release: Moneydance 2022.5,4091"
+    },
+    {
+      "appID" : "kap",
+      "caption" : "Kap updated from 3.5.4 to 3.5.5",
+      "date" : "2022-08-15T02:06:31Z",
+      "identifier" : "release-kap-3.5.5",
+      "title" : "New Release: Kap 3.5.5"
+    },
+    {
+      "appID" : "swiftformat-for-xcode",
+      "caption" : "SwiftFormat for Xcode updated from 0.49.14 to 0.49.15",
+      "date" : "2022-08-15T02:06:31Z",
+      "identifier" : "release-swiftformat-for-xcode-0.49.15",
+      "title" : "New Release: SwiftFormat for Xcode 0.49.15"
+    },
+    {
+      "appID" : "leapp",
+      "caption" : "Leapp updated from 0.13.2 to 0.13.4",
+      "date" : "2022-08-15T02:06:31Z",
+      "identifier" : "release-leapp-0.13.4",
+      "title" : "New Release: Leapp 0.13.4"
+    },
+    {
+      "appID" : "jellyfin",
+      "caption" : "Jellyfin updated from 10.8.3 to 10.8.4",
+      "date" : "2022-08-15T02:06:31Z",
+      "identifier" : "release-jellyfin-10.8.4",
+      "title" : "New Release: Jellyfin 10.8.4"
+    },
+    {
+      "appID" : "valentina-studio",
+      "caption" : "Valentina Studio updated from 12.5.1 to 12.5.2",
+      "date" : "2022-08-15T02:06:31Z",
+      "identifier" : "release-valentina-studio-12.5.2",
+      "title" : "New Release: Valentina Studio 12.5.2"
+    },
+    {
+      "appID" : "sidequest",
+      "caption" : "SideQuest updated from 0.10.30 to 0.10.31",
+      "date" : "2022-08-15T02:06:32Z",
+      "identifier" : "release-sidequest-0.10.31",
+      "title" : "New Release: SideQuest 0.10.31"
+    },
+    {
+      "appID" : "kubernetic",
+      "caption" : "Kubernetic updated from 4.3.0 to 4.4.0",
+      "date" : "2022-08-15T02:06:32Z",
+      "identifier" : "release-kubernetic-4.4.0",
+      "title" : "New Release: Kubernetic 4.4.0"
+    },
+    {
+      "appID" : "session",
+      "caption" : "Session updated from 1.9.0 to 1.9.1",
+      "date" : "2022-08-15T02:06:32Z",
+      "identifier" : "release-session-1.9.1",
+      "title" : "New Release: Session 1.9.1"
+    },
+    {
+      "appID" : "calendar-366",
+      "caption" : "Calendar 366 II updated from 2.12.3,3427 to 2.12.4,3431",
+      "date" : "2022-08-15T02:06:32Z",
+      "identifier" : "release-calendar-366-2.12.4,3431",
+      "title" : "New Release: Calendar 366 II 2.12.4,3431"
+    },
+    {
+      "appID" : "remnote",
+      "caption" : "RemNote updated from 1.8.14 to 1.8.16",
+      "date" : "2022-08-15T02:06:32Z",
+      "identifier" : "release-remnote-1.8.16",
+      "title" : "New Release: RemNote 1.8.16"
+    },
+    {
+      "appID" : "siyuan",
+      "caption" : "SiYuan updated from 2.1.5 to 2.1.6",
+      "date" : "2022-08-15T02:06:32Z",
+      "identifier" : "release-siyuan-2.1.6",
+      "title" : "New Release: SiYuan 2.1.6"
+    },
+    {
+      "appID" : "workplace-chat",
+      "caption" : "Facebook Workplace Chat updated from 155.0.0.27.218 to 155.0.0.38.218",
+      "date" : "2022-08-15T02:06:33Z",
+      "identifier" : "release-workplace-chat-155.0.0.38.218",
+      "title" : "New Release: Facebook Workplace Chat 155.0.0.38.218"
+    },
+    {
+      "appID" : "popsql",
+      "caption" : "PopSQL updated from 1.0.76 to 1.0.77",
+      "date" : "2022-08-15T02:06:33Z",
+      "identifier" : "release-popsql-1.0.77",
+      "title" : "New Release: PopSQL 1.0.77"
+    },
+    {
+      "appID" : "qobuz",
+      "caption" : "Qobuz updated from 6.1.1,039 to 6.1.1,040",
+      "date" : "2022-08-15T02:06:33Z",
+      "identifier" : "release-qobuz-6.1.1,040",
+      "title" : "New Release: Qobuz 6.1.1,040"
+    },
+    {
+      "appID" : "duplicate-file-finder",
+      "caption" : "Duplicate File Finder updated from 6.17,581 to 6.17.2,586",
+      "date" : "2022-08-15T02:06:33Z",
+      "identifier" : "release-duplicate-file-finder-6.17.2,586",
+      "title" : "New Release: Duplicate File Finder 6.17.2,586"
+    },
+    {
+      "appID" : "electron-fiddle",
+      "caption" : "Electron Fiddle updated from 0.29.1 to 0.29.2",
+      "date" : "2022-08-15T02:06:33Z",
+      "identifier" : "release-electron-fiddle-0.29.2",
+      "title" : "New Release: Electron Fiddle 0.29.2"
+    },
+    {
+      "appID" : "houdahspot",
+      "caption" : "HoudahSpot updated from 6.2,734 to 6.2.1,747",
+      "date" : "2022-08-15T02:06:33Z",
+      "identifier" : "release-houdahspot-6.2.1,747",
+      "title" : "New Release: HoudahSpot 6.2.1,747"
+    },
+    {
+      "appID" : "vrew",
+      "caption" : "vrew updated from 0.11.26 to 0.11.28",
+      "date" : "2022-08-15T02:06:33Z",
+      "identifier" : "release-vrew-0.11.28",
+      "title" : "New Release: vrew 0.11.28"
+    },
+    {
+      "appID" : "wasabi-wallet",
+      "caption" : "Wasabi Wallet updated from 2.0.1.3 to 2.0.1.4",
+      "date" : "2022-08-15T02:06:34Z",
+      "identifier" : "release-wasabi-wallet-2.0.1.4",
+      "title" : "New Release: Wasabi Wallet 2.0.1.4"
+    },
+    {
+      "appID" : "monal",
+      "caption" : "Monal updated from 5.3.0,799 to 5.3.0,802",
+      "date" : "2022-08-15T02:06:34Z",
+      "identifier" : "release-monal-5.3.0,802",
+      "title" : "New Release: Monal 5.3.0,802"
+    },
+    {
+      "appID" : "stork",
+      "caption" : "Stork updated from 1.0.14,1734 to 1.0.15,1745",
+      "date" : "2022-08-15T02:06:34Z",
+      "identifier" : "release-stork-1.0.15,1745",
+      "title" : "New Release: Stork 1.0.15,1745"
+    },
+    {
+      "appID" : "desktoputility",
+      "caption" : "DesktopUtility updated from 5.0.1 to 5.0.2",
+      "date" : "2022-08-15T02:06:34Z",
+      "identifier" : "release-desktoputility-5.0.2",
+      "title" : "New Release: DesktopUtility 5.0.2"
+    },
+    {
+      "appID" : "veepn",
+      "caption" : "VeePN updated from 2.1.0,911009 to 2.2.0,918493",
+      "date" : "2022-08-15T02:06:34Z",
+      "identifier" : "release-veepn-2.2.0,918493",
+      "title" : "New Release: VeePN 2.2.0,918493"
+    },
+    {
+      "appID" : "almighty",
+      "caption" : "almighty updated from 2.3.5,46 to 2.3.7,48",
+      "date" : "2022-08-15T02:06:34Z",
+      "identifier" : "release-almighty-2.3.7,48",
+      "title" : "New Release: almighty 2.3.7,48"
+    },
+    {
+      "appID" : "pluginval",
+      "caption" : "pluginval updated from 1.0.0 to 1.0.1",
+      "date" : "2022-08-15T02:06:35Z",
+      "identifier" : "release-pluginval-1.0.1",
+      "title" : "New Release: pluginval 1.0.1"
+    },
+    {
+      "appID" : "coin-wallet",
+      "caption" : "Coin Wallet updated from 5.7.0 to 5.8.0",
+      "date" : "2022-08-15T02:06:35Z",
+      "identifier" : "release-coin-wallet-5.8.0",
+      "title" : "New Release: Coin Wallet 5.8.0"
+    },
+    {
+      "appID" : "media-center",
+      "caption" : "JRiver Media Center updated from 29.00.58 to 29.00.86",
+      "date" : "2022-08-15T02:06:35Z",
+      "identifier" : "release-media-center-29.00.86",
+      "title" : "New Release: JRiver Media Center 29.00.86"
+    },
+    {
+      "appID" : "webex",
+      "caption" : "Webex Teams updated from 42.7.0.22904 to 42.8.0.23214",
+      "date" : "2022-08-15T02:06:35Z",
+      "identifier" : "release-webex-42.8.0.23214",
+      "title" : "New Release: Webex Teams 42.8.0.23214"
+    },
+    {
+      "appID" : "springtoolsuite",
+      "caption" : "Spring Tool Suite updated from 4.15.2,4.24.0 to 4.15.3,4.24.0",
+      "date" : "2022-08-15T02:06:35Z",
+      "identifier" : "release-springtoolsuite-4.15.3,4.24.0",
+      "title" : "New Release: Spring Tool Suite 4.15.3,4.24.0"
+    },
+    {
+      "appID" : "dcv-viewer",
+      "caption" : "NICE DCV Viewer updated from 2022.1.4251 to 2022.1.4279",
+      "date" : "2022-08-15T02:06:35Z",
+      "identifier" : "release-dcv-viewer-2022.1.4279",
+      "title" : "New Release: NICE DCV Viewer 2022.1.4279"
+    },
+    {
+      "appID" : "qownnotes",
+      "caption" : "QOwnNotes updated from 22.8.0 to 22.8.1",
+      "date" : "2022-08-15T02:06:35Z",
+      "identifier" : "release-qownnotes-22.8.1",
+      "title" : "New Release: QOwnNotes 22.8.1"
+    },
+    {
+      "appID" : "superslicer",
+      "caption" : "SuperSlicer updated from 2.4.58.3,220714 to 2.4.58.4,220811",
+      "date" : "2022-08-15T02:06:36Z",
+      "identifier" : "release-superslicer-2.4.58.4,220811",
+      "title" : "New Release: SuperSlicer 2.4.58.4,220811"
+    },
+    {
+      "appID" : "openaudible",
+      "caption" : "OpenAudible updated from 3.5.8 to 3.5.9",
+      "date" : "2022-08-15T02:06:36Z",
+      "identifier" : "release-openaudible-3.5.9",
+      "title" : "New Release: OpenAudible 3.5.9"
+    },
+    {
+      "appID" : "tresorit",
+      "caption" : "Tresorit updated from 3.5.2336.3090 to 3.5.2382.3220",
+      "date" : "2022-08-15T02:06:36Z",
+      "identifier" : "release-tresorit-3.5.2382.3220",
+      "title" : "New Release: Tresorit 3.5.2382.3220"
+    },
+    {
+      "appID" : "visual-paradigm",
+      "caption" : "Visual Paradigm updated from 17.0,20220801 to 17.0,20220816",
+      "date" : "2022-08-15T02:06:36Z",
+      "identifier" : "release-visual-paradigm-17.0,20220816",
+      "title" : "New Release: Visual Paradigm 17.0,20220816"
+    },
+    {
+      "appID" : "minecraftpe",
+      "caption" : "Minecraft Education Edition updated from 1.17.32.00 to 1.18.32.0",
+      "date" : "2022-08-15T02:06:36Z",
+      "identifier" : "release-minecraftpe-1.18.32.0",
+      "title" : "New Release: Minecraft Education Edition 1.18.32.0"
+    },
+    {
+      "appID" : "boom",
+      "caption" : "Boom updated from 1.7.4,101.7.4007 to 1.7.5,101.7.5041",
+      "date" : "2022-08-15T02:06:36Z",
+      "identifier" : "release-boom-1.7.5,101.7.5041",
+      "title" : "New Release: Boom 1.7.5,101.7.5041"
+    },
+    {
+      "appID" : "rapidminer-studio",
+      "caption" : "RapidMiner Studio updated from 9.10.10 to 9.10.11",
+      "date" : "2022-08-15T02:06:37Z",
+      "identifier" : "release-rapidminer-studio-9.10.11",
+      "title" : "New Release: RapidMiner Studio 9.10.11"
+    },
+    {
+      "appID" : "visual-paradigm-ce",
+      "caption" : "Visual Paradigm Community Edition updated from 17.0,20220801 to 17.0,20220816",
+      "date" : "2022-08-15T02:06:37Z",
+      "identifier" : "release-visual-paradigm-ce-17.0,20220816",
+      "title" : "New Release: Visual Paradigm Community Edition 17.0,20220816"
+    },
+    {
+      "appID" : "preform",
+      "caption" : "PreForm updated from 3.26.1,154_21934 to 3.26.2,155_22353",
+      "date" : "2022-08-15T02:06:37Z",
+      "identifier" : "release-preform-3.26.2,155_22353",
+      "title" : "New Release: PreForm 3.26.2,155_22353"
+    },
+    {
+      "appID" : "steam-plus-plus",
+      "caption" : "Steam++ updated from 2.8.2 to 2.8.3",
+      "date" : "2022-08-15T02:06:37Z",
+      "identifier" : "release-steam-plus-plus-2.8.3",
+      "title" : "New Release: Steam++ 2.8.3"
+    },
+    {
+      "appID" : "free42-decimal",
+      "caption" : "Free42 Decimal updated from 3.0.13a to 3.0.14",
+      "date" : "2022-08-15T02:06:37Z",
+      "identifier" : "release-free42-decimal-3.0.14",
+      "title" : "New Release: Free42 Decimal 3.0.14"
+    },
+    {
+      "appID" : "openlp",
+      "caption" : "OpenLP updated from 2.9.4 to 2.9.5",
+      "date" : "2022-08-15T02:06:37Z",
+      "identifier" : "release-openlp-2.9.5",
+      "title" : "New Release: OpenLP 2.9.5"
+    },
+    {
+      "appID" : "asciidocfx",
+      "caption" : "AsciidocFX updated from 1.7.5 to 1.7.6",
+      "date" : "2022-08-15T02:06:38Z",
+      "identifier" : "release-asciidocfx-1.7.6",
+      "title" : "New Release: AsciidocFX 1.7.6"
+    },
+    {
+      "appID" : "comictagger",
+      "caption" : "ComicTagger updated from 1.4.5 to 1.4.6",
+      "date" : "2022-08-15T02:06:38Z",
+      "identifier" : "release-comictagger-1.4.6",
+      "title" : "New Release: ComicTagger 1.4.6"
+    },
+    {
+      "appID" : "free42-binary",
+      "caption" : "Free42 Binary updated from 3.0.13a to 3.0.14",
+      "date" : "2022-08-15T02:06:38Z",
+      "identifier" : "release-free42-binary-3.0.14",
+      "title" : "New Release: Free42 Binary 3.0.14"
+    },
+    {
+      "appID" : "powershell",
+      "caption" : "PowerShell updated from 7.2.5 to 7.2.6",
+      "date" : "2022-08-15T02:06:38Z",
+      "identifier" : "release-powershell-7.2.6",
+      "title" : "New Release: PowerShell 7.2.6"
+    },
+    {
+      "appID" : "temurin",
+      "caption" : "Eclipse Temurin Java Development Kit updated from 18.0.1,10 to 18.0.2,9",
+      "date" : "2022-08-15T02:06:38Z",
+      "identifier" : "release-temurin-18.0.2,9",
+      "title" : "New Release: Eclipse Temurin Java Development Kit 18.0.2,9"
+    },
+    {
+      "appID" : "dotnet",
+      "caption" : ".Net Runtime updated from 6.0.7,3da50ef8-7b22-4f08-95e9-3641416fdc08,ee91bcdbbbb117803e315f673c9d19f1 to 6.0.8,5cda9364-6621-40a0-9519-c460a37571c6,a73481f3abf7bd0325420d2ce740bfed",
+      "date" : "2022-08-15T02:06:38Z",
+      "identifier" : "release-dotnet-6.0.8,5cda9364-6621-40a0-9519-c460a37571c6,a73481f3abf7bd0325420d2ce740bfed",
+      "title" : "New Release: .Net Runtime 6.0.8,5cda9364-6621-40a0-9519-c460a37571c6,a73481f3abf7bd0325420d2ce740bfed"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.13,20220812102905 to 6.2.13,20220814103055",
+      "date" : "2022-08-15T02:06:38Z",
+      "identifier" : "release-metasploit-6.2.13,20220814103055",
+      "title" : "New Release: Metasploit Framework 6.2.13,20220814103055"
+    },
+    {
+      "appID" : "webex-meetings",
+      "caption" : "Webex Meetings updated from 42.7.0.22904 to 42.8.0.23214",
+      "date" : "2022-08-15T02:06:39Z",
+      "identifier" : "release-webex-meetings-42.8.0.23214",
+      "title" : "New Release: Webex Meetings 42.8.0.23214"
+    },
+    {
+      "appID" : "sfdx",
+      "caption" : "Salesforce DX CLI updated from 7.162.0 to 7.163.0",
+      "date" : "2022-08-15T02:06:39Z",
+      "identifier" : "release-sfdx-7.163.0",
+      "title" : "New Release: Salesforce DX CLI 7.163.0"
+    },
+    {
+      "appID" : "rescuetime",
+      "caption" : "RescueTime updated from 3.1.0.17 to 3.1.1.1",
+      "date" : "2022-08-15T02:06:39Z",
+      "identifier" : "release-rescuetime-3.1.1.1",
+      "title" : "New Release: RescueTime 3.1.1.1"
+    },
+    {
+      "appID" : "spark-ar-studio",
+      "caption" : "Spark AR Studio updated from 143 to 144",
+      "date" : "2022-08-15T02:06:39Z",
+      "identifier" : "release-spark-ar-studio-144",
+      "title" : "New Release: Spark AR Studio 144"
+    },
+    {
+      "appID" : "softmaker-freeoffice",
+      "caption" : "SoftMaker FreeOffice updated from 2021,1046 to 2021,1050",
+      "date" : "2022-08-15T02:06:39Z",
+      "identifier" : "release-softmaker-freeoffice-2021,1050",
+      "title" : "New Release: SoftMaker FreeOffice 2021,1050"
+    },
+    {
+      "appID" : "remotion",
+      "caption" : "remotion updated from 1.89.1 to 1.90.1",
+      "date" : "2022-08-15T02:06:39Z",
+      "identifier" : "release-remotion-1.90.1",
+      "title" : "New Release: remotion 1.90.1"
+    },
+    {
+      "appID" : "universal-gcode-platform",
+      "caption" : "Universal G-code Sender (Platform version) updated from 2.0.11 to 2.0.12",
+      "date" : "2022-08-15T02:06:39Z",
+      "identifier" : "release-universal-gcode-platform-2.0.12",
+      "title" : "New Release: Universal G-code Sender (Platform version) 2.0.12"
+    },
+    {
+      "appID" : "plasticscm-cloud-edition",
+      "caption" : "PlasicSCM - a Cloud Edition updated from 11.0.16.7274 to 11.0.16.7303",
+      "date" : "2022-08-15T02:06:40Z",
+      "identifier" : "release-plasticscm-cloud-edition-11.0.16.7303",
+      "title" : "New Release: PlasicSCM - a Cloud Edition 11.0.16.7303"
     }
   ],
   "platform" : "macos",

@@ -62,10 +62,10 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 354,
-        "impressionCount" : 118,
+        "downloadCount" : 355,
+        "impressionCount" : 120,
         "issueCount" : 6,
-        "starCount" : 26,
+        "starCount" : 27,
         "viewCount" : 24,
         "watcherCount" : 3
       },
@@ -110,7 +110,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 64,
-        "impressionCount" : 2024,
+        "impressionCount" : 2026,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 150,
@@ -162,7 +162,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4128,
+        "impressionCount" : 4130,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 667,
@@ -211,7 +211,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1321,
+        "impressionCount" : 1323,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 86,
@@ -256,7 +256,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2682,
+        "impressionCount" : 2684,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 192,
@@ -298,7 +298,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3071,
+        "impressionCount" : 3073,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 529,
@@ -420,7 +420,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4190,
+        "impressionCount" : 4192,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 549,
@@ -930,7 +930,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2532,
+        "impressionCount" : 2534,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 157,
@@ -1341,7 +1341,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 3,
-        "impressionCount" : 16,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -1416,7 +1416,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2482,
+        "impressionCount" : 2484,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 129,
@@ -1464,7 +1464,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 15,
+        "impressionCount" : 17,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -1510,6 +1510,55 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Stanza-Redux",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.46/Stanza-Redux-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.46/Stanza-Redux.png",
+      "localizedDescription" : "An electronic book reader",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.46/Info.plist#ea22e6b58baad6eac94348431f43253ec008b0c7a75eba2e334f4d850c30c57c",
+      "name" : "Stanza Redux",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to access books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read ebook files"
+        }
+      ],
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.46/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "screenshotURLs" : [
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.46/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.46/screenshot_01-mac-light-2436x2012.png"
+      ],
+      "sha256" : "0e9e002cb1573580684ff9df69730f6cf41b14f38477d1b6595ca9ca729ed40a",
+      "size" : 3916039,
+      "stats" : {
+        "coreSize" : 102480,
+        "downloadCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An electronic book reader",
+      "tintColor" : "00375C",
+      "version" : "0.3.46",
+      "versionDate" : "2022-08-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.45...0.3.46"
     },
     {
       "beta" : true,

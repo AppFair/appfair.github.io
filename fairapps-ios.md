@@ -44,7 +44,7 @@ tr:nth-child(even) {
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.3β`` | `5` | `2022-01-24T00:00:00Z` | `6.1 MB` | `186` | `14` | `0` | `0` |  |
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `5` | `2022-01-24T00:00:00Z` | `6.5 MB` | `616` | `54` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `5` | `2022-01-24T00:00:00Z` | `6.1 MB` | `1682` | `100` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `4` | `2022-08-15T00:00:00Z` | `17.7 MB` | `5` | `3` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `4` | `2022-08-15T00:00:00Z` | `17.7 MB` | `6` | `3` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.220`` | `4` | `2022-08-15T00:00:00Z` | `5.6 MB` | `8` | `3` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.48`` | `4` | `2022-08-15T00:00:00Z` | `8.6 MB` | `12` | `5` | `1` | `0` |  |
 | [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `6 MB` | `1894` | `43` | `0` | `0` |  |

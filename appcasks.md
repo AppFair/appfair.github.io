@@ -2944,7 +2944,7 @@ tr:nth-child(even) {
 | [``miniforge``](https://github.com/conda-forge/miniforge) | ``4.13.0-1`` | `4126` | `2022-07-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Continuum Analytics Mini…``](https://conda.io/miniconda.html) | ``py39_4.12.0`` | `4048` |  |  |  |  |  | `0` |  |
 | [``Microsoft Auto Update``](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate) | ``4.49.22070801`` | `3569` | `2022-07-12T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Microsoft Teams``](https://teams.microsoft.com/downloads) | ``1.5.00.21551`` | `3564` | `2022-08-16T03:50:03Z` |  |  |  |  | `0` |  |
+| [``Microsoft Teams``](https://teams.microsoft.com/downloads) | ``1.5.00.21551`` | `3564` | `2022-08-16T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Karabiner Elements``](https://pqrs.org/osx/karabiner/) | ``14.8.0`` | `3483` | `2022-08-11T00:00:00Z` |  |  |  |  | `0` |  |
 | [``android-sdk``](https://developer.android.com/studio/releases/sdk-tools) | ``4333796`` | `3476` |  |  |  |  |  | `0` |  |
 | [``Raycast``](https://raycast.app/) | ``1.38.3`` | `3292` | `2022-08-04T00:00:00Z` |  |  |  |  | `0` |  |

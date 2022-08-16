@@ -25,8 +25,8 @@
       "sha256" : "af1f384ba44767f6416fa23b9149329e491f9c151ca3c8bc75e7c61a8faf1306",
       "stats" : {
         "downloadCount" : 2757,
-        "impressionCount" : 9514,
-        "viewCount" : 996
+        "impressionCount" : 9515,
+        "viewCount" : 997
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -57,7 +57,7 @@
       "sha256" : "c3e9e2ec300d231ee6e9cdfe1dd8fc03d62ac6c23d8ddfcc9358e430dca73ea4",
       "stats" : {
         "downloadCount" : 15754,
-        "impressionCount" : 8346,
+        "impressionCount" : 8347,
         "viewCount" : 919
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8716,
-        "impressionCount" : 7349,
+        "impressionCount" : 7350,
         "viewCount" : 649
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29078,
-        "impressionCount" : 7613,
+        "impressionCount" : 7614,
         "viewCount" : 639
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8568,
-        "impressionCount" : 7655,
+        "impressionCount" : 7656,
         "viewCount" : 634
       },
       "subtitle" : "Music streaming service",
@@ -179,8 +179,8 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6358,
-        "impressionCount" : 7664,
-        "viewCount" : 503
+        "impressionCount" : 7665,
+        "viewCount" : 504
       },
       "subtitle" : "Voice and text chat software",
       "tintColor" : "8E95EF",
@@ -209,7 +209,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3262,
-        "impressionCount" : 6922,
+        "impressionCount" : 6923,
         "viewCount" : 527
       },
       "subtitle" : "Text editor",
@@ -237,7 +237,7 @@
       "sha256" : "091fa3a5106451f868eb217ac369629da82355b1cc5a5d3dfdd1553bdd1f92c5",
       "stats" : {
         "downloadCount" : 3202,
-        "impressionCount" : 8108,
+        "impressionCount" : 8109,
         "viewCount" : 560
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2677,
-        "impressionCount" : 5930,
+        "impressionCount" : 5931,
         "viewCount" : 374
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2083,
-        "impressionCount" : 7664,
+        "impressionCount" : 7665,
         "viewCount" : 810
       },
       "subtitle" : "File archiver",
@@ -324,8 +324,8 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1888,
-        "impressionCount" : 6567,
-        "viewCount" : 419
+        "impressionCount" : 6568,
+        "viewCount" : 420
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
       "tintColor" : "369C3B",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1291,
-        "impressionCount" : 6027,
+        "impressionCount" : 6028,
         "viewCount" : 469
       },
       "subtitle" : "Open-source Markdown editor",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1194,
-        "impressionCount" : 7991,
+        "impressionCount" : 7992,
         "viewCount" : 466
       },
       "subtitle" : "3D creation suite",
@@ -444,7 +444,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 631,
-        "impressionCount" : 6145,
+        "impressionCount" : 6146,
         "viewCount" : 327
       },
       "subtitle" : "Text editor",
@@ -473,7 +473,7 @@
       ],
       "stats" : {
         "downloadCount" : 543,
-        "impressionCount" : 5732,
+        "impressionCount" : 5733,
         "viewCount" : 456
       },
       "subtitle" : "Sandbox construction video game",
@@ -505,7 +505,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 396,
-        "impressionCount" : 6320,
+        "impressionCount" : 6321,
         "viewCount" : 469
       },
       "subtitle" : "Text, code, and markup editor",
@@ -536,7 +536,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 290,
-        "impressionCount" : 4831,
+        "impressionCount" : 4832,
         "viewCount" : 415
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -914,7 +914,7 @@
       "sha256" : "ea66fe55fe65ffb181c1524442c82d7572d06614096224262e77c4d1f3c910c8",
       "stats" : {
         "downloadCount" : 6224,
-        "impressionCount" : 4439,
+        "impressionCount" : 4440,
         "viewCount" : 433
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1247,13 +1247,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://osx.telegram.org/updates/Telegram-8.9.234913.app.zip",
+      "downloadURL" : "https://osx.telegram.org/updates/Telegram-8.9.234937.app.zip",
       "homepage" : "https://macos.telegram.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/AppIcon.png",
       "localizedDescription" : "Messaging app with a focus on speed and security",
       "name" : "Telegram for macOS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/README.md",
-      "sha256" : "0d906124f9e26eab6766bab01b352dba7e7eb84d5ae8cfebd32bb56e3977ac98",
+      "sha256" : "2fb2972ca8d61285e7a89c651d078d7ed636ec64dd1713cb9a47831de1efb703",
       "stats" : {
         "downloadCount" : 2556,
         "impressionCount" : 1871,
@@ -1261,8 +1261,8 @@
       },
       "subtitle" : "Messaging app with a focus on speed and security",
       "tintColor" : "87CAEB",
-      "version" : "8.9,234913",
-      "versionDate" : "2022-08-15T00:00:00Z"
+      "version" : "8.9,234937",
+      "versionDate" : "2022-08-16T12:32:02Z"
     },
     {
       "beta" : false,
@@ -1320,7 +1320,7 @@
       "sha256" : "a1a964ab100ff92cbc5ce50c63699199050572474c2b1f34bec84de673d31a7f",
       "stats" : {
         "downloadCount" : 2472,
-        "impressionCount" : 2892,
+        "impressionCount" : 2893,
         "viewCount" : 198
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1356,7 +1356,7 @@
       "sha256" : "27b4683c9343333466fb78d0d9d53559179aabc1cc87470aeef20d5ef3efc321",
       "stats" : {
         "downloadCount" : 2453,
-        "impressionCount" : 2632,
+        "impressionCount" : 2633,
         "viewCount" : 131
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1854,7 +1854,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 909,
-        "impressionCount" : 3171,
+        "impressionCount" : 3172,
         "viewCount" : 280
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -2594,7 +2594,7 @@
       "sha256" : "e6d56b907cd59c8a946189d1dd35281ba0074ee3a928a311c54a0a155971c4bd",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 1699,
+        "impressionCount" : 1700,
         "viewCount" : 88
       },
       "subtitle" : "Bitcoin thin client",
@@ -2849,8 +2849,8 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-moneydance/README.md",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 1523,
-        "viewCount" : 76
+        "impressionCount" : 1524,
+        "viewCount" : 77
       },
       "subtitle" : "Personal financial management application focused on privacy",
       "tintColor" : "FE9A6A",
@@ -2896,7 +2896,7 @@
       "sha256" : "1894a3e36367f3a35ddf7333d9dee39944f9016e6b6abf6c76e7dfc901d550ee",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 1607,
+        "impressionCount" : 1608,
         "viewCount" : 102
       },
       "subtitle" : "Money management application",
@@ -2918,7 +2918,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-moneywiz/README.md",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 1497,
+        "impressionCount" : 1498,
         "viewCount" : 63
       },
       "subtitle" : "Finance management application",
@@ -2962,7 +2962,7 @@
       "sha256" : "95159e54c011aba02f64b0d126a497b99544e1086429a11e67587e3ffc0533d4",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 1734,
+        "impressionCount" : 1735,
         "viewCount" : 136
       },
       "subtitle" : "Privacy-focused app for managing your finances",
@@ -2983,7 +2983,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chronicle/README.md",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 1633,
+        "impressionCount" : 1634,
         "viewCount" : 95
       },
       "subtitle" : "Personal finance manager",
@@ -3129,7 +3129,7 @@
       "sha256" : "db347d5a57d32d8556e82386eea9ef155fd877890eb3db547e49bb137d976a43",
       "stats" : {
         "downloadCount" : 6054,
-        "impressionCount" : 958
+        "impressionCount" : 959
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3237,7 +3237,7 @@
       "sha256" : "81d13ce362bf34ab2320fdeef22a4b97176f726cfb7ed00e5999b9ed289c11b4",
       "stats" : {
         "downloadCount" : 3207,
-        "impressionCount" : 1470
+        "impressionCount" : 1471
       },
       "subtitle" : "Standalone app for debugging React Native apps",
       "tintColor" : "8F8F8F",
@@ -4103,7 +4103,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 943,
-        "impressionCount" : 1373
+        "impressionCount" : 1374
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -4547,7 +4547,7 @@
       "sha256" : "bc1a73b9cb4b4d316fa11572f43383f0f02fc7e6ba88bbed046cc1b074336862",
       "stats" : {
         "downloadCount" : 692,
-        "impressionCount" : 1420
+        "impressionCount" : 1421
       },
       "subtitle" : "Clipboard manager for developers",
       "tintColor" : "B72B32",
@@ -4654,7 +4654,7 @@
       "sha256" : "f5268e716636e981ea5d6d88bf638c9179261a158b793b8394ec74e5e3cd2a75",
       "stats" : {
         "downloadCount" : 643,
-        "impressionCount" : 1546
+        "impressionCount" : 1547
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -5220,7 +5220,7 @@
       "sha256" : "50bb016602e8e792a8a6b53053a4ec4129ca89926a44fc1ac898f3d11102aada",
       "stats" : {
         "downloadCount" : 462,
-        "impressionCount" : 1342
+        "impressionCount" : 1343
       },
       "subtitle" : "Utility to extend trackpad functionality",
       "tintColor" : "000000",
@@ -5287,7 +5287,7 @@
       "sha256" : "f55fbec0b5479bd2dffdcce047410ea4c29577795ad638937e1e24332309bce7",
       "stats" : {
         "downloadCount" : 451,
-        "impressionCount" : 1395
+        "impressionCount" : 1396
       },
       "subtitle" : "Shows the next meeting in the menu bar",
       "tintColor" : "47484B",
@@ -5397,7 +5397,7 @@
       "sha256" : "3eae0f62c55fe22b4bb5b06e1cfe39e557fda2ba9a11e8e65dcabeafbdd31884",
       "stats" : {
         "downloadCount" : 414,
-        "impressionCount" : 1200
+        "impressionCount" : 1201
       },
       "subtitle" : "Menu bar application that displays the CPU speed limit due to thermal issues",
       "tintColor" : "F6DEC1",
@@ -5427,7 +5427,7 @@
       "sha256" : "09b036f1e934472d55a0417e2a3ce736559caf81a38537c94ab2c6331f258851",
       "stats" : {
         "downloadCount" : 412,
-        "impressionCount" : 1353
+        "impressionCount" : 1354
       },
       "subtitle" : "Status monitoring",
       "tintColor" : "454545",
@@ -5453,7 +5453,7 @@
       "sha256" : "11af1d2367e966dc4ea829cbf39cc7c869af50d687708600b188024539180ec8",
       "stats" : {
         "downloadCount" : 412,
-        "impressionCount" : 1268
+        "impressionCount" : 1269
       },
       "subtitle" : "Finder Toolbar app to open the current directory in Terminal or Editor",
       "tintColor" : "42A5F1",
@@ -5545,7 +5545,7 @@
       "sha256" : "1d940ebd00e52e21435fcbe3b03829d21674bb9d956e6dc9e93f7a9be799f54f",
       "stats" : {
         "downloadCount" : 398,
-        "impressionCount" : 1658
+        "impressionCount" : 1659
       },
       "subtitle" : "Open-source browser prompter",
       "tintColor" : "364A62",
@@ -6614,7 +6614,7 @@
       "sha256" : "2d2f7ab19bcd443fa533a294875a0e95333cca0a60707ac7226bcafaaae2972b",
       "stats" : {
         "downloadCount" : 213,
-        "impressionCount" : 953
+        "impressionCount" : 954
       },
       "subtitle" : "Finder Toolbar app to open the current directory in Terminal",
       "tintColor" : "676868",
@@ -7177,7 +7177,7 @@
       "sha256" : "a1a9fb32717608072fac57ed616ebce3ef26cafb04ecf3b474a7a53242f280e8",
       "stats" : {
         "downloadCount" : 172,
-        "impressionCount" : 703
+        "impressionCount" : 704
       },
       "subtitle" : "Charting and social-networking for investment traders",
       "tintColor" : "3E414A",
@@ -7522,7 +7522,7 @@
       "sha256" : "cd51a9c0cf1edb378c6252853969ea4f9ecc95c5d8547fd7f76b322407b0ca72",
       "stats" : {
         "downloadCount" : 157,
-        "impressionCount" : 729
+        "impressionCount" : 730
       },
       "subtitle" : "Double-entry accounting program",
       "tintColor" : "A8B27E",
@@ -8034,7 +8034,7 @@
       "sha256" : "2a1a48c608b30667671f4111f1d38455a6291210604d81ca70ef4a5f02823f5e",
       "stats" : {
         "downloadCount" : 130,
-        "impressionCount" : 366
+        "impressionCount" : 367
       },
       "subtitle" : "Generate and view a class diagram for Swift code in Xcode",
       "tintColor" : "617FFB",
@@ -8085,7 +8085,7 @@
       "sha256" : "adcf450d98c247fe4c45c68353f19afca3e2039c8431ec080f14000fe9cc36bf",
       "stats" : {
         "downloadCount" : 127,
-        "impressionCount" : 614
+        "impressionCount" : 615
       },
       "subtitle" : "Xcode formatter plug-in for Swift code",
       "tintColor" : "F0553B",
@@ -13033,7 +13033,7 @@
       "name" : "MoneyMoney",
       "stats" : {
         "downloadCount" : 44,
-        "impressionCount" : 663
+        "impressionCount" : 664
       },
       "subtitle" : "German banking and financial management software",
       "tintColor" : "639FD2",
@@ -15130,20 +15130,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://artifact.lx.netease.com/download/ynote-electron/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0-7.1.5.zip",
+      "downloadURL" : "https://artifact.lx.netease.com/download/ynote-electron/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0-7.1.6.zip",
       "homepage" : "https://note.youdao.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-youdaonote/AppIcon.png",
       "localizedDescription" : "Multi-platform note application",
       "name" : "youdaonote",
-      "sha256" : "ee7a11fbe07e3e9bf646c612f8fbc97f1ddbe0836dda633fac888b42bd4b6b49",
+      "sha256" : "a8be531d08bbc4d007046aad843e331fb94e510ba069ae5d18d62e28fce75907",
       "stats" : {
         "downloadCount" : 32,
         "impressionCount" : 301
       },
       "subtitle" : "Multi-platform note application",
       "tintColor" : "66B3FF",
-      "version" : "7.1.5",
-      "versionDate" : "2022-08-05T00:00:00Z"
+      "version" : "7.1.6",
+      "versionDate" : "2022-08-16T12:32:02Z"
     },
     {
       "beta" : false,
@@ -16674,7 +16674,7 @@
       "sha256" : "6ac78f40b9e616f9a08b118b9a0d63089468fc2639979b3d18105a1eb8d33110",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 471
+        "impressionCount" : 472
       },
       "subtitle" : "Personal finance manager",
       "tintColor" : "D5506A",
@@ -17454,7 +17454,7 @@
       "sha256" : "5a3d5ccbe9dfdfb774ba197c8788985d9cf900cfab5aea38daa5e4d20abd9108",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 901
+        "impressionCount" : 902
       },
       "subtitle" : "Decentralized bitcoin exchange network",
       "tintColor" : "B3E5BA",
@@ -19153,7 +19153,7 @@
       "sha256" : "f5248a0a75bd41239e1bd0c73b3cdd9d3cb8de74b2e95272f7e32c62c2beb8b5",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 419
+        "impressionCount" : 420
       },
       "subtitle" : "Portfolio tracking and accounting tool",
       "tintColor" : "845548",
@@ -20927,7 +20927,7 @@
       "sha256" : "22bf6498713de8b0751a33490d6840764ccfaea872fcd8beceaa29bed1b3eeab",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 687
+        "impressionCount" : 688
       },
       "subtitle" : "Trading application",
       "tintColor" : "FFB27D",
@@ -21356,7 +21356,7 @@
       "sha256" : "2f204f322c89859c97a0d45919f55a30f4f6f0d66bf062d8dd1c1ce6be2ff96c",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 848
+        "impressionCount" : 849
       },
       "subtitle" : "App to manage bank accounts in one place",
       "tintColor" : "5CB75C",
@@ -22141,7 +22141,7 @@
       "sha256" : "07be9f0a3c645bd0d9566b7fcc77befd406e727e60aaf2d7f752ab287d3e5ee3",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 608
+        "impressionCount" : 609
       },
       "subtitle" : "Official wallet for IOTA",
       "tintColor" : "DAE7F2",
@@ -22281,7 +22281,7 @@
       "sha256" : "a3213956a46ec49daf9e982ea297b346a552429fb94d2e53cb43aa6acceaa6ca",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 418
+        "impressionCount" : 419
       },
       "subtitle" : "Wallet for the Monero cryptocurrency",
       "tintColor" : "444B4F",
@@ -24423,7 +24423,7 @@
       "sha256" : "d2a7076104d5473479b100f3039944efbf7fa599173af43a7dab3c32e7937fc1",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 747
+        "impressionCount" : 748
       },
       "subtitle" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
       "tintColor" : "A8AD40",
@@ -39255,7 +39255,7 @@
       "sha256" : "375970eadf59bab17e8add0057ea967b0376eb1385889d5b64f84a720e4dd4cb",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 273
+        "impressionCount" : 274
       },
       "subtitle" : "Integrated environment for your personal and family ledger",
       "tintColor" : "A0A0AD",
@@ -59369,7 +59369,7 @@
       },
       "subtitle" : "Client for the Google Drive storage service",
       "version" : "62.0.1",
-      "versionDate" : "2022-08-16T11:20:58Z"
+      "versionDate" : "2022-08-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73738,13 +73738,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "moneydance",
-      "caption" : "Moneydance updated from 2022.4,4087 to 2022.5,4091",
-      "date" : "2022-08-15T02:06:31Z",
-      "identifier" : "release-moneydance-2022.5,4091",
-      "title" : "New Release: Moneydance 2022.5,4091"
-    },
-    {
       "appID" : "kap",
       "caption" : "Kap updated from 3.5.4 to 3.5.5",
       "date" : "2022-08-15T02:06:31Z",
@@ -74172,13 +74165,6 @@
       "title" : "New Release: vAmiga 2.1"
     },
     {
-      "appID" : "telegram",
-      "caption" : "Telegram for macOS updated from 8.9,234894 to 8.9,234913",
-      "date" : "2022-08-15T18:28:11Z",
-      "identifier" : "release-telegram-8.9,234913",
-      "title" : "New Release: Telegram for macOS 8.9,234913"
-    },
-    {
       "appID" : "pretzel",
       "caption" : "Pretzel 2.11.4 released",
       "date" : "2022-08-16T01:19:08Z",
@@ -74436,6 +74422,20 @@
       "date" : "2022-08-16T11:20:59Z",
       "identifier" : "release-google-drive-62.0.1",
       "title" : "New Release: Google Drive 62.0.1"
+    },
+    {
+      "appID" : "telegram",
+      "caption" : "Telegram for macOS updated from 8.9,234913 to 8.9,234937",
+      "date" : "2022-08-16T12:32:03Z",
+      "identifier" : "release-telegram-8.9,234937",
+      "title" : "New Release: Telegram for macOS 8.9,234937"
+    },
+    {
+      "appID" : "youdaonote",
+      "caption" : "youdaonote updated from 7.1.5 to 7.1.6",
+      "date" : "2022-08-16T12:32:03Z",
+      "identifier" : "release-youdaonote-7.1.6",
+      "title" : "New Release: youdaonote 7.1.6"
     }
   ],
   "platform" : "macos",

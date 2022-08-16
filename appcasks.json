@@ -1461,13 +1461,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.87.0.403.dmg",
+      "downloadURL" : "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.87.0.406.dmg",
       "homepage" : "https://www.skype.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/AppIcon.png",
       "localizedDescription" : "Video chat, voice call and instant messaging application",
       "name" : "Skype",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/README.md",
-      "sha256" : "5537bffdb77ac21e23ceaada40252a9b3c2918dde7f31a195cf9901291555902",
+      "sha256" : "61b89d1e54f8e4330da1123400f78bd15b86dde40c47d8a3e54fd2bbff9eeb8e",
       "stats" : {
         "downloadCount" : 2121,
         "impressionCount" : 1544,
@@ -1475,8 +1475,8 @@
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
       "tintColor" : "21A4E3",
-      "version" : "8.87.0.403",
-      "versionDate" : "2022-08-09T00:00:00Z"
+      "version" : "8.87.0.406",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -4767,20 +4767,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/nicklockwood/SwiftFormat/releases/download/0.49.15/SwiftFormat.for.Xcode.app.zip",
+      "downloadURL" : "https://github.com/nicklockwood/SwiftFormat/releases/download/0.49.16/SwiftFormat.for.Xcode.app.zip",
       "homepage" : "https://github.com/nicklockwood/SwiftFormat",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swiftformat-for-xcode/AppIcon.png",
       "localizedDescription" : "Xcode Extension for reformatting Swift code",
       "name" : "SwiftFormat for Xcode",
-      "sha256" : "eac6da6b1dce5e0e7c97f49ceea0ec7b44f1ec79f5c218994de0185888d199f9",
+      "sha256" : "86038303bfc3111287a185eeb27c1b81c5757c08dadd9c7ffb90bb02cdfef28c",
       "stats" : {
         "downloadCount" : 618,
         "impressionCount" : 791
       },
       "subtitle" : "Xcode Extension for reformatting Swift code",
       "tintColor" : "44424D",
-      "version" : "0.49.15",
-      "versionDate" : "2022-08-15T00:00:00Z"
+      "version" : "0.49.16",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -7432,20 +7432,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/jacklandrin/OnlySwitch/releases/download/release_2.3.6/OnlySwitch.dmg",
+      "downloadURL" : "https://github.com/jacklandrin/OnlySwitch/releases/download/release_2.3.7/OnlySwitch.dmg",
       "homepage" : "https://github.com/jacklandrin/OnlySwitch",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-only-switch/AppIcon.png",
       "localizedDescription" : "System and utility switches",
       "name" : "OnlySwitch",
-      "sha256" : "afe7a76f5e36b34a44c2ba1cf9ef956831e544da92a24c490537219ffd0790bf",
+      "sha256" : "2a9ea3c7777560244535a370c1093f859643bafe772a9d272e11f9dd3efa0791",
       "stats" : {
         "downloadCount" : 162,
         "impressionCount" : 657
       },
       "subtitle" : "System and utility switches",
       "tintColor" : "AB87D8",
-      "version" : "2.3.6",
-      "versionDate" : "2022-08-11T00:00:00Z"
+      "version" : "2.3.7",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -8217,20 +8217,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/massCodeIO/massCode/releases/download/v3.2.0/massCode-3.2.0.dmg",
+      "downloadURL" : "https://github.com/massCodeIO/massCode/releases/download/v3.3.0/massCode-3.3.0.dmg",
       "homepage" : "https://masscode.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-masscode/AppIcon.png",
       "localizedDescription" : "Open-source code snippets manager for developers",
       "name" : "massCode",
-      "sha256" : "9816615f089592f62af1fcb6e7ec3c2f3cc2f2344053c2e11f7f23b95b642bac",
+      "sha256" : "4d299e8705fee5e761938d95e3794dcfbee3e0e9d10ee7c9b3efa672c5e86841",
       "stats" : {
         "downloadCount" : 121,
         "impressionCount" : 782
       },
       "subtitle" : "Open-source code snippets manager for developers",
       "tintColor" : "006CBE",
-      "version" : "3.2.0",
-      "versionDate" : "2022-08-13T00:00:00Z"
+      "version" : "3.3.0",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -14897,8 +14897,8 @@
       },
       "subtitle" : "Use Vim in input fields and non input fields",
       "tintColor" : "282D32",
-      "version" : "31.0.3",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "32.0.0",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -16965,20 +16965,20 @@
       "categories" : [
         "public.app-category.simulation-games"
       ],
-      "downloadURL" : "https://www.renpy.org/dl/8.0.1/renpy-8.0.1-sdk.zip",
+      "downloadURL" : "https://www.renpy.org/dl/8.0.2/renpy-8.0.2-sdk.zip",
       "homepage" : "https://www.renpy.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-renpy/AppIcon.png",
       "localizedDescription" : "Visual novel engine in Python",
       "name" : "Ren'Py",
-      "sha256" : "80d21196b75d10488ee85b99f97a1509d559112be93c257f59d7ec7f068d4d50",
+      "sha256" : "ce7c74db7a16efa8ebed63eba59273bf18f2520dbcc2d20b33652939cce9f667",
       "stats" : {
         "downloadCount" : 25,
         "impressionCount" : 57
       },
       "subtitle" : "Visual novel engine in Python",
       "tintColor" : "C7A28D",
-      "version" : "8.0.1",
-      "versionDate" : "2022-07-11T00:00:00Z"
+      "version" : "8.0.2",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -19989,20 +19989,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.87.2-stable.1-ci4545046.dmg",
+      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.87.2-stable.2-ci4549888.dmg",
       "homepage" : "https://pitch.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pitch/AppIcon.png",
       "localizedDescription" : "Collaborative presentation software",
       "name" : "Pitch",
-      "sha256" : "5fd0bfa2449ed3f29e68e74e798981f96681380480fb831108cac4be074c07da",
+      "sha256" : "c9439ecc713832f6da71f70dd937041d15816af0f3aa2554f72473022bf2c2a2",
       "stats" : {
         "downloadCount" : 17,
         "impressionCount" : 363
       },
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
-      "version" : "1.87.2,stable.1,4545046",
-      "versionDate" : "2022-08-14T00:00:00Z"
+      "version" : "1.87.2,stable.2,4549888",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -21610,20 +21610,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://dl.houdah.com/houdahSpot/updates/cast6_assets/HoudahSpot6.2.1.zip",
+      "downloadURL" : "https://dl.houdah.com/houdahSpot/updates/cast6_assets/HoudahSpot6.2.2.zip",
       "homepage" : "https://www.houdah.com/houdahSpot/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-houdahspot/AppIcon.png",
       "localizedDescription" : "File searching application",
       "name" : "HoudahSpot",
-      "sha256" : "872e8c21716fe169e0f695fb296338d6e6cf153bd6f84469537362ef03cb50d5",
+      "sha256" : "e7ed5f0044b042f8e94ad08b4ae953eff753ed0cb03e30f1d0cefd91c16173b8",
       "stats" : {
         "downloadCount" : 14,
         "impressionCount" : 205
       },
       "subtitle" : "File searching application",
       "tintColor" : "FCA02C",
-      "version" : "6.2.1,747",
-      "versionDate" : "2022-08-15T00:00:00Z"
+      "version" : "6.2.2,750",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -21707,19 +21707,20 @@
       "categories" : [
         "public.app-category.education"
       ],
-      "downloadURL" : "https://github.com/praat/praat/releases/download/v6.2.14/praat6214_mac.dmg",
+      "downloadURL" : "https://github.com/praat/praat/releases/download/v6.2.15/praat6215_mac.dmg",
       "homepage" : "https://www.fon.hum.uva.nl/praat/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-praat/AppIcon.png",
       "localizedDescription" : "Doing phonetics by computer",
       "name" : "Praat",
-      "sha256" : "b8acadfac2a017eb722dcdd757493cfaca2ede80375ccc95d0b82e8c53ea4812",
+      "sha256" : "de56ec6b2d103be2f303d36aa29e7bda5aaec76151eb951fb7ce05a02ff66086",
       "stats" : {
         "downloadCount" : 14,
         "impressionCount" : 549
       },
       "subtitle" : "Doing phonetics by computer",
       "tintColor" : "DC788D",
-      "version" : "6.2.14"
+      "version" : "6.2.15",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -22391,20 +22392,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://download.shapr3d.com/mac/Shapr3D-5.190.0.3807.dmg",
+      "downloadURL" : "https://download.shapr3d.com/mac/Shapr3D-5.192.0.3827.dmg",
       "homepage" : "https://www.shapr3d.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-shapr3d/AppIcon.png",
       "localizedDescription" : "3D CAD software",
       "name" : "Shapr3D",
-      "sha256" : "92088d7d94e99b0f406b155f78d8853b5a229a549f5a47c46a4cb56cc3f18b8f",
+      "sha256" : "e923906bb2f27d4529385848ac4626447c3c62619d5efed9a95d588dc8626535",
       "stats" : {
         "downloadCount" : 13,
         "impressionCount" : 497
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
-      "version" : "5.190.0.3807",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "5.192.0.3827",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -26205,19 +26206,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://download.catnapgames.com/TinyPlayer-1.6.5.zip",
+      "downloadURL" : "https://download.catnapgames.com/TinyPlayer-1.6.6.zip",
       "homepage" : "https://www.catnapgames.com/tiny-player-for-mac/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tiny-player/AppIcon.png",
       "localizedDescription" : "Media player",
       "name" : "Tiny Player for Mac",
-      "sha256" : "3a80545e6f2c4745eee9fbe01933d387684290e528f865b471b14dd71b09eb15",
+      "sha256" : "fa77e35b90db7ba043b335544fa52af1b808103cc27dcbc6b2cfbb633219ef22",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 280
       },
       "subtitle" : "Media player",
       "tintColor" : "EFEFEF",
-      "version" : "1.6.5,220"
+      "version" : "1.6.6,221",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -30009,20 +30011,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.184.2/Hepta-0.184.2-mac.zip",
+      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.185.1/Hepta-0.185.1-mac.zip",
       "homepage" : "https://heptabase.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hepta/AppIcon.png",
       "localizedDescription" : "Note-taking tool for visual learning",
       "name" : "Hepta",
-      "sha256" : "1d2cca07e9b7d8e67e4291577431e43a6fb0fc8060a4b38d8f2855fab3fef09c",
+      "sha256" : "fa7b5e300e255a077bffce05a29d91ebb5ad4e16f46940a80e0259d7ba904605",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 352
       },
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
-      "version" : "0.184.2",
-      "versionDate" : "2022-08-14T00:00:00Z"
+      "version" : "0.185.1",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -33236,19 +33238,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://www.dssw.co.uk/powermanager/dsswpowermanager-592.dmg",
+      "downloadURL" : "https://www.dssw.co.uk/powermanager/dsswpowermanager-593.dmg",
       "homepage" : "https://dssw.co.uk/powermanager/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-power-manager/AppIcon.png",
       "localizedDescription" : "Utility to automate tasks and improve power management",
       "name" : "Power Manager",
-      "sha256" : "58fb3bc7330e8c07ca1d3d202de2439126f8b62c5bb2ba980dbaec9c911e61d5",
+      "sha256" : "25f98a739520803d6aa53ca65e543712bd83708831920b6aa7ab8cb5edaac84d",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 146
       },
       "subtitle" : "Utility to automate tasks and improve power management",
       "tintColor" : "4F4757",
-      "version" : "5.9.2"
+      "version" : "5.9.3",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -33936,7 +33939,8 @@
       },
       "subtitle" : "Vector graphic and illustration software",
       "tintColor" : "585252",
-      "version" : "1.3,179"
+      "version" : "1.4,197",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -40304,20 +40308,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.zotero.org/client/release/6.0.11/Zotero-6.0.11.dmg",
+      "downloadURL" : "https://download.zotero.org/client/release/6.0.12/Zotero-6.0.12.dmg",
       "homepage" : "https://www.zotero.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zotero/AppIcon.png",
       "localizedDescription" : "Collect, organize, cite, and share research sources",
       "name" : "Zotero",
-      "sha256" : "98ddaecad114987506350cd962063e2559621e0b9386c9d213f9ec80fabfbe7a",
+      "sha256" : "f87646d2540b100e370aeb9dfff71530080892c38e79d6fc9e2970f58698f526",
       "stats" : {
         "downloadCount" : 778,
         "impressionCount" : 98
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
-      "version" : "6.0.11",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "6.0.12",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -40845,20 +40849,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.studio3t.com/studio-3t/mac/2022.7.1/Studio-3T.dmg",
+      "downloadURL" : "https://download.studio3t.com/studio-3t/mac/2022.7.2/Studio-3T.dmg",
       "homepage" : "https://studio3t.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-studio-3t/AppIcon.png",
       "localizedDescription" : "IDE, client, and GUI for MongoDB",
       "name" : "Studio 3T",
-      "sha256" : "ed39cf3f1b18f0181799d372acc699a1aa29330394952611d02be1409420bddb",
+      "sha256" : "2ad327073416c9937edff4b9bb93627ad8882e29b8293c461f5f53bbab25d839",
       "stats" : {
         "downloadCount" : 325,
         "impressionCount" : 63
       },
       "subtitle" : "IDE, client, and GUI for MongoDB",
       "tintColor" : "48BD85",
-      "version" : "2022.7.1",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "2022.7.2",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -41433,19 +41437,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://pm.myapp.com/invc/xfspeed/qqpcmgr/module_update/Lemon5.0.7.dmg",
+      "downloadURL" : "https://pm.myapp.com/invc/xfspeed/qqpcmgr/module_update/Lemon_V5.1.0.dmg",
       "homepage" : "https://lemon.qq.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tencent-lemon/AppIcon.png",
       "localizedDescription" : "Cleanup and system status tool",
       "name" : "Tencent Lemon Cleaner",
-      "sha256" : "15b2d94dd35532a11c8e92157b87eda0161cac875a3a1528229be1e99cab0aa4",
+      "sha256" : "5d5212eec364c8ed00dd213bd8577f31266d73d5c1519cb3eda5201f158118d8",
       "stats" : {
         "downloadCount" : 208,
         "impressionCount" : 49
       },
       "subtitle" : "Cleanup and system status tool",
       "tintColor" : "FDECBC",
-      "version" : "5.0.7"
+      "version" : "5.1.0",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -60034,17 +60039,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.13%2B20220814103055-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.13%2B20220815103138-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "8a0d247ace88604157d807b36ebe623a8a858c1b2baba31f5d474edb74750a46",
+      "sha256" : "6b85d3cf60263058a67bdf4848658a0df1fe32988f53bdf92ec2b896f4848bf0",
       "stats" : {
         "downloadCount" : 586
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.13,20220814103055",
-      "versionDate" : "2022-08-15T00:00:00Z"
+      "version" : "6.2.13,20220815103138",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -62809,17 +62814,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/github/codeql-cli-binaries/releases/download/v2.10.2/codeql-osx64.zip",
+      "downloadURL" : "https://github.com/github/codeql-cli-binaries/releases/download/v2.10.3/codeql-osx64.zip",
       "homepage" : "https://codeql.github.com/",
       "localizedDescription" : "Semantic code analysis engine",
       "name" : "CodeQL",
-      "sha256" : "dfc7a14062217e7a29f9ef6aba3a51e401803195f60e2885b5bd40df2ec085b1",
+      "sha256" : "9db4ac1b6a8e35228ff46e896d8f94f1360b46f824fc8dce172ade2ab1ce2e75",
       "stats" : {
         "downloadCount" : 59
       },
       "subtitle" : "Semantic code analysis engine",
-      "version" : "2.10.2",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "2.10.3",
+      "versionDate" : "2022-08-16T09:22:22Z"
     },
     {
       "beta" : false,
@@ -73730,118 +73735,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "dynobase",
-      "caption" : "Dynobase updated from 1.10.7 to 1.10.8",
-      "date" : "2022-08-14T14:25:02Z",
-      "identifier" : "release-dynobase-1.10.8",
-      "title" : "New Release: Dynobase 1.10.8"
-    },
-    {
-      "appID" : "videofusion",
-      "caption" : "VideoFusion updated from 3.2.0.7442.0 to 3.3.0.7657.0",
-      "date" : "2022-08-14T14:25:02Z",
-      "identifier" : "release-videofusion-3.3.0.7657.0",
-      "title" : "New Release: VideoFusion 3.3.0.7657.0"
-    },
-    {
-      "appID" : "kkbox",
-      "caption" : "KKBOX updated from 22.7.10 to 22.8.2",
-      "date" : "2022-08-14T14:25:02Z",
-      "identifier" : "release-kkbox-22.8.2",
-      "title" : "New Release: KKBOX 22.8.2"
-    },
-    {
-      "appID" : "hepta",
-      "caption" : "Hepta updated from 0.183.0 to 0.184.2",
-      "date" : "2022-08-14T14:25:02Z",
-      "identifier" : "release-hepta-0.184.2",
-      "title" : "New Release: Hepta 0.184.2"
-    },
-    {
-      "appID" : "envkey",
-      "caption" : "EnvKey updated from 1.4.27 to 1.4.28",
-      "date" : "2022-08-14T14:25:02Z",
-      "identifier" : "release-envkey-1.4.28",
-      "title" : "New Release: EnvKey 1.4.28"
-    },
-    {
-      "appID" : "citrix-workspace",
-      "caption" : "Citrix Workspace updated from 22.08.0.40,2208 to 22.06.1.51,2206.1",
-      "date" : "2022-08-14T14:25:03Z",
-      "identifier" : "release-citrix-workspace-22.06.1.51,2206.1",
-      "title" : "New Release: Citrix Workspace 22.06.1.51,2206.1"
-    },
-    {
-      "appID" : "dbgate",
-      "caption" : "DbGate updated from 5.0.9 to 5.1.0",
-      "date" : "2022-08-14T14:25:03Z",
-      "identifier" : "release-dbgate-5.1.0",
-      "title" : "New Release: DbGate 5.1.0"
-    },
-    {
-      "appID" : "trader-workstation",
-      "caption" : "Trader Workstation updated from 10.17.1s to 10.17.1t",
-      "date" : "2022-08-14T14:25:03Z",
-      "identifier" : "release-trader-workstation-10.17.1t",
-      "title" : "New Release: Trader Workstation 10.17.1t"
-    },
-    {
-      "appID" : "gpxsee",
-      "caption" : "GPXSee updated from 11.2 to 11.3",
-      "date" : "2022-08-14T14:25:03Z",
-      "identifier" : "release-gpxsee-11.3",
-      "title" : "New Release: GPXSee 11.3"
-    },
-    {
-      "appID" : "cellprofiler",
-      "caption" : "CellProfiler updated from 4.2.1 to 4.2.4",
-      "date" : "2022-08-14T14:25:03Z",
-      "identifier" : "release-cellprofiler-4.2.4",
-      "title" : "New Release: CellProfiler 4.2.4"
-    },
-    {
-      "appID" : "flying-carpet",
-      "caption" : "Flying Carpet updated from 5.0 to 6.0",
-      "date" : "2022-08-14T14:25:03Z",
-      "identifier" : "release-flying-carpet-6.0",
-      "title" : "New Release: Flying Carpet 6.0"
-    },
-    {
-      "appID" : "ivpn",
-      "caption" : "IVPN updated from 3.9.0 to 3.9.8",
-      "date" : "2022-08-14T14:25:03Z",
-      "identifier" : "release-ivpn-3.9.8",
-      "title" : "New Release: IVPN 3.9.8"
-    },
-    {
-      "appID" : "gretl",
-      "caption" : "gretl updated from 2022a to 2022b",
-      "date" : "2022-08-14T14:25:04Z",
-      "identifier" : "release-gretl-2022b",
-      "title" : "New Release: gretl 2022b"
-    },
-    {
-      "appID" : "hackolade",
-      "caption" : "Hackolade updated from 6.3.1 to 6.4.0",
-      "date" : "2022-08-14T14:25:04Z",
-      "identifier" : "release-hackolade-6.4.0",
-      "title" : "New Release: Hackolade 6.4.0"
-    },
-    {
-      "appID" : "jgrasp",
-      "caption" : "jgrasp updated from 2.0.6_09 to 2.0.6_10",
-      "date" : "2022-08-14T14:25:04Z",
-      "identifier" : "release-jgrasp-2.0.6_10",
-      "title" : "New Release: jgrasp 2.0.6_10"
-    },
-    {
-      "appID" : "get-backup-pro",
-      "caption" : "Get Backup Pro 3 updated from 3.6.8,1667 to 3.6.9,1676",
-      "date" : "2022-08-14T14:25:04Z",
-      "identifier" : "release-get-backup-pro-3.6.9,1676",
-      "title" : "New Release: Get Backup Pro 3 3.6.9,1676"
-    },
-    {
       "appID" : "foxglove-studio",
       "caption" : "Foxglove Studio updated from 1.20.1 to 1.21.0",
       "date" : "2022-08-14T14:25:04Z",
@@ -73924,13 +73817,6 @@
       "date" : "2022-08-15T02:06:31Z",
       "identifier" : "release-kap-3.5.5",
       "title" : "New Release: Kap 3.5.5"
-    },
-    {
-      "appID" : "swiftformat-for-xcode",
-      "caption" : "SwiftFormat for Xcode updated from 0.49.14 to 0.49.15",
-      "date" : "2022-08-15T02:06:31Z",
-      "identifier" : "release-swiftformat-for-xcode-0.49.15",
-      "title" : "New Release: SwiftFormat for Xcode 0.49.15"
     },
     {
       "appID" : "leapp",
@@ -74029,13 +73915,6 @@
       "date" : "2022-08-15T02:06:33Z",
       "identifier" : "release-electron-fiddle-0.29.2",
       "title" : "New Release: Electron Fiddle 0.29.2"
-    },
-    {
-      "appID" : "houdahspot",
-      "caption" : "HoudahSpot updated from 6.2,734 to 6.2.1,747",
-      "date" : "2022-08-15T02:06:33Z",
-      "identifier" : "release-houdahspot-6.2.1,747",
-      "title" : "New Release: HoudahSpot 6.2.1,747"
     },
     {
       "appID" : "vrew",
@@ -74262,13 +74141,6 @@
       "title" : "New Release: .Net Runtime 6.0.8,5cda9364-6621-40a0-9519-c460a37571c6,a73481f3abf7bd0325420d2ce740bfed"
     },
     {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.13,20220812102905 to 6.2.13,20220814103055",
-      "date" : "2022-08-15T02:06:38Z",
-      "identifier" : "release-metasploit-6.2.13,20220814103055",
-      "title" : "New Release: Metasploit Framework 6.2.13,20220814103055"
-    },
-    {
       "appID" : "webex-meetings",
       "caption" : "Webex Meetings updated from 42.7.0.22904 to 42.8.0.23214",
       "date" : "2022-08-15T02:06:39Z",
@@ -74428,6 +74300,139 @@
       "date" : "2022-08-16T03:50:03Z",
       "identifier" : "release-microsoft-teams-1.5.00.21551",
       "title" : "New Release: Microsoft Teams 1.5.00.21551"
+    },
+    {
+      "appID" : "skype",
+      "caption" : "Skype updated from 8.87.0.403 to 8.87.0.406",
+      "date" : "2022-08-16T09:22:23Z",
+      "identifier" : "release-skype-8.87.0.406",
+      "title" : "New Release: Skype 8.87.0.406"
+    },
+    {
+      "appID" : "swiftformat-for-xcode",
+      "caption" : "SwiftFormat for Xcode updated from 0.49.15 to 0.49.16",
+      "date" : "2022-08-16T09:22:24Z",
+      "identifier" : "release-swiftformat-for-xcode-0.49.16",
+      "title" : "New Release: SwiftFormat for Xcode 0.49.16"
+    },
+    {
+      "appID" : "only-switch",
+      "caption" : "OnlySwitch updated from 2.3.6 to 2.3.7",
+      "date" : "2022-08-16T09:22:24Z",
+      "identifier" : "release-only-switch-2.3.7",
+      "title" : "New Release: OnlySwitch 2.3.7"
+    },
+    {
+      "appID" : "masscode",
+      "caption" : "massCode updated from 3.2.0 to 3.3.0",
+      "date" : "2022-08-16T09:22:24Z",
+      "identifier" : "release-masscode-3.3.0",
+      "title" : "New Release: massCode 3.3.0"
+    },
+    {
+      "appID" : "kindavim",
+      "caption" : "kindaVim updated from 31.0.3 to 32.0.0",
+      "date" : "2022-08-16T09:22:25Z",
+      "identifier" : "release-kindavim-32.0.0",
+      "title" : "New Release: kindaVim 32.0.0"
+    },
+    {
+      "appID" : "renpy",
+      "caption" : "Ren'Py updated from 8.0.1 to 8.0.2",
+      "date" : "2022-08-16T09:22:25Z",
+      "identifier" : "release-renpy-8.0.2",
+      "title" : "New Release: Ren'Py 8.0.2"
+    },
+    {
+      "appID" : "pitch",
+      "caption" : "Pitch updated from 1.87.2,stable.1,4545046 to 1.87.2,stable.2,4549888",
+      "date" : "2022-08-16T09:22:25Z",
+      "identifier" : "release-pitch-1.87.2,stable.2,4549888",
+      "title" : "New Release: Pitch 1.87.2,stable.2,4549888"
+    },
+    {
+      "appID" : "houdahspot",
+      "caption" : "HoudahSpot updated from 6.2.1,747 to 6.2.2,750",
+      "date" : "2022-08-16T09:22:25Z",
+      "identifier" : "release-houdahspot-6.2.2,750",
+      "title" : "New Release: HoudahSpot 6.2.2,750"
+    },
+    {
+      "appID" : "praat",
+      "caption" : "Praat updated from 6.2.14 to 6.2.15",
+      "date" : "2022-08-16T09:22:26Z",
+      "identifier" : "release-praat-6.2.15",
+      "title" : "New Release: Praat 6.2.15"
+    },
+    {
+      "appID" : "shapr3d",
+      "caption" : "Shapr3D updated from 5.190.0.3807 to 5.192.0.3827",
+      "date" : "2022-08-16T09:22:26Z",
+      "identifier" : "release-shapr3d-5.192.0.3827",
+      "title" : "New Release: Shapr3D 5.192.0.3827"
+    },
+    {
+      "appID" : "tiny-player",
+      "caption" : "Tiny Player for Mac updated from 1.6.5,220 to 1.6.6,221",
+      "date" : "2022-08-16T09:22:26Z",
+      "identifier" : "release-tiny-player-1.6.6,221",
+      "title" : "New Release: Tiny Player for Mac 1.6.6,221"
+    },
+    {
+      "appID" : "hepta",
+      "caption" : "Hepta updated from 0.184.2 to 0.185.1",
+      "date" : "2022-08-16T09:22:26Z",
+      "identifier" : "release-hepta-0.185.1",
+      "title" : "New Release: Hepta 0.185.1"
+    },
+    {
+      "appID" : "power-manager",
+      "caption" : "Power Manager updated from 5.9.2 to 5.9.3",
+      "date" : "2022-08-16T09:22:26Z",
+      "identifier" : "release-power-manager-5.9.3",
+      "title" : "New Release: Power Manager 5.9.3"
+    },
+    {
+      "appID" : "amadine",
+      "caption" : "Amadine updated from 1.3,179 to 1.4,197",
+      "date" : "2022-08-16T09:22:26Z",
+      "identifier" : "release-amadine-1.4,197",
+      "title" : "New Release: Amadine 1.4,197"
+    },
+    {
+      "appID" : "zotero",
+      "caption" : "Zotero updated from 6.0.11 to 6.0.12",
+      "date" : "2022-08-16T09:22:27Z",
+      "identifier" : "release-zotero-6.0.12",
+      "title" : "New Release: Zotero 6.0.12"
+    },
+    {
+      "appID" : "studio-3t",
+      "caption" : "Studio 3T updated from 2022.7.1 to 2022.7.2",
+      "date" : "2022-08-16T09:22:27Z",
+      "identifier" : "release-studio-3t-2022.7.2",
+      "title" : "New Release: Studio 3T 2022.7.2"
+    },
+    {
+      "appID" : "tencent-lemon",
+      "caption" : "Tencent Lemon Cleaner updated from 5.0.7 to 5.1.0",
+      "date" : "2022-08-16T09:22:27Z",
+      "identifier" : "release-tencent-lemon-5.1.0",
+      "title" : "New Release: Tencent Lemon Cleaner 5.1.0"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.13,20220814103055 to 6.2.13,20220815103138",
+      "date" : "2022-08-16T09:22:27Z",
+      "identifier" : "release-metasploit-6.2.13,20220815103138",
+      "title" : "New Release: Metasploit Framework 6.2.13,20220815103138"
+    },
+    {
+      "appID" : "codeql",
+      "caption" : "CodeQL updated from 2.10.2 to 2.10.3",
+      "date" : "2022-08-16T09:22:27Z",
+      "identifier" : "release-codeql-2.10.3",
+      "title" : "New Release: CodeQL 2.10.3"
     }
   ],
   "platform" : "macos",

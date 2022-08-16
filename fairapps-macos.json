@@ -62,8 +62,8 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 401,
-        "impressionCount" : 150,
+        "downloadCount" : 405,
+        "impressionCount" : 151,
         "issueCount" : 6,
         "starCount" : 27,
         "viewCount" : 30,
@@ -115,10 +115,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4150,
+        "impressionCount" : 4152,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 672,
+        "viewCount" : 673,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -164,10 +164,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1346,
+        "impressionCount" : 1349,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 90,
+        "viewCount" : 91,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -209,10 +209,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2707,
+        "impressionCount" : 2710,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 196,
+        "viewCount" : 197,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -251,10 +251,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3093,
+        "impressionCount" : 3095,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 532,
+        "viewCount" : 533,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -373,7 +373,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4212,
+        "impressionCount" : 4214,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 553,
@@ -924,7 +924,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 6,
-        "impressionCount" : 15,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -967,7 +967,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 6,
-        "impressionCount" : 18,
+        "impressionCount" : 21,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -1049,7 +1049,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2558,
+        "impressionCount" : 2561,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 161,
@@ -1492,7 +1492,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2508,
+        "impressionCount" : 2511,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 134,
@@ -1540,7 +1540,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 2,
-        "impressionCount" : 21,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,

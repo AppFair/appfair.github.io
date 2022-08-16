@@ -33,10 +33,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 120,
-        "impressionCount" : 1339,
+        "impressionCount" : 1341,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 89,
+        "viewCount" : 90,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -76,10 +76,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2700,
+        "impressionCount" : 2702,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 195,
+        "viewCount" : 196,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -120,10 +120,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2551,
+        "impressionCount" : 2553,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 160,
+        "viewCount" : 161,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -363,10 +363,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2501,
+        "impressionCount" : 2503,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 133,
+        "viewCount" : 134,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -654,7 +654,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4206,
+        "impressionCount" : 4207,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 553,
@@ -859,10 +859,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 4,
-        "impressionCount" : 8,
+        "impressionCount" : 10,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -900,10 +900,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 4,
-        "impressionCount" : 10,
+        "impressionCount" : 13,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -952,7 +952,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 14,
+        "impressionCount" : 16,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,

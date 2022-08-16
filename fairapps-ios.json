@@ -33,10 +33,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 120,
-        "impressionCount" : 1347,
+        "impressionCount" : 1349,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 90,
+        "viewCount" : 91,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -76,10 +76,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2708,
+        "impressionCount" : 2710,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 196,
+        "viewCount" : 197,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -120,7 +120,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2559,
+        "impressionCount" : 2561,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 161,
@@ -363,7 +363,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2509,
+        "impressionCount" : 2511,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 134,
@@ -477,7 +477,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 6,
-        "impressionCount" : 16,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -518,7 +518,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 6,
-        "impressionCount" : 19,
+        "impressionCount" : 21,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -570,7 +570,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 6,
-        "impressionCount" : 22,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,
@@ -792,7 +792,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4212,
+        "impressionCount" : 4214,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 553,

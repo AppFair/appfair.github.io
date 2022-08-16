@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2083,
-        "impressionCount" : 7688,
+        "impressionCount" : 7689,
         "viewCount" : 812
       },
       "subtitle" : "File archiver",
@@ -1402,7 +1402,7 @@
       "sha256" : "dc5271b496c995b8ef957f4a53c3224771002715d15917c776fddb7d4a03b2c5",
       "stats" : {
         "downloadCount" : 2383,
-        "impressionCount" : 2448,
+        "impressionCount" : 2449,
         "viewCount" : 155
       },
       "subtitle" : "Text editor",
@@ -2217,7 +2217,7 @@
       "sha256" : "115c40eb710085969a72a24d5d84ae2c05260192cc68a22e73e99e148c6638da",
       "stats" : {
         "downloadCount" : 353,
-        "impressionCount" : 2229,
+        "impressionCount" : 2230,
         "viewCount" : 129
       },
       "subtitle" : "Animated screen capture application",
@@ -3149,7 +3149,7 @@
       "sha256" : "536e2a4beb637e4cb97a9f258a709e1c63f497a9f4a70ea206f1ef5fc7bb373e",
       "stats" : {
         "downloadCount" : 4796,
-        "impressionCount" : 1467
+        "impressionCount" : 1468
       },
       "subtitle" : "Enable Windows-like alt-tab",
       "tintColor" : "49477D",
@@ -3341,7 +3341,7 @@
       "sha256" : "b50c416828005e1eec0dc8066c961efcc389e6be1a5a595541ea62d48d31a391",
       "stats" : {
         "downloadCount" : 2828,
-        "impressionCount" : 1168
+        "impressionCount" : 1169
       },
       "subtitle" : "Free and open-source media player",
       "tintColor" : "29445A",
@@ -3361,7 +3361,7 @@
       "sha256" : "610c22fda19d558130e742f9c1d5a40587bc182967abdb2e47b4385fdaad1501",
       "stats" : {
         "downloadCount" : 2788,
-        "impressionCount" : 1316
+        "impressionCount" : 1317
       },
       "subtitle" : "Application uninstaller",
       "tintColor" : "B58F5C",
@@ -4052,7 +4052,7 @@
       "sha256" : "5f337db4290930c299ac691089135b7869b86685fa8a23cf0cfc3f9b76cf1897",
       "stats" : {
         "downloadCount" : 970,
-        "impressionCount" : 1198
+        "impressionCount" : 1199
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
@@ -6993,7 +6993,7 @@
       "sha256" : "c5f93183d28e89decb82fed2f5accd674dcb578cc9cee973b8658dcdc4071f8d",
       "stats" : {
         "downloadCount" : 182,
-        "impressionCount" : 303,
+        "impressionCount" : 304,
         "viewCount" : 22
       },
       "subtitle" : "Native app email client for Gmail",
@@ -15706,7 +15706,7 @@
       "sha256" : "d4411bc9ffe5be32be94ae90aff1ef47e21df540c406abbe81f790790aedeebc",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 389
+        "impressionCount" : 390
       },
       "subtitle" : "Turn websites into apps",
       "tintColor" : "DBCAEF",

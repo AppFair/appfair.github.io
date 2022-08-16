@@ -33,7 +33,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 120,
-        "impressionCount" : 1349,
+        "impressionCount" : 1353,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 91,
@@ -76,7 +76,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2710,
+        "impressionCount" : 2714,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 197,
@@ -120,7 +120,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2561,
+        "impressionCount" : 2565,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 161,
@@ -363,7 +363,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2511,
+        "impressionCount" : 2515,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 134,
@@ -477,10 +477,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 6,
-        "impressionCount" : 18,
+        "impressionCount" : 22,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -518,10 +518,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 6,
-        "impressionCount" : 21,
+        "impressionCount" : 25,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -570,10 +570,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 6,
-        "impressionCount" : 24,
+        "impressionCount" : 30,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 5,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -792,10 +792,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4214,
+        "impressionCount" : 4217,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 553,
+        "viewCount" : 554,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",

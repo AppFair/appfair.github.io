@@ -27,7 +27,7 @@ tr:nth-child(even) {
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `37` | `2022-07-20T00:00:00Z` | `5.4 MB` | `2740` | `200` | `0` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `22` | `2022-07-20T00:00:00Z` | `12 MB` | `2590` | `164` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `17` | `2022-01-23T00:00:00Z` | `6 MB` | `1983` | `115` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `10` | `2022-08-15T00:00:00Z` | `17.7 MB` | `47` | `9` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `10` | `2022-08-15T00:00:00Z` | `17.7 MB` | `49` | `9` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.220`` | `10` | `2022-08-15T00:00:00Z` | `5.6 MB` | `50` | `10` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.48`` | `10` | `2022-08-15T00:00:00Z` | `8.6 MB` | `58` | `11` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `10` | `2022-01-23T00:00:00Z` | `5.9 MB` | `2909` | `222` | `0` | `0` |  |

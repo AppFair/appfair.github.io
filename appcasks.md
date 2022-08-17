@@ -1991,7 +1991,7 @@ tr:nth-child(even) {
 | [``Numi``](https://numi.app/) | ``3.30.704`` | `844` |  |  | `62` |  |  | `0` |  |
 | [``Zotero``](https://www.zotero.org/) | ``6.0.12`` | `817` | `2022-08-16T00:00:00Z` |  | `102` |  |  | `0` |  |
 | [``Robo 3T (formerly Robomo…``](https://robomongo.org/) | ``1.4.4,e6ac9ec`` | `814` |  |  | `55` |  |  | `0` |  |
-| [``Vivaldi``](https://vivaldi.com/) | ``5.4.2753.37`` | `809` | `2022-08-17T16:25:31Z` |  | `458` |  |  | `0` |  |
+| [``Vivaldi``](https://vivaldi.com/) | ``5.4.2753.37`` | `809` | `2022-08-17T00:00:00Z` |  | `458` |  |  | `0` |  |
 | [``LuLu``](https://objective-see.com/products/lulu.html) | ``2.4.2`` | `802` |  |  | `72` |  |  | `0` |  |
 | [``Ungoogled Chromium``](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | ``104.0.5112.81-1.1,165961…`` | `796` | `2022-08-05T00:00:00Z` |  | `191` |  |  | `0` |  |
 | [``Macs Fan Control``](https://www.crystalidea.com/macs-fan-control) | ``1.5.13`` | `724` |  |  | `51` |  |  | `0` |  |

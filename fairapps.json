@@ -62,11 +62,11 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 428,
-        "impressionCount" : 166,
+        "downloadCount" : 433,
+        "impressionCount" : 167,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 32,
+        "viewCount" : 33,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -115,10 +115,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4169,
+        "impressionCount" : 4171,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 676,
+        "viewCount" : 677,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -164,10 +164,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1373,
+        "impressionCount" : 1377,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 94,
+        "viewCount" : 95,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -209,10 +209,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2733,
+        "impressionCount" : 2738,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 199,
+        "viewCount" : 200,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -251,10 +251,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3112,
+        "impressionCount" : 3114,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 536,
+        "viewCount" : 537,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -373,10 +373,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4234,
+        "impressionCount" : 4239,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 555,
+        "viewCount" : 556,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -424,44 +424,6 @@
       "versionDescription" : "Release 0.0.3"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Festivus-Pole",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
-      "localizedDescription" : "A true Festivus celebration",
-      "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Festivus Pole",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Festivus-Pole/App/releases/download/0.0.3/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "4c85036bb30f16b52bb03b4781cd6c8c299a548ed568ee25eac226ef95829c4c",
-      "size" : 2324945,
-      "stats" : {
-        "coreSize" : 68368,
-        "downloadCount" : 9,
-        "impressionCount" : 1938,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 118,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A true Festivus celebration",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-23T00:00:00Z",
-      "versionDescription" : "Release 0.0.3"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
@@ -496,11 +458,11 @@
       "size" : 9538499,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 8,
-        "impressionCount" : 40,
+        "downloadCount" : 10,
+        "impressionCount" : 45,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 8,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -539,11 +501,11 @@
       "size" : 2192556,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 8,
-        "impressionCount" : 43,
+        "downloadCount" : 10,
+        "impressionCount" : 48,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -551,6 +513,44 @@
       "version" : "0.9.220",
       "versionDate" : "2022-08-15T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.219...0.9.220"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Festivus-Pole",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
+      "localizedDescription" : "A true Festivus celebration",
+      "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Festivus Pole",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Festivus-Pole/App/releases/download/0.0.3/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "4c85036bb30f16b52bb03b4781cd6c8c299a548ed568ee25eac226ef95829c4c",
+      "size" : 2324945,
+      "stats" : {
+        "coreSize" : 68368,
+        "downloadCount" : 9,
+        "impressionCount" : 1938,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 118,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A true Festivus celebration",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-23T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -675,6 +675,81 @@
       "version" : "0.0.6",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.0.6"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/App-Fair-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/App-Fair.png",
+      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_00-mac-dark-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_00-mac-light-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_06-mac-dark-1424x1722.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_06-mac-light-1424x1722.png"
+      ],
+      "sha256" : "e39394ff5531aaaf2c8b4d78ab453be5d45e56f7b43946dd790aed7b1ff6c406",
+      "size" : 9609400,
+      "stats" : {
+        "coreSize" : 170672,
+        "downloadCount" : 7,
+        "impressionCount" : 1,
+        "issueCount" : 6,
+        "starCount" : 28,
+        "viewCount" : 1,
+        "watcherCount" : 3
+      },
+      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "tintColor" : "1594E8",
+      "version" : "0.8.105",
+      "versionDate" : "2022-08-16T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.104...0.8.105"
     },
     {
       "beta" : true,
@@ -944,81 +1019,6 @@
       "versionDescription" : "Release 0.0.17"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/App-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/App-Fair.png",
-      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.executable",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.server",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_00-mac-dark-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_00-mac-light-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_06-mac-dark-1424x1722.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_06-mac-light-1424x1722.png"
-      ],
-      "sha256" : "e39394ff5531aaaf2c8b4d78ab453be5d45e56f7b43946dd790aed7b1ff6c406",
-      "size" : 9609400,
-      "stats" : {
-        "coreSize" : 170672,
-        "downloadCount" : 5,
-        "impressionCount" : 1,
-        "issueCount" : 6,
-        "starCount" : 28,
-        "viewCount" : 1,
-        "watcherCount" : 3
-      },
-      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "tintColor" : "1594E8",
-      "version" : "0.8.105",
-      "versionDate" : "2022-08-16T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.104...0.8.105"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
@@ -1049,10 +1049,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2583,
+        "impressionCount" : 2588,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 162,
+        "viewCount" : 163,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1466,10 +1466,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 50,
+        "impressionCount" : 55,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1541,10 +1541,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2533,
+        "impressionCount" : 2538,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 135,
+        "viewCount" : 136,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",

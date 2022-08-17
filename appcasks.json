@@ -1453,7 +1453,7 @@
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
       "version" : "1.70.1.22228",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4800,7 +4800,7 @@
       "subtitle" : "Xcode Extension for reformatting Swift code",
       "tintColor" : "44424D",
       "version" : "0.49.17",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5878,7 +5878,7 @@
       "subtitle" : "SSH client",
       "tintColor" : "242A48",
       "version" : "7.46.4",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18093,7 +18093,7 @@
       "subtitle" : "Collaborative SQL editor",
       "tintColor" : "F6DAD6",
       "version" : "1.0.78",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20065,7 +20065,7 @@
       "subtitle" : "Markdown writing, note taking, and static blog generator app",
       "tintColor" : "75737B",
       "version" : "4.3.3",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21461,7 +21461,7 @@
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
       "version" : "0.11.29",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24373,7 +24373,7 @@
       "subtitle" : "Modern password manager",
       "tintColor" : "7BCDF8",
       "version" : "4.0.2",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31547,7 +31547,7 @@
       "subtitle" : "Zcash Light Wallet",
       "tintColor" : "A0ADB3",
       "version" : "1.8.3",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33316,7 +33316,7 @@
       "subtitle" : "Scalable KanColle browser and tool",
       "tintColor" : "847367",
       "version" : "10.9.0",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47471,7 +47471,7 @@
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
       "version" : "10.17.1v",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61503,7 +61503,7 @@
       },
       "subtitle" : "Cloud native persistent desktop virtualization",
       "version" : "5.2.0.2421",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61914,7 +61914,7 @@
       },
       "subtitle" : "Platform for 3D content",
       "version" : "2022.1.13f1,22856944e6d2",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -68446,7 +68446,7 @@
       },
       "subtitle" : "Agent for Nessus vulnerability scanner",
       "version" : "10.2.0,17230",
-      "versionDate" : "2022-08-17T08:27:00Z"
+      "versionDate" : "2022-08-17T00:00:00Z"
     },
     {
       "beta" : false,

@@ -21792,7 +21792,7 @@
       "sha256" : "f6029a8a876038835c9045e75a05367f4f6f63e7ff6a9f11e4921a0ef9559c6b",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 182
+        "impressionCount" : 183
       },
       "subtitle" : "Screen Annotation Tool",
       "tintColor" : "92D7D9",
@@ -22313,7 +22313,7 @@
       "sha256" : "a22704a4b8f5bc13a9f1c8f6e893657576c20308fe7372ae87306d58d70dca48",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 228
+        "impressionCount" : 229
       },
       "subtitle" : "Email tester and debugger",
       "tintColor" : "8BCFEC",
@@ -23489,7 +23489,7 @@
       "sha256" : "274363551f54f64093437ad81109098639c62d70449a5f4afb0a0bc6033ce270",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 350
+        "impressionCount" : 351
       },
       "subtitle" : "Test and debug chat bots built with the Bot Framework SDK",
       "tintColor" : "B1D0F2",
@@ -23657,7 +23657,7 @@
       "sha256" : "b96c06bca744af94e2f035824fbd16f59673c4c454fd4bf96aa4bde965fe711d",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 724
+        "impressionCount" : 725
       },
       "subtitle" : "Desktop app for learning Git and GitHub",
       "tintColor" : "108DFF",
@@ -23871,7 +23871,7 @@
       "sha256" : "b110481cc0aa30db62cdcf1f3eb445a1da5bf2080b51f73190829665ae6511dd",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 128
+        "impressionCount" : 129
       },
       "tintColor" : "F09671",
       "version" : "1.0.0"
@@ -23890,7 +23890,7 @@
       "sha256" : "e33b49fb41a264006d3e59b3ffad431f6aa1e70be24d0a2d07b9c128bf17f5b9",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 126
+        "impressionCount" : 127
       },
       "subtitle" : "Cloud notes",
       "tintColor" : "ACAAAA",
@@ -23971,7 +23971,7 @@
       "sha256" : "322744478e3277216a129dd162e04ae24587d71eedafa6681b30a976b2521c9b",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 390
+        "impressionCount" : 391
       },
       "subtitle" : "Self-hosted knowledge graph",
       "tintColor" : "DEDEDE",
@@ -24191,7 +24191,7 @@
       "sha256" : "84e3c4fbf685744fddf7ab87ac9fcb7fbccbc0d82baf22351d500ed1616ae84f",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 190
+        "impressionCount" : 191
       },
       "tintColor" : "17291D",
       "version" : "1.0.2,55"
@@ -24230,7 +24230,7 @@
       "sha256" : "b9d4e1b3726ff3dd222f123a6d0b425015ff13733e95863a95d8256f80530a60",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 530
+        "impressionCount" : 531
       },
       "subtitle" : "Utility to control and manage the Simulator",
       "tintColor" : "BB9517",
@@ -24368,7 +24368,7 @@
       "sha256" : "a2e84055403f35e141a46afc2ef7765e20c210572d26ae8de903fe47fa1db9ed",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 324
+        "impressionCount" : 325
       },
       "subtitle" : "Modern password manager",
       "tintColor" : "7BCDF8",
@@ -24389,7 +24389,7 @@
       "sha256" : "7e8598e9d0f4c8d84207a02a9deecf126c116e0ab158c35a54b9bb1f17da46fc",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 164
+        "impressionCount" : 165
       },
       "subtitle" : "Turn vector drawings into program code",
       "tintColor" : "78AFD7",
@@ -24448,7 +24448,7 @@
       "sha256" : "2cfb2334cf974e7d4c24c08d5bd76d89eb9ecf3578958c11bd4a49f6c6037201",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 187
+        "impressionCount" : 188
       },
       "subtitle" : "Easier access to Xcode Simulator functionality",
       "tintColor" : "6680BA",
@@ -24688,7 +24688,7 @@
       "sha256" : "0db183c1ffb31badbc77899f2cdafaca33eca5432d2f3f01c4cf21f614b663c5",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 332
+        "impressionCount" : 333
       },
       "subtitle" : "GUI Python implementation for the Chia blockchain",
       "tintColor" : "D2EBD9",
@@ -25088,7 +25088,7 @@
       "sha256" : "7c9b896336b3bd6ca978afcde97dfacfa4ebc785c7419c36bcf92c2475e5bd24",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 155
+        "impressionCount" : 156
       },
       "tintColor" : "84A9E6",
       "version" : "2.0.0-beta.2"
@@ -25208,7 +25208,7 @@
       "sha256" : "106c31b4297f3a9671648db75adfbb79c929de3af306b537aa141b7bac668a7c",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 151
+        "impressionCount" : 152
       },
       "subtitle" : "Utility to take screenshots of webpages",
       "tintColor" : "49A7ED",
@@ -25248,7 +25248,7 @@
       "sha256" : "7f0545b2a99ab9fa515b6f78437a53226e6e1f788a8ed411e6bbd3fff5c09249",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 159
+        "impressionCount" : 160
       },
       "subtitle" : "Email productivity application",
       "tintColor" : "CDE1E8",
@@ -25688,7 +25688,7 @@
       "sha256" : "282455fda66cf8a84a551c2396649be8b668885b3a62819fbdd5033448934914",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 274
+        "impressionCount" : 275
       },
       "tintColor" : "2F3429",
       "version" : "0.3.1"
@@ -25891,7 +25891,7 @@
       "sha256" : "cc09216769022fc4acb20eaddd37898ace0d3a9ca8d9f53fbc06cdbfd45868e0",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 276
+        "impressionCount" : 277
       },
       "subtitle" : "Rendezvous service browser for iPhone / iPod touch",
       "tintColor" : "D4232D",
@@ -26422,7 +26422,7 @@
       "name" : "Sizzy",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 302
+        "impressionCount" : 303
       },
       "subtitle" : "Tool to simulate responsive designs on multiple devices",
       "tintColor" : "9271C5",

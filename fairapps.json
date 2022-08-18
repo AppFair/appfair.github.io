@@ -62,8 +62,8 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 445,
-        "impressionCount" : 176,
+        "downloadCount" : 446,
+        "impressionCount" : 177,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 35,
@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4180,
+        "impressionCount" : 4181,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 677,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1388,
+        "impressionCount" : 1389,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 97,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2749,
+        "impressionCount" : 2750,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 200,
@@ -251,10 +251,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3123,
+        "impressionCount" : 3124,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 537,
+        "viewCount" : 538,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -373,10 +373,10 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4250,
+        "impressionCount" : 4251,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 556,
+        "viewCount" : 557,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -420,7 +420,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 11,
-        "impressionCount" : 59,
+        "impressionCount" : 60,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -1006,7 +1006,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2599,
+        "impressionCount" : 2600,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 164,
@@ -1417,7 +1417,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 1,
+        "impressionCount" : 2,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1466,7 +1466,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 66,
+        "impressionCount" : 67,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 11,
@@ -1541,7 +1541,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2548,
+        "impressionCount" : 2549,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 136,

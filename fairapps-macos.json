@@ -89,7 +89,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1420,
+        "impressionCount" : 1421,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 99,
@@ -134,7 +134,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2815,
+        "impressionCount" : 2816,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 203,
@@ -345,10 +345,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 16,
-        "impressionCount" : 128,
+        "impressionCount" : 129,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 16,
+        "viewCount" : 17,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -557,6 +557,81 @@
       "version" : "0.0.6",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.0.6"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.108/App-Fair-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.108/App-Fair.png",
+      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.108/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.108/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_00-mac-dark-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_00-mac-light-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_06-mac-dark-1424x1722.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_06-mac-light-1424x1722.png"
+      ],
+      "sha256" : "6adcd23247bfed420a5c6be094e94927c87fbc42e22a4a4b5edbed0e8e1b9cc1",
+      "size" : 9613696,
+      "stats" : {
+        "coreSize" : 170672,
+        "downloadCount" : 7,
+        "impressionCount" : 4,
+        "issueCount" : 6,
+        "starCount" : 28,
+        "viewCount" : 2,
+        "watcherCount" : 3
+      },
+      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "tintColor" : "1594E8",
+      "version" : "0.8.108",
+      "versionDate" : "2022-08-18T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.107...0.8.108"
     },
     {
       "beta" : true,
@@ -787,81 +862,6 @@
       "versionDescription" : "Release 0.0.32"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.108/App-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.108/App-Fair.png",
-      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.108/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.executable",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.server",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.108/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_00-mac-dark-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_00-mac-light-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_06-mac-dark-1424x1722.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.108/screenshot_06-mac-light-1424x1722.png"
-      ],
-      "sha256" : "6adcd23247bfed420a5c6be094e94927c87fbc42e22a4a4b5edbed0e8e1b9cc1",
-      "size" : 9613696,
-      "stats" : {
-        "coreSize" : 170672,
-        "downloadCount" : 6,
-        "impressionCount" : 2,
-        "issueCount" : 6,
-        "starCount" : 28,
-        "viewCount" : 2,
-        "watcherCount" : 3
-      },
-      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "tintColor" : "1594E8",
-      "version" : "0.8.108",
-      "versionDate" : "2022-08-18T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.107...0.8.108"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Media-Res",
       "categories" : [
@@ -970,7 +970,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2651,
+        "impressionCount" : 2652,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 165,
@@ -1015,125 +1015,6 @@
       "version" : "0.0.1",
       "versionDate" : "2022-07-04T00:00:00Z",
       "versionDescription" : ""
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Yankee-Swap",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
-      "localizedDescription" : "Old-time horse trading",
-      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Yankee Swap",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Yankee-Swap/App/releases/download/0.0.11/screenshot_01-mac-dark-mac-924x1384.png"
-      ],
-      "sha256" : "939c72e726019d26d6d225dd5a6d3d099a7aa662e65b82ff91ce268acb5e40a7",
-      "size" : 2378046,
-      "stats" : {
-        "coreSize" : 68360,
-        "downloadCount" : 4,
-        "impressionCount" : 1904,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 43,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Old-time horse trading",
-      "tintColor" : "3C82C1",
-      "version" : "0.0.11",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.11"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Ultra-Light",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
-      "localizedDescription" : "A bit of lite reading",
-      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Ultra Light",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Ultra-Light/App/releases/download/0.0.7/screenshot_01-mac-dark-mac-1938x482.png",
-        "https://github.com/Ultra-Light/App/releases/download/0.0.7/screenshot_02-mac-dark-mac-478x1226.png",
-        "https://github.com/Ultra-Light/App/releases/download/0.0.7/screenshot_01-mac-light-mac-1938x482.png",
-        "https://github.com/Ultra-Light/App/releases/download/0.0.7/screenshot_02-mac-light-mac-478x1226.png"
-      ],
-      "sha256" : "633d678f1dcf6a960ecab0ecff581f2ceb6c1e191e2b7bfea5ba67b4173cdcb1",
-      "size" : 2271510,
-      "stats" : {
-        "coreSize" : 68360,
-        "downloadCount" : 4,
-        "impressionCount" : 687,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 62,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A bit of lite reading",
-      "version" : "0.0.7",
-      "versionDate" : "2022-01-21T00:00:00Z",
-      "versionDescription" : "Release 0.0.7"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Red-Light-Green-Light",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light.png",
-      "localizedDescription" : "무궁화 꽃이 피었습니다",
-      "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Red Light Green Light",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/screenshot_01-mac-dark-2024x1124.png",
-        "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/screenshot_01-mac-light-2024x1124.png"
-      ],
-      "sha256" : "9074f553a7b0f8817aa76aa7cd302bb62af52c9fbca7ced06805ddfeab0526d6",
-      "size" : 2448634,
-      "stats" : {
-        "coreSize" : 152640,
-        "downloadCount" : 4,
-        "impressionCount" : 1188,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 61,
-        "watcherCount" : 0
-      },
-      "subtitle" : "무궁화 꽃이 피었습니다",
-      "version" : "0.0.12",
-      "versionDate" : "2022-02-02T00:00:00Z",
-      "versionDescription" : "Release 0.0.12"
     },
     {
       "beta" : true,
@@ -1210,47 +1091,43 @@
       "versionDescription" : "Release 0.0.7"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "beta" : true,
+      "bundleIdentifier" : "app.Red-Light-Green-Light",
       "categories" : [
 
       ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo-macOS.zip",
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
+      "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light.png",
+      "localizedDescription" : "무궁화 꽃이 피었습니다",
+      "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Red Light Green Light",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_06-mac-1656x1560.png"
+        "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/screenshot_01-mac-dark-2024x1124.png",
+        "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/screenshot_01-mac-light-2024x1124.png"
       ],
-      "sha256" : "7f01dd9fee8692c05c38c6a6aa45018942619d11b76b6db179281846a2306715",
-      "size" : 2192555,
+      "sha256" : "9074f553a7b0f8817aa76aa7cd302bb62af52c9fbca7ced06805ddfeab0526d6",
+      "size" : 2448634,
       "stats" : {
-        "coreSize" : 170144,
+        "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 23,
+        "impressionCount" : 1188,
         "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 4,
+        "starCount" : 0,
+        "viewCount" : 61,
         "watcherCount" : 0
       },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.223",
-      "versionDate" : "2022-08-18T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.222...0.9.223"
+      "subtitle" : "무궁화 꽃이 피었습니다",
+      "version" : "0.0.12",
+      "versionDate" : "2022-02-02T00:00:00Z",
+      "versionDescription" : "Release 0.0.12"
     },
     {
       "beta" : false,
@@ -1289,7 +1166,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 104,
+        "impressionCount" : 105,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -1300,6 +1177,129 @@
       "version" : "0.3.48",
       "versionDate" : "2022-08-15T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.47...0.3.48"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Ultra-Light",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
+      "localizedDescription" : "A bit of lite reading",
+      "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Ultra Light",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Ultra-Light/App/releases/download/0.0.7/screenshot_01-mac-dark-mac-1938x482.png",
+        "https://github.com/Ultra-Light/App/releases/download/0.0.7/screenshot_02-mac-dark-mac-478x1226.png",
+        "https://github.com/Ultra-Light/App/releases/download/0.0.7/screenshot_01-mac-light-mac-1938x482.png",
+        "https://github.com/Ultra-Light/App/releases/download/0.0.7/screenshot_02-mac-light-mac-478x1226.png"
+      ],
+      "sha256" : "633d678f1dcf6a960ecab0ecff581f2ceb6c1e191e2b7bfea5ba67b4173cdcb1",
+      "size" : 2271510,
+      "stats" : {
+        "coreSize" : 68360,
+        "downloadCount" : 4,
+        "impressionCount" : 687,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 62,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A bit of lite reading",
+      "version" : "0.0.7",
+      "versionDate" : "2022-01-21T00:00:00Z",
+      "versionDescription" : "Release 0.0.7"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Yankee-Swap",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
+      "localizedDescription" : "Old-time horse trading",
+      "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Yankee Swap",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Yankee-Swap/App/releases/download/0.0.11/screenshot_01-mac-dark-mac-924x1384.png"
+      ],
+      "sha256" : "939c72e726019d26d6d225dd5a6d3d099a7aa662e65b82ff91ce268acb5e40a7",
+      "size" : 2378046,
+      "stats" : {
+        "coreSize" : 68360,
+        "downloadCount" : 4,
+        "impressionCount" : 1904,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 43,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Old-time horse trading",
+      "tintColor" : "3C82C1",
+      "version" : "0.0.11",
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.11"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "7f01dd9fee8692c05c38c6a6aa45018942619d11b76b6db179281846a2306715",
+      "size" : 2192555,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 4,
+        "impressionCount" : 24,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 4,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.223",
+      "versionDate" : "2022-08-18T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.222...0.9.223"
     },
     {
       "beta" : true,
@@ -1404,6 +1404,45 @@
       "versionDescription" : "Release 0.0.51"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Main-Course",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
+      "localizedDescription" : "An offline recipe book",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Main Course",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
+      "screenshotURLs" : [
+        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-dark-mac-984x842.png",
+        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-light-mac-984x842.png"
+      ],
+      "sha256" : "926fde94d13f0a780767f29d4fce37592d73c03cf2b5b58fc4b9ae9c66e127aa",
+      "size" : 12898573,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 3,
+        "impressionCount" : 2610,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 136,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An offline recipe book",
+      "version" : "0.0.16",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "categories" : [
@@ -1437,45 +1476,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Main-Course",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
-      "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Main Course",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
-      "screenshotURLs" : [
-        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-dark-mac-984x842.png",
-        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-light-mac-984x842.png"
-      ],
-      "sha256" : "926fde94d13f0a780767f29d4fce37592d73c03cf2b5b58fc4b9ae9c66e127aa",
-      "size" : 12898573,
-      "stats" : {
-        "coreSize" : 102392,
-        "downloadCount" : 3,
-        "impressionCount" : 2609,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 136,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An offline recipe book",
-      "version" : "0.0.16",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
       "beta" : true,

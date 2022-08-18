@@ -25,8 +25,8 @@
       "sha256" : "af1f384ba44767f6416fa23b9149329e491f9c151ca3c8bc75e7c61a8faf1306",
       "stats" : {
         "downloadCount" : 2740,
-        "impressionCount" : 9579,
-        "viewCount" : 1011
+        "impressionCount" : 9580,
+        "viewCount" : 1012
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -179,8 +179,8 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6536,
-        "impressionCount" : 7725,
-        "viewCount" : 506
+        "impressionCount" : 7728,
+        "viewCount" : 509
       },
       "subtitle" : "Voice and text chat software",
       "tintColor" : "8E95EF",
@@ -891,8 +891,8 @@
       "sha256" : "ea66fe55fe65ffb181c1524442c82d7572d06614096224262e77c4d1f3c910c8",
       "stats" : {
         "downloadCount" : 6383,
-        "impressionCount" : 4479,
-        "viewCount" : 435
+        "impressionCount" : 4481,
+        "viewCount" : 437
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
@@ -1470,8 +1470,8 @@
       "sha256" : "8f39c5183f9454b0d226a3c6544fe5d390b3a1d04dc16ecec9b37ba9d4927024",
       "stats" : {
         "downloadCount" : 2236,
-        "impressionCount" : 3503,
-        "viewCount" : 372
+        "impressionCount" : 3504,
+        "viewCount" : 373
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
@@ -1493,8 +1493,8 @@
       "sha256" : "7f29732f3508cb0ce4c5859b0ecc32e6fa2f2fdb54ab25a66865fbe78c50a0b7",
       "stats" : {
         "downloadCount" : 2060,
-        "impressionCount" : 3654,
-        "viewCount" : 173
+        "impressionCount" : 3656,
+        "viewCount" : 175
       },
       "subtitle" : "E-books management software",
       "tintColor" : "75706B",
@@ -2104,7 +2104,7 @@
       "sha256" : "ae237598c01f44d114408c4d12a554f0bb4ec389fbebb5569731b1ea0020fcdf",
       "stats" : {
         "downloadCount" : 503,
-        "impressionCount" : 3851
+        "impressionCount" : 3853
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -4998,7 +4998,7 @@
       "sha256" : "e2e2908e771907b6470f9d1cebef9333a17772912b8a9456bda6c4d9f3e7f30c",
       "stats" : {
         "downloadCount" : 543,
-        "impressionCount" : 643
+        "impressionCount" : 644
       },
       "subtitle" : "Native desktop app for Messenger (formerly Facebook Messenger)",
       "tintColor" : "D3B0EE",
@@ -20034,7 +20034,7 @@
       "sha256" : "c1d6272d4d95cec254b512efd17b43b72826eee9d1302c4076f56063aec6c479",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 282
+        "impressionCount" : 284
       },
       "subtitle" : "Markdown writing, note taking, and static blog generator app",
       "tintColor" : "75737B",
@@ -72254,7 +72254,7 @@
       },
       "subtitle" : "Create living prototypes with code components",
       "version" : "0.9.1",
-      "versionDate" : "2022-08-18T01:13:48Z"
+      "versionDate" : "2022-08-18T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72359,7 +72359,7 @@
       },
       "subtitle" : "Monitor your Stripe and Paypal accounts from your menubar",
       "version" : "3.6.2",
-      "versionDate" : "2022-08-18T01:13:48Z"
+      "versionDate" : "2022-08-18T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72377,7 +72377,7 @@
       },
       "subtitle" : "Light wallet for the NEO blockchain",
       "version" : "2.12.11",
-      "versionDate" : "2022-08-18T01:13:48Z"
+      "versionDate" : "2022-08-18T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72829,7 +72829,7 @@
       },
       "subtitle" : "Software development tools",
       "version" : "2020.2.899,16768",
-      "versionDate" : "2022-08-18T01:13:48Z"
+      "versionDate" : "2022-08-18T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73520,7 +73520,7 @@
       },
       "subtitle" : "File synchronization and backup software",
       "version" : "9.47w",
-      "versionDate" : "2022-08-18T01:13:48Z"
+      "versionDate" : "2022-08-18T00:00:00Z"
     },
     {
       "beta" : false,

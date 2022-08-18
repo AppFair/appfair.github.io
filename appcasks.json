@@ -21976,7 +21976,7 @@
       "sha256" : "05a738a786e8a6119331de4dec8fa1fda98ea47bb4a9702950a15453a3ca26dd",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 141
+        "impressionCount" : 142
       },
       "subtitle" : "MySQL & MariaDB database client",
       "tintColor" : "C48823",
@@ -23871,7 +23871,7 @@
       "sha256" : "b110481cc0aa30db62cdcf1f3eb445a1da5bf2080b51f73190829665ae6511dd",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 127
+        "impressionCount" : 128
       },
       "tintColor" : "F09671",
       "version" : "1.0.0"

@@ -1068,7 +1068,7 @@ tr:nth-child(even) {
 | [``Shapr3D``](https://www.shapr3d.com/) | ``5.192.0.3827`` | `14` | `2022-08-16T00:00:00Z` |  | `511` |  |  | `0` | `public.app-category.graphics-design` |
 | [``Sim Daltonism``](https://michelf.ca/projects/mac/sim-daltonism/) | ``2.0.5`` | `14` |  |  | `503` |  |  | `0` | `public.app-category.graphics-design` |
 | [``3D Slicer``](https://www.slicer.org/) | ``5.0.3,62cc8ff3aa08d161a3…`` | `14` | `2022-07-12T00:00:00Z` |  | `264` |  |  | `0` | `public.app-category.utilities` |
-| [``SQLPro for MySQL``](https://www.mysqlui.com/) | ``2022.15`` | `14` |  |  | `141` |  |  | `0` | `public.app-category.developer-tools` |
+| [``SQLPro for MySQL``](https://www.mysqlui.com/) | ``2022.15`` | `14` |  |  | `142` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Colorpicker``](https://colorpicker.fr/) | ``2.1.0`` | `14` |  |  | `601` |  |  | `0` | `public.app-category.graphics-design` |
 | [``TOPCAT``](http://www.star.bris.ac.uk/~mbt/topcat/) | ``4.8-6`` | `14` | `2022-07-10T00:00:00Z` |  | `506` |  |  | `0` | `public.app-category.education` |
 | [``X-Mirage``](https://www.x-mirage.com/x-mirage/) | ``3.0.2`` | `14` |  |  | `106` |  |  | `0` | `public.app-category.utilities` |
@@ -1163,7 +1163,7 @@ tr:nth-child(even) {
 | [``Pokemon Trading Card Gam…``](https://www.pokemon.com/us/pokemon-tcg/play-online/) | ``2.89.0.5595`` | `11` |  |  | `584` |  |  | `0` | `public.app-category.games` |
 | [``SlidePilot``](https://slidepilotapp.com/en) | ``1.8.0`` | `11` |  |  | `182` |  |  | `0` | `public.app-category.productivity` |
 | [``Strawberry Wallpaper``](https://aitexiaoy.github.io/Strawberry-Wallpaper/) | ``1.4.2`` | `11` |  |  | `169` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Sunsama``](https://app.sunsama.com/desktop) | ``1.0.0`` | `11` |  |  | `127` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Sunsama``](https://app.sunsama.com/desktop) | ``1.0.0`` | `11` |  |  | `128` |  |  | `0` | `public.app-category.developer-tools` |
 | [``wolai for mac``](https://www.wolai.com/) | ``1.2.3`` | `11` |  |  | `126` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Prowlarr``](https://prowlarr.com/) | ``0.4.4.1947`` | `11` | `2022-08-16T00:00:00Z` |  | `713` |  |  | `0` | `public.app-category.entertainment` |
 | [``Algodoo``](https://www.algodoo.com/) | ``2.1.3`` | `10` |  |  | `846` |  |  | `0` | `public.app-category.entertainment` |

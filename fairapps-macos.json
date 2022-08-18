@@ -62,8 +62,8 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 451,
-        "impressionCount" : 181,
+        "downloadCount" : 454,
+        "impressionCount" : 182,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 35,
@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4184,
+        "impressionCount" : 4185,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 678,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1394,
+        "impressionCount" : 1395,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 97,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2755,
+        "impressionCount" : 2756,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 200,
@@ -251,7 +251,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3127,
+        "impressionCount" : 3128,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 538,
@@ -373,7 +373,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4254,
+        "impressionCount" : 4255,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 557,
@@ -419,8 +419,8 @@
       "size" : 9538499,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 12,
-        "impressionCount" : 65,
+        "downloadCount" : 13,
+        "impressionCount" : 66,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 10,
@@ -533,7 +533,7 @@
       "size" : 9609400,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 9,
+        "downloadCount" : 10,
         "impressionCount" : 1,
         "issueCount" : 6,
         "starCount" : 28,
@@ -977,6 +977,49 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "9edb6ff6fd30a63cd98b727487e6631e633c80c35bd0cef312768d38a9d17f49",
+      "size" : 2192559,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 5,
+        "impressionCount" : 8,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.221",
+      "versionDate" : "2022-08-18T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.220...0.9.221"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
 
@@ -1006,7 +1049,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2605,
+        "impressionCount" : 2606,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 165,
@@ -1051,49 +1094,6 @@
       "version" : "0.0.1",
       "versionDate" : "2022-07-04T00:00:00Z",
       "versionDescription" : ""
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.221/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "9edb6ff6fd30a63cd98b727487e6631e633c80c35bd0cef312768d38a9d17f49",
-      "size" : 2192559,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 4,
-        "impressionCount" : 7,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.221",
-      "versionDate" : "2022-08-18T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.220...0.9.221"
     },
     {
       "beta" : true,
@@ -1466,7 +1466,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 72,
+        "impressionCount" : 73,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 11,
@@ -1541,7 +1541,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2554,
+        "impressionCount" : 2555,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 136,

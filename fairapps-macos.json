@@ -62,7 +62,7 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 441,
+        "downloadCount" : 443,
         "impressionCount" : 176,
         "issueCount" : 6,
         "starCount" : 28,
@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4179,
+        "impressionCount" : 4180,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 677,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1387,
+        "impressionCount" : 1388,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 96,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2748,
+        "impressionCount" : 2749,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 200,
@@ -251,7 +251,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3122,
+        "impressionCount" : 3123,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 537,
@@ -373,7 +373,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4249,
+        "impressionCount" : 4250,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 556,
@@ -383,45 +383,6 @@
       "version" : "0.0.42",
       "versionDate" : "2022-05-26T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Down-Town",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "localizedDescription" : "An urban street guide",
-      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Down Town",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
-      "screenshotURLs" : [
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
-      ],
-      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
-      "size" : 2338254,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 11,
-        "impressionCount" : 2150,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 135,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An urban street guide",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-25T00:00:00Z",
-      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : false,
@@ -458,8 +419,8 @@
       "size" : 9538499,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 10,
-        "impressionCount" : 58,
+        "downloadCount" : 11,
+        "impressionCount" : 59,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -501,8 +462,8 @@
       "size" : 2192556,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 10,
-        "impressionCount" : 57,
+        "downloadCount" : 11,
+        "impressionCount" : 58,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 10,
@@ -513,6 +474,45 @@
       "version" : "0.9.220",
       "versionDate" : "2022-08-15T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.219...0.9.220"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Down-Town",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
+      "localizedDescription" : "An urban street guide",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Down Town",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
+      "screenshotURLs" : [
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
+      ],
+      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
+      "size" : 2338254,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 11,
+        "impressionCount" : 2150,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 135,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An urban street guide",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-25T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -551,6 +551,81 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-23T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/App-Fair-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/App-Fair.png",
+      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_00-mac-dark-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_00-mac-light-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_05-mac-light-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_06-mac-dark-1424x1722.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_06-mac-light-1424x1722.png"
+      ],
+      "sha256" : "e39394ff5531aaaf2c8b4d78ab453be5d45e56f7b43946dd790aed7b1ff6c406",
+      "size" : 9609400,
+      "stats" : {
+        "coreSize" : 170672,
+        "downloadCount" : 8,
+        "impressionCount" : 1,
+        "issueCount" : 6,
+        "starCount" : 28,
+        "viewCount" : 1,
+        "watcherCount" : 3
+      },
+      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "tintColor" : "1594E8",
+      "version" : "0.8.105",
+      "versionDate" : "2022-08-16T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.104...0.8.105"
     },
     {
       "beta" : true,
@@ -675,81 +750,6 @@
       "version" : "0.0.6",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.0.6"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/App-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/App-Fair.png",
-      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.executable",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.server",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.105/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_00-mac-dark-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_00-mac-light-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_06-mac-dark-1424x1722.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.105/screenshot_06-mac-light-1424x1722.png"
-      ],
-      "sha256" : "e39394ff5531aaaf2c8b4d78ab453be5d45e56f7b43946dd790aed7b1ff6c406",
-      "size" : 9609400,
-      "stats" : {
-        "coreSize" : 170672,
-        "downloadCount" : 7,
-        "impressionCount" : 1,
-        "issueCount" : 6,
-        "starCount" : 28,
-        "viewCount" : 1,
-        "watcherCount" : 3
-      },
-      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "tintColor" : "1594E8",
-      "version" : "0.8.105",
-      "versionDate" : "2022-08-16T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.104...0.8.105"
     },
     {
       "beta" : true,
@@ -1049,7 +1049,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2598,
+        "impressionCount" : 2599,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 164,
@@ -1466,7 +1466,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 3,
-        "impressionCount" : 65,
+        "impressionCount" : 66,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 11,
@@ -1541,7 +1541,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2547,
+        "impressionCount" : 2548,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 136,

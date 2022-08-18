@@ -62,8 +62,8 @@
       "size" : 9622732,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 461,
-        "impressionCount" : 193,
+        "downloadCount" : 465,
+        "impressionCount" : 195,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 36,
@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4198,
+        "impressionCount" : 4200,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 680,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1414,
+        "impressionCount" : 1417,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 98,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2797,
+        "impressionCount" : 2804,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 200,
@@ -251,7 +251,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3138,
+        "impressionCount" : 3140,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 539,
@@ -289,7 +289,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 20,
-        "impressionCount" : 2929,
+        "impressionCount" : 2934,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 222,
@@ -324,7 +324,7 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 20,
-        "impressionCount" : 987,
+        "impressionCount" : 989,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 88,
@@ -373,7 +373,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 17,
-        "impressionCount" : 4274,
+        "impressionCount" : 4278,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 558,
@@ -419,11 +419,11 @@
       "size" : 9538499,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 13,
-        "impressionCount" : 109,
+        "downloadCount" : 16,
+        "impressionCount" : 118,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -431,45 +431,6 @@
       "version" : "0.8.454",
       "versionDate" : "2022-08-15T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.453...0.8.454"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Down-Town",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "localizedDescription" : "An urban street guide",
-      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Down Town",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
-      "screenshotURLs" : [
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
-      ],
-      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
-      "size" : 2338254,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 11,
-        "impressionCount" : 2171,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 136,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An urban street guide",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-25T00:00:00Z",
-      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -533,7 +494,7 @@
       "size" : 9609400,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 10,
+        "downloadCount" : 12,
         "impressionCount" : 2,
         "issueCount" : 6,
         "starCount" : 28,
@@ -545,6 +506,45 @@
       "version" : "0.8.105",
       "versionDate" : "2022-08-16T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.104...0.8.105"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Down-Town",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
+      "localizedDescription" : "An urban street guide",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Down Town",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
+      "screenshotURLs" : [
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
+      ],
+      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
+      "size" : 2338254,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 11,
+        "impressionCount" : 2176,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 136,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An urban street guide",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-25T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -573,7 +573,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1952,
+        "impressionCount" : 1956,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 118,
@@ -608,7 +608,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 8,
-        "impressionCount" : 743,
+        "impressionCount" : 745,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -658,7 +658,7 @@
       "stats" : {
         "coreSize" : 152704,
         "downloadCount" : 8,
-        "impressionCount" : 499,
+        "impressionCount" : 501,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -697,7 +697,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
-        "impressionCount" : 570,
+        "impressionCount" : 572,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 69,
@@ -737,7 +737,7 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 7,
-        "impressionCount" : 661,
+        "impressionCount" : 664,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 70,
@@ -775,7 +775,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1498,
+        "impressionCount" : 1503,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 81,
@@ -814,7 +814,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 7,
-        "impressionCount" : 787,
+        "impressionCount" : 789,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -852,7 +852,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1617,
+        "impressionCount" : 1621,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 91,
@@ -887,7 +887,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 7,
-        "impressionCount" : 940,
+        "impressionCount" : 941,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -925,7 +925,7 @@
       "stats" : {
         "coreSize" : 68376,
         "downloadCount" : 7,
-        "impressionCount" : 1698,
+        "impressionCount" : 1700,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 100,
@@ -964,7 +964,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 1564,
+        "impressionCount" : 1567,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 70,
@@ -1006,7 +1006,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2638,
+        "impressionCount" : 2645,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 165,
@@ -1041,7 +1041,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 1185,
+        "impressionCount" : 1186,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 98,
@@ -1051,6 +1051,98 @@
       "version" : "0.0.1",
       "versionDate" : "2022-07-04T00:00:00Z",
       "versionDescription" : ""
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "7f01dd9fee8692c05c38c6a6aa45018942619d11b76b6db179281846a2306715",
+      "size" : 2192555,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 4,
+        "impressionCount" : 11,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.223",
+      "versionDate" : "2022-08-18T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.222...0.9.223"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Stanza-Redux",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Stanza-Redux-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Stanza-Redux.png",
+      "localizedDescription" : "An electronic book reader",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
+      "name" : "Stanza Redux",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to access books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read ebook files"
+        }
+      ],
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "screenshotURLs" : [
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_01-mac-light-2436x2012.png"
+      ],
+      "sha256" : "bf3cbae91610d16b998e7ad2866648af4622a0d3cd3068c45d1bc1dfe579a398",
+      "size" : 3916034,
+      "stats" : {
+        "coreSize" : 102480,
+        "downloadCount" : 4,
+        "impressionCount" : 101,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 12,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An electronic book reader",
+      "tintColor" : "00375C",
+      "version" : "0.3.48",
+      "versionDate" : "2022-08-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.47...0.3.48"
     },
     {
       "beta" : true,
@@ -1079,7 +1171,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1900,
+        "impressionCount" : 1902,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -1121,7 +1213,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 680,
+        "impressionCount" : 683,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 61,
@@ -1160,7 +1252,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 1181,
+        "impressionCount" : 1183,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -1199,7 +1291,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 4,
-        "impressionCount" : 1370,
+        "impressionCount" : 1373,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -1234,7 +1326,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 1053,
+        "impressionCount" : 1054,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 56,
@@ -1273,7 +1365,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 4,
-        "impressionCount" : 1991,
+        "impressionCount" : 1994,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 115,
@@ -1312,7 +1404,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 624,
+        "impressionCount" : 626,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 54,
@@ -1375,7 +1467,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 4,
-        "impressionCount" : 315,
+        "impressionCount" : 316,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -1385,55 +1477,6 @@
       "version" : "0.0.51",
       "versionDate" : "2022-01-16T00:00:00Z",
       "versionDescription" : "Release 0.0.51"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Stanza-Redux",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Stanza-Redux-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Stanza-Redux.png",
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
-      "name" : "Stanza Redux",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read ebook files"
-        }
-      ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
-      "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_01-mac-light-2436x2012.png"
-      ],
-      "sha256" : "bf3cbae91610d16b998e7ad2866648af4622a0d3cd3068c45d1bc1dfe579a398",
-      "size" : 3916034,
-      "stats" : {
-        "coreSize" : 102480,
-        "downloadCount" : 3,
-        "impressionCount" : 96,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 11,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An electronic book reader",
-      "tintColor" : "00375C",
-      "version" : "0.3.48",
-      "versionDate" : "2022-08-15T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.47...0.3.48"
     },
     {
       "beta" : true,
@@ -1459,7 +1502,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 3,
-        "impressionCount" : 627,
+        "impressionCount" : 629,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -1498,7 +1541,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2597,
+        "impressionCount" : 2603,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 136,
@@ -1508,49 +1551,6 @@
       "version" : "0.0.16",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "7f01dd9fee8692c05c38c6a6aa45018942619d11b76b6db179281846a2306715",
-      "size" : 2192555,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 2,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.223",
-      "versionDate" : "2022-08-18T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.222...0.9.223"
     },
     {
       "beta" : true,
@@ -1576,7 +1576,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 596,
+        "impressionCount" : 599,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -1615,7 +1615,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 1000,
+        "impressionCount" : 1004,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,

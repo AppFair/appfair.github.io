@@ -62,11 +62,11 @@
       "size" : 9613696,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 71,
-        "impressionCount" : 16,
+        "downloadCount" : 77,
+        "impressionCount" : 18,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -115,10 +115,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4219,
+        "impressionCount" : 4221,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 684,
+        "viewCount" : 685,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -164,10 +164,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1434,
+        "impressionCount" : 1436,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 102,
+        "viewCount" : 103,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2826,
+        "impressionCount" : 2828,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 204,
@@ -285,10 +285,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3158,
+        "impressionCount" : 3160,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 541,
+        "viewCount" : 542,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -370,10 +370,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 18,
-        "impressionCount" : 142,
+        "impressionCount" : 144,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -614,10 +614,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 7,
-        "impressionCount" : 12,
+        "impressionCount" : 14,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -963,7 +963,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2662,
+        "impressionCount" : 2664,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -1050,7 +1050,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 4,
-        "impressionCount" : 8,
+        "impressionCount" : 9,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -1211,10 +1211,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 118,
+        "impressionCount" : 120,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 15,
+        "viewCount" : 16,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1433,7 +1433,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2620,
+        "impressionCount" : 2622,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 136,

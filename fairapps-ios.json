@@ -33,7 +33,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 120,
-        "impressionCount" : 1431,
+        "impressionCount" : 1433,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 101,
@@ -76,7 +76,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2825,
+        "impressionCount" : 2826,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 204,
@@ -120,7 +120,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2661,
+        "impressionCount" : 2662,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -171,7 +171,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 20,
-        "impressionCount" : 115,
+        "impressionCount" : 117,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 15,
@@ -251,7 +251,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 17,
-        "impressionCount" : 139,
+        "impressionCount" : 141,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -460,7 +460,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2619,
+        "impressionCount" : 2620,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 136,
@@ -500,7 +500,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 7,
-        "impressionCount" : 9,
+        "impressionCount" : 11,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -955,7 +955,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 4,
-        "impressionCount" : 5,
+        "impressionCount" : 7,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -1114,25 +1114,25 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.225/Cloud-Cuckoo-iOS.ipa",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.226/Cloud-Cuckoo-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.225/Cloud-Cuckoo.png",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.226/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.225/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.226/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.225/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.226/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.225/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.225/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.225/screenshot_02-iphone-750x1334.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.226/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.226/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.226/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "e9a6375b4536d8b1ca2c6152e45dc4e2247fa44e859344a3e5e7ef52fa64f4ec",
-      "size" : 5598615,
+      "sha256" : "6ea66e0c5cf36111753e240d3d9c0f2b52bb01cb303d4d76194434d9e988df95",
+      "size" : 5598618,
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
@@ -1144,9 +1144,9 @@
       },
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.225",
+      "version" : "0.9.226",
       "versionDate" : "2022-08-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.224...0.9.225"
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.225...0.9.226"
     }
   ],
   "fundingSources" : [

@@ -324,12 +324,14 @@
       "name" : "Net Skip",
       "permissions" : [
         {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network to load web pages."
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
         },
         {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to write files in order to save downloads."
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
         }
       ],
       "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
@@ -344,7 +346,7 @@
       "sha256" : "93b676dee4a4c71809dfe57966f38ac739902432bc5ab501cd87e36bb45e2ed6",
       "size" : 3687703,
       "stats" : {
-        "coreSize" : 102472,
+        "coreSize" : 170224,
         "downloadCount" : 17,
         "impressionCount" : 4289,
         "issueCount" : 0,
@@ -1476,6 +1478,58 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.43/Net-Skip-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.43/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.43/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.43/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.43/screenshot_01-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.43/screenshot_01-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.43/screenshot_02-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.43/screenshot_02-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.43/screenshot_03-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.43/screenshot_03-mac-light-2528x2010.png"
+      ],
+      "sha256" : "32289a945aa970107c8bd1684137ed60ac089426fe88b07ade59b42d53f0dbea",
+      "size" : 3157597,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.43",
+      "versionDate" : "2022-08-19T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.42...0.0.43"
     },
     {
       "beta" : true,

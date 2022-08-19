@@ -25,7 +25,7 @@
       "sha256" : "0997f557924dbffdc477bc8088b3512776a8382c5eae30e191d0e730012fbbd4",
       "stats" : {
         "downloadCount" : 2738,
-        "impressionCount" : 9640,
+        "impressionCount" : 9641,
         "viewCount" : 1023
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -444,7 +444,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 636,
-        "impressionCount" : 6262,
+        "impressionCount" : 6263,
         "viewCount" : 332
       },
       "subtitle" : "Text editor",
@@ -891,7 +891,7 @@
       "sha256" : "ea66fe55fe65ffb181c1524442c82d7572d06614096224262e77c4d1f3c910c8",
       "stats" : {
         "downloadCount" : 6402,
-        "impressionCount" : 4544,
+        "impressionCount" : 4545,
         "viewCount" : 446
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1006,13 +1006,13 @@
       "sha256" : "fc7e8409f24b5bec4cebf8fd61bbf57069b5acf5eaa69c0db3100b80b26a18fc",
       "stats" : {
         "downloadCount" : 4173,
-        "impressionCount" : 4164,
+        "impressionCount" : 4165,
         "viewCount" : 256
       },
       "subtitle" : "Web browser focusing on privacy",
       "tintColor" : "FCB8A6",
       "version" : "1.42.97.0,142.97",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1188,13 +1188,13 @@
       "sha256" : "d659cf1164bfbbc63836027d5b26b18d701256019121e3ac90d18c2e16a28f0d",
       "stats" : {
         "downloadCount" : 2735,
-        "impressionCount" : 2321,
+        "impressionCount" : 2322,
         "viewCount" : 172
       },
       "subtitle" : "HTTP and GraphQL Client",
       "tintColor" : "9F94D6",
       "version" : "2022.5.1",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1211,8 +1211,8 @@
       "sha256" : "9c1402f8682ecefe84ae9494c65b80da1b763664624a7f6b0104b044b4cb687a",
       "stats" : {
         "downloadCount" : 2647,
-        "impressionCount" : 1941,
-        "viewCount" : 81
+        "impressionCount" : 1942,
+        "viewCount" : 82
       },
       "subtitle" : "IDE for Java development - community edition",
       "tintColor" : "45447F",
@@ -1316,7 +1316,7 @@
       "sha256" : "27b4683c9343333466fb78d0d9d53559179aabc1cc87470aeef20d5ef3efc321",
       "stats" : {
         "downloadCount" : 2495,
-        "impressionCount" : 2711,
+        "impressionCount" : 2712,
         "viewCount" : 135
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1357,7 +1357,7 @@
       "sha256" : "a1a964ab100ff92cbc5ce50c63699199050572474c2b1f34bec84de673d31a7f",
       "stats" : {
         "downloadCount" : 2485,
-        "impressionCount" : 2965,
+        "impressionCount" : 2966,
         "viewCount" : 205
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1379,13 +1379,13 @@
       "sha256" : "8617959678916a95548b59e560bbc709260e435d678cad7a6599caf205431f18",
       "stats" : {
         "downloadCount" : 2383,
-        "impressionCount" : 2205,
-        "viewCount" : 191
+        "impressionCount" : 2206,
+        "viewCount" : 192
       },
       "subtitle" : "Server and cloud storage browser",
       "tintColor" : "F1BC0C",
       "version" : "8.4.3,38269",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1470,13 +1470,13 @@
       "sha256" : "b0548ffaada99a0205a4e2eba002d643c57f532a7504593d7fb0dbf7b858029a",
       "stats" : {
         "downloadCount" : 2224,
-        "impressionCount" : 3563,
-        "viewCount" : 376
+        "impressionCount" : 3564,
+        "viewCount" : 377
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
       "version" : "1.70.1.22229",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1854,7 +1854,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 927,
-        "impressionCount" : 3235,
+        "impressionCount" : 3236,
         "viewCount" : 284
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -2009,7 +2009,7 @@
       "sha256" : "7b41200f63ab17ff92b8e1ea4c313e5fbca3acb55a271ff052b1275476d38483",
       "stats" : {
         "downloadCount" : 577,
-        "impressionCount" : 2512,
+        "impressionCount" : 2513,
         "viewCount" : 116
       },
       "subtitle" : "Home media player",
@@ -2194,8 +2194,8 @@
       "sha256" : "ba2a8fcf9a1f080ca6b2ef832b13104c440077b9e6a2bb6e26bc97bdea373208",
       "stats" : {
         "downloadCount" : 403,
-        "impressionCount" : 1632,
-        "viewCount" : 74
+        "impressionCount" : 1633,
+        "viewCount" : 75
       },
       "subtitle" : "C and C++ IDE",
       "tintColor" : "26776A",
@@ -2483,8 +2483,8 @@
       "sha256" : "9299863331d720b70519d2bf131240170fd97a866e5de2b7f6fdeae9d841d4a9",
       "stats" : {
         "downloadCount" : 155,
-        "impressionCount" : 1713,
-        "viewCount" : 108
+        "impressionCount" : 1714,
+        "viewCount" : 109
       },
       "subtitle" : "Tool for using an iPad as a second display",
       "tintColor" : "EBF1F7",
@@ -2640,13 +2640,13 @@
       "sha256" : "6cabb7acd3b98adc4f4d9cf749cf2f3c4c2379c802862634a77fd91c6ca901c2",
       "stats" : {
         "downloadCount" : 81,
-        "impressionCount" : 1393,
-        "viewCount" : 94
+        "impressionCount" : 1394,
+        "viewCount" : 95
       },
       "subtitle" : "Flexible software sketchbook and a language for learning how to code",
       "tintColor" : "434648",
       "version" : "4.0.1,1286",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2687,8 +2687,8 @@
       "sha256" : "a0a62cb7fb04390c12403bdc38186fc6e24f39b5a0456de582b6006f36b0e27e",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 1463,
-        "viewCount" : 69
+        "impressionCount" : 1464,
+        "viewCount" : 70
       },
       "subtitle" : "Binary newsreader",
       "tintColor" : "B09447",
@@ -3006,12 +3006,12 @@
       "sha256" : "0604e7680372fec22897ce985584117ee68ce9abf0ef1e95e3112c2ddeedc8dd",
       "stats" : {
         "downloadCount" : 33156,
-        "impressionCount" : 1259
+        "impressionCount" : 1260
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
       "version" : "1.70.2",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3131,7 +3131,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6179,
-        "impressionCount" : 1062
+        "impressionCount" : 1063
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3261,7 +3261,7 @@
       "sha256" : "81d13ce362bf34ab2320fdeef22a4b97176f726cfb7ed00e5999b9ed289c11b4",
       "stats" : {
         "downloadCount" : 3282,
-        "impressionCount" : 1528
+        "impressionCount" : 1529
       },
       "subtitle" : "Standalone app for debugging React Native apps",
       "tintColor" : "8F8F8F",
@@ -3712,12 +3712,12 @@
       "sha256" : "8c2b322cab74cbf52dbe33e0fd9be63fe320d1ade2446790c4eec7309b590eea",
       "stats" : {
         "downloadCount" : 1475,
-        "impressionCount" : 576
+        "impressionCount" : 577
       },
       "subtitle" : "IDE for Python programming - Community Edition",
       "tintColor" : "6D8A2D",
       "version" : "2022.2.1,222.3739.56",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4106,7 +4106,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 963,
-        "impressionCount" : 1432
+        "impressionCount" : 1433
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -4415,7 +4415,7 @@
       "sha256" : "7d57692ce83dd6c853c80c457bdb8239dd833cf5535c600154a7ebc0be18a05d",
       "stats" : {
         "downloadCount" : 794,
-        "impressionCount" : 530
+        "impressionCount" : 531
       },
       "subtitle" : "JavaScript IDE",
       "tintColor" : "2E7991",
@@ -4519,7 +4519,7 @@
       "sha256" : "dc71b6102591f5a89a8dec478dcfea3be00f7cd9357e23b6ea8bbec5668bd953",
       "stats" : {
         "downloadCount" : 721,
-        "impressionCount" : 788
+        "impressionCount" : 789
       },
       "subtitle" : "App for note taking, organizing, task lists, and archiving",
       "tintColor" : "A2DFB2",
@@ -4571,7 +4571,7 @@
       "sha256" : "bc1a73b9cb4b4d316fa11572f43383f0f02fc7e6ba88bbed046cc1b074336862",
       "stats" : {
         "downloadCount" : 695,
-        "impressionCount" : 1478
+        "impressionCount" : 1479
       },
       "subtitle" : "Clipboard manager for developers",
       "tintColor" : "B72B32",
@@ -4597,7 +4597,7 @@
       "sha256" : "29f59ee297fe89aa31fca3624101d6f17d98872e2c4141d39e9f9ce83989a8e9",
       "stats" : {
         "downloadCount" : 676,
-        "impressionCount" : 1619
+        "impressionCount" : 1620
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -4618,7 +4618,7 @@
       "sha256" : "647d98f1db9c2b1c2e228b476bd668c12ab0b7b4060608bbaf5e73b7178548e4",
       "stats" : {
         "downloadCount" : 665,
-        "impressionCount" : 672
+        "impressionCount" : 673
       },
       "subtitle" : "Family of tools to build, test and package software",
       "tintColor" : "5A5C5C",
@@ -4697,7 +4697,7 @@
       "sha256" : "ba9cc863c2247e6404b015fac085e8b3427b29aba3d7cb07940840f7c5e3b647",
       "stats" : {
         "downloadCount" : 627,
-        "impressionCount" : 488
+        "impressionCount" : 489
       },
       "subtitle" : "PHP IDE by JetBrains",
       "tintColor" : "763E8E",
@@ -5023,7 +5023,7 @@
       "sha256" : "7315136efa45f2733eae29190608aef4513f0e304d0137efc68e846e80303a21",
       "stats" : {
         "downloadCount" : 539,
-        "impressionCount" : 674
+        "impressionCount" : 675
       },
       "subtitle" : "Native desktop app for Messenger (formerly Facebook Messenger)",
       "tintColor" : "D3B0EE",
@@ -5148,12 +5148,12 @@
       "sha256" : "e850b6b29c61ff333f3bc5c562c0272b586e922d0d7934400baff0788bd9521e",
       "stats" : {
         "downloadCount" : 492,
-        "impressionCount" : 499
+        "impressionCount" : 500
       },
       "subtitle" : "VPN client focusing on security",
       "tintColor" : "65B973",
       "version" : "3.0.2",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5203,7 +5203,7 @@
       "sha256" : "50bb016602e8e792a8a6b53053a4ec4129ca89926a44fc1ac898f3d11102aada",
       "stats" : {
         "downloadCount" : 485,
-        "impressionCount" : 1403
+        "impressionCount" : 1404
       },
       "subtitle" : "Utility to extend trackpad functionality",
       "tintColor" : "000000",
@@ -5291,7 +5291,7 @@
       "sha256" : "f55fbec0b5479bd2dffdcce047410ea4c29577795ad638937e1e24332309bce7",
       "stats" : {
         "downloadCount" : 453,
-        "impressionCount" : 1447
+        "impressionCount" : 1448
       },
       "subtitle" : "Shows the next meeting in the menu bar",
       "tintColor" : "47484B",
@@ -5446,7 +5446,7 @@
       "sha256" : "09b036f1e934472d55a0417e2a3ce736559caf81a38537c94ab2c6331f258851",
       "stats" : {
         "downloadCount" : 417,
-        "impressionCount" : 1399
+        "impressionCount" : 1400
       },
       "subtitle" : "Status monitoring",
       "tintColor" : "454545",
@@ -5497,7 +5497,7 @@
       "sha256" : "1d940ebd00e52e21435fcbe3b03829d21674bb9d956e6dc9e93f7a9be799f54f",
       "stats" : {
         "downloadCount" : 407,
-        "impressionCount" : 1716
+        "impressionCount" : 1717
       },
       "subtitle" : "Open-source browser prompter",
       "tintColor" : "364A62",
@@ -5713,7 +5713,7 @@
       "sha256" : "5e6545f36d07d70c03f78d89c6f377e5f398aee89f9086c20f445b25dc49ad19",
       "stats" : {
         "downloadCount" : 376,
-        "impressionCount" : 794
+        "impressionCount" : 795
       },
       "subtitle" : "Free and open-source painting and sketching program",
       "tintColor" : "9A8AB2",
@@ -5859,7 +5859,7 @@
       "sha256" : "b0265c0448865e79248cfda16062fc0a4a1a4422893ce0c7e56849e84d5dbf57",
       "stats" : {
         "downloadCount" : 338,
-        "impressionCount" : 598
+        "impressionCount" : 599
       },
       "subtitle" : "Adaptive brightness for external displays",
       "tintColor" : "F4E2B6",
@@ -6082,12 +6082,12 @@
       "sha256" : "8cc24364563f3c6f73dead091708fccc9ca74b17f0fc048e007880ad495aaba3",
       "stats" : {
         "downloadCount" : 292,
-        "impressionCount" : 486
+        "impressionCount" : 487
       },
       "subtitle" : "Cloud credentials manager",
       "tintColor" : "2A2F50",
       "version" : "0.14.0",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6550,7 +6550,7 @@
       "sha256" : "7424c02088ca9f09e69acf276305f7f2007b9f5b3500ae4d4c5feadf01183047",
       "stats" : {
         "downloadCount" : 227,
-        "impressionCount" : 390
+        "impressionCount" : 391
       },
       "subtitle" : "VPN and WiFi proxy",
       "tintColor" : "D0DDF9",
@@ -6979,12 +6979,12 @@
       "sha256" : "be20ef6533fd5aa8b58ea6fb7c296d1aa31a1d52677fcd7982bdf4cae521fce6",
       "stats" : {
         "downloadCount" : 185,
-        "impressionCount" : 908
+        "impressionCount" : 909
       },
       "subtitle" : "Downloads videos from different websites",
       "tintColor" : "A676DB",
       "version" : "4.5.8,4440",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7081,7 +7081,7 @@
       "sha256" : "a063405f45915762aff1e389dc2801321ef0e3315e4dcf5d45e247b6952025cf",
       "stats" : {
         "downloadCount" : 179,
-        "impressionCount" : 744
+        "impressionCount" : 745
       },
       "subtitle" : "Productivity app",
       "tintColor" : "909EE2",
@@ -7102,7 +7102,7 @@
       "sha256" : "6fd3ab4152a609e4923af5776ef8d2c3fb1d1842616706ac3acd1e78fc2cb2a9",
       "stats" : {
         "downloadCount" : 179,
-        "impressionCount" : 701
+        "impressionCount" : 702
       },
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
@@ -10144,7 +10144,7 @@
       "subtitle" : "Mounts servers and cloud storages as a disk on the desktop",
       "tintColor" : "E3CE82",
       "version" : "4.12.2,20039",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11271,7 +11271,7 @@
       "subtitle" : "Elegant Facebook Messenger desktop app",
       "tintColor" : "9EC2F5",
       "version" : "2.56.0",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12541,7 +12541,7 @@
       "subtitle" : "Create, edit, convert and sign PDF documents",
       "tintColor" : "767A9A",
       "version" : "9.0.9",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12823,7 +12823,7 @@
       "subtitle" : "Automation tool",
       "tintColor" : "8FA968",
       "version" : "1.4.10,163",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13391,7 +13391,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "333744",
       "version" : "0.25.1.1",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14621,7 +14621,7 @@
       "subtitle" : "Issue reader for GitHub",
       "tintColor" : "DD638E",
       "version" : "1.1.1",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21137,7 +21137,7 @@
       "subtitle" : "Deck tracker and deck manager for Hearthstone",
       "tintColor" : "34ACFD",
       "version" : "2.2.3",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21337,7 +21337,7 @@
       "subtitle" : "Doing phonetics by computer",
       "tintColor" : "DC788D",
       "version" : "6.2.16",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22623,7 +22623,7 @@
       "subtitle" : "Download programmes from the BBC iPlayer website",
       "tintColor" : "28192C",
       "version" : "2.13.9",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27812,7 +27812,7 @@
       "subtitle" : "Helps to organize important files in one place",
       "tintColor" : "3D8BE4",
       "version" : "5.3.31,hp9MThmBTRy0r4bUKpbw",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28694,7 +28694,7 @@
       "subtitle" : "Messenger with powerful features for hybrid work",
       "tintColor" : "EDBBA4",
       "version" : "1.0.17,1754",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29366,7 +29366,7 @@
       "subtitle" : "Personal assistant and productivity tool for Apple Mail",
       "tintColor" : "99C6B7",
       "version" : "5517,2434328",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30099,7 +30099,7 @@
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
       "version" : "0.186.1",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33588,7 +33588,7 @@
       "subtitle" : "General-purpose text editor",
       "tintColor" : "CB8761",
       "version" : "13.2.3,13230",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35232,7 +35232,7 @@
       "subtitle" : "Manage all your tasks, files, and notes",
       "tintColor" : "47535E",
       "version" : "10,20220817",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36353,7 +36353,7 @@
       "subtitle" : "Screen recorder",
       "tintColor" : "2FB29A",
       "version" : "0.36.4",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40626,7 +40626,7 @@
       "subtitle" : "Programming language for technical computing",
       "tintColor" : "886459",
       "version" : "1.8.0",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41435,7 +41435,7 @@
       "subtitle" : "Home media server",
       "tintColor" : "4C3718",
       "version" : "1.28.1.6104,788f82488",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42713,7 +42713,7 @@
       "subtitle" : "Download accelerator and organizer",
       "tintColor" : "5FC2D4",
       "version" : "6.17.0",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43025,7 +43025,7 @@
       "subtitle" : "Digital audio production application",
       "tintColor" : "849670",
       "version" : "6.66",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43685,7 +43685,7 @@
       "subtitle" : "Create experiments in behavioral science",
       "tintColor" : "8F8F8F",
       "version" : "2022.2.4",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44134,7 +44134,7 @@
       "subtitle" : "Open source intelligence and graphical link analysis tool",
       "tintColor" : "9DA29F",
       "version" : "4.3.1",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50858,7 +50858,7 @@
       "subtitle" : "XMPP client designed for experienced users",
       "tintColor" : "956FAE",
       "version" : "1.5.1639",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51176,7 +51176,7 @@
       "subtitle" : "Game engine for development of desktop, mobile and web games",
       "tintColor" : "8AB0C8",
       "version" : "1.3.5",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53198,7 +53198,7 @@
       "sha256" : "8cf88ee2fb47b8ea7c0850969874772d1090cefb364e40e7d83e9f63d11c1487",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 69
+        "impressionCount" : 70
       },
       "subtitle" : "Database IDE with data management and visual analytics",
       "tintColor" : "A7D3EB",
@@ -53502,7 +53502,7 @@
       "subtitle" : "Personal booru-style media tagger to organize your media",
       "tintColor" : "000000",
       "version" : "496",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60115,7 +60115,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.13,20220818103108",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62408,7 +62408,7 @@
       },
       "subtitle" : "CLI HTTP and GraphQL Client",
       "version" : "3.5.0",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64522,7 +64522,7 @@
       },
       "subtitle" : "DNG file converter",
       "version" : "14.5",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69579,7 +69579,7 @@
       },
       "subtitle" : "iOS target support for Unity",
       "version" : "2022.1.13f1,22856944e6d2",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -70210,7 +70210,7 @@
       },
       "subtitle" : "Android target support for Unity",
       "version" : "2022.1.13f1,22856944e6d2",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -71207,7 +71207,7 @@
       },
       "subtitle" : "Windows (Mono) target support for Unity",
       "version" : "2022.1.13f1,22856944e6d2",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -71395,7 +71395,7 @@
       },
       "subtitle" : "Dash - Reinventing Cryptocurrency",
       "version" : "18.0.1",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73672,7 +73672,7 @@
       },
       "subtitle" : "WebGL target support for Unity",
       "version" : "2022.1.13f1,22856944e6d2",
-      "versionDate" : "2022-08-19T10:25:11Z"
+      "versionDate" : "2022-08-19T00:00:00Z"
     },
     {
       "beta" : false,

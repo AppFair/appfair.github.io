@@ -29,8 +29,8 @@ tr:nth-child(even) {
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `22` | `2022-05-19T00:00:00Z` | `2.4 MB` | `996` | `90` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `22` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3150` | `540` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `20` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2940` | `223` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.108`` | `19` | `2022-08-18T00:00:00Z` | `9.6 MB` | `6` | `2` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `18` | `2022-08-15T00:00:00Z` | `9.5 MB` | `131` | `17` | `1` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.108`` | `18` | `2022-08-18T00:00:00Z` | `9.6 MB` | `6` | `2` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2181` | `138` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1962` | `120` | `0` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.37β`` | `8` | `2022-01-24T00:00:00Z` | `4.7 MB` | `751` | `41` | `0` | `0` |  |

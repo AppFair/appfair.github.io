@@ -1114,13 +1114,13 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.43/Net-Skip-iOS.ipa",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.43/Net-Skip.png",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip.png",
       "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.43/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
       "name" : "Net Skip",
       "permissions" : [
         {
@@ -1134,12 +1134,12 @@
           "usageDescription" : "This app needs to access the network to load web pages."
         }
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.43/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.43/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.43/screenshot_02-iphone-1170x2532.png"
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_02-iphone-1170x2532.png"
       ],
-      "sha256" : "9c9555258ba195aec634ed007be0b3cd1a45ba6330f7830afbcecfec34849838",
+      "sha256" : "9d890b1ca10eb3dd710880b35123bf5b44e865ec7799cebf9a2f8ce102b98b74",
       "size" : 7542560,
       "stats" : {
         "coreSize" : 170224,
@@ -1151,9 +1151,9 @@
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.43",
+      "version" : "0.0.44",
       "versionDate" : "2022-08-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.42...0.0.43"
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.43...0.0.44"
     }
   ],
   "fundingSources" : [

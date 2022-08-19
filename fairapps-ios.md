@@ -29,7 +29,7 @@ tr:nth-child(even) {
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.48`` | `20` | `2022-08-15T00:00:00Z` | `8.6 MB` | `124` | `17` | `1` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `17` | `2022-01-23T00:00:00Z` | `6 MB` | `2002` | `116` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `17` | `2022-08-15T00:00:00Z` | `17.7 MB` | `147` | `20` | `1` | `0` |  |
-| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `10` | `2022-01-23T00:00:00Z` | `5.9 MB` | `2941` | `223` | `0` | `0` |  |
+| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `10` | `2022-01-23T00:00:00Z` | `5.9 MB` | `2942` | `223` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.8β`` | `9` | `2021-12-06T00:00:00Z` | `5.8 MB` | `364` | `20` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `494` | `9` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1626` | `92` | `0` | `0` |  |

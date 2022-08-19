@@ -23,12 +23,12 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.108`` | `48` | `2022-08-18T00:00:00Z` | `9.6 MB` | `13` | `4` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
-| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `37` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4217` | `684` | `1` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.108`` | `52` | `2022-08-18T00:00:00Z` | `9.6 MB` | `13` | `4` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `37` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4218` | `684` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.37`` | `35` | `2022-07-29T00:00:00Z` | `2.2 MB` | `1430` | `101` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `2824` | `204` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `22` | `2022-05-19T00:00:00Z` | `2.4 MB` | `996` | `90` | `0` | `0` |  |
-| [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `22` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3156` | `541` | `0` | `0` |  |
+| [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `22` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3157` | `541` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.4β`` | `20` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2940` | `223` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `18` | `2022-08-15T00:00:00Z` | `9.5 MB` | `138` | `19` | `1` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2181` | `138` | `0` | `0` |  |
@@ -45,7 +45,7 @@ tr:nth-child(even) {
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.0.32β`` | `7` | `2022-01-24T00:00:00Z` | `2.5 MB` | `1703` | `100` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.17β`` | `6` | `2022-01-24T00:00:00Z` | `2.4 MB` | `1569` | `70` | `0` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `2.7 MB` | `1377` | `62` | `0` | `0` |  |
-| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `5` | `2022-07-20T00:00:00Z` | `3.9 MB` | `2660` | `167` | `0` | `0` |  |
+| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `5` | `2022-07-20T00:00:00Z` | `3.9 MB` | `2661` | `167` | `0` | `0` |  |
 | [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `5` | `2022-07-04T00:00:00Z` | `2 MB` | `1189` | `98` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.44`` | `4` | `2022-08-19T00:00:00Z` | `3.2 MB` | `5` | `2` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.4β`` | `4` | `2022-01-23T00:00:00Z` | `2.4 MB` | `2001` | `115` | `0` | `0` |  |

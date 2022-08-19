@@ -33,7 +33,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 120,
-        "impressionCount" : 1421,
+        "impressionCount" : 1422,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 99,
@@ -76,7 +76,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2816,
+        "impressionCount" : 2817,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 203,
@@ -120,7 +120,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2652,
+        "impressionCount" : 2653,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 165,
@@ -205,8 +205,8 @@
       "size" : 8596976,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 15,
-        "impressionCount" : 105,
+        "downloadCount" : 16,
+        "impressionCount" : 106,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -251,7 +251,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 15,
-        "impressionCount" : 129,
+        "impressionCount" : 130,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 17,
@@ -460,7 +460,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2610,
+        "impressionCount" : 2611,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 136,
@@ -751,7 +751,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 4287,
+        "impressionCount" : 4288,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 560,
@@ -1030,47 +1030,6 @@
       "versionDescription" : "Release 0.0.11"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.223/screenshot_02-iphone-750x1334.png"
-      ],
-      "sha256" : "f13605b621849b2fca39576f353a63e4691f59c275864b3b86df55ded8ee2e12",
-      "size" : 5595912,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 4,
-        "impressionCount" : 24,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 4,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.223",
-      "versionDate" : "2022-08-18T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.222...0.9.223"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Tweet-Storm",
       "categories" : [
@@ -1106,7 +1065,7 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
@@ -1133,7 +1092,7 @@
       "size" : 5598605,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 2,
+        "downloadCount" : 3,
         "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,

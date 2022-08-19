@@ -33,7 +33,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 120,
-        "impressionCount" : 1422,
+        "impressionCount" : 1423,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 99,
@@ -76,7 +76,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2817,
+        "impressionCount" : 2818,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 203,
@@ -120,7 +120,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2653,
+        "impressionCount" : 2654,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 165,
@@ -130,41 +130,6 @@
       "version" : "0.0.90",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Fox-Glove",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
-      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
-      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Fox Glove",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "cb968bf552f4ca502a9e0f2fa2e384094bc63b242b6fbfc015ee2b254a194144",
-      "size" : 6021250,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 17,
-        "impressionCount" : 2001,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 115,
-        "watcherCount" : 0
-      },
-      "subtitle" : "There, I fixed the web for you. You're welcome.",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-23T00:00:00Z",
-      "versionDescription" : "Release 0.0.4"
     },
     {
       "beta" : false,
@@ -205,8 +170,8 @@
       "size" : 8596976,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 16,
-        "impressionCount" : 106,
+        "downloadCount" : 18,
+        "impressionCount" : 107,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -217,6 +182,41 @@
       "version" : "0.3.48",
       "versionDate" : "2022-08-15T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.47...0.3.48"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Fox-Glove",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
+      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
+      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Fox Glove",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "cb968bf552f4ca502a9e0f2fa2e384094bc63b242b6fbfc015ee2b254a194144",
+      "size" : 6021250,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 17,
+        "impressionCount" : 2001,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 115,
+        "watcherCount" : 0
+      },
+      "subtitle" : "There, I fixed the web for you. You're welcome.",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-23T00:00:00Z",
+      "versionDescription" : "Release 0.0.4"
     },
     {
       "beta" : false,
@@ -250,8 +250,8 @@
       "size" : 17680014,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 15,
-        "impressionCount" : 130,
+        "downloadCount" : 17,
+        "impressionCount" : 131,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 17,
@@ -460,7 +460,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2611,
+        "impressionCount" : 2612,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 136,
@@ -647,6 +647,52 @@
       "versionDescription" : "Release 0.0.3"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        },
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.42/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.42/screenshot_02-iphone-1170x2532.png"
+      ],
+      "sha256" : "760e33d15cdbe716249358d209aa922ee47159ecca7452cda15e9b539281dd1a",
+      "size" : 9317222,
+      "stats" : {
+        "coreSize" : 102472,
+        "downloadCount" : 5,
+        "impressionCount" : 4289,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 560,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.42",
+      "versionDate" : "2022-05-26T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
@@ -718,49 +764,44 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip-iOS.ipa",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Cloud-Cuckoo-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
-      "name" : "Net Skip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
       "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        },
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        }
+
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.42/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.42/screenshot_02-iphone-1170x2532.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "760e33d15cdbe716249358d209aa922ee47159ecca7452cda15e9b539281dd1a",
-      "size" : 9317222,
+      "sha256" : "9940ed853512d3aad166e72822e242d924e664be39cb81a8842c44ee5fde0999",
+      "size" : 5598605,
       "stats" : {
-        "coreSize" : 102472,
+        "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 4288,
+        "impressionCount" : 2,
         "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 560,
+        "starCount" : 1,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.42",
-      "versionDate" : "2022-05-26T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42"
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.224",
+      "versionDate" : "2022-08-18T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.223...0.9.224"
     },
     {
       "beta" : true,
@@ -1063,47 +1104,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "9940ed853512d3aad166e72822e242d924e664be39cb81a8842c44ee5fde0999",
-      "size" : 5598605,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 3,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.224",
-      "versionDate" : "2022-08-18T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.223...0.9.224"
     }
   ],
   "fundingSources" : [

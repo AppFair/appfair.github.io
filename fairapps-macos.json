@@ -40,7 +40,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4212,
+        "impressionCount" : 4213,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 682,
@@ -89,7 +89,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1424,
+        "impressionCount" : 1425,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 99,
@@ -100,51 +100,6 @@
       "version" : "0.2.37",
       "versionDate" : "2022-07-29T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.36...0.2.37"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "type" : "com.apple.security.files.user-selected.read-only",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-dark-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-light-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-mac-1864x1392.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_03-mac-2360x1742.png"
-      ],
-      "sha256" : "ed27a56682b188e537f44653c665d84dc3e4ce42ee73bbee723bfa946f624378",
-      "size" : 2118382,
-      "stats" : {
-        "coreSize" : 102376,
-        "downloadCount" : 24,
-        "impressionCount" : 2819,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 203,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.20",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
       "beta" : false,
@@ -208,7 +163,7 @@
       "size" : 9613696,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 23,
+        "downloadCount" : 28,
         "impressionCount" : 7,
         "issueCount" : 6,
         "starCount" : 28,
@@ -220,6 +175,51 @@
       "version" : "0.8.108",
       "versionDate" : "2022-08-18T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.107...0.8.108"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "type" : "com.apple.security.files.user-selected.read-only",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-dark-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-light-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-mac-1864x1392.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_03-mac-2360x1742.png"
+      ],
+      "sha256" : "ed27a56682b188e537f44653c665d84dc3e4ce42ee73bbee723bfa946f624378",
+      "size" : 2118382,
+      "stats" : {
+        "coreSize" : 102376,
+        "downloadCount" : 24,
+        "impressionCount" : 2820,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 203,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.20",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
       "beta" : true,
@@ -285,7 +285,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3151,
+        "impressionCount" : 3152,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 540,
@@ -370,7 +370,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 18,
-        "impressionCount" : 132,
+        "impressionCount" : 133,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 17,
@@ -920,7 +920,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 3,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -963,7 +963,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2655,
+        "impressionCount" : 2656,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 165,
@@ -1159,7 +1159,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 108,
+        "impressionCount" : 109,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -1381,7 +1381,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2613,
+        "impressionCount" : 2614,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 136,

@@ -647,54 +647,6 @@
       "versionDescription" : "Release 0.0.3"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/Info.plist#a33450cc7f2a005d158dbb93a34a63fb6ba757879198704aa44d642056468194",
-      "name" : "Net Skip",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        }
-      ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.42/README.md#d326ba451e5c04096133372568119e6504700b011674410c1255233adf5a72fd",
-      "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.42/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.42/screenshot_02-iphone-1170x2532.png"
-      ],
-      "sha256" : "760e33d15cdbe716249358d209aa922ee47159ecca7452cda15e9b539281dd1a",
-      "size" : 9317222,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 5,
-        "impressionCount" : 4289,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 560,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.42",
-      "versionDate" : "2022-05-26T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.41...0.0.42"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
@@ -1108,7 +1060,7 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
 

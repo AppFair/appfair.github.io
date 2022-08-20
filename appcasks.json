@@ -4067,20 +4067,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://folivora.ai/releases/btt3.837-1984.zip",
+      "downloadURL" : "https://folivora.ai/releases/btt3.838-1985.zip",
       "homepage" : "https://folivora.ai/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bettertouchtool/AppIcon.png",
       "localizedDescription" : "Tool to customize input devices and automate computer systems",
       "name" : "BetterTouchTool",
-      "sha256" : "951d3a75be0ff292ded1911328f9b7f916cc17dfd5d70b14f9739ce428842292",
+      "sha256" : "8818578805bf657b9e67c1ab88b640873530acef0c12c4a437dc44f46835e3c8",
       "stats" : {
         "downloadCount" : 967,
         "impressionCount" : 1235
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
-      "version" : "3.837,1984",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "3.838,1985",
+      "versionDate" : "2022-08-20T23:20:05Z"
     },
     {
       "beta" : false,
@@ -4181,19 +4181,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://itsycal.s3.amazonaws.com/Itsycal-0.13.2.zip",
+      "downloadURL" : "https://itsycal.s3.amazonaws.com/Itsycal-0.13.3.zip",
       "homepage" : "https://www.mowglii.com/itsycal/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-itsycal/AppIcon.png",
       "localizedDescription" : "Menu bar calendar",
       "name" : "Itsycal",
-      "sha256" : "4dc971e5275e5eda8d4c48c5c7cbab3483c5c64ef2873f162aad002524c69c9c",
+      "sha256" : "2cdc6d47a6dcd6231b0911d6ac2305d186a9e78990b2cc55e523d0852778dcec",
       "stats" : {
         "downloadCount" : 877,
         "impressionCount" : 1055
       },
       "subtitle" : "Menu bar calendar",
       "tintColor" : "B9C2D5",
-      "version" : "0.13.2,2203"
+      "version" : "0.13.3,2219",
+      "versionDate" : "2022-08-20T23:20:05Z"
     },
     {
       "beta" : false,
@@ -15622,20 +15623,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.remnote.io/RemNote-1.8.16.dmg",
+      "downloadURL" : "https://download.remnote.io/RemNote-1.8.17.dmg",
       "homepage" : "https://www.remnote.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-remnote/AppIcon.png",
       "localizedDescription" : "Spaced-repetition powered note-taking tool",
       "name" : "RemNote",
-      "sha256" : "e7bf183bf2b82b1e410028002dd65b84c6b809ad9bafc72cefdff87e17900dc2",
+      "sha256" : "6ca0a1a6555e843322f9d27c05c4c1039ea71bef2b15d224cc71a6ee63aa5aa1",
       "stats" : {
         "downloadCount" : 31,
         "impressionCount" : 500
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
-      "version" : "1.8.16",
-      "versionDate" : "2022-08-15T00:00:00Z"
+      "version" : "1.8.17",
+      "versionDate" : "2022-08-20T23:20:05Z"
     },
     {
       "beta" : false,
@@ -26639,20 +26640,20 @@
       "categories" : [
         "public.app-category.finance"
       ],
-      "downloadURL" : "https://s.tigerfintech.com/desktop/cdn/f/TigerTrade_7.17.10_20220727_6EF41C.dmg",
+      "downloadURL" : "https://s.tigerfintech.com/desktop/cdn/f/TigerTrade_7.18.1_7BC556.dmg",
       "homepage" : "https://www.tigerbrokers.com.sg/download/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tiger-trade/AppIcon.png",
       "localizedDescription" : "Trading platform",
       "name" : "Tiger Trade",
-      "sha256" : "74b4d72c342d031752e222c66ef8a3aa503a7b31468bd7d090c02cc85b3c16a7",
+      "sha256" : "1825b2163c4ea3d5ac1a9ed437504afd3272c9bb67bd37a43786648fb089fd52",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 335
       },
       "subtitle" : "Trading platform",
       "tintColor" : "C3AB00",
-      "version" : "7.17.10,20220727,6EF41C",
-      "versionDate" : "2022-07-28T00:00:00Z"
+      "version" : "7.18.1,7BC556",
+      "versionDate" : "2022-08-20T23:20:05Z"
     },
     {
       "beta" : false,
@@ -34558,19 +34559,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/cncjs/cncjs/releases/download/v1.9.26/cncjs-app-1.9.26-macos.x64.dmg",
+      "downloadURL" : "https://github.com/cncjs/cncjs/releases/download/v1.9.27/cncjs-app-1.9.27-macos.x64.dmg",
       "homepage" : "https://cnc.js.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cncjs/AppIcon.png",
       "localizedDescription" : "Interface for CNC milling controllers",
       "name" : "CNSjs",
-      "sha256" : "65978898ce35c5a71c9c4999addf7db6b769022f177d53457ecd6ca032b07798",
+      "sha256" : "60d8d886a57768d6d213d728c63a6ce2833af9efc6c93b1d80a888a56afbf283",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 346
       },
       "subtitle" : "Interface for CNC milling controllers",
       "tintColor" : "B4C4D4",
-      "version" : "1.9.26"
+      "version" : "1.9.27",
+      "versionDate" : "2022-08-20T23:20:05Z"
     },
     {
       "beta" : false,
@@ -54949,19 +54951,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://electroncash.org/downloads/4.2.10/mac/Electron-Cash-4.2.10-macosx.dmg",
+      "downloadURL" : "https://electroncash.org/downloads/4.2.11/mac/Electron-Cash-4.2.11-macosx.dmg",
       "homepage" : "https://electroncash.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electron-cash/AppIcon.png",
       "localizedDescription" : "Thin client for Bitcoin Cash",
       "name" : "Electron Cash",
-      "sha256" : "8490af91914c3d5e9e3f4738f2f3a06e2a2e9963adbb3b9954eb7efd236db291",
+      "sha256" : "e10ee7b1bff75207087c489d1ad868dbc39be292ef6b53daa9b1f1c62d7db4fc",
       "stats" : {
         "downloadCount" : 4,
         "impressionCount" : 55
       },
       "subtitle" : "Thin client for Bitcoin Cash",
       "tintColor" : "3177CC",
-      "version" : "4.2.10"
+      "version" : "4.2.11",
+      "versionDate" : "2022-08-20T23:20:05Z"
     },
     {
       "beta" : false,
@@ -63822,17 +63825,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/ahrm/sioyek/releases/download/v1.4.0/sioyek-release-mac.zip",
+      "downloadURL" : "https://github.com/ahrm/sioyek/releases/download/v1.5.0/sioyek-release-mac.zip",
       "homepage" : "https://sioyek.info/",
       "localizedDescription" : "PDF viewer designed for reading research papers and technical books",
       "name" : "Sioyek",
-      "sha256" : "3049c03c62b02896ef8bf027281168c439f01a341b586a92a286e7449218d56d",
+      "sha256" : "07ea7a1b42a5a3f83fe08c3d6107fab62444675b067d02f1a34ad24697a320a7",
       "stats" : {
         "downloadCount" : 34
       },
       "subtitle" : "PDF viewer designed for reading research papers and technical books",
-      "version" : "1.4.0",
-      "versionDate" : "2022-07-06T00:00:00Z"
+      "version" : "1.5.0",
+      "versionDate" : "2022-08-20T23:20:05Z"
     },
     {
       "beta" : false,
@@ -73825,48 +73828,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "hstracker",
-      "caption" : "Hearthstone Deck Tracker updated from 2.2.2 to 2.2.3",
-      "date" : "2022-08-19T10:25:15Z",
-      "identifier" : "release-hstracker-2.2.3",
-      "title" : "New Release: Hearthstone Deck Tracker 2.2.3"
-    },
-    {
-      "appID" : "praat",
-      "caption" : "Praat updated from 6.2.15 to 6.2.16",
-      "date" : "2022-08-19T10:25:15Z",
-      "identifier" : "release-praat-6.2.16",
-      "title" : "New Release: Praat 6.2.16"
-    },
-    {
-      "appID" : "bbc-iplayer-downloads",
-      "caption" : "BBC iPlayer Downloads updated from 2.13.8 to 2.13.9",
-      "date" : "2022-08-19T10:25:15Z",
-      "identifier" : "release-bbc-iplayer-downloads-2.13.9",
-      "title" : "New Release: BBC iPlayer Downloads 2.13.9"
-    },
-    {
-      "appID" : "tap-forms",
-      "caption" : "Tap Forms 5 updated from 5.3.28,hAchGFVxSO6uWT8Nx60B to 5.3.31,hp9MThmBTRy0r4bUKpbw",
-      "date" : "2022-08-19T10:25:15Z",
-      "identifier" : "release-tap-forms-5.3.31,hp9MThmBTRy0r4bUKpbw",
-      "title" : "New Release: Tap Forms 5 5.3.31,hp9MThmBTRy0r4bUKpbw"
-    },
-    {
-      "appID" : "stork",
-      "caption" : "Stork updated from 1.0.15,1752 to 1.0.17,1754",
-      "date" : "2022-08-19T10:25:16Z",
-      "identifier" : "release-stork-1.0.17,1754",
-      "title" : "New Release: Stork 1.0.17,1754"
-    },
-    {
-      "appID" : "smultron",
-      "caption" : "Smultron updated from 13.2.2,13220 to 13.2.3,13230",
-      "date" : "2022-08-19T10:25:16Z",
-      "identifier" : "release-smultron-13.2.3,13230",
-      "title" : "New Release: Smultron 13.2.3,13230"
-    },
-    {
       "appID" : "pagico",
       "caption" : "Pagico updated from 10,20220810 to 10,20220817",
       "date" : "2022-08-19T10:25:16Z",
@@ -74047,13 +74008,6 @@
       "date" : "2022-08-19T16:28:00Z",
       "identifier" : "release-flipper-0.161.0",
       "title" : "New Release: Facebook Flipper 0.161.0"
-    },
-    {
-      "appID" : "bettertouchtool",
-      "caption" : "BetterTouchTool updated from 3.834,1981 to 3.837,1984",
-      "date" : "2022-08-19T16:28:00Z",
-      "identifier" : "release-bettertouchtool-3.837,1984",
-      "title" : "New Release: BetterTouchTool 3.837,1984"
     },
     {
       "appID" : "burp-suite",
@@ -74523,6 +74477,55 @@
       "date" : "2022-08-20T18:25:23Z",
       "identifier" : "release-sabaki-0.52.1",
       "title" : "New Release: Sabaki 0.52.1"
+    },
+    {
+      "appID" : "bettertouchtool",
+      "caption" : "BetterTouchTool updated from 3.837,1984 to 3.838,1985",
+      "date" : "2022-08-20T23:20:05Z",
+      "identifier" : "release-bettertouchtool-3.838,1985",
+      "title" : "New Release: BetterTouchTool 3.838,1985"
+    },
+    {
+      "appID" : "itsycal",
+      "caption" : "Itsycal updated from 0.13.2,2203 to 0.13.3,2219",
+      "date" : "2022-08-20T23:20:06Z",
+      "identifier" : "release-itsycal-0.13.3,2219",
+      "title" : "New Release: Itsycal 0.13.3,2219"
+    },
+    {
+      "appID" : "remnote",
+      "caption" : "RemNote updated from 1.8.16 to 1.8.17",
+      "date" : "2022-08-20T23:20:06Z",
+      "identifier" : "release-remnote-1.8.17",
+      "title" : "New Release: RemNote 1.8.17"
+    },
+    {
+      "appID" : "tiger-trade",
+      "caption" : "Tiger Trade updated from 7.17.10,20220727,6EF41C to 7.18.1,7BC556",
+      "date" : "2022-08-20T23:20:06Z",
+      "identifier" : "release-tiger-trade-7.18.1,7BC556",
+      "title" : "New Release: Tiger Trade 7.18.1,7BC556"
+    },
+    {
+      "appID" : "cncjs",
+      "caption" : "CNSjs updated from 1.9.26 to 1.9.27",
+      "date" : "2022-08-20T23:20:06Z",
+      "identifier" : "release-cncjs-1.9.27",
+      "title" : "New Release: CNSjs 1.9.27"
+    },
+    {
+      "appID" : "electron-cash",
+      "caption" : "Electron Cash updated from 4.2.10 to 4.2.11",
+      "date" : "2022-08-20T23:20:07Z",
+      "identifier" : "release-electron-cash-4.2.11",
+      "title" : "New Release: Electron Cash 4.2.11"
+    },
+    {
+      "appID" : "sioyek",
+      "caption" : "Sioyek updated from 1.4.0 to 1.5.0",
+      "date" : "2022-08-20T23:20:07Z",
+      "identifier" : "release-sioyek-1.5.0",
+      "title" : "New Release: Sioyek 1.5.0"
     }
   ],
   "platform" : "macos",

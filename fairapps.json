@@ -62,7 +62,7 @@
       "size" : 9613696,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 82,
+        "downloadCount" : 86,
         "impressionCount" : 20,
         "issueCount" : 6,
         "starCount" : 28,
@@ -422,6 +422,49 @@
       "versionDescription" : "Release 0.0.3"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "3f5b370201326a1583073456047f4008d553469011e779edc33164c074514659",
+      "size" : 2193524,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 9,
+        "impressionCount" : 17,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.224",
+      "versionDate" : "2022-08-18T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.223...0.9.224"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Festivus-Pole",
       "categories" : [
@@ -582,49 +625,6 @@
       "version" : "0.0.6",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.0.6"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.224/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "3f5b370201326a1583073456047f4008d553469011e779edc33164c074514659",
-      "size" : 2193524,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 7,
-        "impressionCount" : 17,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.224",
-      "versionDate" : "2022-08-18T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.223...0.9.224"
     },
     {
       "beta" : true,
@@ -855,6 +855,58 @@
       "versionDescription" : "Release 0.0.32"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_01-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_01-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_02-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_02-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_03-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_03-mac-light-2528x2010.png"
+      ],
+      "sha256" : "8b4a28eb110bd0f0b3ae7c07b818cc9052786fafd1f70d61ba999afb3a6cfca9",
+      "size" : 3157591,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 6,
+        "impressionCount" : 10,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.44",
+      "versionDate" : "2022-08-19T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.43...0.0.44"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Media-Res",
       "categories" : [
@@ -1010,56 +1062,47 @@
       "versionDescription" : ""
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip-macOS.zip",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
-      "name" : "Net Skip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
       "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        }
+
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_01-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_01-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_02-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_02-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_03-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_03-mac-light-2528x2010.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "8b4a28eb110bd0f0b3ae7c07b818cc9052786fafd1f70d61ba999afb3a6cfca9",
-      "size" : 3157591,
+      "sha256" : "94785e66f27ae4d85b901ecb96d010ac1d6a0d1347bf9ff29d5a53594d1da688",
+      "size" : 2193511,
       "stats" : {
-        "coreSize" : 170224,
+        "coreSize" : 170144,
         "downloadCount" : 4,
-        "impressionCount" : 10,
+        "impressionCount" : 1,
         "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 3,
+        "starCount" : 1,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.44",
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.227",
       "versionDate" : "2022-08-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.43...0.0.44"
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.226...0.9.227"
     },
     {
       "beta" : true,
@@ -1478,49 +1521,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.227/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "94785e66f27ae4d85b901ecb96d010ac1d6a0d1347bf9ff29d5a53594d1da688",
-      "size" : 2193511,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 2,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.227",
-      "versionDate" : "2022-08-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.226...0.9.227"
     },
     {
       "beta" : true,

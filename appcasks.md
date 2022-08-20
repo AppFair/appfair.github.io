@@ -138,7 +138,7 @@ tr:nth-child(even) {
 | [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `13` | `2022-08-06T00:00:00Z` |  |  | `96` |  | `0` | `public.app-category.utilities` |
 | [``Hedgewars``](https://hedgewars.org/) | ``1.0.0`` | `7` |  |  | `1876` | `142` |  | `0` | `public.app-category.games` |
 | [``Moneydance``](https://infinitekind.com/moneydance) | ``2022.5,4091`` | `6` | `2022-08-15T00:00:00Z` |  | `1567` | `77` |  | `0` | `public.app-category.finance` |
-| [``Money Manager Ex``](https://www.moneymanagerex.org/) | ``1.5.19`` | `5` | `2022-08-20T07:23:32Z` |  | `1646` | `103` |  | `0` | `public.app-category.finance` |
+| [``Money Manager Ex``](https://www.moneymanagerex.org/) | ``1.5.19`` | `5` | `2022-08-20T00:00:00Z` |  | `1646` | `103` |  | `0` | `public.app-category.finance` |
 | [``MoneyWiz``](https://wiz.money/) | ``3.7.9,992`` | `5` |  |  | `1535` | `63` |  | `0` | `public.app-category.finance` |
 | [``Usenapp``](https://www.usenapp.com/) | ``1.22,358`` | `5` | `2022-07-03T00:00:00Z` |  | `1978` | `143` |  | `0` | `public.app-category.news` |
 | [``VASSAL``](https://www.vassalengine.org/) | ``3.6.7`` | `4` |  |  | `1667` | `93` |  | `0` | `public.app-category.games` |
@@ -526,7 +526,7 @@ tr:nth-child(even) {
 | [``Remote Desktop Manager``](https://mac.remotedesktopmanager.com/) | ``2022.2.9.0`` | `66` | `2022-07-19T00:00:00Z` |  | `939` |  |  | `0` | `public.app-category.business` |
 | [``SelfControl``](https://selfcontrolapp.com/) | ``4.0.2`` | `66` |  |  | `314` |  |  | `0` | `public.app-category.productivity` |
 | [``Silicon``](https://github.com/DigiDNA/Silicon) | ``1.0.4`` | `66` | `2022-07-22T00:00:00Z` |  | `776` |  |  | `0` | `public.app-category.utilities` |
-| [``Binance``](https://binance.com/) | ``1.39.0`` | `65` | `2022-08-20T07:23:32Z` |  | `531` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Binance``](https://binance.com/) | ``1.39.0`` | `65` | `2022-08-20T00:00:00Z` |  | `531` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Muzzle``](https://muzzleapp.com/) | ``1.9,426`` | `65` |  |  | `271` |  |  | `0` | `public.app-category.utilities` |
 | [``Notion Enhanced``](https://notion-enhancer.github.io/) | ``2.0.18-1`` | `65` |  |  | `587` |  |  | `0` | `public.app-category.productivity` |
 | [``YoudaoDict``](https://cidian.youdao.com/index-mac.html) | ``9.0.6,916`` | `65` | `2022-08-19T00:00:00Z` |  | `676` |  |  | `0` | `public.app-category.reference` |
@@ -1422,7 +1422,7 @@ tr:nth-child(even) {
 | [``Amadeus Pro``](https://www.hairersoft.com/pro.html) | ``2.8.8`` | `5` |  |  | `725` |  |  | `0` | `public.app-category.music` |
 | [``Astropad``](https://astropad.com/) | ``3.7.0,3219`` | `5` |  |  | `734` |  |  | `0` | `public.app-category.graphics-design` |
 | [``Astropad Studio``](https://astropad.com/) | ``5.0.0,4220`` | `5` |  |  | `729` |  |  | `0` | `public.app-category.graphics-design` |
-| [``Audius``](https://audius.co/) | ``1.3.0`` | `5` | `2022-08-20T07:23:32Z` |  | `686` |  |  | `0` | `public.app-category.music` |
+| [``Audius``](https://audius.co/) | ``1.3.0`` | `5` | `2022-08-20T00:00:00Z` |  | `686` |  |  | `0` | `public.app-category.music` |
 | [``AVItools``](https://www.emmgunn.com/avitools-home/) | ``3.7.2`` | `5` |  |  | `709` |  |  | `0` | `public.app-category.video` |
 | [``Cirrus``](https://eclecticlight.co/cirrus-bailiff/) | ``1.12,2021.04`` | `5` |  |  | `482` |  |  | `0` | `public.app-category.utilities` |
 | [``DesktopUtility``](https://sweetpproductions.com/) | ``5.0.2`` | `5` | `2022-08-15T00:00:00Z` |  | `265` |  |  | `0` | `public.app-category.utilities` |
@@ -2600,7 +2600,7 @@ tr:nth-child(even) {
 | [``Alfaview``](https://alfaview.com/) | ``8.51.0`` | `7` | `2022-08-17T00:00:00Z` |  | `80` |  |  | `0` |  |
 | [``AsciidocFX``](https://www.asciidocfx.com/) | ``1.7.6`` | `7` | `2022-08-15T00:00:00Z` |  | `69` |  |  | `0` |  |
 | [``BLHeli Configurator``](https://github.com/blheli-configurator/blheli-configurator) | ``1.2.0`` | `7` |  |  | `55` |  |  | `0` |  |
-| [``ComicTagger``](https://github.com/davide-romanini/comictagger) | ``1.4.8`` | `7` | `2022-08-20T07:23:32Z` |  | `77` |  |  | `0` |  |
+| [``ComicTagger``](https://github.com/davide-romanini/comictagger) | ``1.4.8`` | `7` | `2022-08-20T00:00:00Z` |  | `77` |  |  | `0` |  |
 | [``DavMail``](https://davmail.sourceforge.io/) | ``6.0.1,3390`` | `7` |  |  | `74` |  |  | `0` |  |
 | [``Diagnostics``](https://github.com/macmade/Diagnostics) | ``1.4.1`` | `7` |  |  | `61` |  |  | `0` |  |
 | [``DiskMaker X``](https://diskmakerx.com/) | ``9.0`` | `7` |  |  | `48` |  |  | `0` |  |

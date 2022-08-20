@@ -66844,10 +66844,11 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://s3-eu-west-1.amazonaws.com/hackolade/current/Hackolade-mac-setup-signed.pkg",
+      "downloadURL" : "https://s3-eu-west-1.amazonaws.com/hackolade/previous/v6.4.1/Hackolade-mac-setup-signed.pkg",
       "homepage" : "https://hackolade.com/",
       "localizedDescription" : "Data Modeling for NoSQL databases, storage formats, REST APIs, and JSON in RDBMS",
       "name" : "Hackolade",
+      "sha256" : "df11bee9e746cf00c57bebdeba016c9dc660fee7bcd56ae4d68a9d8ee61d0210",
       "stats" : {
         "downloadCount" : 11
       },

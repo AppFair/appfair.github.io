@@ -90,6 +90,58 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Stanza-Redux",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Stanza-Redux-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Stanza-Redux.png",
+      "localizedDescription" : "An electronic book reader",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
+      "name" : "Stanza Redux",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to access books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read ebook files"
+        }
+      ],
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "screenshotURLs" : [
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_04-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_05-iphone-750x1334.png"
+      ],
+      "sha256" : "20fe00771a665b831461e31d309bc304458c575d55550a842786022c233c0690",
+      "size" : 8596976,
+      "stats" : {
+        "coreSize" : 102480,
+        "downloadCount" : 22,
+        "impressionCount" : 130,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 19,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An electronic book reader",
+      "tintColor" : "00375C",
+      "version" : "0.3.48",
+      "versionDate" : "2022-08-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.47...0.3.48"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
 
@@ -130,58 +182,6 @@
       "version" : "0.0.90",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Stanza-Redux",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Stanza-Redux-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Stanza-Redux.png",
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
-      "name" : "Stanza Redux",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read ebook files"
-        }
-      ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.48/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
-      "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_04-iphone-750x1334.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.48/screenshot_05-iphone-750x1334.png"
-      ],
-      "sha256" : "20fe00771a665b831461e31d309bc304458c575d55550a842786022c233c0690",
-      "size" : 8596976,
-      "stats" : {
-        "coreSize" : 102480,
-        "downloadCount" : 20,
-        "impressionCount" : 130,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 19,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An electronic book reader",
-      "tintColor" : "00375C",
-      "version" : "0.3.48",
-      "versionDate" : "2022-08-15T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.47...0.3.48"
     },
     {
       "beta" : true,
@@ -438,6 +438,54 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_02-iphone-1170x2532.png"
+      ],
+      "sha256" : "9d890b1ca10eb3dd710880b35123bf5b44e865ec7799cebf9a2f8ce102b98b74",
+      "size" : 7542560,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 8,
+        "impressionCount" : 13,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 5,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.44",
+      "versionDate" : "2022-08-19T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.43...0.0.44"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
 
@@ -540,54 +588,6 @@
       "version" : "0.0.20",
       "versionDate" : "2022-02-12T00:00:00Z",
       "versionDescription" : "Release 0.0.20"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
-      "name" : "Net Skip",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        }
-      ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
-      "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.44/screenshot_02-iphone-1170x2532.png"
-      ],
-      "sha256" : "9d890b1ca10eb3dd710880b35123bf5b44e865ec7799cebf9a2f8ce102b98b74",
-      "size" : 7542560,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 6,
-        "impressionCount" : 13,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 5,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.44",
-      "versionDate" : "2022-08-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.43...0.0.44"
     },
     {
       "beta" : true,
@@ -926,6 +926,47 @@
       "versionDescription" : "Release 0.0.32"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "36ffe9381f40eb519989611273166ebc83263f86df3bc14a8ee2037c884a955f",
+      "size" : 5598609,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 4,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.232",
+      "versionDate" : "2022-08-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.231...0.9.232"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
@@ -1067,31 +1108,31 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/Cloud-Cuckoo-iOS.ipa",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.233/Cloud-Cuckoo-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/Cloud-Cuckoo.png",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.233/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.233/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.233/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.232/screenshot_03-iphone-750x1334.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.233/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.233/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.233/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "36ffe9381f40eb519989611273166ebc83263f86df3bc14a8ee2037c884a955f",
-      "size" : 5598609,
+      "sha256" : "8e45b6fcce35089a00412429bc15b86354de32fa394df43bb8adc86804cfb50a",
+      "size" : 5598624,
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
@@ -1103,9 +1144,9 @@
       },
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.232",
+      "version" : "0.9.233",
       "versionDate" : "2022-08-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.231...0.9.232"
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.232...0.9.233"
     }
   ],
   "fundingSources" : [

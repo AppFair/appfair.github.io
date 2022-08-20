@@ -19128,7 +19128,7 @@
       "sha256" : "522cba47fdcbdf908c4d112b010778b41679e13d528730a91164d01015534ec9",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 538
+        "impressionCount" : 539
       },
       "subtitle" : "App launcher and switcher",
       "tintColor" : "72747C",
@@ -60094,17 +60094,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.14%2B20220819103116-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.14%2B20220820103024-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "b11bcbf3595990027a4e40dad29528c03164dbbe8f75822ca820f14eb5ecaa47",
+      "sha256" : "2d2e9b5d50223f397a932ebfa57ce638e39c24a66e48942c759f6fd053cdc411",
       "stats" : {
         "downloadCount" : 585
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.14,20220819103116",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "6.2.14,20220820103024",
+      "versionDate" : "2022-08-20T18:25:21Z"
     },
     {
       "beta" : false,
@@ -64831,16 +64831,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.0/sabaki-v0.52.0-mac-x64.7z",
+      "downloadURL" : "https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.1/sabaki-v0.52.1-mac-x64.7z",
       "homepage" : "https://sabaki.yichuanshen.de/",
       "localizedDescription" : "Go board and SGF editor",
       "name" : "Sabaki",
-      "sha256" : "463eb69d451f74f3cbde6814b6888499b5f1f48d4d8b23b59ccb396840ba9bd9",
+      "sha256" : "231dcfcf635daecd17d78df71f606e32f0521d51125219f2a498b08fb13d9e6f",
       "stats" : {
         "downloadCount" : 21
       },
       "subtitle" : "Go board and SGF editor",
-      "version" : "0.52.0"
+      "version" : "0.52.1",
+      "versionDate" : "2022-08-20T18:25:21Z"
     },
     {
       "beta" : false,
@@ -73824,13 +73825,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "jasper",
-      "caption" : "Jasper updated from 1.1.0 to 1.1.1",
-      "date" : "2022-08-19T10:25:15Z",
-      "identifier" : "release-jasper-1.1.1",
-      "title" : "New Release: Jasper 1.1.1"
-    },
-    {
       "appID" : "hstracker",
       "caption" : "Hearthstone Deck Tracker updated from 2.2.2 to 2.2.3",
       "date" : "2022-08-19T10:25:15Z",
@@ -74181,13 +74175,6 @@
       "title" : "New Release: jamovi 2.3.16.0"
     },
     {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.13,20220818103108 to 6.2.14,20220819103116",
-      "date" : "2022-08-19T16:28:03Z",
-      "identifier" : "release-metasploit-6.2.14,20220819103116",
-      "title" : "New Release: Metasploit Framework 6.2.14,20220819103116"
-    },
-    {
       "appID" : "mullvadvpn",
       "caption" : "Mullvad VPN updated from 2022.3 to 2022.4",
       "date" : "2022-08-19T16:28:03Z",
@@ -74522,6 +74509,20 @@
       "date" : "2022-08-20T07:23:33Z",
       "identifier" : "release-comictagger-1.4.8",
       "title" : "New Release: ComicTagger 1.4.8"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.14,20220819103116 to 6.2.14,20220820103024",
+      "date" : "2022-08-20T18:25:22Z",
+      "identifier" : "release-metasploit-6.2.14,20220820103024",
+      "title" : "New Release: Metasploit Framework 6.2.14,20220820103024"
+    },
+    {
+      "appID" : "sabaki",
+      "caption" : "Sabaki updated from 0.52.0 to 0.52.1",
+      "date" : "2022-08-20T18:25:23Z",
+      "identifier" : "release-sabaki-0.52.1",
+      "title" : "New Release: Sabaki 0.52.1"
     }
   ],
   "platform" : "macos",

@@ -927,7 +927,7 @@ tr:nth-child(even) {
 | [``HA Menu``](https://github.com/codechimp-org/ha-menu) | ``2.7.0`` | `19` |  |  | `380` |  |  | `0` | `public.app-category.utilities` |
 | [``iExplorer``](https://macroplant.com/iexplorer) | ``4.5.0,178`` | `19` |  |  | `622` |  |  | `0` | `public.app-category.utilities` |
 | [``NetEase Mail Master``](https://mail.163.com/dashi/) | ``4.17.3,1291`` | `19` | `2022-08-03T00:00:00Z` |  | `277` |  |  | `0` | `public.app-category.productivity` |
-| [``Manico``](https://manico.im/) | ``3.0.3,430`` | `19` |  |  | `538` |  |  | `0` | `public.app-category.utilities` |
+| [``Manico``](https://manico.im/) | ``3.0.3,430`` | `19` |  |  | `539` |  |  | `0` | `public.app-category.utilities` |
 | [``MarginNote``](https://www.marginnote.com/) | ``3.7.18,3.7.18006`` | `19` |  |  | `263` |  |  | `0` | `public.app-category.productivity` |
 | [``Protégé``](https://protege.stanford.edu/) | ``5.5.0`` | `19` |  |  | `188` |  |  | `0` | `public.app-category.utilities` |
 | [``Jetbrains PyCharm with A…``](https://www.jetbrains.com/pycharm/promo/anaconda) | ``2020.3.2,203.6682.179`` | `19` |  |  | `154` |  |  | `0` | `public.app-category.developer-tools` |
@@ -2993,7 +2993,7 @@ tr:nth-child(even) {
 | [``Ghidra``](https://www.ghidra-sre.org/) | ``10.1.5,20220726`` | `624` | `2022-07-27T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Nextcloud``](https://nextcloud.com/) | ``3.5.4`` | `605` | `2022-08-03T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Apache Directory Studio``](https://directory.apache.org/studio/) | ``2.0.0.v20210717-M17`` | `593` |  |  |  |  |  | `0` |  |
-| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.14,20220819103116`` | `585` | `2022-08-19T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.14,20220820103024`` | `585` | `2022-08-20T18:25:21Z` |  |  |  |  | `0` |  |
 | [``Azure Data Studio``](https://docs.microsoft.com/en-us/sql/azure-data-studio/) | ``1.38.0`` | `579` | `2022-07-27T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GCC ARM Embedded``](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain) | ``11.2-2022.02`` | `552` |  |  |  |  |  | `0` |  |
 | [``cscreen``](https://www.pyehouse.com/cscreen/) | ``2012.09`` | `544` |  |  |  |  |  | `0` |  |
@@ -3268,7 +3268,7 @@ tr:nth-child(even) {
 | [``Orka CLI``](https://orkadocs.macstadium.com/docs) | ``2.1.0`` | `21` |  |  |  |  |  | `0` |  |
 | [``PokerStars``](https://www.pokerstars.net/) | ``52.546`` | `21` | `2022-08-04T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Radio Silence``](https://radiosilenceapp.com/) | ``3.1`` | `21` |  |  |  |  |  | `0` |  |
-| [``Sabaki``](https://sabaki.yichuanshen.de/) | ``0.52.0`` | `21` |  |  |  |  |  | `0` |  |
+| [``Sabaki``](https://sabaki.yichuanshen.de/) | ``0.52.1`` | `21` | `2022-08-20T18:25:21Z` |  |  |  |  | `0` |  |
 | [``Zwift``](https://www.zwift.com/) | ``1.0,25`` | `21` |  |  |  |  |  | `0` |  |
 | [``Gingko``](https://gingko.io/) | ``2.4.15`` | `20` |  |  |  |  |  | `0` |  |
 | [``ioquake3``](https://ioquake3.org/) | ``1.36`` | `20` |  |  |  |  |  | `0` |  |

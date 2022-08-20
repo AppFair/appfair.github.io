@@ -33,10 +33,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 120,
-        "impressionCount" : 1439,
+        "impressionCount" : 1440,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 104,
+        "viewCount" : 105,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -171,10 +171,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 20,
-        "impressionCount" : 124,
+        "impressionCount" : 125,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 17,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -251,7 +251,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 17,
-        "impressionCount" : 147,
+        "impressionCount" : 148,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 20,
@@ -327,7 +327,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 9,
-        "impressionCount" : 17,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,
@@ -619,10 +619,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 6,
-        "impressionCount" : 10,
+        "impressionCount" : 11,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",

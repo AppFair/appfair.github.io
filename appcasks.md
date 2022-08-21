@@ -595,7 +595,7 @@ tr:nth-child(even) {
 | [``Pacifist``](https://www.charlessoft.com/) | ``4.0.5,66569`` | `51` | `2022-08-21T00:00:00Z` |  | `291` |  |  | `0` | `public.app-category.utilities` |
 | [``Wondershare PDFelement f…``](https://pdf.wondershare.com/) | ``9.0.9`` | `51` | `2022-08-19T00:00:00Z` |  | `412` |  |  | `0` | `public.app-category.productivity` |
 | [``Bunch``](https://bunchapp.co/) | ``1.4.10,163`` | `50` | `2022-08-19T00:00:00Z` |  | `543` |  |  | `0` | `public.app-category.productivity` |
-| [``KeyboardHolder``](https://keyboardholder.leavesc.com/) | ``1.10.0`` | `50` | `2022-08-21T13:33:23Z` |  | `381` |  |  | `0` | `public.app-category.utilities` |
+| [``KeyboardHolder``](https://keyboardholder.leavesc.com/) | ``1.10.0`` | `50` | `2022-08-21T00:00:00Z` |  | `381` |  |  | `0` | `public.app-category.utilities` |
 | [``AirDroid``](https://www.airdroid.com/) | ``3.7.1.0`` | `49` |  |  | `621` |  |  | `0` | `public.app-category.productivity` |
 | [``Aria2GUI``](https://github.com/yangshun1029/aria2gui) | ``1.4.1`` | `49` |  |  | `606` |  |  | `0` | `public.app-category.productivity` |
 | [``Quip``](https://quip.com/) | ``7.63.1`` | `49` |  |  | `287` |  |  | `0` | `public.app-category.productivity` |

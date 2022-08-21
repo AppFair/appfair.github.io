@@ -92,7 +92,7 @@ tr:nth-child(even) {
 | [``Opera``](https://www.opera.com/) | ``90.0.4480.48`` | `986` | `2022-08-19T00:00:00Z` |  | `2048` | `81` |  | `0` | `public.app-category.productivity` |
 | [``iStats Menus``](https://bjango.com/mac/istatmenus/) | ``6.62`` | `968` |  |  | `2214` | `162` |  | `0` | `public.app-category.utilities` |
 | [``Skim``](https://skim-app.sourceforge.io/) | ``1.6.12,142`` | `947` | `2022-08-03T00:00:00Z` |  | `1780` | `126` |  | `0` | `public.app-category.reference` |
-| [``Fork``](https://fork.dev/) | ``2.21`` | `930` | `2022-08-19T00:00:00Z` |  | `2444` | `227` |  | `0` | `public.app-category.developer-tools` |
+| [``Fork``](https://fork.dev/) | ``2.21`` | `930` | `2022-08-19T00:00:00Z` |  | `2445` | `228` |  | `0` | `public.app-category.developer-tools` |
 | [``MonitorControl``](https://github.com/MonitorControl/MonitorControl) | ``4.1.0`` | `921` |  |  | `3250` | `284` |  | `0` | `public.app-category.utilities` |
 | [``Dash``](https://kapeli.com/dash) | ``6.3.1,1000`` | `877` | `2022-08-10T00:00:00Z` |  | `2542` | `188` |  | `0` | `public.app-category.developer-tools` |
 | [``Telegram Desktop``](https://desktop.telegram.org/) | ``4.1.0`` | `732` | `2022-08-13T00:00:00Z` |  | `1685` | `93` |  | `0` | `public.app-category.social-networking` |
@@ -348,7 +348,7 @@ tr:nth-child(even) {
 | [``Boop``](https://boop.okat.best/) | ``1.4.0`` | `173` |  |  | `814` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Toggl Track``](https://www.toggl.com/track/toggl-desktop/) | ``7.5.441`` | `173` |  |  | `398` |  |  | `0` | `public.app-category.productivity` |
 | [``VIA``](https://caniusevia.com/) | ``2.0.5`` | `172` | `2022-07-31T00:00:00Z` |  | `411` |  |  | `0` | `public.app-category.developer-tools` |
-| [``YouTube Downloader``](https://github.com/DenBeke/YouTube-Downloader-for-macOS) | ``0.10`` | `171` | `2022-08-21T03:29:23Z` |  | `394` |  |  | `0` | `public.app-category.utilities` |
+| [``YouTube Downloader``](https://github.com/DenBeke/YouTube-Downloader-for-macOS) | ``0.10`` | `171` | `2022-08-21T00:00:00Z` |  | `394` |  |  | `0` | `public.app-category.utilities` |
 | [``Spark``](https://www.shadowlab.org/softwares/spark.php) | ``3.3.2,501`` | `170` |  |  | `352` |  |  | `0` | `public.app-category.utilities` |
 | [``FannyWidget``](https://fannywidget.com/) | ``2.3.0`` | `169` |  |  | `467` |  |  | `0` | `public.app-category.utilities` |
 | [``google-chat-electron``](https://github.com/ankurk91/google-chat-electron) | ``2.18.0`` | `169` | `2022-08-07T00:00:00Z` |  | `667` |  |  | `0` | `public.app-category.developer-tools` |

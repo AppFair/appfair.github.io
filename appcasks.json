@@ -1825,8 +1825,8 @@
       "sha256" : "ccaaa6c1d5a2659bcbf9eb8fd4418edd4657b908852769e584e45f5df1a2a4b3",
       "stats" : {
         "downloadCount" : 930,
-        "impressionCount" : 2444,
-        "viewCount" : 227
+        "impressionCount" : 2445,
+        "viewCount" : 228
       },
       "subtitle" : "GIT client",
       "tintColor" : "2FB4DE",
@@ -7275,7 +7275,7 @@
       "subtitle" : "Simple menu bar app to download YouTube movies",
       "tintColor" : "FD7D49",
       "version" : "0.10",
-      "versionDate" : "2022-08-21T03:29:23Z"
+      "versionDate" : "2022-08-21T00:00:00Z"
     },
     {
       "beta" : false,

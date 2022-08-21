@@ -33,7 +33,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 120,
-        "impressionCount" : 1461,
+        "impressionCount" : 1466,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 108,
@@ -76,10 +76,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2848,
+        "impressionCount" : 2853,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 207,
+        "viewCount" : 208,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -128,10 +128,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 26,
-        "impressionCount" : 145,
+        "impressionCount" : 150,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -172,10 +172,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2684,
+        "impressionCount" : 2689,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 170,
+        "viewCount" : 171,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -251,10 +251,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 17,
-        "impressionCount" : 168,
+        "impressionCount" : 173,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 24,
+        "viewCount" : 25,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -300,7 +300,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 14,
-        "impressionCount" : 17,
+        "impressionCount" : 19,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -508,10 +508,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2642,
+        "impressionCount" : 2647,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 139,
+        "viewCount" : 140,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -618,10 +618,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 6,
-        "impressionCount" : 10,
+        "impressionCount" : 15,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",

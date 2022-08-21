@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2783,
-        "impressionCount" : 6059,
+        "impressionCount" : 6060,
         "viewCount" : 381
       },
       "subtitle" : "Video game digital distribution service",
@@ -473,7 +473,7 @@
       ],
       "stats" : {
         "downloadCount" : 526,
-        "impressionCount" : 5873,
+        "impressionCount" : 5874,
         "viewCount" : 462
       },
       "subtitle" : "Sandbox construction video game",
@@ -674,7 +674,7 @@
       "sha256" : "65c67ab1fa1e016363b14b303d5979cb61c051ee97d1763e0abfee6592085d23",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 3194,
+        "impressionCount" : 3195,
         "viewCount" : 303
       },
       "subtitle" : "EVE Online client",
@@ -1470,8 +1470,8 @@
       "sha256" : "117c099ce22c430dad0c8ca4daa56020e7b0cf0679d984c64d8d74790a8f2f8d",
       "stats" : {
         "downloadCount" : 2221,
-        "impressionCount" : 3580,
-        "viewCount" : 379
+        "impressionCount" : 3581,
+        "viewCount" : 380
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
@@ -2239,7 +2239,7 @@
       "sha256" : "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73",
       "stats" : {
         "downloadCount" : 340,
-        "impressionCount" : 2071,
+        "impressionCount" : 2072,
         "viewCount" : 202
       },
       "subtitle" : "Retro video game emulation",
@@ -2371,7 +2371,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/README.md",
       "stats" : {
         "downloadCount" : 194,
-        "impressionCount" : 447,
+        "impressionCount" : 448,
         "viewCount" : 32
       },
       "subtitle" : "Multiplayer online battle arena game",
@@ -2528,7 +2528,7 @@
       "sha256" : "20346073731e3dc0ccfc79ce05abe2e1e3a9d815fb945c0683169d455c6c1004",
       "stats" : {
         "downloadCount" : 128,
-        "impressionCount" : 1921,
+        "impressionCount" : 1922,
         "viewCount" : 171
       },
       "subtitle" : "Real-time strategy game engine for Westwood games",
@@ -2710,8 +2710,8 @@
       "sha256" : "d1a2073dee3435d8a78bf289206248c9ed6be5e17f4ba1ac8412caf6d0eae0b0",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 1963,
-        "viewCount" : 161
+        "impressionCount" : 1964,
+        "viewCount" : 162
       },
       "subtitle" : "Real-time strategy game",
       "tintColor" : "776742",
@@ -2830,8 +2830,8 @@
       "sha256" : "5a0bdd9bc4cb7beea03b95a2549c1cf994ea8646f6621f5353dd22d79c757404",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 1880,
-        "viewCount" : 142
+        "impressionCount" : 1881,
+        "viewCount" : 143
       },
       "subtitle" : "Turn-based strategy, artillery, action and comedy game",
       "tintColor" : "C077C6",
@@ -2941,8 +2941,8 @@
       "sha256" : "d5c01584a97aaee4aef222b0f07ada24ada823a7a515a79c357084b1ecddd8a2",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 1671,
-        "viewCount" : 93
+        "impressionCount" : 1672,
+        "viewCount" : 94
       },
       "subtitle" : "Board game engine",
       "tintColor" : "9E8E1F",
@@ -7262,19 +7262,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/DenBeke/YouTube-Downloader-for-macOS/releases/download/v0.9/Youtube.Downloader.zip",
+      "downloadURL" : "https://github.com/DenBeke/YouTube-Downloader-for-macOS/releases/download/v0.10/Youtube.Downloader.zip",
       "homepage" : "https://github.com/DenBeke/YouTube-Downloader-for-macOS",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-youtube-downloader/AppIcon.png",
       "localizedDescription" : "Simple menu bar app to download YouTube movies",
       "name" : "YouTube Downloader",
-      "sha256" : "4f45a4ea3d22b7e991f0ec519b89e36630f6b0944b749bdafaa6f709b044714e",
+      "sha256" : "f9cf455e19a54e1e6756a1cf65e9647a852fcea20cbc452100e6f17a14516ff7",
       "stats" : {
         "downloadCount" : 171,
         "impressionCount" : 394
       },
       "subtitle" : "Simple menu bar app to download YouTube movies",
       "tintColor" : "FD7D49",
-      "version" : "0.9"
+      "version" : "0.10",
+      "versionDate" : "2022-08-21T03:29:23Z"
     },
     {
       "beta" : false,
@@ -9211,7 +9212,7 @@
       "sha256" : "a4265f0a968e463d8c1e48562f36e078f25e8f04347da55bc1dd9a9dba492683",
       "stats" : {
         "downloadCount" : 94,
-        "impressionCount" : 1245
+        "impressionCount" : 1246
       },
       "subtitle" : "Open Source Game Launcher",
       "tintColor" : "362B25",
@@ -10410,7 +10411,7 @@
       "sha256" : "04896021cbe5f1f8548f26d2ab9251128699510d2676a6ef3d544a3d99d6f7c0",
       "stats" : {
         "downloadCount" : 73,
-        "impressionCount" : 952
+        "impressionCount" : 953
       },
       "subtitle" : "2D game framework for Lua",
       "tintColor" : "C598C4",
@@ -15974,7 +15975,7 @@
       "sha256" : "f8e3bceeff2ddd53e603a84c9d323f9b3b259098391283efaa046d77c34d9b38",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 1184
+        "impressionCount" : 1185
       },
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
@@ -19839,7 +19840,7 @@
       "sha256" : "32fca874dc376f6bcf22ff05e280a4dac99bb00dd0be3d81ab576e836f742f9e",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 1111
+        "impressionCount" : 1112
       },
       "subtitle" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "tintColor" : "828487",
@@ -21223,7 +21224,7 @@
       "sha256" : "3e6baf5aafacbbe69b484af26fa6c426ec326a527243807db66d24f6ec354dae",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 768
+        "impressionCount" : 769
       },
       "subtitle" : "World of Warcraft addon manager",
       "tintColor" : "7B7AB9",
@@ -23747,7 +23748,7 @@
       "name" : "Pokemon Trading Card Game Online",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 598
+        "impressionCount" : 599
       },
       "subtitle" : "Play the Pokemon TCG online",
       "tintColor" : "997862",
@@ -25516,7 +25517,7 @@
       "name" : "TETR.IO",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 840
+        "impressionCount" : 841
       },
       "subtitle" : "Free-to-play Tetris clone",
       "tintColor" : "7055A4",
@@ -26377,7 +26378,7 @@
       "sha256" : "c4dbe867738c244d0f00e4b13b432dca305559fc36ef1614f749291c805e5003",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 533
+        "impressionCount" : 534
       },
       "subtitle" : "Multi-platform Atari 2600 Emulator",
       "tintColor" : "7B4D02",
@@ -26666,7 +26667,7 @@
       "sha256" : "207513b33b7198c0f3106de510a13960434cb1c177fccc062d4e53cfbf981543",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 1068
+        "impressionCount" : 1069
       },
       "subtitle" : "First-person game",
       "tintColor" : "7E7377",
@@ -39885,7 +39886,7 @@
       "name" : "Universal Battle",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 620
+        "impressionCount" : 621
       },
       "subtitle" : "Realtime multiplayer tabletop war game",
       "tintColor" : "544F5E",
@@ -72614,7 +72615,7 @@
       },
       "subtitle" : "Diablo build for modern operating systems",
       "version" : "1.4.1",
-      "versionDate" : "2022-08-21T01:10:42Z"
+      "versionDate" : "2022-08-21T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73748,7 +73749,7 @@
       },
       "subtitle" : "Music creation app",
       "version" : "2.2.2,8612",
-      "versionDate" : "2022-08-21T01:10:42Z"
+      "versionDate" : "2022-08-21T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73844,13 +73845,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "julia",
-      "caption" : "Julia updated from 1.7.3 to 1.8.0",
-      "date" : "2022-08-19T10:25:17Z",
-      "identifier" : "release-julia-1.8.0",
-      "title" : "New Release: Julia 1.8.0"
-    },
     {
       "appID" : "plex-media-server",
       "caption" : "Plex Media Server updated from 1.28.0.5999,97678ded3 to 1.28.1.6104,788f82488",
@@ -74543,6 +74537,13 @@
       "date" : "2022-08-21T01:10:43Z",
       "identifier" : "release-zenbeats-2.2.2,8612",
       "title" : "New Release: Zenbeats 2.2.2,8612"
+    },
+    {
+      "appID" : "youtube-downloader",
+      "caption" : "YouTube Downloader updated from 0.9 to 0.10",
+      "date" : "2022-08-21T03:29:24Z",
+      "identifier" : "release-youtube-downloader-0.10",
+      "title" : "New Release: YouTube Downloader 0.10"
     }
   ],
   "platform" : "macos",

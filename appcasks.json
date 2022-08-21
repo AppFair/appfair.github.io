@@ -25,7 +25,7 @@
       "sha256" : "0997f557924dbffdc477bc8088b3512776a8382c5eae30e191d0e730012fbbd4",
       "stats" : {
         "downloadCount" : 2747,
-        "impressionCount" : 9674,
+        "impressionCount" : 9676,
         "viewCount" : 1027
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c3e9e2ec300d231ee6e9cdfe1dd8fc03d62ac6c23d8ddfcc9358e430dca73ea4",
       "stats" : {
         "downloadCount" : 16390,
-        "impressionCount" : 8492,
+        "impressionCount" : 8493,
         "viewCount" : 930
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8826,
-        "impressionCount" : 7480,
+        "impressionCount" : 7481,
         "viewCount" : 664
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29216,
-        "impressionCount" : 7777,
+        "impressionCount" : 7779,
         "viewCount" : 659
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8572,
-        "impressionCount" : 7788,
+        "impressionCount" : 7789,
         "viewCount" : 647
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6532,
-        "impressionCount" : 7823,
+        "impressionCount" : 7825,
         "viewCount" : 516
       },
       "subtitle" : "Voice and text chat software",
@@ -208,8 +208,8 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3340,
-        "impressionCount" : 8255,
-        "viewCount" : 569
+        "impressionCount" : 8257,
+        "viewCount" : 570
       },
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3289,
-        "impressionCount" : 7052,
+        "impressionCount" : 7053,
         "viewCount" : 534
       },
       "subtitle" : "Text editor",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2783,
-        "impressionCount" : 6063,
+        "impressionCount" : 6064,
         "viewCount" : 381
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2093,
-        "impressionCount" : 7801,
+        "impressionCount" : 7803,
         "viewCount" : 823
       },
       "subtitle" : "File archiver",
@@ -619,7 +619,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 175,
-        "impressionCount" : 3336,
+        "impressionCount" : 3337,
         "viewCount" : 297
       },
       "subtitle" : "File synchronizer",
@@ -646,7 +646,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 162,
-        "impressionCount" : 5246,
+        "impressionCount" : 5247,
         "viewCount" : 554
       },
       "subtitle" : "iOS App Store alternative",
@@ -869,7 +869,7 @@
       "sha256" : "ea66fe55fe65ffb181c1524442c82d7572d06614096224262e77c4d1f3c910c8",
       "stats" : {
         "downloadCount" : 6362,
-        "impressionCount" : 4564,
+        "impressionCount" : 4565,
         "viewCount" : 447
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1120,7 +1120,7 @@
       "sha256" : "08b59c3b41bdf369a8ce8ed65c8607eeac2e73672298a04ebf53e7a802b56939",
       "stats" : {
         "downloadCount" : 3112,
-        "impressionCount" : 2777,
+        "impressionCount" : 2778,
         "viewCount" : 172
       },
       "subtitle" : "GPU-accelerated terminal emulator",
@@ -1142,7 +1142,7 @@
       "sha256" : "3b9b47199c15dc6efacecd94eb5f1aef2f8cd4afce5ffc0eca1407ae9f3bff16",
       "stats" : {
         "downloadCount" : 2981,
-        "impressionCount" : 1956,
+        "impressionCount" : 1957,
         "viewCount" : 143
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -1257,7 +1257,7 @@
       "sha256" : "e459b9ce81078b8251549168c0d8473c069a14e817f3a8f386ec84b0f220955a",
       "stats" : {
         "downloadCount" : 2524,
-        "impressionCount" : 2415,
+        "impressionCount" : 2416,
         "viewCount" : 212
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
@@ -1380,7 +1380,7 @@
       "sha256" : "a1a964ab100ff92cbc5ce50c63699199050572474c2b1f34bec84de673d31a7f",
       "stats" : {
         "downloadCount" : 2402,
-        "impressionCount" : 2981,
+        "impressionCount" : 2982,
         "viewCount" : 205
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1447,7 +1447,7 @@
       "sha256" : "61b89d1e54f8e4330da1123400f78bd15b86dde40c47d8a3e54fd2bbff9eeb8e",
       "stats" : {
         "downloadCount" : 2243,
-        "impressionCount" : 1610,
+        "impressionCount" : 1611,
         "viewCount" : 55
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -1555,7 +1555,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1661,
-        "impressionCount" : 3025
+        "impressionCount" : 3026
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -1599,7 +1599,7 @@
       "sha256" : "d1a17bb4c8c62960d7ae7ff352a3647bc3109b8989dae4ed7b51cf8a71048768",
       "stats" : {
         "downloadCount" : 1372,
-        "impressionCount" : 466,
+        "impressionCount" : 467,
         "viewCount" : 25
       },
       "subtitle" : "Tools to protect your emails and files",
@@ -1667,7 +1667,7 @@
       "sha256" : "766d5bf3b404ec567110a25de1d221290bc829302283b28ed0fbe73b9557f30c",
       "stats" : {
         "downloadCount" : 1245,
-        "impressionCount" : 1834,
+        "impressionCount" : 1835,
         "viewCount" : 87
       },
       "subtitle" : "Move and resize windows with ease",
@@ -1711,7 +1711,7 @@
       "sha256" : "d8d37a114c9dab2f16a56e60d8a977115ba34fe408ff7947d0d74028f1f22843",
       "stats" : {
         "downloadCount" : 1120,
-        "impressionCount" : 2224,
+        "impressionCount" : 2225,
         "viewCount" : 133
       },
       "subtitle" : "Tool to hide status bar icons",
@@ -1780,8 +1780,8 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-istat-menus/README.md",
       "stats" : {
         "downloadCount" : 968,
-        "impressionCount" : 2215,
-        "viewCount" : 162
+        "impressionCount" : 2216,
+        "viewCount" : 163
       },
       "subtitle" : "System monitoring app",
       "tintColor" : "94A1C6",
@@ -1854,7 +1854,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 921,
-        "impressionCount" : 3251,
+        "impressionCount" : 3252,
         "viewCount" : 284
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -1899,7 +1899,7 @@
       "sha256" : "16c1bd8bd18df7c7dd97500fd71321351446f6fea27339d0b97a9e7069df2694",
       "stats" : {
         "downloadCount" : 732,
-        "impressionCount" : 1686,
+        "impressionCount" : 1687,
         "viewCount" : 93
       },
       "subtitle" : "Desktop client for Telegram messenger",
@@ -2009,7 +2009,7 @@
       "sha256" : "7b41200f63ab17ff92b8e1ea4c313e5fbca3acb55a271ff052b1275476d38483",
       "stats" : {
         "downloadCount" : 580,
-        "impressionCount" : 2528,
+        "impressionCount" : 2529,
         "viewCount" : 118
       },
       "subtitle" : "Home media player",
@@ -2217,7 +2217,7 @@
       "sha256" : "115c40eb710085969a72a24d5d84ae2c05260192cc68a22e73e99e148c6638da",
       "stats" : {
         "downloadCount" : 362,
-        "impressionCount" : 2267,
+        "impressionCount" : 2268,
         "viewCount" : 132
       },
       "subtitle" : "Animated screen capture application",
@@ -2261,7 +2261,7 @@
       "sha256" : "2c90eb6b779938f7a79dc7f6ef52da291b3c063e14ad182a0623ba2ea2ac3fb2",
       "stats" : {
         "downloadCount" : 317,
-        "impressionCount" : 3201,
+        "impressionCount" : 3202,
         "viewCount" : 156
       },
       "subtitle" : "Matrix collaboration client",
@@ -2283,7 +2283,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-daisydisk/README.md",
       "stats" : {
         "downloadCount" : 303,
-        "impressionCount" : 2255,
+        "impressionCount" : 2256,
         "viewCount" : 170
       },
       "subtitle" : "Disk space visualizer",
@@ -3090,7 +3090,7 @@
       "sha256" : "e97c9906c6d375b9da0e846ce4273b9baa33ba42a766c37d9c15f542201f93ab",
       "stats" : {
         "downloadCount" : 8132,
-        "impressionCount" : 537
+        "impressionCount" : 538
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "version" : "5.11.6.9890",
@@ -4499,7 +4499,7 @@
       "name" : "WeChat for Mac",
       "stats" : {
         "downloadCount" : 704,
-        "impressionCount" : 588
+        "impressionCount" : 589
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
@@ -4941,7 +4941,7 @@
       "sha256" : "7315136efa45f2733eae29190608aef4513f0e304d0137efc68e846e80303a21",
       "stats" : {
         "downloadCount" : 556,
-        "impressionCount" : 686
+        "impressionCount" : 687
       },
       "subtitle" : "Native desktop app for Messenger (formerly Facebook Messenger)",
       "tintColor" : "D3B0EE",
@@ -5107,7 +5107,7 @@
       "sha256" : "cda06abb596b747a890f88dfae7489ccfa940d26f8a16a7a9993c54dd219d948",
       "stats" : {
         "downloadCount" : 505,
-        "impressionCount" : 694
+        "impressionCount" : 695
       },
       "subtitle" : "Instant messaging tool",
       "tintColor" : "80584A",
@@ -5708,7 +5708,7 @@
       "name" : "Viber",
       "stats" : {
         "downloadCount" : 363,
-        "impressionCount" : 770
+        "impressionCount" : 771
       },
       "subtitle" : "Calling and messaging application focusing on security",
       "tintColor" : "8E7FF3",
@@ -6593,7 +6593,7 @@
       "sha256" : "31fa3fd32b86dd3381b60e0d5aafbc2a9452036f0fb4963bffbc2a6c64a9458b",
       "stats" : {
         "downloadCount" : 217,
-        "impressionCount" : 845
+        "impressionCount" : 846
       },
       "subtitle" : "Instant messaging application",
       "tintColor" : "679B34",
@@ -7593,7 +7593,7 @@
       "sha256" : "a33d62b5ddaebb7f5e56ce0dd2407a08b564f0750705b3b809808992283a2d7e",
       "stats" : {
         "downloadCount" : 147,
-        "impressionCount" : 347
+        "impressionCount" : 348
       },
       "subtitle" : "Tool to hide menu bar icons",
       "tintColor" : "E4F2EF",
@@ -7961,7 +7961,7 @@
       "sha256" : "431e83a0982414a3932f4e4b408a9ae125f84118be1f810c11a84e2d8c1aa740",
       "stats" : {
         "downloadCount" : 131,
-        "impressionCount" : 447
+        "impressionCount" : 448
       },
       "subtitle" : "React client for Simplenote",
       "tintColor" : "B3C3E9",
@@ -9233,7 +9233,7 @@
       "sha256" : "80810d4570eed463708a75cc88c74880330e22c61e4bd0d4db8c355aade31682",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 747
+        "impressionCount" : 748
       },
       "subtitle" : "Installer for BetterDiscord",
       "tintColor" : "191D27",
@@ -10790,7 +10790,7 @@
       "sha256" : "fc23260cdcea8fa5e80330d1bcd40d132f170bbf64d0de5581daa1f45991f98f",
       "stats" : {
         "downloadCount" : 67,
-        "impressionCount" : 855
+        "impressionCount" : 856
       },
       "subtitle" : "Elegant Facebook Messenger desktop app",
       "tintColor" : "9EC2F5",
@@ -24266,7 +24266,7 @@
       "sha256" : "578716a9451971be5edaa43c3b352c4b964aafdadd852c426acfbfe8d18ed22e",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 159
+        "impressionCount" : 160
       },
       "subtitle" : "Media Manager for Kodi",
       "tintColor" : "A66738",
@@ -39829,7 +39829,7 @@
       "sha256" : "45ae3ab18e88b83460df559beccffc2267e79150e046cd4d091d0c6c9102d53e",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 215
+        "impressionCount" : 216
       },
       "subtitle" : "Mobile phone management tool",
       "tintColor" : "EFA967",

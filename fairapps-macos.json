@@ -637,44 +637,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "628b345aa3bf7e9cc0dc778d9369aabc96219ad24ba8bc4ffc262a133a0d484a",
-      "size" : 2451488,
-      "stats" : {
-        "coreSize" : 68376,
-        "downloadCount" : 7,
-        "impressionCount" : 1706,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 101,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.32",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.32"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
 
@@ -1364,6 +1326,41 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "72c3936677c204d83f1da5d3e6fedd2251bd64dc95bc000f77e2bc1b04cc0e73",
+      "size" : 2162726,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 3,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.3",
+      "versionDate" : "2022-08-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.1...0.1.3"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
 
@@ -1579,6 +1576,13 @@
       "date" : "2022-08-20T21:59:24Z",
       "identifier" : "release-app.Cloud-Cuckoo-0.9.240",
       "title" : "New Release: Cloud Cuckoo 0.9.240"
+    },
+    {
+      "appID" : "app.Encyclopedia-Galactica",
+      "caption" : "Encyclopedia Galactica 0.1.3 released",
+      "date" : "2022-08-22T05:29:28Z",
+      "identifier" : "release-app.Encyclopedia-Galactica-0.1.3",
+      "title" : "New Release: Encyclopedia Galactica 0.1.3"
     }
   ],
   "platform" : "macos"

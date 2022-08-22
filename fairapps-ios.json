@@ -710,16 +710,13 @@
       "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
+
       ],
       "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "sha256" : "f63a5d599aa3b4da65ac447bcb4ec810a30041cf00ee6d9d5a662ddaf4ce8329",
       "size" : 6063708,
       "stats" : {
-        "coreSize" : 68376,
+        "coreSize" : 170176,
         "downloadCount" : 5,
         "impressionCount" : 1706,
         "issueCount" : 0,

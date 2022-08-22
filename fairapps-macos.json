@@ -62,8 +62,8 @@
       "size" : 9613696,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 213,
-        "impressionCount" : 54,
+        "downloadCount" : 214,
+        "impressionCount" : 55,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 14,
@@ -115,10 +115,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4262,
+        "impressionCount" : 4263,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 697,
+        "viewCount" : 698,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -160,10 +160,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2869,
+        "impressionCount" : 2870,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 211,
+        "viewCount" : 212,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -208,10 +208,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 22,
-        "impressionCount" : 194,
+        "impressionCount" : 195,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 28,
+        "viewCount" : 29,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -284,10 +284,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3203,
+        "impressionCount" : 3204,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 552,
+        "viewCount" : 553,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -336,7 +336,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 20,
-        "impressionCount" : 31,
+        "impressionCount" : 32,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -808,10 +808,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2705,
+        "impressionCount" : 2706,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 173,
+        "viewCount" : 174,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -965,10 +965,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 170,
+        "impressionCount" : 171,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 25,
+        "viewCount" : 26,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1187,10 +1187,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2664,
+        "impressionCount" : 2665,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 141,
+        "viewCount" : 142,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1260,10 +1260,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 2,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1299,10 +1299,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 2,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1347,10 +1347,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 2,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -1422,10 +1422,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 1,
-        "impressionCount" : 0,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 0,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1457,10 +1457,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 1,
-        "impressionCount" : 1,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 0,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",

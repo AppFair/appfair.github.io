@@ -62,7 +62,7 @@
       "size" : 9613696,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 202,
+        "downloadCount" : 206,
         "impressionCount" : 52,
         "issueCount" : 6,
         "starCount" : 28,
@@ -345,44 +345,6 @@
       "versionDescription" : "Release 0.4.18"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Crazy Glue",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Crazy-Glue/App/releases/download/0.0.4/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "bb88aca0dda7fed7a8fb7c8d0c292357e90d6326e1667f2dd8947f1b11f04eac",
-      "size" : 2317729,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 20,
-        "impressionCount" : 2943,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 223,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-23T00:00:00Z",
-      "versionDescription" : "Release 0.0.4"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
@@ -422,7 +384,7 @@
       "size" : 3157591,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 19,
+        "downloadCount" : 20,
         "impressionCount" : 30,
         "issueCount" : 0,
         "starCount" : 0,
@@ -433,6 +395,44 @@
       "version" : "0.0.44",
       "versionDate" : "2022-08-19T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.43...0.0.44"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Crazy-Glue",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
+      "localizedDescription" : "Putting the pieces back together",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Crazy Glue",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "screenshotURLs" : [
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.4/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "bb88aca0dda7fed7a8fb7c8d0c292357e90d6326e1667f2dd8947f1b11f04eac",
+      "size" : 2317729,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 20,
+        "impressionCount" : 2943,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 223,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Putting the pieces back together",
+      "version" : "0.0.4",
+      "versionDate" : "2022-01-23T00:00:00Z",
+      "versionDescription" : "Release 0.0.4"
     },
     {
       "beta" : true,
@@ -981,6 +981,41 @@
       "versionDescription" : ""
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "72c3936677c204d83f1da5d3e6fedd2251bd64dc95bc000f77e2bc1b04cc0e73",
+      "size" : 2162726,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 4,
+        "impressionCount" : 7,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.3",
+      "versionDate" : "2022-08-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.1...0.1.3"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Fox-Glove",
       "categories" : [
@@ -1323,41 +1358,6 @@
       "version" : "0.0.51",
       "versionDate" : "2022-01-16T00:00:00Z",
       "versionDescription" : "Release 0.0.51"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.3/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "72c3936677c204d83f1da5d3e6fedd2251bd64dc95bc000f77e2bc1b04cc0e73",
-      "size" : 2162726,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 3,
-        "impressionCount" : 7,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.3",
-      "versionDate" : "2022-08-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.1...0.1.3"
     },
     {
       "beta" : false,

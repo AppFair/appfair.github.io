@@ -62,8 +62,8 @@
       "size" : 9613696,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 192,
-        "impressionCount" : 41,
+        "downloadCount" : 195,
+        "impressionCount" : 43,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 11,
@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4254,
+        "impressionCount" : 4255,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 694,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 35,
-        "impressionCount" : 1476,
+        "impressionCount" : 1477,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 110,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2861,
+        "impressionCount" : 2862,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 210,
@@ -285,7 +285,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3195,
+        "impressionCount" : 3196,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 550,
@@ -295,6 +295,54 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T00:00:00Z",
       "versionDescription" : "Release 0.4.18"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Tune-Out-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_03-mac-2180x1464.png"
+      ],
+      "sha256" : "2d5c50300d53090452efe8887fcc4e09d4eaa28e0d802bad6125456a4bb1d58d",
+      "size" : 9538499,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 21,
+        "impressionCount" : 184,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 27,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.454",
+      "versionDate" : "2022-08-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.453...0.8.454"
     },
     {
       "beta" : true,
@@ -336,54 +384,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Tune-Out-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_03-mac-2180x1464.png"
-      ],
-      "sha256" : "2d5c50300d53090452efe8887fcc4e09d4eaa28e0d802bad6125456a4bb1d58d",
-      "size" : 9538499,
-      "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 19,
-        "impressionCount" : 183,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 27,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.454",
-      "versionDate" : "2022-08-15T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.453...0.8.454"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
 
@@ -422,8 +422,8 @@
       "size" : 3157591,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 17,
-        "impressionCount" : 24,
+        "downloadCount" : 19,
+        "impressionCount" : 25,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -972,7 +972,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2697,
+        "impressionCount" : 2698,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 173,
@@ -1168,7 +1168,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 160,
+        "impressionCount" : 161,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 24,
@@ -1390,7 +1390,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2656,
+        "impressionCount" : 2657,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 141,

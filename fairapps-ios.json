@@ -32,7 +32,7 @@
       "size" : 5482239,
       "stats" : {
         "coreSize" : 102376,
-        "downloadCount" : 120,
+        "downloadCount" : 121,
         "impressionCount" : 1483,
         "issueCount" : 0,
         "starCount" : 1,
@@ -127,7 +127,7 @@
       "size" : 8596976,
       "stats" : {
         "coreSize" : 102480,
-        "downloadCount" : 31,
+        "downloadCount" : 32,
         "impressionCount" : 167,
         "issueCount" : 0,
         "starCount" : 1,
@@ -219,7 +219,7 @@
       "size" : 7542560,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 19,
+        "downloadCount" : 20,
         "impressionCount" : 30,
         "issueCount" : 0,
         "starCount" : 0,
@@ -1030,6 +1030,51 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.40/Bon-Mot-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.40/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.40/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.40/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "sha256" : "e16c30985d920b18eefae19bce527f7669a7a24660066c75e4391f5a2e51bf47",
+      "size" : 5568292,
+      "stats" : {
+        "coreSize" : 102376,
+        "downloadCount" : 3,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.40",
+      "versionDate" : "2022-08-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.39...0.2.40"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Tweet-Storm",
       "categories" : [
 
@@ -1062,51 +1107,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.40/Bon-Mot-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.40/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.40/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.40/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "sha256" : "e16c30985d920b18eefae19bce527f7669a7a24660066c75e4391f5a2e51bf47",
-      "size" : 5568292,
-      "stats" : {
-        "coreSize" : 102376,
-        "downloadCount" : 2,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.40",
-      "versionDate" : "2022-08-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.39...0.2.40"
     }
   ],
   "fundingSources" : [

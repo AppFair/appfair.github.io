@@ -25,7 +25,7 @@
       "sha256" : "0997f557924dbffdc477bc8088b3512776a8382c5eae30e191d0e730012fbbd4",
       "stats" : {
         "downloadCount" : 2707,
-        "impressionCount" : 9710,
+        "impressionCount" : 9712,
         "viewCount" : 1033
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c3e9e2ec300d231ee6e9cdfe1dd8fc03d62ac6c23d8ddfcc9358e430dca73ea4",
       "stats" : {
         "downloadCount" : 16291,
-        "impressionCount" : 8525,
+        "impressionCount" : 8526,
         "viewCount" : 933
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8831,
-        "impressionCount" : 7510,
+        "impressionCount" : 7512,
         "viewCount" : 667
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28829,
-        "impressionCount" : 7823,
+        "impressionCount" : 7824,
         "viewCount" : 661
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8397,
-        "impressionCount" : 7821,
+        "impressionCount" : 7823,
         "viewCount" : 647
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6494,
-        "impressionCount" : 7856,
+        "impressionCount" : 7857,
         "viewCount" : 519
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3384,
-        "impressionCount" : 8293,
+        "impressionCount" : 8295,
         "viewCount" : 573
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3261,
-        "impressionCount" : 7084,
+        "impressionCount" : 7085,
         "viewCount" : 535
       },
       "subtitle" : "Text editor",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2768,
-        "impressionCount" : 6098,
+        "impressionCount" : 6100,
         "viewCount" : 388
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2086,
-        "impressionCount" : 7836,
+        "impressionCount" : 7837,
         "viewCount" : 827
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1833,
-        "impressionCount" : 6721,
+        "impressionCount" : 6722,
         "viewCount" : 429
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1217,
-        "impressionCount" : 6183,
+        "impressionCount" : 6184,
         "viewCount" : 484
       },
       "subtitle" : "Open-source Markdown editor",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1174,
-        "impressionCount" : 8183,
+        "impressionCount" : 8184,
         "viewCount" : 474
       },
       "subtitle" : "3D creation suite",
@@ -740,8 +740,8 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 2958,
-        "viewCount" : 245
+        "impressionCount" : 2959,
+        "viewCount" : 246
       },
       "subtitle" : "Create DMGs and other archives",
       "version" : "3.6.4"
@@ -1802,8 +1802,8 @@
       "sha256" : "9fea6c6a99700222caec3a26296e65aa1196f5d6474399c48410691bf6c80b94",
       "stats" : {
         "downloadCount" : 937,
-        "impressionCount" : 1788,
-        "viewCount" : 126
+        "impressionCount" : 1789,
+        "viewCount" : 127
       },
       "subtitle" : "PDF reader and note-taking application",
       "tintColor" : "CCB774",
@@ -3131,7 +3131,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6212,
-        "impressionCount" : 1127
+        "impressionCount" : 1128
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -4128,7 +4128,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 935,
-        "impressionCount" : 1463
+        "impressionCount" : 1464
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -5817,7 +5817,7 @@
       "sha256" : "628c0c0d4fe13fa378ee088046f3e84b16ec7d4cbd7eb016e570683dd316cf44",
       "stats" : {
         "downloadCount" : 343,
-        "impressionCount" : 678
+        "impressionCount" : 679
       },
       "subtitle" : "PDF reader, editor and annotator",
       "tintColor" : "D87D70",
@@ -8032,7 +8032,7 @@
       "sha256" : "875d1482ce69676065a794b508b34275b3d99715d3ce9eb74eb025e4b6a2d71c",
       "stats" : {
         "downloadCount" : 128,
-        "impressionCount" : 914
+        "impressionCount" : 915
       },
       "subtitle" : "Utility that shows the latest app updates",
       "tintColor" : "C5E9F0",
@@ -11327,7 +11327,7 @@
       "name" : "MacUpdater",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 452
+        "impressionCount" : 453
       },
       "subtitle" : "Track and update to the latest versions of installed software",
       "tintColor" : "90A3A3",
@@ -11348,7 +11348,7 @@
       "sha256" : "0f2dfcab1fefce5579ffbac035cef220c97840d0c6d494c6e7e4d88f08d1d3ff",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 410
+        "impressionCount" : 411
       },
       "subtitle" : "Extracts pages, splits, merges, mixes and rotates PDF files",
       "tintColor" : "76C194",
@@ -11428,7 +11428,7 @@
       "name" : "PDF Squeezer",
       "stats" : {
         "downloadCount" : 58,
-        "impressionCount" : 422
+        "impressionCount" : 423
       },
       "subtitle" : "PDF compression tool",
       "tintColor" : "7A586B",
@@ -12403,7 +12403,7 @@
       "name" : "Wondershare PDFelement for Mac",
       "stats" : {
         "downloadCount" : 50,
-        "impressionCount" : 415
+        "impressionCount" : 416
       },
       "subtitle" : "Create, edit, convert and sign PDF documents",
       "tintColor" : "767A9A",
@@ -13802,7 +13802,7 @@
       "name" : "Master PDF Editor",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 362
+        "impressionCount" : 363
       },
       "subtitle" : "PDF editor",
       "tintColor" : "D66163",
@@ -14876,7 +14876,7 @@
       "sha256" : "7f0270ce3db17cfa14a8a111de9fbf39fbdd330d9784796daf13019d08cac140",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 239
+        "impressionCount" : 240
       },
       "subtitle" : "Tool for liberating data tables trapped inside PDF files",
       "tintColor" : "02A286",
@@ -16176,7 +16176,7 @@
       "sha256" : "76092c2978d062e7e18d6ec538c259d2360307261c53d98512dfdca340c9e19a",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 276
+        "impressionCount" : 277
       },
       "tintColor" : "D5595D",
       "version" : "1.1"
@@ -16658,7 +16658,7 @@
       "name" : "PDF Reader Pro",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 736
+        "impressionCount" : 737
       },
       "subtitle" : "Read, annotate, edit, convert, create, OCR, fill forms and sign PDFs",
       "tintColor" : "EC9999",
@@ -20060,7 +20060,7 @@
       "name" : "Yate",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 255
+        "impressionCount" : 256
       },
       "subtitle" : "Media file tag editor",
       "tintColor" : "3F7AA6",
@@ -21487,7 +21487,7 @@
       "sha256" : "93b9b39373b7dffa44b17e7f99bb1078d2d5742e50ff2940d8feef9a8b42e0fe",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 584
+        "impressionCount" : 585
       },
       "subtitle" : "Drawing editor for creating figures in PDF format",
       "tintColor" : "94999E",
@@ -21607,7 +21607,7 @@
       "sha256" : "b09ce8bedd2d62478668910edb12e7c9fbdca70591d4a623edaa084bd99786eb",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 236
+        "impressionCount" : 237
       },
       "tintColor" : "C1AD4F",
       "version" : "2.0.2"
@@ -22904,7 +22904,7 @@
       "sha256" : "1f76e0d76eedc6d9d1d013f380cf101507a2ca858e669e25786a01418041231d",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 219
+        "impressionCount" : 220
       },
       "subtitle" : "PDF editing software",
       "tintColor" : "ACD18A",
@@ -22984,7 +22984,7 @@
       "sha256" : "bc8bf077a504cdb2d09d7adee313e408d40063e66e2c0d8722c6678e4ee5cc20",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 189
+        "impressionCount" : 190
       },
       "subtitle" : "PDF presentation tool",
       "tintColor" : "469DF0",
@@ -24490,7 +24490,7 @@
       "sha256" : "150c2a1905360bded1eef9afc65c38127037cc81e389ad68a339c9c52cec5a82",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 212
+        "impressionCount" : 213
       },
       "subtitle" : "Create searchable and smaller PDF",
       "tintColor" : "D63737",
@@ -26183,7 +26183,7 @@
       "sha256" : "6522b30a957ceeea13bc18506da501673ab3798fbdfe5fe73add6d764f5dc0a8",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 206
+        "impressionCount" : 207
       },
       "subtitle" : "PDF editing software",
       "tintColor" : "BBCBDA",
@@ -28966,7 +28966,7 @@
       "name" : "VipRiser",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 126
+        "impressionCount" : 127
       },
       "subtitle" : "Produce a PDF from any application that can print",
       "tintColor" : "A4B6BF",
@@ -29200,7 +29200,7 @@
       "name" : "File Juicer",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 285
+        "impressionCount" : 286
       },
       "subtitle" : "Extract images from PDF, PowerPoint, Word, Excel and other Files",
       "tintColor" : "777670",
@@ -29751,7 +29751,7 @@
       "sha256" : "627013bbffbb7beafc864bff64e961f776879b7b5dcc8faf1934d6dd4337f8dd",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 227
+        "impressionCount" : 228
       },
       "subtitle" : "Document converter",
       "tintColor" : "AE5C2E",
@@ -29769,7 +29769,7 @@
       "name" : "PDFExtractor",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 569
+        "impressionCount" : 570
       },
       "tintColor" : "89BCD6",
       "version" : "1.1.4,10104"
@@ -30543,7 +30543,7 @@
       "name" : "Cisdem PDF Converter OCR",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 1133
+        "impressionCount" : 1134
       },
       "subtitle" : "PDF Converter with OCR capability",
       "tintColor" : "E7AC7D",
@@ -35376,7 +35376,7 @@
       "name" : "PDFelement Express",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 203
+        "impressionCount" : 204
       },
       "tintColor" : "484E7A",
       "version" : "1.2.1,1441"
@@ -38564,7 +38564,7 @@
       "name" : "Cisdem PDFManagerUltimate",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 302
+        "impressionCount" : 303
       },
       "tintColor" : "D05F5E",
       "version" : "3.2.0"
@@ -38932,7 +38932,7 @@
       "sha256" : "9e1cc01fdb4702da674a4cc4bed06529168f0723ec2cef7770beacfb7d64b146",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 408
+        "impressionCount" : 409
       },
       "subtitle" : "Make presentations from PDFs",
       "tintColor" : "94999E",
@@ -39678,7 +39678,7 @@
       "sha256" : "742b5ddc5d171c4bcc8281f4469df8ca62a59c71a7b318ff29ad9a664b80f2b8",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 119
+        "impressionCount" : 120
       },
       "subtitle" : "Dual-head presentation of PDF slides",
       "tintColor" : "88909C",
@@ -46399,7 +46399,7 @@
       "sha256" : "c0840985ce6a8ff8e90dc0d92137af57fb9229b1b53ad8728faf847f464f288f",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 84
+        "impressionCount" : 85
       },
       "subtitle" : "PDF file editor",
       "tintColor" : "847C77",
@@ -47149,7 +47149,7 @@
       "sha256" : "e856abc26c08de4cf28e49619db520266c6ad3e63aa7c5ab1b43ad84753a08de",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 101
+        "impressionCount" : 102
       },
       "subtitle" : "PDF editor",
       "tintColor" : "4BAE87",
@@ -47893,7 +47893,7 @@
       "sha256" : "dcfc59d57f756802e844614b7dae43bca67284ec85fe6b909f244e41f20987b3",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 50
+        "impressionCount" : 51
       },
       "tintColor" : "B18FCC",
       "version" : "3.1"
@@ -50978,7 +50978,7 @@
       "sha256" : "a97719233316006ce2e2981f24f193b61510a2c958e4f67769bfc136d459a508",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 63
+        "impressionCount" : 64
       },
       "subtitle" : "Convert potentially dangerous PDFs or Office documents into safe PDFs",
       "tintColor" : "A14F17",
@@ -53132,7 +53132,7 @@
       "sha256" : "7a9247e8623da5b6c74b65ad6d9e0be7667b832816134393e871e584c00eee64",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 51
+        "impressionCount" : 52
       },
       "subtitle" : "Displays folders and archives of images and PDF files",
       "tintColor" : "8A969D",
@@ -57464,7 +57464,7 @@
       "sha256" : "9a5c37bad02a9dea7448e4ebe6fc6b0887efa05b0530603b9be1e5b0b3db2542",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 69
+        "impressionCount" : 70
       },
       "subtitle" : "Overlays text and graphics on PDF documents",
       "tintColor" : "8D8073",
@@ -58725,7 +58725,7 @@
       "name" : "PDF-Over",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 128
+        "impressionCount" : 129
       },
       "subtitle" : "Digitally sign PDFs with the Austrian Buergerkarte or ID Austria",
       "tintColor" : "C9C9C9",

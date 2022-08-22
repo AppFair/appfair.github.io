@@ -62,7 +62,7 @@
       "size" : 9613696,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 209,
+        "downloadCount" : 212,
         "impressionCount" : 54,
         "issueCount" : 6,
         "starCount" : 28,
@@ -550,6 +550,41 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Eternal-September",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Eternal-September-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Eternal-September.png",
+      "localizedDescription" : "An app for learning Roman Numerals",
+      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Info.plist#5af4bf8fcdb5c153dd6d420a4ea10fd8664b88c04dc7d374db849f7d9ccd43ee",
+      "name" : "Eternal September",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/README.md#721eb5f81ec8d74a19278cd6ff67d62ef22beecdc29657d3f3c65254f4b90a13",
+      "sha256" : "4251fc77459c4621f0b52014fa2f76b8e73996bd07e5da04df4550649f586bb1",
+      "size" : 2471831,
+      "stats" : {
+        "coreSize" : 152640,
+        "downloadCount" : 7,
+        "impressionCount" : 946,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 64,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for learning Roman Numerals",
+      "version" : "0.0.32",
+      "versionDate" : "2022-01-26T00:00:00Z",
+      "versionDescription" : "Release 0.0.32"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
 
@@ -702,80 +737,6 @@
       "version" : "0.3.38",
       "versionDate" : "2022-01-26T00:00:00Z",
       "versionDescription" : "Release 0.3.38"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Eternal-September",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Eternal-September-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Eternal-September.png",
-      "localizedDescription" : "An app for learning Roman Numerals",
-      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Info.plist#5af4bf8fcdb5c153dd6d420a4ea10fd8664b88c04dc7d374db849f7d9ccd43ee",
-      "name" : "Eternal September",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/README.md#721eb5f81ec8d74a19278cd6ff67d62ef22beecdc29657d3f3c65254f4b90a13",
-      "sha256" : "4251fc77459c4621f0b52014fa2f76b8e73996bd07e5da04df4550649f586bb1",
-      "size" : 2471831,
-      "stats" : {
-        "coreSize" : 152640,
-        "downloadCount" : 7,
-        "impressionCount" : 946,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 64,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for learning Roman Numerals",
-      "version" : "0.0.32",
-      "versionDate" : "2022-01-26T00:00:00Z",
-      "versionDescription" : "Release 0.0.32"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.17/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Media-Res/App/releases/download/0.0.17/screenshot_01-mac-dark-mac-484x460.png",
-        "https://github.com/Media-Res/App/releases/download/0.0.17/screenshot_01-mac-light-mac-484x460.png"
-      ],
-      "sha256" : "ec1eb7ae225c3031d06a93b032fbb4f5947a2eff6264446e3c3ebd452ac7faf0",
-      "size" : 2356646,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 6,
-        "impressionCount" : 1572,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 71,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.17",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.17"
     },
     {
       "beta" : true,
@@ -1435,6 +1396,45 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.18/Media-Res-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.18/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.18/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.18/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Media-Res/App/releases/download/0.0.18/screenshot_01-mac-dark-mac-484x460.png",
+        "https://github.com/Media-Res/App/releases/download/0.0.18/screenshot_01-mac-light-mac-484x460.png"
+      ],
+      "sha256" : "e867a0e11d0e72e626ffb00a754e85739ece89c8cbfea03fb595ac5d2dcf7304",
+      "size" : 2221667,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 1,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.18",
+      "versionDate" : "2022-08-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.17...0.0.18"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
 
@@ -1515,13 +1515,6 @@
   "name" : "Fair Apps",
   "news" : [
     {
-      "appID" : "app.Lottie-Motion",
-      "caption" : "Lottie Motion updated from 0.0.87 to 0.0.90",
-      "date" : "2022-07-20T07:20:15Z",
-      "identifier" : "release-app.Lottie-Motion-0.0.90",
-      "title" : "New Release: Lottie Motion 0.0.90"
-    },
-    {
       "appID" : "app.Stanza-Redux",
       "caption" : "Stanza Redux updated from 0.3.46 to 0.3.48",
       "date" : "2022-08-15T15:04:01Z",
@@ -1583,6 +1576,13 @@
       "date" : "2022-08-22T13:29:36Z",
       "identifier" : "release-app.Fox-Glove-0.0.5",
       "title" : "New Release: Fox Glove 0.0.5"
+    },
+    {
+      "appID" : "app.Media-Res",
+      "caption" : "Media Res 0.0.18 released",
+      "date" : "2022-08-22T15:24:01Z",
+      "identifier" : "release-app.Media-Res-0.0.18",
+      "title" : "New Release: Media Res 0.0.18"
     }
   ],
   "platform" : "macos"

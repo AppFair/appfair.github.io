@@ -25,7 +25,7 @@
       "sha256" : "0997f557924dbffdc477bc8088b3512776a8382c5eae30e191d0e730012fbbd4",
       "stats" : {
         "downloadCount" : 2707,
-        "impressionCount" : 9708,
+        "impressionCount" : 9710,
         "viewCount" : 1033
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -208,7 +208,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3384,
-        "impressionCount" : 8291,
+        "impressionCount" : 8293,
         "viewCount" : 573
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1174,
-        "impressionCount" : 8181,
+        "impressionCount" : 8183,
         "viewCount" : 474
       },
       "subtitle" : "3D creation suite",
@@ -473,7 +473,7 @@
       ],
       "stats" : {
         "downloadCount" : 526,
-        "impressionCount" : 5907,
+        "impressionCount" : 5909,
         "viewCount" : 466
       },
       "subtitle" : "Sandbox construction video game",
@@ -505,7 +505,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 362,
-        "impressionCount" : 6482,
+        "impressionCount" : 6483,
         "viewCount" : 476
       },
       "subtitle" : "Text, code, and markup editor",
@@ -761,7 +761,7 @@
       "sha256" : "b2f4ad8fea37dfb7d9147f169a9ceab71d7d0d12ff912057c60b58c0e91aed35",
       "stats" : {
         "downloadCount" : 24618,
-        "impressionCount" : 4126,
+        "impressionCount" : 4128,
         "viewCount" : 293
       },
       "subtitle" : "App to build and share containerized applications and microservices",
@@ -869,7 +869,7 @@
       "sha256" : "7b71880b22563d97d276727c3f394d12d9e28873b1c1604bd241f4b3e668cab0",
       "stats" : {
         "downloadCount" : 6337,
-        "impressionCount" : 4597,
+        "impressionCount" : 4599,
         "viewCount" : 450
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1006,7 +1006,7 @@
       "sha256" : "fc7e8409f24b5bec4cebf8fd61bbf57069b5acf5eaa69c0db3100b80b26a18fc",
       "stats" : {
         "downloadCount" : 4010,
-        "impressionCount" : 4204,
+        "impressionCount" : 4206,
         "viewCount" : 258
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1470,7 +1470,7 @@
       "sha256" : "117c099ce22c430dad0c8ca4daa56020e7b0cf0679d984c64d8d74790a8f2f8d",
       "stats" : {
         "downloadCount" : 2177,
-        "impressionCount" : 3604,
+        "impressionCount" : 3606,
         "viewCount" : 384
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -1493,7 +1493,7 @@
       "sha256" : "7f29732f3508cb0ce4c5859b0ecc32e6fa2f2fdb54ab25a66865fbe78c50a0b7",
       "stats" : {
         "downloadCount" : 2056,
-        "impressionCount" : 3728,
+        "impressionCount" : 3730,
         "viewCount" : 179
       },
       "subtitle" : "E-books management software",
@@ -1576,7 +1576,7 @@
       "sha256" : "616d719572e4917d1264c622033afb1b4dd98e2553a0d09fd72470c99bad48e5",
       "stats" : {
         "downloadCount" : 1461,
-        "impressionCount" : 2979,
+        "impressionCount" : 2981,
         "viewCount" : 145
       },
       "subtitle" : "Web browser focusing on security",
@@ -2009,7 +2009,7 @@
       "sha256" : "7b41200f63ab17ff92b8e1ea4c313e5fbca3acb55a271ff052b1275476d38483",
       "stats" : {
         "downloadCount" : 564,
-        "impressionCount" : 2540,
+        "impressionCount" : 2542,
         "viewCount" : 119
       },
       "subtitle" : "Home media player",
@@ -2060,7 +2060,7 @@
       "sha256" : "ae237598c01f44d114408c4d12a554f0bb4ec389fbebb5569731b1ea0020fcdf",
       "stats" : {
         "downloadCount" : 513,
-        "impressionCount" : 3933
+        "impressionCount" : 3935
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2261,7 +2261,7 @@
       "sha256" : "2c90eb6b779938f7a79dc7f6ef52da291b3c063e14ad182a0623ba2ea2ac3fb2",
       "stats" : {
         "downloadCount" : 309,
-        "impressionCount" : 3211,
+        "impressionCount" : 3213,
         "viewCount" : 158
       },
       "subtitle" : "Matrix collaboration client",
@@ -2571,7 +2571,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audio-hijack/README.md",
       "stats" : {
         "downloadCount" : 98,
-        "impressionCount" : 3047,
+        "impressionCount" : 3048,
         "viewCount" : 144
       },
       "subtitle" : "Records audio from any application",
@@ -3404,7 +3404,7 @@
       "sha256" : "60e3db6ef10e328577072338add87fd7a3480604ff1da82935de59557e48ad65",
       "stats" : {
         "downloadCount" : 2303,
-        "impressionCount" : 2611
+        "impressionCount" : 2613
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
@@ -3487,7 +3487,7 @@
       "sha256" : "7a351f2fa507a8cbac55f6a094694e0cab457ca6cdc336752e6464712ce27aca",
       "stats" : {
         "downloadCount" : 1946,
-        "impressionCount" : 1978
+        "impressionCount" : 1979
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -6802,7 +6802,7 @@
       "sha256" : "249a3fe550d10598309a922c728e6957a2c32de6337fb57bec1401fde6407640",
       "stats" : {
         "downloadCount" : 199,
-        "impressionCount" : 1342
+        "impressionCount" : 1344
       },
       "subtitle" : "Native code editor",
       "tintColor" : "702495",
@@ -14658,7 +14658,7 @@
       "sha256" : "924fe26c6ddb12a65c05de7573138ef10a3a482801341f5aecf39619d5d5db53",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 245
+        "impressionCount" : 247
       },
       "subtitle" : "Epub reader",
       "tintColor" : "699FFD",

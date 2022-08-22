@@ -62,7 +62,7 @@
       "size" : 9613696,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 207,
+        "downloadCount" : 209,
         "impressionCount" : 53,
         "issueCount" : 6,
         "starCount" : 28,
@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 37,
-        "impressionCount" : 4260,
+        "impressionCount" : 4261,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 696,
@@ -160,7 +160,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2867,
+        "impressionCount" : 2868,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 211,
@@ -208,7 +208,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 22,
-        "impressionCount" : 192,
+        "impressionCount" : 193,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 28,
@@ -284,10 +284,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3201,
+        "impressionCount" : 3202,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 551,
+        "viewCount" : 552,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -346,44 +346,6 @@
       "version" : "0.0.44",
       "versionDate" : "2022-08-19T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.43...0.0.44"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Crazy-Glue.png",
-      "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Crazy Glue",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Crazy-Glue/App/releases/download/0.0.4/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "bb88aca0dda7fed7a8fb7c8d0c292357e90d6326e1667f2dd8947f1b11f04eac",
-      "size" : 2317729,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 20,
-        "impressionCount" : 2943,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 223,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-23T00:00:00Z",
-      "versionDescription" : "Release 0.0.4"
     },
     {
       "beta" : true,
@@ -885,7 +847,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2703,
+        "impressionCount" : 2704,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 173,
@@ -930,45 +892,6 @@
       "version" : "0.0.1",
       "versionDate" : "2022-07-04T00:00:00Z",
       "versionDescription" : ""
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Fox-Glove",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Fox-Glove.png",
-      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
-      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Fox Glove",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.4/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/Fox-Glove/App/releases/download/0.0.4/screenshot_01-mac-dark-mac-1936x1036.png",
-        "https://github.com/Fox-Glove/App/releases/download/0.0.4/screenshot_01-mac-light-mac-1936x1036.png"
-      ],
-      "sha256" : "b1c654805f85e21d51803ac45995486c60d4b7b9a8f5b4d648497f63fa5f42fa",
-      "size" : 2427021,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 4,
-        "impressionCount" : 2003,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 116,
-        "watcherCount" : 0
-      },
-      "subtitle" : "There, I fixed the web for you. You're welcome.",
-      "version" : "0.0.4",
-      "versionDate" : "2022-01-23T00:00:00Z",
-      "versionDescription" : "Release 0.0.4"
     },
     {
       "beta" : true,
@@ -1081,7 +1004,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 168,
+        "impressionCount" : 169,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 25,
@@ -1303,7 +1226,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2662,
+        "impressionCount" : 2663,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 141,
@@ -1348,6 +1271,83 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Crazy-Glue",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.5/Crazy-Glue-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.5/Crazy-Glue.png",
+      "localizedDescription" : "Putting the pieces back together",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Crazy Glue",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.5/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.5/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "08b510b7dba463f8bb48369a2d326ee72b2fcb39259debf9ae57b696d650ac94",
+      "size" : 2186841,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Putting the pieces back together",
+      "version" : "0.0.5",
+      "versionDate" : "2022-08-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.4...0.0.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fox-Glove",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.5/Fox-Glove-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.5/Fox-Glove.png",
+      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
+      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Fox Glove",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.5/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Fox-Glove/App/releases/download/0.0.5/screenshot_01-mac-dark-mac-1936x1036.png",
+        "https://github.com/Fox-Glove/App/releases/download/0.0.5/screenshot_01-mac-light-mac-1936x1036.png"
+      ],
+      "sha256" : "64787301234af0d6b136b516e758ee6c55b189dae5fd345f0e18c2507c5ef900",
+      "size" : 2295166,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "There, I fixed the web for you. You're welcome.",
+      "version" : "0.0.5",
+      "versionDate" : "2022-08-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Fox-Glove/App/compare/0.0.4...0.0.5"
     },
     {
       "beta" : false,
@@ -1515,20 +1515,6 @@
   "name" : "Fair Apps",
   "news" : [
     {
-      "appID" : "app.Main-Course",
-      "caption" : "Main Course 0.0.16 released",
-      "date" : "2022-07-20T06:39:21Z",
-      "identifier" : "release-app.Main-Course-0.0.16",
-      "title" : "New Release: Main Course 0.0.16"
-    },
-    {
-      "appID" : "app.Hex-Loupe",
-      "caption" : "Hex Loupe 0.0.20 released",
-      "date" : "2022-07-20T06:56:31Z",
-      "identifier" : "release-app.Hex-Loupe-0.0.20",
-      "title" : "New Release: Hex Loupe 0.0.20"
-    },
-    {
       "appID" : "app.Lottie-Motion",
       "caption" : "Lottie Motion updated from 0.0.87 to 0.0.90",
       "date" : "2022-07-20T07:20:15Z",
@@ -1583,6 +1569,20 @@
       "date" : "2022-08-22T12:49:15Z",
       "identifier" : "release-app.Encyclopedia-Galactica-0.1.4",
       "title" : "New Release: Encyclopedia Galactica 0.1.4"
+    },
+    {
+      "appID" : "app.Crazy-Glue",
+      "caption" : "Crazy Glue 0.0.5 released",
+      "date" : "2022-08-22T13:29:35Z",
+      "identifier" : "release-app.Crazy-Glue-0.0.5",
+      "title" : "New Release: Crazy Glue 0.0.5"
+    },
+    {
+      "appID" : "app.Fox-Glove",
+      "caption" : "Fox Glove 0.0.5 released",
+      "date" : "2022-08-22T13:29:36Z",
+      "identifier" : "release-app.Fox-Glove-0.0.5",
+      "title" : "New Release: Fox Glove 0.0.5"
     }
   ],
   "platform" : "macos"

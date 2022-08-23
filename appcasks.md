@@ -836,7 +836,7 @@ tr:nth-child(even) {
 | [``mmhmm``](https://www.mmhmm.app/) | ``2.3.2,1657772000`` | `24` | `2022-07-15T00:00:00Z` |  | `442` |  |  | `0` | `public.app-category.video` |
 | [``Navicat for PostgreSQL``](https://www.navicat.com/products/navicat-for-postgresql) | ``16.1.1`` | `24` | `2022-08-16T00:00:00Z` |  | `246` |  |  | `0` | `public.app-category.developer-tools` |
 | [``NoSleep``](https://integralpro.github.io/nosleep/) | ``1.5.1`` | `24` |  |  | `199` |  |  | `0` | `public.app-category.utilities` |
-| [``PDF Reader Pro``](https://www.pdfreaderpro.com/) | ``2.8.17.1`` | `24` | `2022-08-23T16:29:15Z` |  | `740` |  |  | `0` | `public.app-category.business` |
+| [``PDF Reader Pro``](https://www.pdfreaderpro.com/) | ``2.8.17.1`` | `24` | `2022-08-23T00:00:00Z` |  | `740` |  |  | `0` | `public.app-category.business` |
 | [``Ren'Py``](https://www.renpy.org/) | ``8.0.2`` | `24` | `2022-08-16T00:00:00Z` |  | `95` |  |  | `0` | `public.app-category.simulation-games` |
 | [``Silicon Info``](https://github.com/billycastelli/Silicon-Info) | ``1.0.3`` | `24` |  |  | `252` |  |  | `0` | `public.app-category.utilities` |
 | [``Udeler``](https://github.com/FaisalUmair/udemy-downloader-gui/) | ``1.8.2`` | `24` |  |  | `192` |  |  | `0` | `public.app-category.developer-tools` |
@@ -3075,7 +3075,7 @@ tr:nth-child(even) {
 | [``mambaforge``](https://github.com/conda-forge/miniforge) | ``4.13.0-1`` | `142` | `2022-07-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Amazon Workspaces``](https://clients.amazonworkspaces.com/) | ``5.2.0.2421`` | `141` | `2022-08-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Ace Link``](https://github.com/blaise-io/acelink) | ``2.0.2`` | `139` |  |  |  |  |  | `0` |  |
-| [``Thonny``](https://thonny.org/) | ``4.0.0`` | `139` | `2022-08-23T16:29:15Z` |  |  |  |  | `0` |  |
+| [``Thonny``](https://thonny.org/) | ``4.0.0`` | `139` | `2022-08-23T00:00:00Z` |  |  |  |  | `0` |  |
 | [``RDM``](https://github.com/avibrazil/RDM) | ``2.2`` | `137` |  |  |  |  |  | `0` |  |
 | [``구름 입력기``](https://gureum.io/) | ``1.13.0`` | `136` | `2022-07-14T00:00:00Z` |  |  |  |  | `0` |  |
 | [``SapMachine OpenJDK Devel…``](https://sapmachine.io/) | ``18.0.2`` | `136` | `2022-07-20T00:00:00Z` |  |  |  |  | `0` |  |

@@ -62,7 +62,7 @@
       "size" : 9627917,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 92,
+        "downloadCount" : 94,
         "impressionCount" : 26,
         "issueCount" : 6,
         "starCount" : 28,
@@ -376,7 +376,7 @@
       "sha256" : "42cb95f6d5523bf468c56ff325a366efea2dd054cd38595b97a9be1676d01ce5",
       "size" : 2282594,
       "stats" : {
-        "coreSize" : 170144,
+        "coreSize" : 102400,
         "downloadCount" : 12,
         "impressionCount" : 20,
         "issueCount" : 0,

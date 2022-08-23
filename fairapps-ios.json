@@ -83,7 +83,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 32,
-        "impressionCount" : 185,
+        "impressionCount" : 186,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 28,
@@ -175,7 +175,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 20,
-        "impressionCount" : 40,
+        "impressionCount" : 41,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -219,7 +219,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 210,
+        "impressionCount" : 211,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 30,
@@ -254,8 +254,8 @@
       "size" : 5547666,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 12,
-        "impressionCount" : 17,
+        "downloadCount" : 13,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -437,7 +437,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 8,
-        "impressionCount" : 21,
+        "impressionCount" : 22,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 7,
@@ -959,42 +959,7 @@
       "versionDescription" : "Release 0.0.11"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tweet-Storm",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
-      "localizedDescription" : "Unleash your inner dialog",
-      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Tweet Storm",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "aeb2ff06d3230234d3b1934b86218fca5e50e77556f92c91015b93e8ecf9f937",
-      "size" : 6408682,
-      "stats" : {
-        "coreSize" : 102392,
-        "downloadCount" : 3,
-        "impressionCount" : 612,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 39,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Unleash your inner dialog",
-      "version" : "0.0.12",
-      "versionDate" : "2022-05-01T00:00:00Z",
-      "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
@@ -1021,7 +986,7 @@
       "size" : 5813354,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 2,
+        "downloadCount" : 3,
         "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
@@ -1057,7 +1022,7 @@
       "size" : 5881217,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 2,
+        "downloadCount" : 3,
         "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 0,
@@ -1068,6 +1033,41 @@
       "version" : "0.0.7",
       "versionDate" : "2022-08-23T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Fox-Glove/App/compare/0.0.6...0.0.7"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tweet-Storm",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
+      "localizedDescription" : "Unleash your inner dialog",
+      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Tweet Storm",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "aeb2ff06d3230234d3b1934b86218fca5e50e77556f92c91015b93e8ecf9f937",
+      "size" : 6408682,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 3,
+        "impressionCount" : 612,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 39,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Unleash your inner dialog",
+      "version" : "0.0.12",
+      "versionDate" : "2022-05-01T00:00:00Z",
+      "versionDescription" : "Release 0.0.12"
     },
     {
       "beta" : false,
@@ -1093,7 +1093,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 1,
-        "impressionCount" : 11,
+        "impressionCount" : 12,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,

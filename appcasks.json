@@ -25,7 +25,7 @@
       "sha256" : "0997f557924dbffdc477bc8088b3512776a8382c5eae30e191d0e730012fbbd4",
       "stats" : {
         "downloadCount" : 2756,
-        "impressionCount" : 9722,
+        "impressionCount" : 9723,
         "viewCount" : 1033
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c3e9e2ec300d231ee6e9cdfe1dd8fc03d62ac6c23d8ddfcc9358e430dca73ea4",
       "stats" : {
         "downloadCount" : 16593,
-        "impressionCount" : 8536,
+        "impressionCount" : 8537,
         "viewCount" : 933
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8930,
-        "impressionCount" : 7521,
+        "impressionCount" : 7522,
         "viewCount" : 667
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29397,
-        "impressionCount" : 7835,
+        "impressionCount" : 7836,
         "viewCount" : 663
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8448,
-        "impressionCount" : 7831,
+        "impressionCount" : 7832,
         "viewCount" : 647
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6594,
-        "impressionCount" : 7867,
+        "impressionCount" : 7868,
         "viewCount" : 519
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3470,
-        "impressionCount" : 8306,
+        "impressionCount" : 8307,
         "viewCount" : 574
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3313,
-        "impressionCount" : 7095,
+        "impressionCount" : 7096,
         "viewCount" : 535
       },
       "subtitle" : "Text editor",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2760,
-        "impressionCount" : 6107,
+        "impressionCount" : 6108,
         "viewCount" : 389
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2085,
-        "impressionCount" : 7847,
+        "impressionCount" : 7848,
         "viewCount" : 827
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1855,
-        "impressionCount" : 6732,
+        "impressionCount" : 6733,
         "viewCount" : 429
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1255,
-        "impressionCount" : 6194,
+        "impressionCount" : 6195,
         "viewCount" : 484
       },
       "subtitle" : "Open-source Markdown editor",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1180,
-        "impressionCount" : 8193,
+        "impressionCount" : 8194,
         "viewCount" : 474
       },
       "subtitle" : "3D creation suite",
@@ -444,7 +444,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 652,
-        "impressionCount" : 6334,
+        "impressionCount" : 6335,
         "viewCount" : 336
       },
       "subtitle" : "Text editor",
@@ -473,7 +473,7 @@
       ],
       "stats" : {
         "downloadCount" : 529,
-        "impressionCount" : 5916,
+        "impressionCount" : 5917,
         "viewCount" : 466
       },
       "subtitle" : "Sandbox construction video game",
@@ -505,7 +505,7 @@
       "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
       "stats" : {
         "downloadCount" : 366,
-        "impressionCount" : 6490,
+        "impressionCount" : 6491,
         "viewCount" : 476
       },
       "subtitle" : "Text, code, and markup editor",
@@ -674,7 +674,7 @@
       "sha256" : "65c67ab1fa1e016363b14b303d5979cb61c051ee97d1763e0abfee6592085d23",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 3223,
+        "impressionCount" : 3224,
         "viewCount" : 306
       },
       "subtitle" : "EVE Online client",
@@ -1380,7 +1380,7 @@
       "sha256" : "a1a964ab100ff92cbc5ce50c63699199050572474c2b1f34bec84de673d31a7f",
       "stats" : {
         "downloadCount" : 2401,
-        "impressionCount" : 3014,
+        "impressionCount" : 3015,
         "viewCount" : 208
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1825,7 +1825,7 @@
       "sha256" : "9fea6c6a99700222caec3a26296e65aa1196f5d6474399c48410691bf6c80b94",
       "stats" : {
         "downloadCount" : 934,
-        "impressionCount" : 1791,
+        "impressionCount" : 1792,
         "viewCount" : 127
       },
       "subtitle" : "PDF reader and note-taking application",
@@ -2009,7 +2009,7 @@
       "sha256" : "7b41200f63ab17ff92b8e1ea4c313e5fbca3acb55a271ff052b1275476d38483",
       "stats" : {
         "downloadCount" : 569,
-        "impressionCount" : 2548,
+        "impressionCount" : 2549,
         "viewCount" : 120
       },
       "subtitle" : "Home media player",
@@ -2127,7 +2127,7 @@
       "sha256" : "1aca3e8174b5d63f2e5c83be3a478197917226bb956d0dd19b17a56fe21ff93e",
       "stats" : {
         "downloadCount" : 511,
-        "impressionCount" : 2255,
+        "impressionCount" : 2256,
         "viewCount" : 126
       },
       "subtitle" : "Note taking and to-do application with synchronization capabilities",
@@ -2149,7 +2149,7 @@
       "sha256" : "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
       "stats" : {
         "downloadCount" : 470,
-        "impressionCount" : 1544,
+        "impressionCount" : 1545,
         "viewCount" : 74
       },
       "subtitle" : "Screen capture tool with mark up and sharing features",
@@ -2239,7 +2239,7 @@
       "sha256" : "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73",
       "stats" : {
         "downloadCount" : 339,
-        "impressionCount" : 2091,
+        "impressionCount" : 2092,
         "viewCount" : 206
       },
       "subtitle" : "Retro video game emulation",
@@ -2371,7 +2371,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/README.md",
       "stats" : {
         "downloadCount" : 190,
-        "impressionCount" : 468,
+        "impressionCount" : 469,
         "viewCount" : 36
       },
       "subtitle" : "Multiplayer online battle arena game",
@@ -2528,7 +2528,7 @@
       "sha256" : "20346073731e3dc0ccfc79ce05abe2e1e3a9d815fb945c0683169d455c6c1004",
       "stats" : {
         "downloadCount" : 121,
-        "impressionCount" : 1941,
+        "impressionCount" : 1942,
         "viewCount" : 175
       },
       "subtitle" : "Real-time strategy game engine for Westwood games",
@@ -2710,7 +2710,7 @@
       "sha256" : "d1a2073dee3435d8a78bf289206248c9ed6be5e17f4ba1ac8412caf6d0eae0b0",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 1980,
+        "impressionCount" : 1981,
         "viewCount" : 165
       },
       "subtitle" : "Real-time strategy game",
@@ -2830,7 +2830,7 @@
       "sha256" : "5a0bdd9bc4cb7beea03b95a2549c1cf994ea8646f6621f5353dd22d79c757404",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 1899,
+        "impressionCount" : 1900,
         "viewCount" : 146
       },
       "subtitle" : "Turn-based strategy, artillery, action and comedy game",
@@ -2851,7 +2851,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-moneydance/README.md",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 1587,
+        "impressionCount" : 1588,
         "viewCount" : 79
       },
       "subtitle" : "Personal financial management application focused on privacy",
@@ -2964,7 +2964,7 @@
       "sha256" : "d5c01584a97aaee4aef222b0f07ada24ada823a7a515a79c357084b1ecddd8a2",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 1689,
+        "impressionCount" : 1690,
         "viewCount" : 96
       },
       "subtitle" : "Board game engine",
@@ -3131,7 +3131,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6313,
-        "impressionCount" : 1139
+        "impressionCount" : 1140
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -4459,7 +4459,7 @@
       "sha256" : "5d1e74d9e9c8cfe9c914adb901bf401507f2e7675e3c7032bec66048ce2dec97",
       "stats" : {
         "downloadCount" : 767,
-        "impressionCount" : 847
+        "impressionCount" : 848
       },
       "subtitle" : "Interface for reading and syncing eBooks",
       "tintColor" : "3F6E7F",
@@ -4480,7 +4480,7 @@
       "sha256" : "dc71b6102591f5a89a8dec478dcfea3be00f7cd9357e23b6ea8bbec5668bd953",
       "stats" : {
         "downloadCount" : 722,
-        "impressionCount" : 815
+        "impressionCount" : 816
       },
       "subtitle" : "App for note taking, organizing, task lists, and archiving",
       "tintColor" : "A2DFB2",
@@ -4822,7 +4822,7 @@
       "sha256" : "92eb39f59f4e7b8b1b025178b337a0ef9d619521144748a32b3e2b8df1c45a00",
       "stats" : {
         "downloadCount" : 596,
-        "impressionCount" : 1158
+        "impressionCount" : 1159
       },
       "subtitle" : "Memory training application",
       "tintColor" : "91A2AE",
@@ -5627,7 +5627,7 @@
       "sha256" : "176393a804c90d2aa9155e73b0ad0599380e05dd44d5ec2b35265687e6ffd080",
       "stats" : {
         "downloadCount" : 375,
-        "impressionCount" : 416
+        "impressionCount" : 417
       },
       "subtitle" : "Utilities designed to make common development tasks easier",
       "tintColor" : "7344A1",
@@ -5647,7 +5647,7 @@
       "sha256" : "21311ae319d7e235fa5cbfa53eb9e4bb2a9c9056cd849ae9916f20d2d9c6c9e5",
       "stats" : {
         "downloadCount" : 373,
-        "impressionCount" : 755
+        "impressionCount" : 756
       },
       "subtitle" : "Web security testing toolkit",
       "tintColor" : "0FA7BC",
@@ -6916,20 +6916,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://aptonic.com/releases/Dropzone-4.4.5.zip",
+      "downloadURL" : "https://aptonic.com/releases/Dropzone-4.4.6.zip",
       "homepage" : "https://aptonic.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dropzone/AppIcon.png",
       "localizedDescription" : "Productivity app",
       "name" : "Dropzone",
-      "sha256" : "a063405f45915762aff1e389dc2801321ef0e3315e4dcf5d45e247b6952025cf",
+      "sha256" : "584d61a9f89a34e6e63126960e4642d25fdfd67068d61b933694b2eb456a72ac",
       "stats" : {
         "downloadCount" : 189,
         "impressionCount" : 767
       },
       "subtitle" : "Productivity app",
       "tintColor" : "909EE2",
-      "version" : "4.4.5,1821",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "4.4.6,1828",
+      "versionDate" : "2022-08-23T10:25:55Z"
     },
     {
       "beta" : false,
@@ -7067,7 +7067,7 @@
       "sha256" : "17bd9ec7ad5ffa9a12a7905ecea5d55d0497d97cdaf98a20ba2f383f045bea75",
       "stats" : {
         "downloadCount" : 181,
-        "impressionCount" : 749
+        "impressionCount" : 750
       },
       "subtitle" : "Charting and social-networking for investment traders",
       "tintColor" : "3E414A",
@@ -7356,7 +7356,7 @@
       "sha256" : "458f0355d3353aab39bbc7fd17b1ea1ed55d699d79abf85b96fb6177c0d78d83",
       "stats" : {
         "downloadCount" : 169,
-        "impressionCount" : 437
+        "impressionCount" : 438
       },
       "subtitle" : "Neovim GUI written in Golang, using a Golang qt backend",
       "tintColor" : "079AD5",
@@ -8345,7 +8345,7 @@
       "sha256" : "ae097af5dbb65f22420421d82fc75a2e2d46983275ebdd550502cee36e1e1744",
       "stats" : {
         "downloadCount" : 118,
-        "impressionCount" : 446
+        "impressionCount" : 447
       },
       "subtitle" : "HTTP(S) debugging proxy, analyzer, and client",
       "tintColor" : "E1421F",
@@ -9174,7 +9174,7 @@
       "sha256" : "a4265f0a968e463d8c1e48562f36e078f25e8f04347da55bc1dd9a9dba492683",
       "stats" : {
         "downloadCount" : 94,
-        "impressionCount" : 1267
+        "impressionCount" : 1268
       },
       "subtitle" : "Open Source Game Launcher",
       "tintColor" : "362B25",
@@ -10670,7 +10670,7 @@
       "sha256" : "04896021cbe5f1f8548f26d2ab9251128699510d2676a6ef3d544a3d99d6f7c0",
       "stats" : {
         "downloadCount" : 70,
-        "impressionCount" : 964
+        "impressionCount" : 965
       },
       "subtitle" : "2D game framework for Lua",
       "tintColor" : "C598C4",
@@ -16494,7 +16494,7 @@
       "sha256" : "f8e3bceeff2ddd53e603a84c9d323f9b3b259098391283efaa046d77c34d9b38",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 1197
+        "impressionCount" : 1198
       },
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
@@ -18972,7 +18972,7 @@
       "sha256" : "32fca874dc376f6bcf22ff05e280a4dac99bb00dd0be3d81ab576e836f742f9e",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 1123
+        "impressionCount" : 1124
       },
       "subtitle" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "tintColor" : "828487",
@@ -21852,7 +21852,7 @@
       "sha256" : "3e6baf5aafacbbe69b484af26fa6c426ec326a527243807db66d24f6ec354dae",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 780
+        "impressionCount" : 781
       },
       "subtitle" : "World of Warcraft addon manager",
       "tintColor" : "7B7AB9",
@@ -29375,7 +29375,7 @@
       "subtitle" : "Latency-hating emulator of 8- and 16-bit platforms",
       "tintColor" : "46494C",
       "version" : "2022-08-22",
-      "versionDate" : "2022-08-23T09:28:06Z"
+      "versionDate" : "2022-08-23T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39899,7 +39899,7 @@
       "name" : "Universal Battle",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 634
+        "impressionCount" : 635
       },
       "subtitle" : "Realtime multiplayer tabletop war game",
       "tintColor" : "544F5E",
@@ -41860,7 +41860,7 @@
       "sha256" : "f29bdd539c2cdfae0f5a4ee10e567a23f882c6eba6cae788a10ee4d9d6391b9b",
       "stats" : {
         "downloadCount" : 160,
-        "impressionCount" : 59
+        "impressionCount" : 60
       },
       "subtitle" : "Audio tagger focusing on efficiency",
       "tintColor" : "86907A",
@@ -64008,17 +64008,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://s3.amazonaws.com/packages.treasuredata.com/4/macosx/td-agent-4.4.0.dmg",
+      "downloadURL" : "https://s3.amazonaws.com/packages.treasuredata.com/4/macosx/td-agent-4.4.1.dmg",
       "homepage" : "https://www.fluentd.org/",
       "localizedDescription" : "Fluentd distribution package",
       "name" : "td-agent",
-      "sha256" : "de943a10e3729304c3037fe56ab36fe5654bf7e5096c1b38d74fea86b94e4c47",
+      "sha256" : "518d9089f8f163a6da51fe55622535776fc5dd5b45bdb277745cf8a14f600ff7",
       "stats" : {
         "downloadCount" : 30
       },
       "subtitle" : "Fluentd distribution package",
-      "version" : "4.4.0",
-      "versionDate" : "2022-07-30T00:00:00Z"
+      "version" : "4.4.1",
+      "versionDate" : "2022-08-23T10:25:55Z"
     },
     {
       "beta" : false,
@@ -73997,17 +73997,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v4.0.4/WeakAuras-Companion-4.0.4-mac-universal.dmg",
+      "downloadURL" : "https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v4.0.5/WeakAuras-Companion-4.0.5-mac-universal.dmg",
       "homepage" : "https://weakauras.wtf/",
       "localizedDescription" : "Update your auras from Wago.io and creates regular backups of them",
       "name" : "WeakAuras Companion",
-      "sha256" : "a9d573d6732f5140b562f927c8eafe2bd71e5051aeb1dc29dfc8b2b5b3cf072b",
+      "sha256" : "d3f867e6e5b21df71c10fe08d23de695e8bc507c63cda84e8d9c72d1852345b1",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "Update your auras from Wago.io and creates regular backups of them",
-      "version" : "4.0.4",
-      "versionDate" : "2022-08-07T00:00:00Z"
+      "version" : "4.0.5",
+      "versionDate" : "2022-08-23T10:25:55Z"
     },
     {
       "beta" : false,
@@ -74067,27 +74067,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "zenbeats",
-      "caption" : "Zenbeats 2.2.2,8612 released",
-      "date" : "2022-08-21T01:10:43Z",
-      "identifier" : "release-zenbeats-2.2.2,8612",
-      "title" : "New Release: Zenbeats 2.2.2,8612"
-    },
-    {
-      "appID" : "youtube-downloader",
-      "caption" : "YouTube Downloader updated from 0.9 to 0.10",
-      "date" : "2022-08-21T03:29:24Z",
-      "identifier" : "release-youtube-downloader-0.10",
-      "title" : "New Release: YouTube Downloader 0.10"
-    },
-    {
-      "appID" : "pacifist",
-      "caption" : "Pacifist updated from 4.0.3,66254 to 4.0.5,66569",
-      "date" : "2022-08-21T08:30:13Z",
-      "identifier" : "release-pacifist-4.0.5,66569",
-      "title" : "New Release: Pacifist 4.0.5,66569"
-    },
     {
       "appID" : "unipro-ugene",
       "caption" : "Ugene updated from 43.0 to 44.0",
@@ -74766,6 +74745,27 @@
       "date" : "2022-08-23T09:28:06Z",
       "identifier" : "release-clock-signal-2022-08-22",
       "title" : "New Release: Clock Signal 2022-08-22"
+    },
+    {
+      "appID" : "dropzone",
+      "caption" : "Dropzone updated from 4.4.5,1821 to 4.4.6,1828",
+      "date" : "2022-08-23T10:25:56Z",
+      "identifier" : "release-dropzone-4.4.6,1828",
+      "title" : "New Release: Dropzone 4.4.6,1828"
+    },
+    {
+      "appID" : "td-agent",
+      "caption" : "td-agent updated from 4.4.0 to 4.4.1",
+      "date" : "2022-08-23T10:25:57Z",
+      "identifier" : "release-td-agent-4.4.1",
+      "title" : "New Release: td-agent 4.4.1"
+    },
+    {
+      "appID" : "weakauras-companion",
+      "caption" : "WeakAuras Companion updated from 4.0.4 to 4.0.5",
+      "date" : "2022-08-23T10:25:57Z",
+      "identifier" : "release-weakauras-companion-4.0.5",
+      "title" : "New Release: WeakAuras Companion 4.0.5"
     }
   ],
   "platform" : "macos",

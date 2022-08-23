@@ -40,7 +40,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 38,
-        "impressionCount" : 4271,
+        "impressionCount" : 4272,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 702,
@@ -85,7 +85,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2879,
+        "impressionCount" : 2880,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 214,
@@ -159,7 +159,7 @@
       "size" : 9627917,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 22,
+        "downloadCount" : 23,
         "impressionCount" : 4,
         "issueCount" : 6,
         "starCount" : 28,
@@ -208,7 +208,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 22,
-        "impressionCount" : 209,
+        "impressionCount" : 210,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 30,
@@ -244,7 +244,7 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 22,
-        "impressionCount" : 1000,
+        "impressionCount" : 1001,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 91,
@@ -284,7 +284,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3211,
+        "impressionCount" : 3212,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 555,
@@ -375,7 +375,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 11,
-        "impressionCount" : 2187,
+        "impressionCount" : 2188,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 138,
@@ -500,7 +500,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1967,
+        "impressionCount" : 1968,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -535,7 +535,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 8,
-        "impressionCount" : 754,
+        "impressionCount" : 755,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -585,7 +585,7 @@
       "stats" : {
         "coreSize" : 152704,
         "downloadCount" : 8,
-        "impressionCount" : 511,
+        "impressionCount" : 512,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -624,7 +624,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
-        "impressionCount" : 581,
+        "impressionCount" : 582,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 72,
@@ -659,7 +659,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 7,
-        "impressionCount" : 948,
+        "impressionCount" : 949,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 64,
@@ -699,7 +699,7 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 7,
-        "impressionCount" : 675,
+        "impressionCount" : 676,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 72,
@@ -737,7 +737,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1514,
+        "impressionCount" : 1515,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 82,
@@ -776,7 +776,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 7,
-        "impressionCount" : 796,
+        "impressionCount" : 797,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -814,7 +814,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1630,
+        "impressionCount" : 1631,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -853,7 +853,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1382,
+        "impressionCount" : 1383,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -1321,6 +1321,49 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "42cb95f6d5523bf468c56ff325a366efea2dd054cd38595b97a9be1676d01ce5",
+      "size" : 2282594,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.260",
+      "versionDate" : "2022-08-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.259...0.9.260"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Fox-Glove",
       "categories" : [
@@ -1348,7 +1391,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1496,7 +1539,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 1016,
+        "impressionCount" : 1017,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,

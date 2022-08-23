@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `38` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4272` | `702` | `1` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.109`` | `28` | `2022-08-22T00:00:00Z` | `9.6 MB` | `5` | `1` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.109`` | `31` | `2022-08-22T00:00:00Z` | `9.6 MB` | `5` | `1` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `2880` | `214` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `22` | `2022-08-15T00:00:00Z` | `9.5 MB` | `211` | `30` | `1` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `22` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1001` | `91` | `0` | `0` |  |

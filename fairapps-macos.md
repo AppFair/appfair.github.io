@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.109`` | `116` | `2022-08-22T00:00:00Z` | `9.6 MB` | `32` | `10` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.109`` | `117` | `2022-08-22T00:00:00Z` | `9.6 MB` | `32` | `10` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `38` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4291` | `705` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `2898` | `217` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `24` | `2022-08-15T00:00:00Z` | `9.5 MB` | `238` | `34` | `1` | `0` |  |

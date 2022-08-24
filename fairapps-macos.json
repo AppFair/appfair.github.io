@@ -62,7 +62,7 @@
       "size" : 9627917,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 125,
+        "downloadCount" : 129,
         "impressionCount" : 37,
         "issueCount" : 6,
         "starCount" : 28,
@@ -114,11 +114,11 @@
       "size" : 4506286,
       "stats" : {
         "coreSize" : 170576,
-        "downloadCount" : 38,
-        "impressionCount" : 4298,
+        "downloadCount" : 39,
+        "impressionCount" : 4300,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 706,
+        "viewCount" : 707,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -163,7 +163,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 25,
-        "impressionCount" : 247,
+        "impressionCount" : 249,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 36,
@@ -208,7 +208,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2904,
+        "impressionCount" : 2906,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 218,
@@ -284,10 +284,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3238,
+        "impressionCount" : 3240,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 561,
+        "viewCount" : 562,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -759,10 +759,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2741,
+        "impressionCount" : 2743,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 181,
+        "viewCount" : 182,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -955,10 +955,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 220,
+        "impressionCount" : 222,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 33,
+        "viewCount" : 34,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1147,7 +1147,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 14,
+        "impressionCount" : 16,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 6,
@@ -1186,7 +1186,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 15,
+        "impressionCount" : 17,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -1225,7 +1225,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2697,
+        "impressionCount" : 2699,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 148,
@@ -1295,7 +1295,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 16,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -1337,7 +1337,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 14,
+        "impressionCount" : 16,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -1377,7 +1377,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 14,
+        "impressionCount" : 16,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -1416,7 +1416,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 14,
+        "impressionCount" : 16,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -1539,7 +1539,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 1,
-        "impressionCount" : 18,
+        "impressionCount" : 20,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,

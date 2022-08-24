@@ -447,41 +447,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Fox-Glove",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/Fox-Glove-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/Fox-Glove.png",
-      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
-      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Fox Glove",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "18f61c3b800c63613d4bbf56dd56b87121238f3b4be2d30a76e2465d06873418",
-      "size" : 5881217,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 8,
-        "impressionCount" : 21,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 5,
-        "watcherCount" : 0
-      },
-      "subtitle" : "There, I fixed the web for you. You're welcome.",
-      "version" : "0.0.7",
-      "versionDate" : "2022-08-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Fox-Glove/App/compare/0.0.6...0.0.7"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
 
@@ -524,6 +489,41 @@
       "version" : "0.2.41",
       "versionDate" : "2022-08-22T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.40...0.2.41"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fox-Glove",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/Fox-Glove-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/Fox-Glove.png",
+      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
+      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Fox Glove",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "18f61c3b800c63613d4bbf56dd56b87121238f3b4be2d30a76e2465d06873418",
+      "size" : 5881217,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 8,
+        "impressionCount" : 21,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 5,
+        "watcherCount" : 0
+      },
+      "subtitle" : "There, I fixed the web for you. You're welcome.",
+      "version" : "0.0.7",
+      "versionDate" : "2022-08-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Fox-Glove/App/compare/0.0.6...0.0.7"
     },
     {
       "beta" : false,
@@ -699,41 +699,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.0.32/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "f63a5d599aa3b4da65ac447bcb4ec810a30041cf00ee6d9d5a662ddaf4ce8329",
-      "size" : 6063708,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 5,
-        "impressionCount" : 1709,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 101,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.0.32",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.32"
     },
     {
       "beta" : true,
@@ -1068,6 +1033,41 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.5/Encyclopedia-Galactica-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.5/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.5/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "7a91b4dbd5c961ba4a4a0355a4231b663be6a3c97b4543ae0fdfe55482d0d951",
+      "size" : 5733569,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.5",
+      "versionDate" : "2022-08-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.4...0.1.5"
     },
     {
       "beta" : true,

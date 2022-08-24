@@ -462,56 +462,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.SQL-Hero",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/SQL-Hero.png",
-      "localizedDescription" : "Query Like a Boss",
-      "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/Info.plist#f4f5af5e949181c450648183357dc49105d946769ffbc87050c930326d2ff8c5",
-      "name" : "SQL Hero",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "Network client access required to connect to remote databases."
-        },
-        {
-          "type" : "network.server",
-          "usageDescription" : "Network server access is needed to handle requests."
-        },
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "Filesystem access required to read and write local databases."
-        }
-      ],
-      "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "screenshotURLs" : [
-        "https://github.com/SQL-Hero/App/releases/download/0.0.8/screenshot_01-mac-dark-1264x1058.png",
-        "https://github.com/SQL-Hero/App/releases/download/0.0.8/screenshot_01-mac-light-1264x1058.png"
-      ],
-      "sha256" : "7b7acaf8df44e8d45ff3cd38b9b0273cbe4147d00ded68d55e2608ccc8b2068a",
-      "size" : 8727214,
-      "stats" : {
-        "coreSize" : 152704,
-        "downloadCount" : 8,
-        "impressionCount" : 513,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 47,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Query Like a Boss",
-      "version" : "0.0.8",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.8"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Visi-Calc",
       "categories" : [
 
@@ -1323,6 +1273,59 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.SQL-Hero",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/SQL-Hero-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/SQL-Hero.png",
+      "localizedDescription" : "Query Like a Boss",
+      "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/Info.plist#7700f3bb48b546f3951b7451ba24f72fdba2212a38a0c7f4dca8c4a209dc9646",
+      "name" : "SQL Hero",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "Network client access required to connect to remote databases."
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "Filesystem access required to read and write local databases."
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "Network server access is needed to handle requests."
+        }
+      ],
+      "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/SQL-Hero/App/releases/download/0.0.10/screenshot_01-mac-dark-1264x1058.png",
+        "https://github.com/SQL-Hero/App/releases/download/0.0.10/screenshot_01-mac-light-1264x1058.png"
+      ],
+      "sha256" : "2d6565e233b3a2544b11f22565aa4159750aafa50444fcc6054302078d197aae",
+      "size" : 8177157,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Query Like a Boss",
+      "version" : "0.0.10",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/SQL-Hero/App/compare/0.0.9...0.0.10"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Eternal-September",
       "categories" : [
 
@@ -1536,7 +1539,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 1,
-        "impressionCount" : 1,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1593,13 +1596,6 @@
   "identifier" : "net.appfair.fairapps-macos",
   "name" : "Fair Apps",
   "news" : [
-    {
-      "appID" : "app.Tune-Out",
-      "caption" : "Tune Out updated from 0.8.451 to 0.8.454",
-      "date" : "2022-08-15T18:41:20Z",
-      "identifier" : "release-app.Tune-Out-0.8.454",
-      "title" : "New Release: Tune Out 0.8.454"
-    },
     {
       "appID" : "app.Net-Skip",
       "caption" : "Net Skip updated from 0.0.42 to 0.0.44",
@@ -1662,6 +1658,13 @@
       "date" : "2022-08-24T04:09:00Z",
       "identifier" : "release-app.Eternal-September-0.0.35",
       "title" : "New Release: Eternal September 0.0.35"
+    },
+    {
+      "appID" : "app.SQL-Hero",
+      "caption" : "SQL Hero 0.0.10 released",
+      "date" : "2022-08-24T04:50:24Z",
+      "identifier" : "release-app.SQL-Hero-0.0.10",
+      "title" : "New Release: SQL Hero 0.0.10"
     }
   ],
   "platform" : "macos"

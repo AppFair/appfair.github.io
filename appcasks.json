@@ -63,7 +63,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
       "version" : "104.0",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1650,7 +1650,7 @@
       "subtitle" : "Customizable email client",
       "tintColor" : "B0C3DC",
       "version" : "102.2.0",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1787,7 +1787,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "D71E28",
       "version" : "90.0.4480.54",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3552,7 +3552,7 @@
       "subtitle" : "Remote access and connectivity software focused on security",
       "tintColor" : "B5B0A3",
       "version" : "15.33.7",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3737,7 +3737,7 @@
       "subtitle" : "Peer to peer Bitorrent client",
       "tintColor" : "73A5E0",
       "version" : "4.4.4",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4807,7 +4807,7 @@
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
       "version" : "0.8.2",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5113,7 +5113,7 @@
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
       "version" : "92,151719",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8309,7 +8309,7 @@
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
       "version" : "3.23.96",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9450,7 +9450,7 @@
       "subtitle" : "Notetaking tool",
       "tintColor" : "6391B2",
       "version" : "1.4.1008",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9832,7 +9832,7 @@
       "subtitle" : "Alternate version of the Opera web browser to complement gaming",
       "tintColor" : "EA214D",
       "version" : "89.0.4447.104",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10959,7 +10959,7 @@
       "subtitle" : "IDE for Professional Data Scientists",
       "tintColor" : "2E7980",
       "version" : "2022.2.1,222.3739.64",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12335,7 +12335,7 @@
       "subtitle" : "Note taking app",
       "tintColor" : "289638",
       "version" : "9.5.29_467958",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13322,7 +13322,7 @@
       "subtitle" : "Store credentials in a single place and log in on any device, even when offline",
       "tintColor" : "BFDDDE",
       "version" : "4.29.3",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13674,7 +13674,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "333744",
       "version" : "0.25.2.1",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19637,7 +19637,7 @@
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
       "version" : "1.89.0,stable.1,4591296",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28998,7 +28998,7 @@
       "subtitle" : "Messenger with powerful features for hybrid work",
       "tintColor" : "EDBBA4",
       "version" : "1.0.17,1764",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32770,7 +32770,7 @@
       "subtitle" : "AI office platform",
       "tintColor" : "D4EAFD",
       "version" : "2.3.19.4,20220822191856",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34793,7 +34793,7 @@
       "subtitle" : "Bioinformatics software platform",
       "tintColor" : "F78300",
       "version" : "2022.2.2",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40728,7 +40728,7 @@
       "subtitle" : "GUI for streamlined Redis application development",
       "tintColor" : "B42925",
       "version" : "2.8.0",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41437,7 +41437,7 @@
       "subtitle" : "Tool to run Windows software",
       "tintColor" : "8F8F8F",
       "version" : "22.0.0.35473",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41727,7 +41727,7 @@
       "subtitle" : "Wallet desktop application to maintain multiple cryptocurrencies",
       "tintColor" : "1B1B1B",
       "version" : "2.46.0",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43925,7 +43925,7 @@
       "subtitle" : "Browser designed for modern work",
       "tintColor" : "EFDADC",
       "version" : "102.26.1.22867,82aaf09",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44684,7 +44684,7 @@
       "subtitle" : "Tool for programming amateur radio",
       "tintColor" : "9AB3B6",
       "version" : "20220823",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -45451,7 +45451,7 @@
       "subtitle" : "SEO site audit tool",
       "tintColor" : "6C884E",
       "version" : "17.1",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50261,7 +50261,7 @@
       "subtitle" : "Image editor written in Lazarus",
       "tintColor" : "A88C6E",
       "version" : "7.2.2",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53083,7 +53083,7 @@
       "subtitle" : "Extract Data from iPhone Backups",
       "tintColor" : "A9AAAA",
       "version" : "4.2650",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57166,7 +57166,7 @@
       "subtitle" : "Configuration tool for the INAV flight control system",
       "tintColor" : "48A8D9",
       "version" : "5.1.0",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60112,7 +60112,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.14,20220823103055",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61092,7 +61092,7 @@
       },
       "subtitle" : "OpenJDK distribution from Microsoft",
       "version" : "17.0.4.1",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -63780,7 +63780,7 @@
       },
       "subtitle" : "Preview and audit Kindle eBooks",
       "version" : "3.67.0",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64009,7 +64009,7 @@
       },
       "subtitle" : "Azul ZuluFX Java Standard Edition Development Kit",
       "version" : "17.0.4.1,17.36.17-ca",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64531,7 +64531,7 @@
       },
       "subtitle" : "Build, render, and create LEGO instructions",
       "version" : "2.22.8_1",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66048,7 +66048,7 @@
       },
       "subtitle" : "Create and share augmented reality experiences using the Facebook family of apps",
       "version" : "145",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -70610,7 +70610,7 @@
       },
       "subtitle" : "Safely build private networks without configs, firewalls or access control lists",
       "version" : "2022.08.23",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,
@@ -71754,7 +71754,7 @@
       },
       "subtitle" : "Visualization and debugging tool for robotics",
       "version" : "1.23.0",
-      "versionDate" : "2022-08-24T04:19:11Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,

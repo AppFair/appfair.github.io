@@ -62,11 +62,11 @@
       "size" : 9627917,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 114,
-        "impressionCount" : 29,
+        "downloadCount" : 116,
+        "impressionCount" : 32,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 8,
+        "viewCount" : 10,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -115,10 +115,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 38,
-        "impressionCount" : 4287,
+        "impressionCount" : 4291,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 703,
+        "viewCount" : 705,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -160,10 +160,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2895,
+        "impressionCount" : 2898,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 215,
+        "viewCount" : 217,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -207,11 +207,11 @@
       "size" : 9538499,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 23,
-        "impressionCount" : 234,
+        "downloadCount" : 24,
+        "impressionCount" : 238,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 32,
+        "viewCount" : 34,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -284,10 +284,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3228,
+        "impressionCount" : 3231,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 557,
+        "viewCount" : 559,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -336,7 +336,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 20,
-        "impressionCount" : 53,
+        "impressionCount" : 55,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -759,10 +759,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2731,
+        "impressionCount" : 2734,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 178,
+        "viewCount" : 180,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -955,10 +955,10 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 208,
+        "impressionCount" : 211,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1147,10 +1147,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 1,
+        "impressionCount" : 5,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -1186,10 +1186,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 1,
+        "impressionCount" : 5,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1225,10 +1225,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2687,
+        "impressionCount" : 2690,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 146,
+        "viewCount" : 147,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1295,10 +1295,10 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1337,7 +1337,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 5,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1377,7 +1377,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 5,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1416,7 +1416,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 5,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1469,7 +1469,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1539,7 +1539,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 1,
-        "impressionCount" : 4,
+        "impressionCount" : 8,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,

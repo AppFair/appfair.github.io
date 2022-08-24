@@ -193,7 +193,7 @@ Once the fairseal has been generated for the app, it will be available for brows
 
 From an App developer standpoint, an App Fair app is a Swift application that is defined by a Swift Package Manager `Package.swift` file, and that uses of two source code repositories: *Fair.git* and *App.git*:
  - [https://github.com/appfair/App.git](https://github.com/appfair/App.git) is the repository that is forked to create a new  App Fair app; PRs submitted to this repository are automatically built and released to the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog.
- - [https://fair-ground.org/Fair.git](https://fair-ground.org/Fair.git) is the runtime `SwiftUI` library that is included in every App Fair project, and acts as a sandboxed container within which your application is run. The `Fair` library is the sole required dependency for your app's `Package.swift` manifest.
+ - [https://github.com/fair-ground/Fair.git](https://github.com/fair-ground/Fair.git) is the runtime `SwiftUI` library that is included in every App Fair project, and acts as a sandboxed container within which your application is run. The `Fair` library is the sole required dependency for your app's `Package.swift` manifest.
 
 
 ## The Structure of an App Fair app
@@ -295,7 +295,7 @@ To customize your app, you should instead start by editing the `AppContainer` ex
 
 ### The Fair Library
 
-The [https://fair-ground.org/Fair.git](https://fair-ground.org/Fair.git) repository is the cornerstone for the App Fair.
+The [fair-ground/Fair](https://github.com/fair-ground/Fair.git) repository is the cornerstone for the App Fair.
 Fair contains the code for the following aspects of a fair-ground:
 
   1. Managing the fair-ground process (app validation and catalog management) using the `fairtool` executable target running on the fair-ground's build host
@@ -326,7 +326,7 @@ fairtool --help
 ```
 
 More information on the `fairtool` can be found in the documentation at
-[fair-ground.org/Fair](https://fair-ground.org/Fair).
+[fair-ground/Fair](https://github.com/fair-ground/Fair).
 
 An online version of the `fairtool` that can perform a limited subset of the tool commands
 is available at [https://fairtool.herokuapp.com](https://fairtool.herokuapp.com).
@@ -348,7 +348,7 @@ let package = Package(
     products: [ .library(name: "App", targets: ["App"]) ],
     dependencies: [
         // the Fair main branch must be the first dependency to pass integration
-        .package(name: "Fair", url: "https://fair-ground.org/Fair.git", .branch("main")),
+        .package(name: "Fair", url: "https://github.com/fair-ground/Fair", .branch("main")),
         // additional GitHub-hosted dependencies can be added below
     ],
     targets: [
@@ -361,7 +361,7 @@ let package = Package(
 This is a standard [Swift Package Manager manifest](https://swift.org/package-manager/) with the following additional requirements:
 
   1. The `App` target name must remain unchanged.
-  1. the *initial* dependency for your package must be the `https://fair-ground.org/Fair.git` project's `main` branch, and this project must appear as the first dependency for the `App` target
+  1. the *initial* dependency for your package must be the `https://github.com/fair-ground/Fair.git` project's `main` branch, and this project must appear as the first dependency for the `App` target
 
 ### The App Fair sandbox
 
@@ -1220,7 +1220,7 @@ from the `SUPPORTED_PLATFORMS` key.
 ### What are the target OS versions for App Fair applications?
 
 In order to be able to utilize the Swift 5.5 concurrency features (async/await and actors), App Fair apps target macOS 12 and iOS 15.
-Note that the [Fair/FairCore](https://fair-ground.org/Fair/tree/main/Sources/FairCore) target is compatible with Swift 5.4 in order to use macOS 11 as the build host.
+Note that the [Fair/FairCore](https://github.com/fair-ground/Fair/tree/main/Sources/FairCore) target is compatible with Swift 5.4 in order to use macOS 11 as the build host.
 
 ### Can I build a watchOS or tvOS app?
 
@@ -1464,7 +1464,8 @@ You can open the `App.xcworkspace` file in `Xcode.app`, which is a workspace tha
 
 All your code, however, must reside in the SPM package itself, which is your `/App/` fork's `Sources/App/` folder.
 
-Do not edit the `project.xcodeproj` folder directly since it doesn't reference the swift package folder, and thus cannot build on its own without the surrounding workspace. 
+Not ethat you should not open the `project.xcodeproj` folder directly since it doesn't reference the swift package folder, and thus cannot build on its own without the surrounding workspace. 
+
 Any changes made either to the `App.xcworkspace` or `project.xcodeproj` files will be ignored during the fair-ground's `I-R` stages, so you should avoid making changes there that are meant to be included in the app's eventual build. 
 Instead, you should prefer to use the `Package.swift` manifest as well as local resources for the customization of your app's metadata.
 
@@ -1540,7 +1541,7 @@ Note, though, that your own repository's fork will come with the `.github/workfl
 
 ### What is the License for the App Fair project?
 
-Both the [appfair/Fair.git](https://fair-ground.org/Fair.git) and [appfair/App.git](https://github.com/appfair/App.git) projects, as well as all forks thereof (including the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser app), are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html).
+Both the [appfair/Fair.git](https://github.com/fair-ground/Fair.git) and [appfair/App.git](https://github.com/appfair/App.git) projects, as well as all forks thereof (including the <a href="https://appfair.app" target="_blank">`App Fair.app`</a> catalog browser app), are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.html).
 
 ### Is my app code required to use the AGPL?
 
@@ -1555,7 +1556,7 @@ You can develop any portion of your app in a separate repository, which can be c
 The "App Fair" is the reference implementation of a fair-ground, using a model of non-commercial open-source projects for developers and mandating source transparency and the explicit disclosure of security entitlements.
 Alternative fair-ground models are possible by simply mirroring the structure and repositories of the `appfair` organization.
 Many of the App Fair's policies are simply flags that can be set on the [fairtool](#fairtool) `fair validate` action that is run during the `integrate` stage.
-The bulk of the fair-ground's logic, as well as the runtime code for fair-ground integration, is in the [Fair](https://fair-ground.org/Fair) library, which you can customize to handle your own implementation's policies, restrictions, and commerce needs.
+The bulk of the fair-ground's logic, as well as the runtime code for fair-ground integration, is in the [Fair](https://github.com/fair-ground/Fair) library, which you can customize to handle your own implementation's policies, restrictions, and commerce needs.
 
 ## Can I run a fair-ground on a self-hosted GitHub runner?
 
@@ -1598,7 +1599,7 @@ Note that this is exactly the same process that the `integrate` stage executes, 
 
   * `fair-ground`: A fair-ground is a platform for app distribution. It is the abstract name for the hosted service(s) that provides the resources for the `Fork-Apply-Integrate-Release` process of app ingestion and distribution.
   * FAIR: The `Fork-Apply-Integrate-Release` process summarizes a system whereby developers create apps by forking a fair-ground's base repository and applying their changes to back to the base in the form of a pull request. This is followed by an `integrate` stage that ingests, validates, and builds the app, verifies the creator's organization standing, and then initiates a `release` stage that publishes the build artifacts to an app cataloging and distribution system.
-  * `Fair.git`: An SPM package hosted at [https://fair-ground.org/Fair.git](https://fair-ground.org/Fair.git) and licensed under the AGPL 3.0 that has targets for both the `Fair` runtime library, as well as the cross-platform [fairtool](#fairtool) CLI utility.
+  * `Fair.git`: An SPM package hosted at [https://github.com/fair-ground/Fair.git](https://github.com/fair-ground/Fair.git) and licensed under the AGPL 3.0 that has targets for both the `Fair` runtime library, as well as the cross-platform [fairtool](#fairtool) CLI utility.
   * Fair Module: A Swift 5.5 library that acts as the entry point to all apps that are distributed via a fair-ground; the library provides a container environment with features such as automatic addition of Help and Support menus, as well as runtime validation of security features. All apps distributed via a fair-ground are required to have the HEAD of `Fair.git` as their initial SPM dependency.
   * `fairtool`: The [fairtool](#fairtool) is an executable tool that is included with the `Fair.git` package, and is thereby included with all apps that link to the `Fair (runtime)`. The `fairtool` utility is used to validate and merge `integrate-release` requests by the trusted fair-ground build process. The tool can also be used to initialize a new fair-ground with template code for a new base repository. The utility can be run with the command: `swift run fairtool`.
   * `fairseal`: the cryptographic hash of the app binary that has been validated by the trusted base fair-ground. This hash must be present in order to an app to be installable by the catalog application, and the hash must match the content of the binary that is downloaded from the app fork's releases page. The fairseal is automatically generated by the [fairtool](#fairtool) when it passes the integration-release stage
@@ -1681,7 +1682,7 @@ You can include the App Fair badge with the following HTML:
 
 
 <!-- 
-https://fair-ground.org/Fair.git -> https://github.com/fair-ground/Fair.git
+https://github.com/fair-ground/Fair.git -> https://github.com/fair-ground/Fair.git
 https://github.com/appfair/App.git
 -->
 

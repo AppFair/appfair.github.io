@@ -40,7 +40,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4309,
+        "impressionCount" : 4311,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 707,
@@ -88,7 +88,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 26,
-        "impressionCount" : 275,
+        "impressionCount" : 277,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 38,
@@ -133,7 +133,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2918,
+        "impressionCount" : 2920,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 219,
@@ -209,7 +209,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3247,
+        "impressionCount" : 3249,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 562,
@@ -334,7 +334,7 @@
       "size" : 9708595,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 14,
+        "downloadCount" : 16,
         "impressionCount" : 8,
         "issueCount" : 6,
         "starCount" : 28,
@@ -571,7 +571,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 7,
-        "impressionCount" : 32,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 10,
@@ -765,7 +765,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 34,
+        "impressionCount" : 36,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -846,7 +846,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2751,
+        "impressionCount" : 2753,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 182,
@@ -923,10 +923,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 4,
-        "impressionCount" : 30,
+        "impressionCount" : 32,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -1228,10 +1228,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 3,
-        "impressionCount" : 4,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1321,10 +1321,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2703,
+        "impressionCount" : 2705,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 148,
+        "viewCount" : 149,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1391,10 +1391,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 30,
+        "impressionCount" : 33,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1430,10 +1430,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 32,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1469,10 +1469,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 23,
+        "impressionCount" : 25,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1539,7 +1539,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 1,
-        "impressionCount" : 10,
+        "impressionCount" : 12,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,

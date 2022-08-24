@@ -742,6 +742,162 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Eternal-September",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.44/Eternal-September-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.44/Eternal-September.png",
+      "localizedDescription" : "An app for learning Roman Numerals",
+      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.44/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
+      "name" : "Eternal September",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.44/README.md#06c1731de8e6f17b3d945d0fba9fb9af700f54408645f0218d47dd2711fe64bb",
+      "sha256" : "d883dfbaae738f9e2fcda7e9e83cb13a34276e6be8a9bbf0acd0fa7aeda0312c",
+      "size" : 5816020,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 4,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for learning Roman Numerals",
+      "version" : "0.0.44",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.35...0.0.44"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Eternal-September",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Eternal-September-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Eternal-September.png",
+      "localizedDescription" : "An app for learning Roman Numerals",
+      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
+      "name" : "Eternal September",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/README.md#e370e43cc947912a888f253b15bda9208dd934019a17c35be4aaae07ef93be72",
+      "sha256" : "d916d2309dca11c359232774179f9ecf66bf157c685616f805e2bfce6f97ec04",
+      "size" : 5816021,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 4,
+        "impressionCount" : 18,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for learning Roman Numerals",
+      "version" : "0.0.35",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.34...0.0.35"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "sha256" : "6228ee6dac6c91a5d9922324e8149a20e1f834c5822843d331cd477f3ddef893",
+      "size" : 5773598,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 4,
+        "impressionCount" : 16,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 6,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.44",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.43...0.2.44"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "9aa1f8f4242bce8a7a165c46edc86e6cd0ad4718f2f27c8cb3ad9a1a12912672",
+      "size" : 5804309,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 4,
+        "impressionCount" : 16,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.263",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.262...0.9.263"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
 
@@ -880,162 +1036,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Eternal-September",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.44/Eternal-September-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.44/Eternal-September.png",
-      "localizedDescription" : "An app for learning Roman Numerals",
-      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.44/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
-      "name" : "Eternal September",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.44/README.md#06c1731de8e6f17b3d945d0fba9fb9af700f54408645f0218d47dd2711fe64bb",
-      "sha256" : "d883dfbaae738f9e2fcda7e9e83cb13a34276e6be8a9bbf0acd0fa7aeda0312c",
-      "size" : 5816020,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 2,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for learning Roman Numerals",
-      "version" : "0.0.44",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.35...0.0.44"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Eternal-September",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Eternal-September-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Eternal-September.png",
-      "localizedDescription" : "An app for learning Roman Numerals",
-      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
-      "name" : "Eternal September",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/README.md#e370e43cc947912a888f253b15bda9208dd934019a17c35be4aaae07ef93be72",
-      "sha256" : "d916d2309dca11c359232774179f9ecf66bf157c685616f805e2bfce6f97ec04",
-      "size" : 5816021,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 2,
-        "impressionCount" : 18,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for learning Roman Numerals",
-      "version" : "0.0.35",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.34...0.0.35"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "sha256" : "6228ee6dac6c91a5d9922324e8149a20e1f834c5822843d331cd477f3ddef893",
-      "size" : 5773598,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 2,
-        "impressionCount" : 16,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 6,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.44",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.43...0.2.44"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "9aa1f8f4242bce8a7a165c46edc86e6cd0ad4718f2f27c8cb3ad9a1a12912672",
-      "size" : 5804309,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 2,
-        "impressionCount" : 16,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.263",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.262...0.9.263"
     },
     {
       "beta" : false,

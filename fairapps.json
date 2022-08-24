@@ -62,7 +62,7 @@
       "size" : 9627917,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 131,
+        "downloadCount" : 133,
         "impressionCount" : 37,
         "issueCount" : 6,
         "starCount" : 28,
@@ -894,41 +894,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Eternal-September",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Eternal-September-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Eternal-September.png",
-      "localizedDescription" : "An app for learning Roman Numerals",
-      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
-      "name" : "Eternal September",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/README.md#e370e43cc947912a888f253b15bda9208dd934019a17c35be4aaae07ef93be72",
-      "sha256" : "b7bff211ea457c67d65791a4f90d0c59fbe13bc35f57a22439019dc54ef74902",
-      "size" : 2327039,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 4,
-        "impressionCount" : 18,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for learning Roman Numerals",
-      "version" : "0.0.35",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.34...0.0.35"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
@@ -1517,6 +1482,41 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Eternal-September",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September.png",
+      "localizedDescription" : "An app for learning Roman Numerals",
+      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
+      "name" : "Eternal September",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/README.md#06c1731de8e6f17b3d945d0fba9fb9af700f54408645f0218d47dd2711fe64bb",
+      "sha256" : "0d99cc8205c2901f9e93e49c8dea66e9daa9ecc133eaf5bbf9f66f4f536845a4",
+      "size" : 2327042,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for learning Roman Numerals",
+      "version" : "0.0.45",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.44...0.0.45"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
 
@@ -1653,18 +1653,18 @@
       "title" : "New Release: Media Res 0.0.20"
     },
     {
-      "appID" : "app.Eternal-September",
-      "caption" : "Eternal September 0.0.35 released",
-      "date" : "2022-08-24T04:09:00Z",
-      "identifier" : "release-app.Eternal-September-0.0.35",
-      "title" : "New Release: Eternal September 0.0.35"
-    },
-    {
       "appID" : "app.SQL-Hero",
       "caption" : "SQL Hero 0.0.10 released",
       "date" : "2022-08-24T04:50:24Z",
       "identifier" : "release-app.SQL-Hero-0.0.10",
       "title" : "New Release: SQL Hero 0.0.10"
+    },
+    {
+      "appID" : "app.Eternal-September",
+      "caption" : "Eternal September updated from 0.0.35 to 0.0.45",
+      "date" : "2022-08-24T12:54:04Z",
+      "identifier" : "release-app.Eternal-September-0.0.45",
+      "title" : "New Release: Eternal September 0.0.45"
     }
   ],
   "platform" : "macos"

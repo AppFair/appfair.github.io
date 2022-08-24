@@ -31,10 +31,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2916,
+        "impressionCount" : 2918,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 218,
+        "viewCount" : 219,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -75,7 +75,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2749,
+        "impressionCount" : 2751,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 182,
@@ -123,10 +123,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 20,
-        "impressionCount" : 73,
+        "impressionCount" : 75,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 10,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -167,10 +167,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 272,
+        "impressionCount" : 275,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 37,
+        "viewCount" : 38,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -341,7 +341,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2701,
+        "impressionCount" : 2703,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 148,
@@ -721,10 +721,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 4,
-        "impressionCount" : 29,
+        "impressionCount" : 32,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -762,7 +762,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 4,
-        "impressionCount" : 28,
+        "impressionCount" : 30,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,
@@ -955,10 +955,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -991,7 +991,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 8,
+        "impressionCount" : 10,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1026,7 +1026,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 32,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -1061,10 +1061,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 26,
+        "impressionCount" : 30,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1096,7 +1096,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 30,
+        "impressionCount" : 32,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -1131,7 +1131,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 21,
+        "impressionCount" : 23,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,

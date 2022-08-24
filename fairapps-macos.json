@@ -40,7 +40,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4313,
+        "impressionCount" : 4314,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 707,
@@ -51,54 +51,6 @@
       "version" : "0.1.7",
       "versionDate" : "2022-05-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Tune-Out-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_03-mac-2180x1464.png"
-      ],
-      "sha256" : "2d5c50300d53090452efe8887fcc4e09d4eaa28e0d802bad6125456a4bb1d58d",
-      "size" : 9538499,
-      "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 26,
-        "impressionCount" : 281,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 38,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.454",
-      "versionDate" : "2022-08-15T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.453...0.8.454"
     },
     {
       "beta" : false,
@@ -162,7 +114,7 @@
       "size" : 9708595,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 25,
+        "downloadCount" : 28,
         "impressionCount" : 21,
         "issueCount" : 6,
         "starCount" : 28,
@@ -174,6 +126,54 @@
       "version" : "0.8.110",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.109...0.8.110"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Tune-Out-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.454/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.454/screenshot_03-mac-2180x1464.png"
+      ],
+      "sha256" : "2d5c50300d53090452efe8887fcc4e09d4eaa28e0d802bad6125456a4bb1d58d",
+      "size" : 9538499,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 26,
+        "impressionCount" : 282,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 38,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.454",
+      "versionDate" : "2022-08-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.453...0.8.454"
     },
     {
       "beta" : false,
@@ -208,7 +208,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2922,
+        "impressionCount" : 2923,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 219,
@@ -284,7 +284,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3251,
+        "impressionCount" : 3252,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 562,
@@ -571,7 +571,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 7,
-        "impressionCount" : 37,
+        "impressionCount" : 38,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 10,
@@ -765,7 +765,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 39,
+        "impressionCount" : 40,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -846,7 +846,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2755,
+        "impressionCount" : 2756,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 182,
@@ -923,7 +923,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 4,
-        "impressionCount" : 35,
+        "impressionCount" : 36,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -1228,7 +1228,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 3,
-        "impressionCount" : 9,
+        "impressionCount" : 10,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,
@@ -1321,7 +1321,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2707,
+        "impressionCount" : 2708,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 149,
@@ -1391,7 +1391,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 36,
+        "impressionCount" : 37,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -1430,7 +1430,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 37,
+        "impressionCount" : 38,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -1469,7 +1469,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 28,
+        "impressionCount" : 29,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -1539,7 +1539,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 1,
-        "impressionCount" : 15,
+        "impressionCount" : 16,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,

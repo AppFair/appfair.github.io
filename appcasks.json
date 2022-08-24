@@ -797,13 +797,13 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://downloads.slack-edge.com/releases/macos/4.27.154/prod/x64/Slack-4.27.154-macOS.dmg",
+      "downloadURL" : "https://downloads.slack-edge.com/releases/macos/4.28.171/prod/x64/Slack-4.28.171-macOS.dmg",
       "homepage" : "https://slack.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slack/AppIcon.png",
       "localizedDescription" : "Team communication and collaboration software",
       "name" : "Slack",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slack/README.md",
-      "sha256" : "76f8038715c792482185a927881186417d960adb62940949de28e03867626c28",
+      "sha256" : "841c8df079da473a634b44c1841ff63cc90ed7b3d2563df7379bb7b046afc0cf",
       "stats" : {
         "downloadCount" : 8542,
         "impressionCount" : 3056,
@@ -811,7 +811,8 @@
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "DEDFDA",
-      "version" : "4.27.154"
+      "version" : "4.28.171",
+      "versionDate" : "2022-08-24T19:20:16Z"
     },
     {
       "beta" : false,
@@ -26482,19 +26483,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/tagspaces/tagspaces/releases/download/v4.4.3/tagspaces-mac-x64-4.4.3.dmg",
+      "downloadURL" : "https://github.com/tagspaces/tagspaces/releases/download/v4.5.2/tagspaces-mac-x64-4.5.2.dmg",
       "homepage" : "https://www.tagspaces.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tagspaces/AppIcon.png",
       "localizedDescription" : "Offline, open-source, document manager with tagging support",
       "name" : "TagSpaces",
-      "sha256" : "f40a73828459b5dd5cd31063bd0cfdfeef4736e2a6594951ca1658060bd6965d",
+      "sha256" : "222ccfc3a4884f2909ff739da7d58e1fe4d746924763bd3aa573df242a0dbbe7",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 155
       },
       "subtitle" : "Offline, open-source, document manager with tagging support",
       "tintColor" : "9EA2A9",
-      "version" : "4.4.3"
+      "version" : "4.5.2",
+      "versionDate" : "2022-08-24T19:20:16Z"
     },
     {
       "beta" : false,
@@ -32102,20 +32104,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://180g.s3.amazonaws.com/downloads/Vellum-33200.zip",
+      "downloadURL" : "https://180g.s3.amazonaws.com/downloads/Vellum-33300.zip",
       "homepage" : "https://vellum.pub/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vellum/AppIcon.png",
       "localizedDescription" : "Ebook creation software",
       "name" : "Vellum",
-      "sha256" : "5c32cb3090476fef3f7149faf80c8d7507ec205f3596953b555112a556afa97b",
+      "sha256" : "b726e5c73b0ad89744bcf9022bcdd74abb16ffe221766b1e8c15f67418a99ab0",
       "stats" : {
         "downloadCount" : 4,
         "impressionCount" : 152
       },
       "subtitle" : "Ebook creation software",
       "tintColor" : "B576AD",
-      "version" : "3.3.2,33200",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "3.3.3,33300",
+      "versionDate" : "2022-08-24T19:20:16Z"
     },
     {
       "beta" : false,
@@ -74162,27 +74164,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "hepta",
-      "caption" : "Hepta updated from 0.187.0 to 0.188.2",
-      "date" : "2022-08-23T01:22:32Z",
-      "identifier" : "release-hepta-0.188.2",
-      "title" : "New Release: Hepta 0.188.2"
-    },
-    {
-      "appID" : "poi",
-      "caption" : "poi updated from 10.9.1 to 10.9.2",
-      "date" : "2022-08-23T01:22:32Z",
-      "identifier" : "release-poi-10.9.2",
-      "title" : "New Release: poi 10.9.2"
-    },
-    {
-      "appID" : "polkadot-js",
-      "caption" : "polkadot{.js} updated from 0.120.1 to 0.121.1",
-      "date" : "2022-08-23T01:22:32Z",
-      "identifier" : "release-polkadot-js-0.121.1",
-      "title" : "New Release: polkadot{.js} 0.121.1"
-    },
-    {
       "appID" : "ankama",
       "caption" : "Ankama Launcher updated from 3.7.0 to 3.7.1",
       "date" : "2022-08-23T01:22:32Z",
@@ -74860,6 +74841,27 @@
       "date" : "2022-08-24T16:28:17Z",
       "identifier" : "release-vivaldi-5.4.2753.40",
       "title" : "New Release: Vivaldi 5.4.2753.40"
+    },
+    {
+      "appID" : "slack",
+      "caption" : "Slack updated from 4.27.154 to 4.28.171",
+      "date" : "2022-08-24T19:20:17Z",
+      "identifier" : "release-slack-4.28.171",
+      "title" : "New Release: Slack 4.28.171"
+    },
+    {
+      "appID" : "tagspaces",
+      "caption" : "TagSpaces updated from 4.4.3 to 4.5.2",
+      "date" : "2022-08-24T19:20:18Z",
+      "identifier" : "release-tagspaces-4.5.2",
+      "title" : "New Release: TagSpaces 4.5.2"
+    },
+    {
+      "appID" : "vellum",
+      "caption" : "Vellum updated from 3.3.2,33200 to 3.3.3,33300",
+      "date" : "2022-08-24T19:20:18Z",
+      "identifier" : "release-vellum-3.3.3,33300",
+      "title" : "New Release: Vellum 3.3.3,33300"
     }
   ],
   "platform" : "macos",

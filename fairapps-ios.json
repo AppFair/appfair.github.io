@@ -31,7 +31,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2906,
+        "impressionCount" : 2908,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 218,
@@ -83,7 +83,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 32,
-        "impressionCount" : 222,
+        "impressionCount" : 224,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 34,
@@ -175,10 +175,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 20,
-        "impressionCount" : 59,
+        "impressionCount" : 62,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -219,10 +219,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 249,
+        "impressionCount" : 254,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 36,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -358,7 +358,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 9,
-        "impressionCount" : 1633,
+        "impressionCount" : 1635,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -428,7 +428,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 7,
-        "impressionCount" : 1520,
+        "impressionCount" : 1522,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 82,
@@ -498,7 +498,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1971,
+        "impressionCount" : 1973,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -533,7 +533,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 2192,
+        "impressionCount" : 2194,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 138,
@@ -617,7 +617,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1385,
+        "impressionCount" : 1386,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -693,7 +693,7 @@
       "stats" : {
         "coreSize" : 102952,
         "downloadCount" : 5,
-        "impressionCount" : 679,
+        "impressionCount" : 680,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 72,
@@ -773,10 +773,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 4,
-        "impressionCount" : 16,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 6,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -814,10 +814,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 4,
-        "impressionCount" : 16,
+        "impressionCount" : 19,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -850,7 +850,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1910,
+        "impressionCount" : 1911,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -886,7 +886,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 1020,
+        "impressionCount" : 1022,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -956,7 +956,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 614,
+        "impressionCount" : 615,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -991,7 +991,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 2,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1026,10 +1026,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 17,
+        "impressionCount" : 21,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1096,10 +1096,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 16,
+        "impressionCount" : 19,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

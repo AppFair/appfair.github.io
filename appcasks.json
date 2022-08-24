@@ -57,7 +57,7 @@
       "sha256" : "e7671127eedc92135b55844dcb9888120e8fb37550f59b3722af2ddca23f4e15",
       "stats" : {
         "downloadCount" : 16847,
-        "impressionCount" : 8558,
+        "impressionCount" : 8559,
         "viewCount" : 934
       },
       "subtitle" : "Web browser",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8531,
-        "impressionCount" : 7851,
+        "impressionCount" : 7852,
         "viewCount" : 647
       },
       "subtitle" : "Music streaming service",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3357,
-        "impressionCount" : 7115,
+        "impressionCount" : 7116,
         "viewCount" : 536
       },
       "subtitle" : "Text editor",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1275,
-        "impressionCount" : 6214,
+        "impressionCount" : 6215,
         "viewCount" : 485
       },
       "subtitle" : "Open-source Markdown editor",
@@ -444,7 +444,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 672,
-        "impressionCount" : 6355,
+        "impressionCount" : 6356,
         "viewCount" : 337
       },
       "subtitle" : "Text editor",
@@ -563,7 +563,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 282,
-        "impressionCount" : 4227,
+        "impressionCount" : 4228,
         "viewCount" : 327
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -646,7 +646,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 156,
-        "impressionCount" : 5304,
+        "impressionCount" : 5305,
         "viewCount" : 559
       },
       "subtitle" : "iOS App Store alternative",
@@ -708,7 +708,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 2910,
+        "impressionCount" : 2911,
         "viewCount" : 248
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -784,7 +784,7 @@
       "sha256" : "cbf2f6c4bd600628fb908a73a648be177739f1fde11b27759105d503b039b35f",
       "stats" : {
         "downloadCount" : 8935,
-        "impressionCount" : 2461,
+        "impressionCount" : 2462,
         "viewCount" : 188
       },
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
@@ -892,7 +892,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 6493,
-        "impressionCount" : 2032,
+        "impressionCount" : 2033,
         "viewCount" : 97
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -914,7 +914,7 @@
       "sha256" : "6429d531c5a15e3a6b956be08b01bc6e206a783c1918837755734470564868fd",
       "stats" : {
         "downloadCount" : 6095,
-        "impressionCount" : 2334,
+        "impressionCount" : 2335,
         "viewCount" : 149
       },
       "subtitle" : "Application launcher and productivity software",
@@ -937,7 +937,7 @@
       "sha256" : "9a1dd24a2e10ea8d7bb7737fbfb688d24552ba5f8db99a074d37dd0324db3b15",
       "stats" : {
         "downloadCount" : 5058,
-        "impressionCount" : 2121,
+        "impressionCount" : 2122,
         "viewCount" : 119
       },
       "subtitle" : "Office suite",
@@ -960,7 +960,7 @@
       "sha256" : "aedd3ba982d8f98937cb5a1bf2f5ad5c92a28ad03ed45c6af93bf5cf43628350",
       "stats" : {
         "downloadCount" : 4463,
-        "impressionCount" : 2454,
+        "impressionCount" : 2455,
         "viewCount" : 172
       },
       "subtitle" : "App to write, plan, collaborate, and get organized",
@@ -983,7 +983,7 @@
       "sha256" : "330ea9c88f24c0487c7ecfc887c0fac7e12fb3f3a636c02bfec610333f46091a",
       "stats" : {
         "downloadCount" : 4334,
-        "impressionCount" : 2426,
+        "impressionCount" : 2427,
         "viewCount" : 132
       },
       "subtitle" : "Password manager that keeps all passwords secure behind one password",
@@ -1006,7 +1006,7 @@
       "sha256" : "fc7e8409f24b5bec4cebf8fd61bbf57069b5acf5eaa69c0db3100b80b26a18fc",
       "stats" : {
         "downloadCount" : 4116,
-        "impressionCount" : 4222,
+        "impressionCount" : 4223,
         "viewCount" : 260
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1097,7 +1097,7 @@
       "sha256" : "473f994698ec082f16bb20b4824dadbfb744f53a01b737b4016f6cc45f403b83",
       "stats" : {
         "downloadCount" : 3264,
-        "impressionCount" : 2023,
+        "impressionCount" : 2024,
         "viewCount" : 117
       },
       "subtitle" : "Password manager app",
@@ -1120,7 +1120,7 @@
       "sha256" : "08b59c3b41bdf369a8ce8ed65c8607eeac2e73672298a04ebf53e7a802b56939",
       "stats" : {
         "downloadCount" : 3217,
-        "impressionCount" : 2820,
+        "impressionCount" : 2821,
         "viewCount" : 176
       },
       "subtitle" : "GPU-accelerated terminal emulator",
@@ -1188,7 +1188,7 @@
       "sha256" : "930fd418cf4b966b1299ceacd888ebd0705cf44269027cf375acc94cb7af49e8",
       "stats" : {
         "downloadCount" : 2844,
-        "impressionCount" : 1758,
+        "impressionCount" : 1759,
         "viewCount" : 98
       },
       "subtitle" : "Network protocol analyzer",
@@ -1257,7 +1257,7 @@
       "sha256" : "8617959678916a95548b59e560bbc709260e435d678cad7a6599caf205431f18",
       "stats" : {
         "downloadCount" : 2588,
-        "impressionCount" : 2252,
+        "impressionCount" : 2253,
         "viewCount" : 197
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1689,7 +1689,7 @@
       "sha256" : "0e940c1c31213ea3c8c3cd3d56e893f74a595b3bae29456827f6c34173eabb1b",
       "stats" : {
         "downloadCount" : 1150,
-        "impressionCount" : 2027,
+        "impressionCount" : 2028,
         "viewCount" : 102
       },
       "subtitle" : "Multi-track audio editor and recorder",
@@ -2506,7 +2506,7 @@
       "sha256" : "9477247e14d3ac3cda1b095b9d9e70d0ed6030f6d19ab9a0013206318e75ee5d",
       "stats" : {
         "downloadCount" : 149,
-        "impressionCount" : 1966,
+        "impressionCount" : 1967,
         "viewCount" : 113
       },
       "subtitle" : "Open-source music notation software",
@@ -6826,7 +6826,7 @@
       "name" : "TIDAL",
       "stats" : {
         "downloadCount" : 209,
-        "impressionCount" : 605
+        "impressionCount" : 606
       },
       "subtitle" : "Music streaming service with high fidelity sound and hi-def video quality",
       "tintColor" : "3B3B3D",
@@ -7049,7 +7049,7 @@
       "sha256" : "7566809283aecdedd5275ded9180cedb467ce40c524b3297b411fe7abb479391",
       "stats" : {
         "downloadCount" : 186,
-        "impressionCount" : 760
+        "impressionCount" : 761
       },
       "subtitle" : "Lyrics for iTunes, Spotify, Vox and Audirvana Plus",
       "tintColor" : "8FB46C",
@@ -7455,7 +7455,7 @@
       "name" : "QQ音乐",
       "stats" : {
         "downloadCount" : 166,
-        "impressionCount" : 699
+        "impressionCount" : 700
       },
       "subtitle" : "Chinese music streaming application",
       "tintColor" : "DFEB98",
@@ -8217,7 +8217,7 @@
       "sha256" : "074e95032a51d7787eed8c4ee2b19046676d72e0cba5cca59af7cc6f79d3887e",
       "stats" : {
         "downloadCount" : 125,
-        "impressionCount" : 623
+        "impressionCount" : 624
       },
       "subtitle" : "YouTube music client",
       "tintColor" : "ED4C62",
@@ -8446,7 +8446,7 @@
       "sha256" : "7f2853cb2f9805658d1fdc790acddc91577201d8ed45d1e0c622feb1561ff88e",
       "stats" : {
         "downloadCount" : 115,
-        "impressionCount" : 926
+        "impressionCount" : 927
       },
       "subtitle" : "Audio player",
       "tintColor" : "BAB9B8",
@@ -8591,7 +8591,7 @@
       "sha256" : "58cfa02a096edf2f798700e122c54f281e218a26840e850b62f20485620dc5ef",
       "stats" : {
         "downloadCount" : 113,
-        "impressionCount" : 755
+        "impressionCount" : 756
       },
       "subtitle" : "Music tagger",
       "tintColor" : "BC6178",
@@ -8856,7 +8856,7 @@
       "sha256" : "efb059754fbf409e525e8f598845e3a69a36a7be3302e243a00e55eb651bf72f",
       "stats" : {
         "downloadCount" : 102,
-        "impressionCount" : 1809
+        "impressionCount" : 1810
       },
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
@@ -9041,7 +9041,7 @@
       "sha256" : "46a19c67d2c36df2141dcf3bfd5d567add9f9118606f70098920fa4deb065dba",
       "stats" : {
         "downloadCount" : 98,
-        "impressionCount" : 595
+        "impressionCount" : 596
       },
       "subtitle" : "Third-party NetEase cloud player",
       "tintColor" : "DEE4EF",
@@ -10693,7 +10693,7 @@
       "sha256" : "825aa66996237e1d3ea2723b24188ead203f298d0bec89f4c3bc6582d9e63e3a",
       "stats" : {
         "downloadCount" : 70,
-        "impressionCount" : 771
+        "impressionCount" : 772
       },
       "subtitle" : "Music player and library organizer",
       "tintColor" : "FDA96C",
@@ -10894,7 +10894,7 @@
       "sha256" : "fe88e03035fa02c3cf74e2b3a752cff2df5a3fdeaed0e3587abdc928b60962fc",
       "stats" : {
         "downloadCount" : 69,
-        "impressionCount" : 385
+        "impressionCount" : 386
       },
       "subtitle" : "Free and Open Source messaging and emailing app",
       "tintColor" : "4D8992",
@@ -11248,7 +11248,7 @@
       "name" : "ocenaudio",
       "stats" : {
         "downloadCount" : 61,
-        "impressionCount" : 669
+        "impressionCount" : 670
       },
       "subtitle" : "Audio editor",
       "tintColor" : "998C6F",
@@ -12878,7 +12878,7 @@
       "sha256" : "0b8d1bbf41747d7d7a26bcee9bb5a5b9d098b2e6be43e7833fdecb541fb74780",
       "stats" : {
         "downloadCount" : 47,
-        "impressionCount" : 517
+        "impressionCount" : 518
       },
       "subtitle" : "Music player and music collection organizer",
       "tintColor" : "C03C21",
@@ -13061,7 +13061,7 @@
       "sha256" : "68c31ce8679759aac565794d962970b86cdd36dce5b59c9d92c9a8810bec2119",
       "stats" : {
         "downloadCount" : 46,
-        "impressionCount" : 741
+        "impressionCount" : 742
       },
       "subtitle" : "Code-based music creation and performance tool",
       "tintColor" : "E6C4D5",
@@ -13239,7 +13239,7 @@
       "sha256" : "e383f8ac88691140c793f5c8ed9332d42f7a37eee0cddeeed550856076971753",
       "stats" : {
         "downloadCount" : 44,
-        "impressionCount" : 572
+        "impressionCount" : 573
       },
       "subtitle" : "Streaming music player",
       "tintColor" : "908EE8",
@@ -21032,7 +21032,7 @@
       "sha256" : "21c7261805e800602843a575b55993d87530aa075cc4ee4bd3978e30e3a2bc29",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 386
+        "impressionCount" : 387
       },
       "subtitle" : "Music tracker compatible with FT2",
       "tintColor" : "88AED7",
@@ -21191,7 +21191,7 @@
       "sha256" : "f31f664d512fd248d479fc82e17670d1e99bd4f37174698b39faf74ab3b05460",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 320
+        "impressionCount" : 321
       },
       "subtitle" : "WinAMP clone written in SwiftUI",
       "tintColor" : "C4B5A3",
@@ -26731,7 +26731,7 @@
       "sha256" : "9214c40b8347ec6b0eaf6b50a1ee7479d5a5f6be51191c24fb8a199da416845e",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 755
+        "impressionCount" : 756
       },
       "subtitle" : "Audio player inspired by Winamp",
       "tintColor" : "342F1D",
@@ -33769,7 +33769,7 @@
       "sha256" : "a4745dcf88f1691d2c681a87e6cfb6326200b6a2d9dfb53c2c62c67905a09e16",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 515
+        "impressionCount" : 516
       },
       "subtitle" : "Music metadata editor supporting batch edits and importing VGMdb data",
       "tintColor" : "4D517D",
@@ -39213,7 +39213,7 @@
       "sha256" : "418d1adcf0ca099e7d02f9773df133c8c3276f1e65c47ff60f587861fa07d063",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 313
+        "impressionCount" : 314
       },
       "subtitle" : "Music player for The Hype Machine",
       "tintColor" : "F1D0D8",
@@ -39940,7 +39940,7 @@
       "sha256" : "b7cb5b25172e3450982d673533931e721e009677e711fffa320b5e42abee3ff3",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 157
+        "impressionCount" : 158
       },
       "subtitle" : "Utility to freeze apps running in the background to save battery",
       "tintColor" : "3F4651",
@@ -61952,7 +61952,7 @@
       },
       "subtitle" : "Customize mouse buttons, wheels and cursor speed",
       "version" : "5.6.4",
-      "versionDate" : "2022-08-24T09:21:42Z"
+      "versionDate" : "2022-08-24T00:00:00Z"
     },
     {
       "beta" : false,

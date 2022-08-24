@@ -62,7 +62,7 @@
       "size" : 9627917,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 108,
+        "downloadCount" : 111,
         "impressionCount" : 29,
         "issueCount" : 6,
         "starCount" : 28,
@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 38,
-        "impressionCount" : 4286,
+        "impressionCount" : 4287,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 703,
@@ -160,7 +160,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2894,
+        "impressionCount" : 2895,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 215,
@@ -208,7 +208,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 23,
-        "impressionCount" : 233,
+        "impressionCount" : 234,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 32,
@@ -284,10 +284,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3226,
+        "impressionCount" : 3228,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 556,
+        "viewCount" : 557,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -346,88 +346,6 @@
       "version" : "0.0.44",
       "versionDate" : "2022-08-19T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.43...0.0.44"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.260/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "42cb95f6d5523bf468c56ff325a366efea2dd054cd38595b97a9be1676d01ce5",
-      "size" : 2282594,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 16,
-        "impressionCount" : 25,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 8,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.260",
-      "versionDate" : "2022-08-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.259...0.9.260"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Fox-Glove",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/Fox-Glove-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/Fox-Glove.png",
-      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
-      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Fox Glove",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Fox-Glove/App/releases/download/0.0.7/screenshot_01-mac-dark-mac-1936x1036.png",
-        "https://github.com/Fox-Glove/App/releases/download/0.0.7/screenshot_01-mac-light-mac-1936x1036.png"
-      ],
-      "sha256" : "7754e1f4944954c23dff8ab8b23fcf8c16ea2695d9e3a011a19d161641f5d912",
-      "size" : 2382430,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 13,
-        "impressionCount" : 27,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 7,
-        "watcherCount" : 0
-      },
-      "subtitle" : "There, I fixed the web for you. You're welcome.",
-      "version" : "0.0.7",
-      "versionDate" : "2022-08-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Fox-Glove/App/compare/0.0.6...0.0.7"
     },
     {
       "beta" : true,
@@ -505,44 +423,6 @@
       "versionDescription" : ""
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.5/Crazy-Glue-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.5/Crazy-Glue.png",
-      "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Crazy Glue",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.5/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Crazy-Glue/App/releases/download/0.0.5/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "08b510b7dba463f8bb48369a2d326ee72b2fcb39259debf9ae57b696d650ac94",
-      "size" : 2186841,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 9,
-        "impressionCount" : 41,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 9,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.5",
-      "versionDate" : "2022-08-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.4...0.0.5"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Festivus-Pole",
       "categories" : [
@@ -579,41 +459,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-23T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Visi-Calc",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc.png",
-      "localizedDescription" : "A business app for business-folk",
-      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Info.plist#d1d3028fa679289adb1356dbcf36b05a7b11590f77677c0eb908ad3a8fd8b75f",
-      "name" : "Visi Calc",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
-      "sha256" : "43841499d299d2bf7aa617cd14df2026c4f7c0a95be9d6c1eefe265e6a6883ca",
-      "size" : 4734574,
-      "stats" : {
-        "coreSize" : 152608,
-        "downloadCount" : 8,
-        "impressionCount" : 756,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 41,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A business app for business-folk",
-      "version" : "0.0.37",
-      "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.37"
     },
     {
       "beta" : true,
@@ -667,6 +512,41 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Visi-Calc",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc.png",
+      "localizedDescription" : "A business app for business-folk",
+      "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Info.plist#d1d3028fa679289adb1356dbcf36b05a7b11590f77677c0eb908ad3a8fd8b75f",
+      "name" : "Visi Calc",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/README.md#d5c5689d94bd40e4fd31b49f1e8a6e87cc9992ffe9b31114b133d57925535d6d",
+      "sha256" : "43841499d299d2bf7aa617cd14df2026c4f7c0a95be9d6c1eefe265e6a6883ca",
+      "size" : 4734574,
+      "stats" : {
+        "coreSize" : 152608,
+        "downloadCount" : 8,
+        "impressionCount" : 756,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 41,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A business app for business-folk",
+      "version" : "0.0.37",
+      "versionDate" : "2022-01-24T00:00:00Z",
+      "versionDescription" : "Release 0.0.37"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Story-Points",
       "categories" : [
 
@@ -703,41 +583,6 @@
       "version" : "0.0.6",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.0.6"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Eternal-September",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Eternal-September-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Eternal-September.png",
-      "localizedDescription" : "An app for learning Roman Numerals",
-      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/Info.plist#5af4bf8fcdb5c153dd6d420a4ea10fd8664b88c04dc7d374db849f7d9ccd43ee",
-      "name" : "Eternal September",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.32/README.md#721eb5f81ec8d74a19278cd6ff67d62ef22beecdc29657d3f3c65254f4b90a13",
-      "sha256" : "4251fc77459c4621f0b52014fa2f76b8e73996bd07e5da04df4550649f586bb1",
-      "size" : 2471831,
-      "stats" : {
-        "coreSize" : 152640,
-        "downloadCount" : 7,
-        "impressionCount" : 950,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 64,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for learning Roman Numerals",
-      "version" : "0.0.32",
-      "versionDate" : "2022-01-26T00:00:00Z",
-      "versionDescription" : "Release 0.0.32"
     },
     {
       "beta" : true,
@@ -964,10 +809,10 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2730,
+        "impressionCount" : 2731,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 177,
+        "viewCount" : 178,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1121,7 +966,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 207,
+        "impressionCount" : 208,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 30,
@@ -1317,6 +1162,93 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Crazy-Glue",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
+      "localizedDescription" : "Putting the pieces back together",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Crazy Glue",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.7/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "e1deb5fa716d43bf3f8db9f06f84b45ce809012261a6355aae6944f3fa7b1fdc",
+      "size" : 2273312,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 3,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Putting the pieces back together",
+      "version" : "0.0.7",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "screenshotURLs" : [
+        "https://github.com/Bon-Mot/App/releases/download/0.2.44/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.2.44/screenshot_01-mac-light-mac-2024x1124.png"
+      ],
+      "sha256" : "2556560f71c195bfd76ab262df2c681d0720a9df5d8810b5a46592d774d553da",
+      "size" : 2275297,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 3,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.44",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.43...0.2.44"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
 
@@ -1343,7 +1275,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2686,
+        "impressionCount" : 2687,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 146,
@@ -1390,33 +1322,146 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
-      "beta" : true,
+      "beta" : false,
+      "bundleIdentifier" : "app.Eternal-September",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Eternal-September-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Eternal-September.png",
+      "localizedDescription" : "An app for learning Roman Numerals",
+      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
+      "name" : "Eternal September",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.35/README.md#e370e43cc947912a888f253b15bda9208dd934019a17c35be4aaae07ef93be72",
+      "sha256" : "b7bff211ea457c67d65791a4f90d0c59fbe13bc35f57a22439019dc54ef74902",
+      "size" : 2327039,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for learning Roman Numerals",
+      "version" : "0.0.35",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.34...0.0.35"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.20/Media-Res-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.20/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.20/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.20/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Media-Res/App/releases/download/0.0.20/screenshot_01-mac-dark-mac-484x460.png",
+        "https://github.com/Media-Res/App/releases/download/0.0.20/screenshot_01-mac-light-mac-484x460.png"
+      ],
+      "sha256" : "3109681a0360ab552011dc52304c530697b081fa8619bdd0d013889c79be1dcf",
+      "size" : 2308142,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.20",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.19...0.0.20"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fox-Glove",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.9/Fox-Glove-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.9/Fox-Glove.png",
+      "localizedDescription" : "There, I fixed the web for you. You're welcome.",
+      "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.9/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Fox Glove",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.9/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Fox-Glove/App/releases/download/0.0.9/screenshot_01-mac-dark-mac-1936x1036.png",
+        "https://github.com/Fox-Glove/App/releases/download/0.0.9/screenshot_01-mac-light-mac-1936x1036.png"
+      ],
+      "sha256" : "118316317d0f1efdd337e879aad654f2b617bbafd3101e8c2b3aa7fa3b279cb1",
+      "size" : 2381643,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "There, I fixed the web for you. You're welcome.",
+      "version" : "0.0.9",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Fox-Glove/App/compare/0.0.8...0.0.9"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.262/Cloud-Cuckoo-macOS.zip",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Cloud-Cuckoo-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.262/Cloud-Cuckoo.png",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.262/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.262/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.262/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.262/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.262/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.262/screenshot_06-mac-1656x1560.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.262/screenshot_05-mac-1634x1040.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "a6bf500a2a7aad9a3d446144e56eb05dfc57b4a890c66148ba548fe3f50d6375",
-      "size" : 2281240,
+      "sha256" : "249677f26f4379a45b54f0eb3da38ab55b655d7e0a2275d042ddd90f29f04059",
+      "size" : 2281338,
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
@@ -1428,58 +1473,9 @@
       },
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.262",
+      "version" : "0.9.263",
       "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.261...0.9.262"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.42/Bon-Mot-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.42/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.42/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.42/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.42/screenshot_01-mac-dark-mac-2024x1124.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.2.42/screenshot_01-mac-light-mac-2024x1124.png"
-      ],
-      "sha256" : "4837447239e6eb393ebf6cb1979daba3baf372d721aa6098b9349505654f4df5",
-      "size" : 2276566,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 2,
-        "impressionCount" : 7,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.42",
-      "versionDate" : "2022-08-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.41...0.2.42"
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.262...0.9.263"
     },
     {
       "beta" : true,
@@ -1523,72 +1519,33 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.5/Encyclopedia-Galactica-macOS.zip",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.7/Encyclopedia-Galactica-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.5/Encyclopedia-Galactica.png",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.7/Encyclopedia-Galactica.png",
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.5/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "ebd16acfd0e4fd135042b4ba1053744c8ec9e17b676b3861fb22abefab09934f",
-      "size" : 2250498,
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.7/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "77982af785b44d6d3054576eb992a0e58338d4c3bd66895e18aff414886e1499",
+      "size" : 2249236,
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 1,
-        "impressionCount" : 7,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.5",
-      "versionDate" : "2022-08-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.4...0.1.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.18/Media-Res-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.18/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.18/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.18/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Media-Res/App/releases/download/0.0.18/screenshot_01-mac-dark-mac-484x460.png",
-        "https://github.com/Media-Res/App/releases/download/0.0.18/screenshot_01-mac-light-mac-484x460.png"
-      ],
-      "sha256" : "e867a0e11d0e72e626ffb00a754e85739ece89c8cbfea03fb595ac5d2dcf7304",
-      "size" : 2221667,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 1,
-        "impressionCount" : 32,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 7,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.18",
-      "versionDate" : "2022-08-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.17...0.0.18"
+      "version" : "0.1.7",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.6...0.1.7"
     },
     {
       "beta" : true,
@@ -1637,13 +1594,6 @@
   "name" : "Fair Apps",
   "news" : [
     {
-      "appID" : "app.Stanza-Redux",
-      "caption" : "Stanza Redux updated from 0.3.46 to 0.3.48",
-      "date" : "2022-08-15T15:04:01Z",
-      "identifier" : "release-app.Stanza-Redux-0.3.48",
-      "title" : "New Release: Stanza Redux 0.3.48"
-    },
-    {
       "appID" : "app.Tune-Out",
       "caption" : "Tune Out updated from 0.8.451 to 0.8.454",
       "date" : "2022-08-15T18:41:20Z",
@@ -1658,20 +1608,6 @@
       "title" : "New Release: Net Skip 0.0.44"
     },
     {
-      "appID" : "app.Crazy-Glue",
-      "caption" : "Crazy Glue 0.0.5 released",
-      "date" : "2022-08-22T13:29:35Z",
-      "identifier" : "release-app.Crazy-Glue-0.0.5",
-      "title" : "New Release: Crazy Glue 0.0.5"
-    },
-    {
-      "appID" : "app.Media-Res",
-      "caption" : "Media Res 0.0.18 released",
-      "date" : "2022-08-22T15:24:01Z",
-      "identifier" : "release-app.Media-Res-0.0.18",
-      "title" : "New Release: Media Res 0.0.18"
-    },
-    {
       "appID" : "app.App-Fair",
       "caption" : "App Fair updated from 0.8.108 to 0.8.109",
       "date" : "2022-08-22T20:06:24Z",
@@ -1679,32 +1615,53 @@
       "title" : "New Release: App Fair 0.8.109"
     },
     {
-      "appID" : "app.Fox-Glove",
-      "caption" : "Fox Glove updated from 0.0.5 to 0.0.7",
-      "date" : "2022-08-23T03:47:30Z",
-      "identifier" : "release-app.Fox-Glove-0.0.7",
-      "title" : "New Release: Fox Glove 0.0.7"
-    },
-    {
       "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo 0.9.260 released",
-      "date" : "2022-08-23T04:14:07Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.260",
-      "title" : "New Release: Cloud Cuckoo 0.9.260"
+      "caption" : "Cloud Cuckoo updated from 0.9.260 to 0.9.263",
+      "date" : "2022-08-24T04:08:58Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.263",
+      "title" : "New Release: Cloud Cuckoo 0.9.263"
     },
     {
-      "appID" : "app.Encyclopedia-Galactica",
-      "caption" : "Encyclopedia Galactica updated from 0.1.4 to 0.1.5",
-      "date" : "2022-08-24T00:03:08Z",
-      "identifier" : "release-app.Encyclopedia-Galactica-0.1.5",
-      "title" : "New Release: Encyclopedia Galactica 0.1.5"
+      "appID" : "app.Fox-Glove",
+      "caption" : "Fox Glove updated from 0.0.7 to 0.0.9",
+      "date" : "2022-08-24T04:08:59Z",
+      "identifier" : "release-app.Fox-Glove-0.0.9",
+      "title" : "New Release: Fox Glove 0.0.9"
+    },
+    {
+      "appID" : "app.Crazy-Glue",
+      "caption" : "Crazy Glue updated from 0.0.5 to 0.0.7",
+      "date" : "2022-08-24T04:08:59Z",
+      "identifier" : "release-app.Crazy-Glue-0.0.7",
+      "title" : "New Release: Crazy Glue 0.0.7"
     },
     {
       "appID" : "app.Bon-Mot",
-      "caption" : "Bon Mot updated from 0.2.41 to 0.2.42",
-      "date" : "2022-08-24T00:20:33Z",
-      "identifier" : "release-app.Bon-Mot-0.2.42",
-      "title" : "New Release: Bon Mot 0.2.42"
+      "caption" : "Bon Mot updated from 0.2.42 to 0.2.44",
+      "date" : "2022-08-24T04:08:59Z",
+      "identifier" : "release-app.Bon-Mot-0.2.44",
+      "title" : "New Release: Bon Mot 0.2.44"
+    },
+    {
+      "appID" : "app.Encyclopedia-Galactica",
+      "caption" : "Encyclopedia Galactica updated from 0.1.5 to 0.1.7",
+      "date" : "2022-08-24T04:09:00Z",
+      "identifier" : "release-app.Encyclopedia-Galactica-0.1.7",
+      "title" : "New Release: Encyclopedia Galactica 0.1.7"
+    },
+    {
+      "appID" : "app.Media-Res",
+      "caption" : "Media Res updated from 0.0.18 to 0.0.20",
+      "date" : "2022-08-24T04:09:00Z",
+      "identifier" : "release-app.Media-Res-0.0.20",
+      "title" : "New Release: Media Res 0.0.20"
+    },
+    {
+      "appID" : "app.Eternal-September",
+      "caption" : "Eternal September 0.0.35 released",
+      "date" : "2022-08-24T04:09:00Z",
+      "identifier" : "release-app.Eternal-September-0.0.35",
+      "title" : "New Release: Eternal September 0.0.35"
     }
   ],
   "platform" : "macos"

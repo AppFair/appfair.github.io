@@ -561,23 +561,26 @@
       "name" : "SQL Hero",
       "permissions" : [
         {
-          "type" : "network.client",
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
           "usageDescription" : "Network client access required to connect to remote databases."
         },
         {
-          "type" : "network.server",
-          "usageDescription" : "Network server access is needed to handle requests."
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "Filesystem access required to read and write local databases."
         },
         {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "Filesystem access required to read and write local databases."
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "Network server access is needed to handle requests."
         }
       ],
       "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.3/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "sha256" : "3ade2e59fda3b8470e8bebdca711f61906e0a197e73deb00b813d6889f7dbfc0",
       "size" : 6071057,
       "stats" : {
-        "coreSize" : 152704,
+        "coreSize" : 170240,
         "downloadCount" : 5,
         "impressionCount" : 194,
         "issueCount" : 0,
@@ -1087,7 +1090,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,

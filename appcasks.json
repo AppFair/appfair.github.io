@@ -3438,20 +3438,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.2.4.zip",
+      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.3.6.zip",
       "homepage" : "https://www.figma.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-figma/AppIcon.png",
       "localizedDescription" : "Collaborative team software",
       "name" : "Figma",
-      "sha256" : "60e3db6ef10e328577072338add87fd7a3480604ff1da82935de59557e48ad65",
+      "sha256" : "2ccac9737ca194a9d4d3585b111ece2cd46416b27ef62d43a9e11300e08bc331",
       "stats" : {
         "downloadCount" : 2344,
         "impressionCount" : 2618
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
-      "version" : "116.2.4",
-      "versionDate" : "2022-07-27T00:00:00Z"
+      "version" : "116.3.6",
+      "versionDate" : "2022-08-24T05:48:11Z"
     },
     {
       "beta" : false,
@@ -66961,8 +66961,8 @@
         "downloadCount" : 10
       },
       "subtitle" : "Universal chat app powered by Matrix, unifying 15 different chat networks",
-      "version" : "3.22.25",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "3.23.11",
+      "versionDate" : "2022-08-24T05:48:11Z"
     },
     {
       "beta" : false,
@@ -74177,20 +74177,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "gather",
-      "caption" : "Gather Town updated from 0.3.5 to 0.3.6",
-      "date" : "2022-08-23T01:22:27Z",
-      "identifier" : "release-gather-0.3.6",
-      "title" : "New Release: Gather Town 0.3.6"
-    },
-    {
-      "appID" : "masscode",
-      "caption" : "massCode updated from 3.3.0 to 3.4.0",
-      "date" : "2022-08-23T01:22:28Z",
-      "identifier" : "release-masscode-3.4.0",
-      "title" : "New Release: massCode 3.4.0"
-    },
-    {
       "appID" : "caprine",
       "caption" : "Caprine updated from 2.56.0 to 2.56.1",
       "date" : "2022-08-23T01:22:28Z",
@@ -74875,6 +74861,20 @@
       "date" : "2022-08-24T04:19:20Z",
       "identifier" : "release-foxglove-studio-1.23.0",
       "title" : "New Release: Foxglove Studio 1.23.0"
+    },
+    {
+      "appID" : "figma",
+      "caption" : "Figma updated from 116.2.4 to 116.3.6",
+      "date" : "2022-08-24T05:48:12Z",
+      "identifier" : "release-figma-116.3.6",
+      "title" : "New Release: Figma 116.3.6"
+    },
+    {
+      "appID" : "beeper",
+      "caption" : "Beeper updated from 3.22.25 to 3.23.11",
+      "date" : "2022-08-24T05:48:12Z",
+      "identifier" : "release-beeper-3.23.11",
+      "title" : "New Release: Beeper 3.23.11"
     }
   ],
   "platform" : "macos",

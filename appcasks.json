@@ -1065,13 +1065,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://desktop.githubusercontent.com/github-desktop/releases/3.0.5-25b66588/GitHubDesktop-x64.zip",
+      "downloadURL" : "https://desktop.githubusercontent.com/github-desktop/releases/3.0.6-635516e1/GitHubDesktop-x64.zip",
       "homepage" : "https://desktop.github.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-github/AppIcon.png",
       "localizedDescription" : "Desktop client for GitHub repositories",
       "name" : "GitHub Desktop",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-github/README.md",
-      "sha256" : "987a03547689a44b14b795b4d52424a58424e1fd5691d1dcc68054def8845c4f",
+      "sha256" : "4a46abb1b39afff5fb46d30fc34c8c208b0be5711cbacffc89035777d4d33f3a",
       "stats" : {
         "downloadCount" : 3278,
         "impressionCount" : 2133,
@@ -1079,8 +1079,8 @@
       },
       "subtitle" : "Desktop client for GitHub repositories",
       "tintColor" : "9767B3",
-      "version" : "3.0.5-25b66588",
-      "versionDate" : "2022-07-14T00:00:00Z"
+      "version" : "3.0.6-635516e1",
+      "versionDate" : "2022-08-24T12:35:11Z"
     },
     {
       "beta" : false,
@@ -74161,13 +74161,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "athens",
-      "caption" : "Athens updated from 1.0.0 to 2.0.0",
-      "date" : "2022-08-23T01:22:30Z",
-      "identifier" : "release-athens-2.0.0",
-      "title" : "New Release: Athens 2.0.0"
-    },
-    {
       "appID" : "golly",
       "caption" : "Golly updated from 4.1 to 4.2",
       "date" : "2022-08-23T01:22:30Z",
@@ -74859,6 +74852,13 @@
       "date" : "2022-08-24T09:21:43Z",
       "identifier" : "release-steermouse-5.6.4",
       "title" : "New Release: SteerMouse 5.6.4"
+    },
+    {
+      "appID" : "github",
+      "caption" : "GitHub Desktop updated from 3.0.5-25b66588 to 3.0.6-635516e1",
+      "date" : "2022-08-24T12:35:12Z",
+      "identifier" : "release-github-3.0.6-635516e1",
+      "title" : "New Release: GitHub Desktop 3.0.6-635516e1"
     }
   ],
   "platform" : "macos",

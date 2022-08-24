@@ -62,7 +62,7 @@
       "size" : 9627917,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 94,
+        "downloadCount" : 95,
         "impressionCount" : 26,
         "issueCount" : 6,
         "starCount" : 28,
@@ -428,55 +428,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.41/Bon-Mot-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.41/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.41/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.41/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.41/screenshot_01-mac-dark-mac-2024x1124.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.2.41/screenshot_01-mac-light-mac-2024x1124.png"
-      ],
-      "sha256" : "90d79e5199d139697696a18da02f4d884747f8af9c8efb726aa0ea34d4f84ea4",
-      "size" : 2188848,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 10,
-        "impressionCount" : 39,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 10,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.41",
-      "versionDate" : "2022-08-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.40...0.2.41"
     },
     {
       "beta" : false,
@@ -1439,6 +1390,55 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.42/Bon-Mot-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.42/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.42/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.42/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "screenshotURLs" : [
+        "https://github.com/Bon-Mot/App/releases/download/0.2.42/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.2.42/screenshot_01-mac-light-mac-2024x1124.png"
+      ],
+      "sha256" : "4837447239e6eb393ebf6cb1979daba3baf372d721aa6098b9349505654f4df5",
+      "size" : 2276566,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.42",
+      "versionDate" : "2022-08-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.41...0.2.42"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Tweet-Storm",
       "categories" : [
@@ -1615,13 +1615,6 @@
       "title" : "New Release: Net Skip 0.0.44"
     },
     {
-      "appID" : "app.Bon-Mot",
-      "caption" : "Bon Mot updated from 0.2.37 to 0.2.41",
-      "date" : "2022-08-22T12:49:15Z",
-      "identifier" : "release-app.Bon-Mot-0.2.41",
-      "title" : "New Release: Bon Mot 0.2.41"
-    },
-    {
       "appID" : "app.Crazy-Glue",
       "caption" : "Crazy Glue 0.0.5 released",
       "date" : "2022-08-22T13:29:35Z",
@@ -1662,6 +1655,13 @@
       "date" : "2022-08-24T00:03:08Z",
       "identifier" : "release-app.Encyclopedia-Galactica-0.1.5",
       "title" : "New Release: Encyclopedia Galactica 0.1.5"
+    },
+    {
+      "appID" : "app.Bon-Mot",
+      "caption" : "Bon Mot updated from 0.2.41 to 0.2.42",
+      "date" : "2022-08-24T00:20:33Z",
+      "identifier" : "release-app.Bon-Mot-0.2.42",
+      "title" : "New Release: Bon Mot 0.2.42"
     }
   ],
   "platform" : "macos"

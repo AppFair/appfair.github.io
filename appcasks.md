@@ -282,7 +282,7 @@ tr:nth-child(even) {
 | [``FontForge``](https://fontforge.github.io/en-US/) | ``2022-03-08,74e2eca`` | `342` |  |  | `803` |  |  | `0` | `public.app-category.graphics-design` |
 | [``Lunar``](https://lunar.fyi/) | ``5.7.7`` | `339` | `2022-08-19T00:00:00Z` |  | `635` |  |  | `0` | `public.app-category.productivity` |
 | [``Lapce``](https://lapce.dev/) | ``0.1.3`` | `335` | `2022-07-15T00:00:00Z` |  | `447` |  |  | `0` | `public.app-category.utilities` |
-| [``Leapp``](https://www.leapp.cloud/) | ``0.14.1`` | `334` | `2022-08-19T00:00:00Z` |  | `516` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Leapp``](https://www.leapp.cloud/) | ``0.14.1`` | `334` | `2022-08-19T00:00:00Z` |  | `517` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Beekeeper Studio``](https://www.beekeeperstudio.io/) | ``3.6.2`` | `333` | `2022-07-19T00:00:00Z` |  | `682` |  |  | `0` | `public.app-category.developer-tools` |
 | [``JetBrains Rider``](https://www.jetbrains.com/rider/) | ``2022.2.2,222.3962.23`` | `329` | `2022-08-23T00:00:00Z` |  | `396` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Asana``](https://asana.com/) | ``1.9.0`` | `327` | `2022-08-06T00:00:00Z` |  | `651` |  |  | `0` | `public.app-category.developer-tools` |

@@ -25,7 +25,7 @@
       "sha256" : "80f77b635402201cfbd082529cad46c48ca44a94cb0e9a9390eed28f975c6c9a",
       "stats" : {
         "downloadCount" : 2781,
-        "impressionCount" : 9768,
+        "impressionCount" : 9769,
         "viewCount" : 1038
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "e7671127eedc92135b55844dcb9888120e8fb37550f59b3722af2ddca23f4e15",
       "stats" : {
         "downloadCount" : 17138,
-        "impressionCount" : 8588,
+        "impressionCount" : 8589,
         "viewCount" : 936
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 9039,
-        "impressionCount" : 7565,
+        "impressionCount" : 7567,
         "viewCount" : 669
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29993,
-        "impressionCount" : 7896,
+        "impressionCount" : 7897,
         "viewCount" : 672
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8410,
-        "impressionCount" : 7877,
+        "impressionCount" : 7878,
         "viewCount" : 648
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6692,
-        "impressionCount" : 7911,
+        "impressionCount" : 7912,
         "viewCount" : 523
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3582,
-        "impressionCount" : 8355,
+        "impressionCount" : 8357,
         "viewCount" : 575
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3387,
-        "impressionCount" : 7138,
+        "impressionCount" : 7139,
         "viewCount" : 538
       },
       "subtitle" : "Text editor",
@@ -265,8 +265,8 @@
       ],
       "stats" : {
         "downloadCount" : 2753,
-        "impressionCount" : 6153,
-        "viewCount" : 397
+        "impressionCount" : 6155,
+        "viewCount" : 399
       },
       "subtitle" : "Video game digital distribution service",
       "tintColor" : "416082",
@@ -298,8 +298,8 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2129,
-        "impressionCount" : 7891,
-        "viewCount" : 828
+        "impressionCount" : 7893,
+        "viewCount" : 829
       },
       "subtitle" : "File archiver",
       "tintColor" : "8E7568",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1882,
-        "impressionCount" : 6775,
+        "impressionCount" : 6777,
         "viewCount" : 432
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1240,
-        "impressionCount" : 6236,
+        "impressionCount" : 6237,
         "viewCount" : 486
       },
       "subtitle" : "Open-source Markdown editor",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1188,
-        "impressionCount" : 8244,
+        "impressionCount" : 8245,
         "viewCount" : 475
       },
       "subtitle" : "3D creation suite",
@@ -473,7 +473,7 @@
       ],
       "stats" : {
         "downloadCount" : 526,
-        "impressionCount" : 5962,
+        "impressionCount" : 5964,
         "viewCount" : 467
       },
       "subtitle" : "Sandbox construction video game",
@@ -674,7 +674,7 @@
       "sha256" : "65c67ab1fa1e016363b14b303d5979cb61c051ee97d1763e0abfee6592085d23",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 3252,
+        "impressionCount" : 3254,
         "viewCount" : 306
       },
       "subtitle" : "EVE Online client",
@@ -806,7 +806,7 @@
       "sha256" : "841c8df079da473a634b44c1841ff63cc90ed7b3d2563df7379bb7b046afc0cf",
       "stats" : {
         "downloadCount" : 8486,
-        "impressionCount" : 3062,
+        "impressionCount" : 3063,
         "viewCount" : 241
       },
       "subtitle" : "Team communication and collaboration software",
@@ -2240,7 +2240,7 @@
       "sha256" : "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73",
       "stats" : {
         "downloadCount" : 335,
-        "impressionCount" : 2117,
+        "impressionCount" : 2120,
         "viewCount" : 206
       },
       "subtitle" : "Retro video game emulation",
@@ -2372,7 +2372,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/README.md",
       "stats" : {
         "downloadCount" : 194,
-        "impressionCount" : 494,
+        "impressionCount" : 496,
         "viewCount" : 37
       },
       "subtitle" : "Multiplayer online battle arena game",
@@ -2529,7 +2529,7 @@
       "sha256" : "20346073731e3dc0ccfc79ce05abe2e1e3a9d815fb945c0683169d455c6c1004",
       "stats" : {
         "downloadCount" : 113,
-        "impressionCount" : 1967,
+        "impressionCount" : 1969,
         "viewCount" : 176
       },
       "subtitle" : "Real-time strategy game engine for Westwood games",
@@ -2551,7 +2551,7 @@
       "sha256" : "5b37ff0853875678175e01f785dd5db06d401fa5e8e2a1c6b8a4103a912b3666",
       "stats" : {
         "downloadCount" : 105,
-        "impressionCount" : 2268,
+        "impressionCount" : 2269,
         "viewCount" : 184
       },
       "subtitle" : "Visual communication software",
@@ -2711,7 +2711,7 @@
       "sha256" : "d1a2073dee3435d8a78bf289206248c9ed6be5e17f4ba1ac8412caf6d0eae0b0",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 2005,
+        "impressionCount" : 2007,
         "viewCount" : 166
       },
       "subtitle" : "Real-time strategy game",
@@ -2831,7 +2831,7 @@
       "sha256" : "5a0bdd9bc4cb7beea03b95a2549c1cf994ea8646f6621f5353dd22d79c757404",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 1924,
+        "impressionCount" : 1926,
         "viewCount" : 146
       },
       "subtitle" : "Turn-based strategy, artillery, action and comedy game",
@@ -2965,7 +2965,7 @@
       "sha256" : "d5c01584a97aaee4aef222b0f07ada24ada823a7a515a79c357084b1ecddd8a2",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 1714,
+        "impressionCount" : 1716,
         "viewCount" : 97
       },
       "subtitle" : "Board game engine",
@@ -3132,7 +3132,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6437,
-        "impressionCount" : 1185
+        "impressionCount" : 1187
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3488,7 +3488,7 @@
       "sha256" : "7a351f2fa507a8cbac55f6a094694e0cab457ca6cdc336752e6464712ce27aca",
       "stats" : {
         "downloadCount" : 1993,
-        "impressionCount" : 2006
+        "impressionCount" : 2007
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -5378,7 +5378,7 @@
       "sha256" : "f126aa4bee8cb19214a8e41b1e1d7d664be15e7ea0d6e6ebf605dbfb6bb16116",
       "stats" : {
         "downloadCount" : 418,
-        "impressionCount" : 1272
+        "impressionCount" : 1273
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -8468,7 +8468,7 @@
       "sha256" : "5e28a64b390cbae0484bfe40ae841028109430d5c3bd7b0a98eb5028731d8897",
       "stats" : {
         "downloadCount" : 114,
-        "impressionCount" : 1096
+        "impressionCount" : 1097
       },
       "subtitle" : "Developer IDE or Management Environment for Neo4j instances",
       "tintColor" : "D7E0E8",
@@ -8590,7 +8590,7 @@
       "sha256" : "954a23bd074723803cd752cf3dbf17c46884b0fe61c99c0354e63ea3106a06e7",
       "stats" : {
         "downloadCount" : 110,
-        "impressionCount" : 1721
+        "impressionCount" : 1722
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
@@ -9160,20 +9160,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://dldir1.qq.com/foxmail/wecom-mac/update/WeCom_4.0.12.90612.dmg",
+      "downloadURL" : "https://dldir1.qq.com/foxmail/wecom-mac/update/WeCom_4.0.16.90619.dmg",
       "homepage" : "https://work.weixin.qq.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wechatwork/AppIcon.png",
       "localizedDescription" : "Messaging and calling application",
       "name" : "WeChat Work",
-      "sha256" : "20b887dda7f3c6cb74a12506dece04b8e6adf28c9c80d455ed6ae21f470e7b25",
+      "sha256" : "c41a8371c330b75ea0b5337f99e8c6427de5a59859da4276b03199eaefb659d9",
       "stats" : {
         "downloadCount" : 95,
-        "impressionCount" : 1130
+        "impressionCount" : 1131
       },
       "subtitle" : "Messaging and calling application",
       "tintColor" : "E4F0F7",
-      "version" : "4.0.12.90612",
-      "versionDate" : "2022-08-11T00:00:00Z"
+      "version" : "4.0.16.90619",
+      "versionDate" : "2022-08-25T09:24:01Z"
     },
     {
       "beta" : false,
@@ -9203,7 +9203,7 @@
       "sha256" : "a4265f0a968e463d8c1e48562f36e078f25e8f04347da55bc1dd9a9dba492683",
       "stats" : {
         "downloadCount" : 95,
-        "impressionCount" : 1293
+        "impressionCount" : 1295
       },
       "subtitle" : "Open Source Game Launcher",
       "tintColor" : "362B25",
@@ -9608,7 +9608,7 @@
       "sha256" : "28a040ad3afc360202e09fbaebb39e5a5d99c0766bf9dd6c349000d0758169ca",
       "stats" : {
         "downloadCount" : 84,
-        "impressionCount" : 1117
+        "impressionCount" : 1118
       },
       "subtitle" : "Fork of Nylas Mail",
       "tintColor" : "95E5E8",
@@ -10169,7 +10169,7 @@
       "sha256" : "0bad462af1a1abdc4787e13b1c97a7eaa20aadb2465c733bde33dfcb0f03bfe3",
       "stats" : {
         "downloadCount" : 79,
-        "impressionCount" : 975
+        "impressionCount" : 976
       },
       "subtitle" : "View, Screen Share, organize, import, and download files to a reMarkable device",
       "tintColor" : "0B0B0B",
@@ -10838,7 +10838,7 @@
       "sha256" : "04896021cbe5f1f8548f26d2ab9251128699510d2676a6ef3d544a3d99d6f7c0",
       "stats" : {
         "downloadCount" : 69,
-        "impressionCount" : 978
+        "impressionCount" : 980
       },
       "subtitle" : "2D game framework for Lua",
       "tintColor" : "C598C4",
@@ -11018,7 +11018,7 @@
       "sha256" : "1d58f63ddf6f7622e4a86a9d2951813cfc617df7f2d62fd4d0d6a720576ca637",
       "stats" : {
         "downloadCount" : 65,
-        "impressionCount" : 979
+        "impressionCount" : 980
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -11352,7 +11352,7 @@
       "sha256" : "cd95e5298862f23f9692468695291dd6ac6d919966c098108cc5b24ddc56d5a9",
       "stats" : {
         "downloadCount" : 61,
-        "impressionCount" : 1035
+        "impressionCount" : 1036
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -11555,7 +11555,7 @@
       "sha256" : "9368414dc210ce6746735cf4def6692a1dee05e847ee3fb5b3a06b0fe45ef963",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 893
+        "impressionCount" : 894
       },
       "subtitle" : "Handwriting notetaking software",
       "tintColor" : "E5D8CE",
@@ -12530,7 +12530,7 @@
       "sha256" : "51e2444757c64c07ed964e250488873730f960089a739d05765adb3d7352fb4e",
       "stats" : {
         "downloadCount" : 49,
-        "impressionCount" : 1162
+        "impressionCount" : 1163
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
@@ -16359,7 +16359,7 @@
       "sha256" : "f8e3bceeff2ddd53e603a84c9d323f9b3b259098391283efaa046d77c34d9b38",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 1213
+        "impressionCount" : 1215
       },
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
@@ -19413,7 +19413,7 @@
       "sha256" : "32fca874dc376f6bcf22ff05e280a4dac99bb00dd0be3d81ab576e836f742f9e",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 1138
+        "impressionCount" : 1140
       },
       "subtitle" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "tintColor" : "828487",
@@ -20635,7 +20635,7 @@
       "sha256" : "3e6baf5aafacbbe69b484af26fa6c426ec326a527243807db66d24f6ec354dae",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 792
+        "impressionCount" : 794
       },
       "subtitle" : "World of Warcraft addon manager",
       "tintColor" : "7B7AB9",
@@ -24461,7 +24461,7 @@
       "name" : "Pokemon Trading Card Game Online",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 622
+        "impressionCount" : 623
       },
       "subtitle" : "Play the Pokemon TCG online",
       "tintColor" : "997862",
@@ -26463,7 +26463,7 @@
       "sha256" : "c4dbe867738c244d0f00e4b13b432dca305559fc36ef1614f749291c805e5003",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 557
+        "impressionCount" : 558
       },
       "subtitle" : "Multi-platform Atari 2600 Emulator",
       "tintColor" : "7B4D02",
@@ -26524,7 +26524,7 @@
       "name" : "TETR.IO",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 859
+        "impressionCount" : 860
       },
       "subtitle" : "Free-to-play Tetris clone",
       "tintColor" : "7055A4",
@@ -26668,7 +26668,7 @@
       "sha256" : "207513b33b7198c0f3106de510a13960434cb1c177fccc062d4e53cfbf981543",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 1088
+        "impressionCount" : 1089
       },
       "subtitle" : "First-person game",
       "tintColor" : "7E7377",
@@ -28777,7 +28777,7 @@
       "sha256" : "0f3ee04e6874b560482c091445a73d1411a444538928e232681d15a829fab605",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 709
+        "impressionCount" : 710
       },
       "tintColor" : "637D9A",
       "version" : "1.90"
@@ -28833,7 +28833,7 @@
       "sha256" : "eab57d10b4e8002231cbfb502589d97fcea9edce85c21850bdd5cbc574ccfa19",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 640
+        "impressionCount" : 641
       },
       "subtitle" : "Scalable KanColle browser and tool",
       "tintColor" : "847367",
@@ -29485,7 +29485,7 @@
       "sha256" : "ae8102f503596822c45a2b3c12e48e218473f1525772bbe824139ce48a23a5ea",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 817
+        "impressionCount" : 818
       },
       "subtitle" : "Guitar Hero clone",
       "tintColor" : "8C7AC8",
@@ -29601,7 +29601,7 @@
       "sha256" : "e505ba51dfdca3c912cff8575dcc9c77b43f721d53d41b4fa5864e2ac67d04bc",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 822
+        "impressionCount" : 823
       },
       "subtitle" : "Group chat platform",
       "tintColor" : "B69624",
@@ -31797,7 +31797,7 @@
       "name" : "sixtyforce",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 574
+        "impressionCount" : 575
       },
       "subtitle" : "N64 emulator",
       "tintColor" : "595858",
@@ -33784,7 +33784,7 @@
       "sha256" : "d1f7b64cdeae0dcd41692c62c6d4e331bf02160cc258596b819f813eccf7b9e9",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 800
+        "impressionCount" : 801
       },
       "subtitle" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
       "tintColor" : "2AA5EA",
@@ -34245,7 +34245,7 @@
       "sha256" : "e667934e6ee3f27d3f81591b830d2be4513c8997f54f5312be56917c0697ce75",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 600
+        "impressionCount" : 601
       },
       "subtitle" : "Game Master for Fantasy Flight board games",
       "tintColor" : "797979",
@@ -34364,7 +34364,7 @@
       "name" : "Ankama Launcher",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 1068
+        "impressionCount" : 1069
       },
       "subtitle" : "Portal to download Ankama's PC games",
       "tintColor" : "F08612",
@@ -35741,7 +35741,7 @@
       "sha256" : "d1a1543285c0821702bc2d8862cefeefeaa5af156720525a61d97f7a4b0828cc",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 576
+        "impressionCount" : 577
       },
       "subtitle" : "Review, edit and share dive log data",
       "tintColor" : "62757C",
@@ -37581,7 +37581,7 @@
       "sha256" : "63ab1614658b03b8805d5e1a83545d7599a8811fc2b13fd9816b8ed90e693461",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 793
+        "impressionCount" : 794
       },
       "subtitle" : "PlayStation 2 emulator",
       "tintColor" : "7E80DF",
@@ -39885,7 +39885,7 @@
       "name" : "Universal Battle",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 648
+        "impressionCount" : 650
       },
       "subtitle" : "Realtime multiplayer tabletop war game",
       "tintColor" : "544F5E",
@@ -39981,7 +39981,7 @@
       "name" : "Nektony VSDX Annotator",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 571
+        "impressionCount" : 572
       },
       "subtitle" : "Preview, edit and convert Visio drawings",
       "tintColor" : "E396A0",
@@ -50163,7 +50163,7 @@
       "sha256" : "dbe227f9d2d819698744cca32b6c52473b88058249480a226501adde8c395b86",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 93
+        "impressionCount" : 94
       },
       "subtitle" : "Steam helper tools",
       "tintColor" : "4BA7D7",
@@ -74131,13 +74131,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "servpane",
-      "caption" : "ServPane 0.1.1 released",
-      "date" : "2022-08-24T01:14:29Z",
-      "identifier" : "release-servpane-0.1.1",
-      "title" : "New Release: ServPane 0.1.1"
-    },
-    {
       "appID" : "soundboosterlite",
       "caption" : "FroYoSoft Sound Booster Lite latest released",
       "date" : "2022-08-24T01:14:29Z",
@@ -74829,6 +74822,13 @@
       "date" : "2022-08-25T06:08:23Z",
       "identifier" : "release-ibm-cloud-cli-2.10.0",
       "title" : "New Release: IBM Cloud CLI 2.10.0"
+    },
+    {
+      "appID" : "wechatwork",
+      "caption" : "WeChat Work updated from 4.0.12.90612 to 4.0.16.90619",
+      "date" : "2022-08-25T09:24:02Z",
+      "identifier" : "release-wechatwork-4.0.16.90619",
+      "title" : "New Release: WeChat Work 4.0.16.90619"
     }
   ],
   "platform" : "macos",

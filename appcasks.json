@@ -25,7 +25,7 @@
       "sha256" : "80f77b635402201cfbd082529cad46c48ca44a94cb0e9a9390eed28f975c6c9a",
       "stats" : {
         "downloadCount" : 2781,
-        "impressionCount" : 9765,
+        "impressionCount" : 9766,
         "viewCount" : 1038
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "e7671127eedc92135b55844dcb9888120e8fb37550f59b3722af2ddca23f4e15",
       "stats" : {
         "downloadCount" : 17138,
-        "impressionCount" : 8585,
+        "impressionCount" : 8586,
         "viewCount" : 936
       },
       "subtitle" : "Web browser",
@@ -806,7 +806,7 @@
       "sha256" : "841c8df079da473a634b44c1841ff63cc90ed7b3d2563df7379bb7b046afc0cf",
       "stats" : {
         "downloadCount" : 8486,
-        "impressionCount" : 3059,
+        "impressionCount" : 3060,
         "viewCount" : 241
       },
       "subtitle" : "Team communication and collaboration software",
@@ -1075,7 +1075,7 @@
       "sha256" : "4a46abb1b39afff5fb46d30fc34c8c208b0be5711cbacffc89035777d4d33f3a",
       "stats" : {
         "downloadCount" : 3336,
-        "impressionCount" : 2151,
+        "impressionCount" : 2152,
         "viewCount" : 129
       },
       "subtitle" : "Desktop client for GitHub repositories",
@@ -1645,7 +1645,7 @@
       "sha256" : "11862b2f9884810cc89d936d2afebc51c8273fe997867d5a795f93ce400cfb88",
       "stats" : {
         "downloadCount" : 1310,
-        "impressionCount" : 2006,
+        "impressionCount" : 2007,
         "viewCount" : 101
       },
       "subtitle" : "Customizable email client",
@@ -1759,7 +1759,7 @@
       "sha256" : "d2c7fd01e086e2a30c617c06c6194ff808c19c78794c8aee5a6e0740167baaa8",
       "stats" : {
         "downloadCount" : 1013,
-        "impressionCount" : 2088,
+        "impressionCount" : 2089,
         "viewCount" : 82
       },
       "subtitle" : "Web browser",
@@ -3426,7 +3426,7 @@
       "sha256" : "2ccac9737ca194a9d4d3585b111ece2cd46416b27ef62d43a9e11300e08bc331",
       "stats" : {
         "downloadCount" : 2368,
-        "impressionCount" : 2647
+        "impressionCount" : 2648
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
@@ -3548,7 +3548,7 @@
       "name" : "TeamViewer",
       "stats" : {
         "downloadCount" : 1906,
-        "impressionCount" : 254
+        "impressionCount" : 255
       },
       "subtitle" : "Remote access and connectivity software focused on security",
       "tintColor" : "B5B0A3",
@@ -3733,7 +3733,7 @@
       "sha256" : "021aa3aac85e3d19e410093419c259761c065858218c076c0348d56c22528427",
       "stats" : {
         "downloadCount" : 1477,
-        "impressionCount" : 571
+        "impressionCount" : 572
       },
       "subtitle" : "Peer to peer Bitorrent client",
       "tintColor" : "73A5E0",
@@ -3815,7 +3815,7 @@
       "sha256" : "7e117084853f12e972aedf24b1554bfe61b89f8b58124fe2ab8710f7db6ec21b",
       "stats" : {
         "downloadCount" : 1346,
-        "impressionCount" : 800
+        "impressionCount" : 801
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
       "tintColor" : "8E76B6",
@@ -4721,7 +4721,7 @@
       "sha256" : "a1c1c5b1bdc42324db5be94a83c570c48a950129ee112ca91676c6e359ac5b22",
       "stats" : {
         "downloadCount" : 639,
-        "impressionCount" : 1694
+        "impressionCount" : 1695
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -4823,7 +4823,7 @@
       "name" : "WeChat for Mac",
       "stats" : {
         "downloadCount" : 621,
-        "impressionCount" : 607
+        "impressionCount" : 609
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
@@ -5089,7 +5089,7 @@
       "sha256" : "e381f3475cfce449397030d5330b33783ed16ed9815fceb5b67c31a009682ed8",
       "stats" : {
         "downloadCount" : 521,
-        "impressionCount" : 1053
+        "impressionCount" : 1054
       },
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
@@ -6679,7 +6679,7 @@
       "sha256" : "7957bf3ba2427adc8d0ec05bd6d5ce59c330fd4b001ade8cd4fc31fda6cc2e83",
       "stats" : {
         "downloadCount" : 219,
-        "impressionCount" : 942
+        "impressionCount" : 943
       },
       "subtitle" : "Downloads videos from different websites",
       "tintColor" : "A676DB",
@@ -6866,7 +6866,7 @@
       "name" : "XnViewMP",
       "stats" : {
         "downloadCount" : 207,
-        "impressionCount" : 917
+        "impressionCount" : 918
       },
       "subtitle" : "Photo viewer, image manager, image resizer and more",
       "tintColor" : "D56402",
@@ -6926,7 +6926,7 @@
       "sha256" : "5d790a90a6a156d846157e4ae210fd4c1013356a2849681b762e7dd8828bfedf",
       "stats" : {
         "downloadCount" : 197,
-        "impressionCount" : 740
+        "impressionCount" : 741
       },
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
@@ -6968,7 +6968,7 @@
       "sha256" : "36f122c49fcb6e5c43d5ebd5a6e7c92635d9e227fb46ddfc05881b46d1711b2d",
       "stats" : {
         "downloadCount" : 193,
-        "impressionCount" : 748
+        "impressionCount" : 749
       },
       "subtitle" : "GUI inspector for mobile apps",
       "tintColor" : "5B463C",
@@ -8035,7 +8035,7 @@
       "sha256" : "20558e0041a315a6d15f4695f781cfc2da50f55e0eb14ac69f5a55b098a41e1c",
       "stats" : {
         "downloadCount" : 133,
-        "impressionCount" : 420
+        "impressionCount" : 421
       },
       "subtitle" : "Official desktop client for Rocket.Chat",
       "tintColor" : "E9495E",
@@ -8056,7 +8056,7 @@
       "sha256" : "fbf6503249747c2f4829399367032c1d02b7e36408206d44e7f854228582c790",
       "stats" : {
         "downloadCount" : 133,
-        "impressionCount" : 484
+        "impressionCount" : 485
       },
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
@@ -8919,7 +8919,7 @@
       "sha256" : "b1749c53c6d18e90a74f48d547b5467aa041bff75aa54bac8486e436d9917348",
       "stats" : {
         "downloadCount" : 102,
-        "impressionCount" : 567
+        "impressionCount" : 568
       },
       "subtitle" : "Converts and edits video, audio or image files",
       "tintColor" : "91949B",
@@ -9504,7 +9504,7 @@
       "sha256" : "892c07efd4efb7e22de13f7fff2a85a055766ce7c9b44d51f745e1a04ee08b22",
       "stats" : {
         "downloadCount" : 88,
-        "impressionCount" : 468
+        "impressionCount" : 469
       },
       "subtitle" : "Notetaking tool",
       "tintColor" : "6391B2",
@@ -9810,7 +9810,7 @@
       "sha256" : "b964f4724ab1d7b7e9941e6cf699fdcba8a95cfa677281ada29482f4763bc3a3",
       "stats" : {
         "downloadCount" : 82,
-        "impressionCount" : 522
+        "impressionCount" : 523
       },
       "subtitle" : "Alternate version of the Opera web browser to complement gaming",
       "tintColor" : "EA214D",
@@ -10369,7 +10369,7 @@
       "sha256" : "36d56978ac4073f1edfae4ec91f2ad6336366b34d6b3d38b913e0b57e429c2dd",
       "stats" : {
         "downloadCount" : 75,
-        "impressionCount" : 807
+        "impressionCount" : 808
       },
       "subtitle" : "Tencent video streaming and sharing platform",
       "tintColor" : "84BF85",
@@ -14977,7 +14977,7 @@
       "sha256" : "ebc0cfe88d7d347f2da46ca80125d66d32f14d01a0d51a34780999ff668369c8",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 300
+        "impressionCount" : 302
       },
       "subtitle" : "Workstation to streamline your accounts, apps, and workflows",
       "tintColor" : "4B4D55",
@@ -15079,7 +15079,7 @@
       "sha256" : "1b0b79a811be9b3545433fcf0803187905883a57ec82605eecae4ac0359ee3e4",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 337
+        "impressionCount" : 338
       },
       "subtitle" : "Share your work and ideas with video messages and screenshots",
       "tintColor" : "C7D1E3",
@@ -15472,6 +15472,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "extraterm",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://github.com/sedwards2009/extraterm/releases/download/v0.66.0/extratermqt-0.66.0-darwin-x64.zip",
+      "homepage" : "https://extraterm.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-extraterm/AppIcon.png",
+      "localizedDescription" : "Swiss army chainsaw of terminal emulators",
+      "name" : "extraterm",
+      "sha256" : "b0ef8d5881a74366719af2b2fdfe178326b039748b3c7bed9d0c1bcf803d6902",
+      "stats" : {
+        "downloadCount" : 31,
+        "impressionCount" : 694
+      },
+      "subtitle" : "Swiss army chainsaw of terminal emulators",
+      "tintColor" : "46B159",
+      "version" : "0.66.0",
+      "versionDate" : "2022-08-25T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "godot-mono",
       "categories" : [
         "public.app-category.developer-tools"
@@ -15793,27 +15814,6 @@
       },
       "tintColor" : "B4A69B",
       "version" : "1.2,650"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "extraterm",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://github.com/sedwards2009/extraterm/releases/download/v0.66.0/extratermqt-0.66.0-darwin-x64.zip",
-      "homepage" : "https://extraterm.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-extraterm/AppIcon.png",
-      "localizedDescription" : "Swiss army chainsaw of terminal emulators",
-      "name" : "extraterm",
-      "sha256" : "b0ef8d5881a74366719af2b2fdfe178326b039748b3c7bed9d0c1bcf803d6902",
-      "stats" : {
-        "downloadCount" : 30,
-        "impressionCount" : 691
-      },
-      "subtitle" : "Swiss army chainsaw of terminal emulators",
-      "tintColor" : "46B159",
-      "version" : "0.66.0",
-      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17006,7 +17006,7 @@
       "sha256" : "97c7d2b4d3da12107739a42e6c0a764089d85ceff3036e70ef22b8a21a7979b2",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 377
+        "impressionCount" : 378
       },
       "subtitle" : "Decentralised instant messenger and softphone",
       "tintColor" : "1A76B1",
@@ -27802,7 +27802,7 @@
       "name" : "almighty",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 595
+        "impressionCount" : 596
       },
       "subtitle" : "Settings and tweaks configurator",
       "tintColor" : "9CC37C",
@@ -27965,7 +27965,7 @@
       "sha256" : "4d0641c2094dc0e9e850ace16de5a133db6295af6aff9d451e358c14b5787f39",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 406
+        "impressionCount" : 407
       },
       "subtitle" : "Collaboration tool with multi-user screen sharing",
       "tintColor" : "CCAE50",
@@ -29601,7 +29601,7 @@
       "sha256" : "e505ba51dfdca3c912cff8575dcc9c77b43f721d53d41b4fa5864e2ac67d04bc",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 818
+        "impressionCount" : 819
       },
       "subtitle" : "Group chat platform",
       "tintColor" : "B69624",
@@ -32497,7 +32497,7 @@
       "sha256" : "be4bfd42ee3cf34fc3975ec2dfb135e39a5432b52e706b6a7aea1e3c6a460efd",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 707
+        "impressionCount" : 708
       },
       "subtitle" : "Music streaming and sharing platform",
       "tintColor" : "852DBB",
@@ -44217,7 +44217,7 @@
       "sha256" : "bc9dfc4445277b3ca587bba613d32bf7f6bb67caa420b398b07dc14a7b05193c",
       "stats" : {
         "downloadCount" : 65,
-        "impressionCount" : 43
+        "impressionCount" : 44
       },
       "subtitle" : "Java profiler",
       "tintColor" : "51AAF6",
@@ -50969,7 +50969,7 @@
       "sha256" : "afdfc3653c46f3746f8d273a947b5d8fbfcd103aa44b33453ae936441e5bc820",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 213
+        "impressionCount" : 215
       },
       "subtitle" : "Game Boy and Game Boy Color emulator written in C",
       "tintColor" : "7D8786",
@@ -53203,7 +53203,7 @@
       "sha256" : "2e0ce0cbdee3ceb68d3e8d7b981a04e607e9700930cb239e8439a49753b3c2ed",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 113
+        "impressionCount" : 114
       },
       "subtitle" : "Helps you learn to play your instrument",
       "tintColor" : "D9AF05",
@@ -55789,7 +55789,7 @@
       "sha256" : "84c2e92655551c2a02ed400815b6a004631ba6f2db9be6a0ab86e9be6b838f9f",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 73
+        "impressionCount" : 74
       },
       "subtitle" : "Asciidoc Editor and Toolchain to build books, documents and slides",
       "tintColor" : "8FBAA9",
@@ -57466,7 +57466,7 @@
       "sha256" : "3b8024735f9d1e5d3950a617fecc5b40f0a81f680ca6050786fe3439591d17cf",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 63
+        "impressionCount" : 64
       },
       "subtitle" : "Lets you interact with your content live as you stream or record",
       "tintColor" : "C39955",

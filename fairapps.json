@@ -62,8 +62,8 @@
       "size" : 9708595,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 94,
-        "impressionCount" : 38,
+        "downloadCount" : 98,
+        "impressionCount" : 42,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 3,
@@ -115,10 +115,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4329,
+        "impressionCount" : 4332,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 709,
+        "viewCount" : 710,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -163,7 +163,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 26,
-        "impressionCount" : 301,
+        "impressionCount" : 305,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 40,
@@ -208,7 +208,7 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2939,
+        "impressionCount" : 2942,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 220,
@@ -284,7 +284,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3270,
+        "impressionCount" : 3272,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 564,
@@ -336,7 +336,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 21,
-        "impressionCount" : 85,
+        "impressionCount" : 87,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -423,7 +423,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 10,
-        "impressionCount" : 54,
+        "impressionCount" : 56,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 11,
@@ -571,7 +571,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 8,
-        "impressionCount" : 57,
+        "impressionCount" : 60,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -652,7 +652,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 7,
-        "impressionCount" : 51,
+        "impressionCount" : 53,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,
@@ -889,7 +889,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 5,
-        "impressionCount" : 2772,
+        "impressionCount" : 2774,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 184,
@@ -972,7 +972,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 4,
-        "impressionCount" : 27,
+        "impressionCount" : 29,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -1282,7 +1282,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 19,
+        "impressionCount" : 20,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -1321,7 +1321,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2723,
+        "impressionCount" : 2724,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 150,
@@ -1391,7 +1391,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 57,
+        "impressionCount" : 61,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -1430,7 +1430,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 53,
+        "impressionCount" : 56,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -1469,7 +1469,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 48,
+        "impressionCount" : 50,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -1539,7 +1539,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 1,
-        "impressionCount" : 38,
+        "impressionCount" : 40,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,

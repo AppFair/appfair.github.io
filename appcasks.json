@@ -25,7 +25,7 @@
       "sha256" : "80f77b635402201cfbd082529cad46c48ca44a94cb0e9a9390eed28f975c6c9a",
       "stats" : {
         "downloadCount" : 2781,
-        "impressionCount" : 9764,
+        "impressionCount" : 9765,
         "viewCount" : 1038
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "e7671127eedc92135b55844dcb9888120e8fb37550f59b3722af2ddca23f4e15",
       "stats" : {
         "downloadCount" : 17138,
-        "impressionCount" : 8584,
+        "impressionCount" : 8585,
         "viewCount" : 936
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 9039,
-        "impressionCount" : 7562,
+        "impressionCount" : 7563,
         "viewCount" : 669
       },
       "subtitle" : "Multimedia player",
@@ -124,8 +124,8 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29993,
-        "impressionCount" : 7893,
-        "viewCount" : 671
+        "impressionCount" : 7894,
+        "viewCount" : 672
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
       "tintColor" : "202B2A",
@@ -149,8 +149,8 @@
       ],
       "stats" : {
         "downloadCount" : 8410,
-        "impressionCount" : 7874,
-        "viewCount" : 647
+        "impressionCount" : 7875,
+        "viewCount" : 648
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6692,
-        "impressionCount" : 7908,
+        "impressionCount" : 7909,
         "viewCount" : 523
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3582,
-        "impressionCount" : 8352,
+        "impressionCount" : 8353,
         "viewCount" : 575
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3387,
-        "impressionCount" : 7134,
+        "impressionCount" : 7135,
         "viewCount" : 537
       },
       "subtitle" : "Text editor",
@@ -264,9 +264,9 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-steam/screenshot_04-mac-2246x1530.png"
       ],
       "stats" : {
-        "downloadCount" : 2752,
-        "impressionCount" : 6149,
-        "viewCount" : 395
+        "downloadCount" : 2753,
+        "impressionCount" : 6151,
+        "viewCount" : 397
       },
       "subtitle" : "Video game digital distribution service",
       "tintColor" : "416082",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2129,
-        "impressionCount" : 7888,
+        "impressionCount" : 7889,
         "viewCount" : 828
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1882,
-        "impressionCount" : 6772,
+        "impressionCount" : 6773,
         "viewCount" : 431
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1240,
-        "impressionCount" : 6233,
+        "impressionCount" : 6234,
         "viewCount" : 486
       },
       "subtitle" : "Open-source Markdown editor",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1188,
-        "impressionCount" : 8241,
+        "impressionCount" : 8242,
         "viewCount" : 475
       },
       "subtitle" : "3D creation suite",
@@ -3132,7 +3132,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6437,
-        "impressionCount" : 1182
+        "impressionCount" : 1183
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -6931,7 +6931,7 @@
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
       "version" : "20.1.0",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6973,7 +6973,7 @@
       "subtitle" : "GUI inspector for mobile apps",
       "tintColor" : "5B463C",
       "version" : "2022.8.1",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27807,7 +27807,7 @@
       "subtitle" : "Settings and tweaks configurator",
       "tintColor" : "9CC37C",
       "version" : "2.3.9,50",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27970,7 +27970,7 @@
       "subtitle" : "Collaboration tool with multi-user screen sharing",
       "tintColor" : "CCAE50",
       "version" : "4.0.69",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32502,7 +32502,7 @@
       "subtitle" : "Music streaming and sharing platform",
       "tintColor" : "852DBB",
       "version" : "1.3.1",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50973,7 +50973,7 @@
       "subtitle" : "Game Boy and Game Boy Color emulator written in C",
       "tintColor" : "7D8786",
       "version" : "0.15.5",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55793,7 +55793,7 @@
       "subtitle" : "Asciidoc Editor and Toolchain to build books, documents and slides",
       "tintColor" : "8FBAA9",
       "version" : "1.7.7",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60138,7 +60138,7 @@
       },
       "subtitle" : "Data management tool that enables working with SQL Server",
       "version" : "1.39.0",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61703,7 +61703,7 @@
       },
       "subtitle" : "Identity and access management",
       "version" : "1.62.3",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73355,7 +73355,7 @@
         "downloadCount" : 1
       },
       "version" : "2.0.2",
-      "versionDate" : "2022-08-25T01:20:00Z"
+      "versionDate" : "2022-08-25T00:00:00Z"
     },
     {
       "beta" : false,

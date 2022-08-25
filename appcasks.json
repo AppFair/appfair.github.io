@@ -25,7 +25,7 @@
       "sha256" : "80f77b635402201cfbd082529cad46c48ca44a94cb0e9a9390eed28f975c6c9a",
       "stats" : {
         "downloadCount" : 2781,
-        "impressionCount" : 9781,
+        "impressionCount" : 9782,
         "viewCount" : 1040
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "e7671127eedc92135b55844dcb9888120e8fb37550f59b3722af2ddca23f4e15",
       "stats" : {
         "downloadCount" : 17138,
-        "impressionCount" : 8601,
+        "impressionCount" : 8602,
         "viewCount" : 938
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 9039,
-        "impressionCount" : 7577,
+        "impressionCount" : 7578,
         "viewCount" : 670
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29993,
-        "impressionCount" : 7906,
+        "impressionCount" : 7908,
         "viewCount" : 672
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8410,
-        "impressionCount" : 7887,
+        "impressionCount" : 7888,
         "viewCount" : 648
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6692,
-        "impressionCount" : 7921,
+        "impressionCount" : 7922,
         "viewCount" : 523
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3582,
-        "impressionCount" : 8366,
+        "impressionCount" : 8367,
         "viewCount" : 576
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3387,
-        "impressionCount" : 7148,
+        "impressionCount" : 7149,
         "viewCount" : 539
       },
       "subtitle" : "Text editor",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2753,
-        "impressionCount" : 6163,
+        "impressionCount" : 6164,
         "viewCount" : 399
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2129,
-        "impressionCount" : 7902,
+        "impressionCount" : 7904,
         "viewCount" : 831
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1882,
-        "impressionCount" : 6787,
+        "impressionCount" : 6788,
         "viewCount" : 432
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1240,
-        "impressionCount" : 6246,
+        "impressionCount" : 6247,
         "viewCount" : 488
       },
       "subtitle" : "Open-source Markdown editor",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1188,
-        "impressionCount" : 8254,
+        "impressionCount" : 8255,
         "viewCount" : 477
       },
       "subtitle" : "3D creation suite",
@@ -870,7 +870,7 @@
       "sha256" : "7b71880b22563d97d276727c3f394d12d9e28873b1c1604bd241f4b3e668cab0",
       "stats" : {
         "downloadCount" : 6581,
-        "impressionCount" : 4652,
+        "impressionCount" : 4653,
         "viewCount" : 457
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1121,7 +1121,7 @@
       "sha256" : "08b59c3b41bdf369a8ce8ed65c8607eeac2e73672298a04ebf53e7a802b56939",
       "stats" : {
         "downloadCount" : 3189,
-        "impressionCount" : 2834,
+        "impressionCount" : 2835,
         "viewCount" : 176
       },
       "subtitle" : "GPU-accelerated terminal emulator",
@@ -1281,7 +1281,7 @@
       "sha256" : "e459b9ce81078b8251549168c0d8473c069a14e817f3a8f386ec84b0f220955a",
       "stats" : {
         "downloadCount" : 2572,
-        "impressionCount" : 2460,
+        "impressionCount" : 2461,
         "viewCount" : 215
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
@@ -1381,7 +1381,7 @@
       "sha256" : "a1a964ab100ff92cbc5ce50c63699199050572474c2b1f34bec84de673d31a7f",
       "stats" : {
         "downloadCount" : 2435,
-        "impressionCount" : 3054,
+        "impressionCount" : 3055,
         "viewCount" : 210
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1556,7 +1556,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1673,
-        "impressionCount" : 3083
+        "impressionCount" : 3084
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -1668,7 +1668,7 @@
       "sha256" : "766d5bf3b404ec567110a25de1d221290bc829302283b28ed0fbe73b9557f30c",
       "stats" : {
         "downloadCount" : 1232,
-        "impressionCount" : 1874,
+        "impressionCount" : 1875,
         "viewCount" : 88
       },
       "subtitle" : "Move and resize windows with ease",
@@ -1712,7 +1712,7 @@
       "sha256" : "d8d37a114c9dab2f16a56e60d8a977115ba34fe408ff7947d0d74028f1f22843",
       "stats" : {
         "downloadCount" : 1120,
-        "impressionCount" : 2264,
+        "impressionCount" : 2265,
         "viewCount" : 135
       },
       "subtitle" : "Tool to hide status bar icons",
@@ -1855,7 +1855,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 921,
-        "impressionCount" : 3322,
+        "impressionCount" : 3323,
         "viewCount" : 288
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -2218,7 +2218,7 @@
       "sha256" : "115c40eb710085969a72a24d5d84ae2c05260192cc68a22e73e99e148c6638da",
       "stats" : {
         "downloadCount" : 367,
-        "impressionCount" : 2311,
+        "impressionCount" : 2312,
         "viewCount" : 135
       },
       "subtitle" : "Animated screen capture application",
@@ -2306,7 +2306,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-daisydisk/README.md",
       "stats" : {
         "downloadCount" : 295,
-        "impressionCount" : 2298,
+        "impressionCount" : 2299,
         "viewCount" : 173
       },
       "subtitle" : "Disk space visualizer",
@@ -2417,7 +2417,7 @@
       "sha256" : "ad35556acca114abacc4e43a1eef8a2b87dd1a00c744dcbeade4a94c88d26488",
       "stats" : {
         "downloadCount" : 177,
-        "impressionCount" : 2019,
+        "impressionCount" : 2020,
         "viewCount" : 149
       },
       "subtitle" : "Automated organization",
@@ -2854,7 +2854,7 @@
       "sha256" : "cb5112ee26aa55394a8e40fa79b459fbef0610dd5a9d58743a4113e0ef012953",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 2026,
+        "impressionCount" : 2027,
         "viewCount" : 146
       },
       "subtitle" : "Newsreader and Usenet client",
@@ -3050,7 +3050,7 @@
       "sha256" : "466b65935f1aae11571d902e7bbdf7ff130c2382a29b33c4789c5ee88c7bf1b2",
       "stats" : {
         "downloadCount" : 13750,
-        "impressionCount" : 1122
+        "impressionCount" : 1123
       },
       "subtitle" : "Collaboration platform for API development",
       "tintColor" : "FE7747",
@@ -3132,7 +3132,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6437,
-        "impressionCount" : 1196
+        "impressionCount" : 1197
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3153,7 +3153,7 @@
       "sha256" : "536e2a4beb637e4cb97a9f258a709e1c63f497a9f4a70ea206f1ef5fc7bb373e",
       "stats" : {
         "downloadCount" : 5396,
-        "impressionCount" : 1516
+        "impressionCount" : 1517
       },
       "subtitle" : "Enable Windows-like alt-tab",
       "tintColor" : "49477D",
@@ -3365,7 +3365,7 @@
       "sha256" : "610c22fda19d558130e742f9c1d5a40587bc182967abdb2e47b4385fdaad1501",
       "stats" : {
         "downloadCount" : 2838,
-        "impressionCount" : 1380
+        "impressionCount" : 1381
       },
       "subtitle" : "Application uninstaller",
       "tintColor" : "B58F5C",
@@ -7723,7 +7723,7 @@
       "sha256" : "94e83f27c3b9c0ffdecc96c7f04d34cc7fb95e4e71c7b5f19c4faae83b2e91eb",
       "stats" : {
         "downloadCount" : 150,
-        "impressionCount" : 518
+        "impressionCount" : 519
       },
       "subtitle" : "Utility to support moving and resizing using a modifier key and mouse drag",
       "tintColor" : "464646",
@@ -11018,7 +11018,7 @@
       "sha256" : "1d58f63ddf6f7622e4a86a9d2951813cfc617df7f2d62fd4d0d6a720576ca637",
       "stats" : {
         "downloadCount" : 65,
-        "impressionCount" : 982
+        "impressionCount" : 986
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -11352,7 +11352,7 @@
       "sha256" : "cd95e5298862f23f9692468695291dd6ac6d919966c098108cc5b24ddc56d5a9",
       "stats" : {
         "downloadCount" : 61,
-        "impressionCount" : 1038
+        "impressionCount" : 1042
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -16670,20 +16670,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://hejki.org/download/ssheditor/SSHConfigEditor-96.dmg",
+      "downloadURL" : "https://hejki.org/download/ssheditor/SSHConfigEditor-97.dmg",
       "homepage" : "https://www.hejki.org/ssheditor/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ssh-config-editor/AppIcon.png",
       "localizedDescription" : "Tool for managing the OpenSSH ssh client configuration file",
       "name" : "SSH Config Editor",
-      "sha256" : "a91a0db47e5a858abe1788baea135d1e306f335bb295468066621cffd996a3bf",
+      "sha256" : "5adbf9a1dc3466195f43e0fc4c955f124b16b149ae349a29e7d9368aa6472505",
       "stats" : {
         "downloadCount" : 27,
         "impressionCount" : 234
       },
       "subtitle" : "Tool for managing the OpenSSH ssh client configuration file",
       "tintColor" : "B2733D",
-      "version" : "2.5.1,96",
-      "versionDate" : "2022-08-11T00:00:00Z"
+      "version" : "2.6-b,97",
+      "versionDate" : "2022-08-25T12:35:42Z"
     },
     {
       "beta" : false,
@@ -19447,20 +19447,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://milanote-app-releases.s3.amazonaws.com/Milanote-3.3.1.dmg",
+      "downloadURL" : "https://milanote-app-releases.s3.amazonaws.com/Milanote-3.3.2.dmg",
       "homepage" : "https://www.milanote.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-milanote/AppIcon.png",
       "localizedDescription" : "Organize your ideas and projects into visual boards",
       "name" : "Milanote",
-      "sha256" : "ee780f18b67e8b20511b0c84f7b26fe32c4d4d96e9b87844a7d743f4cfdb8b78",
+      "sha256" : "2fb477c051a2a484609875092387f0a4d8659e7d9306c389dd122651c97be614",
       "stats" : {
         "downloadCount" : 18,
         "impressionCount" : 359
       },
       "subtitle" : "Organize your ideas and projects into visual boards",
       "tintColor" : "8E8E92",
-      "version" : "3.3.1",
-      "versionDate" : "2022-08-14T00:00:00Z"
+      "version" : "3.3.2",
+      "versionDate" : "2022-08-25T12:35:42Z"
     },
     {
       "beta" : false,
@@ -39289,19 +39289,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://desktopassets.prezi.com/mac/pitch/releases/Prezi_Next_1.55.0.dmg",
+      "downloadURL" : "https://desktopassets.prezi.com/mac/pitch/releases/Prezi_Next_1.56.0.dmg",
       "homepage" : "https://prezi.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-prezi-next/AppIcon.png",
       "localizedDescription" : "Presentation software",
       "name" : "Prezi Next",
-      "sha256" : "6e73aacb71ada91cff6abc506ab21c88ba7e6320ac293c6e0ffbf434fc900108",
+      "sha256" : "813433de9dd8d87a3bf69700dbdd852dc7f4e2f88bed625c31575671966045f6",
       "stats" : {
         "downloadCount" : 0,
         "impressionCount" : 205
       },
       "subtitle" : "Presentation software",
       "tintColor" : "313B4B",
-      "version" : "1.55.0,27191"
+      "version" : "1.56.0,27220",
+      "versionDate" : "2022-08-25T12:35:42Z"
     },
     {
       "beta" : false,
@@ -52296,20 +52297,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/hydrusnetwork/hydrus/releases/download/v496/Hydrus.Network.496.-.macOS.Qt5.-.App.dmg",
+      "downloadURL" : "https://github.com/hydrusnetwork/hydrus/releases/download/v497/Hydrus.Network.497.-.macOS.Qt5.-.App.dmg",
       "homepage" : "https://hydrusnetwork.github.io/hydrus/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hydrus-network/AppIcon.png",
       "localizedDescription" : "Personal booru-style media tagger to organize your media",
       "name" : "hydrus-network",
-      "sha256" : "2b0fb98aed4c255feb33f656af43e104a6fdd0a82e1d9bf15372633e8d658956",
+      "sha256" : "190e0bb8053947abac6731afda3b21be7f3ec6428753979c793e50a99573c24c",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 137
       },
       "subtitle" : "Personal booru-style media tagger to organize your media",
       "tintColor" : "000000",
-      "version" : "496",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "497",
+      "versionDate" : "2022-08-25T12:35:42Z"
     },
     {
       "beta" : false,
@@ -54841,20 +54842,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://hexler.net/pub/touchosc/touchosc-1.1.5.145-macos.dmg",
+      "downloadURL" : "https://hexler.net/pub/touchosc/touchosc-1.1.5.146-macos.dmg",
       "homepage" : "https://hexler.net/touchosc",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-touchosc/AppIcon.png",
       "localizedDescription" : "MIDI and OSC Controller Software",
       "name" : "touchosc",
-      "sha256" : "f037904d173efd72b94fe41fdaf031088ea144765982a282d52f4049541b5cc8",
+      "sha256" : "e76cea5e0a1dfc275ddf6d5f463ae38b9d7ac0c022574a3dd6bfa3733ca93528",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 96
       },
       "subtitle" : "MIDI and OSC Controller Software",
       "tintColor" : "434343",
-      "version" : "1.1.5,145",
-      "versionDate" : "2022-08-21T00:00:00Z"
+      "version" : "1.1.5,146",
+      "versionDate" : "2022-08-25T12:35:42Z"
     },
     {
       "beta" : false,
@@ -61625,17 +61626,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/SAP/SapMachine/releases/download/sapmachine-18.0.2/sapmachine-jdk-18.0.2_macos-x64_bin.dmg",
+      "downloadURL" : "https://github.com/SAP/SapMachine/releases/download/sapmachine-18.0.2.1/sapmachine-jdk-18.0.2.1_macos-x64_bin.dmg",
       "homepage" : "https://sapmachine.io/",
       "localizedDescription" : "OpenJDK distribution from SAP",
       "name" : "SapMachine OpenJDK Development Kit",
-      "sha256" : "80812da1eb3edf40d59c62366d9f85ab1c4b51dd0e075ca0a25bb7226c17f369",
+      "sha256" : "16125f779bbb631d62eaea6e55fda405344b1ff4fc17e2b1edcc946d3f8abd1b",
       "stats" : {
         "downloadCount" : 140
       },
       "subtitle" : "OpenJDK distribution from SAP",
-      "version" : "18.0.2",
-      "versionDate" : "2022-07-20T00:00:00Z"
+      "version" : "18.0.2.1",
+      "versionDate" : "2022-08-25T12:35:42Z"
     },
     {
       "beta" : false,
@@ -72304,17 +72305,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://as.smvm.cn/panther/shimo/release/darwin/x64/%e7%9f%b3%e5%a2%a8%e6%96%87%e6%a1%a3_v2.5.13-release.66be574.shimo_darwin-x64.zip",
+      "downloadURL" : "https://as.smvm.cn/panther/shimo/release/darwin/x64/%e7%9f%b3%e5%a2%a8%e6%96%87%e6%a1%a3_v3.0.0-release.3fb3ddc0.shimo_darwin-x64.zip",
       "homepage" : "https://shimo.im/",
       "localizedDescription" : "Document editor",
       "name" : "Shimonote",
-      "sha256" : "6798b0441ec654b8f46a6818e8d77ed086257239e6bf11e802e8fe865e55a8a5",
+      "sha256" : "54349b88722dce605cc8e6f254dc4b97822d8d21dce05b27458ea427a30ba769",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Document editor",
-      "version" : "2.5.13,66be574",
-      "versionDate" : "2022-07-30T00:00:00Z"
+      "version" : "3.0.0,3fb3ddc0",
+      "versionDate" : "2022-08-25T12:35:42Z"
     },
     {
       "beta" : false,
@@ -74132,55 +74133,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "starleaf",
-      "caption" : "Starleaf 1.0 released",
-      "date" : "2022-08-24T01:14:30Z",
-      "identifier" : "release-starleaf-1.0",
-      "title" : "New Release: Starleaf 1.0"
-    },
-    {
-      "appID" : "firefox",
-      "caption" : "Mozilla Firefox updated from 103.0.2 to 104.0",
-      "date" : "2022-08-24T04:19:12Z",
-      "identifier" : "release-firefox-104.0",
-      "title" : "New Release: Mozilla Firefox 104.0"
-    },
-    {
-      "appID" : "thunderbird",
-      "caption" : "Mozilla Thunderbird updated from 102.1.2 to 102.2.0",
-      "date" : "2022-08-24T04:19:12Z",
-      "identifier" : "release-thunderbird-102.2.0",
-      "title" : "New Release: Mozilla Thunderbird 102.2.0"
-    },
-    {
-      "appID" : "opera",
-      "caption" : "Opera updated from 90.0.4480.48 to 90.0.4480.54",
-      "date" : "2022-08-24T04:19:13Z",
-      "identifier" : "release-opera-90.0.4480.54",
-      "title" : "New Release: Opera 90.0.4480.54"
-    },
-    {
-      "appID" : "teamviewer",
-      "caption" : "TeamViewer updated from 15.32.3 to 15.33.7",
-      "date" : "2022-08-24T04:19:13Z",
-      "identifier" : "release-teamviewer-15.33.7",
-      "title" : "New Release: TeamViewer 15.33.7"
-    },
-    {
-      "appID" : "qbittorrent",
-      "caption" : "qBittorrent updated from 4.4.3.1 to 4.4.4",
-      "date" : "2022-08-24T04:19:13Z",
-      "identifier" : "release-qbittorrent-4.4.4",
-      "title" : "New Release: qBittorrent 4.4.4"
-    },
-    {
-      "appID" : "logseq",
-      "caption" : "Logseq updated from 0.8.1 to 0.8.2",
-      "date" : "2022-08-24T04:19:13Z",
-      "identifier" : "release-logseq-0.8.2",
-      "title" : "New Release: Logseq 0.8.2"
-    },
-    {
       "appID" : "sketch",
       "caption" : "Sketch updated from 91,150837 to 92,151719",
       "date" : "2022-08-24T04:19:13Z",
@@ -74830,6 +74782,55 @@
       "date" : "2022-08-25T10:26:46Z",
       "identifier" : "release-kodelife-1.0.6,164",
       "title" : "New Release: KodeLife 1.0.6,164"
+    },
+    {
+      "appID" : "ssh-config-editor",
+      "caption" : "SSH Config Editor updated from 2.5.1,96 to 2.6-b,97",
+      "date" : "2022-08-25T12:35:43Z",
+      "identifier" : "release-ssh-config-editor-2.6-b,97",
+      "title" : "New Release: SSH Config Editor 2.6-b,97"
+    },
+    {
+      "appID" : "milanote",
+      "caption" : "Milanote updated from 3.3.1 to 3.3.2",
+      "date" : "2022-08-25T12:35:43Z",
+      "identifier" : "release-milanote-3.3.2",
+      "title" : "New Release: Milanote 3.3.2"
+    },
+    {
+      "appID" : "prezi-next",
+      "caption" : "Prezi Next updated from 1.55.0,27191 to 1.56.0,27220",
+      "date" : "2022-08-25T12:35:43Z",
+      "identifier" : "release-prezi-next-1.56.0,27220",
+      "title" : "New Release: Prezi Next 1.56.0,27220"
+    },
+    {
+      "appID" : "hydrus-network",
+      "caption" : "hydrus-network updated from 496 to 497",
+      "date" : "2022-08-25T12:35:44Z",
+      "identifier" : "release-hydrus-network-497",
+      "title" : "New Release: hydrus-network 497"
+    },
+    {
+      "appID" : "touchosc",
+      "caption" : "touchosc updated from 1.1.5,145 to 1.1.5,146",
+      "date" : "2022-08-25T12:35:44Z",
+      "identifier" : "release-touchosc-1.1.5,146",
+      "title" : "New Release: touchosc 1.1.5,146"
+    },
+    {
+      "appID" : "sapmachine-jdk",
+      "caption" : "SapMachine OpenJDK Development Kit updated from 18.0.2 to 18.0.2.1",
+      "date" : "2022-08-25T12:35:44Z",
+      "identifier" : "release-sapmachine-jdk-18.0.2.1",
+      "title" : "New Release: SapMachine OpenJDK Development Kit 18.0.2.1"
+    },
+    {
+      "appID" : "shimonote",
+      "caption" : "Shimonote updated from 2.5.13,66be574 to 3.0.0,3fb3ddc0",
+      "date" : "2022-08-25T12:35:44Z",
+      "identifier" : "release-shimonote-3.0.0,3fb3ddc0",
+      "title" : "New Release: Shimonote 3.0.0,3fb3ddc0"
     }
   ],
   "platform" : "macos",

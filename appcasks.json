@@ -238,8 +238,8 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3387,
-        "impressionCount" : 7135,
-        "viewCount" : 537
+        "impressionCount" : 7136,
+        "viewCount" : 538
       },
       "subtitle" : "Text editor",
       "tintColor" : "9379BF",
@@ -4827,8 +4827,8 @@
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
-      "version" : "3.5.0.17,22920",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "3.5.5.18,23481",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -14969,20 +14969,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://updates.tryshift.com/v8.0.48/stable/shift-v8.0.48.473-stable-x64.dmg",
+      "downloadURL" : "https://updates.tryshift.com/v8.0.49/stable/shift-v8.0.49.479-stable-x64.dmg",
       "homepage" : "https://tryshift.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-shift/AppIcon.png",
       "localizedDescription" : "Workstation to streamline your accounts, apps, and workflows",
       "name" : "Shift",
-      "sha256" : "50cfaa6b97aefab0af61e26c53dbb0925467fffbc0de50434739769096b105a7",
+      "sha256" : "ebc0cfe88d7d347f2da46ca80125d66d32f14d01a0d51a34780999ff668369c8",
       "stats" : {
         "downloadCount" : 35,
         "impressionCount" : 300
       },
       "subtitle" : "Workstation to streamline your accounts, apps, and workflows",
       "tintColor" : "4B4D55",
-      "version" : "8.0.48.473",
-      "versionDate" : "2022-08-18T00:00:00Z"
+      "version" : "8.0.49.479",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -15071,20 +15071,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://edge.dropboxstatic.com/dbx-releng/products/dropbox-capture/82.0.12/mac.x86_64/Dropbox_Capture.dmg",
+      "downloadURL" : "https://edge.dropboxstatic.com/dbx-releng/products/dropbox-capture/83.0.4/mac.x86_64/Dropbox_Capture.dmg",
       "homepage" : "https://dropbox.com/capture/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dropbox-capture/AppIcon.png",
       "localizedDescription" : "Share your work and ideas with video messages and screenshots",
       "name" : "Dropbox Capture",
-      "sha256" : "8f50daf17ea4f9ed6c02f293566b98725dab6100cbb562858959b3c8e2136f57",
+      "sha256" : "1b0b79a811be9b3545433fcf0803187905883a57ec82605eecae4ac0359ee3e4",
       "stats" : {
         "downloadCount" : 34,
         "impressionCount" : 337
       },
       "subtitle" : "Share your work and ideas with video messages and screenshots",
       "tintColor" : "C7D1E3",
-      "version" : "82.0.12",
-      "versionDate" : "2022-08-20T00:00:00Z"
+      "version" : "83.0.4",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -15800,20 +15800,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/sedwards2009/extraterm/releases/download/v0.65.0/extratermqt-0.65.0-darwin-x64.zip",
+      "downloadURL" : "https://github.com/sedwards2009/extraterm/releases/download/v0.66.0/extratermqt-0.66.0-darwin-x64.zip",
       "homepage" : "https://extraterm.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-extraterm/AppIcon.png",
       "localizedDescription" : "Swiss army chainsaw of terminal emulators",
       "name" : "extraterm",
-      "sha256" : "dfe909bed36ec250df65dfcf5e543080edd9c4f26d5f0c274e1d1c52eefa6748",
+      "sha256" : "b0ef8d5881a74366719af2b2fdfe178326b039748b3c7bed9d0c1bcf803d6902",
       "stats" : {
         "downloadCount" : 30,
         "impressionCount" : 691
       },
       "subtitle" : "Swiss army chainsaw of terminal emulators",
       "tintColor" : "46B159",
-      "version" : "0.65.0",
-      "versionDate" : "2022-07-17T00:00:00Z"
+      "version" : "0.66.0",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -16998,20 +16998,20 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://dl.jami.net/mac_osx/jami2022080118.dmg",
+      "downloadURL" : "https://dl.jami.net/mac_osx/jami2022082419.dmg",
       "homepage" : "https://jami.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jami/AppIcon.png",
       "localizedDescription" : "Decentralised instant messenger and softphone",
       "name" : "Jami",
-      "sha256" : "e223454534b22c700101fe01451f134cf7d1d7f663208dd2f06e166e0358408e",
+      "sha256" : "97c7d2b4d3da12107739a42e6c0a764089d85ceff3036e70ef22b8a21a7979b2",
       "stats" : {
         "downloadCount" : 25,
         "impressionCount" : 377
       },
       "subtitle" : "Decentralised instant messenger and softphone",
       "tintColor" : "1A76B1",
-      "version" : "2022080118",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "2022082419",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -29593,20 +29593,20 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "downloadURL" : "https://s3-us-west-2.amazonaws.com/www.guilded.gg/AppBuilds/mac/Guilded-1.0.9146647-release.dmg",
+      "downloadURL" : "https://s3-us-west-2.amazonaws.com/www.guilded.gg/AppBuilds/mac/Guilded-1.0.9153488-release.dmg",
       "homepage" : "https://www.guilded.gg/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-guilded/AppIcon.png",
       "localizedDescription" : "Group chat platform",
       "name" : "Guilded",
-      "sha256" : "ce285b85c88e46e6cd9c462a972d8ad0ab1ad4d7b5b9a4d6a735500cf38198ea",
+      "sha256" : "e505ba51dfdca3c912cff8575dcc9c77b43f721d53d41b4fa5864e2ac67d04bc",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 818
       },
       "subtitle" : "Group chat platform",
       "tintColor" : "B69624",
-      "version" : "1.0.9146647",
-      "versionDate" : "2022-07-21T00:00:00Z"
+      "version" : "1.0.9153488",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -44209,19 +44209,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download-gcdn.ej-technologies.com/jprofiler/jprofiler_macos_13_0_2.dmg",
+      "downloadURL" : "https://download-gcdn.ej-technologies.com/jprofiler/jprofiler_macos_13_0_3.dmg",
       "homepage" : "https://www.ej-technologies.com/products/jprofiler/overview.html",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jprofiler/AppIcon.png",
       "localizedDescription" : "Java profiler",
       "name" : "JProfiler",
-      "sha256" : "0a9b859afb33319035fb5039d6cc1603799a2bc23c450118a3c67703f0904a50",
+      "sha256" : "bc9dfc4445277b3ca587bba613d32bf7f6bb67caa420b398b07dc14a7b05193c",
       "stats" : {
         "downloadCount" : 65,
         "impressionCount" : 43
       },
       "subtitle" : "Java profiler",
       "tintColor" : "51AAF6",
-      "version" : "13.0.2"
+      "version" : "13.0.3",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -53194,20 +53195,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://web-cdn.melodics.com/download/1437AAFB-242A-46BE-9A32-7CF71590074D.zip",
+      "downloadURL" : "https://web-cdn.melodics.com/download/FB9B1B43-AD40-419D-8BA5-61458DC7EA98.zip",
       "homepage" : "https://melodics.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-melodics/AppIcon.png",
       "localizedDescription" : "Helps you learn to play your instrument",
       "name" : "Melodics",
-      "sha256" : "97193633a5c84920212862c56b3f3d92f0511b922391fe0056b3c96214f04519",
+      "sha256" : "2e0ce0cbdee3ceb68d3e8d7b981a04e607e9700930cb239e8439a49753b3c2ed",
       "stats" : {
         "downloadCount" : 7,
         "impressionCount" : 113
       },
       "subtitle" : "Helps you learn to play your instrument",
       "tintColor" : "D9AF05",
-      "version" : "2.1.8341,1437AAFB-242A-46BE-9A32-7CF71590074D",
-      "versionDate" : "2022-08-04T00:00:00Z"
+      "version" : "3.0.8504,FB9B1B43-AD40-419D-8BA5-61458DC7EA98",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -57457,20 +57458,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://desktopassets.prezi.com/mac/prezi-video/releases/Prezi_Video_2.11.0.zip",
+      "downloadURL" : "https://desktopassets.prezi.com/mac/prezi-video/releases/Prezi_Video_2.12.0.zip",
       "homepage" : "https://prezi.com/video/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-prezi-video/AppIcon.png",
       "localizedDescription" : "Lets you interact with your content live as you stream or record",
       "name" : "Prezi Video",
-      "sha256" : "f950646f6d3d47abfaa1f25ae8a19f2452fc68891cb14e3f6e6fa7aec037f92e",
+      "sha256" : "3b8024735f9d1e5d3950a617fecc5b40f0a81f680ca6050786fe3439591d17cf",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 63
       },
       "subtitle" : "Lets you interact with your content live as you stream or record",
       "tintColor" : "C39955",
-      "version" : "2.11.0",
-      "versionDate" : "2022-07-29T00:00:00Z"
+      "version" : "2.12.0",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -59194,7 +59195,7 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/conda-forge/miniforge/releases/download/4.13.0-1/Miniforge3-4.13.0-1-MacOSX-x86_64.sh",
+      "downloadURL" : "https://github.com/conda-forge/miniforge/releases/download/4.14.0-0/Miniforge3-4.14.0-0-MacOSX-x86_64.sh",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -59208,13 +59209,13 @@
       "homepage" : "https://github.com/conda-forge/miniforge",
       "localizedDescription" : "Minimal installer for conda specific to conda-forge",
       "name" : "miniforge",
-      "sha256" : "9996677f0ca0bfa6399e9a5688556bfaff544389ea123e2ac6e6252d3a1d0658",
+      "sha256" : "80ee5ce53a1f4edb21677dd6794a043ad7d1db6e3d5ffe7a994937923a50a2c9",
       "stats" : {
         "downloadCount" : 4261
       },
       "subtitle" : "Minimal installer for conda specific to conda-forge",
-      "version" : "4.13.0-1",
-      "versionDate" : "2022-07-31T00:00:00Z"
+      "version" : "4.14.0-0",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -61528,7 +61529,7 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/conda-forge/miniforge/releases/download/4.13.0-1/Mambaforge-4.13.0-1-MacOSX-x86_64.sh",
+      "downloadURL" : "https://github.com/conda-forge/miniforge/releases/download/4.14.0-0/Mambaforge-4.14.0-0-MacOSX-x86_64.sh",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -61542,13 +61543,13 @@
       "homepage" : "https://github.com/conda-forge/miniforge",
       "localizedDescription" : "Minimal installer for conda with preinstalled support for Mamba",
       "name" : "mambaforge",
-      "sha256" : "bc42d606b67ace370847deb849e7d1ea2879b0be78bb1be51b020c3cb4e5bef2",
+      "sha256" : "949f046b4404cc8e081807b048050e6642d8db5520c20d5158a7ef721fbf76c5",
       "stats" : {
         "downloadCount" : 143
       },
       "subtitle" : "Minimal installer for conda with preinstalled support for Mamba",
-      "version" : "4.13.0-1",
-      "versionDate" : "2022-07-31T00:00:00Z"
+      "version" : "4.14.0-0",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -62491,17 +62492,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.9.0/IBM_Cloud_CLI_2.9.0.pkg",
+      "downloadURL" : "https://download.clis.cloud.ibm.com/ibm-cloud-cli/2.10.0/IBM_Cloud_CLI_2.10.0.pkg",
       "homepage" : "https://cloud.ibm.com/docs/cli/index.html",
       "localizedDescription" : "Command-line API client",
       "name" : "IBM Cloud CLI",
-      "sha256" : "ed61c1c90d8b4f14703486f0378dc47806e7ed69b6b7b085a9d65e249b1d926d",
+      "sha256" : "47c892a8f3c8d1ac3ddaf9c9a477a29defcc559643faec749d4e162943ea1ffd",
       "stats" : {
         "downloadCount" : 72
       },
       "subtitle" : "Command-line API client",
-      "version" : "2.9.0",
-      "versionDate" : "2022-07-06T00:00:00Z"
+      "version" : "2.10.0",
+      "versionDate" : "2022-08-25T06:08:19Z"
     },
     {
       "beta" : false,
@@ -74130,90 +74131,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "volley",
-      "caption" : "Volley updated from 1.0.72 to 1.0.75",
-      "date" : "2022-08-23T06:00:40Z",
-      "identifier" : "release-volley-1.0.75",
-      "title" : "New Release: Volley 1.0.75"
-    },
-    {
-      "appID" : "clock-signal",
-      "caption" : "Clock Signal updated from 2022-07-23 to 2022-08-22",
-      "date" : "2022-08-23T09:28:06Z",
-      "identifier" : "release-clock-signal-2022-08-22",
-      "title" : "New Release: Clock Signal 2022-08-22"
-    },
-    {
-      "appID" : "dropzone",
-      "caption" : "Dropzone updated from 4.4.5,1821 to 4.4.6,1828",
-      "date" : "2022-08-23T10:25:56Z",
-      "identifier" : "release-dropzone-4.4.6,1828",
-      "title" : "New Release: Dropzone 4.4.6,1828"
-    },
-    {
-      "appID" : "td-agent",
-      "caption" : "td-agent updated from 4.4.0 to 4.4.1",
-      "date" : "2022-08-23T10:25:57Z",
-      "identifier" : "release-td-agent-4.4.1",
-      "title" : "New Release: td-agent 4.4.1"
-    },
-    {
-      "appID" : "weakauras-companion",
-      "caption" : "WeakAuras Companion updated from 4.0.4 to 4.0.5",
-      "date" : "2022-08-23T10:25:57Z",
-      "identifier" : "release-weakauras-companion-4.0.5",
-      "title" : "New Release: WeakAuras Companion 4.0.5"
-    },
-    {
-      "appID" : "kindavim",
-      "caption" : "kindaVim updated from 33.0.0 to 34.0.0",
-      "date" : "2022-08-23T14:30:24Z",
-      "identifier" : "release-kindavim-34.0.0",
-      "title" : "New Release: kindaVim 34.0.0"
-    },
-    {
-      "appID" : "sublime-merge",
-      "caption" : "Sublime Merge updated from 2074 to 2077",
-      "date" : "2022-08-23T14:30:25Z",
-      "identifier" : "release-sublime-merge-2077",
-      "title" : "New Release: Sublime Merge 2077"
-    },
-    {
-      "appID" : "pdf-reader-pro",
-      "caption" : "PDF Reader Pro updated from 2.8.15.1 to 2.8.17.1",
-      "date" : "2022-08-23T16:29:16Z",
-      "identifier" : "release-pdf-reader-pro-2.8.17.1",
-      "title" : "New Release: PDF Reader Pro 2.8.17.1"
-    },
-    {
-      "appID" : "thonny",
-      "caption" : "Thonny updated from 3.3.13 to 4.0.0",
-      "date" : "2022-08-23T16:29:17Z",
-      "identifier" : "release-thonny-4.0.0",
-      "title" : "New Release: Thonny 4.0.0"
-    },
-    {
-      "appID" : "deathtodsstore",
-      "caption" : "DeathToDSStore 1.0.5 released",
-      "date" : "2022-08-24T01:14:27Z",
-      "identifier" : "release-deathtodsstore-1.0.5",
-      "title" : "New Release: DeathToDSStore 1.0.5"
-    },
-    {
-      "appID" : "duplicacy-web-edition",
-      "caption" : "Duplicacy Web Edition 1.6.3 released",
-      "date" : "2022-08-24T01:14:28Z",
-      "identifier" : "release-duplicacy-web-edition-1.6.3",
-      "title" : "New Release: Duplicacy Web Edition 1.6.3"
-    },
-    {
-      "appID" : "mellow",
-      "caption" : "Mellow 0.1.22 released",
-      "date" : "2022-08-24T01:14:28Z",
-      "identifier" : "release-mellow-0.1.22",
-      "title" : "New Release: Mellow 0.1.22"
-    },
-    {
       "appID" : "servpane",
       "caption" : "ServPane 0.1.1 released",
       "date" : "2022-08-24T01:14:29Z",
@@ -74828,6 +74745,90 @@
       "date" : "2022-08-25T01:20:03Z",
       "identifier" : "release-kaku-2.0.2",
       "title" : "New Release: Kaku 2.0.2"
+    },
+    {
+      "appID" : "wechat",
+      "caption" : "WeChat for Mac updated from 3.5.0.17,22920 to 3.5.5.18,23481",
+      "date" : "2022-08-25T06:08:19Z",
+      "identifier" : "release-wechat-3.5.5.18,23481",
+      "title" : "New Release: WeChat for Mac 3.5.5.18,23481"
+    },
+    {
+      "appID" : "shift",
+      "caption" : "Shift updated from 8.0.48.473 to 8.0.49.479",
+      "date" : "2022-08-25T06:08:20Z",
+      "identifier" : "release-shift-8.0.49.479",
+      "title" : "New Release: Shift 8.0.49.479"
+    },
+    {
+      "appID" : "dropbox-capture",
+      "caption" : "Dropbox Capture updated from 82.0.12 to 83.0.4",
+      "date" : "2022-08-25T06:08:20Z",
+      "identifier" : "release-dropbox-capture-83.0.4",
+      "title" : "New Release: Dropbox Capture 83.0.4"
+    },
+    {
+      "appID" : "extraterm",
+      "caption" : "extraterm updated from 0.65.0 to 0.66.0",
+      "date" : "2022-08-25T06:08:20Z",
+      "identifier" : "release-extraterm-0.66.0",
+      "title" : "New Release: extraterm 0.66.0"
+    },
+    {
+      "appID" : "jami",
+      "caption" : "Jami updated from 2022080118 to 2022082419",
+      "date" : "2022-08-25T06:08:21Z",
+      "identifier" : "release-jami-2022082419",
+      "title" : "New Release: Jami 2022082419"
+    },
+    {
+      "appID" : "guilded",
+      "caption" : "Guilded updated from 1.0.9146647 to 1.0.9153488",
+      "date" : "2022-08-25T06:08:21Z",
+      "identifier" : "release-guilded-1.0.9153488",
+      "title" : "New Release: Guilded 1.0.9153488"
+    },
+    {
+      "appID" : "jprofiler",
+      "caption" : "JProfiler updated from 13.0.2 to 13.0.3",
+      "date" : "2022-08-25T06:08:21Z",
+      "identifier" : "release-jprofiler-13.0.3",
+      "title" : "New Release: JProfiler 13.0.3"
+    },
+    {
+      "appID" : "melodics",
+      "caption" : "Melodics updated from 2.1.8341,1437AAFB-242A-46BE-9A32-7CF71590074D to 3.0.8504,FB9B1B43-AD40-419D-8BA5-61458DC7EA98",
+      "date" : "2022-08-25T06:08:22Z",
+      "identifier" : "release-melodics-3.0.8504,FB9B1B43-AD40-419D-8BA5-61458DC7EA98",
+      "title" : "New Release: Melodics 3.0.8504,FB9B1B43-AD40-419D-8BA5-61458DC7EA98"
+    },
+    {
+      "appID" : "prezi-video",
+      "caption" : "Prezi Video updated from 2.11.0 to 2.12.0",
+      "date" : "2022-08-25T06:08:22Z",
+      "identifier" : "release-prezi-video-2.12.0",
+      "title" : "New Release: Prezi Video 2.12.0"
+    },
+    {
+      "appID" : "miniforge",
+      "caption" : "miniforge updated from 4.13.0-1 to 4.14.0-0",
+      "date" : "2022-08-25T06:08:22Z",
+      "identifier" : "release-miniforge-4.14.0-0",
+      "title" : "New Release: miniforge 4.14.0-0"
+    },
+    {
+      "appID" : "mambaforge",
+      "caption" : "mambaforge updated from 4.13.0-1 to 4.14.0-0",
+      "date" : "2022-08-25T06:08:22Z",
+      "identifier" : "release-mambaforge-4.14.0-0",
+      "title" : "New Release: mambaforge 4.14.0-0"
+    },
+    {
+      "appID" : "ibm-cloud-cli",
+      "caption" : "IBM Cloud CLI updated from 2.9.0 to 2.10.0",
+      "date" : "2022-08-25T06:08:23Z",
+      "identifier" : "release-ibm-cloud-cli-2.10.0",
+      "title" : "New Release: IBM Cloud CLI 2.10.0"
     }
   ],
   "platform" : "macos",

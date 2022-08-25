@@ -31,10 +31,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 37,
-        "impressionCount" : 2934,
+        "impressionCount" : 2939,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 219,
+        "viewCount" : 220,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -75,7 +75,7 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 22,
-        "impressionCount" : 2769,
+        "impressionCount" : 2772,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 184,
@@ -123,7 +123,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 20,
-        "impressionCount" : 82,
+        "impressionCount" : 85,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -167,10 +167,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 298,
+        "impressionCount" : 301,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 39,
+        "viewCount" : 40,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -341,10 +341,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2720,
+        "impressionCount" : 2723,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 149,
+        "viewCount" : 150,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -385,7 +385,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 7,
-        "impressionCount" : 50,
+        "impressionCount" : 54,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 11,
@@ -426,7 +426,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 7,
-        "impressionCount" : 47,
+        "impressionCount" : 51,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,
@@ -618,10 +618,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 5,
-        "impressionCount" : 21,
+        "impressionCount" : 27,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -991,10 +991,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 31,
+        "impressionCount" : 38,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1026,7 +1026,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 53,
+        "impressionCount" : 57,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -1061,10 +1061,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 51,
+        "impressionCount" : 57,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 5,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1096,10 +1096,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 49,
+        "impressionCount" : 53,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 6,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1131,10 +1131,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 44,
+        "impressionCount" : 48,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",

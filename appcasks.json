@@ -3043,20 +3043,20 @@
         "public.app-category.developer-tools",
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://dl.pstmn.io/download/version/9.27.0/osx64",
+      "downloadURL" : "https://dl.pstmn.io/download/version/9.29.0/osx64",
       "homepage" : "https://www.postman.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-postman/AppIcon.png",
       "localizedDescription" : "Collaboration platform for API development",
       "name" : "Postman",
-      "sha256" : "466b65935f1aae11571d902e7bbdf7ff130c2382a29b33c4789c5ee88c7bf1b2",
+      "sha256" : "136688a6d04b7d0c80688b01596291314b13424e112c05a25f39f7bfec0e6688",
       "stats" : {
         "downloadCount" : 13677,
         "impressionCount" : 1138
       },
       "subtitle" : "Collaboration platform for API development",
       "tintColor" : "FE7747",
-      "version" : "9.27.0",
-      "versionDate" : "2022-08-11T00:00:00Z"
+      "version" : "9.29.0",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -6080,19 +6080,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/responsively-org/responsively-app/releases/download/v0.19.0/ResponsivelyApp-0.19.0.dmg",
+      "downloadURL" : "https://github.com/responsively-org/responsively-app/releases/download/v0.19.1/ResponsivelyApp-0.19.1.dmg",
       "homepage" : "https://responsively.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-responsively/AppIcon.png",
       "localizedDescription" : "Modified browser that helps in responsive web development",
       "name" : "Responsively",
-      "sha256" : "94206b9fe2c6ec72b0ae4ac139f1309bd4e1bdfceea02819706e041532a8c2e7",
+      "sha256" : "d3ebafd5bce9a0d6ff680e196ba1fb0325f40ebffb998c284ba647d64748ea67",
       "stats" : {
         "downloadCount" : 297,
         "impressionCount" : 409
       },
       "subtitle" : "Modified browser that helps in responsive web development",
       "tintColor" : "C1C2C2",
-      "version" : "0.19.0"
+      "version" : "0.19.1",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -11224,20 +11225,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://arctype-downloads.s3-us-west-2.amazonaws.com/updates/Arctype-0.9.79.dmg",
+      "downloadURL" : "https://arctype-downloads.s3-us-west-2.amazonaws.com/updates/Arctype-0.9.80.dmg",
       "homepage" : "https://arctype.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-arctype/AppIcon.png",
       "localizedDescription" : "SQL client and database management tool",
       "name" : "Arctype",
-      "sha256" : "1797c6fe929b4076980ef2b34dc7ada8af169705042d2956a24b022e3fd2633d",
+      "sha256" : "884f0486ce2a64dbacd87ffa52ac1d0cb8ae6623cb8bde4ed578415698f99e64",
       "stats" : {
         "downloadCount" : 62,
         "impressionCount" : 982
       },
       "subtitle" : "SQL client and database management tool",
       "tintColor" : "3F3247",
-      "version" : "0.9.79",
-      "versionDate" : "2022-08-13T00:00:00Z"
+      "version" : "0.9.80",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -12945,8 +12946,8 @@
       },
       "subtitle" : "Store credentials in a single place and log in on any device, even when offline",
       "tintColor" : "BFDDDE",
-      "version" : "4.29.3",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "4.29.7",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -13417,20 +13418,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://releases.sigmaos.com/SigmaOS-0.25.2.2.dmg",
+      "downloadURL" : "https://releases.sigmaos.com/SigmaOS-0.25.2.3.dmg",
       "homepage" : "https://sigmaos.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sigmaos/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "sigmaos",
-      "sha256" : "aa61d463badebdbd87acc71f73c22bf55798aa8c07f4c243bf4c7c3a6983707d",
+      "sha256" : "f37c7a07db2f544a7ed8cc04c2bd3c5d538c2f8369d255b84d8a0db0041eeb45",
       "stats" : {
         "downloadCount" : 43,
         "impressionCount" : 508
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
-      "version" : "0.25.2.2",
-      "versionDate" : "2022-08-26T00:00:00Z"
+      "version" : "0.25.2.3",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -17320,20 +17321,20 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://updates.mmhmm.app/mac/production/mmhmm_2.3.2.zip",
+      "downloadURL" : "https://updates.mmhmm.app/mac/production/mmhmm_2.3.3.zip",
       "homepage" : "https://www.mmhmm.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mmhmm/AppIcon.png",
       "localizedDescription" : "Virtual video presentation software",
       "name" : "mmhmm",
-      "sha256" : "6406870a1cc08046c0e69220b37f390f535c32b7041d3544ac37a6127a5fd734",
+      "sha256" : "81b4cf7d1de85172ea0bfd9be41ed4990ca98c5de713c5e73b99bb4bd7fabf77",
       "stats" : {
         "downloadCount" : 24,
         "impressionCount" : 453
       },
       "subtitle" : "Virtual video presentation software",
       "tintColor" : "635ADC",
-      "version" : "2.3.2,1657772000",
-      "versionDate" : "2022-07-15T00:00:00Z"
+      "version" : "2.3.3,1661402000",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -46857,19 +46858,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://doxygen.nl/files/Doxygen-1.9.4.dmg",
+      "downloadURL" : "https://doxygen.nl/files/Doxygen-1.9.5.dmg",
       "homepage" : "https://www.doxygen.nl/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-doxygen/AppIcon.png",
       "localizedDescription" : "Generate documentation from source code",
       "name" : "Doxygen",
-      "sha256" : "8fca47c9b44de386878d4e65674f70731ceb1ddfb8504546b9a8874ec13effc4",
+      "sha256" : "9c35b154b831d9e63874d0fe0d557522a7d85556dc1d4e10da1cde729f3e51c5",
       "stats" : {
         "downloadCount" : 26,
         "impressionCount" : 43
       },
       "subtitle" : "Generate documentation from source code",
       "tintColor" : "88867E",
-      "version" : "1.9.4"
+      "version" : "1.9.5",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -57048,20 +57050,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.mediaatelier.com/GrandTotal7/GrandTotal_7.3.5.zip",
+      "downloadURL" : "https://www.mediaatelier.com/GrandTotal7/GrandTotal_7.3.6.dmg",
       "homepage" : "https://www.mediaatelier.com/GrandTotal7/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-grandtotal/AppIcon.png",
       "localizedDescription" : "Create invoices and estimates",
       "name" : "GrandTotal",
-      "sha256" : "228e99119ea7fc734797665ecdbd37b24a76769529ab3dc0e5abe8c9550b009c",
+      "sha256" : "43649397cbee1dd117b67d75ce15e72b79142fcea3bad69365f665fa6d9ef34a",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 88
       },
       "subtitle" : "Create invoices and estimates",
       "tintColor" : "C8BEC8",
-      "version" : "7.3.5",
-      "versionDate" : "2022-07-30T00:00:00Z"
+      "version" : "7.3.6",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -60708,17 +60710,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/quarto-dev/quarto-cli/releases/download/v1.0.38/quarto-1.0.38-macos.pkg",
+      "downloadURL" : "https://github.com/quarto-dev/quarto-cli/releases/download/v1.1.132/quarto-1.1.132-macos.pkg",
       "homepage" : "https://www.quarto.org/",
       "localizedDescription" : "Scientific and technical publishing system built on Pandoc",
       "name" : "quarto",
-      "sha256" : "e7b8f13a999c58371eae27d586d707de66b797e24f0d44cbefb84aa2111a1759",
+      "sha256" : "08dd43a1e768fae4ab23cea207dad15050302de20924d6ce609054dcdf48992d",
       "stats" : {
         "downloadCount" : 307
       },
       "subtitle" : "Scientific and technical publishing system built on Pandoc",
-      "version" : "1.0.38",
-      "versionDate" : "2022-08-06T00:00:00Z"
+      "version" : "1.1.132",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -65686,17 +65688,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.speedify.com/Speedify-12.4.0.9186.dmg",
+      "downloadURL" : "https://downloads.speedify.com/Speedify-12.4.1.9212.dmg",
       "homepage" : "https://speedify.com/",
       "localizedDescription" : "VPN client",
       "name" : "Speedify",
-      "sha256" : "3bb311e457d493e8df1b3903a9a38b7dfd53d54ede63eecdb8d0589867499db3",
+      "sha256" : "3cf81a09b57aa2d37e24056ec7c06666bc41a777eb0fdd6ddb8fc855843b19dc",
       "stats" : {
         "downloadCount" : 16
       },
       "subtitle" : "VPN client",
-      "version" : "12.4.0,9186",
-      "versionDate" : "2022-08-17T00:00:00Z"
+      "version" : "12.4.1,9212",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -68693,17 +68695,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.hiarcs.com/hce/HIARCS-Chess-Explorer-Installer-v1.12.1.pkg",
+      "downloadURL" : "https://www.hiarcs.com/hce/HIARCS-Chess-Explorer-Installer-v1.12.2.pkg",
       "homepage" : "https://www.hiarcs.com/mac-chess-explorer.htm",
       "localizedDescription" : "Chess database, analysis and game playing program",
       "name" : "(Deep) HIARCS Chess Explorer",
-      "sha256" : "d5b7e06bbc7ef59e99a09858ab241553ebed829406f4fdc7b139f6e064e9edc9",
+      "sha256" : "a77ed22e80ef8b85c65e7f74e72876b12b42525b1ae45bcdce656e3f40b1418f",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "Chess database, analysis and game playing program",
-      "version" : "1.12.1",
-      "versionDate" : "2022-07-13T00:00:00Z"
+      "version" : "1.12.2",
+      "versionDate" : "2022-08-26T18:46:58Z"
     },
     {
       "beta" : false,
@@ -74126,76 +74128,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "wiznote",
-      "caption" : "WizNote updated from 0.1.83 to 0.1.84",
-      "date" : "2022-08-24T23:21:07Z",
-      "identifier" : "release-wiznote-0.1.84",
-      "title" : "New Release: WizNote 0.1.84"
-    },
-    {
-      "appID" : "stork",
-      "caption" : "Stork updated from 1.0.17,1764 to 1.0.18,1767",
-      "date" : "2022-08-24T23:21:07Z",
-      "identifier" : "release-stork-1.0.18,1767",
-      "title" : "New Release: Stork 1.0.18,1767"
-    },
-    {
-      "appID" : "synalyze-it-pro",
-      "caption" : "Synalyze It! Pro updated from 1.24 to 1.26",
-      "date" : "2022-08-24T23:21:08Z",
-      "identifier" : "release-synalyze-it-pro-1.26",
-      "title" : "New Release: Synalyze It! Pro 1.26"
-    },
-    {
-      "appID" : "pichon",
-      "caption" : "Pichon updated from 1.0.12,17 to 1.0.13,18",
-      "date" : "2022-08-24T23:21:08Z",
-      "identifier" : "release-pichon-1.0.13,18",
-      "title" : "New Release: Pichon 1.0.13,18"
-    },
-    {
-      "appID" : "purei-play",
-      "caption" : "Play! updated from 2022-08-07,b6c05d03 to 2022-08-24,05a411c9",
-      "date" : "2022-08-24T23:21:09Z",
-      "identifier" : "release-purei-play-2022-08-24,05a411c9",
-      "title" : "New Release: Play! 2022-08-24,05a411c9"
-    },
-    {
-      "appID" : "understand",
-      "caption" : "SciTools Understand updated from 6.2.1114 to 6.2.1115",
-      "date" : "2022-08-24T23:21:10Z",
-      "identifier" : "release-understand-6.2.1115",
-      "title" : "New Release: SciTools Understand 6.2.1115"
-    },
-    {
-      "appID" : "protopie",
-      "caption" : "ProtoPie updated from 7.1.0 to 7.2.0",
-      "date" : "2022-08-24T23:21:11Z",
-      "identifier" : "release-protopie-7.2.0",
-      "title" : "New Release: ProtoPie 7.2.0"
-    },
-    {
-      "appID" : "electron",
-      "caption" : "Electron updated from 20.0.3 to 20.1.0",
-      "date" : "2022-08-25T01:20:01Z",
-      "identifier" : "release-electron-20.1.0",
-      "title" : "New Release: Electron 20.1.0"
-    },
-    {
-      "appID" : "appium-inspector",
-      "caption" : "Appium Inspector GUI updated from 2022.7.1 to 2022.8.1",
-      "date" : "2022-08-25T01:20:02Z",
-      "identifier" : "release-appium-inspector-2022.8.1",
-      "title" : "New Release: Appium Inspector GUI 2022.8.1"
-    },
-    {
-      "appID" : "coscreen",
-      "caption" : "CoScreen updated from 4.0.67 to 4.0.69",
-      "date" : "2022-08-25T01:20:02Z",
-      "identifier" : "release-coscreen-4.0.69",
-      "title" : "New Release: CoScreen 4.0.69"
-    },
-    {
       "appID" : "almighty",
       "caption" : "almighty updated from 2.3.8,49 to 2.3.9,50",
       "date" : "2022-08-25T01:20:02Z",
@@ -74532,13 +74464,6 @@
       "title" : "New Release: SideQuest 0.10.32"
     },
     {
-      "appID" : "sigmaos",
-      "caption" : "sigmaos updated from 0.25.2.1 to 0.25.2.2",
-      "date" : "2022-08-26T06:10:08Z",
-      "identifier" : "release-sigmaos-0.25.2.2",
-      "title" : "New Release: sigmaos 0.25.2.2"
-    },
-    {
       "appID" : "pycharm-edu",
       "caption" : "Jetbrains PyCharm Educational Edition updated from 2022.1.3,221.6008.17 to 2022.2,222.3345.148",
       "date" : "2022-08-26T06:10:08Z",
@@ -74824,6 +74749,83 @@
       "date" : "2022-08-26T18:09:49Z",
       "identifier" : "release-zoho-workdrive-2.6.51",
       "title" : "New Release: Zoho WorkDrive 2.6.51"
+    },
+    {
+      "appID" : "postman",
+      "caption" : "Postman updated from 9.27.0 to 9.29.0",
+      "date" : "2022-08-26T18:46:59Z",
+      "identifier" : "release-postman-9.29.0",
+      "title" : "New Release: Postman 9.29.0"
+    },
+    {
+      "appID" : "responsively",
+      "caption" : "Responsively updated from 0.19.0 to 0.19.1",
+      "date" : "2022-08-26T18:47:00Z",
+      "identifier" : "release-responsively-0.19.1",
+      "title" : "New Release: Responsively 0.19.1"
+    },
+    {
+      "appID" : "arctype",
+      "caption" : "Arctype updated from 0.9.79 to 0.9.80",
+      "date" : "2022-08-26T18:47:00Z",
+      "identifier" : "release-arctype-0.9.80",
+      "title" : "New Release: Arctype 0.9.80"
+    },
+    {
+      "appID" : "nordpass",
+      "caption" : "NordPass updated from 4.29.3 to 4.29.7",
+      "date" : "2022-08-26T18:47:00Z",
+      "identifier" : "release-nordpass-4.29.7",
+      "title" : "New Release: NordPass 4.29.7"
+    },
+    {
+      "appID" : "sigmaos",
+      "caption" : "sigmaos updated from 0.25.2.2 to 0.25.2.3",
+      "date" : "2022-08-26T18:47:01Z",
+      "identifier" : "release-sigmaos-0.25.2.3",
+      "title" : "New Release: sigmaos 0.25.2.3"
+    },
+    {
+      "appID" : "mmhmm",
+      "caption" : "mmhmm updated from 2.3.2,1657772000 to 2.3.3,1661402000",
+      "date" : "2022-08-26T18:47:02Z",
+      "identifier" : "release-mmhmm-2.3.3,1661402000",
+      "title" : "New Release: mmhmm 2.3.3,1661402000"
+    },
+    {
+      "appID" : "doxygen",
+      "caption" : "Doxygen updated from 1.9.4 to 1.9.5",
+      "date" : "2022-08-26T18:47:02Z",
+      "identifier" : "release-doxygen-1.9.5",
+      "title" : "New Release: Doxygen 1.9.5"
+    },
+    {
+      "appID" : "grandtotal",
+      "caption" : "GrandTotal updated from 7.3.5 to 7.3.6",
+      "date" : "2022-08-26T18:47:02Z",
+      "identifier" : "release-grandtotal-7.3.6",
+      "title" : "New Release: GrandTotal 7.3.6"
+    },
+    {
+      "appID" : "quarto",
+      "caption" : "quarto updated from 1.0.38 to 1.1.132",
+      "date" : "2022-08-26T18:47:03Z",
+      "identifier" : "release-quarto-1.1.132",
+      "title" : "New Release: quarto 1.1.132"
+    },
+    {
+      "appID" : "speedify",
+      "caption" : "Speedify updated from 12.4.0,9186 to 12.4.1,9212",
+      "date" : "2022-08-26T18:47:04Z",
+      "identifier" : "release-speedify-12.4.1,9212",
+      "title" : "New Release: Speedify 12.4.1,9212"
+    },
+    {
+      "appID" : "hiarcs-chess-explorer",
+      "caption" : "(Deep) HIARCS Chess Explorer updated from 1.12.1 to 1.12.2",
+      "date" : "2022-08-26T18:47:04Z",
+      "identifier" : "release-hiarcs-chess-explorer-1.12.2",
+      "title" : "New Release: (Deep) HIARCS Chess Explorer 1.12.2"
     }
   ],
   "platform" : "macos",

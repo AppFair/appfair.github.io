@@ -154,8 +154,8 @@
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
-      "version" : "1.1.91.824,07f1e963,9",
-      "versionDate" : "2022-08-04T00:00:00Z"
+      "version" : "1.1.92.647,a4397eb7,7",
+      "versionDate" : "2022-08-26T06:43:55Z"
     },
     {
       "beta" : false,
@@ -487,7 +487,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://s3.amazonaws.com/BBSW-download/BBEdit_14.5.1.dmg",
+      "downloadURL" : "https://s3.amazonaws.com/BBSW-download/BBEdit_14.5.2.dmg",
       "homepage" : "https://www.barebones.com/products/bbedit/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/AppIcon.png",
       "localizedDescription" : "Text, code, and markup editor",
@@ -502,7 +502,7 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/screenshot_08-mac-1588x1438.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/screenshot_06-mac-1588x1438.png"
       ],
-      "sha256" : "92888342ceb8e655f53c902aeae940e15dc76aad51858365fd42123271ba3ead",
+      "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 373,
         "impressionCount" : 6558,
@@ -510,8 +510,8 @@
       },
       "subtitle" : "Text, code, and markup editor",
       "tintColor" : "A8A7CF",
-      "version" : "14.5.1",
-      "versionDate" : "2022-07-14T00:00:00Z"
+      "version" : "14.5.2",
+      "versionDate" : "2022-08-26T06:43:55Z"
     },
     {
       "beta" : false,
@@ -1472,8 +1472,8 @@
       "sha256" : "117c099ce22c430dad0c8ca4daa56020e7b0cf0679d984c64d8d74790a8f2f8d",
       "stats" : {
         "downloadCount" : 2265,
-        "impressionCount" : 3653,
-        "viewCount" : 386
+        "impressionCount" : 3657,
+        "viewCount" : 387
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
@@ -5136,7 +5136,7 @@
       "subtitle" : "Instant messaging tool",
       "tintColor" : "80584A",
       "version" : "6.8.2.21241_966",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5819,7 +5819,7 @@
       "subtitle" : "Calling and messaging application focusing on security",
       "tintColor" : "8E7FF3",
       "version" : "18.3.0,1831",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5991,7 +5991,7 @@
       "subtitle" : "Manage team projects and tasks",
       "tintColor" : "FBDADA",
       "version" : "1.10.0",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9693,7 +9693,7 @@
       "subtitle" : "Download and manage your addons and mods",
       "tintColor" : "333333",
       "version" : "0.206.2-1",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9873,7 +9873,7 @@
       "subtitle" : "Desktop wallet for cryptocurrency assets",
       "tintColor" : "162763",
       "version" : "22.8.26",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12303,7 +12303,7 @@
       "subtitle" : "Virtual reality content platform",
       "tintColor" : "2E2E33",
       "version" : "0.10.32",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13429,7 +13429,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "333744",
       "version" : "0.25.2.2",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14266,7 +14266,7 @@
       "subtitle" : "Professional IDE for scientific and web Python development",
       "tintColor" : "3F8349",
       "version" : "2022.2,222.3345.148",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -26744,19 +26744,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://cc.hjfile.cn/cc/7.9.5.6/8/1/103/7.9.5.6.dmg",
+      "downloadURL" : "https://cc.hjfile.cn/cc/7.9.7.6/8/1/103/7.9.7.6.dmg",
       "homepage" : "https://www.cctalk.com/download/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cctalk/AppIcon.png",
       "localizedDescription" : "Real-time interactive education platform",
       "name" : "CCtalk",
-      "sha256" : "6f9ec965957a8db69632df89fdfdc8bdb90e3971ae3bea67ab69f2fdc30729aa",
+      "sha256" : "2d5ed97ac2433dcb4bc93729091859ec99cf32994770880445adff99378692ba",
       "stats" : {
         "downloadCount" : 7,
         "impressionCount" : 333
       },
       "subtitle" : "Real-time interactive education platform",
       "tintColor" : "D4DCFE",
-      "version" : "7.9.5.6"
+      "version" : "7.9.7.6",
+      "versionDate" : "2022-08-26T06:43:55Z"
     },
     {
       "beta" : false,
@@ -27020,20 +27021,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://github.com/headsetapp/headset-electron/releases/download/v4.1.2/Headset-4.1.2-x64.dmg",
+      "downloadURL" : "https://github.com/headsetapp/headset-electron/releases/download/v4.2.0/Headset-4.2.0-x64.dmg",
       "homepage" : "https://headsetapp.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-headset/AppIcon.png",
       "localizedDescription" : "Music player powered by YouTube and Reddit",
       "name" : "Headset",
-      "sha256" : "5252c69b2c3bc02692b013a41d6f4c5638fe01e7dcfcacc6b55908441b1176e7",
+      "sha256" : "532dcb484b119b74bdc30c72856d072df03c9b64546d3912a7dd3d371733dff6",
       "stats" : {
         "downloadCount" : 7,
         "impressionCount" : 478
       },
       "subtitle" : "Music player powered by YouTube and Reddit",
       "tintColor" : "47CAE6",
-      "version" : "4.1.2",
-      "versionDate" : "2022-08-23T00:00:00Z"
+      "version" : "4.2.0",
+      "versionDate" : "2022-08-26T06:43:55Z"
     },
     {
       "beta" : false,
@@ -37390,7 +37391,7 @@
       "subtitle" : "Team inbox and chat tool",
       "tintColor" : "D3E5F4",
       "version" : "10.29.0",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42910,7 +42911,7 @@
       "subtitle" : "Database management and analysis tool",
       "tintColor" : "8FBAA9",
       "version" : "13.0.5",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44208,7 +44209,7 @@
       "subtitle" : "Plain-text file notepad and todo-list manager",
       "tintColor" : "283B6F",
       "version" : "22.8.4",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52504,7 +52505,7 @@
       "subtitle" : "3D printing setup, management, and monitoring",
       "tintColor" : "83858A",
       "version" : "3.27.0,162_23329",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61282,7 +61283,7 @@
       },
       "subtitle" : "Enables developers to manage Confluent Cloud or Confluent Platform",
       "version" : "2.24.2",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69427,7 +69428,7 @@
       },
       "subtitle" : "Install PlasticSCM locally and join a Cloud Edition subscription",
       "version" : "11.0.16.7348",
-      "versionDate" : "2022-08-26T06:10:06Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74123,34 +74124,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "beeper",
-      "caption" : "Beeper updated from 3.22.25 to 3.23.11",
-      "date" : "2022-08-24T05:48:12Z",
-      "identifier" : "release-beeper-3.23.11",
-      "title" : "New Release: Beeper 3.23.11"
-    },
-    {
-      "appID" : "freedom",
-      "caption" : "Freedom updated from 2.11,2027 to 2.11.1,2036.1",
-      "date" : "2022-08-24T06:26:55Z",
-      "identifier" : "release-freedom-2.11.1,2036.1",
-      "title" : "New Release: Freedom 2.11.1,2036.1"
-    },
-    {
-      "appID" : "ff-works",
-      "caption" : "ff·Works updated from 3.1.5 to 3.2",
-      "date" : "2022-08-24T06:26:55Z",
-      "identifier" : "release-ff-works-3.2",
-      "title" : "New Release: ff·Works 3.2"
-    },
-    {
-      "appID" : "c0re100-qbittorrent",
-      "caption" : "qBittorrent Enhanced Edition updated from 4.4.3.12 to 4.4.4.10",
-      "date" : "2022-08-24T06:26:56Z",
-      "identifier" : "release-c0re100-qbittorrent-4.4.4.10",
-      "title" : "New Release: qBittorrent Enhanced Edition 4.4.4.10"
-    },
-    {
       "appID" : "dungeon-crawl-stone-soup-tiles",
       "caption" : "Dungeon Crawl Stone Soup updated from 0.28.0 to 0.29.0",
       "date" : "2022-08-24T06:26:56Z",
@@ -74821,6 +74794,34 @@
       "date" : "2022-08-26T06:10:10Z",
       "identifier" : "release-plasticscm-cloud-edition-11.0.16.7348",
       "title" : "New Release: PlasicSCM - a Cloud Edition 11.0.16.7348"
+    },
+    {
+      "appID" : "spotify",
+      "caption" : "Spotify updated from 1.1.91.824,07f1e963,9 to 1.1.92.647,a4397eb7,7",
+      "date" : "2022-08-26T06:43:56Z",
+      "identifier" : "release-spotify-1.1.92.647,a4397eb7,7",
+      "title" : "New Release: Spotify 1.1.92.647,a4397eb7,7"
+    },
+    {
+      "appID" : "bbedit",
+      "caption" : "BBEdit updated from 14.5.1 to 14.5.2",
+      "date" : "2022-08-26T06:43:56Z",
+      "identifier" : "release-bbedit-14.5.2",
+      "title" : "New Release: BBEdit 14.5.2"
+    },
+    {
+      "appID" : "cctalk",
+      "caption" : "CCtalk updated from 7.9.5.6 to 7.9.7.6",
+      "date" : "2022-08-26T06:43:57Z",
+      "identifier" : "release-cctalk-7.9.7.6",
+      "title" : "New Release: CCtalk 7.9.7.6"
+    },
+    {
+      "appID" : "headset",
+      "caption" : "Headset updated from 4.1.2 to 4.2.0",
+      "date" : "2022-08-26T06:43:57Z",
+      "identifier" : "release-headset-4.2.0",
+      "title" : "New Release: Headset 4.2.0"
     }
   ],
   "platform" : "macos",

@@ -63,7 +63,7 @@
       "stats" : {
         "coreSize" : 170672,
         "downloadCount" : 133,
-        "impressionCount" : 62,
+        "impressionCount" : 64,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 4,
@@ -115,10 +115,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4348,
+        "impressionCount" : 4350,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 711,
+        "viewCount" : 712,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -163,10 +163,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 26,
-        "impressionCount" : 319,
+        "impressionCount" : 320,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 40,
+        "viewCount" : 41,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -208,10 +208,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2955,
+        "impressionCount" : 2957,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 220,
+        "viewCount" : 221,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -284,10 +284,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3284,
+        "impressionCount" : 3285,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 564,
+        "viewCount" : 565,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -384,10 +384,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 13,
-        "impressionCount" : 66,
+        "impressionCount" : 67,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -423,10 +423,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 11,
-        "impressionCount" : 76,
+        "impressionCount" : 78,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 5,
+        "viewCount" : 6,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -504,10 +504,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 10,
-        "impressionCount" : 64,
+        "impressionCount" : 66,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 5,
+        "viewCount" : 6,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -820,6 +820,48 @@
       "versionDescription" : "Release 0.3.38"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "type" : "com.apple.security.files.user-selected.read-write",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_01-mac-1574x1294.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_02-mac-1228x916.png"
+      ],
+      "sha256" : "10f12c2de1d0a634050caec65eaf07aaf44642aa0310c88695022971b87451e7",
+      "size" : 3926096,
+      "stats" : {
+        "coreSize" : 102576,
+        "downloadCount" : 6,
+        "impressionCount" : 2786,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 185,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.90",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
@@ -857,48 +899,6 @@
       "version" : "0.0.24",
       "versionDate" : "2022-02-12T00:00:00Z",
       "versionDescription" : "Release 0.0.24"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Lottie-Motion.png",
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "type" : "com.apple.security.files.user-selected.read-write",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.90/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_01-mac-1574x1294.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.90/screenshot_02-mac-1228x916.png"
-      ],
-      "sha256" : "10f12c2de1d0a634050caec65eaf07aaf44642aa0310c88695022971b87451e7",
-      "size" : 3926096,
-      "stats" : {
-        "coreSize" : 102576,
-        "downloadCount" : 5,
-        "impressionCount" : 2784,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 184,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.90",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
     },
     {
       "beta" : true,
@@ -972,10 +972,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 4,
-        "impressionCount" : 41,
+        "impressionCount" : 43,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1264,10 +1264,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 3,
-        "impressionCount" : 75,
+        "impressionCount" : 78,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 8,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1303,10 +1303,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 61,
+        "impressionCount" : 62,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 7,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1395,7 +1395,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2737,
+        "impressionCount" : 2738,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 150,
@@ -1465,10 +1465,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 58,
+        "impressionCount" : 61,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1504,10 +1504,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 70,
+        "impressionCount" : 73,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 7,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

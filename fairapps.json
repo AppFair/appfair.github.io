@@ -62,8 +62,8 @@
       "size" : 9708595,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 148,
-        "impressionCount" : 64,
+        "downloadCount" : 156,
+        "impressionCount" : 69,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 4,
@@ -115,10 +115,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4350,
+        "impressionCount" : 4353,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 712,
+        "viewCount" : 714,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -163,10 +163,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 26,
-        "impressionCount" : 321,
+        "impressionCount" : 325,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 41,
+        "viewCount" : 43,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -208,10 +208,10 @@
       "stats" : {
         "coreSize" : 102376,
         "downloadCount" : 24,
-        "impressionCount" : 2957,
+        "impressionCount" : 2962,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 221,
+        "viewCount" : 223,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -284,10 +284,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3285,
+        "impressionCount" : 3288,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 565,
+        "viewCount" : 567,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -383,11 +383,11 @@
       "size" : 2275297,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 14,
-        "impressionCount" : 67,
+        "downloadCount" : 17,
+        "impressionCount" : 70,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 12,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -395,44 +395,6 @@
       "version" : "0.2.44",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.43...0.2.44"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
-      "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Crazy Glue",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Crazy-Glue/App/releases/download/0.0.7/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "e1deb5fa716d43bf3f8db9f06f84b45ce809012261a6355aae6944f3fa7b1fdc",
-      "size" : 2273312,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 12,
-        "impressionCount" : 78,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 6,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.7",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
     },
     {
       "beta" : false,
@@ -464,11 +426,11 @@
       "size" : 2281338,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 11,
-        "impressionCount" : 66,
+        "downloadCount" : 17,
+        "impressionCount" : 70,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 6,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -476,6 +438,44 @@
       "version" : "0.9.263",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.262...0.9.263"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Crazy-Glue",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
+      "localizedDescription" : "Putting the pieces back together",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Crazy Glue",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.7/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "e1deb5fa716d43bf3f8db9f06f84b45ce809012261a6355aae6944f3fa7b1fdc",
+      "size" : 2273312,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 15,
+        "impressionCount" : 83,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 8,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Putting the pieces back together",
+      "version" : "0.0.7",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
     },
     {
       "beta" : true,
@@ -850,16 +850,65 @@
       "stats" : {
         "coreSize" : 102576,
         "downloadCount" : 6,
-        "impressionCount" : 2786,
+        "impressionCount" : 2790,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 185,
+        "viewCount" : 186,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
       "version" : "0.0.90",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Stanza-Redux",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/Stanza-Redux-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/Stanza-Redux.png",
+      "localizedDescription" : "An electronic book reader",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
+      "name" : "Stanza Redux",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read ebook files"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to access books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "screenshotURLs" : [
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.50/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.50/screenshot_01-mac-light-2436x2012.png"
+      ],
+      "sha256" : "3a1a058314fa1c38e1e3d2a2ef60a768c2e519fd54335a3fec8a42150b993201",
+      "size" : 4008682,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 5,
+        "impressionCount" : 49,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 9,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An electronic book reader",
+      "tintColor" : "00375C",
+      "version" : "0.3.50",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.49...0.3.50"
     },
     {
       "beta" : true,
@@ -934,55 +983,6 @@
       "version" : "0.0.1",
       "versionDate" : "2022-07-04T00:00:00Z",
       "versionDescription" : ""
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Stanza-Redux",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/Stanza-Redux-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/Stanza-Redux.png",
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
-      "name" : "Stanza Redux",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read ebook files"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
-      "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.50/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.50/screenshot_01-mac-light-2436x2012.png"
-      ],
-      "sha256" : "3a1a058314fa1c38e1e3d2a2ef60a768c2e519fd54335a3fec8a42150b993201",
-      "size" : 4008682,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 4,
-        "impressionCount" : 43,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 5,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An electronic book reader",
-      "tintColor" : "00375C",
-      "version" : "0.3.50",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.49...0.3.50"
     },
     {
       "beta" : true,
@@ -1264,10 +1264,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 3,
-        "impressionCount" : 78,
+        "impressionCount" : 83,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1303,10 +1303,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 62,
+        "impressionCount" : 67,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 8,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1395,10 +1395,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2738,
+        "impressionCount" : 2741,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 150,
+        "viewCount" : 152,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1465,10 +1465,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 61,
+        "impressionCount" : 65,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 5,
+        "viewCount" : 6,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1504,10 +1504,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 73,
+        "impressionCount" : 78,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 8,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

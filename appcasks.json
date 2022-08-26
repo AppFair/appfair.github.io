@@ -790,7 +790,7 @@
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
       "tintColor" : "287398",
       "version" : "0.58,64",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3330,7 +3330,7 @@
       "subtitle" : "Administration and development platform for PostgreSQL",
       "tintColor" : "A4BBCD",
       "version" : "6.13",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5123,20 +5123,20 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://dldir1.qq.com/qqfile/QQforMac/QQ_6.8.1.21222_963_EXP.dmg",
+      "downloadURL" : "https://dldir1.qq.com/qqfile/QQforMac/QQ_6.8.2.21241_966_EXP.dmg",
       "homepage" : "https://im.qq.com/macqq/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-qq/AppIcon.png",
       "localizedDescription" : "Instant messaging tool",
       "name" : "QQ",
-      "sha256" : "cda06abb596b747a890f88dfae7489ccfa940d26f8a16a7a9993c54dd219d948",
+      "sha256" : "e6bc2827b3f73b10b548cb956ca280ebd0d22e08aafa95db6297324a26740f81",
       "stats" : {
         "downloadCount" : 484,
         "impressionCount" : 716
       },
       "subtitle" : "Instant messaging tool",
       "tintColor" : "80584A",
-      "version" : "6.8.1.21222_963",
-      "versionDate" : "2022-07-30T00:00:00Z"
+      "version" : "6.8.2.21241_966",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -5818,8 +5818,8 @@
       },
       "subtitle" : "Calling and messaging application focusing on security",
       "tintColor" : "8E7FF3",
-      "version" : "18.2.0,1821",
-      "versionDate" : "2022-08-11T00:00:00Z"
+      "version" : "18.3.0,1831",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -5990,8 +5990,8 @@
       },
       "subtitle" : "Manage team projects and tasks",
       "tintColor" : "FBDADA",
-      "version" : "1.9.0",
-      "versionDate" : "2022-08-06T00:00:00Z"
+      "version" : "1.10.0",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -9680,20 +9680,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://curseforge.overwolf.com/electron/mac/CurseForge-0.205.2-1.dmg",
+      "downloadURL" : "https://curseforge.overwolf.com/electron/mac/CurseForge-0.206.2-1.dmg",
       "homepage" : "https://curseforge.overwolf.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-curseforge/AppIcon.png",
       "localizedDescription" : "Download and manage your addons and mods",
       "name" : "CurseForge",
-      "sha256" : "d1a717cc2519134c4dd22d826a8add96b152ebf564c443ce8efd2150aa5e7867",
+      "sha256" : "aecb8ca61cf9b5fcba7b5e6f06dfa9911e86cc60691bd19e503405b473be9e38",
       "stats" : {
         "downloadCount" : 84,
         "impressionCount" : 511
       },
       "subtitle" : "Download and manage your addons and mods",
       "tintColor" : "333333",
-      "version" : "0.205.2-1",
-      "versionDate" : "2022-08-09T00:00:00Z"
+      "version" : "0.206.2-1",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -9860,20 +9860,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://downloads.exodus.com/releases/exodus-macos-22.8.12.dmg",
+      "downloadURL" : "https://downloads.exodus.com/releases/exodus-macos-22.8.26.dmg",
       "homepage" : "https://www.exodus.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-exodus/AppIcon.png",
       "localizedDescription" : "Desktop wallet for cryptocurrency assets",
       "name" : "Exodus",
-      "sha256" : "ae1cf37f921e290d777fbce7a8d19539ac2810e05bda695e3f8c3e45c4938ed6",
+      "sha256" : "e6c1036631025ff625b2cd24e8e31bcb4a97717756df0aaa6acdcf345bc2c784",
       "stats" : {
         "downloadCount" : 82,
         "impressionCount" : 541
       },
       "subtitle" : "Desktop wallet for cryptocurrency assets",
       "tintColor" : "162763",
-      "version" : "22.8.12",
-      "versionDate" : "2022-08-14T00:00:00Z"
+      "version" : "22.8.26",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -12290,20 +12290,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.31/SideQuest-0.10.31.dmg",
+      "downloadURL" : "https://github.com/SideQuestVR/SideQuest/releases/download/v0.10.32/SideQuest-0.10.32.dmg",
       "homepage" : "https://sidequestvr.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidequest/AppIcon.png",
       "localizedDescription" : "Virtual reality content platform",
       "name" : "SideQuest",
-      "sha256" : "6639bf7b29b7cdf274c667d4ff490d600b3732d8323cd052703080a4b4ada80f",
+      "sha256" : "fd8b8e6ca7a07af501c1660edff52d3e1d888527c57425e42ba9f38ea1c7f75f",
       "stats" : {
         "downloadCount" : 52,
         "impressionCount" : 280
       },
       "subtitle" : "Virtual reality content platform",
       "tintColor" : "2E2E33",
-      "version" : "0.10.31",
-      "versionDate" : "2022-08-15T00:00:00Z"
+      "version" : "0.10.32",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -13416,20 +13416,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://releases.sigmaos.com/SigmaOS-0.25.2.1.dmg",
+      "downloadURL" : "https://releases.sigmaos.com/SigmaOS-0.25.2.2.dmg",
       "homepage" : "https://sigmaos.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sigmaos/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "sigmaos",
-      "sha256" : "782cf32e6b8f2db3e58be18311e1b7969d9fd450a9d16fa6679e4bed3a454aea",
+      "sha256" : "aa61d463badebdbd87acc71f73c22bf55798aa8c07f4c243bf4c7c3a6983707d",
       "stats" : {
         "downloadCount" : 43,
         "impressionCount" : 496
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
-      "version" : "0.25.2.1",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "0.25.2.2",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -13592,7 +13592,7 @@
       "subtitle" : "Screen recorder and video editor",
       "tintColor" : "87BE66",
       "version" : "2022.2.0",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14253,20 +14253,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.jetbrains.com/python/pycharm-edu-2022.1.3.dmg",
+      "downloadURL" : "https://download.jetbrains.com/python/pycharm-edu-2022.2.dmg",
       "homepage" : "https://www.jetbrains.com/pycharm-edu/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pycharm-edu/AppIcon.png",
       "localizedDescription" : "Professional IDE for scientific and web Python development",
       "name" : "Jetbrains PyCharm Educational Edition",
-      "sha256" : "9ab4087c65c315cc095a882221b3748bc66b3b9f6699563cde02a49f857ee4d0",
+      "sha256" : "9b25ad45d6de7b46680231a4be98725f9ebf1999c59b36cc8fb1e1efc9ce4db5",
       "stats" : {
         "downloadCount" : 38,
         "impressionCount" : 301
       },
       "subtitle" : "Professional IDE for scientific and web Python development",
       "tintColor" : "3F8349",
-      "version" : "2022.1.3,221.6008.17",
-      "versionDate" : "2022-07-28T00:00:00Z"
+      "version" : "2022.2,222.3345.148",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -19771,12 +19771,12 @@
       "sha256" : "77719a53fe8b5ab19d632ce512836a4caad0e01f9f08ca56fed03ae094264755",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 450
+        "impressionCount" : 453
       },
       "subtitle" : "Wallet for the Monero cryptocurrency",
       "tintColor" : "444B4F",
       "version" : "1.3.2",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37377,20 +37377,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://d1weoh55n7oehu.cloudfront.net/10.28.0/Missive-10.28.0.dmg",
+      "downloadURL" : "https://d1weoh55n7oehu.cloudfront.net/10.29.0/Missive-10.29.0.dmg",
       "homepage" : "https://missiveapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-missive/AppIcon.png",
       "localizedDescription" : "Team inbox and chat tool",
       "name" : "Missive",
-      "sha256" : "07ce0e6ec3e3e3785b8d126b91b7da3003845f4f637f7bd0dc9273ab92c9b86b",
+      "sha256" : "2698aab37a263191aa6fc1f85f7a1d1b58e9fdf79360425c7c1c903464117cf2",
       "stats" : {
         "downloadCount" : 1,
         "impressionCount" : 682
       },
       "subtitle" : "Team inbox and chat tool",
       "tintColor" : "D3E5F4",
-      "version" : "10.28.0",
-      "versionDate" : "2022-08-20T00:00:00Z"
+      "version" : "10.29.0",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -40858,7 +40858,7 @@
       "subtitle" : "Managed desktop virtualization solution",
       "tintColor" : "B1C2D3",
       "version" : "22.08.1.43,2208.1",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41118,7 +41118,7 @@
       "subtitle" : "Download manager",
       "tintColor" : "636A25",
       "version" : "46594",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42299,7 +42299,7 @@
       "subtitle" : "Video and audio player",
       "tintColor" : "DEB7A0",
       "version" : "8.7,3175",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42897,19 +42897,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.dbvis.com/product_download/dbvis-13.0.4/media/dbvis_macos_13_0_4_jre.dmg",
+      "downloadURL" : "https://www.dbvis.com/product_download/dbvis-13.0.5/media/dbvis_macos_13_0_5_jre.dmg",
       "homepage" : "https://www.dbvis.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dbvisualizer/AppIcon.png",
       "localizedDescription" : "Database management and analysis tool",
       "name" : "DbVisualizer",
-      "sha256" : "498f24d5add6fec44197461c66ec16ccabeb9da40a931dd2426533a30c1a418e",
+      "sha256" : "6b27c46b4d99b74f19add91b2b16d9289d0df4b1d99e2afd920d7ebeca79a440",
       "stats" : {
         "downloadCount" : 104,
         "impressionCount" : 51
       },
       "subtitle" : "Database management and analysis tool",
       "tintColor" : "8FBAA9",
-      "version" : "13.0.4"
+      "version" : "13.0.5",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -44194,20 +44195,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.8.3/QOwnNotes.dmg",
+      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.8.4/QOwnNotes.dmg",
       "homepage" : "https://www.qownnotes.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-qownnotes/AppIcon.png",
       "localizedDescription" : "Plain-text file notepad and todo-list manager",
       "name" : "QOwnNotes",
-      "sha256" : "ab32eebe8b8154d7c2d3f1e705905d7656c5699eae1f33178866519131706385",
+      "sha256" : "0ebac01d6153b1c9c9c449cc487cb05458eab549968b322a9785a391c8499e34",
       "stats" : {
         "downloadCount" : 66,
         "impressionCount" : 221
       },
       "subtitle" : "Plain-text file notepad and todo-list manager",
       "tintColor" : "283B6F",
-      "version" : "22.8.3",
-      "versionDate" : "2022-08-21T00:00:00Z"
+      "version" : "22.8.4",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -45179,7 +45180,7 @@
       "subtitle" : "Tool to write Fedora images to portable media files",
       "tintColor" : "6FADD8",
       "version" : "5.0.3",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52490,20 +52491,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.formlabs.com/PreForm/Release/3.26.2/PreForm_mac_3.26.2_release_releaser_155_22353.dmg",
+      "downloadURL" : "https://downloads.formlabs.com/PreForm/Release/3.27.0/PreForm_mac_3.27.0_release_releaser_162_23329.dmg",
       "homepage" : "https://formlabs.com/tools/preform/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-preform/AppIcon.png",
       "localizedDescription" : "3D printing setup, management, and monitoring",
       "name" : "PreForm",
-      "sha256" : "547cd2fd327d32d29ae90f85fa289a8a153c3ea32ad04d1f8cd877086bd11993",
+      "sha256" : "24b48ba2862d7c2c8c25f7a0307d190b5dd0fbc58dafc4477c4cf791520e9093",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 136
       },
       "subtitle" : "3D printing setup, management, and monitoring",
       "tintColor" : "83858A",
-      "version" : "3.26.2,155_22353",
-      "versionDate" : "2022-08-15T00:00:00Z"
+      "version" : "3.27.0,162_23329",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -59410,7 +59411,7 @@
       },
       "subtitle" : "Client for the Google Drive storage service",
       "version" : "62.0.2",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60095,7 +60096,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.14,20220825103303",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61271,17 +61272,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://s3-us-west-2.amazonaws.com/confluent.cloud/confluent-cli/archives/2.24.1/confluent_v2.24.1_darwin_amd64.tar.gz",
+      "downloadURL" : "https://s3-us-west-2.amazonaws.com/confluent.cloud/confluent-cli/archives/2.24.2/confluent_v2.24.2_darwin_amd64.tar.gz",
       "homepage" : "https://docs.confluent.io/confluent-cli/current/overview.html",
       "localizedDescription" : "Enables developers to manage Confluent Cloud or Confluent Platform",
       "name" : "Confluent CLI",
-      "sha256" : "d4e47541b0c0c53d491d3c0a276e10448c5d279fc808b5aca714156399bcbbb0",
+      "sha256" : "7363d32d84df54153d56d93d4003cc2ef47e11161cce8a6ab503f451c82fc2cf",
       "stats" : {
         "downloadCount" : 177
       },
       "subtitle" : "Enables developers to manage Confluent Cloud or Confluent Platform",
-      "version" : "2.24.1",
-      "versionDate" : "2022-08-23T00:00:00Z"
+      "version" : "2.24.2",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -62476,7 +62477,7 @@
       },
       "subtitle" : "Game client",
       "version" : "2.0.53.99",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65033,7 +65034,7 @@
       },
       "subtitle" : "Free-to-play online poker",
       "version" : "53.189",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67454,7 +67455,7 @@
       },
       "subtitle" : "Store and sync files securely",
       "version" : "3.4.0,161",
-      "versionDate" : "2022-08-26T04:25:09Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69416,17 +69417,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://s3.eu-west-2.amazonaws.com/plastic-releases/releases/11.0.16.7303/plasticscm/osx/plasticscm-cloud-11.0.16.7303.pkg.zip",
+      "downloadURL" : "https://s3.eu-west-2.amazonaws.com/plastic-releases/releases/11.0.16.7348/plasticscm/osx/plasticscm-cloud-11.0.16.7348.pkg.zip",
       "homepage" : "https://www.plasticscm.com/",
       "localizedDescription" : "Install PlasticSCM locally and join a Cloud Edition subscription",
       "name" : "PlasicSCM - a Cloud Edition",
-      "sha256" : "59f55f96ac1a5a056c7d1d9a052154ff7e5d6d2e2e7a7968f1f9960c2a444fc7",
+      "sha256" : "0da758aaba05ca917e750ba5ce2afd3f8575e3026819630a7e14077f1fc48d3e",
       "stats" : {
         "downloadCount" : 5
       },
       "subtitle" : "Install PlasticSCM locally and join a Cloud Edition subscription",
-      "version" : "11.0.16.7303",
-      "versionDate" : "2022-08-15T00:00:00Z"
+      "version" : "11.0.16.7348",
+      "versionDate" : "2022-08-26T06:10:06Z"
     },
     {
       "beta" : false,
@@ -74122,104 +74123,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "pushplaylabs-sidekick",
-      "caption" : "Sidekick updated from 102.26.1.22846,08130dc to 102.26.1.22867,82aaf09",
-      "date" : "2022-08-24T04:19:17Z",
-      "identifier" : "release-pushplaylabs-sidekick-102.26.1.22867,82aaf09",
-      "title" : "New Release: Sidekick 102.26.1.22867,82aaf09"
-    },
-    {
-      "appID" : "chirp",
-      "caption" : "CHIRP updated from 20220822 to 20220823",
-      "date" : "2022-08-24T04:19:17Z",
-      "identifier" : "release-chirp-20220823",
-      "title" : "New Release: CHIRP 20220823"
-    },
-    {
-      "appID" : "screaming-frog-seo-spider",
-      "caption" : "Screaming Frog SEO Spider updated from 17.0 to 17.1",
-      "date" : "2022-08-24T04:19:18Z",
-      "identifier" : "release-screaming-frog-seo-spider-17.1",
-      "title" : "New Release: Screaming Frog SEO Spider 17.1"
-    },
-    {
-      "appID" : "lazpaint",
-      "caption" : "LazPaint updated from 7.1.6 to 7.2.2",
-      "date" : "2022-08-24T04:19:18Z",
-      "identifier" : "release-lazpaint-7.2.2",
-      "title" : "New Release: LazPaint 7.2.2"
-    },
-    {
-      "appID" : "ibackup-viewer",
-      "caption" : "iBackup Viewer updated from 4.2640 to 4.2650",
-      "date" : "2022-08-24T04:19:18Z",
-      "identifier" : "release-ibackup-viewer-4.2650",
-      "title" : "New Release: iBackup Viewer 4.2650"
-    },
-    {
-      "appID" : "inav-configurator",
-      "caption" : "INAV Configurator updated from 5.0.0 to 5.1.0",
-      "date" : "2022-08-24T04:19:18Z",
-      "identifier" : "release-inav-configurator-5.1.0",
-      "title" : "New Release: INAV Configurator 5.1.0"
-    },
-    {
-      "appID" : "microsoft-openjdk",
-      "caption" : "Microsoft Build of OpenJDK updated from 17.0.4 to 17.0.4.1",
-      "date" : "2022-08-24T04:19:19Z",
-      "identifier" : "release-microsoft-openjdk-17.0.4.1",
-      "title" : "New Release: Microsoft Build of OpenJDK 17.0.4.1"
-    },
-    {
-      "appID" : "kindle-previewer",
-      "caption" : "Kindle Previewer updated from 3.66.0 to 3.67.0",
-      "date" : "2022-08-24T04:19:19Z",
-      "identifier" : "release-kindle-previewer-3.67.0",
-      "title" : "New Release: Kindle Previewer 3.67.0"
-    },
-    {
-      "appID" : "zulufx",
-      "caption" : "ZuluFX updated from 17.0.4,17.36.13-ca to 17.0.4.1,17.36.17-ca",
-      "date" : "2022-08-24T04:19:19Z",
-      "identifier" : "release-zulufx-17.0.4.1,17.36.17-ca",
-      "title" : "New Release: ZuluFX 17.0.4.1,17.36.17-ca"
-    },
-    {
-      "appID" : "bricklink-studio",
-      "caption" : "Studio updated from 2.22.7_1 to 2.22.8_1",
-      "date" : "2022-08-24T04:19:20Z",
-      "identifier" : "release-bricklink-studio-2.22.8_1",
-      "title" : "New Release: Studio 2.22.8_1"
-    },
-    {
-      "appID" : "spark-ar-studio",
-      "caption" : "Spark AR Studio updated from 144 to 145",
-      "date" : "2022-08-24T04:19:20Z",
-      "identifier" : "release-spark-ar-studio-145",
-      "title" : "New Release: Spark AR Studio 145"
-    },
-    {
-      "appID" : "enclave",
-      "caption" : "Enclave updated from 2022.06.20 to 2022.08.23",
-      "date" : "2022-08-24T04:19:20Z",
-      "identifier" : "release-enclave-2022.08.23",
-      "title" : "New Release: Enclave 2022.08.23"
-    },
-    {
-      "appID" : "foxglove-studio",
-      "caption" : "Foxglove Studio updated from 1.22.0 to 1.23.0",
-      "date" : "2022-08-24T04:19:20Z",
-      "identifier" : "release-foxglove-studio-1.23.0",
-      "title" : "New Release: Foxglove Studio 1.23.0"
-    },
-    {
-      "appID" : "figma",
-      "caption" : "Figma updated from 116.2.4 to 116.3.6",
-      "date" : "2022-08-24T05:48:12Z",
-      "identifier" : "release-figma-116.3.6",
-      "title" : "New Release: Figma 116.3.6"
-    },
-    {
       "appID" : "beeper",
       "caption" : "Beeper updated from 3.22.25 to 3.23.11",
       "date" : "2022-08-24T05:48:12Z",
@@ -74820,6 +74723,104 @@
       "date" : "2022-08-26T04:25:13Z",
       "identifier" : "release-nordlocker-3.4.0,161",
       "title" : "New Release: NordLocker 3.4.0,161"
+    },
+    {
+      "appID" : "qq",
+      "caption" : "QQ updated from 6.8.1.21222_963 to 6.8.2.21241_966",
+      "date" : "2022-08-26T06:10:07Z",
+      "identifier" : "release-qq-6.8.2.21241_966",
+      "title" : "New Release: QQ 6.8.2.21241_966"
+    },
+    {
+      "appID" : "viber",
+      "caption" : "Viber updated from 18.2.0,1821 to 18.3.0,1831",
+      "date" : "2022-08-26T06:10:07Z",
+      "identifier" : "release-viber-18.3.0,1831",
+      "title" : "New Release: Viber 18.3.0,1831"
+    },
+    {
+      "appID" : "asana",
+      "caption" : "Asana updated from 1.9.0 to 1.10.0",
+      "date" : "2022-08-26T06:10:08Z",
+      "identifier" : "release-asana-1.10.0",
+      "title" : "New Release: Asana 1.10.0"
+    },
+    {
+      "appID" : "curseforge",
+      "caption" : "CurseForge updated from 0.205.2-1 to 0.206.2-1",
+      "date" : "2022-08-26T06:10:08Z",
+      "identifier" : "release-curseforge-0.206.2-1",
+      "title" : "New Release: CurseForge 0.206.2-1"
+    },
+    {
+      "appID" : "exodus",
+      "caption" : "Exodus updated from 22.8.12 to 22.8.26",
+      "date" : "2022-08-26T06:10:08Z",
+      "identifier" : "release-exodus-22.8.26",
+      "title" : "New Release: Exodus 22.8.26"
+    },
+    {
+      "appID" : "sidequest",
+      "caption" : "SideQuest updated from 0.10.31 to 0.10.32",
+      "date" : "2022-08-26T06:10:08Z",
+      "identifier" : "release-sidequest-0.10.32",
+      "title" : "New Release: SideQuest 0.10.32"
+    },
+    {
+      "appID" : "sigmaos",
+      "caption" : "sigmaos updated from 0.25.2.1 to 0.25.2.2",
+      "date" : "2022-08-26T06:10:08Z",
+      "identifier" : "release-sigmaos-0.25.2.2",
+      "title" : "New Release: sigmaos 0.25.2.2"
+    },
+    {
+      "appID" : "pycharm-edu",
+      "caption" : "Jetbrains PyCharm Educational Edition updated from 2022.1.3,221.6008.17 to 2022.2,222.3345.148",
+      "date" : "2022-08-26T06:10:08Z",
+      "identifier" : "release-pycharm-edu-2022.2,222.3345.148",
+      "title" : "New Release: Jetbrains PyCharm Educational Edition 2022.2,222.3345.148"
+    },
+    {
+      "appID" : "missive",
+      "caption" : "Missive updated from 10.28.0 to 10.29.0",
+      "date" : "2022-08-26T06:10:08Z",
+      "identifier" : "release-missive-10.29.0",
+      "title" : "New Release: Missive 10.29.0"
+    },
+    {
+      "appID" : "dbvisualizer",
+      "caption" : "DbVisualizer updated from 13.0.4 to 13.0.5",
+      "date" : "2022-08-26T06:10:09Z",
+      "identifier" : "release-dbvisualizer-13.0.5",
+      "title" : "New Release: DbVisualizer 13.0.5"
+    },
+    {
+      "appID" : "qownnotes",
+      "caption" : "QOwnNotes updated from 22.8.3 to 22.8.4",
+      "date" : "2022-08-26T06:10:09Z",
+      "identifier" : "release-qownnotes-22.8.4",
+      "title" : "New Release: QOwnNotes 22.8.4"
+    },
+    {
+      "appID" : "preform",
+      "caption" : "PreForm updated from 3.26.2,155_22353 to 3.27.0,162_23329",
+      "date" : "2022-08-26T06:10:09Z",
+      "identifier" : "release-preform-3.27.0,162_23329",
+      "title" : "New Release: PreForm 3.27.0,162_23329"
+    },
+    {
+      "appID" : "confluent-cli",
+      "caption" : "Confluent CLI updated from 2.24.1 to 2.24.2",
+      "date" : "2022-08-26T06:10:09Z",
+      "identifier" : "release-confluent-cli-2.24.2",
+      "title" : "New Release: Confluent CLI 2.24.2"
+    },
+    {
+      "appID" : "plasticscm-cloud-edition",
+      "caption" : "PlasicSCM - a Cloud Edition updated from 11.0.16.7303 to 11.0.16.7348",
+      "date" : "2022-08-26T06:10:10Z",
+      "identifier" : "release-plasticscm-cloud-edition-11.0.16.7348",
+      "title" : "New Release: PlasicSCM - a Cloud Edition 11.0.16.7348"
     }
   ],
   "platform" : "macos",

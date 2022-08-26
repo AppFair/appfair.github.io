@@ -27,14 +27,14 @@ tr:nth-child(even) {
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `22` | `2022-07-20T00:00:00Z` | `12 MB` | `2777` | `184` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.44`` | `20` | `2022-08-19T00:00:00Z` | `7.5 MB` | `89` | `12` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `19` | `2022-08-15T00:00:00Z` | `17.7 MB` | `310` | `40` | `1` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `10` | `2022-08-24T00:00:00Z` | `5.8 MB` | `60` | `11` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `10` | `2022-08-24T00:00:00Z` | `5.8 MB` | `56` | `5` | `1` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.8β`` | `9` | `2021-12-06T00:00:00Z` | `5.8 MB` | `368` | `20` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `498` | `9` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1639` | `92` | `0` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `8` | `2022-08-24T00:00:00Z` | `5.8 MB` | `60` | `11` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `8` | `2022-08-24T00:00:00Z` | `5.8 MB` | `56` | `5` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.50`` | `8` | `2022-08-24T00:00:00Z` | `8.8 MB` | `33` | `4` | `1` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `8` | `2022-07-20T00:00:00Z` | `18.2 MB` | `2728` | `150` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.0.20β`` | `7` | `2022-02-12T00:00:00Z` | `6.4 MB` | `1530` | `82` | `0` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.50`` | `6` | `2022-08-24T00:00:00Z` | `8.8 MB` | `33` | `4` | `1` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.35β`` | `6` | `2021-12-04T00:00:00Z` | `14.9 MB` | `1305` | `201` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `6` | `2022-01-23T00:00:00Z` | `5.8 MB` | `1977` | `121` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `6` | `2022-01-25T00:00:00Z` | `6 MB` | `2201` | `138` | `0` | `0` |  |

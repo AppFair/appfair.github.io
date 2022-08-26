@@ -775,13 +775,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/rxhanson/Rectangle/releases/download/v0.57/Rectangle0.57.dmg",
+      "downloadURL" : "https://github.com/rxhanson/Rectangle/releases/download/v0.58/Rectangle0.58.dmg",
       "homepage" : "https://rectangleapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rectangle/AppIcon.png",
       "localizedDescription" : "Move and resize windows using keyboard shortcuts or snap areas",
       "name" : "Rectangle",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rectangle/README.md",
-      "sha256" : "cbf2f6c4bd600628fb908a73a648be177739f1fde11b27759105d503b039b35f",
+      "sha256" : "94a111db7fd161a0f39dc3a760e2c51747d37d4e64f7def45bc3527668bbf0c0",
       "stats" : {
         "downloadCount" : 8943,
         "impressionCount" : 2478,
@@ -789,7 +789,8 @@
       },
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
       "tintColor" : "287398",
-      "version" : "0.57,63"
+      "version" : "0.58,64",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -3316,20 +3317,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v6.12/macos/pgadmin4-6.12.dmg",
+      "downloadURL" : "https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v6.13/macos/pgadmin4-6.13.dmg",
       "homepage" : "https://www.pgadmin.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pgadmin4/AppIcon.png",
       "localizedDescription" : "Administration and development platform for PostgreSQL",
       "name" : "pgAdmin4",
-      "sha256" : "bb12e07d8bbca31e0cb45784540576dc67ff54dabcd8f81c0d4f09b6d7c8c43e",
+      "sha256" : "c91b147c9e73ba1c751f9ab83b3a0d6f5d17d64cc6dfc24f7f15953ef9ae10d2",
       "stats" : {
         "downloadCount" : 2886,
         "impressionCount" : 705
       },
       "subtitle" : "Administration and development platform for PostgreSQL",
       "tintColor" : "A4BBCD",
-      "version" : "6.12",
-      "versionDate" : "2022-07-28T00:00:00Z"
+      "version" : "6.13",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -9108,7 +9109,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mactracker/AppIcon.png",
       "localizedDescription" : "Detailed information on every Apple product ever made",
       "name" : "Mactracker",
-      "sha256" : "75ea8c783b5bf9d986f0d3ca938f86d508adadf5762e9a3f0aa7c9b3f4ad1af9",
+      "sha256" : "96780bf391b6367571728540fa528aba52a720849d279795c6bbe6fce3600c78",
       "stats" : {
         "downloadCount" : 95,
         "impressionCount" : 842
@@ -13578,20 +13579,20 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://download.techsmith.com/camtasiamac/releases/2210/Camtasia.dmg",
+      "downloadURL" : "https://download.techsmith.com/camtasiamac/releases/2220/Camtasia.dmg",
       "homepage" : "https://www.techsmith.com/video-editor.html",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-camtasia/AppIcon.png",
       "localizedDescription" : "Screen recorder and video editor",
       "name" : "Camtasia",
-      "sha256" : "80df5785f5dee0f185b9c2481612706f535c3d90d967329582b06fd3b558b76a",
+      "sha256" : "e3946c2d40bb29d836c5b8f416cf6820e296e825732a0dc64829bf09eb111796",
       "stats" : {
         "downloadCount" : 41,
         "impressionCount" : 713
       },
       "subtitle" : "Screen recorder and video editor",
       "tintColor" : "87BE66",
-      "version" : "2022.1.0",
-      "versionDate" : "2022-08-13T00:00:00Z"
+      "version" : "2022.2.0",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -19762,20 +19763,20 @@
       "categories" : [
         "public.app-category.finance"
       ],
-      "downloadURL" : "https://github.com/mymonero/mymonero-app-js/releases/download/v1.3.0/MyMonero-1.3.0.dmg",
+      "downloadURL" : "https://github.com/mymonero/mymonero-app-js/releases/download/v1.3.2/MyMonero-1.3.2.dmg",
       "homepage" : "https://mymonero.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mymonero/AppIcon.png",
       "localizedDescription" : "Wallet for the Monero cryptocurrency",
       "name" : "MyMonero",
-      "sha256" : "a3213956a46ec49daf9e982ea297b346a552429fb94d2e53cb43aa6acceaa6ca",
+      "sha256" : "77719a53fe8b5ab19d632ce512836a4caad0e01f9f08ca56fed03ae094264755",
       "stats" : {
         "downloadCount" : 17,
         "impressionCount" : 450
       },
       "subtitle" : "Wallet for the Monero cryptocurrency",
       "tintColor" : "444B4F",
-      "version" : "1.3.0",
-      "versionDate" : "2022-08-14T00:00:00Z"
+      "version" : "1.3.2",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -25140,14 +25141,16 @@
         "public.app-category.developer-tools"
       ],
       "downloadURL" : "https://github.com/raphaelhanneken/iconizer/releases/download/2020.11.0/Iconizer.dmg",
-      "homepage" : "https://raphaelhanneken.github.io/iconizer/",
+      "homepage" : "https://raphaelhanneken.com/iconizer/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-iconizer/AppIcon.png",
+      "localizedDescription" : "Xcode asset catalog creator",
       "name" : "Iconizer",
       "sha256" : "abaffdea473f4d3cd7d763fcb3846fbb752b87949e6ef7d273a95b6f5c5c1e06",
       "stats" : {
         "downloadCount" : 9,
         "impressionCount" : 223
       },
+      "subtitle" : "Xcode asset catalog creator",
       "tintColor" : "9BC2C1",
       "version" : "2020.11.0"
     },
@@ -40854,8 +40857,8 @@
       },
       "subtitle" : "Managed desktop virtualization solution",
       "tintColor" : "B1C2D3",
-      "version" : "22.06.1.51,2206.1",
-      "versionDate" : "2022-08-14T00:00:00Z"
+      "version" : "22.08.1.43,2208.1",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -41114,8 +41117,8 @@
       },
       "subtitle" : "Download manager",
       "tintColor" : "636A25",
-      "version" : "46573",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "46594",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -42295,8 +42298,8 @@
       },
       "subtitle" : "Video and audio player",
       "tintColor" : "DEB7A0",
-      "version" : "8.6,3150",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "8.7,3175",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -45163,19 +45166,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/FedoraQt/MediaWriter/releases/download/5.0.2/FedoraMediaWriter-osx-5.0.2.unnotarized.dmg",
+      "downloadURL" : "https://github.com/FedoraQt/MediaWriter/releases/download/5.0.3/FedoraMediaWriter-osx-5.0.3.unnotarized.dmg",
       "homepage" : "https://docs.fedoraproject.org/en-US/quick-docs/creating-and-using-a-live-installation-image/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fedora-media-writer/AppIcon.png",
       "localizedDescription" : "Tool to write Fedora images to portable media files",
       "name" : "Fedora Media Writer",
-      "sha256" : "124465274a38e55b059d27f9c847aed25a3a947c7af2278e293df65d77d71198",
+      "sha256" : "30c3d1b7778340aab9606825d4eef55c9a7fe1b4ec1f9b770598ab6fee8ef430",
       "stats" : {
         "downloadCount" : 46,
         "impressionCount" : 55
       },
       "subtitle" : "Tool to write Fedora images to portable media files",
       "tintColor" : "6FADD8",
-      "version" : "5.0.2"
+      "version" : "5.0.3",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -59405,8 +59409,8 @@
         "downloadCount" : 2706
       },
       "subtitle" : "Client for the Google Drive storage service",
-      "version" : "62.0.1",
-      "versionDate" : "2022-08-16T00:00:00Z"
+      "version" : "62.0.2",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -60081,17 +60085,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.14%2B20220824103217-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.14%2B20220825103303-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "1b31ede45a8cf4114b4bb2ae8d96d42d06b9273ed1662ded0a8458e4a20d7873",
+      "sha256" : "dae6d49f90f5bc1728015932daf69d25c22eebb1fd004cb73d4b122e1a3d7bdf",
       "stats" : {
         "downloadCount" : 612
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.14,20220824103217",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "6.2.14,20220825103303",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -62462,16 +62466,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://cdn.gog.com/open/galaxy/client/2.0.51.58/galaxy_client_2.0.51.58.pkg",
+      "downloadURL" : "https://cdn.gog.com/open/galaxy/client/2.0.53.99/galaxy_client_2.0.53.99.pkg",
       "homepage" : "https://www.gog.com/galaxy",
       "localizedDescription" : "Game client",
       "name" : "GOG Galaxy",
-      "sha256" : "203de5296e5f86495830dd35023fa558b2557941f38f980c888aa629a7e89d97",
+      "sha256" : "c531d4c5019a179facb4117fde2026cb2fb153a55402329cffcf9c42e46385c2",
       "stats" : {
         "downloadCount" : 75
       },
       "subtitle" : "Game client",
-      "version" : "2.0.51.58"
+      "version" : "2.0.53.99",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -65027,8 +65032,8 @@
         "downloadCount" : 20
       },
       "subtitle" : "Free-to-play online poker",
-      "version" : "52.546",
-      "versionDate" : "2022-08-04T00:00:00Z"
+      "version" : "53.189",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -67439,17 +67444,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.nordcdn.com/apps/macos/generic/NordLocker/3.3.1/NordLocker.pkg",
+      "downloadURL" : "https://downloads.nordcdn.com/apps/macos/generic/NordLocker/3.4.0/NordLocker.pkg",
       "homepage" : "https://nordlocker.com/",
       "localizedDescription" : "Store and sync files securely",
       "name" : "NordLocker",
-      "sha256" : "9c0d51a374da684a70793bb54fa80b959bdc2d4004f3d01955a3cdde132ef1c2",
+      "sha256" : "0e4ba58b7f66924d392176abcf663691b09c6c1a3182d4dda094f012f89aeb66",
       "stats" : {
         "downloadCount" : 9
       },
       "subtitle" : "Store and sync files securely",
-      "version" : "3.3.1,160",
-      "versionDate" : "2022-08-11T00:00:00Z"
+      "version" : "3.4.0,161",
+      "versionDate" : "2022-08-26T04:25:09Z"
     },
     {
       "beta" : false,
@@ -72755,7 +72760,7 @@
       },
       "subtitle" : "Generator-driven Eclipse IDE for domain-specific graphical modeling tools",
       "version" : "2.0.1",
-      "versionDate" : "2022-08-26T01:15:49Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72791,7 +72796,7 @@
       },
       "subtitle" : "Cloud-based telephone system",
       "version" : "22.9.33.25",
-      "versionDate" : "2022-08-26T01:15:49Z"
+      "versionDate" : "2022-08-26T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74117,83 +74122,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "workflowy",
-      "caption" : "WorkFlowy updated from 1.4.977 to 1.4.1008",
-      "date" : "2022-08-24T04:19:14Z",
-      "identifier" : "release-workflowy-1.4.1008",
-      "title" : "New Release: WorkFlowy 1.4.1008"
-    },
-    {
-      "appID" : "opera-gx",
-      "caption" : "Opera GX updated from 89.0.4447.98 to 89.0.4447.104",
-      "date" : "2022-08-24T04:19:14Z",
-      "identifier" : "release-opera-gx-89.0.4447.104",
-      "title" : "New Release: Opera GX 89.0.4447.104"
-    },
-    {
-      "appID" : "dataspell",
-      "caption" : "DataSpell updated from 2022.2,222.3345.132 to 2022.2.1,222.3739.64",
-      "date" : "2022-08-24T04:19:14Z",
-      "identifier" : "release-dataspell-2022.2.1,222.3739.64",
-      "title" : "New Release: DataSpell 2022.2.1,222.3739.64"
-    },
-    {
-      "appID" : "yinxiangbiji",
-      "caption" : "Evernote updated from 9.5.27_467718 to 9.5.29_467958",
-      "date" : "2022-08-24T04:19:15Z",
-      "identifier" : "release-yinxiangbiji-9.5.29_467958",
-      "title" : "New Release: Evernote 9.5.29_467958"
-    },
-    {
-      "appID" : "nordpass",
-      "caption" : "NordPass updated from 4.28.7 to 4.29.3",
-      "date" : "2022-08-24T04:19:15Z",
-      "identifier" : "release-nordpass-4.29.3",
-      "title" : "New Release: NordPass 4.29.3"
-    },
-    {
-      "appID" : "sigmaos",
-      "caption" : "sigmaos updated from 0.25.1.3 to 0.25.2.1",
-      "date" : "2022-08-24T04:19:15Z",
-      "identifier" : "release-sigmaos-0.25.2.1",
-      "title" : "New Release: sigmaos 0.25.2.1"
-    },
-    {
-      "appID" : "infoflow",
-      "caption" : "Baidu Hi updated from 2.3.18.6,20220725201701 to 2.3.19.4,20220822191856",
-      "date" : "2022-08-24T04:19:16Z",
-      "identifier" : "release-infoflow-2.3.19.4,20220822191856",
-      "title" : "New Release: Baidu Hi 2.3.19.4,20220822191856"
-    },
-    {
-      "appID" : "geneious-prime",
-      "caption" : "Geneious Prime updated from 2022.2.1 to 2022.2.2",
-      "date" : "2022-08-24T04:19:16Z",
-      "identifier" : "release-geneious-prime-2022.2.2",
-      "title" : "New Release: Geneious Prime 2022.2.2"
-    },
-    {
-      "appID" : "redisinsight",
-      "caption" : "RedisInsight updated from 2.6.0 to 2.8.0",
-      "date" : "2022-08-24T04:19:16Z",
-      "identifier" : "release-redisinsight-2.8.0",
-      "title" : "New Release: RedisInsight 2.8.0"
-    },
-    {
-      "appID" : "crossover",
-      "caption" : "CrossOver updated from 21.2.0.33926 to 22.0.0.35473",
-      "date" : "2022-08-24T04:19:17Z",
-      "identifier" : "release-crossover-22.0.0.35473",
-      "title" : "New Release: CrossOver 22.0.0.35473"
-    },
-    {
-      "appID" : "ledger-live",
-      "caption" : "Ledger Live updated from 2.45.1 to 2.46.0",
-      "date" : "2022-08-24T04:19:17Z",
-      "identifier" : "release-ledger-live-2.46.0",
-      "title" : "New Release: Ledger Live 2.46.0"
-    },
-    {
       "appID" : "pushplaylabs-sidekick",
       "caption" : "Sidekick updated from 102.26.1.22846,08130dc to 102.26.1.22867,82aaf09",
       "date" : "2022-08-24T04:19:17Z",
@@ -74544,25 +74472,11 @@
       "title" : "New Release: Play! 2022-08-24,05a411c9"
     },
     {
-      "appID" : "jdownloader",
-      "caption" : "JDownloader updated from 46316 to 46573",
-      "date" : "2022-08-24T23:21:09Z",
-      "identifier" : "release-jdownloader-46573",
-      "title" : "New Release: JDownloader 46573"
-    },
-    {
       "appID" : "understand",
       "caption" : "SciTools Understand updated from 6.2.1114 to 6.2.1115",
       "date" : "2022-08-24T23:21:10Z",
       "identifier" : "release-understand-6.2.1115",
       "title" : "New Release: SciTools Understand 6.2.1115"
-    },
-    {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.14,20220823103055 to 6.2.14,20220824103217",
-      "date" : "2022-08-24T23:21:10Z",
-      "identifier" : "release-metasploit-6.2.14,20220824103217",
-      "title" : "New Release: Metasploit Framework 6.2.14,20220824103217"
     },
     {
       "appID" : "protopie",
@@ -74815,6 +74729,97 @@
       "date" : "2022-08-26T01:15:50Z",
       "identifier" : "release-cloud-pbx-22.9.33.25",
       "title" : "New Release: Cloud PBX 22.9.33.25"
+    },
+    {
+      "appID" : "rectangle",
+      "caption" : "Rectangle updated from 0.57,63 to 0.58,64",
+      "date" : "2022-08-26T04:25:10Z",
+      "identifier" : "release-rectangle-0.58,64",
+      "title" : "New Release: Rectangle 0.58,64"
+    },
+    {
+      "appID" : "pgadmin4",
+      "caption" : "pgAdmin4 updated from 6.12 to 6.13",
+      "date" : "2022-08-26T04:25:10Z",
+      "identifier" : "release-pgadmin4-6.13",
+      "title" : "New Release: pgAdmin4 6.13"
+    },
+    {
+      "appID" : "camtasia",
+      "caption" : "Camtasia updated from 2022.1.0 to 2022.2.0",
+      "date" : "2022-08-26T04:25:10Z",
+      "identifier" : "release-camtasia-2022.2.0",
+      "title" : "New Release: Camtasia 2022.2.0"
+    },
+    {
+      "appID" : "mymonero",
+      "caption" : "MyMonero updated from 1.3.0 to 1.3.2",
+      "date" : "2022-08-26T04:25:11Z",
+      "identifier" : "release-mymonero-1.3.2",
+      "title" : "New Release: MyMonero 1.3.2"
+    },
+    {
+      "appID" : "citrix-workspace",
+      "caption" : "Citrix Workspace updated from 22.06.1.51,2206.1 to 22.08.1.43,2208.1",
+      "date" : "2022-08-26T04:25:11Z",
+      "identifier" : "release-citrix-workspace-22.08.1.43,2208.1",
+      "title" : "New Release: Citrix Workspace 22.08.1.43,2208.1"
+    },
+    {
+      "appID" : "jdownloader",
+      "caption" : "JDownloader updated from 46573 to 46594",
+      "date" : "2022-08-26T04:25:11Z",
+      "identifier" : "release-jdownloader-46594",
+      "title" : "New Release: JDownloader 46594"
+    },
+    {
+      "appID" : "elmedia-player",
+      "caption" : "Elmedia Player updated from 8.6,3150 to 8.7,3175",
+      "date" : "2022-08-26T04:25:11Z",
+      "identifier" : "release-elmedia-player-8.7,3175",
+      "title" : "New Release: Elmedia Player 8.7,3175"
+    },
+    {
+      "appID" : "fedora-media-writer",
+      "caption" : "Fedora Media Writer updated from 5.0.2 to 5.0.3",
+      "date" : "2022-08-26T04:25:12Z",
+      "identifier" : "release-fedora-media-writer-5.0.3",
+      "title" : "New Release: Fedora Media Writer 5.0.3"
+    },
+    {
+      "appID" : "google-drive",
+      "caption" : "Google Drive updated from 62.0.1 to 62.0.2",
+      "date" : "2022-08-26T04:25:12Z",
+      "identifier" : "release-google-drive-62.0.2",
+      "title" : "New Release: Google Drive 62.0.2"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.14,20220824103217 to 6.2.14,20220825103303",
+      "date" : "2022-08-26T04:25:12Z",
+      "identifier" : "release-metasploit-6.2.14,20220825103303",
+      "title" : "New Release: Metasploit Framework 6.2.14,20220825103303"
+    },
+    {
+      "appID" : "gog-galaxy",
+      "caption" : "GOG Galaxy updated from 2.0.51.58 to 2.0.53.99",
+      "date" : "2022-08-26T04:25:12Z",
+      "identifier" : "release-gog-galaxy-2.0.53.99",
+      "title" : "New Release: GOG Galaxy 2.0.53.99"
+    },
+    {
+      "appID" : "pokerstars",
+      "caption" : "PokerStars updated from 52.546 to 53.189",
+      "date" : "2022-08-26T04:25:12Z",
+      "identifier" : "release-pokerstars-53.189",
+      "title" : "New Release: PokerStars 53.189"
+    },
+    {
+      "appID" : "nordlocker",
+      "caption" : "NordLocker updated from 3.3.1,160 to 3.4.0,161",
+      "date" : "2022-08-26T04:25:13Z",
+      "identifier" : "release-nordlocker-3.4.0,161",
+      "title" : "New Release: NordLocker 3.4.0,161"
     }
   ],
   "platform" : "macos",

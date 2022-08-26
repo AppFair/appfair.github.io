@@ -229,7 +229,7 @@ tr:nth-child(even) {
 | [``Logseq``](https://github.com/logseq/logseq) | ``0.8.2`` | `652` | `2022-08-24T00:00:00Z` |  | `1725` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Jumpcut``](https://snark.github.io/jumpcut/) | ``0.82`` | `637` |  |  | `571` |  |  | `0` | `public.app-category.utilities` |
 | [``Godot Engine``](https://godotengine.org/) | ``3.5`` | `631` | `2022-08-06T00:00:00Z` |  | `569` |  |  | `0` | `public.app-category.developer-tools` |
-| [``DeepL``](https://www.deepl.com/) | ``3.4.205896`` | `630` |  |  | `901` |  |  | `0` | `public.app-category.reference` |
+| [``DeepL``](https://www.deepl.com/) | ``3.5.248587`` | `630` | `2022-08-26T20:23:34Z` |  | `901` |  |  | `0` | `public.app-category.reference` |
 | [``JetBrains PhpStorm``](https://www.jetbrains.com/phpstorm/) | ``2022.2.1,222.3739.61`` | `629` | `2022-08-19T00:00:00Z` |  | `535` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Tabby``](https://eugeny.github.io/tabby/) | ``1.0.183`` | `629` | `2022-08-01T00:00:00Z` |  | `881` |  |  | `0` | `public.app-category.video` |
 | [``Facebook Messenger``](https://www.messenger.com/desktop) | ``155.22.218,380205507`` | `610` | `2022-08-19T00:00:00Z` |  | `722` |  |  | `0` | `public.app-category.social-networking` |
@@ -291,7 +291,7 @@ tr:nth-child(even) {
 | [``Folx``](https://mac.eltima.com/download-manager.html) | ``5.26,13983`` | `307` |  |  | `540` |  |  | `0` | `public.app-category.utilities` |
 | [``ForkLift``](https://binarynights.com/) | ``3.5.7,219`` | `297` |  |  | `560` |  |  | `0` | `public.app-category.utilities` |
 | [``Responsively``](https://responsively.app/) | ``0.19.1`` | `297` | `2022-08-26T00:00:00Z` |  | `410` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Termius``](https://www.termius.com/) | ``7.46.4`` | `286` | `2022-08-17T00:00:00Z` |  | `599` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Termius``](https://www.termius.com/) | ``7.47.0`` | `286` | `2022-08-26T20:23:34Z` |  | `599` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Commander One``](https://mac.eltima.com/file-manager.html) | ``3.4.2,3592`` | `283` | `2022-07-17T00:00:00Z` |  | `672` |  |  | `0` | `public.app-category.utilities` |
 | [``Microsoft Azure Storage …``](https://azure.microsoft.com/en-us/features/storage-explorer/) | ``1.25.1`` | `278` | `2022-08-14T00:00:00Z` |  | `434` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Sproutcube Shortcat``](https://shortcat.app/) | ``0.10.2,169`` | `277` | `2022-08-26T00:00:00Z` |  | `424` |  |  | `0` | `public.app-category.productivity` |

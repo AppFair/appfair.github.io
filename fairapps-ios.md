@@ -23,10 +23,10 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `40` | `2022-08-24T00:00:00Z` | `5.8 MB` | `72` | `7` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `37` | `2022-07-20T00:00:00Z` | `5.4 MB` | `2963` | `223` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `35` | `2022-08-24T00:00:00Z` | `5.8 MB` | `72` | `7` | `1` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `28` | `2022-08-24T00:00:00Z` | `5.8 MB` | `71` | `15` | `1` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.50`` | `25` | `2022-08-24T00:00:00Z` | `8.8 MB` | `50` | `9` | `1` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `32` | `2022-08-24T00:00:00Z` | `5.8 MB` | `71` | `15` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.50`` | `29` | `2022-08-24T00:00:00Z` | `8.8 MB` | `50` | `9` | `1` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `22` | `2022-07-20T00:00:00Z` | `12 MB` | `2790` | `186` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.44`` | `20` | `2022-08-19T00:00:00Z` | `7.5 MB` | `93` | `12` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `19` | `2022-08-15T00:00:00Z` | `17.7 MB` | `330` | `43` | `1` | `0` |  |

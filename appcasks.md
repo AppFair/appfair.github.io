@@ -808,7 +808,7 @@ tr:nth-child(even) {
 | [``Hush``](https://oblador.github.io/hush/) | ``1.0`` | `26` |  |  | `376` |  |  | `0` | `public.app-category.utilities` |
 | [``Image2Icon``](https://www.img2icnsapp.com/) | ``2.17,943`` | `26` |  |  | `624` |  |  | `0` | `public.app-category.graphics-design` |
 | [``J``](https://www.jsoftware.com/) | ``903`` | `26` |  |  | `267` |  |  | `0` | `public.app-category.utilities` |
-| [``Jami``](https://jami.net/) | ``2022082616`` | `26` | `2022-08-27T04:09:07Z` |  | `398` |  |  | `0` | `public.app-category.social-networking` |
+| [``Jami``](https://jami.net/) | ``2022082616`` | `26` | `2022-08-27T00:00:00Z` |  | `398` |  |  | `0` | `public.app-category.social-networking` |
 | [``kindaVim``](https://kindavim.app/) | ``34.0.0`` | `26` | `2022-08-23T00:00:00Z` |  | `471` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Meta``](https://www.nightbirdsevolve.com/meta/) | ``2.1.4,3465`` | `26` |  |  | `431` |  |  | `0` | `public.app-category.music` |
 | [``Monolingual``](https://ingmarstein.github.io/Monolingual/) | ``1.8.2`` | `26` |  |  | `302` |  |  | `0` | `public.app-category.utilities` |
@@ -2993,7 +2993,7 @@ tr:nth-child(even) {
 | [``WebPQuickLook``](https://github.com/emin/WebPQuickLook) | ``1.0`` | `596` |  |  |  |  |  | `0` |  |
 | [``Azure Data Studio``](https://docs.microsoft.com/en-us/sql/azure-data-studio/) | ``1.39.0`` | `595` | `2022-08-25T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Nextcloud``](https://nextcloud.com/) | ``3.5.4`` | `589` | `2022-08-03T00:00:00Z` |  |  |  |  | `0` |  |
-| [``GCC ARM Embedded``](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain) | ``11.3.rel1`` | `551` | `2022-08-27T04:09:07Z` |  |  |  |  | `0` |  |
+| [``GCC ARM Embedded``](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain) | ``11.3.rel1`` | `551` | `2022-08-27T00:00:00Z` |  |  |  |  | `0` |  |
 | [``cscreen``](https://www.pyehouse.com/cscreen/) | ``2012.09`` | `548` |  |  |  |  |  | `0` |  |
 | [``KiCad``](https://kicad.org/) | ``6.0.7-1`` | `537` | `2022-07-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``OneDrive``](https://onedrive.live.com/) | ``22.141.0703.0002`` | `529` | `2022-08-26T00:00:00Z` |  |  |  |  | `0` |  |
@@ -3004,7 +3004,7 @@ tr:nth-child(even) {
 | [``CopyQ``](https://hluk.github.io/CopyQ/) | ``6.2.0`` | `446` | `2022-07-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``QuickLookASE``](https://github.com/rsodre/QuickLookASE) | ``1.0`` | `443` |  |  |  |  |  | `0` |  |
 | [``Microsoft PowerPoint``](https://products.office.com/en-US/powerpoint) | ``16.64.22081401`` | `441` | `2022-08-17T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Aerial Screensaver``](https://github.com/JohnCoates/Aerial) | ``3.1.1`` | `427` | `2022-08-27T04:09:07Z` |  |  |  |  | `0` |  |
+| [``Aerial Screensaver``](https://github.com/JohnCoates/Aerial) | ``3.1.1`` | `427` | `2022-08-27T00:00:00Z` |  |  |  |  | `0` |  |
 | [``AWS Client VPN``](https://aws.amazon.com/vpn/) | ``3.1.0`` | `423` |  |  |  |  |  | `0` |  |
 | [``Cloudflare WARP``](https://cloudflarewarp.com/) | ``2022.7.422.0,20220801.16`` | `423` | `2022-08-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Mattermost``](https://about.mattermost.com/) | ``5.1.1`` | `408` |  |  |  |  |  | `0` |  |
@@ -3026,7 +3026,7 @@ tr:nth-child(even) {
 | [``ProvisionQL``](https://github.com/ealeksandrov/ProvisionQL) | ``1.6.2`` | `313` |  |  |  |  |  | `0` |  |
 | [``Squirrel``](https://rime.im/) | ``0.15.2`` | `313` |  |  |  |  |  | `0` |  |
 | [``AdGuard``](https://adguard.com/) | ``2.8.1.1147`` | `311` | `2022-08-03T00:00:00Z` |  |  |  |  | `0` |  |
-| [``quarto``](https://www.quarto.org/) | ``1.1.145`` | `308` | `2022-08-27T04:09:07Z` |  |  |  |  | `0` |  |
+| [``quarto``](https://www.quarto.org/) | ``1.1.145`` | `308` | `2022-08-27T00:00:00Z` |  |  |  |  | `0` |  |
 | [``MQTTX``](https://mqttx.app/) | ``1.8.2`` | `293` | `2022-08-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Secretive``](https://github.com/maxgoedjen/secretive) | ``2.2.0`` | `291` |  |  |  |  |  | `0` |  |
 | [``QLPrettyPatch``](https://github.com/atnan/QLPrettyPatch) | ``1.0`` | `285` |  |  |  |  |  | `0` |  |

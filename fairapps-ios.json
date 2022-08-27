@@ -103,7 +103,8 @@
       "name" : "Hex Loupe",
       "permissions" : [
         {
-          "type" : "com.apple.security.files.user-selected.read-only",
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
           "usageDescription" : "Hex examination requires the file read capability"
         }
       ],
@@ -115,7 +116,7 @@
       "sha256" : "23a83ecf71649f49ba98384b7640ed5e3fa3ea3733e5d87ea79e8ba148cfa589",
       "size" : 5381927,
       "stats" : {
-        "coreSize" : 102376,
+        "coreSize" : 170144,
         "downloadCount" : 37,
         "impressionCount" : 2963,
         "issueCount" : 0,
@@ -146,7 +147,8 @@
       "name" : "Lottie Motion",
       "permissions" : [
         {
-          "type" : "com.apple.security.files.user-selected.read-write",
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
@@ -159,7 +161,7 @@
       "sha256" : "5dc9d5209f376093487eee542b5f06d6b3ca550692b0432fed4e3997d8e9bcc5",
       "size" : 12016119,
       "stats" : {
-        "coreSize" : 102576,
+        "coreSize" : 170320,
         "downloadCount" : 22,
         "impressionCount" : 2790,
         "issueCount" : 0,
@@ -189,14 +191,14 @@
       "name" : "Net Skip",
       "permissions" : [
         {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        },
-        {
           "identifier" : "com.apple.security.network.client",
           "type" : "entitlement",
           "usageDescription" : "This app needs to access the network to load web pages."
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
         }
       ],
       "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.44/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
@@ -545,6 +547,47 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues.png",
+      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sita Sings the Blues",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
+      "screenshotURLs" : [
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_04-iphone-750x1334.png"
+      ],
+      "sha256" : "395208b54a04781502fdaf57d8dc2cc631f70977bb5e817e9ae0a06f438a224b",
+      "size" : 1458850545,
+      "stats" : {
+        "coreSize" : 102952,
+        "downloadCount" : 5,
+        "impressionCount" : 685,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 72,
+        "watcherCount" : 0
+      },
+      "subtitle" : "The movie \"Sita Sings the Blues\"",
+      "version" : "0.0.49",
+      "versionDate" : "2022-04-08T00:00:00Z",
+      "versionDescription" : "Release 0.0.49"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.SQL-Hero",
       "categories" : [
 
@@ -661,47 +704,6 @@
       "version" : "0.0.7",
       "versionDate" : "2022-01-21T00:00:00Z",
       "versionDescription" : "Release 0.0.7"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Sita-Sings-the-Blues.png",
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/README.md#60a2f8449bb3f6503232c4b9f88301ec77109750a69193125924af6211fb384e",
-      "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.49/screenshot_04-iphone-750x1334.png"
-      ],
-      "sha256" : "395208b54a04781502fdaf57d8dc2cc631f70977bb5e817e9ae0a06f438a224b",
-      "size" : 1458850545,
-      "stats" : {
-        "coreSize" : 102952,
-        "downloadCount" : 5,
-        "impressionCount" : 685,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 72,
-        "watcherCount" : 0
-      },
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.49",
-      "versionDate" : "2022-04-08T00:00:00Z",
-      "versionDescription" : "Release 0.0.49"
     },
     {
       "beta" : true,
@@ -879,6 +881,142 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Net-Skip-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_02-iphone-1170x2532.png"
+      ],
+      "sha256" : "3c8b7bf8e67a488b4bcc4bdad8dbea122bfef6b8b95826356a3dbbcbdb3e6a2d",
+      "size" : 7745123,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.45",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_02-iphone-1334x750.png"
+      ],
+      "sha256" : "0573d15343e0bd01904086d36c7b4f6ff5123423c830e6f554a14ec99cd89f8e",
+      "size" : 5844815,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.22",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.94/Lottie-Motion-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.94/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.94/Info.plist#44c670e69927d062463e3179bacd40a960984295fc24a5482381d6d00ccda5cc",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.94/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.94/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.94/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.94/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "b7d2674847f83322b7741804cbb6003d96b320b19fb09cb92a04b132a4ff0dab",
+      "size" : 12762333,
+      "stats" : {
+        "coreSize" : 170320,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.94",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.93...0.0.94"
     },
     {
       "beta" : false,

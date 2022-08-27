@@ -29,10 +29,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 60,
-        "impressionCount" : 97,
+        "impressionCount" : 104,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 11,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -74,10 +74,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 92,
+        "impressionCount" : 98,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -118,7 +118,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 39,
-        "impressionCount" : 2979,
+        "impressionCount" : 2984,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 225,
@@ -292,7 +292,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2756,
+        "impressionCount" : 2762,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 155,
@@ -829,7 +829,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -842,7 +842,7 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.454...0.8.455"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
 
@@ -915,7 +915,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -950,7 +950,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 28,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 6,
@@ -1001,7 +1001,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 20,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,
@@ -1037,7 +1037,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 107,
+        "impressionCount" : 114,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1072,10 +1072,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 109,
+        "impressionCount" : 115,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1107,7 +1107,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 92,
+        "impressionCount" : 96,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1142,7 +1142,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 107,
+        "impressionCount" : 115,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1177,7 +1177,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 91,
+        "impressionCount" : 97,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 15,

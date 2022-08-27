@@ -666,44 +666,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Tidal-Zone",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Tidal-Zone.png",
-      "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/Info.plist#26ac8b5021fc68a699acaae189251fb8f2e42f419764130e697d3669e95cada7",
-      "name" : "Tidal Zone",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.0.20/README.md#81f629784b7c2a4c640fd99452df327d7f1d7363b39db3c37f65f108ddd28c8f",
-      "screenshotURLs" : [
-        "https://github.com/Tidal-Zone/App/releases/download/0.0.20/screenshot-mac-01-2024x1124.png"
-      ],
-      "sha256" : "db951840a4f86b2e0589cb1b41b2c8695570af19f0af03dafb5d79af5fa2734f",
-      "size" : 2539951,
-      "stats" : {
-        "coreSize" : 102472,
-        "downloadCount" : 7,
-        "impressionCount" : 1531,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 82,
-        "watcherCount" : 0
-      },
-      "subtitle" : "What tide is it right now?",
-      "version" : "0.0.20",
-      "versionDate" : "2022-02-12T00:00:00Z",
-      "versionDescription" : "Release 0.0.20"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
 
@@ -1443,6 +1405,41 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Tidal-Zone",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Tidal-Zone-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Tidal-Zone.png",
+      "localizedDescription" : "What tide is it right now?",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Tidal Zone",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/README.md#bbf17dc0b7f39e7922e3b9b93a40d35212c997497b730675af5b101f63cb72d3",
+      "sha256" : "d9e39ec3d52350542d27c91d4c18376c6ab41f3f5688d599eceac60b3b112113",
+      "size" : 2214517,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "What tide is it right now?",
+      "version" : "0.1.1",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tidal-Zone/App/commits/0.1.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Eternal-September",
       "categories" : [
 
@@ -1597,13 +1594,6 @@
   "name" : "Fair Apps",
   "news" : [
     {
-      "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo updated from 0.9.260 to 0.9.263",
-      "date" : "2022-08-24T04:08:58Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.263",
-      "title" : "New Release: Cloud Cuckoo 0.9.263"
-    },
-    {
       "appID" : "app.Fox-Glove",
       "caption" : "Fox Glove updated from 0.0.7 to 0.0.9",
       "date" : "2022-08-24T04:08:59Z",
@@ -1665,6 +1655,13 @@
       "date" : "2022-08-27T03:56:30Z",
       "identifier" : "release-app.Stanza-Redux-0.3.59",
       "title" : "New Release: Stanza Redux 0.3.59"
+    },
+    {
+      "appID" : "app.Tidal-Zone",
+      "caption" : "Tidal Zone 0.1.1 released",
+      "date" : "2022-08-27T04:06:09Z",
+      "identifier" : "release-app.Tidal-Zone-0.1.1",
+      "title" : "New Release: Tidal Zone 0.1.1"
     }
   ],
   "platform" : "macos"

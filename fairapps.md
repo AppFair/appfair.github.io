@@ -38,7 +38,6 @@ tr:nth-child(even) {
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1978` | `121` | `0` | `0` |  |
 | [``Story Points``](https://Story-Points.github.io/App/) | ``0.0.6β`` | `8` | `2022-01-24T00:00:00Z` | `2.4 MB` | `590` | `72` | `0` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.37β`` | `8` | `2022-01-24T00:00:00Z` | `4.7 MB` | `763` | `41` | `0` | `0` |  |
-| [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.0.20β`` | `7` | `2022-02-12T00:00:00Z` | `2.5 MB` | `1531` | `82` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.49β`` | `7` | `2022-04-08T00:00:00Z` | `1.45 GB` | `685` | `72` | `0` | `0` |  |
 | [``Micro Vector``](https://Micro-Vector.github.io/App/) | ``0.0.8β`` | `7` | `2022-01-24T00:00:00Z` | `2.8 MB` | `804` | `59` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `7` | `2022-01-26T00:00:00Z` | `2.3 MB` | `1640` | `92` | `0` | `0` |  |
@@ -57,6 +56,7 @@ tr:nth-child(even) {
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.10`` | `3` | `2022-08-24T00:00:00Z` | `8.2 MB` | `27` | `4` | `0` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `3` | `2022-07-20T00:00:00Z` | `12.9 MB` | `2741` | `152` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `641` | `45` | `0` | `0` |  |
+| [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `2.2 MB` | `1` | `1` | `0` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `2` | `2022-08-24T00:00:00Z` | `2.3 MB` | `68` | `6` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `2.4 MB` | `81` | `9` | `0` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `2` | `2022-05-01T00:00:00Z` | `2.6 MB` | `617` | `39` | `0` | `0` |  |

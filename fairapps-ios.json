@@ -28,11 +28,11 @@
       "size" : 5804309,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 58,
-        "impressionCount" : 88,
+        "downloadCount" : 60,
+        "impressionCount" : 90,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -74,10 +74,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 83,
+        "impressionCount" : 86,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 16,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -117,8 +117,8 @@
       "size" : 5381927,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 37,
-        "impressionCount" : 2972,
+        "downloadCount" : 38,
+        "impressionCount" : 2975,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 224,
@@ -162,8 +162,8 @@
       "size" : 12016119,
       "stats" : {
         "coreSize" : 170320,
-        "downloadCount" : 22,
-        "impressionCount" : 2797,
+        "downloadCount" : 23,
+        "impressionCount" : 2799,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 188,
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 344,
+        "impressionCount" : 348,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 44,
@@ -381,7 +381,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2750,
+        "impressionCount" : 2752,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 154,
@@ -759,41 +759,6 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tweet-Storm",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
-      "localizedDescription" : "Unleash your inner dialog",
-      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Tweet Storm",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "aeb2ff06d3230234d3b1934b86218fca5e50e77556f92c91015b93e8ecf9f937",
-      "size" : 6408682,
-      "stats" : {
-        "coreSize" : 102392,
-        "downloadCount" : 3,
-        "impressionCount" : 617,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 39,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Unleash your inner dialog",
-      "version" : "0.0.12",
-      "versionDate" : "2022-05-01T00:00:00Z",
-      "versionDescription" : "Release 0.0.12"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
@@ -829,8 +794,8 @@
       "size" : 7745123,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 2,
-        "impressionCount" : 5,
+        "downloadCount" : 3,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -872,7 +837,7 @@
       "size" : 5844815,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 2,
+        "downloadCount" : 3,
         "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
@@ -917,7 +882,7 @@
       "size" : 12762333,
       "stats" : {
         "coreSize" : 170320,
-        "downloadCount" : 2,
+        "downloadCount" : 3,
         "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
@@ -928,6 +893,41 @@
       "version" : "0.0.94",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.93...0.0.94"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tweet-Storm",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
+      "localizedDescription" : "Unleash your inner dialog",
+      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Tweet Storm",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "aeb2ff06d3230234d3b1934b86218fca5e50e77556f92c91015b93e8ecf9f937",
+      "size" : 6408682,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 3,
+        "impressionCount" : 617,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 39,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Unleash your inner dialog",
+      "version" : "0.0.12",
+      "versionDate" : "2022-05-01T00:00:00Z",
+      "versionDescription" : "Release 0.0.12"
     },
     {
       "beta" : false,
@@ -953,7 +953,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 21,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -1004,7 +1004,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 12,
+        "impressionCount" : 15,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -1040,7 +1040,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 99,
+        "impressionCount" : 102,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1075,7 +1075,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 99,
+        "impressionCount" : 102,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 13,
@@ -1110,7 +1110,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 85,
+        "impressionCount" : 87,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1145,7 +1145,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 98,
+        "impressionCount" : 101,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1180,7 +1180,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 84,
+        "impressionCount" : 88,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,

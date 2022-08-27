@@ -62,8 +62,8 @@
       "size" : 9708981,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 84,
-        "impressionCount" : 20,
+        "downloadCount" : 89,
+        "impressionCount" : 27,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 4,
@@ -106,10 +106,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 97,
+        "impressionCount" : 104,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 11,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -155,10 +155,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 92,
+        "impressionCount" : 98,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4369,
+        "impressionCount" : 4376,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 716,
@@ -253,7 +253,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 2979,
+        "impressionCount" : 2984,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 225,
@@ -329,7 +329,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3305,
+        "impressionCount" : 3311,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 569,
@@ -367,7 +367,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 107,
+        "impressionCount" : 114,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -679,7 +679,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 5,
-        "impressionCount" : 20,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,
@@ -1074,7 +1074,7 @@
       "versionDescription" : "Release 0.0.51"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
 
@@ -1145,7 +1145,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 1,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1180,10 +1180,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 3,
-        "impressionCount" : 109,
+        "impressionCount" : 115,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1219,7 +1219,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 91,
+        "impressionCount" : 97,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 15,
@@ -1311,7 +1311,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2756,
+        "impressionCount" : 2762,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 155,
@@ -1393,7 +1393,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1475,7 +1475,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 28,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 6,
@@ -1510,7 +1510,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 92,
+        "impressionCount" : 96,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1549,7 +1549,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 107,
+        "impressionCount" : 115,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1642,13 +1642,6 @@
   "name" : "Fair Apps",
   "news" : [
     {
-      "appID" : "app.Encyclopedia-Galactica",
-      "caption" : "Encyclopedia Galactica updated from 0.1.5 to 0.1.7",
-      "date" : "2022-08-24T04:09:00Z",
-      "identifier" : "release-app.Encyclopedia-Galactica-0.1.7",
-      "title" : "New Release: Encyclopedia Galactica 0.1.7"
-    },
-    {
       "appID" : "app.Media-Res",
       "caption" : "Media Res updated from 0.0.18 to 0.0.20",
       "date" : "2022-08-24T04:09:00Z",
@@ -1710,6 +1703,13 @@
       "date" : "2022-08-27T14:16:43Z",
       "identifier" : "release-app.Lottie-Motion-0.0.96",
       "title" : "New Release: Lottie Motion 0.0.96"
+    },
+    {
+      "appID" : "app.Sita-Sings-the-Blues",
+      "caption" : "Sita Sings the Blues 0.0.51 released",
+      "date" : "2022-08-27T15:17:16Z",
+      "identifier" : "release-app.Sita-Sings-the-Blues-0.0.51",
+      "title" : "New Release: Sita Sings the Blues 0.0.51"
     }
   ],
   "platform" : "macos"

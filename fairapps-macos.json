@@ -62,11 +62,11 @@
       "size" : 9708981,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 101,
-        "impressionCount" : 37,
+        "downloadCount" : 103,
+        "impressionCount" : 41,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 5,
+        "viewCount" : 6,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -106,7 +106,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 112,
+        "impressionCount" : 114,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -155,7 +155,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 104,
+        "impressionCount" : 105,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 20,
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4381,
+        "impressionCount" : 4383,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 716,
@@ -253,7 +253,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 2989,
+        "impressionCount" : 2990,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 225,
@@ -329,7 +329,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3316,
+        "impressionCount" : 3317,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 569,
@@ -367,7 +367,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 122,
+        "impressionCount" : 124,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -679,7 +679,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 5,
-        "impressionCount" : 33,
+        "impressionCount" : 35,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,
@@ -892,6 +892,45 @@
       "versionDescription" : "Release 0.0.7"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Main-Course",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
+      "localizedDescription" : "An offline recipe book",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Main Course",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
+      "screenshotURLs" : [
+        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-dark-mac-984x842.png",
+        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-light-mac-984x842.png"
+      ],
+      "sha256" : "926fde94d13f0a780767f29d4fce37592d73c03cf2b5b58fc4b9ae9c66e127aa",
+      "size" : 12898573,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 4,
+        "impressionCount" : 2769,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 156,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An offline recipe book",
+      "version" : "0.0.16",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Red-Light-Green-Light",
       "categories" : [
@@ -1102,7 +1141,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 9,
+        "impressionCount" : 11,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1145,7 +1184,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 12,
+        "impressionCount" : 14,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1180,7 +1219,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 3,
-        "impressionCount" : 120,
+        "impressionCount" : 122,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 15,
@@ -1219,7 +1258,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 105,
+        "impressionCount" : 107,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 15,
@@ -1282,45 +1321,6 @@
       "version" : "0.0.10",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/SQL-Hero/App/compare/0.0.9...0.0.10"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Main-Course",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
-      "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Main Course",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
-      "screenshotURLs" : [
-        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-dark-mac-984x842.png",
-        "https://github.com/Main-Course/App/releases/download/0.0.16/screenshot_01-mac-light-mac-984x842.png"
-      ],
-      "sha256" : "926fde94d13f0a780767f29d4fce37592d73c03cf2b5b58fc4b9ae9c66e127aa",
-      "size" : 12898573,
-      "stats" : {
-        "coreSize" : 102392,
-        "downloadCount" : 3,
-        "impressionCount" : 2768,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 155,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An offline recipe book",
-      "version" : "0.0.16",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
       "beta" : true,
@@ -1393,7 +1393,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 2,
-        "impressionCount" : 14,
+        "impressionCount" : 16,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1475,7 +1475,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 41,
+        "impressionCount" : 42,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 6,
@@ -1510,7 +1510,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 101,
+        "impressionCount" : 102,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1549,7 +1549,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 124,
+        "impressionCount" : 126,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,

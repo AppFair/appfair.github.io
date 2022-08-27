@@ -3929,20 +3929,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://gitlab.com/librewolf-community/browser/macos/uploads/87f3819691b7d2c7b0dd08e6793ef91f/librewolf-103.0.2-1.en-US.mac.x86_64.dmg",
+      "downloadURL" : "https://gitlab.com/librewolf-community/browser/macos/uploads/c8cea6d6d7e1ac90d9a7df3d9f33a46d/librewolf-104.0-1.en-US.mac.x86_64.dmg",
       "homepage" : "https://librewolf.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-librewolf/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "LibreWolf",
-      "sha256" : "13f083d5b7073c0cf170a1a1f22d24617ad0bd23840c0b0ee7f21637ca8c418e",
+      "sha256" : "717f0b80cd86e95d0425b3112e93ce667a13e4a2ef8dcaec9490f0608b617d11",
       "stats" : {
         "downloadCount" : 1155,
         "impressionCount" : 889
       },
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
-      "version" : "103.0.2,1,87f3819691b7d2c7b0dd08e6793ef91f",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "104.0,1,c8cea6d6d7e1ac90d9a7df3d9f33a46d",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -5890,20 +5890,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://static.lunar.fyi/releases/Lunar-5.7.7.dmg",
+      "downloadURL" : "https://static.lunar.fyi/releases/Lunar-5.7.8.dmg",
       "homepage" : "https://lunar.fyi/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lunar/AppIcon.png",
       "localizedDescription" : "Adaptive brightness for external displays",
       "name" : "Lunar",
-      "sha256" : "b0265c0448865e79248cfda16062fc0a4a1a4422893ce0c7e56849e84d5dbf57",
+      "sha256" : "44144350c68464d7232cb2860769e4ad430d656fdaaf7dec11a5488f136ba772",
       "stats" : {
         "downloadCount" : 332,
         "impressionCount" : 645
       },
       "subtitle" : "Adaptive brightness for external displays",
       "tintColor" : "F4E2B6",
-      "version" : "5.7.7",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "5.7.8",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -6531,20 +6531,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.2.70_228.dmg",
+      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.2.75_229.dmg",
       "homepage" : "https://www.ticktick.com/home",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ticktick/AppIcon.png",
       "localizedDescription" : "To-do & task list manager",
       "name" : "TickTick",
-      "sha256" : "769e2635de8e426f202a2263f10774a4d798fe4fd6e9f1b1fc8783b50b402bc7",
+      "sha256" : "dbfb6da1f7a3b5852f989246305ccd3490b04055ccf9127b7a9b60fa41baf123",
       "stats" : {
         "downloadCount" : 239,
         "impressionCount" : 547
       },
       "subtitle" : "To-do & task list manager",
       "tintColor" : "E8E9F0",
-      "version" : "4.2.70,228",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "4.2.75,229",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -6674,20 +6674,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://www.tunabellysoftware.com/resources/TG%20Pro%202.71.dmg",
+      "downloadURL" : "https://www.tunabellysoftware.com/resources/TG%20Pro%202.72.dmg",
       "homepage" : "https://www.tunabellysoftware.com/tgpro/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tg-pro/AppIcon.png",
       "localizedDescription" : "Temperature monitoring, fan control and diagnostics",
       "name" : "TG Pro",
-      "sha256" : "9ca93004c21c5097f57230aafda6ccb76ae78888c22aa34d22b93f445138e35a",
+      "sha256" : "7495e5b76908fa1bdcf63398c99a180ed973366215ff0d27f9e34010be28ea89",
       "stats" : {
         "downloadCount" : 218,
         "impressionCount" : 445
       },
       "subtitle" : "Temperature monitoring, fan control and diagnostics",
       "tintColor" : "3886C2",
-      "version" : "2.71,13526",
-      "versionDate" : "2022-07-17T00:00:00Z"
+      "version" : "2.72,13544",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -10026,20 +10026,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.28/Clash.for.Windows-0.19.28.dmg",
+      "downloadURL" : "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.19.29/Clash.for.Windows-0.19.29.dmg",
       "homepage" : "https://github.com/Fndroid/clash_for_windows_pkg",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clash-for-windows/AppIcon.png",
       "localizedDescription" : "GUI based on Clash",
       "name" : "Clash for Windows",
-      "sha256" : "a373d0b57b24a7caf5680de12f0e5424874766e91c01f4cb90a0cf43c8725d61",
+      "sha256" : "b53d20f2a738fc2a4a8f8d0037d43172ae185eda2676bf82b660919038d5297d",
       "stats" : {
         "downloadCount" : 79,
         "impressionCount" : 569
       },
       "subtitle" : "GUI based on Clash",
       "tintColor" : "BAC3D0",
-      "version" : "0.19.28",
-      "versionDate" : "2022-08-26T00:00:00Z"
+      "version" : "0.19.29",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -13523,20 +13523,20 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/11.3.0/UMS-11.3.0.dmg",
+      "downloadURL" : "https://github.com/UniversalMediaServer/UniversalMediaServer/releases/download/11.4.0/UMS-11.4.0.dmg",
       "homepage" : "https://www.universalmediaserver.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-universal-media-server/AppIcon.png",
       "localizedDescription" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "name" : "Universal Media Server",
-      "sha256" : "c43ac8ff6259fabf250ae3c587e18e9618c3224340aa96b9e0fa362a720ba84e",
+      "sha256" : "edf84172d13b7e04da512a754fd78a73c5b47d70776ad6493ca35e2bb3fdb5d1",
       "stats" : {
         "downloadCount" : 42,
         "impressionCount" : 758
       },
       "subtitle" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "tintColor" : "71B2CE",
-      "version" : "11.3.0",
-      "versionDate" : "2022-07-31T00:00:00Z"
+      "version" : "11.4.0",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -17156,7 +17156,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/zadam/trilium/releases/download/v0.54.2/trilium-mac-x64-0.54.2.zip",
+      "downloadURL" : "https://github.com/zadam/trilium/releases/download/v0.54.3/trilium-mac-x64-0.54.3.zip",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -17171,15 +17171,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-trilium-notes/AppIcon.png",
       "localizedDescription" : "Personal knowledge base",
       "name" : "Trilium Notes",
-      "sha256" : "1dd0f925762ddadf485c6546117f7b0e5bbb556ed95660839921cc027c8f727f",
+      "sha256" : "a70d0ac0bb0f1fe9988d34f17e1ec462f68203cd56f0534b711d8715c1505ee9",
       "stats" : {
         "downloadCount" : 25,
         "impressionCount" : 417
       },
       "subtitle" : "Personal knowledge base",
       "tintColor" : "A07E2A",
-      "version" : "0.54.2",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "0.54.3",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -21667,20 +21667,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://gitfiend.com/resources/GitFiend-0.35.3.dmg",
+      "downloadURL" : "https://gitfiend.com/resources/GitFiend-0.36.0.dmg",
       "homepage" : "https://gitfiend.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gitfiend/AppIcon.png",
       "localizedDescription" : "Git client",
       "name" : "GitFiend",
-      "sha256" : "128c1bcfac29662b92ca3d8909b6f6e6aae8e74649587eeb994474c5c61c6c39",
+      "sha256" : "0f55c998a52f9404a52eab739ef107d0ed9c1d7cd39034d0b91e60d8fbc22f7e",
       "stats" : {
         "downloadCount" : 14,
         "impressionCount" : 361
       },
       "subtitle" : "Git client",
       "tintColor" : "8C6CD7",
-      "version" : "0.35.3",
-      "versionDate" : "2022-07-31T00:00:00Z"
+      "version" : "0.36.0",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -22872,20 +22872,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/vladimiry/ElectronMail/releases/download/v5.0.2/electron-mail-5.0.2-mac-x64.dmg",
+      "downloadURL" : "https://github.com/vladimiry/ElectronMail/releases/download/v5.1.0/electron-mail-5.1.0-mac-x64.dmg",
       "homepage" : "https://github.com/vladimiry/ElectronMail",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electronmail/AppIcon.png",
       "localizedDescription" : "Unofficial ProtonMail Desktop App",
       "name" : "ElectronMail",
-      "sha256" : "72365ccfe7e80d412f7fcb4a702699f2a0cba4a6d6239b9ec18116ec4db4f7ce",
+      "sha256" : "ae227cbc3716c5afea3c3a5d450f382120f5ad796502c91bfd131483a45796a2",
       "stats" : {
         "downloadCount" : 12,
         "impressionCount" : 365
       },
       "subtitle" : "Unofficial ProtonMail Desktop App",
       "tintColor" : "1FA68B",
-      "version" : "5.0.2",
-      "versionDate" : "2022-07-29T00:00:00Z"
+      "version" : "5.1.0",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -22933,20 +22933,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.27/GDLauncher-mac-setup.dmg",
+      "downloadURL" : "https://github.com/gorilla-devs/GDLauncher/releases/download/v1.1.28/GDLauncher-mac-setup.dmg",
       "homepage" : "https://gdevs.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gdlauncher/AppIcon.png",
       "localizedDescription" : "Custom Minecraft Launcher",
       "name" : "GDLauncher",
-      "sha256" : "cc1c0ce7a2e0cfb8f08f1f70c4fa42d9fa72ed03d9f12c2b459e5aa34b8074e8",
+      "sha256" : "6d07c02d1e3d305ac05b3f905e01d14516bc11a36ad5c48ee7cc89afc5f44f40",
       "stats" : {
         "downloadCount" : 12,
         "impressionCount" : 296
       },
       "subtitle" : "Custom Minecraft Launcher",
       "tintColor" : "647996",
-      "version" : "1.1.27",
-      "versionDate" : "2022-07-24T00:00:00Z"
+      "version" : "1.1.28",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -24289,8 +24289,8 @@
       },
       "subtitle" : "Tool to securely connect to chat servers",
       "tintColor" : "49D9E5",
-      "version" : "5.3.1,803",
-      "versionDate" : "2022-08-22T00:00:00Z"
+      "version" : "5.3.1,804",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -25347,19 +25347,20 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://github.com/lbryio/lbry-desktop/releases/download/v0.53.4/LBRY_0.53.4.dmg",
+      "downloadURL" : "https://github.com/lbryio/lbry-desktop/releases/download/v0.53.5/LBRY_0.53.5.dmg",
       "homepage" : "https://lbry.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lbry/AppIcon.png",
       "localizedDescription" : "Official client for LBRY, a decentralised file-sharing and payment network",
       "name" : "LBRY Desktop",
-      "sha256" : "06da7802b3fad9023e759288a854a7447e0f3f87e4094b7552e856a8cb49e918",
+      "sha256" : "6e7ffb7dbe6816eebd6e82c560627fc6a15066cae96b561abbd175f138cb9300",
       "stats" : {
         "downloadCount" : 9,
         "impressionCount" : 644
       },
       "subtitle" : "Official client for LBRY, a decentralised file-sharing and payment network",
       "tintColor" : "C5CBCC",
-      "version" : "0.53.4"
+      "version" : "0.53.5",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -31041,8 +31042,8 @@
       },
       "subtitle" : "Advanced directory compare utility",
       "tintColor" : "CE642C",
-      "version" : "4.4.5,44503",
-      "versionDate" : "2022-08-02T00:00:00Z"
+      "version" : "4.4.6,44608",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -33529,20 +33530,20 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "downloadURL" : "https://s3.us-east-2.amazonaws.com/playbuilds/05a411c9/Play.dmg",
+      "downloadURL" : "https://s3.us-east-2.amazonaws.com/playbuilds/5dfbad89/Play.dmg",
       "homepage" : "https://purei.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-purei-play/AppIcon.png",
       "localizedDescription" : "PlayStation 2 emulator",
       "name" : "Play!",
-      "sha256" : "63ab1614658b03b8805d5e1a83545d7599a8811fc2b13fd9816b8ed90e693461",
+      "sha256" : "bfac909d0084f8df689d44a4c89ce3818588d0d6e77b6b0e4e418024feda41fd",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 806
       },
       "subtitle" : "PlayStation 2 emulator",
       "tintColor" : "7E80DF",
-      "version" : "2022-08-24,05a411c9",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "2022-08-24,5dfbad89",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -60074,17 +60075,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.15%2B20220826103216-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.15%2B20220827103214-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "c30fc91a4e96e1224c899d065c3eb906db979a77d0d244d06da8e9317b335cb8",
+      "sha256" : "d4b95f8be3cbbacf3714d8d5ac1a56b68f704d5929bb38d728fc5e1bb2b8b686",
       "stats" : {
         "downloadCount" : 611
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.15,20220826103216",
-      "versionDate" : "2022-08-26T00:00:00Z"
+      "version" : "6.2.15,20220827103214",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -60712,17 +60713,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/quarto-dev/quarto-cli/releases/download/v1.1.145/quarto-1.1.145-macos.pkg",
+      "downloadURL" : "https://github.com/quarto-dev/quarto-cli/releases/download/v1.1.149/quarto-1.1.149-macos.pkg",
       "homepage" : "https://www.quarto.org/",
       "localizedDescription" : "Scientific and technical publishing system built on Pandoc",
       "name" : "quarto",
-      "sha256" : "d039342f2f0a2fe5f89d744e258a7ec5a527ffe4fb30e0fa46cfcba364a22aef",
+      "sha256" : "e2329c268387ee03c99f6d0cc8398bba6769bcf6b4bad5e93716d5bc5f6b38fb",
       "stats" : {
         "downloadCount" : 308
       },
       "subtitle" : "Scientific and technical publishing system built on Pandoc",
-      "version" : "1.1.145",
-      "versionDate" : "2022-08-27T00:00:00Z"
+      "version" : "1.1.149",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -65506,17 +65507,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/vnotex/vnote/releases/download/v3.14.0/vnote-mac-x64_v3.14.0.zip",
+      "downloadURL" : "https://github.com/vnotex/vnote/releases/download/v3.15.0/vnote-mac-x64-qt5.15.2_v3.15.0.zip",
       "homepage" : "https://vnotex.github.io/vnote/",
       "localizedDescription" : "Note-taking platform",
       "name" : "VNote",
-      "sha256" : "23c1865b38939e92006510a3d1d83d0cb7dc80878389a842a529a99755df3afd",
+      "sha256" : "fa44d0328dc6a430d46bb272e1d59509838d6d7439ce6a88dad5df6d3b21a89e",
       "stats" : {
         "downloadCount" : 17
       },
       "subtitle" : "Note-taking platform",
-      "version" : "3.14.0",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "3.15.0",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -73695,16 +73696,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://projects.sappharad.com/s3air_mac/sonic3air_mac_220515.dmg",
+      "downloadURL" : "https://projects.sappharad.com/s3air_mac/sonic3air_mac_220827.dmg",
       "homepage" : "https://sonic3air.org/",
       "localizedDescription" : "Reimplementation of Sonic 3 & Knuckles (requires original game)",
       "name" : "Sonic 3 A.I.R.",
-      "sha256" : "849cacb3ffccaa7d030ee9e36677e4c055a66481657fb950bdfbc727ded6815d",
+      "sha256" : "0c764d2acc3107b7822482258eaac6c9dcae786b5355ae60371b25a66e020325",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "Reimplementation of Sonic 3 & Knuckles (requires original game)",
-      "version" : "22.05.15.0"
+      "version" : "22.08.27.0",
+      "versionDate" : "2022-08-27T18:26:13Z"
     },
     {
       "beta" : false,
@@ -74064,111 +74066,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "shift",
-      "caption" : "Shift updated from 8.0.48.473 to 8.0.49.479",
-      "date" : "2022-08-25T06:08:20Z",
-      "identifier" : "release-shift-8.0.49.479",
-      "title" : "New Release: Shift 8.0.49.479"
-    },
-    {
-      "appID" : "dropbox-capture",
-      "caption" : "Dropbox Capture updated from 82.0.12 to 83.0.4",
-      "date" : "2022-08-25T06:08:20Z",
-      "identifier" : "release-dropbox-capture-83.0.4",
-      "title" : "New Release: Dropbox Capture 83.0.4"
-    },
-    {
-      "appID" : "extraterm",
-      "caption" : "extraterm updated from 0.65.0 to 0.66.0",
-      "date" : "2022-08-25T06:08:20Z",
-      "identifier" : "release-extraterm-0.66.0",
-      "title" : "New Release: extraterm 0.66.0"
-    },
-    {
-      "appID" : "guilded",
-      "caption" : "Guilded updated from 1.0.9146647 to 1.0.9153488",
-      "date" : "2022-08-25T06:08:21Z",
-      "identifier" : "release-guilded-1.0.9153488",
-      "title" : "New Release: Guilded 1.0.9153488"
-    },
-    {
-      "appID" : "jprofiler",
-      "caption" : "JProfiler updated from 13.0.2 to 13.0.3",
-      "date" : "2022-08-25T06:08:21Z",
-      "identifier" : "release-jprofiler-13.0.3",
-      "title" : "New Release: JProfiler 13.0.3"
-    },
-    {
-      "appID" : "melodics",
-      "caption" : "Melodics updated from 2.1.8341,1437AAFB-242A-46BE-9A32-7CF71590074D to 3.0.8504,FB9B1B43-AD40-419D-8BA5-61458DC7EA98",
-      "date" : "2022-08-25T06:08:22Z",
-      "identifier" : "release-melodics-3.0.8504,FB9B1B43-AD40-419D-8BA5-61458DC7EA98",
-      "title" : "New Release: Melodics 3.0.8504,FB9B1B43-AD40-419D-8BA5-61458DC7EA98"
-    },
-    {
-      "appID" : "prezi-video",
-      "caption" : "Prezi Video updated from 2.11.0 to 2.12.0",
-      "date" : "2022-08-25T06:08:22Z",
-      "identifier" : "release-prezi-video-2.12.0",
-      "title" : "New Release: Prezi Video 2.12.0"
-    },
-    {
-      "appID" : "miniforge",
-      "caption" : "miniforge updated from 4.13.0-1 to 4.14.0-0",
-      "date" : "2022-08-25T06:08:22Z",
-      "identifier" : "release-miniforge-4.14.0-0",
-      "title" : "New Release: miniforge 4.14.0-0"
-    },
-    {
-      "appID" : "mambaforge",
-      "caption" : "mambaforge updated from 4.13.0-1 to 4.14.0-0",
-      "date" : "2022-08-25T06:08:22Z",
-      "identifier" : "release-mambaforge-4.14.0-0",
-      "title" : "New Release: mambaforge 4.14.0-0"
-    },
-    {
-      "appID" : "ibm-cloud-cli",
-      "caption" : "IBM Cloud CLI updated from 2.9.0 to 2.10.0",
-      "date" : "2022-08-25T06:08:23Z",
-      "identifier" : "release-ibm-cloud-cli-2.10.0",
-      "title" : "New Release: IBM Cloud CLI 2.10.0"
-    },
-    {
-      "appID" : "wechatwork",
-      "caption" : "WeChat Work updated from 4.0.12.90612 to 4.0.16.90619",
-      "date" : "2022-08-25T09:24:02Z",
-      "identifier" : "release-wechatwork-4.0.16.90619",
-      "title" : "New Release: WeChat Work 4.0.16.90619"
-    },
-    {
-      "appID" : "tencent-meeting",
-      "caption" : "Tencent Meeting updated from 3.10.4.445,76dddacec583bb87a2105c0089f24c7b to 3.10.7.413,2012f9451007318aea154d31ae6ff91c",
-      "date" : "2022-08-25T10:26:45Z",
-      "identifier" : "release-tencent-meeting-3.10.7.413,2012f9451007318aea154d31ae6ff91c",
-      "title" : "New Release: Tencent Meeting 3.10.7.413,2012f9451007318aea154d31ae6ff91c"
-    },
-    {
-      "appID" : "kodelife",
-      "caption" : "KodeLife updated from 1.0.5,161 to 1.0.6,164",
-      "date" : "2022-08-25T10:26:46Z",
-      "identifier" : "release-kodelife-1.0.6,164",
-      "title" : "New Release: KodeLife 1.0.6,164"
-    },
-    {
-      "appID" : "ssh-config-editor",
-      "caption" : "SSH Config Editor updated from 2.5.1,96 to 2.6-b,97",
-      "date" : "2022-08-25T12:35:43Z",
-      "identifier" : "release-ssh-config-editor-2.6-b,97",
-      "title" : "New Release: SSH Config Editor 2.6-b,97"
-    },
-    {
-      "appID" : "milanote",
-      "caption" : "Milanote updated from 3.3.1 to 3.3.2",
-      "date" : "2022-08-25T12:35:43Z",
-      "identifier" : "release-milanote-3.3.2",
-      "title" : "New Release: Milanote 3.3.2"
-    },
-    {
       "appID" : "prezi-next",
       "caption" : "Prezi Next updated from 1.55.0,27191 to 1.56.0,27220",
       "date" : "2022-08-25T12:35:43Z",
@@ -74456,13 +74353,6 @@
       "title" : "New Release: uTools 3.0.3"
     },
     {
-      "appID" : "clash-for-windows",
-      "caption" : "Clash for Windows updated from 0.19.27 to 0.19.28",
-      "date" : "2022-08-26T18:09:40Z",
-      "identifier" : "release-clash-for-windows-0.19.28",
-      "title" : "New Release: Clash for Windows 0.19.28"
-    },
-    {
       "appID" : "superproductivity",
       "caption" : "Super Productivity updated from 7.11.5 to 7.11.6",
       "date" : "2022-08-26T18:09:41Z",
@@ -74559,13 +74449,6 @@
       "date" : "2022-08-26T18:09:46Z",
       "identifier" : "release-dropbox-155.4.5495",
       "title" : "New Release: Dropbox 155.4.5495"
-    },
-    {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.14,20220825103303 to 6.2.15,20220826103216",
-      "date" : "2022-08-26T18:09:46Z",
-      "identifier" : "release-metasploit-6.2.15,20220826103216",
-      "title" : "New Release: Metasploit Framework 6.2.15,20220826103216"
     },
     {
       "appID" : "sfdx",
@@ -74750,18 +74633,137 @@
       "title" : "New Release: Aerial Screensaver 3.1.1"
     },
     {
-      "appID" : "quarto",
-      "caption" : "quarto updated from 1.1.132 to 1.1.145",
-      "date" : "2022-08-27T04:09:08Z",
-      "identifier" : "release-quarto-1.1.145",
-      "title" : "New Release: quarto 1.1.145"
-    },
-    {
       "appID" : "texshop",
       "caption" : "TeXShop updated from 5.00 to 5.01",
       "date" : "2022-08-27T12:34:29Z",
       "identifier" : "release-texshop-5.01",
       "title" : "New Release: TeXShop 5.01"
+    },
+    {
+      "appID" : "librewolf",
+      "caption" : "LibreWolf updated from 103.0.2,1,87f3819691b7d2c7b0dd08e6793ef91f to 104.0,1,c8cea6d6d7e1ac90d9a7df3d9f33a46d",
+      "date" : "2022-08-27T18:26:14Z",
+      "identifier" : "release-librewolf-104.0,1,c8cea6d6d7e1ac90d9a7df3d9f33a46d",
+      "title" : "New Release: LibreWolf 104.0,1,c8cea6d6d7e1ac90d9a7df3d9f33a46d"
+    },
+    {
+      "appID" : "lunar",
+      "caption" : "Lunar updated from 5.7.7 to 5.7.8",
+      "date" : "2022-08-27T18:26:14Z",
+      "identifier" : "release-lunar-5.7.8",
+      "title" : "New Release: Lunar 5.7.8"
+    },
+    {
+      "appID" : "ticktick",
+      "caption" : "TickTick updated from 4.2.70,228 to 4.2.75,229",
+      "date" : "2022-08-27T18:26:15Z",
+      "identifier" : "release-ticktick-4.2.75,229",
+      "title" : "New Release: TickTick 4.2.75,229"
+    },
+    {
+      "appID" : "tg-pro",
+      "caption" : "TG Pro updated from 2.71,13526 to 2.72,13544",
+      "date" : "2022-08-27T18:26:15Z",
+      "identifier" : "release-tg-pro-2.72,13544",
+      "title" : "New Release: TG Pro 2.72,13544"
+    },
+    {
+      "appID" : "clash-for-windows",
+      "caption" : "Clash for Windows updated from 0.19.28 to 0.19.29",
+      "date" : "2022-08-27T18:26:16Z",
+      "identifier" : "release-clash-for-windows-0.19.29",
+      "title" : "New Release: Clash for Windows 0.19.29"
+    },
+    {
+      "appID" : "universal-media-server",
+      "caption" : "Universal Media Server updated from 11.3.0 to 11.4.0",
+      "date" : "2022-08-27T18:26:16Z",
+      "identifier" : "release-universal-media-server-11.4.0",
+      "title" : "New Release: Universal Media Server 11.4.0"
+    },
+    {
+      "appID" : "trilium-notes",
+      "caption" : "Trilium Notes updated from 0.54.2 to 0.54.3",
+      "date" : "2022-08-27T18:26:16Z",
+      "identifier" : "release-trilium-notes-0.54.3",
+      "title" : "New Release: Trilium Notes 0.54.3"
+    },
+    {
+      "appID" : "gitfiend",
+      "caption" : "GitFiend updated from 0.35.3 to 0.36.0",
+      "date" : "2022-08-27T18:26:16Z",
+      "identifier" : "release-gitfiend-0.36.0",
+      "title" : "New Release: GitFiend 0.36.0"
+    },
+    {
+      "appID" : "electronmail",
+      "caption" : "ElectronMail updated from 5.0.2 to 5.1.0",
+      "date" : "2022-08-27T18:26:17Z",
+      "identifier" : "release-electronmail-5.1.0",
+      "title" : "New Release: ElectronMail 5.1.0"
+    },
+    {
+      "appID" : "gdlauncher",
+      "caption" : "GDLauncher updated from 1.1.27 to 1.1.28",
+      "date" : "2022-08-27T18:26:17Z",
+      "identifier" : "release-gdlauncher-1.1.28",
+      "title" : "New Release: GDLauncher 1.1.28"
+    },
+    {
+      "appID" : "monal",
+      "caption" : "Monal updated from 5.3.1,803 to 5.3.1,804",
+      "date" : "2022-08-27T18:26:17Z",
+      "identifier" : "release-monal-5.3.1,804",
+      "title" : "New Release: Monal 5.3.1,804"
+    },
+    {
+      "appID" : "lbry",
+      "caption" : "LBRY Desktop updated from 0.53.4 to 0.53.5",
+      "date" : "2022-08-27T18:26:17Z",
+      "identifier" : "release-lbry-0.53.5",
+      "title" : "New Release: LBRY Desktop 0.53.5"
+    },
+    {
+      "appID" : "direqual",
+      "caption" : "DirEqual updated from 4.4.5,44503 to 4.4.6,44608",
+      "date" : "2022-08-27T18:26:18Z",
+      "identifier" : "release-direqual-4.4.6,44608",
+      "title" : "New Release: DirEqual 4.4.6,44608"
+    },
+    {
+      "appID" : "purei-play",
+      "caption" : "Play! updated from 2022-08-24,05a411c9 to 2022-08-24,5dfbad89",
+      "date" : "2022-08-27T18:26:18Z",
+      "identifier" : "release-purei-play-2022-08-24,5dfbad89",
+      "title" : "New Release: Play! 2022-08-24,5dfbad89"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.15,20220826103216 to 6.2.15,20220827103214",
+      "date" : "2022-08-27T18:26:19Z",
+      "identifier" : "release-metasploit-6.2.15,20220827103214",
+      "title" : "New Release: Metasploit Framework 6.2.15,20220827103214"
+    },
+    {
+      "appID" : "quarto",
+      "caption" : "quarto updated from 1.1.145 to 1.1.149",
+      "date" : "2022-08-27T18:26:19Z",
+      "identifier" : "release-quarto-1.1.149",
+      "title" : "New Release: quarto 1.1.149"
+    },
+    {
+      "appID" : "vnote",
+      "caption" : "VNote updated from 3.14.0 to 3.15.0",
+      "date" : "2022-08-27T18:26:19Z",
+      "identifier" : "release-vnote-3.15.0",
+      "title" : "New Release: VNote 3.15.0"
+    },
+    {
+      "appID" : "sonic3air",
+      "caption" : "Sonic 3 A.I.R. updated from 22.05.15.0 to 22.08.27.0",
+      "date" : "2022-08-27T18:26:19Z",
+      "identifier" : "release-sonic3air-22.08.27.0",
+      "title" : "New Release: Sonic 3 A.I.R. 22.08.27.0"
     }
   ],
   "platform" : "macos",

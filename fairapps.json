@@ -62,11 +62,11 @@
       "size" : 9708981,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 73,
-        "impressionCount" : 17,
+        "downloadCount" : 76,
+        "impressionCount" : 18,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -105,11 +105,11 @@
       "size" : 2281338,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 52,
-        "impressionCount" : 88,
+        "downloadCount" : 54,
+        "impressionCount" : 90,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -155,10 +155,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 83,
+        "impressionCount" : 86,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 16,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4363,
+        "impressionCount" : 4366,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 715,
@@ -255,7 +255,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 26,
-        "impressionCount" : 344,
+        "impressionCount" : 348,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 44,
@@ -301,7 +301,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 2972,
+        "impressionCount" : 2975,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 224,
@@ -377,7 +377,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3298,
+        "impressionCount" : 3300,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 568,
@@ -415,7 +415,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 99,
+        "impressionCount" : 102,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -722,7 +722,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 6,
-        "impressionCount" : 2797,
+        "impressionCount" : 2799,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 188,
@@ -732,6 +732,46 @@
       "version" : "0.0.90",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/Sita-Sings-the-Blues-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/Sita-Sings-the-Blues.png",
+      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sita Sings the Blues",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
+      "screenshotURLs" : [
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/screenshot_01-mac-2540x1658.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/screenshot_02-mac-2540x1658.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/screenshot_03-mac-2540x1658.png"
+      ],
+      "sha256" : "035f80473ebea18050cb42b43cd38f81dd0fa5dcdd7cc767e6cfbc11b7987245",
+      "size" : 1454449413,
+      "stats" : {
+        "coreSize" : 170608,
+        "downloadCount" : 5,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "The movie \"Sita Sings the Blues\"",
+      "version" : "0.0.50",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.49...0.0.50"
     },
     {
       "beta" : true,
@@ -806,6 +846,55 @@
       "version" : "0.0.1",
       "versionDate" : "2022-07-04T00:00:00Z",
       "versionDescription" : ""
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Stanza-Redux",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux.png",
+      "localizedDescription" : "An electronic book reader",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
+      "name" : "Stanza Redux",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to access books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read ebook files"
+        }
+      ],
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "screenshotURLs" : [
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_01-mac-light-2436x2012.png"
+      ],
+      "sha256" : "9bedfb9b1d5f39f483772ab5fb0821c426693b15c11501eb98bcf737b685ed2d",
+      "size" : 4011787,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 4,
+        "impressionCount" : 15,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 4,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An electronic book reader",
+      "tintColor" : "00375C",
+      "version" : "0.3.59",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
     },
     {
       "beta" : true,
@@ -1064,93 +1153,56 @@
       "versionDescription" : "Release 0.0.51"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/Sita-Sings-the-Blues-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/Sita-Sings-the-Blues.png",
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
-      "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/screenshot_01-mac-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/screenshot_02-mac-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.50/screenshot_03-mac-2540x1658.png"
-      ],
-      "sha256" : "035f80473ebea18050cb42b43cd38f81dd0fa5dcdd7cc767e6cfbc11b7987245",
-      "size" : 1454449413,
-      "stats" : {
-        "coreSize" : 170608,
-        "downloadCount" : 3,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.50",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.49...0.0.50"
-    },
-    {
       "beta" : false,
-      "bundleIdentifier" : "app.Stanza-Redux",
+      "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux-macOS.zip",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Net-Skip-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux.png",
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
-      "name" : "Stanza Redux",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
       "permissions" : [
         {
           "identifier" : "com.apple.security.network.client",
           "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to access books"
+          "usageDescription" : "This app needs to access the network to load web pages."
         },
         {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "identifier" : "com.apple.security.files.user-selected.read-write",
           "type" : "entitlement",
-          "usageDescription" : "This app needs to read ebook files"
+          "usageDescription" : "This app needs to write files in order to save downloads."
         }
       ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
       "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_01-mac-light-2436x2012.png"
+        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_01-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_01-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_02-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_02-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_03-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_03-mac-light-2528x2010.png"
       ],
-      "sha256" : "9bedfb9b1d5f39f483772ab5fb0821c426693b15c11501eb98bcf737b685ed2d",
-      "size" : 4011787,
+      "sha256" : "0c7d2890822b73ea7f0e575799e0996db82f769638373d633aaa0acd83eda827",
+      "size" : 3247297,
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 3,
-        "impressionCount" : 12,
+        "impressionCount" : 6,
         "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 4,
+        "starCount" : 0,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
-      "subtitle" : "An electronic book reader",
-      "tintColor" : "00375C",
-      "version" : "0.3.59",
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.45",
       "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
     },
     {
       "beta" : false,
@@ -1176,7 +1228,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 3,
-        "impressionCount" : 99,
+        "impressionCount" : 102,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 13,
@@ -1215,7 +1267,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 84,
+        "impressionCount" : 88,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -1268,7 +1320,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 30,
+        "impressionCount" : 31,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -1307,7 +1359,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 2750,
+        "impressionCount" : 2752,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 154,
@@ -1352,58 +1404,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Net-Skip-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
-      "name" : "Net Skip",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        }
-      ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
-      "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_01-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_01-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_02-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_02-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_03-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_03-mac-light-2528x2010.png"
-      ],
-      "sha256" : "0c7d2890822b73ea7f0e575799e0996db82f769638373d633aaa0acd83eda827",
-      "size" : 3247297,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 2,
-        "impressionCount" : 5,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.45",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
     },
     {
       "beta" : true,
@@ -1518,7 +1518,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 21,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -1553,7 +1553,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 85,
+        "impressionCount" : 87,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1592,7 +1592,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 98,
+        "impressionCount" : 101,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,

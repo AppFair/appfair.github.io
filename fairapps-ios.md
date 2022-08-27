@@ -25,7 +25,6 @@ tr:nth-child(even) {
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `58` | `2022-08-24T00:00:00Z` | `5.8 MB` | `73` | `7` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `42` | `2022-08-24T00:00:00Z` | `5.8 MB` | `72` | `15` | `1` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.50`` | `39` | `2022-08-24T00:00:00Z` | `8.8 MB` | `52` | `10` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `37` | `2022-07-20T00:00:00Z` | `5.4 MB` | `2963` | `223` | `0` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.90`` | `22` | `2022-07-20T00:00:00Z` | `12 MB` | `2790` | `186` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.44`` | `20` | `2022-08-19T00:00:00Z` | `7.5 MB` | `94` | `12` | `0` | `0` |  |
@@ -47,7 +46,7 @@ tr:nth-child(even) {
 | [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | ``0.0.16β`` | `4` | `2022-02-12T00:00:00Z` | `6.3 MB` | `1029` | `58` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `4` | `2022-01-25T00:00:00Z` | `5.9 MB` | `641` | `45` | `0` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `617` | `39` | `0` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59β`` | `2` | `2022-08-27T00:00:00Z` | `8.8 MB` | `1` | `1` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `2` | `2022-08-27T00:00:00Z` | `8.8 MB` | `1` | `1` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `86` | `8` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.7`` | `2` | `2022-08-24T00:00:00Z` | `5.7 MB` | `86` | `11` | `0` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `68` | `6` | `0` | `0` |  |

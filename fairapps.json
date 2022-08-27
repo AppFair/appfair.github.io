@@ -862,55 +862,6 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.89...0.0.90"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Stanza-Redux",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/Stanza-Redux-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/Stanza-Redux.png",
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
-      "name" : "Stanza Redux",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read ebook files"
-        }
-      ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.50/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
-      "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.50/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.50/screenshot_01-mac-light-2436x2012.png"
-      ],
-      "sha256" : "3a1a058314fa1c38e1e3d2a2ef60a768c2e519fd54335a3fec8a42150b993201",
-      "size" : 4008682,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 5,
-        "impressionCount" : 52,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 10,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An electronic book reader",
-      "tintColor" : "00375C",
-      "version" : "0.3.50",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.49...0.3.50"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
@@ -1241,7 +1192,7 @@
       "versionDescription" : "Release 0.0.51"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Stanza-Redux",
       "categories" : [
 
@@ -1702,18 +1653,18 @@
       "title" : "New Release: Eternal September 0.0.45"
     },
     {
-      "appID" : "app.Stanza-Redux",
-      "caption" : "Stanza Redux updated from 0.3.48 to 0.3.50",
-      "date" : "2022-08-24T15:18:52Z",
-      "identifier" : "release-app.Stanza-Redux-0.3.50",
-      "title" : "New Release: Stanza Redux 0.3.50"
-    },
-    {
       "appID" : "app.App-Fair",
       "caption" : "App Fair updated from 0.8.110 to 0.8.112",
       "date" : "2022-08-26T18:43:51Z",
       "identifier" : "release-app.App-Fair-0.8.112",
       "title" : "New Release: App Fair 0.8.112"
+    },
+    {
+      "appID" : "app.Stanza-Redux",
+      "caption" : "Stanza Redux updated from 0.3.50 to 0.3.59",
+      "date" : "2022-08-27T03:56:30Z",
+      "identifier" : "release-app.Stanza-Redux-0.3.59",
+      "title" : "New Release: Stanza Redux 0.3.59"
     }
   ],
   "platform" : "macos"

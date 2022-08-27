@@ -13,14 +13,14 @@
       "name": "Stanza Redux",
       "permissions": [
         {
-          "identifier": "com.apple.security.files.user-selected.read-only",
-          "type": "entitlement",
-          "usageDescription": "This app needs to read ebook files"
-        },
-        {
           "identifier": "com.apple.security.network.client",
           "type": "entitlement",
           "usageDescription": "This app needs to access the network in order to access books"
+        },
+        {
+          "identifier": "com.apple.security.files.user-selected.read-only",
+          "type": "entitlement",
+          "usageDescription": "This app needs to read ebook files"
         }
       ],
       "readmeURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.50/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
@@ -88,6 +88,54 @@
       "version": "0.8.454",
       "versionDate": "2022-08-15T18:02:06Z",
       "versionDescription": "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.453...0.8.454"
+    },
+    {
+      "beta": true,
+      "bundleIdentifier": "app.Stanza-Redux",
+      "categories": [],
+      "developerName": "fairapps <fairapps@appfair.org>",
+      "downloadURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux-iOS.ipa",
+      "fundingLinks": [],
+      "iconURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux.png",
+      "localizedDescription": "An electronic book reader",
+      "metadataURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
+      "name": "Stanza Redux",
+      "permissions": [
+        {
+          "identifier": "com.apple.security.network.client",
+          "type": "entitlement",
+          "usageDescription": "This app needs to access the network in order to access books"
+        },
+        {
+          "identifier": "com.apple.security.files.user-selected.read-only",
+          "type": "entitlement",
+          "usageDescription": "This app needs to read ebook files"
+        }
+      ],
+      "readmeURL": "https://github.com/Stanza-Redux/App/releases/download/0.3.59/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "screenshotURLs": [
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_04-iphone-750x1334.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_05-iphone-750x1334.png"
+      ],
+      "sha256": "e2f3e937fe14bc643d86578a50215041891d3c781bd9b0e6b471e2f8cfe9e2f6",
+      "size": 8825065,
+      "stats": {
+        "coreSize": 170224,
+        "downloadCount": 2,
+        "impressionCount": 1,
+        "issueCount": 0,
+        "starCount": 1,
+        "viewCount": 1,
+        "watcherCount": 0
+      },
+      "subtitle": "An electronic book reader",
+      "tintColor": "00375C",
+      "version": "0.3.59",
+      "versionDate": "2022-08-27T03:26:32Z",
+      "versionDescription": "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
     }
   ],
   "fundingSources": [],

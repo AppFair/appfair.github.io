@@ -25,7 +25,7 @@ tr:nth-child(even) {
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `52` | `2022-08-24T00:00:00Z` | `2.3 MB` | `73` | `7` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `45` | `2022-08-24T00:00:00Z` | `2.3 MB` | `72` | `15` | `1` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.112`` | `41` | `2022-08-26T00:00:00Z` | `9.7 MB` | `7` | `2` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.112`` | `42` | `2022-08-26T00:00:00Z` | `9.7 MB` | `7` | `2` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `39` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4354` | `714` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.454`` | `26` | `2022-08-15T00:00:00Z` | `9.5 MB` | `331` | `43` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `2963` | `223` | `0` | `0` |  |

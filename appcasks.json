@@ -25,7 +25,7 @@
       "sha256" : "80f77b635402201cfbd082529cad46c48ca44a94cb0e9a9390eed28f975c6c9a",
       "stats" : {
         "downloadCount" : 2674,
-        "impressionCount" : 9898,
+        "impressionCount" : 9899,
         "viewCount" : 1056
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -208,8 +208,8 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3371,
-        "impressionCount" : 8475,
-        "viewCount" : 577
+        "impressionCount" : 8477,
+        "viewCount" : 578
       },
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
@@ -505,7 +505,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 390,
-        "impressionCount" : 6651,
+        "impressionCount" : 6652,
         "viewCount" : 483
       },
       "subtitle" : "Text, code, and markup editor",
@@ -807,7 +807,7 @@
       "sha256" : "841c8df079da473a634b44c1841ff63cc90ed7b3d2563df7379bb7b046afc0cf",
       "stats" : {
         "downloadCount" : 8477,
-        "impressionCount" : 3125,
+        "impressionCount" : 3126,
         "viewCount" : 244
       },
       "subtitle" : "Team communication and collaboration software",
@@ -1008,8 +1008,8 @@
       "sha256" : "fc7e8409f24b5bec4cebf8fd61bbf57069b5acf5eaa69c0db3100b80b26a18fc",
       "stats" : {
         "downloadCount" : 4021,
-        "impressionCount" : 4284,
-        "viewCount" : 260
+        "impressionCount" : 4286,
+        "viewCount" : 263
       },
       "subtitle" : "Web browser focusing on privacy",
       "tintColor" : "FCB8A6",
@@ -1449,8 +1449,8 @@
       "sha256" : "117c099ce22c430dad0c8ca4daa56020e7b0cf0679d984c64d8d74790a8f2f8d",
       "stats" : {
         "downloadCount" : 2226,
-        "impressionCount" : 3702,
-        "viewCount" : 389
+        "impressionCount" : 3703,
+        "viewCount" : 390
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
@@ -2618,9 +2618,9 @@
       "name" : "Audio Hijack",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audio-hijack/README.md",
       "stats" : {
-        "downloadCount" : 90,
-        "impressionCount" : 3104,
-        "viewCount" : 144
+        "downloadCount" : 91,
+        "impressionCount" : 3108,
+        "viewCount" : 146
       },
       "subtitle" : "Records audio from any application",
       "tintColor" : "C19A67",
@@ -3427,7 +3427,7 @@
       "sha256" : "2ccac9737ca194a9d4d3585b111ece2cd46416b27ef62d43a9e11300e08bc331",
       "stats" : {
         "downloadCount" : 2271,
-        "impressionCount" : 2690
+        "impressionCount" : 2691
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",

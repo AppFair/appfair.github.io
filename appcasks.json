@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8960,
-        "impressionCount" : 7672,
+        "impressionCount" : 7674,
         "viewCount" : 672
       },
       "subtitle" : "Multimedia player",
@@ -406,7 +406,7 @@
       "sha256" : "767cb16314e3869c42cff78db92bcad7a7faa861c70f97b1326fe3686c62b61f",
       "stats" : {
         "downloadCount" : 1163,
-        "impressionCount" : 2880,
+        "impressionCount" : 2881,
         "viewCount" : 183
       },
       "subtitle" : "Open-source video transcoder",
@@ -619,7 +619,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 157,
-        "impressionCount" : 5378,
+        "impressionCount" : 5380,
         "viewCount" : 565
       },
       "subtitle" : "iOS App Store alternative",
@@ -871,8 +871,8 @@
       "sha256" : "7b71880b22563d97d276727c3f394d12d9e28873b1c1604bd241f4b3e668cab0",
       "stats" : {
         "downloadCount" : 6446,
-        "impressionCount" : 4739,
-        "viewCount" : 470
+        "impressionCount" : 4741,
+        "viewCount" : 471
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
@@ -1031,7 +1031,7 @@
       "sha256" : "e5547fc01168270bd1ba5380cff610966da229e44f311138f12168cb2f34d3c8",
       "stats" : {
         "downloadCount" : 3826,
-        "impressionCount" : 2284,
+        "impressionCount" : 2285,
         "viewCount" : 147
       },
       "subtitle" : "Free and open-source image editor",
@@ -1235,7 +1235,7 @@
       "sha256" : "cac9b46405c93ff85581a559410ae7db82f9744fb7537f4461c8bfdffdd12745",
       "stats" : {
         "downloadCount" : 2511,
-        "impressionCount" : 2013,
+        "impressionCount" : 2015,
         "viewCount" : 136
       },
       "subtitle" : "Clipboard manager",
@@ -1691,7 +1691,7 @@
       "sha256" : "0e940c1c31213ea3c8c3cd3d56e893f74a595b3bae29456827f6c34173eabb1b",
       "stats" : {
         "downloadCount" : 1144,
-        "impressionCount" : 2067,
+        "impressionCount" : 2068,
         "viewCount" : 102
       },
       "subtitle" : "Multi-track audio editor and recorder",
@@ -1806,7 +1806,7 @@
       "sha256" : "9fea6c6a99700222caec3a26296e65aa1196f5d6474399c48410691bf6c80b94",
       "stats" : {
         "downloadCount" : 943,
-        "impressionCount" : 1840,
+        "impressionCount" : 1842,
         "viewCount" : 128
       },
       "subtitle" : "PDF reader and note-taking application",
@@ -1856,7 +1856,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 909,
-        "impressionCount" : 3376,
+        "impressionCount" : 3378,
         "viewCount" : 291
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -1967,7 +1967,7 @@
       "sha256" : "8e66c73ebd5d97bbe2b79e27bdfd3f06299edb7f941246ea52cc32883917df12",
       "stats" : {
         "downloadCount" : 620,
-        "impressionCount" : 3650,
+        "impressionCount" : 3652,
         "viewCount" : 100
       },
       "subtitle" : "Web debugging Proxy application",
@@ -2011,7 +2011,7 @@
       "sha256" : "7b41200f63ab17ff92b8e1ea4c313e5fbca3acb55a271ff052b1275476d38483",
       "stats" : {
         "downloadCount" : 540,
-        "impressionCount" : 2609,
+        "impressionCount" : 2611,
         "viewCount" : 121
       },
       "subtitle" : "Home media player",
@@ -2061,8 +2061,8 @@
       ],
       "sha256" : "bbfd7b71c5be557c0c23467978e6bf892115dc08584e3e6801b110e6df8ddc89",
       "stats" : {
-        "downloadCount" : 516,
-        "impressionCount" : 4034
+        "downloadCount" : 517,
+        "impressionCount" : 4036
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2084,7 +2084,7 @@
       "sha256" : "addab784af18bafa303340e754c00084c126e61c3d5b93006f8e6d602f838203",
       "stats" : {
         "downloadCount" : 503,
-        "impressionCount" : 2253,
+        "impressionCount" : 2254,
         "viewCount" : 201
       },
       "subtitle" : "Photography workflow application and raw developer",
@@ -3154,7 +3154,7 @@
       "sha256" : "536e2a4beb637e4cb97a9f258a709e1c63f497a9f4a70ea206f1ef5fc7bb373e",
       "stats" : {
         "downloadCount" : 5411,
-        "impressionCount" : 1535
+        "impressionCount" : 1536
       },
       "subtitle" : "Enable Windows-like alt-tab",
       "tintColor" : "49477D",
@@ -3346,7 +3346,7 @@
       "sha256" : "610c22fda19d558130e742f9c1d5a40587bc182967abdb2e47b4385fdaad1501",
       "stats" : {
         "downloadCount" : 2811,
-        "impressionCount" : 1404
+        "impressionCount" : 1406
       },
       "subtitle" : "Application uninstaller",
       "tintColor" : "B58F5C",
@@ -3386,7 +3386,7 @@
       "sha256" : "b50c416828005e1eec0dc8066c961efcc389e6be1a5a595541ea62d48d31a391",
       "stats" : {
         "downloadCount" : 2750,
-        "impressionCount" : 1240
+        "impressionCount" : 1241
       },
       "subtitle" : "Free and open-source media player",
       "tintColor" : "29445A",
@@ -3897,7 +3897,7 @@
       "sha256" : "717f0b80cd86e95d0425b3112e93ce667a13e4a2ef8dcaec9490f0608b617d11",
       "stats" : {
         "downloadCount" : 1148,
-        "impressionCount" : 901
+        "impressionCount" : 902
       },
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
@@ -4040,7 +4040,7 @@
       "sha256" : "2cdc6d47a6dcd6231b0911d6ac2305d186a9e78990b2cc55e523d0852778dcec",
       "stats" : {
         "downloadCount" : 1027,
-        "impressionCount" : 1115
+        "impressionCount" : 1116
       },
       "subtitle" : "Menu bar calendar",
       "tintColor" : "B9C2D5",
@@ -4607,7 +4607,7 @@
       "sha256" : "8dfd60f93657d7a5be014a468fe60fa4f1e602120f3d6ddeed5b34e7fe57f374",
       "stats" : {
         "downloadCount" : 687,
-        "impressionCount" : 1142
+        "impressionCount" : 1144
       },
       "subtitle" : "Menu bar tool to limit maximum charging percentage",
       "tintColor" : "857569",
@@ -5415,7 +5415,7 @@
       "sha256" : "dbd680cf534828efef8b8b5b9c3a0c954866ab933e3115d29e2a512b5733c8eb",
       "stats" : {
         "downloadCount" : 412,
-        "impressionCount" : 954
+        "impressionCount" : 956
       },
       "subtitle" : "File transfer application",
       "tintColor" : "9594CA",
@@ -5857,7 +5857,7 @@
       "sha256" : "44144350c68464d7232cb2860769e4ad430d656fdaaf7dec11a5488f136ba772",
       "stats" : {
         "downloadCount" : 336,
-        "impressionCount" : 658
+        "impressionCount" : 659
       },
       "subtitle" : "Adaptive brightness for external displays",
       "tintColor" : "F4E2B6",
@@ -6394,7 +6394,7 @@
       "sha256" : "4317fc2b5257e0f6a7d21a270fc3af143cb4a059e8cd854bdda8802bdf244f9c",
       "stats" : {
         "downloadCount" : 252,
-        "impressionCount" : 769
+        "impressionCount" : 770
       },
       "subtitle" : "Graphically shows disk usage within a file system",
       "tintColor" : "1B359C",
@@ -6456,7 +6456,7 @@
       "sha256" : "54159b511587341af10515adfb4dac19da8b608e7e1872859d7ad54d524a7939",
       "stats" : {
         "downloadCount" : 250,
-        "impressionCount" : 671
+        "impressionCount" : 673
       },
       "subtitle" : "Screen capturing tool",
       "tintColor" : "6994C8",
@@ -6931,7 +6931,7 @@
       "sha256" : "2a9ea3c7777560244535a370c1093f859643bafe772a9d272e11f9dd3efa0791",
       "stats" : {
         "downloadCount" : 196,
-        "impressionCount" : 732
+        "impressionCount" : 733
       },
       "subtitle" : "System and utility switches",
       "tintColor" : "AB87D8",
@@ -7074,7 +7074,7 @@
       "sha256" : "b9bd6702a5fc1548e9093bf99c1b5f898f8aa5e89dc346a18ce6c25ccbe239e7",
       "stats" : {
         "downloadCount" : 185,
-        "impressionCount" : 800
+        "impressionCount" : 801
       },
       "subtitle" : "Productivity app",
       "tintColor" : "909EE2",
@@ -11441,7 +11441,7 @@
       "name" : "AmorphousDiskMark",
       "stats" : {
         "downloadCount" : 58,
-        "impressionCount" : 805
+        "impressionCount" : 807
       },
       "subtitle" : "App to measure storage read/write performance",
       "tintColor" : "A4BD91",
@@ -12004,7 +12004,7 @@
       "sha256" : "6e62f4e8a5883f139a7259464e33039e7cd5c6040caf9dbb27d85f890b576c40",
       "stats" : {
         "downloadCount" : 52,
-        "impressionCount" : 1074
+        "impressionCount" : 1075
       },
       "subtitle" : "Third-party app to use Netflix outside the browser",
       "tintColor" : "C32525",
@@ -26440,7 +26440,7 @@
       "sha256" : "0762214c9f376c0d1ba6f44cc05ee58712f44f7179552d37ce64ea6ee08c1707",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 406
+        "impressionCount" : 407
       },
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
@@ -40960,7 +40960,7 @@
       "sha256" : "2a9c5488a0d026c162087a78d5131617e9a8bac033f53bb83338f9d970b49cf0",
       "stats" : {
         "downloadCount" : 322,
-        "impressionCount" : 145
+        "impressionCount" : 147
       },
       "subtitle" : "Set of tools to create, alter and inspect Matroska files (MKV)",
       "tintColor" : "665160",
@@ -42161,7 +42161,7 @@
       "sha256" : "140f5f3c6d02541bed685810cb4c6916231fe2385ad749dd4856e7c9f2dcd05c",
       "stats" : {
         "downloadCount" : 136,
-        "impressionCount" : 94
+        "impressionCount" : 96
       },
       "subtitle" : "Tool to show what is persistently installed on the computer",
       "tintColor" : "B4C285",
@@ -42581,7 +42581,7 @@
       "sha256" : "613e4e29bc27d973a9fd35780d534dbc07e072f7c41542439b9582a09a97505b",
       "stats" : {
         "downloadCount" : 115,
-        "impressionCount" : 74
+        "impressionCount" : 75
       },
       "subtitle" : "Jellyfin desktop client",
       "tintColor" : "1A264F",
@@ -43181,7 +43181,7 @@
       "sha256" : "604db17a56d03b3ccd8df19737c137991cd20fc123ad0fdc4b780751c931be83",
       "stats" : {
         "downloadCount" : 86,
-        "impressionCount" : 89
+        "impressionCount" : 90
       },
       "subtitle" : "Bittorrent client",
       "tintColor" : "4E98DE",

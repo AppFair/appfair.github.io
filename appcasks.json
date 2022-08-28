@@ -9148,19 +9148,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://contexts.co/releases/Contexts-3.8.1.dmg",
+      "downloadURL" : "https://contexts.co/releases/Contexts-3.9.0.dmg",
       "homepage" : "https://contexts.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-contexts/AppIcon.png",
       "localizedDescription" : "Allows switching between application windows",
       "name" : "Contexts",
-      "sha256" : "f4ca05c6abb14f6193b158645d74ca9d2672aabba7e07cc1c6cc3af18aa44907",
+      "sha256" : "c86a214d5ee7718453d0fb6442b3ef9a7fc02c5c1582b6d28ef0c2e621a6b6aa",
       "stats" : {
         "downloadCount" : 92,
         "impressionCount" : 581
       },
       "subtitle" : "Allows switching between application windows",
       "tintColor" : "0B8FF8",
-      "version" : "3.8.1,381"
+      "version" : "3.9.0",
+      "versionDate" : "2022-08-28T21:26:59Z"
     },
     {
       "beta" : false,
@@ -43977,7 +43978,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jprofiler/AppIcon.png",
       "localizedDescription" : "Java profiler",
       "name" : "JProfiler",
-      "sha256" : "bc9dfc4445277b3ca587bba613d32bf7f6bb67caa420b398b07dc14a7b05193c",
+      "sha256" : "5be457ead455967a10d9254595936b84ffb3b4797300404067b541c03262084b",
       "stats" : {
         "downloadCount" : 67,
         "impressionCount" : 66
@@ -74061,13 +74062,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "nordlocker",
-      "caption" : "NordLocker updated from 3.3.1,160 to 3.4.0,161",
-      "date" : "2022-08-26T04:25:13Z",
-      "identifier" : "release-nordlocker-3.4.0,161",
-      "title" : "New Release: NordLocker 3.4.0,161"
-    },
-    {
       "appID" : "qq",
       "caption" : "QQ updated from 6.8.1.21222_963 to 6.8.2.21241_966",
       "date" : "2022-08-26T06:10:07Z",
@@ -74759,6 +74753,13 @@
       "date" : "2022-08-28T19:46:02Z",
       "identifier" : "release-rapidweaver-8.10.3,21012",
       "title" : "New Release: RapidWeaver 8.10.3,21012"
+    },
+    {
+      "appID" : "contexts",
+      "caption" : "Contexts updated from 3.8.1,381 to 3.9.0",
+      "date" : "2022-08-28T21:27:00Z",
+      "identifier" : "release-contexts-3.9.0",
+      "title" : "New Release: Contexts 3.9.0"
     }
   ],
   "platform" : "macos",

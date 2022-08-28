@@ -62,8 +62,8 @@
       "size" : 9708981,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 144,
-        "impressionCount" : 48,
+        "downloadCount" : 147,
+        "impressionCount" : 50,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 7,
@@ -106,7 +106,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 60,
-        "impressionCount" : 123,
+        "impressionCount" : 124,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 14,
@@ -155,7 +155,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 115,
+        "impressionCount" : 116,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 21,
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4390,
+        "impressionCount" : 4391,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 717,
@@ -253,7 +253,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 2996,
+        "impressionCount" : 2997,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 226,
@@ -329,7 +329,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3324,
+        "impressionCount" : 3326,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 570,
@@ -367,7 +367,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 134,
+        "impressionCount" : 136,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -454,7 +454,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 9,
-        "impressionCount" : 43,
+        "impressionCount" : 44,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 7,
@@ -695,7 +695,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 20,
+        "impressionCount" : 21,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -959,7 +959,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2775,
+        "impressionCount" : 2776,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 157,
@@ -1184,7 +1184,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 23,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -1219,10 +1219,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 3,
-        "impressionCount" : 129,
+        "impressionCount" : 131,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 16,
+        "viewCount" : 17,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1258,7 +1258,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 115,
+        "impressionCount" : 116,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -1358,7 +1358,7 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
 
@@ -1404,54 +1404,6 @@
       "version" : "0.8.456",
       "versionDate" : "2022-08-28T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.455...0.8.456"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/Tune-Out-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_03-mac-2180x1464.png"
-      ],
-      "sha256" : "322f33645aa5ce576c4e757fe2dbe1914f3ec73e4c23f0932245113573eff4ec",
-      "size" : 9640860,
-      "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 2,
-        "impressionCount" : 24,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.455",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.454...0.8.455"
     },
     {
       "beta" : true,
@@ -1597,7 +1549,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 134,
+        "impressionCount" : 135,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1739,13 +1691,6 @@
       "title" : "New Release: Net Skip 0.0.45"
     },
     {
-      "appID" : "app.Tune-Out",
-      "caption" : "Tune Out updated from 0.8.454 to 0.8.455",
-      "date" : "2022-08-27T14:16:43Z",
-      "identifier" : "release-app.Tune-Out-0.8.455",
-      "title" : "New Release: Tune Out 0.8.455"
-    },
-    {
       "appID" : "app.Lottie-Motion",
       "caption" : "Lottie Motion updated from 0.0.95 to 0.0.96",
       "date" : "2022-08-27T14:16:43Z",
@@ -1758,6 +1703,13 @@
       "date" : "2022-08-27T15:17:16Z",
       "identifier" : "release-app.Sita-Sings-the-Blues-0.0.51",
       "title" : "New Release: Sita Sings the Blues 0.0.51"
+    },
+    {
+      "appID" : "app.Tune-Out",
+      "caption" : "Tune Out updated from 0.8.455 to 0.8.456",
+      "date" : "2022-08-28T20:19:57Z",
+      "identifier" : "release-app.Tune-Out-0.8.456",
+      "title" : "New Release: Tune Out 0.8.456"
     }
   ],
   "platform" : "macos"

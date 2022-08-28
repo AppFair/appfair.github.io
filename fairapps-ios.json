@@ -28,7 +28,7 @@
       "size" : 5804309,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 63,
+        "downloadCount" : 66,
         "impressionCount" : 118,
         "issueCount" : 0,
         "starCount" : 1,
@@ -40,6 +40,50 @@
       "version" : "0.9.263",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.262...0.9.263"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-iphone-1334x750.png"
+      ],
+      "sha256" : "23a83ecf71649f49ba98384b7640ed5e3fa3ea3733e5d87ea79e8ba148cfa589",
+      "size" : 5381927,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 42,
+        "impressionCount" : 2993,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 226,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.20",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
       "beta" : false,
@@ -85,50 +129,6 @@
       "version" : "0.2.44",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.43...0.2.44"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-iphone-1334x750.png"
-      ],
-      "sha256" : "23a83ecf71649f49ba98384b7640ed5e3fa3ea3733e5d87ea79e8ba148cfa589",
-      "size" : 5381927,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 41,
-        "impressionCount" : 2993,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 226,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.20",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
       "beta" : true,
@@ -339,7 +339,7 @@
       "size" : 7745123,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 6,
+        "downloadCount" : 7,
         "impressionCount" : 13,
         "issueCount" : 0,
         "starCount" : 0,
@@ -382,7 +382,7 @@
       "size" : 5844815,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 6,
+        "downloadCount" : 7,
         "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
@@ -499,6 +499,51 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/Tune-Out-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_03-iphone-1170x2532.png"
+      ],
+      "sha256" : "704759a1511ef4cd643db7b25e57aa22508023588fde4ee8a1905fc2d1834075",
+      "size" : 17972581,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 5,
+        "impressionCount" : 20,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.455",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.454...0.8.455"
     },
     {
       "beta" : true,
@@ -654,51 +699,6 @@
       "version" : "0.2.22",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.2.22"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/Tune-Out-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.455/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.455/screenshot_03-iphone-1170x2532.png"
-      ],
-      "sha256" : "704759a1511ef4cd643db7b25e57aa22508023588fde4ee8a1905fc2d1834075",
-      "size" : 17972581,
-      "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 4,
-        "impressionCount" : 20,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.455",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.454...0.8.455"
     },
     {
       "beta" : true,

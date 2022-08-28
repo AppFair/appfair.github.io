@@ -62,8 +62,8 @@
       "size" : 9708981,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 147,
-        "impressionCount" : 50,
+        "downloadCount" : 151,
+        "impressionCount" : 55,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 7,
@@ -106,7 +106,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 60,
-        "impressionCount" : 124,
+        "impressionCount" : 128,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 14,
@@ -155,7 +155,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 116,
+        "impressionCount" : 120,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 21,
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4391,
+        "impressionCount" : 4395,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 717,
@@ -253,10 +253,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 2997,
+        "impressionCount" : 3001,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 226,
+        "viewCount" : 227,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -329,7 +329,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3326,
+        "impressionCount" : 3330,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 570,
@@ -367,7 +367,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 136,
+        "impressionCount" : 141,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -454,7 +454,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 9,
-        "impressionCount" : 44,
+        "impressionCount" : 49,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 7,
@@ -695,7 +695,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 21,
+        "impressionCount" : 26,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -959,10 +959,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2776,
+        "impressionCount" : 2780,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 157,
+        "viewCount" : 158,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1184,10 +1184,10 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 24,
+        "impressionCount" : 27,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1219,10 +1219,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 3,
-        "impressionCount" : 131,
+        "impressionCount" : 136,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 17,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1258,7 +1258,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 116,
+        "impressionCount" : 121,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -1393,10 +1393,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -1475,10 +1475,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 50,
+        "impressionCount" : 54,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 8,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1510,10 +1510,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 110,
+        "impressionCount" : 114,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 13,
+        "viewCount" : 14,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1549,10 +1549,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 135,
+        "impressionCount" : 140,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

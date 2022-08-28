@@ -25,7 +25,7 @@
       "sha256" : "80f77b635402201cfbd082529cad46c48ca44a94cb0e9a9390eed28f975c6c9a",
       "stats" : {
         "downloadCount" : 2674,
-        "impressionCount" : 9881,
+        "impressionCount" : 9883,
         "viewCount" : 1055
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "e7671127eedc92135b55844dcb9888120e8fb37550f59b3722af2ddca23f4e15",
       "stats" : {
         "downloadCount" : 16621,
-        "impressionCount" : 8723,
+        "impressionCount" : 8724,
         "viewCount" : 950
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8960,
-        "impressionCount" : 7667,
+        "impressionCount" : 7669,
         "viewCount" : 672
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29293,
-        "impressionCount" : 8023,
+        "impressionCount" : 8024,
         "viewCount" : 675
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8314,
-        "impressionCount" : 8006,
+        "impressionCount" : 8008,
         "viewCount" : 654
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6619,
-        "impressionCount" : 8001,
+        "impressionCount" : 8002,
         "viewCount" : 523
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3371,
-        "impressionCount" : 8464,
+        "impressionCount" : 8466,
         "viewCount" : 577
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3347,
-        "impressionCount" : 7245,
+        "impressionCount" : 7247,
         "viewCount" : 545
       },
       "subtitle" : "Text editor",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2763,
-        "impressionCount" : 6259,
+        "impressionCount" : 6261,
         "viewCount" : 405
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2018,
-        "impressionCount" : 7996,
+        "impressionCount" : 7998,
         "viewCount" : 838
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1862,
-        "impressionCount" : 6877,
+        "impressionCount" : 6880,
         "viewCount" : 435
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1190,
-        "impressionCount" : 6342,
+        "impressionCount" : 6345,
         "viewCount" : 496
       },
       "subtitle" : "Open-source Markdown editor",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1186,
-        "impressionCount" : 8335,
+        "impressionCount" : 8337,
         "viewCount" : 483
       },
       "subtitle" : "3D creation suite",
@@ -444,7 +444,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 621,
-        "impressionCount" : 6475,
+        "impressionCount" : 6477,
         "viewCount" : 340
       },
       "subtitle" : "Text editor",
@@ -871,7 +871,7 @@
       "sha256" : "7b71880b22563d97d276727c3f394d12d9e28873b1c1604bd241f4b3e668cab0",
       "stats" : {
         "downloadCount" : 6445,
-        "impressionCount" : 4716,
+        "impressionCount" : 4718,
         "viewCount" : 464
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1318,7 +1318,7 @@
       "sha256" : "27b4683c9343333466fb78d0d9d53559179aabc1cc87470aeef20d5ef3efc321",
       "stats" : {
         "downloadCount" : 2466,
-        "impressionCount" : 2869,
+        "impressionCount" : 2870,
         "viewCount" : 138
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1382,7 +1382,7 @@
       "sha256" : "a1a964ab100ff92cbc5ce50c63699199050572474c2b1f34bec84de673d31a7f",
       "stats" : {
         "downloadCount" : 2403,
-        "impressionCount" : 3110,
+        "impressionCount" : 3111,
         "viewCount" : 214
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1856,7 +1856,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 909,
-        "impressionCount" : 3369,
+        "impressionCount" : 3370,
         "viewCount" : 291
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -3133,7 +3133,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6264,
-        "impressionCount" : 1283
+        "impressionCount" : 1285
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3241,7 +3241,7 @@
       "sha256" : "81d13ce362bf34ab2320fdeef22a4b97176f726cfb7ed00e5999b9ed289c11b4",
       "stats" : {
         "downloadCount" : 3165,
-        "impressionCount" : 1654
+        "impressionCount" : 1656
       },
       "subtitle" : "Standalone app for debugging React Native apps",
       "tintColor" : "8F8F8F",
@@ -3897,7 +3897,7 @@
       "sha256" : "717f0b80cd86e95d0425b3112e93ce667a13e4a2ef8dcaec9490f0608b617d11",
       "stats" : {
         "downloadCount" : 1148,
-        "impressionCount" : 896
+        "impressionCount" : 898
       },
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
@@ -4071,7 +4071,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 1007,
-        "impressionCount" : 1545
+        "impressionCount" : 1546
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -4638,7 +4638,7 @@
       "sha256" : "bc1a73b9cb4b4d316fa11572f43383f0f02fc7e6ba88bbed046cc1b074336862",
       "stats" : {
         "downloadCount" : 666,
-        "impressionCount" : 1588
+        "impressionCount" : 1589
       },
       "subtitle" : "Clipboard manager for developers",
       "tintColor" : "B72B32",
@@ -4763,7 +4763,7 @@
       "sha256" : "a1c1c5b1bdc42324db5be94a83c570c48a950129ee112ca91676c6e359ac5b22",
       "stats" : {
         "downloadCount" : 634,
-        "impressionCount" : 1743
+        "impressionCount" : 1745
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -5147,7 +5147,7 @@
       "sha256" : "50bb016602e8e792a8a6b53053a4ec4129ca89926a44fc1ac898f3d11102aada",
       "stats" : {
         "downloadCount" : 479,
-        "impressionCount" : 1502
+        "impressionCount" : 1504
       },
       "subtitle" : "Utility to extend trackpad functionality",
       "tintColor" : "000000",
@@ -5442,7 +5442,7 @@
       "sha256" : "f55fbec0b5479bd2dffdcce047410ea4c29577795ad638937e1e24332309bce7",
       "stats" : {
         "downloadCount" : 399,
-        "impressionCount" : 1530
+        "impressionCount" : 1531
       },
       "subtitle" : "Shows the next meeting in the menu bar",
       "tintColor" : "47484B",
@@ -5493,7 +5493,7 @@
       "sha256" : "09b036f1e934472d55a0417e2a3ce736559caf81a38537c94ab2c6331f258851",
       "stats" : {
         "downloadCount" : 393,
-        "impressionCount" : 1491
+        "impressionCount" : 1493
       },
       "subtitle" : "Status monitoring",
       "tintColor" : "454545",
@@ -5540,7 +5540,7 @@
       "sha256" : "11af1d2367e966dc4ea829cbf39cc7c869af50d687708600b188024539180ec8",
       "stats" : {
         "downloadCount" : 382,
-        "impressionCount" : 1406
+        "impressionCount" : 1407
       },
       "subtitle" : "Finder Toolbar app to open the current directory in Terminal or Editor",
       "tintColor" : "42A5F1",
@@ -5816,7 +5816,7 @@
       "sha256" : "1d940ebd00e52e21435fcbe3b03829d21674bb9d956e6dc9e93f7a9be799f54f",
       "stats" : {
         "downloadCount" : 338,
-        "impressionCount" : 1811
+        "impressionCount" : 1812
       },
       "subtitle" : "Open-source browser prompter",
       "tintColor" : "364A62",
@@ -5857,7 +5857,7 @@
       "sha256" : "44144350c68464d7232cb2860769e4ad430d656fdaaf7dec11a5488f136ba772",
       "stats" : {
         "downloadCount" : 336,
-        "impressionCount" : 654
+        "impressionCount" : 655
       },
       "subtitle" : "Adaptive brightness for external displays",
       "tintColor" : "F4E2B6",
@@ -6538,7 +6538,7 @@
       "sha256" : "dbfb6da1f7a3b5852f989246305ccd3490b04055ccf9127b7a9b60fa41baf123",
       "stats" : {
         "downloadCount" : 240,
-        "impressionCount" : 554
+        "impressionCount" : 555
       },
       "subtitle" : "To-do & task list manager",
       "tintColor" : "E8E9F0",
@@ -6661,7 +6661,7 @@
       "sha256" : "7495e5b76908fa1bdcf63398c99a180ed973366215ff0d27f9e34010be28ea89",
       "stats" : {
         "downloadCount" : 218,
-        "impressionCount" : 452
+        "impressionCount" : 453
       },
       "subtitle" : "Temperature monitoring, fan control and diagnostics",
       "tintColor" : "3886C2",
@@ -7066,20 +7066,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://aptonic.com/releases/Dropzone-4.4.6.zip",
+      "downloadURL" : "https://aptonic.com/releases/Dropzone-4.4.7.zip",
       "homepage" : "https://aptonic.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dropzone/AppIcon.png",
       "localizedDescription" : "Productivity app",
       "name" : "Dropzone",
-      "sha256" : "584d61a9f89a34e6e63126960e4642d25fdfd67068d61b933694b2eb456a72ac",
+      "sha256" : "b9bd6702a5fc1548e9093bf99c1b5f898f8aa5e89dc346a18ce6c25ccbe239e7",
       "stats" : {
         "downloadCount" : 185,
         "impressionCount" : 797
       },
       "subtitle" : "Productivity app",
       "tintColor" : "909EE2",
-      "version" : "4.4.6,1828",
-      "versionDate" : "2022-08-23T00:00:00Z"
+      "version" : "4.4.7,1838",
+      "versionDate" : "2022-08-28T06:25:06Z"
     },
     {
       "beta" : false,
@@ -7498,7 +7498,7 @@
       "sha256" : "30019f469be6dbaa80fe513967b41483b36d4719c1a7e6c69529db2b30681614",
       "stats" : {
         "downloadCount" : 156,
-        "impressionCount" : 537
+        "impressionCount" : 539
       },
       "subtitle" : "TeX previewer",
       "tintColor" : "9AAAAE",
@@ -10077,7 +10077,7 @@
       "sha256" : "b53d20f2a738fc2a4a8f8d0037d43172ae185eda2676bf82b660919038d5297d",
       "stats" : {
         "downloadCount" : 78,
-        "impressionCount" : 577
+        "impressionCount" : 579
       },
       "subtitle" : "GUI based on Clash",
       "tintColor" : "BAC3D0",
@@ -13598,7 +13598,7 @@
       "sha256" : "edf84172d13b7e04da512a754fd78a73c5b47d70776ad6493ca35e2bb3fdb5d1",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 766
+        "impressionCount" : 767
       },
       "subtitle" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "tintColor" : "71B2CE",
@@ -26432,20 +26432,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.188.2/Hepta-0.188.2-mac.zip",
+      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.190.0/Hepta-0.190.0-mac.zip",
       "homepage" : "https://heptabase.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hepta/AppIcon.png",
       "localizedDescription" : "Note-taking tool for visual learning",
       "name" : "Hepta",
-      "sha256" : "7f0da05f01a3da8b346ff161484b1c701a94ee8cf1813415734a81f66ec2d017",
+      "sha256" : "0762214c9f376c0d1ba6f44cc05ee58712f44f7179552d37ce64ea6ee08c1707",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 403
       },
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
-      "version" : "0.188.2",
-      "versionDate" : "2022-08-23T00:00:00Z"
+      "version" : "0.190.0",
+      "versionDate" : "2022-08-28T06:25:06Z"
     },
     {
       "beta" : false,
@@ -46861,7 +46861,7 @@
       "sha256" : "c0840985ce6a8ff8e90dc0d92137af57fb9229b1b53ad8728faf847f464f288f",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 90
+        "impressionCount" : 91
       },
       "subtitle" : "PDF file editor",
       "tintColor" : "847C77",
@@ -74078,20 +74078,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "cloud-pbx",
-      "caption" : "Cloud PBX 22.9.33.25 released",
-      "date" : "2022-08-26T01:15:50Z",
-      "identifier" : "release-cloud-pbx-22.9.33.25",
-      "title" : "New Release: Cloud PBX 22.9.33.25"
-    },
-    {
-      "appID" : "rectangle",
-      "caption" : "Rectangle updated from 0.57,63 to 0.58,64",
-      "date" : "2022-08-26T04:25:10Z",
-      "identifier" : "release-rectangle-0.58,64",
-      "title" : "New Release: Rectangle 0.58,64"
-    },
-    {
       "appID" : "pgadmin4",
       "caption" : "pgAdmin4 updated from 6.12 to 6.13",
       "date" : "2022-08-26T04:25:10Z",
@@ -74776,6 +74762,20 @@
       "date" : "2022-08-28T01:14:10Z",
       "identifier" : "release-voicemac-0.4.1",
       "title" : "New Release: VoiceMac 0.4.1"
+    },
+    {
+      "appID" : "dropzone",
+      "caption" : "Dropzone updated from 4.4.6,1828 to 4.4.7,1838",
+      "date" : "2022-08-28T06:25:07Z",
+      "identifier" : "release-dropzone-4.4.7,1838",
+      "title" : "New Release: Dropzone 4.4.7,1838"
+    },
+    {
+      "appID" : "hepta",
+      "caption" : "Hepta updated from 0.188.2 to 0.190.0",
+      "date" : "2022-08-28T06:25:08Z",
+      "identifier" : "release-hepta-0.190.0",
+      "title" : "New Release: Hepta 0.190.0"
     }
   ],
   "platform" : "macos",

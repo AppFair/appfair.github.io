@@ -338,7 +338,7 @@ tr:nth-child(even) {
 | [``Clean-me``](https://github.com/Kevin-De-Koninck/Clean-Me) | ``1.4.2`` | `191` |  |  | `804` |  |  | `0` | `public.app-category.utilities` |
 | [``gSwitch``](https://codyschrank.github.io/gSwitch/) | ``1.9.7`` | `189` |  |  | `478` |  |  | `0` | `public.app-category.utilities` |
 | [``Appium Inspector GUI``](https://github.com/appium/appium-inspector/) | ``2022.8.1`` | `188` | `2022-08-25T00:00:00Z` |  | `783` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Dropzone``](https://aptonic.com/) | ``4.4.7,1838`` | `185` | `2022-08-28T06:25:06Z` |  | `797` |  |  | `0` | `public.app-category.productivity` |
+| [``Dropzone``](https://aptonic.com/) | ``4.4.7,1838`` | `185` | `2022-08-28T00:00:00Z` |  | `797` |  |  | `0` | `public.app-category.productivity` |
 | [``YouTube Downloader``](https://github.com/DenBeke/YouTube-Downloader-for-macOS) | ``0.10`` | `183` | `2022-08-21T00:00:00Z` |  | `431` |  |  | `0` | `public.app-category.utilities` |
 | [``TradingView Desktop``](https://www.tradingview.com/desktop/) | ``1.0.15`` | `179` | `2022-08-19T00:00:00Z` |  | `783` |  |  | `0` | `public.app-category.finance` |
 | [``ClickUp``](https://clickup.com/) | ``3.0.6`` | `177` |  |  | `530` |  |  | `0` | `public.app-category.developer-tools` |
@@ -1290,7 +1290,7 @@ tr:nth-child(even) {
 | [``Tap Forms 5``](https://www.tapforms.com/) | ``5.3.31,hp9MThmBTRy0r4bUK…`` | `8` | `2022-08-19T00:00:00Z` |  | `594` |  |  | `0` | `public.app-category.business` |
 | [``The Time Machine Mechani``](https://eclecticlight.co/consolation-t2m2-and-log-utilities/) | ``1.19,2021.09`` | `8` |  |  | `156` |  |  | `0` | `public.app-category.utilities` |
 | [``Transocks``](https://www.transocks.com/) | ``3.0.9,872`` | `8` |  |  | `171` |  |  | `0` | `public.app-category.productivity` |
-| [``Hepta``](https://heptabase.com/) | ``0.190.0`` | `8` | `2022-08-28T06:25:06Z` |  | `403` |  |  | `0` | `public.app-category.productivity` |
+| [``Hepta``](https://heptabase.com/) | ``0.190.0`` | `8` | `2022-08-28T00:00:00Z` |  | `403` |  |  | `0` | `public.app-category.productivity` |
 | [``A Slower Speed of Light``](http://gamelab.mit.edu/games/a-slower-speed-of-light/) | ``2020`` | `7` |  |  | `1100` |  |  | `0` | `public.app-category.games` |
 | [``Alchemy``](https://al.chemy.org/) | ``008`` | `7` |  |  | `488` |  |  | `0` | `public.app-category.utilities` |
 | [``almighty``](https://onmyway133.com/almighty/) | ``2.3.9,50`` | `7` | `2022-08-25T00:00:00Z` |  | `616` |  |  | `0` | `public.app-category.productivity` |

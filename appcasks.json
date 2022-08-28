@@ -3815,8 +3815,8 @@
       "name" : "Facebook Flipper",
       "sha256" : "7e117084853f12e972aedf24b1554bfe61b89f8b58124fe2ab8710f7db6ec21b",
       "stats" : {
-        "downloadCount" : 1294,
-        "impressionCount" : 837
+        "downloadCount" : 1295,
+        "impressionCount" : 841
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
       "tintColor" : "8E76B6",
@@ -3885,6 +3885,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "mounty",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://mounty.app/releases/Mounty-1.15.dmg",
+      "homepage" : "https://mounty.app/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mounty/AppIcon.png",
+      "localizedDescription" : "Re-mounts write-protected NTFS volumes",
+      "name" : "Mounty for NTFS",
+      "sha256" : "8c678c87aa609a7222ca229acb3a650d4a4e2db9fa9ce89a09a9d45ea1b19af1",
+      "stats" : {
+        "downloadCount" : 1149,
+        "impressionCount" : 620
+      },
+      "subtitle" : "Re-mounts write-protected NTFS volumes",
+      "tintColor" : "AECCE3",
+      "version" : "1.15",
+      "versionDate" : "2022-08-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "librewolf",
       "categories" : [
         "public.app-category.productivity"
@@ -3903,27 +3924,6 @@
       "tintColor" : "54C6FD",
       "version" : "104.0,1,c8cea6d6d7e1ac90d9a7df3d9f33a46d",
       "versionDate" : "2022-08-27T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "mounty",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://mounty.app/releases/Mounty-1.15.dmg",
-      "homepage" : "https://mounty.app/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mounty/AppIcon.png",
-      "localizedDescription" : "Re-mounts write-protected NTFS volumes",
-      "name" : "Mounty for NTFS",
-      "sha256" : "8c678c87aa609a7222ca229acb3a650d4a4e2db9fa9ce89a09a9d45ea1b19af1",
-      "stats" : {
-        "downloadCount" : 1148,
-        "impressionCount" : 617
-      },
-      "subtitle" : "Re-mounts write-protected NTFS volumes",
-      "tintColor" : "AECCE3",
-      "version" : "1.15",
-      "versionDate" : "2022-08-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6048,8 +6048,8 @@
       "name" : "Responsively",
       "sha256" : "d3ebafd5bce9a0d6ff680e196ba1fb0325f40ebffb998c284ba647d64748ea67",
       "stats" : {
-        "downloadCount" : 297,
-        "impressionCount" : 428
+        "downloadCount" : 298,
+        "impressionCount" : 432
       },
       "subtitle" : "Modified browser that helps in responsive web development",
       "tintColor" : "C1C2C2",
@@ -13599,7 +13599,7 @@
       "sha256" : "edf84172d13b7e04da512a754fd78a73c5b47d70776ad6493ca35e2bb3fdb5d1",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 774
+        "impressionCount" : 776
       },
       "subtitle" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "tintColor" : "71B2CE",
@@ -33667,19 +33667,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/realmacsoftware/RapidWeaver8-releases/releases/download/8.9.3-%2820888%29/RapidWeaver8.zip",
+      "downloadURL" : "https://dl.devant.io/v1/3c53887f-427a-4af7-9144-ee16178c62f4/21012/RapidWeaver.zip",
       "homepage" : "https://www.realmacsoftware.com/rapidweaver/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rapidweaver/AppIcon.png",
       "localizedDescription" : "Web design software",
       "name" : "RapidWeaver",
-      "sha256" : "cf739d2819de327ca77946d2348735aaad72451d85683f1facb606325e8cf740",
+      "sha256" : "31841216da4f59ff19745397a735b4ebd5000b936257812b1941a6fe8e4a40a0",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 186
       },
       "subtitle" : "Web design software",
       "tintColor" : "86A8DF",
-      "version" : "8.9.3,20888"
+      "version" : "8.10.3,21012",
+      "versionDate" : "2022-08-28T19:46:01Z"
     },
     {
       "beta" : false,
@@ -50914,7 +50915,7 @@
       "sha256" : "5dffdce0206e62fc3fd62078578f0bb04366d87cb85250150b4d02499079eb25",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 133
+        "impressionCount" : 135
       },
       "subtitle" : "Web browser",
       "tintColor" : "72BBEC",
@@ -55169,26 +55170,6 @@
       "subtitle" : "Web browser",
       "tintColor" : "A58CAC",
       "version" : "2.1.4.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "giteye",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.collab.net/sites/default/files/downloads/GitEye-2.2.0-macosx.x86_64.zip",
-      "homepage" : "https://www.collab.net/products/giteye",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-giteye/AppIcon.png",
-      "localizedDescription" : "Git client",
-      "name" : "CollabNet GitEye",
-      "sha256" : "0bee4971bc495b73832fb46719231eeff10db690c159fa12c0828634ee86b1c3",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 83
-      },
-      "subtitle" : "Git client",
-      "tintColor" : "BEC5CD",
-      "version" : "2.2.0"
     },
     {
       "beta" : false,
@@ -74080,13 +74061,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "pokerstars",
-      "caption" : "PokerStars updated from 52.546 to 53.189",
-      "date" : "2022-08-26T04:25:12Z",
-      "identifier" : "release-pokerstars-53.189",
-      "title" : "New Release: PokerStars 53.189"
-    },
-    {
       "appID" : "nordlocker",
       "caption" : "NordLocker updated from 3.3.1,160 to 3.4.0,161",
       "date" : "2022-08-26T04:25:13Z",
@@ -74778,6 +74752,13 @@
       "date" : "2022-08-28T18:25:51Z",
       "identifier" : "release-metasploit-6.2.15,20220828103152",
       "title" : "New Release: Metasploit Framework 6.2.15,20220828103152"
+    },
+    {
+      "appID" : "rapidweaver",
+      "caption" : "RapidWeaver updated from 8.9.3,20888 to 8.10.3,21012",
+      "date" : "2022-08-28T19:46:02Z",
+      "identifier" : "release-rapidweaver-8.10.3,21012",
+      "title" : "New Release: RapidWeaver 8.10.3,21012"
     }
   ],
   "platform" : "macos",

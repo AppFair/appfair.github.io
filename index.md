@@ -1553,7 +1553,7 @@ Alternative fair-ground models are possible by simply mirroring the structure an
 Many of the App Fair's policies are simply flags that can be set on the [fairtool](#fairtool) `fair validate` action that is run during the `integrate` stage.
 The bulk of the fair-ground's logic, as well as the runtime code for fair-ground integration, is in the [Fair](https://github.com/fair-ground/Fair) library, which you can customize to handle your own implementation's policies, restrictions, and commerce needs.
 
-## Can I run a fair-ground on a self-hosted GitHub runner?
+## Can I run a fair-ground on a self-hosted runner?
 
 In theory, yes.
 
@@ -1562,7 +1562,7 @@ In theory, yes.
 The catalog of a fair-ground is limited to 500,000 apps.
 When the number of released apps exceeds that number, the 500K most recently-pushed app integrations will be the ones that are included in the catalog.
 
-This limitation is based on [GitHub's API rate limit](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting), which is used by the catalog generation process.
+This limit is a consequence of [GitHub's API rate limit](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting), which is used by the catalog generation process to scan and re-create the catalog periodically.
 
 ## Troubleshooting
 

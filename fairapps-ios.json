@@ -29,7 +29,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 70,
-        "impressionCount" : 128,
+        "impressionCount" : 130,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 14,
@@ -73,10 +73,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 46,
-        "impressionCount" : 3001,
+        "impressionCount" : 3002,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 227,
+        "viewCount" : 228,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -118,7 +118,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 120,
+        "impressionCount" : 122,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 21,
@@ -167,7 +167,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 11,
-        "impressionCount" : 17,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -384,7 +384,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2780,
+        "impressionCount" : 2781,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 158,
@@ -533,7 +533,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 5,
-        "impressionCount" : 6,
+        "impressionCount" : 8,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -871,10 +871,10 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 2,
-        "impressionCount" : 26,
+        "impressionCount" : 29,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -915,7 +915,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 27,
+        "impressionCount" : 29,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -950,7 +950,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 54,
+        "impressionCount" : 56,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1001,7 +1001,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 49,
+        "impressionCount" : 51,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 7,
@@ -1037,7 +1037,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 141,
+        "impressionCount" : 143,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1072,7 +1072,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 136,
+        "impressionCount" : 139,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 18,
@@ -1107,10 +1107,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 114,
+        "impressionCount" : 118,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1142,10 +1142,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 140,
+        "impressionCount" : 143,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1177,7 +1177,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 121,
+        "impressionCount" : 124,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,

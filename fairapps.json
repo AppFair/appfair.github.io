@@ -62,11 +62,11 @@
       "size" : 9708981,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 153,
-        "impressionCount" : 58,
+        "downloadCount" : 154,
+        "impressionCount" : 63,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 7,
+        "viewCount" : 8,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -106,7 +106,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 63,
-        "impressionCount" : 128,
+        "impressionCount" : 130,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 14,
@@ -155,7 +155,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 120,
+        "impressionCount" : 122,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 21,
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4395,
+        "impressionCount" : 4396,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 717,
@@ -253,10 +253,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3001,
+        "impressionCount" : 3002,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 227,
+        "viewCount" : 228,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -329,7 +329,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3330,
+        "impressionCount" : 3331,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 570,
@@ -367,7 +367,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 141,
+        "impressionCount" : 143,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -415,7 +415,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 12,
-        "impressionCount" : 49,
+        "impressionCount" : 51,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 7,
@@ -468,7 +468,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 11,
-        "impressionCount" : 17,
+        "impressionCount" : 18,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -695,10 +695,10 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 26,
+        "impressionCount" : 29,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -819,7 +819,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 5,
-        "impressionCount" : 6,
+        "impressionCount" : 8,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -1007,7 +1007,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2780,
+        "impressionCount" : 2781,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 158,
@@ -1232,7 +1232,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 27,
+        "impressionCount" : 29,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -1267,7 +1267,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 3,
-        "impressionCount" : 136,
+        "impressionCount" : 139,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 18,
@@ -1306,7 +1306,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 121,
+        "impressionCount" : 124,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -1359,10 +1359,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 40,
+        "impressionCount" : 41,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "Query Like a Boss",
@@ -1475,7 +1475,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 54,
+        "impressionCount" : 56,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1510,10 +1510,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 114,
+        "impressionCount" : 118,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1549,10 +1549,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 140,
+        "impressionCount" : 143,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

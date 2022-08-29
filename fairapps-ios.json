@@ -28,8 +28,8 @@
       "size" : 5804309,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 70,
-        "impressionCount" : 137,
+        "downloadCount" : 71,
+        "impressionCount" : 145,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 15,
@@ -72,8 +72,8 @@
       "size" : 5381927,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 46,
-        "impressionCount" : 3009,
+        "downloadCount" : 47,
+        "impressionCount" : 3017,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 228,
@@ -118,10 +118,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 128,
+        "impressionCount" : 134,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -129,6 +129,50 @@
       "version" : "0.2.44",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.43...0.2.44"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_02-iphone-1334x750.png"
+      ],
+      "sha256" : "0573d15343e0bd01904086d36c7b4f6ff5123423c830e6f554a14ec99cd89f8e",
+      "size" : 5844815,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 13,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.22",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
     },
     {
       "beta" : false,
@@ -166,8 +210,8 @@
       "size" : 7745123,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 11,
-        "impressionCount" : 21,
+        "downloadCount" : 12,
+        "impressionCount" : 26,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -177,50 +221,6 @@
       "version" : "0.0.45",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_02-iphone-1334x750.png"
-      ],
-      "sha256" : "0573d15343e0bd01904086d36c7b4f6ff5123423c830e6f554a14ec99cd89f8e",
-      "size" : 5844815,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 11,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.22",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
     },
     {
       "beta" : true,
@@ -349,7 +349,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 9,
-        "impressionCount" : 1642,
+        "impressionCount" : 1645,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -384,7 +384,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2788,
+        "impressionCount" : 2793,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 159,
@@ -394,6 +394,51 @@
       "version" : "0.0.16",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Tune-Out-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_03-iphone-1170x2532.png"
+      ],
+      "sha256" : "bb7349518d901ce28dc8f01f0a50aa7c48a99184a52920fb782a6b77b0cce4f6",
+      "size" : 17972644,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 6,
+        "impressionCount" : 22,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 4,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.456",
+      "versionDate" : "2022-08-28T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.455...0.8.456"
     },
     {
       "beta" : true,
@@ -454,7 +499,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1982,
+        "impressionCount" : 1984,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -489,7 +534,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 2205,
+        "impressionCount" : 2207,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 138,
@@ -499,51 +544,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Tune-Out-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_03-iphone-1170x2532.png"
-      ],
-      "sha256" : "bb7349518d901ce28dc8f01f0a50aa7c48a99184a52920fb782a6b77b0cce4f6",
-      "size" : 17972644,
-      "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 5,
-        "impressionCount" : 16,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 4,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.456",
-      "versionDate" : "2022-08-28T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.455...0.8.456"
     },
     {
       "beta" : true,
@@ -618,7 +618,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1392,
+        "impressionCount" : 1395,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -653,7 +653,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 698,
+        "impressionCount" : 702,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -688,7 +688,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 640,
+        "impressionCount" : 643,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -724,7 +724,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1915,
+        "impressionCount" : 1918,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -760,7 +760,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 1032,
+        "impressionCount" : 1035,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -795,7 +795,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 4,
-        "impressionCount" : 643,
+        "impressionCount" : 645,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 45,
@@ -830,7 +830,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 618,
+        "impressionCount" : 619,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -871,7 +871,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 2,
-        "impressionCount" : 36,
+        "impressionCount" : 44,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -915,7 +915,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 33,
+        "impressionCount" : 41,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -950,10 +950,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 60,
+        "impressionCount" : 67,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 10,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1001,7 +1001,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 56,
+        "impressionCount" : 65,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 8,
@@ -1037,7 +1037,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 148,
+        "impressionCount" : 157,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 13,
@@ -1072,7 +1072,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 146,
+        "impressionCount" : 150,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1107,10 +1107,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 121,
+        "impressionCount" : 127,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 16,
+        "viewCount" : 17,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1142,10 +1142,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 148,
+        "impressionCount" : 157,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1177,7 +1177,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 129,
+        "impressionCount" : 135,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,

@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.112`` | `190` | `2022-08-26T00:00:00Z` | `9.7 MB` | `85` | `10` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.112`` | `192` | `2022-08-26T00:00:00Z` | `9.7 MB` | `85` | `10` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `64` | `2022-08-24T00:00:00Z` | `2.3 MB` | `152` | `16` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `45` | `2022-08-24T00:00:00Z` | `2.3 MB` | `141` | `24` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `39` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4416` | `718` | `1` | `0` |  |
@@ -56,6 +56,7 @@ tr:nth-child(even) {
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.20`` | `3` | `2022-08-24T00:00:00Z` | `2.3 MB` | `140` | `19` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.10`` | `3` | `2022-08-24T00:00:00Z` | `8.2 MB` | `54` | `7` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `645` | `45` | `0` | `0` |  |
+| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.8β`` | `2` | `2022-08-29T00:00:00Z` | `2.2 MB` | `1` | `1` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `2` | `2022-08-27T00:00:00Z` | `2.3 MB` | `1` | `1` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `2.2 MB` | `75` | `12` | `0` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `2` | `2022-08-24T00:00:00Z` | `2.3 MB` | `133` | `17` | `0` | `0` |  |

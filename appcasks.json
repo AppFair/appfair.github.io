@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28879,
-        "impressionCount" : 8081,
+        "impressionCount" : 8082,
         "viewCount" : 681
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -148,9 +148,9 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/screenshot_02-mac-2642x1926.png"
       ],
       "stats" : {
-        "downloadCount" : 8261,
-        "impressionCount" : 8049,
-        "viewCount" : 655
+        "downloadCount" : 8262,
+        "impressionCount" : 8050,
+        "viewCount" : 656
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6585,
-        "impressionCount" : 8040,
+        "impressionCount" : 8041,
         "viewCount" : 526
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3343,
-        "impressionCount" : 8512,
+        "impressionCount" : 8513,
         "viewCount" : 581
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2004,
-        "impressionCount" : 8041,
+        "impressionCount" : 8042,
         "viewCount" : 844
       },
       "subtitle" : "File archiver",
@@ -355,7 +355,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1185,
-        "impressionCount" : 8373,
+        "impressionCount" : 8374,
         "viewCount" : 485
       },
       "subtitle" : "3D creation suite",
@@ -406,7 +406,7 @@
       "sha256" : "767cb16314e3869c42cff78db92bcad7a7faa861c70f97b1326fe3686c62b61f",
       "stats" : {
         "downloadCount" : 1155,
-        "impressionCount" : 2899,
+        "impressionCount" : 2900,
         "viewCount" : 183
       },
       "subtitle" : "Open-source video transcoder",
@@ -473,7 +473,7 @@
       ],
       "stats" : {
         "downloadCount" : 489,
-        "impressionCount" : 6073,
+        "impressionCount" : 6074,
         "viewCount" : 472
       },
       "subtitle" : "Sandbox construction video game",
@@ -505,7 +505,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 382,
-        "impressionCount" : 6673,
+        "impressionCount" : 6674,
         "viewCount" : 487
       },
       "subtitle" : "Text, code, and markup editor",
@@ -619,7 +619,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 157,
-        "impressionCount" : 5405,
+        "impressionCount" : 5406,
         "viewCount" : 568
       },
       "subtitle" : "iOS App Store alternative",
@@ -761,7 +761,7 @@
       "sha256" : "b2f4ad8fea37dfb7d9147f169a9ceab71d7d0d12ff912057c60b58c0e91aed35",
       "stats" : {
         "downloadCount" : 25518,
-        "impressionCount" : 4245,
+        "impressionCount" : 4246,
         "viewCount" : 297
       },
       "subtitle" : "App to build and share containerized applications and microservices",
@@ -922,7 +922,7 @@
       "subtitle" : "Application launcher and productivity software",
       "tintColor" : "3D333E",
       "version" : "5.0.2,2073",
-      "versionDate" : "2022-08-29T16:29:28Z"
+      "versionDate" : "2022-08-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1008,7 +1008,7 @@
       "sha256" : "fc7e8409f24b5bec4cebf8fd61bbf57069b5acf5eaa69c0db3100b80b26a18fc",
       "stats" : {
         "downloadCount" : 3998,
-        "impressionCount" : 4306,
+        "impressionCount" : 4307,
         "viewCount" : 266
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1496,7 +1496,7 @@
       "sha256" : "7f29732f3508cb0ce4c5859b0ecc32e6fa2f2fdb54ab25a66865fbe78c50a0b7",
       "stats" : {
         "downloadCount" : 1992,
-        "impressionCount" : 3805,
+        "impressionCount" : 3806,
         "viewCount" : 179
       },
       "subtitle" : "E-books management software",
@@ -2086,7 +2086,7 @@
       "sha256" : "bbfd7b71c5be557c0c23467978e6bf892115dc08584e3e6801b110e6df8ddc89",
       "stats" : {
         "downloadCount" : 509,
-        "impressionCount" : 4056
+        "impressionCount" : 4057
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2286,7 +2286,7 @@
       "sha256" : "2c90eb6b779938f7a79dc7f6ef52da291b3c063e14ad182a0623ba2ea2ac3fb2",
       "stats" : {
         "downloadCount" : 294,
-        "impressionCount" : 3292,
+        "impressionCount" : 3293,
         "viewCount" : 159
       },
       "subtitle" : "Matrix collaboration client",
@@ -2621,7 +2621,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audio-hijack/README.md",
       "stats" : {
         "downloadCount" : 90,
-        "impressionCount" : 3120,
+        "impressionCount" : 3121,
         "viewCount" : 148
       },
       "subtitle" : "Records audio from any application",
@@ -3429,7 +3429,7 @@
       "sha256" : "2ccac9737ca194a9d4d3585b111ece2cd46416b27ef62d43a9e11300e08bc331",
       "stats" : {
         "downloadCount" : 2246,
-        "impressionCount" : 2699
+        "impressionCount" : 2700
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
@@ -6113,7 +6113,7 @@
       "sha256" : "8cee7b6d6e53cae4349a328ab12c03a062e9d9367577e9b5e7d7e5546695acb7",
       "stats" : {
         "downloadCount" : 284,
-        "impressionCount" : 911
+        "impressionCount" : 912
       },
       "subtitle" : "Hex editor focussing on speed",
       "tintColor" : "C6CBCC",
@@ -9875,7 +9875,7 @@
       "sha256" : "db38e5dea11e8b0f528c1a59971fe97cbecbcdd8cf29b21621ad7105173c3407",
       "stats" : {
         "downloadCount" : 80,
-        "impressionCount" : 1108
+        "impressionCount" : 1109
       },
       "subtitle" : "Sci-fi themed terminal emulator and system monitor",
       "tintColor" : "464646",
@@ -10082,7 +10082,7 @@
       "sha256" : "401cdbf0a65681240f28709435857d2723f216a7f8525267f5b684a945e1f295",
       "stats" : {
         "downloadCount" : 76,
-        "impressionCount" : 1636
+        "impressionCount" : 1637
       },
       "subtitle" : "Edit and manage bibliographies",
       "tintColor" : "E9DC4F",
@@ -16485,7 +16485,7 @@
       "subtitle" : "Use Vim in input fields and non input fields",
       "tintColor" : "282D32",
       "version" : "35.0.0",
-      "versionDate" : "2022-08-29T16:29:28Z"
+      "versionDate" : "2022-08-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23302,7 +23302,7 @@
       "sha256" : "cee2a11755b23c55d96a2226750e80ee991ae8bff74bda4ff757717bcbdf9cad",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 1763
+        "impressionCount" : 1764
       },
       "subtitle" : "SwiftUI Reddit client",
       "tintColor" : "FC8D44",
@@ -24155,7 +24155,7 @@
       "sha256" : "6573258c97f12958669430aae607192f136973b1ccdb78f32d6bbbff6bd2a0a8",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 309
+        "impressionCount" : 310
       },
       "subtitle" : "Checks security systems and reports issues",
       "tintColor" : "50552D",

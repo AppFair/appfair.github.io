@@ -25,7 +25,7 @@
       "sha256" : "80f77b635402201cfbd082529cad46c48ca44a94cb0e9a9390eed28f975c6c9a",
       "stats" : {
         "downloadCount" : 2591,
-        "impressionCount" : 9943,
+        "impressionCount" : 9944,
         "viewCount" : 1065
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "e7671127eedc92135b55844dcb9888120e8fb37550f59b3722af2ddca23f4e15",
       "stats" : {
         "downloadCount" : 16457,
-        "impressionCount" : 8782,
+        "impressionCount" : 8784,
         "viewCount" : 955
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8912,
-        "impressionCount" : 7714,
+        "impressionCount" : 7716,
         "viewCount" : 675
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28879,
-        "impressionCount" : 8085,
+        "impressionCount" : 8086,
         "viewCount" : 681
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8262,
-        "impressionCount" : 8053,
+        "impressionCount" : 8055,
         "viewCount" : 656
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6585,
-        "impressionCount" : 8044,
+        "impressionCount" : 8045,
         "viewCount" : 526
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3343,
-        "impressionCount" : 8515,
+        "impressionCount" : 8517,
         "viewCount" : 581
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3313,
-        "impressionCount" : 7286,
+        "impressionCount" : 7287,
         "viewCount" : 551
       },
       "subtitle" : "Text editor",
@@ -1382,7 +1382,7 @@
       "sha256" : "33d2ec96f00ccca1241bac1a0ead4c19987f62bbbcd1372d7f0fc552e35f50d9",
       "stats" : {
         "downloadCount" : 2358,
-        "impressionCount" : 3147,
+        "impressionCount" : 3148,
         "viewCount" : 216
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -2242,7 +2242,7 @@
       "sha256" : "115c40eb710085969a72a24d5d84ae2c05260192cc68a22e73e99e148c6638da",
       "stats" : {
         "downloadCount" : 337,
-        "impressionCount" : 2351,
+        "impressionCount" : 2352,
         "viewCount" : 136
       },
       "subtitle" : "Animated screen capture application",
@@ -3135,7 +3135,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6208,
-        "impressionCount" : 1330
+        "impressionCount" : 1332
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -4526,7 +4526,7 @@
       "sha256" : "700fca17da2b249e35da254672e0eed995a255b7e9c28d184118fed4e5584336",
       "stats" : {
         "downloadCount" : 695,
-        "impressionCount" : 528
+        "impressionCount" : 529
       },
       "subtitle" : "Create mock APIs in seconds",
       "tintColor" : "45484F",
@@ -5686,7 +5686,7 @@
       "sha256" : "858045662074579856a521dcf967ddfc818f68583ddc96fe73612d82e071bd00",
       "stats" : {
         "downloadCount" : 356,
-        "impressionCount" : 440
+        "impressionCount" : 441
       },
       "subtitle" : "Tool to manage the size and position of windows",
       "tintColor" : "6E6E6D",
@@ -6888,7 +6888,7 @@
       "sha256" : "f58124740e8d9cbf8b4f45ee9a3e30a2aced109381fc34583d1c28d49d54dfe5",
       "stats" : {
         "downloadCount" : 197,
-        "impressionCount" : 811
+        "impressionCount" : 812
       },
       "subtitle" : "System cleaner for logs, caches and more",
       "tintColor" : "B7B6B7",
@@ -7484,7 +7484,7 @@
       "sha256" : "30019f469be6dbaa80fe513967b41483b36d4719c1a7e6c69529db2b30681614",
       "stats" : {
         "downloadCount" : 155,
-        "impressionCount" : 550
+        "impressionCount" : 551
       },
       "subtitle" : "TeX previewer",
       "tintColor" : "9AAAAE",
@@ -8986,7 +8986,7 @@
       "sha256" : "c86a214d5ee7718453d0fb6442b3ef9a7fc02c5c1582b6d28ef0c2e621a6b6aa",
       "stats" : {
         "downloadCount" : 95,
-        "impressionCount" : 588
+        "impressionCount" : 589
       },
       "subtitle" : "Allows switching between application windows",
       "tintColor" : "0B8FF8",
@@ -9537,7 +9537,7 @@
       "sha256" : "66bcea2c2eaab9c04240dfa6c78288b543e9ec01529527a249150587507e35af",
       "stats" : {
         "downloadCount" : 85,
-        "impressionCount" : 458
+        "impressionCount" : 459
       },
       "subtitle" : "Open-source Epub reader with backup and restore support",
       "tintColor" : "4D4C4A",
@@ -11869,7 +11869,7 @@
       "sha256" : "dad90df09f58d4089e0b7591dc2b721ef6108540664dad016a5775f118a574f5",
       "stats" : {
         "downloadCount" : 53,
-        "impressionCount" : 576
+        "impressionCount" : 577
       },
       "subtitle" : "Missing menulet for Homebrew",
       "tintColor" : "73511F",
@@ -26108,7 +26108,7 @@
       "sha256" : "578716a9451971be5edaa43c3b352c4b964aafdadd852c426acfbfe8d18ed22e",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 173
+        "impressionCount" : 174
       },
       "subtitle" : "Media Manager for Kodi",
       "tintColor" : "A66738",
@@ -29391,7 +29391,7 @@
       "name" : "dbKoda",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 327
+        "impressionCount" : 328
       },
       "tintColor" : "787C8E",
       "version" : "1.1.0.187"
@@ -41686,8 +41686,8 @@
       "name" : "Kodi",
       "sha256" : "53c45f645141b44c77c052f33381560f360fc1940fc1e8065ee42928707ca707",
       "stats" : {
-        "downloadCount" : 180,
-        "impressionCount" : 64
+        "downloadCount" : 181,
+        "impressionCount" : 65
       },
       "subtitle" : "Free and open-source media player",
       "tintColor" : "85C4DC",
@@ -54507,7 +54507,7 @@
       "sha256" : "aa7897be2b78cef7f2e1f4211e543d926e996fd4820f40cf42d7d2f100bbfac2",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 82
+        "impressionCount" : 84
       },
       "subtitle" : "Real-time GPU shader editor",
       "tintColor" : "3D3D3D",

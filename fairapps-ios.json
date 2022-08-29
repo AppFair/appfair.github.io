@@ -29,10 +29,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 71,
-        "impressionCount" : 152,
+        "impressionCount" : 154,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 16,
+        "viewCount" : 17,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -118,10 +118,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 141,
+        "impressionCount" : 142,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 24,
+        "viewCount" : 25,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -211,7 +211,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 12,
-        "impressionCount" : 29,
+        "impressionCount" : 30,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -428,7 +428,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 6,
-        "impressionCount" : 32,
+        "impressionCount" : 33,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,
@@ -807,6 +807,47 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
+      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sita Sings the Blues",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
+      "screenshotURLs" : [
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_04-iphone-750x1334.png"
+      ],
+      "sha256" : "2de15f40b08edf482a06a0a973fa72cd24347025ecf83529846ccf708fec8956",
+      "size" : 1458058228,
+      "stats" : {
+        "coreSize" : 170608,
+        "downloadCount" : 3,
+        "impressionCount" : 53,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 6,
+        "watcherCount" : 0
+      },
+      "subtitle" : "The movie \"Sita Sings the Blues\"",
+      "version" : "0.0.51",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Tweet-Storm",
       "categories" : [
@@ -842,7 +883,7 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
 
@@ -865,7 +906,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 2,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -875,82 +916,6 @@
       "version" : "0.1.8",
       "versionDate" : "2022-08-29T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.7...0.1.8"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.7/Encyclopedia-Galactica-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.7/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.7/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "f2cd50d1691f7ae66075f8bf1a7e5b6c1f27abe8257f660c3da64a4ca4600b93",
-      "size" : 5723493,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 2,
-        "impressionCount" : 157,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 20,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.7",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.6...0.1.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
-      "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_04-iphone-750x1334.png"
-      ],
-      "sha256" : "2de15f40b08edf482a06a0a973fa72cd24347025ecf83529846ccf708fec8956",
-      "size" : 1458058228,
-      "stats" : {
-        "coreSize" : 170608,
-        "downloadCount" : 2,
-        "impressionCount" : 52,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 5,
-        "watcherCount" : 0
-      },
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.51",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
     },
     {
       "beta" : false,
@@ -985,10 +950,10 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 48,
+        "impressionCount" : 49,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 5,
+        "viewCount" : 6,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1020,10 +985,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 75,
+        "impressionCount" : 77,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1071,7 +1036,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 74,
+        "impressionCount" : 75,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -1107,10 +1072,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 164,
+        "impressionCount" : 166,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1142,10 +1107,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 133,
+        "impressionCount" : 135,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 17,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1177,10 +1142,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 166,
+        "impressionCount" : 167,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 15,
+        "viewCount" : 16,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1212,10 +1177,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 140,
+        "impressionCount" : 142,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",

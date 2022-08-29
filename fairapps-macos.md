@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.112`` | `188` | `2022-08-26T00:00:00Z` | `9.7 MB` | `85` | `10` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.112`` | `190` | `2022-08-26T00:00:00Z` | `9.7 MB` | `85` | `10` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `64` | `2022-08-24T00:00:00Z` | `2.3 MB` | `152` | `16` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `45` | `2022-08-24T00:00:00Z` | `2.3 MB` | `141` | `24` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `39` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4416` | `718` | `1` | `0` |  |
@@ -51,8 +51,8 @@ tr:nth-child(even) {
 | [``Ultra Light``](https://Ultra-Light.github.io/App/) | ``0.0.7β`` | `4` | `2022-01-21T00:00:00Z` | `2.3 MB` | `702` | `62` | `0` | `0` |  |
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `4` | `2022-01-24T00:00:00Z` | `2.6 MB` | `643` | `55` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.51β`` | `4` | `2022-01-16T00:00:00Z` | `2.3 MB` | `329` | `27` | `0` | `0` |  |
-| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `3` | `2022-08-27T00:00:00Z` | `4.2 MB` | `48` | `5` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.7`` | `3` | `2022-08-24T00:00:00Z` | `2.2 MB` | `157` | `20` | `0` | `0` |  |
+| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `3` | `2022-08-27T00:00:00Z` | `4.2 MB` | `48` | `5` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.20`` | `3` | `2022-08-24T00:00:00Z` | `2.3 MB` | `140` | `19` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.10`` | `3` | `2022-08-24T00:00:00Z` | `8.2 MB` | `54` | `7` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `645` | `45` | `0` | `0` |  |

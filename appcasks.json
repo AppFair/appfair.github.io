@@ -40,7 +40,7 @@
         "public.app-category.reference",
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/104.0/mac/en-US/Firefox%20104.0.dmg",
+      "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/104.0.1/mac/en-US/Firefox%20104.0.1.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/AppIcon.png",
       "localizedDescription" : "Web browser",
@@ -54,7 +54,7 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/screenshot_05-mac-2286x1904.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-firefox/screenshot_06-mac-2286x1904.png"
       ],
-      "sha256" : "e7671127eedc92135b55844dcb9888120e8fb37550f59b3722af2ddca23f4e15",
+      "sha256" : "c6f7b0815668218db61405ee0d3dabbd4c9376bb329b6715bfb36d1de0dd5f7e",
       "stats" : {
         "downloadCount" : 16655,
         "impressionCount" : 8829,
@@ -62,8 +62,8 @@
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
-      "version" : "104.0",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "104.0.1",
+      "versionDate" : "2022-08-30T14:31:01Z"
     },
     {
       "beta" : false,
@@ -1067,13 +1067,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://desktop.githubusercontent.com/github-desktop/releases/3.0.6-635516e1/GitHubDesktop-x64.zip",
+      "downloadURL" : "https://desktop.githubusercontent.com/github-desktop/releases/3.0.7-38727e62/GitHubDesktop-x64.zip",
       "homepage" : "https://desktop.github.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-github/AppIcon.png",
       "localizedDescription" : "Desktop client for GitHub repositories",
       "name" : "GitHub Desktop",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-github/README.md",
-      "sha256" : "4a46abb1b39afff5fb46d30fc34c8c208b0be5711cbacffc89035777d4d33f3a",
+      "sha256" : "e3c3a1f4f517f0a6764c64c1691d94b7d91a23c0d84e82b74af7050c8d219b7f",
       "stats" : {
         "downloadCount" : 3364,
         "impressionCount" : 2235,
@@ -1081,8 +1081,8 @@
       },
       "subtitle" : "Desktop client for GitHub repositories",
       "tintColor" : "9767B3",
-      "version" : "3.0.6-635516e1",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "3.0.7-38727e62",
+      "versionDate" : "2022-08-30T14:31:01Z"
     },
     {
       "beta" : false,
@@ -3066,19 +3066,19 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://cdn.zoom.us/prod/5.11.9.10046/Zoom.pkg",
+      "downloadURL" : "https://cdn.zoom.us/prod/5.11.10.10279/Zoom.pkg",
       "homepage" : "https://www.zoom.us/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zoom/AppIcon.png",
       "localizedDescription" : "Video communication and virtual meeting platform",
       "name" : "Zoom.us",
-      "sha256" : "229a926ee45a66abfcb628bc862ddd7457899431b112d0eb29432fe6e4a64a3a",
+      "sha256" : "1ec93bab6b6b4b720878784f2496e5bfd7eaf16003f90577dd31da1315377d40",
       "stats" : {
         "downloadCount" : 8603,
         "impressionCount" : 631
       },
       "subtitle" : "Video communication and virtual meeting platform",
-      "version" : "5.11.9.10046",
-      "versionDate" : "2022-08-23T00:00:00Z"
+      "version" : "5.11.10.10279",
+      "versionDate" : "2022-08-30T14:31:01Z"
     },
     {
       "beta" : false,
@@ -18445,20 +18445,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://github.com/listen1/listen1_desktop/releases/download/v2.24.0/Listen1_2.24.0_mac_x64.dmg",
+      "downloadURL" : "https://github.com/listen1/listen1_desktop/releases/download/v2.25.0/Listen1_2.25.0_mac_x64.dmg",
       "homepage" : "https://listen1.github.io/listen1/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-listen1/AppIcon.png",
       "localizedDescription" : "Search and play songs from a variety of online sources",
       "name" : "Listen 1",
-      "sha256" : "2327464903b24cdd620d1ecbad8e039cd1f6f200f4286b05d6d799e7cc125a29",
+      "sha256" : "69d40d11c5a050da83d8b66b84df22f7692436cf566cf19f61d953ac1e8de271",
       "stats" : {
         "downloadCount" : 20,
         "impressionCount" : 561
       },
       "subtitle" : "Search and play songs from a variety of online sources",
       "tintColor" : "222222",
-      "version" : "2.24.0",
-      "versionDate" : "2022-07-11T00:00:00Z"
+      "version" : "2.25.0",
+      "versionDate" : "2022-08-30T14:31:01Z"
     },
     {
       "beta" : false,
@@ -61325,17 +61325,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://cdn.zoom.us/prod/5.11.9.10046/ZoomInstallerIT.pkg",
+      "downloadURL" : "https://cdn.zoom.us/prod/5.11.10.10279/ZoomInstallerIT.pkg",
       "homepage" : "https://support.zoom.us/hc/en-us/articles/115001799006-Mass-Deployment-with-Preconfigured-Settings-for-Mac",
       "localizedDescription" : "Video communication and virtual meeting platform",
       "name" : "Zoom for IT Admins",
-      "sha256" : "4154039e230f5731cc80b5e6ab59a90439a7daf828d8ec81616d48af09b76c54",
+      "sha256" : "68e850c6efc3966094282c2488eccaf2745660bf9b4e72f96f8faaa0477d2640",
       "stats" : {
         "downloadCount" : 164
       },
       "subtitle" : "Video communication and virtual meeting platform",
-      "version" : "5.11.9.10046",
-      "versionDate" : "2022-08-23T00:00:00Z"
+      "version" : "5.11.10.10279",
+      "versionDate" : "2022-08-30T14:31:01Z"
     },
     {
       "beta" : false,
@@ -74218,41 +74218,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "tg-pro",
-      "caption" : "TG Pro updated from 2.71,13526 to 2.72,13544",
-      "date" : "2022-08-27T18:26:15Z",
-      "identifier" : "release-tg-pro-2.72,13544",
-      "title" : "New Release: TG Pro 2.72,13544"
-    },
-    {
-      "appID" : "clash-for-windows",
-      "caption" : "Clash for Windows updated from 0.19.28 to 0.19.29",
-      "date" : "2022-08-27T18:26:16Z",
-      "identifier" : "release-clash-for-windows-0.19.29",
-      "title" : "New Release: Clash for Windows 0.19.29"
-    },
-    {
-      "appID" : "universal-media-server",
-      "caption" : "Universal Media Server updated from 11.3.0 to 11.4.0",
-      "date" : "2022-08-27T18:26:16Z",
-      "identifier" : "release-universal-media-server-11.4.0",
-      "title" : "New Release: Universal Media Server 11.4.0"
-    },
-    {
-      "appID" : "trilium-notes",
-      "caption" : "Trilium Notes updated from 0.54.2 to 0.54.3",
-      "date" : "2022-08-27T18:26:16Z",
-      "identifier" : "release-trilium-notes-0.54.3",
-      "title" : "New Release: Trilium Notes 0.54.3"
-    },
-    {
-      "appID" : "gitfiend",
-      "caption" : "GitFiend updated from 0.35.3 to 0.36.0",
-      "date" : "2022-08-27T18:26:16Z",
-      "identifier" : "release-gitfiend-0.36.0",
-      "title" : "New Release: GitFiend 0.36.0"
-    },
-    {
       "appID" : "electronmail",
       "caption" : "ElectronMail updated from 5.0.2 to 5.1.0",
       "date" : "2022-08-27T18:26:17Z",
@@ -74916,6 +74881,41 @@
       "date" : "2022-08-30T08:35:56Z",
       "identifier" : "release-remotion-1.91.6",
       "title" : "New Release: remotion 1.91.6"
+    },
+    {
+      "appID" : "firefox",
+      "caption" : "Mozilla Firefox updated from 104.0 to 104.0.1",
+      "date" : "2022-08-30T14:31:02Z",
+      "identifier" : "release-firefox-104.0.1",
+      "title" : "New Release: Mozilla Firefox 104.0.1"
+    },
+    {
+      "appID" : "github",
+      "caption" : "GitHub Desktop updated from 3.0.6-635516e1 to 3.0.7-38727e62",
+      "date" : "2022-08-30T14:31:03Z",
+      "identifier" : "release-github-3.0.7-38727e62",
+      "title" : "New Release: GitHub Desktop 3.0.7-38727e62"
+    },
+    {
+      "appID" : "zoom",
+      "caption" : "Zoom.us updated from 5.11.9.10046 to 5.11.10.10279",
+      "date" : "2022-08-30T14:31:03Z",
+      "identifier" : "release-zoom-5.11.10.10279",
+      "title" : "New Release: Zoom.us 5.11.10.10279"
+    },
+    {
+      "appID" : "listen1",
+      "caption" : "Listen 1 updated from 2.24.0 to 2.25.0",
+      "date" : "2022-08-30T14:31:03Z",
+      "identifier" : "release-listen1-2.25.0",
+      "title" : "New Release: Listen 1 2.25.0"
+    },
+    {
+      "appID" : "zoom-for-it-admins",
+      "caption" : "Zoom for IT Admins updated from 5.11.9.10046 to 5.11.10.10279",
+      "date" : "2022-08-30T14:31:03Z",
+      "identifier" : "release-zoom-for-it-admins-5.11.10.10279",
+      "title" : "New Release: Zoom for IT Admins 5.11.10.10279"
     }
   ],
   "platform" : "macos",

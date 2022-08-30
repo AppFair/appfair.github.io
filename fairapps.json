@@ -63,7 +63,7 @@
       "stats" : {
         "coreSize" : 170672,
         "downloadCount" : 218,
-        "impressionCount" : 106,
+        "impressionCount" : 110,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 11,
@@ -906,41 +906,6 @@
       "versionDescription" : ""
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.28/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.28/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.28/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "cc240bb91d51fc78053e41a8d5112529f66f7e31d17eb8a868b6bc935a327d94",
-      "size" : 2249668,
-      "stats" : {
-        "coreSize" : 102408,
-        "downloadCount" : 4,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.28",
-      "versionDate" : "2022-08-30T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.27...0.1.28"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
@@ -1234,6 +1199,41 @@
       "version" : "0.0.51",
       "versionDate" : "2022-01-16T00:00:00Z",
       "versionDescription" : "Release 0.0.51"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.30/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.30/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.30/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "f8f60ade3205ab37438dc1085e1334388887e2b6805cf751d5bcfabd40d1062c",
+      "size" : 2249663,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 3,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.30",
+      "versionDate" : "2022-08-30T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.29...0.1.30"
     },
     {
       "beta" : false,
@@ -1706,10 +1706,10 @@
     },
     {
       "appID" : "app.Encyclopedia-Galactica",
-      "caption" : "Encyclopedia Galactica 0.1.28 released",
-      "date" : "2022-08-30T15:30:31Z",
-      "identifier" : "release-app.Encyclopedia-Galactica-0.1.28",
-      "title" : "New Release: Encyclopedia Galactica 0.1.28"
+      "caption" : "Encyclopedia Galactica updated from 0.1.28 to 0.1.30",
+      "date" : "2022-08-30T16:35:59Z",
+      "identifier" : "release-app.Encyclopedia-Galactica-0.1.30",
+      "title" : "New Release: Encyclopedia Galactica 0.1.30"
     }
   ],
   "platform" : "macos"

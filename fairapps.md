@@ -33,7 +33,7 @@ tr:nth-child(even) {
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `18` | `2022-08-27T00:00:00Z` | `3.2 MB` | `43` | `5` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `18` | `2022-08-24T00:00:00Z` | `2.3 MB` | `196` | `17` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.456`` | `17` | `2022-08-28T00:00:00Z` | `9.6 MB` | `64` | `7` | `1` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.113`` | `14` | `2022-08-30T00:00:00Z` | `9.8 MB` | `6` | `0` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.113`` | `16` | `2022-08-30T00:00:00Z` | `9.8 MB` | `6` | `0` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2215` | `138` | `0` | `0` |  |
 | [``Todo Hero``](http://appfair.net/#quick-start) | ``0.0.1β`` | `9` | `2022-08-23T00:00:00Z` | `2.2 MB` | `25` | `1` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `1988` | `121` | `0` | `0` |  |

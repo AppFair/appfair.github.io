@@ -25,8 +25,8 @@
       "sha256" : "80f77b635402201cfbd082529cad46c48ca44a94cb0e9a9390eed28f975c6c9a",
       "stats" : {
         "downloadCount" : 2620,
-        "impressionCount" : 9976,
-        "viewCount" : 1070
+        "impressionCount" : 9978,
+        "viewCount" : 1071
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -57,8 +57,8 @@
       "sha256" : "e7671127eedc92135b55844dcb9888120e8fb37550f59b3722af2ddca23f4e15",
       "stats" : {
         "downloadCount" : 16655,
-        "impressionCount" : 8825,
-        "viewCount" : 956
+        "impressionCount" : 8829,
+        "viewCount" : 957
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8988,
-        "impressionCount" : 7750,
+        "impressionCount" : 7752,
         "viewCount" : 677
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29295,
-        "impressionCount" : 8123,
+        "impressionCount" : 8125,
         "viewCount" : 684
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8484,
-        "impressionCount" : 8091,
+        "impressionCount" : 8093,
         "viewCount" : 659
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6590,
-        "impressionCount" : 8074,
+        "impressionCount" : 8076,
         "viewCount" : 527
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3373,
-        "impressionCount" : 7320,
+        "impressionCount" : 7322,
         "viewCount" : 552
       },
       "subtitle" : "Text editor",
@@ -237,7 +237,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3370,
-        "impressionCount" : 8550,
+        "impressionCount" : 8552,
         "viewCount" : 582
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2681,
-        "impressionCount" : 6331,
+        "impressionCount" : 6334,
         "viewCount" : 408
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2019,
-        "impressionCount" : 8075,
+        "impressionCount" : 8077,
         "viewCount" : 845
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1831,
-        "impressionCount" : 6958,
+        "impressionCount" : 6960,
         "viewCount" : 437
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -352,7 +352,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1190,
-        "impressionCount" : 6407,
+        "impressionCount" : 6409,
         "viewCount" : 503
       },
       "subtitle" : "Open-source Markdown editor",
@@ -383,7 +383,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1185,
-        "impressionCount" : 8404,
+        "impressionCount" : 8406,
         "viewCount" : 485
       },
       "subtitle" : "3D creation suite",
@@ -444,7 +444,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 606,
-        "impressionCount" : 6552,
+        "impressionCount" : 6556,
         "viewCount" : 344
       },
       "subtitle" : "Text editor",
@@ -473,7 +473,7 @@
       ],
       "stats" : {
         "downloadCount" : 475,
-        "impressionCount" : 6095,
+        "impressionCount" : 6097,
         "viewCount" : 473
       },
       "subtitle" : "Sandbox construction video game",
@@ -505,7 +505,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 391,
-        "impressionCount" : 6698,
+        "impressionCount" : 6700,
         "viewCount" : 487
       },
       "subtitle" : "Text, code, and markup editor",
@@ -1008,7 +1008,7 @@
       "sha256" : "fc7e8409f24b5bec4cebf8fd61bbf57069b5acf5eaa69c0db3100b80b26a18fc",
       "stats" : {
         "downloadCount" : 4024,
-        "impressionCount" : 4315,
+        "impressionCount" : 4316,
         "viewCount" : 266
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1318,7 +1318,7 @@
       "sha256" : "8617959678916a95548b59e560bbc709260e435d678cad7a6599caf205431f18",
       "stats" : {
         "downloadCount" : 2429,
-        "impressionCount" : 2329,
+        "impressionCount" : 2330,
         "viewCount" : 200
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1624,7 +1624,7 @@
       "sha256" : "b80d3dba83b343fab7a6c8fc08440b2751da1ac12f86fe593da8e74069e4d7f6",
       "stats" : {
         "downloadCount" : 1288,
-        "impressionCount" : 3067,
+        "impressionCount" : 3068,
         "viewCount" : 146
       },
       "subtitle" : "Web browser focusing on security",
@@ -1761,7 +1761,7 @@
       "sha256" : "d2c7fd01e086e2a30c617c06c6194ff808c19c78794c8aee5a6e0740167baaa8",
       "stats" : {
         "downloadCount" : 972,
-        "impressionCount" : 2143,
+        "impressionCount" : 2144,
         "viewCount" : 83
       },
       "subtitle" : "Web browser",
@@ -1879,7 +1879,7 @@
       "sha256" : "6bd5c737e1a6a4128c18bcf60fc0875200ad9bdd5ce14ce2c014596779452ca0",
       "stats" : {
         "downloadCount" : 849,
-        "impressionCount" : 2642,
+        "impressionCount" : 2644,
         "viewCount" : 193
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -3031,7 +3031,7 @@
       "name" : "Google Chrome",
       "stats" : {
         "downloadCount" : 18462,
-        "impressionCount" : 1821
+        "impressionCount" : 1822
       },
       "subtitle" : "Web browser",
       "tintColor" : "C5C2AA",
@@ -3135,7 +3135,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6288,
-        "impressionCount" : 1360
+        "impressionCount" : 1363
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3196,7 +3196,7 @@
       "sha256" : "18e1861cd4c51d7b6877f5d9f492feb5c34fcfad1f5165773024109cf483e166",
       "stats" : {
         "downloadCount" : 3535,
-        "impressionCount" : 679
+        "impressionCount" : 680
       },
       "subtitle" : "Web browser",
       "version" : "104.0.1293.70",
@@ -3368,7 +3368,7 @@
       "sha256" : "546d57b6c88c2be7517759c016c0bf0313dfcc14adfcb43967f3c5d24657f366",
       "stats" : {
         "downloadCount" : 2788,
-        "impressionCount" : 818
+        "impressionCount" : 819
       },
       "subtitle" : "Browser for SQLite databases",
       "tintColor" : "ABABAB",
@@ -3899,7 +3899,7 @@
       "sha256" : "717f0b80cd86e95d0425b3112e93ce667a13e4a2ef8dcaec9490f0608b617d11",
       "stats" : {
         "downloadCount" : 1174,
-        "impressionCount" : 928
+        "impressionCount" : 929
       },
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
@@ -5516,7 +5516,7 @@
       "sha256" : "9960899abd24d1802640d1be98d099a5ecf49c9cf18a59f1a98962234b7f92f8",
       "stats" : {
         "downloadCount" : 389,
-        "impressionCount" : 224
+        "impressionCount" : 225
       },
       "subtitle" : "Web browser",
       "tintColor" : "60B8DF",
@@ -5778,7 +5778,7 @@
       "sha256" : "35ffc0bdf0767f6dd55ae541796c87e0bbce4513554b4bf128abb7664b9096d0",
       "stats" : {
         "downloadCount" : 345,
-        "impressionCount" : 1849
+        "impressionCount" : 1850
       },
       "subtitle" : "Open-source browser prompter",
       "tintColor" : "364A62",
@@ -6009,7 +6009,7 @@
       "sha256" : "d3ebafd5bce9a0d6ff680e196ba1fb0325f40ebffb998c284ba647d64748ea67",
       "stats" : {
         "downloadCount" : 310,
-        "impressionCount" : 447
+        "impressionCount" : 448
       },
       "subtitle" : "Modified browser that helps in responsive web development",
       "tintColor" : "C1C2C2",
@@ -6522,7 +6522,7 @@
       "sha256" : "da572a168b670d3271e449ac83d55f1d642aa73695ef50da0c022c0f19da925c",
       "stats" : {
         "downloadCount" : 242,
-        "impressionCount" : 548
+        "impressionCount" : 549
       },
       "subtitle" : "Utility for customizing which browser to start",
       "tintColor" : "000000",
@@ -6849,7 +6849,7 @@
       "sha256" : "48c21f8d702907b8627b3f4cf939b2447b09e8ed1f06d0dbe8f5a91451a76471",
       "stats" : {
         "downloadCount" : 206,
-        "impressionCount" : 481
+        "impressionCount" : 483
       },
       "subtitle" : "Minimal browser that protects privacy",
       "tintColor" : "4FB4FC",
@@ -9313,7 +9313,7 @@
       "sha256" : "fa802e2627dc2c9c5ccface1f9c830c5a2e0e9ae7a7339716651010e39928a50",
       "stats" : {
         "downloadCount" : 89,
-        "impressionCount" : 535
+        "impressionCount" : 537
       },
       "subtitle" : "Messaging browser which combines several services",
       "tintColor" : "AA91F2",
@@ -10062,7 +10062,7 @@
       "sha256" : "b964f4724ab1d7b7e9941e6cf699fdcba8a95cfa677281ada29482f4763bc3a3",
       "stats" : {
         "downloadCount" : 76,
-        "impressionCount" : 548
+        "impressionCount" : 550
       },
       "subtitle" : "Alternate version of the Opera web browser to complement gaming",
       "tintColor" : "EA214D",
@@ -10083,7 +10083,7 @@
       "sha256" : "303929e6821f4d5c124c10c257104c5fd90fd4a6cbd13c68a288dee4dcc1fd00",
       "stats" : {
         "downloadCount" : 76,
-        "impressionCount" : 327
+        "impressionCount" : 329
       },
       "subtitle" : "Browser for ambitious developers",
       "tintColor" : "55BDBA",
@@ -10205,7 +10205,7 @@
       "sha256" : "5c1d58681c7ce6622ec4ff302bf1d2e0ed57d5f5fb589c3553b56e4c85ef7897",
       "stats" : {
         "downloadCount" : 75,
-        "impressionCount" : 401
+        "impressionCount" : 402
       },
       "subtitle" : "Web browser",
       "tintColor" : "23BAF6",
@@ -10927,7 +10927,7 @@
       "name" : "Yandex.Browser",
       "stats" : {
         "downloadCount" : 65,
-        "impressionCount" : 291
+        "impressionCount" : 292
       },
       "subtitle" : "Web browser",
       "tintColor" : "EACCCC",
@@ -11051,7 +11051,7 @@
       "sha256" : "1eae99e92f51ca7a7470ffa9d78a2a31e28c743805ca514ec4a41210bc145e26",
       "stats" : {
         "downloadCount" : 63,
-        "impressionCount" : 364
+        "impressionCount" : 366
       },
       "subtitle" : "Visual Mach-O file browser",
       "tintColor" : "903C22",
@@ -12688,7 +12688,7 @@
       "sha256" : "6e62f4e8a5883f139a7259464e33039e7cd5c6040caf9dbb27d85f890b576c40",
       "stats" : {
         "downloadCount" : 47,
-        "impressionCount" : 1087
+        "impressionCount" : 1088
       },
       "subtitle" : "Third-party app to use Netflix outside the browser",
       "tintColor" : "C32525",
@@ -12844,7 +12844,7 @@
       "sha256" : "4eff2c48e3ce24af3ffeb814ed46f5a21406516b0c094763f5896e73bc82bd9b",
       "stats" : {
         "downloadCount" : 46,
-        "impressionCount" : 566
+        "impressionCount" : 568
       },
       "subtitle" : "Browser to organize apps",
       "tintColor" : "E6A349",
@@ -13564,7 +13564,7 @@
       "sha256" : "12db74f58ee04f28193e18df964b6a8a8715dfe3f47c7dadc9fea44ead39be0c",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 248
+        "impressionCount" : 249
       },
       "subtitle" : "Image viewer and file browser",
       "tintColor" : "9D9B7F",
@@ -13665,7 +13665,7 @@
       "sha256" : "f37c7a07db2f544a7ed8cc04c2bd3c5d538c2f8369d255b84d8a0db0041eeb45",
       "stats" : {
         "downloadCount" : 40,
-        "impressionCount" : 529
+        "impressionCount" : 530
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
@@ -15350,7 +15350,7 @@
       "sha256" : "db165811bb5b862c1e6037a8b477157171b6e684fd0b2c1a7c1652d4614604d2",
       "stats" : {
         "downloadCount" : 31,
-        "impressionCount" : 259
+        "impressionCount" : 260
       },
       "subtitle" : "Graphical management tool for OSS (Object Storage Service)",
       "tintColor" : "8BB043",
@@ -15489,7 +15489,7 @@
       "sha256" : "67d55ceb38bf8726ca446003522f544996a0a9740c8dbaef2be29a1fd3c8e04d",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 369
+        "impressionCount" : 370
       },
       "subtitle" : "Turns any device with a web browser into a secondary screen",
       "tintColor" : "646048",
@@ -15947,7 +15947,7 @@
       "name" : "Box Tools",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 454
+        "impressionCount" : 455
       },
       "subtitle" : "Create and edit any file directly from a web browser",
       "tintColor" : "2774DA",
@@ -16082,7 +16082,7 @@
       "sha256" : "542cd23eea128736999a7e512a9f2ff89be081c688d1581e6c78ab3d3ca118dd",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 234
+        "impressionCount" : 235
       },
       "tintColor" : "73B0C7",
       "version" : "1.2,a1156a0"
@@ -20195,7 +20195,7 @@
       "sha256" : "cd119af8cd1f71aa1978e69252c283ae3a80838adcb536da45f4ae2bf6bbd7e2",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 463
+        "impressionCount" : 464
       },
       "subtitle" : "Open links/files with specific browsers/apps",
       "tintColor" : "1599E7",
@@ -20515,7 +20515,7 @@
       "sha256" : "d184edaabe6d8132063dad948665076277de8bb582529724d3c2d053c9af7f98",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 406
+        "impressionCount" : 407
       },
       "subtitle" : "2-channel browser",
       "tintColor" : "668ACF",
@@ -21790,7 +21790,7 @@
       "sha256" : "a5695d3046a2230a0e56cbda68829802801d74afc39d4320161fef668b3a0376",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 153
+        "impressionCount" : 154
       },
       "subtitle" : "Assistant for Apple's Accessibility and AppleScript GUI scripting",
       "tintColor" : "B6BFCC",
@@ -22990,7 +22990,7 @@
       "sha256" : "a9cffc4d7a4e9869c9b7542dff7b9614c487623fce6404ce779b0c4b654eb72b",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 159
+        "impressionCount" : 161
       },
       "subtitle" : "Browse the contents of archives",
       "tintColor" : "B19268",
@@ -24871,7 +24871,7 @@
       "sha256" : "cc09216769022fc4acb20eaddd37898ace0d3a9ca8d9f53fbc06cdbfd45868e0",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 295
+        "impressionCount" : 296
       },
       "subtitle" : "Rendezvous service browser for iPhone / iPod touch",
       "tintColor" : "D4232D",
@@ -27718,7 +27718,7 @@
       "sha256" : "c88718c6ec1f7cbb70f33e3ac04f0d2117ab5b7907d9fa0529cd8b70f13df0e2",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 440
+        "impressionCount" : 441
       },
       "subtitle" : "Experimental peer-to-peer web browser",
       "tintColor" : "7969FD",
@@ -28233,7 +28233,7 @@
       "sha256" : "bb143112ed8a7ff16548d57d95faa91a5f33ab44d75db0c1790ba7bf27da0272",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 191
+        "impressionCount" : 193
       },
       "subtitle" : "Genome browser",
       "tintColor" : "D5D5D5",
@@ -28253,7 +28253,7 @@
       "sha256" : "f59b5f6c57b4c3bfed4ab5fc40b04628041e5e8bca961c45204a5f189bd4946c",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 268
+        "impressionCount" : 270
       },
       "subtitle" : "Text editor",
       "tintColor" : "828282",
@@ -28789,7 +28789,7 @@
       "sha256" : "300b8a25858bccf7ab41ef844ae496c454f53a840aecbfcb75f75b379b0f6445",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 574
+        "impressionCount" : 575
       },
       "subtitle" : "Web browser environment to carry out e-assessments safely",
       "tintColor" : "71818B",
@@ -29872,7 +29872,7 @@
       "sha256" : "7ed557bcd88972be1761bcd96b6f575b54f1eafd93b25b1440a5b3eda845fad8",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 162
+        "impressionCount" : 163
       },
       "subtitle" : "Translation memory tool",
       "tintColor" : "C1BBA7",
@@ -30015,7 +30015,7 @@
       "sha256" : "eab57d10b4e8002231cbfb502589d97fcea9edce85c21850bdd5cbc574ccfa19",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 670
+        "impressionCount" : 671
       },
       "subtitle" : "Scalable KanColle browser and tool",
       "tintColor" : "847367",
@@ -30908,7 +30908,7 @@
       "sha256" : "df52a7ad6519aa92d17a743d0cb3bcf3080c2c72e31b1a58fbfa4581069dc4c8",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 359
+        "impressionCount" : 361
       },
       "subtitle" : "Browser for Ðapps on the Ethereum network",
       "tintColor" : "7388A5",
@@ -32175,7 +32175,7 @@
       "sha256" : "017c0781ce05db59c1a3fe52a140166df55aa2d87286a7cf5ba5e3eb6b06c7df",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 406
+        "impressionCount" : 407
       },
       "subtitle" : "Uncrustify utility and documentation browser",
       "tintColor" : "3F5539",
@@ -32974,7 +32974,7 @@
       "sha256" : "de741937b2b45cbcc6e7e4be265a82c5413e2416481f3346707bd8910836e2f2",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 371
+        "impressionCount" : 372
       },
       "subtitle" : "Search and open web browser bookmarks",
       "tintColor" : "514F59",
@@ -35250,7 +35250,7 @@
       "sha256" : "c428d78fa00a9c7af2bc5e9d463ff2197e6b37cc593bd10dfa4071b9670db8a5",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 191
+        "impressionCount" : 192
       },
       "subtitle" : "Watch surveillance videos in your browser via your Ivideon account",
       "tintColor" : "8FB8DE",
@@ -35739,7 +35739,7 @@
       "sha256" : "de7e456dae31d140eefa25dae55e96b9dd773167d72c4e0ff407002922a05f1f",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 194
+        "impressionCount" : 195
       },
       "subtitle" : "Browser emulator",
       "tintColor" : "BD686D",
@@ -36999,7 +36999,7 @@
       "sha256" : "273c67581cdeff984b954a87f401fc5f8aa4b54f93a1d1c44e45cce3cd84ab27",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 313
+        "impressionCount" : 314
       },
       "subtitle" : "Alternative web browser",
       "tintColor" : "D1AA3E",
@@ -37373,7 +37373,7 @@
       "sha256" : "7e884cc68b0dcf163a963ebe4ffdaf7ce2a5700a0caa0d1d874115d5e6c03d43",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 142
+        "impressionCount" : 143
       },
       "subtitle" : "Simulate the notch on the MacBook Pro",
       "tintColor" : "7A3B8F",
@@ -37411,7 +37411,7 @@
       "sha256" : "419a251b1be83c1f11763d4713920f5e7676a2cb23fc9e359e0d2d4fd349e23f",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 402
+        "impressionCount" : 403
       },
       "subtitle" : "Experimental web browser with a thin interface",
       "tintColor" : "1B1B1B",
@@ -37917,7 +37917,7 @@
       "sha256" : "0e23b5a33821ac1c72e5cd4b8b979144e48754f3c3d222b81f458ebd139fe01a",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 152
+        "impressionCount" : 153
       },
       "subtitle" : "Web browser tabs URL exporter",
       "tintColor" : "657C5A",
@@ -38991,7 +38991,7 @@
       "name" : "LinCastor",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 227
+        "impressionCount" : 228
       },
       "subtitle" : "Choose a web browser when opening a link",
       "tintColor" : "20799E",
@@ -40287,7 +40287,7 @@
       "sha256" : "7ba3c53ff50efc3bd35087b597961abefd03e13803370ee3de5728b87c82246c",
       "stats" : {
         "downloadCount" : 847,
-        "impressionCount" : 523
+        "impressionCount" : 524
       },
       "subtitle" : "Web browser focusing on customization and control",
       "tintColor" : "F17179",
@@ -41510,7 +41510,7 @@
       "sha256" : "9c52c7ade3485103686b31e49d2576da3f57f43bba2b062528988a5ee606bb39",
       "stats" : {
         "downloadCount" : 207,
-        "impressionCount" : 58
+        "impressionCount" : 59
       },
       "subtitle" : "Keyboard-driven, vim-like browser based on PyQt5",
       "tintColor" : "6790BF",
@@ -41811,7 +41811,7 @@
       "name" : "Next Browser",
       "stats" : {
         "downloadCount" : 161,
-        "impressionCount" : 57
+        "impressionCount" : 58
       },
       "subtitle" : "Web browser",
       "tintColor" : "1D1D1D",
@@ -41892,7 +41892,7 @@
       "name" : "MEGAsync",
       "stats" : {
         "downloadCount" : 153,
-        "impressionCount" : 78
+        "impressionCount" : 79
       },
       "subtitle" : "Syncs files between computers and MEGA Cloud drives",
       "tintColor" : "E82535",
@@ -42474,7 +42474,7 @@
       "sha256" : "fc70baf397c5a9fb24261c823859ec6b798004b406dee3ac39c01fb79342988f",
       "stats" : {
         "downloadCount" : 120,
-        "impressionCount" : 67
+        "impressionCount" : 68
       },
       "subtitle" : "Bluetooth Low Energy browser",
       "tintColor" : "000000",
@@ -43574,7 +43574,7 @@
       "sha256" : "c65460282d7d43c239d262551d415e0cf5873d4b8cbd845e434f2134cdd0a859",
       "stats" : {
         "downloadCount" : 74,
-        "impressionCount" : 102
+        "impressionCount" : 103
       },
       "subtitle" : "DjVu viewer and browser plugin",
       "tintColor" : "C4C5C8",
@@ -43731,7 +43731,7 @@
       "sha256" : "90a21d67999c1b44a241702fb497e4107ed18a89b180df898a01d2c846d5325c",
       "stats" : {
         "downloadCount" : 71,
-        "impressionCount" : 188
+        "impressionCount" : 189
       },
       "subtitle" : "Browser designed for modern work",
       "tintColor" : "EFDADC",
@@ -44106,7 +44106,7 @@
       "sha256" : "a093923ff3926338f3a6aa6041fd1c7ad32c864adeb657d197b5235e97acd020",
       "stats" : {
         "downloadCount" : 66,
-        "impressionCount" : 50
+        "impressionCount" : 51
       },
       "subtitle" : "Multi platform Twitch.tv browser for Streamlink",
       "tintColor" : "896FBB",
@@ -44490,7 +44490,7 @@
       "name" : "NAVER Whale",
       "stats" : {
         "downloadCount" : 58,
-        "impressionCount" : 60
+        "impressionCount" : 61
       },
       "subtitle" : "Web browser",
       "tintColor" : "3B6D9B",
@@ -44979,7 +44979,7 @@
       "name" : "BrowserStack Local Testing",
       "stats" : {
         "downloadCount" : 49,
-        "impressionCount" : 71
+        "impressionCount" : 72
       },
       "subtitle" : "Test localhost and staging websites",
       "tintColor" : "A99162",
@@ -45137,7 +45137,7 @@
       "sha256" : "7dea79e90f3d9172aa9f8feafdb24c96b0e19380db6e530a9b2e1a5c3d99717b",
       "stats" : {
         "downloadCount" : 46,
-        "impressionCount" : 66
+        "impressionCount" : 67
       },
       "subtitle" : "Microsoft Project in your browser",
       "tintColor" : "961009",
@@ -46344,7 +46344,7 @@
       "sha256" : "d3e352ae9cd7aa342ff8d9b89f87be9b94e7887c38ac5fb9b92e9e2089a721ba",
       "stats" : {
         "downloadCount" : 31,
-        "impressionCount" : 55
+        "impressionCount" : 56
       },
       "subtitle" : "Private, secure web browser",
       "tintColor" : "A06488",
@@ -48137,7 +48137,7 @@
       "sha256" : "f4297aa5bbb234fee1935d1a31ab965f59b26532dd6189ecba85f8ebbd398818",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 65
+        "impressionCount" : 66
       },
       "subtitle" : "Web browser",
       "tintColor" : "77C7FD",
@@ -48575,7 +48575,7 @@
       "sha256" : "fa4ce0dd4ed9222a9e2a24ec68934969b4f6a8bc852ef165dcd50ceb2cccc2c4",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 32
+        "impressionCount" : 33
       },
       "subtitle" : "Browse and visualize data from OPC UA servers",
       "tintColor" : "58A3E1",
@@ -48768,7 +48768,7 @@
       "sha256" : "44465643aa1a8b87ff9d68410567045674e3d979e789f8b0bd2953e1ebf7e715",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 53
+        "impressionCount" : 55
       },
       "tintColor" : "76B7DD",
       "version" : "1.8.0,a0b66c6"
@@ -49137,7 +49137,7 @@
       "sha256" : "27217b7cc2f770921e51c31f16c2958ab5de8d61b762d889692df83bd3f61ccc",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 48
+        "impressionCount" : 49
       },
       "subtitle" : "EDF+ and BDF+ viewer and toolbox",
       "tintColor" : "D87026",
@@ -49356,7 +49356,7 @@
       "sha256" : "a6c96e12b4c42fe26534156278098e883634e03e047011a712f0bdff5ca3d97b",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 84
+        "impressionCount" : 85
       },
       "subtitle" : "Developer-oriented browser",
       "tintColor" : "3785BA",
@@ -50712,7 +50712,7 @@
       "sha256" : "c6b84158988af9a4d93de263b683e00a2aae9af9e8fbd54c7a22e0d9e9b56893",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 57
+        "impressionCount" : 59
       },
       "subtitle" : "Tool for monitoring SNMP enabled devices",
       "tintColor" : "CB8162",
@@ -51013,7 +51013,7 @@
       "sha256" : "5dffdce0206e62fc3fd62078578f0bb04366d87cb85250150b4d02499079eb25",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 141
+        "impressionCount" : 142
       },
       "subtitle" : "Web browser",
       "tintColor" : "72BBEC",
@@ -51251,7 +51251,7 @@
       "sha256" : "04bb2dd6ebbdcc3f4f25a53610d074be413dcbb1c446a3e658751a34a6f382b2",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 62
+        "impressionCount" : 63
       },
       "subtitle" : "Web browser focusing on security and privacy",
       "tintColor" : "7BA3BC",
@@ -51367,7 +51367,7 @@
       "name" : "MEGAcmd",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 56
+        "impressionCount" : 57
       },
       "tintColor" : "E82535",
       "version" : "latest"
@@ -52338,7 +52338,7 @@
       "sha256" : "62f70642e55e6c1ee7ea68c89fbe71114331861bdecfca2a5c95d30342886153",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 47
+        "impressionCount" : 48
       },
       "subtitle" : "Media browser and viewer",
       "tintColor" : "ACADAB",
@@ -54243,7 +54243,7 @@
       "sha256" : "f47201069812333c36715beaacb17de93bc8fa5f7e68952fe51296f04df69f83",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 72
+        "impressionCount" : 73
       },
       "subtitle" : "Time-frequency browser",
       "tintColor" : "29516C",
@@ -54403,7 +54403,7 @@
       "sha256" : "eb4f02a3b5dea2cab679c1366f454a22d8bb4bbfa448c56c0ca00bb615d8867e",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 62
+        "impressionCount" : 63
       },
       "subtitle" : "Browser for web automation and testing",
       "tintColor" : "757575",
@@ -55026,7 +55026,7 @@
       "name" : "Cốc Cốc",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 143
+        "impressionCount" : 144
       },
       "subtitle" : "Chromium-based web browser",
       "tintColor" : "D7EACA",
@@ -55145,7 +55145,7 @@
       "sha256" : "670b47313871ab6870a86cec8853b4ece33f6b11b6baf42b250e414141e3fccd",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 53
+        "impressionCount" : 54
       },
       "subtitle" : "Web browser",
       "tintColor" : "A58CAC",
@@ -58304,7 +58304,7 @@
       "sha256" : "b4db2548dae7491619c49a4d22fde422331d42065af448b2c844b9a3f196809d",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 76
+        "impressionCount" : 77
       },
       "subtitle" : "Electronic TV guide",
       "tintColor" : "679CD5",
@@ -58402,7 +58402,7 @@
       "name" : "Bonjour Browser",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 78
+        "impressionCount" : 79
       },
       "tintColor" : "65828E",
       "version" : "1.5.6"
@@ -58595,7 +58595,7 @@
       "sha256" : "02cb0df03d19442355e57df27f36a9dba2be02d7b02059b7ddd608c31f741a38",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 96
+        "impressionCount" : 97
       },
       "subtitle" : "Browser history and bookmarks keyword search",
       "tintColor" : "E15F5E",

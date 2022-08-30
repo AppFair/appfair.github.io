@@ -619,8 +619,8 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 157,
-        "impressionCount" : 5410,
-        "viewCount" : 568
+        "impressionCount" : 5411,
+        "viewCount" : 569
       },
       "subtitle" : "iOS App Store alternative",
       "tintColor" : "55A1A2",
@@ -8106,7 +8106,7 @@
       "sha256" : "7036861bce6abe98a9fbd56e72f68b0ba591f10de01180d09e76c7a0de37b2c2",
       "stats" : {
         "downloadCount" : 127,
-        "impressionCount" : 630
+        "impressionCount" : 631
       },
       "subtitle" : "Terminal/ssh/sftp client",
       "tintColor" : "7E7570",
@@ -13462,7 +13462,7 @@
       "sha256" : "0032867c2eb6885e1e1f3e24fe24f37fc5a12c3e995825f8eea5630eb8052860",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 603
+        "impressionCount" : 605
       },
       "subtitle" : "Programs interactive stories, games, and animations",
       "tintColor" : "FBBA4B",

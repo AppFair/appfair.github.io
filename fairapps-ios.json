@@ -28,7 +28,7 @@
       "size" : 5804309,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 82,
+        "downloadCount" : 85,
         "impressionCount" : 176,
         "issueCount" : 0,
         "starCount" : 1,
@@ -72,7 +72,7 @@
       "size" : 5381927,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 51,
+        "downloadCount" : 54,
         "impressionCount" : 3043,
         "issueCount" : 0,
         "starCount" : 0,
@@ -161,7 +161,7 @@
       "size" : 5844815,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 17,
+        "downloadCount" : 20,
         "impressionCount" : 2,
         "issueCount" : 0,
         "starCount" : 0,
@@ -173,6 +173,51 @@
       "version" : "0.0.22",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Tune-Out-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_03-iphone-1170x2532.png"
+      ],
+      "sha256" : "bb7349518d901ce28dc8f01f0a50aa7c48a99184a52920fb782a6b77b0cce4f6",
+      "size" : 17972644,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 16,
+        "impressionCount" : 54,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 7,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.456",
+      "versionDate" : "2022-08-28T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.455...0.8.456"
     },
     {
       "beta" : false,
@@ -221,51 +266,6 @@
       "version" : "0.0.45",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Tune-Out-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.456/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.456/screenshot_03-iphone-1170x2532.png"
-      ],
-      "sha256" : "bb7349518d901ce28dc8f01f0a50aa7c48a99184a52920fb782a6b77b0cce4f6",
-      "size" : 17972644,
-      "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 13,
-        "impressionCount" : 54,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 7,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.456",
-      "versionDate" : "2022-08-28T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.455...0.8.456"
     },
     {
       "beta" : true,
@@ -889,33 +889,33 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.28/Encyclopedia-Galactica-iOS.ipa",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.29/Encyclopedia-Galactica-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.28/Encyclopedia-Galactica.png",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.29/Encyclopedia-Galactica.png",
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.29/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.28/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "a654ba824a1231533ea895cbc1eee0474a625c83260f45bbc598bbabc392a0cd",
-      "size" : 5724273,
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.29/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "d6b61ce1f9eba437ddbd5df95dcf8e54cc39c833b49946511485cca56238dfa5",
+      "size" : 5724257,
       "stats" : {
-        "coreSize" : 170176,
+        "coreSize" : 102408,
         "downloadCount" : 2,
-        "impressionCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.28",
+      "version" : "0.1.29",
       "versionDate" : "2022-08-30T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.27...0.1.28"
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.28...0.1.29"
     },
     {
       "beta" : false,

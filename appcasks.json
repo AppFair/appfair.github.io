@@ -124,8 +124,8 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29295,
-        "impressionCount" : 8125,
-        "viewCount" : 684
+        "impressionCount" : 8128,
+        "viewCount" : 685
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
       "tintColor" : "202B2A",
@@ -1213,7 +1213,7 @@
       "sha256" : "e459b9ce81078b8251549168c0d8473c069a14e817f3a8f386ec84b0f220955a",
       "stats" : {
         "downloadCount" : 2542,
-        "impressionCount" : 2525,
+        "impressionCount" : 2528,
         "viewCount" : 216
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
@@ -3305,8 +3305,8 @@
       "name" : "Atlassian SourceTree",
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
-        "downloadCount" : 2836,
-        "impressionCount" : 780
+        "downloadCount" : 2837,
+        "impressionCount" : 785
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -9333,7 +9333,7 @@
       "sha256" : "96780bf391b6367571728540fa528aba52a720849d279795c6bbe6fce3600c78",
       "stats" : {
         "downloadCount" : 89,
-        "impressionCount" : 878
+        "impressionCount" : 884
       },
       "subtitle" : "Detailed information on every Apple product ever made",
       "tintColor" : "69A4CB",
@@ -40448,7 +40448,7 @@
       "sha256" : "d6fafea9ea0854cc257759332ac77447a61de85dac7132300fe48a8f91bda528",
       "stats" : {
         "downloadCount" : 626,
-        "impressionCount" : 80
+        "impressionCount" : 83
       },
       "subtitle" : "Open-source firewall to block unknown outgoing connections",
       "tintColor" : "708243",

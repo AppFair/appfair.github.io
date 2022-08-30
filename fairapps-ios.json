@@ -29,10 +29,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 85,
-        "impressionCount" : 182,
+        "impressionCount" : 185,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -73,10 +73,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3049,
+        "impressionCount" : 3052,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 231,
+        "viewCount" : 232,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -118,10 +118,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 165,
+        "impressionCount" : 169,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 28,
+        "viewCount" : 29,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 16,
-        "impressionCount" : 60,
+        "impressionCount" : 64,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 7,
@@ -256,7 +256,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 16,
-        "impressionCount" : 42,
+        "impressionCount" : 43,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -394,7 +394,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 9,
-        "impressionCount" : 1647,
+        "impressionCount" : 1649,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -429,7 +429,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2817,
+        "impressionCount" : 2819,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 161,
@@ -499,7 +499,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1987,
+        "impressionCount" : 1988,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -534,7 +534,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 2213,
+        "impressionCount" : 2215,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 138,
@@ -618,7 +618,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1395,
+        "impressionCount" : 1397,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -653,7 +653,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 702,
+        "impressionCount" : 703,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -688,7 +688,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 644,
+        "impressionCount" : 645,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -724,7 +724,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1919,
+        "impressionCount" : 1920,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -760,7 +760,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 1036,
+        "impressionCount" : 1038,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -795,10 +795,10 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 4,
-        "impressionCount" : 646,
+        "impressionCount" : 648,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 45,
+        "viewCount" : 46,
         "watcherCount" : 0
       },
       "subtitle" : "An unclear app",
@@ -836,7 +836,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 76,
+        "impressionCount" : 81,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -871,7 +871,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 619,
+        "impressionCount" : 620,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -889,20 +889,20 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.35/Encyclopedia-Galactica-iOS.ipa",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.36/Encyclopedia-Galactica-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.35/Encyclopedia-Galactica.png",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.36/Encyclopedia-Galactica.png",
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.35/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.36/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.35/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "f9625e8dcb43fc19eed86be62c4d6c819239fcb4bf97f9e6adfe8a010455e8a9",
-      "size" : 5724405,
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.36/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "614fb8795a75b7eb0032abf33785edfa01681d84585113935f9ca58a44fb5e0f",
+      "size" : 5724393,
       "stats" : {
         "coreSize" : 102408,
         "downloadCount" : 2,
@@ -913,9 +913,9 @@
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.35",
+      "version" : "0.1.36",
       "versionDate" : "2022-08-30T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.34...0.1.35"
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.35...0.1.36"
     },
     {
       "beta" : false,
@@ -941,7 +941,7 @@
       "stats" : {
         "coreSize" : 102408,
         "downloadCount" : 2,
-        "impressionCount" : 7,
+        "impressionCount" : 11,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -985,10 +985,10 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 74,
+        "impressionCount" : 79,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 8,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1020,10 +1020,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 101,
+        "impressionCount" : 108,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 15,
+        "viewCount" : 17,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1071,10 +1071,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 101,
+        "impressionCount" : 105,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 10,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1107,10 +1107,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 190,
+        "impressionCount" : 196,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 16,
+        "viewCount" : 17,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1142,10 +1142,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 156,
+        "impressionCount" : 161,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1177,10 +1177,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 200,
+        "impressionCount" : 205,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 17,
+        "viewCount" : 19,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1212,10 +1212,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 164,
+        "impressionCount" : 168,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",

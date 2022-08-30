@@ -62,7 +62,7 @@
       "size" : 9708981,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 210,
+        "downloadCount" : 211,
         "impressionCount" : 106,
         "issueCount" : 6,
         "starCount" : 28,
@@ -105,11 +105,11 @@
       "size" : 2281338,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 67,
-        "impressionCount" : 172,
+        "downloadCount" : 69,
+        "impressionCount" : 174,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 18,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -155,10 +155,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 157,
+        "impressionCount" : 159,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 25,
+        "viewCount" : 26,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -207,10 +207,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4429,
+        "impressionCount" : 4431,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 718,
+        "viewCount" : 719,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -253,10 +253,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3039,
+        "impressionCount" : 3042,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 230,
+        "viewCount" : 231,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -329,10 +329,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3367,
+        "impressionCount" : 3369,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 572,
+        "viewCount" : 573,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -367,10 +367,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 182,
+        "impressionCount" : 184,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 15,
+        "viewCount" : 16,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -414,11 +414,11 @@
       "size" : 4011787,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 14,
-        "impressionCount" : 91,
+        "downloadCount" : 16,
+        "impressionCount" : 94,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -467,7 +467,7 @@
       "size" : 3247297,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 13,
+        "downloadCount" : 15,
         "impressionCount" : 40,
         "issueCount" : 0,
         "starCount" : 0,
@@ -478,45 +478,6 @@
       "version" : "0.0.45",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Down-Town",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "localizedDescription" : "An urban street guide",
-      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Down Town",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
-      "screenshotURLs" : [
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
-      ],
-      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
-      "size" : 2338254,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 11,
-        "impressionCount" : 2210,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 138,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An urban street guide",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-25T00:00:00Z",
-      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : false,
@@ -553,11 +514,11 @@
       "size" : 9641385,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 10,
-        "impressionCount" : 51,
+        "downloadCount" : 12,
+        "impressionCount" : 53,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 6,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -565,6 +526,45 @@
       "version" : "0.8.456",
       "versionDate" : "2022-08-28T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.455...0.8.456"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Down-Town",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
+      "localizedDescription" : "An urban street guide",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Down Town",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
+      "screenshotURLs" : [
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
+      ],
+      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
+      "size" : 2338254,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 11,
+        "impressionCount" : 2211,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 138,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An urban street guide",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-25T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -629,7 +629,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1986,
+        "impressionCount" : 1987,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -743,10 +743,10 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 72,
+        "impressionCount" : 73,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 6,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -932,7 +932,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1918,
+        "impressionCount" : 1919,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -1007,10 +1007,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2812,
+        "impressionCount" : 2814,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 160,
+        "viewCount" : 161,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1126,7 +1126,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 643,
+        "impressionCount" : 644,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -1232,10 +1232,10 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 65,
+        "impressionCount" : 67,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 6,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1271,10 +1271,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 157,
+        "impressionCount" : 160,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 21,
+        "viewCount" : 22,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1359,7 +1359,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 3,
-        "impressionCount" : 645,
+        "impressionCount" : 646,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 45,
@@ -1440,10 +1440,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 91,
+        "impressionCount" : 94,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1475,10 +1475,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 148,
+        "impressionCount" : 151,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 18,
+        "viewCount" : 19,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1514,10 +1514,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 188,
+        "impressionCount" : 191,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 16,
+        "viewCount" : 17,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

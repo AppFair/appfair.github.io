@@ -29,7 +29,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 96,
-        "impressionCount" : 201,
+        "impressionCount" : 203,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 25,
@@ -73,7 +73,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3069,
+        "impressionCount" : 3070,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 232,
@@ -118,7 +118,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 187,
+        "impressionCount" : 189,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 30,
@@ -163,10 +163,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 24,
-        "impressionCount" : 84,
+        "impressionCount" : 89,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -256,7 +256,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 16,
-        "impressionCount" : 56,
+        "impressionCount" : 57,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 6,
@@ -394,7 +394,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 9,
-        "impressionCount" : 1650,
+        "impressionCount" : 1651,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -499,7 +499,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1991,
+        "impressionCount" : 1992,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -722,9 +722,9 @@
       "sha256" : "dbd2ee2c0c13affb528654f695f4ab5c57bf06242bc160c55b267427f9f8cb01",
       "size" : 5724369,
       "stats" : {
-        "coreSize" : 170176,
+        "coreSize" : 102408,
         "downloadCount" : 4,
-        "impressionCount" : 11,
+        "impressionCount" : 12,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -795,7 +795,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 1041,
+        "impressionCount" : 1042,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -912,7 +912,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 101,
+        "impressionCount" : 103,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -959,6 +959,41 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.45/Encyclopedia-Galactica-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.45/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.45/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.45/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "3821559fb66b4233d3f59f4b634672bebb1a6a0b90568f1c3c77692800744a6d",
+      "size" : 5724367,
+      "stats" : {
+        "coreSize" : 102408,
+        "downloadCount" : 2,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.45",
+      "versionDate" : "2022-08-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.44...0.1.45"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
@@ -991,7 +1026,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 94,
+        "impressionCount" : 95,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1026,7 +1061,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 123,
+        "impressionCount" : 124,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1077,7 +1112,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 122,
+        "impressionCount" : 125,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 12,
@@ -1113,7 +1148,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 217,
+        "impressionCount" : 219,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 18,
@@ -1148,7 +1183,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 176,
+        "impressionCount" : 177,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1183,7 +1218,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 227,
+        "impressionCount" : 228,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1218,7 +1253,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 184,
+        "impressionCount" : 185,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,

@@ -30,8 +30,8 @@
       "size" : 2281338,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 82,
-        "impressionCount" : 192,
+        "downloadCount" : 85,
+        "impressionCount" : 195,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 24,
@@ -42,55 +42,6 @@
       "version" : "0.9.263",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.262...0.9.263"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.44/screenshot_01-mac-dark-mac-2024x1124.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.2.44/screenshot_01-mac-light-mac-2024x1124.png"
-      ],
-      "sha256" : "2556560f71c195bfd76ab262df2c681d0720a9df5d8810b5a46592d774d553da",
-      "size" : 2275297,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 45,
-        "impressionCount" : 178,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 30,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.44",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.43...0.2.44"
     },
     {
       "beta" : false,
@@ -154,8 +105,8 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 41,
-        "impressionCount" : 14,
+        "downloadCount" : 51,
+        "impressionCount" : 16,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 2,
@@ -166,6 +117,55 @@
       "version" : "0.8.113",
       "versionDate" : "2022-08-30T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.112...0.8.113"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.44/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "screenshotURLs" : [
+        "https://github.com/Bon-Mot/App/releases/download/0.2.44/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.2.44/screenshot_01-mac-light-mac-2024x1124.png"
+      ],
+      "sha256" : "2556560f71c195bfd76ab262df2c681d0720a9df5d8810b5a46592d774d553da",
+      "size" : 2275297,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 45,
+        "impressionCount" : 179,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 30,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.44",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.43...0.2.44"
     },
     {
       "beta" : false,
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4449,
+        "impressionCount" : 4451,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 720,
@@ -218,52 +218,6 @@
       "version" : "0.1.7",
       "versionDate" : "2022-05-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-dark-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-light-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-mac-1864x1392.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_03-mac-2360x1742.png"
-      ],
-      "sha256" : "ed27a56682b188e537f44653c665d84dc3e4ce42ee73bbee723bfa946f624378",
-      "size" : 2118382,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 24,
-        "impressionCount" : 3059,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 232,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.20",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
       "beta" : false,
@@ -300,8 +254,8 @@
       "size" : 9641385,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 22,
-        "impressionCount" : 74,
+        "downloadCount" : 24,
+        "impressionCount" : 76,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 12,
@@ -312,6 +266,101 @@
       "version" : "0.8.456",
       "versionDate" : "2022-08-28T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.455...0.8.456"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-dark-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-light-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-mac-1864x1392.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_03-mac-2360x1742.png"
+      ],
+      "sha256" : "ed27a56682b188e537f44653c665d84dc3e4ce42ee73bbee723bfa946f624378",
+      "size" : 2118382,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 24,
+        "impressionCount" : 3062,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 232,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.20",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Stanza-Redux",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux.png",
+      "localizedDescription" : "An electronic book reader",
+      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
+      "name" : "Stanza Redux",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to access books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read ebook files"
+        }
+      ],
+      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
+      "screenshotURLs" : [
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_01-mac-dark-2436x2012.png",
+        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_01-mac-light-2436x2012.png"
+      ],
+      "sha256" : "9bedfb9b1d5f39f483772ab5fb0821c426693b15c11501eb98bcf737b685ed2d",
+      "size" : 4011787,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 23,
+        "impressionCount" : 112,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 12,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An electronic book reader",
+      "tintColor" : "00375C",
+      "version" : "0.3.59",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
     },
     {
       "beta" : true,
@@ -377,7 +426,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3381,
+        "impressionCount" : 3383,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 575,
@@ -387,55 +436,6 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T00:00:00Z",
       "versionDescription" : "Release 0.4.18"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Stanza-Redux",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux.png",
-      "localizedDescription" : "An electronic book reader",
-      "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
-      "name" : "Stanza Redux",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to access books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read ebook files"
-        }
-      ],
-      "readmeURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/README.md#d470949a6400c6fbd898adbfe40b6a3e022bd22341dd1eb5ffed1f98f57030e1",
-      "screenshotURLs" : [
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_01-mac-dark-2436x2012.png",
-        "https://github.com/Stanza-Redux/App/releases/download/0.3.59/screenshot_01-mac-light-2436x2012.png"
-      ],
-      "sha256" : "9bedfb9b1d5f39f483772ab5fb0821c426693b15c11501eb98bcf737b685ed2d",
-      "size" : 4011787,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 21,
-        "impressionCount" : 110,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 12,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An electronic book reader",
-      "tintColor" : "00375C",
-      "version" : "0.3.59",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
     },
     {
       "beta" : false,
@@ -478,7 +478,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 18,
-        "impressionCount" : 47,
+        "impressionCount" : 49,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 6,
@@ -516,7 +516,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 205,
+        "impressionCount" : 207,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 18,
@@ -743,7 +743,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 89,
+        "impressionCount" : 91,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1007,7 +1007,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2822,
+        "impressionCount" : 2824,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 161,
@@ -1232,7 +1232,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 84,
+        "impressionCount" : 86,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1271,7 +1271,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 174,
+        "impressionCount" : 177,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -1324,7 +1324,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 69,
+        "impressionCount" : 71,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1440,7 +1440,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 116,
+        "impressionCount" : 117,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1475,7 +1475,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 170,
+        "impressionCount" : 171,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1514,7 +1514,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 213,
+        "impressionCount" : 216,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,

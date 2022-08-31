@@ -30,7 +30,7 @@
       "size" : 2281338,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 85,
+        "downloadCount" : 87,
         "impressionCount" : 201,
         "issueCount" : 0,
         "starCount" : 1,
@@ -105,11 +105,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 76,
-        "impressionCount" : 27,
+        "downloadCount" : 85,
+        "impressionCount" : 30,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 3,
+        "viewCount" : 5,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -254,7 +254,7 @@
       "size" : 9641385,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 24,
+        "downloadCount" : 26,
         "impressionCount" : 84,
         "issueCount" : 0,
         "starCount" : 1,
@@ -906,6 +906,41 @@
       "versionDescription" : ""
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "50e09d002ac8b5107546fd23861f160a41f5b9259776b4c6a1fefd41e08d96af",
+      "size" : 2249769,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 4,
+        "impressionCount" : 11,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.44",
+      "versionDate" : "2022-08-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.43...0.1.44"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
@@ -1369,41 +1404,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "50e09d002ac8b5107546fd23861f160a41f5b9259776b4c6a1fefd41e08d96af",
-      "size" : 2249769,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 2,
-        "impressionCount" : 11,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.44",
-      "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.43...0.1.44"
     },
     {
       "beta" : true,

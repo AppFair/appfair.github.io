@@ -1371,6 +1371,41 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.60/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.60/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.60/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.60/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "e3f2c2c4a5d53344a6122d4f2260f14a7653bc21b69c76aa4cb6ca867f36c3f6",
+      "size" : 2249755,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.60",
+      "versionDate" : "2022-08-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.59...0.1.60"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
@@ -1561,41 +1596,6 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.59/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.59/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.59/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.59/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "653f71bad2950d5b2b8b9bdb5e104254ef4d48f6f2c34ae513c76bdeb36929b1",
-      "size" : 2249758,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 1,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.59",
-      "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.58...0.1.59"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
@@ -1706,10 +1706,10 @@
     },
     {
       "appID" : "app.Encyclopedia-Galactica",
-      "caption" : "Encyclopedia Galactica updated from 0.1.58 to 0.1.59",
-      "date" : "2022-08-31T21:38:04Z",
-      "identifier" : "release-app.Encyclopedia-Galactica-0.1.59",
-      "title" : "New Release: Encyclopedia Galactica 0.1.59"
+      "caption" : "Encyclopedia Galactica updated from 0.1.59 to 0.1.60",
+      "date" : "2022-08-31T21:58:38Z",
+      "identifier" : "release-app.Encyclopedia-Galactica-0.1.60",
+      "title" : "New Release: Encyclopedia Galactica 0.1.60"
     }
   ],
   "platform" : "macos"

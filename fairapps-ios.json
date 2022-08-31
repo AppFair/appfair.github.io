@@ -930,33 +930,33 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.61/Encyclopedia-Galactica-iOS.ipa",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.61/Encyclopedia-Galactica.png",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica.png",
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.61/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.61/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "15a47f006e72a0230f398c41d3be0c082ed3732dc730e1f3b4146a46afc99b0a",
-      "size" : 5724382,
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "31c0c204d69d84a30920b084dbcf53961785e25b6dd5a7e639c67cf60ea46914",
+      "size" : 5724371,
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 0,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.61",
+      "version" : "0.1.63",
       "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.60...0.1.61"
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.62...0.1.63"
     },
     {
       "beta" : false,

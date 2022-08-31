@@ -23,11 +23,11 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.113`` | `89` | `2022-08-30T00:00:00Z` | `9.8 MB` | `34` | `6` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `87` | `2022-08-24T00:00:00Z` | `2.3 MB` | `203` | `25` | `1` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.113`` | `95` | `2022-08-30T00:00:00Z` | `9.8 MB` | `35` | `6` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `89` | `2022-08-24T00:00:00Z` | `2.3 MB` | `203` | `25` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `45` | `2022-08-24T00:00:00Z` | `2.3 MB` | `189` | `30` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `39` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4459` | `720` | `1` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.456`` | `27` | `2022-08-28T00:00:00Z` | `9.6 MB` | `89` | `13` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.456`` | `29` | `2022-08-28T00:00:00Z` | `9.6 MB` | `89` | `13` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `3070` | `232` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `23` | `2022-08-27T00:00:00Z` | `4 MB` | `125` | `12` | `1` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `22` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1027` | `91` | `0` | `0` |  |
@@ -42,9 +42,9 @@ tr:nth-child(even) {
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `7` | `2022-08-27T00:00:00Z` | `1.45 GB` | `103` | `9` | `0` | `0` |  |
 | [``Micro Vector``](https://Micro-Vector.github.io/App/) | ``0.0.8β`` | `7` | `2022-01-24T00:00:00Z` | `2.8 MB` | `817` | `60` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `7` | `2022-01-26T00:00:00Z` | `2.3 MB` | `1651` | `92` | `0` | `0` |  |
+| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.44`` | `6` | `2022-08-31T00:00:00Z` | `2.2 MB` | `12` | `1` | `0` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `2.7 MB` | `1397` | `63` | `0` | `0` |  |
 | [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `5` | `2022-07-04T00:00:00Z` | `2 MB` | `1200` | `99` | `0` | `0` |  |
-| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.44`` | `4` | `2022-08-31T00:00:00Z` | `2.2 MB` | `12` | `1` | `0` | `0` |  |
 | [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `2.4 MB` | `1920` | `43` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.7β`` | `4` | `2022-01-24T00:00:00Z` | `2.2 MB` | `1069` | `59` | `0` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `4` | `2022-07-20T00:00:00Z` | `12.9 MB` | `2830` | `161` | `0` | `0` |  |

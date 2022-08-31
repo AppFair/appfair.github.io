@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.263`` | `85` | `2022-08-24T00:00:00Z` | `2.3 MB` | `201` | `25` | `1` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.113`` | `70` | `2022-08-30T00:00:00Z` | `9.8 MB` | `27` | `3` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.113`` | `72` | `2022-08-30T00:00:00Z` | `9.8 MB` | `27` | `3` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `45` | `2022-08-24T00:00:00Z` | `2.3 MB` | `186` | `30` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `39` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4457` | `720` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.456`` | `24` | `2022-08-28T00:00:00Z` | `9.6 MB` | `83` | `12` | `1` | `0` |  |

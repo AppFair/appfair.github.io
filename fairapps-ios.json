@@ -28,8 +28,8 @@
       "size" : 5804309,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 98,
-        "impressionCount" : 209,
+        "downloadCount" : 99,
+        "impressionCount" : 211,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 25,
@@ -73,7 +73,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3076,
+        "impressionCount" : 3079,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 232,
@@ -118,7 +118,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 196,
+        "impressionCount" : 198,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 30,
@@ -163,7 +163,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 24,
-        "impressionCount" : 98,
+        "impressionCount" : 101,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -256,7 +256,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 16,
-        "impressionCount" : 61,
+        "impressionCount" : 64,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 8,
@@ -429,7 +429,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2835,
+        "impressionCount" : 2838,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 161,
@@ -439,6 +439,47 @@
       "version" : "0.0.16",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/screenshot_02-iphone-750x1334.png"
+      ],
+      "sha256" : "b0a96b24c4a2d1972286d867c425e0fb0d501adc9b7aa2826aab8c3e4845d1af",
+      "size" : 5805804,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 6,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.268",
+      "versionDate" : "2022-08-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.267...0.9.268"
     },
     {
       "beta" : true,
@@ -544,47 +585,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.268/screenshot_02-iphone-750x1334.png"
-      ],
-      "sha256" : "b0a96b24c4a2d1972286d867c425e0fb0d501adc9b7aa2826aab8c3e4845d1af",
-      "size" : 5805804,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 5,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.268",
-      "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.267...0.9.268"
     },
     {
       "beta" : true,
@@ -849,6 +849,41 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Encyclopedia-Galactica-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "7efb84dff6c7426cdad55005ef2ddc1596776190ee62afc80e60fbeae68e90eb",
+      "size" : 5724358,
+      "stats" : {
+        "coreSize" : 102408,
+        "downloadCount" : 3,
+        "impressionCount" : 7,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.48",
+      "versionDate" : "2022-08-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.47...0.1.48"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
 
@@ -877,7 +912,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 109,
+        "impressionCount" : 113,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -924,39 +959,39 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Encyclopedia-Galactica-iOS.ipa",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.54/Encyclopedia-Galactica-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Encyclopedia-Galactica.png",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.54/Encyclopedia-Galactica.png",
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.54/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "7efb84dff6c7426cdad55005ef2ddc1596776190ee62afc80e60fbeae68e90eb",
-      "size" : 5724358,
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.54/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "3a1f729a06e6f6dbbcf7aef3458ff033d8927c927d822e4963dfe562a18562a5",
+      "size" : 5724396,
       "stats" : {
         "coreSize" : 102408,
         "downloadCount" : 2,
-        "impressionCount" : 4,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 1,
+        "viewCount" : 0,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.48",
+      "version" : "0.1.54",
       "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.47...0.1.48"
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.53...0.1.54"
     },
     {
       "beta" : false,
@@ -991,7 +1026,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 101,
+        "impressionCount" : 103,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1026,7 +1061,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 129,
+        "impressionCount" : 131,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1077,7 +1112,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 131,
+        "impressionCount" : 133,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 12,
@@ -1113,7 +1148,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 228,
+        "impressionCount" : 232,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 18,
@@ -1148,7 +1183,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 181,
+        "impressionCount" : 186,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1183,7 +1218,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 236,
+        "impressionCount" : 239,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -1218,7 +1253,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 191,
+        "impressionCount" : 193,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -1228,41 +1263,6 @@
       "version" : "0.0.20",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.19...0.0.20"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.52/Encyclopedia-Galactica-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.52/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.52/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.52/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "662bd6f508ff4127986433c7f004d4dd6d8cb4d748b052db9b64c4c5f09e2fcf",
-      "size" : 5724379,
-      "stats" : {
-        "coreSize" : 102408,
-        "downloadCount" : 1,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.52",
-      "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.51...0.1.52"
     }
   ],
   "fundingSources" : [

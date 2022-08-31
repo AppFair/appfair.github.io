@@ -62,8 +62,8 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 102,
-        "impressionCount" : 43,
+        "downloadCount" : 108,
+        "impressionCount" : 48,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 6,
@@ -105,8 +105,8 @@
       "size" : 2281338,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 89,
-        "impressionCount" : 209,
+        "downloadCount" : 90,
+        "impressionCount" : 211,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 25,
@@ -155,7 +155,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 196,
+        "impressionCount" : 198,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 30,
@@ -207,7 +207,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4467,
+        "impressionCount" : 4470,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 720,
@@ -254,8 +254,8 @@
       "size" : 9641385,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 29,
-        "impressionCount" : 98,
+        "downloadCount" : 30,
+        "impressionCount" : 101,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -301,7 +301,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3076,
+        "impressionCount" : 3079,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 232,
@@ -350,7 +350,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 23,
-        "impressionCount" : 131,
+        "impressionCount" : 133,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 12,
@@ -426,7 +426,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3392,
+        "impressionCount" : 3394,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 575,
@@ -478,7 +478,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 18,
-        "impressionCount" : 61,
+        "impressionCount" : 64,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 8,
@@ -516,7 +516,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 228,
+        "impressionCount" : 232,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 18,
@@ -743,7 +743,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 109,
+        "impressionCount" : 113,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1007,7 +1007,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2835,
+        "impressionCount" : 2838,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 161,
@@ -1202,6 +1202,41 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "def682274b8e2cbd8874d432456a7969763df4cc607edae60d6487003f35b4f5",
+      "size" : 2249769,
+      "stats" : {
+        "coreSize" : 102408,
+        "downloadCount" : 3,
+        "impressionCount" : 7,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.48",
+      "versionDate" : "2022-08-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.47...0.1.48"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
 
@@ -1232,7 +1267,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 101,
+        "impressionCount" : 103,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1271,7 +1306,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 191,
+        "impressionCount" : 193,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -1324,7 +1359,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 79,
+        "impressionCount" : 82,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1369,41 +1404,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.48/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "def682274b8e2cbd8874d432456a7969763df4cc607edae60d6487003f35b4f5",
-      "size" : 2249769,
-      "stats" : {
-        "coreSize" : 102408,
-        "downloadCount" : 2,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.48",
-      "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.47...0.1.48"
     },
     {
       "beta" : true,
@@ -1475,7 +1475,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 129,
+        "impressionCount" : 131,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1510,7 +1510,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 181,
+        "impressionCount" : 186,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1549,7 +1549,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 236,
+        "impressionCount" : 239,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,

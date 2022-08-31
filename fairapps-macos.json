@@ -105,7 +105,7 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 51,
+        "downloadCount" : 59,
         "impressionCount" : 16,
         "issueCount" : 6,
         "starCount" : 28,
@@ -1371,6 +1371,41 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.44/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "50e09d002ac8b5107546fd23861f160a41f5b9259776b4c6a1fefd41e08d96af",
+      "size" : 2249769,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.44",
+      "versionDate" : "2022-08-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.43...0.1.44"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
@@ -1663,18 +1698,18 @@
       "title" : "New Release: Tune Out 0.8.456"
     },
     {
-      "appID" : "app.Encyclopedia-Galactica",
-      "caption" : "Encyclopedia Galactica updated from 0.1.28 to 0.1.30",
-      "date" : "2022-08-30T16:35:59Z",
-      "identifier" : "release-app.Encyclopedia-Galactica-0.1.30",
-      "title" : "New Release: Encyclopedia Galactica 0.1.30"
-    },
-    {
       "appID" : "app.App-Fair",
       "caption" : "App Fair updated from 0.8.112 to 0.8.113",
       "date" : "2022-08-30T17:38:39Z",
       "identifier" : "release-app.App-Fair-0.8.113",
       "title" : "New Release: App Fair 0.8.113"
+    },
+    {
+      "appID" : "app.Encyclopedia-Galactica",
+      "caption" : "Encyclopedia Galactica 0.1.44 released",
+      "date" : "2022-08-31T07:00:10Z",
+      "identifier" : "release-app.Encyclopedia-Galactica-0.1.44",
+      "title" : "New Release: Encyclopedia Galactica 0.1.44"
     }
   ],
   "platform" : "macos"

@@ -25,7 +25,7 @@
       "sha256" : "80f77b635402201cfbd082529cad46c48ca44a94cb0e9a9390eed28f975c6c9a",
       "stats" : {
         "downloadCount" : 2623,
-        "impressionCount" : 10016,
+        "impressionCount" : 10017,
         "viewCount" : 1077
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c6f7b0815668218db61405ee0d3dabbd4c9376bb329b6715bfb36d1de0dd5f7e",
       "stats" : {
         "downloadCount" : 17073,
-        "impressionCount" : 8884,
+        "impressionCount" : 8885,
         "viewCount" : 962
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 9081,
-        "impressionCount" : 7790,
+        "impressionCount" : 7792,
         "viewCount" : 679
       },
       "subtitle" : "Multimedia player",
@@ -124,8 +124,8 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29779,
-        "impressionCount" : 8171,
-        "viewCount" : 690
+        "impressionCount" : 8173,
+        "viewCount" : 691
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
       "tintColor" : "202B2A",
@@ -149,8 +149,8 @@
       ],
       "stats" : {
         "downloadCount" : 8600,
-        "impressionCount" : 8135,
-        "viewCount" : 661
+        "impressionCount" : 8136,
+        "viewCount" : 662
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6666,
-        "impressionCount" : 8113,
+        "impressionCount" : 8114,
         "viewCount" : 529
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3418,
-        "impressionCount" : 7358,
+        "impressionCount" : 7360,
         "viewCount" : 553
       },
       "subtitle" : "Text editor",
@@ -237,7 +237,7 @@
       "sha256" : "156b156bf27850c1a3ff5ecffe67299865e4447dac7e353044da4c283effe063",
       "stats" : {
         "downloadCount" : 3386,
-        "impressionCount" : 8593,
+        "impressionCount" : 8595,
         "viewCount" : 583
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2686,
-        "impressionCount" : 6371,
+        "impressionCount" : 6373,
         "viewCount" : 408
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2068,
-        "impressionCount" : 8126,
+        "impressionCount" : 8128,
         "viewCount" : 848
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
       "stats" : {
         "downloadCount" : 1843,
-        "impressionCount" : 6997,
+        "impressionCount" : 6999,
         "viewCount" : 438
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -355,7 +355,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1212,
-        "impressionCount" : 8447,
+        "impressionCount" : 8448,
         "viewCount" : 485
       },
       "subtitle" : "3D creation suite",
@@ -384,7 +384,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1206,
-        "impressionCount" : 6441,
+        "impressionCount" : 6443,
         "viewCount" : 504
       },
       "subtitle" : "Open-source Markdown editor",
@@ -444,7 +444,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 613,
-        "impressionCount" : 6601,
+        "impressionCount" : 6602,
         "viewCount" : 345
       },
       "subtitle" : "Text editor",
@@ -473,7 +473,7 @@
       ],
       "stats" : {
         "downloadCount" : 466,
-        "impressionCount" : 6129,
+        "impressionCount" : 6132,
         "viewCount" : 473
       },
       "subtitle" : "Sandbox construction video game",
@@ -505,7 +505,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 402,
-        "impressionCount" : 6730,
+        "impressionCount" : 6732,
         "viewCount" : 487
       },
       "subtitle" : "Text, code, and markup editor",
@@ -532,7 +532,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 283,
-        "impressionCount" : 4349,
+        "impressionCount" : 4350,
         "viewCount" : 331
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -562,7 +562,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 279,
-        "impressionCount" : 5139,
+        "impressionCount" : 5140,
         "viewCount" : 443
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -591,7 +591,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 276,
-        "impressionCount" : 4838,
+        "impressionCount" : 4839,
         "viewCount" : 412
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -619,7 +619,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 156,
-        "impressionCount" : 3488,
+        "impressionCount" : 3489,
         "viewCount" : 304
       },
       "subtitle" : "File synchronizer",
@@ -646,7 +646,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 154,
-        "impressionCount" : 5443,
+        "impressionCount" : 5444,
         "viewCount" : 571
       },
       "subtitle" : "iOS App Store alternative",
@@ -674,7 +674,7 @@
       "sha256" : "65c67ab1fa1e016363b14b303d5979cb61c051ee97d1763e0abfee6592085d23",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 3340,
+        "impressionCount" : 3341,
         "viewCount" : 310
       },
       "subtitle" : "EVE Online client",
@@ -939,8 +939,8 @@
       "sha256" : "9a1dd24a2e10ea8d7bb7737fbfb688d24552ba5f8db99a074d37dd0324db3b15",
       "stats" : {
         "downloadCount" : 4654,
-        "impressionCount" : 2214,
-        "viewCount" : 125
+        "impressionCount" : 2216,
+        "viewCount" : 126
       },
       "subtitle" : "Office suite",
       "tintColor" : "CBCBCB",
@@ -2242,7 +2242,7 @@
       "sha256" : "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73",
       "stats" : {
         "downloadCount" : 341,
-        "impressionCount" : 2174,
+        "impressionCount" : 2175,
         "viewCount" : 210
       },
       "subtitle" : "Retro video game emulation",
@@ -2375,7 +2375,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/README.md",
       "stats" : {
         "downloadCount" : 186,
-        "impressionCount" : 553,
+        "impressionCount" : 554,
         "viewCount" : 38
       },
       "subtitle" : "Multiplayer online battle arena game",
@@ -2532,7 +2532,7 @@
       "sha256" : "20346073731e3dc0ccfc79ce05abe2e1e3a9d815fb945c0683169d455c6c1004",
       "stats" : {
         "downloadCount" : 115,
-        "impressionCount" : 2019,
+        "impressionCount" : 2020,
         "viewCount" : 176
       },
       "subtitle" : "Real-time strategy game engine for Westwood games",
@@ -2714,7 +2714,7 @@
       "sha256" : "d1a2073dee3435d8a78bf289206248c9ed6be5e17f4ba1ac8412caf6d0eae0b0",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 2060,
+        "impressionCount" : 2061,
         "viewCount" : 167
       },
       "subtitle" : "Real-time strategy game",
@@ -2834,7 +2834,7 @@
       "sha256" : "5a0bdd9bc4cb7beea03b95a2549c1cf994ea8646f6621f5353dd22d79c757404",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 1985,
+        "impressionCount" : 1986,
         "viewCount" : 149
       },
       "subtitle" : "Turn-based strategy, artillery, action and comedy game",
@@ -2901,7 +2901,7 @@
       "sha256" : "d5c01584a97aaee4aef222b0f07ada24ada823a7a515a79c357084b1ecddd8a2",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 1774,
+        "impressionCount" : 1775,
         "viewCount" : 100
       },
       "subtitle" : "Board game engine",
@@ -3135,7 +3135,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6356,
-        "impressionCount" : 1399
+        "impressionCount" : 1401
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -9096,7 +9096,7 @@
       "sha256" : "1f754701f96ab2dbd55317616ab2784943439dbca63b7989f5a2815da146423a",
       "stats" : {
         "downloadCount" : 97,
-        "impressionCount" : 1353
+        "impressionCount" : 1354
       },
       "subtitle" : "Open Source Game Launcher",
       "tintColor" : "362B25",
@@ -9390,7 +9390,7 @@
       "sha256" : "04896021cbe5f1f8548f26d2ab9251128699510d2676a6ef3d544a3d99d6f7c0",
       "stats" : {
         "downloadCount" : 90,
-        "impressionCount" : 1018
+        "impressionCount" : 1019
       },
       "subtitle" : "2D game framework for Lua",
       "tintColor" : "C598C4",
@@ -13751,7 +13751,7 @@
       "sha256" : "edf84172d13b7e04da512a754fd78a73c5b47d70776ad6493ca35e2bb3fdb5d1",
       "stats" : {
         "downloadCount" : 40,
-        "impressionCount" : 794
+        "impressionCount" : 798
       },
       "subtitle" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "tintColor" : "71B2CE",
@@ -16844,7 +16844,7 @@
       "sha256" : "f8e3bceeff2ddd53e603a84c9d323f9b3b259098391283efaa046d77c34d9b38",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 1257
+        "impressionCount" : 1258
       },
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
@@ -18405,7 +18405,7 @@
       "sha256" : "3e6baf5aafacbbe69b484af26fa6c426ec326a527243807db66d24f6ec354dae",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 821
+        "impressionCount" : 822
       },
       "subtitle" : "World of Warcraft addon manager",
       "tintColor" : "7B7AB9",
@@ -20278,7 +20278,7 @@
       "sha256" : "32fca874dc376f6bcf22ff05e280a4dac99bb00dd0be3d81ab576e836f742f9e",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 1165
+        "impressionCount" : 1166
       },
       "subtitle" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "tintColor" : "828487",
@@ -39849,7 +39849,7 @@
       "name" : "Universal Battle",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 681
+        "impressionCount" : 682
       },
       "subtitle" : "Realtime multiplayer tabletop war game",
       "tintColor" : "544F5E",
@@ -50676,7 +50676,7 @@
       "sha256" : "5dffdce0206e62fc3fd62078578f0bb04366d87cb85250150b4d02499079eb25",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 145
+        "impressionCount" : 151
       },
       "subtitle" : "Web browser",
       "tintColor" : "72BBEC",

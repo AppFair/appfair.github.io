@@ -62,8 +62,8 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 168,
-        "impressionCount" : 65,
+        "downloadCount" : 169,
+        "impressionCount" : 68,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 9,
@@ -112,10 +112,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 214,
+        "impressionCount" : 215,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 32,
+        "viewCount" : 33,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -164,10 +164,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4481,
+        "impressionCount" : 4483,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 722,
+        "viewCount" : 723,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -212,7 +212,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 34,
-        "impressionCount" : 127,
+        "impressionCount" : 129,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -258,10 +258,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3096,
+        "impressionCount" : 3098,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 234,
+        "viewCount" : 235,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -307,7 +307,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 24,
-        "impressionCount" : 153,
+        "impressionCount" : 155,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 16,
@@ -383,7 +383,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3406,
+        "impressionCount" : 3407,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 577,
@@ -435,7 +435,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 71,
+        "impressionCount" : 72,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -473,7 +473,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 252,
+        "impressionCount" : 254,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -483,41 +483,6 @@
       "version" : "0.0.7",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "87215919c0dc91b5ac7217447bf54e5ef97f937dcd893fb109851d9c256cc1db",
-      "size" : 2249759,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 15,
-        "impressionCount" : 18,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 4,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.63",
-      "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.62...0.1.63"
     },
     {
       "beta" : true,
@@ -735,7 +700,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 132,
+        "impressionCount" : 134,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -999,7 +964,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2852,
+        "impressionCount" : 2853,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 162,
@@ -1224,7 +1189,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 118,
+        "impressionCount" : 119,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1259,7 +1224,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 149,
+        "impressionCount" : 151,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1298,7 +1263,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 207,
+        "impressionCount" : 208,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -1351,7 +1316,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 86,
+        "impressionCount" : 87,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1399,6 +1364,41 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "20496241f4d558df769eece68f5173c69f4a9e3ba375e844c11e546b2c302da5",
+      "size" : 2249609,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 2,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.64",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.63...0.1.64"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
@@ -1428,7 +1428,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 1,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1510,7 +1510,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 199,
+        "impressionCount" : 200,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -1549,7 +1549,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 255,
+        "impressionCount" : 258,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 23,
@@ -1698,18 +1698,18 @@
       "title" : "New Release: App Fair 0.8.113"
     },
     {
-      "appID" : "app.Encyclopedia-Galactica",
-      "caption" : "Encyclopedia Galactica updated from 0.1.61 to 0.1.63",
-      "date" : "2022-08-31T23:10:44Z",
-      "identifier" : "release-app.Encyclopedia-Galactica-0.1.63",
-      "title" : "New Release: Encyclopedia Galactica 0.1.63"
-    },
-    {
       "appID" : "app.Cloud-Cuckoo",
       "caption" : "Cloud Cuckoo updated from 0.9.269 to 0.9.273",
       "date" : "2022-09-01T16:57:16Z",
       "identifier" : "release-app.Cloud-Cuckoo-0.9.273",
       "title" : "New Release: Cloud Cuckoo 0.9.273"
+    },
+    {
+      "appID" : "app.Encyclopedia-Galactica",
+      "caption" : "Encyclopedia Galactica updated from 0.1.63 to 0.1.64",
+      "date" : "2022-09-01T17:24:52Z",
+      "identifier" : "release-app.Encyclopedia-Galactica-0.1.64",
+      "title" : "New Release: Encyclopedia Galactica 0.1.64"
     }
   ],
   "platform" : "macos"

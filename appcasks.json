@@ -25,7 +25,7 @@
       "sha256" : "e93c4d1f5d3de3f6c909d4dbd14fce8db0ca17a3a64161613512ed7eab847617",
       "stats" : {
         "downloadCount" : 2576,
-        "impressionCount" : 10017,
+        "impressionCount" : 10018,
         "viewCount" : 1077
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -311,7 +311,7 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-mac-27.2.4.dmg",
+      "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-studio-28.0.0-macos-x86_64.dmg",
       "homepage" : "https://obsproject.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-obs/AppIcon.png",
       "localizedDescription" : "Open-source software for live streaming and screen recording",
@@ -321,7 +321,7 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-obs/screenshot_01-mac-2186x1732.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-obs/screenshot_01-mac-2920x1998.png"
       ],
-      "sha256" : "9aeed92816f23fdb4819eb1b0c989c158aaab246e0bd024933429614b06435f2",
+      "sha256" : "33b2c38e0035e31d8f0c31abdda976fb0b12e491ef9ee0e2042bbebce6c57f28",
       "stats" : {
         "downloadCount" : 1841,
         "impressionCount" : 6999,
@@ -329,7 +329,8 @@
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
       "tintColor" : "369C3B",
-      "version" : "27.2.4"
+      "version" : "28.0.0",
+      "versionDate" : "2022-09-01T06:37:04Z"
     },
     {
       "beta" : false,
@@ -3695,7 +3696,7 @@
       "sha256" : "91254db5426a2127efd024a662815209e175a532e609fb1b0d3da3d92e1416ca",
       "stats" : {
         "downloadCount" : 1569,
-        "impressionCount" : 771
+        "impressionCount" : 772
       },
       "subtitle" : "Explore and manipulate your MongoDB data",
       "tintColor" : "D5EADD",
@@ -4643,7 +4644,7 @@
       "name" : "Miro",
       "stats" : {
         "downloadCount" : 692,
-        "impressionCount" : 634
+        "impressionCount" : 635
       },
       "subtitle" : "Online collaborative whiteboard platform",
       "tintColor" : "A58632",
@@ -4685,7 +4686,7 @@
       "sha256" : "c18cbfd659249d024aeb3ec4c28826bb419db2b5b1706ba25e2cb494a27e3a7b",
       "stats" : {
         "downloadCount" : 681,
-        "impressionCount" : 866
+        "impressionCount" : 868
       },
       "subtitle" : "App for note taking, organizing, task lists, and archiving",
       "tintColor" : "A2DFB2",
@@ -4821,7 +4822,7 @@
       "sha256" : "f61cae5a3ca5ffee15e23672c16390eee4d605fe9a44c9bbd620dc98fa933b36",
       "stats" : {
         "downloadCount" : 613,
-        "impressionCount" : 1804
+        "impressionCount" : 1806
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -6051,7 +6052,7 @@
       "name" : "Termius",
       "stats" : {
         "downloadCount" : 302,
-        "impressionCount" : 642
+        "impressionCount" : 643
       },
       "subtitle" : "SSH client",
       "tintColor" : "242A48",
@@ -6378,7 +6379,7 @@
       "sha256" : "d879a5063ab00e9cc13e46c68cb4ed57bbbbcdfb24bf8f4819590ec3cc712ced",
       "stats" : {
         "downloadCount" : 254,
-        "impressionCount" : 696
+        "impressionCount" : 697
       },
       "subtitle" : "Screen capturing tool",
       "tintColor" : "6994C8",
@@ -7992,7 +7993,7 @@
       "sha256" : "10db8ccc178e3fc55f2d6a2d5a9473e7ae672d858868fb40cacf92b2129c332c",
       "stats" : {
         "downloadCount" : 132,
-        "impressionCount" : 825
+        "impressionCount" : 827
       },
       "subtitle" : "Virtual video-calling space",
       "tintColor" : "3260E6",
@@ -13422,7 +13423,7 @@
       "name" : "Navicat Premium",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 337
+        "impressionCount" : 339
       },
       "subtitle" : "Database administration and development tool",
       "tintColor" : "FAF2D8",
@@ -13521,12 +13522,12 @@
       "name" : "Nutstore",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 122
+        "impressionCount" : 124
       },
       "subtitle" : "Cloud storage service platform",
       "tintColor" : "C08845",
       "version" : "5.1.7",
-      "versionDate" : "2022-09-01T05:55:42Z"
+      "versionDate" : "2022-09-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14007,7 +14008,7 @@
       "sha256" : "49e8443ea75619c66f8e9d98016340be92f2117eec4ab877e19ce3cdb2e17a51",
       "stats" : {
         "downloadCount" : 38,
-        "impressionCount" : 392
+        "impressionCount" : 394
       },
       "subtitle" : "Note taking app",
       "tintColor" : "289638",
@@ -14113,7 +14114,7 @@
       "sha256" : "73223d95e0bc5e065ee034a3199365895c48325440bf2be901a42f134aa27337",
       "stats" : {
         "downloadCount" : 37,
-        "impressionCount" : 433
+        "impressionCount" : 435
       },
       "subtitle" : "Explore and manipulate your MongoDB data",
       "tintColor" : "D5EADD",
@@ -14335,7 +14336,7 @@
       "name" : "Navicat for MySQL",
       "stats" : {
         "downloadCount" : 36,
-        "impressionCount" : 324
+        "impressionCount" : 326
       },
       "subtitle" : "Database administration and development tool",
       "tintColor" : "D3F3D5",
@@ -15293,7 +15294,7 @@
       "sha256" : "4ad5453d6228b0d5e6cf3ef505e660f9c8c757736de5d46e6949d34f7f05a16d",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 543
+        "impressionCount" : 544
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
@@ -16380,7 +16381,7 @@
       "name" : "Navicat for PostgreSQL",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 271
+        "impressionCount" : 273
       },
       "subtitle" : "Database administration and development tool for PostgreSQL",
       "tintColor" : "D3E1FC",
@@ -16538,7 +16539,7 @@
       "sha256" : "764b805b8cb9d128b729858b5f8f2c3bcbb0c2de2bfe797fd4259197253fbe4a",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 893
+        "impressionCount" : 895
       },
       "subtitle" : "Desktop client for Webull Financial LLC",
       "tintColor" : "CBD8FE",
@@ -17184,7 +17185,7 @@
       "sha256" : "c97671d7cbc4ed9a41a627886b3969f8742d8cfa3884eefd40a819231b7a27a0",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 623
+        "impressionCount" : 625
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
@@ -18384,7 +18385,7 @@
       "sha256" : "79b62ebc24a7f2c8328eb2834c1d47bccafffe4e9c3a9fdfa79fd2d34bba6e03",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 119
+        "impressionCount" : 120
       },
       "subtitle" : "Visual novel engine in Python",
       "tintColor" : "C7A28D",
@@ -21201,7 +21202,7 @@
       "sha256" : "6c5da2556ce74722822983916b696009be4f3f233d942417bdf25163f69bbf88",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 194
+        "impressionCount" : 196
       },
       "subtitle" : "Note-taking application",
       "tintColor" : "9A8DCF",
@@ -21422,7 +21423,7 @@
       "sha256" : "9310eabfe05d34a861b5dbd24b622009ca826699b095beb7451c4a3c70d9cb3b",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 385
+        "impressionCount" : 386
       },
       "subtitle" : "Git client",
       "tintColor" : "8C6CD7",
@@ -22716,7 +22717,7 @@
       "sha256" : "1ea78d1ee0d3c9990dc9df9a512c83ad3dd8fe973b30c29329a9eced244dfdae",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 1001
+        "impressionCount" : 1002
       },
       "subtitle" : "Deck tracker and deck manager for Hearthstone",
       "tintColor" : "34ACFD",
@@ -23567,7 +23568,7 @@
       "sha256" : "5827c44633c0337e526741782be3cb4887846a4bb414a270febdbc055c52bea1",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 450
+        "impressionCount" : 451
       },
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
@@ -25546,7 +25547,7 @@
       "sha256" : "efc49cd07197c4e29837c65fcb692b9d2843b80afbcd84d28dc4b3bb65b609b2",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 1204
+        "impressionCount" : 1205
       },
       "subtitle" : "Unofficial native application for Fastmail",
       "tintColor" : "4780D5",
@@ -28365,7 +28366,7 @@
       "sha256" : "b4af3a1ba1c9bf75ed3219f2ab90024ccc0b394001d36ab1788a559e88b52c0f",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 353
+        "impressionCount" : 354
       },
       "subtitle" : "Explore and manipulate your MongoDB data",
       "tintColor" : "D5EADD",
@@ -28463,7 +28464,7 @@
       "name" : "Navicat for Oracle",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 227
+        "impressionCount" : 228
       },
       "subtitle" : "Database administration and development tool for Oracle",
       "tintColor" : "FCC5D0",
@@ -29069,7 +29070,7 @@
       "sha256" : "ac6a6155e1304b7efcf5fefa80e3778026763be69361c52c9386ec3530e00822",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 216
+        "impressionCount" : 218
       },
       "subtitle" : "Private rolodex to remember people better",
       "tintColor" : "313132",
@@ -29090,7 +29091,7 @@
       "sha256" : "7cde32752b71840aff9627e5b72b3242aa5c71544b343ecbabf80181184e65d8",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 219
+        "impressionCount" : 220
       },
       "subtitle" : "Collaborative note-taking app",
       "tintColor" : "FB738C",
@@ -29906,7 +29907,7 @@
       "name" : "Navicat for SQL Server",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 246
+        "impressionCount" : 247
       },
       "subtitle" : "Database administration and development tool for SQL-server",
       "tintColor" : "FCEAC5",
@@ -33374,7 +33375,7 @@
       "name" : "Navicat for SQLite",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 228
+        "impressionCount" : 229
       },
       "subtitle" : "Database administration and development tool for SQLite",
       "tintColor" : "DAF4F2",
@@ -35550,7 +35551,7 @@
       "name" : "Navicat Premium Essentials",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 196
+        "impressionCount" : 197
       },
       "subtitle" : "Database administration and development tool",
       "tintColor" : "FAF2D8",
@@ -37357,7 +37358,7 @@
       "name" : "Navicat for MariaDB",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 233
+        "impressionCount" : 234
       },
       "subtitle" : "Database management and administration tool for MariaDB",
       "tintColor" : "EFE6DC",
@@ -40270,7 +40271,7 @@
       "sha256" : "51d219ddbf9415842e83e49f9178fc5ffd244d778454aeefc072989e5d079936",
       "stats" : {
         "downloadCount" : 866,
-        "impressionCount" : 529
+        "impressionCount" : 530
       },
       "subtitle" : "Web browser focusing on customization and control",
       "tintColor" : "F17179",
@@ -41696,7 +41697,7 @@
       "sha256" : "05fdfa6ab6e2b5c986062f776f0cc44d65066f1265bcbf3f6660a0a8fc328525",
       "stats" : {
         "downloadCount" : 184,
-        "impressionCount" : 63
+        "impressionCount" : 64
       },
       "subtitle" : "Input method supporting full and double spelling",
       "tintColor" : "EDC8BA",
@@ -44960,7 +44961,7 @@
       "name" : "VueScan",
       "stats" : {
         "downloadCount" : 49,
-        "impressionCount" : 93
+        "impressionCount" : 94
       },
       "subtitle" : "App that provides drivers for older model scanners that are no longer supported",
       "tintColor" : "AA9D92",
@@ -59420,7 +59421,7 @@
       },
       "subtitle" : "Client for the Dropbox cloud storage service",
       "version" : "156.4.4908",
-      "versionDate" : "2022-09-01T05:55:42Z"
+      "versionDate" : "2022-09-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74255,13 +74256,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "digikam",
-      "caption" : "digiKam updated from 7.7.0 to 7.8.0",
-      "date" : "2022-08-31T01:28:53Z",
-      "identifier" : "release-digikam-7.8.0",
-      "title" : "New Release: digiKam 7.8.0"
-    },
-    {
       "appID" : "dictcc-en-de-dictionary-plugin",
       "caption" : "dict.cc English-German dictionary plugin 2011-05-26 released",
       "date" : "2022-08-31T01:28:54Z",
@@ -74953,6 +74947,13 @@
       "date" : "2022-09-01T05:55:43Z",
       "identifier" : "release-dropbox-156.4.4908",
       "title" : "New Release: Dropbox 156.4.4908"
+    },
+    {
+      "appID" : "obs",
+      "caption" : "OBS updated from 27.2.4 to 28.0.0",
+      "date" : "2022-09-01T06:37:05Z",
+      "identifier" : "release-obs-28.0.0",
+      "title" : "New Release: OBS 28.0.0"
     }
   ],
   "platform" : "macos",

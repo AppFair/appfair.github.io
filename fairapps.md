@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.113`` | `168` | `2022-08-30T00:00:00Z` | `9.8 MB` | `63` | `9` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.113`` | `168` | `2022-08-30T00:00:00Z` | `9.8 MB` | `65` | `9` | `28` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `45` | `2022-08-24T00:00:00Z` | `2.3 MB` | `214` | `32` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `39` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4481` | `722` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.456`` | `34` | `2022-08-28T00:00:00Z` | `9.6 MB` | `127` | `19` | `1` | `0` |  |
@@ -32,7 +32,6 @@ tr:nth-child(even) {
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `22` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1027` | `91` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `22` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3406` | `577` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `19` | `2022-08-27T00:00:00Z` | `3.2 MB` | `71` | `10` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.269`` | `18` | `2022-09-01T00:00:00Z` | `2.3 MB` | `15` | `2` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `18` | `2022-08-24T00:00:00Z` | `2.3 MB` | `252` | `19` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.63`` | `15` | `2022-08-31T00:00:00Z` | `2.2 MB` | `18` | `4` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2220` | `138` | `0` | `0` |  |
@@ -57,6 +56,7 @@ tr:nth-child(even) {
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.20`` | `3` | `2022-08-24T00:00:00Z` | `2.3 MB` | `207` | `26` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.10`` | `3` | `2022-08-24T00:00:00Z` | `8.2 MB` | `86` | `9` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `649` | `46` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.273`` | `2` | `2022-09-01T00:00:00Z` | `2.3 MB` | `1` | `1` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `2` | `2022-08-27T00:00:00Z` | `2.3 MB` | `3` | `1` | `0` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `2` | `2022-08-24T00:00:00Z` | `2.3 MB` | `199` | `22` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `2.4 MB` | `255` | `23` | `0` | `0` |  |

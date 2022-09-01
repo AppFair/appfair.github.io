@@ -14892,8 +14892,8 @@
       },
       "subtitle" : "German banking and financial management software",
       "tintColor" : "639FD2",
-      "version" : "2.4.15,410",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "2.4.16,411",
+      "versionDate" : "2022-09-01T09:26:58Z"
     },
     {
       "beta" : false,
@@ -74256,13 +74256,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "dictcc-en-de-dictionary-plugin",
-      "caption" : "dict.cc English-German dictionary plugin 2011-05-26 released",
-      "date" : "2022-08-31T01:28:54Z",
-      "identifier" : "release-dictcc-en-de-dictionary-plugin-2011-05-26",
-      "title" : "New Release: dict.cc English-German dictionary plugin 2011-05-26"
-    },
-    {
       "appID" : "iconscout",
       "caption" : "Iconscout 1.0.4 released",
       "date" : "2022-08-31T01:28:54Z",
@@ -74954,6 +74947,13 @@
       "date" : "2022-09-01T06:37:05Z",
       "identifier" : "release-obs-28.0.0",
       "title" : "New Release: OBS 28.0.0"
+    },
+    {
+      "appID" : "moneymoney",
+      "caption" : "MoneyMoney updated from 2.4.15,410 to 2.4.16,411",
+      "date" : "2022-09-01T09:26:58Z",
+      "identifier" : "release-moneymoney-2.4.16,411",
+      "title" : "New Release: MoneyMoney 2.4.16,411"
     }
   ],
   "platform" : "macos",

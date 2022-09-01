@@ -32,7 +32,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3098,
+        "impressionCount" : 3100,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 235,
@@ -77,7 +77,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 215,
+        "impressionCount" : 216,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 33,
@@ -122,7 +122,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 36,
-        "impressionCount" : 129,
+        "impressionCount" : 131,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -298,7 +298,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 9,
-        "impressionCount" : 370,
+        "impressionCount" : 371,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 20,
@@ -360,7 +360,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 9,
-        "impressionCount" : 500,
+        "impressionCount" : 501,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -398,7 +398,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 9,
-        "impressionCount" : 1652,
+        "impressionCount" : 1654,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -433,7 +433,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2853,
+        "impressionCount" : 2854,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 162,
@@ -468,7 +468,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 6,
-        "impressionCount" : 1307,
+        "impressionCount" : 1308,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 201,
@@ -503,7 +503,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1993,
+        "impressionCount" : 1995,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -538,7 +538,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 2220,
+        "impressionCount" : 2222,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 138,
@@ -622,7 +622,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1398,
+        "impressionCount" : 1400,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -657,7 +657,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 704,
+        "impressionCount" : 705,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -692,7 +692,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 646,
+        "impressionCount" : 647,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -728,7 +728,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1921,
+        "impressionCount" : 1922,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -764,7 +764,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 1043,
+        "impressionCount" : 1045,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -799,7 +799,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 4,
-        "impressionCount" : 649,
+        "impressionCount" : 650,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -840,7 +840,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 134,
+        "impressionCount" : 135,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -893,33 +893,33 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/Encyclopedia-Galactica-iOS.ipa",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/Encyclopedia-Galactica.png",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica.png",
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
       "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "f30146e62f62905b482ece420d726e0a721e56a6022042b5189fed88c161dd38",
-      "size" : 5724204,
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "48addd1d484e4cca5325c3b8ac8cbfebd86df5f720aac72c85979298e221f395",
+      "size" : 5724235,
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 2,
         "impressionCount" : 2,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 0,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.64",
+      "version" : "0.1.65",
       "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.63...0.1.64"
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.64...0.1.65"
     },
     {
       "beta" : false,
@@ -1081,7 +1081,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 155,
+        "impressionCount" : 156,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 16,
@@ -1117,7 +1117,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 254,
+        "impressionCount" : 255,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1222,7 +1222,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 208,
+        "impressionCount" : 209,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,

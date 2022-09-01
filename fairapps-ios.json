@@ -893,39 +893,39 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.274/Cloud-Cuckoo-iOS.ipa",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.274/Cloud-Cuckoo.png",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.274/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.274/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.274/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.274/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.274/screenshot_03-iphone-750x1334.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_02-iphone-750x1334.png"
       ],
-      "sha256" : "096a83f7cb9be38623c434f9f1f98b56ed80e7421073088307a701ef238d280b",
-      "size" : 5805788,
+      "sha256" : "6de6ba0b13a9ee5a8828d12082b317e148efdc77d647d076b077cf0e4d8bad69",
+      "size" : 5805787,
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 2,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.274",
+      "version" : "0.9.275",
       "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.273...0.9.274"
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
     },
     {
       "beta" : false,

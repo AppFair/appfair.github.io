@@ -45,7 +45,7 @@ tr:nth-child(even) {
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `4` | `2022-01-25T00:00:00Z` | `5.9 MB` | `650` | `46` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `3` | `2022-08-27T00:00:00Z` | `1.46 GB` | `135` | `10` | `0` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `621` | `39` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.274`` | `2` | `2022-09-01T00:00:00Z` | `5.8 MB` | `2` | `2` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.275`` | `2` | `2022-09-01T00:00:00Z` | `5.8 MB` | `1` | `1` | `1` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.65`` | `2` | `2022-09-01T00:00:00Z` | `5.7 MB` | `2` | `0` | `0` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `2` | `2022-08-27T00:00:00Z` | `12.8 MB` | `119` | `12` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `151` | `21` | `0` | `0` |  |

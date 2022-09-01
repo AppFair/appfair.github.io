@@ -2094,13 +2094,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://download.typora.io/mac/Typora-1.3.7.dmg",
+      "downloadURL" : "https://download.typora.io/mac/Typora-1.4.2.dmg",
       "homepage" : "https://typora.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-typora/AppIcon.png",
       "localizedDescription" : "Configurable document editor that supports Markdown",
       "name" : "Typora",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-typora/README.md",
-      "sha256" : "88731f0eace5784915a9e221724eca5c7460076d43290dd3444e8ad1c5e5ba5e",
+      "sha256" : "74cdffb12fab7d9f1ab71d2ab0c01ebd77d1e00bfbf194a61aec91a4a2e8eb71",
       "stats" : {
         "downloadCount" : 508,
         "impressionCount" : 1661,
@@ -2108,7 +2108,8 @@
       },
       "subtitle" : "Configurable document editor that supports Markdown",
       "tintColor" : "E5E5E5",
-      "version" : "1.3.7"
+      "version" : "1.4.2",
+      "versionDate" : "2022-09-01T15:29:36Z"
     },
     {
       "beta" : false,
@@ -10326,20 +10327,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://curseforge.overwolf.com/electron/mac/CurseForge-0.206.2-1.dmg",
+      "downloadURL" : "https://curseforge.overwolf.com/electron/mac/CurseForge-0.206.3-1.dmg",
       "homepage" : "https://curseforge.overwolf.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-curseforge/AppIcon.png",
       "localizedDescription" : "Download and manage your addons and mods",
       "name" : "CurseForge",
-      "sha256" : "aecb8ca61cf9b5fcba7b5e6f06dfa9911e86cc60691bd19e503405b473be9e38",
+      "sha256" : "73e8f4d2f818f9bdd27d28107cdee41980ccce317fd4f9b28cd4faa345796111",
       "stats" : {
         "downloadCount" : 75,
         "impressionCount" : 553
       },
       "subtitle" : "Download and manage your addons and mods",
       "tintColor" : "333333",
-      "version" : "0.206.2-1",
-      "versionDate" : "2022-08-26T00:00:00Z"
+      "version" : "0.206.3-1",
+      "versionDate" : "2022-09-01T15:29:36Z"
     },
     {
       "beta" : false,
@@ -44210,8 +44211,8 @@
       },
       "subtitle" : "Downloads music from playlists or channels",
       "tintColor" : "959595",
-      "version" : "3.9.9.74",
-      "versionDate" : "2022-07-27T00:00:00Z"
+      "version" : "3.9.9.75",
+      "versionDate" : "2022-09-01T15:29:36Z"
     },
     {
       "beta" : false,
@@ -50496,8 +50497,8 @@
       },
       "subtitle" : "YouTube videos downloader",
       "tintColor" : "385C8B",
-      "version" : "3.9.9.76",
-      "versionDate" : "2022-07-27T00:00:00Z"
+      "version" : "3.9.9.75",
+      "versionDate" : "2022-09-01T15:29:36Z"
     },
     {
       "beta" : false,
@@ -59286,8 +59287,8 @@
         "downloadCount" : 3461
       },
       "subtitle" : "Control your tools with a few keystrokes",
-      "version" : "1.39.1",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "1.39.2",
+      "versionDate" : "2022-09-01T15:29:36Z"
     },
     {
       "beta" : false,
@@ -74260,41 +74261,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "iconscout",
-      "caption" : "Iconscout 1.0.4 released",
-      "date" : "2022-08-31T01:28:54Z",
-      "identifier" : "release-iconscout-1.0.4",
-      "title" : "New Release: Iconscout 1.0.4"
-    },
-    {
-      "appID" : "isyncer",
-      "caption" : "iSyncer 3.9.0 released",
-      "date" : "2022-08-31T01:28:54Z",
-      "identifier" : "release-isyncer-3.9.0",
-      "title" : "New Release: iSyncer 3.9.0"
-    },
-    {
-      "appID" : "triplecheese",
-      "caption" : "Triple Cheese 1.3,12092 released",
-      "date" : "2022-08-31T01:28:55Z",
-      "identifier" : "release-triplecheese-1.3,12092",
-      "title" : "New Release: Triple Cheese 1.3,12092"
-    },
-    {
-      "appID" : "xamarin-workbooks",
-      "caption" : "Xamarin Workbooks 1.5.0 released",
-      "date" : "2022-08-31T01:28:55Z",
-      "identifier" : "release-xamarin-workbooks-1.5.0",
-      "title" : "New Release: Xamarin Workbooks 1.5.0"
-    },
-    {
-      "appID" : "qbittorrent",
-      "caption" : "qBittorrent updated from 4.4.4 to 4.4.5",
-      "date" : "2022-08-31T04:35:13Z",
-      "identifier" : "release-qbittorrent-4.4.5",
-      "title" : "New Release: qBittorrent 4.4.5"
-    },
-    {
       "appID" : "transmit",
       "caption" : "Transmit updated from 5.8.8 to 5.8.9",
       "date" : "2022-08-31T04:35:13Z",
@@ -74958,6 +74924,41 @@
       "date" : "2022-09-01T09:26:58Z",
       "identifier" : "release-moneymoney-2.4.16,411",
       "title" : "New Release: MoneyMoney 2.4.16,411"
+    },
+    {
+      "appID" : "typora",
+      "caption" : "Typora updated from 1.3.7 to 1.4.2",
+      "date" : "2022-09-01T15:29:37Z",
+      "identifier" : "release-typora-1.4.2",
+      "title" : "New Release: Typora 1.4.2"
+    },
+    {
+      "appID" : "curseforge",
+      "caption" : "CurseForge updated from 0.206.2-1 to 0.206.3-1",
+      "date" : "2022-09-01T15:29:38Z",
+      "identifier" : "release-curseforge-0.206.3-1",
+      "title" : "New Release: CurseForge 0.206.3-1"
+    },
+    {
+      "appID" : "youtube-to-mp3",
+      "caption" : "MediaHuman YouTube to MP3 Converter updated from 3.9.9.74 to 3.9.9.75",
+      "date" : "2022-09-01T15:29:38Z",
+      "identifier" : "release-youtube-to-mp3-3.9.9.75",
+      "title" : "New Release: MediaHuman YouTube to MP3 Converter 3.9.9.75"
+    },
+    {
+      "appID" : "mediahuman-youtube-downloader",
+      "caption" : "MediaHuman YouTube Downloader updated from 3.9.9.76 to 3.9.9.75",
+      "date" : "2022-09-01T15:29:38Z",
+      "identifier" : "release-mediahuman-youtube-downloader-3.9.9.75",
+      "title" : "New Release: MediaHuman YouTube Downloader 3.9.9.75"
+    },
+    {
+      "appID" : "raycast",
+      "caption" : "Raycast updated from 1.39.1 to 1.39.2",
+      "date" : "2022-09-01T15:29:38Z",
+      "identifier" : "release-raycast-1.39.2",
+      "title" : "New Release: Raycast 1.39.2"
     }
   ],
   "platform" : "macos",

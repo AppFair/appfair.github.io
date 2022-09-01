@@ -77,49 +77,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.263/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "249677f26f4379a45b54f0eb3da38ab55b655d7e0a2275d042ddd90f29f04059",
-      "size" : 2281338,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 91,
-        "impressionCount" : 216,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 25,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.263",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.262...0.9.263"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
 
@@ -253,7 +210,7 @@
       "sha256" : "f6bb46473413ed9411e2e6f10fc37003e2081ce7dbfe32c96720043e72d35974",
       "size" : 9641385,
       "stats" : {
-        "coreSize" : 170784,
+        "coreSize" : 103112,
         "downloadCount" : 31,
         "impressionCount" : 104,
         "issueCount" : 0,
@@ -1372,6 +1329,49 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "6d6db6d28c2423999a813adefd03ce6ac050a0a697e51032070eecd32b18c734",
+      "size" : 2281683,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.269",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.268...0.9.269"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
 
@@ -1642,13 +1642,6 @@
   "name" : "Fair Apps",
   "news" : [
     {
-      "appID" : "app.SQL-Hero",
-      "caption" : "SQL Hero 0.0.10 released",
-      "date" : "2022-08-24T04:50:24Z",
-      "identifier" : "release-app.SQL-Hero-0.0.10",
-      "title" : "New Release: SQL Hero 0.0.10"
-    },
-    {
       "appID" : "app.Eternal-September",
       "caption" : "Eternal September updated from 0.0.35 to 0.0.45",
       "date" : "2022-08-24T12:54:04Z",
@@ -1710,6 +1703,13 @@
       "date" : "2022-08-31T23:10:44Z",
       "identifier" : "release-app.Encyclopedia-Galactica-0.1.63",
       "title" : "New Release: Encyclopedia Galactica 0.1.63"
+    },
+    {
+      "appID" : "app.Cloud-Cuckoo",
+      "caption" : "Cloud Cuckoo updated from 0.9.263 to 0.9.269",
+      "date" : "2022-09-01T03:08:33Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.269",
+      "title" : "New Release: Cloud Cuckoo 0.9.269"
     }
   ],
   "platform" : "macos"

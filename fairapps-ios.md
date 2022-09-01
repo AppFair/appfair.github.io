@@ -27,7 +27,6 @@ tr:nth-child(even) {
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `42` | `2022-08-24T00:00:00Z` | `5.8 MB` | `214` | `32` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.456`` | `36` | `2022-08-28T00:00:00Z` | `18 MB` | `127` | `19` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `3` | `1` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.269`` | `17` | `2022-09-01T00:00:00Z` | `5.8 MB` | `15` | `2` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `16` | `2022-08-27T00:00:00Z` | `7.7 MB` | `71` | `10` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.63`` | `14` | `2022-08-31T00:00:00Z` | `5.7 MB` | `18` | `4` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.457β`` | `12` | `2022-09-01T00:00:00Z` | `18 MB` | `0` | `0` | `1` | `0` |  |
@@ -47,7 +46,7 @@ tr:nth-child(even) {
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `4` | `2022-01-25T00:00:00Z` | `5.9 MB` | `649` | `46` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `3` | `2022-08-27T00:00:00Z` | `1.46 GB` | `132` | `10` | `0` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `621` | `39` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.271β`` | `2` | `2022-09-01T00:00:00Z` | `5.8 MB` | `0` | `0` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.273`` | `2` | `2022-09-01T00:00:00Z` | `5.8 MB` | `1` | `1` | `1` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `2` | `2022-08-27T00:00:00Z` | `12.8 MB` | `118` | `12` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `149` | `21` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `2` | `2022-08-27T00:00:00Z` | `8.8 MB` | `153` | `16` | `1` | `0` |  |

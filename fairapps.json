@@ -62,7 +62,7 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 152,
+        "downloadCount" : 158,
         "impressionCount" : 60,
         "issueCount" : 6,
         "starCount" : 28,
@@ -211,11 +211,11 @@
       "size" : 9641385,
       "stats" : {
         "coreSize" : 103112,
-        "downloadCount" : 33,
-        "impressionCount" : 119,
+        "downloadCount" : 34,
+        "impressionCount" : 121,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 18,
+        "viewCount" : 19,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -306,11 +306,11 @@
       "size" : 4011787,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 23,
-        "impressionCount" : 145,
+        "downloadCount" : 24,
+        "impressionCount" : 147,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 14,
+        "viewCount" : 16,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -434,11 +434,11 @@
       "size" : 3247297,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 18,
-        "impressionCount" : 67,
+        "downloadCount" : 19,
+        "impressionCount" : 69,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 8,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -485,6 +485,49 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "6d6db6d28c2423999a813adefd03ce6ac050a0a697e51032070eecd32b18c734",
+      "size" : 2281683,
+      "stats" : {
+        "coreSize" : 102400,
+        "downloadCount" : 11,
+        "impressionCount" : 10,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.269",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.268...0.9.269"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Down-Town",
       "categories" : [
@@ -522,6 +565,41 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "87215919c0dc91b5ac7217447bf54e5ef97f937dcd893fb109851d9c256cc1db",
+      "size" : 2249759,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 10,
+        "impressionCount" : 12,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 4,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.63",
+      "versionDate" : "2022-08-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.62...0.1.63"
     },
     {
       "beta" : true,
@@ -863,41 +941,6 @@
       "versionDescription" : ""
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "87215919c0dc91b5ac7217447bf54e5ef97f937dcd893fb109851d9c256cc1db",
-      "size" : 2249759,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 4,
-        "impressionCount" : 10,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.63",
-      "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.62...0.1.63"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
@@ -1194,49 +1237,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.269/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "6d6db6d28c2423999a813adefd03ce6ac050a0a697e51032070eecd32b18c734",
-      "size" : 2281683,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 3,
-        "impressionCount" : 10,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.269",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.268...0.9.269"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
 
@@ -1277,6 +1277,41 @@
       "version" : "0.0.96",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tidal-Zone",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Tidal-Zone-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Tidal-Zone.png",
+      "localizedDescription" : "What tide is it right now?",
+      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Tidal Zone",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/README.md#bbf17dc0b7f39e7922e3b9b93a40d35212c997497b730675af5b101f63cb72d3",
+      "sha256" : "d9e39ec3d52350542d27c91d4c18376c6ab41f3f5688d599eceac60b3b112113",
+      "size" : 2214517,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 3,
+        "impressionCount" : 144,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 21,
+        "watcherCount" : 0
+      },
+      "subtitle" : "What tide is it right now?",
+      "version" : "0.1.1",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tidal-Zone/App/commits/0.1.1"
     },
     {
       "beta" : false,
@@ -1450,41 +1485,6 @@
       "version" : "0.0.22",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tidal-Zone",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Tidal-Zone-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Tidal-Zone.png",
-      "localizedDescription" : "What tide is it right now?",
-      "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Tidal Zone",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/README.md#bbf17dc0b7f39e7922e3b9b93a40d35212c997497b730675af5b101f63cb72d3",
-      "sha256" : "d9e39ec3d52350542d27c91d4c18376c6ab41f3f5688d599eceac60b3b112113",
-      "size" : 2214517,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 2,
-        "impressionCount" : 141,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 19,
-        "watcherCount" : 0
-      },
-      "subtitle" : "What tide is it right now?",
-      "version" : "0.1.1",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tidal-Zone/App/commits/0.1.1"
     },
     {
       "beta" : false,

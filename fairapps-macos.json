@@ -62,7 +62,7 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 169,
+        "downloadCount" : 170,
         "impressionCount" : 68,
         "issueCount" : 6,
         "starCount" : 28,
@@ -112,7 +112,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 215,
+        "impressionCount" : 216,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 33,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4483,
+        "impressionCount" : 4484,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 723,
@@ -212,7 +212,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 34,
-        "impressionCount" : 129,
+        "impressionCount" : 131,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -258,7 +258,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3098,
+        "impressionCount" : 3100,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 235,
@@ -307,7 +307,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 24,
-        "impressionCount" : 155,
+        "impressionCount" : 156,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 16,
@@ -343,7 +343,7 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 22,
-        "impressionCount" : 1027,
+        "impressionCount" : 1028,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 91,
@@ -383,7 +383,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3407,
+        "impressionCount" : 3408,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 577,
@@ -473,7 +473,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 254,
+        "impressionCount" : 255,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -512,7 +512,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 11,
-        "impressionCount" : 2220,
+        "impressionCount" : 2222,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 138,
@@ -548,7 +548,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 9,
-        "impressionCount" : 30,
+        "impressionCount" : 31,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -586,7 +586,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1993,
+        "impressionCount" : 1995,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -625,7 +625,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
-        "impressionCount" : 602,
+        "impressionCount" : 604,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 72,
@@ -660,7 +660,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 8,
-        "impressionCount" : 776,
+        "impressionCount" : 778,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -700,7 +700,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 134,
+        "impressionCount" : 135,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -739,7 +739,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 7,
-        "impressionCount" : 817,
+        "impressionCount" : 819,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -777,7 +777,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1652,
+        "impressionCount" : 1654,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -816,7 +816,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1398,
+        "impressionCount" : 1400,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -889,7 +889,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1921,
+        "impressionCount" : 1922,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -964,7 +964,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2853,
+        "impressionCount" : 2854,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 162,
@@ -1044,7 +1044,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 704,
+        "impressionCount" : 705,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -1083,7 +1083,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 646,
+        "impressionCount" : 647,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -1263,7 +1263,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 208,
+        "impressionCount" : 209,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -1351,7 +1351,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 3,
-        "impressionCount" : 649,
+        "impressionCount" : 650,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1361,41 +1361,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.64/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "20496241f4d558df769eece68f5173c69f4a9e3ba375e844c11e546b2c302da5",
-      "size" : 2249609,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 2,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.64",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.63...0.1.64"
     },
     {
       "beta" : false,
@@ -1596,6 +1561,41 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "0eb7b2f11f050203bbb282d1b8d2c2f106a721b9df81d68cb32be8a11856470f",
+      "size" : 2249608,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 1,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.65",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.64...0.1.65"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
@@ -1623,7 +1623,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 1043,
+        "impressionCount" : 1045,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -1706,10 +1706,10 @@
     },
     {
       "appID" : "app.Encyclopedia-Galactica",
-      "caption" : "Encyclopedia Galactica updated from 0.1.63 to 0.1.64",
-      "date" : "2022-09-01T17:24:52Z",
-      "identifier" : "release-app.Encyclopedia-Galactica-0.1.64",
-      "title" : "New Release: Encyclopedia Galactica 0.1.64"
+      "caption" : "Encyclopedia Galactica updated from 0.1.64 to 0.1.65",
+      "date" : "2022-09-01T17:45:31Z",
+      "identifier" : "release-app.Encyclopedia-Galactica-0.1.65",
+      "title" : "New Release: Encyclopedia Galactica 0.1.65"
     }
   ],
   "platform" : "macos"

@@ -3780,14 +3780,14 @@ tr:nth-child(even) {
 | [``Nifty``](https://niftypm.com/) | ``3.35.10`` | `1` |  |  |  |  |  | `0` |  |
 | [``Ninja Download Manager``](https://ninjadownloadmanager.com/) | ``46`` | `1` |  |  |  |  |  | `0` |  |
 | [``Nocturne``](https://github.com/Daij-Djan/nocturne) | ``3.0`` | `1` | `2022-08-13T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Nudge``](https://github.com/macadmins/nudge) | ``1.1.8.81422`` | `1` | `2022-09-01T01:11:32Z` |  |  |  |  | `0` |  |
-| [``OpenSong``](http://www.opensong.org/) | ``3.4.8`` | `1` | `2022-09-01T01:11:32Z` |  |  |  |  | `0` |  |
+| [``Nudge``](https://github.com/macadmins/nudge) | ``1.1.8.81422`` | `1` | `2022-09-01T00:00:00Z` |  |  |  |  | `0` |  |
+| [``OpenSong``](http://www.opensong.org/) | ``3.4.8`` | `1` | `2022-09-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Pages Data Merge``](https://iworkautomation.com/pages/script-tags-data-merge.html) | ``1.8`` | `1` | `2022-07-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Pathephone``](https://pathephone.github.io/) | ``2.2.1`` | `1` | `2022-08-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Pext``](https://pext.io/) | ``0.32`` | `1` | `2022-08-29T00:00:00Z` |  |  |  |  | `0` |  |
 | [``PingMenu``](https://github.com/kalleboo/PingMenu) | ``1.3,2`` | `1` | `2022-08-30T00:00:00Z` |  |  |  |  | `0` |  |
 | [``PitchPerfect``](https://www.nch.com.au/tuner/) | ``2.15`` | `1` | `2022-08-16T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Podolski``](https://u-he.com/products/podolski/) | ``1.2.3,12092`` | `1` | `2022-09-01T01:11:32Z` |  |  |  |  | `0` |  |
+| [``Podolski``](https://u-he.com/products/podolski/) | ``1.2.3,12092`` | `1` | `2022-09-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``PongSaver``](https://rogueamoeba.com/freebies/) | ``latest`` | `1` |  |  |  |  |  | `0` |  |
 | [``Proximity``](https://www.tokyodawn.net/proximity/) | ``1.0.1`` | `1` | `2022-08-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Pure Writer Desktop``](https://writer.drakeet.com/desktop) | ``1.6.0,1.6.0`` | `1` | `2022-08-28T00:00:00Z` |  |  |  |  | `0` |  |

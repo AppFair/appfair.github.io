@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 158,
-        "impressionCount" : 60,
+        "downloadCount" : 168,
+        "impressionCount" : 63,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 8,
+        "viewCount" : 9,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -112,10 +112,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 209,
+        "impressionCount" : 214,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 31,
+        "viewCount" : 32,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4476,
+        "impressionCount" : 4481,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 722,
@@ -212,7 +212,7 @@
       "stats" : {
         "coreSize" : 103112,
         "downloadCount" : 34,
-        "impressionCount" : 121,
+        "impressionCount" : 127,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -258,7 +258,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3089,
+        "impressionCount" : 3096,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 234,
@@ -307,7 +307,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 24,
-        "impressionCount" : 147,
+        "impressionCount" : 153,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 16,
@@ -383,7 +383,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3401,
+        "impressionCount" : 3406,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 577,
@@ -435,7 +435,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 69,
+        "impressionCount" : 71,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -445,44 +445,6 @@
       "version" : "0.0.45",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
-      "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Crazy Glue",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Crazy-Glue/App/releases/download/0.0.7/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "e1deb5fa716d43bf3f8db9f06f84b45ce809012261a6355aae6944f3fa7b1fdc",
-      "size" : 2273312,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 18,
-        "impressionCount" : 245,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 19,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.7",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
     },
     {
       "beta" : false,
@@ -514,8 +476,8 @@
       "size" : 2281683,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 11,
-        "impressionCount" : 10,
+        "downloadCount" : 18,
+        "impressionCount" : 15,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -526,6 +488,79 @@
       "version" : "0.9.269",
       "versionDate" : "2022-09-01T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.268...0.9.269"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Crazy-Glue",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
+      "localizedDescription" : "Putting the pieces back together",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Crazy Glue",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.7/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "e1deb5fa716d43bf3f8db9f06f84b45ce809012261a6355aae6944f3fa7b1fdc",
+      "size" : 2273312,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 18,
+        "impressionCount" : 252,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 19,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Putting the pieces back together",
+      "version" : "0.0.7",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "87215919c0dc91b5ac7217447bf54e5ef97f937dcd893fb109851d9c256cc1db",
+      "size" : 2249759,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 15,
+        "impressionCount" : 18,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 4,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.63",
+      "versionDate" : "2022-08-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.62...0.1.63"
     },
     {
       "beta" : true,
@@ -565,41 +600,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.63/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "87215919c0dc91b5ac7217447bf54e5ef97f937dcd893fb109851d9c256cc1db",
-      "size" : 2249759,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 10,
-        "impressionCount" : 12,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 4,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.63",
-      "versionDate" : "2022-08-31T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.62...0.1.63"
     },
     {
       "beta" : true,
@@ -778,7 +778,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 126,
+        "impressionCount" : 132,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1042,7 +1042,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2846,
+        "impressionCount" : 2852,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 162,
@@ -1267,7 +1267,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 114,
+        "impressionCount" : 118,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1302,7 +1302,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 144,
+        "impressionCount" : 149,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1341,7 +1341,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 204,
+        "impressionCount" : 207,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -1394,7 +1394,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 84,
+        "impressionCount" : 86,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1510,7 +1510,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 196,
+        "impressionCount" : 199,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -1549,7 +1549,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 250,
+        "impressionCount" : 255,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 23,

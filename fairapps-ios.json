@@ -32,7 +32,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3122,
+        "impressionCount" : 3123,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 237,
@@ -77,7 +77,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 242,
+        "impressionCount" : 244,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 36,
@@ -210,10 +210,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 9,
-        "impressionCount" : 31,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -384,7 +384,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2874,
+        "impressionCount" : 2875,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 162,
@@ -428,7 +428,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 6,
-        "impressionCount" : 39,
+        "impressionCount" : 42,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 6,
@@ -464,7 +464,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 6,
-        "impressionCount" : 33,
+        "impressionCount" : 35,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -871,7 +871,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 168,
+        "impressionCount" : 170,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -986,7 +986,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 145,
+        "impressionCount" : 146,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1021,10 +1021,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 181,
+        "impressionCount" : 184,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1072,7 +1072,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 185,
+        "impressionCount" : 187,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -1108,7 +1108,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 285,
+        "impressionCount" : 287,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -1143,10 +1143,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 220,
+        "impressionCount" : 223,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 23,
+        "viewCount" : 24,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1178,7 +1178,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 284,
+        "impressionCount" : 287,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 230,
+        "impressionCount" : 232,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,

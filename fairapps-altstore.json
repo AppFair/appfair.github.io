@@ -23,7 +23,7 @@
       "stats": {
         "coreSize": 170144,
         "downloadCount": 5,
-        "impressionCount": 21,
+        "impressionCount": 25,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 1,
@@ -64,7 +64,7 @@
       "stats": {
         "coreSize": 170784,
         "downloadCount": 4,
-        "impressionCount": 24,
+        "impressionCount": 26,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 2,
@@ -112,10 +112,10 @@
       "stats": {
         "coreSize": 170224,
         "downloadCount": 2,
-        "impressionCount": 177,
+        "impressionCount": 180,
         "issueCount": 0,
         "starCount": 1,
-        "viewCount": 18,
+        "viewCount": 19,
         "watcherCount": 0
       },
       "subtitle": "An electronic book reader",

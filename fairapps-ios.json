@@ -32,10 +32,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3117,
+        "impressionCount" : 3119,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 236,
+        "viewCount" : 237,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -77,10 +77,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 235,
+        "impressionCount" : 237,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 35,
+        "viewCount" : 36,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -170,7 +170,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 16,
-        "impressionCount" : 84,
+        "impressionCount" : 85,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -343,7 +343,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2871,
+        "impressionCount" : 2872,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 162,
@@ -488,7 +488,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 21,
+        "impressionCount" : 25,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -688,7 +688,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 4,
-        "impressionCount" : 24,
+        "impressionCount" : 26,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -724,7 +724,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 4,
-        "impressionCount" : 28,
+        "impressionCount" : 30,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -871,7 +871,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 161,
+        "impressionCount" : 165,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -950,7 +950,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 138,
+        "impressionCount" : 141,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -985,10 +985,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 172,
+        "impressionCount" : 176,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 21,
+        "viewCount" : 22,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1036,10 +1036,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 177,
+        "impressionCount" : 180,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 18,
+        "viewCount" : 19,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1072,10 +1072,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 278,
+        "impressionCount" : 280,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 21,
+        "viewCount" : 22,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1107,10 +1107,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 215,
+        "impressionCount" : 218,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1142,10 +1142,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 276,
+        "impressionCount" : 281,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 23,
+        "viewCount" : 24,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1177,7 +1177,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 226,
+        "impressionCount" : 228,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,

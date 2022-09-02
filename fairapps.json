@@ -1441,29 +1441,29 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Fair-Skies",
       "categories" : [
 
       ],
-      "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.1/Fair-Skies-macOS.zip",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-macOS.zip",
       "fundingLinks" : [
 
       ],
       "homepage" : "http://Fair-Skies.github.io/App",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.1/Fair-Skies.png",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
       "localizedDescription" : "An app for weather bugs",
-      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Fair Skies",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.1/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "789c2a8a06c814c3212a38c6bf98dad2ed10de0ed42405db92a941f3cbeb3e91",
-      "size" : 2239910,
+      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "sha256" : "d8b76c8ee8380f0a28bdf3de6c6e812b22866f4a09e05d6e4b1071ebae1170e4",
+      "size" : 2583226,
       "stats" : {
-        "coreSize" : 170144,
+        "coreSize" : 170240,
         "downloadCount" : 2,
         "impressionCount" : 1,
         "issueCount" : 0,
@@ -1472,9 +1472,9 @@
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
-      "version" : "0.0.1",
+      "version" : "0.0.5",
       "versionDate" : "2022-09-02T00:00:00Z",
-      "versionDescription" : ""
+      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
     },
     {
       "beta" : true,
@@ -1678,13 +1678,6 @@
   "name" : "Fair Apps",
   "news" : [
     {
-      "appID" : "app.Eternal-September",
-      "caption" : "Eternal September updated from 0.0.35 to 0.0.45",
-      "date" : "2022-08-24T12:54:04Z",
-      "identifier" : "release-app.Eternal-September-0.0.45",
-      "title" : "New Release: Eternal September 0.0.45"
-    },
-    {
       "appID" : "app.Stanza-Redux",
       "caption" : "Stanza Redux updated from 0.3.50 to 0.3.59",
       "date" : "2022-08-27T03:56:30Z",
@@ -1746,6 +1739,13 @@
       "date" : "2022-09-01T20:20:44Z",
       "identifier" : "release-app.Tune-Out-0.8.458",
       "title" : "New Release: Tune Out 0.8.458"
+    },
+    {
+      "appID" : "app.Fair-Skies",
+      "caption" : "Fair Skies 0.0.5 released",
+      "date" : "2022-09-02T23:52:28Z",
+      "identifier" : "release-app.Fair-Skies-0.0.5",
+      "title" : "New Release: Fair Skies 0.0.5"
     }
   ],
   "platform" : "macos"

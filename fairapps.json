@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 177,
-        "impressionCount" : 78,
+        "downloadCount" : 180,
+        "impressionCount" : 82,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 10,
+        "viewCount" : 12,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -112,10 +112,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 221,
+        "impressionCount" : 229,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 33,
+        "viewCount" : 35,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4487,
+        "impressionCount" : 4493,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 723,
@@ -210,10 +210,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3103,
+        "impressionCount" : 3109,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 235,
+        "viewCount" : 236,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -259,10 +259,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 24,
-        "impressionCount" : 161,
+        "impressionCount" : 168,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 16,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -335,10 +335,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3411,
+        "impressionCount" : 3417,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 577,
+        "viewCount" : 578,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -387,7 +387,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 75,
+        "impressionCount" : 80,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -425,7 +425,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 261,
+        "impressionCount" : 269,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 20,
@@ -464,7 +464,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 11,
-        "impressionCount" : 2222,
+        "impressionCount" : 2223,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 138,
@@ -538,7 +538,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 1995,
+        "impressionCount" : 1996,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -652,7 +652,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 140,
+        "impressionCount" : 149,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -729,7 +729,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1654,
+        "impressionCount" : 1655,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -768,7 +768,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1400,
+        "impressionCount" : 1401,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -815,6 +815,97 @@
       "versionDescription" : ""
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-mac-2180x1464.png"
+      ],
+      "sha256" : "1d56138f625e73a4f5801f2c3c5c9b9bf0ef8359dfd28cd4d4c462875732d986",
+      "size" : 9641013,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 4,
+        "impressionCount" : 11,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.458",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "2578aeb660a40bd3c6029d48533956ed24ff0433b85c46a7e40617cf6d10bb17",
+      "size" : 2281682,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 4,
+        "impressionCount" : 13,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.275",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
@@ -841,7 +932,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1922,
+        "impressionCount" : 1923,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -916,7 +1007,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2857,
+        "impressionCount" : 2865,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 162,
@@ -996,7 +1087,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 705,
+        "impressionCount" : 706,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -1035,7 +1126,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 647,
+        "impressionCount" : 648,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -1111,6 +1202,41 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "0eb7b2f11f050203bbb282d1b8d2c2f106a721b9df81d68cb32be8a11856470f",
+      "size" : 2249608,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 3,
+        "impressionCount" : 14,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.65",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.64...0.1.65"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "categories" : [
 
@@ -1141,7 +1267,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 124,
+        "impressionCount" : 130,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1176,7 +1302,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 157,
+        "impressionCount" : 164,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1215,10 +1341,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 214,
+        "impressionCount" : 220,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 26,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1268,7 +1394,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 89,
+        "impressionCount" : 90,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -1303,7 +1429,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 3,
-        "impressionCount" : 650,
+        "impressionCount" : 651,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1313,97 +1439,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-mac-2180x1464.png"
-      ],
-      "sha256" : "1d56138f625e73a4f5801f2c3c5c9b9bf0ef8359dfd28cd4d4c462875732d986",
-      "size" : 9641013,
-      "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 2,
-        "impressionCount" : 3,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.458",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "2578aeb660a40bd3c6029d48533956ed24ff0433b85c46a7e40617cf6d10bb17",
-      "size" : 2281682,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 2,
-        "impressionCount" : 6,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.275",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
     },
     {
       "beta" : true,
@@ -1439,7 +1474,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 3,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1475,7 +1510,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 206,
+        "impressionCount" : 210,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -1514,7 +1549,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 262,
+        "impressionCount" : 267,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 23,
@@ -1549,7 +1584,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 621,
+        "impressionCount" : 622,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -1559,41 +1594,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "0eb7b2f11f050203bbb282d1b8d2c2f106a721b9df81d68cb32be8a11856470f",
-      "size" : 2249608,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 1,
-        "impressionCount" : 7,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.65",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.64...0.1.65"
     },
     {
       "beta" : true,
@@ -1623,7 +1623,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 1045,
+        "impressionCount" : 1046,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,

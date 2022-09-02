@@ -25,7 +25,7 @@
       "sha256" : "e93c4d1f5d3de3f6c909d4dbd14fce8db0ca17a3a64161613512ed7eab847617",
       "stats" : {
         "downloadCount" : 2664,
-        "impressionCount" : 10094,
+        "impressionCount" : 10095,
         "viewCount" : 1094
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c6f7b0815668218db61405ee0d3dabbd4c9376bb329b6715bfb36d1de0dd5f7e",
       "stats" : {
         "downloadCount" : 17328,
-        "impressionCount" : 8951,
+        "impressionCount" : 8952,
         "viewCount" : 964
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 9145,
-        "impressionCount" : 7845,
+        "impressionCount" : 7846,
         "viewCount" : 684
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29269,
-        "impressionCount" : 8249,
+        "impressionCount" : 8250,
         "viewCount" : 700
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8504,
-        "impressionCount" : 8196,
+        "impressionCount" : 8198,
         "viewCount" : 664
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6637,
-        "impressionCount" : 8160,
+        "impressionCount" : 8161,
         "viewCount" : 535
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3434,
-        "impressionCount" : 7417,
+        "impressionCount" : 7419,
         "viewCount" : 556
       },
       "subtitle" : "Text editor",
@@ -237,7 +237,7 @@
       "sha256" : "8f22fb8ecb3a67611e68c7e643c3424850dfdcb7b04795e4175bb2ce8f436faf",
       "stats" : {
         "downloadCount" : 3351,
-        "impressionCount" : 8649,
+        "impressionCount" : 8650,
         "viewCount" : 585
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2668,
-        "impressionCount" : 6431,
+        "impressionCount" : 6433,
         "viewCount" : 411
       },
       "subtitle" : "Video game digital distribution service",
@@ -298,7 +298,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 2028,
-        "impressionCount" : 8193,
+        "impressionCount" : 8195,
         "viewCount" : 855
       },
       "subtitle" : "File archiver",
@@ -324,7 +324,7 @@
       "sha256" : "33b2c38e0035e31d8f0c31abdda976fb0b12e491ef9ee0e2042bbebce6c57f28",
       "stats" : {
         "downloadCount" : 1931,
-        "impressionCount" : 7075,
+        "impressionCount" : 7076,
         "viewCount" : 445
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -356,7 +356,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1219,
-        "impressionCount" : 8504,
+        "impressionCount" : 8506,
         "viewCount" : 486
       },
       "subtitle" : "3D creation suite",
@@ -385,7 +385,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1190,
-        "impressionCount" : 6499,
+        "impressionCount" : 6500,
         "viewCount" : 511
       },
       "subtitle" : "Open-source Markdown editor",
@@ -709,7 +709,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 3039,
+        "impressionCount" : 3040,
         "viewCount" : 259
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -831,7 +831,7 @@
       "sha256" : "81d2f1cbbe40d6bc6ad1f8b442a3f1d384a77a06cf3d694153679d32d6b9f8f2",
       "stats" : {
         "downloadCount" : 7849,
-        "impressionCount" : 2556,
+        "impressionCount" : 2557,
         "viewCount" : 151
       },
       "subtitle" : "Universal database tool and SQL client",
@@ -1009,7 +1009,7 @@
       "sha256" : "c0b34db0adba72cdfb89f988c428d4490cf9c60ff732868a28e4c7ac81cbe361",
       "stats" : {
         "downloadCount" : 4076,
-        "impressionCount" : 4359,
+        "impressionCount" : 4360,
         "viewCount" : 269
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1237,7 +1237,7 @@
       "sha256" : "9c1402f8682ecefe84ae9494c65b80da1b763664624a7f6b0104b044b4cb687a",
       "stats" : {
         "downloadCount" : 2545,
-        "impressionCount" : 2120,
+        "impressionCount" : 2121,
         "viewCount" : 89
       },
       "subtitle" : "IDE for Java development - community edition",
@@ -2693,7 +2693,7 @@
       "sha256" : "9d37e7787476dfd5ccf9eebfbc06c41124d0338ae3b2d90f94740620143b24d4",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 2595,
+        "impressionCount" : 2596,
         "viewCount" : 229
       },
       "subtitle" : "News reader with flexible settings",
@@ -3137,7 +3137,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6284,
-        "impressionCount" : 1448
+        "impressionCount" : 1449
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3218,7 +3218,7 @@
       "sha256" : "e54a026da11d05d9bb0172f4ef936ba2366f985b5424e7eecf9e9341804d65bf",
       "stats" : {
         "downloadCount" : 3450,
-        "impressionCount" : 788
+        "impressionCount" : 789
       },
       "subtitle" : "Java IDE by JetBrains",
       "tintColor" : "5F5977",
@@ -4172,7 +4172,7 @@
       "sha256" : "9dd93eec1f27dee5573ee6962a51c17b0be3b49869daa3dd690ce22c46c1adea",
       "stats" : {
         "downloadCount" : 951,
-        "impressionCount" : 785
+        "impressionCount" : 786
       },
       "subtitle" : "Customize mouse behavior",
       "tintColor" : "65AAE1",
@@ -4398,7 +4398,7 @@
       "sha256" : "1dfbcd40a3737ba0161fdaced8d24390ba765d2e701fd0e54ac0d9ca65d8569c",
       "stats" : {
         "downloadCount" : 789,
-        "impressionCount" : 1064
+        "impressionCount" : 1065
       },
       "subtitle" : "Tool to show live information about the batteries in various devices",
       "tintColor" : "AF723F",
@@ -4460,7 +4460,7 @@
       "sha256" : "7d57692ce83dd6c853c80c457bdb8239dd833cf5535c600154a7ebc0be18a05d",
       "stats" : {
         "downloadCount" : 772,
-        "impressionCount" : 610
+        "impressionCount" : 613
       },
       "subtitle" : "JavaScript IDE",
       "tintColor" : "2E7991",
@@ -4687,7 +4687,7 @@
       "sha256" : "8dfd60f93657d7a5be014a468fe60fa4f1e602120f3d6ddeed5b34e7fe57f374",
       "stats" : {
         "downloadCount" : 685,
-        "impressionCount" : 1173
+        "impressionCount" : 1174
       },
       "subtitle" : "Menu bar tool to limit maximum charging percentage",
       "tintColor" : "857569",
@@ -5254,7 +5254,7 @@
       "sha256" : "699908db22c09378a27e03587c1d8b51e1c0138e0df3dcba823a66950b9f664d",
       "stats" : {
         "downloadCount" : 447,
-        "impressionCount" : 514
+        "impressionCount" : 515
       },
       "subtitle" : "All-in-One Java Troubleshooting Tool",
       "tintColor" : "F24A1D",
@@ -5867,7 +5867,7 @@
       "sha256" : "3c0b601f7bd3f3125d5f4eb652fd489c24f03a9ea991e203fb87fbebd253951f",
       "stats" : {
         "downloadCount" : 333,
-        "impressionCount" : 600
+        "impressionCount" : 601
       },
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
@@ -6792,7 +6792,7 @@
       "sha256" : "b96ffc61564db437d042b2ba4113644be9b9bfce8453167307883710b4b3742c",
       "stats" : {
         "downloadCount" : 214,
-        "impressionCount" : 814
+        "impressionCount" : 815
       },
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
@@ -8356,7 +8356,7 @@
       "sha256" : "009e47f869b60acbe7bfef95678aa922d6fdfe3699335f2b3bccf03dab22d8d4",
       "stats" : {
         "downloadCount" : 120,
-        "impressionCount" : 480
+        "impressionCount" : 481
       },
       "subtitle" : "JavaScript playground that auto-evaluates as code is typed",
       "tintColor" : "E0CB1C",
@@ -15647,7 +15647,7 @@
       "sha256" : "797a6fb6bca07ddc1b5f15513ee8ad57d9ddf74cb8003c5fe1dc306b34cc3a6d",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 593
+        "impressionCount" : 594
       },
       "subtitle" : "Javascript Secrets Vault - Multi-Platform Desktop Application",
       "tintColor" : "47BAA8",
@@ -43650,7 +43650,7 @@
       "sha256" : "9fbe966e2f82f8702a431a183fb2a8bc5866233433fb34bc7570df39bf069049",
       "stats" : {
         "downloadCount" : 74,
-        "impressionCount" : 56
+        "impressionCount" : 57
       },
       "subtitle" : "Window and app manager scriptable with JavaScript",
       "tintColor" : "53141A",
@@ -50048,7 +50048,7 @@
       "sha256" : "ffe34fd0cb98bd0b9e29498af40876d65313d61b5bad5a1c388be35626c5e457",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 43
+        "impressionCount" : 44
       },
       "subtitle" : "Prevent website visitor's data from being used by Google Analytics JavaScript",
       "tintColor" : "ED931F",
@@ -62787,6 +62787,22 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "avast-security",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_MAC/installertype_ONLINE/build_RELEASE",
+      "homepage" : "https://www.avast.com/",
+      "localizedDescription" : "Antivirus software",
+      "name" : "Avast Security",
+      "stats" : {
+        "downloadCount" : 61
+      },
+      "subtitle" : "Antivirus software",
+      "version" : "15.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "steamcmd",
       "categories" : [
 
@@ -62798,22 +62814,6 @@
         "downloadCount" : 61
       },
       "version" : "latest"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "avast-security",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_MAC/installertype_ONLINE/build_RELEASE",
-      "homepage" : "https://www.avast.com/",
-      "localizedDescription" : "Antivirus software",
-      "name" : "Avast Security",
-      "stats" : {
-        "downloadCount" : 60
-      },
-      "subtitle" : "Antivirus software",
-      "version" : "15.0"
     },
     {
       "beta" : false,

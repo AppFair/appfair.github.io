@@ -1076,9 +1076,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-github/README.md",
       "sha256" : "e3c3a1f4f517f0a6764c64c1691d94b7d91a23c0d84e82b74af7050c8d219b7f",
       "stats" : {
-        "downloadCount" : 3515,
-        "impressionCount" : 2276,
-        "viewCount" : 135
+        "downloadCount" : 3516,
+        "impressionCount" : 2279,
+        "viewCount" : 136
       },
       "subtitle" : "Desktop client for GitHub repositories",
       "tintColor" : "9767B3",
@@ -1237,7 +1237,7 @@
       "sha256" : "9c1402f8682ecefe84ae9494c65b80da1b763664624a7f6b0104b044b4cb687a",
       "stats" : {
         "downloadCount" : 2545,
-        "impressionCount" : 2118,
+        "impressionCount" : 2119,
         "viewCount" : 89
       },
       "subtitle" : "IDE for Java development - community edition",
@@ -1274,7 +1274,7 @@
       "sha256" : "27b4683c9343333466fb78d0d9d53559179aabc1cc87470aeef20d5ef3efc321",
       "stats" : {
         "downloadCount" : 2543,
-        "impressionCount" : 2979,
+        "impressionCount" : 2980,
         "viewCount" : 142
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1297,7 +1297,7 @@
       "sha256" : "7596e6fb208a30ccf86637821252440d77f635d572d95c98a965b597a5597a7d",
       "stats" : {
         "downloadCount" : 2541,
-        "impressionCount" : 2062,
+        "impressionCount" : 2063,
         "viewCount" : 139
       },
       "subtitle" : "Clipboard manager",
@@ -1320,7 +1320,7 @@
       "sha256" : "e459b9ce81078b8251549168c0d8473c069a14e817f3a8f386ec84b0f220955a",
       "stats" : {
         "downloadCount" : 2536,
-        "impressionCount" : 2557,
+        "impressionCount" : 2558,
         "viewCount" : 219
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",

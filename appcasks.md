@@ -61,17 +61,17 @@ tr:nth-child(even) {
 | [``Brave``](https://brave.com/) | ``1.43.88.0,143.88`` | `4076` | `2022-09-02T00:00:00Z` |  | `4359` | `269` |  | `0` | `public.app-category.productivity` |
 | [``GIMP``](https://www.gimp.org/) | ``2.10.32`` | `3920` |  |  | `2334` | `147` |  | `0` | `public.app-category.graphics-design` |
 | [``Android Studio``](https://developer.android.com/studio/) | ``2021.2.1.16`` | `3837` | `2022-08-04T00:00:00Z` |  | `2489` | `112` |  | `0` | `public.app-category.developer-tools` |
-| [``GitHub Desktop``](https://desktop.github.com/) | ``3.0.7-38727e62`` | `3515` | `2022-08-30T00:00:00Z` |  | `2276` | `135` |  | `0` | `public.app-category.developer-tools` |
+| [``GitHub Desktop``](https://desktop.github.com/) | ``3.0.7-38727e62`` | `3516` | `2022-08-30T00:00:00Z` |  | `2279` | `136` |  | `0` | `public.app-category.developer-tools` |
 | [``KeePassXC``](https://keepassxc.org/) | ``2.7.1`` | `3300` |  |  | `2115` | `119` |  | `0` | `public.app-category.productivity` |
 | [``Alacritty``](https://github.com/alacritty/alacritty/) | ``0.10.1`` | `3116` |  |  | `2942` | `184` |  | `0` | `public.app-category.productivity` |
 | [``Telegram for macOS``](https://macos.telegram.org/) | ``8.9,234962`` | `3069` | `2022-08-17T00:00:00Z` |  | `2089` | `152` |  | `0` | `public.app-category.social-networking` |
 | [``Insomnia``](https://insomnia.rest/) | ``2022.5.1`` | `2957` | `2022-08-19T00:00:00Z` |  | `2523` | `190` |  | `0` | `public.app-category.developer-tools` |
 | [``Wireshark``](https://www.wireshark.org/) | ``3.6.7`` | `2678` | `2022-07-28T00:00:00Z` |  | `1845` | `102` |  | `0` | `public.app-category.productivity` |
 | [``Cyberduck``](https://cyberduck.io/) | ``8.4.3,38269`` | `2548` | `2022-08-19T00:00:00Z` |  | `2360` | `205` |  | `0` | `public.app-category.productivity` |
-| [``IntelliJ IDEA Community …``](https://www.jetbrains.com/idea/) | ``2022.2.1,222.3739.54`` | `2545` | `2022-08-19T00:00:00Z` |  | `2118` | `89` |  | `0` | `public.app-category.developer-tools` |
-| [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``3.5.3,20035`` | `2543` | `2022-08-11T00:00:00Z` |  | `2979` | `142` |  | `0` | `public.app-category.developer-tools` |
-| [``Maccy``](https://maccy.app/) | ``0.24.0,13`` | `2541` | `2022-09-02T00:00:00Z` |  | `2062` | `139` |  | `0` | `public.app-category.productivity` |
-| [``Amethyst``](https://ianyh.com/amethyst/) | ``0.15.6`` | `2536` |  |  | `2557` | `219` |  | `0` | `public.app-category.utilities` |
+| [``IntelliJ IDEA Community …``](https://www.jetbrains.com/idea/) | ``2022.2.1,222.3739.54`` | `2545` | `2022-08-19T00:00:00Z` |  | `2119` | `89` |  | `0` | `public.app-category.developer-tools` |
+| [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``3.5.3,20035`` | `2543` | `2022-08-11T00:00:00Z` |  | `2980` | `142` |  | `0` | `public.app-category.developer-tools` |
+| [``Maccy``](https://maccy.app/) | ``0.24.0,13`` | `2541` | `2022-09-02T00:00:00Z` |  | `2063` | `139` |  | `0` | `public.app-category.productivity` |
+| [``Amethyst``](https://ianyh.com/amethyst/) | ``0.15.6`` | `2536` |  |  | `2558` | `219` |  | `0` | `public.app-category.utilities` |
 | [``kitty``](https://github.com/kovidgoyal/kitty) | ``0.26.1`` | `2499` | `2022-08-30T00:00:00Z` |  | `3243` | `226` |  | `0` | `public.app-category.utilities` |
 | [``Github Atom``](https://atom.io/) | ``1.60.0`` | `2491` |  |  | `2628` | `161` |  | `0` | `public.app-category.developer-tools` |
 | [``Inkscape``](https://inkscape.org/) | ``1.2.1`` | `2452` | `2022-07-15T00:00:00Z` |  | `2297` | `129` |  | `0` | `public.app-category.graphics-design` |

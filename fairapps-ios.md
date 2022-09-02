@@ -39,8 +39,8 @@ tr:nth-child(even) {
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `6.5 MB` | `1403` | `63` | `0` | `0` |  |
 | [``Ultra Light``](https://Ultra-Light.github.io/App/) | ``0.0.7β`` | `5` | `2022-01-21T00:00:00Z` | `5.9 MB` | `708` | `62` | `0` | `0` |  |
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `5` | `2022-01-24T00:00:00Z` | `6.5 MB` | `650` | `55` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `4` | `2022-09-01T00:00:00Z` | `18 MB` | `20` | `1` | `1` | `0` |  |
-| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.65`` | `4` | `2022-09-01T00:00:00Z` | `5.7 MB` | `24` | `3` | `0` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `4` | `2022-09-01T00:00:00Z` | `18 MB` | `24` | `2` | `1` | `0` |  |
+| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.65`` | `4` | `2022-09-01T00:00:00Z` | `5.7 MB` | `28` | `4` | `0` | `0` |  |
 | [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `6 MB` | `1925` | `43` | `0` | `0` |  |
 | [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | ``0.0.16β`` | `4` | `2022-02-12T00:00:00Z` | `6.3 MB` | `1048` | `58` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `4` | `2022-01-25T00:00:00Z` | `5.9 MB` | `653` | `46` | `0` | `0` |  |

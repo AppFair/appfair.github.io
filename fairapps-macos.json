@@ -62,8 +62,8 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 202,
-        "impressionCount" : 100,
+        "downloadCount" : 205,
+        "impressionCount" : 103,
         "issueCount" : 6,
         "starCount" : 28,
         "viewCount" : 13,
@@ -112,7 +112,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 241,
+        "impressionCount" : 242,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 36,
@@ -259,7 +259,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 24,
-        "impressionCount" : 184,
+        "impressionCount" : 185,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -387,10 +387,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 85,
+        "impressionCount" : 87,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 10,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -425,7 +425,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 284,
+        "impressionCount" : 285,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -585,7 +585,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 8,
-        "impressionCount" : 32,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 5,
@@ -700,7 +700,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 167,
+        "impressionCount" : 168,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -819,7 +819,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 6,
-        "impressionCount" : 29,
+        "impressionCount" : 31,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -855,7 +855,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 6,
-        "impressionCount" : 32,
+        "impressionCount" : 33,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -1267,7 +1267,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 144,
+        "impressionCount" : 145,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1302,7 +1302,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 178,
+        "impressionCount" : 181,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -1341,7 +1341,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 228,
+        "impressionCount" : 230,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,
@@ -1394,7 +1394,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 95,
+        "impressionCount" : 96,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1510,7 +1510,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 218,
+        "impressionCount" : 220,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 23,
@@ -1549,7 +1549,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 283,
+        "impressionCount" : 284,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,

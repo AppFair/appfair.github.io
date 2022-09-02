@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 208,
-        "impressionCount" : 104,
+        "downloadCount" : 210,
+        "impressionCount" : 108,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 13,
+        "viewCount" : 14,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -112,7 +112,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 242,
+        "impressionCount" : 244,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 36,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4507,
+        "impressionCount" : 4509,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 724,
@@ -210,7 +210,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3122,
+        "impressionCount" : 3123,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 237,
@@ -259,7 +259,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 24,
-        "impressionCount" : 185,
+        "impressionCount" : 187,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -335,10 +335,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3428,
+        "impressionCount" : 3430,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 580,
+        "viewCount" : 581,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -425,7 +425,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 285,
+        "impressionCount" : 287,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -585,7 +585,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 8,
-        "impressionCount" : 39,
+        "impressionCount" : 42,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 6,
@@ -700,7 +700,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 168,
+        "impressionCount" : 170,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -819,10 +819,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 6,
-        "impressionCount" : 31,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -855,7 +855,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 6,
-        "impressionCount" : 33,
+        "impressionCount" : 35,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -1042,7 +1042,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2874,
+        "impressionCount" : 2875,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 162,
@@ -1267,7 +1267,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 145,
+        "impressionCount" : 146,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1302,10 +1302,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 181,
+        "impressionCount" : 184,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1341,7 +1341,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 230,
+        "impressionCount" : 232,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,
@@ -1546,10 +1546,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 220,
+        "impressionCount" : 223,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 23,
+        "viewCount" : 24,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1585,7 +1585,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 284,
+        "impressionCount" : 287,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,

@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 188,
-        "impressionCount" : 93,
+        "downloadCount" : 190,
+        "impressionCount" : 98,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4498,
+        "impressionCount" : 4502,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 723,
@@ -210,7 +210,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3114,
+        "impressionCount" : 3117,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 236,
@@ -259,7 +259,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 24,
-        "impressionCount" : 175,
+        "impressionCount" : 177,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 18,
@@ -335,10 +335,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3421,
+        "impressionCount" : 3425,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 578,
+        "viewCount" : 579,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -387,7 +387,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 83,
+        "impressionCount" : 84,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -425,10 +425,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 275,
+        "impressionCount" : 278,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 20,
+        "viewCount" : 21,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -652,7 +652,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 157,
+        "impressionCount" : 161,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -850,10 +850,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 4,
-        "impressionCount" : 17,
+        "impressionCount" : 20,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 0,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -893,7 +893,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 4,
-        "impressionCount" : 18,
+        "impressionCount" : 21,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1007,7 +1007,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2870,
+        "impressionCount" : 2871,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 162,
@@ -1224,10 +1224,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 3,
-        "impressionCount" : 21,
+        "impressionCount" : 24,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -1267,7 +1267,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 137,
+        "impressionCount" : 138,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1302,7 +1302,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 170,
+        "impressionCount" : 172,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1341,10 +1341,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 224,
+        "impressionCount" : 226,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 27,
+        "viewCount" : 28,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1510,7 +1510,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 214,
+        "impressionCount" : 215,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -1549,7 +1549,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 273,
+        "impressionCount" : 276,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 23,

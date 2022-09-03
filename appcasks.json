@@ -954,13 +954,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/143.88/Brave-Browser-x64.dmg",
+      "downloadURL" : "https://updates-cdn.bravesoftware.com/sparkle/Brave-Browser/stable/143.89/Brave-Browser-x64.dmg",
       "homepage" : "https://brave.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brave-browser/AppIcon.png",
       "localizedDescription" : "Web browser focusing on privacy",
       "name" : "Brave",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-brave-browser/README.md",
-      "sha256" : "c0b34db0adba72cdfb89f988c428d4490cf9c60ff732868a28e4c7ac81cbe361",
+      "sha256" : "9caaeacd888b98a47fbf666ddf50d1416dbabdeacda6588da211f2344cec51ef",
       "stats" : {
         "downloadCount" : 4159,
         "impressionCount" : 4365,
@@ -968,8 +968,8 @@
       },
       "subtitle" : "Web browser focusing on privacy",
       "tintColor" : "FCB8A6",
-      "version" : "1.43.88.0,143.88",
-      "versionDate" : "2022-09-02T00:00:00Z"
+      "version" : "1.43.89.0,143.89",
+      "versionDate" : "2022-09-03T10:21:53Z"
     },
     {
       "beta" : false,
@@ -3190,19 +3190,19 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "downloadURL" : "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-105.0.1343.25.pkg",
+      "downloadURL" : "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-105.0.1343.27.pkg",
       "homepage" : "https://www.microsoft.com/edge",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-microsoft-edge/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "Microsoft Edge",
-      "sha256" : "634d845da1ad04a71fc1dcb43b3bd06a4619504b32fc09998dd1abb034283fef",
+      "sha256" : "93645c023646cbbae429fd270d028fc43a6e804579dd0f0fdae3dcdc0e898de4",
       "stats" : {
         "downloadCount" : 3598,
         "impressionCount" : 716
       },
       "subtitle" : "Web browser",
-      "version" : "105.0.1343.25",
-      "versionDate" : "2022-09-02T00:00:00Z"
+      "version" : "105.0.1343.27",
+      "versionDate" : "2022-09-03T10:21:53Z"
     },
     {
       "beta" : false,
@@ -70591,16 +70591,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://fxfactory.s3.amazonaws.com/noiseindustries/fxfactory/FxFactory_728_6999.zip",
+      "downloadURL" : "https://fxfactory.s3.amazonaws.com/noiseindustries/fxfactory/FxFactory-8.0.3-7195.zip",
       "homepage" : "https://fxfactory.com/",
       "localizedDescription" : "Browse, install and purchase effects and plugins from a huge catalog",
       "name" : "FxFactory",
-      "sha256" : "4f0ec77c2fa9cb3483db3e66f75b256d7f82ac5f292d1825f6ccaf37db9a304b",
+      "sha256" : "f42e82a8e40cf3add57375f1b47f65bb1e5cda7858e2853a82b6da2e6a060b29",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "Browse, install and purchase effects and plugins from a huge catalog",
-      "version" : "7.2.8,6999"
+      "version" : "8.0.3,7195",
+      "versionDate" : "2022-09-03T10:21:53Z"
     },
     {
       "beta" : false,
@@ -74226,27 +74227,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "fig",
-      "caption" : "fig updated from 1.0.60,507 to 1.0.61,518",
-      "date" : "2022-09-02T04:19:10Z",
-      "identifier" : "release-fig-1.0.61,518",
-      "title" : "New Release: fig 1.0.61,518"
-    },
-    {
-      "appID" : "microsoft-edge",
-      "caption" : "Microsoft Edge updated from 104.0.1293.70 to 105.0.1343.25",
-      "date" : "2022-09-02T04:19:10Z",
-      "identifier" : "release-microsoft-edge-105.0.1343.25",
-      "title" : "New Release: Microsoft Edge 105.0.1343.25"
-    },
-    {
-      "appID" : "logseq",
-      "caption" : "Logseq updated from 0.8.3 to 0.8.4",
-      "date" : "2022-09-02T04:19:10Z",
-      "identifier" : "release-logseq-0.8.4",
-      "title" : "New Release: Logseq 0.8.4"
-    },
-    {
       "appID" : "grammarly-desktop",
       "caption" : "Grammarly Desktop updated from 1.9.1.0 to 1.10.0.3",
       "date" : "2022-09-02T04:19:11Z",
@@ -74924,6 +74904,27 @@
       "date" : "2022-09-03T08:26:56Z",
       "identifier" : "release-freecad-0.20-1,2022-08-20",
       "title" : "New Release: FreeCAD 0.20-1,2022-08-20"
+    },
+    {
+      "appID" : "brave-browser",
+      "caption" : "Brave updated from 1.43.88.0,143.88 to 1.43.89.0,143.89",
+      "date" : "2022-09-03T10:21:54Z",
+      "identifier" : "release-brave-browser-1.43.89.0,143.89",
+      "title" : "New Release: Brave 1.43.89.0,143.89"
+    },
+    {
+      "appID" : "microsoft-edge",
+      "caption" : "Microsoft Edge updated from 105.0.1343.25 to 105.0.1343.27",
+      "date" : "2022-09-03T10:21:54Z",
+      "identifier" : "release-microsoft-edge-105.0.1343.27",
+      "title" : "New Release: Microsoft Edge 105.0.1343.27"
+    },
+    {
+      "appID" : "fxfactory",
+      "caption" : "FxFactory updated from 7.2.8,6999 to 8.0.3,7195",
+      "date" : "2022-09-03T10:21:54Z",
+      "identifier" : "release-fxfactory-8.0.3,7195",
+      "title" : "New Release: FxFactory 8.0.3,7195"
     }
   ],
   "platform" : "macos",

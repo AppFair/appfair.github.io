@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 214,
-        "impressionCount" : 108,
+        "downloadCount" : 215,
+        "impressionCount" : 112,
         "issueCount" : 6,
         "starCount" : 28,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -112,10 +112,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 245,
+        "impressionCount" : 247,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 36,
+        "viewCount" : 38,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -164,10 +164,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 39,
-        "impressionCount" : 4510,
+        "impressionCount" : 4512,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 724,
+        "viewCount" : 725,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -175,52 +175,6 @@
       "version" : "0.1.7",
       "versionDate" : "2022-05-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-dark-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-light-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-mac-1864x1392.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_03-mac-2360x1742.png"
-      ],
-      "sha256" : "ed27a56682b188e537f44653c665d84dc3e4ce42ee73bbee723bfa946f624378",
-      "size" : 2118382,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 24,
-        "impressionCount" : 3124,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 237,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.20",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
       "beta" : false,
@@ -258,11 +212,11 @@
       "size" : 4011787,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 24,
-        "impressionCount" : 188,
+        "downloadCount" : 25,
+        "impressionCount" : 191,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -270,6 +224,52 @@
       "version" : "0.3.59",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-dark-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-light-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-mac-1864x1392.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_03-mac-2360x1742.png"
+      ],
+      "sha256" : "ed27a56682b188e537f44653c665d84dc3e4ce42ee73bbee723bfa946f624378",
+      "size" : 2118382,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 24,
+        "impressionCount" : 3126,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 238,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.20",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
       "beta" : true,
@@ -335,10 +335,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3431,
+        "impressionCount" : 3435,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 581,
+        "viewCount" : 582,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -387,7 +387,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 87,
+        "impressionCount" : 88,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -425,10 +425,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 288,
+        "impressionCount" : 292,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 22,
+        "viewCount" : 25,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -511,10 +511,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 9,
-        "impressionCount" : 43,
+        "impressionCount" : 45,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 6,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -702,10 +702,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 7,
-        "impressionCount" : 35,
+        "impressionCount" : 37,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -713,6 +713,41 @@
       "version" : "0.9.275",
       "versionDate" : "2022-09-01T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "0eb7b2f11f050203bbb282d1b8d2c2f106a721b9df81d68cb32be8a11856470f",
+      "size" : 2249608,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 7,
+        "impressionCount" : 42,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 6,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.65",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.64...0.1.65"
     },
     {
       "beta" : false,
@@ -743,10 +778,10 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 171,
+        "impressionCount" : 174,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 10,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -830,41 +865,6 @@
       "version" : "0.3.38",
       "versionDate" : "2022-01-26T00:00:00Z",
       "versionDescription" : "Release 0.3.38"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.65/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "0eb7b2f11f050203bbb282d1b8d2c2f106a721b9df81d68cb32be8a11856470f",
-      "size" : 2249608,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 6,
-        "impressionCount" : 36,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 4,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.65",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.64...0.1.65"
     },
     {
       "beta" : true,
@@ -1042,10 +1042,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2876,
+        "impressionCount" : 2878,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 162,
+        "viewCount" : 163,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1260,10 +1260,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 1,
+        "impressionCount" : 5,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -1303,7 +1303,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 147,
+        "impressionCount" : 149,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1338,7 +1338,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 185,
+        "impressionCount" : 196,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 23,
@@ -1377,10 +1377,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 232,
+        "impressionCount" : 234,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 28,
+        "viewCount" : 29,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1430,7 +1430,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 96,
+        "impressionCount" : 97,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 10,
@@ -1546,10 +1546,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 223,
+        "impressionCount" : 226,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 24,
+        "viewCount" : 25,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1585,10 +1585,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 288,
+        "impressionCount" : 290,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 24,
+        "viewCount" : 25,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

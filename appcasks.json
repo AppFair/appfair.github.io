@@ -3936,7 +3936,7 @@
       "sha256" : "4aecf835dcc3ccf3936e05e6cde7c3b5fa8e6d00bf9ebba52d3a608d7ba957b0",
       "stats" : {
         "downloadCount" : 1154,
-        "impressionCount" : 1601
+        "impressionCount" : 1602
       },
       "subtitle" : "Utility to extend trackpad functionality",
       "tintColor" : "000000",
@@ -4044,7 +4044,7 @@
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
       "version" : "3.856,2007",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5426,7 +5426,7 @@
       "subtitle" : "Adaptive brightness for external displays",
       "tintColor" : "F4E2B6",
       "version" : "5.7.9",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5893,7 +5893,7 @@
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
       "version" : "0.2.0",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17323,7 +17323,7 @@
       "subtitle" : "Visual exploration of genomic data",
       "tintColor" : "9EB9C0",
       "version" : "2.14.1",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23294,7 +23294,7 @@
       "subtitle" : "Deck tracker and deck manager for Hearthstone",
       "tintColor" : "34ACFD",
       "version" : "2.2.5",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24552,7 +24552,7 @@
       "subtitle" : "Reference management and bibliography software",
       "tintColor" : "DFCBAC",
       "version" : "14.1.2",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40227,7 +40227,7 @@
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
       "version" : "5.4.2753.47",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43091,7 +43091,7 @@
       "subtitle" : "Bittorrent client",
       "tintColor" : "4E98DE",
       "version" : "4.4.5.10",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66291,7 +66291,7 @@
       },
       "subtitle" : "Screenshot and screen recorder",
       "version" : "5.9.19,478",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -70241,7 +70241,7 @@
       },
       "subtitle" : "Analyze, inspect, and play songs",
       "version" : "5.2.29",
-      "versionDate" : "2022-09-03T17:25:16Z"
+      "versionDate" : "2022-09-03T00:00:00Z"
     },
     {
       "beta" : false,

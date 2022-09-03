@@ -32,7 +32,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3130,
+        "impressionCount" : 3132,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 238,
@@ -77,7 +77,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 253,
+        "impressionCount" : 254,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 38,
@@ -209,8 +209,8 @@
       "size" : 5805787,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 10,
-        "impressionCount" : 43,
+        "downloadCount" : 14,
+        "impressionCount" : 44,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,
@@ -221,6 +221,51 @@
       "version" : "0.9.275",
       "versionDate" : "2022-09-01T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-iphone-1170x2532.png"
+      ],
+      "sha256" : "d8a5ee513844d981718817ae3cc72eb829db1e07d30af9818e1bca00281be4ba",
+      "size" : 17972746,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 9,
+        "impressionCount" : 55,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 7,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.458",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
     },
     {
       "beta" : true,
@@ -384,10 +429,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2883,
+        "impressionCount" : 2885,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 163,
+        "viewCount" : 164,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -397,48 +442,39 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
+      "bundleIdentifier" : "app.Fair-Skies",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-iOS.ipa",
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
+      "homepage" : "http://Fair-Skies.github.io/App",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
+      "localizedDescription" : "An app for weather bugs",
+      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Fair Skies",
       "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
+
       ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-iphone-1170x2532.png"
-      ],
-      "sha256" : "d8a5ee513844d981718817ae3cc72eb829db1e07d30af9818e1bca00281be4ba",
-      "size" : 17972746,
+      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "sha256" : "50f44105a995dd651f23120a0d860613681a5886a5b76a2c9f5cdd4c701aeb92",
+      "size" : 6596437,
       "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 7,
-        "impressionCount" : 54,
+        "coreSize" : 170240,
+        "downloadCount" : 6,
+        "impressionCount" : 13,
         "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 7,
+        "starCount" : 0,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.458",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
+      "subtitle" : "An app for weather bugs",
+      "version" : "0.0.5",
+      "versionDate" : "2022-09-02T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
     },
     {
       "beta" : false,
@@ -464,7 +500,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 6,
-        "impressionCount" : 50,
+        "impressionCount" : 51,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 6,
@@ -736,42 +772,6 @@
       "versionDescription" : "Release 0.2.22"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Fair-Skies",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Fair-Skies.github.io/App",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
-      "localizedDescription" : "An app for weather bugs",
-      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Fair Skies",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "50f44105a995dd651f23120a0d860613681a5886a5b76a2c9f5cdd4c701aeb92",
-      "size" : 6596437,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 4,
-        "impressionCount" : 11,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for weather bugs",
-      "version" : "0.0.5",
-      "versionDate" : "2022-09-02T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Yankee-Swap",
       "categories" : [
@@ -907,7 +907,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 181,
+        "impressionCount" : 182,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -986,7 +986,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 155,
+        "impressionCount" : 157,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1021,7 +1021,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 200,
+        "impressionCount" : 202,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 23,
@@ -1072,7 +1072,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 197,
+        "impressionCount" : 199,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 20,
@@ -1108,7 +1108,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 299,
+        "impressionCount" : 300,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -1178,7 +1178,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 297,
+        "impressionCount" : 298,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 238,
+        "impressionCount" : 239,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 29,

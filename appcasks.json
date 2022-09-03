@@ -2049,13 +2049,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://download.typora.io/mac/Typora-1.4.2.dmg",
+      "downloadURL" : "https://download.typora.io/mac/Typora-1.4.3.dmg",
       "homepage" : "https://typora.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-typora/AppIcon.png",
       "localizedDescription" : "Configurable document editor that supports Markdown",
       "name" : "Typora",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-typora/README.md",
-      "sha256" : "74cdffb12fab7d9f1ab71d2ab0c01ebd77d1e00bfbf194a61aec91a4a2e8eb71",
+      "sha256" : "60db1568b30891f0f4006d109d3ba93c55f3ff7af513b56941b2ce53bdf0262a",
       "stats" : {
         "downloadCount" : 555,
         "impressionCount" : 1689,
@@ -2063,8 +2063,8 @@
       },
       "subtitle" : "Configurable document editor that supports Markdown",
       "tintColor" : "E5E5E5",
-      "version" : "1.4.2",
-      "versionDate" : "2022-09-01T00:00:00Z"
+      "version" : "1.4.3",
+      "versionDate" : "2022-09-03T16:25:56Z"
     },
     {
       "beta" : false,
@@ -3485,20 +3485,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://github.com/jgraph/drawio-desktop/releases/download/v20.2.3/draw.io-x64-20.2.3.dmg",
+      "downloadURL" : "https://github.com/jgraph/drawio-desktop/releases/download/v20.2.8/draw.io-x64-20.2.8.dmg",
       "homepage" : "https://www.diagrams.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-drawio/AppIcon.png",
       "localizedDescription" : "Draw.io is free online diagram software",
       "name" : "draw.io Desktop",
-      "sha256" : "a05b4471ba5dacb172480e46bdc73f2344495a0d40d6939fd704c7367ac20f05",
+      "sha256" : "e0c676e10e20d76511b2d4bd877c40e1fa719de1faf893c0aef308e4ef1a9807",
       "stats" : {
         "downloadCount" : 1975,
         "impressionCount" : 1083
       },
       "subtitle" : "Draw.io is free online diagram software",
       "tintColor" : "EC9B45",
-      "version" : "20.2.3",
-      "versionDate" : "2022-08-06T00:00:00Z"
+      "version" : "20.2.8",
+      "versionDate" : "2022-09-03T16:25:56Z"
     },
     {
       "beta" : false,
@@ -15951,7 +15951,7 @@
       "sha256" : "40cf7d4bd903f7dd364060f59daeaa3b3560896cd92accbc8282d134ad3649ce",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 568
+        "impressionCount" : 571
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
@@ -74227,20 +74227,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "grammarly-desktop",
-      "caption" : "Grammarly Desktop updated from 1.9.1.0 to 1.10.0.3",
-      "date" : "2022-09-02T04:19:11Z",
-      "identifier" : "release-grammarly-desktop-1.10.0.3",
-      "title" : "New Release: Grammarly Desktop 1.10.0.3"
-    },
-    {
-      "appID" : "whatsapp",
-      "caption" : "WhatsApp updated from 2.2230.15 to 2.2232.8",
-      "date" : "2022-09-02T09:22:39Z",
-      "identifier" : "release-whatsapp-2.2232.8",
-      "title" : "New Release: WhatsApp 2.2232.8"
-    },
-    {
       "appID" : "maccy",
       "caption" : "Maccy updated from 0.23.0,12 to 0.24.0,13",
       "date" : "2022-09-02T09:22:40Z",
@@ -74925,6 +74911,20 @@
       "date" : "2022-09-03T10:21:54Z",
       "identifier" : "release-fxfactory-8.0.3,7195",
       "title" : "New Release: FxFactory 8.0.3,7195"
+    },
+    {
+      "appID" : "typora",
+      "caption" : "Typora updated from 1.4.2 to 1.4.3",
+      "date" : "2022-09-03T16:25:56Z",
+      "identifier" : "release-typora-1.4.3",
+      "title" : "New Release: Typora 1.4.3"
+    },
+    {
+      "appID" : "drawio",
+      "caption" : "draw.io Desktop updated from 20.2.3 to 20.2.8",
+      "date" : "2022-09-03T16:25:57Z",
+      "identifier" : "release-drawio-20.2.8",
+      "title" : "New Release: draw.io Desktop 20.2.8"
     }
   ],
   "platform" : "macos",

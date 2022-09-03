@@ -102,7 +102,7 @@ tr:nth-child(even) {
 | [``Charles``](https://www.charlesproxy.com/) | ``4.6.2`` | `588` |  |  | `3691` | `103` |  | `0` | `public.app-category.developer-tools` |
 | [``Barrier``](https://github.com/debauchee/barrier/) | ``2.4.0`` | `571` |  |  | `2324` | `127` |  | `0` | `public.app-category.developer-tools` |
 | [``Plex``](https://www.plex.tv/) | ``1.53.1.3225,c0bc6cc4`` | `561` | `2022-09-02T00:00:00Z` |  | `2675` | `126` |  | `0` | `public.app-category.video` |
-| [``Typora``](https://typora.io/) | ``1.4.2`` | `555` | `2022-09-01T00:00:00Z` |  | `1689` | `89` |  | `0` | `public.app-category.productivity` |
+| [``Typora``](https://typora.io/) | ``1.4.3`` | `555` | `2022-09-03T16:25:56Z` |  | `1689` | `89` |  | `0` | `public.app-category.productivity` |
 | [``Joplin``](https://joplinapp.org/) | ``2.8.8`` | `508` |  |  | `2357` | `128` |  | `0` | `public.app-category.developer-tools` |
 | [``darktable``](https://www.darktable.org/) | ``4.0.0`` | `497` | `2022-07-03T00:00:00Z` |  | `2308` | `208` |  | `0` | `public.app-category.photography` |
 | [``Skitch``](https://evernote.com/products/skitch) | ``2.9,265157`` | `477` |  |  | `1638` | `76` |  | `0` | `public.app-category.productivity` |
@@ -167,7 +167,7 @@ tr:nth-child(even) {
 | [``Figma``](https://www.figma.com/) | ``116.3.6`` | `2268` | `2022-08-24T00:00:00Z` |  | `2737` |  |  | `0` | `public.app-category.graphics-design` |
 | [``MySQL Workbench``](https://www.mysql.com/products/workbench/) | ``8.0.30`` | `2203` | `2022-07-26T00:00:00Z` |  | `640` |  |  | `0` | `public.app-category.developer-tools` |
 | [``BloomRPC``](https://github.com/uw-labs/bloomrpc) | ``1.5.3`` | `2202` |  |  | `749` |  |  | `0` | `public.app-category.developer-tools` |
-| [``draw.io Desktop``](https://www.diagrams.net/) | ``20.2.3`` | `1975` | `2022-08-06T00:00:00Z` |  | `1083` |  |  | `0` | `public.app-category.graphics-design` |
+| [``draw.io Desktop``](https://www.diagrams.net/) | ``20.2.8`` | `1975` | `2022-09-03T16:25:56Z` |  | `1083` |  |  | `0` | `public.app-category.graphics-design` |
 | [``UTM``](https://getutm.app/) | ``3.2.4`` | `1931` |  |  | `2100` |  |  | `0` | `public.app-category.business` |
 | [``Tunnelblick``](https://www.tunnelblick.net/) | ``3.8.7a,5770`` | `1896` |  |  | `787` |  |  | `0` | `public.app-category.utilities` |
 | [``Flameshot``](https://flameshot.org/) | ``12.1.0`` | `1799` | `2022-07-03T00:00:00Z` |  | `855` |  |  | `0` | `public.app-category.productivity` |
@@ -767,7 +767,7 @@ tr:nth-child(even) {
 | [``Memory Cleaner``](https://nektony.com/memory-cleaner) | ``4.5,120`` | `29` |  |  | `379` |  |  | `0` | `public.app-category.utilities` |
 | [``Qobuz``](https://www.qobuz.com/applications) | ``6.1.1,040`` | `29` | `2022-08-15T00:00:00Z` |  | `642` |  |  | `0` | `public.app-category.music` |
 | [``Reflector``](https://www.airsquirrels.com/reflector/) | ``4.0.3,249`` | `29` |  |  | `233` |  |  | `0` | `public.app-category.utilities` |
-| [``RemNote``](https://www.remnote.com/) | ``1.8.20`` | `29` | `2022-09-03T00:00:00Z` |  | `568` |  |  | `0` | `public.app-category.developer-tools` |
+| [``RemNote``](https://www.remnote.com/) | ``1.8.20`` | `29` | `2022-09-03T00:00:00Z` |  | `571` |  |  | `0` | `public.app-category.developer-tools` |
 | [``uBar``](https://brawersoftware.com/products/ubar) | ``4.2.0,420`` | `29` |  |  | `214` |  |  | `0` | `public.app-category.utilities` |
 | [``Waves Central``](https://www.waves.com/) | ``13.3.1`` | `29` | `2022-08-17T00:00:00Z` |  | `233` |  |  | `0` | `public.app-category.productivity` |
 | [``VESTA``](https://jp-minerals.org/vesta/en/) | ``3.5.8`` | `29` | `2022-08-14T00:00:00Z` |  | `217` |  |  | `0` | `public.app-category.utilities` |

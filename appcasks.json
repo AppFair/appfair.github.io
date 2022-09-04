@@ -1243,7 +1243,7 @@
       "subtitle" : "Automatic tiling window manager similar to xmonad",
       "tintColor" : "A528B1",
       "version" : "0.16.0",
-      "versionDate" : "2022-09-04T06:27:16Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4045,7 +4045,7 @@
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
       "version" : "3.859,2010",
-      "versionDate" : "2022-09-04T06:27:16Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4158,7 +4158,7 @@
       "subtitle" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
       "tintColor" : "293154",
       "version" : "20220903-194523,3bb1ed61",
-      "versionDate" : "2022-09-04T06:27:16Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7624,7 +7624,7 @@
       },
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.37.0",
-      "versionDate" : "2022-09-04T06:27:16Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10852,7 +10852,7 @@
       "subtitle" : "Music player and music collection organizer",
       "tintColor" : "C03C21",
       "version" : "1.0.9",
-      "versionDate" : "2022-09-04T06:27:16Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13830,7 +13830,7 @@
       "name" : "Navicat for MySQL",
       "stats" : {
         "downloadCount" : 38,
-        "impressionCount" : 343
+        "impressionCount" : 345
       },
       "subtitle" : "Database administration and development tool",
       "tintColor" : "D3F3D5",
@@ -56748,7 +56748,7 @@
       "subtitle" : "Cooperative online platform game based on Teeworlds",
       "tintColor" : "575C51",
       "version" : "16.3.2",
-      "versionDate" : "2022-09-04T06:27:16Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -63076,7 +63076,7 @@
       },
       "subtitle" : "EPUB ebook editor",
       "version" : "1.9.20",
-      "versionDate" : "2022-09-04T06:27:16Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,

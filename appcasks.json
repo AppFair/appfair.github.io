@@ -148,9 +148,9 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/screenshot_02-mac-2642x1926.png"
       ],
       "stats" : {
-        "downloadCount" : 8367,
-        "impressionCount" : 8243,
-        "viewCount" : 664
+        "downloadCount" : 8368,
+        "impressionCount" : 8245,
+        "viewCount" : 665
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -872,7 +872,7 @@
       "sha256" : "f179e3902e6948d393a9c8cff3b7306dd37ee55c896f57a779df5139ada7eb41",
       "stats" : {
         "downloadCount" : 6308,
-        "impressionCount" : 4901,
+        "impressionCount" : 4902,
         "viewCount" : 489
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1815,7 +1815,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 917,
-        "impressionCount" : 3489,
+        "impressionCount" : 3490,
         "viewCount" : 297
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -3246,7 +3246,7 @@
       "sha256" : "81d13ce362bf34ab2320fdeef22a4b97176f726cfb7ed00e5999b9ed289c11b4",
       "stats" : {
         "downloadCount" : 3131,
-        "impressionCount" : 1761
+        "impressionCount" : 1762
       },
       "subtitle" : "Standalone app for debugging React Native apps",
       "tintColor" : "8F8F8F",
@@ -4039,8 +4039,8 @@
       "name" : "BetterTouchTool",
       "sha256" : "06c099dbca5e5ce6b48bf91f486eb34dc63a3d71d2429ca15a961398cbc45562",
       "stats" : {
-        "downloadCount" : 1041,
-        "impressionCount" : 1348
+        "downloadCount" : 1042,
+        "impressionCount" : 1350
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
@@ -4091,7 +4091,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 1013,
-        "impressionCount" : 1640
+        "impressionCount" : 1641
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -4757,7 +4757,7 @@
       "sha256" : "bc1a73b9cb4b4d316fa11572f43383f0f02fc7e6ba88bbed046cc1b074336862",
       "stats" : {
         "downloadCount" : 664,
-        "impressionCount" : 1671
+        "impressionCount" : 1672
       },
       "subtitle" : "Clipboard manager for developers",
       "tintColor" : "B72B32",
@@ -7619,8 +7619,8 @@
       "sha256" : "c66adeca1301283b6102374fa3e9bcf31cc8d5609b4cbbcefaa9a3492ff107f3",
       "stats" : {
         "downloadCount" : 146,
-        "impressionCount" : 345,
-        "viewCount" : 23
+        "impressionCount" : 347,
+        "viewCount" : 24
       },
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.37.0",

@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6580,
-        "impressionCount" : 8197,
+        "impressionCount" : 8199,
         "viewCount" : 536
       },
       "subtitle" : "Voice and text chat software",
@@ -1881,7 +1881,7 @@
       "sha256" : "6bd5c737e1a6a4128c18bcf60fc0875200ad9bdd5ce14ce2c014596779452ca0",
       "stats" : {
         "downloadCount" : 785,
-        "impressionCount" : 2689,
+        "impressionCount" : 2690,
         "viewCount" : 197
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -2694,7 +2694,7 @@
       "sha256" : "9d37e7787476dfd5ccf9eebfbc06c41124d0338ae3b2d90f94740620143b24d4",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 2608,
+        "impressionCount" : 2609,
         "viewCount" : 229
       },
       "subtitle" : "News reader with flexible settings",
@@ -3138,7 +3138,7 @@
       "sha256" : "a18a2dd2aeee0d4701b0d63a61e90d066ff19ca8e361bd1f98658f1feea82e40",
       "stats" : {
         "downloadCount" : 6140,
-        "impressionCount" : 1469
+        "impressionCount" : 1471
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -3199,7 +3199,7 @@
       "sha256" : "93645c023646cbbae429fd270d028fc43a6e804579dd0f0fdae3dcdc0e898de4",
       "stats" : {
         "downloadCount" : 3606,
-        "impressionCount" : 727
+        "impressionCount" : 734
       },
       "subtitle" : "Web browser",
       "version" : "105.0.1343.27",
@@ -3246,7 +3246,7 @@
       "sha256" : "81d13ce362bf34ab2320fdeef22a4b97176f726cfb7ed00e5999b9ed289c11b4",
       "stats" : {
         "downloadCount" : 3131,
-        "impressionCount" : 1758
+        "impressionCount" : 1760
       },
       "subtitle" : "Standalone app for debugging React Native apps",
       "tintColor" : "8F8F8F",
@@ -3780,7 +3780,7 @@
       "sha256" : "7e117084853f12e972aedf24b1554bfe61b89f8b58124fe2ab8710f7db6ec21b",
       "stats" : {
         "downloadCount" : 1297,
-        "impressionCount" : 882
+        "impressionCount" : 883
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
       "tintColor" : "8E76B6",
@@ -3922,7 +3922,7 @@
       "sha256" : "8c678c87aa609a7222ca229acb3a650d4a4e2db9fa9ce89a09a9d45ea1b19af1",
       "stats" : {
         "downloadCount" : 1176,
-        "impressionCount" : 671
+        "impressionCount" : 672
       },
       "subtitle" : "Re-mounts write-protected NTFS volumes",
       "tintColor" : "AECCE3",
@@ -5174,7 +5174,7 @@
       "sha256" : "176393a804c90d2aa9155e73b0ad0599380e05dd44d5ec2b35265687e6ffd080",
       "stats" : {
         "downloadCount" : 461,
-        "impressionCount" : 488
+        "impressionCount" : 490
       },
       "subtitle" : "Utilities designed to make common development tasks easier",
       "tintColor" : "7344A1",
@@ -6011,7 +6011,7 @@
       "sha256" : "d3ebafd5bce9a0d6ff680e196ba1fb0325f40ebffb998c284ba647d64748ea67",
       "stats" : {
         "downloadCount" : 295,
-        "impressionCount" : 467
+        "impressionCount" : 469
       },
       "subtitle" : "Modified browser that helps in responsive web development",
       "tintColor" : "C1C2C2",
@@ -8613,7 +8613,7 @@
       "sha256" : "cb0f35f9abdbe6c7cdeecc2f2a90ea1a30e28099161b84a6b1e80bd26f266dc5",
       "stats" : {
         "downloadCount" : 108,
-        "impressionCount" : 1135
+        "impressionCount" : 1136
       },
       "subtitle" : "Media system",
       "tintColor" : "6878CD",
@@ -13912,7 +13912,7 @@
       "sha256" : "edf84172d13b7e04da512a754fd78a73c5b47d70776ad6493ca35e2bb3fdb5d1",
       "stats" : {
         "downloadCount" : 38,
-        "impressionCount" : 819
+        "impressionCount" : 821
       },
       "subtitle" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "tintColor" : "71B2CE",
@@ -51955,7 +51955,7 @@
       "sha256" : "5dffdce0206e62fc3fd62078578f0bb04366d87cb85250150b4d02499079eb25",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 159
+        "impressionCount" : 162
       },
       "subtitle" : "Web browser",
       "tintColor" : "72BBEC",

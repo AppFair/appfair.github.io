@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.113`` | `258` | `2022-08-30T00:00:00Z` | `9.8 MB` | `158` | `17` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.113`` | `261` | `2022-08-30T00:00:00Z` | `9.8 MB` | `161` | `17` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `45` | `2022-08-24T00:00:00Z` | `2.3 MB` | `273` | `39` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `39` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4537` | `725` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `25` | `2022-08-27T00:00:00Z` | `4 MB` | `225` | `20` | `1` | `0` |  |
@@ -32,7 +32,7 @@ tr:nth-child(even) {
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `22` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3455` | `584` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `19` | `2022-08-27T00:00:00Z` | `3.2 MB` | `101` | `11` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `18` | `2022-08-24T00:00:00Z` | `2.3 MB` | `325` | `25` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `15` | `2022-09-01T00:00:00Z` | `9.6 MB` | `80` | `7` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `15` | `2022-09-01T00:00:00Z` | `9.6 MB` | `81` | `7` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.275`` | `14` | `2022-09-01T00:00:00Z` | `2.3 MB` | `67` | `4` | `1` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2227` | `138` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `9` | `2022-09-02T00:00:00Z` | `2.6 MB` | `33` | `2` | `0` | `0` |  |
@@ -54,7 +54,7 @@ tr:nth-child(even) {
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `4` | `2022-01-24T00:00:00Z` | `2.6 MB` | `652` | `55` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.51β`` | `4` | `2022-01-16T00:00:00Z` | `2.3 MB` | `330` | `27` | `0` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `3` | `2022-08-27T00:00:00Z` | `4.2 MB` | `181` | `13` | `0` | `0` |  |
-| [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `3` | `2022-08-27T00:00:00Z` | `2.2 MB` | `230` | `25` | `0` | `0` |  |
+| [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `3` | `2022-08-27T00:00:00Z` | `2.2 MB` | `231` | `25` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.20`` | `3` | `2022-08-24T00:00:00Z` | `2.3 MB` | `260` | `30` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.10`` | `3` | `2022-08-24T00:00:00Z` | `8.2 MB` | `105` | `10` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `655` | `46` | `0` | `0` |  |

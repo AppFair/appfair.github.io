@@ -32,7 +32,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3141,
+        "impressionCount" : 3144,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 238,
@@ -77,7 +77,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 266,
+        "impressionCount" : 270,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 39,
@@ -121,7 +121,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 20,
-        "impressionCount" : 5,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -132,6 +132,47 @@
       "version" : "0.0.22",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_02-iphone-750x1334.png"
+      ],
+      "sha256" : "6de6ba0b13a9ee5a8828d12082b317e148efdc77d647d076b077cf0e4d8bad69",
+      "size" : 5805787,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 18,
+        "impressionCount" : 61,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.275",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
     },
     {
       "beta" : false,
@@ -170,7 +211,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 16,
-        "impressionCount" : 97,
+        "impressionCount" : 100,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -180,47 +221,6 @@
       "version" : "0.0.45",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_02-iphone-750x1334.png"
-      ],
-      "sha256" : "6de6ba0b13a9ee5a8828d12082b317e148efdc77d647d076b077cf0e4d8bad69",
-      "size" : 5805787,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 14,
-        "impressionCount" : 57,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.275",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
     },
     {
       "beta" : false,
@@ -255,7 +255,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 9,
-        "impressionCount" : 71,
+        "impressionCount" : 74,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 7,
@@ -294,7 +294,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 9,
-        "impressionCount" : 375,
+        "impressionCount" : 376,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 20,
@@ -356,7 +356,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 9,
-        "impressionCount" : 505,
+        "impressionCount" : 506,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -394,7 +394,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 9,
-        "impressionCount" : 1658,
+        "impressionCount" : 1659,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -404,41 +404,6 @@
       "version" : "0.3.38",
       "versionDate" : "2022-01-26T00:00:00Z",
       "versionDescription" : "Release 0.3.38"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Main-Course",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
-      "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Main Course",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
-      "sha256" : "610d5b0907ec8241703d1557a88f79b8b4fd01c9f2bf1c0a5f48f80ee2d1486e",
-      "size" : 18201175,
-      "stats" : {
-        "coreSize" : 102392,
-        "downloadCount" : 8,
-        "impressionCount" : 2894,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 166,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An offline recipe book",
-      "version" : "0.0.16",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
       "beta" : false,
@@ -464,8 +429,8 @@
       "size" : 6596437,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 6,
-        "impressionCount" : 25,
+        "downloadCount" : 8,
+        "impressionCount" : 29,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -475,6 +440,41 @@
       "version" : "0.0.5",
       "versionDate" : "2022-09-02T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Main-Course",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
+      "localizedDescription" : "An offline recipe book",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Main Course",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
+      "sha256" : "610d5b0907ec8241703d1557a88f79b8b4fd01c9f2bf1c0a5f48f80ee2d1486e",
+      "size" : 18201175,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 8,
+        "impressionCount" : 2896,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 166,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An offline recipe book",
+      "version" : "0.0.16",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
       "beta" : true,
@@ -500,7 +500,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 6,
-        "impressionCount" : 1312,
+        "impressionCount" : 1313,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 201,
@@ -535,7 +535,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 1999,
+        "impressionCount" : 2000,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -570,7 +570,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 2226,
+        "impressionCount" : 2227,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 138,
@@ -619,7 +619,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 5,
-        "impressionCount" : 200,
+        "impressionCount" : 201,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -654,7 +654,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1404,
+        "impressionCount" : 1405,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -689,7 +689,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 709,
+        "impressionCount" : 710,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -724,7 +724,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 651,
+        "impressionCount" : 652,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -735,6 +735,41 @@
       "version" : "0.2.22",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.2.22"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "0d121e033afd12730e3e691bfe5e114ec1a7ce8c86a0b1d4b9ee181fe1ec67b3",
+      "size" : 5724211,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 4,
+        "impressionCount" : 8,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.72",
+      "versionDate" : "2022-09-03T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : true,
@@ -760,7 +795,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1926,
+        "impressionCount" : 1927,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -796,7 +831,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 1049,
+        "impressionCount" : 1050,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -831,7 +866,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 4,
-        "impressionCount" : 654,
+        "impressionCount" : 655,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -872,7 +907,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 198,
+        "impressionCount" : 202,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -907,7 +942,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 625,
+        "impressionCount" : 626,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -917,41 +952,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "0d121e033afd12730e3e691bfe5e114ec1a7ce8c86a0b1d4b9ee181fe1ec67b3",
-      "size" : 5724211,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 2,
-        "impressionCount" : 3,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.72",
-      "versionDate" : "2022-09-03T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : false,
@@ -986,7 +986,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 173,
+        "impressionCount" : 176,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 13,
@@ -1021,7 +1021,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 218,
+        "impressionCount" : 221,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -1072,7 +1072,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 214,
+        "impressionCount" : 218,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 20,
@@ -1108,7 +1108,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 316,
+        "impressionCount" : 319,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -1143,7 +1143,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 238,
+        "impressionCount" : 240,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -1178,7 +1178,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 311,
+        "impressionCount" : 315,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 254,
+        "impressionCount" : 257,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,

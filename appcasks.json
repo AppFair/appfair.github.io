@@ -25,7 +25,7 @@
       "sha256" : "e93c4d1f5d3de3f6c909d4dbd14fce8db0ca17a3a64161613512ed7eab847617",
       "stats" : {
         "downloadCount" : 2605,
-        "impressionCount" : 10124,
+        "impressionCount" : 10125,
         "viewCount" : 1098
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c6f7b0815668218db61405ee0d3dabbd4c9376bb329b6715bfb36d1de0dd5f7e",
       "stats" : {
         "downloadCount" : 16846,
-        "impressionCount" : 8981,
+        "impressionCount" : 8982,
         "viewCount" : 966
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 9009,
-        "impressionCount" : 7870,
+        "impressionCount" : 7871,
         "viewCount" : 685
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28571,
-        "impressionCount" : 8276,
+        "impressionCount" : 8277,
         "viewCount" : 701
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8367,
-        "impressionCount" : 8223,
+        "impressionCount" : 8224,
         "viewCount" : 664
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6580,
-        "impressionCount" : 8182,
+        "impressionCount" : 8183,
         "viewCount" : 536
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3383,
-        "impressionCount" : 7438,
+        "impressionCount" : 7440,
         "viewCount" : 557
       },
       "subtitle" : "Text editor",
@@ -237,7 +237,7 @@
       "sha256" : "8f22fb8ecb3a67611e68c7e643c3424850dfdcb7b04795e4175bb2ce8f436faf",
       "stats" : {
         "downloadCount" : 3381,
-        "impressionCount" : 8674,
+        "impressionCount" : 8675,
         "viewCount" : 585
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2656,
-        "impressionCount" : 6462,
+        "impressionCount" : 6463,
         "viewCount" : 417
       },
       "subtitle" : "Video game digital distribution service",
@@ -291,7 +291,7 @@
       "sha256" : "246e1b174af3f61513e4e004e948a325149091b5165b7005391570f6d334ee3e",
       "stats" : {
         "downloadCount" : 2043,
-        "impressionCount" : 7102,
+        "impressionCount" : 7104,
         "viewCount" : 446
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -325,7 +325,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 1970,
-        "impressionCount" : 8220,
+        "impressionCount" : 8222,
         "viewCount" : 857
       },
       "subtitle" : "File archiver",
@@ -356,7 +356,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1186,
-        "impressionCount" : 8526,
+        "impressionCount" : 8528,
         "viewCount" : 486
       },
       "subtitle" : "3D creation suite",
@@ -385,7 +385,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1159,
-        "impressionCount" : 6520,
+        "impressionCount" : 6521,
         "viewCount" : 513
       },
       "subtitle" : "Open-source Markdown editor",
@@ -445,7 +445,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 603,
-        "impressionCount" : 6675,
+        "impressionCount" : 6676,
         "viewCount" : 348
       },
       "subtitle" : "Text editor",
@@ -474,7 +474,7 @@
       ],
       "stats" : {
         "downloadCount" : 451,
-        "impressionCount" : 6201,
+        "impressionCount" : 6202,
         "viewCount" : 476
       },
       "subtitle" : "Sandbox construction video game",
@@ -506,7 +506,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 399,
-        "impressionCount" : 6796,
+        "impressionCount" : 6797,
         "viewCount" : 492
       },
       "subtitle" : "Text, code, and markup editor",
@@ -533,7 +533,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 285,
-        "impressionCount" : 4409,
+        "impressionCount" : 4410,
         "viewCount" : 337
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -561,7 +561,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 266,
-        "impressionCount" : 4889,
+        "impressionCount" : 4890,
         "viewCount" : 414
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -3137,7 +3137,7 @@
       "sha256" : "a18a2dd2aeee0d4701b0d63a61e90d066ff19ca8e361bd1f98658f1feea82e40",
       "stats" : {
         "downloadCount" : 6139,
-        "impressionCount" : 1446
+        "impressionCount" : 1447
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -4276,7 +4276,7 @@
       "sha256" : "e11f07aebf849ed942c4b8658c11c70ce81b4138186a0301c0ec7cd236f1ff51",
       "stats" : {
         "downloadCount" : 854,
-        "impressionCount" : 697
+        "impressionCount" : 698
       },
       "subtitle" : "Go (golang) IDE",
       "tintColor" : "47578E",
@@ -5685,20 +5685,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v6.0.1/Netron-6.0.1-mac.zip",
+      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v6.0.2/Netron-6.0.2-mac.zip",
       "homepage" : "https://github.com/lutzroeder/netron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-netron/AppIcon.png",
       "localizedDescription" : "Visualizer for neural network, deep learning, and machine learning models",
       "name" : "Netron",
-      "sha256" : "e5a3d2ce02cd87f2a86359b5011c00769daa080333c82945918dc25975e92796",
+      "sha256" : "f7cd9d176f4c571de94226024db0793293b3cd30c545998fb91d91879eb86343",
       "stats" : {
         "downloadCount" : 354,
         "impressionCount" : 1055
       },
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
-      "version" : "6.0.1",
-      "versionDate" : "2022-09-02T00:00:00Z"
+      "version" : "6.0.2",
+      "versionDate" : "2022-09-04T04:19:22Z"
     },
     {
       "beta" : false,
@@ -6650,7 +6650,7 @@
       "name" : "CopyClip",
       "stats" : {
         "downloadCount" : 224,
-        "impressionCount" : 624
+        "impressionCount" : 625
       },
       "subtitle" : "Clipboard manager",
       "tintColor" : "BEAA60",
@@ -6806,19 +6806,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://sveinbjorn.org/files/software/platypus/platypus5.3.zip",
+      "downloadURL" : "https://sveinbjorn.org/files/software/platypus/platypus5.4.zip",
       "homepage" : "https://sveinbjorn.org/platypus",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-platypus/AppIcon.png",
       "localizedDescription" : "Tool to create native applications from command-line scripts",
       "name" : "Platypus",
-      "sha256" : "efc66e943e6327896d0c1b82b0c1798c9ea17cffa03581e4949541c30d9833b0",
+      "sha256" : "677ce20096b86c33ae0ca393ae48cceb2dacd4500bf28445e2c202150b9257ad",
       "stats" : {
         "downloadCount" : 210,
         "impressionCount" : 435
       },
       "subtitle" : "Tool to create native applications from command-line scripts",
       "tintColor" : "B47836",
-      "version" : "5.3,1113"
+      "version" : "5.4,1233",
+      "versionDate" : "2022-09-04T04:19:22Z"
     },
     {
       "beta" : false,
@@ -6874,7 +6875,7 @@
       "sha256" : "51430985dc239d7d6b8f90c0f4fdf58eb810a6ce54c0591f4c56936e79bab60e",
       "stats" : {
         "downloadCount" : 202,
-        "impressionCount" : 779
+        "impressionCount" : 780
       },
       "subtitle" : "Spot and merge differences in text and image files or folders",
       "tintColor" : "556055",
@@ -8419,7 +8420,7 @@
       "sha256" : "da3c4850b34a03cca1949c5b2d42050827c4f10210d14620a950e0b6bf952178",
       "stats" : {
         "downloadCount" : 115,
-        "impressionCount" : 721
+        "impressionCount" : 722
       },
       "subtitle" : "Hard disk backup and cloning utility",
       "tintColor" : "8198A9",
@@ -11726,7 +11727,7 @@
       "sha256" : "8039f5642afead0eac18306b2303cffb477bf7fdf1ebd550ec82cbe9d54464dc",
       "stats" : {
         "downloadCount" : 55,
-        "impressionCount" : 131
+        "impressionCount" : 132
       },
       "subtitle" : "Command-line tool for the App Store version of Kaleidoscope",
       "tintColor" : "9C653C",
@@ -13630,7 +13631,7 @@
       "sha256" : "b8b7243d354208584db9c2aa64750f35234083e5bfcff8e92155cce240f9732a",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 518
+        "impressionCount" : 519
       },
       "subtitle" : "Visual scope for coffee roasters",
       "tintColor" : "4CABD0",
@@ -14324,7 +14325,7 @@
       "sha256" : "17c76ebeb0c2dc5e86a84e101998495ad93e86928eed642c908f848e2c7e6ef8",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 521
+        "impressionCount" : 522
       },
       "subtitle" : "Graphical configurator for Kaleidoscope-powered keyboards",
       "tintColor" : "FEB392",
@@ -15344,7 +15345,7 @@
       "sha256" : "5da337e06e1ac6325627f99a0662042b1d97689613685cc046441d41d6d1f075",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 415
+        "impressionCount" : 416
       },
       "subtitle" : "Tool that translates text in real-time while copying",
       "tintColor" : "BF82CF",
@@ -16620,7 +16621,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.1.11/siyuan-2.1.11-mac.dmg",
+      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.1.12/siyuan-2.1.12-mac.dmg",
       "fundingLinks" : [
         {
           "platform" : "OPEN_COLLECTIVE",
@@ -16635,15 +16636,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-siyuan/AppIcon.png",
       "localizedDescription" : "Local-first personal knowledge management system",
       "name" : "SiYuan",
-      "sha256" : "c97671d7cbc4ed9a41a627886b3969f8742d8cfa3884eefd40a819231b7a27a0",
+      "sha256" : "e652f06de29809a3452e0f701d8beae38eea7f283a2b76968c9af8938f09a7f8",
       "stats" : {
         "downloadCount" : 26,
         "impressionCount" : 650
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
-      "version" : "2.1.11",
-      "versionDate" : "2022-09-01T00:00:00Z"
+      "version" : "2.1.12",
+      "versionDate" : "2022-09-04T04:19:22Z"
     },
     {
       "beta" : false,
@@ -16905,20 +16906,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://hejki.org/download/ssheditor/SSHConfigEditor-97.dmg",
+      "downloadURL" : "https://hejki.org/download/ssheditor/SSHConfigEditor-98.dmg",
       "homepage" : "https://www.hejki.org/ssheditor/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ssh-config-editor/AppIcon.png",
       "localizedDescription" : "Tool for managing the OpenSSH ssh client configuration file",
       "name" : "SSH Config Editor",
-      "sha256" : "5adbf9a1dc3466195f43e0fc4c955f124b16b149ae349a29e7d9368aa6472505",
+      "sha256" : "57c604f95f7df5e89e132aad62e80fa320350641bf96ff777283cdf4b39b555d",
       "stats" : {
         "downloadCount" : 25,
         "impressionCount" : 277
       },
       "subtitle" : "Tool for managing the OpenSSH ssh client configuration file",
       "tintColor" : "B2733D",
-      "version" : "2.6-b,97",
-      "versionDate" : "2022-08-25T00:00:00Z"
+      "version" : "2.6-b,98",
+      "versionDate" : "2022-09-04T04:19:22Z"
     },
     {
       "beta" : false,
@@ -18593,20 +18594,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://cdn.mwebapp.cn/MWebPro433.dmg",
+      "downloadURL" : "https://cdn.mwebapp.cn/MWebPro435.dmg",
       "homepage" : "https://www.mweb.im/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mweb-pro/AppIcon.png",
       "localizedDescription" : "Markdown writing, note taking, and static blog generator app",
       "name" : "MWeb Pro",
-      "sha256" : "c1d6272d4d95cec254b512efd17b43b72826eee9d1302c4076f56063aec6c479",
+      "sha256" : "ce17ec3786b2d26bff9851010c86d4a509fe81de4ba297f5adf567fdb975f314",
       "stats" : {
         "downloadCount" : 20,
         "impressionCount" : 335
       },
       "subtitle" : "Markdown writing, note taking, and static blog generator app",
       "tintColor" : "75737B",
-      "version" : "4.3.3",
-      "versionDate" : "2022-08-17T00:00:00Z"
+      "version" : "4.3.5",
+      "versionDate" : "2022-09-04T04:19:22Z"
     },
     {
       "beta" : false,
@@ -19498,7 +19499,7 @@
       "sha256" : "8d77b01b7959e797aad3e31852e4f39973b5197bec506b14ddb738f0ec0bb861",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 209
+        "impressionCount" : 210
       },
       "subtitle" : "Tools for measuring, inspecting & testing on-screen graphics and layouts",
       "tintColor" : "3683DC",
@@ -26800,19 +26801,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://github.com/martpie/museeks/releases/download/0.13.0/museeks-x64.dmg",
+      "downloadURL" : "https://github.com/martpie/museeks/releases/download/0.13.1/museeks-x64.dmg",
       "homepage" : "https://museeks.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-museeks/AppIcon.png",
       "localizedDescription" : "Music player",
       "name" : "Museeks",
-      "sha256" : "d2a8290ed596960ed4f12fdbc495ed82befbec3df8299100386c16d81508eedd",
+      "sha256" : "79130a16985aab46e2e0c1c270e3339f96886cc60d2f02b531533dd0307b0d48",
       "stats" : {
         "downloadCount" : 7,
         "impressionCount" : 353
       },
       "subtitle" : "Music player",
       "tintColor" : "5BB9E4",
-      "version" : "0.13.0"
+      "version" : "0.13.1",
+      "versionDate" : "2022-09-04T04:19:22Z"
     },
     {
       "beta" : false,
@@ -31240,7 +31242,7 @@
       "name" : "Plain Clip",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 152
+        "impressionCount" : 153
       },
       "subtitle" : "Removes formatting from copied text",
       "tintColor" : "AEB3BB",
@@ -40059,7 +40061,7 @@
       "sha256" : "de355c6bc5e8dd51850f514e8fb8b326667eb1ac1d191f6303221b9d726c4936",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 202
+        "impressionCount" : 203
       },
       "subtitle" : "Unicode, Unihan & emoji utilities",
       "tintColor" : "A7CBD9",
@@ -41269,19 +41271,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/YACReader/yacreader/releases/download/9.8.2/YACReader-9.8.2.2106195.MacOSX-Intel.dmg",
+      "downloadURL" : "https://github.com/YACReader/yacreader/releases/download/9.9.0/YACReader-9.9.0.2209032.MacOSX-Intel.dmg",
       "homepage" : "https://www.yacreader.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yacreader/AppIcon.png",
       "localizedDescription" : "Comic reader",
       "name" : "YACReader",
-      "sha256" : "19c1d566fe080b9d2350812119ce3d8d28a6d20a6e1f9c3d43d59c89823a0ea1",
+      "sha256" : "d2cffb067ae2b4c74dc1bb88addcfbd2d864d3fa80b04ebe9d1eabd961e1598b",
       "stats" : {
         "downloadCount" : 238,
         "impressionCount" : 55
       },
       "subtitle" : "Comic reader",
       "tintColor" : "F5DFA1",
-      "version" : "9.8.2.2106195"
+      "version" : "9.9.0.2209032",
+      "versionDate" : "2022-09-04T04:19:22Z"
     },
     {
       "beta" : false,
@@ -52879,15 +52882,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-roboform/AppIcon.png",
       "localizedDescription" : "Password manager and form filler application",
       "name" : "RoboForm",
-      "sha256" : "e51b260c4947402dfd4ebb8994cb3e878c5462db2bead6b63f8bb2190ee31284",
+      "sha256" : "67ced6f9129ec341f2eb8abe3f7f04e869490f522fe05fc0a3e8453b56d29441",
       "stats" : {
         "downloadCount" : 7,
         "impressionCount" : 99
       },
       "subtitle" : "Password manager and form filler application",
       "tintColor" : "94C390",
-      "version" : "9.3.4",
-      "versionDate" : "2022-07-10T00:00:00Z"
+      "version" : "9.3.5",
+      "versionDate" : "2022-09-04T04:19:22Z"
     },
     {
       "beta" : false,
@@ -53450,7 +53453,7 @@
       "sha256" : "d8db04b3ca760d0e2a644261eb359390ab13b1f8aa38499aa4b590a5a12eacd4",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 67
+        "impressionCount" : 68
       },
       "subtitle" : "Utility to rip and copy DVD content",
       "tintColor" : "DCBFA2",
@@ -55866,7 +55869,7 @@
       "sha256" : "b07ec4c0c88f700414b6cd56d84254d6e93119c2154e3108c710fe84b69e0c00",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 73
+        "impressionCount" : 74
       },
       "subtitle" : "Interactive viewer for rooted phylogenetic trees and networks",
       "tintColor" : "8FBAA9",
@@ -56974,7 +56977,7 @@
       "name" : "iBackupBot",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 80
+        "impressionCount" : 82
       },
       "tintColor" : "988049",
       "version" : "5.6.0"
@@ -60045,17 +60048,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.16%2B20220902102953-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.17%2B20220903102918-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "5fdc0bc140d88658c6015afe3baeed580b2114aa0661ae4cfd5919b59c66e570",
+      "sha256" : "2fc99be20e3d45e7859fc23b8b6ab59b1983e11007eb8346c51f462fe473244d",
       "stats" : {
         "downloadCount" : 637
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.16,20220902102953",
-      "versionDate" : "2022-09-03T00:00:00Z"
+      "version" : "6.2.17,20220903102918",
+      "versionDate" : "2022-09-04T04:19:22Z"
     },
     {
       "beta" : false,
@@ -72426,7 +72429,7 @@
       },
       "subtitle" : "XML editor",
       "version" : "3.2.2",
-      "versionDate" : "2022-09-04T01:17:44Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72493,7 +72496,7 @@
         "downloadCount" : 1
       },
       "version" : "1.0",
-      "versionDate" : "2022-09-04T01:17:44Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72926,7 +72929,7 @@
       },
       "subtitle" : "Sign documents through digital certificates",
       "version" : "2.11.0",
-      "versionDate" : "2022-09-04T01:17:44Z"
+      "versionDate" : "2022-09-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74142,55 +74145,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "bootstrap-studio",
-      "caption" : "Bootstrap Studio updated from 6.1.2 to 6.1.3",
-      "date" : "2022-09-02T09:22:42Z",
-      "identifier" : "release-bootstrap-studio-6.1.3",
-      "title" : "New Release: Bootstrap Studio 6.1.3"
-    },
-    {
-      "appID" : "ogdesign-eagle",
-      "caption" : "Eagle updated from 3.0,11 to 3.0,12",
-      "date" : "2022-09-02T09:22:42Z",
-      "identifier" : "release-ogdesign-eagle-3.0,12",
-      "title" : "New Release: Eagle 3.0,12"
-    },
-    {
-      "appID" : "shift",
-      "caption" : "Shift updated from 8.0.49.479 to 8.0.50.485",
-      "date" : "2022-09-02T09:22:42Z",
-      "identifier" : "release-shift-8.0.50.485",
-      "title" : "New Release: Shift 8.0.50.485"
-    },
-    {
-      "appID" : "yuque",
-      "caption" : "Yuque updated from 1.5.3 to 1.6.3",
-      "date" : "2022-09-02T09:22:42Z",
-      "identifier" : "release-yuque-1.6.3",
-      "title" : "New Release: Yuque 1.6.3"
-    },
-    {
-      "appID" : "4k-youtube-to-mp3",
-      "caption" : "4K YouTube to MP3 updated from 4.6.2 to 4.6.3",
-      "date" : "2022-09-02T09:22:42Z",
-      "identifier" : "release-4k-youtube-to-mp3-4.6.3",
-      "title" : "New Release: 4K YouTube to MP3 4.6.3"
-    },
-    {
-      "appID" : "meta",
-      "caption" : "Meta updated from 2.1.4,3465 to 2.1.5,3495",
-      "date" : "2022-09-02T09:22:43Z",
-      "identifier" : "release-meta-2.1.5,3495",
-      "title" : "New Release: Meta 2.1.5,3495"
-    },
-    {
-      "appID" : "buttercup",
-      "caption" : "Buttercup updated from 2.16.0 to 2.17.0",
-      "date" : "2022-09-02T09:22:43Z",
-      "identifier" : "release-buttercup-2.17.0",
-      "title" : "New Release: Buttercup 2.17.0"
-    },
-    {
       "appID" : "retroactive",
       "caption" : "Retroactive updated from 1.9 to 2.0",
       "date" : "2022-09-02T09:22:43Z",
@@ -74415,13 +74369,6 @@
       "title" : "New Release: Spotify 1.1.93.896,3ae3b4f3,10"
     },
     {
-      "appID" : "netron",
-      "caption" : "Netron updated from 6.0.0 to 6.0.1",
-      "date" : "2022-09-02T16:29:01Z",
-      "identifier" : "release-netron-6.0.1",
-      "title" : "New Release: Netron 6.0.1"
-    },
-    {
       "appID" : "mmex",
       "caption" : "Money Manager Ex updated from 1.5.19 to 1.5.20",
       "date" : "2022-09-03T04:12:04Z",
@@ -74623,13 +74570,6 @@
       "date" : "2022-09-03T04:12:08Z",
       "identifier" : "release-banksiagui-0.55",
       "title" : "New Release: BanksiaGui 0.55"
-    },
-    {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.15,20220901103000 to 6.2.16,20220902102953",
-      "date" : "2022-09-03T04:12:08Z",
-      "identifier" : "release-metasploit-6.2.16,20220902102953",
-      "title" : "New Release: Metasploit Framework 6.2.16,20220902102953"
     },
     {
       "appID" : "zenmap",
@@ -74840,6 +74780,69 @@
       "date" : "2022-09-04T01:17:45Z",
       "identifier" : "release-firmaec-2.11.0",
       "title" : "New Release: FirmaEC 2.11.0"
+    },
+    {
+      "appID" : "netron",
+      "caption" : "Netron updated from 6.0.1 to 6.0.2",
+      "date" : "2022-09-04T04:19:23Z",
+      "identifier" : "release-netron-6.0.2",
+      "title" : "New Release: Netron 6.0.2"
+    },
+    {
+      "appID" : "platypus",
+      "caption" : "Platypus updated from 5.3,1113 to 5.4,1233",
+      "date" : "2022-09-04T04:19:23Z",
+      "identifier" : "release-platypus-5.4,1233",
+      "title" : "New Release: Platypus 5.4,1233"
+    },
+    {
+      "appID" : "siyuan",
+      "caption" : "SiYuan updated from 2.1.11 to 2.1.12",
+      "date" : "2022-09-04T04:19:24Z",
+      "identifier" : "release-siyuan-2.1.12",
+      "title" : "New Release: SiYuan 2.1.12"
+    },
+    {
+      "appID" : "ssh-config-editor",
+      "caption" : "SSH Config Editor updated from 2.6-b,97 to 2.6-b,98",
+      "date" : "2022-09-04T04:19:24Z",
+      "identifier" : "release-ssh-config-editor-2.6-b,98",
+      "title" : "New Release: SSH Config Editor 2.6-b,98"
+    },
+    {
+      "appID" : "mweb-pro",
+      "caption" : "MWeb Pro updated from 4.3.3 to 4.3.5",
+      "date" : "2022-09-04T04:19:24Z",
+      "identifier" : "release-mweb-pro-4.3.5",
+      "title" : "New Release: MWeb Pro 4.3.5"
+    },
+    {
+      "appID" : "museeks",
+      "caption" : "Museeks updated from 0.13.0 to 0.13.1",
+      "date" : "2022-09-04T04:19:24Z",
+      "identifier" : "release-museeks-0.13.1",
+      "title" : "New Release: Museeks 0.13.1"
+    },
+    {
+      "appID" : "yacreader",
+      "caption" : "YACReader updated from 9.8.2.2106195 to 9.9.0.2209032",
+      "date" : "2022-09-04T04:19:24Z",
+      "identifier" : "release-yacreader-9.9.0.2209032",
+      "title" : "New Release: YACReader 9.9.0.2209032"
+    },
+    {
+      "appID" : "roboform",
+      "caption" : "RoboForm updated from 9.3.4 to 9.3.5",
+      "date" : "2022-09-04T04:19:24Z",
+      "identifier" : "release-roboform-9.3.5",
+      "title" : "New Release: RoboForm 9.3.5"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.16,20220902102953 to 6.2.17,20220903102918",
+      "date" : "2022-09-04T04:19:25Z",
+      "identifier" : "release-metasploit-6.2.17,20220903102918",
+      "title" : "New Release: Metasploit Framework 6.2.17,20220903102918"
     }
   ],
   "platform" : "macos",

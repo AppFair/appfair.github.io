@@ -1948,7 +1948,7 @@
       "sha256" : "1d5f4aa4c82c8cf8d858c413928be55963ccd1203552d8dc07f4ca123f814c01",
       "stats" : {
         "downloadCount" : 683,
-        "impressionCount" : 2492,
+        "impressionCount" : 2494,
         "viewCount" : 105
       },
       "subtitle" : "Electronics prototyping platform",
@@ -4886,7 +4886,7 @@
       "sha256" : "92eb39f59f4e7b8b1b025178b337a0ef9d619521144748a32b3e2b8df1c45a00",
       "stats" : {
         "downloadCount" : 560,
-        "impressionCount" : 1236
+        "impressionCount" : 1238
       },
       "subtitle" : "Memory training application",
       "tintColor" : "91A2AE",
@@ -7251,7 +7251,7 @@
       "sha256" : "e94ba07fa606c927e6ec68c6d276cd6decb5988f00639f36a6507e847a7c3342",
       "stats" : {
         "downloadCount" : 171,
-        "impressionCount" : 955
+        "impressionCount" : 957
       },
       "subtitle" : "Digital logic designer and simulator",
       "tintColor" : "4DA64D",
@@ -10950,7 +10950,7 @@
       "sha256" : "0913c98fe0c18a6945ff231fdfdd78a1a9166d8d8f40f745cfe3ddabd1530087",
       "stats" : {
         "downloadCount" : 63,
-        "impressionCount" : 1124
+        "impressionCount" : 1126
       },
       "subtitle" : "Solve, save and share math problems, graph functions, etc",
       "tintColor" : "DADAE0",
@@ -29160,7 +29160,7 @@
       "name" : "Detexify",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 845
+        "impressionCount" : 846
       },
       "tintColor" : "DEB38C",
       "version" : "1.0.2"
@@ -31235,7 +31235,7 @@
       "name" : "Physics 101",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 533
+        "impressionCount" : 534
       },
       "subtitle" : "Collection of simulations, tools, and equations across the field of physics",
       "tintColor" : "BB8E25",
@@ -34444,7 +34444,7 @@
       "sha256" : "031c18b8aaa05962df7cd1d660dfe3366a3dc6ff148fd7bdb89fd37ebbc492e5",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 788
+        "impressionCount" : 790
       },
       "subtitle" : "Electronics prototyping platform",
       "tintColor" : "8F1C1C",
@@ -34526,7 +34526,7 @@
       "sha256" : "bc946ab51a3eec7ed82478ad18acb41726bcd08d01007b3ce004528f1eaa8f0a",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 792
+        "impressionCount" : 794
       },
       "subtitle" : "Companion app for the LEGO MINDSTORMS Education EV3 Core Set",
       "tintColor" : "F96C73",
@@ -38535,7 +38535,7 @@
       "name" : "CrystalMaker",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 828
+        "impressionCount" : 830
       },
       "subtitle" : "Visualize crystal and molecular structures",
       "tintColor" : "875CA8",
@@ -39017,7 +39017,7 @@
       "sha256" : "67419db679bd1c5cd9c6bc919dfb4e37e767222afe4a2d164e67abfd94fda11b",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 544
+        "impressionCount" : 545
       },
       "subtitle" : "Software for nonlinear fitting, plotting and data analysis",
       "tintColor" : "989595",

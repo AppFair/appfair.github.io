@@ -25,7 +25,7 @@
       "sha256" : "e93c4d1f5d3de3f6c909d4dbd14fce8db0ca17a3a64161613512ed7eab847617",
       "stats" : {
         "downloadCount" : 2567,
-        "impressionCount" : 10197,
+        "impressionCount" : 10199,
         "viewCount" : 1113
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c6f7b0815668218db61405ee0d3dabbd4c9376bb329b6715bfb36d1de0dd5f7e",
       "stats" : {
         "downloadCount" : 16619,
-        "impressionCount" : 9055,
+        "impressionCount" : 9058,
         "viewCount" : 968
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8979,
-        "impressionCount" : 7935,
+        "impressionCount" : 7937,
         "viewCount" : 690
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28136,
-        "impressionCount" : 8367,
+        "impressionCount" : 8369,
         "viewCount" : 705
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8233,
-        "impressionCount" : 8295,
+        "impressionCount" : 8297,
         "viewCount" : 666
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6512,
-        "impressionCount" : 8243,
+        "impressionCount" : 8244,
         "viewCount" : 536
       },
       "subtitle" : "Voice and text chat software",
@@ -209,8 +209,8 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3350,
-        "impressionCount" : 7515,
-        "viewCount" : 559
+        "impressionCount" : 7518,
+        "viewCount" : 560
       },
       "subtitle" : "Text editor",
       "tintColor" : "9379BF",
@@ -237,7 +237,7 @@
       "sha256" : "8f22fb8ecb3a67611e68c7e643c3424850dfdcb7b04795e4175bb2ce8f436faf",
       "stats" : {
         "downloadCount" : 3340,
-        "impressionCount" : 8742,
+        "impressionCount" : 8743,
         "viewCount" : 588
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2646,
-        "impressionCount" : 6530,
+        "impressionCount" : 6531,
         "viewCount" : 421
       },
       "subtitle" : "Video game digital distribution service",
@@ -291,7 +291,7 @@
       "sha256" : "246e1b174af3f61513e4e004e948a325149091b5165b7005391570f6d334ee3e",
       "stats" : {
         "downloadCount" : 2094,
-        "impressionCount" : 7184,
+        "impressionCount" : 7186,
         "viewCount" : 453
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -325,7 +325,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 1967,
-        "impressionCount" : 8293,
+        "impressionCount" : 8294,
         "viewCount" : 862
       },
       "subtitle" : "File archiver",
@@ -356,7 +356,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1178,
-        "impressionCount" : 8582,
+        "impressionCount" : 8584,
         "viewCount" : 487
       },
       "subtitle" : "3D creation suite",
@@ -445,7 +445,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 587,
-        "impressionCount" : 6735,
+        "impressionCount" : 6737,
         "viewCount" : 355
       },
       "subtitle" : "Text editor",
@@ -506,7 +506,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 393,
-        "impressionCount" : 6846,
+        "impressionCount" : 6847,
         "viewCount" : 493
       },
       "subtitle" : "Text, code, and markup editor",
@@ -561,7 +561,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 264,
-        "impressionCount" : 4933,
+        "impressionCount" : 4934,
         "viewCount" : 418
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -620,7 +620,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 153,
-        "impressionCount" : 5541,
+        "impressionCount" : 5542,
         "viewCount" : 584
       },
       "subtitle" : "iOS App Store alternative",
@@ -709,7 +709,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 3078,
+        "impressionCount" : 3079,
         "viewCount" : 262
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -741,7 +741,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 3161,
+        "impressionCount" : 3162,
         "viewCount" : 259
       },
       "subtitle" : "Create DMGs and other archives",
@@ -831,7 +831,7 @@
       "sha256" : "3851ca21e4569357dbc3b7063fd69536dd02dad4e620514288505f87498d8859",
       "stats" : {
         "downloadCount" : 7390,
-        "impressionCount" : 2610,
+        "impressionCount" : 2613,
         "viewCount" : 156
       },
       "subtitle" : "Universal database tool and SQL client",
@@ -872,7 +872,7 @@
       "sha256" : "19272a3405c8d2f41572026cd1fb79f2ed717613d707967bf5151a954eec757c",
       "stats" : {
         "downloadCount" : 6213,
-        "impressionCount" : 4943,
+        "impressionCount" : 4946,
         "viewCount" : 495
       },
       "subtitle" : "System monitor for the menu bar",
@@ -895,7 +895,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 6088,
-        "impressionCount" : 2180,
+        "impressionCount" : 2181,
         "viewCount" : 102
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -917,7 +917,7 @@
       "sha256" : "0bed4d9ce226dedd73a475925829118ea3ff075c5ec0903814ce302c3ca3825e",
       "stats" : {
         "downloadCount" : 5380,
-        "impressionCount" : 2485,
+        "impressionCount" : 2486,
         "viewCount" : 159
       },
       "subtitle" : "Application launcher and productivity software",
@@ -963,7 +963,7 @@
       "sha256" : "9caaeacd888b98a47fbf666ddf50d1416dbabdeacda6588da211f2344cec51ef",
       "stats" : {
         "downloadCount" : 4080,
-        "impressionCount" : 4407,
+        "impressionCount" : 4408,
         "viewCount" : 271
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -986,7 +986,7 @@
       "sha256" : "330ea9c88f24c0487c7ecfc887c0fac7e12fb3f3a636c02bfec610333f46091a",
       "stats" : {
         "downloadCount" : 4010,
-        "impressionCount" : 2554,
+        "impressionCount" : 2555,
         "viewCount" : 139
       },
       "subtitle" : "Password manager that keeps all passwords secure behind one password",
@@ -1032,7 +1032,7 @@
       "sha256" : "e5547fc01168270bd1ba5380cff610966da229e44f311138f12168cb2f34d3c8",
       "stats" : {
         "downloadCount" : 3839,
-        "impressionCount" : 2357,
+        "impressionCount" : 2358,
         "viewCount" : 147
       },
       "subtitle" : "Free and open-source image editor",
@@ -1054,7 +1054,7 @@
       "sha256" : "df46f2199fcf4c7e6b882ba16151ea1d2dd48a15f5c87d30224f1b5401d2b648",
       "stats" : {
         "downloadCount" : 3579,
-        "impressionCount" : 2525,
+        "impressionCount" : 2526,
         "viewCount" : 115
       },
       "subtitle" : "Tools for building Android applications",
@@ -1123,7 +1123,7 @@
       "sha256" : "08b59c3b41bdf369a8ce8ed65c8607eeac2e73672298a04ebf53e7a802b56939",
       "stats" : {
         "downloadCount" : 3060,
-        "impressionCount" : 2976,
+        "impressionCount" : 2977,
         "viewCount" : 185
       },
       "subtitle" : "GPU-accelerated terminal emulator",
@@ -1237,7 +1237,7 @@
       "sha256" : "a60857ef84f426c01693101a01a439348858aa3f3d7e8d19a91b713d384967f3",
       "stats" : {
         "downloadCount" : 2483,
-        "impressionCount" : 2610,
+        "impressionCount" : 2611,
         "viewCount" : 230
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
@@ -1260,7 +1260,7 @@
       "sha256" : "8617959678916a95548b59e560bbc709260e435d678cad7a6599caf205431f18",
       "stats" : {
         "downloadCount" : 2458,
-        "impressionCount" : 2386,
+        "impressionCount" : 2387,
         "viewCount" : 207
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1301,7 +1301,7 @@
       "sha256" : "ec02064faae6e3af7297f73a90476c5a349be9ffe82ccef15b56c387635e84ca",
       "stats" : {
         "downloadCount" : 2453,
-        "impressionCount" : 3297,
+        "impressionCount" : 3298,
         "viewCount" : 231
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1324,7 +1324,7 @@
       "sha256" : "9c1402f8682ecefe84ae9494c65b80da1b763664624a7f6b0104b044b4cb687a",
       "stats" : {
         "downloadCount" : 2395,
-        "impressionCount" : 2160,
+        "impressionCount" : 2161,
         "viewCount" : 94
       },
       "subtitle" : "IDE for Java development - community edition",
@@ -1347,7 +1347,7 @@
       "sha256" : "dc5271b496c995b8ef957f4a53c3224771002715d15917c776fddb7d4a03b2c5",
       "stats" : {
         "downloadCount" : 2382,
-        "impressionCount" : 2661,
+        "impressionCount" : 2663,
         "viewCount" : 164
       },
       "subtitle" : "Text editor",
@@ -1369,7 +1369,7 @@
       "sha256" : "8117d5d864358c9f626ce574d07d2f121ad96fc96a535cc3fddaba3c74bd3279",
       "stats" : {
         "downloadCount" : 2375,
-        "impressionCount" : 2324,
+        "impressionCount" : 2325,
         "viewCount" : 129
       },
       "subtitle" : "Vector graphics editor",
@@ -1452,7 +1452,7 @@
       "sha256" : "27b4683c9343333466fb78d0d9d53559179aabc1cc87470aeef20d5ef3efc321",
       "stats" : {
         "downloadCount" : 2362,
-        "impressionCount" : 3030,
+        "impressionCount" : 3031,
         "viewCount" : 145
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1498,7 +1498,7 @@
       "sha256" : "f34e30c5454045021bcf30cfb788a9b92a6c87626c3922831b25580d2602c012",
       "stats" : {
         "downloadCount" : 1949,
-        "impressionCount" : 3868,
+        "impressionCount" : 3869,
         "viewCount" : 181
       },
       "subtitle" : "E-books management software",
@@ -1604,7 +1604,7 @@
       "sha256" : "80ec8e5fc441e2b86448e8eb5f10693f1d7438c70d11916745940b8068dfd020",
       "stats" : {
         "downloadCount" : 1290,
-        "impressionCount" : 2136,
+        "impressionCount" : 2137,
         "viewCount" : 108
       },
       "subtitle" : "Customizable email client",
@@ -1672,7 +1672,7 @@
       "sha256" : "0e940c1c31213ea3c8c3cd3d56e893f74a595b3bae29456827f6c34173eabb1b",
       "stats" : {
         "downloadCount" : 1179,
-        "impressionCount" : 2135,
+        "impressionCount" : 2137,
         "viewCount" : 108
       },
       "subtitle" : "Multi-track audio editor and recorder",
@@ -1792,7 +1792,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 918,
-        "impressionCount" : 3519,
+        "impressionCount" : 3522,
         "viewCount" : 299
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -1881,7 +1881,7 @@
       "sha256" : "6bd5c737e1a6a4128c18bcf60fc0875200ad9bdd5ce14ce2c014596779452ca0",
       "stats" : {
         "downloadCount" : 743,
-        "impressionCount" : 2706,
+        "impressionCount" : 2707,
         "viewCount" : 197
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -1948,7 +1948,7 @@
       "sha256" : "1d5f4aa4c82c8cf8d858c413928be55963ccd1203552d8dc07f4ca123f814c01",
       "stats" : {
         "downloadCount" : 683,
-        "impressionCount" : 2491,
+        "impressionCount" : 2492,
         "viewCount" : 105
       },
       "subtitle" : "Electronics prototyping platform",
@@ -1992,7 +1992,7 @@
       "sha256" : "60db1568b30891f0f4006d109d3ba93c55f3ff7af513b56941b2ce53bdf0262a",
       "stats" : {
         "downloadCount" : 598,
-        "impressionCount" : 1717,
+        "impressionCount" : 1718,
         "viewCount" : 90
       },
       "subtitle" : "Configurable document editor that supports Markdown",
@@ -2015,7 +2015,7 @@
       "sha256" : "af938d17dcea5701da7a990705acbd0686dfedfdbcd64721666ae0bef7644ba9",
       "stats" : {
         "downloadCount" : 561,
-        "impressionCount" : 2345,
+        "impressionCount" : 2346,
         "viewCount" : 129
       },
       "subtitle" : "Open-source KVM software",
@@ -2037,7 +2037,7 @@
       "sha256" : "8e66c73ebd5d97bbe2b79e27bdfd3f06299edb7f941246ea52cc32883917df12",
       "stats" : {
         "downloadCount" : 546,
-        "impressionCount" : 3717,
+        "impressionCount" : 3718,
         "viewCount" : 107
       },
       "subtitle" : "Web debugging Proxy application",
@@ -2104,7 +2104,7 @@
       "sha256" : "addab784af18bafa303340e754c00084c126e61c3d5b93006f8e6d602f838203",
       "stats" : {
         "downloadCount" : 500,
-        "impressionCount" : 2334,
+        "impressionCount" : 2335,
         "viewCount" : 209
       },
       "subtitle" : "Photography workflow application and raw developer",
@@ -2133,7 +2133,7 @@
       "sha256" : "bbfd7b71c5be557c0c23467978e6bf892115dc08584e3e6801b110e6df8ddc89",
       "stats" : {
         "downloadCount" : 457,
-        "impressionCount" : 4143
+        "impressionCount" : 4145
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2177,7 +2177,7 @@
       "sha256" : "59e9b5ea3f8feef8b9e28daea9711e90030ca42cfb1664cd25a47c2fc0c1de19",
       "stats" : {
         "downloadCount" : 423,
-        "impressionCount" : 1847,
+        "impressionCount" : 1848,
         "viewCount" : 128
       },
       "subtitle" : "Modern and intuitive HTTP Debugging Proxy app",
@@ -2200,7 +2200,7 @@
       "sha256" : "ba2a8fcf9a1f080ca6b2ef832b13104c440077b9e6a2bb6e26bc97bdea373208",
       "stats" : {
         "downloadCount" : 421,
-        "impressionCount" : 1790,
+        "impressionCount" : 1791,
         "viewCount" : 78
       },
       "subtitle" : "C and C++ IDE",
@@ -3013,7 +3013,7 @@
       "sha256" : "be088fb98c2841ac71bef427f13a890dbb1552b5e1bd888665898129e2582fb5",
       "stats" : {
         "downloadCount" : 33323,
-        "impressionCount" : 1452
+        "impressionCount" : 1453
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -3138,7 +3138,7 @@
       "sha256" : "a18a2dd2aeee0d4701b0d63a61e90d066ff19ca8e361bd1f98658f1feea82e40",
       "stats" : {
         "downloadCount" : 5959,
-        "impressionCount" : 1523
+        "impressionCount" : 1525
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -3246,7 +3246,7 @@
       "sha256" : "81d13ce362bf34ab2320fdeef22a4b97176f726cfb7ed00e5999b9ed289c11b4",
       "stats" : {
         "downloadCount" : 3052,
-        "impressionCount" : 1790
+        "impressionCount" : 1792
       },
       "subtitle" : "Standalone app for debugging React Native apps",
       "tintColor" : "8F8F8F",
@@ -3841,7 +3841,7 @@
       "sha256" : "8c2b322cab74cbf52dbe33e0fd9be63fe320d1ade2446790c4eec7309b590eea",
       "stats" : {
         "downloadCount" : 1263,
-        "impressionCount" : 684
+        "impressionCount" : 685
       },
       "subtitle" : "IDE for Python programming - Community Edition",
       "tintColor" : "6D8A2D",
@@ -3902,7 +3902,7 @@
       "sha256" : "83320faad3b217079f6638b1f4169ffc37465f255a93e262d1646f2a5f53f263",
       "stats" : {
         "downloadCount" : 1195,
-        "impressionCount" : 617
+        "impressionCount" : 618
       },
       "subtitle" : "Simple and elegant markdown editor",
       "tintColor" : "1E3C43",
@@ -3936,7 +3936,7 @@
       "sha256" : "4aecf835dcc3ccf3936e05e6cde7c3b5fa8e6d00bf9ebba52d3a608d7ba957b0",
       "stats" : {
         "downloadCount" : 1181,
-        "impressionCount" : 1637
+        "impressionCount" : 1639
       },
       "subtitle" : "Utility to extend trackpad functionality",
       "tintColor" : "000000",
@@ -4020,7 +4020,7 @@
       "sha256" : "2694ff56efd3f9a144aef6488b5ee53513e74d1330ab8e90742247354715ce2e",
       "stats" : {
         "downloadCount" : 1049,
-        "impressionCount" : 1367
+        "impressionCount" : 1368
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
@@ -4071,7 +4071,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 1002,
-        "impressionCount" : 1662
+        "impressionCount" : 1663
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -4714,7 +4714,7 @@
       "sha256" : "648f749e713816c7c5ccfa9dd21b0967de69999157a1125b71af20aef0d81574",
       "stats" : {
         "downloadCount" : 667,
-        "impressionCount" : 1880
+        "impressionCount" : 1881
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -4784,7 +4784,7 @@
       "sha256" : "bc1a73b9cb4b4d316fa11572f43383f0f02fc7e6ba88bbed046cc1b074336862",
       "stats" : {
         "downloadCount" : 647,
-        "impressionCount" : 1696
+        "impressionCount" : 1697
       },
       "subtitle" : "Clipboard manager for developers",
       "tintColor" : "B72B32",
@@ -5503,7 +5503,7 @@
       "sha256" : "c6900cb049b827dea9ed050315b7deb1b767799b2fbef14eb5ce6a7dfd6e98e3",
       "stats" : {
         "downloadCount" : 383,
-        "impressionCount" : 499
+        "impressionCount" : 500
       },
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
@@ -5595,7 +5595,7 @@
       "sha256" : "f55fbec0b5479bd2dffdcce047410ea4c29577795ad638937e1e24332309bce7",
       "stats" : {
         "downloadCount" : 366,
-        "impressionCount" : 1629
+        "impressionCount" : 1630
       },
       "subtitle" : "Shows the next meeting in the menu bar",
       "tintColor" : "47484B",
@@ -5647,7 +5647,7 @@
       "sha256" : "35ffc0bdf0767f6dd55ae541796c87e0bbce4513554b4bf128abb7664b9096d0",
       "stats" : {
         "downloadCount" : 360,
-        "impressionCount" : 1906
+        "impressionCount" : 1907
       },
       "subtitle" : "Open-source browser prompter",
       "tintColor" : "364A62",
@@ -5668,7 +5668,7 @@
       "sha256" : "82a80e60827170ff32e234e14f3172d8a005de4f55f039fe91d8e3e9a781f015",
       "stats" : {
         "downloadCount" : 356,
-        "impressionCount" : 833
+        "impressionCount" : 834
       },
       "subtitle" : "Web security testing toolkit",
       "tintColor" : "0FA7BC",
@@ -5737,7 +5737,7 @@
       "sha256" : "11af1d2367e966dc4ea829cbf39cc7c869af50d687708600b188024539180ec8",
       "stats" : {
         "downloadCount" : 349,
-        "impressionCount" : 1494
+        "impressionCount" : 1496
       },
       "subtitle" : "Finder Toolbar app to open the current directory in Terminal or Editor",
       "tintColor" : "42A5F1",
@@ -5929,7 +5929,7 @@
       "sha256" : "79f770c692287520fdd6001ec97af7d67b79eed985bf1e44bb97ab57fcedc517",
       "stats" : {
         "downloadCount" : 301,
-        "impressionCount" : 852
+        "impressionCount" : 853
       },
       "subtitle" : "Font editor and converter for outline and bitmap fonts",
       "tintColor" : "E0DFDE",
@@ -5949,7 +5949,7 @@
       "sha256" : "cdbeb8c32e11cd9c76360e17e0692d95d548464fbb414cfc0a1a84d802624a6f",
       "stats" : {
         "downloadCount" : 296,
-        "impressionCount" : 725
+        "impressionCount" : 726
       },
       "subtitle" : "Cross platform SQL editor and database management app",
       "tintColor" : "CDB130",
@@ -6011,7 +6011,7 @@
       "sha256" : "8cee7b6d6e53cae4349a328ab12c03a062e9d9367577e9b5e7d7e5546695acb7",
       "stats" : {
         "downloadCount" : 285,
-        "impressionCount" : 940
+        "impressionCount" : 941
       },
       "subtitle" : "Hex editor focussing on speed",
       "tintColor" : "C6CBCC",
@@ -6031,7 +6031,7 @@
       "sha256" : "be7aa4d205b53f3e35a9fbb37c12b099f7e35c3b9dd895824bb38ea72da6353d",
       "stats" : {
         "downloadCount" : 282,
-        "impressionCount" : 560
+        "impressionCount" : 561
       },
       "subtitle" : "GUI for the Neovim text editor",
       "tintColor" : "55A349",
@@ -6161,7 +6161,7 @@
       "sha256" : "73ee8fbcf481b1cf68a3456f3c215be8a7d8835342220cc44fba6fa0440f37fc",
       "stats" : {
         "downloadCount" : 268,
-        "impressionCount" : 426
+        "impressionCount" : 427
       },
       "subtitle" : "Open-source markdown editor",
       "tintColor" : "41C1A1",
@@ -6181,7 +6181,7 @@
       "sha256" : "d92d7f9717aac33990a3683bb442bdf648c17d99e6a748df1f6529ddf1e40e29",
       "stats" : {
         "downloadCount" : 265,
-        "impressionCount" : 599
+        "impressionCount" : 600
       },
       "subtitle" : "iPhone management application",
       "tintColor" : "E0D0E6",
@@ -6283,7 +6283,7 @@
       "sha256" : "628c0c0d4fe13fa378ee088046f3e84b16ec7d4cbd7eb016e570683dd316cf44",
       "stats" : {
         "downloadCount" : 257,
-        "impressionCount" : 728
+        "impressionCount" : 729
       },
       "subtitle" : "PDF reader, editor and annotator",
       "tintColor" : "D87D70",
@@ -6304,7 +6304,7 @@
       "sha256" : "e3e304d96f98ce4edb8b2d51e0bc734afa70c5ac367b583fc2d9741a050d9f5f",
       "stats" : {
         "downloadCount" : 255,
-        "impressionCount" : 797
+        "impressionCount" : 799
       },
       "subtitle" : "Rule-based custom proxy with GUI based on clash",
       "tintColor" : "4F9FF1",
@@ -6449,7 +6449,7 @@
       "sha256" : "9d12b754ec65edc77fa51d3a3c8a0b08ac863e10fd530bff219f9f22bb9dba3a",
       "stats" : {
         "downloadCount" : 238,
-        "impressionCount" : 721
+        "impressionCount" : 722
       },
       "subtitle" : "Image editor",
       "tintColor" : "AB9680",
@@ -6755,7 +6755,7 @@
       "sha256" : "1a3b77a19b5ef5a9c439c612c1826fdb89c273304440a5ed1a309440480c26b3",
       "stats" : {
         "downloadCount" : 216,
-        "impressionCount" : 1442
+        "impressionCount" : 1443
       },
       "subtitle" : "Native code editor",
       "tintColor" : "702495",
@@ -7393,7 +7393,7 @@
       "sha256" : "a46567f8d81f4a5c98713d010938fe36d6deeddd25e8b2527838bdc6f7b42b88",
       "stats" : {
         "downloadCount" : 160,
-        "impressionCount" : 573
+        "impressionCount" : 574
       },
       "subtitle" : "Extensible editor for OpenStreetMap",
       "tintColor" : "A79154",
@@ -7414,7 +7414,7 @@
       "sha256" : "f0384110b6ebafb046c6df0d730edc5c6687564c760f84bb9e812a7f836c3abc",
       "stats" : {
         "downloadCount" : 159,
-        "impressionCount" : 689
+        "impressionCount" : 690
       },
       "subtitle" : "Document editor",
       "tintColor" : "CFD4C3",
@@ -7681,7 +7681,7 @@
       "sha256" : "da40d4361810bf131cd06a1afe71e9a7a15918f2b154e1399db7306b2a3b72d3",
       "stats" : {
         "downloadCount" : 143,
-        "impressionCount" : 689
+        "impressionCount" : 690
       },
       "subtitle" : "Cross-platform video editor",
       "tintColor" : "718596",
@@ -8155,7 +8155,7 @@
       "sha256" : "203291c892465945821b15ae664c18e482091e22feb723ff0b891308838843a9",
       "stats" : {
         "downloadCount" : 123,
-        "impressionCount" : 1322
+        "impressionCount" : 1323
       },
       "subtitle" : "Design tool",
       "tintColor" : "3E8BDD",
@@ -8301,7 +8301,7 @@
       "sha256" : "631994a31763c7dc383d429969a7b3d98975ad98dcf30dc51b1421fc93fc05e7",
       "stats" : {
         "downloadCount" : 119,
-        "impressionCount" : 395
+        "impressionCount" : 396
       },
       "subtitle" : "Unicode keyboard layout editor",
       "tintColor" : "613C1B",
@@ -8463,7 +8463,7 @@
       "sha256" : "8a933c3b633e12da3b8a85e43b004223a3c00ee348a0817d0348ecaf5a586c54",
       "stats" : {
         "downloadCount" : 112,
-        "impressionCount" : 419
+        "impressionCount" : 420
       },
       "subtitle" : "Editor for designing and documenting APIs",
       "tintColor" : "35A5ED",
@@ -9161,7 +9161,7 @@
       "sha256" : "619d7a1c1aafce4a674e785245cb4540cea1d3f65f39d9c56d6aa9a77b2d6044",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 490
+        "impressionCount" : 492
       },
       "subtitle" : "Open-source Epub reader with backup and restore support",
       "tintColor" : "4D4C4A",
@@ -9747,7 +9747,7 @@
       "sha256" : "325d2f6d8bf31ffd628c9f93ab439dc99b1ac328ee6fda4a982faaa74e92450c",
       "stats" : {
         "downloadCount" : 81,
-        "impressionCount" : 862
+        "impressionCount" : 863
       },
       "subtitle" : "Use your phone as a high-quality webcam with image tuning controls",
       "tintColor" : "438FCA",
@@ -10496,7 +10496,7 @@
       "sha256" : "069dd43834d9236e984fed7d61886741642849f1e55b74b384a5baeedfdc0724",
       "stats" : {
         "downloadCount" : 71,
-        "impressionCount" : 428
+        "impressionCount" : 429
       },
       "subtitle" : "Multi-language programming editor",
       "tintColor" : "83ACDA",
@@ -10555,7 +10555,7 @@
       "name" : "ocenaudio",
       "stats" : {
         "downloadCount" : 70,
-        "impressionCount" : 728
+        "impressionCount" : 729
       },
       "subtitle" : "Audio editor",
       "tintColor" : "998C6F",
@@ -10666,7 +10666,7 @@
       "sha256" : "18a49e00dc97f5d7a9eb28f115e06fea6391633cb4d6b2d6a598199422666493",
       "stats" : {
         "downloadCount" : 69,
-        "impressionCount" : 403
+        "impressionCount" : 404
       },
       "subtitle" : "Translation editor",
       "tintColor" : "EED7BA",
@@ -11234,7 +11234,7 @@
       "sha256" : "046f2603f7e4dcdc7535c6a5652dbfbab5cbe93fa36ca161f8a8029b53770b76",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 323
+        "impressionCount" : 324
       },
       "subtitle" : "Native markdown editor",
       "tintColor" : "E8EFDC",
@@ -11378,7 +11378,7 @@
       "sha256" : "7495fb235067c6548179a7e6fbaaa728e9616b92e5b5984481d4c97f84996953",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 446
+        "impressionCount" : 447
       },
       "subtitle" : "Markdown note editor for developers",
       "tintColor" : "207582",
@@ -12159,7 +12159,7 @@
       "sha256" : "f7f7cf5d2786df62364e4750a243b51428603822e989ee93426f100c010a017b",
       "stats" : {
         "downloadCount" : 51,
-        "impressionCount" : 559
+        "impressionCount" : 561
       },
       "subtitle" : "Web security testing toolkit",
       "tintColor" : "655AFE",
@@ -12360,7 +12360,7 @@
       "sha256" : "b25e5511737697864a534d84e7973525ed9e3dc8f1083306ec5d7565bb05fc06",
       "stats" : {
         "downloadCount" : 50,
-        "impressionCount" : 368
+        "impressionCount" : 369
       },
       "subtitle" : "Visual editors for data",
       "tintColor" : "9DA5A8",
@@ -12957,7 +12957,7 @@
       "sha256" : "e3946c2d40bb29d836c5b8f416cf6820e296e825732a0dc64829bf09eb111796",
       "stats" : {
         "downloadCount" : 44,
-        "impressionCount" : 779
+        "impressionCount" : 780
       },
       "subtitle" : "Screen recorder and video editor",
       "tintColor" : "87BE66",
@@ -13080,7 +13080,7 @@
       "sha256" : "169e1820889f65469eb29c5627ebaf26a308ecd3877086869c8db9d6b2dde96e",
       "stats" : {
         "downloadCount" : 43,
-        "impressionCount" : 307
+        "impressionCount" : 308
       },
       "subtitle" : "Text editor",
       "tintColor" : "D1BFA3",
@@ -13106,7 +13106,7 @@
       "sha256" : "745f81ba178795d44e97c8c60b8b28022f7258f70f673555da0da3a34637519d",
       "stats" : {
         "downloadCount" : 43,
-        "impressionCount" : 497
+        "impressionCount" : 498
       },
       "subtitle" : "Finder Toolbar app to open the current directory in Editor",
       "tintColor" : "676868",
@@ -13390,7 +13390,7 @@
       "name" : "Master PDF Editor",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 390
+        "impressionCount" : 391
       },
       "subtitle" : "PDF editor",
       "tintColor" : "D66163",
@@ -13410,7 +13410,7 @@
       "name" : "PlistEdit Pro",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 270
+        "impressionCount" : 271
       },
       "subtitle" : "Property list and JSON editor",
       "tintColor" : "C6CDD1",
@@ -13451,7 +13451,7 @@
       "sha256" : "e405f5aff5b74a8bb57f9e7dbc483a47d9c7d3d2ef095728d04e030e84017de1",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 272
+        "impressionCount" : 273
       },
       "subtitle" : "CSV file editor",
       "tintColor" : "EBCFA2",
@@ -14407,7 +14407,7 @@
       "name" : "Tencent Docs",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 436
+        "impressionCount" : 437
       },
       "subtitle" : "Online editor for Word, Excel and PPT documents",
       "tintColor" : "5D9AFE",
@@ -14592,7 +14592,7 @@
       "sha256" : "408556e281b96e7dbab20e21c6346af5ef68b0dd30688be75562466dab9d99fa",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 392
+        "impressionCount" : 393
       },
       "subtitle" : "Text editor",
       "tintColor" : "66C522",
@@ -14693,7 +14693,7 @@
       "sha256" : "d0e4431d02a7f6185f12958f805ffba97b212f6fc7e2baff0564ac6e5fea0cf0",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 236
+        "impressionCount" : 237
       },
       "subtitle" : "Markdown editor with pandoc integration and paginated preview",
       "tintColor" : "BAAC97",
@@ -15537,7 +15537,7 @@
       "sha256" : "faab83de71426fd5fd9cff65b215385bf3b3b4abea12af28739754e56c849b15",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 590
+        "impressionCount" : 592
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
@@ -15833,7 +15833,7 @@
       "sha256" : "44be42f8ca0c207519bf5b9f39366eb5fd4f970af69f09544f09346a541393b5",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 468
+        "impressionCount" : 469
       },
       "subtitle" : "Tag editor for digital music",
       "tintColor" : "595A56",
@@ -16235,7 +16235,7 @@
       "sha256" : "57c604f95f7df5e89e132aad62e80fa320350641bf96ff777283cdf4b39b555d",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 295
+        "impressionCount" : 296
       },
       "subtitle" : "Tool for managing the OpenSSH ssh client configuration file",
       "tintColor" : "B2733D",
@@ -16359,7 +16359,7 @@
       "sha256" : "aab31f0dd1101e7b05b9fbcc51d22057e3bc6a34982af2e94832d80b8dcd2665",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 1096
+        "impressionCount" : 1097
       },
       "subtitle" : "Image editor focused on simplicity",
       "tintColor" : "986228",
@@ -16539,7 +16539,7 @@
       "name" : "ff·Works",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 495
+        "impressionCount" : 497
       },
       "subtitle" : "Video-encoding and transcoding app",
       "tintColor" : "474747",
@@ -16738,7 +16738,7 @@
       "name" : "Fission",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 683
+        "impressionCount" : 684
       },
       "subtitle" : "Audio editor",
       "tintColor" : "7B6D38",
@@ -17609,7 +17609,7 @@
       "sha256" : "606823107254a9a66af2c67d0e6aa25ae820d8dfba2be5427325d05c4a5482a7",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 407
+        "impressionCount" : 408
       },
       "subtitle" : "Extended attribute editor",
       "tintColor" : "CBCAD1",
@@ -17848,7 +17848,7 @@
       "sha256" : "3831f239b5e52374addac1740abb3d4e4a47b91771f5bd21a91adf7a103ca9de",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 580
+        "impressionCount" : 581
       },
       "subtitle" : "Markdown editor with inline preview",
       "tintColor" : "FE924A",
@@ -18098,7 +18098,7 @@
       "name" : "PopSQL",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 374
+        "impressionCount" : 375
       },
       "subtitle" : "Collaborative SQL editor",
       "tintColor" : "F6DAD6",
@@ -19389,7 +19389,7 @@
       "sha256" : "15683cb0a84daa24447a9d97cd2e1eb861d5324263a6e1720e32e7a48e1e609d",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 714
+        "impressionCount" : 715
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
@@ -19429,7 +19429,7 @@
       "name" : "Capto",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 356
+        "impressionCount" : 357
       },
       "subtitle" : "Screen capture/recorder and video editor",
       "tintColor" : "7A51AB",
@@ -19530,7 +19530,7 @@
       "sha256" : "f502323db472164d98c098ad300ad47d35d350fcbcaed7e4d3342722642cef04",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 281
+        "impressionCount" : 282
       },
       "subtitle" : "Website editor focusing on flair and efficiency",
       "tintColor" : "62ADEA",
@@ -19611,7 +19611,7 @@
       "sha256" : "93b9b39373b7dffa44b17e7f99bb1078d2d5742e50ff2940d8feef9a8b42e0fe",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 615
+        "impressionCount" : 616
       },
       "subtitle" : "Drawing editor for creating figures in PDF format",
       "tintColor" : "94999E",
@@ -20400,7 +20400,7 @@
       "name" : "TOPCAT",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 571
+        "impressionCount" : 572
       },
       "subtitle" : "Interactive graphical viewer and editor for tabular data",
       "tintColor" : "9C9C07",
@@ -20666,7 +20666,7 @@
       "sha256" : "7fc6bcf042401899915793e038bab826546d91b593b6f3855e9f29d4101aab61",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 277
+        "impressionCount" : 278
       },
       "subtitle" : "Text editor",
       "tintColor" : "D49A32",
@@ -21258,7 +21258,7 @@
       "sha256" : "a88c4707186c2a78beef325e70ac557c04f81d40e8f013a16da5301e27c87f0f",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 531
+        "impressionCount" : 532
       },
       "subtitle" : "Font editor",
       "tintColor" : "88E0B7",
@@ -21297,7 +21297,7 @@
       "name" : "kindaVim",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 520
+        "impressionCount" : 521
       },
       "subtitle" : "Use Vim in input fields and non input fields",
       "tintColor" : "282D32",
@@ -21338,7 +21338,7 @@
       "sha256" : "b7f9cc972470185f3f135a6d190faabddedf3f6264e09608be8dbc0593cdcf73",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 964
+        "impressionCount" : 965
       },
       "subtitle" : "Editor to read, write and edit images metadata",
       "tintColor" : "F29245",
@@ -21461,7 +21461,7 @@
       "sha256" : "00dd82a9f8ab8f193f4d60b635edaac9f75b341f53c1ca0957efd898db1ba952",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 245
+        "impressionCount" : 246
       },
       "subtitle" : "Visual database editor for Prisma projects",
       "tintColor" : "8D79CB",
@@ -21995,7 +21995,7 @@
       "sha256" : "707dad5843d8b77015f8a5bab2407909a8c623c7aaff300529bfebdadfef42be",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 230
+        "impressionCount" : 231
       },
       "subtitle" : "SQL query tool and SQL editor",
       "tintColor" : "A4B6C5",
@@ -22236,7 +22236,7 @@
       "sha256" : "64b4218b6e7c2c49c8488cb0126b20a984ccd87c1867ba3795cadc7acea1a8c4",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 906
+        "impressionCount" : 907
       },
       "subtitle" : "Font editor",
       "tintColor" : "34AEDA",
@@ -22613,7 +22613,7 @@
       "sha256" : "4a88f238f37cde0dcaed1b2b3b24df29eaa4afbfcd30877708f02eb800a819e8",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 178
+        "impressionCount" : 179
       },
       "subtitle" : "Advanced sqlite editor",
       "tintColor" : "2B7CAE",
@@ -22653,7 +22653,7 @@
       "sha256" : "897f9fabcabdd902343dad66e67ea2c68b911cf44d383e32adb94ea2908c87de",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 156
+        "impressionCount" : 157
       },
       "subtitle" : "Lightweight CSV editor",
       "tintColor" : "F5BA89",
@@ -22694,7 +22694,7 @@
       "sha256" : "b92daef1e4eb6223941a12594364a774d2627f96b7ce8ae319c43760e2c53643",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 183
+        "impressionCount" : 184
       },
       "subtitle" : "Text editor",
       "tintColor" : "D7A500",
@@ -22755,7 +22755,7 @@
       "name" : "Yate",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 305
+        "impressionCount" : 306
       },
       "subtitle" : "Media file tag editor",
       "tintColor" : "3F7AA6",
@@ -22776,7 +22776,7 @@
       "sha256" : "61f4aada6da960b711463222bab8b5a48ea0c8ae5cf320f874a77dea6acf55cb",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 142
+        "impressionCount" : 143
       },
       "subtitle" : "XML editor",
       "tintColor" : "524D00",
@@ -23427,7 +23427,7 @@
       "sha256" : "1b53a9e9eeebd1898346da2bc74698d247e176001805817026551f2022ecb1f8",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 589
+        "impressionCount" : 590
       },
       "subtitle" : "Video editor",
       "tintColor" : "3E3E3E",
@@ -23771,7 +23771,7 @@
       "sha256" : "8a48b592dddf5c3e0e9068595edb3e386272496d4c81e2b94bbcbb7462bd8074",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 268
+        "impressionCount" : 269
       },
       "subtitle" : "MP3 and AIFF ID3 tag editor",
       "tintColor" : "C0CEBD",
@@ -23791,7 +23791,7 @@
       "sha256" : "aacb91f097850da3138e040f5c2fbfa467efc22e49db9038be64761648b81648",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 300
+        "impressionCount" : 301
       },
       "subtitle" : "Writing system for interactive fiction based on natural language",
       "tintColor" : "DFD8D6",
@@ -24086,7 +24086,7 @@
       "sha256" : "11f9cce3e33988a912f9c1df085ebd0d58b65fc856dc7806041b70bcd30c5043",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 169
+        "impressionCount" : 170
       },
       "subtitle" : "Plain text and source editor",
       "tintColor" : "74BC5B",
@@ -24936,7 +24936,7 @@
       "sha256" : "b7fc339543e08374b673e84293bf9819271c8bcc66003ca5c0834bca396949f3",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 176
+        "impressionCount" : 177
       },
       "subtitle" : "Simple plain text editor",
       "tintColor" : "D3D3D3",
@@ -25808,7 +25808,7 @@
       "name" : "SafeInCloud Password Manager",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 194
+        "impressionCount" : 195
       },
       "subtitle" : "Cross-platform AES-256 password manager",
       "tintColor" : "33AAE3",
@@ -26536,7 +26536,7 @@
       "sha256" : "4f7045589de7163f384b1d79dafd18f2567d74390d7c28e0242076fba2f45438",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 232
+        "impressionCount" : 233
       },
       "subtitle" : "Editor for ink: inkle's narrative scripting language",
       "tintColor" : "A5A5A5",
@@ -26556,7 +26556,7 @@
       "sha256" : "f59b5f6c57b4c3bfed4ab5fc40b04628041e5e8bca961c45204a5f189bd4946c",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 279
+        "impressionCount" : 280
       },
       "subtitle" : "Text editor",
       "tintColor" : "828282",
@@ -27151,7 +27151,7 @@
       "sha256" : "59e9992f29569b950dfeea397814e88cea5b45b1ed7ddaa8f748774ac6db6db7",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 142
+        "impressionCount" : 143
       },
       "subtitle" : "Modular touch control surface editor for OSC & MIDI",
       "tintColor" : "282828",
@@ -27720,7 +27720,7 @@
       "name" : "Fireworks",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 291
+        "impressionCount" : 292
       },
       "subtitle" : "Particle effects editor",
       "tintColor" : "8264BE",
@@ -27740,7 +27740,7 @@
       "sha256" : "47d7307cf3ffc9e5c0ce205be5b854827d073db58a54898c3796c93bb8805f19",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 573
+        "impressionCount" : 574
       },
       "subtitle" : "Professional font editor",
       "tintColor" : "4F535B",
@@ -28836,7 +28836,7 @@
       "name" : "Amadeus Pro",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 751
+        "impressionCount" : 752
       },
       "subtitle" : "Multi-purpose audio recorder, editor and converter",
       "tintColor" : "BFB8CA",
@@ -29714,7 +29714,7 @@
       "sha256" : "014e355767fa27796a6f5f5778b608a3a802ba064655c23776fa89f0dd1163ba",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 400
+        "impressionCount" : 401
       },
       "subtitle" : "ANSI editor",
       "tintColor" : "418868",
@@ -29894,7 +29894,7 @@
       "sha256" : "91a89ac33ba3e064a7a2b44d5c7c271cbd1303882874e7ce159b8fb058589301",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 382
+        "impressionCount" : 383
       },
       "subtitle" : "Ansi/Ascii text and RIPscrip editor/viewer",
       "tintColor" : "AEBC86",
@@ -29973,7 +29973,7 @@
       "sha256" : "7f5673d99a03eba5cd4635aa83937d2f37c8cb24705293f1b16ea096d5a58f81",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 403
+        "impressionCount" : 404
       },
       "subtitle" : "2D sprite editor made with the Godot Engine",
       "tintColor" : "5B4B65",
@@ -29994,7 +29994,7 @@
       "sha256" : "c455e6bf606bffd63fd18eb6c8d5abce3648773f1cf0256b1ed7ec3c8c65980e",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 227
+        "impressionCount" : 228
       },
       "subtitle" : "Grammar checker, style editor, and writing mentor",
       "tintColor" : "449CA0",
@@ -30296,7 +30296,7 @@
       "sha256" : "7ac0c07fbe3c0b9b1bf575274e590c7070e9b30f46d16744464ae99d4aed9f07",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 194
+        "impressionCount" : 195
       },
       "subtitle" : "Rich text (HTML & Markdown) editor that saves documents with themes",
       "tintColor" : "F4F4F4",
@@ -31651,7 +31651,7 @@
       "sha256" : "a4745dcf88f1691d2c681a87e6cfb6326200b6a2d9dfb53c2c62c67905a09e16",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 537
+        "impressionCount" : 538
       },
       "subtitle" : "Music metadata editor supporting batch edits and importing VGMdb data",
       "tintColor" : "4D517D",
@@ -32724,7 +32724,7 @@
       "sha256" : "88a3eff04aa6ce9f9b3ab0af241d0cd186d42c453f692066dfca4ea79caf7d5e",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 805
+        "impressionCount" : 806
       },
       "subtitle" : "Geo location editor for images",
       "tintColor" : "C4D3D1",
@@ -32841,7 +32841,7 @@
       "sha256" : "f20c11204eed840c62ab2256004baba813e3514d5e237a71dd696595e11303e3",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 231
+        "impressionCount" : 232
       },
       "subtitle" : "Hex editor",
       "tintColor" : "8894A4",
@@ -33567,7 +33567,7 @@
       "name" : "Smultron",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 476
+        "impressionCount" : 477
       },
       "subtitle" : "General-purpose text editor",
       "tintColor" : "CB8761",
@@ -33608,7 +33608,7 @@
       "sha256" : "709cf19f9359a9a3a7740c888c49ee59120c96256354126113deed45dab7d3c5",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 149
+        "impressionCount" : 150
       },
       "subtitle" : "Editor for localizable files",
       "tintColor" : "D17047",
@@ -33647,7 +33647,7 @@
       "sha256" : "1a12cf1061aac8cb455ebce2898b8165f89c5016b3befdbbe71ebbcef6680f0a",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 392
+        "impressionCount" : 393
       },
       "tintColor" : "46515E",
       "version" : "1.1.0,1100"
@@ -33915,7 +33915,7 @@
       "sha256" : "4fff4042c6ac7c047097c5e6d59a8a1c3f9dacfbdcadb3121904426413b38e06",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 160
+        "impressionCount" : 161
       },
       "subtitle" : "Markdown editor",
       "tintColor" : "F0A839",
@@ -34404,7 +34404,7 @@
       "sha256" : "e5efe1de1283df05ad0bb2908c16c02bc0c34806119e83daefc0f049286f3c58",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 271
+        "impressionCount" : 272
       },
       "subtitle" : "Text editor",
       "tintColor" : "131028",
@@ -34586,7 +34586,7 @@
       "sha256" : "4f9ff6d49b34b01f874e88af6c83138dc198f8444113a28c3780c78c73868806",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 276
+        "impressionCount" : 277
       },
       "subtitle" : "Folder icon editor & manager",
       "tintColor" : "BBB7C2",
@@ -34643,7 +34643,7 @@
       "sha256" : "5bf8c91a4315b3b0893aa9b70c6f0a46cbffbe20430fb0325ac1ba8501ea5308",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 263
+        "impressionCount" : 264
       },
       "subtitle" : "Character sheet editor for the GURPS Fourth Edition roleplaying game",
       "tintColor" : "065211",
@@ -34742,7 +34742,7 @@
       "sha256" : "246f39be54331ac199272cb48ddb57e244168251442925544f3dd0e47dbed77e",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 204
+        "impressionCount" : 205
       },
       "subtitle" : "Online collaborate editor for Word, Excel and PPT documents",
       "tintColor" : "B1D1F6",
@@ -34975,7 +34975,7 @@
       "sha256" : "2d293121534a468e5f166e18eaa28f8db7e39a617b092e06c0d8b339191d9f47",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 169
+        "impressionCount" : 170
       },
       "subtitle" : "Electron-powered markdown editor with live preview",
       "tintColor" : "363636",
@@ -36396,7 +36396,7 @@
       "sha256" : "3ee0fba6af6b40bb59b9d8a8a5adef608cbd0a25f3f2f68dbe04529f96e9ca23",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 387
+        "impressionCount" : 388
       },
       "subtitle" : "WYSIWYG LaTeX editor",
       "tintColor" : "CFCFCF",
@@ -36500,7 +36500,7 @@
       "sha256" : "bae758c1dde501365cc774adeb2dd85418e0b0513df48a2ee66ba0b792cb02d5",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 402
+        "impressionCount" : 403
       },
       "subtitle" : "Markdown editor",
       "tintColor" : "D6D7D4",
@@ -36873,7 +36873,7 @@
       "name" : "Jaikoz",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 428
+        "impressionCount" : 429
       },
       "subtitle" : "Audio tag editor",
       "tintColor" : "493930",
@@ -36931,7 +36931,7 @@
       "sha256" : "e9ed4f6ebe0fba0bdf2a5b54b8279d3bdfe74eeeb2bfa32cc66267bedd6b41c0",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 186
+        "impressionCount" : 187
       },
       "subtitle" : "Commit message editor",
       "tintColor" : "F7A26F",
@@ -37793,7 +37793,7 @@
       "sha256" : "a3a9971413e74091aafce45d7e054a8e70f692d5731acfc8cd585ca34dc97ead",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 194
+        "impressionCount" : 195
       },
       "subtitle" : "SQL database design tool",
       "tintColor" : "C4D3C2",
@@ -39732,7 +39732,7 @@
       "sha256" : "5dc93387bc6026dd44dbf2f88c9bf7730d931663d5b72f382c0a51bc6c57517b",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 497
+        "impressionCount" : 498
       },
       "subtitle" : "Drag and drop Spectacle editor",
       "tintColor" : "5A80C6",
@@ -40104,7 +40104,7 @@
       "sha256" : "0510a85830d76751f06a299a707b7c89e18077a0cccaca3a7d8399cc60762356",
       "stats" : {
         "downloadCount" : 1203,
-        "impressionCount" : 233
+        "impressionCount" : 234
       },
       "subtitle" : "Google Chromium, sans integration with Google",
       "tintColor" : "ACC4F1",
@@ -40813,7 +40813,7 @@
       "name" : "JDownloader",
       "stats" : {
         "downloadCount" : 355,
-        "impressionCount" : 121
+        "impressionCount" : 122
       },
       "subtitle" : "Download manager",
       "tintColor" : "636A25",
@@ -41116,7 +41116,7 @@
       "sha256" : "cf42128117a833490805564fe632da59c7fb1938b868b8083811b36c25a97a92",
       "stats" : {
         "downloadCount" : 285,
-        "impressionCount" : 127
+        "impressionCount" : 128
       },
       "subtitle" : "LaTeX editor",
       "tintColor" : "4F3E7C",
@@ -41282,7 +41282,7 @@
       "sha256" : "7818ff0a35f9ac8d0b947b86a831e15f9d02a26739e670bc9d5ce6cca3ccd646",
       "stats" : {
         "downloadCount" : 250,
-        "impressionCount" : 75
+        "impressionCount" : 76
       },
       "subtitle" : "Comic reader",
       "tintColor" : "F5DFA1",
@@ -41576,7 +41576,7 @@
       "sha256" : "38b098a3cf1770c307bf263ec76ba639579c744a125226d0dadd1f32bcc25931",
       "stats" : {
         "downloadCount" : 198,
-        "impressionCount" : 65
+        "impressionCount" : 66
       },
       "subtitle" : "LaTeX editor",
       "tintColor" : "7F8080",
@@ -42119,7 +42119,7 @@
       "sha256" : "9f75d0b11340d70832f87011c3d8ed97b9b18b3a56dec5f860d4040bb7404500",
       "stats" : {
         "downloadCount" : 142,
-        "impressionCount" : 54
+        "impressionCount" : 55
       },
       "subtitle" : "Hosts file editor/manager",
       "tintColor" : "58482F",
@@ -42220,7 +42220,7 @@
       "sha256" : "23994f8e863dbe59a70d91f162b56cab14930c22925aa40007db07d01ced8e12",
       "stats" : {
         "downloadCount" : 138,
-        "impressionCount" : 51
+        "impressionCount" : 52
       },
       "subtitle" : "Video editor",
       "tintColor" : "808182",
@@ -42400,7 +42400,7 @@
       "sha256" : "de8cf6049d6457f435b8c0a4908e4ba698aa9f49b60eb85366fd41a805af94fd",
       "stats" : {
         "downloadCount" : 123,
-        "impressionCount" : 55
+        "impressionCount" : 56
       },
       "subtitle" : "Sound and music editor",
       "tintColor" : "71E7DD",
@@ -42862,7 +42862,7 @@
       "sha256" : "dda1d9f6ebb1013452055214d3d297bfd30adc3d1f97a764c15b15c36f98d1a2",
       "stats" : {
         "downloadCount" : 105,
-        "impressionCount" : 52
+        "impressionCount" : 53
       },
       "subtitle" : "Video editor",
       "tintColor" : "0F4F66",
@@ -43742,7 +43742,7 @@
       "sha256" : "26fd595b38b32aa2c6fc7575886d79a01c640f90130f0c7e0b0e1e72c9d58c1b",
       "stats" : {
         "downloadCount" : 70,
-        "impressionCount" : 40
+        "impressionCount" : 41
       },
       "subtitle" : "CSV editor",
       "tintColor" : "3F4E70",
@@ -43942,7 +43942,7 @@
       "sha256" : "463ff60fffdd4e3c5d234b4aee3eaa1c91c286806cc32179f90ed2c2a52328d0",
       "stats" : {
         "downloadCount" : 67,
-        "impressionCount" : 62
+        "impressionCount" : 63
       },
       "subtitle" : "Text editor based on GNU Emacs",
       "tintColor" : "9A5C42",
@@ -44274,7 +44274,7 @@
       "sha256" : "fa53ebd78fa507bbb2a654e17efb6913957cf5eb8cceeb6da3423c82ff6e18ff",
       "stats" : {
         "downloadCount" : 61,
-        "impressionCount" : 47
+        "impressionCount" : 48
       },
       "subtitle" : "Multitrack guitar tablature editor and player",
       "tintColor" : "6E583B",
@@ -44294,7 +44294,7 @@
       "sha256" : "41e2fc386c47e395bc2cdf397238ac3cb2fa0ace9bb1cbb18bfa3358778dfdc1",
       "stats" : {
         "downloadCount" : 60,
-        "impressionCount" : 65
+        "impressionCount" : 66
       },
       "subtitle" : "Sound and music editor",
       "tintColor" : "373A39",
@@ -44334,7 +44334,7 @@
       "sha256" : "a7c53b67015c8515ae31102a53e16a9eca6b0e5c98ced6e859bb834e3e12f29c",
       "stats" : {
         "downloadCount" : 60,
-        "impressionCount" : 41
+        "impressionCount" : 42
       },
       "subtitle" : "LilyPond editor",
       "tintColor" : "9B8879",
@@ -45411,7 +45411,7 @@
       "sha256" : "4c7e2de7f021805272505b5313890ec4bcd42e2a66c2de7af74a866e5c96a3ed",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 49
+        "impressionCount" : 50
       },
       "subtitle" : "PGF/TikZ diagram editor",
       "tintColor" : "898989",
@@ -45431,7 +45431,7 @@
       "sha256" : "23516778517e1783eef7db2206ca35f63605b196a2846b39ed806816e86f383e",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 53
+        "impressionCount" : 54
       },
       "subtitle" : "Flexible level editor",
       "tintColor" : "474E9A",
@@ -45590,7 +45590,7 @@
       "sha256" : "feb33b01de7f83e74ccae47f251803baeef6de727b3a19622921bfa7d289f631",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 78
+        "impressionCount" : 79
       },
       "subtitle" : "Molecule editor and visualizer",
       "tintColor" : "137693",
@@ -45790,7 +45790,7 @@
       "sha256" : "e2026de3589e3e65086a385ee4e02d607337bc9da11357d1b3ac106e2ee843d7",
       "stats" : {
         "downloadCount" : 37,
-        "impressionCount" : 44
+        "impressionCount" : 45
       },
       "subtitle" : "Minecraft world editor",
       "tintColor" : "6A734F",
@@ -45989,7 +45989,7 @@
       "sha256" : "f8dd127f7927151152814c997f05f7d696186e563518eed9f2822faf6c545303",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 51
+        "impressionCount" : 52
       },
       "subtitle" : "Sound and music editor",
       "tintColor" : "E4D858",
@@ -46111,7 +46111,7 @@
       "sha256" : "1165706840cdff7ed729d3737e9f3540e5d0216c0ef4fe506e80bbddfdce572e",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 45
+        "impressionCount" : 46
       },
       "subtitle" : "Subtitle editor",
       "tintColor" : "8188AC",
@@ -46433,7 +46433,7 @@
       "sha256" : "95ec64d65b20722855f9bced0e6e50f0ef9bcc68b3eac2efec0a5ca6b98a48c1",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 70
+        "impressionCount" : 71
       },
       "subtitle" : "Helper application for Things",
       "tintColor" : "809FD0",
@@ -46743,7 +46743,7 @@
       "sha256" : "3f72b4fef8a0a8343d864fab72b4646d8c192728530852a758f564cff57f42be",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 111
+        "impressionCount" : 112
       },
       "subtitle" : "HTML editor",
       "tintColor" : "33AA4A",
@@ -46764,7 +46764,7 @@
       "sha256" : "ca8939d4838f59412fc446209df249dda47e4b576c49856e9657318145bfc290",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 60
+        "impressionCount" : 61
       },
       "subtitle" : "IC design layout viewer and editor",
       "tintColor" : "9F8142",
@@ -46804,7 +46804,7 @@
       "sha256" : "e856abc26c08de4cf28e49619db520266c6ad3e63aa7c5ab1b43ad84753a08de",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 109
+        "impressionCount" : 110
       },
       "subtitle" : "PDF editor",
       "tintColor" : "4BAE87",
@@ -46825,7 +46825,7 @@
       "sha256" : "3cb81559e97ee8813d126810fb11f981b32981d22e1767204f43b1a33f6e9f11",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 60
+        "impressionCount" : 61
       },
       "subtitle" : "Small, simple editor for beginner Python programmers",
       "tintColor" : "B28781",
@@ -46942,7 +46942,7 @@
       "sha256" : "336cb1b7e055d3638e562e63539e90db4a795f738d67ca377c2e9dfac8670924",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 69
+        "impressionCount" : 70
       },
       "subtitle" : "Text editor",
       "tintColor" : "E0A12B",
@@ -46982,7 +46982,7 @@
       "sha256" : "c0840985ce6a8ff8e90dc0d92137af57fb9229b1b53ad8728faf847f464f288f",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 104
+        "impressionCount" : 105
       },
       "subtitle" : "PDF file editor",
       "tintColor" : "847C77",
@@ -47439,7 +47439,7 @@
       "sha256" : "2f7bd183e346b521a40a3e52dcb5a785e78061b38faff4a3923ac8d0da96afad",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 67
+        "impressionCount" : 68
       },
       "subtitle" : "Multiple sequence alignment editor, visualisor, analysis and figure generator",
       "tintColor" : "978672",
@@ -47607,7 +47607,7 @@
       "sha256" : "7a21014c60d1d75fc8efe8c0d3ba8e827d2d09d29daeda492aff5d7cbc4f257c",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 57
+        "impressionCount" : 58
       },
       "subtitle" : "Drawing editor for creating LaTeX PSTricks code",
       "tintColor" : "BEBAB9",
@@ -48021,7 +48021,7 @@
       "sha256" : "7c7f3c9d64763401fca9921b4c2b4d175b96aacc43d362334dedcba1e62cbb2e",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 55
+        "impressionCount" : 56
       },
       "subtitle" : "iOS app localization manager",
       "tintColor" : "78B9EE",
@@ -48399,7 +48399,7 @@
       "name" : "Prefs Editor",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 75
+        "impressionCount" : 76
       },
       "subtitle" : "Graphical user interface for the 'defaults' command",
       "tintColor" : "DFDBCE",
@@ -49039,7 +49039,7 @@
       "sha256" : "0458c1fdcadc198aeca68e1d775195c3022b549f70c0483e57930731af913cbe",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 49
+        "impressionCount" : 50
       },
       "subtitle" : "Mp4 meta-data editor",
       "tintColor" : "CDADAC",
@@ -49234,7 +49234,7 @@
       "sha256" : "85fc22336e929ccae9010d80df76dc1426296912f57dc622abbd345a0a24bd47",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 69
+        "impressionCount" : 70
       },
       "subtitle" : "Open source code editor",
       "tintColor" : "4871A4",
@@ -49370,7 +49370,7 @@
       "name" : "Google Ads Editor",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 48
+        "impressionCount" : 49
       },
       "tintColor" : "6997A2",
       "version" : "latest"
@@ -50095,7 +50095,7 @@
       "sha256" : "505f3f3db3cb2841bb8fa3ff19c1c2796ddf4d911118d7737bc064696d6d711b",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 69
+        "impressionCount" : 70
       },
       "subtitle" : "GUI for the Neovim text editor",
       "tintColor" : "67B066",
@@ -50211,7 +50211,7 @@
       "sha256" : "f7abc6fde628ea057ea9076acc156449b9e2e92d9d49f596cb6368850cc22c51",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 80
+        "impressionCount" : 81
       },
       "subtitle" : "Image editor written in Lazarus",
       "tintColor" : "A88C6E",
@@ -50432,7 +50432,7 @@
       "sha256" : "81c7d8804b59b4190c987f0e1c503052c96984e8ae5e570dc3a49ce22837b15a",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 61
+        "impressionCount" : 63
       },
       "subtitle" : "XML editor",
       "tintColor" : "640606",
@@ -50710,7 +50710,7 @@
       "sha256" : "68811e8c5d28a3a2ec9a390a36b8b07c81c0ff1f129c02f1349e106490fae6e3",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 66
+        "impressionCount" : 67
       },
       "subtitle" : "Text editor",
       "tintColor" : "C2C3C5",
@@ -51047,7 +51047,7 @@
       "sha256" : "0462af2994a5d2c3f495eb922e3cf989e3f4cff27bc545426ddc83da4a5f82db",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 60
+        "impressionCount" : 62
       },
       "subtitle" : "Editor for the LaTeX graphic package TikZ",
       "tintColor" : "585858",
@@ -51777,7 +51777,7 @@
       "sha256" : "5ed1303dc25cdb2f6515b75faee574d07a7ec280653b0cc4e6a8b37f6be3744a",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 47
+        "impressionCount" : 49
       },
       "tintColor" : "2EBF51",
       "version" : "0.3.17"
@@ -51938,7 +51938,7 @@
       "sha256" : "6a18203516ec827f119a78f637825448a3931fd6caad0d81992087478ac83d9e",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 108
+        "impressionCount" : 110
       },
       "subtitle" : "3D model editor for boxy models and pixel art textures",
       "tintColor" : "54A0CD",
@@ -52159,7 +52159,7 @@
       "sha256" : "9ab6afc7ee9d7fb5083d1a49adea7dc5934bdbf6d635454cae4f8667fbd7c368",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 68
+        "impressionCount" : 69
       },
       "subtitle" : "Non-linear video editor",
       "tintColor" : "61B061",
@@ -53828,7 +53828,7 @@
       "sha256" : "ffa68423dcaaa7b1668563655e4c5a85c3cd5adbb9bd58f5c19e7ab7331282bd",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 72
+        "impressionCount" : 73
       },
       "subtitle" : "Sound and music editor",
       "tintColor" : "18E7C6",
@@ -53954,7 +53954,7 @@
       "sha256" : "06e60c4e474bbca2246804140d73d3faeec7a984759a0fca6d47e07d5994dbcf",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 63
+        "impressionCount" : 65
       },
       "tintColor" : "DBA770",
       "version" : "0.3.1"
@@ -54567,7 +54567,7 @@
       "sha256" : "84c2e92655551c2a02ed400815b6a004631ba6f2db9be6a0ab86e9be6b838f9f",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 116
+        "impressionCount" : 119
       },
       "subtitle" : "Asciidoc Editor and Toolchain to build books, documents and slides",
       "tintColor" : "8FBAA9",
@@ -54734,7 +54734,7 @@
       "sha256" : "cf457ac89447c8a54e0fbc1c13b995286e9b9143cee104fe3f3777a80f540a35",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 71
+        "impressionCount" : 74
       },
       "subtitle" : "Web and EPUB editor",
       "tintColor" : "50854D",
@@ -54791,7 +54791,7 @@
       "sha256" : "a252076630bcebd02e9a4760b624b351b02dfba44613d4d40b39a4b81caef6a9",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 110
+        "impressionCount" : 111
       },
       "subtitle" : "Metadata editor for digital comics",
       "tintColor" : "897179",
@@ -55049,7 +55049,7 @@
       "sha256" : "3a5a703a837b4d1f2f25172a1819c88b3ac9c59f1dfe86f6bcf364555b914dca",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 73
+        "impressionCount" : 74
       },
       "subtitle" : "Visual editor for open FPGA board",
       "tintColor" : "4D75B6",
@@ -55149,7 +55149,7 @@
       "sha256" : "aa7897be2b78cef7f2e1f4211e543d926e996fd4820f40cf42d7d2f100bbfac2",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 97
+        "impressionCount" : 98
       },
       "subtitle" : "Real-time GPU shader editor",
       "tintColor" : "3D3D3D",
@@ -55406,7 +55406,7 @@
       "sha256" : "3fa29b5a3899c9a13018c791399225f7dd8ed0e6c4a02a117867f4963f048904",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 74
+        "impressionCount" : 75
       },
       "subtitle" : "Pixel-art editor",
       "tintColor" : "28413F",
@@ -56146,7 +56146,7 @@
       "sha256" : "d2c037f70a07a2ad4fc049a8e2bc6393593b12933a8c18ccb58a8c713899f9d5",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 71
+        "impressionCount" : 72
       },
       "subtitle" : "Web editor",
       "tintColor" : "3CA6CE",
@@ -56400,7 +56400,7 @@
       "sha256" : "3b3b21909dc00d4ff87a501c6451fb14e99ef1c10bea64d69ace5cfaa5bfe1a4",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 76
+        "impressionCount" : 77
       },
       "subtitle" : "Music tag editor",
       "tintColor" : "798579",
@@ -56440,7 +56440,7 @@
       "sha256" : "113749a54abd6c537bf1838a91cf35a70b2fdf04cfc4880eb906448b3156053e",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 68
+        "impressionCount" : 70
       },
       "subtitle" : "Create and edit workflows for YouTrack",
       "tintColor" : "567EC3",
@@ -56521,7 +56521,7 @@
       "sha256" : "11d08b197f303f638e3663f0f14e0a5fb3587e64b07d4691c63d5d18e90460a0",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 83
+        "impressionCount" : 84
       },
       "subtitle" : "Editor for changing APK icons, name, version and other data",
       "tintColor" : "91C02A",
@@ -56541,7 +56541,7 @@
       "sha256" : "eb95b9959bbdf739e0b0158480f3793b0ee1376fba544ede3734a6cbbcb7bee1",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 81
+        "impressionCount" : 82
       },
       "subtitle" : "HDR photo editor with filters, batch processing and more",
       "tintColor" : "7C5AB0",
@@ -57021,7 +57021,7 @@
       "sha256" : "6cd5a9bc3e0b37c564bf5436caf757e76850512b70a4cea387c0b8a587bd80ee",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 86
+        "impressionCount" : 87
       },
       "subtitle" : "Lightweight editors, theming and usability improvements for Eclipse",
       "tintColor" : "57C1F8",
@@ -57687,7 +57687,7 @@
       "sha256" : "51e059957841d63b37af31297150b993034fc40b20fb84f006eb8fd0a75a349f",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 77
+        "impressionCount" : 78
       },
       "subtitle" : "Midi sequencer and editor",
       "tintColor" : "8E4D36",
@@ -57785,7 +57785,7 @@
       "sha256" : "949902f859efeba9b5d9112210f32cb1020f9b43d81f43489c559ddd8e20f0e2",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 95
+        "impressionCount" : 96
       },
       "tintColor" : "CC709A",
       "version" : "5.2"
@@ -57862,7 +57862,7 @@
       "sha256" : "0e0fca957833ab1b6ea58b7617984d4fb3633b30ab5e8ad58128b11cd32ca5d9",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 64
+        "impressionCount" : 65
       },
       "subtitle" : "Music tag editor",
       "tintColor" : "37464D",
@@ -58513,7 +58513,7 @@
       "sha256" : "4b3d44a0666c2bf2dd838c0f190e9a5678b2dc4d76e83d70fe091295d4cabdbc",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 84
+        "impressionCount" : 85
       },
       "subtitle" : "Text editor",
       "tintColor" : "ACDCE9",

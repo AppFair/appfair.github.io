@@ -62,8 +62,8 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 271,
-        "impressionCount" : 174,
+        "downloadCount" : 275,
+        "impressionCount" : 176,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 17,
@@ -112,10 +112,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 277,
+        "impressionCount" : 281,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 39,
+        "viewCount" : 40,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -163,11 +163,11 @@
       "size" : 4506286,
       "stats" : {
         "coreSize" : 170576,
-        "downloadCount" : 39,
-        "impressionCount" : 4545,
+        "downloadCount" : 40,
+        "impressionCount" : 4549,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 726,
+        "viewCount" : 728,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -213,10 +213,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 25,
-        "impressionCount" : 232,
+        "impressionCount" : 236,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 20,
+        "viewCount" : 21,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -259,10 +259,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3156,
+        "impressionCount" : 3159,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 240,
+        "viewCount" : 241,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -335,7 +335,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3460,
+        "impressionCount" : 3463,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 584,
@@ -425,10 +425,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 332,
+        "impressionCount" : 338,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 25,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -472,10 +472,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 16,
-        "impressionCount" : 90,
+        "impressionCount" : 94,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 7,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -515,7 +515,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 16,
-        "impressionCount" : 76,
+        "impressionCount" : 80,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -591,7 +591,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 10,
-        "impressionCount" : 41,
+        "impressionCount" : 45,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -774,7 +774,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 7,
-        "impressionCount" : 23,
+        "impressionCount" : 27,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -814,7 +814,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 216,
+        "impressionCount" : 220,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1078,7 +1078,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2907,
+        "impressionCount" : 2910,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 166,
@@ -1303,10 +1303,10 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 188,
+        "impressionCount" : 192,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 13,
+        "viewCount" : 14,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1338,10 +1338,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 239,
+        "impressionCount" : 243,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 25,
+        "viewCount" : 26,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1377,7 +1377,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 267,
+        "impressionCount" : 270,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1546,7 +1546,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 250,
+        "impressionCount" : 252,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -1585,10 +1585,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 328,
+        "impressionCount" : 331,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 26,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

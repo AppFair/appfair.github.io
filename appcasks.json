@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28136,
-        "impressionCount" : 8342,
+        "impressionCount" : 8348,
         "viewCount" : 705
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -1237,8 +1237,8 @@
       "sha256" : "a60857ef84f426c01693101a01a439348858aa3f3d7e8d19a91b713d384967f3",
       "stats" : {
         "downloadCount" : 2482,
-        "impressionCount" : 2592,
-        "viewCount" : 226
+        "impressionCount" : 2597,
+        "viewCount" : 229
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
       "tintColor" : "A528B1",
@@ -1274,7 +1274,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/kovidgoyal/kitty/releases/download/v0.26.1/kitty-0.26.1.dmg",
+      "downloadURL" : "https://github.com/kovidgoyal/kitty/releases/download/v0.26.2/kitty-0.26.2.dmg",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -1298,7 +1298,7 @@
       "localizedDescription" : "GPU-based terminal emulator",
       "name" : "kitty",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kitty/README.md",
-      "sha256" : "6fcc2db9dcab147e344a01294a2a5985da4ff8d2e8f583a2e107ef3b09422a6f",
+      "sha256" : "ec02064faae6e3af7297f73a90476c5a349be9ffe82ccef15b56c387635e84ca",
       "stats" : {
         "downloadCount" : 2453,
         "impressionCount" : 3284,
@@ -1306,8 +1306,8 @@
       },
       "subtitle" : "GPU-based terminal emulator",
       "tintColor" : "A09995",
-      "version" : "0.26.1",
-      "versionDate" : "2022-08-30T00:00:00Z"
+      "version" : "0.26.2",
+      "versionDate" : "2022-09-05T11:24:20Z"
     },
     {
       "beta" : false,
@@ -3267,7 +3267,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2887,
-        "impressionCount" : 826
+        "impressionCount" : 831
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -9318,7 +9318,7 @@
       "sha256" : "96780bf391b6367571728540fa528aba52a720849d279795c6bbe6fce3600c78",
       "stats" : {
         "downloadCount" : 91,
-        "impressionCount" : 908
+        "impressionCount" : 917
       },
       "subtitle" : "Detailed information on every Apple product ever made",
       "tintColor" : "69A4CB",
@@ -40451,7 +40451,7 @@
       "sha256" : "d6fafea9ea0854cc257759332ac77447a61de85dac7132300fe48a8f91bda528",
       "stats" : {
         "downloadCount" : 593,
-        "impressionCount" : 85
+        "impressionCount" : 91
       },
       "subtitle" : "Open-source firewall to block unknown outgoing connections",
       "tintColor" : "708243",
@@ -74116,13 +74116,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "osquery",
-      "caption" : "osquery updated from 5.4.0 to 5.5.1",
-      "date" : "2022-09-02T09:22:46Z",
-      "identifier" : "release-osquery-5.5.1",
-      "title" : "New Release: osquery 5.5.1"
-    },
-    {
       "appID" : "owncloud",
       "caption" : "ownCloud updated from 2.11.0.8354 to 2.11.1.8438",
       "date" : "2022-09-02T09:22:46Z",
@@ -74814,6 +74807,13 @@
       "date" : "2022-09-05T04:23:36Z",
       "identifier" : "release-sabaki-0.52.2",
       "title" : "New Release: Sabaki 0.52.2"
+    },
+    {
+      "appID" : "kitty",
+      "caption" : "kitty updated from 0.26.1 to 0.26.2",
+      "date" : "2022-09-05T11:24:21Z",
+      "identifier" : "release-kitty-0.26.2",
+      "title" : "New Release: kitty 0.26.2"
     }
   ],
   "platform" : "macos",

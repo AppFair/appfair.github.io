@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 300,
-        "impressionCount" : 198,
+        "downloadCount" : 305,
+        "impressionCount" : 201,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 17,
+        "viewCount" : 19,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -112,7 +112,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 303,
+        "impressionCount" : 305,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 41,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4572,
+        "impressionCount" : 4573,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 728,
@@ -213,10 +213,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 25,
-        "impressionCount" : 264,
+        "impressionCount" : 267,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -259,7 +259,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3181,
+        "impressionCount" : 3183,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 244,
@@ -335,7 +335,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3485,
+        "impressionCount" : 3486,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 586,
@@ -377,10 +377,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 20,
-        "impressionCount" : 111,
+        "impressionCount" : 113,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 7,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -388,6 +388,54 @@
       "version" : "0.9.275",
       "versionDate" : "2022-09-01T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-mac-2180x1464.png"
+      ],
+      "sha256" : "1d56138f625e73a4f5801f2c3c5c9b9bf0ef8359dfd28cd4d4c462875732d986",
+      "size" : 9641013,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 19,
+        "impressionCount" : 122,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 12,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.458",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
     },
     {
       "beta" : false,
@@ -430,64 +478,16 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 112,
+        "impressionCount" : 114,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
       "version" : "0.0.45",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-mac-2180x1464.png"
-      ],
-      "sha256" : "1d56138f625e73a4f5801f2c3c5c9b9bf0ef8359dfd28cd4d4c462875732d986",
-      "size" : 9641013,
-      "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 18,
-        "impressionCount" : 119,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 11,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.458",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
     },
     {
       "beta" : false,
@@ -516,7 +516,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 364,
+        "impressionCount" : 366,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -552,10 +552,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 14,
-        "impressionCount" : 67,
+        "impressionCount" : 70,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -586,11 +586,11 @@
       "size" : 2249611,
       "stats" : {
         "coreSize" : 170176,
-        "downloadCount" : 11,
-        "impressionCount" : 54,
+        "downloadCount" : 12,
+        "impressionCount" : 59,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 4,
+        "viewCount" : 6,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -662,7 +662,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 9,
-        "impressionCount" : 31,
+        "impressionCount" : 32,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -814,7 +814,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 247,
+        "impressionCount" : 249,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1078,7 +1078,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2931,
+        "impressionCount" : 2932,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 166,
@@ -1303,7 +1303,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 3,
-        "impressionCount" : 212,
+        "impressionCount" : 214,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 15,
@@ -1338,7 +1338,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 263,
+        "impressionCount" : 265,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -1377,10 +1377,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 286,
+        "impressionCount" : 288,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 31,
+        "viewCount" : 32,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1430,7 +1430,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 113,
+        "impressionCount" : 114,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1546,7 +1546,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 268,
+        "impressionCount" : 270,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -1585,7 +1585,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 356,
+        "impressionCount" : 358,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,

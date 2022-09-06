@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 316,
-        "impressionCount" : 203,
+        "downloadCount" : 317,
+        "impressionCount" : 206,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 20,
+        "viewCount" : 21,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -112,10 +112,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 307,
+        "impressionCount" : 308,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 41,
+        "viewCount" : 42,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -164,10 +164,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4575,
+        "impressionCount" : 4576,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 728,
+        "viewCount" : 729,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -213,7 +213,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 25,
-        "impressionCount" : 270,
+        "impressionCount" : 271,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 23,
@@ -259,7 +259,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3186,
+        "impressionCount" : 3187,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 244,
@@ -302,7 +302,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 22,
-        "impressionCount" : 117,
+        "impressionCount" : 118,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 8,
@@ -378,7 +378,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3489,
+        "impressionCount" : 3490,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 586,
@@ -425,7 +425,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 125,
+        "impressionCount" : 126,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 12,
@@ -516,7 +516,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 370,
+        "impressionCount" : 371,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -552,7 +552,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 16,
-        "impressionCount" : 72,
+        "impressionCount" : 73,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -587,7 +587,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 14,
-        "impressionCount" : 63,
+        "impressionCount" : 65,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 6,
@@ -814,7 +814,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 252,
+        "impressionCount" : 253,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1008,7 +1008,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 4,
-        "impressionCount" : 222,
+        "impressionCount" : 223,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -1121,7 +1121,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2934,
+        "impressionCount" : 2935,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 166,
@@ -1585,7 +1585,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 360,
+        "impressionCount" : 361,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,

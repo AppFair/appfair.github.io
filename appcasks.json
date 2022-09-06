@@ -25,7 +25,7 @@
       "sha256" : "e93c4d1f5d3de3f6c909d4dbd14fce8db0ca17a3a64161613512ed7eab847617",
       "stats" : {
         "downloadCount" : 2589,
-        "impressionCount" : 10206,
+        "impressionCount" : 10207,
         "viewCount" : 1115
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "c6f7b0815668218db61405ee0d3dabbd4c9376bb329b6715bfb36d1de0dd5f7e",
       "stats" : {
         "downloadCount" : 16828,
-        "impressionCount" : 9065,
+        "impressionCount" : 9067,
         "viewCount" : 970
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 9009,
-        "impressionCount" : 7944,
+        "impressionCount" : 7945,
         "viewCount" : 691
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28644,
-        "impressionCount" : 8378,
+        "impressionCount" : 8379,
         "viewCount" : 706
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8466,
-        "impressionCount" : 8303,
+        "impressionCount" : 8304,
         "viewCount" : 667
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6560,
-        "impressionCount" : 8251,
+        "impressionCount" : 8252,
         "viewCount" : 536
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "8f22fb8ecb3a67611e68c7e643c3424850dfdcb7b04795e4175bb2ce8f436faf",
       "stats" : {
         "downloadCount" : 3407,
-        "impressionCount" : 8750,
+        "impressionCount" : 8751,
         "viewCount" : 588
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3393,
-        "impressionCount" : 7524,
+        "impressionCount" : 7525,
         "viewCount" : 561
       },
       "subtitle" : "Text editor",
@@ -265,8 +265,8 @@
       ],
       "stats" : {
         "downloadCount" : 2611,
-        "impressionCount" : 6536,
-        "viewCount" : 423
+        "impressionCount" : 6537,
+        "viewCount" : 424
       },
       "subtitle" : "Video game digital distribution service",
       "tintColor" : "416082",
@@ -291,7 +291,7 @@
       "sha256" : "246e1b174af3f61513e4e004e948a325149091b5165b7005391570f6d334ee3e",
       "stats" : {
         "downloadCount" : 2169,
-        "impressionCount" : 7193,
+        "impressionCount" : 7195,
         "viewCount" : 454
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -325,7 +325,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 1969,
-        "impressionCount" : 8300,
+        "impressionCount" : 8301,
         "viewCount" : 862
       },
       "subtitle" : "File archiver",
@@ -356,7 +356,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1174,
-        "impressionCount" : 8591,
+        "impressionCount" : 8593,
         "viewCount" : 487
       },
       "subtitle" : "3D creation suite",
@@ -385,7 +385,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1156,
-        "impressionCount" : 6588,
+        "impressionCount" : 6589,
         "viewCount" : 521
       },
       "subtitle" : "Open-source Markdown editor",
@@ -1032,7 +1032,7 @@
       "sha256" : "e5547fc01168270bd1ba5380cff610966da229e44f311138f12168cb2f34d3c8",
       "stats" : {
         "downloadCount" : 3863,
-        "impressionCount" : 2364,
+        "impressionCount" : 2365,
         "viewCount" : 147
       },
       "subtitle" : "Free and open-source image editor",
@@ -1769,7 +1769,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "D71E28",
       "version" : "90.0.4480.84",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1998,7 +1998,7 @@
       "subtitle" : "Configurable document editor that supports Markdown",
       "tintColor" : "E5E5E5",
       "version" : "1.4.4",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3138,7 +3138,7 @@
       "sha256" : "a18a2dd2aeee0d4701b0d63a61e90d066ff19ca8e361bd1f98658f1feea82e40",
       "stats" : {
         "downloadCount" : 6020,
-        "impressionCount" : 1534
+        "impressionCount" : 1535
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -3698,7 +3698,7 @@
       "sha256" : "91254db5426a2127efd024a662815209e175a532e609fb1b0d3da3d92e1416ca",
       "stats" : {
         "downloadCount" : 1562,
-        "impressionCount" : 822
+        "impressionCount" : 823
       },
       "subtitle" : "Explore and manipulate your MongoDB data",
       "tintColor" : "D5EADD",
@@ -3937,7 +3937,7 @@
       "sha256" : "83320faad3b217079f6638b1f4169ffc37465f255a93e262d1646f2a5f53f263",
       "stats" : {
         "downloadCount" : 1211,
-        "impressionCount" : 621
+        "impressionCount" : 622
       },
       "subtitle" : "Simple and elegant markdown editor",
       "tintColor" : "1E3C43",
@@ -4020,12 +4020,12 @@
       "sha256" : "190576c93eaa39977dfd5e91a52018ae51867bf29679f0de4a1e4a0c10a2d444",
       "stats" : {
         "downloadCount" : 1084,
-        "impressionCount" : 1371
+        "impressionCount" : 1372
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
       "version" : "3.867,2019",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4117,7 +4117,7 @@
       "subtitle" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
       "tintColor" : "293154",
       "version" : "20220904-064125,9a6cee2b",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4825,7 +4825,7 @@
       "sha256" : "4e580ee8558a804a78397bbb5d86b8ea6fed5064aa517250cc836d8cb88ae69e",
       "stats" : {
         "downloadCount" : 619,
-        "impressionCount" : 625
+        "impressionCount" : 626
       },
       "subtitle" : "Clipboard manager",
       "tintColor" : "96979B",
@@ -5028,7 +5028,7 @@
       "sha256" : "d5e9ccf1171f5f24addd7f454eb758f4b0921b94da3097ce540d9f9f25e6f5bd",
       "stats" : {
         "downloadCount" : 518,
-        "impressionCount" : 768
+        "impressionCount" : 769
       },
       "subtitle" : "Screen color temperature controller",
       "tintColor" : "BCAE9A",
@@ -5069,7 +5069,7 @@
       "sha256" : "2e7aa2362927ea845d1531dfc935a4626fb6b9fb1873c90bbc397f6171757f20",
       "stats" : {
         "downloadCount" : 506,
-        "impressionCount" : 644
+        "impressionCount" : 646
       },
       "subtitle" : "Simple application that will prevent iTunes or Apple Music from launching",
       "tintColor" : "F98997",
@@ -5423,7 +5423,7 @@
       "sha256" : "377badb146885f71eb3aeae25036c4ef00b0a6c2a1627b575f54dfbc4569bfb1",
       "stats" : {
         "downloadCount" : 407,
-        "impressionCount" : 868
+        "impressionCount" : 869
       },
       "subtitle" : "Prevents your sleeping computer from connecting to Bluetooth accessories",
       "tintColor" : "5A99DE",
@@ -5524,7 +5524,7 @@
       "sha256" : "59efeede7beb69a5b3bf3126787f73930984b3b423094500fe73623656f66d43",
       "stats" : {
         "downloadCount" : 383,
-        "impressionCount" : 540
+        "impressionCount" : 542
       },
       "subtitle" : "Visually compare and merge files",
       "tintColor" : "487584",
@@ -5585,7 +5585,7 @@
       "sha256" : "35ffc0bdf0767f6dd55ae541796c87e0bbce4513554b4bf128abb7664b9096d0",
       "stats" : {
         "downloadCount" : 375,
-        "impressionCount" : 1910
+        "impressionCount" : 1911
       },
       "subtitle" : "Open-source browser prompter",
       "tintColor" : "364A62",
@@ -6590,7 +6590,7 @@
       "name" : "XnViewMP",
       "stats" : {
         "downloadCount" : 233,
-        "impressionCount" : 994
+        "impressionCount" : 995
       },
       "subtitle" : "Photo viewer, image manager, image resizer and more",
       "tintColor" : "D56402",
@@ -7406,21 +7406,21 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.mimestream.com/Mimestream_0.37.0.dmg",
+      "downloadURL" : "https://download.mimestream.com/Mimestream_0.37.1.dmg",
       "homepage" : "https://mimestream.com/",
       "iconURL" : "https://github.com/mimestream/appcasks/releases/download/cask-mimestream/AppIcon.png",
       "localizedDescription" : "Native app email client for Gmail",
       "name" : "Mimestream",
       "readmeURL" : "https://github.com/mimestream/appcasks/releases/download/cask-mimestream/README.md",
-      "sha256" : "c66adeca1301283b6102374fa3e9bcf31cc8d5609b4cbbcefaa9a3492ff107f3",
+      "sha256" : "72f90db8f0a8713cccaccd9d8797357655b3d74a5a98a2b8e9b3fcfb678945eb",
       "stats" : {
         "downloadCount" : 166,
         "impressionCount" : 359,
         "viewCount" : 25
       },
       "subtitle" : "Native app email client for Gmail",
-      "version" : "0.37.0",
-      "versionDate" : "2022-09-04T00:00:00Z"
+      "version" : "0.37.1",
+      "versionDate" : "2022-09-06T06:20:11Z"
     },
     {
       "beta" : false,
@@ -7480,8 +7480,8 @@
       },
       "subtitle" : "Intelligent cloud storage platform",
       "tintColor" : "8895F1",
-      "version" : "3.9.0",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "3.10.0",
+      "versionDate" : "2022-09-06T06:20:11Z"
     },
     {
       "beta" : false,
@@ -8616,7 +8616,7 @@
       "subtitle" : "Terminal/ssh/sftp client",
       "tintColor" : "7E7570",
       "version" : "1.22.33",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12969,20 +12969,20 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://github.com/oxen-io/session-desktop/releases/download/v1.9.1/session-desktop-mac-1.9.1.dmg",
+      "downloadURL" : "https://github.com/oxen-io/session-desktop/releases/download/v1.10.0/session-desktop-mac-1.10.0.dmg",
       "homepage" : "https://getsession.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-session/AppIcon.png",
       "localizedDescription" : "Onion routing based messenger",
       "name" : "Session",
-      "sha256" : "dd342dcb7ee432674a9cd72d56c135d0fc6234bd654c36f2ebd12fe015a21b07",
+      "sha256" : "7954a89d26226b78788b8807b0a93cf7207a468a7e0b43a6a09d24aad249c996",
       "stats" : {
         "downloadCount" : 45,
         "impressionCount" : 382
       },
       "subtitle" : "Onion routing based messenger",
       "tintColor" : "2C4B3D",
-      "version" : "1.9.1",
-      "versionDate" : "2022-08-15T00:00:00Z"
+      "version" : "1.10.0",
+      "versionDate" : "2022-09-06T06:20:11Z"
     },
     {
       "beta" : false,
@@ -13312,7 +13312,7 @@
       "subtitle" : "Organize all your reference images in one place",
       "tintColor" : "60A6F4",
       "version" : "3.0,13",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13759,7 +13759,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "333744",
       "version" : "0.26.0.5",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15290,7 +15290,7 @@
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
       "version" : "1.8.22",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15411,7 +15411,7 @@
       "subtitle" : "Design, document and deploy databases",
       "tintColor" : "607BB5",
       "version" : "9.0.4",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16658,7 +16658,7 @@
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
       "version" : "2.1.13",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20758,20 +20758,20 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "downloadURL" : "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.12.7.dmg",
+      "downloadURL" : "https://launcherupdates.lunarclientcdn.com/Lunar%20Client%20v2.12.8.dmg",
       "homepage" : "https://www.lunarclient.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lunar-client/AppIcon.png",
       "localizedDescription" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "name" : "Lunar Client",
-      "sha256" : "32fca874dc376f6bcf22ff05e280a4dac99bb00dd0be3d81ab576e836f742f9e",
+      "sha256" : "053140ea61d0f167761fda55445d20fb5d0748d5adf2c71dc4f9a3da787eb980",
       "stats" : {
         "downloadCount" : 15,
         "impressionCount" : 1186
       },
       "subtitle" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "tintColor" : "828487",
-      "version" : "2.12.7",
-      "versionDate" : "2022-07-17T00:00:00Z"
+      "version" : "2.12.8",
+      "versionDate" : "2022-09-06T06:20:11Z"
     },
     {
       "beta" : false,
@@ -21038,7 +21038,7 @@
       "subtitle" : "Diagram software",
       "tintColor" : "7CBCF9",
       "version" : "12.0.2",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24765,7 +24765,7 @@
       "subtitle" : "Writing system for interactive fiction based on natural language",
       "tintColor" : "DFD8D6",
       "version" : "10.1.2,1_82_3",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24925,7 +24925,7 @@
       "subtitle" : "Sentence search engine app that helps you write better English",
       "tintColor" : "636363",
       "version" : "2.0.34",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24966,7 +24966,7 @@
       "subtitle" : "Time tracking software",
       "tintColor" : "FE667C",
       "version" : "2022.06,395",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25086,7 +25086,7 @@
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
       "version" : "1.90.1,stable.3,4650450",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25107,7 +25107,7 @@
       "subtitle" : "Static website generator",
       "tintColor" : "64B7F6",
       "version" : "0.40.3",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25247,7 +25247,7 @@
       "subtitle" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "tintColor" : "CBA87F",
       "version" : "22.2.0,220207",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25802,7 +25802,7 @@
       "subtitle" : "Graphical user interface for the command terminal",
       "tintColor" : "C1C5D7",
       "version" : "14.0",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29539,7 +29539,7 @@
       "subtitle" : "Music streaming service",
       "tintColor" : "5EDDF7",
       "version" : "22.9.0",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34155,12 +34155,12 @@
       "name" : "Ankama Launcher",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 1115
+        "impressionCount" : 1117
       },
       "subtitle" : "Portal to download Ankama's PC games",
       "tintColor" : "F08612",
       "version" : "3.7.2",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39155,7 +39155,7 @@
       "subtitle" : "Automate printing and exporting from Adobe InDesign",
       "tintColor" : "B38A6E",
       "version" : "2.4.79",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40413,8 +40413,8 @@
       "name" : "mpv",
       "sha256" : "82f9bc62199744744ef01b64587e3995d78429e42b8687e9a8db4bf4df09862a",
       "stats" : {
-        "downloadCount" : 647,
-        "impressionCount" : 42
+        "downloadCount" : 648,
+        "impressionCount" : 44
       },
       "subtitle" : "Media player based on MPlayer and mplayer2",
       "tintColor" : "674C6D",
@@ -40820,7 +40820,7 @@
       "subtitle" : "Download manager",
       "tintColor" : "636A25",
       "version" : "46679",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46837,19 +46837,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads-cdn.airtame.com/app/latest/mac/Airtame-4.4.0.dmg",
+      "downloadURL" : "https://downloads-cdn.airtame.com/app/latest/mac/Airtame-4.5.0.dmg",
       "homepage" : "https://airtame.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-airtame/AppIcon.png",
       "localizedDescription" : "Wireless screen sharing platform",
       "name" : "Airtame",
-      "sha256" : "dadc6558eb7f59e206e0f86558333d980dde5ea3af6c38948fdbf9c3ebcf3c3f",
+      "sha256" : "ca714ad17c57e0b3e97cd0ba1b10754a97cf8cdca4595bee325d8261498da7be",
       "stats" : {
         "downloadCount" : 26,
         "impressionCount" : 56
       },
       "subtitle" : "Wireless screen sharing platform",
       "tintColor" : "1869FD",
-      "version" : "4.4.0"
+      "version" : "4.5.0",
+      "versionDate" : "2022-09-06T06:20:11Z"
     },
     {
       "beta" : false,
@@ -49549,7 +49550,7 @@
       "subtitle" : "GPS log file viewer and analyzer",
       "tintColor" : "DBDBDB",
       "version" : "11.4",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50119,7 +50120,7 @@
       "subtitle" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
       "tintColor" : "DE7A7A",
       "version" : "17.0,20220901",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51073,7 +51074,7 @@
       "subtitle" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "tintColor" : "DE7A7A",
       "version" : "17.0,20220901",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51313,7 +51314,7 @@
       "subtitle" : "Helps you learn to play your instrument",
       "tintColor" : "D9AF05",
       "version" : "3.0.8534,49C7DBAF-F0BA-48AC-B45F-B3213017565A",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51578,12 +51579,12 @@
       "sha256" : "82c16ae1208f11393245adac2efea214fffc48ca643cdf76f0938fdec285367d",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 166
+        "impressionCount" : 168
       },
       "subtitle" : "Web browser",
       "tintColor" : "72BBEC",
       "version" : "10.105.8.2",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54303,20 +54304,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/schismtracker/schismtracker/releases/download/20220807/schismtracker-20220807-macos.zip",
+      "downloadURL" : "https://github.com/schismtracker/schismtracker/releases/download/20220905/schismtracker-20220905-macos.zip",
       "homepage" : "https://github.com/schismtracker/schismtracker",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-schism-tracker/AppIcon.png",
       "localizedDescription" : "Oldschool sample-based music composition tool",
       "name" : "Schism Tracker",
-      "sha256" : "8f8e63d4d4f520b9a640246abaaea384e9b5a2466c8597bde77100beb549571c",
+      "sha256" : "61919abd757c59e927dbbaf1d30a00e88b3d6973380a793498ab32f415022fde",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 102
       },
       "subtitle" : "Oldschool sample-based music composition tool",
       "tintColor" : "585146",
-      "version" : "20220807",
-      "versionDate" : "2022-08-08T00:00:00Z"
+      "version" : "20220905",
+      "versionDate" : "2022-09-06T06:20:11Z"
     },
     {
       "beta" : false,
@@ -54849,7 +54850,7 @@
       "sha256" : "1bbcb6de6c6c763da8266ee411cec865efbbf2026c55492937fd80aa4abc78c7",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 116
+        "impressionCount" : 117
       },
       "subtitle" : "Annotation tool for audio and video recordings",
       "tintColor" : "B7192A",
@@ -55980,20 +55981,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://storage.googleapis.com/gt_download/v1.22.0725/GridTracker-1.22.0725-mac-x64.zip",
+      "downloadURL" : "https://storage.googleapis.com/gt_download/v1.22.0903/GridTracker-1.22.0903-mac-x64.zip",
       "homepage" : "https://gridtracker.org/grid-tracker/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gridtracker/AppIcon.png",
       "localizedDescription" : "Warehouse of amateur radio information presented in an easy to use interface",
       "name" : "GridTracker",
-      "sha256" : "5c8c350c63af2c25c637f27e60c41c4a8bea2170a6d5524096adf1aeb5702ee6",
+      "sha256" : "c85d88bb128da6e7a83409d78f10d7b38ed4cd4f0c4960648e23916252bff5e2",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 102
       },
       "subtitle" : "Warehouse of amateur radio information presented in an easy to use interface",
       "tintColor" : "D3CEA5",
-      "version" : "1.22.0725,1.22.0725",
-      "versionDate" : "2022-07-25T00:00:00Z"
+      "version" : "1.22.0903,1.22.0903",
+      "versionDate" : "2022-09-06T06:20:11Z"
     },
     {
       "beta" : false,
@@ -57479,7 +57480,7 @@
       "subtitle" : "Phone system manager",
       "tintColor" : "DBBD8F",
       "version" : "22.3.1",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59822,7 +59823,7 @@
       },
       "subtitle" : "Screenshot measurement and annotation tool",
       "version" : "1.6.0",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60065,7 +60066,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.17,20220905102957",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -63167,7 +63168,7 @@
       },
       "subtitle" : "Digital audio production application",
       "version" : "20.9.2.2670",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64107,7 +64108,7 @@
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
       "version" : "2022.3.2,2022-09-05-09-46",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65204,7 +65205,7 @@
       },
       "subtitle" : "Create and share augmented reality experiences using the Facebook family of apps",
       "version" : "146",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69972,7 +69973,7 @@
       },
       "subtitle" : "IDE for embedded systems",
       "version" : "6.34a",
-      "versionDate" : "2022-09-06T04:29:07Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72468,8 +72469,8 @@
         "downloadCount" : 1
       },
       "subtitle" : "Instantly and securely share anything",
-      "version" : "1.15.4",
-      "versionDate" : "2022-07-12T00:00:00Z"
+      "version" : "1.15.5",
+      "versionDate" : "2022-09-06T06:20:11Z"
     },
     {
       "beta" : false,
@@ -74103,55 +74104,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "pushplaylabs-sidekick",
-      "caption" : "Sidekick updated from 102.26.1.23368,949a637 to 104.27.1.23539,cdd0906",
-      "date" : "2022-09-03T04:12:08Z",
-      "identifier" : "release-pushplaylabs-sidekick-104.27.1.23539,cdd0906",
-      "title" : "New Release: Sidekick 104.27.1.23539,cdd0906"
-    },
-    {
-      "appID" : "qlab",
-      "caption" : "QLab updated from 5.0,5000 to 5.0.1,5001",
-      "date" : "2022-09-03T04:12:08Z",
-      "identifier" : "release-qlab-5.0.1,5001",
-      "title" : "New Release: QLab 5.0.1,5001"
-    },
-    {
-      "appID" : "ibackup-viewer",
-      "caption" : "iBackup Viewer updated from 4.2660 to 4.2670",
-      "date" : "2022-09-03T04:12:08Z",
-      "identifier" : "release-ibackup-viewer-4.2670",
-      "title" : "New Release: iBackup Viewer 4.2670"
-    },
-    {
-      "appID" : "fastrawviewer",
-      "caption" : "FastRawViewer updated from 2.0.4.1912 to 2.0.5.1945",
-      "date" : "2022-09-03T04:12:08Z",
-      "identifier" : "release-fastrawviewer-2.0.5.1945",
-      "title" : "New Release: FastRawViewer 2.0.5.1945"
-    },
-    {
-      "appID" : "banksiagui",
-      "caption" : "BanksiaGui updated from 0.54a to 0.55",
-      "date" : "2022-09-03T04:12:08Z",
-      "identifier" : "release-banksiagui-0.55",
-      "title" : "New Release: BanksiaGui 0.55"
-    },
-    {
-      "appID" : "zenmap",
-      "caption" : "Zenmap updated from 7.92 to 7.93",
-      "date" : "2022-09-03T04:12:09Z",
-      "identifier" : "release-zenmap-7.93",
-      "title" : "New Release: Zenmap 7.93"
-    },
-    {
-      "appID" : "deezer",
-      "caption" : "Deezer updated from 5.30.310 to 5.30.320",
-      "date" : "2022-09-03T04:12:09Z",
-      "identifier" : "release-deezer-5.30.320",
-      "title" : "New Release: Deezer 5.30.320"
-    },
-    {
       "appID" : "hackolade",
       "caption" : "Hackolade updated from 6.4.2 to 6.4.3",
       "date" : "2022-09-03T04:12:09Z",
@@ -74374,13 +74326,6 @@
       "date" : "2022-09-04T06:27:17Z",
       "identifier" : "release-amethyst-0.16.0",
       "title" : "New Release: Amethyst 0.16.0"
-    },
-    {
-      "appID" : "mimestream",
-      "caption" : "Mimestream updated from 0.36.2 to 0.37.0",
-      "date" : "2022-09-04T06:27:18Z",
-      "identifier" : "release-mimestream-0.37.0",
-      "title" : "New Release: Mimestream 0.37.0"
     },
     {
       "appID" : "strawberry",
@@ -74801,6 +74746,62 @@
       "date" : "2022-09-06T04:29:13Z",
       "identifier" : "release-segger-embedded-studio-for-arm-6.34a",
       "title" : "New Release: SEGGER Embedded Studio for ARM 6.34a"
+    },
+    {
+      "appID" : "mimestream",
+      "caption" : "Mimestream updated from 0.37.0 to 0.37.1",
+      "date" : "2022-09-06T06:20:12Z",
+      "identifier" : "release-mimestream-0.37.1",
+      "title" : "New Release: Mimestream 0.37.1"
+    },
+    {
+      "appID" : "adrive",
+      "caption" : "Aliyundrive updated from 3.9.0 to 3.10.0",
+      "date" : "2022-09-06T06:20:12Z",
+      "identifier" : "release-adrive-3.10.0",
+      "title" : "New Release: Aliyundrive 3.10.0"
+    },
+    {
+      "appID" : "session",
+      "caption" : "Session updated from 1.9.1 to 1.10.0",
+      "date" : "2022-09-06T06:20:12Z",
+      "identifier" : "release-session-1.10.0",
+      "title" : "New Release: Session 1.10.0"
+    },
+    {
+      "appID" : "lunar-client",
+      "caption" : "Lunar Client updated from 2.12.7 to 2.12.8",
+      "date" : "2022-09-06T06:20:13Z",
+      "identifier" : "release-lunar-client-2.12.8",
+      "title" : "New Release: Lunar Client 2.12.8"
+    },
+    {
+      "appID" : "airtame",
+      "caption" : "Airtame updated from 4.4.0 to 4.5.0",
+      "date" : "2022-09-06T06:20:13Z",
+      "identifier" : "release-airtame-4.5.0",
+      "title" : "New Release: Airtame 4.5.0"
+    },
+    {
+      "appID" : "schism-tracker",
+      "caption" : "Schism Tracker updated from 20220807 to 20220905",
+      "date" : "2022-09-06T06:20:13Z",
+      "identifier" : "release-schism-tracker-20220905",
+      "title" : "New Release: Schism Tracker 20220905"
+    },
+    {
+      "appID" : "gridtracker",
+      "caption" : "GridTracker updated from 1.22.0725,1.22.0725 to 1.22.0903,1.22.0903",
+      "date" : "2022-09-06T06:20:13Z",
+      "identifier" : "release-gridtracker-1.22.0903,1.22.0903",
+      "title" : "New Release: GridTracker 1.22.0903,1.22.0903"
+    },
+    {
+      "appID" : "cloudup",
+      "caption" : "Cloudup updated from 1.15.4 to 1.15.5",
+      "date" : "2022-09-06T06:20:13Z",
+      "identifier" : "release-cloudup-1.15.5",
+      "title" : "New Release: Cloudup 1.15.5"
     }
   ],
   "platform" : "macos",

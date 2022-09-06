@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28644,
-        "impressionCount" : 8379,
+        "impressionCount" : 8381,
         "viewCount" : 706
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -1237,8 +1237,8 @@
       "sha256" : "a60857ef84f426c01693101a01a439348858aa3f3d7e8d19a91b713d384967f3",
       "stats" : {
         "downloadCount" : 2529,
-        "impressionCount" : 2613,
-        "viewCount" : 230
+        "impressionCount" : 2614,
+        "viewCount" : 231
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
       "tintColor" : "A528B1",
@@ -3267,7 +3267,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2962,
-        "impressionCount" : 840
+        "impressionCount" : 842
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -7420,7 +7420,7 @@
       },
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.37.1",
-      "versionDate" : "2022-09-06T06:20:11Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7481,7 +7481,7 @@
       "subtitle" : "Intelligent cloud storage platform",
       "tintColor" : "8895F1",
       "version" : "3.10.0",
-      "versionDate" : "2022-09-06T06:20:11Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9303,7 +9303,7 @@
       "sha256" : "96780bf391b6367571728540fa528aba52a720849d279795c6bbe6fce3600c78",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 922
+        "impressionCount" : 924
       },
       "subtitle" : "Detailed information on every Apple product ever made",
       "tintColor" : "69A4CB",
@@ -12982,7 +12982,7 @@
       "subtitle" : "Onion routing based messenger",
       "tintColor" : "2C4B3D",
       "version" : "1.10.0",
-      "versionDate" : "2022-09-06T06:20:11Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20771,7 +20771,7 @@
       "subtitle" : "Modpack for Minecraft 1.7.10 and 1.8.9",
       "tintColor" : "828487",
       "version" : "2.12.8",
-      "versionDate" : "2022-09-06T06:20:11Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40454,7 +40454,7 @@
       "sha256" : "d6fafea9ea0854cc257759332ac77447a61de85dac7132300fe48a8f91bda528",
       "stats" : {
         "downloadCount" : 591,
-        "impressionCount" : 93
+        "impressionCount" : 95
       },
       "subtitle" : "Open-source firewall to block unknown outgoing connections",
       "tintColor" : "708243",
@@ -46850,7 +46850,7 @@
       "subtitle" : "Wireless screen sharing platform",
       "tintColor" : "1869FD",
       "version" : "4.5.0",
-      "versionDate" : "2022-09-06T06:20:11Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54317,7 +54317,7 @@
       "subtitle" : "Oldschool sample-based music composition tool",
       "tintColor" : "585146",
       "version" : "20220905",
-      "versionDate" : "2022-09-06T06:20:11Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55994,7 +55994,7 @@
       "subtitle" : "Warehouse of amateur radio information presented in an easy to use interface",
       "tintColor" : "D3CEA5",
       "version" : "1.22.0903,1.22.0903",
-      "versionDate" : "2022-09-06T06:20:11Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72470,7 +72470,7 @@
       },
       "subtitle" : "Instantly and securely share anything",
       "version" : "1.15.5",
-      "versionDate" : "2022-09-06T06:20:11Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,

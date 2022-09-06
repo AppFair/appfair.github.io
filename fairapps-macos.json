@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 331,
-        "impressionCount" : 214,
+        "downloadCount" : 335,
+        "impressionCount" : 222,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 21,
+        "viewCount" : 22,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -112,7 +112,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 315,
+        "impressionCount" : 320,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 43,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4585,
+        "impressionCount" : 4590,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 730,
@@ -213,7 +213,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 25,
-        "impressionCount" : 281,
+        "impressionCount" : 288,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 24,
@@ -259,7 +259,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3195,
+        "impressionCount" : 3200,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 245,
@@ -302,7 +302,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 22,
-        "impressionCount" : 128,
+        "impressionCount" : 136,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -338,7 +338,7 @@
       "stats" : {
         "coreSize" : 170128,
         "downloadCount" : 22,
-        "impressionCount" : 1028,
+        "impressionCount" : 1030,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 91,
@@ -378,7 +378,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3497,
+        "impressionCount" : 3502,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 587,
@@ -425,10 +425,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 136,
+        "impressionCount" : 144,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -478,7 +478,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 118,
+        "impressionCount" : 122,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -516,7 +516,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 378,
+        "impressionCount" : 388,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -552,10 +552,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 16,
-        "impressionCount" : 82,
+        "impressionCount" : 92,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 6,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -587,7 +587,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 14,
-        "impressionCount" : 76,
+        "impressionCount" : 83,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -626,7 +626,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 11,
-        "impressionCount" : 2227,
+        "impressionCount" : 2229,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 138,
@@ -662,10 +662,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 9,
-        "impressionCount" : 32,
+        "impressionCount" : 40,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "A simple TODO management app",
@@ -700,7 +700,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 2000,
+        "impressionCount" : 2002,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -739,7 +739,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
-        "impressionCount" : 604,
+        "impressionCount" : 606,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 72,
@@ -774,7 +774,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 8,
-        "impressionCount" : 778,
+        "impressionCount" : 780,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -814,7 +814,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 262,
+        "impressionCount" : 270,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -853,7 +853,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 7,
-        "impressionCount" : 819,
+        "impressionCount" : 820,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -891,7 +891,7 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1659,
+        "impressionCount" : 1660,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -930,7 +930,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1405,
+        "impressionCount" : 1406,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -965,7 +965,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 1200,
+        "impressionCount" : 1201,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 99,
@@ -1008,7 +1008,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 4,
-        "impressionCount" : 230,
+        "impressionCount" : 237,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -1046,7 +1046,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1927,
+        "impressionCount" : 1928,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -1082,7 +1082,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 1069,
+        "impressionCount" : 1070,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -1121,7 +1121,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2941,
+        "impressionCount" : 2944,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 166,
@@ -1160,7 +1160,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 1212,
+        "impressionCount" : 1213,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -1201,7 +1201,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 710,
+        "impressionCount" : 711,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -1240,7 +1240,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 652,
+        "impressionCount" : 653,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -1303,7 +1303,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 4,
-        "impressionCount" : 330,
+        "impressionCount" : 331,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -1338,7 +1338,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 273,
+        "impressionCount" : 280,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -1377,10 +1377,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 298,
+        "impressionCount" : 306,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 33,
+        "viewCount" : 34,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1430,7 +1430,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 117,
+        "impressionCount" : 122,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1465,7 +1465,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 3,
-        "impressionCount" : 655,
+        "impressionCount" : 656,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1546,7 +1546,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 280,
+        "impressionCount" : 287,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -1585,10 +1585,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 370,
+        "impressionCount" : 381,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 29,
+        "viewCount" : 30,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1620,7 +1620,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 626,
+        "impressionCount" : 627,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -1659,7 +1659,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 1050,
+        "impressionCount" : 1053,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,

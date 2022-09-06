@@ -62,7 +62,7 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 335,
+        "downloadCount" : 338,
         "impressionCount" : 222,
         "issueCount" : 6,
         "starCount" : 29,
@@ -112,10 +112,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 320,
+        "impressionCount" : 321,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 43,
+        "viewCount" : 44,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -164,10 +164,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4590,
+        "impressionCount" : 4591,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 730,
+        "viewCount" : 731,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -213,10 +213,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 25,
-        "impressionCount" : 288,
+        "impressionCount" : 290,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 24,
+        "viewCount" : 25,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -259,10 +259,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3200,
+        "impressionCount" : 3203,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 245,
+        "viewCount" : 246,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -302,7 +302,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 22,
-        "impressionCount" : 136,
+        "impressionCount" : 138,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -378,7 +378,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3502,
+        "impressionCount" : 3504,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 587,
@@ -425,7 +425,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 144,
+        "impressionCount" : 145,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 15,
@@ -516,7 +516,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 388,
+        "impressionCount" : 389,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -552,7 +552,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 16,
-        "impressionCount" : 92,
+        "impressionCount" : 94,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -587,7 +587,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 14,
-        "impressionCount" : 83,
+        "impressionCount" : 84,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -814,7 +814,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 270,
+        "impressionCount" : 272,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -1008,7 +1008,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 4,
-        "impressionCount" : 237,
+        "impressionCount" : 238,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -1121,7 +1121,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2944,
+        "impressionCount" : 2945,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 166,
@@ -1338,10 +1338,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 280,
+        "impressionCount" : 282,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 27,
+        "viewCount" : 28,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1377,10 +1377,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 306,
+        "impressionCount" : 307,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 34,
+        "viewCount" : 35,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1546,10 +1546,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 287,
+        "impressionCount" : 289,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 27,
+        "viewCount" : 28,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1585,10 +1585,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 381,
+        "impressionCount" : 382,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

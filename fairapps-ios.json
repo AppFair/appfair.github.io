@@ -32,7 +32,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3203,
+        "impressionCount" : 3204,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 246,
@@ -77,7 +77,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 42,
-        "impressionCount" : 321,
+        "impressionCount" : 323,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 44,
@@ -118,7 +118,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 31,
-        "impressionCount" : 138,
+        "impressionCount" : 140,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -199,7 +199,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 17,
-        "impressionCount" : 94,
+        "impressionCount" : 96,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -247,10 +247,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 16,
-        "impressionCount" : 122,
+        "impressionCount" : 126,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -282,7 +282,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 13,
-        "impressionCount" : 84,
+        "impressionCount" : 87,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 7,
@@ -326,7 +326,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 9,
-        "impressionCount" : 145,
+        "impressionCount" : 148,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 15,
@@ -500,7 +500,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2945,
+        "impressionCount" : 2946,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 166,
@@ -907,7 +907,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 272,
+        "impressionCount" : 275,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -986,7 +986,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 238,
+        "impressionCount" : 240,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -1021,7 +1021,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 282,
+        "impressionCount" : 284,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,
@@ -1072,7 +1072,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 2,
-        "impressionCount" : 290,
+        "impressionCount" : 293,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 25,
@@ -1108,10 +1108,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 389,
+        "impressionCount" : 391,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 31,
+        "viewCount" : 32,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1143,7 +1143,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 289,
+        "impressionCount" : 291,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,
@@ -1178,10 +1178,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 382,
+        "impressionCount" : 387,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 31,
+        "viewCount" : 32,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1213,7 +1213,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 307,
+        "impressionCount" : 312,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,

@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8466,
-        "impressionCount" : 8304,
+        "impressionCount" : 8306,
         "viewCount" : 667
       },
       "subtitle" : "Music streaming service",
@@ -533,7 +533,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 283,
-        "impressionCount" : 4459,
+        "impressionCount" : 4460,
         "viewCount" : 341
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -1672,7 +1672,7 @@
       "sha256" : "0e940c1c31213ea3c8c3cd3d56e893f74a595b3bae29456827f6c34173eabb1b",
       "stats" : {
         "downloadCount" : 1189,
-        "impressionCount" : 2138,
+        "impressionCount" : 2140,
         "viewCount" : 108
       },
       "subtitle" : "Multi-track audio editor and recorder",
@@ -2468,8 +2468,8 @@
       "sha256" : "9477247e14d3ac3cda1b095b9d9e70d0ed6030f6d19ab9a0013206318e75ee5d",
       "stats" : {
         "downloadCount" : 147,
-        "impressionCount" : 2086,
-        "viewCount" : 114
+        "impressionCount" : 2088,
+        "viewCount" : 115
       },
       "subtitle" : "Open-source music notation software",
       "tintColor" : "3989BF",
@@ -6733,7 +6733,7 @@
       "name" : "TIDAL",
       "stats" : {
         "downloadCount" : 218,
-        "impressionCount" : 663
+        "impressionCount" : 664
       },
       "subtitle" : "Music streaming service with high fidelity sound and hi-def video quality",
       "tintColor" : "3B3B3D",
@@ -6917,7 +6917,7 @@
       "name" : "QQ音乐",
       "stats" : {
         "downloadCount" : 194,
-        "impressionCount" : 780
+        "impressionCount" : 781
       },
       "subtitle" : "Chinese music streaming application",
       "tintColor" : "DFEB98",
@@ -6979,7 +6979,7 @@
       "sha256" : "7566809283aecdedd5275ded9180cedb467ce40c524b3297b411fe7abb479391",
       "stats" : {
         "downloadCount" : 187,
-        "impressionCount" : 829
+        "impressionCount" : 831
       },
       "subtitle" : "Lyrics for iTunes, Spotify, Vox and Audirvana Plus",
       "tintColor" : "8FB46C",
@@ -8403,7 +8403,7 @@
       "sha256" : "46a19c67d2c36df2141dcf3bfd5d567add9f9118606f70098920fa4deb065dba",
       "stats" : {
         "downloadCount" : 116,
-        "impressionCount" : 655
+        "impressionCount" : 657
       },
       "subtitle" : "Third-party NetEase cloud player",
       "tintColor" : "DEE4EF",
@@ -8464,7 +8464,7 @@
       "sha256" : "074e95032a51d7787eed8c4ee2b19046676d72e0cba5cca59af7cc6f79d3887e",
       "stats" : {
         "downloadCount" : 114,
-        "impressionCount" : 688
+        "impressionCount" : 690
       },
       "subtitle" : "YouTube music client",
       "tintColor" : "ED4C62",
@@ -8733,7 +8733,7 @@
       "sha256" : "efb059754fbf409e525e8f598845e3a69a36a7be3302e243a00e55eb651bf72f",
       "stats" : {
         "downloadCount" : 107,
-        "impressionCount" : 1889
+        "impressionCount" : 1891
       },
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
@@ -8754,7 +8754,7 @@
       "sha256" : "7f2853cb2f9805658d1fdc790acddc91577201d8ed45d1e0c622feb1561ff88e",
       "stats" : {
         "downloadCount" : 107,
-        "impressionCount" : 984
+        "impressionCount" : 985
       },
       "subtitle" : "Audio player",
       "tintColor" : "BAB9B8",
@@ -8774,7 +8774,7 @@
       "sha256" : "58cfa02a096edf2f798700e122c54f281e218a26840e850b62f20485620dc5ef",
       "stats" : {
         "downloadCount" : 107,
-        "impressionCount" : 827
+        "impressionCount" : 828
       },
       "subtitle" : "Music tagger",
       "tintColor" : "BC6178",
@@ -10312,7 +10312,7 @@
       "sha256" : "825aa66996237e1d3ea2723b24188ead203f298d0bec89f4c3bc6582d9e63e3a",
       "stats" : {
         "downloadCount" : 73,
-        "impressionCount" : 821
+        "impressionCount" : 823
       },
       "subtitle" : "Music player and library organizer",
       "tintColor" : "FDA96C",
@@ -10626,7 +10626,7 @@
       "name" : "ocenaudio",
       "stats" : {
         "downloadCount" : 70,
-        "impressionCount" : 731
+        "impressionCount" : 732
       },
       "subtitle" : "Audio editor",
       "tintColor" : "998C6F",
@@ -10810,7 +10810,7 @@
       "sha256" : "6cc1b8ad4f341e5e33f2ade0cc18a7a53122cf24b456bf54894d6a4f1dba592e",
       "stats" : {
         "downloadCount" : 67,
-        "impressionCount" : 587
+        "impressionCount" : 589
       },
       "subtitle" : "Music player and music collection organizer",
       "tintColor" : "C03C21",
@@ -11093,7 +11093,7 @@
       "sha256" : "cf3cee887ddfe9e436b48167116e17e21a1b57fbce685697fc77b0736305d67a",
       "stats" : {
         "downloadCount" : 62,
-        "impressionCount" : 806
+        "impressionCount" : 807
       },
       "subtitle" : "Code-based music creation and performance tool",
       "tintColor" : "E6C4D5",
@@ -13485,7 +13485,7 @@
       "sha256" : "e383f8ac88691140c793f5c8ed9332d42f7a37eee0cddeeed550856076971753",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 609
+        "impressionCount" : 610
       },
       "subtitle" : "Streaming music player",
       "tintColor" : "908EE8",
@@ -13978,7 +13978,7 @@
       "sha256" : "cf971b89eed87e46670c4e4135954a4757217502c2958efd54b5a0636c6f5962",
       "stats" : {
         "downloadCount" : 37,
-        "impressionCount" : 580
+        "impressionCount" : 581
       },
       "subtitle" : "Open-source DJ software",
       "tintColor" : "B0AFAD",
@@ -14796,7 +14796,7 @@
       "sha256" : "256731c921c8d676d971136979fef1c78f5af21a186a62a6842dceed87a5bb33",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 652
+        "impressionCount" : 653
       },
       "subtitle" : "Catalogue of hi-res music for streaming and download",
       "tintColor" : "696969",
@@ -14938,7 +14938,7 @@
       "sha256" : "69d40d11c5a050da83d8b66b84df22f7692436cf566cf19f61d953ac1e8de271",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 589
+        "impressionCount" : 590
       },
       "subtitle" : "Search and play songs from a variety of online sources",
       "tintColor" : "222222",
@@ -14959,7 +14959,7 @@
       "sha256" : "720dee814471dcb3e360d3d2fdd5e3a2747551030500a7725fca7c1422f98a32",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 649
+        "impressionCount" : 650
       },
       "subtitle" : "Music app base on Electron & Vue",
       "tintColor" : "D2F0E1",
@@ -15036,7 +15036,7 @@
       "sha256" : "3771b0a35b87264f387fbd591c50fd20554508692d3060d0ddce536aac23d17c",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 589
+        "impressionCount" : 590
       },
       "tintColor" : "3F4651",
       "version" : "0.7.0"
@@ -15466,7 +15466,7 @@
       "sha256" : "44be42f8ca0c207519bf5b9f39366eb5fd4f970af69f09544f09346a541393b5",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 471
+        "impressionCount" : 472
       },
       "subtitle" : "Tag editor for digital music",
       "tintColor" : "595A56",
@@ -16095,7 +16095,7 @@
       "sha256" : "bb64b084867b52b2b6544a154cdba137eaec5a4499ef39c62fb1683f4f5a6dc9",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 744
+        "impressionCount" : 745
       },
       "subtitle" : "Platform for podcasting and audio-sharing",
       "tintColor" : "FB4D2D",
@@ -16976,7 +16976,7 @@
       "name" : "Fission",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 685
+        "impressionCount" : 686
       },
       "subtitle" : "Audio editor",
       "tintColor" : "7B6D38",
@@ -18166,7 +18166,7 @@
       "sha256" : "a70d66d92310737d9599215d558670a45265795be0be980934a91e9880eb4a73",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 373
+        "impressionCount" : 374
       },
       "tintColor" : "1F4B4C",
       "version" : "0.2.2"
@@ -18353,7 +18353,7 @@
       "sha256" : "d8406b066851c0730ca052036bedd5ded82019403de1fd58b579da34cfa4a948",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 686
+        "impressionCount" : 688
       },
       "subtitle" : "Control your music with customizable shortcuts",
       "tintColor" : "616061",
@@ -19606,7 +19606,7 @@
       "sha256" : "9214c40b8347ec6b0eaf6b50a1ee7479d5a5f6be51191c24fb8a199da416845e",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 778
+        "impressionCount" : 779
       },
       "subtitle" : "Audio player inspired by Winamp",
       "tintColor" : "342F1D",
@@ -19927,7 +19927,7 @@
       "sha256" : "f31f664d512fd248d479fc82e17670d1e99bd4f37174698b39faf74ab3b05460",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 341
+        "impressionCount" : 342
       },
       "subtitle" : "WinAMP clone written in SwiftUI",
       "tintColor" : "C4B5A3",
@@ -20317,7 +20317,7 @@
       "name" : "Piezo",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 390
+        "impressionCount" : 391
       },
       "subtitle" : "Audio recording application",
       "tintColor" : "4E392D",
@@ -21013,7 +21013,7 @@
       "sha256" : "fa77e35b90db7ba043b335544fa52af1b808103cc27dcbc6b2cfbb633219ef22",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 344
+        "impressionCount" : 345
       },
       "subtitle" : "Media player",
       "tintColor" : "EFEFEF",
@@ -21116,7 +21116,7 @@
       "sha256" : "008c8fc9f7d24e6e2557a56834478399eb529ed1a0dcef52ddd3432c85a493f8",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 755
+        "impressionCount" : 756
       },
       "subtitle" : "Digital audio workstation",
       "tintColor" : "F46A10",
@@ -21235,7 +21235,7 @@
       "sha256" : "f7c2949e4a44a9183eb6c937b250052867a0373f9de7a8ecbd63853d7df88dbd",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 462
+        "impressionCount" : 463
       },
       "tintColor" : "99A3B2",
       "version" : "1.3.1,2058"
@@ -21333,7 +21333,7 @@
       "sha256" : "4d3d96f2e3fc2f52fc3c7cbeb260be749975665e38f643089d2e3fdb58b8f82b",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 405
+        "impressionCount" : 406
       },
       "subtitle" : "Creats high-quality audio files in various formats, from CDs or files",
       "tintColor" : "E4D5D5",
@@ -21353,7 +21353,7 @@
       "sha256" : "21c7261805e800602843a575b55993d87530aa075cc4ee4bd3978e30e3a2bc29",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 406
+        "impressionCount" : 407
       },
       "subtitle" : "Music tracker compatible with FT2",
       "tintColor" : "88AED7",
@@ -21474,7 +21474,7 @@
       "sha256" : "02fa6519b152d28cb6bd9d41be0a859ef66c35bdf563a0a2dab7e4dccd334d8e",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 319
+        "impressionCount" : 320
       },
       "subtitle" : "Learn how to play the piano using falling notes",
       "tintColor" : "4B5850",
@@ -22366,7 +22366,7 @@
       "sha256" : "1fa8274db4738f363b741df1dc5004ca87b947e81d3732eefbea5bce39c6ce57",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 540
+        "impressionCount" : 542
       },
       "subtitle" : "Music player powered by YouTube and Reddit",
       "tintColor" : "47CAE6",
@@ -22488,7 +22488,7 @@
       "sha256" : "79130a16985aab46e2e0c1c270e3339f96886cc60d2f02b531533dd0307b0d48",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 365
+        "impressionCount" : 367
       },
       "subtitle" : "Music player",
       "tintColor" : "5BB9E4",
@@ -22648,7 +22648,7 @@
       "sha256" : "750efa71b9c806cdc2c572ebb5f16a25deb83033d9a8cb4dffe347da758bd1e3",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 327
+        "impressionCount" : 328
       },
       "subtitle" : "Music player",
       "tintColor" : "F8C317",
@@ -24338,7 +24338,7 @@
       "sha256" : "d04c1a6685e7ce59e10bae4464b6a113aa7bf302f5b515768055aa8326ecb8e1",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 708
+        "impressionCount" : 710
       },
       "subtitle" : "Audio Visualizer for the Touch Bar",
       "tintColor" : "4E1A6A",
@@ -24879,7 +24879,7 @@
       "sha256" : "bbfb1fb9fc2f16eca871749b6471f282e4e47da8053facf05b3d7f9df9dfed80",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 416
+        "impressionCount" : 418
       },
       "subtitle" : "Digital music service",
       "tintColor" : "5FA2FC",
@@ -25182,7 +25182,7 @@
       "name" : "Transcribe!",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 303
+        "impressionCount" : 305
       },
       "subtitle" : "Transcribes recorded music",
       "tintColor" : "A1783D",
@@ -25283,7 +25283,7 @@
       "sha256" : "c1adb7d7efdd67f72ffc0a8819cc5b579ffe32363d0e502e1e7264f79c5792e7",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 707
+        "impressionCount" : 709
       },
       "subtitle" : "Audio playback software",
       "tintColor" : "4C536A",
@@ -25517,7 +25517,7 @@
       "sha256" : "1e9f92ff104f84c0657b9e83814f9109cef75788c5e58b7c91a7b50c5594642e",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 699
+        "impressionCount" : 701
       },
       "subtitle" : "Move playlists, tracks, and albums between music platforms",
       "tintColor" : "DC7A77",
@@ -26337,7 +26337,7 @@
       "sha256" : "f780371d450c9db0d058c4988daf24ec1ebe96f59f4de514f459666fa3ed842c",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 760
+        "impressionCount" : 761
       },
       "subtitle" : "Music streaming and sharing platform",
       "tintColor" : "852DBB",
@@ -26737,7 +26737,7 @@
       "sha256" : "c62e010fea64b5ff5f5ca54a58575f3fa5e98d01cf7bc88dc2fb4368437b6f50",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 678
+        "impressionCount" : 680
       },
       "subtitle" : "Music player",
       "tintColor" : "D998BD",
@@ -27424,7 +27424,7 @@
       "name" : "Amadeus Pro",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 753
+        "impressionCount" : 754
       },
       "subtitle" : "Multi-purpose audio recorder, editor and converter",
       "tintColor" : "BFB8CA",
@@ -28091,7 +28091,7 @@
       "sha256" : "de6409bca32072d231ff636b68589329731923239ebf1c36e6f557fa26ebddf6",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 454
+        "impressionCount" : 455
       },
       "tintColor" : "FB9F2A",
       "version" : "4.7.1"
@@ -29433,7 +29433,7 @@
       "sha256" : "65f04e749c997bde9e1d814cd0423dd6a3fb6868ed1c62e5f8a8f9f2a1a5160c",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 437
+        "impressionCount" : 438
       },
       "subtitle" : "Play music online with friends",
       "tintColor" : "B7DDEA",
@@ -29752,7 +29752,7 @@
       "sha256" : "c99bc47b141250b16672303a2530c99109bab9a6b52edfb5929433ece3c7cdf8",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 387
+        "impressionCount" : 388
       },
       "tintColor" : "784444",
       "version" : "1.9.1"
@@ -29811,7 +29811,7 @@
       "sha256" : "70a76a9cce1a2f2515878eea9789faaa2172c5131b4ede854622fd2f2316edd3",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 379
+        "impressionCount" : 380
       },
       "subtitle" : "Control Apple Music right from your menu bar",
       "tintColor" : "9487D0",
@@ -31834,7 +31834,7 @@
       "sha256" : "a4745dcf88f1691d2c681a87e6cfb6326200b6a2d9dfb53c2c62c67905a09e16",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 539
+        "impressionCount" : 540
       },
       "subtitle" : "Music metadata editor supporting batch edits and importing VGMdb data",
       "tintColor" : "4D517D",
@@ -33027,7 +33027,7 @@
       "name" : "iVolume",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 444
+        "impressionCount" : 445
       },
       "subtitle" : "App to ensures that all songs are played at the same volume level",
       "tintColor" : "7E8888",
@@ -35076,7 +35076,7 @@
       "sha256" : "ee6c8a69e823cebb09e4de7e7b4a0ea20de4ca149144f03517deef83969484c5",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 403
+        "impressionCount" : 404
       },
       "subtitle" : "MIDI player which provides 3D visualization of MIDI data sets",
       "tintColor" : "6A6A6B",
@@ -35803,7 +35803,7 @@
       "sha256" : "789ea9104c704bf7632ec4d0e06ec614470fe446bbd19076f818136aa05af76f",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 339
+        "impressionCount" : 340
       },
       "subtitle" : "Spotify mini-player",
       "tintColor" : "1B291E",
@@ -35879,7 +35879,7 @@
       "name" : "The Tagger",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 370
+        "impressionCount" : 371
       },
       "tintColor" : "B2888A",
       "version" : "1.6.2"
@@ -36876,7 +36876,7 @@
       "sha256" : "4812c1ebcf066fb690791ee7f2c7a5918d1d463d4d455130c4e12c823e50ab26",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 680
+        "impressionCount" : 681
       },
       "subtitle" : "Classical music streaming app",
       "tintColor" : "161617",
@@ -36974,7 +36974,7 @@
       "name" : "Jaikoz",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 430
+        "impressionCount" : 431
       },
       "subtitle" : "Audio tag editor",
       "tintColor" : "493930",
@@ -37269,7 +37269,7 @@
       "name" : "Musictube",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 419
+        "impressionCount" : 420
       },
       "subtitle" : "Streaming music player",
       "tintColor" : "F76639",
@@ -37524,7 +37524,7 @@
       "sha256" : "1a05de910d7fc0defcf010c7e0bbbb1eb32afc35a6eaa9397a5df57c6a5fc663",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 334
+        "impressionCount" : 335
       },
       "subtitle" : "App wrapper for Google Play Music",
       "tintColor" : "5B4428",
@@ -37892,7 +37892,7 @@
       "sha256" : "7fcd2bf27000bec59ef76343621fc4c551c68dd5ab338742ca824b2c5fe0771b",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 340
+        "impressionCount" : 341
       },
       "subtitle" : "Spotify in the status bar",
       "tintColor" : "9FE060",
@@ -39020,7 +39020,7 @@
       "sha256" : "f46192615beff9572e1c0438a9f75bc73540352e1a7a85a4844e20aa10a3215d",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 353
+        "impressionCount" : 355
       },
       "tintColor" : "CEC2BA",
       "version" : "2.2.0,2200027"
@@ -39191,7 +39191,7 @@
       "sha256" : "418d1adcf0ca099e7d02f9773df133c8c3276f1e65c47ff60f587861fa07d063",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 344
+        "impressionCount" : 346
       },
       "subtitle" : "Music player for The Hype Machine",
       "tintColor" : "F1D0D8",
@@ -39870,7 +39870,7 @@
       "sha256" : "bbd0255f809da259b6c4a9d7f7fc27de2bceb5dc7caca32adc61769d9d98f9de",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 295
+        "impressionCount" : 299
       },
       "subtitle" : "Menu bar control for Apple Music",
       "tintColor" : "D7AEAF",

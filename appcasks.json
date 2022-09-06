@@ -25,7 +25,7 @@
       "sha256" : "e93c4d1f5d3de3f6c909d4dbd14fce8db0ca17a3a64161613512ed7eab847617",
       "stats" : {
         "downloadCount" : 2589,
-        "impressionCount" : 10226,
+        "impressionCount" : 10228,
         "viewCount" : 1122
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,13 +57,13 @@
       "sha256" : "e49dc15eca7faaa4ddd537bff3a5f7848888bd0e97812e6724c4e43f37d29436",
       "stats" : {
         "downloadCount" : 16828,
-        "impressionCount" : 9085,
+        "impressionCount" : 9087,
         "viewCount" : 972
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
       "version" : "104.0.2",
-      "versionDate" : "2022-09-06T15:26:03Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -90,8 +90,8 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 9009,
-        "impressionCount" : 7968,
-        "viewCount" : 692
+        "impressionCount" : 7969,
+        "viewCount" : 694
       },
       "subtitle" : "Multimedia player",
       "tintColor" : "E5984A",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28644,
-        "impressionCount" : 8404,
+        "impressionCount" : 8406,
         "viewCount" : 710
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8467,
-        "impressionCount" : 8335,
+        "impressionCount" : 8337,
         "viewCount" : 670
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6560,
-        "impressionCount" : 8270,
+        "impressionCount" : 8271,
         "viewCount" : 537
       },
       "subtitle" : "Voice and text chat software",
@@ -208,7 +208,7 @@
       "sha256" : "8f22fb8ecb3a67611e68c7e643c3424850dfdcb7b04795e4175bb2ce8f436faf",
       "stats" : {
         "downloadCount" : 3407,
-        "impressionCount" : 8769,
+        "impressionCount" : 8771,
         "viewCount" : 589
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -238,7 +238,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3393,
-        "impressionCount" : 7544,
+        "impressionCount" : 7546,
         "viewCount" : 564
       },
       "subtitle" : "Text editor",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2611,
-        "impressionCount" : 6559,
+        "impressionCount" : 6561,
         "viewCount" : 425
       },
       "subtitle" : "Video game digital distribution service",
@@ -291,7 +291,7 @@
       "sha256" : "246e1b174af3f61513e4e004e948a325149091b5165b7005391570f6d334ee3e",
       "stats" : {
         "downloadCount" : 2169,
-        "impressionCount" : 7215,
+        "impressionCount" : 7217,
         "viewCount" : 454
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -325,7 +325,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 1969,
-        "impressionCount" : 8323,
+        "impressionCount" : 8324,
         "viewCount" : 863
       },
       "subtitle" : "File archiver",
@@ -356,7 +356,7 @@
       "sha256" : "b398701443bdd8826fa83c2852ae8461f04f71b6666a070cb55adc8d2ca2ff91",
       "stats" : {
         "downloadCount" : 1174,
-        "impressionCount" : 8610,
+        "impressionCount" : 8612,
         "viewCount" : 488
       },
       "subtitle" : "3D creation suite",
@@ -385,7 +385,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1156,
-        "impressionCount" : 6609,
+        "impressionCount" : 6611,
         "viewCount" : 524
       },
       "subtitle" : "Open-source Markdown editor",
@@ -445,7 +445,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 586,
-        "impressionCount" : 6760,
+        "impressionCount" : 6762,
         "viewCount" : 357
       },
       "subtitle" : "Text editor",
@@ -474,7 +474,7 @@
       ],
       "stats" : {
         "downloadCount" : 447,
-        "impressionCount" : 6273,
+        "impressionCount" : 6274,
         "viewCount" : 479
       },
       "subtitle" : "Sandbox construction video game",
@@ -506,7 +506,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 413,
-        "impressionCount" : 6867,
+        "impressionCount" : 6868,
         "viewCount" : 493
       },
       "subtitle" : "Text, code, and markup editor",
@@ -3138,7 +3138,7 @@
       "sha256" : "a18a2dd2aeee0d4701b0d63a61e90d066ff19ca8e361bd1f98658f1feea82e40",
       "stats" : {
         "downloadCount" : 6020,
-        "impressionCount" : 1547
+        "impressionCount" : 1549
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -4117,7 +4117,7 @@
       "subtitle" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
       "tintColor" : "293154",
       "version" : "20220905-102802,7d4b8249",
-      "versionDate" : "2022-09-06T15:26:03Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19172,7 +19172,7 @@
       "sha256" : "ae227cbc3716c5afea3c3a5d450f382120f5ad796502c91bfd131483a45796a2",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 399
+        "impressionCount" : 400
       },
       "subtitle" : "Unofficial ProtonMail Desktop App",
       "tintColor" : "1FA68B",
@@ -20560,7 +20560,7 @@
       "sha256" : "61db4b11491cfffaa9c54184e99ae75dbf288a5f4ffff88a9f0f318c8b983d54",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 159
+        "impressionCount" : 161
       },
       "subtitle" : "Set up VLC for VLC Remote",
       "tintColor" : "C48849",
@@ -48664,7 +48664,7 @@
       "sha256" : "7f5d68a69af857804150c7d24209b38fd50a136d0cda42b0abb8626a4abe2797",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 55
+        "impressionCount" : 57
       },
       "subtitle" : "Stream videos to mobile devices using VLC",
       "tintColor" : "675037",
@@ -72280,7 +72280,7 @@
       },
       "subtitle" : "Virtual machine management GUI/API and registry",
       "version" : "1.28.0-347c73ea",
-      "versionDate" : "2022-09-06T15:26:03Z"
+      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,

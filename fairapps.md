@@ -32,7 +32,7 @@ tr:nth-child(even) {
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `22` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1031` | `91` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `22` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3514` | `587` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `19` | `2022-09-02T00:00:00Z` | `2.6 MB` | `104` | `7` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `19` | `2022-09-01T00:00:00Z` | `9.6 MB` | `158` | `15` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `19` | `2022-09-01T00:00:00Z` | `9.6 MB` | `159` | `15` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `19` | `2022-08-27T00:00:00Z` | `3.2 MB` | `129` | `13` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `18` | `2022-08-24T00:00:00Z` | `2.3 MB` | `401` | `32` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `17` | `2022-09-03T00:00:00Z` | `2.2 MB` | `98` | `8` | `0` | `0` |  |

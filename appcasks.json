@@ -25,7 +25,7 @@
       "sha256" : "e93c4d1f5d3de3f6c909d4dbd14fce8db0ca17a3a64161613512ed7eab847617",
       "stats" : {
         "downloadCount" : 2611,
-        "impressionCount" : 10267,
+        "impressionCount" : 10268,
         "viewCount" : 1132
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "e49dc15eca7faaa4ddd537bff3a5f7848888bd0e97812e6724c4e43f37d29436",
       "stats" : {
         "downloadCount" : 17185,
-        "impressionCount" : 9133,
+        "impressionCount" : 9134,
         "viewCount" : 975
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 9066,
-        "impressionCount" : 7997,
+        "impressionCount" : 7998,
         "viewCount" : 694
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 29157,
-        "impressionCount" : 8439,
+        "impressionCount" : 8440,
         "viewCount" : 715
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8633,
-        "impressionCount" : 8373,
+        "impressionCount" : 8374,
         "viewCount" : 670
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6619,
-        "impressionCount" : 8296,
+        "impressionCount" : 8298,
         "viewCount" : 537
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "157650d761a1a2d8a77b41036f8a204018bca9e3b30efc18184d91f2e46aa341",
       "stats" : {
         "downloadCount" : 3465,
-        "impressionCount" : 7575,
+        "impressionCount" : 7576,
         "viewCount" : 565
       },
       "subtitle" : "Text editor",
@@ -237,7 +237,7 @@
       "sha256" : "8f22fb8ecb3a67611e68c7e643c3424850dfdcb7b04795e4175bb2ce8f436faf",
       "stats" : {
         "downloadCount" : 3451,
-        "impressionCount" : 8812,
+        "impressionCount" : 8813,
         "viewCount" : 590
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -325,7 +325,7 @@
       "sha256" : "34e3bbfb044094ac2c583dc080555145192742571ef223a1b70e57b5627821e6",
       "stats" : {
         "downloadCount" : 1989,
-        "impressionCount" : 8355,
+        "impressionCount" : 8356,
         "viewCount" : 864
       },
       "subtitle" : "File archiver",
@@ -709,7 +709,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 3109,
+        "impressionCount" : 3110,
         "viewCount" : 262
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -741,7 +741,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 3192,
+        "impressionCount" : 3193,
         "viewCount" : 259
       },
       "subtitle" : "Create DMGs and other archives",
@@ -963,7 +963,7 @@
       "sha256" : "fb6150439162074377d0933f32d9df6b4e0ad9765a7f7aff5b5fa2f1528db250",
       "stats" : {
         "downloadCount" : 4135,
-        "impressionCount" : 2572,
+        "impressionCount" : 2573,
         "viewCount" : 139
       },
       "subtitle" : "Password manager that keeps all passwords secure behind one password",
@@ -1452,7 +1452,7 @@
       "sha256" : "8117d5d864358c9f626ce574d07d2f121ad96fc96a535cc3fddaba3c74bd3279",
       "stats" : {
         "downloadCount" : 2424,
-        "impressionCount" : 2347,
+        "impressionCount" : 2348,
         "viewCount" : 130
       },
       "subtitle" : "Vector graphics editor",
@@ -1740,9 +1740,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dozer/README.md",
       "sha256" : "d8d37a114c9dab2f16a56e60d8a977115ba34fe408ff7947d0d74028f1f22843",
       "stats" : {
-        "downloadCount" : 1066,
-        "impressionCount" : 2393,
-        "viewCount" : 142
+        "downloadCount" : 1067,
+        "impressionCount" : 2395,
+        "viewCount" : 144
       },
       "subtitle" : "Tool to hide status bar icons",
       "tintColor" : "D8D6C1",
@@ -2602,7 +2602,7 @@
       "sha256" : "0e0f862bc962b6e95a3bcf6633a78602ef63cf3d25c03694f53f7b34e4e637ea",
       "stats" : {
         "downloadCount" : 97,
-        "impressionCount" : 1907,
+        "impressionCount" : 1908,
         "viewCount" : 104
       },
       "subtitle" : "Bitcoin thin client",
@@ -3138,7 +3138,7 @@
       "sha256" : "a18a2dd2aeee0d4701b0d63a61e90d066ff19ca8e361bd1f98658f1feea82e40",
       "stats" : {
         "downloadCount" : 6112,
-        "impressionCount" : 1577
+        "impressionCount" : 1578
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -3780,7 +3780,7 @@
       "sha256" : "3f54b024f5c1c40bc18aebe39014710289b47e147e71561fae22a661cab26d02",
       "stats" : {
         "downloadCount" : 1372,
-        "impressionCount" : 708
+        "impressionCount" : 710
       },
       "subtitle" : "Utility to hide menu bar items",
       "tintColor" : "D3D3D3",
@@ -5199,7 +5199,7 @@
       "subtitle" : "Tool to remove unnecessary files and folders from disk",
       "tintColor" : "E6B2D2",
       "version" : "4.11.3,41103.0.2209061539",
-      "versionDate" : "2022-09-07T13:57:33Z"
+      "versionDate" : "2022-09-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12923,7 +12923,7 @@
       "subtitle" : "Email client",
       "tintColor" : "B76B65",
       "version" : "3.100.0",
-      "versionDate" : "2022-09-07T13:57:33Z"
+      "versionDate" : "2022-09-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14392,7 +14392,7 @@
       "sha256" : "e4de32606e76da69805cf3288821117efe5fb4c6e2fa6759e41dd25c6173dc5c",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 385
+        "impressionCount" : 386
       },
       "subtitle" : "Tool to enable and disable hidden functions of Finder and other apps",
       "tintColor" : "D6A8E9",
@@ -19816,7 +19816,7 @@
       "name" : "Funter",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 270
+        "impressionCount" : 271
       },
       "subtitle" : "Shows hidden files and folders and switches their visibility in Finder",
       "tintColor" : "647F8A",
@@ -49143,7 +49143,7 @@
       "subtitle" : "Convert potentially dangerous PDFs or Office documents into safe PDFs",
       "tintColor" : "A14F17",
       "version" : "0.3.2",
-      "versionDate" : "2022-09-07T13:57:33Z"
+      "versionDate" : "2022-09-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54307,7 +54307,7 @@
       "sha256" : "adcf0101826d303d4278eb887a0eb16f0e68e86d259c6f909b2750afdb568a6c",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 96
+        "impressionCount" : 97
       },
       "subtitle" : "Worship presentation software",
       "tintColor" : "98AFD9",
@@ -55153,7 +55153,7 @@
       "sha256" : "528328a0e7c3f0a72e763ea766324d491dfe20d6f18a2882eefda1a5a2c4d68e",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 79
+        "impressionCount" : 80
       },
       "subtitle" : "Allows viewing and manipulation of hidden files in Finder",
       "tintColor" : "9FA9C5",
@@ -55584,7 +55584,7 @@
       "name" : "ShowHiddenFiles",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 74
+        "impressionCount" : 75
       },
       "tintColor" : "B8A49F",
       "version" : "2.0.6,62"

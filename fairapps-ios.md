@@ -25,11 +25,11 @@ tr:nth-child(even) {
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3210` | `246` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.44`` | `42` | `2022-08-24T00:00:00Z` | `5.8 MB` | `331` | `46` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.275`` | `32` | `2022-09-01T00:00:00Z` | `5.8 MB` | `148` | `10` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.275`` | `35` | `2022-09-01T00:00:00Z` | `5.8 MB` | `148` | `10` | `1` | `0` |  |
+| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `20` | `2022-09-02T00:00:00Z` | `6.6 MB` | `101` | `7` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `6` | `1` | `0` | `0` |  |
-| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `18` | `2022-09-02T00:00:00Z` | `6.6 MB` | `101` | `7` | `0` | `0` |  |
+| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `16` | `2022-09-03T00:00:00Z` | `5.7 MB` | `96` | `8` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `16` | `2022-08-27T00:00:00Z` | `7.7 MB` | `128` | `13` | `0` | `0` |  |
-| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `14` | `2022-09-03T00:00:00Z` | `5.7 MB` | `96` | `8` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `9` | `2022-09-01T00:00:00Z` | `18 MB` | `155` | `15` | `1` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.8β`` | `9` | `2021-12-06T00:00:00Z` | `5.8 MB` | `376` | `20` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `506` | `9` | `0` | `0` |  |

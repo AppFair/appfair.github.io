@@ -117,7 +117,7 @@
       "size" : 5805787,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 32,
+        "downloadCount" : 35,
         "impressionCount" : 148,
         "issueCount" : 0,
         "starCount" : 1,
@@ -129,6 +129,42 @@
       "version" : "0.9.275",
       "versionDate" : "2022-09-01T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Fair-Skies.github.io/App",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
+      "localizedDescription" : "An app for weather bugs",
+      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Fair Skies",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "sha256" : "50f44105a995dd651f23120a0d860613681a5886a5b76a2c9f5cdd4c701aeb92",
+      "size" : 6596437,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 20,
+        "impressionCount" : 101,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 7,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for weather bugs",
+      "version" : "0.0.5",
+      "versionDate" : "2022-09-02T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
     },
     {
       "beta" : true,
@@ -176,39 +212,38 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Fair-Skies",
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-iOS.ipa",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "homepage" : "http://Fair-Skies.github.io/App",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
-      "localizedDescription" : "An app for weather bugs",
-      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Fair Skies",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "50f44105a995dd651f23120a0d860613681a5886a5b76a2c9f5cdd4c701aeb92",
-      "size" : 6596437,
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "0d121e033afd12730e3e691bfe5e114ec1a7ce8c86a0b1d4b9ee181fe1ec67b3",
+      "size" : 5724211,
       "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 18,
-        "impressionCount" : 101,
+        "coreSize" : 170176,
+        "downloadCount" : 16,
+        "impressionCount" : 96,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 7,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
-      "subtitle" : "An app for weather bugs",
-      "version" : "0.0.5",
-      "versionDate" : "2022-09-02T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.72",
+      "versionDate" : "2022-09-03T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : false,
@@ -257,41 +292,6 @@
       "version" : "0.0.45",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "0d121e033afd12730e3e691bfe5e114ec1a7ce8c86a0b1d4b9ee181fe1ec67b3",
-      "size" : 5724211,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 14,
-        "impressionCount" : 96,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 8,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.72",
-      "versionDate" : "2022-09-03T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : false,

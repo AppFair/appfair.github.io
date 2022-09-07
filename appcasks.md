@@ -192,7 +192,7 @@ tr:nth-child(even) {
 | [``Mounty for NTFS``](https://mounty.app/) | ``1.15`` | `1176` | `2022-08-28T00:00:00Z` |  | `690` |  |  | `0` | `public.app-category.utilities` |
 | [``LibreWolf``](https://librewolf.net/) | ``104.0,1,c8cea6d6d7e1ac90…`` | `1164` | `2022-08-27T00:00:00Z` |  | `975` |  |  | `0` | `public.app-category.productivity` |
 | [``Hyper``](https://hyper.is/) | ``3.3.0`` | `1122` | `2022-08-22T00:00:00Z` |  | `652` |  |  | `0` | `public.app-category.developer-tools` |
-| [``BetterTouchTool``](https://folivora.ai/) | ``3.869,2021`` | `1119` | `2022-09-07T08:28:13Z` |  | `1383` |  |  | `0` | `public.app-category.productivity` |
+| [``BetterTouchTool``](https://folivora.ai/) | ``3.869,2021`` | `1119` | `2022-09-07T00:00:00Z` |  | `1383` |  |  | `0` | `public.app-category.productivity` |
 | [``UnnaturalScrollWheels``](https://github.com/ther0n/UnnaturalScrollWheels) | ``1.3.0`` | `1054` | `2022-08-01T00:00:00Z` |  | `1680` |  |  | `0` | `public.app-category.utilities` |
 | [``CheatSheet``](https://www.mediaatelier.com/CheatSheet/) | ``1.6.3`` | `1049` |  |  | `924` |  |  | `0` | `public.app-category.productivity` |
 | [``Clipy``](https://clipy-app.com/) | ``1.2.1`` | `1025` |  |  | `805` |  |  | `0` | `public.app-category.utilities` |
@@ -452,7 +452,7 @@ tr:nth-child(even) {
 | [``Mactracker``](https://mactracker.ca/) | ``7.11.5`` | `90` | `2022-08-08T00:00:00Z` |  | `931` |  |  | `0` | `public.app-category.reference` |
 | [``Opera GX``](https://www.opera.com/gx) | ``90.0.4480.78`` | `90` | `2022-09-06T00:00:00Z` |  | `597` |  |  | `0` | `public.app-category.productivity` |
 | [``NWPusher``](https://github.com/noodlewerk/NWPusher) | ``0.7.5`` | `90` |  |  | `337` |  |  | `0` | `public.app-category.developer-tools` |
-| [``QQLive``](https://v.qq.com/download.html#mac) | ``2.53.1.53443`` | `90` | `2022-09-07T08:28:13Z` |  | `889` |  |  | `0` | `public.app-category.entertainment` |
+| [``QQLive``](https://v.qq.com/download.html#mac) | ``2.53.1.53443`` | `90` | `2022-09-07T00:00:00Z` |  | `889` |  |  | `0` | `public.app-category.entertainment` |
 | [``BitBar``](https://github.com/matryer/bitbar/) | ``1.10.1`` | `89` |  |  | `730` |  |  | `0` | `public.app-category.productivity` |
 | [``HyperSwitch``](https://bahoom.com/hyperswitch/) | ``0.2.592-dev`` | `89` |  |  | `452` |  |  | `0` | `public.app-category.utilities` |
 | [``Neo4j Desktop``](https://neo4j.com/download/) | ``1.4.15`` | `89` |  |  | `1168` |  |  | `0` | `public.app-category.business` |
@@ -1999,7 +1999,7 @@ tr:nth-child(even) {
 | [``gulp-app``](https://github.com/sindresorhus/gulp-app) | ``0.1.0`` | `587` |  |  | `55` |  |  | `0` |  |
 | [``LuLu``](https://objective-see.com/products/lulu.html) | ``2.4.2`` | `586` |  |  | `101` |  |  | `0` |  |
 | [``Macs Fan Control``](https://www.crystalidea.com/macs-fan-control) | ``1.5.13`` | `585` |  |  | `53` |  |  | `0` |  |
-| [``Raspberry Pi Imager``](https://www.raspberrypi.org/downloads/) | ``1.7.3`` | `566` | `2022-09-07T08:28:13Z` |  | `60` |  |  | `0` |  |
+| [``Raspberry Pi Imager``](https://www.raspberrypi.org/downloads/) | ``1.7.3`` | `566` | `2022-09-07T00:00:00Z` |  | `60` |  |  | `0` |  |
 | [``Webex Teams``](https://www.webex.com/) | ``42.8.0.23281`` | `543` | `2022-08-19T00:00:00Z` |  | `124` |  |  | `0` |  |
 | [``Citrix Workspace``](https://www.citrix.com/) | ``22.08.1.43,2208.1`` | `481` | `2022-08-26T00:00:00Z` |  | `86` |  |  | `0` |  |
 | [``Qt Creator``](https://www.qt.io/developers/) | ``8.0.1`` | `480` | `2022-08-11T00:00:00Z` |  | `99` |  |  | `0` |  |
@@ -2046,7 +2046,7 @@ tr:nth-child(even) {
 | [``xbar``](https://xbarapp.com/) | ``2.1.7-beta`` | `225` |  |  | `62` |  |  | `0` |  |
 | [``Snipaste``](https://www.snipaste.com/) | ``2.7.2-Beta`` | `221` |  |  | `50` |  |  | `0` |  |
 | [``Deluge``](https://deluge-torrent.org/) | ``1.3.15.1`` | `220` |  |  | `46` |  |  | `0` |  |
-| [``Grammarly Desktop``](https://www.grammarly.com/desktop) | ``1.10.0.4`` | `219` | `2022-09-07T08:28:13Z` |  | `156` |  |  | `0` |  |
+| [``Grammarly Desktop``](https://www.grammarly.com/desktop) | ``1.10.0.4`` | `219` | `2022-09-07T00:00:00Z` |  | `156` |  |  | `0` |  |
 | [``NVIDIA GeForce NOW``](https://www.nvidia.com/en-us/geforce-now/download/) | ``2.0.44.96`` | `217` | `2022-09-06T00:00:00Z` |  | `198` |  |  | `0` |  |
 | [``Spyder``](https://www.spyder-ide.org/) | ``5.3.3`` | `209` | `2022-09-06T00:00:00Z` |  | `100` |  |  | `0` |  |
 | [``Texmaker``](https://www.xm1math.net/texmaker/) | ``5.1.3`` | `204` |  |  | `67` |  |  | `0` |  |

@@ -4680,7 +4680,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/logseq/logseq/releases/download/0.8.4/logseq-darwin-x64-0.8.4.dmg",
+      "downloadURL" : "https://github.com/logseq/logseq/releases/download/0.8.5/logseq-darwin-x64-0.8.5.dmg",
       "fundingLinks" : [
         {
           "platform" : "OPEN_COLLECTIVE",
@@ -4691,15 +4691,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-logseq/AppIcon.png",
       "localizedDescription" : "Privacy-first, open-source platform for knowledge sharing and management",
       "name" : "Logseq",
-      "sha256" : "648f749e713816c7c5ccfa9dd21b0967de69999157a1125b71af20aef0d81574",
+      "sha256" : "615e1a423d6553912c3b1ba67f8854ddeb9990cfd4e0fce50b80365fddaa6e75",
       "stats" : {
         "downloadCount" : 693,
         "impressionCount" : 1898
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
-      "version" : "0.8.4",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "0.8.5",
+      "versionDate" : "2022-09-07T06:25:50Z"
     },
     {
       "beta" : false,
@@ -15109,20 +15109,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://github.com/listen1/listen1_desktop/releases/download/v2.25.0/Listen1_2.25.0_mac_x64.dmg",
+      "downloadURL" : "https://github.com/listen1/listen1_desktop/releases/download/v2.26.0/Listen1_2.26.0_mac_x64.dmg",
       "homepage" : "https://listen1.github.io/listen1/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-listen1/AppIcon.png",
       "localizedDescription" : "Search and play songs from a variety of online sources",
       "name" : "Listen 1",
-      "sha256" : "69d40d11c5a050da83d8b66b84df22f7692436cf566cf19f61d953ac1e8de271",
+      "sha256" : "3a11ad65e60104a7f57d3e1696adb927d7e0b519286aeccc47420f0a8970354f",
       "stats" : {
         "downloadCount" : 32,
         "impressionCount" : 592
       },
       "subtitle" : "Search and play songs from a variety of online sources",
       "tintColor" : "222222",
-      "version" : "2.25.0",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "2.26.0",
+      "versionDate" : "2022-09-07T06:25:50Z"
     },
     {
       "beta" : false,
@@ -34287,7 +34287,7 @@
       "name" : "Ankama Launcher",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 1119
+        "impressionCount" : 1121
       },
       "subtitle" : "Portal to download Ankama's PC games",
       "tintColor" : "F08612",
@@ -60556,17 +60556,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/pritunl/pritunl-client-electron/releases/download/1.2.3236.80/Pritunl.pkg.zip",
+      "downloadURL" : "https://github.com/pritunl/pritunl-client-electron/releases/download/1.3.3281.66/Pritunl.pkg.zip",
       "homepage" : "https://client.pritunl.com/",
       "localizedDescription" : "OpenVPN client",
       "name" : "Pritunl",
-      "sha256" : "47281dab7501d10db66249636f29bec2d4c9b2e9f4971f9fc9967b97f20a60d9",
+      "sha256" : "fc46fa29831946f3057b870957930c0e1c6615262489a605b289599317f32761",
       "stats" : {
         "downloadCount" : 343
       },
       "subtitle" : "OpenVPN client",
-      "version" : "1.2.3236.80",
-      "versionDate" : "2022-07-24T00:00:00Z"
+      "version" : "1.3.3281.66",
+      "versionDate" : "2022-09-07T06:25:50Z"
     },
     {
       "beta" : false,
@@ -74122,27 +74122,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "pyfa",
-      "caption" : "pyfa updated from 2.44.0 to 2.45.0",
-      "date" : "2022-09-06T18:27:49Z",
-      "identifier" : "release-pyfa-2.45.0",
-      "title" : "New Release: pyfa 2.45.0"
-    },
-    {
-      "appID" : "understand",
-      "caption" : "SciTools Understand updated from 6.2.1115 to 6.2.1116",
-      "date" : "2022-09-06T18:27:49Z",
-      "identifier" : "release-understand-6.2.1116",
-      "title" : "New Release: SciTools Understand 6.2.1116"
-    },
-    {
-      "appID" : "visual-paradigm",
-      "caption" : "Visual Paradigm updated from 17.0,20220816 to 17.0,20220901",
-      "date" : "2022-09-06T18:27:49Z",
-      "identifier" : "release-visual-paradigm-17.0,20220901",
-      "title" : "New Release: Visual Paradigm 17.0,20220901"
-    },
-    {
       "appID" : "ibackup-viewer",
       "caption" : "iBackup Viewer updated from 4.2650 to 4.2670",
       "date" : "2022-09-06T18:27:49Z",
@@ -74820,6 +74799,27 @@
       "date" : "2022-09-07T01:21:15Z",
       "identifier" : "release-photo-supreme-single-user-7.3.0.4494",
       "title" : "New Release: Photo Supreme Single User 7.3.0.4494"
+    },
+    {
+      "appID" : "logseq",
+      "caption" : "Logseq updated from 0.8.4 to 0.8.5",
+      "date" : "2022-09-07T06:25:51Z",
+      "identifier" : "release-logseq-0.8.5",
+      "title" : "New Release: Logseq 0.8.5"
+    },
+    {
+      "appID" : "listen1",
+      "caption" : "Listen 1 updated from 2.25.0 to 2.26.0",
+      "date" : "2022-09-07T06:25:51Z",
+      "identifier" : "release-listen1-2.26.0",
+      "title" : "New Release: Listen 1 2.26.0"
+    },
+    {
+      "appID" : "pritunl",
+      "caption" : "Pritunl updated from 1.2.3236.80 to 1.3.3281.66",
+      "date" : "2022-09-07T06:25:52Z",
+      "identifier" : "release-pritunl-1.3.3281.66",
+      "title" : "New Release: Pritunl 1.3.3281.66"
     }
   ],
   "platform" : "macos",

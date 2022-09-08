@@ -4004,7 +4004,7 @@
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
       "version" : "3.871,2024",
-      "versionDate" : "2022-09-08T04:13:25Z"
+      "versionDate" : "2022-09-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4611,7 +4611,7 @@
       "sha256" : "615e1a423d6553912c3b1ba67f8854ddeb9990cfd4e0fce50b80365fddaa6e75",
       "stats" : {
         "downloadCount" : 712,
-        "impressionCount" : 1907
+        "impressionCount" : 1909
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -8110,20 +8110,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%202.4.7.dmg",
+      "downloadURL" : "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%202.5.dmg",
       "homepage" : "https://rectangleapp.com/pro",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rectangle-pro/AppIcon.png",
       "localizedDescription" : "Window snapping tool",
       "name" : "Rectangle Pro",
-      "sha256" : "6e6de589ca1e87552450f8c5ae731f35d813b2327bf4efef5aa41de10b44294d",
+      "sha256" : "0f8260c0b4d0b3b938a02fe5ca2838af105080c3d29dcc667646d4dcced150f0",
       "stats" : {
         "downloadCount" : 125,
         "impressionCount" : 501
       },
       "subtitle" : "Window snapping tool",
       "tintColor" : "4764C5",
-      "version" : "2.4.7,118",
-      "versionDate" : "2022-07-02T00:00:00Z"
+      "version" : "2.5,119",
+      "versionDate" : "2022-09-08T06:05:35Z"
     },
     {
       "beta" : false,
@@ -8914,7 +8914,7 @@
       "subtitle" : "Hybrid command-line/UI development experience for cloud-native development",
       "tintColor" : "ECECEC",
       "version" : "12.0.3",
-      "versionDate" : "2022-09-08T04:13:25Z"
+      "versionDate" : "2022-09-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40540,7 +40540,7 @@
       "subtitle" : "Video communication and virtual meeting platform",
       "tintColor" : "22445D",
       "version" : "42.9.0.23494",
-      "versionDate" : "2022-09-08T04:13:25Z"
+      "versionDate" : "2022-09-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60245,7 +60245,7 @@
       },
       "subtitle" : "Desktop sync client for Nextcloud software products",
       "version" : "3.6.0",
-      "versionDate" : "2022-09-08T04:13:25Z"
+      "versionDate" : "2022-09-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -68542,17 +68542,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://d3huse1s6vwzq6.cloudfront.net/odrivesync.7291.pkg",
+      "downloadURL" : "https://d3huse1s6vwzq6.cloudfront.net/odrivesync.7309.pkg",
       "homepage" : "https://www.odrive.com/",
       "localizedDescription" : "Tool to make any cloud storage unified, synchronized, shareable, and encrypted",
       "name" : "odrive",
-      "sha256" : "a4121bd587171acdc41eec21f1e9df65a175b9e74f362593e06d086448245b49",
+      "sha256" : "70619e26b6403d484f154ebc9671b8ce4c914204114ff6362ed13134b2f8409d",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "Tool to make any cloud storage unified, synchronized, shareable, and encrypted",
-      "version" : "7291",
-      "versionDate" : "2022-07-27T00:00:00Z"
+      "version" : "7309",
+      "versionDate" : "2022-09-08T06:05:35Z"
     },
     {
       "beta" : false,
@@ -74219,20 +74219,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.15,20220828103152 to 6.2.17,20220905102957",
-      "date" : "2022-09-06T18:27:50Z",
-      "identifier" : "release-metasploit-6.2.17,20220905102957",
-      "title" : "New Release: Metasploit Framework 6.2.17,20220905102957"
-    },
-    {
-      "appID" : "azure-data-studio",
-      "caption" : "Azure Data Studio updated from 1.39.0 to 1.39.1",
-      "date" : "2022-09-06T18:27:50Z",
-      "identifier" : "release-azure-data-studio-1.39.1",
-      "title" : "New Release: Azure Data Studio 1.39.1"
-    },
-    {
       "appID" : "aerial",
       "caption" : "Aerial Screensaver updated from 3.1.1 to 3.1.2",
       "date" : "2022-09-06T18:27:50Z",
@@ -74917,6 +74903,20 @@
       "date" : "2022-09-08T04:13:26Z",
       "identifier" : "release-nextcloud-3.6.0",
       "title" : "New Release: Nextcloud 3.6.0"
+    },
+    {
+      "appID" : "rectangle-pro",
+      "caption" : "Rectangle Pro updated from 2.4.7,118 to 2.5,119",
+      "date" : "2022-09-08T06:05:36Z",
+      "identifier" : "release-rectangle-pro-2.5,119",
+      "title" : "New Release: Rectangle Pro 2.5,119"
+    },
+    {
+      "appID" : "odrive",
+      "caption" : "odrive updated from 7291 to 7309",
+      "date" : "2022-09-08T06:05:36Z",
+      "identifier" : "release-odrive-7309",
+      "title" : "New Release: odrive 7309"
     }
   ],
   "platform" : "macos",

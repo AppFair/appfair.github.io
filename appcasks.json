@@ -31,7 +31,7 @@
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
       "version" : "5.58.0",
-      "versionDate" : "2022-09-08T09:31:38Z"
+      "versionDate" : "2022-09-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -791,7 +791,7 @@
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
       "tintColor" : "287398",
       "version" : "0.59,65",
-      "versionDate" : "2022-09-08T09:31:38Z"
+      "versionDate" : "2022-09-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1182,13 +1182,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://2.na.dl.wireshark.org/osx/Wireshark%203.6.7%20Intel%2064.dmg",
+      "downloadURL" : "https://2.na.dl.wireshark.org/osx/Wireshark%203.6.8%20Intel%2064.dmg",
       "homepage" : "https://www.wireshark.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark/AppIcon.png",
       "localizedDescription" : "Network protocol analyzer",
       "name" : "Wireshark",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark/README.md",
-      "sha256" : "930fd418cf4b966b1299ceacd888ebd0705cf44269027cf375acc94cb7af49e8",
+      "sha256" : "c1e54f1af933486ac60da94bb1a366df5125959ef416e1a93c2a2fb9de78efa0",
       "stats" : {
         "downloadCount" : 2622,
         "impressionCount" : 1890,
@@ -1196,8 +1196,8 @@
       },
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
-      "version" : "3.6.7",
-      "versionDate" : "2022-07-28T00:00:00Z"
+      "version" : "3.6.8",
+      "versionDate" : "2022-09-08T10:26:56Z"
     },
     {
       "beta" : false,
@@ -31596,8 +31596,8 @@
       },
       "subtitle" : "Search utility for icons8",
       "tintColor" : "76CF8C",
-      "version" : "1.0.13,18",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "1.1.1,21",
+      "versionDate" : "2022-09-08T10:26:56Z"
     },
     {
       "beta" : false,
@@ -42592,7 +42592,7 @@
       "subtitle" : "Digital audio production application",
       "tintColor" : "849670",
       "version" : "6.67",
-      "versionDate" : "2022-09-08T09:31:38Z"
+      "versionDate" : "2022-09-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50703,7 +50703,7 @@
       "subtitle" : "Extract Data from iPhone Backups",
       "tintColor" : "A9AAAA",
       "version" : "4.2680",
-      "versionDate" : "2022-09-08T09:31:38Z"
+      "versionDate" : "2022-09-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62142,17 +62142,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://cdn.gog.com/open/galaxy/client/2.0.53.99/galaxy_client_2.0.53.99.pkg",
+      "downloadURL" : "https://cdn.gog.com/open/galaxy/client/2.0.54.22/galaxy_client_2.0.54.22.pkg",
       "homepage" : "https://www.gog.com/galaxy",
       "localizedDescription" : "Game client",
       "name" : "GOG Galaxy",
-      "sha256" : "c531d4c5019a179facb4117fde2026cb2fb153a55402329cffcf9c42e46385c2",
+      "sha256" : "235668916ceca6774657ec7e5656981d3b0a7ebd358dcf6889858094bf77b742",
       "stats" : {
         "downloadCount" : 104
       },
       "subtitle" : "Game client",
-      "version" : "2.0.53.99",
-      "versionDate" : "2022-08-26T00:00:00Z"
+      "version" : "2.0.54.22",
+      "versionDate" : "2022-09-08T10:26:56Z"
     },
     {
       "beta" : false,
@@ -73019,7 +73019,7 @@
       },
       "subtitle" : "Platform for integrating spatial data",
       "version" : "2022.1.2,22627",
-      "versionDate" : "2022-09-08T09:31:38Z"
+      "versionDate" : "2022-09-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74219,27 +74219,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "parallels-virtualization-sdk",
-      "caption" : "Parallels Virtualization SDK updated from 18.0.0-53049 to 18.0.1-53056",
-      "date" : "2022-09-06T18:27:50Z",
-      "identifier" : "release-parallels-virtualization-sdk-18.0.1-53056",
-      "title" : "New Release: Parallels Virtualization SDK 18.0.1-53056"
-    },
-    {
-      "appID" : "zoom-for-it-admins",
-      "caption" : "Zoom for IT Admins updated from 5.11.9.10046 to 5.11.11.10514",
-      "date" : "2022-09-06T18:27:50Z",
-      "identifier" : "release-zoom-for-it-admins-5.11.11.10514",
-      "title" : "New Release: Zoom for IT Admins 5.11.11.10514"
-    },
-    {
-      "appID" : "eqmac",
-      "caption" : "eqMac updated from 1.5.0 to 1.6.1",
-      "date" : "2022-09-06T18:27:50Z",
-      "identifier" : "release-eqmac-1.6.1",
-      "title" : "New Release: eqMac 1.6.1"
-    },
-    {
       "appID" : "jupyterlab",
       "caption" : "JupyterLab App updated from 3.3.4-2 to 3.4.5-1",
       "date" : "2022-09-06T18:27:50Z",
@@ -74917,6 +74896,27 @@
       "date" : "2022-09-08T09:31:40Z",
       "identifier" : "release-fme-2022.1.2,22627",
       "title" : "New Release: FME Desktop 2022.1.2,22627"
+    },
+    {
+      "appID" : "wireshark",
+      "caption" : "Wireshark updated from 3.6.7 to 3.6.8",
+      "date" : "2022-09-08T10:26:57Z",
+      "identifier" : "release-wireshark-3.6.8",
+      "title" : "New Release: Wireshark 3.6.8"
+    },
+    {
+      "appID" : "pichon",
+      "caption" : "Pichon updated from 1.0.13,18 to 1.1.1,21",
+      "date" : "2022-09-08T10:26:58Z",
+      "identifier" : "release-pichon-1.1.1,21",
+      "title" : "New Release: Pichon 1.1.1,21"
+    },
+    {
+      "appID" : "gog-galaxy",
+      "caption" : "GOG Galaxy updated from 2.0.53.99 to 2.0.54.22",
+      "date" : "2022-09-08T10:26:58Z",
+      "identifier" : "release-gog-galaxy-2.0.54.22",
+      "title" : "New Release: GOG Galaxy 2.0.54.22"
     }
   ],
   "platform" : "macos",

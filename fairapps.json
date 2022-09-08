@@ -112,10 +112,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 345,
+        "impressionCount" : 347,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 48,
+        "viewCount" : 49,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -164,10 +164,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4613,
+        "impressionCount" : 4615,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 732,
+        "viewCount" : 733,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -207,10 +207,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 29,
-        "impressionCount" : 168,
+        "impressionCount" : 170,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -256,10 +256,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 25,
-        "impressionCount" : 319,
+        "impressionCount" : 321,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 27,
+        "viewCount" : 28,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -302,10 +302,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3222,
+        "impressionCount" : 3223,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 246,
+        "viewCount" : 247,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -339,10 +339,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 22,
-        "impressionCount" : 123,
+        "impressionCount" : 124,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 10,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -414,10 +414,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3524,
+        "impressionCount" : 3525,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 587,
+        "viewCount" : 588,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -449,10 +449,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 20,
-        "impressionCount" : 119,
+        "impressionCount" : 122,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -496,10 +496,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 172,
+        "impressionCount" : 176,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -587,10 +587,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 418,
+        "impressionCount" : 420,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 33,
+        "viewCount" : 34,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -814,10 +814,10 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 302,
+        "impressionCount" : 304,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 13,
+        "viewCount" : 14,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -1008,10 +1008,10 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 4,
-        "impressionCount" : 261,
+        "impressionCount" : 262,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 18,
+        "viewCount" : 19,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1121,7 +1121,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2963,
+        "impressionCount" : 2964,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -1338,7 +1338,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 302,
+        "impressionCount" : 303,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -1377,7 +1377,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 330,
+        "impressionCount" : 331,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1546,7 +1546,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 306,
+        "impressionCount" : 307,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 29,
@@ -1585,7 +1585,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 414,
+        "impressionCount" : 415,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,

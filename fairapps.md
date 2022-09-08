@@ -33,7 +33,7 @@ tr:nth-child(even) {
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `22` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1031` | `91` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `22` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3530` | `588` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `20` | `2022-09-03T00:00:00Z` | `2.2 MB` | `126` | `12` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `19` | `2022-09-01T00:00:00Z` | `9.6 MB` | `179` | `20` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `19` | `2022-09-01T00:00:00Z` | `9.6 MB` | `180` | `20` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `19` | `2022-08-27T00:00:00Z` | `3.2 MB` | `137` | `14` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `18` | `2022-08-24T00:00:00Z` | `2.3 MB` | `422` | `35` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2230` | `138` | `0` | `0` |  |

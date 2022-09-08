@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 363,
-        "impressionCount" : 251,
+        "downloadCount" : 369,
+        "impressionCount" : 258,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 25,
+        "viewCount" : 27,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -112,10 +112,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 339,
+        "impressionCount" : 345,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 46,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4607,
+        "impressionCount" : 4613,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 732,
@@ -207,10 +207,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 29,
-        "impressionCount" : 160,
+        "impressionCount" : 168,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -256,10 +256,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 25,
-        "impressionCount" : 312,
+        "impressionCount" : 319,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 26,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -302,7 +302,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3217,
+        "impressionCount" : 3222,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 246,
@@ -339,10 +339,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 22,
-        "impressionCount" : 115,
+        "impressionCount" : 123,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -414,7 +414,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3518,
+        "impressionCount" : 3524,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 587,
@@ -449,10 +449,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 20,
-        "impressionCount" : 110,
+        "impressionCount" : 119,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 9,
+        "viewCount" : 11,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -496,10 +496,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 166,
+        "impressionCount" : 172,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 17,
+        "viewCount" : 19,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -549,10 +549,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 135,
+        "impressionCount" : 137,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 13,
+        "viewCount" : 14,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -587,10 +587,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 412,
+        "impressionCount" : 418,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 32,
+        "viewCount" : 33,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -814,10 +814,10 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 296,
+        "impressionCount" : 302,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -1008,10 +1008,10 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 4,
-        "impressionCount" : 257,
+        "impressionCount" : 261,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 17,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1121,7 +1121,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2959,
+        "impressionCount" : 2963,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -1338,10 +1338,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 298,
+        "impressionCount" : 302,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1377,7 +1377,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 326,
+        "impressionCount" : 330,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1430,7 +1430,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 133,
+        "impressionCount" : 134,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1546,10 +1546,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 304,
+        "impressionCount" : 306,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 28,
+        "viewCount" : 29,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1585,10 +1585,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 407,
+        "impressionCount" : 414,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 32,
+        "viewCount" : 34,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

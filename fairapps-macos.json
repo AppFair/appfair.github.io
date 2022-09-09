@@ -63,7 +63,7 @@
       "stats" : {
         "coreSize" : 170672,
         "downloadCount" : 373,
-        "impressionCount" : 261,
+        "impressionCount" : 264,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 27,
@@ -112,7 +112,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 45,
-        "impressionCount" : 353,
+        "impressionCount" : 355,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 50,
@@ -164,7 +164,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4622,
+        "impressionCount" : 4624,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 733,
@@ -206,8 +206,8 @@
       "size" : 2281682,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 29,
-        "impressionCount" : 174,
+        "downloadCount" : 32,
+        "impressionCount" : 177,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -256,7 +256,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 25,
-        "impressionCount" : 325,
+        "impressionCount" : 330,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 28,
@@ -267,6 +267,42 @@
       "version" : "0.3.59",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Fair-Skies.github.io/App",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
+      "localizedDescription" : "An app for weather bugs",
+      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Fair Skies",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "sha256" : "d8b76c8ee8380f0a28bdf3de6c6e812b22866f4a09e05d6e4b1071ebae1170e4",
+      "size" : 2583226,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 24,
+        "impressionCount" : 134,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 11,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for weather bugs",
+      "version" : "0.0.5",
+      "versionDate" : "2022-09-02T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
     },
     {
       "beta" : false,
@@ -302,7 +338,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3228,
+        "impressionCount" : 3230,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 247,
@@ -316,39 +352,38 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Fair-Skies",
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-macOS.zip",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "homepage" : "http://Fair-Skies.github.io/App",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
-      "localizedDescription" : "An app for weather bugs",
-      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Fair Skies",
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "d8b76c8ee8380f0a28bdf3de6c6e812b22866f4a09e05d6e4b1071ebae1170e4",
-      "size" : 2583226,
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "ec02755c6bb605791ca016cf0c3e4362fbcf65e6673e29da7c52fa92c874229f",
+      "size" : 2249611,
       "stats" : {
-        "coreSize" : 170240,
+        "coreSize" : 170176,
         "downloadCount" : 22,
-        "impressionCount" : 130,
+        "impressionCount" : 129,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
-      "subtitle" : "An app for weather bugs",
-      "version" : "0.0.5",
-      "versionDate" : "2022-09-02T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.72",
+      "versionDate" : "2022-09-03T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : true,
@@ -414,7 +449,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3530,
+        "impressionCount" : 3533,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 588,
@@ -424,41 +459,6 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T00:00:00Z",
       "versionDescription" : "Release 0.4.18"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "ec02755c6bb605791ca016cf0c3e4362fbcf65e6673e29da7c52fa92c874229f",
-      "size" : 2249611,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 20,
-        "impressionCount" : 126,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 12,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.72",
-      "versionDate" : "2022-09-03T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : false,
@@ -496,7 +496,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 19,
-        "impressionCount" : 180,
+        "impressionCount" : 184,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 20,
@@ -549,7 +549,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 137,
+        "impressionCount" : 138,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -587,7 +587,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 422,
+        "impressionCount" : 425,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -814,7 +814,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 307,
+        "impressionCount" : 311,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -1008,7 +1008,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 4,
-        "impressionCount" : 264,
+        "impressionCount" : 265,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1121,7 +1121,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2967,
+        "impressionCount" : 2968,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -1338,7 +1338,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 306,
+        "impressionCount" : 308,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 32,
@@ -1377,7 +1377,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 333,
+        "impressionCount" : 334,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1546,7 +1546,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 308,
+        "impressionCount" : 309,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 29,
@@ -1585,7 +1585,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 421,
+        "impressionCount" : 425,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,

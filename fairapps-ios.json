@@ -73,7 +73,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 44,
-        "impressionCount" : 182,
+        "impressionCount" : 184,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -110,7 +110,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 25,
-        "impressionCount" : 140,
+        "impressionCount" : 142,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -145,7 +145,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 21,
-        "impressionCount" : 136,
+        "impressionCount" : 138,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -420,10 +420,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 9,
-        "impressionCount" : 1660,
+        "impressionCount" : 1662,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 92,
+        "viewCount" : 93,
         "watcherCount" : 0
       },
       "subtitle" : "Identify ambient sounds.",
@@ -455,7 +455,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2972,
+        "impressionCount" : 2973,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -525,7 +525,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 6,
-        "impressionCount" : 2003,
+        "impressionCount" : 2005,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -560,10 +560,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 6,
-        "impressionCount" : 2230,
+        "impressionCount" : 2232,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 138,
+        "viewCount" : 139,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -644,7 +644,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1406,
+        "impressionCount" : 1407,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -679,7 +679,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 711,
+        "impressionCount" : 712,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -714,10 +714,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 5,
-        "impressionCount" : 653,
+        "impressionCount" : 654,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 55,
+        "viewCount" : 56,
         "watcherCount" : 0
       },
       "subtitle" : "Watch the Watchers",
@@ -750,10 +750,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1928,
+        "impressionCount" : 1929,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 43,
+        "viewCount" : 44,
         "watcherCount" : 0
       },
       "subtitle" : "Old-time horse trading",
@@ -786,7 +786,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 4,
-        "impressionCount" : 1053,
+        "impressionCount" : 1055,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -821,7 +821,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 4,
-        "impressionCount" : 656,
+        "impressionCount" : 657,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -903,7 +903,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 317,
+        "impressionCount" : 318,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -990,10 +990,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 3,
-        "impressionCount" : 627,
+        "impressionCount" : 628,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 39,
+        "viewCount" : 40,
         "watcherCount" : 0
       },
       "subtitle" : "Unleash your inner dialog",
@@ -1114,10 +1114,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 314,
+        "impressionCount" : 316,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 32,
+        "viewCount" : 33,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1149,10 +1149,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 432,
+        "impressionCount" : 434,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 35,
+        "viewCount" : 36,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1184,10 +1184,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 312,
+        "impressionCount" : 315,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 29,
+        "viewCount" : 30,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1219,7 +1219,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 433,
+        "impressionCount" : 434,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,
@@ -1254,7 +1254,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 338,
+        "impressionCount" : 339,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,

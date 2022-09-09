@@ -32,7 +32,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3236,
+        "impressionCount" : 3238,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 247,
@@ -43,47 +43,6 @@
       "version" : "0.0.20",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_02-iphone-750x1334.png"
-      ],
-      "sha256" : "6de6ba0b13a9ee5a8828d12082b317e148efdc77d647d076b077cf0e4d8bad69",
-      "size" : 5805787,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 44,
-        "impressionCount" : 184,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 13,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.275",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
     },
     {
       "beta" : false,
@@ -110,7 +69,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 25,
-        "impressionCount" : 142,
+        "impressionCount" : 144,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -144,8 +103,8 @@
       "size" : 5724211,
       "stats" : {
         "coreSize" : 170176,
-        "downloadCount" : 21,
-        "impressionCount" : 138,
+        "downloadCount" : 23,
+        "impressionCount" : 141,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -237,7 +196,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 16,
-        "impressionCount" : 142,
+        "impressionCount" : 143,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -281,10 +240,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 9,
-        "impressionCount" : 188,
+        "impressionCount" : 193,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 20,
+        "viewCount" : 21,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -455,7 +414,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2973,
+        "impressionCount" : 2974,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -833,45 +792,49 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.281/Cloud-Cuckoo-iOS.ipa",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Bon-Mot-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.281/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.281/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
       "permissions" : [
-
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        }
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.281/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.281/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.281/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.281/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "2a1865a90bb24245b8ccaa609d9a40b58754f4962bcefab2c7e0c2cb9b0eeb92",
-      "size" : 5805790,
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "sha256" : "0d89ba6fb110ce14196406698550f1507b601911b586384851ff2981457e07d2",
+      "size" : 5774356,
       "stats" : {
-        "coreSize" : 102400,
+        "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 1,
+        "impressionCount" : 7,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.281",
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.45",
       "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.280...0.9.281"
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.44...0.2.45"
     },
     {
       "beta" : false,
@@ -903,7 +866,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 318,
+        "impressionCount" : 321,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -954,10 +917,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 3,
-        "impressionCount" : 336,
+        "impressionCount" : 341,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 28,
+        "viewCount" : 29,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1002,49 +965,45 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Bon-Mot-iOS.ipa",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.283/Cloud-Cuckoo-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.283/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.283/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
       "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        }
+
       ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "sha256" : "0d89ba6fb110ce14196406698550f1507b601911b586384851ff2981457e07d2",
-      "size" : 5774356,
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.283/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.283/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.283/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.283/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "ecf393bb6b247545bf7db82d2d5710f9baa286d9d12adc2f5e2fd72b19ac8651",
+      "size" : 5805773,
       "stats" : {
-        "coreSize" : 170240,
+        "coreSize" : 102400,
         "downloadCount" : 2,
-        "impressionCount" : 5,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
         "watcherCount" : 0
       },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.45",
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.283",
       "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.44...0.2.45"
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.282...0.9.283"
     },
     {
       "beta" : false,
@@ -1079,7 +1038,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 270,
+        "impressionCount" : 273,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1114,7 +1073,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 316,
+        "impressionCount" : 318,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -1149,7 +1108,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 434,
+        "impressionCount" : 436,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1184,7 +1143,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 315,
+        "impressionCount" : 318,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1219,7 +1178,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 434,
+        "impressionCount" : 437,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,
@@ -1254,7 +1213,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 339,
+        "impressionCount" : 341,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,

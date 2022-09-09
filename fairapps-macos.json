@@ -62,11 +62,11 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 376,
-        "impressionCount" : 267,
+        "downloadCount" : 377,
+        "impressionCount" : 272,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 27,
+        "viewCount" : 29,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4632,
+        "impressionCount" : 4634,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 733,
@@ -126,49 +126,6 @@
       "version" : "0.1.7",
       "versionDate" : "2022-05-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.275/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "2578aeb660a40bd3c6029d48533956ed24ff0433b85c46a7e40617cf6d10bb17",
-      "size" : 2281682,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 32,
-        "impressionCount" : 184,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 13,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.275",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.274...0.9.275"
     },
     {
       "beta" : false,
@@ -206,11 +163,11 @@
       "size" : 4011787,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 25,
-        "impressionCount" : 336,
+        "downloadCount" : 26,
+        "impressionCount" : 341,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 28,
+        "viewCount" : 29,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -243,8 +200,8 @@
       "size" : 2583226,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 24,
-        "impressionCount" : 142,
+        "downloadCount" : 25,
+        "impressionCount" : 144,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -289,7 +246,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3236,
+        "impressionCount" : 3238,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 247,
@@ -300,6 +257,41 @@
       "version" : "0.0.20",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "ec02755c6bb605791ca016cf0c3e4362fbcf65e6673e29da7c52fa92c874229f",
+      "size" : 2249611,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 23,
+        "impressionCount" : 141,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 12,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.72",
+      "versionDate" : "2022-09-03T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : true,
@@ -337,41 +329,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "ec02755c6bb605791ca016cf0c3e4362fbcf65e6673e29da7c52fa92c874229f",
-      "size" : 2249611,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 22,
-        "impressionCount" : 138,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 12,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.72",
-      "versionDate" : "2022-09-03T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
       "categories" : [
 
@@ -400,7 +357,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3540,
+        "impressionCount" : 3541,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 588,
@@ -446,11 +403,11 @@
       "size" : 9641013,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 19,
-        "impressionCount" : 188,
+        "downloadCount" : 20,
+        "impressionCount" : 193,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 20,
+        "viewCount" : 21,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -500,7 +457,7 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 19,
-        "impressionCount" : 142,
+        "impressionCount" : 143,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -538,7 +495,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 434,
+        "impressionCount" : 436,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -765,7 +722,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 318,
+        "impressionCount" : 321,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -959,7 +916,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 4,
-        "impressionCount" : 270,
+        "impressionCount" : 273,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1072,7 +1029,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2973,
+        "impressionCount" : 2974,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -1267,6 +1224,55 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Bon-Mot-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "screenshotURLs" : [
+        "https://github.com/Bon-Mot/App/releases/download/0.2.45/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.2.45/screenshot_01-mac-light-mac-2024x1124.png"
+      ],
+      "sha256" : "53885da4018cd2d81b47730da31365b33c39bb279fb8348086141cc68c674a80",
+      "size" : 2275739,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 3,
+        "impressionCount" : 7,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.45",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.44...0.2.45"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
       "categories" : [
 
@@ -1289,7 +1295,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 316,
+        "impressionCount" : 318,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -1328,7 +1334,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 339,
+        "impressionCount" : 341,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1381,7 +1387,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 135,
+        "impressionCount" : 136,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1426,55 +1432,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Bon-Mot-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.45/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.45/screenshot_01-mac-dark-mac-2024x1124.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.2.45/screenshot_01-mac-light-mac-2024x1124.png"
-      ],
-      "sha256" : "53885da4018cd2d81b47730da31365b33c39bb279fb8348086141cc68c674a80",
-      "size" : 2275739,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 2,
-        "impressionCount" : 5,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.45",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.44...0.2.45"
     },
     {
       "beta" : true,
@@ -1546,7 +1503,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 315,
+        "impressionCount" : 318,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1585,7 +1542,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 434,
+        "impressionCount" : 437,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,

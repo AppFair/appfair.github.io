@@ -592,7 +592,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 254,
-        "impressionCount" : 5312,
+        "impressionCount" : 5313,
         "viewCount" : 449
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -620,7 +620,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 163,
-        "impressionCount" : 3627,
+        "impressionCount" : 3628,
         "viewCount" : 315
       },
       "subtitle" : "File synchronizer",
@@ -1640,13 +1640,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.tableplus.com/macos/436/TablePlus.dmg",
+      "downloadURL" : "https://download.tableplus.com/macos/446/TablePlus.dmg",
       "homepage" : "https://tableplus.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tableplus/AppIcon.png",
       "localizedDescription" : "Native GUI tool for relational databases",
       "name" : "TablePlus",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tableplus/README.md",
-      "sha256" : "d3ed1c3f315ed873bcdff77f8db971fd90aae6be32d43bf9774e14f80b6916a1",
+      "sha256" : "c38f2d37b51de517202dc56c0264d43c5d5bf08f83722ede04cf14ac10c7cd9f",
       "stats" : {
         "downloadCount" : 1239,
         "impressionCount" : 2687,
@@ -1654,8 +1654,8 @@
       },
       "subtitle" : "Native GUI tool for relational databases",
       "tintColor" : "FBE0A3",
-      "version" : "4.8.2,436",
-      "versionDate" : "2022-07-25T00:00:00Z"
+      "version" : "4.8.6,446",
+      "versionDate" : "2022-09-09T03:42:24Z"
     },
     {
       "beta" : false,
@@ -2127,7 +2127,7 @@
       "sha256" : "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
       "stats" : {
         "downloadCount" : 463,
-        "impressionCount" : 1684,
+        "impressionCount" : 1685,
         "viewCount" : 76
       },
       "subtitle" : "Screen capture tool with mark up and sharing features",
@@ -2422,7 +2422,7 @@
       "sha256" : "6fddac774e99719e20cea5ec624352535139bc1e1a4e7e45fca06bdef5148e73",
       "stats" : {
         "downloadCount" : 154,
-        "impressionCount" : 1754,
+        "impressionCount" : 1755,
         "viewCount" : 101
       },
       "subtitle" : "Scheduling application focusing on organization",
@@ -3191,19 +3191,19 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "downloadURL" : "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-105.0.1343.27.pkg",
+      "downloadURL" : "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-105.0.1343.33.pkg",
       "homepage" : "https://www.microsoft.com/edge",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-microsoft-edge/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "Microsoft Edge",
-      "sha256" : "93645c023646cbbae429fd270d028fc43a6e804579dd0f0fdae3dcdc0e898de4",
+      "sha256" : "951d7337f1d9b45d8eda2434d31afd9b4b9027f8fbca53a21f4d9f3f374e74f1",
       "stats" : {
         "downloadCount" : 3522,
         "impressionCount" : 765
       },
       "subtitle" : "Web browser",
-      "version" : "105.0.1343.27",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "105.0.1343.33",
+      "versionDate" : "2022-09-09T03:42:24Z"
     },
     {
       "beta" : false,
@@ -3473,7 +3473,7 @@
       "sha256" : "5a71b8c859fbfdbcfc2df1a2a40824e28e12b0b41ff8929fa0b3bcbd24f00774",
       "stats" : {
         "downloadCount" : 2194,
-        "impressionCount" : 669
+        "impressionCount" : 670
       },
       "subtitle" : "Visual tool to design, develop and administer MySQL servers",
       "tintColor" : "346083",
@@ -3616,7 +3616,7 @@
       "sha256" : "91254db5426a2127efd024a662815209e175a532e609fb1b0d3da3d92e1416ca",
       "stats" : {
         "downloadCount" : 1656,
-        "impressionCount" : 836
+        "impressionCount" : 837
       },
       "subtitle" : "Explore and manipulate your MongoDB data",
       "tintColor" : "D5EADD",
@@ -3792,20 +3792,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/facebook/flipper/releases/download/v0.162.0/Flipper-mac.dmg",
+      "downloadURL" : "https://github.com/facebook/flipper/releases/download/v0.163.0/Flipper-mac.dmg",
       "homepage" : "https://fbflipper.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flipper/AppIcon.png",
       "localizedDescription" : "Desktop debugging platform for mobile developers",
       "name" : "Facebook Flipper",
-      "sha256" : "7e117084853f12e972aedf24b1554bfe61b89f8b58124fe2ab8710f7db6ec21b",
+      "sha256" : "4fb81451980a54d41d1691639c192a14e9cd5c9bae31c36a2c20c70c4d6f4c8f",
       "stats" : {
         "downloadCount" : 1371,
         "impressionCount" : 907
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
       "tintColor" : "8E76B6",
-      "version" : "0.162.0",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "0.163.0",
+      "versionDate" : "2022-09-09T03:42:24Z"
     },
     {
       "beta" : false,
@@ -4556,20 +4556,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://release.axocdn.com/darwin/GitKraken-v8.8.0.zip",
+      "downloadURL" : "https://release.axocdn.com/darwin/GitKraken-v8.9.0.zip",
       "homepage" : "https://www.gitkraken.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-gitkraken/AppIcon.png",
       "localizedDescription" : "Git client focusing on productivity",
       "name" : "GitKraken",
-      "sha256" : "a7b1762ede268e49ae93d5377d7711d7c7bc88c1a592bd7da8117b6f8bfa79c4",
+      "sha256" : "720093d151d3aa4b58d2addcb74e86677c172cc3137108f67452fe5a70f0ef6c",
       "stats" : {
         "downloadCount" : 742,
-        "impressionCount" : 709
+        "impressionCount" : 710
       },
       "subtitle" : "Git client focusing on productivity",
       "tintColor" : "23454B",
-      "version" : "8.8.0",
-      "versionDate" : "2022-08-11T00:00:00Z"
+      "version" : "8.9.0",
+      "versionDate" : "2022-09-09T03:42:24Z"
     },
     {
       "beta" : false,
@@ -15277,7 +15277,7 @@
       "sha256" : "874706f6f5c3b5bf55c9047c46fb9442eae2acff61ce9bdae3cf7f418fab0ad0",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 395
+        "impressionCount" : 396
       },
       "subtitle" : "Disk space cleaner that finds and deletes duplicated and similar files",
       "tintColor" : "AED1F1",
@@ -20961,20 +20961,20 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://github.com/h3poteto/whalebird-desktop/releases/download/4.6.3/Whalebird-4.6.3-darwin-universal.dmg",
+      "downloadURL" : "https://github.com/h3poteto/whalebird-desktop/releases/download/4.6.5/Whalebird-4.6.5-darwin-universal.dmg",
       "homepage" : "https://whalebird.social/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whalebird/AppIcon.png",
       "localizedDescription" : "Mastodon, Pleroma and Misskey client",
       "name" : "Whalebird",
-      "sha256" : "0f3b6f570ec80df2ca708655e33f4d6dc431f5ecd3d197baef66bd3500dfb494",
+      "sha256" : "a6b3e750f95e94926b309c499836a5ad21d3551989ba18d090d814bd028bc769",
       "stats" : {
         "downloadCount" : 15,
         "impressionCount" : 392
       },
       "subtitle" : "Mastodon, Pleroma and Misskey client",
       "tintColor" : "B4DCEA",
-      "version" : "4.6.3",
-      "versionDate" : "2022-08-14T00:00:00Z"
+      "version" : "4.6.5",
+      "versionDate" : "2022-09-09T03:42:24Z"
     },
     {
       "beta" : false,
@@ -28594,7 +28594,7 @@
       "name" : "PhotoSweeper X",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 848
+        "impressionCount" : 849
       },
       "subtitle" : "Tool to eliminate similar or duplicate photos",
       "tintColor" : "8A7A5F",
@@ -32145,7 +32145,7 @@
       "sha256" : "e6a0472e35d04cf719e8841c813ff0e155550ab47d2e05c3a426a6815f05fbc2",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 114
+        "impressionCount" : 115
       },
       "tintColor" : "57A5C6",
       "version" : "1.1.1"
@@ -46235,20 +46235,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/Nheko-Reborn/nheko/releases/download/v0.10.0/nheko-v0.10.0.dmg",
+      "downloadURL" : "https://github.com/Nheko-Reborn/nheko/releases/download/v0.10.1/nheko-v0.10.1.dmg",
       "homepage" : "https://nheko-reborn.github.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-nheko/AppIcon.png",
       "localizedDescription" : "Desktop client for the Matrix protocol",
       "name" : "Nheko",
-      "sha256" : "b7b7af96f6feb9e25986d9ade0aace797bf605957cfdf638be3e06026a02476c",
+      "sha256" : "e7f3822c49164b319fae9b346cfdae270b26604fd98801760b638d81a0de2c0c",
       "stats" : {
         "downloadCount" : 33,
         "impressionCount" : 112
       },
       "subtitle" : "Desktop client for the Matrix protocol",
       "tintColor" : "54575A",
-      "version" : "0.10.0",
-      "versionDate" : "2022-07-23T00:00:00Z"
+      "version" : "0.10.1",
+      "versionDate" : "2022-09-09T03:42:24Z"
     },
     {
       "beta" : false,
@@ -50190,20 +50190,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://bin.appgate-sdp.com/6.0/client/Appgate-SDP-6.0.1-Installer.dmg",
+      "downloadURL" : "https://bin.appgate-sdp.com/6.0/client/Appgate-SDP-6.0.2-Installer.dmg",
       "homepage" : "https://www.appgate.com/support/software-defined-perimeter-support",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-appgate-sdp-client/AppIcon.png",
       "localizedDescription" : "Software-defined perimeter for secure network access",
       "name" : "AppGate SDP Client for macOS",
-      "sha256" : "34f9308b099d03de611411741d9ead2e57d3cc1eca7f15c3aeff69ab2c783095",
+      "sha256" : "e052052094b5c92d94c74128bca3f1c90fef65b3bf441342d889a9b74ed58ac6",
       "stats" : {
         "downloadCount" : 12,
         "impressionCount" : 55
       },
       "subtitle" : "Software-defined perimeter for secure network access",
       "tintColor" : "D8914D",
-      "version" : "6.0.1",
-      "versionDate" : "2022-08-03T00:00:00Z"
+      "version" : "6.0.2",
+      "versionDate" : "2022-09-09T03:42:24Z"
     },
     {
       "beta" : false,
@@ -59328,17 +59328,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_3.3.0-stable.zip",
+      "downloadURL" : "https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_3.3.1-stable.zip",
       "homepage" : "https://flutter.dev/",
       "localizedDescription" : "UI toolkit for building applications for mobile, web and desktop",
       "name" : "Flutter SDK",
-      "sha256" : "f461df043b4a1b2dedcf31c11db5e5286b2b014804d2df445b85c6bb6ce0844b",
+      "sha256" : "e6c53c683082272feed6514fe003a793955935f3ea04485e1ccd44a05da1cc1e",
       "stats" : {
         "downloadCount" : 3454
       },
       "subtitle" : "UI toolkit for building applications for mobile, web and desktop",
-      "version" : "3.3.0",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "3.3.1",
+      "versionDate" : "2022-09-09T03:42:24Z"
     },
     {
       "beta" : false,
@@ -60428,17 +60428,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/pritunl/pritunl-client-electron/releases/download/1.3.3282.37/Pritunl.pkg.zip",
+      "downloadURL" : "https://github.com/pritunl/pritunl-client-electron/releases/download/1.3.3283.46/Pritunl.pkg.zip",
       "homepage" : "https://client.pritunl.com/",
       "localizedDescription" : "OpenVPN client",
       "name" : "Pritunl",
-      "sha256" : "97768949bc5d9ac8870e309c8a047ea120d2db9e264270883ee822616c130a18",
+      "sha256" : "0029b8b6fdad0dad3128c0c55625d214d3922215b356ff59183c647e554000b4",
       "stats" : {
         "downloadCount" : 400
       },
       "subtitle" : "OpenVPN client",
-      "version" : "1.3.3282.37",
-      "versionDate" : "2022-09-07T00:00:00Z"
+      "version" : "1.3.3283.46",
+      "versionDate" : "2022-09-09T03:42:24Z"
     },
     {
       "beta" : false,
@@ -72654,7 +72654,7 @@
       },
       "subtitle" : "Diagram and flowchart software",
       "version" : "5.80",
-      "versionDate" : "2022-09-09T01:22:09Z"
+      "versionDate" : "2022-09-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72861,7 +72861,7 @@
       },
       "subtitle" : "Write Python scripts to generate two-dimensional graphics",
       "version" : "3.128",
-      "versionDate" : "2022-09-09T01:22:09Z"
+      "versionDate" : "2022-09-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73682,7 +73682,7 @@
       },
       "subtitle" : "Professional RAW converter",
       "version" : "1.4.0d",
-      "versionDate" : "2022-09-09T01:22:09Z"
+      "versionDate" : "2022-09-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74256,62 +74256,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "owncloud",
-      "caption" : "ownCloud updated from 2.11.0.8354 to 2.11.1.8438",
-      "date" : "2022-09-06T18:27:51Z",
-      "identifier" : "release-owncloud-2.11.1.8438",
-      "title" : "New Release: ownCloud 2.11.1.8438"
-    },
-    {
-      "appID" : "digikam",
-      "caption" : "digiKam updated from 7.7.0 to 7.8.0",
-      "date" : "2022-09-06T18:27:51Z",
-      "identifier" : "release-digikam-7.8.0",
-      "title" : "New Release: digiKam 7.8.0"
-    },
-    {
-      "appID" : "sigil",
-      "caption" : "Sigil updated from 1.9.10 to 1.9.20",
-      "date" : "2022-09-06T18:27:51Z",
-      "identifier" : "release-sigil-1.9.20",
-      "title" : "New Release: Sigil 1.9.20"
-    },
-    {
-      "appID" : "codeql",
-      "caption" : "CodeQL updated from 2.10.3 to 2.10.4",
-      "date" : "2022-09-06T18:27:51Z",
-      "identifier" : "release-codeql-2.10.4",
-      "title" : "New Release: CodeQL 2.10.4"
-    },
-    {
-      "appID" : "yandex-disk",
-      "caption" : "Yandex.Disk updated from 3.2.19,2943 to 3.2.20,2954",
-      "date" : "2022-09-06T18:27:51Z",
-      "identifier" : "release-yandex-disk-3.2.20,2954",
-      "title" : "New Release: Yandex.Disk 3.2.20,2954"
-    },
-    {
-      "appID" : "fl-studio",
-      "caption" : "FL Studio updated from 20.9.2.2459 to 20.9.2.2670",
-      "date" : "2022-09-06T18:27:51Z",
-      "identifier" : "release-fl-studio-20.9.2.2670",
-      "title" : "New Release: FL Studio 20.9.2.2670"
-    },
-    {
-      "appID" : "sparkle",
-      "caption" : "Sparkle updated from 2.2.1 to 2.2.2",
-      "date" : "2022-09-06T18:27:51Z",
-      "identifier" : "release-sparkle-2.2.2",
-      "title" : "New Release: Sparkle 2.2.2"
-    },
-    {
-      "appID" : "tableau-public",
-      "caption" : "Tableau Public updated from 2022.2.0 to 2022.2.1",
-      "date" : "2022-09-06T18:27:51Z",
-      "identifier" : "release-tableau-public-2022.2.1",
-      "title" : "New Release: Tableau Public 2022.2.1"
-    },
-    {
       "appID" : "bluejeans",
       "caption" : "BlueJeans updated from 2.37.0.328 to 2.37.0.329",
       "date" : "2022-09-06T18:27:51Z",
@@ -74760,13 +74704,6 @@
       "title" : "New Release: Raycast 1.39.3"
     },
     {
-      "appID" : "pritunl",
-      "caption" : "Pritunl updated from 1.3.3281.66 to 1.3.3282.37",
-      "date" : "2022-09-07T22:29:11Z",
-      "identifier" : "release-pritunl-1.3.3282.37",
-      "title" : "New Release: Pritunl 1.3.3282.37"
-    },
-    {
       "appID" : "functionflip",
       "caption" : "FunctionFlip 2.2.4 released",
       "date" : "2022-09-08T01:15:47Z",
@@ -74954,6 +74891,69 @@
       "date" : "2022-09-09T01:22:10Z",
       "identifier" : "release-photoninja-1.4.0d",
       "title" : "New Release: Photo Ninja 1.4.0d"
+    },
+    {
+      "appID" : "tableplus",
+      "caption" : "TablePlus updated from 4.8.2,436 to 4.8.6,446",
+      "date" : "2022-09-09T03:42:25Z",
+      "identifier" : "release-tableplus-4.8.6,446",
+      "title" : "New Release: TablePlus 4.8.6,446"
+    },
+    {
+      "appID" : "microsoft-edge",
+      "caption" : "Microsoft Edge updated from 105.0.1343.27 to 105.0.1343.33",
+      "date" : "2022-09-09T03:42:25Z",
+      "identifier" : "release-microsoft-edge-105.0.1343.33",
+      "title" : "New Release: Microsoft Edge 105.0.1343.33"
+    },
+    {
+      "appID" : "flipper",
+      "caption" : "Facebook Flipper updated from 0.162.0 to 0.163.0",
+      "date" : "2022-09-09T03:42:25Z",
+      "identifier" : "release-flipper-0.163.0",
+      "title" : "New Release: Facebook Flipper 0.163.0"
+    },
+    {
+      "appID" : "gitkraken",
+      "caption" : "GitKraken updated from 8.8.0 to 8.9.0",
+      "date" : "2022-09-09T03:42:26Z",
+      "identifier" : "release-gitkraken-8.9.0",
+      "title" : "New Release: GitKraken 8.9.0"
+    },
+    {
+      "appID" : "whalebird",
+      "caption" : "Whalebird updated from 4.6.3 to 4.6.5",
+      "date" : "2022-09-09T03:42:26Z",
+      "identifier" : "release-whalebird-4.6.5",
+      "title" : "New Release: Whalebird 4.6.5"
+    },
+    {
+      "appID" : "nheko",
+      "caption" : "Nheko updated from 0.10.0 to 0.10.1",
+      "date" : "2022-09-09T03:42:26Z",
+      "identifier" : "release-nheko-0.10.1",
+      "title" : "New Release: Nheko 0.10.1"
+    },
+    {
+      "appID" : "appgate-sdp-client",
+      "caption" : "AppGate SDP Client for macOS updated from 6.0.1 to 6.0.2",
+      "date" : "2022-09-09T03:42:26Z",
+      "identifier" : "release-appgate-sdp-client-6.0.2",
+      "title" : "New Release: AppGate SDP Client for macOS 6.0.2"
+    },
+    {
+      "appID" : "flutter",
+      "caption" : "Flutter SDK updated from 3.3.0 to 3.3.1",
+      "date" : "2022-09-09T03:42:26Z",
+      "identifier" : "release-flutter-3.3.1",
+      "title" : "New Release: Flutter SDK 3.3.1"
+    },
+    {
+      "appID" : "pritunl",
+      "caption" : "Pritunl updated from 1.3.3282.37 to 1.3.3283.46",
+      "date" : "2022-09-09T03:42:27Z",
+      "identifier" : "release-pritunl-1.3.3283.46",
+      "title" : "New Release: Pritunl 1.3.3283.46"
     }
   ],
   "platform" : "macos",

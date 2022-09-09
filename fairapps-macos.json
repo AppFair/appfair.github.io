@@ -115,7 +115,7 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4629,
+        "impressionCount" : 4632,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 733,
@@ -158,7 +158,7 @@
       "stats" : {
         "coreSize" : 102400,
         "downloadCount" : 32,
-        "impressionCount" : 182,
+        "impressionCount" : 184,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 13,
@@ -244,7 +244,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 24,
-        "impressionCount" : 140,
+        "impressionCount" : 142,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -302,6 +302,40 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.App-Title",
+      "categories" : [
+
+      ],
+      "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
+      "downloadURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title.png",
+      "localizedDescription" : "A very useful app indeed",
+      "metadataURL" : "https://github.com/App-Title/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "App Title",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/App-Title/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "cdee27f9a4108574041b293ae1483bd748186d61b74cb165f1e60a7b921a6f45",
+      "size" : 2443924,
+      "stats" : {
+        "coreSize" : 170128,
+        "downloadCount" : 23,
+        "impressionCount" : 1034,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 92,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A very useful app indeed",
+      "version" : "0.0.1",
+      "versionDate" : "2022-05-19T00:00:00Z"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "categories" : [
@@ -325,7 +359,7 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 22,
-        "impressionCount" : 136,
+        "impressionCount" : 138,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 12,
@@ -335,40 +369,6 @@
       "version" : "0.1.72",
       "versionDate" : "2022-09-03T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.App-Title",
-      "categories" : [
-
-      ],
-      "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
-      "downloadURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title.png",
-      "localizedDescription" : "A very useful app indeed",
-      "metadataURL" : "https://github.com/App-Title/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "App Title",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/App-Title/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "cdee27f9a4108574041b293ae1483bd748186d61b74cb165f1e60a7b921a6f45",
-      "size" : 2443924,
-      "stats" : {
-        "coreSize" : 170128,
-        "downloadCount" : 22,
-        "impressionCount" : 1031,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 91,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A very useful app indeed",
-      "version" : "0.0.1",
-      "versionDate" : "2022-05-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -400,7 +400,7 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3538,
+        "impressionCount" : 3540,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 588,
@@ -538,10 +538,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 432,
+        "impressionCount" : 434,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 35,
+        "viewCount" : 36,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -577,10 +577,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 11,
-        "impressionCount" : 2230,
+        "impressionCount" : 2232,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 138,
+        "viewCount" : 139,
         "watcherCount" : 0
       },
       "subtitle" : "An urban street guide",
@@ -613,7 +613,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 9,
-        "impressionCount" : 43,
+        "impressionCount" : 45,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -651,7 +651,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 9,
-        "impressionCount" : 2003,
+        "impressionCount" : 2005,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -690,10 +690,10 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
-        "impressionCount" : 607,
+        "impressionCount" : 608,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 72,
+        "viewCount" : 73,
         "watcherCount" : 0
       },
       "subtitle" : "UX Design Tool",
@@ -725,7 +725,7 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 8,
-        "impressionCount" : 782,
+        "impressionCount" : 784,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -765,7 +765,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 317,
+        "impressionCount" : 318,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -804,7 +804,7 @@
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 7,
-        "impressionCount" : 821,
+        "impressionCount" : 822,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -842,10 +842,10 @@
       "stats" : {
         "coreSize" : 68344,
         "downloadCount" : 7,
-        "impressionCount" : 1660,
+        "impressionCount" : 1662,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 92,
+        "viewCount" : 93,
         "watcherCount" : 0
       },
       "subtitle" : "Identify ambient sounds.",
@@ -881,7 +881,7 @@
       "stats" : {
         "coreSize" : 102472,
         "downloadCount" : 5,
-        "impressionCount" : 1406,
+        "impressionCount" : 1407,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -916,10 +916,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 5,
-        "impressionCount" : 1201,
+        "impressionCount" : 1203,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 99,
+        "viewCount" : 100,
         "watcherCount" : 0
       },
       "subtitle" : "A simple little app to demonstrate the App Fair",
@@ -997,10 +997,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 1928,
+        "impressionCount" : 1929,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 43,
+        "viewCount" : 44,
         "watcherCount" : 0
       },
       "subtitle" : "Old-time horse trading",
@@ -1033,10 +1033,10 @@
       "stats" : {
         "coreSize" : 152608,
         "downloadCount" : 4,
-        "impressionCount" : 1070,
+        "impressionCount" : 1071,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 59,
+        "viewCount" : 60,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
@@ -1072,7 +1072,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2972,
+        "impressionCount" : 2973,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -1111,7 +1111,7 @@
       "stats" : {
         "coreSize" : 152640,
         "downloadCount" : 4,
-        "impressionCount" : 1213,
+        "impressionCount" : 1214,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -1152,7 +1152,7 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 711,
+        "impressionCount" : 712,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -1191,10 +1191,10 @@
       "stats" : {
         "coreSize" : 68360,
         "downloadCount" : 4,
-        "impressionCount" : 653,
+        "impressionCount" : 654,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 55,
+        "viewCount" : 56,
         "watcherCount" : 0
       },
       "subtitle" : "Watch the Watchers",
@@ -1254,7 +1254,7 @@
       "stats" : {
         "coreSize" : 153232,
         "downloadCount" : 4,
-        "impressionCount" : 331,
+        "impressionCount" : 332,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -1289,10 +1289,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 314,
+        "impressionCount" : 316,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 32,
+        "viewCount" : 33,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1328,7 +1328,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 338,
+        "impressionCount" : 339,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1416,7 +1416,7 @@
       "stats" : {
         "coreSize" : 68368,
         "downloadCount" : 3,
-        "impressionCount" : 656,
+        "impressionCount" : 657,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1546,10 +1546,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 312,
+        "impressionCount" : 315,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 29,
+        "viewCount" : 30,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1585,7 +1585,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 433,
+        "impressionCount" : 434,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,
@@ -1620,10 +1620,10 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 2,
-        "impressionCount" : 627,
+        "impressionCount" : 628,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 39,
+        "viewCount" : 40,
         "watcherCount" : 0
       },
       "subtitle" : "Unleash your inner dialog",
@@ -1659,7 +1659,7 @@
       "stats" : {
         "coreSize" : 102480,
         "downloadCount" : 1,
-        "impressionCount" : 1053,
+        "impressionCount" : 1055,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,

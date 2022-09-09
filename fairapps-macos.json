@@ -62,8 +62,8 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 380,
-        "impressionCount" : 274,
+        "downloadCount" : 381,
+        "impressionCount" : 275,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 29,
@@ -115,10 +115,10 @@
       "stats" : {
         "coreSize" : 170576,
         "downloadCount" : 40,
-        "impressionCount" : 4635,
+        "impressionCount" : 4637,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 733,
+        "viewCount" : 734,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -164,10 +164,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 26,
-        "impressionCount" : 342,
+        "impressionCount" : 344,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 29,
+        "viewCount" : 30,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -201,10 +201,10 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 25,
-        "impressionCount" : 145,
+        "impressionCount" : 149,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -246,10 +246,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 24,
-        "impressionCount" : 3239,
+        "impressionCount" : 3241,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 247,
+        "viewCount" : 248,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -282,10 +282,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 23,
-        "impressionCount" : 142,
+        "impressionCount" : 144,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -357,10 +357,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3543,
+        "impressionCount" : 3544,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 588,
+        "viewCount" : 589,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -404,10 +404,10 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 20,
-        "impressionCount" : 194,
+        "impressionCount" : 195,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 21,
+        "viewCount" : 22,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -495,7 +495,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 18,
-        "impressionCount" : 438,
+        "impressionCount" : 439,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -722,7 +722,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 7,
-        "impressionCount" : 322,
+        "impressionCount" : 324,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -951,7 +951,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 4,
-        "impressionCount" : 274,
+        "impressionCount" : 275,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1029,7 +1029,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 4,
-        "impressionCount" : 2975,
+        "impressionCount" : 2976,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 167,
@@ -1259,7 +1259,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 3,
-        "impressionCount" : 8,
+        "impressionCount" : 9,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -1295,7 +1295,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 320,
+        "impressionCount" : 322,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -1334,7 +1334,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 3,
-        "impressionCount" : 342,
+        "impressionCount" : 343,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1464,7 +1464,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 2,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 1,
@@ -1546,7 +1546,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 319,
+        "impressionCount" : 320,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1585,7 +1585,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 439,
+        "impressionCount" : 442,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,

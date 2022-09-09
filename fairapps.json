@@ -1434,6 +1434,49 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.286/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.286/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.286/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.286/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.286/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.286/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.286/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.286/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.286/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "8bd365429607094ce44728cf531ce7fa8ede250e1cb3e520666e4d4ca90813bc",
+      "size" : 2281682,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.286",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.285...0.9.286"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
@@ -1670,13 +1713,6 @@
       "title" : "New Release: App Fair 0.8.113"
     },
     {
-      "appID" : "app.Cloud-Cuckoo",
-      "caption" : "Cloud Cuckoo updated from 0.9.274 to 0.9.275",
-      "date" : "2022-09-01T19:02:47Z",
-      "identifier" : "release-app.Cloud-Cuckoo-0.9.275",
-      "title" : "New Release: Cloud Cuckoo 0.9.275"
-    },
-    {
       "appID" : "app.Tune-Out",
       "caption" : "Tune Out updated from 0.8.456 to 0.8.458",
       "date" : "2022-09-01T20:20:44Z",
@@ -1703,6 +1739,13 @@
       "date" : "2022-09-09T03:24:45Z",
       "identifier" : "release-app.Bon-Mot-0.2.45",
       "title" : "New Release: Bon Mot 0.2.45"
+    },
+    {
+      "appID" : "app.Cloud-Cuckoo",
+      "caption" : "Cloud Cuckoo 0.9.286 released",
+      "date" : "2022-09-09T12:59:31Z",
+      "identifier" : "release-app.Cloud-Cuckoo-0.9.286",
+      "title" : "New Release: Cloud Cuckoo 0.9.286"
     }
   ],
   "platform" : "macos"

@@ -331,7 +331,7 @@
       "subtitle" : "File archiver",
       "tintColor" : "8E7568",
       "version" : "1.2.56",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1482,7 +1482,7 @@
       "subtitle" : "Kubernetes IDE",
       "tintColor" : "7EB5DD",
       "version" : "6.0.2,20220908.1",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1611,7 +1611,7 @@
       "subtitle" : "Native GUI tool for relational databases",
       "tintColor" : "FBE0A3",
       "version" : "4.8.7,448",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1634,7 +1634,7 @@
       "subtitle" : "Customizable email client",
       "tintColor" : "B0C3DC",
       "version" : "102.2.2",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2497,7 +2497,7 @@
       "subtitle" : "Automation software",
       "tintColor" : "CCCCCE",
       "version" : "10.2,1020",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3145,7 +3145,7 @@
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
       "version" : "1.0.61,520",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3377,7 +3377,7 @@
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
       "version" : "1.25,1.25.12999",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3439,7 +3439,7 @@
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
       "version" : "116.3.7",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3496,12 +3496,12 @@
       "sha256" : "a7dee2427b341ed14a1d6f746ffec6e6388e5e31573289ce76124f2dbb64f1c4",
       "stats" : {
         "downloadCount" : 2032,
-        "impressionCount" : 1137
+        "impressionCount" : 1138
       },
       "subtitle" : "Draw.io is free online diagram software",
       "tintColor" : "EC9B45",
       "version" : "20.3.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3985,7 +3985,7 @@
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
       "version" : "3.872,2025",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4006,7 +4006,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
       "version" : "104.0.2,1,9f8faa99b69c350c56e8cb3b427c2d1b",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5645,7 +5645,7 @@
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
       "version" : "6.0.4",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5665,7 +5665,7 @@
       "subtitle" : "Calling and messaging application focusing on security",
       "tintColor" : "8E7FF3",
       "version" : "18.4.0,1846",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6415,7 +6415,7 @@
       "subtitle" : "Photo viewer, image manager, image resizer and more",
       "tintColor" : "D56402",
       "version" : "1.3.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6760,7 +6760,7 @@
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
       "version" : "20.1.3",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6801,7 +6801,7 @@
       "subtitle" : "Customizable timing of breaks",
       "tintColor" : "7BC09F",
       "version" : "2.9.1",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8025,7 +8025,7 @@
       "subtitle" : "Audio player",
       "tintColor" : "E3D1B1",
       "version" : "2688,37065adf",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8680,7 +8680,7 @@
       "subtitle" : "Free video downloader",
       "tintColor" : "AACE50",
       "version" : "4.21.4",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9091,7 +9091,7 @@
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
       "version" : "5.20.8,2c21b6",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9298,7 +9298,7 @@
       "subtitle" : "AirPods companion app",
       "tintColor" : "84C7F0",
       "version" : "2.5.5,581",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9477,7 +9477,7 @@
       "subtitle" : "Alternate version of the Opera web browser to complement gaming",
       "tintColor" : "EA214D",
       "version" : "90.0.4480.100",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9558,7 +9558,7 @@
       "subtitle" : "GUI based on Clash",
       "tintColor" : "BAC3D0",
       "version" : "0.20.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9697,7 +9697,7 @@
       "subtitle" : "Time tracking tool for agencies and freelancers",
       "tintColor" : "2BB1ED",
       "version" : "2.8.0,433",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9979,7 +9979,7 @@
       "subtitle" : "Desktop version of Remix web IDE used for Ethereum smart contract development",
       "tintColor" : "000000",
       "version" : "1.3.5",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10198,7 +10198,7 @@
       "subtitle" : "Desktop wallet for cryptocurrency assets",
       "tintColor" : "162763",
       "version" : "22.9.8",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10301,7 +10301,7 @@
       "subtitle" : "Colour picker for colours onscreen",
       "tintColor" : "B137C4",
       "version" : "0.0.13",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10445,7 +10445,7 @@
       "subtitle" : "Notetaking tool",
       "tintColor" : "6391B2",
       "version" : "4.0.2209060851",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11161,7 +11161,7 @@
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
       "version" : "5.17.12,23941e",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11838,7 +11838,7 @@
       "subtitle" : "Visual editors for data",
       "tintColor" : "9DA5A8",
       "version" : "12.5.5",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12180,7 +12180,7 @@
       "subtitle" : "File manager",
       "tintColor" : "73C2F1",
       "version" : "2138",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12343,7 +12343,7 @@
       "subtitle" : "Tool for teams to create living documents",
       "tintColor" : "F1BEB2",
       "version" : "7.68.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12650,19 +12650,19 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://github.com/typcn/bilibili-mac-client/releases/download/2.56/Bilibili.dmg",
-      "homepage" : "https://github.com/typcn/bilibili-mac-client/",
+      "downloadURL" : "https://dl.hdslb.com/mobile/fixed/pc_electron_mac/bili_mac.dmg",
+      "homepage" : "https://app.bilibili.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bilibili/AppIcon.png",
-      "localizedDescription" : "Unofficial bilibili client",
+      "localizedDescription" : "Official bilibili video streaming and sharing platform",
       "name" : "Bilibili",
-      "sha256" : "62784fa27396644337c5ee63d6e3ad32e3436aed7eb79009a306ef6100527452",
       "stats" : {
         "downloadCount" : 46,
         "impressionCount" : 745
       },
-      "subtitle" : "Unofficial bilibili client",
+      "subtitle" : "Official bilibili video streaming and sharing platform",
       "tintColor" : "F19BAD",
-      "version" : "2.56"
+      "version" : "1.6.0.1341",
+      "versionDate" : "2022-09-10T10:22:21Z"
     },
     {
       "beta" : false,
@@ -12793,7 +12793,7 @@
       "subtitle" : "Create, edit, convert and sign PDF documents",
       "tintColor" : "767A9A",
       "version" : "9.0.13",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12894,7 +12894,7 @@
       "subtitle" : "Extract text from images and other digital documents in seconds",
       "tintColor" : "6374FF",
       "version" : "1.8.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13666,7 +13666,7 @@
       "subtitle" : "Graphical configurator for Kaleidoscope-powered keyboards",
       "tintColor" : "FEB392",
       "version" : "0.11.1",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13687,7 +13687,7 @@
       "subtitle" : "Organize all your reference images in one place",
       "tintColor" : "60A6F4",
       "version" : "3.0,14",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13908,7 +13908,7 @@
       "subtitle" : "Share your work and ideas with video messages and screenshots",
       "tintColor" : "C7D1E3",
       "version" : "84.0.11",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14414,7 +14414,7 @@
       "subtitle" : "Connect to your Android devices",
       "tintColor" : "4DBC50",
       "version" : "1.6.1,131",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14694,7 +14694,7 @@
       "subtitle" : "App and website blocker",
       "tintColor" : "6AB869",
       "version" : "2.12.1,2055.1",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14905,7 +14905,7 @@
       "subtitle" : "Turn YouTube links into MP3 files",
       "tintColor" : "95B0FD",
       "version" : "4.6.4",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15149,20 +15149,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.remnote.io/RemNote-1.8.22.dmg",
+      "downloadURL" : "https://download.remnote.io/RemNote-1.8.24.dmg",
       "homepage" : "https://www.remnote.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-remnote/AppIcon.png",
       "localizedDescription" : "Spaced-repetition powered note-taking tool",
       "name" : "RemNote",
-      "sha256" : "7984799dea8bc21d1cd848ef9c0eb76145ee84adb709c727c7bf274cc9e7bfcf",
+      "sha256" : "110790e0f4c54183dd526812b7311c6b6a44a6cd09492ce45451c1245926e6dc",
       "stats" : {
         "downloadCount" : 32,
         "impressionCount" : 601
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
-      "version" : "1.8.22",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "1.8.24",
+      "versionDate" : "2022-09-10T10:22:21Z"
     },
     {
       "beta" : false,
@@ -15565,7 +15565,7 @@
       "subtitle" : "Tool to encrypt files and folders in various cloud storage services",
       "tintColor" : "3DAC62",
       "version" : "3.8.254",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16453,7 +16453,7 @@
       "subtitle" : "Visual communication platform",
       "tintColor" : "BCD8F2",
       "version" : "6.6.8,2331",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16615,7 +16615,7 @@
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
       "version" : "2.1.14",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17480,7 +17480,7 @@
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
       "version" : "0.7.69",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18370,7 +18370,7 @@
       "subtitle" : "Flow state app for productivity",
       "tintColor" : "D5DAD8",
       "version" : "5.0.1",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18549,7 +18549,7 @@
       "subtitle" : "Tool to simulate responsive designs on multiple devices",
       "tintColor" : "9271C5",
       "version" : "69.1.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18590,7 +18590,7 @@
       "subtitle" : "Automatic time and productivity tracking app",
       "tintColor" : "404556",
       "version" : "2022.5,345",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18691,7 +18691,7 @@
       "subtitle" : "Tool to remove unnecessary files and folders from disk Chinese edition",
       "tintColor" : "EDB8DB",
       "version" : "4.11.3,41103.0.2209061558",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19458,7 +19458,7 @@
       "subtitle" : "Call all Node.js modules directly from the DOM and Web Workers",
       "tintColor" : "454C5A",
       "version" : "0.68.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19558,7 +19558,7 @@
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
       "version" : "5.210.0.3997",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19579,7 +19579,7 @@
       "subtitle" : "Fantasy-themed turn-based strategy game",
       "tintColor" : "79715F",
       "version" : "1.16.6",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20317,7 +20317,7 @@
       "subtitle" : "Integrated development environment focused entirely on AppleScript",
       "tintColor" : "A98E8B",
       "version" : "8.0.5-8A61",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20864,7 +20864,7 @@
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
       "version" : "0.11.34",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20885,7 +20885,7 @@
       "subtitle" : "Indexer manager/proxy for various PVR apps",
       "tintColor" : "B5AB93",
       "version" : "0.4.5.1960",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20947,7 +20947,7 @@
       "subtitle" : "Font editor",
       "tintColor" : "34AEDA",
       "version" : "4.30.11",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21447,7 +21447,7 @@
       "subtitle" : "Remotely access your connected USB devices over the network",
       "tintColor" : "7C7C7C",
       "version" : "4.4.3",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21670,7 +21670,7 @@
       "subtitle" : "Font editor",
       "tintColor" : "88E0B7",
       "version" : "3.1.1,3135",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22510,7 +22510,7 @@
       "subtitle" : "Organize your ideas and projects into visual boards",
       "tintColor" : "8E8E92",
       "version" : "3.3.5",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23197,7 +23197,7 @@
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
       "version" : "1.91.0,stable.4,4675897",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23238,7 +23238,7 @@
       "subtitle" : "SQL query tool and SQL editor",
       "tintColor" : "A4B6C5",
       "version" : "10.0.8",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24261,7 +24261,7 @@
       "subtitle" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "tintColor" : "CBA87F",
       "version" : "22.2.2,220220",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24903,7 +24903,7 @@
       "subtitle" : "Create searchable and smaller PDF",
       "tintColor" : "D63737",
       "version" : "3.6-212",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25080,7 +25080,7 @@
       "subtitle" : "Use Touch Bar to switch apps",
       "tintColor" : "353535",
       "version" : "1.4.4,152",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25101,7 +25101,7 @@
       "subtitle" : "Cycling training system",
       "tintColor" : "E04D42",
       "version" : "2022.33.0.202",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25364,7 +25364,7 @@
       "subtitle" : "Code snippet organizer",
       "tintColor" : "75B5E2",
       "version" : "2.45.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25546,7 +25546,7 @@
       "subtitle" : "Deck tracker and deck manager for Hearthstone",
       "tintColor" : "34ACFD",
       "version" : "2.2.6",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -26249,7 +26249,7 @@
       "subtitle" : "Music streaming and sharing platform",
       "tintColor" : "852DBB",
       "version" : "1.3.3",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28573,7 +28573,7 @@
       "subtitle" : "Modern password manager",
       "tintColor" : "7BCDF8",
       "version" : "4.1.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28717,7 +28717,7 @@
       "subtitle" : "Easier access to Xcode Simulator functionality",
       "tintColor" : "6680BA",
       "version" : "2022.3,292",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28938,7 +28938,7 @@
       "subtitle" : "Zcash Light Wallet",
       "tintColor" : "A0ADB3",
       "version" : "1.8.8",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29098,7 +29098,7 @@
       "subtitle" : "Cross-platform Mind Mapping tool",
       "tintColor" : "6DC8E5",
       "version" : "1.32.0,b2585",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29866,7 +29866,7 @@
       "subtitle" : "Korean e-book store",
       "tintColor" : "DBBC95",
       "version" : "2.40.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30271,7 +30271,7 @@
       "subtitle" : "Personal knowledge-base app",
       "tintColor" : "D0D9F3",
       "version" : "0.7.8",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32331,7 +32331,7 @@
       "subtitle" : "Ebook creation software",
       "tintColor" : "B576AD",
       "version" : "3.3.4,33400",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34139,7 +34139,7 @@
       "subtitle" : "Application to install ubports on mobile devices",
       "tintColor" : "B44B28",
       "version" : "0.9.7-beta",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35332,7 +35332,7 @@
       "subtitle" : "Manage and play your media",
       "tintColor" : "90A8BB",
       "version" : "29.00.87",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35528,7 +35528,7 @@
       "subtitle" : "Manage all your tasks, files, and notes",
       "tintColor" : "47535E",
       "version" : "10,20220909",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36964,7 +36964,7 @@
       "subtitle" : "Classical music streaming app",
       "tintColor" : "161617",
       "version" : "1.4.4",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37411,7 +37411,7 @@
       "subtitle" : "Instant messaging platform",
       "tintColor" : "F6F6FB",
       "version" : "3.56.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39223,7 +39223,7 @@
       "subtitle" : "Automate printing and exporting from Adobe InDesign",
       "tintColor" : "B38A6E",
       "version" : "2.4.80",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40656,7 +40656,7 @@
       "subtitle" : "Programming language for technical computing",
       "tintColor" : "886459",
       "version" : "1.8.1",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40818,7 +40818,7 @@
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
       "version" : "3.6.8",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41039,7 +41039,7 @@
       "subtitle" : "IDE, client, and GUI for MongoDB",
       "tintColor" : "48BD85",
       "version" : "2022.8.1",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42703,7 +42703,7 @@
       "subtitle" : "Bridges Proton Mail to email clients supporting IMAP and SMTP protocols",
       "tintColor" : "999DC7",
       "version" : "2.3.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42801,20 +42801,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/DingTalk_v6.5.30.16.dmg",
+      "downloadURL" : "https://dtapp-pub.dingtalk.com/dingtalk-desktop/mac_dmg/Release/DingTalk_v6.5.40.24.dmg",
       "homepage" : "https://www.dingtalk.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dingtalk/AppIcon.png",
       "localizedDescription" : "Teamwork app by Alibaba Group",
       "name" : "DingTalk",
-      "sha256" : "7a664ef4b8940f7cee706ccbd67fe4cf537d6a7535a3cd92f1cd2fd445c5bb04",
+      "sha256" : "c297d8679dd84e570816ddb591bfd47750c1b4220d5decb12f7e22ff1a1a5be0",
       "stats" : {
         "downloadCount" : 106,
         "impressionCount" : 137
       },
       "subtitle" : "Teamwork app by Alibaba Group",
       "tintColor" : "4AADFB",
-      "version" : "6.5.30.16",
-      "versionDate" : "2022-07-29T00:00:00Z"
+      "version" : "6.5.40.24",
+      "versionDate" : "2022-09-10T10:22:21Z"
     },
     {
       "beta" : false,
@@ -43017,7 +43017,7 @@
       "subtitle" : "Wechat DevTools for Official Account and Mini Program development",
       "tintColor" : "E1E9E5",
       "version" : "1.06.2209070",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43966,7 +43966,7 @@
       "subtitle" : "Tools for the Mercurial distributed revision control system",
       "tintColor" : "425947",
       "version" : "6.2.2",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44508,7 +44508,7 @@
       "subtitle" : "Browser designed for modern work",
       "tintColor" : "EFDADC",
       "version" : "104.27.2.23780,ca1165a",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44729,7 +44729,7 @@
       "subtitle" : "Tool for programming amateur radio",
       "tintColor" : "9AB3B6",
       "version" : "20220909",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47606,7 +47606,7 @@
       "subtitle" : "Text editor",
       "tintColor" : "E0A12B",
       "version" : "13.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47830,7 +47830,7 @@
       "subtitle" : "File and photo tweaking tool",
       "tintColor" : "C1C4CE",
       "version" : "7.22",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47871,7 +47871,7 @@
       "subtitle" : "Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others",
       "tintColor" : "879493",
       "version" : "5.1.1",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48204,7 +48204,7 @@
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
       "version" : "10.18.1c",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48624,7 +48624,7 @@
       "subtitle" : "Helps keep your Craft tools up to date",
       "tintColor" : "72A5F1",
       "version" : "1.2.7,445",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52049,7 +52049,7 @@
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
       "version" : "6.2.1117",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52107,7 +52107,7 @@
       "subtitle" : "Use USB devices remotely over a network",
       "tintColor" : "5A9DD5",
       "version" : "5.3.9",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52246,7 +52246,7 @@
       "subtitle" : "Personal booru-style media tagger to organize your media",
       "tintColor" : "000000",
       "version" : "499",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54769,7 +54769,7 @@
       "subtitle" : "Asciidoc Editor and Toolchain to build books, documents and slides",
       "tintColor" : "8FBAA9",
       "version" : "1.7.8",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55066,7 +55066,7 @@
       "subtitle" : "Viewer for accessing Virtual Worlds",
       "tintColor" : "6C3016",
       "version" : "6.6.3.67470",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55245,7 +55245,7 @@
       "subtitle" : "Collection of patches applied to OpenTTD",
       "tintColor" : "B28846",
       "version" : "0.48.2",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56021,7 +56021,7 @@
       "subtitle" : "Browse, visualize and analyze geoscience data sets",
       "tintColor" : "6580A5",
       "version" : "3.6.15",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56393,7 +56393,8 @@
       },
       "subtitle" : "GPS tool to display, edit, enrich and convert routes, tracks and waypoints",
       "tintColor" : "648069",
-      "version" : "2.31.335"
+      "version" : "2.32.345",
+      "versionDate" : "2022-09-10T10:22:21Z"
     },
     {
       "beta" : false,
@@ -56569,7 +56570,7 @@
       "subtitle" : "Video downloader",
       "tintColor" : "3D8FC9",
       "version" : "2.8.2,595",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -58860,7 +58861,7 @@
       "subtitle" : "Lets you interact with your content live as you stream or record",
       "tintColor" : "C39955",
       "version" : "2.13.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60089,7 +60090,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.18,20220909102918",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60488,7 +60489,7 @@
       },
       "subtitle" : "Development environment, tooling platform and application framework",
       "version" : "15",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61278,7 +61279,7 @@
       },
       "subtitle" : "Share, organize and collaborate on designs",
       "version" : "4.3.6,1628",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61296,7 +61297,7 @@
       },
       "subtitle" : "System-wide audio equalizer",
       "version" : "1.6.2",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61313,7 +61314,7 @@
       },
       "subtitle" : "View, create, manipulate, print and manage files in Portable Document Format",
       "version" : "22.002.20212",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61433,7 +61434,7 @@
       },
       "subtitle" : "SalesForce CLI tools",
       "version" : "7.167.2",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61722,7 +61723,7 @@
       },
       "subtitle" : "Platform for 3D content",
       "version" : "2022.1.16f1,7321c9670bc2",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61810,7 +61811,7 @@
       },
       "subtitle" : "Command-line tool for Aptible Deploy, an audit-ready App Deployment Platform",
       "version" : "0.19.4,20220909184610,378",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -63590,7 +63591,7 @@
       },
       "subtitle" : "SSH tool, server management and remote desktop acceleration software",
       "version" : "3.9.6",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64404,7 +64405,7 @@
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
       "version" : "2022.3.2,2022-09-06-17-17",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66004,7 +66005,7 @@
       },
       "subtitle" : "Data Modeling for NoSQL databases, storage formats, REST APIs, and JSON in RDBMS",
       "version" : "6.5.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66749,7 +66750,7 @@
       },
       "subtitle" : "Design, animate, and prototype design tool from Facebook",
       "version" : "123.0.0.4.214,394456779",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67678,7 +67679,7 @@
       },
       "subtitle" : "Install PlasticSCM locally and join a Cloud Edition subscription",
       "version" : "11.0.16.7388",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -68603,7 +68604,7 @@
       "homepage" : "https://edu.kde.org/kstars/",
       "localizedDescription" : "Astronomy software",
       "name" : "KStars",
-      "sha256" : "2c4c72a39b6320c68341b42f0cce3a8cf28fde188e5184da40c5af127bd2be23",
+      "sha256" : "57b385e1d4dba46315b74e85566689bd1a69331be10c816b671c9d63c822c1b7",
       "stats" : {
         "downloadCount" : 6
       },
@@ -68997,7 +68998,7 @@
       },
       "subtitle" : "Filter and edit photos",
       "version" : "2022.4.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -70882,7 +70883,7 @@
       },
       "subtitle" : "Transcode and manipulate REDCODE RAW footage",
       "version" : "60.0.28",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -71864,7 +71865,7 @@
       },
       "subtitle" : "Time lapse editing, keyframing, grading and rendering",
       "version" : "6.1.2",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72174,7 +72175,7 @@
       },
       "subtitle" : "Reimplementation of Sonic 3 & Knuckles (requires original game)",
       "version" : "22.09.10.0",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72548,7 +72549,7 @@
       },
       "subtitle" : "Invoices, estimates, quotes and time-tracking",
       "version" : "1.7.19,37903",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73683,7 +73684,7 @@
       },
       "subtitle" : "Digital Asset Management",
       "version" : "7.3.0.4500",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74283,7 +74284,7 @@
       },
       "subtitle" : "Personal flight tracker",
       "version" : "1.3.11,38073fe6",
-      "versionDate" : "2022-09-10T09:23:02Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     }
   ],
   "fundingSources" : [
@@ -74292,34 +74293,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "clash-for-windows",
-      "caption" : "Clash for Windows updated from 0.19.29 to 0.20.0",
-      "date" : "2022-09-10T09:23:07Z",
-      "identifier" : "release-clash-for-windows-0.20.0",
-      "title" : "New Release: Clash for Windows 0.20.0"
-    },
-    {
-      "appID" : "clockify",
-      "caption" : "Clockify updated from 2.7.19,427 to 2.8.0,433",
-      "date" : "2022-09-10T09:23:07Z",
-      "identifier" : "release-clockify-2.8.0,433",
-      "title" : "New Release: Clockify 2.8.0,433"
-    },
-    {
-      "appID" : "remix-ide",
-      "caption" : "Remix IDE desktop updated from 1.3.4 to 1.3.5",
-      "date" : "2022-09-10T09:23:07Z",
-      "identifier" : "release-remix-ide-1.3.5",
-      "title" : "New Release: Remix IDE desktop 1.3.5"
-    },
-    {
-      "appID" : "exodus",
-      "caption" : "Exodus updated from 22.8.26 to 22.9.8",
-      "date" : "2022-09-10T09:23:07Z",
-      "identifier" : "release-exodus-22.9.8",
-      "title" : "New Release: Exodus 22.9.8"
-    },
     {
       "appID" : "pika",
       "caption" : "Pika updated from 0.0.12 to 0.0.13",
@@ -74991,6 +74964,34 @@
       "date" : "2022-09-10T09:23:23Z",
       "identifier" : "release-volanta-1.3.11,38073fe6",
       "title" : "New Release: Volanta 1.3.11,38073fe6"
+    },
+    {
+      "appID" : "bilibili",
+      "caption" : "Bilibili updated from 2.56 to 1.6.0.1341",
+      "date" : "2022-09-10T10:22:22Z",
+      "identifier" : "release-bilibili-1.6.0.1341",
+      "title" : "New Release: Bilibili 1.6.0.1341"
+    },
+    {
+      "appID" : "remnote",
+      "caption" : "RemNote updated from 1.8.22 to 1.8.24",
+      "date" : "2022-09-10T10:22:22Z",
+      "identifier" : "release-remnote-1.8.24",
+      "title" : "New Release: RemNote 1.8.24"
+    },
+    {
+      "appID" : "dingtalk",
+      "caption" : "DingTalk updated from 6.5.30.16 to 6.5.40.24",
+      "date" : "2022-09-10T10:22:22Z",
+      "identifier" : "release-dingtalk-6.5.40.24",
+      "title" : "New Release: DingTalk 6.5.40.24"
+    },
+    {
+      "appID" : "routeconverter",
+      "caption" : "RouteConverter updated from 2.31.335 to 2.32.345",
+      "date" : "2022-09-10T10:22:22Z",
+      "identifier" : "release-routeconverter-2.32.345",
+      "title" : "New Release: RouteConverter 2.32.345"
     }
   ],
   "platform" : "macos",

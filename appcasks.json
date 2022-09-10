@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28591,
-        "impressionCount" : 8542,
+        "impressionCount" : 8544,
         "viewCount" : 721
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -1256,7 +1256,7 @@
       "sha256" : "a60857ef84f426c01693101a01a439348858aa3f3d7e8d19a91b713d384967f3",
       "stats" : {
         "downloadCount" : 2579,
-        "impressionCount" : 2682,
+        "impressionCount" : 2684,
         "viewCount" : 245
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
@@ -3269,7 +3269,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 3016,
-        "impressionCount" : 872
+        "impressionCount" : 873
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -10732,7 +10732,7 @@
       "sha256" : "96780bf391b6367571728540fa528aba52a720849d279795c6bbe6fce3600c78",
       "stats" : {
         "downloadCount" : 66,
-        "impressionCount" : 938
+        "impressionCount" : 939
       },
       "subtitle" : "Detailed information on every Apple product ever made",
       "tintColor" : "69A4CB",
@@ -12662,7 +12662,7 @@
       "subtitle" : "Official bilibili video streaming and sharing platform",
       "tintColor" : "F19BAD",
       "version" : "1.6.0.1341",
-      "versionDate" : "2022-09-10T10:22:21Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15162,7 +15162,7 @@
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
       "version" : "1.8.24",
-      "versionDate" : "2022-09-10T10:22:21Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40510,7 +40510,7 @@
       "sha256" : "d6fafea9ea0854cc257759332ac77447a61de85dac7132300fe48a8f91bda528",
       "stats" : {
         "downloadCount" : 581,
-        "impressionCount" : 104
+        "impressionCount" : 106
       },
       "subtitle" : "Open-source firewall to block unknown outgoing connections",
       "tintColor" : "708243",
@@ -42814,7 +42814,7 @@
       "subtitle" : "Teamwork app by Alibaba Group",
       "tintColor" : "4AADFB",
       "version" : "6.5.40.24",
-      "versionDate" : "2022-09-10T10:22:21Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56394,7 +56394,7 @@
       "subtitle" : "GPS tool to display, edit, enrich and convert routes, tracks and waypoints",
       "tintColor" : "648069",
       "version" : "2.32.345",
-      "versionDate" : "2022-09-10T10:22:21Z"
+      "versionDate" : "2022-09-10T00:00:00Z"
     },
     {
       "beta" : false,

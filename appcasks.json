@@ -3138,7 +3138,7 @@
       "sha256" : "a18a2dd2aeee0d4701b0d63a61e90d066ff19ca8e361bd1f98658f1feea82e40",
       "stats" : {
         "downloadCount" : 5771,
-        "impressionCount" : 1641
+        "impressionCount" : 1643
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -4132,8 +4132,8 @@
       "name" : "OnyX",
       "sha256" : "18659c76972690bb58f1c1b850ae2c6c9991fdeb9c22790daa1b18c9fa74cb8e",
       "stats" : {
-        "downloadCount" : 1007,
-        "impressionCount" : 784
+        "downloadCount" : 1008,
+        "impressionCount" : 786
       },
       "subtitle" : "Verify system files structure, run miscellaneous maintenance and more",
       "tintColor" : "D39BE6",
@@ -7042,7 +7042,7 @@
       "sha256" : "2a9ea3c7777560244535a370c1093f859643bafe772a9d272e11f9dd3efa0791",
       "stats" : {
         "downloadCount" : 187,
-        "impressionCount" : 785
+        "impressionCount" : 786
       },
       "subtitle" : "System and utility switches",
       "tintColor" : "AB87D8",
@@ -13867,6 +13867,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "deeper",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://www.titanium-software.fr/download/11/Deeper.dmg",
+      "homepage" : "https://www.titanium-software.fr/en/deeper.html",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-deeper/AppIcon.png",
+      "localizedDescription" : "Tool to enable and disable hidden functions of Finder and other apps",
+      "name" : "Deeper",
+      "sha256" : "e4de32606e76da69805cf3288821117efe5fb4c6e2fa6759e41dd25c6173dc5c",
+      "stats" : {
+        "downloadCount" : 37,
+        "impressionCount" : 394
+      },
+      "subtitle" : "Tool to enable and disable hidden functions of Finder and other apps",
+      "tintColor" : "D6A8E9",
+      "version" : "2.7.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "dropbox-capture",
       "categories" : [
         "public.app-category.developer-tools"
@@ -14033,26 +14053,6 @@
       "subtitle" : "Tool that translates text in real-time while copying",
       "tintColor" : "BF82CF",
       "version" : "9.0.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "deeper",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.titanium-software.fr/download/11/Deeper.dmg",
-      "homepage" : "https://www.titanium-software.fr/en/deeper.html",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-deeper/AppIcon.png",
-      "localizedDescription" : "Tool to enable and disable hidden functions of Finder and other apps",
-      "name" : "Deeper",
-      "sha256" : "e4de32606e76da69805cf3288821117efe5fb4c6e2fa6759e41dd25c6173dc5c",
-      "stats" : {
-        "downloadCount" : 36,
-        "impressionCount" : 393
-      },
-      "subtitle" : "Tool to enable and disable hidden functions of Finder and other apps",
-      "tintColor" : "D6A8E9",
-      "version" : "2.7.1"
     },
     {
       "beta" : false,
@@ -24738,6 +24738,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "macpilot",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://www.koingosw.com/products/macpilot/download/macpilot.dmg",
+      "homepage" : "https://www.koingosw.com/products/macpilot/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macpilot/AppIcon.png",
+      "localizedDescription" : "Graphical user interface for the command terminal",
+      "name" : "MacPilot",
+      "stats" : {
+        "downloadCount" : 9,
+        "impressionCount" : 220
+      },
+      "subtitle" : "Graphical user interface for the command terminal",
+      "tintColor" : "C1C5D7",
+      "version" : "14.0",
+      "versionDate" : "2022-09-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "messenger-native",
       "categories" : [
         "public.app-category.utilities"
@@ -25716,26 +25736,6 @@
       "subtitle" : "Journaling and blogging software",
       "tintColor" : "6D905B",
       "version" : "7.3.1,342"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "macpilot",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.koingosw.com/products/macpilot/download/macpilot.dmg",
-      "homepage" : "https://www.koingosw.com/products/macpilot/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-macpilot/AppIcon.png",
-      "localizedDescription" : "Graphical user interface for the command terminal",
-      "name" : "MacPilot",
-      "stats" : {
-        "downloadCount" : 8,
-        "impressionCount" : 218
-      },
-      "subtitle" : "Graphical user interface for the command terminal",
-      "tintColor" : "C1C5D7",
-      "version" : "14.0",
-      "versionDate" : "2022-09-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42490,7 +42490,7 @@
       "sha256" : "d31352a4de7a8ccbbb65053ff7b5b244c51642f91ea87325fd6c40f8e2faa910",
       "stats" : {
         "downloadCount" : 122,
-        "impressionCount" : 159
+        "impressionCount" : 160
       },
       "subtitle" : "Digital audio production application",
       "tintColor" : "849670",
@@ -49177,7 +49177,7 @@
       "name" : "iBackup Viewer",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 198
+        "impressionCount" : 199
       },
       "subtitle" : "Extract Data from iPhone Backups",
       "tintColor" : "A9AAAA",

@@ -7908,20 +7908,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%202.5.1.dmg",
+      "downloadURL" : "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%202.5.2.dmg",
       "homepage" : "https://rectangleapp.com/pro",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rectangle-pro/AppIcon.png",
       "localizedDescription" : "Window snapping tool",
       "name" : "Rectangle Pro",
-      "sha256" : "86f12b9f4b2fe443209e360479dd46710b509574b2d2cc6a3e0e99fc19903991",
+      "sha256" : "0a88ebc8fd8e7ad589c9b15ba4530bbba44fc2d57bcc6b8be1d452ff16ba9397",
       "stats" : {
         "downloadCount" : 130,
         "impressionCount" : 517
       },
       "subtitle" : "Window snapping tool",
       "tintColor" : "4764C5",
-      "version" : "2.5.1,120",
-      "versionDate" : "2022-09-08T00:00:00Z"
+      "version" : "2.5.2,121",
+      "versionDate" : "2022-09-10T08:25:35Z"
     },
     {
       "beta" : false,
@@ -74799,13 +74799,6 @@
       "title" : "New Release: GOG Galaxy 2.0.54.22"
     },
     {
-      "appID" : "rectangle-pro",
-      "caption" : "Rectangle Pro updated from 2.5,119 to 2.5.1,120",
-      "date" : "2022-09-08T17:38:03Z",
-      "identifier" : "release-rectangle-pro-2.5.1,120",
-      "title" : "New Release: Rectangle Pro 2.5.1,120"
-    },
-    {
       "appID" : "snagit",
       "caption" : "Snagit updated from 2022.1.2 to 2022.2.0",
       "date" : "2022-09-08T17:38:03Z",
@@ -74972,6 +74965,13 @@
       "date" : "2022-09-10T01:19:52Z",
       "identifier" : "release-shimonote-3.0.0,3fb3ddc0",
       "title" : "New Release: Shimonote 3.0.0,3fb3ddc0"
+    },
+    {
+      "appID" : "rectangle-pro",
+      "caption" : "Rectangle Pro updated from 2.5.1,120 to 2.5.2,121",
+      "date" : "2022-09-10T08:25:35Z",
+      "identifier" : "release-rectangle-pro-2.5.2,121",
+      "title" : "New Release: Rectangle Pro 2.5.2,121"
     }
   ],
   "platform" : "macos",

@@ -47,7 +47,7 @@ tr:nth-child(even) {
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `5` | `2022-09-09T00:00:00Z` | `2.3 MB` | `12` | `1` | `1` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `2.7 MB` | `1408` | `63` | `0` | `0` |  |
 | [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `5` | `2022-07-04T00:00:00Z` | `2 MB` | `1204` | `100` | `0` | `0` |  |
-| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `4` | `2022-08-27T00:00:00Z` | `4.2 MB` | `290` | `19` | `0` | `0` |  |
+| [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `4` | `2022-08-27T00:00:00Z` | `4.2 MB` | `291` | `19` | `0` | `0` |  |
 | [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `2.4 MB` | `1930` | `44` | `0` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `4` | `2022-07-20T00:00:00Z` | `12.9 MB` | `2986` | `167` | `0` | `0` |  |
 | [``Red Light Green Light``](https://Red-Light-Green-Light.github.io/App/) | ``0.0.12β`` | `4` | `2022-02-02T00:00:00Z` | `2.4 MB` | `1215` | `63` | `0` | `0` |  |

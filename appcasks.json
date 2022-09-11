@@ -868,7 +868,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.33/Stats.dmg",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.34/Stats.dmg",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -892,7 +892,7 @@
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "19272a3405c8d2f41572026cd1fb79f2ed717613d707967bf5151a954eec757c",
+      "sha256" : "a3aba3cbb5db936f0b0b6cd757eb7900e7f97ac5876d36de16118c75447b1642",
       "stats" : {
         "downloadCount" : 5997,
         "impressionCount" : 5092,
@@ -900,8 +900,8 @@
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
-      "version" : "2.7.33",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "2.7.34",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -8551,7 +8551,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-texshop/AppIcon.png",
       "localizedDescription" : "TeX previewer",
       "name" : "TeXShop",
-      "sha256" : "4591c5c1b815ff691df67bdcfa4e794352e2ee740955fc866be84c10b427abd2",
+      "sha256" : "b1fb17093f4d8ee46a618e29992ef30b208fbe2970712bdb52c3b72753914a11",
       "stats" : {
         "downloadCount" : 112,
         "impressionCount" : 617
@@ -12109,20 +12109,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://brettterpstra.com/updates/bunch/Bunch1.4.10163.dmg",
+      "downloadURL" : "https://brettterpstra.com/updates/bunch/Bunch1.4.11166.dmg",
       "homepage" : "https://bunchapp.co/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bunch/AppIcon.png",
       "localizedDescription" : "Automation tool",
       "name" : "Bunch",
-      "sha256" : "905f79049ac1a1188222dd48e46f63e1ddd3033cd44cebcd25b48d85df0581f9",
+      "sha256" : "240fe4dba00af30b7b875acfcf61130eddad92dd813f05c1766f95f8c2b5a22a",
       "stats" : {
         "downloadCount" : 51,
         "impressionCount" : 596
       },
       "subtitle" : "Automation tool",
       "tintColor" : "8FA968",
-      "version" : "1.4.10,163",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "1.4.11,166",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -16606,19 +16606,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://downloads.agenda.com/Agenda_14.1.1.zip",
+      "downloadURL" : "https://downloads.agenda.com/Agenda_15.0.zip",
       "homepage" : "https://agenda.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-agenda/AppIcon.png",
       "localizedDescription" : "Note taking application focusing on dates",
       "name" : "Agenda",
-      "sha256" : "3ad2cc6e46ad53dace68816a04a7bcc992aa9b2f6a51b050b07d58d955ec2ac8",
+      "sha256" : "dcf8dca95c3014e79747b3f7bd1100ec9077ad57cc0ad812d7e634b1f6eb9478",
       "stats" : {
         "downloadCount" : 25,
         "impressionCount" : 642
       },
       "subtitle" : "Note taking application focusing on dates",
       "tintColor" : "C99525",
-      "version" : "14.1.1,231"
+      "version" : "15.0,236",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -29141,8 +29142,8 @@
       },
       "subtitle" : "Advanced directory compare utility",
       "tintColor" : "CE642C",
-      "version" : "4.4.6,44610",
-      "versionDate" : "2022-08-29T00:00:00Z"
+      "version" : "4.4.7,44702",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -43210,20 +43211,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/rizinorg/cutter/releases/download/v2.1.1/Cutter-v2.1.1-macOS-x86_64.dmg",
+      "downloadURL" : "https://github.com/rizinorg/cutter/releases/download/v2.1.2/Cutter-v2.1.2-macOS-x86_64.dmg",
       "homepage" : "https://cutter.re/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cutter/AppIcon.png",
       "localizedDescription" : "Reverse engineering platform powered by Rizin",
       "name" : "Cutter",
-      "sha256" : "f901bfa610f600a021d7ef851c087869ab42c174b1afd1cb30dcd9cc9cbdf068",
+      "sha256" : "6d37c18fd91f528c72f92fa7d79a4d0082d377bc02466aa59bf17be155b579c4",
       "stats" : {
         "downloadCount" : 87,
         "impressionCount" : 39
       },
       "subtitle" : "Reverse engineering platform powered by Rizin",
       "tintColor" : "686868",
-      "version" : "2.1.1",
-      "versionDate" : "2022-09-11T00:00:00Z"
+      "version" : "2.1.2",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -44837,20 +44838,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://trac.chirp.danplanet.com/chirp_daily/daily-20220909/chirp-unified-daily-20220909.app.zip",
+      "downloadURL" : "https://trac.chirp.danplanet.com/chirp_daily/daily-20220911/chirp-unified-daily-20220911.app.zip",
       "homepage" : "https://chirp.danplanet.com/projects/chirp/wiki/Home",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chirp/AppIcon.png",
       "localizedDescription" : "Tool for programming amateur radio",
       "name" : "CHIRP",
-      "sha256" : "2f0719e00f10970012565e4829e34b0e1ce8ccf67363447d9468135885488d43",
+      "sha256" : "75823299ca06b44defbf92d4e5bfe4428d768373ce466263146d67046132f5b6",
       "stats" : {
         "downloadCount" : 49,
         "impressionCount" : 165
       },
       "subtitle" : "Tool for programming amateur radio",
       "tintColor" : "9AB3B6",
-      "version" : "20220909",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "20220911",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -53286,20 +53287,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/davide-romanini/comictagger/releases/download/1.4.8/ComicTagger-1.4.8-osx-10.15.7-x86_64.app.zip",
+      "downloadURL" : "https://github.com/davide-romanini/comictagger/releases/download/1.5.0/ComicTagger-1.5.0-osx-10.15.7-x86_64.app.zip",
       "homepage" : "https://github.com/davide-romanini/comictagger",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-comictagger/AppIcon.png",
       "localizedDescription" : "Metadata editor for digital comics",
       "name" : "ComicTagger",
-      "sha256" : "a252076630bcebd02e9a4760b624b351b02dfba44613d4d40b39a4b81caef6a9",
+      "sha256" : "ba53d7b67232a5238a6802353b8d8a933c8a1d85ce85dfb0e04bb591ded02453",
       "stats" : {
         "downloadCount" : 6,
         "impressionCount" : 118
       },
       "subtitle" : "Metadata editor for digital comics",
       "tintColor" : "897179",
-      "version" : "1.4.8",
-      "versionDate" : "2022-08-20T00:00:00Z"
+      "version" : "1.5.0",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -59364,17 +59365,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.8.0/Karabiner-Elements-14.8.0.dmg",
+      "downloadURL" : "https://github.com/pqrs-org/Karabiner-Elements/releases/download/v14.9.0/Karabiner-Elements-14.9.0.dmg",
       "homepage" : "https://pqrs.org/osx/karabiner/",
       "localizedDescription" : "Keyboard customizer",
       "name" : "Karabiner Elements",
-      "sha256" : "b102602b712825ff3072bd222fd8995e5e8d240ae9b540d3ac378d2b08047ee3",
+      "sha256" : "1df4305c29bba3ea4d1bf3b8553e23cc294138ecabdca3eff29c716bef249550",
       "stats" : {
         "downloadCount" : 2935
       },
       "subtitle" : "Keyboard customizer",
-      "version" : "14.8.0",
-      "versionDate" : "2022-08-11T00:00:00Z"
+      "version" : "14.9.0",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -65313,17 +65314,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-player&version=2.16.22",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-player&version=2.16.24",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Play Digital Cinema Packages",
       "name" : "DCP-o-matic Player",
-      "sha256" : "0190a7fa79cce09446af865f312dbad6468496ccc8df4b4d84fd0924aff19cac",
+      "sha256" : "4217a60ec00fe87fafb5f5511ccfd4c9d171515064cc3c1c9ad1a47a5f5b0875",
       "stats" : {
         "downloadCount" : 17
       },
       "subtitle" : "Play Digital Cinema Packages",
-      "version" : "2.16.22",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "2.16.24",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -67965,16 +67966,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/chrismaltby/gb-studio/releases/download/v3.0.3/gb-studio-mac.zip",
+      "downloadURL" : "https://github.com/chrismaltby/gb-studio/releases/download/v3.1.0/gb-studio-mac.zip",
       "homepage" : "https://www.gbstudio.dev/",
       "localizedDescription" : "Drag and drop retro game creator",
       "name" : "GB Studio",
-      "sha256" : "be9ef5b72ce54daec4f7870d3c1178ac2c4efb67cc523a76fdcf3d18edc1e72b",
+      "sha256" : "73d5d487962aab11268d281cad80e8fd42cf08e16e82c527a402acf63703a2ef",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Drag and drop retro game creator",
-      "version" : "3.0.3"
+      "version" : "3.1.0",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -70206,17 +70208,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.22",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.24",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic",
-      "sha256" : "f6167c12bfc29eed6b44a44b1408d023fad90e26052d0df58e99cbce93b5ac9f",
+      "sha256" : "63759d49361c69e404800dccba81175cac63e1423d3034e90d298eaf50184cf7",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.22",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "2.16.24",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -71268,17 +71270,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-server&version=2.16.22",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-server&version=2.16.24",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic Encode Server",
-      "sha256" : "531c3323931cd3364e5c1332182b87ff1937dea0ebe76bdedc5861e38d47ab0f",
+      "sha256" : "3c383abf006b059094a28b557e023cc67cfba3d1e2a76dd5703aef5962d16ab3",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.22",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "2.16.24",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -71286,17 +71288,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-kdm&version=2.16.22",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-kdm&version=2.16.24",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic KDM Creator",
-      "sha256" : "c1be9d61ca902fb66ac03fd6d059e8550d9b7762652e9b143a45c647b2e3ade5",
+      "sha256" : "be4ec1060b97d0672fc37d73e161ab54d2a6354edb3895b72ddca4c88e8f1706",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.22",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "2.16.24",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -72733,17 +72735,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.22",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.24",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic Batch converter",
-      "sha256" : "56e273680765d631fb047524efc4aca55c5a486cc42e055d5f671cce4004cc69",
+      "sha256" : "c18cd4270e8c398a29020697091603a0dde1adbebb2df8eab908c63be02d29ca",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.22",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "2.16.24",
+      "versionDate" : "2022-09-11T22:21:27Z"
     },
     {
       "beta" : false,
@@ -74141,90 +74143,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "cleanmymac-zh",
-      "caption" : "CleanMyMac X Chinese updated from 4.11.2,41102.0.2208091809 to 4.11.3,41103.0.2209061558",
-      "date" : "2022-09-10T09:23:11Z",
-      "identifier" : "release-cleanmymac-zh-4.11.3,41103.0.2209061558",
-      "title" : "New Release: CleanMyMac X Chinese 4.11.3,41103.0.2209061558"
-    },
-    {
-      "appID" : "nwjs",
-      "caption" : "NW.js updated from 0.67.1 to 0.68.0",
-      "date" : "2022-09-10T09:23:11Z",
-      "identifier" : "release-nwjs-0.68.0",
-      "title" : "New Release: NW.js 0.68.0"
-    },
-    {
-      "appID" : "the-battle-for-wesnoth",
-      "caption" : "The Battle for Wesnoth updated from 1.16.5 to 1.16.6",
-      "date" : "2022-09-10T09:23:11Z",
-      "identifier" : "release-the-battle-for-wesnoth-1.16.6",
-      "title" : "New Release: The Battle for Wesnoth 1.16.6"
-    },
-    {
-      "appID" : "script-debugger",
-      "caption" : "Script Debugger updated from 8.0.4-8A52 to 8.0.5-8A61",
-      "date" : "2022-09-10T09:23:11Z",
-      "identifier" : "release-script-debugger-8.0.5-8A61",
-      "title" : "New Release: Script Debugger 8.0.5-8A61"
-    },
-    {
-      "appID" : "vrew",
-      "caption" : "vrew updated from 0.11.33 to 0.11.34",
-      "date" : "2022-09-10T09:23:12Z",
-      "identifier" : "release-vrew-0.11.34",
-      "title" : "New Release: vrew 0.11.34"
-    },
-    {
-      "appID" : "prowlarr",
-      "caption" : "Prowlarr updated from 0.4.4.1947 to 0.4.5.1960",
-      "date" : "2022-09-10T09:23:12Z",
-      "identifier" : "release-prowlarr-0.4.5.1960",
-      "title" : "New Release: Prowlarr 0.4.5.1960"
-    },
-    {
-      "appID" : "birdfont",
-      "caption" : "BirdFont updated from 4.30.6 to 4.30.11",
-      "date" : "2022-09-10T09:23:12Z",
-      "identifier" : "release-birdfont-4.30.11",
-      "title" : "New Release: BirdFont 4.30.11"
-    },
-    {
-      "appID" : "virtualhereserver",
-      "caption" : "VirtualHereServer updated from 4.4.2 to 4.4.3",
-      "date" : "2022-09-10T09:23:12Z",
-      "identifier" : "release-virtualhereserver-4.4.3",
-      "title" : "New Release: VirtualHereServer 4.4.3"
-    },
-    {
-      "appID" : "glyphs",
-      "caption" : "Glyphs updated from 3.1.1,3134 to 3.1.1,3135",
-      "date" : "2022-09-10T09:23:12Z",
-      "identifier" : "release-glyphs-3.1.1,3135",
-      "title" : "New Release: Glyphs 3.1.1,3135"
-    },
-    {
-      "appID" : "milanote",
-      "caption" : "Milanote updated from 3.3.2 to 3.3.5",
-      "date" : "2022-09-10T09:23:12Z",
-      "identifier" : "release-milanote-3.3.5",
-      "title" : "New Release: Milanote 3.3.5"
-    },
-    {
-      "appID" : "pitch",
-      "caption" : "Pitch updated from 1.90.1,stable.3,4650450 to 1.91.0,stable.4,4675897",
-      "date" : "2022-09-10T09:23:13Z",
-      "identifier" : "release-pitch-1.91.0,stable.4,4675897",
-      "title" : "New Release: Pitch 1.91.0,stable.4,4675897"
-    },
-    {
-      "appID" : "razorsql",
-      "caption" : "RazorSQL updated from 10.0.7 to 10.0.8",
-      "date" : "2022-09-10T09:23:13Z",
-      "identifier" : "release-razorsql-10.0.8",
-      "title" : "New Release: RazorSQL 10.0.8"
-    },
-    {
       "appID" : "vpn-tracker-365",
       "caption" : "VPN Tracker 365 updated from 22.2.0,220207 to 22.2.2,220220",
       "date" : "2022-09-10T09:23:13Z",
@@ -74412,13 +74330,6 @@
       "date" : "2022-09-10T09:23:17Z",
       "identifier" : "release-pushplaylabs-sidekick-104.27.2.23780,ca1165a",
       "title" : "New Release: Sidekick 104.27.2.23780,ca1165a"
-    },
-    {
-      "appID" : "chirp",
-      "caption" : "CHIRP updated from 20220823 to 20220909",
-      "date" : "2022-09-10T09:23:17Z",
-      "identifier" : "release-chirp-20220909",
-      "title" : "New Release: CHIRP 20220909"
     },
     {
       "appID" : "010-editor",
@@ -74834,11 +74745,102 @@
       "title" : "New Release: Moonlight 4.2.0"
     },
     {
+      "appID" : "stats",
+      "caption" : "Stats updated from 2.7.33 to 2.7.34",
+      "date" : "2022-09-11T22:21:27Z",
+      "identifier" : "release-stats-2.7.34",
+      "title" : "New Release: Stats 2.7.34"
+    },
+    {
+      "appID" : "bunch",
+      "caption" : "Bunch updated from 1.4.10,163 to 1.4.11,166",
+      "date" : "2022-09-11T22:21:28Z",
+      "identifier" : "release-bunch-1.4.11,166",
+      "title" : "New Release: Bunch 1.4.11,166"
+    },
+    {
+      "appID" : "agenda",
+      "caption" : "Agenda updated from 14.1.1,231 to 15.0,236",
+      "date" : "2022-09-11T22:21:28Z",
+      "identifier" : "release-agenda-15.0,236",
+      "title" : "New Release: Agenda 15.0,236"
+    },
+    {
+      "appID" : "direqual",
+      "caption" : "DirEqual updated from 4.4.6,44610 to 4.4.7,44702",
+      "date" : "2022-09-11T22:21:28Z",
+      "identifier" : "release-direqual-4.4.7,44702",
+      "title" : "New Release: DirEqual 4.4.7,44702"
+    },
+    {
       "appID" : "cutter",
-      "caption" : "Cutter updated from 2.1.0 to 2.1.1",
-      "date" : "2022-09-11T10:24:08Z",
-      "identifier" : "release-cutter-2.1.1",
-      "title" : "New Release: Cutter 2.1.1"
+      "caption" : "Cutter updated from 2.1.1 to 2.1.2",
+      "date" : "2022-09-11T22:21:28Z",
+      "identifier" : "release-cutter-2.1.2",
+      "title" : "New Release: Cutter 2.1.2"
+    },
+    {
+      "appID" : "chirp",
+      "caption" : "CHIRP updated from 20220909 to 20220911",
+      "date" : "2022-09-11T22:21:28Z",
+      "identifier" : "release-chirp-20220911",
+      "title" : "New Release: CHIRP 20220911"
+    },
+    {
+      "appID" : "comictagger",
+      "caption" : "ComicTagger updated from 1.4.8 to 1.5.0",
+      "date" : "2022-09-11T22:21:29Z",
+      "identifier" : "release-comictagger-1.5.0",
+      "title" : "New Release: ComicTagger 1.5.0"
+    },
+    {
+      "appID" : "karabiner-elements",
+      "caption" : "Karabiner Elements updated from 14.8.0 to 14.9.0",
+      "date" : "2022-09-11T22:21:29Z",
+      "identifier" : "release-karabiner-elements-14.9.0",
+      "title" : "New Release: Karabiner Elements 14.9.0"
+    },
+    {
+      "appID" : "dcp-o-matic-player",
+      "caption" : "DCP-o-matic Player updated from 2.16.22 to 2.16.24",
+      "date" : "2022-09-11T22:21:29Z",
+      "identifier" : "release-dcp-o-matic-player-2.16.24",
+      "title" : "New Release: DCP-o-matic Player 2.16.24"
+    },
+    {
+      "appID" : "gb-studio",
+      "caption" : "GB Studio updated from 3.0.3 to 3.1.0",
+      "date" : "2022-09-11T22:21:29Z",
+      "identifier" : "release-gb-studio-3.1.0",
+      "title" : "New Release: GB Studio 3.1.0"
+    },
+    {
+      "appID" : "dcp-o-matic",
+      "caption" : "DCP-o-matic updated from 2.16.22 to 2.16.24",
+      "date" : "2022-09-11T22:21:29Z",
+      "identifier" : "release-dcp-o-matic-2.16.24",
+      "title" : "New Release: DCP-o-matic 2.16.24"
+    },
+    {
+      "appID" : "dcp-o-matic-encode-server",
+      "caption" : "DCP-o-matic Encode Server updated from 2.16.22 to 2.16.24",
+      "date" : "2022-09-11T22:21:29Z",
+      "identifier" : "release-dcp-o-matic-encode-server-2.16.24",
+      "title" : "New Release: DCP-o-matic Encode Server 2.16.24"
+    },
+    {
+      "appID" : "dcp-o-matic-kdm-creator",
+      "caption" : "DCP-o-matic KDM Creator updated from 2.16.22 to 2.16.24",
+      "date" : "2022-09-11T22:21:30Z",
+      "identifier" : "release-dcp-o-matic-kdm-creator-2.16.24",
+      "title" : "New Release: DCP-o-matic KDM Creator 2.16.24"
+    },
+    {
+      "appID" : "dcp-o-matic-batch-converter",
+      "caption" : "DCP-o-matic Batch converter updated from 2.16.22 to 2.16.24",
+      "date" : "2022-09-11T22:21:30Z",
+      "identifier" : "release-dcp-o-matic-batch-converter-2.16.24",
+      "title" : "New Release: DCP-o-matic Batch converter 2.16.24"
     }
   ],
   "platform" : "macos",

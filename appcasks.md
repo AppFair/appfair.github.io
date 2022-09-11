@@ -596,7 +596,7 @@ tr:nth-child(even) {
 | [``gfxCardStatus``](https://gfx.io/) | ``2.5,5482`` | `49` |  |  | `365` |  |  | `0` | `public.app-category.utilities` |
 | [``Path Finder``](https://www.cocoatech.io/) | ``2138`` | `49` | `2022-09-10T00:00:00Z` |  | `449` |  |  | `0` | `public.app-category.utilities` |
 | [``SideQuest``](https://sidequestvr.com/) | ``0.10.32`` | `49` | `2022-08-26T00:00:00Z` |  | `346` |  |  | `0` | `public.app-category.utilities` |
-| [``textsniper``](https://textsniper.app/) | ``1.8.0`` | `49` | `2022-09-10T00:00:00Z` |  | `306` |  |  | `0` | `public.app-category.productivity` |
+| [``textsniper``](https://textsniper.app/) | ``1.8.0`` | `49` | `2022-09-10T00:00:00Z` |  | `308` |  |  | `0` | `public.app-category.productivity` |
 | [``Evernote``](https://www.yinxiang.com/) | ``9.5.30_468055`` | `49` | `2022-09-06T00:00:00Z` |  | `426` |  |  | `0` | `public.app-category.productivity` |
 | [``DatWeatherDoe``](https://github.com/inderdhir/DatWeatherDoe) | ``3.0.4`` | `48` | `2022-08-01T00:00:00Z` |  | `893` |  |  | `0` | `public.app-category.weather` |
 | [``MachOView``](https://sourceforge.net/projects/machoview/) | ``2.4.9200`` | `48` |  |  | `387` |  |  | `0` | `public.app-category.developer-tools` |

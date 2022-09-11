@@ -901,7 +901,7 @@
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
       "version" : "2.7.34",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5632,20 +5632,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v6.0.4/Netron-6.0.4-mac.zip",
+      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v6.0.5/Netron-6.0.5-mac.zip",
       "homepage" : "https://github.com/lutzroeder/netron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-netron/AppIcon.png",
       "localizedDescription" : "Visualizer for neural network, deep learning, and machine learning models",
       "name" : "Netron",
-      "sha256" : "fda07a6ea2fae66611873dfe9b10f902b08943c017a3fca717af4c15cf6edd22",
+      "sha256" : "54100906a1e7e984fce9647d30dad2edacd22a10db84bc6c6d4e4a43126019e0",
       "stats" : {
         "downloadCount" : 359,
         "impressionCount" : 1120
       },
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
-      "version" : "6.0.4",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "6.0.5",
+      "versionDate" : "2022-09-11T23:25:16Z"
     },
     {
       "beta" : false,
@@ -12122,7 +12122,7 @@
       "subtitle" : "Automation tool",
       "tintColor" : "8FA968",
       "version" : "1.4.11,166",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16619,7 +16619,7 @@
       "subtitle" : "Note taking application focusing on dates",
       "tintColor" : "C99525",
       "version" : "15.0,236",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29143,7 +29143,7 @@
       "subtitle" : "Advanced directory compare utility",
       "tintColor" : "CE642C",
       "version" : "4.4.7,44702",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43224,7 +43224,7 @@
       "subtitle" : "Reverse engineering platform powered by Rizin",
       "tintColor" : "686868",
       "version" : "2.1.2",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44851,7 +44851,7 @@
       "subtitle" : "Tool for programming amateur radio",
       "tintColor" : "9AB3B6",
       "version" : "20220911",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53300,7 +53300,7 @@
       "subtitle" : "Metadata editor for digital comics",
       "tintColor" : "897179",
       "version" : "1.5.0",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59375,7 +59375,7 @@
       },
       "subtitle" : "Keyboard customizer",
       "version" : "14.9.0",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65324,7 +65324,7 @@
       },
       "subtitle" : "Play Digital Cinema Packages",
       "version" : "2.16.24",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67976,7 +67976,7 @@
       },
       "subtitle" : "Drag and drop retro game creator",
       "version" : "3.1.0",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -70218,7 +70218,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.24",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -71280,7 +71280,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.24",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -71298,7 +71298,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.24",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72745,7 +72745,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.24",
-      "versionDate" : "2022-09-11T22:21:27Z"
+      "versionDate" : "2022-09-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74143,13 +74143,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "vpn-tracker-365",
-      "caption" : "VPN Tracker 365 updated from 22.2.0,220207 to 22.2.2,220220",
-      "date" : "2022-09-10T09:23:13Z",
-      "identifier" : "release-vpn-tracker-365-22.2.2,220220",
-      "title" : "New Release: VPN Tracker 365 22.2.2,220220"
-    },
-    {
       "appID" : "pdfify",
       "caption" : "PDFify updated from 3.5-200 to 3.6-212",
       "date" : "2022-09-10T09:23:13Z",
@@ -74841,6 +74834,13 @@
       "date" : "2022-09-11T22:21:30Z",
       "identifier" : "release-dcp-o-matic-batch-converter-2.16.24",
       "title" : "New Release: DCP-o-matic Batch converter 2.16.24"
+    },
+    {
+      "appID" : "netron",
+      "caption" : "Netron updated from 6.0.4 to 6.0.5",
+      "date" : "2022-09-11T23:25:17Z",
+      "identifier" : "release-netron-6.0.5",
+      "title" : "New Release: Netron 6.0.5"
     }
   ],
   "platform" : "macos",

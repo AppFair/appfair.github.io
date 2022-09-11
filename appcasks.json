@@ -25,7 +25,7 @@
       "sha256" : "731c0083401ba102eca0d7cd517c441ffcc314ebb3959b7bda4324bf7bb519a1",
       "stats" : {
         "downloadCount" : 2602,
-        "impressionCount" : 10383,
+        "impressionCount" : 10384,
         "viewCount" : 1150
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8837,
-        "impressionCount" : 8095,
+        "impressionCount" : 8096,
         "viewCount" : 702
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28074,
-        "impressionCount" : 8583,
+        "impressionCount" : 8585,
         "viewCount" : 724
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8315,
-        "impressionCount" : 8486,
+        "impressionCount" : 8487,
         "viewCount" : 674
       },
       "subtitle" : "Music streaming service",
@@ -237,7 +237,7 @@
       "sha256" : "8f22fb8ecb3a67611e68c7e643c3424850dfdcb7b04795e4175bb2ce8f436faf",
       "stats" : {
         "downloadCount" : 3205,
-        "impressionCount" : 8918,
+        "impressionCount" : 8919,
         "viewCount" : 599
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -265,7 +265,7 @@
       ],
       "stats" : {
         "downloadCount" : 2621,
-        "impressionCount" : 6707,
+        "impressionCount" : 6709,
         "viewCount" : 434
       },
       "subtitle" : "Video game digital distribution service",
@@ -291,7 +291,7 @@
       "sha256" : "246e1b174af3f61513e4e004e948a325149091b5165b7005391570f6d334ee3e",
       "stats" : {
         "downloadCount" : 2329,
-        "impressionCount" : 7369,
+        "impressionCount" : 7370,
         "viewCount" : 462
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -325,7 +325,7 @@
       "sha256" : "cfed68a618da5d5957dc40eb3f33e27e2b1c1f31d103063c23f20918a507f470",
       "stats" : {
         "downloadCount" : 1990,
-        "impressionCount" : 8482,
+        "impressionCount" : 8483,
         "viewCount" : 874
       },
       "subtitle" : "File archiver",
@@ -386,7 +386,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1122,
-        "impressionCount" : 6726,
+        "impressionCount" : 6727,
         "viewCount" : 537
       },
       "subtitle" : "Open-source Markdown editor",
@@ -446,7 +446,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 567,
-        "impressionCount" : 6882,
+        "impressionCount" : 6883,
         "viewCount" : 359
       },
       "subtitle" : "Text editor",
@@ -593,7 +593,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 239,
-        "impressionCount" : 5355,
+        "impressionCount" : 5356,
         "viewCount" : 452
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -855,7 +855,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 6088,
-        "impressionCount" : 2239,
+        "impressionCount" : 2240,
         "viewCount" : 104
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -1192,8 +1192,8 @@
       "sha256" : "c1e54f1af933486ac60da94bb1a366df5125959ef416e1a93c2a2fb9de78efa0",
       "stats" : {
         "downloadCount" : 2662,
-        "impressionCount" : 1935,
-        "viewCount" : 106
+        "impressionCount" : 1936,
+        "viewCount" : 107
       },
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
@@ -1522,7 +1522,7 @@
       "sha256" : "6636139dc9c0e28b90517e91d1c1924e218b5d33d9418cca888b05c11fbf54d9",
       "stats" : {
         "downloadCount" : 1711,
-        "impressionCount" : 2098,
+        "impressionCount" : 2099,
         "viewCount" : 105
       },
       "subtitle" : "IDE for professional Python development",
@@ -1582,7 +1582,7 @@
       "sha256" : "b80d3dba83b343fab7a6c8fc08440b2751da1ac12f86fe593da8e74069e4d7f6",
       "stats" : {
         "downloadCount" : 1415,
-        "impressionCount" : 3201,
+        "impressionCount" : 3202,
         "viewCount" : 154
       },
       "subtitle" : "Web browser focusing on security",
@@ -1994,7 +1994,7 @@
       "sha256" : "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
       "stats" : {
         "downloadCount" : 613,
-        "impressionCount" : 1758,
+        "impressionCount" : 1759,
         "viewCount" : 83
       },
       "subtitle" : "MySQL/MariaDB database management platform",
@@ -3959,7 +3959,7 @@
       "sha256" : "8c678c87aa609a7222ca229acb3a650d4a4e2db9fa9ce89a09a9d45ea1b19af1",
       "stats" : {
         "downloadCount" : 1199,
-        "impressionCount" : 721
+        "impressionCount" : 722
       },
       "subtitle" : "Re-mounts write-protected NTFS volumes",
       "tintColor" : "AECCE3",
@@ -5051,7 +5051,7 @@
       "sha256" : "e850b6b29c61ff333f3bc5c562c0272b586e922d0d7934400baff0788bd9521e",
       "stats" : {
         "downloadCount" : 512,
-        "impressionCount" : 638
+        "impressionCount" : 639
       },
       "subtitle" : "VPN client focusing on security",
       "tintColor" : "65B973",
@@ -5175,7 +5175,7 @@
       "sha256" : "e381f3475cfce449397030d5330b33783ed16ed9815fceb5b67c31a009682ed8",
       "stats" : {
         "downloadCount" : 453,
-        "impressionCount" : 1173
+        "impressionCount" : 1174
       },
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
@@ -7335,7 +7335,7 @@
       "sha256" : "48c21f8d702907b8627b3f4cf939b2447b09e8ed1f06d0dbe8f5a91451a76471",
       "stats" : {
         "downloadCount" : 159,
-        "impressionCount" : 521
+        "impressionCount" : 522
       },
       "subtitle" : "Minimal browser that protects privacy",
       "tintColor" : "4FB4FC",
@@ -10732,7 +10732,7 @@
       "sha256" : "457e1b70989515ddb9a1bd4c0635d4ea7d5eda17435bd63908151621b1235a97",
       "stats" : {
         "downloadCount" : 66,
-        "impressionCount" : 290
+        "impressionCount" : 291
       },
       "subtitle" : "V2Ray GUI client with extensive protocol support",
       "tintColor" : "F2E6F6",
@@ -16869,7 +16869,7 @@
       "sha256" : "8cf0a45961efa74b459c0c3e613dce7135fef687b76322eb909a68eeb124956a",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 325
+        "impressionCount" : 326
       },
       "subtitle" : "Email client focusing on privacy protection",
       "tintColor" : "4CC6F9",
@@ -22462,7 +22462,7 @@
       "sha256" : "9975fd2e361e70e5ed76f0278ec03d8ec23455b0aa70027276b169823a3b08b8",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 213
+        "impressionCount" : 214
       },
       "tintColor" : "8D7482",
       "version" : "5.5.0"
@@ -42642,7 +42642,7 @@
       "sha256" : "3e02bc00c5b23aa8832751c0861f9e8ecfe7e0e1b426d5ed4eca469b2bb25af6",
       "stats" : {
         "downloadCount" : 114,
-        "impressionCount" : 102
+        "impressionCount" : 103
       },
       "subtitle" : "Bridges Proton Mail to email clients supporting IMAP and SMTP protocols",
       "tintColor" : "999DC7",

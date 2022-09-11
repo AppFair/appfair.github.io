@@ -32,10 +32,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 54,
-        "impressionCount" : 3269,
+        "impressionCount" : 3270,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 250,
+        "viewCount" : 251,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -68,10 +68,10 @@
       "stats" : {
         "coreSize" : 170176,
         "downloadCount" : 26,
-        "impressionCount" : 191,
+        "impressionCount" : 193,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 20,
+        "viewCount" : 21,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -104,7 +104,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 25,
-        "impressionCount" : 184,
+        "impressionCount" : 187,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 15,
@@ -236,10 +236,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 15,
-        "impressionCount" : 25,
+        "impressionCount" : 26,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -272,7 +272,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 9,
-        "impressionCount" : 35,
+        "impressionCount" : 36,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -316,7 +316,7 @@
       "stats" : {
         "coreSize" : 170784,
         "downloadCount" : 9,
-        "impressionCount" : 237,
+        "impressionCount" : 238,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 29,
@@ -499,7 +499,7 @@
       "stats" : {
         "coreSize" : 170240,
         "downloadCount" : 8,
-        "impressionCount" : 29,
+        "impressionCount" : 31,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,
@@ -535,7 +535,7 @@
       "stats" : {
         "coreSize" : 102392,
         "downloadCount" : 8,
-        "impressionCount" : 2992,
+        "impressionCount" : 2993,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 168,
@@ -942,7 +942,7 @@
       "stats" : {
         "coreSize" : 170608,
         "downloadCount" : 3,
-        "impressionCount" : 359,
+        "impressionCount" : 361,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,
@@ -993,10 +993,10 @@
       "stats" : {
         "coreSize" : 170224,
         "downloadCount" : 3,
-        "impressionCount" : 379,
+        "impressionCount" : 381,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 31,
+        "viewCount" : 32,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1073,7 +1073,7 @@
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
-        "impressionCount" : 303,
+        "impressionCount" : 304,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1108,7 +1108,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 353,
+        "impressionCount" : 354,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -1143,10 +1143,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 470,
+        "impressionCount" : 472,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 38,
+        "viewCount" : 39,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1178,10 +1178,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 342,
+        "impressionCount" : 345,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 32,
+        "viewCount" : 33,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1213,10 +1213,10 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 471,
+        "impressionCount" : 472,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 35,
+        "viewCount" : 36,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1248,7 +1248,7 @@
       "stats" : {
         "coreSize" : 170144,
         "downloadCount" : 2,
-        "impressionCount" : 361,
+        "impressionCount" : 362,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,

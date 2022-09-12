@@ -29,14 +29,14 @@ tr:nth-child(even) {
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `26` | `2022-08-27T00:00:00Z` | `4 MB` | `392` | `33` | `1` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `2.6 MB` | `203` | `16` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `3282` | `251` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288`` | `23` | `2022-09-09T00:00:00Z` | `2.3 MB` | `41` | `5` | `1` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1037` | `92` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `22` | `2022-09-01T00:00:00Z` | `9.6 MB` | `252` | `29` | `1` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `22` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3591` | `594` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288`` | `21` | `2022-09-09T00:00:00Z` | `2.3 MB` | `41` | `5` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `19` | `2022-08-27T00:00:00Z` | `3.2 MB` | `164` | `15` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `18` | `2022-08-24T00:00:00Z` | `2.3 MB` | `484` | `40` | `0` | `0` |  |
-| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `16` | `2022-09-09T00:00:00Z` | `2.2 MB` | `49` | `5` | `0` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `15` | `2022-09-09T00:00:00Z` | `2.3 MB` | `41` | `3` | `1` | `0` |  |
+| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `17` | `2022-09-09T00:00:00Z` | `2.2 MB` | `49` | `5` | `0` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `16` | `2022-09-09T00:00:00Z` | `2.3 MB` | `41` | `3` | `1` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2236` | `139` | `0` | `0` |  |
 | [``Todo Hero``](http://appfair.net/#quick-start) | ``0.0.1β`` | `9` | `2022-08-23T00:00:00Z` | `2.2 MB` | `49` | `2` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2009` | `121` | `0` | `0` |  |

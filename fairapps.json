@@ -62,7 +62,7 @@
       "size" : 9809519,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 424,
+        "downloadCount" : 426,
         "impressionCount" : 311,
         "issueCount" : 6,
         "starCount" : 29,
@@ -448,10 +448,10 @@
       "stats" : {
         "coreSize" : 152800,
         "downloadCount" : 22,
-        "impressionCount" : 3591,
+        "impressionCount" : 3594,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 594,
+        "viewCount" : 595,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",

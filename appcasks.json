@@ -357,7 +357,7 @@
       "sha256" : "73dd1ede9fd57cf436aa9b9e82fdbe9685cafdc99066081de8e4bdee1790ba0b",
       "stats" : {
         "downloadCount" : 1191,
-        "impressionCount" : 8764,
+        "impressionCount" : 8766,
         "viewCount" : 492
       },
       "subtitle" : "3D creation suite",
@@ -895,7 +895,7 @@
       "sha256" : "a3aba3cbb5db936f0b0b6cd757eb7900e7f97ac5876d36de16118c75447b1642",
       "stats" : {
         "downloadCount" : 5916,
-        "impressionCount" : 5097,
+        "impressionCount" : 5098,
         "viewCount" : 509
       },
       "subtitle" : "System monitor for the menu bar",
@@ -941,7 +941,7 @@
       "sha256" : "9caaeacd888b98a47fbf666ddf50d1416dbabdeacda6588da211f2344cec51ef",
       "stats" : {
         "downloadCount" : 3997,
-        "impressionCount" : 4509,
+        "impressionCount" : 4510,
         "viewCount" : 273
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1032,7 +1032,7 @@
       "sha256" : "e84f31ee5570ce02d21047b7590e78b0c4d7ccd69f9faee3ccff07cee09a8968",
       "stats" : {
         "downloadCount" : 3446,
-        "impressionCount" : 2407,
+        "impressionCount" : 2408,
         "viewCount" : 143
       },
       "subtitle" : "Desktop client for GitHub repositories",
@@ -1192,7 +1192,7 @@
       "sha256" : "c1e54f1af933486ac60da94bb1a366df5125959ef416e1a93c2a2fb9de78efa0",
       "stats" : {
         "downloadCount" : 2653,
-        "impressionCount" : 1946,
+        "impressionCount" : 1947,
         "viewCount" : 107
       },
       "subtitle" : "Network protocol analyzer",
@@ -1370,7 +1370,7 @@
       "sha256" : "8617959678916a95548b59e560bbc709260e435d678cad7a6599caf205431f18",
       "stats" : {
         "downloadCount" : 2402,
-        "impressionCount" : 2449,
+        "impressionCount" : 2450,
         "viewCount" : 215
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1582,7 +1582,7 @@
       "sha256" : "b80d3dba83b343fab7a6c8fc08440b2751da1ac12f86fe593da8e74069e4d7f6",
       "stats" : {
         "downloadCount" : 1401,
-        "impressionCount" : 3210,
+        "impressionCount" : 3211,
         "viewCount" : 155
       },
       "subtitle" : "Web browser focusing on security",
@@ -1816,7 +1816,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 894,
-        "impressionCount" : 3631,
+        "impressionCount" : 3632,
         "viewCount" : 309
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -3140,7 +3140,7 @@
       "sha256" : "f3af134f0470ec99c4a76356cb462948b87beb5c3f54d30b557d1710c258fc12",
       "stats" : {
         "downloadCount" : 5324,
-        "impressionCount" : 1717
+        "impressionCount" : 1719
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -5681,7 +5681,7 @@
       "sha256" : "54100906a1e7e984fce9647d30dad2edacd22a10db84bc6c6d4e4a43126019e0",
       "stats" : {
         "downloadCount" : 345,
-        "impressionCount" : 1122
+        "impressionCount" : 1124
       },
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
@@ -7680,7 +7680,7 @@
       "sha256" : "ee09f9d90ffd283a12f5922afe0e0c29baf10b90bba0a752cb781eb2126cf54f",
       "stats" : {
         "downloadCount" : 140,
-        "impressionCount" : 508
+        "impressionCount" : 510
       },
       "subtitle" : "App that enables mouse-free UI interaction",
       "tintColor" : "D4CFC5",
@@ -8985,7 +8985,7 @@
       "sha256" : "f447a66fd1a28fa1c4dd16e8ad7295f7322f248347d4b9f0b8d5facb3a2c1007",
       "stats" : {
         "downloadCount" : 101,
-        "impressionCount" : 525
+        "impressionCount" : 527
       },
       "subtitle" : "Tool for telling interactive, nonlinear stories",
       "tintColor" : "11C396",
@@ -17703,7 +17703,7 @@
       "sha256" : "23b1cceab392bc99ee96bd1ad3d9b03f0ff80ee167b900a6ae8f53f5d233b1f2",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 765
+        "impressionCount" : 766
       },
       "subtitle" : "Platform for podcasting and audio-sharing",
       "tintColor" : "FB4D2D",
@@ -19219,7 +19219,7 @@
       "sha256" : "110c3e488d1a7bba73a8b63d53f0a34011f78291b423a1f20b44d374cb5210af",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 386
+        "impressionCount" : 387
       },
       "subtitle" : "Multi-platform note application",
       "tintColor" : "66B3FF",
@@ -31786,7 +31786,7 @@
       "sha256" : "e2315330da152a1844677c682dc674e75f1298a90808f78e95404e21f715d810",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 875
+        "impressionCount" : 876
       },
       "subtitle" : "PlayStation 2 emulator",
       "tintColor" : "7E80DF",
@@ -45034,7 +45034,7 @@
       "sha256" : "d7a22fea82fafd9d8cfabe53591d0ca83bf08d505a33d9348bffcbfab81695ad",
       "stats" : {
         "downloadCount" : 47,
-        "impressionCount" : 79
+        "impressionCount" : 80
       },
       "subtitle" : "Client for Old School RuneScape",
       "tintColor" : "353535",

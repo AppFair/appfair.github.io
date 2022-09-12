@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.113`` | `414` | `2022-08-30T00:00:00Z` | `9.8 MB` | `304` | `34` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.113`` | `416` | `2022-08-30T00:00:00Z` | `9.8 MB` | `304` | `34` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `40` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4668` | `738` | `1` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `27` | `2022-09-03T00:00:00Z` | `2.2 MB` | `193` | `21` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `26` | `2022-08-27T00:00:00Z` | `4 MB` | `381` | `32` | `1` | `0` |  |

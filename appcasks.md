@@ -209,7 +209,7 @@ tr:nth-child(even) {
 | [``Kap``](https://getkap.co/) | ``3.5.5`` | `811` | `2022-08-15T00:00:00Z` |  | `940` |  |  | `0` | `public.app-category.productivity` |
 | [``DeepL``](https://www.deepl.com/) | ``3.5.251434`` | `807` | `2022-09-07T00:00:00Z` |  | `1021` |  |  | `0` | `public.app-category.reference` |
 | [``KeepingYouAwake``](https://keepingyouawake.app/) | ``1.6.2`` | `793` |  |  | `685` |  |  | `0` | `public.app-category.utilities` |
-| [``DataGrip``](https://www.jetbrains.com/datagrip/) | ``2022.2.4,222.4167.25`` | `792` | `2022-09-12T12:43:56Z` |  | `862` |  |  | `0` | `public.app-category.developer-tools` |
+| [``DataGrip``](https://www.jetbrains.com/datagrip/) | ``2022.2.4,222.4167.25`` | `792` | `2022-09-12T00:00:00Z` |  | `862` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Authy Desktop``](https://authy.com/) | ``2.2.1`` | `788` | `2022-07-06T00:00:00Z` |  | `1038` |  |  | `0` | `public.app-category.utilities` |
 | [``Goland``](https://www.jetbrains.com/go/) | ``2022.2.2,222.3739.57`` | `783` | `2022-08-18T00:00:00Z` |  | `744` |  |  | `0` | `public.app-category.developer-tools` |
 | [``GraphQL Playground``](https://github.com/prisma/graphql-playground) | ``1.8.10`` | `779` |  |  | `659` |  |  | `0` | `public.app-category.developer-tools` |

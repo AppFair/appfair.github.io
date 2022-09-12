@@ -72,7 +72,7 @@
       "size" : 5805788,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 26,
+        "downloadCount" : 27,
         "impressionCount" : 41,
         "issueCount" : 0,
         "starCount" : 1,
@@ -202,6 +202,41 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Huffle-Puff",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
+      "localizedDescription" : "H.R. Huffle Puff ",
+      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Huffle Puff",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "5ea5ef256d2f4f51120a0cabd08b19ba2438348be9410f2e0d6ab0af69bdcf45",
+      "size" : 5665272,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 16,
+        "impressionCount" : 49,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 5,
+        "watcherCount" : 0
+      },
+      "subtitle" : "H.R. Huffle Puff ",
+      "version" : "0.0.10",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
 
@@ -250,41 +285,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Huffle-Puff",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
-      "localizedDescription" : "H.R. Huffle Puff ",
-      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Huffle Puff",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "5ea5ef256d2f4f51120a0cabd08b19ba2438348be9410f2e0d6ab0af69bdcf45",
-      "size" : 5665272,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 15,
-        "impressionCount" : 49,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 5,
-        "watcherCount" : 0
-      },
-      "subtitle" : "H.R. Huffle Puff ",
-      "version" : "0.0.10",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
 
@@ -315,7 +315,7 @@
       "size" : 5774347,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 14,
+        "downloadCount" : 15,
         "impressionCount" : 41,
         "issueCount" : 0,
         "starCount" : 1,

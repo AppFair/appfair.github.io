@@ -29,7 +29,7 @@
       "stats": {
         "coreSize": 170784,
         "downloadCount": 9,
-        "impressionCount": 254,
+        "impressionCount": 255,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 29,
@@ -104,24 +104,24 @@
       "readmeURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs": [
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png"
       ],
-      "sha256": "7f425bd95e116c13ca053c673cc24d559becf74f09e540e0a0b18211038d2066",
-      "size": 5805779,
+      "sha256": "810f388d823b213d75cecc90e9fef97ef320311518167f3aa1d2d5a7d63b3b69",
+      "size": 5805787,
       "stats": {
         "coreSize": 170144,
-        "downloadCount": 1,
-        "impressionCount": 1,
+        "downloadCount": 2,
+        "impressionCount": 0,
         "issueCount": 0,
         "starCount": 1,
-        "viewCount": 1,
+        "viewCount": 0,
         "watcherCount": 0
       },
       "subtitle": "A whimsical game of excitement and delight",
       "tintColor": "AF52DE",
       "version": "0.9.288",
-      "versionDate": "2022-09-12T23:51:16Z",
+      "versionDate": "2022-09-13T00:39:48Z",
       "versionDescription": "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
     },
     {

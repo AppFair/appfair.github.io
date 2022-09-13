@@ -41,7 +41,7 @@
         "coreSize" : 170576,
         "downloadCount" : 40,
         "forkCount" : 0,
-        "impressionCount" : 4704,
+        "impressionCount" : 4705,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 742,
@@ -78,10 +78,10 @@
         "coreSize" : 170176,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 241,
+        "impressionCount" : 242,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 26,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -114,7 +114,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 79,
+        "impressionCount" : 80,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 8,
@@ -163,7 +163,7 @@
         "coreSize" : 170224,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 409,
+        "impressionCount" : 410,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 34,
@@ -201,7 +201,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 228,
+        "impressionCount" : 229,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -247,7 +247,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3304,
+        "impressionCount" : 3306,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 252,
@@ -297,7 +297,7 @@
         "coreSize" : 170240,
         "downloadCount" : 23,
         "forkCount" : 0,
-        "impressionCount" : 59,
+        "impressionCount" : 60,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -375,7 +375,7 @@
         "coreSize" : 152800,
         "downloadCount" : 23,
         "forkCount" : 0,
-        "impressionCount" : 3614,
+        "impressionCount" : 3615,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 596,
@@ -423,7 +423,7 @@
         "coreSize" : 170784,
         "downloadCount" : 22,
         "forkCount" : 0,
-        "impressionCount" : 279,
+        "impressionCount" : 280,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 29,
@@ -516,7 +516,7 @@
         "coreSize" : 170144,
         "downloadCount" : 18,
         "forkCount" : 0,
-        "impressionCount" : 507,
+        "impressionCount" : 508,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -556,10 +556,10 @@
       "sha256" : "01f5f5cf58d56ccdd736389b17f9f649ec8f689154ca410043f3d525554f4a0a",
       "size" : 2281677,
       "stats" : {
-        "coreSize" : 102400,
+        "coreSize" : 170144,
         "downloadCount" : 17,
         "forkCount" : 1,
-        "impressionCount" : 37,
+        "impressionCount" : 38,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -673,7 +673,7 @@
         "coreSize" : 170672,
         "downloadCount" : 10,
         "forkCount" : 1,
-        "impressionCount" : 8,
+        "impressionCount" : 9,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 2,
@@ -867,7 +867,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 391,
+        "impressionCount" : 392,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,
@@ -956,6 +956,50 @@
       "version" : "0.3.38",
       "versionDate" : "2022-01-26T00:00:00Z",
       "versionDescription" : "Release 0.3.38"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_01-mac-1574x1294.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_02-mac-1228x916.png"
+      ],
+      "sha256" : "c8fb706b98fa0e9ced4ee92d9397df6a9971f7b9232bbb6b04b6566c9d8f6c9c",
+      "size" : 4245117,
+      "stats" : {
+        "coreSize" : 170320,
+        "downloadCount" : 5,
+        "forkCount" : 0,
+        "impressionCount" : 326,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 24,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.96",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
     },
     {
       "beta" : true,
@@ -1056,7 +1100,7 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
       "sha256" : "f0ce92a0afbdd1197ee8bcfba806b9ce25b47a60c6029aa06fc3f6b6886f0a0c",
       "size" : 4453030,
       "stats" : {
@@ -1073,50 +1117,6 @@
       "version" : "0.0.14",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_01-mac-1574x1294.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_02-mac-1228x916.png"
-      ],
-      "sha256" : "c8fb706b98fa0e9ced4ee92d9397df6a9971f7b9232bbb6b04b6566c9d8f6c9c",
-      "size" : 4245117,
-      "stats" : {
-        "coreSize" : 170320,
-        "downloadCount" : 4,
-        "forkCount" : 0,
-        "impressionCount" : 325,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 23,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.96",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
     },
     {
       "beta" : true,
@@ -1187,7 +1187,7 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3011,
+        "impressionCount" : 3012,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 168,
@@ -1409,10 +1409,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 381,
+        "impressionCount" : 382,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 36,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1445,7 +1445,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 371,
+        "impressionCount" : 372,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -1485,7 +1485,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 383,
+        "impressionCount" : 384,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1662,7 +1662,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 506,
+        "impressionCount" : 507,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 37,
@@ -1708,6 +1708,50 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "0b7fb6c9e557bf40b284eec4be0860eaf0c5b4601f26af6977fbc94ea0d4c181",
+      "size" : 2281781,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 1,
+        "forkCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.288",
+      "versionDate" : "2022-09-13T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
     },
     {
       "beta" : true,

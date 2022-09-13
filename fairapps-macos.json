@@ -2,82 +2,6 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.113/App-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.113/App-Fair.png",
-      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.113/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.executable",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.server",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.113/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_00-mac-dark-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_00-mac-light-2840x1978.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_01-mac-dark-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_01-mac-light-2840x1848.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_02-mac-dark-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_02-mac-light-2450x1652.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_03-mac-dark-2878x2120.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_04-mac-1424x728.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_05-mac-dark-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_05-mac-light-1424x1038.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_06-mac-dark-1424x1722.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.113/screenshot_06-mac-light-1424x1722.png"
-      ],
-      "sha256" : "d0a31510a46c2b3286aa98b4199e166cd24cc1aeeea898b0f0fc1faf8fe01657",
-      "size" : 9809519,
-      "stats" : {
-        "coreSize" : 170672,
-        "downloadCount" : 439,
-        "forkCount" : 1,
-        "impressionCount" : 323,
-        "issueCount" : 6,
-        "starCount" : 29,
-        "viewCount" : 35,
-        "watcherCount" : 3
-      },
-      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "tintColor" : "1594E8",
-      "version" : "0.8.113",
-      "versionDate" : "2022-08-30T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.112...0.8.113"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Blunder-Busq",
       "categories" : [
 
@@ -117,10 +41,10 @@
         "coreSize" : 170576,
         "downloadCount" : 40,
         "forkCount" : 0,
-        "impressionCount" : 4692,
+        "impressionCount" : 4701,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 741,
+        "viewCount" : 742,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -152,12 +76,12 @@
       "size" : 2249611,
       "stats" : {
         "coreSize" : 170176,
-        "downloadCount" : 29,
+        "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 226,
+        "impressionCount" : 238,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 25,
+        "viewCount" : 26,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -188,12 +112,12 @@
       "size" : 2199554,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 26,
+        "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 66,
+        "impressionCount" : 77,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 7,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
@@ -239,7 +163,7 @@
         "coreSize" : 170224,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 402,
+        "impressionCount" : 403,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 33,
@@ -277,7 +201,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 214,
+        "impressionCount" : 227,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -323,7 +247,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3296,
+        "impressionCount" : 3302,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 252,
@@ -373,7 +297,7 @@
         "coreSize" : 170240,
         "downloadCount" : 23,
         "forkCount" : 0,
-        "impressionCount" : 51,
+        "impressionCount" : 53,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 3,
@@ -410,7 +334,7 @@
         "coreSize" : 170128,
         "downloadCount" : 23,
         "forkCount" : 0,
-        "impressionCount" : 1038,
+        "impressionCount" : 1046,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -451,7 +375,7 @@
         "coreSize" : 152800,
         "downloadCount" : 23,
         "forkCount" : 0,
-        "impressionCount" : 3605,
+        "impressionCount" : 3613,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 596,
@@ -499,7 +423,7 @@
         "coreSize" : 170784,
         "downloadCount" : 22,
         "forkCount" : 0,
-        "impressionCount" : 265,
+        "impressionCount" : 274,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 29,
@@ -592,7 +516,7 @@
         "coreSize" : 170144,
         "downloadCount" : 18,
         "forkCount" : 0,
-        "impressionCount" : 495,
+        "impressionCount" : 502,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -633,9 +557,9 @@
       "size" : 2281677,
       "stats" : {
         "coreSize" : 102400,
-        "downloadCount" : 13,
+        "downloadCount" : 16,
         "forkCount" : 1,
-        "impressionCount" : 17,
+        "impressionCount" : 26,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 2,
@@ -676,7 +600,7 @@
         "coreSize" : 68344,
         "downloadCount" : 11,
         "forkCount" : 0,
-        "impressionCount" : 2238,
+        "impressionCount" : 2244,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 139,
@@ -713,7 +637,7 @@
         "coreSize" : 170144,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 50,
+        "impressionCount" : 58,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -752,7 +676,7 @@
         "coreSize" : 68368,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 2010,
+        "impressionCount" : 2018,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 121,
@@ -792,7 +716,7 @@
         "coreSize" : 152624,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 613,
+        "impressionCount" : 621,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 73,
@@ -828,7 +752,7 @@
         "coreSize" : 152608,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 789,
+        "impressionCount" : 797,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -838,50 +762,6 @@
       "version" : "0.0.37",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.0.37"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "e455333bf19625de3fb009c1b5b71eec49e6085e63a30c025b9114ddb2b01db5",
-      "size" : 2281683,
-      "stats" : {
-        "coreSize" : 102400,
-        "downloadCount" : 7,
-        "forkCount" : 1,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.288",
-      "versionDate" : "2022-09-13T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
     },
     {
       "beta" : false,
@@ -913,7 +793,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 383,
+        "impressionCount" : 390,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,
@@ -953,7 +833,7 @@
         "coreSize" : 152624,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 824,
+        "impressionCount" : 830,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -992,7 +872,7 @@
         "coreSize" : 68344,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 1664,
+        "impressionCount" : 1671,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 93,
@@ -1032,7 +912,7 @@
         "coreSize" : 102472,
         "downloadCount" : 5,
         "forkCount" : 0,
-        "impressionCount" : 1409,
+        "impressionCount" : 1416,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -1068,7 +948,7 @@
         "coreSize" : 170144,
         "downloadCount" : 5,
         "forkCount" : 0,
-        "impressionCount" : 1205,
+        "impressionCount" : 1212,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 100,
@@ -1078,6 +958,47 @@
       "version" : "0.0.1",
       "versionDate" : "2022-07-04T00:00:00Z",
       "versionDescription" : ""
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Fair-Skies.github.io/App",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "sha256" : "f0ce92a0afbdd1197ee8bcfba806b9ce25b47a60c6029aa06fc3f6b6886f0a0c",
+      "size" : 4453030,
+      "stats" : {
+        "coreSize" : 102488,
+        "downloadCount" : 5,
+        "forkCount" : 0,
+        "impressionCount" : 8,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "version" : "0.0.14",
+      "versionDate" : "2022-09-13T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
     },
     {
       "beta" : false,
@@ -1151,7 +1072,7 @@
         "coreSize" : 68360,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 1931,
+        "impressionCount" : 1938,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 44,
@@ -1192,7 +1113,7 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3004,
+        "impressionCount" : 3010,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 168,
@@ -1232,7 +1153,7 @@
         "coreSize" : 152640,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 1216,
+        "impressionCount" : 1221,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -1274,7 +1195,7 @@
         "coreSize" : 68360,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 714,
+        "impressionCount" : 720,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -1314,7 +1235,7 @@
         "coreSize" : 68360,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 656,
+        "impressionCount" : 662,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 56,
@@ -1378,7 +1299,7 @@
         "coreSize" : 153232,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 334,
+        "impressionCount" : 340,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -1414,7 +1335,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 369,
+        "impressionCount" : 375,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -1450,7 +1371,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 364,
+        "impressionCount" : 369,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -1490,7 +1411,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 376,
+        "impressionCount" : 381,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1580,7 +1501,7 @@
         "coreSize" : 68368,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 659,
+        "impressionCount" : 665,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1590,6 +1511,80 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.115/App-Fair-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.115/App-Fair.png",
+      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.115/Info.plist#287f07041cc41ea4c4abc21479cf5d8d11761f6868698f62dfe930e1328f9566",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.115/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_00-mac-dark-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_00-mac-light-2840x1978.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_01-mac-dark-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_01-mac-light-2840x1848.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_02-mac-dark-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_02-mac-light-2450x1652.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_03-mac-dark-2878x2120.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_04-mac-1424x728.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_05-mac-dark-1424x1038.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.115/screenshot_05-mac-light-1424x1038.png"
+      ],
+      "sha256" : "3ed8a90ffe4ddb395d54cdf0626b44a3e4c9f1b52f336a23a5f3da4d02f13d71",
+      "size" : 9830071,
+      "stats" : {
+        "coreSize" : 170672,
+        "downloadCount" : 2,
+        "forkCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 6,
+        "starCount" : 29,
+        "viewCount" : 1,
+        "watcherCount" : 3
+      },
+      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "tintColor" : "1594E8",
+      "version" : "0.8.115",
+      "versionDate" : "2022-09-13T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.114...0.8.115"
     },
     {
       "beta" : true,
@@ -1667,7 +1662,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 493,
+        "impressionCount" : 500,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 37,
@@ -1703,7 +1698,7 @@
         "coreSize" : 102392,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 630,
+        "impressionCount" : 636,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -1743,7 +1738,7 @@
         "coreSize" : 102480,
         "downloadCount" : 1,
         "forkCount" : 0,
-        "impressionCount" : 1061,
+        "impressionCount" : 1068,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -1753,47 +1748,6 @@
       "version" : "0.0.16",
       "versionDate" : "2022-02-12T00:00:00Z",
       "versionDescription" : "Release 0.0.16"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Fair-Skies.github.io/App",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "f0ce92a0afbdd1197ee8bcfba806b9ce25b47a60c6029aa06fc3f6b6886f0a0c",
-      "size" : 4453029,
-      "stats" : {
-        "coreSize" : 102488,
-        "downloadCount" : 0,
-        "forkCount" : 0,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "version" : "0.0.14",
-      "versionDate" : "2022-09-13T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
     }
   ],
   "fundingSources" : [
@@ -1815,13 +1769,6 @@
       "date" : "2022-08-27T15:17:16Z",
       "identifier" : "release-app.Sita-Sings-the-Blues-0.0.51",
       "title" : "New Release: Sita Sings the Blues 0.0.51"
-    },
-    {
-      "appID" : "app.App-Fair",
-      "caption" : "App Fair updated from 0.8.112 to 0.8.113",
-      "date" : "2022-08-30T17:38:39Z",
-      "identifier" : "release-app.App-Fair-0.8.113",
-      "title" : "New Release: App Fair 0.8.113"
     },
     {
       "appID" : "app.Tune-Out",
@@ -1871,6 +1818,13 @@
       "date" : "2022-09-13T06:13:01Z",
       "identifier" : "release-app.Sun-Bow-0.0.12",
       "title" : "New Release: Sun Bow 0.0.12"
+    },
+    {
+      "appID" : "app.App-Fair",
+      "caption" : "App Fair updated from 0.8.113 to 0.8.115",
+      "date" : "2022-09-13T13:04:12Z",
+      "identifier" : "release-app.App-Fair-0.8.115",
+      "title" : "New Release: App Fair 0.8.115"
     }
   ],
   "platform" : "macos"

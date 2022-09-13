@@ -45,11 +45,11 @@ tr:nth-child(even) {
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `7` | `2022-08-27T00:00:00Z` | `1.45 GB` | `395` | `17` | `0` | `0` |  |
 | [``Micro Vector``](https://Micro-Vector.github.io/App/) | ``0.0.8β`` | `7` | `2022-01-24T00:00:00Z` | `2.8 MB` | `830` | `60` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `7` | `2022-01-26T00:00:00Z` | `2.3 MB` | `1671` | `93` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `6` | `2022-09-13T00:00:00Z` | `10 MB` | `0` | `0` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `5` | `2022-09-13T00:00:00Z` | `2.3 MB` | `1` | `1` | `1` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `5` | `2022-08-27T00:00:00Z` | `4.2 MB` | `331` | `24` | `0` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `2.7 MB` | `1416` | `63` | `0` | `0` |  |
 | [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `5` | `2022-07-04T00:00:00Z` | `2 MB` | `1212` | `100` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `4` | `2022-09-13T00:00:00Z` | `10 MB` | `0` | `0` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `4` | `2022-08-27T00:00:00Z` | `2.2 MB` | `394` | `39` | `0` | `0` |  |
 | [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `2.4 MB` | `1938` | `44` | `0` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `4` | `2022-07-20T00:00:00Z` | `12.9 MB` | `3014` | `168` | `0` | `0` |  |

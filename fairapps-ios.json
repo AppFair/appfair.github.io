@@ -583,7 +583,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "49bb7a31273522f80d28ec7e60038eafdbb277cffaab1765c24e5e58aaf45af6",
+      "sha256" : "7f425bd95e116c13ca053c673cc24d559becf74f09e540e0a0b18211038d2066",
       "size" : 5805784,
       "stats" : {
         "coreSize" : 102400,
@@ -1356,7 +1356,7 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
       "sha256" : "a7f0408225575ca1d9fed0c7225fac90f0c3b404eb54ae94d5efd1750fea40ee",
       "size" : 12818836,
       "stats" : {

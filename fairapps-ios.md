@@ -51,7 +51,7 @@ tr:nth-child(even) {
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `3` | `2022-08-27T00:00:00Z` | `1.46 GB` | `394` | `17` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `3` | `2022-08-27T00:00:00Z` | `8.8 MB` | `425` | `38` | `1` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `636` | `40` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.117β`` | `2` | `2022-09-13T00:00:00Z` | `19 MB` | `0` | `0` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `2` | `2022-09-13T00:00:00Z` | `19 MB` | `0` | `0` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `2` | `2022-08-27T00:00:00Z` | `12.8 MB` | `330` | `24` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `393` | `39` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `515` | `40` | `0` | `0` |  |

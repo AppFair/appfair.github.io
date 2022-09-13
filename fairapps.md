@@ -37,10 +37,10 @@ tr:nth-child(even) {
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `20` | `2022-08-27T00:00:00Z` | `3.2 MB` | `183` | `17` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `528` | `42` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2248` | `139` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `9` | `2022-09-13T00:00:00Z` | `10 MB` | `3` | `0` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Todo Hero``](http://appfair.net/#quick-start) | ``0.0.1β`` | `9` | `2022-08-23T00:00:00Z` | `2.2 MB` | `58` | `2` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2018` | `121` | `0` | `0` |  |
 | [``Sun Bow``](http://Fair-Skies.github.io/App) | ``0.0.14β`` | `9` | `2022-09-13T00:00:00Z` | `4.5 MB` | `12` | `2` | `1` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `8` | `2022-09-13T00:00:00Z` | `10 MB` | `3` | `0` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Story Points``](https://Story-Points.github.io/App/) | ``0.0.6β`` | `8` | `2022-01-24T00:00:00Z` | `2.4 MB` | `621` | `73` | `0` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.37β`` | `8` | `2022-01-24T00:00:00Z` | `4.7 MB` | `797` | `41` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `7` | `2022-08-27T00:00:00Z` | `1.45 GB` | `396` | `17` | `0` | `0` |  |

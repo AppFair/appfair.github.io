@@ -25,7 +25,7 @@
       "sha256" : "731c0083401ba102eca0d7cd517c441ffcc314ebb3959b7bda4324bf7bb519a1",
       "stats" : {
         "downloadCount" : 2613,
-        "impressionCount" : 10448,
+        "impressionCount" : 10449,
         "viewCount" : 1162
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "e49dc15eca7faaa4ddd537bff3a5f7848888bd0e97812e6724c4e43f37d29436",
       "stats" : {
         "downloadCount" : 16831,
-        "impressionCount" : 9320,
+        "impressionCount" : 9323,
         "viewCount" : 984
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8801,
-        "impressionCount" : 8144,
+        "impressionCount" : 8146,
         "viewCount" : 702
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28026,
-        "impressionCount" : 8646,
+        "impressionCount" : 8647,
         "viewCount" : 729
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8382,
-        "impressionCount" : 8541,
+        "impressionCount" : 8542,
         "viewCount" : 676
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6164,
-        "impressionCount" : 8435,
+        "impressionCount" : 8436,
         "viewCount" : 543
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "6228b41938ad3ef76450c843a510615b07f8058bc9a256d1ff3fbf928a384235",
       "stats" : {
         "downloadCount" : 3478,
-        "impressionCount" : 7749,
+        "impressionCount" : 7751,
         "viewCount" : 574
       },
       "subtitle" : "Text editor",
@@ -238,7 +238,7 @@
       "sha256" : "8f22fb8ecb3a67611e68c7e643c3424850dfdcb7b04795e4175bb2ce8f436faf",
       "stats" : {
         "downloadCount" : 3229,
-        "impressionCount" : 8979,
+        "impressionCount" : 8982,
         "viewCount" : 603
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -292,8 +292,8 @@
       "sha256" : "246e1b174af3f61513e4e004e948a325149091b5165b7005391570f6d334ee3e",
       "stats" : {
         "downloadCount" : 2367,
-        "impressionCount" : 7431,
-        "viewCount" : 464
+        "impressionCount" : 7434,
+        "viewCount" : 465
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
       "tintColor" : "369C3B",
@@ -358,8 +358,8 @@
       "sha256" : "73dd1ede9fd57cf436aa9b9e82fdbe9685cafdc99066081de8e4bdee1790ba0b",
       "stats" : {
         "downloadCount" : 1210,
-        "impressionCount" : 8805,
-        "viewCount" : 493
+        "impressionCount" : 8809,
+        "viewCount" : 494
       },
       "subtitle" : "3D creation suite",
       "tintColor" : "D28C43",
@@ -479,7 +479,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 455,
-        "impressionCount" : 7022,
+        "impressionCount" : 7024,
         "viewCount" : 496
       },
       "subtitle" : "Text, code, and markup editor",
@@ -508,7 +508,7 @@
       ],
       "stats" : {
         "downloadCount" : 411,
-        "impressionCount" : 6413,
+        "impressionCount" : 6415,
         "viewCount" : 484
       },
       "subtitle" : "Sandbox construction video game",
@@ -764,7 +764,7 @@
       "sha256" : "41085009458ba1741c6a86c414190780ff3b288879aa27821fc4a985d229653c",
       "stats" : {
         "downloadCount" : 25446,
-        "impressionCount" : 4490,
+        "impressionCount" : 4492,
         "viewCount" : 308
       },
       "subtitle" : "App to build and share containerized applications and microservices",
@@ -810,8 +810,8 @@
       "sha256" : "841c8df079da473a634b44c1841ff63cc90ed7b3d2563df7379bb7b046afc0cf",
       "stats" : {
         "downloadCount" : 8583,
-        "impressionCount" : 3334,
-        "viewCount" : 253
+        "impressionCount" : 3337,
+        "viewCount" : 254
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "DEDFDA",
@@ -942,7 +942,7 @@
       "sha256" : "9caaeacd888b98a47fbf666ddf50d1416dbabdeacda6588da211f2344cec51ef",
       "stats" : {
         "downloadCount" : 4046,
-        "impressionCount" : 4531,
+        "impressionCount" : 4533,
         "viewCount" : 275
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1348,7 +1348,7 @@
       "sha256" : "27bb0d4baee3b1e06eb4e5f08e0c349b9ea0b2deb5802a3207b74278ce578d61",
       "stats" : {
         "downloadCount" : 2458,
-        "impressionCount" : 3913,
+        "impressionCount" : 3915,
         "viewCount" : 401
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -1583,7 +1583,7 @@
       "sha256" : "b80d3dba83b343fab7a6c8fc08440b2751da1ac12f86fe593da8e74069e4d7f6",
       "stats" : {
         "downloadCount" : 1402,
-        "impressionCount" : 3228,
+        "impressionCount" : 3230,
         "viewCount" : 156
       },
       "subtitle" : "Web browser focusing on security",
@@ -2106,7 +2106,7 @@
       "sha256" : "e65a6c62feb405a40f9477c7f454a84cec6c812824f60973cfd3b1b574f07d3e",
       "stats" : {
         "downloadCount" : 481,
-        "impressionCount" : 2790,
+        "impressionCount" : 2792,
         "viewCount" : 130
       },
       "subtitle" : "Home media player",
@@ -2314,7 +2314,7 @@
       "sha256" : "ffecde430594c14dc9b71b70be376ce7515f20e00529128a0f256830de99a094",
       "stats" : {
         "downloadCount" : 244,
-        "impressionCount" : 3424,
+        "impressionCount" : 3426,
         "viewCount" : 164
       },
       "subtitle" : "Matrix collaboration client",
@@ -3141,7 +3141,7 @@
       "sha256" : "f3af134f0470ec99c4a76356cb462948b87beb5c3f54d30b557d1710c258fc12",
       "stats" : {
         "downloadCount" : 5358,
-        "impressionCount" : 1760
+        "impressionCount" : 1761
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -3435,7 +3435,7 @@
       "sha256" : "437d85d76a627f72831b1efb8f0f657ca48b6f1f264d49c1ebcf85ecd29fede7",
       "stats" : {
         "downloadCount" : 2287,
-        "impressionCount" : 2835
+        "impressionCount" : 2837
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
@@ -3518,7 +3518,7 @@
       "sha256" : "7a351f2fa507a8cbac55f6a094694e0cab457ca6cdc336752e6464712ce27aca",
       "stats" : {
         "downloadCount" : 1939,
-        "impressionCount" : 2182
+        "impressionCount" : 2184
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -40232,7 +40232,7 @@
       "sha256" : "46e79fe8d3dd66fa8a13f6c2e6e248cd6fa90361fcc4e2bf67d659d7c5a1b349",
       "stats" : {
         "downloadCount" : 930,
-        "impressionCount" : 576
+        "impressionCount" : 578
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
@@ -41331,20 +41331,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/Ultimaker/Cura/releases/download/5.1.0/Ultimaker-Cura-5.1.0-mac.dmg",
+      "downloadURL" : "https://github.com/Ultimaker/Cura/releases/download/5.1.1/Ultimaker-Cura-5.1.1-mac.dmg",
       "homepage" : "https://ultimaker.com/software/ultimaker-cura",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ultimaker-cura/AppIcon.png",
       "localizedDescription" : "3D printer and slicing GUI",
       "name" : "Ultimaker Cura",
-      "sha256" : "589a2a23e356ef0106f8d744b3d6615b45b7b25f6d4f3553f6ac70e9c5c16de2",
+      "sha256" : "4642777388ab3f45485a7e3a0e302c7741f14c52eecdd954cb44c3523de47e2e",
       "stats" : {
         "downloadCount" : 249,
         "impressionCount" : 73
       },
       "subtitle" : "3D printer and slicing GUI",
       "tintColor" : "38B9E8",
-      "version" : "5.1.0",
-      "versionDate" : "2022-07-19T00:00:00Z"
+      "version" : "5.1.1",
+      "versionDate" : "2022-09-13T16:00:06Z"
     },
     {
       "beta" : false,
@@ -73956,13 +73956,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "vimr",
-      "caption" : "VimR updated from 0.42.0,20220703.104316 to 0.42.1,20220910.153746",
-      "date" : "2022-09-10T20:23:04Z",
-      "identifier" : "release-vimr-0.42.1,20220910.153746",
-      "title" : "New Release: VimR 0.42.1,20220910.153746"
-    },
-    {
       "appID" : "heroic",
       "caption" : "Heroic Games Launcher updated from 2.4.2 to 2.4.3",
       "date" : "2022-09-10T20:23:04Z",
@@ -74654,6 +74647,13 @@
       "date" : "2022-09-13T13:59:58Z",
       "identifier" : "release-webots-R2022b",
       "title" : "New Release: Cyberbotics Webots Robot Simulator R2022b"
+    },
+    {
+      "appID" : "ultimaker-cura",
+      "caption" : "Ultimaker Cura updated from 5.1.0 to 5.1.1",
+      "date" : "2022-09-13T16:00:07Z",
+      "identifier" : "release-ultimaker-cura-5.1.1",
+      "title" : "New Release: Ultimaker Cura 5.1.1"
     }
   ],
   "platform" : "macos",

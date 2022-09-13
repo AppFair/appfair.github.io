@@ -41,7 +41,7 @@
         "coreSize" : 170576,
         "downloadCount" : 40,
         "forkCount" : 0,
-        "impressionCount" : 4705,
+        "impressionCount" : 4706,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 742,
@@ -78,7 +78,7 @@
         "coreSize" : 170176,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 242,
+        "impressionCount" : 243,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -114,10 +114,10 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 80,
+        "impressionCount" : 81,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 8,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
@@ -161,12 +161,12 @@
       "size" : 4011787,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 26,
+        "downloadCount" : 27,
         "forkCount" : 0,
-        "impressionCount" : 410,
+        "impressionCount" : 419,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 34,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -201,7 +201,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 229,
+        "impressionCount" : 230,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -247,7 +247,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3306,
+        "impressionCount" : 3307,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 252,
@@ -297,7 +297,7 @@
         "coreSize" : 170240,
         "downloadCount" : 23,
         "forkCount" : 0,
-        "impressionCount" : 60,
+        "impressionCount" : 62,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -423,7 +423,7 @@
         "coreSize" : 170784,
         "downloadCount" : 22,
         "forkCount" : 0,
-        "impressionCount" : 280,
+        "impressionCount" : 281,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 29,
@@ -516,7 +516,7 @@
         "coreSize" : 170144,
         "downloadCount" : 18,
         "forkCount" : 0,
-        "impressionCount" : 508,
+        "impressionCount" : 509,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -570,46 +570,6 @@
       "version" : "0.9.287",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.286...0.9.287"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Down-Town",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
-      "localizedDescription" : "An urban street guide",
-      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Down Town",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
-      "screenshotURLs" : [
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
-        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
-      ],
-      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
-      "size" : 2338254,
-      "stats" : {
-        "coreSize" : 68344,
-        "downloadCount" : 11,
-        "forkCount" : 0,
-        "impressionCount" : 2245,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 139,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An urban street guide",
-      "version" : "0.0.3",
-      "versionDate" : "2022-01-25T00:00:00Z",
-      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : false,
@@ -671,9 +631,9 @@
       "size" : 9830071,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 10,
+        "downloadCount" : 12,
         "forkCount" : 1,
-        "impressionCount" : 9,
+        "impressionCount" : 10,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 2,
@@ -684,6 +644,46 @@
       "version" : "0.8.115",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.114...0.8.115"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Down-Town",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
+      "localizedDescription" : "An urban street guide",
+      "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Down Town",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/README.md#a5d47e741fb93553eeb4216a13174c5e3f5e5a04a19936ebb8fcba5f15f112f6",
+      "screenshotURLs" : [
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-dark-712x1078.png",
+        "https://github.com/Down-Town/App/releases/download/0.0.3/screenshot_01-mac-light-712x1078.png"
+      ],
+      "sha256" : "100691a398de53e5ca21540f1dd272158c3c0307362bb61722aa536f24a4410d",
+      "size" : 2338254,
+      "stats" : {
+        "coreSize" : 68344,
+        "downloadCount" : 11,
+        "forkCount" : 0,
+        "impressionCount" : 2245,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 139,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An urban street guide",
+      "version" : "0.0.3",
+      "versionDate" : "2022-01-25T00:00:00Z",
+      "versionDescription" : "Release 0.0.3"
     },
     {
       "beta" : true,
@@ -1409,7 +1409,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 382,
+        "impressionCount" : 383,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 37,
@@ -1588,6 +1588,50 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "0b7fb6c9e557bf40b284eec4be0860eaf0c5b4601f26af6977fbc94ea0d4c181",
+      "size" : 2281781,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "forkCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.288",
+      "versionDate" : "2022-09-13T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
 
@@ -1662,7 +1706,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 507,
+        "impressionCount" : 508,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 37,
@@ -1708,50 +1752,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "0b7fb6c9e557bf40b284eec4be0860eaf0c5b4601f26af6977fbc94ea0d4c181",
-      "size" : 2281781,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 1,
-        "forkCount" : 1,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.288",
-      "versionDate" : "2022-09-13T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
     },
     {
       "beta" : true,

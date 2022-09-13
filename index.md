@@ -1063,6 +1063,10 @@ A fair-ground is responsible for ensuring Source Transparency, which is the guar
 Since the artifacts that are distributed through the App Fair are released by an _untrusted_ fork, the fair-ground re-builds every app release in its own _trusted_ environment, and then compares the binary artifacts between the two builds to ensure they are identical.
 If these build artifacts match, then a `fairseal` is published with the cryptographic hash of the validated binary. This `fairseal` is a pre-requisite for being included in the App Fair catalog.
 
+Build reproducibility is a recommended cornerstone of a secure system, such as in the [Securing the Software Supply Chain: Recommended Practices Guide for Developers](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF) guide by the US [National Securiry Agency](https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/3146465/nsa-cisa-odni-release-software-supply-chain-guidance-for-developers/): “Reproducible builds provide additional protection and validation against attempts to compromise build systems. They ensure the binary products of each build system match: i.e., they are built from the same source, regardless of variable metadata such as the order of input files, timestamps, locales, and paths. Reproducible builds are those where re-running the build steps with identical input artifacts results in bit-for-bit identical output. Builds that cannot meet this must provide a justification why the build cannot be made reproducible.”
+
+
+
 ### How can I ensure that my project produces reproducible builds?
 
 The workflows that the fairground uses to build and validate the project specify the correct flags for enabling reproducible builds. This means that most pure-Swift projects won't need any special consideration, and can be assumed to be reproducible.

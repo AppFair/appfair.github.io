@@ -17,6 +17,11 @@
 
 name: Publish App Catalogs
 
+env:
+  FAIRTOOL: "fairtool"
+  # fairtool-head will build from source, which adds a few minutes
+  #FAIRTOOL: "fairtool-head"
+
 on:
   push:
     branches: [ main ]
@@ -33,10 +38,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     steps:
-      - name: Install fairtool
+      - name: "Install ${{ env.FAIRTOOL }}"
         run: |
-          brew install fair-ground/tool/fairtool-head
-          fairtool-head version
+          brew install fair-ground/tool/$FAIRTOOL
+          $FAIRTOOL version
 
       - name: Checkout Catalog
         uses: actions/checkout@v2
@@ -79,7 +84,7 @@ jobs:
       - name: Generate macOS catalog
         run: |
           cp appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json && touch appfair.github.io/fairapps-macos_old.json
-          fairtool-head fair catalog \
+          $FAIRTOOL fair catalog \
             --verbose \
             --hub github.com/appfair \
             --base-repo "App" \
@@ -99,7 +104,7 @@ jobs:
             -o appfair.github.io/fairapps-macos.json
 
           # update the catalog to generate the markdown and news items 
-          fairtool-head source postrelease \
+          $FAIRTOOL source postrelease \
             --from-catalog appfair.github.io/fairapps-macos_old.json \
             --to-catalog appfair.github.io/fairapps-macos.json \
             --markdown-index appfair.github.io/fairapps-macos.md \
@@ -133,7 +138,7 @@ jobs:
       - name: Generate iOS catalog
         run: |
           cp appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios_old.json && touch appfair.github.io/appcasks_old.json
-          fairtool-head fair catalog \
+          $FAIRTOOL fair catalog \
             --verbose \
             --hub github.com/appfair \
             --base-repo "App" \
@@ -158,7 +163,7 @@ jobs:
           cd -
 
           # update the catalog to generate the markdown and news items 
-          fairtool-head source postrelease \
+          $FAIRTOOL source postrelease \
             --from-catalog appfair.github.io/fairapps-ios_old.json \
             --to-catalog appfair.github.io/fairapps-ios.json \
             --markdown-index appfair.github.io/fairapps-ios.md \
@@ -184,7 +189,7 @@ jobs:
       - name: Generate appcasks catalog
         run: |
           cp appfair.github.io/appcasks.json appfair.github.io/appcasks_old.json && touch appfair.github.io/appcasks_old.json
-          fairtool-head brew appcasks \
+          $FAIRTOOL brew appcasks \
             --verbose \
             --hub github.com/appfair \
             --base-repo "App" \
@@ -204,7 +209,7 @@ jobs:
             -o appfair.github.io/appcasks.json
 
           # update the catalog to generate the markdown and news items 
-          fairtool-head source postrelease \
+          $FAIRTOOL source postrelease \
             --from-catalog appfair.github.io/appcasks_old.json \
             --to-catalog appfair.github.io/appcasks.json \
             --markdown-index appfair.github.io/appcasks.md \

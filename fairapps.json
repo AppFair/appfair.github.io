@@ -59,12 +59,12 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 89,
+        "downloadCount" : 91,
         "forkCount" : 1,
-        "impressionCount" : 25,
+        "impressionCount" : 29,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -114,7 +114,7 @@
         "coreSize" : 170576,
         "downloadCount" : 41,
         "forkCount" : 0,
-        "impressionCount" : 4728,
+        "impressionCount" : 4730,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 747,
@@ -125,6 +125,42 @@
       "version" : "0.1.7",
       "versionDate" : "2022-05-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "ec02755c6bb605791ca016cf0c3e4362fbcf65e6673e29da7c52fa92c874229f",
+      "size" : 2249611,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 31,
+        "forkCount" : 0,
+        "impressionCount" : 288,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 31,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.72",
+      "versionDate" : "2022-09-03T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : false,
@@ -158,10 +194,10 @@
         "coreSize" : 170144,
         "downloadCount" : 30,
         "forkCount" : 1,
-        "impressionCount" : 66,
+        "impressionCount" : 69,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 5,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -169,42 +205,6 @@
       "version" : "0.9.287",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.286...0.9.287"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "ec02755c6bb605791ca016cf0c3e4362fbcf65e6673e29da7c52fa92c874229f",
-      "size" : 2249611,
-      "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 30,
-        "forkCount" : 0,
-        "impressionCount" : 280,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 29,
-        "watcherCount" : 0
-      },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.72",
-      "versionDate" : "2022-09-03T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : false,
@@ -231,10 +231,10 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 114,
+        "impressionCount" : 119,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
@@ -280,10 +280,10 @@
         "coreSize" : 170224,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 450,
+        "impressionCount" : 454,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 38,
+        "viewCount" : 39,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -318,105 +318,16 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 255,
+        "impressionCount" : 259,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 16,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
       "version" : "0.0.5",
       "versionDate" : "2022-09-02T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-dark-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-light-1820x1468.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-mac-1864x1392.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_03-mac-2360x1742.png"
-      ],
-      "sha256" : "ed27a56682b188e537f44653c665d84dc3e4ce42ee73bbee723bfa946f624378",
-      "size" : 2118382,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 24,
-        "forkCount" : 0,
-        "impressionCount" : 3330,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 253,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.20",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Next-Edit",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
-      "localizedDescription" : "Syntactic Text Editor",
-      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
-      "name" : "Next Edit",
-      "permissions" : [
-        {
-          "type" : "files.user-selected.read-write",
-          "usageDescription" : "This app needs to read and write files in order to edit text."
-        }
-      ],
-      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
-      "screenshotURLs" : [
-        "https://github.com/Next-Edit/App/releases/download/0.4.18/screenshot_01-mac-2006x1520.png"
-      ],
-      "sha256" : "6ee478349595968078112b52bbde2bf14753271fd31531bea7c0bca10977d28a",
-      "size" : 6702858,
-      "stats" : {
-        "coreSize" : 152800,
-        "downloadCount" : 24,
-        "forkCount" : 0,
-        "impressionCount" : 3637,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 599,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Syntactic Text Editor",
-      "version" : "0.4.18",
-      "versionDate" : "2022-01-20T00:00:00Z",
-      "versionDescription" : "Release 0.4.18"
     },
     {
       "beta" : false,
@@ -454,12 +365,12 @@
       "size" : 2275741,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 23,
+        "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 90,
+        "impressionCount" : 94,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 5,
+        "viewCount" : 8,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -503,12 +414,12 @@
       "size" : 9641013,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 23,
+        "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 316,
+        "impressionCount" : 319,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 33,
+        "viewCount" : 35,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -516,6 +427,95 @@
       "version" : "0.8.458",
       "versionDate" : "2022-09-01T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-dark-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-mac-light-1820x1468.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-mac-1864x1392.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_03-mac-2360x1742.png"
+      ],
+      "sha256" : "ed27a56682b188e537f44653c665d84dc3e4ce42ee73bbee723bfa946f624378",
+      "size" : 2118382,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 24,
+        "forkCount" : 0,
+        "impressionCount" : 3332,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 253,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.20",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Next-Edit",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.net>",
+      "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
+      "localizedDescription" : "Syntactic Text Editor",
+      "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
+      "name" : "Next Edit",
+      "permissions" : [
+        {
+          "type" : "files.user-selected.read-write",
+          "usageDescription" : "This app needs to read and write files in order to edit text."
+        }
+      ],
+      "readmeURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/README.md#f9cf464cfc7a08451b3af964a530a17e448301cb21bdf6477856ee9080340e07",
+      "screenshotURLs" : [
+        "https://github.com/Next-Edit/App/releases/download/0.4.18/screenshot_01-mac-2006x1520.png"
+      ],
+      "sha256" : "6ee478349595968078112b52bbde2bf14753271fd31531bea7c0bca10977d28a",
+      "size" : 6702858,
+      "stats" : {
+        "coreSize" : 152800,
+        "downloadCount" : 24,
+        "forkCount" : 0,
+        "impressionCount" : 3639,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 599,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Syntactic Text Editor",
+      "version" : "0.4.18",
+      "versionDate" : "2022-01-20T00:00:00Z",
+      "versionDescription" : "Release 0.4.18"
     },
     {
       "beta" : true,
@@ -594,10 +594,10 @@
         "coreSize" : 170224,
         "downloadCount" : 20,
         "forkCount" : 0,
-        "impressionCount" : 190,
+        "impressionCount" : 192,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 17,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -633,7 +633,7 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 546,
+        "impressionCount" : 551,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 44,
@@ -674,10 +674,10 @@
         "coreSize" : 102488,
         "downloadCount" : 12,
         "forkCount" : 0,
-        "impressionCount" : 12,
+        "impressionCount" : 14,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 3,
         "watcherCount" : 0
       },
       "subtitle" : "An app for sunnier days",
@@ -714,7 +714,7 @@
         "coreSize" : 68344,
         "downloadCount" : 11,
         "forkCount" : 0,
-        "impressionCount" : 2249,
+        "impressionCount" : 2250,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 139,
@@ -751,7 +751,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "0b7fb6c9e557bf40b284eec4be0860eaf0c5b4601f26af6977fbc94ea0d4c181",
+      "sha256" : "e455333bf19625de3fb009c1b5b71eec49e6085e63a30c025b9114ddb2b01db5",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,
@@ -795,7 +795,7 @@
         "coreSize" : 170144,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 58,
+        "impressionCount" : 61,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -951,7 +951,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 413,
+        "impressionCount" : 416,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -1030,7 +1030,7 @@
         "coreSize" : 68344,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 1671,
+        "impressionCount" : 1672,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 93,
@@ -1074,7 +1074,7 @@
         "coreSize" : 170320,
         "downloadCount" : 5,
         "forkCount" : 0,
-        "impressionCount" : 351,
+        "impressionCount" : 354,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -1186,7 +1186,7 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 413,
+        "impressionCount" : 416,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -1348,7 +1348,7 @@
         "coreSize" : 68360,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 720,
+        "impressionCount" : 721,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -1488,7 +1488,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 393,
+        "impressionCount" : 396,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -1528,7 +1528,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 400,
+        "impressionCount" : 402,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -1582,7 +1582,7 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 152,
+        "impressionCount" : 154,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1705,7 +1705,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 543,
+        "impressionCount" : 545,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,

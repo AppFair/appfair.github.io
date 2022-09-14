@@ -2,59 +2,6 @@
   "apps" : [
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Blunder-Busq",
-      "categories" : [
-
-      ],
-      "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
-      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://www.blunderbusq.app",
-      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
-      "localizedDescription" : "App for managing iOS devices",
-      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
-      "name" : "Blunder Busq",
-      "permissions" : [
-        {
-          "type" : "network.client",
-          "usageDescription" : "This app needs to access the network in order to download apps"
-        },
-        {
-          "type" : "device.usb",
-          "usageDescription" : "This app needs to access USB connections to devices"
-        },
-        {
-          "type" : "files.user-selected.read-only",
-          "usageDescription" : "This app needs to read local files in order to load user-selected IPAs"
-        }
-      ],
-      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/README.md#3f5af5ae690752c4cdb38f3c2620a4c99e60f17d144edcec5a1f8ae1c5a34ba8",
-      "screenshotURLs" : [
-        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-dark-2560x1884.png",
-        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-light-2560x1884.png"
-      ],
-      "sha256" : "4ec4bc454a71f12fa9abe0dd5ab3ec44d3d9fd2babd2e1c8fad514c1af907100",
-      "size" : 4506286,
-      "stats" : {
-        "coreSize" : 170576,
-        "downloadCount" : 41,
-        "forkCount" : 0,
-        "impressionCount" : 4719,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 744,
-        "watcherCount" : 1
-      },
-      "subtitle" : "App for managing iOS devices",
-      "tintColor" : "587FE3",
-      "version" : "0.1.7",
-      "versionDate" : "2022-05-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
 
@@ -112,12 +59,12 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 37,
+        "downloadCount" : 49,
         "forkCount" : 1,
-        "impressionCount" : 5,
+        "impressionCount" : 12,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 0,
+        "viewCount" : 1,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -128,39 +75,56 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "bundleIdentifier" : "app.Blunder-Busq",
       "categories" : [
 
       ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
+      "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
+      "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
-      "localizedDescription" : "All the accumulated knowledge in the galaxy",
-      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
-      "name" : "Encyclopedia Galactica",
+      "homepage" : "https://www.blunderbusq.app",
+      "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
+      "localizedDescription" : "App for managing iOS devices",
+      "metadataURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Info.plist#eeacf8a384590ae1a8681f0a12a0562cc5ffddd7ad296886d77afd869cc0acb5",
+      "name" : "Blunder Busq",
       "permissions" : [
-
+        {
+          "type" : "network.client",
+          "usageDescription" : "This app needs to access the network in order to download apps"
+        },
+        {
+          "type" : "device.usb",
+          "usageDescription" : "This app needs to access USB connections to devices"
+        },
+        {
+          "type" : "files.user-selected.read-only",
+          "usageDescription" : "This app needs to read local files in order to load user-selected IPAs"
+        }
       ],
-      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
-      "sha256" : "ec02755c6bb605791ca016cf0c3e4362fbcf65e6673e29da7c52fa92c874229f",
-      "size" : 2249611,
+      "readmeURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/README.md#3f5af5ae690752c4cdb38f3c2620a4c99e60f17d144edcec5a1f8ae1c5a34ba8",
+      "screenshotURLs" : [
+        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-dark-2560x1884.png",
+        "https://github.com/Blunder-Busq/App/releases/download/0.1.7/screenshot_01-mac-light-2560x1884.png"
+      ],
+      "sha256" : "4ec4bc454a71f12fa9abe0dd5ab3ec44d3d9fd2babd2e1c8fad514c1af907100",
+      "size" : 4506286,
       "stats" : {
-        "coreSize" : 170176,
-        "downloadCount" : 30,
+        "coreSize" : 170576,
+        "downloadCount" : 41,
         "forkCount" : 0,
-        "impressionCount" : 260,
+        "impressionCount" : 4720,
         "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 28,
-        "watcherCount" : 0
+        "starCount" : 1,
+        "viewCount" : 744,
+        "watcherCount" : 1
       },
-      "subtitle" : "All the accumulated knowledge in the galaxy",
-      "version" : "0.1.72",
-      "versionDate" : "2022-09-03T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
+      "subtitle" : "App for managing iOS devices",
+      "tintColor" : "587FE3",
+      "version" : "0.1.7",
+      "versionDate" : "2022-05-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
     },
     {
       "beta" : false,
@@ -192,9 +156,9 @@
       "size" : 2281677,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 28,
+        "downloadCount" : 30,
         "forkCount" : 1,
-        "impressionCount" : 52,
+        "impressionCount" : 55,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -205,6 +169,42 @@
       "version" : "0.9.287",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.286...0.9.287"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Encyclopedia-Galactica",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
+      "localizedDescription" : "All the accumulated knowledge in the galaxy",
+      "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
+      "name" : "Encyclopedia Galactica",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/README.md#ce33dac1001957bd5c16ba4675f2d5c05b0c376730954eeaa320140ef7ae20ad",
+      "sha256" : "ec02755c6bb605791ca016cf0c3e4362fbcf65e6673e29da7c52fa92c874229f",
+      "size" : 2249611,
+      "stats" : {
+        "coreSize" : 170176,
+        "downloadCount" : 30,
+        "forkCount" : 0,
+        "impressionCount" : 265,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 28,
+        "watcherCount" : 0
+      },
+      "subtitle" : "All the accumulated knowledge in the galaxy",
+      "version" : "0.1.72",
+      "versionDate" : "2022-09-03T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
       "beta" : false,
@@ -231,7 +231,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 93,
+        "impressionCount" : 98,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -280,7 +280,7 @@
         "coreSize" : 170224,
         "downloadCount" : 27,
         "forkCount" : 0,
-        "impressionCount" : 436,
+        "impressionCount" : 438,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 38,
@@ -318,7 +318,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 240,
+        "impressionCount" : 243,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 16,
@@ -364,7 +364,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3321,
+        "impressionCount" : 3322,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 252,
@@ -407,7 +407,7 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3624,
+        "impressionCount" : 3626,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 597,
@@ -456,7 +456,7 @@
         "coreSize" : 170240,
         "downloadCount" : 23,
         "forkCount" : 0,
-        "impressionCount" : 76,
+        "impressionCount" : 79,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -540,7 +540,7 @@
         "coreSize" : 170784,
         "downloadCount" : 22,
         "forkCount" : 0,
-        "impressionCount" : 299,
+        "impressionCount" : 302,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 30,
@@ -594,7 +594,7 @@
         "coreSize" : 170224,
         "downloadCount" : 20,
         "forkCount" : 0,
-        "impressionCount" : 184,
+        "impressionCount" : 187,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,
@@ -633,7 +633,7 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 533,
+        "impressionCount" : 536,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 43,
@@ -727,6 +727,50 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "e455333bf19625de3fb009c1b5b71eec49e6085e63a30c025b9114ddb2b01db5",
+      "size" : 2281781,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 9,
+        "forkCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.288",
+      "versionDate" : "2022-09-13T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Todo-Hero",
       "categories" : [
 
@@ -800,50 +844,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-23T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "78b5d4fa8406635dbe4e0e51ed37fb912669625f932a4e9877f6bb3b4747943b",
-      "size" : 2281781,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 8,
-        "forkCount" : 1,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.288",
-      "versionDate" : "2022-09-13T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
     },
     {
       "beta" : true,
@@ -951,7 +951,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 399,
+        "impressionCount" : 402,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 18,
@@ -1074,7 +1074,7 @@
         "coreSize" : 170320,
         "downloadCount" : 5,
         "forkCount" : 0,
-        "impressionCount" : 339,
+        "impressionCount" : 342,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -1186,7 +1186,7 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 400,
+        "impressionCount" : 404,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -1266,7 +1266,7 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3016,
+        "impressionCount" : 3017,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 168,
@@ -1488,7 +1488,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 379,
+        "impressionCount" : 381,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -1528,7 +1528,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 389,
+        "impressionCount" : 392,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1582,7 +1582,7 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 150,
+        "impressionCount" : 151,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 11,
@@ -1705,7 +1705,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 524,
+        "impressionCount" : 528,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 37,

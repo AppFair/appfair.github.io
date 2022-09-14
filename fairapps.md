@@ -36,7 +36,7 @@ tr:nth-child(even) {
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `22` | `2022-09-01T00:00:00Z` | `9.6 MB` | `295` | `30` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `20` | `2022-08-27T00:00:00Z` | `3.2 MB` | `183` | `17` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `528` | `42` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `12` | `2022-09-13T00:00:00Z` | `10 MB` | `3` | `0` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `13` | `2022-09-13T00:00:00Z` | `10 MB` | `4` | `0` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2248` | `139` | `0` | `0` |  |
 | [``Sun Bow``](http://Fair-Skies.github.io/App) | ``0.0.14β`` | `10` | `2022-09-13T00:00:00Z` | `4.5 MB` | `12` | `2` | `1` | `0` |  |
 | [``Todo Hero``](http://appfair.net/#quick-start) | ``0.0.1β`` | `9` | `2022-08-23T00:00:00Z` | `2.2 MB` | `58` | `2` | `0` | `0` |  |

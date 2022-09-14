@@ -430,7 +430,7 @@ tr:nth-child(even) {
 | [``MusicBrainz Picard``](https://picard.musicbrainz.org/) | ``2.8.3`` | `104` | `2022-08-18T00:00:00Z` |  | `859` |  |  | `0` | `public.app-category.music` |
 | [``FannyWidget``](https://fannywidget.com/) | ``2.3.0`` | `103` |  |  | `540` |  |  | `0` | `public.app-category.utilities` |
 | [``SmartGit``](https://www.syntevo.com/smartgit/) | ``21.2.4`` | `103` | `2022-09-06T00:00:00Z` |  | `323` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Camo Studio``](https://reincubate.com/camo/) | ``1.7.2,8086`` | `100` | `2022-09-06T00:00:00Z` |  | `902` |  |  | `0` | `public.app-category.utilities` |
+| [``Camo Studio``](https://reincubate.com/camo/) | ``1.8.0,8142`` | `100` | `2022-09-14T23:26:51Z` |  | `902` |  |  | `0` | `public.app-category.utilities` |
 | [``Glance``](https://github.com/samuelmeuli/glance) | ``1.2.0`` | `100` |  |  | `779` |  |  | `0` | `public.app-category.productivity` |
 | [``Sloth``](https://sveinbjorn.org/sloth) | ``3.2,300`` | `100` |  |  | `358` |  |  | `0` | `public.app-category.utilities` |
 | [``foobar2000``](https://www.foobar2000.org/mac) | ``2.3`` | `99` |  |  | `1011` |  |  | `0` | `public.app-category.music` |

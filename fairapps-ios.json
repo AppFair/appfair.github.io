@@ -546,7 +546,7 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
       "sha256" : "a214d9ac0d0d4750d125072ca437f345921e1b7002f3a57ba55d25804220bb7f",
       "size" : 12818837,
       "stats" : {
@@ -624,7 +624,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "810f388d823b213d75cecc90e9fef97ef320311518167f3aa1d2d5a7d63b3b69",
+      "sha256" : "9917f71f87f93cc9a749519b88819e9bcbdc28d2af16250eafb6baee3a022655",
       "size" : 5803917,
       "stats" : {
         "coreSize" : 170144,
@@ -1075,7 +1075,7 @@
         "coreSize" : 170672,
         "downloadCount" : 3,
         "forkCount" : 1,
-        "impressionCount" : 3,
+        "impressionCount" : 4,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 0,
@@ -1181,6 +1181,42 @@
       "version" : "0.3.59",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Eternal-September",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September.png",
+      "localizedDescription" : "An app for learning Roman Numerals",
+      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
+      "name" : "Eternal September",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/README.md#06c1731de8e6f17b3d945d0fba9fb9af700f54408645f0218d47dd2711fe64bb",
+      "sha256" : "6269b06ceecb4c9893445588c73e340a18fc27d88804d24350609f59b3103710",
+      "size" : 5816018,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 3,
+        "forkCount" : 0,
+        "impressionCount" : 376,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 33,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for learning Roman Numerals",
+      "version" : "0.0.45",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.44...0.0.45"
     },
     {
       "beta" : true,
@@ -1334,42 +1370,6 @@
       "version" : "0.0.7",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Eternal-September",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September.png",
-      "localizedDescription" : "An app for learning Roman Numerals",
-      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
-      "name" : "Eternal September",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/README.md#06c1731de8e6f17b3d945d0fba9fb9af700f54408645f0218d47dd2711fe64bb",
-      "sha256" : "6269b06ceecb4c9893445588c73e340a18fc27d88804d24350609f59b3103710",
-      "size" : 5816018,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 2,
-        "forkCount" : 0,
-        "impressionCount" : 376,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 33,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for learning Roman Numerals",
-      "version" : "0.0.45",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.44...0.0.45"
     },
     {
       "beta" : false,

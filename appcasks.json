@@ -6,7 +6,7 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.58.0.dmg",
+      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.59.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
       "localizedDescription" : "Instant messaging application focusing on security",
@@ -22,16 +22,16 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_07-mac-1624x1624.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_08-mac-1958x1532.png"
       ],
-      "sha256" : "731c0083401ba102eca0d7cd517c441ffcc314ebb3959b7bda4324bf7bb519a1",
+      "sha256" : "72fb7c51978211b767144478c1e157980197227079dc6a4d95df81673644e4cb",
       "stats" : {
         "downloadCount" : 2633,
-        "impressionCount" : 10511,
+        "impressionCount" : 10512,
         "viewCount" : 1169
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
-      "version" : "5.58.0",
-      "versionDate" : "2022-09-08T00:00:00Z"
+      "version" : "5.59.0",
+      "versionDate" : "2022-09-15T06:49:00Z"
     },
     {
       "beta" : false,
@@ -57,7 +57,7 @@
       "sha256" : "e49dc15eca7faaa4ddd537bff3a5f7848888bd0e97812e6724c4e43f37d29436",
       "stats" : {
         "downloadCount" : 17089,
-        "impressionCount" : 9397,
+        "impressionCount" : 9399,
         "viewCount" : 986
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8885,
-        "impressionCount" : 8191,
+        "impressionCount" : 8192,
         "viewCount" : 703
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 28616,
-        "impressionCount" : 8714,
+        "impressionCount" : 8716,
         "viewCount" : 736
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8465,
-        "impressionCount" : 8596,
+        "impressionCount" : 8597,
         "viewCount" : 676
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 6125,
-        "impressionCount" : 8486,
+        "impressionCount" : 8487,
         "viewCount" : 544
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "6228b41938ad3ef76450c843a510615b07f8058bc9a256d1ff3fbf928a384235",
       "stats" : {
         "downloadCount" : 3585,
-        "impressionCount" : 7815,
+        "impressionCount" : 7817,
         "viewCount" : 578
       },
       "subtitle" : "Text editor",
@@ -238,7 +238,7 @@
       "sha256" : "8f22fb8ecb3a67611e68c7e643c3424850dfdcb7b04795e4175bb2ce8f436faf",
       "stats" : {
         "downloadCount" : 3266,
-        "impressionCount" : 9037,
+        "impressionCount" : 9038,
         "viewCount" : 605
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -266,7 +266,7 @@
       ],
       "stats" : {
         "downloadCount" : 2577,
-        "impressionCount" : 6814,
+        "impressionCount" : 6816,
         "viewCount" : 437
       },
       "subtitle" : "Video game digital distribution service",
@@ -292,7 +292,7 @@
       "sha256" : "246e1b174af3f61513e4e004e948a325149091b5165b7005391570f6d334ee3e",
       "stats" : {
         "downloadCount" : 2433,
-        "impressionCount" : 7498,
+        "impressionCount" : 7500,
         "viewCount" : 468
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -326,7 +326,7 @@
       "sha256" : "cfed68a618da5d5957dc40eb3f33e27e2b1c1f31d103063c23f20918a507f470",
       "stats" : {
         "downloadCount" : 2208,
-        "impressionCount" : 8606,
+        "impressionCount" : 8608,
         "viewCount" : 884
       },
       "subtitle" : "File archiver",
@@ -358,7 +358,7 @@
       "sha256" : "73dd1ede9fd57cf436aa9b9e82fdbe9685cafdc99066081de8e4bdee1790ba0b",
       "stats" : {
         "downloadCount" : 1229,
-        "impressionCount" : 8864,
+        "impressionCount" : 8865,
         "viewCount" : 497
       },
       "subtitle" : "3D creation suite",
@@ -387,7 +387,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1191,
-        "impressionCount" : 6835,
+        "impressionCount" : 6836,
         "viewCount" : 546
       },
       "subtitle" : "Open-source Markdown editor",
@@ -447,7 +447,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 579,
-        "impressionCount" : 6990,
+        "impressionCount" : 6991,
         "viewCount" : 366
       },
       "subtitle" : "Text editor",
@@ -479,7 +479,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 484,
-        "impressionCount" : 7079,
+        "impressionCount" : 7080,
         "viewCount" : 501
       },
       "subtitle" : "Text, code, and markup editor",
@@ -508,7 +508,7 @@
       ],
       "stats" : {
         "downloadCount" : 404,
-        "impressionCount" : 6453,
+        "impressionCount" : 6454,
         "viewCount" : 485
       },
       "subtitle" : "Sandbox construction video game",
@@ -535,7 +535,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 294,
-        "impressionCount" : 4616,
+        "impressionCount" : 4617,
         "viewCount" : 350
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -563,7 +563,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 272,
-        "impressionCount" : 5105,
+        "impressionCount" : 5106,
         "viewCount" : 427
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -594,7 +594,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 245,
-        "impressionCount" : 5415,
+        "impressionCount" : 5416,
         "viewCount" : 454
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -834,7 +834,7 @@
       "sha256" : "5d972b98dee5fc2a9e9310bcab599b4773bb1348f18f4620b988fb10256e6d69",
       "stats" : {
         "downloadCount" : 7943,
-        "impressionCount" : 2744,
+        "impressionCount" : 2745,
         "viewCount" : 167
       },
       "subtitle" : "Universal database tool and SQL client",
@@ -897,7 +897,7 @@
       "sha256" : "a3aba3cbb5db936f0b0b6cd757eb7900e7f97ac5876d36de16118c75447b1642",
       "stats" : {
         "downloadCount" : 6035,
-        "impressionCount" : 5158,
+        "impressionCount" : 5159,
         "viewCount" : 513
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1258,7 +1258,7 @@
       "sha256" : "ec02064faae6e3af7297f73a90476c5a349be9ffe82ccef15b56c387635e84ca",
       "stats" : {
         "downloadCount" : 2668,
-        "impressionCount" : 3463,
+        "impressionCount" : 3464,
         "viewCount" : 239
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1432,7 +1432,7 @@
       "sha256" : "27b4683c9343333466fb78d0d9d53559179aabc1cc87470aeef20d5ef3efc321",
       "stats" : {
         "downloadCount" : 2425,
-        "impressionCount" : 3158,
+        "impressionCount" : 3159,
         "viewCount" : 148
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1632,7 +1632,7 @@
       "sha256" : "81a8bca9ecedab1bebbc58067724f13c1585ebb66938ad752810de07542f3280",
       "stats" : {
         "downloadCount" : 1307,
-        "impressionCount" : 2778,
+        "impressionCount" : 2779,
         "viewCount" : 163
       },
       "subtitle" : "Native GUI tool for relational databases",
@@ -1767,7 +1767,7 @@
       "sha256" : "d8d37a114c9dab2f16a56e60d8a977115ba34fe408ff7947d0d74028f1f22843",
       "stats" : {
         "downloadCount" : 1049,
-        "impressionCount" : 2485,
+        "impressionCount" : 2486,
         "viewCount" : 151
       },
       "subtitle" : "Tool to hide status bar icons",
@@ -1973,7 +1973,7 @@
       "sha256" : "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
       "stats" : {
         "downloadCount" : 643,
-        "impressionCount" : 1783,
+        "impressionCount" : 1784,
         "viewCount" : 84
       },
       "subtitle" : "MySQL/MariaDB database management platform",
@@ -2040,7 +2040,7 @@
       "sha256" : "af938d17dcea5701da7a990705acbd0686dfedfdbcd64721666ae0bef7644ba9",
       "stats" : {
         "downloadCount" : 539,
-        "impressionCount" : 2418,
+        "impressionCount" : 2419,
         "viewCount" : 135
       },
       "subtitle" : "Open-source KVM software",
@@ -2380,7 +2380,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/README.md",
       "stats" : {
         "downloadCount" : 218,
-        "impressionCount" : 680,
+        "impressionCount" : 681,
         "viewCount" : 45
       },
       "subtitle" : "Multiplayer online battle arena game",
@@ -2604,7 +2604,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audio-hijack/README.md",
       "stats" : {
         "downloadCount" : 88,
-        "impressionCount" : 3234,
+        "impressionCount" : 3235,
         "viewCount" : 154
       },
       "subtitle" : "Records audio from any application",
@@ -2930,7 +2930,7 @@
       "sha256" : "5a0bdd9bc4cb7beea03b95a2549c1cf994ea8646f6621f5353dd22d79c757404",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 2108,
+        "impressionCount" : 2109,
         "viewCount" : 154
       },
       "subtitle" : "Turn-based strategy, artillery, action and comedy game",
@@ -3133,20 +3133,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://versions.withfig.com/fig%20520.dmg",
+      "downloadURL" : "https://versions.withfig.com/fig%20523.dmg",
       "homepage" : "https://fig.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fig/AppIcon.png",
       "localizedDescription" : "Reimagine your terminal",
       "name" : "fig",
-      "sha256" : "f3af134f0470ec99c4a76356cb462948b87beb5c3f54d30b557d1710c258fc12",
+      "sha256" : "645f4b3e59902c1cae7660dd559e3126596e550590d5a393f342fb048e0b0c08",
       "stats" : {
         "downloadCount" : 5335,
-        "impressionCount" : 1815
+        "impressionCount" : 1816
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
-      "version" : "1.0.61,520",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "1.0.61,523",
+      "versionDate" : "2022-09-15T06:49:00Z"
     },
     {
       "beta" : false,
@@ -3291,7 +3291,7 @@
       "sha256" : "546d57b6c88c2be7517759c016c0bf0313dfcc14adfcb43967f3c5d24657f366",
       "stats" : {
         "downloadCount" : 2858,
-        "impressionCount" : 903
+        "impressionCount" : 904
       },
       "subtitle" : "Browser for SQLite databases",
       "tintColor" : "ABABAB",
@@ -3353,7 +3353,7 @@
       "sha256" : "5694a09c18dcbe4c5e67c69720d32cf2fa6ddf8a3481a6e7e722868972a52ae1",
       "stats" : {
         "downloadCount" : 2630,
-        "impressionCount" : 1260
+        "impressionCount" : 1261
       },
       "subtitle" : "Knowledge base that works on top of a local folder of plain text Markdown files",
       "tintColor" : "CBC6E5",
@@ -3682,7 +3682,7 @@
       "sha256" : "4651afc3f51763df3cc496a00c26f29dba6d4ce4989151d3bc820c8e181d6c23",
       "stats" : {
         "downloadCount" : 1593,
-        "impressionCount" : 984
+        "impressionCount" : 985
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
       "tintColor" : "B3E652",
@@ -3723,7 +3723,7 @@
       "sha256" : "f8ad590d9d5cc081d3e8f9ecf559e41991aa8a72fd41ed4e7bac70e8e804a2c5",
       "stats" : {
         "downloadCount" : 1486,
-        "impressionCount" : 673
+        "impressionCount" : 674
       },
       "subtitle" : "QuickLook generator for Markdown files",
       "tintColor" : "254255",
@@ -3743,7 +3743,7 @@
       "sha256" : "3f54b024f5c1c40bc18aebe39014710289b47e147e71561fae22a661cab26d02",
       "stats" : {
         "downloadCount" : 1477,
-        "impressionCount" : 753
+        "impressionCount" : 754
       },
       "subtitle" : "Utility to hide menu bar items",
       "tintColor" : "D3D3D3",
@@ -4197,7 +4197,7 @@
       "sha256" : "204dd3db5c11bf265700d8d57defc4798cd0040651f751f35e2a646cb4846ac7",
       "stats" : {
         "downloadCount" : 890,
-        "impressionCount" : 691
+        "impressionCount" : 692
       },
       "subtitle" : "Light, Electron-based Wrapper around GraphiQL",
       "tintColor" : "E637AC",
@@ -4258,7 +4258,7 @@
       "sha256" : "27d006d48c63a4f3a2461d42003a8d96c658221c7893a1b130b3edb44257484f",
       "stats" : {
         "downloadCount" : 871,
-        "impressionCount" : 885
+        "impressionCount" : 886
       },
       "subtitle" : "Databases & SQL IDE",
       "tintColor" : "4C717D",
@@ -15572,7 +15572,7 @@
       "sha256" : "15903ce2484f783c53cbad905ea93a5045c87767e7b89e37300d2200902dff37",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 672
+        "impressionCount" : 673
       },
       "subtitle" : "Utility to dim background/inactive content in the screen",
       "tintColor" : "838A99",
@@ -16703,7 +16703,7 @@
       "subtitle" : "Turn websites into apps",
       "tintColor" : "DBCAEF",
       "version" : "4.2",
-      "versionDate" : "2022-09-15T06:09:15Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17282,7 +17282,7 @@
       "sha256" : "34bbcfca18915294e5da18110a0e8c302effa1dbe1ae0eca9dd5e40d3a8b3a98",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 141
+        "impressionCount" : 142
       },
       "subtitle" : "Downloads scientific computing jobs and runs them invisibly in the background",
       "tintColor" : "959685",
@@ -24009,7 +24009,7 @@
       "sha256" : "ca619f44218f82edc28a0e73a0bfbecca3f104257f0051d90192ada5335be981",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 387
+        "impressionCount" : 388
       },
       "subtitle" : "Automatic bulk background removal",
       "tintColor" : "C9CCCF",
@@ -25115,7 +25115,7 @@
       "sha256" : "80091362a4350baf14aa0d78eae0078ee974f68b9fa440a75569a4e591d3813a",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 460
+        "impressionCount" : 461
       },
       "subtitle" : "App to set a website as the desktop background",
       "tintColor" : "C2912F",
@@ -33387,7 +33387,7 @@
       "name" : "Navicat Premium Essentials",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 227
+        "impressionCount" : 228
       },
       "subtitle" : "Database administration and development tool",
       "tintColor" : "FAF2D8",
@@ -34521,7 +34521,7 @@
       "subtitle" : "Screen recorder",
       "tintColor" : "2FB29A",
       "version" : "0.36.5",
-      "versionDate" : "2022-09-15T06:09:15Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -38386,7 +38386,7 @@
       "sha256" : "b7cb5b25172e3450982d673533931e721e009677e711fffa320b5e42abee3ff3",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 181
+        "impressionCount" : 182
       },
       "subtitle" : "Utility to freeze apps running in the background to save battery",
       "tintColor" : "3F4651",
@@ -47174,7 +47174,7 @@
       "subtitle" : "HTML editor",
       "tintColor" : "33AA4A",
       "version" : "3.6.2.20220914",
-      "versionDate" : "2022-09-15T06:09:15Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48642,7 +48642,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "77C7FD",
       "version" : "25.0.4.2",
-      "versionDate" : "2022-09-15T06:09:15Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54259,7 +54259,7 @@
       "name" : "HappyMac",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 65
+        "impressionCount" : 66
       },
       "subtitle" : "Watches, suspends and resumes background processes that slow down your system",
       "tintColor" : "A4A5AA",
@@ -74029,20 +74029,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "opera",
-      "caption" : "Opera updated from 90.0.4480.107 to 91.0.4516.16",
-      "date" : "2022-09-15T04:26:16Z",
-      "identifier" : "release-opera-91.0.4516.16",
-      "title" : "New Release: Opera 91.0.4516.16"
-    },
-    {
-      "appID" : "clion",
-      "caption" : "CLion updated from 2022.2.1,222.3739.54 to 2022.2.2,222.4167.25",
-      "date" : "2022-09-15T04:26:16Z",
-      "identifier" : "release-clion-2022.2.2,222.4167.25",
-      "title" : "New Release: CLion 2022.2.2,222.4167.25"
-    },
-    {
       "appID" : "mongodb-compass",
       "caption" : "MongoDB Compass updated from 1.33.0 to 1.33.1",
       "date" : "2022-09-15T04:26:16Z",
@@ -74727,6 +74713,20 @@
       "date" : "2022-09-15T06:09:17Z",
       "identifier" : "release-115browser-25.0.4.2",
       "title" : "New Release: 115Browser 25.0.4.2"
+    },
+    {
+      "appID" : "signal",
+      "caption" : "Signal updated from 5.58.0 to 5.59.0",
+      "date" : "2022-09-15T06:49:00Z",
+      "identifier" : "release-signal-5.59.0",
+      "title" : "New Release: Signal 5.59.0"
+    },
+    {
+      "appID" : "fig",
+      "caption" : "fig updated from 1.0.61,520 to 1.0.61,523",
+      "date" : "2022-09-15T06:49:01Z",
+      "identifier" : "release-fig-1.0.61,523",
+      "title" : "New Release: fig 1.0.61,523"
     }
   ],
   "platform" : "macos",

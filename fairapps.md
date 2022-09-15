@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `107` | `2022-09-13T00:00:00Z` | `10 MB` | `34` | `4` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
-| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `41` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4736` | `747` | `1` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `110` | `2022-09-13T00:00:00Z` | `10 MB` | `34` | `4` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `41` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4738` | `747` | `1` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `33` | `2022-09-09T00:00:00Z` | `2.3 MB` | `77` | `7` | `1` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `31` | `2022-09-03T00:00:00Z` | `2.2 MB` | `296` | `32` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `2.2 MB` | `126` | `13` | `0` | `0` |  |
@@ -33,7 +33,7 @@ tr:nth-child(even) {
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `24` | `2022-09-09T00:00:00Z` | `2.3 MB` | `99` | `8` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `24` | `2022-09-01T00:00:00Z` | `9.6 MB` | `323` | `35` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `3337` | `253` | `0` | `0` |  |
-| [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3645` | `599` | `0` | `0` |  |
+| [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3647` | `599` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1050` | `92` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `20` | `2022-08-27T00:00:00Z` | `3.2 MB` | `192` | `18` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `556` | `44` | `0` | `0` |  |

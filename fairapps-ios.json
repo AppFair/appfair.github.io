@@ -33,10 +33,10 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3344,
+        "impressionCount" : 3346,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 254,
+        "viewCount" : 255,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -73,12 +73,12 @@
       "size" : 5805786,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 32,
+        "downloadCount" : 34,
         "forkCount" : 1,
-        "impressionCount" : 85,
+        "impressionCount" : 86,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 8,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -112,10 +112,10 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 137,
+        "impressionCount" : 139,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 14,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
@@ -148,10 +148,10 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 306,
+        "impressionCount" : 309,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 32,
+        "viewCount" : 33,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -185,10 +185,10 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 274,
+        "impressionCount" : 276,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 20,
+        "viewCount" : 21,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -230,10 +230,10 @@
         "coreSize" : 170240,
         "downloadCount" : 22,
         "forkCount" : 0,
-        "impressionCount" : 108,
+        "impressionCount" : 109,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 9,
+        "viewCount" : 10,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -359,12 +359,12 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "a7f0408225575ca1d9fed0c7225fac90f0c3b404eb54ae94d5efd1750fea40ee",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "a214d9ac0d0d4750d125072ca437f345921e1b7002f3a57ba55d25804220bb7f",
       "size" : 12818837,
       "stats" : {
         "coreSize" : 102488,
-        "downloadCount" : 13,
+        "downloadCount" : 15,
         "forkCount" : 0,
         "impressionCount" : 14,
         "issueCount" : 0,
@@ -401,11 +401,11 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "9917f71f87f93cc9a749519b88819e9bcbdc28d2af16250eafb6baee3a022655",
+      "sha256" : "7f425bd95e116c13ca053c673cc24d559becf74f09e540e0a0b18211038d2066",
       "size" : 5803917,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 10,
+        "downloadCount" : 12,
         "forkCount" : 1,
         "impressionCount" : 1,
         "issueCount" : 0,
@@ -418,6 +418,75 @@
       "version" : "0.9.288",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.App-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "appfairz <appfairz@appfair.net>",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/App-Fair-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "https://appfair.app",
+      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/App-Fair.png",
+      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/Info.plist#6ce919420257d649071f37f1893110042deccbbf38a47c45b0cb5e00cc3337cf",
+      "name" : "App Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        }
+      ],
+      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_03-iphone-828x1792.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_04-iphone-828x1792.png",
+        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_05-iphone-1792x828.png"
+      ],
+      "sha256" : "8280e9cbf6202bc4f93956a21256dcdc38e96af791c412cb59d163cd98988b23",
+      "size" : 18974237,
+      "stats" : {
+        "coreSize" : 170672,
+        "downloadCount" : 9,
+        "forkCount" : 1,
+        "impressionCount" : 42,
+        "issueCount" : 6,
+        "starCount" : 29,
+        "viewCount" : 4,
+        "watcherCount" : 3
+      },
+      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
+      "tintColor" : "1594E8",
+      "version" : "0.8.118",
+      "versionDate" : "2022-09-13T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.117...0.8.118"
     },
     {
       "beta" : false,
@@ -453,10 +522,10 @@
         "coreSize" : 170784,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 332,
+        "impressionCount" : 334,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 36,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -631,85 +700,16 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3033,
+        "impressionCount" : 3036,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 169,
+        "viewCount" : 170,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
       "version" : "0.0.16",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "appfairz <appfairz@appfair.net>",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/App-Fair-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "https://appfair.app",
-      "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/App-Fair.png",
-      "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "metadataURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/Info.plist#6ce919420257d649071f37f1893110042deccbbf38a47c45b0cb5e00cc3337cf",
-      "name" : "App Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.executable",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair installs executable apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
-        },
-        {
-          "identifier" : "com.apple.security.network.server",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        }
-      ],
-      "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_03-iphone-828x1792.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_04-iphone-828x1792.png",
-        "https://github.com/App-Fair/App/releases/download/0.8.118/screenshot_05-iphone-1792x828.png"
-      ],
-      "sha256" : "8280e9cbf6202bc4f93956a21256dcdc38e96af791c412cb59d163cd98988b23",
-      "size" : 18974237,
-      "stats" : {
-        "coreSize" : 170672,
-        "downloadCount" : 7,
-        "forkCount" : 1,
-        "impressionCount" : 42,
-        "issueCount" : 6,
-        "starCount" : 29,
-        "viewCount" : 4,
-        "watcherCount" : 3
-      },
-      "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
-      "tintColor" : "1594E8",
-      "version" : "0.8.118",
-      "versionDate" : "2022-09-13T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.117...0.8.118"
     },
     {
       "beta" : true,
@@ -1118,10 +1118,10 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 429,
+        "impressionCount" : 430,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -1170,10 +1170,10 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 470,
+        "impressionCount" : 471,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 40,
+        "viewCount" : 41,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1207,10 +1207,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 403,
+        "impressionCount" : 405,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 36,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1288,10 +1288,10 @@
         "coreSize" : 170320,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 365,
+        "impressionCount" : 366,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 24,
+        "viewCount" : 25,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1324,10 +1324,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 425,
+        "impressionCount" : 428,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 40,
+        "viewCount" : 41,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1360,10 +1360,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 565,
+        "impressionCount" : 567,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 44,
+        "viewCount" : 45,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1396,10 +1396,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 561,
+        "impressionCount" : 563,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 39,
+        "viewCount" : 40,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1432,10 +1432,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 405,
+        "impressionCount" : 407,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 39,
+        "viewCount" : 40,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",

@@ -359,8 +359,8 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "a214d9ac0d0d4750d125072ca437f345921e1b7002f3a57ba55d25804220bb7f",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "a7f0408225575ca1d9fed0c7225fac90f0c3b404eb54ae94d5efd1750fea40ee",
       "size" : 12818837,
       "stats" : {
         "coreSize" : 102488,
@@ -401,7 +401,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "49bb7a31273522f80d28ec7e60038eafdbb277cffaab1765c24e5e58aaf45af6",
+      "sha256" : "7f425bd95e116c13ca053c673cc24d559becf74f09e540e0a0b18211038d2066",
       "size" : 5803917,
       "stats" : {
         "coreSize" : 170144,
@@ -1131,6 +1131,51 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "77d9c1bf7aba67127e5e5bcab9e90d6cf3e19d534a62d04b5fa2e1bbd3b7f741",
+      "size" : 12762342,
+      "stats" : {
+        "coreSize" : 170320,
+        "downloadCount" : 3,
+        "forkCount" : 0,
+        "impressionCount" : 369,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 25,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.96",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Stanza-Redux",
       "categories" : [
 
@@ -1253,51 +1298,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "77d9c1bf7aba67127e5e5bcab9e90d6cf3e19d534a62d04b5fa2e1bbd3b7f741",
-      "size" : 12762342,
-      "stats" : {
-        "coreSize" : 170320,
-        "downloadCount" : 2,
-        "forkCount" : 0,
-        "impressionCount" : 369,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 25,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.96",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
     },
     {
       "beta" : false,

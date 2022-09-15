@@ -1108,7 +1108,7 @@
       "subtitle" : "Office suite",
       "tintColor" : "CBCBCB",
       "version" : "7.4.1",
-      "versionDate" : "2022-09-15T15:28:30Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1378,7 +1378,7 @@
       "subtitle" : "Server and cloud storage browser",
       "tintColor" : "F1BC0C",
       "version" : "8.4.4,38366",
-      "versionDate" : "2022-09-15T15:28:30Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1638,7 +1638,7 @@
       "subtitle" : "Native GUI tool for relational databases",
       "tintColor" : "FBE0A3",
       "version" : "4.8.8,450",
-      "versionDate" : "2022-09-15T15:28:30Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2113,7 +2113,7 @@
       "subtitle" : "Home media player",
       "tintColor" : "3C3221",
       "version" : "1.54.1.3264,9487fe9c",
-      "versionDate" : "2022-09-15T15:28:30Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4771,7 +4771,7 @@
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
       "version" : "3.5.5.19,23551",
-      "versionDate" : "2022-09-15T15:28:30Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11131,7 +11131,7 @@
       "subtitle" : "Mounts servers and cloud storages as a disk on the desktop",
       "tintColor" : "E3CE82",
       "version" : "4.12.3,20144",
-      "versionDate" : "2022-09-15T15:28:30Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21319,7 +21319,7 @@
       "subtitle" : "Convert your caps lock key or any of your modifier keys to the hyper key",
       "tintColor" : "82807D",
       "version" : "0.21",
-      "versionDate" : "2022-09-15T15:28:30Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59512,7 +59512,7 @@
       },
       "subtitle" : "Client for the Dropbox cloud storage service",
       "version" : "157.4.4801",
-      "versionDate" : "2022-09-15T15:28:30Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61156,7 +61156,7 @@
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "version" : "2209.0804.4209.5",
-      "versionDate" : "2022-09-15T15:28:30Z"
+      "versionDate" : "2022-09-15T00:00:00Z"
     },
     {
       "beta" : false,

@@ -447,7 +447,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 579,
-        "impressionCount" : 7018,
+        "impressionCount" : 7019,
         "viewCount" : 370
       },
       "subtitle" : "Text editor",
@@ -897,7 +897,7 @@
       "sha256" : "a3aba3cbb5db936f0b0b6cd757eb7900e7f97ac5876d36de16118c75447b1642",
       "stats" : {
         "downloadCount" : 6035,
-        "impressionCount" : 5180,
+        "impressionCount" : 5181,
         "viewCount" : 517
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1258,7 +1258,7 @@
       "sha256" : "ec02064faae6e3af7297f73a90476c5a349be9ffe82ccef15b56c387635e84ca",
       "stats" : {
         "downloadCount" : 2668,
-        "impressionCount" : 3485,
+        "impressionCount" : 3486,
         "viewCount" : 243
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1432,7 +1432,7 @@
       "sha256" : "27b4683c9343333466fb78d0d9d53559179aabc1cc87470aeef20d5ef3efc321",
       "stats" : {
         "downloadCount" : 2425,
-        "impressionCount" : 3175,
+        "impressionCount" : 3176,
         "viewCount" : 148
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1818,7 +1818,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 931,
-        "impressionCount" : 3693,
+        "impressionCount" : 3694,
         "viewCount" : 314
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -3249,7 +3249,7 @@
       "sha256" : "81d13ce362bf34ab2320fdeef22a4b97176f726cfb7ed00e5999b9ed289c11b4",
       "stats" : {
         "downloadCount" : 3172,
-        "impressionCount" : 1904
+        "impressionCount" : 1905
       },
       "subtitle" : "Standalone app for debugging React Native apps",
       "tintColor" : "8F8F8F",
@@ -3858,7 +3858,7 @@
       "sha256" : "4aecf835dcc3ccf3936e05e6cde7c3b5fa8e6d00bf9ebba52d3a608d7ba957b0",
       "stats" : {
         "downloadCount" : 1338,
-        "impressionCount" : 1743
+        "impressionCount" : 1744
       },
       "subtitle" : "Utility to extend trackpad functionality",
       "tintColor" : "000000",
@@ -4034,7 +4034,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 1109,
-        "impressionCount" : 1777
+        "impressionCount" : 1778
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",

@@ -358,7 +358,7 @@
       "sha256" : "73dd1ede9fd57cf436aa9b9e82fdbe9685cafdc99066081de8e4bdee1790ba0b",
       "stats" : {
         "downloadCount" : 1227,
-        "impressionCount" : 8943,
+        "impressionCount" : 8944,
         "viewCount" : 503
       },
       "subtitle" : "3D creation suite",
@@ -1012,7 +1012,7 @@
       "sha256" : "e5547fc01168270bd1ba5380cff610966da229e44f311138f12168cb2f34d3c8",
       "stats" : {
         "downloadCount" : 3809,
-        "impressionCount" : 2476,
+        "impressionCount" : 2478,
         "viewCount" : 157
       },
       "subtitle" : "Free and open-source image editor",
@@ -1395,7 +1395,7 @@
       "sha256" : "8117d5d864358c9f626ce574d07d2f121ad96fc96a535cc3fddaba3c74bd3279",
       "stats" : {
         "downloadCount" : 2448,
-        "impressionCount" : 2437,
+        "impressionCount" : 2438,
         "viewCount" : 137
       },
       "subtitle" : "Vector graphics editor",
@@ -3414,7 +3414,7 @@
       "sha256" : "437d85d76a627f72831b1efb8f0f657ca48b6f1f264d49c1ebcf85ecd29fede7",
       "stats" : {
         "downloadCount" : 2399,
-        "impressionCount" : 2871
+        "impressionCount" : 2872
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
@@ -3456,7 +3456,7 @@
       "sha256" : "a7dee2427b341ed14a1d6f746ffec6e6388e5e31573289ce76124f2dbb64f1c4",
       "stats" : {
         "downloadCount" : 2254,
-        "impressionCount" : 1201
+        "impressionCount" : 1202
       },
       "subtitle" : "Draw.io is free online diagram software",
       "tintColor" : "EC9B45",
@@ -5136,7 +5136,7 @@
       "sha256" : "0ed07990155486efb67acf17513c35581f3e439fc27aa0021c26a1a433211191",
       "stats" : {
         "downloadCount" : 482,
-        "impressionCount" : 1224
+        "impressionCount" : 1226
       },
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
@@ -5282,7 +5282,7 @@
       "sha256" : "5e6545f36d07d70c03f78d89c6f377e5f398aee89f9086c20f445b25dc49ad19",
       "stats" : {
         "downloadCount" : 455,
-        "impressionCount" : 965
+        "impressionCount" : 967
       },
       "subtitle" : "Free and open-source painting and sketching program",
       "tintColor" : "9A8AB2",
@@ -5303,7 +5303,7 @@
       "sha256" : "bb30c10d4681ae753efccb055ea97290e9f208f7e62798a4be3b555b0db2230e",
       "stats" : {
         "downloadCount" : 435,
-        "impressionCount" : 1175
+        "impressionCount" : 1177
       },
       "subtitle" : "Utility to fix grammar errors and style issues in text",
       "tintColor" : "81DEC8",
@@ -6079,7 +6079,7 @@
       "sha256" : "79f770c692287520fdd6001ec97af7d67b79eed985bf1e44bb97ab57fcedc517",
       "stats" : {
         "downloadCount" : 275,
-        "impressionCount" : 899
+        "impressionCount" : 900
       },
       "subtitle" : "Font editor and converter for outline and bitmap fonts",
       "tintColor" : "E0DFDE",
@@ -6740,7 +6740,7 @@
       "sha256" : "9d12b754ec65edc77fa51d3a3c8a0b08ac863e10fd530bff219f9f22bb9dba3a",
       "stats" : {
         "downloadCount" : 220,
-        "impressionCount" : 771
+        "impressionCount" : 773
       },
       "subtitle" : "Image editor",
       "tintColor" : "AB9680",
@@ -8280,7 +8280,7 @@
       "sha256" : "203291c892465945821b15ae664c18e482091e22feb723ff0b891308838843a9",
       "stats" : {
         "downloadCount" : 120,
-        "impressionCount" : 1378
+        "impressionCount" : 1379
       },
       "subtitle" : "Design tool",
       "tintColor" : "3E8BDD",
@@ -10083,7 +10083,7 @@
       "sha256" : "1dfd4b64b7c9b989776b7b1be31d0edf8057396c23432b001d2d135237ff4c0f",
       "stats" : {
         "downloadCount" : 77,
-        "impressionCount" : 854
+        "impressionCount" : 855
       },
       "subtitle" : "Companion app for Home Assistant home automation software",
       "tintColor" : "74CBF2",
@@ -10142,7 +10142,7 @@
       "sha256" : "c8826647af0c7c8cc9bfa2533b254a37deb9852caeea1a47cbacec5e577cdda9",
       "stats" : {
         "downloadCount" : 76,
-        "impressionCount" : 962
+        "impressionCount" : 963
       },
       "subtitle" : "Hardware benchmarking utility",
       "tintColor" : "777C9F",
@@ -11781,7 +11781,7 @@
       "sha256" : "5369787a801a470179a86ba60407b33e647f826b1a8b001b62e4f81a6bb0629d",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 618
+        "impressionCount" : 619
       },
       "tintColor" : "F1A53A",
       "version" : "3.1.0"
@@ -16815,7 +16815,7 @@
       "sha256" : "764b805b8cb9d128b729858b5f8f2c3bcbb0c2de2bfe797fd4259197253fbe4a",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 968
+        "impressionCount" : 969
       },
       "subtitle" : "Desktop client for Webull Financial LLC",
       "tintColor" : "CBD8FE",
@@ -20263,7 +20263,7 @@
       "sha256" : "f5e2de0eaef175767821b75d7423a83a86c8b6eaa787147feb4925469c5038bc",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 701
+        "impressionCount" : 702
       },
       "tintColor" : "2178FF",
       "version" : "0.10.2"
@@ -22993,7 +22993,7 @@
       "sha256" : "696d5d605b3c2b54d2485936eff59cd150116f82f584b76938bf80f252d8f194",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 939
+        "impressionCount" : 940
       },
       "subtitle" : "Automatic Dark Mode toggle",
       "tintColor" : "F67E83",
@@ -24802,7 +24802,7 @@
       "sha256" : "19da0e4da7983f54c1dabd7bc8bfb03ff8d783ad02a4fb9701b4f2891450e44a",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 746
+        "impressionCount" : 747
       },
       "subtitle" : "Diary app",
       "tintColor" : "41D0F0",
@@ -25250,7 +25250,7 @@
       "sha256" : "8237a147a685cf4831a637b3fbf113ccb14f1150801450b2f1cc96f2f5b7942c",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 697
+        "impressionCount" : 698
       },
       "subtitle" : "Adjustable wallpaper application",
       "tintColor" : "EC8F8D",
@@ -29174,7 +29174,7 @@
       "sha256" : "eeedea2a500778f3b96ec9cffac084fef9e841d10b4f479982b462699ab97cff",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 859
+        "impressionCount" : 860
       },
       "subtitle" : "Turn audio CDs and files into audiobooks",
       "tintColor" : "835B4D",
@@ -33019,7 +33019,7 @@
       "name" : "Hue-topia",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 776
+        "impressionCount" : 777
       },
       "subtitle" : "Manual control over Philips Hue bulbs",
       "tintColor" : "B59B3D",
@@ -35917,7 +35917,7 @@
       "sha256" : "32b4dae6cdce145b1f6a43b5046636bfa2188c924d792b21337c9604d3dc1809",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 728
+        "impressionCount" : 731
       },
       "subtitle" : "Keep your streaming chats in one place",
       "tintColor" : "FA6947",
@@ -39387,7 +39387,7 @@
       "sha256" : "2a682fc721e0d8a712f845cde460490b7c353c256e80e3fa4714bffa44f2a683",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 473
+        "impressionCount" : 474
       },
       "subtitle" : "Create interactive user flow diagrams",
       "tintColor" : "5E6A98",

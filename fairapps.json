@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 163,
+        "downloadCount" : 167,
         "forkCount" : 1,
         "impressionCount" : 63,
         "issueCount" : 6,
@@ -72,6 +72,50 @@
       "version" : "0.8.118",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.117...0.8.118"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "01f5f5cf58d56ccdd736389b17f9f649ec8f689154ca410043f3d525554f4a0a",
+      "size" : 2281677,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 41,
+        "forkCount" : 1,
+        "impressionCount" : 105,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 12,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.287",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.286...0.9.287"
     },
     {
       "beta" : false,
@@ -114,10 +158,10 @@
         "coreSize" : 170576,
         "downloadCount" : 41,
         "forkCount" : 0,
-        "impressionCount" : 4755,
+        "impressionCount" : 4756,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 751,
+        "viewCount" : 752,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -125,50 +169,6 @@
       "version" : "0.1.7",
       "versionDate" : "2022-05-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "01f5f5cf58d56ccdd736389b17f9f649ec8f689154ca410043f3d525554f4a0a",
-      "size" : 2281677,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 38,
-        "forkCount" : 1,
-        "impressionCount" : 104,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 12,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.287",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.286...0.9.287"
     },
     {
       "beta" : false,
@@ -195,10 +195,10 @@
         "coreSize" : 170176,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 328,
+        "impressionCount" : 331,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 34,
+        "viewCount" : 35,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -231,7 +231,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 156,
+        "impressionCount" : 159,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,
@@ -280,10 +280,10 @@
         "coreSize" : 170224,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 486,
+        "impressionCount" : 488,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 42,
+        "viewCount" : 43,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -318,7 +318,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 293,
+        "impressionCount" : 295,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -367,10 +367,10 @@
         "coreSize" : 170240,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 123,
+        "impressionCount" : 125,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -416,7 +416,7 @@
         "coreSize" : 170784,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 349,
+        "impressionCount" : 351,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 37,
@@ -463,7 +463,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3358,
+        "impressionCount" : 3360,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 255,
@@ -506,7 +506,7 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3664,
+        "impressionCount" : 3665,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 600,
@@ -606,45 +606,6 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
-      "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Crazy Glue",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Crazy-Glue/App/releases/download/0.0.7/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "e1deb5fa716d43bf3f8db9f06f84b45ce809012261a6355aae6944f3fa7b1fdc",
-      "size" : 2273312,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 19,
-        "forkCount" : 0,
-        "impressionCount" : 586,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 45,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.7",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Sun-Bow",
       "categories" : [
@@ -672,7 +633,7 @@
       "size" : 4453030,
       "stats" : {
         "coreSize" : 102488,
-        "downloadCount" : 18,
+        "downloadCount" : 20,
         "forkCount" : 0,
         "impressionCount" : 14,
         "issueCount" : 0,
@@ -684,6 +645,45 @@
       "version" : "0.0.14",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Crazy-Glue",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
+      "localizedDescription" : "Putting the pieces back together",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Crazy Glue",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.7/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "e1deb5fa716d43bf3f8db9f06f84b45ce809012261a6355aae6944f3fa7b1fdc",
+      "size" : 2273312,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 19,
+        "forkCount" : 0,
+        "impressionCount" : 588,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 45,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Putting the pieces back together",
+      "version" : "0.0.7",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
     },
     {
       "beta" : true,
@@ -711,11 +711,11 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "0b7fb6c9e557bf40b284eec4be0860eaf0c5b4601f26af6977fbc94ea0d4c181",
+      "sha256" : "e455333bf19625de3fb009c1b5b71eec49e6085e63a30c025b9114ddb2b01db5",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 14,
+        "downloadCount" : 16,
         "forkCount" : 1,
         "impressionCount" : 1,
         "issueCount" : 0,
@@ -951,7 +951,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 448,
+        "impressionCount" : 450,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -1074,7 +1074,7 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 381,
+        "impressionCount" : 383,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -1186,7 +1186,7 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 440,
+        "impressionCount" : 441,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -1266,7 +1266,7 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3043,
+        "impressionCount" : 3044,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 170,
@@ -1488,7 +1488,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 421,
+        "impressionCount" : 422,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 37,
@@ -1528,7 +1528,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 419,
+        "impressionCount" : 420,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -1705,7 +1705,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 586,
+        "impressionCount" : 588,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,

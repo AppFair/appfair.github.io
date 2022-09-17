@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 198,
+        "downloadCount" : 199,
         "forkCount" : 1,
         "impressionCount" : 100,
         "issueCount" : 6,
@@ -105,7 +105,7 @@
         "coreSize" : 170144,
         "downloadCount" : 43,
         "forkCount" : 1,
-        "impressionCount" : 126,
+        "impressionCount" : 128,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 12,
@@ -158,7 +158,7 @@
         "coreSize" : 170576,
         "downloadCount" : 41,
         "forkCount" : 0,
-        "impressionCount" : 4772,
+        "impressionCount" : 4774,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 752,
@@ -195,7 +195,7 @@
         "coreSize" : 170176,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 359,
+        "impressionCount" : 360,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -205,42 +205,6 @@
       "version" : "0.1.72",
       "versionDate" : "2022-09-03T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Huffle-Puff",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
-      "localizedDescription" : "H.R. Huffle Puff ",
-      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Huffle Puff",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "e0d9377f5a4e63ee5ded33fc62f2fd9cbf64a98f68fe967efcc99333a8780b97",
-      "size" : 2199554,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 28,
-        "forkCount" : 0,
-        "impressionCount" : 189,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 19,
-        "watcherCount" : 0
-      },
-      "subtitle" : "H.R. Huffle Puff ",
-      "version" : "0.0.10",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
     },
     {
       "beta" : false,
@@ -278,12 +242,12 @@
       "size" : 4011787,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 28,
+        "downloadCount" : 29,
         "forkCount" : 0,
-        "impressionCount" : 510,
+        "impressionCount" : 513,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 43,
+        "viewCount" : 44,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -291,6 +255,42 @@
       "version" : "0.3.59",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Huffle-Puff",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
+      "localizedDescription" : "H.R. Huffle Puff ",
+      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Huffle Puff",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "e0d9377f5a4e63ee5ded33fc62f2fd9cbf64a98f68fe967efcc99333a8780b97",
+      "size" : 2199554,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 28,
+        "forkCount" : 0,
+        "impressionCount" : 192,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 20,
+        "watcherCount" : 0
+      },
+      "subtitle" : "H.R. Huffle Puff ",
+      "version" : "0.0.10",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
     },
     {
       "beta" : false,
@@ -318,7 +318,7 @@
         "coreSize" : 170240,
         "downloadCount" : 26,
         "forkCount" : 1,
-        "impressionCount" : 322,
+        "impressionCount" : 323,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 25,
@@ -367,7 +367,7 @@
         "coreSize" : 170240,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 148,
+        "impressionCount" : 150,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 14,
@@ -416,7 +416,7 @@
         "coreSize" : 170784,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 372,
+        "impressionCount" : 374,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 39,
@@ -463,7 +463,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3373,
+        "impressionCount" : 3374,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 255,
@@ -506,7 +506,7 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3678,
+        "impressionCount" : 3679,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 600,
@@ -540,7 +540,7 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
       "sha256" : "f0ce92a0afbdd1197ee8bcfba806b9ce25b47a60c6029aa06fc3f6b6886f0a0c",
       "size" : 4453030,
       "stats" : {
@@ -674,10 +674,10 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 611,
+        "impressionCount" : 613,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 45,
+        "viewCount" : 46,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -711,7 +711,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "e455333bf19625de3fb009c1b5b71eec49e6085e63a30c025b9114ddb2b01db5",
+      "sha256" : "809a5faf2352b3d9dd65354d00526a7dee6530ae46d4c5c35ca4b88a7bf225d7",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,
@@ -951,7 +951,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 472,
+        "impressionCount" : 473,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -1074,7 +1074,7 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 403,
+        "impressionCount" : 404,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 27,
@@ -1186,7 +1186,7 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 458,
+        "impressionCount" : 460,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -1266,7 +1266,7 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3051,
+        "impressionCount" : 3052,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 170,
@@ -1488,10 +1488,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 438,
+        "impressionCount" : 441,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 37,
+        "viewCount" : 38,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1528,10 +1528,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 435,
+        "impressionCount" : 436,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 41,
+        "viewCount" : 42,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1705,7 +1705,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 618,
+        "impressionCount" : 620,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 42,

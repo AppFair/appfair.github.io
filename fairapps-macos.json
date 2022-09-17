@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 210,
+        "downloadCount" : 213,
         "forkCount" : 1,
         "impressionCount" : 100,
         "issueCount" : 6,
@@ -105,10 +105,10 @@
         "coreSize" : 170144,
         "downloadCount" : 47,
         "forkCount" : 1,
-        "impressionCount" : 129,
+        "impressionCount" : 133,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 13,
+        "viewCount" : 15,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -156,12 +156,12 @@
       "size" : 4506286,
       "stats" : {
         "coreSize" : 170576,
-        "downloadCount" : 41,
+        "downloadCount" : 42,
         "forkCount" : 0,
-        "impressionCount" : 4775,
+        "impressionCount" : 4779,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 752,
+        "viewCount" : 754,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -195,52 +195,16 @@
         "coreSize" : 170176,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 361,
+        "impressionCount" : 369,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 35,
+        "viewCount" : 37,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
       "version" : "0.1.72",
       "versionDate" : "2022-09-03T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Huffle-Puff",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
-      "localizedDescription" : "H.R. Huffle Puff ",
-      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Huffle Puff",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "e0d9377f5a4e63ee5ded33fc62f2fd9cbf64a98f68fe967efcc99333a8780b97",
-      "size" : 2199554,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 29,
-        "forkCount" : 0,
-        "impressionCount" : 193,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 20,
-        "watcherCount" : 0
-      },
-      "subtitle" : "H.R. Huffle Puff ",
-      "version" : "0.0.10",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
     },
     {
       "beta" : false,
@@ -278,12 +242,12 @@
       "size" : 4011787,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 29,
+        "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 513,
+        "impressionCount" : 524,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 44,
+        "viewCount" : 49,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -291,6 +255,42 @@
       "version" : "0.3.59",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Huffle-Puff",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
+      "localizedDescription" : "H.R. Huffle Puff ",
+      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Huffle Puff",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "e0d9377f5a4e63ee5ded33fc62f2fd9cbf64a98f68fe967efcc99333a8780b97",
+      "size" : 2199554,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 29,
+        "forkCount" : 0,
+        "impressionCount" : 199,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 22,
+        "watcherCount" : 0
+      },
+      "subtitle" : "H.R. Huffle Puff ",
+      "version" : "0.0.10",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
     },
     {
       "beta" : false,
@@ -318,16 +318,65 @@
         "coreSize" : 170240,
         "downloadCount" : 26,
         "forkCount" : 1,
-        "impressionCount" : 324,
+        "impressionCount" : 332,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 25,
+        "viewCount" : 27,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
       "version" : "0.0.5",
       "versionDate" : "2022-09-02T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Tune-Out",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-mac-2180x1464.png"
+      ],
+      "sha256" : "1d56138f625e73a4f5801f2c3c5c9b9bf0ef8359dfd28cd4d4c462875732d986",
+      "size" : 9641013,
+      "stats" : {
+        "coreSize" : 170784,
+        "downloadCount" : 26,
+        "forkCount" : 0,
+        "impressionCount" : 383,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 42,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.458",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
     },
     {
       "beta" : true,
@@ -372,55 +421,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-mac-2180x1464.png"
-      ],
-      "sha256" : "1d56138f625e73a4f5801f2c3c5c9b9bf0ef8359dfd28cd4d4c462875732d986",
-      "size" : 9641013,
-      "stats" : {
-        "coreSize" : 170784,
-        "downloadCount" : 25,
-        "forkCount" : 0,
-        "impressionCount" : 376,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 40,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.458",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
 
@@ -457,10 +457,10 @@
         "coreSize" : 170240,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 151,
+        "impressionCount" : 155,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 15,
+        "viewCount" : 16,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -504,10 +504,10 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3375,
+        "impressionCount" : 3379,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 255,
+        "viewCount" : 256,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -547,10 +547,10 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3680,
+        "impressionCount" : 3683,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 600,
+        "viewCount" : 601,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -672,7 +672,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "809a5faf2352b3d9dd65354d00526a7dee6530ae46d4c5c35ca4b88a7bf225d7",
+      "sha256" : "78b5d4fa8406635dbe4e0e51ed37fb912669625f932a4e9877f6bb3b4747943b",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,
@@ -718,10 +718,10 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 614,
+        "impressionCount" : 618,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 47,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -951,10 +951,10 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 473,
+        "impressionCount" : 478,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -1074,10 +1074,10 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 404,
+        "impressionCount" : 407,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 27,
+        "viewCount" : 28,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1186,10 +1186,10 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 460,
+        "impressionCount" : 464,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 41,
+        "viewCount" : 42,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1266,10 +1266,10 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3052,
+        "impressionCount" : 3055,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 170,
+        "viewCount" : 171,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1488,10 +1488,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 441,
+        "impressionCount" : 445,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 38,
+        "viewCount" : 39,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1528,10 +1528,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 436,
+        "impressionCount" : 438,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 42,
+        "viewCount" : 43,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1705,10 +1705,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 620,
+        "impressionCount" : 627,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 42,
+        "viewCount" : 43,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

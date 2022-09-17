@@ -1217,8 +1217,8 @@
       "sha256" : "6a377e707c80c26ca0327d78e32cf5cfce17a29ec60418687ed9a66b23739dca",
       "stats" : {
         "downloadCount" : 2640,
-        "impressionCount" : 2506,
-        "viewCount" : 216
+        "impressionCount" : 2507,
+        "viewCount" : 217
       },
       "subtitle" : "Server and cloud storage browser",
       "tintColor" : "F1BC0C",
@@ -3016,7 +3016,7 @@
       "sha256" : "c1a2abf468c2f02aebdda433cfd8d1ba290c3215373b2738424dcc2b9eff774a",
       "stats" : {
         "downloadCount" : 34433,
-        "impressionCount" : 1567
+        "impressionCount" : 1569
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -40279,7 +40279,7 @@
       "sha256" : "6d44eeee0e4a27e77188f9b4dd6ae3488697f03c6489ed6eea5821ad1a2f8acb",
       "stats" : {
         "downloadCount" : 914,
-        "impressionCount" : 609
+        "impressionCount" : 611
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",

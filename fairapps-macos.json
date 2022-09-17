@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 182,
+        "downloadCount" : 187,
         "forkCount" : 1,
         "impressionCount" : 82,
         "issueCount" : 6,
@@ -103,7 +103,7 @@
       "size" : 2281677,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 41,
+        "downloadCount" : 43,
         "forkCount" : 1,
         "impressionCount" : 115,
         "issueCount" : 0,
@@ -553,6 +553,47 @@
       "versionDate" : "2022-05-19T00:00:00Z"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Sun-Bow.github.io/App",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "sha256" : "f0ce92a0afbdd1197ee8bcfba806b9ce25b47a60c6029aa06fc3f6b6886f0a0c",
+      "size" : 4453030,
+      "stats" : {
+        "coreSize" : 102488,
+        "downloadCount" : 22,
+        "forkCount" : 0,
+        "impressionCount" : 15,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "version" : "0.0.14",
+      "versionDate" : "2022-09-13T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
@@ -604,47 +645,6 @@
       "version" : "0.0.45",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Sun-Bow.github.io/App",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "f0ce92a0afbdd1197ee8bcfba806b9ce25b47a60c6029aa06fc3f6b6886f0a0c",
-      "size" : 4453030,
-      "stats" : {
-        "coreSize" : 102488,
-        "downloadCount" : 20,
-        "forkCount" : 0,
-        "impressionCount" : 15,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "version" : "0.0.14",
-      "versionDate" : "2022-09-13T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
     },
     {
       "beta" : false,
@@ -711,11 +711,11 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "809a5faf2352b3d9dd65354d00526a7dee6530ae46d4c5c35ca4b88a7bf225d7",
+      "sha256" : "78b5d4fa8406635dbe4e0e51ed37fb912669625f932a4e9877f6bb3b4747943b",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 16,
+        "downloadCount" : 18,
         "forkCount" : 1,
         "impressionCount" : 2,
         "issueCount" : 0,

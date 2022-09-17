@@ -24,16 +24,16 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3374` | `255` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `43` | `2022-09-09T00:00:00Z` | `5.8 MB` | `128` | `12` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `47` | `2022-09-09T00:00:00Z` | `5.8 MB` | `128` | `12` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `192` | `20` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `360` | `35` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `323` | `25` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `22` | `2022-09-09T00:00:00Z` | `5.8 MB` | `151` | `15` | `1` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.github.io/App) | ``0.0.14β`` | `22` | `2022-09-13T00:00:00Z` | `12.8 MB` | `15` | `3` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `7` | `1` | `0` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.github.io/App) | ``0.0.14β`` | `20` | `2022-09-13T00:00:00Z` | `12.8 MB` | `15` | `3` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `17` | `2022-09-13T00:00:00Z` | `5.8 MB` | `2` | `1` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `19` | `2022-09-13T00:00:00Z` | `5.8 MB` | `2` | `1` | `1` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `17` | `2022-09-13T00:00:00Z` | `19 MB` | `100` | `9` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `16` | `2022-08-27T00:00:00Z` | `7.7 MB` | `218` | `19` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `15` | `2022-09-13T00:00:00Z` | `19 MB` | `100` | `9` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `9` | `2022-09-01T00:00:00Z` | `18 MB` | `375` | `40` | `1` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.8β`` | `9` | `2021-12-06T00:00:00Z` | `5.8 MB` | `378` | `20` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `507` | `9` | `0` | `0` |  |

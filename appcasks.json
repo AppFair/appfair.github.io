@@ -1340,13 +1340,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://osx.telegram.org/updates/Telegram-9.0.236754.app.zip",
+      "downloadURL" : "https://osx.telegram.org/updates/Telegram-9.0.236756.app.zip",
       "homepage" : "https://macos.telegram.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/AppIcon.png",
       "localizedDescription" : "Messaging app with a focus on speed and security",
       "name" : "Telegram for macOS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/README.md",
-      "sha256" : "c49db0fea1a9c98a2d5209210586d170f6d455e2de0fab0a614c29ec7b3639e1",
+      "sha256" : "ce33b859e89e7ebc213b14bb2750eb3919814819bc822a21d0ead50343644148",
       "stats" : {
         "downloadCount" : 2537,
         "impressionCount" : 2241,
@@ -1354,8 +1354,8 @@
       },
       "subtitle" : "Messaging app with a focus on speed and security",
       "tintColor" : "87CAEB",
-      "version" : "9.0,236754",
-      "versionDate" : "2022-09-17T00:00:00Z"
+      "version" : "9.0,236756",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -2053,13 +2053,13 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.54.1.3264-9487fe9c/macos/Plex-1.54.1.3264-9487fe9c-x86_64.zip",
+      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.54.2.3267-d35cd36f/macos/Plex-1.54.2.3267-d35cd36f-x86_64.zip",
       "homepage" : "https://www.plex.tv/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/AppIcon.png",
       "localizedDescription" : "Home media player",
       "name" : "Plex",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-plex/README.md",
-      "sha256" : "eb7c19c00c83507114aa4521b1333db32e01d7f043e0b6eed6f0cbff2353766e",
+      "sha256" : "aaf439380a338730d6086fcd064246b21679009b316b8fef6cfc7aa4f74bca44",
       "stats" : {
         "downloadCount" : 523,
         "impressionCount" : 2829,
@@ -2067,8 +2067,8 @@
       },
       "subtitle" : "Home media player",
       "tintColor" : "3C3221",
-      "version" : "1.54.1.3264,9487fe9c",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "1.54.2.3267,d35cd36f",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -2189,7 +2189,7 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/coteditor/CotEditor/releases/download/4.3.4/CotEditor_4.3.4.dmg",
+      "downloadURL" : "https://github.com/coteditor/CotEditor/releases/download/4.3.5/CotEditor_4.3.5.dmg",
       "homepage" : "https://coteditor.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/AppIcon.png",
       "localizedDescription" : "Plain-text editor for web pages, program source codes and more",
@@ -2201,15 +2201,15 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_04-mac-light-1464x1298.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-coteditor/screenshot_05-mac-light-1466x1298.png"
       ],
-      "sha256" : "bbfd7b71c5be557c0c23467978e6bf892115dc08584e3e6801b110e6df8ddc89",
+      "sha256" : "b7b6386f13641abf8df7f95be7f6a141ea0a588bd5f8184e06f0cbc6dc13113c",
       "stats" : {
         "downloadCount" : 406,
         "impressionCount" : 4281
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
-      "version" : "4.3.4",
-      "versionDate" : "2022-08-26T00:00:00Z"
+      "version" : "4.3.5",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -3406,20 +3406,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.3.7.zip",
+      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.3.8.zip",
       "homepage" : "https://www.figma.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-figma/AppIcon.png",
       "localizedDescription" : "Collaborative team software",
       "name" : "Figma",
-      "sha256" : "437d85d76a627f72831b1efb8f0f657ca48b6f1f264d49c1ebcf85ecd29fede7",
+      "sha256" : "0623e4f72ee2a829559f2a61dc947994136b648474e3b070b9c36df400d50b86",
       "stats" : {
         "downloadCount" : 2396,
         "impressionCount" : 2878
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
-      "version" : "116.3.7",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "116.3.8",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -3755,20 +3755,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/facebook/flipper/releases/download/v0.164.0/Flipper-mac.dmg",
+      "downloadURL" : "https://github.com/facebook/flipper/releases/download/v0.165.0/Flipper-mac.dmg",
       "homepage" : "https://fbflipper.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-flipper/AppIcon.png",
       "localizedDescription" : "Desktop debugging platform for mobile developers",
       "name" : "Facebook Flipper",
-      "sha256" : "7c730d3603c9f3ad3640fb8e70659141b586848ab9b7aabaf8da2805b59bc1ec",
+      "sha256" : "864f05be600fb565dc103645a8274940a34662e65455bb6080f13cf9d921ad4b",
       "stats" : {
         "downloadCount" : 1467,
         "impressionCount" : 987
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
       "tintColor" : "8E76B6",
-      "version" : "0.164.0",
-      "versionDate" : "2022-09-13T00:00:00Z"
+      "version" : "0.165.0",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -7290,19 +7290,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.todesktop.com/210531zdwwjv8ke/ClickUp%203.0.6-x64.dmg",
+      "downloadURL" : "https://download.todesktop.com/210531zdwwjv8ke/ClickUp%203.1.0-x64.dmg",
       "homepage" : "https://clickup.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clickup/AppIcon.png",
       "localizedDescription" : "Productivity platform for tasks, docs, goals, and chat",
       "name" : "ClickUp",
-      "sha256" : "0db5873a074fc0a17569fe4495ac7b8ba158481a79a7a660ecf0470f6a8844c6",
+      "sha256" : "615a46400330fb15bb3ae0270369aee8247fb76d6e074887fa8a5fd9b1570168",
       "stats" : {
         "downloadCount" : 161,
         "impressionCount" : 595
       },
       "subtitle" : "Productivity platform for tasks, docs, goals, and chat",
       "tintColor" : "E9DBE9",
-      "version" : "3.0.6"
+      "version" : "3.1.0",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -9158,20 +9159,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://get.geo.opera.com/pub/opera_gx/90.0.4480.113/mac/Opera_GX_90.0.4480.113_Setup.dmg",
+      "downloadURL" : "https://get.geo.opera.com/pub/opera_gx/90.0.4480.117/mac/Opera_GX_90.0.4480.117_Setup.dmg",
       "homepage" : "https://www.opera.com/gx",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-opera-gx/AppIcon.png",
       "localizedDescription" : "Alternate version of the Opera web browser to complement gaming",
       "name" : "Opera GX",
-      "sha256" : "5e09ef6a18b568d2107a9b709eba6fe718361cc9f70434773e8b472a29baef3b",
+      "sha256" : "a0535f6e83a6362bbcd345a697dcf7ed15a92285230645111a24e01897094fe9",
       "stats" : {
         "downloadCount" : 96,
         "impressionCount" : 647
       },
       "subtitle" : "Alternate version of the Opera web browser to complement gaming",
       "tintColor" : "EA214D",
-      "version" : "90.0.4480.113",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "90.0.4480.117",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -9281,7 +9282,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/ViennaRSS/vienna-rss/releases/download/v%2F3.8.3/Vienna3.8.3.tgz",
+      "downloadURL" : "https://downloads.sourceforge.net/vienna-rss/v_3.8.3/Vienna3.8.3.tgz",
       "homepage" : "https://www.vienna-rss.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vienna/AppIcon.png",
       "localizedDescription" : "RSS and Atom reader",
@@ -11542,20 +11543,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.jetbrains.com/python/dataspell-2022.2.1.dmg",
+      "downloadURL" : "https://download.jetbrains.com/python/dataspell-2022.2.2.dmg",
       "homepage" : "https://www.jetbrains.com/dataspell/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-dataspell/AppIcon.png",
       "localizedDescription" : "IDE for Professional Data Scientists",
       "name" : "DataSpell",
-      "sha256" : "272cdfa9a5e8dbf821e110f7dcfdff88691a58528912b2742b6a1609f1bd239e",
+      "sha256" : "fb31c2e31abb40d8825bd4466a46ef09a79d5a97705aed406bf547e8b2df4b18",
       "stats" : {
         "downloadCount" : 58,
         "impressionCount" : 722
       },
       "subtitle" : "IDE for Professional Data Scientists",
       "tintColor" : "2E7980",
-      "version" : "2022.2.1,222.3739.64",
-      "versionDate" : "2022-08-24T00:00:00Z"
+      "version" : "2022.2.2,222.4167.34",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -23771,7 +23772,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://echoone.com/filejuicer/FileJuicer-4.96.zip",
+      "downloadURL" : "https://echoone.com/filejuicer/FileJuicer-4.97.zip",
       "homepage" : "https://echoone.com/filejuicer/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-file-juicer/AppIcon.png",
       "localizedDescription" : "Extract images from PDF, PowerPoint, Word, Excel and other Files",
@@ -23782,7 +23783,8 @@
       },
       "subtitle" : "Extract images from PDF, PowerPoint, Word, Excel and other Files",
       "tintColor" : "777670",
-      "version" : "4.96"
+      "version" : "4.97",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -34573,7 +34575,7 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://github.com/TomHarte/CLK/releases/download/2022-08-22/Clock.Signal.macOS.2022-08-22.zip",
+      "downloadURL" : "https://github.com/TomHarte/CLK/releases/download/2022-09-16/Clock.Signal.macOS.2022-09-16.zip",
       "fundingLinks" : [
         {
           "platform" : "CUSTOM",
@@ -34584,15 +34586,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clock-signal/AppIcon.png",
       "localizedDescription" : "Latency-hating emulator of 8- and 16-bit platforms",
       "name" : "Clock Signal",
-      "sha256" : "d69584920f503888e6756adf3acbb4a39e7a88cae5043d585eea2fbb4a936b91",
+      "sha256" : "ee23fd959ccd6f995fbfe949c2c296882a754ef04ca51a91102d3df8efca74d8",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 1167
       },
       "subtitle" : "Latency-hating emulator of 8- and 16-bit platforms",
       "tintColor" : "46494C",
-      "version" : "2022-08-22",
-      "versionDate" : "2022-08-23T00:00:00Z"
+      "version" : "2022-09-16",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -44823,20 +44825,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://trac.chirp.danplanet.com/chirp_daily/daily-20220916/chirp-unified-daily-20220916.app.zip",
+      "downloadURL" : "https://trac.chirp.danplanet.com/chirp_daily/daily-20220917/chirp-unified-daily-20220917.app.zip",
       "homepage" : "https://chirp.danplanet.com/projects/chirp/wiki/Home",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chirp/AppIcon.png",
       "localizedDescription" : "Tool for programming amateur radio",
       "name" : "CHIRP",
-      "sha256" : "633f1c4c0e9a0c54f1500c02374b2f365a43856b526aabb197ba1e114d9c474c",
+      "sha256" : "2a196bc17e8917f6a604612d6ff17dedda50d02522a891dd19b0ba7db16ae57f",
       "stats" : {
         "downloadCount" : 50,
         "impressionCount" : 183
       },
       "subtitle" : "Tool for programming amateur radio",
       "tintColor" : "9AB3B6",
-      "version" : "20220916",
-      "versionDate" : "2022-09-16T00:00:00Z"
+      "version" : "20220917",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -49823,8 +49825,8 @@
       },
       "subtitle" : "File synchronization and backup software",
       "tintColor" : "C8BBDC",
-      "version" : "11.11.6",
-      "versionDate" : "2022-07-29T00:00:00Z"
+      "version" : "12.0.2",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -59519,8 +59521,8 @@
         "downloadCount" : 2573
       },
       "subtitle" : "Client for the Dropbox cloud storage service",
-      "version" : "157.4.4801",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "157.4.4808",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -63588,17 +63590,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://swdl.bluejeans.com/desktop-app/mac/2.37.0/2.37.0.329/BlueJeansInstaller.pkg",
+      "downloadURL" : "https://swdl.bluejeans.com/desktop-app/mac/2.38.0/2.38.0.337/BlueJeansInstaller.pkg",
       "homepage" : "https://www.bluejeans.com/",
       "localizedDescription" : "Video conferencing for the digital workplace",
       "name" : "BlueJeans",
-      "sha256" : "39e92914eb66e69444af5f794a59f6cc30c4a3b57bbd613b9abadc2fc43aad33",
+      "sha256" : "cf3ba9e4a091ff5bf53170bb384cd10b0b316d351ea01fccb6906d512a7b936e",
       "stats" : {
         "downloadCount" : 42
       },
       "subtitle" : "Video conferencing for the digital workplace",
-      "version" : "2.37.0.329",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "2.38.0.337",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -64393,17 +64395,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.3.3-2022-09-15-00-15.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.3.3-2022-09-17-02-54.zip",
       "homepage" : "https://busymac.com/busycal/index.html",
       "localizedDescription" : "Calendar software focusing on flexibility and reliability",
       "name" : "BusyCal",
-      "sha256" : "feb93bfecf840f0ce6b702b6be77d985683f11a7c73a3fbc6602f98b3dbaef56",
+      "sha256" : "0966601e80c10f503221b51dae6a16e0237e1cacc996ee0a654440d05f977f2d",
       "stats" : {
         "downloadCount" : 27
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
-      "version" : "2022.3.3,2022-09-15-00-15",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "2022.3.3,2022-09-17-02-54",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -73474,8 +73476,8 @@
         "downloadCount" : 1
       },
       "subtitle" : "Digital Asset Management",
-      "version" : "7.3.1.4523",
-      "versionDate" : "2022-09-16T00:00:00Z"
+      "version" : "7.3.1.4525",
+      "versionDate" : "2022-09-17T16:23:15Z"
     },
     {
       "beta" : false,
@@ -74052,90 +74054,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "plex",
-      "caption" : "Plex updated from 1.53.1.3225,c0bc6cc4 to 1.54.1.3264,9487fe9c",
-      "date" : "2022-09-15T15:28:32Z",
-      "identifier" : "release-plex-1.54.1.3264,9487fe9c",
-      "title" : "New Release: Plex 1.54.1.3264,9487fe9c"
-    },
-    {
-      "appID" : "wechat",
-      "caption" : "WeChat for Mac updated from 3.5.5.18,23481 to 3.5.5.19,23551",
-      "date" : "2022-09-15T15:28:32Z",
-      "identifier" : "release-wechat-3.5.5.19,23551",
-      "title" : "New Release: WeChat for Mac 3.5.5.19,23551"
-    },
-    {
-      "appID" : "mountain-duck",
-      "caption" : "Mountain Duck updated from 4.12.2,20039 to 4.12.3,20144",
-      "date" : "2022-09-15T15:28:33Z",
-      "identifier" : "release-mountain-duck-4.12.3,20144",
-      "title" : "New Release: Mountain Duck 4.12.3,20144"
-    },
-    {
-      "appID" : "hyperkey",
-      "caption" : "Hyperkey updated from 0.20 to 0.21",
-      "date" : "2022-09-15T15:28:33Z",
-      "identifier" : "release-hyperkey-0.21",
-      "title" : "New Release: Hyperkey 0.21"
-    },
-    {
-      "appID" : "dropbox",
-      "caption" : "Dropbox updated from 156.4.4908 to 157.4.4801",
-      "date" : "2022-09-15T15:28:33Z",
-      "identifier" : "release-dropbox-157.4.4801",
-      "title" : "New Release: Dropbox 157.4.4801"
-    },
-    {
-      "appID" : "webex-meetings",
-      "caption" : "Webex Meetings updated from 2209.0103.4209.4 to 2209.0804.4209.5",
-      "date" : "2022-09-15T15:28:33Z",
-      "identifier" : "release-webex-meetings-2209.0804.4209.5",
-      "title" : "New Release: Webex Meetings 2209.0804.4209.5"
-    },
-    {
-      "appID" : "android-studio",
-      "caption" : "Android Studio updated from 2021.2.1.16 to 2021.3.1.16",
-      "date" : "2022-09-15T22:26:32Z",
-      "identifier" : "release-android-studio-2021.3.1.16",
-      "title" : "New Release: Android Studio 2021.3.1.16"
-    },
-    {
-      "appID" : "vscodium",
-      "caption" : "VSCodium updated from 1.71.1.22256 to 1.71.2.22258",
-      "date" : "2022-09-15T22:26:33Z",
-      "identifier" : "release-vscodium-1.71.2.22258",
-      "title" : "New Release: VSCodium 1.71.2.22258"
-    },
-    {
-      "appID" : "clion",
-      "caption" : "CLion updated from 2022.2.2,222.4167.25 to 2022.2.3,222.4167.35",
-      "date" : "2022-09-15T22:26:33Z",
-      "identifier" : "release-clion-2022.2.3,222.4167.35",
-      "title" : "New Release: CLion 2022.2.3,222.4167.35"
-    },
-    {
-      "appID" : "visual-studio-code",
-      "caption" : "Microsoft Visual Studio Code updated from 1.71.1 to 1.71.2",
-      "date" : "2022-09-15T22:26:33Z",
-      "identifier" : "release-visual-studio-code-1.71.2",
-      "title" : "New Release: Microsoft Visual Studio Code 1.71.2"
-    },
-    {
-      "appID" : "phpstorm",
-      "caption" : "JetBrains PhpStorm updated from 2022.2.1,222.3739.61 to 2022.2.2,222.4167.33",
-      "date" : "2022-09-15T22:26:33Z",
-      "identifier" : "release-phpstorm-2022.2.2,222.4167.33",
-      "title" : "New Release: JetBrains PhpStorm 2022.2.2,222.4167.33"
-    },
-    {
-      "appID" : "leapp",
-      "caption" : "Leapp updated from 0.14.2 to 0.14.3",
-      "date" : "2022-09-15T22:26:33Z",
-      "identifier" : "release-leapp-0.14.3",
-      "title" : "New Release: Leapp 0.14.3"
-    },
-    {
       "appID" : "mimestream",
       "caption" : "Mimestream updated from 0.37.2 to 0.37.3",
       "date" : "2022-09-15T22:26:34Z",
@@ -74155,13 +74073,6 @@
       "date" : "2022-09-15T22:26:34Z",
       "identifier" : "release-tradingview-1.0.16",
       "title" : "New Release: TradingView Desktop 1.0.16"
-    },
-    {
-      "appID" : "opera-gx",
-      "caption" : "Opera GX updated from 90.0.4480.100 to 90.0.4480.113",
-      "date" : "2022-09-15T22:26:34Z",
-      "identifier" : "release-opera-gx-90.0.4480.113",
-      "title" : "New Release: Opera GX 90.0.4480.113"
     },
     {
       "appID" : "appcode",
@@ -74577,13 +74488,6 @@
       "title" : "New Release: AppFlowy 0.0.5.2"
     },
     {
-      "appID" : "chirp",
-      "caption" : "CHIRP updated from 20220911 to 20220916",
-      "date" : "2022-09-16T16:30:28Z",
-      "identifier" : "release-chirp-20220916",
-      "title" : "New Release: CHIRP 20220916"
-    },
-    {
       "appID" : "blockbench",
       "caption" : "Blockbench updated from 4.4.0 to 4.4.1",
       "date" : "2022-09-16T16:30:28Z",
@@ -74626,13 +74530,6 @@
       "title" : "New Release: Neon Wallet 2.13.2"
     },
     {
-      "appID" : "photo-supreme-single-user",
-      "caption" : "Photo Supreme Single User updated from 7.3.1.4517 to 7.3.1.4523",
-      "date" : "2022-09-16T16:30:29Z",
-      "identifier" : "release-photo-supreme-single-user-7.3.1.4523",
-      "title" : "New Release: Photo Supreme Single User 7.3.1.4523"
-    },
-    {
       "appID" : "webstorm",
       "caption" : "WebStorm updated from 2022.2.1,222.3739.57 to 2022.2.2,222.4167.31",
       "date" : "2022-09-16T20:30:12Z",
@@ -74673,13 +74570,6 @@
       "date" : "2022-09-17T01:15:11Z",
       "identifier" : "release-scrapp-1.6",
       "title" : "New Release: Scrapp 1.6"
-    },
-    {
-      "appID" : "telegram",
-      "caption" : "Telegram for macOS updated from 8.9,234962 to 9.0,236754",
-      "date" : "2022-09-17T04:02:01Z",
-      "identifier" : "release-telegram-9.0,236754",
-      "title" : "New Release: Telegram for macOS 9.0,236754"
     },
     {
       "appID" : "fork",
@@ -74750,6 +74640,118 @@
       "date" : "2022-09-17T04:02:03Z",
       "identifier" : "release-feed-the-beast-202209161632,2afab8f106",
       "title" : "New Release: Feed the Beast 202209161632,2afab8f106"
+    },
+    {
+      "appID" : "telegram",
+      "caption" : "Telegram for macOS updated from 9.0,236754 to 9.0,236756",
+      "date" : "2022-09-17T16:23:16Z",
+      "identifier" : "release-telegram-9.0,236756",
+      "title" : "New Release: Telegram for macOS 9.0,236756"
+    },
+    {
+      "appID" : "plex",
+      "caption" : "Plex updated from 1.54.1.3264,9487fe9c to 1.54.2.3267,d35cd36f",
+      "date" : "2022-09-17T16:23:16Z",
+      "identifier" : "release-plex-1.54.2.3267,d35cd36f",
+      "title" : "New Release: Plex 1.54.2.3267,d35cd36f"
+    },
+    {
+      "appID" : "coteditor",
+      "caption" : "CotEditor updated from 4.3.4 to 4.3.5",
+      "date" : "2022-09-17T16:23:16Z",
+      "identifier" : "release-coteditor-4.3.5",
+      "title" : "New Release: CotEditor 4.3.5"
+    },
+    {
+      "appID" : "figma",
+      "caption" : "Figma updated from 116.3.7 to 116.3.8",
+      "date" : "2022-09-17T16:23:16Z",
+      "identifier" : "release-figma-116.3.8",
+      "title" : "New Release: Figma 116.3.8"
+    },
+    {
+      "appID" : "flipper",
+      "caption" : "Facebook Flipper updated from 0.164.0 to 0.165.0",
+      "date" : "2022-09-17T16:23:17Z",
+      "identifier" : "release-flipper-0.165.0",
+      "title" : "New Release: Facebook Flipper 0.165.0"
+    },
+    {
+      "appID" : "clickup",
+      "caption" : "ClickUp updated from 3.0.6 to 3.1.0",
+      "date" : "2022-09-17T16:23:17Z",
+      "identifier" : "release-clickup-3.1.0",
+      "title" : "New Release: ClickUp 3.1.0"
+    },
+    {
+      "appID" : "opera-gx",
+      "caption" : "Opera GX updated from 90.0.4480.113 to 90.0.4480.117",
+      "date" : "2022-09-17T16:23:17Z",
+      "identifier" : "release-opera-gx-90.0.4480.117",
+      "title" : "New Release: Opera GX 90.0.4480.117"
+    },
+    {
+      "appID" : "dataspell",
+      "caption" : "DataSpell updated from 2022.2.1,222.3739.64 to 2022.2.2,222.4167.34",
+      "date" : "2022-09-17T16:23:17Z",
+      "identifier" : "release-dataspell-2022.2.2,222.4167.34",
+      "title" : "New Release: DataSpell 2022.2.2,222.4167.34"
+    },
+    {
+      "appID" : "file-juicer",
+      "caption" : "File Juicer updated from 4.96 to 4.97",
+      "date" : "2022-09-17T16:23:17Z",
+      "identifier" : "release-file-juicer-4.97",
+      "title" : "New Release: File Juicer 4.97"
+    },
+    {
+      "appID" : "clock-signal",
+      "caption" : "Clock Signal updated from 2022-08-22 to 2022-09-16",
+      "date" : "2022-09-17T16:23:17Z",
+      "identifier" : "release-clock-signal-2022-09-16",
+      "title" : "New Release: Clock Signal 2022-09-16"
+    },
+    {
+      "appID" : "chirp",
+      "caption" : "CHIRP updated from 20220916 to 20220917",
+      "date" : "2022-09-17T16:23:18Z",
+      "identifier" : "release-chirp-20220917",
+      "title" : "New Release: CHIRP 20220917"
+    },
+    {
+      "appID" : "goodsync",
+      "caption" : "GoodSync updated from 11.11.6 to 12.0.2",
+      "date" : "2022-09-17T16:23:18Z",
+      "identifier" : "release-goodsync-12.0.2",
+      "title" : "New Release: GoodSync 12.0.2"
+    },
+    {
+      "appID" : "dropbox",
+      "caption" : "Dropbox updated from 157.4.4801 to 157.4.4808",
+      "date" : "2022-09-17T16:23:18Z",
+      "identifier" : "release-dropbox-157.4.4808",
+      "title" : "New Release: Dropbox 157.4.4808"
+    },
+    {
+      "appID" : "bluejeans",
+      "caption" : "BlueJeans updated from 2.37.0.329 to 2.38.0.337",
+      "date" : "2022-09-17T16:23:18Z",
+      "identifier" : "release-bluejeans-2.38.0.337",
+      "title" : "New Release: BlueJeans 2.38.0.337"
+    },
+    {
+      "appID" : "busycal",
+      "caption" : "BusyCal updated from 2022.3.3,2022-09-15-00-15 to 2022.3.3,2022-09-17-02-54",
+      "date" : "2022-09-17T16:23:18Z",
+      "identifier" : "release-busycal-2022.3.3,2022-09-17-02-54",
+      "title" : "New Release: BusyCal 2022.3.3,2022-09-17-02-54"
+    },
+    {
+      "appID" : "photo-supreme-single-user",
+      "caption" : "Photo Supreme Single User updated from 7.3.1.4523 to 7.3.1.4525",
+      "date" : "2022-09-17T16:23:19Z",
+      "identifier" : "release-photo-supreme-single-user-7.3.1.4525",
+      "title" : "New Release: Photo Supreme Single User 7.3.1.4525"
     }
   ],
   "platform" : "macos",

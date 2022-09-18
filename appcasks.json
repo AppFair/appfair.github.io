@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 27794,
-        "impressionCount" : 8840,
+        "impressionCount" : 8841,
         "viewCount" : 744
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -479,7 +479,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 479,
-        "impressionCount" : 7163,
+        "impressionCount" : 7164,
         "viewCount" : 509
       },
       "subtitle" : "Text, code, and markup editor",
@@ -563,7 +563,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 266,
-        "impressionCount" : 5149,
+        "impressionCount" : 5150,
         "viewCount" : 431
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -594,7 +594,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 235,
-        "impressionCount" : 5465,
+        "impressionCount" : 5466,
         "viewCount" : 458
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -744,7 +744,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 3332,
+        "impressionCount" : 3333,
         "viewCount" : 267
       },
       "subtitle" : "Create DMGs and other archives",
@@ -765,7 +765,7 @@
       "sha256" : "41085009458ba1741c6a86c414190780ff3b288879aa27821fc4a985d229653c",
       "stats" : {
         "downloadCount" : 25724,
-        "impressionCount" : 4557,
+        "impressionCount" : 4558,
         "viewCount" : 316
       },
       "subtitle" : "App to build and share containerized applications and microservices",
@@ -834,7 +834,7 @@
       "sha256" : "5d972b98dee5fc2a9e9310bcab599b4773bb1348f18f4620b988fb10256e6d69",
       "stats" : {
         "downloadCount" : 7663,
-        "impressionCount" : 2782,
+        "impressionCount" : 2783,
         "viewCount" : 174
       },
       "subtitle" : "Universal database tool and SQL client",
@@ -1034,7 +1034,7 @@
       "sha256" : "e84f31ee5570ce02d21047b7590e78b0c4d7ccd69f9faee3ccff07cee09a8968",
       "stats" : {
         "downloadCount" : 3686,
-        "impressionCount" : 2481,
+        "impressionCount" : 2482,
         "viewCount" : 150
       },
       "subtitle" : "Desktop client for GitHub repositories",
@@ -1079,7 +1079,7 @@
       "sha256" : "4f1efabf0763ac06accb676790d1b5673f4cd8d995711fd9586d4742ba50ef05",
       "stats" : {
         "downloadCount" : 3392,
-        "impressionCount" : 2672,
+        "impressionCount" : 2673,
         "viewCount" : 123
       },
       "subtitle" : "Tools for building Android applications",
@@ -1171,7 +1171,7 @@
       "sha256" : "46d103913c4d40b602fc83f0b65020df038dd9c815e169cd1fc79964e99fd616",
       "stats" : {
         "downloadCount" : 2692,
-        "impressionCount" : 2306,
+        "impressionCount" : 2307,
         "viewCount" : 99
       },
       "subtitle" : "IDE for Java development - community edition",
@@ -1194,7 +1194,7 @@
       "sha256" : "d659cf1164bfbbc63836027d5b26b18d701256019121e3ac90d18c2e16a28f0d",
       "stats" : {
         "downloadCount" : 2674,
-        "impressionCount" : 2700,
+        "impressionCount" : 2701,
         "viewCount" : 208
       },
       "subtitle" : "HTTP and GraphQL Client",

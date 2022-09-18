@@ -57,7 +57,7 @@
       "sha256" : "e49dc15eca7faaa4ddd537bff3a5f7848888bd0e97812e6724c4e43f37d29436",
       "stats" : {
         "downloadCount" : 16664,
-        "impressionCount" : 9557,
+        "impressionCount" : 9559,
         "viewCount" : 996
       },
       "subtitle" : "Web browser",
@@ -209,7 +209,7 @@
       "sha256" : "6228b41938ad3ef76450c843a510615b07f8058bc9a256d1ff3fbf928a384235",
       "stats" : {
         "downloadCount" : 3537,
-        "impressionCount" : 7954,
+        "impressionCount" : 7956,
         "viewCount" : 585
       },
       "subtitle" : "Text editor",
@@ -387,7 +387,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1158,
-        "impressionCount" : 6937,
+        "impressionCount" : 6938,
         "viewCount" : 555
       },
       "subtitle" : "Open-source Markdown editor",
@@ -447,7 +447,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 567,
-        "impressionCount" : 7100,
+        "impressionCount" : 7101,
         "viewCount" : 375
       },
       "subtitle" : "Text editor",
@@ -649,7 +649,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 152,
-        "impressionCount" : 5809,
+        "impressionCount" : 5811,
         "viewCount" : 608
       },
       "subtitle" : "iOS App Store alternative",
@@ -712,7 +712,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 3266,
+        "impressionCount" : 3268,
         "viewCount" : 279
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -788,7 +788,7 @@
       "sha256" : "e8ae07278a968dffc1b28c66496c8efca9b7059ba30a7309dbfc423241f74da2",
       "stats" : {
         "downloadCount" : 8875,
-        "impressionCount" : 2857,
+        "impressionCount" : 2858,
         "viewCount" : 227
       },
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
@@ -857,7 +857,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 6073,
-        "impressionCount" : 2333,
+        "impressionCount" : 2335,
         "viewCount" : 111
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -920,7 +920,7 @@
       "sha256" : "0bed4d9ce226dedd73a475925829118ea3ff075c5ec0903814ce302c3ca3825e",
       "stats" : {
         "downloadCount" : 4866,
-        "impressionCount" : 2659,
+        "impressionCount" : 2660,
         "viewCount" : 170
       },
       "subtitle" : "Application launcher and productivity software",
@@ -943,7 +943,7 @@
       "sha256" : "73e7c6941a7284a968d84a2221d6bdbb5cd68e6d41cc3f7490fdfd31cf01d80f",
       "stats" : {
         "downloadCount" : 4190,
-        "impressionCount" : 4621,
+        "impressionCount" : 4622,
         "viewCount" : 280
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -966,7 +966,7 @@
       "sha256" : "6ca94cc5edc508dc962383769408e213dc65e33d520eb984e0360f5fac219e3f",
       "stats" : {
         "downloadCount" : 4127,
-        "impressionCount" : 2743,
+        "impressionCount" : 2745,
         "viewCount" : 191
       },
       "subtitle" : "App to write, plan, collaborate, and get organized",
@@ -989,7 +989,7 @@
       "sha256" : "fb6150439162074377d0933f32d9df6b4e0ad9765a7f7aff5b5fa2f1528db250",
       "stats" : {
         "downloadCount" : 3822,
-        "impressionCount" : 2709,
+        "impressionCount" : 2711,
         "viewCount" : 147
       },
       "subtitle" : "Password manager that keeps all passwords secure behind one password",
@@ -1057,7 +1057,7 @@
       "sha256" : "473f994698ec082f16bb20b4824dadbfb744f53a01b737b4016f6cc45f403b83",
       "stats" : {
         "downloadCount" : 3408,
-        "impressionCount" : 2295,
+        "impressionCount" : 2296,
         "viewCount" : 132
       },
       "subtitle" : "Password manager app",
@@ -1102,7 +1102,7 @@
       "sha256" : "53c968d453b2d17c08d06050e0c98fdad318074e41504c051f925bc0796b1ce2",
       "stats" : {
         "downloadCount" : 3357,
-        "impressionCount" : 2431,
+        "impressionCount" : 2432,
         "viewCount" : 138
       },
       "subtitle" : "Office suite",
@@ -1126,8 +1126,8 @@
       "sha256" : "08b59c3b41bdf369a8ce8ed65c8607eeac2e73672298a04ebf53e7a802b56939",
       "stats" : {
         "downloadCount" : 2977,
-        "impressionCount" : 3171,
-        "viewCount" : 200
+        "impressionCount" : 3173,
+        "viewCount" : 201
       },
       "subtitle" : "GPU-accelerated terminal emulator",
       "tintColor" : "514438",
@@ -1148,8 +1148,8 @@
       "sha256" : "c1e54f1af933486ac60da94bb1a366df5125959ef416e1a93c2a2fb9de78efa0",
       "stats" : {
         "downloadCount" : 2786,
-        "impressionCount" : 2029,
-        "viewCount" : 112
+        "impressionCount" : 2030,
+        "viewCount" : 113
       },
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
@@ -1217,7 +1217,7 @@
       "sha256" : "6a377e707c80c26ca0327d78e32cf5cfce17a29ec60418687ed9a66b23739dca",
       "stats" : {
         "downloadCount" : 2590,
-        "impressionCount" : 2523,
+        "impressionCount" : 2524,
         "viewCount" : 220
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1372,7 +1372,7 @@
       "sha256" : "7596e6fb208a30ccf86637821252440d77f635d572d95c98a965b597a5597a7d",
       "stats" : {
         "downloadCount" : 2441,
-        "impressionCount" : 2231,
+        "impressionCount" : 2232,
         "viewCount" : 155
       },
       "subtitle" : "Clipboard manager",
@@ -1501,7 +1501,7 @@
       "sha256" : "746d334e368d895bcfae7d0c78aff4416205c3dc42eba2269746e21298573aac",
       "stats" : {
         "downloadCount" : 1799,
-        "impressionCount" : 4023,
+        "impressionCount" : 4024,
         "viewCount" : 191
       },
       "subtitle" : "E-books management software",
@@ -1609,7 +1609,7 @@
       "sha256" : "b80d3dba83b343fab7a6c8fc08440b2751da1ac12f86fe593da8e74069e4d7f6",
       "stats" : {
         "downloadCount" : 1396,
-        "impressionCount" : 3301,
+        "impressionCount" : 3302,
         "viewCount" : 164
       },
       "subtitle" : "Web browser focusing on security",
@@ -1677,7 +1677,7 @@
       "sha256" : "57826efdb4e93e8c9e04fee33ca43cc0c0dae457af9468e0f15f518fa5aecafd",
       "stats" : {
         "downloadCount" : 1194,
-        "impressionCount" : 2288,
+        "impressionCount" : 2289,
         "viewCount" : 118
       },
       "subtitle" : "Customizable email client",
@@ -1744,7 +1744,7 @@
       "sha256" : "1d07ac2196510fba6aa43ac4f59d7b7fb283234b8274656b1e013efdc871d7d5",
       "stats" : {
         "downloadCount" : 1067,
-        "impressionCount" : 2329,
+        "impressionCount" : 2330,
         "viewCount" : 91
       },
       "subtitle" : "Web browser",
@@ -1905,8 +1905,8 @@
       "sha256" : "362529796594880534667d2dade62bf94ea0f8751476b99e263e64fab69cdd91",
       "stats" : {
         "downloadCount" : 722,
-        "impressionCount" : 1834,
-        "viewCount" : 99
+        "impressionCount" : 1835,
+        "viewCount" : 100
       },
       "subtitle" : "Configurable document editor that supports Markdown",
       "tintColor" : "E5E5E5",
@@ -2153,7 +2153,7 @@
       "sha256" : "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
       "stats" : {
         "downloadCount" : 443,
-        "impressionCount" : 1768,
+        "impressionCount" : 1769,
         "viewCount" : 84
       },
       "subtitle" : "Screen capture tool with mark up and sharing features",
@@ -2204,7 +2204,7 @@
       "sha256" : "b7b6386f13641abf8df7f95be7f6a141ea0a588bd5f8184e06f0cbc6dc13113c",
       "stats" : {
         "downloadCount" : 402,
-        "impressionCount" : 4305
+        "impressionCount" : 4306
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2226,7 +2226,7 @@
       "sha256" : "2d0d3bdc945b42c0c1fe79b1eb74e5969b5f768ffc56aa286d73d3492873b173",
       "stats" : {
         "downloadCount" : 363,
-        "impressionCount" : 1968,
+        "impressionCount" : 1969,
         "viewCount" : 133
       },
       "subtitle" : "Open-source, KeePass-client and password manager",
@@ -2424,7 +2424,7 @@
       "sha256" : "3f782b9b241851d025392375187a02342293fe24401823d38e65badd7bbc0d8f",
       "stats" : {
         "downloadCount" : 167,
-        "impressionCount" : 1809,
+        "impressionCount" : 1810,
         "viewCount" : 84
       },
       "subtitle" : "Automation software",
@@ -2469,7 +2469,7 @@
       "sha256" : "6fddac774e99719e20cea5ec624352535139bc1e1a4e7e45fca06bdef5148e73",
       "stats" : {
         "downloadCount" : 145,
-        "impressionCount" : 1835,
+        "impressionCount" : 1836,
         "viewCount" : 107
       },
       "subtitle" : "Scheduling application focusing on organization",
@@ -2560,7 +2560,7 @@
       "sha256" : "9299863331d720b70519d2bf131240170fd97a866e5de2b7f6fdeae9d841d4a9",
       "stats" : {
         "downloadCount" : 104,
-        "impressionCount" : 1958,
+        "impressionCount" : 1959,
         "viewCount" : 126
       },
       "subtitle" : "Tool for using an iPad as a second display",
@@ -2627,7 +2627,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-audio-hijack/README.md",
       "stats" : {
         "downloadCount" : 84,
-        "impressionCount" : 3266,
+        "impressionCount" : 3267,
         "viewCount" : 158
       },
       "subtitle" : "Records audio from any application",
@@ -10723,7 +10723,7 @@
       "sha256" : "0f2dfcab1fefce5579ffbac035cef220c97840d0c6d494c6e7e4d88f08d1d3ff",
       "stats" : {
         "downloadCount" : 68,
-        "impressionCount" : 476
+        "impressionCount" : 477
       },
       "subtitle" : "Extracts pages, splits, merges, mixes and rotates PDF files",
       "tintColor" : "76C194",
@@ -22680,7 +22680,7 @@
       "name" : "SafeInCloud Password Manager",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 228
+        "impressionCount" : 229
       },
       "subtitle" : "Cross-platform AES-256 password manager",
       "tintColor" : "33AAE3",

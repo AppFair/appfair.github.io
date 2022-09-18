@@ -33,7 +33,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3393,
+        "impressionCount" : 3397,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 257,
@@ -73,12 +73,12 @@
       "size" : 5805786,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 49,
+        "downloadCount" : 53,
         "forkCount" : 1,
-        "impressionCount" : 152,
+        "impressionCount" : 155,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 17,
+        "viewCount" : 18,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -112,7 +112,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 217,
+        "impressionCount" : 220,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -148,10 +148,10 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 389,
+        "impressionCount" : 393,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 38,
+        "viewCount" : 39,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -185,7 +185,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 351,
+        "impressionCount" : 353,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 29,
@@ -220,11 +220,11 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "a214d9ac0d0d4750d125072ca437f345921e1b7002f3a57ba55d25804220bb7f",
+      "sha256" : "a7f0408225575ca1d9fed0c7225fac90f0c3b404eb54ae94d5efd1750fea40ee",
       "size" : 12818837,
       "stats" : {
         "coreSize" : 102488,
-        "downloadCount" : 23,
+        "downloadCount" : 25,
         "forkCount" : 0,
         "impressionCount" : 18,
         "issueCount" : 0,
@@ -236,6 +236,48 @@
       "version" : "0.0.14",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "810f388d823b213d75cecc90e9fef97ef320311518167f3aa1d2d5a7d63b3b69",
+      "size" : 5803917,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 22,
+        "forkCount" : 1,
+        "impressionCount" : 3,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.288",
+      "versionDate" : "2022-09-13T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
     },
     {
       "beta" : false,
@@ -271,7 +313,7 @@
         "coreSize" : 170240,
         "downloadCount" : 22,
         "forkCount" : 0,
-        "impressionCount" : 170,
+        "impressionCount" : 173,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 19,
@@ -282,93 +324,6 @@
       "version" : "0.2.46",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.45...0.2.46"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "9917f71f87f93cc9a749519b88819e9bcbdc28d2af16250eafb6baee3a022655",
-      "size" : 5803917,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 20,
-        "forkCount" : 1,
-        "impressionCount" : 3,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.288",
-      "versionDate" : "2022-09-13T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_02-iphone-1334x750.png"
-      ],
-      "sha256" : "0573d15343e0bd01904086d36c7b4f6ff5123423c830e6f554a14ec99cd89f8e",
-      "size" : 5844815,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 20,
-        "forkCount" : 0,
-        "impressionCount" : 8,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.22",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
     },
     {
       "beta" : false,
@@ -425,7 +380,7 @@
       "size" : 18974237,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 18,
+        "downloadCount" : 20,
         "forkCount" : 1,
         "impressionCount" : 117,
         "issueCount" : 6,
@@ -438,6 +393,51 @@
       "version" : "0.8.118",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.117...0.8.118"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_02-iphone-1334x750.png"
+      ],
+      "sha256" : "0573d15343e0bd01904086d36c7b4f6ff5123423c830e6f554a14ec99cd89f8e",
+      "size" : 5844815,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 20,
+        "forkCount" : 0,
+        "impressionCount" : 8,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.22",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
     },
     {
       "beta" : false,
@@ -522,7 +522,7 @@
         "coreSize" : 170784,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 401,
+        "impressionCount" : 404,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 43,
@@ -1118,7 +1118,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 492,
+        "impressionCount" : 496,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 24,
@@ -1163,7 +1163,7 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 420,
+        "impressionCount" : 422,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 29,
@@ -1215,7 +1215,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 539,
+        "impressionCount" : 542,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 50,
@@ -1360,7 +1360,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 635,
+        "impressionCount" : 639,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 49,
@@ -1396,7 +1396,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 645,
+        "impressionCount" : 648,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 45,

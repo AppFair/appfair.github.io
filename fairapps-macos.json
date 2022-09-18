@@ -59,12 +59,12 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 247,
+        "downloadCount" : 249,
         "forkCount" : 1,
-        "impressionCount" : 123,
+        "impressionCount" : 127,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 12,
+        "viewCount" : 13,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -105,10 +105,10 @@
         "coreSize" : 170144,
         "downloadCount" : 52,
         "forkCount" : 1,
-        "impressionCount" : 166,
+        "impressionCount" : 169,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 21,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -158,10 +158,10 @@
         "coreSize" : 170576,
         "downloadCount" : 42,
         "forkCount" : 0,
-        "impressionCount" : 4801,
+        "impressionCount" : 4804,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 759,
+        "viewCount" : 761,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -195,10 +195,10 @@
         "coreSize" : 170176,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 405,
+        "impressionCount" : 412,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 41,
+        "viewCount" : 43,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -244,10 +244,10 @@
         "coreSize" : 170224,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 552,
+        "impressionCount" : 557,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 52,
+        "viewCount" : 53,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -279,7 +279,7 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
       "sha256" : "f0ce92a0afbdd1197ee8bcfba806b9ce25b47a60c6029aa06fc3f6b6886f0a0c",
       "size" : 4453030,
       "stats" : {
@@ -322,53 +322,16 @@
         "coreSize" : 170144,
         "downloadCount" : 29,
         "forkCount" : 0,
-        "impressionCount" : 230,
+        "impressionCount" : 235,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 24,
+        "viewCount" : 26,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
       "version" : "0.0.10",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Fair-Skies",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Fair-Skies.github.io/App",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
-      "localizedDescription" : "An app for weather bugs",
-      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Fair Skies",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "d8b76c8ee8380f0a28bdf3de6c6e812b22866f4a09e05d6e4b1071ebae1170e4",
-      "size" : 2583226,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 26,
-        "forkCount" : 1,
-        "impressionCount" : 364,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 31,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for weather bugs",
-      "version" : "0.0.5",
-      "versionDate" : "2022-09-02T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
     },
     {
       "beta" : false,
@@ -405,12 +368,12 @@
       "size" : 9641013,
       "stats" : {
         "coreSize" : 170784,
-        "downloadCount" : 26,
+        "downloadCount" : 27,
         "forkCount" : 0,
-        "impressionCount" : 411,
+        "impressionCount" : 415,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 45,
+        "viewCount" : 46,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -418,6 +381,43 @@
       "version" : "0.8.458",
       "versionDate" : "2022-09-01T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Fair-Skies.github.io/App",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
+      "localizedDescription" : "An app for weather bugs",
+      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Fair Skies",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "sha256" : "d8b76c8ee8380f0a28bdf3de6c6e812b22866f4a09e05d6e4b1071ebae1170e4",
+      "size" : 2583226,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 26,
+        "forkCount" : 1,
+        "impressionCount" : 370,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 32,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for weather bugs",
+      "version" : "0.0.5",
+      "versionDate" : "2022-09-02T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
     },
     {
       "beta" : false,
@@ -457,10 +457,10 @@
         "coreSize" : 170240,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 183,
+        "impressionCount" : 186,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 22,
+        "viewCount" : 23,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -504,10 +504,10 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3405,
+        "impressionCount" : 3409,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 258,
+        "viewCount" : 259,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -547,10 +547,10 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3703,
+        "impressionCount" : 3706,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 604,
+        "viewCount" : 605,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -584,7 +584,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "0b7fb6c9e557bf40b284eec4be0860eaf0c5b4601f26af6977fbc94ea0d4c181",
+      "sha256" : "809a5faf2352b3d9dd65354d00526a7dee6530ae46d4c5c35ca4b88a7bf225d7",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,
@@ -679,10 +679,10 @@
         "coreSize" : 170224,
         "downloadCount" : 21,
         "forkCount" : 0,
-        "impressionCount" : 228,
+        "impressionCount" : 231,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 19,
+        "viewCount" : 20,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -718,10 +718,10 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 647,
+        "impressionCount" : 651,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 51,
+        "viewCount" : 52,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -951,10 +951,10 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 505,
+        "impressionCount" : 509,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 26,
+        "viewCount" : 28,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -1074,10 +1074,10 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 430,
+        "impressionCount" : 434,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 31,
+        "viewCount" : 33,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1186,10 +1186,10 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 486,
+        "impressionCount" : 490,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 44,
+        "viewCount" : 45,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1266,10 +1266,10 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3069,
+        "impressionCount" : 3072,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 174,
+        "viewCount" : 175,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1488,10 +1488,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 467,
+        "impressionCount" : 471,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 41,
+        "viewCount" : 42,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1528,10 +1528,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 454,
+        "impressionCount" : 457,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 46,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -1582,10 +1582,10 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 180,
+        "impressionCount" : 183,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
       "subtitle" : "Query Like a Boss",
@@ -1705,10 +1705,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 659,
+        "impressionCount" : 663,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 47,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

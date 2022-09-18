@@ -1263,7 +1263,7 @@
       "sha256" : "ce33b859e89e7ebc213b14bb2750eb3919814819bc822a21d0ead50343644148",
       "stats" : {
         "downloadCount" : 2564,
-        "impressionCount" : 2257,
+        "impressionCount" : 2258,
         "viewCount" : 170
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -1789,7 +1789,7 @@
       "sha256" : "ea7b1ec23d74eb186502756574a42c81cf7814d5199149c928aca74fa2f62446",
       "stats" : {
         "downloadCount" : 968,
-        "impressionCount" : 2733,
+        "impressionCount" : 2734,
         "viewCount" : 251
       },
       "subtitle" : "GIT client",
@@ -1950,7 +1950,7 @@
       "sha256" : "64f8c01e0a2b02f7473e4ab0eeae10b6c8f137450198717f5bd67e44e94b2419",
       "stats" : {
         "downloadCount" : 651,
-        "impressionCount" : 1911,
+        "impressionCount" : 1912,
         "viewCount" : 101
       },
       "subtitle" : "Desktop client for Telegram messenger",
@@ -2062,7 +2062,7 @@
       "sha256" : "aaf439380a338730d6086fcd064246b21679009b316b8fef6cfc7aa4f74bca44",
       "stats" : {
         "downloadCount" : 512,
-        "impressionCount" : 2838,
+        "impressionCount" : 2839,
         "viewCount" : 135
       },
       "subtitle" : "Home media player",
@@ -2085,7 +2085,7 @@
       "sha256" : "f4914a6c49a2e3a815c75b199d8da31a3160e179e8272e8fb1075ce48b188e65",
       "stats" : {
         "downloadCount" : 483,
-        "impressionCount" : 2446,
+        "impressionCount" : 2447,
         "viewCount" : 228
       },
       "subtitle" : "Photography workflow application and raw developer",
@@ -2204,7 +2204,7 @@
       "sha256" : "b7b6386f13641abf8df7f95be7f6a141ea0a588bd5f8184e06f0cbc6dc13113c",
       "stats" : {
         "downloadCount" : 402,
-        "impressionCount" : 4301
+        "impressionCount" : 4302
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -3414,7 +3414,7 @@
       "sha256" : "0623e4f72ee2a829559f2a61dc947994136b648474e3b070b9c36df400d50b86",
       "stats" : {
         "downloadCount" : 2384,
-        "impressionCount" : 2891
+        "impressionCount" : 2892
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
@@ -3763,7 +3763,7 @@
       "sha256" : "864f05be600fb565dc103645a8274940a34662e65455bb6080f13cf9d921ad4b",
       "stats" : {
         "downloadCount" : 1448,
-        "impressionCount" : 995
+        "impressionCount" : 996
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
       "tintColor" : "8E76B6",
@@ -4506,7 +4506,7 @@
       "sha256" : "79aa8e4a9676114489a12994fb69698127c904c62089b84d91cf93427923cb05",
       "stats" : {
         "downloadCount" : 750,
-        "impressionCount" : 857
+        "impressionCount" : 858
       },
       "subtitle" : "Family of tools to build, test and package software",
       "tintColor" : "5A5C5C",
@@ -5219,7 +5219,7 @@
       "sha256" : "9c9825ce611dcbdade0e8c8f8570ffd79f5eba8e35cefed7a9dec43f039cbfc1",
       "stats" : {
         "downloadCount" : 446,
-        "impressionCount" : 991
+        "impressionCount" : 992
       },
       "subtitle" : "Free and open-source painting and sketching program",
       "tintColor" : "9A8AB2",
@@ -5561,7 +5561,7 @@
       "sha256" : "f0dab31061970f78f53959e2446e2f012ec4468992c28020971cd0ac919a185b",
       "stats" : {
         "downloadCount" : 376,
-        "impressionCount" : 1176
+        "impressionCount" : 1177
       },
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
@@ -7298,7 +7298,7 @@
       "sha256" : "615a46400330fb15bb3ae0270369aee8247fb76d6e074887fa8a5fd9b1570168",
       "stats" : {
         "downloadCount" : 157,
-        "impressionCount" : 606
+        "impressionCount" : 607
       },
       "subtitle" : "Productivity platform for tasks, docs, goals, and chat",
       "tintColor" : "E9DBE9",
@@ -8303,7 +8303,7 @@
       "sha256" : "6b2f736d1d70f6124cd3a414351d47719a27362863eb8f247a16850cc5233063",
       "stats" : {
         "downloadCount" : 119,
-        "impressionCount" : 652
+        "impressionCount" : 653
       },
       "subtitle" : "TeX previewer",
       "tintColor" : "9AAAAE",
@@ -9085,7 +9085,7 @@
       "sha256" : "a0535f6e83a6362bbcd345a697dcf7ed15a92285230645111a24e01897094fe9",
       "stats" : {
         "downloadCount" : 99,
-        "impressionCount" : 659
+        "impressionCount" : 660
       },
       "subtitle" : "Alternate version of the Opera web browser to complement gaming",
       "tintColor" : "EA214D",
@@ -9550,7 +9550,7 @@
       "sha256" : "209fb3e49c3224a0392ed72948e049bee21f58797de4aedae566aed81d2faab4",
       "stats" : {
         "downloadCount" : 85,
-        "impressionCount" : 940
+        "impressionCount" : 941
       },
       "subtitle" : "Tencent video streaming and sharing platform",
       "tintColor" : "84BF85",
@@ -11310,7 +11310,7 @@
       "sha256" : "fb31c2e31abb40d8825bd4466a46ef09a79d5a97705aed406bf547e8b2df4b18",
       "stats" : {
         "downloadCount" : 60,
-        "impressionCount" : 727
+        "impressionCount" : 728
       },
       "subtitle" : "IDE for Professional Data Scientists",
       "tintColor" : "2E7980",
@@ -11744,7 +11744,7 @@
       "sha256" : "5781c36f8d0f9bbf4d91feb2f54ca13f550d51d6bfcca9787b9f921b499469cc",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 448
+        "impressionCount" : 449
       },
       "subtitle" : "Notepad with a built-in calculator",
       "tintColor" : "C9B995",
@@ -11785,7 +11785,7 @@
       "sha256" : "d5e5c6cb8b3bb4ff0b0be2e93f40a7067450fa386ac5ec39dd2e3bbf77219a09",
       "stats" : {
         "downloadCount" : 56,
-        "impressionCount" : 412
+        "impressionCount" : 414
       },
       "subtitle" : "Music player focusing on visuals",
       "tintColor" : "2C2517",
@@ -15333,7 +15333,7 @@
       "sha256" : "3b666ce5f1011b97b550551e2976ba11255e1acee308db145a982ccc462db53f",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 640
+        "impressionCount" : 642
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
@@ -16514,7 +16514,7 @@
       "sha256" : "5626deef7fd80588bea31ce01234e693ccf058fa9d1380f000eba101ebc1fff9",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 989
+        "impressionCount" : 990
       },
       "subtitle" : "Desktop client for Webull Financial LLC",
       "tintColor" : "CBD8FE",
@@ -42180,7 +42180,7 @@
       "sha256" : "816645f5eb2c903019d563ea5c684b5afbbdc1e52c90da9b387406559baf6574",
       "stats" : {
         "downloadCount" : 145,
-        "impressionCount" : 59
+        "impressionCount" : 60
       },
       "subtitle" : "Video editor",
       "tintColor" : "808182",

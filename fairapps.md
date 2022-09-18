@@ -23,21 +23,21 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `217` | `2022-09-13T00:00:00Z` | `10 MB` | `109` | `9` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `47` | `2022-09-09T00:00:00Z` | `2.3 MB` | `141` | `16` | `1` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `218` | `2022-09-13T00:00:00Z` | `10 MB` | `109` | `9` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `49` | `2022-09-09T00:00:00Z` | `2.3 MB` | `141` | `16` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `42` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4785` | `754` | `1` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `31` | `2022-09-03T00:00:00Z` | `2.2 MB` | `376` | `37` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `30` | `2022-08-27T00:00:00Z` | `4 MB` | `531` | `49` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `29` | `2022-09-09T00:00:00Z` | `2.2 MB` | `209` | `22` | `0` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.github.io/App) | ``0.0.14β`` | `28` | `2022-09-13T00:00:00Z` | `4.5 MB` | `17` | `3` | `1` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `338` | `27` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `26` | `2022-09-01T00:00:00Z` | `9.6 MB` | `390` | `42` | `1` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.github.io/App) | ``0.0.14β`` | `26` | `2022-09-13T00:00:00Z` | `4.5 MB` | `17` | `3` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `24` | `2022-09-09T00:00:00Z` | `2.3 MB` | `162` | `18` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `3385` | `256` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3688` | `601` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1051` | `92` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `21` | `2022-09-13T00:00:00Z` | `2.3 MB` | `3` | `1` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `21` | `2022-08-27T00:00:00Z` | `3.2 MB` | `222` | `19` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `20` | `2022-09-13T00:00:00Z` | `2.3 MB` | `3` | `1` | `1` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `624` | `48` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2253` | `139` | `0` | `0` |  |
 | [``Todo Hero``](http://appfair.net/#quick-start) | ``0.0.1β`` | `9` | `2022-08-23T00:00:00Z` | `2.2 MB` | `62` | `2` | `0` | `0` |  |

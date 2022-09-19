@@ -31,7 +31,7 @@ tr:nth-child(even) {
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `380` | `32` | `0` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `23` | `2022-09-13T00:00:00Z` | `5.8 MB` | `3` | `1` | `1` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `22` | `2022-09-09T00:00:00Z` | `5.8 MB` | `203` | `23` | `1` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `22` | `2022-09-13T00:00:00Z` | `19 MB` | `143` | `14` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `22` | `2022-09-13T00:00:00Z` | `19 MB` | `145` | `14` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `8` | `1` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `16` | `2022-08-27T00:00:00Z` | `7.7 MB` | `235` | `20` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `9` | `2022-09-01T00:00:00Z` | `18 MB` | `434` | `46` | `1` | `0` |  |

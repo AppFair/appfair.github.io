@@ -146,8 +146,8 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "e734f557975d86b9b2c82c43015a413523a5f4ac7adb262715f8ba4285d79a57",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "a7f0408225575ca1d9fed0c7225fac90f0c3b404eb54ae94d5efd1750fea40ee",
       "size" : 12818837,
       "stats" : {
         "coreSize" : 102488,
@@ -261,7 +261,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "9917f71f87f93cc9a749519b88819e9bcbdc28d2af16250eafb6baee3a022655",
+      "sha256" : "3ac6e18b3e1c3b5d7a76f6eb6d8bd6ddb6d5211067b0fe9dc59cb94eac2f99e2",
       "size" : 5803917,
       "stats" : {
         "coreSize" : 170144,
@@ -477,7 +477,7 @@
         "coreSize" : 170224,
         "downloadCount" : 16,
         "forkCount" : 0,
-        "impressionCount" : 233,
+        "impressionCount" : 234,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 20,
@@ -522,7 +522,7 @@
         "coreSize" : 170784,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 425,
+        "impressionCount" : 427,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 46,
@@ -1215,10 +1215,10 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 567,
+        "impressionCount" : 568,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 54,
+        "viewCount" : 55,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",

@@ -30,7 +30,7 @@ tr:nth-child(even) {
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `442` | `47` | `0` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `25` | `2022-09-13T00:00:00Z` | `5.8 MB` | `3` | `1` | `1` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `395` | `34` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `24` | `2022-09-13T00:00:00Z` | `19 MB` | `155` | `14` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `24` | `2022-09-13T00:00:00Z` | `19 MB` | `156` | `14` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `22` | `2022-09-09T00:00:00Z` | `5.8 MB` | `214` | `24` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `8` | `1` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `16` | `2022-08-27T00:00:00Z` | `7.7 MB` | `240` | `21` | `0` | `0` |  |

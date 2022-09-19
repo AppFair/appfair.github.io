@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 264,
+        "downloadCount" : 265,
         "forkCount" : 1,
         "impressionCount" : 137,
         "issueCount" : 6,
@@ -285,10 +285,10 @@
         "coreSize" : 170224,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 567,
+        "impressionCount" : 568,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 54,
+        "viewCount" : 55,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -370,7 +370,7 @@
         "coreSize" : 170784,
         "downloadCount" : 27,
         "forkCount" : 0,
-        "impressionCount" : 425,
+        "impressionCount" : 427,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 46,
@@ -445,7 +445,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "0b7fb6c9e557bf40b284eec4be0860eaf0c5b4601f26af6977fbc94ea0d4c181",
+      "sha256" : "e455333bf19625de3fb009c1b5b71eec49e6085e63a30c025b9114ddb2b01db5",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,
@@ -679,7 +679,7 @@
         "coreSize" : 170224,
         "downloadCount" : 21,
         "forkCount" : 0,
-        "impressionCount" : 233,
+        "impressionCount" : 234,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 20,

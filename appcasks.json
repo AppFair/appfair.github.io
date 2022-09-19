@@ -3037,7 +3037,7 @@
       "name" : "Google Chrome",
       "stats" : {
         "downloadCount" : 18376,
-        "impressionCount" : 2037
+        "impressionCount" : 2038
       },
       "subtitle" : "Web browser",
       "tintColor" : "C5C2AA",
@@ -3162,7 +3162,7 @@
       "sha256" : "50a4a45b3b7f44910c1a4c782c044579bc9dd09432c5e0a965dbeb973bbc767e",
       "stats" : {
         "downloadCount" : 4259,
-        "impressionCount" : 866
+        "impressionCount" : 868
       },
       "subtitle" : "Visual diff and merge tool",
       "tintColor" : "9E8B84",
@@ -3373,7 +3373,7 @@
       "sha256" : "5694a09c18dcbe4c5e67c69720d32cf2fa6ddf8a3481a6e7e722868972a52ae1",
       "stats" : {
         "downloadCount" : 2471,
-        "impressionCount" : 1287
+        "impressionCount" : 1288
       },
       "subtitle" : "Knowledge base that works on top of a local folder of plain text Markdown files",
       "tintColor" : "CBC6E5",
@@ -3578,7 +3578,7 @@
       "sha256" : "70fa1cb9990093b00d184eace8e6c5f1cfefe33decb8ab051141a3847439ff14",
       "stats" : {
         "downloadCount" : 1681,
-        "impressionCount" : 945
+        "impressionCount" : 946
       },
       "subtitle" : "Screenshot software",
       "tintColor" : "DFDFDF",
@@ -3640,7 +3640,7 @@
       "sha256" : "1f7ccc940a4ba0449d3d4537a6949cc97fa1e99ebf2ed1462ce48346f4cd5c6a",
       "stats" : {
         "downloadCount" : 1641,
-        "impressionCount" : 914
+        "impressionCount" : 915
       },
       "subtitle" : "Explore and manipulate your MongoDB data",
       "tintColor" : "D5EADD",
@@ -3661,7 +3661,7 @@
       "sha256" : "f61fa0140114d2d2ab96d3a39ce28b7f295b6c1ba7199aaf3f342881d3fdb903",
       "stats" : {
         "downloadCount" : 1641,
-        "impressionCount" : 734
+        "impressionCount" : 735
       },
       "subtitle" : "Peer to peer Bitorrent client",
       "tintColor" : "73A5E0",
@@ -3838,7 +3838,7 @@
       "sha256" : "4aecf835dcc3ccf3936e05e6cde7c3b5fa8e6d00bf9ebba52d3a608d7ba957b0",
       "stats" : {
         "downloadCount" : 1337,
-        "impressionCount" : 1793
+        "impressionCount" : 1795
       },
       "subtitle" : "Utility to extend trackpad functionality",
       "tintColor" : "000000",
@@ -3921,7 +3921,7 @@
       "sha256" : "a238994aff2b4206189228a0027cf96155a8798b1c71e4c316cf162b749b413d",
       "stats" : {
         "downloadCount" : 1228,
-        "impressionCount" : 1071
+        "impressionCount" : 1072
       },
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
@@ -3963,7 +3963,7 @@
       "sha256" : "b596c00a4d583a558fa1aa3ca9b96b9ea7c936f0544df5c0c862ca3335c925f2",
       "stats" : {
         "downloadCount" : 1154,
-        "impressionCount" : 1501
+        "impressionCount" : 1503
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
@@ -3984,7 +3984,7 @@
       "sha256" : "ca2cf1ac7fdca30e979a024e404722bddde0b7aadce5fb4d00f533eafcf7bf17",
       "stats" : {
         "downloadCount" : 1100,
-        "impressionCount" : 898
+        "impressionCount" : 899
       },
       "subtitle" : "Open-source keystroke visualizer",
       "tintColor" : "DED4E5",
@@ -4096,7 +4096,7 @@
       "sha256" : "1bfd6b85e8180d33bc6ba19620b5c6f083536d749bbd84c66d0a47f93459ee17",
       "stats" : {
         "downloadCount" : 1002,
-        "impressionCount" : 981
+        "impressionCount" : 982
       },
       "subtitle" : "Tool to list all active shortcuts of the current application",
       "tintColor" : "A6A6A6",
@@ -4546,7 +4546,7 @@
       "name" : "LastPass",
       "stats" : {
         "downloadCount" : 724,
-        "impressionCount" : 814
+        "impressionCount" : 815
       },
       "subtitle" : "Password manager",
       "tintColor" : "D55B56",
@@ -4567,7 +4567,7 @@
       "sha256" : "0db364bcb0b2eaad0237c6f8fbca2178ce0469a2c042f1f73b9cd6558c44ca1f",
       "stats" : {
         "downloadCount" : 704,
-        "impressionCount" : 617
+        "impressionCount" : 618
       },
       "subtitle" : "Extensible two-pane file manager",
       "tintColor" : "EA7429",

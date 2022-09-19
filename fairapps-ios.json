@@ -2,6 +2,48 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "969f4675b307f29408f6179572992562afa898cfdce9fca91377f42bd4efc7aa",
+      "size" : 5805786,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 55,
+        "forkCount" : 1,
+        "impressionCount" : 182,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 24,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.287",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.286...0.9.287"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
 
@@ -33,7 +75,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3415,
+        "impressionCount" : 3419,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 259,
@@ -44,48 +86,6 @@
       "version" : "0.0.20",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "969f4675b307f29408f6179572992562afa898cfdce9fca91377f42bd4efc7aa",
-      "size" : 5805786,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 53,
-        "forkCount" : 1,
-        "impressionCount" : 177,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 24,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.287",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.286...0.9.287"
     },
     {
       "beta" : false,
@@ -112,7 +112,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 242,
+        "impressionCount" : 247,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -122,6 +122,47 @@
       "version" : "0.0.10",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Sun-Bow.github.io/App",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "sha256" : "e734f557975d86b9b2c82c43015a413523a5f4ac7adb262715f8ba4285d79a57",
+      "size" : 12818837,
+      "stats" : {
+        "coreSize" : 102488,
+        "downloadCount" : 27,
+        "forkCount" : 0,
+        "impressionCount" : 21,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "version" : "0.0.14",
+      "versionDate" : "2022-09-13T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
     },
     {
       "beta" : false,
@@ -148,7 +189,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 421,
+        "impressionCount" : 424,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 44,
@@ -185,7 +226,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 376,
+        "impressionCount" : 379,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 32,
@@ -195,47 +236,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-09-02T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Sun-Bow.github.io/App",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "a214d9ac0d0d4750d125072ca437f345921e1b7002f3a57ba55d25804220bb7f",
-      "size" : 12818837,
-      "stats" : {
-        "coreSize" : 102488,
-        "downloadCount" : 25,
-        "forkCount" : 0,
-        "impressionCount" : 21,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "version" : "0.0.14",
-      "versionDate" : "2022-09-13T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
     },
     {
       "beta" : true,
@@ -261,11 +261,11 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "3ac6e18b3e1c3b5d7a76f6eb6d8bd6ddb6d5211067b0fe9dc59cb94eac2f99e2",
+      "sha256" : "9917f71f87f93cc9a749519b88819e9bcbdc28d2af16250eafb6baee3a022655",
       "size" : 5803917,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 22,
+        "downloadCount" : 23,
         "forkCount" : 1,
         "impressionCount" : 3,
         "issueCount" : 0,
@@ -278,52 +278,6 @@
       "version" : "0.9.288",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.287...0.9.288"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.46/Bon-Mot-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.46/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.46/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.46/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "sha256" : "045abcd598defef69523467e423dae1de9a2daf596436bf5c447580c26b3dedd",
-      "size" : 5774347,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 22,
-        "forkCount" : 0,
-        "impressionCount" : 192,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 23,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.46",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.45...0.2.46"
     },
     {
       "beta" : false,
@@ -380,9 +334,9 @@
       "size" : 18974237,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 21,
+        "downloadCount" : 22,
         "forkCount" : 1,
-        "impressionCount" : 134,
+        "impressionCount" : 137,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 14,
@@ -393,6 +347,52 @@
       "version" : "0.8.118",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.117...0.8.118"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.46/Bon-Mot-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.46/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.46/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.46/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "sha256" : "045abcd598defef69523467e423dae1de9a2daf596436bf5c447580c26b3dedd",
+      "size" : 5774347,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 22,
+        "forkCount" : 0,
+        "impressionCount" : 196,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 23,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.46",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.45...0.2.46"
     },
     {
       "beta" : true,
@@ -522,7 +522,7 @@
         "coreSize" : 170784,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 422,
+        "impressionCount" : 425,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 46,
@@ -700,7 +700,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3075,
+        "impressionCount" : 3077,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 175,
@@ -1118,7 +1118,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 515,
+        "impressionCount" : 518,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,
@@ -1163,7 +1163,7 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 439,
+        "impressionCount" : 442,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -1215,7 +1215,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 564,
+        "impressionCount" : 567,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 54,
@@ -1252,7 +1252,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 476,
+        "impressionCount" : 478,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 42,
@@ -1324,7 +1324,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 494,
+        "impressionCount" : 496,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 45,
@@ -1360,7 +1360,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 658,
+        "impressionCount" : 661,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 52,
@@ -1396,7 +1396,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 671,
+        "impressionCount" : 678,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -1432,7 +1432,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 462,
+        "impressionCount" : 464,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,

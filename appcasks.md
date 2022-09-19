@@ -66,7 +66,7 @@ tr:nth-child(even) {
 | [``Alacritty``](https://github.com/alacritty/alacritty/) | ``0.10.1`` | `2955` |  |  | `3177` | `201` |  | `0` | `public.app-category.productivity` |
 | [``Wireshark``](https://www.wireshark.org/) | ``3.6.8`` | `2766` | `2022-09-08T00:00:00Z` |  | `2033` | `113` |  | `0` | `public.app-category.productivity` |
 | [``IntelliJ IDEA Community …``](https://www.jetbrains.com/idea/) | ``2022.2.2,222.4167.29`` | `2627` | `2022-09-15T00:00:00Z` |  | `2324` | `100` |  | `0` | `public.app-category.developer-tools` |
-| [``Telegram for macOS``](https://macos.telegram.org/) | ``9.0,236759`` | `2593` | `2022-09-19T00:00:00Z` |  | `2264` | `170` |  | `0` | `public.app-category.social-networking` |
+| [``Telegram for macOS``](https://macos.telegram.org/) | ``9.0,236759`` | `2593` | `2022-09-19T00:00:00Z` |  | `2266` | `171` |  | `0` | `public.app-category.social-networking` |
 | [``Insomnia``](https://insomnia.rest/) | ``2022.5.1`` | `2579` | `2022-08-19T00:00:00Z` |  | `2712` | `209` |  | `0` | `public.app-category.developer-tools` |
 | [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2552` | `2022-09-06T00:00:00Z` |  | `2806` | `258` |  | `0` | `public.app-category.utilities` |
 | [``Github Atom``](https://atom.io/) | ``1.60.0`` | `2534` |  |  | `2798` | `172` |  | `0` | `public.app-category.developer-tools` |

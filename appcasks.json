@@ -903,7 +903,7 @@
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
       "version" : "2.7.35",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1200,7 +1200,7 @@
       "subtitle" : "Messaging app with a focus on speed and security",
       "tintColor" : "87CAEB",
       "version" : "9.0,236759",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2159,7 +2159,7 @@
       "subtitle" : "Modern and intuitive HTTP Debugging Proxy app",
       "tintColor" : "6DA4E9",
       "version" : "3.10.0,31000",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2680,7 +2680,7 @@
       "subtitle" : "News reader with flexible settings",
       "tintColor" : "629885",
       "version" : "1.0.75",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5162,7 +5162,7 @@
       "subtitle" : "Utilities designed to make common development tasks easier",
       "tintColor" : "7344A1",
       "version" : "0.0.11",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5504,7 +5504,7 @@
       "subtitle" : "Instant messaging tool",
       "tintColor" : "80584A",
       "version" : "6.8.3.4068",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8433,7 +8433,7 @@
       "subtitle" : "Terminal/ssh/sftp client",
       "tintColor" : "7E7570",
       "version" : "1.23.2",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10483,7 +10483,7 @@
       "subtitle" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "tintColor" : "761E76",
       "version" : "3.6.5",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14789,7 +14789,7 @@
       "subtitle" : "Redis desktop",
       "tintColor" : "C23933",
       "version" : "2.4.0",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15335,7 +15335,7 @@
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
       "version" : "1.8.28",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21081,7 +21081,7 @@
       "subtitle" : "Use Vim in input fields and non input fields",
       "tintColor" : "282D32",
       "version" : "38.0.0",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28994,7 +28994,7 @@
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
       "version" : "0.197.0",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -45823,7 +45823,7 @@
       "subtitle" : "Media key forwarder for iTunes and Spotify",
       "tintColor" : "000000",
       "version" : "3.1.1",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49282,7 +49282,7 @@
       "subtitle" : "File synchronization and backup software",
       "tintColor" : "C8BBDC",
       "version" : "12.0.3",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51234,7 +51234,7 @@
       "subtitle" : "Game Boy and Game Boy Color emulator written in C",
       "tintColor" : "7D8786",
       "version" : "0.15.6",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53425,7 +53425,7 @@
       "subtitle" : "Collection of patches applied to OpenTTD",
       "tintColor" : "B28846",
       "version" : "0.48.3",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56366,7 +56366,7 @@
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
       "version" : "6.2.1119",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60529,7 +60529,7 @@
       },
       "subtitle" : "Clipboard manager with advanced features",
       "version" : "6.3.0",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62602,7 +62602,7 @@
       },
       "subtitle" : "Serial port terminal",
       "version" : "2.0.0.3.0.1090",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66401,7 +66401,7 @@
       },
       "subtitle" : "Data Modeling for NoSQL databases, storage formats, REST APIs, and JSON in RDBMS",
       "version" : "6.5.1",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69373,7 +69373,7 @@
       },
       "subtitle" : "Extract numerical data from plot images",
       "version" : "4.6",
-      "versionDate" : "2022-09-19T06:22:13Z"
+      "versionDate" : "2022-09-19T00:00:00Z"
     },
     {
       "beta" : false,

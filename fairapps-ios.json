@@ -28,9 +28,9 @@
       "size" : 5805786,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 63,
+        "downloadCount" : 67,
         "forkCount" : 1,
-        "impressionCount" : 196,
+        "impressionCount" : 198,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 27,
@@ -75,7 +75,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3434,
+        "impressionCount" : 3436,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 262,
@@ -110,12 +110,12 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
       "sha256" : "a214d9ac0d0d4750d125072ca437f345921e1b7002f3a57ba55d25804220bb7f",
       "size" : 12818837,
       "stats" : {
         "coreSize" : 102488,
-        "downloadCount" : 31,
+        "downloadCount" : 33,
         "forkCount" : 0,
         "impressionCount" : 21,
         "issueCount" : 0,
@@ -127,42 +127,6 @@
       "version" : "0.0.14",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.13...0.0.14"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Huffle-Puff",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
-      "localizedDescription" : "H.R. Huffle Puff ",
-      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Huffle Puff",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "5ea5ef256d2f4f51120a0cabd08b19ba2438348be9410f2e0d6ab0af69bdcf45",
-      "size" : 5665272,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 28,
-        "forkCount" : 0,
-        "impressionCount" : 269,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 30,
-        "watcherCount" : 0
-      },
-      "subtitle" : "H.R. Huffle Puff ",
-      "version" : "0.0.10",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
     },
     {
       "beta" : true,
@@ -188,11 +152,11 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "3ac6e18b3e1c3b5d7a76f6eb6d8bd6ddb6d5211067b0fe9dc59cb94eac2f99e2",
+      "sha256" : "9917f71f87f93cc9a749519b88819e9bcbdc28d2af16250eafb6baee3a022655",
       "size" : 5803917,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 27,
+        "downloadCount" : 29,
         "forkCount" : 1,
         "impressionCount" : 3,
         "issueCount" : 0,
@@ -261,9 +225,9 @@
       "size" : 18974237,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 26,
+        "downloadCount" : 28,
         "forkCount" : 1,
-        "impressionCount" : 158,
+        "impressionCount" : 162,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 14,
@@ -274,6 +238,42 @@
       "version" : "0.8.118",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.117...0.8.118"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Huffle-Puff",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
+      "localizedDescription" : "H.R. Huffle Puff ",
+      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Huffle Puff",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "5ea5ef256d2f4f51120a0cabd08b19ba2438348be9410f2e0d6ab0af69bdcf45",
+      "size" : 5665272,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 28,
+        "forkCount" : 0,
+        "impressionCount" : 270,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 30,
+        "watcherCount" : 0
+      },
+      "subtitle" : "H.R. Huffle Puff ",
+      "version" : "0.0.10",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
     },
     {
       "beta" : false,
@@ -300,7 +300,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 445,
+        "impressionCount" : 447,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -337,7 +337,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 400,
+        "impressionCount" : 401,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -382,7 +382,7 @@
         "coreSize" : 170240,
         "downloadCount" : 22,
         "forkCount" : 0,
-        "impressionCount" : 217,
+        "impressionCount" : 219,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 25,
@@ -477,7 +477,7 @@
         "coreSize" : 170224,
         "downloadCount" : 16,
         "forkCount" : 0,
-        "impressionCount" : 240,
+        "impressionCount" : 242,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -522,7 +522,7 @@
         "coreSize" : 170784,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 451,
+        "impressionCount" : 452,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 49,
@@ -1118,7 +1118,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 536,
+        "impressionCount" : 537,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 29,
@@ -1163,7 +1163,7 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 456,
+        "impressionCount" : 457,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,
@@ -1215,7 +1215,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 584,
+        "impressionCount" : 585,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 57,
@@ -1324,7 +1324,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 508,
+        "impressionCount" : 509,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1360,7 +1360,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 678,
+        "impressionCount" : 680,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -1396,7 +1396,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 698,
+        "impressionCount" : 700,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 49,

@@ -15266,20 +15266,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.remnote.io/RemNote-1.8.28.dmg",
+      "downloadURL" : "https://download.remnote.io/RemNote-1.8.29.dmg",
       "homepage" : "https://www.remnote.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-remnote/AppIcon.png",
       "localizedDescription" : "Spaced-repetition powered note-taking tool",
       "name" : "RemNote",
-      "sha256" : "d4874c3899ec9a00fa8e45058c906969ba8e0293f11fecb50b57da23016e7448",
+      "sha256" : "9a1352dd2abeecb4a4ab08f8002bc667b2c52e8d94fede3bcd5662712dbacca2",
       "stats" : {
         "downloadCount" : 31,
         "impressionCount" : 652
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
-      "version" : "1.8.28",
-      "versionDate" : "2022-09-19T00:00:00Z"
+      "version" : "1.8.29",
+      "versionDate" : "2022-09-20T06:09:42Z"
     },
     {
       "beta" : false,
@@ -20403,8 +20403,8 @@
       },
       "subtitle" : "Interactive media player",
       "tintColor" : "41D73D",
-      "version" : "13.9.0,20220914174701",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "13.9.0,20220919173000",
+      "versionDate" : "2022-09-20T06:09:42Z"
     },
     {
       "beta" : false,
@@ -25012,20 +25012,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2022.34.0.203.dmg",
+      "downloadURL" : "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2022.35.0.204.dmg",
       "homepage" : "https://www.trainerroad.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-trainerroad/AppIcon.png",
       "localizedDescription" : "Cycling training system",
       "name" : "TrainerRoad",
-      "sha256" : "f2c15a95242afc764f5bf301468a5a42d289c5cf140d22003532f3106f125560",
+      "sha256" : "0b66210fdc721ae27b00fef607f5a8972e79847af4d3bab739bd93a47b08bcb0",
       "stats" : {
         "downloadCount" : 9,
         "impressionCount" : 379
       },
       "subtitle" : "Cycling training system",
       "tintColor" : "E04D42",
-      "version" : "2022.34.0.203",
-      "versionDate" : "2022-09-13T00:00:00Z"
+      "version" : "2022.35.0.204",
+      "versionDate" : "2022-09-20T06:09:42Z"
     },
     {
       "beta" : false,
@@ -29703,20 +29703,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://d1weoh55n7oehu.cloudfront.net/10.30.0/Missive-10.30.0.dmg",
+      "downloadURL" : "https://d1weoh55n7oehu.cloudfront.net/10.31.1/Missive-10.31.1.dmg",
       "homepage" : "https://missiveapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-missive/AppIcon.png",
       "localizedDescription" : "Team inbox and chat tool",
       "name" : "Missive",
-      "sha256" : "9471e7e7ae358eb635066af7e1c10e256ee2e766a3a5e34b8a7dc1940cb334e4",
+      "sha256" : "2b4002bac402af5d2b0d06b5269a9a530030682a557704383b66ec107f0a0d84",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 764
       },
       "subtitle" : "Team inbox and chat tool",
       "tintColor" : "D3E5F4",
-      "version" : "10.30.0",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "10.31.1",
+      "versionDate" : "2022-09-20T06:09:42Z"
     },
     {
       "beta" : false,
@@ -30417,20 +30417,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.197.0/Hepta-0.197.0-mac.zip",
+      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.198.0/Hepta-0.198.0-mac.zip",
       "homepage" : "https://heptabase.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hepta/AppIcon.png",
       "localizedDescription" : "Note-taking tool for visual learning",
       "name" : "Hepta",
-      "sha256" : "8e028ee1cb0f906a344d71c876a8a2963d9f4d6318ba6f194fdbd50998a2e224",
+      "sha256" : "4ba5189d39375dcfcc4b609119d782747f4ba109c5927ef4e14e9e3bdcf4a40d",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 486
       },
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
-      "version" : "0.197.0",
-      "versionDate" : "2022-09-19T00:00:00Z"
+      "version" : "0.198.0",
+      "versionDate" : "2022-09-20T06:09:42Z"
     },
     {
       "beta" : false,
@@ -30545,7 +30545,7 @@
       "name" : "Ankama Launcher",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 1149
+        "impressionCount" : 1151
       },
       "subtitle" : "Portal to download Ankama's PC games",
       "tintColor" : "F08612",
@@ -39576,20 +39576,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.13-release/ricochet-refresh-3.0.13-macos-x86_64.dmg",
+      "downloadURL" : "https://github.com/blueprint-freespeech/ricochet-refresh/releases/download/v3.0.14-release/ricochet-refresh-3.0.14-macos-x86_64.dmg",
       "homepage" : "https://www.ricochetrefresh.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ricochet-refresh/AppIcon.png",
       "localizedDescription" : "Private and anonymous instant messaging over tor",
       "name" : "Ricochet Refresh",
-      "sha256" : "efdf07d361ddfe3f950175133c337d7f40c9022a1a3ccd560fd7e200b0cb0895",
+      "sha256" : "af8f8ba0e803f1b06a9fe97cc54125ee091b9fba2d38a9e3cb2e72af9673fa03",
       "stats" : {
         "downloadCount" : 0,
         "impressionCount" : 128
       },
       "subtitle" : "Private and anonymous instant messaging over tor",
       "tintColor" : "0A9ECD",
-      "version" : "3.0.13",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "3.0.14",
+      "versionDate" : "2022-09-20T06:09:42Z"
     },
     {
       "beta" : false,
@@ -73979,34 +73979,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "melonbooksviewer",
-      "caption" : "Melonbooks Viewer 1.1.0 released",
-      "date" : "2022-09-17T01:15:11Z",
-      "identifier" : "release-melonbooksviewer-1.1.0",
-      "title" : "New Release: Melonbooks Viewer 1.1.0"
-    },
-    {
-      "appID" : "moose",
-      "caption" : "moose 0.6.2 released",
-      "date" : "2022-09-17T01:15:11Z",
-      "identifier" : "release-moose-0.6.2",
-      "title" : "New Release: moose 0.6.2"
-    },
-    {
-      "appID" : "scrapp",
-      "caption" : "Scrapp 1.6 released",
-      "date" : "2022-09-17T01:15:11Z",
-      "identifier" : "release-scrapp-1.6",
-      "title" : "New Release: Scrapp 1.6"
-    },
-    {
-      "appID" : "fork",
-      "caption" : "Fork updated from 2.21 to 2.22",
-      "date" : "2022-09-17T04:02:02Z",
-      "identifier" : "release-fork-2.22",
-      "title" : "New Release: Fork 2.22"
-    },
-    {
       "appID" : "krita",
       "caption" : "Krita updated from 5.1.0 to 5.1.1",
       "date" : "2022-09-17T04:02:02Z",
@@ -74320,20 +74292,6 @@
       "date" : "2022-09-19T06:22:15Z",
       "identifier" : "release-redis-pro-2.4.0",
       "title" : "New Release: redis-pro 2.4.0"
-    },
-    {
-      "appID" : "remnote",
-      "caption" : "RemNote updated from 1.8.27 to 1.8.28",
-      "date" : "2022-09-19T06:22:15Z",
-      "identifier" : "release-remnote-1.8.28",
-      "title" : "New Release: RemNote 1.8.28"
-    },
-    {
-      "appID" : "hepta",
-      "caption" : "Hepta updated from 0.196.0 to 0.197.0",
-      "date" : "2022-09-19T06:22:15Z",
-      "identifier" : "release-hepta-0.197.0",
-      "title" : "New Release: Hepta 0.197.0"
     },
     {
       "appID" : "macmediakeyforwarder",
@@ -74677,6 +74635,48 @@
       "date" : "2022-09-20T04:25:21Z",
       "identifier" : "release-photo-supreme-single-user-7.3.1.4532",
       "title" : "New Release: Photo Supreme Single User 7.3.1.4532"
+    },
+    {
+      "appID" : "remnote",
+      "caption" : "RemNote updated from 1.8.28 to 1.8.29",
+      "date" : "2022-09-20T06:09:43Z",
+      "identifier" : "release-remnote-1.8.29",
+      "title" : "New Release: RemNote 1.8.29"
+    },
+    {
+      "appID" : "qiyimedia",
+      "caption" : "iQIYI updated from 13.9.0,20220914174701 to 13.9.0,20220919173000",
+      "date" : "2022-09-20T06:09:43Z",
+      "identifier" : "release-qiyimedia-13.9.0,20220919173000",
+      "title" : "New Release: iQIYI 13.9.0,20220919173000"
+    },
+    {
+      "appID" : "trainerroad",
+      "caption" : "TrainerRoad updated from 2022.34.0.203 to 2022.35.0.204",
+      "date" : "2022-09-20T06:09:43Z",
+      "identifier" : "release-trainerroad-2022.35.0.204",
+      "title" : "New Release: TrainerRoad 2022.35.0.204"
+    },
+    {
+      "appID" : "missive",
+      "caption" : "Missive updated from 10.30.0 to 10.31.1",
+      "date" : "2022-09-20T06:09:43Z",
+      "identifier" : "release-missive-10.31.1",
+      "title" : "New Release: Missive 10.31.1"
+    },
+    {
+      "appID" : "hepta",
+      "caption" : "Hepta updated from 0.197.0 to 0.198.0",
+      "date" : "2022-09-20T06:09:43Z",
+      "identifier" : "release-hepta-0.198.0",
+      "title" : "New Release: Hepta 0.198.0"
+    },
+    {
+      "appID" : "ricochet-refresh",
+      "caption" : "Ricochet Refresh updated from 3.0.13 to 3.0.14",
+      "date" : "2022-09-20T06:09:44Z",
+      "identifier" : "release-ricochet-refresh-3.0.14",
+      "title" : "New Release: Ricochet Refresh 3.0.14"
     }
   ],
   "platform" : "macos",

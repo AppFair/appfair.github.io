@@ -23,14 +23,14 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `59` | `2022-09-09T00:00:00Z` | `5.8 MB` | `194` | `26` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `63` | `2022-09-09T00:00:00Z` | `5.8 MB` | `194` | `26` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3431` | `261` | `0` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.14β`` | `29` | `2022-09-13T00:00:00Z` | `12.8 MB` | `21` | `3` | `1` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.14β`` | `31` | `2022-09-13T00:00:00Z` | `12.8 MB` | `21` | `3` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `265` | `29` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `27` | `2022-09-13T00:00:00Z` | `5.8 MB` | `3` | `1` | `1` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `26` | `2022-09-13T00:00:00Z` | `19 MB` | `156` | `14` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `442` | `47` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `25` | `2022-09-13T00:00:00Z` | `5.8 MB` | `3` | `1` | `1` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `395` | `34` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `24` | `2022-09-13T00:00:00Z` | `19 MB` | `156` | `14` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `22` | `2022-09-09T00:00:00Z` | `5.8 MB` | `214` | `24` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `8` | `1` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.45`` | `16` | `2022-08-27T00:00:00Z` | `7.7 MB` | `240` | `21` | `0` | `0` |  |

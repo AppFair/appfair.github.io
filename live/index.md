@@ -15,9 +15,12 @@ title: The App Fair
 <!-- Create a Twitch.Embed object that will render within the "twitch-embed" element -->
 <script type="text/javascript">
   new Twitch.Embed("twitch-embed", {
-    width: 854,
-    height: 480,
     channel: "appfair",
+    autoplay: false,
+    muted: false,
+    theme: "light",
+    width: "100%",
+    layout: "video",
     parent: ["appfair.net", "www.appfair.net"]
   });
 </script>

@@ -32,7 +32,7 @@ tr:nth-child(even) {
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `29` | `2022-09-09T00:00:00Z` | `2.2 MB` | `272` | `30` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `28` | `2022-09-01T00:00:00Z` | `9.6 MB` | `454` | `49` | `1` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `403` | `35` | `0` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `24` | `2022-09-09T00:00:00Z` | `2.3 MB` | `220` | `25` | `1` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `24` | `2022-09-09T00:00:00Z` | `2.3 MB` | `222` | `25` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `3437` | `262` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3732` | `608` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1056` | `92` | `0` | `0` |  |

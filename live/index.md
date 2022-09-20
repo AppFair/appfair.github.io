@@ -16,6 +16,8 @@ title: The App Fair
 <script type="text/javascript">
   new Twitch.Embed("twitch-embed", {
     channel: "appfair",
+    width: 854,
+    height: 480,
     autoplay: false,
     muted: false,
     theme: "light",

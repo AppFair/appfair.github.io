@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 5931,
-        "impressionCount" : 8628,
+        "impressionCount" : 8629,
         "viewCount" : 551
       },
       "subtitle" : "Voice and text chat software",
@@ -358,7 +358,7 @@
       "sha256" : "73dd1ede9fd57cf436aa9b9e82fdbe9685cafdc99066081de8e4bdee1790ba0b",
       "stats" : {
         "downloadCount" : 1246,
-        "impressionCount" : 9035,
+        "impressionCount" : 9036,
         "viewCount" : 510
       },
       "subtitle" : "3D creation suite",
@@ -1789,7 +1789,7 @@
       "sha256" : "e993e89c43937d6799da47831d2302295bb3f6c948de14268aff0bffd32e1949",
       "stats" : {
         "downloadCount" : 964,
-        "impressionCount" : 2759,
+        "impressionCount" : 2760,
         "viewCount" : 255
       },
       "subtitle" : "GIT client",
@@ -3141,7 +3141,7 @@
       "sha256" : "e5db119b0b161fea2d404fad01a22d9eb314ea3a2d90f3c5b14c7f773fdaf4af",
       "stats" : {
         "downloadCount" : 4917,
-        "impressionCount" : 1979
+        "impressionCount" : 1980
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -3702,7 +3702,7 @@
       "sha256" : "7fb7c939786dcd8fcaad0ea06c24ae2d71f805726759a738b010365d9a0db5af",
       "stats" : {
         "downloadCount" : 1564,
-        "impressionCount" : 1014
+        "impressionCount" : 1015
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
       "tintColor" : "8E76B6",
@@ -5241,7 +5241,7 @@
       "sha256" : "3a02d98202acc4a838e584e645a2a832562348139c7837801030ac0c16518a9f",
       "stats" : {
         "downloadCount" : 439,
-        "impressionCount" : 917
+        "impressionCount" : 918
       },
       "subtitle" : "Tool to remove unnecessary files and folders from disk",
       "tintColor" : "E6B2D2",
@@ -6304,7 +6304,7 @@
       "sha256" : "0d7c4a2b8045eb6e700001cef73a1c80058c7829a8bd8eada45efa4d35cc5207",
       "stats" : {
         "downloadCount" : 253,
-        "impressionCount" : 642
+        "impressionCount" : 643
       },
       "subtitle" : "Finder replacement and FTP, SFTP, WebDAV and Amazon s3 client",
       "tintColor" : "BFA13E",
@@ -7404,7 +7404,7 @@
       "sha256" : "ef196e8f48326a7d92313875c4c8947c57a3984b36aa2079d0d724ff796115b2",
       "stats" : {
         "downloadCount" : 148,
-        "impressionCount" : 941
+        "impressionCount" : 942
       },
       "subtitle" : "Virtual video-calling space",
       "tintColor" : "3260E6",
@@ -7844,7 +7844,7 @@
       "sha256" : "fd08dfc676365e85418fe00d13eee531de958f3fd3d7e471fba4d4923c719744",
       "stats" : {
         "downloadCount" : 131,
-        "impressionCount" : 1876
+        "impressionCount" : 1877
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
@@ -8305,7 +8305,7 @@
       "sha256" : "584d816983a7926d3f9d473ec29963dc834da325ae5c8df67b045a411f7e1a80",
       "stats" : {
         "downloadCount" : 118,
-        "impressionCount" : 722
+        "impressionCount" : 723
       },
       "subtitle" : "Terminal/ssh/sftp client",
       "tintColor" : "7E7570",
@@ -8407,7 +8407,7 @@
       "sha256" : "3aa7a05fd947b76e36d7b65646b693bc175d51e5874cac74cf953a1c71a6f138",
       "stats" : {
         "downloadCount" : 116,
-        "impressionCount" : 797
+        "impressionCount" : 798
       },
       "subtitle" : "Hard disk backup and cloning utility",
       "tintColor" : "8198A9",
@@ -14774,7 +14774,7 @@
       "sha256" : "4267f7792caa31cfe64332a40812768368bd7485238b774b2ad3eb565de3443f",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 466
+        "impressionCount" : 467
       },
       "subtitle" : "Turn websites into apps",
       "tintColor" : "DBCAEF",
@@ -21734,7 +21734,7 @@
       "sha256" : "cd119af8cd1f71aa1978e69252c283ae3a80838adcb536da45f4ae2bf6bbd7e2",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 502
+        "impressionCount" : 503
       },
       "subtitle" : "Open links/files with specific browsers/apps",
       "tintColor" : "1599E7",
@@ -24356,7 +24356,7 @@
       "sha256" : "fe2a446812f30d7f9c4aa53f767ed9e897b0a52298046a66493537da6390f552",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 927
+        "impressionCount" : 928
       },
       "subtitle" : "Interactive Geometry Software",
       "tintColor" : "A18119",
@@ -38756,7 +38756,7 @@
       "sha256" : "0c32fd8e15eff4bdd19fe4fae4f9dc29c6225a5a238bc25664cac0f5b6d5c1ab",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 1255
+        "impressionCount" : 1256
       },
       "subtitle" : "Spatial Network Analysis Software",
       "tintColor" : "CABC7C",

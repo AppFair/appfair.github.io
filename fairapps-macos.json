@@ -59,9 +59,9 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 310,
+        "downloadCount" : 311,
         "forkCount" : 1,
-        "impressionCount" : 175,
+        "impressionCount" : 177,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 17,
@@ -105,10 +105,10 @@
         "coreSize" : 170144,
         "downloadCount" : 63,
         "forkCount" : 1,
-        "impressionCount" : 213,
+        "impressionCount" : 214,
         "issueCount" : 0,
         "starCount" : 2,
-        "viewCount" : 29,
+        "viewCount" : 30,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -158,10 +158,10 @@
         "coreSize" : 170576,
         "downloadCount" : 42,
         "forkCount" : 0,
-        "impressionCount" : 4838,
+        "impressionCount" : 4839,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 766,
+        "viewCount" : 767,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -239,10 +239,10 @@
         "coreSize" : 170176,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 462,
+        "impressionCount" : 464,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 48,
+        "viewCount" : 49,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -288,7 +288,7 @@
         "coreSize" : 170224,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 598,
+        "impressionCount" : 599,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 57,
@@ -337,7 +337,7 @@
         "coreSize" : 170784,
         "downloadCount" : 29,
         "forkCount" : 0,
-        "impressionCount" : 470,
+        "impressionCount" : 471,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 52,
@@ -374,7 +374,7 @@
         "coreSize" : 170144,
         "downloadCount" : 29,
         "forkCount" : 0,
-        "impressionCount" : 284,
+        "impressionCount" : 286,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -411,7 +411,7 @@
         "coreSize" : 170240,
         "downloadCount" : 26,
         "forkCount" : 1,
-        "impressionCount" : 419,
+        "impressionCount" : 421,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -439,14 +439,14 @@
       "name" : "Bon Mot",
       "permissions" : [
         {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        },
-        {
           "identifier" : "com.apple.security.files.user-selected.read-only",
           "type" : "entitlement",
           "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
         }
       ],
       "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.46/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
@@ -460,9 +460,9 @@
         "coreSize" : 170240,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 232,
+        "impressionCount" : 233,
         "issueCount" : 0,
-        "starCount" : 1,
+        "starCount" : 2,
         "viewCount" : 25,
         "watcherCount" : 0
       },
@@ -507,7 +507,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3447,
+        "impressionCount" : 3448,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 263,
@@ -550,7 +550,7 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3742,
+        "impressionCount" : 3743,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 608,
@@ -598,59 +598,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Net-Skip-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
-      "name" : "Net Skip",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        }
-      ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.45/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
-      "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_01-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_01-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_02-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_02-mac-light-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_03-mac-dark-2528x2010.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.45/screenshot_03-mac-light-2528x2010.png"
-      ],
-      "sha256" : "0c7d2890822b73ea7f0e575799e0996db82f769638373d633aaa0acd83eda827",
-      "size" : 3247297,
-      "stats" : {
-        "coreSize" : 102472,
-        "downloadCount" : 21,
-        "forkCount" : 0,
-        "impressionCount" : 249,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 22,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.45",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Crazy-Glue",
       "categories" : [
 
@@ -677,7 +624,7 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 696,
+        "impressionCount" : 697,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -910,7 +857,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 551,
+        "impressionCount" : 552,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1033,7 +980,7 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 469,
+        "impressionCount" : 470,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -1145,7 +1092,7 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 520,
+        "impressionCount" : 521,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -1501,7 +1448,7 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 195,
+        "impressionCount" : 196,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 14,
@@ -1549,6 +1496,56 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/Bon-Mot-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "screenshotURLs" : [
+        "https://github.com/Bon-Mot/App/releases/download/0.2.47/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.2.47/screenshot_01-mac-light-mac-2024x1124.png"
+      ],
+      "sha256" : "5449f02a89b4a15326a856942c6689cd75d4b2c0eb88eff32fa0cdfdf1426abc",
+      "size" : 2276087,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 2,
+        "forkCount" : 0,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.47",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.46...0.2.47"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Media-Res",
       "categories" : [
@@ -1577,7 +1574,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 5,
+        "impressionCount" : 6,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -1664,7 +1661,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 712,
+        "impressionCount" : 713,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 49,
@@ -1753,6 +1750,59 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.16...0.0.17"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-mac-light-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_03-mac-dark-2528x2010.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_03-mac-light-2528x2010.png"
+      ],
+      "sha256" : "e0def1c53134181a97d88bf1df04cdb29a28bd67ecc433e4e458d31084099270",
+      "size" : 3247304,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 1,
+        "forkCount" : 0,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.48",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
@@ -1799,13 +1849,6 @@
   "identifier" : "net.appfair.fairapps-macos",
   "name" : "Fair Apps",
   "news" : [
-    {
-      "appID" : "app.Sita-Sings-the-Blues",
-      "caption" : "Sita Sings the Blues 0.0.51 released",
-      "date" : "2022-08-27T15:17:16Z",
-      "identifier" : "release-app.Sita-Sings-the-Blues-0.0.51",
-      "title" : "New Release: Sita Sings the Blues 0.0.51"
-    },
     {
       "appID" : "app.Tune-Out",
       "caption" : "Tune Out updated from 0.8.456 to 0.8.458",
@@ -1868,6 +1911,13 @@
       "date" : "2022-09-20T19:55:11Z",
       "identifier" : "release-app.Media-Res-0.0.22",
       "title" : "New Release: Media Res 0.0.22"
+    },
+    {
+      "appID" : "app.Net-Skip",
+      "caption" : "Net Skip updated from 0.0.45 to 0.0.48",
+      "date" : "2022-09-20T23:44:36Z",
+      "identifier" : "release-app.Net-Skip-0.0.48",
+      "title" : "New Release: Net Skip 0.0.48"
     }
   ],
   "platform" : "macos"

@@ -57,8 +57,8 @@
       "sha256" : "e49dc15eca7faaa4ddd537bff3a5f7848888bd0e97812e6724c4e43f37d29436",
       "stats" : {
         "downloadCount" : 16521,
-        "impressionCount" : 9588,
-        "viewCount" : 997
+        "impressionCount" : 9589,
+        "viewCount" : 998
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 27772,
-        "impressionCount" : 8910,
+        "impressionCount" : 8911,
         "viewCount" : 749
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -479,7 +479,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 483,
-        "impressionCount" : 7205,
+        "impressionCount" : 7206,
         "viewCount" : 511
       },
       "subtitle" : "Text, code, and markup editor",
@@ -788,7 +788,7 @@
       "sha256" : "e8ae07278a968dffc1b28c66496c8efca9b7059ba30a7309dbfc423241f74da2",
       "stats" : {
         "downloadCount" : 8912,
-        "impressionCount" : 2870,
+        "impressionCount" : 2871,
         "viewCount" : 228
       },
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
@@ -1080,7 +1080,7 @@
       "sha256" : "473f994698ec082f16bb20b4824dadbfb744f53a01b737b4016f6cc45f403b83",
       "stats" : {
         "downloadCount" : 3404,
-        "impressionCount" : 2310,
+        "impressionCount" : 2311,
         "viewCount" : 133
       },
       "subtitle" : "Password manager app",
@@ -1240,7 +1240,7 @@
       "sha256" : "a60857ef84f426c01693101a01a439348858aa3f3d7e8d19a91b713d384967f3",
       "stats" : {
         "downloadCount" : 2614,
-        "impressionCount" : 2818,
+        "impressionCount" : 2819,
         "viewCount" : 258
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
@@ -1973,7 +1973,7 @@
       "sha256" : "1f11155aad90527ac144dc6449761d17df7ead22395aaab673b384da27bc11eb",
       "stats" : {
         "downloadCount" : 649,
-        "impressionCount" : 2850,
+        "impressionCount" : 2851,
         "viewCount" : 206
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -2650,7 +2650,7 @@
       "sha256" : "0e0f862bc962b6e95a3bcf6633a78602ef63cf3d25c03694f53f7b34e4e637ea",
       "stats" : {
         "downloadCount" : 67,
-        "impressionCount" : 1996,
+        "impressionCount" : 1998,
         "viewCount" : 108
       },
       "subtitle" : "Bitcoin thin client",
@@ -2863,8 +2863,8 @@
       "sha256" : "16277889b8390ce972cd1106ccb01868ef51605e5b042d3a86cb0eb9e6fe29c6",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 1915,
-        "viewCount" : 119
+        "impressionCount" : 1917,
+        "viewCount" : 120
       },
       "subtitle" : "Money management application",
       "tintColor" : "61A434",
@@ -2908,8 +2908,8 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-moneydance/README.md",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 1822,
-        "viewCount" : 95
+        "impressionCount" : 1824,
+        "viewCount" : 96
       },
       "subtitle" : "Personal financial management application focused on privacy",
       "tintColor" : "FE9A6A",
@@ -2952,7 +2952,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-moneywiz/README.md",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 1765,
+        "impressionCount" : 1766,
         "viewCount" : 80
       },
       "subtitle" : "Finance management application",
@@ -2974,8 +2974,8 @@
       "sha256" : "95159e54c011aba02f64b0d126a497b99544e1086429a11e67587e3ffc0533d4",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 2017,
-        "viewCount" : 156
+        "impressionCount" : 2019,
+        "viewCount" : 157
       },
       "subtitle" : "Privacy-focused app for managing your finances",
       "tintColor" : "855BDA",
@@ -2995,7 +2995,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-chronicle/README.md",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 1904,
+        "impressionCount" : 1906,
         "viewCount" : 108
       },
       "subtitle" : "Personal finance manager",
@@ -3332,7 +3332,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2723,
-        "impressionCount" : 946
+        "impressionCount" : 947
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -7342,7 +7342,7 @@
       "sha256" : "8a4a9f1bf8c4d7267b5e49f1bd38154cea203eb6adab61c16d5dbe0e54adb794",
       "stats" : {
         "downloadCount" : 152,
-        "impressionCount" : 889
+        "impressionCount" : 890
       },
       "subtitle" : "Charting and social-networking for investment traders",
       "tintColor" : "3E414A",
@@ -7882,7 +7882,7 @@
       "sha256" : "cd51a9c0cf1edb378c6252853969ea4f9ecc95c5d8547fd7f76b322407b0ca72",
       "stats" : {
         "downloadCount" : 130,
-        "impressionCount" : 879
+        "impressionCount" : 881
       },
       "subtitle" : "Double-entry accounting program",
       "tintColor" : "A8B27E",
@@ -8395,6 +8395,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "carbon-copy-cloner",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-6.1.3.7409.zip",
+      "homepage" : "https://bombich.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-carbon-copy-cloner/AppIcon.png",
+      "localizedDescription" : "Hard disk backup and cloning utility",
+      "name" : "Carbon Copy Cloner",
+      "sha256" : "3aa7a05fd947b76e36d7b65646b693bc175d51e5874cac74cf953a1c71a6f138",
+      "stats" : {
+        "downloadCount" : 116,
+        "impressionCount" : 794
+      },
+      "subtitle" : "Hard disk backup and cloning utility",
+      "tintColor" : "8198A9",
+      "version" : "6.1.3.7409",
+      "versionDate" : "2022-09-20T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "contexts",
       "categories" : [
         "public.app-category.utilities"
@@ -8455,27 +8476,6 @@
       "tintColor" : "DBE3FD",
       "version" : "4.9.0,1850,c52ab2531bb82ff6f8d72df65f65c76a",
       "versionDate" : "2022-09-13T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "carbon-copy-cloner",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-6.1.3.7409.zip",
-      "homepage" : "https://bombich.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-carbon-copy-cloner/AppIcon.png",
-      "localizedDescription" : "Hard disk backup and cloning utility",
-      "name" : "Carbon Copy Cloner",
-      "sha256" : "3aa7a05fd947b76e36d7b65646b693bc175d51e5874cac74cf953a1c71a6f138",
-      "stats" : {
-        "downloadCount" : 115,
-        "impressionCount" : 791
-      },
-      "subtitle" : "Hard disk backup and cloning utility",
-      "tintColor" : "8198A9",
-      "version" : "6.1.3.7409",
-      "versionDate" : "2022-09-20T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12054,7 +12054,7 @@
       "sha256" : "96780bf391b6367571728540fa528aba52a720849d279795c6bbe6fce3600c78",
       "stats" : {
         "downloadCount" : 53,
-        "impressionCount" : 991
+        "impressionCount" : 992
       },
       "subtitle" : "Detailed information on every Apple product ever made",
       "tintColor" : "69A4CB",
@@ -13444,7 +13444,7 @@
       "name" : "MoneyMoney",
       "stats" : {
         "downloadCount" : 40,
-        "impressionCount" : 821
+        "impressionCount" : 823
       },
       "subtitle" : "German banking and financial management software",
       "tintColor" : "639FD2",
@@ -18841,7 +18841,7 @@
       "sha256" : "b49567ad5a2612747a19c77e9194db4be781de30ba6046e41a8b50a88340ec77",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 628
+        "impressionCount" : 629
       },
       "subtitle" : "Personal finance manager",
       "tintColor" : "D5506A",
@@ -19336,7 +19336,7 @@
       "sha256" : "e961ca62129799df3cee319847afaa51a7f24d28a81c3640a9f100d66587d84b",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 1047
+        "impressionCount" : 1049
       },
       "subtitle" : "Decentralized bitcoin exchange network",
       "tintColor" : "B3E5BA",
@@ -19416,7 +19416,7 @@
       "sha256" : "07be9f0a3c645bd0d9566b7fcc77befd406e727e60aaf2d7f752ab287d3e5ee3",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 704
+        "impressionCount" : 705
       },
       "subtitle" : "Official wallet for IOTA",
       "tintColor" : "DAE7F2",
@@ -20279,7 +20279,7 @@
       "sha256" : "77719a53fe8b5ab19d632ce512836a4caad0e01f9f08ca56fed03ae094264755",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 557
+        "impressionCount" : 558
       },
       "subtitle" : "Wallet for the Monero cryptocurrency",
       "tintColor" : "444B4F",
@@ -20907,7 +20907,7 @@
       "sha256" : "5c2474a953fae41b4bd383dcc5a039b1fb4c229aaeb24bbbebeaf9ffccbf26f0",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 562
+        "impressionCount" : 564
       },
       "subtitle" : "Portfolio tracking and accounting tool",
       "tintColor" : "845548",
@@ -22098,7 +22098,7 @@
       "sha256" : "1ec80957906be3fa16c3fa09d9d9df8c5dfe7a042a046638e47828d346b25079",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 777
+        "impressionCount" : 778
       },
       "subtitle" : "Bitcoin wallet and Lightning wallet",
       "tintColor" : "5492CD",
@@ -24979,7 +24979,7 @@
       "sha256" : "7ffb697454e421f1ca6c001f971f034495e4d5824982e20bdcf4711286e76459",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 427
+        "impressionCount" : 428
       },
       "subtitle" : "Trading platform",
       "tintColor" : "C3AB00",
@@ -26458,7 +26458,7 @@
       "sha256" : "22bf6498713de8b0751a33490d6840764ccfaea872fcd8beceaa29bed1b3eeab",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 768
+        "impressionCount" : 769
       },
       "subtitle" : "Trading application",
       "tintColor" : "FFB27D",
@@ -28952,7 +28952,7 @@
       "sha256" : "d2a7076104d5473479b100f3039944efbf7fa599173af43a7dab3c32e7937fc1",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 838
+        "impressionCount" : 839
       },
       "subtitle" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
       "tintColor" : "A8AD40",
@@ -29074,7 +29074,7 @@
       "sha256" : "2f204f322c89859c97a0d45919f55a30f4f6f0d66bf062d8dd1c1ce6be2ff96c",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 927
+        "impressionCount" : 929
       },
       "subtitle" : "App to manage bank accounts in one place",
       "tintColor" : "5CB75C",
@@ -29956,7 +29956,7 @@
       "sha256" : "a67c66bcca520ef71a88e652bf3058c016b9741e5d8e844e575decd27e14ee5c",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 370
+        "impressionCount" : 372
       },
       "subtitle" : "Document management",
       "tintColor" : "72BFD8",
@@ -33316,7 +33316,7 @@
       "sha256" : "8fe2652697b0557f7e221d0c960aa9e36a54445f12e7396a193cc5c5ad6ded06",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 423
+        "impressionCount" : 424
       },
       "subtitle" : "Ethereum wallet manager",
       "tintColor" : "3594AC",
@@ -34151,7 +34151,7 @@
       "sha256" : "c37926a9612e8a8360490b6b924b1a2922a4374377e428f24b985f45de66ad68",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 302
+        "impressionCount" : 303
       },
       "subtitle" : "Cryptocurrency wallet",
       "tintColor" : "262626",
@@ -34507,7 +34507,7 @@
       "sha256" : "9775d9c5bb5311163b53502ac9671b571b0dc88f43e74ba574aa2aa26f815a87",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 817
+        "impressionCount" : 818
       },
       "subtitle" : "Budgeting tool",
       "tintColor" : "4BB9F3",
@@ -34528,7 +34528,7 @@
       "sha256" : "a4c4efeab6225bf0c74bb6ae0547404eeb1d5886708ca8b9d2f87fac3b21646f",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 686
+        "impressionCount" : 688
       },
       "subtitle" : "Unofficial desktop application for the bunq API",
       "tintColor" : "A9A79C",
@@ -35486,7 +35486,7 @@
       "sha256" : "a06293ba37fd6a74715d055280117c84313ac5fc0e7206110a0897bc156f78c6",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 554
+        "impressionCount" : 555
       },
       "subtitle" : "Wallet for the Nano cryptocurrency with support for hardware wallets",
       "tintColor" : "639EE4",
@@ -38379,7 +38379,7 @@
       "sha256" : "2ac74aa43c474fe51db57bbcb52cad13d0d51ef276f0088c7cfe36261790c272",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 758
+        "impressionCount" : 759
       },
       "subtitle" : "Multi Platform ARK Desktop Wallet",
       "tintColor" : "EF434E",
@@ -38596,7 +38596,7 @@
       "sha256" : "ca4f63d3d384ecad89b77d127227680120165e323f74721b5d34dd8b24f6239f",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 726
+        "impressionCount" : 728
       },
       "subtitle" : "Digital currency wallet",
       "tintColor" : "446143",
@@ -39257,7 +39257,7 @@
       "sha256" : "a14200152d2e42374c26311d5c20ca6e8731affbbff2f53c227b1d39c935230a",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 494
+        "impressionCount" : 495
       },
       "subtitle" : "Portal into the Polkadot and Substrate networks",
       "tintColor" : "FFA02D",
@@ -39339,7 +39339,7 @@
       "sha256" : "375970eadf59bab17e8add0057ea967b0376eb1385889d5b64f84a720e4dd4cb",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 382
+        "impressionCount" : 383
       },
       "subtitle" : "Integrated environment for your personal and family ledger",
       "tintColor" : "A0A0AD",
@@ -39412,7 +39412,7 @@
       "sha256" : "3ce5da0123a0bc862ae58d4a046733a5c3a1e010af32356b77161db02c7de77c",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 330
+        "impressionCount" : 332
       },
       "tintColor" : "57B24A",
       "version" : "5.1.0-95"
@@ -40308,7 +40308,7 @@
       "sha256" : "6d44eeee0e4a27e77188f9b4dd6ae3488697f03c6489ed6eea5821ad1a2f8acb",
       "stats" : {
         "downloadCount" : 871,
-        "impressionCount" : 618
+        "impressionCount" : 619
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
@@ -40531,7 +40531,7 @@
       "sha256" : "d6fafea9ea0854cc257759332ac77447a61de85dac7132300fe48a8f91bda528",
       "stats" : {
         "downloadCount" : 600,
-        "impressionCount" : 132
+        "impressionCount" : 133
       },
       "subtitle" : "Open-source firewall to block unknown outgoing connections",
       "tintColor" : "708243",

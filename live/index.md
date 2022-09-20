@@ -17,9 +17,8 @@ title: The App Fair
   new Twitch.Embed("twitch-embed", {
     width: 854,
     height: 480,
-    channel: "monstercat",
-    // Only needed if this page is going to be embedded on other websites
-    parent: ["embed.example.com", "othersite.example.com"]
+    channel: "appfair",
+    parent: ["appfair.net", "www.appfair.net"]
   });
 </script>
 

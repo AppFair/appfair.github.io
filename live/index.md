@@ -19,7 +19,6 @@ title: The App Fair
     autoplay: false,
     muted: false,
     theme: "light",
-    width: "100%",
     layout: "video",
     parent: ["appfair.net", "www.appfair.net"]
   });

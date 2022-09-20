@@ -6120,7 +6120,7 @@
       "name" : "CopyClip",
       "stats" : {
         "downloadCount" : 268,
-        "impressionCount" : 681
+        "impressionCount" : 682
       },
       "subtitle" : "Clipboard manager",
       "tintColor" : "BEAA60",
@@ -6407,7 +6407,7 @@
       "sha256" : "04d55cc91d4286b8b3e6202b53deb513036957e3ac6c23639ea2c088b5d29192",
       "stats" : {
         "downloadCount" : 241,
-        "impressionCount" : 774
+        "impressionCount" : 775
       },
       "subtitle" : "PDF reader, editor and annotator",
       "tintColor" : "D87D70",
@@ -6510,7 +6510,7 @@
       "sha256" : "6d1ceee9a904ebf50ff4efd7bfbbc768b6292d010ef1af62932eb733adef2a93",
       "stats" : {
         "downloadCount" : 232,
-        "impressionCount" : 657
+        "impressionCount" : 658
       },
       "subtitle" : "To-do & task list manager",
       "tintColor" : "E8E9F0",
@@ -6721,7 +6721,7 @@
       "sha256" : "24ec3d5a709313979ab8cd658e03cfee4ce4dec6201943c2fd8d467376328c43",
       "stats" : {
         "downloadCount" : 212,
-        "impressionCount" : 781
+        "impressionCount" : 782
       },
       "subtitle" : "Calendar for professionals and teams",
       "tintColor" : "EF4B0C",

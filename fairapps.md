@@ -23,15 +23,15 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `288` | `2022-09-13T00:00:00Z` | `10 MB` | `156` | `14` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `56` | `2022-09-09T00:00:00Z` | `2.3 MB` | `194` | `26` | `1` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `290` | `2022-09-13T00:00:00Z` | `10 MB` | `156` | `14` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `59` | `2022-09-09T00:00:00Z` | `2.3 MB` | `194` | `26` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `42` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4824` | `764` | `1` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.14β`` | `33` | `2022-09-13T00:00:00Z` | `4.5 MB` | `21` | `3` | `1` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.14β`` | `35` | `2022-09-13T00:00:00Z` | `4.5 MB` | `21` | `3` | `1` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `31` | `2022-09-03T00:00:00Z` | `2.2 MB` | `442` | `47` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `30` | `2022-08-27T00:00:00Z` | `4 MB` | `582` | `56` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `29` | `2022-09-13T00:00:00Z` | `2.3 MB` | `3` | `1` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `29` | `2022-09-09T00:00:00Z` | `2.2 MB` | `265` | `29` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `28` | `2022-09-01T00:00:00Z` | `9.6 MB` | `449` | `49` | `1` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `27` | `2022-09-13T00:00:00Z` | `2.3 MB` | `3` | `1` | `1` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `395` | `34` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `24` | `2022-09-09T00:00:00Z` | `2.3 MB` | `214` | `24` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `3431` | `261` | `0` | `0` |  |

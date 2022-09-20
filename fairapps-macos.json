@@ -193,7 +193,7 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.14/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
       "sha256" : "f0ce92a0afbdd1197ee8bcfba806b9ce25b47a60c6029aa06fc3f6b6886f0a0c",
       "size" : 4453030,
       "stats" : {
@@ -323,7 +323,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "0b7fb6c9e557bf40b284eec4be0860eaf0c5b4601f26af6977fbc94ea0d4c181",
+      "sha256" : "e455333bf19625de3fb009c1b5b71eec49e6085e63a30c025b9114ddb2b01db5",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,

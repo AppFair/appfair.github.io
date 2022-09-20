@@ -107,7 +107,7 @@
         "forkCount" : 1,
         "impressionCount" : 205,
         "issueCount" : 0,
-        "starCount" : 1,
+        "starCount" : 2,
         "viewCount" : 28,
         "watcherCount" : 0
       },
@@ -196,7 +196,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "e455333bf19625de3fb009c1b5b71eec49e6085e63a30c025b9114ddb2b01db5",
+      "sha256" : "809a5faf2352b3d9dd65354d00526a7dee6530ae46d4c5c35ca4b88a7bf225d7",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,
@@ -204,7 +204,7 @@
         "forkCount" : 1,
         "impressionCount" : 3,
         "issueCount" : 0,
-        "starCount" : 1,
+        "starCount" : 2,
         "viewCount" : 1,
         "watcherCount" : 0
       },
@@ -1460,46 +1460,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.20/Media-Res-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.20/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.20/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.20/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Media-Res/App/releases/download/0.0.20/screenshot_01-mac-dark-mac-484x460.png",
-        "https://github.com/Media-Res/App/releases/download/0.0.20/screenshot_01-mac-light-mac-484x460.png"
-      ],
-      "sha256" : "3109681a0360ab552011dc52304c530697b081fa8619bdd0d013889c79be1dcf",
-      "size" : 2308142,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 3,
-        "forkCount" : 0,
-        "impressionCount" : 477,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 48,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.20",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.19...0.0.20"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.SQL-Hero",
       "categories" : [
 
@@ -1712,6 +1672,46 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Media-Res/App/releases/download/0.0.22/screenshot_01-mac-dark-mac-484x460.png",
+        "https://github.com/Media-Res/App/releases/download/0.0.22/screenshot_01-mac-light-mac-484x460.png"
+      ],
+      "sha256" : "3b2525b88b098e63e84714a5080b1e249383c149b0cd1f2ec7f3610db484773c",
+      "size" : 2308941,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 1,
+        "forkCount" : 0,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.22",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
@@ -1800,13 +1800,6 @@
   "name" : "Fair Apps",
   "news" : [
     {
-      "appID" : "app.Lottie-Motion",
-      "caption" : "Lottie Motion updated from 0.0.95 to 0.0.96",
-      "date" : "2022-08-27T14:16:43Z",
-      "identifier" : "release-app.Lottie-Motion-0.0.96",
-      "title" : "New Release: Lottie Motion 0.0.96"
-    },
-    {
       "appID" : "app.Sita-Sings-the-Blues",
       "caption" : "Sita Sings the Blues 0.0.51 released",
       "date" : "2022-08-27T15:17:16Z",
@@ -1868,6 +1861,13 @@
       "date" : "2022-09-13T17:46:19Z",
       "identifier" : "release-app.App-Fair-0.8.118",
       "title" : "New Release: App Fair 0.8.118"
+    },
+    {
+      "appID" : "app.Media-Res",
+      "caption" : "Media Res updated from 0.0.20 to 0.0.22",
+      "date" : "2022-09-20T19:55:11Z",
+      "identifier" : "release-app.Media-Res-0.0.22",
+      "title" : "New Release: Media Res 0.0.22"
     }
   ],
   "platform" : "macos"

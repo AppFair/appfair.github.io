@@ -28,12 +28,12 @@
       "size" : 5805786,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 70,
+        "downloadCount" : 72,
         "forkCount" : 1,
-        "impressionCount" : 219,
+        "impressionCount" : 224,
         "issueCount" : 0,
         "starCount" : 2,
-        "viewCount" : 31,
+        "viewCount" : 32,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -75,7 +75,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3452,
+        "impressionCount" : 3454,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 263,
@@ -111,7 +111,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "da9be278e250bd56704c58e35714fc93b25a31af2773b209d5a75bccf8c068be",
+      "sha256" : "810f388d823b213d75cecc90e9fef97ef320311518167f3aa1d2d5a7d63b3b69",
       "size" : 5803917,
       "stats" : {
         "coreSize" : 170144,
@@ -186,10 +186,10 @@
         "coreSize" : 170672,
         "downloadCount" : 28,
         "forkCount" : 1,
-        "impressionCount" : 181,
+        "impressionCount" : 189,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 18,
+        "viewCount" : 20,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -223,7 +223,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 292,
+        "impressionCount" : 300,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 31,
@@ -259,7 +259,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 472,
+        "impressionCount" : 479,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -296,7 +296,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 427,
+        "impressionCount" : 433,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -341,7 +341,7 @@
         "coreSize" : 170240,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 239,
+        "impressionCount" : 246,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 26,
@@ -432,7 +432,7 @@
         "coreSize" : 170784,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 479,
+        "impressionCount" : 487,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 52,
@@ -610,7 +610,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3095,
+        "impressionCount" : 3096,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 175,
@@ -620,6 +620,91 @@
       "version" : "0.0.16",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "8ed33ed99b34027006b220934e47aa68827e68fd80ad65aa16151c47c0eef9d4",
+      "size" : 5799055,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 7,
+        "forkCount" : 0,
+        "impressionCount" : 17,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.22",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-iphone-1170x2532.png"
+      ],
+      "sha256" : "70e4c9c2f460366b008681f80b1728f373ef3433e8c8fcdca918bdff47843722",
+      "size" : 7745230,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 6,
+        "forkCount" : 0,
+        "impressionCount" : 8,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.48",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
     },
     {
       "beta" : true,
@@ -728,42 +813,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "8ed33ed99b34027006b220934e47aa68827e68fd80ad65aa16151c47c0eef9d4",
-      "size" : 5799055,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 5,
-        "forkCount" : 0,
-        "impressionCount" : 12,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.22",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
     },
     {
       "beta" : true,
@@ -925,55 +974,6 @@
       "versionDescription" : "Release 0.2.22"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
-      "name" : "Net Skip",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        }
-      ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
-      "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-iphone-1170x2532.png"
-      ],
-      "sha256" : "70e4c9c2f460366b008681f80b1728f373ef3433e8c8fcdca918bdff47843722",
-      "size" : 7745230,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 4,
-        "forkCount" : 0,
-        "impressionCount" : 3,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.48",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
@@ -1129,6 +1129,47 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Sun-Bow-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "6a641b6ba60300b194423aba79594108d7a2c538b7b620d3c48f66e690060ac4",
+      "size" : 9415291,
+      "stats" : {
+        "coreSize" : 170320,
+        "downloadCount" : 4,
+        "forkCount" : 0,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "version" : "0.0.17",
+      "versionDate" : "2022-09-21T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.16...0.0.17"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
@@ -1159,7 +1200,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 558,
+        "impressionCount" : 564,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1204,10 +1245,10 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 476,
+        "impressionCount" : 482,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 35,
+        "viewCount" : 36,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1256,7 +1297,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 604,
+        "impressionCount" : 609,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 57,
@@ -1293,7 +1334,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 504,
+        "impressionCount" : 507,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 44,
@@ -1365,7 +1406,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 526,
+        "impressionCount" : 531,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -1401,7 +1442,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 703,
+        "impressionCount" : 707,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -1437,57 +1478,16 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 720,
+        "impressionCount" : 728,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 50,
+        "viewCount" : 51,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
       "version" : "0.0.9",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Fox-Glove/App/compare/0.0.8...0.0.9"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Sun-Bow-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "fbf4c7a34fd8513376b6b5ca22dd2e7810a91a428e48a8da47a367d81185c927",
-      "size" : 9415291,
-      "stats" : {
-        "coreSize" : 170320,
-        "downloadCount" : 2,
-        "forkCount" : 0,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "version" : "0.0.17",
-      "versionDate" : "2022-09-21T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.16...0.0.17"
     }
   ],
   "fundingSources" : [

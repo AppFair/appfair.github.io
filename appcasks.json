@@ -1148,7 +1148,7 @@
       "sha256" : "b81b74da86c3b799ce371cb920ffc87edc606701656a01f0d3e6084b709b25b1",
       "stats" : {
         "downloadCount" : 2956,
-        "impressionCount" : 2291,
+        "impressionCount" : 2293,
         "viewCount" : 173
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -1750,7 +1750,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "D71E28",
       "version" : "91.0.4516.20",
-      "versionDate" : "2022-09-21T12:38:06Z"
+      "versionDate" : "2022-09-21T00:00:00Z"
     },
     {
       "beta" : false,

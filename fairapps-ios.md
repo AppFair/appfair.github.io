@@ -26,7 +26,7 @@ tr:nth-child(even) {
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `72` | `2022-09-09T00:00:00Z` | `5.8 MB` | `226` | `32` | `2` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3455` | `263` | `0` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.288β`` | `29` | `2022-09-13T00:00:00Z` | `5.8 MB` | `3` | `1` | `2` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `28` | `2022-09-13T00:00:00Z` | `19 MB` | `191` | `20` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `28` | `2022-09-13T00:00:00Z` | `19 MB` | `192` | `20` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `301` | `31` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `480` | `50` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `434` | `36` | `0` | `0` |  |

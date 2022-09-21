@@ -28,12 +28,12 @@
       "size" : 5805786,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 68,
+        "downloadCount" : 70,
         "forkCount" : 1,
-        "impressionCount" : 214,
+        "impressionCount" : 217,
         "issueCount" : 0,
         "starCount" : 2,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "A whimsical game of excitement and delight",
@@ -75,7 +75,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3448,
+        "impressionCount" : 3449,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 263,
@@ -111,7 +111,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "da9be278e250bd56704c58e35714fc93b25a31af2773b209d5a75bccf8c068be",
+      "sha256" : "3ac6e18b3e1c3b5d7a76f6eb6d8bd6ddb6d5211067b0fe9dc59cb94eac2f99e2",
       "size" : 5803917,
       "stats" : {
         "coreSize" : 170144,
@@ -186,10 +186,10 @@
         "coreSize" : 170672,
         "downloadCount" : 28,
         "forkCount" : 1,
-        "impressionCount" : 178,
+        "impressionCount" : 181,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 17,
+        "viewCount" : 18,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -223,10 +223,10 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 286,
+        "impressionCount" : 289,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
@@ -259,10 +259,10 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 464,
+        "impressionCount" : 469,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 49,
+        "viewCount" : 50,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -296,7 +296,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 421,
+        "impressionCount" : 424,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -339,12 +339,12 @@
       "size" : 5774347,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 23,
+        "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 233,
+        "impressionCount" : 236,
         "issueCount" : 0,
         "starCount" : 2,
-        "viewCount" : 25,
+        "viewCount" : 26,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -432,7 +432,7 @@
         "coreSize" : 170784,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 471,
+        "impressionCount" : 475,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 52,
@@ -610,7 +610,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3091,
+        "impressionCount" : 3092,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 175,
@@ -728,6 +728,42 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "8ed33ed99b34027006b220934e47aa68827e68fd80ad65aa16151c47c0eef9d4",
+      "size" : 5799055,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 5,
+        "forkCount" : 0,
+        "impressionCount" : 9,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.22",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
     },
     {
       "beta" : true,
@@ -890,39 +926,98 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
+      "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-iOS.ipa",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
       "permissions" : [
-
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        }
       ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "8ed33ed99b34027006b220934e47aa68827e68fd80ad65aa16151c47c0eef9d4",
-      "size" : 5799055,
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-iphone-1170x2532.png"
+      ],
+      "sha256" : "70e4c9c2f460366b008681f80b1728f373ef3433e8c8fcdca918bdff47843722",
+      "size" : 7745230,
       "stats" : {
-        "coreSize" : 170144,
+        "coreSize" : 170224,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 6,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.22",
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.48",
       "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/Bon-Mot-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "sha256" : "7c80875784739385efa86d16907ccb8e17b8abbe3c11e457ce9fcbcde49cea9d",
+      "size" : 5773169,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 4,
+        "forkCount" : 0,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.47",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.46...0.2.47"
     },
     {
       "beta" : true,
@@ -1035,101 +1130,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
-      "name" : "Net Skip",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        }
-      ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
-      "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-iphone-1170x2532.png"
-      ],
-      "sha256" : "70e4c9c2f460366b008681f80b1728f373ef3433e8c8fcdca918bdff47843722",
-      "size" : 7745230,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 3,
-        "forkCount" : 0,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.48",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/Bon-Mot-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.47/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "sha256" : "7c80875784739385efa86d16907ccb8e17b8abbe3c11e457ce9fcbcde49cea9d",
-      "size" : 5773169,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 3,
-        "forkCount" : 0,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.47",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.46...0.2.47"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "categories" : [
 
@@ -1159,7 +1159,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 552,
+        "impressionCount" : 554,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1204,7 +1204,7 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 470,
+        "impressionCount" : 472,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -1256,7 +1256,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 599,
+        "impressionCount" : 602,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 57,
@@ -1293,7 +1293,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 499,
+        "impressionCount" : 502,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 44,
@@ -1365,7 +1365,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 521,
+        "impressionCount" : 523,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -1401,10 +1401,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 697,
+        "impressionCount" : 700,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 57,
+        "viewCount" : 58,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1437,10 +1437,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 713,
+        "impressionCount" : 718,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 49,
+        "viewCount" : 50,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1472,21 +1472,21 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "fbf4c7a34fd8513376b6b5ca22dd2e7810a91a428e48a8da47a367d81185c927",
-      "size" : 9415830,
+      "sha256" : "6a641b6ba60300b194423aba79594108d7a2c538b7b620d3c48f66e690060ac4",
+      "size" : 9415291,
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1,
+        "impressionCount" : 0,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 0,
         "watcherCount" : 0
       },
       "subtitle" : "An app for sunnier days",
       "version" : "0.0.17",
-      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDate" : "2022-09-21T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.16...0.0.17"
     }
   ],

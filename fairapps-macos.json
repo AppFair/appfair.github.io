@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 318,
+        "downloadCount" : 319,
         "forkCount" : 1,
         "impressionCount" : 181,
         "issueCount" : 6,
@@ -1825,7 +1825,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "37397398e43e3007720a3e313b82a412fd4fbd98cebed0ec88b109dc8142724a",
+      "sha256" : "72522841c6821e4eded8faef3154b2aaf88986e70dcdbeb264cda2c5eefb29a0",
       "size" : 3682744,
       "stats" : {
         "coreSize" : 170320,

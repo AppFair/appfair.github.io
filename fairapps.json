@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 316,
+        "downloadCount" : 318,
         "forkCount" : 1,
         "impressionCount" : 181,
         "issueCount" : 6,
@@ -196,7 +196,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_05-mac-1634x1040.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "78b5d4fa8406635dbe4e0e51ed37fb912669625f932a4e9877f6bb3b4747943b",
+      "sha256" : "809a5faf2352b3d9dd65354d00526a7dee6530ae46d4c5c35ca4b88a7bf225d7",
       "size" : 2281781,
       "stats" : {
         "coreSize" : 170144,
@@ -1825,7 +1825,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "72522841c6821e4eded8faef3154b2aaf88986e70dcdbeb264cda2c5eefb29a0",
+      "sha256" : "37397398e43e3007720a3e313b82a412fd4fbd98cebed0ec88b109dc8142724a",
       "size" : 3682744,
       "stats" : {
         "coreSize" : 170320,

@@ -26,14 +26,14 @@ tr:nth-child(even) {
 | [``Signal``](https://signal.org/) | ``5.59.0`` | `2673` | `2022-09-15T00:00:00Z` |  | `10713` | `1196` |  | `0` | `public.app-category.social-networking` |
 | [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``105.0`` | `16808` | `2022-09-20T00:00:00Z` |  | `9633` | `1003` |  | `0` | `public.app-category.reference` |
 | [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `8762` |  |  | `8364` | `722` |  | `0` | `public.app-category.video` |
-| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `28326` |  |  | `8954` | `751` |  | `0` | `public.app-category.developer-tools` |
+| [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `28326` |  |  | `8955` | `751` |  | `0` | `public.app-category.developer-tools` |
 | [``Spotify``](https://www.spotify.com/) | ``1.1.94.870,f994cb0b,16`` | `8847` | `2022-09-16T00:00:00Z` |  | `8787` | `686` |  | `0` | `public.app-category.music` |
 | [``Discord``](https://discord.com/) | ``0.0.268`` | `5992` | `2022-08-11T00:00:00Z` |  | `8646` | `552` |  | `0` | `public.app-category.social-networking` |
 | [``Emacs``](https://emacsformacosx.com/) | ``28.2`` | `3625` | `2022-09-13T00:00:00Z` |  | `8018` | `589` |  | `0` | `public.app-category.productivity` |
 | [``WhatsApp``](https://www.whatsapp.com/) | ``2.2234.13`` | `3290` | `2022-09-20T00:00:00Z` |  | `9210` | `617` |  | `0` | `public.app-category.social-networking` |
 | [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2559` |  |  | `6997` | `449` |  | `0` | `public.app-category.games` |
 | [``OBS``](https://obsproject.com/) | ``28.0.1`` | `2471` | `2022-09-06T00:00:00Z` |  | `7667` | `476` |  | `0` | `public.app-category.video` |
-| [``Keka``](https://www.keka.io/) | ``1.2.56`` | `2197` | `2022-09-10T00:00:00Z` |  | `8797` | `893` |  | `0` | `public.app-category.utilities` |
+| [``Keka``](https://www.keka.io/) | ``1.2.56`` | `2197` | `2022-09-10T00:00:00Z` |  | `8798` | `893` |  | `0` | `public.app-category.utilities` |
 | [``Blender``](https://www.blender.org/) | ``3.3.0`` | `1256` | `2022-09-07T00:00:00Z` |  | `9050` | `510` |  | `0` | `public.app-category.graphics-design` |
 | [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1190` |  |  | `6989` | `561` |  | `0` | `public.app-category.productivity` |
 | [``HandBrake``](https://handbrake.fr/) | ``1.5.1`` | `1070` |  |  | `3153` | `199` |  | `0` | `public.app-category.video` |
@@ -43,8 +43,8 @@ tr:nth-child(even) {
 | [``YouTube Music``](https://github.com/steve228uk/YouTube-Music) | ``1.3.3`` | `287` |  |  | `4704` | `356` |  | `0` | `public.app-category.music` |
 | [``Brackets``](https://brackets.io/) | ``2.1.2`` | `279` | `2022-07-17T00:00:00Z` |  | `5206` | `436` |  | `0` | `public.app-category.developer-tools` |
 | [``Tower``](https://www.git-tower.com/) | ``9.0,342,26634c15`` | `240` | `2022-07-26T00:00:00Z` |  | `5519` | `462` |  | `0` | `public.app-category.developer-tools` |
-| [``Unison``](https://www.cis.upenn.edu/~bcpierce/unison/) | ``2.52.1,4.14.0`` | `150` |  |  | `3814` | `338` |  | `0` | `public.app-category.utilities` |
-| [``AltServer``](https://altstore.io/) | ``1.5.1,70`` | `148` | `2022-07-15T00:00:00Z` |  | `5851` | `611` |  | `0` | `public.app-category.productivity` |
+| [``Unison``](https://www.cis.upenn.edu/~bcpierce/unison/) | ``2.52.1,4.14.0`` | `150` |  |  | `3815` | `339` |  | `0` | `public.app-category.utilities` |
+| [``AltServer``](https://altstore.io/) | ``1.5.1,70`` | `148` | `2022-07-15T00:00:00Z` |  | `5853` | `611` |  | `0` | `public.app-category.productivity` |
 | [``Eve Online``](https://www.eveonline.com/) | ``2107563`` | `21` | `2022-09-14T00:00:00Z` |  | `3626` | `334` |  | `0` | `public.app-category.games` |
 | [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.4`` | `10` |  |  | `3377` | `271` |  | `0` | `public.app-category.developer-tools` |
 | [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.8`` | `7` |  |  | `3294` | `280` |  | `0` | `public.app-category.productivity` |
@@ -53,7 +53,7 @@ tr:nth-child(even) {
 | [``Slack``](https://slack.com/) | ``4.28.182`` | `8641` | `2022-09-21T00:00:00Z` |  | `3438` | `262` |  | `0` | `public.app-category.business` |
 | [``DBeaver Community Editio``](https://dbeaver.io/) | ``22.2.0`` | `7989` | `2022-09-06T00:00:00Z` |  | `2823` | `177` |  | `0` | `public.app-category.developer-tools` |
 | [``Sublime Text``](https://www.sublimetext.com/) | ``4126`` | `6233` |  |  | `2357` | `112` |  | `0` | `public.app-category.productivity` |
-| [``Stats``](https://github.com/exelban/stats) | ``2.7.35`` | `5770` | `2022-09-19T00:00:00Z` |  | `5288` | `534` |  | `0` | `public.app-category.utilities` |
+| [``Stats``](https://github.com/exelban/stats) | ``2.7.35`` | `5770` | `2022-09-19T00:00:00Z` |  | `5290` | `535` |  | `0` | `public.app-category.utilities` |
 | [``Alfred``](https://www.alfredapp.com/) | ``5.0.2,2073`` | `4836` | `2022-08-29T00:00:00Z` |  | `2683` | `170` |  | `0` | `public.app-category.productivity` |
 | [``Notion``](https://www.notion.so/) | ``2.1.2`` | `4216` | `2022-09-15T00:00:00Z` |  | `2768` | `191` |  | `0` | `public.app-category.productivity` |
 | [``Brave``](https://brave.com/) | ``1.43.93.0,143.93`` | `4175` | `2022-09-15T00:00:00Z` |  | `4648` | `280` |  | `0` | `public.app-category.productivity` |
@@ -63,16 +63,16 @@ tr:nth-child(even) {
 | [``Android Studio``](https://developer.android.com/studio/) | ``2021.3.1.16`` | `3551` | `2022-09-15T00:00:00Z` |  | `2716` | `128` |  | `0` | `public.app-category.developer-tools` |
 | [``KeePassXC``](https://keepassxc.org/) | ``2.7.1`` | `3482` |  |  | `2323` | `134` |  | `0` | `public.app-category.productivity` |
 | [``LibreOffice``](https://www.libreoffice.org/) | ``7.4.1`` | `3239` | `2022-09-15T00:00:00Z` |  | `2452` | `139` |  | `0` | `public.app-category.productivity` |
-| [``Alacritty``](https://github.com/alacritty/alacritty/) | ``0.10.1`` | `3043` |  |  | `3202` | `202` |  | `0` | `public.app-category.productivity` |
+| [``Alacritty``](https://github.com/alacritty/alacritty/) | ``0.10.1`` | `3043` |  |  | `3204` | `202` |  | `0` | `public.app-category.productivity` |
 | [``Telegram for macOS``](https://macos.telegram.org/) | ``9.0.1,236812`` | `2956` | `2022-09-20T00:00:00Z` |  | `2297` | `174` |  | `0` | `public.app-category.social-networking` |
 | [``Wireshark``](https://www.wireshark.org/) | ``3.6.8`` | `2905` | `2022-09-08T00:00:00Z` |  | `2052` | `116` |  | `0` | `public.app-category.productivity` |
 | [``IntelliJ IDEA Community …``](https://www.jetbrains.com/idea/) | ``2022.2.2,222.4167.29`` | `2731` | `2022-09-15T00:00:00Z` |  | `2345` | `100` |  | `0` | `public.app-category.developer-tools` |
 | [``Insomnia``](https://insomnia.rest/) | ``2022.5.1`` | `2680` | `2022-08-19T00:00:00Z` |  | `2734` | `209` |  | `0` | `public.app-category.developer-tools` |
-| [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2660` | `2022-09-06T00:00:00Z` |  | `2832` | `259` |  | `0` | `public.app-category.utilities` |
+| [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2660` | `2022-09-06T00:00:00Z` |  | `2833` | `259` |  | `0` | `public.app-category.utilities` |
 | [``Github Atom``](https://atom.io/) | ``1.60.0`` | `2635` |  |  | `2821` | `174` |  | `0` | `public.app-category.developer-tools` |
 | [``Cyberduck``](https://cyberduck.io/) | ``8.4.4,38366`` | `2571` | `2022-09-15T00:00:00Z` |  | `2545` | `221` |  | `0` | `public.app-category.productivity` |
 | [``VSCodium``](https://github.com/VSCodium/vscodium) | ``1.71.2.22258`` | `2569` | `2022-09-15T00:00:00Z` |  | `4015` | `409` |  | `0` | `public.app-category.developer-tools` |
-| [``kitty``](https://github.com/kovidgoyal/kitty) | ``0.26.2`` | `2529` | `2022-09-06T00:00:00Z` |  | `3571` | `253` |  | `0` | `public.app-category.utilities` |
+| [``kitty``](https://github.com/kovidgoyal/kitty) | ``0.26.2`` | `2529` | `2022-09-06T00:00:00Z` |  | `3572` | `253` |  | `0` | `public.app-category.utilities` |
 | [``Maccy``](https://maccy.app/) | ``0.24.0,13`` | `2453` | `2022-09-06T00:00:00Z` |  | `2250` | `156` |  | `0` | `public.app-category.productivity` |
 | [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``3.5.3,20035`` | `2432` | `2022-08-11T00:00:00Z` |  | `3269` | `150` |  | `0` | `public.app-category.developer-tools` |
 | [``Inkscape``](https://inkscape.org/) | ``1.2.1`` | `2424` | `2022-07-15T00:00:00Z` |  | `2470` | `142` |  | `0` | `public.app-category.graphics-design` |
@@ -81,24 +81,24 @@ tr:nth-child(even) {
 | [``calibre``](https://calibre-ebook.com/) | ``6.5.0`` | `1830` | `2022-09-16T00:00:00Z` |  | `4053` | `195` |  | `0` | `public.app-category.productivity` |
 | [``PyCharm``](https://www.jetbrains.com/pycharm/) | ``2022.2.2,222.4167.33`` | `1752` | `2022-09-16T00:00:00Z` |  | `2202` | `111` |  | `0` | `public.app-category.developer-tools` |
 | [``Xcodes``](https://github.com/RobotsAndPencils/XcodesApp) | ``1.8.0,16`` | `1739` | `2022-09-20T00:00:00Z` |  | `3221` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Transmission``](https://transmissionbt.com/) | ``3.00`` | `1520` |  |  | `3450` |  |  | `0` | `public.app-category.utilities` |
+| [``Transmission``](https://transmissionbt.com/) | ``3.00`` | `1520` |  |  | `3452` |  |  | `0` | `public.app-category.utilities` |
 | [``Tor Browser``](https://www.torproject.org/) | ``11.5.2`` | `1383` | `2022-09-06T00:00:00Z` |  | `3321` | `164` |  | `0` | `public.app-category.productivity` |
 | [``TablePlus``](https://tableplus.com/) | ``4.8.8,450`` | `1382` | `2022-09-15T00:00:00Z` |  | `2837` | `170` |  | `0` | `public.app-category.developer-tools` |
 | [``Audacity``](https://www.audacityteam.org/) | ``3.1.3`` | `1221` |  |  | `2254` | `114` |  | `0` | `public.app-category.music` |
 | [``Mozilla Thunderbird``](https://www.thunderbird.net/) | ``102.3.0`` | `1209` | `2022-09-21T00:00:00Z` |  | `2310` | `118` |  | `0` | `public.app-category.productivity` |
-| [``GPG Suite``](https://gpgtools.org/) | ``2022.1`` | `1158` |  |  | `744` | `41` |  | `0` | `public.app-category.utilities` |
-| [``Spectacle``](https://www.spectacleapp.com/) | ``1.2,672`` | `1119` |  |  | `2147` | `105` |  | `0` | `public.app-category.utilities` |
+| [``GPG Suite``](https://gpgtools.org/) | ``2022.1`` | `1158` |  |  | `745` | `41` |  | `0` | `public.app-category.utilities` |
+| [``Spectacle``](https://www.spectacleapp.com/) | ``1.2,672`` | `1119` |  |  | `2148` | `105` |  | `0` | `public.app-category.utilities` |
 | [``Opera``](https://www.opera.com/) | ``91.0.4516.20`` | `1026` | `2022-09-21T00:00:00Z` |  | `2346` | `91` |  | `0` | `public.app-category.productivity` |
-| [``Dozer``](https://github.com/Mortennn/Dozer) | ``4.0.0`` | `1025` |  |  | `2541` | `157` |  | `0` | `public.app-category.utilities` |
+| [``Dozer``](https://github.com/Mortennn/Dozer) | ``4.0.0`` | `1025` |  |  | `2542` | `157` |  | `0` | `public.app-category.utilities` |
 | [``Fork``](https://fork.dev/) | ``2.22.1`` | `1004` | `2022-09-20T00:00:00Z` |  | `2772` | `256` |  | `0` | `public.app-category.developer-tools` |
-| [``MonitorControl``](https://github.com/MonitorControl/MonitorControl) | ``4.1.0`` | `908` |  |  | `3782` | `321` |  | `0` | `public.app-category.utilities` |
+| [``MonitorControl``](https://github.com/MonitorControl/MonitorControl) | ``4.1.0`` | `908` |  |  | `3784` | `323` |  | `0` | `public.app-category.utilities` |
 | [``Skim``](https://skim-app.sourceforge.io/) | ``1.6.12,142`` | `900` | `2022-08-03T00:00:00Z` |  | `2042` | `139` |  | `0` | `public.app-category.reference` |
 | [``Suspicious Package``](https://www.mothersruin.com/software/SuspiciousPackage/) | ``4.2.1,932`` | `798` |  |  | `1804` | `113` |  | `0` | `public.app-category.developer-tools` |
-| [``iStats Menus``](https://bjango.com/mac/istatmenus/) | ``6.62`` | `767` |  |  | `2493` | `183` |  | `0` | `public.app-category.utilities` |
+| [``iStats Menus``](https://bjango.com/mac/istatmenus/) | ``6.62`` | `767` |  |  | `2494` | `184` |  | `0` | `public.app-category.utilities` |
 | [``Typora``](https://typora.io/) | ``1.4.4`` | `730` | `2022-09-06T00:00:00Z` |  | `1851` | `100` |  | `0` | `public.app-category.productivity` |
 | [``Dash``](https://kapeli.com/dash) | ``6.3.2,1002`` | `719` | `2022-09-14T00:00:00Z` |  | `2863` | `206` |  | `0` | `public.app-category.developer-tools` |
 | [``Telegram Desktop``](https://desktop.telegram.org/) | ``4.2.0`` | `690` | `2022-09-17T00:00:00Z` |  | `1936` | `102` |  | `0` | `public.app-category.social-networking` |
-| [``Arduino``](https://www.arduino.cc/) | ``1.8.19`` | `650` |  |  | `2609` | `115` |  | `0` | `public.app-category.education` |
+| [``Arduino``](https://www.arduino.cc/) | ``1.8.19`` | `650` |  |  | `2610` | `116` |  | `0` | `public.app-category.education` |
 | [``Sequel Pro``](https://www.sequelpro.com/) | ``1.1.2`` | `633` |  |  | `1826` | `87` |  | `0` | `public.app-category.developer-tools` |
 | [``Charles``](https://www.charlesproxy.com/) | ``4.6.2`` | `587` |  |  | `3832` | `111` |  | `0` | `public.app-category.developer-tools` |
 | [``Plex``](https://www.plex.tv/) | ``1.54.2.3267,d35cd36f`` | `524` | `2022-09-17T00:00:00Z` |  | `2865` | `138` |  | `0` | `public.app-category.video` |
@@ -188,11 +188,11 @@ tr:nth-child(even) {
 | [``Jetbrains PyCharm Commun…``](https://www.jetbrains.com/pycharm/) | ``2022.2.2,222.4167.33`` | `1299` | `2022-09-16T00:00:00Z` |  | `775` |  |  | `0` | `public.app-category.developer-tools` |
 | [``CocoaPods.app``](https://cocoapods.org/) | ``1.5.2`` | `1289` |  |  | `1265` |  |  | `0` | `public.app-category.developer-tools` |
 | [``LibreWolf``](https://librewolf.net/) | ``104.0.2,1,9f8faa99b69c35…`` | `1234` | `2022-09-10T00:00:00Z` |  | `1081` |  |  | `0` | `public.app-category.productivity` |
-| [``Mounty for NTFS``](https://mounty.app/) | ``1.15`` | `1187` | `2022-08-28T00:00:00Z` |  | `778` |  |  | `0` | `public.app-category.utilities` |
+| [``Mounty for NTFS``](https://mounty.app/) | ``1.15`` | `1187` | `2022-08-28T00:00:00Z` |  | `779` |  |  | `0` | `public.app-category.utilities` |
 | [``KeyCastr``](https://github.com/keycastr/keycastr) | ``0.9.12`` | `1142` |  |  | `910` |  |  | `0` | `public.app-category.productivity` |
 | [``UnnaturalScrollWheels``](https://github.com/ther0n/UnnaturalScrollWheels) | ``1.3.0`` | `1134` | `2022-08-01T00:00:00Z` |  | `1841` |  |  | `0` | `public.app-category.utilities` |
 | [``BetterTouchTool``](https://folivora.ai/) | ``3.874,2027`` | `1115` | `2022-09-16T00:00:00Z` |  | `1525` |  |  | `0` | `public.app-category.productivity` |
-| [``OnyX``](https://www.titanium-software.fr/en/onyx.html) | ``4.0.2`` | `1105` |  |  | `855` |  |  | `0` | `public.app-category.utilities` |
+| [``OnyX``](https://www.titanium-software.fr/en/onyx.html) | ``4.0.2`` | `1105` |  |  | `856` |  |  | `0` | `public.app-category.utilities` |
 | [``MarkText``](https://github.com/marktext/marktext) | ``0.17.1`` | `1081` |  |  | `696` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Hyper``](https://hyper.is/) | ``3.3.0`` | `1063` | `2022-08-22T00:00:00Z` |  | `729` |  |  | `0` | `public.app-category.developer-tools` |
 | [``CheatSheet``](https://www.mediaatelier.com/CheatSheet/) | ``1.6.3`` | `1018` |  |  | `990` |  |  | `0` | `public.app-category.productivity` |
@@ -202,23 +202,23 @@ tr:nth-child(even) {
 | [``WezTerm``](https://wezfurlong.org/wezterm/) | ``20220905-102802,7d4b8249`` | `918` | `2022-09-06T00:00:00Z` |  | `734` |  |  | `0` | `public.app-category.utilities` |
 | [``DeepL``](https://www.deepl.com/) | ``3.5.251434`` | `902` | `2022-09-07T00:00:00Z` |  | `1071` |  |  | `0` | `public.app-category.reference` |
 | [``DataGrip``](https://www.jetbrains.com/datagrip/) | ``2022.2.4,222.4167.25`` | `889` | `2022-09-12T00:00:00Z` |  | `917` |  |  | `0` | `public.app-category.developer-tools` |
-| [``LinearMouse``](https://linearmouse.org/) | ``0.7.3`` | `867` | `2022-08-07T00:00:00Z` |  | `892` |  |  | `0` | `public.app-category.utilities` |
+| [``LinearMouse``](https://linearmouse.org/) | ``0.7.3`` | `867` | `2022-08-07T00:00:00Z` |  | `893` |  |  | `0` | `public.app-category.utilities` |
 | [``Goland``](https://www.jetbrains.com/go/) | ``2022.2.3,222.4167.25`` | `859` | `2022-09-16T00:00:00Z` |  | `797` |  |  | `0` | `public.app-category.developer-tools` |
 | [``GraphQL Playground``](https://github.com/prisma/graphql-playground) | ``1.8.10`` | `850` |  |  | `702` |  |  | `0` | `public.app-category.developer-tools` |
 | [``WebStorm``](https://www.jetbrains.com/webstorm/) | ``2022.2.2,222.4167.31`` | `844` | `2022-09-16T00:00:00Z` |  | `721` |  |  | `0` | `public.app-category.developer-tools` |
 | [``GraphiQL App``](https://github.com/skevy/graphiql-app) | ``0.7.2`` | `842` |  |  | `719` |  |  | `0` | `public.app-category.developer-tools` |
-| [``KeepingYouAwake``](https://keepingyouawake.app/) | ``1.6.2`` | `820` |  |  | `736` |  |  | `0` | `public.app-category.utilities` |
+| [``KeepingYouAwake``](https://keepingyouawake.app/) | ``1.6.2`` | `820` |  |  | `737` |  |  | `0` | `public.app-category.utilities` |
 | [``Winbox-mac``](https://github.com/nrlquaker/winbox-mac/) | ``3.37.0`` | `818` | `2022-07-25T00:00:00Z` |  | `790` |  |  | `0` | `public.app-category.utilities` |
 | [``Authy Desktop``](https://authy.com/) | ``2.2.1`` | `817` | `2022-07-06T00:00:00Z` |  | `1080` |  |  | `0` | `public.app-category.utilities` |
 | [``WeChat for Mac``](https://mac.weixin.qq.com/) | ``3.5.5.19,23551`` | `799` | `2022-09-15T00:00:00Z` |  | `785` |  |  | `0` | `public.app-category.social-networking` |
 | [``GitKraken``](https://www.gitkraken.com/) | ``8.9.1`` | `794` | `2022-09-15T00:00:00Z` |  | `792` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Mockoon``](https://mockoon.com/) | ``1.20.0`` | `792` | `2022-08-01T00:00:00Z` |  | `628` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Mos``](https://mos.caldis.me/) | ``3.3.2`` | `769` |  |  | `716` |  |  | `0` | `public.app-category.utilities` |
+| [``Mos``](https://mos.caldis.me/) | ``3.3.2`` | `769` |  |  | `717` |  |  | `0` | `public.app-category.utilities` |
 | [``Bartender``](https://www.macbartender.com/) | ``4.2.0,42000`` | `765` |  |  | `1024` |  |  | `0` | `public.app-category.utilities` |
 | [``CMake``](https://cmake.org/) | ``3.24.2`` | `760` | `2022-09-15T00:00:00Z` |  | `874` |  |  | `0` | `public.app-category.developer-tools` |
 | [``LastPass``](https://www.lastpass.com/) | ``4.101.2,1278`` | `751` | `2022-09-15T00:00:00Z` |  | `824` |  |  | `0` | `public.app-category.productivity` |
 | [``Miro``](https://miro.com/) | ``0.7.19`` | `730` | `2022-09-06T00:00:00Z` |  | `755` |  |  | `0` | `public.app-category.productivity` |
-| [``Itsycal``](https://www.mowglii.com/itsycal/) | ``0.13.3,2219`` | `726` | `2022-08-20T00:00:00Z` |  | `1248` |  |  | `0` | `public.app-category.utilities` |
+| [``Itsycal``](https://www.mowglii.com/itsycal/) | ``0.13.3,2219`` | `726` | `2022-08-20T00:00:00Z` |  | `1249` |  |  | `0` | `public.app-category.utilities` |
 | [``Vagrant Manager``](https://www.vagrantmanager.com/) | ``2.7.1`` | `723` |  |  | `535` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Microsoft Visual Studio``](https://visualstudio.microsoft.com/vs/mac/) | ``17.3.0.215`` | `701` | `2022-08-10T00:00:00Z` |  | `394` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Logseq``](https://github.com/logseq/logseq) | ``0.8.7`` | `688` | `2022-09-15T00:00:00Z` |  | `2084` |  |  | `0` | `public.app-category.developer-tools` |
@@ -232,7 +232,7 @@ tr:nth-child(even) {
 | [``Unity Hub``](https://unity3d.com/get-unity/download) | ``3.3.0`` | `626` | `2022-09-15T00:00:00Z` |  | `555` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Evernote``](https://evernote.com/) | ``10.44.8,3632,36e33ef8ac`` | `593` | `2022-09-06T00:00:00Z` |  | `984` |  |  | `0` | `public.app-category.productivity` |
 | [``JetBrains PhpStorm``](https://www.jetbrains.com/phpstorm/) | ``2022.2.2,222.4167.33`` | `591` | `2022-09-15T00:00:00Z` |  | `672` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Anki``](https://apps.ankiweb.net/) | ``2.1.54`` | `585` |  |  | `1314` |  |  | `0` | `public.app-category.education` |
+| [``Anki``](https://apps.ankiweb.net/) | ``2.1.54`` | `585` |  |  | `1315` |  |  | `0` | `public.app-category.education` |
 | [``SwiftFormat for Xcode``](https://github.com/nicklockwood/SwiftFormat) | ``0.49.18`` | `578` | `2022-09-06T00:00:00Z` |  | `1049` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Postico``](https://eggerapps.at/postico/) | ``1.5.21`` | `571` | `2022-07-21T00:00:00Z` |  | `658` |  |  | `0` | `public.app-category.developer-tools` |
 | [``OSXFUSE``](https://osxfuse.github.io/) | ``3.11.2`` | `567` |  |  | `343` |  |  | `0` | `public.app-category.utilities` |
@@ -241,7 +241,7 @@ tr:nth-child(even) {
 | [``Godot Engine``](https://godotengine.org/) | ``3.5`` | `538` | `2022-08-06T00:00:00Z` |  | `689` |  |  | `0` | `public.app-category.developer-tools` |
 | [``VisualVM``](https://visualvm.github.io/) | ``2.1.4`` | `538` | `2022-07-19T00:00:00Z` |  | `605` |  |  | `0` | `public.app-category.utilities` |
 | [``Facebook Messenger``](https://www.messenger.com/desktop) | ``155.22.218,380205507`` | `535` | `2022-08-19T00:00:00Z` |  | `859` |  |  | `0` | `public.app-category.social-networking` |
-| [``Scroll Reverser``](https://pilotmoon.com/scrollreverser/) | ``1.8.2,10505`` | `534` |  |  | `622` |  |  | `0` | `public.app-category.utilities` |
+| [``Scroll Reverser``](https://pilotmoon.com/scrollreverser/) | ``1.8.2,10505`` | `534` |  |  | `624` |  |  | `0` | `public.app-category.utilities` |
 | [``DevToys``](https://github.com/ObuchiYuki/DevToysMac) | ``0.0.11`` | `527` | `2022-09-19T00:00:00Z` |  | `586` |  |  | `0` | `public.app-category.developer-tools` |
 | [``f.lux``](https://justgetflux.com/) | ``42.1`` | `521` |  |  | `838` |  |  | `0` | `public.app-category.utilities` |
 | [``Sketch``](https://www.sketch.com/) | ``93,155335`` | `508` | `2022-09-14T00:00:00Z` |  | `1252` |  |  | `0` | `public.app-category.graphics-design` |
@@ -252,11 +252,11 @@ tr:nth-child(even) {
 | [``Nektony App Cleaner & Un…``](https://nektony.com/mac-app-cleaner) | ``7.8.2,883`` | `451` | `2022-08-13T00:00:00Z` |  | `952` |  |  | `0` | `public.app-category.utilities` |
 | [``Transmit``](https://panic.com/transmit/) | ``5.8.10`` | `449` | `2022-09-15T00:00:00Z` |  | `1091` |  |  | `0` | `public.app-category.productivity` |
 | [``QQ``](https://im.qq.com/macqq/index.shtml) | ``6.8.3.4068`` | `445` | `2022-09-19T00:00:00Z` |  | `869` |  |  | `0` | `public.app-category.social-networking` |
-| [``CleanMyMac X``](https://macpaw.com/cleanmymac) | ``4.11.3,41103.0.220906153`` | `443` | `2022-09-07T00:00:00Z` |  | `922` |  |  | `0` | `public.app-category.utilities` |
+| [``CleanMyMac X``](https://macpaw.com/cleanmymac) | ``4.11.3,41103.0.220906153`` | `443` | `2022-09-07T00:00:00Z` |  | `923` |  |  | `0` | `public.app-category.utilities` |
 | [``Tabby``](https://eugeny.github.io/tabby/) | ``1.0.183`` | `439` | `2022-08-01T00:00:00Z` |  | `1026` |  |  | `0` | `public.app-category.video` |
 | [``BetterZip``](https://macitbetter.com/) | ``5.2`` | `431` |  |  | `1043` |  |  | `0` | `public.app-category.utilities` |
 | [``Syntax Highlight``](https://github.com/sbarex/SourceCodeSyntaxHighlight) | ``2.1.15`` | `431` | `2022-07-05T00:00:00Z` |  | `622` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Grammarly``](https://www.grammarly.com/) | ``1.5.81`` | `429` | `2022-07-19T00:00:00Z` |  | `1201` |  |  | `0` | `public.app-category.lifestyle` |
+| [``Grammarly``](https://www.grammarly.com/) | ``1.5.81`` | `429` | `2022-07-19T00:00:00Z` |  | `1202` |  |  | `0` | `public.app-category.lifestyle` |
 | [``MeetingBar``](https://github.com/leits/MeetingBar) | ``4.0.6`` | `424` | `2022-07-22T00:00:00Z` |  | `1775` |  |  | `0` | `public.app-category.productivity` |
 | [``Burp Suite Community Edi…``](https://portswigger.net/burp/) | ``2022.8.4`` | `422` | `2022-09-06T00:00:00Z` |  | `902` |  |  | `0` | `public.app-category.utilities` |
 | [``RubyMine``](https://www.jetbrains.com/ruby/) | ``2022.2.2,222.4167.28`` | `421` | `2022-09-20T00:00:00Z` |  | `670` |  |  | `0` | `public.app-category.developer-tools` |
@@ -286,13 +286,13 @@ tr:nth-child(even) {
 | [``Browserosaurus``](https://github.com/will-stone/browserosaurus) | ``19.1.0`` | `300` | `2022-08-28T00:00:00Z` |  | `2045` |  |  | `0` | `public.app-category.developer-tools` |
 | [``DevUtils``](https://devutils.app/) | ``1.15,132`` | `297` | `2022-07-08T00:00:00Z` |  | `634` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Commander One``](https://mac.eltima.com/file-manager.html) | ``3.4.2,3592`` | `294` | `2022-07-17T00:00:00Z` |  | `760` |  |  | `0` | `public.app-category.utilities` |
-| [``eul``](https://github.com/gao-sun/eul) | ``1.6.2`` | `294` |  |  | `1719` |  |  | `0` | `public.app-category.utilities` |
+| [``eul``](https://github.com/gao-sun/eul) | ``1.6.2`` | `294` |  |  | `1720` |  |  | `0` | `public.app-category.utilities` |
 | [``Termius``](https://www.termius.com/) | ``7.48.0`` | `289` | `2022-09-13T00:00:00Z` |  | `749` |  |  | `0` | `public.app-category.developer-tools` |
 | [``FontForge``](https://fontforge.github.io/en-US/) | ``2022-03-08,74e2eca`` | `288` |  |  | `920` |  |  | `0` | `public.app-category.graphics-design` |
 | [``Asana``](https://asana.com/) | ``1.10.1`` | `287` | `2022-09-06T00:00:00Z` |  | `787` |  |  | `0` | `public.app-category.developer-tools` |
 | [``CopyClip``](https://fiplab.com/apps/copyclip-for-mac) | ``2.9.98.9`` | `281` |  |  | `686` |  |  | `0` | `public.app-category.productivity` |
 | [``PDF Expert``](https://pdfexpert.com/) | ``3.0.26,861`` | `278` | `2022-09-20T00:00:00Z` |  | `784` |  |  | `0` | `public.app-category.productivity` |
-| [``MenuMeters for El Capita…``](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) | ``2.1.6.1`` | `272` |  |  | `543` |  |  | `0` | `public.app-category.utilities` |
+| [``MenuMeters for El Capita…``](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) | ``2.1.6.1`` | `272` |  |  | `544` |  |  | `0` | `public.app-category.utilities` |
 | [``ForkLift``](https://binarynights.com/) | ``3.5.8,220`` | `271` | `2022-09-20T00:00:00Z` |  | `649` |  |  | `0` | `public.app-category.utilities` |
 | [``GrandPerspective``](https://grandperspectiv.sourceforge.io/) | ``3.0.0`` | `269` | `2022-07-11T00:00:00Z` |  | `853` |  |  | `0` | `public.app-category.utilities` |
 | [``Microsoft Azure Storage …``](https://azure.microsoft.com/en-us/features/storage-explorer/) | ``1.25.1`` | `267` | `2022-08-14T00:00:00Z` |  | `528` |  |  | `0` | `public.app-category.developer-tools` |
@@ -303,7 +303,7 @@ tr:nth-child(even) {
 | [``Motrix``](https://motrix.app/) | ``1.6.11`` | `256` |  |  | `905` |  |  | `0` | `public.app-category.utilities` |
 | [``ShiftIt``](https://github.com/fikovnik/ShiftIt/) | ``1.6.6`` | `254` |  |  | `524` |  |  | `0` | `public.app-category.utilities` |
 | [``Mimestream``](https://mimestream.com/) | ``0.37.3`` | `249` | `2022-09-15T00:00:00Z` |  | `418` | `31` |  | `0` |  |
-| [``iGlance``](https://github.com/iglance/iGlance) | ``2.1.0`` | `246` |  |  | `675` |  |  | `0` | `public.app-category.utilities` |
+| [``iGlance``](https://github.com/iglance/iGlance) | ``2.1.0`` | `246` |  |  | `676` |  |  | `0` | `public.app-category.utilities` |
 | [``V2rayU``](https://github.com/yanue/V2rayU) | ``3.3.0`` | `244` | `2022-08-19T00:00:00Z` |  | `495` |  |  | `0` | `public.app-category.utilities` |
 | [``Finicky``](https://github.com/johnste/finicky) | ``3.4.0`` | `243` |  |  | `628` |  |  | `0` | `public.app-category.utilities` |
 | [``QQ音乐``](https://y.qq.com/) | ``8.4.0,72521`` | `243` | `2022-09-13T00:00:00Z` |  | `855` |  |  | `0` | `public.app-category.music` |
@@ -325,7 +325,7 @@ tr:nth-child(even) {
 | [``Paintbrush``](https://paintbrush.sourceforge.io/) | ``2.6.0,20210402`` | `212` |  |  | `792` |  |  | `0` | `public.app-category.graphics-design` |
 | [``Electron``](https://electronjs.org/) | ``20.1.4`` | `211` | `2022-09-15T00:00:00Z` |  | `914` |  |  | `0` | `public.app-category.developer-tools` |
 | [``KeyStore Explorer``](https://keystore-explorer.org/) | ``5.5.1`` | `208` |  |  | `526` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Logisim Evolution``](https://github.com/logisim-evolution/logisim-evolution) | ``3.7.2`` | `206` |  |  | `1019` |  |  | `0` | `public.app-category.education` |
+| [``Logisim Evolution``](https://github.com/logisim-evolution/logisim-evolution) | ``3.7.2`` | `206` |  |  | `1020` |  |  | `0` | `public.app-category.education` |
 | [``Rocket.Chat``](https://rocket.chat/) | ``3.8.9`` | `201` | `2022-09-06T00:00:00Z` |  | `546` |  |  | `0` | `public.app-category.productivity` |
 | [``SwitchHosts``](https://oldj.github.io/SwitchHosts/) | ``4.1.2.6086`` | `196` |  |  | `819` |  |  | `0` | `public.app-category.productivity` |
 | [``SQL Workbench/J``](https://www.sql-workbench.eu/) | ``124`` | `195` |  |  | `407` |  |  | `0` | `public.app-category.developer-tools` |
@@ -336,7 +336,7 @@ tr:nth-child(even) {
 | [``Toggl Track``](https://www.toggl.com/track/toggl-desktop/) | ``7.5.441`` | `181` |  |  | `487` |  |  | `0` | `public.app-category.productivity` |
 | [``Appium Inspector GUI``](https://github.com/appium/appium-inspector/) | ``2022.8.1`` | `180` | `2022-08-25T00:00:00Z` |  | `889` |  |  | `0` | `public.app-category.developer-tools` |
 | [``SwiftBar``](https://swiftbar.app/) | ``1.4.3`` | `180` |  |  | `473` |  |  | `0` | `public.app-category.utilities` |
-| [``TG Pro``](https://www.tunabellysoftware.com/tgpro/) | ``2.72,13544`` | `180` | `2022-08-27T00:00:00Z` |  | `563` |  |  | `0` | `public.app-category.utilities` |
+| [``TG Pro``](https://www.tunabellysoftware.com/tgpro/) | ``2.72,13544`` | `180` | `2022-08-27T00:00:00Z` |  | `564` |  |  | `0` | `public.app-category.utilities` |
 | [``Clean-me``](https://github.com/Kevin-De-Koninck/Clean-Me) | ``1.4.2`` | `179` |  |  | `886` |  |  | `0` | `public.app-category.utilities` |
 | [``Piriform CCleaner``](https://www.ccleaner.com/ccleaner-mac) | ``2.06.158`` | `178` | `2022-08-17T00:00:00Z` |  | `353` |  |  | `0` | `public.app-category.utilities` |
 | [``LyricsX``](https://github.com/ddddxxx/LyricsX) | ``1.6.3,2351`` | `177` |  |  | `889` |  |  | `0` | `public.app-category.music` |
@@ -344,7 +344,7 @@ tr:nth-child(even) {
 | [``Amazon Chime``](https://chime.aws/) | ``4.39.8628`` | `171` |  |  | `830` |  |  | `0` | `public.app-category.productivity` |
 | [``ClickUp``](https://clickup.com/) | ``3.1.0`` | `170` | `2022-09-17T00:00:00Z` |  | `626` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Gather Town``](https://gather.town/) | ``0.3.9`` | `161` | `2022-09-20T00:00:00Z` |  | `947` |  |  | `0` | `public.app-category.video` |
-| [``JDK Mission Control``](https://jdk.java.net/jmc/8) | ``8.2.1,03`` | `161` | `2022-07-19T00:00:00Z` |  | `505` |  |  | `0` | `public.app-category.utilities` |
+| [``JDK Mission Control``](https://jdk.java.net/jmc/8) | ``8.2.1,03`` | `161` | `2022-07-19T00:00:00Z` |  | `506` |  |  | `0` | `public.app-category.utilities` |
 | [``OmniDiskSweeper``](https://www.omnigroup.com/more/) | ``1.13`` | `161` |  |  | `488` |  |  | `0` | `public.app-category.utilities` |
 | [``OpenInTerminal-Lite``](https://github.com/Ji4n1ng/OpenInTerminal) | ``1.2.5`` | `159` |  |  | `1229` |  |  | `0` | `public.app-category.utilities` |
 | [``Time Out``](https://www.dejal.com/timeout/) | ``2.9.1`` | `158` | `2022-09-10T00:00:00Z` |  | `875` |  |  | `0` | `public.app-category.healthcare-fitness` |
@@ -368,7 +368,7 @@ tr:nth-child(even) {
 | [``Cabal``](https://cabal.chat/) | ``7.0.0`` | `139` |  |  | `638` |  |  | `0` | `public.app-category.utilities` |
 | [``Standard Notes``](https://standardnotes.org/) | ``3.23.119`` | `139` | `2022-09-15T00:00:00Z` |  | `598` |  |  | `0` | `public.app-category.productivity` |
 | [``Goneovim``](https://github.com/akiyosi/goneovim) | ``0.6.3`` | `138` | `2022-08-19T00:00:00Z` |  | `565` |  |  | `0` | `public.app-category.utilities` |
-| [``Jiggler``](http://www.sticksoftware.com/software/Jiggler.html) | ``1.9`` | `138` |  |  | `505` |  |  | `0` | `public.app-category.utilities` |
+| [``Jiggler``](http://www.sticksoftware.com/software/Jiggler.html) | ``1.9`` | `138` |  |  | `506` |  |  | `0` | `public.app-category.utilities` |
 | [``Swimat``](https://github.com/Jintin/Swimat) | ``1.7.0`` | `138` |  |  | `850` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Franz``](https://meetfranz.com/) | ``5.9.2`` | `137` |  |  | `645` |  |  | `0` | `public.app-category.productivity` |
 | [``LaTeXiT``](https://www.chachatelier.fr/latexit/) | ``2.16.4`` | `136` |  |  | `503` |  |  | `0` | `public.app-category.utilities` |
@@ -434,7 +434,7 @@ tr:nth-child(even) {
 | [``KubeContext``](https://github.com/turkenh/KubeContext) | ``2.0.1`` | `100` |  |  | `444` |  |  | `0` | `public.app-category.developer-tools` |
 | [``AirBuddy``](https://airbuddy.app/) | ``2.5.5,581`` | `99` | `2022-09-10T00:00:00Z` |  | `927` |  |  | `0` | `public.app-category.utilities` |
 | [``Hackintool``](https://github.com/headkaze/Hackintool) | ``3.8.7`` | `99` |  |  | `535` |  |  | `0` | `public.app-category.productivity` |
-| [``FannyWidget``](https://fannywidget.com/) | ``2.3.0`` | `97` |  |  | `560` |  |  | `0` | `public.app-category.utilities` |
+| [``FannyWidget``](https://fannywidget.com/) | ``2.3.0`` | `97` |  |  | `561` |  |  | `0` | `public.app-category.utilities` |
 | [``Koodo Reader``](https://koodo.960960.xyz/) | ``1.4.8`` | `97` | `2022-09-06T00:00:00Z` |  | `537` |  |  | `0` | `public.app-category.productivity` |
 | [``Simplenote``](https://github.com/Automattic/simplenote-electron) | ``2.21.0`` | `97` |  |  | `561` |  |  | `0` | `public.app-category.social-networking` |
 | [``Camunda Modeler``](https://camunda.org/) | ``5.3.0`` | `96` | `2022-09-14T00:00:00Z` |  | `671` |  |  | `0` | `public.app-category.developer-tools` |
@@ -450,7 +450,7 @@ tr:nth-child(even) {
 | [``BetterDiscord``](https://betterdiscord.app/) | ``1.1.1`` | `89` |  |  | `834` |  |  | `0` | `public.app-category.social-networking` |
 | [``Nightfall``](https://github.com/r-thomson/Nightfall/) | ``3.0.0`` | `89` |  |  | `434` |  |  | `0` | `public.app-category.utilities` |
 | [``Rambox``](https://rambox.pro/) | ``2.0.6`` | `89` |  |  | `445` |  |  | `0` | `public.app-category.productivity` |
-| [``BibDesk``](https://bibdesk.sourceforge.io/) | ``1.8.13,6004`` | `88` | `2022-09-21T00:00:00Z` |  | `1706` |  |  | `0` | `public.app-category.productivity` |
+| [``BibDesk``](https://bibdesk.sourceforge.io/) | ``1.8.13,6004`` | `88` | `2022-09-21T00:00:00Z` |  | `1707` |  |  | `0` | `public.app-category.productivity` |
 | [``NTFSTool``](https://github.com/ntfstool/ntfstool) | ``2.3.2`` | `88` |  |  | `337` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Mailspring``](https://getmailspring.com/) | ``1.10.5`` | `86` | `2022-08-14T00:00:00Z` |  | `1281` |  |  | `0` | `public.app-category.business` |
 | [``Pomotroid``](https://github.com/Splode/pomotroid) | ``0.13.0`` | `86` |  |  | `630` |  |  | `0` | `public.app-category.productivity` |
@@ -502,10 +502,10 @@ tr:nth-child(even) {
 | [``Waterfox``](https://www.waterfox.net/) | ``4.1.5`` | `70` | `2022-08-24T00:00:00Z` |  | `459` |  |  | `0` | `public.app-category.productivity` |
 | [``cpuinfo``](https://github.com/yusukeshibata/cpuinfo/) | ``1.5.1`` | `69` |  |  | `472` |  |  | `0` | `public.app-category.utilities` |
 | [``Strawberry``](https://www.strawberrymusicplayer.org/) | ``1.0.9`` | `69` | `2022-09-06T00:00:00Z` |  | `635` |  |  | `0` | `public.app-category.music` |
-| [``eDEX-UI``](https://github.com/GitSquared/edex-ui) | ``2.2.8`` | `68` |  |  | `1173` |  |  | `0` | `public.app-category.utilities` |
-| [``GeoGebra``](https://www.geogebra.org/) | ``6.0.729.0`` | `68` | `2022-09-06T00:00:00Z` |  | `1175` |  |  | `0` | `public.app-category.education` |
+| [``eDEX-UI``](https://github.com/GitSquared/edex-ui) | ``2.2.8`` | `68` |  |  | `1174` |  |  | `0` | `public.app-category.utilities` |
+| [``GeoGebra``](https://www.geogebra.org/) | ``6.0.729.0`` | `68` | `2022-09-06T00:00:00Z` |  | `1176` |  |  | `0` | `public.app-category.education` |
 | [``Google Assistant Unoffic…``](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) | ``1.0.0`` | `68` |  |  | `526` |  |  | `0` | `public.app-category.productivity` |
-| [``Home Assistant``](https://companion.home-assistant.io/) | ``2022.8,2022.387`` | `68` | `2022-08-19T00:00:00Z` |  | `874` |  |  | `0` | `public.app-category.lifestyle` |
+| [``Home Assistant``](https://companion.home-assistant.io/) | ``2022.8,2022.387`` | `68` | `2022-08-19T00:00:00Z` |  | `875` |  |  | `0` | `public.app-category.lifestyle` |
 | [``Lepton``](https://hackjutsu.com/Lepton/) | ``1.10.0`` | `68` |  |  | `586` |  |  | `0` | `public.app-category.productivity` |
 | [``PDFsam Basic``](https://pdfsam.org/) | ``4.3.3`` | `68` | `2022-07-27T00:00:00Z` |  | `483` |  |  | `0` | `public.app-category.productivity` |
 | [``Plexamp``](https://plexamp.com/) | ``4.4.0`` | `68` | `2022-09-18T00:00:00Z` |  | `428` |  |  | `0` | `public.app-category.developer-tools` |
@@ -553,7 +553,7 @@ tr:nth-child(even) {
 | [``IINA+``](https://github.com/xjbeta/iina-plus) | ``0.6.17`` | `59` | `2022-08-04T00:00:00Z` |  | `774` |  |  | `0` | `public.app-category.video` |
 | [``MachOView``](https://sourceforge.net/projects/machoview/) | ``2.4.9200`` | `59` |  |  | `406` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Path Finder``](https://www.cocoatech.io/) | ``2138`` | `59` | `2022-09-10T00:00:00Z` |  | `477` |  |  | `0` | `public.app-category.utilities` |
-| [``WiFi Explorer``](https://www.intuitibits.com/products/wifi-explorer/) | ``3.3.6,51`` | `59` |  |  | `656` |  |  | `0` | `public.app-category.utilities` |
+| [``WiFi Explorer``](https://www.intuitibits.com/products/wifi-explorer/) | ``3.3.6,51`` | `59` |  |  | `657` |  |  | `0` | `public.app-category.utilities` |
 | [``CodeRunner``](https://coderunnerapp.com/) | ``4.1.1,63000`` | `58` |  |  | `455` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Keeper Password Manager``](https://keepersecurity.com/) | ``16.7.2,1658764644578`` | `58` | `2022-07-26T00:00:00Z` |  | `506` |  |  | `0` | `public.app-category.productivity` |
 | [``OpenKey``](https://github.com/tuyenvm/OpenKey/) | ``2.0.5`` | `58` |  |  | `345` |  |  | `0` | `public.app-category.utilities` |
@@ -566,7 +566,7 @@ tr:nth-child(even) {
 | [``AmorphousDiskMark``](https://katsurashareware.com/pgs/adm.html) | ``1.2.3,9`` | `56` |  |  | `850` |  |  | `0` | `public.app-category.utilities` |
 | [``Beamer``](https://beamer-app.com/) | ``3.5,35001`` | `56` |  |  | `947` |  |  | `0` | `public.app-category.video` |
 | [``Boostnote.Next``](https://boostnote.io/) | ``0.23.1`` | `56` |  |  | `473` |  |  | `0` | `public.app-category.developer-tools` |
-| [``DriveDX``](https://binaryfruit.com/drivedx) | ``1.11.0,730`` | `56` |  |  | `618` |  |  | `0` | `public.app-category.utilities` |
+| [``DriveDX``](https://binaryfruit.com/drivedx) | ``1.11.0,730`` | `56` |  |  | `619` |  |  | `0` | `public.app-category.utilities` |
 | [``EtreCheck``](https://etrecheck.com/) | ``6.7.1`` | `56` | `2022-09-06T00:00:00Z` |  | `604` |  |  | `0` | `public.app-category.utilities` |
 | [``Mactracker``](https://mactracker.ca/) | ``7.11.5`` | `56` | `2022-08-08T00:00:00Z` |  | `997` |  |  | `0` | `public.app-category.reference` |
 | [``One Switch``](https://fireball.studio/oneswitch) | ``1.26.1,372`` | `56` | `2022-09-06T00:00:00Z` |  | `379` |  |  | `0` | `public.app-category.utilities` |
@@ -585,7 +585,7 @@ tr:nth-child(even) {
 | [``DatWeatherDoe``](https://github.com/inderdhir/DatWeatherDoe) | ``3.0.4`` | `51` | `2022-08-01T00:00:00Z` |  | `927` |  |  | `0` | `public.app-category.weather` |
 | [``Netflix``](https://github.com/jellybeansoup/macos-netflix) | ``1.0.5`` | `51` |  |  | `1155` |  |  | `0` | `public.app-category.entertainment` |
 | [``Kawa``](https://github.com/utatti/kawa) | ``1.1.0`` | `51` |  |  | `364` |  |  | `0` | `public.app-category.utilities` |
-| [``Micro Snitch``](https://www.obdev.at/products/microsnitch/index.html) | ``1.5.1`` | `51` |  |  | `354` |  |  | `0` | `public.app-category.utilities` |
+| [``Micro Snitch``](https://www.obdev.at/products/microsnitch/index.html) | ``1.5.1`` | `51` |  |  | `355` |  |  | `0` | `public.app-category.utilities` |
 | [``NordPass``](https://nordpass.com/) | ``4.30.11`` | `51` | `2022-09-14T00:00:00Z` |  | `479` |  |  | `0` | `public.app-category.productivity` |
 | [``PlistEdit Pro``](https://www.fatcatsoftware.com/plisteditpro/) | ``1.9.5,933`` | `51` |  |  | `299` |  |  | `0` | `public.app-category.developer-tools` |
 | [``ScreenFlow``](https://www.telestream.net/screenflow/) | ``10.0.6,31900`` | `51` | `2022-07-12T00:00:00Z` |  | `601` |  |  | `0` | `public.app-category.video` |
@@ -646,13 +646,13 @@ tr:nth-child(even) {
 | [``Weka``](https://www.cs.waikato.ac.nz/ml/weka/) | ``3.8.6`` | `41` |  |  | `266` |  |  | `0` | `public.app-category.utilities` |
 | [``dmenu-mac``](https://github.com/oNaiPs/dmenu-mac) | ``0.7.2`` | `40` |  |  | `434` |  |  | `0` | `public.app-category.utilities` |
 | [``MenuBar Stats``](https://seense.com/menubarstats/) | ``3.8.6,20220322`` | `40` |  |  | `291` |  |  | `0` | `public.app-category.utilities` |
-| [``Panoply netCDF, HDF and …``](https://www.giss.nasa.gov/tools/panoply/) | ``5.2.0`` | `40` | `2022-09-06T00:00:00Z` |  | `830` |  |  | `0` | `public.app-category.education` |
+| [``Panoply netCDF, HDF and …``](https://www.giss.nasa.gov/tools/panoply/) | ``5.2.0`` | `40` | `2022-09-06T00:00:00Z` |  | `831` |  |  | `0` | `public.app-category.education` |
 | [``Freedom``](https://freedom.to/) | ``2.12.1,2055.1`` | `39` | `2022-09-10T00:00:00Z` |  | `463` |  |  | `0` | `public.app-category.productivity` |
 | [``MoneyMoney``](https://moneymoney-app.com/) | ``2.4.17,412`` | `39` | `2022-09-09T00:00:00Z` |  | `826` |  |  | `0` | `public.app-category.finance` |
 | [``Eagle``](https://eagle.cool/macOS) | ``3.0,15`` | `39` | `2022-09-20T00:00:00Z` |  | `665` |  |  | `0` | `public.app-category.developer-tools` |
 | [``otx``](https://github.com/x43x61x69/otx) | ``1.7,b566`` | `39` |  |  | `307` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Praat``](https://www.fon.hum.uva.nl/praat/) | ``6.2.19`` | `39` | `2022-09-15T00:00:00Z` |  | `712` |  |  | `0` | `public.app-category.education` |
-| [``Scratch``](https://scratch.mit.edu/download) | ``3.29.1`` | `39` |  |  | `674` |  |  | `0` | `public.app-category.education` |
+| [``Praat``](https://www.fon.hum.uva.nl/praat/) | ``6.2.19`` | `39` | `2022-09-15T00:00:00Z` |  | `713` |  |  | `0` | `public.app-category.education` |
+| [``Scratch``](https://scratch.mit.edu/download) | ``3.29.1`` | `39` |  |  | `675` |  |  | `0` | `public.app-category.education` |
 | [``Session``](https://getsession.org/) | ``1.10.1`` | `39` | `2022-09-20T00:00:00Z` |  | `430` |  |  | `0` | `public.app-category.social-networking` |
 | [``Tabula``](https://tabula.technology/) | ``1.2.1`` | `39` |  |  | `310` |  |  | `0` | `public.app-category.utilities` |
 | [``Xee³``](https://theunarchiver.com/xee) | ``3.5.4,69,1640101604`` | `39` |  |  | `298` |  |  | `0` | `public.app-category.utilities` |
@@ -853,7 +853,7 @@ tr:nth-child(even) {
 | [``What's Your Sign?``](https://objective-see.com/products/whatsyoursign.html) | ``2.0.1`` | `23` |  |  | `124` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Agenda``](https://agenda.com/) | ``15.0,236`` | `22` | `2022-09-11T00:00:00Z` |  | `676` |  |  | `0` | `public.app-category.productivity` |
 | [``Batteries``](https://www.fadel.io/batteries/) | ``2.2.6`` | `22` | `2022-08-16T00:00:00Z` |  | `475` |  |  | `0` | `public.app-category.utilities` |
-| [``CAJViewer``](https://cajviewer.cnki.net/cajcloud/cajdownload.html) | ``2.0,10`` | `22` |  |  | `959` |  |  | `0` | `public.app-category.education` |
+| [``CAJViewer``](https://cajviewer.cnki.net/cajcloud/cajdownload.html) | ``2.0,10`` | `22` |  |  | `960` |  |  | `0` | `public.app-category.education` |
 | [``Duplicate File Finder``](https://nektony.com/duplicate-finder-free) | ``6.17.2,586`` | `22` | `2022-08-15T00:00:00Z` |  | `422` |  |  | `0` | `public.app-category.utilities` |
 | [``Dynobase``](https://dynobase.dev/) | ``1.10.8`` | `22` | `2022-08-14T00:00:00Z` |  | `369` |  |  | `0` | `public.app-category.developer-tools` |
 | [``EasyEDA``](https://easyeda.com/) | ``6.5.15`` | `22` | `2022-09-06T00:00:00Z` |  | `338` |  |  | `0` | `public.app-category.developer-tools` |
@@ -983,8 +983,8 @@ tr:nth-child(even) {
 | [``PDF Toolbox``](https://www.lightenpdf.com/pdf-toolbox-mac.html) | ``2.0.2`` | `16` |  |  | `275` |  |  | `0` | `public.app-category.productivity` |
 | [``Prisma Studio``](https://www.prisma.io/studio) | ``0.458.0`` | `16` |  |  | `264` |  |  | `0` | `public.app-category.developer-tools` |
 | [``iQIYI``](https://app.iqiyi.com/mac/player/index.html) | ``13.9.0,20220919173000`` | `16` | `2022-09-20T00:00:00Z` |  | `909` |  |  | `0` | `public.app-category.entertainment` |
-| [``Ridibooks``](https://ridibooks.com/support/app/download) | ``0.10.2`` | `16` |  |  | `716` |  |  | `0` | `public.app-category.lifestyle` |
-| [``TOPCAT``](http://www.star.bris.ac.uk/~mbt/topcat/) | ``4.8-6`` | `16` | `2022-07-10T00:00:00Z` |  | `605` |  |  | `0` | `public.app-category.education` |
+| [``Ridibooks``](https://ridibooks.com/support/app/download) | ``0.10.2`` | `16` |  |  | `717` |  |  | `0` | `public.app-category.lifestyle` |
+| [``TOPCAT``](http://www.star.bris.ac.uk/~mbt/topcat/) | ``4.8-6`` | `16` | `2022-07-10T00:00:00Z` |  | `606` |  |  | `0` | `public.app-category.education` |
 | [``Ueli``](https://ueli.app/) | ``8.22.1`` | `16` | `2022-07-12T00:00:00Z` |  | `340` |  |  | `0` | `public.app-category.utilities` |
 | [``Zeebe Modeler``](https://zeebe.io/) | ``0.11.0`` | `16` |  |  | `167` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Yate``](https://2manyrobots.com/yate/) | ``6.11,11186`` | `16` | `2022-09-06T00:00:00Z` |  | `330` |  |  | `0` | `public.app-category.utilities` |
@@ -1073,7 +1073,7 @@ tr:nth-child(even) {
 | [``Bitwig Studio``](https://www.bitwig.com/) | ``4.3.4`` | `12` | `2022-08-11T00:00:00Z` |  | `778` |  |  | `0` | `public.app-category.music` |
 | [``BlueWallet``](https://bluewallet.io/) | ``6.2.18`` | `12` |  |  | `780` |  |  | `0` | `public.app-category.finance` |
 | [``Caret``](https://caret.io/) | ``3.4.6`` | `12` |  |  | `583` |  |  | `0` | `public.app-category.productivity` |
-| [``Celestia``](https://celestia.space/) | ``1.6.2`` | `12` |  |  | `982` |  |  | `0` | `public.app-category.education` |
+| [``Celestia``](https://celestia.space/) | ``1.6.2`` | `12` |  |  | `983` |  |  | `0` | `public.app-category.education` |
 | [``ChronyControl``](https://whatroute.net/chronycontrol.html) | ``1.4.6,281`` | `12` | `2022-09-06T00:00:00Z` |  | `585` |  |  | `0` | `public.app-category.utilities` |
 | [``Disk Expert``](https://nektony.com/disk-expert) | ``3.8.1,375`` | `12` | `2022-08-14T00:00:00Z` |  | `346` |  |  | `0` | `public.app-category.utilities` |
 | [``dockey``](https://dockey.publicspace.co/) | ``latest`` | `12` |  |  | `443` |  |  | `0` | `public.app-category.utilities` |
@@ -1152,7 +1152,7 @@ tr:nth-child(even) {
 | [``DeltaChat``](https://delta.chat/) | ``1.32.1`` | `10` | `2022-09-06T00:00:00Z` |  | `567` |  |  | `0` | `public.app-category.social-networking` |
 | [``DeviceInfo``](https://github.com/CoreNion/DeviceInfo/) | ``1.0`` | `10` |  |  | `286` |  |  | `0` | `public.app-category.utilities` |
 | [``Displays``](https://www.jibapps.com/apps/displays/) | ``1.9.10,120`` | `10` |  |  | `451` |  |  | `0` | `public.app-category.utilities` |
-| [``Dynamic Dark Mode``](https://github.com/ApolloZhu/Dynamic-Dark-Mode) | ``1.5.2`` | `10` |  |  | `965` |  |  | `0` | `public.app-category.lifestyle` |
+| [``Dynamic Dark Mode``](https://github.com/ApolloZhu/Dynamic-Dark-Mode) | ``1.5.2`` | `10` |  |  | `966` |  |  | `0` | `public.app-category.lifestyle` |
 | [``FreeSurfer``](https://surfer.nmr.mgh.harvard.edu/) | ``latest`` | `10` |  |  | `90` |  |  | `0` | `public.app-category.utilities` |
 | [``Geph``](https://geph.io/en/) | ``4.4.20`` | `10` |  |  | `248` |  |  | `0` | `public.app-category.utilities` |
 | [``gitnote``](https://gitnoteapp.com/) | ``3.1.0`` | `10` |  |  | `577` |  |  | `0` | `public.app-category.developer-tools` |
@@ -1176,7 +1176,7 @@ tr:nth-child(even) {
 | [``SQL Tabs``](https://www.sqltabs.com/) | ``1.1.0`` | `10` |  |  | `230` |  |  | `0` | `public.app-category.developer-tools` |
 | [``TagSpaces``](https://www.tagspaces.org/) | ``4.5.2`` | `10` | `2022-08-24T00:00:00Z` |  | `214` |  |  | `0` | `public.app-category.developer-tools` |
 | [``TETR.IO``](https://tetr.io/about) | ``8.0.0`` | `10` |  |  | `937` |  |  | `0` | `public.app-category.games` |
-| [``TI Connect™ CE``](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw) | ``6.0.0.2688,AA12D43FDDB74…`` | `10` | `2022-08-03T00:00:00Z` |  | `536` |  |  | `0` | `public.app-category.education` |
+| [``TI Connect™ CE``](https://education.ti.com/en/products/computer-software/ti-connect-ce-sw) | ``6.0.0.2688,AA12D43FDDB74…`` | `10` | `2022-08-03T00:00:00Z` |  | `537` |  |  | `0` | `public.app-category.education` |
 | [``UU Booster``](https://uu.163.com/down/mac/) | ``2.6.6,236`` | `10` |  |  | `165` |  |  | `0` | `public.app-category.utilities` |
 | [``Wrike``](https://www.wrike.com/apps/mobile-and-desktop/desktop-app/) | ``3.3.16`` | `10` | `2022-07-22T00:00:00Z` |  | `180` |  |  | `0` | `public.app-category.developer-tools` |
 | [``WALTR HEIC Converter``](https://softorino.com/heic-converter/) | ``1.0.2,1537972843`` | `10` |  |  | `190` |  |  | `0` | `public.app-category.utilities` |
@@ -1187,10 +1187,10 @@ tr:nth-child(even) {
 | [``BathyScaphe``](https://bathyscaphe.bitbucket.io/) | ``3.2.1,1101`` | `9` |  |  | `436` |  |  | `0` | `public.app-category.utilities` |
 | [``BBC iPlayer Downloads``](https://www.bbc.co.uk/iplayer/install) | ``2.13.9`` | `9` | `2022-08-19T00:00:00Z` |  | `426` |  |  | `0` | `public.app-category.developer-tools` |
 | [``BingPaper``](https://github.com/pengsrc/BingPaper) | ``0.11.1,46`` | `9` |  |  | `416` |  |  | `0` | `public.app-category.utilities` |
-| [``Bit Slicer``](https://github.com/zorgiepoo/bit-slicer/) | ``1.7.11`` | `9` |  |  | `408` |  |  | `0` | `public.app-category.utilities` |
+| [``Bit Slicer``](https://github.com/zorgiepoo/bit-slicer/) | ``1.7.11`` | `9` |  |  | `409` |  |  | `0` | `public.app-category.utilities` |
 | [``BlueHarvest``](https://zeroonetwenty.com/blueharvest/) | ``8.0.12`` | `9` |  |  | `578` |  |  | `0` | `public.app-category.utilities` |
 | [``Capto``](https://www.globaldelight.com/capto/) | ``1.2.24,1001.2.24005`` | `9` |  |  | `375` |  |  | `0` | `public.app-category.utilities` |
-| [``Cinderella``](https://cinderella.de/) | ``3.0b.2056`` | `9` | `2022-09-17T00:00:00Z` |  | `929` |  |  | `0` | `public.app-category.education` |
+| [``Cinderella``](https://cinderella.de/) | ``3.0b.2056`` | `9` | `2022-09-17T00:00:00Z` |  | `930` |  |  | `0` | `public.app-category.education` |
 | [``Cisdem Data Recovery``](https://www.cisdem.com/data-recovery-mac.html) | ``6.4.0`` | `9` |  |  | `360` |  |  | `0` | `public.app-category.utilities` |
 | [``Clicker for YouTube``](https://www.dbklabs.com/clicker-for-youtube/) | ``1.22,56`` | `9` | `2022-07-03T00:00:00Z` |  | `1073` |  |  | `0` | `public.app-category.entertainment` |
 | [``Datasette``](https://datasette.io/desktop) | ``0.2.2`` | `9` | `2022-07-13T00:00:00Z` |  | `338` |  |  | `0` | `public.app-category.developer-tools` |
@@ -1205,7 +1205,7 @@ tr:nth-child(even) {
 | [``HoudahSpot``](https://www.houdah.com/houdahSpot/) | ``6.2.2,750`` | `9` | `2022-08-16T00:00:00Z` |  | `281` |  |  | `0` | `public.app-category.utilities` |
 | [``ieaseMusic``](https://github.com/trazyn/ieaseMusic) | ``1.3.4`` | `9` |  |  | `230` |  |  | `0` | `public.app-category.developer-tools` |
 | [``JewelryBox``](https://github.com/remear/jewelrybox) | ``1.5`` | `9` |  |  | `223` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Journey``](https://2appstudio.com/journey/) | ``2.14.6`` | `9` |  |  | `762` |  |  | `0` | `public.app-category.lifestyle` |
+| [``Journey``](https://2appstudio.com/journey/) | ``2.14.6`` | `9` |  |  | `763` |  |  | `0` | `public.app-category.lifestyle` |
 | [``LBRY Desktop``](https://lbry.com/) | ``0.53.5`` | `9` | `2022-08-27T00:00:00Z` |  | `710` |  |  | `0` | `public.app-category.entertainment` |
 | [``ludwig``](https://ludwig.guru/) | ``2.0.38`` | `9` | `2022-09-21T00:00:00Z` |  | `299` |  |  | `0` | `public.app-category.productivity` |
 | [``Google Play Music Deskto…``](https://www.googleplaymusicdesktopplayer.com/) | ``4.7.1`` | `9` |  |  | `482` |  |  | `0` | `public.app-category.music` |
@@ -1224,7 +1224,7 @@ tr:nth-child(even) {
 | [``TrainerRoad``](https://www.trainerroad.com/) | ``2022.35.0.204`` | `9` | `2022-09-20T00:00:00Z` |  | `384` |  |  | `0` | `public.app-category.developer-tools` |
 | [``turtl``](https://turtlapp.com/) | ``0.7.2.6-sqlite-fix`` | `9` |  |  | `168` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Twist``](https://twist.com/) | ``1.0.8`` | `9` | `2022-08-23T00:00:00Z` |  | `581` |  |  | `0` | `public.app-category.business` |
-| [``Wallpaper Wizard``](https://wallwiz.com/) | ``2.2.0`` | `9` |  |  | `718` |  |  | `0` | `public.app-category.lifestyle` |
+| [``Wallpaper Wizard``](https://wallwiz.com/) | ``2.2.0`` | `9` |  |  | `719` |  |  | `0` | `public.app-category.lifestyle` |
 | [``Vine Server``](https://github.com/stweil/OSXvnc/) | ``5.3.1`` | `9` |  |  | `177` |  |  | `0` | `public.app-category.utilities` |
 | [``QuitAll``](https://amicoapps.com/app/quit-all/) | ``1.2.2`` | `9` | `2022-09-07T00:00:00Z` |  | `230` |  |  | `0` | `public.app-category.productivity` |
 | [``SimpleMind``](https://simpleapps.eu/) | ``1.32.0,b2585`` | `9` | `2022-09-10T00:00:00Z` |  | `511` |  |  | `0` | `public.app-category.productivity` |
@@ -1271,7 +1271,7 @@ tr:nth-child(even) {
 | [``Alchemy``](https://al.chemy.org/) | ``008`` | `7` |  |  | `514` |  |  | `0` | `public.app-category.utilities` |
 | [``Amadeus Pro``](https://www.hairersoft.com/pro.html) | ``2.8.8`` | `7` |  |  | `776` |  |  | `0` | `public.app-category.music` |
 | [``AMPPS``](https://www.ampps.com/) | ``4.3`` | `7` | `2022-07-20T00:00:00Z` |  | `117` |  |  | `0` | `public.app-category.utilities` |
-| [``Audiobook Builder``](https://www.splasm.com/audiobookbuilder/) | ``2.2.3`` | `7` | `2022-08-07T00:00:00Z` |  | `880` |  |  | `0` | `public.app-category.lifestyle` |
+| [``Audiobook Builder``](https://www.splasm.com/audiobookbuilder/) | ``2.2.3`` | `7` | `2022-08-07T00:00:00Z` |  | `881` |  |  | `0` | `public.app-category.lifestyle` |
 | [``BeaconScanner``](https://github.com/mlwelles/BeaconScanner/) | ``1.1.13`` | `7` |  |  | `427` |  |  | `0` | `public.app-category.utilities` |
 | [``Boxy Suite``](https://www.boxysuite.com/) | ``latest`` | `7` |  |  | `485` |  |  | `0` | `public.app-category.productivity` |
 | [``Cirrus``](https://eclecticlight.co/cirrus-bailiff/) | ``1.12,2021.04`` | `7` |  |  | `519` |  |  | `0` | `public.app-category.utilities` |
@@ -1280,7 +1280,7 @@ tr:nth-child(even) {
 | [``Couchbase Server``](https://www.couchbase.com/) | ``7.1.1`` | `7` | `2022-07-08T00:00:00Z` |  | `1217` |  |  | `0` | `public.app-category.business` |
 | [``Curio``](https://zengobi.com/curio/) | ``22.1.1,22111`` | `7` |  |  | `349` |  |  | `0` | `public.app-category.productivity` |
 | [``Dataiku Data Science Stu…``](https://www.dataiku.com/) | ``1.3.4`` | `7` |  |  | `305` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Detexify``](https://detexify.kirelabs.org/classify.html) | ``1.0.2`` | `7` |  |  | `880` |  |  | `0` | `public.app-category.education` |
+| [``Detexify``](https://detexify.kirelabs.org/classify.html) | ``1.0.2`` | `7` |  |  | `881` |  |  | `0` | `public.app-category.education` |
 | [``Devbook``](https://usedevbook.com/) | ``0.1.18`` | `7` |  |  | `275` |  |  | `0` | `public.app-category.developer-tools` |
 | [``DevKinsta``](https://devkinsta.com/) | ``2.7.0.4846`` | `7` | `2022-07-14T00:00:00Z` |  | `316` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Disk Diet``](https://www.tunabellysoftware.com/disk_diet/) | ``5.5.1,1595`` | `7` |  |  | `293` |  |  | `0` | `public.app-category.utilities` |
@@ -1540,7 +1540,7 @@ tr:nth-child(even) {
 | [``Mylio``](https://mylio.com/) | ``3.14.7255`` | `4` |  |  | `832` |  |  | `0` | `public.app-category.photography` |
 | [``Navicat for SQLite``](https://www.navicat.com/products/navicat-for-sqlite) | ``16.1.2`` | `4` | `2022-09-06T00:00:00Z` |  | `264` |  |  | `0` | `public.app-category.developer-tools` |
 | [``nfov``](https://github.com/nrlquaker/nfov) | ``1.3.1`` | `4` |  |  | `203` |  |  | `0` | `public.app-category.utilities` |
-| [``Nocturnal``](https://github.com/HarshilShah/Nocturnal) | ``0.3`` | `4` |  |  | `178` |  |  | `0` | `public.app-category.utilities` |
+| [``Nocturnal``](https://github.com/HarshilShah/Nocturnal) | ``0.3`` | `4` |  |  | `179` |  |  | `0` | `public.app-category.utilities` |
 | [``OmegaT``](https://omegat.org/) | ``4.3.3`` | `4` |  |  | `184` |  |  | `0` | `public.app-category.utilities` |
 | [``OpenPhone``](https://www.openphone.co/) | ``3.5.1`` | `4` |  |  | `226` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Patchwork``](https://github.com/ssbc/patchwork) | ``3.18.1`` | `4` |  |  | `174` |  |  | `0` | `public.app-category.developer-tools` |
@@ -1611,7 +1611,7 @@ tr:nth-child(even) {
 | [``Get iPlayer Automator``](https://github.com/Ascoware/get-iplayer-automator) | ``1.24.1,20220627001`` | `3` |  |  | `464` |  |  | `0` | `public.app-category.video` |
 | [``Home Inventory``](https://binaryformations.com/products/home-inventory/) | ``3.8.5,20201209`` | `3` |  |  | `304` |  |  | `0` | `public.app-category.productivity` |
 | [``Hookshot``](https://hookshot.app/) | ``1.24,55`` | `3` |  |  | `321` |  |  | `0` | `public.app-category.productivity` |
-| [``Hue-topia``](https://peacockmedia.software/mac/huetopia/) | ``3.4.2,1813`` | `3` |  |  | `794` |  |  | `0` | `public.app-category.lifestyle` |
+| [``Hue-topia``](https://peacockmedia.software/mac/huetopia/) | ``3.4.2,1813`` | `3` |  |  | `795` |  |  | `0` | `public.app-category.lifestyle` |
 | [``iBored``](https://apps.tempel.org/iBored/) | ``1.2.1`` | `3` |  |  | `242` |  |  | `0` | `public.app-category.developer-tools` |
 | [``iCollections``](https://naarakstudio.com/icollections/) | ``6.8.3,68301`` | `3` |  |  | `273` |  |  | `0` | `public.app-category.productivity` |
 | [``IDAGIO``](https://www.idagio.com/) | ``1.4.4`` | `3` | `2022-09-10T00:00:00Z` |  | `708` |  |  | `0` | `public.app-category.music` |
@@ -1759,7 +1759,7 @@ tr:nth-child(even) {
 | [``Raze``](https://github.com/coelckers/Raze) | ``1.5.0`` | `2` | `2022-07-24T00:00:00Z` |  | `178` |  |  | `0` | `public.app-category.action-games` |
 | [``Recents``](https://recentsapp.com/) | ``2.2.1,6244`` | `2` |  |  | `220` |  |  | `0` | `public.app-category.productivity` |
 | [``Remote Buddy``](https://www.iospirit.com/products/remotebuddy/) | ``1.33.1`` | `2` |  |  | `126` |  |  | `0` | `public.app-category.utilities` |
-| [``Restream Chat``](https://restream.io/chat/) | ``2.5.4-beta`` | `2` |  |  | `752` |  |  | `0` | `public.app-category.lifestyle` |
+| [``Restream Chat``](https://restream.io/chat/) | ``2.5.4-beta`` | `2` |  |  | `753` |  |  | `0` | `public.app-category.lifestyle` |
 | [``Rowmote Helper``](https://regularrateandrhythm.com/apps/rowmote-pro/) | ``4.2.5`` | `2` |  |  | `129` |  |  | `0` | `public.app-category.utilities` |
 | [``Gnosis Safe Multisig``](https://gnosis-safe.io/) | ``3.22.1`` | `2` |  |  | `164` |  |  | `0` | `public.app-category.productivity` |
 | [``Senuti``](https://fadingred.com/) | ``1.3.5`` | `2` |  |  | `127` |  |  | `0` | `public.app-category.utilities` |
@@ -1830,7 +1830,7 @@ tr:nth-child(even) {
 | [``League Displays``](https://leagueoflegends.com/en/featured/league-displays) | ``1.0.1028-beta`` | `1` |  |  | `186` |  |  | `0` | `public.app-category.utilities` |
 | [``Lightform Creator``](https://lightform.com/creator) | ``2.2.12.1054`` | `1` |  |  | `406` |  |  | `0` | `public.app-category.graphics-design` |
 | [``Little Navmap``](https://albar965.github.io/littlenavmap.html) | ``2.6.19`` | `1` |  |  | `199` |  |  | `0` | `public.app-category.utilities` |
-| [``Loading``](https://bonzaiapps.com/loading/) | ``1.2.6,632`` | `1` |  |  | `211` |  |  | `0` | `public.app-category.utilities` |
+| [``Loading``](https://bonzaiapps.com/loading/) | ``1.2.6,632`` | `1` |  |  | `212` |  |  | `0` | `public.app-category.utilities` |
 | [``Luna Studio``](https://www.luna-lang.org/) | ``latest`` | `1` |  |  | `58` |  |  | `0` | `public.app-category.developer-tools` |
 | [``MagicPlot``](https://magicplot.com/) | ``3.0.1`` | `1` |  |  | `567` |  |  | `0` | `public.app-category.education` |
 | [``Manyverse``](https://www.manyver.se/) | ``0.2209.2-beta`` | `1` | `2022-09-06T00:00:00Z` |  | `393` |  |  | `0` | `public.app-category.social-networking` |
@@ -1903,7 +1903,7 @@ tr:nth-child(even) {
 | [``Continuity Activation To…``](https://github.com/dokterdok/Continuity-Activation-Tool/) | ``2.0`` | `0` |  |  | `301` |  |  | `0` | `public.app-category.utilities` |
 | [``Criptext``](https://criptext.com/) | ``0.31.0,2.0.82`` | `0` |  |  | `410` |  |  | `0` | `public.app-category.productivity` |
 | [``Galleon``](https://cryptonomic.tech/galleon.html) | ``1.3.3b`` | `0` |  |  | `252` |  |  | `0` | `public.app-category.developer-tools` |
-| [``CrystalMaker``](http://crystalmaker.com/index.html) | ``10.7.3`` | `0` |  |  | `863` |  |  | `0` | `public.app-category.education` |
+| [``CrystalMaker``](http://crystalmaker.com/index.html) | ``10.7.3`` | `0` |  |  | `864` |  |  | `0` | `public.app-category.education` |
 | [``Dashcam Viewer``](https://dashcamviewer.com/) | ``3.8.7`` | `0` | `2022-08-19T00:00:00Z` |  | `371` |  |  | `0` | `public.app-category.productivity` |
 | [``Decloner``](https://www.pixelespressoapps.com/decloner/) | ``1.6.3,23`` | `0` |  |  | `272` |  |  | `0` | `public.app-category.utilities` |
 | [``depthmapX``](https://github.com/SpaceGroupUCL/depthmapX) | ``0.8.0`` | `0` |  |  | `1259` |  |  | `0` | `public.app-category.business` |
@@ -1977,7 +1977,7 @@ tr:nth-child(even) {
 | [``VOFA+``](https://www.vofa.plus/) | ``1.3.10`` | `0` |  |  | `118` |  |  | `0` | `public.app-category.utilities` |
 | [``飞桨EasyDL``](https://ai.baidu.com/easydl/paddle) | ``2.1.2,1474`` | `0` | `2022-09-06T00:00:00Z` |  | `414` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Roon Bridge``](https://roonlabs.com/) | ``1.0`` | `0` |  |  | `105` |  |  | `0` | `public.app-category.utilities` |
-| [``Unicopedia Plus``](https://github.com/tonton-pixel/unicopedia-plus) | ``12.0.0`` | `0` | `2022-09-21T00:00:00Z` |  | `252` |  |  | `0` | `public.app-category.utilities` |
+| [``Unicopedia Plus``](https://github.com/tonton-pixel/unicopedia-plus) | ``12.0.0`` | `0` | `2022-09-21T00:00:00Z` |  | `255` |  |  | `0` | `public.app-category.utilities` |
 | [``ChromeDriver``](https://sites.google.com/chromium.org/driver/) | ``105.0.5195.52`` | `8967` | `2022-09-06T00:00:00Z` |  | `287` |  |  | `0` |  |
 | [``Ungoogled Chromium``](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | ``105.0.5195.127-1.1,16632…`` | `1125` | `2022-09-16T00:00:00Z` |  | `265` |  |  | `0` |  |
 | [``LibreOffice Language Pac``](https://www.libreoffice.org/) | ``7.4.1`` | `1069` | `2022-09-15T00:00:00Z` |  | `96` |  |  | `0` |  |

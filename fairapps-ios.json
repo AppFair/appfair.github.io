@@ -28,7 +28,7 @@
       "size" : 5805786,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 72,
+        "downloadCount" : 76,
         "forkCount" : 1,
         "impressionCount" : 226,
         "issueCount" : 0,
@@ -111,7 +111,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.288/screenshot_03-iphone-750x1334.png"
       ],
-      "sha256" : "3ac6e18b3e1c3b5d7a76f6eb6d8bd6ddb6d5211067b0fe9dc59cb94eac2f99e2",
+      "sha256" : "49bb7a31273522f80d28ec7e60038eafdbb277cffaab1765c24e5e58aaf45af6",
       "size" : 5803917,
       "stats" : {
         "coreSize" : 170144,
@@ -400,6 +400,42 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "8ed33ed99b34027006b220934e47aa68827e68fd80ad65aa16151c47c0eef9d4",
+      "size" : 5799055,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 9,
+        "forkCount" : 0,
+        "impressionCount" : 19,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.22",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
 
@@ -587,78 +623,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Main-Course",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
-      "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Main Course",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
-      "sha256" : "610d5b0907ec8241703d1557a88f79b8b4fd01c9f2bf1c0a5f48f80ee2d1486e",
-      "size" : 18201175,
-      "stats" : {
-        "coreSize" : 102392,
-        "downloadCount" : 8,
-        "forkCount" : 0,
-        "impressionCount" : 3098,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 175,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An offline recipe book",
-      "version" : "0.0.16",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "8ed33ed99b34027006b220934e47aa68827e68fd80ad65aa16151c47c0eef9d4",
-      "size" : 5799055,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 7,
-        "forkCount" : 0,
-        "impressionCount" : 19,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.22",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
 
@@ -693,7 +657,7 @@
       "size" : 7745230,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 6,
+        "downloadCount" : 8,
         "forkCount" : 0,
         "impressionCount" : 10,
         "issueCount" : 0,
@@ -705,6 +669,42 @@
       "version" : "0.0.48",
       "versionDate" : "2022-09-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Main-Course",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
+      "localizedDescription" : "An offline recipe book",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Main Course",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
+      "sha256" : "610d5b0907ec8241703d1557a88f79b8b4fd01c9f2bf1c0a5f48f80ee2d1486e",
+      "size" : 18201175,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 8,
+        "forkCount" : 0,
+        "impressionCount" : 3098,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 175,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An offline recipe book",
+      "version" : "0.0.16",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
       "beta" : true,
@@ -813,6 +813,47 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Sun-Bow-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "fbf4c7a34fd8513376b6b5ca22dd2e7810a91a428e48a8da47a367d81185c927",
+      "size" : 9415291,
+      "stats" : {
+        "coreSize" : 170320,
+        "downloadCount" : 6,
+        "forkCount" : 0,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "version" : "0.0.17",
+      "versionDate" : "2022-09-21T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.16...0.0.17"
     },
     {
       "beta" : true,
@@ -1127,47 +1168,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Sun-Bow-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.17/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "fbf4c7a34fd8513376b6b5ca22dd2e7810a91a428e48a8da47a367d81185c927",
-      "size" : 9415291,
-      "stats" : {
-        "coreSize" : 170320,
-        "downloadCount" : 4,
-        "forkCount" : 0,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "version" : "0.0.17",
-      "versionDate" : "2022-09-21T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.16...0.0.17"
     },
     {
       "beta" : false,

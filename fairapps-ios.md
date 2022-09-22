@@ -23,18 +23,18 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `96` | `2022-09-09T00:00:00Z` | `5.8 MB` | `247` | `35` | `2` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.287`` | `113` | `2022-09-09T00:00:00Z` | `5.8 MB` | `247` | `35` | `2` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3467` | `263` | `0` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `35` | `2022-09-09T00:00:00Z` | `5.8 MB` | `260` | `27` | `2` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `46` | `2022-09-09T00:00:00Z` | `5.8 MB` | `260` | `27` | `2` | `0` |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.22`` | `32` | `2022-09-20T00:00:00Z` | `5.8 MB` | `34` | `4` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `323` | `32` | `0` | `0` |  |
 | [``App Fair``](https://appfair.app) | ``0.8.118`` | `28` | `2022-09-13T00:00:00Z` | `19 MB` | `217` | `24` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `511` | `53` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `447` | `36` | `0` | `0` |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.22`` | `22` | `2022-09-20T00:00:00Z` | `5.8 MB` | `34` | `4` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.290β`` | `21` | `2022-09-22T00:00:00Z` | `5.8 MB` | `2` | `1` | `2` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.49β`` | `21` | `2022-09-22T00:00:00Z` | `5.8 MB` | `1` | `1` | `2` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `9` | `1` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `12` | `2022-09-20T00:00:00Z` | `7.7 MB` | `17` | `3` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.290β`` | `11` | `2022-09-22T00:00:00Z` | `5.8 MB` | `2` | `1` | `2` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.49β`` | `11` | `2022-09-22T00:00:00Z` | `5.8 MB` | `1` | `1` | `2` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1678` | `93` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `509` | `9` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.8β`` | `9` | `2021-12-06T00:00:00Z` | `5.8 MB` | `380` | `20` | `0` | `0` |  |

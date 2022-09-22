@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 353,
+        "downloadCount" : 354,
         "forkCount" : 1,
         "impressionCount" : 217,
         "issueCount" : 6,
@@ -103,7 +103,7 @@
       "size" : 2281677,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 98,
+        "downloadCount" : 101,
         "forkCount" : 1,
         "impressionCount" : 249,
         "issueCount" : 0,
@@ -153,7 +153,7 @@
       "size" : 2275741,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 54,
+        "downloadCount" : 56,
         "forkCount" : 0,
         "impressionCount" : 261,
         "issueCount" : 0,
@@ -247,7 +247,7 @@
       "size" : 2308941,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 32,
+        "downloadCount" : 35,
         "forkCount" : 0,
         "impressionCount" : 35,
         "issueCount" : 0,
@@ -469,6 +469,50 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "8e5a91434133a34a5384a382de4c487e2d385bb1185e11fe6450f14796271769",
+      "size" : 2284286,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 24,
+        "forkCount" : 1,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.290",
+      "versionDate" : "2022-09-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.289...0.9.290"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
@@ -559,85 +603,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.App-Title",
-      "categories" : [
-
-      ],
-      "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
-      "downloadURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title.png",
-      "localizedDescription" : "A very useful app indeed",
-      "metadataURL" : "https://github.com/App-Title/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "App Title",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/App-Title/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "cdee27f9a4108574041b293ae1483bd748186d61b74cb165f1e60a7b921a6f45",
-      "size" : 2443924,
-      "stats" : {
-        "coreSize" : 170128,
-        "downloadCount" : 23,
-        "forkCount" : 0,
-        "impressionCount" : 1056,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 92,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A very useful app indeed",
-      "version" : "0.0.1",
-      "versionDate" : "2022-05-19T00:00:00Z"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "8e5a91434133a34a5384a382de4c487e2d385bb1185e11fe6450f14796271769",
-      "size" : 2284286,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 22,
-        "forkCount" : 1,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.290",
-      "versionDate" : "2022-09-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.289...0.9.290"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
 
@@ -672,7 +637,7 @@
       "size" : 2278119,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 22,
+        "downloadCount" : 24,
         "forkCount" : 0,
         "impressionCount" : 1,
         "issueCount" : 0,
@@ -685,6 +650,41 @@
       "version" : "0.2.49",
       "versionDate" : "2022-09-22T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.48...0.2.49"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.App-Title",
+      "categories" : [
+
+      ],
+      "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
+      "downloadURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title.png",
+      "localizedDescription" : "A very useful app indeed",
+      "metadataURL" : "https://github.com/App-Title/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "App Title",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/App-Title/App/releases/download/0.0.1/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "cdee27f9a4108574041b293ae1483bd748186d61b74cb165f1e60a7b921a6f45",
+      "size" : 2443924,
+      "stats" : {
+        "coreSize" : 170128,
+        "downloadCount" : 23,
+        "forkCount" : 0,
+        "impressionCount" : 1056,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 92,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A very useful app indeed",
+      "version" : "0.0.1",
+      "versionDate" : "2022-05-19T00:00:00Z"
     },
     {
       "beta" : false,

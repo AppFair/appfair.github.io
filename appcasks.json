@@ -6711,20 +6711,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/electron/electron/releases/download/v20.1.4/electron-v20.1.4-darwin-x64.zip",
+      "downloadURL" : "https://github.com/electron/electron/releases/download/v20.2.0/electron-v20.2.0-darwin-x64.zip",
       "homepage" : "https://electronjs.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electron/AppIcon.png",
       "localizedDescription" : "Build desktop apps with JavaScript, HTML, and CSS",
       "name" : "Electron",
-      "sha256" : "3cd5ae73b7667556a7ffbd9ffcee32eafb9ba8f6cc65df224dea31591a6162b0",
+      "sha256" : "8cc8ec2823f561493e3ab22b9f73ea01af2f8eea4904af25d74ee91ee4cbfe2f",
       "stats" : {
         "downloadCount" : 217,
         "impressionCount" : 915
       },
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
-      "version" : "20.1.4",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "20.2.0",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -7163,20 +7163,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.todesktop.com/210531zdwwjv8ke/ClickUp%203.1.0-x64.dmg",
+      "downloadURL" : "https://download.todesktop.com/210531zdwwjv8ke/ClickUp%203.1.1-x64.dmg",
       "homepage" : "https://clickup.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clickup/AppIcon.png",
       "localizedDescription" : "Productivity platform for tasks, docs, goals, and chat",
       "name" : "ClickUp",
-      "sha256" : "615a46400330fb15bb3ae0270369aee8247fb76d6e074887fa8a5fd9b1570168",
+      "sha256" : "17a287d3aadc1883101618572cb3676e496108b749df20b70ea9b51d53701cd4",
       "stats" : {
         "downloadCount" : 170,
         "impressionCount" : 627
       },
       "subtitle" : "Productivity platform for tasks, docs, goals, and chat",
       "tintColor" : "E9DBE9",
-      "version" : "3.1.0",
-      "versionDate" : "2022-09-17T00:00:00Z"
+      "version" : "3.1.1",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -10860,20 +10860,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://cdn.netsarang.net/0ac7ea20/PortX-2.1.3-x64.dmg",
+      "downloadURL" : "https://cdn.netsarang.net/0ac7ea20/PortX-2.1.4-x64.dmg",
       "homepage" : "https://portx.online/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-portx/AppIcon.png",
       "localizedDescription" : "SSH Client",
       "name" : "portx",
-      "sha256" : "d03e5c1928df7bcbe79fdc7dcb3f4cc8bf5ef2b067cb456d1c73cd166f879c2c",
+      "sha256" : "51699a4a9baf10ed04683a348f6ab5c8527f3b02569ce5ce1a65eeaab3718bbb",
       "stats" : {
         "downloadCount" : 66,
         "impressionCount" : 369
       },
       "subtitle" : "SSH Client",
       "tintColor" : "ED1C24",
-      "version" : "2.1.3,10.30",
-      "versionDate" : "2022-08-22T00:00:00Z"
+      "version" : "2.1.4,10.31",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -14018,7 +14018,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/zadam/trilium/releases/download/v0.54.3/trilium-mac-x64-0.54.3.zip",
+      "downloadURL" : "https://github.com/zadam/trilium/releases/download/v0.55.1/trilium-mac-x64-0.55.1.zip",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -14033,15 +14033,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-trilium-notes/AppIcon.png",
       "localizedDescription" : "Personal knowledge base",
       "name" : "Trilium Notes",
-      "sha256" : "a70d0ac0bb0f1fe9988d34f17e1ec462f68203cd56f0534b711d8715c1505ee9",
+      "sha256" : "5716c0915d26c15ee4b1093a38bafe0a5ca50e65b099360274bae27b22791f7b",
       "stats" : {
         "downloadCount" : 37,
         "impressionCount" : 535
       },
       "subtitle" : "Personal knowledge base",
       "tintColor" : "A07E2A",
-      "version" : "0.54.3",
-      "versionDate" : "2022-08-27T00:00:00Z"
+      "version" : "0.55.1",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -15304,20 +15304,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.remnote.io/RemNote-1.8.30.dmg",
+      "downloadURL" : "https://download.remnote.io/RemNote-1.8.31.dmg",
       "homepage" : "https://www.remnote.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-remnote/AppIcon.png",
       "localizedDescription" : "Spaced-repetition powered note-taking tool",
       "name" : "RemNote",
-      "sha256" : "f9140737a405399d3c6e0a135d5c4c877aa4a9d11a09818133e0f6e03e675ef0",
+      "sha256" : "fe19e7353f9a9c49e45b435fecdd96e975b8af93524b69a8f649e827ad255a32",
       "stats" : {
         "downloadCount" : 30,
         "impressionCount" : 666
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
-      "version" : "1.8.30",
-      "versionDate" : "2022-09-21T00:00:00Z"
+      "version" : "1.8.31",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -17786,20 +17786,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/vladimiry/ElectronMail/releases/download/v5.1.0/electron-mail-5.1.0-mac-x64.dmg",
+      "downloadURL" : "https://github.com/vladimiry/ElectronMail/releases/download/v5.1.1/electron-mail-5.1.1-mac-x64.dmg",
       "homepage" : "https://github.com/vladimiry/ElectronMail",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electronmail/AppIcon.png",
       "localizedDescription" : "Unofficial ProtonMail Desktop App",
       "name" : "ElectronMail",
-      "sha256" : "ae227cbc3716c5afea3c3a5d450f382120f5ad796502c91bfd131483a45796a2",
+      "sha256" : "79ed0143b54018b0a7914089ffc2156423d332f0287e26cd9b00d05b71fa27c2",
       "stats" : {
         "downloadCount" : 22,
         "impressionCount" : 430
       },
       "subtitle" : "Unofficial ProtonMail Desktop App",
       "tintColor" : "1FA68B",
-      "version" : "5.1.0",
-      "versionDate" : "2022-08-27T00:00:00Z"
+      "version" : "5.1.1",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -19320,8 +19320,8 @@
       },
       "subtitle" : "Collaborative SQL editor",
       "tintColor" : "F6DAD6",
-      "version" : "1.0.79",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "1.0.80",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -20308,7 +20308,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.1.14/siyuan-2.1.14-mac.dmg",
+      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.2.0/siyuan-2.2.0-mac.dmg",
       "fundingLinks" : [
         {
           "platform" : "OPEN_COLLECTIVE",
@@ -20323,15 +20323,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-siyuan/AppIcon.png",
       "localizedDescription" : "Local-first personal knowledge management system",
       "name" : "SiYuan",
-      "sha256" : "28adca5cecc6c955cb24a919eae3eff429c6293e3de220559d56d116f06aea9b",
+      "sha256" : "0f7c7fad25e6bd471b363330714655381461c4eb20de253ac677cb53e249d066",
       "stats" : {
         "downloadCount" : 16,
         "impressionCount" : 747
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
-      "version" : "2.1.14",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "2.2.0",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -43836,20 +43836,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.imagej.net/fiji/archive/20220919-1417/fiji-macosx.zip",
+      "downloadURL" : "https://downloads.imagej.net/fiji/archive/20220921-1717/fiji-macosx.zip",
       "homepage" : "https://fiji.sc/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fiji/AppIcon.png",
       "localizedDescription" : "Open-source image processing package",
       "name" : "Fiji",
-      "sha256" : "19a80d8b1adde074c3e9db6f9074f6d7907abc10d49d6860549b501f39de0225",
+      "sha256" : "501eca2fa97db51145addfb173a376f6b7bb7cc20bd33cd4a1662bfd341a0590",
       "stats" : {
         "downloadCount" : 70,
         "impressionCount" : 72
       },
       "subtitle" : "Open-source image processing package",
       "tintColor" : "5387BB",
-      "version" : "20220919-1417",
-      "versionDate" : "2022-09-20T00:00:00Z"
+      "version" : "20220921-1717",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -52419,8 +52419,8 @@
       },
       "subtitle" : "Use USB devices remotely over a network",
       "tintColor" : "5A9DD5",
-      "version" : "5.3.9",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "5.4.0",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -67720,17 +67720,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.unity3d.com/download_unity/7321c9670bc2/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-2022.1.16f1.pkg",
+      "downloadURL" : "https://download.unity3d.com/download_unity/2d349551e475/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-2022.1.17f1.pkg",
       "homepage" : "https://unity.com/products",
       "localizedDescription" : "WebGL target support for Unity",
       "name" : "Unity WebGL Build Support",
-      "sha256" : "888bf1b13ccde1810c2f238371858425f5149a7fdb233a6979e527adfb56a6d5",
+      "sha256" : "344428fe4adfe8036a8c5cfc59c6bdd87540c7c0915787f8e6276fa7b553093b",
       "stats" : {
         "downloadCount" : 9
       },
       "subtitle" : "WebGL target support for Unity",
-      "version" : "2022.1.16f1,7321c9670bc2",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "2022.1.17f1,2d349551e475",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -71145,17 +71145,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.unity3d.com/download_unity/7321c9670bc2/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-2022.1.16f1.pkg",
+      "downloadURL" : "https://download.unity3d.com/download_unity/2d349551e475/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-2022.1.17f1.pkg",
       "homepage" : "https://unity.com/products",
       "localizedDescription" : "iOS target support for Unity",
       "name" : "Unity iOS Build Support",
-      "sha256" : "b221ce4e6d47a1d5d8cbf89a9bee3a539caabe014e70c6fb8cb0da9540cd5dba",
+      "sha256" : "57ee561bd4dbf2124c8dff21340b8fe371ea6b27409defb164d0933e125f5c07",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "iOS target support for Unity",
-      "version" : "2022.1.16f1,7321c9670bc2",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "2022.1.17f1,2d349551e475",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -72368,17 +72368,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.unity3d.com/download_unity/7321c9670bc2/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-2022.1.16f1.pkg",
+      "downloadURL" : "https://download.unity3d.com/download_unity/2d349551e475/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-2022.1.17f1.pkg",
       "homepage" : "https://unity.com/products",
       "localizedDescription" : "Android target support for Unity",
       "name" : "Unity Android Build Support",
-      "sha256" : "f83e074a6e69fb7dc8b7868e29afcf1865720aa37b3f8a828bc3a3b1de2a4fe5",
+      "sha256" : "2836b7e41f538a1e1e5b570439107e45c3b4fd6c08d51f957d55d9e4bbed64bd",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Android target support for Unity",
-      "version" : "2022.1.16f1,7321c9670bc2",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "2022.1.17f1,2d349551e475",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -72386,17 +72386,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.unity3d.com/download_unity/7321c9670bc2/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-2022.1.16f1.pkg",
+      "downloadURL" : "https://download.unity3d.com/download_unity/2d349551e475/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-2022.1.17f1.pkg",
       "homepage" : "https://unity.com/products",
       "localizedDescription" : "Windows (Mono) target support for Unity",
       "name" : "Unity Windows (Mono) Build Support",
-      "sha256" : "259a4131c7283fb49baaae83097935e91fd96433b96e805692fc3670ec1cb7d3",
+      "sha256" : "a5cf3e5ee3882ced90722d9aebf9b9ccf842b0084a1df76c7a67537c12d154ae",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Windows (Mono) target support for Unity",
-      "version" : "2022.1.16f1,7321c9670bc2",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "2022.1.17f1,2d349551e475",
+      "versionDate" : "2022-09-22T07:39:54Z"
     },
     {
       "beta" : false,
@@ -73955,97 +73955,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "fork",
-      "caption" : "Fork updated from 2.22 to 2.22.1",
-      "date" : "2022-09-20T18:29:02Z",
-      "identifier" : "release-fork-2.22.1",
-      "title" : "New Release: Fork 2.22.1"
-    },
-    {
-      "appID" : "flipper",
-      "caption" : "Facebook Flipper updated from 0.165.1 to 0.166.0",
-      "date" : "2022-09-20T18:29:03Z",
-      "identifier" : "release-flipper-0.166.0",
-      "title" : "New Release: Facebook Flipper 0.166.0"
-    },
-    {
-      "appID" : "curseforge",
-      "caption" : "CurseForge updated from 0.206.3-1 to 0.207.2-1",
-      "date" : "2022-09-20T18:29:03Z",
-      "identifier" : "release-curseforge-0.207.2-1",
-      "title" : "New Release: CurseForge 0.207.2-1"
-    },
-    {
-      "appID" : "pdfelement",
-      "caption" : "Wondershare PDFelement for Mac updated from 9.1.0 to 9.1.1",
-      "date" : "2022-09-20T18:29:03Z",
-      "identifier" : "release-pdfelement-9.1.1",
-      "title" : "New Release: Wondershare PDFelement for Mac 9.1.1"
-    },
-    {
-      "appID" : "bluej",
-      "caption" : "BlueJ updated from 5.0.3 to 5.1.0",
-      "date" : "2022-09-20T18:29:03Z",
-      "identifier" : "release-bluej-5.1.0",
-      "title" : "New Release: BlueJ 5.1.0"
-    },
-    {
-      "appID" : "youku",
-      "caption" : "Youku updated from 1.9.8.1.090210 to 1.9.9.09197",
-      "date" : "2022-09-20T18:29:04Z",
-      "identifier" : "release-youku-1.9.9.09197",
-      "title" : "New Release: Youku 1.9.9.09197"
-    },
-    {
-      "appID" : "filemaker-pro",
-      "caption" : "FileMaker Pro updated from 19.5.3.300 to 19.5.4.401",
-      "date" : "2022-09-20T18:29:04Z",
-      "identifier" : "release-filemaker-pro-19.5.4.401",
-      "title" : "New Release: FileMaker Pro 19.5.4.401"
-    },
-    {
-      "appID" : "glyphs",
-      "caption" : "Glyphs updated from 3.1.1,3136 to 3.1.1,3137",
-      "date" : "2022-09-20T18:29:05Z",
-      "identifier" : "release-glyphs-3.1.1,3137",
-      "title" : "New Release: Glyphs 3.1.1,3137"
-    },
-    {
-      "appID" : "diskcatalogmaker",
-      "caption" : "DiskCatalogMaker updated from 8.5.1 to 8.5.2",
-      "date" : "2022-09-20T18:29:05Z",
-      "identifier" : "release-diskcatalogmaker-8.5.2",
-      "title" : "New Release: DiskCatalogMaker 8.5.2"
-    },
-    {
-      "appID" : "missive",
-      "caption" : "Missive updated from 10.31.1 to 10.31.2",
-      "date" : "2022-09-20T18:29:05Z",
-      "identifier" : "release-missive-10.31.2",
-      "title" : "New Release: Missive 10.31.2"
-    },
-    {
-      "appID" : "citrix-workspace",
-      "caption" : "Citrix Workspace updated from 22.08.1.43,2208.1 to 22.09.0.9,2209",
-      "date" : "2022-09-20T18:29:06Z",
-      "identifier" : "release-citrix-workspace-22.09.0.9,2209",
-      "title" : "New Release: Citrix Workspace 22.09.0.9,2209"
-    },
-    {
-      "appID" : "wechatwebdevtools",
-      "caption" : "Wechat DevTools updated from 1.06.2209070 to 1.06.2209190",
-      "date" : "2022-09-20T18:29:06Z",
-      "identifier" : "release-wechatwebdevtools-1.06.2209190",
-      "title" : "New Release: Wechat DevTools 1.06.2209190"
-    },
-    {
-      "appID" : "backblaze",
-      "caption" : "Backblaze updated from 8.0.1.602 to 8.5.0.628",
-      "date" : "2022-09-20T18:29:06Z",
-      "identifier" : "release-backblaze-8.5.0.628",
-      "title" : "New Release: Backblaze 8.5.0.628"
-    },
-    {
       "appID" : "sapmachine-jdk",
       "caption" : "SapMachine OpenJDK Development Kit updated from 18.0.2.1 to 19",
       "date" : "2022-09-20T18:29:06Z",
@@ -74205,13 +74114,6 @@
       "date" : "2022-09-21T11:28:09Z",
       "identifier" : "release-quip-7.69.0",
       "title" : "New Release: Quip 7.69.0"
-    },
-    {
-      "appID" : "remnote",
-      "caption" : "RemNote updated from 1.8.29 to 1.8.30",
-      "date" : "2022-09-21T11:28:09Z",
-      "identifier" : "release-remnote-1.8.30",
-      "title" : "New Release: RemNote 1.8.30"
     },
     {
       "appID" : "cloudapp",
@@ -74653,6 +74555,104 @@
       "date" : "2022-09-22T04:19:16Z",
       "identifier" : "release-tencent-meeting-3.11.3.453,65f61cbaa77157dfc47de068775210e3",
       "title" : "New Release: Tencent Meeting 3.11.3.453,65f61cbaa77157dfc47de068775210e3"
+    },
+    {
+      "appID" : "electron",
+      "caption" : "Electron updated from 20.1.4 to 20.2.0",
+      "date" : "2022-09-22T07:39:55Z",
+      "identifier" : "release-electron-20.2.0",
+      "title" : "New Release: Electron 20.2.0"
+    },
+    {
+      "appID" : "clickup",
+      "caption" : "ClickUp updated from 3.1.0 to 3.1.1",
+      "date" : "2022-09-22T07:39:56Z",
+      "identifier" : "release-clickup-3.1.1",
+      "title" : "New Release: ClickUp 3.1.1"
+    },
+    {
+      "appID" : "portx",
+      "caption" : "portx updated from 2.1.3,10.30 to 2.1.4,10.31",
+      "date" : "2022-09-22T07:39:56Z",
+      "identifier" : "release-portx-2.1.4,10.31",
+      "title" : "New Release: portx 2.1.4,10.31"
+    },
+    {
+      "appID" : "trilium-notes",
+      "caption" : "Trilium Notes updated from 0.54.3 to 0.55.1",
+      "date" : "2022-09-22T07:39:56Z",
+      "identifier" : "release-trilium-notes-0.55.1",
+      "title" : "New Release: Trilium Notes 0.55.1"
+    },
+    {
+      "appID" : "remnote",
+      "caption" : "RemNote updated from 1.8.30 to 1.8.31",
+      "date" : "2022-09-22T07:39:56Z",
+      "identifier" : "release-remnote-1.8.31",
+      "title" : "New Release: RemNote 1.8.31"
+    },
+    {
+      "appID" : "electronmail",
+      "caption" : "ElectronMail updated from 5.1.0 to 5.1.1",
+      "date" : "2022-09-22T07:39:56Z",
+      "identifier" : "release-electronmail-5.1.1",
+      "title" : "New Release: ElectronMail 5.1.1"
+    },
+    {
+      "appID" : "popsql",
+      "caption" : "PopSQL updated from 1.0.79 to 1.0.80",
+      "date" : "2022-09-22T07:39:56Z",
+      "identifier" : "release-popsql-1.0.80",
+      "title" : "New Release: PopSQL 1.0.80"
+    },
+    {
+      "appID" : "siyuan",
+      "caption" : "SiYuan updated from 2.1.14 to 2.2.0",
+      "date" : "2022-09-22T07:39:57Z",
+      "identifier" : "release-siyuan-2.2.0",
+      "title" : "New Release: SiYuan 2.2.0"
+    },
+    {
+      "appID" : "fiji",
+      "caption" : "Fiji updated from 20220919-1417 to 20220921-1717",
+      "date" : "2022-09-22T07:39:57Z",
+      "identifier" : "release-fiji-20220921-1717",
+      "title" : "New Release: Fiji 20220921-1717"
+    },
+    {
+      "appID" : "virtualhere",
+      "caption" : "VirtualHere updated from 5.3.9 to 5.4.0",
+      "date" : "2022-09-22T07:39:57Z",
+      "identifier" : "release-virtualhere-5.4.0",
+      "title" : "New Release: VirtualHere 5.4.0"
+    },
+    {
+      "appID" : "unity-webgl-support-for-editor",
+      "caption" : "Unity WebGL Build Support updated from 2022.1.16f1,7321c9670bc2 to 2022.1.17f1,2d349551e475",
+      "date" : "2022-09-22T07:39:57Z",
+      "identifier" : "release-unity-webgl-support-for-editor-2022.1.17f1,2d349551e475",
+      "title" : "New Release: Unity WebGL Build Support 2022.1.17f1,2d349551e475"
+    },
+    {
+      "appID" : "unity-ios-support-for-editor",
+      "caption" : "Unity iOS Build Support updated from 2022.1.16f1,7321c9670bc2 to 2022.1.17f1,2d349551e475",
+      "date" : "2022-09-22T07:39:57Z",
+      "identifier" : "release-unity-ios-support-for-editor-2022.1.17f1,2d349551e475",
+      "title" : "New Release: Unity iOS Build Support 2022.1.17f1,2d349551e475"
+    },
+    {
+      "appID" : "unity-android-support-for-editor",
+      "caption" : "Unity Android Build Support updated from 2022.1.16f1,7321c9670bc2 to 2022.1.17f1,2d349551e475",
+      "date" : "2022-09-22T07:39:57Z",
+      "identifier" : "release-unity-android-support-for-editor-2022.1.17f1,2d349551e475",
+      "title" : "New Release: Unity Android Build Support 2022.1.17f1,2d349551e475"
+    },
+    {
+      "appID" : "unity-windows-support-for-editor",
+      "caption" : "Unity Windows (Mono) Build Support updated from 2022.1.16f1,7321c9670bc2 to 2022.1.17f1,2d349551e475",
+      "date" : "2022-09-22T07:39:58Z",
+      "identifier" : "release-unity-windows-support-for-editor-2022.1.17f1,2d349551e475",
+      "title" : "New Release: Unity Windows (Mono) Build Support 2022.1.17f1,2d349551e475"
     }
   ],
   "platform" : "macos",

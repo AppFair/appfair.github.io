@@ -237,7 +237,7 @@
       ],
       "sha256" : "d701ee83feb0f93adaab3358c49ce06ae7e8874f5bec4595667535fe340acb3a",
       "stats" : {
-        "downloadCount" : 3320,
+        "downloadCount" : 3321,
         "impressionCount" : 9224,
         "viewCount" : 618
       },
@@ -358,7 +358,7 @@
       "sha256" : "73dd1ede9fd57cf436aa9b9e82fdbe9685cafdc99066081de8e4bdee1790ba0b",
       "stats" : {
         "downloadCount" : 1270,
-        "impressionCount" : 9064,
+        "impressionCount" : 9065,
         "viewCount" : 511
       },
       "subtitle" : "3D creation suite",
@@ -387,7 +387,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1198,
-        "impressionCount" : 7002,
+        "impressionCount" : 7003,
         "viewCount" : 562
       },
       "subtitle" : "Open-source Markdown editor",
@@ -447,7 +447,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 561,
-        "impressionCount" : 7178,
+        "impressionCount" : 7179,
         "viewCount" : 378
       },
       "subtitle" : "Text editor",

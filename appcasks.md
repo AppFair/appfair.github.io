@@ -30,14 +30,14 @@ tr:nth-child(even) {
 | [``Spotify``](https://www.spotify.com/) | ``1.1.94.870,f994cb0b,16`` | `8897` | `2022-09-16T00:00:00Z` |  | `8804` | `686` |  | `0` | `public.app-category.music` |
 | [``Discord``](https://discord.com/) | ``0.0.268`` | `5941` | `2022-08-11T00:00:00Z` |  | `8659` | `552` |  | `0` | `public.app-category.social-networking` |
 | [``Emacs``](https://emacsformacosx.com/) | ``28.2`` | `3630` | `2022-09-13T00:00:00Z` |  | `8035` | `590` |  | `0` | `public.app-category.productivity` |
-| [``WhatsApp``](https://www.whatsapp.com/) | ``2.2234.13`` | `3320` | `2022-09-20T00:00:00Z` |  | `9224` | `618` |  | `0` | `public.app-category.social-networking` |
+| [``WhatsApp``](https://www.whatsapp.com/) | ``2.2234.13`` | `3321` | `2022-09-20T00:00:00Z` |  | `9224` | `618` |  | `0` | `public.app-category.social-networking` |
 | [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2571` |  |  | `7014` | `449` |  | `0` | `public.app-category.games` |
 | [``OBS``](https://obsproject.com/) | ``28.0.1`` | `2466` | `2022-09-06T00:00:00Z` |  | `7683` | `476` |  | `0` | `public.app-category.video` |
 | [``Keka``](https://www.keka.io/) | ``1.2.56`` | `2211` | `2022-09-10T00:00:00Z` |  | `8815` | `894` |  | `0` | `public.app-category.utilities` |
-| [``Blender``](https://www.blender.org/) | ``3.3.0`` | `1270` | `2022-09-07T00:00:00Z` |  | `9064` | `511` |  | `0` | `public.app-category.graphics-design` |
-| [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1198` |  |  | `7002` | `562` |  | `0` | `public.app-category.productivity` |
+| [``Blender``](https://www.blender.org/) | ``3.3.0`` | `1270` | `2022-09-07T00:00:00Z` |  | `9065` | `511` |  | `0` | `public.app-category.graphics-design` |
+| [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1198` |  |  | `7003` | `562` |  | `0` | `public.app-category.productivity` |
 | [``HandBrake``](https://handbrake.fr/) | ``1.5.1`` | `1078` |  |  | `3159` | `199` |  | `0` | `public.app-category.video` |
-| [``MacVim``](https://github.com/macvim-dev/macvim) | ``173`` | `561` | `2022-07-26T00:00:00Z` |  | `7178` | `378` |  | `0` | `public.app-category.productivity` |
+| [``MacVim``](https://github.com/macvim-dev/macvim) | ``173`` | `561` | `2022-07-26T00:00:00Z` |  | `7179` | `378` |  | `0` | `public.app-category.productivity` |
 | [``BBEdit``](https://www.barebones.com/products/bbedit/) | ``14.5.2`` | `491` | `2022-08-26T00:00:00Z` |  | `7244` | `513` |  | `0` | `public.app-category.developer-tools` |
 | [``Minecraft``](https://minecraft.net/) | ``1.1.26`` | `425` | `2022-07-28T00:00:00Z` |  | `6567` | `493` |  | `0` | `public.app-category.games` |
 | [``YouTube Music``](https://github.com/steve228uk/YouTube-Music) | ``1.3.3`` | `287` |  |  | `4717` | `358` |  | `0` | `public.app-category.music` |

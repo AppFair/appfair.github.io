@@ -155,7 +155,7 @@
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
       "version" : "1.1.94.872,7a9200fe,18",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -298,7 +298,7 @@
       "subtitle" : "Open-source software for live streaming and screen recording",
       "tintColor" : "369C3B",
       "version" : "28.0.2",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1355,7 +1355,7 @@
       "subtitle" : "GPU-based terminal emulator",
       "tintColor" : "A09995",
       "version" : "0.26.3",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3275,7 +3275,7 @@
       "subtitle" : "Administration and development platform for PostgreSQL",
       "tintColor" : "A4BBCD",
       "version" : "6.14",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6827,7 +6827,7 @@
       "subtitle" : "Official desktop client for Rocket.Chat",
       "tintColor" : "E9495E",
       "version" : "3.8.10",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7813,7 +7813,7 @@
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
       "version" : "5.21.6,2e9381b2",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8413,7 +8413,7 @@
       "subtitle" : "Free video downloader",
       "tintColor" : "AACE50",
       "version" : "4.21.5",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11574,7 +11574,7 @@
       "subtitle" : "Collect, organize, edit and annotate documents",
       "tintColor" : "2CC8E9",
       "version" : "3.8.6",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14224,7 +14224,7 @@
       "subtitle" : "Tinker tool for PHP and Laravel developers",
       "tintColor" : "5A5542",
       "version" : "3.10.0",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14888,7 +14888,7 @@
       "subtitle" : "Share your work and ideas with video messages and screenshots",
       "tintColor" : "C7D1E3",
       "version" : "85.0.5",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14954,7 +14954,7 @@
       "subtitle" : "Turn YouTube links into MP3 files",
       "tintColor" : "95B0FD",
       "version" : "4.6.5",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18038,7 +18038,7 @@
       "subtitle" : "App for building websites",
       "tintColor" : "363636",
       "version" : "3.19,34434",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19301,7 +19301,7 @@
       "subtitle" : "Security software for business",
       "tintColor" : "333352",
       "version" : "2.5.1,1965",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21947,7 +21947,7 @@
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
       "version" : "1.93.0,stable.3,4716349",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22371,7 +22371,7 @@
       "subtitle" : "Self-hosted controller built using the Flutter framework",
       "tintColor" : "2A333B",
       "version" : "10.2.0",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23552,7 +23552,7 @@
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
       "version" : "0.12.1",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27738,7 +27738,7 @@
       "subtitle" : "App to manage bank accounts in one place",
       "tintColor" : "5CB75C",
       "version" : "8.8",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29106,7 +29106,7 @@
       "subtitle" : "Tool to help searching the web more efficiently",
       "tintColor" : "4F803C",
       "version" : "3.11.6",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39271,7 +39271,7 @@
       "subtitle" : "Instant messaging platform",
       "tintColor" : "F6F6FB",
       "version" : "3.57.0",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41399,7 +41399,7 @@
       "subtitle" : "Grammarly for desktop",
       "tintColor" : "80DEC8",
       "version" : "1.11.0.4",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42343,7 +42343,7 @@
       "subtitle" : "Database management and analysis tool",
       "tintColor" : "8FBAA9",
       "version" : "14.0",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52060,7 +52060,7 @@
       "subtitle" : "Banking & credit card management",
       "tintColor" : "AB6B2D",
       "version" : "2.2.2.11",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52263,7 +52263,7 @@
       "subtitle" : "Sound, video and lighting control",
       "tintColor" : "9297BE",
       "version" : "5.0.4,5004",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53937,7 +53937,7 @@
       "subtitle" : "Collection of productivity tools and techniques",
       "tintColor" : "676B6E",
       "version" : "4.15",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57262,7 +57262,7 @@
       "subtitle" : "Digitally sign PDFs with the Austrian Buergerkarte or ID Austria",
       "tintColor" : "C9C9C9",
       "version" : "4.4.2",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64046,7 +64046,7 @@
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
       "version" : "2022.3.3,2022-09-22-09-49",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65898,7 +65898,7 @@
       },
       "subtitle" : "Cloud-based call center and phone system software",
       "version" : "2.26.2",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69225,7 +69225,7 @@
       },
       "subtitle" : "Install PlasticSCM locally and join a Cloud Edition subscription",
       "version" : "11.0.16.7419",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72220,7 +72220,7 @@
       },
       "subtitle" : "Desktop GUI for Bitcoin Core optimised to work with hardware wallets",
       "version" : "1.13.0",
-      "versionDate" : "2022-09-22T22:22:42Z"
+      "versionDate" : "2022-09-22T00:00:00Z"
     },
     {
       "beta" : false,

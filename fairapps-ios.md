@@ -23,10 +23,8 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `66` | `2022-09-09T00:00:00Z` | `5.8 MB` | `266` | `28` | `2` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3473` | `263` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.22`` | `52` | `2022-09-20T00:00:00Z` | `5.8 MB` | `39` | `5` | `0` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.49β`` | `41` | `2022-09-22T00:00:00Z` | `5.8 MB` | `1` | `1` | `2` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `330` | `32` | `0` | `0` |  |
 | [``App Fair``](https://appfair.app) | ``0.8.118`` | `28` | `2022-09-13T00:00:00Z` | `19 MB` | `221` | `24` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `518` | `55` | `0` | `0` |  |
@@ -53,6 +51,7 @@ tr:nth-child(even) {
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `3` | `2022-08-27T00:00:00Z` | `1.46 GB` | `583` | `30` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `3` | `2022-08-27T00:00:00Z` | `8.8 MB` | `633` | `58` | `1` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `641` | `40` | `0` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `2` | `2022-09-23T00:00:00Z` | `10.5 MB` | `2` | `2` | `2` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.295β`` | `2` | `2022-09-23T00:00:00Z` | `5.8 MB` | `1` | `1` | `2` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.23β`` | `2` | `2022-09-23T00:00:00Z` | `5.8 MB` | `1` | `1` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `729` | `59` | `0` | `0` |  |

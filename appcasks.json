@@ -25,8 +25,8 @@
       "sha256" : "16e87bf2461071b2d1a3736c0448fcc85fa12c68af5ec1559203263f47842079",
       "stats" : {
         "downloadCount" : 2730,
-        "impressionCount" : 10744,
-        "viewCount" : 1199
+        "impressionCount" : 10745,
+        "viewCount" : 1200
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8909,
-        "impressionCount" : 8812,
+        "impressionCount" : 8813,
         "viewCount" : 686
       },
       "subtitle" : "Music streaming service",
@@ -292,7 +292,7 @@
       "sha256" : "bb8b67957389dc52db50c3222a2ce25239eb50cb58e7b5d7ca563810cff3e063",
       "stats" : {
         "downloadCount" : 2476,
-        "impressionCount" : 7692,
+        "impressionCount" : 7693,
         "viewCount" : 476
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -1102,7 +1102,7 @@
       "sha256" : "cf50829dda1aeba13d5ef58bd21effe47d930458a663282435a43d26cc1ed5c1",
       "stats" : {
         "downloadCount" : 3149,
-        "impressionCount" : 2304,
+        "impressionCount" : 2305,
         "viewCount" : 174
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -1349,7 +1349,7 @@
       "sha256" : "b2581d5c1f08d5c6718dc4850ccfc30354588dd90f7a81bc46c54369cc725d50",
       "stats" : {
         "downloadCount" : 2488,
-        "impressionCount" : 3576,
+        "impressionCount" : 3577,
         "viewCount" : 253
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1455,7 +1455,7 @@
       "sha256" : "4c56fb63753dbaf0d85de41d175e9406c934377991d9559d91b88bcf9c7bfefd",
       "stats" : {
         "downloadCount" : 2361,
-        "impressionCount" : 2561,
+        "impressionCount" : 2562,
         "viewCount" : 170
       },
       "subtitle" : "Kubernetes IDE",
@@ -2107,7 +2107,7 @@
       "sha256" : "f4914a6c49a2e3a815c75b199d8da31a3160e179e8272e8fb1075ce48b188e65",
       "stats" : {
         "downloadCount" : 485,
-        "impressionCount" : 2477,
+        "impressionCount" : 2478,
         "viewCount" : 231
       },
       "subtitle" : "Photography workflow application and raw developer",
@@ -2886,7 +2886,7 @@
       "sha256" : "3011ae583606fa0e90d36fed42f19d6a75abb4106a67f4330b3fe600eeb32b91",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 1927,
+        "impressionCount" : 1928,
         "viewCount" : 120
       },
       "subtitle" : "Money management application",
@@ -3290,7 +3290,7 @@
       "sha256" : "4fa987819f5fb1b64efaa45e3c0b9c5520f5b0878ac0c84beb0ad89a6c84da8c",
       "stats" : {
         "downloadCount" : 2899,
-        "impressionCount" : 902
+        "impressionCount" : 903
       },
       "subtitle" : "Administration and development platform for PostgreSQL",
       "tintColor" : "A4BBCD",
@@ -3578,7 +3578,7 @@
       "sha256" : "35028d02d3f51d4599998c6d95816277acfce0dc63f80e09c3374218b83898de",
       "stats" : {
         "downloadCount" : 1739,
-        "impressionCount" : 747
+        "impressionCount" : 748
       },
       "subtitle" : "Data science software focusing on R and Python",
       "tintColor" : "80B1DE",
@@ -4828,7 +4828,7 @@
       "sha256" : "d28452cf98ff0ff56c48019441e06e43cd518780d2f51267d94a015e9f28049e",
       "stats" : {
         "downloadCount" : 584,
-        "impressionCount" : 990
+        "impressionCount" : 991
       },
       "subtitle" : "App for note taking, organizing, task lists, and archiving",
       "tintColor" : "A2DFB2",
@@ -17921,7 +17921,7 @@
       "name" : "Dialpad",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 1299
+        "impressionCount" : 1300
       },
       "subtitle" : "Cloud communication platform",
       "tintColor" : "8B66FE",

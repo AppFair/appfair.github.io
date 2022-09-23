@@ -32,12 +32,12 @@
       "size" : 5774347,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 64,
+        "downloadCount" : 66,
         "forkCount" : 0,
-        "impressionCount" : 265,
+        "impressionCount" : 266,
         "issueCount" : 0,
         "starCount" : 2,
-        "viewCount" : 27,
+        "viewCount" : 28,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -79,7 +79,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3472,
+        "impressionCount" : 3473,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 263,
@@ -113,13 +113,13 @@
       "sha256" : "8ed33ed99b34027006b220934e47aa68827e68fd80ad65aa16151c47c0eef9d4",
       "size" : 5799055,
       "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 50,
+        "coreSize" : 102376,
+        "downloadCount" : 52,
         "forkCount" : 0,
-        "impressionCount" : 38,
+        "impressionCount" : 39,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -159,7 +159,7 @@
       "size" : 5780928,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 39,
+        "downloadCount" : 41,
         "forkCount" : 0,
         "impressionCount" : 1,
         "issueCount" : 0,
@@ -198,7 +198,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 329,
+        "impressionCount" : 330,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 32,
@@ -303,7 +303,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 517,
+        "impressionCount" : 518,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -340,7 +340,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 453,
+        "impressionCount" : 454,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -620,7 +620,7 @@
         "coreSize" : 170784,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 509,
+        "impressionCount" : 510,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 55,
@@ -1114,7 +1114,7 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 493,
+        "impressionCount" : 494,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1156,7 +1156,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 582,
+        "impressionCount" : 583,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1208,7 +1208,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 632,
+        "impressionCount" : 633,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 58,
@@ -1257,6 +1257,84 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.295/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.295/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.295/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.295/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.295/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.295/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.295/screenshot_02-iphone-750x1334.png"
+      ],
+      "sha256" : "63cb8c67285e703e2d29af619e6fe7437a9afb0d7a83d675fee0e912ec01983f",
+      "size" : 5824310,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 2,
+        "forkCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.295",
+      "versionDate" : "2022-09-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.294...0.9.295"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.23/Media-Res-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.23/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.23/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.23/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "5c8fc8e4b9fb90e2bc5247f82423add6d226f5172c55d93c5e76bbd1f2106d56",
+      "size" : 5811669,
+      "stats" : {
+        "coreSize" : 102376,
+        "downloadCount" : 2,
+        "forkCount" : 0,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.23",
+      "versionDate" : "2022-09-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.22...0.0.23"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Crazy-Glue",
       "categories" : [
@@ -1281,7 +1359,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 728,
+        "impressionCount" : 729,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -1317,7 +1395,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 750,
+        "impressionCount" : 751,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 52,
@@ -1363,48 +1441,6 @@
       "version" : "0.1.1",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tidal-Zone/App/commits/0.1.1"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "0d30667791a0b6fe1d3b7babe15d0a138d2afb19e5b49e103b7c07b9cf4ff406",
-      "size" : 5824290,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 1,
-        "forkCount" : 1,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.294",
-      "versionDate" : "2022-09-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.293...0.9.294"
     },
     {
       "beta" : true,

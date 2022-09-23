@@ -1452,14 +1452,14 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.18/Sun-Bow-iOS.ipa",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.19/Sun-Bow-iOS.ipa",
       "fundingLinks" : [
 
       ],
       "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.18/Sun-Bow.png",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.19/Sun-Bow.png",
       "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.18/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.19/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Sun Bow",
       "permissions" : [
         {
@@ -1468,23 +1468,23 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.18/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "cd5dd393f06cb45b467ef40d7427aa802d395f8ec63c3b06d381653a929c61d6",
-      "size" : 9495552,
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.19/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "26b5cd3a6a934edf250758b43d1f2debd83bf70cbda80aa69ae3d935b93e24cc",
+      "size" : 9495528,
       "stats" : {
         "coreSize" : 170320,
-        "downloadCount" : 1,
+        "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1,
+        "impressionCount" : 2,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
       "subtitle" : "An app for sunnier days",
-      "version" : "0.0.18",
+      "version" : "0.0.19",
       "versionDate" : "2022-09-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.17...0.0.18"
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.18...0.0.19"
     }
   ],
   "fundingSources" : [

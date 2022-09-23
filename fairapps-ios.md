@@ -58,6 +58,6 @@ tr:nth-child(even) {
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `733` | `59` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `758` | `53` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `554` | `48` | `0` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.18β`` | `1` | `2022-09-23T00:00:00Z` | `9.5 MB` | `1` | `1` | `1` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.19β`` | `2` | `2022-09-23T00:00:00Z` | `9.5 MB` | `2` | `2` | `1` | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

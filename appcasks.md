@@ -2088,7 +2088,7 @@ tr:nth-child(even) {
 | [``DbVisualizer``](https://www.dbvis.com/) | ``14.0`` | `136` | `2022-09-22T00:00:00Z` |  | `99` |  |  | `0` |  |
 | [``Eclipse Memory Analyzer``](https://www.eclipse.org/mat/) | ``1.13.0.20220615`` | `136` |  |  | `65` |  |  | `0` |  |
 | [``OpenWebStart``](https://openwebstart.com/) | ``1.6.0`` | `135` |  |  | `36` |  |  | `0` |  |
-| [``REAPER``](https://www.reaper.fm/) | ``6.67`` | `135` | `2022-09-08T00:00:00Z` |  | `168` |  |  | `0` |  |
+| [``REAPER``](https://www.reaper.fm/) | ``6.68`` | `135` | `2022-09-23T03:49:55Z` |  | `168` |  |  | `0` |  |
 | [``Elmedia Player``](https://www.electronic.us/products/elmedia/) | ``8.8,3188`` | `134` | `2022-09-20T00:00:00Z` |  | `110` |  |  | `0` |  |
 | [``PlayOnMac``](https://www.playonmac.com/) | ``4.4.3`` | `134` |  |  | `47` |  |  | `0` |  |
 | [``Kid3``](https://kid3.sourceforge.io/) | ``3.9.2`` | `130` | `2022-08-06T00:00:00Z` |  | `81` |  |  | `0` |  |

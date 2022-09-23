@@ -42391,20 +42391,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dlcf.reaper.fm/6.x/reaper667_universal.dmg",
+      "downloadURL" : "https://dlcf.reaper.fm/6.x/reaper668_universal.dmg",
       "homepage" : "https://www.reaper.fm/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-reaper/AppIcon.png",
       "localizedDescription" : "Digital audio production application",
       "name" : "REAPER",
-      "sha256" : "d31352a4de7a8ccbbb65053ff7b5b244c51642f91ea87325fd6c40f8e2faa910",
+      "sha256" : "7ad1a8e0f00a9c4862586f5059ca36a8c69ff92bebda2864e3fc94fbe31dd11d",
       "stats" : {
         "downloadCount" : 135,
         "impressionCount" : 168
       },
       "subtitle" : "Digital audio production application",
       "tintColor" : "849670",
-      "version" : "6.67",
-      "versionDate" : "2022-09-08T00:00:00Z"
+      "version" : "6.68",
+      "versionDate" : "2022-09-23T03:49:55Z"
     },
     {
       "beta" : false,
@@ -73942,13 +73942,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "katalon-studio",
-      "caption" : "Katalon Studio updated from 8.4.1 to 8.5.0",
-      "date" : "2022-09-21T11:28:10Z",
-      "identifier" : "release-katalon-studio-8.5.0",
-      "title" : "New Release: Katalon Studio 8.5.0"
-    },
-    {
       "appID" : "visual-paradigm-ce",
       "caption" : "Visual Paradigm Community Edition updated from 17.0,20220901 to 17.0,20220913",
       "date" : "2022-09-21T11:28:10Z",
@@ -74640,6 +74633,13 @@
       "date" : "2022-09-23T01:03:29Z",
       "identifier" : "release-foxglove-studio-1.25.0",
       "title" : "New Release: Foxglove Studio 1.25.0"
+    },
+    {
+      "appID" : "reaper",
+      "caption" : "REAPER updated from 6.67 to 6.68",
+      "date" : "2022-09-23T03:49:55Z",
+      "identifier" : "release-reaper-6.68",
+      "title" : "New Release: REAPER 6.68"
     }
   ],
   "platform" : "macos",

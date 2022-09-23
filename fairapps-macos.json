@@ -61,7 +61,7 @@
         "coreSize" : 170672,
         "downloadCount" : 354,
         "forkCount" : 1,
-        "impressionCount" : 217,
+        "impressionCount" : 221,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 24,
@@ -72,50 +72,6 @@
       "version" : "0.8.118",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.117...0.8.118"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.287/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "01f5f5cf58d56ccdd736389b17f9f649ec8f689154ca410043f3d525554f4a0a",
-      "size" : 2281677,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 101,
-        "forkCount" : 1,
-        "impressionCount" : 249,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 35,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.287",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.286...0.9.287"
     },
     {
       "beta" : false,
@@ -153,9 +109,9 @@
       "size" : 2275741,
       "stats" : {
         "coreSize" : 170240,
-        "downloadCount" : 56,
+        "downloadCount" : 72,
         "forkCount" : 0,
-        "impressionCount" : 261,
+        "impressionCount" : 265,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 27,
@@ -166,6 +122,46 @@
       "version" : "0.2.46",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.45...0.2.46"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Media-Res/App/releases/download/0.0.22/screenshot_01-mac-dark-mac-484x460.png",
+        "https://github.com/Media-Res/App/releases/download/0.0.22/screenshot_01-mac-light-mac-484x460.png"
+      ],
+      "sha256" : "3b2525b88b098e63e84714a5080b1e249383c149b0cd1f2ec7f3610db484773c",
+      "size" : 2308941,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 51,
+        "forkCount" : 0,
+        "impressionCount" : 38,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 4,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.22",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
     },
     {
       "beta" : false,
@@ -208,7 +204,7 @@
         "coreSize" : 170576,
         "downloadCount" : 42,
         "forkCount" : 0,
-        "impressionCount" : 4862,
+        "impressionCount" : 4866,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 771,
@@ -221,44 +217,54 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
+      "beta" : true,
+      "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-macOS.zip",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.49/Bon-Mot-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.49/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.49/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
       "permissions" : [
-
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        }
       ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.49/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
       "screenshotURLs" : [
-        "https://github.com/Media-Res/App/releases/download/0.0.22/screenshot_01-mac-dark-mac-484x460.png",
-        "https://github.com/Media-Res/App/releases/download/0.0.22/screenshot_01-mac-light-mac-484x460.png"
+        "https://github.com/Bon-Mot/App/releases/download/0.2.49/screenshot_01-mac-dark-mac-2024x1124.png",
+        "https://github.com/Bon-Mot/App/releases/download/0.2.49/screenshot_01-mac-light-mac-2024x1124.png"
       ],
-      "sha256" : "3b2525b88b098e63e84714a5080b1e249383c149b0cd1f2ec7f3610db484773c",
-      "size" : 2308941,
+      "sha256" : "b261e0dd0ad1e857f685a289ed01cc189fe27f0a98f0f2c89954bb6b0491d397",
+      "size" : 2278119,
       "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 35,
+        "coreSize" : 170240,
+        "downloadCount" : 40,
         "forkCount" : 0,
-        "impressionCount" : 35,
+        "impressionCount" : 1,
         "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 4,
+        "starCount" : 2,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.22",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.49",
+      "versionDate" : "2022-09-22T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.48...0.2.49"
     },
     {
       "beta" : false,
@@ -285,10 +291,10 @@
         "coreSize" : 170176,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 512,
+        "impressionCount" : 517,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 53,
+        "viewCount" : 55,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -334,7 +340,7 @@
         "coreSize" : 170224,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 628,
+        "impressionCount" : 632,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 58,
@@ -371,7 +377,7 @@
         "coreSize" : 170144,
         "downloadCount" : 29,
         "forkCount" : 0,
-        "impressionCount" : 325,
+        "impressionCount" : 329,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 32,
@@ -419,7 +425,7 @@
         "coreSize" : 170784,
         "downloadCount" : 29,
         "forkCount" : 0,
-        "impressionCount" : 506,
+        "impressionCount" : 509,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 55,
@@ -457,7 +463,7 @@
         "coreSize" : 170240,
         "downloadCount" : 26,
         "forkCount" : 1,
-        "impressionCount" : 448,
+        "impressionCount" : 453,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -467,50 +473,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-09-02T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.290/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "8e5a91434133a34a5384a382de4c487e2d385bb1185e11fe6450f14796271769",
-      "size" : 2284286,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 24,
-        "forkCount" : 1,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.290",
-      "versionDate" : "2022-09-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.289...0.9.290"
     },
     {
       "beta" : false,
@@ -547,7 +509,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3468,
+        "impressionCount" : 3472,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 263,
@@ -590,7 +552,7 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3764,
+        "impressionCount" : 3766,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 610,
@@ -600,56 +562,6 @@
       "version" : "0.4.18",
       "versionDate" : "2022-01-20T00:00:00Z",
       "versionDescription" : "Release 0.4.18"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.49/Bon-Mot-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.49/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.49/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.49/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "screenshotURLs" : [
-        "https://github.com/Bon-Mot/App/releases/download/0.2.49/screenshot_01-mac-dark-mac-2024x1124.png",
-        "https://github.com/Bon-Mot/App/releases/download/0.2.49/screenshot_01-mac-light-mac-2024x1124.png"
-      ],
-      "sha256" : "b261e0dd0ad1e857f685a289ed01cc189fe27f0a98f0f2c89954bb6b0491d397",
-      "size" : 2278119,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 24,
-        "forkCount" : 0,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.49",
-      "versionDate" : "2022-09-22T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.48...0.2.49"
     },
     {
       "beta" : true,
@@ -714,7 +626,7 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 725,
+        "impressionCount" : 728,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -1026,7 +938,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 578,
+        "impressionCount" : 582,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -1070,7 +982,7 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 490,
+        "impressionCount" : 493,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -1186,7 +1098,7 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3103,
+        "impressionCount" : 3105,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 176,
@@ -1366,10 +1278,10 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 542,
+        "impressionCount" : 547,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 47,
+        "viewCount" : 48,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1484,7 +1396,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 516,
+        "impressionCount" : 518,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 45,
@@ -1667,7 +1579,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 747,
+        "impressionCount" : 750,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 52,
@@ -1760,6 +1672,50 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.294/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "baf5e586a169a10a40b9ce45bf10038871163e79b94984b1e98605ebb8070771",
+      "size" : 2273573,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 1,
+        "forkCount" : 1,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.294",
+      "versionDate" : "2022-09-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.293...0.9.294"
     },
     {
       "beta" : true,

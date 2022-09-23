@@ -29,7 +29,6 @@ tr:nth-child(even) {
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `31` | `2022-09-03T00:00:00Z` | `2.2 MB` | `518` | `55` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `30` | `2022-08-27T00:00:00Z` | `4 MB` | `633` | `58` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `29` | `2022-09-09T00:00:00Z` | `2.2 MB` | `330` | `32` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `29` | `2022-09-01T00:00:00Z` | `9.6 MB` | `510` | `55` | `1` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `454` | `36` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `3473` | `263` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3767` | `610` | `0` | `0` |  |
@@ -62,7 +61,8 @@ tr:nth-child(even) {
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `2.4 MB` | `751` | `52` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `2` | `2022-08-27T00:00:00Z` | `2.3 MB` | `9` | `1` | `0` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `2` | `2022-05-01T00:00:00Z` | `2.6 MB` | `641` | `40` | `0` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.18β`` | `2` | `2022-09-23T00:00:00Z` | `3.7 MB` | `1` | `1` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460`` | `1` | `2022-09-23T00:00:00Z` | `8.6 MB` | `1` | `1` | `1` | `0` |  |
 | [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | ``0.0.16β`` | `1` | `2022-02-12T00:00:00Z` | `2.5 MB` | `1076` | `58` | `0` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.18β`` | `1` | `2022-09-23T00:00:00Z` | `3.7 MB` | `0` | `0` | `1` | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

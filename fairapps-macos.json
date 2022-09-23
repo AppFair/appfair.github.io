@@ -1714,14 +1714,14 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.16/Sun-Bow-macOS.zip",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.18/Sun-Bow-macOS.zip",
       "fundingLinks" : [
 
       ],
       "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.16/Sun-Bow.png",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.18/Sun-Bow.png",
       "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.18/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Sun Bow",
       "permissions" : [
         {
@@ -1730,23 +1730,23 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.16/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "c9b86bf1eec383813313ae8ca86bf9b0ee3db8d5cb7b9f8007eff7dfa3fcc664",
-      "size" : 4482642,
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.18/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "1276c25ca85c921ce08120c8a6a5d001c553bd97a9271d8ec9d4f23f37412b95",
+      "size" : 3685207,
       "stats" : {
         "coreSize" : 170320,
         "downloadCount" : 1,
         "forkCount" : 0,
-        "impressionCount" : 1,
+        "impressionCount" : 0,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 0,
         "watcherCount" : 0
       },
       "subtitle" : "An app for sunnier days",
-      "version" : "0.0.16",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.14...0.0.16"
+      "version" : "0.0.18",
+      "versionDate" : "2022-09-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.17...0.0.18"
     }
   ],
   "fundingSources" : [

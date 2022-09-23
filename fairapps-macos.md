@@ -23,10 +23,8 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `355` | `2022-09-13T00:00:00Z` | `10 MB` | `221` | `24` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.46`` | `74` | `2022-09-09T00:00:00Z` | `2.3 MB` | `266` | `28` | `2` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `356` | `2022-09-13T00:00:00Z` | `10 MB` | `221` | `24` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.22`` | `53` | `2022-09-20T00:00:00Z` | `2.3 MB` | `39` | `5` | `0` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.49β`` | `42` | `2022-09-22T00:00:00Z` | `2.3 MB` | `1` | `1` | `2` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `42` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4867` | `771` | `1` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `31` | `2022-09-03T00:00:00Z` | `2.2 MB` | `518` | `55` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `30` | `2022-08-27T00:00:00Z` | `4 MB` | `633` | `58` | `1` | `0` |  |
@@ -59,6 +57,7 @@ tr:nth-child(even) {
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `3` | `2022-09-20T00:00:00Z` | `3.2 MB` | `17` | `3` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.10`` | `3` | `2022-08-24T00:00:00Z` | `8.2 MB` | `205` | `15` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `669` | `46` | `0` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `2` | `2022-09-23T00:00:00Z` | `3.6 MB` | `2` | `2` | `2` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.295β`` | `2` | `2022-09-23T00:00:00Z` | `2.3 MB` | `1` | `1` | `2` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `2.4 MB` | `751` | `52` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `2` | `2022-08-27T00:00:00Z` | `2.3 MB` | `9` | `1` | `0` | `0` |  |

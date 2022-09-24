@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 170672,
-        "downloadCount" : 373,
+        "downloadCount" : 375,
         "forkCount" : 1,
         "impressionCount" : 251,
         "issueCount" : 6,
@@ -72,46 +72,6 @@
       "version" : "0.8.118",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.117...0.8.118"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.22/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Media-Res/App/releases/download/0.0.22/screenshot_01-mac-dark-mac-484x460.png",
-        "https://github.com/Media-Res/App/releases/download/0.0.22/screenshot_01-mac-light-mac-484x460.png"
-      ],
-      "sha256" : "3b2525b88b098e63e84714a5080b1e249383c149b0cd1f2ec7f3610db484773c",
-      "size" : 2308941,
-      "stats" : {
-        "coreSize" : 102376,
-        "downloadCount" : 53,
-        "forkCount" : 0,
-        "impressionCount" : 60,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 9,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.22",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.21...0.0.22"
     },
     {
       "beta" : false,
@@ -1555,6 +1515,46 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Media-Res/App/releases/download/0.0.26/screenshot_01-mac-dark-mac-484x460.png",
+        "https://github.com/Media-Res/App/releases/download/0.0.26/screenshot_01-mac-light-mac-484x460.png"
+      ],
+      "sha256" : "eaea51651d83c5baf112ab0428af9bc62a0ad71976a304bdbcbab1c4f281b880",
+      "size" : 2374732,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 2,
+        "forkCount" : 0,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.26",
+      "versionDate" : "2022-09-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.25...0.0.26"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Fox-Glove",
       "categories" : [
 
@@ -1807,13 +1807,6 @@
       "title" : "New Release: App Fair 0.8.118"
     },
     {
-      "appID" : "app.Media-Res",
-      "caption" : "Media Res updated from 0.0.20 to 0.0.22",
-      "date" : "2022-09-20T19:55:11Z",
-      "identifier" : "release-app.Media-Res-0.0.22",
-      "title" : "New Release: Media Res 0.0.22"
-    },
-    {
       "appID" : "app.Net-Skip",
       "caption" : "Net Skip updated from 0.0.45 to 0.0.48",
       "date" : "2022-09-20T23:44:36Z",
@@ -1833,6 +1826,13 @@
       "date" : "2022-09-23T03:10:37Z",
       "identifier" : "release-app.Tune-Out-0.8.460",
       "title" : "New Release: Tune Out 0.8.460"
+    },
+    {
+      "appID" : "app.Media-Res",
+      "caption" : "Media Res updated from 0.0.22 to 0.0.26",
+      "date" : "2022-09-24T06:24:17Z",
+      "identifier" : "release-app.Media-Res-0.0.26",
+      "title" : "New Release: Media Res 0.0.26"
     }
   ],
   "platform" : "macos"

@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 5938,
-        "impressionCount" : 8701,
+        "impressionCount" : 8702,
         "viewCount" : 553
       },
       "subtitle" : "Voice and text chat software",
@@ -2381,7 +2381,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/README.md",
       "stats" : {
         "downloadCount" : 216,
-        "impressionCount" : 742,
+        "impressionCount" : 743,
         "viewCount" : 52
       },
       "subtitle" : "Multiplayer online battle arena game",
@@ -3017,7 +3017,7 @@
       "sha256" : "c1a2abf468c2f02aebdda433cfd8d1ba290c3215373b2738424dcc2b9eff774a",
       "stats" : {
         "downloadCount" : 33588,
-        "impressionCount" : 1610
+        "impressionCount" : 1611
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",

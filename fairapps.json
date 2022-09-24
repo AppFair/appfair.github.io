@@ -18,9 +18,19 @@
       "name" : "App Fair",
       "permissions" : [
         {
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
           "identifier" : "com.apple.security.files.user-selected.executable",
           "type" : "entitlement",
           "usageDescription" : "The App Fair installs executable apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the local file system to install apps"
         },
         {
           "identifier" : "com.apple.security.network.client",
@@ -31,16 +41,6 @@
           "identifier" : "com.apple.security.network.server",
           "type" : "entitlement",
           "usageDescription" : "The App Fair acts as a server for checking for app updates"
-        },
-        {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
         }
       ],
       "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
@@ -58,10 +58,10 @@
       "sha256" : "0e24d6a65a1aae1e93b84c9d7c36ef2f2991cb418aca2a36744638e673a08ada",
       "size" : 9956155,
       "stats" : {
-        "coreSize" : 170672,
-        "downloadCount" : 380,
+        "coreSize" : 67768,
+        "downloadCount" : 386,
         "forkCount" : 1,
-        "impressionCount" : 265,
+        "impressionCount" : 268,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 28,
@@ -114,7 +114,7 @@
         "coreSize" : 170576,
         "downloadCount" : 42,
         "forkCount" : 0,
-        "impressionCount" : 4897,
+        "impressionCount" : 4900,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 775,
@@ -151,7 +151,7 @@
         "coreSize" : 170176,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 554,
+        "impressionCount" : 557,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -200,7 +200,7 @@
         "coreSize" : 170224,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 666,
+        "impressionCount" : 669,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 61,
@@ -237,7 +237,7 @@
         "coreSize" : 170144,
         "downloadCount" : 29,
         "forkCount" : 0,
-        "impressionCount" : 365,
+        "impressionCount" : 367,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -274,7 +274,7 @@
         "coreSize" : 170240,
         "downloadCount" : 26,
         "forkCount" : 1,
-        "impressionCount" : 485,
+        "impressionCount" : 489,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -320,7 +320,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3506,
+        "impressionCount" : 3510,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 264,
@@ -363,7 +363,7 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3794,
+        "impressionCount" : 3797,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 610,
@@ -411,45 +411,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
-      "localizedDescription" : "Putting the pieces back together",
-      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Crazy Glue",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Crazy-Glue/App/releases/download/0.0.7/screenshot_01-mac-1936x1036.png"
-      ],
-      "sha256" : "e1deb5fa716d43bf3f8db9f06f84b45ce809012261a6355aae6944f3fa7b1fdc",
-      "size" : 2273312,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 19,
-        "forkCount" : 0,
-        "impressionCount" : 757,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 61,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Putting the pieces back together",
-      "version" : "0.0.7",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
 
@@ -483,9 +444,9 @@
       "size" : 8564253,
       "stats" : {
         "coreSize" : 170688,
-        "downloadCount" : 18,
+        "downloadCount" : 20,
         "forkCount" : 0,
-        "impressionCount" : 37,
+        "impressionCount" : 39,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 9,
@@ -537,9 +498,9 @@
       "size" : 3247304,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 17,
+        "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 35,
+        "impressionCount" : 37,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 4,
@@ -549,6 +510,45 @@
       "version" : "0.0.48",
       "versionDate" : "2022-09-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Crazy-Glue",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
+      "localizedDescription" : "Putting the pieces back together",
+      "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Crazy Glue",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Crazy-Glue/App/releases/download/0.0.7/screenshot_01-mac-1936x1036.png"
+      ],
+      "sha256" : "e1deb5fa716d43bf3f8db9f06f84b45ce809012261a6355aae6944f3fa7b1fdc",
+      "size" : 2273312,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 19,
+        "forkCount" : 0,
+        "impressionCount" : 759,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 61,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Putting the pieces back together",
+      "version" : "0.0.7",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
     },
     {
       "beta" : true,
@@ -590,7 +590,7 @@
       "size" : 3238925,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 16,
+        "downloadCount" : 18,
         "forkCount" : 0,
         "impressionCount" : 2,
         "issueCount" : 0,
@@ -641,7 +641,7 @@
         "coreSize" : 170240,
         "downloadCount" : 12,
         "forkCount" : 0,
-        "impressionCount" : 31,
+        "impressionCount" : 37,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 5,
@@ -768,6 +768,46 @@
       "version" : "0.0.1",
       "versionDate" : "2022-08-23T00:00:00Z",
       "versionDescription" : ""
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Media-Res/App/releases/download/0.0.26/screenshot_01-mac-dark-mac-484x460.png",
+        "https://github.com/Media-Res/App/releases/download/0.0.26/screenshot_01-mac-light-mac-484x460.png"
+      ],
+      "sha256" : "eaea51651d83c5baf112ab0428af9bc62a0ad71976a304bdbcbab1c4f281b880",
+      "size" : 2374732,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 8,
+        "forkCount" : 0,
+        "impressionCount" : 16,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.26",
+      "versionDate" : "2022-09-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.25...0.0.26"
     },
     {
       "beta" : true,
@@ -954,7 +994,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 615,
+        "impressionCount" : 618,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -964,46 +1004,6 @@
       "version" : "0.0.51",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Media-Res/App/releases/download/0.0.26/screenshot_01-mac-dark-mac-484x460.png",
-        "https://github.com/Media-Res/App/releases/download/0.0.26/screenshot_01-mac-light-mac-484x460.png"
-      ],
-      "sha256" : "eaea51651d83c5baf112ab0428af9bc62a0ad71976a304bdbcbab1c4f281b880",
-      "size" : 2374732,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 6,
-        "forkCount" : 0,
-        "impressionCount" : 11,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.26",
-      "versionDate" : "2022-09-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.25...0.0.26"
     },
     {
       "beta" : false,
@@ -1038,7 +1038,7 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 518,
+        "impressionCount" : 522,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -1154,7 +1154,7 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3124,
+        "impressionCount" : 3126,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 178,
@@ -1334,7 +1334,7 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 574,
+        "impressionCount" : 579,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -1452,7 +1452,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 536,
+        "impressionCount" : 537,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1582,7 +1582,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 778,
+        "impressionCount" : 780,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,

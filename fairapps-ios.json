@@ -47,6 +47,55 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-iphone-1170x2532.png"
+      ],
+      "sha256" : "70e4c9c2f460366b008681f80b1728f373ef3433e8c8fcdca918bdff47843722",
+      "size" : 7745230,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 31,
+        "forkCount" : 0,
+        "impressionCount" : 39,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 4,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.48",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "categories" : [
 
@@ -63,11 +112,6 @@
       "name" : "App Fair",
       "permissions" : [
         {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
           "identifier" : "com.apple.security.files.user-selected.executable",
           "type" : "entitlement",
           "usageDescription" : "The App Fair installs executable apps"
@@ -78,14 +122,19 @@
           "usageDescription" : "The App Fair uses the local file system to install apps"
         },
         {
-          "identifier" : "com.apple.security.network.client",
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
           "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+          "usageDescription" : "The App Fair uses the local file system to install apps"
         },
         {
           "identifier" : "com.apple.security.network.server",
           "type" : "entitlement",
           "usageDescription" : "The App Fair acts as a server for checking for app updates"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
         }
       ],
       "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
@@ -149,55 +198,6 @@
       "version" : "0.0.10",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
-      "name" : "Net Skip",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        }
-      ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
-      "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-iphone-1170x2532.png"
-      ],
-      "sha256" : "70e4c9c2f460366b008681f80b1728f373ef3433e8c8fcdca918bdff47843722",
-      "size" : 7745230,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 27,
-        "forkCount" : 0,
-        "impressionCount" : 39,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 4,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.48",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
     },
     {
       "beta" : false,
@@ -274,6 +274,55 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Net-Skip",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/Net-Skip-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/README.md#11b4a0ee5fa4a0f6cd903be1b008c235cf2f09590e44b0ed098f34ab04d4b814",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.49/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.49/screenshot_02-iphone-1170x2532.png"
+      ],
+      "sha256" : "158d870eee4c3187b05518446c05464062aebffd498e190bfc0aa9a19d502f54",
+      "size" : 7793003,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 21,
+        "forkCount" : 0,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.49",
+      "versionDate" : "2022-09-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.48...0.0.49"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Hex-Loupe",
       "categories" : [
 
@@ -318,53 +367,40 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Net-Skip",
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/Net-Skip-iOS.ipa",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
-      "name" : "Net Skip",
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
       "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        }
+
       ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/README.md#11b4a0ee5fa4a0f6cd903be1b008c235cf2f09590e44b0ed098f34ab04d4b814",
-      "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.49/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.49/screenshot_02-iphone-1170x2532.png"
-      ],
-      "sha256" : "158d870eee4c3187b05518446c05464062aebffd498e190bfc0aa9a19d502f54",
-      "size" : 7793003,
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "60ddf779aa5aa18b2f3ade2abe2b45d9dc3639f2987eea82849ec8064ad9ca7f",
+      "size" : 1271693,
       "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 17,
+        "coreSize" : 168592,
+        "downloadCount" : 11,
         "forkCount" : 0,
-        "impressionCount" : 2,
+        "impressionCount" : 27,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 2,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.49",
-      "versionDate" : "2022-09-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.48...0.0.49"
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.26",
+      "versionDate" : "2022-09-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.25...0.0.26"
     },
     {
       "beta" : false,
@@ -552,42 +588,6 @@
       "version" : "0.4.8",
       "versionDate" : "2021-12-06T00:00:00Z",
       "versionDescription" : "Release 0.4.8"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "60ddf779aa5aa18b2f3ade2abe2b45d9dc3639f2987eea82849ec8064ad9ca7f",
-      "size" : 1271693,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 8,
-        "forkCount" : 0,
-        "impressionCount" : 27,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.26",
-      "versionDate" : "2022-09-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.25...0.0.26"
     },
     {
       "beta" : false,
@@ -1220,25 +1220,25 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.317/Cloud-Cuckoo-iOS.ipa",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.319/Cloud-Cuckoo-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.317/Cloud-Cuckoo.png",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.319/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.317/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.319/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.317/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.319/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
       "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.317/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.317/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.317/screenshot_02-iphone-750x1334.png"
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.319/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.319/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.319/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "3c070c45c08198d1767ce70f821ea0df37a3e7ffbbadd0f939c7d829516ae866",
-      "size" : 1236686,
+      "sha256" : "2ad04c712e7d780f5a05e3c6072c6295a17637ee47540b1c5553f47270499cd6",
+      "size" : 1236684,
       "stats" : {
         "coreSize" : 67792,
         "downloadCount" : 2,
@@ -1251,9 +1251,9 @@
       },
       "subtitle" : "A whimsical game of excitement and delight",
       "tintColor" : "AF52DE",
-      "version" : "0.9.317",
+      "version" : "0.9.319",
       "versionDate" : "2022-09-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.316...0.9.317"
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.318...0.9.319"
     },
     {
       "beta" : false,

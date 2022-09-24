@@ -33,7 +33,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3495,
+        "impressionCount" : 3502,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 264,
@@ -70,7 +70,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 357,
+        "impressionCount" : 363,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -138,10 +138,10 @@
         "coreSize" : 170672,
         "downloadCount" : 28,
         "forkCount" : 1,
-        "impressionCount" : 254,
+        "impressionCount" : 262,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 27,
+        "viewCount" : 28,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -175,7 +175,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 545,
+        "impressionCount" : 550,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 59,
@@ -212,7 +212,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 476,
+        "impressionCount" : 482,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -259,12 +259,12 @@
       "size" : 7745230,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 21,
+        "downloadCount" : 23,
         "forkCount" : 0,
-        "impressionCount" : 29,
+        "impressionCount" : 34,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -353,7 +353,7 @@
       "size" : 7793003,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 11,
+        "downloadCount" : 13,
         "forkCount" : 0,
         "impressionCount" : 2,
         "issueCount" : 0,
@@ -400,10 +400,10 @@
         "coreSize" : 170688,
         "downloadCount" : 11,
         "forkCount" : 0,
-        "impressionCount" : 22,
+        "impressionCount" : 31,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 5,
+        "viewCount" : 7,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -578,7 +578,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3118,
+        "impressionCount" : 3122,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 178,
@@ -857,6 +857,42 @@
       "versionDescription" : "Release 0.0.7"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "60ddf779aa5aa18b2f3ade2abe2b45d9dc3639f2987eea82849ec8064ad9ca7f",
+      "size" : 1271693,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 4,
+        "forkCount" : 0,
+        "impressionCount" : 6,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.26",
+      "versionDate" : "2022-09-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.25...0.0.26"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
@@ -990,7 +1026,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 526,
+        "impressionCount" : 532,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1035,7 +1071,7 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 511,
+        "impressionCount" : 515,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -1077,7 +1113,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 606,
+        "impressionCount" : 611,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 33,
@@ -1129,10 +1165,10 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 656,
+        "impressionCount" : 663,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 60,
+        "viewCount" : 61,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1178,40 +1214,46 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res-iOS.ipa",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.316/Cloud-Cuckoo-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.316/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.316/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.26/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "60ddf779aa5aa18b2f3ade2abe2b45d9dc3639f2987eea82849ec8064ad9ca7f",
-      "size" : 1271693,
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.316/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.316/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.316/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.316/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "5c3503f20231b93dbf6e1a1cae96709162061172025de60695b8504dc61f25a3",
+      "size" : 1236220,
       "stats" : {
-        "coreSize" : 168592,
+        "coreSize" : 67792,
         "downloadCount" : 2,
-        "forkCount" : 0,
+        "forkCount" : 1,
         "impressionCount" : 1,
         "issueCount" : 0,
-        "starCount" : 0,
+        "starCount" : 2,
         "viewCount" : 1,
         "watcherCount" : 0
       },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.26",
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.316",
       "versionDate" : "2022-09-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.25...0.0.26"
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.315...0.9.316"
     },
     {
       "beta" : false,
@@ -1247,7 +1289,7 @@
         "coreSize" : 170240,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 20,
+        "impressionCount" : 28,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 5,
@@ -1284,7 +1326,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 748,
+        "impressionCount" : 753,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 61,
@@ -1320,7 +1362,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 768,
+        "impressionCount" : 775,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 55,
@@ -1356,7 +1398,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 563,
+        "impressionCount" : 568,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -1407,48 +1449,6 @@
       "version" : "0.0.19",
       "versionDate" : "2022-09-23T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.18...0.0.19"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.315/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.315/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.315/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.315/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.315/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.315/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.315/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "1194dc995b64b46c9c84d03c911e20d1c4f807804270f7051636882a94ad7fb9",
-      "size" : 1236220,
-      "stats" : {
-        "coreSize" : 67792,
-        "downloadCount" : 1,
-        "forkCount" : 1,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.315",
-      "versionDate" : "2022-09-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.314...0.9.315"
     }
   ],
   "fundingSources" : [

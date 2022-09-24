@@ -1093,13 +1093,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://osx.telegram.org/updates/Telegram-9.0.1.236872.app.zip",
+      "downloadURL" : "https://osx.telegram.org/updates/Telegram-9.0.1.237027.app.zip",
       "homepage" : "https://macos.telegram.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/AppIcon.png",
       "localizedDescription" : "Messaging app with a focus on speed and security",
       "name" : "Telegram for macOS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/README.md",
-      "sha256" : "cf50829dda1aeba13d5ef58bd21effe47d930458a663282435a43d26cc1ed5c1",
+      "sha256" : "58e850a5ee2bd3eb991e08561cb2e3b1a71b0300b2957edc6dbc3034c0a4c2e5",
       "stats" : {
         "downloadCount" : 3210,
         "impressionCount" : 2327,
@@ -1107,8 +1107,8 @@
       },
       "subtitle" : "Messaging app with a focus on speed and security",
       "tintColor" : "87CAEB",
-      "version" : "9.0.1,236872",
-      "versionDate" : "2022-09-22T00:00:00Z"
+      "version" : "9.0.1,237027",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -1632,8 +1632,8 @@
       "sha256" : "e678e35f530052cda4d697d7c007a3a49e13b8fb2e310649cd7a612b7f6f4bdc",
       "stats" : {
         "downloadCount" : 1350,
-        "impressionCount" : 2870,
-        "viewCount" : 173
+        "impressionCount" : 2871,
+        "viewCount" : 174
       },
       "subtitle" : "Native GUI tool for relational databases",
       "tintColor" : "FBE0A3",
@@ -1701,8 +1701,8 @@
       "sha256" : "d1a17bb4c8c62960d7ae7ff352a3647bc3109b8989dae4ed7b51cf8a71048768",
       "stats" : {
         "downloadCount" : 1152,
-        "impressionCount" : 769,
-        "viewCount" : 42
+        "impressionCount" : 770,
+        "viewCount" : 43
       },
       "subtitle" : "Tools to protect your emails and files",
       "tintColor" : "FFFFFF",
@@ -1745,7 +1745,7 @@
       "sha256" : "d8d37a114c9dab2f16a56e60d8a977115ba34fe408ff7947d0d74028f1f22843",
       "stats" : {
         "downloadCount" : 1025,
-        "impressionCount" : 2566,
+        "impressionCount" : 2567,
         "viewCount" : 159
       },
       "subtitle" : "Tool to hide status bar icons",
@@ -1767,7 +1767,7 @@
       "sha256" : "afc21148e115b0a575834583526a302cd34bf4e18d368801f5e5c182e9690fa2",
       "stats" : {
         "downloadCount" : 1019,
-        "impressionCount" : 2363,
+        "impressionCount" : 2364,
         "viewCount" : 92
       },
       "subtitle" : "Web browser",
@@ -1790,7 +1790,7 @@
       "sha256" : "e993e89c43937d6799da47831d2302295bb3f6c948de14268aff0bffd32e1949",
       "stats" : {
         "downloadCount" : 1010,
-        "impressionCount" : 2787,
+        "impressionCount" : 2788,
         "viewCount" : 256
       },
       "subtitle" : "GIT client",
@@ -1819,7 +1819,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 913,
-        "impressionCount" : 3819,
+        "impressionCount" : 3820,
         "viewCount" : 325
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -1841,7 +1841,7 @@
       "sha256" : "9fea6c6a99700222caec3a26296e65aa1196f5d6474399c48410691bf6c80b94",
       "stats" : {
         "downloadCount" : 867,
-        "impressionCount" : 2058,
+        "impressionCount" : 2059,
         "viewCount" : 141
       },
       "subtitle" : "PDF reader and note-taking application",
@@ -1863,7 +1863,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 811,
-        "impressionCount" : 1823,
+        "impressionCount" : 1824,
         "viewCount" : 115
       },
       "subtitle" : "Application for inspecting installer packages",
@@ -1884,7 +1884,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-istat-menus/README.md",
       "stats" : {
         "downloadCount" : 764,
-        "impressionCount" : 2512,
+        "impressionCount" : 2513,
         "viewCount" : 184
       },
       "subtitle" : "System monitoring app",
@@ -1906,7 +1906,7 @@
       "sha256" : "1f11155aad90527ac144dc6449761d17df7ead22395aaab673b384da27bc11eb",
       "stats" : {
         "downloadCount" : 755,
-        "impressionCount" : 2879,
+        "impressionCount" : 2880,
         "viewCount" : 207
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -1929,7 +1929,7 @@
       "sha256" : "362529796594880534667d2dade62bf94ea0f8751476b99e263e64fab69cdd91",
       "stats" : {
         "downloadCount" : 745,
-        "impressionCount" : 1869,
+        "impressionCount" : 1870,
         "viewCount" : 101
       },
       "subtitle" : "Configurable document editor that supports Markdown",
@@ -1952,7 +1952,7 @@
       "sha256" : "64f8c01e0a2b02f7473e4ab0eeae10b6c8f137450198717f5bd67e44e94b2419",
       "stats" : {
         "downloadCount" : 689,
-        "impressionCount" : 1951,
+        "impressionCount" : 1952,
         "viewCount" : 102
       },
       "subtitle" : "Desktop client for Telegram messenger",
@@ -1975,7 +1975,7 @@
       "sha256" : "1d5f4aa4c82c8cf8d858c413928be55963ccd1203552d8dc07f4ca123f814c01",
       "stats" : {
         "downloadCount" : 643,
-        "impressionCount" : 2629,
+        "impressionCount" : 2630,
         "viewCount" : 119
       },
       "subtitle" : "Electronics prototyping platform",
@@ -1997,7 +1997,7 @@
       "sha256" : "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
       "stats" : {
         "downloadCount" : 590,
-        "impressionCount" : 1842,
+        "impressionCount" : 1843,
         "viewCount" : 87
       },
       "subtitle" : "MySQL/MariaDB database management platform",
@@ -2019,8 +2019,8 @@
       "sha256" : "8e66c73ebd5d97bbe2b79e27bdfd3f06299edb7f941246ea52cc32883917df12",
       "stats" : {
         "downloadCount" : 586,
-        "impressionCount" : 3847,
-        "viewCount" : 112
+        "impressionCount" : 3848,
+        "viewCount" : 113
       },
       "subtitle" : "Web debugging Proxy application",
       "tintColor" : "CACDCC",
@@ -2041,7 +2041,7 @@
       "sha256" : "aaf439380a338730d6086fcd064246b21679009b316b8fef6cfc7aa4f74bca44",
       "stats" : {
         "downloadCount" : 513,
-        "impressionCount" : 2892,
+        "impressionCount" : 2893,
         "viewCount" : 140
       },
       "subtitle" : "Home media player",
@@ -2064,7 +2064,7 @@
       "sha256" : "af938d17dcea5701da7a990705acbd0686dfedfdbcd64721666ae0bef7644ba9",
       "stats" : {
         "downloadCount" : 500,
-        "impressionCount" : 2489,
+        "impressionCount" : 2490,
         "viewCount" : 142
       },
       "subtitle" : "Open-source KVM software",
@@ -2086,8 +2086,8 @@
       "sha256" : "f4914a6c49a2e3a815c75b199d8da31a3160e179e8272e8fb1075ce48b188e65",
       "stats" : {
         "downloadCount" : 497,
-        "impressionCount" : 2490,
-        "viewCount" : 232
+        "impressionCount" : 2492,
+        "viewCount" : 233
       },
       "subtitle" : "Photography workflow application and raw developer",
       "tintColor" : "6D4C40",
@@ -2109,7 +2109,7 @@
       "sha256" : "1aca3e8174b5d63f2e5c83be3a478197917226bb956d0dd19b17a56fe21ff93e",
       "stats" : {
         "downloadCount" : 493,
-        "impressionCount" : 2523,
+        "impressionCount" : 2524,
         "viewCount" : 136
       },
       "subtitle" : "Note taking and to-do application with synchronization capabilities",
@@ -2131,7 +2131,7 @@
       "sha256" : "d7e0dcbb3c28f383d1365f5cb6d2b55afbb8c638fd9f100b8040f72b394a1aed",
       "stats" : {
         "downloadCount" : 466,
-        "impressionCount" : 1933,
+        "impressionCount" : 1934,
         "viewCount" : 84
       },
       "subtitle" : "C and C++ IDE",
@@ -2154,7 +2154,7 @@
       "sha256" : "b711d8b8e9554baea9f1b6f053668892f0ab6ee32f3337aea974a9ba5aeed6fd",
       "stats" : {
         "downloadCount" : 464,
-        "impressionCount" : 2002,
+        "impressionCount" : 2003,
         "viewCount" : 141
       },
       "subtitle" : "Modern and intuitive HTTP Debugging Proxy app",
@@ -2205,7 +2205,7 @@
       "sha256" : "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
       "stats" : {
         "downloadCount" : 442,
-        "impressionCount" : 1798,
+        "impressionCount" : 1799,
         "viewCount" : 85
       },
       "subtitle" : "Screen capture tool with mark up and sharing features",
@@ -2227,7 +2227,7 @@
       "sha256" : "2d0d3bdc945b42c0c1fe79b1eb74e5969b5f768ffc56aa286d73d3492873b173",
       "stats" : {
         "downloadCount" : 348,
-        "impressionCount" : 2005,
+        "impressionCount" : 2006,
         "viewCount" : 136
       },
       "subtitle" : "Open-source, KeePass-client and password manager",
@@ -2249,7 +2249,7 @@
       "sha256" : "a732c538287c99774ce939f840952d6713ac204e2a81baa760b1d4ef9cca1a73",
       "stats" : {
         "downloadCount" : 336,
-        "impressionCount" : 2364,
+        "impressionCount" : 2365,
         "viewCount" : 227
       },
       "subtitle" : "Retro video game emulation",
@@ -2271,7 +2271,7 @@
       "sha256" : "d393c6fb175d8e5f671361e1e2e4578fbab0eb6a03a2226507cad953a8a819da",
       "stats" : {
         "downloadCount" : 309,
-        "impressionCount" : 2282,
+        "impressionCount" : 2283,
         "viewCount" : 146
       },
       "subtitle" : "HTTP client that helps testing and describing APIs",
@@ -2293,7 +2293,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-element/README.md",
       "stats" : {
         "downloadCount" : 290,
-        "impressionCount" : 3531,
+        "impressionCount" : 3532,
         "viewCount" : 176
       },
       "subtitle" : "Matrix collaboration client",
@@ -2316,7 +2316,7 @@
       "sha256" : "115c40eb710085969a72a24d5d84ae2c05260192cc68a22e73e99e148c6638da",
       "stats" : {
         "downloadCount" : 286,
-        "impressionCount" : 2570,
+        "impressionCount" : 2571,
         "viewCount" : 149
       },
       "subtitle" : "Animated screen capture application",
@@ -2337,7 +2337,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-daisydisk/README.md",
       "stats" : {
         "downloadCount" : 247,
-        "impressionCount" : 2544,
+        "impressionCount" : 2545,
         "viewCount" : 190
       },
       "subtitle" : "Disk space visualizer",
@@ -2360,7 +2360,7 @@
       "sha256" : "9168fc1f7a340bdefb8e8669313d7f9669c13d5f5504d7df116944dbbb8f7f69",
       "stats" : {
         "downloadCount" : 239,
-        "impressionCount" : 2277,
+        "impressionCount" : 2278,
         "viewCount" : 166
       },
       "subtitle" : "Free and open-source RSS reader",
@@ -2381,7 +2381,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-league-of-legends/README.md",
       "stats" : {
         "downloadCount" : 216,
-        "impressionCount" : 744,
+        "impressionCount" : 745,
         "viewCount" : 52
       },
       "subtitle" : "Multiplayer online battle arena game",
@@ -2403,7 +2403,7 @@
       "sha256" : "f9882c1ea469c57d8c6d00012d0dc59735efeb48b0c504cccd13f03bb5184bed",
       "stats" : {
         "downloadCount" : 188,
-        "impressionCount" : 1895,
+        "impressionCount" : 1896,
         "viewCount" : 131
       },
       "subtitle" : "Fast and lightweight IDE",
@@ -2689,13 +2689,13 @@
       "categories" : [
         "public.app-category.games"
       ],
-      "downloadURL" : "https://releases.wildfiregames.com/0ad-0.0.25b-alpha-osx64.dmg",
+      "downloadURL" : "https://releases.wildfiregames.com/0ad-0.0.26-alpha-osx64.dmg",
       "homepage" : "https://play0ad.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/AppIcon.png",
       "localizedDescription" : "Real-time strategy game",
       "name" : "0 A.D.",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-0-ad/README.md",
-      "sha256" : "d1a2073dee3435d8a78bf289206248c9ed6be5e17f4ba1ac8412caf6d0eae0b0",
+      "sha256" : "f8f0f9237d33f3b2acabc1d5b50ee6da32768231d5610a2ff52d1e65df76bf2c",
       "stats" : {
         "downloadCount" : 34,
         "impressionCount" : 2241,
@@ -2703,7 +2703,8 @@
       },
       "subtitle" : "Real-time strategy game",
       "tintColor" : "776742",
-      "version" : "0.0.25b-alpha"
+      "version" : "0.0.26-alpha",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -4129,19 +4130,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://mediaatelier.com/CheatSheet/CheatSheet_1.6.3.zip",
+      "downloadURL" : "https://www.mediaatelier.com/CheatSheet/CheatSheet_1.6.4.dmg",
       "homepage" : "https://www.mediaatelier.com/CheatSheet/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-cheatsheet/AppIcon.png",
       "localizedDescription" : "Tool to list all active shortcuts of the current application",
       "name" : "CheatSheet",
-      "sha256" : "1bfd6b85e8180d33bc6ba19620b5c6f083536d749bbd84c66d0a47f93459ee17",
+      "sha256" : "0af341585bc93a6935266e280c2661642cd8496ceb37ccad4056ecf2f002ea34",
       "stats" : {
         "downloadCount" : 988,
         "impressionCount" : 999
       },
       "subtitle" : "Tool to list all active shortcuts of the current application",
       "tintColor" : "A6A6A6",
-      "version" : "1.6.3"
+      "version" : "1.6.4",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -5484,20 +5486,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://updatecdn.meeting.qq.com/cos/65f61cbaa77157dfc47de068775210e3/TencentMeeting_0300000000_3.11.3.453.publish.x86_64.dmg",
+      "downloadURL" : "https://updatecdn.meeting.qq.com/cos/33ec898d46f9a28983a813e7de83fe58/TencentMeeting_0300000000_3.11.5.437.publish.x86_64.dmg",
       "homepage" : "https://meeting.tencent.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tencent-meeting/AppIcon.png",
       "localizedDescription" : "Cloud video conferencing",
       "name" : "Tencent Meeting",
-      "sha256" : "afe99aa226eb4f0a2ee597aca70269f0264572a48ebb3740f29d09c7f9898e9e",
+      "sha256" : "efb26ef06367709f437ad819fe97d47ef2ebec0f7d03c7acf5b75c180ebd41a0",
       "stats" : {
         "downloadCount" : 402,
         "impressionCount" : 1482
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
-      "version" : "3.11.3.453,65f61cbaa77157dfc47de068775210e3",
-      "versionDate" : "2022-09-22T00:00:00Z"
+      "version" : "3.11.5.437,33ec898d46f9a28983a813e7de83fe58",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -5555,20 +5557,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v6.0.6/Netron-6.0.6-mac.zip",
+      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v6.0.7/Netron-6.0.7-mac.zip",
       "homepage" : "https://github.com/lutzroeder/netron",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-netron/AppIcon.png",
       "localizedDescription" : "Visualizer for neural network, deep learning, and machine learning models",
       "name" : "Netron",
-      "sha256" : "f0dab31061970f78f53959e2446e2f012ec4468992c28020971cd0ac919a185b",
+      "sha256" : "ef4bed117acce8107987c543d6a187ec7c174a7c966bfbaeda1c9fb6e00b1469",
       "stats" : {
         "downloadCount" : 381,
         "impressionCount" : 1199
       },
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
       "tintColor" : "83A7B8",
-      "version" : "6.0.6",
-      "versionDate" : "2022-09-17T00:00:00Z"
+      "version" : "6.0.7",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -6712,20 +6714,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.8.10/rocketchat-3.8.10-mac.dmg",
+      "downloadURL" : "https://github.com/RocketChat/Rocket.Chat.Electron/releases/download/3.8.11/rocketchat-3.8.11-mac.dmg",
       "homepage" : "https://rocket.chat/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rocket-chat/AppIcon.png",
       "localizedDescription" : "Official desktop client for Rocket.Chat",
       "name" : "Rocket.Chat",
-      "sha256" : "f8bcb393d63fda423d46f763ddbb8f8a97e71180e2ddb1d7ba4f2de9b031e210",
+      "sha256" : "17817045945a9cbfd4779d194ea84407734987c2765b8c661802ec92d2803a96",
       "stats" : {
         "downloadCount" : 218,
         "impressionCount" : 558
       },
       "subtitle" : "Official desktop client for Rocket.Chat",
       "tintColor" : "E9495E",
-      "version" : "3.8.10",
-      "versionDate" : "2022-09-22T00:00:00Z"
+      "version" : "3.8.11",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -8564,20 +8566,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.3/Clash.for.Windows-0.20.3.dmg",
+      "downloadURL" : "https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.20.4/Clash.for.Windows-0.20.4.dmg",
       "homepage" : "https://github.com/Fndroid/clash_for_windows_pkg",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clash-for-windows/AppIcon.png",
       "localizedDescription" : "GUI based on Clash",
       "name" : "Clash for Windows",
-      "sha256" : "af22349e094fc0b733610720e68290d431159a631002a213febbb8522bed072f",
+      "sha256" : "4bec806d376cb4ad187b3206967cec19678167e33b9c46c998bfd25118cba539",
       "stats" : {
         "downloadCount" : 109,
         "impressionCount" : 683
       },
       "subtitle" : "GUI based on Clash",
       "tintColor" : "BAC3D0",
-      "version" : "0.20.3",
-      "versionDate" : "2022-09-16T00:00:00Z"
+      "version" : "0.20.4",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -10202,20 +10204,20 @@
       "categories" : [
         "public.app-category.entertainment"
       ],
-      "downloadURL" : "https://dldir1.qq.com/qqtv/mac/QQLive_distribute_universal_2.54.0.53457.dmg",
+      "downloadURL" : "https://dldir1.qq.com/qqtv/mac/QQLive_distribute_universal_2.54.1.53461.dmg",
       "homepage" : "https://v.qq.com/download.html#mac",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-qqlive/AppIcon.png",
       "localizedDescription" : "Tencent video streaming and sharing platform",
       "name" : "QQLive",
-      "sha256" : "209fb3e49c3224a0392ed72948e049bee21f58797de4aedae566aed81d2faab4",
+      "sha256" : "d206194b48bb6fa4f5b3bfedf8d8d4096ff16e1f17a3c86c2a3ebea0bad3fed3",
       "stats" : {
         "downloadCount" : 73,
         "impressionCount" : 967
       },
       "subtitle" : "Tencent video streaming and sharing platform",
       "tintColor" : "84BF85",
-      "version" : "2.54.0.53457",
-      "versionDate" : "2022-09-17T00:00:00Z"
+      "version" : "2.54.1.53461",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -11802,8 +11804,8 @@
       },
       "subtitle" : "Track and update to the latest versions of installed software",
       "tintColor" : "90A3A3",
-      "version" : "2.2.2,13733",
-      "versionDate" : "2022-07-18T00:00:00Z"
+      "version" : "2.3.0,14069",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -51992,20 +51994,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://mediaatelier.com/Usage/Usage_1.4.5.2.dmg",
+      "downloadURL" : "https://mediaatelier.com/Usage/Usage_1.4.6.dmg",
       "homepage" : "https://www.mediaatelier.com/Usage/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-usage/AppIcon.png",
       "localizedDescription" : "Tracks application usage",
       "name" : "Usage",
-      "sha256" : "cd7d6516f7ec0b9d020afcdac6b7e430f92a5089de040cf31dbf06dbacae9d3c",
+      "sha256" : "1a782b03b08b544eb1277c18576ce14e9388510f53f6e3bda4a6793bd2780c66",
       "stats" : {
         "downloadCount" : 9,
         "impressionCount" : 77
       },
       "subtitle" : "Tracks application usage",
       "tintColor" : "96D29B",
-      "version" : "1.4.5.2",
-      "versionDate" : "2022-08-19T00:00:00Z"
+      "version" : "1.4.6",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -61410,17 +61412,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://s3-us-west-2.amazonaws.com/confluent.cloud/confluent-cli/archives/2.25.0/confluent_v2.25.0_darwin_amd64.tar.gz",
+      "downloadURL" : "https://s3-us-west-2.amazonaws.com/confluent.cloud/confluent-cli/archives/2.26.0/confluent_v2.26.0_darwin_amd64.tar.gz",
       "homepage" : "https://docs.confluent.io/confluent-cli/current/overview.html",
       "localizedDescription" : "Enables developers to manage Confluent Cloud or Confluent Platform",
       "name" : "Confluent CLI",
-      "sha256" : "e59810cfabb51ba0f459436008de851b3311917e4bf4ecd9783122cdca192b2f",
+      "sha256" : "6e8586f221724fe44ef9b951dde6f8a99d0db4aa904d0c3d647c8a9a7f7cfa50",
       "stats" : {
         "downloadCount" : 180
       },
       "subtitle" : "Enables developers to manage Confluent Cloud or Confluent Platform",
-      "version" : "2.25.0",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "2.26.0",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -67838,17 +67840,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.24",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.26",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic",
-      "sha256" : "63759d49361c69e404800dccba81175cac63e1423d3034e90d298eaf50184cf7",
+      "sha256" : "a51be528376f4e1e917b507101221788feb5be5ecbc615ebd1e1e0e3be25015a",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.24",
-      "versionDate" : "2022-09-11T00:00:00Z"
+      "version" : "2.16.26",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -68800,17 +68802,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/dognotdog/ptpwebcam/releases/download/v1.3.0/PTP_Webcam-v1.3.0.pkg",
+      "downloadURL" : "https://github.com/dognotdog/ptpwebcam/releases/download/v1.3.1/PTP_Webcam-v1.3.1.pkg",
       "homepage" : "https://ptpwebcam.org/",
       "localizedDescription" : "DSLR live view video plugin",
       "name" : "ptpwebcam",
-      "sha256" : "3645fcfc2f8a6adc510c13399b44bac2d9e20dc9a2b50de6b4c441d9a769ec61",
+      "sha256" : "43d38fd1d047d1119201f6cda21ddee6e8272bdae7a6908c0ccf0dee6850ee7c",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "DSLR live view video plugin",
-      "version" : "1.3.0",
-      "versionDate" : "2022-07-15T00:00:00Z"
+      "version" : "1.3.1",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -69674,17 +69676,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.24",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.26",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic Batch converter",
-      "sha256" : "c18cd4270e8c398a29020697091603a0dde1adbebb2df8eab908c63be02d29ca",
+      "sha256" : "7c7726202571471948558e70d886a1287742211d78996f13a6ea215a62ca023d",
       "stats" : {
         "downloadCount" : 4
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.24",
-      "versionDate" : "2022-09-11T00:00:00Z"
+      "version" : "2.16.26",
+      "versionDate" : "2022-09-24T21:21:41Z"
     },
     {
       "beta" : false,
@@ -74008,90 +74010,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "cardhop",
-      "caption" : "Cardhop updated from 2.2,1090 to 2.2.1,1106",
-      "date" : "2022-09-22T03:11:38Z",
-      "identifier" : "release-cardhop-2.2.1,1106",
-      "title" : "New Release: Cardhop 2.2.1,1106"
-    },
-    {
-      "appID" : "universal-media-server",
-      "caption" : "Universal Media Server updated from 11.4.0 to 11.4.1",
-      "date" : "2022-09-22T03:11:38Z",
-      "identifier" : "release-universal-media-server-11.4.1",
-      "title" : "New Release: Universal Media Server 11.4.1"
-    },
-    {
-      "appID" : "wowup",
-      "caption" : "WowUp updated from 2.8.3 to 2.9.0",
-      "date" : "2022-09-22T03:11:38Z",
-      "identifier" : "release-wowup-2.9.0",
-      "title" : "New Release: WowUp 2.9.0"
-    },
-    {
-      "appID" : "trezor-suite",
-      "caption" : "TREZOR Suite updated from 22.8.2 to 22.9.3",
-      "date" : "2022-09-22T03:11:38Z",
-      "identifier" : "release-trezor-suite-22.9.3",
-      "title" : "New Release: TREZOR Suite 22.9.3"
-    },
-    {
-      "appID" : "google-web-designer",
-      "caption" : "Google Web Designer updated from 9.0.8.0 to 11.1.0.0",
-      "date" : "2022-09-22T03:11:38Z",
-      "identifier" : "release-google-web-designer-11.1.0.0",
-      "title" : "New Release: Google Web Designer 11.1.0.0"
-    },
-    {
-      "appID" : "progressive-downloader",
-      "caption" : "Progressive Downloader updated from 5.3 to 5.4",
-      "date" : "2022-09-22T03:11:39Z",
-      "identifier" : "release-progressive-downloader-5.4",
-      "title" : "New Release: Progressive Downloader 5.4"
-    },
-    {
-      "appID" : "integrity",
-      "caption" : "Integrity updated from 12.4.3 to 12.4.5",
-      "date" : "2022-09-22T03:11:39Z",
-      "identifier" : "release-integrity-12.4.5",
-      "title" : "New Release: Integrity 12.4.5"
-    },
-    {
-      "appID" : "privadovpn",
-      "caption" : "PrivadoVPN updated from 3.0.0,576942783 to 3.1.0,646499799",
-      "date" : "2022-09-22T03:11:39Z",
-      "identifier" : "release-privadovpn-3.1.0,646499799",
-      "title" : "New Release: PrivadoVPN 3.1.0,646499799"
-    },
-    {
-      "appID" : "freeyourmusic",
-      "caption" : "FreeYourMusic updated from 7.1.0 to 7.1.1",
-      "date" : "2022-09-22T03:11:39Z",
-      "identifier" : "release-freeyourmusic-7.1.1",
-      "title" : "New Release: FreeYourMusic 7.1.1"
-    },
-    {
-      "appID" : "trainerroad",
-      "caption" : "TrainerRoad updated from 2022.35.0.204 to 2022.36.0.205",
-      "date" : "2022-09-22T03:11:39Z",
-      "identifier" : "release-trainerroad-2022.36.0.205",
-      "title" : "New Release: TrainerRoad 2022.36.0.205"
-    },
-    {
-      "appID" : "live-home-3d",
-      "caption" : "Live Home 3D updated from 4.5 to 4.5.1",
-      "date" : "2022-09-22T03:11:39Z",
-      "identifier" : "release-live-home-3d-4.5.1",
-      "title" : "New Release: Live Home 3D 4.5.1"
-    },
-    {
-      "appID" : "weiyun",
-      "caption" : "Weiyun updated from 5.2.1184 to 5.2.1238",
-      "date" : "2022-09-22T03:11:40Z",
-      "identifier" : "release-weiyun-5.2.1238",
-      "title" : "New Release: Weiyun 5.2.1238"
-    },
-    {
       "appID" : "clay",
       "caption" : "clay updated from 1.12.5 to 2.0.0",
       "date" : "2022-09-22T03:11:40Z",
@@ -74204,13 +74122,6 @@
       "title" : "New Release: spires 2.0.7"
     },
     {
-      "appID" : "tencent-meeting",
-      "caption" : "Tencent Meeting updated from 3.11.2.475,0ee6cf2c4d40b55915f931f49d707d98 to 3.11.3.453,65f61cbaa77157dfc47de068775210e3",
-      "date" : "2022-09-22T04:19:16Z",
-      "identifier" : "release-tencent-meeting-3.11.3.453,65f61cbaa77157dfc47de068775210e3",
-      "title" : "New Release: Tencent Meeting 3.11.3.453,65f61cbaa77157dfc47de068775210e3"
-    },
-    {
       "appID" : "electron",
       "caption" : "Electron updated from 20.1.4 to 20.2.0",
       "date" : "2022-09-22T07:39:55Z",
@@ -74321,13 +74232,6 @@
       "date" : "2022-09-22T22:22:43Z",
       "identifier" : "release-pgadmin4-6.14",
       "title" : "New Release: pgAdmin4 6.14"
-    },
-    {
-      "appID" : "rocket-chat",
-      "caption" : "Rocket.Chat updated from 3.8.9 to 3.8.10",
-      "date" : "2022-09-22T22:22:43Z",
-      "identifier" : "release-rocket-chat-3.8.10",
-      "title" : "New Release: Rocket.Chat 3.8.10"
     },
     {
       "appID" : "feishu",
@@ -74706,6 +74610,104 @@
       "date" : "2022-09-24T04:18:10Z",
       "identifier" : "release-wonderfultools-screensaver-1.0",
       "title" : "New Release: Wonderful Tools Screensaver 1.0"
+    },
+    {
+      "appID" : "telegram",
+      "caption" : "Telegram for macOS updated from 9.0.1,236872 to 9.0.1,237027",
+      "date" : "2022-09-24T21:21:42Z",
+      "identifier" : "release-telegram-9.0.1,237027",
+      "title" : "New Release: Telegram for macOS 9.0.1,237027"
+    },
+    {
+      "appID" : "0-ad",
+      "caption" : "0 A.D. updated from 0.0.25b-alpha to 0.0.26-alpha",
+      "date" : "2022-09-24T21:21:43Z",
+      "identifier" : "release-0-ad-0.0.26-alpha",
+      "title" : "New Release: 0 A.D. 0.0.26-alpha"
+    },
+    {
+      "appID" : "cheatsheet",
+      "caption" : "CheatSheet updated from 1.6.3 to 1.6.4",
+      "date" : "2022-09-24T21:21:43Z",
+      "identifier" : "release-cheatsheet-1.6.4",
+      "title" : "New Release: CheatSheet 1.6.4"
+    },
+    {
+      "appID" : "tencent-meeting",
+      "caption" : "Tencent Meeting updated from 3.11.3.453,65f61cbaa77157dfc47de068775210e3 to 3.11.5.437,33ec898d46f9a28983a813e7de83fe58",
+      "date" : "2022-09-24T21:21:43Z",
+      "identifier" : "release-tencent-meeting-3.11.5.437,33ec898d46f9a28983a813e7de83fe58",
+      "title" : "New Release: Tencent Meeting 3.11.5.437,33ec898d46f9a28983a813e7de83fe58"
+    },
+    {
+      "appID" : "netron",
+      "caption" : "Netron updated from 6.0.6 to 6.0.7",
+      "date" : "2022-09-24T21:21:43Z",
+      "identifier" : "release-netron-6.0.7",
+      "title" : "New Release: Netron 6.0.7"
+    },
+    {
+      "appID" : "rocket-chat",
+      "caption" : "Rocket.Chat updated from 3.8.10 to 3.8.11",
+      "date" : "2022-09-24T21:21:44Z",
+      "identifier" : "release-rocket-chat-3.8.11",
+      "title" : "New Release: Rocket.Chat 3.8.11"
+    },
+    {
+      "appID" : "clash-for-windows",
+      "caption" : "Clash for Windows updated from 0.20.3 to 0.20.4",
+      "date" : "2022-09-24T21:21:44Z",
+      "identifier" : "release-clash-for-windows-0.20.4",
+      "title" : "New Release: Clash for Windows 0.20.4"
+    },
+    {
+      "appID" : "qqlive",
+      "caption" : "QQLive updated from 2.54.0.53457 to 2.54.1.53461",
+      "date" : "2022-09-24T21:21:44Z",
+      "identifier" : "release-qqlive-2.54.1.53461",
+      "title" : "New Release: QQLive 2.54.1.53461"
+    },
+    {
+      "appID" : "macupdater",
+      "caption" : "MacUpdater updated from 2.2.2,13733 to 2.3.0,14069",
+      "date" : "2022-09-24T21:21:44Z",
+      "identifier" : "release-macupdater-2.3.0,14069",
+      "title" : "New Release: MacUpdater 2.3.0,14069"
+    },
+    {
+      "appID" : "usage",
+      "caption" : "Usage updated from 1.4.5.2 to 1.4.6",
+      "date" : "2022-09-24T21:21:44Z",
+      "identifier" : "release-usage-1.4.6",
+      "title" : "New Release: Usage 1.4.6"
+    },
+    {
+      "appID" : "confluent-cli",
+      "caption" : "Confluent CLI updated from 2.25.0 to 2.26.0",
+      "date" : "2022-09-24T21:21:44Z",
+      "identifier" : "release-confluent-cli-2.26.0",
+      "title" : "New Release: Confluent CLI 2.26.0"
+    },
+    {
+      "appID" : "dcp-o-matic",
+      "caption" : "DCP-o-matic updated from 2.16.24 to 2.16.26",
+      "date" : "2022-09-24T21:21:45Z",
+      "identifier" : "release-dcp-o-matic-2.16.26",
+      "title" : "New Release: DCP-o-matic 2.16.26"
+    },
+    {
+      "appID" : "ptpwebcam",
+      "caption" : "ptpwebcam updated from 1.3.0 to 1.3.1",
+      "date" : "2022-09-24T21:21:45Z",
+      "identifier" : "release-ptpwebcam-1.3.1",
+      "title" : "New Release: ptpwebcam 1.3.1"
+    },
+    {
+      "appID" : "dcp-o-matic-batch-converter",
+      "caption" : "DCP-o-matic Batch converter updated from 2.16.24 to 2.16.26",
+      "date" : "2022-09-24T21:21:45Z",
+      "identifier" : "release-dcp-o-matic-batch-converter-2.16.26",
+      "title" : "New Release: DCP-o-matic Batch converter 2.16.26"
     }
   ],
   "platform" : "macos",

@@ -81,7 +81,7 @@
       "size" : 7745230,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 33,
+        "downloadCount" : 35,
         "forkCount" : 0,
         "impressionCount" : 42,
         "issueCount" : 0,
@@ -236,43 +236,6 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Fair-Skies",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Fair-Skies.github.io/App",
-      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
-      "localizedDescription" : "An app for weather bugs",
-      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Fair Skies",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
-      "sha256" : "50f44105a995dd651f23120a0d860613681a5886a5b76a2c9f5cdd4c701aeb92",
-      "size" : 6596437,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 25,
-        "forkCount" : 1,
-        "impressionCount" : 509,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 38,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for weather bugs",
-      "version" : "0.0.5",
-      "versionDate" : "2022-09-02T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Net-Skip",
       "categories" : [
@@ -308,7 +271,7 @@
       "size" : 7793003,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 23,
+        "downloadCount" : 25,
         "forkCount" : 0,
         "impressionCount" : 3,
         "issueCount" : 0,
@@ -320,6 +283,43 @@
       "version" : "0.0.49",
       "versionDate" : "2022-09-23T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.48...0.0.49"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Fair-Skies",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Fair-Skies.github.io/App",
+      "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
+      "localizedDescription" : "An app for weather bugs",
+      "metadataURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Fair Skies",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/README.md#b034b708858cf125c935013469aa26c5d3821df20cd5b2893845811332fc9c3f",
+      "sha256" : "50f44105a995dd651f23120a0d860613681a5886a5b76a2c9f5cdd4c701aeb92",
+      "size" : 6596437,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 25,
+        "forkCount" : 1,
+        "impressionCount" : 509,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 38,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for weather bugs",
+      "version" : "0.0.5",
+      "versionDate" : "2022-09-02T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
     },
     {
       "beta" : true,
@@ -389,7 +389,7 @@
       "size" : 1271693,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 13,
+        "downloadCount" : 15,
         "forkCount" : 0,
         "impressionCount" : 42,
         "issueCount" : 0,
@@ -894,6 +894,48 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/screenshot_01-iphone-750x1334.png"
+      ],
+      "sha256" : "2ccbe0db353faccc1dcd909089e652e9dc468e2a1b217c6e71e89d5b45b58fb9",
+      "size" : 1236686,
+      "stats" : {
+        "coreSize" : 67792,
+        "downloadCount" : 4,
+        "forkCount" : 1,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.321",
+      "versionDate" : "2022-09-25T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.320...0.9.321"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
 
@@ -1212,48 +1254,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/Cloud-Cuckoo-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.321/screenshot_01-iphone-750x1334.png"
-      ],
-      "sha256" : "2ccbe0db353faccc1dcd909089e652e9dc468e2a1b217c6e71e89d5b45b58fb9",
-      "size" : 1236686,
-      "stats" : {
-        "coreSize" : 67792,
-        "downloadCount" : 2,
-        "forkCount" : 1,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.321",
-      "versionDate" : "2022-09-25T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.320...0.9.321"
     },
     {
       "beta" : false,

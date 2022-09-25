@@ -25,8 +25,8 @@
       "sha256" : "16e87bf2461071b2d1a3736c0448fcc85fa12c68af5ec1559203263f47842079",
       "stats" : {
         "downloadCount" : 2658,
-        "impressionCount" : 10839,
-        "viewCount" : 1210
+        "impressionCount" : 10841,
+        "viewCount" : 1211
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -57,7 +57,7 @@
       "sha256" : "f677f5d2d8e6dfa4940d0ec69562bc1c7572351711e15af3f1f24e4c41b098ee",
       "stats" : {
         "downloadCount" : 16977,
-        "impressionCount" : 9760,
+        "impressionCount" : 9764,
         "viewCount" : 1016
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8580,
-        "impressionCount" : 8452,
+        "impressionCount" : 8453,
         "viewCount" : 729
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 27402,
-        "impressionCount" : 9070,
+        "impressionCount" : 9072,
         "viewCount" : 756
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 9144,
-        "impressionCount" : 8889,
+        "impressionCount" : 8890,
         "viewCount" : 688
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 5885,
-        "impressionCount" : 8734,
+        "impressionCount" : 8735,
         "viewCount" : 553
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "6228b41938ad3ef76450c843a510615b07f8058bc9a256d1ff3fbf928a384235",
       "stats" : {
         "downloadCount" : 3609,
-        "impressionCount" : 8121,
+        "impressionCount" : 8123,
         "viewCount" : 591
       },
       "subtitle" : "Text editor",
@@ -238,7 +238,7 @@
       "sha256" : "d701ee83feb0f93adaab3358c49ce06ae7e8874f5bec4595667535fe340acb3a",
       "stats" : {
         "downloadCount" : 3347,
-        "impressionCount" : 9311,
+        "impressionCount" : 9315,
         "viewCount" : 620
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -266,7 +266,7 @@
       ],
       "stats" : {
         "downloadCount" : 2610,
-        "impressionCount" : 7100,
+        "impressionCount" : 7102,
         "viewCount" : 449
       },
       "subtitle" : "Video game digital distribution service",
@@ -292,7 +292,7 @@
       "sha256" : "bb8b67957389dc52db50c3222a2ce25239eb50cb58e7b5d7ca563810cff3e063",
       "stats" : {
         "downloadCount" : 2541,
-        "impressionCount" : 7774,
+        "impressionCount" : 7776,
         "viewCount" : 478
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -326,7 +326,7 @@
       "sha256" : "cfed68a618da5d5957dc40eb3f33e27e2b1c1f31d103063c23f20918a507f470",
       "stats" : {
         "downloadCount" : 2175,
-        "impressionCount" : 8909,
+        "impressionCount" : 8910,
         "viewCount" : 896
       },
       "subtitle" : "File archiver",
@@ -358,7 +358,7 @@
       "sha256" : "73dd1ede9fd57cf436aa9b9e82fdbe9685cafdc99066081de8e4bdee1790ba0b",
       "stats" : {
         "downloadCount" : 1253,
-        "impressionCount" : 9147,
+        "impressionCount" : 9149,
         "viewCount" : 520
       },
       "subtitle" : "3D creation suite",
@@ -387,7 +387,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1192,
-        "impressionCount" : 7078,
+        "impressionCount" : 7079,
         "viewCount" : 572
       },
       "subtitle" : "Open-source Markdown editor",
@@ -447,7 +447,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 538,
-        "impressionCount" : 7244,
+        "impressionCount" : 7245,
         "viewCount" : 379
       },
       "subtitle" : "Text editor",
@@ -1149,7 +1149,7 @@
       "sha256" : "08b59c3b41bdf369a8ce8ed65c8607eeac2e73672298a04ebf53e7a802b56939",
       "stats" : {
         "downloadCount" : 2932,
-        "impressionCount" : 3235,
+        "impressionCount" : 3236,
         "viewCount" : 207
       },
       "subtitle" : "GPU-accelerated terminal emulator",
@@ -1217,8 +1217,8 @@
       "sha256" : "dc5271b496c995b8ef957f4a53c3224771002715d15917c776fddb7d4a03b2c5",
       "stats" : {
         "downloadCount" : 2608,
-        "impressionCount" : 2842,
-        "viewCount" : 175
+        "impressionCount" : 2845,
+        "viewCount" : 176
       },
       "subtitle" : "Text editor",
       "tintColor" : "65BF83",
@@ -1285,7 +1285,7 @@
       "sha256" : "6a377e707c80c26ca0327d78e32cf5cfce17a29ec60418687ed9a66b23739dca",
       "stats" : {
         "downloadCount" : 2497,
-        "impressionCount" : 2565,
+        "impressionCount" : 2568,
         "viewCount" : 221
       },
       "subtitle" : "Server and cloud storage browser",
@@ -1349,7 +1349,7 @@
       "sha256" : "b2581d5c1f08d5c6718dc4850ccfc30354588dd90f7a81bc46c54369cc725d50",
       "stats" : {
         "downloadCount" : 2459,
-        "impressionCount" : 3617,
+        "impressionCount" : 3618,
         "viewCount" : 255
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -2787,8 +2787,8 @@
       "sha256" : "efd7116aa09b6e1f87303bfc28ee42809f7e42254d1185f760787117f16c3271",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 1928,
-        "viewCount" : 130
+        "impressionCount" : 1930,
+        "viewCount" : 131
       },
       "subtitle" : "RSS/Atom news aggregator",
       "tintColor" : "A5C9E5",
@@ -3018,7 +3018,7 @@
       "sha256" : "c1a2abf468c2f02aebdda433cfd8d1ba290c3215373b2738424dcc2b9eff774a",
       "stats" : {
         "downloadCount" : 32999,
-        "impressionCount" : 1614
+        "impressionCount" : 1618
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -3143,7 +3143,7 @@
       "sha256" : "e5db119b0b161fea2d404fad01a22d9eb314ea3a2d90f3c5b14c7f773fdaf4af",
       "stats" : {
         "downloadCount" : 5370,
-        "impressionCount" : 2070
+        "impressionCount" : 2072
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -3766,7 +3766,7 @@
       "sha256" : "f8ad590d9d5cc081d3e8f9ecf559e41991aa8a72fd41ed4e7bac70e8e804a2c5",
       "stats" : {
         "downloadCount" : 1493,
-        "impressionCount" : 713
+        "impressionCount" : 714
       },
       "subtitle" : "QuickLook generator for Markdown files",
       "tintColor" : "254255",
@@ -4220,7 +4220,7 @@
       "sha256" : "05642ce3e12f6a45789aa161670a09cb2ef344f453bb5ea0d8c57f2afa3bce2c",
       "stats" : {
         "downloadCount" : 837,
-        "impressionCount" : 742
+        "impressionCount" : 743
       },
       "subtitle" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
       "tintColor" : "293154",
@@ -5432,7 +5432,7 @@
       "sha256" : "43ba5fb3d776f2d2ed1128c377aaa9d3420d792579cc9389c32e75b1f9c87a6c",
       "stats" : {
         "downloadCount" : 402,
-        "impressionCount" : 1037
+        "impressionCount" : 1038
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
@@ -6032,7 +6032,7 @@
       "sha256" : "04d55cc91d4286b8b3e6202b53deb513036957e3ac6c23639ea2c088b5d29192",
       "stats" : {
         "downloadCount" : 291,
-        "impressionCount" : 792
+        "impressionCount" : 793
       },
       "subtitle" : "PDF reader, editor and annotator",
       "tintColor" : "D87D70",
@@ -6573,7 +6573,7 @@
       "sha256" : "fccd615b398fe6f926a6b5824dd349f26a016163712e49ab0fca0e473dee73fe",
       "stats" : {
         "downloadCount" : 219,
-        "impressionCount" : 749
+        "impressionCount" : 750
       },
       "subtitle" : "Multi-platform client-side cloud file encryption tool",
       "tintColor" : "6E9471",
@@ -6928,7 +6928,7 @@
       "sha256" : "e94ba07fa606c927e6ec68c6d276cd6decb5988f00639f36a6507e847a7c3342",
       "stats" : {
         "downloadCount" : 181,
-        "impressionCount" : 1031
+        "impressionCount" : 1032
       },
       "subtitle" : "Digital logic designer and simulator",
       "tintColor" : "4DA64D",
@@ -6968,7 +6968,7 @@
       "sha256" : "43f06ec38157600bedd95a3bee5c0c9a5c754a24cf39331523edc5b70459ad73",
       "stats" : {
         "downloadCount" : 180,
-        "impressionCount" : 540
+        "impressionCount" : 541
       },
       "subtitle" : "Keyboard configurator",
       "tintColor" : "9C9595",
@@ -9105,7 +9105,7 @@
       "sha256" : "e7505b1387d00a4df1bcd66a7cc22c92885816681d0bc5006f2e7f081bfd0378",
       "stats" : {
         "downloadCount" : 94,
-        "impressionCount" : 410
+        "impressionCount" : 411
       },
       "subtitle" : "RSS and Atom reader",
       "tintColor" : "E8DBC7",
@@ -30564,7 +30564,7 @@
       "sha256" : "d90a3fa58e598dc5899b05e15bf4fb5664046777e204c261695dca0635add5be",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 540
+        "impressionCount" : 542
       },
       "subtitle" : "Manage Bitcoin, Ethereum, XRP, Litecoin, XLM and over 300 other coins and tokens",
       "tintColor" : "24406B",
@@ -40320,7 +40320,7 @@
       "sha256" : "6d44eeee0e4a27e77188f9b4dd6ae3488697f03c6489ed6eea5821ad1a2f8acb",
       "stats" : {
         "downloadCount" : 846,
-        "impressionCount" : 631
+        "impressionCount" : 634
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
@@ -44892,7 +44892,7 @@
       "sha256" : "7e2d651de3f3a27c4705cbab093ae7013f0164b8bad67961d1bfdf2d01c464f0",
       "stats" : {
         "downloadCount" : 50,
-        "impressionCount" : 221
+        "impressionCount" : 222
       },
       "subtitle" : "Dreamcast, Naomi and Atomiswave emulator",
       "tintColor" : "6A2CC5",

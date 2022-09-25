@@ -25,7 +25,7 @@
       "sha256" : "16e87bf2461071b2d1a3736c0448fcc85fa12c68af5ec1559203263f47842079",
       "stats" : {
         "downloadCount" : 2658,
-        "impressionCount" : 10846,
+        "impressionCount" : 10848,
         "viewCount" : 1212
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,8 +57,8 @@
       "sha256" : "f677f5d2d8e6dfa4940d0ec69562bc1c7572351711e15af3f1f24e4c41b098ee",
       "stats" : {
         "downloadCount" : 16977,
-        "impressionCount" : 9767,
-        "viewCount" : 1016
+        "impressionCount" : 9770,
+        "viewCount" : 1018
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8580,
-        "impressionCount" : 8456,
+        "impressionCount" : 8457,
         "viewCount" : 729
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 27402,
-        "impressionCount" : 9077,
+        "impressionCount" : 9079,
         "viewCount" : 756
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 9144,
-        "impressionCount" : 8894,
+        "impressionCount" : 8895,
         "viewCount" : 688
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 5885,
-        "impressionCount" : 8737,
+        "impressionCount" : 8738,
         "viewCount" : 553
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "6228b41938ad3ef76450c843a510615b07f8058bc9a256d1ff3fbf928a384235",
       "stats" : {
         "downloadCount" : 3609,
-        "impressionCount" : 8126,
+        "impressionCount" : 8128,
         "viewCount" : 591
       },
       "subtitle" : "Text editor",
@@ -238,7 +238,7 @@
       "sha256" : "d701ee83feb0f93adaab3358c49ce06ae7e8874f5bec4595667535fe340acb3a",
       "stats" : {
         "downloadCount" : 3347,
-        "impressionCount" : 9319,
+        "impressionCount" : 9320,
         "viewCount" : 620
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -447,7 +447,7 @@
       "sha256" : "fe3b743135f47722c712b5dbcaf7deb3fce17f02168dfeff204d6ae2ac240fc3",
       "stats" : {
         "downloadCount" : 538,
-        "impressionCount" : 7249,
+        "impressionCount" : 7250,
         "viewCount" : 379
       },
       "subtitle" : "Text editor",
@@ -479,7 +479,7 @@
       "sha256" : "184f209061b15ca15b6cdab0bdc35408b12094c369d2abba3234eb77646c212d",
       "stats" : {
         "downloadCount" : 468,
-        "impressionCount" : 7295,
+        "impressionCount" : 7296,
         "viewCount" : 516
       },
       "subtitle" : "Text, code, and markup editor",
@@ -508,7 +508,7 @@
       ],
       "stats" : {
         "downloadCount" : 405,
-        "impressionCount" : 6633,
+        "impressionCount" : 6634,
         "viewCount" : 495
       },
       "subtitle" : "Sandbox construction video game",
@@ -1080,7 +1080,7 @@
       "sha256" : "473f994698ec082f16bb20b4824dadbfb744f53a01b737b4016f6cc45f403b83",
       "stats" : {
         "downloadCount" : 3346,
-        "impressionCount" : 2343,
+        "impressionCount" : 2345,
         "viewCount" : 135
       },
       "subtitle" : "Password manager app",
@@ -1504,7 +1504,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1835,
-        "impressionCount" : 3257
+        "impressionCount" : 3259
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -2183,7 +2183,7 @@
       "sha256" : "b7b6386f13641abf8df7f95be7f6a141ea0a588bd5f8184e06f0cbc6dc13113c",
       "stats" : {
         "downloadCount" : 448,
-        "impressionCount" : 4377
+        "impressionCount" : 4378
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -3143,7 +3143,7 @@
       "sha256" : "e5db119b0b161fea2d404fad01a22d9eb314ea3a2d90f3c5b14c7f773fdaf4af",
       "stats" : {
         "downloadCount" : 5370,
-        "impressionCount" : 2076
+        "impressionCount" : 2077
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
@@ -4851,7 +4851,7 @@
       "sha256" : "dbc4ef5db9a19e1e382afe7fefa6825af2a4aa2249b5d05ba798f208f57b4fb0",
       "stats" : {
         "downloadCount" : 580,
-        "impressionCount" : 1058
+        "impressionCount" : 1060
       },
       "subtitle" : "Xcode Extension for reformatting Swift code",
       "tintColor" : "44424D",
@@ -7980,7 +7980,7 @@
       "sha256" : "adcf450d98c247fe4c45c68353f19afca3e2039c8431ec080f14000fe9cc36bf",
       "stats" : {
         "downloadCount" : 130,
-        "impressionCount" : 860
+        "impressionCount" : 861
       },
       "subtitle" : "Xcode formatter plug-in for Swift code",
       "tintColor" : "F0553B",
@@ -9339,7 +9339,7 @@
       "sha256" : "bb72eb776afb1eba34961ae5da973d5e21a592813cf9a6a7dd02c31ce32b4d74",
       "stats" : {
         "downloadCount" : 88,
-        "impressionCount" : 610
+        "impressionCount" : 611
       },
       "subtitle" : "Tool to encrypt files and folders in various cloud storage services",
       "tintColor" : "3DAC62",
@@ -9486,7 +9486,7 @@
       "sha256" : "2a1a48c608b30667671f4111f1d38455a6291210604d81ca70ef4a5f02823f5e",
       "stats" : {
         "downloadCount" : 86,
-        "impressionCount" : 615
+        "impressionCount" : 617
       },
       "subtitle" : "Generate and view a class diagram for Swift code in Xcode",
       "tintColor" : "617FFB",
@@ -9526,7 +9526,7 @@
       "sha256" : "1fb5fa69759f9bfd15e0a8ddabc6b9e2cf52e9c41ad2346b2f4c293d950c6bc4",
       "stats" : {
         "downloadCount" : 86,
-        "impressionCount" : 305
+        "impressionCount" : 307
       },
       "subtitle" : "X Certificate and Key management",
       "tintColor" : "9A7D69",
@@ -12845,7 +12845,7 @@
       "sha256" : "70d94cbf5d691c9530e974b5512a106e0bf532ab345fd911199928b8b11a3688",
       "stats" : {
         "downloadCount" : 44,
-        "impressionCount" : 387
+        "impressionCount" : 388
       },
       "tintColor" : "404040",
       "version" : "2.5,5482"
@@ -57440,7 +57440,7 @@
       "sha256" : "69c0d6602808cca60158a6d833eab8d82d59f683d3c25de34d977c83fe208dd0",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 69
+        "impressionCount" : 70
       },
       "tintColor" : "404040",
       "version" : "2.4.4i"

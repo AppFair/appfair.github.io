@@ -23,20 +23,20 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `392` | `2022-09-13T00:00:00Z` | `10 MB` | `284` | `30` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `394` | `2022-09-13T00:00:00Z` | `10 MB` | `284` | `30` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `42` | `2022-05-24T00:00:00Z` | `4.5 MB` | `4919` | `778` | `1` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `31` | `2022-09-03T00:00:00Z` | `2.2 MB` | `585` | `62` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `30` | `2022-08-27T00:00:00Z` | `4 MB` | `692` | `63` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460`` | `29` | `2022-09-23T00:00:00Z` | `8.6 MB` | `65` | `12` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `29` | `2022-09-09T00:00:00Z` | `2.2 MB` | `387` | `35` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460`` | `27` | `2022-09-23T00:00:00Z` | `8.6 MB` | `65` | `12` | `1` | `0` |  |
+| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `27` | `2022-09-20T00:00:00Z` | `3.2 MB` | `42` | `4` | `0` | `0` |  |
+| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `26` | `2022-09-23T00:00:00Z` | `3.2 MB` | `3` | `2` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `509` | `38` | `0` | `0` |  |
-| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `25` | `2022-09-20T00:00:00Z` | `3.2 MB` | `42` | `4` | `0` | `0` |  |
-| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `24` | `2022-09-23T00:00:00Z` | `3.2 MB` | `3` | `2` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `3528` | `264` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `3814` | `610` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1060` | `92` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `781` | `62` | `0` | `0` |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.26`` | `14` | `2022-09-24T00:00:00Z` | `2.4 MB` | `42` | `3` | `0` | `0` |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.26`` | `16` | `2022-09-24T00:00:00Z` | `2.4 MB` | `42` | `3` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `12` | `2022-09-23T00:00:00Z` | `3.6 MB` | `58` | `5` | `2` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2265` | `142` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2031` | `124` | `0` | `0` |  |

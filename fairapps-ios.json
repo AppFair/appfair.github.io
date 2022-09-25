@@ -83,10 +83,10 @@
         "coreSize" : 170224,
         "downloadCount" : 35,
         "forkCount" : 0,
-        "impressionCount" : 42,
+        "impressionCount" : 43,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 4,
+        "viewCount" : 5,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -112,17 +112,12 @@
       "name" : "App Fair",
       "permissions" : [
         {
-          "identifier" : "com.apple.security.files.user-selected.executable",
+          "identifier" : "com.apple.security.network.client",
           "type" : "entitlement",
-          "usageDescription" : "The App Fair installs executable apps"
+          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
         },
         {
           "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the local file system to install apps"
-        },
-        {
-          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
           "type" : "entitlement",
           "usageDescription" : "The App Fair uses the local file system to install apps"
         },
@@ -132,9 +127,14 @@
           "usageDescription" : "The App Fair acts as a server for checking for app updates"
         },
         {
-          "identifier" : "com.apple.security.network.client",
+          "identifier" : "com.apple.security.temporary-exception.files.absolute-path.read-write",
           "type" : "entitlement",
-          "usageDescription" : "The App Fair uses the network to browse the available releases and install apps"
+          "usageDescription" : "The App Fair uses the local file system to install apps"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.executable",
+          "type" : "entitlement",
+          "usageDescription" : "The App Fair installs executable apps"
         }
       ],
       "readmeURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/README.md#f06160c57009610153da3491ebeacac06e4580ad3f1288c29f645f2e64a2e9d3",
@@ -148,13 +148,13 @@
       "sha256" : "8280e9cbf6202bc4f93956a21256dcdc38e96af791c412cb59d163cd98988b23",
       "size" : 18974237,
       "stats" : {
-        "coreSize" : 67768,
+        "coreSize" : 169040,
         "downloadCount" : 28,
         "forkCount" : 1,
-        "impressionCount" : 284,
+        "impressionCount" : 286,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 30,
+        "viewCount" : 31,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -188,7 +188,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 388,
+        "impressionCount" : 389,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 35,
@@ -224,7 +224,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 587,
+        "impressionCount" : 588,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,
@@ -310,7 +310,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 510,
+        "impressionCount" : 511,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 38,
@@ -400,7 +400,7 @@
         "coreSize" : 170688,
         "downloadCount" : 11,
         "forkCount" : 0,
-        "impressionCount" : 66,
+        "impressionCount" : 67,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 12,
@@ -1035,7 +1035,7 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 543,
+        "impressionCount" : 544,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 39,
@@ -1077,7 +1077,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 639,
+        "impressionCount" : 640,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 34,
@@ -1129,7 +1129,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 694,
+        "impressionCount" : 695,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 63,
@@ -1244,7 +1244,7 @@
         "coreSize" : 168592,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 2,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -1289,7 +1289,7 @@
         "coreSize" : 170240,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 59,
+        "impressionCount" : 60,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 5,
@@ -1398,7 +1398,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 594,
+        "impressionCount" : 595,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -1416,14 +1416,14 @@
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.19/Sun-Bow-iOS.ipa",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.26/Sun-Bow-iOS.ipa",
       "fundingLinks" : [
 
       ],
       "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.19/Sun-Bow.png",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.26/Sun-Bow.png",
       "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.19/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.26/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Sun Bow",
       "permissions" : [
         {
@@ -1432,23 +1432,23 @@
           "usageDescription" : "This app needs to access the network in order to download books"
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.19/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "26b5cd3a6a934edf250758b43d1f2debd83bf70cbda80aa69ae3d935b93e24cc",
-      "size" : 9495528,
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.26/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "5496b77672f71e23c2f21848da94def027f48489726fc37e6c2cec1a5f99cc20",
+      "size" : 5821457,
       "stats" : {
-        "coreSize" : 170320,
+        "coreSize" : 168592,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 5,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 2,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "An app for sunnier days",
-      "version" : "0.0.19",
-      "versionDate" : "2022-09-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.18...0.0.19"
+      "version" : "0.0.26",
+      "versionDate" : "2022-09-25T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.25...0.0.26"
     }
   ],
   "fundingSources" : [

@@ -58,7 +58,7 @@ tr:nth-child(even) {
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `3` | `2022-08-24T00:00:00Z` | `2.3 MB` | `549` | `47` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.10`` | `3` | `2022-08-24T00:00:00Z` | `8.2 MB` | `211` | `18` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `675` | `46` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.325β`` | `2` | `2022-09-25T00:00:00Z` | `2.4 MB` | `1` | `1` | `2` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.326β`` | `2` | `2022-09-25T00:00:00Z` | `2.4 MB` | `1` | `1` | `2` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.29`` | `2` | `2022-09-25T00:00:00Z` | `2.4 MB` | `4` | `2` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `2.4 MB` | `805` | `55` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `2` | `2022-08-27T00:00:00Z` | `2.3 MB` | `10` | `1` | `0` | `0` |  |

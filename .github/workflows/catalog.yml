@@ -21,10 +21,7 @@ env:
   FAIRTOOL: "fairtool"
   # fairtool-head will build from source, which adds a few minutes
   #FAIRTOOL: "fairtool-head"
-
-  # https://github.com/actions/runner-images/issues/6283
-  GITHUB_PATH: "/home/linuxbrew/.linuxbrew/bin:/home/linuxbrew/.linuxbrew/sbin"
-
+  
 on:
   push:
     branches: [ main ]
@@ -43,6 +40,8 @@ jobs:
     steps:
       - name: "Install ${{ env.FAIRTOOL }}"
         run: |
+          # https://github.com/actions/runner-images/issues/6283
+          eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
           brew install fair-ground/tool/$FAIRTOOL
           $FAIRTOOL version
 

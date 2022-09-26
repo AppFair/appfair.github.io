@@ -3679,7 +3679,7 @@ tr:nth-child(even) {
 | [``Pext``](https://pext.io/) | ``0.32`` | `2` | `2022-08-29T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Photo Supreme Single Use``](https://www.idimager.com/home) | ``7.3.1.4538`` | `2` | `2022-09-22T00:00:00Z` |  |  |  |  | `0` |  |
 | [``PhotoZoom Pro``](https://www.benvista.com/photozoompro) | ``8.1.0`` | `2` | `2022-09-14T00:00:00Z` |  |  |  |  | `0` |  |
-| [``pivy``](https://github.com/joyent/pivy) | ``0.10.0`` | `2` | `2022-09-26T01:20:55Z` |  |  |  |  | `0` |  |
+| [``pivy``](https://github.com/joyent/pivy) | ``0.10.0`` | `2` | `2022-09-26T00:00:00Z` |  |  |  |  | `0` |  |
 | [``pktriot``](https://packetriot.com/) | ``0.14.1`` | `2` |  |  |  |  |  | `0` |  |
 | [``Podolski``](https://u-he.com/products/podolski/) | ``1.2.3,12092`` | `2` | `2022-09-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``PongSaver``](https://rogueamoeba.com/freebies/) | ``latest`` | `2` | `2022-09-18T00:00:00Z` |  |  |  |  | `0` |  |
@@ -3717,7 +3717,7 @@ tr:nth-child(even) {
 | [``castr``](https://castr.io/) | ``1.0.0`` | `1` |  |  |  |  |  | `0` |  |
 | [``catlight``](https://catlight.io/) | ``2.38.16`` | `1` | `2022-09-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Neon Wallet``](https://github.com/CityOfZion/neon-wallet) | ``2.13.2`` | `1` | `2022-09-24T00:00:00Z` |  |  |  |  | `0` |  |
-| [``CLIX``](https://rixstep.com/4/0/clix/) | ``2.4.0.0`` | `1` | `2022-09-26T01:20:55Z` |  |  |  |  | `0` |  |
+| [``CLIX``](https://rixstep.com/4/0/clix/) | ``2.4.0.0`` | `1` | `2022-09-26T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Clonk Rage``](http://www.clonk.de/cr.php) | ``1.0`` | `1` | `2022-09-04T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ColorChecker Camera Cali…``](https://calibrite.com/photo-target) | ``2.3.0`` | `1` | `2022-09-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Dash``](https://www.dash.org/) | ``18.0.1`` | `1` | `2022-09-25T00:00:00Z` |  |  |  |  | `0` |  |

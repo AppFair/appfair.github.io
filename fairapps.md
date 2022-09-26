@@ -46,10 +46,10 @@ tr:nth-child(even) {
 | [``Micro Vector``](https://Micro-Vector.github.io/App/) | ``0.0.8β`` | `7` | `2022-01-24T00:00:00Z` | `2.8 MB` | `837` | `60` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `7` | `2022-08-27T00:00:00Z` | `1.45 GB` | `645` | `34` | `0` | `0` |  |
 | [``Lottie Motion``](https://Lottie-Motion.github.io/App/) | ``0.0.96`` | `6` | `2022-08-27T00:00:00Z` | `4.2 MB` | `548` | `39` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.326β`` | `5` | `2022-09-25T00:00:00Z` | `2.4 MB` | `2` | `1` | `2` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `2.7 MB` | `1427` | `63` | `0` | `0` |  |
 | [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `5` | `2022-07-04T00:00:00Z` | `2 MB` | `1218` | `102` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.326β`` | `4` | `2022-09-25T00:00:00Z` | `2.4 MB` | `2` | `1` | `2` | `0` |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.29`` | `4` | `2022-09-25T00:00:00Z` | `2.4 MB` | `8` | `3` | `0` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `5` | `2022-09-25T00:00:00Z` | `8.9 MB` | `2` | `2` | `1` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `4` | `2022-07-20T00:00:00Z` | `12.9 MB` | `3138` | `178` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.51β`` | `4` | `2022-01-16T00:00:00Z` | `2.3 MB` | `347` | `28` | `0` | `0` |  |
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `4` | `2022-01-24T00:00:00Z` | `2.6 MB` | `671` | `56` | `0` | `0` |  |
@@ -57,7 +57,7 @@ tr:nth-child(even) {
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `4` | `2022-08-27T00:00:00Z` | `2.2 MB` | `600` | `48` | `0` | `0` |  |
 | [``Ultra Light``](https://Ultra-Light.github.io/App/) | ``0.0.7β`` | `4` | `2022-01-21T00:00:00Z` | `2.3 MB` | `731` | `62` | `0` | `0` |  |
 | [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `2.4 MB` | `1947` | `44` | `0` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `4` | `2022-09-25T00:00:00Z` | `8.9 MB` | `2` | `2` | `1` | `0` |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `3` | `2022-09-26T00:00:00Z` | `2.4 MB` | `2` | `1` | `0` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `3` | `2022-08-24T00:00:00Z` | `2.3 MB` | `551` | `47` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.10`` | `3` | `2022-08-24T00:00:00Z` | `8.2 MB` | `213` | `18` | `0` | `0` |  |
 | [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `3` | `2022-01-25T00:00:00Z` | `2.3 MB` | `675` | `46` | `0` | `0` |  |

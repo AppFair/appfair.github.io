@@ -1011,6 +1011,50 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "9d7ac4e703081d00adf630718e25c5a74d9fbd81d7564dc3f72fc1443970e811",
+      "size" : 2351597,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 5,
+        "forkCount" : 1,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.326",
+      "versionDate" : "2022-09-25T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.325...0.9.326"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Name-Sense",
       "categories" : [
 
@@ -1087,87 +1131,44 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "bundleIdentifier" : "app.Sun-Bow",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo-macOS.zip",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sun Bow",
       "permissions" : [
-
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "9d7ac4e703081d00adf630718e25c5a74d9fbd81d7564dc3f72fc1443970e811",
-      "size" : 2351597,
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "91b2bad1923721dc08570c69f7a0b955d3b57c5037dbec9e7103d0ca17756c49",
+      "size" : 8945514,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 4,
-        "forkCount" : 1,
+        "downloadCount" : 5,
+        "forkCount" : 0,
         "impressionCount" : 2,
         "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 1,
+        "starCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.326",
+      "subtitle" : "An app for sunnier days",
+      "version" : "0.0.28",
       "versionDate" : "2022-09-25T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.325...0.9.326"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.29/Media-Res-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.29/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.29/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.29/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Media-Res/App/releases/download/0.0.29/screenshot_01-mac-dark-mac-484x460.png",
-        "https://github.com/Media-Res/App/releases/download/0.0.29/screenshot_01-mac-light-mac-484x460.png"
-      ],
-      "sha256" : "0ea960f5e8314aa39d5659136e0e2de5e52a62f7ca7ae32075e63fed6aaba00a",
-      "size" : 2375825,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 4,
-        "forkCount" : 0,
-        "impressionCount" : 8,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.29",
-      "versionDate" : "2022-09-25T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.28...0.0.29"
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : false,
@@ -1472,45 +1473,44 @@
       "versionDescription" : "Release 0.0.11"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res-macOS.zip",
       "fundingLinks" : [
 
       ],
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sun Bow",
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
       "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
+
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "91b2bad1923721dc08570c69f7a0b955d3b57c5037dbec9e7103d0ca17756c49",
-      "size" : 8945514,
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Media-Res/App/releases/download/0.0.30/screenshot_01-mac-dark-mac-484x460.png",
+        "https://github.com/Media-Res/App/releases/download/0.0.30/screenshot_01-mac-light-mac-484x460.png"
+      ],
+      "sha256" : "d1fb61b874ff8a30ed27172dffc63848aeb955a9876624b45b50a4ab52364957",
+      "size" : 2375825,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 4,
+        "downloadCount" : 3,
         "forkCount" : 0,
         "impressionCount" : 2,
         "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 2,
+        "starCount" : 0,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
-      "subtitle" : "An app for sunnier days",
-      "version" : "0.0.28",
-      "versionDate" : "2022-09-25T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.30",
+      "versionDate" : "2022-09-26T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.29...0.0.30"
     },
     {
       "beta" : false,
@@ -1873,10 +1873,10 @@
     },
     {
       "appID" : "app.Media-Res",
-      "caption" : "Media Res updated from 0.0.26 to 0.0.29",
-      "date" : "2022-09-25T14:42:53Z",
-      "identifier" : "release-app.Media-Res-0.0.29",
-      "title" : "New Release: Media Res 0.0.29"
+      "caption" : "Media Res updated from 0.0.29 to 0.0.30",
+      "date" : "2022-09-26T04:26:18Z",
+      "identifier" : "release-app.Media-Res-0.0.30",
+      "title" : "New Release: Media Res 0.0.30"
     }
   ],
   "platform" : "macos"

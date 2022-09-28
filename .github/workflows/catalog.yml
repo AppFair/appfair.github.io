@@ -21,7 +21,8 @@ env:
   FAIRTOOL: "fairtool"
   # fairtool-head will build from source, which adds a few minutes
   #FAIRTOOL: "fairtool-head"
-  
+  DEVELOPER_DIR: /Applications/Xcode_14.0.1.app/Contents/Developer
+
 on:
   push:
     branches: [ main ]

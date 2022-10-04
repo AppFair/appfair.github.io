@@ -21,8 +21,7 @@ env:
   FAIRTOOL: "fairtool"
   # fairtool-head will build from source, which adds a few minutes
   #FAIRTOOL: "fairtool-head"
-  DEVELOPER_DIR: /Applications/Xcode_14.0.1.app/Contents/Developer
-
+  
 on:
   push:
     branches: [ main ]
@@ -36,10 +35,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: macos-latest
-    # broken on linux image ubuntu-20.04 version 20220922.2: "command failed with exit code 1 (use -v to see invocation)\n/lib/x86_64-linux-gnu/Scrt1.o:function _start: error: undefined reference to \'__libc_csu_fini\'\n/lib/x86_64-linux-gnu/Scrt1.o:function _start: error: undefined reference to \'__libc_csu_init\'\nclang-13: error: linker command failed with exit code 1 (use -v to see invocation)", diagnosticFile: nil)"
-
-    #runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
     timeout-minutes: 30
     steps:

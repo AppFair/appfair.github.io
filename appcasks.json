@@ -25,7 +25,7 @@
       "sha256" : "5db050bdc881290837ffd1c4fbf22c743bda869d81c5ddcc71ca4a7df220197c",
       "stats" : {
         "downloadCount" : 2860,
-        "impressionCount" : 11172,
+        "impressionCount" : 11173,
         "viewCount" : 1257
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "01c1016e7f7e504a3f350c1f65b8d88abec99ae6b6a0b7a97e707aad17d90c6d",
       "stats" : {
         "downloadCount" : 16467,
-        "impressionCount" : 10157,
+        "impressionCount" : 10158,
         "viewCount" : 1052
       },
       "subtitle" : "Web browser",
@@ -238,7 +238,7 @@
       "sha256" : "808ed03191a3939887200bf17477f805d5f40d6987a49f36490f673009eeec0b",
       "stats" : {
         "downloadCount" : 3581,
-        "impressionCount" : 9608,
+        "impressionCount" : 9609,
         "viewCount" : 633
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -292,7 +292,7 @@
       "sha256" : "40ea451a98646deabe2a94306c6f92e0efe399cb6dea153c76bc3370fac13504",
       "stats" : {
         "downloadCount" : 2559,
-        "impressionCount" : 8079,
+        "impressionCount" : 8080,
         "viewCount" : 490
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -479,7 +479,7 @@
       "sha256" : "9334031d3d43c599382f4b4eda22da12518f054b28c1565bb08a485f99ef7d64",
       "stats" : {
         "downloadCount" : 464,
-        "impressionCount" : 7541,
+        "impressionCount" : 7542,
         "viewCount" : 529
       },
       "subtitle" : "Text, code, and markup editor",
@@ -508,7 +508,7 @@
       ],
       "stats" : {
         "downloadCount" : 399,
-        "impressionCount" : 6827,
+        "impressionCount" : 6828,
         "viewCount" : 503
       },
       "subtitle" : "Sandbox construction video game",
@@ -765,7 +765,7 @@
       "sha256" : "41085009458ba1741c6a86c414190780ff3b288879aa27821fc4a985d229653c",
       "stats" : {
         "downloadCount" : 25146,
-        "impressionCount" : 4815,
+        "impressionCount" : 4816,
         "viewCount" : 329
       },
       "subtitle" : "App to build and share containerized applications and microservices",
@@ -788,7 +788,7 @@
       "sha256" : "fe243c0d9bc7f82a4367cdd366ce4d9e39ecc7b9914f3f4bc703d101e3d35164",
       "stats" : {
         "downloadCount" : 9341,
-        "impressionCount" : 3611,
+        "impressionCount" : 3612,
         "viewCount" : 269
       },
       "subtitle" : "Team communication and collaboration software",
@@ -897,7 +897,7 @@
       "sha256" : "3769f88e35c6f993c6de77549b7ea2b607b661d3692b140a5bca974cf5b8c7a8",
       "stats" : {
         "downloadCount" : 5344,
-        "impressionCount" : 5532,
+        "impressionCount" : 5533,
         "viewCount" : 553
       },
       "subtitle" : "System monitor for the menu bar",
@@ -943,7 +943,7 @@
       "sha256" : "92bf99b7ee0b664fddad1a805b8bb874cd4f41eff5b6686ec443a0cae9e31968",
       "stats" : {
         "downloadCount" : 4171,
-        "impressionCount" : 4807,
+        "impressionCount" : 4808,
         "viewCount" : 286
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1308,7 +1308,7 @@
       "sha256" : "804565a0eb0615984434b91acdc3f4c1a9a6f5b540b7b9bf8a50ce3f7e058acf",
       "stats" : {
         "downloadCount" : 2407,
-        "impressionCount" : 4184,
+        "impressionCount" : 4185,
         "viewCount" : 423
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -1503,7 +1503,7 @@
       "sha256" : "473944fd3db5af232e8c3101b4e8e060e1b37b3dd191e2df2e6e2e82c6d7026a",
       "stats" : {
         "downloadCount" : 1844,
-        "impressionCount" : 4189,
+        "impressionCount" : 4190,
         "viewCount" : 202
       },
       "subtitle" : "E-books management software",
@@ -1517,13 +1517,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.88.0.401.dmg",
+      "downloadURL" : "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.89.0.403.dmg",
       "homepage" : "https://www.skype.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/AppIcon.png",
       "localizedDescription" : "Video chat, voice call and instant messaging application",
       "name" : "Skype",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/README.md",
-      "sha256" : "b53d00e799bf225823aea7768a72a045add1c0ea416a3e0847a74f0a2ed6acf5",
+      "sha256" : "b30d4844e9a726094aac4cc84eb855907fff96445d4c1bdad45d67db32e32675",
       "stats" : {
         "downloadCount" : 1709,
         "impressionCount" : 1995,
@@ -1531,8 +1531,8 @@
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
       "tintColor" : "21A4E3",
-      "version" : "8.88.0.401",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "8.89.0.403",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -1632,7 +1632,7 @@
       "sha256" : "f7aca21e16c454d9374d2c5f3cb045d6f7f653dcdfa827e775d9c218a0c4b377",
       "stats" : {
         "downloadCount" : 1355,
-        "impressionCount" : 2985,
+        "impressionCount" : 2986,
         "viewCount" : 178
       },
       "subtitle" : "Native GUI tool for relational databases",
@@ -2024,7 +2024,7 @@
       "sha256" : "d654be872ea2532d0cdf10ff7ff4b6bc43def36f9479b9f3b098497f1bb32de0",
       "stats" : {
         "downloadCount" : 544,
-        "impressionCount" : 2971,
+        "impressionCount" : 2972,
         "viewCount" : 141
       },
       "subtitle" : "Home media player",
@@ -2188,7 +2188,7 @@
       "sha256" : "8c1ecf6fd66a9885d428a6303d9d1c5ecb811c1c35c97bdbccdad72359d96ad9",
       "stats" : {
         "downloadCount" : 441,
-        "impressionCount" : 4513
+        "impressionCount" : 4514
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2275,7 +2275,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-element/README.md",
       "stats" : {
         "downloadCount" : 323,
-        "impressionCount" : 3618,
+        "impressionCount" : 3619,
         "viewCount" : 179
       },
       "subtitle" : "Matrix collaboration client",
@@ -3401,7 +3401,7 @@
       "sha256" : "0623e4f72ee2a829559f2a61dc947994136b648474e3b070b9c36df400d50b86",
       "stats" : {
         "downloadCount" : 2415,
-        "impressionCount" : 2989
+        "impressionCount" : 2990
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
@@ -5627,20 +5627,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/syncthing/syncthing-macos/releases/download/v1.21.0-1/Syncthing-1.21.0-1.dmg",
+      "downloadURL" : "https://github.com/syncthing/syncthing-macos/releases/download/v1.22.0-1/Syncthing-1.22.0-1.dmg",
       "homepage" : "https://syncthing.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-syncthing/AppIcon.png",
       "localizedDescription" : "Real time file synchronization software",
       "name" : "Syncthing",
-      "sha256" : "2daa8bdbaa0aa97e4ac394e1aafee11306b83a7b2357fc2b349edf5eafe3adb0",
+      "sha256" : "bd1d8079d3bedb7e29afc5a884617402d06dc591be12b5ddd26e63fa533a9c0e",
       "stats" : {
         "downloadCount" : 357,
         "impressionCount" : 654
       },
       "subtitle" : "Real time file synchronization software",
       "tintColor" : "48B0DA",
-      "version" : "1.21.0-1",
-      "versionDate" : "2022-09-14T00:00:00Z"
+      "version" : "1.22.0-1",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -7436,20 +7436,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/appium/appium-inspector/releases/download/v2022.8.1/Appium-Inspector-2022.8.1-universal-mac.zip",
+      "downloadURL" : "https://github.com/appium/appium-inspector/releases/download/v2022.9.1/Appium-Inspector-2022.9.1-universal-mac.zip",
       "homepage" : "https://github.com/appium/appium-inspector/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-appium-inspector/AppIcon.png",
       "localizedDescription" : "GUI inspector for mobile apps",
       "name" : "Appium Inspector GUI",
-      "sha256" : "36f122c49fcb6e5c43d5ebd5a6e7c92635d9e227fb46ddfc05881b46d1711b2d",
+      "sha256" : "7b6cde85fc481b4a10e35a2d4e40efa36818273828533825db9735777ad7260c",
       "stats" : {
         "downloadCount" : 152,
         "impressionCount" : 927
       },
       "subtitle" : "GUI inspector for mobile apps",
       "tintColor" : "5B463C",
-      "version" : "2022.8.1",
-      "versionDate" : "2022-08-25T00:00:00Z"
+      "version" : "2022.9.1",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -8433,20 +8433,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/JOSM/josm/releases/download/18543-tested/JOSM-macOS-java17-18543.zip",
+      "downloadURL" : "https://github.com/JOSM/josm/releases/download/18565-tested/JOSM-macOS-java17-18565.zip",
       "homepage" : "https://josm.openstreetmap.de/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-josm/AppIcon.png",
       "localizedDescription" : "Extensible editor for OpenStreetMap",
       "name" : "JOSM",
-      "sha256" : "a46567f8d81f4a5c98713d010938fe36d6deeddd25e8b2527838bdc6f7b42b88",
+      "sha256" : "61eae239442a19b74845a613ce6dff8d79cd50856c48dc4243e06a2614b56d12",
       "stats" : {
         "downloadCount" : 116,
         "impressionCount" : 653
       },
       "subtitle" : "Extensible editor for OpenStreetMap",
       "tintColor" : "A79154",
-      "version" : "18543",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "18565",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -20745,20 +20745,20 @@
       "categories" : [
         "public.app-category.music"
       ],
-      "downloadURL" : "https://downloads.bitwig.com/stable/4.3.8/Bitwig%20Studio%204.3.8.dmg",
+      "downloadURL" : "https://downloads.bitwig.com/stable/4.3.9/Bitwig%20Studio%204.3.9.dmg",
       "homepage" : "https://www.bitwig.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bitwig-studio/AppIcon.png",
       "localizedDescription" : "Digital audio workstation",
       "name" : "Bitwig Studio",
-      "sha256" : "fd498a14c4894617486bf1d687d7cd630d965c6c3116e26e4d8721921d8a9634",
+      "sha256" : "2a7282811241f75adf31ee23418f5cd8e1609b8a10740c39e9aa3bc2f80d1d7a",
       "stats" : {
         "downloadCount" : 14,
         "impressionCount" : 849
       },
       "subtitle" : "Digital audio workstation",
       "tintColor" : "F46A10",
-      "version" : "4.3.8",
-      "versionDate" : "2022-09-24T00:00:00Z"
+      "version" : "4.3.9",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -40371,20 +40371,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.vivaldi.com/stable/Vivaldi.5.4.2753.51.universal.dmg",
+      "downloadURL" : "https://downloads.vivaldi.com/stable/Vivaldi.5.5.2805.32.universal.dmg",
       "homepage" : "https://vivaldi.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vivaldi/AppIcon.png",
       "localizedDescription" : "Web browser with built-in email client focusing on customization and control",
       "name" : "Vivaldi",
-      "sha256" : "6d44eeee0e4a27e77188f9b4dd6ae3488697f03c6489ed6eea5821ad1a2f8acb",
+      "sha256" : "1f2cd40bd00b8077ebb92a77be7c3c68e0ae7279782ea8196122096a0a34cd55",
       "stats" : {
-        "downloadCount" : 743,
-        "impressionCount" : 660
+        "downloadCount" : 745,
+        "impressionCount" : 662
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
-      "version" : "5.4.2753.51",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "5.5.2805.32",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -40694,20 +40694,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.wireshark.org/download/osx/Wireshark%203.6.8%20Intel%2064.dmg",
+      "downloadURL" : "https://www.wireshark.org/download/osx/Wireshark%204.0.0%20Intel%2064.dmg",
       "homepage" : "https://www.wireshark.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wireshark-chmodbpf/AppIcon.png",
       "localizedDescription" : "Network protocol analyzer",
       "name" : "Wireshark-ChmodBPF",
-      "sha256" : "c1e54f1af933486ac60da94bb1a366df5125959ef416e1a93c2a2fb9de78efa0",
+      "sha256" : "3880cd9ad35ccdb233a757461ddc8821f26be0a4771fcbc46ccd6d7adca15903",
       "stats" : {
         "downloadCount" : 452,
         "impressionCount" : 78
       },
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
-      "version" : "3.6.8",
-      "versionDate" : "2022-09-10T00:00:00Z"
+      "version" : "4.0.0",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -41883,20 +41883,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://royaltsx-v5.royalapps.com/updates/royaltsx_5.1.1.1000.dmg",
+      "downloadURL" : "https://royaltsx-v5.royalapps.com/updates/royaltsx_5.1.2.1000.dmg",
       "homepage" : "https://www.royalapps.com/ts/mac/features",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-royal-tsx/AppIcon.png",
       "localizedDescription" : "Remote management solution",
       "name" : "Royal TSX",
-      "sha256" : "865638de4c33c1e67d0bffd681bdb3dc8ef3949017d08ba6f5bf57b2de15118a",
+      "sha256" : "03c25ae85553b098ff6bf61c712392370379b26869362df699c6b06c1c3824c8",
       "stats" : {
         "downloadCount" : 181,
         "impressionCount" : 66
       },
       "subtitle" : "Remote management solution",
       "tintColor" : "F9AA59",
-      "version" : "5.1.1.1000",
-      "versionDate" : "2022-09-22T00:00:00Z"
+      "version" : "5.1.2.1000",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -48580,8 +48580,8 @@
       },
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
-      "version" : "10.19.1b",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "10.19.1c",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -49954,20 +49954,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.4.1/OpenRCT2-0.4.1-macos-universal.zip",
+      "downloadURL" : "https://github.com/OpenRCT2/OpenRCT2/releases/download/v0.4.2/OpenRCT2-0.4.2-macos-universal.zip",
       "homepage" : "https://openrct2.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-openrct2/AppIcon.png",
       "localizedDescription" : "Open-source re-implementation of RollerCoaster Tycoon 2",
       "name" : "OpenRCT2",
-      "sha256" : "c0c4e91ab2ded14872c2e3e82549479ac5b82a44d9377403deba5a8e92077db6",
+      "sha256" : "6f16c13fc14b710ae676b300ab628e171906a4b2f508dd5e5e33c4d79767583a",
       "stats" : {
         "downloadCount" : 13,
         "impressionCount" : 105
       },
       "subtitle" : "Open-source re-implementation of RollerCoaster Tycoon 2",
       "tintColor" : "86899C",
-      "version" : "0.4.1",
-      "versionDate" : "2022-07-05T00:00:00Z"
+      "version" : "0.4.2",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -59459,8 +59459,8 @@
         "downloadCount" : 3469
       },
       "subtitle" : "Control your tools with a few keystrokes",
-      "version" : "1.40.2",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "1.40.3",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -60258,17 +60258,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.21%2B20221003102957-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.21%2B20221005103025-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "ec62b6cac56abec6689bcd73e32f52a56932ce5ca05358aeb5f690b8fd68aa9b",
+      "sha256" : "5fe789cdf3cf14f52c3f4303be5298364bb7a5d9b51da79c223290799d4a5c7e",
       "stats" : {
         "downloadCount" : 634
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.21,20221003102957",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "6.2.21,20221005103025",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -63197,16 +63197,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/tmdh/laravel-kit/releases/download/v2.0.6/laravel-kit-2.0.6-mac.zip",
+      "downloadURL" : "https://github.com/tmdh/laravel-kit/releases/download/v2.0.7/laravel-kit-2.0.7-mac.zip",
       "homepage" : "https://tmdh.github.io/laravel-kit",
       "localizedDescription" : "Desktop Laravel admin panel app",
       "name" : "Laravel Kit",
-      "sha256" : "62c7ca0541b70009c842c672833a7ba269ae8abf4493b52fec9c18465d86ee8c",
+      "sha256" : "fe0a3f8a210c646bfd6e449046a18523f4e4ca2d68d65ade14773b889e6b39d8",
       "stats" : {
         "downloadCount" : 58
       },
       "subtitle" : "Desktop Laravel admin panel app",
-      "version" : "2.0.6"
+      "version" : "2.0.7",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -70215,17 +70216,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://coxy.beatunes.com/download/beaTunes-5-2-29.dmg",
+      "downloadURL" : "https://coxy.beatunes.com/download/beaTunes-5-2-30.dmg",
       "homepage" : "https://www.beatunes.com/",
       "localizedDescription" : "Analyze, inspect, and play songs",
       "name" : "beaTunes",
-      "sha256" : "327226d005230e5a87da5d677e448e1a93c82b12a5165e027abf0f13edcee418",
+      "sha256" : "cc81ba7f42ddf1c50ffa39c2c4c1bfa180f43837b7ebc950ae3cd33c32bf67d9",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "Analyze, inspect, and play songs",
-      "version" : "5.2.29",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "5.2.30",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -72954,17 +72955,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.safe.com/fme/2022/fme-desktop-2022.1.2-b22627-macosx.pkg",
+      "downloadURL" : "https://downloads.safe.com/fme/2022/fme-desktop-2022.1.3-b22630-macosx.pkg",
       "homepage" : "https://www.safe.com/",
       "localizedDescription" : "Platform for integrating spatial data",
       "name" : "FME Desktop",
-      "sha256" : "4e80e27337eadc784310447bd312ab7726c4a0ef45ae61cceac80276ee374e2f",
+      "sha256" : "4756a1bfbd6478dcdfbd2a1ddffd460672f8f326d5f7d5b7c1d680af376a7547",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "Platform for integrating spatial data",
-      "version" : "2022.1.2,22627",
-      "versionDate" : "2022-09-08T00:00:00Z"
+      "version" : "2022.1.3,22630",
+      "versionDate" : "2022-10-05T22:13:20Z"
     },
     {
       "beta" : false,
@@ -74019,104 +74020,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "expressvpn",
-      "caption" : "ExpressVPN updated from 11.8.0.69424 to 11.9.0.70037",
-      "date" : "2022-10-05T02:37:02Z",
-      "identifier" : "release-expressvpn-11.9.0.70037",
-      "title" : "New Release: ExpressVPN 11.9.0.70037"
-    },
-    {
-      "appID" : "kicad",
-      "caption" : "KiCad updated from 6.0.7-1 to 6.0.8-1",
-      "date" : "2022-10-05T02:37:02Z",
-      "identifier" : "release-kicad-6.0.8-1",
-      "title" : "New Release: KiCad 6.0.8-1"
-    },
-    {
-      "appID" : "krisp",
-      "caption" : "Krisp updated from 1.40.11 to 1.41.13",
-      "date" : "2022-10-05T02:37:02Z",
-      "identifier" : "release-krisp-1.41.13",
-      "title" : "New Release: Krisp 1.41.13"
-    },
-    {
-      "appID" : "zoom-for-it-admins",
-      "caption" : "Zoom for IT Admins updated from 5.11.11.10514 to 5.12.0.11129",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-zoom-for-it-admins-5.12.0.11129",
-      "title" : "New Release: Zoom for IT Admins 5.12.0.11129"
-    },
-    {
-      "appID" : "tableau",
-      "caption" : "Tableau Desktop updated from 2022.2.1 to 2022.2.2",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-tableau-2022.2.2",
-      "title" : "New Release: Tableau Desktop 2022.2.2"
-    },
-    {
-      "appID" : "zeplin",
-      "caption" : "Zeplin updated from 4.3.6,1628 to 4.4,1640",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-zeplin-4.4,1640",
-      "title" : "New Release: Zeplin 4.4,1640"
-    },
-    {
-      "appID" : "sfdx",
-      "caption" : "Salesforce DX CLI updated from 7.169.1 to 7.170.0",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-sfdx-7.170.0",
-      "title" : "New Release: Salesforce DX CLI 7.170.0"
-    },
-    {
-      "appID" : "confluent-cli",
-      "caption" : "Confluent CLI updated from 2.26.0 to 2.27.0",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-confluent-cli-2.27.0",
-      "title" : "New Release: Confluent CLI 2.27.0"
-    },
-    {
-      "appID" : "unity",
-      "caption" : "Unity Editor updated from 2022.1.17f1,2d349551e475 to 2022.1.18f1,8a091f9adba4",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-unity-2022.1.18f1,8a091f9adba4",
-      "title" : "New Release: Unity Editor 2022.1.18f1,8a091f9adba4"
-    },
-    {
-      "appID" : "deezer",
-      "caption" : "Deezer updated from 5.30.330 to 5.30.340",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-deezer-5.30.340",
-      "title" : "New Release: Deezer 5.30.340"
-    },
-    {
-      "appID" : "aptible",
-      "caption" : "Aptible Toolbelt updated from 0.19.4,20220909184610,378 to 0.19.6,20220928212813,384",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-aptible-0.19.6,20220928212813,384",
-      "title" : "New Release: Aptible Toolbelt 0.19.6,20220928212813,384"
-    },
-    {
-      "appID" : "enpass",
-      "caption" : "Enpass updated from 6.8.2.1081 to 6.8.3.1153",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-enpass-6.8.3.1153",
-      "title" : "New Release: Enpass 6.8.3.1153"
-    },
-    {
-      "appID" : "vnc-server",
-      "caption" : "Real VNC Server updated from 6.10.1 to 6.11.0",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-vnc-server-6.11.0",
-      "title" : "New Release: Real VNC Server 6.11.0"
-    },
-    {
-      "appID" : "p4",
-      "caption" : "Perforce Helix Command-Line Client (P4) updated from 2022.1,2305383 to 2022.1,2344699",
-      "date" : "2022-10-05T02:37:03Z",
-      "identifier" : "release-p4-2022.1,2344699",
-      "title" : "New Release: Perforce Helix Command-Line Client (P4) 2022.1,2344699"
-    },
-    {
       "appID" : "arq",
       "caption" : "Arq updated from 7.19.5 to 7.19.6",
       "date" : "2022-10-05T02:37:03Z",
@@ -74663,13 +74566,6 @@
       "title" : "New Release: NameChanger 3.4.4,13"
     },
     {
-      "appID" : "raycast",
-      "caption" : "Raycast updated from 1.40.1 to 1.40.2",
-      "date" : "2022-10-05T14:53:37Z",
-      "identifier" : "release-raycast-1.40.2",
-      "title" : "New Release: Raycast 1.40.2"
-    },
-    {
       "appID" : "wireshark",
       "caption" : "Wireshark updated from 3.6.8 to 4.0.0",
       "date" : "2022-10-05T18:52:10Z",
@@ -74717,6 +74613,111 @@
       "date" : "2022-10-05T20:44:29Z",
       "identifier" : "release-a-better-finder-rename-11.52",
       "title" : "New Release: A Better Finder Rename 11.52"
+    },
+    {
+      "appID" : "skype",
+      "caption" : "Skype updated from 8.88.0.401 to 8.89.0.403",
+      "date" : "2022-10-05T22:13:21Z",
+      "identifier" : "release-skype-8.89.0.403",
+      "title" : "New Release: Skype 8.89.0.403"
+    },
+    {
+      "appID" : "syncthing",
+      "caption" : "Syncthing updated from 1.21.0-1 to 1.22.0-1",
+      "date" : "2022-10-05T22:13:21Z",
+      "identifier" : "release-syncthing-1.22.0-1",
+      "title" : "New Release: Syncthing 1.22.0-1"
+    },
+    {
+      "appID" : "appium-inspector",
+      "caption" : "Appium Inspector GUI updated from 2022.8.1 to 2022.9.1",
+      "date" : "2022-10-05T22:13:21Z",
+      "identifier" : "release-appium-inspector-2022.9.1",
+      "title" : "New Release: Appium Inspector GUI 2022.9.1"
+    },
+    {
+      "appID" : "josm",
+      "caption" : "JOSM updated from 18543 to 18565",
+      "date" : "2022-10-05T22:13:22Z",
+      "identifier" : "release-josm-18565",
+      "title" : "New Release: JOSM 18565"
+    },
+    {
+      "appID" : "bitwig-studio",
+      "caption" : "Bitwig Studio updated from 4.3.8 to 4.3.9",
+      "date" : "2022-10-05T22:13:22Z",
+      "identifier" : "release-bitwig-studio-4.3.9",
+      "title" : "New Release: Bitwig Studio 4.3.9"
+    },
+    {
+      "appID" : "vivaldi",
+      "caption" : "Vivaldi updated from 5.4.2753.51 to 5.5.2805.32",
+      "date" : "2022-10-05T22:13:22Z",
+      "identifier" : "release-vivaldi-5.5.2805.32",
+      "title" : "New Release: Vivaldi 5.5.2805.32"
+    },
+    {
+      "appID" : "wireshark-chmodbpf",
+      "caption" : "Wireshark-ChmodBPF updated from 3.6.8 to 4.0.0",
+      "date" : "2022-10-05T22:13:22Z",
+      "identifier" : "release-wireshark-chmodbpf-4.0.0",
+      "title" : "New Release: Wireshark-ChmodBPF 4.0.0"
+    },
+    {
+      "appID" : "royal-tsx",
+      "caption" : "Royal TSX updated from 5.1.1.1000 to 5.1.2.1000",
+      "date" : "2022-10-05T22:13:22Z",
+      "identifier" : "release-royal-tsx-5.1.2.1000",
+      "title" : "New Release: Royal TSX 5.1.2.1000"
+    },
+    {
+      "appID" : "trader-workstation",
+      "caption" : "Trader Workstation updated from 10.19.1b to 10.19.1c",
+      "date" : "2022-10-05T22:13:22Z",
+      "identifier" : "release-trader-workstation-10.19.1c",
+      "title" : "New Release: Trader Workstation 10.19.1c"
+    },
+    {
+      "appID" : "openrct2",
+      "caption" : "OpenRCT2 updated from 0.4.1 to 0.4.2",
+      "date" : "2022-10-05T22:13:23Z",
+      "identifier" : "release-openrct2-0.4.2",
+      "title" : "New Release: OpenRCT2 0.4.2"
+    },
+    {
+      "appID" : "raycast",
+      "caption" : "Raycast updated from 1.40.2 to 1.40.3",
+      "date" : "2022-10-05T22:13:23Z",
+      "identifier" : "release-raycast-1.40.3",
+      "title" : "New Release: Raycast 1.40.3"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.21,20221003102957 to 6.2.21,20221005103025",
+      "date" : "2022-10-05T22:13:23Z",
+      "identifier" : "release-metasploit-6.2.21,20221005103025",
+      "title" : "New Release: Metasploit Framework 6.2.21,20221005103025"
+    },
+    {
+      "appID" : "laravel-kit",
+      "caption" : "Laravel Kit updated from 2.0.6 to 2.0.7",
+      "date" : "2022-10-05T22:13:23Z",
+      "identifier" : "release-laravel-kit-2.0.7",
+      "title" : "New Release: Laravel Kit 2.0.7"
+    },
+    {
+      "appID" : "beatunes",
+      "caption" : "beaTunes updated from 5.2.29 to 5.2.30",
+      "date" : "2022-10-05T22:13:24Z",
+      "identifier" : "release-beatunes-5.2.30",
+      "title" : "New Release: beaTunes 5.2.30"
+    },
+    {
+      "appID" : "fme",
+      "caption" : "FME Desktop updated from 2022.1.2,22627 to 2022.1.3,22630",
+      "date" : "2022-10-05T22:13:24Z",
+      "identifier" : "release-fme-2022.1.3,22630",
+      "title" : "New Release: FME Desktop 2022.1.3,22630"
     }
   ],
   "platform" : "macos",

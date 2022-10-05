@@ -35,14 +35,15 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    #runs-on: ubuntu-latest
+    runs-on: macos-12
 
     timeout-minutes: 30
     steps:
       - name: "Install ${{ env.FAIRTOOL }}"
         run: |
           # https://github.com/actions/runner-images/issues/6283
-          eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+          # eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
           brew --version
           brew install fair-ground/tool/$FAIRTOOL
           $FAIRTOOL version

@@ -33,10 +33,10 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3534,
+        "impressionCount" : 3685,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 264,
+        "viewCount" : 269,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -44,6 +44,84 @@
       "version" : "0.0.20",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "008e1fe8878679db975dfcf1237039ca92ea3413e5b324fe91e9636fcfa77b3a",
+      "size" : 1271990,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 39,
+        "forkCount" : 0,
+        "impressionCount" : 150,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 9,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.30",
+      "versionDate" : "2022-09-26T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.29...0.0.30"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-iphone-750x1334.png"
+      ],
+      "sha256" : "1b02a2a7cef19a0cc8ed28574944f7e8511ef1774826f65393f9ed047dce397d",
+      "size" : 1236685,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 37,
+        "forkCount" : 1,
+        "impressionCount" : 9,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.326",
+      "versionDate" : "2022-09-26T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.325...0.9.326"
     },
     {
       "beta" : false,
@@ -83,10 +161,10 @@
         "coreSize" : 170224,
         "downloadCount" : 35,
         "forkCount" : 0,
-        "impressionCount" : 48,
+        "impressionCount" : 118,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 6,
+        "viewCount" : 16,
         "watcherCount" : 0
       },
       "subtitle" : "Web browsing for the connoisseur",
@@ -151,10 +229,10 @@
         "coreSize" : 169040,
         "downloadCount" : 28,
         "forkCount" : 1,
-        "impressionCount" : 292,
+        "impressionCount" : 463,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 31,
+        "viewCount" : 74,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -188,10 +266,10 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 397,
+        "impressionCount" : 594,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 37,
+        "viewCount" : 56,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
@@ -224,10 +302,10 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 596,
+        "impressionCount" : 791,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 64,
+        "viewCount" : 79,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -310,10 +388,10 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 518,
+        "impressionCount" : 701,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 39,
+        "viewCount" : 51,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -400,10 +478,10 @@
         "coreSize" : 170688,
         "downloadCount" : 11,
         "forkCount" : 0,
-        "impressionCount" : 75,
+        "impressionCount" : 271,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 15,
+        "viewCount" : 36,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -440,7 +518,7 @@
         "coreSize" : 68344,
         "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 1682,
+        "impressionCount" : 1688,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 94,
@@ -578,10 +656,10 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3139,
+        "impressionCount" : 3264,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 178,
+        "viewCount" : 186,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -614,7 +692,7 @@
         "coreSize" : 68344,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 2266,
+        "impressionCount" : 2272,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 142,
@@ -650,7 +728,7 @@
         "coreSize" : 68368,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 2032,
+        "impressionCount" : 2040,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 124,
@@ -699,45 +777,45 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "bundleIdentifier" : "app.Sun-Bow",
       "categories" : [
 
       ],
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo-iOS.ipa",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-iOS.ipa",
       "fundingLinks" : [
 
       ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sun Bow",
       "permissions" : [
-
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
       ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-iphone-750x1334.png"
-      ],
-      "sha256" : "2ae08796ecbb5afa4d76d13d53b4efd08e768002290d4d58fb2011d8c2d636cf",
-      "size" : 1236686,
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "ec3cf0cb11ee58c57ffffe125911615780aaa1a8181776b40e0f2fe83cc09718",
+      "size" : 21296617,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 5,
-        "forkCount" : 1,
-        "impressionCount" : 2,
+        "downloadCount" : 6,
+        "forkCount" : 0,
+        "impressionCount" : 4,
         "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 1,
+        "starCount" : 1,
+        "viewCount" : 2,
         "watcherCount" : 0
       },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.326",
-      "versionDate" : "2022-09-25T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.325...0.9.326"
+      "subtitle" : "An app for sunnier days",
+      "tintColor" : "17B0E6",
+      "version" : "0.0.28",
+      "versionDate" : "2022-10-04T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : true,
@@ -764,10 +842,10 @@
         "coreSize" : 102472,
         "downloadCount" : 5,
         "forkCount" : 0,
-        "impressionCount" : 1427,
+        "impressionCount" : 1433,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 63,
+        "viewCount" : 64,
         "watcherCount" : 0
       },
       "subtitle" : "A name picking app",
@@ -800,7 +878,7 @@
         "coreSize" : 68360,
         "downloadCount" : 5,
         "forkCount" : 0,
-        "impressionCount" : 671,
+        "impressionCount" : 677,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 56,
@@ -887,7 +965,7 @@
         "coreSize" : 68360,
         "downloadCount" : 5,
         "forkCount" : 0,
-        "impressionCount" : 731,
+        "impressionCount" : 737,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -897,47 +975,6 @@
       "version" : "0.0.7",
       "versionDate" : "2022-01-21T00:00:00Z",
       "versionDescription" : "Release 0.0.7"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "920d0143267eba8dc2b396715d7280324c48fbee07a48d3ce2b68ea5a0db7431",
-      "size" : 5819445,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 5,
-        "forkCount" : 0,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "version" : "0.0.28",
-      "versionDate" : "2022-09-25T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : true,
@@ -964,7 +1001,7 @@
         "coreSize" : 102480,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 1085,
+        "impressionCount" : 1094,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -1000,7 +1037,7 @@
         "coreSize" : 68368,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 675,
+        "impressionCount" : 681,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1036,7 +1073,7 @@
         "coreSize" : 68360,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 1947,
+        "impressionCount" : 1954,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 44,
@@ -1073,10 +1110,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 552,
+        "impressionCount" : 668,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 47,
+        "viewCount" : 55,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1118,10 +1155,10 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 549,
+        "impressionCount" : 667,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 39,
+        "viewCount" : 44,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1160,10 +1197,10 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 646,
+        "impressionCount" : 802,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 34,
+        "viewCount" : 39,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
@@ -1212,10 +1249,10 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 703,
+        "impressionCount" : 855,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 63,
+        "viewCount" : 74,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -1249,7 +1286,7 @@
         "coreSize" : 102392,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 645,
+        "impressionCount" : 650,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 41,
@@ -1259,6 +1296,43 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.World-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "eb81d1003612b082b5d352609f25b5341f179a5ac7e971581ef9fea43672173f",
+      "size" : 3790386,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 2,
+        "forkCount" : 0,
+        "impressionCount" : 5,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.3",
+      "versionDate" : "2022-10-04T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
     },
     {
       "beta" : false,
@@ -1294,10 +1368,10 @@
         "coreSize" : 170240,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 70,
+        "impressionCount" : 269,
         "issueCount" : 0,
         "starCount" : 2,
-        "viewCount" : 6,
+        "viewCount" : 13,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -1331,10 +1405,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 787,
+        "impressionCount" : 948,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 62,
+        "viewCount" : 71,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1367,10 +1441,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 811,
+        "impressionCount" : 983,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 55,
+        "viewCount" : 57,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",
@@ -1403,52 +1477,16 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 602,
+        "impressionCount" : 734,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 48,
+        "viewCount" : 57,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
       "version" : "0.1.1",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tidal-Zone/App/commits/0.1.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "008e1fe8878679db975dfcf1237039ca92ea3413e5b324fe91e9636fcfa77b3a",
-      "size" : 1271990,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 1,
-        "forkCount" : 0,
-        "impressionCount" : 3,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.30",
-      "versionDate" : "2022-09-26T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.29...0.0.30"
     }
   ],
   "fundingSources" : [

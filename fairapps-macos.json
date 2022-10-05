@@ -59,9 +59,9 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 169040,
-        "downloadCount" : 459,
+        "downloadCount" : 460,
         "forkCount" : 1,
-        "impressionCount" : 463,
+        "impressionCount" : 465,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 74,
@@ -72,6 +72,46 @@
       "version" : "0.8.118",
       "versionDate" : "2022-09-13T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.117...0.8.118"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Media-Res/App/releases/download/0.0.30/screenshot_01-mac-dark-mac-484x460.png",
+        "https://github.com/Media-Res/App/releases/download/0.0.30/screenshot_01-mac-light-mac-484x460.png"
+      ],
+      "sha256" : "d1fb61b874ff8a30ed27172dffc63848aeb955a9876624b45b50a4ab52364957",
+      "size" : 2375825,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 51,
+        "forkCount" : 0,
+        "impressionCount" : 150,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 9,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.30",
+      "versionDate" : "2022-09-26T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.29...0.0.30"
     },
     {
       "beta" : false,
@@ -174,46 +214,6 @@
       "version" : "0.1.7",
       "versionDate" : "2022-05-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Blunder-Busq/App/compare/0.1.6...0.1.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Media-Res/App/releases/download/0.0.30/screenshot_01-mac-dark-mac-484x460.png",
-        "https://github.com/Media-Res/App/releases/download/0.0.30/screenshot_01-mac-light-mac-484x460.png"
-      ],
-      "sha256" : "d1fb61b874ff8a30ed27172dffc63848aeb955a9876624b45b50a4ab52364957",
-      "size" : 2375825,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 41,
-        "forkCount" : 0,
-        "impressionCount" : 150,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 9,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.30",
-      "versionDate" : "2022-09-26T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.29...0.0.30"
     },
     {
       "beta" : true,
@@ -688,6 +688,48 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "96af9086f8afdf037c48c290c7bca9429ddc2b9af6873f5dc962867cde2e2c46",
+      "size" : 25200842,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 15,
+        "forkCount" : 0,
+        "impressionCount" : 4,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "tintColor" : "17B0E6",
+      "version" : "0.0.28",
+      "versionDate" : "2022-10-04T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
@@ -736,6 +778,43 @@
       "version" : "0.2.53",
       "versionDate" : "2022-09-23T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.52...0.2.53"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.World-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "17dfa278ab004a10e0392e1f7997b6df4aa5707b9ada51d2880313a438dc9451",
+      "size" : 7288570,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 12,
+        "forkCount" : 0,
+        "impressionCount" : 5,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.3",
+      "versionDate" : "2022-10-04T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
     },
     {
       "beta" : true,
@@ -1170,48 +1249,6 @@
       "versionDescription" : ""
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "633e6d24719502be5051fb9d1caab151554b29e491a771bb26e3053f07605f33",
-      "size" : 25200842,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 5,
-        "forkCount" : 0,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
-      "versionDate" : "2022-10-04T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
@@ -1638,43 +1675,6 @@
       "version" : "0.0.5",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.World-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "17dfa278ab004a10e0392e1f7997b6df4aa5707b9ada51d2880313a438dc9451",
-      "size" : 7288570,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 2,
-        "forkCount" : 0,
-        "impressionCount" : 5,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.3",
-      "versionDate" : "2022-10-04T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
     },
     {
       "beta" : false,

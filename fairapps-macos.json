@@ -241,7 +241,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "f88828ee77a05fb1cc9cffe961aeb745cb767cf9c108db1af509e1f11da4bdfa",
+      "sha256" : "9d7ac4e703081d00adf630718e25c5a74d9fbd81d7564dc3f72fc1443970e811",
       "size" : 2351592,
       "stats" : {
         "coreSize" : 168592,
@@ -647,48 +647,6 @@
       "subtitle" : "A very useful app indeed",
       "version" : "0.0.1",
       "versionDate" : "2022-05-19T00:00:00Z"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "efe1825a730acf239513d7ae58270afd5e106d8dcf96cd120385057bc60b448c",
-      "size" : 25200842,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 22,
-        "forkCount" : 0,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
-      "versionDate" : "2022-10-04T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : false,

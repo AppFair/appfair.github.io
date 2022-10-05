@@ -25,7 +25,7 @@
       "sha256" : "5db050bdc881290837ffd1c4fbf22c743bda869d81c5ddcc71ca4a7df220197c",
       "stats" : {
         "downloadCount" : 2860,
-        "impressionCount" : 11166,
+        "impressionCount" : 11172,
         "viewCount" : 1257
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -56,9 +56,9 @@
       ],
       "sha256" : "01c1016e7f7e504a3f350c1f65b8d88abec99ae6b6a0b7a97e707aad17d90c6d",
       "stats" : {
-        "downloadCount" : 16466,
-        "impressionCount" : 10149,
-        "viewCount" : 1050
+        "downloadCount" : 16467,
+        "impressionCount" : 10157,
+        "viewCount" : 1052
       },
       "subtitle" : "Web browser",
       "tintColor" : "E2725E",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8370,
-        "impressionCount" : 8732,
+        "impressionCount" : 8734,
         "viewCount" : 749
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 27742,
-        "impressionCount" : 9442,
+        "impressionCount" : 9443,
         "viewCount" : 793
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 9082,
-        "impressionCount" : 9214,
+        "impressionCount" : 9218,
         "viewCount" : 703
       },
       "subtitle" : "Music streaming service",
@@ -238,7 +238,7 @@
       "sha256" : "808ed03191a3939887200bf17477f805d5f40d6987a49f36490f673009eeec0b",
       "stats" : {
         "downloadCount" : 3581,
-        "impressionCount" : 9604,
+        "impressionCount" : 9608,
         "viewCount" : 633
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -292,7 +292,7 @@
       "sha256" : "40ea451a98646deabe2a94306c6f92e0efe399cb6dea153c76bc3370fac13504",
       "stats" : {
         "downloadCount" : 2559,
-        "impressionCount" : 8076,
+        "impressionCount" : 8079,
         "viewCount" : 490
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -340,7 +340,7 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://download.blender.org/release/Blender3.3/blender-3.3.0-macos-x64.dmg",
+      "downloadURL" : "https://download.blender.org/release/Blender3.3/blender-3.3.1-macos-x64.dmg",
       "homepage" : "https://www.blender.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-blender/AppIcon.png",
       "localizedDescription" : "3D creation suite",
@@ -355,16 +355,16 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_07-mac-1544x1320.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-blender/screenshot_08-mac-1280x720.jpg"
       ],
-      "sha256" : "73dd1ede9fd57cf436aa9b9e82fdbe9685cafdc99066081de8e4bdee1790ba0b",
+      "sha256" : "6af68af6d43ac184ff0899d0ced2fc29006984fffee6a805825d7e67c48ee23f",
       "stats" : {
         "downloadCount" : 1224,
-        "impressionCount" : 9401,
+        "impressionCount" : 9402,
         "viewCount" : 525
       },
       "subtitle" : "3D creation suite",
       "tintColor" : "D28C43",
-      "version" : "3.3.0",
-      "versionDate" : "2022-09-07T00:00:00Z"
+      "version" : "3.3.1",
+      "versionDate" : "2022-10-05T20:44:26Z"
     },
     {
       "beta" : false,
@@ -447,7 +447,7 @@
       "sha256" : "46fb4c55a4e719974d2ffa90d84a137db8775b9687a6659ed79afe26ae1d2675",
       "stats" : {
         "downloadCount" : 582,
-        "impressionCount" : 7522,
+        "impressionCount" : 7523,
         "viewCount" : 402
       },
       "subtitle" : "Text editor",
@@ -478,9 +478,9 @@
       ],
       "sha256" : "9334031d3d43c599382f4b4eda22da12518f054b28c1565bb08a485f99ef7d64",
       "stats" : {
-        "downloadCount" : 463,
-        "impressionCount" : 7532,
-        "viewCount" : 528
+        "downloadCount" : 464,
+        "impressionCount" : 7541,
+        "viewCount" : 529
       },
       "subtitle" : "Text, code, and markup editor",
       "tintColor" : "A8A7CF",
@@ -788,7 +788,7 @@
       "sha256" : "fe243c0d9bc7f82a4367cdd366ce4d9e39ecc7b9914f3f4bc703d101e3d35164",
       "stats" : {
         "downloadCount" : 9341,
-        "impressionCount" : 3606,
+        "impressionCount" : 3611,
         "viewCount" : 269
       },
       "subtitle" : "Team communication and collaboration software",
@@ -811,8 +811,8 @@
       "sha256" : "e8ae07278a968dffc1b28c66496c8efca9b7059ba30a7309dbfc423241f74da2",
       "stats" : {
         "downloadCount" : 8329,
-        "impressionCount" : 3055,
-        "viewCount" : 240
+        "impressionCount" : 3057,
+        "viewCount" : 242
       },
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
       "tintColor" : "287398",
@@ -897,7 +897,7 @@
       "sha256" : "3769f88e35c6f993c6de77549b7ea2b607b661d3692b140a5bca974cf5b8c7a8",
       "stats" : {
         "downloadCount" : 5344,
-        "impressionCount" : 5529,
+        "impressionCount" : 5532,
         "viewCount" : 553
       },
       "subtitle" : "System monitor for the menu bar",
@@ -920,7 +920,7 @@
       "sha256" : "3e291c88b59e82c931933802c21fe2940054dceb1bfa46bc59d054216c369fcf",
       "stats" : {
         "downloadCount" : 4371,
-        "impressionCount" : 2912,
+        "impressionCount" : 2916,
         "viewCount" : 195
       },
       "subtitle" : "App to write, plan, collaborate, and get organized",
@@ -943,7 +943,7 @@
       "sha256" : "92bf99b7ee0b664fddad1a805b8bb874cd4f41eff5b6686ec443a0cae9e31968",
       "stats" : {
         "downloadCount" : 4171,
-        "impressionCount" : 4803,
+        "impressionCount" : 4807,
         "viewCount" : 286
       },
       "subtitle" : "Web browser focusing on privacy",
@@ -1034,7 +1034,7 @@
       "sha256" : "7a273bd1e9e1d414b24086401956c871104d679070d9c7061b397dc60377976b",
       "stats" : {
         "downloadCount" : 3722,
-        "impressionCount" : 2492,
+        "impressionCount" : 2496,
         "viewCount" : 189
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -1080,7 +1080,7 @@
       "sha256" : "4f2d2aa295680b8072ae2208f8a8f0cf11a72898550191aeaf2cfcf3da465a02",
       "stats" : {
         "downloadCount" : 3544,
-        "impressionCount" : 2679,
+        "impressionCount" : 2683,
         "viewCount" : 159
       },
       "subtitle" : "Desktop client for GitHub repositories",
@@ -1103,7 +1103,7 @@
       "sha256" : "473f994698ec082f16bb20b4824dadbfb744f53a01b737b4016f6cc45f403b83",
       "stats" : {
         "downloadCount" : 3459,
-        "impressionCount" : 2469,
+        "impressionCount" : 2470,
         "viewCount" : 141
       },
       "subtitle" : "Password manager app",
@@ -1125,13 +1125,13 @@
       "sha256" : "3880cd9ad35ccdb233a757461ddc8821f26be0a4771fcbc46ccd6d7adca15903",
       "stats" : {
         "downloadCount" : 3152,
-        "impressionCount" : 2194,
+        "impressionCount" : 2199,
         "viewCount" : 127
       },
       "subtitle" : "Network protocol analyzer",
       "tintColor" : "1E54CB",
       "version" : "4.0.0",
-      "versionDate" : "2022-10-05T18:52:09Z"
+      "versionDate" : "2022-10-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1194,7 +1194,7 @@
       "sha256" : "c4c4e2ba97ee7901c7ae4ad5a974f46cce5de435e75fe1ea0d018d25448f1c25",
       "stats" : {
         "downloadCount" : 2759,
-        "impressionCount" : 2892,
+        "impressionCount" : 2896,
         "viewCount" : 215
       },
       "subtitle" : "HTTP and GraphQL Client",
@@ -1262,7 +1262,7 @@
       "sha256" : "a60857ef84f426c01693101a01a439348858aa3f3d7e8d19a91b713d384967f3",
       "stats" : {
         "downloadCount" : 2613,
-        "impressionCount" : 2969,
+        "impressionCount" : 2970,
         "viewCount" : 269
       },
       "subtitle" : "Automatic tiling window manager similar to xmonad",
@@ -1285,7 +1285,7 @@
       "sha256" : "0c4008c3e7e4fa7e929f742becdfe74e9f4e603382f1bbcef9718d66f40f1ba3",
       "stats" : {
         "downloadCount" : 2483,
-        "impressionCount" : 2710,
+        "impressionCount" : 2714,
         "viewCount" : 177
       },
       "subtitle" : "Kubernetes IDE",
@@ -1372,7 +1372,7 @@
       "sha256" : "b2581d5c1f08d5c6718dc4850ccfc30354588dd90f7a81bc46c54369cc725d50",
       "stats" : {
         "downloadCount" : 2389,
-        "impressionCount" : 3774,
+        "impressionCount" : 3776,
         "viewCount" : 262
       },
       "subtitle" : "GPU-based terminal emulator",
@@ -1409,7 +1409,7 @@
       "sha256" : "27b4683c9343333466fb78d0d9d53559179aabc1cc87470aeef20d5ef3efc321",
       "stats" : {
         "downloadCount" : 2360,
-        "impressionCount" : 3469,
+        "impressionCount" : 3471,
         "viewCount" : 156
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1503,7 +1503,7 @@
       "sha256" : "473944fd3db5af232e8c3101b4e8e060e1b37b3dd191e2df2e6e2e82c6d7026a",
       "stats" : {
         "downloadCount" : 1844,
-        "impressionCount" : 4186,
+        "impressionCount" : 4189,
         "viewCount" : 202
       },
       "subtitle" : "E-books management software",
@@ -1632,7 +1632,7 @@
       "sha256" : "f7aca21e16c454d9374d2c5f3cb045d6f7f653dcdfa827e775d9c218a0c4b377",
       "stats" : {
         "downloadCount" : 1355,
-        "impressionCount" : 2982,
+        "impressionCount" : 2985,
         "viewCount" : 178
       },
       "subtitle" : "Native GUI tool for relational databases",
@@ -1655,7 +1655,7 @@
       "sha256" : "cb4027b73670693c11f21d92ed4e126c9b30ef792f82d18364314df5e68123ab",
       "stats" : {
         "downloadCount" : 1256,
-        "impressionCount" : 2433,
+        "impressionCount" : 2435,
         "viewCount" : 121
       },
       "subtitle" : "Customizable email client",
@@ -1823,7 +1823,7 @@
       "sha256" : "89ac4cf63efc4aad441f94c2636e3437e0f96c6eaaba4d9d663f13ee7b7d013a",
       "stats" : {
         "downloadCount" : 860,
-        "impressionCount" : 3984,
+        "impressionCount" : 3985,
         "viewCount" : 337
       },
       "subtitle" : "Tool to control external monitor brightness & volume",
@@ -1868,7 +1868,7 @@
       "sha256" : "1f11155aad90527ac144dc6449761d17df7ead22395aaab673b384da27bc11eb",
       "stats" : {
         "downloadCount" : 761,
-        "impressionCount" : 2990,
+        "impressionCount" : 2991,
         "viewCount" : 216
       },
       "subtitle" : "API documentation browser and code snippet manager",
@@ -1891,7 +1891,7 @@
       "sha256" : "6b09011a0854dc0fdd0d6d8650e49ac88e219a3b6ec7e54cefab97dfb73dd4c1",
       "stats" : {
         "downloadCount" : 756,
-        "impressionCount" : 2043,
+        "impressionCount" : 2045,
         "viewCount" : 106
       },
       "subtitle" : "Desktop client for Telegram messenger",
@@ -2024,7 +2024,7 @@
       "sha256" : "d654be872ea2532d0cdf10ff7ff4b6bc43def36f9479b9f3b098497f1bb32de0",
       "stats" : {
         "downloadCount" : 544,
-        "impressionCount" : 2970,
+        "impressionCount" : 2971,
         "viewCount" : 141
       },
       "subtitle" : "Home media player",
@@ -2430,8 +2430,8 @@
       "sha256" : "3f782b9b241851d025392375187a02342293fe24401823d38e65badd7bbc0d8f",
       "stats" : {
         "downloadCount" : 169,
-        "impressionCount" : 1923,
-        "viewCount" : 91
+        "impressionCount" : 1924,
+        "viewCount" : 92
       },
       "subtitle" : "Automation software",
       "tintColor" : "CCCCCE",
@@ -2453,7 +2453,7 @@
       "sha256" : "9477247e14d3ac3cda1b095b9d9e70d0ed6030f6d19ab9a0013206318e75ee5d",
       "stats" : {
         "downloadCount" : 167,
-        "impressionCount" : 2293,
+        "impressionCount" : 2294,
         "viewCount" : 124
       },
       "subtitle" : "Open-source music notation software",
@@ -3023,7 +3023,7 @@
       "sha256" : "c1a2abf468c2f02aebdda433cfd8d1ba290c3215373b2738424dcc2b9eff774a",
       "stats" : {
         "downloadCount" : 32244,
-        "impressionCount" : 1719
+        "impressionCount" : 1720
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -3256,7 +3256,7 @@
       "sha256" : "81d13ce362bf34ab2320fdeef22a4b97176f726cfb7ed00e5999b9ed289c11b4",
       "stats" : {
         "downloadCount" : 3123,
-        "impressionCount" : 2126
+        "impressionCount" : 2128
       },
       "subtitle" : "Standalone app for debugging React Native apps",
       "tintColor" : "8F8F8F",
@@ -3359,7 +3359,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2472,
-        "impressionCount" : 1034
+        "impressionCount" : 1035
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -3804,20 +3804,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://gitlab.com/librewolf-community/browser/macos/uploads/47ea426336b7e2ea855fd67ef6a83630/librewolf-105.0.1-1.en-US.mac.x86_64.dmg",
+      "downloadURL" : "https://gitlab.com/librewolf-community/browser/macos/uploads/dddec6f0435424ddf0d4a50e2e04cb62/librewolf-105.0.2-1.en-US.mac.x86_64.dmg",
       "homepage" : "https://librewolf.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-librewolf/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "LibreWolf",
-      "sha256" : "3876138958fa208a4290beeea9e40be3360b04e4e3d6633bdc83ab9f1f3bb458",
+      "sha256" : "d3029e2cc3d63470e328136a566d1c66cb89848aad2d7b08e2ed4b5c1ca59c4b",
       "stats" : {
         "downloadCount" : 1429,
         "impressionCount" : 1158
       },
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
-      "version" : "105.0.1,1,47ea426336b7e2ea855fd67ef6a83630",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "105.0.2,1,dddec6f0435424ddf0d4a50e2e04cb62",
+      "versionDate" : "2022-10-05T20:44:26Z"
     },
     {
       "beta" : false,
@@ -3986,7 +3986,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 1085,
-        "impressionCount" : 1964
+        "impressionCount" : 1965
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -4494,7 +4494,7 @@
       "sha256" : "4aecf835dcc3ccf3936e05e6cde7c3b5fa8e6d00bf9ebba52d3a608d7ba957b0",
       "stats" : {
         "downloadCount" : 695,
-        "impressionCount" : 1956
+        "impressionCount" : 1957
       },
       "subtitle" : "Utility to extend trackpad functionality",
       "tintColor" : "000000",
@@ -4563,7 +4563,7 @@
       "sha256" : "bc1a73b9cb4b4d316fa11572f43383f0f02fc7e6ba88bbed046cc1b074336862",
       "stats" : {
         "downloadCount" : 660,
-        "impressionCount" : 1981
+        "impressionCount" : 1982
       },
       "subtitle" : "Clipboard manager for developers",
       "tintColor" : "B72B32",
@@ -4774,7 +4774,7 @@
       "sha256" : "90e9e8f3c27dd904e1f2dea9ed2582c16e9047957b922fa04b201e46a8fdcdb8",
       "stats" : {
         "downloadCount" : 606,
-        "impressionCount" : 2227
+        "impressionCount" : 2229
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "tintColor" : "306369",
@@ -4807,20 +4807,20 @@
       "categories" : [
         "public.app-category.reference"
       ],
-      "downloadURL" : "https://kindleformac.s3.amazonaws.com/65287/KindleForMac-1.38.65287.dmg",
+      "downloadURL" : "https://kindleformac.s3.amazonaws.com/65301/KindleForMac-installer-1.39.65301.dmg",
       "homepage" : "https://www.amazon.com/gp/digital/fiona/kcp-landing-page",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-kindle/AppIcon.png",
       "localizedDescription" : "Interface for reading and syncing eBooks",
       "name" : "Kindle for Mac",
-      "sha256" : "5d1e74d9e9c8cfe9c914adb901bf401507f2e7675e3c7032bec66048ce2dec97",
+      "sha256" : "5d5280ce79f8ce62410c605edad9f01631fc9e3cebeb7ab7c33d1aa65bdf5a8b",
       "stats" : {
         "downloadCount" : 586,
         "impressionCount" : 1062
       },
       "subtitle" : "Interface for reading and syncing eBooks",
       "tintColor" : "3F6E7F",
-      "version" : "1.38.65287",
-      "versionDate" : "2022-08-10T00:00:00Z"
+      "version" : "1.39.65301",
+      "versionDate" : "2022-10-05T20:44:26Z"
     },
     {
       "beta" : false,
@@ -4983,7 +4983,7 @@
       "sha256" : "eda297371c83ce8f58e93be20a19ed9112e4e6755022ed709a8180bdfbd1449d",
       "stats" : {
         "downloadCount" : 530,
-        "impressionCount" : 655
+        "impressionCount" : 656
       },
       "subtitle" : "End-to-end encryption software",
       "tintColor" : "797D85",
@@ -5531,7 +5531,7 @@
       "sha256" : "f55fbec0b5479bd2dffdcce047410ea4c29577795ad638937e1e24332309bce7",
       "stats" : {
         "downloadCount" : 392,
-        "impressionCount" : 1875
+        "impressionCount" : 1877
       },
       "subtitle" : "Shows the next meeting in the menu bar",
       "tintColor" : "47484B",
@@ -5848,7 +5848,7 @@
       "sha256" : "11af1d2367e966dc4ea829cbf39cc7c869af50d687708600b188024539180ec8",
       "stats" : {
         "downloadCount" : 327,
-        "impressionCount" : 1753
+        "impressionCount" : 1755
       },
       "subtitle" : "Finder Toolbar app to open the current directory in Terminal or Editor",
       "tintColor" : "42A5F1",
@@ -5960,7 +5960,7 @@
       "sha256" : "09b036f1e934472d55a0417e2a3ce736559caf81a38537c94ab2c6331f258851",
       "stats" : {
         "downloadCount" : 301,
-        "impressionCount" : 1799
+        "impressionCount" : 1801
       },
       "subtitle" : "Status monitoring",
       "tintColor" : "454545",
@@ -6012,7 +6012,7 @@
       "sha256" : "35ffc0bdf0767f6dd55ae541796c87e0bbce4513554b4bf128abb7664b9096d0",
       "stats" : {
         "downloadCount" : 287,
-        "impressionCount" : 2155
+        "impressionCount" : 2156
       },
       "subtitle" : "Open-source browser prompter",
       "tintColor" : "364A62",
@@ -6597,7 +6597,7 @@
       "sha256" : "08d41b2c36b5691c8dce987506ddd0152e142bc752017385b798cf8d5e8b840e",
       "stats" : {
         "downloadCount" : 215,
-        "impressionCount" : 871
+        "impressionCount" : 872
       },
       "subtitle" : "Hard disk backup and cloning utility",
       "tintColor" : "8198A9",
@@ -7075,7 +7075,7 @@
       "sha256" : "43f06ec38157600bedd95a3bee5c0c9a5c754a24cf39331523edc5b70459ad73",
       "stats" : {
         "downloadCount" : 173,
-        "impressionCount" : 578
+        "impressionCount" : 579
       },
       "subtitle" : "Keyboard configurator",
       "tintColor" : "9C9595",
@@ -7261,7 +7261,7 @@
       "sha256" : "1175ebe43513221c9219a16df7a365e4139e75f89e03b8942885ae73496cfd5e",
       "stats" : {
         "downloadCount" : 165,
-        "impressionCount" : 660
+        "impressionCount" : 661
       },
       "subtitle" : "Graphical configurator for Kaleidoscope-powered keyboards",
       "tintColor" : "FEB392",
@@ -7613,7 +7613,7 @@
       "name" : "KeyboardCleanTool",
       "stats" : {
         "downloadCount" : 142,
-        "impressionCount" : 607
+        "impressionCount" : 608
       },
       "subtitle" : "Blocks all Keyboard and TouchBar input",
       "tintColor" : "4C849A",
@@ -8111,7 +8111,7 @@
       "sha256" : "631994a31763c7dc383d429969a7b3d98975ad98dcf30dc51b1421fc93fc05e7",
       "stats" : {
         "downloadCount" : 128,
-        "impressionCount" : 489
+        "impressionCount" : 490
       },
       "subtitle" : "Unicode keyboard layout editor",
       "tintColor" : "613C1B",
@@ -8362,8 +8362,8 @@
       },
       "subtitle" : "Time tracking tool for agencies and freelancers",
       "tintColor" : "2BB1ED",
-      "version" : "2.8.1,439",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "2.8.2,444",
+      "versionDate" : "2022-10-05T20:44:26Z"
     },
     {
       "beta" : false,
@@ -10637,7 +10637,7 @@
       "sha256" : "96780bf391b6367571728540fa528aba52a720849d279795c6bbe6fce3600c78",
       "stats" : {
         "downloadCount" : 68,
-        "impressionCount" : 1028
+        "impressionCount" : 1029
       },
       "subtitle" : "Detailed information on every Apple product ever made",
       "tintColor" : "69A4CB",
@@ -12261,7 +12261,7 @@
       "sha256" : "8b491adf6b72a20d20bf2a6e5e6b0e9f77f1ca236a4d5ccb9bb74d10a8e86319",
       "stats" : {
         "downloadCount" : 50,
-        "impressionCount" : 1077
+        "impressionCount" : 1080
       },
       "subtitle" : "Fork of Sonarr to work with movies à la Couchpotato",
       "tintColor" : "554B2E",
@@ -13063,7 +13063,7 @@
       "sha256" : "db82a9ac07e1fca23e31db2e458979d12fce846a8948e5a053fd8d317967e469",
       "stats" : {
         "downloadCount" : 43,
-        "impressionCount" : 459
+        "impressionCount" : 460
       },
       "subtitle" : "Keyboard-only application launcher",
       "tintColor" : "D2F1AB",
@@ -17234,7 +17234,7 @@
       "sha256" : "5e99acc34113b6974d799a4442682d3b82efc7096fc9a3fef78dc471975d68e8",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 230
+        "impressionCount" : 231
       },
       "subtitle" : "Mechanical keyboard simulator",
       "tintColor" : "000000",
@@ -18201,7 +18201,7 @@
       "sha256" : "b0e3537c52be41293ca76c1abf8ccaeda12763847ceccdba1295b7ea1dccf7c2",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 486
+        "impressionCount" : 487
       },
       "subtitle" : "Switch input method per application",
       "tintColor" : "888888",
@@ -18963,7 +18963,7 @@
       "sha256" : "3f260fea020f4f2ed7ce7b0c9f7a300dd2987aebf7e5b4ba022e3adea6c306a9",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 186
+        "impressionCount" : 187
       },
       "subtitle" : "Mutes your keyboard while you type",
       "tintColor" : "7D95C5",
@@ -20239,7 +20239,7 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.4/sleek-1.2.4-mac.dmg",
+      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.5/sleek-1.2.5-mac.dmg",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -20250,15 +20250,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sleek/AppIcon.png",
       "localizedDescription" : "Todo manager based on the todo.txt syntax",
       "name" : "sleek",
-      "sha256" : "220900e6dee120e217d7b102de62dd5c5551d7e587005d586383872e18caf0e6",
+      "sha256" : "fc3a1a4f40159e5d77b06b4b2e7ced36829f5ab669ff0afa3807dce9514d42c6",
       "stats" : {
         "downloadCount" : 16,
         "impressionCount" : 479
       },
       "subtitle" : "Todo manager based on the todo.txt syntax",
       "tintColor" : "715C8C",
-      "version" : "1.2.4",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "1.2.5",
+      "versionDate" : "2022-10-05T20:44:26Z"
     },
     {
       "beta" : false,
@@ -20713,7 +20713,7 @@
       "sha256" : "67f94669661e5b2186f3b619465d18206d8e20ae082d672c86b17d766f59fd41",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 221
+        "impressionCount" : 222
       },
       "subtitle" : "Minimalist, keyboard-driven to-do manager",
       "tintColor" : "41B13F",
@@ -21581,7 +21581,7 @@
       "sha256" : "cff4de3067c2ca9da8109c72d4bcd5b7941417d5b2bb23fc4eb0daac5f9d7953",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 298
+        "impressionCount" : 299
       },
       "subtitle" : "Create custom keyboard shortcuts for anything",
       "tintColor" : "583E24",
@@ -21641,7 +21641,7 @@
       "sha256" : "83c70ac29de277024567f94f1e0a2aa2679e20ce7cdc027b02f06577442dfcf8",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 227
+        "impressionCount" : 228
       },
       "subtitle" : "Play mechanical keyboard sounds as you type",
       "tintColor" : "CECBCB",
@@ -24495,7 +24495,7 @@
       "sha256" : "722fdd718fe47e58f1ea9c60fbcaf81cb4bbd6173b9cf7a8c4a6425a977a9fd9",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 191
+        "impressionCount" : 192
       },
       "subtitle" : "Software fix for double key presses on Apple's butterfly keyboard",
       "tintColor" : "3A3C49",
@@ -25914,7 +25914,7 @@
       "name" : "Macro Recorder",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 240
+        "impressionCount" : 241
       },
       "subtitle" : "Record mouse and keyboard actions",
       "tintColor" : "DE898C",
@@ -26729,7 +26729,7 @@
       "sha256" : "9c6fd58ef2f527a400e850358c38f4c36a5f264e66d03a464f1d70102c5ce9df",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 248
+        "impressionCount" : 249
       },
       "subtitle" : "Typography keyboard layout",
       "tintColor" : "BAB7B8",
@@ -26769,7 +26769,7 @@
       "sha256" : "4a47b1dc908297a68de8859b671ae86052335e41271d2dc2b19f6deff1b9ff60",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 265
+        "impressionCount" : 266
       },
       "subtitle" : "Control the volume of Apple Music and Spotify using keyboard volume keys",
       "tintColor" : "646A70",
@@ -28528,7 +28528,7 @@
       "sha256" : "934feef24473724bbf8800337fb2f9898835581f55182e7fb8a7fdf4bcc943f5",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 219
+        "impressionCount" : 220
       },
       "subtitle" : "Keyboard-driven note taking",
       "tintColor" : "83DB83",
@@ -33636,7 +33636,7 @@
       "sha256" : "b2de218dc65db11eeab6569dc66d6d7e0a83a1572010059459192e98abd6f0c8",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 162
+        "impressionCount" : 163
       },
       "subtitle" : "Replacement for the volume, brightness and keyboard backlight HUDs",
       "tintColor" : "6E889C",
@@ -38936,7 +38936,7 @@
       "sha256" : "b6f95a23a745cc0e402cc0e6371087c73b49d36cfee19ce299d7a065d3c9e71b",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 223
+        "impressionCount" : 225
       },
       "subtitle" : "Watch surveillance videos in your browser via your Ivideon account",
       "tintColor" : "8FB8DE",
@@ -40379,7 +40379,7 @@
       "sha256" : "6d44eeee0e4a27e77188f9b4dd6ae3488697f03c6489ed6eea5821ad1a2f8acb",
       "stats" : {
         "downloadCount" : 743,
-        "impressionCount" : 659
+        "impressionCount" : 660
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
@@ -40581,7 +40581,7 @@
       "sha256" : "d6fafea9ea0854cc257759332ac77447a61de85dac7132300fe48a8f91bda528",
       "stats" : {
         "downloadCount" : 563,
-        "impressionCount" : 144
+        "impressionCount" : 145
       },
       "subtitle" : "Open-source firewall to block unknown outgoing connections",
       "tintColor" : "708243",
@@ -40785,7 +40785,7 @@
       "sha256" : "44271fef18fd07a29241e5324be407fa8edce77fb0b55c5646cd238092cdf823",
       "stats" : {
         "downloadCount" : 405,
-        "impressionCount" : 89
+        "impressionCount" : 90
       },
       "subtitle" : "Personal data manager focusing on security",
       "tintColor" : "728D6A",
@@ -45654,7 +45654,7 @@
       "sha256" : "4529bbed37b3736623b5083e99088866bfec98973383df2553c27175738072a9",
       "stats" : {
         "downloadCount" : 40,
-        "impressionCount" : 153
+        "impressionCount" : 154
       },
       "subtitle" : "Manages online multimedia libs of German, Austrian and Swiss public broadcasters",
       "tintColor" : "4E4E50",
@@ -46918,8 +46918,8 @@
       },
       "subtitle" : "Renamer for files, music and photos",
       "tintColor" : "ADAE79",
-      "version" : "11.51",
-      "versionDate" : "2022-07-27T00:00:00Z"
+      "version" : "11.52",
+      "versionDate" : "2022-10-05T20:44:26Z"
     },
     {
       "beta" : false,
@@ -51873,7 +51873,7 @@
       "sha256" : "e6d0745aa969b793d78dd157f4447401ea79f56b03686735a2eb4e39b6321335",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 95
+        "impressionCount" : 97
       },
       "subtitle" : "Tools to save/restore window states",
       "tintColor" : "8699A8",
@@ -56557,7 +56557,7 @@
       "sha256" : "7e7822e3a7d7eb932f58e770aee31f778164784e151dbc36ab997be4107804ed",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 88
+        "impressionCount" : 89
       },
       "subtitle" : "Window manager",
       "tintColor" : "9EB2BF",
@@ -59456,7 +59456,7 @@
       "localizedDescription" : "Control your tools with a few keystrokes",
       "name" : "Raycast",
       "stats" : {
-        "downloadCount" : 3468
+        "downloadCount" : 3469
       },
       "subtitle" : "Control your tools with a few keystrokes",
       "version" : "1.40.2",
@@ -74019,48 +74019,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "dropbox",
-      "caption" : "Dropbox updated from 157.4.4808 to 158.4.4564",
-      "date" : "2022-10-05T02:37:02Z",
-      "identifier" : "release-dropbox-158.4.4564",
-      "title" : "New Release: Dropbox 158.4.4564"
-    },
-    {
-      "appID" : "nordvpn",
-      "caption" : "NordVPN updated from 7.9.2,198 to 7.10.2,201",
-      "date" : "2022-10-05T02:37:02Z",
-      "identifier" : "release-nordvpn-7.10.2,201",
-      "title" : "New Release: NordVPN 7.10.2,201"
-    },
-    {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.18,20220915103033 to 6.2.21,20221003102957",
-      "date" : "2022-10-05T02:37:02Z",
-      "identifier" : "release-metasploit-6.2.21,20221003102957",
-      "title" : "New Release: Metasploit Framework 6.2.21,20221003102957"
-    },
-    {
-      "appID" : "pritunl",
-      "caption" : "Pritunl updated from 1.3.3290.45 to 1.3.3300.95",
-      "date" : "2022-10-05T02:37:02Z",
-      "identifier" : "release-pritunl-1.3.3300.95",
-      "title" : "New Release: Pritunl 1.3.3300.95"
-    },
-    {
-      "appID" : "copyq",
-      "caption" : "CopyQ updated from 6.3.0 to 6.3.2",
-      "date" : "2022-10-05T02:37:02Z",
-      "identifier" : "release-copyq-6.3.2",
-      "title" : "New Release: CopyQ 6.3.2"
-    },
-    {
-      "appID" : "cloudflare-warp",
-      "caption" : "Cloudflare WARP updated from 2022.8.861.0,20220912.22 to 2022.9.384.0,20220930.5",
-      "date" : "2022-10-05T02:37:02Z",
-      "identifier" : "release-cloudflare-warp-2022.9.384.0,20220930.5",
-      "title" : "New Release: Cloudflare WARP 2022.9.384.0,20220930.5"
-    },
-    {
       "appID" : "expressvpn",
       "caption" : "ExpressVPN updated from 11.8.0.69424 to 11.9.0.70037",
       "date" : "2022-10-05T02:37:02Z",
@@ -74717,6 +74675,48 @@
       "date" : "2022-10-05T18:52:10Z",
       "identifier" : "release-wireshark-4.0.0",
       "title" : "New Release: Wireshark 4.0.0"
+    },
+    {
+      "appID" : "blender",
+      "caption" : "Blender updated from 3.3.0 to 3.3.1",
+      "date" : "2022-10-05T20:44:27Z",
+      "identifier" : "release-blender-3.3.1",
+      "title" : "New Release: Blender 3.3.1"
+    },
+    {
+      "appID" : "librewolf",
+      "caption" : "LibreWolf updated from 105.0.1,1,47ea426336b7e2ea855fd67ef6a83630 to 105.0.2,1,dddec6f0435424ddf0d4a50e2e04cb62",
+      "date" : "2022-10-05T20:44:28Z",
+      "identifier" : "release-librewolf-105.0.2,1,dddec6f0435424ddf0d4a50e2e04cb62",
+      "title" : "New Release: LibreWolf 105.0.2,1,dddec6f0435424ddf0d4a50e2e04cb62"
+    },
+    {
+      "appID" : "kindle",
+      "caption" : "Kindle for Mac updated from 1.38.65287 to 1.39.65301",
+      "date" : "2022-10-05T20:44:28Z",
+      "identifier" : "release-kindle-1.39.65301",
+      "title" : "New Release: Kindle for Mac 1.39.65301"
+    },
+    {
+      "appID" : "clockify",
+      "caption" : "Clockify updated from 2.8.1,439 to 2.8.2,444",
+      "date" : "2022-10-05T20:44:29Z",
+      "identifier" : "release-clockify-2.8.2,444",
+      "title" : "New Release: Clockify 2.8.2,444"
+    },
+    {
+      "appID" : "sleek",
+      "caption" : "sleek updated from 1.2.4 to 1.2.5",
+      "date" : "2022-10-05T20:44:29Z",
+      "identifier" : "release-sleek-1.2.5",
+      "title" : "New Release: sleek 1.2.5"
+    },
+    {
+      "appID" : "a-better-finder-rename",
+      "caption" : "A Better Finder Rename updated from 11.51 to 11.52",
+      "date" : "2022-10-05T20:44:29Z",
+      "identifier" : "release-a-better-finder-rename-11.52",
+      "title" : "New Release: A Better Finder Rename 11.52"
     }
   ],
   "platform" : "macos",

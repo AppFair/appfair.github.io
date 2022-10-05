@@ -59,7 +59,7 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 169040,
-        "downloadCount" : 463,
+        "downloadCount" : 464,
         "forkCount" : 1,
         "impressionCount" : 471,
         "issueCount" : 6,
@@ -100,12 +100,12 @@
       "size" : 2375825,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 56,
+        "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 158,
+        "impressionCount" : 160,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 11,
+        "viewCount" : 12,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -150,7 +150,7 @@
         "coreSize" : 170688,
         "downloadCount" : 43,
         "forkCount" : 0,
-        "impressionCount" : 278,
+        "impressionCount" : 280,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 38,
@@ -203,7 +203,7 @@
         "coreSize" : 170576,
         "downloadCount" : 43,
         "forkCount" : 0,
-        "impressionCount" : 5089,
+        "impressionCount" : 5093,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 801,
@@ -241,7 +241,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "9d7ac4e703081d00adf630718e25c5a74d9fbd81d7564dc3f72fc1443970e811",
+      "sha256" : "f88828ee77a05fb1cc9cffe961aeb745cb767cf9c108db1af509e1f11da4bdfa",
       "size" : 2351592,
       "stats" : {
         "coreSize" : 168592,
@@ -284,7 +284,7 @@
         "coreSize" : 170176,
         "downloadCount" : 33,
         "forkCount" : 0,
-        "impressionCount" : 800,
+        "impressionCount" : 802,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 81,
@@ -320,10 +320,10 @@
         "coreSize" : 170144,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 604,
+        "impressionCount" : 608,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 58,
+        "viewCount" : 59,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
@@ -369,7 +369,7 @@
         "coreSize" : 170224,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 861,
+        "impressionCount" : 863,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 76,
@@ -513,7 +513,7 @@
         "coreSize" : 170240,
         "downloadCount" : 26,
         "forkCount" : 1,
-        "impressionCount" : 707,
+        "impressionCount" : 709,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 53,
@@ -559,7 +559,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3691,
+        "impressionCount" : 3693,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 271,
@@ -602,7 +602,7 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 3982,
+        "impressionCount" : 3986,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 624,
@@ -662,7 +662,7 @@
       "homepage" : "http://Sun-Bow.appfair.net",
       "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
       "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
       "name" : "Sun Bow",
       "permissions" : [
         {
@@ -672,11 +672,11 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "633e6d24719502be5051fb9d1caab151554b29e491a771bb26e3053f07605f33",
+      "sha256" : "df506240d0fed7bd82da13a63f22b1fb4fd6f83eac466876b10b4529b5168ae8",
       "size" : 25200842,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 20,
+        "downloadCount" : 22,
         "forkCount" : 0,
         "impressionCount" : 4,
         "issueCount" : 0,
@@ -718,7 +718,7 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 954,
+        "impressionCount" : 957,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 73,
@@ -767,7 +767,7 @@
         "coreSize" : 170240,
         "downloadCount" : 14,
         "forkCount" : 0,
-        "impressionCount" : 278,
+        "impressionCount" : 281,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 15,
@@ -1080,7 +1080,7 @@
         "coreSize" : 170608,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 807,
+        "impressionCount" : 810,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -1124,7 +1124,7 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 672,
+        "impressionCount" : 674,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 45,
@@ -1213,6 +1213,43 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.World-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-macOS.zip",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "ba06490898208711d80f34348393dd5506b65f7be01904b205f834a1fe6f9320",
+      "size" : 7312458,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 4,
+        "forkCount" : 0,
+        "impressionCount" : 9,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.4",
+      "versionDate" : "2022-10-05T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "categories" : [
 
@@ -1240,7 +1277,7 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3267,
+        "impressionCount" : 3269,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 187,
@@ -1420,7 +1457,7 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 739,
+        "impressionCount" : 741,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -1538,7 +1575,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 673,
+        "impressionCount" : 674,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 56,
@@ -1641,43 +1678,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.World-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "ba06490898208711d80f34348393dd5506b65f7be01904b205f834a1fe6f9320",
-      "size" : 7312458,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 2,
-        "forkCount" : 0,
-        "impressionCount" : 8,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.4",
-      "versionDate" : "2022-10-05T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Fox-Glove",
       "categories" : [
 
@@ -1705,7 +1705,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 988,
+        "impressionCount" : 990,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,

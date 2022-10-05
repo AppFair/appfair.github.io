@@ -32,7 +32,6 @@ tr:nth-child(even) {
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `809` | `82` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `25` | `2022-09-23T00:00:00Z` | `7.8 MB` | `3` | `2` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `714` | `53` | `0` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `23` | `2022-10-04T00:00:00Z` | `21.3 MB` | `4` | `2` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `10` | `1` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460`` | `11` | `2022-09-23T00:00:00Z` | `13.5 MB` | `286` | `38` | `1` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1688` | `94` | `0` | `0` |  |

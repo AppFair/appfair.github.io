@@ -364,7 +364,7 @@
       "subtitle" : "3D creation suite",
       "tintColor" : "D28C43",
       "version" : "3.3.1",
-      "versionDate" : "2022-10-05T20:44:26Z"
+      "versionDate" : "2022-10-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3817,7 +3817,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
       "version" : "105.0.2,1,dddec6f0435424ddf0d4a50e2e04cb62",
-      "versionDate" : "2022-10-05T20:44:26Z"
+      "versionDate" : "2022-10-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4820,7 +4820,7 @@
       "subtitle" : "Interface for reading and syncing eBooks",
       "tintColor" : "3F6E7F",
       "version" : "1.39.65301",
-      "versionDate" : "2022-10-05T20:44:26Z"
+      "versionDate" : "2022-10-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8363,7 +8363,7 @@
       "subtitle" : "Time tracking tool for agencies and freelancers",
       "tintColor" : "2BB1ED",
       "version" : "2.8.2,444",
-      "versionDate" : "2022-10-05T20:44:26Z"
+      "versionDate" : "2022-10-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20258,7 +20258,7 @@
       "subtitle" : "Todo manager based on the todo.txt syntax",
       "tintColor" : "715C8C",
       "version" : "1.2.5",
-      "versionDate" : "2022-10-05T20:44:26Z"
+      "versionDate" : "2022-10-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46919,7 +46919,7 @@
       "subtitle" : "Renamer for files, music and photos",
       "tintColor" : "ADAE79",
       "version" : "11.52",
-      "versionDate" : "2022-10-05T20:44:26Z"
+      "versionDate" : "2022-10-05T00:00:00Z"
     },
     {
       "beta" : false,

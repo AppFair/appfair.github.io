@@ -148,9 +148,9 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/screenshot_02-mac-2642x1926.png"
       ],
       "stats" : {
-        "downloadCount" : 9018,
-        "impressionCount" : 9220,
-        "viewCount" : 703
+        "downloadCount" : 9019,
+        "impressionCount" : 9222,
+        "viewCount" : 704
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -1245,7 +1245,7 @@
       "subtitle" : "IDE for Java development - community edition",
       "tintColor" : "45447F",
       "version" : "2022.2.3,222.4345.14",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1502,9 +1502,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-calibre/README.md",
       "sha256" : "473944fd3db5af232e8c3101b4e8e060e1b37b3dd191e2df2e6e2e82c6d7026a",
       "stats" : {
-        "downloadCount" : 1846,
-        "impressionCount" : 4193,
-        "viewCount" : 202
+        "downloadCount" : 1847,
+        "impressionCount" : 4196,
+        "viewCount" : 203
       },
       "subtitle" : "E-books management software",
       "tintColor" : "75706B",
@@ -1638,7 +1638,7 @@
       "subtitle" : "Multi-track audio editor and recorder",
       "tintColor" : "6B3984",
       "version" : "3.2.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3049,7 +3049,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "C5C2AA",
       "version" : "106.0.5249.103",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3194,7 +3194,7 @@
       "subtitle" : "Java IDE by JetBrains",
       "tintColor" : "5F5977",
       "version" : "2022.2.3,222.4345.14",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3393,20 +3393,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.3.8.zip",
+      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.4.2.zip",
       "homepage" : "https://www.figma.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-figma/AppIcon.png",
       "localizedDescription" : "Collaborative team software",
       "name" : "Figma",
-      "sha256" : "0623e4f72ee2a829559f2a61dc947994136b648474e3b070b9c36df400d50b86",
+      "sha256" : "f296737e363b1c705a4b87cc29d8c38be267d377eac9a51a0fca4ca560b1c11b",
       "stats" : {
         "downloadCount" : 2405,
         "impressionCount" : 2991
       },
       "subtitle" : "Collaborative team software",
       "tintColor" : "433C42",
-      "version" : "116.3.8",
-      "versionDate" : "2022-09-17T00:00:00Z"
+      "version" : "116.4.2",
+      "versionDate" : "2022-10-06T04:10:26Z"
     },
     {
       "beta" : false,
@@ -4027,8 +4027,8 @@
       "name" : "BetterTouchTool",
       "sha256" : "d67e6409a0a69ad77e493bd045dd23077289c9a9ba820a0d2f6d4a20b192d348",
       "stats" : {
-        "downloadCount" : 990,
-        "impressionCount" : 1598
+        "downloadCount" : 991,
+        "impressionCount" : 1600
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
@@ -4128,8 +4128,8 @@
       "name" : "Mos",
       "sha256" : "01c338db847141b8fc21bba281cdb6138824ede85c98b406345eb8899457476f",
       "stats" : {
-        "downloadCount" : 894,
-        "impressionCount" : 790
+        "downloadCount" : 895,
+        "impressionCount" : 793
       },
       "subtitle" : "Smooths scrolling and set mouse scroll directions independently",
       "tintColor" : "282B4A",
@@ -4609,7 +4609,7 @@
       "subtitle" : "Xcode Extension for reformatting Swift code",
       "tintColor" : "44424D",
       "version" : "0.50.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5401,7 +5401,7 @@
       "subtitle" : "Tool to remove unnecessary files and folders from disk",
       "tintColor" : "E6B2D2",
       "version" : "4.11.4,41104.0.2210041339",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5779,7 +5779,7 @@
       "sha256" : "a9f481824a6d76c5a53a4443aac57f1fc2f091055742842defd81ed3b5f15d78",
       "stats" : {
         "downloadCount" : 336,
-        "impressionCount" : 688
+        "impressionCount" : 691
       },
       "subtitle" : "GUI for the Neovim text editor",
       "tintColor" : "55A349",
@@ -6082,8 +6082,8 @@
       "sha256" : "7ca075cebb5c36a02c40babf0a2d5e148ac4294935f45430e22476c369eb05b5",
       "stats" : {
         "downloadCount" : 284,
-        "impressionCount" : 447,
-        "viewCount" : 33
+        "impressionCount" : 449,
+        "viewCount" : 34
       },
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.38.1",
@@ -6139,7 +6139,7 @@
       "subtitle" : "Explorer for Azure Storage",
       "tintColor" : "DCE7F2",
       "version" : "1.26.0",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6400,7 +6400,7 @@
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
       "version" : "21.1.0",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7366,7 +7366,7 @@
       "subtitle" : "Virtual video-calling space",
       "tintColor" : "3260E6",
       "version" : "0.3.14",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8526,7 +8526,7 @@
       "subtitle" : "Display technical and tag data for video and audio files",
       "tintColor" : "2E2630",
       "version" : "22.09",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9682,7 +9682,7 @@
       "subtitle" : "Notetaking tool",
       "tintColor" : "6391B2",
       "version" : "4.0.2210041402",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10133,7 +10133,7 @@
       "subtitle" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "tintColor" : "761E76",
       "version" : "3.6.8",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11235,7 +11235,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "23BAF6",
       "version" : "5.0.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12486,6 +12486,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "unite",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://bzgdownloads.s3.amazonaws.com/Unite/Unite+4.2.1.zip",
+      "homepage" : "https://bzgapps.com/unite",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unite/AppIcon.png",
+      "localizedDescription" : "Turn websites into apps",
+      "name" : "Unite",
+      "sha256" : "14ce8be9abc606419406129a135c7881d1df5e77684d933350ace51e02407992",
+      "stats" : {
+        "downloadCount" : 48,
+        "impressionCount" : 492
+      },
+      "subtitle" : "Turn websites into apps",
+      "tintColor" : "DBCAEF",
+      "version" : "4.2.1",
+      "versionDate" : "2022-10-05T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "arctype",
       "categories" : [
         "public.app-category.developer-tools"
@@ -12700,27 +12721,6 @@
       "subtitle" : "Open-source PostgreSQL GUI client",
       "tintColor" : "A3ADC6",
       "version" : "0.8.4"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "unite",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://bzgdownloads.s3.amazonaws.com/Unite/Unite+4.2.1.zip",
-      "homepage" : "https://bzgapps.com/unite",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unite/AppIcon.png",
-      "localizedDescription" : "Turn websites into apps",
-      "name" : "Unite",
-      "sha256" : "14ce8be9abc606419406129a135c7881d1df5e77684d933350ace51e02407992",
-      "stats" : {
-        "downloadCount" : 47,
-        "impressionCount" : 491
-      },
-      "subtitle" : "Turn websites into apps",
-      "tintColor" : "DBCAEF",
-      "version" : "4.2.1",
-      "versionDate" : "2022-10-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13006,7 +13006,7 @@
       "subtitle" : "Remote access software focusing on usability",
       "tintColor" : "8C64A1",
       "version" : "4.12.4,1664929688",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15175,7 +15175,7 @@
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "tintColor" : "CAD3FD",
       "version" : "1.8.39",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16238,7 +16238,7 @@
       "subtitle" : "Organize all your reference images in one place",
       "tintColor" : "60A6F4",
       "version" : "3.0,17",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16259,7 +16259,7 @@
       "subtitle" : "Tool for teams to create living documents",
       "tintColor" : "F1BEB2",
       "version" : "7.70.0",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17925,7 +17925,7 @@
       "subtitle" : "Collaboration tool with multi-user screen sharing",
       "tintColor" : "CCAE50",
       "version" : "4.2.9",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18232,7 +18232,7 @@
       "subtitle" : "Twitter client",
       "tintColor" : "559BC9",
       "version" : "5.4.10,189",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18436,7 +18436,7 @@
       "subtitle" : "Tool to remove unnecessary files and folders from disk Chinese edition",
       "tintColor" : "EDB8DB",
       "version" : "4.11.4,41104.0.2210041355",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18734,7 +18734,7 @@
       "subtitle" : "Collaborative SQL editor",
       "tintColor" : "F6DAD6",
       "version" : "1.0.82",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19737,7 +19737,7 @@
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
       "version" : "1.95.1,stable.2,4750141",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20841,7 +20841,7 @@
       "subtitle" : "Disk space analyzer",
       "tintColor" : "657FAE",
       "version" : "3.8.2,376",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20985,6 +20985,26 @@
       "tintColor" : "9D4650",
       "version" : "4.1.0",
       "versionDate" : "2022-09-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "mailmaster",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "http://client.dl.126.net/macmail/dashi/mailmaster.dmg",
+      "homepage" : "https://mail.163.com/dashi/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mailmaster/AppIcon.png",
+      "localizedDescription" : "Email client",
+      "name" : "NetEase Mail Master",
+      "stats" : {
+        "downloadCount" : 14,
+        "impressionCount" : 356
+      },
+      "subtitle" : "Email client",
+      "tintColor" : "FB5151",
+      "version" : "4.17.5,1295",
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21561,26 +21581,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "mailmaster",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "http://client.dl.126.net/macmail/dashi/mailmaster.dmg",
-      "homepage" : "https://mail.163.com/dashi/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mailmaster/AppIcon.png",
-      "localizedDescription" : "Email client",
-      "name" : "NetEase Mail Master",
-      "stats" : {
-        "downloadCount" : 13,
-        "impressionCount" : 354
-      },
-      "subtitle" : "Email client",
-      "tintColor" : "FB5151",
-      "version" : "4.17.5,1295",
-      "versionDate" : "2022-10-06T02:34:16Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "marvin",
       "categories" : [
         "public.app-category.developer-tools"
@@ -22151,7 +22151,7 @@
       "subtitle" : "Music streaming service",
       "tintColor" : "5EDDF7",
       "version" : "22.10.2",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22333,7 +22333,7 @@
       "subtitle" : "Powerful runtime view debugging for iOS developers",
       "tintColor" : "A68254",
       "version" : "39a,17703",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23354,7 +23354,7 @@
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
       "version" : "0.12.3",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23849,7 +23849,7 @@
       "subtitle" : "Time tracking software",
       "tintColor" : "FE667C",
       "version" : "2022.07,403",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24294,7 +24294,7 @@
       "subtitle" : "Interactive graphical viewer and editor for tabular data",
       "tintColor" : "9C9C07",
       "version" : "4.8-7",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27603,7 +27603,7 @@
       "subtitle" : "Interactive Geometry Software",
       "tintColor" : "A18119",
       "version" : "3.0b.2058",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28305,7 +28305,7 @@
       "subtitle" : "Remote access tool",
       "tintColor" : "A8D0EB",
       "version" : "4.1.7806,4.1.0.7806",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28653,7 +28653,7 @@
       "subtitle" : "Web browser environment to carry out e-assessments safely",
       "tintColor" : "71818B",
       "version" : "3.1.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35305,7 +35305,7 @@
       "subtitle" : "Manage all your tasks, files, and notes",
       "tintColor" : "47535E",
       "version" : "10,20221007",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40629,7 +40629,7 @@
       "subtitle" : "Video communication and virtual meeting platform",
       "tintColor" : "22445D",
       "version" : "42.10.0.23814",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41242,7 +41242,7 @@
       "subtitle" : "IDE, client, and GUI for MongoDB",
       "tintColor" : "48BD85",
       "version" : "2022.8.2",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42346,7 +42346,7 @@
       "subtitle" : "Tool for working with messy data (previously Google Refine)",
       "tintColor" : "00B2FF",
       "version" : "3.6.2",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43022,7 +43022,7 @@
       "subtitle" : "Emulator frontend (OpenGL graphics API version)",
       "tintColor" : "494949",
       "version" : "1.11.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43306,7 +43306,7 @@
       "subtitle" : "Open-source image processing package",
       "tintColor" : "5387BB",
       "version" : "20221005-1117",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44778,6 +44778,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "activitywatch",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.1/activitywatch-v0.12.1-macos-x86_64.dmg",
+      "homepage" : "https://activitywatch.net/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-activitywatch/AppIcon.png",
+      "localizedDescription" : "Time tracker",
+      "name" : "ActivityWatch",
+      "sha256" : "293ce27ea5f8bb5d0fb2c3114bb06d94c114dfbff05fa57f6f320dcbce731ace",
+      "stats" : {
+        "downloadCount" : 52,
+        "impressionCount" : 112
+      },
+      "subtitle" : "Time tracker",
+      "tintColor" : "BABABA",
+      "version" : "0.12.1",
+      "versionDate" : "2022-10-05T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "namechanger",
       "categories" : [
 
@@ -44817,27 +44838,6 @@
       "tintColor" : "34156B",
       "version" : "2.1.1",
       "versionDate" : "2022-09-06T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "activitywatch",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/ActivityWatch/activitywatch/releases/download/v0.12.1/activitywatch-v0.12.1-macos-x86_64.dmg",
-      "homepage" : "https://activitywatch.net/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-activitywatch/AppIcon.png",
-      "localizedDescription" : "Time tracker",
-      "name" : "ActivityWatch",
-      "sha256" : "293ce27ea5f8bb5d0fb2c3114bb06d94c114dfbff05fa57f6f320dcbce731ace",
-      "stats" : {
-        "downloadCount" : 51,
-        "impressionCount" : 109
-      },
-      "subtitle" : "Time tracker",
-      "tintColor" : "BABABA",
-      "version" : "0.12.1",
-      "versionDate" : "2022-10-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -45080,7 +45080,7 @@
       "subtitle" : "Emulator frontend (Metal graphics API version)",
       "tintColor" : "494949",
       "version" : "1.11.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -45203,7 +45203,7 @@
       "subtitle" : "Audiobook manager for Audible users",
       "tintColor" : "8A6264",
       "version" : "3.6.2",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46560,7 +46560,7 @@
       "subtitle" : "Browser designed for modern work",
       "tintColor" : "EFDADC",
       "version" : "104.29.3.24853,7d82970",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48471,7 +48471,7 @@
       "subtitle" : "Alternative GUI for Time Machine",
       "tintColor" : "708185",
       "version" : "3.8,2448",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49731,7 +49731,7 @@
       "subtitle" : "File synchronization and backup software",
       "tintColor" : "C8BBDC",
       "version" : "12.0.7",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51020,7 +51020,7 @@
       "subtitle" : "Create configuration profiles containing a PPPC payload",
       "tintColor" : "6DCDB5",
       "version" : "1.5.0",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51824,7 +51824,7 @@
       "subtitle" : "Open source divelog program",
       "tintColor" : "4E6897",
       "version" : "5.0.10",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52310,7 +52310,7 @@
       "subtitle" : "Collection of patches applied to OpenTTD",
       "tintColor" : "B28846",
       "version" : "0.48.5",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52727,7 +52727,7 @@
       "subtitle" : "Metadata editor for digital comics",
       "tintColor" : "897179",
       "version" : "1.5.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54465,7 +54465,7 @@
       "subtitle" : "Personal booru-style media tagger to organize your media",
       "tintColor" : "000000",
       "version" : "501",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54818,7 +54818,7 @@
       "subtitle" : "Video downloader",
       "tintColor" : "3D8FC9",
       "version" : "2.9,612",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -58435,7 +58435,7 @@
       "subtitle" : "Business process automation and optimization",
       "tintColor" : "C92A44",
       "version" : "2022.2-u0",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59432,7 +59432,7 @@
       },
       "subtitle" : "UI toolkit for building applications for mobile, web and desktop",
       "version" : "3.3.4",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61540,7 +61540,7 @@
       },
       "subtitle" : "Enables developers to manage Confluent Cloud or Confluent Platform",
       "version" : "2.28.0",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61651,7 +61651,7 @@
       },
       "subtitle" : "Platform for 3D content",
       "version" : "2022.1.19f1,2fd7b40534d1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61799,7 +61799,7 @@
       },
       "subtitle" : "Application to spoof your iOS, iPadOS or iPhoneSimulator device location",
       "version" : "0.1.9.4",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65429,7 +65429,7 @@
       },
       "subtitle" : "Office suite",
       "version" : "2021,1054",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65704,7 +65704,7 @@
       },
       "subtitle" : "Note-taking platform",
       "version" : "3.15.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66140,7 +66140,7 @@
       },
       "subtitle" : "Personal media server with apps on just about every device",
       "version" : "4.7.8.0",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66310,7 +66310,7 @@
       },
       "subtitle" : "NAS management application",
       "version" : "7.8.2.0928",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -66530,7 +66530,7 @@
       },
       "subtitle" : "Delete junk, unnecessary files and folders, and speed up your computer",
       "version" : "2.9.2,347",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67422,7 +67422,7 @@
       },
       "subtitle" : "Play Digital Cinema Packages",
       "version" : "2.16.29",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67593,7 +67593,7 @@
       },
       "subtitle" : "Store and sync files securely",
       "version" : "3.5.0,163",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67863,7 +67863,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.29",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69163,7 +69163,7 @@
       },
       "subtitle" : "VPN client",
       "version" : "2.55.431.0",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69738,7 +69738,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.29",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69756,7 +69756,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.29",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69774,7 +69774,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.29",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72046,7 +72046,7 @@
       },
       "subtitle" : "Digital Asset Management",
       "version" : "7.4.1.4559",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72338,7 +72338,7 @@
       },
       "subtitle" : "Online remote concert service: enjoy playing even if far away from each other",
       "version" : "1.5.2",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73007,7 +73007,7 @@
       },
       "subtitle" : "Local file transfer",
       "version" : "4.4.2",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73076,7 +73076,7 @@
       },
       "subtitle" : "Digital signature and time stamp app",
       "version" : "1.2.9",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73128,7 +73128,7 @@
       },
       "subtitle" : "Disk optimizer and defragmentation tool",
       "version" : "5.3.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73164,7 +73164,7 @@
       },
       "subtitle" : "Apple Music playlist exporting tool",
       "version" : "3.9.0",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73484,7 +73484,7 @@
       },
       "subtitle" : "Companion app to the mütesync physical button",
       "version" : "5.4.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73652,7 +73652,7 @@
         "downloadCount" : 1
       },
       "version" : "1.0.4",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73727,7 +73727,7 @@
       },
       "subtitle" : "Arcade-style game",
       "version" : "4.3.2.1",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74006,7 +74006,7 @@
       },
       "subtitle" : "DLNA/UPnP media server",
       "version" : "8.5.2",
-      "versionDate" : "2022-10-06T02:34:16Z"
+      "versionDate" : "2022-10-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74102,13 +74102,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "webex-meetings",
-      "caption" : "Webex Meetings updated from 2209.2123.4210.3 to 2209.2901.4210.4",
-      "date" : "2022-10-05T04:20:48Z",
-      "identifier" : "release-webex-meetings-2209.2901.4210.4",
-      "title" : "New Release: Webex Meetings 2209.2901.4210.4"
-    },
     {
       "appID" : "namechanger",
       "caption" : "NameChanger updated from 3.4.3,12 to 3.4.4,13",
@@ -74801,6 +74794,13 @@
       "date" : "2022-10-06T02:34:31Z",
       "identifier" : "release-twonkyserver-8.5.2",
       "title" : "New Release: Twonky Server 8.5.2"
+    },
+    {
+      "appID" : "figma",
+      "caption" : "Figma updated from 116.3.8 to 116.4.2",
+      "date" : "2022-10-06T04:10:27Z",
+      "identifier" : "release-figma-116.4.2",
+      "title" : "New Release: Figma 116.4.2"
     }
   ],
   "platform" : "macos",

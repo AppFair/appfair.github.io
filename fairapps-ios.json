@@ -25,7 +25,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 180,
+        "impressionCount" : 181,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 15,
@@ -69,7 +69,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3705,
+        "impressionCount" : 3706,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 272,
@@ -119,7 +119,7 @@
         "coreSize" : 170224,
         "downloadCount" : 35,
         "forkCount" : 0,
-        "impressionCount" : 139,
+        "impressionCount" : 141,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,
@@ -187,7 +187,7 @@
         "coreSize" : 169040,
         "downloadCount" : 28,
         "forkCount" : 1,
-        "impressionCount" : 491,
+        "impressionCount" : 494,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 77,
@@ -224,7 +224,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 626,
+        "impressionCount" : 629,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -260,7 +260,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 817,
+        "impressionCount" : 818,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 82,
@@ -346,7 +346,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 721,
+        "impressionCount" : 722,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 53,
@@ -356,6 +356,43 @@
       "version" : "0.0.5",
       "versionDate" : "2022-09-02T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.World-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "eb81d1003612b082b5d352609f25b5341f179a5ac7e971581ef9fea43672173f",
+      "size" : 3790386,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 21,
+        "forkCount" : 0,
+        "impressionCount" : 25,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 3,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.3",
+      "versionDate" : "2022-10-04T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
     },
     {
       "beta" : true,
@@ -404,43 +441,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.World-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "eb81d1003612b082b5d352609f25b5341f179a5ac7e971581ef9fea43672173f",
-      "size" : 3790386,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 19,
-        "forkCount" : 0,
-        "impressionCount" : 24,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.3",
-      "versionDate" : "2022-10-04T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Tune-Out",
       "categories" : [
 
@@ -473,7 +473,7 @@
         "coreSize" : 170688,
         "downloadCount" : 11,
         "forkCount" : 0,
-        "impressionCount" : 299,
+        "impressionCount" : 301,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 42,
@@ -651,7 +651,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3279,
+        "impressionCount" : 3280,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 187,
@@ -769,6 +769,48 @@
       "version" : "0.0.35",
       "versionDate" : "2021-12-04T00:00:00Z",
       "versionDescription" : "Release 0.0.35"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "categories" : [
+
+      ],
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "ec3cf0cb11ee58c57ffffe125911615780aaa1a8181776b40e0f2fe83cc09718",
+      "size" : 21300577,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 6,
+        "forkCount" : 0,
+        "impressionCount" : 3,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "tintColor" : "17B0E6",
+      "version" : "0.0.28",
+      "versionDate" : "2022-10-05T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : true,
@@ -931,6 +973,43 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.World-Fair",
+      "categories" : [
+
+      ],
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-iOS.ipa",
+      "fundingLinks" : [
+
+      ],
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
+      "size" : 3817496,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 4,
+        "forkCount" : 0,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.4",
+      "versionDate" : "2022-10-06T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "categories" : [
 
@@ -1039,48 +1118,6 @@
       "versionDescription" : "Release 0.0.11"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "ec3cf0cb11ee58c57ffffe125911615780aaa1a8181776b40e0f2fe83cc09718",
-      "size" : 21300577,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 4,
-        "forkCount" : 0,
-        "impressionCount" : 3,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
-      "versionDate" : "2022-10-05T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Eternal-September",
       "categories" : [
@@ -1105,7 +1142,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 686,
+        "impressionCount" : 688,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 57,
@@ -1150,7 +1187,7 @@
         "coreSize" : 170320,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 685,
+        "impressionCount" : 686,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 45,
@@ -1192,7 +1229,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 824,
+        "impressionCount" : 826,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 40,
@@ -1244,7 +1281,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 876,
+        "impressionCount" : 877,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 76,
@@ -1293,43 +1330,6 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.World-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-iOS.ipa",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
-      "size" : 3817496,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 2,
-        "forkCount" : 0,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.4",
-      "versionDate" : "2022-10-06T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "categories" : [
@@ -1363,7 +1363,7 @@
         "coreSize" : 170240,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 301,
+        "impressionCount" : 303,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 17,
@@ -1400,7 +1400,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 971,
+        "impressionCount" : 972,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 74,
@@ -1436,7 +1436,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1002,
+        "impressionCount" : 1004,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -1472,7 +1472,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 749,
+        "impressionCount" : 751,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -1507,7 +1507,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "1b02a2a7cef19a0cc8ed28574944f7e8511ef1774826f65393f9ed047dce397d",
+      "sha256" : "5df0fea7317be24c9bef7a3adc8d5a25ae487866504a2bcfd4d219f6d48cb3f7",
       "size" : 1236686,
       "stats" : {
         "coreSize" : 168592,

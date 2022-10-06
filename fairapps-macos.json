@@ -148,12 +148,12 @@
       "size" : 8564253,
       "stats" : {
         "coreSize" : 170688,
-        "downloadCount" : 44,
+        "downloadCount" : 45,
         "forkCount" : 0,
-        "impressionCount" : 290,
+        "impressionCount" : 293,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 41,
+        "viewCount" : 42,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -1478,7 +1478,7 @@
       "homepage" : "http://Sun-Bow.appfair.net",
       "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
       "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
       "name" : "Sun Bow",
       "permissions" : [
         {
@@ -1488,7 +1488,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "efe1825a730acf239513d7ae58270afd5e106d8dcf96cd120385057bc60b448c",
+      "sha256" : "a4065bccecda767e30366177450117a078e8864e03cf2bc7b11a8b1489db5054",
       "size" : 25213562,
       "stats" : {
         "coreSize" : 168592,
@@ -1818,7 +1818,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "f88828ee77a05fb1cc9cffe961aeb745cb767cf9c108db1af509e1f11da4bdfa",
+      "sha256" : "9d7ac4e703081d00adf630718e25c5a74d9fbd81d7564dc3f72fc1443970e811",
       "size" : 2351577,
       "stats" : {
         "coreSize" : 168592,

@@ -33,7 +33,7 @@ tr:nth-child(even) {
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `717` | `53` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `10` | `1` | `0` | `0` |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `19` | `2022-10-04T00:00:00Z` | `3.8 MB` | `18` | `3` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460`` | `11` | `2022-09-23T00:00:00Z` | `13.5 MB` | `290` | `41` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460`` | `11` | `2022-09-23T00:00:00Z` | `13.5 MB` | `293` | `42` | `1` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1690` | `94` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `510` | `9` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.8β`` | `9` | `2021-12-06T00:00:00Z` | `5.8 MB` | `381` | `20` | `0` | `0` |  |

@@ -162,7 +162,7 @@ tr:nth-child(even) {
 | [``FreeMacSoft AppCleaner``](https://freemacsoft.net/appcleaner/) | ``3.6.4,4270`` | `2511` |  |  | `1648` |  |  | `0` | `public.app-category.utilities` |
 | [``Obsidian``](https://obsidian.md/) | ``0.15.9`` | `2489` | `2022-07-27T00:00:00Z` |  | `1373` |  |  | `0` | `public.app-category.productivity` |
 | [``Atlassian SourceTree``](https://www.sourcetreeapp.com/) | ``4.2.0,246`` | `2439` | `2022-09-06T00:00:00Z` |  | `1035` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Figma``](https://www.figma.com/) | ``116.4.2`` | `2405` | `2022-10-06T04:10:26Z` |  | `2991` |  |  | `0` | `public.app-category.graphics-design` |
+| [``Figma``](https://www.figma.com/) | ``116.4.2`` | `2405` | `2022-10-06T00:00:00Z` |  | `2991` |  |  | `0` | `public.app-category.graphics-design` |
 | [``IINA``](https://iina.io/) | ``1.3.0`` | `2300` |  |  | `1463` |  |  | `0` | `public.app-category.video` |
 | [``MySQL Workbench``](https://www.mysql.com/products/workbench/) | ``8.0.30`` | `2271` | `2022-07-26T00:00:00Z` |  | `819` |  |  | `0` | `public.app-category.developer-tools` |
 | [``UTM``](https://getutm.app/) | ``3.2.4`` | `2213` |  |  | `2351` |  |  | `0` | `public.app-category.business` |

@@ -630,7 +630,7 @@
         "coreSize" : 168592,
         "downloadCount" : 21,
         "forkCount" : 0,
-        "impressionCount" : 25,
+        "impressionCount" : 27,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -1100,7 +1100,7 @@
       "homepage" : "http://Sun-Bow.appfair.net",
       "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
       "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Sun Bow",
       "permissions" : [
         {
@@ -1110,7 +1110,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "a4065bccecda767e30366177450117a078e8864e03cf2bc7b11a8b1489db5054",
+      "sha256" : "633e6d24719502be5051fb9d1caab151554b29e491a771bb26e3053f07605f33",
       "size" : 25213562,
       "stats" : {
         "coreSize" : 168592,
@@ -1818,7 +1818,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "f88828ee77a05fb1cc9cffe961aeb745cb767cf9c108db1af509e1f11da4bdfa",
+      "sha256" : "5c67c44376bece6629d83bc129e669d525b5950637b590abe3081a002ca294ea",
       "size" : 2351574,
       "stats" : {
         "coreSize" : 168592,

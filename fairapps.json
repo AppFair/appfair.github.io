@@ -3,14 +3,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
-      "categories" : [
-
-      ],
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/App-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "homepage" : "https://appfair.app",
       "iconURL" : "https://github.com/App-Fair/App/releases/download/0.8.118/App-Fair.png",
       "localizedDescription" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -76,14 +70,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Media-Res",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res.png",
       "localizedDescription" : "Art imitating Life (imitating Art)",
       "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -116,14 +104,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Blunder-Busq",
-      "categories" : [
-
-      ],
       "developerName" : "blunderbusq <blunderbusq@blunderbusq.app>",
       "downloadURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "homepage" : "https://www.blunderbusq.app",
       "iconURL" : "https://github.com/Blunder-Busq/App/releases/download/0.1.7/Blunder-Busq.png",
       "localizedDescription" : "App for managing iOS devices",
@@ -169,14 +151,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica.png",
       "localizedDescription" : "All the accumulated knowledge in the galaxy",
       "metadataURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Info.plist#3fbcf5b69338596203c3d874fb8e4b7ce433082b907f74e61b9a817c8e1367eb",
@@ -204,15 +180,52 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Huffle-Puff",
-      "categories" : [
-
+      "bundleIdentifier" : "app.Tune-Out",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
       ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-dark-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-mac-2180x1464.png"
+      ],
+      "sha256" : "1d56138f625e73a4f5801f2c3c5c9b9bf0ef8359dfd28cd4d4c462875732d986",
+      "size" : 9641013,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 31,
+        "forkCount" : 0,
+        "impressionCount" : 512,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 55,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.458",
+      "versionDate" : "2022-09-01T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Huffle-Puff",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
       "localizedDescription" : "H.R. Huffle Puff ",
       "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -241,14 +254,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Stanza-Redux",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux.png",
       "localizedDescription" : "An electronic book reader",
       "metadataURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Info.plist#7c22b0edfd8a6c307a3f7857d703750f0f5db3b17cef364ff57b813180488882",
@@ -290,64 +297,9 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.458/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-dark-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.458/screenshot_03-mac-2180x1464.png"
-      ],
-      "sha256" : "1d56138f625e73a4f5801f2c3c5c9b9bf0ef8359dfd28cd4d4c462875732d986",
-      "size" : 9641013,
-      "stats" : {
-        "coreSize" : 170688,
-        "downloadCount" : 29,
-        "forkCount" : 0,
-        "impressionCount" : 512,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 55,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.458",
-      "versionDate" : "2022-09-01T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.457...0.8.458"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
@@ -391,16 +343,50 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.World-Fair",
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair-macOS.zip",
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read and write files in order to…"
+        }
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "17dfa278ab004a10e0392e1f7997b6df4aa5707b9ada51d2880313a438dc9451",
+      "size" : 7288570,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 26,
+        "forkCount" : 0,
+        "impressionCount" : 40,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 7,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.3",
+      "versionDate" : "2022-10-04T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.Net-Skip",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/Net-Skip-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/Net-Skip.png",
       "localizedDescription" : "Web browsing for the connoisseur",
       "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.49/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
@@ -446,14 +432,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Fair-Skies",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "homepage" : "http://Fair-Skies.github.io/App",
       "iconURL" : "https://github.com/Fair-Skies/App/releases/download/0.0.5/Fair-Skies.png",
       "localizedDescription" : "An app for weather bugs",
@@ -482,61 +462,9 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.World-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read and write files in order to…"
-        }
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "17dfa278ab004a10e0392e1f7997b6df4aa5707b9ada51d2880313a438dc9451",
-      "size" : 7288570,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 24,
-        "forkCount" : 0,
-        "impressionCount" : 40,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 7,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.3",
-      "versionDate" : "2022-10-04T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
@@ -576,14 +504,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Next-Edit",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Next-Edit.png",
       "localizedDescription" : "Syntactic Text Editor",
       "metadataURL" : "https://github.com/Next-Edit/App/releases/download/0.4.18/Info.plist#78288b2b9832e3d0ebf68ffe39ee3f69a2a7a5253a221658250d131eda738dc8",
@@ -618,14 +540,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.App-Title",
-      "categories" : [
-
-      ],
       "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
       "downloadURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/App-Title/App/releases/download/0.0.1/App-Title.png",
       "localizedDescription" : "A very useful app indeed",
       "metadataURL" : "https://github.com/App-Title/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -653,14 +569,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Crazy-Glue",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Crazy-Glue.png",
       "localizedDescription" : "Putting the pieces back together",
       "metadataURL" : "https://github.com/Crazy-Glue/App/releases/download/0.0.7/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -692,14 +602,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/Bon-Mot-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/Bon-Mot.png",
       "localizedDescription" : "Simple dictionary app",
       "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
@@ -742,14 +646,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Down-Town",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town.png",
       "localizedDescription" : "An urban street guide",
       "metadataURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -782,14 +680,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Festivus-Pole",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Festivus-Pole.png",
       "localizedDescription" : "A true Festivus celebration",
       "metadataURL" : "https://github.com/Festivus-Pole/App/releases/download/0.0.3/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -821,14 +713,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Todo-Hero",
-      "categories" : [
-
-      ],
       "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
       "downloadURL" : "https://github.com/Todo-Hero/App/releases/download/0.0.1/Todo-Hero-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "homepage" : "http://appfair.net/#quick-start",
       "iconURL" : "https://github.com/Todo-Hero/App/releases/download/0.0.1/Todo-Hero.png",
       "localizedDescription" : "A simple TODO management app",
@@ -858,14 +744,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Visi-Calc",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Visi-Calc.png",
       "localizedDescription" : "A business app for business-folk",
       "metadataURL" : "https://github.com/Visi-Calc/App/releases/download/0.0.37/Info.plist#d1d3028fa679289adb1356dbcf36b05a7b11590f77677c0eb908ad3a8fd8b75f",
@@ -894,14 +774,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Story-Points",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points.png",
       "localizedDescription" : "UX Design Tool",
       "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -934,14 +808,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Hear-Tell",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Hear-Tell.png",
       "localizedDescription" : "Identify ambient sounds.",
       "metadataURL" : "https://github.com/Hear-Tell/App/releases/download/0.3.38/Info.plist#263a3737ed9d259afbaf4020b17e232339ca0bd4e981a0d8d160ba52476ec460",
@@ -973,14 +841,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Micro-Vector",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector.png",
       "localizedDescription" : "A vector drawing app",
       "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1013,14 +875,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
       "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1054,14 +910,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
       "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
@@ -1098,14 +948,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Sun-Bow",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "homepage" : "http://Sun-Bow.appfair.net",
       "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
       "localizedDescription" : "An app for sunnier days",
@@ -1119,7 +963,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "96af9086f8afdf037c48c290c7bca9429ddc2b9af6873f5dc962867cde2e2c46",
+      "sha256" : "633e6d24719502be5051fb9d1caab151554b29e491a771bb26e3053f07605f33",
       "size" : 25213562,
       "stats" : {
         "coreSize" : 168592,
@@ -1140,14 +984,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Name-Sense",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Name-Sense.png",
       "localizedDescription" : "A name picking app",
       "metadataURL" : "https://github.com/Name-Sense/App/releases/download/0.0.24/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1180,14 +1018,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Silly-Little-App",
-      "categories" : [
-
-      ],
       "developerName" : "fair-ground action <fair-ground@users.noreply.github.com>",
       "downloadURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Silly-Little-App-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Silly-Little-App.png",
       "localizedDescription" : "A simple little app to demonstrate the App Fair",
       "metadataURL" : "https://github.com/Silly-Little-App/App/releases/download/0.0.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1214,16 +1046,53 @@
       "versionDescription" : ""
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-macOS.zip",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-mac-2180x1464.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
+      ],
+      "sha256" : "40e2569c91f8bbdc7356fc24a9d6b0525c9d589d7238d9541006ee624f058634",
+      "size" : 13730223,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 4,
+        "forkCount" : 0,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.460",
+      "versionDate" : "2022-10-06T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
       "localizedDescription" : "An offline recipe book",
       "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1256,14 +1125,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Neural-Scry",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Neural-Scry-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Neural-Scry.png",
       "localizedDescription" : "Brain scanner",
       "metadataURL" : "https://github.com/Neural-Scry/App/releases/download/0.0.51/Info.plist#2215eff2478180960a9c3d722d16eb05a760a8a09dab75af2881197aaff61bd1",
@@ -1319,14 +1182,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Pan-Opticon",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Pan-Opticon.png",
       "localizedDescription" : "Watch the Watchers",
       "metadataURL" : "https://github.com/Pan-Opticon/App/releases/download/0.2.22/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1360,14 +1217,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Red-Light-Green-Light",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Red-Light-Green-Light.png",
       "localizedDescription" : "무궁화 꽃이 피었습니다",
       "metadataURL" : "https://github.com/Red-Light-Green-Light/App/releases/download/0.0.12/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1400,14 +1251,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Tidal-Zone-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Tidal-Zone.png",
       "localizedDescription" : "What tide is it right now?",
       "metadataURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1436,14 +1281,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Ultra-Light",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Ultra-Light.png",
       "localizedDescription" : "A bit of lite reading",
       "metadataURL" : "https://github.com/Ultra-Light/App/releases/download/0.0.7/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1478,14 +1317,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Yankee-Swap",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Yankee-Swap.png",
       "localizedDescription" : "Old-time horse trading",
       "metadataURL" : "https://github.com/Yankee-Swap/App/releases/download/0.0.11/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1516,16 +1349,50 @@
       "versionDescription" : "Release 0.0.11"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.World-Fair",
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-macOS.zip",
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read and write files in order to…"
+        }
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "ffeb3d3d025f2694d077341e252fd596c40e1a5eef554e3a082ec50e3952cc33",
+      "size" : 7345380,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 3,
+        "forkCount" : 0,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.4",
+      "versionDate" : "2022-10-06T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Eternal-September",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September.png",
       "localizedDescription" : "An app for learning Roman Numerals",
       "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
@@ -1554,14 +1421,8 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app.SQL-Hero",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/SQL-Hero-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/SQL-Hero.png",
       "localizedDescription" : "Query Like a Boss",
       "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/Info.plist#7700f3bb48b546f3951b7451ba24f72fdba2212a38a0c7f4dca8c4a209dc9646",
@@ -1608,14 +1469,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Unclear-Purpose",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Unclear-Purpose.png",
       "localizedDescription" : "An unclear app",
       "metadataURL" : "https://github.com/Unclear-Purpose/App/releases/download/0.0.5/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1642,16 +1497,48 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.325/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.325/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.325/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.325/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.325/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.325/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.325/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.325/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.325/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "f56f9c96dd0b2252bb5320b1008b9b91dfec5c6fa8dcc80911e08aacfafcd6f7",
+      "size" : 2351597,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 2,
+        "forkCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "AF52DE",
+      "version" : "0.9.325",
+      "versionDate" : "2022-09-25T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.324...0.9.325"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Fox-Glove",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.9/Fox-Glove-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.9/Fox-Glove.png",
       "localizedDescription" : "There, I fixed the web for you. You're welcome.",
       "metadataURL" : "https://github.com/Fox-Glove/App/releases/download/0.0.9/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1684,14 +1571,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Hex-Loupe",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
       "localizedDescription" : "A hex viewer",
       "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
@@ -1731,14 +1612,8 @@
     {
       "beta" : true,
       "bundleIdentifier" : "app.Tweet-Storm",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
       "localizedDescription" : "Unleash your inner dialog",
       "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
@@ -1766,105 +1641,9 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "4c38a44f803f64dca688a692557d6fabf53d2323b1d4e0b003147d5f83812c22",
-      "size" : 2350824,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 1,
-        "forkCount" : 1,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "AF52DE",
-      "version" : "0.9.326",
-      "versionDate" : "2022-10-06T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.325...0.9.326"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.World-Fair",
-      "categories" : [
-
-      ],
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read and write files in order to…"
-        }
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "ffeb3d3d025f2694d077341e252fd596c40e1a5eef554e3a082ec50e3952cc33",
-      "size" : 7345380,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 1,
-        "forkCount" : 0,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.4",
-      "versionDate" : "2022-10-06T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
-      "categories" : [
-
-      ],
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-macOS.zip",
-      "fundingLinks" : [
-
-      ],
       "iconURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz.png",
       "localizedDescription" : "A little quiz game",
       "metadataURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
@@ -1893,55 +1672,6 @@
       "version" : "0.0.16",
       "versionDate" : "2022-02-12T00:00:00Z",
       "versionDescription" : "Release 0.0.16"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tune-Out",
-      "categories" : [
-
-      ],
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-macOS.zip",
-      "fundingLinks" : [
-
-      ],
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-mac-2180x1464.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
-      ],
-      "sha256" : "40e2569c91f8bbdc7356fc24a9d6b0525c9d589d7238d9541006ee624f058634",
-      "size" : 13730223,
-      "stats" : {
-        "coreSize" : 170688,
-        "downloadCount" : 0,
-        "forkCount" : 0,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.460",
-      "versionDate" : "2022-10-06T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
     }
   ],
   "fundingSources" : [

@@ -28,7 +28,7 @@ tr:nth-child(even) {
 | [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `8349` |  |  | `8754` | `751` |  | `0` | `public.app-category.video` |
 | [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `27595` |  |  | `9477` | `795` |  | `0` | `public.app-category.developer-tools` |
 | [``Spotify``](https://www.spotify.com/) | ``1.1.95.893,6cf4d40c,39`` | `9019` | `2022-10-05T00:00:00Z` |  | `9241` | `705` |  | `0` | `public.app-category.music` |
-| [``Discord``](https://discord.com/) | ``0.0.268`` | `5817` | `2022-08-11T00:00:00Z` |  | `9012` | `562` |  | `0` | `public.app-category.social-networking` |
+| [``Discord``](https://discord.com/) | ``0.0.268`` | `5817` | `2022-08-11T00:00:00Z` |  | `9013` | `562` |  | `0` | `public.app-category.social-networking` |
 | [``Emacs``](https://emacsformacosx.com/) | ``28.2`` | `3699` | `2022-09-13T00:00:00Z` |  | `8450` | `603` |  | `0` | `public.app-category.productivity` |
 | [``WhatsApp``](https://www.whatsapp.com/) | ``2.2236.10`` | `3532` | `2022-10-05T00:00:00Z` |  | `9632` | `635` |  | `0` | `public.app-category.social-networking` |
 | [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2638` |  |  | `7413` | `458` |  | `0` | `public.app-category.games` |

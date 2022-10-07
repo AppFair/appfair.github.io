@@ -769,7 +769,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "99aa82f4e655ab5dbda1b328d08da9e90510ee1b29a1dc12b3f9ac5651ca2fea",
+      "sha256" : "1b02a2a7cef19a0cc8ed28574944f7e8511ef1774826f65393f9ed047dce397d",
       "size" : 1436193,
       "stats" : {
         "coreSize" : 168592,
@@ -1343,7 +1343,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "02a5ed7f2632a4bce1f21a76f50b941e177abc7aaae2951796b602774062498e",
+      "sha256" : "e1cf0fe5929a6469eadb5456ebd4be6afd3e041415475db447b615f10bf4ce4e",
       "size" : 21300765,
       "stats" : {
         "coreSize" : 168592,

@@ -1655,16 +1655,16 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "3a0f231a5b5bdbe802db246cfb51c29876623248d1b9587067807fe41fe7cabd",
+      "sha256" : "7987a29fd553ddac4bd915521b696e9cec548c9dc46820d6aa922d30af18bc85",
       "size" : 26374272,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 0,
+        "downloadCount" : 1,
         "forkCount" : 0,
-        "impressionCount" : 0,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 0,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "An app for sunnier days",

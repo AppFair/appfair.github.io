@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.118`` | `480` | `2022-09-13T00:00:00Z` | `10 MB` | `544` | `78` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `217` | `17` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.118`` | `480` | `2022-09-13T00:00:00Z` | `10 MB` | `545` | `78` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `218` | `17` | `0` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `47` | `2022-09-01T00:00:00Z` | `9.6 MB` | `534` | `57` | `1` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `43` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5136` | `802` | `1` | `0` |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `42` | `2022-10-04T00:00:00Z` | `7.3 MB` | `57` | `7` | `0` | `0` |  |

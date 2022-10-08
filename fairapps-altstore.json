@@ -28,10 +28,10 @@
         "coreSize": 168592,
         "downloadCount": 25,
         "forkCount": 0,
-        "impressionCount": 532,
+        "impressionCount": 533,
         "issueCount": 0,
         "starCount": 1,
-        "viewCount": 56,
+        "viewCount": 57,
         "watcherCount": 0
       },
       "subtitle": "Stream Internet Radio",
@@ -96,7 +96,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.326/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256": "1b02a2a7cef19a0cc8ed28574944f7e8511ef1774826f65393f9ed047dce397d",
+      "sha256": "99aa82f4e655ab5dbda1b328d08da9e90510ee1b29a1dc12b3f9ac5651ca2fea",
       "size": 1436193,
       "stats": {
         "coreSize": 168592,
@@ -149,7 +149,7 @@
         "coreSize": 170224,
         "downloadCount": 3,
         "forkCount": 0,
-        "impressionCount": 908,
+        "impressionCount": 909,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 77,

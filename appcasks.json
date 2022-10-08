@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 3006,
-        "impressionCount" : 11217,
+        "impressionCount" : 11218,
         "viewCount" : 1263
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "a0e98a7326e4a518173a5c6703f6e0671027a3471b9c6470b07d4160dfb1059a",
       "stats" : {
         "downloadCount" : 16549,
-        "impressionCount" : 10202,
+        "impressionCount" : 10203,
         "viewCount" : 1052
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8328,
-        "impressionCount" : 8768,
+        "impressionCount" : 8769,
         "viewCount" : 753
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 27150,
-        "impressionCount" : 9497,
+        "impressionCount" : 9498,
         "viewCount" : 795
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8844,
-        "impressionCount" : 9256,
+        "impressionCount" : 9257,
         "viewCount" : 706
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 5728,
-        "impressionCount" : 9027,
+        "impressionCount" : 9029,
         "viewCount" : 562
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "6228b41938ad3ef76450c843a510615b07f8058bc9a256d1ff3fbf928a384235",
       "stats" : {
         "downloadCount" : 3666,
-        "impressionCount" : 8469,
+        "impressionCount" : 8470,
         "viewCount" : 604
       },
       "subtitle" : "Text editor",
@@ -238,7 +238,7 @@
       "sha256" : "808ed03191a3939887200bf17477f805d5f40d6987a49f36490f673009eeec0b",
       "stats" : {
         "downloadCount" : 3475,
-        "impressionCount" : 9648,
+        "impressionCount" : 9650,
         "viewCount" : 635
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -266,7 +266,7 @@
       ],
       "stats" : {
         "downloadCount" : 2668,
-        "impressionCount" : 7437,
+        "impressionCount" : 7438,
         "viewCount" : 458
       },
       "subtitle" : "Video game digital distribution service",
@@ -292,7 +292,7 @@
       "sha256" : "40ea451a98646deabe2a94306c6f92e0efe399cb6dea153c76bc3370fac13504",
       "stats" : {
         "downloadCount" : 2471,
-        "impressionCount" : 8119,
+        "impressionCount" : 8121,
         "viewCount" : 492
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -326,7 +326,7 @@
       "sha256" : "cfed68a618da5d5957dc40eb3f33e27e2b1c1f31d103063c23f20918a507f470",
       "stats" : {
         "downloadCount" : 2111,
-        "impressionCount" : 9252,
+        "impressionCount" : 9254,
         "viewCount" : 913
       },
       "subtitle" : "File archiver",
@@ -358,7 +358,7 @@
       "sha256" : "6af68af6d43ac184ff0899d0ced2fc29006984fffee6a805825d7e67c48ee23f",
       "stats" : {
         "downloadCount" : 1241,
-        "impressionCount" : 9444,
+        "impressionCount" : 9445,
         "viewCount" : 526
       },
       "subtitle" : "3D creation suite",
@@ -387,7 +387,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1218,
-        "impressionCount" : 7367,
+        "impressionCount" : 7368,
         "viewCount" : 589
       },
       "subtitle" : "Open-source Markdown editor",
@@ -447,7 +447,7 @@
       "sha256" : "46fb4c55a4e719974d2ffa90d84a137db8775b9687a6659ed79afe26ae1d2675",
       "stats" : {
         "downloadCount" : 592,
-        "impressionCount" : 7558,
+        "impressionCount" : 7559,
         "viewCount" : 404
       },
       "subtitle" : "Text editor",
@@ -479,7 +479,7 @@
       "sha256" : "9334031d3d43c599382f4b4eda22da12518f054b28c1565bb08a485f99ef7d64",
       "stats" : {
         "downloadCount" : 441,
-        "impressionCount" : 7573,
+        "impressionCount" : 7575,
         "viewCount" : 529
       },
       "subtitle" : "Text, code, and markup editor",
@@ -508,7 +508,7 @@
       ],
       "stats" : {
         "downloadCount" : 397,
-        "impressionCount" : 6854,
+        "impressionCount" : 6855,
         "viewCount" : 503
       },
       "subtitle" : "Sandbox construction video game",
@@ -537,7 +537,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 286,
-        "impressionCount" : 5506,
+        "impressionCount" : 5507,
         "viewCount" : 455
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -568,7 +568,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 248,
-        "impressionCount" : 5799,
+        "impressionCount" : 5800,
         "viewCount" : 471
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -622,7 +622,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 159,
-        "impressionCount" : 6149,
+        "impressionCount" : 6150,
         "viewCount" : 634
       },
       "subtitle" : "iOS App Store alternative",
@@ -765,7 +765,7 @@
       "sha256" : "41085009458ba1741c6a86c414190780ff3b288879aa27821fc4a985d229653c",
       "stats" : {
         "downloadCount" : 24857,
-        "impressionCount" : 4837,
+        "impressionCount" : 4838,
         "viewCount" : 330
       },
       "subtitle" : "App to build and share containerized applications and microservices",
@@ -834,7 +834,7 @@
       "sha256" : "51e3de2b3d85e5afdd2d520985852888989d8f928804e26a26021643c5d141f7",
       "stats" : {
         "downloadCount" : 8004,
-        "impressionCount" : 3067,
+        "impressionCount" : 3068,
         "viewCount" : 189
       },
       "subtitle" : "Universal database tool and SQL client",
@@ -857,7 +857,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 6038,
-        "impressionCount" : 2524,
+        "impressionCount" : 2525,
         "viewCount" : 125
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -897,7 +897,7 @@
       "sha256" : "3769f88e35c6f993c6de77549b7ea2b607b661d3692b140a5bca974cf5b8c7a8",
       "stats" : {
         "downloadCount" : 5150,
-        "impressionCount" : 5564,
+        "impressionCount" : 5565,
         "viewCount" : 554
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1588,7 +1588,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1474,
-        "impressionCount" : 3639
+        "impressionCount" : 3641
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -2165,7 +2165,7 @@
       "sha256" : "8c1ecf6fd66a9885d428a6303d9d1c5ecb811c1c35c97bdbccdad72359d96ad9",
       "stats" : {
         "downloadCount" : 447,
-        "impressionCount" : 4538
+        "impressionCount" : 4539
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -3148,7 +3148,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6029,
-        "impressionCount" : 1760
+        "impressionCount" : 1761
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3771,7 +3771,7 @@
       "sha256" : "f61fa0140114d2d2ab96d3a39ce28b7f295b6c1ba7199aaf3f342881d3fdb903",
       "stats" : {
         "downloadCount" : 1414,
-        "impressionCount" : 813
+        "impressionCount" : 814
       },
       "subtitle" : "Peer to peer Bitorrent client",
       "tintColor" : "73A5E0",
@@ -6000,7 +6000,7 @@
       "name" : "Folx",
       "stats" : {
         "downloadCount" : 291,
-        "impressionCount" : 673
+        "impressionCount" : 674
       },
       "subtitle" : "Download manager with a torrent client",
       "tintColor" : "926652",
@@ -6437,7 +6437,7 @@
       "sha256" : "9cf28d0f0ef74d793cca5a0fee0d7195a11c055b4a6c118cea295c308a3bfd9d",
       "stats" : {
         "downloadCount" : 231,
-        "impressionCount" : 484
+        "impressionCount" : 485
       },
       "subtitle" : "Torrent streaming application",
       "tintColor" : "7D3645",
@@ -10314,7 +10314,7 @@
       "sha256" : "94ef109e272ea578e8a92ef0719f17c53e960eb65826e5594986d463ed682ef5",
       "stats" : {
         "downloadCount" : 72,
-        "impressionCount" : 460
+        "impressionCount" : 461
       },
       "subtitle" : "Menu bar utility for toggling dark mode",
       "tintColor" : "A870AF",
@@ -10851,7 +10851,7 @@
       "sha256" : "26ea235dcb827c6e58ab3409bec83396e86704d742d517e527016ecd44672379",
       "stats" : {
         "downloadCount" : 66,
-        "impressionCount" : 316
+        "impressionCount" : 317
       },
       "subtitle" : "Torrent client",
       "tintColor" : "98AFC5",
@@ -12999,7 +12999,7 @@
       "sha256" : "599b9e2fe8079bb4bc504aae2597c8f04e651c85e2eb7eb2af8aa90d30ee4781",
       "stats" : {
         "downloadCount" : 44,
-        "impressionCount" : 1111
+        "impressionCount" : 1112
       },
       "subtitle" : "PVR for Usenet and BitTorrent users",
       "tintColor" : "9FB6C0",
@@ -24437,7 +24437,7 @@
       "sha256" : "7b03a0d2b5c5ca422c60deb74d8ec29f87df5a9e070a8858f8094fa6bd83a1e6",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 321
+        "impressionCount" : 322
       },
       "subtitle" : "Desktop remote torrenting application",
       "tintColor" : "61AE40",
@@ -41917,7 +41917,7 @@
       "sha256" : "a78a477f0a492c96cfa3e68a6551c36c6b451fc91b19df433027ef189f757baa",
       "stats" : {
         "downloadCount" : 186,
-        "impressionCount" : 55
+        "impressionCount" : 56
       },
       "subtitle" : "BitTorrent client",
       "tintColor" : "6483AB",
@@ -44138,7 +44138,7 @@
       "sha256" : "0159d8f135471549430525be0b7d298a4b950f41d3ccc253b727ca94947c18f1",
       "stats" : {
         "downloadCount" : 67,
-        "impressionCount" : 149
+        "impressionCount" : 150
       },
       "subtitle" : "Bittorrent client",
       "tintColor" : "4E98DE",
@@ -49087,7 +49087,7 @@
       "name" : "Vuze",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 43
+        "impressionCount" : 45
       },
       "subtitle" : "Bit torrent client",
       "tintColor" : "5587A3",
@@ -49286,7 +49286,7 @@
       "sha256" : "dea7c210e9b57b74fc44b498d8f5d238458ffffff3c66b2a91bd77f5cec5238d",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 77
+        "impressionCount" : 78
       },
       "subtitle" : "Bittorrent client",
       "tintColor" : "935133",
@@ -52148,7 +52148,7 @@
       "sha256" : "491be0e2dd7cd903d094e671aa7e2b7797332addbd60d962e79eb731110a968a",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 57
+        "impressionCount" : 58
       },
       "subtitle" : "Bittorrent client based on the Azureus open source project",
       "tintColor" : "779ED0",
@@ -52495,7 +52495,7 @@
       "sha256" : "56e4397110347b08893821374a90bbd069be61ea969e35156d63ace6384e9451",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 127
+        "impressionCount" : 129
       },
       "subtitle" : "Privacy enhanced BitTorrent client with P2P content discovery",
       "tintColor" : "F07358",
@@ -53181,7 +53181,7 @@
       "sha256" : "5ed1303dc25cdb2f6515b75faee574d07a7ec280653b0cc4e6a8b37f6be3744a",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 56
+        "impressionCount" : 57
       },
       "tintColor" : "2EBF51",
       "version" : "0.3.17"
@@ -56823,7 +56823,7 @@
       "sha256" : "b1db35f93727fc30e50f4d2023b7d844db5a725d16fd6072e3d10b805c2d7e28",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 84
+        "impressionCount" : 86
       },
       "subtitle" : "Automatic Movie Downloading via NZBs & Torrents",
       "tintColor" : "931302",

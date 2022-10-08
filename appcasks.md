@@ -1986,7 +1986,7 @@ tr:nth-child(even) {
 | [``Real VNC Viewer``](https://www.realvnc.com/) | ``6.22.826`` | `999` | `2022-10-05T00:00:00Z` |  | `152` |  |  | `0` |  |
 | [``Ungoogled Chromium``](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | ``106.0.5249.103-1.1,16651…`` | `923` | `2022-10-08T00:00:00Z` |  | `285` |  |  | `0` |  |
 | [``Parallels Desktop``](https://www.parallels.com/products/desktop/) | ``18.0.2-53077`` | `811` | `2022-09-14T00:00:00Z` |  | `147` |  |  | `0` |  |
-| [``Vivaldi``](https://vivaldi.com/) | ``5.5.2805.35`` | `778` | `2022-10-08T04:14:20Z` |  | `663` |  |  | `0` |  |
+| [``Vivaldi``](https://vivaldi.com/) | ``5.5.2805.35`` | `778` | `2022-10-08T00:00:00Z` |  | `663` |  |  | `0` |  |
 | [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `746` | `2022-10-05T00:00:00Z` |  | `159` |  |  | `0` |  |
 | [``Adobe Creative Cloud``](https://www.adobe.com/creativecloud.html) | ``5.8.0.592`` | `717` | `2022-07-27T00:00:00Z` |  | `71` |  |  | `0` |  |
 | [``KDiff3``](https://invent.kde.org/sdk/kdiff3) | ``1.9.4`` | `687` |  |  | `75` |  |  | `0` |  |

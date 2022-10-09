@@ -108,7 +108,7 @@ tr:nth-child(even) {
 | [``CLion``](https://www.jetbrains.com/clion/) | ``2022.2.3,222.4167.35`` | `442` | `2022-09-15T00:00:00Z` |  | `2040` | `88` |  | `0` | `public.app-category.developer-tools` |
 | [``Skitch``](https://evernote.com/products/skitch) | ``2.9,265157`` | `437` |  |  | `1896` | `89` |  | `0` | `public.app-category.productivity` |
 | [``CotEditor``](https://coteditor.com/) | ``4.3.6`` | `435` | `2022-10-05T00:00:00Z` |  | `4550` |  |  | `0` | `public.app-category.productivity` |
-| [``Proxyman``](https://proxyman.io/) | ``3.10.0,31000`` | `420` | `2022-09-19T00:00:00Z` |  | `2112` | `146` |  | `0` | `public.app-category.developer-tools` |
+| [``Proxyman``](https://proxyman.io/) | ``3.11.0,31100`` | `420` | `2022-10-09T18:41:58Z` |  | `2112` | `146` |  | `0` | `public.app-category.developer-tools` |
 | [``MacPass``](https://macpass.github.io/) | ``0.8.1`` | `345` |  |  | `2105` | `143` |  | `0` | `public.app-category.productivity` |
 | [``OpenEmu``](https://openemu.org/) | ``2.3.3`` | `343` |  |  | `2472` | `233` |  | `0` | `public.app-category.games` |
 | [``Element``](https://element.io/get-started) | ``1.11.8`` | `317` | `2022-10-05T00:00:00Z` |  | `3643` | `182` |  | `0` | `public.app-category.social-networking` |

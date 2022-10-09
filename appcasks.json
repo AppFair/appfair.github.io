@@ -2200,13 +2200,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.proxyman.io/31000/Proxyman_3.10.0.dmg",
+      "downloadURL" : "https://download.proxyman.io/31100/Proxyman_3.11.0.dmg",
       "homepage" : "https://proxyman.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-proxyman/AppIcon.png",
       "localizedDescription" : "Modern and intuitive HTTP Debugging Proxy app",
       "name" : "Proxyman",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-proxyman/README.md",
-      "sha256" : "b711d8b8e9554baea9f1b6f053668892f0ab6ee32f3337aea974a9ba5aeed6fd",
+      "sha256" : "ae67c9565ed4c93cb4dce8abb31b63f3824f9ca29dab86632d66473f0751c7c7",
       "stats" : {
         "downloadCount" : 420,
         "impressionCount" : 2112,
@@ -2214,8 +2214,8 @@
       },
       "subtitle" : "Modern and intuitive HTTP Debugging Proxy app",
       "tintColor" : "6DA4E9",
-      "version" : "3.10.0,31000",
-      "versionDate" : "2022-09-19T00:00:00Z"
+      "version" : "3.11.0,31100",
+      "versionDate" : "2022-10-09T18:41:58Z"
     },
     {
       "beta" : false,
@@ -59548,11 +59548,13 @@
       ],
       "downloadURL" : "https://github.com/wkhtmltopdf/packaging/releases/download/0.12.6-2/wkhtmltox-0.12.6-2.macos-cocoa.pkg",
       "homepage" : "https://wkhtmltopdf.org/",
+      "localizedDescription" : "HTML to PDF renderer",
       "name" : "wkhtmltopdf",
       "sha256" : "81a66b77b508fede8dbcaa67127203748376568b3673a17f6611b6d51e9894f8",
       "stats" : {
         "downloadCount" : 2983
       },
+      "subtitle" : "HTML to PDF renderer",
       "version" : "0.12.6-2"
     },
     {
@@ -74110,13 +74112,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "gosign",
-      "caption" : "GoSign Desktop updated from 1.2.6 to 1.2.9",
-      "date" : "2022-10-06T02:34:29Z",
-      "identifier" : "release-gosign-1.2.9",
-      "title" : "New Release: GoSign Desktop 1.2.9"
-    },
-    {
       "appID" : "syncroom",
       "caption" : "SYNCROOM 1.5.2 released",
       "date" : "2022-10-06T02:34:29Z",
@@ -74808,6 +74803,13 @@
       "date" : "2022-10-09T02:51:34Z",
       "identifier" : "release-xamarin-workbooks-1.5.0",
       "title" : "New Release: Xamarin Workbooks 1.5.0"
+    },
+    {
+      "appID" : "proxyman",
+      "caption" : "Proxyman updated from 3.10.0,31000 to 3.11.0,31100",
+      "date" : "2022-10-09T18:41:59Z",
+      "identifier" : "release-proxyman-3.11.0,31100",
+      "title" : "New Release: Proxyman 3.11.0,31100"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

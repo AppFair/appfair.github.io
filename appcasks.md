@@ -469,7 +469,7 @@ tr:nth-child(even) {
 | [``NWPusher``](https://github.com/noodlewerk/NWPusher) | ``0.7.5`` | `80` |  |  | `388` |  |  | `0` | `public.app-category.developer-tools` |
 | [``MusicBrainz Picard``](https://picard.musicbrainz.org/) | ``2.8.3`` | `79` | `2022-08-18T00:00:00Z` |  | `920` |  |  | `0` | `public.app-category.music` |
 | [``Sonic Pi``](https://sonic-pi.net/) | ``4.3.0`` | `79` | `2022-10-05T00:00:00Z` |  | `918` |  |  | `0` | `public.app-category.music` |
-| [``Soulver``](https://soulver.app/) | ``3.6.2,325`` | `79` | `2022-10-05T00:00:00Z` |  | `509` |  |  | `0` | `public.app-category.productivity` |
+| [``Soulver``](https://soulver.app/) | ``3.6.2,325`` | `79` | `2022-10-05T00:00:00Z` |  | `511` |  |  | `0` | `public.app-category.productivity` |
 | [``Linear``](https://linear.theuxshop.com/) | ``1.5`` | `78` |  |  | `377` |  |  | `0` | `public.app-category.developer-tools` |
 | [``AppCode``](https://www.jetbrains.com/objc/) | ``2022.2.2,222.4167.29`` | `77` | `2022-09-15T00:00:00Z` |  | `900` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Exodus``](https://www.exodus.com/) | ``22.10.7`` | `77` | `2022-10-08T00:00:00Z` |  | `681` |  |  | `0` | `public.app-category.developer-tools` |

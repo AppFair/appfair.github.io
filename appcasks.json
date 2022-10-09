@@ -25,8 +25,8 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2902,
-        "impressionCount" : 11237,
-        "viewCount" : 1268
+        "impressionCount" : 11239,
+        "viewCount" : 1269
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8261,
-        "impressionCount" : 8782,
+        "impressionCount" : 8783,
         "viewCount" : 754
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 26761,
-        "impressionCount" : 9510,
+        "impressionCount" : 9512,
         "viewCount" : 795
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8715,
-        "impressionCount" : 9271,
+        "impressionCount" : 9272,
         "viewCount" : 706
       },
       "subtitle" : "Music streaming service",
@@ -238,7 +238,7 @@
       "sha256" : "808ed03191a3939887200bf17477f805d5f40d6987a49f36490f673009eeec0b",
       "stats" : {
         "downloadCount" : 3439,
-        "impressionCount" : 9668,
+        "impressionCount" : 9670,
         "viewCount" : 635
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -266,7 +266,7 @@
       ],
       "stats" : {
         "downloadCount" : 2683,
-        "impressionCount" : 7452,
+        "impressionCount" : 7454,
         "viewCount" : 458
       },
       "subtitle" : "Video game digital distribution service",
@@ -292,7 +292,7 @@
       "sha256" : "40ea451a98646deabe2a94306c6f92e0efe399cb6dea153c76bc3370fac13504",
       "stats" : {
         "downloadCount" : 2438,
-        "impressionCount" : 8135,
+        "impressionCount" : 8136,
         "viewCount" : 492
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -326,7 +326,7 @@
       "sha256" : "cfed68a618da5d5957dc40eb3f33e27e2b1c1f31d103063c23f20918a507f470",
       "stats" : {
         "downloadCount" : 2078,
-        "impressionCount" : 9270,
+        "impressionCount" : 9271,
         "viewCount" : 913
       },
       "subtitle" : "File archiver",
@@ -387,7 +387,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1195,
-        "impressionCount" : 7381,
+        "impressionCount" : 7383,
         "viewCount" : 589
       },
       "subtitle" : "Open-source Markdown editor",
@@ -447,7 +447,7 @@
       "sha256" : "46fb4c55a4e719974d2ffa90d84a137db8775b9687a6659ed79afe26ae1d2675",
       "stats" : {
         "downloadCount" : 588,
-        "impressionCount" : 7574,
+        "impressionCount" : 7575,
         "viewCount" : 405
       },
       "subtitle" : "Text editor",
@@ -508,7 +508,7 @@
       ],
       "stats" : {
         "downloadCount" : 407,
-        "impressionCount" : 6867,
+        "impressionCount" : 6869,
         "viewCount" : 503
       },
       "subtitle" : "Sandbox construction video game",
@@ -568,7 +568,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 240,
-        "impressionCount" : 5808,
+        "impressionCount" : 5810,
         "viewCount" : 471
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -595,7 +595,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 234,
-        "impressionCount" : 4976,
+        "impressionCount" : 4977,
         "viewCount" : 371
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -1913,8 +1913,8 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 716,
-        "impressionCount" : 1950,
-        "viewCount" : 126
+        "impressionCount" : 1951,
+        "viewCount" : 127
       },
       "subtitle" : "Application for inspecting installer packages",
       "tintColor" : "6F99E9",
@@ -2726,7 +2726,7 @@
       "sha256" : "a0a62cb7fb04390c12403bdc38186fc6e24f39b5a0456de582b6006f36b0e27e",
       "stats" : {
         "downloadCount" : 31,
-        "impressionCount" : 1791,
+        "impressionCount" : 1792,
         "viewCount" : 82
       },
       "subtitle" : "Binary newsreader",
@@ -2892,7 +2892,7 @@
       "sha256" : "dbec524dcc13128ea3104ae4daf1c1e76d79432a56dfc6ce232d6f08c6460a12",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 2386,
+        "impressionCount" : 2388,
         "viewCount" : 159
       },
       "subtitle" : "Newsreader and Usenet client",
@@ -3148,7 +3148,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 5974,
-        "impressionCount" : 1773
+        "impressionCount" : 1775
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -22385,7 +22385,7 @@
       "sha256" : "9d583e43742018e45bad79c8af9e0accec6b6a10d94c60ac7d31721bbb3c237e",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 216
+        "impressionCount" : 218
       },
       "subtitle" : "Set a Retina display to custom resolutions",
       "tintColor" : "518BA4",
@@ -29745,7 +29745,7 @@
       "name" : "MassReplaceIt",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 232
+        "impressionCount" : 234
       },
       "tintColor" : "D2D4D7",
       "version" : "3.1.2,312"
@@ -37441,7 +37441,7 @@
       "sha256" : "6ab592bee5e095778a65b8fe33b8d1d46122eebc95284e60771080a614560d1d",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 898
+        "impressionCount" : 899
       },
       "subtitle" : "Colorize old black and white photos automatically",
       "tintColor" : "A8B0C1",
@@ -46777,7 +46777,7 @@
       "sha256" : "7bd1e9782f8dd5b8b96281001fe9cd75a4fc75cd86ebe571dab6c715147d843e",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 67
+        "impressionCount" : 69
       },
       "subtitle" : "Very minimal GUI app that can write/read to disk images and USB drives",
       "tintColor" : "8C816F",
@@ -56432,7 +56432,7 @@
       "sha256" : "30bf6a96707c9c824b5fb8a4b2ca43431b2109ae1cb80e9adcbbdf0ef531e5c6",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 98
+        "impressionCount" : 99
       },
       "subtitle" : "3D open-source Sonic the Hedgehog fangame built using a Doom Legacy port of Doom",
       "tintColor" : "4D49BC",
@@ -57171,7 +57171,7 @@
       "sha256" : "0c598f0b8182391518d1d5777eb63b86465d7d36d3e3a6ab1db718f6b73c33c6",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 88
+        "impressionCount" : 89
       },
       "subtitle" : "Classic styled kart racer, complete with beautiful courses, and wacky items",
       "tintColor" : "666666",

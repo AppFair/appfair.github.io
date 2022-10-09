@@ -360,7 +360,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "40e2569c91f8bbdc7356fc24a9d6b0525c9d589d7238d9541006ee624f058634",
+      "sha256" : "e9baf26401fb6ed272fb649ff9d6b6df32b787c2779eb7024fcbb773b48b2cb2",
       "size" : 13730223,
       "stats" : {
         "coreSize" : 168592,
@@ -1408,7 +1408,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "e24f1528cffa68f0805ba103de897941212d14fabdca74bbf7a68306a6d385da",
+      "sha256" : "5f37c050d1933171466727e6a01f5dc5ff9fd748ce54538076a6d90abad7d973",
       "size" : 26418173,
       "stats" : {
         "coreSize" : 168592,

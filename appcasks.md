@@ -3665,7 +3665,7 @@ tr:nth-child(even) {
 | [``Private Tunnel``](https://www.privatetunnel.com/home/) | ``3.0.2,3242`` | `2` | `2022-09-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Pure Writer Desktop``](https://writer.drakeet.com/desktop) | ``1.6.0,1.6.0`` | `2` | `2022-08-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``QuickLook DDS``](https://github.com/Marginal/QLdds) | ``1.33`` | `2` | `2022-07-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``QLNetcdf``](https://github.com/tobeycarman/QLNetcdf/) | ``0.0.3`` | `2` | `2022-10-09T02:51:33Z` |  |  |  |  | `0` |  |
+| [``QLNetcdf``](https://github.com/tobeycarman/QLNetcdf/) | ``0.0.3`` | `2` | `2022-10-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Radar``](https://getradar.co/) | ``2.5.1`` | `2` | `2022-07-22T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Resolume Arena``](https://resolume.com/) | ``7.13.2,17774`` | `2` | `2022-10-05T00:00:00Z` |  |  |  |  | `0` |  |
 | [``RingCentral Meetings for…``](https://www.ringcentral.com/online-meetings/overview.html) | ``latest`` | `2` | `2022-10-05T00:00:00Z` |  |  |  |  | `0` |  |
@@ -3725,7 +3725,7 @@ tr:nth-child(even) {
 | [``FabFilter Volcano``](https://www.fabfilter.com/products/volcano-2-powerful-filter-plug-in) | ``3.02`` | `1` | `2022-08-22T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Feem``](https://feem.io/) | ``4.4.2`` | `1` | `2022-10-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``FME Desktop``](https://www.safe.com/) | ``2022.1.3,22630`` | `1` | `2022-10-05T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Foldit``](https://fold.it/) | ``latest`` | `1` | `2022-10-09T02:51:33Z` |  |  |  |  | `0` |  |
+| [``Foldit``](https://fold.it/) | ``latest`` | `1` | `2022-10-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Framer X``](https://framer.com/) | ``36854,1590141192`` | `1` | `2022-08-30T00:00:00Z` |  |  |  |  | `0` |  |
 | [``FreeOrion``](https://freeorion.org/) | ``0.4.10.2,2021-08-01,f663…`` | `1` |  |  |  |  |  | `0` |  |
 | [``Get Backup Pro 3``](https://www.belightsoft.com/products/getbackup/) | ``3.6.9,1676`` | `1` | `2022-08-14T00:00:00Z` |  |  |  |  | `0` |  |
@@ -3734,7 +3734,7 @@ tr:nth-child(even) {
 | [``Iconscout``](https://iconscout.com/) | ``1.0.4`` | `1` | `2022-08-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``iDefrag``](https://coriolis-systems.com/iDefrag/) | ``5.3.1`` | `1` | `2022-10-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``iGetter``](https://www.igetter.net/index.html) | ``2.9.7`` | `1` | `2022-10-05T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Intel Parallel Studio XE…``](https://software.intel.com/en-us/parallel-studio-xe) | ``2020.2.899,16768`` | `1` | `2022-10-09T02:51:33Z` |  |  |  |  | `0` |  |
+| [``Intel Parallel Studio XE…``](https://software.intel.com/en-us/parallel-studio-xe) | ``2020.2.899,16768`` | `1` | `2022-10-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``iSyncer``](https://www.isyncer.de/) | ``3.9.0`` | `1` | `2022-10-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Jad``](https://varaneckas.com/jad/) | ``1.5.8g`` | `1` |  |  |  |  |  | `0` |  |
 | [``join.me``](https://www.join.me/) | ``3.22.0.14903`` | `1` | `2022-08-10T00:00:00Z` |  |  |  |  | `0` |  |
@@ -3793,7 +3793,7 @@ tr:nth-child(even) {
 | [``Twonky Server``](https://twonky.com/) | ``8.5.2`` | `1` | `2022-10-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Unity iOS Build Support``](https://unity.com/products) | ``2022.1.19f1,2fd7b40534d1`` | `1` | `2022-10-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Unity Windows (Mono) Bui…``](https://unity.com/products) | ``2022.1.19f1,2fd7b40534d1`` | `1` | `2022-10-08T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Xamarin Workbooks``](https://docs.microsoft.com/en-us/xamarin/tools/workbooks/) | ``1.5.0`` | `1` | `2022-10-09T02:51:33Z` |  |  |  |  | `0` |  |
+| [``Xamarin Workbooks``](https://docs.microsoft.com/en-us/xamarin/tools/workbooks/) | ``1.5.0`` | `1` | `2022-10-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``WhatSize``](https://www.whatsizemac.com/) | ``7.7.5,7750`` | `1` |  |  |  |  |  | `0` |  |
 | [``VPN Enabler``](https://cutedgesystems.com/) | ``5.2,1`` | `1` |  |  |  |  |  | `0` |  |
 

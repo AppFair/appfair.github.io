@@ -870,7 +870,7 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.37/Stats.dmg",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.38/Stats.dmg",
       "fundingLinks" : [
         {
           "platform" : "GITHUB",
@@ -894,7 +894,7 @@
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "3769f88e35c6f993c6de77549b7ea2b607b661d3692b140a5bca974cf5b8c7a8",
+      "sha256" : "1848845ab02fe3dc69c3c2c10458df1d466ff31bb2c4952d4c05d18ddb938ea5",
       "stats" : {
         "downloadCount" : 5059,
         "impressionCount" : 5578,
@@ -902,8 +902,8 @@
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
-      "version" : "2.7.37",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "2.7.38",
+      "versionDate" : "2022-10-10T04:59:49Z"
     },
     {
       "beta" : false,
@@ -2709,7 +2709,7 @@
       "subtitle" : "News reader with flexible settings",
       "tintColor" : "629885",
       "version" : "1.0.76",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3529,7 +3529,7 @@
       "subtitle" : "Redis desktop manager",
       "tintColor" : "B1493B",
       "version" : "1.5.9",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3735,7 +3735,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
       "version" : "105.0.3,1,c97ec464347d86e0eb432e1f4c98415c",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4033,7 +4033,7 @@
       "subtitle" : "Smooths scrolling and set mouse scroll directions independently",
       "tintColor" : "282B4A",
       "version" : "3.4.1",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5479,7 +5479,7 @@
       "sha256" : "06f4c15beed3e91cf4386b3c127b31f5b419cf021e2b4a350663e8fe9dcd17f3",
       "stats" : {
         "downloadCount" : 379,
-        "impressionCount" : 710
+        "impressionCount" : 711
       },
       "subtitle" : "Cloud credentials manager",
       "tintColor" : "2A2F50",
@@ -7083,7 +7083,7 @@
       "subtitle" : "Graphical configurator for Kaleidoscope-powered keyboards",
       "tintColor" : "FEB392",
       "version" : "0.11.7",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10082,7 +10082,7 @@
       "subtitle" : "View, Screen Share, organize, import, and download files to a reMarkable device",
       "tintColor" : "0B0B0B",
       "version" : "2.15.0.643,42139648,Dev",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11587,7 +11587,7 @@
       "subtitle" : "Tencent video streaming and sharing platform",
       "tintColor" : "84BF85",
       "version" : "2.55.0.53481",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12493,7 +12493,7 @@
       "subtitle" : "Doing phonetics by computer",
       "tintColor" : "DC788D",
       "version" : "6.2.23",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12845,7 +12845,7 @@
       "subtitle" : "Messaging and calling application",
       "tintColor" : "E4F0F7",
       "version" : "4.0.18.90636",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13766,7 +13766,7 @@
       "subtitle" : "UML/SysML modeling tool",
       "tintColor" : "4FB97F",
       "version" : "2.12.1",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14283,7 +14283,7 @@
       "subtitle" : "All system and utility switches in one place",
       "tintColor" : "2E4C63",
       "version" : "1.27,374",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14324,7 +14324,7 @@
       "subtitle" : "Media management tool",
       "tintColor" : "664729",
       "version" : "4.3.4",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14909,7 +14909,7 @@
       "subtitle" : "Find and remove unwanted duplicate files and folders",
       "tintColor" : "B3B4AA",
       "version" : "6.17.3,588",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15175,7 +15175,7 @@
       "subtitle" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "tintColor" : "71B2CE",
       "version" : "11.5.0",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16221,7 +16221,7 @@
       "subtitle" : "Menu bar clock",
       "tintColor" : "726767",
       "version" : "1.3",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16304,7 +16304,7 @@
       "subtitle" : "Tool to remove unnecessary files and folders from disk Chinese edition",
       "tintColor" : "EDB8DB",
       "version" : "4.11.5,41105.0.2210071658",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17443,7 +17443,7 @@
       "subtitle" : "Access the HEY email service",
       "tintColor" : "5850EC",
       "version" : "1.2.8",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18008,7 +18008,7 @@
       "subtitle" : "Collaborative SQL editor",
       "tintColor" : "F6DAD6",
       "version" : "1.0.83",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18190,7 +18190,7 @@
       "subtitle" : "Reference management and bibliography software",
       "tintColor" : "DFCBAC",
       "version" : "14.1.3",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20405,7 +20405,7 @@
       "subtitle" : "Font editor",
       "tintColor" : "88E0B7",
       "version" : "3.1.1,3140",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21641,7 +21641,7 @@
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
       "version" : "2.3.1",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22267,7 +22267,7 @@
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
       "version" : "5.230.0.4183",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24165,7 +24165,7 @@
       "subtitle" : "Private rolodex to remember people better",
       "tintColor" : "313132",
       "version" : "2.0.3",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25538,7 +25538,7 @@
       "subtitle" : "Trading application",
       "tintColor" : "FFB27D",
       "version" : "12.10.2918",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28558,7 +28558,7 @@
       "subtitle" : "Offline, open-source, document manager with tagging support",
       "tintColor" : "9EA2A9",
       "version" : "5.0.2",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32081,7 +32081,7 @@
       "subtitle" : "Note-taking tool for visual learning",
       "tintColor" : "E5E5E5",
       "version" : "0.204.0",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35460,7 +35460,7 @@
       "subtitle" : "PlayStation 2 emulator",
       "tintColor" : "7E80DF",
       "version" : "2022-10-07,825b8cc5",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37910,7 +37910,7 @@
       "subtitle" : "Play most kinds of interactive fiction game files",
       "tintColor" : "AE8560",
       "version" : "0.9.8",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39256,7 +39256,7 @@
       "subtitle" : "Automate printing and exporting from Adobe InDesign",
       "tintColor" : "B38A6E",
       "version" : "2.4.82",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41558,7 +41558,7 @@
       "subtitle" : "Set of tools to create, alter and inspect Matroska files (MKV)",
       "tintColor" : "665160",
       "version" : "71.1.0",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43432,7 +43432,7 @@
       "subtitle" : "File manager with a dual-pane interface",
       "tintColor" : "2192B8",
       "version" : "1.1.0-1",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47638,7 +47638,7 @@
       "subtitle" : "Alternative GUI for Time Machine",
       "tintColor" : "708185",
       "version" : "3.8,2452",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48690,19 +48690,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://onionshare.org/dist/2.5/OnionShare-2.5.dmg",
+      "downloadURL" : "https://onionshare.org/dist/2.6/OnionShare-2.6.dmg",
       "homepage" : "https://onionshare.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-onionshare/AppIcon.png",
       "localizedDescription" : "Securely and anonymously share files, host websites, and chat with friends",
       "name" : "OnionShare",
-      "sha256" : "3f66a1298720862545e7c13e80f73f65b8110eff824b62a8595f74091520e63b",
+      "sha256" : "eb6cfd17003fbcbde9da49d7bfb18c9bd54ff901568c2f21af3b2482844982e1",
       "stats" : {
         "downloadCount" : 17,
         "impressionCount" : 57
       },
       "subtitle" : "Securely and anonymously share files, host websites, and chat with friends",
       "tintColor" : "936B93",
-      "version" : "2.5"
+      "version" : "2.6",
+      "versionDate" : "2022-10-10T04:59:49Z"
     },
     {
       "beta" : false,
@@ -48959,7 +48960,7 @@
       "subtitle" : "Visualization and data analysis for mesh-based scientific data",
       "tintColor" : "AC878B",
       "version" : "3.3.1",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49676,7 +49677,7 @@
       "subtitle" : "File synchronization and backup software",
       "tintColor" : "C8BBDC",
       "version" : "12.0.8",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50191,7 +50192,7 @@
       "subtitle" : "Sound, video and lighting control",
       "tintColor" : "9297BE",
       "version" : "5.0.6,5006",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52851,7 +52852,7 @@
       "subtitle" : "Collection of small computer programs which implement one-player puzzle games",
       "tintColor" : "808391",
       "version" : "20221008.85d2a7d",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55544,7 +55545,7 @@
       "subtitle" : "Note box according to Luhmann",
       "tintColor" : "C19314",
       "version" : "3.2022.8",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56551,7 +56552,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-antconc/AppIcon.png",
       "localizedDescription" : "Corpus analysis toolkit for concordancing and text analysis",
       "name" : "AntConc",
-      "sha256" : "1a9054deb4bdfdc0efe8ad6a4ffe3b4af84341abf96875fa05aa75aa8952c790",
+      "sha256" : "827296b61193980e1999eddb95b33f84c64a77265c6ba510ddbb6d07f3709da8",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 182
@@ -57778,7 +57779,7 @@
       "subtitle" : "Warehouse of amateur radio information presented in an easy to use interface",
       "tintColor" : "D3CEA5",
       "version" : "1.22.1008,1.22.1008",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60215,7 +60216,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.22,20221008103013",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64897,7 +64898,7 @@
       },
       "subtitle" : "Homebrew GUI app written in electron",
       "version" : "1.2.1",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67572,7 +67573,7 @@
       },
       "subtitle" : "Data Modeling for NoSQL databases, storage formats, REST APIs, and JSON in RDBMS",
       "version" : "6.5.4",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72526,7 +72527,7 @@
       },
       "subtitle" : "Monitoring and troubleshooting for serverless architectures",
       "version" : "1.16.3",
-      "versionDate" : "2022-10-10T02:54:13Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74098,20 +74099,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "default-folder-x",
-      "caption" : "Default Folder X updated from 5.7,5453 to 5.7.1,5469",
-      "date" : "2022-10-08T02:26:35Z",
-      "identifier" : "release-default-folder-x-5.7.1,5469",
-      "title" : "New Release: Default Folder X 5.7.1,5469"
-    },
-    {
-      "appID" : "jetbrains-gateway",
-      "caption" : "jetbrains-gateway updated from 222.4167.26 to 222.4345.14",
-      "date" : "2022-10-08T02:26:35Z",
-      "identifier" : "release-jetbrains-gateway-222.4345.14",
-      "title" : "New Release: jetbrains-gateway 222.4345.14"
-    },
-    {
       "appID" : "ff-works",
       "caption" : "ff·Works updated from 3.2.3 to 3.2.4",
       "date" : "2022-10-08T02:26:35Z",
@@ -74796,6 +74783,20 @@
       "date" : "2022-10-10T02:54:22Z",
       "identifier" : "release-cloudash-1.16.3",
       "title" : "New Release: cloudash 1.16.3"
+    },
+    {
+      "appID" : "stats",
+      "caption" : "Stats updated from 2.7.37 to 2.7.38",
+      "date" : "2022-10-10T04:59:50Z",
+      "identifier" : "release-stats-2.7.38",
+      "title" : "New Release: Stats 2.7.38"
+    },
+    {
+      "appID" : "onionshare",
+      "caption" : "OnionShare updated from 2.5 to 2.6",
+      "date" : "2022-10-10T04:59:51Z",
+      "identifier" : "release-onionshare-2.6",
+      "title" : "New Release: OnionShare 2.6"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

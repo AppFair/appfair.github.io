@@ -51253,19 +51253,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://sheepsystems.com/bookmacster/BookMacster.zip",
+      "downloadURL" : "https://sheepsystems.com/bookmacster/BookMacster_3.0.5.zip",
       "homepage" : "https://sheepsystems.com/products/bookmacster.html",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bookmacster/AppIcon.png",
       "localizedDescription" : "Bookmarks manager",
       "name" : "BookMacster",
+      "sha256" : "0480a2b08d3592f5e2621472ae677327f7c79d2a481ed0f085ecdd179b8de5f0",
       "stats" : {
         "downloadCount" : 9,
         "impressionCount" : 129
       },
       "subtitle" : "Bookmarks manager",
       "tintColor" : "5D6873",
-      "version" : "3.0.1",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "3.0.5",
+      "versionDate" : "2022-10-10T07:58:13Z"
     },
     {
       "beta" : false,
@@ -74099,13 +74100,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "ff-works",
-      "caption" : "ff·Works updated from 3.2.3 to 3.2.4",
-      "date" : "2022-10-08T02:26:35Z",
-      "identifier" : "release-ff-works-3.2.4",
-      "title" : "New Release: ff·Works 3.2.4"
-    },
-    {
       "appID" : "ogdesign-eagle",
       "caption" : "Eagle updated from 3.0,17 to 3.0,18",
       "date" : "2022-10-08T02:26:36Z",
@@ -74797,6 +74791,13 @@
       "date" : "2022-10-10T04:59:51Z",
       "identifier" : "release-onionshare-2.6",
       "title" : "New Release: OnionShare 2.6"
+    },
+    {
+      "appID" : "bookmacster",
+      "caption" : "BookMacster updated from 3.0.1 to 3.0.5",
+      "date" : "2022-10-10T07:58:14Z",
+      "identifier" : "release-bookmacster-3.0.5",
+      "title" : "New Release: BookMacster 3.0.5"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

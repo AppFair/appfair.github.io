@@ -358,7 +358,7 @@
       "sha256" : "6af68af6d43ac184ff0899d0ced2fc29006984fffee6a805825d7e67c48ee23f",
       "stats" : {
         "downloadCount" : 1219,
-        "impressionCount" : 9481,
+        "impressionCount" : 9482,
         "viewCount" : 526
       },
       "subtitle" : "3D creation suite",
@@ -788,7 +788,7 @@
       "sha256" : "fe243c0d9bc7f82a4367cdd366ce4d9e39ecc7b9914f3f4bc703d101e3d35164",
       "stats" : {
         "downloadCount" : 8709,
-        "impressionCount" : 3651,
+        "impressionCount" : 3653,
         "viewCount" : 271
       },
       "subtitle" : "Team communication and collaboration software",
@@ -897,13 +897,13 @@
       "sha256" : "1848845ab02fe3dc69c3c2c10458df1d466ff31bb2c4952d4c05d18ddb938ea5",
       "stats" : {
         "downloadCount" : 5059,
-        "impressionCount" : 5578,
+        "impressionCount" : 5579,
         "viewCount" : 555
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
       "version" : "2.7.38",
-      "versionDate" : "2022-10-10T04:59:49Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2520,7 +2520,7 @@
       "sha256" : "5b37ff0853875678175e01f785dd5db06d401fa5e8e2a1c6b8a4103a912b3666",
       "stats" : {
         "downloadCount" : 112,
-        "impressionCount" : 2668,
+        "impressionCount" : 2669,
         "viewCount" : 202
       },
       "subtitle" : "Visual communication software",
@@ -2703,7 +2703,7 @@
       "sha256" : "da6a605e56ec5be7d59251f824a174b4c8b10245994237c46541ab308c67b0e1",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 2926,
+        "impressionCount" : 2928,
         "viewCount" : 250
       },
       "subtitle" : "News reader with flexible settings",
@@ -3463,7 +3463,7 @@
       "sha256" : "7a351f2fa507a8cbac55f6a094694e0cab457ca6cdc336752e6464712ce27aca",
       "stats" : {
         "downloadCount" : 2121,
-        "impressionCount" : 2374
+        "impressionCount" : 2375
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -3524,7 +3524,7 @@
       "sha256" : "4b3bb8f2d22adde01e571e38708c9c5d3db74333a665dffdb1e11914558b5ce8",
       "stats" : {
         "downloadCount" : 1809,
-        "impressionCount" : 1260
+        "impressionCount" : 1261
       },
       "subtitle" : "Redis desktop manager",
       "tintColor" : "B1493B",
@@ -3730,7 +3730,7 @@
       "sha256" : "962d01bfc737a7e3650d28f19afce94b25af33f28b3ff6f6a08c05e5faa6c2df",
       "stats" : {
         "downloadCount" : 1516,
-        "impressionCount" : 1169
+        "impressionCount" : 1171
       },
       "subtitle" : "Web browser",
       "tintColor" : "54C6FD",
@@ -4028,7 +4028,7 @@
       "sha256" : "38ea33e867815506414323484147b882b6d97df4af9759bca0a64d98c95029b3",
       "stats" : {
         "downloadCount" : 940,
-        "impressionCount" : 804
+        "impressionCount" : 805
       },
       "subtitle" : "Smooths scrolling and set mouse scroll directions independently",
       "tintColor" : "282B4A",
@@ -5335,7 +5335,7 @@
       "sha256" : "7565d0c2f8cd4c7aeefc4fd4e623053fb224d33db34cb1bc57f616d1f5c021f4",
       "stats" : {
         "downloadCount" : 430,
-        "impressionCount" : 1617
+        "impressionCount" : 1618
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -7078,7 +7078,7 @@
       "sha256" : "353c5c47513a437c328af3094622b1a7aed4c269ca8b94cb762e27ae3a6a8c90",
       "stats" : {
         "downloadCount" : 172,
-        "impressionCount" : 670
+        "impressionCount" : 672
       },
       "subtitle" : "Graphical configurator for Kaleidoscope-powered keyboards",
       "tintColor" : "FEB392",
@@ -7492,7 +7492,7 @@
       "sha256" : "db51eb01dac9aa20e0c9f6943d3ab5e585cdfccb97d1022459a51e76535ddde7",
       "stats" : {
         "downloadCount" : 145,
-        "impressionCount" : 1971
+        "impressionCount" : 1973
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
@@ -8928,7 +8928,7 @@
       "sha256" : "28a040ad3afc360202e09fbaebb39e5a5d99c0766bf9dd6c349000d0758169ca",
       "stats" : {
         "downloadCount" : 97,
-        "impressionCount" : 1354
+        "impressionCount" : 1356
       },
       "subtitle" : "Fork of Nylas Mail",
       "tintColor" : "95E5E8",
@@ -9338,7 +9338,7 @@
       "sha256" : "60a33aa662a84cee705c61403adf3e20c9617509c1be43fd74e8436552aee28f",
       "stats" : {
         "downloadCount" : 90,
-        "impressionCount" : 1322
+        "impressionCount" : 1323
       },
       "subtitle" : "Developer IDE or Management Environment for Neo4j instances",
       "tintColor" : "D7E0E8",
@@ -10077,7 +10077,7 @@
       "sha256" : "1829af522e566f4e848f391a4af18979b1e2d3109a4d1ffb717cda2bfc81851d",
       "stats" : {
         "downloadCount" : 73,
-        "impressionCount" : 1225
+        "impressionCount" : 1228
       },
       "subtitle" : "View, Screen Share, organize, import, and download files to a reMarkable device",
       "tintColor" : "0B0B0B",
@@ -10138,7 +10138,7 @@
       "sha256" : "3c541da2d4a182ed88da8e6685934f3728980e2cd1c2a1766590b73f54966220",
       "stats" : {
         "downloadCount" : 72,
-        "impressionCount" : 1261
+        "impressionCount" : 1262
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -10198,7 +10198,7 @@
       "sha256" : "9368414dc210ce6746735cf4def6692a1dee05e847ee3fb5b3a06b0fe45ef963",
       "stats" : {
         "downloadCount" : 71,
-        "impressionCount" : 1099
+        "impressionCount" : 1101
       },
       "subtitle" : "Handwriting notetaking software",
       "tintColor" : "E5D8CE",
@@ -10765,7 +10765,7 @@
       "sha256" : "caba67db9b14184f20b373c6b06d88341a7830f676fd79f5e710bb6575cc1010",
       "stats" : {
         "downloadCount" : 64,
-        "impressionCount" : 1417
+        "impressionCount" : 1418
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
@@ -11582,7 +11582,7 @@
       "sha256" : "00326f5f9f20bff406ed647720adc1205e2ae0f96363a5e52f889fefa6ed6c81",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 1041
+        "impressionCount" : 1042
       },
       "subtitle" : "Tencent video streaming and sharing platform",
       "tintColor" : "84BF85",
@@ -12488,7 +12488,7 @@
       "sha256" : "f23356a23bc3dc0fb20af756029c3775f643572587520c53227d61908c834232",
       "stats" : {
         "downloadCount" : 47,
-        "impressionCount" : 775
+        "impressionCount" : 776
       },
       "subtitle" : "Doing phonetics by computer",
       "tintColor" : "DC788D",
@@ -12509,7 +12509,7 @@
       "sha256" : "a5af1dc75eba10864bf7b5f2f70c79cd7d6e9e5a4249898f2ec5535f16ad8390",
       "stats" : {
         "downloadCount" : 47,
-        "impressionCount" : 1217
+        "impressionCount" : 1219
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "tintColor" : "D0E2F2",
@@ -12840,7 +12840,7 @@
       "sha256" : "239ba7362afc756faeb03e919d18d4554eb6f799a02ab1f92de0e303defcca69",
       "stats" : {
         "downloadCount" : 45,
-        "impressionCount" : 1384
+        "impressionCount" : 1388
       },
       "subtitle" : "Messaging and calling application",
       "tintColor" : "E4F0F7",
@@ -13224,7 +13224,7 @@
       "name" : "ShareMouse",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 812
+        "impressionCount" : 813
       },
       "subtitle" : "Share peripherals between computers",
       "tintColor" : "CFCFCF",
@@ -13761,7 +13761,7 @@
       "sha256" : "dec6fbbd8d85b7ccc31453f21a6e0998f6d6b253236dd6464d9eed7b0b56302b",
       "stats" : {
         "downloadCount" : 37,
-        "impressionCount" : 453
+        "impressionCount" : 455
       },
       "subtitle" : "UML/SysML modeling tool",
       "tintColor" : "4FB97F",
@@ -14278,7 +14278,7 @@
       "sha256" : "0933f0a9bb4c2654f0fd04871f56b6ec46e0cd9f1ea7980a04b963ca2721ab8e",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 409
+        "impressionCount" : 411
       },
       "subtitle" : "All system and utility switches in one place",
       "tintColor" : "2E4C63",
@@ -14319,7 +14319,7 @@
       "sha256" : "6659ee38b0a7a30ca3620b4d1bd73cf51ddbb909acd3369eb8eed6311ee11ef4",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 334
+        "impressionCount" : 335
       },
       "subtitle" : "Media management tool",
       "tintColor" : "664729",
@@ -14904,7 +14904,7 @@
       "sha256" : "27a1aa5c6d4ebe8ef54b8baabb79041550ad460a366f89282f68bf5c3001d9a8",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 446
+        "impressionCount" : 447
       },
       "subtitle" : "Find and remove unwanted duplicate files and folders",
       "tintColor" : "B3B4AA",
@@ -15170,7 +15170,7 @@
       "sha256" : "3fc8ee143bdb708221963ab4fd51905b057bae6fc1ef2342297c95057d706302",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 943
+        "impressionCount" : 944
       },
       "subtitle" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "tintColor" : "71B2CE",
@@ -15552,7 +15552,7 @@
       "sha256" : "29be16125e54481dc65686c09d6660ea76c61c271063452f817128577acef22a",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 1229
+        "impressionCount" : 1230
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "55B9AA",
@@ -15965,7 +15965,7 @@
       "name" : "PDF Reader Pro",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 913
+        "impressionCount" : 914
       },
       "subtitle" : "Read, annotate, edit, convert, create, OCR, fill forms and sign PDFs",
       "tintColor" : "EC9999",
@@ -16216,7 +16216,7 @@
       "sha256" : "099a638a7a45cb9085d29e75769caf44ed142fd74b9e4665fca2de7e4a641081",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 298
+        "impressionCount" : 299
       },
       "subtitle" : "Menu bar clock",
       "tintColor" : "726767",
@@ -16299,7 +16299,7 @@
       "sha256" : "698cfcddf9c798dfacad8072d558c4cde93d3392aeb69075b9c2cd9dfce36565",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 496
+        "impressionCount" : 497
       },
       "subtitle" : "Tool to remove unnecessary files and folders from disk Chinese edition",
       "tintColor" : "EDB8DB",
@@ -16663,7 +16663,7 @@
       "sha256" : "bd402c1b2a69b0a3f3c695a3cd0074d73fdf0d851ceee11c6b5e3efa23e7d37a",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 1590
+        "impressionCount" : 1591
       },
       "subtitle" : "Distributed NoSQL cloud database",
       "tintColor" : "E04E54",
@@ -17438,7 +17438,7 @@
       "sha256" : "0628316192697c223bdd6362fad860415f5613014e31041e5c2571a726d587ca",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 1261
+        "impressionCount" : 1263
       },
       "subtitle" : "Access the HEY email service",
       "tintColor" : "5850EC",
@@ -18003,7 +18003,7 @@
       "name" : "PopSQL",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 438
+        "impressionCount" : 439
       },
       "subtitle" : "Collaborative SQL editor",
       "tintColor" : "F6DAD6",
@@ -18185,7 +18185,7 @@
       "name" : "Bookends",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 633
+        "impressionCount" : 634
       },
       "subtitle" : "Reference management and bibliography software",
       "tintColor" : "DFCBAC",
@@ -20400,7 +20400,7 @@
       "sha256" : "acf180609bf9045bc9b79feeeb20c4a6a190cb225179f569bf3f8c2480209e97",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 629
+        "impressionCount" : 630
       },
       "subtitle" : "Font editor",
       "tintColor" : "88E0B7",
@@ -21636,7 +21636,7 @@
       "sha256" : "3217635f7d5938132e649e8596e3eaec0bac3aafc6e8f47e7a26c1d667a0d52c",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 808
+        "impressionCount" : 809
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
@@ -38707,7 +38707,7 @@
       "sha256" : "0c32fd8e15eff4bdd19fe4fae4f9dc29c6225a5a238bc25664cac0f5b6d5c1ab",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 1321
+        "impressionCount" : 1323
       },
       "subtitle" : "Spatial Network Analysis Software",
       "tintColor" : "CABC7C",
@@ -44426,7 +44426,7 @@
       "name" : "BrowserStack Local Testing",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 110
+        "impressionCount" : 111
       },
       "subtitle" : "Test localhost and staging websites",
       "tintColor" : "A99162",
@@ -48703,7 +48703,7 @@
       "subtitle" : "Securely and anonymously share files, host websites, and chat with friends",
       "tintColor" : "936B93",
       "version" : "2.6",
-      "versionDate" : "2022-10-10T04:59:49Z"
+      "versionDate" : "2022-10-10T00:00:00Z"
     },
     {
       "beta" : false,

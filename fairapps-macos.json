@@ -53,12 +53,12 @@
       "size" : 9956155,
       "stats" : {
         "coreSize" : 169040,
-        "downloadCount" : 483,
+        "downloadCount" : 484,
         "forkCount" : 1,
-        "impressionCount" : 568,
+        "impressionCount" : 569,
         "issueCount" : 6,
         "starCount" : 29,
-        "viewCount" : 80,
+        "viewCount" : 81,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -133,7 +133,7 @@
         "coreSize" : 168592,
         "downloadCount" : 61,
         "forkCount" : 0,
-        "impressionCount" : 249,
+        "impressionCount" : 250,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 22,
@@ -173,10 +173,10 @@
         "coreSize" : 168592,
         "downloadCount" : 49,
         "forkCount" : 0,
-        "impressionCount" : 69,
+        "impressionCount" : 71,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 8,
+        "viewCount" : 9,
         "watcherCount" : 0
       },
       "subtitle" : "An SDUI fairground",
@@ -286,7 +286,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "e9baf26401fb6ed272fb649ff9d6b6df32b787c2779eb7024fcbb773b48b2cb2",
+      "sha256" : "40e2569c91f8bbdc7356fc24a9d6b0525c9d589d7238d9541006ee624f058634",
       "size" : 13730223,
       "stats" : {
         "coreSize" : 168592,
@@ -414,7 +414,7 @@
         "coreSize" : 170224,
         "downloadCount" : 29,
         "forkCount" : 0,
-        "impressionCount" : 176,
+        "impressionCount" : 177,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 17,
@@ -714,7 +714,7 @@
         "coreSize" : 170240,
         "downloadCount" : 14,
         "forkCount" : 0,
-        "impressionCount" : 374,
+        "impressionCount" : 375,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 17,
@@ -1046,7 +1046,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "ab9676a38773fea28c4406379e90e7e08c88e7a56a5bbe03834065e91fb4ecdb",
+      "sha256" : "7987a29fd553ddac4bd915521b696e9cec548c9dc46820d6aa922d30af18bc85",
       "size" : 26418173,
       "stats" : {
         "coreSize" : 168592,

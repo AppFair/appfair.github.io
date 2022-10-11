@@ -485,7 +485,7 @@
       "subtitle" : "Text, code, and markup editor",
       "tintColor" : "A8A7CF",
       "version" : "14.6.1",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1268,7 +1268,7 @@
       "subtitle" : "Kubernetes IDE",
       "tintColor" : "7EB5DD",
       "version" : "2022.10.111653",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1337,7 +1337,7 @@
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
       "version" : "1.72.1.22284",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1555,7 +1555,7 @@
       "subtitle" : "IDE for professional Python development",
       "tintColor" : "569051",
       "version" : "2022.2.3,222.4345.23",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2215,7 +2215,7 @@
       "subtitle" : "C and C++ IDE",
       "tintColor" : "26776A",
       "version" : "2022.2.4,222.4345.21",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3028,7 +3028,7 @@
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
       "version" : "1.72.1",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3132,7 +3132,7 @@
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
       "version" : "1.0.62,542",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3282,7 +3282,7 @@
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
       "version" : "1.26.2,1.26.2.13244",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3427,7 +3427,7 @@
       "subtitle" : "Visual tool to design, develop and administer MySQL servers",
       "tintColor" : "346083",
       "version" : "8.0.31",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3837,7 +3837,7 @@
       "subtitle" : "IDE for Python programming - Community Edition",
       "tintColor" : "6D8A2D",
       "version" : "2022.2.3,222.4345.23",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59411,7 +59411,7 @@
       },
       "subtitle" : "Provides updates to various Microsoft products",
       "version" : "4.52.22100900",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59600,7 +59600,7 @@
       },
       "subtitle" : "Client for the Google Drive storage service",
       "version" : "65.0.2",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59653,7 +59653,7 @@
       },
       "subtitle" : "Office suite",
       "version" : "16.66.22100900",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60115,7 +60115,7 @@
       },
       "subtitle" : "Spreadsheet software",
       "version" : "16.66.22100900",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60133,7 +60133,7 @@
       },
       "subtitle" : "Word processor",
       "version" : "16.66.22100900",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60222,7 +60222,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.22,20221011102956",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60240,7 +60240,7 @@
       },
       "subtitle" : "Email client",
       "version" : "16.66.22100900",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60275,7 +60275,7 @@
       },
       "subtitle" : "Extend the functionality of VirtualBox",
       "version" : "7.0.0",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60483,7 +60483,7 @@
       },
       "subtitle" : "Presentation software",
       "version" : "16.66.22100900",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -63827,7 +63827,7 @@
       },
       "subtitle" : "Free Dj app to prepare and manage your music files",
       "version" : "6.6.5,20221005104542",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64906,7 +64906,7 @@
       },
       "subtitle" : "Homebrew GUI app written in electron",
       "version" : "1.2.2",
-      "versionDate" : "2022-10-11T22:40:03Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,

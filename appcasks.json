@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2889,
-        "impressionCount" : 11293,
+        "impressionCount" : 11297,
         "viewCount" : 1276
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "a0e98a7326e4a518173a5c6703f6e0671027a3471b9c6470b07d4160dfb1059a",
       "stats" : {
         "downloadCount" : 16598,
-        "impressionCount" : 10296,
+        "impressionCount" : 10299,
         "viewCount" : 1062
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8228,
-        "impressionCount" : 8828,
+        "impressionCount" : 8830,
         "viewCount" : 758
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 27006,
-        "impressionCount" : 9573,
+        "impressionCount" : 9577,
         "viewCount" : 801
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8689,
-        "impressionCount" : 9331,
+        "impressionCount" : 9334,
         "viewCount" : 708
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 5675,
-        "impressionCount" : 9083,
+        "impressionCount" : 9086,
         "viewCount" : 563
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "6228b41938ad3ef76450c843a510615b07f8058bc9a256d1ff3fbf928a384235",
       "stats" : {
         "downloadCount" : 3601,
-        "impressionCount" : 8529,
+        "impressionCount" : 8533,
         "viewCount" : 606
       },
       "subtitle" : "Text editor",
@@ -238,7 +238,7 @@
       "sha256" : "808ed03191a3939887200bf17477f805d5f40d6987a49f36490f673009eeec0b",
       "stats" : {
         "downloadCount" : 3408,
-        "impressionCount" : 9716,
+        "impressionCount" : 9719,
         "viewCount" : 636
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -266,7 +266,7 @@
       ],
       "stats" : {
         "downloadCount" : 2637,
-        "impressionCount" : 7504,
+        "impressionCount" : 7508,
         "viewCount" : 460
       },
       "subtitle" : "Video game digital distribution service",
@@ -292,7 +292,7 @@
       "sha256" : "40ea451a98646deabe2a94306c6f92e0efe399cb6dea153c76bc3370fac13504",
       "stats" : {
         "downloadCount" : 2434,
-        "impressionCount" : 8191,
+        "impressionCount" : 8194,
         "viewCount" : 495
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -326,7 +326,7 @@
       "sha256" : "cfed68a618da5d5957dc40eb3f33e27e2b1c1f31d103063c23f20918a507f470",
       "stats" : {
         "downloadCount" : 2028,
-        "impressionCount" : 9319,
+        "impressionCount" : 9321,
         "viewCount" : 916
       },
       "subtitle" : "File archiver",
@@ -358,7 +358,7 @@
       "sha256" : "6af68af6d43ac184ff0899d0ced2fc29006984fffee6a805825d7e67c48ee23f",
       "stats" : {
         "downloadCount" : 1218,
-        "impressionCount" : 9510,
+        "impressionCount" : 9512,
         "viewCount" : 526
       },
       "subtitle" : "3D creation suite",
@@ -387,7 +387,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1189,
-        "impressionCount" : 7423,
+        "impressionCount" : 7424,
         "viewCount" : 589
       },
       "subtitle" : "Open-source Markdown editor",
@@ -650,7 +650,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 124,
-        "impressionCount" : 4071,
+        "impressionCount" : 4072,
         "viewCount" : 353
       },
       "subtitle" : "File synchronizer",
@@ -683,7 +683,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 3631,
+        "impressionCount" : 3632,
         "viewCount" : 286
       },
       "subtitle" : "Create DMGs and other archives",
@@ -709,7 +709,7 @@
       "sha256" : "f7e464efb8d9de43017f578c03179171dabf1a8d9110ce481f4f5aa71796a894",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 3866,
+        "impressionCount" : 3867,
         "viewCount" : 348
       },
       "subtitle" : "EVE Online client",
@@ -744,7 +744,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 3522,
+        "impressionCount" : 3523,
         "viewCount" : 295
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -989,13 +989,13 @@
       "sha256" : "0aca716811997d35f3b6a69c3cbd70d4c0a2b0d10022381f9cd558f4a402f298",
       "stats" : {
         "downloadCount" : 3704,
-        "impressionCount" : 2863,
+        "impressionCount" : 2864,
         "viewCount" : 176
       },
       "subtitle" : "Application launcher and productivity software",
       "tintColor" : "3D333E",
       "version" : "5.0.3,2087",
-      "versionDate" : "2022-10-11T15:44:09Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1314,7 +1314,7 @@
       "subtitle" : "Server and cloud storage browser",
       "tintColor" : "F1BC0C",
       "version" : "8.4.5,38423",
-      "versionDate" : "2022-10-11T15:44:09Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1417,7 +1417,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 2230,
-        "impressionCount" : 3476
+        "impressionCount" : 3477
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -1526,7 +1526,7 @@
       "sha256" : "b30d4844e9a726094aac4cc84eb855907fff96445d4c1bdad45d67db32e32675",
       "stats" : {
         "downloadCount" : 1828,
-        "impressionCount" : 2021,
+        "impressionCount" : 2022,
         "viewCount" : 66
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -1549,7 +1549,7 @@
       "sha256" : "9b2f5841fa5741881600fbf3b0d5686f2593a6771bb70454d4cb0cc3acd1e43a",
       "stats" : {
         "downloadCount" : 1683,
-        "impressionCount" : 2357,
+        "impressionCount" : 2358,
         "viewCount" : 116
       },
       "subtitle" : "IDE for professional Python development",
@@ -1956,7 +1956,7 @@
       "sha256" : "c3125e5305ff219857ff1b1236f7d6612fd600dc098550c3287a938c73217a63",
       "stats" : {
         "downloadCount" : 606,
-        "impressionCount" : 4034,
+        "impressionCount" : 4035,
         "viewCount" : 125
       },
       "subtitle" : "Web debugging Proxy application",
@@ -2047,7 +2047,7 @@
       "sha256" : "1aca3e8174b5d63f2e5c83be3a478197917226bb956d0dd19b17a56fe21ff93e",
       "stats" : {
         "downloadCount" : 494,
-        "impressionCount" : 2651,
+        "impressionCount" : 2652,
         "viewCount" : 140
       },
       "subtitle" : "Note taking and to-do application with synchronization capabilities",
@@ -3148,7 +3148,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6004,
-        "impressionCount" : 1824
+        "impressionCount" : 1827
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -11453,7 +11453,7 @@
       "subtitle" : "Mounts servers and cloud storages as a disk on the desktop",
       "tintColor" : "E3CE82",
       "version" : "4.12.4,20185",
-      "versionDate" : "2022-10-11T15:44:09Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25057,7 +25057,7 @@
       "sha256" : "2a01c9dc79673463e28a6c8e72abd1e4041a3480defaa9092ab85b1869575717",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 303
+        "impressionCount" : 304
       },
       "subtitle" : "Virtual office for remote teams",
       "tintColor" : "4998E1",
@@ -40206,7 +40206,7 @@
       "sha256" : "0a43128e9eb990bdf9c7445cb80c70cf8a9686778a07bbbc8164c8515334671e",
       "stats" : {
         "downloadCount" : 8616,
-        "impressionCount" : 309
+        "impressionCount" : 310
       },
       "subtitle" : "Automated testing of webapps for Google Chrome",
       "version" : "106.0.5249.61",
@@ -40328,7 +40328,7 @@
       "sha256" : "58725d236967bebe19af8bcf34fa6c6b5aeffd07b113d566bd78f9dbff84633e",
       "stats" : {
         "downloadCount" : 936,
-        "impressionCount" : 293
+        "impressionCount" : 295
       },
       "subtitle" : "Google Chromium, sans integration with Google",
       "tintColor" : "ACC4F1",
@@ -41409,7 +41409,7 @@
       "subtitle" : "Cloud gaming platform",
       "tintColor" : "92C736",
       "version" : "2.0.45.96",
-      "versionDate" : "2022-10-11T15:44:09Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50931,7 +50931,7 @@
       "sha256" : "68ab1ee8be6fbab0a1290a24c36fd573ccf3340f6c14bbcdf88b387bba95b9b2",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 74
+        "impressionCount" : 76
       },
       "subtitle" : "Google Chromium built to solve Chrome incompatibility issue",
       "tintColor" : "719DED",
@@ -52604,7 +52604,7 @@
       "name" : "Cốc Cốc",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 179
+        "impressionCount" : 180
       },
       "subtitle" : "Chromium-based web browser",
       "tintColor" : "D7EACA",
@@ -59771,7 +59771,7 @@
       },
       "subtitle" : "View, print, and comment on PDF documents",
       "version" : "22.003.20258",
-      "versionDate" : "2022-10-11T15:44:09Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -70333,7 +70333,7 @@
       },
       "subtitle" : "Application firewall",
       "version" : "4.0.12",
-      "versionDate" : "2022-10-11T15:44:09Z"
+      "versionDate" : "2022-10-11T00:00:00Z"
     },
     {
       "beta" : false,

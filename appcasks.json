@@ -461,7 +461,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://s3.amazonaws.com/BBSW-download/BBEdit_14.6.dmg",
+      "downloadURL" : "https://s3.amazonaws.com/BBSW-download/BBEdit_14.6.1.dmg",
       "homepage" : "https://www.barebones.com/products/bbedit/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/AppIcon.png",
       "localizedDescription" : "Text, code, and markup editor",
@@ -476,7 +476,7 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/screenshot_08-mac-1588x1438.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-bbedit/screenshot_06-mac-1588x1438.png"
       ],
-      "sha256" : "9334031d3d43c599382f4b4eda22da12518f054b28c1565bb08a485f99ef7d64",
+      "sha256" : "711bde088680080d0c84308c72906ee59eac29ad34710c001370a88497779b49",
       "stats" : {
         "downloadCount" : 417,
         "impressionCount" : 7637,
@@ -484,8 +484,8 @@
       },
       "subtitle" : "Text, code, and markup editor",
       "tintColor" : "A8A7CF",
-      "version" : "14.6",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "14.6.1",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -1253,13 +1253,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://api.k8slens.dev/binaries/Lens-2022.10.70653-latest.dmg",
+      "downloadURL" : "https://api.k8slens.dev/binaries/Lens-2022.10.111653-latest.dmg",
       "homepage" : "https://k8slens.dev/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lens/AppIcon.png",
       "localizedDescription" : "Kubernetes IDE",
       "name" : "Lens",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lens/README.md",
-      "sha256" : "166c53d5b0b2dfe251822decf08b4e0bd5f5302f607abd845791deca351f4ff3",
+      "sha256" : "313367bea196021faea768d69b508f0d5d50c5d592d419cd8716eb0ffbd35e42",
       "stats" : {
         "downloadCount" : 2452,
         "impressionCount" : 2767,
@@ -1267,8 +1267,8 @@
       },
       "subtitle" : "Kubernetes IDE",
       "tintColor" : "7EB5DD",
-      "version" : "2022.10.70653",
-      "versionDate" : "2022-10-08T00:00:00Z"
+      "version" : "2022.10.111653",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -1322,13 +1322,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/VSCodium/vscodium/releases/download/1.72.0.22279/VSCodium.x64.1.72.0.22279.dmg",
+      "downloadURL" : "https://github.com/VSCodium/vscodium/releases/download/1.72.1.22284/VSCodium.x64.1.72.1.22284.dmg",
       "homepage" : "https://github.com/VSCodium/vscodium",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/AppIcon.png",
       "localizedDescription" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "name" : "VSCodium",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/README.md",
-      "sha256" : "f9348e0a5b72d23194f7be5c193e9c597258b0fdccb88bd8e239d384c46ef88e",
+      "sha256" : "340a847736d25b5d796d6aeda891f7b40dc01d6fa73bc5108b96eea350eeb184",
       "stats" : {
         "downloadCount" : 2317,
         "impressionCount" : 4246,
@@ -1336,8 +1336,8 @@
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
-      "version" : "1.72.0.22279",
-      "versionDate" : "2022-10-08T00:00:00Z"
+      "version" : "1.72.1.22284",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -1540,13 +1540,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.jetbrains.com/python/pycharm-professional-2022.2.2.dmg",
+      "downloadURL" : "https://download.jetbrains.com/python/pycharm-professional-2022.2.3.dmg",
       "homepage" : "https://www.jetbrains.com/pycharm/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pycharm/AppIcon.png",
       "localizedDescription" : "IDE for professional Python development",
       "name" : "PyCharm",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pycharm/README.md",
-      "sha256" : "9b2f5841fa5741881600fbf3b0d5686f2593a6771bb70454d4cb0cc3acd1e43a",
+      "sha256" : "920326a35589fee80e70b84d23184daf1d3efc8ecf4ec8c273c2bf2ec764a5b7",
       "stats" : {
         "downloadCount" : 1683,
         "impressionCount" : 2360,
@@ -1554,8 +1554,8 @@
       },
       "subtitle" : "IDE for professional Python development",
       "tintColor" : "569051",
-      "version" : "2022.2.2,222.4167.33",
-      "versionDate" : "2022-09-16T00:00:00Z"
+      "version" : "2022.2.3,222.4345.23",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -2200,13 +2200,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.jetbrains.com/cpp/CLion-2022.2.3.dmg",
+      "downloadURL" : "https://download.jetbrains.com/cpp/CLion-2022.2.4.dmg",
       "homepage" : "https://www.jetbrains.com/clion/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clion/AppIcon.png",
       "localizedDescription" : "C and C++ IDE",
       "name" : "CLion",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-clion/README.md",
-      "sha256" : "d7e0dcbb3c28f383d1365f5cb6d2b55afbb8c638fd9f100b8040f72b394a1aed",
+      "sha256" : "b72fae2bee3bd10374d10a4efb86888d289931080d5321385ede30373d31a55a",
       "stats" : {
         "downloadCount" : 433,
         "impressionCount" : 2044,
@@ -2214,8 +2214,8 @@
       },
       "subtitle" : "C and C++ IDE",
       "tintColor" : "26776A",
-      "version" : "2022.2.3,222.4167.35",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "2022.2.4,222.4345.21",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -3015,20 +3015,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://update.code.visualstudio.com/1.72.0/darwin/stable",
+      "downloadURL" : "https://update.code.visualstudio.com/1.72.1/darwin/stable",
       "homepage" : "https://code.visualstudio.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-studio-code/AppIcon.png",
       "localizedDescription" : "Open-source code editor",
       "name" : "Microsoft Visual Studio Code",
-      "sha256" : "4a145c1c06263afc031cd487320c00592ccdf81d5f814e9f2d114f3e92df4d96",
+      "sha256" : "890f963cc1180b1f22e4bb525f29fe612b0dae76b55bc41b914097eb609cfa05",
       "stats" : {
         "downloadCount" : 31874,
         "impressionCount" : 1775
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
-      "version" : "1.72.0",
-      "versionDate" : "2022-10-08T00:00:00Z"
+      "version" : "1.72.1",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -3119,20 +3119,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://versions.withfig.com/fig%20541.dmg",
+      "downloadURL" : "https://versions.withfig.com/fig%20542.dmg",
       "homepage" : "https://fig.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-fig/AppIcon.png",
       "localizedDescription" : "Reimagine your terminal",
       "name" : "fig",
-      "sha256" : "42040d68be15f0c573ae9333312987687edfe081aa879a16efd2ef6e754430c5",
+      "sha256" : "0c70a157cf16785e8175fce7efc1bb6a2e056a099b9da5c673a7904f4b205e07",
       "stats" : {
         "downloadCount" : 6639,
         "impressionCount" : 2365
       },
       "subtitle" : "Reimagine your terminal",
       "tintColor" : "A6A6A6",
-      "version" : "1.0.62,541",
-      "versionDate" : "2022-10-11T00:00:00Z"
+      "version" : "1.0.62,542",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -3269,20 +3269,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.26.1.13138.dmg",
+      "downloadURL" : "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.26.2.13244.dmg",
       "homepage" : "https://www.jetbrains.com/toolbox-app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-jetbrains-toolbox/AppIcon.png",
       "localizedDescription" : "JetBrains tools manager",
       "name" : "JetBrains Toolbox",
-      "sha256" : "e4f9d3a2d8d76b742d9159c3e388fef50c89ffcc03dd542ec67e6b163aebf332",
+      "sha256" : "4df76bec1cfb06d9c760afb33cb8a1ecf72dceaa18445fe553a273984cf4f783",
       "stats" : {
         "downloadCount" : 2927,
         "impressionCount" : 1809
       },
       "subtitle" : "JetBrains tools manager",
       "tintColor" : "AC2A5D",
-      "version" : "1.26.1,1.26.1.13138",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "1.26.2,1.26.2.13244",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -3414,20 +3414,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.30-macos-x86_64.dmg",
+      "downloadURL" : "https://cdn.mysql.com/Downloads/MySQLGUITools/mysql-workbench-community-8.0.31-macos-x86_64.dmg",
       "homepage" : "https://www.mysql.com/products/workbench/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-mysqlworkbench/AppIcon.png",
       "localizedDescription" : "Visual tool to design, develop and administer MySQL servers",
       "name" : "MySQL Workbench",
-      "sha256" : "5a71b8c859fbfdbcfc2df1a2a40824e28e12b0b41ff8929fa0b3bcbd24f00774",
+      "sha256" : "6807ac1138c424c57d7e912c08301a838a90935dd0fc7a5658d3ded23f98a865",
       "stats" : {
         "downloadCount" : 2217,
         "impressionCount" : 834
       },
       "subtitle" : "Visual tool to design, develop and administer MySQL servers",
       "tintColor" : "346083",
-      "version" : "8.0.30",
-      "versionDate" : "2022-07-26T00:00:00Z"
+      "version" : "8.0.31",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -3824,20 +3824,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.jetbrains.com/python/pycharm-community-2022.2.2.dmg",
+      "downloadURL" : "https://download.jetbrains.com/python/pycharm-community-2022.2.3.dmg",
       "homepage" : "https://www.jetbrains.com/pycharm/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-pycharm-ce/AppIcon.png",
       "localizedDescription" : "IDE for Python programming - Community Edition",
       "name" : "Jetbrains PyCharm Community Edition",
-      "sha256" : "a7fbc83ea01e96c79a75fd061669fa0156b770e92c1153a03681fb67ee4a59ea",
+      "sha256" : "01eec651f6e8d92e1bfe5688aeb179ad5eb92e77ef77d102793d4848f8efc0d4",
       "stats" : {
         "downloadCount" : 1279,
         "impressionCount" : 858
       },
       "subtitle" : "IDE for Python programming - Community Edition",
       "tintColor" : "6D8A2D",
-      "version" : "2022.2.2,222.4167.33",
-      "versionDate" : "2022-09-16T00:00:00Z"
+      "version" : "2022.2.3,222.4345.23",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -59401,17 +59401,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.51.22091101_Updater.pkg",
+      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_AutoUpdate_4.52.22100900_Updater.pkg",
       "homepage" : "https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate",
       "localizedDescription" : "Provides updates to various Microsoft products",
       "name" : "Microsoft Auto Update",
-      "sha256" : "ea9e59eb60604ad9785cb0c81bd490de5c7d32527f1da7064d4f77226e2dc907",
+      "sha256" : "c55d8421f3bf30962109ad3569c2ec4ec2bf8db28c91c74350e030065b136ee0",
       "stats" : {
         "downloadCount" : 3969
       },
       "subtitle" : "Provides updates to various Microsoft products",
-      "version" : "4.51.22091101",
-      "versionDate" : "2022-09-14T00:00:00Z"
+      "version" : "4.52.22100900",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -59599,8 +59599,8 @@
         "downloadCount" : 2689
       },
       "subtitle" : "Client for the Google Drive storage service",
-      "version" : "64.0.4",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "65.0.2",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -59643,17 +59643,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.65.22091101_Installer.pkg",
+      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Office_16.66.22100900_Installer.pkg",
       "homepage" : "https://products.office.com/mac/microsoft-office-for-mac/",
       "localizedDescription" : "Office suite",
       "name" : "Microsoft Office",
-      "sha256" : "a81048512dd432b1c66ebd855580ab71595404d6883a14fb779fb66ee367c00f",
+      "sha256" : "a877f4b2ee6816fc335ce6068d3253e44966da90b75f0a6e1f3734edec13dc98",
       "stats" : {
         "downloadCount" : 2345
       },
       "subtitle" : "Office suite",
-      "version" : "16.65.22091101",
-      "versionDate" : "2022-09-14T00:00:00Z"
+      "version" : "16.66.22100900",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -60105,17 +60105,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.65.22091101_Installer.pkg",
+      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.66.22100900_Installer.pkg",
       "homepage" : "https://products.office.com/en-US/excel",
       "localizedDescription" : "Spreadsheet software",
       "name" : "Microsoft Excel",
-      "sha256" : "467c565b852e1dd6dac0905596483faf7682fe2ff580e8f0dd4d974e9555e277",
+      "sha256" : "c5ae68fd2f28d6c30ffda4a1e72f76fa9086ddaf48a13e209a9ae63d6bca72dc",
       "stats" : {
         "downloadCount" : 704
       },
       "subtitle" : "Spreadsheet software",
-      "version" : "16.65.22091101",
-      "versionDate" : "2022-09-14T00:00:00Z"
+      "version" : "16.66.22100900",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -60123,17 +60123,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.65.22091101_Installer.pkg",
+      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Word_16.66.22100900_Installer.pkg",
       "homepage" : "https://products.office.com/en-US/word",
       "localizedDescription" : "Word processor",
       "name" : "Microsoft Word",
-      "sha256" : "b4450ef5083dbe993916c28003f6718e27d34d1efd62e4675ace1281afbe4ab0",
+      "sha256" : "e7d4cb1780932c9cb1b4dbd63dc8e3d397e1c28db28f3d5cf1e8cca76d6e35e2",
       "stats" : {
         "downloadCount" : 690
       },
       "subtitle" : "Word processor",
-      "version" : "16.65.22091101",
-      "versionDate" : "2022-09-14T00:00:00Z"
+      "version" : "16.66.22100900",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -60212,17 +60212,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.22%2B20221010102935-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.22%2B20221011102956-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "009c15ebeeafb099cff839c877c9c831a27f6c0696c70050aa2c0e880a561490",
+      "sha256" : "7f4d7b0a6a118f834d7c998a029e12efc5de2ebed7fb01e110d1fa27ab9d9c7e",
       "stats" : {
         "downloadCount" : 652
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.22,20221010102935",
-      "versionDate" : "2022-10-11T00:00:00Z"
+      "version" : "6.2.22,20221011102956",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -60230,17 +60230,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.65.22091101_Installer.pkg",
+      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Outlook_16.66.22100900_Installer.pkg",
       "homepage" : "https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook",
       "localizedDescription" : "Email client",
       "name" : "Microsoft Outlook",
-      "sha256" : "55cf90decc212c8d04cae867f3f3028d5fcb9e685ac81aa9472db8ef60149b8d",
+      "sha256" : "fff3e6f3dd185db1b75cc741c6af3feca8bea860a9befd7bc240a16b946e4c63",
       "stats" : {
         "downloadCount" : 626
       },
       "subtitle" : "Email client",
-      "version" : "16.65.22091101",
-      "versionDate" : "2022-09-14T00:00:00Z"
+      "version" : "16.66.22100900",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -60265,17 +60265,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.virtualbox.org/virtualbox/6.1.38/Oracle_VM_VirtualBox_Extension_Pack-6.1.38.vbox-extpack",
+      "downloadURL" : "https://download.virtualbox.org/virtualbox/7.0.0/Oracle_VM_VirtualBox_Extension_Pack-7.0.0.vbox-extpack",
       "homepage" : "https://www.virtualbox.org/",
       "localizedDescription" : "Extend the functionality of VirtualBox",
       "name" : "Oracle VirtualBox Extension Pack",
-      "sha256" : "052f26cf8c619b1aa0cad94c05ece0c1ae326248b4746c95e1deb0729ae4417a",
+      "sha256" : "e32555a2d2482c1e1126747f967742364ddfdfd49fce3107a9627780f373ffd7",
       "stats" : {
         "downloadCount" : 613
       },
       "subtitle" : "Extend the functionality of VirtualBox",
-      "version" : "6.1.38",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "7.0.0",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -60473,17 +60473,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.65.22091101_Installer.pkg",
+      "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_PowerPoint_16.66.22100900_Installer.pkg",
       "homepage" : "https://products.office.com/en-US/powerpoint",
       "localizedDescription" : "Presentation software",
       "name" : "Microsoft PowerPoint",
-      "sha256" : "1a6bf22f0178f1b6fe3524913aa51d78fb9e2a0f155191af64f46f3f6668a335",
+      "sha256" : "5a7cc747c573cd83223d719aff22e4594e6bc60dffcbd53a1ce159e8eeeb324b",
       "stats" : {
         "downloadCount" : 484
       },
       "subtitle" : "Presentation software",
-      "version" : "16.65.22091101",
-      "versionDate" : "2022-09-14T00:00:00Z"
+      "version" : "16.66.22100900",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -63817,16 +63817,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://cdn.rekordbox.com/files/20220623170231/Install_rekordbox_6_6_4.pkg_.zip",
+      "downloadURL" : "https://cdn.rekordbox.com/files/20221005104542/Install_rekordbox_6_6_5.pkg_.zip",
       "homepage" : "https://rekordbox.com/en/",
       "localizedDescription" : "Free Dj app to prepare and manage your music files",
       "name" : "rekordbox",
-      "sha256" : "5a4459944a6d0233ec9dcc5e55e94a43b682845913f71e6d0f62dec4fa2f9386",
+      "sha256" : "acdbbce29ac8b427d4addfcccf5e53771cfcc8280fa5e11f9584c0517474cf4d",
       "stats" : {
         "downloadCount" : 43
       },
       "subtitle" : "Free Dj app to prepare and manage your music files",
-      "version" : "6.6.4,20220623170231"
+      "version" : "6.6.5,20221005104542",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -64895,17 +64896,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.2.1/cakebrewjs-1.2.1-mac.zip",
+      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.2.2/cakebrewjs-1.2.2-mac.zip",
       "homepage" : "https://sourceforge.net/projects/cakebrewjs",
       "localizedDescription" : "Homebrew GUI app written in electron",
       "name" : "cakebrewjs",
-      "sha256" : "cca2e657dcdea0b1cf146187563e5ab12533b62618ff6227bd2e2b5d5299c4c0",
+      "sha256" : "155db4949e02ecd3b772cd4f3a8be427ce0c19386d122511ad02b9218b62d97c",
       "stats" : {
         "downloadCount" : 22
       },
       "subtitle" : "Homebrew GUI app written in electron",
-      "version" : "1.2.1",
-      "versionDate" : "2022-10-10T00:00:00Z"
+      "version" : "1.2.2",
+      "versionDate" : "2022-10-11T22:40:03Z"
     },
     {
       "beta" : false,
@@ -74228,139 +74229,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "spatterlight",
-      "caption" : "Spatterlight updated from 0.9.7 to 0.9.8",
-      "date" : "2022-10-10T02:54:19Z",
-      "identifier" : "release-spatterlight-0.9.8",
-      "title" : "New Release: Spatterlight 0.9.8"
-    },
-    {
-      "appID" : "mkvtoolnix",
-      "caption" : "MKVToolNix updated from 70.0.0 to 71.1.0",
-      "date" : "2022-10-10T02:54:20Z",
-      "identifier" : "release-mkvtoolnix-71.1.0",
-      "title" : "New Release: MKVToolNix 71.1.0"
-    },
-    {
-      "appID" : "mucommander",
-      "caption" : "muCommander updated from 1.0.1-1 to 1.1.0-1",
-      "date" : "2022-10-10T02:54:20Z",
-      "identifier" : "release-mucommander-1.1.0-1",
-      "title" : "New Release: muCommander 1.1.0-1"
-    },
-    {
-      "appID" : "visit",
-      "caption" : "VisIt updated from 3.3.0 to 3.3.1",
-      "date" : "2022-10-10T02:54:20Z",
-      "identifier" : "release-visit-3.3.1",
-      "title" : "New Release: VisIt 3.3.1"
-    },
-    {
-      "appID" : "goodsync",
-      "caption" : "GoodSync updated from 12.0.7 to 12.0.8",
-      "date" : "2022-10-10T02:54:20Z",
-      "identifier" : "release-goodsync-12.0.8",
-      "title" : "New Release: GoodSync 12.0.8"
-    },
-    {
-      "appID" : "qlab",
-      "caption" : "QLab updated from 5.0.5,5005 to 5.0.6,5006",
-      "date" : "2022-10-10T02:54:20Z",
-      "identifier" : "release-qlab-5.0.6,5006",
-      "title" : "New Release: QLab 5.0.6,5006"
-    },
-    {
-      "appID" : "puzzles",
-      "caption" : "Simon Tatham's Portable Puzzle Collection updated from 20221006.e98ede7 to 20221008.85d2a7d",
-      "date" : "2022-10-10T02:54:21Z",
-      "identifier" : "release-puzzles-20221008.85d2a7d",
-      "title" : "New Release: Simon Tatham's Portable Puzzle Collection 20221008.85d2a7d"
-    },
-    {
-      "appID" : "zettelkasten",
-      "caption" : "Zettelkasten updated from 3.3.1 to 3.2022.8",
-      "date" : "2022-10-10T02:54:21Z",
-      "identifier" : "release-zettelkasten-3.2022.8",
-      "title" : "New Release: Zettelkasten 3.2022.8"
-    },
-    {
-      "appID" : "cakebrewjs",
-      "caption" : "cakebrewjs updated from 1.1.1 to 1.2.1",
-      "date" : "2022-10-10T02:54:21Z",
-      "identifier" : "release-cakebrewjs-1.2.1",
-      "title" : "New Release: cakebrewjs 1.2.1"
-    },
-    {
-      "appID" : "hackolade",
-      "caption" : "Hackolade updated from 6.5.3 to 6.5.4",
-      "date" : "2022-10-10T02:54:22Z",
-      "identifier" : "release-hackolade-6.5.4",
-      "title" : "New Release: Hackolade 6.5.4"
-    },
-    {
-      "appID" : "cloudash",
-      "caption" : "cloudash 1.16.3 released",
-      "date" : "2022-10-10T02:54:22Z",
-      "identifier" : "release-cloudash-1.16.3",
-      "title" : "New Release: cloudash 1.16.3"
-    },
-    {
-      "appID" : "stats",
-      "caption" : "Stats updated from 2.7.37 to 2.7.38",
-      "date" : "2022-10-10T04:59:50Z",
-      "identifier" : "release-stats-2.7.38",
-      "title" : "New Release: Stats 2.7.38"
-    },
-    {
-      "appID" : "onionshare",
-      "caption" : "OnionShare updated from 2.5 to 2.6",
-      "date" : "2022-10-10T04:59:51Z",
-      "identifier" : "release-onionshare-2.6",
-      "title" : "New Release: OnionShare 2.6"
-    },
-    {
-      "appID" : "bookmacster",
-      "caption" : "BookMacster updated from 3.0.1 to 3.0.5",
-      "date" : "2022-10-10T07:58:14Z",
-      "identifier" : "release-bookmacster-3.0.5",
-      "title" : "New Release: BookMacster 3.0.5"
-    },
-    {
-      "appID" : "gridtracker",
-      "caption" : "GridTracker updated from 1.22.1008,1.22.1008 to 1.22.1010,1.22.1010",
-      "date" : "2022-10-10T09:44:25Z",
-      "identifier" : "release-gridtracker-1.22.1010,1.22.1010",
-      "title" : "New Release: GridTracker 1.22.1010,1.22.1010"
-    },
-    {
-      "appID" : "dbeaver-community",
-      "caption" : "DBeaver Community Edition updated from 22.2.1 to 22.2.2",
-      "date" : "2022-10-10T15:43:28Z",
-      "identifier" : "release-dbeaver-community-22.2.2",
-      "title" : "New Release: DBeaver Community Edition 22.2.2"
-    },
-    {
-      "appID" : "zoom",
-      "caption" : "Zoom.us updated from 5.12.0.11129 to 5.12.2.11434",
-      "date" : "2022-10-10T15:43:29Z",
-      "identifier" : "release-zoom-5.12.2.11434",
-      "title" : "New Release: Zoom.us 5.12.2.11434"
-    },
-    {
-      "appID" : "qiyimedia",
-      "caption" : "iQIYI updated from 13.9.0,20220919173000 to 13.10.0,20221009182301",
-      "date" : "2022-10-10T15:43:29Z",
-      "identifier" : "release-qiyimedia-13.10.0,20221009182301",
-      "title" : "New Release: iQIYI 13.10.0,20221009182301"
-    },
-    {
-      "appID" : "backuploupe",
-      "caption" : "BackupLoupe updated from 3.8,2452 to 3.8,2455",
-      "date" : "2022-10-10T15:43:29Z",
-      "identifier" : "release-backuploupe-3.8,2455",
-      "title" : "New Release: BackupLoupe 3.8,2455"
-    },
-    {
       "appID" : "zoho-workdrive",
       "caption" : "Zoho WorkDrive 2.6.53 released",
       "date" : "2022-10-11T02:44:45Z",
@@ -74408,13 +74276,6 @@
       "date" : "2022-10-11T02:44:47Z",
       "identifier" : "release-zenbeats-2.2.2,8612",
       "title" : "New Release: Zenbeats 2.2.2,8612"
-    },
-    {
-      "appID" : "fig",
-      "caption" : "fig updated from 1.0.62,539 to 1.0.62,541",
-      "date" : "2022-10-11T10:41:49Z",
-      "identifier" : "release-fig-1.0.62,541",
-      "title" : "New Release: fig 1.0.62,541"
     },
     {
       "appID" : "microsoft-edge",
@@ -74774,13 +74635,6 @@
       "title" : "New Release: Oracle VirtualBox 7.0.0,153978"
     },
     {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.22,20221008103013 to 6.2.22,20221010102935",
-      "date" : "2022-10-11T10:42:00Z",
-      "identifier" : "release-metasploit-6.2.22,20221010102935",
-      "title" : "New Release: Metasploit Framework 6.2.22,20221010102935"
-    },
-    {
       "appID" : "zoom-for-it-admins",
       "caption" : "Zoom for IT Admins updated from 5.12.0.11129 to 5.12.2.11434",
       "date" : "2022-10-11T10:42:01Z",
@@ -74926,6 +74780,153 @@
       "date" : "2022-10-11T15:44:12Z",
       "identifier" : "release-vallum-4.0.12",
       "title" : "New Release: Vallum 4.0.12"
+    },
+    {
+      "appID" : "bbedit",
+      "caption" : "BBEdit updated from 14.6 to 14.6.1",
+      "date" : "2022-10-11T22:40:04Z",
+      "identifier" : "release-bbedit-14.6.1",
+      "title" : "New Release: BBEdit 14.6.1"
+    },
+    {
+      "appID" : "lens",
+      "caption" : "Lens updated from 2022.10.70653 to 2022.10.111653",
+      "date" : "2022-10-11T22:40:04Z",
+      "identifier" : "release-lens-2022.10.111653",
+      "title" : "New Release: Lens 2022.10.111653"
+    },
+    {
+      "appID" : "vscodium",
+      "caption" : "VSCodium updated from 1.72.0.22279 to 1.72.1.22284",
+      "date" : "2022-10-11T22:40:05Z",
+      "identifier" : "release-vscodium-1.72.1.22284",
+      "title" : "New Release: VSCodium 1.72.1.22284"
+    },
+    {
+      "appID" : "pycharm",
+      "caption" : "PyCharm updated from 2022.2.2,222.4167.33 to 2022.2.3,222.4345.23",
+      "date" : "2022-10-11T22:40:05Z",
+      "identifier" : "release-pycharm-2022.2.3,222.4345.23",
+      "title" : "New Release: PyCharm 2022.2.3,222.4345.23"
+    },
+    {
+      "appID" : "clion",
+      "caption" : "CLion updated from 2022.2.3,222.4167.35 to 2022.2.4,222.4345.21",
+      "date" : "2022-10-11T22:40:06Z",
+      "identifier" : "release-clion-2022.2.4,222.4345.21",
+      "title" : "New Release: CLion 2022.2.4,222.4345.21"
+    },
+    {
+      "appID" : "visual-studio-code",
+      "caption" : "Microsoft Visual Studio Code updated from 1.72.0 to 1.72.1",
+      "date" : "2022-10-11T22:40:06Z",
+      "identifier" : "release-visual-studio-code-1.72.1",
+      "title" : "New Release: Microsoft Visual Studio Code 1.72.1"
+    },
+    {
+      "appID" : "fig",
+      "caption" : "fig updated from 1.0.62,541 to 1.0.62,542",
+      "date" : "2022-10-11T22:40:07Z",
+      "identifier" : "release-fig-1.0.62,542",
+      "title" : "New Release: fig 1.0.62,542"
+    },
+    {
+      "appID" : "jetbrains-toolbox",
+      "caption" : "JetBrains Toolbox updated from 1.26.1,1.26.1.13138 to 1.26.2,1.26.2.13244",
+      "date" : "2022-10-11T22:40:07Z",
+      "identifier" : "release-jetbrains-toolbox-1.26.2,1.26.2.13244",
+      "title" : "New Release: JetBrains Toolbox 1.26.2,1.26.2.13244"
+    },
+    {
+      "appID" : "mysqlworkbench",
+      "caption" : "MySQL Workbench updated from 8.0.30 to 8.0.31",
+      "date" : "2022-10-11T22:40:08Z",
+      "identifier" : "release-mysqlworkbench-8.0.31",
+      "title" : "New Release: MySQL Workbench 8.0.31"
+    },
+    {
+      "appID" : "pycharm-ce",
+      "caption" : "Jetbrains PyCharm Community Edition updated from 2022.2.2,222.4167.33 to 2022.2.3,222.4345.23",
+      "date" : "2022-10-11T22:40:09Z",
+      "identifier" : "release-pycharm-ce-2022.2.3,222.4345.23",
+      "title" : "New Release: Jetbrains PyCharm Community Edition 2022.2.3,222.4345.23"
+    },
+    {
+      "appID" : "microsoft-auto-update",
+      "caption" : "Microsoft Auto Update updated from 4.51.22091101 to 4.52.22100900",
+      "date" : "2022-10-11T22:40:09Z",
+      "identifier" : "release-microsoft-auto-update-4.52.22100900",
+      "title" : "New Release: Microsoft Auto Update 4.52.22100900"
+    },
+    {
+      "appID" : "google-drive",
+      "caption" : "Google Drive updated from 64.0.4 to 65.0.2",
+      "date" : "2022-10-11T22:40:10Z",
+      "identifier" : "release-google-drive-65.0.2",
+      "title" : "New Release: Google Drive 65.0.2"
+    },
+    {
+      "appID" : "microsoft-office",
+      "caption" : "Microsoft Office updated from 16.65.22091101 to 16.66.22100900",
+      "date" : "2022-10-11T22:40:10Z",
+      "identifier" : "release-microsoft-office-16.66.22100900",
+      "title" : "New Release: Microsoft Office 16.66.22100900"
+    },
+    {
+      "appID" : "microsoft-excel",
+      "caption" : "Microsoft Excel updated from 16.65.22091101 to 16.66.22100900",
+      "date" : "2022-10-11T22:40:10Z",
+      "identifier" : "release-microsoft-excel-16.66.22100900",
+      "title" : "New Release: Microsoft Excel 16.66.22100900"
+    },
+    {
+      "appID" : "microsoft-word",
+      "caption" : "Microsoft Word updated from 16.65.22091101 to 16.66.22100900",
+      "date" : "2022-10-11T22:40:11Z",
+      "identifier" : "release-microsoft-word-16.66.22100900",
+      "title" : "New Release: Microsoft Word 16.66.22100900"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.22,20221010102935 to 6.2.22,20221011102956",
+      "date" : "2022-10-11T22:40:11Z",
+      "identifier" : "release-metasploit-6.2.22,20221011102956",
+      "title" : "New Release: Metasploit Framework 6.2.22,20221011102956"
+    },
+    {
+      "appID" : "microsoft-outlook",
+      "caption" : "Microsoft Outlook updated from 16.65.22091101 to 16.66.22100900",
+      "date" : "2022-10-11T22:40:12Z",
+      "identifier" : "release-microsoft-outlook-16.66.22100900",
+      "title" : "New Release: Microsoft Outlook 16.66.22100900"
+    },
+    {
+      "appID" : "virtualbox-extension-pack",
+      "caption" : "Oracle VirtualBox Extension Pack updated from 6.1.38 to 7.0.0",
+      "date" : "2022-10-11T22:40:12Z",
+      "identifier" : "release-virtualbox-extension-pack-7.0.0",
+      "title" : "New Release: Oracle VirtualBox Extension Pack 7.0.0"
+    },
+    {
+      "appID" : "microsoft-powerpoint",
+      "caption" : "Microsoft PowerPoint updated from 16.65.22091101 to 16.66.22100900",
+      "date" : "2022-10-11T22:40:12Z",
+      "identifier" : "release-microsoft-powerpoint-16.66.22100900",
+      "title" : "New Release: Microsoft PowerPoint 16.66.22100900"
+    },
+    {
+      "appID" : "rekordbox",
+      "caption" : "rekordbox updated from 6.6.4,20220623170231 to 6.6.5,20221005104542",
+      "date" : "2022-10-11T22:40:13Z",
+      "identifier" : "release-rekordbox-6.6.5,20221005104542",
+      "title" : "New Release: rekordbox 6.6.5,20221005104542"
+    },
+    {
+      "appID" : "cakebrewjs",
+      "caption" : "cakebrewjs updated from 1.2.1 to 1.2.2",
+      "date" : "2022-10-11T22:40:14Z",
+      "identifier" : "release-cakebrewjs-1.2.2",
+      "title" : "New Release: cakebrewjs 1.2.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

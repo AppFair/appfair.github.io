@@ -96,7 +96,7 @@
       "size" : 9641013,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 75,
+        "downloadCount" : 79,
         "forkCount" : 0,
         "impressionCount" : 582,
         "issueCount" : 0,
@@ -213,7 +213,7 @@
       "size" : 13730223,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 43,
+        "downloadCount" : 47,
         "forkCount" : 0,
         "impressionCount" : 7,
         "issueCount" : 0,
@@ -650,6 +650,42 @@
       "versionDate" : "2022-05-19T00:00:00Z"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "3a0f231a5b5bdbe802db246cfb51c29876623248d1b9587067807fe41fe7cabd",
+      "size" : 26418173,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 22,
+        "forkCount" : 0,
+        "impressionCount" : 4,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "tintColor" : "17B0E6",
+      "version" : "0.0.28",
+      "versionDate" : "2022-10-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Crazy-Glue",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -681,42 +717,6 @@
       "version" : "0.0.7",
       "versionDate" : "2022-08-24T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Crazy-Glue/App/compare/0.0.6...0.0.7"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "7987a29fd553ddac4bd915521b696e9cec548c9dc46820d6aa922d30af18bc85",
-      "size" : 26418173,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 18,
-        "forkCount" : 0,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
-      "versionDate" : "2022-10-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : false,
@@ -764,6 +764,44 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.328/Cloud-Cuckoo-macOS.zip",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.328/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.328/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.328/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.328/screenshot_01-mac-light-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.328/screenshot_01-mac-dark-2024x1696.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.328/screenshot_05-mac-1634x1040.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.328/screenshot_03-mac-1714x522.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.328/screenshot_06-mac-1656x1560.png"
+      ],
+      "sha256" : "e4134048220e2ee7914553c27bab345bb84e7689325128958226249063d6bdbe",
+      "size" : 2587804,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 11,
+        "forkCount" : 1,
+        "impressionCount" : 4,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "FACC6A",
+      "version" : "0.9.328",
+      "versionDate" : "2022-10-08T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.327...0.9.328"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Down-Town",
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
@@ -795,44 +833,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/Cloud-Cuckoo-macOS.zip",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_01-mac-light-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_01-mac-dark-2024x1696.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_05-mac-1634x1040.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_03-mac-1714x522.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_06-mac-1656x1560.png"
-      ],
-      "sha256" : "60633cafc85b68c963c7af0d7592172e8bfcceb0d0beddb9c17062ef71084b7e",
-      "size" : 2602812,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 9,
-        "forkCount" : 1,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "FACC6A",
-      "version" : "0.9.330",
-      "versionDate" : "2022-10-10T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.329...0.9.330"
     },
     {
       "beta" : true,

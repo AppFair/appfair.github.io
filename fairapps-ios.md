@@ -23,9 +23,9 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `62` | `2022-09-01T00:00:00Z` | `18 MB` | `597` | `68` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `64` | `2022-09-01T00:00:00Z` | `18 MB` | `597` | `68` | `1` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `294` | `25` | `0` | `0` |  |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460β`` | `55` | `2022-10-06T00:00:00Z` | `9.4 MB` | `7` | `2` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460β`` | `57` | `2022-10-06T00:00:00Z` | `9.4 MB` | `7` | `2` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3794` | `274` | `0` | `0` |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `46` | `2022-10-04T00:00:00Z` | `3.8 MB` | `92` | `9` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `205` | `19` | `0` | `0` |  |
@@ -36,7 +36,6 @@ tr:nth-child(even) {
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `919` | `88` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `25` | `2022-09-23T00:00:00Z` | `7.8 MB` | `7` | `2` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `807` | `59` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.328β`` | `20` | `2022-10-08T00:00:00Z` | `1.5 MB` | `4` | `0` | `2` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `12` | `1` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1709` | `94` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `512` | `9` | `0` | `0` |  |
@@ -61,5 +60,6 @@ tr:nth-child(even) {
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1070` | `78` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `1089` | `61` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `810` | `60` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.330β`` | `1` | `2022-10-11T00:00:00Z` | `1.5 MB` | `0` | `0` | `2` | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2897,
-        "impressionCount" : 11332,
+        "impressionCount" : 11333,
         "viewCount" : 1280
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "a0e98a7326e4a518173a5c6703f6e0671027a3471b9c6470b07d4160dfb1059a",
       "stats" : {
         "downloadCount" : 16999,
-        "impressionCount" : 10333,
+        "impressionCount" : 10334,
         "viewCount" : 1065
       },
       "subtitle" : "Web browser",
@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8218,
-        "impressionCount" : 8860,
+        "impressionCount" : 8861,
         "viewCount" : 758
       },
       "subtitle" : "Multimedia player",
@@ -124,7 +124,7 @@
       "sha256" : "b0941a008ead9f680e9f4937698b9b849acbb4e30ed1f3f100e3616cd6d49c0b",
       "stats" : {
         "downloadCount" : 27582,
-        "impressionCount" : 9610,
+        "impressionCount" : 9611,
         "viewCount" : 801
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
@@ -149,7 +149,7 @@
       ],
       "stats" : {
         "downloadCount" : 8821,
-        "impressionCount" : 9366,
+        "impressionCount" : 9367,
         "viewCount" : 708
       },
       "subtitle" : "Music streaming service",
@@ -179,7 +179,7 @@
       "sha256" : "dfe12315b717ed06ac24d3eaacb700618e96cbb449ed63d2afadcdb70ad09c55",
       "stats" : {
         "downloadCount" : 5755,
-        "impressionCount" : 9112,
+        "impressionCount" : 9113,
         "viewCount" : 564
       },
       "subtitle" : "Voice and text chat software",
@@ -209,7 +209,7 @@
       "sha256" : "6228b41938ad3ef76450c843a510615b07f8058bc9a256d1ff3fbf928a384235",
       "stats" : {
         "downloadCount" : 3628,
-        "impressionCount" : 8561,
+        "impressionCount" : 8562,
         "viewCount" : 606
       },
       "subtitle" : "Text editor",
@@ -238,7 +238,7 @@
       "sha256" : "808ed03191a3939887200bf17477f805d5f40d6987a49f36490f673009eeec0b",
       "stats" : {
         "downloadCount" : 3431,
-        "impressionCount" : 9746,
+        "impressionCount" : 9747,
         "viewCount" : 637
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -266,7 +266,7 @@
       ],
       "stats" : {
         "downloadCount" : 2626,
-        "impressionCount" : 7536,
+        "impressionCount" : 7537,
         "viewCount" : 461
       },
       "subtitle" : "Video game digital distribution service",
@@ -292,7 +292,7 @@
       "sha256" : "40ea451a98646deabe2a94306c6f92e0efe399cb6dea153c76bc3370fac13504",
       "stats" : {
         "downloadCount" : 2446,
-        "impressionCount" : 8221,
+        "impressionCount" : 8222,
         "viewCount" : 498
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
@@ -326,7 +326,7 @@
       "sha256" : "cfed68a618da5d5957dc40eb3f33e27e2b1c1f31d103063c23f20918a507f470",
       "stats" : {
         "downloadCount" : 1987,
-        "impressionCount" : 9345,
+        "impressionCount" : 9346,
         "viewCount" : 916
       },
       "subtitle" : "File archiver",
@@ -358,7 +358,7 @@
       "sha256" : "6af68af6d43ac184ff0899d0ced2fc29006984fffee6a805825d7e67c48ee23f",
       "stats" : {
         "downloadCount" : 1216,
-        "impressionCount" : 9546,
+        "impressionCount" : 9547,
         "viewCount" : 531
       },
       "subtitle" : "3D creation suite",
@@ -387,7 +387,7 @@
       "sha256" : "271f11eb64c19fccee2615e092067cdecc29adf0c2ed0703dae9acda8fa0a672",
       "stats" : {
         "downloadCount" : 1215,
-        "impressionCount" : 7443,
+        "impressionCount" : 7444,
         "viewCount" : 589
       },
       "subtitle" : "Open-source Markdown editor",
@@ -409,7 +409,7 @@
       "sha256" : "767cb16314e3869c42cff78db92bcad7a7faa861c70f97b1326fe3686c62b61f",
       "stats" : {
         "downloadCount" : 1040,
-        "impressionCount" : 3346,
+        "impressionCount" : 3348,
         "viewCount" : 210
       },
       "subtitle" : "Open-source video transcoder",
@@ -447,7 +447,7 @@
       "sha256" : "46fb4c55a4e719974d2ffa90d84a137db8775b9687a6659ed79afe26ae1d2675",
       "stats" : {
         "downloadCount" : 593,
-        "impressionCount" : 7641,
+        "impressionCount" : 7642,
         "viewCount" : 408
       },
       "subtitle" : "Text editor",
@@ -479,7 +479,7 @@
       "sha256" : "711bde088680080d0c84308c72906ee59eac29ad34710c001370a88497779b49",
       "stats" : {
         "downloadCount" : 422,
-        "impressionCount" : 7649,
+        "impressionCount" : 7650,
         "viewCount" : 531
       },
       "subtitle" : "Text, code, and markup editor",
@@ -508,7 +508,7 @@
       ],
       "stats" : {
         "downloadCount" : 391,
-        "impressionCount" : 6920,
+        "impressionCount" : 6921,
         "viewCount" : 504
       },
       "subtitle" : "Sandbox construction video game",
@@ -537,7 +537,7 @@
       "sha256" : "6399d43315e0c8921c11d27325b697d26d8a524bfc1455a83173a13a6c6048a2",
       "stats" : {
         "downloadCount" : 287,
-        "impressionCount" : 5567,
+        "impressionCount" : 5568,
         "viewCount" : 457
       },
       "subtitle" : "Open-source code editor for web-developement",
@@ -568,7 +568,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 247,
-        "impressionCount" : 5843,
+        "impressionCount" : 5844,
         "viewCount" : 474
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -595,7 +595,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 245,
-        "impressionCount" : 5006,
+        "impressionCount" : 5007,
         "viewCount" : 373
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -622,7 +622,7 @@
       "sha256" : "af478c958e3bf9346b59a4a2af4b3120ef0d02fa653b14dab13b7a7ec56d80de",
       "stats" : {
         "downloadCount" : 159,
-        "impressionCount" : 6186,
+        "impressionCount" : 6187,
         "viewCount" : 636
       },
       "subtitle" : "iOS App Store alternative",
@@ -650,7 +650,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 133,
-        "impressionCount" : 4076,
+        "impressionCount" : 4077,
         "viewCount" : 353
       },
       "subtitle" : "File synchronizer",
@@ -683,7 +683,7 @@
       "sha256" : "3d6b030c2d3b3e2affda25eaf170418779a981c937562b8b6c2c6b36425d30ba",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 3637,
+        "impressionCount" : 3638,
         "viewCount" : 286
       },
       "subtitle" : "Create DMGs and other archives",
@@ -709,7 +709,7 @@
       "sha256" : "f7e464efb8d9de43017f578c03179171dabf1a8d9110ce481f4f5aa71796a894",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 3870,
+        "impressionCount" : 3871,
         "viewCount" : 348
       },
       "subtitle" : "EVE Online client",
@@ -744,7 +744,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 3533,
+        "impressionCount" : 3534,
         "viewCount" : 295
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -765,7 +765,7 @@
       "sha256" : "41085009458ba1741c6a86c414190780ff3b288879aa27821fc4a985d229653c",
       "stats" : {
         "downloadCount" : 24991,
-        "impressionCount" : 4873,
+        "impressionCount" : 4874,
         "viewCount" : 332
       },
       "subtitle" : "App to build and share containerized applications and microservices",
@@ -1417,7 +1417,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 2262,
-        "impressionCount" : 3495
+        "impressionCount" : 3496
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -1588,7 +1588,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1474,
-        "impressionCount" : 3667
+        "impressionCount" : 3668
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -2001,8 +2001,8 @@
       "sha256" : "d654be872ea2532d0cdf10ff7ff4b6bc43def36f9479b9f3b098497f1bb32de0",
       "stats" : {
         "downloadCount" : 543,
-        "impressionCount" : 3003,
-        "viewCount" : 147
+        "impressionCount" : 3005,
+        "viewCount" : 148
       },
       "subtitle" : "Home media player",
       "tintColor" : "3C3221",
@@ -2187,7 +2187,7 @@
       "sha256" : "8c1ecf6fd66a9885d428a6303d9d1c5ecb811c1c35c97bdbccdad72359d96ad9",
       "stats" : {
         "downloadCount" : 443,
-        "impressionCount" : 4567
+        "impressionCount" : 4568
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
       "tintColor" : "AACD7B",
@@ -2610,8 +2610,8 @@
       "sha256" : "c95dc0022308a55541936051d98d6025018d75ef2601878849b7bbeacce6c6b7",
       "stats" : {
         "downloadCount" : 94,
-        "impressionCount" : 2023,
-        "viewCount" : 109
+        "impressionCount" : 2025,
+        "viewCount" : 110
       },
       "subtitle" : "Secure video conferencing app",
       "tintColor" : "63ADDB",
@@ -3049,7 +3049,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "C5C2AA",
       "version" : "106.0.5249.119",
-      "versionDate" : "2022-10-12T01:34:20Z"
+      "versionDate" : "2022-10-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3443,7 +3443,7 @@
       "sha256" : "b50c416828005e1eec0dc8066c961efcc389e6be1a5a595541ea62d48d31a391",
       "stats" : {
         "downloadCount" : 2229,
-        "impressionCount" : 1477
+        "impressionCount" : 1479
       },
       "subtitle" : "Free and open-source media player",
       "tintColor" : "29445A",
@@ -5025,7 +5025,7 @@
       "sha256" : "58c2d3c77ee05de52ff6c04596220a5050ccca14140d25984dcc39052c11e032",
       "stats" : {
         "downloadCount" : 507,
-        "impressionCount" : 1031
+        "impressionCount" : 1032
       },
       "subtitle" : "Break time reminder app",
       "tintColor" : "6C0F00",
@@ -5482,7 +5482,7 @@
       "sha256" : "c670121c84f19eab809e286f27c4d9922722262cfa4b9611d24cedd347f6808d",
       "stats" : {
         "downloadCount" : 400,
-        "impressionCount" : 1097
+        "impressionCount" : 1098
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
@@ -6870,7 +6870,7 @@
       "sha256" : "162897edaab3152ec90971ccaebf9b56e11f30a84bda9121e4bb41ea307440fb",
       "stats" : {
         "downloadCount" : 193,
-        "impressionCount" : 1154
+        "impressionCount" : 1156
       },
       "subtitle" : "Downloads videos from different websites",
       "tintColor" : "A676DB",
@@ -7441,7 +7441,7 @@
       "sha256" : "9ab9737856847356f3bd030106e02d520cea0a7d904f84546b8f63c71483d808",
       "stats" : {
         "downloadCount" : 151,
-        "impressionCount" : 1020
+        "impressionCount" : 1021
       },
       "subtitle" : "Virtual video-calling space",
       "tintColor" : "3260E6",
@@ -8236,7 +8236,7 @@
       "name" : "Bilibili",
       "stats" : {
         "downloadCount" : 123,
-        "impressionCount" : 845
+        "impressionCount" : 847
       },
       "subtitle" : "Official bilibili video streaming and sharing platform",
       "tintColor" : "F19BAD",
@@ -9237,7 +9237,7 @@
       "sha256" : "da40d4361810bf131cd06a1afe71e9a7a15918f2b154e1399db7306b2a3b72d3",
       "stats" : {
         "downloadCount" : 94,
-        "impressionCount" : 787
+        "impressionCount" : 788
       },
       "subtitle" : "Cross-platform video editor",
       "tintColor" : "718596",
@@ -10643,7 +10643,7 @@
       "sha256" : "3596dad190deae9dfcdd6bac68a477def27df407e97f6870553b4640c08fd0b6",
       "stats" : {
         "downloadCount" : 68,
-        "impressionCount" : 665
+        "impressionCount" : 666
       },
       "subtitle" : "Mux and tag mp4 files",
       "tintColor" : "5A626B",
@@ -10663,7 +10663,7 @@
       "sha256" : "bca1eaa95b314675211de77b4d0c839f9287b0b4d35ee2d60794d47080780678",
       "stats" : {
         "downloadCount" : 67,
-        "impressionCount" : 825
+        "impressionCount" : 826
       },
       "subtitle" : "Extra danmaku support for iina (iina 弹幕支持)",
       "tintColor" : "C1B6ED",
@@ -11343,7 +11343,7 @@
       "sha256" : "816b53679d94eaa0f23661888fd312997bf88202091434513b1a773c177b55b7",
       "stats" : {
         "downloadCount" : 61,
-        "impressionCount" : 766
+        "impressionCount" : 767
       },
       "subtitle" : "Converts and edits video, audio or image files",
       "tintColor" : "91949B",
@@ -12608,7 +12608,7 @@
       "sha256" : "8a11327336f0e79393e9c57f4fbb86513f50920559b7e1057627426b0654de76",
       "stats" : {
         "downloadCount" : 47,
-        "impressionCount" : 497
+        "impressionCount" : 498
       },
       "subtitle" : "Video player and streaming platform",
       "tintColor" : "156CF7",
@@ -12697,7 +12697,7 @@
       "sha256" : "0027ce869745594ff4cc560c93499a25adf2f64f04255444662c19ed22c7cdb5",
       "stats" : {
         "downloadCount" : 46,
-        "impressionCount" : 990
+        "impressionCount" : 991
       },
       "subtitle" : "Menu bar weather app",
       "tintColor" : "E8E8E8",
@@ -13441,7 +13441,7 @@
       "sha256" : "1aa95db4c97d57e63fb03a3244a9bcc2c5a82ee41552a972d65f21dd5dd218ae",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 641
+        "impressionCount" : 642
       },
       "subtitle" : "Screen recording and video editing software",
       "tintColor" : "C6C0C7",
@@ -13503,7 +13503,7 @@
       "name" : "5KPlayer",
       "stats" : {
         "downloadCount" : 40,
-        "impressionCount" : 863
+        "impressionCount" : 864
       },
       "subtitle" : "Play 4K/1080p/360° video, MP3 AAC APE FLAC music without quality loss",
       "tintColor" : "615556",
@@ -13684,7 +13684,7 @@
       "sha256" : "8f8d72ab99fd47c7b9df1acd51c6fcc8b6ebb8c574587e8e1fc6cdc5868ba21c",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 982
+        "impressionCount" : 983
       },
       "subtitle" : "Desktop casting/streaming app for Apple TV and Chromecast",
       "tintColor" : "9BB0BE",
@@ -14415,7 +14415,7 @@
       "subtitle" : "Window manager and productivity tool",
       "tintColor" : "66A9B8",
       "version" : "4.2.1,421",
-      "versionDate" : "2022-10-12T01:34:20Z"
+      "versionDate" : "2022-10-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14471,7 +14471,7 @@
       "sha256" : "a9dca257fa873ac7b18d30879ec3b7cc064257423d458b1f33c262ffc8c52b10",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 857
+        "impressionCount" : 858
       },
       "subtitle" : "Screen recorder and video editor",
       "tintColor" : "87BE66",
@@ -14565,7 +14565,7 @@
       "sha256" : "d902af9dde7b1fde6f76af5f97e4f27d6b853bd9d3e83b2fec5292dda787a0da",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 527
+        "impressionCount" : 528
       },
       "tintColor" : "4F738C",
       "version" : "2.10.5550"
@@ -14955,7 +14955,7 @@
       "sha256" : "813afe01eddee0d4a09b39a3ff879e35c0fdeb5bef79d0db78e40d03fcd1c444",
       "stats" : {
         "downloadCount" : 31,
-        "impressionCount" : 646
+        "impressionCount" : 647
       },
       "subtitle" : "Screen recorder with audio",
       "tintColor" : "5788AD",
@@ -15463,7 +15463,7 @@
       "sha256" : "c7b4ab1a0031146ad76660b526e3be778eefa2d1ffaf590023c9b1d839e433e1",
       "stats" : {
         "downloadCount" : 29,
-        "impressionCount" : 521
+        "impressionCount" : 522
       },
       "subtitle" : "App to create and edit MKV videos",
       "tintColor" : "C1C6C9",
@@ -16723,7 +16723,7 @@
       "sha256" : "e4101837c5539f3f0441af3a1f02219636124a0f80e02f733f04cbf05ec11123",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 461
+        "impressionCount" : 462
       },
       "subtitle" : "Create and edit MP4 videos",
       "tintColor" : "B6C0B0",
@@ -17369,7 +17369,7 @@
       "sha256" : "4ece5bb4f028a09b73f89fadcdff44e538a862a33412f06122fcd2b8793ae8b9",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 602
+        "impressionCount" : 603
       },
       "subtitle" : "Media player",
       "tintColor" : "6075B0",
@@ -18840,7 +18840,7 @@
       "sha256" : "6e41155e72b6f36f7a84178742b266d21cd18e0633e61081327cd023a9cc2869",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 647
+        "impressionCount" : 648
       },
       "subtitle" : "Video editor",
       "tintColor" : "3E3E3E",
@@ -19012,7 +19012,7 @@
       "subtitle" : "Security including personal firewall and parental control",
       "tintColor" : "B5BBBF",
       "version" : "6.11.100.0",
-      "versionDate" : "2022-10-12T01:34:20Z"
+      "versionDate" : "2022-10-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19212,7 +19212,7 @@
       "sha256" : "81b4cf7d1de85172ea0bfd9be41ed4990ca98c5de713c5e73b99bb4bd7fabf77",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 571
+        "impressionCount" : 572
       },
       "subtitle" : "Virtual video presentation software",
       "tintColor" : "635ADC",
@@ -20474,7 +20474,7 @@
       "name" : "MindMaster",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 298
+        "impressionCount" : 299
       },
       "subtitle" : "Mind mapping software",
       "tintColor" : "82D8AB",
@@ -21628,7 +21628,7 @@
       "sha256" : "9366230de159a4b5dffe29e1823b6e3bc0d6e6fd2ddc2c4f1b9e9764319cf995",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 453
+        "impressionCount" : 454
       },
       "subtitle" : "French TV streaming service",
       "tintColor" : "D4A106",
@@ -22759,7 +22759,7 @@
       "sha256" : "5c716f572d979498774e5b67954c07019a9bf02add832fd925aebff21ff984a4",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 806
+        "impressionCount" : 807
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
@@ -23060,7 +23060,7 @@
       "sha256" : "3dc547e42a9087d19af0ca6371893336822f9d312036c7115e96c44da728c594",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 528
+        "impressionCount" : 529
       },
       "subtitle" : "Complete video creation package",
       "tintColor" : "84262B",
@@ -23101,7 +23101,7 @@
       "sha256" : "ecd2e76bbedafb29ccf40d00fefd86afd9266c78221d7a3686370369cdfd42ef",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 747
+        "impressionCount" : 749
       },
       "subtitle" : "Adjustable weather viewing application",
       "tintColor" : "977D83",
@@ -23182,7 +23182,7 @@
       "sha256" : "7f9e9ca3ec2a7dde8beeb5a34238449cc94aa9e1d7041260ef0b78526b60b112",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 390
+        "impressionCount" : 391
       },
       "subtitle" : "Media player",
       "tintColor" : "69685B",
@@ -23722,7 +23722,7 @@
       "sha256" : "d5f57d1a7ef9a85b32c800aa8c94ea73420940b6a9e463561df343fe82c64c6c",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 609
+        "impressionCount" : 610
       },
       "tintColor" : "8BA599",
       "version" : "2.25"
@@ -25678,7 +25678,7 @@
       "subtitle" : "Cloud communication platform",
       "tintColor" : "8B66FE",
       "version" : "21.2.0",
-      "versionDate" : "2022-10-12T01:34:20Z"
+      "versionDate" : "2022-10-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39532,7 +39532,7 @@
       "sha256" : "786c03f4a6396e04e4ee4f3e258ba420f78776114cacffa753ea67f518a7c7e7",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 372
+        "impressionCount" : 373
       },
       "subtitle" : "Remove silence from videos and automatically generate a cut list",
       "tintColor" : "C1ADB4",
@@ -40408,20 +40408,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_8_0/osx10/ACCCx5_8_0_592.dmg",
+      "downloadURL" : "https://ccmdl.adobe.com/AdobeProducts/KCCC/CCD/5_9_0/osx10/ACCCx5_9_0_373.dmg",
       "homepage" : "https://www.adobe.com/creativecloud.html",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-adobe-creative-cloud/AppIcon.png",
       "localizedDescription" : "Collection of apps and services for photography, design, video, web, and UX",
       "name" : "Adobe Creative Cloud",
-      "sha256" : "2935c858424b2dc9e02380651c4a16c14f882002fd3a370fc30e63feac0573da",
+      "sha256" : "6295ba59fa9b6f993fdfde942c76d6cce893dcd4b49864f56c4f69bcaecd805d",
       "stats" : {
         "downloadCount" : 715,
         "impressionCount" : 71
       },
       "subtitle" : "Collection of apps and services for photography, design, video, web, and UX",
       "tintColor" : "F02D20",
-      "version" : "5.8.0.592",
-      "versionDate" : "2022-07-27T00:00:00Z"
+      "version" : "5.9.0.373",
+      "versionDate" : "2022-10-12T02:55:15Z"
     },
     {
       "beta" : false,
@@ -61353,7 +61353,7 @@
       },
       "subtitle" : "View, create, manipulate, print and manage files in Portable Document Format",
       "version" : "22.003.20258",
-      "versionDate" : "2022-10-12T01:34:20Z"
+      "versionDate" : "2022-10-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62128,7 +62128,7 @@
       },
       "subtitle" : "Game client",
       "version" : "2.0.55.81",
-      "versionDate" : "2022-10-12T01:34:20Z"
+      "versionDate" : "2022-10-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -74223,7 +74223,7 @@
         "downloadCount" : 1
       },
       "version" : "0.1.0",
-      "versionDate" : "2022-10-12T01:34:20Z"
+      "versionDate" : "2022-10-12T00:00:00Z"
     }
   ],
   "fundingSources" : [
@@ -74232,13 +74232,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "microsoft-edge",
-      "caption" : "Microsoft Edge updated from 106.0.1370.37 to 106.0.1370.42",
-      "date" : "2022-10-11T10:41:49Z",
-      "identifier" : "release-microsoft-edge-106.0.1370.42",
-      "title" : "New Release: Microsoft Edge 106.0.1370.42"
-    },
     {
       "appID" : "webstorm",
       "caption" : "WebStorm updated from 2022.2.2,222.4167.31 to 2022.2.3,222.4345.14",
@@ -74931,6 +74924,13 @@
       "date" : "2022-10-12T01:34:22Z",
       "identifier" : "release-voxql-0.1.0",
       "title" : "New Release: voxql 0.1.0"
+    },
+    {
+      "appID" : "adobe-creative-cloud",
+      "caption" : "Adobe Creative Cloud updated from 5.8.0.592 to 5.9.0.373",
+      "date" : "2022-10-12T02:55:16Z",
+      "identifier" : "release-adobe-creative-cloud-5.9.0.373",
+      "title" : "New Release: Adobe Creative Cloud 5.9.0.373"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

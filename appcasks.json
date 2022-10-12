@@ -2870,8 +2870,8 @@
       "sha256" : "dbec524dcc13128ea3104ae4daf1c1e76d79432a56dfc6ce232d6f08c6460a12",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 2409,
-        "viewCount" : 160
+        "impressionCount" : 2410,
+        "viewCount" : 161
       },
       "subtitle" : "Newsreader and Usenet client",
       "tintColor" : "61ADE7",
@@ -3066,7 +3066,7 @@
       "sha256" : "2ee5c2d6e704b2bc6ac7cc00901928b76c176d4515a7e14840fc7dff6fad7c8c",
       "stats" : {
         "downloadCount" : 12665,
-        "impressionCount" : 1596
+        "impressionCount" : 1597
       },
       "subtitle" : "Collaboration platform for API development",
       "tintColor" : "FE7747",
@@ -3148,7 +3148,7 @@
       "sha256" : "2a2d0f37ec5fcff547c5efa7d08539103a0b46bc16080c2b41a7e749f6e65c61",
       "stats" : {
         "downloadCount" : 6082,
-        "impressionCount" : 1852
+        "impressionCount" : 1853
       },
       "subtitle" : "File system integration",
       "tintColor" : "D0D7DE",
@@ -3210,7 +3210,7 @@
       "sha256" : "536e2a4beb637e4cb97a9f258a709e1c63f497a9f4a70ea206f1ef5fc7bb373e",
       "stats" : {
         "downloadCount" : 3389,
-        "impressionCount" : 1783
+        "impressionCount" : 1784
       },
       "subtitle" : "Enable Windows-like alt-tab",
       "tintColor" : "49477D",
@@ -3751,7 +3751,7 @@
       "sha256" : "240e5ab832a25ed0af43aeffd1d66dc663dfea7c2525d918c214d6107981a03b",
       "stats" : {
         "downloadCount" : 1436,
-        "impressionCount" : 1057
+        "impressionCount" : 1058
       },
       "subtitle" : "Utility that prevents the system from going to sleep",
       "tintColor" : "927F8F",
@@ -3812,7 +3812,7 @@
       "sha256" : "3f54b024f5c1c40bc18aebe39014710289b47e147e71561fae22a661cab26d02",
       "stats" : {
         "downloadCount" : 1292,
-        "impressionCount" : 865
+        "impressionCount" : 866
       },
       "subtitle" : "Utility to hide menu bar items",
       "tintColor" : "D3D3D3",
@@ -3915,7 +3915,7 @@
       "sha256" : "c6900cb049b827dea9ed050315b7deb1b767799b2fbef14eb5ce6a7dfd6e98e3",
       "stats" : {
         "downloadCount" : 1075,
-        "impressionCount" : 678
+        "impressionCount" : 679
       },
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
@@ -3956,7 +3956,7 @@
       "sha256" : "8c678c87aa609a7222ca229acb3a650d4a4e2db9fa9ce89a09a9d45ea1b19af1",
       "stats" : {
         "downloadCount" : 1044,
-        "impressionCount" : 851
+        "impressionCount" : 852
       },
       "subtitle" : "Re-mounts write-protected NTFS volumes",
       "tintColor" : "AECCE3",
@@ -3977,7 +3977,7 @@
       "sha256" : "38ea33e867815506414323484147b882b6d97df4af9759bca0a64d98c95029b3",
       "stats" : {
         "downloadCount" : 1017,
-        "impressionCount" : 819
+        "impressionCount" : 820
       },
       "subtitle" : "Smooths scrolling and set mouse scroll directions independently",
       "tintColor" : "282B4A",
@@ -4008,7 +4008,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 1014,
-        "impressionCount" : 2009
+        "impressionCount" : 2010
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -4069,7 +4069,7 @@
       "sha256" : "dfbb66ce3135fbaa2d64eaeea99a63e63485e322c9746045a1098b1696a1ecd5",
       "stats" : {
         "downloadCount" : 896,
-        "impressionCount" : 955
+        "impressionCount" : 956
       },
       "subtitle" : "Clipboard extension app",
       "tintColor" : "6199C0",
@@ -4170,7 +4170,7 @@
       "sha256" : "02294303a181663a79070c60d2c56e7e5b9aa36fa68c7abddcd7bf05078a7ae8",
       "stats" : {
         "downloadCount" : 837,
-        "impressionCount" : 852
+        "impressionCount" : 853
       },
       "subtitle" : "MikroTik Winbox",
       "tintColor" : "54A1EC",
@@ -4212,7 +4212,7 @@
       "sha256" : "9dd93eec1f27dee5573ee6962a51c17b0be3b49869daa3dd690ce22c46c1adea",
       "stats" : {
         "downloadCount" : 823,
-        "impressionCount" : 964
+        "impressionCount" : 965
       },
       "subtitle" : "Customize mouse behavior",
       "tintColor" : "65AAE1",
@@ -4254,7 +4254,7 @@
       "sha256" : "18659c76972690bb58f1c1b850ae2c6c9991fdeb9c22790daa1b18c9fa74cb8e",
       "stats" : {
         "downloadCount" : 820,
-        "impressionCount" : 946
+        "impressionCount" : 947
       },
       "subtitle" : "Verify system files structure, run miscellaneous maintenance and more",
       "tintColor" : "D39BE6",
@@ -4295,7 +4295,7 @@
       "sha256" : "89b9780810ca0e04d2ec809c2b75bf7c8b5a182f4b113c5071751790ca26f323",
       "stats" : {
         "downloadCount" : 803,
-        "impressionCount" : 805
+        "impressionCount" : 806
       },
       "subtitle" : "Tool to prevent the system from going into sleep mode",
       "tintColor" : "D4D4D4",
@@ -4335,7 +4335,7 @@
       "sha256" : "88663f7e83cec5a39c4336df9fb395b30447431c8902d0769211f1e31006d2db",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 1147
+        "impressionCount" : 1148
       },
       "subtitle" : "Two-factor authentication software",
       "tintColor" : "F34A5D",
@@ -4398,7 +4398,7 @@
       "sha256" : "94be4696ce77f0e2fa308800ede9dc5b26a87fb1ba5cba9b8e426fd4238ae44a",
       "stats" : {
         "downloadCount" : 728,
-        "impressionCount" : 1110
+        "impressionCount" : 1111
       },
       "subtitle" : "Menu bar icon organizer",
       "tintColor" : "585857",
@@ -4478,7 +4478,7 @@
       "sha256" : "05642ce3e12f6a45789aa161670a09cb2ef344f453bb5ea0d8c57f2afa3bce2c",
       "stats" : {
         "downloadCount" : 693,
-        "impressionCount" : 815
+        "impressionCount" : 816
       },
       "subtitle" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
       "tintColor" : "293154",
@@ -4652,7 +4652,7 @@
       "sha256" : "2cdc6d47a6dcd6231b0911d6ac2305d186a9e78990b2cc55e523d0852778dcec",
       "stats" : {
         "downloadCount" : 620,
-        "impressionCount" : 1317
+        "impressionCount" : 1318
       },
       "subtitle" : "Menu bar calendar",
       "tintColor" : "B9C2D5",
@@ -4673,7 +4673,7 @@
       "sha256" : "8dfd60f93657d7a5be014a468fe60fa4f1e602120f3d6ddeed5b34e7fe57f374",
       "stats" : {
         "downloadCount" : 614,
-        "impressionCount" : 1339
+        "impressionCount" : 1340
       },
       "subtitle" : "Menu bar tool to limit maximum charging percentage",
       "tintColor" : "857569",
@@ -4694,7 +4694,7 @@
       "sha256" : "4e580ee8558a804a78397bbb5d86b8ea6fed5064aa517250cc836d8cb88ae69e",
       "stats" : {
         "downloadCount" : 612,
-        "impressionCount" : 776
+        "impressionCount" : 777
       },
       "subtitle" : "Clipboard manager",
       "tintColor" : "96979B",
@@ -4769,7 +4769,7 @@
       "sha256" : "1dfbcd40a3737ba0161fdaced8d24390ba765d2e701fd0e54ac0d9ca65d8569c",
       "stats" : {
         "downloadCount" : 596,
-        "impressionCount" : 1240
+        "impressionCount" : 1241
       },
       "subtitle" : "Tool to show live information about the batteries in various devices",
       "tintColor" : "AF723F",
@@ -4859,7 +4859,7 @@
       "sha256" : "2225854a7eb1e2a8a5d3328461f1b955dcfa393e282bc0ecd2208db9d7ee0ffd",
       "stats" : {
         "downloadCount" : 583,
-        "impressionCount" : 767
+        "impressionCount" : 768
       },
       "subtitle" : "VPN client focusing on security",
       "tintColor" : "65B973",

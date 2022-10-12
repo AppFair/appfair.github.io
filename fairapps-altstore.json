@@ -26,7 +26,7 @@
       "size": 17972746,
       "stats": {
         "coreSize": 168592,
-        "downloadCount": 77,
+        "downloadCount": 81,
         "forkCount": 0,
         "impressionCount": 607,
         "issueCount": 0,
@@ -66,7 +66,7 @@
       "size": 9442810,
       "stats": {
         "coreSize": 168592,
-        "downloadCount": 69,
+        "downloadCount": 73,
         "forkCount": 0,
         "impressionCount": 7,
         "issueCount": 0,
@@ -96,11 +96,11 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256": "ee1f50b6b2a73d24753221fe3aa4243b5976f8b28a8af7c6ac515c541406b3fb",
+      "sha256": "5d0566f88d266a9572663ce5cbce0a1389e215e89d4b675a365be83723607d17",
       "size": 1523835,
       "stats": {
         "coreSize": 168592,
-        "downloadCount": 15,
+        "downloadCount": 20,
         "forkCount": 1,
         "impressionCount": 3,
         "issueCount": 0,

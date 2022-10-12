@@ -1988,7 +1988,7 @@ tr:nth-child(even) {
 | [``Vivaldi``](https://vivaldi.com/) | ``5.5.2805.35`` | `838` | `2022-10-08T00:00:00Z` |  | `678` |  |  | `0` |  |
 | [``Parallels Desktop``](https://www.parallels.com/products/desktop/) | ``18.0.2-53077`` | `804` | `2022-09-14T00:00:00Z` |  | `147` |  |  | `0` |  |
 | [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `773` | `2022-10-05T00:00:00Z` |  | `161` |  |  | `0` |  |
-| [``Adobe Creative Cloud``](https://www.adobe.com/creativecloud.html) | ``5.9.0.373`` | `715` | `2022-10-12T02:55:15Z` |  | `71` |  |  | `0` |  |
+| [``Adobe Creative Cloud``](https://www.adobe.com/creativecloud.html) | ``5.9.0.373`` | `715` | `2022-10-12T00:00:00Z` |  | `71` |  |  | `0` |  |
 | [``KDiff3``](https://invent.kde.org/sdk/kdiff3) | ``1.9.4`` | `681` |  |  | `79` |  |  | `0` |  |
 | [``mpv``](https://mpv.io/) | ``0.34.1`` | `679` |  |  | `56` |  |  | `0` |  |
 | [``FreeCAD``](https://www.freecadweb.org/) | ``0.20-1,2022-08-20`` | `670` | `2022-09-06T00:00:00Z` |  | `68` |  |  | `0` |  |

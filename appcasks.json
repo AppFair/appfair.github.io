@@ -90,7 +90,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8175,
-        "impressionCount" : 8867,
+        "impressionCount" : 8869,
         "viewCount" : 758
       },
       "subtitle" : "Multimedia player",
@@ -744,7 +744,7 @@
       "sha256" : "7e6dfcab228529eb45731a0a2d29ebc826729e8d5d08393c92bdd9fd0c5e7d15",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 3535,
+        "impressionCount" : 3539,
         "viewCount" : 295
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -1369,7 +1369,7 @@
       "sha256" : "340a847736d25b5d796d6aeda891f7b40dc01d6fa73bc5108b96eea350eeb184",
       "stats" : {
         "downloadCount" : 2351,
-        "impressionCount" : 4263,
+        "impressionCount" : 4268,
         "viewCount" : 425
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -1418,7 +1418,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 2253,
-        "impressionCount" : 3497
+        "impressionCount" : 3504
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -1892,7 +1892,7 @@
       "sha256" : "6b09011a0854dc0fdd0d6d8650e49ac88e219a3b6ec7e54cefab97dfb73dd4c1",
       "stats" : {
         "downloadCount" : 762,
-        "impressionCount" : 2086,
+        "impressionCount" : 2090,
         "viewCount" : 108
       },
       "subtitle" : "Desktop client for Telegram messenger",
@@ -2704,7 +2704,7 @@
       "sha256" : "da6a605e56ec5be7d59251f824a174b4c8b10245994237c46541ab308c67b0e1",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 2953,
+        "impressionCount" : 2960,
         "viewCount" : 254
       },
       "subtitle" : "News reader with flexible settings",
@@ -2871,7 +2871,7 @@
       "sha256" : "dbec524dcc13128ea3104ae4daf1c1e76d79432a56dfc6ce232d6f08c6460a12",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 2412,
+        "impressionCount" : 2417,
         "viewCount" : 161
       },
       "subtitle" : "Newsreader and Usenet client",
@@ -3916,7 +3916,7 @@
       "sha256" : "03aa37afb129d6ae515d3b9ee7a81c30ba91050131e2dfbb3683bdd2f05ac67a",
       "stats" : {
         "downloadCount" : 1041,
-        "impressionCount" : 1350
+        "impressionCount" : 1355
       },
       "subtitle" : "Dependency manager for Cocoa projects",
       "tintColor" : "DA483D",
@@ -4378,7 +4378,7 @@
       "sha256" : "41993a5c299a822ee779e49d97a5db2c53401d40218001a0e63d6112986a3f1b",
       "stats" : {
         "downloadCount" : 775,
-        "impressionCount" : 895
+        "impressionCount" : 901
       },
       "subtitle" : "Git client focusing on productivity",
       "tintColor" : "23454B",
@@ -4492,20 +4492,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/nicklockwood/SwiftFormat/releases/download/0.50.1/SwiftFormat.for.Xcode.app.zip",
+      "downloadURL" : "https://github.com/nicklockwood/SwiftFormat/releases/download/0.50.2/SwiftFormat.for.Xcode.app.zip",
       "homepage" : "https://github.com/nicklockwood/SwiftFormat",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swiftformat-for-xcode/AppIcon.png",
       "localizedDescription" : "Xcode Extension for reformatting Swift code",
       "name" : "SwiftFormat for Xcode",
-      "sha256" : "b2e10ddb293766212db7a0b2b155ef239e936dd94a8b236178c569a6d856b0e8",
+      "sha256" : "27696f27231ac5ce79dce049f6aa21e463839a7053eae1c38580ce485668b702",
       "stats" : {
         "downloadCount" : 668,
-        "impressionCount" : 1147
+        "impressionCount" : 1152
       },
       "subtitle" : "Xcode Extension for reformatting Swift code",
       "tintColor" : "44424D",
-      "version" : "0.50.1",
-      "versionDate" : "2022-10-06T00:00:00Z"
+      "version" : "0.50.2",
+      "versionDate" : "2022-10-13T07:45:47Z"
     },
     {
       "beta" : false,
@@ -6156,7 +6156,7 @@
       "sha256" : "35ffc0bdf0767f6dd55ae541796c87e0bbce4513554b4bf128abb7664b9096d0",
       "stats" : {
         "downloadCount" : 270,
-        "impressionCount" : 2200
+        "impressionCount" : 2204
       },
       "subtitle" : "Open-source browser prompter",
       "tintColor" : "364A62",
@@ -6562,7 +6562,7 @@
       "sha256" : "8a8556ca83496ffd965af493a139e84cec25c38e9f64eb26f1a134a621bc9ec3",
       "stats" : {
         "downloadCount" : 222,
-        "impressionCount" : 863
+        "impressionCount" : 865
       },
       "subtitle" : "App to switch hosts",
       "tintColor" : "DC737D",
@@ -6842,20 +6842,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.2.90_235.dmg",
+      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.3.00_236.dmg",
       "homepage" : "https://www.ticktick.com/home",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ticktick/AppIcon.png",
       "localizedDescription" : "To-do & task list manager",
       "name" : "TickTick",
-      "sha256" : "ef9d18f9f63bba82516a2a0027ec700976e6f783077c66cb355ec7b4bae80617",
+      "sha256" : "02830a24a8b743315d94678b9ec9105eb33a3a0f7f3e19ec51145b09b6ece720",
       "stats" : {
         "downloadCount" : 195,
         "impressionCount" : 720
       },
       "subtitle" : "To-do & task list manager",
       "tintColor" : "E8E9F0",
-      "version" : "4.2.90,235",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "4.3.00,236",
+      "versionDate" : "2022-10-13T07:45:47Z"
     },
     {
       "beta" : false,
@@ -8474,7 +8474,7 @@
       "sha256" : "0124b2d7761a4a95810583ddde14cb5d628ca671fee42a4af7b759068c11cac1",
       "stats" : {
         "downloadCount" : 118,
-        "impressionCount" : 529
+        "impressionCount" : 535
       },
       "subtitle" : "Network toolbox",
       "tintColor" : "DBE3FD",
@@ -10501,7 +10501,7 @@
       "sha256" : "e7505b1387d00a4df1bcd66a7cc22c92885816681d0bc5006f2e7f081bfd0378",
       "stats" : {
         "downloadCount" : 70,
-        "impressionCount" : 444
+        "impressionCount" : 449
       },
       "subtitle" : "RSS and Atom reader",
       "tintColor" : "E8DBC7",
@@ -11083,7 +11083,7 @@
       "sha256" : "7fec7bf1fb93854ed87cbaf4d9e21ef964adfc064d731b82a84a499f5b911e1f",
       "stats" : {
         "downloadCount" : 64,
-        "impressionCount" : 878
+        "impressionCount" : 881
       },
       "subtitle" : "Seamless, automatic, “dotfile” sync to iCloud",
       "tintColor" : "83C4EC",
@@ -11604,7 +11604,7 @@
       "sha256" : "622ed42307902b194bf223f6b33a6c2c0cef11d23480986dfa30cd1be128edd9",
       "stats" : {
         "downloadCount" : 58,
-        "impressionCount" : 1053
+        "impressionCount" : 1057
       },
       "subtitle" : "Open-source code snippets manager for developers",
       "tintColor" : "006CBE",
@@ -13259,7 +13259,7 @@
       "sha256" : "b0ef8d5881a74366719af2b2fdfe178326b039748b3c7bed9d0c1bcf803d6902",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 845
+        "impressionCount" : 849
       },
       "subtitle" : "Swiss army chainsaw of terminal emulators",
       "tintColor" : "46B159",
@@ -13564,7 +13564,7 @@
       "sha256" : "25d113f4709a6b0af6f8ef626879e3ef9bebc9922b81b9df2411785eec001210",
       "stats" : {
         "downloadCount" : 40,
-        "impressionCount" : 880
+        "impressionCount" : 885
       },
       "subtitle" : "Identify Intel-only apps",
       "tintColor" : "D3DBDD",
@@ -13981,20 +13981,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://cdn.yinxiang.com/mac-smd/public/YinxiangBiji_RELEASE_9.5.31_468186.zip",
+      "downloadURL" : "https://cdn.yinxiang.com/mac-smd/public/YinxiangBiji_RELEASE_9.5.32_468438.zip",
       "homepage" : "https://www.yinxiang.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yinxiangbiji/AppIcon.png",
       "localizedDescription" : "Note taking app",
       "name" : "Evernote",
-      "sha256" : "298f73a096df7a5b362cb3c39787942c4b27e79efe2ce37bd121eb9b6850a8ae",
+      "sha256" : "311054adc05d6adbd60725763c24d23b16317af238b118db2c340bb286188a28",
       "stats" : {
         "downloadCount" : 37,
         "impressionCount" : 490
       },
       "subtitle" : "Note taking app",
       "tintColor" : "289638",
-      "version" : "9.5.31_468186",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "9.5.32_468438",
+      "versionDate" : "2022-10-13T07:45:47Z"
     },
     {
       "beta" : false,
@@ -14408,7 +14408,7 @@
       "sha256" : "a2a0b9f9bc73a5d4bdb6444c28ef11a051d53df253450f977711d8dd3a821999",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 746
+        "impressionCount" : 754
       },
       "subtitle" : "Organize all your reference images in one place",
       "tintColor" : "60A6F4",
@@ -14461,20 +14461,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://updates.tryshift.com/v8.0.51/stable/shift-v8.0.51.489-stable-x64.dmg",
+      "downloadURL" : "https://updates.tryshift.com/v8.1.1/stable/shift-v8.1.1.527-stable-x64.dmg",
       "homepage" : "https://tryshift.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-shift/AppIcon.png",
       "localizedDescription" : "Workstation to streamline your accounts, apps, and workflows",
       "name" : "Shift",
-      "sha256" : "dad4567e2ad0a6e91e19bd293c4023031f3a5a6b473148c5c8c5a94b96195d92",
+      "sha256" : "9a2bc2781e3b6b8aaa4cb2ebd88305886ecf78627472022ccb916366a557f964",
       "stats" : {
         "downloadCount" : 34,
         "impressionCount" : 437
       },
       "subtitle" : "Workstation to streamline your accounts, apps, and workflows",
       "tintColor" : "4B4D55",
-      "version" : "8.0.51.489",
-      "versionDate" : "2022-09-15T00:00:00Z"
+      "version" : "8.1.1.527",
+      "versionDate" : "2022-10-13T07:45:47Z"
     },
     {
       "beta" : false,
@@ -16623,7 +16623,7 @@
       "sha256" : "6afbd0a3203c107e81da15c4df591870d08a8a4a4b739de1d82b76fbcfa19c46",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 743
+        "impressionCount" : 750
       },
       "subtitle" : "App for building websites",
       "tintColor" : "363636",
@@ -16727,7 +16727,7 @@
       "sha256" : "5bbb85f1273d54e87189c0862a728fa4ba7bdf41ae8a99552251d198cf435c86",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 364
+        "impressionCount" : 371
       },
       "subtitle" : "Download manager",
       "tintColor" : "ABD0B6",
@@ -17100,7 +17100,7 @@
       "sha256" : "f125a29d43e696b89fa875d8d29402eefc3b799aad9d3536bcea52221c48f73f",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 745
+        "impressionCount" : 750
       },
       "subtitle" : "Open Source m3u, m3u8 player",
       "tintColor" : "061A25",
@@ -17784,7 +17784,7 @@
       "sha256" : "4ece5bb4f028a09b73f89fadcdff44e538a862a33412f06122fcd2b8793ae8b9",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 605
+        "impressionCount" : 609
       },
       "subtitle" : "Media player",
       "tintColor" : "6075B0",
@@ -19070,7 +19070,7 @@
       "sha256" : "cee2a11755b23c55d96a2226750e80ee991ae8bff74bda4ff757717bcbdf9cad",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 1943
+        "impressionCount" : 1948
       },
       "subtitle" : "SwiftUI Reddit client",
       "tintColor" : "FC8D44",
@@ -19131,7 +19131,7 @@
       "sha256" : "8c30e53b39ab87c94eff5c76c52b7403125efeb33b76e0cc6250c134aaf55fe3",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 635
+        "impressionCount" : 637
       },
       "subtitle" : "Issue reader for GitHub",
       "tintColor" : "DD638E",
@@ -20197,7 +20197,7 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.3.3/siyuan-2.3.3-mac.dmg",
+      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.4.0/siyuan-2.4.0-mac.dmg",
       "fundingLinks" : [
         {
           "platform" : "OPEN_COLLECTIVE",
@@ -20212,15 +20212,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-siyuan/AppIcon.png",
       "localizedDescription" : "Local-first personal knowledge management system",
       "name" : "SiYuan",
-      "sha256" : "55582e7128a98432ff11a1a46436deb6e429fe3f22a3310f4296cdc02600f7eb",
+      "sha256" : "acae01ad7e2566a79424412155d1b1733ea723ec8974027e37d386bee277a335",
       "stats" : {
         "downloadCount" : 16,
         "impressionCount" : 825
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
-      "version" : "2.3.3",
-      "versionDate" : "2022-10-12T00:00:00Z"
+      "version" : "2.4.0",
+      "versionDate" : "2022-10-13T07:45:47Z"
     },
     {
       "beta" : false,
@@ -20519,7 +20519,7 @@
       "sha256" : "b96c06bca744af94e2f035824fbd16f59673c4c454fd4bf96aa4bde965fe711d",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 915
+        "impressionCount" : 918
       },
       "subtitle" : "Desktop app for learning Git and GitHub",
       "tintColor" : "108DFF",
@@ -20877,7 +20877,7 @@
       "sha256" : "0bff2c4b3c915bbd8719a57fd8f2b6c7251af01ceb625bd554fc0326e3fcaf35",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 758
+        "impressionCount" : 763
       },
       "subtitle" : "Window previews and controls",
       "tintColor" : "5E3A75",
@@ -21203,7 +21203,7 @@
       "sha256" : "606823107254a9a66af2c67d0e6aa25ae820d8dfba2be5427325d05c4a5482a7",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 448
+        "impressionCount" : 451
       },
       "subtitle" : "Extended attribute editor",
       "tintColor" : "CBCAD1",
@@ -26263,7 +26263,7 @@
       "sha256" : "ed1e120c5f59f72f5b45fbdc0e1a2c43fc16dd6d4567fc936da2a3b4e02fa004",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 727
+        "impressionCount" : 730
       },
       "subtitle" : "Snippet manager with sharing support",
       "tintColor" : "4E4BE1",
@@ -26342,7 +26342,7 @@
       "name" : "Unexpectedly",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 451
+        "impressionCount" : 454
       },
       "subtitle" : "Browse and visualize the reports from crashes",
       "tintColor" : "C5B781",
@@ -26521,7 +26521,7 @@
       "sha256" : "3754d8ca81a47f73afa629ea6c0a0edcad6476c1625715f0fbed3233d21371bf",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 736
+        "impressionCount" : 740
       },
       "subtitle" : "Collaborate on design files",
       "tintColor" : "D2F2E9",
@@ -26829,7 +26829,7 @@
       "sha256" : "dbf1216fce69ead08e9e9a37b18391d3d65e7f06ae4e6f633e7047832c6b1adc",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 579
+        "impressionCount" : 583
       },
       "subtitle" : "Unofficial overcast.fm podcast app",
       "tintColor" : "F7BD69",
@@ -27666,7 +27666,7 @@
       "sha256" : "2097bafa9cfe648c259e5c81f98137e3e38217838deccfe262460773807dd8df",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 537
+        "impressionCount" : 539
       },
       "subtitle" : "Utility to notify about the latest Apple tool releases (including Beta releases)",
       "tintColor" : "65678E",
@@ -27972,7 +27972,7 @@
       "sha256" : "c671a1efc377e42189dd22c0dc4c0f8b7e72c297efc4ad2eb320b449c0bde674",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 760
+        "impressionCount" : 766
       },
       "subtitle" : "Code snippet organizer",
       "tintColor" : "75B5E2",
@@ -28442,7 +28442,7 @@
       "sha256" : "b9d4e1b3726ff3dd222f123a6d0b425015ff13733e95863a95d8256f80530a60",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 610
+        "impressionCount" : 613
       },
       "subtitle" : "Utility to control and manage the Simulator",
       "tintColor" : "BB9517",
@@ -28518,7 +28518,7 @@
       "sha256" : "946f49215c4559f28ebf8b183698f986c3de0baa8d1e10d2cdd1fbe44fb9d9f2",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 465
+        "impressionCount" : 469
       },
       "tintColor" : "414039",
       "version" : "1.3.1"
@@ -28678,7 +28678,7 @@
       "sha256" : "b20d014ae3a9355a112f84d98d2f81c27d3f99fd2dd7dc3455be465b27ab1e20",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 627
+        "impressionCount" : 631
       },
       "subtitle" : "Mongo DB management",
       "tintColor" : "BAD1E5",
@@ -32566,7 +32566,7 @@
       "sha256" : "274e1f3c2a90ab884b117af84988c1aea9931d37fe8169fb6aeecab8e5b78464",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 591
+        "impressionCount" : 595
       },
       "subtitle" : "Explore the Electron APIs",
       "tintColor" : "DFDCE2",
@@ -33562,7 +33562,7 @@
       "sha256" : "584a4d4ad2b3d8945c527606dedd15376690975adb243b89fa3cc1bacfe81848",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 445
+        "impressionCount" : 447
       },
       "subtitle" : "Browse and search for Swift Package Manager packages",
       "tintColor" : "EA8064",
@@ -33581,7 +33581,7 @@
       "sha256" : "1a12cf1061aac8cb455ebce2898b8165f89c5016b3befdbbe71ebbcef6680f0a",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 416
+        "impressionCount" : 418
       },
       "tintColor" : "46515E",
       "version" : "1.1.0,1100"
@@ -33778,7 +33778,7 @@
       "sha256" : "017c0781ce05db59c1a3fe52a140166df55aa2d87286a7cf5ba5e3eb6b06c7df",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 450
+        "impressionCount" : 453
       },
       "subtitle" : "Uncrustify utility and documentation browser",
       "tintColor" : "3F5539",
@@ -35172,7 +35172,7 @@
       "sha256" : "419a251b1be83c1f11763d4713920f5e7676a2cb23fc9e359e0d2d4fd349e23f",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 434
+        "impressionCount" : 438
       },
       "subtitle" : "Experimental web browser with a thin interface",
       "tintColor" : "1B1B1B",
@@ -56385,20 +56385,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://latest.scitools.com/Understand/Understand-6.2.1121-MacOSX-x86.dmg",
+      "downloadURL" : "https://latest.scitools.com/Understand/Understand-6.2.1122-MacOSX-x86.dmg",
       "homepage" : "https://scitools.com/features/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-understand/AppIcon.png",
       "localizedDescription" : "Code visualization and exploration tool",
       "name" : "SciTools Understand",
-      "sha256" : "c4fffa0bb2f0f0683330326666bf71bee79c8a344cc2f8758966d165eba8034b",
+      "sha256" : "662066027d93aa1c6f6b00d4f2456036e1067127fa0afa479138491750d59857",
       "stats" : {
         "downloadCount" : 3,
         "impressionCount" : 302
       },
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
-      "version" : "6.2.1121",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "6.2.1122",
+      "versionDate" : "2022-10-13T07:45:47Z"
     },
     {
       "beta" : false,
@@ -74231,41 +74231,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "gog-galaxy",
-      "caption" : "GOG Galaxy updated from 2.0.54.22 to 2.0.55.81",
-      "date" : "2022-10-12T01:34:22Z",
-      "identifier" : "release-gog-galaxy-2.0.55.81",
-      "title" : "New Release: GOG Galaxy 2.0.55.81"
-    },
-    {
-      "appID" : "voxql",
-      "caption" : "voxql 0.1.0 released",
-      "date" : "2022-10-12T01:34:22Z",
-      "identifier" : "release-voxql-0.1.0",
-      "title" : "New Release: voxql 0.1.0"
-    },
-    {
-      "appID" : "adobe-creative-cloud",
-      "caption" : "Adobe Creative Cloud updated from 5.8.0.592 to 5.9.0.373",
-      "date" : "2022-10-12T02:55:16Z",
-      "identifier" : "release-adobe-creative-cloud-5.9.0.373",
-      "title" : "New Release: Adobe Creative Cloud 5.9.0.373"
-    },
-    {
-      "appID" : "element",
-      "caption" : "Element updated from 1.11.8 to 1.11.10",
-      "date" : "2022-10-12T07:49:19Z",
-      "identifier" : "release-element-1.11.10",
-      "title" : "New Release: Element 1.11.10"
-    },
-    {
-      "appID" : "camunda-modeler",
-      "caption" : "Camunda Modeler updated from 5.3.0 to 5.4.1",
-      "date" : "2022-10-12T07:49:19Z",
-      "identifier" : "release-camunda-modeler-5.4.1",
-      "title" : "New Release: Camunda Modeler 5.4.1"
-    },
-    {
       "appID" : "opera-gx",
       "caption" : "Opera GX updated from 91.0.4516.36 to 91.0.4516.72",
       "date" : "2022-10-12T07:49:19Z",
@@ -74376,13 +74341,6 @@
       "date" : "2022-10-12T07:49:21Z",
       "identifier" : "release-integrity-12.4.7",
       "title" : "New Release: Integrity 12.4.7"
-    },
-    {
-      "appID" : "siyuan",
-      "caption" : "SiYuan updated from 2.3.2 to 2.3.3",
-      "date" : "2022-10-12T07:49:21Z",
-      "identifier" : "release-siyuan-2.3.3",
-      "title" : "New Release: SiYuan 2.3.3"
     },
     {
       "appID" : "4k-stogram",
@@ -74929,6 +74887,48 @@
       "date" : "2022-10-13T05:01:10Z",
       "identifier" : "release-unity-windows-support-for-editor-2022.1.20f1,01d83b40d570",
       "title" : "New Release: Unity Windows (Mono) Build Support 2022.1.20f1,01d83b40d570"
+    },
+    {
+      "appID" : "swiftformat-for-xcode",
+      "caption" : "SwiftFormat for Xcode updated from 0.50.1 to 0.50.2",
+      "date" : "2022-10-13T07:45:48Z",
+      "identifier" : "release-swiftformat-for-xcode-0.50.2",
+      "title" : "New Release: SwiftFormat for Xcode 0.50.2"
+    },
+    {
+      "appID" : "ticktick",
+      "caption" : "TickTick updated from 4.2.90,235 to 4.3.00,236",
+      "date" : "2022-10-13T07:45:49Z",
+      "identifier" : "release-ticktick-4.3.00,236",
+      "title" : "New Release: TickTick 4.3.00,236"
+    },
+    {
+      "appID" : "yinxiangbiji",
+      "caption" : "Evernote updated from 9.5.31_468186 to 9.5.32_468438",
+      "date" : "2022-10-13T07:45:49Z",
+      "identifier" : "release-yinxiangbiji-9.5.32_468438",
+      "title" : "New Release: Evernote 9.5.32_468438"
+    },
+    {
+      "appID" : "shift",
+      "caption" : "Shift updated from 8.0.51.489 to 8.1.1.527",
+      "date" : "2022-10-13T07:45:49Z",
+      "identifier" : "release-shift-8.1.1.527",
+      "title" : "New Release: Shift 8.1.1.527"
+    },
+    {
+      "appID" : "siyuan",
+      "caption" : "SiYuan updated from 2.3.3 to 2.4.0",
+      "date" : "2022-10-13T07:45:49Z",
+      "identifier" : "release-siyuan-2.4.0",
+      "title" : "New Release: SiYuan 2.4.0"
+    },
+    {
+      "appID" : "understand",
+      "caption" : "SciTools Understand updated from 6.2.1121 to 6.2.1122",
+      "date" : "2022-10-13T07:45:49Z",
+      "identifier" : "release-understand-6.2.1122",
+      "title" : "New Release: SciTools Understand 6.2.1122"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

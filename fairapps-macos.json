@@ -135,7 +135,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "40e2569c91f8bbdc7356fc24a9d6b0525c9d589d7238d9541006ee624f058634",
+      "sha256" : "e9baf26401fb6ed272fb649ff9d6b6df32b787c2779eb7024fcbb773b48b2cb2",
       "size" : 13730223,
       "stats" : {
         "coreSize" : 168592,
@@ -216,7 +216,7 @@
         "coreSize" : 168592,
         "downloadCount" : 49,
         "forkCount" : 0,
-        "impressionCount" : 100,
+        "impressionCount" : 101,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -521,7 +521,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "5f37c050d1933171466727e6a01f5dc5ff9fd748ce54538076a6d90abad7d973",
+      "sha256" : "7987a29fd553ddac4bd915521b696e9cec548c9dc46820d6aa922d30af18bc85",
       "size" : 26469209,
       "stats" : {
         "coreSize" : 168592,
@@ -1516,7 +1516,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "1e3dcdff6447e6a0d023b5f9d597337e6dfef5f76ce5e776d9eefb625e194227",
+      "sha256" : "91e5c43de2f51295693fe9266a36ab8131f9efedc7d57589be40963b8736458d",
       "size" : 2828828,
       "stats" : {
         "coreSize" : 168592,

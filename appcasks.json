@@ -1163,13 +1163,13 @@
         "public.app-category.productivity",
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/alacritty/alacritty/releases/download/v0.10.1/Alacritty-v0.10.1.dmg",
+      "downloadURL" : "https://github.com/alacritty/alacritty/releases/download/v0.11.0/Alacritty-v0.11.0.dmg",
       "homepage" : "https://github.com/alacritty/alacritty/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-alacritty/AppIcon.png",
       "localizedDescription" : "GPU-accelerated terminal emulator",
       "name" : "Alacritty",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-alacritty/README.md",
-      "sha256" : "08b59c3b41bdf369a8ce8ed65c8607eeac2e73672298a04ebf53e7a802b56939",
+      "sha256" : "b230a1c9f0ad1442f46fac22ba3bfe9296b560c8a1d42bf593de721ab24fc023",
       "stats" : {
         "downloadCount" : 2889,
         "impressionCount" : 3412,
@@ -1177,7 +1177,8 @@
       },
       "subtitle" : "GPU-accelerated terminal emulator",
       "tintColor" : "514438",
-      "version" : "0.10.1"
+      "version" : "0.11.0",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -4204,20 +4205,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://folivora.ai/releases/btt3.896-2051.zip",
+      "downloadURL" : "https://folivora.ai/releases/btt3.897-2052.zip",
       "homepage" : "https://folivora.ai/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-bettertouchtool/AppIcon.png",
       "localizedDescription" : "Tool to customize input devices and automate computer systems",
       "name" : "BetterTouchTool",
-      "sha256" : "6f68b59ac615c0f21aff53b9941ce6381c5279697840703093852833476723cf",
+      "sha256" : "6a3e4b06153ccf4e51104aa0b140b5db0a38a1e012c17d9b7ca521c3724b92a0",
       "stats" : {
         "downloadCount" : 833,
         "impressionCount" : 1618
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
-      "version" : "3.896,2051",
-      "versionDate" : "2022-10-13T00:00:00Z"
+      "version" : "3.897,2052",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -6351,20 +6352,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/electron/electron/releases/download/v21.1.0/electron-v21.1.0-darwin-x64.zip",
+      "downloadURL" : "https://github.com/electron/electron/releases/download/v21.1.1/electron-v21.1.1-darwin-x64.zip",
       "homepage" : "https://electronjs.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-electron/AppIcon.png",
       "localizedDescription" : "Build desktop apps with JavaScript, HTML, and CSS",
       "name" : "Electron",
-      "sha256" : "5d987264c0a985d45819034891d7d03bc27989b6f4f84fd86fe1f832055471ee",
+      "sha256" : "babc6c8a48c2248a16d99cae1819f0803085d44c3e7e0c9234bbce98b1bb8c29",
       "stats" : {
         "downloadCount" : 238,
         "impressionCount" : 995
       },
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
-      "version" : "21.1.0",
-      "versionDate" : "2022-10-06T00:00:00Z"
+      "version" : "21.1.1",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -7841,20 +7842,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://sf3-cn.feishucdn.com/obj/ee-appcenter/2e9381b2/Feishu-darwin_x64-5.21.6-signed.dmg",
+      "downloadURL" : "https://sf3-cn.feishucdn.com/obj/ee-appcenter/492f6e2e/Feishu-darwin_x64-5.22.8-signed.dmg",
       "homepage" : "https://www.feishu.cn/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-feishu/AppIcon.png",
       "localizedDescription" : "Project management software",
       "name" : "feishu",
-      "sha256" : "db51eb01dac9aa20e0c9f6943d3ab5e585cdfccb97d1022459a51e76535ddde7",
+      "sha256" : "1bc7e61ff621b4a0a97b1885cdd83ef89695cbbf5018298ae29ba93a8f355a50",
       "stats" : {
         "downloadCount" : 132,
         "impressionCount" : 1982
       },
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
-      "version" : "5.21.6,2e9381b2",
-      "versionDate" : "2022-09-22T00:00:00Z"
+      "version" : "5.22.8,492f6e2e",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -25073,8 +25074,8 @@
       },
       "subtitle" : "Online editor for Word, Excel and PPT documents",
       "tintColor" : "5D9AFE",
-      "version" : "2.3.17",
-      "versionDate" : "2022-09-06T00:00:00Z"
+      "version" : "2.3.21",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -36482,7 +36483,8 @@
       },
       "subtitle" : "3D modeling, rendering and animation software",
       "tintColor" : "775E0C",
-      "version" : "7.5.1"
+      "version" : "7.5.2",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -54583,20 +54585,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/hydrusnetwork/hydrus/releases/download/v501/Hydrus.Network.501.-.macOS.Qt5.-.App.dmg",
+      "downloadURL" : "https://github.com/hydrusnetwork/hydrus/releases/download/v502/Hydrus.Network.502.-.macOS.Qt5.-.App.dmg",
       "homepage" : "https://hydrusnetwork.github.io/hydrus/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-hydrus-network/AppIcon.png",
       "localizedDescription" : "Personal booru-style media tagger to organize your media",
       "name" : "hydrus-network",
-      "sha256" : "e169127e38d9e24a27c168ca6f869850251fad92a851ea9be830d7f04476c760",
+      "sha256" : "297ea04a7c92b58ac87b34905ada0806f320c03be161c0c59bcb49fc493d2a59",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 205
       },
       "subtitle" : "Personal booru-style media tagger to organize your media",
       "tintColor" : "000000",
-      "version" : "501",
-      "versionDate" : "2022-10-06T00:00:00Z"
+      "version" : "502",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -59700,8 +59702,8 @@
         "downloadCount" : 2331
       },
       "subtitle" : "Client for the Dropbox cloud storage service",
-      "version" : "158.4.4564",
-      "versionDate" : "2022-10-05T00:00:00Z"
+      "version" : "159.4.5870",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -60434,17 +60436,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/concourse/concourse/releases/download/v7.8.2/fly-7.8.2-darwin-amd64.tgz",
+      "downloadURL" : "https://github.com/concourse/concourse/releases/download/v7.8.3/fly-7.8.3-darwin-amd64.tgz",
       "homepage" : "https://github.com/concourse/concourse",
       "localizedDescription" : "Official CLI tool for Concourse CI",
       "name" : "fly",
-      "sha256" : "f724d5700ebf607ce9b5ed554b3e088ee717a81bb413649d15b2b316b415d77a",
+      "sha256" : "fe8c2eb0a1b4d9df1701916270b870cf203f07512055274470594569f625cde0",
       "stats" : {
         "downloadCount" : 533
       },
       "subtitle" : "Official CLI tool for Concourse CI",
-      "version" : "7.8.2",
-      "versionDate" : "2022-07-17T00:00:00Z"
+      "version" : "7.8.3",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -60848,17 +60850,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/imolorhe/altair/releases/download/v5.0.0/altair_5.0.0_x64_mac.zip",
+      "downloadURL" : "https://github.com/imolorhe/altair/releases/download/v5.0.2/altair_5.0.2_x64_mac.zip",
       "homepage" : "https://altair.sirmuel.design/",
       "localizedDescription" : "GraphQL client",
       "name" : "Altair GraphQL Client",
-      "sha256" : "8eaab4b244f1cfa3fbbb346a659bd20c58450c065d18f2cf14655a41da33c4e5",
+      "sha256" : "23ffc98b916addf45b0a3b7519c2b5bd8aafcb72903829eda2fc9a29273e8151",
       "stats" : {
         "downloadCount" : 324
       },
       "subtitle" : "GraphQL client",
-      "version" : "5.0.0",
-      "versionDate" : "2022-09-24T00:00:00Z"
+      "version" : "5.0.2",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -64020,17 +64022,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.1-2022-10-10-15-02.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.1-2022-10-12-23-19.zip",
       "homepage" : "https://busymac.com/busycal/index.html",
       "localizedDescription" : "Calendar software focusing on flexibility and reliability",
       "name" : "BusyCal",
-      "sha256" : "9ef66b9c116aba5b66db8f09eb9515b51fe20165be361deeb36c20de63695708",
+      "sha256" : "1f4f99fa84750826990b9552f79998047b8681210fb0e0413bd5919e94123208",
       "stats" : {
         "downloadCount" : 41
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
-      "version" : "2022.4.1,2022-10-10-15-02",
-      "versionDate" : "2022-10-11T00:00:00Z"
+      "version" : "2022.4.1,2022-10-12-23-19",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -65757,8 +65759,8 @@
         "downloadCount" : 16
       },
       "subtitle" : "Universal chat app powered by Matrix, unifying 15 different chat networks",
-      "version" : "3.28.29",
-      "versionDate" : "2022-10-11T00:00:00Z"
+      "version" : "3.28.32",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -67666,17 +67668,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.unity3d.com/download_unity/2fd7b40534d1/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-2022.1.19f1.pkg",
+      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-2022.1.20f1.pkg",
       "homepage" : "https://unity.com/products",
       "localizedDescription" : "WebGL target support for Unity",
       "name" : "Unity WebGL Build Support",
-      "sha256" : "1ffa172c843e9dfd935b655248efe274678cccd7c13040c748895fe33b24f349",
+      "sha256" : "9ced55c12b369f19d135988f8abc7857d2b093d45c8cd35ad778068934cafcdd",
       "stats" : {
         "downloadCount" : 9
       },
       "subtitle" : "WebGL target support for Unity",
-      "version" : "2022.1.19f1,2fd7b40534d1",
-      "versionDate" : "2022-10-08T00:00:00Z"
+      "version" : "2022.1.20f1,01d83b40d570",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -68628,17 +68630,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.29",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-main&version=2.16.30",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic",
-      "sha256" : "9b9c862dae7d03834e08a9ddd328fbd8763cf89dec466b05aaa14193e6703eee",
+      "sha256" : "e011db325e1978a3d363bcf3abec0c16b847e38cc92319b31ba7ce39a1e4ba16",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.29",
-      "versionDate" : "2022-10-06T00:00:00Z"
+      "version" : "2.16.30",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -69065,17 +69067,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-player&version=2.16.29",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-player&version=2.16.30",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Play Digital Cinema Packages",
       "name" : "DCP-o-matic Player",
-      "sha256" : "9e2da2bc996bdfe50fbdec27ddb63087e8099f7d65e9dbafe6c0d1f62f5cc145",
+      "sha256" : "f909f861af367679782e3fad2346be9b5bf4d75ecd8de4b7554e85307c425003",
       "stats" : {
         "downloadCount" : 5
       },
       "subtitle" : "Play Digital Cinema Packages",
-      "version" : "2.16.29",
-      "versionDate" : "2022-10-06T00:00:00Z"
+      "version" : "2.16.30",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -69538,17 +69540,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.unity3d.com/download_unity/2fd7b40534d1/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-2022.1.19f1.pkg",
+      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-2022.1.20f1.pkg",
       "homepage" : "https://unity.com/products",
       "localizedDescription" : "Android target support for Unity",
       "name" : "Unity Android Build Support",
-      "sha256" : "d49c4ff61e827d6774df752656230074941120c15213eb56a960f96053055e64",
+      "sha256" : "fb2f726ac2886af5fb79aa71663df422234b3e6776585ea833b0c19f768a1893",
       "stats" : {
         "downloadCount" : 5
       },
       "subtitle" : "Android target support for Unity",
-      "version" : "2022.1.19f1,2fd7b40534d1",
-      "versionDate" : "2022-10-08T00:00:00Z"
+      "version" : "2022.1.20f1,01d83b40d570",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -69726,17 +69728,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.29",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-batch&version=2.16.30",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic Batch converter",
-      "sha256" : "71ffe97f9429d8cadda16129c1d08179bdc896a7f00691dd4fab5c7def36f527",
+      "sha256" : "b04be3307a6ad1066c877bb353f6d1f6e29484b55fe489555b579090601cccb2",
       "stats" : {
         "downloadCount" : 4
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.29",
-      "versionDate" : "2022-10-06T00:00:00Z"
+      "version" : "2.16.30",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -70597,17 +70599,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-kdm&version=2.16.29",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-kdm&version=2.16.30",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic KDM Creator",
-      "sha256" : "e62cb2a32add74a290c53ccde90d385e857a169770126b16cbb62d55fd630e81",
+      "sha256" : "9c03bcfb3f20c0073e78a86c3d38a4ec465d8e23ec1dfe798e3c05a1cbc3d6a1",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.29",
-      "versionDate" : "2022-10-06T00:00:00Z"
+      "version" : "2.16.30",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -71491,17 +71493,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-server&version=2.16.29",
+      "downloadURL" : "https://dcpomatic.com/dl.php?id=osx-10.10-server&version=2.16.30",
       "homepage" : "https://dcpomatic.com/",
       "localizedDescription" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "name" : "DCP-o-matic Encode Server",
-      "sha256" : "1df1f86df2f4e22a578c241b6d2dca4a072e5251fa2b2e968cd5e9ca80d67552",
+      "sha256" : "aa2fb4d8768ed78822f465392329d61c5836b50520d4462aa1f38e3af8c5a4cd",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
-      "version" : "2.16.29",
-      "versionDate" : "2022-10-06T00:00:00Z"
+      "version" : "2.16.30",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -72361,17 +72363,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.unity3d.com/download_unity/2fd7b40534d1/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-2022.1.19f1.pkg",
+      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-2022.1.20f1.pkg",
       "homepage" : "https://unity.com/products",
       "localizedDescription" : "iOS target support for Unity",
       "name" : "Unity iOS Build Support",
-      "sha256" : "8b6f34932598bf40a0c65e98ff6f61e622c7c86999a1f5f3d4ad23d04bd4a1e6",
+      "sha256" : "5812a660bd0b2911dee092f786673c13583d4e2c23ed69ba141f7f129d2e49e9",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "iOS target support for Unity",
-      "version" : "2022.1.19f1,2fd7b40534d1",
-      "versionDate" : "2022-10-08T00:00:00Z"
+      "version" : "2022.1.20f1,01d83b40d570",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -72379,17 +72381,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.unity3d.com/download_unity/2fd7b40534d1/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-2022.1.19f1.pkg",
+      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-2022.1.20f1.pkg",
       "homepage" : "https://unity.com/products",
       "localizedDescription" : "Windows (Mono) target support for Unity",
       "name" : "Unity Windows (Mono) Build Support",
-      "sha256" : "31075943afe369760e4d5b61eb2fe2af0c70ddb595b7f07644c3199c09dd8c65",
+      "sha256" : "e2fe53566b0cfafe2572b140c1bdad30fd77cb32e24235c37933c008d70091ec",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Windows (Mono) target support for Unity",
-      "version" : "2022.1.19f1,2fd7b40534d1",
-      "versionDate" : "2022-10-08T00:00:00Z"
+      "version" : "2022.1.20f1,01d83b40d570",
+      "versionDate" : "2022-10-13T05:01:04Z"
     },
     {
       "beta" : false,
@@ -74229,146 +74231,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "visual-studio-code",
-      "caption" : "Microsoft Visual Studio Code updated from 1.72.0 to 1.72.1",
-      "date" : "2022-10-11T22:40:06Z",
-      "identifier" : "release-visual-studio-code-1.72.1",
-      "title" : "New Release: Microsoft Visual Studio Code 1.72.1"
-    },
-    {
-      "appID" : "fig",
-      "caption" : "fig updated from 1.0.62,541 to 1.0.62,542",
-      "date" : "2022-10-11T22:40:07Z",
-      "identifier" : "release-fig-1.0.62,542",
-      "title" : "New Release: fig 1.0.62,542"
-    },
-    {
-      "appID" : "jetbrains-toolbox",
-      "caption" : "JetBrains Toolbox updated from 1.26.1,1.26.1.13138 to 1.26.2,1.26.2.13244",
-      "date" : "2022-10-11T22:40:07Z",
-      "identifier" : "release-jetbrains-toolbox-1.26.2,1.26.2.13244",
-      "title" : "New Release: JetBrains Toolbox 1.26.2,1.26.2.13244"
-    },
-    {
-      "appID" : "mysqlworkbench",
-      "caption" : "MySQL Workbench updated from 8.0.30 to 8.0.31",
-      "date" : "2022-10-11T22:40:08Z",
-      "identifier" : "release-mysqlworkbench-8.0.31",
-      "title" : "New Release: MySQL Workbench 8.0.31"
-    },
-    {
-      "appID" : "pycharm-ce",
-      "caption" : "Jetbrains PyCharm Community Edition updated from 2022.2.2,222.4167.33 to 2022.2.3,222.4345.23",
-      "date" : "2022-10-11T22:40:09Z",
-      "identifier" : "release-pycharm-ce-2022.2.3,222.4345.23",
-      "title" : "New Release: Jetbrains PyCharm Community Edition 2022.2.3,222.4345.23"
-    },
-    {
-      "appID" : "microsoft-auto-update",
-      "caption" : "Microsoft Auto Update updated from 4.51.22091101 to 4.52.22100900",
-      "date" : "2022-10-11T22:40:09Z",
-      "identifier" : "release-microsoft-auto-update-4.52.22100900",
-      "title" : "New Release: Microsoft Auto Update 4.52.22100900"
-    },
-    {
-      "appID" : "google-drive",
-      "caption" : "Google Drive updated from 64.0.4 to 65.0.2",
-      "date" : "2022-10-11T22:40:10Z",
-      "identifier" : "release-google-drive-65.0.2",
-      "title" : "New Release: Google Drive 65.0.2"
-    },
-    {
-      "appID" : "microsoft-office",
-      "caption" : "Microsoft Office updated from 16.65.22091101 to 16.66.22100900",
-      "date" : "2022-10-11T22:40:10Z",
-      "identifier" : "release-microsoft-office-16.66.22100900",
-      "title" : "New Release: Microsoft Office 16.66.22100900"
-    },
-    {
-      "appID" : "microsoft-excel",
-      "caption" : "Microsoft Excel updated from 16.65.22091101 to 16.66.22100900",
-      "date" : "2022-10-11T22:40:10Z",
-      "identifier" : "release-microsoft-excel-16.66.22100900",
-      "title" : "New Release: Microsoft Excel 16.66.22100900"
-    },
-    {
-      "appID" : "microsoft-word",
-      "caption" : "Microsoft Word updated from 16.65.22091101 to 16.66.22100900",
-      "date" : "2022-10-11T22:40:11Z",
-      "identifier" : "release-microsoft-word-16.66.22100900",
-      "title" : "New Release: Microsoft Word 16.66.22100900"
-    },
-    {
-      "appID" : "microsoft-outlook",
-      "caption" : "Microsoft Outlook updated from 16.65.22091101 to 16.66.22100900",
-      "date" : "2022-10-11T22:40:12Z",
-      "identifier" : "release-microsoft-outlook-16.66.22100900",
-      "title" : "New Release: Microsoft Outlook 16.66.22100900"
-    },
-    {
-      "appID" : "virtualbox-extension-pack",
-      "caption" : "Oracle VirtualBox Extension Pack updated from 6.1.38 to 7.0.0",
-      "date" : "2022-10-11T22:40:12Z",
-      "identifier" : "release-virtualbox-extension-pack-7.0.0",
-      "title" : "New Release: Oracle VirtualBox Extension Pack 7.0.0"
-    },
-    {
-      "appID" : "microsoft-powerpoint",
-      "caption" : "Microsoft PowerPoint updated from 16.65.22091101 to 16.66.22100900",
-      "date" : "2022-10-11T22:40:12Z",
-      "identifier" : "release-microsoft-powerpoint-16.66.22100900",
-      "title" : "New Release: Microsoft PowerPoint 16.66.22100900"
-    },
-    {
-      "appID" : "rekordbox",
-      "caption" : "rekordbox updated from 6.6.4,20220623170231 to 6.6.5,20221005104542",
-      "date" : "2022-10-11T22:40:13Z",
-      "identifier" : "release-rekordbox-6.6.5,20221005104542",
-      "title" : "New Release: rekordbox 6.6.5,20221005104542"
-    },
-    {
-      "appID" : "cakebrewjs",
-      "caption" : "cakebrewjs updated from 1.2.1 to 1.2.2",
-      "date" : "2022-10-11T22:40:14Z",
-      "identifier" : "release-cakebrewjs-1.2.2",
-      "title" : "New Release: cakebrewjs 1.2.2"
-    },
-    {
-      "appID" : "google-chrome",
-      "caption" : "Google Chrome updated from 106.0.5249.103 to 106.0.5249.119",
-      "date" : "2022-10-12T01:34:21Z",
-      "identifier" : "release-google-chrome-106.0.5249.119",
-      "title" : "New Release: Google Chrome 106.0.5249.119"
-    },
-    {
-      "appID" : "ubar",
-      "caption" : "uBar updated from 4.2.0,420 to 4.2.1,421",
-      "date" : "2022-10-12T01:34:21Z",
-      "identifier" : "release-ubar-4.2.1,421",
-      "title" : "New Release: uBar 4.2.1,421"
-    },
-    {
-      "appID" : "eset-cyber-security-pro",
-      "caption" : "ESET Cyber Security Pro updated from 6.10.460.1 to 6.11.100.0",
-      "date" : "2022-10-12T01:34:22Z",
-      "identifier" : "release-eset-cyber-security-pro-6.11.100.0",
-      "title" : "New Release: ESET Cyber Security Pro 6.11.100.0"
-    },
-    {
-      "appID" : "dialpad",
-      "caption" : "Dialpad updated from 20.4.0 to 21.2.0",
-      "date" : "2022-10-12T01:34:22Z",
-      "identifier" : "release-dialpad-21.2.0",
-      "title" : "New Release: Dialpad 21.2.0"
-    },
-    {
-      "appID" : "adobe-acrobat-pro",
-      "caption" : "Adobe Acrobat Pro DC updated from 22.002.20212 to 22.003.20258",
-      "date" : "2022-10-12T01:34:22Z",
-      "identifier" : "release-adobe-acrobat-pro-22.003.20258",
-      "title" : "New Release: Adobe Acrobat Pro DC 22.003.20258"
-    },
-    {
       "appID" : "gog-galaxy",
       "caption" : "GOG Galaxy updated from 2.0.54.22 to 2.0.55.81",
       "date" : "2022-10-12T01:34:22Z",
@@ -74740,13 +74602,6 @@
       "title" : "New Release: Lapce 0.2.1"
     },
     {
-      "appID" : "bettertouchtool",
-      "caption" : "BetterTouchTool updated from 3.891,2046 to 3.896,2051",
-      "date" : "2022-10-13T01:59:32Z",
-      "identifier" : "release-bettertouchtool-3.896,2051",
-      "title" : "New Release: BetterTouchTool 3.896,2051"
-    },
-    {
       "appID" : "goland",
       "caption" : "Goland updated from 2022.2.3,222.4167.25 to 2022.2.4,222.4345.24",
       "date" : "2022-10-13T01:59:32Z",
@@ -74927,6 +74782,153 @@
       "date" : "2022-10-13T01:59:35Z",
       "identifier" : "release-nocturne-3.0",
       "title" : "New Release: Nocturne 3.0"
+    },
+    {
+      "appID" : "alacritty",
+      "caption" : "Alacritty updated from 0.10.1 to 0.11.0",
+      "date" : "2022-10-13T05:01:05Z",
+      "identifier" : "release-alacritty-0.11.0",
+      "title" : "New Release: Alacritty 0.11.0"
+    },
+    {
+      "appID" : "bettertouchtool",
+      "caption" : "BetterTouchTool updated from 3.896,2051 to 3.897,2052",
+      "date" : "2022-10-13T05:01:05Z",
+      "identifier" : "release-bettertouchtool-3.897,2052",
+      "title" : "New Release: BetterTouchTool 3.897,2052"
+    },
+    {
+      "appID" : "electron",
+      "caption" : "Electron updated from 21.1.0 to 21.1.1",
+      "date" : "2022-10-13T05:01:06Z",
+      "identifier" : "release-electron-21.1.1",
+      "title" : "New Release: Electron 21.1.1"
+    },
+    {
+      "appID" : "feishu",
+      "caption" : "feishu updated from 5.21.6,2e9381b2 to 5.22.8,492f6e2e",
+      "date" : "2022-10-13T05:01:06Z",
+      "identifier" : "release-feishu-5.22.8,492f6e2e",
+      "title" : "New Release: feishu 5.22.8,492f6e2e"
+    },
+    {
+      "appID" : "tencent-docs",
+      "caption" : "Tencent Docs updated from 2.3.17 to 2.3.21",
+      "date" : "2022-10-13T05:01:06Z",
+      "identifier" : "release-tencent-docs-2.3.21",
+      "title" : "New Release: Tencent Docs 2.3.21"
+    },
+    {
+      "appID" : "cheetah3d",
+      "caption" : "Cheetah3D updated from 7.5.1 to 7.5.2",
+      "date" : "2022-10-13T05:01:07Z",
+      "identifier" : "release-cheetah3d-7.5.2",
+      "title" : "New Release: Cheetah3D 7.5.2"
+    },
+    {
+      "appID" : "hydrus-network",
+      "caption" : "hydrus-network updated from 501 to 502",
+      "date" : "2022-10-13T05:01:07Z",
+      "identifier" : "release-hydrus-network-502",
+      "title" : "New Release: hydrus-network 502"
+    },
+    {
+      "appID" : "dropbox",
+      "caption" : "Dropbox updated from 158.4.4564 to 159.4.5870",
+      "date" : "2022-10-13T05:01:07Z",
+      "identifier" : "release-dropbox-159.4.5870",
+      "title" : "New Release: Dropbox 159.4.5870"
+    },
+    {
+      "appID" : "fly",
+      "caption" : "fly updated from 7.8.2 to 7.8.3",
+      "date" : "2022-10-13T05:01:07Z",
+      "identifier" : "release-fly-7.8.3",
+      "title" : "New Release: fly 7.8.3"
+    },
+    {
+      "appID" : "altair-graphql-client",
+      "caption" : "Altair GraphQL Client updated from 5.0.0 to 5.0.2",
+      "date" : "2022-10-13T05:01:08Z",
+      "identifier" : "release-altair-graphql-client-5.0.2",
+      "title" : "New Release: Altair GraphQL Client 5.0.2"
+    },
+    {
+      "appID" : "busycal",
+      "caption" : "BusyCal updated from 2022.4.1,2022-10-10-15-02 to 2022.4.1,2022-10-12-23-19",
+      "date" : "2022-10-13T05:01:08Z",
+      "identifier" : "release-busycal-2022.4.1,2022-10-12-23-19",
+      "title" : "New Release: BusyCal 2022.4.1,2022-10-12-23-19"
+    },
+    {
+      "appID" : "beeper",
+      "caption" : "Beeper updated from 3.28.29 to 3.28.32",
+      "date" : "2022-10-13T05:01:08Z",
+      "identifier" : "release-beeper-3.28.32",
+      "title" : "New Release: Beeper 3.28.32"
+    },
+    {
+      "appID" : "unity-webgl-support-for-editor",
+      "caption" : "Unity WebGL Build Support updated from 2022.1.19f1,2fd7b40534d1 to 2022.1.20f1,01d83b40d570",
+      "date" : "2022-10-13T05:01:08Z",
+      "identifier" : "release-unity-webgl-support-for-editor-2022.1.20f1,01d83b40d570",
+      "title" : "New Release: Unity WebGL Build Support 2022.1.20f1,01d83b40d570"
+    },
+    {
+      "appID" : "dcp-o-matic",
+      "caption" : "DCP-o-matic updated from 2.16.29 to 2.16.30",
+      "date" : "2022-10-13T05:01:09Z",
+      "identifier" : "release-dcp-o-matic-2.16.30",
+      "title" : "New Release: DCP-o-matic 2.16.30"
+    },
+    {
+      "appID" : "dcp-o-matic-player",
+      "caption" : "DCP-o-matic Player updated from 2.16.29 to 2.16.30",
+      "date" : "2022-10-13T05:01:09Z",
+      "identifier" : "release-dcp-o-matic-player-2.16.30",
+      "title" : "New Release: DCP-o-matic Player 2.16.30"
+    },
+    {
+      "appID" : "unity-android-support-for-editor",
+      "caption" : "Unity Android Build Support updated from 2022.1.19f1,2fd7b40534d1 to 2022.1.20f1,01d83b40d570",
+      "date" : "2022-10-13T05:01:09Z",
+      "identifier" : "release-unity-android-support-for-editor-2022.1.20f1,01d83b40d570",
+      "title" : "New Release: Unity Android Build Support 2022.1.20f1,01d83b40d570"
+    },
+    {
+      "appID" : "dcp-o-matic-batch-converter",
+      "caption" : "DCP-o-matic Batch converter updated from 2.16.29 to 2.16.30",
+      "date" : "2022-10-13T05:01:09Z",
+      "identifier" : "release-dcp-o-matic-batch-converter-2.16.30",
+      "title" : "New Release: DCP-o-matic Batch converter 2.16.30"
+    },
+    {
+      "appID" : "dcp-o-matic-kdm-creator",
+      "caption" : "DCP-o-matic KDM Creator updated from 2.16.29 to 2.16.30",
+      "date" : "2022-10-13T05:01:10Z",
+      "identifier" : "release-dcp-o-matic-kdm-creator-2.16.30",
+      "title" : "New Release: DCP-o-matic KDM Creator 2.16.30"
+    },
+    {
+      "appID" : "dcp-o-matic-encode-server",
+      "caption" : "DCP-o-matic Encode Server updated from 2.16.29 to 2.16.30",
+      "date" : "2022-10-13T05:01:10Z",
+      "identifier" : "release-dcp-o-matic-encode-server-2.16.30",
+      "title" : "New Release: DCP-o-matic Encode Server 2.16.30"
+    },
+    {
+      "appID" : "unity-ios-support-for-editor",
+      "caption" : "Unity iOS Build Support updated from 2022.1.19f1,2fd7b40534d1 to 2022.1.20f1,01d83b40d570",
+      "date" : "2022-10-13T05:01:10Z",
+      "identifier" : "release-unity-ios-support-for-editor-2022.1.20f1,01d83b40d570",
+      "title" : "New Release: Unity iOS Build Support 2022.1.20f1,01d83b40d570"
+    },
+    {
+      "appID" : "unity-windows-support-for-editor",
+      "caption" : "Unity Windows (Mono) Build Support updated from 2022.1.19f1,2fd7b40534d1 to 2022.1.20f1,01d83b40d570",
+      "date" : "2022-10-13T05:01:10Z",
+      "identifier" : "release-unity-windows-support-for-editor-2022.1.20f1,01d83b40d570",
+      "title" : "New Release: Unity Windows (Mono) Build Support 2022.1.20f1,01d83b40d570"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -62,7 +62,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256": "d1737ef2f18a320e1fffc36b6a3ac3922bc9cb8bd21593dc7a8bc0dbe9263f79",
+      "sha256": "2a18efa90ff145a4c509b3c96e495518cd97844d784a62adcb6fc4dd5e1c0776",
       "size": 9442810,
       "stats": {
         "coreSize": 168592,
@@ -96,16 +96,16 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256": "453a3160ec7bc8205059c7df708ed7ed427010a7dbb9b92cd3157a9f972b6054",
+      "sha256": "8069f9a6adecd7845af23f502994a6e594805279a73f22046be5fef3bbed6346",
       "size": 1604973,
       "stats": {
         "coreSize": 168592,
         "downloadCount": 3,
         "forkCount": 1,
-        "impressionCount": 1,
+        "impressionCount": 2,
         "issueCount": 0,
         "starCount": 2,
-        "viewCount": 1,
+        "viewCount": 2,
         "watcherCount": 0
       },
       "subtitle": "A whimsical game of excitement and delight",

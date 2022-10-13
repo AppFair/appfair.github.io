@@ -2115,7 +2115,7 @@
       "sha256" : "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
       "stats" : {
         "downloadCount" : 456,
-        "impressionCount" : 1906,
+        "impressionCount" : 1908,
         "viewCount" : 91
       },
       "subtitle" : "Screen capture tool with mark up and sharing features",
@@ -5536,7 +5536,7 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://github.com/leits/MeetingBar/releases/download/v4.0.6/MeetingBar.dmg",
+      "downloadURL" : "https://github.com/leits/MeetingBar/releases/download/v4.1.0/MeetingBar.dmg",
       "fundingLinks" : [
         {
           "platform" : "PATREON",
@@ -5551,15 +5551,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-meetingbar/AppIcon.png",
       "localizedDescription" : "Shows the next meeting in the menu bar",
       "name" : "MeetingBar",
-      "sha256" : "f55fbec0b5479bd2dffdcce047410ea4c29577795ad638937e1e24332309bce7",
+      "sha256" : "126c3428ea0d36adf0fb87a93efbe4839d5fcce891cc42c7a6746adf9460c868",
       "stats" : {
         "downloadCount" : 388,
         "impressionCount" : 1921
       },
       "subtitle" : "Shows the next meeting in the menu bar",
       "tintColor" : "47484B",
-      "version" : "4.0.6",
-      "versionDate" : "2022-07-22T00:00:00Z"
+      "version" : "4.1.0",
+      "versionDate" : "2022-10-13T10:39:59Z"
     },
     {
       "beta" : false,
@@ -6562,7 +6562,7 @@
       "sha256" : "8a8556ca83496ffd965af493a139e84cec25c38e9f64eb26f1a134a621bc9ec3",
       "stats" : {
         "downloadCount" : 222,
-        "impressionCount" : 865
+        "impressionCount" : 868
       },
       "subtitle" : "App to switch hosts",
       "tintColor" : "DC737D",
@@ -20639,7 +20639,7 @@
       "name" : "MindMaster",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 299
+        "impressionCount" : 300
       },
       "subtitle" : "Mind mapping software",
       "tintColor" : "82D8AB",
@@ -40331,20 +40331,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/kramred/ungoogled-chromium-macos/releases/download/106.0.5249.103-1.1_x86-64__1665122438/ungoogled-chromium_106.0.5249.103-1.1_x86-64-macos.dmg",
+      "downloadURL" : "https://github.com/kramred/ungoogled-chromium-macos/releases/download/106.0.5249.119-1.1_x86-64__1665644053/ungoogled-chromium_106.0.5249.119-1.1_x86-64-macos.dmg",
       "homepage" : "https://ungoogled-software.github.io/ungoogled-chromium-binaries/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-eloston-chromium/AppIcon.png",
       "localizedDescription" : "Google Chromium, sans integration with Google",
       "name" : "Ungoogled Chromium",
-      "sha256" : "58725d236967bebe19af8bcf34fa6c6b5aeffd07b113d566bd78f9dbff84633e",
+      "sha256" : "3639fc5d17ddd5abb7763f9726b28a1f60727831a7210af6f48daa49a2e00810",
       "stats" : {
         "downloadCount" : 952,
         "impressionCount" : 297
       },
       "subtitle" : "Google Chromium, sans integration with Google",
       "tintColor" : "ACC4F1",
-      "version" : "106.0.5249.103-1.1,1665122438",
-      "versionDate" : "2022-10-08T00:00:00Z"
+      "version" : "106.0.5249.119-1.1,1665644053",
+      "versionDate" : "2022-10-13T10:39:59Z"
     },
     {
       "beta" : false,
@@ -74231,20 +74231,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "opera-gx",
-      "caption" : "Opera GX updated from 91.0.4516.36 to 91.0.4516.72",
-      "date" : "2022-10-12T07:49:19Z",
-      "identifier" : "release-opera-gx-91.0.4516.72",
-      "title" : "New Release: Opera GX 91.0.4516.72"
-    },
-    {
-      "appID" : "workflowy",
-      "caption" : "WorkFlowy updated from 4.0.2210041402 to 4.0.2210110917",
-      "date" : "2022-10-12T07:49:19Z",
-      "identifier" : "release-workflowy-4.0.2210110917",
-      "title" : "New Release: WorkFlowy 4.0.2210110917"
-    },
-    {
       "appID" : "uvtools",
       "caption" : "UVtools updated from 3.6.8 to 3.7.0",
       "date" : "2022-10-12T07:49:19Z",
@@ -74929,6 +74915,20 @@
       "date" : "2022-10-13T07:45:49Z",
       "identifier" : "release-understand-6.2.1122",
       "title" : "New Release: SciTools Understand 6.2.1122"
+    },
+    {
+      "appID" : "meetingbar",
+      "caption" : "MeetingBar updated from 4.0.6 to 4.1.0",
+      "date" : "2022-10-13T10:40:00Z",
+      "identifier" : "release-meetingbar-4.1.0",
+      "title" : "New Release: MeetingBar 4.1.0"
+    },
+    {
+      "appID" : "eloston-chromium",
+      "caption" : "Ungoogled Chromium updated from 106.0.5249.103-1.1,1665122438 to 106.0.5249.119-1.1,1665644053",
+      "date" : "2022-10-13T10:40:00Z",
+      "identifier" : "release-eloston-chromium-106.0.5249.119-1.1,1665644053",
+      "title" : "New Release: Ungoogled Chromium 106.0.5249.119-1.1,1665644053"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

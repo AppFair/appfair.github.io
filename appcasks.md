@@ -104,7 +104,7 @@ tr:nth-child(even) {
 | [``Typora``](https://typora.io/) | ``1.4.4`` | `510` | `2022-09-06T00:00:00Z` |  | `1991` | `112` |  | `0` | `public.app-category.productivity` |
 | [``Barrier``](https://github.com/debauchee/barrier/) | ``2.4.0`` | `474` |  |  | `2605` | `149` |  | `0` | `public.app-category.developer-tools` |
 | [``darktable``](https://www.darktable.org/) | ``4.0.1.1`` | `462` | `2022-09-17T00:00:00Z` |  | `2603` | `245` |  | `0` | `public.app-category.photography` |
-| [``Skitch``](https://evernote.com/products/skitch) | ``2.9,265157`` | `456` |  |  | `1906` | `91` |  | `0` | `public.app-category.productivity` |
+| [``Skitch``](https://evernote.com/products/skitch) | ``2.9,265157`` | `456` |  |  | `1908` | `91` |  | `0` | `public.app-category.productivity` |
 | [``CLion``](https://www.jetbrains.com/clion/) | ``2022.2.4,222.4345.21`` | `455` | `2022-10-11T00:00:00Z` |  | `2057` | `96` |  | `0` | `public.app-category.developer-tools` |
 | [``Proxyman``](https://proxyman.io/) | ``3.11.0,31100`` | `455` | `2022-10-09T00:00:00Z` |  | `2132` | `148` |  | `0` | `public.app-category.developer-tools` |
 | [``Arduino``](https://www.arduino.cc/) | ``1.8.19`` | `451` |  |  | `2733` | `126` |  | `0` | `public.app-category.education` |
@@ -264,7 +264,7 @@ tr:nth-child(even) {
 | [``OWASP Zed Attack Proxy``](https://www.zaproxy.org/) | ``2.11.1`` | `402` |  |  | `596` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Syncthing``](https://syncthing.net/) | ``1.22.0-1`` | `395` | `2022-10-05T00:00:00Z` |  | `675` |  |  | `0` | `public.app-category.utilities` |
 | [``Viber``](https://www.viber.com/) | ``18.6.0,1860`` | `390` | `2022-10-08T00:00:00Z` |  | `1041` |  |  | `0` | `public.app-category.social-networking` |
-| [``MeetingBar``](https://github.com/leits/MeetingBar) | ``4.0.6`` | `388` | `2022-07-22T00:00:00Z` |  | `1921` |  |  | `0` | `public.app-category.productivity` |
+| [``MeetingBar``](https://github.com/leits/MeetingBar) | ``4.1.0`` | `388` | `2022-10-13T10:39:59Z` |  | `1921` |  |  | `0` | `public.app-category.productivity` |
 | [``RubyMine``](https://www.jetbrains.com/ruby/) | ``2022.2.3,222.4345.14`` | `385` | `2022-10-08T00:00:00Z` |  | `745` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Syntax Highlight``](https://github.com/sbarex/SourceCodeSyntaxHighlight) | ``2.1.15`` | `378` | `2022-07-05T00:00:00Z` |  | `681` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Marta File Manager``](https://marta.sh/) | ``0.8.1`` | `377` |  |  | `727` |  |  | `0` | `public.app-category.productivity` |
@@ -312,7 +312,7 @@ tr:nth-child(even) {
 | [``Carbon Copy Cloner``](https://bombich.com/) | ``6.1.3.7413`` | `222` | `2022-09-22T00:00:00Z` |  | `886` |  |  | `0` | `public.app-category.utilities` |
 | [``Timer``](https://github.com/michaelvillar/timer-app) | ``1.6.0`` | `222` |  |  | `547` |  |  | `0` | `public.app-category.utilities` |
 | [``Sproutcube Shortcat``](https://shortcat.app/) | ``0.10.4,171`` | `222` | `2022-10-11T00:00:00Z` |  | `609` |  |  | `0` | `public.app-category.productivity` |
-| [``SwitchHosts``](https://oldj.github.io/SwitchHosts/) | ``4.1.2.6086`` | `222` |  |  | `865` |  |  | `0` | `public.app-category.productivity` |
+| [``SwitchHosts``](https://oldj.github.io/SwitchHosts/) | ``4.1.2.6086`` | `222` |  |  | `868` |  |  | `0` | `public.app-category.productivity` |
 | [``Cron Calendar``](https://cron.com/) | ``1.110.0`` | `221` | `2022-10-05T00:00:00Z` |  | `843` |  |  | `0` | `public.app-category.productivity` |
 | [``WebTorrent Desktop``](https://webtorrent.io/desktop/) | ``0.24.0`` | `220` |  |  | `490` |  |  | `0` | `public.app-category.utilities` |
 | [``iGlance``](https://github.com/iglance/iGlance) | ``2.1.0`` | `219` |  |  | `715` |  |  | `0` | `public.app-category.utilities` |
@@ -996,7 +996,7 @@ tr:nth-child(even) {
 | [``imagemin``](https://github.com/imagemin/imagemin-app) | ``0.1.0`` | `15` |  |  | `239` |  |  | `0` | `public.app-category.utilities` |
 | [``kindaVim``](https://kindavim.app/) | ``42.0.0`` | `15` | `2022-10-05T00:00:00Z` |  | `602` |  |  | `0` | `public.app-category.developer-tools` |
 | [``MilkyTracker``](https://milkytracker.titandemo.org/) | ``1.03.00`` | `15` |  |  | `455` |  |  | `0` | `public.app-category.music` |
-| [``MindMaster``](https://www.edrawsoft.com/mindmaster/) | ``8.5.1,851`` | `15` |  |  | `299` |  |  | `0` | `public.app-category.productivity` |
+| [``MindMaster``](https://www.edrawsoft.com/mindmaster/) | ``8.5.1,851`` | `15` |  |  | `300` |  |  | `0` | `public.app-category.productivity` |
 | [``MunkiAdmin``](https://hjuutilainen.github.io/munkiadmin/) | ``1.8.1`` | `15` |  |  | `222` |  |  | `0` | `public.app-category.utilities` |
 | [``Pandora``](https://www.pandora.com/desktop) | ``15.0.3`` | `15` |  |  | `244` |  |  | `0` | `public.app-category.developer-tools` |
 | [``PDF Converter Master``](https://www.lightenpdf.com/pdf-converter-mac.html) | ``6.2.0`` | `15` |  |  | `285` |  |  | `0` | `public.app-category.productivity` |
@@ -1984,7 +1984,7 @@ tr:nth-child(even) {
 | [``AnyDesk``](https://anydesk.com/) | ``6.6.0`` | `1068` | `2022-07-06T00:00:00Z` |  | `144` |  |  | `0` |  |
 | [``LibreOffice Language Pac``](https://www.libreoffice.org/) | ``7.4.1`` | `1012` | `2022-09-15T00:00:00Z` |  | `110` |  |  | `0` |  |
 | [``Real VNC Viewer``](https://www.realvnc.com/) | ``6.22.826`` | `1003` | `2022-10-05T00:00:00Z` |  | `155` |  |  | `0` |  |
-| [``Ungoogled Chromium``](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | ``106.0.5249.103-1.1,16651…`` | `952` | `2022-10-08T00:00:00Z` |  | `297` |  |  | `0` |  |
+| [``Ungoogled Chromium``](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | ``106.0.5249.119-1.1,16656…`` | `952` | `2022-10-13T10:39:59Z` |  | `297` |  |  | `0` |  |
 | [``Vivaldi``](https://vivaldi.com/) | ``5.5.2805.35`` | `839` | `2022-10-08T00:00:00Z` |  | `684` |  |  | `0` |  |
 | [``Parallels Desktop``](https://www.parallels.com/products/desktop/) | ``18.0.2-53077`` | `808` | `2022-09-14T00:00:00Z` |  | `147` |  |  | `0` |  |
 | [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `776` | `2022-10-05T00:00:00Z` |  | `162` |  |  | `0` |  |

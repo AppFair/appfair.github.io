@@ -135,7 +135,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "e9baf26401fb6ed272fb649ff9d6b6df32b787c2779eb7024fcbb773b48b2cb2",
+      "sha256" : "40e2569c91f8bbdc7356fc24a9d6b0525c9d589d7238d9541006ee624f058634",
       "size" : 13730223,
       "stats" : {
         "coreSize" : 168592,
@@ -176,7 +176,7 @@
         "coreSize" : 168592,
         "downloadCount" : 61,
         "forkCount" : 0,
-        "impressionCount" : 306,
+        "impressionCount" : 308,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 26,
@@ -216,7 +216,7 @@
         "coreSize" : 168592,
         "downloadCount" : 49,
         "forkCount" : 0,
-        "impressionCount" : 98,
+        "impressionCount" : 100,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -338,9 +338,9 @@
       "size" : 3247304,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 30,
+        "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 212,
+        "impressionCount" : 226,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -527,7 +527,7 @@
         "coreSize" : 168592,
         "downloadCount" : 25,
         "forkCount" : 0,
-        "impressionCount" : 1,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 1,
@@ -750,7 +750,7 @@
         "coreSize" : 170240,
         "downloadCount" : 15,
         "forkCount" : 0,
-        "impressionCount" : 439,
+        "impressionCount" : 442,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 21,
@@ -1290,6 +1290,54 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.SQL-Hero",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/SQL-Hero-macOS.zip",
+      "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/SQL-Hero.png",
+      "localizedDescription" : "Query Like a Boss",
+      "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/Info.plist#7700f3bb48b546f3951b7451ba24f72fdba2212a38a0c7f4dca8c4a209dc9646",
+      "name" : "SQL Hero",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "Network client access required to connect to remote databases."
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "Filesystem access required to read and write local databases."
+        },
+        {
+          "identifier" : "com.apple.security.network.server",
+          "type" : "entitlement",
+          "usageDescription" : "Network server access is needed to handle requests."
+        }
+      ],
+      "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/SQL-Hero/App/releases/download/0.0.10/screenshot_01-mac-dark-1264x1058.png",
+        "https://github.com/SQL-Hero/App/releases/download/0.0.10/screenshot_01-mac-light-1264x1058.png"
+      ],
+      "sha256" : "2d6565e233b3a2544b11f22565aa4159750aafa50444fcc6054302078d197aae",
+      "size" : 8177157,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 4,
+        "forkCount" : 0,
+        "impressionCount" : 245,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 22,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Query Like a Boss",
+      "version" : "0.0.10",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/SQL-Hero/App/compare/0.0.9...0.0.10"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Tidal-Zone",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Tidal-Zone/App/releases/download/0.1.1/Tidal-Zone-macOS.zip",
@@ -1419,54 +1467,6 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.44...0.0.45"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.SQL-Hero",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/SQL-Hero-macOS.zip",
-      "iconURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/SQL-Hero.png",
-      "localizedDescription" : "Query Like a Boss",
-      "metadataURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/Info.plist#7700f3bb48b546f3951b7451ba24f72fdba2212a38a0c7f4dca8c4a209dc9646",
-      "name" : "SQL Hero",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "Network client access required to connect to remote databases."
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "Filesystem access required to read and write local databases."
-        },
-        {
-          "identifier" : "com.apple.security.network.server",
-          "type" : "entitlement",
-          "usageDescription" : "Network server access is needed to handle requests."
-        }
-      ],
-      "readmeURL" : "https://github.com/SQL-Hero/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/SQL-Hero/App/releases/download/0.0.10/screenshot_01-mac-dark-1264x1058.png",
-        "https://github.com/SQL-Hero/App/releases/download/0.0.10/screenshot_01-mac-light-1264x1058.png"
-      ],
-      "sha256" : "2d6565e233b3a2544b11f22565aa4159750aafa50444fcc6054302078d197aae",
-      "size" : 8177157,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 3,
-        "forkCount" : 0,
-        "impressionCount" : 235,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 22,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Query Like a Boss",
-      "version" : "0.0.10",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/SQL-Hero/App/compare/0.0.9...0.0.10"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Unclear-Purpose",
       "developerName" : "fairapps <fairapps@appfair.net>",
@@ -1516,13 +1516,13 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "5a99d49c8d339373f488c56501b510246744fe331b3a5785b359bd3595ef92e9",
+      "sha256" : "2dd5cb06555d35b13dd05a51b949339cd16b62f363e0845090ee2d5cc432f0d3",
       "size" : 2828828,
       "stats" : {
         "coreSize" : 168592,
         "downloadCount" : 2,
         "forkCount" : 1,
-        "impressionCount" : 2,
+        "impressionCount" : 4,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 2,

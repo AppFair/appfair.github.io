@@ -949,7 +949,7 @@
       "subtitle" : "Web browser focusing on privacy",
       "tintColor" : "FCB8A6",
       "version" : "1.44.112.0,144.112",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1661,7 +1661,7 @@
       "subtitle" : "Customizable email client",
       "tintColor" : "B0C3DC",
       "version" : "102.3.3",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1684,7 +1684,7 @@
       "subtitle" : "Web browser focusing on security",
       "tintColor" : "8236A8",
       "version" : "11.5.4",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3961,7 +3961,7 @@
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
       "version" : "0.2.1",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4154,7 +4154,7 @@
       "subtitle" : "Go (golang) IDE",
       "tintColor" : "47578E",
       "version" : "2022.2.4,222.4345.24",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4217,7 +4217,7 @@
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
       "version" : "3.896,2051",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4906,7 +4906,7 @@
       "subtitle" : "Instant messaging tool",
       "tintColor" : "80584A",
       "version" : "6.8.6.4823",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6813,7 +6813,7 @@
       "subtitle" : "Multi-platform client-side cloud file encryption tool",
       "tintColor" : "6E9471",
       "version" : "1.6.15",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7488,7 +7488,7 @@
       "subtitle" : "Virtual video-calling space",
       "tintColor" : "3260E6",
       "version" : "0.3.17",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11547,7 +11547,7 @@
       "subtitle" : "Store credentials in a single place and log in on any device, even when offline",
       "tintColor" : "BFDDDE",
       "version" : "4.32.8",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20168,7 +20168,7 @@
       "subtitle" : "Collaborative presentation software",
       "tintColor" : "372C3E",
       "version" : "1.96.0,stable.2,4767392",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25932,7 +25932,7 @@
       "subtitle" : "Time tracking software",
       "tintColor" : "FE667C",
       "version" : "2022.08,413",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27153,7 +27153,7 @@
       "subtitle" : "Organize your ideas and projects into visual boards",
       "tintColor" : "8E8E92",
       "version" : "3.3.10",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29499,7 +29499,7 @@
       "subtitle" : "Quick experimentation and operationalization for machine learning at scale",
       "tintColor" : "1FBAB2",
       "version" : "1.3.6",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29702,7 +29702,7 @@
       "subtitle" : "Download and watch BBC and ITV shows",
       "tintColor" : "FB6EA5",
       "version" : "1.24.2,20221009002",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29723,7 +29723,7 @@
       "subtitle" : "Group chat platform",
       "tintColor" : "B69624",
       "version" : "1.0.9161723",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42586,7 +42586,7 @@
       "subtitle" : "Video format converter (transcoder)",
       "tintColor" : "4E82A8",
       "version" : "1.17.2",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43839,7 +43839,7 @@
       "subtitle" : "Tool for programming amateur radio",
       "tintColor" : "9AB3B6",
       "version" : "20221012",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48520,7 +48520,7 @@
       "subtitle" : "Developer-oriented browser",
       "tintColor" : "3785BA",
       "version" : "19.1.122.126",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54052,7 +54052,7 @@
       "subtitle" : "3D model creator",
       "tintColor" : "807C7D",
       "version" : "7.23.22282.13002",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56637,7 +56637,7 @@
       "subtitle" : "Beer recipe creation tool",
       "tintColor" : "8B211F",
       "version" : "3.0.1",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60253,7 +60253,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.22,20221012102949",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60672,7 +60672,7 @@
       },
       "subtitle" : "All-in-one installer for the tools you need to manage your Chef infrastructure",
       "version" : "22.10.1013",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60758,7 +60758,7 @@
       },
       "subtitle" : "VPN client for secure internet access and private browsing",
       "version" : "11.10.1.70315",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60994,7 +60994,7 @@
       },
       "subtitle" : "Utility to change the default backup interval of Time Machine",
       "version" : "5.2.1,218",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61791,7 +61791,7 @@
       },
       "subtitle" : "Platform for 3D content",
       "version" : "2022.1.20f1,01d83b40d570",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62866,7 +62866,7 @@
       },
       "subtitle" : "Monitoring and security across systems, apps, and services",
       "version" : "7.39.2-1",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64063,7 +64063,7 @@
       },
       "subtitle" : "Collaboration platform focusing on security",
       "version" : "3.29.4477",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -71103,7 +71103,7 @@
       },
       "subtitle" : "Communication tool for remote teams",
       "version" : "1.94.2",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72902,7 +72902,7 @@
       },
       "subtitle" : "Adds an Eject icon to the menu bar",
       "version" : "0.8.1",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -73644,7 +73644,7 @@
       },
       "subtitle" : "Adjust display colors to suit low light conditions",
       "version" : "3.0",
-      "versionDate" : "2022-10-13T01:59:30Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,

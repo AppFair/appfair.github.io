@@ -1178,7 +1178,7 @@
       "subtitle" : "GPU-accelerated terminal emulator",
       "tintColor" : "514438",
       "version" : "0.11.0",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4218,7 +4218,7 @@
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "tintColor" : "525252",
       "version" : "3.897,2052",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6365,7 +6365,7 @@
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "tintColor" : "3F4651",
       "version" : "21.1.1",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7855,7 +7855,7 @@
       "subtitle" : "Project management software",
       "tintColor" : "B8D6EF",
       "version" : "5.22.8,492f6e2e",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25075,7 +25075,7 @@
       "subtitle" : "Online editor for Word, Excel and PPT documents",
       "tintColor" : "5D9AFE",
       "version" : "2.3.21",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36484,7 +36484,7 @@
       "subtitle" : "3D modeling, rendering and animation software",
       "tintColor" : "775E0C",
       "version" : "7.5.2",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54598,7 +54598,7 @@
       "subtitle" : "Personal booru-style media tagger to organize your media",
       "tintColor" : "000000",
       "version" : "502",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59703,7 +59703,7 @@
       },
       "subtitle" : "Client for the Dropbox cloud storage service",
       "version" : "159.4.5870",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60446,7 +60446,7 @@
       },
       "subtitle" : "Official CLI tool for Concourse CI",
       "version" : "7.8.3",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60860,7 +60860,7 @@
       },
       "subtitle" : "GraphQL client",
       "version" : "5.0.2",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -64032,7 +64032,7 @@
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
       "version" : "2022.4.1,2022-10-12-23-19",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -65760,7 +65760,7 @@
       },
       "subtitle" : "Universal chat app powered by Matrix, unifying 15 different chat networks",
       "version" : "3.28.32",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -67678,7 +67678,7 @@
       },
       "subtitle" : "WebGL target support for Unity",
       "version" : "2022.1.20f1,01d83b40d570",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -68640,7 +68640,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.30",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69077,7 +69077,7 @@
       },
       "subtitle" : "Play Digital Cinema Packages",
       "version" : "2.16.30",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69550,7 +69550,7 @@
       },
       "subtitle" : "Android target support for Unity",
       "version" : "2022.1.20f1,01d83b40d570",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -69738,7 +69738,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.30",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -70609,7 +70609,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.30",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -71503,7 +71503,7 @@
       },
       "subtitle" : "Convert video, audio and subtitles into DCP (Digital Cinema Democratized)",
       "version" : "2.16.30",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72373,7 +72373,7 @@
       },
       "subtitle" : "iOS target support for Unity",
       "version" : "2022.1.20f1,01d83b40d570",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -72391,7 +72391,7 @@
       },
       "subtitle" : "Windows (Mono) target support for Unity",
       "version" : "2022.1.20f1,01d83b40d570",
-      "versionDate" : "2022-10-13T05:01:04Z"
+      "versionDate" : "2022-10-13T00:00:00Z"
     },
     {
       "beta" : false,

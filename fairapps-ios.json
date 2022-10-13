@@ -178,7 +178,7 @@
         "coreSize" : 168592,
         "downloadCount" : 50,
         "forkCount" : 0,
-        "impressionCount" : 100,
+        "impressionCount" : 101,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 9,
@@ -255,7 +255,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
+      "sha256" : "45f7ff42a8adccc4a88280bbd29d6d339a27ce6abff983dc5ca3b3d178e7d4fc",
       "size" : 3820123,
       "stats" : {
         "coreSize" : 168592,
@@ -487,7 +487,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "e38e987dc0f6c79ce9e593ba91f69a54087752702055f5cb1a7116573d7214d7",
+      "sha256" : "8a1d9815b88c644bc315641497a7e274359f7e9e47f40b42bb33bc8a4f8cc83c",
       "size" : 21953751,
       "stats" : {
         "coreSize" : 168592,
@@ -1070,7 +1070,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "5d0566f88d266a9572663ce5cbce0a1389e215e89d4b675a365be83723607d17",
+      "sha256" : "8069f9a6adecd7845af23f502994a6e594805279a73f22046be5fef3bbed6346",
       "size" : 1604973,
       "stats" : {
         "coreSize" : 168592,

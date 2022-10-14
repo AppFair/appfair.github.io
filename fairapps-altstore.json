@@ -28,7 +28,7 @@
         "coreSize": 168592,
         "downloadCount": 103,
         "forkCount": 0,
-        "impressionCount": 627,
+        "impressionCount": 628,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 72,
@@ -115,10 +115,10 @@
         "coreSize": 170224,
         "downloadCount": 3,
         "forkCount": 0,
-        "impressionCount": 987,
+        "impressionCount": 988,
         "issueCount": 0,
         "starCount": 1,
-        "viewCount": 81,
+        "viewCount": 82,
         "watcherCount": 0
       },
       "subtitle": "An electronic book reader",
@@ -143,7 +143,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_03-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256": "252589b1a411d0ce858e966837e2bdcdfbb4f38f7e9905671fbda9da08f2e5a3",
+      "sha256": "0956b16a2a3a533dabe44f002ffb184b01126e06bf3285e7a6aa4bb3a7ae6243",
       "size": 1750395,
       "stats": {
         "coreSize": 168592,

@@ -99,7 +99,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 334,
+        "impressionCount" : 335,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 28,
@@ -178,10 +178,10 @@
         "coreSize" : 168592,
         "downloadCount" : 50,
         "forkCount" : 0,
-        "impressionCount" : 115,
+        "impressionCount" : 117,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 13,
+        "viewCount" : 14,
         "watcherCount" : 0
       },
       "subtitle" : "An SDUI fairground",
@@ -221,7 +221,7 @@
         "coreSize" : 170224,
         "downloadCount" : 35,
         "forkCount" : 0,
-        "impressionCount" : 244,
+        "impressionCount" : 246,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 19,
@@ -250,7 +250,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "8a1d9815b88c644bc315641497a7e274359f7e9e47f40b42bb33bc8a4f8cc83c",
+      "sha256" : "397a3f7245d9ac74c4d9a93200954b1c8d39a0d987efc617e5bce09f707e6214",
       "size" : 21953751,
       "stats" : {
         "coreSize" : 168592,
@@ -1196,6 +1196,42 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.330/screenshot_01-iphone-750x1334.png"
+      ],
+      "sha256" : "1bc317cbbdbb72b2cf0509b820922216863dd3c8ae61a284950a671ce3f3e168",
+      "size" : 1750395,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 2,
+        "forkCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "FACC6A",
+      "version" : "0.9.330",
+      "versionDate" : "2022-10-14T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.329...0.9.330"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Bon-Mot",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -1223,7 +1259,7 @@
         "coreSize" : 170240,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 466,
+        "impressionCount" : 468,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 21,

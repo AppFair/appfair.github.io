@@ -25,10 +25,10 @@ tr:nth-child(even) {
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `103` | `2022-09-01T00:00:00Z` | `18 MB` | `626` | `72` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460β`` | `96` | `2022-10-06T00:00:00Z` | `9.4 MB` | `7` | `2` | `1` | `0` |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `334` | `28` | `0` | `0` |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `335` | `28` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3820` | `274` | `0` | `0` |  |
-| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `50` | `2022-10-04T00:00:00Z` | `3.8 MB` | `115` | `13` | `0` | `0` |  |
-| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `244` | `19` | `0` | `0` |  |
+| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `50` | `2022-10-04T00:00:00Z` | `3.8 MB` | `117` | `14` | `0` | `0` |  |
+| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `246` | `19` | `0` | `0` |  |
 | [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `32` | `2022-10-12T00:00:00Z` | `22 MB` | `8` | `1` | `0` | `0` |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.4β`` | `31` | `2022-10-06T00:00:00Z` | `3.8 MB` | `5` | `1` | `0` | `0` |  |
 | [``App Fair``](https://appfair.app) | ``0.8.118`` | `29` | `2022-09-13T00:00:00Z` | `19 MB` | `626` | `92` | `29` | [``6``](https://github.com/App-Fair/App/issues) |  |
@@ -56,7 +56,8 @@ tr:nth-child(even) {
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `3` | `2022-08-27T00:00:00Z` | `1.46 GB` | `932` | `43` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `3` | `2022-08-27T00:00:00Z` | `8.8 MB` | `986` | `81` | `1` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `663` | `42` | `0` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `2` | `2022-09-23T00:00:00Z` | `10.5 MB` | `466` | `21` | `2` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.330β`` | `2` | `2022-10-14T00:00:00Z` | `1.8 MB` | `1` | `1` | `2` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `2` | `2022-09-23T00:00:00Z` | `10.5 MB` | `468` | `21` | `2` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1099` | `78` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `1117` | `61` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `828` | `61` | `0` | `0` |  |

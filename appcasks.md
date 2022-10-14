@@ -23,15 +23,15 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.4`` | `17` |  |  | `3664` | `289` |  | `0` | `public.app-category.developer-tools` |
-| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.8`` | `8` |  |  | `3564` | `298` |  | `0` | `public.app-category.productivity` |
+| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.4`` | `17` |  |  | `3665` | `289` |  | `0` | `public.app-category.developer-tools` |
+| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.8`` | `8` |  |  | `3565` | `298` |  | `0` | `public.app-category.productivity` |
 | [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `11` | `2022-08-06T00:00:00Z` |  |  | `131` |  | `0` | `public.app-category.utilities` |
-| [``Mimestream``](https://mimestream.com/) | ``0.38.1`` | `236` | `2022-10-05T00:00:00Z` |  | `485` | `36` |  | `0` |  |
-| [``Zulip``](https://zulipchat.com/apps/) | ``5.9.3`` | `77` |  |  | `365` |  |  | `0` | `public.app-category.productivity` |
-| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `4` | `2022-07-14T00:00:00Z` |  | `207` |  |  | `0` | `public.app-category.developer-tools` |
-| [``ZXPInstaller``](https://zxpinstaller.com/) | ``1.8.2`` | `3` |  |  | `208` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `782` | `2022-10-05T00:00:00Z` |  | `184` |  |  | `0` |  |
-| [``ZTerm``](https://www.dalverson.com/zterm/) | ``1.2`` | `0` |  |  | `123` |  |  | `0` |  |
+| [``Mimestream``](https://mimestream.com/) | ``0.38.1`` | `236` | `2022-10-05T00:00:00Z` |  | `486` | `36` |  | `0` |  |
+| [``Zulip``](https://zulipchat.com/apps/) | ``5.9.3`` | `77` |  |  | `367` |  |  | `0` | `public.app-category.productivity` |
+| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `4` | `2022-07-14T00:00:00Z` |  | `209` |  |  | `0` | `public.app-category.developer-tools` |
+| [``ZXPInstaller``](https://zxpinstaller.com/) | ``1.8.2`` | `3` |  |  | `210` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `782` | `2022-10-05T00:00:00Z` |  | `185` |  |  | `0` |  |
+| [``ZTerm``](https://www.dalverson.com/zterm/) | ``1.2`` | `0` |  |  | `124` |  |  | `0` |  |
 | [``Azul Zulu Java Standard …``](https://www.azul.com/downloads/) | ``19.0.0,19.28.81-ca`` | `433` | `2022-09-21T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Zwift``](https://www.zwift.com/) | ``1.0,25`` | `40` |  |  |  |  |  | `0` |  |
 | [``zprint``](https://github.com/kkinnear/zprint) | ``1.2.4`` | `20` | `2022-08-03T00:00:00Z` |  |  |  |  | `0` |  |

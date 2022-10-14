@@ -27,7 +27,7 @@ tr:nth-child(even) {
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `127` | `2022-09-01T00:00:00Z` | `9.6 MB` | `636` | `72` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460β`` | `97` | `2022-10-06T00:00:00Z` | `13.7 MB` | `7` | `2` | `1` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `346` | `29` | `0` | `0` |  |
-| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `49` | `2022-10-04T00:00:00Z` | `7.3 MB` | `122` | `15` | `0` | `0` |  |
+| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `49` | `2022-10-04T00:00:00Z` | `7.3 MB` | `123` | `15` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `43` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5226` | `811` | `1` | `0` |  |
 | [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `35` | `2022-10-12T00:00:00Z` | `26.5 MB` | `8` | `1` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `33` | `2022-09-03T00:00:00Z` | `2.2 MB` | `964` | `90` | `0` | `0` |  |

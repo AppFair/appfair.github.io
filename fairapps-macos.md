@@ -36,7 +36,6 @@ tr:nth-child(even) {
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `815` | `76` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `26` | `2022-09-23T00:00:00Z` | `3.2 MB` | `7` | `2` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `879` | `66` | `0` | `0` |  |
-| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.4β`` | `25` | `2022-10-06T00:00:00Z` | `7.3 MB` | `5` | `1` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `3868` | `278` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `4152` | `631` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1101` | `93` | `0` | `0` |  |

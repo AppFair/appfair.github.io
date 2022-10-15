@@ -26,11 +26,11 @@ tr:nth-child(even) {
 | [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.4`` | `16` |  |  | `3710` | `293` |  | `0` | `public.app-category.developer-tools` |
 | [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.8`` | `6` |  |  | `3607` | `301` |  | `0` | `public.app-category.productivity` |
 | [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `11` | `2022-08-06T00:00:00Z` |  |  | `137` |  | `0` | `public.app-category.utilities` |
-| [``Mimestream``](https://mimestream.com/) | ``0.38.1`` | `231` | `2022-10-05T00:00:00Z` |  | `528` | `41` |  | `0` |  |
+| [``Mimestream``](https://mimestream.com/) | ``0.38.1`` | `231` | `2022-10-05T00:00:00Z` |  | `530` | `41` |  | `0` |  |
 | [``Zulip``](https://zulipchat.com/apps/) | ``5.9.3`` | `78` |  |  | `410` |  |  | `0` | `public.app-category.productivity` |
 | [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `4` | `2022-07-14T00:00:00Z` |  | `249` |  |  | `0` | `public.app-category.developer-tools` |
 | [``ZXPInstaller``](https://zxpinstaller.com/) | ``1.8.2`` | `3` |  |  | `252` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `786` | `2022-10-05T00:00:00Z` |  | `230` |  |  | `0` |  |
+| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `786` | `2022-10-05T00:00:00Z` |  | `232` |  |  | `0` |  |
 | [``ZTerm``](https://www.dalverson.com/zterm/) | ``1.2`` | `1` |  |  | `162` |  |  | `0` |  |
 | [``Azul Zulu Java Standard …``](https://www.azul.com/downloads/) | ``19.0.0,19.28.81-ca`` | `426` | `2022-09-21T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Zwift``](https://www.zwift.com/) | ``1.0,25`` | `42` |  |  |  |  |  | `0` |  |

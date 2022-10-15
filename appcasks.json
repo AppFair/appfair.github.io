@@ -112,7 +112,7 @@
       "sha256" : "7ca075cebb5c36a02c40babf0a2d5e148ac4294935f45430e22476c369eb05b5",
       "stats" : {
         "downloadCount" : 231,
-        "impressionCount" : 528,
+        "impressionCount" : 530,
         "viewCount" : 41
       },
       "subtitle" : "Native app email client for Gmail",
@@ -194,7 +194,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 230
+        "impressionCount" : 232
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",

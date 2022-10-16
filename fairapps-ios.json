@@ -28,7 +28,7 @@
         "coreSize" : 168592,
         "downloadCount" : 119,
         "forkCount" : 0,
-        "impressionCount" : 680,
+        "impressionCount" : 684,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 76,
@@ -62,7 +62,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "2a18efa90ff145a4c509b3c96e495518cd97844d784a62adcb6fc4dd5e1c0776",
+      "sha256" : "d1737ef2f18a320e1fffc36b6a3ac3922bc9cb8bd21593dc7a8bc0dbe9263f79",
       "size" : 9442810,
       "stats" : {
         "coreSize" : 168592,
@@ -99,7 +99,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 404,
+        "impressionCount" : 408,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 36,
@@ -109,45 +109,6 @@
       "version" : "0.0.30",
       "versionDate" : "2022-09-26T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.29...0.0.30"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-iphone-1334x750.png"
-      ],
-      "sha256" : "23a83ecf71649f49ba98384b7640ed5e3fa3ea3733e5d87ea79e8ba148cfa589",
-      "size" : 5381927,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 54,
-        "forkCount" : 0,
-        "impressionCount" : 3875,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 278,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.20",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
       "beta" : false,
@@ -176,9 +137,9 @@
       "size" : 3790386,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 52,
+        "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 149,
+        "impressionCount" : 151,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 20,
@@ -188,6 +149,45 @@
       "version" : "0.0.3",
       "versionDate" : "2022-10-04T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.20/screenshot_02-iphone-1334x750.png"
+      ],
+      "sha256" : "23a83ecf71649f49ba98384b7640ed5e3fa3ea3733e5d87ea79e8ba148cfa589",
+      "size" : 5381927,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 54,
+        "forkCount" : 0,
+        "impressionCount" : 3878,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 278,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.20",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
     },
     {
       "beta" : true,
@@ -211,7 +211,7 @@
       "size" : 21953751,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 51,
+        "downloadCount" : 53,
         "forkCount" : 0,
         "impressionCount" : 18,
         "issueCount" : 0,
@@ -257,7 +257,7 @@
         "coreSize" : 170224,
         "downloadCount" : 35,
         "forkCount" : 0,
-        "impressionCount" : 281,
+        "impressionCount" : 283,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 21,
@@ -319,7 +319,7 @@
         "coreSize" : 169040,
         "downloadCount" : 29,
         "forkCount" : 1,
-        "impressionCount" : 673,
+        "impressionCount" : 674,
         "issueCount" : 6,
         "starCount" : 29,
         "viewCount" : 99,
@@ -350,7 +350,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 827,
+        "impressionCount" : 830,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 77,
@@ -380,7 +380,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 1015,
+        "impressionCount" : 1019,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 95,
@@ -454,7 +454,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 885,
+        "impressionCount" : 888,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 66,
@@ -526,7 +526,7 @@
       "size" : 1731119,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 9,
+        "downloadCount" : 11,
         "forkCount" : 1,
         "impressionCount" : 7,
         "issueCount" : 0,
@@ -682,7 +682,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3378,
+        "impressionCount" : 3381,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 194,
@@ -692,6 +692,46 @@
       "version" : "0.0.16",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.World-Fair",
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-iOS.ipa",
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read and write files in order to…"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "1c0a14ade9bf7661d647e976229b80d8e3aec59ff61fc9c736372c678c62e08f",
+      "size" : 4158936,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 6,
+        "forkCount" : 0,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.4",
+      "versionDate" : "2022-10-15T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
     },
     {
       "beta" : true,
@@ -781,7 +821,7 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 822,
+        "impressionCount" : 824,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 51,
@@ -959,46 +999,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.World-Fair",
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-iOS.ipa",
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read and write files in order to…"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
-      "size" : 4158936,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 4,
-        "forkCount" : 0,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.4",
-      "versionDate" : "2022-10-15T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-iOS.ipa",
@@ -1116,7 +1116,7 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 533,
+        "impressionCount" : 536,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 22,
@@ -1147,7 +1147,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 797,
+        "impressionCount" : 800,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 65,
@@ -1183,7 +1183,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 990,
+        "impressionCount" : 994,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 46,
@@ -1229,7 +1229,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1045,
+        "impressionCount" : 1048,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 90,
@@ -1290,7 +1290,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1151,
+        "impressionCount" : 1153,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 79,
@@ -1320,7 +1320,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1172,
+        "impressionCount" : 1177,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 64,
@@ -1350,7 +1350,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 872,
+        "impressionCount" : 874,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,

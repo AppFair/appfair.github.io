@@ -90,7 +90,7 @@
       ],
       "sha256" : "d9ee2504859f86287c3adfb45318c1868f1ec9d9fecff8a43db245541aef08b5",
       "stats" : {
-        "downloadCount" : 11,
+        "downloadCount" : 12,
         "viewCount" : 137
       },
       "subtitle" : "Spam filtering extension for e-mail clients",
@@ -111,8 +111,8 @@
       "readmeURL" : "https://github.com/mimestream/appcasks/releases/download/cask-mimestream/README.md",
       "sha256" : "7ca075cebb5c36a02c40babf0a2d5e148ac4294935f45430e22476c369eb05b5",
       "stats" : {
-        "downloadCount" : 231,
-        "impressionCount" : 535,
+        "downloadCount" : 228,
+        "impressionCount" : 537,
         "viewCount" : 41
       },
       "subtitle" : "Native app email client for Gmail",
@@ -132,7 +132,7 @@
       "name" : "Zulip",
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
-        "downloadCount" : 78,
+        "downloadCount" : 82,
         "impressionCount" : 417
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
@@ -193,8 +193,8 @@
       "name" : "Zotero",
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
-        "downloadCount" : 786,
-        "impressionCount" : 236
+        "downloadCount" : 779,
+        "impressionCount" : 238
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -233,7 +233,7 @@
       "name" : "Azul Zulu Java Standard Edition Development Kit",
       "sha256" : "a8e4ac921b1ae4d8aa812ee09c40096e4c23b6bb3d6ee1f7744d80c97e700e79",
       "stats" : {
-        "downloadCount" : 426
+        "downloadCount" : 421
       },
       "subtitle" : "OpenJDK distribution from Azul",
       "version" : "19.0.0,19.28.81-ca",
@@ -249,7 +249,7 @@
       "homepage" : "https://www.zwift.com/",
       "name" : "Zwift",
       "stats" : {
-        "downloadCount" : 42
+        "downloadCount" : 40
       },
       "version" : "1.0,25"
     },
@@ -265,7 +265,7 @@
       "name" : "zprint",
       "sha256" : "ce8cf67d64827ec83c784e1f9fa2077aa084de1792738763372150ee33304022",
       "stats" : {
-        "downloadCount" : 19
+        "downloadCount" : 17
       },
       "subtitle" : "Library to reformat Clojure and Clojurescript source code and s-expressions",
       "version" : "1.2.4",
@@ -283,7 +283,7 @@
       "name" : "ZuluFX",
       "sha256" : "3453d2a63590a54ab5486a1ad0c1ea79a3367ab41a779e185b5dbe7226d411d6",
       "stats" : {
-        "downloadCount" : 18
+        "downloadCount" : 15
       },
       "subtitle" : "Azul ZuluFX Java Standard Edition Development Kit",
       "version" : "17.0.4.1,17.36.17-ca",

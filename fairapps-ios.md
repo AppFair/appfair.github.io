@@ -26,7 +26,7 @@ tr:nth-child(even) {
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `119` | `2022-09-01T00:00:00Z` | `18 MB` | `704` | `76` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460β`` | `113` | `2022-10-06T00:00:00Z` | `9.4 MB` | `7` | `2` | `1` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `428` | `37` | `0` | `0` |  |
-| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `54` | `2022-10-04T00:00:00Z` | `3.8 MB` | `161` | `20` | `0` | `0` |  |
+| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `54` | `2022-10-04T00:00:00Z` | `3.8 MB` | `162` | `20` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3896` | `278` | `0` | `0` |  |
 | [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `53` | `2022-10-12T00:00:00Z` | `22 MB` | `19` | `1` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `299` | `21` | `0` | `0` |  |

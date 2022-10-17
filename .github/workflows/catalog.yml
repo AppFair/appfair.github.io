@@ -233,7 +233,7 @@ jobs:
             --news-items 100 \
             -o appfair.github.io/appcasks_new.json
 
-          mv appfair.github.io/appcasks_new.json appfair.github.io/appcasks.json
+          echo mv appfair.github.io/appcasks_new.json appfair.github.io/appcasks.json
 
           cd appfair.github.io/
           git add appcasks.json appcasks.md

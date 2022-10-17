@@ -23,18 +23,18 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.4`` | `16` |  |  | `3769` | `299` |  | `0` | `public.app-category.developer-tools` |
-| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.8`` | `6` |  |  | `3670` | `304` |  | `0` | `public.app-category.productivity` |
-| [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `12` | `2022-08-06T00:00:00Z` |  |  | `138` |  | `0` | `public.app-category.utilities` |
-| [``Mimestream``](https://mimestream.com/) | ``0.38.1`` | `228` | `2022-10-05T00:00:00Z` |  | `592` | `44` |  | `0` |  |
-| [``Zulip``](https://zulipchat.com/apps/) | ``5.9.3`` | `82` |  |  | `471` |  |  | `0` | `public.app-category.productivity` |
-| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `4` | `2022-07-14T00:00:00Z` |  | `292` |  |  | `0` | `public.app-category.developer-tools` |
-| [``ZXPInstaller``](https://zxpinstaller.com/) | ``1.8.2`` | `3` |  |  | `303` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `779` | `2022-10-05T00:00:00Z` |  | `291` |  |  | `0` |  |
-| [``ZTerm``](https://www.dalverson.com/zterm/) | ``1.2`` | `1` |  |  | `215` |  |  | `0` |  |
-| [``Azul Zulu Java Standard …``](https://www.azul.com/downloads/) | ``19.0.0,19.28.81-ca`` | `421` | `2022-09-21T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Zwift``](https://www.zwift.com/) | ``1.0,25`` | `40` |  |  |  |  |  | `0` |  |
-| [``zprint``](https://github.com/kkinnear/zprint) | ``1.2.4`` | `17` | `2022-08-03T00:00:00Z` |  |  |  |  | `0` |  |
-| [``ZuluFX``](https://www.azul.com/downloads/) | ``17.0.4.1,17.36.17-ca`` | `15` | `2022-08-24T00:00:00Z` |  |  |  |  | `0` |  |
+| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.4`` | `15` |  |  | `3780` | `300` |  | `0` | `public.app-category.developer-tools` |
+| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.8`` | `7` |  |  | `3681` | `305` |  | `0` | `public.app-category.productivity` |
+| [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `12` | `2022-08-06T00:00:00Z` |  |  | `139` |  | `0` | `public.app-category.utilities` |
+| [``Mimestream``](https://mimestream.com/) | ``0.39.0`` | `218` | `2022-10-17T03:03:15Z` |  | `606` | `46` |  | `0` |  |
+| [``Zulip``](https://zulipchat.com/apps/) | ``5.9.3`` | `82` |  |  | `480` |  |  | `0` | `public.app-category.productivity` |
+| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `4` | `2022-07-14T00:00:00Z` |  | `301` |  |  | `0` | `public.app-category.developer-tools` |
+| [``ZXPInstaller``](https://zxpinstaller.com/) | ``1.8.2`` | `3` |  |  | `317` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `782` | `2022-10-05T00:00:00Z` |  | `301` |  |  | `0` |  |
+| [``ZTerm``](https://www.dalverson.com/zterm/) | ``1.2`` | `1` |  |  | `226` |  |  | `0` |  |
+| [``Azul Zulu Java Standard …``](https://www.azul.com/downloads/) | ``19.0.0,19.28.81-ca`` | `408` | `2022-09-21T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Zwift``](https://www.zwift.com/) | ``1.0,25`` | `43` |  |  |  |  |  | `0` |  |
+| [``zprint``](https://github.com/kkinnear/zprint) | ``1.2.4`` | `16` | `2022-08-03T00:00:00Z` |  |  |  |  | `0` |  |
+| [``ZuluFX``](https://www.azul.com/downloads/) | ``17.0.4.1,17.36.17-ca`` | `14` | `2022-08-24T00:00:00Z` |  |  |  |  | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

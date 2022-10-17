@@ -87,6 +87,7 @@ jobs:
           echo "FAIRTOOL_TWITTER_TOKEN_SECRET=${{ secrets.APP_FAIR_TWITTER_TOKEN_SECRET }}" >> $GITHUB_ENV
 
       - name: Generate macOS catalog
+        if: false # disabled to appcasks testing
         run: |
           cp appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json && touch appfair.github.io/fairapps-macos_old.json
           $FAIRTOOL fair catalog \
@@ -141,6 +142,7 @@ jobs:
           cd -
 
       - name: Generate iOS catalog
+        if: false # disabled to appcasks testing
         run: |
           cp appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios_old.json && touch appfair.github.io/appcasks_old.json
           $FAIRTOOL fair catalog \

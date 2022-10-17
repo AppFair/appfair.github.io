@@ -25,9 +25,9 @@ tr:nth-child(even) {
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `119` | `2022-09-01T00:00:00Z` | `18 MB` | `723` | `78` | `1` | `0` |  |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.460β`` | `113` | `2022-10-06T00:00:00Z` | `9.4 MB` | `7` | `2` | `1` | `0` |  |
+| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `59` | `2022-10-04T00:00:00Z` | `3.8 MB` | `175` | `22` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `450` | `41` | `0` | `0` |  |
-| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `57` | `2022-10-04T00:00:00Z` | `3.8 MB` | `175` | `22` | `0` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `56` | `2022-10-12T00:00:00Z` | `22 MB` | `25` | `1` | `0` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `58` | `2022-10-12T00:00:00Z` | `22 MB` | `25` | `1` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3912` | `279` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `316` | `23` | `0` | `0` |  |
 | [``App Fair``](https://appfair.app) | ``0.8.118`` | `29` | `2022-09-13T00:00:00Z` | `19 MB` | `714` | `104` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
@@ -36,8 +36,8 @@ tr:nth-child(even) {
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `25` | `2022-09-23T00:00:00Z` | `7.8 MB` | `7` | `2` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `917` | `67` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `13` | `1` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.331β`` | `14` | `2022-10-14T00:00:00Z` | `1.7 MB` | `12` | `3` | `2` | `0` |  |
-| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.4β`` | `9` | `2022-10-15T00:00:00Z` | `4.2 MB` | `3` | `2` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.331β`` | `16` | `2022-10-14T00:00:00Z` | `1.7 MB` | `12` | `3` | `2` | `0` |  |
+| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.4β`` | `11` | `2022-10-15T00:00:00Z` | `4.2 MB` | `4` | `2` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1723` | `95` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `513` | `9` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.8β`` | `9` | `2021-12-06T00:00:00Z` | `5.8 MB` | `384` | `20` | `0` | `0` |  |

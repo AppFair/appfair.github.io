@@ -217,7 +217,7 @@ jobs:
             -o appfair.github.io/appcasks.json
 
           # update the catalog to generate the markdown and news items 
-          echo $FAIRTOOL source postrelease \
+          $FAIRTOOL source postrelease \
             --from-catalog appfair.github.io/appcasks_old.json \
             --to-catalog appfair.github.io/appcasks.json \
             --markdown-index appfair.github.io/appcasks.md \
@@ -233,7 +233,7 @@ jobs:
             --news-items 100 \
             -o appfair.github.io/appcasks_new.json
 
-          echo mv appfair.github.io/appcasks_new.json appfair.github.io/appcasks.json
+          mv appfair.github.io/appcasks_new.json appfair.github.io/appcasks.json
 
           cd appfair.github.io/
           git add appcasks.json appcasks.md

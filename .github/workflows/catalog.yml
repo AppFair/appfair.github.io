@@ -90,6 +90,7 @@ jobs:
       - name: Generate macOS catalog
         if: false # disabled to appcasks testing
         run: |
+          eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
           cp appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json && touch appfair.github.io/fairapps-macos_old.json
           $FAIRTOOL fair catalog \
             --verbose \
@@ -145,6 +146,7 @@ jobs:
       - name: Generate iOS catalog
         if: false # disabled to appcasks testing
         run: |
+          eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
           cp appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios_old.json && touch appfair.github.io/appcasks_old.json
           $FAIRTOOL fair catalog \
             --verbose \
@@ -196,6 +198,7 @@ jobs:
 
       - name: Generate appcasks catalog
         run: |
+          eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
           cp appfair.github.io/appcasks.json appfair.github.io/appcasks_old.json && touch appfair.github.io/appcasks_old.json
           $FAIRTOOL brew appcasks \
             --verbose \

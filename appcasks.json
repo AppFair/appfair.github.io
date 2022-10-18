@@ -11737,16 +11737,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "portx",
-      "downloadURL" : "https://cdn.netsarang.net/0ac7ea20/PortX-2.1.5-x64.dmg",
+      "downloadURL" : "https://cdn.netsarang.net/0ac7ea20/PortX-2.1.6-x64.dmg",
       "homepage" : "https://portx.online/",
       "localizedDescription" : "SSH Client",
       "name" : "portx",
-      "sha256" : "1402fc53b25423de5946c502ad1a945c1256ea487dadcba0c1bf45e17d958ca2",
+      "sha256" : "f6aef7981a9ef548d86daa9cf369e0b5d24f9ef075ca154ddb7e9feef66cfc9d",
       "stats" : {
         "downloadCount" : 79
       },
       "subtitle" : "SSH Client",
-      "version" : "2.1.5,10.33"
+      "version" : "2.1.6,10.34",
+      "versionDate" : "2022-10-18T10:36:33Z"
     },
     {
       "beta" : false,
@@ -24640,16 +24641,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "sleek",
-      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.6/sleek-1.2.6-mac.dmg",
+      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.7/sleek-1.2.7-mac.dmg",
       "homepage" : "https://github.com/ransome1/sleek",
       "localizedDescription" : "Todo manager based on the todo.txt syntax",
       "name" : "sleek",
-      "sha256" : "cf5b285dd85d279ec453a6ead3c4ea48e8891d33b7d9ef44a5b48364bac4154e",
+      "sha256" : "efa8d30dde716939451bcbd5da768628392a318e35455bc671e0ce97a0ad6b74",
       "stats" : {
         "downloadCount" : 17
       },
       "subtitle" : "Todo manager based on the todo.txt syntax",
-      "version" : "1.2.6"
+      "version" : "1.2.7",
+      "versionDate" : "2022-10-18T10:36:33Z"
     },
     {
       "beta" : false,
@@ -56239,6 +56241,20 @@
       "date" : "2022-10-18T04:59:51Z",
       "identifier" : "release-purei-play-2022-10-17,1126c39c",
       "title" : "New Release: Play! 2022-10-17,1126c39c"
+    },
+    {
+      "appID" : "portx",
+      "caption" : "portx updated from 2.1.5,10.33 to 2.1.6,10.34",
+      "date" : "2022-10-18T10:36:34Z",
+      "identifier" : "release-portx-2.1.6,10.34",
+      "title" : "New Release: portx 2.1.6,10.34"
+    },
+    {
+      "appID" : "sleek",
+      "caption" : "sleek updated from 1.2.6 to 1.2.7",
+      "date" : "2022-10-18T10:36:34Z",
+      "identifier" : "release-sleek-1.2.7",
+      "title" : "New Release: sleek 1.2.7"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

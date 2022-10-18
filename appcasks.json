@@ -26,8 +26,8 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3825,
-        "viewCount" : 306
+        "impressionCount" : 3828,
+        "viewCount" : 307
       },
       "subtitle" : "Create DMGs and other archives",
       "version" : "3.6.5",
@@ -60,7 +60,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3717,
+        "impressionCount" : 3720,
         "viewCount" : 309
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -127,8 +127,8 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 239,
-        "impressionCount" : 651,
-        "viewCount" : 50
+        "impressionCount" : 654,
+        "viewCount" : 51
       },
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.39.0"
@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 84,
-        "impressionCount" : 514
+        "impressionCount" : 515
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -167,7 +167,7 @@
       "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 344
+        "impressionCount" : 346
       },
       "subtitle" : "Video resource player",
       "tintColor" : "C4F09A",
@@ -187,7 +187,7 @@
       "sha256" : "0d42ee30105096529bc89394c67733069c56b2139fd09dea69944d7e188f0972",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 364
+        "impressionCount" : 366
       },
       "subtitle" : "Adobe extensions installer",
       "tintColor" : "792A32",
@@ -249,7 +249,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 339
+        "impressionCount" : 340
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -554,16 +554,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "anaconda",
-      "downloadURL" : "https://repo.anaconda.com/archive/Anaconda3-2022.05-MacOSX-x86_64.sh",
+      "downloadURL" : "https://repo.anaconda.com/archive/Anaconda3-2022.10-MacOSX-x86_64.sh",
       "homepage" : "https://www.anaconda.com/",
       "localizedDescription" : "Distribution of the Python and R programming languages for scientific computing",
       "name" : "Continuum Analytics Anaconda",
-      "sha256" : "1a10c06660ebe1204e538b4e9d810142441af9dfd74b077eee2761ec6e675f39",
+      "sha256" : "dfcd1431a8206506799cb142b04d2db3be8a28671e5c3672920c09c71246dde0",
       "stats" : {
         "downloadCount" : 6384
       },
       "subtitle" : "Distribution of the Python and R programming languages for scientific computing",
-      "version" : "2022.05"
+      "version" : "2022.10",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -3479,16 +3480,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "evernote",
-      "downloadURL" : "https://cdn1.evernote.com/boron/mac/builds/Evernote-10.46.7-mac-ddl-ga-3701-b2719bc136.dmg",
+      "downloadURL" : "https://cdn1.evernote.com/boron/mac/builds/Evernote-10.47.7-mac-ddl-ga-3730-6a6a498bc7.dmg",
       "homepage" : "https://evernote.com/",
       "localizedDescription" : "App for note taking, organizing, task lists, and archiving",
       "name" : "Evernote",
-      "sha256" : "4cf5c91f6fdba751223640dfbc6ab0848cec829c825ba5c18994b2bd4a4683a4",
+      "sha256" : "da700a05a5c7052d1b8c0df358da4412c06b21082cbd20460a88ea026adb8b3b",
       "stats" : {
         "downloadCount" : 574
       },
       "subtitle" : "App for note taking, organizing, task lists, and archiving",
-      "version" : "10.46.7,3701,b2719bc136"
+      "version" : "10.47.7,3730,6a6a498bc7",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -4248,8 +4250,8 @@
         "downloadCount" : 432
       },
       "subtitle" : "Native desktop app for Messenger (formerly Facebook Messenger)",
-      "version" : "164.0.0.8.109,406707321",
-      "versionDate" : "2022-10-17T00:00:00Z"
+      "version" : "165.0.0.16.91,409052131",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -5266,16 +5268,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "microsoft-azure-storage-explorer",
-      "downloadURL" : "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.26.0/Mac_StorageExplorer.zip",
+      "downloadURL" : "https://github.com/microsoft/AzureStorageExplorer/releases/download/v1.26.1/Mac_StorageExplorer.zip",
       "homepage" : "https://azure.microsoft.com/en-us/features/storage-explorer/",
       "localizedDescription" : "Explorer for Azure Storage",
       "name" : "Microsoft Azure Storage Explorer",
-      "sha256" : "cb06639e2c9abd6135cdd0ad439fb8bb40a58a61bf9f22a6ee1ef1246c55b8ec",
+      "sha256" : "c2e456d7c781372ab9e4c5cb427e2bb8b7dd248abb5b4771b7963e69d6a52944",
       "stats" : {
         "downloadCount" : 311
       },
       "subtitle" : "Explorer for Azure Storage",
-      "version" : "1.26.0"
+      "version" : "1.26.1",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -6886,20 +6889,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "polymc",
-      "downloadURL" : "https://github.com/PolyMC/PolyMC/releases/download/1.4.2/PolyMC-macOS-1.4.2.tar.gz",
-      "homepage" : "https://polymc.org/",
-      "localizedDescription" : "Minecraft launcher",
-      "name" : "PolyMC",
-      "sha256" : "c2b9faef97c6f01d49343428aea9a28412ba8290c428e8fe7e35a8799dc7766a",
-      "stats" : {
-        "downloadCount" : 192
-      },
-      "subtitle" : "Minecraft launcher",
-      "version" : "1.4.2"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "transmission-remote-gui",
       "downloadURL" : "https://github.com/transmission-remote-gui/transgui/releases/download/v5.18.0/transgui-5.18.0.dmg",
       "homepage" : "https://github.com/transmission-remote-gui/transgui",
@@ -7686,16 +7675,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "sdm",
-      "downloadURL" : "https://downloads.strongdm.com/builds/sdm-gui/15.57.0/darwin/universal/2EE548135F1FC9C9B13808A8522304251FD4D571/SDM-15.57.0.universal.zip",
+      "downloadURL" : "https://downloads.strongdm.com/builds/sdm-gui/15.58.0/darwin/universal/9CEBD65A85DBAD91F1D6296C4122894DC7A91E0D/SDM-15.58.0.universal.zip",
       "homepage" : "https://www.strongdm.com/",
       "localizedDescription" : "Strongdm client",
       "name" : "sdm",
-      "sha256" : "61b47c5509291daafe35c0f73964654a087b63e497964f586e7600d3c5b7c3b4",
+      "sha256" : "27767acb103a90170d8c0b0102f6936e82dde5ba83835ad3b9037ce888b4c937",
       "stats" : {
         "downloadCount" : 162
       },
       "subtitle" : "Strongdm client",
-      "version" : "15.57.0,2EE548135F1FC9C9B13808A8522304251FD4D571"
+      "version" : "15.58.0,9CEBD65A85DBAD91F1D6296C4122894DC7A91E0D",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -9676,16 +9666,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "thunder",
-      "downloadURL" : "https://down.sandai.net/mac/thunder_5.0.2.65551.dmg",
+      "downloadURL" : "https://down.sandai.net/mac/thunder_5.0.3.65598.dmg",
       "homepage" : "https://www.xunlei.com/",
       "localizedDescription" : "VPN and WiFi proxy",
       "name" : "Thunder",
-      "sha256" : "7424c02088ca9f09e69acf276305f7f2007b9f5b3500ae4d4c5feadf01183047",
+      "sha256" : "58a0b7c2caacedee1d0ed2306f81a21aff670e21aac1fb5a283ff4f127f9cfa2",
       "stats" : {
         "downloadCount" : 108
       },
       "subtitle" : "VPN and WiFi proxy",
-      "version" : "5.0.2.65551"
+      "version" : "5.0.3.65598",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -10338,16 +10329,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "steermouse",
-      "downloadURL" : "https://plentycom.jp/ctrl/files_sm/SteerMouse5.6.4.dmg",
+      "downloadURL" : "https://plentycom.jp/ctrl/files_sm/SteerMouse5.6.5.dmg",
       "homepage" : "https://plentycom.jp/en/steermouse/",
       "localizedDescription" : "Customize mouse buttons, wheels and cursor speed",
       "name" : "SteerMouse",
-      "sha256" : "db388f7072c6af4922038a7b5b4c6b59f81391a222e889fd53cebd5c83e96c29",
+      "sha256" : "5380d684a5c38aec0fcc887a5ef1e0994603b07ecb95eb345f4e8754b904410f",
       "stats" : {
         "downloadCount" : 98
       },
       "subtitle" : "Customize mouse buttons, wheels and cursor speed",
-      "version" : "5.6.4"
+      "version" : "5.6.5",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -16468,16 +16460,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "busycal",
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.2-2022-10-16-02-14.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.3-2022-10-18-00-55.zip",
       "homepage" : "https://busymac.com/busycal/index.html",
       "localizedDescription" : "Calendar software focusing on flexibility and reliability",
       "name" : "BusyCal",
-      "sha256" : "da18f71694df46ca0493351bf79c89121f555be8fd2d664ea11a745390f91ac1",
+      "sha256" : "feb359914a63e57e542d8560a86b8f1205dcbedb7ce1cc8edaf5050202a8f85c",
       "stats" : {
         "downloadCount" : 41
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
-      "version" : "2022.4.2,2022-10-16-02-14"
+      "version" : "2022.4.3,2022-10-18-00-55",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -16668,7 +16661,8 @@
         "downloadCount" : 41
       },
       "subtitle" : "Web browser with streamable cloud tabs",
-      "version" : "102.1.41.11,300.16"
+      "version" : "102.1.41.11,300.17",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -17167,16 +17161,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "bike",
-      "downloadURL" : "https://www.hogbaysoftware.com/bike/releases/85.dmg",
+      "downloadURL" : "https://www.hogbaysoftware.com/bike/releases/86.dmg",
       "homepage" : "https://www.hogbaysoftware.com/bike/",
       "localizedDescription" : "Record and process your ideas",
       "name" : "Bike",
-      "sha256" : "13c5439c652abb9b59bcee19fe2247c85767a6193ae00cb44d694c4a8f8b0e94",
+      "sha256" : "2b5f9ea56d06eae36aa614ed40fd2e0c1d1eac3e28c86844110391d438e002e3",
       "stats" : {
         "downloadCount" : 37
       },
       "subtitle" : "Record and process your ideas",
-      "version" : "1.4.2,85"
+      "version" : "1.5,86",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -19863,16 +19858,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "centered",
-      "downloadURL" : "https://d3ni5jxar6n4fz.cloudfront.net/Centered-5.1.0-universal.dmg",
+      "downloadURL" : "https://d3ni5jxar6n4fz.cloudfront.net/Centered-5.2.0-universal.dmg",
       "homepage" : "https://www.centered.app/",
       "localizedDescription" : "Flow state app for productivity",
       "name" : "Centered",
-      "sha256" : "5a191807d4485f6a35af55344277dcd567d3490a66cc5cd1ef563fc5bf263b38",
+      "sha256" : "1b1dcfe136b4bd9aa10730928042a33c720daa48d925d41b7161ef7a3caf8472",
       "stats" : {
         "downloadCount" : 27
       },
       "subtitle" : "Flow state app for productivity",
-      "version" : "5.1.0"
+      "version" : "5.2.0",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -20080,16 +20076,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "silnite",
-      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2022/10/silnite8a.zip",
+      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2022/10/silnite9.zip",
       "homepage" : "https://eclecticlight.co/lockrattler-systhist/",
       "localizedDescription" : "Checks EFI firmware and security data file updates",
       "name" : "silnite",
-      "sha256" : "8a301e41f4a20bf1243d943d4890303eaf1c4bcc26c3067d0a353ea11bbf5a1b",
+      "sha256" : "2622c7f4b382bf830f8dc884d4cb2a6cb676212b9b212c6c0dd87324e753f7c0",
       "stats" : {
         "downloadCount" : 27
       },
       "subtitle" : "Checks EFI firmware and security data file updates",
-      "version" : "8a,2022.10"
+      "version" : "9,2022.10",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -20493,16 +20490,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "app-fair",
-      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.125/App-Fair-macOS.zip",
+      "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.130/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app/",
       "localizedDescription" : "Catalog of free and commercial native desktop applications",
       "name" : "App Fair",
-      "sha256" : "e6a910ff51fd380d8a1cc90681dac75b586bb24a310eaf7fd68d2a8c83d3ec6b",
+      "sha256" : "ff8af58f674e03c8585eab166f81ec0aba426d6f80bdebc8f71c1c715919364c",
       "stats" : {
         "downloadCount" : 25
       },
       "subtitle" : "Catalog of free and commercial native desktop applications",
-      "version" : "0.8.125"
+      "version" : "0.8.130",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -20863,16 +20861,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "dropbox-capture",
-      "downloadURL" : "https://edge.dropboxstatic.com/dbx-releng/products/dropbox-capture/86.0.20/mac.x86_64/Dropbox_Capture.dmg",
+      "downloadURL" : "https://edge.dropboxstatic.com/dbx-releng/products/dropbox-capture/86.0.24/mac.x86_64/Dropbox_Capture.dmg",
       "homepage" : "https://dropbox.com/capture/",
       "localizedDescription" : "Share your work and ideas with video messages and screenshots",
       "name" : "Dropbox Capture",
-      "sha256" : "409d786725320b4fbb151a0c26bcf16a9c97ce6ed825f298d90154d9557dc895",
+      "sha256" : "1948f9e1584201db01427542cf7d2fff7c8d137c3ccf67b23bf03f48ed50bed0",
       "stats" : {
         "downloadCount" : 24
       },
       "subtitle" : "Share your work and ideas with video messages and screenshots",
-      "version" : "86.0.20"
+      "version" : "86.0.24",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -21231,16 +21230,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "descript",
-      "downloadURL" : "https://electron.descript.com/Descript-49.1.1-release.20221005.4.dmg",
+      "downloadURL" : "https://electron.descript.com/Descript-50.1.0-release.20221014.17.dmg",
       "homepage" : "https://www.descript.com/",
       "localizedDescription" : "Audio and video editor",
       "name" : "Descript",
-      "sha256" : "3de61424985518f259affb3fbb9f62d8112168a7e25e57aaef64ad37cb8b6640",
+      "sha256" : "b626a8c1c3253fc5d7e05401b896f309a81b3f9dee85f44209038f40d962f722",
       "stats" : {
         "downloadCount" : 23
       },
       "subtitle" : "Audio and video editor",
-      "version" : "49.1.1-release.20221005.4"
+      "version" : "50.1.0-release.20221014.17",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -21855,7 +21855,8 @@
         "downloadCount" : 22
       },
       "subtitle" : "Audio recording application",
-      "version" : "1.7.9"
+      "version" : "1.7.10",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -27265,16 +27266,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gyroflow",
-      "downloadURL" : "https://github.com/gyroflow/gyroflow/releases/download/v1.2.0/Gyroflow-mac-universal.dmg",
+      "downloadURL" : "https://github.com/gyroflow/gyroflow/releases/download/v1.3.0/Gyroflow-mac-universal.dmg",
       "homepage" : "https://gyroflow.xyz/",
       "localizedDescription" : "Video stabilization using gyroscope data",
       "name" : "Gyroflow",
-      "sha256" : "a1b516ca0f125ff7ac027f4564ac75eaec0a52b5673dd408c3e4d4334440a1ec",
+      "sha256" : "d0c84ecf6dbdd3d71e6c711e8a4aaf2c9a6e9df4eb339627fbf7cf4e3ba04efc",
       "stats" : {
         "downloadCount" : 13
       },
       "subtitle" : "Video stabilization using gyroscope data",
-      "version" : "1.2.0"
+      "version" : "1.3.0",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -27974,16 +27976,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "houdahspot",
-      "downloadURL" : "https://dl.houdah.com/houdahSpot/updates/cast6_assets/HoudahSpot6.2.2.zip",
+      "downloadURL" : "https://dl.houdah.com/houdahSpot/updates/cast6_assets/HoudahSpot6.2.3.zip",
       "homepage" : "https://www.houdah.com/houdahSpot/",
       "localizedDescription" : "File searching application",
       "name" : "HoudahSpot",
-      "sha256" : "e7ed5f0044b042f8e94ad08b4ae953eff753ed0cb03e30f1d0cefd91c16173b8",
+      "sha256" : "dbed8718b7523caa1abcee98bfe6ce9cc185fe5f267f9525eb97141ab84d9c59",
       "stats" : {
         "downloadCount" : 12
       },
       "subtitle" : "File searching application",
-      "version" : "6.2.2,750"
+      "version" : "6.2.3,826",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -28602,7 +28605,8 @@
         "downloadCount" : 11
       },
       "subtitle" : "Play your favorite games straight from the cloud",
-      "version" : "1.7500.5646.0"
+      "version" : "1.7600.5656.0",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -29995,16 +29999,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "busycontacts",
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bct-2022.4.1-2022-10-16-02-00.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bct-2022.4.2-2022-10-18-00-43.zip",
       "homepage" : "https://www.busymac.com/busycontacts/index.html",
       "localizedDescription" : "Contact manager focusing on efficiency",
       "name" : "BusyContacts",
-      "sha256" : "d78b29b3a0a373fb86cda50b500a116ceea189ed75045267656ffce000324a64",
+      "sha256" : "0b22a31437a614a8fe70626e089407b81d4a61d14d2e9412aada33a5c9e8c142",
       "stats" : {
         "downloadCount" : 10
       },
       "subtitle" : "Contact manager focusing on efficiency",
-      "version" : "2022.4.1,2022-10-16-02-00"
+      "version" : "2022.4.2,2022-10-18-00-43",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -35489,16 +35494,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "trainerroad",
-      "downloadURL" : "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2022.36.0.205.dmg",
+      "downloadURL" : "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2022.37.0.206.dmg",
       "homepage" : "https://www.trainerroad.com/",
       "localizedDescription" : "Cycling training system",
       "name" : "TrainerRoad",
-      "sha256" : "395091da0dbe796f35bb72df3045c3f507d7607af97a72cbe4ee2655536008ed",
+      "sha256" : "7c6490903ad601c8978000110ffe873e11a2c31160845d1fc5ea5289fe8cc314",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Cycling training system",
-      "version" : "2022.36.0.205"
+      "version" : "2022.37.0.206",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -38275,16 +38281,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gitfinder",
-      "downloadURL" : "https://gitfinder.com/updates/GitFinder1_7_6.dmg",
+      "downloadURL" : "https://gitfinder.com/updates/GitFinder1_7_7.dmg",
       "homepage" : "https://gitfinder.com/",
       "localizedDescription" : "Git client with Finder integration",
       "name" : "GitFinder",
-      "sha256" : "05c6cf3faff42f8935304c6810070ddb042353da89184f45e28ab233501c6408",
+      "sha256" : "96e1946ed429cddcb030e8edd6d446acf1319459542020d0b8ce33c52a25684b",
       "stats" : {
         "downloadCount" : 5
       },
       "subtitle" : "Git client with Finder integration",
-      "version" : "1.7.6,126"
+      "version" : "1.7.7,127",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -49211,16 +49218,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "dash-dash",
-      "downloadURL" : "https://github.com/dashpay/dash/releases/download/v18.0.2/dashcore-18.0.2-osx.dmg",
+      "downloadURL" : "https://github.com/dashpay/dash/releases/download/v18.1.0/dashcore-18.1.0-osx.dmg",
       "homepage" : "https://www.dash.org/",
       "localizedDescription" : "Dash - Reinventing Cryptocurrency",
       "name" : "Dash",
-      "sha256" : "5d28bcdcf51e8c47b21de6d9cd4f6ba21f9c3791e63ad8068910777cf2d63e7d",
+      "sha256" : "f97ce51c7af134dff6155a93305c6971edc07abfd3af5ec861fbcdf4fa87e7c5",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "Dash - Reinventing Cryptocurrency",
-      "version" : "18.0.2"
+      "version" : "18.1.0",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -51195,16 +51203,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "purei-play",
-      "downloadURL" : "https://s3.us-east-2.amazonaws.com/playbuilds/e58c767a/Play.dmg",
+      "downloadURL" : "https://s3.us-east-2.amazonaws.com/playbuilds/1126c39c/Play.dmg",
       "homepage" : "https://purei.org/",
       "localizedDescription" : "PlayStation 2 emulator",
       "name" : "Play!",
-      "sha256" : "70891e9e38ae4e7256faf9280c5280fc84f27c47b4056db5aed28927c14c2b6e",
+      "sha256" : "0d9a6d69f32f799161b2763639da4d30a45c849be696ac6b005fb83f6c6ddb83",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "PlayStation 2 emulator",
-      "version" : "2022-10-14,e58c767a"
+      "version" : "2022-10-17,1126c39c",
+      "versionDate" : "2022-10-18T04:59:47Z"
     },
     {
       "beta" : false,
@@ -55784,13 +55793,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "messenger",
-      "caption" : "Facebook Messenger updated from 155.22.218,380205507 to 164.0.0.8.109,406707321",
-      "date" : "2022-10-17T22:33:17Z",
-      "identifier" : "release-messenger-164.0.0.8.109,406707321",
-      "title" : "New Release: Facebook Messenger 164.0.0.8.109,406707321"
-    },
-    {
       "appID" : "swiftcord",
       "caption" : "Swiftcord updated from 0.4.6,13 to 0.5.1,15",
       "date" : "2022-10-17T22:33:17Z",
@@ -56069,6 +56071,174 @@
       "date" : "2022-10-18T01:54:33Z",
       "identifier" : "release-specter-1.13.1",
       "title" : "New Release: Specter 1.13.1"
+    },
+    {
+      "appID" : "anaconda",
+      "caption" : "Continuum Analytics Anaconda updated from 2022.05 to 2022.10",
+      "date" : "2022-10-18T04:59:47Z",
+      "identifier" : "release-anaconda-2022.10",
+      "title" : "New Release: Continuum Analytics Anaconda 2022.10"
+    },
+    {
+      "appID" : "evernote",
+      "caption" : "Evernote updated from 10.46.7,3701,b2719bc136 to 10.47.7,3730,6a6a498bc7",
+      "date" : "2022-10-18T04:59:48Z",
+      "identifier" : "release-evernote-10.47.7,3730,6a6a498bc7",
+      "title" : "New Release: Evernote 10.47.7,3730,6a6a498bc7"
+    },
+    {
+      "appID" : "messenger",
+      "caption" : "Facebook Messenger updated from 164.0.0.8.109,406707321 to 165.0.0.16.91,409052131",
+      "date" : "2022-10-18T04:59:48Z",
+      "identifier" : "release-messenger-165.0.0.16.91,409052131",
+      "title" : "New Release: Facebook Messenger 165.0.0.16.91,409052131"
+    },
+    {
+      "appID" : "microsoft-azure-storage-explorer",
+      "caption" : "Microsoft Azure Storage Explorer updated from 1.26.0 to 1.26.1",
+      "date" : "2022-10-18T04:59:48Z",
+      "identifier" : "release-microsoft-azure-storage-explorer-1.26.1",
+      "title" : "New Release: Microsoft Azure Storage Explorer 1.26.1"
+    },
+    {
+      "appID" : "sdm",
+      "caption" : "sdm updated from 15.57.0,2EE548135F1FC9C9B13808A8522304251FD4D571 to 15.58.0,9CEBD65A85DBAD91F1D6296C4122894DC7A91E0D",
+      "date" : "2022-10-18T04:59:48Z",
+      "identifier" : "release-sdm-15.58.0,9CEBD65A85DBAD91F1D6296C4122894DC7A91E0D",
+      "title" : "New Release: sdm 15.58.0,9CEBD65A85DBAD91F1D6296C4122894DC7A91E0D"
+    },
+    {
+      "appID" : "thunder",
+      "caption" : "Thunder updated from 5.0.2.65551 to 5.0.3.65598",
+      "date" : "2022-10-18T04:59:48Z",
+      "identifier" : "release-thunder-5.0.3.65598",
+      "title" : "New Release: Thunder 5.0.3.65598"
+    },
+    {
+      "appID" : "steermouse",
+      "caption" : "SteerMouse updated from 5.6.4 to 5.6.5",
+      "date" : "2022-10-18T04:59:48Z",
+      "identifier" : "release-steermouse-5.6.5",
+      "title" : "New Release: SteerMouse 5.6.5"
+    },
+    {
+      "appID" : "busycal",
+      "caption" : "BusyCal updated from 2022.4.2,2022-10-16-02-14 to 2022.4.3,2022-10-18-00-55",
+      "date" : "2022-10-18T04:59:49Z",
+      "identifier" : "release-busycal-2022.4.3,2022-10-18-00-55",
+      "title" : "New Release: BusyCal 2022.4.3,2022-10-18-00-55"
+    },
+    {
+      "appID" : "whist-browser",
+      "caption" : "Whist Browser updated from 102.1.41.11,300.16 to 102.1.41.11,300.17",
+      "date" : "2022-10-18T04:59:49Z",
+      "identifier" : "release-whist-browser-102.1.41.11,300.17",
+      "title" : "New Release: Whist Browser 102.1.41.11,300.17"
+    },
+    {
+      "appID" : "bike",
+      "caption" : "Bike updated from 1.4.2,85 to 1.5,86",
+      "date" : "2022-10-18T04:59:49Z",
+      "identifier" : "release-bike-1.5,86",
+      "title" : "New Release: Bike 1.5,86"
+    },
+    {
+      "appID" : "centered",
+      "caption" : "Centered updated from 5.1.0 to 5.2.0",
+      "date" : "2022-10-18T04:59:49Z",
+      "identifier" : "release-centered-5.2.0",
+      "title" : "New Release: Centered 5.2.0"
+    },
+    {
+      "appID" : "silnite",
+      "caption" : "silnite updated from 8a,2022.10 to 9,2022.10",
+      "date" : "2022-10-18T04:59:49Z",
+      "identifier" : "release-silnite-9,2022.10",
+      "title" : "New Release: silnite 9,2022.10"
+    },
+    {
+      "appID" : "app-fair",
+      "caption" : "App Fair updated from 0.8.125 to 0.8.130",
+      "date" : "2022-10-18T04:59:49Z",
+      "identifier" : "release-app-fair-0.8.130",
+      "title" : "New Release: App Fair 0.8.130"
+    },
+    {
+      "appID" : "dropbox-capture",
+      "caption" : "Dropbox Capture updated from 86.0.20 to 86.0.24",
+      "date" : "2022-10-18T04:59:50Z",
+      "identifier" : "release-dropbox-capture-86.0.24",
+      "title" : "New Release: Dropbox Capture 86.0.24"
+    },
+    {
+      "appID" : "descript",
+      "caption" : "Descript updated from 49.1.1-release.20221005.4 to 50.1.0-release.20221014.17",
+      "date" : "2022-10-18T04:59:50Z",
+      "identifier" : "release-descript-50.1.0-release.20221014.17",
+      "title" : "New Release: Descript 50.1.0-release.20221014.17"
+    },
+    {
+      "appID" : "piezo",
+      "caption" : "Piezo updated from 1.7.9 to 1.7.10",
+      "date" : "2022-10-18T04:59:50Z",
+      "identifier" : "release-piezo-1.7.10",
+      "title" : "New Release: Piezo 1.7.10"
+    },
+    {
+      "appID" : "gyroflow",
+      "caption" : "Gyroflow updated from 1.2.0 to 1.3.0",
+      "date" : "2022-10-18T04:59:50Z",
+      "identifier" : "release-gyroflow-1.3.0",
+      "title" : "New Release: Gyroflow 1.3.0"
+    },
+    {
+      "appID" : "houdahspot",
+      "caption" : "HoudahSpot updated from 6.2.2,750 to 6.2.3,826",
+      "date" : "2022-10-18T04:59:50Z",
+      "identifier" : "release-houdahspot-6.2.3,826",
+      "title" : "New Release: HoudahSpot 6.2.3,826"
+    },
+    {
+      "appID" : "amazon-luna",
+      "caption" : "Amazon Luna updated from 1.7500.5646.0 to 1.7600.5656.0",
+      "date" : "2022-10-18T04:59:50Z",
+      "identifier" : "release-amazon-luna-1.7600.5656.0",
+      "title" : "New Release: Amazon Luna 1.7600.5656.0"
+    },
+    {
+      "appID" : "busycontacts",
+      "caption" : "BusyContacts updated from 2022.4.1,2022-10-16-02-00 to 2022.4.2,2022-10-18-00-43",
+      "date" : "2022-10-18T04:59:51Z",
+      "identifier" : "release-busycontacts-2022.4.2,2022-10-18-00-43",
+      "title" : "New Release: BusyContacts 2022.4.2,2022-10-18-00-43"
+    },
+    {
+      "appID" : "trainerroad",
+      "caption" : "TrainerRoad updated from 2022.36.0.205 to 2022.37.0.206",
+      "date" : "2022-10-18T04:59:51Z",
+      "identifier" : "release-trainerroad-2022.37.0.206",
+      "title" : "New Release: TrainerRoad 2022.37.0.206"
+    },
+    {
+      "appID" : "gitfinder",
+      "caption" : "GitFinder updated from 1.7.6,126 to 1.7.7,127",
+      "date" : "2022-10-18T04:59:51Z",
+      "identifier" : "release-gitfinder-1.7.7,127",
+      "title" : "New Release: GitFinder 1.7.7,127"
+    },
+    {
+      "appID" : "dash-dash",
+      "caption" : "Dash updated from 18.0.2 to 18.1.0",
+      "date" : "2022-10-18T04:59:51Z",
+      "identifier" : "release-dash-dash-18.1.0",
+      "title" : "New Release: Dash 18.1.0"
+    },
+    {
+      "appID" : "purei-play",
+      "caption" : "Play! updated from 2022-10-14,e58c767a to 2022-10-17,1126c39c",
+      "date" : "2022-10-18T04:59:51Z",
+      "identifier" : "release-purei-play-2022-10-17,1126c39c",
+      "title" : "New Release: Play! 2022-10-17,1126c39c"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

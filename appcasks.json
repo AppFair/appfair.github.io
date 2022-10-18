@@ -26,7 +26,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3839,
+        "impressionCount" : 3842,
         "viewCount" : 307
       },
       "subtitle" : "Create DMGs and other archives",
@@ -60,7 +60,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3731,
+        "impressionCount" : 3733,
         "viewCount" : 309
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -127,7 +127,7 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 239,
-        "impressionCount" : 662,
+        "impressionCount" : 665,
         "viewCount" : 51
       },
       "subtitle" : "Native app email client for Gmail",
@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 84,
-        "impressionCount" : 525
+        "impressionCount" : 528
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -167,7 +167,7 @@
       "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 356
+        "impressionCount" : 358
       },
       "subtitle" : "Video resource player",
       "tintColor" : "C4F09A",
@@ -187,7 +187,7 @@
       "sha256" : "0d42ee30105096529bc89394c67733069c56b2139fd09dea69944d7e188f0972",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 375
+        "impressionCount" : 378
       },
       "subtitle" : "Adobe extensions installer",
       "tintColor" : "792A32",
@@ -249,7 +249,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 348
+        "impressionCount" : 350
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -269,7 +269,7 @@
       "sha256" : "711b1e4322970d2ece65ab5d51e18f2e634c2f43847db9a7a98e4326e1b8217c",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 276
+        "impressionCount" : 280
       },
       "subtitle" : "Terminal emulation program",
       "tintColor" : "8A6363",
@@ -1668,16 +1668,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "flipper",
-      "downloadURL" : "https://github.com/facebook/flipper/releases/download/v0.166.0/Flipper-mac.dmg",
+      "downloadURL" : "https://github.com/facebook/flipper/releases/download/v0.171.1/Flipper-mac.dmg",
       "homepage" : "https://fbflipper.com/",
       "localizedDescription" : "Desktop debugging platform for mobile developers",
       "name" : "Facebook Flipper",
-      "sha256" : "7fb7c939786dcd8fcaad0ea06c24ae2d71f805726759a738b010365d9a0db5af",
+      "sha256" : "3ad5711b465f6a3312af900192df1b47960caebbb45cea65be37c140ed64ef3f",
       "stats" : {
         "downloadCount" : 1757
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
-      "version" : "0.166.0"
+      "version" : "0.171.1",
+      "versionDate" : "2022-10-18T14:39:34Z"
     },
     {
       "beta" : false,
@@ -7424,17 +7425,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "standard-notes",
-      "downloadURL" : "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.23.218/standard-notes-3.23.218-mac-x64.zip",
+      "downloadURL" : "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.23.221/standard-notes-3.23.221-mac-x64.zip",
       "homepage" : "https://standardnotes.org/",
       "localizedDescription" : "Free, open-source, and completely encrypted notes app",
       "name" : "Standard Notes",
-      "sha256" : "a4c9954e41b17fa3ced37cca31ebdc1ffa84417c0b5a37be2848724ef6bfbbfd",
+      "sha256" : "e0c908f29a3d6c27f9df9f3126eb339b96d89debc9006aa2576dae5167e71056",
       "stats" : {
         "downloadCount" : 171
       },
       "subtitle" : "Free, open-source, and completely encrypted notes app",
-      "version" : "3.23.218",
-      "versionDate" : "2022-10-18T00:00:00Z"
+      "version" : "3.23.221",
+      "versionDate" : "2022-10-18T14:39:34Z"
     },
     {
       "beta" : false,
@@ -55844,13 +55845,6 @@
       "title" : "New Release: PDF Expert 3.0.28,868"
     },
     {
-      "appID" : "standard-notes",
-      "caption" : "Standard Notes updated from 3.23.193 to 3.23.218",
-      "date" : "2022-10-18T01:54:28Z",
-      "identifier" : "release-standard-notes-3.23.218",
-      "title" : "New Release: Standard Notes 3.23.218"
-    },
-    {
       "appID" : "zeplin",
       "caption" : "Zeplin updated from 4.4,1640 to 4.5,1672",
       "date" : "2022-10-18T01:54:28Z",
@@ -56255,6 +56249,20 @@
       "date" : "2022-10-18T10:36:34Z",
       "identifier" : "release-sleek-1.2.7",
       "title" : "New Release: sleek 1.2.7"
+    },
+    {
+      "appID" : "flipper",
+      "caption" : "Facebook Flipper updated from 0.166.0 to 0.171.1",
+      "date" : "2022-10-18T14:39:35Z",
+      "identifier" : "release-flipper-0.171.1",
+      "title" : "New Release: Facebook Flipper 0.171.1"
+    },
+    {
+      "appID" : "standard-notes",
+      "caption" : "Standard Notes updated from 3.23.218 to 3.23.221",
+      "date" : "2022-10-18T14:39:35Z",
+      "identifier" : "release-standard-notes-3.23.221",
+      "title" : "New Release: Standard Notes 3.23.221"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -26,7 +26,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3851,
+        "impressionCount" : 3855,
         "viewCount" : 308
       },
       "subtitle" : "Create DMGs and other archives",
@@ -60,8 +60,8 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3746,
-        "viewCount" : 310
+        "impressionCount" : 3750,
+        "viewCount" : 311
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -127,8 +127,8 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 239,
-        "impressionCount" : 672,
-        "viewCount" : 52
+        "impressionCount" : 675,
+        "viewCount" : 53
       },
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.39.0"
@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 84,
-        "impressionCount" : 535
+        "impressionCount" : 537
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -167,7 +167,7 @@
       "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 367
+        "impressionCount" : 370
       },
       "subtitle" : "Video resource player",
       "tintColor" : "C4F09A",
@@ -187,7 +187,7 @@
       "sha256" : "0d42ee30105096529bc89394c67733069c56b2139fd09dea69944d7e188f0972",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 386
+        "impressionCount" : 390
       },
       "subtitle" : "Adobe extensions installer",
       "tintColor" : "792A32",
@@ -249,7 +249,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 356
+        "impressionCount" : 360
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -269,7 +269,7 @@
       "sha256" : "711b1e4322970d2ece65ab5d51e18f2e634c2f43847db9a7a98e4326e1b8217c",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 287
+        "impressionCount" : 290
       },
       "subtitle" : "Terminal emulation program",
       "tintColor" : "8A6363",
@@ -2459,7 +2459,7 @@
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "version" : "3.903,2063",
-      "versionDate" : "2022-10-18T19:33:24Z"
+      "versionDate" : "2022-10-18T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2824,7 +2824,7 @@
       },
       "subtitle" : "Git client focusing on productivity",
       "version" : "8.10.1",
-      "versionDate" : "2022-10-18T19:33:24Z"
+      "versionDate" : "2022-10-18T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5157,7 +5157,7 @@
       },
       "subtitle" : "iPhone management application",
       "version" : "2.16.0,16781",
-      "versionDate" : "2022-10-18T19:33:24Z"
+      "versionDate" : "2022-10-18T00:00:00Z"
     },
     {
       "beta" : false,

@@ -786,7 +786,7 @@ tr:nth-child(even) {
 | [``SmartGit``](https://www.syntevo.com/smartgit/) | ``21.2.4`` | `94` |  |  |  |  |  | `0` |  |
 | [``Timer``](https://www.apimac.com/mac/timer/) | ``9.0.3`` | `94` |  |  |  |  |  | `0` |  |
 | [``CodeQL``](https://codeql.github.com/) | ``2.11.1`` | `93` |  |  |  |  |  | `0` |  |
-| [``DuckDuckGo``](https://duckduckgo.com/) | ``0.30.1`` | `93` | `2022-10-18T15:40:18Z` |  |  |  |  | `0` |  |
+| [``DuckDuckGo``](https://duckduckgo.com/) | ``0.30.1`` | `93` | `2022-10-18T00:00:00Z` |  |  |  |  | `0` |  |
 | [``jellyfin-media-player``](https://jellyfin.org/) | ``1.7.1`` | `93` |  |  |  |  |  | `0` |  |
 | [``Clockify``](https://clockify.me/mac-time-tracking) | ``2.8.2,444`` | `92` |  |  |  |  |  | `0` |  |
 | [``digiKam``](https://www.digikam.org/) | ``7.8.0`` | `92` |  |  |  |  |  | `0` |  |

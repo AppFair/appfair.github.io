@@ -26,7 +26,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3849,
+        "impressionCount" : 3851,
         "viewCount" : 308
       },
       "subtitle" : "Create DMGs and other archives",
@@ -60,7 +60,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3742,
+        "impressionCount" : 3746,
         "viewCount" : 310
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -127,7 +127,7 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 239,
-        "impressionCount" : 670,
+        "impressionCount" : 672,
         "viewCount" : 52
       },
       "subtitle" : "Native app email client for Gmail",
@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 84,
-        "impressionCount" : 533
+        "impressionCount" : 535
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -167,7 +167,7 @@
       "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 364
+        "impressionCount" : 367
       },
       "subtitle" : "Video resource player",
       "tintColor" : "C4F09A",
@@ -187,7 +187,7 @@
       "sha256" : "0d42ee30105096529bc89394c67733069c56b2139fd09dea69944d7e188f0972",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 384
+        "impressionCount" : 386
       },
       "subtitle" : "Adobe extensions installer",
       "tintColor" : "792A32",
@@ -249,7 +249,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 354
+        "impressionCount" : 356
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -269,7 +269,7 @@
       "sha256" : "711b1e4322970d2ece65ab5d51e18f2e634c2f43847db9a7a98e4326e1b8217c",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 286
+        "impressionCount" : 287
       },
       "subtitle" : "Terminal emulation program",
       "tintColor" : "8A6363",
@@ -2449,17 +2449,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "bettertouchtool",
-      "downloadURL" : "https://folivora.ai/releases/btt3.901-2061.zip",
+      "downloadURL" : "https://folivora.ai/releases/btt3.903-2063.zip",
       "homepage" : "https://folivora.ai/",
       "localizedDescription" : "Tool to customize input devices and automate computer systems",
       "name" : "BetterTouchTool",
-      "sha256" : "8dc27cc1127674f07c52984eb3cb067ec493ee9cdc192f8f31a3dd92641bf3f9",
+      "sha256" : "3cfdb9308b3fd4f6d95552a957d33673ec0a5c205050cfa84867675cfeafea95",
       "stats" : {
         "downloadCount" : 921
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
-      "version" : "3.901,2061",
-      "versionDate" : "2022-10-18T00:00:00Z"
+      "version" : "3.903,2063",
+      "versionDate" : "2022-10-18T19:33:24Z"
     },
     {
       "beta" : false,
@@ -2814,16 +2814,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gitkraken",
-      "downloadURL" : "https://release.axocdn.com/darwin/GitKraken-v8.10.0.zip",
+      "downloadURL" : "https://release.axocdn.com/darwin/GitKraken-v8.10.1.zip",
       "homepage" : "https://www.gitkraken.com/",
       "localizedDescription" : "Git client focusing on productivity",
       "name" : "GitKraken",
-      "sha256" : "41993a5c299a822ee779e49d97a5db2c53401d40218001a0e63d6112986a3f1b",
+      "sha256" : "e19a2409995c5cc68df9cebcaf0379fc98ba889f9557f1b7c8377085b3441d7d",
       "stats" : {
         "downloadCount" : 738
       },
       "subtitle" : "Git client focusing on productivity",
-      "version" : "8.10.0"
+      "version" : "8.10.1",
+      "versionDate" : "2022-10-18T19:33:24Z"
     },
     {
       "beta" : false,
@@ -5146,16 +5147,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "imazing",
-      "downloadURL" : "https://downloads.imazing.com/mac/iMazing/2.15.12.16657/iMazing_2.15.12.16657.dmg",
+      "downloadURL" : "https://downloads.imazing.com/mac/iMazing/2.16.0.16781/iMazing_2.16.0.16781.dmg",
       "homepage" : "https://imazing.com/",
       "localizedDescription" : "iPhone management application",
       "name" : "iMazing",
-      "sha256" : "997ebc3225a04a7d48ff7effc052672e2d31a6cacde155c877423618332ff8ec",
+      "sha256" : "74c73d5555bb5cd7dd1141f8455e5f5e5f71d3bcd80fe563998ebb63a5bac64d",
       "stats" : {
         "downloadCount" : 324
       },
       "subtitle" : "iPhone management application",
-      "version" : "2.15.12,16657"
+      "version" : "2.16.0,16781",
+      "versionDate" : "2022-10-18T19:33:24Z"
     },
     {
       "beta" : false,
@@ -55818,13 +55820,6 @@
       "title" : "New Release: EagleFiler 1.9.9"
     },
     {
-      "appID" : "bettertouchtool",
-      "caption" : "BetterTouchTool updated from 3.900,2060 to 3.901,2061",
-      "date" : "2022-10-18T01:54:27Z",
-      "identifier" : "release-bettertouchtool-3.901,2061",
-      "title" : "New Release: BetterTouchTool 3.901,2061"
-    },
-    {
       "appID" : "metasploit",
       "caption" : "Metasploit Framework updated from 6.2.23,20221016102919 to 6.2.23,20221017102852",
       "date" : "2022-10-18T01:54:28Z",
@@ -56271,6 +56266,27 @@
       "date" : "2022-10-18T15:40:18Z",
       "identifier" : "release-duckduckgo-0.30.1",
       "title" : "New Release: DuckDuckGo 0.30.1"
+    },
+    {
+      "appID" : "bettertouchtool",
+      "caption" : "BetterTouchTool updated from 3.901,2061 to 3.903,2063",
+      "date" : "2022-10-18T19:33:24Z",
+      "identifier" : "release-bettertouchtool-3.903,2063",
+      "title" : "New Release: BetterTouchTool 3.903,2063"
+    },
+    {
+      "appID" : "gitkraken",
+      "caption" : "GitKraken updated from 8.10.0 to 8.10.1",
+      "date" : "2022-10-18T19:33:25Z",
+      "identifier" : "release-gitkraken-8.10.1",
+      "title" : "New Release: GitKraken 8.10.1"
+    },
+    {
+      "appID" : "imazing",
+      "caption" : "iMazing updated from 2.15.12,16657 to 2.16.0,16781",
+      "date" : "2022-10-18T19:33:26Z",
+      "identifier" : "release-imazing-2.16.0,16781",
+      "title" : "New Release: iMazing 2.16.0,16781"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

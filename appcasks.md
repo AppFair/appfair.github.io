@@ -23,19 +23,19 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `15` | `2022-10-18T00:00:00Z` |  | `3860` | `308` |  | `0` | `public.app-category.developer-tools` |
-| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.9`` | `7` | `2022-10-18T00:00:00Z` |  | `3756` | `311` |  | `0` | `public.app-category.productivity` |
-| [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `12` |  |  |  | `144` |  | `0` | `public.app-category.utilities` |
+| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `15` | `2022-10-18T00:00:00Z` |  | `3864` | `308` |  | `0` | `public.app-category.developer-tools` |
+| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.9`` | `7` | `2022-10-18T00:00:00Z` |  | `3760` | `311` |  | `0` | `public.app-category.productivity` |
+| [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `12` |  |  |  | `145` |  | `0` | `public.app-category.utilities` |
 | [``Signal``](https://signal.org/) | ``5.62.0`` | `2680` |  |  |  |  |  | `0` |  |
-| [``Mimestream``](https://mimestream.com/) | ``0.39.0`` | `239` |  |  | `678` | `53` |  | `0` |  |
-| [``Zulip``](https://zulipchat.com/apps/) | ``5.9.3`` | `84` |  |  | `542` |  |  | `0` | `public.app-category.productivity` |
-| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `4` |  |  | `374` |  |  | `0` | `public.app-category.developer-tools` |
-| [``ZXPInstaller``](https://zxpinstaller.com/) | ``1.8.2`` | `3` |  |  | `395` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Mimestream``](https://mimestream.com/) | ``0.39.0`` | `239` |  |  | `680` | `53` |  | `0` |  |
+| [``Zulip``](https://zulipchat.com/apps/) | ``5.9.3`` | `84` |  |  | `545` |  |  | `0` | `public.app-category.productivity` |
+| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `4` |  |  | `378` |  |  | `0` | `public.app-category.developer-tools` |
+| [``ZXPInstaller``](https://zxpinstaller.com/) | ``1.8.2`` | `3` |  |  | `402` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``105.0.3`` | `16785` |  |  |  |  |  | `0` |  |
 | [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `8023` |  |  |  |  |  | `0` |  |
 | [``HandBrake``](https://handbrake.fr/) | ``1.5.1`` | `975` |  |  |  |  |  | `0` |  |
-| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `786` |  |  | `362` |  |  | `0` |  |
-| [``ZTerm``](https://www.dalverson.com/zterm/) | ``1.2`` | `1` |  |  | `292` |  |  | `0` |  |
+| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `786` |  |  | `365` |  |  | `0` |  |
+| [``ZTerm``](https://www.dalverson.com/zterm/) | ``1.2`` | `1` |  |  | `297` |  |  | `0` |  |
 | [``Microsoft Visual Studio …``](https://code.visualstudio.com/) | ``1.72.2`` | `32254` |  |  |  |  |  | `0` |  |
 | [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `26738` |  |  |  |  |  | `0` |  |
 | [``Docker Desktop``](https://www.docker.com/products/docker-desktop) | ``4.12.0,85629`` | `23910` |  |  |  |  |  | `0` |  |

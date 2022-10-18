@@ -863,7 +863,7 @@ tr:nth-child(even) {
 | [``Monero Wallet``](https://getmonero.org/) | ``0.18.1.2`` | `80` |  |  |  |  |  | `0` |  |
 | [``checkra1n``](https://checkra.in/) | ``0.12.4`` | `79` |  |  |  |  |  | `0` |  |
 | [``NTFSTool``](https://github.com/ntfstool/ntfstool) | ``2.3.2`` | `79` |  |  |  |  |  | `0` |  |
-| [``portx``](https://portx.online/) | ``2.1.6,10.34`` | `79` | `2022-10-18T10:36:33Z` |  |  |  |  | `0` |  |
+| [``portx``](https://portx.online/) | ``2.1.6,10.34`` | `79` | `2022-10-18T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Tempbox``](https://tempbox.waseem.works/) | ``1.1`` | `79` |  |  |  |  |  | `0` |  |
 | [``MediaHuman YouTube to MP…``](https://www.mediahuman.net/youtube-to-mp3/) | ``3.9.9.76`` | `79` |  |  |  |  |  | `0` |  |
 | [``CubicSDR``](https://cubicsdr.com/) | ``0.2.5`` | `78` |  |  |  |  |  | `0` |  |
@@ -1805,7 +1805,7 @@ tr:nth-child(even) {
 | [``Serviio``](https://serviio.org/) | ``2.2.1`` | `17` |  |  |  |  |  | `0` |  |
 | [``SiteSucker Pro``](https://ricks-apps.com/osx/sitesucker/index.html) | ``5.0.4`` | `17` |  |  |  |  |  | `0` |  |
 | [``Autodesk Sketchbook``](https://www.sketchbook.com/) | ``8.7.1,2019`` | `17` |  |  |  |  |  | `0` |  |
-| [``sleek``](https://github.com/ransome1/sleek) | ``1.2.7`` | `17` | `2022-10-18T10:36:33Z` |  |  |  |  | `0` |  |
+| [``sleek``](https://github.com/ransome1/sleek) | ``1.2.7`` | `17` | `2022-10-18T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Slic3r``](https://slic3r.org/) | ``1.3.0`` | `17` |  |  |  |  |  | `0` |  |
 | [``Smooze``](https://smooze.co/) | ``2.0.0,600`` | `17` |  |  |  |  |  | `0` |  |
 | [``SpaceRadar``](https://github.com/zz85/space-radar) | ``5.1.0`` | `17` |  |  |  |  |  | `0` |  |

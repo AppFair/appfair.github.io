@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `146` | `2022-09-01T00:00:00Z` | `9.6 MB` | `785` | `85` | `1` | `0` |  |
+| [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `146` | `2022-09-01T00:00:00Z` | `9.6 MB` | `786` | `85` | `1` | `0` |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `74` | `2022-10-04T00:00:00Z` | `7.3 MB` | `224` | `28` | `0` | `0` |  |
 | [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `70` | `2022-10-12T00:00:00Z` | `26.5 MB` | `57` | `5` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `524` | `47` | `0` | `0` |  |

@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Tune Out``](https://Tune-Out.github.io/App/) | ``0.8.458`` | `120` | `2022-09-01T00:00:00Z` | `18 MB` | `762` | `83` | `1` | `0` |  |
-| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `72` | `2022-10-04T00:00:00Z` | `3.8 MB` | `206` | `26` | `0` | `0` |  |
+| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `72` | `2022-10-04T00:00:00Z` | `3.8 MB` | `207` | `26` | `0` | `0` |  |
 | [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `69` | `2022-10-12T00:00:00Z` | `22 MB` | `46` | `2` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `498` | `45` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `3942` | `279` | `0` | `0` |  |
@@ -56,7 +56,7 @@ tr:nth-child(even) {
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `3` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1050` | `47` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `3` | `2022-08-27T00:00:00Z` | `8.8 MB` | `1111` | `92` | `1` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `677` | `44` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.333β`` | `2` | `2022-10-18T00:00:00Z` | `1.7 MB` | `1` | `1` | `2` | `0` |  |
+| [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.333β`` | `2` | `2022-10-18T00:00:00Z` | `1.7 MB` | `2` | `2` | `2` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1217` | `80` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `1244` | `67` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `923` | `62` | `0` | `0` |  |

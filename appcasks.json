@@ -26,8 +26,8 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3842,
-        "viewCount" : 307
+        "impressionCount" : 3845,
+        "viewCount" : 308
       },
       "subtitle" : "Create DMGs and other archives",
       "version" : "3.6.5",
@@ -60,7 +60,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3733,
+        "impressionCount" : 3736,
         "viewCount" : 309
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -127,8 +127,8 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 239,
-        "impressionCount" : 665,
-        "viewCount" : 51
+        "impressionCount" : 667,
+        "viewCount" : 52
       },
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.39.0"
@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 84,
-        "impressionCount" : 528
+        "impressionCount" : 529
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -167,7 +167,7 @@
       "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 358
+        "impressionCount" : 360
       },
       "subtitle" : "Video resource player",
       "tintColor" : "C4F09A",
@@ -187,7 +187,7 @@
       "sha256" : "0d42ee30105096529bc89394c67733069c56b2139fd09dea69944d7e188f0972",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 378
+        "impressionCount" : 380
       },
       "subtitle" : "Adobe extensions installer",
       "tintColor" : "792A32",
@@ -249,7 +249,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 350
+        "impressionCount" : 352
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -269,7 +269,7 @@
       "sha256" : "711b1e4322970d2ece65ab5d51e18f2e634c2f43847db9a7a98e4326e1b8217c",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 280
+        "impressionCount" : 282
       },
       "subtitle" : "Terminal emulation program",
       "tintColor" : "8A6363",
@@ -1678,7 +1678,7 @@
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
       "version" : "0.171.1",
-      "versionDate" : "2022-10-18T14:39:34Z"
+      "versionDate" : "2022-10-18T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7435,7 +7435,7 @@
       },
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "version" : "3.23.221",
-      "versionDate" : "2022-10-18T14:39:34Z"
+      "versionDate" : "2022-10-18T00:00:00Z"
     },
     {
       "beta" : false,
@@ -10671,16 +10671,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "duckduckgo",
-      "downloadURL" : "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-0.29.0.dmg",
+      "downloadURL" : "https://staticcdn.duckduckgo.com/macos-desktop-browser/duckduckgo-0.30.1.dmg",
       "homepage" : "https://duckduckgo.com/",
       "localizedDescription" : "Web browser focusing on privacy",
       "name" : "DuckDuckGo",
-      "sha256" : "39099fa975ff014f6df6bf506dfe6602bc955e3ed27ee461c306ceb5b5673004",
+      "sha256" : "61bdfd6a1df4c310165f4f852fd8de47e09582faf3aa97930659005e027f75ec",
       "stats" : {
         "downloadCount" : 93
       },
       "subtitle" : "Web browser focusing on privacy",
-      "version" : "0.29.0"
+      "version" : "0.30.1",
+      "versionDate" : "2022-10-18T15:40:18Z"
     },
     {
       "beta" : false,
@@ -56263,6 +56264,13 @@
       "date" : "2022-10-18T14:39:35Z",
       "identifier" : "release-standard-notes-3.23.221",
       "title" : "New Release: Standard Notes 3.23.221"
+    },
+    {
+      "appID" : "duckduckgo",
+      "caption" : "DuckDuckGo updated from 0.29.0 to 0.30.1",
+      "date" : "2022-10-18T15:40:18Z",
+      "identifier" : "release-duckduckgo-0.30.1",
+      "title" : "New Release: DuckDuckGo 0.30.1"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

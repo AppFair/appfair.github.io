@@ -54,9 +54,11 @@ tr:nth-child(even) {
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `3` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1074` | `47` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `3` | `2022-08-27T00:00:00Z` | `8.8 MB` | `1135` | `95` | `1` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `681` | `44` | `0` | `0` |  |
+| [``World Fair``](http://appfair.net/#quick-start) | ``0.0.4β`` | `2` | `2022-10-19T00:00:00Z` | `4.3 MB` | `1` | `1` | `0` | `0` |  |
 | [``Cloud Cuckoo``](https://Cloud-Cuckoo.github.io/App/) | ``0.9.333β`` | `2` | `2022-10-19T00:00:00Z` | `1.8 MB` | `1` | `1` | `2` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1241` | `81` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `1267` | `68` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `941` | `63` | `0` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `0` | `2022-10-19T00:00:00Z` | `22.3 MB` | `0` | `0` | `0` | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

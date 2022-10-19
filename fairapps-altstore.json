@@ -28,10 +28,10 @@
         "coreSize": 168592,
         "downloadCount": 127,
         "forkCount": 0,
-        "impressionCount": 793,
+        "impressionCount": 798,
         "issueCount": 0,
         "starCount": 1,
-        "viewCount": 86,
+        "viewCount": 88,
         "watcherCount": 0
       },
       "subtitle": "Stream Internet Radio",
@@ -96,7 +96,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256": "99d615fedc82f13d13bef753e949fd872025548bd491cd34dcb1af085a65fd2a",
+      "sha256": "2d92a41ff7d87890f1cc85de7a27df559ca5d095ea06b0adfd4ddddba38f717d",
       "size": 1816317,
       "stats": {
         "coreSize": 168592,
@@ -149,10 +149,10 @@
         "coreSize": 170224,
         "downloadCount": 3,
         "forkCount": 0,
-        "impressionCount": 1139,
+        "impressionCount": 1146,
         "issueCount": 0,
         "starCount": 1,
-        "viewCount": 95,
+        "viewCount": 96,
         "watcherCount": 0
       },
       "subtitle": "An electronic book reader",

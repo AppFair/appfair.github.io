@@ -26,8 +26,8 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3873,
-        "viewCount" : 309
+        "impressionCount" : 3879,
+        "viewCount" : 310
       },
       "subtitle" : "Create DMGs and other archives",
       "version" : "3.6.5",
@@ -60,8 +60,8 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3769,
-        "viewCount" : 312
+        "impressionCount" : 3774,
+        "viewCount" : 313
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -93,7 +93,7 @@
       "sha256" : "d9ee2504859f86287c3adfb45318c1868f1ec9d9fecff8a43db245541aef08b5",
       "stats" : {
         "downloadCount" : 12,
-        "viewCount" : 146
+        "viewCount" : 147
       },
       "subtitle" : "Spam filtering extension for e-mail clients",
       "version" : "2.9.50"
@@ -127,7 +127,7 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 242,
-        "impressionCount" : 687,
+        "impressionCount" : 691,
         "viewCount" : 55
       },
       "subtitle" : "Native app email client for Gmail",
@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 85,
-        "impressionCount" : 555
+        "impressionCount" : 558
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -167,7 +167,7 @@
       "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 387
+        "impressionCount" : 393
       },
       "subtitle" : "Video resource player",
       "tintColor" : "C4F09A",
@@ -187,7 +187,7 @@
       "sha256" : "0d42ee30105096529bc89394c67733069c56b2139fd09dea69944d7e188f0972",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 411
+        "impressionCount" : 416
       },
       "subtitle" : "Adobe extensions installer",
       "tintColor" : "792A32",
@@ -250,7 +250,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 377
+        "impressionCount" : 381
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -270,7 +270,7 @@
       "sha256" : "711b1e4322970d2ece65ab5d51e18f2e634c2f43847db9a7a98e4326e1b8217c",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 308
+        "impressionCount" : 311
       },
       "subtitle" : "Terminal emulation program",
       "tintColor" : "8A6363",
@@ -2902,16 +2902,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "mockoon",
-      "downloadURL" : "https://github.com/mockoon/mockoon/releases/download/v1.20.0/mockoon.setup.1.20.0.universal.dmg",
+      "downloadURL" : "https://github.com/mockoon/mockoon/releases/download/v1.21.0/mockoon.setup.1.21.0.universal.dmg",
       "homepage" : "https://mockoon.com/",
       "localizedDescription" : "Create mock APIs in seconds",
       "name" : "Mockoon",
-      "sha256" : "700fca17da2b249e35da254672e0eed995a255b7e9c28d184118fed4e5584336",
+      "sha256" : "e5f83b169e3b52081461602efc4326fde02abc0af7d420797491127a6d494f37",
       "stats" : {
         "downloadCount" : 721
       },
       "subtitle" : "Create mock APIs in seconds",
-      "version" : "1.20.0"
+      "version" : "1.21.0",
+      "versionDate" : "2022-10-19T14:40:58Z"
     },
     {
       "beta" : false,
@@ -23055,17 +23056,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "sleek",
-      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.7/sleek-1.2.7-mac.dmg",
+      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.8/sleek-1.2.8-mac.dmg",
       "homepage" : "https://github.com/ransome1/sleek",
       "localizedDescription" : "Todo manager based on the todo.txt syntax",
       "name" : "sleek",
-      "sha256" : "efa8d30dde716939451bcbd5da768628392a318e35455bc671e0ce97a0ad6b74",
+      "sha256" : "4b6b270a105257f0887e8c9a9b4078e44ded58f3c362ccbe822ca8ce219f84e6",
       "stats" : {
         "downloadCount" : 20
       },
       "subtitle" : "Todo manager based on the todo.txt syntax",
-      "version" : "1.2.7",
-      "versionDate" : "2022-10-18T00:00:00Z"
+      "version" : "1.2.8",
+      "versionDate" : "2022-10-19T14:40:58Z"
     },
     {
       "beta" : false,
@@ -46831,16 +46832,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "lightkey",
-      "downloadURL" : "https://lightkeyapp.com/media/pages/download/Lightkey-4-0-6/4d8e1d2e3c-1665749184/LightkeyInstaller.zip",
+      "downloadURL" : "https://lightkeyapp.com/media/pages/download/Lightkey-4-0-6-1/cdc0a36a64-1666167454/LightkeyInstaller.zip",
       "homepage" : "https://lightkeyapp.com/",
       "localizedDescription" : "DMX lighting control",
       "name" : "Lightkey",
-      "sha256" : "9b1e376e084025cf08e7253389cc030d1ba163db1ee537cfe94e203d8d2bc011",
+      "sha256" : "2c5a585286752f4933e2bed6cebf45a6c692b01e40b2ef02b34aff657b272e25",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "DMX lighting control",
-      "version" : "4.0.6,4d8e1d2e3c-1665749184"
+      "version" : "4.0.6.1,cdc0a36a64-1666167454",
+      "versionDate" : "2022-10-19T14:40:58Z"
     },
     {
       "beta" : false,
@@ -55838,20 +55840,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "uvtools",
-      "caption" : "UVtools updated from 3.7.0 to 3.7.1",
-      "date" : "2022-10-18T01:54:29Z",
-      "identifier" : "release-uvtools-3.7.1",
-      "title" : "New Release: UVtools 3.7.1"
-    },
-    {
-      "appID" : "geogebra",
-      "caption" : "GeoGebra updated from 6.0.735.0 to 6.0.736.0",
-      "date" : "2022-10-18T01:54:29Z",
-      "identifier" : "release-geogebra-6.0.736.0",
-      "title" : "New Release: GeoGebra 6.0.736.0"
-    },
-    {
       "appID" : "pdf-squeezer",
       "caption" : "PDF Squeezer updated from 4.3.2,636b to 4.3.3,642b",
       "date" : "2022-10-18T01:54:29Z",
@@ -56186,13 +56174,6 @@
       "date" : "2022-10-18T10:36:34Z",
       "identifier" : "release-portx-2.1.6,10.34",
       "title" : "New Release: portx 2.1.6,10.34"
-    },
-    {
-      "appID" : "sleek",
-      "caption" : "sleek updated from 1.2.6 to 1.2.7",
-      "date" : "2022-10-18T10:36:34Z",
-      "identifier" : "release-sleek-1.2.7",
-      "title" : "New Release: sleek 1.2.7"
     },
     {
       "appID" : "flipper",
@@ -56536,6 +56517,27 @@
       "date" : "2022-10-19T11:29:20Z",
       "identifier" : "release-coconutbattery-3.9.10,CC92B59F",
       "title" : "New Release: coconutBattery 3.9.10,CC92B59F"
+    },
+    {
+      "appID" : "mockoon",
+      "caption" : "Mockoon updated from 1.20.0 to 1.21.0",
+      "date" : "2022-10-19T14:40:59Z",
+      "identifier" : "release-mockoon-1.21.0",
+      "title" : "New Release: Mockoon 1.21.0"
+    },
+    {
+      "appID" : "sleek",
+      "caption" : "sleek updated from 1.2.7 to 1.2.8",
+      "date" : "2022-10-19T14:40:59Z",
+      "identifier" : "release-sleek-1.2.8",
+      "title" : "New Release: sleek 1.2.8"
+    },
+    {
+      "appID" : "lightkey",
+      "caption" : "Lightkey updated from 4.0.6,4d8e1d2e3c-1665749184 to 4.0.6.1,cdc0a36a64-1666167454",
+      "date" : "2022-10-19T14:40:59Z",
+      "identifier" : "release-lightkey-4.0.6.1,cdc0a36a64-1666167454",
+      "title" : "New Release: Lightkey 4.0.6.1,cdc0a36a64-1666167454"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

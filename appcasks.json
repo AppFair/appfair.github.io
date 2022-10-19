@@ -2511,16 +2511,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "bartender",
-      "downloadURL" : "https://macbartender.com/B2/updates/4-2-11/Bartender%204.dmg",
+      "downloadURL" : "https://macbartender.com/B2/updates/4-2-12/Bartender%204.dmg",
       "homepage" : "https://www.macbartender.com/",
       "localizedDescription" : "Menu bar icon organizer",
       "name" : "Bartender",
-      "sha256" : "94be4696ce77f0e2fa308800ede9dc5b26a87fb1ba5cba9b8e426fd4238ae44a",
+      "sha256" : "29172e0546cea611d4c61ad710cece46550a3272c789ba512371af7a1090025f",
       "stats" : {
         "downloadCount" : 875
       },
       "subtitle" : "Menu bar icon organizer",
-      "version" : "4.2.11,42011"
+      "version" : "4.2.12,42012",
+      "versionDate" : "2022-10-19T15:36:18Z"
     },
     {
       "beta" : false,
@@ -2912,7 +2913,7 @@
       },
       "subtitle" : "Create mock APIs in seconds",
       "version" : "1.21.0",
-      "versionDate" : "2022-10-19T14:40:58Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23066,7 +23067,7 @@
       },
       "subtitle" : "Todo manager based on the todo.txt syntax",
       "version" : "1.2.8",
-      "versionDate" : "2022-10-19T14:40:58Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27391,16 +27392,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gitfiend",
-      "downloadURL" : "https://gitfiend.com/resources/GitFiend-0.37.2.dmg",
+      "downloadURL" : "https://gitfiend.com/resources/GitFiend-0.38.3.dmg",
       "homepage" : "https://gitfiend.com/",
       "localizedDescription" : "Git client",
       "name" : "GitFiend",
-      "sha256" : "ca2df6866d9e7bafb415f285150eedaec6e83af8f9cd72fd7821e3db596897b6",
+      "sha256" : "ec727c3db0827ec612c3f89047da807f898316dfddbc3235879ec2fc3478f60f",
       "stats" : {
         "downloadCount" : 13
       },
       "subtitle" : "Git client",
-      "version" : "0.37.2"
+      "version" : "0.38.3",
+      "versionDate" : "2022-10-19T15:36:18Z"
     },
     {
       "beta" : false,
@@ -46842,7 +46844,7 @@
       },
       "subtitle" : "DMX lighting control",
       "version" : "4.0.6.1,cdc0a36a64-1666167454",
-      "versionDate" : "2022-10-19T14:40:58Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55840,20 +55842,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "pdf-squeezer",
-      "caption" : "PDF Squeezer updated from 4.3.2,636b to 4.3.3,642b",
-      "date" : "2022-10-18T01:54:29Z",
-      "identifier" : "release-pdf-squeezer-4.3.3,642b",
-      "title" : "New Release: PDF Squeezer 4.3.3,642b"
-    },
-    {
-      "appID" : "cog",
-      "caption" : "Cog updated from 2701,e7aec354 to 2702,b1f97f33",
-      "date" : "2022-10-18T01:54:29Z",
-      "identifier" : "release-cog-2702,b1f97f33",
-      "title" : "New Release: Cog 2702,b1f97f33"
-    },
-    {
       "appID" : "silentknight",
       "caption" : "SilentKnight updated from 2.00,2022.10 to 2.01,2022.10",
       "date" : "2022-10-18T01:54:30Z",
@@ -56538,6 +56526,20 @@
       "date" : "2022-10-19T14:40:59Z",
       "identifier" : "release-lightkey-4.0.6.1,cdc0a36a64-1666167454",
       "title" : "New Release: Lightkey 4.0.6.1,cdc0a36a64-1666167454"
+    },
+    {
+      "appID" : "bartender",
+      "caption" : "Bartender updated from 4.2.11,42011 to 4.2.12,42012",
+      "date" : "2022-10-19T15:36:19Z",
+      "identifier" : "release-bartender-4.2.12,42012",
+      "title" : "New Release: Bartender 4.2.12,42012"
+    },
+    {
+      "appID" : "gitfiend",
+      "caption" : "GitFiend updated from 0.37.2 to 0.38.3",
+      "date" : "2022-10-19T15:36:19Z",
+      "identifier" : "release-gitfiend-0.38.3",
+      "title" : "New Release: GitFiend 0.38.3"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

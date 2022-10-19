@@ -196,7 +196,7 @@ tr:nth-child(even) {
 | [``Dozer``](https://github.com/Mortennn/Dozer) | ``4.0.0`` | `915` |  |  |  |  |  | `0` |  |
 | [``Cakebrew``](https://github.com/brunophilipe/Cakebrew) | ``1.3`` | `902` |  |  |  |  |  | `0` |  |
 | [``MacTeX``](https://www.tug.org/mactex/) | ``2022.0321`` | `882` |  |  |  |  |  | `0` |  |
-| [``Bartender``](https://www.macbartender.com/) | ``4.2.11,42011`` | `875` |  |  |  |  |  | `0` |  |
+| [``Bartender``](https://www.macbartender.com/) | ``4.2.12,42012`` | `875` | `2022-10-19T15:36:18Z` |  |  |  |  | `0` |  |
 | [``GraphQL Playground``](https://github.com/prisma/graphql-playground) | ``1.8.10`` | `874` |  |  |  |  |  | `0` |  |
 | [``Winbox-mac``](https://github.com/nrlquaker/winbox-mac/) | ``3.37.0`` | `856` |  |  |  |  |  | `0` |  |
 | [``MarkText``](https://github.com/marktext/marktext) | ``0.17.1`` | `855` |  |  |  |  |  | `0` |  |
@@ -224,7 +224,7 @@ tr:nth-child(even) {
 | [``Microsoft Word``](https://products.office.com/en-US/word) | ``16.66.22101101`` | `745` |  |  |  |  |  | `0` |  |
 | [``Skim``](https://skim-app.sourceforge.io/) | ``1.6.12,142`` | `730` |  |  |  |  |  | `0` |  |
 | [``OnyX``](https://www.titanium-software.fr/en/onyx.html) | ``4.0.2`` | `728` |  |  |  |  |  | `0` |  |
-| [``Mockoon``](https://mockoon.com/) | ``1.21.0`` | `721` | `2022-10-19T14:40:58Z` |  |  |  |  | `0` |  |
+| [``Mockoon``](https://mockoon.com/) | ``1.21.0`` | `721` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Dash``](https://kapeli.com/dash) | ``6.3.2,1002`` | `719` |  |  |  |  |  | `0` |  |
 | [``QuickLook Video``](https://github.com/Marginal/QLVideo) | ``1.94`` | `717` |  |  |  |  |  | `0` |  |
 | [``NordVPN``](https://nordvpn.com/) | ``7.10.2,201`` | `714` |  |  |  |  |  | `0` |  |
@@ -1686,7 +1686,7 @@ tr:nth-child(even) {
 | [``remove.bg``](https://www.remove.bg/) | ``1.4.6`` | `20` |  |  |  |  |  | `0` |  |
 | [``Seadrive``](https://www.seafile.com/en/home/) | ``2.0.22`` | `20` |  |  |  |  |  | `0` |  |
 | [``Secure Pipes``](https://www.opoet.com/pyro/index.php/) | ``0.99.11,c67223c50be3604`` | `20` |  |  |  |  |  | `0` |  |
-| [``sleek``](https://github.com/ransome1/sleek) | ``1.2.8`` | `20` | `2022-10-19T14:40:58Z` |  |  |  |  | `0` |  |
+| [``sleek``](https://github.com/ransome1/sleek) | ``1.2.8`` | `20` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Unclutter``](https://unclutterapp.com/) | ``2.1.24d,2.1.2400`` | `20` |  |  |  |  |  | `0` |  |
 | [``VK Messenger``](https://vk.com/messenger) | ``5.3.2,723`` | `20` |  |  |  |  |  | `0` |  |
 | [``Webull``](https://webull.com/) | ``6.3.0`` | `20` |  |  |  |  |  | `0` |  |
@@ -2005,7 +2005,7 @@ tr:nth-child(even) {
 | [``dockview``](https://noteifyapp.com/dockview/) | ``1.03,103`` | `13` |  |  |  |  |  | `0` |  |
 | [``Expo Development Environ…``](https://expo.io/) | ``2.25.0`` | `13` |  |  |  |  |  | `0` |  |
 | [``FS-UAE``](https://fs-uae.net/) | ``3.1.66`` | `13` |  |  |  |  |  | `0` |  |
-| [``GitFiend``](https://gitfiend.com/) | ``0.37.2`` | `13` |  |  |  |  |  | `0` |  |
+| [``GitFiend``](https://gitfiend.com/) | ``0.38.3`` | `13` | `2022-10-19T15:36:18Z` |  |  |  |  | `0` |  |
 | [``GoldenPassport``](https://github.com/stanzhai/GoldenPassport) | ``0.1.7`` | `13` |  |  |  |  |  | `0` |  |
 | [``Google Web Designer``](https://www.google.com/webdesigner/) | ``11.1.0.0`` | `13` |  |  |  |  |  | `0` |  |
 | [``HakuNeko``](https://github.com/manga-download/hakuneko) | ``6.1.7`` | `13` |  |  |  |  |  | `0` |  |
@@ -3443,7 +3443,7 @@ tr:nth-child(even) {
 | [``eLicenser Control Center``](https://www.steinberg.net/en/company/technologies/elicenser.html) | ``latest`` | `2` |  |  |  |  |  | `0` |  |
 | [``lifesize``](https://www.lifesize.com/) | ``2.216.2929`` | `2` |  |  |  |  |  | `0` |  |
 | [``Lighting``](https://github.com/tatey/Lighting) | ``1.1.7`` | `2` |  |  |  |  |  | `0` |  |
-| [``Lightkey``](https://lightkeyapp.com/) | ``4.0.6.1,cdc0a36a64-16661…`` | `2` | `2022-10-19T14:40:58Z` |  |  |  |  | `0` |  |
+| [``Lightkey``](https://lightkeyapp.com/) | ``4.0.6.1,cdc0a36a64-16661…`` | `2` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Loaf``](https://getloaf.io/) | ``1.1.21`` | `2` |  |  |  |  |  | `0` |  |
 | [``Looking Glass Studio``](https://look.glass/) | ``1.5.0`` | `2` |  |  |  |  |  | `0` |  |
 | [``LuxMark``](http://www.luxmark.info/) | ``3.1`` | `2` |  |  |  |  |  | `0` |  |

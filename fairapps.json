@@ -55,14 +55,14 @@
       "name" : "World Fair",
       "permissions" : [
         {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read and write files in order to…"
-        },
-        {
           "identifier" : "com.apple.security.network.client",
           "type" : "entitlement",
           "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read and write files in order to…"
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
@@ -635,7 +635,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "961e4db062000fa7b789e9376e7e17843cc5e0ecf64092a6ea49a2a6a67c663c",
+      "sha256" : "17d9fb64440729b8ff660f16c5acc46078374913af02b9842ca2109316d441b4",
       "size" : 19318094,
       "stats" : {
         "coreSize" : 168592,
@@ -1373,7 +1373,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "7c82503d8266dca62a99b7020935d45810fd6ee4aa21254c9710ba170e3b5368",
+      "sha256" : "eb20d430a36441ab254e053bff2fda9744442a5f7ca89144d91b99d2c3b6dcd4",
       "size" : 3085511,
       "stats" : {
         "coreSize" : 168592,
@@ -1498,6 +1498,46 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.World-Fair",
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-macOS.zip",
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read and write files in order to…"
+        }
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "422a08861c4417e0f6d73f3aff7b0979bc72c81c24d6fa74461d6e81edea3716",
+      "size" : 7994433,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 1,
+        "forkCount" : 0,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.4",
+      "versionDate" : "2022-10-19T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-macOS.zip",
@@ -1529,6 +1569,42 @@
       "version" : "0.0.16",
       "versionDate" : "2022-02-12T00:00:00Z",
       "versionDescription" : "Release 0.0.16"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "sha256" : "e24f1528cffa68f0805ba103de897941212d14fabdca74bbf7a68306a6d385da",
+      "size" : 26851548,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 0,
+        "forkCount" : 0,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "tintColor" : "17B0E6",
+      "version" : "0.0.28",
+      "versionDate" : "2022-10-19T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     }
   ],
   "fundingSources" : [

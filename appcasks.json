@@ -26,8 +26,8 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3879,
-        "viewCount" : 310
+        "impressionCount" : 3886,
+        "viewCount" : 312
       },
       "subtitle" : "Create DMGs and other archives",
       "version" : "3.6.5",
@@ -60,7 +60,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3774,
+        "impressionCount" : 3779,
         "viewCount" : 313
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -127,7 +127,7 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 242,
-        "impressionCount" : 691,
+        "impressionCount" : 696,
         "viewCount" : 55
       },
       "subtitle" : "Native app email client for Gmail",
@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 85,
-        "impressionCount" : 558
+        "impressionCount" : 563
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -167,7 +167,7 @@
       "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 393
+        "impressionCount" : 398
       },
       "subtitle" : "Video resource player",
       "tintColor" : "C4F09A",
@@ -187,7 +187,7 @@
       "sha256" : "0d42ee30105096529bc89394c67733069c56b2139fd09dea69944d7e188f0972",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 416
+        "impressionCount" : 423
       },
       "subtitle" : "Adobe extensions installer",
       "tintColor" : "792A32",
@@ -250,7 +250,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 381
+        "impressionCount" : 384
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -270,7 +270,7 @@
       "sha256" : "711b1e4322970d2ece65ab5d51e18f2e634c2f43847db9a7a98e4326e1b8217c",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 311
+        "impressionCount" : 317
       },
       "subtitle" : "Terminal emulation program",
       "tintColor" : "8A6363",
@@ -2385,17 +2385,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "bettertouchtool",
-      "downloadURL" : "https://folivora.ai/releases/btt3.904-2065.zip",
+      "downloadURL" : "https://folivora.ai/releases/btt3.906-2067.zip",
       "homepage" : "https://folivora.ai/",
       "localizedDescription" : "Tool to customize input devices and automate computer systems",
       "name" : "BetterTouchTool",
-      "sha256" : "5c16686f2d47420d920f45208d1afd5709971ce8a776252e5d96e59dfdad93a6",
+      "sha256" : "4939a57723da8603017836f935db80bf8dbef3f303d737846f732e11a2138d80",
       "stats" : {
         "downloadCount" : 963
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
-      "version" : "3.904,2065",
-      "versionDate" : "2022-10-19T00:00:00Z"
+      "version" : "3.906,2067",
+      "versionDate" : "2022-10-19T17:57:50Z"
     },
     {
       "beta" : false,
@@ -3503,16 +3503,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "visual-studio",
-      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/698239af-0344-43ed-868e-dc936ff9107b/c52e8c47bb47adab5d6b6b64d5d888e8/visualstudioformacinstaller-17.3.0.215.dmg",
+      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/9f141bc3-da1f-4d6f-9f5d-fbadc4044e77/439376ea8c332d391037716579d25aa6/visualstudioformacinstaller-17.3.8.4.dmg",
       "homepage" : "https://visualstudio.microsoft.com/vs/mac/",
       "localizedDescription" : "Integrated development environment",
       "name" : "Microsoft Visual Studio",
-      "sha256" : "9b1ae2baedb7dedd934c728bbde638aa001d514e7f7e828e7de61910edf2b41f",
+      "sha256" : "788f5aa9387d8644c3f458bb58076723b7e7fa4efaa6837aa842185e6ff3eaa5",
       "stats" : {
         "downloadCount" : 579
       },
       "subtitle" : "Integrated development environment",
-      "version" : "17.3.0.215"
+      "version" : "17.3.8.4",
+      "versionDate" : "2022-10-19T17:57:50Z"
     },
     {
       "beta" : false,
@@ -5148,17 +5149,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "imazing",
-      "downloadURL" : "https://downloads.imazing.com/mac/iMazing/2.16.0.16781/iMazing_2.16.0.16781.dmg",
+      "downloadURL" : "https://downloads.imazing.com/mac/iMazing/2.16.1.16790/iMazing_2.16.1.16790.dmg",
       "homepage" : "https://imazing.com/",
       "localizedDescription" : "iPhone management application",
       "name" : "iMazing",
-      "sha256" : "74c73d5555bb5cd7dd1141f8455e5f5e5f71d3bcd80fe563998ebb63a5bac64d",
+      "sha256" : "9f9e1a94db30d288826d99ad33bc461759d3b8c249967dad02453c7f4b5a1e99",
       "stats" : {
         "downloadCount" : 330
       },
       "subtitle" : "iPhone management application",
-      "version" : "2.16.0,16781",
-      "versionDate" : "2022-10-18T00:00:00Z"
+      "version" : "2.16.1,16790",
+      "versionDate" : "2022-10-19T17:57:50Z"
     },
     {
       "beta" : false,
@@ -6104,17 +6105,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "ultimaker-cura",
-      "downloadURL" : "https://github.com/Ultimaker/Cura/releases/download/5.2.0/Ultimaker-Cura-5.2.0-mac.dmg",
+      "downloadURL" : "https://github.com/Ultimaker/Cura/releases/download/5.2.1/Ultimaker-Cura-5.2.1-mac.dmg",
       "homepage" : "https://ultimaker.com/software/ultimaker-cura",
       "localizedDescription" : "3D printer and slicing GUI",
       "name" : "Ultimaker Cura",
-      "sha256" : "43065b153160c9e52f379a6b7d051ffa728bee822be8c900e9f49dd8c9eabd36",
+      "sha256" : "2d8a48bd060f822ad7ef2ec1e4a1853d10e7478460738406fc376c594bd08061",
       "stats" : {
         "downloadCount" : 240
       },
       "subtitle" : "3D printer and slicing GUI",
-      "version" : "5.2.0",
-      "versionDate" : "2022-10-19T00:00:00Z"
+      "version" : "5.2.1",
+      "versionDate" : "2022-10-19T17:57:50Z"
     },
     {
       "beta" : false,
@@ -22060,16 +22061,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "trezor-suite",
-      "downloadURL" : "https://suite.trezor.io/web/static/desktop/Trezor-Suite-22.9.3-mac-x64.dmg",
+      "downloadURL" : "https://suite.trezor.io/web/static/desktop/Trezor-Suite-22.10.2-mac-x64.dmg",
       "homepage" : "https://suite.trezor.io/",
       "localizedDescription" : "Companion app for the Trezor hardware wallet",
       "name" : "TREZOR Suite",
-      "sha256" : "c762364211e9d0f6ba11d1db4c59dd1d6faf1e9b313a776aba3682426f027815",
+      "sha256" : "54ba97e2b1bc29e3d4c11b3a7433db75d7af900c00bacc39d02c10ed8644e983",
       "stats" : {
         "downloadCount" : 22
       },
       "subtitle" : "Companion app for the Trezor hardware wallet",
-      "version" : "22.9.3"
+      "version" : "22.10.2",
+      "versionDate" : "2022-10-19T17:57:50Z"
     },
     {
       "beta" : false,
@@ -55842,20 +55844,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "silentknight",
-      "caption" : "SilentKnight updated from 2.00,2022.10 to 2.01,2022.10",
-      "date" : "2022-10-18T01:54:30Z",
-      "identifier" : "release-silentknight-2.01,2022.10",
-      "title" : "New Release: SilentKnight 2.01,2022.10"
-    },
-    {
-      "appID" : "duet",
-      "caption" : "Duet updated from 2.4.5.0 to 2.4.6.0",
-      "date" : "2022-10-18T01:54:30Z",
-      "identifier" : "release-duet-2.4.6.0",
-      "title" : "New Release: Duet 2.4.6.0"
-    },
-    {
       "appID" : "eudic",
       "caption" : "Eudic updated from 4.2.3,1075 to 4.2.4,1076",
       "date" : "2022-10-18T01:54:30Z",
@@ -56192,13 +56180,6 @@
       "title" : "New Release: GitKraken 8.10.1"
     },
     {
-      "appID" : "imazing",
-      "caption" : "iMazing updated from 2.15.12,16657 to 2.16.0,16781",
-      "date" : "2022-10-18T19:33:26Z",
-      "identifier" : "release-imazing-2.16.0,16781",
-      "title" : "New Release: iMazing 2.16.0,16781"
-    },
-    {
       "appID" : "firefox",
       "caption" : "Mozilla Firefox updated from 105.0.3 to 106.0",
       "date" : "2022-10-19T02:48:35Z",
@@ -56211,13 +56192,6 @@
       "date" : "2022-10-19T02:48:36Z",
       "identifier" : "release-microsoft-teams-1.5.00.26358",
       "title" : "New Release: Microsoft Teams 1.5.00.26358"
-    },
-    {
-      "appID" : "bettertouchtool",
-      "caption" : "BetterTouchTool updated from 3.903,2063 to 3.904,2065",
-      "date" : "2022-10-19T02:48:36Z",
-      "identifier" : "release-bettertouchtool-3.904,2065",
-      "title" : "New Release: BetterTouchTool 3.904,2065"
     },
     {
       "appID" : "metasploit",
@@ -56260,13 +56234,6 @@
       "date" : "2022-10-19T02:48:37Z",
       "identifier" : "release-setapp-3.13.0,12,1666091768",
       "title" : "New Release: Setapp 3.13.0,12,1666091768"
-    },
-    {
-      "appID" : "ultimaker-cura",
-      "caption" : "Ultimaker Cura updated from 5.1.1 to 5.2.0",
-      "date" : "2022-10-19T02:48:37Z",
-      "identifier" : "release-ultimaker-cura-5.2.0",
-      "title" : "New Release: Ultimaker Cura 5.2.0"
     },
     {
       "appID" : "oracle-jdk-javadoc",
@@ -56540,6 +56507,41 @@
       "date" : "2022-10-19T15:36:19Z",
       "identifier" : "release-gitfiend-0.38.3",
       "title" : "New Release: GitFiend 0.38.3"
+    },
+    {
+      "appID" : "bettertouchtool",
+      "caption" : "BetterTouchTool updated from 3.904,2065 to 3.906,2067",
+      "date" : "2022-10-19T17:57:50Z",
+      "identifier" : "release-bettertouchtool-3.906,2067",
+      "title" : "New Release: BetterTouchTool 3.906,2067"
+    },
+    {
+      "appID" : "visual-studio",
+      "caption" : "Microsoft Visual Studio updated from 17.3.0.215 to 17.3.8.4",
+      "date" : "2022-10-19T17:57:51Z",
+      "identifier" : "release-visual-studio-17.3.8.4",
+      "title" : "New Release: Microsoft Visual Studio 17.3.8.4"
+    },
+    {
+      "appID" : "imazing",
+      "caption" : "iMazing updated from 2.16.0,16781 to 2.16.1,16790",
+      "date" : "2022-10-19T17:57:51Z",
+      "identifier" : "release-imazing-2.16.1,16790",
+      "title" : "New Release: iMazing 2.16.1,16790"
+    },
+    {
+      "appID" : "ultimaker-cura",
+      "caption" : "Ultimaker Cura updated from 5.2.0 to 5.2.1",
+      "date" : "2022-10-19T17:57:51Z",
+      "identifier" : "release-ultimaker-cura-5.2.1",
+      "title" : "New Release: Ultimaker Cura 5.2.1"
+    },
+    {
+      "appID" : "trezor-suite",
+      "caption" : "TREZOR Suite updated from 22.9.3 to 22.10.2",
+      "date" : "2022-10-19T17:57:52Z",
+      "identifier" : "release-trezor-suite-22.10.2",
+      "title" : "New Release: TREZOR Suite 22.10.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

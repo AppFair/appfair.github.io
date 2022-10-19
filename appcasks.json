@@ -26,7 +26,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3869,
+        "impressionCount" : 3870,
         "viewCount" : 309
       },
       "subtitle" : "Create DMGs and other archives",
@@ -60,7 +60,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3764,
+        "impressionCount" : 3766,
         "viewCount" : 311
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -127,8 +127,8 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 242,
-        "impressionCount" : 684,
-        "viewCount" : 54
+        "impressionCount" : 685,
+        "viewCount" : 55
       },
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.39.0"
@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 85,
-        "impressionCount" : 549
+        "impressionCount" : 552
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -167,7 +167,7 @@
       "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 384
+        "impressionCount" : 385
       },
       "subtitle" : "Video resource player",
       "tintColor" : "C4F09A",
@@ -187,7 +187,7 @@
       "sha256" : "0d42ee30105096529bc89394c67733069c56b2139fd09dea69944d7e188f0972",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 407
+        "impressionCount" : 409
       },
       "subtitle" : "Adobe extensions installer",
       "tintColor" : "792A32",
@@ -250,7 +250,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 371
+        "impressionCount" : 373
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -270,7 +270,7 @@
       "sha256" : "711b1e4322970d2ece65ab5d51e18f2e634c2f43847db9a7a98e4326e1b8217c",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 302
+        "impressionCount" : 304
       },
       "subtitle" : "Terminal emulation program",
       "tintColor" : "8A6363",
@@ -992,16 +992,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "github",
-      "downloadURL" : "https://desktop.githubusercontent.com/github-desktop/releases/3.1.1-a170ddea/GitHubDesktop-x64.zip",
+      "downloadURL" : "https://desktop.githubusercontent.com/github-desktop/releases/3.1.2-7cd66717/GitHubDesktop-x64.zip",
       "homepage" : "https://desktop.github.com/",
       "localizedDescription" : "Desktop client for GitHub repositories",
       "name" : "GitHub Desktop",
-      "sha256" : "4f2d2aa295680b8072ae2208f8a8f0cf11a72898550191aeaf2cfcf3da465a02",
+      "sha256" : "a73cc106c898d7af82de7a2911f63f9659dca3c3c2b26eb67ab8259a095e0ad7",
       "stats" : {
         "downloadCount" : 3320
       },
       "subtitle" : "Desktop client for GitHub repositories",
-      "version" : "3.1.1-a170ddea"
+      "version" : "3.1.2-7cd66717",
+      "versionDate" : "2022-10-19T09:40:00Z"
     },
     {
       "beta" : false,
@@ -3791,16 +3792,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "nextcloud",
-      "downloadURL" : "https://github.com/nextcloud/desktop/releases/download/v3.6.0/Nextcloud-3.6.0.pkg",
+      "downloadURL" : "https://github.com/nextcloud/desktop/releases/download/v3.6.1/Nextcloud-3.6.1.pkg",
       "homepage" : "https://nextcloud.com/",
       "localizedDescription" : "Desktop sync client for Nextcloud software products",
       "name" : "Nextcloud",
-      "sha256" : "bf4d6da4df3453658bd4b14bfcda450109a8ac85005f23785af8ccac54a5f3d3",
+      "sha256" : "fc15ccbff7a674d766389807c1bf6948a3bcee5cc4dd939757eab2310eafb61d",
       "stats" : {
         "downloadCount" : 523
       },
       "subtitle" : "Desktop sync client for Nextcloud software products",
-      "version" : "3.6.0"
+      "version" : "3.6.1",
+      "versionDate" : "2022-10-19T09:40:00Z"
     },
     {
       "beta" : false,
@@ -40441,16 +40443,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "curio",
-      "downloadURL" : "https://www.zengobi.com/downloads/Curio22111.zip",
+      "downloadURL" : "https://www.zengobi.com/downloads/Curio23007.zip",
       "homepage" : "https://zengobi.com/curio/",
       "localizedDescription" : "Note-taking and organizing app",
       "name" : "Curio",
-      "sha256" : "d49099665bdd4608fd3569d4b563fb7a2d4768b2f4b204aefded89716a118b2e",
+      "sha256" : "ef6842d57f3798180dc462c3207274fcf3c16d0386d632d415c33c80724d9414",
       "stats" : {
         "downloadCount" : 4
       },
       "subtitle" : "Note-taking and organizing app",
-      "version" : "22.1.1,22111"
+      "version" : "23.0,23007",
+      "versionDate" : "2022-10-19T09:40:00Z"
     },
     {
       "beta" : false,
@@ -55833,27 +55836,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "pdf-expert",
-      "caption" : "PDF Expert updated from 3.0.27,863 to 3.0.28,868",
-      "date" : "2022-10-18T01:54:28Z",
-      "identifier" : "release-pdf-expert-3.0.28,868",
-      "title" : "New Release: PDF Expert 3.0.28,868"
-    },
-    {
-      "appID" : "zeplin",
-      "caption" : "Zeplin updated from 4.4,1640 to 4.5,1672",
-      "date" : "2022-10-18T01:54:28Z",
-      "identifier" : "release-zeplin-4.5,1672",
-      "title" : "New Release: Zeplin 4.5,1672"
-    },
-    {
-      "appID" : "surfshark",
-      "caption" : "Surfshark updated from 4.4.0,1292 to 4.4.1,1303",
-      "date" : "2022-10-18T01:54:28Z",
-      "identifier" : "release-surfshark-4.4.1,1303",
-      "title" : "New Release: Surfshark 4.4.1,1303"
-    },
-    {
       "appID" : "retroarch",
       "caption" : "RetroArch updated from 1.11.1 to 1.12.0",
       "date" : "2022-10-18T01:54:29Z",
@@ -56531,6 +56513,27 @@
       "date" : "2022-10-19T06:08:51Z",
       "identifier" : "release-zulu-19.0.1,19.30.11-ca",
       "title" : "New Release: Azul Zulu Java Standard Edition Development Kit 19.0.1,19.30.11-ca"
+    },
+    {
+      "appID" : "github",
+      "caption" : "GitHub Desktop updated from 3.1.1-a170ddea to 3.1.2-7cd66717",
+      "date" : "2022-10-19T09:40:01Z",
+      "identifier" : "release-github-3.1.2-7cd66717",
+      "title" : "New Release: GitHub Desktop 3.1.2-7cd66717"
+    },
+    {
+      "appID" : "nextcloud",
+      "caption" : "Nextcloud updated from 3.6.0 to 3.6.1",
+      "date" : "2022-10-19T09:40:02Z",
+      "identifier" : "release-nextcloud-3.6.1",
+      "title" : "New Release: Nextcloud 3.6.1"
+    },
+    {
+      "appID" : "curio",
+      "caption" : "Curio updated from 22.1.1,22111 to 23.0,23007",
+      "date" : "2022-10-19T09:40:02Z",
+      "identifier" : "release-curio-23.0,23007",
+      "title" : "New Release: Curio 23.0,23007"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

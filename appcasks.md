@@ -23,19 +23,19 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `15` | `2022-10-18T00:00:00Z` |  | `3869` | `309` |  | `0` | `public.app-category.developer-tools` |
-| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.9`` | `7` | `2022-10-18T00:00:00Z` |  | `3764` | `311` |  | `0` | `public.app-category.productivity` |
+| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `15` | `2022-10-18T00:00:00Z` |  | `3870` | `309` |  | `0` | `public.app-category.developer-tools` |
+| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.9`` | `7` | `2022-10-18T00:00:00Z` |  | `3766` | `311` |  | `0` | `public.app-category.productivity` |
 | [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `12` |  |  |  | `145` |  | `0` | `public.app-category.utilities` |
 | [``Signal``](https://signal.org/) | ``5.62.0`` | `2696` |  |  |  |  |  | `0` |  |
-| [``Mimestream``](https://mimestream.com/) | ``0.39.0`` | `242` |  |  | `684` | `54` |  | `0` |  |
-| [``Zulip``](https://zulipchat.com/apps/) | ``5.9.3`` | `85` |  |  | `549` |  |  | `0` | `public.app-category.productivity` |
-| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `4` |  |  | `384` |  |  | `0` | `public.app-category.developer-tools` |
-| [``ZXPInstaller``](https://zxpinstaller.com/) | ``1.8.2`` | `3` |  |  | `407` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Mimestream``](https://mimestream.com/) | ``0.39.0`` | `242` |  |  | `685` | `55` |  | `0` |  |
+| [``Zulip``](https://zulipchat.com/apps/) | ``5.9.3`` | `85` |  |  | `552` |  |  | `0` | `public.app-category.productivity` |
+| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `4` |  |  | `385` |  |  | `0` | `public.app-category.developer-tools` |
+| [``ZXPInstaller``](https://zxpinstaller.com/) | ``1.8.2`` | `3` |  |  | `409` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``106.0`` | `17008` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `8041` |  |  |  |  |  | `0` |  |
 | [``HandBrake``](https://handbrake.fr/) | ``1.5.1`` | `1000` |  |  |  |  |  | `0` |  |
-| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `786` |  |  | `371` |  |  | `0` |  |
-| [``ZTerm``](https://www.dalverson.com/zterm/) | ``1.2`` | `1` |  |  | `302` |  |  | `0` |  |
+| [``Zotero``](https://www.zotero.org/) | ``6.0.15`` | `786` |  |  | `373` |  |  | `0` |  |
+| [``ZTerm``](https://www.dalverson.com/zterm/) | ``1.2`` | `1` |  |  | `304` |  |  | `0` |  |
 | [``Microsoft Visual Studio …``](https://code.visualstudio.com/) | ``1.72.2`` | `32787` |  |  |  |  |  | `0` |  |
 | [``iTerm2``](https://www.iterm2.com/) | ``3.4.16`` | `27223` |  |  |  |  |  | `0` |  |
 | [``Docker Desktop``](https://www.docker.com/products/docker-desktop) | ``4.12.0,85629`` | `24702` |  |  |  |  |  | `0` |  |
@@ -87,7 +87,7 @@ tr:nth-child(even) {
 | [``Microsoft Edge``](https://www.microsoft.com/edge) | ``106.0.1370.47`` | `3440` |  |  |  |  |  | `0` |  |
 | [``KeePassXC``](https://keepassxc.org/) | ``2.7.1`` | `3339` |  |  |  |  |  | `0` |  |
 | [``1Password``](https://1password.com/) | ``8.9.4`` | `3326` |  |  |  |  |  | `0` |  |
-| [``GitHub Desktop``](https://desktop.github.com/) | ``3.1.1-a170ddea`` | `3320` |  |  |  |  |  | `0` |  |
+| [``GitHub Desktop``](https://desktop.github.com/) | ``3.1.2-7cd66717`` | `3320` | `2022-10-19T09:40:00Z` |  |  |  |  | `0` |  |
 | [``Raycast``](https://raycast.app/) | ``1.41.1`` | `3239` |  |  |  |  |  | `0` |  |
 | [``LibreOffice``](https://www.libreoffice.org/) | ``7.4.2`` | `3235` |  |  |  |  |  | `0` |  |
 | [``Wireshark``](https://www.wireshark.org/) | ``4.0.0`` | `3207` |  |  |  |  |  | `0` |  |
@@ -288,7 +288,7 @@ tr:nth-child(even) {
 | [``WebPQuickLook``](https://github.com/emin/WebPQuickLook) | ``1.0`` | `525` |  |  |  |  |  | `0` |  |
 | [``Microsoft PowerPoint``](https://products.office.com/en-US/powerpoint) | ``16.66.22101101`` | `524` |  |  |  |  |  | `0` |  |
 | [``Joplin``](https://joplinapp.org/) | ``2.8.8`` | `523` |  |  |  |  |  | `0` |  |
-| [``Nextcloud``](https://nextcloud.com/) | ``3.6.0`` | `523` |  |  |  |  |  | `0` |  |
+| [``Nextcloud``](https://nextcloud.com/) | ``3.6.1`` | `523` | `2022-10-19T09:40:00Z` |  |  |  |  | `0` |  |
 | [``Latest``](https://max.codes/latest) | ``0.8.3,820`` | `521` |  |  |  |  |  | `0` |  |
 | [``OSXFUSE``](https://osxfuse.github.io/) | ``3.11.2`` | `519` |  |  |  |  |  | `0` |  |
 | [``cscreen``](https://www.pyehouse.com/cscreen/) | ``2012.09`` | `516` |  |  |  |  |  | `0` |  |
@@ -2965,7 +2965,7 @@ tr:nth-child(even) {
 | [``CoverLoad``](https://coverloadapp.com/) | ``2.2.1-763`` | `4` |  |  |  |  |  | `0` |  |
 | [``CrushFTP``](https://www.crushftp.com/) | ``10`` | `4` |  |  |  |  |  | `0` |  |
 | [``Cura LulzBot Edition``](https://www.lulzbot.com/learn/tutorials/cura-lulzbot-edition-installation-macos) | ``3.6.21,ce3e47a08065c6687…`` | `4` |  |  |  |  |  | `0` |  |
-| [``Curio``](https://zengobi.com/curio/) | ``22.1.1,22111`` | `4` |  |  |  |  |  | `0` |  |
+| [``Curio``](https://zengobi.com/curio/) | ``23.0,23007`` | `4` | `2022-10-19T09:40:00Z` |  |  |  |  | `0` |  |
 | [``DataGraph``](https://www.visualdatatools.com/DataGraph/) | ``5.0,59`` | `4` |  |  |  |  |  | `0` |  |
 | [``DCP-o-matic KDM Creator``](https://dcpomatic.com/) | ``2.16.30`` | `4` |  |  |  |  |  | `0` |  |
 | [``DeviceInfo``](https://github.com/CoreNion/DeviceInfo/) | ``1.0`` | `4` |  |  |  |  |  | `0` |  |

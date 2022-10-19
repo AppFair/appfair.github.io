@@ -113,7 +113,7 @@ tr:nth-child(even) {
 | [``Cyberduck``](https://cyberduck.io/) | ``8.4.5,38423`` | `2419` |  |  |  |  |  | `0` |  |
 | [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2393` |  |  |  |  |  | `0` |  |
 | [``Microsoft Office``](https://products.office.com/mac/microsoft-office-for-mac/) | ``16.66.22101101`` | `2380` |  |  |  |  |  | `0` |  |
-| [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``4.0.0,20037`` | `2377` | `2022-10-19T06:08:50Z` |  |  |  |  | `0` |  |
+| [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``4.0.0,20037`` | `2377` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Figma``](https://www.figma.com/) | ``116.4.2`` | `2374` |  |  |  |  |  | `0` |  |
 | [``BasicTeX``](https://www.tug.org/mactex/morepackages.html) | ``2022.0314`` | `2350` |  |  |  |  |  | `0` |  |
 | [``Dropbox``](https://www.dropbox.com/) | ``159.4.5870`` | `2305` |  |  |  |  |  | `0` |  |
@@ -322,7 +322,7 @@ tr:nth-child(even) {
 | [``CleanMyMac X``](https://macpaw.com/cleanmymac) | ``4.11.5,41105.0.221007163`` | `450` |  |  |  |  |  | `0` |  |
 | [``BBEdit``](https://www.barebones.com/products/bbedit/) | ``14.6.1`` | `443` |  |  |  |  |  | `0` |  |
 | [``Scroll Reverser``](https://pilotmoon.com/scrollreverser/) | ``1.8.2,10505`` | `443` |  |  |  |  |  | `0` |  |
-| [``Azul Zulu Java Standard …``](https://www.azul.com/downloads/) | ``19.0.1,19.30.11-ca`` | `442` | `2022-10-19T06:08:50Z` |  |  |  |  | `0` |  |
+| [``Azul Zulu Java Standard …``](https://www.azul.com/downloads/) | ``19.0.1,19.30.11-ca`` | `442` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Todoist``](https://todoist.com/home) | ``8.1.0`` | `441` |  |  |  |  |  | `0` |  |
 | [``darktable``](https://www.darktable.org/) | ``4.0.1.1`` | `437` |  |  |  |  |  | `0` |  |
 | [``Leapp``](https://www.leapp.cloud/) | ``0.15.1`` | `435` |  |  |  |  |  | `0` |  |

@@ -26,7 +26,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3871,
+        "impressionCount" : 3873,
         "viewCount" : 309
       },
       "subtitle" : "Create DMGs and other archives",
@@ -60,8 +60,8 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3767,
-        "viewCount" : 311
+        "impressionCount" : 3769,
+        "viewCount" : 312
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -93,7 +93,7 @@
       "sha256" : "d9ee2504859f86287c3adfb45318c1868f1ec9d9fecff8a43db245541aef08b5",
       "stats" : {
         "downloadCount" : 12,
-        "viewCount" : 145
+        "viewCount" : 146
       },
       "subtitle" : "Spam filtering extension for e-mail clients",
       "version" : "2.9.50"
@@ -127,7 +127,7 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 242,
-        "impressionCount" : 685,
+        "impressionCount" : 687,
         "viewCount" : 55
       },
       "subtitle" : "Native app email client for Gmail",
@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 85,
-        "impressionCount" : 553
+        "impressionCount" : 555
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -167,7 +167,7 @@
       "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 385
+        "impressionCount" : 387
       },
       "subtitle" : "Video resource player",
       "tintColor" : "C4F09A",
@@ -187,7 +187,7 @@
       "sha256" : "0d42ee30105096529bc89394c67733069c56b2139fd09dea69944d7e188f0972",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 409
+        "impressionCount" : 411
       },
       "subtitle" : "Adobe extensions installer",
       "tintColor" : "792A32",
@@ -250,7 +250,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 374
+        "impressionCount" : 377
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -270,7 +270,7 @@
       "sha256" : "711b1e4322970d2ece65ab5d51e18f2e634c2f43847db9a7a98e4326e1b8217c",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 305
+        "impressionCount" : 308
       },
       "subtitle" : "Terminal emulation program",
       "tintColor" : "8A6363",
@@ -3609,7 +3609,7 @@
       },
       "subtitle" : "Tool to show live information about the batteries in various devices",
       "version" : "3.9.10,CC92B59F",
-      "versionDate" : "2022-10-19T11:29:19Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,

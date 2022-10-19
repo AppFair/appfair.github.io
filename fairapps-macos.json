@@ -1055,7 +1055,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "e0907e67c7249d0726f4ec1ed053a26a6ac6a83f1f8e921fc8c63e7f01596f1e",
+      "sha256" : "2eedefc7aa53e72963563ec001ee51e12a09d81be420d6faa59cea76a7d71d16",
       "size" : 3085511,
       "stats" : {
         "coreSize" : 168592,
@@ -1375,7 +1375,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "e9baf26401fb6ed272fb649ff9d6b6df32b787c2779eb7024fcbb773b48b2cb2",
+      "sha256" : "17d9fb64440729b8ff660f16c5acc46078374913af02b9842ca2109316d441b4",
       "size" : 20783198,
       "stats" : {
         "coreSize" : 168592,

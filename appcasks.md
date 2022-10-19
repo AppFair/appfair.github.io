@@ -23,8 +23,8 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `15` | `2022-10-18T00:00:00Z` |  | `3870` | `309` |  | `0` | `public.app-category.developer-tools` |
-| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.9`` | `7` | `2022-10-18T00:00:00Z` |  | `3766` | `311` |  | `0` | `public.app-category.productivity` |
+| [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `15` | `2022-10-18T00:00:00Z` |  | `3871` | `309` |  | `0` | `public.app-category.developer-tools` |
+| [``EagleFiler``](https://c-command.com/eaglefiler/) | ``1.9.9`` | `7` | `2022-10-18T00:00:00Z` |  | `3767` | `311` |  | `0` | `public.app-category.productivity` |
 | [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `12` |  |  |  | `145` |  | `0` | `public.app-category.utilities` |
 | [``Signal``](https://signal.org/) | ``5.62.0`` | `2696` |  |  |  |  |  | `0` |  |
 | [``Mimestream``](https://mimestream.com/) | ``0.39.0`` | `242` |  |  | `685` | `55` |  | `0` |  |
@@ -274,7 +274,7 @@ tr:nth-child(even) {
 | [``GPG Suite (without GPG M…``](https://gpgtools.org/) | ``2022.1`` | `562` |  |  |  |  |  | `0` |  |
 | [``JetBrains PhpStorm``](https://www.jetbrains.com/phpstorm/) | ``2022.2.3,222.4345.15`` | `562` |  |  |  |  |  | `0` |  |
 | [``MacVim``](https://github.com/macvim-dev/macvim) | ``174`` | `556` |  |  |  |  |  | `0` |  |
-| [``coconutBattery``](https://www.coconut-flavour.com/coconutbattery/) | ``3.9.9,6b311840`` | `555` |  |  |  |  |  | `0` |  |
+| [``coconutBattery``](https://www.coconut-flavour.com/coconutbattery/) | ``3.9.10,CC92B59F`` | `555` | `2022-10-19T11:29:19Z` |  |  |  |  | `0` |  |
 | [``Itsycal``](https://www.mowglii.com/itsycal/) | ``0.13.3,2219`` | `550` |  |  |  |  |  | `0` |  |
 | [``Kap``](https://getkap.co/) | ``3.5.5`` | `550` |  |  |  |  |  | `0` |  |
 | [``fly``](https://github.com/concourse/concourse) | ``7.8.3`` | `548` |  |  |  |  |  | `0` |  |
@@ -874,7 +874,7 @@ tr:nth-child(even) {
 | [``Frescobaldi``](https://frescobaldi.org/) | ``3.1.3`` | `79` |  |  |  |  |  | `0` |  |
 | [``Home Assistant``](https://companion.home-assistant.io/) | ``2022.10,2022.398`` | `79` |  |  |  |  |  | `0` |  |
 | [``NameChanger``](https://mrrsoftware.com/namechanger/) | ``3.4.4,13`` | `79` |  |  |  |  |  | `0` |  |
-| [``Ableton Live Standard``](https://www.ableton.com/en/live/) | ``11.2.5`` | `78` | `2022-10-19T10:39:16Z` |  |  |  |  | `0` |  |
+| [``Ableton Live Standard``](https://www.ableton.com/en/live/) | ``11.2.5`` | `78` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Aquamacs``](https://aquamacs.org/) | ``3.6`` | `78` |  |  |  |  |  | `0` |  |
 | [``PsychoPy``](https://github.com/psychopy/psychopy) | ``2022.2.4`` | `78` |  |  |  |  |  | `0` |  |
 | [``RawTherapee``](https://rawtherapee.com/) | ``5.8`` | `78` |  |  |  |  |  | `0` |  |

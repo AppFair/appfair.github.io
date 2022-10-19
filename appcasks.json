@@ -26,7 +26,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 3870,
+        "impressionCount" : 3871,
         "viewCount" : 309
       },
       "subtitle" : "Create DMGs and other archives",
@@ -60,7 +60,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 3766,
+        "impressionCount" : 3767,
         "viewCount" : 311
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -3599,16 +3599,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "coconutbattery",
-      "downloadURL" : "https://www.coconut-flavour.com/downloads/coconutBattery_399_6b311840.zip",
+      "downloadURL" : "https://www.coconut-flavour.com/downloads/coconutBattery_3910_CC92B59F.zip",
       "homepage" : "https://www.coconut-flavour.com/coconutbattery/",
       "localizedDescription" : "Tool to show live information about the batteries in various devices",
       "name" : "coconutBattery",
-      "sha256" : "1dfbcd40a3737ba0161fdaced8d24390ba765d2e701fd0e54ac0d9ca65d8569c",
+      "sha256" : "6e24434c453103ff0e6674abc58f255cb008085113b261813817c2fb7a2918cd",
       "stats" : {
         "downloadCount" : 555
       },
       "subtitle" : "Tool to show live information about the batteries in various devices",
-      "version" : "3.9.9,6b311840"
+      "version" : "3.9.10,CC92B59F",
+      "versionDate" : "2022-10-19T11:29:19Z"
     },
     {
       "beta" : false,
@@ -11923,7 +11924,7 @@
       },
       "subtitle" : "Sound and music editor",
       "version" : "11.2.5",
-      "versionDate" : "2022-10-19T10:39:16Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55837,13 +55838,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "apifox",
-      "caption" : "Apifox updated from 2.2.0 to 2.2.1",
-      "date" : "2022-10-18T01:54:29Z",
-      "identifier" : "release-apifox-2.2.1",
-      "title" : "New Release: Apifox 2.2.1"
-    },
-    {
       "appID" : "uvtools",
       "caption" : "UVtools updated from 3.7.0 to 3.7.1",
       "date" : "2022-10-18T01:54:29Z",
@@ -56535,6 +56529,13 @@
       "date" : "2022-10-19T10:39:17Z",
       "identifier" : "release-ableton-live-standard-11.2.5",
       "title" : "New Release: Ableton Live Standard 11.2.5"
+    },
+    {
+      "appID" : "coconutbattery",
+      "caption" : "coconutBattery updated from 3.9.9,6b311840 to 3.9.10,CC92B59F",
+      "date" : "2022-10-19T11:29:20Z",
+      "identifier" : "release-coconutbattery-3.9.10,CC92B59F",
+      "title" : "New Release: coconutBattery 3.9.10,CC92B59F"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

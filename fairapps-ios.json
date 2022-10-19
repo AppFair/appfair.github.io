@@ -510,7 +510,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "d586755888a504ee690d7733638d6c35a84fc4b44f85563ab769d776e0c6b3d3",
+      "sha256" : "2a18efa90ff145a4c509b3c96e495518cd97844d784a62adcb6fc4dd5e1c0776",
       "size" : 14900176,
       "stats" : {
         "coreSize" : 168592,
@@ -583,7 +583,7 @@
       "sha256" : "77d9c1bf7aba67127e5e5bcab9e90d6cf3e19d534a62d04b5fa2e1bbd3b7f741",
       "size" : 12762342,
       "stats" : {
-        "coreSize" : 170320,
+        "coreSize" : 168592,
         "downloadCount" : 6,
         "forkCount" : 0,
         "impressionCount" : 899,
@@ -845,7 +845,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "f8e056f2e4826bbc38e840a16e2ba90eed7146eb12bd9c113727dcf47db14c74",
+      "sha256" : "1c0a14ade9bf7661d647e976229b80d8e3aec59ff61fc9c736372c678c62e08f",
       "size" : 4275846,
       "stats" : {
         "coreSize" : 168592,
@@ -880,7 +880,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "2d92a41ff7d87890f1cc85de7a27df559ca5d095ea06b0adfd4ddddba38f717d",
+      "sha256" : "0f57f73d9555aa75e9207c3533902232fd9d6206bc3c0e73ed9557646a5d4bc9",
       "size" : 1816317,
       "stats" : {
         "coreSize" : 168592,
@@ -1264,27 +1264,31 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
+      "bundleIdentifier" : "app.Lottie-Motion",
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-iOS.ipa",
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
-      "name" : "Sun Bow",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion-iOS.ipa",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "name" : "Lottie Motion",
       "permissions" : [
         {
-          "identifier" : "com.apple.security.network.client",
+          "identifier" : "com.apple.security.files.user-selected.read-write",
           "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
+          "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "397a3f7245d9ac74c4d9a93200954b1c8d39a0d987efc617e5bce09f707e6214",
-      "size" : 22254965,
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
+      ],
+      "sha256" : "7d18803604f643ae5826cde524f0b6a5cbbc4cc08f0b6360b3392a55fc5873fa",
+      "size" : 2701204,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 2,
+        "downloadCount" : 1,
         "forkCount" : 0,
         "impressionCount" : 0,
         "issueCount" : 0,
@@ -1292,11 +1296,10 @@
         "viewCount" : 0,
         "watcherCount" : 0
       },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.97",
       "versionDate" : "2022-10-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.96...0.0.97"
     }
   ],
   "fundingSources" : [

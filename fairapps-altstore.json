@@ -28,7 +28,7 @@
         "coreSize": 168592,
         "downloadCount": 127,
         "forkCount": 0,
-        "impressionCount": 802,
+        "impressionCount": 804,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 89,
@@ -56,13 +56,13 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256": "2d92a41ff7d87890f1cc85de7a27df559ca5d095ea06b0adfd4ddddba38f717d",
+      "sha256": "99d615fedc82f13d13bef753e949fd872025548bd491cd34dcb1af085a65fd2a",
       "size": 1816317,
       "stats": {
         "coreSize": 168592,
         "downloadCount": 4,
         "forkCount": 1,
-        "impressionCount": 1,
+        "impressionCount": 4,
         "issueCount": 0,
         "starCount": 2,
         "viewCount": 1,
@@ -109,7 +109,7 @@
         "coreSize": 170224,
         "downloadCount": 3,
         "forkCount": 0,
-        "impressionCount": 1151,
+        "impressionCount": 1153,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 96,
@@ -143,7 +143,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256": "60e2722a73f570b61ae355d79e87a89c61dba9afd737752228bf241f6fd7eb5b",
+      "sha256": "2a18efa90ff145a4c509b3c96e495518cd97844d784a62adcb6fc4dd5e1c0776",
       "size": 16326425,
       "stats": {
         "coreSize": 168592,

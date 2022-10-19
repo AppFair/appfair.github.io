@@ -489,46 +489,6 @@
       "versionDescription" : "Release 0.4.8"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tune-Out",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
-      ],
-      "sha256" : "2a18efa90ff145a4c509b3c96e495518cd97844d784a62adcb6fc4dd5e1c0776",
-      "size" : 14900176,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 8,
-        "forkCount" : 0,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "32ADE6",
-      "version" : "0.8.460",
-      "versionDate" : "2022-10-18T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -557,45 +517,6 @@
       "version" : "0.0.16",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_03-iphone-750x1334.png"
-      ],
-      "sha256" : "77d9c1bf7aba67127e5e5bcab9e90d6cf3e19d534a62d04b5fa2e1bbd3b7f741",
-      "size" : 12762342,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 6,
-        "forkCount" : 0,
-        "impressionCount" : 899,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 53,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.96",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
     },
     {
       "beta" : true,
@@ -845,7 +766,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "1c0a14ade9bf7661d647e976229b80d8e3aec59ff61fc9c736372c678c62e08f",
+      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
       "size" : 4275846,
       "stats" : {
         "coreSize" : 168592,
@@ -880,7 +801,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "0f57f73d9555aa75e9207c3533902232fd9d6206bc3c0e73ed9557646a5d4bc9",
+      "sha256" : "99d615fedc82f13d13bef753e949fd872025548bd491cd34dcb1af085a65fd2a",
       "size" : 1816317,
       "stats" : {
         "coreSize" : 168592,
@@ -1173,6 +1094,46 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
+      ],
+      "sha256" : "2a18efa90ff145a4c509b3c96e495518cd97844d784a62adcb6fc4dd5e1c0776",
+      "size" : 16326425,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 2,
+        "forkCount" : 0,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "32ADE6",
+      "version" : "0.8.460",
+      "versionDate" : "2022-10-19T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Crazy-Glue",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -1263,7 +1224,7 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Tidal-Zone/App/commits/0.1.1"
     },
     {
-      "beta" : true,
+      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion-iOS.ipa",
@@ -1290,10 +1251,10 @@
         "coreSize" : 168592,
         "downloadCount" : 1,
         "forkCount" : 0,
-        "impressionCount" : 0,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 0,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",

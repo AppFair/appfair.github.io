@@ -427,7 +427,7 @@
       },
       "subtitle" : "Development environment",
       "version" : "2.3.2",
-      "versionDate" : "2022-10-19T05:05:30Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1351,16 +1351,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "sequel-ace",
-      "downloadURL" : "https://github.com/Sequel-Ace/Sequel-Ace/releases/download/production/3.5.3-20035/Sequel-Ace-3.5.3.zip",
+      "downloadURL" : "https://github.com/Sequel-Ace/Sequel-Ace/releases/download/production/4.0.0-20037/Sequel-Ace-4.0.0.zip",
       "homepage" : "https://github.com/Sequel-Ace/Sequel-Ace",
       "localizedDescription" : "MySQL/MariaDB database management",
       "name" : "Sequel Ace",
-      "sha256" : "27b4683c9343333466fb78d0d9d53559179aabc1cc87470aeef20d5ef3efc321",
+      "sha256" : "66d741daa1c6e70b86518e71533c10a927b1c8788bc7fc91a85ae5baffd4e490",
       "stats" : {
         "downloadCount" : 2377
       },
       "subtitle" : "MySQL/MariaDB database management",
-      "version" : "3.5.3,20035"
+      "version" : "4.0.0,20037",
+      "versionDate" : "2022-10-19T06:08:50Z"
     },
     {
       "beta" : false,
@@ -3356,7 +3357,7 @@
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
       "version" : "0.8.9",
-      "versionDate" : "2022-10-19T05:05:30Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4266,16 +4267,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://cdn.azul.com/zulu/bin/zulu19.28.81-ca-jdk19.0.0-macosx_x64.dmg",
+      "downloadURL" : "https://cdn.azul.com/zulu/bin/zulu19.30.11-ca-jdk19.0.1-macosx_x64.dmg",
       "homepage" : "https://www.azul.com/downloads/",
       "localizedDescription" : "OpenJDK distribution from Azul",
       "name" : "Azul Zulu Java Standard Edition Development Kit",
-      "sha256" : "a8e4ac921b1ae4d8aa812ee09c40096e4c23b6bb3d6ee1f7744d80c97e700e79",
+      "sha256" : "cd3669020312b1ff584ddb96a6d270f84f8ec2523d514b26ed188a41c7f280d6",
       "stats" : {
         "downloadCount" : 442
       },
       "subtitle" : "OpenJDK distribution from Azul",
-      "version" : "19.0.0,19.28.81-ca"
+      "version" : "19.0.1,19.30.11-ca",
+      "versionDate" : "2022-10-19T06:08:50Z"
     },
     {
       "beta" : false,
@@ -55831,20 +55833,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "eaglefiler",
-      "caption" : "EagleFiler updated from 1.9.8 to 1.9.9",
-      "date" : "2022-10-18T01:54:27Z",
-      "identifier" : "release-eaglefiler-1.9.9",
-      "title" : "New Release: EagleFiler 1.9.9"
-    },
-    {
-      "appID" : "lastpass",
-      "caption" : "LastPass updated from 4.101.2,1278 to 4.102.0,1281",
-      "date" : "2022-10-18T01:54:28Z",
-      "identifier" : "release-lastpass-4.102.0,1281",
-      "title" : "New Release: LastPass 4.102.0,1281"
-    },
-    {
       "appID" : "pdf-expert",
       "caption" : "PDF Expert updated from 3.0.27,863 to 3.0.28,868",
       "date" : "2022-10-18T01:54:28Z",
@@ -56529,6 +56517,20 @@
       "date" : "2022-10-19T05:05:31Z",
       "identifier" : "release-logseq-0.8.9",
       "title" : "New Release: Logseq 0.8.9"
+    },
+    {
+      "appID" : "sequel-ace",
+      "caption" : "Sequel Ace updated from 3.5.3,20035 to 4.0.0,20037",
+      "date" : "2022-10-19T06:08:51Z",
+      "identifier" : "release-sequel-ace-4.0.0,20037",
+      "title" : "New Release: Sequel Ace 4.0.0,20037"
+    },
+    {
+      "appID" : "zulu",
+      "caption" : "Azul Zulu Java Standard Edition Development Kit updated from 19.0.0,19.28.81-ca to 19.0.1,19.30.11-ca",
+      "date" : "2022-10-19T06:08:51Z",
+      "identifier" : "release-zulu-19.0.1,19.30.11-ca",
+      "title" : "New Release: Azul Zulu Java Standard Edition Development Kit 19.0.1,19.30.11-ca"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

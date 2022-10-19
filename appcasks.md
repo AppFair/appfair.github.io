@@ -46,7 +46,7 @@ tr:nth-child(even) {
 | [``Postman``](https://www.postman.com/) | ``9.31.0`` | `12211` |  |  |  |  |  | `0` |  |
 | [``Google Cloud SDK``](https://cloud.google.com/sdk/) | ``latest`` | `10335` |  |  |  |  |  | `0` |  |
 | [``ChromeDriver``](https://sites.google.com/chromium.org/driver/) | ``106.0.5249.61`` | `9263` |  |  |  |  |  | `0` |  |
-| [``Vagrant``](https://www.vagrantup.com/) | ``2.3.2`` | `9042` | `2022-10-19T05:05:30Z` |  |  |  |  | `0` |  |
+| [``Vagrant``](https://www.vagrantup.com/) | ``2.3.2`` | `9042` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Slack``](https://slack.com/) | ``4.28.184`` | `8926` |  |  |  |  |  | `0` |  |
 | [``Spotify``](https://www.spotify.com/) | ``1.1.96.785,464c973a,1288`` | `8920` |  |  |  |  |  | `0` |  |
 | [``Zoom.us``](https://www.zoom.us/) | ``5.12.2.11434`` | `8529` |  |  |  |  |  | `0` |  |
@@ -113,7 +113,7 @@ tr:nth-child(even) {
 | [``Cyberduck``](https://cyberduck.io/) | ``8.4.5,38423`` | `2419` |  |  |  |  |  | `0` |  |
 | [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2393` |  |  |  |  |  | `0` |  |
 | [``Microsoft Office``](https://products.office.com/mac/microsoft-office-for-mac/) | ``16.66.22101101`` | `2380` |  |  |  |  |  | `0` |  |
-| [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``3.5.3,20035`` | `2377` |  |  |  |  |  | `0` |  |
+| [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``4.0.0,20037`` | `2377` | `2022-10-19T06:08:50Z` |  |  |  |  | `0` |  |
 | [``Figma``](https://www.figma.com/) | ``116.4.2`` | `2374` |  |  |  |  |  | `0` |  |
 | [``BasicTeX``](https://www.tug.org/mactex/morepackages.html) | ``2022.0314`` | `2350` |  |  |  |  |  | `0` |  |
 | [``Dropbox``](https://www.dropbox.com/) | ``159.4.5870`` | `2305` |  |  |  |  |  | `0` |  |
@@ -256,7 +256,7 @@ tr:nth-child(even) {
 | [``JD-GUI``](http://jd.benow.ca/) | ``1.6.6`` | `620` |  |  |  |  |  | `0` |  |
 | [``qlImageSize``](https://github.com/Nyx0uf/qlImageSize) | ``2.6.1`` | `613` |  |  |  |  |  | `0` |  |
 | [``Robo 3T (formerly Robomo…``](https://robomongo.org/) | ``1.4.4,e6ac9ec`` | `612` |  |  |  |  |  | `0` |  |
-| [``Logseq``](https://github.com/logseq/logseq) | ``0.8.9`` | `610` | `2022-10-19T05:05:30Z` |  |  |  |  | `0` |  |
+| [``Logseq``](https://github.com/logseq/logseq) | ``0.8.9`` | `610` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GTKWave``](https://gtkwave.sourceforge.io/) | ``3.3.107`` | `608` |  |  |  |  |  | `0` |  |
 | [``Sequel Pro``](https://www.sequelpro.com/) | ``1.1.2`` | `604` |  |  |  |  |  | `0` |  |
 | [``Charles``](https://www.charlesproxy.com/) | ``4.6.3`` | `603` |  |  |  |  |  | `0` |  |
@@ -322,7 +322,7 @@ tr:nth-child(even) {
 | [``CleanMyMac X``](https://macpaw.com/cleanmymac) | ``4.11.5,41105.0.221007163`` | `450` |  |  |  |  |  | `0` |  |
 | [``BBEdit``](https://www.barebones.com/products/bbedit/) | ``14.6.1`` | `443` |  |  |  |  |  | `0` |  |
 | [``Scroll Reverser``](https://pilotmoon.com/scrollreverser/) | ``1.8.2,10505`` | `443` |  |  |  |  |  | `0` |  |
-| [``Azul Zulu Java Standard …``](https://www.azul.com/downloads/) | ``19.0.0,19.28.81-ca`` | `442` |  |  |  |  |  | `0` |  |
+| [``Azul Zulu Java Standard …``](https://www.azul.com/downloads/) | ``19.0.1,19.30.11-ca`` | `442` | `2022-10-19T06:08:50Z` |  |  |  |  | `0` |  |
 | [``Todoist``](https://todoist.com/home) | ``8.1.0`` | `441` |  |  |  |  |  | `0` |  |
 | [``darktable``](https://www.darktable.org/) | ``4.0.1.1`` | `437` |  |  |  |  |  | `0` |  |
 | [``Leapp``](https://www.leapp.cloud/) | ``0.15.1`` | `435` |  |  |  |  |  | `0` |  |

@@ -196,7 +196,7 @@ tr:nth-child(even) {
 | [``Dozer``](https://github.com/Mortennn/Dozer) | ``4.0.0`` | `915` |  |  |  |  |  | `0` |  |
 | [``Cakebrew``](https://github.com/brunophilipe/Cakebrew) | ``1.3`` | `902` |  |  |  |  |  | `0` |  |
 | [``MacTeX``](https://www.tug.org/mactex/) | ``2022.0321`` | `882` |  |  |  |  |  | `0` |  |
-| [``Bartender``](https://www.macbartender.com/) | ``4.2.12,42012`` | `875` | `2022-10-19T15:36:18Z` |  |  |  |  | `0` |  |
+| [``Bartender``](https://www.macbartender.com/) | ``4.2.12,42012`` | `875` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GraphQL Playground``](https://github.com/prisma/graphql-playground) | ``1.8.10`` | `874` |  |  |  |  |  | `0` |  |
 | [``Winbox-mac``](https://github.com/nrlquaker/winbox-mac/) | ``3.37.0`` | `856` |  |  |  |  |  | `0` |  |
 | [``MarkText``](https://github.com/marktext/marktext) | ``0.17.1`` | `855` |  |  |  |  |  | `0` |  |
@@ -2005,7 +2005,7 @@ tr:nth-child(even) {
 | [``dockview``](https://noteifyapp.com/dockview/) | ``1.03,103`` | `13` |  |  |  |  |  | `0` |  |
 | [``Expo Development Environ…``](https://expo.io/) | ``2.25.0`` | `13` |  |  |  |  |  | `0` |  |
 | [``FS-UAE``](https://fs-uae.net/) | ``3.1.66`` | `13` |  |  |  |  |  | `0` |  |
-| [``GitFiend``](https://gitfiend.com/) | ``0.38.3`` | `13` | `2022-10-19T15:36:18Z` |  |  |  |  | `0` |  |
+| [``GitFiend``](https://gitfiend.com/) | ``0.38.3`` | `13` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GoldenPassport``](https://github.com/stanzhai/GoldenPassport) | ``0.1.7`` | `13` |  |  |  |  |  | `0` |  |
 | [``Google Web Designer``](https://www.google.com/webdesigner/) | ``11.1.0.0`` | `13` |  |  |  |  |  | `0` |  |
 | [``HakuNeko``](https://github.com/manga-download/hakuneko) | ``6.1.7`` | `13` |  |  |  |  |  | `0` |  |

@@ -147,7 +147,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 85,
-        "impressionCount" : 552
+        "impressionCount" : 553
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -250,7 +250,7 @@
       "sha256" : "ead90827427a0f8c302719daf6ea22847bc83af6c7994b4599f942dbeeb8810b",
       "stats" : {
         "downloadCount" : 786,
-        "impressionCount" : 373
+        "impressionCount" : 374
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -270,7 +270,7 @@
       "sha256" : "711b1e4322970d2ece65ab5d51e18f2e634c2f43847db9a7a98e4326e1b8217c",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 304
+        "impressionCount" : 305
       },
       "subtitle" : "Terminal emulation program",
       "tintColor" : "8A6363",
@@ -1002,7 +1002,7 @@
       },
       "subtitle" : "Desktop client for GitHub repositories",
       "version" : "3.1.2-7cd66717",
-      "versionDate" : "2022-10-19T09:40:00Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3802,7 +3802,7 @@
       },
       "subtitle" : "Desktop sync client for Nextcloud software products",
       "version" : "3.6.1",
-      "versionDate" : "2022-10-19T09:40:00Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11913,16 +11913,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "ableton-live-standard",
-      "downloadURL" : "https://cdn-downloads.ableton.com/channels/11.2/ableton_live_standard_11.2_universal.dmg",
+      "downloadURL" : "https://cdn-downloads.ableton.com/channels/11.2.5/ableton_live_standard_11.2.5_universal.dmg",
       "homepage" : "https://www.ableton.com/en/live/",
       "localizedDescription" : "Sound and music editor",
       "name" : "Ableton Live Standard",
-      "sha256" : "71d98a6532ba838ed26e9a5bb2c067c1915dc8846060fac69e9fe9caf97d4bd0",
+      "sha256" : "55ad16da96f7487940ffea113575b426cea8217012395fd336a4b9ae4b8fb0b2",
       "stats" : {
         "downloadCount" : 78
       },
       "subtitle" : "Sound and music editor",
-      "version" : "11.2"
+      "version" : "11.2.5",
+      "versionDate" : "2022-10-19T10:39:16Z"
     },
     {
       "beta" : false,
@@ -40453,7 +40454,7 @@
       },
       "subtitle" : "Note-taking and organizing app",
       "version" : "23.0,23007",
-      "versionDate" : "2022-10-19T09:40:00Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55836,13 +55837,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "retroarch",
-      "caption" : "RetroArch updated from 1.11.1 to 1.12.0",
-      "date" : "2022-10-18T01:54:29Z",
-      "identifier" : "release-retroarch-1.12.0",
-      "title" : "New Release: RetroArch 1.12.0"
-    },
-    {
       "appID" : "apifox",
       "caption" : "Apifox updated from 2.2.0 to 2.2.1",
       "date" : "2022-10-18T01:54:29Z",
@@ -56534,6 +56528,13 @@
       "date" : "2022-10-19T09:40:02Z",
       "identifier" : "release-curio-23.0,23007",
       "title" : "New Release: Curio 23.0,23007"
+    },
+    {
+      "appID" : "ableton-live-standard",
+      "caption" : "Ableton Live Standard updated from 11.2 to 11.2.5",
+      "date" : "2022-10-19T10:39:17Z",
+      "identifier" : "release-ableton-live-standard-11.2.5",
+      "title" : "New Release: Ableton Live Standard 11.2.5"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

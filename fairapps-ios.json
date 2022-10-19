@@ -26,12 +26,12 @@
       "size" : 17972746,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 125,
+        "downloadCount" : 127,
         "forkCount" : 0,
-        "impressionCount" : 788,
+        "impressionCount" : 790,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 85,
+        "viewCount" : 86,
         "watcherCount" : 0
       },
       "subtitle" : "Stream Internet Radio",
@@ -67,7 +67,7 @@
       "size" : 3790386,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 77,
+        "downloadCount" : 79,
         "forkCount" : 0,
         "impressionCount" : 226,
         "issueCount" : 0,
@@ -79,42 +79,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-10-04T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-iOS.ipa",
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "3d67482046b019097d7fe9b2b55b17dc9128a497a0bd8deb7c0601fbdd56bc60",
-      "size" : 21953751,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 69,
-        "forkCount" : 0,
-        "impressionCount" : 57,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 5,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
-      "versionDate" : "2022-10-12T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : false,
@@ -135,7 +99,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 526,
+        "impressionCount" : 527,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -173,7 +137,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3962,
+        "impressionCount" : 3963,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 280,
@@ -247,7 +211,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 919,
+        "impressionCount" : 921,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 83,
@@ -277,7 +241,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 1124,
+        "impressionCount" : 1126,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 100,
@@ -351,10 +315,10 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 958,
+        "impressionCount" : 961,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 68,
+        "viewCount" : 69,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -428,7 +392,7 @@
       "size" : 4158936,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 11,
+        "downloadCount" : 13,
         "forkCount" : 0,
         "impressionCount" : 2,
         "issueCount" : 0,
@@ -565,36 +529,6 @@
       "versionDescription" : "Release 0.4.8"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Main-Course",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-iOS.ipa",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
-      "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Main Course",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
-      "sha256" : "610d5b0907ec8241703d1557a88f79b8b4fd01c9f2bf1c0a5f48f80ee2d1486e",
-      "size" : 18201175,
-      "stats" : {
-        "coreSize" : 102392,
-        "downloadCount" : 8,
-        "forkCount" : 0,
-        "impressionCount" : 3434,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 195,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An offline recipe book",
-      "version" : "0.0.16",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Tune-Out",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -616,11 +550,11 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "d586755888a504ee690d7733638d6c35a84fc4b44f85563ab769d776e0c6b3d3",
+      "sha256" : "2a18efa90ff145a4c509b3c96e495518cd97844d784a62adcb6fc4dd5e1c0776",
       "size" : 14900176,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 6,
+        "downloadCount" : 8,
         "forkCount" : 0,
         "impressionCount" : 0,
         "issueCount" : 0,
@@ -633,6 +567,36 @@
       "version" : "0.8.460",
       "versionDate" : "2022-10-18T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Main-Course",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-iOS.ipa",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
+      "localizedDescription" : "An offline recipe book",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Main Course",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
+      "sha256" : "610d5b0907ec8241703d1557a88f79b8b4fd01c9f2bf1c0a5f48f80ee2d1486e",
+      "size" : 18201175,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 8,
+        "forkCount" : 0,
+        "impressionCount" : 3436,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 195,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An offline recipe book",
+      "version" : "0.0.16",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
       "beta" : true,
@@ -722,7 +686,7 @@
         "coreSize" : 170320,
         "downloadCount" : 6,
         "forkCount" : 0,
-        "impressionCount" : 893,
+        "impressionCount" : 894,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 53,
@@ -900,42 +864,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo-iOS.ipa",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
-      ],
-      "sha256" : "0f57f73d9555aa75e9207c3533902232fd9d6206bc3c0e73ed9557646a5d4bc9",
-      "size" : 1708543,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 4,
-        "forkCount" : 1,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "FF9500",
-      "version" : "0.9.333",
-      "versionDate" : "2022-10-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.332...0.9.333"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-iOS.ipa",
@@ -1053,7 +981,7 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 659,
+        "impressionCount" : 661,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 30,
@@ -1084,7 +1012,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 858,
+        "impressionCount" : 859,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 66,
@@ -1120,7 +1048,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1072,
+        "impressionCount" : 1074,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 47,
@@ -1166,7 +1094,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1134,
+        "impressionCount" : 1135,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 95,
@@ -1209,6 +1137,42 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo-iOS.ipa",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
+      ],
+      "sha256" : "2d92a41ff7d87890f1cc85de7a27df559ca5d095ea06b0adfd4ddddba38f717d",
+      "size" : 1816317,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 2,
+        "forkCount" : 1,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "05A6FF",
+      "version" : "0.9.333",
+      "versionDate" : "2022-10-19T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.332...0.9.333"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Crazy-Glue",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -1227,10 +1191,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1237,
+        "impressionCount" : 1241,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 80,
+        "viewCount" : 81,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -1257,7 +1221,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1266,
+        "impressionCount" : 1267,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 68,
@@ -1287,10 +1251,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 938,
+        "impressionCount" : 941,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 62,
+        "viewCount" : 63,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",

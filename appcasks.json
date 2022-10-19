@@ -206,7 +206,7 @@
       },
       "subtitle" : "Web browser",
       "version" : "106.0",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -417,16 +417,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "vagrant",
-      "downloadURL" : "https://releases.hashicorp.com/vagrant/2.3.1/vagrant_2.3.1_darwin_amd64.dmg",
+      "downloadURL" : "https://releases.hashicorp.com/vagrant/2.3.2/vagrant_2.3.2_darwin_amd64.dmg",
       "homepage" : "https://www.vagrantup.com/",
       "localizedDescription" : "Development environment",
       "name" : "Vagrant",
-      "sha256" : "01e01da31e7a12ecbc23a81b4ef67db652d1efec6c57bd9bb0322edd8e0c97c1",
+      "sha256" : "b454ce6fc62b282895770d3f32bbcb99ee0af728ba9ef7fb797c15e4b0089511",
       "stats" : {
         "downloadCount" : 9042
       },
       "subtitle" : "Development environment",
-      "version" : "2.3.1"
+      "version" : "2.3.2",
+      "versionDate" : "2022-10-19T05:05:30Z"
     },
     {
       "beta" : false,
@@ -664,7 +665,7 @@
       },
       "subtitle" : "Meet, chat, call, and collaborate in just one place",
       "version" : "1.5.00.26358",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2392,7 +2393,7 @@
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "version" : "3.904,2065",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3146,7 +3147,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.23,20221018102939",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3345,16 +3346,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "logseq",
-      "downloadURL" : "https://github.com/logseq/logseq/releases/download/0.8.8/logseq-darwin-x64-0.8.8.dmg",
+      "downloadURL" : "https://github.com/logseq/logseq/releases/download/0.8.9/logseq-darwin-x64-0.8.9.dmg",
       "homepage" : "https://github.com/logseq/logseq",
       "localizedDescription" : "Privacy-first, open-source platform for knowledge sharing and management",
       "name" : "Logseq",
-      "sha256" : "90e9e8f3c27dd904e1f2dea9ed2582c16e9047957b922fa04b201e46a8fdcdb8",
+      "sha256" : "1e3b9b8674eb5ad7377f8fae6e849b96de738d8ff89caba4c8ca1cae01d50f23",
       "stats" : {
         "downloadCount" : 610
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
-      "version" : "0.8.8"
+      "version" : "0.8.9",
+      "versionDate" : "2022-10-19T05:05:30Z"
     },
     {
       "beta" : false,
@@ -3923,7 +3925,7 @@
       },
       "subtitle" : "All-in-One Java Troubleshooting Tool",
       "version" : "2.1.5",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4596,7 +4598,7 @@
       },
       "subtitle" : "Display management tool",
       "version" : "1.3.4",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5064,7 +5066,7 @@
       },
       "subtitle" : "OpenJDK distribution from Amazon",
       "version" : "19.0.1.10.1",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5399,7 +5401,7 @@
       },
       "subtitle" : "Grammarly for desktop",
       "version" : "1.13.1.0",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5594,7 +5596,7 @@
       },
       "subtitle" : "Collection of apps available by subscription",
       "version" : "3.13.0,12,1666091768",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6105,7 +6107,7 @@
       },
       "subtitle" : "3D printer and slicing GUI",
       "version" : "5.2.0",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6773,7 +6775,7 @@
       },
       "subtitle" : "Documentation for the Oracle JDK",
       "version" : "19.0.1,10,afdd2e245b014143b62ccb916125e3ce",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7063,7 +7065,7 @@
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "version" : "2210.1306.4211.1",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9028,7 +9030,7 @@
       },
       "subtitle" : "Screen capture software",
       "version" : "2022.2.2",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12097,7 +12099,7 @@
       },
       "subtitle" : "Notetaking tool",
       "version" : "4.0.2210181327",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13771,7 +13773,7 @@
       },
       "subtitle" : "Sound and music editor",
       "version" : "11.2.5",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14140,7 +14142,7 @@
       },
       "subtitle" : "Store credentials in a single place and log in on any device, even when offline",
       "version" : "4.32.10",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15682,7 +15684,7 @@
       },
       "subtitle" : "Utility to clean up corrupted installations of Adobe software",
       "version" : "4.3.0.221",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17749,7 +17751,7 @@
       },
       "subtitle" : "Sound and music editor",
       "version" : "11.2.5",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19995,7 +19997,7 @@
       },
       "subtitle" : "Client for the Tresorit cloud storage service",
       "version" : "3.5.2445.3280",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20534,7 +20536,7 @@
       },
       "subtitle" : "PHP and Web develop environment manager",
       "version" : "1.0.29",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25074,7 +25076,7 @@
       },
       "subtitle" : "Reminder, planner & calendar",
       "version" : "5.0.7",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27624,7 +27626,7 @@
       },
       "subtitle" : "Collaborative presentation software",
       "version" : "1.97.0,stable.1,4786954",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29916,7 +29918,7 @@
       },
       "subtitle" : "Font manager application",
       "version" : "3.7.0,3447",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31291,7 +31293,7 @@
       },
       "subtitle" : "Video editor",
       "version" : "0.12.5",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31618,7 +31620,7 @@
       },
       "subtitle" : "Space exploration, trading, and combat game",
       "version" : "0.9.16.1",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33748,7 +33750,7 @@
       },
       "subtitle" : "Design, animate, and prototype design tool from Facebook",
       "version" : "126.0.0.12.213,409956545",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34264,7 +34266,7 @@
       },
       "subtitle" : "Sound and music editor",
       "version" : "11.2.5",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34826,7 +34828,7 @@
       },
       "subtitle" : "Editor for ink: inkle's narrative scripting language",
       "version" : "0.14.0",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39570,7 +39572,7 @@
       },
       "subtitle" : "Macro remote control",
       "version" : "3.1.6",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42984,7 +42986,7 @@
       },
       "subtitle" : "Game engine for development of desktop, mobile and web games",
       "version" : "1.3.7",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -45312,7 +45314,7 @@
       },
       "subtitle" : "Corpus analysis toolkit for concordancing and text analysis",
       "version" : "4.1.3",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46398,7 +46400,7 @@
       },
       "subtitle" : "Backup software with folder synchronization",
       "version" : "3.7,1722",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49928,7 +49930,7 @@
       },
       "subtitle" : "Create and buy photo products",
       "version" : "3.64.0,220822.0936",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51131,7 +51133,7 @@
       },
       "subtitle" : "Digital Asset Management",
       "version" : "7.4.1.4583",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54663,7 +54665,7 @@
       },
       "subtitle" : "Genealogy (family tree) app",
       "version" : "13.0.0,221018unr",
-      "versionDate" : "2022-10-19T02:48:35Z"
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55829,20 +55831,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "swiftcord",
-      "caption" : "Swiftcord updated from 0.4.6,13 to 0.5.1,15",
-      "date" : "2022-10-17T22:33:17Z",
-      "identifier" : "release-swiftcord-0.5.1,15",
-      "title" : "New Release: Swiftcord 0.5.1,15"
-    },
-    {
-      "appID" : "dropdmg",
-      "caption" : "DropDMG updated from 3.6.4 to 3.6.5",
-      "date" : "2022-10-18T01:54:27Z",
-      "identifier" : "release-dropdmg-3.6.5",
-      "title" : "New Release: DropDMG 3.6.5"
-    },
-    {
       "appID" : "eaglefiler",
       "caption" : "EagleFiler updated from 1.9.8 to 1.9.9",
       "date" : "2022-10-18T01:54:27Z",
@@ -56527,6 +56515,20 @@
       "date" : "2022-10-19T02:48:44Z",
       "identifier" : "release-reunion-13.0.0,221018unr",
       "title" : "New Release: Reunion 13.0.0,221018unr"
+    },
+    {
+      "appID" : "vagrant",
+      "caption" : "Vagrant updated from 2.3.1 to 2.3.2",
+      "date" : "2022-10-19T05:05:31Z",
+      "identifier" : "release-vagrant-2.3.2",
+      "title" : "New Release: Vagrant 2.3.2"
+    },
+    {
+      "appID" : "logseq",
+      "caption" : "Logseq updated from 0.8.8 to 0.8.9",
+      "date" : "2022-10-19T05:05:31Z",
+      "identifier" : "release-logseq-0.8.9",
+      "title" : "New Release: Logseq 0.8.9"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

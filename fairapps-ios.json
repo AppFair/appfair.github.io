@@ -27,9 +27,9 @@
       "size" : 3790386,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 83,
+        "downloadCount" : 85,
         "forkCount" : 0,
-        "impressionCount" : 249,
+        "impressionCount" : 251,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -59,7 +59,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 565,
+        "impressionCount" : 568,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -97,7 +97,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 3990,
+        "impressionCount" : 3992,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 281,
@@ -171,7 +171,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 946,
+        "impressionCount" : 948,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 84,
@@ -201,7 +201,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 1155,
+        "impressionCount" : 1157,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 102,
@@ -275,7 +275,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 989,
+        "impressionCount" : 992,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 70,
@@ -449,36 +449,6 @@
       "versionDescription" : "Release 0.4.8"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Main-Course",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-iOS.ipa",
-      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
-      "localizedDescription" : "An offline recipe book",
-      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Main Course",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
-      "sha256" : "610d5b0907ec8241703d1557a88f79b8b4fd01c9f2bf1c0a5f48f80ee2d1486e",
-      "size" : 18201175,
-      "stats" : {
-        "coreSize" : 102392,
-        "downloadCount" : 8,
-        "forkCount" : 0,
-        "impressionCount" : 3453,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 196,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An offline recipe book",
-      "version" : "0.0.16",
-      "versionDate" : "2022-07-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.World-Fair",
       "developerName" : "marcprux <mwp1@cornell.edu>",
@@ -501,11 +471,11 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "45f7ff42a8adccc4a88280bbd29d6d339a27ce6abff983dc5ca3b3d178e7d4fc",
+      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
       "size" : 4275846,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 6,
+        "downloadCount" : 8,
         "forkCount" : 0,
         "impressionCount" : 2,
         "issueCount" : 0,
@@ -536,11 +506,11 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "99d615fedc82f13d13bef753e949fd872025548bd491cd34dcb1af085a65fd2a",
+      "sha256" : "2d92a41ff7d87890f1cc85de7a27df559ca5d095ea06b0adfd4ddddba38f717d",
       "size" : 1816317,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 6,
+        "downloadCount" : 8,
         "forkCount" : 1,
         "impressionCount" : 6,
         "issueCount" : 0,
@@ -553,6 +523,36 @@
       "version" : "0.9.333",
       "versionDate" : "2022-10-19T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.332...0.9.333"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Main-Course",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course-iOS.ipa",
+      "iconURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Main-Course.png",
+      "localizedDescription" : "An offline recipe book",
+      "metadataURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Main Course",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Main-Course/App/releases/download/0.0.16/README.md#5194883aa60d146d8bb5b841bd0c6d1b7fbdc0f2d629fa05982519073beafec3",
+      "sha256" : "610d5b0907ec8241703d1557a88f79b8b4fd01c9f2bf1c0a5f48f80ee2d1486e",
+      "size" : 18201175,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 8,
+        "forkCount" : 0,
+        "impressionCount" : 3454,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 196,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An offline recipe book",
+      "version" : "0.0.16",
+      "versionDate" : "2022-07-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
     },
     {
       "beta" : true,
@@ -781,6 +781,46 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
+      ],
+      "sha256" : "e199f1229c8fe16e1ad134b9ef35b7f8bd9114fc1736f1da4c5b93b9f9e47300",
+      "size" : 11273926,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 4,
+        "forkCount" : 0,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "F07273",
+      "version" : "0.8.460",
+      "versionDate" : "2022-10-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-iOS.ipa",
@@ -898,7 +938,7 @@
         "coreSize" : 168592,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 18,
+        "impressionCount" : 21,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 2,
@@ -937,7 +977,7 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 699,
+        "impressionCount" : 704,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 32,
@@ -1004,7 +1044,7 @@
         "coreSize" : 170608,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1100,
+        "impressionCount" : 1103,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 48,
@@ -1050,7 +1090,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1162,
+        "impressionCount" : 1164,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 96,
@@ -1093,46 +1133,6 @@
       "versionDescription" : "Release 0.0.12"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tune-Out",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
-      ],
-      "sha256" : "60e2722a73f570b61ae355d79e87a89c61dba9afd737752228bf241f6fd7eb5b",
-      "size" : 11273926,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 2,
-        "forkCount" : 0,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "F07273",
-      "version" : "0.8.460",
-      "versionDate" : "2022-10-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.Crazy-Glue",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -1151,7 +1151,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1267,
+        "impressionCount" : 1269,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 83,
@@ -1181,7 +1181,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1290,
+        "impressionCount" : 1293,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 68,
@@ -1211,7 +1211,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 962,
+        "impressionCount" : 963,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,

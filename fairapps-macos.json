@@ -29,7 +29,7 @@
         "coreSize" : 168592,
         "downloadCount" : 87,
         "forkCount" : 0,
-        "impressionCount" : 255,
+        "impressionCount" : 256,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -63,7 +63,7 @@
         "coreSize" : 168592,
         "downloadCount" : 61,
         "forkCount" : 0,
-        "impressionCount" : 585,
+        "impressionCount" : 586,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 53,
@@ -521,7 +521,7 @@
         "coreSize" : 170240,
         "downloadCount" : 16,
         "forkCount" : 0,
-        "impressionCount" : 722,
+        "impressionCount" : 723,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 32,
@@ -1019,10 +1019,10 @@
         "coreSize" : 168592,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 35,
+        "impressionCount" : 37,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 3,
+        "viewCount" : 4,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -1325,7 +1325,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "217935a3c15b9b1307a0b46c9d17098d610046118773f9a373533a664e204bbb",
+      "sha256" : "7987a29fd553ddac4bd915521b696e9cec548c9dc46820d6aa922d30af18bc85",
       "size" : 26854294,
       "stats" : {
         "coreSize" : 168592,
@@ -1350,7 +1350,7 @@
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -1363,7 +1363,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "e0907e67c7249d0726f4ec1ed053a26a6ac6a83f1f8e921fc8c63e7f01596f1e",
+      "sha256" : "eb20d430a36441ab254e053bff2fda9744442a5f7ca89144d91b99d2c3b6dcd4",
       "size" : 3086553,
       "stats" : {
         "coreSize" : 168592,

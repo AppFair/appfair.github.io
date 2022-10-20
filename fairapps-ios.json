@@ -29,7 +29,7 @@
         "coreSize" : 168592,
         "downloadCount" : 86,
         "forkCount" : 0,
-        "impressionCount" : 254,
+        "impressionCount" : 255,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 30,
@@ -59,7 +59,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 583,
+        "impressionCount" : 585,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 53,
@@ -862,7 +862,7 @@
         "coreSize" : 168592,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 34,
+        "impressionCount" : 35,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 3,
@@ -901,7 +901,7 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 720,
+        "impressionCount" : 722,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 32,
@@ -1063,7 +1063,7 @@
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo-iOS.ipa",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -1200,7 +1200,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "7d656a19d04eca13ae3751800cc1c995dba78cad812a7b9a12f3a268d2056d4c",
+      "sha256" : "d301e99a4c5035228f3b08ab777f5e0a8b6626cc33e58f7d03ba8529eb8ea035",
       "size" : 22257173,
       "stats" : {
         "coreSize" : 168592,

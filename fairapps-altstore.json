@@ -7,7 +7,7 @@
       "downloadURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo-iOS.ipa",
       "iconURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription": "A whimsical game of excitement and delight",
-      "metadataURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
       "name": "Cloud Cuckoo",
       "permissions": [],
       "readmeURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
@@ -16,7 +16,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256": "99d615fedc82f13d13bef753e949fd872025548bd491cd34dcb1af085a65fd2a",
+      "sha256": "0f57f73d9555aa75e9207c3533902232fd9d6206bc3c0e73ed9557646a5d4bc9",
       "size": 1816893,
       "stats": {
         "coreSize": 168592,
@@ -88,7 +88,7 @@
       "downloadURL": "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
       "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
       "localizedDescription": "Stream Internet Radio",
-      "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
       "name": "Tune Out",
       "permissions": [
         {
@@ -103,7 +103,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256": "022e9df7cff5a1b49b72be64061d2b25ca989025f9e3aa31a0087704ea97cd32",
+      "sha256": "78aaa8108ce17aea78d4a416d5f9069f0e060d7e509a54ab224147f207c0a66b",
       "size": 11215194,
       "stats": {
         "coreSize": 168592,

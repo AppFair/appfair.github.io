@@ -59,7 +59,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 606,
+        "impressionCount" : 607,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 54,
@@ -97,7 +97,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 4019,
+        "impressionCount" : 4020,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 282,
@@ -171,7 +171,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 973,
+        "impressionCount" : 975,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 85,
@@ -201,7 +201,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 1182,
+        "impressionCount" : 1184,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 102,
@@ -275,7 +275,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 1017,
+        "impressionCount" : 1018,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 71,
@@ -326,6 +326,46 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
     },
     {
+      "beta" : false,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-iOS.ipa",
+      "homepage" : "https://lottie-motion.appfair.net",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_03-iphone-750x1334.png"
+      ],
+      "sha256" : "77d9c1bf7aba67127e5e5bcab9e90d6cf3e19d534a62d04b5fa2e1bbd3b7f741",
+      "size" : 12762342,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 13,
+        "forkCount" : 0,
+        "impressionCount" : 918,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 53,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.96",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
+    },
+    {
       "beta" : true,
       "bundleIdentifier" : "app.World-Fair",
       "developerName" : "marcprux <mwp1@cornell.edu>",
@@ -348,7 +388,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "45f7ff42a8adccc4a88280bbd29d6d339a27ce6abff983dc5ca3b3d178e7d4fc",
+      "sha256" : "1c0a14ade9bf7661d647e976229b80d8e3aec59ff61fc9c736372c678c62e08f",
       "size" : 4275846,
       "stats" : {
         "coreSize" : 168592,
@@ -366,13 +406,14 @@
       "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Lottie-Motion",
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion-iOS.ipa",
+      "homepage" : "https://lottie-motion.appfair.net",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -381,28 +422,28 @@
           "usageDescription" : "Load and save user-selected Lottie files."
         }
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
       "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_03-iphone-750x1334.png"
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "77d9c1bf7aba67127e5e5bcab9e90d6cf3e19d534a62d04b5fa2e1bbd3b7f741",
-      "size" : 12762342,
+      "sha256" : "9513058fefa43f6b42d6fa0447d040e40a4f659932d42cbe9c5a196c55c1cca9",
+      "size" : 2713296,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 11,
+        "downloadCount" : 9,
         "forkCount" : 0,
-        "impressionCount" : 911,
+        "impressionCount" : 3,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 53,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.96",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
+      "version" : "0.0.97",
+      "versionDate" : "2022-10-21T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.96...0.0.97"
     },
     {
       "beta" : true,
@@ -532,9 +573,10 @@
       "bundleIdentifier" : "app.Cloud-Cuckoo",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo-iOS.ipa",
+      "homepage" : "https://cloud-cuckoo.appfair.net",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -545,7 +587,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "99d615fedc82f13d13bef753e949fd872025548bd491cd34dcb1af085a65fd2a",
+      "sha256" : "a79750d8d30c51ba36bb7d4a9ed2926e1e7ef93d90ef4c84d7aa1a87d67edd59",
       "size" : 1816893,
       "stats" : {
         "coreSize" : 168592,
@@ -582,7 +624,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3473,
+        "impressionCount" : 3474,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 196,
@@ -611,7 +653,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "397a3f7245d9ac74c4d9a93200954b1c8d39a0d987efc617e5bce09f707e6214",
+      "sha256" : "7d656a19d04eca13ae3751800cc1c995dba78cad812a7b9a12f3a268d2056d4c",
       "size" : 22257173,
       "stats" : {
         "coreSize" : 168592,
@@ -630,43 +672,81 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Lottie-Motion",
+      "beta" : false,
+      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion-iOS.ipa",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
-      "name" : "Lottie Motion",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
+      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sita Sings the Blues",
       "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
+
       ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
       "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_04-iphone-750x1334.png"
       ],
-      "sha256" : "7d18803604f643ae5826cde524f0b6a5cbbc4cc08f0b6360b3392a55fc5873fa",
-      "size" : 2713296,
+      "sha256" : "2de15f40b08edf482a06a0a973fa72cd24347025ecf83529846ccf708fec8956",
+      "size" : 1458058228,
       "stats" : {
-        "coreSize" : 168592,
+        "coreSize" : 67800,
         "downloadCount" : 7,
         "forkCount" : 0,
-        "impressionCount" : 3,
+        "impressionCount" : 1126,
         "issueCount" : 0,
         "starCount" : 0,
+        "viewCount" : 49,
+        "watcherCount" : 0
+      },
+      "subtitle" : "The movie \"Sita Sings the Blues\"",
+      "version" : "0.0.51",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
+      "homepage" : "https://tune-out.appfair.net",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
+      ],
+      "sha256" : "e199f1229c8fe16e1ad134b9ef35b7f8bd9114fc1736f1da4c5b93b9f9e47300",
+      "size" : 11215194,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 6,
+        "forkCount" : 0,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
         "viewCount" : 1,
         "watcherCount" : 0
       },
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.97",
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "F07273",
+      "version" : "0.8.460",
       "versionDate" : "2022-10-21T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.96...0.0.97"
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
     },
     {
       "beta" : true,
@@ -759,40 +839,40 @@
       "versionDescription" : "Release 0.0.35"
     },
     {
-      "beta" : false,
+      "beta" : true,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Sita-Sings-the-Blues.png",
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Info.plist#81673a79cd47afe02d807e27027a0af7109a84c8079ce9fe662665de8234082a",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
       "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_04-iphone-750x1334.png"
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_04-iphone-750x1334.png"
       ],
-      "sha256" : "2de15f40b08edf482a06a0a973fa72cd24347025ecf83529846ccf708fec8956",
-      "size" : 1458058228,
+      "sha256" : "c472f68c6b2696e3311230f1e77c7beaf63c6a3464c94690536e7d8b896d0e49",
+      "size" : 1453833866,
       "stats" : {
         "coreSize" : 67800,
         "downloadCount" : 5,
         "forkCount" : 0,
-        "impressionCount" : 1125,
+        "impressionCount" : 1,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 49,
+        "viewCount" : 1,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.51",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
+      "version" : "0.0.52",
+      "versionDate" : "2022-10-21T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.51...0.0.52"
     },
     {
       "beta" : true,
@@ -931,82 +1011,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Tune-Out",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
-      ],
-      "sha256" : "78aaa8108ce17aea78d4a416d5f9069f0e060d7e509a54ab224147f207c0a66b",
-      "size" : 11215194,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 4,
-        "forkCount" : 0,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "F07273",
-      "version" : "0.8.460",
-      "versionDate" : "2022-10-21T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Sita-Sings-the-Blues.png",
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Info.plist#81673a79cd47afe02d807e27027a0af7109a84c8079ce9fe662665de8234082a",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
-      "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_04-iphone-750x1334.png"
-      ],
-      "sha256" : "c472f68c6b2696e3311230f1e77c7beaf63c6a3464c94690536e7d8b896d0e49",
-      "size" : 1453833866,
-      "stats" : {
-        "coreSize" : 67800,
-        "downloadCount" : 4,
-        "forkCount" : 0,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.52",
-      "versionDate" : "2022-10-21T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.51...0.0.52"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-iOS.ipa",
@@ -1098,76 +1102,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Bon-Mot",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/Bon-Mot-iOS.ipa",
-      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/Bon-Mot.png",
-      "localizedDescription" : "Simple dictionary app",
-      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
-      "name" : "Bon Mot",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
-        },
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download definitions"
-        }
-      ],
-      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
-      "sha256" : "463a1046b817484075e8f831e5aae05b93f4c6bb2e3c013ebbfeecda4337dcaf",
-      "size" : 10533261,
-      "stats" : {
-        "coreSize" : 170240,
-        "downloadCount" : 3,
-        "forkCount" : 0,
-        "impressionCount" : 744,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 32,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Simple dictionary app",
-      "tintColor" : "A2845E",
-      "version" : "0.2.53",
-      "versionDate" : "2022-09-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.52...0.2.53"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Eternal-September",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September-iOS.ipa",
-      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September.png",
-      "localizedDescription" : "An app for learning Roman Numerals",
-      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
-      "name" : "Eternal September",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/README.md#06c1731de8e6f17b3d945d0fba9fb9af700f54408645f0218d47dd2711fe64bb",
-      "sha256" : "6269b06ceecb4c9893445588c73e340a18fc27d88804d24350609f59b3103710",
-      "size" : 5816018,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 3,
-        "forkCount" : 0,
-        "impressionCount" : 899,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 66,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for learning Roman Numerals",
-      "version" : "0.0.45",
-      "versionDate" : "2022-08-24T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.44...0.0.45"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Stanza-Redux",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Stanza-Redux/App/releases/download/0.3.59/Stanza-Redux-iOS.ipa",
@@ -1201,7 +1135,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1190,
+        "impressionCount" : 1194,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 97,
@@ -1212,6 +1146,76 @@
       "version" : "0.3.59",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Stanza-Redux/App/compare/0.3.58...0.3.59"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Bon-Mot",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/Bon-Mot-iOS.ipa",
+      "iconURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/Bon-Mot.png",
+      "localizedDescription" : "Simple dictionary app",
+      "metadataURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/Info.plist#fa58a0307b2607d2e83ed5b49c44732f4767c9e7ff81a37d9a0e2ffd5ff64a65",
+      "name" : "Bon Mot",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read local files in order to load user-selected dictionaries"
+        },
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download definitions"
+        }
+      ],
+      "readmeURL" : "https://github.com/Bon-Mot/App/releases/download/0.2.53/README.md#0f95c3accbce8de61fd6024df84c4534fad846a6bba503522e125dbaea0e5732",
+      "sha256" : "463a1046b817484075e8f831e5aae05b93f4c6bb2e3c013ebbfeecda4337dcaf",
+      "size" : 10533261,
+      "stats" : {
+        "coreSize" : 170240,
+        "downloadCount" : 3,
+        "forkCount" : 0,
+        "impressionCount" : 745,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 32,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Simple dictionary app",
+      "tintColor" : "A2845E",
+      "version" : "0.2.53",
+      "versionDate" : "2022-09-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Bon-Mot/App/compare/0.2.52...0.2.53"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Eternal-September",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September-iOS.ipa",
+      "iconURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Eternal-September.png",
+      "localizedDescription" : "An app for learning Roman Numerals",
+      "metadataURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/Info.plist#6750f295af78bd49d57c8240d8836467dbcfe8f172576b223881446b46f770a9",
+      "name" : "Eternal September",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Eternal-September/App/releases/download/0.0.45/README.md#06c1731de8e6f17b3d945d0fba9fb9af700f54408645f0218d47dd2711fe64bb",
+      "sha256" : "6269b06ceecb4c9893445588c73e340a18fc27d88804d24350609f59b3103710",
+      "size" : 5816018,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 3,
+        "forkCount" : 0,
+        "impressionCount" : 900,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 66,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for learning Roman Numerals",
+      "version" : "0.0.45",
+      "versionDate" : "2022-08-24T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Eternal-September/App/compare/0.0.44...0.0.45"
     },
     {
       "beta" : true,
@@ -1326,7 +1330,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1292,
+        "impressionCount" : 1293,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 84,
@@ -1356,7 +1360,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1320,
+        "impressionCount" : 1321,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 69,
@@ -1386,7 +1390,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 982,
+        "impressionCount" : 983,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 63,

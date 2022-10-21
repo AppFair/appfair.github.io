@@ -179,7 +179,7 @@
       "size" : 11973807,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 39,
+        "downloadCount" : 40,
         "forkCount" : 1,
         "impressionCount" : 15,
         "issueCount" : 7,
@@ -799,7 +799,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "217935a3c15b9b1307a0b46c9d17098d610046118773f9a373533a664e204bbb",
+      "sha256" : "5f37c050d1933171466727e6a01f5dc5ff9fd748ce54538076a6d90abad7d973",
       "size" : 26854294,
       "stats" : {
         "coreSize" : 168592,
@@ -1028,7 +1028,7 @@
       "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo-macOS.zip",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -1041,7 +1041,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "c8ff34a021b26e8f7b60cb8e57664cacb919ceea57277628cb30341b9f1b0533",
+      "sha256" : "e0907e67c7249d0726f4ec1ed053a26a6ac6a83f1f8e921fc8c63e7f01596f1e",
       "size" : 3086553,
       "stats" : {
         "coreSize" : 168592,
@@ -1221,7 +1221,7 @@
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-macOS.zip",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
       "name" : "Tune Out",
       "permissions" : [
         {

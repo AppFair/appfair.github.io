@@ -26,7 +26,7 @@ tr:nth-child(even) {
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `90` | `2022-10-04T00:00:00Z` | `7.3 MB` | `268` | `30` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `606` | `54` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `43` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5422` | `828` | `1` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `39` | `2022-10-20T00:00:00Z` | `12 MB` | `15` | `5` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `40` | `2022-10-20T00:00:00Z` | `12 MB` | `15` | `5` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `34` | `2022-09-03T00:00:00Z` | `2.2 MB` | `1182` | `102` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `31` | `2022-09-20T00:00:00Z` | `3.2 MB` | `423` | `27` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1190` | `97` | `1` | `0` |  |

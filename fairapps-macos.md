@@ -24,11 +24,11 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `90` | `2022-10-04T00:00:00Z` | `7.3 MB` | `270` | `30` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `62` | `2022-10-20T00:00:00Z` | `12 MB` | `20` | `5` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `610` | `54` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `60` | `2022-10-20T00:00:00Z` | `12 MB` | `20` | `5` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `43` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5424` | `828` | `1` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `34` | `2022-09-03T00:00:00Z` | `2.2 MB` | `1185` | `102` | `0` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1195` | `97` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1198` | `97` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `31` | `2022-09-20T00:00:00Z` | `3.2 MB` | `423` | `27` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `976` | `85` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `26` | `2022-09-23T00:00:00Z` | `3.2 MB` | `7` | `2` | `0` | `0` |  |
@@ -38,7 +38,7 @@ tr:nth-child(even) {
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1134` | `95` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `1294` | `84` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `16` | `2022-09-23T00:00:00Z` | `3.6 MB` | `747` | `32` | `2` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `15` | `2022-08-27T00:00:00Z` | `4.2 MB` | `921` | `53` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `15` | `2022-08-27T00:00:00Z` | `4.2 MB` | `924` | `53` | `0` | `0` |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.4β`` | `12` | `2022-10-19T00:00:00Z` | `8 MB` | `2` | `2` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2339` | `145` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `10` | `2022-10-21T00:00:00Z` | `5 MB` | `3` | `1` | `0` | `0` |  |

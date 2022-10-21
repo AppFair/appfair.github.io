@@ -30,7 +30,7 @@ tr:nth-child(even) {
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `31` | `2022-09-20T00:00:00Z` | `3.2 MB` | `423` | `27` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1189` | `97` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `972` | `85` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `28` | `2022-10-20T00:00:00Z` | `12 MB` | `15` | `5` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `29` | `2022-10-20T00:00:00Z` | `12 MB` | `15` | `5` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `26` | `2022-09-23T00:00:00Z` | `3.2 MB` | `7` | `2` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1016` | `71` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4017` | `282` | `0` | `0` |  |

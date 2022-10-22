@@ -105,16 +105,16 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256": "022e9df7cff5a1b49b72be64061d2b25ca989025f9e3aa31a0087704ea97cd32",
+      "sha256": "e199f1229c8fe16e1ad134b9ef35b7f8bd9114fc1736f1da4c5b93b9f9e47300",
       "size": 11217580,
       "stats": {
         "coreSize": 168592,
         "downloadCount": 2,
         "forkCount": 0,
-        "impressionCount": 1,
+        "impressionCount": 2,
         "issueCount": 0,
         "starCount": 1,
-        "viewCount": 1,
+        "viewCount": 2,
         "watcherCount": 0
       },
       "subtitle": "Stream Internet Radio",

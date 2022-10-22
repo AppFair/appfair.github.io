@@ -23,7 +23,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256": "e199f1229c8fe16e1ad134b9ef35b7f8bd9114fc1736f1da4c5b93b9f9e47300",
+      "sha256": "6a60b4d0b4eeb07f6925a57f57c6bc61bd7318301b7554bb77ce523ec91f1361",
       "size": 11217580,
       "stats": {
         "coreSize": 168592,
@@ -58,7 +58,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256": "99d615fedc82f13d13bef753e949fd872025548bd491cd34dcb1af085a65fd2a",
+      "sha256": "a79750d8d30c51ba36bb7d4a9ed2926e1e7ef93d90ef4c84d7aa1a87d67edd59",
       "size": 1826776,
       "stats": {
         "coreSize": 168592,
@@ -111,10 +111,10 @@
         "coreSize": 170224,
         "downloadCount": 3,
         "forkCount": 0,
-        "impressionCount": 1213,
+        "impressionCount": 1215,
         "issueCount": 0,
         "starCount": 1,
-        "viewCount": 98,
+        "viewCount": 99,
         "watcherCount": 0
       },
       "subtitle": "An electronic book reader",

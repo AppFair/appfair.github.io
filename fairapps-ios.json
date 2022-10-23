@@ -29,7 +29,7 @@
         "coreSize" : 168592,
         "downloadCount" : 89,
         "forkCount" : 0,
-        "impressionCount" : 285,
+        "impressionCount" : 286,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 32,
@@ -334,7 +334,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -349,7 +349,7 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "7d18803604f643ae5826cde524f0b6a5cbbc4cc08f0b6360b3392a55fc5873fa",
+      "sha256" : "9513058fefa43f6b42d6fa0447d040e40a4f659932d42cbe9c5a196c55c1cca9",
       "size" : 2713296,
       "stats" : {
         "coreSize" : 168592,
@@ -500,7 +500,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "4731ba13c2b2d9de77258db5092152c3c18c8105da734f0a376d7739216c3ebc",
+      "sha256" : "8d868e7a855be825e6ef37b6325a6a4e9428c9b63f700042603113097f69d792",
       "size" : 4275846,
       "stats" : {
         "coreSize" : 168592,
@@ -688,7 +688,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "7d656a19d04eca13ae3751800cc1c995dba78cad812a7b9a12f3a268d2056d4c",
+      "sha256" : "8a1d9815b88c644bc315641497a7e274359f7e9e47f40b42bb33bc8a4f8cc83c",
       "size" : 22257173,
       "stats" : {
         "coreSize" : 168592,
@@ -939,7 +939,7 @@
       "homepage" : "https://tune-out.appfair.net",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -954,7 +954,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "edbc3f0bd86a0e855bbcb04ae8ed277ff4f25fa3b9f86ab6e0da152634ad5cd7",
+      "sha256" : "e199f1229c8fe16e1ad134b9ef35b7f8bd9114fc1736f1da4c5b93b9f9e47300",
       "size" : 11240774,
       "stats" : {
         "coreSize" : 168592,
@@ -1071,7 +1071,7 @@
       "homepage" : "https://cloud-cuckoo.appfair.net",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -1082,7 +1082,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "22c329d5c47dcf135c1dcef99adf75e8f4c4f397228b2bfde24b9d38a76a603f",
+      "sha256" : "99b1217e451f8fa569131fcc969118e97e13819e2ed43b56c7b6e7584e9185d4",
       "size" : 1826776,
       "stats" : {
         "coreSize" : 168592,

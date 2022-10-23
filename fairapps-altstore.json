@@ -8,7 +8,7 @@
       "homepage": "https://tune-out.appfair.net",
       "iconURL": "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
       "localizedDescription": "Stream Internet Radio",
-      "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL": "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
       "name": "Tune Out",
       "permissions": [
         {
@@ -58,7 +58,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256": "a79750d8d30c51ba36bb7d4a9ed2926e1e7ef93d90ef4c84d7aa1a87d67edd59",
+      "sha256": "22c329d5c47dcf135c1dcef99adf75e8f4c4f397228b2bfde24b9d38a76a603f",
       "size": 1826776,
       "stats": {
         "coreSize": 168592,

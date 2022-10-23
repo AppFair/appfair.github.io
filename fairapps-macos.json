@@ -58,9 +58,9 @@
       "size" : 11973807,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 143,
+        "downloadCount" : 146,
         "forkCount" : 1,
-        "impressionCount" : 47,
+        "impressionCount" : 53,
         "issueCount" : 7,
         "starCount" : 29,
         "viewCount" : 9,
@@ -101,10 +101,10 @@
         "coreSize" : 168592,
         "downloadCount" : 90,
         "forkCount" : 0,
-        "impressionCount" : 276,
+        "impressionCount" : 284,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 31,
+        "viewCount" : 32,
         "watcherCount" : 0
       },
       "subtitle" : "An SDUI fairground",
@@ -135,10 +135,10 @@
         "coreSize" : 168592,
         "downloadCount" : 61,
         "forkCount" : 0,
-        "impressionCount" : 640,
+        "impressionCount" : 648,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 57,
+        "viewCount" : 58,
         "watcherCount" : 0
       },
       "subtitle" : "Art imitating Life (imitating Art)",
@@ -181,10 +181,10 @@
         "coreSize" : 170576,
         "downloadCount" : 43,
         "forkCount" : 0,
-        "impressionCount" : 5445,
+        "impressionCount" : 5452,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 830,
+        "viewCount" : 831,
         "watcherCount" : 1
       },
       "subtitle" : "App for managing iOS devices",
@@ -212,10 +212,10 @@
         "coreSize" : 170176,
         "downloadCount" : 34,
         "forkCount" : 0,
-        "impressionCount" : 1211,
+        "impressionCount" : 1219,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 103,
+        "viewCount" : 104,
         "watcherCount" : 0
       },
       "subtitle" : "All the accumulated knowledge in the galaxy",
@@ -255,10 +255,10 @@
         "coreSize" : 170224,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 1220,
+        "impressionCount" : 1227,
         "issueCount" : 0,
         "starCount" : 1,
-        "viewCount" : 100,
+        "viewCount" : 102,
         "watcherCount" : 0
       },
       "subtitle" : "An electronic book reader",
@@ -333,10 +333,10 @@
         "coreSize" : 170144,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 1002,
+        "impressionCount" : 1009,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 87,
+        "viewCount" : 88,
         "watcherCount" : 0
       },
       "subtitle" : "H.R. Huffle Puff ",
@@ -411,10 +411,10 @@
         "coreSize" : 170240,
         "downloadCount" : 26,
         "forkCount" : 1,
-        "impressionCount" : 1046,
+        "impressionCount" : 1053,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 74,
+        "viewCount" : 75,
         "watcherCount" : 0
       },
       "subtitle" : "An app for weather bugs",
@@ -450,10 +450,10 @@
         "coreSize" : 168592,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 950,
+        "impressionCount" : 956,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 56,
+        "viewCount" : 57,
         "watcherCount" : 0
       },
       "subtitle" : "Preview and experiment with Lottie animations",
@@ -490,10 +490,10 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 4050,
+        "impressionCount" : 4055,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 285,
+        "viewCount" : 286,
         "watcherCount" : 0
       },
       "subtitle" : "A hex viewer",
@@ -527,10 +527,10 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 4320,
+        "impressionCount" : 4326,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 642,
+        "viewCount" : 643,
         "watcherCount" : 0
       },
       "subtitle" : "Syntactic Text Editor",
@@ -628,10 +628,10 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 1318,
+        "impressionCount" : 1327,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 87,
+        "viewCount" : 90,
         "watcherCount" : 0
       },
       "subtitle" : "Putting the pieces back together",
@@ -671,10 +671,10 @@
         "coreSize" : 170240,
         "downloadCount" : 16,
         "forkCount" : 0,
-        "impressionCount" : 774,
+        "impressionCount" : 779,
         "issueCount" : 0,
         "starCount" : 2,
-        "viewCount" : 33,
+        "viewCount" : 34,
         "watcherCount" : 0
       },
       "subtitle" : "Simple dictionary app",
@@ -706,7 +706,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "81503c980009f95d2ab75f300d2e58f4c5051c1299079cba30157d60e6932f51",
+      "sha256" : "ba06490898208711d80f34348393dd5506b65f7be01904b205f834a1fe6f9320",
       "size" : 7994433,
       "stats" : {
         "coreSize" : 168592,
@@ -731,7 +731,7 @@
       "homepage" : "https://cloud-cuckoo.appfair.net",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -744,7 +744,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "7c82503d8266dca62a99b7020935d45810fd6ee4aa21254c9710ba170e3b5368",
+      "sha256" : "e0907e67c7249d0726f4ec1ed053a26a6ac6a83f1f8e921fc8c63e7f01596f1e",
       "size" : 3104388,
       "stats" : {
         "coreSize" : 168592,
@@ -795,6 +795,41 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-macOS.zip",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
+      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sita Sings the Blues",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
+      "screenshotURLs" : [
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-mac-2540x1658.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-mac-2540x1658.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-mac-2540x1658.png"
+      ],
+      "sha256" : "16e8b428aa4d98907bede98298c588323a325f41cc33329c37f828f09a1b0d2b",
+      "size" : 1454449415,
+      "stats" : {
+        "coreSize" : 67800,
+        "downloadCount" : 9,
+        "forkCount" : 0,
+        "impressionCount" : 1162,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 54,
+        "watcherCount" : 0
+      },
+      "subtitle" : "The movie \"Sita Sings the Blues\"",
+      "version" : "0.0.51",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
     },
     {
       "beta" : true,
@@ -878,7 +913,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "5f37c050d1933171466727e6a01f5dc5ff9fd748ce54538076a6d90abad7d973",
+      "sha256" : "217935a3c15b9b1307a0b46c9d17098d610046118773f9a373533a664e204bbb",
       "size" : 26854294,
       "stats" : {
         "coreSize" : 168592,
@@ -993,41 +1028,6 @@
       "version" : "0.0.6",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.0.6"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-macOS.zip",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
-      "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-mac-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-mac-2540x1658.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-mac-2540x1658.png"
-      ],
-      "sha256" : "16e8b428aa4d98907bede98298c588323a325f41cc33329c37f828f09a1b0d2b",
-      "size" : 1454449415,
-      "stats" : {
-        "coreSize" : 67800,
-        "downloadCount" : 7,
-        "forkCount" : 0,
-        "impressionCount" : 1152,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 50,
-        "watcherCount" : 0
-      },
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.51",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
     },
     {
       "beta" : true,
@@ -1240,10 +1240,10 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3493,
+        "impressionCount" : 3497,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 198,
+        "viewCount" : 199,
         "watcherCount" : 0
       },
       "subtitle" : "An offline recipe book",
@@ -1387,10 +1387,10 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 1004,
+        "impressionCount" : 1011,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 65,
+        "viewCount" : 66,
         "watcherCount" : 0
       },
       "subtitle" : "What tide is it right now?",
@@ -1453,10 +1453,10 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 918,
+        "impressionCount" : 925,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 68,
+        "viewCount" : 69,
         "watcherCount" : 0
       },
       "subtitle" : "An app for learning Roman Numerals",
@@ -1520,7 +1520,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "80fe509d25702bd6999a04389b3eb058e3724767f5276050e48ba047e3a35b76",
+      "sha256" : "18e3ce0a57478a52df9b852b9ea059acba9db4c36bde687b0120db1ed0a7be2a",
       "size" : 15040779,
       "stats" : {
         "coreSize" : 168592,
@@ -1561,10 +1561,10 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1345,
+        "impressionCount" : 1354,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 71,
+        "viewCount" : 72,
         "watcherCount" : 0
       },
       "subtitle" : "There, I fixed the web for you. You're welcome.",

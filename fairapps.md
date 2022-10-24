@@ -23,27 +23,27 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `243` | `2022-10-20T00:00:00Z` | `12 MB` | `84` | `13` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `245` | `2022-10-20T00:00:00Z` | `12 MB` | `84` | `13` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `90` | `2022-10-04T00:00:00Z` | `7.3 MB` | `300` | `34` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `699` | `67` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `44` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5485` | `836` | `1` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `34` | `2022-08-27T00:00:00Z` | `4.2 MB` | `985` | `58` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `34` | `2022-09-03T00:00:00Z` | `2.2 MB` | `1262` | `110` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `32` | `2022-08-27T00:00:00Z` | `4.2 MB` | `985` | `58` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1262` | `105` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `31` | `2022-09-20T00:00:00Z` | `3.2 MB` | `424` | `27` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1052` | `91` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `27` | `2022-10-21T00:00:00Z` | `5 MB` | `5` | `1` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `29` | `2022-10-21T00:00:00Z` | `5 MB` | `5` | `1` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `26` | `2022-09-23T00:00:00Z` | `3.2 MB` | `10` | `2` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1088` | `79` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4086` | `287` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `4355` | `644` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1136` | `96` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://cloud-cuckoo.appfair.net) | ``0.9.333β`` | `19` | `2022-10-21T00:00:00Z` | `3.1 MB` | `5` | `1` | `2` | `0` |  |
+| [``Cloud Cuckoo``](https://cloud-cuckoo.appfair.net) | ``0.9.333β`` | `21` | `2022-10-21T00:00:00Z` | `3.1 MB` | `5` | `1` | `2` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `1361` | `93` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `16` | `2022-09-23T00:00:00Z` | `3.6 MB` | `811` | `37` | `2` | `0` |  |
+| [``Tune Out``](https://tune-out.appfair.net) | ``0.8.460β`` | `12` | `2022-10-23T00:00:00Z` | `15 MB` | `4` | `2` | `1` | `0` |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.4β`` | `12` | `2022-10-19T00:00:00Z` | `8 MB` | `4` | `2` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2342` | `145` | `0` | `0` |  |
-| [``Tune Out``](https://tune-out.appfair.net) | ``0.8.460β`` | `10` | `2022-10-23T00:00:00Z` | `15 MB` | `4` | `2` | `1` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `9` | `2022-08-27T00:00:00Z` | `1.45 GB` | `1196` | `56` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2093` | `125` | `0` | `0` |  |
 | [``Todo Hero``](http://appfair.net/#quick-start) | ``0.0.1β`` | `9` | `2022-08-23T00:00:00Z` | `2.2 MB` | `129` | `5` | `0` | `0` |  |

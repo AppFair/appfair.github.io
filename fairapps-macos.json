@@ -58,7 +58,7 @@
       "size" : 11973807,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 243,
+        "downloadCount" : 245,
         "forkCount" : 1,
         "impressionCount" : 84,
         "issueCount" : 7,
@@ -195,6 +195,45 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-macOS.zip",
+      "homepage" : "https://lottie-motion.appfair.net",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_01-mac-1574x1294.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_02-mac-1228x916.png"
+      ],
+      "sha256" : "c8fb706b98fa0e9ced4ee92d9397df6a9971f7b9232bbb6b04b6566c9d8f6c9c",
+      "size" : 4245117,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 34,
+        "forkCount" : 0,
+        "impressionCount" : 985,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 58,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.96",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Encyclopedia-Galactica",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Encyclopedia-Galactica/App/releases/download/0.1.72/Encyclopedia-Galactica-macOS.zip",
@@ -222,45 +261,6 @@
       "version" : "0.1.72",
       "versionDate" : "2022-09-03T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Encyclopedia-Galactica/App/compare/0.1.71...0.1.72"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-macOS.zip",
-      "homepage" : "https://lottie-motion.appfair.net",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion.png",
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_01-mac-1574x1294.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.96/screenshot_02-mac-1228x916.png"
-      ],
-      "sha256" : "c8fb706b98fa0e9ced4ee92d9397df6a9971f7b9232bbb6b04b6566c9d8f6c9c",
-      "size" : 4245117,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 32,
-        "forkCount" : 0,
-        "impressionCount" : 985,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 58,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.96",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
     },
     {
       "beta" : false,
@@ -405,11 +405,11 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-mac-1228x916.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-mac-1574x1294.png"
       ],
-      "sha256" : "f4d042d1dda4a1dc2eb63c650a88182490aa001b3538ea81a0658d3834073ed6",
+      "sha256" : "a7fc1cb1e2d4cfa1e20dd77b2260627d207f2472b35c0ef6979a5ea2f4723eea",
       "size" : 4970731,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 27,
+        "downloadCount" : 29,
         "forkCount" : 0,
         "impressionCount" : 5,
         "issueCount" : 0,
@@ -614,7 +614,7 @@
       "homepage" : "https://cloud-cuckoo.appfair.net",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -627,11 +627,11 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "c8ff34a021b26e8f7b60cb8e57664cacb919ceea57277628cb30341b9f1b0533",
+      "sha256" : "e0907e67c7249d0726f4ec1ed053a26a6ac6a83f1f8e921fc8c63e7f01596f1e",
       "size" : 3104388,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 19,
+        "downloadCount" : 21,
         "forkCount" : 1,
         "impressionCount" : 5,
         "issueCount" : 0,
@@ -724,6 +724,50 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-macOS.zip",
+      "homepage" : "https://tune-out.appfair.net",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-2212x1462.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-mac-2534x1112.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2582x1498.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-mac-2180x1464.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
+      ],
+      "sha256" : "80fe509d25702bd6999a04389b3eb058e3724767f5276050e48ba047e3a35b76",
+      "size" : 15040779,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 12,
+        "forkCount" : 0,
+        "impressionCount" : 4,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "F07273",
+      "version" : "0.8.460",
+      "versionDate" : "2022-10-23T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.World-Fair",
       "developerName" : "marcprux <mwp1@cornell.edu>",
       "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-macOS.zip",
@@ -745,7 +789,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "422a08861c4417e0f6d73f3aff7b0979bc72c81c24d6fa74461d6e81edea3716",
+      "sha256" : "ba06490898208711d80f34348393dd5506b65f7be01904b205f834a1fe6f9320",
       "size" : 7994433,
       "stats" : {
         "coreSize" : 168592,
@@ -795,50 +839,6 @@
       "version" : "0.0.3",
       "versionDate" : "2022-01-25T00:00:00Z",
       "versionDescription" : "Release 0.0.3"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tune-Out",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-macOS.zip",
-      "homepage" : "https://tune-out.appfair.net",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-mac-2180x1464.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
-      ],
-      "sha256" : "18e3ce0a57478a52df9b852b9ea059acba9db4c36bde687b0120db1ed0a7be2a",
-      "size" : 15040779,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 10,
-        "forkCount" : 0,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "F07273",
-      "version" : "0.8.460",
-      "versionDate" : "2022-10-23T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
     },
     {
       "beta" : false,
@@ -957,7 +957,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "5f37c050d1933171466727e6a01f5dc5ff9fd748ce54538076a6d90abad7d973",
+      "sha256" : "7987a29fd553ddac4bd915521b696e9cec548c9dc46820d6aa922d30af18bc85",
       "size" : 26854294,
       "stats" : {
         "coreSize" : 168592,

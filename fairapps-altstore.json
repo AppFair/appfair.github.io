@@ -23,7 +23,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256": "edbc3f0bd86a0e855bbcb04ae8ed277ff4f25fa3b9f86ab6e0da152634ad5cd7",
+      "sha256": "6a60b4d0b4eeb07f6925a57f57c6bc61bd7318301b7554bb77ce523ec91f1361",
       "size": 11240774,
       "stats": {
         "coreSize": 168592,
@@ -49,7 +49,7 @@
       "homepage": "https://cloud-cuckoo.appfair.net",
       "iconURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription": "A whimsical game of excitement and delight",
-      "metadataURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
+      "metadataURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name": "Cloud Cuckoo",
       "permissions": [],
       "readmeURL": "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
@@ -111,7 +111,7 @@
         "coreSize": 170224,
         "downloadCount": 3,
         "forkCount": 0,
-        "impressionCount": 1248,
+        "impressionCount": 1250,
         "issueCount": 0,
         "starCount": 1,
         "viewCount": 105,

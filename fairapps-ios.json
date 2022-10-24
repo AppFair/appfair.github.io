@@ -179,7 +179,7 @@
       "size" : 12762342,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 32,
+        "downloadCount" : 34,
         "forkCount" : 0,
         "impressionCount" : 985,
         "issueCount" : 0,
@@ -193,36 +193,6 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
     },
     {
-      "beta" : false,
-      "bundleIdentifier" : "app.Huffle-Puff",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-iOS.ipa",
-      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
-      "localizedDescription" : "H.R. Huffle Puff ",
-      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Huffle Puff",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "5ea5ef256d2f4f51120a0cabd08b19ba2438348be9410f2e0d6ab0af69bdcf45",
-      "size" : 5665272,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 28,
-        "forkCount" : 0,
-        "impressionCount" : 1052,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 91,
-        "watcherCount" : 0
-      },
-      "subtitle" : "H.R. Huffle Puff ",
-      "version" : "0.0.10",
-      "versionDate" : "2022-09-09T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
-    },
-    {
       "beta" : true,
       "bundleIdentifier" : "app.Lottie-Motion",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -230,7 +200,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -245,11 +215,11 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "7d18803604f643ae5826cde524f0b6a5cbbc4cc08f0b6360b3392a55fc5873fa",
+      "sha256" : "9513058fefa43f6b42d6fa0447d040e40a4f659932d42cbe9c5a196c55c1cca9",
       "size" : 2713296,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 27,
+        "downloadCount" : 29,
         "forkCount" : 0,
         "impressionCount" : 5,
         "issueCount" : 0,
@@ -285,7 +255,7 @@
       "size" : 1453833866,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 27,
+        "downloadCount" : 29,
         "forkCount" : 0,
         "impressionCount" : 4,
         "issueCount" : 0,
@@ -321,7 +291,7 @@
       "size" : 1458058228,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 27,
+        "downloadCount" : 29,
         "forkCount" : 0,
         "impressionCount" : 1196,
         "issueCount" : 0,
@@ -333,6 +303,36 @@
       "version" : "0.0.51",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Huffle-Puff",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff-iOS.ipa",
+      "iconURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Huffle-Puff.png",
+      "localizedDescription" : "H.R. Huffle Puff ",
+      "metadataURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Huffle Puff",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Huffle-Puff/App/releases/download/0.0.10/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "5ea5ef256d2f4f51120a0cabd08b19ba2438348be9410f2e0d6ab0af69bdcf45",
+      "size" : 5665272,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 28,
+        "forkCount" : 0,
+        "impressionCount" : 1052,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 91,
+        "watcherCount" : 0
+      },
+      "subtitle" : "H.R. Huffle Puff ",
+      "version" : "0.0.10",
+      "versionDate" : "2022-09-09T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
     },
     {
       "beta" : false,
@@ -479,46 +479,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.World-Fair",
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-iOS.ipa",
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read and write files in order to…"
-        }
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
-      "size" : 4275846,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 12,
-        "forkCount" : 0,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.4",
-      "versionDate" : "2022-10-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Tune-Out",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
@@ -540,11 +500,11 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "e199f1229c8fe16e1ad134b9ef35b7f8bd9114fc1736f1da4c5b93b9f9e47300",
+      "sha256" : "edbc3f0bd86a0e855bbcb04ae8ed277ff4f25fa3b9f86ab6e0da152634ad5cd7",
       "size" : 11240774,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 11,
+        "downloadCount" : 13,
         "forkCount" : 0,
         "impressionCount" : 4,
         "issueCount" : 0,
@@ -557,6 +517,46 @@
       "version" : "0.8.460",
       "versionDate" : "2022-10-23T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.World-Fair",
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-iOS.ipa",
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read and write files in order to…"
+        }
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "8d868e7a855be825e6ef37b6325a6a4e9428c9b63f700042603113097f69d792",
+      "size" : 4275846,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 12,
+        "forkCount" : 0,
+        "impressionCount" : 4,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.4",
+      "versionDate" : "2022-10-19T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
     },
     {
       "beta" : true,
@@ -729,7 +729,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "397a3f7245d9ac74c4d9a93200954b1c8d39a0d987efc617e5bce09f707e6214",
+      "sha256" : "8a1d9815b88c644bc315641497a7e274359f7e9e47f40b42bb33bc8a4f8cc83c",
       "size" : 22257173,
       "stats" : {
         "coreSize" : 168592,
@@ -1071,7 +1071,7 @@
       "homepage" : "https://cloud-cuckoo.appfair.net",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 

@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `267` | `2022-10-20T00:00:00Z` | `12 MB` | `95` | `15` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `272` | `2022-10-20T00:00:00Z` | `12 MB` | `95` | `15` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `90` | `2022-10-04T00:00:00Z` | `7.3 MB` | `305` | `37` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `716` | `71` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `44` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5497` | `838` | `1` | `0` |  |

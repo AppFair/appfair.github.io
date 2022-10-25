@@ -28,9 +28,9 @@ tr:nth-child(even) {
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4088` | `288` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `37` | `2022-08-27T00:00:00Z` | `12.8 MB` | `986` | `59` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `424` | `27` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `33` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1197` | `56` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `32` | `2022-10-21T00:00:00Z` | `2.7 MB` | `5` | `1` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `32` | `2022-10-21T00:00:00Z` | `1.45 GB` | `4` | `1` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `32` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1197` | `56` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `1053` | `91` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `1263` | `110` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `25` | `2022-09-23T00:00:00Z` | `7.8 MB` | `10` | `2` | `0` | `0` |  |
@@ -57,6 +57,7 @@ tr:nth-child(even) {
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `3` | `2022-09-23T00:00:00Z` | `10.5 MB` | `812` | `37` | `2` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `3` | `2022-08-24T00:00:00Z` | `5.8 MB` | `952` | `70` | `0` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `686` | `44` | `0` | `0` |  |
+| [``Tune Out``](https://tune-out.appfair.net) | ``0.8.460β`` | `2` | `2022-10-25T00:00:00Z` | `11.2 MB` | `1` | `1` | `1` | `0` |  |
 | [``App Fair``](https://appfair.app) | ``0.8.131`` | `2` | `2022-10-20T00:00:00Z` | `8.1 MB` | `84` | `13` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1362` | `93` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `1386` | `74` | `0` | `0` |  |

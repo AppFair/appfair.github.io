@@ -236,7 +236,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -500,7 +500,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "f8e056f2e4826bbc38e840a16e2ba90eed7146eb12bd9c113727dcf47db14c74",
+      "sha256" : "45f7ff42a8adccc4a88280bbd29d6d339a27ce6abff983dc5ca3b3d178e7d4fc",
       "size" : 4275846,
       "stats" : {
         "coreSize" : 168592,
@@ -688,7 +688,7 @@
         }
       ],
       "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "8a1d9815b88c644bc315641497a7e274359f7e9e47f40b42bb33bc8a4f8cc83c",
+      "sha256" : "e38e987dc0f6c79ce9e593ba91f69a54087752702055f5cb1a7116573d7214d7",
       "size" : 22257173,
       "stats" : {
         "coreSize" : 168592,
@@ -939,7 +939,7 @@
       "homepage" : "https://tune-out.appfair.net",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -954,7 +954,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "edbc3f0bd86a0e855bbcb04ae8ed277ff4f25fa3b9f86ab6e0da152634ad5cd7",
+      "sha256" : "e199f1229c8fe16e1ad134b9ef35b7f8bd9114fc1736f1da4c5b93b9f9e47300",
       "size" : 11243107,
       "stats" : {
         "coreSize" : 168592,
@@ -1082,7 +1082,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "2d92a41ff7d87890f1cc85de7a27df559ca5d095ea06b0adfd4ddddba38f717d",
+      "sha256" : "99d615fedc82f13d13bef753e949fd872025548bd491cd34dcb1af085a65fd2a",
       "size" : 1826776,
       "stats" : {
         "coreSize" : 168592,

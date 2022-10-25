@@ -26,7 +26,7 @@ tr:nth-child(even) {
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `89` | `2022-10-04T00:00:00Z` | `3.8 MB` | `305` | `37` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `716` | `71` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4096` | `289` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `39` | `2022-08-27T00:00:00Z` | `12.8 MB` | `992` | `60` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `39` | `2022-08-27T00:00:00Z` | `12.8 MB` | `993` | `60` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `35` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1211` | `57` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `425` | `27` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `34` | `2022-10-21T00:00:00Z` | `2.7 MB` | `5` | `1` | `0` | `0` |  |

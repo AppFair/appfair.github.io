@@ -29,10 +29,10 @@
         "coreSize" : 168592,
         "downloadCount" : 89,
         "forkCount" : 0,
-        "impressionCount" : 309,
+        "impressionCount" : 311,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 38,
+        "viewCount" : 39,
         "watcherCount" : 0
       },
       "subtitle" : "An SDUI fairground",
@@ -59,7 +59,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 727,
+        "impressionCount" : 728,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 73,
@@ -97,7 +97,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 4107,
+        "impressionCount" : 4109,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 291,
@@ -136,9 +136,9 @@
       "size" : 12762342,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 40,
+        "downloadCount" : 41,
         "forkCount" : 0,
-        "impressionCount" : 1003,
+        "impressionCount" : 1005,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 61,
@@ -172,7 +172,7 @@
       "size" : 1453833866,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 37,
+        "downloadCount" : 39,
         "forkCount" : 0,
         "impressionCount" : 4,
         "issueCount" : 0,
@@ -208,9 +208,9 @@
       "size" : 1458058228,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 36,
+        "downloadCount" : 38,
         "forkCount" : 0,
-        "impressionCount" : 1222,
+        "impressionCount" : 1224,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 58,
@@ -229,7 +229,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -244,11 +244,11 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "7d18803604f643ae5826cde524f0b6a5cbbc4cc08f0b6360b3392a55fc5873fa",
+      "sha256" : "9513058fefa43f6b42d6fa0447d040e40a4f659932d42cbe9c5a196c55c1cca9",
       "size" : 2713296,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 35,
+        "downloadCount" : 36,
         "forkCount" : 0,
         "impressionCount" : 5,
         "issueCount" : 0,
@@ -323,7 +323,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 1071,
+        "impressionCount" : 1073,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -353,7 +353,7 @@
         "coreSize" : 170176,
         "downloadCount" : 26,
         "forkCount" : 0,
-        "impressionCount" : 1285,
+        "impressionCount" : 1288,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 112,
@@ -427,7 +427,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 1106,
+        "impressionCount" : 1108,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 80,
@@ -641,6 +641,47 @@
       "versionDescription" : "Release 0.4.8"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Tune-Out",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
+      "homepage" : "https://tune-out.appfair.net",
+      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
+      "localizedDescription" : "Stream Internet Radio",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "name" : "Tune Out",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
+        }
+      ],
+      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
+      "screenshotURLs" : [
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
+        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
+      ],
+      "sha256" : "edbc3f0bd86a0e855bbcb04ae8ed277ff4f25fa3b9f86ab6e0da152634ad5cd7",
+      "size" : 11243107,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 8,
+        "forkCount" : 0,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 1,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Stream Internet Radio",
+      "tintColor" : "F07273",
+      "version" : "0.8.460",
+      "versionDate" : "2022-10-25T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Main-Course",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -659,7 +700,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3537,
+        "impressionCount" : 3538,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 202,
@@ -669,42 +710,6 @@
       "version" : "0.0.16",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Main-Course/App/compare/0.0.15...0.0.16"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-iOS.ipa",
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "sha256" : "7d656a19d04eca13ae3751800cc1c995dba78cad812a7b9a12f3a268d2056d4c",
-      "size" : 22257173,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 8,
-        "forkCount" : 0,
-        "impressionCount" : 14,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
-      "versionDate" : "2022-10-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : true,
@@ -735,47 +740,6 @@
       "version" : "0.0.35",
       "versionDate" : "2021-12-04T00:00:00Z",
       "versionDescription" : "Release 0.0.35"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tune-Out",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
-      "homepage" : "https://tune-out.appfair.net",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
-      ],
-      "sha256" : "e199f1229c8fe16e1ad134b9ef35b7f8bd9114fc1736f1da4c5b93b9f9e47300",
-      "size" : 11243107,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 6,
-        "forkCount" : 0,
-        "impressionCount" : 1,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "F07273",
-      "version" : "0.8.460",
-      "versionDate" : "2022-10-25T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
     },
     {
       "beta" : true,
@@ -1071,7 +1035,7 @@
       "homepage" : "https://cloud-cuckoo.appfair.net",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -1082,7 +1046,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "2d92a41ff7d87890f1cc85de7a27df559ca5d095ea06b0adfd4ddddba38f717d",
+      "sha256" : "0f57f73d9555aa75e9207c3533902232fd9d6206bc3c0e73ed9557646a5d4bc9",
       "size" : 1826776,
       "stats" : {
         "coreSize" : 168592,
@@ -1135,7 +1099,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1280,
+        "impressionCount" : 1282,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 107,
@@ -1175,7 +1139,7 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 832,
+        "impressionCount" : 834,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 39,
@@ -1206,7 +1170,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 975,
+        "impressionCount" : 978,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 73,
@@ -1299,10 +1263,10 @@
         "coreSize" : 169056,
         "downloadCount" : 2,
         "forkCount" : 1,
-        "impressionCount" : 105,
+        "impressionCount" : 108,
         "issueCount" : 7,
         "starCount" : 29,
-        "viewCount" : 17,
+        "viewCount" : 18,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -1330,7 +1294,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1382,
+        "impressionCount" : 1384,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 94,
@@ -1360,7 +1324,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1412,
+        "impressionCount" : 1414,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 75,
@@ -1390,7 +1354,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1062,
+        "impressionCount" : 1065,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 70,

@@ -58,7 +58,7 @@
       "size" : 11973807,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 311,
+        "downloadCount" : 312,
         "forkCount" : 1,
         "impressionCount" : 115,
         "issueCount" : 7,
@@ -356,7 +356,7 @@
       "homepage" : "https://cloud-cuckoo.appfair.net",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -369,7 +369,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "390f7da24a372aba695650990a5ef9da4b85a2259af10026a4f5fe4852737293",
+      "sha256" : "c8ff34a021b26e8f7b60cb8e57664cacb919ceea57277628cb30341b9f1b0533",
       "size" : 3104388,
       "stats" : {
         "coreSize" : 168592,
@@ -748,7 +748,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "c4efa59cad7a35df7f7270c606470ac1ba6d1ed06bcb8e7f9c09729ecc0418bd",
+      "sha256" : "80fe509d25702bd6999a04389b3eb058e3724767f5276050e48ba047e3a35b76",
       "size" : 15043008,
       "stats" : {
         "coreSize" : 168592,
@@ -789,7 +789,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "422a08861c4417e0f6d73f3aff7b0979bc72c81c24d6fa74461d6e81edea3716",
+      "sha256" : "ba06490898208711d80f34348393dd5506b65f7be01904b205f834a1fe6f9320",
       "size" : 7994433,
       "stats" : {
         "coreSize" : 168592,
@@ -1629,7 +1629,7 @@
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_02-mac-1228x916.png",
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-mac-1574x1294.png"
       ],
-      "sha256" : "e24f1528cffa68f0805ba103de897941212d14fabdca74bbf7a68306a6d385da",
+      "sha256" : "b82e985a38e877215eea24d7d0e7f6b59358850fe25cd480ec6a1c328895c96c",
       "size" : 26925911,
       "stats" : {
         "coreSize" : 168592,

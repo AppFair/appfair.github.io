@@ -193,16 +193,17 @@ jobs:
           cd -
 
       - name: Generate appcasks catalog
+        # currently failing; ticket opened:
+        # GraphQL repo release query has gone horribly wrong #1848987
+        if: false
         run: |
           cp appfair.github.io/appcasks.json appfair.github.io/appcasks_old.json && touch appfair.github.io/appcasks_old.json
           $FAIRTOOL brew appcasks \
             --verbose \
             --hub github.com/appfair \
             --base-repo "App" \
-            --starrer-name "appfairbot" \
-            --topic-name "appfair-cask" \
             --casks-repo "appcasks" \
-            --max-apps 1000000 \
+            --max-apps 10000 \
             --funding-sources \
             --token "${{ secrets.APP_FAIR_BOT_TOKEN }}" \
             --catalog-name "Homebrew Casks" \
@@ -211,8 +212,11 @@ jobs:
             --merge-cask-stats "https://formulae.brew.sh/api/analytics/cask-install/homebrew-cask/30d.json" \
             --boost-apps "${{ secrets.APP_FAIR_BOOSTED_CASKS }}" \
             --boost-factor 100000 \
-            --retry-duration 600 \
             -o appfair.github.io/appcasks.json
+
+            #--retry-duration 600 \
+            #--starrer-name "appfairbot" \
+            #--topic-name "appfair-cask" \
 
           # update the catalog to generate the markdown and news items 
           $FAIRTOOL source postrelease \

@@ -27,7 +27,7 @@ tr:nth-child(even) {
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `721` | `73` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4102` | `291` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `40` | `2022-08-27T00:00:00Z` | `12.8 MB` | `997` | `61` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `36` | `2022-10-21T00:00:00Z` | `1.45 GB` | `4` | `1` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `37` | `2022-10-21T00:00:00Z` | `1.45 GB` | `4` | `1` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `36` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1215` | `58` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `35` | `2022-10-21T00:00:00Z` | `2.7 MB` | `5` | `1` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `425` | `27` | `0` | `0` |  |
@@ -43,9 +43,9 @@ tr:nth-child(even) {
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `8` | `2022-07-20T00:00:00Z` | `18.2 MB` | `3533` | `202` | `0` | `0` |  |
 | [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `8` | `2022-10-20T00:00:00Z` | `22.3 MB` | `14` | `2` | `0` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.35β`` | `7` | `2021-12-04T00:00:00Z` | `14.9 MB` | `1322` | `201` | `0` | `0` |  |
+| [``Tune Out``](https://tune-out.appfair.net) | ``0.8.460β`` | `6` | `2022-10-25T00:00:00Z` | `11.2 MB` | `1` | `1` | `1` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `6` | `2022-01-25T00:00:00Z` | `6 MB` | `2342` | `145` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `6` | `2022-01-23T00:00:00Z` | `5.8 MB` | `2093` | `125` | `0` | `0` |  |
-| [``Tune Out``](https://tune-out.appfair.net) | ``0.8.460β`` | `5` | `2022-10-25T00:00:00Z` | `11.2 MB` | `1` | `1` | `1` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `6.5 MB` | `1478` | `64` | `0` | `0` |  |
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `5` | `2022-01-24T00:00:00Z` | `6.5 MB` | `725` | `59` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.3β`` | `5` | `2022-01-24T00:00:00Z` | `6.1 MB` | `211` | `14` | `0` | `0` |  |

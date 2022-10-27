@@ -193,9 +193,6 @@ jobs:
           cd -
 
       - name: Generate appcasks catalog
-        # currently failing; ticket opened:
-        # GraphQL repo release query has gone horribly wrong #1848987
-        if: false
         run: |
           cp appfair.github.io/appcasks.json appfair.github.io/appcasks_old.json && touch appfair.github.io/appcasks_old.json
           $FAIRTOOL brew appcasks \
@@ -213,6 +210,8 @@ jobs:
             --boost-apps "${{ secrets.APP_FAIR_BOOSTED_CASKS }}" \
             --boost-factor 100000 \
             -o appfair.github.io/appcasks.json
+
+            #--cask-query-count 9 --release-query-count 9 --asset-query-count 9
 
             #--retry-duration 600 \
             #--starrer-name "appfairbot" \

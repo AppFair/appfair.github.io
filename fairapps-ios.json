@@ -229,7 +229,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -244,7 +244,7 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "7d18803604f643ae5826cde524f0b6a5cbbc4cc08f0b6360b3392a55fc5873fa",
+      "sha256" : "9513058fefa43f6b42d6fa0447d040e40a4f659932d42cbe9c5a196c55c1cca9",
       "size" : 2713296,
       "stats" : {
         "coreSize" : 168592,
@@ -500,7 +500,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "45f7ff42a8adccc4a88280bbd29d6d339a27ce6abff983dc5ca3b3d178e7d4fc",
+      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
       "size" : 4275846,
       "stats" : {
         "coreSize" : 168592,
@@ -540,7 +540,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "022e9df7cff5a1b49b72be64061d2b25ca989025f9e3aa31a0087704ea97cd32",
+      "sha256" : "edbc3f0bd86a0e855bbcb04ae8ed277ff4f25fa3b9f86ab6e0da152634ad5cd7",
       "size" : 11243107,
       "stats" : {
         "coreSize" : 168592,
@@ -1050,7 +1050,7 @@
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_03-iphone-750x1334.png",
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "e4050a21645ff06ffa6025c2e31b824d2a3723127ec5ab70112fe86c512b9d5a",
+      "sha256" : "97a12a0681b86da89384144f75047cd928ddc9d7955782af224da0044e92bf3e",
       "size" : 22290714,
       "stats" : {
         "coreSize" : 168592,
@@ -1087,7 +1087,7 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "a79750d8d30c51ba36bb7d4a9ed2926e1e7ef93d90ef4c84d7aa1a87d67edd59",
+      "sha256" : "99d615fedc82f13d13bef753e949fd872025548bd491cd34dcb1af085a65fd2a",
       "size" : 1826776,
       "stats" : {
         "coreSize" : 168592,

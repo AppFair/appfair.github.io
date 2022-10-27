@@ -60,7 +60,7 @@
         "coreSize" : 169056,
         "downloadCount" : 313,
         "forkCount" : 1,
-        "impressionCount" : 116,
+        "impressionCount" : 117,
         "issueCount" : 7,
         "starCount" : 29,
         "viewCount" : 21,
@@ -101,7 +101,7 @@
         "coreSize" : 168592,
         "downloadCount" : 90,
         "forkCount" : 0,
-        "impressionCount" : 320,
+        "impressionCount" : 323,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 42,
@@ -240,7 +240,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -254,7 +254,7 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-mac-1228x916.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-mac-1574x1294.png"
       ],
-      "sha256" : "a7fc1cb1e2d4cfa1e20dd77b2260627d207f2472b35c0ef6979a5ea2f4723eea",
+      "sha256" : "f4d042d1dda4a1dc2eb63c650a88182490aa001b3538ea81a0658d3834073ed6",
       "size" : 4970731,
       "stats" : {
         "coreSize" : 168592,
@@ -335,9 +335,9 @@
       "size" : 3247304,
       "stats" : {
         "coreSize" : 170224,
-        "downloadCount" : 32,
+        "downloadCount" : 33,
         "forkCount" : 0,
-        "impressionCount" : 436,
+        "impressionCount" : 437,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 29,
@@ -356,7 +356,7 @@
       "homepage" : "https://cloud-cuckoo.appfair.net",
       "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
       "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#9ee02675dd5a50e712f300d7dabe9df6cac040892cab73f9fcafc8df7e147f5b",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
       "name" : "Cloud Cuckoo",
       "permissions" : [
 
@@ -369,13 +369,13 @@
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-mac-1714x522.png",
         "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_06-mac-1656x1560.png"
       ],
-      "sha256" : "eb20d430a36441ab254e053bff2fda9744442a5f7ca89144d91b99d2c3b6dcd4",
+      "sha256" : "e0907e67c7249d0726f4ec1ed053a26a6ac6a83f1f8e921fc8c63e7f01596f1e",
       "size" : 3104388,
       "stats" : {
         "coreSize" : 168592,
         "downloadCount" : 31,
         "forkCount" : 1,
-        "impressionCount" : 9,
+        "impressionCount" : 10,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 2,
@@ -419,7 +419,7 @@
         "coreSize" : 170224,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 1293,
+        "impressionCount" : 1296,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 109,
@@ -748,13 +748,13 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "c4efa59cad7a35df7f7270c606470ac1ba6d1ed06bcb8e7f9c09729ecc0418bd",
+      "sha256" : "3e8b8eb5ce1866153755895ce779b6dc01fa1bc818a7a9f93c3495fafe96363c",
       "size" : 15043008,
       "stats" : {
         "coreSize" : 168592,
         "downloadCount" : 13,
         "forkCount" : 0,
-        "impressionCount" : 7,
+        "impressionCount" : 9,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 4,
@@ -1503,6 +1503,46 @@
       "versionDescription" : "Release 0.0.5"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "screenshotURLs" : [
+        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_02-mac-1228x916.png",
+        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-mac-1574x1294.png"
+      ],
+      "sha256" : "b82e985a38e877215eea24d7d0e7f6b59358850fe25cd480ec6a1c328895c96c",
+      "size" : 26925910,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 3,
+        "forkCount" : 0,
+        "impressionCount" : 3,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "tintColor" : "17B0E6",
+      "version" : "0.0.28",
+      "versionDate" : "2022-10-26T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Fox-Glove",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -1606,46 +1646,6 @@
       "version" : "0.0.12",
       "versionDate" : "2022-05-01T00:00:00Z",
       "versionDescription" : "Release 0.0.12"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "screenshotURLs" : [
-        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_02-mac-1228x916.png",
-        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-mac-1574x1294.png"
-      ],
-      "sha256" : "b82e985a38e877215eea24d7d0e7f6b59358850fe25cd480ec6a1c328895c96c",
-      "size" : 26925911,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 2,
-        "forkCount" : 0,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
-      "versionDate" : "2022-10-26T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : true,

@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `316` | `2022-10-20T00:00:00Z` | `12 MB` | `119` | `22` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `321` | `2022-10-20T00:00:00Z` | `12 MB` | `119` | `22` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `90` | `2022-10-04T00:00:00Z` | `7.3 MB` | `326` | `43` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `739` | `76` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `47` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1017` | `63` | `0` | `0` |  |
@@ -51,11 +51,11 @@ tr:nth-child(even) {
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.37β`` | `8` | `2022-01-24T00:00:00Z` | `4.7 MB` | `861` | `42` | `0` | `0` |  |
 | [``Story Points``](https://Story-Points.github.io/App/) | ``0.0.6β`` | `8` | `2022-01-24T00:00:00Z` | `2.4 MB` | `686` | `73` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `7` | `2022-01-26T00:00:00Z` | `2.3 MB` | `1745` | `95` | `0` | `0` |  |
+| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `7` | `2022-10-26T00:00:00Z` | `26.9 MB` | `3` | `2` | `0` | `0` |  |
 | [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `2.7 MB` | `1478` | `64` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.51β`` | `5` | `2022-01-16T00:00:00Z` | `2.3 MB` | `396` | `32` | `0` | `0` |  |
 | [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `5` | `2022-01-24T00:00:00Z` | `2.4 MB` | `2000` | `49` | `0` | `0` |  |
 | [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `5` | `2022-07-04T00:00:00Z` | `2 MB` | `1268` | `106` | `0` | `0` |  |
-| [``Sun Bow``](http://Sun-Bow.appfair.net) | ``0.0.28β`` | `5` | `2022-10-26T00:00:00Z` | `26.9 MB` | `3` | `2` | `0` | `0` |  |
 | [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `4` | `2022-07-20T00:00:00Z` | `12.9 MB` | `3545` | `202` | `0` | `0` |  |
 | [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `4` | `2022-01-24T00:00:00Z` | `2.6 MB` | `725` | `59` | `0` | `0` |  |
 | [``Red Light Green Light``](https://Red-Light-Green-Light.github.io/App/) | ``0.0.12β`` | `4` | `2022-02-02T00:00:00Z` | `2.4 MB` | `1291` | `68` | `0` | `0` |  |

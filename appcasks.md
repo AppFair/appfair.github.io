@@ -941,7 +941,7 @@ tr:nth-child(even) {
 | [``Parallels Desktop``](https://www.parallels.com/products/desktop/) | ``18.0.2-53077`` | `736` |  |  |  |  |  | `0` |  |
 | [``Ghidra``](https://www.ghidra-sre.org/) | ``10.1.5,20220726`` | `731` |  |  |  |  |  | `0` |  |
 | [``Goland``](https://www.jetbrains.com/go/) | ``2022.2.4,222.4345.24`` | `717` |  |  |  |  |  | `0` |  |
-| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.25,20221028102958`` | `713` | `2022-10-28T16:41:58Z` |  |  |  |  | `0` |  |
+| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.25,20221028102958`` | `713` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Logseq``](https://github.com/logseq/logseq) | ``0.8.9`` | `708` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``TextMate``](https://macromates.com/) | ``2.0.23`` | `707` |  |  |  |  |  | `0` |  |
 | [``QuickLook Video``](https://github.com/Marginal/QLVideo) | ``1.94`` | `702` |  |  |  |  |  | `0` |  |

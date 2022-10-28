@@ -110,9 +110,9 @@
       ],
       "sha256" : "73d87cc323dd24bcc14e482f896a91f09c24b321244d9d2796a3315ae092fd35",
       "stats" : {
-        "downloadCount" : 3571,
-        "impressionCount" : 9776,
-        "viewCount" : 640
+        "downloadCount" : 3572,
+        "impressionCount" : 9777,
+        "viewCount" : 641
       },
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
@@ -334,8 +334,8 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5856,
-        "impressionCount" : 2560,
-        "viewCount" : 129
+        "impressionCount" : 2561,
+        "viewCount" : 130
       },
       "subtitle" : "Text editor for code, markup and prose",
       "tintColor" : "765B33",
@@ -402,7 +402,7 @@
       "sha256" : "7a273bd1e9e1d414b24086401956c871104d679070d9c7061b397dc60377976b",
       "stats" : {
         "downloadCount" : 2660,
-        "impressionCount" : 2548,
+        "impressionCount" : 2549,
         "viewCount" : 192
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -424,7 +424,7 @@
       "sha256" : "550e3639c2eb59bf01b0555398dd80b7919f6b711ae3e6474424a2f8be8bcfbd",
       "stats" : {
         "downloadCount" : 2464,
-        "impressionCount" : 3554,
+        "impressionCount" : 3555,
         "viewCount" : 160
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -447,8 +447,8 @@
       "sha256" : "463dba6fbcb6e63dfbe7a62db2929e2a882502ccd19dbfe16e864d79d499c49d",
       "stats" : {
         "downloadCount" : 2352,
-        "impressionCount" : 4279,
-        "viewCount" : 426
+        "impressionCount" : 4280,
+        "viewCount" : 427
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
@@ -469,7 +469,7 @@
       "sha256" : "b30d4844e9a726094aac4cc84eb855907fff96445d4c1bdad45d67db32e32675",
       "stats" : {
         "downloadCount" : 1926,
-        "impressionCount" : 2036,
+        "impressionCount" : 2037,
         "viewCount" : 66
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -551,9 +551,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
       "sha256" : "ca5dc76ee8350dbeca782eac84941b411c9a13d14c355ae8ff33f089360a03d1",
       "stats" : {
-        "downloadCount" : 1548,
-        "impressionCount" : 3496,
-        "viewCount" : 173
+        "downloadCount" : 1549,
+        "impressionCount" : 3500,
+        "viewCount" : 175
       },
       "subtitle" : "Web browser focusing on security",
       "tintColor" : "8236A8",
@@ -575,8 +575,8 @@
       "sha256" : "8083de786520fa5c053c64cdcece23a46ed564eb165af4b6cbaedf3f9dafc7ce",
       "stats" : {
         "downloadCount" : 1397,
-        "impressionCount" : 2495,
-        "viewCount" : 124
+        "impressionCount" : 2496,
+        "viewCount" : 125
       },
       "subtitle" : "Customizable email client",
       "tintColor" : "B0C3DC",
@@ -598,8 +598,8 @@
       "sha256" : "1e3eddc61fd9821ba3acd73d046cf1e5965da1a189b3f8ca99026166a3da55ab",
       "stats" : {
         "downloadCount" : 1329,
-        "impressionCount" : 3048,
-        "viewCount" : 184
+        "impressionCount" : 3050,
+        "viewCount" : 185
       },
       "subtitle" : "Native GUI tool for relational databases",
       "tintColor" : "FBE0A3",
@@ -621,8 +621,8 @@
       "sha256" : "766d5bf3b404ec567110a25de1d221290bc829302283b28ed0fbe73b9557f30c",
       "stats" : {
         "downloadCount" : 1030,
-        "impressionCount" : 2328,
-        "viewCount" : 119
+        "impressionCount" : 2329,
+        "viewCount" : 120
       },
       "subtitle" : "Move and resize windows with ease",
       "tintColor" : "5B5127",
@@ -643,8 +643,8 @@
       "sha256" : "9fea6c6a99700222caec3a26296e65aa1196f5d6474399c48410691bf6c80b94",
       "stats" : {
         "downloadCount" : 795,
-        "impressionCount" : 2179,
-        "viewCount" : 153
+        "impressionCount" : 2180,
+        "viewCount" : 154
       },
       "subtitle" : "PDF reader and note-taking application",
       "tintColor" : "CCB774",
@@ -664,8 +664,8 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 751,
-        "impressionCount" : 1988,
-        "viewCount" : 132
+        "impressionCount" : 1989,
+        "viewCount" : 133
       },
       "subtitle" : "Application for inspecting installer packages",
       "tintColor" : "6F99E9",
@@ -687,8 +687,8 @@
       "sha256" : "6b09011a0854dc0fdd0d6d8650e49ac88e219a3b6ec7e54cefab97dfb73dd4c1",
       "stats" : {
         "downloadCount" : 745,
-        "impressionCount" : 2104,
-        "viewCount" : 109
+        "impressionCount" : 2105,
+        "viewCount" : 110
       },
       "subtitle" : "Desktop client for Telegram messenger",
       "tintColor" : "3DA3D5",
@@ -709,8 +709,8 @@
       "sha256" : "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
       "stats" : {
         "downloadCount" : 590,
-        "impressionCount" : 1970,
-        "viewCount" : 95
+        "impressionCount" : 1972,
+        "viewCount" : 96
       },
       "subtitle" : "MySQL/MariaDB database management platform",
       "tintColor" : "C9B482",
@@ -731,8 +731,8 @@
       "sha256" : "fb4caf8eb17513ba1d9a8dcbdf5ec591076f80ab9d6cbdacc71569dcc0a068b8",
       "stats" : {
         "downloadCount" : 500,
-        "impressionCount" : 2003,
-        "viewCount" : 115
+        "impressionCount" : 2004,
+        "viewCount" : 116
       },
       "subtitle" : "Configurable document editor that supports Markdown",
       "tintColor" : "E5E5E5",
@@ -754,7 +754,7 @@
       "sha256" : "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
       "stats" : {
         "downloadCount" : 460,
-        "impressionCount" : 1922,
+        "impressionCount" : 1924,
         "viewCount" : 93
       },
       "subtitle" : "Screen capture tool with mark up and sharing features",
@@ -808,8 +808,8 @@
       "sha256" : "dbec524dcc13128ea3104ae4daf1c1e76d79432a56dfc6ce232d6f08c6460a12",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 2430,
-        "viewCount" : 163
+        "impressionCount" : 2431,
+        "viewCount" : 164
       },
       "subtitle" : "Newsreader and Usenet client",
       "tintColor" : "61ADE7",
@@ -3467,7 +3467,7 @@
       "subtitle" : "Personal knowledge base",
       "tintColor" : "A07E2A",
       "version" : "0.56.2",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20790,7 +20790,7 @@
       },
       "subtitle" : "SalesForce CLI tools",
       "version" : "7.174.0",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21615,7 +21615,7 @@
       },
       "subtitle" : "Enables developers to manage Confluent Cloud or Confluent Platform",
       "version" : "2.31.0",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22463,7 +22463,7 @@
       },
       "subtitle" : "Chromium based browser",
       "version" : "0.74.0,35437",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22706,7 +22706,7 @@
       },
       "subtitle" : "GameStream client",
       "version" : "4.3.0",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28264,7 +28264,7 @@
       },
       "subtitle" : "Command-line API client",
       "version" : "2.12.0",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28457,7 +28457,7 @@
       },
       "subtitle" : "Nagios status monitor",
       "version" : "3.10.0",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28922,7 +28922,7 @@
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
       "version" : "2022.4.4,2022-10-28-04-10",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31909,7 +31909,7 @@
       },
       "subtitle" : "Call all Node.js modules directly from the DOM and Web Workers",
       "version" : "0.70.0",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32674,7 +32674,7 @@
       },
       "subtitle" : "Collection of patches applied to OpenTTD",
       "version" : "0.49.0",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34212,7 +34212,7 @@
       },
       "subtitle" : "Eclipse-based IDE for designing and testing Mule applications",
       "version" : "7.14.0",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35557,7 +35557,7 @@
       },
       "subtitle" : "Build, render, and create LEGO instructions",
       "version" : "2.22.10_1",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37678,7 +37678,7 @@
       },
       "subtitle" : "Audio player inspired by Winamp",
       "version" : "3.12.0",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37983,7 +37983,7 @@
       },
       "subtitle" : "Study notes and flashcards using spaced repetition",
       "version" : "1.15.8",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40732,7 +40732,7 @@
       },
       "subtitle" : "Manage your windows in Mission Control",
       "version" : "1.21",
-      "versionDate" : "2022-10-28T08:43:37Z"
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,

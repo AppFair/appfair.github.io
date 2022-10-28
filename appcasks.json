@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2410,
-        "impressionCount" : 11366,
+        "impressionCount" : 11368,
         "viewCount" : 1284
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8290,
-        "impressionCount" : 8891,
+        "impressionCount" : 8892,
         "viewCount" : 760
       },
       "subtitle" : "Multimedia player",
@@ -82,7 +82,7 @@
       ],
       "stats" : {
         "downloadCount" : 8223,
-        "impressionCount" : 9399,
+        "impressionCount" : 9401,
         "viewCount" : 708
       },
       "subtitle" : "Music streaming service",
@@ -111,7 +111,7 @@
       "sha256" : "73d87cc323dd24bcc14e482f896a91f09c24b321244d9d2796a3315ae092fd35",
       "stats" : {
         "downloadCount" : 3572,
-        "impressionCount" : 9787,
+        "impressionCount" : 9789,
         "viewCount" : 642
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -139,7 +139,7 @@
       ],
       "stats" : {
         "downloadCount" : 2542,
-        "impressionCount" : 7572,
+        "impressionCount" : 7574,
         "viewCount" : 463
       },
       "subtitle" : "Video game digital distribution service",
@@ -169,7 +169,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 233,
-        "impressionCount" : 5865,
+        "impressionCount" : 5867,
         "viewCount" : 476
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -195,7 +195,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 218,
-        "impressionCount" : 5030,
+        "impressionCount" : 5032,
         "viewCount" : 374
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -222,7 +222,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 129,
-        "impressionCount" : 4108,
+        "impressionCount" : 4109,
         "viewCount" : 355
       },
       "subtitle" : "File synchronizer",
@@ -2436,7 +2436,7 @@
       "name" : "SuperDuper!",
       "stats" : {
         "downloadCount" : 86,
-        "impressionCount" : 467
+        "impressionCount" : 469
       },
       "subtitle" : "Backup, recovery and cloning software",
       "tintColor" : "B7BDBC",
@@ -17790,16 +17790,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "protonvpn",
-      "downloadURL" : "https://protonvpn.com/download/ProtonVPN_mac_v3.0.3.dmg",
+      "downloadURL" : "https://protonvpn.com/download/ProtonVPN_mac_v3.0.4.dmg",
       "homepage" : "https://protonvpn.com/",
       "localizedDescription" : "VPN client focusing on security",
       "name" : "ProtonVPN",
-      "sha256" : "2225854a7eb1e2a8a5d3328461f1b955dcfa393e282bc0ecd2208db9d7ee0ffd",
+      "sha256" : "ffd19b40e9d8d90ff4ec261994db40e77a7987932a1610a1fe7b409ff1f37fde",
       "stats" : {
         "downloadCount" : 610
       },
       "subtitle" : "VPN client focusing on security",
-      "version" : "3.0.3"
+      "version" : "3.0.4",
+      "versionDate" : "2022-10-28T14:03:12Z"
     },
     {
       "beta" : false,
@@ -61685,13 +61686,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "smultron",
-      "caption" : "Smultron updated from 13.2.3,13230 to 13.3.2,13320",
-      "date" : "2022-10-28T00:05:37Z",
-      "identifier" : "release-smultron-13.3.2,13320",
-      "title" : "New Release: Smultron 13.3.2,13320"
-    },
-    {
       "appID" : "solar2d",
       "caption" : "Solar2D updated from 2022.3677 to 2022.3682",
       "date" : "2022-10-28T00:05:37Z",
@@ -62383,6 +62377,13 @@
       "date" : "2022-10-28T10:35:43Z",
       "identifier" : "release-eloston-chromium-107.0.5304.62-1.1,1666811784",
       "title" : "New Release: Ungoogled Chromium 107.0.5304.62-1.1,1666811784"
+    },
+    {
+      "appID" : "protonvpn",
+      "caption" : "ProtonVPN updated from 3.0.3 to 3.0.4",
+      "date" : "2022-10-28T14:03:13Z",
+      "identifier" : "release-protonvpn-3.0.4",
+      "title" : "New Release: ProtonVPN 3.0.4"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

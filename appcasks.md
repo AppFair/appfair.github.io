@@ -879,7 +879,7 @@ tr:nth-child(even) {
 | [``AdoptOpenJDK Java Develo…``](https://adoptopenjdk.net/) | ``16.0.1,9`` | `1401` |  |  |  |  |  | `0` |  |
 | [``Oracle VirtualBox Extens…``](https://www.virtualbox.org/) | ``7.0.2`` | `1392` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Caffeine``](https://intelliscapesolutions.com/apps/caffeine) | ``1.1.3`` | `1363` |  |  |  |  |  | `0` |  |
-| [``BetterTouchTool``](https://folivora.ai/) | ``3.934,2099`` | `1332` | `2022-10-28T02:39:27Z` |  |  |  |  | `0` |  |
+| [``BetterTouchTool``](https://folivora.ai/) | ``3.934,2099`` | `1332` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``qBittorrent``](https://www.qbittorrent.org/) | ``4.4.5`` | `1331` |  |  |  |  |  | `0` |  |
 | [``Hidden Bar``](https://github.com/dwarvesf/hidden/) | ``1.9`` | `1313` |  |  |  |  |  | `0` |  |
 | [``Jetbrains PyCharm Commun…``](https://www.jetbrains.com/pycharm/) | ``2022.2.3,222.4345.23`` | `1298` |  |  |  |  |  | `0` |  |
@@ -1110,7 +1110,7 @@ tr:nth-child(even) {
 | [``Paintbrush``](https://paintbrush.sourceforge.io/) | ``2.6.0,20210402`` | `275` |  |  |  |  |  | `0` |  |
 | [``ProvisionQL``](https://github.com/ealeksandrov/ProvisionQL) | ``1.6.2`` | `273` |  |  |  |  |  | `0` |  |
 | [``ForkLift``](https://binarynights.com/) | ``3.5.8,220`` | `271` |  |  |  |  |  | `0` |  |
-| [``Google Earth Pro``](https://www.google.com/earth/) | ``7.3.6.9264`` | `271` | `2022-10-28T02:39:27Z` |  |  |  |  | `0` |  |
+| [``Google Earth Pro``](https://www.google.com/earth/) | ``7.3.6.9264`` | `271` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``NetNewsWire``](https://netnewswire.com/) | ``6.1`` | `270` |  |  |  |  |  | `0` |  |
 | [``Commander One``](https://mac.eltima.com/file-manager.html) | ``3.4.2,3592`` | `268` |  |  |  |  |  | `0` |  |
 | [``Asana``](https://asana.com/) | ``1.11.1`` | `265` |  |  |  |  |  | `0` |  |

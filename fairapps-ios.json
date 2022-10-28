@@ -138,7 +138,7 @@
         "coreSize" : 168592,
         "downloadCount" : 42,
         "forkCount" : 0,
-        "impressionCount" : 1029,
+        "impressionCount" : 1030,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 64,
@@ -244,7 +244,7 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "9513058fefa43f6b42d6fa0447d040e40a4f659932d42cbe9c5a196c55c1cca9",
+      "sha256" : "7d18803604f643ae5826cde524f0b6a5cbbc4cc08f0b6360b3392a55fc5873fa",
       "size" : 2713296,
       "stats" : {
         "coreSize" : 168592,
@@ -479,46 +479,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.World-Fair",
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-iOS.ipa",
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read and write files in order to…"
-        }
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
-      "size" : 4275846,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 12,
-        "forkCount" : 0,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.4",
-      "versionDate" : "2022-10-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Tune-Out",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-iOS.ipa",
@@ -540,11 +500,11 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "022e9df7cff5a1b49b72be64061d2b25ca989025f9e3aa31a0087704ea97cd32",
+      "sha256" : "6a60b4d0b4eeb07f6925a57f57c6bc61bd7318301b7554bb77ce523ec91f1361",
       "size" : 11243107,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 11,
+        "downloadCount" : 13,
         "forkCount" : 0,
         "impressionCount" : 11,
         "issueCount" : 0,
@@ -557,6 +517,46 @@
       "version" : "0.8.460",
       "versionDate" : "2022-10-25T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.World-Fair",
+      "developerName" : "marcprux <mwp1@cornell.edu>",
+      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-iOS.ipa",
+      "homepage" : "http://appfair.net/#quick-start",
+      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
+      "localizedDescription" : "An SDUI fairground",
+      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "World Fair",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to read and write files in order to…"
+        }
+      ],
+      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
+      "sha256" : "45f7ff42a8adccc4a88280bbd29d6d339a27ce6abff983dc5ca3b3d178e7d4fc",
+      "size" : 4275846,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 12,
+        "forkCount" : 0,
+        "impressionCount" : 4,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An SDUI fairground",
+      "version" : "0.0.4",
+      "versionDate" : "2022-10-19T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
     },
     {
       "beta" : true,
@@ -740,6 +740,47 @@
       "version" : "0.0.35",
       "versionDate" : "2021-12-04T00:00:00Z",
       "versionDescription" : "Release 0.0.35"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-iOS.ipa",
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#46d26d99215fc30c6019d1e760a2b247c2be0a2e74dce7f557f0c9fd6c50aaff",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "screenshotURLs" : [
+        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-iphone-750x1334.png"
+      ],
+      "sha256" : "7d656a19d04eca13ae3751800cc1c995dba78cad812a7b9a12f3a268d2056d4c",
+      "size" : 22290714,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 7,
+        "forkCount" : 0,
+        "impressionCount" : 4,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 2,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "tintColor" : "17B0E6",
+      "version" : "0.0.28",
+      "versionDate" : "2022-10-26T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : true,
@@ -938,47 +979,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-iOS.ipa",
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#46d26d99215fc30c6019d1e760a2b247c2be0a2e74dce7f557f0c9fd6c50aaff",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "screenshotURLs" : [
-        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-iphone-750x1334.png"
-      ],
-      "sha256" : "7d656a19d04eca13ae3751800cc1c995dba78cad812a7b9a12f3a268d2056d4c",
-      "size" : 22290714,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 5,
-        "forkCount" : 0,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
-      "versionDate" : "2022-10-26T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Trivial-Quiz",
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Trivial-Quiz/App/releases/download/0.0.16/Trivial-Quiz-iOS.ipa",
@@ -1067,6 +1067,43 @@
       "version" : "0.0.11",
       "versionDate" : "2022-01-24T00:00:00Z",
       "versionDescription" : "Release 0.0.11"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/Cloud-Cuckoo-iOS.ipa",
+      "homepage" : "https://cloud-cuckoo.appfair.net",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/screenshot_01-iphone-750x1334.png"
+      ],
+      "sha256" : "e8bac60e5d34f285311fdc09de045484eee0795d8ba5b6d21bee70e583a66a6e",
+      "size" : 1844258,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 3,
+        "forkCount" : 1,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "05A6FF",
+      "version" : "0.9.335",
+      "versionDate" : "2022-10-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.334...0.9.335"
     },
     {
       "beta" : false,
@@ -1267,7 +1304,7 @@
         "coreSize" : 169056,
         "downloadCount" : 2,
         "forkCount" : 1,
-        "impressionCount" : 137,
+        "impressionCount" : 138,
         "issueCount" : 7,
         "starCount" : 29,
         "viewCount" : 23,
@@ -1368,43 +1405,6 @@
       "version" : "0.1.1",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Tidal-Zone/App/commits/0.1.1"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/Cloud-Cuckoo-iOS.ipa",
-      "homepage" : "https://cloud-cuckoo.appfair.net",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.335/screenshot_01-iphone-750x1334.png"
-      ],
-      "sha256" : "e8bac60e5d34f285311fdc09de045484eee0795d8ba5b6d21bee70e583a66a6e",
-      "size" : 1844258,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 1,
-        "forkCount" : 1,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "05A6FF",
-      "version" : "0.9.335",
-      "versionDate" : "2022-10-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.334...0.9.335"
     }
   ],
   "fundingSources" : [

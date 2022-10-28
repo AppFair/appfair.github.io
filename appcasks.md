@@ -914,7 +914,7 @@ tr:nth-child(even) {
 | [``quick look JSON``](http://www.sagtau.com/quicklookjson.html) | ``2,1.0`` | `927` |  |  |  |  |  | `0` |  |
 | [``Shottr``](https://shottr.cc/) | ``1.6.0`` | `921` |  |  |  |  |  | `0` |  |
 | [``Opera``](https://www.opera.com/) | ``92.0.4561.30`` | `912` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Ungoogled Chromium``](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | ``107.0.5304.62-1.1,166681…`` | `905` | `2022-10-28T10:35:43Z` |  |  |  |  | `0` |  |
+| [``Ungoogled Chromium``](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | ``107.0.5304.62-1.1,166681…`` | `905` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Cakebrew``](https://github.com/brunophilipe/Cakebrew) | ``1.3`` | `890` |  |  |  |  |  | `0` |  |
 | [``Android SDK Command-line…``](https://developer.android.com/studio) | ``8512546`` | `871` |  |  |  |  |  | `0` |  |
 | [``GraphQL Playground``](https://github.com/prisma/graphql-playground) | ``1.8.10`` | `871` |  |  |  |  |  | `0` |  |

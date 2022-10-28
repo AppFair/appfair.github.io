@@ -966,7 +966,7 @@ tr:nth-child(even) {
 | [``Qv2ray``](https://qv2ray.net/) | ``2.7.0`` | `613` |  |  |  |  |  | `0` |  |
 | [``Azure Data Studio``](https://docs.microsoft.com/en-us/sql/azure-data-studio/) | ``1.39.1`` | `612` |  |  |  |  |  | `0` |  |
 | [``Lapce``](https://lapce.dev/) | ``0.2.1`` | `611` |  |  |  |  |  | `0` |  |
-| [``ProtonVPN``](https://protonvpn.com/) | ``3.0.4`` | `610` | `2022-10-28T14:03:12Z` |  |  |  |  | `0` |  |
+| [``ProtonVPN``](https://protonvpn.com/) | ``3.0.4`` | `610` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Latest``](https://max.codes/latest) | ``0.8.3,820`` | `601` |  |  |  |  |  | `0` |  |
 | [``Nextcloud``](https://nextcloud.com/) | ``3.6.1`` | `601` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Anki``](https://apps.ankiweb.net/) | ``2.1.54`` | `599` |  |  |  |  |  | `0` |  |

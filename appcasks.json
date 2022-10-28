@@ -26255,16 +26255,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "bibdesk",
-      "downloadURL" : "https://downloads.sourceforge.net/bibdesk/BibDesk/BibDesk-1.8.13/BibDesk-1.8.13.dmg",
+      "downloadURL" : "https://downloads.sourceforge.net/bibdesk/BibDesk/BibDesk-1.8.14/BibDesk-1.8.14.dmg",
       "homepage" : "https://bibdesk.sourceforge.io/",
       "localizedDescription" : "Edit and manage bibliographies",
       "name" : "BibDesk",
-      "sha256" : "a9f1bed9a172997dab20cd8f5858e58d5763fedacf1ed3df7ce2e8505a56039d",
+      "sha256" : "edc90913ba4228a4f5a37e8a897f308a457e35aa550fb5f366cc1650384cb759",
       "stats" : {
         "downloadCount" : 61
       },
       "subtitle" : "Edit and manage bibliographies",
-      "version" : "1.8.13,6004"
+      "version" : "1.8.14,6036",
+      "versionDate" : "2022-10-28T17:34:16Z"
     },
     {
       "beta" : false,
@@ -34405,7 +34406,7 @@
       "homepage" : "https://github.com/foamzou/ITraffic-monitor-for-mac",
       "localizedDescription" : "Monitor for displaying process traffic on status bar",
       "name" : "itraffic",
-      "sha256" : "93f41676d876247c932d32f883a3fdf721e6e4190a1cde475505ed4e83bb8c5a",
+      "sha256" : "45e49c0bc3278d446a37fbe844e0f13eba215b7904a2eb950aaf7aba8d7bbba2",
       "stats" : {
         "downloadCount" : 20
       },
@@ -34781,7 +34782,8 @@
         "downloadCount" : 19
       },
       "subtitle" : "Use Vim in input fields and non input fields",
-      "version" : "43.0.0"
+      "version" : "44.0.0",
+      "versionDate" : "2022-10-28T17:34:16Z"
     },
     {
       "beta" : false,
@@ -52138,17 +52140,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "lightkey",
-      "downloadURL" : "https://lightkeyapp.com/media/pages/download/Lightkey-4-0-6-1/cdc0a36a64-1666167454/LightkeyInstaller.zip",
+      "downloadURL" : "https://lightkeyapp.com/media/pages/download/Lightkey-4-0-7/a0c5c34812-1666950786/LightkeyInstaller.zip",
       "homepage" : "https://lightkeyapp.com/",
       "localizedDescription" : "DMX lighting control",
       "name" : "Lightkey",
-      "sha256" : "2c5a585286752f4933e2bed6cebf45a6c692b01e40b2ef02b34aff657b272e25",
+      "sha256" : "cc82a1504fd72531be1609cf5c62d334d7b956b84f88ff123eea976320927ce2",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "DMX lighting control",
-      "version" : "4.0.6.1,cdc0a36a64-1666167454",
-      "versionDate" : "2022-10-19T00:00:00Z"
+      "version" : "4.0.7,a0c5c34812-1666950786",
+      "versionDate" : "2022-10-28T17:34:16Z"
     },
     {
       "beta" : false,
@@ -61691,27 +61693,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "pagico",
-      "caption" : "Pagico updated from 10,20221009 to 10,20221024",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-pagico-10,20221024",
-      "title" : "New Release: Pagico 10,20221024"
-    },
-    {
-      "appID" : "remotion",
-      "caption" : "remotion updated from 1.94.2 to 1.96.1",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-remotion-1.96.1",
-      "title" : "New Release: remotion 1.96.1"
-    },
-    {
-      "appID" : "rocket-typist",
-      "caption" : "Rocket Typist updated from 2.4,162b to 2.4.1,163b",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-rocket-typist-2.4.1,163b",
-      "title" : "New Release: Rocket Typist 2.4.1,163b"
-    },
-    {
       "appID" : "zesarux",
       "caption" : "ZEsarUX updated from 10.1 to 10.2",
       "date" : "2022-10-28T00:05:38Z",
@@ -62389,6 +62370,27 @@
       "date" : "2022-10-28T16:41:59Z",
       "identifier" : "release-metasploit-6.2.25,20221028102958",
       "title" : "New Release: Metasploit Framework 6.2.25,20221028102958"
+    },
+    {
+      "appID" : "bibdesk",
+      "caption" : "BibDesk updated from 1.8.13,6004 to 1.8.14,6036",
+      "date" : "2022-10-28T17:34:17Z",
+      "identifier" : "release-bibdesk-1.8.14,6036",
+      "title" : "New Release: BibDesk 1.8.14,6036"
+    },
+    {
+      "appID" : "kindavim",
+      "caption" : "kindaVim updated from 43.0.0 to 44.0.0",
+      "date" : "2022-10-28T17:34:18Z",
+      "identifier" : "release-kindavim-44.0.0",
+      "title" : "New Release: kindaVim 44.0.0"
+    },
+    {
+      "appID" : "lightkey",
+      "caption" : "Lightkey updated from 4.0.6.1,cdc0a36a64-1666167454 to 4.0.7,a0c5c34812-1666950786",
+      "date" : "2022-10-28T17:34:18Z",
+      "identifier" : "release-lightkey-4.0.7,a0c5c34812-1666950786",
+      "title" : "New Release: Lightkey 4.0.7,a0c5c34812-1666950786"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

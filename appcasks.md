@@ -1561,7 +1561,7 @@ tr:nth-child(even) {
 | [``Packages``](http://s.sudre.free.fr/Software/Packages/about.html) | ``1.2.10`` | `62` |  |  |  |  |  | `0` |  |
 | [``SAOImage DS9``](https://sites.google.com/cfa.harvard.edu/saoimageds9/home) | ``8.3`` | `62` |  |  |  |  |  | `0` |  |
 | [``Swiftcord``](https://github.com/SwiftcordApp/Swiftcord) | ``0.5.1,15`` | `62` | `2022-10-17T00:00:00Z` |  |  |  |  | `0` |  |
-| [``BibDesk``](https://bibdesk.sourceforge.io/) | ``1.8.13,6004`` | `61` |  |  |  |  |  | `0` |  |
+| [``BibDesk``](https://bibdesk.sourceforge.io/) | ``1.8.14,6036`` | `61` | `2022-10-28T17:34:16Z` |  |  |  |  | `0` |  |
 | [``BitBar``](https://github.com/matryer/bitbar/) | ``1.10.1`` | `61` |  |  |  |  |  | `0` |  |
 | [``DjView``](https://djvu.sourceforge.io/) | ``4.12,3.5.28,2`` | `61` |  |  |  |  |  | `0` |  |
 | [``GZDoom``](https://zdoom.org/index) | ``4.8.2`` | `61` |  |  |  |  |  | `0` |  |
@@ -2170,7 +2170,7 @@ tr:nth-child(even) {
 | [``ITK-SNAP``](http://www.itksnap.org/pmwiki/pmwiki.php) | ``3.8.0,20190612`` | `19` |  |  |  |  |  | `0` |  |
 | [``Izotope product portal``](https://www.izotope.com/en/products/downloads.html) | ``1.4.6`` | `19` |  |  |  |  |  | `0` |  |
 | [``Jasper``](https://jasperapp.io/) | ``1.1.1`` | `19` |  |  |  |  |  | `0` |  |
-| [``kindaVim``](https://kindavim.app/) | ``43.0.0`` | `19` |  |  |  |  |  | `0` |  |
+| [``kindaVim``](https://kindavim.app/) | ``44.0.0`` | `19` | `2022-10-28T17:34:16Z` |  |  |  |  | `0` |  |
 | [``Last.fm Scrobbler``](https://www.last.fm/) | ``2.1.39`` | `19` |  |  |  |  |  | `0` |  |
 | [``MAME``](https://mameosx.sourceforge.io/) | ``0.135`` | `19` |  |  |  |  |  | `0` |  |
 | [``Navicat for PostgreSQL``](https://www.navicat.com/products/navicat-for-postgresql) | ``16.1.3`` | `19` |  |  |  |  |  | `0` |  |
@@ -3427,7 +3427,7 @@ tr:nth-child(even) {
 | [``Launchy``](https://www.launchy.net/) | ``2.5`` | `3` |  |  |  |  |  | `0` |  |
 | [``LehrerOffice``](https://www.lehreroffice.ch/) | ``2021.2.0,21.2.0.3.0`` | `3` |  |  |  |  |  | `0` |  |
 | [``lifesize``](https://www.lifesize.com/) | ``2.216.2929`` | `3` |  |  |  |  |  | `0` |  |
-| [``Lightkey``](https://lightkeyapp.com/) | ``4.0.6.1,cdc0a36a64-16661…`` | `3` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Lightkey``](https://lightkeyapp.com/) | ``4.0.7,a0c5c34812-1666950…`` | `3` | `2022-10-28T17:34:16Z` |  |  |  |  | `0` |  |
 | [``Sumologic livetail CLI``](https://github.com/SumoLogic/livetail-cli) | ``2.1`` | `3` |  |  |  |  |  | `0` |  |
 | [``Loaf``](https://getloaf.io/) | ``1.1.21`` | `3` |  |  |  |  |  | `0` |  |
 | [``LoginputMac``](https://im.logcg.com/loginputmac3) | ``3.2.2,8502`` | `3` |  |  |  |  |  | `0` |  |

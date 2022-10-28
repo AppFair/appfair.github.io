@@ -29,10 +29,10 @@
         "coreSize" : 168592,
         "downloadCount" : 89,
         "forkCount" : 0,
-        "impressionCount" : 347,
+        "impressionCount" : 349,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 44,
+        "viewCount" : 45,
         "watcherCount" : 0
       },
       "subtitle" : "An SDUI fairground",
@@ -229,7 +229,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -485,7 +485,7 @@
       "homepage" : "https://tune-out.appfair.net",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -500,7 +500,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "25714a4400e037af36ca817310c4e2d0eee18d5b3e3fa5e0d5125e1afa8f4a14",
+      "sha256" : "e199f1229c8fe16e1ad134b9ef35b7f8bd9114fc1736f1da4c5b93b9f9e47300",
       "size" : 11243107,
       "stats" : {
         "coreSize" : 168592,
@@ -541,7 +541,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "45f7ff42a8adccc4a88280bbd29d6d339a27ce6abff983dc5ca3b3d178e7d4fc",
+      "sha256" : "fc30858ef77770f6eb703a3997f5240cd12f294c49da2a07a1120288a74912a3",
       "size" : 4275846,
       "stats" : {
         "coreSize" : 168592,
@@ -764,7 +764,7 @@
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_03-iphone-750x1334.png",
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "d301e99a4c5035228f3b08ab777f5e0a8b6626cc33e58f7d03ba8529eb8ea035",
+      "sha256" : "7d656a19d04eca13ae3751800cc1c995dba78cad812a7b9a12f3a268d2056d4c",
       "size" : 22290714,
       "stats" : {
         "coreSize" : 168592,
@@ -1304,10 +1304,10 @@
         "coreSize" : 169056,
         "downloadCount" : 2,
         "forkCount" : 1,
-        "impressionCount" : 148,
+        "impressionCount" : 151,
         "issueCount" : 7,
         "starCount" : 29,
-        "viewCount" : 25,
+        "viewCount" : 26,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",

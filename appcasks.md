@@ -804,7 +804,7 @@ tr:nth-child(even) {
 | [``Microsoft Teams``](https://teams.microsoft.com/downloads) | ``1.5.00.26358`` | `5549` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``miniforge``](https://github.com/conda-forge/miniforge) | ``22.9.0-0`` | `4677` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Meld for OSX``](https://yousseb.github.io/meld/) | ``3.21.0-r3,19`` | `4457` |  |  |  |  |  | `0` |  |
-| [``Brave``](https://brave.com/) | ``1.45.116.0,145.116`` | `4435` | `2022-10-28T20:35:54Z` |  |  |  |  | `0` |  |
+| [``Brave``](https://brave.com/) | ``1.45.116.0,145.116`` | `4435` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``1Password CLI``](https://developer.1password.com/docs/cli) | ``2.7.2`` | `4408` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Obsidian``](https://obsidian.md/) | ``1.0.3`` | `4330` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Notion``](https://www.notion.so/) | ``2.1.4`` | `4167` |  |  |  |  |  | `0` |  |
@@ -1408,7 +1408,7 @@ tr:nth-child(even) {
 | [``Eclipse IDE for C/C++ De…``](https://eclipse.org/) | ``4.25.0,2022-09`` | `95` |  |  |  |  |  | `0` |  |
 | [``Aquamacs``](https://aquamacs.org/) | ``3.6`` | `94` |  |  |  |  |  | `0` |  |
 | [``Fliqlo``](https://fliqlo.com/) | ``1.8.5`` | `94` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Jitsi Meet``](https://github.com/jitsi/jitsi-meet-electron/) | ``2022.10.1`` | `94` | `2022-10-28T20:35:54Z` |  |  |  |  | `0` |  |
+| [``Jitsi Meet``](https://github.com/jitsi/jitsi-meet-electron/) | ``2022.10.1`` | `94` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Brewlet``](https://github.com/zkokaja/Brewlet) | ``1.7`` | `93` |  |  |  |  |  | `0` |  |
 | [``MeshLab``](https://www.meshlab.net/) | ``2022.02`` | `93` |  |  |  |  |  | `0` |  |
 | [``Opera GX``](https://www.opera.com/gx) | ``91.0.4516.102`` | `93` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |

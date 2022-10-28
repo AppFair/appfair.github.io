@@ -1119,7 +1119,7 @@ tr:nth-child(even) {
 | [``Fantastical``](https://flexibits.com/fantastical) | ``3.7.2,1520`` | `261` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ZeroTier One``](https://www.zerotier.com/download.shtml) | ``1.10.1`` | `260` |  |  |  |  |  | `0` |  |
 | [``Motrix``](https://motrix.app/) | ``1.6.11`` | `260` |  |  |  |  |  | `0` |  |
-| [``Spark``](https://sparkmailapp.com/) | ``3.1.0.38673`` | `258` | `2022-10-28T18:38:08Z` |  |  |  |  | `0` |  |
+| [``Spark``](https://sparkmailapp.com/) | ``3.1.0.38673`` | `258` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``MKVToolNix``](https://mkvtoolnix.download/) | ``71.1.0`` | `256` |  |  |  |  |  | `0` |  |
 | [``MySQL Shell``](https://dev.mysql.com/downloads/shell/) | ``8.0.31`` | `256` |  |  |  |  |  | `0` |  |
 | [``Apache OpenOffice``](https://www.openoffice.org/) | ``4.1.13`` | `255` |  |  |  |  |  | `0` |  |

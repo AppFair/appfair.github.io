@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2410,
-        "impressionCount" : 11380,
+        "impressionCount" : 11381,
         "viewCount" : 1285
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8290,
-        "impressionCount" : 8902,
+        "impressionCount" : 8903,
         "viewCount" : 761
       },
       "subtitle" : "Multimedia player",
@@ -82,8 +82,8 @@
       ],
       "stats" : {
         "downloadCount" : 8223,
-        "impressionCount" : 9414,
-        "viewCount" : 709
+        "impressionCount" : 9415,
+        "viewCount" : 710
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -111,7 +111,7 @@
       "sha256" : "73d87cc323dd24bcc14e482f896a91f09c24b321244d9d2796a3315ae092fd35",
       "stats" : {
         "downloadCount" : 3572,
-        "impressionCount" : 9802,
+        "impressionCount" : 9804,
         "viewCount" : 642
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -139,7 +139,7 @@
       ],
       "stats" : {
         "downloadCount" : 2542,
-        "impressionCount" : 7583,
+        "impressionCount" : 7585,
         "viewCount" : 463
       },
       "subtitle" : "Video game digital distribution service",
@@ -169,7 +169,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 233,
-        "impressionCount" : 5879,
+        "impressionCount" : 5880,
         "viewCount" : 476
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -195,7 +195,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 218,
-        "impressionCount" : 5042,
+        "impressionCount" : 5044,
         "viewCount" : 375
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -222,7 +222,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 129,
-        "impressionCount" : 4120,
+        "impressionCount" : 4121,
         "viewCount" : 355
       },
       "subtitle" : "File synchronizer",
@@ -256,7 +256,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 4071,
+        "impressionCount" : 4072,
         "viewCount" : 334
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -289,7 +289,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4195,
+        "impressionCount" : 4196,
         "viewCount" : 344
       },
       "subtitle" : "Create DMGs and other archives",
@@ -447,7 +447,7 @@
       "sha256" : "463dba6fbcb6e63dfbe7a62db2929e2a882502ccd19dbfe16e864d79d499c49d",
       "stats" : {
         "downloadCount" : 2352,
-        "impressionCount" : 4295,
+        "impressionCount" : 4296,
         "viewCount" : 428
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -494,7 +494,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1706,
-        "impressionCount" : 3541
+        "impressionCount" : 3543
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -531,7 +531,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1554,
-        "impressionCount" : 3707
+        "impressionCount" : 3709
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -931,7 +931,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2326,
-        "impressionCount" : 1076
+        "impressionCount" : 1078
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -1173,7 +1173,7 @@
       "sha256" : "b4d931469fcbdf3041df383e76db85e01ac12e022f3c174beccb3e181bffe7d1",
       "stats" : {
         "downloadCount" : 508,
-        "impressionCount" : 678
+        "impressionCount" : 679
       },
       "subtitle" : "All-in-One Java Troubleshooting Tool",
       "tintColor" : "F24A1D",
@@ -1194,7 +1194,7 @@
       "sha256" : "58c2d3c77ee05de52ff6c04596220a5050ccca14140d25984dcc39052c11e032",
       "stats" : {
         "downloadCount" : 505,
-        "impressionCount" : 1053
+        "impressionCount" : 1054
       },
       "subtitle" : "Break time reminder app",
       "tintColor" : "6C0F00",
@@ -1312,7 +1312,7 @@
       "sha256" : "131757ddca7b5f0e3e3dd41bac5772a3e9fdac5f79ed1c5e38ffe29b2e2b041e",
       "stats" : {
         "downloadCount" : 391,
-        "impressionCount" : 1208
+        "impressionCount" : 1209
       },
       "subtitle" : "File transfer application",
       "tintColor" : "9594CA",
@@ -1555,7 +1555,7 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 234,
-        "impressionCount" : 937,
+        "impressionCount" : 938,
         "viewCount" : 74
       },
       "subtitle" : "Native app email client for Gmail",
@@ -1615,7 +1615,7 @@
       "sha256" : "9cf28d0f0ef74d793cca5a0fee0d7195a11c055b4a6c118cea295c308a3bfd9d",
       "stats" : {
         "downloadCount" : 212,
-        "impressionCount" : 504
+        "impressionCount" : 505
       },
       "subtitle" : "Torrent streaming application",
       "tintColor" : "7D3645",
@@ -1654,7 +1654,7 @@
       "sha256" : "0855257b2bc4e1d341503eefd87c3190abc5e0294d11bf9cd5fa9171e64bbf9e",
       "stats" : {
         "downloadCount" : 190,
-        "impressionCount" : 814
+        "impressionCount" : 815
       },
       "subtitle" : "Music streaming service with high fidelity sound and hi-def video quality",
       "tintColor" : "3B3B3D",
@@ -1797,7 +1797,7 @@
       "sha256" : "8d4deb95f79df0442e34599f7f540a03c0fbf9fc2bb302f454eb8826f002cf98",
       "stats" : {
         "downloadCount" : 165,
-        "impressionCount" : 627
+        "impressionCount" : 628
       },
       "subtitle" : "Temperature monitoring, fan control and diagnostics",
       "tintColor" : "3886C2",
@@ -2436,7 +2436,7 @@
       "name" : "SuperDuper!",
       "stats" : {
         "downloadCount" : 86,
-        "impressionCount" : 477
+        "impressionCount" : 478
       },
       "subtitle" : "Backup, recovery and cloning software",
       "tintColor" : "B7BDBC",
@@ -2579,7 +2579,7 @@
       "sha256" : "0b80bf62922291da391098f979683e69cc7b65c4bdb986a431e3f1d9175fba20",
       "stats" : {
         "downloadCount" : 78,
-        "impressionCount" : 383
+        "impressionCount" : 384
       },
       "subtitle" : "Simple shortcut menu",
       "tintColor" : "535353",
@@ -2757,7 +2757,7 @@
       "sha256" : "b7c7c249c7ae6dd764ff3a9b58ad4e7c491efc505a09640aa8df3352120384a6",
       "stats" : {
         "downloadCount" : 64,
-        "impressionCount" : 328
+        "impressionCount" : 329
       },
       "subtitle" : "Easy to use text extraction tool",
       "tintColor" : "BCD2AF",
@@ -2777,7 +2777,7 @@
       "sha256" : "8a11327336f0e79393e9c57f4fbb86513f50920559b7e1057627426b0654de76",
       "stats" : {
         "downloadCount" : 64,
-        "impressionCount" : 506
+        "impressionCount" : 507
       },
       "subtitle" : "Video player and streaming platform",
       "tintColor" : "156CF7",
@@ -2817,7 +2817,7 @@
       "sha256" : "b0d651cdd4638a2d49bce72e1602b2226745bfd24951abcb0bd85899d6d7ab4b",
       "stats" : {
         "downloadCount" : 63,
-        "impressionCount" : 383
+        "impressionCount" : 384
       },
       "subtitle" : "All-in-one live streaming software",
       "tintColor" : "66C4AA",
@@ -3057,7 +3057,7 @@
       "sha256" : "19c3c292936801c672c4160f029e4935622a4f85c922a349d166d883de1dea15",
       "stats" : {
         "downloadCount" : 55,
-        "impressionCount" : 658
+        "impressionCount" : 659
       },
       "subtitle" : "Screen recording and video editing software",
       "tintColor" : "C6C0C7",
@@ -5272,20 +5272,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://lumen-digital.com/apps/vivid/releases/Vivid2.1.zip",
+      "downloadURL" : "https://lumen-digital.com/apps/vivid/releases/Vivid2.2.1.zip",
       "homepage" : "https://www.getvivid.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vivid/AppIcon.png",
       "localizedDescription" : "Adaptive brightness for displays",
       "name" : "Vivid",
-      "sha256" : "9fb281f015c36fdb927a157854f79cc9a32e974dce3672e3ff74970aa796db2e",
+      "sha256" : "b358e8ad80a433ae227f4bb635d38f0730badfc99402d60f634f9e7aeb20dd14",
       "stats" : {
         "downloadCount" : 17,
         "impressionCount" : 432
       },
       "subtitle" : "Adaptive brightness for displays",
       "tintColor" : "45607E",
-      "version" : "2.1,27",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.2.1,32",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -6046,20 +6046,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://download.equinux.com/files/other/VPN%20Tracker%20365%20-%2022.3.0%20220308.zip",
+      "downloadURL" : "https://download.equinux.com/files/other/VPN%20Tracker%20365%20-%2022.3.1%20220310.zip",
       "homepage" : "https://vpntracker.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vpn-tracker-365/AppIcon.png",
       "localizedDescription" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "name" : "VPN Tracker 365",
-      "sha256" : "b20ed7b811117ea85c348d9219ec820cec3257a89658ad490b3e844f5796ed13",
+      "sha256" : "4903b84be837dd7333c49933591aa52f1c13aca3d095b762ff4ceecdedfeaadb",
       "stats" : {
         "downloadCount" : 11,
         "impressionCount" : 598
       },
       "subtitle" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "tintColor" : "CBA87F",
-      "version" : "22.3.0,220308",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "22.3.1,220310",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -6462,20 +6462,20 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://vrew-files.voyagerx.com/Vrew-0.12.6.dmg",
+      "downloadURL" : "https://vrew-files.voyagerx.com/Vrew-0.12.7.dmg",
       "homepage" : "https://vrew.voyagerx.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vrew/AppIcon.png",
       "localizedDescription" : "Video editor",
       "name" : "vrew",
-      "sha256" : "945a07cfe5e2c449875bcacc6f14c5cf7d798433ee32d630580492f024f02dee",
+      "sha256" : "e814b136b9cfdb39b1f8feeba61852cf8cba2a154a5f15aa851875896c429a38",
       "stats" : {
         "downloadCount" : 9,
         "impressionCount" : 813
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
-      "version" : "0.12.6",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "0.12.7",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -12095,7 +12095,8 @@
       },
       "subtitle" : "App that provides drivers for older model scanners that are no longer supported",
       "tintColor" : "AA9D92",
-      "version" : "9.7.94"
+      "version" : "9.7.95",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -12767,8 +12768,8 @@
       },
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
-      "version" : "10.19.1e",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "10.19.1f",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -16389,17 +16390,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "flipper",
-      "downloadURL" : "https://github.com/facebook/flipper/releases/download/v0.172.0/Flipper-mac.dmg",
+      "downloadURL" : "https://github.com/facebook/flipper/releases/download/v0.173.0/Flipper-mac.dmg",
       "homepage" : "https://fbflipper.com/",
       "localizedDescription" : "Desktop debugging platform for mobile developers",
       "name" : "Facebook Flipper",
-      "sha256" : "8ba3f3cb5f3cac5f2bf42cbcf5e4b271afd025beb7397f298ff25b1b5f8dfcd6",
+      "sha256" : "d35c2a0401b2d8d50b1020297ac3273de008936009bfaf1b2145d293ad4229d9",
       "stats" : {
         "downloadCount" : 1712
       },
       "subtitle" : "Desktop debugging platform for mobile developers",
-      "version" : "0.172.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "0.173.0",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -17030,17 +17031,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "opera",
-      "downloadURL" : "https://get.geo.opera.com/pub/opera/desktop/92.0.4561.30/mac/Opera_92.0.4561.30_Setup.dmg",
+      "downloadURL" : "https://get.geo.opera.com/pub/opera/desktop/92.0.4561.33/mac/Opera_92.0.4561.33_Setup.dmg",
       "homepage" : "https://www.opera.com/",
       "localizedDescription" : "Web browser",
       "name" : "Opera",
-      "sha256" : "d498767541be25b88d6acdf73856c0a211e4859dce2b15bc75d78c861d2da931",
+      "sha256" : "2c98457787914ae6be4ab55137c820081f7a8a998790fb37a174c679006cc879",
       "stats" : {
         "downloadCount" : 912
       },
       "subtitle" : "Web browser",
-      "version" : "92.0.4561.30",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "92.0.4561.33",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -17943,7 +17944,8 @@
         "downloadCount" : 564
       },
       "subtitle" : "Trains AIs to understand and translate texts",
-      "version" : "3.5.251434"
+      "version" : "3.7.277083",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -21438,17 +21440,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "ledger-live",
-      "downloadURL" : "https://download.live.ledger.com/ledger-live-desktop-2.49.1-mac.dmg",
+      "downloadURL" : "https://download.live.ledger.com/ledger-live-desktop-2.49.2-mac.dmg",
       "homepage" : "https://www.ledger.com/ledger-live",
       "localizedDescription" : "Wallet desktop application to maintain multiple cryptocurrencies",
       "name" : "Ledger Live",
-      "sha256" : "59257d8221db79e66e122adcb34136c0a52f7e75a46c88ea9632fd66b3b93fbe",
+      "sha256" : "606a7ab4e32f16f971991a362e1b5948a88d9835424e24dd115a17d28e238ae0",
       "stats" : {
         "downloadCount" : 158
       },
       "subtitle" : "Wallet desktop application to maintain multiple cryptocurrencies",
-      "version" : "2.49.1",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.49.2",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -22458,17 +22460,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "arc",
-      "downloadURL" : "https://releases.arc.net/release/Arc-0.74.0-35437.zip",
+      "downloadURL" : "https://releases.arc.net/release/Arc-0.74.1-35450.zip",
       "homepage" : "https://arc.net/",
       "localizedDescription" : "Chromium based browser",
       "name" : "Arc",
-      "sha256" : "f07d71866e2f644ce276b503a53c144e1cc957b05b00daf95432f9d80f82a662",
+      "sha256" : "a1155125a2d71a306b0a131939a6ab4d438ff99e171accc664d45f976b842d40",
       "stats" : {
         "downloadCount" : 125
       },
       "subtitle" : "Chromium based browser",
-      "version" : "0.74.0,35437",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "0.74.1,35450",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -22822,7 +22824,8 @@
         "downloadCount" : 119
       },
       "subtitle" : "Download accelerator and organizer",
-      "version" : "6.17.0"
+      "version" : "6.18.0",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -22902,16 +22905,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "deezer",
-      "downloadURL" : "https://www.deezer.com/desktop/download/artifact/darwin/x64/5.30.350",
+      "downloadURL" : "https://www.deezer.com/desktop/download/artifact/darwin/x64/5.30.360",
       "homepage" : "https://www.deezer.com/download",
       "localizedDescription" : "Music player",
       "name" : "Deezer",
-      "sha256" : "c79e39dbd1c26acc6bbb9595ea5d635cf6c745984ac80be61f27b361f2be0e86",
+      "sha256" : "29ee10643b998ea8330e8374b45500da2f109f2a0053e2c1db18082289642e6f",
       "stats" : {
         "downloadCount" : 118
       },
       "subtitle" : "Music player",
-      "version" : "5.30.350"
+      "version" : "5.30.360",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -24147,17 +24151,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "opera-gx",
-      "downloadURL" : "https://get.geo.opera.com/pub/opera_gx/91.0.4516.102/mac/Opera_GX_91.0.4516.102_Setup.dmg",
+      "downloadURL" : "https://get.geo.opera.com/pub/opera_gx/91.0.4516.106/mac/Opera_GX_91.0.4516.106_Setup.dmg",
       "homepage" : "https://www.opera.com/gx",
       "localizedDescription" : "Alternate version of the Opera web browser to complement gaming",
       "name" : "Opera GX",
-      "sha256" : "0acf46dc087bb7fd6f1d5053b6864ac0707d13461a7e4a6c3ec497791d3de53d",
+      "sha256" : "2fb7d440f529f702f0bd74ffd1a3c75216cae1f60038444e9be9adbf9d8bc4c6",
       "stats" : {
         "downloadCount" : 93
       },
       "subtitle" : "Alternate version of the Opera web browser to complement gaming",
-      "version" : "91.0.4516.102",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "91.0.4516.106",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -24405,16 +24409,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://res-zaloapp-aka.zdn.vn/mac/ZaloSetup-22.9.2.dmg#",
+      "downloadURL" : "https://res-zaloapp-aka.zdn.vn/mac/ZaloSetup-22.10.2.dmg#",
       "homepage" : "https://zalo.me/",
       "localizedDescription" : "Messaging and calling application",
       "name" : "Zalo",
-      "sha256" : "eef80266bb4ff5796aac77eff90484192272cd43e40a1c51385eb9a24840edde",
+      "sha256" : "6941e511e06334d12d330f988b58900d63ce65ea3c115b8ff45c3f9055a549be",
       "stats" : {
         "downloadCount" : 86
       },
       "subtitle" : "Messaging and calling application",
-      "version" : "22.9.2"
+      "version" : "22.10.2",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -25403,17 +25408,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "cog",
-      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-b88bee3f.zip",
+      "downloadURL" : "https://cogcdn.cog.losno.co/Cog-31ddbbec.zip",
       "homepage" : "https://cog.losno.co/",
       "localizedDescription" : "Audio player",
       "name" : "Cog",
-      "sha256" : "d1a1653c913e20c1f1bd466fe1dac88215b38f97ef861fbb078503115b1898a9",
+      "sha256" : "7dbe2ecceb26dc4de1880e6c9799e02e0cf48491c47469b567bcd0c6be146d91",
       "stats" : {
         "downloadCount" : 72
       },
       "subtitle" : "Audio player",
-      "version" : "2705,b88bee3f",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2709,31ddbbec",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -25824,8 +25829,8 @@
         "downloadCount" : 66
       },
       "subtitle" : "European dictionary",
-      "version" : "4.2.4,1076",
-      "versionDate" : "2022-10-18T00:00:00Z"
+      "version" : "4.2.6,1078",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -25880,7 +25885,8 @@
         "downloadCount" : 66
       },
       "subtitle" : "Version control",
-      "version" : "2022.1,2344699"
+      "version" : "2022.1,2361553",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -26411,17 +26417,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "postman-cli",
-      "downloadURL" : "https://dl-cli.pstmn.io/download/postman-cli-cli-1.0.5-macos-x64.zip",
+      "downloadURL" : "https://dl-cli.pstmn.io/download/postman-cli-cli-1.0.6-macos-x64.zip",
       "homepage" : "https://www.postman.com/downloads/",
       "localizedDescription" : "CLI for command-line API management on Postman",
       "name" : "Postman CLI",
-      "sha256" : "57a02c91e0a8a886af2561de05451314cdb9c07357e2c8c4912f3e9274b60e8e",
+      "sha256" : "da887dae93001aa459a7d673cdef1a6f2534b0b8e37a371a6355401173235756",
       "stats" : {
         "downloadCount" : 60
       },
       "subtitle" : "CLI for command-line API management on Postman",
-      "version" : "1.0.5",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.0.6",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -28523,17 +28529,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "camtasia",
-      "downloadURL" : "https://download.techsmith.com/camtasiamac/releases/2240/Camtasia.dmg",
+      "downloadURL" : "https://download.techsmith.com/camtasiamac/releases/2241/Camtasia.dmg",
       "homepage" : "https://www.techsmith.com/video-editor.html",
       "localizedDescription" : "Screen recorder and video editor",
       "name" : "Camtasia",
-      "sha256" : "5c9cf85c3db7c4011c3f41a21aafa20765d85f4a6e5bf1000b7b03eab35e3523",
+      "sha256" : "559b973f98a08b3156d9a261d93b249f56575c065d86d2a1840e021fd4c5c6df",
       "stats" : {
         "downloadCount" : 42
       },
       "subtitle" : "Screen recorder and video editor",
-      "version" : "2022.4.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2022.4.1",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -28919,17 +28925,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "busycal",
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-10-28-04-10.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-10-28-22-58.zip",
       "homepage" : "https://busymac.com/busycal/index.html",
       "localizedDescription" : "Calendar software focusing on flexibility and reliability",
       "name" : "BusyCal",
-      "sha256" : "534e4098ee70c225beb87466595ec9ac866737673c0a05a28fdc4e617bcd1462",
+      "sha256" : "d07dc19b96493b83293bf8cf55cf50dd5fc9b6bc478afbd0f143d8bdb69ad6ea",
       "stats" : {
         "downloadCount" : 40
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
-      "version" : "2022.4.4,2022-10-28-04-10",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2022.4.4,2022-10-28-22-58",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -29486,17 +29492,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "bettermouse",
-      "downloadURL" : "https://better-mouse.com/wp-content/uploads/BetterMouse.1.4.2565.zip",
+      "downloadURL" : "https://better-mouse.com/wp-content/uploads/BetterMouse.1.4.2621.zip",
       "homepage" : "https://better-mouse.com/",
       "localizedDescription" : "Utility improving 3rd party mouse performance and functionalities",
       "name" : "BetterMouse",
-      "sha256" : "94cc6af09e05a5bd7380330ac25b29bda7ef211fcf10e6e333a281fedcb58af3",
+      "sha256" : "605c1074c7d92dded550d79fd6280216c1ba915171599fd0d4afa6061df167da",
       "stats" : {
         "downloadCount" : 37
       },
       "subtitle" : "Utility improving 3rd party mouse performance and functionalities",
-      "version" : "1.4.2565",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.4.2621",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -30022,17 +30028,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "remnote",
-      "downloadURL" : "https://download.remnote.io/RemNote-1.8.46.dmg",
+      "downloadURL" : "https://download.remnote.io/RemNote-1.8.48.dmg",
       "homepage" : "https://www.remnote.com/",
       "localizedDescription" : "Spaced-repetition powered note-taking tool",
       "name" : "RemNote",
-      "sha256" : "61819ffa95840adabc11f74358ec30e248da57d5f48a4fb42a80c5062dd96f68",
+      "sha256" : "36ee64f2936f59ad71df1310f7ed2e3ff1fb8bc88d1832c8043184ff0c370711",
       "stats" : {
         "downloadCount" : 35
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
-      "version" : "1.8.46",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.8.48",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -30950,8 +30956,8 @@
         "downloadCount" : 31
       },
       "subtitle" : "Collaborative SQL editor",
-      "version" : "1.0.84",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.0.85",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -32274,16 +32280,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "apipost",
-      "downloadURL" : "https://www.apipost.cn/dl.php?client=Mac&arch=x64&version=7.0.4",
+      "downloadURL" : "https://www.apipost.cn/dl.php?client=Mac&arch=x64&version=7.0.5",
       "homepage" : "https://www.apipost.cn/",
       "localizedDescription" : "Platform for API documentation, debugging, Mock and testing",
       "name" : "Apipost",
-      "sha256" : "5f02849dfb46ae4bad8bf1075b96f139be343748b2341e395a3a0b02d841c5ab",
+      "sha256" : "75fc66472bc9d5089f56c3ad3a2c22cc0f7f2dac28ccbcdeb778c9bc2a5d26c7",
       "stats" : {
         "downloadCount" : 25
       },
       "subtitle" : "Platform for API documentation, debugging, Mock and testing",
-      "version" : "7.0.4"
+      "version" : "7.0.5",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -38200,8 +38207,8 @@
         "downloadCount" : 13
       },
       "subtitle" : "Collection of small computer programs which implement one-player puzzle games",
-      "version" : "20221027.6f5debe",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "20221028.1e8169e",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -38470,16 +38477,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "electronmail",
-      "downloadURL" : "https://github.com/vladimiry/ElectronMail/releases/download/v5.1.1/electron-mail-5.1.1-mac-x64.dmg",
+      "downloadURL" : "https://github.com/vladimiry/ElectronMail/releases/download/v5.1.2/electron-mail-5.1.2-mac-x64.dmg",
       "homepage" : "https://github.com/vladimiry/ElectronMail",
       "localizedDescription" : "Unofficial ProtonMail Desktop App",
       "name" : "ElectronMail",
-      "sha256" : "79ed0143b54018b0a7914089ffc2156423d332f0287e26cd9b00d05b71fa27c2",
+      "sha256" : "70a3ce7e68f838917896a4b86e3582e2acff6916271c6a02108ac34de0c3705b",
       "stats" : {
         "downloadCount" : 12
       },
       "subtitle" : "Unofficial ProtonMail Desktop App",
-      "version" : "5.1.1"
+      "version" : "5.1.2",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -38563,8 +38571,8 @@
         "downloadCount" : 12
       },
       "subtitle" : "Data Modeling for NoSQL databases, storage formats, REST APIs, and JSON in RDBMS",
-      "version" : "6.6.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "6.6.1",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -38834,17 +38842,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "pitch",
-      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.98.0-stable.3-ci4818823.dmg",
+      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.98.0-stable.4-ci4823386.dmg",
       "homepage" : "https://pitch.com/",
       "localizedDescription" : "Collaborative presentation software",
       "name" : "Pitch",
-      "sha256" : "1a89de67290dea72b983186d27056e1827ea16ade5c299682d639912a3ac0b9b",
+      "sha256" : "993eea443ccf55e20528829d85429840d0f41fb3e614310361835ed0b80c1e98",
       "stats" : {
         "downloadCount" : 12
       },
       "subtitle" : "Collaborative presentation software",
-      "version" : "1.98.0,stable.3,4818823",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.98.0,stable.4,4823386",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -41496,17 +41504,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "hepta",
-      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.214.0/Hepta-0.214.0-mac.zip",
+      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.216.0/Hepta-0.216.0-mac.zip",
       "homepage" : "https://heptabase.com/",
       "localizedDescription" : "Note-taking tool for visual learning",
       "name" : "Hepta",
-      "sha256" : "8ef2be79ccbcdf8bd2bd1f2cfa569c24fc546c3e6c9b15a008474ecd0eec5378",
+      "sha256" : "61349414b40853913b2ad8a33e08086f4fc9d612d1311efcfa94aab5e93aaefa",
       "stats" : {
         "downloadCount" : 9
       },
       "subtitle" : "Note-taking tool for visual learning",
-      "version" : "0.214.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "0.216.0",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -42454,7 +42462,8 @@
         "downloadCount" : 8
       },
       "subtitle" : "Arrange your tasks in a customizable configuration",
-      "version" : "4.4.6,5125"
+      "version" : "4.4.7,5129",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -43130,16 +43139,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "mediaelch",
-      "downloadURL" : "https://github.com/Komet/MediaElch/releases/download/v2.8.16/MediaElch_macOS_2.8.16_2022-03-13_git-9ae0f5bd.dmg",
+      "downloadURL" : "https://github.com/Komet/MediaElch/releases/download/v2.8.18/MediaElch_macOS_2.8.18_2022-10-28_git-146c4b77.dmg",
       "homepage" : "https://www.kvibes.de/en/mediaelch/",
       "localizedDescription" : "Media Manager for Kodi",
       "name" : "MediaElch",
-      "sha256" : "578716a9451971be5edaa43c3b352c4b964aafdadd852c426acfbfe8d18ed22e",
+      "sha256" : "8ba585145b017bc7ef5708ab3d24e3289af222c160c685a720bc49d415a3735b",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "Media Manager for Kodi",
-      "version" : "2.8.16,2022-03-13,9ae0f5bd"
+      "version" : "2.8.18,2022-10-28,146c4b77",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -43412,16 +43422,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "protopie",
-      "downloadURL" : "https://release.protopie.io/ProtoPie-7.3.1.dmg",
+      "downloadURL" : "https://release.protopie.io/ProtoPie-7.3.2.dmg",
       "homepage" : "https://www.protopie.io/",
       "localizedDescription" : "Create interactive prototypes",
       "name" : "ProtoPie",
-      "sha256" : "090bbb4b2da573fed22181110ebef0d2a7f21214c492e47b86ba5a82efbf1e4d",
+      "sha256" : "e6cc98cf538e3c8dd91754f3ea54e76266c41af7a49d1e8181890de603650557",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "Create interactive prototypes",
-      "version" : "7.3.1"
+      "version" : "7.3.2",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -44162,17 +44173,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gdevelop",
-      "downloadURL" : "https://github.com/4ian/GDevelop/releases/download/v5.1.148/GDevelop-5-5.1.148.dmg",
+      "downloadURL" : "https://github.com/4ian/GDevelop/releases/download/v5.1.149/GDevelop-5-5.1.149.dmg",
       "homepage" : "https://gdevelop.io/",
       "localizedDescription" : "Open-source, cross-platform game engine designed to be used by everyone",
       "name" : "GDevelop",
-      "sha256" : "7d3a8614a1eba362617145faebdcae0b861104368bdd8cdcf5ae73601ff4bc0c",
+      "sha256" : "5937c54060ec16fde441b8e32542cee00a451dc9e6a838a6b72b3148b2385999",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Open-source, cross-platform game engine designed to be used by everyone",
-      "version" : "5.1.148",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5.1.149",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -44759,16 +44770,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "rotki",
-      "downloadURL" : "https://github.com/rotki/rotki/releases/download/v1.25.3/rotki-darwin_x64-v1.25.3.dmg",
+      "downloadURL" : "https://github.com/rotki/rotki/releases/download/v1.26.0/rotki-darwin_x64-v1.26.0.dmg",
       "homepage" : "https://rotki.com/",
       "localizedDescription" : "Portfolio tracking and accounting tool",
       "name" : "Rotki",
-      "sha256" : "5c2474a953fae41b4bd383dcc5a039b1fb4c229aaeb24bbbebeaf9ffccbf26f0",
+      "sha256" : "e58145d33b099f3a44d22204f9e309cb7e9955bfe63700a56f9164a675bfc64c",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Portfolio tracking and accounting tool",
-      "version" : "1.25.3"
+      "version" : "1.26.0",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -49278,16 +49290,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "fxfactory",
-      "downloadURL" : "https://fxfactory.s3.amazonaws.com/noiseindustries/fxfactory/FxFactory-8.0.3-7195.zip",
+      "downloadURL" : "https://fxfactory.s3.amazonaws.com/noiseindustries/fxfactory/FxFactory-8.0.4-7286.zip",
       "homepage" : "https://fxfactory.com/",
       "localizedDescription" : "Browse, install and purchase effects and plugins from a huge catalog",
       "name" : "FxFactory",
-      "sha256" : "f42e82a8e40cf3add57375f1b47f65bb1e5cda7858e2853a82b6da2e6a060b29",
+      "sha256" : "f37a1c1f6dbadfdb3f1955473bce6cd031ef68cd9d9767b7da4b08c75906352b",
       "stats" : {
         "downloadCount" : 4
       },
       "subtitle" : "Browse, install and purchase effects and plugins from a huge catalog",
-      "version" : "8.0.3,7195"
+      "version" : "8.0.4,7286",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -49652,17 +49665,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "mailbutler",
-      "downloadURL" : "https://downloads.mailbutler.io/sparkle/public/Mailbutler_5719-2523729.zip",
+      "downloadURL" : "https://downloads.mailbutler.io/sparkle/public/Mailbutler_5728-2536752.zip",
       "homepage" : "https://www.mailbutler.io/",
       "localizedDescription" : "Personal assistant and productivity tool for Apple Mail",
       "name" : "Mailbutler",
-      "sha256" : "593ae1388c8e60ef0212bde019fb2ab11fb3fb4b52dfbd7f0b226b27f9fd0e0e",
+      "sha256" : "f60c93a5a063afc11a5072c1080fed4715400be3b9f0ee043c72d88541b55b3e",
       "stats" : {
         "downloadCount" : 4
       },
       "subtitle" : "Personal assistant and productivity tool for Apple Mail",
-      "version" : "5719,2523729",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5728,2536752",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -51820,16 +51833,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "holavpn",
-      "downloadURL" : "https://cdn4.hola.org/static/HolaVPN2E-2.75-1.202.531.dmg",
+      "downloadURL" : "https://cdn4.hola.org/static/HolaVPN2E-2.76-1.203.708.dmg",
       "homepage" : "https://hola.org/",
       "localizedDescription" : "Peer-to-peer VPN",
       "name" : "Hola VPN",
-      "sha256" : "cfb4c5ed09d90d4f6ee9192210849d25de29086b1efbb6a2e320b4f2b07821ad",
+      "sha256" : "e13a5d7273d17aade375259ab95232da5ab09c5c43594010bd8e0595a93d0bd3",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "Peer-to-peer VPN",
-      "version" : "2.75,1.202.531"
+      "version" : "2.76,1.203.708",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -54207,16 +54221,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "grandtotal",
-      "downloadURL" : "https://www.mediaatelier.com/GrandTotal7/GrandTotal_7.3.7.dmg",
+      "downloadURL" : "https://www.mediaatelier.com/GrandTotal7/GrandTotal_7.3.8.dmg",
       "homepage" : "https://www.mediaatelier.com/GrandTotal7/",
       "localizedDescription" : "Create invoices and estimates",
       "name" : "GrandTotal",
-      "sha256" : "bdceeae20484ffb892fc9eaa28f9a8ac1107932a5ba8255a89e8b1f77237f8c2",
+      "sha256" : "00e63c2bf686d1b9cc6727fb098ffafd864c68df2d0257d3ffc80b19dde97ba4",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Create invoices and estimates",
-      "version" : "7.3.7"
+      "version" : "7.3.8",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -54721,16 +54736,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "microblog",
-      "downloadURL" : "https://s3.amazonaws.com/micro.blog/mac/Micro.blog_2.5.4.zip",
+      "downloadURL" : "https://s3.amazonaws.com/micro.blog/mac/Micro.blog_2.6.zip",
       "homepage" : "https://help.micro.blog/t/micro-blog-for-mac/45",
       "localizedDescription" : "Microblogging and social networking service",
       "name" : "Micro.blog",
-      "sha256" : "4eaf2eb371570afc962c0e9f4c7bbbe35cdf39e185b7ba58ee43b73c35af8cdd",
+      "sha256" : "c7c60e2321e2bc4e8368504bd0579cb5de40cecc2ca96d3d68c44a3da2637c09",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Microblogging and social networking service",
-      "version" : "2.5.4,120"
+      "version" : "2.6,123",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -55209,16 +55225,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "popo",
-      "downloadURL" : "https://popo.netease.com/file/popomac/POPO-setup_3_58_0.dmg",
+      "downloadURL" : "https://popo.netease.com/file/popomac/POPO-setup_3_59_1.dmg",
       "homepage" : "https://popo.netease.com/",
       "localizedDescription" : "Instant messaging platform",
       "name" : "NetEase POPO",
-      "sha256" : "cad4042fadb6c253e348d3436f5c913244eeead44f57dc0649f6cd41789e41a2",
+      "sha256" : "0405b534bb7831a7ec5040d12271b275a91f234b26b2003dee95042243dbd374",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Instant messaging platform",
-      "version" : "3.58.0"
+      "version" : "3.59.1",
+      "versionDate" : "2022-10-28T23:37:25Z"
     },
     {
       "beta" : false,
@@ -61694,272 +61711,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "brewtarget",
-      "caption" : "brewtarget updated from 3.0.1 to 3.0.2",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-brewtarget-3.0.2",
-      "title" : "New Release: brewtarget 3.0.2"
-    },
-    {
-      "appID" : "buckets",
-      "caption" : "Buckets updated from 0.67.2 to 0.68.0",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-buckets-0.68.0",
-      "title" : "New Release: Buckets 0.68.0"
-    },
-    {
-      "appID" : "cacher",
-      "caption" : "Cacher updated from 2.45.0 to 2.45.3",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-cacher-2.45.3",
-      "title" : "New Release: Cacher 2.45.3"
-    },
-    {
-      "appID" : "calmly-writer",
-      "caption" : "Calmly Writer updated from 2.0.45 to 2.0.47",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-calmly-writer-2.0.47",
-      "title" : "New Release: Calmly Writer 2.0.47"
-    },
-    {
-      "appID" : "chemdoodle",
-      "caption" : "ChemDoodle updated from 11.10.0 to 11.11.0",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-chemdoodle-11.11.0",
-      "title" : "New Release: ChemDoodle 11.11.0"
-    },
-    {
-      "appID" : "chronoagent",
-      "caption" : "ChronoAgent updated from 2.2.0 to 2.2.1",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-chronoagent-2.2.1",
-      "title" : "New Release: ChronoAgent 2.2.1"
-    },
-    {
-      "appID" : "cloudash",
-      "caption" : "cloudash updated from 1.17.1 to 1.18.0",
-      "date" : "2022-10-28T00:05:38Z",
-      "identifier" : "release-cloudash-1.18.0",
-      "title" : "New Release: cloudash 1.18.0"
-    },
-    {
-      "appID" : "cncjs",
-      "caption" : "CNSjs updated from 1.9.27 to 1.9.28,1.9.27",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-cncjs-1.9.28,1.9.27",
-      "title" : "New Release: CNSjs 1.9.28,1.9.27"
-    },
-    {
-      "appID" : "daedalus-mainnet",
-      "caption" : "Daedalus Mainnet updated from 5.0.0,22165 to 5.1.0,22239",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-daedalus-mainnet-5.1.0,22239",
-      "title" : "New Release: Daedalus Mainnet 5.1.0,22239"
-    },
-    {
-      "appID" : "dcp-o-matic-playlist-editor",
-      "caption" : "DCP-o-matic Playlist Editor updated from 2.16.30 to 2.16.32",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-dcp-o-matic-playlist-editor-2.16.32",
-      "title" : "New Release: DCP-o-matic Playlist Editor 2.16.32"
-    },
-    {
-      "appID" : "ddnet",
-      "caption" : "DDNet updated from 16.4 to 16.5",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-ddnet-16.5",
-      "title" : "New Release: DDNet 16.5"
-    },
-    {
-      "appID" : "garagesale",
-      "caption" : "GarageSale updated from 9.0.5 to 9.1",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-garagesale-9.1",
-      "title" : "New Release: GarageSale 9.1"
-    },
-    {
-      "appID" : "hype",
-      "caption" : "Tumult Hype updated from 4.1.8,740 to 4.1.11,746",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-hype-4.1.11,746",
-      "title" : "New Release: Tumult Hype 4.1.11,746"
-    },
-    {
-      "appID" : "manyverse",
-      "caption" : "Manyverse updated from 0.2210.3-beta to 0.2210.27-beta",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-manyverse-0.2210.27-beta",
-      "title" : "New Release: Manyverse 0.2210.27-beta"
-    },
-    {
-      "appID" : "marsedit",
-      "caption" : "MarsEdit updated from 4.6.1,10456 to 4.6.3,10492",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-marsedit-4.6.3,10492",
-      "title" : "New Release: MarsEdit 4.6.3,10492"
-    },
-    {
-      "appID" : "miditrail",
-      "caption" : "MIDITrail updated from 2.0.0,77818 to 2.0.1,77925",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-miditrail-2.0.1,77925",
-      "title" : "New Release: MIDITrail 2.0.1,77925"
-    },
-    {
-      "appID" : "pichon",
-      "caption" : "Pichon updated from 1.1.2,22 to 1.2.1,25",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-pichon-1.2.1,25",
-      "title" : "New Release: Pichon 1.2.1,25"
-    },
-    {
-      "appID" : "plus42-binary",
-      "caption" : "Plus42 Binary updated from 1.0.11 to 1.0.12",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-plus42-binary-1.0.12",
-      "title" : "New Release: Plus42 Binary 1.0.12"
-    },
-    {
-      "appID" : "plus42-decimal",
-      "caption" : "Plus42 Decimal updated from 1.0.11 to 1.0.12",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-plus42-decimal-1.0.12",
-      "title" : "New Release: Plus42 Decimal 1.0.12"
-    },
-    {
-      "appID" : "redcine-x-pro",
-      "caption" : "REDCINE-X PRO updated from 60.1.2 to 60.2.2",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-redcine-x-pro-60.2.2",
-      "title" : "New Release: REDCINE-X PRO 60.2.2"
-    },
-    {
-      "appID" : "sonic-robo-blast-2-kart",
-      "caption" : "Sonic Robo Blast 2 Kart updated from 1.3 to 1.5",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-sonic-robo-blast-2-kart-1.5",
-      "title" : "New Release: Sonic Robo Blast 2 Kart 1.5"
-    },
-    {
-      "appID" : "sound-siphon",
-      "caption" : "SoundSiphon updated from 3.3.6 to 3.4.1",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-sound-siphon-3.4.1",
-      "title" : "New Release: SoundSiphon 3.4.1"
-    },
-    {
-      "appID" : "strongvpn",
-      "caption" : "StrongVPN updated from 2.2.2,45556 to 2.3.1,84977",
-      "date" : "2022-10-28T00:05:39Z",
-      "identifier" : "release-strongvpn-2.3.1,84977",
-      "title" : "New Release: StrongVPN 2.3.1,84977"
-    },
-    {
-      "appID" : "syncroom",
-      "caption" : "SYNCROOM updated from 1.5.2 to 1.5.3",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-syncroom-1.5.3",
-      "title" : "New Release: SYNCROOM 1.5.3"
-    },
-    {
-      "appID" : "trivial",
-      "caption" : "Trivial updated from 1.0.7,01000.77.50 to 1.0.8,01000.87.50",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-trivial-1.0.8,01000.87.50",
-      "title" : "New Release: Trivial 1.0.8,01000.87.50"
-    },
-    {
-      "appID" : "wing-personal",
-      "caption" : "Wing Personal updated from 8.3.3.0 to 9.0.0.4",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-wing-personal-9.0.0.4",
-      "title" : "New Release: Wing Personal 9.0.0.4"
-    },
-    {
-      "appID" : "cityofzion-neon",
-      "caption" : "Neon Wallet updated from 2.14.2 to 2.16.16",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-cityofzion-neon-2.16.16",
-      "title" : "New Release: Neon Wallet 2.16.16"
-    },
-    {
-      "appID" : "cnkiexpress",
-      "caption" : "CNKIExpress updated from 0.2.27 to 0.2.29",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-cnkiexpress-0.2.29",
-      "title" : "New Release: CNKIExpress 0.2.29"
-    },
-    {
-      "appID" : "couchbase-server-enterprise",
-      "caption" : "Couchbase Server updated from 7.1.1 to 7.1.2",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-couchbase-server-enterprise-7.1.2",
-      "title" : "New Release: Couchbase Server 7.1.2"
-    },
-    {
-      "appID" : "dcp-o-matic-combiner",
-      "caption" : "dcp-o-matic-combiner updated from 2.16.30 to 2.16.32",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-dcp-o-matic-combiner-2.16.32",
-      "title" : "New Release: dcp-o-matic-combiner 2.16.32"
-    },
-    {
-      "appID" : "dcp-o-matic-disk-writer",
-      "caption" : "DCP-o-matic Disk Writer updated from 2.16.30 to 2.16.32",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-dcp-o-matic-disk-writer-2.16.32",
-      "title" : "New Release: DCP-o-matic Disk Writer 2.16.32"
-    },
-    {
-      "appID" : "fotokasten",
-      "caption" : "Fotokasten updated from 3.64.0,220822.0936 to 3.68.2,221019.1846",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-fotokasten-3.68.2,221019.1846",
-      "title" : "New Release: Fotokasten 3.68.2,221019.1846"
-    },
-    {
-      "appID" : "gcs",
-      "caption" : "gcs updated from 5.2.0 to 5.3.0",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-gcs-5.3.0",
-      "title" : "New Release: gcs 5.3.0"
-    },
-    {
-      "appID" : "gridtracker",
-      "caption" : "GridTracker updated from 1.22.1010,1.22.1010 to 1.22.1016",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-gridtracker-1.22.1016",
-      "title" : "New Release: GridTracker 1.22.1016"
-    },
-    {
-      "appID" : "medibangpaintpro",
-      "caption" : "MediBang Paint Pro updated from 28.2 to 28.3",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-medibangpaintpro-28.3",
-      "title" : "New Release: MediBang Paint Pro 28.3"
-    },
-    {
-      "appID" : "nanoem",
-      "caption" : "nanoem updated from 34.6.0 to 34.7.0",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-nanoem-34.7.0",
-      "title" : "New Release: nanoem 34.7.0"
-    },
-    {
-      "appID" : "photo-supreme-single-user",
-      "caption" : "Photo Supreme Single User updated from 7.4.1.4583 to 7.4.1.4604",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-photo-supreme-single-user-7.4.1.4604",
-      "title" : "New Release: Photo Supreme Single User 7.4.1.4604"
-    },
-    {
-      "appID" : "purei-play",
-      "caption" : "Play! updated from 2022-10-17,1126c39c to 2022-10-26,6d8d7fc9",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-purei-play-2022-10-26,6d8d7fc9",
-      "title" : "New Release: Play! 2022-10-26,6d8d7fc9"
-    },
-    {
       "appID" : "weakauras-companion",
       "caption" : "WeakAuras Companion updated from 4.0.8 to 4.0.9",
       "date" : "2022-10-28T00:05:40Z",
@@ -62177,13 +61928,6 @@
       "title" : "New Release: Confluent CLI 2.31.0"
     },
     {
-      "appID" : "arc",
-      "caption" : "Arc updated from 0.73.0,35301 to 0.74.0,35437",
-      "date" : "2022-10-28T08:43:38Z",
-      "identifier" : "release-arc-0.74.0,35437",
-      "title" : "New Release: Arc 0.74.0,35437"
-    },
-    {
       "appID" : "moonlight",
       "caption" : "Moonlight updated from 4.2.1 to 4.3.0",
       "date" : "2022-10-28T08:43:38Z",
@@ -62203,13 +61947,6 @@
       "date" : "2022-10-28T08:43:39Z",
       "identifier" : "release-nagstamon-3.10.0",
       "title" : "New Release: Nagstamon 3.10.0"
-    },
-    {
-      "appID" : "busycal",
-      "caption" : "BusyCal updated from 2022.4.4,2022-10-27-01-55 to 2022.4.4,2022-10-28-04-10",
-      "date" : "2022-10-28T08:43:39Z",
-      "identifier" : "release-busycal-2022.4.4,2022-10-28-04-10",
-      "title" : "New Release: BusyCal 2022.4.4,2022-10-28-04-10"
     },
     {
       "appID" : "nwjs",
@@ -62392,6 +62129,286 @@
       "date" : "2022-10-28T20:35:55Z",
       "identifier" : "release-jitsi-meet-2022.10.1",
       "title" : "New Release: Jitsi Meet 2022.10.1"
+    },
+    {
+      "appID" : "vivid",
+      "caption" : "Vivid updated from 2.1,27 to 2.2.1,32",
+      "date" : "2022-10-28T23:37:26Z",
+      "identifier" : "release-vivid-2.2.1,32",
+      "title" : "New Release: Vivid 2.2.1,32"
+    },
+    {
+      "appID" : "vpn-tracker-365",
+      "caption" : "VPN Tracker 365 updated from 22.3.0,220308 to 22.3.1,220310",
+      "date" : "2022-10-28T23:37:26Z",
+      "identifier" : "release-vpn-tracker-365-22.3.1,220310",
+      "title" : "New Release: VPN Tracker 365 22.3.1,220310"
+    },
+    {
+      "appID" : "vrew",
+      "caption" : "vrew updated from 0.12.6 to 0.12.7",
+      "date" : "2022-10-28T23:37:26Z",
+      "identifier" : "release-vrew-0.12.7",
+      "title" : "New Release: vrew 0.12.7"
+    },
+    {
+      "appID" : "vuescan",
+      "caption" : "VueScan updated from 9.7.94 to 9.7.95",
+      "date" : "2022-10-28T23:37:26Z",
+      "identifier" : "release-vuescan-9.7.95",
+      "title" : "New Release: VueScan 9.7.95"
+    },
+    {
+      "appID" : "trader-workstation",
+      "caption" : "Trader Workstation updated from 10.19.1e to 10.19.1f",
+      "date" : "2022-10-28T23:37:27Z",
+      "identifier" : "release-trader-workstation-10.19.1f",
+      "title" : "New Release: Trader Workstation 10.19.1f"
+    },
+    {
+      "appID" : "flipper",
+      "caption" : "Facebook Flipper updated from 0.172.0 to 0.173.0",
+      "date" : "2022-10-28T23:37:27Z",
+      "identifier" : "release-flipper-0.173.0",
+      "title" : "New Release: Facebook Flipper 0.173.0"
+    },
+    {
+      "appID" : "opera",
+      "caption" : "Opera updated from 92.0.4561.30 to 92.0.4561.33",
+      "date" : "2022-10-28T23:37:27Z",
+      "identifier" : "release-opera-92.0.4561.33",
+      "title" : "New Release: Opera 92.0.4561.33"
+    },
+    {
+      "appID" : "deepl",
+      "caption" : "DeepL updated from 3.5.251434 to 3.7.277083",
+      "date" : "2022-10-28T23:37:27Z",
+      "identifier" : "release-deepl-3.7.277083",
+      "title" : "New Release: DeepL 3.7.277083"
+    },
+    {
+      "appID" : "ledger-live",
+      "caption" : "Ledger Live updated from 2.49.1 to 2.49.2",
+      "date" : "2022-10-28T23:37:27Z",
+      "identifier" : "release-ledger-live-2.49.2",
+      "title" : "New Release: Ledger Live 2.49.2"
+    },
+    {
+      "appID" : "arc",
+      "caption" : "Arc updated from 0.74.0,35437 to 0.74.1,35450",
+      "date" : "2022-10-28T23:37:27Z",
+      "identifier" : "release-arc-0.74.1,35450",
+      "title" : "New Release: Arc 0.74.1,35450"
+    },
+    {
+      "appID" : "free-download-manager",
+      "caption" : "Free Download Manager updated from 6.17.0 to 6.18.0",
+      "date" : "2022-10-28T23:37:28Z",
+      "identifier" : "release-free-download-manager-6.18.0",
+      "title" : "New Release: Free Download Manager 6.18.0"
+    },
+    {
+      "appID" : "deezer",
+      "caption" : "Deezer updated from 5.30.350 to 5.30.360",
+      "date" : "2022-10-28T23:37:28Z",
+      "identifier" : "release-deezer-5.30.360",
+      "title" : "New Release: Deezer 5.30.360"
+    },
+    {
+      "appID" : "opera-gx",
+      "caption" : "Opera GX updated from 91.0.4516.102 to 91.0.4516.106",
+      "date" : "2022-10-28T23:37:28Z",
+      "identifier" : "release-opera-gx-91.0.4516.106",
+      "title" : "New Release: Opera GX 91.0.4516.106"
+    },
+    {
+      "appID" : "zalo",
+      "caption" : "Zalo updated from 22.9.2 to 22.10.2",
+      "date" : "2022-10-28T23:37:28Z",
+      "identifier" : "release-zalo-22.10.2",
+      "title" : "New Release: Zalo 22.10.2"
+    },
+    {
+      "appID" : "cog",
+      "caption" : "Cog updated from 2705,b88bee3f to 2709,31ddbbec",
+      "date" : "2022-10-28T23:37:28Z",
+      "identifier" : "release-cog-2709,31ddbbec",
+      "title" : "New Release: Cog 2709,31ddbbec"
+    },
+    {
+      "appID" : "eudic",
+      "caption" : "Eudic updated from 4.2.4,1076 to 4.2.6,1078",
+      "date" : "2022-10-28T23:37:28Z",
+      "identifier" : "release-eudic-4.2.6,1078",
+      "title" : "New Release: Eudic 4.2.6,1078"
+    },
+    {
+      "appID" : "perforce",
+      "caption" : "Perforce Helix Core Server updated from 2022.1,2344699 to 2022.1,2361553",
+      "date" : "2022-10-28T23:37:29Z",
+      "identifier" : "release-perforce-2022.1,2361553",
+      "title" : "New Release: Perforce Helix Core Server 2022.1,2361553"
+    },
+    {
+      "appID" : "postman-cli",
+      "caption" : "Postman CLI updated from 1.0.5 to 1.0.6",
+      "date" : "2022-10-28T23:37:29Z",
+      "identifier" : "release-postman-cli-1.0.6",
+      "title" : "New Release: Postman CLI 1.0.6"
+    },
+    {
+      "appID" : "camtasia",
+      "caption" : "Camtasia updated from 2022.4.0 to 2022.4.1",
+      "date" : "2022-10-28T23:37:29Z",
+      "identifier" : "release-camtasia-2022.4.1",
+      "title" : "New Release: Camtasia 2022.4.1"
+    },
+    {
+      "appID" : "busycal",
+      "caption" : "BusyCal updated from 2022.4.4,2022-10-28-04-10 to 2022.4.4,2022-10-28-22-58",
+      "date" : "2022-10-28T23:37:29Z",
+      "identifier" : "release-busycal-2022.4.4,2022-10-28-22-58",
+      "title" : "New Release: BusyCal 2022.4.4,2022-10-28-22-58"
+    },
+    {
+      "appID" : "bettermouse",
+      "caption" : "BetterMouse updated from 1.4.2565 to 1.4.2621",
+      "date" : "2022-10-28T23:37:29Z",
+      "identifier" : "release-bettermouse-1.4.2621",
+      "title" : "New Release: BetterMouse 1.4.2621"
+    },
+    {
+      "appID" : "remnote",
+      "caption" : "RemNote updated from 1.8.46 to 1.8.48",
+      "date" : "2022-10-28T23:37:30Z",
+      "identifier" : "release-remnote-1.8.48",
+      "title" : "New Release: RemNote 1.8.48"
+    },
+    {
+      "appID" : "popsql",
+      "caption" : "PopSQL updated from 1.0.84 to 1.0.85",
+      "date" : "2022-10-28T23:37:30Z",
+      "identifier" : "release-popsql-1.0.85",
+      "title" : "New Release: PopSQL 1.0.85"
+    },
+    {
+      "appID" : "apipost",
+      "caption" : "Apipost updated from 7.0.4 to 7.0.5",
+      "date" : "2022-10-28T23:37:30Z",
+      "identifier" : "release-apipost-7.0.5",
+      "title" : "New Release: Apipost 7.0.5"
+    },
+    {
+      "appID" : "puzzles",
+      "caption" : "Simon Tatham's Portable Puzzle Collection updated from 20221027.6f5debe to 20221028.1e8169e",
+      "date" : "2022-10-28T23:37:30Z",
+      "identifier" : "release-puzzles-20221028.1e8169e",
+      "title" : "New Release: Simon Tatham's Portable Puzzle Collection 20221028.1e8169e"
+    },
+    {
+      "appID" : "electronmail",
+      "caption" : "ElectronMail updated from 5.1.1 to 5.1.2",
+      "date" : "2022-10-28T23:37:30Z",
+      "identifier" : "release-electronmail-5.1.2",
+      "title" : "New Release: ElectronMail 5.1.2"
+    },
+    {
+      "appID" : "hackolade",
+      "caption" : "Hackolade updated from 6.6.0 to 6.6.1",
+      "date" : "2022-10-28T23:37:30Z",
+      "identifier" : "release-hackolade-6.6.1",
+      "title" : "New Release: Hackolade 6.6.1"
+    },
+    {
+      "appID" : "pitch",
+      "caption" : "Pitch updated from 1.98.0,stable.3,4818823 to 1.98.0,stable.4,4823386",
+      "date" : "2022-10-28T23:37:31Z",
+      "identifier" : "release-pitch-1.98.0,stable.4,4823386",
+      "title" : "New Release: Pitch 1.98.0,stable.4,4823386"
+    },
+    {
+      "appID" : "hepta",
+      "caption" : "Hepta updated from 0.214.0 to 0.216.0",
+      "date" : "2022-10-28T23:37:31Z",
+      "identifier" : "release-hepta-0.216.0",
+      "title" : "New Release: Hepta 0.216.0"
+    },
+    {
+      "appID" : "butler",
+      "caption" : "Butler updated from 4.4.6,5125 to 4.4.7,5129",
+      "date" : "2022-10-28T23:37:31Z",
+      "identifier" : "release-butler-4.4.7,5129",
+      "title" : "New Release: Butler 4.4.7,5129"
+    },
+    {
+      "appID" : "mediaelch",
+      "caption" : "MediaElch updated from 2.8.16,2022-03-13,9ae0f5bd to 2.8.18,2022-10-28,146c4b77",
+      "date" : "2022-10-28T23:37:31Z",
+      "identifier" : "release-mediaelch-2.8.18,2022-10-28,146c4b77",
+      "title" : "New Release: MediaElch 2.8.18,2022-10-28,146c4b77"
+    },
+    {
+      "appID" : "protopie",
+      "caption" : "ProtoPie updated from 7.3.1 to 7.3.2",
+      "date" : "2022-10-28T23:37:31Z",
+      "identifier" : "release-protopie-7.3.2",
+      "title" : "New Release: ProtoPie 7.3.2"
+    },
+    {
+      "appID" : "gdevelop",
+      "caption" : "GDevelop updated from 5.1.148 to 5.1.149",
+      "date" : "2022-10-28T23:37:31Z",
+      "identifier" : "release-gdevelop-5.1.149",
+      "title" : "New Release: GDevelop 5.1.149"
+    },
+    {
+      "appID" : "rotki",
+      "caption" : "Rotki updated from 1.25.3 to 1.26.0",
+      "date" : "2022-10-28T23:37:32Z",
+      "identifier" : "release-rotki-1.26.0",
+      "title" : "New Release: Rotki 1.26.0"
+    },
+    {
+      "appID" : "fxfactory",
+      "caption" : "FxFactory updated from 8.0.3,7195 to 8.0.4,7286",
+      "date" : "2022-10-28T23:37:32Z",
+      "identifier" : "release-fxfactory-8.0.4,7286",
+      "title" : "New Release: FxFactory 8.0.4,7286"
+    },
+    {
+      "appID" : "mailbutler",
+      "caption" : "Mailbutler updated from 5719,2523729 to 5728,2536752",
+      "date" : "2022-10-28T23:37:32Z",
+      "identifier" : "release-mailbutler-5728,2536752",
+      "title" : "New Release: Mailbutler 5728,2536752"
+    },
+    {
+      "appID" : "holavpn",
+      "caption" : "Hola VPN updated from 2.75,1.202.531 to 2.76,1.203.708",
+      "date" : "2022-10-28T23:37:32Z",
+      "identifier" : "release-holavpn-2.76,1.203.708",
+      "title" : "New Release: Hola VPN 2.76,1.203.708"
+    },
+    {
+      "appID" : "grandtotal",
+      "caption" : "GrandTotal updated from 7.3.7 to 7.3.8",
+      "date" : "2022-10-28T23:37:32Z",
+      "identifier" : "release-grandtotal-7.3.8",
+      "title" : "New Release: GrandTotal 7.3.8"
+    },
+    {
+      "appID" : "microblog",
+      "caption" : "Micro.blog updated from 2.5.4,120 to 2.6,123",
+      "date" : "2022-10-28T23:37:33Z",
+      "identifier" : "release-microblog-2.6,123",
+      "title" : "New Release: Micro.blog 2.6,123"
+    },
+    {
+      "appID" : "popo",
+      "caption" : "NetEase POPO updated from 3.58.0 to 3.59.1",
+      "date" : "2022-10-28T23:37:33Z",
+      "identifier" : "release-popo-3.59.1",
+      "title" : "New Release: NetEase POPO 3.59.1"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

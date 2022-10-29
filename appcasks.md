@@ -3955,6 +3955,7 @@ tr:nth-child(even) {
 | [``Daedalus Testnet``](https://developers.cardano.org/en/testnets/cardano/get-started/wallet/) | ``4.12.1,22105`` | `0` |  |  |  |  |  | `0` |  |
 | [``Dash``](https://www.dash.org/) | ``18.1.0`` | `0` | `2022-10-18T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Datazenit``](https://datazenit.com/) | ``1.1.0`` | `0` |  |  |  |  |  | `0` |  |
+| [``DBeaver Lite Edition``](https://dbeaver.com/dbeaver-lite/) | ``22.2.0`` | `0` | `2022-10-29T18:35:27Z` |  |  |  |  | `0` |  |
 | [``Decloner``](https://www.pixelespressoapps.com/decloner/) | ``1.6.3,23`` | `0` |  |  |  |  |  | `0` |  |
 | [``Decrediton``](https://github.com/decred/decrediton) | ``1.7.5`` | `0` |  |  |  |  |  | `0` |  |
 | [``depthmapX``](https://github.com/SpaceGroupUCL/depthmapX) | ``0.8.0`` | `0` |  |  |  |  |  | `0` |  |

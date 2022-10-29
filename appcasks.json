@@ -59371,6 +59371,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "dbeaverlite",
+      "downloadURL" : "https://dbeaver.com/downloads-lite/22.2.0/dbeaver-le-22.2.0-macos-x86_64.dmg",
+      "homepage" : "https://dbeaver.com/dbeaver-lite/",
+      "localizedDescription" : "Universal database tool and SQL client",
+      "name" : "DBeaver Lite Edition",
+      "sha256" : "50eaf8ea6cb10523481b6f3e6f5194994373d2ed0d733802b4f649d59fe40b7f",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "subtitle" : "Universal database tool and SQL client",
+      "version" : "22.2.0",
+      "versionDate" : "2022-10-29T18:35:27Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "decloner",
       "downloadURL" : "https://www.pixelespressoapps.com/decloner/Decloner_1.6.3.zip",
       "homepage" : "https://www.pixelespressoapps.com/decloner/",
@@ -61735,13 +61750,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "hookmark",
-      "caption" : "Hook 4.0,2022.10 released",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-hookmark-4.0,2022.10",
-      "title" : "New Release: Hook 4.0,2022.10"
-    },
-    {
       "appID" : "topaz-video-ai",
       "caption" : "Topaz Video AI 3.0.1 released",
       "date" : "2022-10-28T00:05:41Z",
@@ -62433,6 +62441,13 @@
       "date" : "2022-10-29T11:27:31Z",
       "identifier" : "release-pushplaylabs-sidekick-104.30.1.25571,90580da",
       "title" : "New Release: Sidekick 104.30.1.25571,90580da"
+    },
+    {
+      "appID" : "dbeaverlite",
+      "caption" : "DBeaver Lite Edition 22.2.0 released",
+      "date" : "2022-10-29T18:35:27Z",
+      "identifier" : "release-dbeaverlite-22.2.0",
+      "title" : "New Release: DBeaver Lite Edition 22.2.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

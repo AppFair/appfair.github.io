@@ -17420,17 +17420,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "metasploit",
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.25%2B20221028102958-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.25%2B20221029102950-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "7367edc069e9dee489fc2101676566649c9cb2404e41e62fc0869bd30ded59c1",
+      "sha256" : "5a7421b894124c2b282029462f90d91d6f454ac30c2ba300a45b60805b6158de",
       "stats" : {
         "downloadCount" : 719
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.25,20221028102958",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "6.2.25,20221029102950",
+      "versionDate" : "2022-10-29T23:34:06Z"
     },
     {
       "beta" : false,
@@ -60917,7 +60917,7 @@
       },
       "subtitle" : "4K 5K HD Wallpaper Application",
       "version" : "5.1.1",
-      "versionDate" : "2022-10-29T22:30:38Z"
+      "versionDate" : "2022-10-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62004,13 +62004,6 @@
       "title" : "New Release: Mem 0.39.0"
     },
     {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.24,20221027102956 to 6.2.25,20221028102958",
-      "date" : "2022-10-28T16:41:59Z",
-      "identifier" : "release-metasploit-6.2.25,20221028102958",
-      "title" : "New Release: Metasploit Framework 6.2.25,20221028102958"
-    },
-    {
       "appID" : "bibdesk",
       "caption" : "BibDesk updated from 1.8.13,6004 to 1.8.14,6036",
       "date" : "2022-10-28T17:34:17Z",
@@ -62478,6 +62471,13 @@
       "date" : "2022-10-29T22:30:39Z",
       "identifier" : "release-paper-5.1.1",
       "title" : "New Release: pap.er 5.1.1"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.25,20221028102958 to 6.2.25,20221029102950",
+      "date" : "2022-10-29T23:34:07Z",
+      "identifier" : "release-metasploit-6.2.25,20221029102950",
+      "title" : "New Release: Metasploit Framework 6.2.25,20221029102950"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

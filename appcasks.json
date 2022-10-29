@@ -15534,17 +15534,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "keepassxc",
-      "downloadURL" : "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.3/KeePassXC-2.7.3-x86_64.dmg",
+      "downloadURL" : "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.4/KeePassXC-2.7.4-x86_64.dmg",
       "homepage" : "https://keepassxc.org/",
       "localizedDescription" : "Password manager app",
       "name" : "KeePassXC",
-      "sha256" : "5a2dcc5c8e98e60634faa5f98592b6d34beac1ffce1f023ad8beaa83552ecb6b",
+      "sha256" : "dbc18aeee0a35190c8b59fd41db3dd27b264ca3055f373be466a325bca96e714",
       "stats" : {
         "downloadCount" : 4040
       },
       "subtitle" : "Password manager app",
-      "version" : "2.7.3",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.7.4",
+      "versionDate" : "2022-10-29T21:28:27Z"
     },
     {
       "beta" : false,
@@ -18579,17 +18579,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "meetingbar",
-      "downloadURL" : "https://github.com/leits/MeetingBar/releases/download/v4.2.0/MeetingBar.dmg",
+      "downloadURL" : "https://github.com/leits/MeetingBar/releases/download/v4.2.1/MeetingBar.dmg",
       "homepage" : "https://github.com/leits/MeetingBar",
       "localizedDescription" : "Shows the next meeting in the menu bar",
       "name" : "MeetingBar",
-      "sha256" : "ed200c9571dcf42470ddf26f34caad2480e7d38c94160a8cc6c6391ebe8359ea",
+      "sha256" : "d66f00fa1275f27fad53d6e272dfe0f30df242686cef75b840b6b9538e94a88b",
       "stats" : {
         "downloadCount" : 439
       },
       "subtitle" : "Shows the next meeting in the menu bar",
-      "version" : "4.2.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "4.2.1",
+      "versionDate" : "2022-10-29T21:28:27Z"
     },
     {
       "beta" : false,
@@ -61765,20 +61765,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "eloquent",
-      "caption" : "Eloquent 2.6.7 released",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-eloquent-2.6.7",
-      "title" : "New Release: Eloquent 2.6.7"
-    },
-    {
-      "appID" : "reflex",
-      "caption" : "Reflex 1.2 released",
-      "date" : "2022-10-28T00:05:42Z",
-      "identifier" : "release-reflex-1.2",
-      "title" : "New Release: Reflex 1.2"
-    },
-    {
       "appID" : "go-shiori",
       "caption" : "Shiori 1.5.3 released",
       "date" : "2022-10-28T00:05:42Z",
@@ -62463,6 +62449,20 @@
       "date" : "2022-10-29T19:27:13Z",
       "identifier" : "release-dbeaverultimate-22.2.0",
       "title" : "New Release: DBeaver Ultimate Edition 22.2.0"
+    },
+    {
+      "appID" : "keepassxc",
+      "caption" : "KeePassXC updated from 2.7.3 to 2.7.4",
+      "date" : "2022-10-29T21:28:28Z",
+      "identifier" : "release-keepassxc-2.7.4",
+      "title" : "New Release: KeePassXC 2.7.4"
+    },
+    {
+      "appID" : "meetingbar",
+      "caption" : "MeetingBar updated from 4.2.0 to 4.2.1",
+      "date" : "2022-10-29T21:28:28Z",
+      "identifier" : "release-meetingbar-4.2.1",
+      "title" : "New Release: MeetingBar 4.2.1"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

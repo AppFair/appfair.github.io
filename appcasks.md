@@ -808,7 +808,7 @@ tr:nth-child(even) {
 | [``1Password CLI``](https://developer.1password.com/docs/cli) | ``2.7.2`` | `4391` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Brave``](https://brave.com/) | ``1.45.116.0,145.116`` | `4377` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Notion``](https://www.notion.so/) | ``2.1.4`` | `4059` |  |  |  |  |  | `0` |  |
-| [``KeePassXC``](https://keepassxc.org/) | ``2.7.3`` | `4040` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
+| [``KeePassXC``](https://keepassxc.org/) | ``2.7.4`` | `4040` | `2022-10-29T21:28:27Z` |  |  |  |  | `0` |  |
 | [``AltTab``](https://github.com/lwouis/alt-tab-macos) | ``6.48.0`` | `4007` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Alfred``](https://www.alfredapp.com/) | ``5.0.3,2087`` | `4000` |  |  |  |  |  | `0` |  |
 | [``JetBrains Toolbox``](https://www.jetbrains.com/toolbox-app/) | ``1.26.4,1.26.4.13374`` | `4000` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1021,7 +1021,7 @@ tr:nth-child(even) {
 | [``CLion``](https://www.jetbrains.com/clion/) | ``2022.2.4,222.4345.21`` | `440` |  |  |  |  |  | `0` |  |
 | [``Grammarly``](https://www.grammarly.com/) | ``1.5.81`` | `440` |  |  |  |  |  | `0` |  |
 | [``iMazing``](https://imazing.com/) | ``2.16.2,16798`` | `440` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``MeetingBar``](https://github.com/leits/MeetingBar) | ``4.2.0`` | `439` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
+| [``MeetingBar``](https://github.com/leits/MeetingBar) | ``4.2.1`` | `439` | `2022-10-29T21:28:27Z` |  |  |  |  | `0` |  |
 | [``Tailscale``](https://tailscale.com/) | ``1.32.2`` | `439` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Burp Suite Community Edi…``](https://portswigger.net/burp/) | ``2022.9.5`` | `432` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``NetBeans IDE``](https://netbeans.apache.org/) | ``15`` | `430` |  |  |  |  |  | `0` |  |

@@ -1100,7 +1100,7 @@ tr:nth-child(even) {
 | [``LICEcap``](https://www.cockos.com/licecap/) | ``1.32`` | `294` |  |  |  |  |  | `0` |  |
 | [``Reactotron``](https://github.com/infinitered/reactotron) | ``2.17.1`` | `293` |  |  |  |  |  | `0` |  |
 | [``BlueStacks``](https://www.bluestacks.com/) | ``4.270.1.2803,c610c2d26a7…`` | `288` |  |  |  |  |  | `0` |  |
-| [``Netron``](https://github.com/lutzroeder/netron) | ``6.1.3`` | `286` | `2022-10-29T05:35:21Z` |  |  |  |  | `0` |  |
+| [``Netron``](https://github.com/lutzroeder/netron) | ``6.1.3`` | `286` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Google Earth Pro``](https://www.google.com/earth/) | ``7.3.6.9264`` | `283` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Yandex Music Unofficial``](https://yandex-music.juvs.dev/) | ``1.7.1`` | `280` |  |  |  |  |  | `0` |  |
 | [``Parallels Virtualization…``](https://www.parallels.com/products/desktop/download/) | ``18.0.2-53077`` | `278` |  |  |  |  |  | `0` |  |

@@ -1078,26 +1078,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "wezterm",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/wez/wezterm/releases/download/20220905-102802-7d4b8249/WezTerm-macos-20220905-102802-7d4b8249.zip",
-      "homepage" : "https://wezfurlong.org/wezterm/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wezterm/AppIcon.png",
-      "localizedDescription" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
-      "name" : "WezTerm",
-      "sha256" : "05642ce3e12f6a45789aa161670a09cb2ef344f453bb5ea0d8c57f2afa3bce2c",
-      "stats" : {
-        "downloadCount" : 731,
-        "impressionCount" : 836
-      },
-      "subtitle" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
-      "tintColor" : "293154",
-      "version" : "20220905-102802,7d4b8249"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tabby",
       "categories" : [
         "public.app-category.video"
@@ -4533,26 +4513,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "whatsyoursign",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://github.com/objective-see/WhatsYourSign/releases/download/v2.0.1/WhatsYourSign_2.0.1.zip",
-      "homepage" : "https://objective-see.com/products/whatsyoursign.html",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsyoursign/AppIcon.png",
-      "localizedDescription" : "Shows a files cryptographic signing information",
-      "name" : "What's Your Sign?",
-      "sha256" : "6e40562a2034b109bfc15fcb7b107d132396f420fe39abed49cc32338489ec29",
-      "stats" : {
-        "downloadCount" : 23,
-        "impressionCount" : 152
-      },
-      "subtitle" : "Shows a files cryptographic signing information",
-      "tintColor" : "3F4A65",
-      "version" : "2.0.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vk-messenger",
       "categories" : [
         "public.app-category.social-networking"
@@ -6183,23 +6143,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "x-mirage",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "http://dl.x-mirage.com/x-mirage.dmg",
-      "homepage" : "https://www.x-mirage.com/x-mirage/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-x-mirage/AppIcon.png",
-      "name" : "X-Mirage",
-      "stats" : {
-        "downloadCount" : 10,
-        "impressionCount" : 154
-      },
-      "tintColor" : "5D7281",
-      "version" : "3.0.2"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vpn-tracker-365",
       "categories" : [
         "public.app-category.business"
@@ -6580,26 +6523,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "xamarin-studio",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://dl.xamarin.com/MonoDevelop/Mac/XamarinStudio-6.3.0.864.dmg",
-      "homepage" : "https://www.visualstudio.com/vs/visual-studio-mac/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xamarin-studio/AppIcon.png",
-      "localizedDescription" : "IDE for mobile app development",
-      "name" : "Xamarin Studio",
-      "sha256" : "213c8aab25014f9656827fa24043a98a7dcf171d48708fe06bb328cead44640c",
-      "stats" : {
-        "downloadCount" : 8,
-        "impressionCount" : 204
-      },
-      "subtitle" : "IDE for mobile app development",
-      "tintColor" : "F5DEDC",
-      "version" : "6.3.0.864"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vine-server",
       "categories" : [
         "public.app-category.utilities"
@@ -6775,46 +6698,6 @@
       "subtitle" : "MySQL & MariaDB database client",
       "tintColor" : "C48823",
       "version" : "2022.70"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "wrike",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://dl.wrike.com/download/WrikeDesktopApp.v3.3.16.dmg",
-      "homepage" : "https://www.wrike.com/apps/mobile-and-desktop/desktop-app/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wrike/AppIcon.png",
-      "localizedDescription" : "Project management app",
-      "name" : "Wrike",
-      "sha256" : "7f925650a7d1d092022b23d78448f4e9c9e357467063cad27d957a2aa2c031a1",
-      "stats" : {
-        "downloadCount" : 7,
-        "impressionCount" : 203
-      },
-      "subtitle" : "Project management app",
-      "tintColor" : "04514F",
-      "version" : "3.3.16"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "wordservice",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://download.devontechnologies.com/download/freeware/wordservice/2.8.3/WordService.app.zip",
-      "homepage" : "https://www.devontechnologies.com/apps/freeware",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wordservice/AppIcon.png",
-      "localizedDescription" : "Tool that provides commands for working with selected text",
-      "name" : "WordService",
-      "sha256" : "35e553ec48d8dbae490142d184cd61396aed9a13e2c226580aba7683b1016d6e",
-      "stats" : {
-        "downloadCount" : 7,
-        "impressionCount" : 237
-      },
-      "subtitle" : "Tool that provides commands for working with selected text",
-      "tintColor" : "CFD1D2",
-      "version" : "2.8.3"
     },
     {
       "beta" : false,
@@ -7090,25 +6973,6 @@
       "subtitle" : "GUI for the git version control system",
       "tintColor" : "6F9D90",
       "version" : "1.0b16"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "wondershare-edrawmax",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://download.edrawsoft.com/edraw-max_full5380.dmg",
-      "homepage" : "https://www.edrawsoft.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wondershare-edrawmax/AppIcon.png",
-      "localizedDescription" : "Diagram software",
-      "name" : "EdrawMax",
-      "stats" : {
-        "downloadCount" : 6,
-        "impressionCount" : 232
-      },
-      "subtitle" : "Diagram software",
-      "tintColor" : "7CBCF9",
-      "version" : "12.0.2"
     },
     {
       "beta" : false,
@@ -11055,25 +10919,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "x2goclient",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://code.x2go.org/releases/X2GoClient_latest_macosx_10_13.dmg",
-      "homepage" : "https://wiki.x2go.org/doku.php",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-x2goclient/AppIcon.png",
-      "localizedDescription" : "Remote desktop software",
-      "name" : "X2Go Client",
-      "stats" : {
-        "downloadCount" : 281,
-        "impressionCount" : 51
-      },
-      "subtitle" : "Remote desktop software",
-      "tintColor" : "8994A4",
-      "version" : "4.1.2.2"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "ultimaker-cura",
       "categories" : [
 
@@ -13735,26 +13580,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "welly",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/clyang/welly/releases/download/3.2.0/Welly.v.3.2.0.zip",
-      "homepage" : "https://github.com/clyang/welly",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-welly/AppIcon.png",
-      "localizedDescription" : "BBS client",
-      "name" : "Welly",
-      "sha256" : "504219867e8ceb625d51fc25c7d3e7488db1eca4877a8734aca5bb9494d5f695",
-      "stats" : {
-        "downloadCount" : 9,
-        "impressionCount" : 63
-      },
-      "subtitle" : "BBS client",
-      "tintColor" : "AFBCCE",
-      "version" : "3.2.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vym",
       "categories" : [
 
@@ -14286,26 +14111,6 @@
       },
       "tintColor" : "84774E",
       "version" : "1.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "write",
-      "categories" : [
-
-      ],
-      "downloadURL" : "http://www.styluslabs.com/write/write300.dmg",
-      "homepage" : "http://www.styluslabs.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-write/AppIcon.png",
-      "localizedDescription" : "Word processor for handwriting",
-      "name" : "Write",
-      "sha256" : "036e75f00f47c3dc33cdddfe7b2449d5bcff696992389138467de1f9757b6c57",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 86
-      },
-      "subtitle" : "Word processor for handwriting",
-      "tintColor" : "515EB1",
-      "version" : "3.0.0"
     },
     {
       "beta" : false,
@@ -17085,7 +16890,7 @@
       },
       "subtitle" : "Google Chromium, sans integration with Google",
       "version" : "107.0.5304.88-1.1,1667030894",
-      "versionDate" : "2022-10-29T11:27:29Z"
+      "versionDate" : "2022-10-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17114,7 +16919,7 @@
       },
       "subtitle" : "Tool to show live information about the batteries in various devices",
       "version" : "3.9.10,873EDFCE",
-      "versionDate" : "2022-10-29T11:27:29Z"
+      "versionDate" : "2022-10-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17402,6 +17207,20 @@
       },
       "subtitle" : "Word processor",
       "version" : "16.66.22101101"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wezterm",
+      "downloadURL" : "https://github.com/wez/wezterm/releases/download/20220905-102802-7d4b8249/WezTerm-macos-20220905-102802-7d4b8249.zip",
+      "homepage" : "https://wezfurlong.org/wezterm/",
+      "localizedDescription" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
+      "name" : "WezTerm",
+      "sha256" : "05642ce3e12f6a45789aa161670a09cb2ef344f453bb5ea0d8c57f2afa3bce2c",
+      "stats" : {
+        "downloadCount" : 727
+      },
+      "subtitle" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
+      "version" : "20220905-102802,7d4b8249"
     },
     {
       "beta" : false,
@@ -19735,6 +19554,19 @@
       "subtitle" : "Virtual globe",
       "version" : "7.3.6.9264",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "x2goclient",
+      "downloadURL" : "https://code.x2go.org/releases/X2GoClient_latest_macosx_10_13.dmg",
+      "homepage" : "https://wiki.x2go.org/doku.php",
+      "localizedDescription" : "Remote desktop software",
+      "name" : "X2Go Client",
+      "stats" : {
+        "downloadCount" : 281
+      },
+      "subtitle" : "Remote desktop software",
+      "version" : "4.1.2.2"
     },
     {
       "beta" : false,
@@ -23229,7 +23061,7 @@
       },
       "subtitle" : "Media system",
       "version" : "10.8.6",
-      "versionDate" : "2022-10-29T11:27:29Z"
+      "versionDate" : "2022-10-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25339,23 +25171,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "webviewscreensaver",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/liquidx/webviewscreensaver/releases/download/v2.2.1/WebViewScreenSaver-2.2.1.zip",
-      "homepage" : "https://github.com/liquidx/webviewscreensaver",
-      "localizedDescription" : "Screen saver that displays web pages",
-      "name" : "WebViewScreenSaver",
-      "sha256" : "c2ad54d7dbe1a08d36d867ff21eb853bc083459d1b80ec78589ada5c8db86939",
-      "stats" : {
-        "downloadCount" : 73
-      },
-      "subtitle" : "Screen saver that displays web pages",
-      "version" : "2.2.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "0-ad",
       "downloadURL" : "https://releases.wildfiregames.com/0ad-0.0.26-alpha-osx64.dmg",
       "homepage" : "https://play0ad.com/",
@@ -25421,6 +25236,20 @@
       "subtitle" : "PDF compression tool",
       "version" : "4.3.3,642b",
       "versionDate" : "2022-10-18T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "webviewscreensaver",
+      "downloadURL" : "https://github.com/liquidx/webviewscreensaver/releases/download/v2.2.1/WebViewScreenSaver-2.2.1.zip",
+      "homepage" : "https://github.com/liquidx/webviewscreensaver",
+      "localizedDescription" : "Screen saver that displays web pages",
+      "name" : "WebViewScreenSaver",
+      "sha256" : "c2ad54d7dbe1a08d36d867ff21eb853bc083459d1b80ec78589ada5c8db86939",
+      "stats" : {
+        "downloadCount" : 73
+      },
+      "subtitle" : "Screen saver that displays web pages",
+      "version" : "2.2.1"
     },
     {
       "beta" : false,
@@ -26533,7 +26362,7 @@
       },
       "subtitle" : "Graphical Git client",
       "version" : "1.2.0",
-      "versionDate" : "2022-10-29T11:27:29Z"
+      "versionDate" : "2022-10-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27925,7 +27754,7 @@
       },
       "subtitle" : "Browser designed for modern work",
       "version" : "104.30.1.25571,90580da",
-      "versionDate" : "2022-10-29T11:27:29Z"
+      "versionDate" : "2022-10-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27955,22 +27784,6 @@
       "subtitle" : "CLI to create, run, and deploy Slack apps",
       "version" : "1.14.0",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "witch",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://manytricks.com/download/witch",
-      "homepage" : "https://manytricks.com/witch/",
-      "localizedDescription" : "Switch apps, windows, or tabs",
-      "name" : "Witch",
-      "stats" : {
-        "downloadCount" : 46
-      },
-      "subtitle" : "Switch apps, windows, or tabs",
-      "version" : "4.5.2,3534"
     },
     {
       "beta" : false,
@@ -28082,6 +27895,19 @@
       },
       "subtitle" : "Cross-platform GUI for youtube-dl made in Electron and node.js",
       "version" : "2.4.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "witch",
+      "downloadURL" : "https://manytricks.com/download/witch",
+      "homepage" : "https://manytricks.com/witch/",
+      "localizedDescription" : "Switch apps, windows, or tabs",
+      "name" : "Witch",
+      "stats" : {
+        "downloadCount" : 46
+      },
+      "subtitle" : "Switch apps, windows, or tabs",
+      "version" : "4.5.2,3534"
     },
     {
       "beta" : false,
@@ -31466,23 +31292,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "xamarin-android",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://dl.xamarin.com/MonoforAndroid/Mac/xamarin.android-13.0.0.0.pkg",
-      "homepage" : "https://www.xamarin.com/platform",
-      "localizedDescription" : "Gives .NET developers complete access to Android SDK's",
-      "name" : "Xamarin.Android",
-      "sha256" : "fcd2cf6b81f0a1d96422414ba50c16df870b3ae93912a253817d789d59b56c3e",
-      "stats" : {
-        "downloadCount" : 28
-      },
-      "subtitle" : "Gives .NET developers complete access to Android SDK's",
-      "version" : "13.0.0.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vcv-rack",
       "categories" : [
 
@@ -31677,6 +31486,20 @@
         "downloadCount" : 28
       },
       "version" : "4.7.0,2.12,20170929"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "xamarin-android",
+      "downloadURL" : "https://dl.xamarin.com/MonoforAndroid/Mac/xamarin.android-13.0.0.0.pkg",
+      "homepage" : "https://www.xamarin.com/platform",
+      "localizedDescription" : "Gives .NET developers complete access to Android SDK's",
+      "name" : "Xamarin.Android",
+      "sha256" : "fcd2cf6b81f0a1d96422414ba50c16df870b3ae93912a253817d789d59b56c3e",
+      "stats" : {
+        "downloadCount" : 28
+      },
+      "subtitle" : "Gives .NET developers complete access to Android SDK's",
+      "version" : "13.0.0.0"
     },
     {
       "beta" : false,
@@ -33737,20 +33560,17 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "xamarin-ios",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://dl.xamarin.com/MonoTouch/Mac/xamarin.ios-16.0.0.72.pkg",
-      "homepage" : "https://www.xamarin.com/platform",
-      "localizedDescription" : "Gives .NET developers complete access to iOS, watchOS, and tvOS SDK's",
-      "name" : "Xamarin.iOS",
-      "sha256" : "e077a472e0aa71611dfeaec3e6a8d64042823ea883dbd55b2b7b64bb034c0888",
+      "bundleIdentifier" : "whatsyoursign",
+      "downloadURL" : "https://github.com/objective-see/WhatsYourSign/releases/download/v2.0.1/WhatsYourSign_2.0.1.zip",
+      "homepage" : "https://objective-see.com/products/whatsyoursign.html",
+      "localizedDescription" : "Shows a files cryptographic signing information",
+      "name" : "What's Your Sign?",
+      "sha256" : "6e40562a2034b109bfc15fcb7b107d132396f420fe39abed49cc32338489ec29",
       "stats" : {
-        "downloadCount" : 21
+        "downloadCount" : 22
       },
-      "subtitle" : "Gives .NET developers complete access to iOS, watchOS, and tvOS SDK's",
-      "version" : "16.0.0.72"
+      "subtitle" : "Shows a files cryptographic signing information",
+      "version" : "2.0.1"
     },
     {
       "beta" : false,
@@ -34268,6 +34088,20 @@
       },
       "subtitle" : "Menu bar app that enables system-wide navigation using side mouse buttons",
       "version" : "1.1.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "xamarin-ios",
+      "downloadURL" : "https://dl.xamarin.com/MonoTouch/Mac/xamarin.ios-16.0.0.72.pkg",
+      "homepage" : "https://www.xamarin.com/platform",
+      "localizedDescription" : "Gives .NET developers complete access to iOS, watchOS, and tvOS SDK's",
+      "name" : "Xamarin.iOS",
+      "sha256" : "e077a472e0aa71611dfeaec3e6a8d64042823ea883dbd55b2b7b64bb034c0888",
+      "stats" : {
+        "downloadCount" : 21
+      },
+      "subtitle" : "Gives .NET developers complete access to iOS, watchOS, and tvOS SDK's",
+      "version" : "16.0.0.72"
     },
     {
       "beta" : false,
@@ -41139,6 +40973,17 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "x-mirage",
+      "downloadURL" : "http://dl.x-mirage.com/x-mirage.dmg",
+      "homepage" : "https://www.x-mirage.com/x-mirage/",
+      "name" : "X-Mirage",
+      "stats" : {
+        "downloadCount" : 10
+      },
+      "version" : "3.0.2"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "xprocheck",
       "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2022/10/xprocheck12.zip",
       "homepage" : "https://eclecticlight.co/consolation-t2m2-and-log-utilities/",
@@ -42227,20 +42072,17 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "xamarin-mac",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://dl.xamarin.com/XamarinforMac/Mac/xamarin.mac-8.12.0.2.pkg",
-      "homepage" : "https://www.xamarin.com/platform",
-      "localizedDescription" : "Gives C# and .NET developers access to Objective-C and Swift API's",
-      "name" : "Xamarin Mac",
-      "sha256" : "6b40010e9a7534929cd00b5cae4cbec883278c35918ec85e7d9c0fda70640080",
+      "bundleIdentifier" : "welly",
+      "downloadURL" : "https://github.com/clyang/welly/releases/download/3.2.0/Welly.v.3.2.0.zip",
+      "homepage" : "https://github.com/clyang/welly",
+      "localizedDescription" : "BBS client",
+      "name" : "Welly",
+      "sha256" : "504219867e8ceb625d51fc25c7d3e7488db1eca4877a8734aca5bb9494d5f695",
       "stats" : {
-        "downloadCount" : 8
+        "downloadCount" : 9
       },
-      "subtitle" : "Gives C# and .NET developers access to Objective-C and Swift API's",
-      "version" : "8.12.0.2"
+      "subtitle" : "BBS client",
+      "version" : "3.2.0"
     },
     {
       "beta" : false,
@@ -43593,6 +43435,34 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "xamarin-mac",
+      "downloadURL" : "https://dl.xamarin.com/XamarinforMac/Mac/xamarin.mac-8.12.0.2.pkg",
+      "homepage" : "https://www.xamarin.com/platform",
+      "localizedDescription" : "Gives C# and .NET developers access to Objective-C and Swift API's",
+      "name" : "Xamarin Mac",
+      "sha256" : "6b40010e9a7534929cd00b5cae4cbec883278c35918ec85e7d9c0fda70640080",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "subtitle" : "Gives C# and .NET developers access to Objective-C and Swift API's",
+      "version" : "8.12.0.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "xamarin-studio",
+      "downloadURL" : "https://dl.xamarin.com/MonoDevelop/Mac/XamarinStudio-6.3.0.864.dmg",
+      "homepage" : "https://www.visualstudio.com/vs/visual-studio-mac/",
+      "localizedDescription" : "IDE for mobile app development",
+      "name" : "Xamarin Studio",
+      "sha256" : "213c8aab25014f9656827fa24043a98a7dcf171d48708fe06bb328cead44640c",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "subtitle" : "IDE for mobile app development",
+      "version" : "6.3.0.864"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "webplotdigitizer",
       "categories" : [
 
@@ -44841,20 +44711,31 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "wings3d",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://downloads.sourceforge.net/wings/wings-2.2.9-macosx.dmg",
-      "homepage" : "http://www.wings3d.com/",
-      "localizedDescription" : "Advanced subdivision modeler",
-      "name" : "Wings 3D",
-      "sha256" : "3f500da89a2a6f7b9e8dcd483821b7d41121ad63cc5cec121db626bce516b9b6",
+      "bundleIdentifier" : "wordservice",
+      "downloadURL" : "https://download.devontechnologies.com/download/freeware/wordservice/2.8.3/WordService.app.zip",
+      "homepage" : "https://www.devontechnologies.com/apps/freeware",
+      "localizedDescription" : "Tool that provides commands for working with selected text",
+      "name" : "WordService",
+      "sha256" : "35e553ec48d8dbae490142d184cd61396aed9a13e2c226580aba7683b1016d6e",
       "stats" : {
-        "downloadCount" : 6
+        "downloadCount" : 7
       },
-      "subtitle" : "Advanced subdivision modeler",
-      "version" : "2.2.9"
+      "subtitle" : "Tool that provides commands for working with selected text",
+      "version" : "2.8.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wrike",
+      "downloadURL" : "https://dl.wrike.com/download/WrikeDesktopApp.v3.3.16.dmg",
+      "homepage" : "https://www.wrike.com/apps/mobile-and-desktop/desktop-app/",
+      "localizedDescription" : "Project management app",
+      "name" : "Wrike",
+      "sha256" : "7f925650a7d1d092022b23d78448f4e9c9e357467063cad27d957a2aa2c031a1",
+      "stats" : {
+        "downloadCount" : 7
+      },
+      "subtitle" : "Project management app",
+      "version" : "3.3.16"
     },
     {
       "beta" : false,
@@ -46353,6 +46234,33 @@
       },
       "subtitle" : "Combined Ukrainian keyboard layout with typographic symbols",
       "version" : "2.0.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wings3d",
+      "downloadURL" : "https://downloads.sourceforge.net/wings/wings-2.2.9-macosx.dmg",
+      "homepage" : "http://www.wings3d.com/",
+      "localizedDescription" : "Advanced subdivision modeler",
+      "name" : "Wings 3D",
+      "sha256" : "3f500da89a2a6f7b9e8dcd483821b7d41121ad63cc5cec121db626bce516b9b6",
+      "stats" : {
+        "downloadCount" : 6
+      },
+      "subtitle" : "Advanced subdivision modeler",
+      "version" : "2.2.9"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wondershare-edrawmax",
+      "downloadURL" : "https://download.edrawsoft.com/edraw-max_full5380.dmg",
+      "homepage" : "https://www.edrawsoft.com/",
+      "localizedDescription" : "Diagram software",
+      "name" : "EdrawMax",
+      "stats" : {
+        "downloadCount" : 6
+      },
+      "subtitle" : "Diagram software",
+      "version" : "12.0.2"
     },
     {
       "beta" : false,
@@ -50767,6 +50675,20 @@
       "subtitle" : "Sega Master System and Game Gear emulator",
       "version" : "1.3.6",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "write",
+      "downloadURL" : "http://www.styluslabs.com/write/write300.dmg",
+      "homepage" : "http://www.styluslabs.com/",
+      "localizedDescription" : "Word processor for handwriting",
+      "name" : "Write",
+      "sha256" : "036e75f00f47c3dc33cdddfe7b2449d5bcff696992389138467de1f9757b6c57",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Word processor for handwriting",
+      "version" : "3.0.0"
     },
     {
       "beta" : false,

@@ -1110,7 +1110,7 @@
       "sha256" : "6a22bc16e9f95d22d53fb297524ff3b8cf7c6a2c0eb10ff8bbed99a16cba650a",
       "stats" : {
         "downloadCount" : 672,
-        "impressionCount" : 1129
+        "impressionCount" : 1131
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
@@ -17075,17 +17075,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "eloston-chromium",
-      "downloadURL" : "https://github.com/kramred/ungoogled-chromium-macos/releases/download/107.0.5304.62-1.1_x86-64__1666811784/ungoogled-chromium_107.0.5304.62-1.1_x86-64-macos.dmg",
+      "downloadURL" : "https://github.com/kramred/ungoogled-chromium-macos/releases/download/107.0.5304.88-1.1_x86-64__1667030894/ungoogled-chromium_107.0.5304.88-1.1_x86-64-macos.dmg",
       "homepage" : "https://ungoogled-software.github.io/ungoogled-chromium-binaries/",
       "localizedDescription" : "Google Chromium, sans integration with Google",
       "name" : "Ungoogled Chromium",
-      "sha256" : "a40987c86d24c19d6cafae7c38322903e64b19f6d2a4854135c55c68865bb069",
+      "sha256" : "25ca9c6b74a41a22ed94880011e3b8cae9fcf9b5f6fa13ca8f5d6c1dd2fd9a0e",
       "stats" : {
         "downloadCount" : 885
       },
       "subtitle" : "Google Chromium, sans integration with Google",
-      "version" : "107.0.5304.62-1.1,1666811784",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "107.0.5304.88-1.1,1667030894",
+      "versionDate" : "2022-10-29T11:27:29Z"
     },
     {
       "beta" : false,
@@ -17104,17 +17104,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "coconutbattery",
-      "downloadURL" : "https://www.coconut-flavour.com/downloads/coconutBattery_3910_EEF7C219.zip",
+      "downloadURL" : "https://www.coconut-flavour.com/downloads/coconutBattery_3910_873EDFCE.zip",
       "homepage" : "https://www.coconut-flavour.com/coconutbattery/",
       "localizedDescription" : "Tool to show live information about the batteries in various devices",
       "name" : "coconutBattery",
-      "sha256" : "97cb0bafb0f73bafc08b02419403938b33a5077f64028a6ca52dcdc9607ab692",
+      "sha256" : "39de0a49fddc7b75de8e57388081627744c465f48909df5c768e409a162520ce",
       "stats" : {
         "downloadCount" : 866
       },
       "subtitle" : "Tool to show live information about the batteries in various devices",
-      "version" : "3.9.10,EEF7C219",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "3.9.10,873EDFCE",
+      "versionDate" : "2022-10-29T11:27:29Z"
     },
     {
       "beta" : false,
@@ -23219,16 +23219,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "jellyfin",
-      "downloadURL" : "https://repo.jellyfin.org/releases/server/macos/stable/installer/jellyfin_10.8.5.dmg",
+      "downloadURL" : "https://repo.jellyfin.org/releases/server/macos/stable/installer/jellyfin_10.8.6.dmg",
       "homepage" : "https://jellyfin.org/",
       "localizedDescription" : "Media system",
       "name" : "Jellyfin",
-      "sha256" : "2d486580d01773bf71192d47d14726ccb51a1da55029fd6a44ef9c7ef09b88fa",
+      "sha256" : "e9cfc8240059658e7154884685139234e3194da70bc9694a5d68b73aa81e0aec",
       "stats" : {
         "downloadCount" : 112
       },
       "subtitle" : "Media system",
-      "version" : "10.8.5"
+      "version" : "10.8.6",
+      "versionDate" : "2022-10-29T11:27:29Z"
     },
     {
       "beta" : false,
@@ -26522,7 +26523,7 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gittyup",
-      "downloadURL" : "https://github.com/Murmele/Gittyup/releases/download/stable/Gittyup-1.2.0.1.dmg",
+      "downloadURL" : "https://github.com/Murmele/Gittyup/releases/download/gittyup_v1.2.0/Gittyup-1.2.0.dmg",
       "homepage" : "https://murmele.github.io/Gittyup/",
       "localizedDescription" : "Graphical Git client",
       "name" : "gittyup",
@@ -26531,8 +26532,8 @@
         "downloadCount" : 59
       },
       "subtitle" : "Graphical Git client",
-      "version" : "1.2.0.1",
-      "versionDate" : "2022-10-29T00:00:00Z"
+      "version" : "1.2.0",
+      "versionDate" : "2022-10-29T11:27:29Z"
     },
     {
       "beta" : false,
@@ -27914,16 +27915,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "pushplaylabs-sidekick",
-      "downloadURL" : "https://fast-cdn.meetsidekick.com/builds/sidekick-mac-release-x64-104.29.3.25042-42c9702-df.dmg",
+      "downloadURL" : "https://fast-cdn.meetsidekick.com/builds/sidekick-mac-release-x64-104.30.1.25571-90580da-df.dmg",
       "homepage" : "https://www.meetsidekick.com/",
       "localizedDescription" : "Browser designed for modern work",
       "name" : "Sidekick",
-      "sha256" : "f4ac4fcac47f244f0832fd72a35b278106c210b08554023e0889eba33fc3e9c1",
+      "sha256" : "81127b87f19506356070f7a17fb6aeeed8920cfe1670a7e6b4ea00bec3e57967",
       "stats" : {
         "downloadCount" : 47
       },
       "subtitle" : "Browser designed for modern work",
-      "version" : "104.29.3.25042,42c9702"
+      "version" : "104.30.1.25571,90580da",
+      "versionDate" : "2022-10-29T11:27:29Z"
     },
     {
       "beta" : false,
@@ -61733,27 +61735,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "86box",
-      "caption" : "86Box 3.7.1,4032 released",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-86box-3.7.1,4032",
-      "title" : "New Release: 86Box 3.7.1,4032"
-    },
-    {
-      "appID" : "color-studio",
-      "caption" : "Color Studio 1.0.4 released",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-color-studio-1.0.4",
-      "title" : "New Release: Color Studio 1.0.4"
-    },
-    {
-      "appID" : "ares",
-      "caption" : "ares 130.1 released",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-ares-130.1",
-      "title" : "New Release: ares 130.1"
-    },
-    {
       "appID" : "hookmark",
       "caption" : "Hook 4.0,2022.10 released",
       "date" : "2022-10-28T00:05:41Z",
@@ -61941,13 +61922,6 @@
       "date" : "2022-10-28T08:43:40Z",
       "identifier" : "release-mission-control-plus-1.21",
       "title" : "New Release: Mission Control Plus 1.21"
-    },
-    {
-      "appID" : "eloston-chromium",
-      "caption" : "Ungoogled Chromium updated from 106.0.5249.119-1.1,1665644053 to 107.0.5304.62-1.1,1666811784",
-      "date" : "2022-10-28T10:35:43Z",
-      "identifier" : "release-eloston-chromium-107.0.5304.62-1.1,1666811784",
-      "title" : "New Release: Ungoogled Chromium 107.0.5304.62-1.1,1666811784"
     },
     {
       "appID" : "protonvpn",
@@ -62356,13 +62330,6 @@
       "title" : "New Release: NoSQLBooster for MongoDB 7.1.14"
     },
     {
-      "appID" : "gittyup",
-      "caption" : "gittyup updated from 1.1.2 to 1.2.0.1",
-      "date" : "2022-10-29T04:06:12Z",
-      "identifier" : "release-gittyup-1.2.0.1",
-      "title" : "New Release: gittyup 1.2.0.1"
-    },
-    {
       "appID" : "busycal",
       "caption" : "BusyCal updated from 2022.4.4,2022-10-28-22-58 to 2022.4.4,2022-10-29-03-50",
       "date" : "2022-10-29T04:06:13Z",
@@ -62431,6 +62398,41 @@
       "date" : "2022-10-29T05:35:22Z",
       "identifier" : "release-netron-6.1.3",
       "title" : "New Release: Netron 6.1.3"
+    },
+    {
+      "appID" : "eloston-chromium",
+      "caption" : "Ungoogled Chromium updated from 107.0.5304.62-1.1,1666811784 to 107.0.5304.88-1.1,1667030894",
+      "date" : "2022-10-29T11:27:30Z",
+      "identifier" : "release-eloston-chromium-107.0.5304.88-1.1,1667030894",
+      "title" : "New Release: Ungoogled Chromium 107.0.5304.88-1.1,1667030894"
+    },
+    {
+      "appID" : "coconutbattery",
+      "caption" : "coconutBattery updated from 3.9.10,EEF7C219 to 3.9.10,873EDFCE",
+      "date" : "2022-10-29T11:27:30Z",
+      "identifier" : "release-coconutbattery-3.9.10,873EDFCE",
+      "title" : "New Release: coconutBattery 3.9.10,873EDFCE"
+    },
+    {
+      "appID" : "jellyfin",
+      "caption" : "Jellyfin updated from 10.8.5 to 10.8.6",
+      "date" : "2022-10-29T11:27:30Z",
+      "identifier" : "release-jellyfin-10.8.6",
+      "title" : "New Release: Jellyfin 10.8.6"
+    },
+    {
+      "appID" : "gittyup",
+      "caption" : "gittyup updated from 1.2.0.1 to 1.2.0",
+      "date" : "2022-10-29T11:27:31Z",
+      "identifier" : "release-gittyup-1.2.0",
+      "title" : "New Release: gittyup 1.2.0"
+    },
+    {
+      "appID" : "pushplaylabs-sidekick",
+      "caption" : "Sidekick updated from 104.29.3.25042,42c9702 to 104.30.1.25571,90580da",
+      "date" : "2022-10-29T11:27:31Z",
+      "identifier" : "release-pushplaylabs-sidekick-104.30.1.25571,90580da",
+      "title" : "New Release: Sidekick 104.30.1.25571,90580da"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2409,
-        "impressionCount" : 11386,
+        "impressionCount" : 11388,
         "viewCount" : 1285
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8259,
-        "impressionCount" : 8906,
+        "impressionCount" : 8908,
         "viewCount" : 761
       },
       "subtitle" : "Multimedia player",
@@ -82,7 +82,7 @@
       ],
       "stats" : {
         "downloadCount" : 8452,
-        "impressionCount" : 9428,
+        "impressionCount" : 9430,
         "viewCount" : 711
       },
       "subtitle" : "Music streaming service",
@@ -111,7 +111,7 @@
       "sha256" : "73d87cc323dd24bcc14e482f896a91f09c24b321244d9d2796a3315ae092fd35",
       "stats" : {
         "downloadCount" : 3455,
-        "impressionCount" : 9815,
+        "impressionCount" : 9817,
         "viewCount" : 642
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -139,7 +139,7 @@
       ],
       "stats" : {
         "downloadCount" : 2584,
-        "impressionCount" : 7587,
+        "impressionCount" : 7589,
         "viewCount" : 463
       },
       "subtitle" : "Video game digital distribution service",
@@ -169,7 +169,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 236,
-        "impressionCount" : 5883,
+        "impressionCount" : 5885,
         "viewCount" : 476
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -195,7 +195,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 214,
-        "impressionCount" : 5050,
+        "impressionCount" : 5051,
         "viewCount" : 375
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -222,7 +222,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 130,
-        "impressionCount" : 4123,
+        "impressionCount" : 4124,
         "viewCount" : 355
       },
       "subtitle" : "File synchronizer",
@@ -256,7 +256,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 4076,
+        "impressionCount" : 4077,
         "viewCount" : 334
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -289,7 +289,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 4200,
+        "impressionCount" : 4202,
         "viewCount" : 344
       },
       "subtitle" : "Create DMGs and other archives",
@@ -311,7 +311,7 @@
       "sha256" : "3dda93337f730db11d413e45356a66ebe3b65a381986017fadcbf6459a568f65",
       "stats" : {
         "downloadCount" : 8233,
-        "impressionCount" : 3709,
+        "impressionCount" : 3711,
         "viewCount" : 273
       },
       "subtitle" : "Team communication and collaboration software",
@@ -334,7 +334,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5853,
-        "impressionCount" : 2577,
+        "impressionCount" : 2578,
         "viewCount" : 130
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -356,7 +356,7 @@
       "sha256" : "70e7f2d71bbb01c08bc5194ceee69fa55f4f53fbc0a106da0df8f630cd6ba763",
       "stats" : {
         "downloadCount" : 5239,
-        "impressionCount" : 5679,
+        "impressionCount" : 5682,
         "viewCount" : 569
       },
       "subtitle" : "System monitor for the menu bar",
@@ -379,7 +379,7 @@
       "sha256" : "ebcd964f791b59734559ba3859cd58ba354d36d51d59f13fda710197f057355b",
       "stats" : {
         "downloadCount" : 3259,
-        "impressionCount" : 2263,
+        "impressionCount" : 2264,
         "viewCount" : 135
       },
       "subtitle" : "Network protocol analyzer",
@@ -402,7 +402,7 @@
       "sha256" : "7a273bd1e9e1d414b24086401956c871104d679070d9c7061b397dc60377976b",
       "stats" : {
         "downloadCount" : 2554,
-        "impressionCount" : 2565,
+        "impressionCount" : 2567,
         "viewCount" : 192
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -424,7 +424,7 @@
       "sha256" : "550e3639c2eb59bf01b0555398dd80b7919f6b711ae3e6474424a2f8be8bcfbd",
       "stats" : {
         "downloadCount" : 2448,
-        "impressionCount" : 3576,
+        "impressionCount" : 3577,
         "viewCount" : 161
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -494,7 +494,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1665,
-        "impressionCount" : 3547
+        "impressionCount" : 3549
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -554,7 +554,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1573,
-        "impressionCount" : 3712
+        "impressionCount" : 3713
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -1252,7 +1252,7 @@
       "name" : "WeChat for Mac",
       "stats" : {
         "downloadCount" : 429,
-        "impressionCount" : 882
+        "impressionCount" : 884
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
@@ -2438,7 +2438,7 @@
       "sha256" : "eb89ce8c455553f1504c8be12bbbbdf8af2e6dcbceb73455a1cc967aad6f61c0",
       "stats" : {
         "downloadCount" : 88,
-        "impressionCount" : 395
+        "impressionCount" : 396
       },
       "subtitle" : "Git client",
       "tintColor" : "DADAE7",
@@ -13082,7 +13082,7 @@
       "sha256" : "15defd6407c1285860f02497544ce7aae38b6eecf3b4afce50b3154bf6bcc7b1",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 45
+        "impressionCount" : 46
       },
       "subtitle" : "3D without boundaries",
       "tintColor" : "BAB7B8",

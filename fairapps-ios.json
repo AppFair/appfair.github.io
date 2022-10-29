@@ -820,7 +820,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256" : "022e9df7cff5a1b49b72be64061d2b25ca989025f9e3aa31a0087704ea97cd32",
+      "sha256" : "25714a4400e037af36ca817310c4e2d0eee18d5b3e3fa5e0d5125e1afa8f4a14",
       "size" : 11247669,
       "stats" : {
         "coreSize" : 168592,
@@ -1219,7 +1219,7 @@
       "homepage" : "http://Sun-Bow.appfair.net",
       "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
       "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#46d26d99215fc30c6019d1e760a2b247c2be0a2e74dce7f557f0c9fd6c50aaff",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
       "name" : "Sun Bow",
       "permissions" : [
         {

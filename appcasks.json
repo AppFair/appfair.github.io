@@ -1256,7 +1256,8 @@
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
-      "version" : "3.5.5.19,23551"
+      "version" : "3.6.0.17,24160",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -16518,7 +16519,7 @@
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "version" : "3.936,2101",
-      "versionDate" : "2022-10-29T02:22:59Z"
+      "versionDate" : "2022-10-29T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22963,16 +22964,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "nosqlbooster-for-mongodb",
-      "downloadURL" : "https://s3.mongobooster.com/download/releasesv7/nosqlbooster4mongo-7.1.13.dmg",
+      "downloadURL" : "https://s3.mongobooster.com/download/releasesv7/nosqlbooster4mongo-7.1.14.dmg",
       "homepage" : "https://nosqlbooster.com/",
       "localizedDescription" : "GUI tool and IDE for MongoDB",
       "name" : "NoSQLBooster for MongoDB",
-      "sha256" : "db7be928dec53b51421f4f62192983f5af7282f9673ba199340a71bb657bb0d7",
+      "sha256" : "3ef8dc436ad8f28c90c19dfe31054632b2d1249b1c4cbaeed25d1c1b3b1f6630",
       "stats" : {
         "downloadCount" : 117
       },
       "subtitle" : "GUI tool and IDE for MongoDB",
-      "version" : "7.1.13"
+      "version" : "7.1.14",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -26520,16 +26522,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gittyup",
-      "downloadURL" : "https://github.com/Murmele/Gittyup/releases/download/stable/Gittyup-1.1.2.dmg",
+      "downloadURL" : "https://github.com/Murmele/Gittyup/releases/download/stable/Gittyup-1.2.0.1.dmg",
       "homepage" : "https://murmele.github.io/Gittyup/",
       "localizedDescription" : "Graphical Git client",
       "name" : "gittyup",
-      "sha256" : "eeaead8c6cc16867c7e16e476a8d401736839bd84801665473ccb6a35e5462f7",
+      "sha256" : "9e6c25f9d24e642c8f15794745ae4f04cf24cfcaf57c2a7dfed97093e4ccdd1d",
       "stats" : {
         "downloadCount" : 59
       },
       "subtitle" : "Graphical Git client",
-      "version" : "1.1.2"
+      "version" : "1.2.0.1",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -29026,17 +29029,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "busycal",
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-10-28-22-58.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-10-29-03-50.zip",
       "homepage" : "https://busymac.com/busycal/index.html",
       "localizedDescription" : "Calendar software focusing on flexibility and reliability",
       "name" : "BusyCal",
-      "sha256" : "d07dc19b96493b83293bf8cf55cf50dd5fc9b6bc478afbd0f143d8bdb69ad6ea",
+      "sha256" : "30a6a0549615a913844235ac5944c973158c0d12a4dd699b8aa5d3a31191942a",
       "stats" : {
         "downloadCount" : 39
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
-      "version" : "2022.4.4,2022-10-28-22-58",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2022.4.4,2022-10-29-03-50",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -30093,17 +30096,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "remnote",
-      "downloadURL" : "https://download.remnote.io/RemNote-1.8.48.dmg",
+      "downloadURL" : "https://download.remnote.io/RemNote-1.8.49.dmg",
       "homepage" : "https://www.remnote.com/",
       "localizedDescription" : "Spaced-repetition powered note-taking tool",
       "name" : "RemNote",
-      "sha256" : "36ee64f2936f59ad71df1310f7ed2e3ff1fb8bc88d1832c8043184ff0c370711",
+      "sha256" : "90dd2ab61b454ca4a420f3b60f3038e64dd6dc26e086f5fc026f9aad41bc7295",
       "stats" : {
         "downloadCount" : 35
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
-      "version" : "1.8.48",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.8.49",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -31066,16 +31069,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "extraterm",
-      "downloadURL" : "https://github.com/sedwards2009/extraterm/releases/download/v0.66.0/extratermqt-0.66.0-darwin-x64.zip",
+      "downloadURL" : "https://github.com/sedwards2009/extraterm/releases/download/v0.67.0/ExtratermQt_0.67.0.dmg",
       "homepage" : "https://extraterm.org/",
       "localizedDescription" : "Swiss army chainsaw of terminal emulators",
       "name" : "extraterm",
-      "sha256" : "b0ef8d5881a74366719af2b2fdfe178326b039748b3c7bed9d0c1bcf803d6902",
+      "sha256" : "6968aa2f656257ae0af9973abd3b5bbc5274596ab7b2f47e15af6efcd07a6101",
       "stats" : {
         "downloadCount" : 30
       },
       "subtitle" : "Swiss army chainsaw of terminal emulators",
-      "version" : "0.66.0"
+      "version" : "0.67.0",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -31538,16 +31542,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "bluejeans",
-      "downloadURL" : "https://swdl.bluejeans.com/desktop-app/mac/2.38.0/2.38.0.337/BlueJeansInstaller.pkg",
+      "downloadURL" : "https://swdl.bluejeans.com/desktop-app/mac/2.39.0/2.39.0.194/BlueJeansInstaller.pkg",
       "homepage" : "https://www.bluejeans.com/",
       "localizedDescription" : "Video conferencing for the digital workplace",
       "name" : "BlueJeans",
-      "sha256" : "cf3ba9e4a091ff5bf53170bb384cd10b0b316d351ea01fccb6906d512a7b936e",
+      "sha256" : "c852637158676199c0ae201cd52c6eb9f53cee96a3851c0a1ea390a32233416b",
       "stats" : {
         "downloadCount" : 28
       },
       "subtitle" : "Video conferencing for the digital workplace",
-      "version" : "2.38.0.337"
+      "version" : "2.39.0.194",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -39266,17 +39271,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "busycontacts",
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bct-2022.4.2-2022-10-18-00-43.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bct-2022.4.2-2022-10-29-03-33.zip",
       "homepage" : "https://www.busymac.com/busycontacts/index.html",
       "localizedDescription" : "Contact manager focusing on efficiency",
       "name" : "BusyContacts",
-      "sha256" : "0b22a31437a614a8fe70626e089407b81d4a61d14d2e9412aada33a5c9e8c142",
+      "sha256" : "2d277c3af43893c694cf269c6e52a0f5b94d67b32680485ad44a97a1c500dc05",
       "stats" : {
         "downloadCount" : 11
       },
       "subtitle" : "Contact manager focusing on efficiency",
-      "version" : "2022.4.2,2022-10-18-00-43",
-      "versionDate" : "2022-10-18T00:00:00Z"
+      "version" : "2022.4.2,2022-10-29-03-33",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -45399,8 +45404,8 @@
         "downloadCount" : 6
       },
       "subtitle" : "Cloud communication platform",
-      "version" : "21.3.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "22.0.1",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -51020,16 +51025,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "atlantis",
-      "downloadURL" : "https://www.riverdark.net/atlantis/downloads/Atlantis-0.9.9.7.zip",
+      "downloadURL" : "https://www.riverdark.net/atlantis/downloads/Atlantis-0.9.9.8.zip",
       "homepage" : "https://www.riverdark.net/atlantis/",
       "localizedDescription" : "MUD (Multi User Dungeon) client",
       "name" : "Atlantis",
-      "sha256" : "64a5066991c50c32426e539d10b4bc89db5af435bd86fedf7938d4a19907fe76",
+      "sha256" : "bdd3f69c3ac2071757f31fec0d7a18c45539018e85b6dbb4babbdc8ecfcddc33",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "MUD (Multi User Dungeon) client",
-      "version" : "0.9.9.7"
+      "version" : "0.9.9.8",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -53342,6 +53348,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "anytype",
+      "downloadURL" : "https://at9412003.fra1.cdn.digitaloceanspaces.com/Anytype-0.29.1-mac-x64.dmg",
+      "homepage" : "https://anytype.io/",
+      "localizedDescription" : "Local-first and end-to-end encrypted notes app",
+      "name" : "Anytype",
+      "sha256" : "82d6415c43da20141e47996633f12ba4cbc831e5e907e14a1dbccec6fd89a517",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "subtitle" : "Local-first and end-to-end encrypted notes app",
+      "version" : "0.29.1",
+      "versionDate" : "2022-10-29T04:06:11Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "appstore-quickview",
       "downloadURL" : "https://www.marcmoini.com/App...StoreQuickview.zip",
       "homepage" : "https://www.marcmoini.com/aq_en.html",
@@ -55152,16 +55173,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "nuclino",
-      "downloadURL" : "https://s3.eu-central-1.amazonaws.com/repository.nuclino.com/mac/Nuclino-1.6.1.dmg",
+      "downloadURL" : "https://s3.eu-central-1.amazonaws.com/repository.nuclino.com/mac/Nuclino-1.6.2-x64.dmg",
       "homepage" : "https://www.nuclino.com/",
       "localizedDescription" : "Collaborative wiki and knowledgebase",
       "name" : "Nuclino",
-      "sha256" : "2dabaed5c4d201d389f6f96d4833fbb6d0f8b07758a7cb5d3a2fc4ac4c98e5b7",
+      "sha256" : "ecefabc96a645d5d559cd97b77a966a7c4fb7d64b3e12b0e3380aa6431f3a10c",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Collaborative wiki and knowledgebase",
-      "version" : "1.6.1"
+      "version" : "1.6.2",
+      "versionDate" : "2022-10-29T04:06:11Z"
     },
     {
       "beta" : false,
@@ -61711,76 +61733,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "weakauras-companion",
-      "caption" : "WeakAuras Companion updated from 4.0.8 to 4.0.9",
-      "date" : "2022-10-28T00:05:40Z",
-      "identifier" : "release-weakauras-companion-4.0.9",
-      "title" : "New Release: WeakAuras Companion 4.0.9"
-    },
-    {
-      "appID" : "bome-network",
-      "caption" : "Bome Network updated from 1.4.2 to 1.5.0",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-bome-network-1.5.0",
-      "title" : "New Release: Bome Network 1.5.0"
-    },
-    {
-      "appID" : "detail",
-      "caption" : "Detail updated from 3.4.1 to 3.4.3",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-detail-3.4.3",
-      "title" : "New Release: Detail 3.4.3"
-    },
-    {
-      "appID" : "letter-opener",
-      "caption" : "Letter Opener updated from 14.1.3 to 15.0.0",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-letter-opener-15.0.0",
-      "title" : "New Release: Letter Opener 15.0.0"
-    },
-    {
-      "appID" : "lrtimelapse",
-      "caption" : "LRTimelapse updated from 6.1.2 to 6.2.0",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-lrtimelapse-6.2.0",
-      "title" : "New Release: LRTimelapse 6.2.0"
-    },
-    {
-      "appID" : "mixed-in-key-live",
-      "caption" : "Mixed In Key Live updated from 10.0.1.244 to 10.0.1.248",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-mixed-in-key-live-10.0.1.248",
-      "title" : "New Release: Mixed In Key Live 10.0.1.248"
-    },
-    {
-      "appID" : "netxms-console",
-      "caption" : "NetXMS Management Console updated from 4.1.420 to 4.2.395",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-netxms-console-4.2.395",
-      "title" : "New Release: NetXMS Management Console 4.2.395"
-    },
-    {
-      "appID" : "output-factory",
-      "caption" : "Output Factory updated from 2.4.83 to 2.4.84",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-output-factory-2.4.84",
-      "title" : "New Release: Output Factory 2.4.84"
-    },
-    {
-      "appID" : "fleet",
-      "caption" : "Fleet 1.9.237 released",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-fleet-1.9.237",
-      "title" : "New Release: Fleet 1.9.237"
-    },
-    {
-      "appID" : "prismlauncher",
-      "caption" : "Prism Launcher 5.0 released",
-      "date" : "2022-10-28T00:05:41Z",
-      "identifier" : "release-prismlauncher-5.0",
-      "title" : "New Release: Prism Launcher 5.0"
-    },
-    {
       "appID" : "slack-cli",
       "caption" : "Slack CLI 1.14.0 released",
       "date" : "2022-10-28T00:05:41Z",
@@ -62257,25 +62209,11 @@
       "title" : "New Release: Camtasia 2022.4.1"
     },
     {
-      "appID" : "busycal",
-      "caption" : "BusyCal updated from 2022.4.4,2022-10-28-04-10 to 2022.4.4,2022-10-28-22-58",
-      "date" : "2022-10-28T23:37:29Z",
-      "identifier" : "release-busycal-2022.4.4,2022-10-28-22-58",
-      "title" : "New Release: BusyCal 2022.4.4,2022-10-28-22-58"
-    },
-    {
       "appID" : "bettermouse",
       "caption" : "BetterMouse updated from 1.4.2565 to 1.4.2621",
       "date" : "2022-10-28T23:37:29Z",
       "identifier" : "release-bettermouse-1.4.2621",
       "title" : "New Release: BetterMouse 1.4.2621"
-    },
-    {
-      "appID" : "remnote",
-      "caption" : "RemNote updated from 1.8.46 to 1.8.48",
-      "date" : "2022-10-28T23:37:30Z",
-      "identifier" : "release-remnote-1.8.48",
-      "title" : "New Release: RemNote 1.8.48"
     },
     {
       "appID" : "popsql",
@@ -62409,6 +62347,90 @@
       "date" : "2022-10-29T02:23:00Z",
       "identifier" : "release-bettertouchtool-3.936,2101",
       "title" : "New Release: BetterTouchTool 3.936,2101"
+    },
+    {
+      "appID" : "wechat",
+      "caption" : "WeChat for Mac updated from 3.5.5.19,23551 to 3.6.0.17,24160",
+      "date" : "2022-10-29T04:06:12Z",
+      "identifier" : "release-wechat-3.6.0.17,24160",
+      "title" : "New Release: WeChat for Mac 3.6.0.17,24160"
+    },
+    {
+      "appID" : "nosqlbooster-for-mongodb",
+      "caption" : "NoSQLBooster for MongoDB updated from 7.1.13 to 7.1.14",
+      "date" : "2022-10-29T04:06:12Z",
+      "identifier" : "release-nosqlbooster-for-mongodb-7.1.14",
+      "title" : "New Release: NoSQLBooster for MongoDB 7.1.14"
+    },
+    {
+      "appID" : "gittyup",
+      "caption" : "gittyup updated from 1.1.2 to 1.2.0.1",
+      "date" : "2022-10-29T04:06:12Z",
+      "identifier" : "release-gittyup-1.2.0.1",
+      "title" : "New Release: gittyup 1.2.0.1"
+    },
+    {
+      "appID" : "busycal",
+      "caption" : "BusyCal updated from 2022.4.4,2022-10-28-22-58 to 2022.4.4,2022-10-29-03-50",
+      "date" : "2022-10-29T04:06:13Z",
+      "identifier" : "release-busycal-2022.4.4,2022-10-29-03-50",
+      "title" : "New Release: BusyCal 2022.4.4,2022-10-29-03-50"
+    },
+    {
+      "appID" : "remnote",
+      "caption" : "RemNote updated from 1.8.48 to 1.8.49",
+      "date" : "2022-10-29T04:06:13Z",
+      "identifier" : "release-remnote-1.8.49",
+      "title" : "New Release: RemNote 1.8.49"
+    },
+    {
+      "appID" : "extraterm",
+      "caption" : "extraterm updated from 0.66.0 to 0.67.0",
+      "date" : "2022-10-29T04:06:13Z",
+      "identifier" : "release-extraterm-0.67.0",
+      "title" : "New Release: extraterm 0.67.0"
+    },
+    {
+      "appID" : "bluejeans",
+      "caption" : "BlueJeans updated from 2.38.0.337 to 2.39.0.194",
+      "date" : "2022-10-29T04:06:13Z",
+      "identifier" : "release-bluejeans-2.39.0.194",
+      "title" : "New Release: BlueJeans 2.39.0.194"
+    },
+    {
+      "appID" : "busycontacts",
+      "caption" : "BusyContacts updated from 2022.4.2,2022-10-18-00-43 to 2022.4.2,2022-10-29-03-33",
+      "date" : "2022-10-29T04:06:13Z",
+      "identifier" : "release-busycontacts-2022.4.2,2022-10-29-03-33",
+      "title" : "New Release: BusyContacts 2022.4.2,2022-10-29-03-33"
+    },
+    {
+      "appID" : "dialpad",
+      "caption" : "Dialpad updated from 21.3.0 to 22.0.1",
+      "date" : "2022-10-29T04:06:14Z",
+      "identifier" : "release-dialpad-22.0.1",
+      "title" : "New Release: Dialpad 22.0.1"
+    },
+    {
+      "appID" : "atlantis",
+      "caption" : "Atlantis updated from 0.9.9.7 to 0.9.9.8",
+      "date" : "2022-10-29T04:06:14Z",
+      "identifier" : "release-atlantis-0.9.9.8",
+      "title" : "New Release: Atlantis 0.9.9.8"
+    },
+    {
+      "appID" : "nuclino",
+      "caption" : "Nuclino updated from 1.6.1 to 1.6.2",
+      "date" : "2022-10-29T04:06:14Z",
+      "identifier" : "release-nuclino-1.6.2",
+      "title" : "New Release: Nuclino 1.6.2"
+    },
+    {
+      "appID" : "anytype",
+      "caption" : "Anytype 0.29.1 released",
+      "date" : "2022-10-29T04:06:14Z",
+      "identifier" : "release-anytype-0.29.1",
+      "title" : "New Release: Anytype 0.29.1"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

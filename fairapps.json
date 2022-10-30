@@ -254,7 +254,7 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-mac-1228x916.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-mac-1574x1294.png"
       ],
-      "sha256" : "f4d042d1dda4a1dc2eb63c650a88182490aa001b3538ea81a0658d3834073ed6",
+      "sha256" : "a7fc1cb1e2d4cfa1e20dd77b2260627d207f2472b35c0ef6979a5ea2f4723eea",
       "size" : 4970731,
       "stats" : {
         "coreSize" : 168592,
@@ -1034,7 +1034,7 @@
       "homepage" : "https://tune-out.appfair.net",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -1052,7 +1052,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "729d247be28ff593ca373f2584675727bd030e4b11292e4587dd3d88d25a6a71",
+      "sha256" : "3d2f6511e798180972a5ec3cc065299f0813bf59a640cfb274d398d9098a12b1",
       "size" : 15050796,
       "stats" : {
         "coreSize" : 168592,
@@ -1450,7 +1450,7 @@
       "homepage" : "http://Sun-Bow.appfair.net",
       "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
       "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#46d26d99215fc30c6019d1e760a2b247c2be0a2e74dce7f557f0c9fd6c50aaff",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
       "name" : "Sun Bow",
       "permissions" : [
         {
@@ -1464,7 +1464,7 @@
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_02-mac-1228x916.png",
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-mac-1574x1294.png"
       ],
-      "sha256" : "ad5fa768c2d569b0be07c112e299d47ee7bb843cbccfae3d3ce08410b6ad13e0",
+      "sha256" : "3234daef5850cae01cf2d7403b122ecaf8e13ded06387cef5f2eb1b7e55863a0",
       "size" : 26936104,
       "stats" : {
         "coreSize" : 168592,

@@ -1418,7 +1418,7 @@ tr:nth-child(even) {
 | [``Exodus``](https://www.exodus.com/) | ``22.10.22`` | `91` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``구름 입력기``](https://gureum.io/) | ``1.13.0`` | `91` |  |  |  |  |  | `0` |  |
 | [``Heroic Games Launcher``](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher) | ``2.4.3`` | `91` |  |  |  |  |  | `0` |  |
-| [``Apifox``](https://www.apifox.cn/) | ``2.2.2`` | `90` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Apifox``](https://www.apifox.cn/) | ``2.2.3`` | `90` | `2022-10-30T07:28:18Z` |  |  |  |  | `0` |  |
 | [``Hackintool``](https://github.com/headkaze/Hackintool) | ``3.8.7`` | `90` |  |  |  |  |  | `0` |  |
 | [``KubeContext``](https://github.com/turkenh/KubeContext) | ``2.0.1`` | `90` |  |  |  |  |  | `0` |  |
 | [``AppCode``](https://www.jetbrains.com/objc/) | ``2022.2.4,222.4345.34`` | `89` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1708,7 +1708,7 @@ tr:nth-child(even) {
 | [``Avogadro``](https://avogadro.cc/) | ``1.97.0`` | `44` |  |  |  |  |  | `0` |  |
 | [``emacsclient``](https://github.com/sprig/org-capture-extension) | ``1.0`` | `44` |  |  |  |  |  | `0` |  |
 | [``ff·Works``](https://www.ffworks.net/) | ``3.2.5`` | `44` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Google Assistant Unoffic…``](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) | ``1.0.0`` | `44` |  |  |  |  |  | `0` |  |
+| [``Google Assistant Unoffic…``](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) | ``1.1.0`` | `44` | `2022-10-30T07:28:18Z` |  |  |  |  | `0` |  |
 | [``Grid Analysis and Displa…``](http://cola.gmu.edu/grads/grads.php) | ``2.2.1`` | `44` |  |  |  |  |  | `0` |  |
 | [``Kobo``](https://www.kobo.com/desktop) | ``latest`` | `44` |  |  |  |  |  | `0` |  |
 | [``MediathekView``](https://mediathekview.de/) | ``13.9.1`` | `44` |  |  |  |  |  | `0` |  |
@@ -1752,7 +1752,7 @@ tr:nth-child(even) {
 | [``Eagle``](https://eagle.cool/macOS) | ``3.0,22`` | `41` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``PDF-Images``](https://sourceforge.net/projects/pdf-images/) | ``1.1`` | `41` |  |  |  |  |  | `0` |  |
 | [``Balsamiq Wireframes``](https://balsamiq.com/) | ``4.6.1`` | `40` |  |  |  |  |  | `0` |  |
-| [``BusyCal``](https://busymac.com/busycal/index.html) | ``2022.4.4,2022-10-29-03-5`` | `40` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
+| [``BusyCal``](https://busymac.com/busycal/index.html) | ``2022.4.4,2022-10-29-22-1`` | `40` | `2022-10-30T07:28:18Z` |  |  |  |  | `0` |  |
 | [``CCMenu``](https://ccmenu.org/) | ``15.0`` | `40` |  |  |  |  |  | `0` |  |
 | [``Core Location CLI``](https://github.com/fulldecent/corelocationcli) | ``4.0.1`` | `40` |  |  |  |  |  | `0` |  |
 | [``Lagrange``](https://gmi.skyjake.fi/lagrange/) | ``1.13.7`` | `40` |  |  |  |  |  | `0` |  |
@@ -2931,7 +2931,7 @@ tr:nth-child(even) {
 | [``Azgaar's Fantasy Map Gen…``](https://azgaar.github.io/Fantasy-Map-Generator) | ``1.3`` | `6` |  |  |  |  |  | `0` |  |
 | [``Slate (arm64)``](https://github.com/fertigt/slate_arm64) | ``1.0`` | `6` |  |  |  |  |  | `0` |  |
 | [``Fitbit OS Simulator``](https://dev.fitbit.com/) | ``0.9.2`` | `6` |  |  |  |  |  | `0` |  |
-| [``Focused``](https://codebots.co.uk/) | ``3.4,1839`` | `6` |  |  |  |  |  | `0` |  |
+| [``Focused``](https://codebots.co.uk/) | ``3.5,1845`` | `6` | `2022-10-30T07:28:18Z` |  |  |  |  | `0` |  |
 | [``Forecast``](https://overcast.fm/forecast) | ``0.9.4,137`` | `6` |  |  |  |  |  | `0` |  |
 | [``Fuse for Mac OS X``](https://fuse-for-macosx.sourceforge.io/) | ``1.5.6`` | `6` |  |  |  |  |  | `0` |  |
 | [``Freenet``](https://freenetproject.org/) | ``2.2.0`` | `6` |  |  |  |  |  | `0` |  |
@@ -3038,7 +3038,7 @@ tr:nth-child(even) {
 | [``Cleartext``](https://github.com/mortenjust/cleartext-mac) | ``2.45`` | `5` |  |  |  |  |  | `0` |  |
 | [``Coccinellida``](https://coccinellida.sourceforge.io/) | ``0.7`` | `5` |  |  |  |  |  | `0` |  |
 | [``cocoAspell``](https://people.ict.usc.edu/leuski/public_html/cocoaspell/home.php) | ``2.5`` | `5` |  |  |  |  |  | `0` |  |
-| [``ComicTagger``](https://github.com/davide-romanini/comictagger) | ``1.5.2`` | `5` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
+| [``ComicTagger``](https://github.com/davide-romanini/comictagger) | ``1.5.4`` | `5` | `2022-10-30T07:28:18Z` |  |  |  |  | `0` |  |
 | [``Container PS``](https://github.com/Toinane/container-ps) | ``1.3.0`` | `5` |  |  |  |  |  | `0` |  |
 | [``Contraste``](https://contrasteapp.com/) | ``1.0,141`` | `5` |  |  |  |  |  | `0` |  |
 | [``Cro-Mag Rally``](https://jorio.itch.io/cromagrally) | ``3.0.0`` | `5` |  |  |  |  |  | `0` |  |
@@ -3379,7 +3379,7 @@ tr:nth-child(even) {
 | [``DejaLu``](https://dejalu.me/) | ``1.0,217`` | `3` |  |  |  |  |  | `0` |  |
 | [``Detail``](https://detail.co/) | ``3.4.3`` | `3` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Diagnostics``](https://github.com/macmade/Diagnostics) | ``1.4.1`` | `3` |  |  |  |  |  | `0` |  |
-| [``DiskCatalogMaker``](https://diskcatalogmaker.com/) | ``8.5.3`` | `3` |  |  |  |  |  | `0` |  |
+| [``DiskCatalogMaker``](https://diskcatalogmaker.com/) | ``8.5.4`` | `3` | `2022-10-30T07:28:18Z` |  |  |  |  | `0` |  |
 | [``DriveThruRPG Library App``](https://www.drivethrurpg.com/library_client.php) | ``3.3.0.0`` | `3` |  |  |  |  |  | `0` |  |
 | [``KeePassX``](https://github.com/dwihn0r/keepassx/) | ``0.4.4`` | `3` |  |  |  |  |  | `0` |  |
 | [``Ears``](https://retina.studio/ears/) | ``1.5,20`` | `3` |  |  |  |  |  | `0` |  |
@@ -3793,7 +3793,7 @@ tr:nth-child(even) {
 | [``Foldit``](https://fold.it/) | ``latest`` | `1` |  |  |  |  |  | `0` |  |
 | [``Fontstand``](https://fontstand.com/) | ``2.4.0`` | `1` |  |  |  |  |  | `0` |  |
 | [``Fotokasten``](https://www.fotokasten.de/) | ``3.68.2,221019.1846`` | `1` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Free42 Binary``](https://thomasokken.com/free42/) | ``3.0.15`` | `1` |  |  |  |  |  | `0` |  |
+| [``Free42 Binary``](https://thomasokken.com/free42/) | ``3.0.16`` | `1` | `2022-10-30T07:28:18Z` |  |  |  |  | `0` |  |
 | [``FreeOrion``](https://freeorion.org/) | ``0.4.10.2,2021-08-01,f663…`` | `1` |  |  |  |  |  | `0` |  |
 | [``Fresh``](https://ironicsoftware.com/fresh/) | ``4.0.4,404.101`` | `1` |  |  |  |  |  | `0` |  |
 | [``FStream``](https://www.sourcemac.com/?page=fstream) | ``1.4.9,699`` | `1` |  |  |  |  |  | `0` |  |
@@ -3987,7 +3987,7 @@ tr:nth-child(even) {
 | [``Focus Booster``](https://www.focusboosterapp.com/) | ``2.2.0`` | `0` |  |  |  |  |  | `0` |  |
 | [``Focus@Will``](https://www.focusatwill.com/) | ``3.4.0`` | `0` |  |  |  |  |  | `0` |  |
 | [``Framer X``](https://framer.com/) | ``36854,1590141192`` | `0` |  |  |  |  |  | `0` |  |
-| [``Free42 Decimal``](https://thomasokken.com/free42/) | ``3.0.15`` | `0` |  |  |  |  |  | `0` |  |
+| [``Free42 Decimal``](https://thomasokken.com/free42/) | ``3.0.16`` | `0` | `2022-10-30T07:28:18Z` |  |  |  |  | `0` |  |
 | [``Frhelper``](https://www.eudic.net/v4/fr/app/frhelper) | ``4.2.1,1071`` | `0` |  |  |  |  |  | `0` |  |
 | [``Funter``](https://nektony.com/products/funter) | ``5.4.3,218`` | `0` |  |  |  |  |  | `0` |  |
 | [``GeburtstagsChecker``](https://earthlingsoft.net/GeburtstagsChecker/) | ``1.8.2,195`` | `0` |  |  |  |  |  | `0` |  |

@@ -24253,17 +24253,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "apifox",
-      "downloadURL" : "https://cdn.apifox.cn/download/2.2.2/Apifox-2.2.2.dmg",
+      "downloadURL" : "https://cdn.apifox.cn/download/2.2.3/Apifox-2.2.3.dmg",
       "homepage" : "https://www.apifox.cn/",
       "localizedDescription" : "Platform for API documentation, debugging, Mock and testing",
       "name" : "Apifox",
-      "sha256" : "978de059885bc327ef56e891798edcb44ebb441fc3b009acfb8d4d8efcdea2f2",
+      "sha256" : "1efbf35de7fc585117aa86cb665f3c1af54688eca73393b2deee6a0be02eb31f",
       "stats" : {
         "downloadCount" : 90
       },
       "subtitle" : "Platform for API documentation, debugging, Mock and testing",
-      "version" : "2.2.2",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.2.3",
+      "versionDate" : "2022-10-30T07:28:18Z"
     },
     {
       "beta" : false,
@@ -28324,16 +28324,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "google-assistant",
-      "downloadURL" : "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.0.0/Google-Assistant-1.0.0.dmg",
+      "downloadURL" : "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client/releases/download/v1.1.0/Google-Assistant-1.1.0.dmg",
       "homepage" : "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
       "localizedDescription" : "Cross-platform unofficial Google Assistant Client for Desktop",
       "name" : "Google Assistant Unofficial Desktop Client",
-      "sha256" : "43056591c48bb33fb574740f7c502d0be4533801e4490d9f533445244152aea5",
+      "sha256" : "fe95491bb55136e62b4a85ad49e648d03e662df8445c417bade70d95d711116b",
       "stats" : {
         "downloadCount" : 44
       },
       "subtitle" : "Cross-platform unofficial Google Assistant Client for Desktop",
-      "version" : "1.0.0"
+      "version" : "1.1.0",
+      "versionDate" : "2022-10-30T07:28:18Z"
     },
     {
       "beta" : false,
@@ -28935,17 +28936,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "busycal",
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-10-29-03-50.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-10-29-22-19.zip",
       "homepage" : "https://busymac.com/busycal/index.html",
       "localizedDescription" : "Calendar software focusing on flexibility and reliability",
       "name" : "BusyCal",
-      "sha256" : "30a6a0549615a913844235ac5944c973158c0d12a4dd699b8aa5d3a31191942a",
+      "sha256" : "a9867e8c3c89bf24101a2907ea7546ea515c9e7f7fcba6669a9171a18704bae0",
       "stats" : {
         "downloadCount" : 40
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
-      "version" : "2022.4.4,2022-10-29-03-50",
-      "versionDate" : "2022-10-29T00:00:00Z"
+      "version" : "2022.4.4,2022-10-29-22-19",
+      "versionDate" : "2022-10-30T07:28:18Z"
     },
     {
       "beta" : false,
@@ -45386,7 +45387,8 @@
         "downloadCount" : 6
       },
       "subtitle" : "Markdown writing app",
-      "version" : "3.4,1839"
+      "version" : "3.5,1845",
+      "versionDate" : "2022-10-30T07:28:18Z"
     },
     {
       "beta" : false,
@@ -46852,17 +46854,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "comictagger",
-      "downloadURL" : "https://github.com/davide-romanini/comictagger/releases/download/1.5.2/ComicTagger-1.5.2-osx-10.15.7-x86_64.app.zip",
+      "downloadURL" : "https://github.com/davide-romanini/comictagger/releases/download/1.5.4/ComicTagger-1.5.4-osx-10.15.7-x86_64.app.zip",
       "homepage" : "https://github.com/davide-romanini/comictagger",
       "localizedDescription" : "Metadata editor for digital comics",
       "name" : "ComicTagger",
-      "sha256" : "4947ff19329bb6049dd8bdf40b2a29572033cdbdf0d9486eba2c9ac52b4ef62f",
+      "sha256" : "54aa48e325eed22c53748fd98243a045b0f2a69e3fbcca80ff05f95ca1c5eec3",
       "stats" : {
         "downloadCount" : 5
       },
       "subtitle" : "Metadata editor for digital comics",
-      "version" : "1.5.2",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.5.4",
+      "versionDate" : "2022-10-30T07:28:18Z"
     },
     {
       "beta" : false,
@@ -51534,16 +51536,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "diskcatalogmaker",
-      "downloadURL" : "https://download.diskcatalogmaker.com/download/zip/DiskCatalogMaker853.zip",
+      "downloadURL" : "https://download.diskcatalogmaker.com/download/zip/DiskCatalogMaker854.zip",
       "homepage" : "https://diskcatalogmaker.com/",
       "localizedDescription" : "Toast-bundled version of DiskCatalogMaker",
       "name" : "DiskCatalogMaker",
-      "sha256" : "3458b467429fe72db3990ea8e6fadc709e965b50a6e8e5c1b412560b48e1c780",
+      "sha256" : "f7b595e2c14e5c9d21851f893abf14edd3414e0980bc138ee2cef317a5d28bcc",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "Toast-bundled version of DiskCatalogMaker",
-      "version" : "8.5.3"
+      "version" : "8.5.4",
+      "versionDate" : "2022-10-30T07:28:18Z"
     },
     {
       "beta" : false,
@@ -57217,7 +57220,8 @@
         "downloadCount" : 1
       },
       "subtitle" : "HP-42S calculator simulator",
-      "version" : "3.0.15"
+      "version" : "3.0.16",
+      "versionDate" : "2022-10-30T07:28:18Z"
     },
     {
       "beta" : false,
@@ -59832,7 +59836,8 @@
         "downloadCount" : 0
       },
       "subtitle" : "HP-42S calculator simulator",
-      "version" : "3.0.15"
+      "version" : "3.0.16",
+      "versionDate" : "2022-10-30T07:28:18Z"
     },
     {
       "beta" : false,
@@ -61786,55 +61791,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "topaz-gigapixel-ai",
-      "caption" : "Topaz Gigapixel AI 6.2.2 released",
-      "date" : "2022-10-28T00:05:42Z",
-      "identifier" : "release-topaz-gigapixel-ai-6.2.2",
-      "title" : "New Release: Topaz Gigapixel AI 6.2.2"
-    },
-    {
-      "appID" : "topaz-denoise-ai",
-      "caption" : "Topaz DeNoise AI 3.7.0 released",
-      "date" : "2022-10-28T00:05:42Z",
-      "identifier" : "release-topaz-denoise-ai-3.7.0",
-      "title" : "New Release: Topaz DeNoise AI 3.7.0"
-    },
-    {
-      "appID" : "topaz-sharpen-ai",
-      "caption" : "Topaz Sharpen AI 4.1.0 released",
-      "date" : "2022-10-28T00:05:42Z",
-      "identifier" : "release-topaz-sharpen-ai-4.1.0",
-      "title" : "New Release: Topaz Sharpen AI 4.1.0"
-    },
-    {
-      "appID" : "kigb",
-      "caption" : "KiGB 2.0.8 released",
-      "date" : "2022-10-28T00:05:42Z",
-      "identifier" : "release-kigb-2.0.8",
-      "title" : "New Release: KiGB 2.0.8"
-    },
-    {
-      "appID" : "genesis-plus",
-      "caption" : "Genesis Plus 1.3.4 released",
-      "date" : "2022-10-28T00:05:42Z",
-      "identifier" : "release-genesis-plus-1.3.4",
-      "title" : "New Release: Genesis Plus 1.3.4"
-    },
-    {
-      "appID" : "picfindr",
-      "caption" : "picfindr 1.1.13 released",
-      "date" : "2022-10-28T00:05:42Z",
-      "identifier" : "release-picfindr-1.1.13",
-      "title" : "New Release: picfindr 1.1.13"
-    },
-    {
-      "appID" : "sms-plus",
-      "caption" : "SMS Plus 1.3.6 released",
-      "date" : "2022-10-28T00:05:42Z",
-      "identifier" : "release-sms-plus-1.3.6",
-      "title" : "New Release: SMS Plus 1.3.6"
-    },
-    {
       "appID" : "northern-softworks-cache-cleaner",
       "caption" : "Northern Softworks Cache Cleaner 18.0 released",
       "date" : "2022-10-28T00:05:42Z",
@@ -62339,13 +62295,6 @@
       "title" : "New Release: NoSQLBooster for MongoDB 7.1.14"
     },
     {
-      "appID" : "busycal",
-      "caption" : "BusyCal updated from 2022.4.4,2022-10-28-22-58 to 2022.4.4,2022-10-29-03-50",
-      "date" : "2022-10-29T04:06:13Z",
-      "identifier" : "release-busycal-2022.4.4,2022-10-29-03-50",
-      "title" : "New Release: BusyCal 2022.4.4,2022-10-29-03-50"
-    },
-    {
       "appID" : "remnote",
       "caption" : "RemNote updated from 1.8.48 to 1.8.49",
       "date" : "2022-10-29T04:06:13Z",
@@ -62484,6 +62433,62 @@
       "date" : "2022-10-29T23:34:07Z",
       "identifier" : "release-metasploit-6.2.25,20221029102950",
       "title" : "New Release: Metasploit Framework 6.2.25,20221029102950"
+    },
+    {
+      "appID" : "apifox",
+      "caption" : "Apifox updated from 2.2.2 to 2.2.3",
+      "date" : "2022-10-30T07:28:19Z",
+      "identifier" : "release-apifox-2.2.3",
+      "title" : "New Release: Apifox 2.2.3"
+    },
+    {
+      "appID" : "google-assistant",
+      "caption" : "Google Assistant Unofficial Desktop Client updated from 1.0.0 to 1.1.0",
+      "date" : "2022-10-30T07:28:19Z",
+      "identifier" : "release-google-assistant-1.1.0",
+      "title" : "New Release: Google Assistant Unofficial Desktop Client 1.1.0"
+    },
+    {
+      "appID" : "busycal",
+      "caption" : "BusyCal updated from 2022.4.4,2022-10-29-03-50 to 2022.4.4,2022-10-29-22-19",
+      "date" : "2022-10-30T07:28:20Z",
+      "identifier" : "release-busycal-2022.4.4,2022-10-29-22-19",
+      "title" : "New Release: BusyCal 2022.4.4,2022-10-29-22-19"
+    },
+    {
+      "appID" : "focused",
+      "caption" : "Focused updated from 3.4,1839 to 3.5,1845",
+      "date" : "2022-10-30T07:28:20Z",
+      "identifier" : "release-focused-3.5,1845",
+      "title" : "New Release: Focused 3.5,1845"
+    },
+    {
+      "appID" : "comictagger",
+      "caption" : "ComicTagger updated from 1.5.2 to 1.5.4",
+      "date" : "2022-10-30T07:28:20Z",
+      "identifier" : "release-comictagger-1.5.4",
+      "title" : "New Release: ComicTagger 1.5.4"
+    },
+    {
+      "appID" : "diskcatalogmaker",
+      "caption" : "DiskCatalogMaker updated from 8.5.3 to 8.5.4",
+      "date" : "2022-10-30T07:28:20Z",
+      "identifier" : "release-diskcatalogmaker-8.5.4",
+      "title" : "New Release: DiskCatalogMaker 8.5.4"
+    },
+    {
+      "appID" : "free42-binary",
+      "caption" : "Free42 Binary updated from 3.0.15 to 3.0.16",
+      "date" : "2022-10-30T07:28:20Z",
+      "identifier" : "release-free42-binary-3.0.16",
+      "title" : "New Release: Free42 Binary 3.0.16"
+    },
+    {
+      "appID" : "free42-decimal",
+      "caption" : "Free42 Decimal updated from 3.0.15 to 3.0.16",
+      "date" : "2022-10-30T07:28:20Z",
+      "identifier" : "release-free42-decimal-3.0.16",
+      "title" : "New Release: Free42 Decimal 3.0.16"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

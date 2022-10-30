@@ -1035,7 +1035,7 @@ tr:nth-child(even) {
 | [``PlayCover``](https://github.com/PlayCover/PlayCover) | ``1.1.1`` | `405` |  |  |  |  |  | `0` |  |
 | [``CotEditor``](https://coteditor.com/) | ``4.4.0`` | `404` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Julia``](https://julialang.org/) | ``1.8.2`` | `404` |  |  |  |  |  | `0` |  |
-| [``Diffusion Bee``](https://diffusionbee.com/) | ``1.4.2`` | `399` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Diffusion Bee``](https://diffusionbee.com/) | ``1.4.3`` | `399` | `2022-10-30T17:35:04Z` |  |  |  |  | `0` |  |
 | [``QuickLookCSV``](https://github.com/p2/quicklook-csv) | ``1.3`` | `399` |  |  |  |  |  | `0` |  |
 | [``Mattermost``](https://about.mattermost.com/) | ``5.1.1`` | `394` |  |  |  |  |  | `0` |  |
 | [``QuickLookASE``](https://github.com/rsodre/QuickLookASE) | ``1.0`` | `393` |  |  |  |  |  | `0` |  |
@@ -3669,7 +3669,7 @@ tr:nth-child(even) {
 | [``Plus42 Binary``](https://thomasokken.com/plus42/) | ``1.0.12`` | `2` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Pngyu``](https://nukesaq88.github.io/Pngyu/) | ``1.0.1`` | `2` |  |  |  |  |  | `0` |  |
 | [``Pomello``](https://pomelloapp.com/) | ``0.10.16`` | `2` |  |  |  |  |  | `0` |  |
-| [``PongSaver``](https://rogueamoeba.com/freebies/) | ``latest`` | `2` |  |  |  |  |  | `0` |  |
+| [``PongSaver``](https://mikeash.com/software/pongsaver) | ``latest`` | `2` |  |  |  |  |  | `0` |  |
 | [``PosteRazor``](https://posterazor.sourceforge.io/) | ``1.5`` | `2` |  |  |  |  |  | `0` |  |
 | [``Preference Manager``](https://www.digitalrebellion.com/prefman/) | ``4.5.3.0`` | `2` |  |  |  |  |  | `0` |  |
 | [``Prezi Classic``](https://prezi.com/desktop) | ``6.14.0,24153`` | `2` |  |  |  |  |  | `0` |  |

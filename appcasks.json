@@ -18785,17 +18785,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "diffusionbee",
-      "downloadURL" : "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases/download/1.4.2/DiffusionBee-1.4.2-intel64_SD1.5MPS.dmg",
+      "downloadURL" : "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases/download/1.4.3/DiffusionBee-1.4.3-intel_MPS_SD1.5_FP16.dmg",
       "homepage" : "https://diffusionbee.com/",
       "localizedDescription" : "Run Stable Diffusion locally",
       "name" : "Diffusion Bee",
-      "sha256" : "3b57e73ba5c23ed11ec844d6c2b8b732a0eba7cbdb49338d90d997d151be4d90",
+      "sha256" : "70cb545cf923756a2b6e92d962c620bb2db984bf01398e2a053ba7293d59e40a",
       "stats" : {
         "downloadCount" : 399
       },
       "subtitle" : "Run Stable Diffusion locally",
-      "version" : "1.4.2",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.4.3",
+      "versionDate" : "2022-10-30T17:35:04Z"
     },
     {
       "beta" : false,
@@ -25521,7 +25521,7 @@
       "homepage" : "https://fsnot.es/",
       "localizedDescription" : "Notes manager",
       "name" : "FSNotes",
-      "sha256" : "dcfa88094a225c3862e1a5261e9d35a8248f14be5c7aab03c68fd11de4efd46b",
+      "sha256" : "19ed14496e939791cc156a8753fdee959c9394eea4fb51def1d036e042bc4b04",
       "stats" : {
         "downloadCount" : 70
       },
@@ -55487,12 +55487,14 @@
     {
       "beta" : false,
       "bundleIdentifier" : "pongsaver",
-      "downloadURL" : "https://rogueamoeba.com/freebies/download/PongSaver.zip",
-      "homepage" : "https://rogueamoeba.com/freebies/",
+      "downloadURL" : "https://mikeash.com/software/pongsaver/PongSaver.saver.zip",
+      "homepage" : "https://mikeash.com/software/pongsaver",
+      "localizedDescription" : "Screensaver which plays a game of Pong against itself",
       "name" : "PongSaver",
       "stats" : {
         "downloadCount" : 2
       },
+      "subtitle" : "Screensaver which plays a game of Pong against itself",
       "version" : "latest"
     },
     {
@@ -61793,13 +61795,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "sfdx",
-      "caption" : "Salesforce DX CLI updated from 7.173.0 to 7.174.0",
-      "date" : "2022-10-28T08:43:38Z",
-      "identifier" : "release-sfdx-7.174.0",
-      "title" : "New Release: Salesforce DX CLI 7.174.0"
-    },
-    {
       "appID" : "confluent-cli",
       "caption" : "Confluent CLI updated from 2.30.1 to 2.31.0",
       "date" : "2022-10-28T08:43:38Z",
@@ -62491,6 +62486,13 @@
       "date" : "2022-10-30T11:25:53Z",
       "identifier" : "release-fsnotes-6.0.0",
       "title" : "New Release: FSNotes 6.0.0"
+    },
+    {
+      "appID" : "diffusionbee",
+      "caption" : "Diffusion Bee updated from 1.4.2 to 1.4.3",
+      "date" : "2022-10-30T17:35:05Z",
+      "identifier" : "release-diffusionbee-1.4.3",
+      "title" : "New Release: Diffusion Bee 1.4.3"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -356,7 +356,7 @@
       "sha256" : "ddc26d7afc0fd04188f1a6ff8208646a23a04c14b9f43657abd8d89d102bde04",
       "stats" : {
         "downloadCount" : 5168,
-        "impressionCount" : 5700,
+        "impressionCount" : 5702,
         "viewCount" : 571
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1213,7 +1213,7 @@
       "name" : "WeChat for Mac",
       "stats" : {
         "downloadCount" : 472,
-        "impressionCount" : 892
+        "impressionCount" : 893
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
@@ -7337,7 +7337,7 @@
       "name" : "Smultron",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 527
+        "impressionCount" : 528
       },
       "subtitle" : "General-purpose text editor",
       "tintColor" : "CB8761",

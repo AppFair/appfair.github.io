@@ -17421,17 +17421,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "metasploit",
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.25%2B20221029102950-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.25%2B20221030102915-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "5a7421b894124c2b282029462f90d91d6f454ac30c2ba300a45b60805b6158de",
+      "sha256" : "76b32307932644bbd61bb982114d8ff84b5351400b204672b629f235a19c0590",
       "stats" : {
         "downloadCount" : 714
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.25,20221029102950",
-      "versionDate" : "2022-10-29T00:00:00Z"
+      "version" : "6.2.25,20221030102915",
+      "versionDate" : "2022-10-30T20:31:49Z"
     },
     {
       "beta" : false,
@@ -61734,6 +61734,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "workspace-one-intelligent-hub",
+      "downloadURL" : "https://packages.vmware.com/wsone/VMwareWorkspaceONEIntelligentHub.pkg",
+      "homepage" : "https://www.getwsone.com/",
+      "localizedDescription" : "VMware workspace",
+      "name" : "Workspace ONE Intelligent Hub",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "subtitle" : "VMware workspace",
+      "version" : "22.10.0.7",
+      "versionDate" : "2022-10-30T20:31:49Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "xamarin-profiler",
       "downloadURL" : "https://dl.xamarin.com/profiler/profiler-mac-1.6.13-11.pkg",
       "homepage" : "https://docs.microsoft.com/en-us/xamarin/tools/profiler/?tabs=macos",
@@ -61794,13 +61808,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "confluent-cli",
-      "caption" : "Confluent CLI updated from 2.30.1 to 2.31.0",
-      "date" : "2022-10-28T08:43:38Z",
-      "identifier" : "release-confluent-cli-2.31.0",
-      "title" : "New Release: Confluent CLI 2.31.0"
-    },
     {
       "appID" : "moonlight",
       "caption" : "Moonlight updated from 4.2.1 to 4.3.0",
@@ -62404,13 +62411,6 @@
       "title" : "New Release: pap.er 5.1.1"
     },
     {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.25,20221028102958 to 6.2.25,20221029102950",
-      "date" : "2022-10-29T23:34:07Z",
-      "identifier" : "release-metasploit-6.2.25,20221029102950",
-      "title" : "New Release: Metasploit Framework 6.2.25,20221029102950"
-    },
-    {
       "appID" : "apifox",
       "caption" : "Apifox updated from 2.2.2 to 2.2.3",
       "date" : "2022-10-30T07:28:19Z",
@@ -62493,6 +62493,20 @@
       "date" : "2022-10-30T17:35:05Z",
       "identifier" : "release-diffusionbee-1.4.3",
       "title" : "New Release: Diffusion Bee 1.4.3"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.25,20221029102950 to 6.2.25,20221030102915",
+      "date" : "2022-10-30T20:31:50Z",
+      "identifier" : "release-metasploit-6.2.25,20221030102915",
+      "title" : "New Release: Metasploit Framework 6.2.25,20221030102915"
+    },
+    {
+      "appID" : "workspace-one-intelligent-hub",
+      "caption" : "Workspace ONE Intelligent Hub 22.10.0.7 released",
+      "date" : "2022-10-30T20:31:50Z",
+      "identifier" : "release-workspace-one-intelligent-hub-22.10.0.7",
+      "title" : "New Release: Workspace ONE Intelligent Hub 22.10.0.7"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

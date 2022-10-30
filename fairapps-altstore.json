@@ -21,7 +21,7 @@
       "size": 1844258,
       "stats": {
         "coreSize": 168592,
-        "downloadCount": 8,
+        "downloadCount": 10,
         "forkCount": 1,
         "impressionCount": 3,
         "issueCount": 0,
@@ -58,11 +58,11 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-iphone-1170x2532.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-iphone-1170x2532.png"
       ],
-      "sha256": "022e9df7cff5a1b49b72be64061d2b25ca989025f9e3aa31a0087704ea97cd32",
+      "sha256": "25714a4400e037af36ca817310c4e2d0eee18d5b3e3fa5e0d5125e1afa8f4a14",
       "size": 11247669,
       "stats": {
         "coreSize": 168592,
-        "downloadCount": 5,
+        "downloadCount": 7,
         "forkCount": 0,
         "impressionCount": 1,
         "issueCount": 0,

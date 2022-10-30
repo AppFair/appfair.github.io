@@ -940,7 +940,7 @@ tr:nth-child(even) {
 | [``DevToys``](https://github.com/ObuchiYuki/DevToysMac) | ``0.0.11`` | `725` |  |  |  |  |  | `0` |  |
 | [``Microsoft Word``](https://products.office.com/en-US/word) | ``16.66.22101101`` | `723` |  |  |  |  |  | `0` |  |
 | [``Mockoon``](https://mockoon.com/) | ``1.21.1`` | `719` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.25,20221030102915`` | `714` | `2022-10-30T20:31:49Z` |  |  |  |  | `0` |  |
+| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.25,20221030102915`` | `714` | `2022-10-30T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Ghidra``](https://www.ghidra-sre.org/) | ``10.1.5,20220726`` | `713` |  |  |  |  |  | `0` |  |
 | [``Logseq``](https://github.com/logseq/logseq) | ``0.8.9`` | `712` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Dash``](https://kapeli.com/dash) | ``6.4.0,1006`` | `709` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -4129,7 +4129,7 @@ tr:nth-child(even) {
 | [``Volley``](https://www.volleyapp.com/) | ``1.0.75`` | `0` |  |  |  |  |  | `0` |  |
 | [``WeakAuras Companion``](https://weakauras.wtf/) | ``4.0.9`` | `0` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Wondershare Filmora``](https://filmora.wondershare.com/video-editor-mac/) | ``10.5.0.23`` | `0` |  |  |  |  |  | `0` |  |
-| [``Workspace ONE Intelligen…``](https://www.getwsone.com/) | ``22.10.0.7`` | `0` | `2022-10-30T20:31:49Z` |  |  |  |  | `0` |  |
+| [``Workspace ONE Intelligen…``](https://www.getwsone.com/) | ``22.10.0.7`` | `0` | `2022-10-30T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Xamarin Profiler``](https://docs.microsoft.com/en-us/xamarin/tools/profiler/?tabs=macos) | ``1.6.13,11`` | `0` |  |  |  |  |  | `0` |  |
 | [``xStation5``](https://www.xtb.com/) | ``2.39.1-Build.3`` | `0` |  |  |  |  |  | `0` |  |
 | [``Zebra2``](https://u-he.com/products/zebra2/) | ``2.9.3,12092`` | `0` |  |  |  |  |  | `0` |  |

@@ -42,7 +42,7 @@ tr:nth-child(even) {
 | [``Cloud Cuckoo``](https://cloud-cuckoo.appfair.net) | ``0.9.335β`` | `12` | `2022-10-27T00:00:00Z` | `3.2 MB` | `3` | `0` | `2` | `0` |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.4β`` | `12` | `2022-10-19T00:00:00Z` | `8 MB` | `4` | `2` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2344` | `145` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `9` | `2022-08-27T00:00:00Z` | `1.45 GB` | `1287` | `59` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `10` | `2022-08-27T00:00:00Z` | `1.45 GB` | `1287` | `59` | `0` | `0` |  |
 | [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `9` | `2022-01-23T00:00:00Z` | `2.3 MB` | `2095` | `125` | `0` | `0` |  |
 | [``Todo Hero``](http://appfair.net/#quick-start) | ``0.0.1β`` | `9` | `2022-08-23T00:00:00Z` | `2.2 MB` | `130` | `5` | `0` | `0` |  |
 | [``Tune Out``](https://tune-out.appfair.net) | ``0.8.460β`` | `8` | `2022-10-28T00:00:00Z` | `15.1 MB` | `1` | `0` | `1` | `0` |  |
@@ -66,6 +66,7 @@ tr:nth-child(even) {
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `2.4 MB` | `1478` | `78` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `2` | `2022-08-27T00:00:00Z` | `2.3 MB` | `16` | `1` | `0` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `2` | `2022-05-01T00:00:00Z` | `2.6 MB` | `687` | `44` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `1` | `2022-10-30T00:00:00Z` | `5 MB` | `0` | `0` | `0` | `0` |  |
 | [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | ``0.0.16β`` | `1` | `2022-02-12T00:00:00Z` | `2.5 MB` | `1163` | `60` | `0` | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

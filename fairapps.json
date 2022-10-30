@@ -58,7 +58,7 @@
       "size" : 11973807,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 378,
+        "downloadCount" : 379,
         "forkCount" : 1,
         "impressionCount" : 191,
         "issueCount" : 7,
@@ -240,7 +240,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -706,7 +706,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "5ef97eb180e9eff0f27d91d1fea9e202e2e54f3ae8184539064b6dff3d81bcc2",
+      "sha256" : "ba06490898208711d80f34348393dd5506b65f7be01904b205f834a1fe6f9320",
       "size" : 7994433,
       "stats" : {
         "coreSize" : 168592,
@@ -1052,7 +1052,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "729d247be28ff593ca373f2584675727bd030e4b11292e4587dd3d88d25a6a71",
+      "sha256" : "80fe509d25702bd6999a04389b3eb058e3724767f5276050e48ba047e3a35b76",
       "size" : 15050796,
       "stats" : {
         "coreSize" : 168592,
@@ -1464,7 +1464,7 @@
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_02-mac-1228x916.png",
         "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-mac-1574x1294.png"
       ],
-      "sha256" : "ad5fa768c2d569b0be07c112e299d47ee7bb843cbccfae3d3ce08410b6ad13e0",
+      "sha256" : "3234daef5850cae01cf2d7403b122ecaf8e13ded06387cef5f2eb1b7e55863a0",
       "size" : 26936104,
       "stats" : {
         "coreSize" : 168592,

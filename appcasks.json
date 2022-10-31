@@ -757,29 +757,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "usenapp",
-      "categories" : [
-        "public.app-category.news",
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.usenapp.com/download/Usenapp-1.23.dmg",
-      "homepage" : "https://www.usenapp.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-usenapp/AppIcon.png",
-      "localizedDescription" : "Newsreader and Usenet client",
-      "name" : "Usenapp",
-      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-usenapp/README.md",
-      "sha256" : "dbec524dcc13128ea3104ae4daf1c1e76d79432a56dfc6ce232d6f08c6460a12",
-      "stats" : {
-        "downloadCount" : 7,
-        "impressionCount" : 2469,
-        "viewCount" : 164
-      },
-      "subtitle" : "Newsreader and Usenet client",
-      "tintColor" : "61ADE7",
-      "version" : "1.23,361"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vassal",
       "categories" : [
         "public.app-category.games"
@@ -885,27 +862,6 @@
       },
       "subtitle" : "Open-source version of the X.Org X Window System",
       "version" : "2.8.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "utm",
-      "categories" : [
-        "public.app-category.business"
-      ],
-      "downloadURL" : "https://github.com/utmapp/UTM/releases/download/v4.0.9/UTM.dmg",
-      "homepage" : "https://getutm.app/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-utm/AppIcon.png",
-      "localizedDescription" : "Virtual machines UI using QEMU",
-      "name" : "UTM",
-      "sha256" : "b28d5e790ffb3efe09044d6b1438185889c89cbc02eb179f37f96fd72903441a",
-      "stats" : {
-        "downloadCount" : 2398,
-        "impressionCount" : 2447
-      },
-      "subtitle" : "Virtual machines UI using QEMU",
-      "tintColor" : "5974D2",
-      "version" : "4.0.9",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3204,26 +3160,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "utools",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://publish.u-tools.cn/version2/uTools-3.0.3.dmg",
-      "homepage" : "https://u.tools/index.html",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-utools/AppIcon.png",
-      "localizedDescription" : "Plug-in productivity tool set",
-      "name" : "uTools",
-      "sha256" : "2e4518e03a3f4ad470f5abdf42ff640ac4deac6ffafd0672c0a22caf89b632fa",
-      "stats" : {
-        "downloadCount" : 47,
-        "impressionCount" : 405
-      },
-      "subtitle" : "Plug-in productivity tool set",
-      "tintColor" : "717171",
-      "version" : "3.0.3"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "scratch",
       "categories" : [
         "public.app-category.education"
@@ -4589,26 +4525,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "utc-menu-clock",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/netik/UTCMenuClock/raw/master/downloads/UTCMenuClock_v1.3_universal.zip",
-      "homepage" : "https://github.com/netik/UTCMenuClock",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-utc-menu-clock/AppIcon.png",
-      "localizedDescription" : "Menu bar clock",
-      "name" : "UTCMenuClock",
-      "sha256" : "099a638a7a45cb9085d29e75769caf44ed142fd74b9e4665fca2de7e4a641081",
-      "stats" : {
-        "downloadCount" : 22,
-        "impressionCount" : 317
-      },
-      "subtitle" : "Menu bar clock",
-      "tintColor" : "726767",
-      "version" : "1.3"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "unpkg",
       "categories" : [
         "public.app-category.utilities"
@@ -5361,26 +5277,6 @@
       "subtitle" : "Preview .VSD, .VDX, .VSDX file formats of Visio drawings",
       "tintColor" : "86A2C9",
       "version" : "6.15.1,556"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "usr-sse2-rdm",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/usr-sse2/RDM/releases/download/2.5.0/RDM.zip",
-      "homepage" : "https://github.com/usr-sse2/RDM",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-usr-sse2-rdm/AppIcon.png",
-      "localizedDescription" : "Set a Retina display to custom resolutions",
-      "name" : "RDM",
-      "sha256" : "9d583e43742018e45bad79c8af9e0accec6b6a10d94c60ac7d31721bbb3c237e",
-      "stats" : {
-        "downloadCount" : 17,
-        "impressionCount" : 222
-      },
-      "subtitle" : "Set a Retina display to custom resolutions",
-      "tintColor" : "518BA4",
-      "version" : "2.5.0"
     },
     {
       "beta" : false,
@@ -6652,26 +6548,6 @@
       "subtitle" : "Tiny process monitor",
       "tintColor" : "283035",
       "version" : "0.9"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "uu-booster",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://uu.gdl.netease.com/UU-macOS-2.6.6(236).dmg",
-      "homepage" : "https://uu.163.com/down/mac/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-uu-booster/AppIcon.png",
-      "localizedDescription" : "Network accelerator",
-      "name" : "UU Booster",
-      "sha256" : "5c4ac80bfb3998e482eedfc57dba5bd686952012c579e99d5f2e39f2b7c62ba2",
-      "stats" : {
-        "downloadCount" : 8,
-        "impressionCount" : 177
-      },
-      "subtitle" : "Network accelerator",
-      "tintColor" : "14476B",
-      "version" : "2.6.6,236"
     },
     {
       "beta" : false,
@@ -12202,26 +12078,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "usb-overdrive",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.usboverdrive.com/download/USB-Overdrive-51.dmg",
-      "homepage" : "https://www.usboverdrive.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-usb-overdrive/AppIcon.png",
-      "localizedDescription" : "USB and Bluetooth device driver",
-      "name" : "USB Overdrive",
-      "sha256" : "648172412e702eb542f701707edc7e970b04d5b59f66ed88f71171ceaef34515",
-      "stats" : {
-        "downloadCount" : 40,
-        "impressionCount" : 60
-      },
-      "subtitle" : "USB and Bluetooth device driver",
-      "tintColor" : "BCBBBA",
-      "version" : "5.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "texmacs",
       "categories" : [
 
@@ -12755,26 +12611,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "usbimager",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://gitlab.com/bztsrc/usbimager/raw/binaries/usbimager_1.0.8-intel-macosx-cocoa.zip",
-      "homepage" : "https://bztsrc.gitlab.io/usbimager/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-usbimager/AppIcon.png",
-      "localizedDescription" : "Very minimal GUI app that can write/read to disk images and USB drives",
-      "name" : "USBImager",
-      "sha256" : "7bd1e9782f8dd5b8b96281001fe9cd75a4fc75cd86ebe571dab6c715147d843e",
-      "stats" : {
-        "downloadCount" : 22,
-        "impressionCount" : 72
-      },
-      "subtitle" : "Very minimal GUI app that can write/read to disk images and USB drives",
-      "tintColor" : "8C816F",
-      "version" : "1.0.8"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "trader-workstation",
       "categories" : [
 
@@ -13107,26 +12943,6 @@
       "subtitle" : "Bit torrent client",
       "tintColor" : "5587A3",
       "version" : "latest"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "usage",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://mediaatelier.com/Usage/Usage_1.4.6.dmg",
-      "homepage" : "https://www.mediaatelier.com/Usage/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-usage/AppIcon.png",
-      "localizedDescription" : "Tracks application usage",
-      "name" : "Usage",
-      "sha256" : "1a782b03b08b544eb1277c18576ce14e9388510f53f6e3bda4a6793bd2780c66",
-      "stats" : {
-        "downloadCount" : 17,
-        "impressionCount" : 120
-      },
-      "subtitle" : "Tracks application usage",
-      "tintColor" : "96D29B",
-      "version" : "1.4.6"
     },
     {
       "beta" : false,
@@ -16098,6 +15914,21 @@
       },
       "subtitle" : "Text editor",
       "version" : "1.60.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "utm",
+      "downloadURL" : "https://github.com/utmapp/UTM/releases/download/v4.0.9/UTM.dmg",
+      "homepage" : "https://getutm.app/",
+      "localizedDescription" : "Virtual machines UI using QEMU",
+      "name" : "UTM",
+      "sha256" : "b28d5e790ffb3efe09044d6b1438185889c89cbc02eb179f37f96fd72903441a",
+      "stats" : {
+        "downloadCount" : 2390
+      },
+      "subtitle" : "Virtual machines UI using QEMU",
+      "version" : "4.0.9",
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21350,16 +21181,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "microsoft-openjdk",
-      "downloadURL" : "https://aka.ms/download-jdk/microsoft-jdk-17.0.4.1-macos-x64.pkg",
+      "downloadURL" : "https://aka.ms/download-jdk/microsoft-jdk-17.0.5-macos-x64.pkg",
       "homepage" : "https://microsoft.com/openjdk",
       "localizedDescription" : "OpenJDK distribution from Microsoft",
       "name" : "Microsoft Build of OpenJDK",
-      "sha256" : "43a6c96f729a0bc440b9bbe3a6c1e82ea76f6c10269e30cdeb996edd04434c80",
+      "sha256" : "1700329e377a124f752d186ddbd6da701c9975984b265d9fd7b2408822162480",
       "stats" : {
         "downloadCount" : 170
       },
       "subtitle" : "OpenJDK distribution from Microsoft",
-      "version" : "17.0.4.1"
+      "version" : "17.0.5",
+      "versionDate" : "2022-10-31T23:39:06Z"
     },
     {
       "beta" : false,
@@ -28143,6 +27975,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "utools",
+      "downloadURL" : "https://publish.u-tools.cn/version2/uTools-3.0.3.dmg",
+      "homepage" : "https://u.tools/index.html",
+      "localizedDescription" : "Plug-in productivity tool set",
+      "name" : "uTools",
+      "sha256" : "2e4518e03a3f4ad470f5abdf42ff640ac4deac6ffafd0672c0a22caf89b632fa",
+      "stats" : {
+        "downloadCount" : 46
+      },
+      "subtitle" : "Plug-in productivity tool set",
+      "version" : "3.0.3"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "aethersx2",
       "downloadURL" : "https://aethersx2.com/archive/desktop/mac/AetherSX2-v1.4-2918-mac.zip",
       "homepage" : "https://aethersx2.com/",
@@ -29347,6 +29193,20 @@
       },
       "subtitle" : "RDP client",
       "version" : "18.3.1,22907"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "usb-overdrive",
+      "downloadURL" : "https://www.usboverdrive.com/download/USB-Overdrive-51.dmg",
+      "homepage" : "https://www.usboverdrive.com/",
+      "localizedDescription" : "USB and Bluetooth device driver",
+      "name" : "USB Overdrive",
+      "sha256" : "648172412e702eb542f701707edc7e970b04d5b59f66ed88f71171ceaef34515",
+      "stats" : {
+        "downloadCount" : 39
+      },
+      "subtitle" : "USB and Bluetooth device driver",
+      "version" : "5.1"
     },
     {
       "beta" : false,
@@ -33685,6 +33545,34 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "usbimager",
+      "downloadURL" : "https://gitlab.com/bztsrc/usbimager/raw/binaries/usbimager_1.0.8-intel-macosx-cocoa.zip",
+      "homepage" : "https://bztsrc.gitlab.io/usbimager/",
+      "localizedDescription" : "Very minimal GUI app that can write/read to disk images and USB drives",
+      "name" : "USBImager",
+      "sha256" : "7bd1e9782f8dd5b8b96281001fe9cd75a4fc75cd86ebe571dab6c715147d843e",
+      "stats" : {
+        "downloadCount" : 22
+      },
+      "subtitle" : "Very minimal GUI app that can write/read to disk images and USB drives",
+      "version" : "1.0.8"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "utc-menu-clock",
+      "downloadURL" : "https://github.com/netik/UTCMenuClock/raw/master/downloads/UTCMenuClock_v1.3_universal.zip",
+      "homepage" : "https://github.com/netik/UTCMenuClock",
+      "localizedDescription" : "Menu bar clock",
+      "name" : "UTCMenuClock",
+      "sha256" : "099a638a7a45cb9085d29e75769caf44ed142fd74b9e4665fca2de7e4a641081",
+      "stats" : {
+        "downloadCount" : 22
+      },
+      "subtitle" : "Menu bar clock",
+      "version" : "1.3"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "vieb",
       "downloadURL" : "https://github.com/Jelmerro/Vieb/releases/download/9.3.0/Vieb-9.3.0-mac.zip",
       "homepage" : "https://vieb.dev/",
@@ -36075,6 +35963,34 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "usage",
+      "downloadURL" : "https://mediaatelier.com/Usage/Usage_1.4.6.dmg",
+      "homepage" : "https://www.mediaatelier.com/Usage/",
+      "localizedDescription" : "Tracks application usage",
+      "name" : "Usage",
+      "sha256" : "1a782b03b08b544eb1277c18576ce14e9388510f53f6e3bda4a6793bd2780c66",
+      "stats" : {
+        "downloadCount" : 17
+      },
+      "subtitle" : "Tracks application usage",
+      "version" : "1.4.6"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "usr-sse2-rdm",
+      "downloadURL" : "https://github.com/usr-sse2/RDM/releases/download/2.5.0/RDM.zip",
+      "homepage" : "https://github.com/usr-sse2/RDM",
+      "localizedDescription" : "Set a Retina display to custom resolutions",
+      "name" : "RDM",
+      "sha256" : "9d583e43742018e45bad79c8af9e0accec6b6a10d94c60ac7d31721bbb3c237e",
+      "stats" : {
+        "downloadCount" : 17
+      },
+      "subtitle" : "Set a Retina display to custom resolutions",
+      "version" : "2.5.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "serviio",
       "categories" : [
 
@@ -37579,22 +37495,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "utterly",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.utterly.app/Utterly.pkg",
-      "homepage" : "https://www.utterly.app/",
-      "localizedDescription" : "Remove background noise during your calls in any audio or video conferencing app",
-      "name" : "Utterly",
-      "stats" : {
-        "downloadCount" : 13
-      },
-      "subtitle" : "Remove background noise during your calls in any audio or video conferencing app",
-      "version" : "0.9.0-SNAPSHOT-140e1bc"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "torguard",
       "categories" : [
 
@@ -38355,6 +38255,19 @@
       },
       "subtitle" : "Ram disk management",
       "version" : "2.0.4"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "utterly",
+      "downloadURL" : "https://www.utterly.app/Utterly.pkg",
+      "homepage" : "https://www.utterly.app/",
+      "localizedDescription" : "Remove background noise during your calls in any audio or video conferencing app",
+      "name" : "Utterly",
+      "stats" : {
+        "downloadCount" : 13
+      },
+      "subtitle" : "Remove background noise during your calls in any audio or video conferencing app",
+      "version" : "0.9.0-SNAPSHOT-140e1bc"
     },
     {
       "beta" : false,
@@ -43343,6 +43256,20 @@
       },
       "subtitle" : "Automated installer for the Rockbox digital music player firmware",
       "version" : "1.5.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "uu-booster",
+      "downloadURL" : "https://uu.gdl.netease.com/UU-macOS-2.6.6(236).dmg",
+      "homepage" : "https://uu.163.com/down/mac/",
+      "localizedDescription" : "Network accelerator",
+      "name" : "UU Booster",
+      "sha256" : "5c4ac80bfb3998e482eedfc57dba5bd686952012c579e99d5f2e39f2b7c62ba2",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "subtitle" : "Network accelerator",
+      "version" : "2.6.6,236"
     },
     {
       "beta" : false,
@@ -50871,6 +50798,20 @@
       },
       "subtitle" : "Combined Ukrainian keyboard layout with typographic symbols",
       "version" : "2.0.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "usenapp",
+      "downloadURL" : "https://www.usenapp.com/download/Usenapp-1.23.dmg",
+      "homepage" : "https://www.usenapp.com/",
+      "localizedDescription" : "Newsreader and Usenet client",
+      "name" : "Usenapp",
+      "sha256" : "dbec524dcc13128ea3104ae4daf1c1e76d79432a56dfc6ce232d6f08c6460a12",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Newsreader and Usenet client",
+      "version" : "1.23,361"
     },
     {
       "beta" : false,
@@ -61884,13 +61825,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "gittyup",
-      "caption" : "gittyup updated from 1.2.0.1 to 1.2.0",
-      "date" : "2022-10-29T11:27:31Z",
-      "identifier" : "release-gittyup-1.2.0",
-      "title" : "New Release: gittyup 1.2.0"
-    },
-    {
       "appID" : "pushplaylabs-sidekick",
       "caption" : "Sidekick updated from 104.29.3.25042,42c9702 to 104.30.1.25571,90580da",
       "date" : "2022-10-29T11:27:31Z",
@@ -62582,6 +62516,13 @@
       "date" : "2022-10-31T21:34:57Z",
       "identifier" : "release-binocs-0.7.2",
       "title" : "New Release: Binocs 0.7.2"
+    },
+    {
+      "appID" : "microsoft-openjdk",
+      "caption" : "Microsoft Build of OpenJDK updated from 17.0.4.1 to 17.0.5",
+      "date" : "2022-10-31T23:39:07Z",
+      "identifier" : "release-microsoft-openjdk-17.0.5",
+      "title" : "New Release: Microsoft Build of OpenJDK 17.0.5"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

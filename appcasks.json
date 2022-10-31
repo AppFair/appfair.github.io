@@ -950,7 +950,7 @@
       "name" : "TeamViewer",
       "stats" : {
         "downloadCount" : 1908,
-        "impressionCount" : 563
+        "impressionCount" : 564
       },
       "subtitle" : "Remote access and connectivity software focused on security",
       "tintColor" : "B5B0A3",
@@ -991,7 +991,7 @@
       "sha256" : "4602bf08296747614fdcabfa68f420836dec9c8ebe9286a93b4c509a1e567c62",
       "stats" : {
         "downloadCount" : 1513,
-        "impressionCount" : 807
+        "impressionCount" : 808
       },
       "subtitle" : "Unpacks archive files",
       "tintColor" : "DABC92",
@@ -1110,7 +1110,7 @@
       "sha256" : "6a22bc16e9f95d22d53fb297524ff3b8cf7c6a2c0eb10ff8bbed99a16cba650a",
       "stats" : {
         "downloadCount" : 704,
-        "impressionCount" : 1149
+        "impressionCount" : 1150
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
@@ -1131,7 +1131,7 @@
       "sha256" : "788f5aa9387d8644c3f458bb58076723b7e7fa4efaa6837aa842185e6ff3eaa5",
       "stats" : {
         "downloadCount" : 621,
-        "impressionCount" : 492
+        "impressionCount" : 493
       },
       "subtitle" : "Integrated development environment",
       "tintColor" : "C8AAE6",
@@ -1152,7 +1152,7 @@
       "sha256" : "08c93f3968292d5654a6d3434773600e562a696dbeae063b6d8db921f5d96f75",
       "stats" : {
         "downloadCount" : 599,
-        "impressionCount" : 1199
+        "impressionCount" : 1200
       },
       "subtitle" : "Xcode Extension for reformatting Swift code",
       "tintColor" : "44424D",
@@ -1172,7 +1172,7 @@
       "name" : "WeChat for Mac",
       "stats" : {
         "downloadCount" : 501,
-        "impressionCount" : 903
+        "impressionCount" : 904
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
@@ -1193,7 +1193,7 @@
       "sha256" : "b4d931469fcbdf3041df383e76db85e01ac12e022f3c174beccb3e181bffe7d1",
       "stats" : {
         "downloadCount" : 481,
-        "impressionCount" : 695
+        "impressionCount" : 696
       },
       "subtitle" : "All-in-One Java Troubleshooting Tool",
       "tintColor" : "F24A1D",
@@ -1214,7 +1214,7 @@
       "sha256" : "afe125b05ef1740f9a95101233006453b0e02bd71b6195608414bab5fb5d2c6a",
       "stats" : {
         "downloadCount" : 476,
-        "impressionCount" : 722
+        "impressionCount" : 723
       },
       "subtitle" : "Tool to reverse the direction of scrolling",
       "tintColor" : "8ECCDE",
@@ -1234,7 +1234,7 @@
       "sha256" : "58c2d3c77ee05de52ff6c04596220a5050ccca14140d25984dcc39052c11e032",
       "stats" : {
         "downloadCount" : 429,
-        "impressionCount" : 1068
+        "impressionCount" : 1069
       },
       "subtitle" : "Break time reminder app",
       "tintColor" : "6C0F00",
@@ -1253,7 +1253,7 @@
       "name" : "Unity Hub",
       "stats" : {
         "downloadCount" : 417,
-        "impressionCount" : 656
+        "impressionCount" : 657
       },
       "subtitle" : "Management tool for Unity",
       "tintColor" : "A5A5A5",
@@ -1273,7 +1273,7 @@
       "sha256" : "8996cb1f2e899195cb64444ab73cb8de4863863d4ee4bc5b51bf223d11457388",
       "stats" : {
         "downloadCount" : 408,
-        "impressionCount" : 712
+        "impressionCount" : 713
       },
       "subtitle" : "Quicklook extension for source files",
       "tintColor" : "3A3737",
@@ -1293,7 +1293,7 @@
       "sha256" : "5a1870dd05d91b3d71716aa3216577611b204c89193d0d9b7f52252341d6a7c1",
       "stats" : {
         "downloadCount" : 401,
-        "impressionCount" : 664
+        "impressionCount" : 665
       },
       "subtitle" : "To-do list",
       "tintColor" : "E06156",
@@ -1313,7 +1313,7 @@
       "sha256" : "1ccf8a76a27f670f18039fa8d09063ae2f62463dfbd109dbaac5ca475c15f21a",
       "stats" : {
         "downloadCount" : 391,
-        "impressionCount" : 1369
+        "impressionCount" : 1370
       },
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
@@ -1334,7 +1334,7 @@
       "sha256" : "131757ddca7b5f0e3e3dd41bac5772a3e9fdac5f79ed1c5e38ffe29b2e2b041e",
       "stats" : {
         "downloadCount" : 384,
-        "impressionCount" : 1222
+        "impressionCount" : 1223
       },
       "subtitle" : "File transfer application",
       "tintColor" : "9594CA",
@@ -1354,7 +1354,7 @@
       "sha256" : "bd1d8079d3bedb7e29afc5a884617402d06dc591be12b5ddd26e63fa533a9c0e",
       "stats" : {
         "downloadCount" : 377,
-        "impressionCount" : 710
+        "impressionCount" : 711
       },
       "subtitle" : "Real time file synchronization software",
       "tintColor" : "48B0DA",
@@ -1373,7 +1373,7 @@
       "name" : "Viber",
       "stats" : {
         "downloadCount" : 337,
-        "impressionCount" : 1077
+        "impressionCount" : 1078
       },
       "subtitle" : "Calling and messaging application focusing on security",
       "tintColor" : "8E7FF3",
@@ -1393,7 +1393,7 @@
       "name" : "Termius",
       "stats" : {
         "downloadCount" : 325,
-        "impressionCount" : 845
+        "impressionCount" : 846
       },
       "subtitle" : "SSH client",
       "tintColor" : "242A48",
@@ -1414,7 +1414,7 @@
       "sha256" : "ad6ab5d9c5210c4e60a2254a140d6c116b040d58222064e1ee121721c58da761",
       "stats" : {
         "downloadCount" : 311,
-        "impressionCount" : 819
+        "impressionCount" : 821
       },
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
@@ -1435,7 +1435,7 @@
       "sha256" : "a9f481824a6d76c5a53a4443aac57f1fc2f091055742842defd81ed3b5f15d78",
       "stats" : {
         "downloadCount" : 304,
-        "impressionCount" : 733
+        "impressionCount" : 734
       },
       "subtitle" : "GUI for the Neovim text editor",
       "tintColor" : "55A349",
@@ -1455,7 +1455,7 @@
       "sha256" : "f20de5fae2308ac4c528d1e6ce9fd1aa071cfc05245d19924408640b2bbfd62b",
       "stats" : {
         "downloadCount" : 269,
-        "impressionCount" : 555
+        "impressionCount" : 556
       },
       "subtitle" : "Collection of tools to build a dedicated basic communication network",
       "tintColor" : "57D2DD",
@@ -1475,7 +1475,7 @@
       "sha256" : "8a8556ca83496ffd965af493a139e84cec25c38e9f64eb26f1a134a621bc9ec3",
       "stats" : {
         "downloadCount" : 240,
-        "impressionCount" : 903
+        "impressionCount" : 904
       },
       "subtitle" : "App to switch hosts",
       "tintColor" : "DC737D",
@@ -1496,7 +1496,7 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 238,
-        "impressionCount" : 946,
+        "impressionCount" : 947,
         "viewCount" : 74
       },
       "subtitle" : "Native app email client for Gmail",
@@ -1516,7 +1516,7 @@
       "sha256" : "858045662074579856a521dcf967ddfc818f68583ddc96fe73612d82e071bd00",
       "stats" : {
         "downloadCount" : 238,
-        "impressionCount" : 598
+        "impressionCount" : 599
       },
       "subtitle" : "Tool to manage the size and position of windows",
       "tintColor" : "6E6E6D",
@@ -1536,7 +1536,7 @@
       "sha256" : "c8f5b516ba11590b269852f074a070ac6fb87662345fe390f4a66dd1a6e4faf2",
       "stats" : {
         "downloadCount" : 232,
-        "impressionCount" : 488
+        "impressionCount" : 489
       },
       "subtitle" : "Utility to hide the notch",
       "tintColor" : "9434BE",
@@ -1576,7 +1576,7 @@
       "sha256" : "73ee8fbcf481b1cf68a3456f3c215be8a7d8835342220cc44fba6fa0440f37fc",
       "stats" : {
         "downloadCount" : 225,
-        "impressionCount" : 555
+        "impressionCount" : 556
       },
       "subtitle" : "Open-source markdown editor",
       "tintColor" : "41C1A1",
@@ -1616,7 +1616,7 @@
       "sha256" : "7565d0c2f8cd4c7aeefc4fd4e623053fb224d33db34cb1bc57f616d1f5c021f4",
       "stats" : {
         "downloadCount" : 210,
-        "impressionCount" : 1668
+        "impressionCount" : 1669
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -1635,7 +1635,7 @@
       "name" : "XnViewMP",
       "stats" : {
         "downloadCount" : 197,
-        "impressionCount" : 1180
+        "impressionCount" : 1182
       },
       "subtitle" : "Photo viewer, image manager, image resizer and more",
       "tintColor" : "D56402",
@@ -1761,7 +1761,7 @@
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
       "version" : "3.23.258",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2023,7 +2023,7 @@
       "subtitle" : "Automatically checks computer's security",
       "tintColor" : "618BA5",
       "version" : "2.02,2022.10",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2244,7 +2244,7 @@
       "subtitle" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "tintColor" : "761E76",
       "version" : "3.8.0",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2437,7 +2437,7 @@
       "name" : "SuperDuper!",
       "stats" : {
         "downloadCount" : 86,
-        "impressionCount" : 505
+        "impressionCount" : 506
       },
       "subtitle" : "Backup, recovery and cloning software",
       "tintColor" : "B7BDBC",
@@ -2823,7 +2823,7 @@
       "subtitle" : "Enable and disable the Intel CPU Turbo Boost feature",
       "tintColor" : "D4817E",
       "version" : "2.12.0",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3086,7 +3086,7 @@
       "subtitle" : "Notepad with a built-in calculator",
       "tintColor" : "C9B995",
       "version" : "3.7.1,352",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3182,7 +3182,7 @@
       "name" : "XnSoft XnConvert",
       "stats" : {
         "downloadCount" : 47,
-        "impressionCount" : 967
+        "impressionCount" : 969
       },
       "subtitle" : "Image-converter and resizer tool",
       "tintColor" : "BD8F32",
@@ -3256,19 +3256,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://cdn-2.webcatalog.io/webcatalog/WebCatalog-43.4.1-universal.dmg",
+      "downloadURL" : "https://cdn-2.webcatalog.io/webcatalog/WebCatalog-44.0.0-universal.dmg",
       "homepage" : "https://webcatalog.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-webcatalog/AppIcon.png",
       "localizedDescription" : "Tool to run web apps like desktop apps",
       "name" : "WebCatalog",
-      "sha256" : "ed4272f3d61db40d94a366bf58d4d6ae0c549f920a8a91752b4e98f2add01a87",
+      "sha256" : "b03490a418d1caaef12817a23172da9cc3de24489301530fbc9da128bdc7a308",
       "stats" : {
         "downloadCount" : 45,
         "impressionCount" : 323
       },
       "subtitle" : "Tool to run web apps like desktop apps",
       "tintColor" : "75A3D7",
-      "version" : "43.4.1"
+      "version" : "44.0.0",
+      "versionDate" : "2022-10-31T08:42:41Z"
     },
     {
       "beta" : false,
@@ -4970,7 +4971,7 @@
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
       "version" : "2.4.8",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7110,7 +7111,7 @@
       "subtitle" : "Diagram software",
       "tintColor" : "7CBCF9",
       "version" : "12.0.4",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7404,7 +7405,7 @@
       "subtitle" : "General-purpose text editor",
       "tintColor" : "CB8761",
       "version" : "13.3.3,13330",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8518,7 +8519,7 @@
       "sha256" : "05e1bbefd09e098eeb7faec29ea7556f76cf17b49be719af93e443d993beeb8c",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 782
+        "impressionCount" : 785
       },
       "tintColor" : "868180",
       "version" : "4.5.3"
@@ -10363,7 +10364,7 @@
       "subtitle" : "Offline password manager tool",
       "tintColor" : "F5E2EB",
       "version" : "0.6.7",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11217,7 +11218,7 @@
       "subtitle" : "Comic reader",
       "tintColor" : "F5DFA1",
       "version" : "9.10.0.2210304",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21138,7 +21139,7 @@
       },
       "subtitle" : "Mouse utility to add gesture functions and smooth scrolling to 3rd party mice",
       "version" : "2.2.3",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21649,16 +21650,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "canva",
-      "downloadURL" : "https://desktop-release.canva-deploy.com/Canva-1.53.0-x64.dmg",
+      "downloadURL" : "https://desktop-release.canva-deploy.com/Canva-1.54.0-x64.dmg",
       "homepage" : "https://www.canva.com/",
       "localizedDescription" : "Design tool",
       "name" : "Canva",
-      "sha256" : "c2b6be99c518e32fe19f0d9cb238751d681cf4911243e8036e08a636457cfec5",
+      "sha256" : "cc08af7d81de5d21f9cc81e0ac85341abd8c57f2bd89a194471830ea72e51a26",
       "stats" : {
         "downloadCount" : 149
       },
       "subtitle" : "Design tool",
-      "version" : "1.53.0"
+      "version" : "1.54.0",
+      "versionDate" : "2022-10-31T08:42:41Z"
     },
     {
       "beta" : false,
@@ -22682,7 +22684,7 @@
       },
       "subtitle" : "Music player focusing on visuals",
       "version" : "4.5.1",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23093,7 +23095,7 @@
       },
       "subtitle" : "GUI tool and IDE for MongoDB",
       "version" : "7.1.15",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28704,16 +28706,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gyazo",
-      "downloadURL" : "https://files.gyazo.com/setup/Gyazo-3.9.4.dmg",
+      "downloadURL" : "https://files.gyazo.com/setup/Gyazo-3.9.5.dmg",
       "homepage" : "https://gyazo.com/",
       "localizedDescription" : "Screenshot and screen recording tool",
       "name" : "Nota Gyazo GIF",
-      "sha256" : "28bfd9bc3001f1020cc8c7b364a4b79e0d4f2d1e43ace2fc692513a205cd31a1",
+      "sha256" : "349edddbefe2655aa8acf7a32bc65c561e34c163f44f26db22cf115f99c9ee23",
       "stats" : {
         "downloadCount" : 41
       },
       "subtitle" : "Screenshot and screen recording tool",
-      "version" : "3.9.4"
+      "version" : "3.9.5",
+      "versionDate" : "2022-10-31T08:42:41Z"
     },
     {
       "beta" : false,
@@ -29133,17 +29136,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "busycal",
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-10-30-19-48.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-10-31-07-08.zip",
       "homepage" : "https://busymac.com/busycal/index.html",
       "localizedDescription" : "Calendar software focusing on flexibility and reliability",
       "name" : "BusyCal",
-      "sha256" : "7e66066de81a6b67ad1d79c3c266c0b9b4f2705dee860a95fad7e291998d6e26",
+      "sha256" : "f9de1f725f73a8c26779fb6aa68d3796bb1b800517a33da391cd35b2994645a8",
       "stats" : {
         "downloadCount" : 39
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
-      "version" : "2022.4.4,2022-10-30-19-48",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "2022.4.4,2022-10-31-07-08",
+      "versionDate" : "2022-10-31T08:42:41Z"
     },
     {
       "beta" : false,
@@ -30479,7 +30482,7 @@
       },
       "subtitle" : "Language and framework for policy as code",
       "version" : "0.18.13",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30604,7 +30607,7 @@
       },
       "subtitle" : "Plot geo-referenced data from netCDF, HDF, and GRIB",
       "version" : "5.2.2",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31023,7 +31026,7 @@
       },
       "subtitle" : "Automator software to start apps, run scripts or commands and more",
       "version" : "9.0.6",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32788,7 +32791,7 @@
       },
       "subtitle" : "Interactive media player",
       "version" : "13.10.5,20221028144900",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36279,7 +36282,7 @@
       },
       "subtitle" : "Collection of small computer programs which implement one-player puzzle games",
       "version" : "20221029.ea4ba47",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36591,17 +36594,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gitfox",
-      "downloadURL" : "https://storage.googleapis.com/gitfox/builds/retail/7473/Gitfox.7473.zip",
+      "downloadURL" : "https://storage.googleapis.com/gitfox/builds/retail/7490/Gitfox.7490.zip",
       "homepage" : "https://www.gitfox.app/",
       "localizedDescription" : "Git client",
       "name" : "Gitfox",
-      "sha256" : "b7a878ce0899baee049694c07db524f36fa52a13886cc6750850066bfd942d46",
+      "sha256" : "96ac10c4deb65880cf2535c1b8e7f682dded8ca75568cd6630d45aa5ddcf497e",
       "stats" : {
         "downloadCount" : 15
       },
       "subtitle" : "Git client",
-      "version" : "3.0.0,7473",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "3.0.1,7490",
+      "versionDate" : "2022-10-31T08:42:41Z"
     },
     {
       "beta" : false,
@@ -36726,7 +36729,7 @@
       },
       "subtitle" : "App launcher and switcher",
       "version" : "3.1,440",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40310,7 +40313,7 @@
       },
       "subtitle" : "Note-taking tool for visual learning",
       "version" : "0.217.0",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52187,7 +52190,7 @@
       },
       "subtitle" : "Chinese input method",
       "version" : "3.2.3,8781",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53018,7 +53021,7 @@
       },
       "subtitle" : "File system utility used to view and reclaim disk space",
       "version" : "7.7.6,7760",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54363,17 +54366,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gcs",
-      "downloadURL" : "https://github.com/richardwilkes/gcs/releases/download/v5.3.0/gcs-5.3.0-macos-intel.dmg",
+      "downloadURL" : "https://github.com/richardwilkes/gcs/releases/download/v5.3.1/gcs-5.3.1-macos-intel.dmg",
       "homepage" : "https://gurpscharactersheet.com/",
       "localizedDescription" : "Character sheet editor for the GURPS Fourth Edition roleplaying game",
       "name" : "gcs",
-      "sha256" : "0a18ec4877b773951d7a2639d5f5b1c37c3d5de529239210ed2f605fe2461303",
+      "sha256" : "e192f3930eb7391abb754fc1e8347a4a13e891dbe14bd2decf256c6a9c218952",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Character sheet editor for the GURPS Fourth Edition roleplaying game",
-      "version" : "5.3.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5.3.1",
+      "versionDate" : "2022-10-31T08:42:41Z"
     },
     {
       "beta" : false,
@@ -58643,7 +58646,7 @@
       },
       "subtitle" : "Desktop version of the Android app",
       "version" : "1.6.0,1.6.2",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61440,7 +61443,7 @@
       },
       "subtitle" : "Password manager and form filler application",
       "version" : "9.3.6",
-      "versionDate" : "2022-10-31T07:32:29Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61817,41 +61820,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "readdle-spark",
-      "caption" : "Spark updated from 3.0.34.38267 to 3.1.0.38673",
-      "date" : "2022-10-28T18:38:09Z",
-      "identifier" : "release-readdle-spark-3.1.0.38673",
-      "title" : "New Release: Spark 3.1.0.38673"
-    },
-    {
-      "appID" : "brave-browser",
-      "caption" : "Brave updated from 1.45.113.0,145.113 to 1.45.116.0,145.116",
-      "date" : "2022-10-28T20:35:55Z",
-      "identifier" : "release-brave-browser-1.45.116.0,145.116",
-      "title" : "New Release: Brave 1.45.116.0,145.116"
-    },
-    {
-      "appID" : "jitsi-meet",
-      "caption" : "Jitsi Meet updated from 2022.9.1 to 2022.10.1",
-      "date" : "2022-10-28T20:35:55Z",
-      "identifier" : "release-jitsi-meet-2022.10.1",
-      "title" : "New Release: Jitsi Meet 2022.10.1"
-    },
-    {
-      "appID" : "vivid",
-      "caption" : "Vivid updated from 2.1,27 to 2.2.1,32",
-      "date" : "2022-10-28T23:37:26Z",
-      "identifier" : "release-vivid-2.2.1,32",
-      "title" : "New Release: Vivid 2.2.1,32"
-    },
-    {
-      "appID" : "vpn-tracker-365",
-      "caption" : "VPN Tracker 365 updated from 22.3.0,220308 to 22.3.1,220310",
-      "date" : "2022-10-28T23:37:26Z",
-      "identifier" : "release-vpn-tracker-365-22.3.1,220310",
-      "title" : "New Release: VPN Tracker 365 22.3.1,220310"
-    },
     {
       "appID" : "vrew",
       "caption" : "vrew updated from 0.12.6 to 0.12.7",
@@ -62336,13 +62304,6 @@
       "title" : "New Release: BetterMouse 1.4.2677"
     },
     {
-      "appID" : "busycal",
-      "caption" : "BusyCal updated from 2022.4.4,2022-10-29-22-19 to 2022.4.4,2022-10-30-19-48",
-      "date" : "2022-10-31T02:40:50Z",
-      "identifier" : "release-busycal-2022.4.4,2022-10-30-19-48",
-      "title" : "New Release: BusyCal 2022.4.4,2022-10-30-19-48"
-    },
-    {
       "appID" : "contour",
       "caption" : "Contour updated from 0.3.5.238 to 0.3.6.240",
       "date" : "2022-10-31T02:40:50Z",
@@ -62516,6 +62477,48 @@
       "date" : "2022-10-31T07:32:35Z",
       "identifier" : "release-roboform-9.3.6",
       "title" : "New Release: RoboForm 9.3.6"
+    },
+    {
+      "appID" : "webcatalog",
+      "caption" : "WebCatalog updated from 43.4.1 to 44.0.0",
+      "date" : "2022-10-31T08:42:42Z",
+      "identifier" : "release-webcatalog-44.0.0",
+      "title" : "New Release: WebCatalog 44.0.0"
+    },
+    {
+      "appID" : "canva",
+      "caption" : "Canva updated from 1.53.0 to 1.54.0",
+      "date" : "2022-10-31T08:42:42Z",
+      "identifier" : "release-canva-1.54.0",
+      "title" : "New Release: Canva 1.54.0"
+    },
+    {
+      "appID" : "gyazo",
+      "caption" : "Nota Gyazo GIF updated from 3.9.4 to 3.9.5",
+      "date" : "2022-10-31T08:42:42Z",
+      "identifier" : "release-gyazo-3.9.5",
+      "title" : "New Release: Nota Gyazo GIF 3.9.5"
+    },
+    {
+      "appID" : "busycal",
+      "caption" : "BusyCal updated from 2022.4.4,2022-10-30-19-48 to 2022.4.4,2022-10-31-07-08",
+      "date" : "2022-10-31T08:42:42Z",
+      "identifier" : "release-busycal-2022.4.4,2022-10-31-07-08",
+      "title" : "New Release: BusyCal 2022.4.4,2022-10-31-07-08"
+    },
+    {
+      "appID" : "gitfox",
+      "caption" : "Gitfox updated from 3.0.0,7473 to 3.0.1,7490",
+      "date" : "2022-10-31T08:42:43Z",
+      "identifier" : "release-gitfox-3.0.1,7490",
+      "title" : "New Release: Gitfox 3.0.1,7490"
+    },
+    {
+      "appID" : "gcs",
+      "caption" : "gcs updated from 5.3.0 to 5.3.1",
+      "date" : "2022-10-31T08:42:43Z",
+      "identifier" : "release-gcs-5.3.1",
+      "title" : "New Release: gcs 5.3.1"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

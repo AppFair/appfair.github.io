@@ -256,7 +256,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 4107,
+        "impressionCount" : 4108,
         "viewCount" : 335
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -289,7 +289,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4233,
+        "impressionCount" : 4234,
         "viewCount" : 344
       },
       "subtitle" : "Create DMGs and other archives",
@@ -1131,7 +1131,7 @@
       "sha256" : "788f5aa9387d8644c3f458bb58076723b7e7fa4efaa6837aa842185e6ff3eaa5",
       "stats" : {
         "downloadCount" : 621,
-        "impressionCount" : 493
+        "impressionCount" : 494
       },
       "subtitle" : "Integrated development environment",
       "tintColor" : "C8AAE6",
@@ -1193,7 +1193,7 @@
       "sha256" : "b4d931469fcbdf3041df383e76db85e01ac12e022f3c174beccb3e181bffe7d1",
       "stats" : {
         "downloadCount" : 481,
-        "impressionCount" : 696
+        "impressionCount" : 697
       },
       "subtitle" : "All-in-One Java Troubleshooting Tool",
       "tintColor" : "F24A1D",
@@ -1735,7 +1735,7 @@
       "sha256" : "58a0b7c2caacedee1d0ed2306f81a21aff670e21aac1fb5a283ff4f127f9cfa2",
       "stats" : {
         "downloadCount" : 173,
-        "impressionCount" : 587
+        "impressionCount" : 588
       },
       "subtitle" : "VPN and WiFi proxy",
       "tintColor" : "D0DDF9",
@@ -1937,7 +1937,7 @@
       "name" : "Surfshark",
       "stats" : {
         "downloadCount" : 125,
-        "impressionCount" : 631
+        "impressionCount" : 632
       },
       "subtitle" : "VPN client for secure internet access and private browsing",
       "tintColor" : "2F96A8",
@@ -3465,7 +3465,7 @@
       "sha256" : "574198aa286094be84a1dab896d1a5d23a7f4173ec212bddcad3c9830a36fe31",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 228
+        "impressionCount" : 229
       },
       "subtitle" : "Electron Windows 95",
       "tintColor" : "3E2F1E",
@@ -4669,7 +4669,7 @@
       "sha256" : "4b6b270a105257f0887e8c9a9b4078e44ded58f3c362ccbe822ca8ce219f84e6",
       "stats" : {
         "downloadCount" : 22,
-        "impressionCount" : 505
+        "impressionCount" : 506
       },
       "subtitle" : "Todo manager based on the todo.txt syntax",
       "tintColor" : "715C8C",
@@ -4987,7 +4987,7 @@
       "sha256" : "16d1943c2695ed02a155415f59a8723504203c76e80eb168a85e38132b205d54",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 733
+        "impressionCount" : 734
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
@@ -5183,7 +5183,7 @@
       "sha256" : "6d8e2e7ef78360c645aa255f80d08a4e26ca9a3cba980969643cdd741553582f",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 391
+        "impressionCount" : 392
       },
       "subtitle" : "Font manager application",
       "tintColor" : "DAB6B1",
@@ -11071,7 +11071,7 @@
       "sha256" : "2d8a48bd060f822ad7ef2ec1e4a1853d10e7478460738406fc376c594bd08061",
       "stats" : {
         "downloadCount" : 273,
-        "impressionCount" : 94
+        "impressionCount" : 95
       },
       "subtitle" : "3D printer and slicing GUI",
       "tintColor" : "38B9E8",
@@ -18794,16 +18794,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "mattermost",
-      "downloadURL" : "https://releases.mattermost.com/desktop/5.1.1/mattermost-desktop-5.1.1-mac-x64.zip",
+      "downloadURL" : "https://releases.mattermost.com/desktop/5.2.0/mattermost-desktop-5.2.0-mac-x64.zip",
       "homepage" : "https://about.mattermost.com/",
       "localizedDescription" : "Open-source, self-hosted Slack-alternative",
       "name" : "Mattermost",
-      "sha256" : "d7bae51221884dce113b9b5cf23efc1245fc6ad2210a1754c0ee266e644da0cf",
+      "sha256" : "3bf5cbaeef54dc1ae41736c79bfd39bae82b2755fa51cefb183275807e9ce085",
       "stats" : {
         "downloadCount" : 395
       },
       "subtitle" : "Open-source, self-hosted Slack-alternative",
-      "version" : "5.1.1"
+      "version" : "5.2.0",
+      "versionDate" : "2022-10-31T15:33:46Z"
     },
     {
       "beta" : false,
@@ -26857,7 +26858,7 @@
       "homepage" : "https://www.perforce.com/",
       "localizedDescription" : "Version control",
       "name" : "Perforce Helix Core Server",
-      "sha256" : "c0ad74b749af7bf7fcef7adbe71dfd975407a8163a14f3a8c4fd4b9639531d55",
+      "sha256" : "3c763b8f7749d9abc9b55bc39a3ac93b652c6c11c8993eecafa949ee55dd5f64",
       "stats" : {
         "downloadCount" : 55
       },
@@ -61822,13 +61823,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "flipper",
-      "caption" : "Facebook Flipper updated from 0.172.0 to 0.173.0",
-      "date" : "2022-10-28T23:37:27Z",
-      "identifier" : "release-flipper-0.173.0",
-      "title" : "New Release: Facebook Flipper 0.173.0"
-    },
-    {
       "appID" : "opera",
       "caption" : "Opera updated from 92.0.4561.30 to 92.0.4561.33",
       "date" : "2022-10-28T23:37:27Z",
@@ -62520,6 +62514,13 @@
       "date" : "2022-10-31T13:03:45Z",
       "identifier" : "release-librewolf-106.0.2,1,3d21c6d2b48a212f359a5ecac6c80d01",
       "title" : "New Release: LibreWolf 106.0.2,1,3d21c6d2b48a212f359a5ecac6c80d01"
+    },
+    {
+      "appID" : "mattermost",
+      "caption" : "Mattermost updated from 5.1.1 to 5.2.0",
+      "date" : "2022-10-31T15:33:47Z",
+      "identifier" : "release-mattermost-5.2.0",
+      "title" : "New Release: Mattermost 5.2.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

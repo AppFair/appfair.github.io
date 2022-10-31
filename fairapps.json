@@ -58,9 +58,9 @@
       "size" : 11973807,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 404,
+        "downloadCount" : 405,
         "forkCount" : 1,
-        "impressionCount" : 222,
+        "impressionCount" : 229,
         "issueCount" : 7,
         "starCount" : 29,
         "viewCount" : 39,
@@ -101,7 +101,7 @@
         "coreSize" : 168592,
         "downloadCount" : 91,
         "forkCount" : 0,
-        "impressionCount" : 395,
+        "impressionCount" : 402,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 50,
@@ -135,7 +135,7 @@
         "coreSize" : 168592,
         "downloadCount" : 61,
         "forkCount" : 0,
-        "impressionCount" : 820,
+        "impressionCount" : 826,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 92,
@@ -174,7 +174,7 @@
         "coreSize" : 168592,
         "downloadCount" : 51,
         "forkCount" : 0,
-        "impressionCount" : 1083,
+        "impressionCount" : 1089,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 73,
@@ -220,7 +220,7 @@
         "coreSize" : 170576,
         "downloadCount" : 44,
         "forkCount" : 0,
-        "impressionCount" : 5592,
+        "impressionCount" : 5598,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 852,
@@ -298,7 +298,7 @@
         "coreSize" : 170176,
         "downloadCount" : 34,
         "forkCount" : 0,
-        "impressionCount" : 1377,
+        "impressionCount" : 1384,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 119,
@@ -341,7 +341,7 @@
         "coreSize" : 170224,
         "downloadCount" : 31,
         "forkCount" : 0,
-        "impressionCount" : 1370,
+        "impressionCount" : 1375,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 117,
@@ -372,7 +372,7 @@
         "coreSize" : 170144,
         "downloadCount" : 30,
         "forkCount" : 0,
-        "impressionCount" : 1166,
+        "impressionCount" : 1173,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 102,
@@ -450,7 +450,7 @@
         "coreSize" : 170240,
         "downloadCount" : 26,
         "forkCount" : 1,
-        "impressionCount" : 1194,
+        "impressionCount" : 1200,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 85,
@@ -490,7 +490,7 @@
         "coreSize" : 170144,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 4193,
+        "impressionCount" : 4199,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 296,
@@ -527,7 +527,7 @@
         "coreSize" : 152800,
         "downloadCount" : 24,
         "forkCount" : 0,
-        "impressionCount" : 4457,
+        "impressionCount" : 4463,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 652,
@@ -589,7 +589,7 @@
         "coreSize" : 170144,
         "downloadCount" : 19,
         "forkCount" : 0,
-        "impressionCount" : 1457,
+        "impressionCount" : 1462,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 98,
@@ -632,7 +632,7 @@
         "coreSize" : 170240,
         "downloadCount" : 16,
         "forkCount" : 0,
-        "impressionCount" : 908,
+        "impressionCount" : 914,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 41,
@@ -706,7 +706,7 @@
         }
       ],
       "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "ffeb3d3d025f2694d077341e252fd596c40e1a5eef554e3a082ec50e3952cc33",
+      "sha256" : "422a08861c4417e0f6d73f3aff7b0979bc72c81c24d6fa74461d6e81edea3716",
       "size" : 7994433,
       "stats" : {
         "coreSize" : 168592,
@@ -731,7 +731,7 @@
       "homepage" : "https://tune-out.appfair.net",
       "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
       "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#9a9fc69d4ad2c1c955fc05136cad0106b4dc0081e85f2f6c0a5250d83149c7fd",
+      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
       "name" : "Tune Out",
       "permissions" : [
         {
@@ -749,7 +749,7 @@
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
         "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
       ],
-      "sha256" : "3e8b8eb5ce1866153755895ce779b6dc01fa1bc818a7a9f93c3495fafe96363c",
+      "sha256" : "80fe509d25702bd6999a04389b3eb058e3724767f5276050e48ba047e3a35b76",
       "size" : 15050796,
       "stats" : {
         "coreSize" : 168592,
@@ -825,7 +825,7 @@
         "coreSize" : 67800,
         "downloadCount" : 10,
         "forkCount" : 0,
-        "impressionCount" : 1298,
+        "impressionCount" : 1304,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 60,
@@ -899,46 +899,6 @@
       "version" : "0.0.1",
       "versionDate" : "2022-08-23T00:00:00Z",
       "versionDescription" : ""
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Sun-Bow",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
-      "homepage" : "http://Sun-Bow.appfair.net",
-      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
-      "localizedDescription" : "An app for sunnier days",
-      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#46d26d99215fc30c6019d1e760a2b247c2be0a2e74dce7f557f0c9fd6c50aaff",
-      "name" : "Sun Bow",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        }
-      ],
-      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
-      "screenshotURLs" : [
-        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_02-mac-1228x916.png",
-        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-mac-1574x1294.png"
-      ],
-      "sha256" : "b82e985a38e877215eea24d7d0e7f6b59358850fe25cd480ec6a1c328895c96c",
-      "size" : 26936104,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 9,
-        "forkCount" : 0,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 3,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An app for sunnier days",
-      "tintColor" : "17B0E6",
-      "version" : "0.0.28",
-      "versionDate" : "2022-10-29T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     },
     {
       "beta" : true,
@@ -1079,7 +1039,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -1093,7 +1053,7 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-mac-1228x916.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-mac-1574x1294.png"
       ],
-      "sha256" : "a7fc1cb1e2d4cfa1e20dd77b2260627d207f2472b35c0ef6979a5ea2f4723eea",
+      "sha256" : "1bdf76dfb1434f0baeb84e2a53f89942739deaf6b66cf06d0c8db04be4b83e63",
       "size" : 5023321,
       "stats" : {
         "coreSize" : 168592,
@@ -1288,7 +1248,7 @@
         "coreSize" : 102392,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 3604,
+        "impressionCount" : 3608,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 205,
@@ -1435,7 +1395,7 @@
         "coreSize" : 170144,
         "downloadCount" : 4,
         "forkCount" : 0,
-        "impressionCount" : 1125,
+        "impressionCount" : 1126,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 71,
@@ -1501,7 +1461,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1047,
+        "impressionCount" : 1049,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 77,
@@ -1565,7 +1525,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1491,
+        "impressionCount" : 1496,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 79,
@@ -1680,6 +1640,46 @@
       "version" : "0.0.16",
       "versionDate" : "2022-02-12T00:00:00Z",
       "versionDescription" : "Release 0.0.16"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sun-Bow",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow-macOS.zip",
+      "homepage" : "http://Sun-Bow.appfair.net",
+      "iconURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Sun-Bow.png",
+      "localizedDescription" : "An app for sunnier days",
+      "metadataURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/Info.plist#7b5180dd41e4d7b9aaa93d48164a1c22552ae85fb5e63464b9739ce6c99d59f0",
+      "name" : "Sun Bow",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network in order to download books"
+        }
+      ],
+      "readmeURL" : "https://github.com/Sun-Bow/App/releases/download/0.0.28/README.md#0e28dd211972a77b4f5bcd27c312fe43dd86aa54fbcfe2ceef5a9732ba7ca3bf",
+      "screenshotURLs" : [
+        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_02-mac-1228x916.png",
+        "https://github.com/Sun-Bow/App/releases/download/0.0.28/screenshot_01-mac-1574x1294.png"
+      ],
+      "sha256" : "217935a3c15b9b1307a0b46c9d17098d610046118773f9a373533a664e204bbb",
+      "size" : 26936081,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 0,
+        "forkCount" : 0,
+        "impressionCount" : 1,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "An app for sunnier days",
+      "tintColor" : "17B0E6",
+      "version" : "0.0.28",
+      "versionDate" : "2022-10-31T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sun-Bow/App/compare/0.0.27...0.0.28"
     }
   ],
   "fundingSources" : [

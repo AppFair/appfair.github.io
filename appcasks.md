@@ -800,7 +800,7 @@ tr:nth-child(even) {
 | [``Continuum Analytics Anac…``](https://www.anaconda.com/) | ``2022.10`` | `5771` | `2022-10-18T00:00:00Z` |  |  |  |  | `0` |  |
 | [``RAR Archiver``](https://www.rarlab.com/) | ``6.12`` | `5762` |  |  |  |  |  | `0` |  |
 | [``WineHQ-stable``](https://wiki.winehq.org/MacOS) | ``7.0`` | `5649` |  |  |  |  |  | `0` |  |
-| [``Eclipse Temurin Java Dev…``](https://adoptium.net/) | ``19.0.1,10`` | `5545` | `2022-10-31T11:32:01Z` |  |  |  |  | `0` |  |
+| [``Eclipse Temurin Java Dev…``](https://adoptium.net/) | ``19.0.1,10`` | `5545` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Microsoft Teams``](https://teams.microsoft.com/downloads) | ``1.5.00.26358`` | `5031` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``miniforge``](https://github.com/conda-forge/miniforge) | ``22.9.0-0`` | `4516` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Obsidian``](https://obsidian.md/) | ``1.0.3`` | `4435` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -859,7 +859,7 @@ tr:nth-child(even) {
 | [``Background Music``](https://github.com/kyleneideck/BackgroundMusic) | ``0.4.0`` | `1942` |  |  |  |  |  | `0` |  |
 | [``Adobe Acrobat Reader``](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) | ``22.003.20258`` | `1932` |  |  |  |  |  | `0` |  |
 | [``Brooklyn``](https://github.com/pedrommcarrasco/Brooklyn) | ``2.1.0`` | `1861` |  |  |  |  |  | `0` |  |
-| [``LibreWolf``](https://librewolf.net/) | ``106.0.1,1,496c185831e805…`` | `1859` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
+| [``LibreWolf``](https://librewolf.net/) | ``106.0.2,1,3d21c6d2b48a21…`` | `1859` | `2022-10-31T13:03:44Z` |  |  |  |  | `0` |  |
 | [``calibre``](https://calibre-ebook.com/) | ``6.7.1`` | `1854` |  |  |  |  |  | `0` |  |
 | [``Microsoft Remote Desktop``](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-mac) | ``10.7.10`` | `1818` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``.NET SDK``](https://www.microsoft.com/net/core#macos) | ``6.0.402,f55a179b-7084-41…`` | `1792` |  |  |  |  |  | `0` |  |
@@ -1797,7 +1797,7 @@ tr:nth-child(even) {
 | [``KMPlayer``](https://www.kmplayer.com/) | ``0.3.2`` | `37` |  |  |  |  |  | `0` |  |
 | [``Livebook``](https://livebook.dev/) | ``0.7.2`` | `37` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Mumble``](https://wiki.mumble.info/wiki/Main_Page) | ``1.4.287`` | `37` |  |  |  |  |  | `0` |  |
-| [``osu!``](https://github.com/ppy/osu/) | ``2022.1031.0`` | `37` | `2022-10-31T11:32:01Z` |  |  |  |  | `0` |  |
+| [``osu!``](https://github.com/ppy/osu/) | ``2022.1031.0`` | `37` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``QR Journal``](https://www.joshjacob.com/mac-development/qrjournal.php) | ``2.0`` | `37` |  |  |  |  |  | `0` |  |
 | [``QtSpim``](https://spimsimulator.sourceforge.io/) | ``9.1.23`` | `37` |  |  |  |  |  | `0` |  |
 | [``AdGuard VPN``](https://adguard-vpn.com/) | ``1.2.3.208`` | `36` |  |  |  |  |  | `0` |  |

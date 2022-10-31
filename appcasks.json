@@ -15433,7 +15433,7 @@
       },
       "subtitle" : "JDK from the Eclipse Foundation (Adoptium)",
       "version" : "19.0.1,10",
-      "versionDate" : "2022-10-31T11:32:01Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16268,17 +16268,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "librewolf",
-      "downloadURL" : "https://gitlab.com/librewolf-community/browser/macos/uploads/496c185831e805bdc4975095f57a7ba4/librewolf-106.0.1-1.en-US.mac.x86_64.dmg",
+      "downloadURL" : "https://gitlab.com/librewolf-community/browser/macos/uploads/3d21c6d2b48a212f359a5ecac6c80d01/librewolf-106.0.2-1.en-US.mac.x86_64.dmg",
       "homepage" : "https://librewolf.net/",
       "localizedDescription" : "Web browser",
       "name" : "LibreWolf",
-      "sha256" : "15caee8cfdf6233babbac9819f062f2d4859126a6a698e307660e986ac16ffe6",
+      "sha256" : "3842faef30c69761620bb65763a52b01dd52b399c2c8a62c39a656c24e3bcf36",
       "stats" : {
         "downloadCount" : 1859
       },
       "subtitle" : "Web browser",
-      "version" : "106.0.1,1,496c185831e805bdc4975095f57a7ba4",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "106.0.2,1,3d21c6d2b48a212f359a5ecac6c80d01",
+      "versionDate" : "2022-10-31T13:03:44Z"
     },
     {
       "beta" : false,
@@ -29584,7 +29584,7 @@
       },
       "subtitle" : "Rhythm game",
       "version" : "2022.1031.0",
-      "versionDate" : "2022-10-31T11:32:01Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61822,13 +61822,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "trader-workstation",
-      "caption" : "Trader Workstation updated from 10.19.1e to 10.19.1f",
-      "date" : "2022-10-28T23:37:27Z",
-      "identifier" : "release-trader-workstation-10.19.1f",
-      "title" : "New Release: Trader Workstation 10.19.1f"
-    },
-    {
       "appID" : "flipper",
       "caption" : "Facebook Flipper updated from 0.172.0 to 0.173.0",
       "date" : "2022-10-28T23:37:27Z",
@@ -62520,6 +62513,13 @@
       "date" : "2022-10-31T11:32:03Z",
       "identifier" : "release-osu-2022.1031.0",
       "title" : "New Release: osu! 2022.1031.0"
+    },
+    {
+      "appID" : "librewolf",
+      "caption" : "LibreWolf updated from 106.0.1,1,496c185831e805bdc4975095f57a7ba4 to 106.0.2,1,3d21c6d2b48a212f359a5ecac6c80d01",
+      "date" : "2022-10-31T13:03:45Z",
+      "identifier" : "release-librewolf-106.0.2,1,3d21c6d2b48a212f359a5ecac6c80d01",
+      "title" : "New Release: LibreWolf 106.0.2,1,3d21c6d2b48a212f359a5ecac6c80d01"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

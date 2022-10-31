@@ -356,7 +356,7 @@
       "sha256" : "ddc26d7afc0fd04188f1a6ff8208646a23a04c14b9f43657abd8d89d102bde04",
       "stats" : {
         "downloadCount" : 5169,
-        "impressionCount" : 5729,
+        "impressionCount" : 5730,
         "viewCount" : 574
       },
       "subtitle" : "System monitor for the menu bar",
@@ -1756,7 +1756,7 @@
       "sha256" : "e206eab78786378cdb49cbd52cf3ed508c112897d2b465e5208362653f5355e7",
       "stats" : {
         "downloadCount" : 168,
-        "impressionCount" : 716
+        "impressionCount" : 717
       },
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
@@ -2018,7 +2018,7 @@
       "sha256" : "bd9d6cc175cdf86971a1a1bd39051fa82299ae79c6eee502b9125326649b4d04",
       "stats" : {
         "downloadCount" : 118,
-        "impressionCount" : 914
+        "impressionCount" : 916
       },
       "subtitle" : "Automatically checks computer's security",
       "tintColor" : "618BA5",
@@ -2239,7 +2239,7 @@
       "sha256" : "f8e6c58fe822c06de46b0fdf09b7a3ee0b177d10e06699be6d15bc5eb84eff9e",
       "stats" : {
         "downloadCount" : 97,
-        "impressionCount" : 867
+        "impressionCount" : 868
       },
       "subtitle" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "tintColor" : "761E76",
@@ -2818,7 +2818,7 @@
       "sha256" : "c93c9d73839dd1b826d5651d0b6a37cde6c9959afd2a6ac9b3bac7a5b780dac8",
       "stats" : {
         "downloadCount" : 63,
-        "impressionCount" : 407
+        "impressionCount" : 408
       },
       "subtitle" : "Enable and disable the Intel CPU Turbo Boost feature",
       "tintColor" : "D4817E",
@@ -3081,7 +3081,7 @@
       "sha256" : "d44ad5c565acb29dbd742b652c2e8ac4a0dcc9a7849ba3301629a2d578457d44",
       "stats" : {
         "downloadCount" : 51,
-        "impressionCount" : 533
+        "impressionCount" : 534
       },
       "subtitle" : "Notepad with a built-in calculator",
       "tintColor" : "C9B995",
@@ -3264,7 +3264,7 @@
       "sha256" : "b03490a418d1caaef12817a23172da9cc3de24489301530fbc9da128bdc7a308",
       "stats" : {
         "downloadCount" : 45,
-        "impressionCount" : 325
+        "impressionCount" : 326
       },
       "subtitle" : "Tool to run web apps like desktop apps",
       "tintColor" : "75A3D7",
@@ -4966,7 +4966,7 @@
       "sha256" : "2d34bdc4e875f18a582954cde8b86944a5d4b0339ad6fbce9083bc517fa889dd",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 840
+        "impressionCount" : 841
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
@@ -5183,7 +5183,7 @@
       "sha256" : "6d8e2e7ef78360c645aa255f80d08a4e26ca9a3cba980969643cdd741553582f",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 390
+        "impressionCount" : 391
       },
       "subtitle" : "Font manager application",
       "tintColor" : "DAB6B1",
@@ -7106,7 +7106,7 @@
       "name" : "EdrawMax",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 238
+        "impressionCount" : 239
       },
       "subtitle" : "Diagram software",
       "tintColor" : "7CBCF9",
@@ -7400,7 +7400,7 @@
       "name" : "Smultron",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 530
+        "impressionCount" : 531
       },
       "subtitle" : "General-purpose text editor",
       "tintColor" : "CB8761",
@@ -10359,7 +10359,7 @@
       "sha256" : "7bf9c9568972b75442b55cfb3c342d6e13cb0d4217c98076da934a3127f6e6b6",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 184
+        "impressionCount" : 185
       },
       "subtitle" : "Offline password manager tool",
       "tintColor" : "F5E2EB",
@@ -11213,7 +11213,7 @@
       "sha256" : "f8abe8a59cc0e29f06aa3eef6e932961827ae94e92eeabc02f5de8232e397d33",
       "stats" : {
         "downloadCount" : 215,
-        "impressionCount" : 108
+        "impressionCount" : 109
       },
       "subtitle" : "Comic reader",
       "tintColor" : "F5DFA1",
@@ -16278,7 +16278,7 @@
       },
       "subtitle" : "Web browser",
       "version" : "106.0.2,1,3d21c6d2b48a212f359a5ecac6c80d01",
-      "versionDate" : "2022-10-31T13:03:44Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,

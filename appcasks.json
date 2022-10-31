@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2141,
-        "impressionCount" : 11418,
+        "impressionCount" : 11419,
         "viewCount" : 1288
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8210,
-        "impressionCount" : 8941,
+        "impressionCount" : 8942,
         "viewCount" : 764
       },
       "subtitle" : "Multimedia player",
@@ -82,7 +82,7 @@
       ],
       "stats" : {
         "downloadCount" : 8198,
-        "impressionCount" : 9468,
+        "impressionCount" : 9469,
         "viewCount" : 711
       },
       "subtitle" : "Music streaming service",
@@ -111,7 +111,7 @@
       "sha256" : "73d87cc323dd24bcc14e482f896a91f09c24b321244d9d2796a3315ae092fd35",
       "stats" : {
         "downloadCount" : 3300,
-        "impressionCount" : 9851,
+        "impressionCount" : 9852,
         "viewCount" : 643
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -139,7 +139,7 @@
       ],
       "stats" : {
         "downloadCount" : 2581,
-        "impressionCount" : 7618,
+        "impressionCount" : 7619,
         "viewCount" : 464
       },
       "subtitle" : "Video game digital distribution service",
@@ -169,7 +169,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 228,
-        "impressionCount" : 5918,
+        "impressionCount" : 5919,
         "viewCount" : 477
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -195,7 +195,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 204,
-        "impressionCount" : 5085,
+        "impressionCount" : 5086,
         "viewCount" : 375
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -222,7 +222,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 127,
-        "impressionCount" : 4161,
+        "impressionCount" : 4162,
         "viewCount" : 357
       },
       "subtitle" : "File synchronizer",
@@ -256,7 +256,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 4108,
+        "impressionCount" : 4109,
         "viewCount" : 335
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
@@ -289,7 +289,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4234,
+        "impressionCount" : 4235,
         "viewCount" : 344
       },
       "subtitle" : "Create DMGs and other archives",
@@ -311,7 +311,7 @@
       "sha256" : "3dda93337f730db11d413e45356a66ebe3b65a381986017fadcbf6459a568f65",
       "stats" : {
         "downloadCount" : 7780,
-        "impressionCount" : 3741,
+        "impressionCount" : 3742,
         "viewCount" : 274
       },
       "subtitle" : "Team communication and collaboration software",
@@ -334,7 +334,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5652,
-        "impressionCount" : 2602,
+        "impressionCount" : 2603,
         "viewCount" : 131
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -356,7 +356,7 @@
       "sha256" : "ddc26d7afc0fd04188f1a6ff8208646a23a04c14b9f43657abd8d89d102bde04",
       "stats" : {
         "downloadCount" : 5169,
-        "impressionCount" : 5730,
+        "impressionCount" : 5731,
         "viewCount" : 574
       },
       "subtitle" : "System monitor for the menu bar",
@@ -379,7 +379,7 @@
       "sha256" : "ebcd964f791b59734559ba3859cd58ba354d36d51d59f13fda710197f057355b",
       "stats" : {
         "downloadCount" : 3129,
-        "impressionCount" : 2294,
+        "impressionCount" : 2295,
         "viewCount" : 136
       },
       "subtitle" : "Network protocol analyzer",
@@ -402,7 +402,7 @@
       "sha256" : "7a273bd1e9e1d414b24086401956c871104d679070d9c7061b397dc60377976b",
       "stats" : {
         "downloadCount" : 2480,
-        "impressionCount" : 2590,
+        "impressionCount" : 2591,
         "viewCount" : 192
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -424,7 +424,7 @@
       "sha256" : "550e3639c2eb59bf01b0555398dd80b7919f6b711ae3e6474424a2f8be8bcfbd",
       "stats" : {
         "downloadCount" : 2360,
-        "impressionCount" : 3603,
+        "impressionCount" : 3604,
         "viewCount" : 162
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -447,7 +447,7 @@
       "sha256" : "463dba6fbcb6e63dfbe7a62db2929e2a882502ccd19dbfe16e864d79d499c49d",
       "stats" : {
         "downloadCount" : 2261,
-        "impressionCount" : 4319,
+        "impressionCount" : 4320,
         "viewCount" : 428
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -469,7 +469,7 @@
       "sha256" : "b30d4844e9a726094aac4cc84eb855907fff96445d4c1bdad45d67db32e32675",
       "stats" : {
         "downloadCount" : 1854,
-        "impressionCount" : 2069,
+        "impressionCount" : 2070,
         "viewCount" : 66
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -491,7 +491,7 @@
       "sha256" : "ca5dc76ee8350dbeca782eac84941b411c9a13d14c355ae8ff33f089360a03d1",
       "stats" : {
         "downloadCount" : 1616,
-        "impressionCount" : 3551,
+        "impressionCount" : 3552,
         "viewCount" : 175
       },
       "subtitle" : "Web browser focusing on security",
@@ -530,7 +530,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1598,
-        "impressionCount" : 3746
+        "impressionCount" : 3747
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -554,7 +554,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1564,
-        "impressionCount" : 3580
+        "impressionCount" : 3581
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -575,7 +575,7 @@
       "sha256" : "8083de786520fa5c053c64cdcece23a46ed564eb165af4b6cbaedf3f9dafc7ce",
       "stats" : {
         "downloadCount" : 1331,
-        "impressionCount" : 2556,
+        "impressionCount" : 2557,
         "viewCount" : 125
       },
       "subtitle" : "Customizable email client",
@@ -1707,19 +1707,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.3.00_236.dmg",
+      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.3.10_238.dmg",
       "homepage" : "https://www.ticktick.com/home",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ticktick/AppIcon.png",
       "localizedDescription" : "To-do & task list manager",
       "name" : "TickTick",
-      "sha256" : "02830a24a8b743315d94678b9ec9105eb33a3a0f7f3e19ec51145b09b6ece720",
+      "sha256" : "03f769576fcf575eb6f96fb645a22e399c2daff9ff4d60b3126453a884f8b2a8",
       "stats" : {
         "downloadCount" : 173,
         "impressionCount" : 755
       },
       "subtitle" : "To-do & task list manager",
       "tintColor" : "E8E9F0",
-      "version" : "4.3.00,236"
+      "version" : "4.3.10,238",
+      "versionDate" : "2022-10-31T16:45:40Z"
     },
     {
       "beta" : false,
@@ -10691,17 +10692,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "firefox",
-      "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/106.0.2/mac/en-US/Firefox%20106.0.2.dmg",
+      "downloadURL" : "https://download-installer.cdn.mozilla.net/pub/firefox/releases/106.0.3/mac/en-US/Firefox%20106.0.3.dmg",
       "homepage" : "https://www.mozilla.org/firefox/",
       "localizedDescription" : "Web browser",
       "name" : "Mozilla Firefox",
-      "sha256" : "9ab57fd64e1f9ce47044b28267aadbd6c055b2f41197121e00d2d1822a0f23dd",
+      "sha256" : "9fbffd89b9b1f4364592d092757947f4a8f6dc1901ac5ffc26e7751c4b1da2cf",
       "stats" : {
         "downloadCount" : 17352
       },
       "subtitle" : "Web browser",
-      "version" : "106.0.2",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "106.0.3",
+      "versionDate" : "2022-10-31T16:45:40Z"
     },
     {
       "beta" : false,
@@ -15138,17 +15139,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "docker",
-      "downloadURL" : "https://desktop.docker.com/mac/main/amd64/89412/Docker.dmg",
+      "downloadURL" : "https://desktop.docker.com/mac/main/amd64/90346/Docker.dmg",
       "homepage" : "https://www.docker.com/products/docker-desktop",
       "localizedDescription" : "App to build and share containerized applications and microservices",
       "name" : "Docker Desktop",
-      "sha256" : "5a9e7b810bc9937a0945f9cbbb7ec00c2c5c386b5897c59c1c93187eaf0f2081",
+      "sha256" : "9147ca38d46c59a758ac53560814c91c4deda9b0c4c63adfa3df76f37bacbf00",
       "stats" : {
         "downloadCount" : 24879
       },
       "subtitle" : "App to build and share containerized applications and microservices",
-      "version" : "4.13.0,89412",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "4.13.1,90346",
+      "versionDate" : "2022-10-31T16:45:40Z"
     },
     {
       "beta" : false,
@@ -18804,7 +18805,7 @@
       },
       "subtitle" : "Open-source, self-hosted Slack-alternative",
       "version" : "5.2.0",
-      "versionDate" : "2022-10-31T15:33:46Z"
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18878,17 +18879,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "pdf-expert",
-      "downloadURL" : "https://downloads.pdfexpert.com/pem3/versions/868/PDFExpert.zip",
+      "downloadURL" : "https://downloads.pdfexpert.com/pem3/versions/875/PDFExpert.zip",
       "homepage" : "https://pdfexpert.com/",
       "localizedDescription" : "PDF reader, editor and annotator",
       "name" : "PDF Expert",
-      "sha256" : "5b65d7acb22d8aa1238f98cfc31be02e85fd0c6bd495bfbb323fa4e68da58e75",
+      "sha256" : "3ccb300877a06b3a3ce6317b31e1be126e5f773887844b0f1cd5ac370bec50c6",
       "stats" : {
         "downloadCount" : 385
       },
       "subtitle" : "PDF reader, editor and annotator",
-      "version" : "3.0.28,868",
-      "versionDate" : "2022-10-18T00:00:00Z"
+      "version" : "3.0.29,875",
+      "versionDate" : "2022-10-31T16:45:40Z"
     },
     {
       "beta" : false,
@@ -61823,34 +61824,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "opera",
-      "caption" : "Opera updated from 92.0.4561.30 to 92.0.4561.33",
-      "date" : "2022-10-28T23:37:27Z",
-      "identifier" : "release-opera-92.0.4561.33",
-      "title" : "New Release: Opera 92.0.4561.33"
-    },
-    {
-      "appID" : "deepl",
-      "caption" : "DeepL updated from 3.5.251434 to 3.7.277083",
-      "date" : "2022-10-28T23:37:27Z",
-      "identifier" : "release-deepl-3.7.277083",
-      "title" : "New Release: DeepL 3.7.277083"
-    },
-    {
-      "appID" : "ledger-live",
-      "caption" : "Ledger Live updated from 2.49.1 to 2.49.2",
-      "date" : "2022-10-28T23:37:27Z",
-      "identifier" : "release-ledger-live-2.49.2",
-      "title" : "New Release: Ledger Live 2.49.2"
-    },
-    {
-      "appID" : "arc",
-      "caption" : "Arc updated from 0.74.0,35437 to 0.74.1,35450",
-      "date" : "2022-10-28T23:37:27Z",
-      "identifier" : "release-arc-0.74.1,35450",
-      "title" : "New Release: Arc 0.74.1,35450"
-    },
-    {
       "appID" : "free-download-manager",
       "caption" : "Free Download Manager updated from 6.17.0 to 6.18.0",
       "date" : "2022-10-28T23:37:28Z",
@@ -62521,6 +62494,34 @@
       "date" : "2022-10-31T15:33:47Z",
       "identifier" : "release-mattermost-5.2.0",
       "title" : "New Release: Mattermost 5.2.0"
+    },
+    {
+      "appID" : "ticktick",
+      "caption" : "TickTick updated from 4.3.00,236 to 4.3.10,238",
+      "date" : "2022-10-31T16:45:41Z",
+      "identifier" : "release-ticktick-4.3.10,238",
+      "title" : "New Release: TickTick 4.3.10,238"
+    },
+    {
+      "appID" : "firefox",
+      "caption" : "Mozilla Firefox updated from 106.0.2 to 106.0.3",
+      "date" : "2022-10-31T16:45:42Z",
+      "identifier" : "release-firefox-106.0.3",
+      "title" : "New Release: Mozilla Firefox 106.0.3"
+    },
+    {
+      "appID" : "docker",
+      "caption" : "Docker Desktop updated from 4.13.0,89412 to 4.13.1,90346",
+      "date" : "2022-10-31T16:45:42Z",
+      "identifier" : "release-docker-4.13.1,90346",
+      "title" : "New Release: Docker Desktop 4.13.1,90346"
+    },
+    {
+      "appID" : "pdf-expert",
+      "caption" : "PDF Expert updated from 3.0.28,868 to 3.0.29,875",
+      "date" : "2022-10-31T16:45:42Z",
+      "identifier" : "release-pdf-expert-3.0.29,875",
+      "title" : "New Release: PDF Expert 3.0.29,875"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

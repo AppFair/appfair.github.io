@@ -931,7 +931,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2241,
-        "impressionCount" : 1094
+        "impressionCount" : 1095
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -10751,7 +10751,7 @@
       "sha256" : "bab55ae8fd5f5040def040af2af573214264dab32f421d676f89a773c1874e72",
       "stats" : {
         "downloadCount" : 861,
-        "impressionCount" : 703
+        "impressionCount" : 704
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
@@ -15423,16 +15423,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19%2B36/OpenJDK19U-jdk_x64_mac_hotspot_19_36.pkg",
+      "downloadURL" : "https://github.com/adoptium/temurin19-binaries/releases/download/jdk-19.0.1%2B10/OpenJDK19U-jdk_x64_mac_hotspot_19.0.1_10.pkg",
       "homepage" : "https://adoptium.net/",
       "localizedDescription" : "JDK from the Eclipse Foundation (Adoptium)",
       "name" : "Eclipse Temurin Java Development Kit",
-      "sha256" : "6e43fb8c543ffa88f70f8a35fa1f1278697e13612d9577f92f6816d3fc82a400",
+      "sha256" : "c1fecbbaaf09712bc6c9b2b03552808f57d18a9170bedf40dc78aff8df2a193c",
       "stats" : {
         "downloadCount" : 5545
       },
       "subtitle" : "JDK from the Eclipse Foundation (Adoptium)",
-      "version" : "19,36"
+      "version" : "19.0.1,10",
+      "versionDate" : "2022-10-31T11:32:01Z"
     },
     {
       "beta" : false,
@@ -29573,17 +29574,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "osu",
-      "downloadURL" : "https://github.com/ppy/osu/releases/download/2022.1022.0/osu.app.Intel.zip",
+      "downloadURL" : "https://github.com/ppy/osu/releases/download/2022.1031.0/osu.app.Intel.zip",
       "homepage" : "https://github.com/ppy/osu/",
       "localizedDescription" : "Rhythm game",
       "name" : "osu!",
-      "sha256" : "8ac8fa3f11684558e6140aab9b046a41e8642a85e55072008da801e621fe6f26",
+      "sha256" : "adc30e07d96bddd1dd7e39a2394033b4b468961ef4ec3900d1987fa8dea74b37",
       "stats" : {
         "downloadCount" : 37
       },
       "subtitle" : "Rhythm game",
-      "version" : "2022.1022.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2022.1031.0",
+      "versionDate" : "2022-10-31T11:32:01Z"
     },
     {
       "beta" : false,
@@ -61821,20 +61822,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "vrew",
-      "caption" : "vrew updated from 0.12.6 to 0.12.7",
-      "date" : "2022-10-28T23:37:26Z",
-      "identifier" : "release-vrew-0.12.7",
-      "title" : "New Release: vrew 0.12.7"
-    },
-    {
-      "appID" : "vuescan",
-      "caption" : "VueScan updated from 9.7.94 to 9.7.95",
-      "date" : "2022-10-28T23:37:26Z",
-      "identifier" : "release-vuescan-9.7.95",
-      "title" : "New Release: VueScan 9.7.95"
-    },
-    {
       "appID" : "trader-workstation",
       "caption" : "Trader Workstation updated from 10.19.1e to 10.19.1f",
       "date" : "2022-10-28T23:37:27Z",
@@ -62519,6 +62506,20 @@
       "date" : "2022-10-31T08:42:43Z",
       "identifier" : "release-gcs-5.3.1",
       "title" : "New Release: gcs 5.3.1"
+    },
+    {
+      "appID" : "temurin",
+      "caption" : "Eclipse Temurin Java Development Kit updated from 19,36 to 19.0.1,10",
+      "date" : "2022-10-31T11:32:02Z",
+      "identifier" : "release-temurin-19.0.1,10",
+      "title" : "New Release: Eclipse Temurin Java Development Kit 19.0.1,10"
+    },
+    {
+      "appID" : "osu",
+      "caption" : "osu! updated from 2022.1022.0 to 2022.1031.0",
+      "date" : "2022-10-31T11:32:03Z",
+      "identifier" : "release-osu-2022.1031.0",
+      "title" : "New Release: osu! 2022.1031.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

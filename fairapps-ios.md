@@ -57,7 +57,7 @@ tr:nth-child(even) {
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `3` | `2022-09-23T00:00:00Z` | `10.5 MB` | `933` | `41` | `2` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `3` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1066` | `78` | `0` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `688` | `44` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `2` | `2022-10-20T00:00:00Z` | `8.1 MB` | `270` | `41` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `2` | `2022-10-20T00:00:00Z` | `8.1 MB` | `271` | `41` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1480` | `98` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `1517` | `79` | `0` | `0` |  |
 | [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `1142` | `71` | `0` | `0` |  |

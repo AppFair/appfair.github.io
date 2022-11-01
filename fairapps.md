@@ -25,8 +25,8 @@ tr:nth-child(even) {
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``App Fair``](https://appfair.app) | ``0.8.131`` | `409` | `2022-10-20T00:00:00Z` | `12 MB` | `233` | `39` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.3`` | `91` | `2022-10-04T00:00:00Z` | `7.3 MB` | `402` | `50` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `64` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1090` | `73` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `829` | `93` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `60` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1090` | `73` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `44` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5601` | `853` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `3.2 MB` | `445` | `30` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `34` | `2022-09-03T00:00:00Z` | `2.2 MB` | `1385` | `119` | `0` | `0` |  |
@@ -34,14 +34,14 @@ tr:nth-child(even) {
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1174` | `102` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `26` | `2022-09-23T00:00:00Z` | `3.2 MB` | `11` | `2` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1202` | `85` | `0` | `0` |  |
+| [``Tune Out``](https://tune-out.appfair.net) | ``0.8.460β`` | `24` | `2022-10-28T00:00:00Z` | `15.1 MB` | `2` | `1` | `1` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4201` | `296` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `4465` | `652` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1142` | `98` | `0` | `0` |  |
-| [``Tune Out``](https://tune-out.appfair.net) | ``0.8.460β`` | `20` | `2022-10-28T00:00:00Z` | `15.1 MB` | `2` | `1` | `1` | `0` |  |
+| [``Cloud Cuckoo``](https://cloud-cuckoo.appfair.net) | ``0.9.335β`` | `21` | `2022-10-27T00:00:00Z` | `3.2 MB` | `4` | `1` | `2` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `1464` | `98` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://cloud-cuckoo.appfair.net) | ``0.9.335β`` | `17` | `2022-10-27T00:00:00Z` | `3.2 MB` | `4` | `1` | `2` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `18` | `2022-10-30T00:00:00Z` | `5 MB` | `0` | `0` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `16` | `2022-09-23T00:00:00Z` | `3.6 MB` | `916` | `41` | `2` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `14` | `2022-10-30T00:00:00Z` | `5 MB` | `0` | `0` | `0` | `0` |  |
 | [``World Fair``](http://appfair.net/#quick-start) | ``0.0.4β`` | `12` | `2022-10-19T00:00:00Z` | `8 MB` | `4` | `2` | `0` | `0` |  |
 | [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `11` | `2022-01-25T00:00:00Z` | `2.3 MB` | `2346` | `146` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `10` | `2022-08-27T00:00:00Z` | `1.45 GB` | `1306` | `60` | `0` | `0` |  |

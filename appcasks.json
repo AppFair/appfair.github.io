@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2134,
-        "impressionCount" : 11465,
+        "impressionCount" : 11469,
         "viewCount" : 1292
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8284,
-        "impressionCount" : 8999,
+        "impressionCount" : 9002,
         "viewCount" : 770
       },
       "subtitle" : "Multimedia player",
@@ -82,7 +82,7 @@
       ],
       "stats" : {
         "downloadCount" : 8380,
-        "impressionCount" : 9514,
+        "impressionCount" : 9517,
         "viewCount" : 715
       },
       "subtitle" : "Music streaming service",
@@ -111,7 +111,7 @@
       "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
       "stats" : {
         "downloadCount" : 3338,
-        "impressionCount" : 9904,
+        "impressionCount" : 9908,
         "viewCount" : 648
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -139,7 +139,7 @@
       ],
       "stats" : {
         "downloadCount" : 2579,
-        "impressionCount" : 7661,
+        "impressionCount" : 7665,
         "viewCount" : 467
       },
       "subtitle" : "Video game digital distribution service",
@@ -169,7 +169,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 231,
-        "impressionCount" : 5968,
+        "impressionCount" : 5971,
         "viewCount" : 481
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -195,7 +195,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 204,
-        "impressionCount" : 5131,
+        "impressionCount" : 5135,
         "viewCount" : 378
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -222,7 +222,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 129,
-        "impressionCount" : 4205,
+        "impressionCount" : 4207,
         "viewCount" : 360
       },
       "subtitle" : "File synchronizer",
@@ -252,7 +252,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4278,
+        "impressionCount" : 4279,
         "viewCount" : 345
       },
       "subtitle" : "Create DMGs and other archives",
@@ -274,7 +274,7 @@
       "sha256" : "3dda93337f730db11d413e45356a66ebe3b65a381986017fadcbf6459a568f65",
       "stats" : {
         "downloadCount" : 8041,
-        "impressionCount" : 3778,
+        "impressionCount" : 3779,
         "viewCount" : 275
       },
       "subtitle" : "Team communication and collaboration software",
@@ -481,7 +481,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1603,
-        "impressionCount" : 3630
+        "impressionCount" : 3631
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -518,7 +518,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1601,
-        "impressionCount" : 3796
+        "impressionCount" : 3797
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -749,7 +749,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 4155
+        "impressionCount" : 4156
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -2272,7 +2272,7 @@
       "sha256" : "f8e6c58fe822c06de46b0fdf09b7a3ee0b177d10e06699be6d15bc5eb84eff9e",
       "stats" : {
         "downloadCount" : 97,
-        "impressionCount" : 896
+        "impressionCount" : 899
       },
       "subtitle" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "tintColor" : "761E76",
@@ -2431,7 +2431,7 @@
       "sha256" : "35441d5520cdf0ac35e20c76704a65c97183d3729c49d1012c16a55a7056f70d",
       "stats" : {
         "downloadCount" : 86,
-        "impressionCount" : 480
+        "impressionCount" : 482
       },
       "subtitle" : "PKG software package uninstall tool",
       "tintColor" : "A28548",
@@ -3378,7 +3378,7 @@
       "sha256" : "19c9fd3e801eef6d968148f02a16731de94acf0ec800a3dc5c430ff1b24bb8c4",
       "stats" : {
         "downloadCount" : 43,
-        "impressionCount" : 1473
+        "impressionCount" : 1478
       },
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
@@ -10883,7 +10883,7 @@
       "sha256" : "ea7743e568b350fda331b334ea1364255f498188b7ff11cb1780efecfe81b174",
       "stats" : {
         "downloadCount" : 740,
-        "impressionCount" : 607
+        "impressionCount" : 608
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -11508,7 +11508,7 @@
       "sha256" : "961a5c9a0eefd06457ebc0ebf24c45dee9d9e1a51ab8fa4c6931584225381578",
       "stats" : {
         "downloadCount" : 132,
-        "impressionCount" : 132
+        "impressionCount" : 133
       },
       "subtitle" : "Tool to render realistic skies in real time on the screen",
       "tintColor" : "41365B",
@@ -12748,7 +12748,7 @@
       "sha256" : "5998bfe68f9f95c77dc9e0e6c39db2285a575e655580e0c4447f5e58de912be6",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 132
+        "impressionCount" : 134
       },
       "subtitle" : "Remote desktop software",
       "tintColor" : "CC8BDD",
@@ -24292,7 +24292,7 @@
       },
       "subtitle" : "Platform for API documentation, debugging, Mock and testing",
       "version" : "2.2.5",
-      "versionDate" : "2022-11-01T22:37:32Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24620,7 +24620,7 @@
       },
       "subtitle" : "Audio player",
       "version" : "2710,36631400",
-      "versionDate" : "2022-11-01T22:37:32Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27309,7 +27309,7 @@
       },
       "subtitle" : "Design and prototype websites using the Bootstrap framework",
       "version" : "6.2.0",
-      "versionDate" : "2022-11-01T22:37:32Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32169,7 +32169,7 @@
       },
       "subtitle" : "Flow state app for productivity",
       "version" : "5.3.0",
-      "versionDate" : "2022-11-01T22:37:32Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37911,7 +37911,7 @@
       },
       "subtitle" : "Private rolodex to remember people better",
       "version" : "2.1.5",
-      "versionDate" : "2022-11-01T22:37:32Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,

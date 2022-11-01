@@ -3690,6 +3690,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "thor",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/gbammc/Thor/releases/download/1.5.10/Thor_1.5.10.zip",
+      "homepage" : "https://github.com/gbammc/Thor/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thor/AppIcon.png",
+      "localizedDescription" : "Utility to switch between applications",
+      "name" : "Thor",
+      "sha256" : "47f4ba1a9ba84853e599ddbba2da17f64c01f311e0196f7adf746f0b93d565c6",
+      "stats" : {
+        "downloadCount" : 37,
+        "impressionCount" : 348
+      },
+      "subtitle" : "Utility to switch between applications",
+      "tintColor" : "279DDB",
+      "version" : "1.5.10"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "switchkey",
       "categories" : [
         "public.app-category.utilities"
@@ -4046,6 +4066,26 @@
       "subtitle" : "Email client",
       "tintColor" : "B76B65",
       "version" : "3.102.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "thorium",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://github.com/edrlab/thorium-reader/releases/download/v2.1.0/Thorium-2.1.0.dmg",
+      "homepage" : "https://www.edrlab.org/software/thorium-reader/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thorium/AppIcon.png",
+      "localizedDescription" : "Epub reader",
+      "name" : "Thorium Reader",
+      "sha256" : "924fe26c6ddb12a65c05de7573138ef10a3a482801341f5aecf39619d5d5db53",
+      "stats" : {
+        "downloadCount" : 31,
+        "impressionCount" : 385
+      },
+      "subtitle" : "Epub reader",
+      "tintColor" : "699FFD",
+      "version" : "2.1.0"
     },
     {
       "beta" : false,
@@ -30050,20 +30090,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "thor",
-      "downloadURL" : "https://github.com/gbammc/Thor/releases/download/1.5.10/Thor_1.5.10.zip",
-      "homepage" : "https://github.com/gbammc/Thor/",
-      "localizedDescription" : "Utility to switch between applications",
-      "name" : "Thor",
-      "sha256" : "47f4ba1a9ba84853e599ddbba2da17f64c01f311e0196f7adf746f0b93d565c6",
-      "stats" : {
-        "downloadCount" : 36
-      },
-      "subtitle" : "Utility to switch between applications",
-      "version" : "1.5.10"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "biscuit",
       "downloadURL" : "https://github.com/agata/dl.biscuit/releases/download/v1.2.27/Biscuit-1.2.27.dmg",
       "homepage" : "https://eatbiscuit.com/",
@@ -32083,20 +32109,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "thorium",
-      "downloadURL" : "https://github.com/edrlab/thorium-reader/releases/download/v2.1.0/Thorium-2.1.0.dmg",
-      "homepage" : "https://www.edrlab.org/software/thorium-reader/",
-      "localizedDescription" : "Epub reader",
-      "name" : "Thorium Reader",
-      "sha256" : "924fe26c6ddb12a65c05de7573138ef10a3a482801341f5aecf39619d5d5db53",
-      "stats" : {
-        "downloadCount" : 27
-      },
-      "subtitle" : "Epub reader",
-      "version" : "2.1.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app-fair",
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.131/App-Fair-macOS.zip",
       "homepage" : "https://appfair.app/",
@@ -33405,6 +33417,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "threads",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://starupdate.threads.com/download/version/2.2.0/Threads-darwin-2.2.0.zip",
+      "homepage" : "https://threads.com/",
+      "localizedDescription" : "Communication tool for focused discussions and decision taking",
+      "name" : "Threads",
+      "sha256" : "4c2e4d1e33821610a4723307a8ba9292b944e73118d09ceba5c5090faa9170ac",
+      "stats" : {
+        "downloadCount" : 22
+      },
+      "subtitle" : "Communication tool for focused discussions and decision taking",
+      "version" : "2.2.0",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "115browser",
       "downloadURL" : "https://down.115.com/client/mac/115br_25.0.4.2.dmg",
       "homepage" : "https://pc.115.com/browser.html",
@@ -33850,21 +33880,6 @@
       },
       "subtitle" : "Go board and SGF editor",
       "version" : "0.52.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "threads",
-      "downloadURL" : "https://starupdate.threads.com/download/version/2.2.0/Threads-darwin-2.2.0.zip",
-      "homepage" : "https://threads.com/",
-      "localizedDescription" : "Communication tool for focused discussions and decision taking",
-      "name" : "Threads",
-      "sha256" : "4c2e4d1e33821610a4723307a8ba9292b944e73118d09ceba5c5090faa9170ac",
-      "stats" : {
-        "downloadCount" : 22
-      },
-      "subtitle" : "Communication tool for focused discussions and decision taking",
-      "version" : "2.2.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48493,6 +48508,23 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "thonny-xxl",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/thonny/thonny/releases/download/v3.3.13/thonny-xxl-3.3.13.pkg",
+      "homepage" : "https://thonny.org/",
+      "localizedDescription" : "Python IDE for beginners",
+      "name" : "Thonny (XXL bundle)",
+      "sha256" : "76acf2edb829c244256d2be773f061585fea79c47fb4e1994ddc546f5e71317c",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Python IDE for beginners",
+      "version" : "3.3.13"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "texturepacker",
       "categories" : [
 
@@ -50788,20 +50820,6 @@
       },
       "subtitle" : "Linux remote desktop server",
       "version" : "4.14.0_2324"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "thonny-xxl",
-      "downloadURL" : "https://github.com/thonny/thonny/releases/download/v3.3.13/thonny-xxl-3.3.13.pkg",
-      "homepage" : "https://thonny.org/",
-      "localizedDescription" : "Python IDE for beginners",
-      "name" : "Thonny (XXL bundle)",
-      "sha256" : "76acf2edb829c244256d2be773f061585fea79c47fb4e1994ddc546f5e71317c",
-      "stats" : {
-        "downloadCount" : 4
-      },
-      "subtitle" : "Python IDE for beginners",
-      "version" : "3.3.13"
     },
     {
       "beta" : false,

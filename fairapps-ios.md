@@ -31,7 +31,6 @@ tr:nth-child(even) {
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `42` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1321` | `60` | `0` | `0` |  |
 | [``Tune Out``](https://tune-out.appfair.net) | ``0.8.460β`` | `40` | `2022-10-28T00:00:00Z` | `11.2 MB` | `5` | `1` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `447` | `30` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://cloud-cuckoo.appfair.net) | ``0.9.335β`` | `34` | `2022-10-27T00:00:00Z` | `1.8 MB` | `5` | `1` | `2` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `30` | `2022-10-30T00:00:00Z` | `2.7 MB` | `0` | `0` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `1185` | `103` | `0` | `0` |  |
 | [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.72`` | `26` | `2022-09-03T00:00:00Z` | `5.7 MB` | `1397` | `119` | `0` | `0` |  |
@@ -57,6 +56,7 @@ tr:nth-child(even) {
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `3` | `2022-09-23T00:00:00Z` | `10.5 MB` | `928` | `41` | `2` | `0` |  |
 | [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `3` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1061` | `78` | `0` | `0` |  |
 | [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `688` | `44` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://cloud-cuckoo.appfair.net) | ``0.9.333β`` | `2` | `2022-10-27T00:00:00Z` | `1.8 MB` | `1` | `1` | `2` | `0` |  |
 | [``App Fair``](https://appfair.app) | ``0.8.131`` | `2` | `2022-10-20T00:00:00Z` | `8.1 MB` | `259` | `41` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1476` | `98` | `0` | `0` |  |
 | [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `1511` | `79` | `0` | `0` |  |

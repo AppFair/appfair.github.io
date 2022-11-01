@@ -728,6 +728,28 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sabnzbd",
+      "categories" : [
+        "public.app-category.news"
+      ],
+      "downloadURL" : "https://github.com/sabnzbd/sabnzbd/releases/download/3.6.1/SABnzbd-3.6.1-osx.dmg",
+      "homepage" : "https://sabnzbd.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sabnzbd/AppIcon.png",
+      "localizedDescription" : "Binary newsreader",
+      "name" : "SABnzbd",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sabnzbd/README.md",
+      "sha256" : "a0a62cb7fb04390c12403bdc38186fc6e24f39b5a0456de582b6006f36b0e27e",
+      "stats" : {
+        "downloadCount" : 34,
+        "impressionCount" : 1796,
+        "viewCount" : 83
+      },
+      "subtitle" : "Binary newsreader",
+      "tintColor" : "B09447",
+      "version" : "3.6.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "eaglefiler",
       "categories" : [
         "public.app-category.productivity"
@@ -1370,6 +1392,26 @@
       "subtitle" : "Real time file synchronization software",
       "tintColor" : "48B0DA",
       "version" : "1.22.0-1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "rubymine",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://download.jetbrains.com/ruby/RubyMine-2022.2.3.dmg",
+      "homepage" : "https://www.jetbrains.com/ruby/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rubymine/AppIcon.png",
+      "localizedDescription" : "Ruby on Rails IDE",
+      "name" : "RubyMine",
+      "sha256" : "a04700159fcf3bfed74d196edc4c1150e5906dc4730d06ffd017b6bbb9bc853b",
+      "stats" : {
+        "downloadCount" : 362,
+        "impressionCount" : 745
+      },
+      "subtitle" : "Ruby on Rails IDE",
+      "tintColor" : "AA4B46",
+      "version" : "2022.2.3,222.4345.14"
     },
     {
       "beta" : false,
@@ -2219,6 +2261,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "runjs",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://github.com/lukehaas/RunJS/releases/download/v2.7.1/RunJS-2.7.1-universal.dmg",
+      "homepage" : "https://runjs.app/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runjs/AppIcon.png",
+      "localizedDescription" : "JavaScript playground that auto-evaluates as code is typed",
+      "name" : "RunJS",
+      "sha256" : "ce91d5b79eac088d7148373b6bb8f91100a4276a3e2160c122ef2cc510dcac6f",
+      "stats" : {
+        "downloadCount" : 101,
+        "impressionCount" : 596
+      },
+      "subtitle" : "JavaScript playground that auto-evaluates as code is typed",
+      "tintColor" : "E0CB1C",
+      "version" : "2.7.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "vanilla",
       "categories" : [
         "public.app-category.utilities"
@@ -2921,27 +2983,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "screenflow",
-      "categories" : [
-        "public.app-category.video"
-      ],
-      "downloadURL" : "https://www.telestream.net/download-files/screenflow/10-0/ScreenFlow-10.0.7.dmg",
-      "homepage" : "https://www.telestream.net/screenflow/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-screenflow/AppIcon.png",
-      "localizedDescription" : "Screen recording and video editing software",
-      "name" : "ScreenFlow",
-      "sha256" : "19c3c292936801c672c4160f029e4935622a4f85c922a349d166d883de1dea15",
-      "stats" : {
-        "downloadCount" : 59,
-        "impressionCount" : 681
-      },
-      "subtitle" : "Screen recording and video editing software",
-      "tintColor" : "C6C0C7",
-      "version" : "10.0.7,31920",
-      "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "valentina-studio",
       "categories" : [
         "public.app-category.developer-tools"
@@ -2999,26 +3040,6 @@
       "subtitle" : "Seamless, automatic, “dotfile” sync to iCloud",
       "tintColor" : "83C4EC",
       "version" : "1.0.9"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "screens",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://updates.edovia.com/com.edovia.screens4.mac/Screens_4.12.4b1664929688.zip",
-      "homepage" : "https://edovia.com/screens-mac/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-screens/AppIcon.png",
-      "localizedDescription" : "Remote access software focusing on usability",
-      "name" : "Screens",
-      "sha256" : "0376d7c78129e7ef24e4f9399af792c47b14eebccae933ae32de0aebc32b4857",
-      "stats" : {
-        "downloadCount" : 56,
-        "impressionCount" : 349
-      },
-      "subtitle" : "Remote access software focusing on usability",
-      "tintColor" : "8C64A1",
-      "version" : "4.12.4,1664929688"
     },
     {
       "beta" : false,
@@ -3163,26 +3184,6 @@
       "tintColor" : "6374FF",
       "version" : "1.9.0",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "scratch",
-      "categories" : [
-        "public.app-category.education"
-      ],
-      "downloadURL" : "https://downloads.scratch.mit.edu/desktop/Scratch%203.29.1.dmg",
-      "homepage" : "https://scratch.mit.edu/download",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-scratch/AppIcon.png",
-      "localizedDescription" : "Programs interactive stories, games, and animations",
-      "name" : "Scratch",
-      "sha256" : "0032867c2eb6885e1e1f3e24fe24f37fc5a12c3e995825f8eea5630eb8052860",
-      "stats" : {
-        "downloadCount" : 49,
-        "impressionCount" : 748
-      },
-      "subtitle" : "Programs interactive stories, games, and animations",
-      "tintColor" : "FBBA4B",
-      "version" : "3.29.1"
     },
     {
       "beta" : false,
@@ -4167,26 +4168,6 @@
       "subtitle" : "Menu bar app that provides more control over Night Shift",
       "tintColor" : "918D7F",
       "version" : "1.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "screenflick",
-      "categories" : [
-        "public.app-category.video"
-      ],
-      "downloadURL" : "https://store.araelium.com/screenflick/downloads/versions/Screenflick3.1.3.zip",
-      "homepage" : "https://www.araelium.com/screenflick-mac-screen-recorder",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-screenflick/AppIcon.png",
-      "localizedDescription" : "Screen recorder with audio",
-      "name" : "Screenflick",
-      "sha256" : "813afe01eddee0d4a09b39a3ff879e35c0fdeb5bef79d0db78e40d03fcd1c444",
-      "stats" : {
-        "downloadCount" : 30,
-        "impressionCount" : 660
-      },
-      "subtitle" : "Screen recorder with audio",
-      "tintColor" : "5788AD",
-      "version" : "3.1.3"
     },
     {
       "beta" : false,
@@ -5602,26 +5583,6 @@
       "subtitle" : "Database management tool",
       "tintColor" : "E5E0DE",
       "version" : "2022.77"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "script-debugger",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://s3.amazonaws.com/latenightsw.com/ScriptDebugger8.0.5-8A61.dmg",
-      "homepage" : "https://latenightsw.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-script-debugger/AppIcon.png",
-      "localizedDescription" : "Integrated development environment focused entirely on AppleScript",
-      "name" : "Script Debugger",
-      "sha256" : "cd523928a29e82f2988a2120e0b629854f3f0758269ada70d43b0e9cd3142862",
-      "stats" : {
-        "downloadCount" : 16,
-        "impressionCount" : 256
-      },
-      "subtitle" : "Integrated development environment focused entirely on AppleScript",
-      "tintColor" : "A98E8B",
-      "version" : "8.0.5-8A61"
     },
     {
       "beta" : false,
@@ -7104,6 +7065,26 @@
       "subtitle" : "MySQL & MariaDB database client",
       "tintColor" : "C48823",
       "version" : "2022.70"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "safe-exam-browser",
+      "categories" : [
+        "public.app-category.education"
+      ],
+      "downloadURL" : "https://github.com/SafeExamBrowser/seb-mac/releases/download/3.1.1/SafeExamBrowser-3.1.1.dmg",
+      "homepage" : "https://safeexambrowser.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-safe-exam-browser/AppIcon.png",
+      "localizedDescription" : "Web browser environment to carry out e-assessments safely",
+      "name" : "Safe Exam Browser",
+      "sha256" : "b08ae3c718ddb6276ce351bccd2e962102c659b563f0261079ffcc3b5220a9bc",
+      "stats" : {
+        "downloadCount" : 7,
+        "impressionCount" : 674
+      },
+      "subtitle" : "Web browser environment to carry out e-assessments safely",
+      "tintColor" : "71818B",
+      "version" : "3.1.1"
     },
     {
       "beta" : false,
@@ -9452,26 +9433,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "screenfocus",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://www.apptorium.com/public/products/screenfocus/releases/ScreenFocus-1.1.23.zip",
-      "homepage" : "https://www.apptorium.com/screenfocus",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-screenfocus/AppIcon.png",
-      "localizedDescription" : "Tool to manage multiple screens",
-      "name" : "ScreenFocus",
-      "sha256" : "f7c2ff9ec616c2bc316ddc796b87fcc003926cf8b1c6d366bf05093cbb6e99d1",
-      "stats" : {
-        "downloadCount" : 2,
-        "impressionCount" : 267
-      },
-      "subtitle" : "Tool to manage multiple screens",
-      "tintColor" : "53808B",
-      "version" : "1.1.23"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "youll-never-take-me-alive",
       "categories" : [
         "public.app-category.utilities"
@@ -10023,6 +9984,43 @@
       },
       "tintColor" : "646769",
       "version" : "5.3.2,5.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "ryver",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://d3vkb1nw20iqfq.cloudfront.net/mac/Ryver-1.3.2.dmg",
+      "homepage" : "https://ryver.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ryver/AppIcon.png",
+      "name" : "Ryver",
+      "sha256" : "949abb92a3df5034fd8c81e1fe78a9c7bd7be2ad699bef9d423ad3a39cd48d54",
+      "stats" : {
+        "downloadCount" : 1,
+        "impressionCount" : 133
+      },
+      "tintColor" : "0097D4",
+      "version" : "1.3.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "rubymotion",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "http://www.rubymotion.com/files/RubyMotion%20Installer.zip",
+      "homepage" : "http://www.rubymotion.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rubymotion/AppIcon.png",
+      "localizedDescription" : "Write cross-platform native apps in Ruby",
+      "name" : "RubyMotion",
+      "stats" : {
+        "downloadCount" : 1,
+        "impressionCount" : 128
+      },
+      "subtitle" : "Write cross-platform native apps in Ruby",
+      "tintColor" : "C1A6A7",
+      "version" : "latest"
     },
     {
       "beta" : false,
@@ -11436,26 +11434,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "scribus",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://downloads.sourceforge.net/scribus/scribus-devel/1.5.8/scribus-1.5.8.dmg",
-      "homepage" : "https://www.scribus.net/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-scribus/AppIcon.png",
-      "localizedDescription" : "Free and open-source page layout program",
-      "name" : "Scribus",
-      "sha256" : "d5ebc6f104bb57457c68ce651864053040af38f218bad1eef17491db7e6282ef",
-      "stats" : {
-        "downloadCount" : 171,
-        "impressionCount" : 85
-      },
-      "subtitle" : "Free and open-source page layout program",
-      "tintColor" : "558197",
-      "version" : "1.5.8"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "stremio",
       "categories" : [
 
@@ -12183,6 +12161,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "runelite",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/runelite/launcher/releases/download/2.5.0/RuneLite-x64.dmg",
+      "homepage" : "https://runelite.net/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runelite/AppIcon.png",
+      "localizedDescription" : "Client for Old School RuneScape",
+      "name" : "RuneLite",
+      "sha256" : "d7a22fea82fafd9d8cfabe53591d0ca83bf08d505a33d9348bffcbfab81695ad",
+      "stats" : {
+        "downloadCount" : 45,
+        "impressionCount" : 105
+      },
+      "subtitle" : "Client for Old School RuneScape",
+      "tintColor" : "353535",
+      "version" : "2.5.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "vuescan",
       "categories" : [
 
@@ -12379,26 +12377,6 @@
       "subtitle" : "Store, share and access files from anywhere",
       "tintColor" : "9DDFF9",
       "version" : "2.1.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "screaming-frog-seo-spider",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://download.screamingfrog.co.uk/products/seo-spider/ScreamingFrogSEOSpider-17.2-x86_64.dmg",
-      "homepage" : "https://www.screamingfrog.co.uk/seo-spider/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-screaming-frog-seo-spider/AppIcon.png",
-      "localizedDescription" : "SEO site audit tool",
-      "name" : "Screaming Frog SEO Spider",
-      "sha256" : "e23e77d44cc7e1149ef21831ce8c007f093baa3e70ae84e2ab85db2b485e1508",
-      "stats" : {
-        "downloadCount" : 33,
-        "impressionCount" : 107
-      },
-      "subtitle" : "SEO site audit tool",
-      "tintColor" : "6C884E",
-      "version" : "17.2"
     },
     {
       "beta" : false,
@@ -12733,27 +12711,6 @@
       "subtitle" : "Visible indicator of the current input source",
       "tintColor" : "3F5D67",
       "version" : "5.5.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "screens-connect",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://updates.edovia.com/com.edovia.screens.connect.mac/ScreensConnect_4.12.2b21680.zip",
-      "homepage" : "https://edovia.com/en/screens-connect/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-screens-connect/AppIcon.png",
-      "localizedDescription" : "Remote desktop software",
-      "name" : "Screens Connect",
-      "sha256" : "5998bfe68f9f95c77dc9e0e6c39db2285a575e655580e0c4447f5e58de912be6",
-      "stats" : {
-        "downloadCount" : 23,
-        "impressionCount" : 132
-      },
-      "subtitle" : "Remote desktop software",
-      "tintColor" : "CC8BDD",
-      "version" : "4.12.2,21680",
-      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13331,6 +13288,23 @@
       "tintColor" : "BAB7B8",
       "version" : "3.0.2",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "runescape",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://content.runescape.com/downloads/osx/RuneScape.dmg",
+      "homepage" : "https://www.runescape.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runescape/AppIcon.png",
+      "name" : "RuneScape",
+      "stats" : {
+        "downloadCount" : 15,
+        "impressionCount" : 54
+      },
+      "tintColor" : "82878B",
+      "version" : "1.0"
     },
     {
       "beta" : false,
@@ -14390,26 +14364,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "screencast",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/soh335/Screencast/releases/download/0.0.6/Screencast.dmg",
-      "homepage" : "https://github.com/soh335/Screencast",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-screencast/AppIcon.png",
-      "localizedDescription" : "Simple screen video capture application",
-      "name" : "Screencast",
-      "sha256" : "0fb23d34ee3c94eb47233b42d2ac93de84d14dcdafe1e7205ce0a4341ee812f0",
-      "stats" : {
-        "downloadCount" : 5,
-        "impressionCount" : 83
-      },
-      "subtitle" : "Simple screen video capture application",
-      "tintColor" : "3CBBAC",
-      "version" : "0.0.6"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "writefull",
       "categories" : [
 
@@ -14721,6 +14675,26 @@
       "subtitle" : "Fortran development environment",
       "tintColor" : "FF4E4E",
       "version" : "3.25.3757"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "runway",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://runway-releases.s3.amazonaws.com/Runway-0.19.2.dmg",
+      "homepage" : "https://runwayml.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runway/AppIcon.png",
+      "localizedDescription" : "Creative toolkit powered by machine learning",
+      "name" : "Runway",
+      "sha256" : "25ef6c07a8c0c3832a35d414cfc11ee12f45a8f7c159dcc45129e1514041c474",
+      "stats" : {
+        "downloadCount" : 3,
+        "impressionCount" : 89
+      },
+      "subtitle" : "Creative toolkit powered by machine learning",
+      "tintColor" : "2C443B",
+      "version" : "0.19.2"
     },
     {
       "beta" : false,
@@ -17721,7 +17695,7 @@
       },
       "subtitle" : "Family of tools to build, test and package software",
       "version" : "3.24.3",
-      "versionDate" : "2022-11-01T21:32:24Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19175,20 +19149,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "rubymine",
-      "downloadURL" : "https://download.jetbrains.com/ruby/RubyMine-2022.2.3.dmg",
-      "homepage" : "https://www.jetbrains.com/ruby/",
-      "localizedDescription" : "Ruby on Rails IDE",
-      "name" : "RubyMine",
-      "sha256" : "a04700159fcf3bfed74d196edc4c1150e5906dc4730d06ffd017b6bbb9bc853b",
-      "stats" : {
-        "downloadCount" : 362
-      },
-      "subtitle" : "Ruby on Rails IDE",
-      "version" : "2022.2.3,222.4345.14"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "gqrx",
       "downloadURL" : "https://github.com/gqrx-sdr/gqrx/releases/download/v2.15.9/Gqrx-2.15.9.dmg",
       "homepage" : "https://gqrx.dk/",
@@ -19270,7 +19230,7 @@
       },
       "subtitle" : "Cross-platform Text Expander written in Rust",
       "version" : "2.1.8",
-      "versionDate" : "2022-11-01T21:32:24Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19614,7 +19574,7 @@
       },
       "subtitle" : "Matrix collaboration client",
       "version" : "1.11.13",
-      "versionDate" : "2022-11-01T21:32:24Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21389,6 +21349,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "scribus",
+      "downloadURL" : "https://downloads.sourceforge.net/scribus/scribus-devel/1.5.8/scribus-1.5.8.dmg",
+      "homepage" : "https://www.scribus.net/",
+      "localizedDescription" : "Free and open-source page layout program",
+      "name" : "Scribus",
+      "sha256" : "d5ebc6f104bb57457c68ce651864053040af38f218bad1eef17491db7e6282ef",
+      "stats" : {
+        "downloadCount" : 170
+      },
+      "subtitle" : "Free and open-source page layout program",
+      "version" : "1.5.8"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "oracle-jdk-javadoc",
       "downloadURL" : "https://download.oracle.com/otn_software/java/jdk/19.0.1+10/afdd2e245b014143b62ccb916125e3ce/jdk-19.0.1_doc-all.zip",
       "homepage" : "https://www.oracle.com/java/technologies/downloads/",
@@ -23119,7 +23093,7 @@
       },
       "subtitle" : "Customize mouse buttons, wheels and cursor speed",
       "version" : "5.6.6",
-      "versionDate" : "2022-11-01T21:32:24Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24024,20 +23998,6 @@
       "subtitle" : "Translation editor",
       "version" : "3.2,6540",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "runjs",
-      "downloadURL" : "https://github.com/lukehaas/RunJS/releases/download/v2.7.1/RunJS-2.7.1-universal.dmg",
-      "homepage" : "https://runjs.app/",
-      "localizedDescription" : "JavaScript playground that auto-evaluates as code is typed",
-      "name" : "RunJS",
-      "sha256" : "ce91d5b79eac088d7148373b6bb8f91100a4276a3e2160c122ef2cc510dcac6f",
-      "stats" : {
-        "downloadCount" : 101
-      },
-      "subtitle" : "JavaScript playground that auto-evaluates as code is typed",
-      "version" : "2.7.1"
     },
     {
       "beta" : false,
@@ -26671,6 +26631,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "screenflow",
+      "downloadURL" : "https://www.telestream.net/download-files/screenflow/10-0/ScreenFlow-10.0.7.dmg",
+      "homepage" : "https://www.telestream.net/screenflow/",
+      "localizedDescription" : "Screen recording and video editing software",
+      "name" : "ScreenFlow",
+      "sha256" : "19c3c292936801c672c4160f029e4935622a4f85c922a349d166d883de1dea15",
+      "stats" : {
+        "downloadCount" : 59
+      },
+      "subtitle" : "Screen recording and video editing software",
+      "version" : "10.0.7,31920",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "steamcmd",
       "categories" : [
 
@@ -27139,6 +27114,20 @@
       },
       "subtitle" : "Silence embarrassing notifications while screensharing",
       "version" : "1.9,426"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "screens",
+      "downloadURL" : "https://updates.edovia.com/com.edovia.screens4.mac/Screens_4.12.4b1664929688.zip",
+      "homepage" : "https://edovia.com/screens-mac/",
+      "localizedDescription" : "Remote access software focusing on usability",
+      "name" : "Screens",
+      "sha256" : "0376d7c78129e7ef24e4f9399af792c47b14eebccae933ae32de0aebc32b4857",
+      "stats" : {
+        "downloadCount" : 55
+      },
+      "subtitle" : "Remote access software focusing on usability",
+      "version" : "4.12.4,1664929688"
     },
     {
       "beta" : false,
@@ -27946,6 +27935,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "scratch",
+      "downloadURL" : "https://downloads.scratch.mit.edu/desktop/Scratch%203.29.1.dmg",
+      "homepage" : "https://scratch.mit.edu/download",
+      "localizedDescription" : "Programs interactive stories, games, and animations",
+      "name" : "Scratch",
+      "sha256" : "0032867c2eb6885e1e1f3e24fe24f37fc5a12c3e995825f8eea5630eb8052860",
+      "stats" : {
+        "downloadCount" : 48
+      },
+      "subtitle" : "Programs interactive stories, games, and animations",
+      "version" : "3.29.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "atext",
       "downloadURL" : "https://www.trankynam.com/atext/downloads/aText.dmg",
       "homepage" : "https://www.trankynam.com/atext/",
@@ -28376,20 +28379,6 @@
       },
       "subtitle" : "Record analysis and transformation tool",
       "version" : "1.0.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "runelite",
-      "downloadURL" : "https://github.com/runelite/launcher/releases/download/2.5.0/RuneLite-x64.dmg",
-      "homepage" : "https://runelite.net/",
-      "localizedDescription" : "Client for Old School RuneScape",
-      "name" : "RuneLite",
-      "sha256" : "d7a22fea82fafd9d8cfabe53591d0ca83bf08d505a33d9348bffcbfab81695ad",
-      "stats" : {
-        "downloadCount" : 45
-      },
-      "subtitle" : "Client for Old School RuneScape",
-      "version" : "2.5.0"
     },
     {
       "beta" : false,
@@ -30686,17 +30675,17 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sabnzbd",
-      "downloadURL" : "https://github.com/sabnzbd/sabnzbd/releases/download/3.6.1/SABnzbd-3.6.1-osx.dmg",
-      "homepage" : "https://sabnzbd.org/",
-      "localizedDescription" : "Binary newsreader",
-      "name" : "SABnzbd",
-      "sha256" : "a0a62cb7fb04390c12403bdc38186fc6e24f39b5a0456de582b6006f36b0e27e",
+      "bundleIdentifier" : "screaming-frog-seo-spider",
+      "downloadURL" : "https://download.screamingfrog.co.uk/products/seo-spider/ScreamingFrogSEOSpider-17.2-x86_64.dmg",
+      "homepage" : "https://www.screamingfrog.co.uk/seo-spider/",
+      "localizedDescription" : "SEO site audit tool",
+      "name" : "Screaming Frog SEO Spider",
+      "sha256" : "e23e77d44cc7e1149ef21831ce8c007f093baa3e70ae84e2ab85db2b485e1508",
       "stats" : {
         "downloadCount" : 33
       },
-      "subtitle" : "Binary newsreader",
-      "version" : "3.6.1"
+      "subtitle" : "SEO site audit tool",
+      "version" : "17.2"
     },
     {
       "beta" : false,
@@ -31571,6 +31560,20 @@
       },
       "subtitle" : "Team messaging, video meetings, and business phone",
       "version" : "22.3.30"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "screenflick",
+      "downloadURL" : "https://store.araelium.com/screenflick/downloads/versions/Screenflick3.1.3.zip",
+      "homepage" : "https://www.araelium.com/screenflick-mac-screen-recorder",
+      "localizedDescription" : "Screen recorder with audio",
+      "name" : "Screenflick",
+      "sha256" : "813afe01eddee0d4a09b39a3ff879e35c0fdeb5bef79d0db78e40d03fcd1c444",
+      "stats" : {
+        "downloadCount" : 29
+      },
+      "subtitle" : "Screen recorder with audio",
+      "version" : "3.1.3"
     },
     {
       "beta" : false,
@@ -33407,6 +33410,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "screens-connect",
+      "downloadURL" : "https://updates.edovia.com/com.edovia.screens.connect.mac/ScreensConnect_4.12.2b21680.zip",
+      "homepage" : "https://edovia.com/en/screens-connect/",
+      "localizedDescription" : "Remote desktop software",
+      "name" : "Screens Connect",
+      "sha256" : "5998bfe68f9f95c77dc9e0e6c39db2285a575e655580e0c4447f5e58de912be6",
+      "stats" : {
+        "downloadCount" : 23
+      },
+      "subtitle" : "Remote desktop software",
+      "version" : "4.12.2,21680",
+      "versionDate" : "2022-11-01T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "twitch-studio",
       "downloadURL" : "https://live.release.spotlight.twitchsvc.net/installer/mac/twitchstudio.dmg",
       "homepage" : "https://www.twitch.tv/broadcast/studio/",
@@ -33436,6 +33454,23 @@
       "subtitle" : "Communication tool for focused discussions and decision taking",
       "version" : "2.2.0",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sabaki",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-mac-x64.7z",
+      "homepage" : "https://sabaki.yichuanshen.de/",
+      "localizedDescription" : "Go board and SGF editor",
+      "name" : "Sabaki",
+      "sha256" : "5e1a38772cc6926b1880341df128ae2f6172b29128cbb206782c84df6d7ec743",
+      "stats" : {
+        "downloadCount" : 22
+      },
+      "subtitle" : "Go board and SGF editor",
+      "version" : "0.52.2"
     },
     {
       "beta" : false,
@@ -33870,20 +33905,6 @@
       },
       "subtitle" : "Music player",
       "version" : "1.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sabaki",
-      "downloadURL" : "https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-mac-x64.7z",
-      "homepage" : "https://sabaki.yichuanshen.de/",
-      "localizedDescription" : "Go board and SGF editor",
-      "name" : "Sabaki",
-      "sha256" : "5e1a38772cc6926b1880341df128ae2f6172b29128cbb206782c84df6d7ec743",
-      "stats" : {
-        "downloadCount" : 22
-      },
-      "subtitle" : "Go board and SGF editor",
-      "version" : "0.52.2"
     },
     {
       "beta" : false,
@@ -37235,14 +37256,17 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "runescape",
-      "downloadURL" : "https://content.runescape.com/downloads/osx/RuneScape.dmg",
-      "homepage" : "https://www.runescape.com/",
-      "name" : "RuneScape",
+      "bundleIdentifier" : "script-debugger",
+      "downloadURL" : "https://s3.amazonaws.com/latenightsw.com/ScriptDebugger8.0.5-8A61.dmg",
+      "homepage" : "https://latenightsw.com/",
+      "localizedDescription" : "Integrated development environment focused entirely on AppleScript",
+      "name" : "Script Debugger",
+      "sha256" : "cd523928a29e82f2988a2120e0b629854f3f0758269ada70d43b0e9cd3142862",
       "stats" : {
         "downloadCount" : 15
       },
-      "version" : "1.0"
+      "subtitle" : "Integrated development environment focused entirely on AppleScript",
+      "version" : "8.0.5-8A61"
     },
     {
       "beta" : false,
@@ -44790,20 +44814,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "safe-exam-browser",
-      "downloadURL" : "https://github.com/SafeExamBrowser/seb-mac/releases/download/3.1.1/SafeExamBrowser-3.1.1.dmg",
-      "homepage" : "https://safeexambrowser.org/",
-      "localizedDescription" : "Web browser environment to carry out e-assessments safely",
-      "name" : "Safe Exam Browser",
-      "sha256" : "b08ae3c718ddb6276ce351bccd2e962102c659b563f0261079ffcc3b5220a9bc",
-      "stats" : {
-        "downloadCount" : 7
-      },
-      "subtitle" : "Web browser environment to carry out e-assessments safely",
-      "version" : "3.1.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "safeincloud-password-manager",
       "downloadURL" : "https://www.safe-in-cloud.com/download/SafeInCloud.dmg",
       "homepage" : "https://www.safe-in-cloud.com/",
@@ -48364,6 +48374,20 @@
       },
       "subtitle" : "Screenshot tool with cloud storage",
       "version" : "1.6"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "screencast",
+      "downloadURL" : "https://github.com/soh335/Screencast/releases/download/0.0.6/Screencast.dmg",
+      "homepage" : "https://github.com/soh335/Screencast",
+      "localizedDescription" : "Simple screen video capture application",
+      "name" : "Screencast",
+      "sha256" : "0fb23d34ee3c94eb47233b42d2ac93de84d14dcdafe1e7205ce0a4341ee812f0",
+      "stats" : {
+        "downloadCount" : 5
+      },
+      "subtitle" : "Simple screen video capture application",
+      "version" : "0.0.6"
     },
     {
       "beta" : false,
@@ -53179,20 +53203,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "runway",
-      "downloadURL" : "https://runway-releases.s3.amazonaws.com/Runway-0.19.2.dmg",
-      "homepage" : "https://runwayml.com/",
-      "localizedDescription" : "Creative toolkit powered by machine learning",
-      "name" : "Runway",
-      "sha256" : "25ef6c07a8c0c3832a35d414cfc11ee12f45a8f7c159dcc45129e1514041c474",
-      "stats" : {
-        "downloadCount" : 3
-      },
-      "subtitle" : "Creative toolkit powered by machine learning",
-      "version" : "0.19.2"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "ti-smartview-ce-for-the-ti-84-plus-family",
       "downloadURL" : "https://education.ti.com/download/en/ed-tech/BE8220257AA241148986628D6EE332E5/0D7B013A0B0846408659344F4C28BBA8/TI-SmartView-CE-84-5.6.0.2092.dmg",
       "homepage" : "https://education.ti.com/en/software/details/en/BE8220257AA241148986628D6EE332E5/ti-smartview-ce-for-ti-84-plus-family",
@@ -55964,6 +55974,20 @@
       },
       "subtitle" : "Ethereum multisig wallet",
       "version" : "3.22.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "screenfocus",
+      "downloadURL" : "https://www.apptorium.com/public/products/screenfocus/releases/ScreenFocus-1.1.23.zip",
+      "homepage" : "https://www.apptorium.com/screenfocus",
+      "localizedDescription" : "Tool to manage multiple screens",
+      "name" : "ScreenFocus",
+      "sha256" : "f7c2ff9ec616c2bc316ddc796b87fcc003926cf8b1c6d366bf05093cbb6e99d1",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "subtitle" : "Tool to manage multiple screens",
+      "version" : "1.1.23"
     },
     {
       "beta" : false,
@@ -58991,31 +59015,6 @@
       },
       "subtitle" : "Virtual tabletop software",
       "version" : "1.9.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "rubymotion",
-      "downloadURL" : "http://www.rubymotion.com/files/RubyMotion%20Installer.zip",
-      "homepage" : "http://www.rubymotion.com/",
-      "localizedDescription" : "Write cross-platform native apps in Ruby",
-      "name" : "RubyMotion",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "subtitle" : "Write cross-platform native apps in Ruby",
-      "version" : "latest"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "ryver",
-      "downloadURL" : "https://d3vkb1nw20iqfq.cloudfront.net/mac/Ryver-1.3.2.dmg",
-      "homepage" : "https://ryver.com/",
-      "name" : "Ryver",
-      "sha256" : "949abb92a3df5034fd8c81e1fe78a9c7bd7be2ad699bef9d423ad3a39cd48d54",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "version" : "1.3.2"
     },
     {
       "beta" : false,

@@ -17582,17 +17582,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "logseq",
-      "downloadURL" : "https://github.com/logseq/logseq/releases/download/0.8.9/logseq-darwin-x64-0.8.9.dmg",
+      "downloadURL" : "https://github.com/logseq/logseq/releases/download/0.8.10/logseq-darwin-x64-0.8.10.dmg",
       "homepage" : "https://github.com/logseq/logseq",
       "localizedDescription" : "Privacy-first, open-source platform for knowledge sharing and management",
       "name" : "Logseq",
-      "sha256" : "1e3b9b8674eb5ad7377f8fae6e849b96de738d8ff89caba4c8ca1cae01d50f23",
+      "sha256" : "49568613f3fcc2c65fff9ed1796c7f24a4dcfd2d462cf5010710136bcc6361bc",
       "stats" : {
         "downloadCount" : 700
       },
       "subtitle" : "Privacy-first, open-source platform for knowledge sharing and management",
-      "version" : "0.8.9",
-      "versionDate" : "2022-10-19T00:00:00Z"
+      "version" : "0.8.10",
+      "versionDate" : "2022-11-01T18:41:57Z"
     },
     {
       "beta" : false,
@@ -24477,16 +24477,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "mountain-duck",
-      "downloadURL" : "https://dist.mountainduck.io/Mountain%20Duck-4.12.4.20185.zip",
+      "downloadURL" : "https://dist.mountainduck.io/Mountain%20Duck-4.12.5.20230.zip",
       "homepage" : "https://mountainduck.io/",
       "localizedDescription" : "Mounts servers and cloud storages as a disk on the desktop",
       "name" : "Mountain Duck",
-      "sha256" : "6931a7caa5d041db22a6eac43ea14cf245c9ec821e6c859cd5a2559936b7584e",
+      "sha256" : "d444b292c972569fea07bb34666ee2f0cf8c7d82d2ebb59e396bf80a589145c9",
       "stats" : {
         "downloadCount" : 89
       },
       "subtitle" : "Mounts servers and cloud storages as a disk on the desktop",
-      "version" : "4.12.4,20185"
+      "version" : "4.12.5,20230",
+      "versionDate" : "2022-11-01T18:41:57Z"
     },
     {
       "beta" : false,
@@ -61900,20 +61901,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "uvtools",
-      "caption" : "UVtools updated from 3.7.2 to 3.8.0",
-      "date" : "2022-10-31T07:32:31Z",
-      "identifier" : "release-uvtools-3.8.0",
-      "title" : "New Release: UVtools 3.8.0"
-    },
-    {
-      "appID" : "turbo-boost-switcher",
-      "caption" : "Turbo Boost Switcher updated from 2.11.0 to 2.12.0",
-      "date" : "2022-10-31T07:32:31Z",
-      "identifier" : "release-turbo-boost-switcher-2.12.0",
-      "title" : "New Release: Turbo Boost Switcher 2.12.0"
-    },
-    {
       "appID" : "soulver",
       "caption" : "Soulver updated from 3.6.2,325 to 3.7.1,352",
       "date" : "2022-10-31T07:32:31Z",
@@ -62598,6 +62585,20 @@
       "date" : "2022-11-01T16:48:15Z",
       "identifier" : "release-surge-xt-1.1.2",
       "title" : "New Release: Surge XT 1.1.2"
+    },
+    {
+      "appID" : "logseq",
+      "caption" : "Logseq updated from 0.8.9 to 0.8.10",
+      "date" : "2022-11-01T18:41:58Z",
+      "identifier" : "release-logseq-0.8.10",
+      "title" : "New Release: Logseq 0.8.10"
+    },
+    {
+      "appID" : "mountain-duck",
+      "caption" : "Mountain Duck updated from 4.12.4,20185 to 4.12.5,20230",
+      "date" : "2022-11-01T18:41:58Z",
+      "identifier" : "release-mountain-duck-4.12.5,20230",
+      "title" : "New Release: Mountain Duck 4.12.5,20230"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

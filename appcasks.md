@@ -948,7 +948,7 @@ tr:nth-child(even) {
 | [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.25,20221031102928`` | `722` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Dash``](https://kapeli.com/dash) | ``6.4.0,1006`` | `721` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``TextMate``](https://macromates.com/) | ``2.0.23`` | `700` |  |  |  |  |  | `0` |  |
-| [``Logseq``](https://github.com/logseq/logseq) | ``0.8.9`` | `700` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Logseq``](https://github.com/logseq/logseq) | ``0.8.10`` | `700` | `2022-11-01T18:41:57Z` |  |  |  |  | `0` |  |
 | [``Ghidra``](https://www.ghidra-sre.org/) | ``10.1.5,20220726`` | `699` |  |  |  |  |  | `0` |  |
 | [``Miro``](https://miro.com/) | ``0.7.22`` | `693` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``QuickLook Video``](https://github.com/Marginal/QLVideo) | ``1.94`` | `693` |  |  |  |  |  | `0` |  |
@@ -1430,7 +1430,7 @@ tr:nth-child(even) {
 | [``Hackintool``](https://github.com/headkaze/Hackintool) | ``3.8.7`` | `90` |  |  |  |  |  | `0` |  |
 | [``Linear``](https://linear.theuxshop.com/) | ``1.5`` | `90` |  |  |  |  |  | `0` |  |
 | [``Logisim``](http://www.cburch.com/logisim/) | ``2.7.1`` | `90` |  |  |  |  |  | `0` |  |
-| [``Mountain Duck``](https://mountainduck.io/) | ``4.12.4,20185`` | `89` |  |  |  |  |  | `0` |  |
+| [``Mountain Duck``](https://mountainduck.io/) | ``4.12.5,20230`` | `89` | `2022-11-01T18:41:57Z` |  |  |  |  | `0` |  |
 | [``AppCode``](https://www.jetbrains.com/objc/) | ``2022.2.4,222.4345.34`` | `88` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``구름 입력기``](https://gureum.io/) | ``1.13.0`` | `88` |  |  |  |  |  | `0` |  |
 | [``KubeContext``](https://github.com/turkenh/KubeContext) | ``2.0.1`` | `88` |  |  |  |  |  | `0` |  |

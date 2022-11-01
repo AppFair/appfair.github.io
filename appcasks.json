@@ -12753,7 +12753,7 @@
       "subtitle" : "Remote desktop software",
       "tintColor" : "CC8BDD",
       "version" : "4.12.2,21680",
-      "versionDate" : "2022-11-01T15:37:01Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15674,16 +15674,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "alfred",
-      "downloadURL" : "https://cachefly.alfredapp.com/Alfred_5.0.3_2087.dmg",
+      "downloadURL" : "https://cachefly.alfredapp.com/Alfred_5.0.4_2095.dmg",
       "homepage" : "https://www.alfredapp.com/",
       "localizedDescription" : "Application launcher and productivity software",
       "name" : "Alfred",
-      "sha256" : "0aca716811997d35f3b6a69c3cbd70d4c0a2b0d10022381f9cd558f4a402f298",
+      "sha256" : "6e99a5504377b24e80d3f24b98155c7062040b9883dcddad822be17f53c2c810",
       "stats" : {
         "downloadCount" : 3993
       },
       "subtitle" : "Application launcher and productivity software",
-      "version" : "5.0.3,2087"
+      "version" : "5.0.4,2095",
+      "versionDate" : "2022-11-01T16:48:13Z"
     },
     {
       "beta" : false,
@@ -17204,16 +17205,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://shottr.cc/dl/Shottr-1.6.0.dmg",
+      "downloadURL" : "https://shottr.cc/dl/Shottr-1.6.1.dmg",
       "homepage" : "https://shottr.cc/",
       "localizedDescription" : "Screenshot measurement and annotation tool",
       "name" : "Shottr",
-      "sha256" : "f889b153d69ce6cc895064478aaf768b0424f6ca4bbfef6a749c6e6ba9c64832",
+      "sha256" : "116613e1552558ee1bab86ffea6476b264b46164fbbdd94502ff4cd852840563",
       "stats" : {
         "downloadCount" : 893
       },
       "subtitle" : "Screenshot measurement and annotation tool",
-      "version" : "1.6.0"
+      "version" : "1.6.1",
+      "versionDate" : "2022-11-01T16:48:13Z"
     },
     {
       "beta" : false,
@@ -19487,16 +19489,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-3.3.dmg",
+      "downloadURL" : "https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-4.dmg",
       "homepage" : "https://developer.apple.com/design/human-interface-guidelines/sf-symbols/overview/",
       "localizedDescription" : "Tool that provides consistent, highly configurable symbols for apps",
       "name" : "SF Symbols",
-      "sha256" : "351135280b21d3c5ca958e362bfde3207a1e548b1ff427876c2c42301c86c7bc",
+      "sha256" : "479b66ce7eb308ca0eff826675325e11e7932fcca407d065261822be5c2ec8cb",
       "stats" : {
         "downloadCount" : 328
       },
       "subtitle" : "Tool that provides consistent, highly configurable symbols for apps",
-      "version" : "3.3"
+      "version" : "4",
+      "versionDate" : "2022-11-01T16:48:13Z"
     },
     {
       "beta" : false,
@@ -22286,17 +22289,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "prismlauncher",
-      "downloadURL" : "https://github.com/PrismLauncher/PrismLauncher/releases/download/5.0/PrismLauncher-macOS-5.0.tar.gz",
+      "downloadURL" : "https://github.com/PrismLauncher/PrismLauncher/releases/download/5.1/PrismLauncher-macOS-5.1.tar.gz",
       "homepage" : "https://prismlauncher.org/",
       "localizedDescription" : "Minecraft launcher",
       "name" : "Prism Launcher",
-      "sha256" : "e6858fb3d484fa60df7ae7c415da1c23697149c1ede7e4a5e0f0cd1ca40dc4a6",
+      "sha256" : "bd81c77efde42138515cb76fe0c407f46dbef83f00860e5a56ece79dec32f5ef",
       "stats" : {
         "downloadCount" : 133
       },
       "subtitle" : "Minecraft launcher",
-      "version" : "5.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5.1",
+      "versionDate" : "2022-11-01T16:48:13Z"
     },
     {
       "beta" : false,
@@ -23777,7 +23780,7 @@
       },
       "subtitle" : "PDF reader",
       "version" : "12.0.2",
-      "versionDate" : "2022-11-01T15:37:01Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42291,16 +42294,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://github.com/surge-synthesizer/releases-xt/releases/download/1.1.1/surge-xt-macOS-1.1.1.dmg",
+      "downloadURL" : "https://github.com/surge-synthesizer/releases-xt/releases/download/1.1.2/surge-xt-macOS-1.1.2.dmg",
       "homepage" : "https://surge-synthesizer.github.io/",
       "localizedDescription" : "Hybrid synthesizer",
       "name" : "Surge XT",
-      "sha256" : "2d0b36ea6a99c9b80e106ad7b4707beb29e1619988d9bd968d597af9865455a4",
+      "sha256" : "9c205eddf16bea67e87f7e56ef41b87693f76d5eb6e21bd527426e85f8b0860c",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "Hybrid synthesizer",
-      "version" : "1.1.1"
+      "version" : "1.1.2",
+      "versionDate" : "2022-11-01T16:48:13Z"
     },
     {
       "beta" : false,
@@ -61896,41 +61900,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "appflowy",
-      "caption" : "AppFlowy updated from 0.0.6.1 to 0.0.6.2",
-      "date" : "2022-10-31T02:40:50Z",
-      "identifier" : "release-appflowy-0.0.6.2",
-      "title" : "New Release: AppFlowy 0.0.6.2"
-    },
-    {
-      "appID" : "bettermouse",
-      "caption" : "BetterMouse updated from 1.4.2621 to 1.4.2677",
-      "date" : "2022-10-31T02:40:50Z",
-      "identifier" : "release-bettermouse-1.4.2677",
-      "title" : "New Release: BetterMouse 1.4.2677"
-    },
-    {
-      "appID" : "contour",
-      "caption" : "Contour updated from 0.3.5.238 to 0.3.6.240",
-      "date" : "2022-10-31T02:40:50Z",
-      "identifier" : "release-contour-0.3.6.240",
-      "title" : "New Release: Contour 0.3.6.240"
-    },
-    {
-      "appID" : "standard-notes",
-      "caption" : "Standard Notes updated from 3.23.241 to 3.23.258",
-      "date" : "2022-10-31T07:32:30Z",
-      "identifier" : "release-standard-notes-3.23.258",
-      "title" : "New Release: Standard Notes 3.23.258"
-    },
-    {
-      "appID" : "silentknight",
-      "caption" : "SilentKnight updated from 2.01,2022.10 to 2.02,2022.10",
-      "date" : "2022-10-31T07:32:31Z",
-      "identifier" : "release-silentknight-2.02,2022.10",
-      "title" : "New Release: SilentKnight 2.02,2022.10"
-    },
-    {
       "appID" : "uvtools",
       "caption" : "UVtools updated from 3.7.2 to 3.8.0",
       "date" : "2022-10-31T07:32:31Z",
@@ -62594,6 +62563,41 @@
       "date" : "2022-11-01T15:37:02Z",
       "identifier" : "release-foxitreader-12.0.2",
       "title" : "New Release: Foxit Reader 12.0.2"
+    },
+    {
+      "appID" : "alfred",
+      "caption" : "Alfred updated from 5.0.3,2087 to 5.0.4,2095",
+      "date" : "2022-11-01T16:48:14Z",
+      "identifier" : "release-alfred-5.0.4,2095",
+      "title" : "New Release: Alfred 5.0.4,2095"
+    },
+    {
+      "appID" : "shottr",
+      "caption" : "Shottr updated from 1.6.0 to 1.6.1",
+      "date" : "2022-11-01T16:48:14Z",
+      "identifier" : "release-shottr-1.6.1",
+      "title" : "New Release: Shottr 1.6.1"
+    },
+    {
+      "appID" : "sf-symbols",
+      "caption" : "SF Symbols updated from 3.3 to 4",
+      "date" : "2022-11-01T16:48:14Z",
+      "identifier" : "release-sf-symbols-4",
+      "title" : "New Release: SF Symbols 4"
+    },
+    {
+      "appID" : "prismlauncher",
+      "caption" : "Prism Launcher updated from 5.0 to 5.1",
+      "date" : "2022-11-01T16:48:15Z",
+      "identifier" : "release-prismlauncher-5.1",
+      "title" : "New Release: Prism Launcher 5.1"
+    },
+    {
+      "appID" : "surge-xt",
+      "caption" : "Surge XT updated from 1.1.1 to 1.1.2",
+      "date" : "2022-11-01T16:48:15Z",
+      "identifier" : "release-surge-xt-1.1.2",
+      "title" : "New Release: Surge XT 1.1.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

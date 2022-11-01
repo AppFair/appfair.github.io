@@ -277,7 +277,7 @@ tr:nth-child(even) {
 | [``Vivid``](https://www.getvivid.app/) | ``2.2.1,32`` | `18` | `2022-10-28T00:00:00Z` |  | `448` |  |  | `0` | `public.app-category.utilities` |
 | [``Facebook Workplace Chat``](https://www.facebook.com/workplace/chat-app) | ``155.0.0.52.218`` | `18` | `2022-10-28T00:00:00Z` |  | `464` |  |  | `0` | `public.app-category.social-networking` |
 | [``Unclack``](https://unclack.app/) | ``1.2.0`` | `18` |  |  | `196` |  |  | `0` | `public.app-category.utilities` |
-| [``Typeface``](https://typefaceapp.com/) | ``3.7.0,3447`` | `18` | `2022-10-19T00:00:00Z` |  | `396` |  |  | `0` | `public.app-category.graphics-design` |
+| [``Typeface``](https://typefaceapp.com/) | ``3.7.1,3463`` | `18` | `2022-11-01T23:36:39Z` |  | `396` |  |  | `0` | `public.app-category.graphics-design` |
 | [``The Battle for Wesnoth``](https://wesnoth.org/) | ``1.16.6`` | `18` |  |  | `175` |  |  | `0` | `public.app-category.strategy-games` |
 | [``SpaceRadar``](https://github.com/zz85/space-radar) | ``5.1.0`` | `18` |  |  | `226` |  |  | `0` | `public.app-category.developer-tools` |
 | [``SideNotes``](https://www.apptorium.com/sidenotes) | ``1.4.8,211`` | `18` |  |  | `246` |  |  | `0` | `public.app-category.productivity` |
@@ -848,7 +848,7 @@ tr:nth-child(even) {
 | [``Insomnia``](https://insomnia.rest/) | ``2022.6.0`` | `2429` |  |  |  |  |  | `0` |  |
 | [``Maccy``](https://maccy.app/) | ``0.24.0,13`` | `2420` |  |  |  |  |  | `0` |  |
 | [``Microsoft Office``](https://products.office.com/mac/microsoft-office-for-mac/) | ``16.66.22101101`` | `2392` |  |  |  |  |  | `0` |  |
-| [``Cyberduck``](https://cyberduck.io/) | ``8.4.5,38423`` | `2364` |  |  |  |  |  | `0` |  |
+| [``Cyberduck``](https://cyberduck.io/) | ``8.5.0,38556`` | `2364` | `2022-11-01T23:36:39Z` |  |  |  |  | `0` |  |
 | [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2343` |  |  |  |  |  | `0` |  |
 | [``BasicTeX``](https://www.tug.org/mactex/morepackages.html) | ``2022.0314`` | `2341` |  |  |  |  |  | `0` |  |
 | [``IINA``](https://iina.io/) | ``1.3.0`` | `2326` |  |  |  |  |  | `0` |  |
@@ -3332,7 +3332,7 @@ tr:nth-child(even) {
 | [``4Peaks``](https://nucleobytes.com/4peaks/index.html) | ``1.8`` | `3` |  |  |  |  |  | `0` |  |
 | [``Accordance Bible Softwar``](https://www.accordancebible.com/) | ``13.3.2`` | `3` |  |  |  |  |  | `0` |  |
 | [``airtrash``](https://github.com/maciejczyzewski/airtrash/) | ``1.0.0`` | `3` |  |  |  |  |  | `0` |  |
-| [``Amadine``](https://amadine.com/) | ``1.4.2,203`` | `3` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Amadine``](https://amadine.com/) | ``1.4.3,205`` | `3` | `2022-11-01T23:36:39Z` |  |  |  |  | `0` |  |
 | [``Amazon WorkDocs``](https://aws.amazon.com/workdocs/) | ``1.2.200445.0,20`` | `3` |  |  |  |  |  | `0` |  |
 | [``App...Store Quickview``](https://www.marcmoini.com/aq_en.html) | ``1.1.1`` | `3` |  |  |  |  |  | `0` |  |
 | [``Aquafold Aqua Data Studi``](https://www.aquafold.com/aquadatastudio) | ``22.2.0`` | `3` |  |  |  |  |  | `0` |  |

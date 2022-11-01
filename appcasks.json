@@ -5269,20 +5269,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://dcdn.typefaceapp.com/Typeface-3.7.0-3447/Typeface-3.7.0-3447.dmg",
+      "downloadURL" : "https://dcdn.typefaceapp.com/Typeface-3.7.1-3463/Typeface-3.7.1-3463.dmg",
       "homepage" : "https://typefaceapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-typeface/AppIcon.png",
       "localizedDescription" : "Font manager application",
       "name" : "Typeface",
-      "sha256" : "6d8e2e7ef78360c645aa255f80d08a4e26ca9a3cba980969643cdd741553582f",
+      "sha256" : "a3e251128997d9f1e3cbcc3bfb0c93bc201e4fbd9e0aa7dfa3640aa55fc2bad1",
       "stats" : {
         "downloadCount" : 18,
         "impressionCount" : 396
       },
       "subtitle" : "Font manager application",
       "tintColor" : "DAB6B1",
-      "version" : "3.7.0,3447",
-      "versionDate" : "2022-10-19T00:00:00Z"
+      "version" : "3.7.1,3463",
+      "versionDate" : "2022-11-01T23:36:39Z"
     },
     {
       "beta" : false,
@@ -16148,16 +16148,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "cyberduck",
-      "downloadURL" : "https://update.cyberduck.io/Cyberduck-8.4.5.38423.zip",
+      "downloadURL" : "https://update.cyberduck.io/Cyberduck-8.5.0.38556.zip",
       "homepage" : "https://cyberduck.io/",
       "localizedDescription" : "Server and cloud storage browser",
       "name" : "Cyberduck",
-      "sha256" : "e97aa3095abdd01517403b6317d7710004a1c8a1e07d0ac8474c551e88f9cd4f",
+      "sha256" : "85b46a3cb81b3167e4578273de5586e73e10bba58840a7d6af2744900ed5e496",
       "stats" : {
         "downloadCount" : 2364
       },
       "subtitle" : "Server and cloud storage browser",
-      "version" : "8.4.5,38423"
+      "version" : "8.5.0,38556",
+      "versionDate" : "2022-11-01T23:36:39Z"
     },
     {
       "beta" : false,
@@ -50973,8 +50974,8 @@
         "downloadCount" : 3
       },
       "subtitle" : "Vector graphic and illustration software",
-      "version" : "1.4.2,203",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "1.4.3,205",
+      "versionDate" : "2022-11-01T23:36:39Z"
     },
     {
       "beta" : false,
@@ -61905,20 +61906,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "loginputmac",
-      "caption" : "LoginputMac updated from 3.2.2,8502 to 3.2.3,8781",
-      "date" : "2022-10-31T07:32:35Z",
-      "identifier" : "release-loginputmac-3.2.3,8781",
-      "title" : "New Release: LoginputMac 3.2.3,8781"
-    },
-    {
-      "appID" : "whatsize",
-      "caption" : "WhatSize updated from 7.7.5,7750 to 7.7.6,7760",
-      "date" : "2022-10-31T07:32:35Z",
-      "identifier" : "release-whatsize-7.7.6,7760",
-      "title" : "New Release: WhatSize 7.7.6,7760"
-    },
-    {
       "appID" : "pure-writer",
       "caption" : "Pure Writer Desktop updated from 1.6.0,1.6.0 to 1.6.0,1.6.2",
       "date" : "2022-10-31T07:32:35Z",
@@ -62262,13 +62249,6 @@
       "title" : "New Release: MIDITrail 2.0.2,77944"
     },
     {
-      "appID" : "amadine",
-      "caption" : "Amadine updated from 1.4,197 to 1.4.2,203",
-      "date" : "2022-10-31T21:34:57Z",
-      "identifier" : "release-amadine-1.4.2,203",
-      "title" : "New Release: Amadine 1.4.2,203"
-    },
-    {
       "appID" : "infoflow",
       "caption" : "Baidu Hi updated from 2.3.20.5,20220920182127 to 2.3.21.3,20221031180523",
       "date" : "2022-10-31T21:34:57Z",
@@ -62603,6 +62583,27 @@
       "date" : "2022-11-01T22:37:35Z",
       "identifier" : "release-clay-2.1.5",
       "title" : "New Release: clay 2.1.5"
+    },
+    {
+      "appID" : "typeface",
+      "caption" : "Typeface updated from 3.7.0,3447 to 3.7.1,3463",
+      "date" : "2022-11-01T23:36:40Z",
+      "identifier" : "release-typeface-3.7.1,3463",
+      "title" : "New Release: Typeface 3.7.1,3463"
+    },
+    {
+      "appID" : "cyberduck",
+      "caption" : "Cyberduck updated from 8.4.5,38423 to 8.5.0,38556",
+      "date" : "2022-11-01T23:36:41Z",
+      "identifier" : "release-cyberduck-8.5.0,38556",
+      "title" : "New Release: Cyberduck 8.5.0,38556"
+    },
+    {
+      "appID" : "amadine",
+      "caption" : "Amadine updated from 1.4.2,203 to 1.4.3,205",
+      "date" : "2022-11-01T23:36:41Z",
+      "identifier" : "release-amadine-1.4.3,205",
+      "title" : "New Release: Amadine 1.4.3,205"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

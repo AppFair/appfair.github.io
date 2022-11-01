@@ -16872,7 +16872,7 @@
       },
       "subtitle" : "Environment for statistical computing and graphics",
       "version" : "4.2.2",
-      "versionDate" : "2022-11-01T10:38:22Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19692,7 +19692,8 @@
         "downloadCount" : 298
       },
       "subtitle" : "Cloud gaming platform",
-      "version" : "2.0.45.96"
+      "version" : "2.0.46.112",
+      "versionDate" : "2022-11-01T11:29:53Z"
     },
     {
       "beta" : false,
@@ -19721,7 +19722,7 @@
       },
       "subtitle" : "Virtual globe",
       "version" : "7.3.6.9275",
-      "versionDate" : "2022-11-01T10:38:22Z"
+      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25449,17 +25450,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "qownnotes",
-      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.11.0/QOwnNotes.dmg",
+      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.11.1/QOwnNotes.dmg",
       "homepage" : "https://www.qownnotes.org/",
       "localizedDescription" : "Plain-text file notepad and todo-list manager",
       "name" : "QOwnNotes",
-      "sha256" : "32fb76bdfc100abb732f4010d5b082d3170ff37e40c515210ae8317eeefcaf53",
+      "sha256" : "f9b2b9d84683e3c955d8452cdc43d2d81609b2f713da2d63efa9d1b4a78ee8bf",
       "stats" : {
         "downloadCount" : 74
       },
       "subtitle" : "Plain-text file notepad and todo-list manager",
-      "version" : "22.11.0",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "22.11.1",
+      "versionDate" : "2022-11-01T11:29:53Z"
     },
     {
       "beta" : false,
@@ -61893,13 +61894,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "keepingyouawake",
-      "caption" : "KeepingYouAwake updated from 1.6.2 to 1.6.3",
-      "date" : "2022-10-30T11:25:53Z",
-      "identifier" : "release-keepingyouawake-1.6.3",
-      "title" : "New Release: KeepingYouAwake 1.6.3"
-    },
-    {
       "appID" : "fsnotes",
       "caption" : "FSNotes updated from 5.4.5 to 6.0.0",
       "date" : "2022-10-30T11:25:53Z",
@@ -62327,13 +62321,6 @@
       "title" : "New Release: GeoGebra 6.0.741.0"
     },
     {
-      "appID" : "qownnotes",
-      "caption" : "QOwnNotes updated from 22.10.3 to 22.11.0",
-      "date" : "2022-10-31T21:34:54Z",
-      "identifier" : "release-qownnotes-22.11.0",
-      "title" : "New Release: QOwnNotes 22.11.0"
-    },
-    {
       "appID" : "busycal",
       "caption" : "BusyCal updated from 2022.4.4,2022-10-31-07-08 to 2022.4.4,2022-10-31-09-25",
       "date" : "2022-10-31T21:34:54Z",
@@ -62591,6 +62578,20 @@
       "date" : "2022-11-01T10:38:24Z",
       "identifier" : "release-google-earth-pro-7.3.6.9275",
       "title" : "New Release: Google Earth Pro 7.3.6.9275"
+    },
+    {
+      "appID" : "nvidia-geforce-now",
+      "caption" : "NVIDIA GeForce NOW updated from 2.0.45.96 to 2.0.46.112",
+      "date" : "2022-11-01T11:29:53Z",
+      "identifier" : "release-nvidia-geforce-now-2.0.46.112",
+      "title" : "New Release: NVIDIA GeForce NOW 2.0.46.112"
+    },
+    {
+      "appID" : "qownnotes",
+      "caption" : "QOwnNotes updated from 22.11.0 to 22.11.1",
+      "date" : "2022-11-01T11:29:54Z",
+      "identifier" : "release-qownnotes-22.11.1",
+      "title" : "New Release: QOwnNotes 22.11.1"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

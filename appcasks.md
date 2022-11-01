@@ -898,7 +898,7 @@ tr:nth-child(even) {
 | [``Android File Transfer``](https://www.android.com/filetransfer/) | ``5071136`` | `1184` |  |  |  |  |  | `0` |  |
 | [``KeyCastr``](https://github.com/keycastr/keycastr) | ``0.9.12`` | `1159` |  |  |  |  |  | `0` |  |
 | [``Blender``](https://www.blender.org/) | ``3.3.1`` | `1145` |  |  |  |  |  | `0` |  |
-| [``R``](https://www.r-project.org/) | ``4.2.2`` | `1107` | `2022-11-01T10:38:22Z` |  |  |  |  | `0` |  |
+| [``R``](https://www.r-project.org/) | ``4.2.2`` | `1107` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``CheatSheet``](https://www.mediaatelier.com/CheatSheet/) | ``1.6.4`` | `1074` |  |  |  |  |  | `0` |  |
 | [``MacDown``](https://macdown.uranusjr.com/) | ``0.7.2`` | `1069` |  |  |  |  |  | `0` |  |
 | [``Hyper``](https://hyper.is/) | ``3.3.0`` | `1067` |  |  |  |  |  | `0` |  |
@@ -1095,9 +1095,9 @@ tr:nth-child(even) {
 | [``OpenEmu``](https://openemu.org/) | ``2.3.3`` | `306` |  |  |  |  |  | `0` |  |
 | [``AppFlowy``](https://www.appflowy.io/) | ``0.0.6.2`` | `303` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``KiCad``](https://kicad.org/) | ``6.0.9-0`` | `299` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
-| [``NVIDIA GeForce NOW``](https://www.nvidia.com/en-us/geforce-now/download/) | ``2.0.45.96`` | `298` |  |  |  |  |  | `0` |  |
+| [``NVIDIA GeForce NOW``](https://www.nvidia.com/en-us/geforce-now/download/) | ``2.0.46.112`` | `298` | `2022-11-01T11:29:53Z` |  |  |  |  | `0` |  |
 | [``Arduino IDE``](https://www.arduino.cc/en/software) | ``2.0.1`` | `297` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Google Earth Pro``](https://www.google.com/earth/) | ``7.3.6.9275`` | `296` | `2022-11-01T10:38:22Z` |  |  |  |  | `0` |  |
+| [``Google Earth Pro``](https://www.google.com/earth/) | ``7.3.6.9275`` | `296` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Medis``](https://getmedis.com/) | ``2.9.1`` | `293` |  |  |  |  |  | `0` |  |
 | [``Mono``](https://www.mono-project.com/) | ``6.12.0.182`` | `292` |  |  |  |  |  | `0` |  |
 | [``Reactotron``](https://github.com/infinitered/reactotron) | ``2.17.1`` | `292` |  |  |  |  |  | `0` |  |
@@ -1499,7 +1499,7 @@ tr:nth-child(even) {
 | [``Around``](https://www.around.co/) | ``0.59.35`` | `74` |  |  |  |  |  | `0` |  |
 | [``Eudic``](https://www.eudic.net/v4/en/app/eudic) | ``4.2.6,1078`` | `74` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GNS3``](https://www.gns3.com/) | ``2.2.34`` | `74` |  |  |  |  |  | `0` |  |
-| [``QOwnNotes``](https://www.qownnotes.org/) | ``22.11.0`` | `74` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
+| [``QOwnNotes``](https://www.qownnotes.org/) | ``22.11.1`` | `74` | `2022-11-01T11:29:53Z` |  |  |  |  | `0` |  |
 | [``Sigil``](https://sigil-ebook.com/) | ``1.9.20`` | `73` |  |  |  |  |  | `0` |  |
 | [``checkra1n``](https://checkra.in/) | ``0.12.4`` | `73` |  |  |  |  |  | `0` |  |
 | [``JabRef``](https://www.jabref.org/) | ``5.7`` | `73` |  |  |  |  |  | `0` |  |

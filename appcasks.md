@@ -574,7 +574,7 @@ tr:nth-child(even) {
 | [``XMind``](https://www.xmind.net/) | ``22.10.0636`` | `350` | `2022-10-31T00:00:00Z` |  | `92` |  |  | `0` |  |
 | [``SmartBear SoapUI``](https://www.soapui.org/) | ``5.7.0`` | `345` |  |  | `46` |  |  | `0` |  |
 | [``TeXstudio``](https://texstudio.org/) | ``4.3.1`` | `312` |  |  | `150` |  |  | `0` |  |
-| [``Viscosity``](https://www.sparklabs.com/viscosity/) | ``1.10.4`` | `310` | `2022-11-02T07:32:47Z` |  | `78` |  |  | `0` |  |
+| [``Viscosity``](https://www.sparklabs.com/viscosity/) | ``1.10.4`` | `310` | `2022-11-02T00:00:00Z` |  | `78` |  |  | `0` |  |
 | [``Texmaker``](https://www.xm1math.net/texmaker/) | ``5.1.3`` | `294` |  |  | `82` |  |  | `0` |  |
 | [``Studio 3T``](https://studio3t.com/) | ``2022.9.0`` | `293` | `2022-10-31T00:00:00Z` |  | `153` |  |  | `0` |  |
 | [``Spyder``](https://www.spyder-ide.org/) | ``5.3.3`` | `289` |  |  | `123` |  |  | `0` |  |
@@ -1455,7 +1455,7 @@ tr:nth-child(even) {
 | [``RawTherapee``](https://rawtherapee.com/) | ``5.8`` | `84` |  |  |  |  |  | `0` |  |
 | [``Contexts``](https://contexts.co/) | ``3.9.0`` | `83` |  |  |  |  |  | `0` |  |
 | [``CoolTerm``](https://freeware.the-meiers.org/) | ``2.0.0.3.0.1090`` | `83` |  |  |  |  |  | `0` |  |
-| [``FreeTube``](https://github.com/FreeTubeApp/FreeTube) | ``0.18.0`` | `83` | `2022-11-02T07:32:47Z` |  |  |  |  | `0` |  |
+| [``FreeTube``](https://github.com/FreeTubeApp/FreeTube) | ``0.18.0`` | `83` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GeoGebra``](https://www.geogebra.org/) | ``6.0.741.0`` | `83` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``kubenav``](https://kubenav.io/) | ``3.9.0`` | `83` |  |  |  |  |  | `0` |  |
 | [``Openshift Client``](https://www.openshift.com/) | ``4.11.12`` | `83` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1980,7 +1980,7 @@ tr:nth-child(even) {
 | [``Prefs Editor``](https://apps.tempel.org/PrefsEditor/) | ``1.4.1.3.1`` | `27` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``RWTS PDFwriter``](https://github.com/rodyager/RWTS-PDFwriter) | ``2.0`` | `27` |  |  |  |  |  | `0` |  |
 | [``PiP``](https://github.com/amitv87/PiP) | ``2.40`` | `26` |  |  |  |  |  | `0` |  |
-| [``Bike``](https://www.hogbaysoftware.com/bike/) | ``1.6,88`` | `26` | `2022-11-02T07:32:47Z` |  |  |  |  | `0` |  |
+| [``Bike``](https://www.hogbaysoftware.com/bike/) | ``1.6,88`` | `26` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Espresso``](https://espressoapp.com/) | ``5.9.1`` | `26` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Flow``](https://www.getflow.com/) | ``6.0.489.1826`` | `26` |  |  |  |  |  | `0` |  |
 | [``Free Ruler``](http://www.pascal.com/software/freeruler/) | ``2.0.5`` | `26` |  |  |  |  |  | `0` |  |
@@ -2227,7 +2227,7 @@ tr:nth-child(even) {
 | [``inSSIDer``](https://www.metageek.com/products/inssider/) | ``0.0.4.5,8`` | `18` |  |  |  |  |  | `0` |  |
 | [``Integrity``](https://peacockmedia.software/mac/integrity/) | ``12.5.0`` | `18` | `2022-10-18T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Jalview``](https://www.jalview.org/) | ``2.11.2.0`` | `18` |  |  |  |  |  | `0` |  |
-| [``Keyman``](https://keyman.com/) | ``15.0.272`` | `18` | `2022-11-02T07:32:47Z` |  |  |  |  | `0` |  |
+| [``Keyman``](https://keyman.com/) | ``15.0.272`` | `18` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``kindaVim``](https://kindavim.app/) | ``44.0.0`` | `18` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Metabase``](https://www.metabase.com/) | ``0.41.6`` | `18` |  |  |  |  |  | `0` |  |
 | [``Meteorologist``](https://heat-meteo.sourceforge.io/) | ``3.5.2`` | `18` |  |  |  |  |  | `0` |  |
@@ -2274,7 +2274,7 @@ tr:nth-child(even) {
 | [``scap-workbench``](https://www.open-scap.org/tools/scap-workbench/) | ``1.2.1`` | `17` |  |  |  |  |  | `0` |  |
 | [``Scid vs. Mac``](http://scidvspc.sourceforge.net/) | ``4.23`` | `17` |  |  |  |  |  | `0` |  |
 | [``Autodesk Sketchbook``](https://www.sketchbook.com/) | ``8.7.1,2019`` | `16` |  |  |  |  |  | `0` |  |
-| [``Accurics CLI``](https://www.accurics.com/) | ``1.0.43`` | `16` | `2022-11-02T07:32:47Z` |  |  |  |  | `0` |  |
+| [``Accurics CLI``](https://www.accurics.com/) | ``1.0.43`` | `16` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Crestron AirMedia``](https://www.crestron.com/microsites/airmedia-mobile-wireless-hd-presentations) | ``4.1.12`` | `16` |  |  |  |  |  | `0` |  |
 | [``AnkiApp``](https://www.ankiapp.com/) | ``3.2.2`` | `16` |  |  |  |  |  | `0` |  |
 | [``Apptivate``](http://www.apptivateapp.com/) | ``2.2.1,15`` | `16` |  |  |  |  |  | `0` |  |
@@ -3494,7 +3494,7 @@ tr:nth-child(even) {
 | [``Raw Photo Processor``](https://www.raw-photo-processor.com/RPP/Overview.html) | ``1927Beta`` | `3` |  |  |  |  |  | `0` |  |
 | [``Recovery Disk Assistant``](https://support.apple.com/kb/DL1433) | ``1.0,18`` | `3` |  |  |  |  |  | `0` |  |
 | [``Rember``](https://www.kelleycomputing.net/rember/) | ``0.3.7b`` | `3` |  |  |  |  |  | `0` |  |
-| [``remotion``](https://www.remotion.com/) | ``1.97.1`` | `3` | `2022-11-02T07:32:47Z` |  |  |  |  | `0` |  |
+| [``remotion``](https://www.remotion.com/) | ``1.97.1`` | `3` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Repetier-Host``](https://www.repetier.com/) | ``1.2.1,106`` | `3` |  |  |  |  |  | `0` |  |
 | [``Resolume Arena``](https://resolume.com/) | ``7.13.2,17774`` | `3` |  |  |  |  |  | `0` |  |
 | [``Roku Remote Tool``](https://devtools.web.roku.com/RokuRemote/electron.html) | ``3.2.22.1288`` | `3` |  |  |  |  |  | `0` |  |
@@ -3786,7 +3786,7 @@ tr:nth-child(even) {
 | [``AWS ElasticWolf Client C…``](https://aws.amazon.com/tools/aws-elasticwolf-client-console/) | ``5.1.7`` | `1` |  |  |  |  |  | `0` |  |
 | [``Electron API Demos``](https://github.com/electron/electron-api-demos) | ``2.0.2`` | `1` |  |  |  |  |  | `0` |  |
 | [``Electronic WeChat``](https://github.com/geeeeeeeeek/electronic-wechat) | ``2.0`` | `1` |  |  |  |  |  | `0` |  |
-| [``Elephicon``](https://github.com/sprout2000/elephicon/) | ``2.1.5`` | `1` | `2022-11-02T07:32:47Z` |  |  |  |  | `0` |  |
+| [``Elephicon``](https://github.com/sprout2000/elephicon/) | ``2.1.5`` | `1` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Emailchemy``](https://weirdkid.com/emailchemy/) | ``14.4.6`` | `1` |  |  |  |  |  | `0` |  |
 | [``EnfuseGUI``](https://swipeware.com/applications/enfusegui/) | ``3.2.2`` | `1` |  |  |  |  |  | `0` |  |
 | [``Engine Prime``](https://www.denondj.com/engineprime) | ``1.6.1,5f4b42a70b`` | `1` |  |  |  |  |  | `0` |  |
@@ -3937,7 +3937,7 @@ tr:nth-child(even) {
 | [``Alpha``](https://alphacocoa.sourceforge.io/) | ``9.2.3`` | `0` |  |  |  |  |  | `0` |  |
 | [``Alva``](https://meetalva.io/) | ``0.9.1`` | `0` |  |  |  |  |  | `0` |  |
 | [``APK Icon Editor``](https://kefir500.github.io/apk-icon-editor/) | ``2.2.0`` | `0` |  |  |  |  |  | `0` |  |
-| [``Assinador Serpro``](https://www.serpro.gov.br/links-fixos-superiores/assinador-digital/assinador-serpro) | ``4.0.0`` | `0` | `2022-11-02T07:32:47Z` |  |  |  |  | `0` |  |
+| [``Assinador Serpro``](https://www.serpro.gov.br/links-fixos-superiores/assinador-digital/assinador-serpro) | ``4.0.0`` | `0` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Audioscrobbler``](https://github.com/mxcl/Audioscrobbler.app) | ``0.9.15`` | `0` |  |  |  |  |  | `0` |  |
 | [``AutoMute``](https://github.com/Lorenzo45/AutoMute) | ``1.1`` | `0` |  |  |  |  |  | `0` |  |
 | [``AWA``](https://awa.fm/) | ``1.5.7`` | `0` |  |  |  |  |  | `0` |  |
@@ -3963,7 +3963,7 @@ tr:nth-child(even) {
 | [``CodeExpander``](https://github.com/oncework/codeexpander) | ``4.2.13`` | `0` |  |  |  |  |  | `0` |  |
 | [``Comma Chameleon``](https://comma-chameleon.io/) | ``0.5.2`` | `0` |  |  |  |  |  | `0` |  |
 | [``Command-Tab Plus``](https://noteifyapp.com/command-tab-plus/) | ``1.130,380`` | `0` |  |  |  |  |  | `0` |  |
-| [``Compositor``](https://compositorapp.com/) | ``1.19.0`` | `0` | `2022-11-02T07:32:47Z` |  |  |  |  | `0` |  |
+| [``Compositor``](https://compositorapp.com/) | ``1.19.0`` | `0` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``CreateUserPkg``](https://magervalp.github.io/CreateUserPkg/) | ``1.2.4`` | `0` |  |  |  |  |  | `0` |  |
 | [``CrystalMaker``](http://crystalmaker.com/index.html) | ``10.8.0`` | `0` |  |  |  |  |  | `0` |  |
 | [``Daedalus Testnet``](https://developers.cardano.org/en/testnets/cardano/get-started/wallet/) | ``4.12.1,22105`` | `0` |  |  |  |  |  | `0` |  |

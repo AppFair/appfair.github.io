@@ -410,13 +410,13 @@
       "sha256" : "50bb0c7382d0281121d942e458f64f0fb64202792462e5ff88c8b8125b8e1e12",
       "stats" : {
         "downloadCount" : 2309,
-        "impressionCount" : 4379,
+        "impressionCount" : 4381,
         "viewCount" : 431
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
       "version" : "1.73.0.22306",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -842,12 +842,12 @@
       "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
       "stats" : {
         "downloadCount" : 32860,
-        "impressionCount" : 1870
+        "impressionCount" : 1871
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
       "version" : "1.73.0",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1386,12 +1386,12 @@
       "name" : "Viber",
       "stats" : {
         "downloadCount" : 343,
-        "impressionCount" : 1116
+        "impressionCount" : 1117
       },
       "subtitle" : "Calling and messaging application focusing on security",
       "tintColor" : "8E7FF3",
       "version" : "18.8.0,1880",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1427,7 +1427,7 @@
       "sha256" : "d5b69c360662eee9499eb71ca21a8855adf8fd525e7ed33f08d4eab1fdd44c7a",
       "stats" : {
         "downloadCount" : 321,
-        "impressionCount" : 865
+        "impressionCount" : 867
       },
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
@@ -2658,7 +2658,7 @@
       "subtitle" : "Notetaking tool",
       "tintColor" : "6391B2",
       "version" : "4.0.2211011733",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3037,12 +3037,12 @@
       "sha256" : "7c10f821ec1f0df599d73c54788b724b4be6f2ac41071723354f4af4002d9e58",
       "stats" : {
         "downloadCount" : 55,
-        "impressionCount" : 485
+        "impressionCount" : 486
       },
       "subtitle" : "Tinker tool for PHP and Laravel developers",
       "tintColor" : "5A5542",
       "version" : "3.12.0",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3099,12 +3099,12 @@
       "sha256" : "4a41f2ea4c161b2299031ee5c8a61b9a0f6fed2320992f3f86f716b6fbff999e",
       "stats" : {
         "downloadCount" : 53,
-        "impressionCount" : 351
+        "impressionCount" : 352
       },
       "subtitle" : "Remote access software focusing on usability",
       "tintColor" : "8C64A1",
       "version" : "4.12.5,1667391817",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3644,12 +3644,12 @@
       "sha256" : "12f0b87c3f5e45a8bb8de7aae8c1f5d2612a4b7cecd5089c3111baf79a4de3d5",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 374
+        "impressionCount" : 376
       },
       "subtitle" : "Keystroke launcher",
       "tintColor" : "5F5F5F",
       "version" : "8.23.2",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3987,7 +3987,7 @@
       "sha256" : "9dfcbd0c4a7be7fc89d43a8579861340e8dacd375b1d8737cc4f2458f42304c0",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 700
+        "impressionCount" : 701
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
@@ -4147,7 +4147,7 @@
       "sha256" : "cd0e948813b443203230d89a39dc50d4f7961f71a060420c772e359e86d80733",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 676
+        "impressionCount" : 677
       },
       "subtitle" : "Screen recorder with audio",
       "tintColor" : "5788AD",
@@ -4770,7 +4770,7 @@
       "subtitle" : "Xcode extension to format Swift code",
       "tintColor" : "4EA1E5",
       "version" : "1.3",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4886,7 +4886,7 @@
       "sha256" : "7605b8e888076ea96fc45ee193a220af74bcfb7382e1f9e584b8412440411c3d",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 875
+        "impressionCount" : 877
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
@@ -4907,7 +4907,7 @@
       "sha256" : "a85c2c500e2a967e952f78298ee2a109cd6115a6541bc9978e2126ff901b3c21",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 745
+        "impressionCount" : 746
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
@@ -5748,7 +5748,7 @@
       "subtitle" : "World of Warcraft addon manager",
       "tintColor" : "7B7AB9",
       "version" : "2.9.1",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5928,7 +5928,7 @@
       "subtitle" : "Note-taking application",
       "tintColor" : "9A8DCF",
       "version" : "0.1.89",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6256,7 +6256,7 @@
       "sha256" : "14152d045116ccc59ae36f1e33d0f386932459a430d5866004e48c7eacf1ae8f",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 849
+        "impressionCount" : 850
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
@@ -7249,7 +7249,7 @@
       "subtitle" : "Free and open-source real time strategy game",
       "tintColor" : "76899C",
       "version" : "4.3.0",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7381,12 +7381,12 @@
       "sha256" : "a970bd22f68e26b1566ca3f9aff7feb56d1f149cdd8732c4f8a23c07afc8e212",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 325
+        "impressionCount" : 326
       },
       "subtitle" : "Time tracking aided by a physical device",
       "tintColor" : "A18BEF",
       "version" : "5.6.1",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8564,7 +8564,7 @@
       "name" : "Tyme 3",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 265
+        "impressionCount" : 266
       },
       "subtitle" : "Time tracking app",
       "tintColor" : "171715",
@@ -11096,7 +11096,7 @@
       "sha256" : "03c44acff62830603d4deb15ce4d53e3102e4522a078fbe252ac2feb41e57ab2",
       "stats" : {
         "downloadCount" : 310,
-        "impressionCount" : 87
+        "impressionCount" : 88
       },
       "subtitle" : "OpenVPN client with AppleScript support",
       "tintColor" : "7892AB",
@@ -12227,7 +12227,7 @@
       "sha256" : "21a7fb34132036c5810a8b48527513981d98d09d27d33b15e2f428bdc492c89d",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 73
+        "impressionCount" : 74
       },
       "subtitle" : "Kart racing game",
       "tintColor" : "844647",
@@ -12388,7 +12388,7 @@
       "sha256" : "cab5131e620c5dde19fd41f0037a6dce5722cf74a3f02026acae0a9e83811846",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 118
+        "impressionCount" : 119
       },
       "subtitle" : "Run classic graphical adventure and role-playing games",
       "tintColor" : "148630",
@@ -12486,7 +12486,7 @@
       "name" : "Sync",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 124
+        "impressionCount" : 125
       },
       "subtitle" : "Store, share and access files from anywhere",
       "tintColor" : "9DDFF9",
@@ -12984,7 +12984,7 @@
       "sha256" : "c2b067a418e0e0f867417ba302f9a93327f98717c6a3ec55d19b602e7f429bc6",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 130
+        "impressionCount" : 131
       },
       "subtitle" : "Tool for creating dynamic digital art",
       "tintColor" : "5F674C",
@@ -13710,7 +13710,7 @@
       "sha256" : "c1662705d76eef2afb56f3bf34ea882c8893ae66280c68e014605095963b63e9",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 92
+        "impressionCount" : 93
       },
       "subtitle" : "Scientific plotting application",
       "tintColor" : "52788E",
@@ -14261,7 +14261,7 @@
       "sha256" : "e0e474a2303f779ce91ea7c60a2d6ae6217cb29f50fc3f4c77cb993cd2bc625f",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 178
+        "impressionCount" : 179
       },
       "subtitle" : "3D browsing software for Second Life online virtual world",
       "tintColor" : "0A3341",
@@ -14342,7 +14342,7 @@
       "sha256" : "105b8fe323207a47bf220580d9e126eba5356c14ee555b578e933b5368db52ee",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 79
+        "impressionCount" : 80
       },
       "subtitle" : "Flash tool for microcontrollers",
       "tintColor" : "D42A2A",
@@ -14478,7 +14478,7 @@
       "sha256" : "00070ee033bde31b1b210a750deeee95899e0337aad1a6e749c70ffb7a6df838",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 335
+        "impressionCount" : 336
       },
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
@@ -15478,7 +15478,7 @@
       },
       "subtitle" : "Reimagine your terminal",
       "version" : "2.7.2",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15645,7 +15645,7 @@
       },
       "subtitle" : "Web browser focusing on privacy",
       "version" : "1.45.118.0,145.118",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15690,7 +15690,7 @@
       },
       "subtitle" : "Enable Windows-like alt-tab",
       "version" : "6.49.0",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15834,7 +15834,7 @@
       },
       "subtitle" : "UI toolkit for building applications for mobile, web and desktop",
       "version" : "3.3.7",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17584,7 +17584,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.25,20221102103031",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18031,7 +18031,7 @@
       },
       "subtitle" : "App for note taking, organizing, task lists, and archiving",
       "version" : "10.48.4,3760,5f4dcc5719",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18761,7 +18761,7 @@
       },
       "subtitle" : "Cloud credentials manager",
       "version" : "0.16.0",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19754,7 +19754,7 @@
       },
       "subtitle" : "Modern GUI for Redis",
       "version" : "2.9.2",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20010,7 +20010,7 @@
       },
       "subtitle" : "Hybrid IDE and text editor",
       "version" : "1.10.192",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22703,7 +22703,7 @@
       },
       "subtitle" : "Network scanner",
       "version" : "3.1.0",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23427,7 +23427,7 @@
       },
       "subtitle" : "Monitoring and security across systems, apps, and services",
       "version" : "7.40.0-1",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23613,7 +23613,7 @@
       },
       "subtitle" : "Open-source image processing package",
       "version" : "20221102-1117",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23628,7 +23628,7 @@
       },
       "subtitle" : "Automated organization",
       "version" : "5.2",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24929,7 +24929,7 @@
       },
       "subtitle" : "Red Hat OpenShift Container Platform command-line client",
       "version" : "4.11.13",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25460,7 +25460,7 @@
       },
       "subtitle" : "Launcher & command palette",
       "version" : "1.1.94",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29475,7 +29475,7 @@
       },
       "subtitle" : "Use the Bing daily image as your wallpaper",
       "version" : "1.1.2,23",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30898,7 +30898,7 @@
       },
       "subtitle" : "Share your work and ideas with video messages and screenshots",
       "version" : "88.0.5",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31342,7 +31342,7 @@
       },
       "subtitle" : "Font manager",
       "version" : "2.17.16",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31500,7 +31500,7 @@
       },
       "subtitle" : "Agent for Nessus vulnerability scanner",
       "version" : "10.2.1,17740",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33633,7 +33633,7 @@
       },
       "subtitle" : "Free streaming software designed for new streamers",
       "version" : "0.110.22",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35819,7 +35819,7 @@
       },
       "subtitle" : "Collection of small computer programs which implement one-player puzzle games",
       "version" : "20221102.289342e",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36429,7 +36429,7 @@
       },
       "subtitle" : "Minecraft launcher",
       "version" : "3.4.20.4",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -38173,7 +38173,7 @@
       },
       "subtitle" : "Git client",
       "version" : "3.0.4,7526",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -38793,7 +38793,7 @@
       },
       "subtitle" : "Digital audio workstation",
       "version" : "4.4.2",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39040,7 +39040,7 @@
       },
       "subtitle" : "Download and watch BBC and ITV shows",
       "version" : "1.24.3,20221102001",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40083,7 +40083,7 @@
       },
       "subtitle" : "Collaborative presentation software",
       "version" : "1.99.0,stable.2,4837133",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40470,7 +40470,7 @@
       },
       "subtitle" : "Advanced directory compare utility",
       "version" : "4.5,45002",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40990,7 +40990,7 @@
       },
       "subtitle" : "Design, animate, and prototype design tool from Facebook",
       "version" : "127.0.0.3.212,414398732",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41812,7 +41812,7 @@
       },
       "subtitle" : "Note-taking tool for visual learning",
       "version" : "0.219.1",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42515,7 +42515,7 @@
       },
       "subtitle" : "Play your favorite games straight from the cloud",
       "version" : "1.7700.5671.0",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43800,7 +43800,7 @@
       },
       "subtitle" : "Universal chat app powered by Matrix, unifying 15 different chat networks",
       "version" : "3.31.14",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44710,7 +44710,7 @@
       },
       "subtitle" : "Icon manager and library",
       "version" : "3.2.2",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47703,7 +47703,7 @@
       },
       "subtitle" : "Browse, install and purchase effects and plugins from a huge catalog",
       "version" : "8.0.4,7291",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48510,7 +48510,7 @@
       },
       "subtitle" : "Presentation software",
       "version" : "1.59.0,27276",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48991,7 +48991,7 @@
       },
       "subtitle" : "Portal to download Ankama's PC games",
       "version" : "3.8.1",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49679,7 +49679,7 @@
       },
       "subtitle" : "Minecraft mod downloader and manager",
       "version" : "202211021238,4322c4d8d1",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49866,7 +49866,7 @@
       },
       "subtitle" : "Pandanet client",
       "version" : "2.8.0",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51805,7 +51805,7 @@
       },
       "subtitle" : "Pro camera for video calls",
       "version" : "3.4.4",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55510,7 +55510,7 @@
       },
       "subtitle" : "Digital media asset manager",
       "version" : "8.2",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -58399,7 +58399,7 @@
       },
       "subtitle" : "Compiler for 32-bit PIC and SAM MCUs and MPUs",
       "version" : "4.20",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -58938,7 +58938,7 @@
       },
       "subtitle" : "PlayStation 2 emulator",
       "version" : "2022-11-02,efc8513d",
-      "versionDate" : "2022-11-02T22:36:53Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,

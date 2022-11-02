@@ -1009,24 +1009,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "vagrant-manager",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://github.com/lanayotech/vagrant-manager/releases/download/2.7.1/vagrant-manager-2.7.1.dmg",
-      "homepage" : "https://www.vagrantmanager.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vagrant-manager/AppIcon.png",
-      "name" : "Vagrant Manager",
-      "sha256" : "ad10795f36a2c0977ec8e278082f1f66624cc3b16f837dc72c0f1c063fefb4de",
-      "stats" : {
-        "downloadCount" : 793,
-        "impressionCount" : 678
-      },
-      "tintColor" : "5DABD9",
-      "version" : "2.7.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "wezterm",
       "categories" : [
         "public.app-category.utilities"
@@ -1451,26 +1433,6 @@
       "subtitle" : "GUI for the Neovim text editor",
       "tintColor" : "55A349",
       "version" : "0.42.2,20220913.230838"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "v2rayu",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/yanue/V2rayU/releases/download/3.3.0/V2rayU-64.dmg",
-      "homepage" : "https://github.com/yanue/V2rayU",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-v2rayu/AppIcon.png",
-      "localizedDescription" : "Collection of tools to build a dedicated basic communication network",
-      "name" : "V2rayU",
-      "sha256" : "f20de5fae2308ac4c528d1e6ce9fd1aa071cfc05245d19924408640b2bbfd62b",
-      "stats" : {
-        "downloadCount" : 267,
-        "impressionCount" : 579
-      },
-      "subtitle" : "Collection of tools to build a dedicated basic communication network",
-      "tintColor" : "57D2DD",
-      "version" : "3.3.0"
     },
     {
       "beta" : false,
@@ -2280,27 +2242,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "uvtools",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/sn4k3/UVtools/releases/download/v3.8.0/UVtools_osx-x64_v3.8.0.zip",
-      "homepage" : "https://github.com/sn4k3/UVtools",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-uvtools/AppIcon.png",
-      "localizedDescription" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
-      "name" : "UVtools",
-      "sha256" : "f8e6c58fe822c06de46b0fdf09b7a3ee0b177d10e06699be6d15bc5eb84eff9e",
-      "stats" : {
-        "downloadCount" : 95,
-        "impressionCount" : 908
-      },
-      "subtitle" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
-      "tintColor" : "761E76",
-      "version" : "3.8.0",
-      "versionDate" : "2022-10-31T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "swiftplantumlapp",
       "categories" : [
         "public.app-category.developer-tools"
@@ -2980,26 +2921,6 @@
       "tintColor" : "75A3D7",
       "version" : "44.0.0",
       "versionDate" : "2022-10-31T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "valentina-studio",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://valentina-db.com/download/prev_releases/12.5.8/mac_64/vstudio_x64_12_mac.dmg",
-      "homepage" : "https://valentina-db.com/en/valentina-studio-overview",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-valentina-studio/AppIcon.png",
-      "localizedDescription" : "Visual editors for data",
-      "name" : "Valentina Studio",
-      "sha256" : "35e055119ad3920160c0bcdc3af19ebf3903f61827871db6d1789cfb42df33b3",
-      "stats" : {
-        "downloadCount" : 57,
-        "impressionCount" : 497
-      },
-      "subtitle" : "Visual editors for data",
-      "tintColor" : "9DA5A8",
-      "version" : "12.5.8"
     },
     {
       "beta" : false,
@@ -4907,7 +4828,7 @@
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
       "version" : "5.250.0.4299",
-      "versionDate" : "2022-11-02T21:32:11Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6731,26 +6652,6 @@
       "subtitle" : "Neovim client",
       "tintColor" : "1F1D45",
       "version" : "2.4.10"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "valkyrie",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "downloadURL" : "https://github.com/NPBruce/valkyrie/releases/download/release/2.5/v2.5.7/valkyrie-macos-2.5.7.tar.gz",
-      "homepage" : "https://npbruce.github.io/valkyrie/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-valkyrie/AppIcon.png",
-      "localizedDescription" : "Game Master for Fantasy Flight board games",
-      "name" : "Valkyrie",
-      "sha256" : "e667934e6ee3f27d3f81591b830d2be4513c8997f54f5312be56917c0697ce75",
-      "stats" : {
-        "downloadCount" : 8,
-        "impressionCount" : 720
-      },
-      "subtitle" : "Game Master for Fantasy Flight board games",
-      "tintColor" : "797979",
-      "version" : "2.5.7"
     },
     {
       "beta" : false,
@@ -10243,24 +10144,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "uxprotect",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://digitasecurity.com/download/uxprotect/UXProtect1.1.1.zip",
-      "homepage" : "https://digitasecurity.com/product/uxprotect/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-uxprotect/AppIcon.png",
-      "name" : "UXProtect",
-      "sha256" : "e6a0472e35d04cf719e8841c813ff0e155550ab47d2e05c3a426a6815f05fbc2",
-      "stats" : {
-        "downloadCount" : 0,
-        "impressionCount" : 138
-      },
-      "tintColor" : "57A5C6",
-      "version" : "1.1.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "universal-battle",
       "categories" : [
         "public.app-category.games"
@@ -10892,26 +10775,6 @@
       "subtitle" : "Apache distribution containing MySQL, PHP, and Perl",
       "tintColor" : "B27C65",
       "version" : "8.1.6-0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "v2rayx",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/Cenmrev/V2RayX/releases/download/v1.5.1/V2RayX.app.zip",
-      "homepage" : "https://github.com/Cenmrev/V2RayX",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-v2rayx/AppIcon.png",
-      "localizedDescription" : "GUI for v2ray-core",
-      "name" : "V2RayX",
-      "sha256" : "007ec1de5c8f768eb7be42df1980a4998fbf953d29d6c80019bd826272855239",
-      "stats" : {
-        "downloadCount" : 661,
-        "impressionCount" : 56
-      },
-      "subtitle" : "GUI for v2ray-core",
-      "tintColor" : "6F9A6B",
-      "version" : "1.5.1"
     },
     {
       "beta" : false,
@@ -15353,9 +15216,6 @@
     {
       "beta" : false,
       "bundleIdentifier" : "vagrant",
-      "categories" : [
-
-      ],
       "downloadURL" : "https://releases.hashicorp.com/vagrant/2.3.2/vagrant_2.3.2_darwin_amd64.dmg",
       "homepage" : "https://www.vagrantup.com/",
       "localizedDescription" : "Development environment",
@@ -17421,6 +17281,18 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "vagrant-manager",
+      "downloadURL" : "https://github.com/lanayotech/vagrant-manager/releases/download/2.7.1/vagrant-manager-2.7.1.dmg",
+      "homepage" : "https://www.vagrantmanager.com/",
+      "name" : "Vagrant Manager",
+      "sha256" : "ad10795f36a2c0977ec8e278082f1f66624cc3b16f837dc72c0f1c063fefb4de",
+      "stats" : {
+        "downloadCount" : 792
+      },
+      "version" : "2.7.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "microsoft-excel",
       "downloadURL" : "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/Microsoft_Excel_16.66.22101101_Installer.pkg",
       "homepage" : "https://products.office.com/en-US/excel",
@@ -17793,6 +17665,20 @@
       "subtitle" : "VPN client focusing on security",
       "version" : "3.0.4",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "v2rayx",
+      "downloadURL" : "https://github.com/Cenmrev/V2RayX/releases/download/v1.5.1/V2RayX.app.zip",
+      "homepage" : "https://github.com/Cenmrev/V2RayX",
+      "localizedDescription" : "GUI for v2ray-core",
+      "name" : "V2RayX",
+      "sha256" : "007ec1de5c8f768eb7be42df1980a4998fbf953d29d6c80019bd826272855239",
+      "stats" : {
+        "downloadCount" : 661
+      },
+      "subtitle" : "GUI for v2ray-core",
+      "version" : "1.5.1"
     },
     {
       "beta" : false,
@@ -18610,9 +18496,6 @@
     {
       "beta" : false,
       "bundleIdentifier" : "vagrant-vmware-utility",
-      "categories" : [
-
-      ],
       "downloadURL" : "https://releases.hashicorp.com/vagrant-vmware-utility/1.0.21/vagrant-vmware-utility_1.0.21_x86_64.dmg",
       "homepage" : "https://www.vagrantup.com/vmware/downloads.html",
       "localizedDescription" : "Gives Vagrant VMware plugin access to various VMware functionalities",
@@ -20058,6 +19941,20 @@
       "subtitle" : "Tiny version of the Mamba cross-platform package manager",
       "version" : "1.0.0,0",
       "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "v2rayu",
+      "downloadURL" : "https://github.com/yanue/V2rayU/releases/download/3.3.0/V2rayU-64.dmg",
+      "homepage" : "https://github.com/yanue/V2rayU",
+      "localizedDescription" : "Collection of tools to build a dedicated basic communication network",
+      "name" : "V2rayU",
+      "sha256" : "f20de5fae2308ac4c528d1e6ce9fd1aa071cfc05245d19924408640b2bbfd62b",
+      "stats" : {
+        "downloadCount" : 266
+      },
+      "subtitle" : "Collection of tools to build a dedicated basic communication network",
+      "version" : "3.3.0"
     },
     {
       "beta" : false,
@@ -24393,6 +24290,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "uvtools",
+      "downloadURL" : "https://github.com/sn4k3/UVtools/releases/download/v3.8.0/UVtools_osx-x64_v3.8.0.zip",
+      "homepage" : "https://github.com/sn4k3/UVtools",
+      "localizedDescription" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
+      "name" : "UVtools",
+      "sha256" : "f8e6c58fe822c06de46b0fdf09b7a3ee0b177d10e06699be6d15bc5eb84eff9e",
+      "stats" : {
+        "downloadCount" : 95
+      },
+      "subtitle" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
+      "version" : "3.8.0",
+      "versionDate" : "2022-10-31T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "fanny",
       "downloadURL" : "https://fannywidget.com/FannyWidget.zip",
       "homepage" : "https://fannywidget.com/",
@@ -27078,6 +26990,20 @@
       },
       "subtitle" : "Install games and apps compiled for Microsoft Windows",
       "version" : "5.7.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "valentina-studio",
+      "downloadURL" : "https://valentina-db.com/download/prev_releases/12.5.8/mac_64/vstudio_x64_12_mac.dmg",
+      "homepage" : "https://valentina-db.com/en/valentina-studio-overview",
+      "localizedDescription" : "Visual editors for data",
+      "name" : "Valentina Studio",
+      "sha256" : "35e055119ad3920160c0bcdc3af19ebf3903f61827871db6d1789cfb42df33b3",
+      "stats" : {
+        "downloadCount" : 57
+      },
+      "subtitle" : "Visual editors for data",
+      "version" : "12.5.8"
     },
     {
       "beta" : false,
@@ -43518,6 +43444,20 @@
       },
       "subtitle" : "Web browser environment to carry out e-assessments safely",
       "version" : "3.1.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "valkyrie",
+      "downloadURL" : "https://github.com/NPBruce/valkyrie/releases/download/release/2.5/v2.5.7/valkyrie-macos-2.5.7.tar.gz",
+      "homepage" : "https://npbruce.github.io/valkyrie/",
+      "localizedDescription" : "Game Master for Fantasy Flight board games",
+      "name" : "Valkyrie",
+      "sha256" : "e667934e6ee3f27d3f81591b830d2be4513c8997f54f5312be56917c0697ce75",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "subtitle" : "Game Master for Fantasy Flight board games",
+      "version" : "2.5.7"
     },
     {
       "beta" : false,
@@ -61817,6 +61757,18 @@
       "subtitle" : "Administration tool for UJAM products",
       "version" : "0.3.11",
       "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "uxprotect",
+      "downloadURL" : "https://digitasecurity.com/download/uxprotect/UXProtect1.1.1.zip",
+      "homepage" : "https://digitasecurity.com/product/uxprotect/",
+      "name" : "UXProtect",
+      "sha256" : "e6a0472e35d04cf719e8841c813ff0e155550ab47d2e05c3a426a6815f05fbc2",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "version" : "1.1.1"
     },
     {
       "beta" : false,

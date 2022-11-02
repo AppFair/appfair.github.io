@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2116,
-        "impressionCount" : 11477,
+        "impressionCount" : 11479,
         "viewCount" : 1294
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8319,
-        "impressionCount" : 9014,
+        "impressionCount" : 9015,
         "viewCount" : 771
       },
       "subtitle" : "Multimedia player",
@@ -82,7 +82,7 @@
       ],
       "stats" : {
         "downloadCount" : 8513,
-        "impressionCount" : 9525,
+        "impressionCount" : 9527,
         "viewCount" : 716
       },
       "subtitle" : "Music streaming service",
@@ -111,7 +111,7 @@
       "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
       "stats" : {
         "downloadCount" : 3464,
-        "impressionCount" : 9917,
+        "impressionCount" : 9919,
         "viewCount" : 651
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -139,7 +139,7 @@
       ],
       "stats" : {
         "downloadCount" : 2570,
-        "impressionCount" : 7674,
+        "impressionCount" : 7676,
         "viewCount" : 468
       },
       "subtitle" : "Video game digital distribution service",
@@ -169,7 +169,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 214,
-        "impressionCount" : 5981,
+        "impressionCount" : 5983,
         "viewCount" : 483
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -195,7 +195,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 207,
-        "impressionCount" : 5145,
+        "impressionCount" : 5147,
         "viewCount" : 380
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -222,7 +222,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 132,
-        "impressionCount" : 4214,
+        "impressionCount" : 4216,
         "viewCount" : 361
       },
       "subtitle" : "File synchronizer",
@@ -252,7 +252,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 4287,
+        "impressionCount" : 4289,
         "viewCount" : 345
       },
       "subtitle" : "Create DMGs and other archives",
@@ -274,7 +274,7 @@
       "sha256" : "3dda93337f730db11d413e45356a66ebe3b65a381986017fadcbf6459a568f65",
       "stats" : {
         "downloadCount" : 8302,
-        "impressionCount" : 3790,
+        "impressionCount" : 3793,
         "viewCount" : 276
       },
       "subtitle" : "Team communication and collaboration software",
@@ -297,7 +297,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5911,
-        "impressionCount" : 2637,
+        "impressionCount" : 2638,
         "viewCount" : 134
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -319,7 +319,7 @@
       "sha256" : "ddc26d7afc0fd04188f1a6ff8208646a23a04c14b9f43657abd8d89d102bde04",
       "stats" : {
         "downloadCount" : 5359,
-        "impressionCount" : 5777,
+        "impressionCount" : 5778,
         "viewCount" : 576
       },
       "subtitle" : "System monitor for the menu bar",
@@ -342,7 +342,7 @@
       "sha256" : "ebcd964f791b59734559ba3859cd58ba354d36d51d59f13fda710197f057355b",
       "stats" : {
         "downloadCount" : 3278,
-        "impressionCount" : 2329,
+        "impressionCount" : 2330,
         "viewCount" : 137
       },
       "subtitle" : "Network protocol analyzer",
@@ -365,7 +365,7 @@
       "sha256" : "550e3639c2eb59bf01b0555398dd80b7919f6b711ae3e6474424a2f8be8bcfbd",
       "stats" : {
         "downloadCount" : 2528,
-        "impressionCount" : 3645,
+        "impressionCount" : 3646,
         "viewCount" : 163
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -388,7 +388,7 @@
       "sha256" : "7a273bd1e9e1d414b24086401956c871104d679070d9c7061b397dc60377976b",
       "stats" : {
         "downloadCount" : 2512,
-        "impressionCount" : 2630,
+        "impressionCount" : 2631,
         "viewCount" : 195
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -410,7 +410,7 @@
       "sha256" : "463dba6fbcb6e63dfbe7a62db2929e2a882502ccd19dbfe16e864d79d499c49d",
       "stats" : {
         "downloadCount" : 2309,
-        "impressionCount" : 4362,
+        "impressionCount" : 4363,
         "viewCount" : 430
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -481,7 +481,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1654,
-        "impressionCount" : 3639
+        "impressionCount" : 3641
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -518,7 +518,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1600,
-        "impressionCount" : 3804
+        "impressionCount" : 3806
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -749,7 +749,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 4164
+        "impressionCount" : 4166
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -900,7 +900,7 @@
       "sha256" : "b28d5e790ffb3efe09044d6b1438185889c89cbc02eb179f37f96fd72903441a",
       "stats" : {
         "downloadCount" : 2494,
-        "impressionCount" : 2468
+        "impressionCount" : 2470
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -1324,7 +1324,7 @@
       "name" : "Unity Hub",
       "stats" : {
         "downloadCount" : 411,
-        "impressionCount" : 684
+        "impressionCount" : 685
       },
       "subtitle" : "Management tool for Unity",
       "tintColor" : "A5A5A5",
@@ -1627,7 +1627,7 @@
       "sha256" : "7565d0c2f8cd4c7aeefc4fd4e623053fb224d33db34cb1bc57f616d1f5c021f4",
       "stats" : {
         "downloadCount" : 212,
-        "impressionCount" : 1695
+        "impressionCount" : 1697
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -2012,7 +2012,7 @@
       "sha256" : "0959819d66810e092f9d5021536841cb04d7872f5737f2621dc1242ffc5340ea",
       "stats" : {
         "downloadCount" : 126,
-        "impressionCount" : 1471
+        "impressionCount" : 1472
       },
       "subtitle" : "Messaging and calling application",
       "tintColor" : "E4F0F7",
@@ -2411,7 +2411,7 @@
       "sha256" : "04b0b8080e904ed3d17b8e6526ad5e4342befa966866e7fb347d33e0e122039a",
       "stats" : {
         "downloadCount" : 91,
-        "impressionCount" : 1153
+        "impressionCount" : 1156
       },
       "subtitle" : "Handwriting notetaking software",
       "tintColor" : "E5D8CE",
@@ -2431,7 +2431,7 @@
       "sha256" : "f3fc7c23bebd57c906c6cb43b975d468cb46be0d379f6be1acabe66a5b52212a",
       "stats" : {
         "downloadCount" : 88,
-        "impressionCount" : 440
+        "impressionCount" : 442
       },
       "subtitle" : "Displays all open files and sockets in use by all running processes",
       "tintColor" : "E59112",
@@ -3983,7 +3983,7 @@
       "sha256" : "9dfcbd0c4a7be7fc89d43a8579861340e8dacd375b1d8737cc4f2458f42304c0",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 683
+        "impressionCount" : 685
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
@@ -4023,7 +4023,7 @@
       "name" : "ShareMouse",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 849
+        "impressionCount" : 851
       },
       "subtitle" : "Share peripherals between computers",
       "tintColor" : "CFCFCF",
@@ -4143,7 +4143,7 @@
       "sha256" : "cd0e948813b443203230d89a39dc50d4f7961f71a060420c772e359e86d80733",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 660
+        "impressionCount" : 662
       },
       "subtitle" : "Screen recorder with audio",
       "tintColor" : "5788AD",
@@ -4741,7 +4741,7 @@
       "sha256" : "45cafff1d60cf1d225285b1a59260b164062cf5bde802cbadcaef8d00b177270",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 351
+        "impressionCount" : 352
       },
       "subtitle" : "Medical image processing and visualization system",
       "tintColor" : "8E8F96",
@@ -4881,7 +4881,7 @@
       "sha256" : "7605b8e888076ea96fc45ee193a220af74bcfb7382e1f9e584b8412440411c3d",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 858
+        "impressionCount" : 860
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
@@ -4902,7 +4902,7 @@
       "sha256" : "16d1943c2695ed02a155415f59a8723504203c76e80eb168a85e38132b205d54",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 737
+        "impressionCount" : 738
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
@@ -5417,7 +5417,7 @@
       "name" : "Nektony VSD Viewer",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 876
+        "impressionCount" : 877
       },
       "subtitle" : "Preview .VSD, .VDX, .VSDX file formats of Visio drawings",
       "tintColor" : "86A2C9",
@@ -5598,7 +5598,7 @@
       "sha256" : "8237a147a685cf4831a637b3fbf113ccb14f1150801450b2f1cc96f2f5b7942c",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 795
+        "impressionCount" : 797
       },
       "subtitle" : "Adjustable wallpaper application",
       "tintColor" : "EC8F8D",
@@ -6060,6 +6060,25 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "virtualhereserver",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://www.virtualhere.com/sites/default/files/usbserver/VirtualHereServerUniversal.dmg",
+      "homepage" : "https://www.virtualhere.com/osx_server_software",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-virtualhereserver/AppIcon.png",
+      "localizedDescription" : "Remotely access your connected USB devices over the network",
+      "name" : "VirtualHereServer",
+      "stats" : {
+        "downloadCount" : 11,
+        "impressionCount" : 271
+      },
+      "subtitle" : "Remotely access your connected USB devices over the network",
+      "tintColor" : "7C7C7C",
+      "version" : "4.4.4"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "uu-booster",
       "categories" : [
         "public.app-category.utilities"
@@ -6229,7 +6248,7 @@
       "sha256" : "14152d045116ccc59ae36f1e33d0f386932459a430d5866004e48c7eacf1ae8f",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 831
+        "impressionCount" : 833
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
@@ -6447,7 +6466,7 @@
       "sha256" : "4903b84be837dd7333c49933591aa52f1c13aca3d095b762ff4ceecdedfeaadb",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 634
+        "impressionCount" : 636
       },
       "subtitle" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "tintColor" : "CBA87F",
@@ -6925,7 +6944,7 @@
       "sha256" : "17fe52934f6e1eda80546f7a0045edc31e6555e47475cfda8c80bd6a8fdc619a",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 640
+        "impressionCount" : 642
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "3EA7BB",
@@ -8477,7 +8496,7 @@
       "name" : "Nektony VSDX Annotator",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 724
+        "impressionCount" : 726
       },
       "subtitle" : "Preview, edit and convert Visio drawings",
       "tintColor" : "E396A0",
@@ -8505,6 +8524,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "virtualhostx",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://download.clickontyler.com/virtualhostx/virtualhostxpro_1017.zip",
+      "homepage" : "https://clickontyler.com/virtualhostx/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-virtualhostx/AppIcon.png",
+      "localizedDescription" : "Local server environment",
+      "name" : "VirtualHostX",
+      "sha256" : "3d86e05f0e4072d1180d06b9126e12c7943ffc6bdce9b754e6a1d417eb18fc0a",
+      "stats" : {
+        "downloadCount" : 3,
+        "impressionCount" : 167
+      },
+      "subtitle" : "Local server environment",
+      "tintColor" : "827463",
+      "version" : "2021.01.10,1017"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "tyme",
       "categories" : [
         "public.app-category.productivity"
@@ -8516,7 +8555,7 @@
       "name" : "Tyme 3",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 253
+        "impressionCount" : 255
       },
       "subtitle" : "Time tracking app",
       "tintColor" : "171715",
@@ -9109,7 +9148,7 @@
       "sha256" : "165045e6170fd17a8ef77bd3d75318594dd687b5f51255e5c63c318ab9250cfd",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 562
+        "impressionCount" : 563
       },
       "subtitle" : "Client application for TimeCamp software - track time and change tasks",
       "tintColor" : "25CF60",
@@ -9169,7 +9208,7 @@
       "sha256" : "ece3ba839ecebc21a5e18cd621f97a6094dd3503fb769843994a806f5d1bbc86",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 725
+        "impressionCount" : 727
       },
       "subtitle" : "Helps to organize important files in one place",
       "tintColor" : "3D8BE4",
@@ -9229,7 +9268,7 @@
       "sha256" : "b901b9e64f386d0b2ac4fa3ae6ee1345e8c226acd178e27a311355fbb87450b3",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 809
+        "impressionCount" : 811
       },
       "subtitle" : "Messenger with powerful features for hybrid work",
       "tintColor" : "EDBBA4",
@@ -10509,7 +10548,7 @@
       "sha256" : "5dc93387bc6026dd44dbf2f88c9bf7730d931663d5b72f382c0a51bc6c57517b",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 580
+        "impressionCount" : 582
       },
       "subtitle" : "Drag and drop Spectacle editor",
       "tintColor" : "5A80C6",
@@ -11036,6 +11075,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "viscosity",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://swupdate.sparklabs.com/download/mac/release/viscosity/Viscosity%201.10.4.dmg",
+      "homepage" : "https://www.sparklabs.com/viscosity/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-viscosity/AppIcon.png",
+      "localizedDescription" : "OpenVPN client with AppleScript support",
+      "name" : "Viscosity",
+      "sha256" : "03c44acff62830603d4deb15ce4d53e3102e4522a078fbe252ac2feb41e57ab2",
+      "stats" : {
+        "downloadCount" : 310,
+        "impressionCount" : 78
+      },
+      "subtitle" : "OpenVPN client with AppleScript support",
+      "tintColor" : "7892AB",
+      "version" : "1.10.4",
+      "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "texmaker",
       "categories" : [
 
@@ -11128,7 +11188,7 @@
       "sha256" : "2d8a48bd060f822ad7ef2ec1e4a1853d10e7478460738406fc376c594bd08061",
       "stats" : {
         "downloadCount" : 274,
-        "impressionCount" : 98
+        "impressionCount" : 100
       },
       "subtitle" : "3D printer and slicing GUI",
       "tintColor" : "38B9E8",
@@ -11886,7 +11946,7 @@
       "sha256" : "d4e14e26e4cd25d5c65165835ac1d1c212012857ca333270298270fb6071952b",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 161
+        "impressionCount" : 162
       },
       "subtitle" : "Interior design application",
       "tintColor" : "80777B",
@@ -12002,7 +12062,7 @@
       "sha256" : "95652e91bef57c73f38c0c78f2fcc9dfce429516f5de516b5e8ac5db20d20132",
       "stats" : {
         "downloadCount" : 53,
-        "impressionCount" : 290
+        "impressionCount" : 291
       },
       "subtitle" : "Convert 3D models into G-code instructions or PNG layers",
       "tintColor" : "9AB4C9",
@@ -12158,7 +12218,7 @@
       "sha256" : "21a7fb34132036c5810a8b48527513981d98d09d27d33b15e2f428bdc492c89d",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 62
+        "impressionCount" : 64
       },
       "subtitle" : "Kart racing game",
       "tintColor" : "844647",
@@ -12319,7 +12379,7 @@
       "sha256" : "cab5131e620c5dde19fd41f0037a6dce5722cf74a3f02026acae0a9e83811846",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 106
+        "impressionCount" : 108
       },
       "subtitle" : "Run classic graphical adventure and role-playing games",
       "tintColor" : "148630",
@@ -12417,7 +12477,7 @@
       "name" : "Sync",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 109
+        "impressionCount" : 110
       },
       "subtitle" : "Store, share and access files from anywhere",
       "tintColor" : "9DDFF9",
@@ -12775,7 +12835,7 @@
       "sha256" : "9d546e09ca2c9611dc38260248f35bd217b3e34857108b93e1086708583619a2",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 59
+        "impressionCount" : 60
       },
       "subtitle" : "Parametric 2d/3d CAD",
       "tintColor" : "64505F",
@@ -12795,7 +12855,7 @@
       "sha256" : "a50dbe78c4648dfcd0ffec46335554c9fa3348dd494a1f6c2b60406aea57b5cb",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 57
+        "impressionCount" : 60
       },
       "subtitle" : "3D printing toolbox",
       "tintColor" : "8A8A25",
@@ -12915,7 +12975,7 @@
       "sha256" : "c2b067a418e0e0f867417ba302f9a93327f98717c6a3ec55d19b602e7f429bc6",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 114
+        "impressionCount" : 116
       },
       "subtitle" : "Tool for creating dynamic digital art",
       "tintColor" : "5F674C",
@@ -13251,7 +13311,7 @@
       "sha256" : "15defd6407c1285860f02497544ce7aae38b6eecf3b4afce50b3154bf6bcc7b1",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 58
+        "impressionCount" : 60
       },
       "subtitle" : "3D without boundaries",
       "tintColor" : "BAB7B8",
@@ -13466,7 +13526,7 @@
       "sha256" : "072d8ca60f9469bbd1bfd47b658b25c6f9ab6f1807d27ba39ece6cbe1b7761f6",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 96
+        "impressionCount" : 98
       },
       "subtitle" : "Screen capture tool for remote teams",
       "tintColor" : "FF6C30",
@@ -13640,7 +13700,7 @@
       "sha256" : "c1662705d76eef2afb56f3bf34ea882c8893ae66280c68e014605095963b63e9",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 80
+        "impressionCount" : 82
       },
       "subtitle" : "Scientific plotting application",
       "tintColor" : "52788E",
@@ -13764,6 +13824,25 @@
       "subtitle" : "Client for Slack, Discord, Skype, Gmail, Twitter, Facebook, and more",
       "tintColor" : "DEE5EF",
       "version" : "0.87"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "virtualhere",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://www.virtualhere.com/sites/default/files/usbclient/VirtualHere.dmg",
+      "homepage" : "https://www.virtualhere.com/usb_client_software",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-virtualhere/AppIcon.png",
+      "localizedDescription" : "Use USB devices remotely over a network",
+      "name" : "VirtualHere",
+      "stats" : {
+        "downloadCount" : 8,
+        "impressionCount" : 159
+      },
+      "subtitle" : "Use USB devices remotely over a network",
+      "tintColor" : "5A9DD5",
+      "version" : "5.4.1"
     },
     {
       "beta" : false,
@@ -14172,7 +14251,7 @@
       "sha256" : "e0e474a2303f779ce91ea7c60a2d6ae6217cb29f50fc3f4c77cb993cd2bc625f",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 163
+        "impressionCount" : 165
       },
       "subtitle" : "3D browsing software for Second Life online virtual world",
       "tintColor" : "0A3341",
@@ -14253,7 +14332,7 @@
       "sha256" : "105b8fe323207a47bf220580d9e126eba5356c14ee555b578e933b5368db52ee",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 66
+        "impressionCount" : 68
       },
       "subtitle" : "Flash tool for microcontrollers",
       "tintColor" : "D42A2A",
@@ -14389,7 +14468,7 @@
       "sha256" : "00070ee033bde31b1b210a750deeee95899e0337aad1a6e749c70ffb7a6df838",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 321
+        "impressionCount" : 322
       },
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
@@ -14606,7 +14685,7 @@
       "sha256" : "30bf6a96707c9c824b5fb8a4b2ca43431b2109ae1cb80e9adcbbdf0ef531e5c6",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 101
+        "impressionCount" : 102
       },
       "subtitle" : "3D open-source Sonic the Hedgehog fangame built using a Doom Legacy port of Doom",
       "tintColor" : "4D49BC",
@@ -19591,21 +19670,6 @@
       "subtitle" : "Matrix collaboration client",
       "version" : "1.11.13",
       "versionDate" : "2022-11-01T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "viscosity",
-      "downloadURL" : "https://swupdate.sparklabs.com/download/mac/release/viscosity/Viscosity%201.10.4.dmg",
-      "homepage" : "https://www.sparklabs.com/viscosity/",
-      "localizedDescription" : "OpenVPN client with AppleScript support",
-      "name" : "Viscosity",
-      "sha256" : "03c44acff62830603d4deb15ce4d53e3102e4522a078fbe252ac2feb41e57ab2",
-      "stats" : {
-        "downloadCount" : 310
-      },
-      "subtitle" : "OpenVPN client with AppleScript support",
-      "version" : "1.10.4",
-      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41079,19 +41143,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "virtualhereserver",
-      "downloadURL" : "https://www.virtualhere.com/sites/default/files/usbserver/VirtualHereServerUniversal.dmg",
-      "homepage" : "https://www.virtualhere.com/osx_server_software",
-      "localizedDescription" : "Remotely access your connected USB devices over the network",
-      "name" : "VirtualHereServer",
-      "stats" : {
-        "downloadCount" : 10
-      },
-      "subtitle" : "Remotely access your connected USB devices over the network",
-      "version" : "4.4.4"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "whist-browser",
       "downloadURL" : "https://whist-browser-macos-x64-prod.s3.amazonaws.com/Whist-latest-x64.dmg",
       "homepage" : "https://www.whist.com/",
@@ -43466,19 +43517,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "virtualhere",
-      "downloadURL" : "https://www.virtualhere.com/sites/default/files/usbclient/VirtualHere.dmg",
-      "homepage" : "https://www.virtualhere.com/usb_client_software",
-      "localizedDescription" : "Use USB devices remotely over a network",
-      "name" : "VirtualHere",
-      "stats" : {
-        "downloadCount" : 8
-      },
-      "subtitle" : "Use USB devices remotely over a network",
-      "version" : "5.4.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "weektodo",
       "downloadURL" : "https://github.com/Zuntek/WeekToDoWeb/releases/download/v1.9.0/WeekToDo-1.9.0.dmg",
       "homepage" : "https://weektodo.me/",
@@ -44680,16 +44718,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "orka-vm-tools",
-      "downloadURL" : "https://orka-tools.s3.amazonaws.com/orka-vm-tools/official/2.2.0/orka-vm-tools.pkg",
+      "downloadURL" : "https://orka-tools.s3.amazonaws.com/orka-vm-tools/official/2.3.0/orka-vm-tools.pkg",
       "homepage" : "https://orkadocs.macstadium.com/docs",
       "localizedDescription" : "Orchestration with Kubernetes on Apple",
       "name" : "Orka VM TOOLS",
-      "sha256" : "7acdd9bfe0ea4e20da676957340bee09f20d643d0bf8778a2dafbbfe5c8829a9",
+      "sha256" : "08c0faae93fc0914f92cb08c5ef91a3d32e308cfbd1b829af89137e09d6c4bb0",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Orchestration with Kubernetes on Apple",
-      "version" : "2.2.0"
+      "version" : "2.3.0",
+      "versionDate" : "2022-11-02T13:06:42Z"
     },
     {
       "beta" : false,
@@ -56071,20 +56110,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "virtualhostx",
-      "downloadURL" : "https://download.clickontyler.com/virtualhostx/virtualhostxpro_1017.zip",
-      "homepage" : "https://clickontyler.com/virtualhostx/",
-      "localizedDescription" : "Local server environment",
-      "name" : "VirtualHostX",
-      "sha256" : "3d86e05f0e4072d1180d06b9126e12c7943ffc6bdce9b754e6a1d417eb18fc0a",
-      "stats" : {
-        "downloadCount" : 2
-      },
-      "subtitle" : "Local server environment",
-      "version" : "2021.01.10,1017"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "wirecast",
       "downloadURL" : "https://www.telestream.net/download-files/wirecast/15-1/Wirecast-15.1.2.dmg",
       "homepage" : "https://www.telestream.net/wirecast/",
@@ -61922,13 +61947,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "screens-connect",
-      "caption" : "Screens Connect updated from 4.12,21675 to 4.12.2,21680",
-      "date" : "2022-11-01T15:37:01Z",
-      "identifier" : "release-screens-connect-4.12.2,21680",
-      "title" : "New Release: Screens Connect 4.12.2,21680"
-    },
-    {
       "appID" : "foxitreader",
       "caption" : "Foxit Reader updated from 12.0.1 to 12.0.2",
       "date" : "2022-11-01T15:37:02Z",
@@ -62620,6 +62638,13 @@
       "date" : "2022-11-02T10:38:28Z",
       "identifier" : "release-catlight-2.39.2",
       "title" : "New Release: catlight 2.39.2"
+    },
+    {
+      "appID" : "orka-vm-tools",
+      "caption" : "Orka VM TOOLS updated from 2.2.0 to 2.3.0",
+      "date" : "2022-11-02T13:06:43Z",
+      "identifier" : "release-orka-vm-tools-2.3.0",
+      "title" : "New Release: Orka VM TOOLS 2.3.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

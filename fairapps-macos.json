@@ -74,46 +74,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.World-Fair",
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair-macOS.zip",
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read and write files in order to…"
-        }
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.3/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "17dfa278ab004a10e0392e1f7997b6df4aa5707b9ada51d2880313a438dc9451",
-      "size" : 7288570,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 91,
-        "forkCount" : 0,
-        "impressionCount" : 416,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 52,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.3",
-      "versionDate" : "2022-10-04T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.2...0.0.3"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Lottie-Motion",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.96/Lottie-Motion-macOS.zip",
@@ -184,50 +144,6 @@
       "version" : "0.0.30",
       "versionDate" : "2022-09-26T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.29...0.0.30"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tune-Out",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out-macOS.zip",
-      "homepage" : "https://tune-out.appfair.net",
-      "iconURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Tune-Out.png",
-      "localizedDescription" : "Stream Internet Radio",
-      "metadataURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/Info.plist#ec57c2f0b0592e58a706d3f7dae4f3b6c3c56500286c25446cf9fe7b614a6552",
-      "name" : "Tune Out",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to stream internet radio stations."
-        }
-      ],
-      "readmeURL" : "https://github.com/Tune-Out/App/releases/download/0.8.460/README.md#f9af650543d6a02cb7650a7753b9ffaf251c99c7f80d0fd2e7ee5e4ff5c74130",
-      "screenshotURLs" : [
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-2212x1462.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_02-mac-2534x1112.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2582x1498.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_03-mac-2180x1464.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-light-2250x1632.png",
-        "https://github.com/Tune-Out/App/releases/download/0.8.460/screenshot_01-mac-dark-2250x1632.png"
-      ],
-      "sha256" : "b2cb7e27a42aee2601685ec2d24e3a31b30639d0f2ca98082dee09fa6be0e682",
-      "size" : 15050796,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 49,
-        "forkCount" : 0,
-        "impressionCount" : 5,
-        "issueCount" : 0,
-        "starCount" : 1,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Stream Internet Radio",
-      "tintColor" : "F07273",
-      "version" : "0.8.460",
-      "versionDate" : "2022-10-28T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Tune-Out/App/compare/0.8.459...0.8.460"
     },
     {
       "beta" : false,
@@ -729,46 +645,6 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.World-Fair",
-      "developerName" : "marcprux <mwp1@cornell.edu>",
-      "downloadURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair-macOS.zip",
-      "homepage" : "http://appfair.net/#quick-start",
-      "iconURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/World-Fair.png",
-      "localizedDescription" : "An SDUI fairground",
-      "metadataURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "World Fair",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network in order to download books"
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to read and write files in order to…"
-        }
-      ],
-      "readmeURL" : "https://github.com/World-Fair/App/releases/download/0.0.4/README.md#306d8c3404d781a3fb28cd533041380a3bde8e681f20e6c20a13c3d3a96bc966",
-      "sha256" : "ba06490898208711d80f34348393dd5506b65f7be01904b205f834a1fe6f9320",
-      "size" : 7994433,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 12,
-        "forkCount" : 0,
-        "impressionCount" : 4,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 2,
-        "watcherCount" : 0
-      },
-      "subtitle" : "An SDUI fairground",
-      "version" : "0.0.4",
-      "versionDate" : "2022-10-19T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/World-Fair/App/compare/0.0.3...0.0.4"
-    },
-    {
-      "beta" : true,
       "bundleIdentifier" : "app.Down-Town",
       "developerName" : "fairapps <fairapps@appfair.net>",
       "downloadURL" : "https://github.com/Down-Town/App/releases/download/0.0.3/Down-Town-macOS.zip",
@@ -941,37 +817,37 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Micro-Vector",
+      "bundleIdentifier" : "app.Story-Points",
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector-macOS.zip",
-      "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector.png",
-      "localizedDescription" : "A vector drawing app",
-      "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Micro Vector",
+      "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points-macOS.zip",
+      "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points.png",
+      "localizedDescription" : "UX Design Tool",
+      "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Story Points",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Micro-Vector/App/releases/download/0.0.8/screenshot_01-mac-dark-1412x1082.png",
-        "https://github.com/Micro-Vector/App/releases/download/0.0.8/screenshot_01-mac-light-1412x1082.png"
+        "https://github.com/Story-Points/App/releases/download/0.0.6/screenshot_01-mac-light-mac-2024x1124.png",
+        "https://github.com/Story-Points/App/releases/download/0.0.6/screenshot_01-mac-dark-mac-2024x1124.png"
       ],
-      "sha256" : "62d9c7a67c652dd3504c0574780869dcba80b5cae7617cb05790e0028d5fc482",
-      "size" : 2791600,
+      "sha256" : "e6b3bff7dd943fea8dfab2ee57d61a454bd8c4ddb2f443ed649cd93729352f8c",
+      "size" : 2383127,
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 891,
+        "impressionCount" : 688,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 62,
+        "viewCount" : 74,
         "watcherCount" : 0
       },
-      "subtitle" : "A vector drawing app",
-      "version" : "0.0.8",
+      "subtitle" : "UX Design Tool",
+      "version" : "0.0.6",
       "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.8"
+      "versionDescription" : "Release 0.0.6"
     },
     {
       "beta" : true,
@@ -1005,37 +881,37 @@
     },
     {
       "beta" : true,
-      "bundleIdentifier" : "app.Story-Points",
+      "bundleIdentifier" : "app.Micro-Vector",
       "developerName" : "fairapps <fairapps@appfair.net>",
-      "downloadURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points-macOS.zip",
-      "iconURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Story-Points.png",
-      "localizedDescription" : "UX Design Tool",
-      "metadataURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
-      "name" : "Story Points",
+      "downloadURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector-macOS.zip",
+      "iconURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Micro-Vector.png",
+      "localizedDescription" : "A vector drawing app",
+      "metadataURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/Info.plist#96efd2114846d6428e591a08296559254a988bab06ef4f2ec4518fe41dd2ed05",
+      "name" : "Micro Vector",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Story-Points/App/releases/download/0.0.6/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "readmeURL" : "https://github.com/Micro-Vector/App/releases/download/0.0.8/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
       "screenshotURLs" : [
-        "https://github.com/Story-Points/App/releases/download/0.0.6/screenshot_01-mac-light-mac-2024x1124.png",
-        "https://github.com/Story-Points/App/releases/download/0.0.6/screenshot_01-mac-dark-mac-2024x1124.png"
+        "https://github.com/Micro-Vector/App/releases/download/0.0.8/screenshot_01-mac-dark-1412x1082.png",
+        "https://github.com/Micro-Vector/App/releases/download/0.0.8/screenshot_01-mac-light-1412x1082.png"
       ],
-      "sha256" : "e6b3bff7dd943fea8dfab2ee57d61a454bd8c4ddb2f443ed649cd93729352f8c",
-      "size" : 2383127,
+      "sha256" : "62d9c7a67c652dd3504c0574780869dcba80b5cae7617cb05790e0028d5fc482",
+      "size" : 2791600,
       "stats" : {
         "coreSize" : 152624,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 688,
+        "impressionCount" : 891,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 74,
+        "viewCount" : 62,
         "watcherCount" : 0
       },
-      "subtitle" : "UX Design Tool",
-      "version" : "0.0.6",
+      "subtitle" : "A vector drawing app",
+      "version" : "0.0.8",
       "versionDate" : "2022-01-24T00:00:00Z",
-      "versionDescription" : "Release 0.0.6"
+      "versionDescription" : "Release 0.0.8"
     },
     {
       "beta" : true,
@@ -1538,6 +1414,36 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Tweet-Storm",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-macOS.zip",
+      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
+      "localizedDescription" : "Unleash your inner dialog",
+      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Tweet Storm",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
+      "sha256" : "98dbae297fcc754e3695a96c65a3e18b91e887353e7348ed2287914740c56564",
+      "size" : 2624128,
+      "stats" : {
+        "coreSize" : 102392,
+        "downloadCount" : 2,
+        "forkCount" : 0,
+        "impressionCount" : 688,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 44,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Unleash your inner dialog",
+      "version" : "0.0.12",
+      "versionDate" : "2022-05-01T00:00:00Z",
+      "versionDescription" : "Release 0.0.12"
+    },
+    {
+      "beta" : true,
       "bundleIdentifier" : "app.Hex-Loupe",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-macOS.zip",
@@ -1576,36 +1482,6 @@
       "version" : "0.0.22",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Tweet-Storm",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm-macOS.zip",
-      "iconURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Tweet-Storm.png",
-      "localizedDescription" : "Unleash your inner dialog",
-      "metadataURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Tweet Storm",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Tweet-Storm/App/releases/download/0.0.12/README.md#5f665b7ecc017cdcd7917a881e68502b9062036dcc7caa1dddf81d644721debb",
-      "sha256" : "98dbae297fcc754e3695a96c65a3e18b91e887353e7348ed2287914740c56564",
-      "size" : 2624128,
-      "stats" : {
-        "coreSize" : 102392,
-        "downloadCount" : 2,
-        "forkCount" : 0,
-        "impressionCount" : 688,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 44,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Unleash your inner dialog",
-      "version" : "0.0.12",
-      "versionDate" : "2022-05-01T00:00:00Z",
-      "versionDescription" : "Release 0.0.12"
     },
     {
       "beta" : true,

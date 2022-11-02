@@ -252,7 +252,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 4301,
+        "impressionCount" : 4302,
         "viewCount" : 346
       },
       "subtitle" : "Create DMGs and other archives",
@@ -274,7 +274,7 @@
       "sha256" : "3dda93337f730db11d413e45356a66ebe3b65a381986017fadcbf6459a568f65",
       "stats" : {
         "downloadCount" : 8302,
-        "impressionCount" : 3810,
+        "impressionCount" : 3811,
         "viewCount" : 276
       },
       "subtitle" : "Team communication and collaboration software",
@@ -749,7 +749,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 4177
+        "impressionCount" : 4178
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -900,7 +900,7 @@
       "sha256" : "b28d5e790ffb3efe09044d6b1438185889c89cbc02eb179f37f96fd72903441a",
       "stats" : {
         "downloadCount" : 2494,
-        "impressionCount" : 2481
+        "impressionCount" : 2482
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -1425,7 +1425,7 @@
       "sha256" : "d5b69c360662eee9499eb71ca21a8855adf8fd525e7ed33f08d4eab1fdd44c7a",
       "stats" : {
         "downloadCount" : 321,
-        "impressionCount" : 856
+        "impressionCount" : 859
       },
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
@@ -1627,7 +1627,7 @@
       "sha256" : "7565d0c2f8cd4c7aeefc4fd4e623053fb224d33db34cb1bc57f616d1f5c021f4",
       "stats" : {
         "downloadCount" : 212,
-        "impressionCount" : 1708
+        "impressionCount" : 1709
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -1646,7 +1646,7 @@
       "name" : "XnViewMP",
       "stats" : {
         "downloadCount" : 206,
-        "impressionCount" : 1205
+        "impressionCount" : 1207
       },
       "subtitle" : "Photo viewer, image manager, image resizer and more",
       "tintColor" : "D56402",
@@ -2012,7 +2012,7 @@
       "sha256" : "0959819d66810e092f9d5021536841cb04d7872f5737f2621dc1242ffc5340ea",
       "stats" : {
         "downloadCount" : 126,
-        "impressionCount" : 1479
+        "impressionCount" : 1481
       },
       "subtitle" : "Messaging and calling application",
       "tintColor" : "E4F0F7",
@@ -2411,7 +2411,7 @@
       "sha256" : "04b0b8080e904ed3d17b8e6526ad5e4342befa966866e7fb347d33e0e122039a",
       "stats" : {
         "downloadCount" : 91,
-        "impressionCount" : 1162
+        "impressionCount" : 1163
       },
       "subtitle" : "Handwriting notetaking software",
       "tintColor" : "E5D8CE",
@@ -3983,7 +3983,7 @@
       "sha256" : "9dfcbd0c4a7be7fc89d43a8579861340e8dacd375b1d8737cc4f2458f42304c0",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 693
+        "impressionCount" : 696
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
@@ -4023,7 +4023,7 @@
       "name" : "ShareMouse",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 856
+        "impressionCount" : 857
       },
       "subtitle" : "Share peripherals between computers",
       "tintColor" : "CFCFCF",
@@ -4143,7 +4143,7 @@
       "sha256" : "cd0e948813b443203230d89a39dc50d4f7961f71a060420c772e359e86d80733",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 672
+        "impressionCount" : 674
       },
       "subtitle" : "Screen recorder with audio",
       "tintColor" : "5788AD",
@@ -4881,7 +4881,7 @@
       "sha256" : "7605b8e888076ea96fc45ee193a220af74bcfb7382e1f9e584b8412440411c3d",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 870
+        "impressionCount" : 872
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
@@ -5102,7 +5102,7 @@
       "sha256" : "a3e251128997d9f1e3cbcc3bfb0c93bc201e4fbd9e0aa7dfa3640aa55fc2bad1",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 403
+        "impressionCount" : 404
       },
       "subtitle" : "Font manager application",
       "tintColor" : "DAB6B1",
@@ -5417,7 +5417,7 @@
       "name" : "Nektony VSD Viewer",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 882
+        "impressionCount" : 883
       },
       "subtitle" : "Preview .VSD, .VDX, .VSDX file formats of Visio drawings",
       "tintColor" : "86A2C9",
@@ -6248,7 +6248,7 @@
       "sha256" : "14152d045116ccc59ae36f1e33d0f386932459a430d5866004e48c7eacf1ae8f",
       "stats" : {
         "downloadCount" : 10,
-        "impressionCount" : 842
+        "impressionCount" : 845
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
@@ -6466,7 +6466,7 @@
       "sha256" : "4903b84be837dd7333c49933591aa52f1c13aca3d095b762ff4ceecdedfeaadb",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 643
+        "impressionCount" : 645
       },
       "subtitle" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "tintColor" : "CBA87F",
@@ -6944,7 +6944,7 @@
       "sha256" : "17fe52934f6e1eda80546f7a0045edc31e6555e47475cfda8c80bd6a8fdc619a",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 648
+        "impressionCount" : 649
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "3EA7BB",
@@ -8496,7 +8496,7 @@
       "name" : "Nektony VSDX Annotator",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 730
+        "impressionCount" : 732
       },
       "subtitle" : "Preview, edit and convert Visio drawings",
       "tintColor" : "E396A0",
@@ -8555,7 +8555,7 @@
       "name" : "Tyme 3",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 261
+        "impressionCount" : 263
       },
       "subtitle" : "Time tracking app",
       "tintColor" : "171715",
@@ -9148,7 +9148,7 @@
       "sha256" : "165045e6170fd17a8ef77bd3d75318594dd687b5f51255e5c63c318ab9250cfd",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 569
+        "impressionCount" : 571
       },
       "subtitle" : "Client application for TimeCamp software - track time and change tasks",
       "tintColor" : "25CF60",
@@ -9208,7 +9208,7 @@
       "sha256" : "ece3ba839ecebc21a5e18cd621f97a6094dd3503fb769843994a806f5d1bbc86",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 734
+        "impressionCount" : 735
       },
       "subtitle" : "Helps to organize important files in one place",
       "tintColor" : "3D8BE4",
@@ -9268,7 +9268,7 @@
       "sha256" : "b901b9e64f386d0b2ac4fa3ae6ee1345e8c226acd178e27a311355fbb87450b3",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 814
+        "impressionCount" : 815
       },
       "subtitle" : "Messenger with powerful features for hybrid work",
       "tintColor" : "EDBBA4",
@@ -10548,7 +10548,7 @@
       "sha256" : "5dc93387bc6026dd44dbf2f88c9bf7730d931663d5b72f382c0a51bc6c57517b",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 587
+        "impressionCount" : 589
       },
       "subtitle" : "Drag and drop Spectacle editor",
       "tintColor" : "5A80C6",
@@ -10865,7 +10865,7 @@
       "sha256" : "ea7743e568b350fda331b334ea1364255f498188b7ff11cb1780efecfe81b174",
       "stats" : {
         "downloadCount" : 767,
-        "impressionCount" : 610
+        "impressionCount" : 611
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -11087,7 +11087,7 @@
       "sha256" : "03c44acff62830603d4deb15ce4d53e3102e4522a078fbe252ac2feb41e57ab2",
       "stats" : {
         "downloadCount" : 310,
-        "impressionCount" : 83
+        "impressionCount" : 85
       },
       "subtitle" : "OpenVPN client with AppleScript support",
       "tintColor" : "7892AB",
@@ -11552,7 +11552,7 @@
       "sha256" : "961a5c9a0eefd06457ebc0ebf24c45dee9d9e1a51ab8fa4c6931584225381578",
       "stats" : {
         "downloadCount" : 120,
-        "impressionCount" : 136
+        "impressionCount" : 137
       },
       "subtitle" : "Tool to render realistic skies in real time on the screen",
       "tintColor" : "41365B",
@@ -12218,7 +12218,7 @@
       "sha256" : "21a7fb34132036c5810a8b48527513981d98d09d27d33b15e2f428bdc492c89d",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 69
+        "impressionCount" : 71
       },
       "subtitle" : "Kart racing game",
       "tintColor" : "844647",
@@ -12379,7 +12379,7 @@
       "sha256" : "cab5131e620c5dde19fd41f0037a6dce5722cf74a3f02026acae0a9e83811846",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 112
+        "impressionCount" : 115
       },
       "subtitle" : "Run classic graphical adventure and role-playing games",
       "tintColor" : "148630",
@@ -12477,7 +12477,7 @@
       "name" : "Sync",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 117
+        "impressionCount" : 120
       },
       "subtitle" : "Store, share and access files from anywhere",
       "tintColor" : "9DDFF9",
@@ -12774,7 +12774,7 @@
       "sha256" : "5998bfe68f9f95c77dc9e0e6c39db2285a575e655580e0c4447f5e58de912be6",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 136
+        "impressionCount" : 137
       },
       "subtitle" : "Remote desktop software",
       "tintColor" : "CC8BDD",
@@ -12975,7 +12975,7 @@
       "sha256" : "c2b067a418e0e0f867417ba302f9a93327f98717c6a3ec55d19b602e7f429bc6",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 123
+        "impressionCount" : 126
       },
       "subtitle" : "Tool for creating dynamic digital art",
       "tintColor" : "5F674C",
@@ -13190,7 +13190,7 @@
       "sha256" : "c75a63f667ddb9ec70e0f9643584e1e35a62cbb8fe8a61fef8aa8e75f79a00bb",
       "stats" : {
         "downloadCount" : 16,
-        "impressionCount" : 228
+        "impressionCount" : 230
       },
       "subtitle" : "Web browser",
       "tintColor" : "72BBEC",
@@ -13527,7 +13527,7 @@
       "sha256" : "072d8ca60f9469bbd1bfd47b658b25c6f9ab6f1807d27ba39ece6cbe1b7761f6",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 106
+        "impressionCount" : 108
       },
       "subtitle" : "Screen capture tool for remote teams",
       "tintColor" : "FF6C30",
@@ -13701,7 +13701,7 @@
       "sha256" : "c1662705d76eef2afb56f3bf34ea882c8893ae66280c68e014605095963b63e9",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 88
+        "impressionCount" : 90
       },
       "subtitle" : "Scientific plotting application",
       "tintColor" : "52788E",
@@ -14252,7 +14252,7 @@
       "sha256" : "e0e474a2303f779ce91ea7c60a2d6ae6217cb29f50fc3f4c77cb993cd2bc625f",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 170
+        "impressionCount" : 173
       },
       "subtitle" : "3D browsing software for Second Life online virtual world",
       "tintColor" : "0A3341",
@@ -14333,7 +14333,7 @@
       "sha256" : "105b8fe323207a47bf220580d9e126eba5356c14ee555b578e933b5368db52ee",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 73
+        "impressionCount" : 76
       },
       "subtitle" : "Flash tool for microcontrollers",
       "tintColor" : "D42A2A",
@@ -14469,7 +14469,7 @@
       "sha256" : "00070ee033bde31b1b210a750deeee95899e0337aad1a6e749c70ffb7a6df838",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 330
+        "impressionCount" : 332
       },
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
@@ -15337,16 +15337,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "postman",
-      "downloadURL" : "https://dl.pstmn.io/download/version/9.31.0/osx64",
+      "downloadURL" : "https://dl.pstmn.io/download/version/10.0.1/osx64",
       "homepage" : "https://www.postman.com/",
       "localizedDescription" : "Collaboration platform for API development",
       "name" : "Postman",
-      "sha256" : "2ee5c2d6e704b2bc6ac7cc00901928b76c176d4515a7e14840fc7dff6fad7c8c",
+      "sha256" : "1cc1d18c222d1b1a9125bc2837610c3b2e2c761a4040159076499eeb5eb6b9dd",
       "stats" : {
         "downloadCount" : 11679
       },
       "subtitle" : "Collaboration platform for API development",
-      "version" : "9.31.0"
+      "version" : "10.0.1",
+      "versionDate" : "2022-11-02T19:28:33Z"
     },
     {
       "beta" : false,
@@ -18450,17 +18451,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "plex",
-      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.56.1.3327-90bc844c/macos/Plex-1.56.1.3327-90bc844c-x86_64.zip",
+      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.56.2.3345-2a4c0924/macos/Plex-1.56.2.3345-2a4c0924-x86_64.zip",
       "homepage" : "https://www.plex.tv/",
       "localizedDescription" : "Home media player",
       "name" : "Plex",
-      "sha256" : "931a9c670e96a414f07eff982ff912bc957cda8d261d75a84cbc9df57c882002",
+      "sha256" : "25e2a5c373e3ee9fea18a098707d3db332dc7a96c78e396839727a34996b1330",
       "stats" : {
         "downloadCount" : 480
       },
       "subtitle" : "Home media player",
-      "version" : "1.56.1.3327,90bc844c",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.56.2.3345,2a4c0924",
+      "versionDate" : "2022-11-02T19:28:33Z"
     },
     {
       "beta" : false,
@@ -61949,20 +61950,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "mountain-duck",
-      "caption" : "Mountain Duck updated from 4.12.4,20185 to 4.12.5,20230",
-      "date" : "2022-11-01T18:41:58Z",
-      "identifier" : "release-mountain-duck-4.12.5,20230",
-      "title" : "New Release: Mountain Duck 4.12.5,20230"
-    },
-    {
-      "appID" : "1password",
-      "caption" : "1Password updated from 8.9.4 to 8.9.8",
-      "date" : "2022-11-01T19:29:10Z",
-      "identifier" : "release-1password-8.9.8",
-      "title" : "New Release: 1Password 8.9.8"
-    },
-    {
       "appID" : "aerial",
       "caption" : "Aerial Screensaver updated from 3.2.0 to 3.2.1",
       "date" : "2022-11-01T19:29:11Z",
@@ -62647,6 +62634,20 @@
       "date" : "2022-11-02T17:58:24Z",
       "identifier" : "release-banking-4-7.9.9,8341",
       "title" : "New Release: Banking 4 7.9.9,8341"
+    },
+    {
+      "appID" : "postman",
+      "caption" : "Postman updated from 9.31.0 to 10.0.1",
+      "date" : "2022-11-02T19:28:34Z",
+      "identifier" : "release-postman-10.0.1",
+      "title" : "New Release: Postman 10.0.1"
+    },
+    {
+      "appID" : "plex",
+      "caption" : "Plex updated from 1.56.1.3327,90bc844c to 1.56.2.3345,2a4c0924",
+      "date" : "2022-11-02T19:28:34Z",
+      "identifier" : "release-plex-1.56.2.3345,2a4c0924",
+      "title" : "New Release: Plex 1.56.2.3345,2a4c0924"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

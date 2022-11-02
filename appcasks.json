@@ -57,8 +57,8 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8319,
-        "impressionCount" : 9011,
-        "viewCount" : 770
+        "impressionCount" : 9014,
+        "viewCount" : 771
       },
       "subtitle" : "Multimedia player",
       "tintColor" : "E5984A",
@@ -82,8 +82,8 @@
       ],
       "stats" : {
         "downloadCount" : 8513,
-        "impressionCount" : 9523,
-        "viewCount" : 715
+        "impressionCount" : 9525,
+        "viewCount" : 716
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -111,8 +111,8 @@
       "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
       "stats" : {
         "downloadCount" : 3464,
-        "impressionCount" : 9915,
-        "viewCount" : 650
+        "impressionCount" : 9917,
+        "viewCount" : 651
       },
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
@@ -139,8 +139,8 @@
       ],
       "stats" : {
         "downloadCount" : 2570,
-        "impressionCount" : 7673,
-        "viewCount" : 467
+        "impressionCount" : 7674,
+        "viewCount" : 468
       },
       "subtitle" : "Video game digital distribution service",
       "tintColor" : "416082",
@@ -169,8 +169,8 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 214,
-        "impressionCount" : 5980,
-        "viewCount" : 482
+        "impressionCount" : 5981,
+        "viewCount" : 483
       },
       "subtitle" : "Git client focusing on power and productivity",
       "tintColor" : "91B5AD",
@@ -195,8 +195,8 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 207,
-        "impressionCount" : 5142,
-        "viewCount" : 379
+        "impressionCount" : 5145,
+        "viewCount" : 380
       },
       "subtitle" : "App wrapper for music.youtube.com",
       "tintColor" : "E73737",
@@ -222,8 +222,8 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 132,
-        "impressionCount" : 4213,
-        "viewCount" : 360
+        "impressionCount" : 4214,
+        "viewCount" : 361
       },
       "subtitle" : "File synchronizer",
       "tintColor" : "D3872A",
@@ -252,7 +252,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 4285,
+        "impressionCount" : 4287,
         "viewCount" : 345
       },
       "subtitle" : "Create DMGs and other archives",
@@ -274,8 +274,8 @@
       "sha256" : "3dda93337f730db11d413e45356a66ebe3b65a381986017fadcbf6459a568f65",
       "stats" : {
         "downloadCount" : 8302,
-        "impressionCount" : 3789,
-        "viewCount" : 275
+        "impressionCount" : 3790,
+        "viewCount" : 276
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "DEDFDA",
@@ -297,7 +297,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5911,
-        "impressionCount" : 2636,
+        "impressionCount" : 2637,
         "viewCount" : 134
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -319,7 +319,7 @@
       "sha256" : "ddc26d7afc0fd04188f1a6ff8208646a23a04c14b9f43657abd8d89d102bde04",
       "stats" : {
         "downloadCount" : 5359,
-        "impressionCount" : 5775,
+        "impressionCount" : 5777,
         "viewCount" : 576
       },
       "subtitle" : "System monitor for the menu bar",
@@ -342,7 +342,7 @@
       "sha256" : "ebcd964f791b59734559ba3859cd58ba354d36d51d59f13fda710197f057355b",
       "stats" : {
         "downloadCount" : 3278,
-        "impressionCount" : 2328,
+        "impressionCount" : 2329,
         "viewCount" : 137
       },
       "subtitle" : "Network protocol analyzer",
@@ -365,7 +365,7 @@
       "sha256" : "550e3639c2eb59bf01b0555398dd80b7919f6b711ae3e6474424a2f8be8bcfbd",
       "stats" : {
         "downloadCount" : 2528,
-        "impressionCount" : 3644,
+        "impressionCount" : 3645,
         "viewCount" : 163
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -388,7 +388,7 @@
       "sha256" : "7a273bd1e9e1d414b24086401956c871104d679070d9c7061b397dc60377976b",
       "stats" : {
         "downloadCount" : 2512,
-        "impressionCount" : 2629,
+        "impressionCount" : 2630,
         "viewCount" : 195
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -410,7 +410,7 @@
       "sha256" : "463dba6fbcb6e63dfbe7a62db2929e2a882502ccd19dbfe16e864d79d499c49d",
       "stats" : {
         "downloadCount" : 2309,
-        "impressionCount" : 4361,
+        "impressionCount" : 4362,
         "viewCount" : 430
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -432,7 +432,7 @@
       "sha256" : "95dc5ea25d9aa7ddf43b87d88dd38acf0d8ebe039bae7162d456b8a1d3c23990",
       "stats" : {
         "downloadCount" : 2048,
-        "impressionCount" : 2112,
+        "impressionCount" : 2113,
         "viewCount" : 66
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -455,7 +455,7 @@
       "sha256" : "ca5dc76ee8350dbeca782eac84941b411c9a13d14c355ae8ff33f089360a03d1",
       "stats" : {
         "downloadCount" : 1661,
-        "impressionCount" : 3593,
+        "impressionCount" : 3594,
         "viewCount" : 176
       },
       "subtitle" : "Web browser focusing on security",
@@ -481,7 +481,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1654,
-        "impressionCount" : 3637
+        "impressionCount" : 3639
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -518,7 +518,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1600,
-        "impressionCount" : 3802
+        "impressionCount" : 3804
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -539,7 +539,7 @@
       "sha256" : "1e3eddc61fd9821ba3acd73d046cf1e5965da1a189b3f8ca99026166a3da55ab",
       "stats" : {
         "downloadCount" : 1418,
-        "impressionCount" : 3140,
+        "impressionCount" : 3141,
         "viewCount" : 187
       },
       "subtitle" : "Native GUI tool for relational databases",
@@ -562,7 +562,7 @@
       "sha256" : "8083de786520fa5c053c64cdcece23a46ed564eb165af4b6cbaedf3f9dafc7ce",
       "stats" : {
         "downloadCount" : 1379,
-        "impressionCount" : 2596,
+        "impressionCount" : 2597,
         "viewCount" : 127
       },
       "subtitle" : "Customizable email client",
@@ -585,7 +585,7 @@
       "sha256" : "766d5bf3b404ec567110a25de1d221290bc829302283b28ed0fbe73b9557f30c",
       "stats" : {
         "downloadCount" : 1026,
-        "impressionCount" : 2399,
+        "impressionCount" : 2400,
         "viewCount" : 122
       },
       "subtitle" : "Move and resize windows with ease",
@@ -607,7 +607,7 @@
       "sha256" : "a696766c219ba2f7487bf6054b6c94af78bd49e9d4a7a210fc007193ef85c6f1",
       "stats" : {
         "downloadCount" : 898,
-        "impressionCount" : 2258,
+        "impressionCount" : 2259,
         "viewCount" : 159
       },
       "subtitle" : "PDF reader and note-taking application",
@@ -629,7 +629,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 811,
-        "impressionCount" : 2090,
+        "impressionCount" : 2091,
         "viewCount" : 140
       },
       "subtitle" : "Application for inspecting installer packages",
@@ -652,7 +652,7 @@
       "sha256" : "6b09011a0854dc0fdd0d6d8650e49ac88e219a3b6ec7e54cefab97dfb73dd4c1",
       "stats" : {
         "downloadCount" : 718,
-        "impressionCount" : 2168,
+        "impressionCount" : 2169,
         "viewCount" : 112
       },
       "subtitle" : "Desktop client for Telegram messenger",
@@ -674,7 +674,7 @@
       "sha256" : "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
       "stats" : {
         "downloadCount" : 563,
-        "impressionCount" : 2030,
+        "impressionCount" : 2031,
         "viewCount" : 97
       },
       "subtitle" : "MySQL/MariaDB database management platform",
@@ -696,7 +696,7 @@
       "sha256" : "fb4caf8eb17513ba1d9a8dcbdf5ec591076f80ab9d6cbdacc71569dcc0a068b8",
       "stats" : {
         "downloadCount" : 545,
-        "impressionCount" : 2086,
+        "impressionCount" : 2087,
         "viewCount" : 119
       },
       "subtitle" : "Configurable document editor that supports Markdown",
@@ -719,7 +719,7 @@
       "sha256" : "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
       "stats" : {
         "downloadCount" : 468,
-        "impressionCount" : 1991,
+        "impressionCount" : 1992,
         "viewCount" : 94
       },
       "subtitle" : "Screen capture tool with mark up and sharing features",
@@ -749,7 +749,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 4162
+        "impressionCount" : 4164
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -771,7 +771,7 @@
       "sha256" : "dbec524dcc13128ea3104ae4daf1c1e76d79432a56dfc6ce232d6f08c6460a12",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 2490,
+        "impressionCount" : 2491,
         "viewCount" : 164
       },
       "subtitle" : "Newsreader and Usenet client",
@@ -822,7 +822,7 @@
       "sha256" : "d9ee2504859f86287c3adfb45318c1868f1ec9d9fecff8a43db245541aef08b5",
       "stats" : {
         "downloadCount" : 4,
-        "viewCount" : 170
+        "viewCount" : 171
       },
       "subtitle" : "Spam filtering extension for e-mail clients",
       "version" : "2.9.50"
@@ -6060,25 +6060,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "virtualhereserver",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.virtualhere.com/sites/default/files/usbserver/VirtualHereServerUniversal.dmg",
-      "homepage" : "https://www.virtualhere.com/osx_server_software",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-virtualhereserver/AppIcon.png",
-      "localizedDescription" : "Remotely access your connected USB devices over the network",
-      "name" : "VirtualHereServer",
-      "stats" : {
-        "downloadCount" : 11,
-        "impressionCount" : 271
-      },
-      "subtitle" : "Remotely access your connected USB devices over the network",
-      "tintColor" : "7C7C7C",
-      "version" : "4.4.4"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "uu-booster",
       "categories" : [
         "public.app-category.utilities"
@@ -8521,26 +8502,6 @@
       "subtitle" : "Notes organizer",
       "tintColor" : "B2A89F",
       "version" : "5.4.0,6608"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "virtualhostx",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://download.clickontyler.com/virtualhostx/virtualhostxpro_1017.zip",
-      "homepage" : "https://clickontyler.com/virtualhostx/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-virtualhostx/AppIcon.png",
-      "localizedDescription" : "Local server environment",
-      "name" : "VirtualHostX",
-      "sha256" : "3d86e05f0e4072d1180d06b9126e12c7943ffc6bdce9b754e6a1d417eb18fc0a",
-      "stats" : {
-        "downloadCount" : 3,
-        "impressionCount" : 167
-      },
-      "subtitle" : "Local server environment",
-      "tintColor" : "827463",
-      "version" : "2021.01.10,1017"
     },
     {
       "beta" : false,
@@ -11072,27 +11033,6 @@
       "subtitle" : "LaTeX editor",
       "tintColor" : "4F3E7C",
       "version" : "4.3.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "viscosity",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://swupdate.sparklabs.com/download/mac/release/viscosity/Viscosity%201.10.4.dmg",
-      "homepage" : "https://www.sparklabs.com/viscosity/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-viscosity/AppIcon.png",
-      "localizedDescription" : "OpenVPN client with AppleScript support",
-      "name" : "Viscosity",
-      "sha256" : "03c44acff62830603d4deb15ce4d53e3102e4522a078fbe252ac2feb41e57ab2",
-      "stats" : {
-        "downloadCount" : 310,
-        "impressionCount" : 78
-      },
-      "subtitle" : "OpenVPN client with AppleScript support",
-      "tintColor" : "7892AB",
-      "version" : "1.10.4",
-      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13824,25 +13764,6 @@
       "subtitle" : "Client for Slack, Discord, Skype, Gmail, Twitter, Facebook, and more",
       "tintColor" : "DEE5EF",
       "version" : "0.87"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "virtualhere",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.virtualhere.com/sites/default/files/usbclient/VirtualHere.dmg",
-      "homepage" : "https://www.virtualhere.com/usb_client_software",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-virtualhere/AppIcon.png",
-      "localizedDescription" : "Use USB devices remotely over a network",
-      "name" : "VirtualHere",
-      "stats" : {
-        "downloadCount" : 8,
-        "impressionCount" : 159
-      },
-      "subtitle" : "Use USB devices remotely over a network",
-      "tintColor" : "5A9DD5",
-      "version" : "5.4.1"
     },
     {
       "beta" : false,
@@ -19670,6 +19591,21 @@
       "subtitle" : "Matrix collaboration client",
       "version" : "1.11.13",
       "versionDate" : "2022-11-01T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "viscosity",
+      "downloadURL" : "https://swupdate.sparklabs.com/download/mac/release/viscosity/Viscosity%201.10.4.dmg",
+      "homepage" : "https://www.sparklabs.com/viscosity/",
+      "localizedDescription" : "OpenVPN client with AppleScript support",
+      "name" : "Viscosity",
+      "sha256" : "03c44acff62830603d4deb15ce4d53e3102e4522a078fbe252ac2feb41e57ab2",
+      "stats" : {
+        "downloadCount" : 310
+      },
+      "subtitle" : "OpenVPN client with AppleScript support",
+      "version" : "1.10.4",
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31420,7 +31356,7 @@
       },
       "subtitle" : "Orchestration with Kubernetes on Apple",
       "version" : "2.3.0",
-      "versionDate" : "2022-11-02T10:38:26Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41143,6 +41079,19 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "virtualhereserver",
+      "downloadURL" : "https://www.virtualhere.com/sites/default/files/usbserver/VirtualHereServerUniversal.dmg",
+      "homepage" : "https://www.virtualhere.com/osx_server_software",
+      "localizedDescription" : "Remotely access your connected USB devices over the network",
+      "name" : "VirtualHereServer",
+      "stats" : {
+        "downloadCount" : 10
+      },
+      "subtitle" : "Remotely access your connected USB devices over the network",
+      "version" : "4.4.4"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "whist-browser",
       "downloadURL" : "https://whist-browser-macos-x64-prod.s3.amazonaws.com/Whist-latest-x64.dmg",
       "homepage" : "https://www.whist.com/",
@@ -43514,6 +43463,19 @@
       },
       "subtitle" : "Web browser environment to carry out e-assessments safely",
       "version" : "3.1.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "virtualhere",
+      "downloadURL" : "https://www.virtualhere.com/sites/default/files/usbclient/VirtualHere.dmg",
+      "homepage" : "https://www.virtualhere.com/usb_client_software",
+      "localizedDescription" : "Use USB devices remotely over a network",
+      "name" : "VirtualHere",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "subtitle" : "Use USB devices remotely over a network",
+      "version" : "5.4.1"
     },
     {
       "beta" : false,
@@ -49241,7 +49203,7 @@
       },
       "subtitle" : "Action center for developers",
       "version" : "2.39.2",
-      "versionDate" : "2022-11-02T10:38:26Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56106,6 +56068,20 @@
       },
       "subtitle" : "External level editor for VVVVVV",
       "version" : "1.10.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "virtualhostx",
+      "downloadURL" : "https://download.clickontyler.com/virtualhostx/virtualhostxpro_1017.zip",
+      "homepage" : "https://clickontyler.com/virtualhostx/",
+      "localizedDescription" : "Local server environment",
+      "name" : "VirtualHostX",
+      "sha256" : "3d86e05f0e4072d1180d06b9126e12c7943ffc6bdce9b754e6a1d417eb18fc0a",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "subtitle" : "Local server environment",
+      "version" : "2021.01.10,1017"
     },
     {
       "beta" : false,

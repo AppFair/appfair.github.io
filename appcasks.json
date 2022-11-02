@@ -3988,7 +3988,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "333744",
       "version" : "0.28.0.1",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4148,7 +4148,7 @@
       "subtitle" : "Screen recorder with audio",
       "tintColor" : "5788AD",
       "version" : "3.1.4",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4886,7 +4886,7 @@
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
       "version" : "2.4.9",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6253,7 +6253,7 @@
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
       "version" : "0.12.8",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8560,7 +8560,7 @@
       "subtitle" : "Time tracking app",
       "tintColor" : "171715",
       "version" : "2022.16,4424",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12222,7 +12222,7 @@
       "subtitle" : "Kart racing game",
       "tintColor" : "844647",
       "version" : "1.4",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12383,7 +12383,7 @@
       "subtitle" : "Run classic graphical adventure and role-playing games",
       "tintColor" : "148630",
       "version" : "2.6.1",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12481,7 +12481,7 @@
       "subtitle" : "Store, share and access files from anywhere",
       "tintColor" : "9DDFF9",
       "version" : "2.1.4",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12979,7 +12979,7 @@
       "subtitle" : "Tool for creating dynamic digital art",
       "tintColor" : "5F674C",
       "version" : "2022.29850",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13530,7 +13530,7 @@
       "subtitle" : "Screen capture tool for remote teams",
       "tintColor" : "FF6C30",
       "version" : "3.1.4",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -13704,7 +13704,7 @@
       "subtitle" : "Scientific plotting application",
       "tintColor" : "52788E",
       "version" : "3.5",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14255,7 +14255,7 @@
       "subtitle" : "3D browsing software for Second Life online virtual world",
       "tintColor" : "0A3341",
       "version" : "6.6.7.576223",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14336,7 +14336,7 @@
       "subtitle" : "Flash tool for microcontrollers",
       "tintColor" : "D42A2A",
       "version" : "8.1.0.4125",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14472,7 +14472,7 @@
       "subtitle" : "Code visualization and exploration tool",
       "tintColor" : "698FB3",
       "version" : "6.2.1124",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15588,7 +15588,7 @@
       },
       "subtitle" : "Minimal installer for conda specific to conda-forge",
       "version" : "22.9.0-1",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16242,17 +16242,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "obs",
-      "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-studio-28.1.0-macos-x86_64.dmg",
+      "downloadURL" : "https://cdn-fastly.obsproject.com/downloads/obs-studio-28.1.1-macos-x86_64.dmg",
       "homepage" : "https://obsproject.com/",
       "localizedDescription" : "Open-source software for live streaming and screen recording",
       "name" : "OBS",
-      "sha256" : "22d7aaf9c8fce386e29f6d4c04ff9902d49c3ca52130b258eba97bd239b5ed1f",
+      "sha256" : "dfcd31edc8df20aa1dc29929bea309d2070e3de3c89d90ba1344b5d649431cad",
       "stats" : {
         "downloadCount" : 2311
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
-      "version" : "28.1.0",
-      "versionDate" : "2022-11-01T00:00:00Z"
+      "version" : "28.1.1",
+      "versionDate" : "2022-11-02T04:28:50Z"
     },
     {
       "beta" : false,
@@ -17354,7 +17354,7 @@
       },
       "subtitle" : "Git client focusing on productivity",
       "version" : "8.10.2",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17570,7 +17570,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.25,20221101102947",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18936,7 +18936,7 @@
       },
       "subtitle" : "GUI for streamlined Redis application development",
       "version" : "2.12.0",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19452,7 +19452,7 @@
       },
       "subtitle" : "Web browser focusing on privacy",
       "version" : "0.30.5",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19723,8 +19723,8 @@
         "downloadCount" : 300
       },
       "subtitle" : "Virtual globe",
-      "version" : "7.3.6.9275",
-      "versionDate" : "2022-11-01T00:00:00Z"
+      "version" : "7.3.6.9277",
+      "versionDate" : "2022-11-02T04:28:50Z"
     },
     {
       "beta" : false,
@@ -20111,7 +20111,7 @@
       },
       "subtitle" : "Mesh VPN client",
       "version" : "1.10.2",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20899,7 +20899,7 @@
       },
       "subtitle" : "App to manage software development and track bugs",
       "version" : "1.12.2,2210280pdi6vcnm",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21131,7 +21131,7 @@
       },
       "subtitle" : "Minimal installer for conda with preinstalled support for Mamba",
       "version" : "22.9.0-1",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22218,7 +22218,7 @@
       },
       "subtitle" : "Extensible editor for OpenStreetMap",
       "version" : "18583",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22287,7 +22287,7 @@
       },
       "subtitle" : "WordPress local development tool by Flywheel",
       "version" : "6.5.1,6195",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23083,7 +23083,7 @@
       },
       "subtitle" : "Use it to gain instant access to operations and complete control over the system",
       "version" : "2022.1,2361553",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24247,7 +24247,7 @@
       },
       "subtitle" : "Software for iLok devices",
       "version" : "5.6.3,4726",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27587,7 +27587,7 @@
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "version" : "2022.3.5.0",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27964,7 +27964,7 @@
       },
       "subtitle" : "Access the HEY email service",
       "version" : "1.2.10",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28090,7 +28090,7 @@
       },
       "subtitle" : "Command-line API client",
       "version" : "2.12.1",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28672,7 +28672,7 @@
       },
       "subtitle" : "Organize all your reference images in one place",
       "version" : "3.0,23",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29350,7 +29350,7 @@
       },
       "subtitle" : "Tool for teams to create living documents",
       "version" : "7.72.2",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29365,7 +29365,7 @@
       },
       "subtitle" : "Spaced-repetition powered note-taking tool",
       "version" : "1.8.50",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30849,7 +30849,7 @@
       },
       "subtitle" : "Audio and video editor",
       "version" : "51.1.2-release.20221101.15",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30930,7 +30930,7 @@
       },
       "subtitle" : "Tool to scan and monitor the network",
       "version" : "3.0.3,320b",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31576,7 +31576,7 @@
       },
       "subtitle" : "Flexible space to create your own interactive software",
       "version" : "8.5.0_221101",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34930,7 +34930,7 @@
       },
       "subtitle" : "Video upscaler and quality enhancer",
       "version" : "3.0.2",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36810,7 +36810,7 @@
       },
       "subtitle" : "Create and share augmented reality experiences using the Facebook family of apps",
       "version" : "150",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37859,7 +37859,7 @@
       },
       "subtitle" : "Static website generator",
       "version" : "0.41.0",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37926,16 +37926,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.speedify.com/Speedify-12.5.0.9244.dmg",
+      "downloadURL" : "https://downloads.speedify.com/Speedify-12.6.0.9280.dmg",
       "homepage" : "https://speedify.com/",
       "localizedDescription" : "VPN client",
       "name" : "Speedify",
-      "sha256" : "843542243067d411d6c4900a58643564ce0c8bd56c6a312da582c3f2de32f441",
+      "sha256" : "eefeb1bc005660e1b2f82fb37b904499b58737f02261e375055b44598bbaf6c8",
       "stats" : {
         "downloadCount" : 13
       },
       "subtitle" : "VPN client",
-      "version" : "12.5.0,9244"
+      "version" : "12.6.0,9280",
+      "versionDate" : "2022-11-02T04:28:50Z"
     },
     {
       "beta" : false,
@@ -38145,7 +38146,7 @@
       },
       "subtitle" : "Git client",
       "version" : "3.0.3,7516",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39625,7 +39626,7 @@
       },
       "subtitle" : "Terminal emulator",
       "version" : "0.3.7.245",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39757,7 +39758,7 @@
       },
       "subtitle" : "Software package for econometric analysis",
       "version" : "2022c",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40053,7 +40054,7 @@
       },
       "subtitle" : "Collaborative presentation software",
       "version" : "1.99.0,stable.1,4832990",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41781,7 +41782,7 @@
       },
       "subtitle" : "Note-taking tool for visual learning",
       "version" : "0.218.2",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43202,7 +43203,7 @@
       },
       "subtitle" : "Korean e-book store",
       "version" : "2.44.2",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44861,16 +44862,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "rotato",
-      "downloadURL" : "https://dl.devmate.com/com.mortenjust.Rendermock/112/1604697138/DesignCamera-112.zip",
+      "downloadURL" : "https://rotato.app/api/releases/download/138.2",
       "homepage" : "https://rotato.app/",
       "localizedDescription" : "Mockup generator & animator 3D",
       "name" : "Rotato",
-      "sha256" : "4d68cbb8832e23d306f34123a65de3788c70e3f6eb49c055136febc8f864405c",
+      "sha256" : "5d6b024594628cc8d4d09300c4fd9b6b6ec2ee5c6b3fbfb3a396d416cfa8b990",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Mockup generator & animator 3D",
-      "version" : "112,1604697138"
+      "version" : "138.2",
+      "versionDate" : "2022-11-02T04:28:50Z"
     },
     {
       "beta" : false,
@@ -46727,7 +46729,7 @@
       },
       "subtitle" : "Batch image processor, resizer, and converter",
       "version" : "3.1.2,896",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46742,7 +46744,7 @@
       },
       "subtitle" : "Corporate Wi-Fi, VPN, SSO, and HR Application",
       "version" : "0.56.3,9f3c68bdbd5b41228ee3066bba328ec1,451a",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47669,7 +47671,7 @@
       },
       "subtitle" : "Browse, install and purchase effects and plugins from a huge catalog",
       "version" : "8.0.4,7290",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47981,7 +47983,7 @@
       },
       "subtitle" : "Animated icon library",
       "version" : "1.1.22",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49696,7 +49698,7 @@
       },
       "subtitle" : "Visualization and debugging tool for robotics",
       "version" : "1.30.0",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50321,7 +50323,7 @@
       },
       "subtitle" : "Create your own domain-specific language",
       "version" : "2022.2,222.3345.1295",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52025,7 +52027,7 @@
       },
       "subtitle" : "PDF Editor",
       "version" : "12.0.2",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55219,7 +55221,7 @@
       },
       "subtitle" : "Social network built on the peer-to-peer SSB protocol",
       "version" : "0.2211.1-beta",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57933,7 +57935,7 @@
       },
       "subtitle" : "Real-time 3D rendering",
       "version" : "11.3.0.135",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -58705,7 +58707,7 @@
       },
       "subtitle" : "Digital Asset Management",
       "version" : "7.4.1.4613",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61584,7 +61586,7 @@
       },
       "subtitle" : "Password manager and form filler application",
       "version" : "9.3.7",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61801,7 +61803,7 @@
       },
       "subtitle" : "Administration tool for UJAM products",
       "version" : "0.3.11",
-      "versionDate" : "2022-11-02T02:46:01Z"
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61936,27 +61938,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "obs",
-      "caption" : "OBS updated from 28.0.3 to 28.1.0",
-      "date" : "2022-11-01T04:49:50Z",
-      "identifier" : "release-obs-28.1.0",
-      "title" : "New Release: OBS 28.1.0"
-    },
-    {
-      "appID" : "figma",
-      "caption" : "Figma updated from 116.4.2 to 116.4.4",
-      "date" : "2022-11-01T04:49:50Z",
-      "identifier" : "release-figma-116.4.4",
-      "title" : "New Release: Figma 116.4.4"
-    },
-    {
-      "appID" : "launchcontrol",
-      "caption" : "LaunchControl updated from 2.0,2267 to 2.0.1,2277",
-      "date" : "2022-11-01T04:49:50Z",
-      "identifier" : "release-launchcontrol-2.0.1,2277",
-      "title" : "New Release: LaunchControl 2.0.1,2277"
-    },
-    {
       "appID" : "sameboy",
       "caption" : "SameBoy updated from 0.15.6 to 0.15.7",
       "date" : "2022-11-01T04:49:50Z",
@@ -62018,13 +61999,6 @@
       "date" : "2022-11-01T10:38:23Z",
       "identifier" : "release-r-4.2.2",
       "title" : "New Release: R 4.2.2"
-    },
-    {
-      "appID" : "google-earth-pro",
-      "caption" : "Google Earth Pro updated from 7.3.6.9264 to 7.3.6.9275",
-      "date" : "2022-11-01T10:38:24Z",
-      "identifier" : "release-google-earth-pro-7.3.6.9275",
-      "title" : "New Release: Google Earth Pro 7.3.6.9275"
     },
     {
       "appID" : "nvidia-geforce-now",
@@ -62634,6 +62608,34 @@
       "date" : "2022-11-02T02:46:18Z",
       "identifier" : "release-ujam-0.3.11",
       "title" : "New Release: UJAM 0.3.11"
+    },
+    {
+      "appID" : "obs",
+      "caption" : "OBS updated from 28.1.0 to 28.1.1",
+      "date" : "2022-11-02T04:28:51Z",
+      "identifier" : "release-obs-28.1.1",
+      "title" : "New Release: OBS 28.1.1"
+    },
+    {
+      "appID" : "google-earth-pro",
+      "caption" : "Google Earth Pro updated from 7.3.6.9275 to 7.3.6.9277",
+      "date" : "2022-11-02T04:28:52Z",
+      "identifier" : "release-google-earth-pro-7.3.6.9277",
+      "title" : "New Release: Google Earth Pro 7.3.6.9277"
+    },
+    {
+      "appID" : "speedify",
+      "caption" : "Speedify updated from 12.5.0,9244 to 12.6.0,9280",
+      "date" : "2022-11-02T04:28:52Z",
+      "identifier" : "release-speedify-12.6.0,9280",
+      "title" : "New Release: Speedify 12.6.0,9280"
+    },
+    {
+      "appID" : "rotato",
+      "caption" : "Rotato updated from 112,1604697138 to 138.2",
+      "date" : "2022-11-02T04:28:52Z",
+      "identifier" : "release-rotato-138.2",
+      "title" : "New Release: Rotato 138.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

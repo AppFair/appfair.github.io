@@ -24,7 +24,7 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``Signal``](https://signal.org/) | ``5.62.0`` | `2116` |  |  | `11473` | `1293` |  | `0` | `public.app-category.social-networking` |
-| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `8319` |  |  | `9005` | `770` |  | `0` | `public.app-category.video` |
+| [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `8319` |  |  | `9009` | `770` |  | `0` | `public.app-category.video` |
 | [``Spotify``](https://www.spotify.com/) | ``1.1.97.962,24733a46,812`` | `8513` | `2022-10-28T00:00:00Z` |  | `9521` | `715` |  | `0` | `public.app-category.music` |
 | [``WhatsApp``](https://www.whatsapp.com/) | ``2.2241.7`` | `3464` | `2022-10-31T00:00:00Z` |  | `9913` | `650` |  | `0` | `public.app-category.social-networking` |
 | [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2570` |  |  | `7669` | `467` |  | `0` | `public.app-category.games` |
@@ -860,7 +860,7 @@ tr:nth-child(even) {
 | [``Lens``](https://k8slens.dev/) | ``2022.10.311317`` | `2277` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``kitty``](https://github.com/kovidgoyal/kitty) | ``0.26.4`` | `2243` |  |  |  |  |  | `0` |  |
 | [``Inkscape``](https://inkscape.org/) | ``1.2.1`` | `2144` |  |  |  |  |  | `0` |  |
-| [``Dropbox``](https://www.dropbox.com/) | ``160.4.4703`` | `2124` | `2022-11-02T05:55:04Z` |  |  |  |  | `0` |  |
+| [``Dropbox``](https://www.dropbox.com/) | ``160.4.4703`` | `2124` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Keka``](https://www.keka.io/) | ``1.2.57`` | `2075` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Background Music``](https://github.com/kyleneideck/BackgroundMusic) | ``0.4.0`` | `2028` |  |  |  |  |  | `0` |  |
 | [``Adobe Acrobat Reader``](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) | ``22.003.20258`` | `1995` |  |  |  |  |  | `0` |  |

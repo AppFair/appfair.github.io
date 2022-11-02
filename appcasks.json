@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2116,
-        "impressionCount" : 11483,
+        "impressionCount" : 11484,
         "viewCount" : 1294
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8319,
-        "impressionCount" : 9020,
+        "impressionCount" : 9021,
         "viewCount" : 771
       },
       "subtitle" : "Multimedia player",
@@ -82,7 +82,7 @@
       ],
       "stats" : {
         "downloadCount" : 8513,
-        "impressionCount" : 9533,
+        "impressionCount" : 9534,
         "viewCount" : 716
       },
       "subtitle" : "Music streaming service",
@@ -111,7 +111,7 @@
       "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
       "stats" : {
         "downloadCount" : 3464,
-        "impressionCount" : 9923,
+        "impressionCount" : 9924,
         "viewCount" : 651
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -139,7 +139,7 @@
       ],
       "stats" : {
         "downloadCount" : 2570,
-        "impressionCount" : 7682,
+        "impressionCount" : 7683,
         "viewCount" : 469
       },
       "subtitle" : "Video game digital distribution service",
@@ -169,7 +169,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 214,
-        "impressionCount" : 5987,
+        "impressionCount" : 5988,
         "viewCount" : 483
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -195,7 +195,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 207,
-        "impressionCount" : 5153,
+        "impressionCount" : 5154,
         "viewCount" : 380
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -222,7 +222,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 132,
-        "impressionCount" : 4224,
+        "impressionCount" : 4225,
         "viewCount" : 362
       },
       "subtitle" : "File synchronizer",
@@ -252,7 +252,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 4293,
+        "impressionCount" : 4294,
         "viewCount" : 345
       },
       "subtitle" : "Create DMGs and other archives",
@@ -481,7 +481,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1654,
-        "impressionCount" : 3647
+        "impressionCount" : 3648
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -518,7 +518,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1600,
-        "impressionCount" : 3812
+        "impressionCount" : 3813
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -606,9 +606,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skim/README.md",
       "sha256" : "a696766c219ba2f7487bf6054b6c94af78bd49e9d4a7a210fc007193ef85c6f1",
       "stats" : {
-        "downloadCount" : 898,
-        "impressionCount" : 2263,
-        "viewCount" : 159
+        "downloadCount" : 899,
+        "impressionCount" : 2264,
+        "viewCount" : 160
       },
       "subtitle" : "PDF reader and note-taking application",
       "tintColor" : "CCB774",
@@ -749,7 +749,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 4170
+        "impressionCount" : 4171
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -1417,20 +1417,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://dl.devmate.com/com.setapp.DesktopClient/14/1666791682/Setapp-14.zip",
+      "downloadURL" : "https://dl.devmate.com/com.setapp.DesktopClient/15/1667323695/Setapp-15.zip",
       "homepage" : "https://setapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-setapp/AppIcon.png",
       "localizedDescription" : "Collection of apps available by subscription",
       "name" : "Setapp",
-      "sha256" : "ad6ab5d9c5210c4e60a2254a140d6c116b040d58222064e1ee121721c58da761",
+      "sha256" : "d5b69c360662eee9499eb71ca21a8855adf8fd525e7ed33f08d4eab1fdd44c7a",
       "stats" : {
         "downloadCount" : 321,
         "impressionCount" : 852
       },
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
-      "version" : "3.14.1,14,1666791682",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "3.14.2,15,1667323695",
+      "versionDate" : "2022-11-02T15:36:50Z"
     },
     {
       "beta" : false,
@@ -1970,7 +1970,7 @@
       "sha256" : "f2515c6b361a42a3f0a8fff53257e20f6c6224015c9fe80a9ff2fe22ef7ff15a",
       "stats" : {
         "downloadCount" : 130,
-        "impressionCount" : 1039
+        "impressionCount" : 1040
       },
       "subtitle" : "Charting and social-networking for investment traders",
       "tintColor" : "3E414A",
@@ -13182,19 +13182,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.106.8.2.dmg",
+      "downloadURL" : "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.107.10.2.dmg",
       "homepage" : "https://wavebox.io/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wavebox/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "Wavebox",
-      "sha256" : "59cdd3ac09aed9bf89692e0f6cd6a247e9fc27b7c302fc28c37229e6468309bf",
+      "sha256" : "c75a63f667ddb9ec70e0f9643584e1e35a62cbb8fe8a61fef8aa8e75f79a00bb",
       "stats" : {
         "downloadCount" : 16,
         "impressionCount" : 225
       },
       "subtitle" : "Web browser",
       "tintColor" : "72BBEC",
-      "version" : "10.106.8.2"
+      "version" : "10.107.10.2",
+      "versionDate" : "2022-11-02T15:36:50Z"
     },
     {
       "beta" : false,
@@ -61947,20 +61948,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "shottr",
-      "caption" : "Shottr updated from 1.6.0 to 1.6.1",
-      "date" : "2022-11-01T16:48:14Z",
-      "identifier" : "release-shottr-1.6.1",
-      "title" : "New Release: Shottr 1.6.1"
-    },
-    {
-      "appID" : "sf-symbols",
-      "caption" : "SF Symbols updated from 3.3 to 4",
-      "date" : "2022-11-01T16:48:14Z",
-      "identifier" : "release-sf-symbols-4",
-      "title" : "New Release: SF Symbols 4"
-    },
-    {
       "appID" : "prismlauncher",
       "caption" : "Prism Launcher updated from 5.0 to 5.1",
       "date" : "2022-11-01T16:48:15Z",
@@ -62645,6 +62632,20 @@
       "date" : "2022-11-02T14:10:24Z",
       "identifier" : "release-micromamba-1.0.0,0",
       "title" : "New Release: micromamba 1.0.0,0"
+    },
+    {
+      "appID" : "setapp",
+      "caption" : "Setapp updated from 3.14.1,14,1666791682 to 3.14.2,15,1667323695",
+      "date" : "2022-11-02T15:36:51Z",
+      "identifier" : "release-setapp-3.14.2,15,1667323695",
+      "title" : "New Release: Setapp 3.14.2,15,1667323695"
+    },
+    {
+      "appID" : "wavebox",
+      "caption" : "Wavebox updated from 10.106.8.2 to 10.107.10.2",
+      "date" : "2022-11-02T15:36:51Z",
+      "identifier" : "release-wavebox-10.107.10.2",
+      "title" : "New Release: Wavebox 10.107.10.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

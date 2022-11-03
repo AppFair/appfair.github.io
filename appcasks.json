@@ -110,9 +110,9 @@
       ],
       "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
       "stats" : {
-        "downloadCount" : 3503,
-        "impressionCount" : 9947,
-        "viewCount" : 652
+        "downloadCount" : 3504,
+        "impressionCount" : 9953,
+        "viewCount" : 654
       },
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
@@ -480,7 +480,7 @@
       "sha256" : "ca5dc76ee8350dbeca782eac84941b411c9a13d14c355ae8ff33f089360a03d1",
       "stats" : {
         "downloadCount" : 1665,
-        "impressionCount" : 3614,
+        "impressionCount" : 3617,
         "viewCount" : 177
       },
       "subtitle" : "Web browser focusing on security",
@@ -842,7 +842,7 @@
       "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
       "stats" : {
         "downloadCount" : 32910,
-        "impressionCount" : 1871
+        "impressionCount" : 1873
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -10855,7 +10855,7 @@
       "sha256" : "bab55ae8fd5f5040def040af2af573214264dab32f421d676f89a773c1874e72",
       "stats" : {
         "downloadCount" : 919,
-        "impressionCount" : 711
+        "impressionCount" : 713
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",

@@ -6,7 +6,7 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.62.0.dmg",
+      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.63.0.dmg",
       "homepage" : "https://signal.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
       "localizedDescription" : "Instant messaging application focusing on security",
@@ -22,7 +22,7 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_07-mac-1624x1624.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_08-mac-1958x1532.png"
       ],
-      "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
+      "sha256" : "603440a63e23e411e750a96a9668e5cba5493656bee623add22161cd7d4e2ef9",
       "stats" : {
         "downloadCount" : 2094,
         "impressionCount" : 11530,
@@ -30,7 +30,8 @@
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
-      "version" : "5.62.0"
+      "version" : "5.63.0",
+      "versionDate" : "2022-11-03T22:29:17Z"
     },
     {
       "beta" : false,
@@ -15682,17 +15683,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "alfred",
-      "downloadURL" : "https://cachefly.alfredapp.com/Alfred_5.0.4_2095.dmg",
+      "downloadURL" : "https://cachefly.alfredapp.com/Alfred_5.0.5_2096.dmg",
       "homepage" : "https://www.alfredapp.com/",
       "localizedDescription" : "Application launcher and productivity software",
       "name" : "Alfred",
-      "sha256" : "6e99a5504377b24e80d3f24b98155c7062040b9883dcddad822be17f53c2c810",
+      "sha256" : "9d28745ce0a9e12a2bcd13281657a1b4f8b492a63e4ea2b1861a261b626a38ad",
       "stats" : {
         "downloadCount" : 4283
       },
       "subtitle" : "Application launcher and productivity software",
-      "version" : "5.0.4,2095",
-      "versionDate" : "2022-11-01T00:00:00Z"
+      "version" : "5.0.5,2096",
+      "versionDate" : "2022-11-03T22:29:17Z"
     },
     {
       "beta" : false,
@@ -62011,20 +62012,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "catlight",
-      "caption" : "catlight updated from 2.39.1 to 2.39.2",
-      "date" : "2022-11-02T10:38:28Z",
-      "identifier" : "release-catlight-2.39.2",
-      "title" : "New Release: catlight 2.39.2"
-    },
-    {
-      "appID" : "orka-vm-tools",
-      "caption" : "Orka VM TOOLS updated from 2.2.0 to 2.3.0",
-      "date" : "2022-11-02T13:06:43Z",
-      "identifier" : "release-orka-vm-tools-2.3.0",
-      "title" : "New Release: Orka VM TOOLS 2.3.0"
-    },
-    {
       "appID" : "librewolf",
       "caption" : "LibreWolf updated from 106.0.2,1,3d21c6d2b48a212f359a5ecac6c80d01 to 106.0.3,1,14e3b54ff5708ef4a39f7dca76c65e03",
       "date" : "2022-11-02T14:10:23Z",
@@ -62709,6 +62696,20 @@
       "date" : "2022-11-03T17:38:37Z",
       "identifier" : "release-openlens-6.1.14",
       "title" : "New Release: OpenLens 6.1.14"
+    },
+    {
+      "appID" : "signal",
+      "caption" : "Signal updated from 5.62.0 to 5.63.0",
+      "date" : "2022-11-03T22:29:18Z",
+      "identifier" : "release-signal-5.63.0",
+      "title" : "New Release: Signal 5.63.0"
+    },
+    {
+      "appID" : "alfred",
+      "caption" : "Alfred updated from 5.0.4,2095 to 5.0.5,2096",
+      "date" : "2022-11-03T22:29:18Z",
+      "identifier" : "release-alfred-5.0.5,2096",
+      "title" : "New Release: Alfred 5.0.5,2096"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

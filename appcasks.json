@@ -830,27 +830,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "visual-studio-code",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://update.code.visualstudio.com/1.73.0/darwin/stable",
-      "homepage" : "https://code.visualstudio.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-studio-code/AppIcon.png",
-      "localizedDescription" : "Open-source code editor",
-      "name" : "Microsoft Visual Studio Code",
-      "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
-      "stats" : {
-        "downloadCount" : 32910,
-        "impressionCount" : 1871
-      },
-      "subtitle" : "Open-source code editor",
-      "tintColor" : "B8D9EF",
-      "version" : "1.73.0",
-      "versionDate" : "2022-11-02T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "zoom",
       "categories" : [
         "public.app-category.social-networking"
@@ -1111,27 +1090,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "visual-studio",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/9f141bc3-da1f-4d6f-9f5d-fbadc4044e77/439376ea8c332d391037716579d25aa6/visualstudioformacinstaller-17.3.8.4.dmg",
-      "homepage" : "https://visualstudio.microsoft.com/vs/mac/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-studio/AppIcon.png",
-      "localizedDescription" : "Integrated development environment",
-      "name" : "Microsoft Visual Studio",
-      "sha256" : "788f5aa9387d8644c3f458bb58076723b7e7fa4efaa6837aa842185e6ff3eaa5",
-      "stats" : {
-        "downloadCount" : 655,
-        "impressionCount" : 535
-      },
-      "subtitle" : "Integrated development environment",
-      "tintColor" : "C8AAE6",
-      "version" : "17.3.8.4",
-      "versionDate" : "2022-10-19T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "swiftformat-for-xcode",
       "categories" : [
         "public.app-category.developer-tools"
@@ -1170,27 +1128,6 @@
       "tintColor" : "4BE394",
       "version" : "3.6.0.17,24160",
       "versionDate" : "2022-10-29T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "visualvm",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/oracle/visualvm/releases/download/2.1.5/VisualVM_215.dmg",
-      "homepage" : "https://visualvm.github.io/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visualvm/AppIcon.png",
-      "localizedDescription" : "All-in-One Java Troubleshooting Tool",
-      "name" : "VisualVM",
-      "sha256" : "b4d931469fcbdf3041df383e76db85e01ac12e022f3c174beccb3e181bffe7d1",
-      "stats" : {
-        "downloadCount" : 514,
-        "impressionCount" : 743
-      },
-      "subtitle" : "All-in-One Java Troubleshooting Tool",
-      "tintColor" : "F24A1D",
-      "version" : "2.1.5",
-      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2397,7 +2334,7 @@
       "subtitle" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "tintColor" : "761E76",
       "version" : "3.8.1",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3972,7 +3909,7 @@
       "subtitle" : "Workstation to streamline your accounts, apps, and workflows",
       "tintColor" : "4B4D55",
       "version" : "8.1.4.548",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4211,7 +4148,7 @@
       "subtitle" : "System monitor",
       "tintColor" : "6B9DB9",
       "version" : "3.2.0",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6524,26 +6461,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "vitals",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/hmarr/vitals/releases/download/v0.9/vitals-v0.9.zip",
-      "homepage" : "https://github.com/hmarr/vitals/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vitals/AppIcon.png",
-      "localizedDescription" : "Tiny process monitor",
-      "name" : "Vitals",
-      "sha256" : "18206b666b7629bc56cf2154b001112a67cdf06222a03049ab0823d088180ed7",
-      "stats" : {
-        "downloadCount" : 9,
-        "impressionCount" : 289
-      },
-      "subtitle" : "Tiny process monitor",
-      "tintColor" : "283035",
-      "version" : "0.9"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vine-server",
       "categories" : [
         "public.app-category.utilities"
@@ -7327,7 +7244,7 @@
       "subtitle" : "Free and open-source real time strategy game",
       "tintColor" : "76899C",
       "version" : "4.3.1",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7606,25 +7523,6 @@
       "subtitle" : "Media conversion and direct transfer tool for Apple devices",
       "tintColor" : "CDA1C6",
       "version" : "4.0.114"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "vitalsigns",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.disometrics.com/downloads/VitalSigns3/VitalSigns.dmg",
-      "homepage" : "https://www.disometrics.com/vitalsigns/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vitalsigns/AppIcon.png",
-      "localizedDescription" : "Temperature and memory monitor",
-      "name" : "Vitalsigns",
-      "stats" : {
-        "downloadCount" : 5,
-        "impressionCount" : 186
-      },
-      "subtitle" : "Temperature and memory monitor",
-      "tintColor" : "B5BEC0",
-      "version" : "3.0.13,1"
     },
     {
       "beta" : false,
@@ -10347,7 +10245,7 @@
       "subtitle" : "Realtime multiplayer tabletop war game",
       "tintColor" : "544F5E",
       "version" : "1.5.56,221102020",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12496,26 +12394,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "visual-paradigm",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp17.0/20221001/Visual_Paradigm_17_0_20221001_OSX_WithJRE.dmg",
-      "homepage" : "https://www.visual-paradigm.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-paradigm/AppIcon.png",
-      "localizedDescription" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
-      "name" : "Visual Paradigm",
-      "sha256" : "7f3be96a45e17854d9fd825bdb4d9d8737e25d1253aabe9dafd4a2b128bdcb9a",
-      "stats" : {
-        "downloadCount" : 30,
-        "impressionCount" : 147
-      },
-      "subtitle" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
-      "tintColor" : "DE7A7A",
-      "version" : "17.0,20221001"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "whoozle-android-file-transfer",
       "categories" : [
 
@@ -12757,26 +12635,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "visual-paradigm-ce",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_17_0_20221001_OSX_WithJRE.dmg",
-      "homepage" : "https://www.visual-paradigm.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-paradigm-ce/AppIcon.png",
-      "localizedDescription" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
-      "name" : "Visual Paradigm Community Edition",
-      "sha256" : "c727c33b3d55418286882337b3354c0f055ef2e3f6ba61ddebc06422f0eac01f",
-      "stats" : {
-        "downloadCount" : 23,
-        "impressionCount" : 133
-      },
-      "subtitle" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
-      "tintColor" : "DE7A7A",
-      "version" : "17.0,20221001"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vidcutter",
       "categories" : [
 
@@ -12891,26 +12749,6 @@
       "subtitle" : "Parametric 2d/3d CAD",
       "tintColor" : "64505F",
       "version" : "3.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "visit",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/visit-dav/visit/releases/download/v3.3.1/VisIt-3.3.1.dmg",
-      "homepage" : "https://wci.llnl.gov/simulation/computer-codes/visit",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visit/AppIcon.png",
-      "localizedDescription" : "Visualization and data analysis for mesh-based scientific data",
-      "name" : "VisIt",
-      "sha256" : "1c32039f0179100cde9b220f7ba0fe8ef9d8699aa74ed1fabeb93d11a46c9618",
-      "stats" : {
-        "downloadCount" : 20,
-        "impressionCount" : 153
-      },
-      "subtitle" : "Visualization and data analysis for mesh-based scientific data",
-      "tintColor" : "AC878B",
-      "version" : "3.3.1"
     },
     {
       "beta" : false,
@@ -13093,26 +12931,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "visual",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://bitbucket.org/salmanarif/visual-release/downloads/visual_osx_1.27.zip",
-      "homepage" : "https://salmanarif.bitbucket.io/visual/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual/AppIcon.png",
-      "localizedDescription" : "Learn ARM assembly language",
-      "name" : "VisUAL",
-      "sha256" : "5d807740b610294f4b9adc60a91ab9eb45a93853f1158b04f5e2416122d0443c",
-      "stats" : {
-        "downloadCount" : 18,
-        "impressionCount" : 61
-      },
-      "subtitle" : "Learn ARM assembly language",
-      "tintColor" : "26BFC4",
-      "version" : "1.27"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "usage",
       "categories" : [
 
@@ -13209,24 +13027,6 @@
       "subtitle" : "Virtual machine with apache distribution containing MySQL, PHP, and Perl",
       "tintColor" : "B27C65",
       "version" : "8.1.6-0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "visualboyadvance-m",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.4/visualboyadvance-m-Mac-64bit.zip",
-      "homepage" : "https://vba-m.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visualboyadvance-m/AppIcon.png",
-      "name" : "Visual Boy Advance - M",
-      "sha256" : "9127149a452b6e67280c99eb133480fc22095a2ceafdb049d1df9324c35d9197",
-      "stats" : {
-        "downloadCount" : 16,
-        "impressionCount" : 50
-      },
-      "tintColor" : "67609A",
-      "version" : "2.1.4"
     },
     {
       "beta" : false,
@@ -15257,6 +15057,21 @@
       },
       "tintColor" : "1F2B38",
       "version" : "1.0-beta-7.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "visual-studio-code",
+      "downloadURL" : "https://update.code.visualstudio.com/1.73.0/darwin/stable",
+      "homepage" : "https://code.visualstudio.com/",
+      "localizedDescription" : "Open-source code editor",
+      "name" : "Microsoft Visual Studio Code",
+      "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
+      "stats" : {
+        "downloadCount" : 32889
+      },
+      "subtitle" : "Open-source code editor",
+      "version" : "1.73.0",
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17849,6 +17664,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "visual-studio",
+      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/9f141bc3-da1f-4d6f-9f5d-fbadc4044e77/439376ea8c332d391037716579d25aa6/visualstudioformacinstaller-17.3.8.4.dmg",
+      "homepage" : "https://visualstudio.microsoft.com/vs/mac/",
+      "localizedDescription" : "Integrated development environment",
+      "name" : "Microsoft Visual Studio",
+      "sha256" : "788f5aa9387d8644c3f458bb58076723b7e7fa4efaa6837aa842185e6ff3eaa5",
+      "stats" : {
+        "downloadCount" : 655
+      },
+      "subtitle" : "Integrated development environment",
+      "version" : "17.3.8.4",
+      "versionDate" : "2022-10-19T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "neovide",
       "downloadURL" : "https://github.com/neovide/neovide/releases/download/0.10.1/Neovide.dmg.zip",
       "homepage" : "https://github.com/neovide/neovide",
@@ -18317,6 +18147,21 @@
       },
       "subtitle" : "GitLab mirror - Graphical OpenConnect client (beta phase)",
       "version" : "1.5.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "visualvm",
+      "downloadURL" : "https://github.com/oracle/visualvm/releases/download/2.1.5/VisualVM_215.dmg",
+      "homepage" : "https://visualvm.github.io/",
+      "localizedDescription" : "All-in-One Java Troubleshooting Tool",
+      "name" : "VisualVM",
+      "sha256" : "b4d931469fcbdf3041df383e76db85e01ac12e022f3c174beccb3e181bffe7d1",
+      "stats" : {
+        "downloadCount" : 512
+      },
+      "subtitle" : "All-in-One Java Troubleshooting Tool",
+      "version" : "2.1.5",
+      "versionDate" : "2022-10-19T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20818,7 +20663,7 @@
       },
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "version" : "21.2.2",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25757,7 +25602,7 @@
       },
       "subtitle" : "Password manager application and digital vault",
       "version" : "16.8.2,1667232399679",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27408,7 +27253,7 @@
       },
       "subtitle" : "Plugin wrapper for PureData",
       "version" : "0.6.2",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29964,7 +29809,7 @@
       },
       "subtitle" : "Font editor",
       "version" : "3.1.1,3142",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31463,6 +31308,20 @@
       },
       "subtitle" : "Team messaging, video meetings, and business phone",
       "version" : "22.3.30"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "visual-paradigm",
+      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp17.0/20221001/Visual_Paradigm_17_0_20221001_OSX_WithJRE.dmg",
+      "homepage" : "https://www.visual-paradigm.com/",
+      "localizedDescription" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
+      "name" : "Visual Paradigm",
+      "sha256" : "7f3be96a45e17854d9fd825bdb4d9d8737e25d1253aabe9dafd4a2b128bdcb9a",
+      "stats" : {
+        "downloadCount" : 30
+      },
+      "subtitle" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
+      "version" : "17.0,20221001"
     },
     {
       "beta" : false,
@@ -33589,7 +33448,7 @@
       },
       "subtitle" : "Home Theater PC media player",
       "version" : "1.28.2.3347,0fac4b28",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33645,6 +33504,20 @@
       "subtitle" : "Free streaming software designed for new streamers",
       "version" : "0.110.22",
       "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "visual-paradigm-ce",
+      "downloadURL" : "https://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_17_0_20221001_OSX_WithJRE.dmg",
+      "homepage" : "https://www.visual-paradigm.com/",
+      "localizedDescription" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
+      "name" : "Visual Paradigm Community Edition",
+      "sha256" : "c727c33b3d55418286882337b3354c0f055ef2e3f6ba61ddebc06422f0eac01f",
+      "stats" : {
+        "downloadCount" : 23
+      },
+      "subtitle" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
+      "version" : "17.0,20221001"
     },
     {
       "beta" : false,
@@ -35003,6 +34876,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "visit",
+      "downloadURL" : "https://github.com/visit-dav/visit/releases/download/v3.3.1/VisIt-3.3.1.dmg",
+      "homepage" : "https://wci.llnl.gov/simulation/computer-codes/visit",
+      "localizedDescription" : "Visualization and data analysis for mesh-based scientific data",
+      "name" : "VisIt",
+      "sha256" : "1c32039f0179100cde9b220f7ba0fe8ef9d8699aa74ed1fabeb93d11a46c9618",
+      "stats" : {
+        "downloadCount" : 20
+      },
+      "subtitle" : "Visualization and data analysis for mesh-based scientific data",
+      "version" : "3.3.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "wow",
       "downloadURL" : "https://web.static.nowtv.com/watch/player/wowtv/de/8.12.2/WOW-Mac.dmg",
       "homepage" : "https://wowtv.de/",
@@ -35952,6 +35839,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "visual",
+      "downloadURL" : "https://bitbucket.org/salmanarif/visual-release/downloads/visual_osx_1.27.zip",
+      "homepage" : "https://salmanarif.bitbucket.io/visual/",
+      "localizedDescription" : "Learn ARM assembly language",
+      "name" : "VisUAL",
+      "sha256" : "5d807740b610294f4b9adc60a91ab9eb45a93853f1158b04f5e2416122d0443c",
+      "stats" : {
+        "downloadCount" : 18
+      },
+      "subtitle" : "Learn ARM assembly language",
+      "version" : "1.27"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "zprint",
       "categories" : [
 
@@ -36111,7 +36012,7 @@
       },
       "subtitle" : "Desktop remote torrenting application",
       "version" : "2.8.3",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36853,6 +36754,18 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "visualboyadvance-m",
+      "downloadURL" : "https://github.com/visualboyadvance-m/visualboyadvance-m/releases/download/v2.1.4/visualboyadvance-m-Mac-64bit.zip",
+      "homepage" : "https://vba-m.com/",
+      "name" : "Visual Boy Advance - M",
+      "sha256" : "9127149a452b6e67280c99eb133480fc22095a2ceafdb049d1df9324c35d9197",
+      "stats" : {
+        "downloadCount" : 16
+      },
+      "version" : "2.1.4"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "spark-ar-studio",
       "categories" : [
 
@@ -36980,7 +36893,7 @@
       },
       "subtitle" : "Remove metadata files from external drives",
       "version" : "8.1.2",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39170,7 +39083,7 @@
       },
       "subtitle" : "Realtime screen recording",
       "version" : "1.4.12,1422",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39771,7 +39684,7 @@
       },
       "subtitle" : "Collaborative meeting agendas, notes, and action items",
       "version" : "1.4.0",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40050,7 +39963,7 @@
       },
       "subtitle" : "Helps you learn to play your instrument",
       "version" : "3.0.9035,7EFF0A10-A85D-4364-BF5F-6377F3C44DB9",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41131,7 +41044,7 @@
       },
       "subtitle" : "Presentation and production application for live events",
       "version" : "7.10.3,118096648",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42558,7 +42471,7 @@
       },
       "subtitle" : "Powerful runtime view debugging for iOS developers",
       "version" : "40,17775",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43768,6 +43681,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "vitals",
+      "downloadURL" : "https://github.com/hmarr/vitals/releases/download/v0.9/vitals-v0.9.zip",
+      "homepage" : "https://github.com/hmarr/vitals/",
+      "localizedDescription" : "Tiny process monitor",
+      "name" : "Vitals",
+      "sha256" : "18206b666b7629bc56cf2154b001112a67cdf06222a03049ab0823d088180ed7",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "subtitle" : "Tiny process monitor",
+      "version" : "0.9"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "weektodo",
       "downloadURL" : "https://github.com/Zuntek/WeekToDoWeb/releases/download/v1.9.0/WeekToDo-1.9.0.dmg",
       "homepage" : "https://weektodo.me/",
@@ -44710,7 +44637,7 @@
       },
       "subtitle" : "Document syncing application",
       "version" : "1.9.1",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46683,7 +46610,7 @@
       },
       "subtitle" : "Wine wrapper, setup tool and launcher for FFXIV",
       "version" : "4.4",
-      "versionDate" : "2022-11-03T04:05:20Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48667,6 +48594,19 @@
       },
       "subtitle" : "3D printing software",
       "version" : "4.4.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "vitalsigns",
+      "downloadURL" : "https://www.disometrics.com/downloads/VitalSigns3/VitalSigns.dmg",
+      "homepage" : "https://www.disometrics.com/vitalsigns/",
+      "localizedDescription" : "Temperature and memory monitor",
+      "name" : "Vitalsigns",
+      "stats" : {
+        "downloadCount" : 5
+      },
+      "subtitle" : "Temperature and memory monitor",
+      "version" : "3.0.13,1"
     },
     {
       "beta" : false,

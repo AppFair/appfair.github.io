@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Signal``](https://signal.org/) | ``5.63.0`` | `2094` | `2022-11-03T22:29:17Z` |  | `11530` | `1301` |  | `0` | `public.app-category.social-networking` |
+| [``Signal``](https://signal.org/) | ``5.63.0`` | `2094` | `2022-11-03T00:00:00Z` |  | `11530` | `1301` |  | `0` | `public.app-category.social-networking` |
 | [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `8358` |  |  | `9069` | `774` |  | `0` | `public.app-category.video` |
 | [``Spotify``](https://www.spotify.com/) | ``1.1.97.962,24733a46,812`` | `8470` | `2022-10-28T00:00:00Z` |  | `9577` | `717` |  | `0` | `public.app-category.music` |
 | [``WhatsApp``](https://www.whatsapp.com/) | ``2.2241.7`` | `3505` | `2022-10-31T00:00:00Z` |  | `9985` | `656` |  | `0` | `public.app-category.social-networking` |
@@ -814,7 +814,7 @@ tr:nth-child(even) {
 | [``KeePassXC``](https://keepassxc.org/) | ``2.7.4`` | `4515` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Brave``](https://brave.com/) | ``1.45.118.0,145.118`` | `4453` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``1Password CLI``](https://developer.1password.com/docs/cli) | ``2.7.2`` | `4413` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Alfred``](https://www.alfredapp.com/) | ``5.0.5,2096`` | `4283` | `2022-11-03T22:29:17Z` |  |  |  |  | `0` |  |
+| [``Alfred``](https://www.alfredapp.com/) | ``5.0.5,2096`` | `4283` | `2022-11-03T00:00:00Z` |  |  |  |  | `0` |  |
 | [``AltTab``](https://github.com/lwouis/alt-tab-macos) | ``6.49.0`` | `4220` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Warp``](https://www.warp.dev/) | ``0.2022.10.25.08.06.stabl…`` | `4136` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``JetBrains Toolbox``](https://www.jetbrains.com/toolbox-app/) | ``1.26.4,1.26.4.13374`` | `4057` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |

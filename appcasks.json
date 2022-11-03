@@ -66,32 +66,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "spotify",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://download.scdn.co/Spotify.dmg",
-      "homepage" : "https://www.spotify.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/AppIcon.png",
-      "localizedDescription" : "Music streaming service",
-      "name" : "Spotify",
-      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/README.md",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/screenshot_01-mac-2642x1926.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/screenshot_02-mac-2642x1926.png"
-      ],
-      "stats" : {
-        "downloadCount" : 8470,
-        "impressionCount" : 9577,
-        "viewCount" : 717
-      },
-      "subtitle" : "Music streaming service",
-      "tintColor" : "1CB151",
-      "version" : "1.1.97.962,24733a46,812",
-      "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "whatsapp",
       "categories" : [
         "public.app-category.social-networking"
@@ -4015,24 +3989,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "spotify-now-playing",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://github.com/davicorreiajr/spotify-now-playing/releases/download/v0.7.0/spotify-now-playing-0.7.0.dmg",
-      "homepage" : "https://github.com/davicorreiajr/spotify-now-playing",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotify-now-playing/AppIcon.png",
-      "name" : "Spotify - now playing",
-      "sha256" : "3771b0a35b87264f387fbd591c50fd20554508692d3060d0ddce536aac23d17c",
-      "stats" : {
-        "downloadCount" : 34,
-        "impressionCount" : 698
-      },
-      "tintColor" : "3F4651",
-      "version" : "0.7.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vesta",
       "categories" : [
         "public.app-category.utilities"
@@ -6427,26 +6383,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "spotifree",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/ArtemGordinsky/Spotifree/releases/download/1.6.5/Spotifree.dmg",
-      "homepage" : "https://github.com/ArtemGordinsky/Spotifree/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotifree/AppIcon.png",
-      "localizedDescription" : "Automatically mutes ads on Spotify (not supported)",
-      "name" : "Spotifree",
-      "sha256" : "f518a09187bbf1c033e007fbfbd900222d17c7efd103ef239e61bfdec7caaaec",
-      "stats" : {
-        "downloadCount" : 10,
-        "impressionCount" : 218
-      },
-      "subtitle" : "Automatically mutes ads on Spotify (not supported)",
-      "tintColor" : "96BF62",
-      "version" : "1.6.5"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "quit-all",
       "categories" : [
         "public.app-category.productivity"
@@ -8720,26 +8656,6 @@
       "subtitle" : "Database management tool",
       "tintColor" : "4F6E95",
       "version" : "3.0.0.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "spotspot",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://github.com/will-stone/SpotSpot/releases/download/v4.0.2/SpotSpot-4.0.2.dmg",
-      "homepage" : "https://will-stone.github.io/SpotSpot/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotspot/AppIcon.png",
-      "localizedDescription" : "Spotify mini-player",
-      "name" : "SpotSpot",
-      "sha256" : "789ea9104c704bf7632ec4d0e06ec614470fe446bbd19076f818136aa05af76f",
-      "stats" : {
-        "downloadCount" : 3,
-        "impressionCount" : 390
-      },
-      "subtitle" : "Spotify mini-player",
-      "tintColor" : "1B291E",
-      "version" : "4.0.2"
     },
     {
       "beta" : false,
@@ -11148,26 +11064,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "spyder",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/spyder-ide/spyder/releases/download/v5.3.3/Spyder.dmg",
-      "homepage" : "https://www.spyder-ide.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spyder/AppIcon.png",
-      "localizedDescription" : "Scientific Python IDE",
-      "name" : "Spyder",
-      "sha256" : "d5f79908f181469a5ba90fb2572b7f56e1ba95c7f78ea05d4992e08ed68d654a",
-      "stats" : {
-        "downloadCount" : 285,
-        "impressionCount" : 124
-      },
-      "subtitle" : "Scientific Python IDE",
-      "tintColor" : "D9C1C1",
-      "version" : "5.3.3"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "x2goclient",
       "categories" : [
 
@@ -11224,27 +11120,6 @@
       "subtitle" : "Sound and audio controller",
       "tintColor" : "54C1BF",
       "version" : "5.5.5",
-      "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "springtoolsuite",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://download.springsource.com/release/STS4/4.16.1.RELEASE/dist/e4.25/spring-tool-suite-4-4.16.1.RELEASE-e4.25.0-macosx.cocoa.x86_64.dmg",
-      "homepage" : "https://spring.io/tools",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-springtoolsuite/AppIcon.png",
-      "localizedDescription" : "Next generation tooling for Spring Boot",
-      "name" : "Spring Tool Suite",
-      "sha256" : "ae437575a0f51ee9184b19d66536ffc1b28d907f6e68fb6961b4d9d46f2a8e6f",
-      "stats" : {
-        "downloadCount" : 243,
-        "impressionCount" : 148
-      },
-      "subtitle" : "Next generation tooling for Spring Boot",
-      "tintColor" : "459730",
-      "version" : "4.16.1,4.25.0",
       "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
@@ -11588,26 +11463,6 @@
       "subtitle" : "Run commands and display their output on the desktop",
       "tintColor" : "CCCBD5",
       "version" : "1.6.72"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "spotmenu",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/kmikiy/SpotMenu/releases/download/v1.9/SpotMenu.zip",
-      "homepage" : "https://github.com/kmikiy/SpotMenu",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotmenu/AppIcon.png",
-      "localizedDescription" : "Spotify and iTunes in the menu bar",
-      "name" : "SpotMenu",
-      "sha256" : "306fc07e2fa2987bd46eae15012808ab2341e47bc56c7b0ebef151752155fd6f",
-      "stats" : {
-        "downloadCount" : 115,
-        "impressionCount" : 213
-      },
-      "subtitle" : "Spotify and iTunes in the menu bar",
-      "tintColor" : "89AB98",
-      "version" : "1.9"
     },
     {
       "beta" : false,
@@ -12593,26 +12448,6 @@
       "tintColor" : "9DDFF9",
       "version" : "2.1.4",
       "versionDate" : "2022-11-02T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "spotter",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/spotter-application/spotter/releases/download/1.0.7/spotter.dmg",
-      "homepage" : "https://github.com/spotter-application/spotter",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-spotter/AppIcon.png",
-      "localizedDescription" : "Productivity tool to launch everything",
-      "name" : "Spotter",
-      "sha256" : "7c435738deb9317de300139f41f04916f76a6d67fbef3f6b21fce3c6ccb49d74",
-      "stats" : {
-        "downloadCount" : 29,
-        "impressionCount" : 205
-      },
-      "subtitle" : "Productivity tool to launch everything",
-      "tintColor" : "051133",
-      "version" : "1.0.7"
     },
     {
       "beta" : false,
@@ -15422,6 +15257,20 @@
       },
       "subtitle" : "Virtualizer for x86 hardware",
       "version" : "7.0.2,154219",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "spotify",
+      "downloadURL" : "https://download.scdn.co/Spotify.dmg",
+      "homepage" : "https://www.spotify.com/",
+      "localizedDescription" : "Music streaming service",
+      "name" : "Spotify",
+      "stats" : {
+        "downloadCount" : 8442
+      },
+      "subtitle" : "Music streaming service",
+      "version" : "1.1.97.962,24733a46,812",
       "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
@@ -19919,6 +19768,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "spyder",
+      "downloadURL" : "https://github.com/spyder-ide/spyder/releases/download/v5.3.3/Spyder.dmg",
+      "homepage" : "https://www.spyder-ide.org/",
+      "localizedDescription" : "Scientific Python IDE",
+      "name" : "Spyder",
+      "sha256" : "d5f79908f181469a5ba90fb2572b7f56e1ba95c7f78ea05d4992e08ed68d654a",
+      "stats" : {
+        "downloadCount" : 285
+      },
+      "subtitle" : "Scientific Python IDE",
+      "version" : "5.3.3"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "bluestacks",
       "downloadURL" : "https://cdn3.bluestacks.com/downloads/mac/bgp64_mac/4.270.1.2803/c610c2d26a70cad789a74e586a08e51f/x64/BlueStacksInstaller_4.270.1.2803.dmg",
       "homepage" : "https://www.bluestacks.com/",
@@ -20356,6 +20219,21 @@
       },
       "subtitle" : "Fabric agent with endpoint protection and cloud sandbox",
       "version" : "7.0.0.22"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "springtoolsuite",
+      "downloadURL" : "https://download.springsource.com/release/STS4/4.16.1.RELEASE/dist/e4.25/spring-tool-suite-4-4.16.1.RELEASE-e4.25.0-macosx.cocoa.x86_64.dmg",
+      "homepage" : "https://spring.io/tools",
+      "localizedDescription" : "Next generation tooling for Spring Boot",
+      "name" : "Spring Tool Suite",
+      "sha256" : "ae437575a0f51ee9184b19d66536ffc1b28d907f6e68fb6961b4d9d46f2a8e6f",
+      "stats" : {
+        "downloadCount" : 243
+      },
+      "subtitle" : "Next generation tooling for Spring Boot",
+      "version" : "4.16.1,4.25.0",
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23408,6 +23286,20 @@
       },
       "subtitle" : "App for recording the screen and installing apps in iOS and Android",
       "version" : "1.66"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "spotmenu",
+      "downloadURL" : "https://github.com/kmikiy/SpotMenu/releases/download/v1.9/SpotMenu.zip",
+      "homepage" : "https://github.com/kmikiy/SpotMenu",
+      "localizedDescription" : "Spotify and iTunes in the menu bar",
+      "name" : "SpotMenu",
+      "sha256" : "306fc07e2fa2987bd46eae15012808ab2341e47bc56c7b0ebef151752155fd6f",
+      "stats" : {
+        "downloadCount" : 115
+      },
+      "subtitle" : "Spotify and iTunes in the menu bar",
+      "version" : "1.9"
     },
     {
       "beta" : false,
@@ -30915,6 +30807,18 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "spotify-now-playing",
+      "downloadURL" : "https://github.com/davicorreiajr/spotify-now-playing/releases/download/v0.7.0/spotify-now-playing-0.7.0.dmg",
+      "homepage" : "https://github.com/davicorreiajr/spotify-now-playing",
+      "name" : "Spotify - now playing",
+      "sha256" : "3771b0a35b87264f387fbd591c50fd20554508692d3060d0ddce536aac23d17c",
+      "stats" : {
+        "downloadCount" : 33
+      },
+      "version" : "0.7.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "apple-juice",
       "downloadURL" : "https://github.com/raphaelhanneken/apple-juice/releases/download/2020.12.0/Apple.Juice.dmg",
       "homepage" : "https://github.com/raphaelhanneken/apple-juice",
@@ -31765,6 +31669,20 @@
       },
       "subtitle" : "PyCharm IDE with Anaconda plugin",
       "version" : "2020.3.2,203.6682.179"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "spotter",
+      "downloadURL" : "https://github.com/spotter-application/spotter/releases/download/1.0.7/spotter.dmg",
+      "homepage" : "https://github.com/spotter-application/spotter",
+      "localizedDescription" : "Productivity tool to launch everything",
+      "name" : "Spotter",
+      "sha256" : "7c435738deb9317de300139f41f04916f76a6d67fbef3f6b21fce3c6ccb49d74",
+      "stats" : {
+        "downloadCount" : 29
+      },
+      "subtitle" : "Productivity tool to launch everything",
+      "version" : "1.0.7"
     },
     {
       "beta" : false,
@@ -41234,6 +41152,20 @@
         "downloadCount" : 10
       },
       "version" : "2.2.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "spotifree",
+      "downloadURL" : "https://github.com/ArtemGordinsky/Spotifree/releases/download/1.6.5/Spotifree.dmg",
+      "homepage" : "https://github.com/ArtemGordinsky/Spotifree/",
+      "localizedDescription" : "Automatically mutes ads on Spotify (not supported)",
+      "name" : "Spotifree",
+      "sha256" : "f518a09187bbf1c033e007fbfbd900222d17c7efd103ef239e61bfdec7caaaec",
+      "stats" : {
+        "downloadCount" : 10
+      },
+      "subtitle" : "Automatically mutes ads on Spotify (not supported)",
+      "version" : "1.6.5"
     },
     {
       "beta" : false,
@@ -56203,6 +56135,20 @@
       },
       "subtitle" : "3D reconstruction of Apple Retail Stores on their opening days",
       "version" : "1.0.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "spotspot",
+      "downloadURL" : "https://github.com/will-stone/SpotSpot/releases/download/v4.0.2/SpotSpot-4.0.2.dmg",
+      "homepage" : "https://will-stone.github.io/SpotSpot/",
+      "localizedDescription" : "Spotify mini-player",
+      "name" : "SpotSpot",
+      "sha256" : "789ea9104c704bf7632ec4d0e06ec614470fe446bbd19076f818136aa05af76f",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "subtitle" : "Spotify mini-player",
+      "version" : "4.0.2"
     },
     {
       "beta" : false,

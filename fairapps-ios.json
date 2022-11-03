@@ -27,7 +27,7 @@
       "size" : 12762342,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 94,
+        "downloadCount" : 99,
         "forkCount" : 0,
         "impressionCount" : 1127,
         "issueCount" : 0,
@@ -39,6 +39,42 @@
       "version" : "0.0.96",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Sita-Sings-the-Blues.png",
+      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Info.plist#81673a79cd47afe02d807e27027a0af7109a84c8079ce9fe662665de8234082a",
+      "name" : "Sita Sings the Blues",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
+      "screenshotURLs" : [
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_04-iphone-750x1334.png"
+      ],
+      "sha256" : "c472f68c6b2696e3311230f1e77c7beaf63c6a3464c94690536e7d8b896d0e49",
+      "size" : 1453833866,
+      "stats" : {
+        "coreSize" : 67800,
+        "downloadCount" : 60,
+        "forkCount" : 0,
+        "impressionCount" : 5,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "The movie \"Sita Sings the Blues\"",
+      "version" : "0.0.52",
+      "versionDate" : "2022-10-21T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.51...0.0.52"
     },
     {
       "beta" : false,
@@ -72,39 +108,79 @@
     },
     {
       "beta" : true,
+      "bundleIdentifier" : "app.Lottie-Motion",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion-iOS.ipa",
+      "homepage" : "https://lottie-motion.appfair.net",
+      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
+      "localizedDescription" : "Preview and experiment with Lottie animations",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "name" : "Lottie Motion",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "Load and save user-selected Lottie files."
+        }
+      ],
+      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "screenshotURLs" : [
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
+      ],
+      "sha256" : "9513058fefa43f6b42d6fa0447d040e40a4f659932d42cbe9c5a196c55c1cca9",
+      "size" : 2735295,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 58,
+        "forkCount" : 0,
+        "impressionCount" : 0,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 0,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Preview and experiment with Lottie animations",
+      "version" : "0.0.97",
+      "versionDate" : "2022-10-30T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.96...0.0.97"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.Sita-Sings-the-Blues",
       "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Sita-Sings-the-Blues.png",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
       "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/Info.plist#81673a79cd47afe02d807e27027a0af7109a84c8079ce9fe662665de8234082a",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
       "name" : "Sita Sings the Blues",
       "permissions" : [
 
       ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
       "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.52/screenshot_04-iphone-750x1334.png"
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_04-iphone-750x1334.png"
       ],
-      "sha256" : "c472f68c6b2696e3311230f1e77c7beaf63c6a3464c94690536e7d8b896d0e49",
-      "size" : 1453833866,
+      "sha256" : "2de15f40b08edf482a06a0a973fa72cd24347025ecf83529846ccf708fec8956",
+      "size" : 1458058228,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 55,
+        "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 5,
+        "impressionCount" : 1340,
         "issueCount" : 0,
         "starCount" : 0,
-        "viewCount" : 1,
+        "viewCount" : 60,
         "watcherCount" : 0
       },
       "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.52",
-      "versionDate" : "2022-10-21T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.51...0.0.52"
+      "version" : "0.0.51",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
     },
     {
       "beta" : false,
@@ -144,82 +220,6 @@
       "version" : "0.0.20",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Lottie-Motion",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion-iOS.ipa",
-      "homepage" : "https://lottie-motion.appfair.net",
-      "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
-      "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
-      "name" : "Lottie Motion",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "Load and save user-selected Lottie files."
-        }
-      ],
-      "readmeURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "screenshotURLs" : [
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
-      ],
-      "sha256" : "9513058fefa43f6b42d6fa0447d040e40a4f659932d42cbe9c5a196c55c1cca9",
-      "size" : 2735295,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 53,
-        "forkCount" : 0,
-        "impressionCount" : 0,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 0,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Preview and experiment with Lottie animations",
-      "version" : "0.0.97",
-      "versionDate" : "2022-10-30T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.96...0.0.97"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
-      "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_04-iphone-750x1334.png"
-      ],
-      "sha256" : "2de15f40b08edf482a06a0a973fa72cd24347025ecf83529846ccf708fec8956",
-      "size" : 1458058228,
-      "stats" : {
-        "coreSize" : 67800,
-        "downloadCount" : 53,
-        "forkCount" : 0,
-        "impressionCount" : 1340,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 60,
-        "watcherCount" : 0
-      },
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.51",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
     },
     {
       "beta" : false,
@@ -265,6 +265,43 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
     },
     {
+      "beta" : true,
+      "bundleIdentifier" : "app.Cloud-Cuckoo",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo-iOS.ipa",
+      "homepage" : "https://cloud-cuckoo.appfair.net",
+      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
+      "localizedDescription" : "A whimsical game of excitement and delight",
+      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
+      "name" : "Cloud Cuckoo",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
+      "screenshotURLs" : [
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
+      ],
+      "sha256" : "485375324a657e8dd6b3471936bd17bbee9374b0af15b6d3a8d4ab63d4975a3d",
+      "size" : 1844259,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 30,
+        "forkCount" : 1,
+        "impressionCount" : 2,
+        "issueCount" : 0,
+        "starCount" : 2,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A whimsical game of excitement and delight",
+      "tintColor" : "05A6FF",
+      "version" : "0.9.333",
+      "versionDate" : "2022-10-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.332...0.9.333"
+    },
+    {
       "beta" : false,
       "bundleIdentifier" : "app.Huffle-Puff",
       "developerName" : "fairapps <fairapps@appfair.org>",
@@ -293,43 +330,6 @@
       "version" : "0.0.10",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Cloud-Cuckoo",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo-iOS.ipa",
-      "homepage" : "https://cloud-cuckoo.appfair.net",
-      "iconURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Cloud-Cuckoo.png",
-      "localizedDescription" : "A whimsical game of excitement and delight",
-      "metadataURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/Info.plist#f72f03d924a260027476c87eb8e26093f24e1ef042608ab41c5880dfdf335635",
-      "name" : "Cloud Cuckoo",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/README.md#14096a2fe25ad053f6fdc3f83a87eea9a207fccf6a1189f2481ab66a8be78f25",
-      "screenshotURLs" : [
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Cloud-Cuckoo/App/releases/download/0.9.333/screenshot_01-iphone-750x1334.png"
-      ],
-      "sha256" : "22c329d5c47dcf135c1dcef99adf75e8f4c4f397228b2bfde24b9d38a76a603f",
-      "size" : 1844259,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 25,
-        "forkCount" : 1,
-        "impressionCount" : 2,
-        "issueCount" : 0,
-        "starCount" : 2,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A whimsical game of excitement and delight",
-      "tintColor" : "05A6FF",
-      "version" : "0.9.333",
-      "versionDate" : "2022-10-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Cloud-Cuckoo/App/compare/0.9.332...0.9.333"
     },
     {
       "beta" : true,

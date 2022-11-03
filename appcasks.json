@@ -319,7 +319,7 @@
       "sha256" : "ddc26d7afc0fd04188f1a6ff8208646a23a04c14b9f43657abd8d89d102bde04",
       "stats" : {
         "downloadCount" : 5341,
-        "impressionCount" : 5803,
+        "impressionCount" : 5804,
         "viewCount" : 578
       },
       "subtitle" : "System monitor for the menu bar",
@@ -365,7 +365,7 @@
       "sha256" : "550e3639c2eb59bf01b0555398dd80b7919f6b711ae3e6474424a2f8be8bcfbd",
       "stats" : {
         "downloadCount" : 2547,
-        "impressionCount" : 3668,
+        "impressionCount" : 3669,
         "viewCount" : 163
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -433,7 +433,7 @@
       "sha256" : "95dc5ea25d9aa7ddf43b87d88dd38acf0d8ebe039bae7162d456b8a1d3c23990",
       "stats" : {
         "downloadCount" : 2115,
-        "impressionCount" : 2132,
+        "impressionCount" : 2133,
         "viewCount" : 66
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -40844,16 +40844,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "hstracker",
-      "downloadURL" : "https://github.com/HearthSim/HSTracker/releases/download/2.2.8/HSTracker.app.zip",
+      "downloadURL" : "https://github.com/HearthSim/HSTracker/releases/download/2.2.9/HSTracker.app.zip",
       "homepage" : "https://hsdecktracker.net/",
       "localizedDescription" : "Deck tracker and deck manager for Hearthstone",
       "name" : "Hearthstone Deck Tracker",
-      "sha256" : "e5e92247f330bbbd7a7e54be6497fd8c2348b456c4de42939d5db99468bc874a",
+      "sha256" : "5e553616b7158cf54b4f57918f26b3210759975878042f339e69cbd5a0e93d0f",
       "stats" : {
         "downloadCount" : 10
       },
       "subtitle" : "Deck tracker and deck manager for Hearthstone",
-      "version" : "2.2.8"
+      "version" : "2.2.9",
+      "versionDate" : "2022-11-03T09:31:53Z"
     },
     {
       "beta" : false,
@@ -61987,13 +61988,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "ujam",
-      "caption" : "UJAM updated from 0.3.10 to 0.3.11",
-      "date" : "2022-11-02T02:46:18Z",
-      "identifier" : "release-ujam-0.3.11",
-      "title" : "New Release: UJAM 0.3.11"
-    },
-    {
       "appID" : "obs",
       "caption" : "OBS updated from 28.1.0 to 28.1.1",
       "date" : "2022-11-02T04:28:51Z",
@@ -62685,6 +62679,13 @@
       "date" : "2022-11-03T04:05:26Z",
       "identifier" : "release-xiv-on-mac-4.4",
       "title" : "New Release: XIV on Mac 4.4"
+    },
+    {
+      "appID" : "hstracker",
+      "caption" : "Hearthstone Deck Tracker updated from 2.2.8 to 2.2.9",
+      "date" : "2022-11-03T09:31:54Z",
+      "identifier" : "release-hstracker-2.2.9",
+      "title" : "New Release: Hearthstone Deck Tracker 2.2.9"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

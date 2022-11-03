@@ -23,17 +23,17 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `91` | `2022-08-27T00:00:00Z` | `12.8 MB` | `1127` | `82` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `94` | `2022-08-27T00:00:00Z` | `12.8 MB` | `1127` | `82` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `866` | `95` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `55` | `2022-10-21T00:00:00Z` | `1.45 GB` | `5` | `1` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4234` | `297` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `52` | `2022-10-21T00:00:00Z` | `1.45 GB` | `5` | `1` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `50` | `2022-10-30T00:00:00Z` | `2.7 MB` | `0` | `0` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `50` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1340` | `60` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `53` | `2022-10-30T00:00:00Z` | `2.7 MB` | `0` | `0` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `53` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1340` | `60` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `449` | `30` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `1204` | `103` | `0` | `0` |  |
+| [``Cloud Cuckoo``](https://cloud-cuckoo.appfair.net) | ``0.9.333β`` | `25` | `2022-10-27T00:00:00Z` | `1.8 MB` | `2` | `1` | `2` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `25` | `2022-09-23T00:00:00Z` | `7.8 MB` | `12` | `2` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `1232` | `86` | `0` | `0` |  |
-| [``Cloud Cuckoo``](https://cloud-cuckoo.appfair.net) | ``0.9.333β`` | `22` | `2022-10-27T00:00:00Z` | `1.8 MB` | `2` | `1` | `2` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `16` | `1` | `0` | `0` |  |
 | [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1748` | `95` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `517` | `9` | `0` | `0` |  |

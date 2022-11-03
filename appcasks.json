@@ -25,7 +25,7 @@
       "sha256" : "41a78c8640eed895f04f2ce66014edcc2cce445a9c20224fb9aed73dc27442bf",
       "stats" : {
         "downloadCount" : 2094,
-        "impressionCount" : 11508,
+        "impressionCount" : 11510,
         "viewCount" : 1296
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -57,7 +57,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8358,
-        "impressionCount" : 9041,
+        "impressionCount" : 9042,
         "viewCount" : 772
       },
       "subtitle" : "Multimedia player",
@@ -82,7 +82,7 @@
       ],
       "stats" : {
         "downloadCount" : 8470,
-        "impressionCount" : 9557,
+        "impressionCount" : 9559,
         "viewCount" : 716
       },
       "subtitle" : "Music streaming service",
@@ -111,7 +111,7 @@
       "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
       "stats" : {
         "downloadCount" : 3504,
-        "impressionCount" : 9955,
+        "impressionCount" : 9957,
         "viewCount" : 654
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -139,7 +139,7 @@
       ],
       "stats" : {
         "downloadCount" : 2599,
-        "impressionCount" : 7701,
+        "impressionCount" : 7703,
         "viewCount" : 469
       },
       "subtitle" : "Video game digital distribution service",
@@ -169,7 +169,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 222,
-        "impressionCount" : 6010,
+        "impressionCount" : 6012,
         "viewCount" : 483
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -195,7 +195,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 209,
-        "impressionCount" : 5174,
+        "impressionCount" : 5175,
         "viewCount" : 380
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -222,7 +222,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 127,
-        "impressionCount" : 4241,
+        "impressionCount" : 4243,
         "viewCount" : 362
       },
       "subtitle" : "File synchronizer",
@@ -252,7 +252,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 4310,
+        "impressionCount" : 4311,
         "viewCount" : 346
       },
       "subtitle" : "Create DMGs and other archives",
@@ -342,7 +342,7 @@
       "sha256" : "ebcd964f791b59734559ba3859cd58ba354d36d51d59f13fda710197f057355b",
       "stats" : {
         "downloadCount" : 3315,
-        "impressionCount" : 2351,
+        "impressionCount" : 2352,
         "viewCount" : 138
       },
       "subtitle" : "Network protocol analyzer",
@@ -388,7 +388,7 @@
       "sha256" : "7a273bd1e9e1d414b24086401956c871104d679070d9c7061b397dc60377976b",
       "stats" : {
         "downloadCount" : 2502,
-        "impressionCount" : 2649,
+        "impressionCount" : 2650,
         "viewCount" : 196
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -410,7 +410,7 @@
       "sha256" : "50bb0c7382d0281121d942e458f64f0fb64202792462e5ff88c8b8125b8e1e12",
       "stats" : {
         "downloadCount" : 2329,
-        "impressionCount" : 4384,
+        "impressionCount" : 4385,
         "viewCount" : 431
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -459,7 +459,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1674,
-        "impressionCount" : 3668
+        "impressionCount" : 3670
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -480,7 +480,7 @@
       "sha256" : "ca5dc76ee8350dbeca782eac84941b411c9a13d14c355ae8ff33f089360a03d1",
       "stats" : {
         "downloadCount" : 1665,
-        "impressionCount" : 3620,
+        "impressionCount" : 3621,
         "viewCount" : 177
       },
       "subtitle" : "Web browser focusing on security",
@@ -519,7 +519,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1606,
-        "impressionCount" : 3832
+        "impressionCount" : 3834
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -750,7 +750,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 4189
+        "impressionCount" : 4191
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -841,8 +841,8 @@
       "name" : "Microsoft Visual Studio Code",
       "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
       "stats" : {
-        "downloadCount" : 32910,
-        "impressionCount" : 1875
+        "downloadCount" : 32911,
+        "impressionCount" : 1877
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -2434,7 +2434,7 @@
       "sha256" : "f3fc7c23bebd57c906c6cb43b975d468cb46be0d379f6be1acabe66a5b52212a",
       "stats" : {
         "downloadCount" : 90,
-        "impressionCount" : 454
+        "impressionCount" : 456
       },
       "subtitle" : "Displays all open files and sockets in use by all running processes",
       "tintColor" : "E59112",
@@ -40854,7 +40854,7 @@
       },
       "subtitle" : "Deck tracker and deck manager for Hearthstone",
       "version" : "2.2.9",
-      "versionDate" : "2022-11-03T09:31:53Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60082,16 +60082,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "frhelper",
-      "downloadURL" : "https://static.frdic.com/pkg/fhmac.dmg?v=1071",
+      "downloadURL" : "https://static.frdic.com/pkg/fhmac.dmg?v=1078",
       "homepage" : "https://www.eudic.net/v4/fr/app/frhelper",
       "localizedDescription" : "French-Chinese dictionary and learning tool",
       "name" : "Frhelper",
-      "sha256" : "c54a3af2a3e234e1fbfc909413849ac26e1392079314509564143273ef970447",
+      "sha256" : "0faf8bdb2cc94d53c474440d23da70822e73667f953e07b26fc417280e335d32",
       "stats" : {
         "downloadCount" : 0
       },
       "subtitle" : "French-Chinese dictionary and learning tool",
-      "version" : "4.2.1,1071"
+      "version" : "4.2.6,1078",
+      "versionDate" : "2022-11-03T10:34:11Z"
     },
     {
       "beta" : false,
@@ -61988,13 +61989,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "obs",
-      "caption" : "OBS updated from 28.1.0 to 28.1.1",
-      "date" : "2022-11-02T04:28:51Z",
-      "identifier" : "release-obs-28.1.1",
-      "title" : "New Release: OBS 28.1.1"
-    },
-    {
       "appID" : "google-earth-pro",
       "caption" : "Google Earth Pro updated from 7.3.6.9275 to 7.3.6.9277",
       "date" : "2022-11-02T04:28:52Z",
@@ -62686,6 +62680,13 @@
       "date" : "2022-11-03T09:31:54Z",
       "identifier" : "release-hstracker-2.2.9",
       "title" : "New Release: Hearthstone Deck Tracker 2.2.9"
+    },
+    {
+      "appID" : "frhelper",
+      "caption" : "Frhelper updated from 4.2.1,1071 to 4.2.6,1078",
+      "date" : "2022-11-03T10:34:12Z",
+      "identifier" : "release-frhelper-4.2.6,1078",
+      "title" : "New Release: Frhelper 4.2.6,1078"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

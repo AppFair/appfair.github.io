@@ -951,26 +951,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "tunnelblick",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/Tunnelblick/Tunnelblick/releases/download/v3.8.7a/Tunnelblick_3.8.7a_build_5770.dmg",
-      "homepage" : "https://www.tunnelblick.net/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tunnelblick/AppIcon.png",
-      "localizedDescription" : "Free and open-source OpenVPN client",
-      "name" : "Tunnelblick",
-      "sha256" : "bb5858619a58561d07d23df470b9548b82c1544cea9ffade30c4362dc8f3bd93",
-      "stats" : {
-        "downloadCount" : 2015,
-        "impressionCount" : 1071
-      },
-      "subtitle" : "Free and open-source OpenVPN client",
-      "tintColor" : "5E6A74",
-      "version" : "3.8.7a,5770"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "the-unarchiver",
       "categories" : [
         "public.app-category.utilities"
@@ -2121,27 +2101,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "tuple",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-0.99.2-2022-10-31-c530ecb34.zip",
-      "homepage" : "https://tuple.app/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tuple/AppIcon.png",
-      "localizedDescription" : "Remote pair programming app",
-      "name" : "Tuple",
-      "sha256" : "30506617b4392d2d99013bdaaf5901ec360c1db4b5c13b9c9bc8badd407c619a",
-      "stats" : {
-        "downloadCount" : 111,
-        "impressionCount" : 577
-      },
-      "subtitle" : "Remote pair programming app",
-      "tintColor" : "616CBA",
-      "version" : "0.99.2,2022-10-31,c530ecb34",
-      "versionDate" : "2022-10-31T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "yesplaymusic",
       "categories" : [
         "public.app-category.music"
@@ -2398,27 +2357,6 @@
       "tintColor" : "761E76",
       "version" : "3.8.1",
       "versionDate" : "2022-11-03T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "turbo-boost-switcher",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://turbo-boost-switcher.s3.amazonaws.com/Turbo_Boost_Switcher_v2.12.0.dmg",
-      "homepage" : "https://www.rugarciap.com/turbo-boost-switcher-for-os-x/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-turbo-boost-switcher/AppIcon.png",
-      "localizedDescription" : "Enable and disable the Intel CPU Turbo Boost feature",
-      "name" : "Turbo Boost Switcher",
-      "sha256" : "c93c9d73839dd1b826d5651d0b6a37cde6c9959afd2a6ac9b3bac7a5b780dac8",
-      "stats" : {
-        "downloadCount" : 90,
-        "impressionCount" : 433
-      },
-      "subtitle" : "Enable and disable the Intel CPU Turbo Boost feature",
-      "tintColor" : "D4817E",
-      "version" : "2.12.0",
-      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5316,26 +5254,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "workplace-chat",
-      "categories" : [
-        "public.app-category.social-networking"
-      ],
-      "downloadURL" : "https://www.facebook.com/work/chat/download/mac",
-      "homepage" : "https://www.facebook.com/workplace/chat-app",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-workplace-chat/AppIcon.png",
-      "localizedDescription" : "Communications portal for your organisation",
-      "name" : "Facebook Workplace Chat",
-      "stats" : {
-        "downloadCount" : 18,
-        "impressionCount" : 471
-      },
-      "subtitle" : "Communications portal for your organisation",
-      "tintColor" : "A79CDB",
-      "version" : "155.0.0.52.218",
-      "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tomighty",
       "categories" : [
         "public.app-category.productivity"
@@ -6224,27 +6142,6 @@
       "subtitle" : "Cloud-based music creation and collaboration platform",
       "tintColor" : "D1D1D1",
       "version" : "4.1.2,20220510"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "workspaces",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://www.apptorium.com/public/products/workspaces/releases/Workspaces-2.1.zip",
-      "homepage" : "https://www.apptorium.com/workspaces",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-workspaces/AppIcon.png",
-      "localizedDescription" : "Workspace organizing app",
-      "name" : "Workspaces",
-      "sha256" : "ab2a6fd15c37e78c1571cf5fe0d2ce8d4bdb4cf05c44e3bd876ee098dfcf5497",
-      "stats" : {
-        "downloadCount" : 10,
-        "impressionCount" : 255
-      },
-      "subtitle" : "Workspace organizing app",
-      "tintColor" : "AA54C2",
-      "version" : "2.1",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8202,26 +8099,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "transocks",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://download.chuansuo.io/transocks/download/mac/3.0.9/Transocks_official_v3.0.9.dmg",
-      "homepage" : "https://www.transocks.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-transocks/AppIcon.png",
-      "localizedDescription" : "Tool to optimize access to various video music resources",
-      "name" : "Transocks",
-      "sha256" : "cfdcdf99b84b659f08ca4debbaf0c3d31126201acc753ebd6461abfdbdd04fc1",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 224
-      },
-      "subtitle" : "Tool to optimize access to various video music resources",
-      "tintColor" : "1C3B36",
-      "version" : "3.0.9,872"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "trackerzapper",
       "categories" : [
         "public.app-category.utilities"
@@ -8239,6 +8116,26 @@
       "subtitle" : "Menubar app to remove link tracking parameters automatically",
       "tintColor" : "8E7D23",
       "version" : "1.2.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "transocks",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://download.chuansuo.io/transocks/download/mac/3.0.9/Transocks_official_v3.0.9.dmg",
+      "homepage" : "https://www.transocks.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-transocks/AppIcon.png",
+      "localizedDescription" : "Tool to optimize access to various video music resources",
+      "name" : "Transocks",
+      "sha256" : "cfdcdf99b84b659f08ca4debbaf0c3d31126201acc753ebd6461abfdbdd04fc1",
+      "stats" : {
+        "downloadCount" : 4,
+        "impressionCount" : 224
+      },
+      "subtitle" : "Tool to optimize access to various video music resources",
+      "tintColor" : "1C3B36",
+      "version" : "3.0.9,872"
     },
     {
       "beta" : false,
@@ -10391,26 +10288,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "tuneinstructor",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://www.tune-instructor.de/resources/downloads/TuneInstructor3.7v5.zip",
-      "homepage" : "https://www.tune-instructor.de/com/start.html",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tuneinstructor/AppIcon.png",
-      "localizedDescription" : "Menu bar control for Apple Music",
-      "name" : "Tune•Instructor",
-      "sha256" : "bbd0255f809da259b6c4a9d7f7fc27de2bceb5dc7caca32adc61769d9d98f9de",
-      "stats" : {
-        "downloadCount" : 0,
-        "impressionCount" : 418
-      },
-      "subtitle" : "Menu bar control for Apple Music",
-      "tintColor" : "D7AEAF",
-      "version" : "3.7v5"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "trash-it",
       "categories" : [
         "public.app-category.utilities"
@@ -11692,64 +11569,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "wormhole",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://files.octopusgame.com/os/WormholeInstaller.dmg",
-      "homepage" : "https://er.run/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wormhole/AppIcon.png",
-      "localizedDescription" : "Browse & Control phone on PC, Screen Fusion for iOS & Android",
-      "name" : "Wormhole",
-      "stats" : {
-        "downloadCount" : 102,
-        "impressionCount" : 74
-      },
-      "subtitle" : "Browse & Control phone on PC, Screen Fusion for iOS & Android",
-      "tintColor" : "25413E",
-      "version" : "1.6.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tunnelbear",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://s3.amazonaws.com/tunnelbear/downloads/mac/TunnelBear.zip",
-      "homepage" : "https://www.tunnelbear.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tunnelbear/AppIcon.png",
-      "localizedDescription" : "VPN client for secure internet access and private browsing",
-      "name" : "TunnelBear",
-      "stats" : {
-        "downloadCount" : 102,
-        "impressionCount" : 67
-      },
-      "subtitle" : "VPN client for secure internet access and private browsing",
-      "tintColor" : "D49B36",
-      "version" : "4.1.8,1629989300"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "turbovnc-viewer",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://downloads.sourceforge.net/turbovnc/3.0.1/TurboVNC-3.0.1-x86_64.dmg",
-      "homepage" : "https://www.turbovnc.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-turbovnc-viewer/AppIcon.png",
-      "localizedDescription" : "Remote display system",
-      "name" : "TurboVNC",
-      "sha256" : "0b9f083d753dc65c0a023d8d9c6c95da997184645ea216b60a8e1db72f8baccb",
-      "stats" : {
-        "downloadCount" : 79,
-        "impressionCount" : 81
-      },
-      "subtitle" : "Remote display system",
-      "tintColor" : "BAB7B8",
-      "version" : "3.0.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "wechatwebdevtools",
       "categories" : [
 
@@ -12674,26 +12493,6 @@
       "tintColor" : "CC8BDD",
       "version" : "4.12.2,21680",
       "versionDate" : "2022-11-01T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tunein",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://cdn-desktop.tunein.com/release/TuneIn-1.25.0.dmg",
-      "homepage" : "https://tunein.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tunein/AppIcon.png",
-      "localizedDescription" : "Free Internet Radio",
-      "name" : "TuneIn",
-      "sha256" : "3c888a1aea2f2ff948021fd1dba827fe5d886f6c3cc513c46f4f1d13f462fa77",
-      "stats" : {
-        "downloadCount" : 26,
-        "impressionCount" : 66
-      },
-      "subtitle" : "Free Internet Radio",
-      "tintColor" : "173142",
-      "version" : "1.25.0"
     },
     {
       "beta" : false,
@@ -14745,23 +14544,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "wowmatrix",
-      "categories" : [
-
-      ],
-      "downloadURL" : "http://swupdate.wowmatrix.com/mac/WowMatrix.zip",
-      "homepage" : "https://www.wowmatrix.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wowmatrix/AppIcon.png",
-      "name" : "WowMatrix",
-      "stats" : {
-        "downloadCount" : 2,
-        "impressionCount" : 93
-      },
-      "tintColor" : "438F71",
-      "version" : "8.0.2.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "window-switch",
       "categories" : [
 
@@ -14836,23 +14618,6 @@
       "subtitle" : "Software to test performance and stability for PC hardware",
       "tintColor" : "765B42",
       "version" : "1.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tuneskit-m4v-converter",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.tuneskit.com/TunesKitforMac.dmg",
-      "homepage" : "https://www.tuneskit.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tuneskit-m4v-converter/AppIcon.png",
-      "name" : "TunesKit M4V Converter",
-      "stats" : {
-        "downloadCount" : 2,
-        "impressionCount" : 92
-      },
-      "tintColor" : "CE9664",
-      "version" : "5.1.0.25"
     },
     {
       "beta" : false,
@@ -15127,26 +14892,6 @@
       "subtitle" : "2D motocross platform game",
       "tintColor" : "673F2E",
       "version" : "0.6.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tuck",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.irradiatedsoftware.com/downloads/Tuck_1.0.zip",
-      "homepage" : "https://www.irradiatedsoftware.com/tuck/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tuck/AppIcon.png",
-      "localizedDescription" : "Window manager",
-      "name" : "Tuck",
-      "sha256" : "7e7822e3a7d7eb932f58e770aee31f778164784e151dbc36ab997be4107804ed",
-      "stats" : {
-        "downloadCount" : 0,
-        "impressionCount" : 94
-      },
-      "subtitle" : "Window manager",
-      "tintColor" : "9EB2BF",
-      "version" : "1.0,21"
     },
     {
       "beta" : false,
@@ -16382,6 +16127,20 @@
       },
       "subtitle" : "Audio utility",
       "version" : "0.4.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tunnelblick",
+      "downloadURL" : "https://github.com/Tunnelblick/Tunnelblick/releases/download/v3.8.7a/Tunnelblick_3.8.7a_build_5770.dmg",
+      "homepage" : "https://www.tunnelblick.net/",
+      "localizedDescription" : "Free and open-source OpenVPN client",
+      "name" : "Tunnelblick",
+      "sha256" : "bb5858619a58561d07d23df470b9548b82c1544cea9ffade30c4362dc8f3bd93",
+      "stats" : {
+        "downloadCount" : 2010
+      },
+      "subtitle" : "Free and open-source OpenVPN client",
+      "version" : "3.8.7a,5770"
     },
     {
       "beta" : false,
@@ -23578,6 +23337,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "tuple",
+      "downloadURL" : "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-0.99.2-2022-10-31-c530ecb34.zip",
+      "homepage" : "https://tuple.app/",
+      "localizedDescription" : "Remote pair programming app",
+      "name" : "Tuple",
+      "sha256" : "30506617b4392d2d99013bdaaf5901ec360c1db4b5c13b9c9bc8badd407c619a",
+      "stats" : {
+        "downloadCount" : 111
+      },
+      "subtitle" : "Remote pair programming app",
+      "version" : "0.99.2,2022-10-31,c530ecb34",
+      "versionDate" : "2022-10-31T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "adrive",
       "downloadURL" : "https://yunpan.aliyun.com/downloads/apps/desktop/aDrive.dmg",
       "homepage" : "https://www.aliyundrive.com/",
@@ -24099,6 +23873,32 @@
       },
       "subtitle" : "JavaScript playground that auto-evaluates as code is typed",
       "version" : "2.7.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tunnelbear",
+      "downloadURL" : "https://s3.amazonaws.com/tunnelbear/downloads/mac/TunnelBear.zip",
+      "homepage" : "https://www.tunnelbear.com/",
+      "localizedDescription" : "VPN client for secure internet access and private browsing",
+      "name" : "TunnelBear",
+      "stats" : {
+        "downloadCount" : 102
+      },
+      "subtitle" : "VPN client for secure internet access and private browsing",
+      "version" : "4.1.8,1629989300"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wormhole",
+      "downloadURL" : "https://files.octopusgame.com/os/WormholeInstaller.dmg",
+      "homepage" : "https://er.run/",
+      "localizedDescription" : "Browse & Control phone on PC, Screen Fusion for iOS & Android",
+      "name" : "Wormhole",
+      "stats" : {
+        "downloadCount" : 102
+      },
+      "subtitle" : "Browse & Control phone on PC, Screen Fusion for iOS & Android",
+      "version" : "1.6.1"
     },
     {
       "beta" : false,
@@ -24834,6 +24634,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "turbo-boost-switcher",
+      "downloadURL" : "https://turbo-boost-switcher.s3.amazonaws.com/Turbo_Boost_Switcher_v2.12.0.dmg",
+      "homepage" : "https://www.rugarciap.com/turbo-boost-switcher-for-os-x/",
+      "localizedDescription" : "Enable and disable the Intel CPU Turbo Boost feature",
+      "name" : "Turbo Boost Switcher",
+      "sha256" : "c93c9d73839dd1b826d5651d0b6a37cde6c9959afd2a6ac9b3bac7a5b780dac8",
+      "stats" : {
+        "downloadCount" : 87
+      },
+      "subtitle" : "Enable and disable the Intel CPU Turbo Boost feature",
+      "version" : "2.12.0",
+      "versionDate" : "2022-10-31T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "zalo",
       "categories" : [
 
@@ -25223,6 +25038,20 @@
       "subtitle" : "Launcher & command palette",
       "version" : "1.1.94",
       "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "turbovnc-viewer",
+      "downloadURL" : "https://downloads.sourceforge.net/turbovnc/3.0.1/TurboVNC-3.0.1-x86_64.dmg",
+      "homepage" : "https://www.turbovnc.org/",
+      "localizedDescription" : "Remote display system",
+      "name" : "TurboVNC",
+      "sha256" : "0b9f083d753dc65c0a023d8d9c6c95da997184645ea216b60a8e1db72f8baccb",
+      "stats" : {
+        "downloadCount" : 79
+      },
+      "subtitle" : "Remote display system",
+      "version" : "3.0.1"
     },
     {
       "beta" : false,
@@ -32940,6 +32769,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "tunein",
+      "downloadURL" : "https://cdn-desktop.tunein.com/release/TuneIn-1.25.0.dmg",
+      "homepage" : "https://tunein.com/",
+      "localizedDescription" : "Free Internet Radio",
+      "name" : "TuneIn",
+      "sha256" : "3c888a1aea2f2ff948021fd1dba827fe5d886f6c3cc513c46f4f1d13f462fa77",
+      "stats" : {
+        "downloadCount" : 25
+      },
+      "subtitle" : "Free Internet Radio",
+      "version" : "1.25.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "terminology",
       "categories" : [
 
@@ -35949,6 +35792,20 @@
       },
       "subtitle" : "Visual novel engine in Python",
       "version" : "8.0.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "workplace-chat",
+      "downloadURL" : "https://www.facebook.com/work/chat/download/mac",
+      "homepage" : "https://www.facebook.com/workplace/chat-app",
+      "localizedDescription" : "Communications portal for your organisation",
+      "name" : "Facebook Workplace Chat",
+      "stats" : {
+        "downloadCount" : 18
+      },
+      "subtitle" : "Communications portal for your organisation",
+      "version" : "155.0.0.52.218",
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42591,18 +42448,18 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "ttscoff-mmd-quicklook",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/ttscoff/MMD-QuickLook/releases/download/1.2/MMD-QuickLook1.2.zip",
-      "homepage" : "https://github.com/ttscoff/mmd-quicklook",
-      "name" : "MMD-QuickLook",
-      "sha256" : "6370fa8d98e627d83fe70e9bc5bd400bd7b6b68257a40bf33bb70df5d12935c1",
+      "bundleIdentifier" : "workspaces",
+      "downloadURL" : "https://www.apptorium.com/public/products/workspaces/releases/Workspaces-2.1.zip",
+      "homepage" : "https://www.apptorium.com/workspaces",
+      "localizedDescription" : "Workspace organizing app",
+      "name" : "Workspaces",
+      "sha256" : "ab2a6fd15c37e78c1571cf5fe0d2ce8d4bdb4cf05c44e3bd876ee098dfcf5497",
       "stats" : {
-        "downloadCount" : 8
+        "downloadCount" : 9
       },
-      "version" : "1.2"
+      "subtitle" : "Workspace organizing app",
+      "version" : "2.1",
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43766,6 +43623,18 @@
       },
       "subtitle" : "Web browser environment to carry out e-assessments safely",
       "version" : "3.1.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "ttscoff-mmd-quicklook",
+      "downloadURL" : "https://github.com/ttscoff/MMD-QuickLook/releases/download/1.2/MMD-QuickLook1.2.zip",
+      "homepage" : "https://github.com/ttscoff/mmd-quicklook",
+      "name" : "MMD-QuickLook",
+      "sha256" : "6370fa8d98e627d83fe70e9bc5bd400bd7b6b68257a40bf33bb70df5d12935c1",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "version" : "1.2"
     },
     {
       "beta" : false,
@@ -56240,6 +56109,17 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "tuneskit-m4v-converter",
+      "downloadURL" : "https://www.tuneskit.com/TunesKitforMac.dmg",
+      "homepage" : "https://www.tuneskit.com/",
+      "name" : "TunesKit M4V Converter",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "version" : "5.1.0.25"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "ved",
       "downloadURL" : "https://tolp.nl/ved/files/download/mac/ved_1.10.1_mac.dmg",
       "homepage" : "https://tolp.nl/ved/",
@@ -56265,6 +56145,17 @@
       },
       "subtitle" : "Live video streaming production tool",
       "version" : "15.1.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wowmatrix",
+      "downloadURL" : "http://swupdate.wowmatrix.com/mac/WowMatrix.zip",
+      "homepage" : "https://www.wowmatrix.com/",
+      "name" : "WowMatrix",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "version" : "8.0.2.0"
     },
     {
       "beta" : false,
@@ -60092,7 +59983,7 @@
       },
       "subtitle" : "French-Chinese dictionary and learning tool",
       "version" : "4.2.6,1078",
-      "versionDate" : "2022-11-03T10:34:11Z"
+      "versionDate" : "2022-11-03T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61812,6 +61703,34 @@
       },
       "subtitle" : "Terminal emulator for connecting to computers which use IBM 3270 terminal",
       "version" : "3.4.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tuck",
+      "downloadURL" : "https://www.irradiatedsoftware.com/downloads/Tuck_1.0.zip",
+      "homepage" : "https://www.irradiatedsoftware.com/tuck/",
+      "localizedDescription" : "Window manager",
+      "name" : "Tuck",
+      "sha256" : "7e7822e3a7d7eb932f58e770aee31f778164784e151dbc36ab997be4107804ed",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "subtitle" : "Window manager",
+      "version" : "1.0,21"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tuneinstructor",
+      "downloadURL" : "https://www.tune-instructor.de/resources/downloads/TuneInstructor3.7v5.zip",
+      "homepage" : "https://www.tune-instructor.de/com/start.html",
+      "localizedDescription" : "Menu bar control for Apple Music",
+      "name" : "Tune•Instructor",
+      "sha256" : "bbd0255f809da259b6c4a9d7f7fc27de2bceb5dc7caca32adc61769d9d98f9de",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "subtitle" : "Menu bar control for Apple Music",
+      "version" : "3.7v5"
     },
     {
       "beta" : false,

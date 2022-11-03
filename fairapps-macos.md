@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `461` | `2022-10-20T00:00:00Z` | `12 MB` | `289` | `44` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `469` | `2022-10-20T00:00:00Z` | `12 MB` | `289` | `44` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `108` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1127` | `82` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `61` | `2022-09-26T00:00:00Z` | `2.4 MB` | `866` | `95` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `61` | `2022-10-30T00:00:00Z` | `5 MB` | `0` | `0` | `0` | `0` |  |
@@ -32,7 +32,7 @@ tr:nth-child(even) {
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1407` | `117` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1204` | `103` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `26` | `2022-09-23T00:00:00Z` | `3.2 MB` | `12` | `2` | `0` | `0` |  |
-| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1232` | `86` | `0` | `0` |  |
+| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1233` | `86` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4234` | `297` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `4497` | `652` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1142` | `98` | `0` | `0` |  |

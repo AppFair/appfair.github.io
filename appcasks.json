@@ -1068,7 +1068,7 @@
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
       "version" : "1.0.186",
-      "versionDate" : "2022-11-04T18:38:07Z"
+      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25413,7 +25413,7 @@
       },
       "subtitle" : "Plain-text file notepad and todo-list manager",
       "version" : "22.11.3",
-      "versionDate" : "2022-11-04T18:38:07Z"
+      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,

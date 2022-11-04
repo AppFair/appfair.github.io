@@ -6745,6 +6745,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "zy-player",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://github.com/Hunlongyu/ZY-Player/releases/download/v2.8.8/ZY-Player-2.8.8.dmg",
+      "homepage" : "https://github.com/Hunlongyu/ZY-Player",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zy-player/AppIcon.png",
+      "localizedDescription" : "Video resource player",
+      "name" : "ZY Player",
+      "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
+      "stats" : {
+        "downloadCount" : 8,
+        "impressionCount" : 653
+      },
+      "subtitle" : "Video resource player",
+      "tintColor" : "C4F09A",
+      "version" : "2.8.8"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "zeebe-modeler",
       "categories" : [
         "public.app-category.developer-tools"
@@ -7284,26 +7304,6 @@
       },
       "tintColor" : "37B895",
       "version" : "1.1.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "zy-player",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://github.com/Hunlongyu/ZY-Player/releases/download/v2.8.8/ZY-Player-2.8.8.dmg",
-      "homepage" : "https://github.com/Hunlongyu/ZY-Player",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zy-player/AppIcon.png",
-      "localizedDescription" : "Video resource player",
-      "name" : "ZY Player",
-      "sha256" : "c00d2315d564f800fbb6d67fb3e3620276cfc0669737b20fdbc54d39b87596ab",
-      "stats" : {
-        "downloadCount" : 6,
-        "impressionCount" : 653
-      },
-      "subtitle" : "Video resource player",
-      "tintColor" : "C4F09A",
-      "version" : "2.8.8"
     },
     {
       "beta" : false,
@@ -37427,7 +37427,7 @@
       },
       "subtitle" : "Nintendo DS and DSi emulator",
       "version" : "0.9.5",
-      "versionDate" : "2022-11-04T15:36:25Z"
+      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,

@@ -351,6 +351,7 @@ tr:nth-child(even) {
 | [``SQL Tabs``](https://www.sqltabs.com/) | ``1.1.0`` | `9` |  |  | `273` |  |  | `0` | `public.app-category.developer-tools` |
 | [``SoundCleod``](https://soundcleod.com/) | ``2.0.0`` | `9` |  |  | `228` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Servo``](https://servo.org/) | ``0.0.1`` | `9` |  |  | `179` |  |  | `0` | `public.app-category.utilities` |
+| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `8` |  |  | `653` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Zeebe Modeler``](https://zeebe.io/) | ``0.11.0`` | `8` |  |  | `201` |  |  | `0` | `public.app-category.developer-tools` |
 | [``X-Mirage``](https://www.x-mirage.com/x-mirage/) | ``3.0.2`` | `8` |  |  | `163` |  |  | `0` | `public.app-category.utilities` |
 | [``WordService``](https://www.devontechnologies.com/apps/freeware) | ``2.8.3`` | `8` |  |  | `259` |  |  | `0` | `public.app-category.productivity` |
@@ -379,7 +380,6 @@ tr:nth-child(even) {
 | [``Sim Genie``](https://simgenie.app/) | ``2022.3,292`` | `7` |  |  | `298` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Restart/Sleep/Logout/Shu…``](https://github.com/siong1987/shortcuts/) | ``1.0.1`` | `7` |  |  | `129` |  |  | `0` | `public.app-category.productivity` |
 | [``Shiori``](https://aki-null.net/shiori/) | ``1.1.0`` | `7` |  |  | `188` |  |  | `0` | `public.app-category.utilities` |
-| [``ZY Player``](https://github.com/Hunlongyu/ZY-Player) | ``2.8.8`` | `6` |  |  | `653` |  |  | `0` | `public.app-category.developer-tools` |
 | [``xScope``](https://xscopeapp.com/) | ``4.6,115`` | `6` |  |  | `275` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Xit``](https://github.com/Uncommon/Xit) | ``1.0b16`` | `6` |  |  | `182` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Wasabi Wallet``](https://github.com/zkSNACKs/WalletWasabi/) | ``2.0.2`` | `6` | `2022-10-28T00:00:00Z` |  | `909` |  |  | `0` | `public.app-category.finance` |
@@ -2350,7 +2350,7 @@ tr:nth-child(even) {
 | [``MathType``](http://www.wiris.com/en/mathtype) | ``7.4.4`` | `15` |  |  |  |  |  | `0` |  |
 | [``Mechvibes``](https://mechvibes.com/) | ``2.3.0`` | `15` |  |  |  |  |  | `0` |  |
 | [``Media Converter``](https://media-converter.sourceforge.io/) | ``3.0.1`` | `15` |  |  |  |  |  | `0` |  |
-| [``melonDS``](http://melonds.kuribo64.net/) | ``0.9.5`` | `15` | `2022-11-04T15:36:25Z` |  |  |  |  | `0` |  |
+| [``melonDS``](http://melonds.kuribo64.net/) | ``0.9.5`` | `15` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Mission Control Plus``](https://fadel.io/MissionControlPlus) | ``1.21`` | `15` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``MKS``](https://github.com/x0054/MKS) | ``1.7`` | `15` |  |  |  |  |  | `0` |  |
 | [``Natron``](https://NatronGitHub.github.io/) | ``2.4.3`` | `15` |  |  |  |  |  | `0` |  |

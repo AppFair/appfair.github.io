@@ -58,7 +58,7 @@
       "size" : 11973807,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 486,
+        "downloadCount" : 488,
         "forkCount" : 1,
         "impressionCount" : 300,
         "issueCount" : 7,
@@ -98,7 +98,7 @@
       "size" : 4245117,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 113,
+        "downloadCount" : 115,
         "forkCount" : 0,
         "impressionCount" : 1138,
         "issueCount" : 0,
@@ -132,7 +132,7 @@
       "size" : 2375825,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 66,
+        "downloadCount" : 68,
         "forkCount" : 0,
         "impressionCount" : 877,
         "issueCount" : 0,
@@ -167,11 +167,11 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_02-mac-1228x916.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-mac-1574x1294.png"
       ],
-      "sha256" : "a7fc1cb1e2d4cfa1e20dd77b2260627d207f2472b35c0ef6979a5ea2f4723eea",
+      "sha256" : "f4d042d1dda4a1dc2eb63c650a88182490aa001b3538ea81a0658d3834073ed6",
       "size" : 5023321,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 66,
+        "downloadCount" : 68,
         "forkCount" : 0,
         "impressionCount" : 0,
         "issueCount" : 0,

@@ -928,7 +928,7 @@ tr:nth-child(even) {
 | [``iStats Menus``](https://bjango.com/mac/istatmenus/) | ``6.63`` | `901` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Winbox-mac``](https://github.com/nrlquaker/winbox-mac/) | ``3.37.0`` | `898` |  |  |  |  |  | `0` |  |
 | [``DevToys``](https://github.com/ObuchiYuki/DevToysMac) | ``0.0.11`` | `895` |  |  |  |  |  | `0` |  |
-| [``AlDente``](https://github.com/davidwernhart/AlDente) | ``1.19.2`` | `880` | `2022-11-04T12:59:10Z` |  |  |  |  | `0` |  |
+| [``AlDente``](https://github.com/davidwernhart/AlDente) | ``1.19.2`` | `880` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Clipy``](https://clipy-app.com/) | ``1.2.1`` | `875` |  |  |  |  |  | `0` |  |
 | [``GraphQL Playground``](https://github.com/prisma/graphql-playground) | ``1.8.10`` | `873` |  |  |  |  |  | `0` |  |
 | [``GitKraken``](https://www.gitkraken.com/) | ``8.10.2`` | `869` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |

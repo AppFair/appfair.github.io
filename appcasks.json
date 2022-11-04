@@ -1055,20 +1055,20 @@
       "categories" : [
         "public.app-category.video"
       ],
-      "downloadURL" : "https://github.com/Eugeny/tabby/releases/download/v1.0.185/tabby-1.0.185-macos-x86_64.zip",
+      "downloadURL" : "https://github.com/Eugeny/tabby/releases/download/v1.0.186/tabby-1.0.186-macos-x86_64.zip",
       "homepage" : "https://eugeny.github.io/tabby/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tabby/AppIcon.png",
       "localizedDescription" : "Terminal emulator, SSH and serial client",
       "name" : "Tabby",
-      "sha256" : "6a22bc16e9f95d22d53fb297524ff3b8cf7c6a2c0eb10ff8bbed99a16cba650a",
+      "sha256" : "a9d295c5646064813f267aed9bf4b1278fbd93ac5bc26f141784172202dc0b95",
       "stats" : {
         "downloadCount" : 778,
         "impressionCount" : 1214
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
-      "version" : "1.0.185",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.0.186",
+      "versionDate" : "2022-11-04T18:38:07Z"
     },
     {
       "beta" : false,
@@ -25403,17 +25403,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "qownnotes",
-      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.11.2/QOwnNotes.dmg",
+      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.11.3/QOwnNotes.dmg",
       "homepage" : "https://www.qownnotes.org/",
       "localizedDescription" : "Plain-text file notepad and todo-list manager",
       "name" : "QOwnNotes",
-      "sha256" : "c1c3b2ee604386be1d1be37a2798749b41f17ce4c6bea6af4c2081f9454aa200",
+      "sha256" : "00850caf9101da983139b1bdc14ed5cea325c865fb4aa1862f8833040ac820f7",
       "stats" : {
         "downloadCount" : 77
       },
       "subtitle" : "Plain-text file notepad and todo-list manager",
-      "version" : "22.11.2",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "22.11.3",
+      "versionDate" : "2022-11-04T18:38:07Z"
     },
     {
       "beta" : false,
@@ -62072,13 +62072,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "beeper",
-      "caption" : "Beeper updated from 3.30.24 to 3.31.14",
-      "date" : "2022-11-02T22:37:13Z",
-      "identifier" : "release-beeper-3.31.14",
-      "title" : "New Release: Beeper 3.31.14"
-    },
-    {
       "appID" : "nucleo",
       "caption" : "Nucleo updated from 3.2.1 to 3.2.2",
       "date" : "2022-11-02T22:37:14Z",
@@ -62534,13 +62527,6 @@
       "title" : "New Release: Sol 1.1.96"
     },
     {
-      "appID" : "qownnotes",
-      "caption" : "QOwnNotes updated from 22.11.1 to 22.11.2",
-      "date" : "2022-11-04T04:12:24Z",
-      "identifier" : "release-qownnotes-22.11.2",
-      "title" : "New Release: QOwnNotes 22.11.2"
-    },
-    {
       "appID" : "one-switch",
       "caption" : "One Switch updated from 1.27,374 to 1.28,380",
       "date" : "2022-11-04T04:12:24Z",
@@ -62770,6 +62756,20 @@
       "date" : "2022-11-04T15:36:26Z",
       "identifier" : "release-melonds-0.9.5",
       "title" : "New Release: melonDS 0.9.5"
+    },
+    {
+      "appID" : "tabby",
+      "caption" : "Tabby updated from 1.0.185 to 1.0.186",
+      "date" : "2022-11-04T18:38:08Z",
+      "identifier" : "release-tabby-1.0.186",
+      "title" : "New Release: Tabby 1.0.186"
+    },
+    {
+      "appID" : "qownnotes",
+      "caption" : "QOwnNotes updated from 22.11.2 to 22.11.3",
+      "date" : "2022-11-04T18:38:08Z",
+      "identifier" : "release-qownnotes-22.11.3",
+      "title" : "New Release: QOwnNotes 22.11.3"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

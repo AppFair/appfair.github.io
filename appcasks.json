@@ -223,7 +223,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 133,
-        "impressionCount" : 4286,
+        "impressionCount" : 4288,
         "viewCount" : 365
       },
       "subtitle" : "File synchronizer",
@@ -1884,20 +1884,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2022/10/silentknight202.zip",
+      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2022/11/silentknight203.zip",
       "homepage" : "https://eclecticlight.co/lockrattler-systhist/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silentknight/AppIcon.png",
       "localizedDescription" : "Automatically checks computer's security",
       "name" : "SilentKnight",
-      "sha256" : "bd9d6cc175cdf86971a1a1bd39051fa82299ae79c6eee502b9125326649b4d04",
+      "sha256" : "44cbf2a45c76bc9a4e6ad3b496de030a75a58edb787e2c3c3270137b5a21c542",
       "stats" : {
         "downloadCount" : 147,
         "impressionCount" : 976
       },
       "subtitle" : "Automatically checks computer's security",
       "tintColor" : "618BA5",
-      "version" : "2.02,2022.10",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "2.03,2022.11",
+      "versionDate" : "2022-11-05T04:01:57Z"
     },
     {
       "beta" : false,
@@ -19831,17 +19831,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "netron",
-      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v6.1.3/Netron-6.1.3-mac.zip",
+      "downloadURL" : "https://github.com/lutzroeder/netron/releases/download/v6.1.4/Netron-6.1.4-mac.zip",
       "homepage" : "https://github.com/lutzroeder/netron",
       "localizedDescription" : "Visualizer for neural network, deep learning, and machine learning models",
       "name" : "Netron",
-      "sha256" : "f6dbd808dd0a10a1f00c298987dd4d6ce67da794c089f885fba710e7b4ca96b9",
+      "sha256" : "3859424df9dcb68485fd84193af83d534f24ba4243f52c0b70a0be06d9e21115",
       "stats" : {
         "downloadCount" : 301
       },
       "subtitle" : "Visualizer for neural network, deep learning, and machine learning models",
-      "version" : "6.1.3",
-      "versionDate" : "2022-10-29T00:00:00Z"
+      "version" : "6.1.4",
+      "versionDate" : "2022-11-05T04:01:57Z"
     },
     {
       "beta" : false,
@@ -29704,7 +29704,7 @@
       },
       "subtitle" : "Pap.er, 4K 5K HD Wallpaper Application",
       "version" : "5.1.3",
-      "versionDate" : "2022-11-05T02:17:51Z"
+      "versionDate" : "2022-11-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62080,20 +62080,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "microsoft-teams",
-      "caption" : "Microsoft Teams updated from 1.5.00.26358 to 1.5.00.28558",
-      "date" : "2022-11-04T02:29:14Z",
-      "identifier" : "release-microsoft-teams-1.5.00.28558",
-      "title" : "New Release: Microsoft Teams 1.5.00.28558"
-    },
-    {
-      "appID" : "clickshare",
-      "caption" : "ClickShare 4.25.0.15 released",
-      "date" : "2022-11-04T02:29:14Z",
-      "identifier" : "release-clickshare-4.25.0.15",
-      "title" : "New Release: ClickShare 4.25.0.15"
-    },
-    {
       "appID" : "tuple",
       "caption" : "Tuple updated from 0.99.2,2022-10-31,c530ecb34 to 0.99.3,2022-11-03,18adf0001",
       "date" : "2022-11-04T04:12:19Z",
@@ -62778,6 +62764,20 @@
       "date" : "2022-11-05T02:17:52Z",
       "identifier" : "release-paper-5.1.3",
       "title" : "New Release: pap.er 5.1.3"
+    },
+    {
+      "appID" : "silentknight",
+      "caption" : "SilentKnight updated from 2.02,2022.10 to 2.03,2022.11",
+      "date" : "2022-11-05T04:01:58Z",
+      "identifier" : "release-silentknight-2.03,2022.11",
+      "title" : "New Release: SilentKnight 2.03,2022.11"
+    },
+    {
+      "appID" : "netron",
+      "caption" : "Netron updated from 6.1.3 to 6.1.4",
+      "date" : "2022-11-05T04:01:59Z",
+      "identifier" : "release-netron-6.1.4",
+      "title" : "New Release: Netron 6.1.4"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -30,7 +30,7 @@ tr:nth-child(even) {
 | [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2624` |  |  | `7748` | `473` |  | `0` | `public.app-category.games` |
 | [``Tower``](https://www.git-tower.com/) | ``9.0,342,26634c15`` | `227` |  |  | `6060` | `486` |  | `0` | `public.app-category.developer-tools` |
 | [``YouTube Music``](https://github.com/steve228uk/YouTube-Music) | ``1.3.3`` | `211` |  |  | `5222` | `382` |  | `0` | `public.app-category.music` |
-| [``Unison``](https://www.cis.upenn.edu/~bcpierce/unison/) | ``2.52.1,4.14.0`` | `133` |  |  | `4286` | `365` |  | `0` | `public.app-category.utilities` |
+| [``Unison``](https://www.cis.upenn.edu/~bcpierce/unison/) | ``2.52.1,4.14.0`` | `133` |  |  | `4288` | `365` |  | `0` | `public.app-category.utilities` |
 | [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `6` | `2022-10-18T00:00:00Z` |  | `4357` | `346` |  | `0` | `public.app-category.developer-tools` |
 | [``Slack``](https://slack.com/) | ``4.29.144`` | `8193` | `2022-10-28T00:00:00Z` |  | `3858` | `276` |  | `0` | `public.app-category.business` |
 | [``Sublime Text``](https://www.sublimetext.com/) | ``4126`` | `5869` |  |  | `2692` | `138` |  | `0` | `public.app-category.productivity` |
@@ -108,7 +108,7 @@ tr:nth-child(even) {
 | [``TG Pro``](https://www.tunabellysoftware.com/tgpro/) | ``2.73,13643`` | `162` | `2022-10-28T00:00:00Z` |  | `699` |  |  | `0` | `public.app-category.utilities` |
 | [``Snagit``](https://www.techsmith.com/screen-capture.html) | ``2023.0.2`` | `155` | `2022-11-04T00:00:00Z` |  | `614` |  |  | `0` | `public.app-category.productivity` |
 | [``Spark``](https://www.shadowlab.org/softwares/spark.php) | ``3.3.2,501`` | `147` |  |  | `556` |  |  | `0` | `public.app-category.utilities` |
-| [``SilentKnight``](https://eclecticlight.co/lockrattler-systhist/) | ``2.02,2022.10`` | `147` | `2022-10-31T00:00:00Z` |  | `976` |  |  | `0` | `public.app-category.utilities` |
+| [``SilentKnight``](https://eclecticlight.co/lockrattler-systhist/) | ``2.03,2022.11`` | `147` | `2022-11-05T04:01:57Z` |  | `976` |  |  | `0` | `public.app-category.utilities` |
 | [``WPS Office``](https://www.wps.com/mac/) | ``3.2.0,6370`` | `144` |  |  | `568` |  |  | `0` | `public.app-category.productivity` |
 | [``Surfshark``](https://surfshark.com/) | ``4.4.1,1303`` | `143` | `2022-10-18T00:00:00Z` |  | `687` |  |  | `0` | `public.app-category.productivity` |
 | [``TradingView Desktop``](https://www.tradingview.com/desktop/) | ``1.0.17`` | `140` | `2022-10-28T00:00:00Z` |  | `1064` |  |  | `0` | `public.app-category.finance` |
@@ -1102,7 +1102,7 @@ tr:nth-child(even) {
 | [``OpenSC``](https://github.com/OpenSC/OpenSC/wiki) | ``0.22.0`` | `308` |  |  |  |  |  | `0` |  |
 | [``Medis``](https://getmedis.com/) | ``2.9.2`` | `307` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GrandPerspective``](https://grandperspectiv.sourceforge.io/) | ``3.0.0`` | `302` |  |  |  |  |  | `0` |  |
-| [``Netron``](https://github.com/lutzroeder/netron) | ``6.1.3`` | `301` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Netron``](https://github.com/lutzroeder/netron) | ``6.1.4`` | `301` | `2022-11-05T04:01:57Z` |  |  |  |  | `0` |  |
 | [``OpenEmu``](https://openemu.org/) | ``2.3.3`` | `301` |  |  |  |  |  | `0` |  |
 | [``Arduino IDE``](https://www.arduino.cc/en/software) | ``2.0.1`` | `297` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``BlueStacks``](https://www.bluestacks.com/) | ``4.270.1.2803,c610c2d26a7…`` | `296` |  |  |  |  |  | `0` |  |
@@ -1797,7 +1797,7 @@ tr:nth-child(even) {
 | [``Lagrange``](https://gmi.skyjake.fi/lagrange/) | ``1.13.8`` | `39` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
 | [``MJML``](https://mjmlio.github.io/mjml-app/) | ``3.0.4`` | `39` |  |  |  |  |  | `0` |  |
 | [``nvALT``](https://brettterpstra.com/projects/nvalt/) | ``2.2.8,128`` | `39` |  |  |  |  |  | `0` |  |
-| [``pap.er``](https://paper.photos/) | ``5.1.3`` | `39` | `2022-11-05T02:17:51Z` |  |  |  |  | `0` |  |
+| [``pap.er``](https://paper.photos/) | ``5.1.3`` | `39` | `2022-11-05T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ClamXAV``](https://www.clamxav.com/) | ``3.5,9386`` | `38` |  |  |  |  |  | `0` |  |
 | [``Deskreen``](https://deskreen.com/) | ``2.0.3`` | `38` |  |  |  |  |  | `0` |  |
 | [``iZip``](https://www.izip.com/) | ``4.2.23`` | `38` |  |  |  |  |  | `0` |  |

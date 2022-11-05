@@ -77,7 +77,7 @@ tr:nth-child(even) {
 | [``Scroll Reverser``](https://pilotmoon.com/scrollreverser/) | ``1.8.2,10505`` | `482` |  |  | `788` |  |  | `0` | `public.app-category.utilities` |
 | [``Transmit``](https://panic.com/transmit/) | ``5.9.0`` | `475` | `2022-10-31T00:00:00Z` |  | `1301` |  |  | `0` | `public.app-category.productivity` |
 | [``Syntax Highlight``](https://github.com/sbarex/SourceCodeSyntaxHighlight) | ``2.1.15`` | `454` |  |  | `780` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Lapce``](https://lapce.dev/) | ``0.2.1`` | `452` |  |  | `738` |  |  | `0` | `public.app-category.utilities` |
+| [``Lapce``](https://lapce.dev/) | ``0.2.2`` | `452` | `2022-11-05T15:31:33Z` |  | `738` |  |  | `0` | `public.app-category.utilities` |
 | [``Sketch``](https://www.sketch.com/) | ``94,156491`` | `443` | `2022-10-28T00:00:00Z` |  | `1439` |  |  | `0` | `public.app-category.graphics-design` |
 | [``Todoist``](https://todoist.com/home) | ``8.1.0`` | `423` |  |  | `725` |  |  | `0` | `public.app-category.productivity` |
 | [``Unity Hub``](https://unity3d.com/get-unity/download) | ``3.3.0`` | `412` |  |  | `725` |  |  | `0` | `public.app-category.developer-tools` |
@@ -1420,7 +1420,7 @@ tr:nth-child(even) {
 | [``Real VNC Server``](https://www.realvnc.com/) | ``6.11.0`` | `97` |  |  |  |  |  | `0` |  |
 | [``Pocket Casts``](https://play.pocketcasts.com/) | ``1.5.1,45`` | `97` |  |  |  |  |  | `0` |  |
 | [``FutureRestore GUI``](https://github.com/CoocooFroggy/FutureRestore-GUI/) | ``1.98.2`` | `96` |  |  |  |  |  | `0` |  |
-| [``Hackintool``](https://github.com/headkaze/Hackintool) | ``3.8.7`` | `96` |  |  |  |  |  | `0` |  |
+| [``Hackintool``](https://github.com/headkaze/Hackintool) | ``3.8.9`` | `96` | `2022-11-05T15:31:33Z` |  |  |  |  | `0` |  |
 | [``IPFS Desktop``](https://github.com/ipfs/ipfs-desktop) | ``0.24.0`` | `96` |  |  |  |  |  | `0` |  |
 | [``Malwarebytes for Mac``](https://www.malwarebytes.com/mac/) | ``4.16.7.4745`` | `96` |  |  |  |  |  | `0` |  |
 | [``My TouchBar. My rules``](https://github.com/Toxblh/MTMR) | ``0.27.0`` | `96` |  |  |  |  |  | `0` |  |
@@ -2222,7 +2222,7 @@ tr:nth-child(even) {
 | [``Anka Virtualization``](https://veertu.com/) | ``2.5.7.148`` | `18` |  |  |  |  |  | `0` |  |
 | [``Araxis Merge``](https://www.araxis.com/merge/) | ``2022.5809`` | `18` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Baidu Input``](https://srf.baidu.com/input/mac.html) | ``latest`` | `18` |  |  |  |  |  | `0` |  |
-| [``Binocs``](https://binocs.sh/) | ``0.7.3`` | `18` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Binocs``](https://binocs.sh/) | ``0.7.4`` | `18` | `2022-11-05T15:31:33Z` |  |  |  |  | `0` |  |
 | [``Studio``](https://www.bricklink.com/v3/studio/download.page) | ``2.22.10_1`` | `18` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Chatterino``](https://chatterino.com/) | ``2.3.5`` | `18` |  |  |  |  |  | `0` |  |
 | [``Cursorcerer``](http://doomlaser.com/cursorcerer-hide-your-cursor-at-will/) | ``latest`` | `18` |  |  |  |  |  | `0` |  |

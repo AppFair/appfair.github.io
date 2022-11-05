@@ -1260,19 +1260,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/lapce/lapce/releases/download/v0.2.1/Lapce-macos.dmg",
+      "downloadURL" : "https://github.com/lapce/lapce/releases/download/v0.2.2/Lapce-macos.dmg",
       "homepage" : "https://lapce.dev/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-lapce/AppIcon.png",
       "localizedDescription" : "Open source code editor written in Rust",
       "name" : "Lapce",
-      "sha256" : "c93649a3c8e7e9e35867fa6523b7b45bc5c36f4d56465a752d8de53a7e9f846c",
+      "sha256" : "c0ad99dff1b338818d38c415eaa1908c50fc59c41856014ace4d69e44463a9cc",
       "stats" : {
         "downloadCount" : 452,
         "impressionCount" : 738
       },
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
-      "version" : "0.2.1"
+      "version" : "0.2.2",
+      "versionDate" : "2022-11-05T15:31:33Z"
     },
     {
       "beta" : false,
@@ -24403,16 +24404,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "hackintool",
-      "downloadURL" : "https://github.com/headkaze/Hackintool/releases/download/3.8.7/Hackintool.zip",
+      "downloadURL" : "https://github.com/headkaze/Hackintool/releases/download/3.8.9/Hackintool.zip",
       "homepage" : "https://github.com/headkaze/Hackintool",
       "localizedDescription" : "Hackintosh patching tool",
       "name" : "Hackintool",
-      "sha256" : "4b51ae15bd82ac04dd0e3a94c15310d52c1a2153cb8be8a872ed5f9967052110",
+      "sha256" : "21906d4fc7686c77bc1725cdf8d711f84007d6ae43bf34e19d0e43cfe23ad792",
       "stats" : {
         "downloadCount" : 96
       },
       "subtitle" : "Hackintosh patching tool",
-      "version" : "3.8.7"
+      "version" : "3.8.9",
+      "versionDate" : "2022-11-05T15:31:33Z"
     },
     {
       "beta" : false,
@@ -35665,17 +35667,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "binocs",
-      "downloadURL" : "https://download.binocs.sh/binocs_0.7.3_darwin_amd64.gz",
+      "downloadURL" : "https://download.binocs.sh/binocs_0.7.4_darwin_amd64.gz",
       "homepage" : "https://binocs.sh/",
       "localizedDescription" : "CLI-first uptime and performance monitoring tool for websites, apps and APIs",
       "name" : "Binocs",
-      "sha256" : "ae61a9793f852eef713f4084b2f246941ec03ba5c4ae8809992d45816bd1e3c0",
+      "sha256" : "5795d10fe5e6247e6875ec2b064d963079116719709c4f03c5ccd4fd9b6f22b0",
       "stats" : {
         "downloadCount" : 18
       },
       "subtitle" : "CLI-first uptime and performance monitoring tool for websites, apps and APIs",
-      "version" : "0.7.3",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "0.7.4",
+      "versionDate" : "2022-11-05T15:31:33Z"
     },
     {
       "beta" : false,
@@ -62081,27 +62083,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "opera",
-      "caption" : "Opera updated from 92.0.4561.33 to 92.0.4561.43",
-      "date" : "2022-11-04T04:12:21Z",
-      "identifier" : "release-opera-92.0.4561.43",
-      "title" : "New Release: Opera 92.0.4561.43"
-    },
-    {
-      "appID" : "krita",
-      "caption" : "Krita updated from 5.1.1 to 5.1.2",
-      "date" : "2022-11-04T04:12:22Z",
-      "identifier" : "release-krita-5.1.2",
-      "title" : "New Release: Krita 5.1.2"
-    },
-    {
-      "appID" : "webex-meetings",
-      "caption" : "Webex Meetings updated from 2210.2022.4211.2 to 2210.2700.4211.3",
-      "date" : "2022-11-04T04:12:22Z",
-      "identifier" : "release-webex-meetings-2210.2700.4211.3",
-      "title" : "New Release: Webex Meetings 2210.2700.4211.3"
-    },
-    {
       "appID" : "arc",
       "caption" : "Arc updated from 0.74.1,35450 to 0.75.0,35563",
       "date" : "2022-11-04T04:12:22Z",
@@ -62779,6 +62760,27 @@
       "date" : "2022-11-05T13:40:29Z",
       "identifier" : "release-fontbase-2.17.17",
       "title" : "New Release: FontBase 2.17.17"
+    },
+    {
+      "appID" : "lapce",
+      "caption" : "Lapce updated from 0.2.1 to 0.2.2",
+      "date" : "2022-11-05T15:31:34Z",
+      "identifier" : "release-lapce-0.2.2",
+      "title" : "New Release: Lapce 0.2.2"
+    },
+    {
+      "appID" : "hackintool",
+      "caption" : "Hackintool updated from 3.8.7 to 3.8.9",
+      "date" : "2022-11-05T15:31:35Z",
+      "identifier" : "release-hackintool-3.8.9",
+      "title" : "New Release: Hackintool 3.8.9"
+    },
+    {
+      "appID" : "binocs",
+      "caption" : "Binocs updated from 0.7.3 to 0.7.4",
+      "date" : "2022-11-05T15:31:35Z",
+      "identifier" : "release-binocs-0.7.4",
+      "title" : "New Release: Binocs 0.7.4"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

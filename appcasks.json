@@ -205,6 +205,33 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "unison",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/bcpierce00/unison/releases/download/v2.52.1/Unison-v2.52.1.ocaml-4.14.0.macos-10.15.app.tar.gz",
+      "homepage" : "https://www.cis.upenn.edu/~bcpierce/unison/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/AppIcon.png",
+      "localizedDescription" : "File synchronizer",
+      "name" : "Unison",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/README.md",
+      "releaseNotesURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unison/RELEASE_NOTES.md",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-unison/screenshot_01-mac-1292x828.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-unison/screenshot_02-mac-1116x496.png"
+      ],
+      "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
+      "stats" : {
+        "downloadCount" : 133,
+        "impressionCount" : 4303,
+        "viewCount" : 365
+      },
+      "subtitle" : "File synchronizer",
+      "tintColor" : "D3872A",
+      "version" : "2.52.1,4.14.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "dropdmg",
       "categories" : [
         "public.app-category.developer-tools"
@@ -1291,6 +1318,25 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "unity-hub",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg",
+      "homepage" : "https://unity3d.com/get-unity/download",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unity-hub/AppIcon.png",
+      "localizedDescription" : "Management tool for Unity",
+      "name" : "Unity Hub",
+      "stats" : {
+        "downloadCount" : 412,
+        "impressionCount" : 728
+      },
+      "subtitle" : "Management tool for Unity",
+      "tintColor" : "A5A5A5",
+      "version" : "3.3.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "stretchly",
       "categories" : [
         "public.app-category.healthcare-fitness"
@@ -2294,6 +2340,26 @@
       "subtitle" : "Customizable timing of breaks",
       "tintColor" : "7BC09F",
       "version" : "2.9.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "uninstallpkg",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://www.corecode.io/downloads/uninstallpkg_1.2.0.zip",
+      "homepage" : "https://www.corecode.io/uninstallpkg/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-uninstallpkg/AppIcon.png",
+      "localizedDescription" : "PKG software package uninstall tool",
+      "name" : "UninstallPKG",
+      "sha256" : "35441d5520cdf0ac35e20c76704a65c97183d3729c49d1012c16a55a7056f70d",
+      "stats" : {
+        "downloadCount" : 92,
+        "impressionCount" : 502
+      },
+      "subtitle" : "PKG software package uninstall tool",
+      "tintColor" : "A28548",
+      "version" : "1.2.0,1516"
     },
     {
       "beta" : false,
@@ -3910,6 +3976,27 @@
       "tintColor" : "4B4D55",
       "version" : "8.1.4.548",
       "versionDate" : "2022-11-03T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "unite",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://bzgdownloads.s3.amazonaws.com/Unite/Unite+4.2.4.zip",
+      "homepage" : "https://bzgapps.com/unite",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unite/AppIcon.png",
+      "localizedDescription" : "Turn websites into apps",
+      "name" : "Unite",
+      "sha256" : "0558f5c08887da648e7797bd27659e2c1b1262d01106b43496ae5876a8b7929e",
+      "stats" : {
+        "downloadCount" : 35,
+        "impressionCount" : 554
+      },
+      "subtitle" : "Turn websites into apps",
+      "tintColor" : "DBCAEF",
+      "version" : "4.2.4",
+      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7579,6 +7666,26 @@
       "subtitle" : "Unlock your computer with your fingerprint",
       "tintColor" : "F1588D",
       "version" : "3.0.4.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "unipro-ugene",
+      "categories" : [
+        "public.app-category.education"
+      ],
+      "downloadURL" : "https://github.com/ugeneunipro/ugene/releases/download/44.0/ugene-44.0-mac-x86-64.dmg",
+      "homepage" : "https://ugene.net/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-unipro-ugene/AppIcon.png",
+      "localizedDescription" : "Free open-source cross-platform bioinformatics software",
+      "name" : "Ugene",
+      "sha256" : "86c0f5726d084ffa9abb6d60f9069f1e6c42cbe1aa04fcb2148f4b54ed96aa7d",
+      "stats" : {
+        "downloadCount" : 5,
+        "impressionCount" : 784
+      },
+      "subtitle" : "Free open-source cross-platform bioinformatics software",
+      "tintColor" : "4C5F67",
+      "version" : "44.0"
     },
     {
       "beta" : false,
@@ -18860,19 +18967,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "unity-hub",
-      "downloadURL" : "https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.dmg",
-      "homepage" : "https://unity3d.com/get-unity/download",
-      "localizedDescription" : "Management tool for Unity",
-      "name" : "Unity Hub",
-      "stats" : {
-        "downloadCount" : 412
-      },
-      "subtitle" : "Management tool for Unity",
-      "version" : "3.3.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "chef-workstation",
       "downloadURL" : "https://packages.chef.io/files/stable/chef-workstation/22.10.1013/mac_os_x/10.15/chef-workstation-22.10.1013-1.x86_64.dmg",
       "homepage" : "https://docs.chef.io/workstation/",
@@ -21706,6 +21800,23 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "unity",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorInstaller/Unity-2022.1.20f1.pkg",
+      "homepage" : "https://unity.com/products",
+      "localizedDescription" : "Platform for 3D content",
+      "name" : "Unity Editor",
+      "sha256" : "f89781eb70af256923da0279b4afc1284b98036e5dcc5bb83c7275b936668983",
+      "stats" : {
+        "downloadCount" : 156
+      },
+      "subtitle" : "Platform for 3D content",
+      "version" : "2022.1.20f1,01d83b40d570"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "adium",
       "downloadURL" : "https://adiumx.cachefly.net/Adium_1.5.10.4.dmg",
       "homepage" : "https://www.adium.im/",
@@ -21746,20 +21857,6 @@
       "subtitle" : "Terminal/ssh/sftp client",
       "version" : "1.23.28",
       "versionDate" : "2022-10-31T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "unity",
-      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorInstaller/Unity-2022.1.20f1.pkg",
-      "homepage" : "https://unity.com/products",
-      "localizedDescription" : "Platform for 3D content",
-      "name" : "Unity Editor",
-      "sha256" : "f89781eb70af256923da0279b4afc1284b98036e5dcc5bb83c7275b936668983",
-      "stats" : {
-        "downloadCount" : 156
-      },
-      "subtitle" : "Platform for 3D content",
-      "version" : "2022.1.20f1,01d83b40d570"
     },
     {
       "beta" : false,
@@ -22024,7 +22121,7 @@
       },
       "subtitle" : "Window snapping tool",
       "version" : "2.7.1,127",
-      "versionDate" : "2022-11-05T18:35:38Z"
+      "versionDate" : "2022-11-05T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22706,20 +22803,6 @@
       "subtitle" : "Scheduling application focusing on organization",
       "version" : "3.14",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "unison",
-      "downloadURL" : "https://github.com/bcpierce00/unison/releases/download/v2.52.1/Unison-v2.52.1.ocaml-4.14.0.macos-10.15.app.tar.gz",
-      "homepage" : "https://www.cis.upenn.edu/~bcpierce/unison/",
-      "localizedDescription" : "File synchronizer",
-      "name" : "Unison",
-      "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
-      "stats" : {
-        "downloadCount" : 128
-      },
-      "subtitle" : "File synchronizer",
-      "version" : "2.52.1,4.14.0"
     },
     {
       "beta" : false,
@@ -24635,20 +24718,6 @@
       },
       "subtitle" : "ODBC administrator",
       "version" : "1.0.22"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "uninstallpkg",
-      "downloadURL" : "https://www.corecode.io/downloads/uninstallpkg_1.2.0.zip",
-      "homepage" : "https://www.corecode.io/uninstallpkg/",
-      "localizedDescription" : "PKG software package uninstall tool",
-      "name" : "UninstallPKG",
-      "sha256" : "35441d5520cdf0ac35e20c76704a65c97183d3729c49d1012c16a55a7056f70d",
-      "stats" : {
-        "downloadCount" : 90
-      },
-      "subtitle" : "PKG software package uninstall tool",
-      "version" : "1.2.0,1516"
     },
     {
       "beta" : false,
@@ -31294,21 +31363,6 @@
       },
       "subtitle" : "Extend some Samsung devices into a desktop-like experience",
       "version" : "20211210154322368"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "unite",
-      "downloadURL" : "https://bzgdownloads.s3.amazonaws.com/Unite/Unite+4.2.4.zip",
-      "homepage" : "https://bzgapps.com/unite",
-      "localizedDescription" : "Turn websites into apps",
-      "name" : "Unite",
-      "sha256" : "0558f5c08887da648e7797bd27659e2c1b1262d01106b43496ae5876a8b7929e",
-      "stats" : {
-        "downloadCount" : 31
-      },
-      "subtitle" : "Turn websites into apps",
-      "version" : "4.2.4",
-      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48747,20 +48801,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "unipro-ugene",
-      "downloadURL" : "https://github.com/ugeneunipro/ugene/releases/download/44.0/ugene-44.0-mac-x86-64.dmg",
-      "homepage" : "https://ugene.net/",
-      "localizedDescription" : "Free open-source cross-platform bioinformatics software",
-      "name" : "Ugene",
-      "sha256" : "86c0f5726d084ffa9abb6d60f9069f1e6c42cbe1aa04fcb2148f4b54ed96aa7d",
-      "stats" : {
-        "downloadCount" : 5
-      },
-      "subtitle" : "Free open-source cross-platform bioinformatics software",
-      "version" : "44.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "yubihsm2-sdk",
       "downloadURL" : "https://developers.yubico.com/YubiHSM2/Releases/yubihsm2-sdk-2022-06-darwin-amd64.pkg",
       "homepage" : "https://developers.yubico.com/YubiHSM2/",
@@ -48841,6 +48881,57 @@
       },
       "subtitle" : "Amiga 500, 1000, 2000 emulator",
       "version" : "2.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "unity-webgl-support-for-editor",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-2022.1.20f1.pkg",
+      "homepage" : "https://unity.com/products",
+      "localizedDescription" : "WebGL target support for Unity",
+      "name" : "Unity WebGL Build Support",
+      "sha256" : "9ced55c12b369f19d135988f8abc7857d2b093d45c8cd35ad778068934cafcdd",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "WebGL target support for Unity",
+      "version" : "2022.1.20f1,01d83b40d570"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "unity-ios-support-for-editor",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-2022.1.20f1.pkg",
+      "homepage" : "https://unity.com/products",
+      "localizedDescription" : "iOS target support for Unity",
+      "name" : "Unity iOS Build Support",
+      "sha256" : "5812a660bd0b2911dee092f786673c13583d4e2c23ed69ba141f7f129d2e49e9",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "iOS target support for Unity",
+      "version" : "2022.1.20f1,01d83b40d570"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "unity-android-support-for-editor",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-2022.1.20f1.pkg",
+      "homepage" : "https://unity.com/products",
+      "localizedDescription" : "Android target support for Unity",
+      "name" : "Unity Android Build Support",
+      "sha256" : "fb2f726ac2886af5fb79aa71663df422234b3e6776585ea833b0c19f768a1893",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Android target support for Unity",
+      "version" : "2022.1.20f1,01d83b40d570"
     },
     {
       "beta" : false,
@@ -51151,48 +51242,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "unity-android-support-for-editor",
-      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-Android-Support-for-Editor-2022.1.20f1.pkg",
-      "homepage" : "https://unity.com/products",
-      "localizedDescription" : "Android target support for Unity",
-      "name" : "Unity Android Build Support",
-      "sha256" : "fb2f726ac2886af5fb79aa71663df422234b3e6776585ea833b0c19f768a1893",
-      "stats" : {
-        "downloadCount" : 4
-      },
-      "subtitle" : "Android target support for Unity",
-      "version" : "2022.1.20f1,01d83b40d570"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "unity-ios-support-for-editor",
-      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-iOS-Support-for-Editor-2022.1.20f1.pkg",
-      "homepage" : "https://unity.com/products",
-      "localizedDescription" : "iOS target support for Unity",
-      "name" : "Unity iOS Build Support",
-      "sha256" : "5812a660bd0b2911dee092f786673c13583d4e2c23ed69ba141f7f129d2e49e9",
-      "stats" : {
-        "downloadCount" : 4
-      },
-      "subtitle" : "iOS target support for Unity",
-      "version" : "2022.1.20f1,01d83b40d570"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "unity-webgl-support-for-editor",
-      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-WebGL-Support-for-Editor-2022.1.20f1.pkg",
-      "homepage" : "https://unity.com/products",
-      "localizedDescription" : "WebGL target support for Unity",
-      "name" : "Unity WebGL Build Support",
-      "sha256" : "9ced55c12b369f19d135988f8abc7857d2b093d45c8cd35ad778068934cafcdd",
-      "stats" : {
-        "downloadCount" : 4
-      },
-      "subtitle" : "WebGL target support for Unity",
-      "version" : "2022.1.20f1,01d83b40d570"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "yousician",
       "downloadURL" : "https://public.yousician.com/Builds/Yousician.dmg",
       "homepage" : "https://yousician.com/",
@@ -51249,6 +51298,23 @@
         "downloadCount" : 3
       },
       "version" : "5.2,1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "unity-windows-support-for-editor",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-2022.1.20f1.pkg",
+      "homepage" : "https://unity.com/products",
+      "localizedDescription" : "Windows (Mono) target support for Unity",
+      "name" : "Unity Windows (Mono) Build Support",
+      "sha256" : "e2fe53566b0cfafe2572b140c1bdad30fd77cb32e24235c37933c008d70091ec",
+      "stats" : {
+        "downloadCount" : 3
+      },
+      "subtitle" : "Windows (Mono) target support for Unity",
+      "version" : "2022.1.20f1,01d83b40d570"
     },
     {
       "beta" : false,
@@ -53711,20 +53777,6 @@
       },
       "subtitle" : "Combined Ukrainian keyboard layout with typographic symbols",
       "version" : "2.0.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "unity-windows-support-for-editor",
-      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorTargetInstaller/UnitySetup-Windows-Mono-Support-for-Editor-2022.1.20f1.pkg",
-      "homepage" : "https://unity.com/products",
-      "localizedDescription" : "Windows (Mono) target support for Unity",
-      "name" : "Unity Windows (Mono) Build Support",
-      "sha256" : "e2fe53566b0cfafe2572b140c1bdad30fd77cb32e24235c37933c008d70091ec",
-      "stats" : {
-        "downloadCount" : 3
-      },
-      "subtitle" : "Windows (Mono) target support for Unity",
-      "version" : "2022.1.20f1,01d83b40d570"
     },
     {
       "beta" : false,

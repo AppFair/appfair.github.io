@@ -457,7 +457,7 @@
       "sha256" : "2c4abf4af51ee95118ef2f121eb015a005385af6b15744c44eaec01911ca29bc",
       "stats" : {
         "downloadCount" : 1837,
-        "impressionCount" : 3668,
+        "impressionCount" : 3670,
         "viewCount" : 178
       },
       "subtitle" : "Web browser focusing on security",
@@ -564,7 +564,7 @@
       "sha256" : "16160a9f5e29426fa3c2083f1fd5962c629db9b28105ad0027faf4b427defe76",
       "stats" : {
         "downloadCount" : 1351,
-        "impressionCount" : 2655,
+        "impressionCount" : 2657,
         "viewCount" : 127
       },
       "subtitle" : "Customizable email client",
@@ -1083,7 +1083,7 @@
       "sha256" : "a9d295c5646064813f267aed9bf4b1278fbd93ac5bc26f141784172202dc0b95",
       "stats" : {
         "downloadCount" : 776,
-        "impressionCount" : 1219
+        "impressionCount" : 1220
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
@@ -1165,7 +1165,7 @@
       "name" : "WeChat for Mac",
       "stats" : {
         "downloadCount" : 622,
-        "impressionCount" : 977
+        "impressionCount" : 979
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
@@ -1812,7 +1812,7 @@
       "sha256" : "8203386574048d4930b0a1f5d1d6e37a2a904fe02d7fa6b011d1f690deb959a0",
       "stats" : {
         "downloadCount" : 165,
-        "impressionCount" : 780
+        "impressionCount" : 781
       },
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
@@ -1854,7 +1854,7 @@
       "sha256" : "9c5de1f94f76cb0b1791e205cab12d8cc2876cee244a824ca0aca73377e21562",
       "stats" : {
         "downloadCount" : 155,
-        "impressionCount" : 617
+        "impressionCount" : 619
       },
       "subtitle" : "Screen capture software",
       "tintColor" : "7BAFD7",
@@ -1892,7 +1892,7 @@
       "sha256" : "44cbf2a45c76bc9a4e6ad3b496de030a75a58edb787e2c3c3270137b5a21c542",
       "stats" : {
         "downloadCount" : 147,
-        "impressionCount" : 980
+        "impressionCount" : 981
       },
       "subtitle" : "Automatically checks computer's security",
       "tintColor" : "618BA5",
@@ -2232,7 +2232,7 @@
       "sha256" : "8350c16bfcaabe8eef252e7c39994d8f7ed2d99c3a1a133f25d3917ae050aabb",
       "stats" : {
         "downloadCount" : 107,
-        "impressionCount" : 610
+        "impressionCount" : 611
       },
       "subtitle" : "Remote pair programming app",
       "tintColor" : "616CBA",
@@ -3102,7 +3102,7 @@
       "sha256" : "d176fa5dcc55dc0369a160b61d0f8a15fe128ce1f995c2825c28a384d07a9aef",
       "stats" : {
         "downloadCount" : 53,
-        "impressionCount" : 510
+        "impressionCount" : 512
       },
       "subtitle" : "Visual editors for data",
       "tintColor" : "9DA5A8",
@@ -3529,6 +3529,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "silicon",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/DigiDNA/Silicon/releases/download/1.0.5/Silicon.app.zip",
+      "homepage" : "https://github.com/DigiDNA/Silicon",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silicon/AppIcon.png",
+      "localizedDescription" : "Identify Intel-only apps",
+      "name" : "Silicon",
+      "sha256" : "f8f6acfdc8378bca0429d52e34d48275c22213617dbe09055798132921c10586",
+      "stats" : {
+        "downloadCount" : 43,
+        "impressionCount" : 932
+      },
+      "subtitle" : "Identify Intel-only apps",
+      "tintColor" : "D3DBDD",
+      "version" : "1.0.5",
+      "versionDate" : "2022-11-04T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "windows95",
       "categories" : [
         "public.app-category.developer-tools"
@@ -3589,27 +3610,6 @@
       "tintColor" : "C03C21",
       "version" : "1.0.10",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "silicon",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/DigiDNA/Silicon/releases/download/1.0.5/Silicon.app.zip",
-      "homepage" : "https://github.com/DigiDNA/Silicon",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silicon/AppIcon.png",
-      "localizedDescription" : "Identify Intel-only apps",
-      "name" : "Silicon",
-      "sha256" : "f8f6acfdc8378bca0429d52e34d48275c22213617dbe09055798132921c10586",
-      "stats" : {
-        "downloadCount" : 42,
-        "impressionCount" : 927
-      },
-      "subtitle" : "Identify Intel-only apps",
-      "tintColor" : "D3DBDD",
-      "version" : "1.0.5",
-      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3990,7 +3990,7 @@
       "sha256" : "0558f5c08887da648e7797bd27659e2c1b1262d01106b43496ae5876a8b7929e",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 548
+        "impressionCount" : 549
       },
       "subtitle" : "Turn websites into apps",
       "tintColor" : "DBCAEF",
@@ -4010,7 +4010,7 @@
       "name" : "Tutanota Desktop",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 408
+        "impressionCount" : 409
       },
       "subtitle" : "Email client",
       "tintColor" : "B76B65",
@@ -4850,7 +4850,7 @@
       "sha256" : "7965f3c2c6038fb24d54d3713c5d7924d486258b0b6e463067ee199eb1188299",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 767
+        "impressionCount" : 769
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
@@ -5987,7 +5987,7 @@
       "name" : "VirtualHereServer",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 280
+        "impressionCount" : 281
       },
       "subtitle" : "Remotely access your connected USB devices over the network",
       "tintColor" : "7C7C7C",
@@ -6165,7 +6165,7 @@
       "sha256" : "93e7f7c38727026d2ab11ac360a014fc89fa4523133cd4cb8493c222622d7d05",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 872
+        "impressionCount" : 873
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
@@ -9050,7 +9050,7 @@
       "sha256" : "eb3617cd2dbb5ab5a6da164e4d892a1fe58ef60937a027e017640a16c5a65aa4",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 258
+        "impressionCount" : 259
       },
       "subtitle" : "Ebook creation software",
       "tintColor" : "B576AD",
@@ -11847,7 +11847,7 @@
       "sha256" : "943a8bea315ab497e5a4f2ebe24ef77ae051a990304d9ab4cceada404d55fb04",
       "stats" : {
         "downloadCount" : 68,
-        "impressionCount" : 68
+        "impressionCount" : 69
       },
       "subtitle" : "Desktop Backup Client for Borg",
       "tintColor" : "8C8783",
@@ -12655,7 +12655,7 @@
       "name" : "Trader Workstation",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 178
+        "impressionCount" : 179
       },
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
@@ -13092,7 +13092,7 @@
       "sha256" : "ddbf3234abf8ab716072af987c903c6f66c3821c81ccc3547d265879c6679e0f",
       "stats" : {
         "downloadCount" : 17,
-        "impressionCount" : 125
+        "impressionCount" : 126
       },
       "subtitle" : "Screen capture tool for remote teams",
       "tintColor" : "FF6C30",
@@ -14760,7 +14760,7 @@
       "sha256" : "ed622a7b867c120982444afecfcea0a9437c5b30a71155c62830d4035a1c2354",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 135
+        "impressionCount" : 136
       },
       "subtitle" : "Free Python IDE designed for students and hobbyists",
       "tintColor" : "8E9193",
@@ -17235,6 +17235,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "shottr",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://shottr.cc/dl/Shottr-1.6.1.dmg",
+      "homepage" : "https://shottr.cc/",
+      "localizedDescription" : "Screenshot measurement and annotation tool",
+      "name" : "Shottr",
+      "sha256" : "dd022de05108a282c83a9d12f7faecaab90d1b4b4646e8b9cadcd5411f1d28b0",
+      "stats" : {
+        "downloadCount" : 925
+      },
+      "subtitle" : "Screenshot measurement and annotation tool",
+      "version" : "1.6.1",
+      "versionDate" : "2022-11-01T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "eclipse-java",
       "downloadURL" : "https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2022-09/R/eclipse-java-2022-09-R-macosx-cocoa-x86_64.dmg&r=1",
       "homepage" : "https://eclipse.org/",
@@ -17246,24 +17264,6 @@
       },
       "subtitle" : "Eclipse IDE for Java developers",
       "version" : "4.25.0,2022-09"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "shottr",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://shottr.cc/dl/Shottr-1.6.1.dmg",
-      "homepage" : "https://shottr.cc/",
-      "localizedDescription" : "Screenshot measurement and annotation tool",
-      "name" : "Shottr",
-      "sha256" : "dd022de05108a282c83a9d12f7faecaab90d1b4b4646e8b9cadcd5411f1d28b0",
-      "stats" : {
-        "downloadCount" : 924
-      },
-      "subtitle" : "Screenshot measurement and annotation tool",
-      "version" : "1.6.1",
-      "versionDate" : "2022-11-01T00:00:00Z"
     },
     {
       "beta" : false,

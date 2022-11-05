@@ -135,7 +135,7 @@
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_03-iphone-750x1334.png",
         "https://github.com/Lottie-Motion/App/releases/download/0.0.97/screenshot_01-iphone-750x1334.png"
       ],
-      "sha256" : "7d18803604f643ae5826cde524f0b6a5cbbc4cc08f0b6360b3392a55fc5873fa",
+      "sha256" : "9513058fefa43f6b42d6fa0447d040e40a4f659932d42cbe9c5a196c55c1cca9",
       "size" : 2735295,
       "stats" : {
         "coreSize" : 168592,
@@ -459,7 +459,7 @@
         "coreSize" : 169056,
         "downloadCount" : 18,
         "forkCount" : 1,
-        "impressionCount" : 316,
+        "impressionCount" : 317,
         "issueCount" : 7,
         "starCount" : 29,
         "viewCount" : 46,

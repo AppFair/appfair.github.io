@@ -1420,7 +1420,7 @@ tr:nth-child(even) {
 | [``Real VNC Server``](https://www.realvnc.com/) | ``6.11.0`` | `97` |  |  |  |  |  | `0` |  |
 | [``Pocket Casts``](https://play.pocketcasts.com/) | ``1.5.1,45`` | `97` |  |  |  |  |  | `0` |  |
 | [``FutureRestore GUI``](https://github.com/CoocooFroggy/FutureRestore-GUI/) | ``1.98.2`` | `96` |  |  |  |  |  | `0` |  |
-| [``Hackintool``](https://github.com/headkaze/Hackintool) | ``3.8.9`` | `96` | `2022-11-05T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Hackintool``](https://github.com/headkaze/Hackintool) | ``3.9.0`` | `96` | `2022-11-05T20:34:42Z` |  |  |  |  | `0` |  |
 | [``IPFS Desktop``](https://github.com/ipfs/ipfs-desktop) | ``0.24.0`` | `96` |  |  |  |  |  | `0` |  |
 | [``Malwarebytes for Mac``](https://www.malwarebytes.com/mac/) | ``4.16.7.4745`` | `96` |  |  |  |  |  | `0` |  |
 | [``My TouchBar. My rules``](https://github.com/Toxblh/MTMR) | ``0.27.0`` | `96` |  |  |  |  |  | `0` |  |
@@ -2253,11 +2253,11 @@ tr:nth-child(even) {
 | [``zprint``](https://github.com/kkinnear/zprint) | ``1.2.4`` | `17` |  |  |  |  |  | `0` |  |
 | [``Sipgate Softphone``](https://www.sipgateteam.de/softphone) | ``1.17.3`` | `17` |  |  |  |  |  | `0` |  |
 | [``Actual ODBC Driver Pack``](https://www.actualtech.com/products.php) | ``latest`` | `17` |  |  |  |  |  | `0` |  |
-| [``Aptakube``](https://aptakube.com/) | ``0.6.1`` | `17` |  |  |  |  |  | `0` |  |
+| [``Aptakube``](https://aptakube.com/) | ``0.7.0`` | `17` | `2022-11-05T20:34:42Z` |  |  |  |  | `0` |  |
 | [``Aviatrix VPN Client``](https://docs.aviatrix.com/Downloads/samlclient.html) | ``2.14.14`` | `17` |  |  |  |  |  | `0` |  |
 | [``Bookends``](https://www.sonnysoftware.com/) | ``14.1.3`` | `17` |  |  |  |  |  | `0` |  |
 | [``bossa``](https://www.shumatech.com/web/products/bossa) | ``1.9.1`` | `17` |  |  |  |  |  | `0` |  |
-| [``cakebrewjs``](https://sourceforge.net/projects/cakebrewjs) | ``1.2.2`` | `17` |  |  |  |  |  | `0` |  |
+| [``cakebrewjs``](https://sourceforge.net/projects/cakebrewjs) | ``1.3.1`` | `17` | `2022-11-05T20:34:42Z` |  |  |  |  | `0` |  |
 | [``Chipmunk Log Analyzer & …``](https://github.com/esrlabs/chipmunk/) | ``2.26.3`` | `17` |  |  |  |  |  | `0` |  |
 | [``Clover``](https://cloverapp.com/) | ``1.1.5`` | `17` |  |  |  |  |  | `0` |  |
 | [``Eloquent``](https://github.com/mdbergmann/Eloquent) | ``2.6.7`` | `17` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |

@@ -17618,7 +17618,7 @@
     {
       "beta" : false,
       "bundleIdentifier" : "authy",
-      "downloadURL" : "https://authy-electron-repository-production.s3.amazonaws.com/authy/stable/2.2.1/darwin/x64/Authy%20Desktop-2.2.1.dmg",
+      "downloadURL" : "https://pkg.authy.com/authy/stable/2.2.1/darwin/x64/Authy%20Desktop-2.2.1.dmg",
       "homepage" : "https://authy.com/",
       "localizedDescription" : "Two-factor authentication software",
       "name" : "Authy Desktop",
@@ -24404,17 +24404,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "hackintool",
-      "downloadURL" : "https://github.com/headkaze/Hackintool/releases/download/3.8.9/Hackintool.zip",
+      "downloadURL" : "https://github.com/headkaze/Hackintool/releases/download/3.9.0/Hackintool.zip",
       "homepage" : "https://github.com/headkaze/Hackintool",
       "localizedDescription" : "Hackintosh patching tool",
       "name" : "Hackintool",
-      "sha256" : "21906d4fc7686c77bc1725cdf8d711f84007d6ae43bf34e19d0e43cfe23ad792",
+      "sha256" : "f8a8d7d39f514666895205bad74ce0a0d4850e09e5d832f0afb930428204d722",
       "stats" : {
         "downloadCount" : 96
       },
       "subtitle" : "Hackintosh patching tool",
-      "version" : "3.8.9",
-      "versionDate" : "2022-11-05T00:00:00Z"
+      "version" : "3.9.0",
+      "versionDate" : "2022-11-05T20:34:42Z"
     },
     {
       "beta" : false,
@@ -36108,16 +36108,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "aptakube",
-      "downloadURL" : "https://releases.aptakube.com/Aptakube_0.6.1_universal.dmg",
+      "downloadURL" : "https://releases.aptakube.com/Aptakube_0.7.0_universal.dmg",
       "homepage" : "https://aptakube.com/",
       "localizedDescription" : "Modern, lightweight and multi-cluster Kubernetes desktop client",
       "name" : "Aptakube",
-      "sha256" : "31ea6f3a8f2459b384a0c68fbe1a13460c84f26483e7df8131cfd383681f103a",
+      "sha256" : "66fe8babf3a3593fc027cb60342edfd9102426b102e8b7dedccb1374130799e0",
       "stats" : {
         "downloadCount" : 17
       },
       "subtitle" : "Modern, lightweight and multi-cluster Kubernetes desktop client",
-      "version" : "0.6.1"
+      "version" : "0.7.0",
+      "versionDate" : "2022-11-05T20:34:42Z"
     },
     {
       "beta" : false,
@@ -36160,16 +36161,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "cakebrewjs",
-      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.2.2/cakebrewjs-1.2.2-mac.zip",
+      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.3.1/cakebrewjs-1.3.1-mac.zip",
       "homepage" : "https://sourceforge.net/projects/cakebrewjs",
       "localizedDescription" : "Homebrew GUI app written in electron",
       "name" : "cakebrewjs",
-      "sha256" : "155db4949e02ecd3b772cd4f3a8be427ce0c19386d122511ad02b9218b62d97c",
+      "sha256" : "a1cd41388d847750217c504ce35b89f4bed38b5cc5231a2bc1a74a52797842dc",
       "stats" : {
         "downloadCount" : 17
       },
       "subtitle" : "Homebrew GUI app written in electron",
-      "version" : "1.2.2"
+      "version" : "1.3.1",
+      "versionDate" : "2022-11-05T20:34:42Z"
     },
     {
       "beta" : false,
@@ -62083,20 +62085,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "ccleaner",
-      "caption" : "Piriform CCleaner updated from 2.06.158 to 2.07.166",
-      "date" : "2022-11-04T04:12:23Z",
-      "identifier" : "release-ccleaner-2.07.166",
-      "title" : "New Release: Piriform CCleaner 2.07.166"
-    },
-    {
-      "appID" : "confluent-cli",
-      "caption" : "Confluent CLI updated from 2.31.0 to 2.32.0",
-      "date" : "2022-11-04T04:12:23Z",
-      "identifier" : "release-confluent-cli-2.32.0",
-      "title" : "New Release: Confluent CLI 2.32.0"
-    },
-    {
       "appID" : "moonlight",
       "caption" : "Moonlight updated from 4.3.0 to 4.3.1",
       "date" : "2022-11-04T04:12:23Z",
@@ -62762,13 +62750,6 @@
       "title" : "New Release: Lapce 0.2.2"
     },
     {
-      "appID" : "hackintool",
-      "caption" : "Hackintool updated from 3.8.7 to 3.8.9",
-      "date" : "2022-11-05T15:31:35Z",
-      "identifier" : "release-hackintool-3.8.9",
-      "title" : "New Release: Hackintool 3.8.9"
-    },
-    {
       "appID" : "binocs",
       "caption" : "Binocs updated from 0.7.3 to 0.7.4",
       "date" : "2022-11-05T15:31:35Z",
@@ -62781,6 +62762,27 @@
       "date" : "2022-11-05T18:35:38Z",
       "identifier" : "release-rectangle-pro-2.7.1,127",
       "title" : "New Release: Rectangle Pro 2.7.1,127"
+    },
+    {
+      "appID" : "hackintool",
+      "caption" : "Hackintool updated from 3.8.9 to 3.9.0",
+      "date" : "2022-11-05T20:34:42Z",
+      "identifier" : "release-hackintool-3.9.0",
+      "title" : "New Release: Hackintool 3.9.0"
+    },
+    {
+      "appID" : "aptakube",
+      "caption" : "Aptakube updated from 0.6.1 to 0.7.0",
+      "date" : "2022-11-05T20:34:43Z",
+      "identifier" : "release-aptakube-0.7.0",
+      "title" : "New Release: Aptakube 0.7.0"
+    },
+    {
+      "appID" : "cakebrewjs",
+      "caption" : "cakebrewjs updated from 1.2.2 to 1.3.1",
+      "date" : "2022-11-05T20:34:43Z",
+      "identifier" : "release-cakebrewjs-1.3.1",
+      "title" : "New Release: cakebrewjs 1.3.1"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

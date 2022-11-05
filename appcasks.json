@@ -25,8 +25,8 @@
       "sha256" : "603440a63e23e411e750a96a9668e5cba5493656bee623add22161cd7d4e2ef9",
       "stats" : {
         "downloadCount" : 2159,
-        "impressionCount" : 11554,
-        "viewCount" : 1304
+        "impressionCount" : 11558,
+        "viewCount" : 1306
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -58,7 +58,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8423,
-        "impressionCount" : 9091,
+        "impressionCount" : 9094,
         "viewCount" : 775
       },
       "subtitle" : "Multimedia player",
@@ -82,9 +82,9 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/screenshot_02-mac-2642x1926.png"
       ],
       "stats" : {
-        "downloadCount" : 8398,
-        "impressionCount" : 9604,
-        "viewCount" : 719
+        "downloadCount" : 8399,
+        "impressionCount" : 9612,
+        "viewCount" : 720
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -112,7 +112,7 @@
       "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
       "stats" : {
         "downloadCount" : 3530,
-        "impressionCount" : 10007,
+        "impressionCount" : 10009,
         "viewCount" : 656
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -140,7 +140,7 @@
       ],
       "stats" : {
         "downloadCount" : 2624,
-        "impressionCount" : 7755,
+        "impressionCount" : 7757,
         "viewCount" : 474
       },
       "subtitle" : "Video game digital distribution service",
@@ -170,7 +170,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 227,
-        "impressionCount" : 6065,
+        "impressionCount" : 6068,
         "viewCount" : 486
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -196,7 +196,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 211,
-        "impressionCount" : 5225,
+        "impressionCount" : 5229,
         "viewCount" : 382
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -223,7 +223,7 @@
       "sha256" : "d2c87075e460d74641ae8a955703de5cf5344d9affdf4e2f6a8fc5d971c4246c",
       "stats" : {
         "downloadCount" : 133,
-        "impressionCount" : 4291,
+        "impressionCount" : 4294,
         "viewCount" : 365
       },
       "subtitle" : "File synchronizer",
@@ -253,7 +253,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4362,
+        "impressionCount" : 4365,
         "viewCount" : 346
       },
       "subtitle" : "Create DMGs and other archives",
@@ -275,7 +275,7 @@
       "sha256" : "3dda93337f730db11d413e45356a66ebe3b65a381986017fadcbf6459a568f65",
       "stats" : {
         "downloadCount" : 8193,
-        "impressionCount" : 3861,
+        "impressionCount" : 3865,
         "viewCount" : 276
       },
       "subtitle" : "Team communication and collaboration software",
@@ -298,7 +298,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5869,
-        "impressionCount" : 2696,
+        "impressionCount" : 2699,
         "viewCount" : 138
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -319,9 +319,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
       "sha256" : "ddc26d7afc0fd04188f1a6ff8208646a23a04c14b9f43657abd8d89d102bde04",
       "stats" : {
-        "downloadCount" : 5353,
-        "impressionCount" : 5854,
-        "viewCount" : 580
+        "downloadCount" : 5354,
+        "impressionCount" : 5858,
+        "viewCount" : 581
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
@@ -456,9 +456,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
       "sha256" : "2c4abf4af51ee95118ef2f121eb015a005385af6b15744c44eaec01911ca29bc",
       "stats" : {
-        "downloadCount" : 1836,
-        "impressionCount" : 3664,
-        "viewCount" : 177
+        "downloadCount" : 1837,
+        "impressionCount" : 3668,
+        "viewCount" : 178
       },
       "subtitle" : "Web browser focusing on security",
       "tintColor" : "8236A8",
@@ -483,7 +483,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1680,
-        "impressionCount" : 3724
+        "impressionCount" : 3726
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -520,7 +520,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1594,
-        "impressionCount" : 3884
+        "impressionCount" : 3890
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -608,9 +608,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skim/README.md",
       "sha256" : "a696766c219ba2f7487bf6054b6c94af78bd49e9d4a7a210fc007193ef85c6f1",
       "stats" : {
-        "downloadCount" : 940,
-        "impressionCount" : 2309,
-        "viewCount" : 161
+        "downloadCount" : 941,
+        "impressionCount" : 2315,
+        "viewCount" : 162
       },
       "subtitle" : "PDF reader and note-taking application",
       "tintColor" : "CCB774",
@@ -631,7 +631,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 838,
-        "impressionCount" : 2149,
+        "impressionCount" : 2150,
         "viewCount" : 140
       },
       "subtitle" : "Application for inspecting installer packages",
@@ -654,7 +654,7 @@
       "sha256" : "6b09011a0854dc0fdd0d6d8650e49ac88e219a3b6ec7e54cefab97dfb73dd4c1",
       "stats" : {
         "downloadCount" : 706,
-        "impressionCount" : 2219,
+        "impressionCount" : 2220,
         "viewCount" : 113
       },
       "subtitle" : "Desktop client for Telegram messenger",
@@ -751,7 +751,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 4244
+        "impressionCount" : 4247
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -843,7 +843,7 @@
       "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
       "stats" : {
         "downloadCount" : 33314,
-        "impressionCount" : 1919
+        "impressionCount" : 1920
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -884,7 +884,7 @@
       "sha256" : "f270dac14cf355026268d2a5a00d903c5102b69e0d2db2a7e47142f7eb76e025",
       "stats" : {
         "downloadCount" : 8374,
-        "impressionCount" : 977
+        "impressionCount" : 978
       },
       "subtitle" : "Open-source version of the X.Org X Window System",
       "version" : "2.8.2"
@@ -964,7 +964,7 @@
       "sha256" : "bb5858619a58561d07d23df470b9548b82c1544cea9ffade30c4362dc8f3bd93",
       "stats" : {
         "downloadCount" : 1974,
-        "impressionCount" : 1105
+        "impressionCount" : 1106
       },
       "subtitle" : "Free and open-source OpenVPN client",
       "tintColor" : "5E6A74",
@@ -984,7 +984,7 @@
       "sha256" : "4602bf08296747614fdcabfa68f420836dec9c8ebe9286a93b4c509a1e567c62",
       "stats" : {
         "downloadCount" : 1542,
-        "impressionCount" : 890
+        "impressionCount" : 891
       },
       "subtitle" : "Unpacks archive files",
       "tintColor" : "DABC92",
@@ -1004,7 +1004,7 @@
       "sha256" : "191c4b5a05aeb3b2bbf990b15f4cdeeeff79a4c2b9bab020f8b11d3681a3dbb0",
       "stats" : {
         "downloadCount" : 996,
-        "impressionCount" : 2127
+        "impressionCount" : 2128
       },
       "subtitle" : "Tool to invert scroll direction for physical scroll wheels",
       "tintColor" : "909090",
@@ -1145,7 +1145,7 @@
       "sha256" : "788f5aa9387d8644c3f458bb58076723b7e7fa4efaa6837aa842185e6ff3eaa5",
       "stats" : {
         "downloadCount" : 645,
-        "impressionCount" : 564
+        "impressionCount" : 565
       },
       "subtitle" : "Integrated development environment",
       "tintColor" : "C8AAE6",
@@ -1207,7 +1207,7 @@
       "sha256" : "afe125b05ef1740f9a95101233006453b0e02bd71b6195608414bab5fb5d2c6a",
       "stats" : {
         "downloadCount" : 482,
-        "impressionCount" : 784
+        "impressionCount" : 785
       },
       "subtitle" : "Tool to reverse the direction of scrolling",
       "tintColor" : "8ECCDE",
@@ -1268,7 +1268,7 @@
       "sha256" : "c93649a3c8e7e9e35867fa6523b7b45bc5c36f4d56465a752d8de53a7e9f846c",
       "stats" : {
         "downloadCount" : 452,
-        "impressionCount" : 734
+        "impressionCount" : 735
       },
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
@@ -1449,7 +1449,7 @@
       "sha256" : "a9f481824a6d76c5a53a4443aac57f1fc2f091055742842defd81ed3b5f15d78",
       "stats" : {
         "downloadCount" : 308,
-        "impressionCount" : 777
+        "impressionCount" : 778
       },
       "subtitle" : "GUI for the Neovim text editor",
       "tintColor" : "55A349",
@@ -1509,7 +1509,7 @@
       "sha256" : "9cf28d0f0ef74d793cca5a0fee0d7195a11c055b4a6c118cea295c308a3bfd9d",
       "stats" : {
         "downloadCount" : 239,
-        "impressionCount" : 571
+        "impressionCount" : 572
       },
       "subtitle" : "Torrent streaming application",
       "tintColor" : "7D3645",
@@ -1529,7 +1529,7 @@
       "sha256" : "c8f5b516ba11590b269852f074a070ac6fb87662345fe390f4a66dd1a6e4faf2",
       "stats" : {
         "downloadCount" : 237,
-        "impressionCount" : 538
+        "impressionCount" : 539
       },
       "subtitle" : "Utility to hide the notch",
       "tintColor" : "9434BE",
@@ -1549,11 +1549,30 @@
       "sha256" : "858045662074579856a521dcf967ddfc818f68583ddc96fe73612d82e071bd00",
       "stats" : {
         "downloadCount" : 229,
-        "impressionCount" : 658
+        "impressionCount" : 659
       },
       "subtitle" : "Tool to manage the size and position of windows",
       "tintColor" : "6E6E6D",
       "version" : "1.6.6"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "xnviewmp",
+      "categories" : [
+        "public.app-category.photography"
+      ],
+      "downloadURL" : "https://download.xnview.com/XnViewMP-mac.dmg",
+      "homepage" : "https://www.xnview.com/en/xnviewmp/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xnviewmp/AppIcon.png",
+      "localizedDescription" : "Photo viewer, image manager, image resizer and more",
+      "name" : "XnViewMP",
+      "stats" : {
+        "downloadCount" : 222,
+        "impressionCount" : 1239
+      },
+      "subtitle" : "Photo viewer, image manager, image resizer and more",
+      "tintColor" : "D56402",
+      "version" : "1.3.1"
     },
     {
       "beta" : false,
@@ -1569,7 +1588,7 @@
       "sha256" : "73ee8fbcf481b1cf68a3456f3c215be8a7d8835342220cc44fba6fa0440f37fc",
       "stats" : {
         "downloadCount" : 221,
-        "impressionCount" : 625
+        "impressionCount" : 626
       },
       "subtitle" : "Open-source markdown editor",
       "tintColor" : "41C1A1",
@@ -1594,25 +1613,6 @@
       "subtitle" : "Simple menu bar app to download YouTube movies",
       "tintColor" : "FD7D49",
       "version" : "0.10"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "xnviewmp",
-      "categories" : [
-        "public.app-category.photography"
-      ],
-      "downloadURL" : "https://download.xnview.com/XnViewMP-mac.dmg",
-      "homepage" : "https://www.xnview.com/en/xnviewmp/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xnviewmp/AppIcon.png",
-      "localizedDescription" : "Photo viewer, image manager, image resizer and more",
-      "name" : "XnViewMP",
-      "stats" : {
-        "downloadCount" : 221,
-        "impressionCount" : 1234
-      },
-      "subtitle" : "Photo viewer, image manager, image resizer and more",
-      "tintColor" : "D56402",
-      "version" : "1.3.1"
     },
     {
       "beta" : false,
@@ -1751,7 +1751,7 @@
       "sha256" : "95bed62de497a9ef0009083aea23a715cc1836230f0a207d0e08f0aa7d604619",
       "stats" : {
         "downloadCount" : 177,
-        "impressionCount" : 604
+        "impressionCount" : 605
       },
       "subtitle" : "Time tracker",
       "tintColor" : "753D77",
@@ -1812,7 +1812,7 @@
       "sha256" : "8203386574048d4930b0a1f5d1d6e37a2a904fe02d7fa6b011d1f690deb959a0",
       "stats" : {
         "downloadCount" : 165,
-        "impressionCount" : 779
+        "impressionCount" : 780
       },
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
@@ -1892,7 +1892,7 @@
       "sha256" : "44cbf2a45c76bc9a4e6ad3b496de030a75a58edb787e2c3c3270137b5a21c542",
       "stats" : {
         "downloadCount" : 147,
-        "impressionCount" : 979
+        "impressionCount" : 980
       },
       "subtitle" : "Automatically checks computer's security",
       "tintColor" : "618BA5",
@@ -2094,7 +2094,7 @@
       "sha256" : "074e95032a51d7787eed8c4ee2b19046676d72e0cba5cca59af7cc6f79d3887e",
       "stats" : {
         "downloadCount" : 113,
-        "impressionCount" : 887
+        "impressionCount" : 890
       },
       "subtitle" : "YouTube music client",
       "tintColor" : "ED4C62",
@@ -2154,7 +2154,7 @@
       "sha256" : "a33d62b5ddaebb7f5e56ce0dd2407a08b564f0750705b3b809808992283a2d7e",
       "stats" : {
         "downloadCount" : 112,
-        "impressionCount" : 557
+        "impressionCount" : 558
       },
       "subtitle" : "Tool to hide menu bar icons",
       "tintColor" : "E4F2EF",
@@ -2193,7 +2193,7 @@
       "name" : "SuperDuper!",
       "stats" : {
         "downloadCount" : 109,
-        "impressionCount" : 577
+        "impressionCount" : 578
       },
       "subtitle" : "Backup, recovery and cloning software",
       "tintColor" : "B7BDBC",
@@ -2253,7 +2253,7 @@
       "sha256" : "c93c9d73839dd1b826d5651d0b6a37cde6c9959afd2a6ac9b3bac7a5b780dac8",
       "stats" : {
         "downloadCount" : 106,
-        "impressionCount" : 454
+        "impressionCount" : 455
       },
       "subtitle" : "Enable and disable the Intel CPU Turbo Boost feature",
       "tintColor" : "D4817E",
@@ -2394,7 +2394,7 @@
       "sha256" : "0d8b6005609fc274da11ca2e0f5b327ce4d998be88dbb670d9b3428de5995ae0",
       "stats" : {
         "downloadCount" : 91,
-        "impressionCount" : 585
+        "impressionCount" : 586
       },
       "subtitle" : "View Spaces / Virtual Desktops in the menu bar",
       "tintColor" : "8279C0",
@@ -2414,7 +2414,7 @@
       "sha256" : "f3fc7c23bebd57c906c6cb43b975d468cb46be0d379f6be1acabe66a5b52212a",
       "stats" : {
         "downloadCount" : 91,
-        "impressionCount" : 484
+        "impressionCount" : 485
       },
       "subtitle" : "Displays all open files and sockets in use by all running processes",
       "tintColor" : "E59112",
@@ -2433,7 +2433,7 @@
       "name" : "YoudaoDict",
       "stats" : {
         "downloadCount" : 90,
-        "impressionCount" : 892
+        "impressionCount" : 895
       },
       "subtitle" : "Youdao Dictionary",
       "tintColor" : "FD3045",
@@ -2654,7 +2654,7 @@
       "name" : "Sensei",
       "stats" : {
         "downloadCount" : 77,
-        "impressionCount" : 352
+        "impressionCount" : 353
       },
       "subtitle" : "Monitors the computer system and optimizes its performance",
       "tintColor" : "DBE8F9",
@@ -2918,7 +2918,7 @@
       "sha256" : "d7509cf6d42a4b12902529246497d82f3eda1bddf8bf6de053bd37edc872d036",
       "stats" : {
         "downloadCount" : 62,
-        "impressionCount" : 449
+        "impressionCount" : 450
       },
       "subtitle" : "To-do list and time tracker",
       "tintColor" : "2485D7",
@@ -2979,7 +2979,7 @@
       "sha256" : "7c10f821ec1f0df599d73c54788b724b4be6f2ac41071723354f4af4002d9e58",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 507
+        "impressionCount" : 508
       },
       "subtitle" : "Tinker tool for PHP and Laravel developers",
       "tintColor" : "5A5542",
@@ -3131,6 +3131,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "xnconvert",
+      "categories" : [
+        "public.app-category.photography"
+      ],
+      "downloadURL" : "https://download.xnview.com/XnConvert-mac.dmg",
+      "homepage" : "https://www.xnview.com/en/xnconvert/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xnconvert/AppIcon.png",
+      "localizedDescription" : "Image-converter and resizer tool",
+      "name" : "XnSoft XnConvert",
+      "stats" : {
+        "downloadCount" : 52,
+        "impressionCount" : 1001
+      },
+      "subtitle" : "Image-converter and resizer tool",
+      "tintColor" : "BD8F32",
+      "version" : "1.96.0",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "vienna",
       "categories" : [
         "public.app-category.utilities"
@@ -3148,26 +3168,6 @@
       "subtitle" : "RSS and Atom reader",
       "tintColor" : "E8DBC7",
       "version" : "3.8.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "xnconvert",
-      "categories" : [
-        "public.app-category.photography"
-      ],
-      "downloadURL" : "https://download.xnview.com/XnConvert-mac.dmg",
-      "homepage" : "https://www.xnview.com/en/xnconvert/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xnconvert/AppIcon.png",
-      "localizedDescription" : "Image-converter and resizer tool",
-      "name" : "XnSoft XnConvert",
-      "stats" : {
-        "downloadCount" : 51,
-        "impressionCount" : 998
-      },
-      "subtitle" : "Image-converter and resizer tool",
-      "tintColor" : "BD8F32",
-      "version" : "1.96.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3550,6 +3550,48 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "ueli",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/oliverschwendener/ueli/releases/download/v8.23.2/ueli-8.23.2.dmg",
+      "homepage" : "https://ueli.app/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ueli/AppIcon.png",
+      "localizedDescription" : "Keystroke launcher",
+      "name" : "Ueli",
+      "sha256" : "12f0b87c3f5e45a8bb8de7aae8c1f5d2612a4b7cecd5089c3111baf79a4de3d5",
+      "stats" : {
+        "downloadCount" : 42,
+        "impressionCount" : 397
+      },
+      "subtitle" : "Keystroke launcher",
+      "tintColor" : "5F5F5F",
+      "version" : "8.23.2",
+      "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "strawberry",
+      "categories" : [
+        "public.app-category.music"
+      ],
+      "downloadURL" : "https://github.com/strawberrymusicplayer/strawberry/releases/download/1.0.10/strawberry-1.0.10-x86_64.dmg",
+      "homepage" : "https://www.strawberrymusicplayer.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-strawberry/AppIcon.png",
+      "localizedDescription" : "Music player and music collection organizer",
+      "name" : "Strawberry",
+      "sha256" : "e44a014be4218cb8fe71d82969ce47cf7ce822d0fbffa146b280b9d90b362f8e",
+      "stats" : {
+        "downloadCount" : 42,
+        "impressionCount" : 750
+      },
+      "subtitle" : "Music player and music collection organizer",
+      "tintColor" : "C03C21",
+      "version" : "1.0.10",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "silicon",
       "categories" : [
         "public.app-category.utilities"
@@ -3591,27 +3633,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "ueli",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/oliverschwendener/ueli/releases/download/v8.23.2/ueli-8.23.2.dmg",
-      "homepage" : "https://ueli.app/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ueli/AppIcon.png",
-      "localizedDescription" : "Keystroke launcher",
-      "name" : "Ueli",
-      "sha256" : "12f0b87c3f5e45a8bb8de7aae8c1f5d2612a4b7cecd5089c3111baf79a4de3d5",
-      "stats" : {
-        "downloadCount" : 41,
-        "impressionCount" : 394
-      },
-      "subtitle" : "Keystroke launcher",
-      "tintColor" : "5F5F5F",
-      "version" : "8.23.2",
-      "versionDate" : "2022-11-02T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tad",
       "categories" : [
         "public.app-category.developer-tools"
@@ -3629,27 +3650,6 @@
       "subtitle" : "Desktop application for viewing and analyzing tabular data",
       "tintColor" : "4799DA",
       "version" : "0.10.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "strawberry",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://github.com/strawberrymusicplayer/strawberry/releases/download/1.0.10/strawberry-1.0.10-x86_64.dmg",
-      "homepage" : "https://www.strawberrymusicplayer.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-strawberry/AppIcon.png",
-      "localizedDescription" : "Music player and music collection organizer",
-      "name" : "Strawberry",
-      "sha256" : "e44a014be4218cb8fe71d82969ce47cf7ce822d0fbffa146b280b9d90b362f8e",
-      "stats" : {
-        "downloadCount" : 41,
-        "impressionCount" : 747
-      },
-      "subtitle" : "Music player and music collection organizer",
-      "tintColor" : "C03C21",
-      "version" : "1.0.10",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3908,7 +3908,7 @@
       "sha256" : "a91a0db47e5a858abe1788baea135d1e306f335bb295468066621cffd996a3bf",
       "stats" : {
         "downloadCount" : 37,
-        "impressionCount" : 393
+        "impressionCount" : 394
       },
       "subtitle" : "Tool for managing the OpenSSH ssh client configuration file",
       "tintColor" : "B2733D",
@@ -5869,7 +5869,7 @@
       "sha256" : "62684bb84401e83c03a2f2290cade9992e9a4ebc4b48b6741d630d6c46a75a17",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 303
+        "impressionCount" : 304
       },
       "subtitle" : "Offline, open-source, document manager with tagging support",
       "tintColor" : "9EA2A9",
@@ -6545,7 +6545,7 @@
       "sha256" : "4903b84be837dd7333c49933591aa52f1c13aca3d095b762ff4ceecdedfeaadb",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 659
+        "impressionCount" : 660
       },
       "subtitle" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "tintColor" : "CBA87F",
@@ -6761,7 +6761,7 @@
       "sha256" : "8d77b01b7959e797aad3e31852e4f39973b5197bec506b14ddb738f0ec0bb861",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 282
+        "impressionCount" : 283
       },
       "subtitle" : "Tools for measuring, inspecting & testing on-screen graphics and layouts",
       "tintColor" : "3683DC",
@@ -6915,7 +6915,7 @@
       "sha256" : "2097bafa9cfe648c259e5c81f98137e3e38217838deccfe262460773807dd8df",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 566
+        "impressionCount" : 567
       },
       "subtitle" : "Utility to notify about the latest Apple tool releases (including Beta releases)",
       "tintColor" : "65678E",
@@ -7055,7 +7055,7 @@
       "sha256" : "d2aea8b2b4db499e6245dc4de47ee050e0e1421946510cef24d7fbeed63f085f",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 176
+        "impressionCount" : 177
       },
       "subtitle" : "Free and open-source real time strategy game",
       "tintColor" : "76899C",
@@ -7288,7 +7288,7 @@
       "sha256" : "d0401d7b8b34a2f75f289c41e71515ff2581c993ef4df9e1084f427352db11ca",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 916
+        "impressionCount" : 917
       },
       "subtitle" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
       "tintColor" : "A8AD40",
@@ -7427,7 +7427,7 @@
       "sha256" : "8311c29b09f982ce829d5733865c715f4f457d0a46dcab2beb18462a73a37b9d",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 250
+        "impressionCount" : 251
       },
       "subtitle" : "Finder extension for opening a terminal from the current directory",
       "tintColor" : "3C3C3C",
@@ -7901,7 +7901,7 @@
       "sha256" : "7cde32752b71840aff9627e5b72b3242aa5c71544b343ecbabf80181184e65d8",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 309
+        "impressionCount" : 310
       },
       "subtitle" : "Collaborative note-taking app",
       "tintColor" : "FB738C",
@@ -8413,7 +8413,7 @@
       "name" : "Sketchpacks",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 288
+        "impressionCount" : 289
       },
       "tintColor" : "F0DDF2",
       "version" : "latest"
@@ -11986,7 +11986,7 @@
       "sha256" : "95652e91bef57c73f38c0c78f2fcc9dfce429516f5de516b5e8ac5db20d20132",
       "stats" : {
         "downloadCount" : 60,
-        "impressionCount" : 293
+        "impressionCount" : 294
       },
       "subtitle" : "Convert 3D models into G-code instructions or PNG layers",
       "tintColor" : "9AB4C9",
@@ -12088,6 +12088,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "supertuxkart",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/supertuxkart/stk-code/releases/download/1.4/SuperTuxKart-1.4-mac.zip",
+      "homepage" : "https://supertuxkart.net/Main_Page",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-supertuxkart/AppIcon.png",
+      "localizedDescription" : "Kart racing game",
+      "name" : "SuperTuxKart",
+      "sha256" : "21a7fb34132036c5810a8b48527513981d98d09d27d33b15e2f428bdc492c89d",
+      "stats" : {
+        "downloadCount" : 53,
+        "impressionCount" : 89
+      },
+      "subtitle" : "Kart racing game",
+      "tintColor" : "844647",
+      "version" : "1.4",
+      "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "squidman",
       "categories" : [
 
@@ -12103,27 +12124,6 @@
       },
       "tintColor" : "EB59E4",
       "version" : "4.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "supertuxkart",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/supertuxkart/stk-code/releases/download/1.4/SuperTuxKart-1.4-mac.zip",
-      "homepage" : "https://supertuxkart.net/Main_Page",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-supertuxkart/AppIcon.png",
-      "localizedDescription" : "Kart racing game",
-      "name" : "SuperTuxKart",
-      "sha256" : "21a7fb34132036c5810a8b48527513981d98d09d27d33b15e2f428bdc492c89d",
-      "stats" : {
-        "downloadCount" : 52,
-        "impressionCount" : 86
-      },
-      "subtitle" : "Kart racing game",
-      "tintColor" : "844647",
-      "version" : "1.4",
-      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12237,7 +12237,7 @@
       "sha256" : "57728f2e2a86ccd64ab1c0688f75c41797adf892db1d63f9f29d753f78378448",
       "stats" : {
         "downloadCount" : 43,
-        "impressionCount" : 71
+        "impressionCount" : 72
       },
       "subtitle" : "Server, language, and IDE for sound synthesis and algorithmic composition",
       "tintColor" : "8B8B8B",
@@ -15225,7 +15225,7 @@
       "sha256" : "e4948c43dc9f6eebadea0cd1864d8b0f8bb63a5930c0d22b57de1cd7bd4a04b5",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 93
+        "impressionCount" : 94
       },
       "tintColor" : "879FA2",
       "version" : "7.0.9"

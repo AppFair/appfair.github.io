@@ -855,7 +855,7 @@ tr:nth-child(even) {
 | [``BasicTeX``](https://www.tug.org/mactex/morepackages.html) | ``2022.0314`` | `2366` |  |  |  |  |  | `0` |  |
 | [``OBS``](https://obsproject.com/) | ``28.1.1`` | `2354` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2353` |  |  |  |  |  | `0` |  |
-| [``Lens``](https://k8slens.dev/) | ``2022.11.41813`` | `2348` | `2022-11-05T13:40:28Z` |  |  |  |  | `0` |  |
+| [``Lens``](https://k8slens.dev/) | ``2022.11.41813`` | `2348` | `2022-11-05T00:00:00Z` |  |  |  |  | `0` |  |
 | [``IntelliJ IDEA Community …``](https://www.jetbrains.com/idea/) | ``2022.2.3,222.4345.14`` | `2268` |  |  |  |  |  | `0` |  |
 | [``MySQL Workbench``](https://www.mysql.com/products/workbench/) | ``8.0.31`` | `2255` |  |  |  |  |  | `0` |  |
 | [``Dropbox``](https://www.dropbox.com/) | ``160.4.4703`` | `2247` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1288,7 +1288,7 @@ tr:nth-child(even) {
 | [``Perforce Helix Visual Cl…``](https://www.perforce.com/products/helix-core-apps/helix-visual-client-p4v) | ``2022.2,2336701`` | `137` |  |  |  |  |  | `0` |  |
 | [``Jiggler``](http://www.sticksoftware.com/software/Jiggler.html) | ``1.9`` | `136` |  |  |  |  |  | `0` |  |
 | [``Racket``](https://racket-lang.org/) | ``8.6`` | `136` |  |  |  |  |  | `0` |  |
-| [``Dropzone``](https://aptonic.com/) | ``4.5.2,1863`` | `135` | `2022-11-05T13:40:28Z` |  |  |  |  | `0` |  |
+| [``Dropzone``](https://aptonic.com/) | ``4.5.2,1863`` | `135` | `2022-11-05T00:00:00Z` |  |  |  |  | `0` |  |
 | [``OverSight``](https://objective-see.com/products/oversight.html) | ``2.0.2`` | `135` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Fluor``](https://github.com/Pyroh/Fluor) | ``2.5.1`` | `134` |  |  |  |  |  | `0` |  |
 | [``ILSpy``](https://github.com/icsharpcode/AvaloniaILSpy) | ``7.2-rc`` | `134` |  |  |  |  |  | `0` |  |
@@ -1906,7 +1906,7 @@ tr:nth-child(even) {
 | [``CCMenu``](https://ccmenu.org/) | ``15.0`` | `31` |  |  |  |  |  | `0` |  |
 | [``Coq``](https://coq.inria.fr/) | ``8.13.1`` | `31` |  |  |  |  |  | `0` |  |
 | [``extraterm``](https://extraterm.org/) | ``0.67.0`` | `31` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
-| [``FontBase``](https://fontba.se/) | ``2.17.17`` | `31` | `2022-11-05T13:40:28Z` |  |  |  |  | `0` |  |
+| [``FontBase``](https://fontba.se/) | ``2.17.17`` | `31` | `2022-11-05T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Insync``](https://www.insynchq.com/) | ``3.7.14.50440`` | `31` |  |  |  |  |  | `0` |  |
 | [``KNIME Analytics Platform``](https://www.knime.com/) | ``4.6.3`` | `31` |  |  |  |  |  | `0` |  |
 | [``OpenSesame``](https://osdoc.cogsci.nl/) | ``3.3.12`` | `31` |  |  |  |  |  | `0` |  |

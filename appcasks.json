@@ -140,8 +140,8 @@
       ],
       "stats" : {
         "downloadCount" : 2624,
-        "impressionCount" : 7752,
-        "viewCount" : 473
+        "impressionCount" : 7755,
+        "viewCount" : 474
       },
       "subtitle" : "Video game digital distribution service",
       "tintColor" : "416082",
@@ -822,7 +822,7 @@
       "sha256" : "d5c01584a97aaee4aef222b0f07ada24ada823a7a515a79c357084b1ecddd8a2",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 2159,
+        "impressionCount" : 2161,
         "viewCount" : 122
       },
       "subtitle" : "Board game engine",
@@ -1953,7 +1953,7 @@
       "sha256" : "f2515c6b361a42a3f0a8fff53257e20f6c6224015c9fe80a9ff2fe22ef7ff15a",
       "stats" : {
         "downloadCount" : 140,
-        "impressionCount" : 1068
+        "impressionCount" : 1070
       },
       "subtitle" : "Charting and social-networking for investment traders",
       "tintColor" : "3E414A",
@@ -3501,7 +3501,7 @@
       "sha256" : "19c9fd3e801eef6d968148f02a16731de94acf0ec800a3dc5c430ff1b24bb8c4",
       "stats" : {
         "downloadCount" : 43,
-        "impressionCount" : 1501
+        "impressionCount" : 1502
       },
       "subtitle" : "Original Xbox Emulator",
       "tintColor" : "1F4D22",
@@ -5414,7 +5414,7 @@
       "name" : "TETR.IO",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 1037
+        "impressionCount" : 1039
       },
       "subtitle" : "Free-to-play Tetris clone",
       "tintColor" : "7055A4",
@@ -5947,7 +5947,7 @@
       "sha256" : "6d02eab120457451dac424026a61df5e58846f3411ea8b94b6fd0ebc8af8f85c",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 1035
+        "impressionCount" : 1037
       },
       "subtitle" : "World of Warcraft addon manager",
       "tintColor" : "7B7AB9",
@@ -6836,7 +6836,7 @@
       "sha256" : "e667934e6ee3f27d3f81591b830d2be4513c8997f54f5312be56917c0697ce75",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 733
+        "impressionCount" : 735
       },
       "subtitle" : "Game Master for Fantasy Flight board games",
       "tintColor" : "797979",
@@ -7115,7 +7115,7 @@
       "sha256" : "c37926a9612e8a8360490b6b924b1a2922a4374377e428f24b985f45de66ad68",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 362
+        "impressionCount" : 365
       },
       "subtitle" : "Cryptocurrency wallet",
       "tintColor" : "262626",
@@ -7288,7 +7288,7 @@
       "sha256" : "d0401d7b8b34a2f75f289c41e71515ff2581c993ef4df9e1084f427352db11ca",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 914
+        "impressionCount" : 916
       },
       "subtitle" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
       "tintColor" : "A8AD40",
@@ -7487,7 +7487,7 @@
       "sha256" : "55b1b5a3bb1205a518beb7b14755c25a9b556c18607b9ebe60785db020209ca1",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 984
+        "impressionCount" : 986
       },
       "subtitle" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
       "tintColor" : "2AA5EA",
@@ -8196,7 +8196,7 @@
       "sha256" : "ea353a8851f7259eadc5e825336c7f85adebfd7c4851f5c851f729ed304c72f3",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 530
+        "impressionCount" : 532
       },
       "subtitle" : "Trading platform",
       "tintColor" : "C3AB00",
@@ -8431,7 +8431,7 @@
       "name" : "sixtyforce",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 718
+        "impressionCount" : 720
       },
       "subtitle" : "N64 emulator",
       "tintColor" : "595858",
@@ -8678,7 +8678,7 @@
       "sha256" : "c4dbe867738c244d0f00e4b13b432dca305559fc36ef1614f749291c805e5003",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 699
+        "impressionCount" : 701
       },
       "subtitle" : "Multi-platform Atari 2600 Emulator",
       "tintColor" : "7B4D02",
@@ -8853,7 +8853,7 @@
       "sha256" : "9ab728d025c1dd96f3abf86fd7506bfd22035ec35a3a801f684667ede056f48a",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 717
+        "impressionCount" : 718
       },
       "subtitle" : "Review, edit and share dive log data",
       "tintColor" : "62757C",
@@ -9519,7 +9519,7 @@
       "sha256" : "6d9c8c92aaf17a79860371269f4156ba07f27ffc5e11fdb3825df58fc92e2c12",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 827
+        "impressionCount" : 829
       },
       "subtitle" : "Group video calls, screen sharing and instant messaging",
       "tintColor" : "7CB64C",
@@ -10349,7 +10349,7 @@
       "name" : "Universal Battle",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 908
+        "impressionCount" : 909
       },
       "subtitle" : "Realtime multiplayer tabletop war game",
       "tintColor" : "544F5E",
@@ -10811,7 +10811,7 @@
       },
       "subtitle" : "Web browser",
       "version" : "106.0.5",
-      "versionDate" : "2022-11-05T07:28:16Z"
+      "versionDate" : "2022-11-05T00:00:00Z"
     },
     {
       "beta" : false,

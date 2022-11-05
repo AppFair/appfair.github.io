@@ -27,9 +27,9 @@
       "size" : 12762342,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 118,
+        "downloadCount" : 121,
         "forkCount" : 0,
-        "impressionCount" : 1159,
+        "impressionCount" : 1161,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 89,
@@ -63,7 +63,7 @@
       "size" : 1453833866,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 79,
+        "downloadCount" : 82,
         "forkCount" : 0,
         "impressionCount" : 5,
         "issueCount" : 0,
@@ -99,9 +99,9 @@
       "size" : 1458058228,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 79,
+        "downloadCount" : 82,
         "forkCount" : 0,
-        "impressionCount" : 1371,
+        "impressionCount" : 1372,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -120,7 +120,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -139,7 +139,7 @@
       "size" : 2735295,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 78,
+        "downloadCount" : 81,
         "forkCount" : 0,
         "impressionCount" : 0,
         "issueCount" : 0,
@@ -171,7 +171,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 899,
+        "impressionCount" : 900,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 98,
@@ -369,45 +369,6 @@
       "versionDescription" : "**Full Changelog**: https://github.com/Fair-Skies/App/compare/0.0.4...0.0.5"
     },
     {
-      "beta" : true,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_02-iphone-1334x750.png"
-      ],
-      "sha256" : "0573d15343e0bd01904086d36c7b4f6ff5123423c830e6f554a14ec99cd89f8e",
-      "size" : 5844815,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 20,
-        "forkCount" : 0,
-        "impressionCount" : 16,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.22",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
-    },
-    {
       "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "developerName" : "appfairz <appfairz@appfair.net>",
@@ -457,12 +418,12 @@
       "size" : 8081865,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 18,
+        "downloadCount" : 20,
         "forkCount" : 1,
-        "impressionCount" : 327,
+        "impressionCount" : 330,
         "issueCount" : 7,
         "starCount" : 29,
-        "viewCount" : 49,
+        "viewCount" : 50,
         "watcherCount" : 3
       },
       "subtitle" : "Open-source browser and installer for Homebrew casks and macOS/iOS apps",
@@ -470,6 +431,45 @@
       "version" : "0.8.131",
       "versionDate" : "2022-10-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.130...0.8.131"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_02-iphone-1334x750.png"
+      ],
+      "sha256" : "0573d15343e0bd01904086d36c7b4f6ff5123423c830e6f554a14ec99cd89f8e",
+      "size" : 5844815,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 20,
+        "forkCount" : 0,
+        "impressionCount" : 16,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.22",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
     },
     {
       "beta" : true,
@@ -613,7 +613,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3663,
+        "impressionCount" : 3664,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 207,
@@ -1106,7 +1106,7 @@
         "coreSize" : 67800,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 45,
+        "impressionCount" : 46,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -1166,7 +1166,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1567,
+        "impressionCount" : 1568,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 82,

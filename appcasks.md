@@ -945,7 +945,7 @@ tr:nth-child(even) {
 | [``Latest``](https://max.codes/latest) | ``0.8.3,820`` | `731` |  |  |  |  |  | `0` |  |
 | [``Mockoon``](https://mockoon.com/) | ``1.21.1`` | `731` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ProtonVPN``](https://protonvpn.com/) | ``3.0.5`` | `727` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.26,20221106112913`` | `724` | `2022-11-06T17:29:49Z` |  |  |  |  | `0` |  |
+| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.26,20221106112913`` | `724` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``DeepL``](https://www.deepl.com/) | ``3.7.277083`` | `720` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``NordVPN``](https://nordvpn.com/) | ``7.11.2,204`` | `719` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``QuickLook Video``](https://github.com/Marginal/QLVideo) | ``1.94`` | `714` |  |  |  |  |  | `0` |  |

@@ -1961,7 +1961,7 @@
       "subtitle" : "VPN client for secure internet access and private browsing",
       "tintColor" : "2F96A8",
       "version" : "4.4.2,1423",
-      "versionDate" : "2022-11-06T04:40:48Z"
+      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2602,7 +2602,7 @@
       "subtitle" : "Mastodon, Pleroma and Misskey client",
       "tintColor" : "B4DCEA",
       "version" : "4.7.0",
-      "versionDate" : "2022-11-06T04:40:48Z"
+      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17484,7 +17484,7 @@
       },
       "subtitle" : "Desktop virtualization software",
       "version" : "18.1.0-53311",
-      "versionDate" : "2022-11-06T04:40:48Z"
+      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -45314,16 +45314,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "schildichat",
-      "downloadURL" : "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.10.12-sc.1/SchildiChat-1.10.12-sc.1-universal_by_nyantec.dmg",
+      "downloadURL" : "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.13-sc.1/SchildiChat-1.11.13-sc.1-universal_by_nyantec.dmg",
       "homepage" : "https://schildi.chat/desktop/",
       "localizedDescription" : "Matrix client based on Element with a more traditional IM experience",
       "name" : "SchildiChat",
-      "sha256" : "eea7951407df84c4cea924f1315d48a971f89194334f9698db89e83c571e4cb9",
+      "sha256" : "b256358c4f9c98764e694f7fc020e65d45a19ce2394b6b7903093bf8a8e1d417",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Matrix client based on Element with a more traditional IM experience",
-      "version" : "1.10.12-sc.1"
+      "version" : "1.11.13-sc.1",
+      "versionDate" : "2022-11-06T05:27:54Z"
     },
     {
       "beta" : false,
@@ -62090,13 +62091,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "anydo",
-      "caption" : "Any.do updated from 5.0.8 to 5.0.9",
-      "date" : "2022-11-04T04:12:26Z",
-      "identifier" : "release-anydo-5.0.9",
-      "title" : "New Release: Any.do 5.0.9"
-    },
-    {
       "appID" : "axure-rp",
       "caption" : "Axure RP updated from 10.0.0.3882 to 10.0.0.3887",
       "date" : "2022-11-04T04:12:26Z",
@@ -62788,6 +62782,13 @@
       "date" : "2022-11-06T04:40:49Z",
       "identifier" : "release-parallels-18.1.0-53311",
       "title" : "New Release: Parallels Desktop 18.1.0-53311"
+    },
+    {
+      "appID" : "schildichat",
+      "caption" : "SchildiChat updated from 1.10.12-sc.1 to 1.11.13-sc.1",
+      "date" : "2022-11-06T05:27:55Z",
+      "identifier" : "release-schildichat-1.11.13-sc.1",
+      "title" : "New Release: SchildiChat 1.11.13-sc.1"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -46,7 +46,7 @@ tr:nth-child(even) {
 | [``TablePlus``](https://tableplus.com/) | ``5.1.0,468`` | `1386` | `2022-10-28T00:00:00Z` |  | `3221` | `189` |  | `0` | `public.app-category.developer-tools` |
 | [``Mozilla Thunderbird``](https://www.thunderbird.net/) | ``102.4.2`` | `1370` | `2022-11-04T00:00:00Z` |  | `2688` | `129` |  | `0` | `public.app-category.productivity` |
 | [``Spectacle``](https://www.spectacleapp.com/) | ``1.2,672`` | `1022` |  |  | `2476` | `124` |  | `0` | `public.app-category.utilities` |
-| [``Skim``](https://skim-app.sourceforge.io/) | ``1.6.13,143`` | `944` | `2022-10-31T00:00:00Z` |  | `2333` | `162` |  | `0` | `public.app-category.reference` |
+| [``Skim``](https://skim-app.sourceforge.io/) | ``1.6.13,143`` | `944` | `2022-10-31T00:00:00Z` |  | `2334` | `162` |  | `0` | `public.app-category.reference` |
 | [``Suspicious Package``](https://www.mothersruin.com/software/SuspiciousPackage/) | ``4.3,996`` | `816` | `2022-10-28T00:00:00Z` |  | `2170` | `142` |  | `0` | `public.app-category.developer-tools` |
 | [``Telegram Desktop``](https://desktop.telegram.org/) | ``4.3.0`` | `707` | `2022-11-06T00:00:00Z` |  | `2238` | `113` |  | `0` | `public.app-category.social-networking` |
 | [``Typora``](https://typora.io/) | ``1.4.8`` | `564` | `2022-10-28T00:00:00Z` |  | `2161` | `121` |  | `0` | `public.app-category.productivity` |

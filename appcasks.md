@@ -2916,7 +2916,7 @@ tr:nth-child(even) {
 | [``Reflect Notes``](https://reflect.app/) | ``2.0.4`` | `7` |  |  |  |  |  | `0` |  |
 | [``Rocket Typist``](https://witt-software.com/rockettypist/) | ``2.4.1,163b`` | `7` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Safe Exam Browser``](https://safeexambrowser.org/) | ``3.1.1`` | `7` |  |  |  |  |  | `0` |  |
-| [``SchildiChat``](https://schildi.chat/desktop/) | ``1.11.13-sc.1`` | `7` | `2022-11-06T05:27:54Z` |  |  |  |  | `0` |  |
+| [``SchildiChat``](https://schildi.chat/desktop/) | ``1.11.13-sc.1`` | `7` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Schism Tracker``](https://github.com/schismtracker/schismtracker) | ``20221020`` | `7` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ZEsarUX``](https://github.com/chernandezba/zesarux) | ``10.2`` | `6` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Wings 3D``](http://www.wings3d.com/) | ``2.2.9`` | `6` |  |  |  |  |  | `0` |  |

@@ -19224,17 +19224,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "krita",
-      "downloadURL" : "https://download.kde.org/stable/krita/5.1.2/krita-5.1.2.dmg",
+      "downloadURL" : "https://download.kde.org/stable/krita/5.1.3/krita-5.1.3.dmg",
       "homepage" : "https://krita.org/",
       "localizedDescription" : "Free and open-source painting and sketching program",
       "name" : "Krita",
-      "sha256" : "52ba7a89bedbdfc18b7e95e80296663b8bef61018de22e3dd5c6b7fd8f3ca8be",
+      "sha256" : "772b615e831d45cceccdd201897c533a5817aa75c3fbf3f7c8202efa09e74a13",
       "stats" : {
         "downloadCount" : 370
       },
       "subtitle" : "Free and open-source painting and sketching program",
-      "version" : "5.1.2",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "5.1.3",
+      "versionDate" : "2022-11-06T18:39:39Z"
     },
     {
       "beta" : false,
@@ -28284,17 +28284,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "busycal",
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-10-31-09-25.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bcl-2022.4.4-2022-11-06-20-57.zip",
       "homepage" : "https://busymac.com/busycal/index.html",
       "localizedDescription" : "Calendar software focusing on flexibility and reliability",
       "name" : "BusyCal",
-      "sha256" : "da58b34f4db4bdacd6d6387e3c04d9c28143f943c422c24d1c921f81ef324964",
+      "sha256" : "c1013ecac82e2eb508a095c7fa7c2ab4ee6db6bb5a25aafa0b897f8b62f88765",
       "stats" : {
         "downloadCount" : 47
       },
       "subtitle" : "Calendar software focusing on flexibility and reliability",
-      "version" : "2022.4.4,2022-10-31-09-25",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "2022.4.4,2022-11-06-20-57",
+      "versionDate" : "2022-11-06T18:39:39Z"
     },
     {
       "beta" : false,
@@ -41994,7 +41994,8 @@
         "downloadCount" : 9
       },
       "subtitle" : "Protection from tracking and online profiling",
-      "version" : "6.8.2"
+      "version" : "6.8.3",
+      "versionDate" : "2022-11-06T18:39:39Z"
     },
     {
       "beta" : false,
@@ -43025,17 +43026,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "brewtarget",
-      "downloadURL" : "https://github.com/Brewtarget/brewtarget/releases/download/v3.0.2/brewtarget_3.0.2_x86_64.dmg",
+      "downloadURL" : "https://github.com/Brewtarget/brewtarget/releases/download/v3.0.3/brewtarget_3.0.3_x86_64.dmg",
       "homepage" : "https://github.com/Brewtarget/brewtarget/",
       "localizedDescription" : "Beer recipe creation tool",
       "name" : "brewtarget",
-      "sha256" : "5e36976e594ea60f6bb7450efb5e6d7e253e1f1693d2d8a2da108831c0191b39",
+      "sha256" : "f450f050801da57b58107e7ae955235c50ac4cc00380792b34e25a5dce4602a2",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "Beer recipe creation tool",
-      "version" : "3.0.2",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "3.0.3",
+      "versionDate" : "2022-11-06T18:39:39Z"
     },
     {
       "beta" : false,
@@ -44592,16 +44593,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "iconset",
-      "downloadURL" : "https://github.com/IconsetApp/iconset/releases/download/v2.2.0/Iconset-2.2.0-mac.zip",
+      "downloadURL" : "https://github.com/IconsetApp/iconset/releases/download/v2.3.0/Iconset-2.3.0-mac.zip",
       "homepage" : "https://iconset.io/",
       "localizedDescription" : "Organize icon sets and packs in one place",
       "name" : "Iconset",
-      "sha256" : "c2c83113711b81625d0ccce9697c2bcc104f447f15fd21491238f8337b89c3a1",
+      "sha256" : "71d593d40fbe89e45630c2140a0ad61c0db3e1611237f53f62fcc97f7baca7d7",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "Organize icon sets and packs in one place",
-      "version" : "2.2.0"
+      "version" : "2.3.0",
+      "versionDate" : "2022-11-06T18:39:39Z"
     },
     {
       "beta" : false,
@@ -58269,16 +58271,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "liclipse",
-      "downloadURL" : "https://www.mediafire.com/file/ks1e8pymgewjnrx/liclipse_9.0.0_macosx.cocoa.x86_64.tar.gz",
+      "downloadURL" : "https://www.mediafire.com/file/5ao858sjvo8gibh/liclipse_9.0.1_macosx.cocoa.x86_64.tar.gz",
       "homepage" : "https://www.liclipse.com/",
       "localizedDescription" : "Lightweight editors, theming and usability improvements for Eclipse",
       "name" : "LiClipse",
-      "sha256" : "dae61a468d86520fa653ca34518c8700220cd727375fba9d54fb213db6ee2b32",
+      "sha256" : "bbba6f686ecb62a6b32ffd695358d4729a0db81bc5578a7fe5973bebafa1a8df",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "Lightweight editors, theming and usability improvements for Eclipse",
-      "version" : "9.0.0,ks1e8pymgewjnrx"
+      "version" : "9.0.1,5ao858sjvo8gibh",
+      "versionDate" : "2022-11-06T18:39:39Z"
     },
     {
       "beta" : false,
@@ -59785,17 +59788,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "compositor",
-      "downloadURL" : "https://compositorapp.com/updates/Compositor_1.19.0.zip",
+      "downloadURL" : "https://compositorapp.com/updates/Compositor_1.20.2.zip",
       "homepage" : "https://compositorapp.com/",
       "localizedDescription" : "WYSIWYG LaTeX editor",
       "name" : "Compositor",
-      "sha256" : "3f42ebc26c79630be437541f03be3e081b5b86f9b19fce13bb2e9e6f6b111519",
+      "sha256" : "efe36ac76979fad2707fb7583cf5299006907fc8f20a4e0417ae6c5fd0739ddf",
       "stats" : {
         "downloadCount" : 0
       },
       "subtitle" : "WYSIWYG LaTeX editor",
-      "version" : "1.19.0",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "1.20.2",
+      "versionDate" : "2022-11-06T18:39:39Z"
     },
     {
       "beta" : false,
@@ -62110,55 +62113,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "citrix-workspace",
-      "caption" : "Citrix Workspace updated from 22.10.0.44,2210 to 22.11.0.12,2211",
-      "date" : "2022-11-04T20:36:23Z",
-      "identifier" : "release-citrix-workspace-22.11.0.12,2211",
-      "title" : "New Release: Citrix Workspace 22.11.0.12,2211"
-    },
-    {
-      "appID" : "beyond-compare",
-      "caption" : "Beyond Compare updated from 4.4.3.26655 to 4.4.4.27058",
-      "date" : "2022-11-04T20:36:24Z",
-      "identifier" : "release-beyond-compare-4.4.4.27058",
-      "title" : "New Release: Beyond Compare 4.4.4.27058"
-    },
-    {
-      "appID" : "fantastical",
-      "caption" : "Fantastical updated from 3.7.2,1520 to 3.7.3,1534",
-      "date" : "2022-11-04T20:36:24Z",
-      "identifier" : "release-fantastical-3.7.3,1534",
-      "title" : "New Release: Fantastical 3.7.3,1534"
-    },
-    {
-      "appID" : "openlens",
-      "caption" : "OpenLens updated from 6.1.14 to 6.1.15",
-      "date" : "2022-11-04T20:36:25Z",
-      "identifier" : "release-openlens-6.1.15",
-      "title" : "New Release: OpenLens 6.1.15"
-    },
-    {
-      "appID" : "nova",
-      "caption" : "Panic Nova updated from 10 to 10.1",
-      "date" : "2022-11-04T20:36:25Z",
-      "identifier" : "release-nova-10.1",
-      "title" : "New Release: Panic Nova 10.1"
-    },
-    {
-      "appID" : "sfdx",
-      "caption" : "Salesforce DX CLI updated from 7.174.0 to 7.175.0",
-      "date" : "2022-11-04T20:36:25Z",
-      "identifier" : "release-sfdx-7.175.0",
-      "title" : "New Release: Salesforce DX CLI 7.175.0"
-    },
-    {
-      "appID" : "zeplin",
-      "caption" : "Zeplin updated from 4.5.1,1677 to 4.6,1692",
-      "date" : "2022-11-04T20:36:25Z",
-      "identifier" : "release-zeplin-4.6,1692",
-      "title" : "New Release: Zeplin 4.6,1692"
-    },
-    {
       "appID" : "clash-for-windows",
       "caption" : "Clash for Windows updated from 0.20.6 to 0.20.7",
       "date" : "2022-11-04T20:36:25Z",
@@ -62808,6 +62762,55 @@
       "date" : "2022-11-06T17:29:50Z",
       "identifier" : "release-metasploit-6.2.26,20221106112913",
       "title" : "New Release: Metasploit Framework 6.2.26,20221106112913"
+    },
+    {
+      "appID" : "krita",
+      "caption" : "Krita updated from 5.1.2 to 5.1.3",
+      "date" : "2022-11-06T18:39:43Z",
+      "identifier" : "release-krita-5.1.3",
+      "title" : "New Release: Krita 5.1.3"
+    },
+    {
+      "appID" : "busycal",
+      "caption" : "BusyCal updated from 2022.4.4,2022-10-31-09-25 to 2022.4.4,2022-11-06-20-57",
+      "date" : "2022-11-06T18:39:44Z",
+      "identifier" : "release-busycal-2022.4.4,2022-11-06-20-57",
+      "title" : "New Release: BusyCal 2022.4.4,2022-11-06-20-57"
+    },
+    {
+      "appID" : "cookie",
+      "caption" : "Cookie updated from 6.8.2 to 6.8.3",
+      "date" : "2022-11-06T18:39:45Z",
+      "identifier" : "release-cookie-6.8.3",
+      "title" : "New Release: Cookie 6.8.3"
+    },
+    {
+      "appID" : "brewtarget",
+      "caption" : "brewtarget updated from 3.0.2 to 3.0.3",
+      "date" : "2022-11-06T18:39:45Z",
+      "identifier" : "release-brewtarget-3.0.3",
+      "title" : "New Release: brewtarget 3.0.3"
+    },
+    {
+      "appID" : "iconset",
+      "caption" : "Iconset updated from 2.2.0 to 2.3.0",
+      "date" : "2022-11-06T18:39:45Z",
+      "identifier" : "release-iconset-2.3.0",
+      "title" : "New Release: Iconset 2.3.0"
+    },
+    {
+      "appID" : "liclipse",
+      "caption" : "LiClipse updated from 9.0.0,ks1e8pymgewjnrx to 9.0.1,5ao858sjvo8gibh",
+      "date" : "2022-11-06T18:39:45Z",
+      "identifier" : "release-liclipse-9.0.1,5ao858sjvo8gibh",
+      "title" : "New Release: LiClipse 9.0.1,5ao858sjvo8gibh"
+    },
+    {
+      "appID" : "compositor",
+      "caption" : "Compositor updated from 1.19.0 to 1.20.2",
+      "date" : "2022-11-06T18:39:46Z",
+      "identifier" : "release-compositor-1.20.2",
+      "title" : "New Release: Compositor 1.20.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

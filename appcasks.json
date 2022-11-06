@@ -661,7 +661,7 @@
       "subtitle" : "Desktop client for Telegram messenger",
       "tintColor" : "3DA3D5",
       "version" : "4.3.0",
-      "versionDate" : "2022-11-06T02:26:41Z"
+      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16277,7 +16277,7 @@
       },
       "subtitle" : "Open-source software for live streaming and screen recording",
       "version" : "28.1.2",
-      "versionDate" : "2022-11-06T02:26:41Z"
+      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40725,16 +40725,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "ckan",
-      "downloadURL" : "https://github.com/KSP-CKAN/CKAN/releases/download/v1.31.0/CKAN.dmg",
+      "downloadURL" : "https://github.com/KSP-CKAN/CKAN/releases/download/v1.31.2/CKAN.dmg",
       "homepage" : "https://github.com/KSP-CKAN/CKAN",
       "localizedDescription" : "Mod management solution for Kerbal Space Program",
       "name" : "Comprehensive Kerbal Archive Network",
-      "sha256" : "abee84659d902afc6bedec46e8dba6f40f5a94725b5a2e0ac690891cfa7eb81b",
+      "sha256" : "1b55b4f696af9f1bd22b478a0fe86270fcde86633f21242044e8ba3fc8434d00",
       "stats" : {
         "downloadCount" : 10
       },
       "subtitle" : "Mod management solution for Kerbal Space Program",
-      "version" : "1.31.0"
+      "version" : "1.31.2",
+      "versionDate" : "2022-11-06T03:58:44Z"
     },
     {
       "beta" : false,
@@ -62087,13 +62088,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "genymotion",
-      "caption" : "Genymotion updated from 3.3.0 to 3.3.1",
-      "date" : "2022-11-04T04:12:24Z",
-      "identifier" : "release-genymotion-3.3.1",
-      "title" : "New Release: Genymotion 3.3.1"
-    },
-    {
       "appID" : "craftmanager",
       "caption" : "CraftManager updated from 1.2.7,445 to 1.2.9,462",
       "date" : "2022-11-04T04:12:24Z",
@@ -62785,6 +62779,13 @@
       "date" : "2022-11-06T02:26:43Z",
       "identifier" : "release-obs-28.1.2",
       "title" : "New Release: OBS 28.1.2"
+    },
+    {
+      "appID" : "ckan",
+      "caption" : "Comprehensive Kerbal Archive Network updated from 1.31.0 to 1.31.2",
+      "date" : "2022-11-06T03:58:45Z",
+      "identifier" : "release-ckan-1.31.2",
+      "title" : "New Release: Comprehensive Kerbal Archive Network 1.31.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -48,7 +48,7 @@ tr:nth-child(even) {
 | [``Spectacle``](https://www.spectacleapp.com/) | ``1.2,672`` | `1022` |  |  | `2470` | `124` |  | `0` | `public.app-category.utilities` |
 | [``Skim``](https://skim-app.sourceforge.io/) | ``1.6.13,143`` | `944` | `2022-10-31T00:00:00Z` |  | `2325` | `162` |  | `0` | `public.app-category.reference` |
 | [``Suspicious Package``](https://www.mothersruin.com/software/SuspiciousPackage/) | ``4.3,996`` | `816` | `2022-10-28T00:00:00Z` |  | `2160` | `141` |  | `0` | `public.app-category.developer-tools` |
-| [``Telegram Desktop``](https://desktop.telegram.org/) | ``4.3.0`` | `707` | `2022-11-06T02:26:41Z` |  | `2228` | `113` |  | `0` | `public.app-category.social-networking` |
+| [``Telegram Desktop``](https://desktop.telegram.org/) | ``4.3.0`` | `707` | `2022-11-06T00:00:00Z` |  | `2228` | `113` |  | `0` | `public.app-category.social-networking` |
 | [``Typora``](https://typora.io/) | ``1.4.8`` | `564` | `2022-10-28T00:00:00Z` |  | `2152` | `121` |  | `0` | `public.app-category.productivity` |
 | [``Sequel Pro``](https://www.sequelpro.com/) | ``1.1.2`` | `540` |  |  | `2087` | `97` |  | `0` | `public.app-category.developer-tools` |
 | [``Skitch``](https://evernote.com/products/skitch) | ``2.9,265157`` | `428` |  |  | `2057` | `94` |  | `0` | `public.app-category.productivity` |
@@ -854,7 +854,7 @@ tr:nth-child(even) {
 | [``BasicTeX``](https://www.tug.org/mactex/morepackages.html) | ``2022.0314`` | `2358` |  |  |  |  |  | `0` |  |
 | [``Another Redis Desktop Ma…``](https://github.com/qishibo/AnotherRedisDesktopManager/) | ``1.5.9`` | `2350` |  |  |  |  |  | `0` |  |
 | [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2330` |  |  |  |  |  | `0` |  |
-| [``OBS``](https://obsproject.com/) | ``28.1.2`` | `2324` | `2022-11-06T02:26:41Z` |  |  |  |  | `0` |  |
+| [``OBS``](https://obsproject.com/) | ``28.1.2`` | `2324` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Lens``](https://k8slens.dev/) | ``2022.11.41813`` | `2322` | `2022-11-05T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Dropbox``](https://www.dropbox.com/) | ``160.4.4703`` | `2257` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``kitty``](https://github.com/kovidgoyal/kitty) | ``0.26.4`` | `2213` |  |  |  |  |  | `0` |  |
@@ -2583,7 +2583,7 @@ tr:nth-child(even) {
 | [``baretorrent``](https://launchpad.net/baretorrent) | ``0.4.4`` | `10` |  |  |  |  |  | `0` |  |
 | [``Brightness``](http://bergdesign.com/brightness/) | ``1.1.2`` | `10` |  |  |  |  |  | `0` |  |
 | [``captain``](https://getcaptain.co/) | ``10.1.0`` | `10` |  |  |  |  |  | `0` |  |
-| [``Comprehensive Kerbal Arc…``](https://github.com/KSP-CKAN/CKAN) | ``1.31.0`` | `10` |  |  |  |  |  | `0` |  |
+| [``Comprehensive Kerbal Arc…``](https://github.com/KSP-CKAN/CKAN) | ``1.31.2`` | `10` | `2022-11-06T03:58:44Z` |  |  |  |  | `0` |  |
 | [``cleaneronepro``](https://cleanerone.trendmicro.com/) | ``6.6.5,4961`` | `10` |  |  |  |  |  | `0` |  |
 | [``CronniX``](https://code.google.com/archive/p/cronnix/) | ``3.0.2`` | `10` |  |  |  |  |  | `0` |  |
 | [``Dangerzone``](https://dangerzone.rocks/) | ``0.3.2`` | `10` |  |  |  |  |  | `0` |  |

@@ -27,9 +27,9 @@
       "size" : 12762342,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 133,
+        "downloadCount" : 138,
         "forkCount" : 0,
-        "impressionCount" : 1168,
+        "impressionCount" : 1169,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 90,
@@ -63,7 +63,7 @@
       "size" : 1453833866,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 94,
+        "downloadCount" : 99,
         "forkCount" : 0,
         "impressionCount" : 5,
         "issueCount" : 0,
@@ -99,9 +99,9 @@
       "size" : 1458058228,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 94,
+        "downloadCount" : 99,
         "forkCount" : 0,
-        "impressionCount" : 1382,
+        "impressionCount" : 1383,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 62,
@@ -139,7 +139,7 @@
       "size" : 2735295,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 93,
+        "downloadCount" : 98,
         "forkCount" : 0,
         "impressionCount" : 0,
         "issueCount" : 0,
@@ -171,7 +171,7 @@
         "coreSize" : 168592,
         "downloadCount" : 58,
         "forkCount" : 0,
-        "impressionCount" : 908,
+        "impressionCount" : 909,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 98,
@@ -209,7 +209,7 @@
         "coreSize" : 170144,
         "downloadCount" : 54,
         "forkCount" : 0,
-        "impressionCount" : 4272,
+        "impressionCount" : 4273,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 299,
@@ -220,49 +220,6 @@
       "version" : "0.0.20",
       "versionDate" : "2022-07-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.19...0.0.20"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Net-Skip",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-iOS.ipa",
-      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
-      "localizedDescription" : "Web browsing for the connoisseur",
-      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
-      "name" : "Net Skip",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.network.client",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to access the network to load web pages."
-        },
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-write",
-          "type" : "entitlement",
-          "usageDescription" : "This app needs to write files in order to save downloads."
-        }
-      ],
-      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
-      "screenshotURLs" : [
-        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-iphone-1170x2532.png",
-        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-iphone-1170x2532.png"
-      ],
-      "sha256" : "70e4c9c2f460366b008681f80b1728f373ef3433e8c8fcdca918bdff47843722",
-      "size" : 7745230,
-      "stats" : {
-        "coreSize" : 170224,
-        "downloadCount" : 35,
-        "forkCount" : 0,
-        "impressionCount" : 455,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 31,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Web browsing for the connoisseur",
-      "version" : "0.0.48",
-      "versionDate" : "2022-09-20T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
     },
     {
       "beta" : false,
@@ -314,7 +271,7 @@
       "size" : 8081865,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 33,
+        "downloadCount" : 38,
         "forkCount" : 1,
         "impressionCount" : 331,
         "issueCount" : 7,
@@ -327,6 +284,49 @@
       "version" : "0.8.131",
       "versionDate" : "2022-10-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/App-Fair/App/compare/0.8.130...0.8.131"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Net-Skip",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip-iOS.ipa",
+      "iconURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Net-Skip.png",
+      "localizedDescription" : "Web browsing for the connoisseur",
+      "metadataURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/Info.plist#408ec7d7e9107af9a9c31ff37a6435959f279a192c2b8843b15e2f7c44bf70f7",
+      "name" : "Net Skip",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.network.client",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to access the network to load web pages."
+        },
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-write",
+          "type" : "entitlement",
+          "usageDescription" : "This app needs to write files in order to save downloads."
+        }
+      ],
+      "readmeURL" : "https://github.com/Net-Skip/App/releases/download/0.0.48/README.md#2322fa88e948df43746da8f0160410875afaa83d2b5f627321592854d0b5e106",
+      "screenshotURLs" : [
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_01-iphone-1170x2532.png",
+        "https://github.com/Net-Skip/App/releases/download/0.0.48/screenshot_02-iphone-1170x2532.png"
+      ],
+      "sha256" : "70e4c9c2f460366b008681f80b1728f373ef3433e8c8fcdca918bdff47843722",
+      "size" : 7745230,
+      "stats" : {
+        "coreSize" : 170224,
+        "downloadCount" : 35,
+        "forkCount" : 0,
+        "impressionCount" : 455,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 31,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Web browsing for the connoisseur",
+      "version" : "0.0.48",
+      "versionDate" : "2022-09-20T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
     },
     {
       "beta" : false,
@@ -347,7 +347,7 @@
         "coreSize" : 170144,
         "downloadCount" : 28,
         "forkCount" : 0,
-        "impressionCount" : 1239,
+        "impressionCount" : 1240,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 106,
@@ -421,7 +421,7 @@
         "coreSize" : 170240,
         "downloadCount" : 25,
         "forkCount" : 1,
-        "impressionCount" : 1278,
+        "impressionCount" : 1279,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 89,
@@ -613,7 +613,7 @@
         "coreSize" : 102392,
         "downloadCount" : 8,
         "forkCount" : 0,
-        "impressionCount" : 3671,
+        "impressionCount" : 3672,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 207,
@@ -968,7 +968,7 @@
         "coreSize" : 170240,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 985,
+        "impressionCount" : 986,
         "issueCount" : 0,
         "starCount" : 2,
         "viewCount" : 45,
@@ -999,7 +999,7 @@
         "coreSize" : 170144,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1117,
+        "impressionCount" : 1118,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 80,
@@ -1075,7 +1075,7 @@
         "coreSize" : 170224,
         "downloadCount" : 3,
         "forkCount" : 0,
-        "impressionCount" : 1451,
+        "impressionCount" : 1452,
         "issueCount" : 0,
         "starCount" : 1,
         "viewCount" : 122,
@@ -1106,7 +1106,7 @@
         "coreSize" : 67800,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 54,
+        "impressionCount" : 55,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 5,
@@ -1136,7 +1136,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1532,
+        "impressionCount" : 1533,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 100,
@@ -1166,7 +1166,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1575,
+        "impressionCount" : 1576,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 82,
@@ -1196,7 +1196,7 @@
         "coreSize" : 170144,
         "downloadCount" : 2,
         "forkCount" : 0,
-        "impressionCount" : 1199,
+        "impressionCount" : 1200,
         "issueCount" : 0,
         "starCount" : 0,
         "viewCount" : 73,

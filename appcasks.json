@@ -197,7 +197,7 @@
       "stats" : {
         "downloadCount" : 211,
         "impressionCount" : 5261,
-        "viewCount" : 382
+        "viewCount" : 383
       },
       "subtitle" : "App wrapper for music.youtube.com",
       "tintColor" : "E73737",
@@ -866,7 +866,7 @@
       "sha256" : "af54aca28d07ce3dd9383f66fc638f5ebfe633c854db050b3e3a94a769f41070",
       "stats" : {
         "downloadCount" : 8505,
-        "impressionCount" : 1062
+        "impressionCount" : 1063
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "version" : "5.12.3.11845",
@@ -886,7 +886,7 @@
       "sha256" : "f270dac14cf355026268d2a5a00d903c5102b69e0d2db2a7e47142f7eb76e025",
       "stats" : {
         "downloadCount" : 8281,
-        "impressionCount" : 996
+        "impressionCount" : 997
       },
       "subtitle" : "Open-source version of the X.Org X Window System",
       "version" : "2.8.2"
@@ -16440,7 +16440,7 @@
       },
       "subtitle" : "Web browser",
       "version" : "106.0.5,1,6ce6e4ac89c01bf56704e9689ab8208e",
-      "versionDate" : "2022-11-06T16:39:44Z"
+      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17580,17 +17580,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "metasploit",
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.26%2B20221104102857-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.26%2B20221106112913-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "69314e200c2add7478f5081462a90014c8913b1b4c76bcfb95fd6199cc0af20e",
+      "sha256" : "9db0814c297aeb23ce86b6cfb386da34f41a475162c460b85949d1e7cda83a5d",
       "stats" : {
         "downloadCount" : 724
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.26,20221104102857",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "6.2.26,20221106112913",
+      "versionDate" : "2022-11-06T17:29:49Z"
     },
     {
       "beta" : false,
@@ -62110,13 +62110,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "protonvpn",
-      "caption" : "ProtonVPN updated from 3.0.4 to 3.0.5",
-      "date" : "2022-11-04T20:36:23Z",
-      "identifier" : "release-protonvpn-3.0.5",
-      "title" : "New Release: ProtonVPN 3.0.5"
-    },
-    {
       "appID" : "citrix-workspace",
       "caption" : "Citrix Workspace updated from 22.10.0.44,2210 to 22.11.0.12,2211",
       "date" : "2022-11-04T20:36:23Z",
@@ -62808,6 +62801,13 @@
       "date" : "2022-11-06T16:39:45Z",
       "identifier" : "release-librewolf-106.0.5,1,6ce6e4ac89c01bf56704e9689ab8208e",
       "title" : "New Release: LibreWolf 106.0.5,1,6ce6e4ac89c01bf56704e9689ab8208e"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.26,20221104102857 to 6.2.26,20221106112913",
+      "date" : "2022-11-06T17:29:50Z",
+      "identifier" : "release-metasploit-6.2.26,20221106112913",
+      "title" : "New Release: Metasploit Framework 6.2.26,20221106112913"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

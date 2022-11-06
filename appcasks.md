@@ -29,7 +29,7 @@ tr:nth-child(even) {
 | [``WhatsApp``](https://www.whatsapp.com/) | ``2.2241.7`` | `3499` | `2022-10-31T00:00:00Z` |  | `10036` | `657` |  | `0` | `public.app-category.social-networking` |
 | [``Steam``](https://store.steampowered.com/about/) | ``4.0`` | `2634` |  |  | `7792` | `475` |  | `0` | `public.app-category.games` |
 | [``Tower``](https://www.git-tower.com/) | ``9.0,342,26634c15`` | `226` |  |  | `6101` | `488` |  | `0` | `public.app-category.developer-tools` |
-| [``YouTube Music``](https://github.com/steve228uk/YouTube-Music) | ``1.3.3`` | `211` |  |  | `5261` | `382` |  | `0` | `public.app-category.music` |
+| [``YouTube Music``](https://github.com/steve228uk/YouTube-Music) | ``1.3.3`` | `211` |  |  | `5261` | `383` |  | `0` | `public.app-category.music` |
 | [``Unison``](https://www.cis.upenn.edu/~bcpierce/unison/) | ``2.52.1,4.14.0`` | `127` |  |  | `4323` | `366` |  | `0` | `public.app-category.utilities` |
 | [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `6` | `2022-10-18T00:00:00Z` |  | `4392` | `347` |  | `0` | `public.app-category.developer-tools` |
 | [``Slack``](https://slack.com/) | ``4.29.144`` | `8074` | `2022-10-28T00:00:00Z` |  | `3898` | `276` |  | `0` | `public.app-category.business` |
@@ -57,8 +57,8 @@ tr:nth-child(even) {
 | [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `7` |  |  |  | `173` |  | `0` | `public.app-category.utilities` |
 | [``VASSAL``](https://www.vassalengine.org/) | ``3.6.7`` | `5` |  |  | `2189` | `125` |  | `0` | `public.app-category.games` |
 | [``Microsoft Visual Studio …``](https://code.visualstudio.com/) | ``1.73.0`` | `33033` | `2022-11-02T00:00:00Z` |  | `1942` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Zoom.us``](https://www.zoom.us/) | ``5.12.3.11845`` | `8505` | `2022-10-28T00:00:00Z` |  | `1062` |  |  | `0` | `public.app-category.social-networking` |
-| [``XQuartz``](https://www.xquartz.org/) | ``2.8.2`` | `8281` |  |  | `996` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Zoom.us``](https://www.zoom.us/) | ``5.12.3.11845`` | `8505` | `2022-10-28T00:00:00Z` |  | `1063` |  |  | `0` | `public.app-category.social-networking` |
+| [``XQuartz``](https://www.xquartz.org/) | ``2.8.2`` | `8281` |  |  | `997` |  |  | `0` | `public.app-category.developer-tools` |
 | [``UTM``](https://getutm.app/) | ``4.0.9`` | `2510` | `2022-10-28T00:00:00Z` |  | `2539` |  |  | `0` | `public.app-category.business` |
 | [``Atlassian SourceTree``](https://www.sourcetreeapp.com/) | ``4.2.0,246`` | `2288` |  |  | `1196` |  |  | `0` | `public.app-category.developer-tools` |
 | [``TeamViewer``](https://www.teamviewer.com/) | ``15.35.7`` | `2036` | `2022-10-28T00:00:00Z` |  | `657` |  |  | `0` | `public.app-category.developer-tools` |
@@ -865,7 +865,7 @@ tr:nth-child(even) {
 | [``Background Music``](https://github.com/kyleneideck/BackgroundMusic) | ``0.4.0`` | `1985` |  |  |  |  |  | `0` |  |
 | [``Adobe Acrobat Reader``](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) | ``22.003.20258`` | `1973` |  |  |  |  |  | `0` |  |
 | [``Microsoft Remote Desktop``](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-mac) | ``10.7.10`` | `1930` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``LibreWolf``](https://librewolf.net/) | ``106.0.5,1,6ce6e4ac89c01b…`` | `1910` | `2022-11-06T16:39:44Z` |  |  |  |  | `0` |  |
+| [``LibreWolf``](https://librewolf.net/) | ``106.0.5,1,6ce6e4ac89c01b…`` | `1910` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``.NET SDK``](https://www.microsoft.com/net/core#macos) | ``6.0.402,f55a179b-7084-41…`` | `1888` |  |  |  |  |  | `0` |  |
 | [``Brooklyn``](https://github.com/pedrommcarrasco/Brooklyn) | ``2.1.0`` | `1840` |  |  |  |  |  | `0` |  |
 | [``calibre``](https://calibre-ebook.com/) | ``6.8.0`` | `1836` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
@@ -945,7 +945,7 @@ tr:nth-child(even) {
 | [``Latest``](https://max.codes/latest) | ``0.8.3,820`` | `731` |  |  |  |  |  | `0` |  |
 | [``Mockoon``](https://mockoon.com/) | ``1.21.1`` | `731` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ProtonVPN``](https://protonvpn.com/) | ``3.0.5`` | `727` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.26,20221104102857`` | `724` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.26,20221106112913`` | `724` | `2022-11-06T17:29:49Z` |  |  |  |  | `0` |  |
 | [``DeepL``](https://www.deepl.com/) | ``3.7.277083`` | `720` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``NordVPN``](https://nordvpn.com/) | ``7.11.2,204`` | `719` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``QuickLook Video``](https://github.com/Marginal/QLVideo) | ``1.94`` | `714` |  |  |  |  |  | `0` |  |

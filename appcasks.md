@@ -199,7 +199,7 @@ tr:nth-child(even) {
 | [``Tutanota Desktop``](https://tutanota.com/) | ``3.103.3`` | `40` | `2022-11-04T00:00:00Z` |  | `429` |  |  | `0` | `public.app-category.developer-tools` |
 | [``TripMode``](https://www.tripmode.ch/) | ``3.1.3,1303`` | `40` |  |  | `339` |  |  | `0` | `public.app-category.utilities` |
 | [``Thor``](https://github.com/gbammc/Thor/) | ``1.5.10`` | `40` |  |  | `372` |  |  | `0` | `public.app-category.utilities` |
-| [``TextExpander``](https://smilesoftware.com/TextExpander) | ``7.3.1,731.2`` | `40` | `2022-11-06T19:25:36Z` |  | `378` |  |  | `0` | `public.app-category.utilities` |
+| [``TextExpander``](https://smilesoftware.com/TextExpander) | ``7.3.1,731.2`` | `40` | `2022-11-06T00:00:00Z` |  | `378` |  |  | `0` | `public.app-category.utilities` |
 | [``SeaMonkey``](https://www.seamonkey-project.org/) | ``2.53.14`` | `40` |  |  | `466` |  |  | `0` | `public.app-category.productivity` |
 | [``Trilium Notes``](https://github.com/zadam/trilium) | ``0.56.2`` | `39` | `2022-10-28T00:00:00Z` |  | `682` |  |  | `0` | `public.app-category.developer-tools` |
 | [``transfer``](https://www.intuitibits.com/products/transfer/) | ``2.1,14`` | `39` |  |  | `179` |  |  | `0` | `public.app-category.utilities` |
@@ -2222,7 +2222,7 @@ tr:nth-child(even) {
 | [``Baidu Input``](https://srf.baidu.com/input/mac.html) | ``latest`` | `18` |  |  |  |  |  | `0` |  |
 | [``bossa``](https://www.shumatech.com/web/products/bossa) | ``1.9.1`` | `18` |  |  |  |  |  | `0` |  |
 | [``Studio``](https://www.bricklink.com/v3/studio/download.page) | ``2.22.10_1`` | `18` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``cakebrewjs``](https://sourceforge.net/projects/cakebrewjs) | ``1.3.5`` | `18` | `2022-11-06T19:25:36Z` |  |  |  |  | `0` |  |
+| [``cakebrewjs``](https://sourceforge.net/projects/cakebrewjs) | ``1.3.5`` | `18` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Cryptr``](https://github.com/adobe/cryptr) | ``0.5.0`` | `18` |  |  |  |  |  | `0` |  |
 | [``DBeaver Lite Edition``](https://dbeaver.com/dbeaver-lite/) | ``22.2.0`` | `18` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Deadbolt``](https://github.com/alichtman/deadbolt) | ``0.1.0`` | `18` |  |  |  |  |  | `0` |  |

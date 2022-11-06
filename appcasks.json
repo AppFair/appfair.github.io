@@ -253,7 +253,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4387,
+        "impressionCount" : 4388,
         "viewCount" : 347
       },
       "subtitle" : "Create DMGs and other archives",
@@ -311,13 +311,13 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.41/Stats.dmg",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.42/Stats.dmg",
       "homepage" : "https://github.com/exelban/stats",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/AppIcon.png",
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "ddc26d7afc0fd04188f1a6ff8208646a23a04c14b9f43657abd8d89d102bde04",
+      "sha256" : "0e3a9215937ba45e1eb7452ae055fc0064090bfd983dd3f5ce3ecb174c26164e",
       "stats" : {
         "downloadCount" : 5325,
         "impressionCount" : 5885,
@@ -325,8 +325,8 @@
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
-      "version" : "2.7.41",
-      "versionDate" : "2022-10-30T00:00:00Z"
+      "version" : "2.7.42",
+      "versionDate" : "2022-11-06T14:28:55Z"
     },
     {
       "beta" : false,
@@ -753,7 +753,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 4273
+        "impressionCount" : 4274
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -1270,7 +1270,7 @@
       "sha256" : "c0ad99dff1b338818d38c415eaa1908c50fc59c41856014ace4d69e44463a9cc",
       "stats" : {
         "downloadCount" : 440,
-        "impressionCount" : 759
+        "impressionCount" : 760
       },
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
@@ -1612,7 +1612,7 @@
       "sha256" : "73ee8fbcf481b1cf68a3456f3c215be8a7d8835342220cc44fba6fa0440f37fc",
       "stats" : {
         "downloadCount" : 220,
-        "impressionCount" : 642
+        "impressionCount" : 643
       },
       "subtitle" : "Open-source markdown editor",
       "tintColor" : "41C1A1",
@@ -1694,7 +1694,7 @@
       "sha256" : "48f341375cbf444ef5e5900702febc8243328ce4ee8e83c155e2ae1bc14b1dbe",
       "stats" : {
         "downloadCount" : 197,
-        "impressionCount" : 1002,
+        "impressionCount" : 1003,
         "viewCount" : 75
       },
       "subtitle" : "Native app email client for Gmail",
@@ -18369,17 +18369,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "proxyman",
-      "downloadURL" : "https://download.proxyman.io/31200/Proxyman_3.12.0.dmg",
+      "downloadURL" : "https://download.proxyman.io/31300/Proxyman_3.13.0.dmg",
       "homepage" : "https://proxyman.io/",
       "localizedDescription" : "Modern and intuitive HTTP Debugging Proxy app",
       "name" : "Proxyman",
-      "sha256" : "1f843143a4c65a90b843bf04febd9e8e3b0f4ab45dc058e12f68cc11a025b7b0",
+      "sha256" : "24a4a24ba69105e43e0866304a8b8b57807b9a8becc97b0b695f6371942e97fb",
       "stats" : {
         "downloadCount" : 507
       },
       "subtitle" : "Modern and intuitive HTTP Debugging Proxy app",
-      "version" : "3.12.0,31200",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "3.13.0,31300",
+      "versionDate" : "2022-11-06T14:28:55Z"
     },
     {
       "beta" : false,
@@ -19132,17 +19132,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "coteditor",
-      "downloadURL" : "https://github.com/coteditor/CotEditor/releases/download/4.4.0/CotEditor_4.4.0.dmg",
+      "downloadURL" : "https://github.com/coteditor/CotEditor/releases/download/4.4.1/CotEditor_4.4.1.dmg",
       "homepage" : "https://coteditor.com/",
       "localizedDescription" : "Plain-text editor for web pages, program source codes and more",
       "name" : "CotEditor",
-      "sha256" : "80bedbc5633c4f3a50cf76787b0a728e5e235ee20e4a723980c77bd83cce3a10",
+      "sha256" : "f5b51561148d9855b1c8b1705e4227818c836df184bd0709ab743e76c387c2b9",
       "stats" : {
         "downloadCount" : 385
       },
       "subtitle" : "Plain-text editor for web pages, program source codes and more",
-      "version" : "4.4.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "4.4.1",
+      "versionDate" : "2022-11-06T14:28:55Z"
     },
     {
       "beta" : false,
@@ -35679,17 +35679,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "cakebrewjs",
-      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.3.3/cakebrewjs-1.3.3-mac.zip",
+      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.3.4/cakebrewjs-1.3.4-mac.zip",
       "homepage" : "https://sourceforge.net/projects/cakebrewjs",
       "localizedDescription" : "Homebrew GUI app written in electron",
       "name" : "cakebrewjs",
-      "sha256" : "19d4c98af77a8d6c6825d42faeb62e6d98b1bf718bc4f42b62d03779933c3716",
+      "sha256" : "e28e8916fa4b846e7b1d74f0623ce763635fe49b46b2205e019a9103bfa8a99f",
       "stats" : {
         "downloadCount" : 18
       },
       "subtitle" : "Homebrew GUI app written in electron",
-      "version" : "1.3.3",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "1.3.4",
+      "versionDate" : "2022-11-06T14:28:55Z"
     },
     {
       "beta" : false,
@@ -48956,17 +48956,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "sameboy",
-      "downloadURL" : "https://github.com/LIJI32/SameBoy/releases/download/v0.15.7/sameboy_cocoa_v0.15.7.zip",
+      "downloadURL" : "https://github.com/LIJI32/SameBoy/releases/download/v0.15.8/sameboy_cocoa_v0.15.8.zip",
       "homepage" : "https://sameboy.github.io/",
       "localizedDescription" : "Game Boy and Game Boy Color emulator written in C",
       "name" : "SameBoy",
-      "sha256" : "be1fdce3fd590bf1352195fab358daf7a404f6e8f2d9f0d3693b3d7b8a4f347f",
+      "sha256" : "8df3df469868f77777bc1776f15e95085f0256bec891cf65c5918c01cb16611f",
       "stats" : {
         "downloadCount" : 5
       },
       "subtitle" : "Game Boy and Game Boy Color emulator written in C",
-      "version" : "0.15.7",
-      "versionDate" : "2022-11-01T00:00:00Z"
+      "version" : "0.15.8",
+      "versionDate" : "2022-11-06T14:28:55Z"
     },
     {
       "beta" : false,
@@ -62110,34 +62110,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "wing-personal",
-      "caption" : "Wing Personal updated from 9.0.0.4 to 9.0.0.6",
-      "date" : "2022-11-04T20:36:22Z",
-      "identifier" : "release-wing-personal-9.0.0.6",
-      "title" : "New Release: Wing Personal 9.0.0.6"
-    },
-    {
-      "appID" : "jetbrains-toolbox",
-      "caption" : "JetBrains Toolbox updated from 1.26.4,1.26.4.13374 to 1.26.5,1.26.5.13419",
-      "date" : "2022-11-04T20:36:22Z",
-      "identifier" : "release-jetbrains-toolbox-1.26.5,1.26.5.13419",
-      "title" : "New Release: JetBrains Toolbox 1.26.5,1.26.5.13419"
-    },
-    {
-      "appID" : "figma",
-      "caption" : "Figma updated from 116.4.4 to 116.5.15",
-      "date" : "2022-11-04T20:36:23Z",
-      "identifier" : "release-figma-116.5.15",
-      "title" : "New Release: Figma 116.5.15"
-    },
-    {
-      "appID" : "coconutbattery",
-      "caption" : "coconutBattery updated from 3.9.10,A70D8E72 to 3.9.10,8CB62F0B",
-      "date" : "2022-11-04T20:36:23Z",
-      "identifier" : "release-coconutbattery-3.9.10,8CB62F0B",
-      "title" : "New Release: coconutBattery 3.9.10,8CB62F0B"
-    },
-    {
       "appID" : "metasploit",
       "caption" : "Metasploit Framework updated from 6.2.25,20221103102958 to 6.2.26,20221104102857",
       "date" : "2022-11-04T20:36:23Z",
@@ -62677,13 +62649,6 @@
       "title" : "New Release: mi 3.7,1190"
     },
     {
-      "appID" : "cakebrewjs",
-      "caption" : "cakebrewjs updated from 1.3.1 to 1.3.3",
-      "date" : "2022-11-06T12:50:59Z",
-      "identifier" : "release-cakebrewjs-1.3.3",
-      "title" : "New Release: cakebrewjs 1.3.3"
-    },
-    {
       "appID" : "bookends",
       "caption" : "Bookends updated from 14.1.3 to 14.1.4",
       "date" : "2022-11-06T12:50:59Z",
@@ -62808,6 +62773,41 @@
       "date" : "2022-11-06T12:51:03Z",
       "identifier" : "release-photo-supreme-single-user-7.4.1.4619",
       "title" : "New Release: Photo Supreme Single User 7.4.1.4619"
+    },
+    {
+      "appID" : "stats",
+      "caption" : "Stats updated from 2.7.41 to 2.7.42",
+      "date" : "2022-11-06T14:28:56Z",
+      "identifier" : "release-stats-2.7.42",
+      "title" : "New Release: Stats 2.7.42"
+    },
+    {
+      "appID" : "proxyman",
+      "caption" : "Proxyman updated from 3.12.0,31200 to 3.13.0,31300",
+      "date" : "2022-11-06T14:28:56Z",
+      "identifier" : "release-proxyman-3.13.0,31300",
+      "title" : "New Release: Proxyman 3.13.0,31300"
+    },
+    {
+      "appID" : "coteditor",
+      "caption" : "CotEditor updated from 4.4.0 to 4.4.1",
+      "date" : "2022-11-06T14:28:56Z",
+      "identifier" : "release-coteditor-4.4.1",
+      "title" : "New Release: CotEditor 4.4.1"
+    },
+    {
+      "appID" : "cakebrewjs",
+      "caption" : "cakebrewjs updated from 1.3.3 to 1.3.4",
+      "date" : "2022-11-06T14:28:57Z",
+      "identifier" : "release-cakebrewjs-1.3.4",
+      "title" : "New Release: cakebrewjs 1.3.4"
+    },
+    {
+      "appID" : "sameboy",
+      "caption" : "SameBoy updated from 0.15.7 to 0.15.8",
+      "date" : "2022-11-06T14:28:57Z",
+      "identifier" : "release-sameboy-0.15.8",
+      "title" : "New Release: SameBoy 0.15.8"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

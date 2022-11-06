@@ -199,7 +199,7 @@ tr:nth-child(even) {
 | [``Tutanota Desktop``](https://tutanota.com/) | ``3.103.3`` | `40` | `2022-11-04T00:00:00Z` |  | `429` |  |  | `0` | `public.app-category.developer-tools` |
 | [``TripMode``](https://www.tripmode.ch/) | ``3.1.3,1303`` | `40` |  |  | `339` |  |  | `0` | `public.app-category.utilities` |
 | [``Thor``](https://github.com/gbammc/Thor/) | ``1.5.10`` | `40` |  |  | `372` |  |  | `0` | `public.app-category.utilities` |
-| [``TextExpander``](https://smilesoftware.com/TextExpander) | ``6.8.5,685.6`` | `40` |  |  | `378` |  |  | `0` | `public.app-category.utilities` |
+| [``TextExpander``](https://smilesoftware.com/TextExpander) | ``7.3.1,731.2`` | `40` | `2022-11-06T19:25:36Z` |  | `378` |  |  | `0` | `public.app-category.utilities` |
 | [``SeaMonkey``](https://www.seamonkey-project.org/) | ``2.53.14`` | `40` |  |  | `466` |  |  | `0` | `public.app-category.productivity` |
 | [``Trilium Notes``](https://github.com/zadam/trilium) | ``0.56.2`` | `39` | `2022-10-28T00:00:00Z` |  | `682` |  |  | `0` | `public.app-category.developer-tools` |
 | [``transfer``](https://www.intuitibits.com/products/transfer/) | ``2.1,14`` | `39` |  |  | `179` |  |  | `0` | `public.app-category.utilities` |
@@ -1059,7 +1059,7 @@ tr:nth-child(even) {
 | [``DuckDuckGo``](https://duckduckgo.com/) | ``0.30.5`` | `375` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``VeraCrypt``](https://www.veracrypt.fr/) | ``1.25.9`` | `371` |  |  |  |  |  | `0` |  |
 | [``CopyQ``](https://hluk.github.io/CopyQ/) | ``6.3.2`` | `370` |  |  |  |  |  | `0` |  |
-| [``Krita``](https://krita.org/) | ``5.1.3`` | `370` | `2022-11-06T18:39:39Z` |  |  |  |  | `0` |  |
+| [``Krita``](https://krita.org/) | ``5.1.3`` | `370` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Gqrx``](https://gqrx.dk/) | ``2.15.9`` | `369` |  |  |  |  |  | `0` |  |
 | [``Marta File Manager``](https://marta.sh/) | ``0.8.1`` | `362` |  |  |  |  |  | `0` |  |
 | [``DiffMerge``](https://www.sourcegear.com/diffmerge/) | ``4.2.1.1013`` | `361` |  |  |  |  |  | `0` |  |
@@ -1695,7 +1695,7 @@ tr:nth-child(even) {
 | [``ProjectLibre``](https://www.projectlibre.com/) | ``1.9.3`` | `48` |  |  |  |  |  | `0` |  |
 | [``silnite``](https://eclecticlight.co/lockrattler-systhist/) | ``9,2022.10`` | `47` | `2022-10-18T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ActivityWatch``](https://activitywatch.net/) | ``0.12.1`` | `47` |  |  |  |  |  | `0` |  |
-| [``BusyCal``](https://busymac.com/busycal/index.html) | ``2022.4.4,2022-11-06-20-5`` | `47` | `2022-11-06T18:39:39Z` |  |  |  |  | `0` |  |
+| [``BusyCal``](https://busymac.com/busycal/index.html) | ``2022.4.4,2022-11-06-20-5`` | `47` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Horos``](https://horosproject.org/) | ``4.0.0`` | `47` |  |  |  |  |  | `0` |  |
 | [``JProfiler``](https://www.ej-technologies.com/products/jprofiler/overview.html) | ``13.0.4`` | `47` |  |  |  |  |  | `0` |  |
 | [``MailTrackerBlocker``](https://apparition47.github.io/MailTrackerBlocker/) | ``0.7.7`` | `47` | `2022-11-03T00:00:00Z` |  |  |  |  | `0` |  |
@@ -2222,7 +2222,7 @@ tr:nth-child(even) {
 | [``Baidu Input``](https://srf.baidu.com/input/mac.html) | ``latest`` | `18` |  |  |  |  |  | `0` |  |
 | [``bossa``](https://www.shumatech.com/web/products/bossa) | ``1.9.1`` | `18` |  |  |  |  |  | `0` |  |
 | [``Studio``](https://www.bricklink.com/v3/studio/download.page) | ``2.22.10_1`` | `18` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``cakebrewjs``](https://sourceforge.net/projects/cakebrewjs) | ``1.3.4`` | `18` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
+| [``cakebrewjs``](https://sourceforge.net/projects/cakebrewjs) | ``1.3.5`` | `18` | `2022-11-06T19:25:36Z` |  |  |  |  | `0` |  |
 | [``Cryptr``](https://github.com/adobe/cryptr) | ``0.5.0`` | `18` |  |  |  |  |  | `0` |  |
 | [``DBeaver Lite Edition``](https://dbeaver.com/dbeaver-lite/) | ``22.2.0`` | `18` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Deadbolt``](https://github.com/alichtman/deadbolt) | ``0.1.0`` | `18` |  |  |  |  |  | `0` |  |
@@ -2672,7 +2672,7 @@ tr:nth-child(even) {
 | [``Skala Color``](https://bjango.com/help/skalacolor/gettingstarted/) | ``2.10`` | `9` |  |  |  |  |  | `0` |  |
 | [``ConnectMeNow``](https://www.tweaking4all.com/os-tips-and-tricks/macosx-tips-and-tricks/connectmenow-v3/) | ``3.0.7`` | `9` |  |  |  |  |  | `0` |  |
 | [``Console``](https://github.com/macmade/Console) | ``0.3.1`` | `9` |  |  |  |  |  | `0` |  |
-| [``Cookie``](https://sweetpproductions.com/) | ``6.8.3`` | `9` | `2022-11-06T18:39:39Z` |  |  |  |  | `0` |  |
+| [``Cookie``](https://sweetpproductions.com/) | ``6.8.3`` | `9` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Countdown Screensaver``](https://github.com/soffes/Countdown) | ``0.1.0`` | `9` |  |  |  |  |  | `0` |  |
 | [``DCommander``](https://devstorm-apps.com/dc/) | ``3.9.1.3`` | `9` |  |  |  |  |  | `0` |  |
 | [``DCP-o-matic Player``](https://dcpomatic.com/) | ``2.16.32`` | `9` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -2748,7 +2748,7 @@ tr:nth-child(even) {
 | [``Bino``](https://bino3d.org/) | ``1.6.6`` | `8` |  |  |  |  |  | `0` |  |
 | [``BlueWallet``](https://bluewallet.io/) | ``6.2.18`` | `8` |  |  |  |  |  | `0` |  |
 | [``Box Notes``](https://www.box.com/resources/downloads/notes) | ``1.4.0`` | `8` |  |  |  |  |  | `0` |  |
-| [``brewtarget``](https://github.com/Brewtarget/brewtarget/) | ``3.0.3`` | `8` | `2022-11-06T18:39:39Z` |  |  |  |  | `0` |  |
+| [``brewtarget``](https://github.com/Brewtarget/brewtarget/) | ``3.0.3`` | `8` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Camera Live``](https://github.com/v002/v002-Camera-Live) | ``11`` | `8` |  |  |  |  |  | `0` |  |
 | [``Cisdem Data Recovery``](https://www.cisdem.com/data-recovery-mac.html) | ``6.4.0`` | `8` |  |  |  |  |  | `0` |  |
 | [``Datovka``](https://www.datovka.cz/) | ``4.21.0`` | `8` |  |  |  |  |  | `0` |  |
@@ -2862,7 +2862,7 @@ tr:nth-child(even) {
 | [``iBackup Viewer``](https://www.imactools.com/iphonebackupviewer/) | ``4.2690`` | `7` |  |  |  |  |  | `0` |  |
 | [``Icons``](https://github.com/exherb/icons) | ``1.1`` | `7` |  |  |  |  |  | `0` |  |
 | [``Icons8 App``](https://icons8.com/) | ``5.7.4,57400`` | `7` |  |  |  |  |  | `0` |  |
-| [``Iconset``](https://iconset.io/) | ``2.3.0`` | `7` | `2022-11-06T18:39:39Z` |  |  |  |  | `0` |  |
+| [``Iconset``](https://iconset.io/) | ``2.3.0`` | `7` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``iDrive``](https://www.idrive.com/) | ``latest`` | `7` |  |  |  |  |  | `0` |  |
 | [``iOS Console``](https://lemonjar.com/) | ``1.0.2,55`` | `7` |  |  |  |  |  | `0` |  |
 | [``iSlide``](https://www.islide.cc/) | ``1.2.0`` | `7` |  |  |  |  |  | `0` |  |
@@ -3854,7 +3854,7 @@ tr:nth-child(even) {
 | [``League Displays``](https://leagueoflegends.com/en/featured/league-displays) | ``1.0.1028-beta`` | `1` |  |  |  |  |  | `0` |  |
 | [``Leap Motion``](https://www.leapmotion.com/setup) | ``2.3.1`` | `1` |  |  |  |  |  | `0` |  |
 | [``lectrote``](https://github.com/erkyrath/lectrote) | ``1.4.3`` | `1` |  |  |  |  |  | `0` |  |
-| [``LiClipse``](https://www.liclipse.com/) | ``9.0.1,5ao858sjvo8gibh`` | `1` | `2022-11-06T18:39:39Z` |  |  |  |  | `0` |  |
+| [``LiClipse``](https://www.liclipse.com/) | ``9.0.1,5ao858sjvo8gibh`` | `1` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Lighting``](https://github.com/tatey/Lighting) | ``1.1.7`` | `1` |  |  |  |  |  | `0` |  |
 | [``Sumologic livetail CLI``](https://github.com/SumoLogic/livetail-cli) | ``2.1`` | `1` |  |  |  |  |  | `0` |  |
 | [``Logic Sniffer``](https://lxtreme.nl/projects/ols/) | ``0.9.7.2`` | `1` |  |  |  |  |  | `0` |  |
@@ -3966,7 +3966,7 @@ tr:nth-child(even) {
 | [``CodeExpander``](https://github.com/oncework/codeexpander) | ``4.2.13`` | `0` |  |  |  |  |  | `0` |  |
 | [``Comma Chameleon``](https://comma-chameleon.io/) | ``0.5.2`` | `0` |  |  |  |  |  | `0` |  |
 | [``Command-Tab Plus``](https://noteifyapp.com/command-tab-plus/) | ``1.130,380`` | `0` |  |  |  |  |  | `0` |  |
-| [``Compositor``](https://compositorapp.com/) | ``1.20.2`` | `0` | `2022-11-06T18:39:39Z` |  |  |  |  | `0` |  |
+| [``Compositor``](https://compositorapp.com/) | ``1.20.2`` | `0` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Core Data Editor``](https://github.com/ChristianKienle/Core-Data-Editor/) | ``5.2`` | `0` |  |  |  |  |  | `0` |  |
 | [``CornerCal``](https://github.com/ekreutz/CornerCal) | ``1.1`` | `0` |  |  |  |  |  | `0` |  |
 | [``Corona Tracker``](https://coronatracker.samabox.com/) | ``1.7.2`` | `0` |  |  |  |  |  | `0` |  |

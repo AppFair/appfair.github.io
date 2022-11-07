@@ -366,8 +366,8 @@
       "sha256" : "52cb8b049b0ddaa03c360dc45e473e3ee719e0813466130506a26cd43602e20c",
       "stats" : {
         "downloadCount" : 2649,
-        "impressionCount" : 2755,
-        "viewCount" : 200
+        "impressionCount" : 2757,
+        "viewCount" : 201
       },
       "subtitle" : "Messaging app with a focus on speed and security",
       "tintColor" : "87CAEB",
@@ -26020,7 +26020,8 @@
         "downloadCount" : 67
       },
       "subtitle" : "Utility to finds and fix problems on computer systems",
-      "version" : "6.7.1"
+      "version" : "6.7.2",
+      "versionDate" : "2022-11-07T19:32:15Z"
     },
     {
       "beta" : false,
@@ -62144,13 +62145,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "vorta",
-      "caption" : "Vorta updated from 0.8.8 to 0.8.9",
-      "date" : "2022-11-06T12:50:55Z",
-      "identifier" : "release-vorta-0.8.9",
-      "title" : "New Release: Vorta 0.8.9"
-    },
-    {
       "appID" : "sonic-robo-blast-2-kart",
       "caption" : "Sonic Robo Blast 2 Kart updated from 1.5 to 1.6",
       "date" : "2022-11-06T12:50:56Z",
@@ -62842,6 +62836,13 @@
       "date" : "2022-11-07T17:42:56Z",
       "identifier" : "release-mixed-in-key-live-10.0.2.253",
       "title" : "New Release: Mixed In Key Live 10.0.2.253"
+    },
+    {
+      "appID" : "etrecheckpro",
+      "caption" : "EtreCheck updated from 6.7.1 to 6.7.2",
+      "date" : "2022-11-07T19:32:16Z",
+      "identifier" : "release-etrecheckpro-6.7.2",
+      "title" : "New Release: EtreCheck 6.7.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

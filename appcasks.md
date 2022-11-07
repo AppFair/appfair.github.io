@@ -36,7 +36,7 @@ tr:nth-child(even) {
 | [``Sublime Text``](https://www.sublimetext.com/) | ``4126`` | `5669` |  |  | `2757` | `141` |  | `0` | `public.app-category.productivity` |
 | [``Stats``](https://github.com/exelban/stats) | ``2.7.42`` | `5320` | `2022-11-06T00:00:00Z` |  | `5918` | `585` |  | `0` | `public.app-category.utilities` |
 | [``Wireshark``](https://www.wireshark.org/) | ``4.0.1`` | `3115` | `2022-10-28T00:00:00Z` |  | `2447` | `141` |  | `0` | `public.app-category.productivity` |
-| [``Telegram for macOS``](https://macos.telegram.org/) | ``9.1,238837`` | `2649` | `2022-11-06T00:00:00Z` |  | `2755` | `200` |  | `0` | `public.app-category.social-networking` |
+| [``Telegram for macOS``](https://macos.telegram.org/) | ``9.1,238837`` | `2649` | `2022-11-06T00:00:00Z` |  | `2757` | `201` |  | `0` | `public.app-category.social-networking` |
 | [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``4.0.1,20039`` | `2383` | `2022-10-28T00:00:00Z` |  | `3772` | `169` |  | `0` | `public.app-category.developer-tools` |
 | [``VSCodium``](https://github.com/VSCodium/vscodium) | ``1.73.0.22306`` | `2266` | `2022-11-02T00:00:00Z` |  | `4491` | `435` |  | `0` | `public.app-category.developer-tools` |
 | [``Tor Browser``](https://www.torproject.org/) | ``11.5.7`` | `2021` | `2022-11-04T00:00:00Z` |  | `3732` | `179` |  | `0` | `public.app-category.productivity` |
@@ -1533,7 +1533,7 @@ tr:nth-child(even) {
 | [``RsyncOSX``](https://github.com/rsyncOSX/RsyncOSX) | ``6.7.4`` | `68` |  |  |  |  |  | `0` |  |
 | [``Sonixd``](https://github.com/jeffvli/sonixd) | ``0.15.3`` | `68` |  |  |  |  |  | `0` |  |
 | [``checkra1n``](https://checkra.in/) | ``0.12.4`` | `67` |  |  |  |  |  | `0` |  |
-| [``EtreCheck``](https://etrecheck.com/) | ``6.7.1`` | `67` |  |  |  |  |  | `0` |  |
+| [``EtreCheck``](https://etrecheck.com/) | ``6.7.2`` | `67` | `2022-11-07T19:32:15Z` |  |  |  |  | `0` |  |
 | [``Mactracker``](https://mactracker.ca/) | ``7.11.5`` | `67` |  |  |  |  |  | `0` |  |
 | [``Notion Enhanced``](https://notion-enhancer.github.io/) | ``2.0.18-1`` | `67` |  |  |  |  |  | `0` |  |
 | [``OpenKey``](https://github.com/tuyenvm/OpenKey/) | ``2.0.5`` | `67` |  |  |  |  |  | `0` |  |

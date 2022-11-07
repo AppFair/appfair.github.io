@@ -4762,6 +4762,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "slicer",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://slicer-packages.kitware.com/api/v1/item/62cc8ff3aa08d161a31c260a/download",
+      "homepage" : "https://www.slicer.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slicer/AppIcon.png",
+      "localizedDescription" : "Medical image processing and visualization system",
+      "name" : "3D Slicer",
+      "sha256" : "45cafff1d60cf1d225285b1a59260b164062cf5bde802cbadcaef8d00b177270",
+      "stats" : {
+        "downloadCount" : 24,
+        "impressionCount" : 376
+      },
+      "subtitle" : "Medical image processing and visualization system",
+      "tintColor" : "8E8F96",
+      "version" : "5.0.3,62cc8ff3aa08d161a31c260a"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sitesucker-pro",
       "categories" : [
         "public.app-category.utilities"
@@ -4906,6 +4926,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sleek",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.9/sleek-1.2.9-mac.dmg",
+      "homepage" : "https://github.com/ransome1/sleek",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sleek/AppIcon.png",
+      "localizedDescription" : "Todo manager based on the todo.txt syntax",
+      "name" : "sleek",
+      "sha256" : "09eaf11fbd7440ba32e127e08b2fbce75d7313af4ac43735053622856967f1d1",
+      "stats" : {
+        "downloadCount" : 23,
+        "impressionCount" : 550
+      },
+      "subtitle" : "Todo manager based on the todo.txt syntax",
+      "tintColor" : "715C8C",
+      "version" : "1.2.9",
+      "versionDate" : "2022-11-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "seadrive",
       "categories" : [
         "public.app-category.utilities"
@@ -4965,26 +5006,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sidenotes",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://www.apptorium.com/public/products/sidenotes/releases/SideNotes-1.4.8.zip",
-      "homepage" : "https://www.apptorium.com/sidenotes",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidenotes/AppIcon.png",
-      "localizedDescription" : "Note-taking application",
-      "name" : "SideNotes",
-      "sha256" : "ce8ba6faa655deb3030c3efdc0388a1ff47c7e154e066fc9a9fd93c135b56c81",
-      "stats" : {
-        "downloadCount" : 22,
-        "impressionCount" : 281
-      },
-      "subtitle" : "Note-taking application",
-      "tintColor" : "1F4D6B",
-      "version" : "1.4.8,211"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "siyuan",
       "categories" : [
         "public.app-category.developer-tools"
@@ -5003,6 +5024,26 @@
       "tintColor" : "8A3C3E",
       "version" : "2.4.10",
       "versionDate" : "2022-11-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sidenotes",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://www.apptorium.com/public/products/sidenotes/releases/SideNotes-1.4.8.zip",
+      "homepage" : "https://www.apptorium.com/sidenotes",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidenotes/AppIcon.png",
+      "localizedDescription" : "Note-taking application",
+      "name" : "SideNotes",
+      "sha256" : "ce8ba6faa655deb3030c3efdc0388a1ff47c7e154e066fc9a9fd93c135b56c81",
+      "stats" : {
+        "downloadCount" : 22,
+        "impressionCount" : 281
+      },
+      "subtitle" : "Note-taking application",
+      "tintColor" : "1F4D6B",
+      "version" : "1.4.8,211"
     },
     {
       "beta" : false,
@@ -5184,6 +5225,26 @@
       "subtitle" : "Messaging service that runs on Synology NAS",
       "tintColor" : "8ECB5F",
       "version" : "1.2.1-0207"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slidepilot",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://slidepilotapp.com/updates/SlidePilot-1.8.0.zip",
+      "homepage" : "https://slidepilotapp.com/en",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slidepilot/AppIcon.png",
+      "localizedDescription" : "PDF presentation tool",
+      "name" : "SlidePilot",
+      "sha256" : "bc8bf077a504cdb2d09d7adee313e408d40063e66e2c0d8722c6678e4ee5cc20",
+      "stats" : {
+        "downloadCount" : 20,
+        "impressionCount" : 294
+      },
+      "subtitle" : "PDF presentation tool",
+      "tintColor" : "469DF0",
+      "version" : "1.8.0"
     },
     {
       "beta" : false,
@@ -7519,6 +7580,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "slippi-dolphin",
+      "categories" : [
+        "public.app-category.games"
+      ],
+      "downloadURL" : "https://github.com/project-slippi/Ishiiruka/releases/download/v2.5.2/FM-Slippi-2.5.2-Mac.dmg",
+      "homepage" : "https://slippi.gg/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slippi-dolphin/AppIcon.png",
+      "localizedDescription" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
+      "name" : "Slippi",
+      "sha256" : "55b1b5a3bb1205a518beb7b14755c25a9b556c18607b9ebe60785db020209ca1",
+      "stats" : {
+        "downloadCount" : 6,
+        "impressionCount" : 1001
+      },
+      "subtitle" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
+      "tintColor" : "2AA5EA",
+      "version" : "2.5.2"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "simplefloatingclock",
       "categories" : [
         "public.app-category.utilities"
@@ -8894,6 +8975,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "slimhud",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/AlexPerathoner/SlimHUD/releases/download/v1.3.7/SlimHUD.zip",
+      "homepage" : "https://github.com/AlexPerathoner/SlimHUD/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slimhud/AppIcon.png",
+      "localizedDescription" : "Replacement for the volume, brightness and keyboard backlight HUDs",
+      "name" : "SlimHUD",
+      "sha256" : "b2de218dc65db11eeab6569dc66d6d7e0a83a1572010059459192e98abd6f0c8",
+      "stats" : {
+        "downloadCount" : 3,
+        "impressionCount" : 189
+      },
+      "subtitle" : "Replacement for the volume, brightness and keyboard backlight HUDs",
+      "tintColor" : "6E889C",
+      "version" : "1.3.7"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sitala",
       "categories" : [
         "public.app-category.utilities"
@@ -9339,6 +9440,23 @@
       "subtitle" : "Extract images from videos",
       "tintColor" : "45C1E5",
       "version" : "5.0.7,4d545b9c-091a-4064-b236-dbba3477224e"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sleipnir",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://www.fenrir-inc.com/services/download.php?file=Sleipnir.dmg",
+      "homepage" : "https://www.fenrir-inc.com/jp/sleipnir/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sleipnir/AppIcon.png",
+      "name" : "Sleipnir",
+      "stats" : {
+        "downloadCount" : 2,
+        "impressionCount" : 182
+      },
+      "tintColor" : "6E727D",
+      "version" : "4.6.6,4.6.6004"
     },
     {
       "beta" : false,
@@ -9919,24 +10037,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sidestep",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/chetan51/sidestep/releases/download/1.4.1/Sidestep.zip",
-      "homepage" : "https://chetansurpur.com/projects/sidestep/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidestep/AppIcon.png",
-      "name" : "Sidestep",
-      "sha256" : "c25f7748d73b6f915aff268070ef85ca69f2902de98b044b77c49d1e1341d84e",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 181
-      },
-      "tintColor" : "0087C0",
-      "version" : "1.4.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sketch-toolbox",
       "categories" : [
         "public.app-category.graphics-design"
@@ -9971,6 +10071,24 @@
       "subtitle" : "Scans and checks bundle signatures",
       "tintColor" : "A7AD9D",
       "version" : "1.3,2020.09"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sidestep",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/chetan51/sidestep/releases/download/1.4.1/Sidestep.zip",
+      "homepage" : "https://chetansurpur.com/projects/sidestep/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidestep/AppIcon.png",
+      "name" : "Sidestep",
+      "sha256" : "c25f7748d73b6f915aff268070ef85ca69f2902de98b044b77c49d1e1341d84e",
+      "stats" : {
+        "downloadCount" : 1,
+        "impressionCount" : 181
+      },
+      "tintColor" : "0087C0",
+      "version" : "1.4.1"
     },
     {
       "beta" : false,
@@ -10612,6 +10730,23 @@
       },
       "tintColor" : "DBDA9D",
       "version" : "1.2.5,315"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slik",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://apps.inspira.io/updates/slik.zip",
+      "homepage" : "https://apps.inspira.io/slik/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slik/AppIcon.png",
+      "name" : "Slik",
+      "stats" : {
+        "downloadCount" : 0,
+        "impressionCount" : 235
+      },
+      "tintColor" : "848B95",
+      "version" : "2.1.1,5023"
     },
     {
       "beta" : false,
@@ -12676,6 +12811,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "slic3r",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/slic3r/Slic3r/releases/download/1.3.0/slic3r-1.3.0.dmg",
+      "homepage" : "https://slic3r.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slic3r/AppIcon.png",
+      "localizedDescription" : "3D printing toolbox",
+      "name" : "Slic3r",
+      "sha256" : "a50dbe78c4648dfcd0ffec46335554c9fa3348dd494a1f6c2b60406aea57b5cb",
+      "stats" : {
+        "downloadCount" : 24,
+        "impressionCount" : 64
+      },
+      "subtitle" : "3D printing toolbox",
+      "tintColor" : "8A8A25",
+      "version" : "1.3.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "skyfonts",
       "categories" : [
 
@@ -13956,6 +14111,24 @@
       "tintColor" : "BAB7B8",
       "version" : "3.5.2.2",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slimbatterymonitor",
+      "categories" : [
+
+      ],
+      "downloadURL" : "http://quux.orange-carb.org/dist/SlimBatteryMonitor-1.5.dmg",
+      "homepage" : "https://www.orange-carb.org/SBM/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slimbatterymonitor/AppIcon.png",
+      "name" : "SlimBatteryMonitor",
+      "sha256" : "587ce35b534c26b489b60d7f4ca71a96c1dcd83193a30c58676ae8d4665c6aff",
+      "stats" : {
+        "downloadCount" : 7,
+        "impressionCount" : 79
+      },
+      "tintColor" : "84774E",
+      "version" : "1.5"
     },
     {
       "beta" : false,
@@ -33295,34 +33468,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "slic3r",
-      "downloadURL" : "https://github.com/slic3r/Slic3r/releases/download/1.3.0/slic3r-1.3.0.dmg",
-      "homepage" : "https://slic3r.org/",
-      "localizedDescription" : "3D printing toolbox",
-      "name" : "Slic3r",
-      "sha256" : "a50dbe78c4648dfcd0ffec46335554c9fa3348dd494a1f6c2b60406aea57b5cb",
-      "stats" : {
-        "downloadCount" : 24
-      },
-      "subtitle" : "3D printing toolbox",
-      "version" : "1.3.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slicer",
-      "downloadURL" : "https://slicer-packages.kitware.com/api/v1/item/62cc8ff3aa08d161a31c260a/download",
-      "homepage" : "https://www.slicer.org/",
-      "localizedDescription" : "Medical image processing and visualization system",
-      "name" : "3D Slicer",
-      "sha256" : "45cafff1d60cf1d225285b1a59260b164062cf5bde802cbadcaef8d00b177270",
-      "stats" : {
-        "downloadCount" : 24
-      },
-      "subtitle" : "Medical image processing and visualization system",
-      "version" : "5.0.3,62cc8ff3aa08d161a31c260a"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "twitch-studio",
       "downloadURL" : "https://live.release.spotlight.twitchsvc.net/installer/mac/twitchstudio.dmg",
       "homepage" : "https://www.twitch.tv/broadcast/studio/",
@@ -33745,21 +33890,6 @@
       },
       "subtitle" : "Visual novel engine in Python",
       "version" : "8.0.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sleek",
-      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.9/sleek-1.2.9-mac.dmg",
-      "homepage" : "https://github.com/ransome1/sleek",
-      "localizedDescription" : "Todo manager based on the todo.txt syntax",
-      "name" : "sleek",
-      "sha256" : "09eaf11fbd7440ba32e127e08b2fbce75d7313af4ac43735053622856967f1d1",
-      "stats" : {
-        "downloadCount" : 23
-      },
-      "subtitle" : "Todo manager based on the todo.txt syntax",
-      "version" : "1.2.9",
-      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35108,20 +35238,6 @@
       },
       "subtitle" : "Menu bar app that enables system-wide navigation using side mouse buttons",
       "version" : "1.1.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slidepilot",
-      "downloadURL" : "https://slidepilotapp.com/updates/SlidePilot-1.8.0.zip",
-      "homepage" : "https://slidepilotapp.com/en",
-      "localizedDescription" : "PDF presentation tool",
-      "name" : "SlidePilot",
-      "sha256" : "bc8bf077a504cdb2d09d7adee313e408d40063e66e2c0d8722c6678e4ee5cc20",
-      "stats" : {
-        "downloadCount" : 20
-      },
-      "subtitle" : "PDF presentation tool",
-      "version" : "1.8.0"
     },
     {
       "beta" : false,
@@ -45507,18 +45623,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "slimbatterymonitor",
-      "downloadURL" : "http://quux.orange-carb.org/dist/SlimBatteryMonitor-1.5.dmg",
-      "homepage" : "https://www.orange-carb.org/SBM/",
-      "name" : "SlimBatteryMonitor",
-      "sha256" : "587ce35b534c26b489b60d7f4ca71a96c1dcd83193a30c58676ae8d4665c6aff",
-      "stats" : {
-        "downloadCount" : 7
-      },
-      "version" : "1.5"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "zesarux",
       "categories" : [
 
@@ -48995,20 +49099,6 @@
         "downloadCount" : 5
       },
       "version" : "1.2.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slippi-dolphin",
-      "downloadURL" : "https://github.com/project-slippi/Ishiiruka/releases/download/v2.5.2/FM-Slippi-2.5.2-Mac.dmg",
-      "homepage" : "https://slippi.gg/",
-      "localizedDescription" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
-      "name" : "Slippi",
-      "sha256" : "55b1b5a3bb1205a518beb7b14755c25a9b556c18607b9ebe60785db020209ca1",
-      "stats" : {
-        "downloadCount" : 5
-      },
-      "subtitle" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
-      "version" : "2.5.2"
     },
     {
       "beta" : false,
@@ -56677,31 +56767,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sleipnir",
-      "downloadURL" : "https://www.fenrir-inc.com/services/download.php?file=Sleipnir.dmg",
-      "homepage" : "https://www.fenrir-inc.com/jp/sleipnir/",
-      "name" : "Sleipnir",
-      "stats" : {
-        "downloadCount" : 2
-      },
-      "version" : "4.6.6,4.6.6004"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slimhud",
-      "downloadURL" : "https://github.com/AlexPerathoner/SlimHUD/releases/download/v1.3.7/SlimHUD.zip",
-      "homepage" : "https://github.com/AlexPerathoner/SlimHUD/",
-      "localizedDescription" : "Replacement for the volume, brightness and keyboard backlight HUDs",
-      "name" : "SlimHUD",
-      "sha256" : "b2de218dc65db11eeab6569dc66d6d7e0a83a1572010059459192e98abd6f0c8",
-      "stats" : {
-        "downloadCount" : 2
-      },
-      "subtitle" : "Replacement for the volume, brightness and keyboard backlight HUDs",
-      "version" : "1.3.7"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tdr-kotelnikov",
       "downloadURL" : "https://www.tokyodawn.net/labs/Kotelnikov/1.6.4/TDR%20Kotelnikov.zip?x24775",
       "homepage" : "https://www.tokyodawn.net/tdr-kotelnikov/",
@@ -61747,17 +61812,6 @@
         "downloadCount" : 0
       },
       "version" : "5.9.8.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slik",
-      "downloadURL" : "https://apps.inspira.io/updates/slik.zip",
-      "homepage" : "https://apps.inspira.io/slik/",
-      "name" : "Slik",
-      "stats" : {
-        "downloadCount" : 0
-      },
-      "version" : "2.1.1,5023"
     },
     {
       "beta" : false,

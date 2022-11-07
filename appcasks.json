@@ -112,7 +112,7 @@
       "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
       "stats" : {
         "downloadCount" : 3506,
-        "impressionCount" : 10061,
+        "impressionCount" : 10062,
         "viewCount" : 659
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -229,7 +229,7 @@
       "subtitle" : "File synchronizer",
       "tintColor" : "D3872A",
       "version" : "2.53.0,4.14.0",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -373,7 +373,7 @@
       "subtitle" : "Messaging app with a focus on speed and security",
       "tintColor" : "87CAEB",
       "version" : "9.1,238857",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -782,7 +782,7 @@
       "subtitle" : "Newsreader and Usenet client",
       "tintColor" : "61ADE7",
       "version" : "1.24,362",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -872,7 +872,7 @@
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "version" : "5.12.6.12435",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2045,7 +2045,7 @@
       "subtitle" : "Controls screen display settings",
       "tintColor" : "646464",
       "version" : "4.12.2",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8349,7 +8349,7 @@
       "subtitle" : "Trading platform",
       "tintColor" : "C3AB00",
       "version" : "8.0.3,A87D08",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16586,17 +16586,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "balenaetcher",
-      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.7.11/balenaEtcher-1.7.11.dmg",
+      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.7.14/balenaEtcher-1.7.14.dmg",
       "homepage" : "https://balena.io/etcher",
       "localizedDescription" : "Tool to flash OS images to SD cards & USB drives",
       "name" : "Etcher",
-      "sha256" : "c40912872851d535158e76dd1d4d97dfdbaf2ad80d8f6fb9add4f30bdf230df0",
+      "sha256" : "f5d719ab1fa4d7a1f0fd7d619ce5aca7facb7b183c18a910664beb40ea2ff30f",
       "stats" : {
         "downloadCount" : 1663
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
-      "version" : "1.7.11",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "1.7.14",
+      "versionDate" : "2022-11-07T23:40:33Z"
     },
     {
       "beta" : false,
@@ -17366,7 +17366,7 @@
       },
       "subtitle" : "Git client focusing on productivity",
       "version" : "8.10.3",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20971,7 +20971,7 @@
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "version" : "5.12.6.12435",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21524,7 +21524,7 @@
       },
       "subtitle" : "AirPods companion app",
       "version" : "2.6.3,602",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23630,7 +23630,7 @@
       },
       "subtitle" : "Screen and application forwarding system",
       "version" : "4.4.2,0",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29334,7 +29334,7 @@
       },
       "subtitle" : "Collaboration platform focusing on security",
       "version" : "3.29.4490",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32599,11 +32599,14 @@
       "bundleIdentifier" : "flow",
       "downloadURL" : "https://cdn.getflow.com/darwin_x64/Flow.zip",
       "homepage" : "https://www.getflow.com/",
+      "localizedDescription" : "Task and project management software",
       "name" : "Flow",
       "stats" : {
         "downloadCount" : 26
       },
-      "version" : "6.0.489.1826"
+      "subtitle" : "Task and project management software",
+      "version" : "6.1.2.1968",
+      "versionDate" : "2022-11-07T23:40:33Z"
     },
     {
       "beta" : false,
@@ -37588,7 +37591,7 @@
       },
       "subtitle" : "Install PlasticSCM locally and join a Cloud Edition subscription",
       "version" : "11.0.16.7608",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49059,7 +49062,7 @@
       },
       "subtitle" : "Note taking app for meetings, ideas, journalling, and research",
       "version" : "2.0.5",
-      "versionDate" : "2022-11-07T21:36:22Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62151,13 +62154,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "remember-the-milk",
-      "caption" : "Remember The Milk updated from 1.3.11 to 1.4.0",
-      "date" : "2022-11-06T12:51:00Z",
-      "identifier" : "release-remember-the-milk-1.4.0",
-      "title" : "New Release: Remember The Milk 1.4.0"
-    },
-    {
       "appID" : "hepta",
       "caption" : "Hepta updated from 0.219.1 to 0.221.0",
       "date" : "2022-11-06T12:51:00Z",
@@ -62746,13 +62742,6 @@
       "title" : "New Release: Lens 2022.11.71638"
     },
     {
-      "appID" : "balenaetcher",
-      "caption" : "Etcher updated from 1.7.10 to 1.7.11",
-      "date" : "2022-11-07T20:40:15Z",
-      "identifier" : "release-balenaetcher-1.7.11",
-      "title" : "New Release: Etcher 1.7.11"
-    },
-    {
       "appID" : "messenger",
       "caption" : "Facebook Messenger updated from 167.0.0.18.104,413536004 to 168.0.0.24.90,415453343",
       "date" : "2022-11-07T20:40:15Z",
@@ -62849,6 +62838,20 @@
       "date" : "2022-11-07T21:36:27Z",
       "identifier" : "release-reflect-2.0.5",
       "title" : "New Release: Reflect Notes 2.0.5"
+    },
+    {
+      "appID" : "balenaetcher",
+      "caption" : "Etcher updated from 1.7.11 to 1.7.14",
+      "date" : "2022-11-07T23:40:34Z",
+      "identifier" : "release-balenaetcher-1.7.14",
+      "title" : "New Release: Etcher 1.7.14"
+    },
+    {
+      "appID" : "flow",
+      "caption" : "Flow updated from 6.0.489.1826 to 6.1.2.1968",
+      "date" : "2022-11-07T23:40:34Z",
+      "identifier" : "release-flow-6.1.2.1968",
+      "title" : "New Release: Flow 6.1.2.1968"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -2648,7 +2648,7 @@ tr:nth-child(even) {
 | [``Surge``](https://surge-synthesizer.github.io/) | ``1.9.0`` | `9` |  |  |  |  |  | `0` |  |
 | [``SoftMaker FreeOffice``](https://www.freeoffice.com/) | ``2021,1054`` | `9` |  |  |  |  |  | `0` |  |
 | [``Air Video Server HD``](https://airvideo.app/) | ``2.3.0-beta1u1,202.0902`` | `9` |  |  |  |  |  | `0` |  |
-| [``Aircall``](https://aircall.io/) | ``2.26.9`` | `9` | `2022-11-07T14:06:38Z` |  |  |  |  | `0` |  |
+| [``Aircall``](https://aircall.io/) | ``2.26.9`` | `9` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Amazon Luna``](https://www.amazon.com/luna/) | ``1.7700.5671.0`` | `9` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Athens``](https://www.athensresearch.org/) | ``2.0.0`` | `9` |  |  |  |  |  | `0` |  |
 | [``Atomic Wallet``](https://atomicwallet.io/) | ``2.55.4-404`` | `9` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |

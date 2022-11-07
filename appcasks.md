@@ -855,7 +855,7 @@ tr:nth-child(even) {
 | [``Github Atom``](https://atom.io/) | ``1.60.0`` | `2334` |  |  |  |  |  | `0` |  |
 | [``BasicTeX``](https://www.tug.org/mactex/morepackages.html) | ``2022.0314`` | `2331` |  |  |  |  |  | `0` |  |
 | [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2312` |  |  |  |  |  | `0` |  |
-| [``Lens``](https://k8slens.dev/) | ``2022.11.41813`` | `2289` | `2022-11-05T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Lens``](https://k8slens.dev/) | ``2022.11.71638`` | `2289` | `2022-11-07T20:40:13Z` |  |  |  |  | `0` |  |
 | [``Dropbox``](https://www.dropbox.com/) | ``160.4.4703`` | `2265` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``kitty``](https://github.com/kovidgoyal/kitty) | ``0.26.5`` | `2230` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Keka``](https://www.keka.io/) | ``1.2.57`` | `2173` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -875,7 +875,7 @@ tr:nth-child(even) {
 | [``draw.io Desktop``](https://www.diagrams.net/) | ``20.3.0`` | `1726` |  |  |  |  |  | `0` |  |
 | [``BloomRPC``](https://github.com/uw-labs/bloomrpc) | ``1.5.3`` | `1711` |  |  |  |  |  | `0` |  |
 | [``PyCharm``](https://www.jetbrains.com/pycharm/) | ``2022.2.3,222.4345.23`` | `1706` |  |  |  |  |  | `0` |  |
-| [``Etcher``](https://balena.io/etcher) | ``1.7.10`` | `1663` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Etcher``](https://balena.io/etcher) | ``1.7.11`` | `1663` | `2022-11-07T20:40:13Z` |  |  |  |  | `0` |  |
 | [``Podman Desktop``](https://podman-desktop.io/) | ``0.9.1`` | `1604` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Flameshot``](https://flameshot.org/) | ``12.1.0`` | `1574` |  |  |  |  |  | `0` |  |
 | [``Facebook Flipper``](https://fbflipper.com/) | ``0.173.0`` | `1535` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -984,7 +984,7 @@ tr:nth-child(even) {
 | [``Godot Engine``](https://godotengine.org/) | ``3.5.1`` | `562` |  |  |  |  |  | `0` |  |
 | [``Azure Data Studio``](https://docs.microsoft.com/en-us/sql/azure-data-studio/) | ``1.39.1`` | `560` |  |  |  |  |  | `0` |  |
 | [``gulp-app``](https://github.com/sindresorhus/gulp-app) | ``0.1.0`` | `553` |  |  |  |  |  | `0` |  |
-| [``Facebook Messenger``](https://www.messenger.com/desktop) | ``167.0.0.18.104,413536004`` | `553` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Facebook Messenger``](https://www.messenger.com/desktop) | ``168.0.0.24.90,415453343`` | `553` | `2022-11-07T20:40:13Z` |  |  |  |  | `0` |  |
 | [``Qv2ray``](https://qv2ray.net/) | ``2.7.0`` | `553` |  |  |  |  |  | `0` |  |
 | [``PlayCover``](https://github.com/PlayCover/PlayCover) | ``1.1.1`` | `550` |  |  |  |  |  | `0` |  |
 | [``Jumpcut``](https://snark.github.io/jumpcut/) | ``0.82`` | `546` |  |  |  |  |  | `0` |  |
@@ -1533,7 +1533,7 @@ tr:nth-child(even) {
 | [``RsyncOSX``](https://github.com/rsyncOSX/RsyncOSX) | ``6.7.4`` | `68` |  |  |  |  |  | `0` |  |
 | [``Sonixd``](https://github.com/jeffvli/sonixd) | ``0.15.3`` | `68` |  |  |  |  |  | `0` |  |
 | [``checkra1n``](https://checkra.in/) | ``0.12.4`` | `67` |  |  |  |  |  | `0` |  |
-| [``EtreCheck``](https://etrecheck.com/) | ``6.7.2`` | `67` | `2022-11-07T19:32:15Z` |  |  |  |  | `0` |  |
+| [``EtreCheck``](https://etrecheck.com/) | ``6.7.2`` | `67` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Mactracker``](https://mactracker.ca/) | ``7.11.5`` | `67` |  |  |  |  |  | `0` |  |
 | [``Notion Enhanced``](https://notion-enhancer.github.io/) | ``2.0.18-1`` | `67` |  |  |  |  |  | `0` |  |
 | [``OpenKey``](https://github.com/tuyenvm/OpenKey/) | ``2.0.5`` | `67` |  |  |  |  |  | `0` |  |

@@ -16291,17 +16291,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "lens",
-      "downloadURL" : "https://api.k8slens.dev/binaries/Lens-2022.11.41813-latest.dmg",
+      "downloadURL" : "https://api.k8slens.dev/binaries/Lens-2022.11.71638-latest.dmg",
       "homepage" : "https://k8slens.dev/",
       "localizedDescription" : "Kubernetes IDE",
       "name" : "Lens",
-      "sha256" : "284fa07343a9c214f9d13117e6eb32f1ad64b6a307f2c25c43bbc335116c7fb3",
+      "sha256" : "54e9d8f75e78304b6c5ab1a7b0a3b4e23508a999facdbb898b0326b3a548ff9f",
       "stats" : {
         "downloadCount" : 2289
       },
       "subtitle" : "Kubernetes IDE",
-      "version" : "2022.11.41813",
-      "versionDate" : "2022-11-05T00:00:00Z"
+      "version" : "2022.11.71638",
+      "versionDate" : "2022-11-07T20:40:13Z"
     },
     {
       "beta" : false,
@@ -16583,17 +16583,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "balenaetcher",
-      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.7.10/balenaEtcher-1.7.10.dmg",
+      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.7.11/balenaEtcher-1.7.11.dmg",
       "homepage" : "https://balena.io/etcher",
       "localizedDescription" : "Tool to flash OS images to SD cards & USB drives",
       "name" : "Etcher",
-      "sha256" : "1df5edf0972b0e2410337aae3ba8fff9f85e3f7c6bfb1082f1fab7dada19ba04",
+      "sha256" : "c40912872851d535158e76dd1d4d97dfdbaf2ad80d8f6fb9add4f30bdf230df0",
       "stats" : {
         "downloadCount" : 1663
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
-      "version" : "1.7.10",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "1.7.11",
+      "versionDate" : "2022-11-07T20:40:13Z"
     },
     {
       "beta" : false,
@@ -18154,8 +18154,8 @@
         "downloadCount" : 553
       },
       "subtitle" : "Native desktop app for Messenger (formerly Facebook Messenger)",
-      "version" : "167.0.0.18.104,413536004",
-      "versionDate" : "2022-11-01T00:00:00Z"
+      "version" : "168.0.0.24.90,415453343",
+      "versionDate" : "2022-11-07T20:40:13Z"
     },
     {
       "beta" : false,
@@ -26021,7 +26021,7 @@
       },
       "subtitle" : "Utility to finds and fix problems on computer systems",
       "version" : "6.7.2",
-      "versionDate" : "2022-11-07T19:32:15Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62145,20 +62145,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "sonic-robo-blast-2-kart",
-      "caption" : "Sonic Robo Blast 2 Kart updated from 1.5 to 1.6",
-      "date" : "2022-11-06T12:50:56Z",
-      "identifier" : "release-sonic-robo-blast-2-kart-1.6",
-      "title" : "New Release: Sonic Robo Blast 2 Kart 1.6"
-    },
-    {
-      "appID" : "fig",
-      "caption" : "fig updated from 2.7.4 to 2.7.5",
-      "date" : "2022-11-06T12:50:56Z",
-      "identifier" : "release-fig-2.7.5",
-      "title" : "New Release: fig 2.7.5"
-    },
-    {
       "appID" : "qq",
       "caption" : "QQ updated from 6.8.6.4823 to 6.8.8.6097",
       "date" : "2022-11-06T12:50:56Z",
@@ -62558,13 +62544,6 @@
       "title" : "New Release: kitty 0.26.5"
     },
     {
-      "appID" : "balenaetcher",
-      "caption" : "Etcher updated from 1.7.9 to 1.7.10",
-      "date" : "2022-11-07T17:42:44Z",
-      "identifier" : "release-balenaetcher-1.7.10",
-      "title" : "New Release: Etcher 1.7.10"
-    },
-    {
       "appID" : "metasploit",
       "caption" : "Metasploit Framework updated from 6.2.26,20221106112913 to 6.2.26,20221107112952",
       "date" : "2022-11-07T17:42:44Z",
@@ -62843,6 +62822,27 @@
       "date" : "2022-11-07T19:32:16Z",
       "identifier" : "release-etrecheckpro-6.7.2",
       "title" : "New Release: EtreCheck 6.7.2"
+    },
+    {
+      "appID" : "lens",
+      "caption" : "Lens updated from 2022.11.41813 to 2022.11.71638",
+      "date" : "2022-11-07T20:40:14Z",
+      "identifier" : "release-lens-2022.11.71638",
+      "title" : "New Release: Lens 2022.11.71638"
+    },
+    {
+      "appID" : "balenaetcher",
+      "caption" : "Etcher updated from 1.7.10 to 1.7.11",
+      "date" : "2022-11-07T20:40:15Z",
+      "identifier" : "release-balenaetcher-1.7.11",
+      "title" : "New Release: Etcher 1.7.11"
+    },
+    {
+      "appID" : "messenger",
+      "caption" : "Facebook Messenger updated from 167.0.0.18.104,413536004 to 168.0.0.24.90,415453343",
+      "date" : "2022-11-07T20:40:15Z",
+      "identifier" : "release-messenger-168.0.0.24.90,415453343",
+      "title" : "New Release: Facebook Messenger 168.0.0.24.90,415453343"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

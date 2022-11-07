@@ -170,7 +170,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 221,
-        "impressionCount" : 6120,
+        "impressionCount" : 6122,
         "viewCount" : 491
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -253,7 +253,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4414,
+        "impressionCount" : 4415,
         "viewCount" : 348
       },
       "subtitle" : "Create DMGs and other archives",
@@ -298,8 +298,8 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5669,
-        "impressionCount" : 2748,
-        "viewCount" : 139
+        "impressionCount" : 2750,
+        "viewCount" : 140
       },
       "subtitle" : "Text editor for code, markup and prose",
       "tintColor" : "765B33",
@@ -412,7 +412,7 @@
       "sha256" : "50bb0c7382d0281121d942e458f64f0fb64202792462e5ff88c8b8125b8e1e12",
       "stats" : {
         "downloadCount" : 2266,
-        "impressionCount" : 4484,
+        "impressionCount" : 4485,
         "viewCount" : 435
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -521,7 +521,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1599,
-        "impressionCount" : 3778
+        "impressionCount" : 3779
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -565,7 +565,7 @@
       "sha256" : "1e3eddc61fd9821ba3acd73d046cf1e5965da1a189b3f8ca99026166a3da55ab",
       "stats" : {
         "downloadCount" : 1368,
-        "impressionCount" : 3248,
+        "impressionCount" : 3249,
         "viewCount" : 191
       },
       "subtitle" : "Native GUI tool for relational databases",
@@ -632,7 +632,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 822,
-        "impressionCount" : 2197,
+        "impressionCount" : 2198,
         "viewCount" : 146
       },
       "subtitle" : "Application for inspecting installer packages",
@@ -845,7 +845,7 @@
       "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
       "stats" : {
         "downloadCount" : 32325,
-        "impressionCount" : 1958
+        "impressionCount" : 1960
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -886,7 +886,7 @@
       "sha256" : "f270dac14cf355026268d2a5a00d903c5102b69e0d2db2a7e47142f7eb76e025",
       "stats" : {
         "downloadCount" : 8242,
-        "impressionCount" : 1012
+        "impressionCount" : 1013
       },
       "subtitle" : "Open-source version of the X.Org X Window System",
       "version" : "2.8.2"
@@ -926,7 +926,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2233,
-        "impressionCount" : 1212
+        "impressionCount" : 1213
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -945,7 +945,7 @@
       "name" : "TeamViewer",
       "stats" : {
         "downloadCount" : 2040,
-        "impressionCount" : 669
+        "impressionCount" : 670
       },
       "subtitle" : "Remote access and connectivity software focused on security",
       "tintColor" : "B5B0A3",
@@ -1025,7 +1025,7 @@
       "sha256" : "ad10795f36a2c0977ec8e278082f1f66624cc3b16f837dc72c0f1c063fefb4de",
       "stats" : {
         "downloadCount" : 835,
-        "impressionCount" : 744
+        "impressionCount" : 745
       },
       "tintColor" : "5DABD9",
       "version" : "2.7.1"
@@ -1106,7 +1106,7 @@
       "sha256" : "e6532a9a840c3508cdf26511200fbba34ec9a275154d717538019f72ebc5fc51",
       "stats" : {
         "downloadCount" : 741,
-        "impressionCount" : 949
+        "impressionCount" : 950
       },
       "subtitle" : "JavaScript IDE",
       "tintColor" : "2E7991",
@@ -1146,7 +1146,7 @@
       "sha256" : "788f5aa9387d8644c3f458bb58076723b7e7fa4efaa6837aa842185e6ff3eaa5",
       "stats" : {
         "downloadCount" : 649,
-        "impressionCount" : 594
+        "impressionCount" : 595
       },
       "subtitle" : "Integrated development environment",
       "tintColor" : "C8AAE6",
@@ -1167,7 +1167,7 @@
       "sha256" : "08c93f3968292d5654a6d3434773600e562a696dbeae063b6d8db921f5d96f75",
       "stats" : {
         "downloadCount" : 632,
-        "impressionCount" : 1307
+        "impressionCount" : 1308
       },
       "subtitle" : "Xcode Extension for reformatting Swift code",
       "tintColor" : "44424D",
@@ -1250,7 +1250,7 @@
       "sha256" : "8996cb1f2e899195cb64444ab73cb8de4863863d4ee4bc5b51bf223d11457388",
       "stats" : {
         "downloadCount" : 449,
-        "impressionCount" : 810
+        "impressionCount" : 811
       },
       "subtitle" : "Quicklook extension for source files",
       "tintColor" : "3A3737",
@@ -1331,7 +1331,7 @@
       "name" : "Unity Hub",
       "stats" : {
         "downloadCount" : 412,
-        "impressionCount" : 752
+        "impressionCount" : 753
       },
       "subtitle" : "Management tool for Unity",
       "tintColor" : "A5A5A5",
@@ -1412,7 +1412,7 @@
       "name" : "Termius",
       "stats" : {
         "downloadCount" : 342,
-        "impressionCount" : 956
+        "impressionCount" : 957
       },
       "subtitle" : "SSH client",
       "tintColor" : "242A48",
@@ -1453,7 +1453,7 @@
       "sha256" : "a9f481824a6d76c5a53a4443aac57f1fc2f091055742842defd81ed3b5f15d78",
       "stats" : {
         "downloadCount" : 308,
-        "impressionCount" : 802
+        "impressionCount" : 803
       },
       "subtitle" : "GUI for the Neovim text editor",
       "tintColor" : "55A349",
@@ -1573,7 +1573,7 @@
       "sha256" : "73ee8fbcf481b1cf68a3456f3c215be8a7d8835342220cc44fba6fa0440f37fc",
       "stats" : {
         "downloadCount" : 221,
-        "impressionCount" : 659
+        "impressionCount" : 660
       },
       "subtitle" : "Open-source markdown editor",
       "tintColor" : "41C1A1",
@@ -1673,7 +1673,7 @@
       "sha256" : "43f06ec38157600bedd95a3bee5c0c9a5c754a24cf39331523edc5b70459ad73",
       "stats" : {
         "downloadCount" : 208,
-        "impressionCount" : 696
+        "impressionCount" : 697
       },
       "subtitle" : "Keyboard configurator",
       "tintColor" : "9C9595",
@@ -1796,7 +1796,7 @@
       "sha256" : "2173c7f00172bef3fed23e7f57e168a9d156c72c311af032ba469139f80d9fe9",
       "stats" : {
         "downloadCount" : 165,
-        "impressionCount" : 613
+        "impressionCount" : 614
       },
       "subtitle" : "DBMS-independent SQL query tool",
       "tintColor" : "BDC0C5",
@@ -1899,7 +1899,7 @@
       "name" : "Surfshark",
       "stats" : {
         "downloadCount" : 147,
-        "impressionCount" : 728
+        "impressionCount" : 729
       },
       "subtitle" : "VPN client for secure internet access and private browsing",
       "tintColor" : "2F96A8",
@@ -2157,7 +2157,7 @@
       "sha256" : "adcf450d98c247fe4c45c68353f19afca3e2039c8431ec080f14000fe9cc36bf",
       "stats" : {
         "downloadCount" : 108,
-        "impressionCount" : 1050
+        "impressionCount" : 1051
       },
       "subtitle" : "Xcode formatter plug-in for Swift code",
       "tintColor" : "F0553B",
@@ -2177,7 +2177,7 @@
       "sha256" : "8a933c3b633e12da3b8a85e43b004223a3c00ee348a0817d0348ecaf5a586c54",
       "stats" : {
         "downloadCount" : 108,
-        "impressionCount" : 619
+        "impressionCount" : 620
       },
       "subtitle" : "Editor for designing and documenting APIs",
       "tintColor" : "35A5ED",
@@ -2197,7 +2197,7 @@
       "sha256" : "0df2006e175e8cfccf17bc3ca27d505177fab2cf7dda97b2299f1841b3bd98fe",
       "stats" : {
         "downloadCount" : 108,
-        "impressionCount" : 430
+        "impressionCount" : 431
       },
       "subtitle" : "Software modeler",
       "tintColor" : "BF8261",
@@ -2237,7 +2237,7 @@
       "sha256" : "f447a66fd1a28fa1c4dd16e8ad7295f7322f248347d4b9f0b8d5facb3a2c1007",
       "stats" : {
         "downloadCount" : 106,
-        "impressionCount" : 713
+        "impressionCount" : 714
       },
       "subtitle" : "Tool for telling interactive, nonlinear stories",
       "tintColor" : "11C396",
@@ -2257,7 +2257,7 @@
       "sha256" : "8350c16bfcaabe8eef252e7c39994d8f7ed2d99c3a1a133f25d3917ae050aabb",
       "stats" : {
         "downloadCount" : 101,
-        "impressionCount" : 650
+        "impressionCount" : 651
       },
       "subtitle" : "Remote pair programming app",
       "tintColor" : "616CBA",
@@ -2325,6 +2325,26 @@
       "tintColor" : "B4DCEA",
       "version" : "4.7.0",
       "versionDate" : "2022-11-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "yandex",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://browser.yandex.ru/download/?os=mac&full=1",
+      "homepage" : "https://browser.yandex.ru/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yandex/AppIcon.png",
+      "localizedDescription" : "Web browser",
+      "name" : "Yandex.Browser",
+      "stats" : {
+        "downloadCount" : 94,
+        "impressionCount" : 510
+      },
+      "subtitle" : "Web browser",
+      "tintColor" : "EACCCC",
+      "version" : "22.9.5",
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2497,7 +2517,7 @@
       "sha256" : "2a1a48c608b30667671f4111f1d38455a6291210604d81ca70ef4a5f02823f5e",
       "stats" : {
         "downloadCount" : 84,
-        "impressionCount" : 784
+        "impressionCount" : 785
       },
       "subtitle" : "Generate and view a class diagram for Swift code in Xcode",
       "tintColor" : "617FFB",
@@ -2599,7 +2619,7 @@
       "sha256" : "7e36ac8a1a8d931bbf20b064c47455bf8fa66b4d68840d1c6fa1405fa1080dd8",
       "stats" : {
         "downloadCount" : 77,
-        "impressionCount" : 745
+        "impressionCount" : 746
       },
       "subtitle" : "Notetaking tool",
       "tintColor" : "6391B2",
@@ -2700,7 +2720,7 @@
       "sha256" : "ac6f1aadc02dfe1ba04193f67f5f081b6f22d2bfde40c18956071e6cec9c390f",
       "stats" : {
         "downloadCount" : 74,
-        "impressionCount" : 879
+        "impressionCount" : 880
       },
       "subtitle" : "Desktop client for the Zulip team chat platform",
       "tintColor" : "82A7FE",
@@ -2780,7 +2800,7 @@
       "sha256" : "7af139d541a8d2875d76aa46ef4074496d07ef49d2aec27467d8879aac903d43",
       "stats" : {
         "downloadCount" : 71,
-        "impressionCount" : 614
+        "impressionCount" : 615
       },
       "subtitle" : "Touch Bar as a standalone app",
       "tintColor" : "3E353A",
@@ -2820,7 +2840,7 @@
       "sha256" : "b0d651cdd4638a2d49bce72e1602b2226745bfd24951abcb0bd85899d6d7ab4b",
       "stats" : {
         "downloadCount" : 67,
-        "impressionCount" : 447
+        "impressionCount" : 448
       },
       "subtitle" : "All-in-one live streaming software",
       "tintColor" : "66C4AA",
@@ -2944,7 +2964,7 @@
       "sha256" : "7c10f821ec1f0df599d73c54788b724b4be6f2ac41071723354f4af4002d9e58",
       "stats" : {
         "downloadCount" : 59,
-        "impressionCount" : 532
+        "impressionCount" : 533
       },
       "subtitle" : "Tinker tool for PHP and Laravel developers",
       "tintColor" : "5A5542",
@@ -3128,7 +3148,7 @@
       "sha256" : "7fec7bf1fb93854ed87cbaf4d9e21ef964adfc064d731b82a84a499f5b911e1f",
       "stats" : {
         "downloadCount" : 50,
-        "impressionCount" : 948
+        "impressionCount" : 949
       },
       "subtitle" : "Seamless, automatic, “dotfile” sync to iCloud",
       "tintColor" : "83C4EC",
@@ -3188,7 +3208,7 @@
       "sha256" : "d176fa5dcc55dc0369a160b61d0f8a15fe128ce1f995c2825c28a384d07a9aef",
       "stats" : {
         "downloadCount" : 49,
-        "impressionCount" : 542
+        "impressionCount" : 543
       },
       "subtitle" : "Visual editors for data",
       "tintColor" : "9DA5A8",
@@ -3287,7 +3307,7 @@
       "sha256" : "a6d6af0da85f4e4991596dd055931cf229c536f8748ac484329494e17a5c7d9e",
       "stats" : {
         "downloadCount" : 46,
-        "impressionCount" : 401
+        "impressionCount" : 402
       },
       "subtitle" : "Microsoft SQL Server database client",
       "tintColor" : "AE231E",
@@ -3347,7 +3367,7 @@
       "sha256" : "2e4518e03a3f4ad470f5abdf42ff640ac4deac6ffafd0672c0a22caf89b632fa",
       "stats" : {
         "downloadCount" : 45,
-        "impressionCount" : 453
+        "impressionCount" : 454
       },
       "subtitle" : "Plug-in productivity tool set",
       "tintColor" : "717171",
@@ -3449,7 +3469,7 @@
       "sha256" : "574198aa286094be84a1dab896d1a5d23a7f4173ec212bddcad3c9830a36fe31",
       "stats" : {
         "downloadCount" : 44,
-        "impressionCount" : 287
+        "impressionCount" : 288
       },
       "subtitle" : "Electron Windows 95",
       "tintColor" : "3E2F1E",
@@ -3530,7 +3550,7 @@
       "name" : "threema",
       "stats" : {
         "downloadCount" : 43,
-        "impressionCount" : 540
+        "impressionCount" : 541
       },
       "subtitle" : "End-to-end encrypted instant messaging application",
       "tintColor" : "666A67",
@@ -3590,7 +3610,7 @@
       "sha256" : "4e15088dee92097ae80595c3f147c6761f192ba65eb9639e67abacfd8bb5d7b9",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 323
+        "impressionCount" : 324
       },
       "subtitle" : "Desktop application for viewing and analyzing tabular data",
       "tintColor" : "4799DA",
@@ -3610,7 +3630,7 @@
       "sha256" : "8074adb87d955d76cae2688a1db0336ca0d5b4350556242ad77b9340487822f5",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 395
+        "impressionCount" : 396
       },
       "subtitle" : "Lightweight PostgreSQL database client",
       "tintColor" : "1E5A8B",
@@ -3650,7 +3670,7 @@
       "name" : "Tutanota Desktop",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 437
+        "impressionCount" : 438
       },
       "subtitle" : "Email client",
       "tintColor" : "B76B65",
@@ -3773,7 +3793,7 @@
       "sha256" : "377c6464bec545d435ea153ae70e5d2e95a6fbb079bb75560d699112ae04e9eb",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 691
+        "impressionCount" : 692
       },
       "subtitle" : "Personal knowledge base",
       "tintColor" : "A07E2A",
@@ -3915,7 +3935,7 @@
       "name" : "Tencent Docs",
       "stats" : {
         "downloadCount" : 37,
-        "impressionCount" : 581
+        "impressionCount" : 582
       },
       "subtitle" : "Online editor for Word, Excel and PPT documents",
       "tintColor" : "5D9AFE",
@@ -4078,7 +4098,7 @@
       "sha256" : "d422a2f0720d8f900ac954b60008d88cc8603788549845e89ac92da11a69a064",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 488
+        "impressionCount" : 489
       },
       "subtitle" : "Companion app for the Trezor hardware wallet",
       "tintColor" : "36A06B",
@@ -4237,7 +4257,7 @@
       "sha256" : "924fe26c6ddb12a65c05de7573138ef10a3a482801341f5aecf39619d5d5db53",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 430
+        "impressionCount" : 431
       },
       "subtitle" : "Epub reader",
       "tintColor" : "699FFD",
@@ -4695,7 +4715,7 @@
       "name" : "Unclutter",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 588
+        "impressionCount" : 589
       },
       "subtitle" : "Desktop storage area for notes, files and pasteboard clips",
       "tintColor" : "488BBB",
@@ -4739,26 +4759,6 @@
       "subtitle" : "Windows manager",
       "tintColor" : "97A9BB",
       "version" : "1.4,747"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slicer",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://slicer-packages.kitware.com/api/v1/item/62cc8ff3aa08d161a31c260a/download",
-      "homepage" : "https://www.slicer.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slicer/AppIcon.png",
-      "localizedDescription" : "Medical image processing and visualization system",
-      "name" : "3D Slicer",
-      "sha256" : "45cafff1d60cf1d225285b1a59260b164062cf5bde802cbadcaef8d00b177270",
-      "stats" : {
-        "downloadCount" : 24,
-        "impressionCount" : 376
-      },
-      "subtitle" : "Medical image processing and visualization system",
-      "tintColor" : "8E8F96",
-      "version" : "5.0.3,62cc8ff3aa08d161a31c260a"
     },
     {
       "beta" : false,
@@ -4906,27 +4906,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sleek",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.9/sleek-1.2.9-mac.dmg",
-      "homepage" : "https://github.com/ransome1/sleek",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sleek/AppIcon.png",
-      "localizedDescription" : "Todo manager based on the todo.txt syntax",
-      "name" : "sleek",
-      "sha256" : "09eaf11fbd7440ba32e127e08b2fbce75d7313af4ac43735053622856967f1d1",
-      "stats" : {
-        "downloadCount" : 23,
-        "impressionCount" : 550
-      },
-      "subtitle" : "Todo manager based on the todo.txt syntax",
-      "tintColor" : "715C8C",
-      "version" : "1.2.9",
-      "versionDate" : "2022-11-06T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "seadrive",
       "categories" : [
         "public.app-category.utilities"
@@ -4986,6 +4965,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sidenotes",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://www.apptorium.com/public/products/sidenotes/releases/SideNotes-1.4.8.zip",
+      "homepage" : "https://www.apptorium.com/sidenotes",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidenotes/AppIcon.png",
+      "localizedDescription" : "Note-taking application",
+      "name" : "SideNotes",
+      "sha256" : "ce8ba6faa655deb3030c3efdc0388a1ff47c7e154e066fc9a9fd93c135b56c81",
+      "stats" : {
+        "downloadCount" : 22,
+        "impressionCount" : 281
+      },
+      "subtitle" : "Note-taking application",
+      "tintColor" : "1F4D6B",
+      "version" : "1.4.8,211"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "siyuan",
       "categories" : [
         "public.app-category.developer-tools"
@@ -5004,26 +5003,6 @@
       "tintColor" : "8A3C3E",
       "version" : "2.4.10",
       "versionDate" : "2022-11-06T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sidenotes",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://www.apptorium.com/public/products/sidenotes/releases/SideNotes-1.4.8.zip",
-      "homepage" : "https://www.apptorium.com/sidenotes",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidenotes/AppIcon.png",
-      "localizedDescription" : "Note-taking application",
-      "name" : "SideNotes",
-      "sha256" : "ce8ba6faa655deb3030c3efdc0388a1ff47c7e154e066fc9a9fd93c135b56c81",
-      "stats" : {
-        "downloadCount" : 22,
-        "impressionCount" : 281
-      },
-      "subtitle" : "Note-taking application",
-      "tintColor" : "1F4D6B",
-      "version" : "1.4.8,211"
     },
     {
       "beta" : false,
@@ -5205,26 +5184,6 @@
       "subtitle" : "Messaging service that runs on Synology NAS",
       "tintColor" : "8ECB5F",
       "version" : "1.2.1-0207"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slidepilot",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://slidepilotapp.com/updates/SlidePilot-1.8.0.zip",
-      "homepage" : "https://slidepilotapp.com/en",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slidepilot/AppIcon.png",
-      "localizedDescription" : "PDF presentation tool",
-      "name" : "SlidePilot",
-      "sha256" : "bc8bf077a504cdb2d09d7adee313e408d40063e66e2c0d8722c6678e4ee5cc20",
-      "stats" : {
-        "downloadCount" : 20,
-        "impressionCount" : 294
-      },
-      "subtitle" : "PDF presentation tool",
-      "tintColor" : "469DF0",
-      "version" : "1.8.0"
     },
     {
       "beta" : false,
@@ -6014,7 +5973,7 @@
       "sha256" : "9cb1047d1c18972c2730471808ab9b46d26e21b72bf7ceeaa193cbeafe76c456",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 576
+        "impressionCount" : 577
       },
       "subtitle" : "Cross-platform Mind Mapping tool",
       "tintColor" : "6DC8E5",
@@ -7215,7 +7174,7 @@
       "sha256" : "35e553ec48d8dbae490142d184cd61396aed9a13e2c226580aba7683b1016d6e",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 282
+        "impressionCount" : 283
       },
       "subtitle" : "Tool that provides commands for working with selected text",
       "tintColor" : "CFD1D2",
@@ -7415,7 +7374,7 @@
       "sha256" : "2a01c9dc79673463e28a6c8e72abd1e4041a3480defaa9092ab85b1869575717",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 349
+        "impressionCount" : 350
       },
       "subtitle" : "Virtual office for remote teams",
       "tintColor" : "4998E1",
@@ -7557,26 +7516,6 @@
       "subtitle" : "Media player",
       "tintColor" : "F7CEB3",
       "version" : "4.9.4"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slippi-dolphin",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "downloadURL" : "https://github.com/project-slippi/Ishiiruka/releases/download/v2.5.2/FM-Slippi-2.5.2-Mac.dmg",
-      "homepage" : "https://slippi.gg/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slippi-dolphin/AppIcon.png",
-      "localizedDescription" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
-      "name" : "Slippi",
-      "sha256" : "55b1b5a3bb1205a518beb7b14755c25a9b556c18607b9ebe60785db020209ca1",
-      "stats" : {
-        "downloadCount" : 6,
-        "impressionCount" : 1001
-      },
-      "subtitle" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
-      "tintColor" : "2AA5EA",
-      "version" : "2.5.2"
     },
     {
       "beta" : false,
@@ -8535,7 +8474,7 @@
       "sha256" : "a726bd20d64d6f03b3251d7841f94fae0f50103533706e9291233aa3adbecf92",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 262
+        "impressionCount" : 263
       },
       "subtitle" : "Extensible and open-source launcher for hackers, creators and dabblers",
       "tintColor" : "000000",
@@ -8952,26 +8891,6 @@
       "subtitle" : "Screen capture application",
       "tintColor" : "757776",
       "version" : "4.5.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slimhud",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/AlexPerathoner/SlimHUD/releases/download/v1.3.7/SlimHUD.zip",
-      "homepage" : "https://github.com/AlexPerathoner/SlimHUD/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slimhud/AppIcon.png",
-      "localizedDescription" : "Replacement for the volume, brightness and keyboard backlight HUDs",
-      "name" : "SlimHUD",
-      "sha256" : "b2de218dc65db11eeab6569dc66d6d7e0a83a1572010059459192e98abd6f0c8",
-      "stats" : {
-        "downloadCount" : 3,
-        "impressionCount" : 189
-      },
-      "subtitle" : "Replacement for the volume, brightness and keyboard backlight HUDs",
-      "tintColor" : "6E889C",
-      "version" : "1.3.7"
     },
     {
       "beta" : false,
@@ -9420,23 +9339,6 @@
       "subtitle" : "Extract images from videos",
       "tintColor" : "45C1E5",
       "version" : "5.0.7,4d545b9c-091a-4064-b236-dbba3477224e"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sleipnir",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.fenrir-inc.com/services/download.php?file=Sleipnir.dmg",
-      "homepage" : "https://www.fenrir-inc.com/jp/sleipnir/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sleipnir/AppIcon.png",
-      "name" : "Sleipnir",
-      "stats" : {
-        "downloadCount" : 2,
-        "impressionCount" : 182
-      },
-      "tintColor" : "6E727D",
-      "version" : "4.6.6,4.6.6004"
     },
     {
       "beta" : false,
@@ -10017,6 +9919,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sidestep",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/chetan51/sidestep/releases/download/1.4.1/Sidestep.zip",
+      "homepage" : "https://chetansurpur.com/projects/sidestep/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidestep/AppIcon.png",
+      "name" : "Sidestep",
+      "sha256" : "c25f7748d73b6f915aff268070ef85ca69f2902de98b044b77c49d1e1341d84e",
+      "stats" : {
+        "downloadCount" : 1,
+        "impressionCount" : 181
+      },
+      "tintColor" : "0087C0",
+      "version" : "1.4.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sketch-toolbox",
       "categories" : [
         "public.app-category.graphics-design"
@@ -10051,24 +9971,6 @@
       "subtitle" : "Scans and checks bundle signatures",
       "tintColor" : "A7AD9D",
       "version" : "1.3,2020.09"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sidestep",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/chetan51/sidestep/releases/download/1.4.1/Sidestep.zip",
-      "homepage" : "https://chetansurpur.com/projects/sidestep/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sidestep/AppIcon.png",
-      "name" : "Sidestep",
-      "sha256" : "c25f7748d73b6f915aff268070ef85ca69f2902de98b044b77c49d1e1341d84e",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 181
-      },
-      "tintColor" : "0087C0",
-      "version" : "1.4.1"
     },
     {
       "beta" : false,
@@ -10713,23 +10615,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "slik",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://apps.inspira.io/updates/slik.zip",
-      "homepage" : "https://apps.inspira.io/slik/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slik/AppIcon.png",
-      "name" : "Slik",
-      "stats" : {
-        "downloadCount" : 0,
-        "impressionCount" : 235
-      },
-      "tintColor" : "848B95",
-      "version" : "2.1.1,5023"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "simplelink-msp432-sdk",
       "categories" : [
         "public.app-category.utilities"
@@ -10849,7 +10734,7 @@
       "sha256" : "bab55ae8fd5f5040def040af2af573214264dab32f421d676f89a773c1874e72",
       "stats" : {
         "downloadCount" : 828,
-        "impressionCount" : 725
+        "impressionCount" : 727
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
@@ -12791,26 +12676,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "slic3r",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/slic3r/Slic3r/releases/download/1.3.0/slic3r-1.3.0.dmg",
-      "homepage" : "https://slic3r.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slic3r/AppIcon.png",
-      "localizedDescription" : "3D printing toolbox",
-      "name" : "Slic3r",
-      "sha256" : "a50dbe78c4648dfcd0ffec46335554c9fa3348dd494a1f6c2b60406aea57b5cb",
-      "stats" : {
-        "downloadCount" : 24,
-        "impressionCount" : 64
-      },
-      "subtitle" : "3D printing toolbox",
-      "tintColor" : "8A8A25",
-      "version" : "1.3.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "skyfonts",
       "categories" : [
 
@@ -14091,24 +13956,6 @@
       "tintColor" : "BAB7B8",
       "version" : "3.5.2.2",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "slimbatterymonitor",
-      "categories" : [
-
-      ],
-      "downloadURL" : "http://quux.orange-carb.org/dist/SlimBatteryMonitor-1.5.dmg",
-      "homepage" : "https://www.orange-carb.org/SBM/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slimbatterymonitor/AppIcon.png",
-      "name" : "SlimBatteryMonitor",
-      "sha256" : "587ce35b534c26b489b60d7f4ca71a96c1dcd83193a30c58676ae8d4665c6aff",
-      "stats" : {
-        "downloadCount" : 7,
-        "impressionCount" : 79
-      },
-      "tintColor" : "84774E",
-      "version" : "1.5"
     },
     {
       "beta" : false,
@@ -23267,7 +23114,7 @@
       },
       "subtitle" : "Chinese music streaming application",
       "version" : "8.5.0,72721",
-      "versionDate" : "2022-11-07T09:37:12Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24481,20 +24328,6 @@
       "subtitle" : "View, Screen Share, organize, import, and download files to a reMarkable device",
       "version" : "3.0.1.659,43188224,Dev",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "yandex",
-      "downloadURL" : "https://browser.yandex.ru/download/?os=mac&full=1",
-      "homepage" : "https://browser.yandex.ru/",
-      "localizedDescription" : "Web browser",
-      "name" : "Yandex.Browser",
-      "stats" : {
-        "downloadCount" : 94
-      },
-      "subtitle" : "Web browser",
-      "version" : "22.9.5",
-      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30828,6 +30661,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "yandex-cloud-cli",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://storage.yandexcloud.net/yandexcloud-yc/install.sh",
+      "homepage" : "https://cloud.yandex.com/docs/cli/",
+      "name" : "Yandex Cloud CLI",
+      "stats" : {
+        "downloadCount" : 32
+      },
+      "version" : "latest"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "appzapper",
       "downloadURL" : "https://appzapper.com/downloads/appzapper203.zip",
       "homepage" : "https://www.appzapper.com/",
@@ -31036,17 +30883,6 @@
       },
       "subtitle" : "Catalogue of hi-res music for streaming and download",
       "version" : "6.1.2,108"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "yandex-cloud-cli",
-      "downloadURL" : "https://storage.yandexcloud.net/yandexcloud-yc/install.sh",
-      "homepage" : "https://cloud.yandex.com/docs/cli/",
-      "name" : "Yandex Cloud CLI",
-      "stats" : {
-        "downloadCount" : 32
-      },
-      "version" : "latest"
     },
     {
       "beta" : false,
@@ -33459,6 +33295,34 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "slic3r",
+      "downloadURL" : "https://github.com/slic3r/Slic3r/releases/download/1.3.0/slic3r-1.3.0.dmg",
+      "homepage" : "https://slic3r.org/",
+      "localizedDescription" : "3D printing toolbox",
+      "name" : "Slic3r",
+      "sha256" : "a50dbe78c4648dfcd0ffec46335554c9fa3348dd494a1f6c2b60406aea57b5cb",
+      "stats" : {
+        "downloadCount" : 24
+      },
+      "subtitle" : "3D printing toolbox",
+      "version" : "1.3.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slicer",
+      "downloadURL" : "https://slicer-packages.kitware.com/api/v1/item/62cc8ff3aa08d161a31c260a/download",
+      "homepage" : "https://www.slicer.org/",
+      "localizedDescription" : "Medical image processing and visualization system",
+      "name" : "3D Slicer",
+      "sha256" : "45cafff1d60cf1d225285b1a59260b164062cf5bde802cbadcaef8d00b177270",
+      "stats" : {
+        "downloadCount" : 24
+      },
+      "subtitle" : "Medical image processing and visualization system",
+      "version" : "5.0.3,62cc8ff3aa08d161a31c260a"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "twitch-studio",
       "downloadURL" : "https://live.release.spotlight.twitchsvc.net/installer/mac/twitchstudio.dmg",
       "homepage" : "https://www.twitch.tv/broadcast/studio/",
@@ -33881,6 +33745,21 @@
       },
       "subtitle" : "Visual novel engine in Python",
       "version" : "8.0.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sleek",
+      "downloadURL" : "https://github.com/ransome1/sleek/releases/download/v1.2.9/sleek-1.2.9-mac.dmg",
+      "homepage" : "https://github.com/ransome1/sleek",
+      "localizedDescription" : "Todo manager based on the todo.txt syntax",
+      "name" : "sleek",
+      "sha256" : "09eaf11fbd7440ba32e127e08b2fbce75d7313af4ac43735053622856967f1d1",
+      "stats" : {
+        "downloadCount" : 23
+      },
+      "subtitle" : "Todo manager based on the todo.txt syntax",
+      "version" : "1.2.9",
+      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35229,6 +35108,20 @@
       },
       "subtitle" : "Menu bar app that enables system-wide navigation using side mouse buttons",
       "version" : "1.1.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slidepilot",
+      "downloadURL" : "https://slidepilotapp.com/updates/SlidePilot-1.8.0.zip",
+      "homepage" : "https://slidepilotapp.com/en",
+      "localizedDescription" : "PDF presentation tool",
+      "name" : "SlidePilot",
+      "sha256" : "bc8bf077a504cdb2d09d7adee313e408d40063e66e2c0d8722c6678e4ee5cc20",
+      "stats" : {
+        "downloadCount" : 20
+      },
+      "subtitle" : "PDF presentation tool",
+      "version" : "1.8.0"
     },
     {
       "beta" : false,
@@ -40153,7 +40046,7 @@
       },
       "subtitle" : "Self-hosted controller built using the Flutter framework",
       "version" : "10.2.1",
-      "versionDate" : "2022-11-07T09:37:12Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -45614,6 +45507,18 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "slimbatterymonitor",
+      "downloadURL" : "http://quux.orange-carb.org/dist/SlimBatteryMonitor-1.5.dmg",
+      "homepage" : "https://www.orange-carb.org/SBM/",
+      "name" : "SlimBatteryMonitor",
+      "sha256" : "587ce35b534c26b489b60d7f4ca71a96c1dcd83193a30c58676ae8d4665c6aff",
+      "stats" : {
+        "downloadCount" : 7
+      },
+      "version" : "1.5"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "zesarux",
       "categories" : [
 
@@ -49090,6 +48995,20 @@
         "downloadCount" : 5
       },
       "version" : "1.2.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slippi-dolphin",
+      "downloadURL" : "https://github.com/project-slippi/Ishiiruka/releases/download/v2.5.2/FM-Slippi-2.5.2-Mac.dmg",
+      "homepage" : "https://slippi.gg/",
+      "localizedDescription" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
+      "name" : "Slippi",
+      "sha256" : "55b1b5a3bb1205a518beb7b14755c25a9b556c18607b9ebe60785db020209ca1",
+      "stats" : {
+        "downloadCount" : 5
+      },
+      "subtitle" : "Fork of the Dolphin GameCube and Wii emulator with netplay support via Slippi",
+      "version" : "2.5.2"
     },
     {
       "beta" : false,
@@ -56758,6 +56677,31 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sleipnir",
+      "downloadURL" : "https://www.fenrir-inc.com/services/download.php?file=Sleipnir.dmg",
+      "homepage" : "https://www.fenrir-inc.com/jp/sleipnir/",
+      "name" : "Sleipnir",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "version" : "4.6.6,4.6.6004"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slimhud",
+      "downloadURL" : "https://github.com/AlexPerathoner/SlimHUD/releases/download/v1.3.7/SlimHUD.zip",
+      "homepage" : "https://github.com/AlexPerathoner/SlimHUD/",
+      "localizedDescription" : "Replacement for the volume, brightness and keyboard backlight HUDs",
+      "name" : "SlimHUD",
+      "sha256" : "b2de218dc65db11eeab6569dc66d6d7e0a83a1572010059459192e98abd6f0c8",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "subtitle" : "Replacement for the volume, brightness and keyboard backlight HUDs",
+      "version" : "1.3.7"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "tdr-kotelnikov",
       "downloadURL" : "https://www.tokyodawn.net/labs/Kotelnikov/1.6.4/TDR%20Kotelnikov.zip?x24775",
       "homepage" : "https://www.tokyodawn.net/tdr-kotelnikov/",
@@ -61803,6 +61747,17 @@
         "downloadCount" : 0
       },
       "version" : "5.9.8.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slik",
+      "downloadURL" : "https://apps.inspira.io/updates/slik.zip",
+      "homepage" : "https://apps.inspira.io/slik/",
+      "name" : "Slik",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "version" : "2.1.1,5023"
     },
     {
       "beta" : false,

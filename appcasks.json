@@ -1270,7 +1270,7 @@
       "sha256" : "1ccf8a76a27f670f18039fa8d09063ae2f62463dfbd109dbaac5ca475c15f21a",
       "stats" : {
         "downloadCount" : 449,
-        "impressionCount" : 1470
+        "impressionCount" : 1471
       },
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
@@ -4057,7 +4057,7 @@
       "sha256" : "f094aa0fbcd7b9b29c4a0af34f1e6b4789467946d3b1eadcacb1085fccb6da72",
       "stats" : {
         "downloadCount" : 35,
-        "impressionCount" : 704
+        "impressionCount" : 705
       },
       "subtitle" : "Color blindness simulator for videos and images",
       "tintColor" : "D1AF52",
@@ -4815,7 +4815,7 @@
       "sha256" : "7965f3c2c6038fb24d54d3713c5d7924d486258b0b6e463067ee199eb1188299",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 792
+        "impressionCount" : 793
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
@@ -5159,7 +5159,7 @@
       "sha256" : "a3e251128997d9f1e3cbcc3bfb0c93bc201e4fbd9e0aa7dfa3640aa55fc2bad1",
       "stats" : {
         "downloadCount" : 20,
-        "impressionCount" : 435
+        "impressionCount" : 436
       },
       "subtitle" : "Font manager application",
       "tintColor" : "DAB6B1",
@@ -5441,7 +5441,7 @@
       "sha256" : "83638b5f2a2606e9c6a26a716b1d8cc8fd47f419ff72b4ee015fea67a3580a85",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 1128
+        "impressionCount" : 1129
       },
       "subtitle" : "Desktop client for Webull Financial LLC",
       "tintColor" : "CBD8FE",
@@ -5798,7 +5798,7 @@
       "sha256" : "32216d2594a8181b711e41c41ac43569a32da3afc77dbf0547cf976a10875842",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 752
+        "impressionCount" : 753
       },
       "subtitle" : "Get and save color codes",
       "tintColor" : "CBCDCE",
@@ -6650,7 +6650,7 @@
       "sha256" : "3cb5a0ec67a28c4c0d6a3b030d2031f7e5c4238ba8b3b0e8173435501fa9f632",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 471
+        "impressionCount" : 472
       },
       "subtitle" : "Visualize a story as fast you can draw stick figures",
       "tintColor" : "D5D2F4",
@@ -10047,7 +10047,7 @@
       "name" : "Sketch Toolbox",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 482
+        "impressionCount" : 483
       },
       "tintColor" : "DC6941",
       "version" : "0.5.1,051"
@@ -10800,7 +10800,7 @@
       "sha256" : "ee6c2946acbd481c260b9894756057f51aff4f11cf9d9904a0d2b3b8524adb95",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 478
+        "impressionCount" : 479
       },
       "subtitle" : "Diagramming app",
       "tintColor" : "92A279",
@@ -26216,7 +26216,7 @@
       },
       "subtitle" : "GUI for automatically saving SHSH blobs",
       "version" : "3.3.0",
-      "versionDate" : "2022-11-07T13:05:17Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41666,17 +41666,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "aircall",
-      "downloadURL" : "https://download-electron.aircall.io/Aircall-2.26.6.zip",
+      "downloadURL" : "https://download-electron.aircall.io/Aircall-2.26.9.zip",
       "homepage" : "https://aircall.io/",
       "localizedDescription" : "Cloud-based call center and phone system software",
       "name" : "Aircall",
-      "sha256" : "84c38c424e4dab81f95d459fb624f6636bc9f5f2c1b5c91bb957002b33d71f9b",
+      "sha256" : "c2c56124debe724ae68689ee1f709a5d0d449f625edc6edac06cf73f6daa9587",
       "stats" : {
         "downloadCount" : 9
       },
       "subtitle" : "Cloud-based call center and phone system software",
-      "version" : "2.26.6",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "2.26.9",
+      "versionDate" : "2022-11-07T14:06:38Z"
     },
     {
       "beta" : false,
@@ -62173,13 +62173,6 @@
       "title" : "New Release: Hackolade 6.6.2"
     },
     {
-      "appID" : "aircall",
-      "caption" : "Aircall updated from 2.26.5 to 2.26.6",
-      "date" : "2022-11-04T20:36:31Z",
-      "identifier" : "release-aircall-2.26.6",
-      "title" : "New Release: Aircall 2.26.6"
-    },
-    {
       "appID" : "quickbooks",
       "caption" : "QuickBooks Desktop updated from 21.0.7.1242,2022 to 21.0.7.1244,2022",
       "date" : "2022-11-04T20:36:32Z",
@@ -62822,6 +62815,13 @@
       "date" : "2022-11-07T13:05:18Z",
       "identifier" : "release-blobsaver-3.3.0",
       "title" : "New Release: blobsaver 3.3.0"
+    },
+    {
+      "appID" : "aircall",
+      "caption" : "Aircall updated from 2.26.6 to 2.26.9",
+      "date" : "2022-11-07T14:06:39Z",
+      "identifier" : "release-aircall-2.26.9",
+      "title" : "New Release: Aircall 2.26.9"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -23,12 +23,12 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `157` | `2022-08-27T00:00:00Z` | `12.8 MB` | `1189` | `90` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `118` | `2022-10-21T00:00:00Z` | `1.45 GB` | `6` | `1` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `118` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1415` | `62` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `116` | `2022-10-30T00:00:00Z` | `2.7 MB` | `0` | `0` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `158` | `2022-08-27T00:00:00Z` | `12.8 MB` | `1189` | `90` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `119` | `2022-10-21T00:00:00Z` | `1.45 GB` | `6` | `1` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `119` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1415` | `62` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `117` | `2022-10-30T00:00:00Z` | `2.7 MB` | `0` | `0` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `938` | `98` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `55` | `2022-10-20T00:00:00Z` | `8.1 MB` | `364` | `53` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `58` | `2022-10-20T00:00:00Z` | `8.1 MB` | `364` | `53` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4304` | `299` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `458` | `31` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `1266` | `106` | `0` | `0` |  |

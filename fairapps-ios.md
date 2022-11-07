@@ -23,39 +23,39 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `148` | `2022-08-27T00:00:00Z` | `12.8 MB` | `1179` | `90` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `109` | `2022-10-21T00:00:00Z` | `1.45 GB` | `5` | `1` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `109` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1403` | `62` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `107` | `2022-10-30T00:00:00Z` | `2.7 MB` | `0` | `0` | `0` | `0` |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `926` | `98` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4289` | `299` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `48` | `2022-10-20T00:00:00Z` | `8.1 MB` | `355` | `52` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `153` | `2022-08-27T00:00:00Z` | `12.8 MB` | `1185` | `90` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `114` | `2022-10-21T00:00:00Z` | `1.45 GB` | `5` | `1` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `114` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1413` | `62` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `112` | `2022-10-30T00:00:00Z` | `2.7 MB` | `0` | `0` | `0` | `0` |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `935` | `98` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4300` | `299` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `53` | `2022-10-20T00:00:00Z` | `8.1 MB` | `359` | `52` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `457` | `31` | `0` | `0` |  |
-| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `1255` | `106` | `0` | `0` |  |
+| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `1263` | `106` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `25` | `2022-09-23T00:00:00Z` | `7.8 MB` | `12` | `2` | `0` | `0` |  |
-| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `1295` | `90` | `0` | `0` |  |
+| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `25` | `2022-09-02T00:00:00Z` | `6.6 MB` | `1302` | `90` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `20` | `2022-08-27T00:00:00Z` | `5.8 MB` | `16` | `1` | `0` | `0` |  |
-| [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1751` | `95` | `0` | `0` |  |
+| [``Hear Tell``](https://Hear-Tell.github.io/App/) | ``0.3.38β`` | `9` | `2022-01-26T00:00:00Z` | `5.9 MB` | `1755` | `95` | `0` | `0` |  |
 | [``Neural Scry``](https://Neural-Scry.github.io/App/) | ``0.0.45β`` | `9` | `2021-12-04T00:00:00Z` | `8.7 MB` | `517` | `9` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.8β`` | `9` | `2021-12-06T00:00:00Z` | `5.8 MB` | `388` | `20` | `0` | `0` |  |
-| [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `8` | `2022-07-20T00:00:00Z` | `18.2 MB` | `3686` | `207` | `0` | `0` |  |
+| [``Main Course``](https://Main-Course.github.io/App/) | ``0.0.16`` | `8` | `2022-07-20T00:00:00Z` | `18.2 MB` | `3693` | `207` | `0` | `0` |  |
 | [``Visi Calc``](https://Visi-Calc.github.io/App/) | ``0.0.35β`` | `7` | `2021-12-04T00:00:00Z` | `14.9 MB` | `1324` | `201` | `0` | `0` |  |
-| [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `6` | `2022-01-25T00:00:00Z` | `6 MB` | `2352` | `146` | `0` | `0` |  |
-| [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `6` | `2022-01-23T00:00:00Z` | `5.8 MB` | `2103` | `126` | `0` | `0` |  |
-| [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `6.5 MB` | `1485` | `64` | `0` | `0` |  |
-| [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `5` | `2022-01-24T00:00:00Z` | `6.5 MB` | `734` | `59` | `0` | `0` |  |
+| [``Down Town``](https://Down-Town.github.io/App/) | ``0.0.3β`` | `6` | `2022-01-25T00:00:00Z` | `6 MB` | `2357` | `146` | `0` | `0` |  |
+| [``Festivus Pole``](https://Festivus-Pole.github.io/App/) | ``0.0.3β`` | `6` | `2022-01-23T00:00:00Z` | `5.8 MB` | `2108` | `126` | `0` | `0` |  |
+| [``Name Sense``](https://Name-Sense.github.io/App/) | ``0.0.24β`` | `5` | `2022-02-12T00:00:00Z` | `6.5 MB` | `1491` | `64` | `0` | `0` |  |
+| [``Pan Opticon``](https://Pan-Opticon.github.io/App/) | ``0.2.22β`` | `5` | `2022-01-24T00:00:00Z` | `6.5 MB` | `739` | `60` | `0` | `0` |  |
 | [``SQL Hero``](https://SQL-Hero.github.io/App/) | ``0.0.3β`` | `5` | `2022-01-24T00:00:00Z` | `6.1 MB` | `213` | `14` | `0` | `0` |  |
-| [``Ultra Light``](https://Ultra-Light.github.io/App/) | ``0.0.7β`` | `5` | `2022-01-21T00:00:00Z` | `5.9 MB` | `788` | `66` | `0` | `0` |  |
-| [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | ``0.0.16β`` | `4` | `2022-02-12T00:00:00Z` | `6.3 MB` | `1168` | `60` | `0` | `0` |  |
-| [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `4` | `2022-01-25T00:00:00Z` | `5.9 MB` | `728` | `48` | `0` | `0` |  |
-| [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `6 MB` | `2006` | `49` | `0` | `0` |  |
-| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `3` | `2022-09-23T00:00:00Z` | `10.5 MB` | `1001` | `46` | `2` | `0` |  |
-| [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `3` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1141` | `81` | `0` | `0` |  |
-| [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `692` | `44` | `0` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `3` | `2022-08-27T00:00:00Z` | `8.8 MB` | `1466` | `122` | `1` | `0` |  |
-| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.70`` | `2` | `2022-09-03T00:00:00Z` | `5.7 MB` | `67` | `5` | `0` | `0` |  |
-| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1552` | `100` | `0` | `0` |  |
-| [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `1592` | `82` | `0` | `0` |  |
-| [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `1220` | `73` | `0` | `0` |  |
+| [``Ultra Light``](https://Ultra-Light.github.io/App/) | ``0.0.7β`` | `5` | `2022-01-21T00:00:00Z` | `5.9 MB` | `792` | `66` | `0` | `0` |  |
+| [``Trivial Quiz``](https://Trivial-Quiz.github.io/App/) | ``0.0.16β`` | `4` | `2022-02-12T00:00:00Z` | `6.3 MB` | `1172` | `60` | `0` | `0` |  |
+| [``Unclear Purpose``](https://Unclear-Purpose.github.io/App/) | ``0.0.5β`` | `4` | `2022-01-25T00:00:00Z` | `5.9 MB` | `732` | `48` | `0` | `0` |  |
+| [``Yankee Swap``](https://Yankee-Swap.github.io/App/) | ``0.0.11β`` | `4` | `2022-01-24T00:00:00Z` | `6 MB` | `2010` | `49` | `0` | `0` |  |
+| [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `3` | `2022-09-23T00:00:00Z` | `10.5 MB` | `1010` | `46` | `2` | `0` |  |
+| [``Eternal September``](https://Eternal-September.github.io/App/) | ``0.0.45`` | `3` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1149` | `81` | `0` | `0` |  |
+| [``Tweet Storm``](https://Tweet-Storm.github.io/App/) | ``0.0.12β`` | `3` | `2022-05-01T00:00:00Z` | `6.4 MB` | `695` | `44` | `0` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `3` | `2022-08-27T00:00:00Z` | `8.8 MB` | `1473` | `122` | `1` | `0` |  |
+| [``Encyclopedia Galactica``](https://Encyclopedia-Galactica.github.io/App/) | ``0.1.70`` | `2` | `2022-09-03T00:00:00Z` | `5.7 MB` | `74` | `5` | `0` | `0` |  |
+| [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `2` | `2022-08-24T00:00:00Z` | `5.8 MB` | `1559` | `100` | `0` | `0` |  |
+| [``Fox Glove``](https://Fox-Glove.github.io/App/) | ``0.0.9`` | `2` | `2022-08-24T00:00:00Z` | `5.9 MB` | `1599` | `82` | `0` | `0` |  |
+| [``Tidal Zone``](https://Tidal-Zone.github.io/App/) | ``0.1.1`` | `2` | `2022-08-27T00:00:00Z` | `5.7 MB` | `1227` | `73` | `0` | `0` |  |
 
 <center><small><code>{{ site.time | date_to_xmlschema }}</code></small></center>

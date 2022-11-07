@@ -23,10 +23,10 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `598` | `2022-10-20T00:00:00Z` | `12 MB` | `366` | `54` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `173` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1190` | `90` | `0` | `0` |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `126` | `2022-09-26T00:00:00Z` | `2.4 MB` | `939` | `98` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `124` | `2022-10-30T00:00:00Z` | `5 MB` | `0` | `0` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `599` | `2022-10-20T00:00:00Z` | `12 MB` | `367` | `54` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `174` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1190` | `90` | `0` | `0` |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `127` | `2022-09-26T00:00:00Z` | `2.4 MB` | `939` | `98` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `125` | `2022-10-30T00:00:00Z` | `5 MB` | `0` | `0` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `44` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5697` | `858` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `3.2 MB` | `458` | `31` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1476` | `122` | `1` | `0` |  |

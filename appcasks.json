@@ -1804,27 +1804,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "standard-notes",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.23.273/standard-notes-3.23.273-mac-x64.zip",
-      "homepage" : "https://standardnotes.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-standard-notes/AppIcon.png",
-      "localizedDescription" : "Free, open-source, and completely encrypted notes app",
-      "name" : "Standard Notes",
-      "sha256" : "8203386574048d4930b0a1f5d1d6e37a2a904fe02d7fa6b011d1f690deb959a0",
-      "stats" : {
-        "downloadCount" : 161,
-        "impressionCount" : 828
-      },
-      "subtitle" : "Free, open-source, and completely encrypted notes app",
-      "tintColor" : "AFCEEE",
-      "version" : "3.23.273",
-      "versionDate" : "2022-11-04T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tg-pro",
       "categories" : [
         "public.app-category.utilities"
@@ -3156,26 +3135,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "ssh-tunnel-manager",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://dl.devmate.com/org.tynsoe.sshtunnelmanager/227.006/1478083232/SSHTunnelManager-227.006.zip",
-      "homepage" : "https://tynsoe.org/stm/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ssh-tunnel-manager/AppIcon.png",
-      "localizedDescription" : "Application for managing SSH tunnels",
-      "name" : "SSH Tunnel Manager",
-      "sha256" : "11c8b7ca6f3a79b2cefdfc665a6cc6d5aaf2dac199e9380f44c3e1aea191c41a",
-      "stats" : {
-        "downloadCount" : 50,
-        "impressionCount" : 346
-      },
-      "subtitle" : "Application for managing SSH tunnels",
-      "tintColor" : "724449",
-      "version" : "227.006,1478083232"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "xnconvert",
       "categories" : [
         "public.app-category.photography"
@@ -4001,27 +3960,6 @@
       "subtitle" : "Twitter client",
       "tintColor" : "72A9E2",
       "version" : "3.5.8,35800"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "ssh-config-editor",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://hejki.org/download/ssheditor/SSHConfigEditor-96.dmg",
-      "homepage" : "https://www.hejki.org/ssheditor/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ssh-config-editor/AppIcon.png",
-      "localizedDescription" : "Tool for managing the OpenSSH ssh client configuration file",
-      "name" : "SSH Config Editor",
-      "sha256" : "a91a0db47e5a858abe1788baea135d1e306f335bb295468066621cffd996a3bf",
-      "stats" : {
-        "downloadCount" : 36,
-        "impressionCount" : 412
-      },
-      "subtitle" : "Tool for managing the OpenSSH ssh client configuration file",
-      "tintColor" : "B2733D",
-      "version" : "2.5.1,96",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6968,26 +6906,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "stack-stack",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://binaries.getstack.app/builds/prod/Stack-3.41.1.dmg",
-      "homepage" : "https://getstack.app/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stack-stack/AppIcon.png",
-      "localizedDescription" : "Workspace to manage all your productivity apps from one place",
-      "name" : "Stack",
-      "sha256" : "eaca3be87c4dc15eb7634a350d3d0da3ba814f08cc9950878248eeb4492efdf9",
-      "stats" : {
-        "downloadCount" : 8,
-        "impressionCount" : 240
-      },
-      "subtitle" : "Workspace to manage all your productivity apps from one place",
-      "tintColor" : "35424F",
-      "version" : "3.41.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "snipy",
       "categories" : [
         "public.app-category.developer-tools"
@@ -8049,26 +7967,6 @@
       "subtitle" : "Editor for localizable files",
       "tintColor" : "D17047",
       "version" : "0.7.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "stand",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://f001.backblazeb2.com/file/stand-app/2.1.1/Stand.zip",
-      "homepage" : "https://getstandapp.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stand/AppIcon.png",
-      "localizedDescription" : "Reminds you to stand up once an hour",
-      "name" : "Stand",
-      "sha256" : "5fce7d525ea7154d1df58b25d1902731f533a18656330593a7d3d2456fc1f314",
-      "stats" : {
-        "downloadCount" : 5,
-        "impressionCount" : 218
-      },
-      "subtitle" : "Reminds you to stand up once an hour",
-      "tintColor" : "3ECEE2",
-      "version" : "2.1.1"
     },
     {
       "beta" : false,
@@ -10600,24 +10498,6 @@
       "subtitle" : "Hex editing and binary file analysis app",
       "tintColor" : "D8CDAA",
       "version" : "1.26"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "stack-exchange-notifier",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://hewgill.com/senotifier/stack-exchange-notifier-1.1.dmg",
-      "homepage" : "https://hewgill.com/senotifier/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stack-exchange-notifier/AppIcon.png",
-      "name" : "Stack Exchange Notifier",
-      "sha256" : "849b543bc724e735e9a951721159b45a5284fde44c4cd8caa74c0e7eefb7e30c",
-      "stats" : {
-        "downloadCount" : 0,
-        "impressionCount" : 236
-      },
-      "tintColor" : "6783B4",
-      "version" : "1.1"
     },
     {
       "beta" : false,
@@ -13387,26 +13267,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "stack",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://mirror.transip.net/stack/software/osx/stack-2.10.1-20220504.dmg",
-      "homepage" : "https://www.transip.nl/stack",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stack/AppIcon.png",
-      "localizedDescription" : "Personal online hard drive to store, view and share files",
-      "name" : "STACK",
-      "sha256" : "da2c1db8f6f73b7635f78df26d5f4d150a710d18ad803ed1644f563c944009f4",
-      "stats" : {
-        "downloadCount" : 15,
-        "impressionCount" : 72
-      },
-      "subtitle" : "Personal online hard drive to store, view and share files",
-      "tintColor" : "9C9CDE",
-      "version" : "2.10.1-20220504"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sigdigger",
       "categories" : [
 
@@ -13464,26 +13324,6 @@
       "subtitle" : "Subtitle speech synchronizer",
       "tintColor" : "41ADC9",
       "version" : "0.17.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "ssokit",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/rangaofei/SSokit-qmake/releases/download/1.2.1/SSokit_1.2.1.dmg",
-      "homepage" : "https://github.com/rangaofei/SSokit-qmake",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ssokit/AppIcon.png",
-      "localizedDescription" : "TCP and UDP debug tool",
-      "name" : "SSokit",
-      "sha256" : "830006cbb59dc3529dfae91f30ee1b1362f9be5952a599e9083d5fcaed710e34",
-      "stats" : {
-        "downloadCount" : 14,
-        "impressionCount" : 62
-      },
-      "subtitle" : "TCP and UDP debug tool",
-      "tintColor" : "5D702A",
-      "version" : "1.2.1"
     },
     {
       "beta" : false,
@@ -16154,7 +15994,7 @@
       },
       "subtitle" : "Free and open-source media player",
       "version" : "1.3.1",
-      "versionDate" : "2022-11-07T05:45:36Z"
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21700,6 +21540,21 @@
       },
       "subtitle" : "Connect to virtual machines using SPICE",
       "version" : "0.5.7-1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "standard-notes",
+      "downloadURL" : "https://github.com/standardnotes/app/releases/download/%40standardnotes%2Fdesktop%403.23.273/standard-notes-3.23.273-mac-x64.zip",
+      "homepage" : "https://standardnotes.org/",
+      "localizedDescription" : "Free, open-source, and completely encrypted notes app",
+      "name" : "Standard Notes",
+      "sha256" : "8203386574048d4930b0a1f5d1d6e37a2a904fe02d7fa6b011d1f690deb959a0",
+      "stats" : {
+        "downloadCount" : 161
+      },
+      "subtitle" : "Free, open-source, and completely encrypted notes app",
+      "version" : "3.23.273",
+      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28088,6 +27943,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "ssh-tunnel-manager",
+      "downloadURL" : "https://dl.devmate.com/org.tynsoe.sshtunnelmanager/227.006/1478083232/SSHTunnelManager-227.006.zip",
+      "homepage" : "https://tynsoe.org/stm/",
+      "localizedDescription" : "Application for managing SSH tunnels",
+      "name" : "SSH Tunnel Manager",
+      "sha256" : "11c8b7ca6f3a79b2cefdfc665a6cc6d5aaf2dac199e9380f44c3e1aea191c41a",
+      "stats" : {
+        "downloadCount" : 49
+      },
+      "subtitle" : "Application for managing SSH tunnels",
+      "version" : "227.006,1478083232"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "trunk-io",
       "downloadURL" : "https://trunk.io/releases/launcher/1.2.2/trunk",
       "homepage" : "https://trunk.io/",
@@ -30152,6 +30021,21 @@
       },
       "subtitle" : "Used to access context-specific actions when text is selected",
       "version" : "2022.5,3895"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "ssh-config-editor",
+      "downloadURL" : "https://hejki.org/download/ssheditor/SSHConfigEditor-96.dmg",
+      "homepage" : "https://www.hejki.org/ssheditor/",
+      "localizedDescription" : "Tool for managing the OpenSSH ssh client configuration file",
+      "name" : "SSH Config Editor",
+      "sha256" : "a91a0db47e5a858abe1788baea135d1e306f335bb295468066621cffd996a3bf",
+      "stats" : {
+        "downloadCount" : 36
+      },
+      "subtitle" : "Tool for managing the OpenSSH ssh client configuration file",
+      "version" : "2.5.1,96",
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37612,6 +37496,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "stack",
+      "downloadURL" : "https://mirror.transip.net/stack/software/osx/stack-2.10.1-20220504.dmg",
+      "homepage" : "https://www.transip.nl/stack",
+      "localizedDescription" : "Personal online hard drive to store, view and share files",
+      "name" : "STACK",
+      "sha256" : "da2c1db8f6f73b7635f78df26d5f4d150a710d18ad803ed1644f563c944009f4",
+      "stats" : {
+        "downloadCount" : 15
+      },
+      "subtitle" : "Personal online hard drive to store, view and share files",
+      "version" : "2.10.1-20220504"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "utterly",
       "categories" : [
 
@@ -38293,6 +38191,20 @@
       },
       "subtitle" : "Automatic bulk background removal",
       "version" : "1.4.6"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "ssokit",
+      "downloadURL" : "https://github.com/rangaofei/SSokit-qmake/releases/download/1.2.1/SSokit_1.2.1.dmg",
+      "homepage" : "https://github.com/rangaofei/SSokit-qmake",
+      "localizedDescription" : "TCP and UDP debug tool",
+      "name" : "SSokit",
+      "sha256" : "830006cbb59dc3529dfae91f30ee1b1362f9be5952a599e9083d5fcaed710e34",
+      "stats" : {
+        "downloadCount" : 14
+      },
+      "subtitle" : "TCP and UDP debug tool",
+      "version" : "1.2.1"
     },
     {
       "beta" : false,
@@ -40602,20 +40514,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "starcraft",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.battle.net/download/getInstallerForGame?os=MAC&version=LIVE&gameProgram=STARCRAFT",
-      "homepage" : "https://starcraft.com/",
-      "name" : "Starcraft",
-      "stats" : {
-        "downloadCount" : 10
-      },
-      "version" : "latest"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sparrow",
       "categories" : [
 
@@ -41564,6 +41462,17 @@
       },
       "subtitle" : "Screen saver for custom video files",
       "version" : "2.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "starcraft",
+      "downloadURL" : "https://www.battle.net/download/getInstallerForGame?os=MAC&version=LIVE&gameProgram=STARCRAFT",
+      "homepage" : "https://starcraft.com/",
+      "name" : "Starcraft",
+      "stats" : {
+        "downloadCount" : 10
+      },
+      "version" : "latest"
     },
     {
       "beta" : false,
@@ -44167,6 +44076,20 @@
       "subtitle" : "Oldschool sample-based music composition tool",
       "version" : "20221020",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "stack-stack",
+      "downloadURL" : "https://binaries.getstack.app/builds/prod/Stack-3.41.1.dmg",
+      "homepage" : "https://getstack.app/",
+      "localizedDescription" : "Workspace to manage all your productivity apps from one place",
+      "name" : "Stack",
+      "sha256" : "eaca3be87c4dc15eb7634a350d3d0da3ba814f08cc9950878248eeb4492efdf9",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "subtitle" : "Workspace to manage all your productivity apps from one place",
+      "version" : "3.41.1"
     },
     {
       "beta" : false,
@@ -49097,6 +49020,20 @@
         "downloadCount" : 5
       },
       "version" : "1.2.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "stand",
+      "downloadURL" : "https://f001.backblazeb2.com/file/stand-app/2.1.1/Stand.zip",
+      "homepage" : "https://getstandapp.com/",
+      "localizedDescription" : "Reminds you to stand up once an hour",
+      "name" : "Stand",
+      "sha256" : "5fce7d525ea7154d1df58b25d1902731f533a18656330593a7d3d2456fc1f314",
+      "stats" : {
+        "downloadCount" : 5
+      },
+      "subtitle" : "Reminds you to stand up once an hour",
+      "version" : "2.1.1"
     },
     {
       "beta" : false,
@@ -61851,6 +61788,18 @@
       },
       "subtitle" : "Binary for interaction with the Improbable SpatialOS platform",
       "version" : "latest"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "stack-exchange-notifier",
+      "downloadURL" : "https://hewgill.com/senotifier/stack-exchange-notifier-1.1.dmg",
+      "homepage" : "https://hewgill.com/senotifier/",
+      "name" : "Stack Exchange Notifier",
+      "sha256" : "849b543bc724e735e9a951721159b45a5284fde44c4cd8caa74c0e7eefb7e30c",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "version" : "1.1"
     },
     {
       "beta" : false,

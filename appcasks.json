@@ -389,7 +389,7 @@
       "sha256" : "550e3639c2eb59bf01b0555398dd80b7919f6b711ae3e6474424a2f8be8bcfbd",
       "stats" : {
         "downloadCount" : 2383,
-        "impressionCount" : 3766,
+        "impressionCount" : 3767,
         "viewCount" : 169
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -701,7 +701,7 @@
       "sha256" : "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
       "stats" : {
         "downloadCount" : 530,
-        "impressionCount" : 2122,
+        "impressionCount" : 2124,
         "viewCount" : 101
       },
       "subtitle" : "MySQL/MariaDB database management platform",
@@ -926,7 +926,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2233,
-        "impressionCount" : 1211
+        "impressionCount" : 1212
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -991,26 +991,6 @@
       "subtitle" : "Unpacks archive files",
       "tintColor" : "DABC92",
       "version" : "4.3.5,139,1652457131"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "rstudio",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://download1.rstudio.org/desktop/macos/RStudio-2022.07.2-576.dmg",
-      "homepage" : "https://www.rstudio.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rstudio/AppIcon.png",
-      "localizedDescription" : "Data science software focusing on R and Python",
-      "name" : "RStudio",
-      "sha256" : "35028d02d3f51d4599998c6d95816277acfce0dc63f80e09c3374218b83898de",
-      "stats" : {
-        "downloadCount" : 1478,
-        "impressionCount" : 859
-      },
-      "subtitle" : "Data science software focusing on R and Python",
-      "tintColor" : "80B1DE",
-      "version" : "2022.07.2,576"
     },
     {
       "beta" : false,
@@ -1418,26 +1398,6 @@
       "tintColor" : "48B0DA",
       "version" : "1.22.1-1",
       "versionDate" : "2022-11-06T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "rubymine",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://download.jetbrains.com/ruby/RubyMine-2022.2.3.dmg",
-      "homepage" : "https://www.jetbrains.com/ruby/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rubymine/AppIcon.png",
-      "localizedDescription" : "Ruby on Rails IDE",
-      "name" : "RubyMine",
-      "sha256" : "a04700159fcf3bfed74d196edc4c1150e5906dc4730d06ffd017b6bbb9bc853b",
-      "stats" : {
-        "downloadCount" : 348,
-        "impressionCount" : 745
-      },
-      "subtitle" : "Ruby on Rails IDE",
-      "tintColor" : "AA4B46",
-      "version" : "2022.2.3,222.4345.14"
     },
     {
       "beta" : false,
@@ -2368,46 +2328,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "runjs",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://github.com/lukehaas/RunJS/releases/download/v2.7.1/RunJS-2.7.1-universal.dmg",
-      "homepage" : "https://runjs.app/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runjs/AppIcon.png",
-      "localizedDescription" : "JavaScript playground that auto-evaluates as code is typed",
-      "name" : "RunJS",
-      "sha256" : "ce91d5b79eac088d7148373b6bb8f91100a4276a3e2160c122ef2cc510dcac6f",
-      "stats" : {
-        "downloadCount" : 96,
-        "impressionCount" : 596
-      },
-      "subtitle" : "JavaScript playground that auto-evaluates as code is typed",
-      "tintColor" : "E0CB1C",
-      "version" : "2.7.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "yandex",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://browser.yandex.ru/download/?os=mac&full=1",
-      "homepage" : "https://browser.yandex.ru/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yandex/AppIcon.png",
-      "localizedDescription" : "Web browser",
-      "name" : "Yandex.Browser",
-      "stats" : {
-        "downloadCount" : 94,
-        "impressionCount" : 510
-      },
-      "subtitle" : "Web browser",
-      "tintColor" : "EACCCC",
-      "version" : "22.9.5",
-      "versionDate" : "2022-10-31T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "time-out",
       "categories" : [
         "public.app-category.healthcare-fitness"
@@ -2617,7 +2537,7 @@
       "sha256" : "eb89ce8c455553f1504c8be12bbbbdf8af2e6dcbceb73455a1cc967aad6f61c0",
       "stats" : {
         "downloadCount" : 81,
-        "impressionCount" : 460
+        "impressionCount" : 461
       },
       "subtitle" : "Git client",
       "tintColor" : "DADAE7",
@@ -2820,31 +2740,11 @@
       "sha256" : "0b80bf62922291da391098f979683e69cc7b65c4bdb986a431e3f1d9175fba20",
       "stats" : {
         "downloadCount" : 74,
-        "impressionCount" : 437
+        "impressionCount" : 438
       },
       "subtitle" : "Simple shortcut menu",
       "tintColor" : "535353",
       "version" : "1.2.9"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "rsyncosx",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/rsyncOSX/RsyncOSX/releases/download/v6.7.4/RsyncOSX.6.7.4.dmg",
-      "homepage" : "https://github.com/rsyncOSX/RsyncOSX",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rsyncosx/AppIcon.png",
-      "localizedDescription" : "GUI for rsync",
-      "name" : "RsyncOSX",
-      "sha256" : "4291ad4b1ea22822ddb552e1d57c7599706f6f669057436c7f56f0dd8a74ebc7",
-      "stats" : {
-        "downloadCount" : 72,
-        "impressionCount" : 881
-      },
-      "subtitle" : "GUI for rsync",
-      "tintColor" : "F17F90",
-      "version" : "6.7.4"
     },
     {
       "beta" : false,
@@ -3053,6 +2953,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "selfcontrol",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://downloads.selfcontrolapp.com/SelfControl-4.0.2.zip",
+      "homepage" : "https://selfcontrolapp.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-selfcontrol/AppIcon.png",
+      "localizedDescription" : "Block your own access to distracting websites",
+      "name" : "SelfControl",
+      "sha256" : "15d8fd17839746c608d0c4e929b650d741e691ebee6f893320c783e86ac75926",
+      "stats" : {
+        "downloadCount" : 59,
+        "impressionCount" : 469
+      },
+      "subtitle" : "Block your own access to distracting websites",
+      "tintColor" : "838383",
+      "version" : "4.0.2"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "tweeten",
       "categories" : [
         "public.app-category.social-networking"
@@ -3127,7 +3047,7 @@
       "sha256" : "65be0f560c929e4ba747bb09778ea4ad6b104477d81c226459909905846df0c0",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 391
+        "impressionCount" : 392
       },
       "subtitle" : "Subversion client",
       "tintColor" : "D9DFE3",
@@ -3955,7 +3875,7 @@
       "sha256" : "d70c449026c9ba398770187c3843dd58e6380316ad2c2a57dc5f9cfe0cc5edac",
       "stats" : {
         "downloadCount" : 38,
-        "impressionCount" : 536
+        "impressionCount" : 537
       },
       "subtitle" : "Workstation to streamline your accounts, apps, and workflows",
       "tintColor" : "4B4D55",
@@ -4518,7 +4438,7 @@
       "sha256" : "ccd412fce497bb9b7822fc702c65792b5354711b6dfc1e028fb12cd7f202931f",
       "stats" : {
         "downloadCount" : 26,
-        "impressionCount" : 283
+        "impressionCount" : 284
       },
       "subtitle" : "Communicate and share information between devices",
       "tintColor" : "84A469",
@@ -4722,6 +4642,25 @@
       "tintColor" : "9271C5",
       "version" : "70.2.0",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "send-anywhere",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://update.send-anywhere.com/osx_downloads/Send%20Anywhere.dmg",
+      "homepage" : "https://send-anywhere.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-send-anywhere/AppIcon.png",
+      "localizedDescription" : "File sharing app",
+      "name" : "Send Anywhere",
+      "stats" : {
+        "downloadCount" : 25,
+        "impressionCount" : 267
+      },
+      "subtitle" : "File sharing app",
+      "tintColor" : "FB7A7C",
+      "version" : "21.4.2"
     },
     {
       "beta" : false,
@@ -5725,6 +5664,26 @@
       "subtitle" : "Disk And Memory Space Visualization App built with Electron & d3.js",
       "tintColor" : "A2D7E1",
       "version" : "5.1.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sengi",
+      "categories" : [
+        "public.app-category.social-networking"
+      ],
+      "downloadURL" : "https://github.com/NicolasConstant/sengi/releases/download/1.1.5/Sengi-1.1.5-mac.dmg",
+      "homepage" : "https://github.com/NicolasConstant/sengi",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sengi/AppIcon.png",
+      "localizedDescription" : "Mastodon and Pleroma desktop client",
+      "name" : "Sengi",
+      "sha256" : "753f92fd621ac142f2608d837598c0187918d66c45176430ed5a95d05acbc3d9",
+      "stats" : {
+        "downloadCount" : 16,
+        "impressionCount" : 532
+      },
+      "subtitle" : "Mastodon and Pleroma desktop client",
+      "tintColor" : "0EA8F3",
+      "version" : "1.1.5"
     },
     {
       "beta" : false,
@@ -8165,7 +8124,7 @@
       "sha256" : "f8017f28ffbceafce6c17fefbae24217547eb347d6b6a0596fab0bf6c1c71ed1",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 246
+        "impressionCount" : 247
       },
       "subtitle" : "Desktop client for Salesforce.com platform",
       "tintColor" : "A95E56",
@@ -9073,22 +9032,23 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "rubymotion",
+      "bundleIdentifier" : "semulov",
       "categories" : [
-        "public.app-category.developer-tools"
+        "public.app-category.utilities"
       ],
-      "downloadURL" : "http://www.rubymotion.com/files/RubyMotion%20Installer.zip",
-      "homepage" : "http://www.rubymotion.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rubymotion/AppIcon.png",
-      "localizedDescription" : "Write cross-platform native apps in Ruby",
-      "name" : "RubyMotion",
+      "downloadURL" : "https://github.com/kainjow/Semulov/releases/download/v2.6/Semulov.zip",
+      "homepage" : "https://github.com/kainjow/Semulov",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-semulov/AppIcon.png",
+      "localizedDescription" : "Access mounted and unmounted volumes from the menubar",
+      "name" : "Semulov",
+      "sha256" : "fc25b015251562df79c89143b2fb123fc793d780e3f1eb9990d6d5723c870dc6",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 128
+        "impressionCount" : 204
       },
-      "subtitle" : "Write cross-platform native apps in Ruby",
-      "tintColor" : "C1A6A7",
-      "version" : "latest"
+      "subtitle" : "Access mounted and unmounted volumes from the menubar",
+      "tintColor" : "7AC0E5",
+      "version" : "2.6"
     },
     {
       "beta" : false,
@@ -10123,7 +10083,7 @@
       "name" : "SessionRestore",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 439
+        "impressionCount" : 440
       },
       "subtitle" : "Helps to keep numerous Safari tabs open for reading them later",
       "tintColor" : "BDD9C8",
@@ -10148,24 +10108,6 @@
       "subtitle" : "Transfers songs, playlists, or videos from an iPod to a computer",
       "tintColor" : "454C80",
       "version" : "1.3.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "ryver",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://d3vkb1nw20iqfq.cloudfront.net/mac/Ryver-1.3.2.dmg",
-      "homepage" : "https://ryver.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ryver/AppIcon.png",
-      "name" : "Ryver",
-      "sha256" : "949abb92a3df5034fd8c81e1fe78a9c7bd7be2ad699bef9d423ad3a39cd48d54",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 133
-      },
-      "tintColor" : "0097D4",
-      "version" : "1.3.2"
     },
     {
       "beta" : false,
@@ -10747,7 +10689,7 @@
       "name" : "Sococo",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 197
+        "impressionCount" : 198
       },
       "tintColor" : "728A96",
       "version" : "6.12.1"
@@ -12235,26 +12177,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "runelite",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/runelite/launcher/releases/download/2.5.0/RuneLite-x64.dmg",
-      "homepage" : "https://runelite.net/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runelite/AppIcon.png",
-      "localizedDescription" : "Client for Old School RuneScape",
-      "name" : "RuneLite",
-      "sha256" : "d7a22fea82fafd9d8cfabe53591d0ca83bf08d505a33d9348bffcbfab81695ad",
-      "stats" : {
-        "downloadCount" : 46,
-        "impressionCount" : 105
-      },
-      "subtitle" : "Client for Old School RuneScape",
-      "tintColor" : "353535",
-      "version" : "2.5.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tikzit",
       "categories" : [
 
@@ -12550,6 +12472,26 @@
       "subtitle" : "Scientific editing platform",
       "tintColor" : "554F4B",
       "version" : "2.1.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sejda-pdf",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://sejda-cdn.com/downloads/sejda-desktop_7.5.4.dmg",
+      "homepage" : "https://www.sejda.com/desktop",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sejda-pdf/AppIcon.png",
+      "localizedDescription" : "PDF editor",
+      "name" : "Sejda PDF Desktop",
+      "sha256" : "285b5ea4c099543e0cb7732380d985a30a040eeea80e5f9426fea3c3c81058f3",
+      "stats" : {
+        "downloadCount" : 32,
+        "impressionCount" : 136
+      },
+      "subtitle" : "PDF editor",
+      "tintColor" : "4BAE87",
+      "version" : "7.5.4"
     },
     {
       "beta" : false,
@@ -13249,23 +13191,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "runescape",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://content.runescape.com/downloads/osx/RuneScape.dmg",
-      "homepage" : "https://www.runescape.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runescape/AppIcon.png",
-      "name" : "RuneScape",
-      "stats" : {
-        "downloadCount" : 17,
-        "impressionCount" : 54
-      },
-      "tintColor" : "82878B",
-      "version" : "1.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "visualboyadvance-m",
       "categories" : [
 
@@ -13479,6 +13404,26 @@
       "subtitle" : "Qt-based digital signal analyzer",
       "tintColor" : "142733",
       "version" : "0.3.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sencha",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://trials.sencha.com/cmd/7.6.0/SenchaCmd-7.6.0.87-osx.app.zip",
+      "homepage" : "https://www.sencha.com/products/sencha-cmd/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sencha/AppIcon.png",
+      "localizedDescription" : "Productivity and performance optimization tool for Sencha Ext JS",
+      "name" : "Sencha Cmd",
+      "sha256" : "66a22a3fc9855a0a270640eb4b113a3826ec0f77f34b87732d4b8376a536addf",
+      "stats" : {
+        "downloadCount" : 15,
+        "impressionCount" : 83
+      },
+      "subtitle" : "Productivity and performance optimization tool for Sencha Ext JS",
+      "tintColor" : "42747B",
+      "version" : "7.6.0.87"
     },
     {
       "beta" : false,
@@ -13904,24 +13849,6 @@
       },
       "tintColor" : "B8A49F",
       "version" : "2.0.6,62"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "rssowl",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/rssowl/RSSOwl/releases/download/2.2.1/RSSOwl.2.2.1.dmg",
-      "homepage" : "https://www.rssowl.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-rssowl/AppIcon.png",
-      "name" : "RSSOwl",
-      "sha256" : "9a94beac7951937b6684aeabea323993860c43f8adbe959bb7a109dc22f0598c",
-      "stats" : {
-        "downloadCount" : 9,
-        "impressionCount" : 68
-      },
-      "tintColor" : "905B3D",
-      "version" : "2.2.1"
     },
     {
       "beta" : false,
@@ -14611,26 +14538,6 @@
       },
       "tintColor" : "404040",
       "version" : "2.4.4i"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "runway",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://runway-releases.s3.amazonaws.com/Runway-0.19.2.dmg",
-      "homepage" : "https://runwayml.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runway/AppIcon.png",
-      "localizedDescription" : "Creative toolkit powered by machine learning",
-      "name" : "Runway",
-      "sha256" : "25ef6c07a8c0c3832a35d414cfc11ee12f45a8f7c159dcc45129e1514041c474",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 89
-      },
-      "subtitle" : "Creative toolkit powered by machine learning",
-      "tintColor" : "2C443B",
-      "version" : "0.19.2"
     },
     {
       "beta" : false,
@@ -16750,6 +16657,20 @@
       },
       "subtitle" : "Utilities designed to make common development tasks easier",
       "version" : "0.0.11"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "rstudio",
+      "downloadURL" : "https://download1.rstudio.org/desktop/macos/RStudio-2022.07.2-576.dmg",
+      "homepage" : "https://www.rstudio.com/",
+      "localizedDescription" : "Data science software focusing on R and Python",
+      "name" : "RStudio",
+      "sha256" : "35028d02d3f51d4599998c6d95816277acfce0dc63f80e09c3374218b83898de",
+      "stats" : {
+        "downloadCount" : 1476
+      },
+      "subtitle" : "Data science software focusing on R and Python",
+      "version" : "2022.07.2,576"
     },
     {
       "beta" : false,
@@ -19473,6 +19394,20 @@
       "subtitle" : "Tool that provides consistent, highly configurable symbols for apps",
       "version" : "4",
       "versionDate" : "2022-11-01T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "rubymine",
+      "downloadURL" : "https://download.jetbrains.com/ruby/RubyMine-2022.2.3.dmg",
+      "homepage" : "https://www.jetbrains.com/ruby/",
+      "localizedDescription" : "Ruby on Rails IDE",
+      "name" : "RubyMine",
+      "sha256" : "a04700159fcf3bfed74d196edc4c1150e5906dc4730d06ffd017b6bbb9bc853b",
+      "stats" : {
+        "downloadCount" : 348
+      },
+      "subtitle" : "Ruby on Rails IDE",
+      "version" : "2022.2.3,222.4345.14"
     },
     {
       "beta" : false,
@@ -23331,7 +23266,8 @@
         "downloadCount" : 117
       },
       "subtitle" : "Chinese music streaming application",
-      "version" : "8.4.0,72521"
+      "version" : "8.5.0,72721",
+      "versionDate" : "2022-11-07T09:37:12Z"
     },
     {
       "beta" : false,
@@ -24386,6 +24322,22 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "send-to-kindle",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://sendtokindle.s3.amazonaws.com/SendToKindleForMac-installer.pkg",
+      "homepage" : "https://www.amazon.com/gp/sendtokindle/mac",
+      "localizedDescription" : "Tool for sending personal documents to Kindles from Macs",
+      "name" : "Send to Kindle",
+      "stats" : {
+        "downloadCount" : 96
+      },
+      "subtitle" : "Tool for sending personal documents to Kindles from Macs",
+      "version" : "1.1.1.253"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "kitematic",
       "downloadURL" : "https://github.com/docker/kitematic/releases/download/v0.17.13/Kitematic-0.17.13-Mac.zip",
       "homepage" : "https://kitematic.com/",
@@ -24400,16 +24352,17 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "send-to-kindle",
-      "downloadURL" : "https://sendtokindle.s3.amazonaws.com/SendToKindleForMac-installer.pkg",
-      "homepage" : "https://www.amazon.com/gp/sendtokindle/mac",
-      "localizedDescription" : "Tool for sending personal documents to Kindles from Macs",
-      "name" : "Send to Kindle",
+      "bundleIdentifier" : "runjs",
+      "downloadURL" : "https://github.com/lukehaas/RunJS/releases/download/v2.7.1/RunJS-2.7.1-universal.dmg",
+      "homepage" : "https://runjs.app/",
+      "localizedDescription" : "JavaScript playground that auto-evaluates as code is typed",
+      "name" : "RunJS",
+      "sha256" : "ce91d5b79eac088d7148373b6bb8f91100a4276a3e2160c122ef2cc510dcac6f",
       "stats" : {
         "downloadCount" : 96
       },
-      "subtitle" : "Tool for sending personal documents to Kindles from Macs",
-      "version" : "1.1.1.253"
+      "subtitle" : "JavaScript playground that auto-evaluates as code is typed",
+      "version" : "2.7.1"
     },
     {
       "beta" : false,
@@ -24528,6 +24481,20 @@
       "subtitle" : "View, Screen Share, organize, import, and download files to a reMarkable device",
       "version" : "3.0.1.659,43188224,Dev",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "yandex",
+      "downloadURL" : "https://browser.yandex.ru/download/?os=mac&full=1",
+      "homepage" : "https://browser.yandex.ru/",
+      "localizedDescription" : "Web browser",
+      "name" : "Yandex.Browser",
+      "stats" : {
+        "downloadCount" : 94
+      },
+      "subtitle" : "Web browser",
+      "version" : "22.9.5",
+      "versionDate" : "2022-10-31T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25991,6 +25958,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "rsyncosx",
+      "downloadURL" : "https://github.com/rsyncOSX/RsyncOSX/releases/download/v6.7.4/RsyncOSX.6.7.4.dmg",
+      "homepage" : "https://github.com/rsyncOSX/RsyncOSX",
+      "localizedDescription" : "GUI for rsync",
+      "name" : "RsyncOSX",
+      "sha256" : "4291ad4b1ea22822ddb552e1d57c7599706f6f669057436c7f56f0dd8a74ebc7",
+      "stats" : {
+        "downloadCount" : 68
+      },
+      "subtitle" : "GUI for rsync",
+      "version" : "6.7.4"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sonixd",
       "downloadURL" : "https://github.com/jeffvli/sonixd/releases/download/v0.15.3/Sonixd-0.15.3-mac-x64.dmg",
       "homepage" : "https://github.com/jeffvli/sonixd",
@@ -26907,20 +26888,6 @@
       },
       "subtitle" : "Astronomical data visualisation tool",
       "version" : "8.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "selfcontrol",
-      "downloadURL" : "https://downloads.selfcontrolapp.com/SelfControl-4.0.2.zip",
-      "homepage" : "https://selfcontrolapp.com/",
-      "localizedDescription" : "Block your own access to distracting websites",
-      "name" : "SelfControl",
-      "sha256" : "15d8fd17839746c608d0c4e929b650d741e691ebee6f893320c783e86ac75926",
-      "stats" : {
-        "downloadCount" : 59
-      },
-      "subtitle" : "Block your own access to distracting websites",
-      "version" : "4.0.2"
     },
     {
       "beta" : false,
@@ -28460,6 +28427,20 @@
       "subtitle" : "Email client focusing on privacy protection",
       "version" : "7.0.59",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "runelite",
+      "downloadURL" : "https://github.com/runelite/launcher/releases/download/2.5.0/RuneLite-x64.dmg",
+      "homepage" : "https://runelite.net/",
+      "localizedDescription" : "Client for Old School RuneScape",
+      "name" : "RuneLite",
+      "sha256" : "d7a22fea82fafd9d8cfabe53591d0ca83bf08d505a33d9348bffcbfab81695ad",
+      "stats" : {
+        "downloadCount" : 46
+      },
+      "subtitle" : "Client for Old School RuneScape",
+      "version" : "2.5.0"
     },
     {
       "beta" : false,
@@ -30847,20 +30828,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "yandex-cloud-cli",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://storage.yandexcloud.net/yandexcloud-yc/install.sh",
-      "homepage" : "https://cloud.yandex.com/docs/cli/",
-      "name" : "Yandex Cloud CLI",
-      "stats" : {
-        "downloadCount" : 32
-      },
-      "version" : "latest"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "appzapper",
       "downloadURL" : "https://appzapper.com/downloads/appzapper203.zip",
       "homepage" : "https://www.appzapper.com/",
@@ -31072,17 +31039,14 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sejda-pdf",
-      "downloadURL" : "https://sejda-cdn.com/downloads/sejda-desktop_7.5.4.dmg",
-      "homepage" : "https://www.sejda.com/desktop",
-      "localizedDescription" : "PDF editor",
-      "name" : "Sejda PDF Desktop",
-      "sha256" : "285b5ea4c099543e0cb7732380d985a30a040eeea80e5f9426fea3c3c81058f3",
+      "bundleIdentifier" : "yandex-cloud-cli",
+      "downloadURL" : "https://storage.yandexcloud.net/yandexcloud-yc/install.sh",
+      "homepage" : "https://cloud.yandex.com/docs/cli/",
+      "name" : "Yandex Cloud CLI",
       "stats" : {
         "downloadCount" : 32
       },
-      "subtitle" : "PDF editor",
-      "version" : "7.5.4"
+      "version" : "latest"
     },
     {
       "beta" : false,
@@ -33127,19 +33091,6 @@
         "downloadCount" : 25
       },
       "version" : "0.10.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "send-anywhere",
-      "downloadURL" : "https://update.send-anywhere.com/osx_downloads/Send%20Anywhere.dmg",
-      "homepage" : "https://send-anywhere.com/",
-      "localizedDescription" : "File sharing app",
-      "name" : "Send Anywhere",
-      "stats" : {
-        "downloadCount" : 25
-      },
-      "subtitle" : "File sharing app",
-      "version" : "21.4.2"
     },
     {
       "beta" : false,
@@ -36493,6 +36444,17 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "runescape",
+      "downloadURL" : "https://content.runescape.com/downloads/osx/RuneScape.dmg",
+      "homepage" : "https://www.runescape.com/",
+      "name" : "RuneScape",
+      "stats" : {
+        "downloadCount" : 17
+      },
+      "version" : "1.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "scap-workbench",
       "downloadURL" : "https://github.com/OpenSCAP/scap-workbench/releases/download/1.2.1/scap-workbench-1.2.1.dmg",
       "homepage" : "https://www.open-scap.org/tools/scap-workbench/",
@@ -37639,34 +37601,6 @@
       },
       "subtitle" : "XML editor",
       "version" : "0.9.16"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sencha",
-      "downloadURL" : "https://trials.sencha.com/cmd/7.6.0/SenchaCmd-7.6.0.87-osx.app.zip",
-      "homepage" : "https://www.sencha.com/products/sencha-cmd/",
-      "localizedDescription" : "Productivity and performance optimization tool for Sencha Ext JS",
-      "name" : "Sencha Cmd",
-      "sha256" : "66a22a3fc9855a0a270640eb4b113a3826ec0f77f34b87732d4b8376a536addf",
-      "stats" : {
-        "downloadCount" : 15
-      },
-      "subtitle" : "Productivity and performance optimization tool for Sencha Ext JS",
-      "version" : "7.6.0.87"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sengi",
-      "downloadURL" : "https://github.com/NicolasConstant/sengi/releases/download/1.1.5/Sengi-1.1.5-mac.dmg",
-      "homepage" : "https://github.com/NicolasConstant/sengi",
-      "localizedDescription" : "Mastodon and Pleroma desktop client",
-      "name" : "Sengi",
-      "sha256" : "753f92fd621ac142f2608d837598c0187918d66c45176430ed5a95d05acbc3d9",
-      "stats" : {
-        "downloadCount" : 15
-      },
-      "subtitle" : "Mastodon and Pleroma desktop client",
-      "version" : "1.1.5"
     },
     {
       "beta" : false,
@@ -38940,6 +38874,23 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "semeru-jdk-open",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/ibmruntimes/semeru18-binaries/releases/download/jdk-18.0.2+9_openj9-0.33.1/ibm-semeru-open-jdk_x64_mac_18.0.2_9_openj9-0.33.1.pkg",
+      "homepage" : "https://developer.ibm.com/languages/java/semeru-runtimes",
+      "localizedDescription" : "Production-ready JDK with the OpenJDK class libraries and the Eclipse OpenJ9 JVM",
+      "name" : "IBM Semeru Runtime (JDK) Open Edition",
+      "sha256" : "9cc0bd4f66b68631ff43fed90fd05867bf3c69ab3d78daa6de3f77f6d6f99645",
+      "stats" : {
+        "downloadCount" : 12
+      },
+      "subtitle" : "Production-ready JDK with the OpenJDK class libraries and the Eclipse OpenJ9 JVM",
+      "version" : "18.0.2+9,openj9-0.33.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "abstract",
       "downloadURL" : "https://downloads.goabstract.com/mac/Abstract-98.2.3.zip",
       "homepage" : "https://www.goabstract.com/",
@@ -39705,20 +39656,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "semeru-jdk-open",
-      "downloadURL" : "https://github.com/ibmruntimes/semeru18-binaries/releases/download/jdk-18.0.2+9_openj9-0.33.1/ibm-semeru-open-jdk_x64_mac_18.0.2_9_openj9-0.33.1.pkg",
-      "homepage" : "https://developer.ibm.com/languages/java/semeru-runtimes",
-      "localizedDescription" : "Production-ready JDK with the OpenJDK class libraries and the Eclipse OpenJ9 JVM",
-      "name" : "IBM Semeru Runtime (JDK) Open Edition",
-      "sha256" : "9cc0bd4f66b68631ff43fed90fd05867bf3c69ab3d78daa6de3f77f6d6f99645",
-      "stats" : {
-        "downloadCount" : 12
-      },
-      "subtitle" : "Production-ready JDK with the OpenJDK class libraries and the Eclipse OpenJ9 JVM",
-      "version" : "18.0.2+9,openj9-0.33.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "topaz-sharpen-ai",
       "downloadURL" : "https://downloads.topazlabs.com/deploy/TopazSharpenAI/4.1.0/TopazSharpenAI-4.1.0-osx-Full-Installer.dmg",
       "homepage" : "https://www.topazlabs.com/sharpen-ai",
@@ -40206,16 +40143,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "lunasea",
-      "downloadURL" : "https://github.com/JagandeepBrar/LunaSea/releases/download/v10.2.0/lunasea-macos-amd64.zip",
+      "downloadURL" : "https://github.com/JagandeepBrar/LunaSea/releases/download/v10.2.1/lunasea-macos-amd64.zip",
       "homepage" : "https://www.lunasea.app/",
       "localizedDescription" : "Self-hosted controller built using the Flutter framework",
       "name" : "LunaSea",
-      "sha256" : "c0bccd61d8fa77169b4a1cef0198d912a8406ece54559ff4c508749d36a98e41",
+      "sha256" : "2b73eb5e68e8a3888b572dc98a6812e7b40ff8e36c9284fb8703b08f2378e0ce",
       "stats" : {
         "downloadCount" : 11
       },
       "subtitle" : "Self-hosted controller built using the Flutter framework",
-      "version" : "10.2.0"
+      "version" : "10.2.1",
+      "versionDate" : "2022-11-07T09:37:12Z"
     },
     {
       "beta" : false,
@@ -40703,6 +40641,21 @@
       },
       "subtitle" : "High-quality network audio streaming",
       "version" : "1.5.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sekey",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/sekey/sekey/releases/download/0.1/SeKey-0.1.pkg",
+      "homepage" : "https://github.com/sekey/sekey/",
+      "name" : "SeKey",
+      "sha256" : "8d473f7214ba76b70ca30905e2ebd07d7c421f1cff320285bd8ec8d2a7a5b083",
+      "stats" : {
+        "downloadCount" : 10
+      },
+      "version" : "0.1"
     },
     {
       "beta" : false,
@@ -41604,18 +41557,6 @@
       },
       "subtitle" : "Screen saver for custom video files",
       "version" : "2.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sekey",
-      "downloadURL" : "https://github.com/sekey/sekey/releases/download/0.1/SeKey-0.1.pkg",
-      "homepage" : "https://github.com/sekey/sekey/",
-      "name" : "SeKey",
-      "sha256" : "8d473f7214ba76b70ca30905e2ebd07d7c421f1cff320285bd8ec8d2a7a5b083",
-      "stats" : {
-        "downloadCount" : 10
-      },
-      "version" : "0.1"
     },
     {
       "beta" : false,
@@ -42940,6 +42881,18 @@
       },
       "subtitle" : "Changes the way the full screen button acts",
       "version" : "3.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "rssowl",
+      "downloadURL" : "https://github.com/rssowl/RSSOwl/releases/download/2.2.1/RSSOwl.2.2.1.dmg",
+      "homepage" : "https://www.rssowl.org/",
+      "name" : "RSSOwl",
+      "sha256" : "9a94beac7951937b6684aeabea323993860c43f8adbe959bb7a109dc22f0598c",
+      "stats" : {
+        "downloadCount" : 9
+      },
+      "version" : "2.2.1"
     },
     {
       "beta" : false,
@@ -47541,6 +47494,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "segger-embedded-studio-for-arm",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://www.segger.com/downloads/embedded-studio/Setup_EmbeddedStudio_ARM_v640_macos_x64.dmg",
+      "homepage" : "https://www.segger.com/products/development-tools/embedded-studio",
+      "localizedDescription" : "IDE for embedded systems",
+      "name" : "SEGGER Embedded Studio for ARM",
+      "sha256" : "eb649172fd0119b8d331afff89e2e7cd6036876fea5913ac6f04fcaf129c0fe4",
+      "stats" : {
+        "downloadCount" : 5
+      },
+      "subtitle" : "IDE for embedded systems",
+      "version" : "6.40",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "adze",
       "downloadURL" : "https://getadze.com/static/main/releases/Adze.zip",
       "homepage" : "https://getadze.com/",
@@ -49119,21 +49090,6 @@
         "downloadCount" : 5
       },
       "version" : "1.2.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "segger-embedded-studio-for-arm",
-      "downloadURL" : "https://www.segger.com/downloads/embedded-studio/Setup_EmbeddedStudio_ARM_v640_macos_x64.dmg",
-      "homepage" : "https://www.segger.com/products/development-tools/embedded-studio",
-      "localizedDescription" : "IDE for embedded systems",
-      "name" : "SEGGER Embedded Studio for ARM",
-      "sha256" : "eb649172fd0119b8d331afff89e2e7cd6036876fea5913ac6f04fcaf129c0fe4",
-      "stats" : {
-        "downloadCount" : 5
-      },
-      "subtitle" : "IDE for embedded systems",
-      "version" : "6.40",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51351,6 +51307,20 @@
       },
       "subtitle" : "GPS tool to display, edit, enrich and convert routes, tracks and waypoints",
       "version" : "2.32.345"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "runway",
+      "downloadURL" : "https://runway-releases.s3.amazonaws.com/Runway-0.19.2.dmg",
+      "homepage" : "https://runwayml.com/",
+      "localizedDescription" : "Creative toolkit powered by machine learning",
+      "name" : "Runway",
+      "sha256" : "25ef6c07a8c0c3832a35d414cfc11ee12f45a8f7c159dcc45129e1514041c474",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Creative toolkit powered by machine learning",
+      "version" : "0.19.2"
     },
     {
       "beta" : false,
@@ -54042,6 +54012,19 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "rubymotion",
+      "downloadURL" : "http://www.rubymotion.com/files/RubyMotion%20Installer.zip",
+      "homepage" : "http://www.rubymotion.com/",
+      "localizedDescription" : "Write cross-platform native apps in Ruby",
+      "name" : "RubyMotion",
+      "stats" : {
+        "downloadCount" : 3
+      },
+      "subtitle" : "Write cross-platform native apps in Ruby",
+      "version" : "latest"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "scrapp",
       "downloadURL" : "https://scrap.blob.core.windows.net/download/1.6/Scrapp.zip",
       "homepage" : "https://scrapp.me/",
@@ -54053,20 +54036,6 @@
       },
       "subtitle" : "Screenshot tool with cloud storage",
       "version" : "1.6"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "semulov",
-      "downloadURL" : "https://github.com/kainjow/Semulov/releases/download/v2.6/Semulov.zip",
-      "homepage" : "https://github.com/kainjow/Semulov",
-      "localizedDescription" : "Access mounted and unmounted volumes from the menubar",
-      "name" : "Semulov",
-      "sha256" : "fc25b015251562df79c89143b2fb123fc793d780e3f1eb9990d6d5723c870dc6",
-      "stats" : {
-        "downloadCount" : 3
-      },
-      "subtitle" : "Access mounted and unmounted volumes from the menubar",
-      "version" : "2.6"
     },
     {
       "beta" : false,
@@ -59619,6 +59588,18 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "ryver",
+      "downloadURL" : "https://d3vkb1nw20iqfq.cloudfront.net/mac/Ryver-1.3.2.dmg",
+      "homepage" : "https://ryver.com/",
+      "name" : "Ryver",
+      "sha256" : "949abb92a3df5034fd8c81e1fe78a9c7bd7be2ad699bef9d423ad3a39cd48d54",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "version" : "1.3.2"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "scatter",
       "downloadURL" : "https://github.com/GetScatter/ScatterDesktop/releases/download/12.1.1/mac-scatter-12.1.1.dmg",
       "homepage" : "https://get-scatter.com/",
@@ -62133,20 +62114,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "sabnzbd",
-      "caption" : "SABnzbd updated from 3.6.1 to 3.7.0",
-      "date" : "2022-11-04T20:36:29Z",
-      "identifier" : "release-sabnzbd-3.7.0",
-      "title" : "New Release: SABnzbd 3.7.0"
-    },
-    {
-      "appID" : "popsql",
-      "caption" : "PopSQL updated from 1.0.85 to 1.0.87",
-      "date" : "2022-11-04T20:36:29Z",
-      "identifier" : "release-popsql-1.0.87",
-      "title" : "New Release: PopSQL 1.0.87"
-    },
-    {
       "appID" : "freedom",
       "caption" : "Freedom updated from 2.12.2,2058.1 to 2.12.3,2063.1",
       "date" : "2022-11-04T20:36:29Z",
@@ -62831,6 +62798,20 @@
       "date" : "2022-11-07T05:45:37Z",
       "identifier" : "release-iina-1.3.1",
       "title" : "New Release: IINA 1.3.1"
+    },
+    {
+      "appID" : "qqmusic",
+      "caption" : "QQ音乐 updated from 8.4.0,72521 to 8.5.0,72721",
+      "date" : "2022-11-07T09:37:13Z",
+      "identifier" : "release-qqmusic-8.5.0,72721",
+      "title" : "New Release: QQ音乐 8.5.0,72721"
+    },
+    {
+      "appID" : "lunasea",
+      "caption" : "LunaSea updated from 10.2.0 to 10.2.1",
+      "date" : "2022-11-07T09:37:13Z",
+      "identifier" : "release-lunasea-10.2.1",
+      "title" : "New Release: LunaSea 10.2.1"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

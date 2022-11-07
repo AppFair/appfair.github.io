@@ -1640,27 +1640,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "ticktick",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.3.10_238.dmg",
-      "homepage" : "https://www.ticktick.com/home",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ticktick/AppIcon.png",
-      "localizedDescription" : "To-do & task list manager",
-      "name" : "TickTick",
-      "sha256" : "03f769576fcf575eb6f96fb645a22e399c2daff9ff4d60b3126453a884f8b2a8",
-      "stats" : {
-        "downloadCount" : 212,
-        "impressionCount" : 859
-      },
-      "subtitle" : "To-do & task list manager",
-      "tintColor" : "E8E9F0",
-      "version" : "4.3.10,238",
-      "versionDate" : "2022-10-31T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "via",
       "categories" : [
         "public.app-category.developer-tools"
@@ -1699,26 +1678,6 @@
       },
       "subtitle" : "Native app email client for Gmail",
       "version" : "0.39.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tidal",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://download.tidal.com/desktop/mac/TIDAL.x64.2.33.2.zip",
-      "homepage" : "https://tidal.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tidal/AppIcon.png",
-      "localizedDescription" : "Music streaming service with high fidelity sound and hi-def video quality",
-      "name" : "TIDAL",
-      "sha256" : "0855257b2bc4e1d341503eefd87c3190abc5e0294d11bf9cd5fa9171e64bbf9e",
-      "stats" : {
-        "downloadCount" : 187,
-        "impressionCount" : 928
-      },
-      "subtitle" : "Music streaming service with high fidelity sound and hi-def video quality",
-      "tintColor" : "3B3B3D",
-      "version" : "2.33.2"
     },
     {
       "beta" : false,
@@ -6618,26 +6577,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "tidgi",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.7.9/TidGi-darwin-x64-0.7.9.zip",
-      "homepage" : "https://github.com/tiddly-gittly/TidGi-Desktop",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tidgi/AppIcon.png",
-      "localizedDescription" : "Personal knowledge-base app",
-      "name" : "TidGi",
-      "sha256" : "e8830775123faf50077ab07ed1e37c515e732366192ca7faeabf70d2f1851514",
-      "stats" : {
-        "downloadCount" : 9,
-        "impressionCount" : 426
-      },
-      "subtitle" : "Personal knowledge-base app",
-      "tintColor" : "D0D9F3",
-      "version" : "0.7.9"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "storyboarder",
       "categories" : [
         "public.app-category.graphics-design"
@@ -7102,24 +7041,6 @@
       "subtitle" : "Use Touch Bar to switch apps",
       "tintColor" : "353535",
       "version" : "1.4.4,152"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tiddly",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://github.com/Jermolene/TiddlyDesktop/releases/download/v0.0.14/tiddlydesktop-mac64-v0.0.14.zip",
-      "homepage" : "https://github.com/Jermolene/TiddlyDesktop",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tiddly/AppIcon.png",
-      "name" : "TiddlyWiki",
-      "sha256" : "5b311671ae872e34bc96b4ac96d69ce96b9910e38af9d4722cf01f192ab5e6b2",
-      "stats" : {
-        "downloadCount" : 7,
-        "impressionCount" : 253
-      },
-      "tintColor" : "938A0F",
-      "version" : "0.0.14"
     },
     {
       "beta" : false,
@@ -8325,27 +8246,6 @@
       "subtitle" : "Improved clock for the menu bar",
       "tintColor" : "1F9BF3",
       "version" : "1.0.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tiger-trade",
-      "categories" : [
-        "public.app-category.finance"
-      ],
-      "downloadURL" : "https://s.tigerfintech.com/desktop/cdn/f/TigerTrade_8.0.2_9C95FD.dmg",
-      "homepage" : "https://www.tigerbrokers.com.sg/download/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tiger-trade/AppIcon.png",
-      "localizedDescription" : "Trading platform",
-      "name" : "Tiger Trade",
-      "sha256" : "ea353a8851f7259eadc5e825336c7f85adebfd7c4851f5c851f729ed304c72f3",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 553
-      },
-      "subtitle" : "Trading platform",
-      "tintColor" : "C3AB00",
-      "version" : "8.0.2,9C95FD",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9790,25 +9690,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "tigerjython",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.tjgroup.ch/download/TigerJython.dmg",
-      "homepage" : "https://www.tjgroup.ch/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tigerjython/AppIcon.png",
-      "localizedDescription" : "Jython-based educational programming environment",
-      "name" : "TigerJython",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 88
-      },
-      "subtitle" : "Jython-based educational programming environment",
-      "tintColor" : "875A3E",
-      "version" : "latest"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "teambition",
       "categories" : [
         "public.app-category.developer-tools"
@@ -11016,26 +10897,6 @@
       "subtitle" : "Tool to install Linux/BSD distributions to a partition or USB drive",
       "tintColor" : "909191",
       "version" : "702"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tigervnc-viewer",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://downloads.sourceforge.net/tigervnc/TigerVNC-1.12.0.dmg",
-      "homepage" : "https://tigervnc.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tigervnc-viewer/AppIcon.png",
-      "localizedDescription" : "Multi-platform VNC client and server",
-      "name" : "TigerVNC",
-      "sha256" : "bca5b2eec9d0b14d115e7cfe3999bfad58ba8437505d43c3ccf9f078b68f7932",
-      "stats" : {
-        "downloadCount" : 341,
-        "impressionCount" : 57
-      },
-      "subtitle" : "Multi-platform VNC client and server",
-      "tintColor" : "956642",
-      "version" : "1.12.0"
     },
     {
       "beta" : false,
@@ -13953,26 +13814,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "thyme",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/joaomoreno/thyme/releases/download/0.5.1/Thyme.0.5.1.dmg",
-      "homepage" : "https://joaomoreno.github.io/thyme/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thyme/AppIcon.png",
-      "localizedDescription" : "Task timer",
-      "name" : "Thyme",
-      "sha256" : "9757fff3198d379d3fc1d6231669d1eea6e0d1ba7aa2b876782998415d050ae2",
-      "stats" : {
-        "downloadCount" : 8,
-        "impressionCount" : 67
-      },
-      "subtitle" : "Task timer",
-      "tintColor" : "000000",
-      "version" : "0.5.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "thebrain",
       "categories" : [
 
@@ -13990,6 +13831,26 @@
       "subtitle" : "Mind mapping and personal knowledge base software",
       "tintColor" : "B4C6E1",
       "version" : "12.0.93.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "thyme",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/joaomoreno/thyme/releases/download/0.5.1/Thyme.0.5.1.dmg",
+      "homepage" : "https://joaomoreno.github.io/thyme/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-thyme/AppIcon.png",
+      "localizedDescription" : "Task timer",
+      "name" : "Thyme",
+      "sha256" : "9757fff3198d379d3fc1d6231669d1eea6e0d1ba7aa2b876782998415d050ae2",
+      "stats" : {
+        "downloadCount" : 8,
+        "impressionCount" : 67
+      },
+      "subtitle" : "Task timer",
+      "tintColor" : "000000",
+      "version" : "0.5.1"
     },
     {
       "beta" : false,
@@ -19472,6 +19333,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "tigervnc-viewer",
+      "downloadURL" : "https://downloads.sourceforge.net/tigervnc/TigerVNC-1.12.0.dmg",
+      "homepage" : "https://tigervnc.org/",
+      "localizedDescription" : "Multi-platform VNC client and server",
+      "name" : "TigerVNC",
+      "sha256" : "bca5b2eec9d0b14d115e7cfe3999bfad58ba8437505d43c3ccf9f078b68f7932",
+      "stats" : {
+        "downloadCount" : 341
+      },
+      "subtitle" : "Multi-platform VNC client and server",
+      "version" : "1.12.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "hex-fiend",
       "downloadURL" : "https://github.com/ridiculousfish/HexFiend/releases/download/v2.16.0/Hex_Fiend_2.16.dmg",
       "homepage" : "https://ridiculousfish.com/hexfiend/",
@@ -20717,6 +20592,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "ticktick",
+      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.3.10_238.dmg",
+      "homepage" : "https://www.ticktick.com/home",
+      "localizedDescription" : "To-do & task list manager",
+      "name" : "TickTick",
+      "sha256" : "03f769576fcf575eb6f96fb645a22e399c2daff9ff4d60b3126453a884f8b2a8",
+      "stats" : {
+        "downloadCount" : 211
+      },
+      "subtitle" : "To-do & task list manager",
+      "version" : "4.3.10,238",
+      "versionDate" : "2022-10-31T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "michaelvillar-timer",
       "downloadURL" : "https://github.com/michaelvillar/timer-app/releases/download/1.6.0/Timer.app.zip",
       "homepage" : "https://github.com/michaelvillar/timer-app",
@@ -21188,6 +21078,20 @@
       },
       "subtitle" : "Remote management solution",
       "version" : "5.1.2.1000"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tidal",
+      "downloadURL" : "https://download.tidal.com/desktop/mac/TIDAL.x64.2.33.2.zip",
+      "homepage" : "https://tidal.com/",
+      "localizedDescription" : "Music streaming service with high fidelity sound and hi-def video quality",
+      "name" : "TIDAL",
+      "sha256" : "0855257b2bc4e1d341503eefd87c3190abc5e0294d11bf9cd5fa9171e64bbf9e",
+      "stats" : {
+        "downloadCount" : 186
+      },
+      "subtitle" : "Music streaming service with high fidelity sound and hi-def video quality",
+      "version" : "2.33.2"
     },
     {
       "beta" : false,
@@ -33742,16 +33646,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "maciasl",
-      "downloadURL" : "https://github.com/acidanthera/MaciASL/releases/download/1.6.2/MaciASL-1.6.2-RELEASE.dmg",
+      "downloadURL" : "https://github.com/acidanthera/MaciASL/releases/download/1.6.3/MaciASL-1.6.3-RELEASE.dmg",
       "homepage" : "https://github.com/acidanthera/MaciASL",
       "localizedDescription" : "ACPI Machine Language (AML) compiler and IDE",
       "name" : "MaciASL",
-      "sha256" : "2869fccc122e4b4cc115a3c9ff00cc96febfa8b7198bb98c1520467b84f69643",
+      "sha256" : "44e80f8840573f0f1d612975a5e3dbe6bda2d949f2642994080a52037e7ad3a9",
       "stats" : {
         "downloadCount" : 23
       },
       "subtitle" : "ACPI Machine Language (AML) compiler and IDE",
-      "version" : "1.6.2"
+      "version" : "1.6.3",
+      "versionDate" : "2022-11-07T16:50:06Z"
     },
     {
       "beta" : false,
@@ -36094,17 +35999,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "cakebrewjs",
-      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.3.5/cakebrewjs-1.3.5-mac.zip",
+      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.3.6/cakebrewjs-1.3.6-mac.zip",
       "homepage" : "https://sourceforge.net/projects/cakebrewjs",
       "localizedDescription" : "Homebrew GUI app written in electron",
       "name" : "cakebrewjs",
-      "sha256" : "a57b56957c07146ff767c6524d17350fb0bcba79d95cdb8aff7b4eb7a162d826",
+      "sha256" : "e5386afe07a7fc775b002b3e599275d528a83e4d8d52664b2a73277090e94d9c",
       "stats" : {
         "downloadCount" : 17
       },
       "subtitle" : "Homebrew GUI app written in electron",
-      "version" : "1.3.5",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "1.3.6",
+      "versionDate" : "2022-11-07T16:50:06Z"
     },
     {
       "beta" : false,
@@ -44173,6 +44078,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "tidgi",
+      "downloadURL" : "https://github.com/tiddly-gittly/TidGi-Desktop/releases/download/v0.7.9/TidGi-darwin-x64-0.7.9.zip",
+      "homepage" : "https://github.com/tiddly-gittly/TidGi-Desktop",
+      "localizedDescription" : "Personal knowledge-base app",
+      "name" : "TidGi",
+      "sha256" : "e8830775123faf50077ab07ed1e37c515e732366192ca7faeabf70d2f1851514",
+      "stats" : {
+        "downloadCount" : 8
+      },
+      "subtitle" : "Personal knowledge-base app",
+      "version" : "0.7.9"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "weektodo",
       "downloadURL" : "https://github.com/Zuntek/WeekToDoWeb/releases/download/v1.9.0/WeekToDo-1.9.0.dmg",
       "homepage" : "https://weektodo.me/",
@@ -45621,6 +45540,18 @@
       "subtitle" : "Matrix client based on Element with a more traditional IM experience",
       "version" : "1.11.13-sc.1",
       "versionDate" : "2022-11-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tiddly",
+      "downloadURL" : "https://github.com/Jermolene/TiddlyDesktop/releases/download/v0.0.14/tiddlydesktop-mac64-v0.0.14.zip",
+      "homepage" : "https://github.com/Jermolene/TiddlyDesktop",
+      "name" : "TiddlyWiki",
+      "sha256" : "5b311671ae872e34bc96b4ac96d69ce96b9910e38af9d4722cf01f192ab5e6b2",
+      "stats" : {
+        "downloadCount" : 7
+      },
+      "version" : "0.0.14"
     },
     {
       "beta" : false,
@@ -51388,6 +51319,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "tiger-trade",
+      "downloadURL" : "https://s.tigerfintech.com/desktop/cdn/f/TigerTrade_8.0.2_9C95FD.dmg",
+      "homepage" : "https://www.tigerbrokers.com.sg/download/",
+      "localizedDescription" : "Trading platform",
+      "name" : "Tiger Trade",
+      "sha256" : "ea353a8851f7259eadc5e825336c7f85adebfd7c4851f5c851f729ed304c72f3",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Trading platform",
+      "version" : "8.0.2,9C95FD",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "trivial",
       "downloadURL" : "https://download.decisivetactics.com/downloads/trivial/Trivial_1.0.8.zip",
       "homepage" : "https://www.decisivetactics.com/products/trivial/",
@@ -56907,24 +56853,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "tidelift",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://download.tidelift.com/cli/1.12.11/darwin_homebrew/tidelift",
-      "homepage" : "https://tidelift.com/cli",
-      "localizedDescription" : "Tool to interact with the Tidelift system",
-      "name" : "Tidelift CLI",
-      "sha256" : "58ad79826344df6a9eab204ffe401a0dfd84d1fb815f801f43abf80e429de535",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "subtitle" : "Tool to interact with the Tidelift system",
-      "version" : "1.12.11",
-      "versionDate" : "2022-11-06T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "the-watcher",
       "categories" : [
 
@@ -59638,6 +59566,34 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "tidelift",
+      "downloadURL" : "https://download.tidelift.com/cli/1.12.11/darwin_homebrew/tidelift",
+      "homepage" : "https://tidelift.com/cli",
+      "localizedDescription" : "Tool to interact with the Tidelift system",
+      "name" : "Tidelift CLI",
+      "sha256" : "58ad79826344df6a9eab204ffe401a0dfd84d1fb815f801f43abf80e429de535",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "Tool to interact with the Tidelift system",
+      "version" : "1.12.11",
+      "versionDate" : "2022-11-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "tigerjython",
+      "downloadURL" : "https://www.tjgroup.ch/download/TigerJython.dmg",
+      "homepage" : "https://www.tjgroup.ch/",
+      "localizedDescription" : "Jython-based educational programming environment",
+      "name" : "TigerJython",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "Jython-based educational programming environment",
+      "version" : "latest"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "wirecast",
       "downloadURL" : "https://www.telestream.net/download-files/wirecast/15-1/Wirecast-15.1.2.dmg",
       "homepage" : "https://www.telestream.net/wirecast/",
@@ -62124,13 +62080,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "hubstaff",
-      "caption" : "Hubstaff updated from 1.6.7,4005 to 1.6.8,4236",
-      "date" : "2022-11-04T20:36:30Z",
-      "identifier" : "release-hubstaff-1.6.8,4236",
-      "title" : "New Release: Hubstaff 1.6.8,4236"
-    },
-    {
       "appID" : "prepros",
       "caption" : "Prepros updated from 7.6.0 to 7.7.0",
       "date" : "2022-11-04T20:36:30Z",
@@ -62726,13 +62675,6 @@
       "title" : "New Release: TextExpander 7.3.1,731.2"
     },
     {
-      "appID" : "cakebrewjs",
-      "caption" : "cakebrewjs updated from 1.3.4 to 1.3.5",
-      "date" : "2022-11-06T19:25:37Z",
-      "identifier" : "release-cakebrewjs-1.3.5",
-      "title" : "New Release: cakebrewjs 1.3.5"
-    },
-    {
       "appID" : "neovide",
       "caption" : "neovide updated from 0.10.1 to 0.10.2",
       "date" : "2022-11-06T22:36:28Z",
@@ -62822,6 +62764,20 @@
       "date" : "2022-11-07T14:06:39Z",
       "identifier" : "release-aircall-2.26.9",
       "title" : "New Release: Aircall 2.26.9"
+    },
+    {
+      "appID" : "maciasl",
+      "caption" : "MaciASL updated from 1.6.2 to 1.6.3",
+      "date" : "2022-11-07T16:50:07Z",
+      "identifier" : "release-maciasl-1.6.3",
+      "title" : "New Release: MaciASL 1.6.3"
+    },
+    {
+      "appID" : "cakebrewjs",
+      "caption" : "cakebrewjs updated from 1.3.5 to 1.3.6",
+      "date" : "2022-11-07T16:50:08Z",
+      "identifier" : "release-cakebrewjs-1.3.6",
+      "title" : "New Release: cakebrewjs 1.3.6"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

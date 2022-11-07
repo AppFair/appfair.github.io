@@ -798,7 +798,7 @@ tr:nth-child(even) {
 | [``Google Cloud SDK``](https://cloud.google.com/sdk/) | ``latest`` | `9029` |  |  |  |  |  | `0` |  |
 | [``ChromeDriver``](https://sites.google.com/chromium.org/driver/) | ``107.0.5304.62`` | `8978` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Rectangle``](https://rectangleapp.com/) | ``0.61,67`` | `8338` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``DBeaver Community Editio``](https://dbeaver.io/) | ``22.2.4`` | `7842` | `2022-11-07T04:18:11Z` |  |  |  |  | `0` |  |
+| [``DBeaver Community Editio``](https://dbeaver.io/) | ``22.2.4`` | `7842` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Chromium``](https://www.chromium.org/Home) | ``latest`` | `6527` |  |  |  |  |  | `0` |  |
 | [``macFUSE``](https://osxfuse.github.io/) | ``4.4.1`` | `6326` |  |  |  |  |  | `0` |  |
 | [``fig``](https://fig.io/) | ``2.7.5`` | `6290` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
@@ -845,7 +845,7 @@ tr:nth-child(even) {
 | [``Cyberduck``](https://cyberduck.io/) | ``8.5.0,38556`` | `2602` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Maccy``](https://maccy.app/) | ``0.24.0,13`` | `2595` |  |  |  |  |  | `0` |  |
 | [``DB Browser for SQLite``](https://sqlitebrowser.org/) | ``3.12.2`` | `2562` |  |  |  |  |  | `0` |  |
-| [``IINA``](https://iina.io/) | ``1.3.0`` | `2512` |  |  |  |  |  | `0` |  |
+| [``IINA``](https://iina.io/) | ``1.3.1`` | `2512` | `2022-11-07T05:45:36Z` |  |  |  |  | `0` |  |
 | [``Session Manager Plugin f…``](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager-working-with-install-plugin.html) | ``1.2.398.0`` | `2439` |  |  |  |  |  | `0` |  |
 | [``Insomnia``](https://insomnia.rest/) | ``2022.6.0`` | `2403` |  |  |  |  |  | `0` |  |
 | [``Microsoft Office``](https://products.office.com/mac/microsoft-office-for-mac/) | ``16.66.22101101`` | `2371` |  |  |  |  |  | `0` |  |

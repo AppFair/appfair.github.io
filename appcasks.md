@@ -56,7 +56,7 @@ tr:nth-child(even) {
 | [``Usenapp``](https://www.usenapp.com/) | ``1.24,362`` | `9` | `2022-11-07T00:00:00Z` |  | `2590` | `165` |  | `0` | `public.app-category.news` |
 | [``SpamSieve``](https://c-command.com/spamsieve/) | ``2.9.50`` | `6` |  |  |  | `174` |  | `0` | `public.app-category.utilities` |
 | [``VASSAL``](https://www.vassalengine.org/) | ``3.6.7`` | `3` |  |  | `2204` | `127` |  | `0` | `public.app-category.games` |
-| [``Microsoft Visual Studio …``](https://code.visualstudio.com/) | ``1.73.0`` | `32883` | `2022-11-02T00:00:00Z` |  | `1964` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Microsoft Visual Studio …``](https://code.visualstudio.com/) | ``1.73.0`` | `32883` | `2022-11-02T00:00:00Z` |  | `1966` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Zoom.us``](https://www.zoom.us/) | ``5.12.6.12435`` | `8722` | `2022-11-07T00:00:00Z` |  | `1079` |  |  | `0` | `public.app-category.social-networking` |
 | [``XQuartz``](https://www.xquartz.org/) | ``2.8.2`` | `8371` |  |  | `1016` |  |  | `0` | `public.app-category.developer-tools` |
 | [``UTM``](https://getutm.app/) | ``4.0.9`` | `2545` | `2022-10-28T00:00:00Z` |  | `2560` |  |  | `0` | `public.app-category.business` |
@@ -875,7 +875,7 @@ tr:nth-child(even) {
 | [``Oracle VirtualBox Extens…``](https://www.virtualbox.org/) | ``7.0.2`` | `1787` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``draw.io Desktop``](https://www.diagrams.net/) | ``20.3.0`` | `1778` |  |  |  |  |  | `0` |  |
 | [``BloomRPC``](https://github.com/uw-labs/bloomrpc) | ``1.5.3`` | `1762` |  |  |  |  |  | `0` |  |
-| [``Etcher``](https://balena.io/etcher) | ``1.8.10`` | `1738` | `2022-11-08T11:32:38Z` |  |  |  |  | `0` |  |
+| [``Etcher``](https://balena.io/etcher) | ``1.8.10`` | `1738` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``PyCharm``](https://www.jetbrains.com/pycharm/) | ``2022.2.3,222.4345.23`` | `1734` |  |  |  |  |  | `0` |  |
 | [``Podman Desktop``](https://podman-desktop.io/) | ``0.9.1`` | `1664` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Flameshot``](https://flameshot.org/) | ``12.1.0`` | `1628` |  |  |  |  |  | `0` |  |
@@ -1074,7 +1074,7 @@ tr:nth-child(even) {
 | [``Beekeeper Studio``](https://www.beekeeperstudio.io/) | ``3.6.2`` | `354` |  |  |  |  |  | `0` |  |
 | [``Apparency``](https://www.mothersruin.com/software/Apparency/) | ``1.5,277`` | `353` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``RubyMine``](https://www.jetbrains.com/ruby/) | ``2022.2.3,222.4345.14`` | `350` |  |  |  |  |  | `0` |  |
-| [``Google Earth Pro``](https://www.google.com/earth/) | ``7.3.6.9285`` | `349` | `2022-11-08T11:32:38Z` |  |  |  |  | `0` |  |
+| [``Google Earth Pro``](https://www.google.com/earth/) | ``7.3.6.9285`` | `349` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Microsoft Azure Storage …``](https://azure.microsoft.com/en-us/features/storage-explorer/) | ``1.26.1`` | `344` | `2022-10-18T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Nektony App Cleaner & Un…``](https://nektony.com/mac-app-cleaner) | ``8.0.2,1895`` | `341` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Hex Fiend``](https://ridiculousfish.com/hexfiend/) | ``2.16.0`` | `341` |  |  |  |  |  | `0` |  |
@@ -4023,7 +4023,7 @@ tr:nth-child(even) {
 | [``Framer X``](https://framer.com/) | ``36854,1590141192`` | `0` |  |  |  |  |  | `0` |  |
 | [``Fresh``](https://ironicsoftware.com/fresh/) | ``4.0.4,404.101`` | `0` |  |  |  |  |  | `0` |  |
 | [``Frhelper``](https://www.eudic.net/v4/fr/app/frhelper) | ``4.2.6,1078`` | `0` | `2022-11-03T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Funter``](https://nektony.com/products/funter) | ``6.0.1,323`` | `0` | `2022-11-08T11:32:38Z` |  |  |  |  | `0` |  |
+| [``Funter``](https://nektony.com/products/funter) | ``6.0.1,323`` | `0` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Get Lyrical``](https://shullian.com/get_lyrical.php) | ``3.8.1`` | `0` |  |  |  |  |  | `0` |  |
 | [``GitX``](http://gitx.frim.nl/) | ``0.7.1`` | `0` |  |  |  |  |  | `0` |  |
 | [``GlimmerBlocker``](https://glimmerblocker.org/) | ``1.6.6`` | `0` |  |  |  |  |  | `0` |  |

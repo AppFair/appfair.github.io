@@ -847,7 +847,7 @@
       "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
       "stats" : {
         "downloadCount" : 32883,
-        "impressionCount" : 1964
+        "impressionCount" : 1966
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -16598,7 +16598,7 @@
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
       "version" : "1.8.10",
-      "versionDate" : "2022-11-08T11:32:38Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19464,7 +19464,7 @@
       },
       "subtitle" : "Virtual globe",
       "version" : "7.3.6.9285",
-      "versionDate" : "2022-11-08T11:32:38Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60622,7 +60622,7 @@
       },
       "subtitle" : "Shows hidden files and folders and switches their visibility in Finder",
       "version" : "6.0.1,323",
-      "versionDate" : "2022-11-08T11:32:38Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,

@@ -82,7 +82,7 @@ tr:nth-child(even) {
 | [``Todoist``](https://todoist.com/home) | ``8.1.0`` | `421` |  |  | `759` |  |  | `0` | `public.app-category.productivity` |
 | [``Unity Hub``](https://unity3d.com/get-unity/download) | ``3.3.0`` | `420` |  |  | `756` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Stretchly``](https://hovancik.net/stretchly/) | ``1.12.0`` | `409` |  |  | `1166` |  |  | `0` | `public.app-category.healthcare-fitness` |
-| [``Setapp``](https://setapp.com/) | ``3.15.0,16,1667818574`` | `402` | `2022-11-08T16:50:19Z` |  | `930` |  |  | `0` | `public.app-category.utilities` |
+| [``Setapp``](https://setapp.com/) | ``3.15.0,16,1667818574`` | `402` | `2022-11-08T00:00:00Z` |  | `930` |  |  | `0` | `public.app-category.utilities` |
 | [``Syncthing``](https://syncthing.net/) | ``1.22.1-1`` | `384` | `2022-11-06T00:00:00Z` |  | `811` |  |  | `0` | `public.app-category.utilities` |
 | [``Termius``](https://www.termius.com/) | ``7.51.0`` | `349` | `2022-11-03T00:00:00Z` |  | `962` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Viber``](https://www.viber.com/) | ``18.8.0,1880`` | `343` | `2022-11-02T00:00:00Z` |  | `1178` |  |  | `0` | `public.app-category.social-networking` |
@@ -792,7 +792,7 @@ tr:nth-child(even) {
 | [``ngrok``](https://ngrok.com/) | ``3.1.0,gMHPWQMhW1J,a`` | `16676` |  |  |  |  |  | `0` |  |
 | [``Android SDK Platform-Too…``](https://developer.android.com/studio/releases/platform-tools) | ``33.0.3`` | `15232` |  |  |  |  |  | `0` |  |
 | [``PowerShell``](https://github.com/PowerShell/PowerShell) | ``7.2.7`` | `13617` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Postman``](https://www.postman.com/) | ``10.0.1`` | `11943` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Postman``](https://www.postman.com/) | ``10.1.2`` | `11943` | `2022-11-08T17:41:38Z` |  |  |  |  | `0` |  |
 | [``Vagrant``](https://www.vagrantup.com/) | ``2.3.2`` | `10797` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Oracle VirtualBox``](https://www.virtualbox.org/) | ``7.0.2,154219`` | `9800` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Google Cloud SDK``](https://cloud.google.com/sdk/) | ``latest`` | `9322` |  |  |  |  |  | `0` |  |
@@ -891,7 +891,7 @@ tr:nth-child(even) {
 | [``AdoptOpenJDK Java Develo…``](https://adoptopenjdk.net/) | ``16.0.1,9`` | `1325` |  |  |  |  |  | `0` |  |
 | [``OpenVPN Connect client``](https://openvpn.net/client-connect-vpn-for-mac-os/) | ``3.4.0,4506`` | `1315` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Jetbrains PyCharm Commun…``](https://www.jetbrains.com/pycharm/) | ``2022.2.3,222.4345.23`` | `1300` |  |  |  |  |  | `0` |  |
-| [``BetterTouchTool``](https://folivora.ai/) | ``3.938,2102`` | `1295` | `2022-11-08T16:50:19Z` |  |  |  |  | `0` |  |
+| [``BetterTouchTool``](https://folivora.ai/) | ``3.938,2102`` | `1295` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Bartender``](https://www.macbartender.com/) | ``4.2.12,42012`` | `1290` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Hidden Bar``](https://github.com/dwarvesf/hidden/) | ``1.9`` | `1286` |  |  |  |  |  | `0` |  |
 | [``GPG Suite``](https://gpgtools.org/) | ``2022.2`` | `1250` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1147,7 +1147,7 @@ tr:nth-child(even) {
 | [``ProvisionQL``](https://github.com/ealeksandrov/ProvisionQL) | ``1.6.2`` | `237` |  |  |  |  |  | `0` |  |
 | [``Hot``](https://github.com/macmade/Hot) | ``1.7.0`` | `235` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``SwiftDefaultApps``](https://github.com/Lord-Kamina/SwiftDefaultApps) | ``2.0.1`` | `234` |  |  |  |  |  | `0` |  |
-| [``Plex Media Server``](https://www.plex.tv/) | ``1.29.1.6316,f4cdfea9c`` | `233` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Plex Media Server``](https://www.plex.tv/) | ``1.29.2.6364,6d72b0cf6`` | `233` | `2022-11-08T17:41:38Z` |  |  |  |  | `0` |  |
 | [``ClashX``](https://github.com/yichengchen/clashX) | ``1.95.1`` | `230` |  |  |  |  |  | `0` |  |
 | [``FortiClient``](https://forticlient.com/) | ``7.0.0.22`` | `227` |  |  |  |  |  | `0` |  |
 | [``Parallels Virtualization…``](https://www.parallels.com/products/desktop/download/) | ``18.0.2-53077`` | `227` |  |  |  |  |  | `0` |  |
@@ -3803,7 +3803,7 @@ tr:nth-child(even) {
 | [``Clonk Rage``](http://www.clonk.de/cr.php) | ``1.0`` | `1` |  |  |  |  |  | `0` |  |
 | [``Cloud PBX``](https://geschaeftskunden.telekom.de/internet-dsl/tarife/festnetz-internet-dsl/companyflex/cloud-pbx) | ``22.9.33.25`` | `1` |  |  |  |  |  | `0` |  |
 | [``Cloudup``](https://cloudup.com/download) | ``1.15.5`` | `1` |  |  |  |  |  | `0` |  |
-| [``CNKIExpress``](https://cajviewer.cnki.net/index.html) | ``0.2.29`` | `1` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
+| [``CNKIExpress``](https://cajviewer.cnki.net/index.html) | ``0.2.30`` | `1` | `2022-11-08T17:41:38Z` |  |  |  |  | `0` |  |
 | [``ColorWell``](https://colorwell.sweetpproductions.com/) | ``7.3.6`` | `1` |  |  |  |  |  | `0` |  |
 | [``Command Pad``](https://github.com/supnate/command-pad) | ``0.1.2`` | `1` |  |  |  |  |  | `0` |  |
 | [``Conferences.digital``](https://github.com/zagahr/Conferences.digital) | ``0.0.1-alpha22`` | `1` |  |  |  |  |  | `0` |  |

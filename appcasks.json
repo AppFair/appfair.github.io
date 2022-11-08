@@ -358,13 +358,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://osx.telegram.org/updates/Telegram-9.1.238857.app.zip",
+      "downloadURL" : "https://osx.telegram.org/updates/Telegram-9.1.1.238861.app.zip",
       "homepage" : "https://macos.telegram.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/AppIcon.png",
       "localizedDescription" : "Messaging app with a focus on speed and security",
       "name" : "Telegram for macOS",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram/README.md",
-      "sha256" : "30b3f4ad58c093f27da7e07da99f351ef7b81acb5f528f95ec095315c6f4fcf9",
+      "sha256" : "9548a5484efa8d0ecc8cd0c3f3f0eeda281ca8f75625b3be0ed00ce9bcb50fcf",
       "stats" : {
         "downloadCount" : 2803,
         "impressionCount" : 2763,
@@ -372,8 +372,8 @@
       },
       "subtitle" : "Messaging app with a focus on speed and security",
       "tintColor" : "87CAEB",
-      "version" : "9.1,238857",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "9.1.1,238861",
+      "versionDate" : "2022-11-08T19:41:21Z"
     },
     {
       "beta" : false,
@@ -16588,17 +16588,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "balenaetcher",
-      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.10/balenaEtcher-1.8.10.dmg",
+      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.14/balenaEtcher-1.8.14.dmg",
       "homepage" : "https://balena.io/etcher",
       "localizedDescription" : "Tool to flash OS images to SD cards & USB drives",
       "name" : "Etcher",
-      "sha256" : "46a6e1457575e932ddad377c21ad8b7c6d04fb8e0c37b9671c34a789fbf9ed04",
+      "sha256" : "4c3ca69f01e72c0c0e677cb1572bb887cc3cc146cfbe1aaf198cbab2266ed68d",
       "stats" : {
         "downloadCount" : 1738
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
-      "version" : "1.8.10",
-      "versionDate" : "2022-11-08T00:00:00Z"
+      "version" : "1.8.14",
+      "versionDate" : "2022-11-08T19:41:21Z"
     },
     {
       "beta" : false,
@@ -22307,17 +22307,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "fsnotes",
-      "downloadURL" : "https://github.com/glushchenko/fsnotes/releases/download/6.0.2/FSNotes_6.0.2.zip",
+      "downloadURL" : "https://github.com/glushchenko/fsnotes/releases/download/6.0.3/FSNotes_6.0.3.zip",
       "homepage" : "https://fsnot.es/",
       "localizedDescription" : "Notes manager",
       "name" : "FSNotes",
-      "sha256" : "eaaae52cec77511c88378d947eb42f27a50d5d1b59eb0200264a20c4aae4a58f",
+      "sha256" : "320098a0a62fc9dd89c4874990778aa9da4246645ba869620ed12ef1fa8b9467",
       "stats" : {
         "downloadCount" : 141
       },
       "subtitle" : "Notes manager",
-      "version" : "6.0.2",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "6.0.3",
+      "versionDate" : "2022-11-08T19:41:21Z"
     },
     {
       "beta" : false,
@@ -62171,13 +62171,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "cakebrewjs",
-      "caption" : "cakebrewjs updated from 1.3.5 to 1.3.6",
-      "date" : "2022-11-07T16:50:08Z",
-      "identifier" : "release-cakebrewjs-1.3.6",
-      "title" : "New Release: cakebrewjs 1.3.6"
-    },
-    {
       "appID" : "session",
       "caption" : "Session updated from 1.10.3 to 1.10.4",
       "date" : "2022-11-07T17:42:43Z",
@@ -62507,13 +62500,6 @@
       "title" : "New Release: Unison 2.53.0,4.14.0"
     },
     {
-      "appID" : "telegram",
-      "caption" : "Telegram for macOS updated from 9.1,238837 to 9.1,238857",
-      "date" : "2022-11-07T21:36:23Z",
-      "identifier" : "release-telegram-9.1,238857",
-      "title" : "New Release: Telegram for macOS 9.1,238857"
-    },
-    {
       "appID" : "usenapp",
       "caption" : "Usenapp updated from 1.23,361 to 1.24,362",
       "date" : "2022-11-07T21:36:23Z",
@@ -62801,13 +62787,6 @@
       "title" : "New Release: Aircall 2.27.0"
     },
     {
-      "appID" : "balenaetcher",
-      "caption" : "Etcher updated from 1.8.6 to 1.8.10",
-      "date" : "2022-11-08T11:32:39Z",
-      "identifier" : "release-balenaetcher-1.8.10",
-      "title" : "New Release: Etcher 1.8.10"
-    },
-    {
       "appID" : "google-earth-pro",
       "caption" : "Google Earth Pro updated from 7.3.6.9277 to 7.3.6.9285",
       "date" : "2022-11-08T11:32:39Z",
@@ -62869,6 +62848,27 @@
       "date" : "2022-11-08T17:41:40Z",
       "identifier" : "release-cnkiexpress-0.2.30",
       "title" : "New Release: CNKIExpress 0.2.30"
+    },
+    {
+      "appID" : "telegram",
+      "caption" : "Telegram for macOS updated from 9.1,238857 to 9.1.1,238861",
+      "date" : "2022-11-08T19:41:22Z",
+      "identifier" : "release-telegram-9.1.1,238861",
+      "title" : "New Release: Telegram for macOS 9.1.1,238861"
+    },
+    {
+      "appID" : "balenaetcher",
+      "caption" : "Etcher updated from 1.8.10 to 1.8.14",
+      "date" : "2022-11-08T19:41:22Z",
+      "identifier" : "release-balenaetcher-1.8.14",
+      "title" : "New Release: Etcher 1.8.14"
+    },
+    {
+      "appID" : "fsnotes",
+      "caption" : "FSNotes updated from 6.0.2 to 6.0.3",
+      "date" : "2022-11-08T19:41:22Z",
+      "identifier" : "release-fsnotes-6.0.3",
+      "title" : "New Release: FSNotes 6.0.3"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

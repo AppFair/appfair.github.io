@@ -36,7 +36,7 @@ tr:nth-child(even) {
 | [``Sublime Text``](https://www.sublimetext.com/) | ``4126`` | `5811` |  |  | `2761` | `141` |  | `0` | `public.app-category.productivity` |
 | [``Stats``](https://github.com/exelban/stats) | ``2.7.42`` | `5491` | `2022-11-06T00:00:00Z` |  | `5923` | `585` |  | `0` | `public.app-category.utilities` |
 | [``Wireshark``](https://www.wireshark.org/) | ``4.0.1`` | `3153` | `2022-10-28T00:00:00Z` |  | `2450` | `141` |  | `0` | `public.app-category.productivity` |
-| [``Telegram for macOS``](https://macos.telegram.org/) | ``9.1,238857`` | `2803` | `2022-11-07T00:00:00Z` |  | `2763` | `201` |  | `0` | `public.app-category.social-networking` |
+| [``Telegram for macOS``](https://macos.telegram.org/) | ``9.1.1,238861`` | `2803` | `2022-11-08T19:41:21Z` |  | `2763` | `201` |  | `0` | `public.app-category.social-networking` |
 | [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``4.0.1,20039`` | `2477` | `2022-10-28T00:00:00Z` |  | `3776` | `169` |  | `0` | `public.app-category.developer-tools` |
 | [``VSCodium``](https://github.com/VSCodium/vscodium) | ``1.73.0.22306`` | `2305` | `2022-11-02T00:00:00Z` |  | `4497` | `435` |  | `0` | `public.app-category.developer-tools` |
 | [``Tor Browser``](https://www.torproject.org/) | ``11.5.7`` | `2097` | `2022-11-04T00:00:00Z` |  | `3738` | `180` |  | `0` | `public.app-category.productivity` |
@@ -875,7 +875,7 @@ tr:nth-child(even) {
 | [``Oracle VirtualBox Extens…``](https://www.virtualbox.org/) | ``7.0.2`` | `1787` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``draw.io Desktop``](https://www.diagrams.net/) | ``20.3.0`` | `1778` |  |  |  |  |  | `0` |  |
 | [``BloomRPC``](https://github.com/uw-labs/bloomrpc) | ``1.5.3`` | `1762` |  |  |  |  |  | `0` |  |
-| [``Etcher``](https://balena.io/etcher) | ``1.8.10`` | `1738` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Etcher``](https://balena.io/etcher) | ``1.8.14`` | `1738` | `2022-11-08T19:41:21Z` |  |  |  |  | `0` |  |
 | [``PyCharm``](https://www.jetbrains.com/pycharm/) | ``2022.2.3,222.4345.23`` | `1734` |  |  |  |  |  | `0` |  |
 | [``Podman Desktop``](https://podman-desktop.io/) | ``0.9.1`` | `1664` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Flameshot``](https://flameshot.org/) | ``12.1.0`` | `1628` |  |  |  |  |  | `0` |  |
@@ -1272,7 +1272,7 @@ tr:nth-child(even) {
 | [``Postgres``](https://postgresapp.com/) | ``2.5.11,10-11-12-13-14-15`` | `142` |  |  |  |  |  | `0` |  |
 | [``Audio Hijack``](https://www.rogueamoeba.com/audiohijack/) | ``4.0.5`` | `141` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Cabal``](https://cabal.chat/) | ``7.0.0`` | `141` |  |  |  |  |  | `0` |  |
-| [``FSNotes``](https://fsnot.es/) | ``6.0.2`` | `141` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
+| [``FSNotes``](https://fsnot.es/) | ``6.0.3`` | `141` | `2022-11-08T19:41:21Z` |  |  |  |  | `0` |  |
 | [``OpenCore Legacy Patcher …``](https://dortania.github.io/OpenCore-Legacy-Patcher/) | ``0.5.1`` | `141` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``AltServer``](https://altstore.io/) | ``1.5.1,70`` | `140` |  |  |  |  |  | `0` |  |
 | [``Elmedia Player``](https://www.electronic.us/products/elmedia/) | ``8.9,3203`` | `140` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |

@@ -13903,20 +13903,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://hexler.net/pub/touchosc/touchosc-1.1.6.150-macos.dmg",
+      "downloadURL" : "https://hexler.net/pub/touchosc/touchosc-1.1.7.154-macos.dmg",
       "homepage" : "https://hexler.net/touchosc",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-touchosc/AppIcon.png",
       "localizedDescription" : "MIDI and OSC Controller Software",
       "name" : "touchosc",
-      "sha256" : "1eb16c1bd27d559396271f0deb8676a57f59a8f9e6143a6336361cab365aa307",
+      "sha256" : "a3eed85b5d9b3ce2f4f888f9273874b55f374d99045f970d9b6cfd219fa5614f",
       "stats" : {
         "downloadCount" : 8,
         "impressionCount" : 170
       },
       "subtitle" : "MIDI and OSC Controller Software",
       "tintColor" : "434343",
-      "version" : "1.1.6,150",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.1.7,154",
+      "versionDate" : "2022-11-08T04:13:22Z"
     },
     {
       "beta" : false,
@@ -14743,7 +14743,7 @@
       "subtitle" : "Fortran development environment",
       "tintColor" : "FF4E4E",
       "version" : "3.26.3806",
-      "versionDate" : "2022-11-08T02:20:28Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16587,17 +16587,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "balenaetcher",
-      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.0/balenaEtcher-1.8.0.dmg",
+      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.3/balenaEtcher-1.8.3.dmg",
       "homepage" : "https://balena.io/etcher",
       "localizedDescription" : "Tool to flash OS images to SD cards & USB drives",
       "name" : "Etcher",
-      "sha256" : "25b1f363281e0b8b336a221375fb4b8b05c6c47ec1840fdd59816721846523d9",
+      "sha256" : "94d31ef78cc4a94018018af5ef69ed72c8a182105401d70412b22b953894dca1",
       "stats" : {
         "downloadCount" : 1738
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
-      "version" : "1.8.0",
-      "versionDate" : "2022-11-08T02:20:28Z"
+      "version" : "1.8.3",
+      "versionDate" : "2022-11-08T04:13:22Z"
     },
     {
       "beta" : false,
@@ -19799,17 +19799,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "openlens",
-      "downloadURL" : "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.1.15/OpenLens-6.1.15.dmg",
+      "downloadURL" : "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.1.16/OpenLens-6.1.16.dmg",
       "homepage" : "https://github.com/MuhammedKalkan/OpenLens/",
       "localizedDescription" : "Open source build of Lens Kubernetes IDE",
       "name" : "OpenLens",
-      "sha256" : "3cbf3847c0333cc07d9b8a60ffa58018ae96dba10bf7b1c6e04bca5cfaca8eb4",
+      "sha256" : "a322f190450885b14ca878c483ed659ef377bf5debffc106eb6f9f993bade5d2",
       "stats" : {
         "downloadCount" : 312
       },
       "subtitle" : "Open source build of Lens Kubernetes IDE",
-      "version" : "6.1.15",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "6.1.16",
+      "versionDate" : "2022-11-08T04:13:22Z"
     },
     {
       "beta" : false,
@@ -23329,17 +23329,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "duet",
-      "downloadURL" : "https://duet.nyc3.cdn.digitaloceanspaces.com/Mac/2_4/duet-2-4-6-0.zip",
+      "downloadURL" : "https://duet.nyc3.cdn.digitaloceanspaces.com/Mac/3.0/duet-3-0-1-0.zip",
       "homepage" : "https://www.duetdisplay.com/",
-      "localizedDescription" : "Tool for using an iPad as a second display",
+      "localizedDescription" : "Remote desktop and second display tool",
       "name" : "Duet",
-      "sha256" : "771bbb7fa08f38270eb0efacc553faf4bf10f558101bdf18cab3fd909cbd871b",
+      "sha256" : "d3aab0a50f4408d47aa2d3c7036965d45c18982f8c80cce5ef8d1ad86904238d",
       "stats" : {
         "downloadCount" : 119
       },
-      "subtitle" : "Tool for using an iPad as a second display",
-      "version" : "2.4.6.0",
-      "versionDate" : "2022-10-18T00:00:00Z"
+      "subtitle" : "Remote desktop and second display tool",
+      "version" : "3.0.1.0",
+      "versionDate" : "2022-11-08T04:13:22Z"
     },
     {
       "beta" : false,
@@ -62161,27 +62161,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "propresenter",
-      "caption" : "ProPresenter updated from 7.10.3,118096648 to 7.10.3,118096653",
-      "date" : "2022-11-06T12:51:00Z",
-      "identifier" : "release-propresenter-7.10.3,118096653",
-      "title" : "New Release: ProPresenter 7.10.3,118096653"
-    },
-    {
-      "appID" : "audiobook-builder",
-      "caption" : "Audiobook Builder updated from 2.2.3 to 2.2.5",
-      "date" : "2022-11-06T12:51:00Z",
-      "identifier" : "release-audiobook-builder-2.2.5",
-      "title" : "New Release: Audiobook Builder 2.2.5"
-    },
-    {
-      "appID" : "kodelife",
-      "caption" : "KodeLife updated from 1.0.6,163 to 1.0.7,167",
-      "date" : "2022-11-06T12:51:01Z",
-      "identifier" : "release-kodelife-1.0.7,167",
-      "title" : "New Release: KodeLife 1.0.7,167"
-    },
-    {
       "appID" : "solar2d",
       "caption" : "Solar2D updated from 2022.3682 to 2022.3683",
       "date" : "2022-11-06T12:51:01Z",
@@ -62854,11 +62833,32 @@
       "title" : "New Release: Simply Fortran 3.26.3806"
     },
     {
+      "appID" : "touchosc",
+      "caption" : "touchosc updated from 1.1.6,150 to 1.1.7,154",
+      "date" : "2022-11-08T04:13:23Z",
+      "identifier" : "release-touchosc-1.1.7,154",
+      "title" : "New Release: touchosc 1.1.7,154"
+    },
+    {
       "appID" : "balenaetcher",
-      "caption" : "Etcher updated from 1.7.14 to 1.8.0",
-      "date" : "2022-11-08T02:20:30Z",
-      "identifier" : "release-balenaetcher-1.8.0",
-      "title" : "New Release: Etcher 1.8.0"
+      "caption" : "Etcher updated from 1.8.0 to 1.8.3",
+      "date" : "2022-11-08T04:13:24Z",
+      "identifier" : "release-balenaetcher-1.8.3",
+      "title" : "New Release: Etcher 1.8.3"
+    },
+    {
+      "appID" : "openlens",
+      "caption" : "OpenLens updated from 6.1.15 to 6.1.16",
+      "date" : "2022-11-08T04:13:24Z",
+      "identifier" : "release-openlens-6.1.16",
+      "title" : "New Release: OpenLens 6.1.16"
+    },
+    {
+      "appID" : "duet",
+      "caption" : "Duet updated from 2.4.6.0 to 3.0.1.0",
+      "date" : "2022-11-08T04:13:24Z",
+      "identifier" : "release-duet-3.0.1.0",
+      "title" : "New Release: Duet 3.0.1.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -1096,6 +1096,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "webstorm",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://download.jetbrains.com/webstorm/WebStorm-2022.2.3.dmg",
+      "homepage" : "https://www.jetbrains.com/webstorm/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-webstorm/AppIcon.png",
+      "localizedDescription" : "JavaScript IDE",
+      "name" : "WebStorm",
+      "sha256" : "e6532a9a840c3508cdf26511200fbba34ec9a275154d717538019f72ebc5fc51",
+      "stats" : {
+        "downloadCount" : 758,
+        "impressionCount" : 952
+      },
+      "subtitle" : "JavaScript IDE",
+      "tintColor" : "2E7991",
+      "version" : "2022.2.3,222.4345.14"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "wechat",
       "categories" : [
         "public.app-category.social-networking"
@@ -3417,7 +3437,7 @@
       "subtitle" : "Cloud knowledge base",
       "tintColor" : "86DB97",
       "version" : "1.8.4",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4146,7 +4166,7 @@
       "subtitle" : "Per-app audio controls",
       "tintColor" : "676764",
       "version" : "2.7.2,5156",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4684,7 +4704,7 @@
       "subtitle" : "Website downloader tool",
       "tintColor" : "E3DDE0",
       "version" : "5.0.6",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7306,6 +7326,23 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "website-watchman",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://peacockmedia.software/mac/watchman/watchman.dmg",
+      "homepage" : "https://peacockmedia.software/mac/watchman/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-website-watchman/AppIcon.png",
+      "name" : "Website Watchman",
+      "stats" : {
+        "downloadCount" : 6,
+        "impressionCount" : 232
+      },
+      "tintColor" : "8F61C8",
+      "version" : "2.13.0,2.13.01"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "wasabi-wallet",
       "categories" : [
         "public.app-category.finance"
@@ -7932,7 +7969,7 @@
       "subtitle" : "Cycling training system",
       "tintColor" : "E04D42",
       "version" : "2022.40.0.211",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -9656,6 +9693,24 @@
       },
       "tintColor" : "4AB2DF",
       "version" : "latest"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "webrecorder-player",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/webrecorder/webrecorder-player/releases/download/v1.8.0/webrecorder-player-1.8.0.dmg",
+      "homepage" : "https://github.com/webrecorder/webrecorder-player/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-webrecorder-player/AppIcon.png",
+      "name" : "Webrecorder Player",
+      "sha256" : "c7ecc7b19c31814a15a1dc5bff41ac899b239877d5968b057b0946b250aedd3a",
+      "stats" : {
+        "downloadCount" : 1,
+        "impressionCount" : 133
+      },
+      "tintColor" : "1F1FE8",
+      "version" : "1.8.0"
     },
     {
       "beta" : false,
@@ -16543,7 +16598,7 @@
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
       "version" : "1.8.6",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17357,7 +17412,7 @@
       },
       "subtitle" : "Customize mouse behavior",
       "version" : "0.7.5",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17473,20 +17528,6 @@
       },
       "subtitle" : "Word processor",
       "version" : "16.66.22101101"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "webstorm",
-      "downloadURL" : "https://download.jetbrains.com/webstorm/WebStorm-2022.2.3.dmg",
-      "homepage" : "https://www.jetbrains.com/webstorm/",
-      "localizedDescription" : "JavaScript IDE",
-      "name" : "WebStorm",
-      "sha256" : "e6532a9a840c3508cdf26511200fbba34ec9a275154d717538019f72ebc5fc51",
-      "stats" : {
-        "downloadCount" : 758
-      },
-      "subtitle" : "JavaScript IDE",
-      "version" : "2022.2.3,222.4345.14"
     },
     {
       "beta" : false,
@@ -18298,6 +18339,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "webpquicklook",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://raw.githubusercontent.com/emin/WebPQuickLook/master/WebpQuickLook.tar.gz",
+      "homepage" : "https://github.com/emin/WebPQuickLook",
+      "name" : "WebPQuickLook",
+      "stats" : {
+        "downloadCount" : 527
+      },
+      "version" : "1.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "itsycal",
       "downloadURL" : "https://itsycal.s3.amazonaws.com/Itsycal-0.13.3.zip",
       "homepage" : "https://www.mowglii.com/itsycal/",
@@ -18309,17 +18364,6 @@
       },
       "subtitle" : "Menu bar calendar",
       "version" : "0.13.3,2219"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "webpquicklook",
-      "downloadURL" : "https://raw.githubusercontent.com/emin/WebPQuickLook/master/WebpQuickLook.tar.gz",
-      "homepage" : "https://github.com/emin/WebPQuickLook",
-      "name" : "WebPQuickLook",
-      "stats" : {
-        "downloadCount" : 527
-      },
-      "version" : "1.0"
     },
     {
       "beta" : false,
@@ -19550,7 +19594,7 @@
       },
       "subtitle" : "VPN client for secure internet access and private browsing",
       "version" : "11.12.0.70542",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23283,7 +23327,7 @@
       },
       "subtitle" : "Free video downloader",
       "version" : "4.22.0",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24012,7 +24056,7 @@
       },
       "subtitle" : "All-in-one office service platform in Chinese",
       "version" : "5.0.0,7550",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -26255,7 +26299,7 @@
       },
       "subtitle" : "Remote development gateway by Jetbrains",
       "version" : "222.4459.11",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29207,7 +29251,7 @@
       },
       "subtitle" : "Note taking application and information organizer",
       "version" : "5.11.1",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29599,7 +29643,7 @@
       },
       "subtitle" : "Project planning and management software",
       "version" : "4.5.1",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33223,7 +33267,7 @@
       },
       "subtitle" : "Home Theater PC media player",
       "version" : "1.28.3.3355,5ad65b5d",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33768,7 +33812,7 @@
       },
       "subtitle" : "Visual exploration of genomic data",
       "version" : "2.15.2",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -33925,7 +33969,7 @@
       },
       "subtitle" : "Personal finance manager",
       "version" : "6.10.3,610.46328.100",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35324,7 +35368,7 @@
       },
       "subtitle" : "Indexer manager/proxy for various PVR apps",
       "version" : "0.4.8.2072",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40897,7 +40941,7 @@
       },
       "subtitle" : "Private rolodex to remember people better",
       "version" : "2.1.7",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42602,7 +42646,7 @@
       },
       "subtitle" : "Real-time earthquake monitoring software for Japan",
       "version" : "1.8.2",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43907,7 +43951,7 @@
       },
       "subtitle" : "Input method for Bopomofo (Phonetic Symbols of Mandarin Chinese)",
       "version" : "2.4.2",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -44055,7 +44099,7 @@
       },
       "subtitle" : "Crypto wallet",
       "version" : "3.17.0",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47287,17 +47331,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "website-watchman",
-      "downloadURL" : "https://peacockmedia.software/mac/watchman/watchman.dmg",
-      "homepage" : "https://peacockmedia.software/mac/watchman/",
-      "name" : "Website Watchman",
-      "stats" : {
-        "downloadCount" : 6
-      },
-      "version" : "2.13.0,2.13.01"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "whist-browser",
       "downloadURL" : "https://whist-browser-macos-x64-prod.s3.amazonaws.com/Whist-latest-x64.dmg",
       "homepage" : "https://www.whist.com/",
@@ -47565,7 +47598,7 @@
       },
       "subtitle" : "Time blocking platform to save 2 hours every day",
       "version" : "2.29.16",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51748,7 +51781,7 @@
       },
       "subtitle" : "Document editor",
       "version" : "3.1.1,6d78b4a",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57080,7 +57113,7 @@
       },
       "subtitle" : "App audio capture",
       "version" : "3.4.2",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59257,7 +59290,7 @@
       },
       "subtitle" : "Digital Asset Management",
       "version" : "7.4.1.4621",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59637,18 +59670,6 @@
       },
       "subtitle" : "3D reconstruction of Apple Retail Stores on their opening days",
       "version" : "1.0.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "webrecorder-player",
-      "downloadURL" : "https://github.com/webrecorder/webrecorder-player/releases/download/v1.8.0/webrecorder-player-1.8.0.dmg",
-      "homepage" : "https://github.com/webrecorder/webrecorder-player/",
-      "name" : "Webrecorder Player",
-      "sha256" : "c7ecc7b19c31814a15a1dc5bff41ac899b239877d5968b057b0946b250aedd3a",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "version" : "1.8.0"
     },
     {
       "beta" : false,
@@ -60104,7 +60125,7 @@
       },
       "subtitle" : "WYSIWYG LaTeX editor",
       "version" : "1.20.3",
-      "versionDate" : "2022-11-08T06:44:55Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,

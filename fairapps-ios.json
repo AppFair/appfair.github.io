@@ -27,7 +27,7 @@
       "size" : 12762342,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 168,
+        "downloadCount" : 172,
         "forkCount" : 0,
         "impressionCount" : 1194,
         "issueCount" : 0,
@@ -63,7 +63,7 @@
       "size" : 1453833866,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 129,
+        "downloadCount" : 133,
         "forkCount" : 0,
         "impressionCount" : 7,
         "issueCount" : 0,
@@ -99,7 +99,7 @@
       "size" : 1458058228,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 129,
+        "downloadCount" : 133,
         "forkCount" : 0,
         "impressionCount" : 1420,
         "issueCount" : 0,
@@ -120,7 +120,7 @@
       "homepage" : "https://lottie-motion.appfair.net",
       "iconURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Lottie-Motion.png",
       "localizedDescription" : "Preview and experiment with Lottie animations",
-      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#67eed2c4bcffe692bf9d887f23eec372fea66bb4d634126c918bd9ee122d10d0",
+      "metadataURL" : "https://github.com/Lottie-Motion/App/releases/download/0.0.97/Info.plist#1160ee295025d458f483dbd498642886abf1175926b15f5cba939b5b739b05ce",
       "name" : "Lottie Motion",
       "permissions" : [
         {
@@ -139,7 +139,7 @@
       "size" : 2735295,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 128,
+        "downloadCount" : 132,
         "forkCount" : 0,
         "impressionCount" : 1,
         "issueCount" : 0,
@@ -202,7 +202,7 @@
       "size" : 8081865,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 69,
+        "downloadCount" : 72,
         "forkCount" : 1,
         "impressionCount" : 373,
         "issueCount" : 7,

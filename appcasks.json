@@ -647,13 +647,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://updates.tdesktop.com/tmac/tsetup.4.3.0.dmg",
+      "downloadURL" : "https://updates.tdesktop.com/tmac/tsetup.4.3.1.dmg",
       "homepage" : "https://desktop.telegram.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram-desktop/AppIcon.png",
       "localizedDescription" : "Desktop client for Telegram messenger",
       "name" : "Telegram Desktop",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-telegram-desktop/README.md",
-      "sha256" : "efa5acf87c8754244140a5532f2ef17ce698386eee13eeff4dc34e8e3c7fb637",
+      "sha256" : "5d8f5af685cb9a9fb77ab04fd6a103c5340ec85f2b079b92803a4071f5de11f7",
       "stats" : {
         "downloadCount" : 755,
         "impressionCount" : 2265,
@@ -661,8 +661,8 @@
       },
       "subtitle" : "Desktop client for Telegram messenger",
       "tintColor" : "3DA3D5",
-      "version" : "4.3.0",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "4.3.1",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -1140,20 +1140,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/9f141bc3-da1f-4d6f-9f5d-fbadc4044e77/439376ea8c332d391037716579d25aa6/visualstudioformacinstaller-17.3.8.4.dmg",
+      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/2d54b9b7-b1ca-46a5-b018-1e368bc5a574/ddadd52e7c6e8a15b6d7c57531bc1375/visualstudioformacinstaller-17.4.0.445.dmg",
       "homepage" : "https://visualstudio.microsoft.com/vs/mac/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-studio/AppIcon.png",
       "localizedDescription" : "Integrated development environment",
       "name" : "Microsoft Visual Studio",
-      "sha256" : "788f5aa9387d8644c3f458bb58076723b7e7fa4efaa6837aa842185e6ff3eaa5",
+      "sha256" : "506615e0911a5cb0f388094f9a5d02910f6368c9551f84d4d078880b31095882",
       "stats" : {
         "downloadCount" : 667,
         "impressionCount" : 601
       },
       "subtitle" : "Integrated development environment",
       "tintColor" : "C8AAE6",
-      "version" : "17.3.8.4",
-      "versionDate" : "2022-10-19T00:00:00Z"
+      "version" : "17.4.0.445,2d54b9b7-b1ca-46a5-b018-1e368bc5a574,ddadd52e7c6e8a15b6d7c57531bc1375",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -1926,8 +1926,8 @@
       },
       "subtitle" : "VPN client for secure internet access and private browsing",
       "tintColor" : "2F96A8",
-      "version" : "4.4.2,1423",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "4.5.0,1436",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -2634,19 +2634,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://www.intuitibits.com/downloads/WiFiExplorer_3.3.6.dmg",
+      "downloadURL" : "https://www.intuitibits.com/downloads/WiFiExplorer_3.4.dmg",
       "homepage" : "https://www.intuitibits.com/products/wifi-explorer/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wifi-explorer/AppIcon.png",
       "localizedDescription" : "Scan, monitor, and troubleshoot wireless networks",
       "name" : "WiFi Explorer",
-      "sha256" : "2fe865a7197a25969a98aabeb9ef7e31e86b977f350a62c78b7d62b56278ff1a",
+      "sha256" : "0615def60f8c915dff5d350e202511faf5967f3665da3240e2df866c29cdb0ce",
       "stats" : {
         "downloadCount" : 79,
         "impressionCount" : 744
       },
       "subtitle" : "Scan, monitor, and troubleshoot wireless networks",
       "tintColor" : "EBBD48",
-      "version" : "3.3.6,51"
+      "version" : "3.4,53",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -4446,7 +4447,8 @@
       },
       "subtitle" : "Your gaming PC powered by Cloud technology",
       "tintColor" : "3B4041",
-      "version" : "5.0.1168.9369"
+      "version" : "8.0.10018.10014",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -4651,19 +4653,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/sonic-visualiser/sonic-visualiser/releases/download/sv_v4.5/Sonic.Visualiser-4.5.dmg",
+      "downloadURL" : "https://github.com/sonic-visualiser/sonic-visualiser/releases/download/sv_v4.5.1/Sonic.Visualiser-4.5.1.dmg",
       "homepage" : "https://www.sonicvisualiser.org/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonic-visualiser/AppIcon.png",
       "localizedDescription" : "Visualisation, analysis, and annotation of music audio recordings",
       "name" : "Sonic Visualiser",
-      "sha256" : "8d52092334a0a01c1c8f13f70bcf2b4d85f107b52a216149622cdef66d39f977",
+      "sha256" : "c422f8754430ca727523f8ab4d0f712f1850e92c19e3cf93b1cc15f9ee7092fa",
       "stats" : {
         "downloadCount" : 25,
         "impressionCount" : 235
       },
       "subtitle" : "Visualisation, analysis, and annotation of music audio recordings",
       "tintColor" : "7B3400",
-      "version" : "4.5,2824"
+      "version" : "4.5.1,2843",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -4854,20 +4857,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.4.10/siyuan-2.4.10-mac.dmg",
+      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.4.11/siyuan-2.4.11-mac.dmg",
       "homepage" : "https://github.com/siyuan-note/siyuan",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-siyuan/AppIcon.png",
       "localizedDescription" : "Local-first personal knowledge management system",
       "name" : "SiYuan",
-      "sha256" : "2641abebf9a6d07b53557e5f830650cf2aef2047459f0323fdbcd2cd226efdef",
+      "sha256" : "67f9f3b1489986614022a4eed9ba405069c84e001e1242c6d1777571c2f77a4e",
       "stats" : {
         "downloadCount" : 24,
         "impressionCount" : 921
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
-      "version" : "2.4.10",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "2.4.11",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -9835,20 +9838,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/swiftyapp/swifty/releases/download/v0.6.9/Swifty-0.6.9.dmg",
+      "downloadURL" : "https://github.com/swiftyapp/swifty/releases/download/v0.6.10/Swifty-0.6.10.dmg",
       "homepage" : "https://getswifty.pro/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-swifty/AppIcon.png",
       "localizedDescription" : "Offline password manager tool",
       "name" : "Swifty",
-      "sha256" : "a7a4a2059d8b703b2a33277fabb35a12c4b460c8b5f2679fd4013636be822ad2",
+      "sha256" : "3ec7b781fad9c8d9b978da5678f75966ffb2f6ca44d4f64f159d7fb6b074a0c0",
       "stats" : {
         "downloadCount" : 1,
         "impressionCount" : 233
       },
       "subtitle" : "Offline password manager tool",
       "tintColor" : "F5E2EB",
-      "version" : "0.6.9",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "0.6.10",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -10980,7 +10983,8 @@
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "tintColor" : "22445D",
-      "version" : "42.10.0.23814"
+      "version" : "42.11.0.24187",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -11069,20 +11073,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dl3.xmind.net/Xmind-for-macOS-22.10.0636.dmg",
+      "downloadURL" : "https://dl3.xmind.net/Xmind-for-macOS-22.10.0927.dmg",
       "homepage" : "https://www.xmind.net/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xmind/AppIcon.png",
       "localizedDescription" : "Mind mapping and brainstorming tool",
       "name" : "XMind",
-      "sha256" : "028d1bd591ef34a2230fb23679ea08f1beb0d3c58a274ef9236b13438ec1a617",
+      "sha256" : "a6f4317c7c885af05aa493935024941118720462fd5e2ac50745f223604ee53b",
       "stats" : {
         "downloadCount" : 341,
         "impressionCount" : 112
       },
       "subtitle" : "Mind mapping and brainstorming tool",
       "tintColor" : "F64C60",
-      "version" : "22.10.0636",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "22.10.0927",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -16196,17 +16200,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "figma",
-      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.5.15.zip",
+      "downloadURL" : "https://desktop.figma.com/mac/Figma-116.5.17.zip",
       "homepage" : "https://www.figma.com/",
       "localizedDescription" : "Collaborative team software",
       "name" : "Figma",
-      "sha256" : "6e657feb071257a781be86ebbb8be1e6eb5d5b12d7a053476f456753caa05cf1",
+      "sha256" : "f01ca01dab853d6c690fda91081d6fe4d2fe5245161042656dfd49d6dabd28b7",
       "stats" : {
         "downloadCount" : 2433
       },
       "subtitle" : "Collaborative team software",
-      "version" : "116.5.15",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "116.5.17",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -16469,16 +16473,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "dotnet-sdk",
-      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/f55a179b-7084-41b9-98e3-408a3c317158/5445f9e747fa29ce0be3240017d28322/dotnet-sdk-6.0.402-osx-x64.pkg",
+      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/11810c49-a615-40ec-b869-2eb2eae30f7b/4b0b7700fa0e8307b5f99c1d372d95bb/dotnet-sdk-7.0.100-osx-x64.pkg",
       "homepage" : "https://www.microsoft.com/net/core#macos",
       "localizedDescription" : "Developer platform",
       "name" : ".NET SDK",
-      "sha256" : "54b1996c0879e9ea2c7490cd49e4f51de4c5f97c8c3c1535005e1efcf0bfc90c",
+      "sha256" : "3311f8b5bf78cd8cbf2350a4385708ce3ac111333760835bb93dab98c5867b00",
       "stats" : {
         "downloadCount" : 1915
       },
       "subtitle" : "Developer platform",
-      "version" : "6.0.402,f55a179b-7084-41b9-98e3-408a3c317158,5445f9e747fa29ce0be3240017d28322"
+      "version" : "7.0.100,11810c49-a615-40ec-b869-2eb2eae30f7b,4b0b7700fa0e8307b5f99c1d372d95bb",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -16703,16 +16708,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "dotnet",
-      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/1cf60908-695c-4d98-a502-47ba21c9f9bf/8163b98d2c2a4f725af448adbe1047a7/dotnet-runtime-6.0.10-osx-x64.pkg",
+      "downloadURL" : "https://download.visualstudio.microsoft.com/download/pr/79e87fe7-1e4d-4128-b655-2af302df2d3f/30f2bbf3f79f6b790cd918c425b9e1ea/dotnet-runtime-7.0.0-osx-x64.pkg",
       "homepage" : "https://www.microsoft.com/net/core#macos",
       "localizedDescription" : "Developer platform",
       "name" : ".Net Runtime",
-      "sha256" : "ed095f2c05ecbda25ca9a5d45ae22aac1961940b8ef50ca1d11fe7d9cc9d77a1",
+      "sha256" : "b68d125a63121c2dbb3245c3456a94cf6ee5b937739a2bd20bff1fc4ac210b2b",
       "stats" : {
         "downloadCount" : 1445
       },
       "subtitle" : "Developer platform",
-      "version" : "6.0.10,1cf60908-695c-4d98-a502-47ba21c9f9bf,8163b98d2c2a4f725af448adbe1047a7"
+      "version" : "7.0.0,79e87fe7-1e4d-4128-b655-2af302df2d3f,30f2bbf3f79f6b790cd918c425b9e1ea",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -17605,17 +17611,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "metasploit",
-      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.26%2B20221107112952-1rapid7-1.x86_64.pkg",
+      "downloadURL" : "https://osx.metasploit.com/metasploit-framework-6.2.26%2B20221108112941-1rapid7-1.x86_64.pkg",
       "homepage" : "https://www.metasploit.com/",
       "localizedDescription" : "Penetration testing framework",
       "name" : "Metasploit Framework",
-      "sha256" : "4bf0ccbca1eb0e3334d789947fe892d79d62f68b7788714a1d73300d6e0acb9b",
+      "sha256" : "3795346fd24abdb1b8a968c3e5869461fab64b471b1574da8d25530954438aed",
       "stats" : {
         "downloadCount" : 731
       },
       "subtitle" : "Penetration testing framework",
-      "version" : "6.2.26,20221107112952",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "6.2.26,20221108112941",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -20213,16 +20219,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "browserosaurus",
-      "downloadURL" : "https://github.com/will-stone/browserosaurus/releases/download/v19.1.0/Browserosaurus-darwin-x64-19.1.0.zip",
+      "downloadURL" : "https://github.com/will-stone/browserosaurus/releases/download/v19.2.0/Browserosaurus-darwin-x64-19.2.0.zip",
       "homepage" : "https://github.com/will-stone/browserosaurus",
       "localizedDescription" : "Open-source browser prompter",
       "name" : "Browserosaurus",
-      "sha256" : "35ffc0bdf0767f6dd55ae541796c87e0bbce4513554b4bf128abb7664b9096d0",
+      "sha256" : "fa39c58646e3ba9dec6c57a0f35dba4785415d5a6295ad1578d0fa2d7b361bb4",
       "stats" : {
         "downloadCount" : 266
       },
       "subtitle" : "Open-source browser prompter",
-      "version" : "19.1.0"
+      "version" : "19.2.0",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -20255,16 +20262,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "lunar",
-      "downloadURL" : "https://static.lunar.fyi/releases/Lunar-5.7.9.dmg",
+      "downloadURL" : "https://static.lunar.fyi/releases/Lunar-5.8.0.dmg",
       "homepage" : "https://lunar.fyi/",
       "localizedDescription" : "Adaptive brightness for external displays",
       "name" : "Lunar",
-      "sha256" : "c69523c92b97ac785be523240facfa3b2208a375db5bd4f7ff82e60eb48b7c82",
+      "sha256" : "81d8d8a09a71b1cd51fdb307c0c89f137b7893cf3359d0bb4a6d1fda71ea765e",
       "stats" : {
         "downloadCount" : 263
       },
       "subtitle" : "Adaptive brightness for external displays",
-      "version" : "5.7.9"
+      "version" : "5.8.0",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -20444,16 +20452,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "rider",
-      "downloadURL" : "https://download.jetbrains.com/rider/JetBrains.Rider-2022.2.3.dmg",
+      "downloadURL" : "https://download.jetbrains.com/rider/JetBrains.Rider-2022.2.4.dmg",
       "homepage" : "https://www.jetbrains.com/rider/",
       "localizedDescription" : ".NET IDE",
       "name" : "JetBrains Rider",
-      "sha256" : "aa02c2c621d356486a0b698a45d773f5830ff4ef431940059f82e8d3c17a2335",
+      "sha256" : "147b10fdcfc72f079c54089e07d3850f4b8e5fc25b9e7a67ee167fded89e2149",
       "stats" : {
         "downloadCount" : 241
       },
       "subtitle" : ".NET IDE",
-      "version" : "2022.2.3,222.4167.23"
+      "version" : "2022.2.4,222.4459.9",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -20545,16 +20554,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "parallels-virtualization-sdk",
-      "downloadURL" : "https://download.parallels.com/desktop/v18/18.0.2-53077/ParallelsVirtualizationSDK-18.0.2-53077-mac.dmg",
+      "downloadURL" : "https://download.parallels.com/desktop/v18/18.1.0-53311/ParallelsVirtualizationSDK-18.1.0-53311-mac.dmg",
       "homepage" : "https://www.parallels.com/products/desktop/download/",
       "localizedDescription" : "Desktop virtualization development kit",
       "name" : "Parallels Virtualization SDK",
-      "sha256" : "05cce75c28e6a895e01cb683d85c60c9a1be02964224fdcbd0f7b245b808ad19",
+      "sha256" : "f648a523e8917cf55f5b074b5e48158d3d17112df6242e1f265c7dc7176ef8c7",
       "stats" : {
         "downloadCount" : 227
       },
       "subtitle" : "Desktop virtualization development kit",
-      "version" : "18.0.2-53077"
+      "version" : "18.1.0-53311",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -21846,16 +21856,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.unity3d.com/download_unity/01d83b40d570/MacEditorInstaller/Unity-2022.1.20f1.pkg",
+      "downloadURL" : "https://download.unity3d.com/download_unity/9ac1ff5ca45b/MacEditorInstaller/Unity-2022.1.21f1.pkg",
       "homepage" : "https://unity.com/products",
       "localizedDescription" : "Platform for 3D content",
       "name" : "Unity Editor",
-      "sha256" : "f89781eb70af256923da0279b4afc1284b98036e5dcc5bb83c7275b936668983",
+      "sha256" : "1729d326749f9d7304aa01972284ea26fd4afdc83c3826651283a7d80c5ba6d9",
       "stats" : {
         "downloadCount" : 155
       },
       "subtitle" : "Platform for 3D content",
-      "version" : "2022.1.20f1,01d83b40d570"
+      "version" : "2022.1.21f1,9ac1ff5ca45b",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -23755,16 +23766,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "nomachine",
-      "downloadURL" : "https://download.nomachine.com/download/8.1/MacOSX/nomachine_8.1.2_1.dmg",
+      "downloadURL" : "https://download.nomachine.com/download/8.2/MacOSX/nomachine_8.2.3_12.dmg",
       "homepage" : "https://www.nomachine.com/",
       "localizedDescription" : "Remote desktop software",
       "name" : "NoMachine",
-      "sha256" : "156c065a6e5e77d53447753db37f121b57ed823660d9f548b9f52e0d5f0701c9",
+      "sha256" : "6aac0a746c43defe585c8b6dbf39018d7f582ad126844b1e6cda113025a2afc2",
       "stats" : {
         "downloadCount" : 110
       },
       "subtitle" : "Remote desktop software",
-      "version" : "8.1.2_1"
+      "version" : "8.2.3_12",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -25024,17 +25036,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "chirp",
-      "downloadURL" : "https://trac.chirp.danplanet.com/chirp_daily/daily-20221025/chirp-unified-daily-20221025.app.zip",
+      "downloadURL" : "https://trac.chirp.danplanet.com/chirp_daily/daily-20221108/chirp-unified-daily-20221108.app.zip",
       "homepage" : "https://chirp.danplanet.com/projects/chirp/wiki/Home",
       "localizedDescription" : "Tool for programming amateur radio",
       "name" : "CHIRP",
-      "sha256" : "8cca855804151450087bd395f6cf4ea822841f82564b8e612bbe4604d23459e2",
+      "sha256" : "211601dfd580a8d3a7e235eb0adaf718c515de27c52e9fa7ac110d876c038aaf",
       "stats" : {
         "downloadCount" : 83
       },
       "subtitle" : "Tool for programming amateur radio",
-      "version" : "20221025",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "20221108",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -25543,16 +25555,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "parallels-toolbox",
-      "downloadURL" : "https://download.parallels.com/toolbox/v6/6.0.0-4536/ParallelsToolbox-6.0.0-4536.dmg",
+      "downloadURL" : "https://download.parallels.com/toolbox/v6/6.0.1-4541/ParallelsToolbox-6.0.1-4541.dmg",
       "homepage" : "https://www.parallels.com/products/toolbox/",
       "localizedDescription" : "Bundle with over 30 tools",
       "name" : "Parallels Toolbox",
-      "sha256" : "491d3739422988fda6934b4fc4dc1334b6dfea86802da56d55a6ea56dadb4910",
+      "sha256" : "0229e670bad744a02c5349ab1bf31aa7ba8dff52840b9d410ce599b350f61aa6",
       "stats" : {
         "downloadCount" : 76
       },
       "subtitle" : "Bundle with over 30 tools",
-      "version" : "6.0.0-4536"
+      "version" : "6.0.1-4541",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -25866,16 +25879,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gns3",
-      "downloadURL" : "https://github.com/GNS3/gns3-gui/releases/download/v2.2.34/GNS3-2.2.34.dmg",
+      "downloadURL" : "https://github.com/GNS3/gns3-gui/releases/download/v2.2.35/GNS3-2.2.35.dmg",
       "homepage" : "https://www.gns3.com/",
       "localizedDescription" : "GUI for the Dynamips Cisco router emulator",
       "name" : "GNS3",
-      "sha256" : "72bc868aa1ca1aac5a42d14dc18a07dc5f3ef9c1d1569b4abf29944f6181a49e",
+      "sha256" : "873aaa9d3c2e1bef0e904e51017ca6251a4d67ac221295c7501a6dcf87a07874",
       "stats" : {
         "downloadCount" : 71
       },
       "subtitle" : "GUI for the Dynamips Cisco router emulator",
-      "version" : "2.2.34"
+      "version" : "2.2.35",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -25908,17 +25922,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "remote-desktop-manager",
-      "downloadURL" : "https://cdn.devolutions.net/download/Mac/Devolutions.RemoteDesktopManager.Mac.2022.3.5.0.dmg",
+      "downloadURL" : "https://cdn.devolutions.net/download/Mac/Devolutions.RemoteDesktopManager.Mac.2022.3.6.0.dmg",
       "homepage" : "https://mac.remotedesktopmanager.com/",
       "localizedDescription" : "Centralizes all remote connections on a single platform",
       "name" : "Remote Desktop Manager",
-      "sha256" : "d22a5534eff46e3e2c730b198299590edff91bc61f00c1909b25fc7b5d981a8f",
+      "sha256" : "87d1a92dd57a222fb3f455eb53f85ad4f097e30f3162c4423c385a085e98ffc8",
       "stats" : {
         "downloadCount" : 71
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
-      "version" : "2022.3.5.0",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "2022.3.6.0",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -27619,17 +27633,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "bootstrap-studio",
-      "downloadURL" : "https://bootstrapstudio.io/releases/desktop/6.2.0/Bootstrap%20Studio.dmg",
+      "downloadURL" : "https://bootstrapstudio.io/releases/desktop/6.2.1/Bootstrap%20Studio.dmg",
       "homepage" : "https://bootstrapstudio.io/",
       "localizedDescription" : "Design and prototype websites using the Bootstrap framework",
       "name" : "Bootstrap Studio",
-      "sha256" : "f4808d15f7403970e8ecd1f60173e4bbadb4ec0b21e4abc768a2ad0d1a74b6e7",
+      "sha256" : "2f504663e5ca5288acc92ee38f27b4c7ee1fb9551655c0a34707ee8207b07132",
       "stats" : {
         "downloadCount" : 53
       },
       "subtitle" : "Design and prototype websites using the Bootstrap framework",
-      "version" : "6.2.0",
-      "versionDate" : "2022-11-01T00:00:00Z"
+      "version" : "6.2.1",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -27961,8 +27975,8 @@
         "downloadCount" : 51
       },
       "subtitle" : "Store credentials in a single place and log in on any device, even when offline",
-      "version" : "4.33.7",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "4.33.9",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -29000,16 +29014,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "launchbar",
-      "downloadURL" : "https://www.obdev.at/downloads/launchbar/LaunchBar-6.15.dmg",
+      "downloadURL" : "https://www.obdev.at/downloads/launchbar/LaunchBar-6.16.dmg",
       "homepage" : "https://www.obdev.at/products/launchbar/index.html",
       "localizedDescription" : "Productivity tool",
       "name" : "LaunchBar",
-      "sha256" : "a0a7502dbe12a7cb8c86bebeaa9cffbfc6515c319d792a62bbfd4dd153404473",
+      "sha256" : "1c2051afa5150e982c347ca7652be8d6cfefe3e267c7869f74b7708e87a073e0",
       "stats" : {
         "downloadCount" : 43
       },
       "subtitle" : "Productivity tool",
-      "version" : "6.15"
+      "version" : "6.16",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -29810,7 +29825,8 @@
         "downloadCount" : 38
       },
       "subtitle" : "Test localhost and staging websites",
-      "version" : "3.5.4"
+      "version" : "3.5.5",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -29926,16 +29942,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "clamxav",
-      "downloadURL" : "https://cdn.clamxav.com/ClamXAVdownloads/ClamXAV_3.5_9386.zip",
+      "downloadURL" : "https://cdn.clamxav.com/ClamXAVdownloads/ClamXAV_3.5.1_9488.zip",
       "homepage" : "https://www.clamxav.com/",
       "localizedDescription" : "Anti-virus and malware scanner",
       "name" : "ClamXAV",
-      "sha256" : "6502158eff465d2324b772c27850f7da1ea6a7427d3d0e124b782e7ce02a9645",
+      "sha256" : "706d0f5d9b03a0ce62b41d5df20faf9df154f402e5829210042e831a0767c4ab",
       "stats" : {
         "downloadCount" : 37
       },
       "subtitle" : "Anti-virus and malware scanner",
-      "version" : "3.5,9386"
+      "version" : "3.5.1,9488",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -30983,17 +31000,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "cycling74-max",
-      "downloadURL" : "https://akiaj5esl75o5wbdcv2a-maxmspjitter.s3.amazonaws.com/Max850_221101.dmg",
+      "downloadURL" : "https://akiaj5esl75o5wbdcv2a-maxmspjitter.s3.amazonaws.com/Max851_221108.dmg",
       "homepage" : "https://cycling74.com/",
       "localizedDescription" : "Flexible space to create your own interactive software",
       "name" : "Cycling ‘74 Max",
-      "sha256" : "bfc6a122e9d3d5c6e6202413d2817f57e73dd4b722b80472e78b8705b41dfce2",
+      "sha256" : "1c5a61c0c9fbce084af9b60c1c030c059915797937b94b8ea9a1a82798fadd5f",
       "stats" : {
         "downloadCount" : 32
       },
       "subtitle" : "Flexible space to create your own interactive software",
-      "version" : "8.5.0_221101",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "8.5.1_221108",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -31544,8 +31561,8 @@
         "downloadCount" : 30
       },
       "subtitle" : "Helps keep your Craft tools up to date",
-      "version" : "1.2.9,462",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "1.3.0,465",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -31645,16 +31662,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "nomachine-enterprise-client",
-      "downloadURL" : "https://download.nomachine.com/download/8.1/MacOSX/nomachine-enterprise-client_8.1.2_1.dmg",
+      "downloadURL" : "https://download.nomachine.com/download/8.2/MacOSX/nomachine-enterprise-client_8.2.3_12.dmg",
       "homepage" : "https://www.nomachine.com/",
       "localizedDescription" : "Remote desktop software",
       "name" : "NoMachine Enterprise Client",
-      "sha256" : "72cfecc5f03505d3aa2709e524cb1afc4bee1e1c0405e354a2baf7acd9a23178",
+      "sha256" : "ffce21299f4a833b33d298578a77211cd38d67dde73c76fd73edbba040a10a52",
       "stats" : {
         "downloadCount" : 30
       },
       "subtitle" : "Remote desktop software",
-      "version" : "8.1.2_1"
+      "version" : "8.2.3_12",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -32166,16 +32184,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "languagetool",
-      "downloadURL" : "https://languagetool.org/download/mac-app/LanguageToolDesktop-0.2.4.dmg",
+      "downloadURL" : "https://languagetool.org/download/mac-app/LanguageToolDesktop-0.3.dmg",
       "homepage" : "https://languagetool.org/",
       "localizedDescription" : "Grammar, spelling and style suggestions in all the writing apps",
       "name" : "LanguageTool for Desktop",
-      "sha256" : "762d0101cc3b87e0a59a4af9babe50168dc4c42a455becda224d9cfe8a90f866",
+      "sha256" : "9e8d7cb5dbe4681e50275bf3d3b5ea30731fd710a9b45ae0286818aa9eb5c230",
       "stats" : {
         "downloadCount" : 28
       },
       "subtitle" : "Grammar, spelling and style suggestions in all the writing apps",
-      "version" : "0.2.4,31"
+      "version" : "0.3,32",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -32253,16 +32272,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://dl.xamarin.com/MonoforAndroid/Mac/xamarin.android-13.0.0.0.pkg",
+      "downloadURL" : "https://dl.xamarin.com/MonoforAndroid/Mac/xamarin.android-13.1.0.1.pkg",
       "homepage" : "https://www.xamarin.com/platform",
       "localizedDescription" : "Gives .NET developers complete access to Android SDK's",
       "name" : "Xamarin.Android",
-      "sha256" : "fcd2cf6b81f0a1d96422414ba50c16df870b3ae93912a253817d789d59b56c3e",
+      "sha256" : "a21b7c9d503d7f220b85512c9cafaa889f9a2232f11a6b55119ddee0116efa20",
       "stats" : {
         "downloadCount" : 27
       },
       "subtitle" : "Gives .NET developers complete access to Android SDK's",
-      "version" : "13.0.0.0"
+      "version" : "13.1.0.1",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -34178,16 +34198,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "ditto",
-      "downloadURL" : "https://download.airsquirrels.com/Ditto/App/Mac/Ditto-1.10.0.dmg",
+      "downloadURL" : "https://download.airsquirrels.com/Ditto/App/Mac/Ditto-1.10.1.dmg",
       "homepage" : "https://www.airsquirrels.com/ditto",
       "localizedDescription" : "Screen mirroring and digital signage",
       "name" : "Ditto",
-      "sha256" : "b7696e9d7702114330cf73f8adc9802054505f4bf999bdd9eda6f2c3ff2dd3ce",
+      "sha256" : "83353c4c268f3fd4774c67d7a2ca1a53f338f281567f0f3108bfb699f668c9f2",
       "stats" : {
         "downloadCount" : 22
       },
       "subtitle" : "Screen mirroring and digital signage",
-      "version" : "1.10.0,1713"
+      "version" : "1.10.1,1722",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -34800,7 +34821,8 @@
         "downloadCount" : 21
       },
       "subtitle" : "Data science platform",
-      "version" : "9.10.11"
+      "version" : "10.0.0",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -36522,8 +36544,8 @@
         "downloadCount" : 17
       },
       "subtitle" : "Collection of small computer programs which implement one-player puzzle games",
-      "version" : "20221102.289342e",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "20221108.fba22f0",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -38362,17 +38384,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "pitch",
-      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.99.0-stable.5-ci4853186.dmg",
+      "downloadURL" : "https://desktop-app-builds.pitch.com/Pitch-1.100.0-stable.1-ci4857576.dmg",
       "homepage" : "https://pitch.com/",
       "localizedDescription" : "Collaborative presentation software",
       "name" : "Pitch",
-      "sha256" : "9161ab9660104e6e21606b872a376e687c604304359ce950eac8eed3d9d3ceae",
+      "sha256" : "8a5343fb7faeec9c48917f40271aed4c4fbfe5f12a87b78604d29c05e903fcb6",
       "stats" : {
         "downloadCount" : 14
       },
       "subtitle" : "Collaborative presentation software",
-      "version" : "1.99.0,stable.5,4853186",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "1.100.0,stable.1,4857576",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -40932,17 +40954,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "clay",
-      "downloadURL" : "https://assets.clay.earth/desktop/mac/Clay-2.1.7-universal.dmg",
+      "downloadURL" : "https://assets.clay.earth/desktop/mac/Clay-2.1.8-universal.dmg",
       "homepage" : "https://clay.earth/",
       "localizedDescription" : "Private rolodex to remember people better",
       "name" : "clay",
-      "sha256" : "947612ed2f7f36c1eee65ac96be06e1c3fecb77b2c3645ed8d3bf8430c9d26d0",
+      "sha256" : "a122d84416ecf7ab6b3df631b03b3d3b834478d1d67c530469d1c2141518db8b",
       "stats" : {
         "downloadCount" : 10
       },
       "subtitle" : "Private rolodex to remember people better",
-      "version" : "2.1.7",
-      "versionDate" : "2022-11-08T00:00:00Z"
+      "version" : "2.1.8",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -41087,8 +41109,8 @@
         "downloadCount" : 10
       },
       "subtitle" : "Advanced directory compare utility",
-      "version" : "4.5,45002",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "4.5,45010",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -45073,13 +45095,13 @@
       "homepage" : "https://jumpshare.com/",
       "localizedDescription" : "File sharing, screen recording, and screenshot capture app",
       "name" : "Jumpshare",
-      "sha256" : "eea0a8df44d40db846703fb4d4e11277f61d5c195bf02c079f479334ad159c15",
+      "sha256" : "08fb615f2b62fae3c7eb47f23b2501dec968e9d8be40ef6b2cf48ed09d16df06",
       "stats" : {
         "downloadCount" : 7
       },
       "subtitle" : "File sharing, screen recording, and screenshot capture app",
-      "version" : "3.2.5,140",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "3.2.5,142",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -45988,17 +46010,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "archy",
-      "downloadURL" : "https://sdk-cdn.mypurecloud.com/archy/2.15.0/archy-macos.zip",
+      "downloadURL" : "https://sdk-cdn.mypurecloud.com/archy/2.15.1/archy-macos.zip",
       "homepage" : "https://developer.genesys.cloud/devapps/archy/",
       "localizedDescription" : "YAML processor",
       "name" : "Archy",
-      "sha256" : "ccac0a1d07e59f09821ac8820ea1baf5e5b568d2508b0f5097bbaa45c3a9530a",
+      "sha256" : "bee1c65d9e4d083f94229620f44c9e4953a1d1d45e2287482cb20bf631c438e0",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "YAML processor",
-      "version" : "2.15.0",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "2.15.1",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -46078,8 +46100,8 @@
         "downloadCount" : 6
       },
       "subtitle" : "Universal chat app powered by Matrix, unifying 15 different chat networks",
-      "version" : "3.31.14",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "3.32.15",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -47373,7 +47395,8 @@
         "downloadCount" : 5
       },
       "subtitle" : "Client for the Zoho cloud storage service",
-      "version" : "2.6.53"
+      "version" : "2.6.57",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -48613,17 +48636,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "mailbutler",
-      "downloadURL" : "https://downloads.mailbutler.io/sparkle/public/Mailbutler_5728-2536752.zip",
+      "downloadURL" : "https://downloads.mailbutler.io/sparkle/public/Mailbutler_5808-2552558.zip",
       "homepage" : "https://www.mailbutler.io/",
       "localizedDescription" : "Personal assistant and productivity tool for Apple Mail",
       "name" : "Mailbutler",
-      "sha256" : "f60c93a5a063afc11a5072c1080fed4715400be3b9f0ee043c72d88541b55b3e",
+      "sha256" : "cf3e76c31dda76b1a914519bd7086827a52fb825d1a6248a81e5b36d614b62bd",
       "stats" : {
         "downloadCount" : 5
       },
       "subtitle" : "Personal assistant and productivity tool for Apple Mail",
-      "version" : "5728,2536752",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5808,2552558",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -50226,17 +50249,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "foxglove-studio",
-      "downloadURL" : "https://github.com/foxglove/studio/releases/download/v1.30.0/foxglove-studio-1.30.0-mac-universal.dmg",
+      "downloadURL" : "https://github.com/foxglove/studio/releases/download/v1.31.0/foxglove-studio-1.31.0-mac-universal.dmg",
       "homepage" : "https://foxglove.dev/",
       "localizedDescription" : "Visualization and debugging tool for robotics",
       "name" : "Foxglove Studio",
-      "sha256" : "9de18daa84dc936dd5a3c50c923747d484ab6d6bcf7598fc02526cd9dd2abba7",
+      "sha256" : "f831d6a07b2d6ba38308ae544e9a99e3d0b2f01080d7767c24827dae2adef7b5",
       "stats" : {
         "downloadCount" : 4
       },
       "subtitle" : "Visualization and debugging tool for robotics",
-      "version" : "1.30.0",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "1.31.0",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -56745,17 +56768,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "remotion",
-      "downloadURL" : "https://updates.remotion.com/installers/Remotion%201.97.2.dmg",
+      "downloadURL" : "https://updates.remotion.com/installers/Remotion%201.98.1.dmg",
       "homepage" : "https://www.remotion.com/",
       "localizedDescription" : "Communication tool for remote teams",
       "name" : "remotion",
-      "sha256" : "3b90b922cbf954bbe53e3b61c4a36eb0c1c21611eddcd257a1bf7a332b2b3c88",
+      "sha256" : "b23f859ecd95d0b4b0fc0b052758becac6adf5c4b15d64e6b220c64963d4650a",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Communication tool for remote teams",
-      "version" : "1.97.2",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "1.98.1",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -58012,16 +58035,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "fme",
-      "downloadURL" : "https://downloads.safe.com/fme/2022/fme-desktop-2022.1.3-b22630-macosx.pkg",
+      "downloadURL" : "https://downloads.safe.com/fme/2022/fme-desktop-2022.2-b22765-macosx-x64.pkg",
       "homepage" : "https://www.safe.com/",
       "localizedDescription" : "Platform for integrating spatial data",
       "name" : "FME Desktop",
-      "sha256" : "4756a1bfbd6478dcdfbd2a1ddffd460672f8f326d5f7d5b7c1d680af376a7547",
+      "sha256" : "c2021613f7ee0df4deccc6e63f9caeb65d8e6d8230e463c94b91b1b75b6215c3",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "Platform for integrating spatial data",
-      "version" : "2022.1.3,22630"
+      "version" : "2022.2,22765",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -58065,16 +58089,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gifox",
-      "downloadURL" : "https://d3si16icyi9iar.cloudfront.net/gifox/020402.00.dmg",
+      "downloadURL" : "https://d1fqctmfkpkkcg.cloudfront.net/gifox/020500.00.dmg",
       "homepage" : "https://gifox.io/",
       "localizedDescription" : "App to record the screen",
       "name" : "gifox",
-      "sha256" : "1360a03e6710f9d2aa5f789e2110e3e10d3c581f6524b82c7c1077287912953d",
+      "sha256" : "2321f5bfe47a3b0f10abab379745b2078e65f4b997497f9789fac2c8f15cf348",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "App to record the screen",
-      "version" : "2.4.2,020402.00"
+      "version" : "2.5.0,020500.00",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -60116,17 +60141,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "compositor",
-      "downloadURL" : "https://compositorapp.com/updates/Compositor_1.20.3.zip",
+      "downloadURL" : "https://compositorapp.com/updates/Compositor_1.20.4.zip",
       "homepage" : "https://compositorapp.com/",
       "localizedDescription" : "WYSIWYG LaTeX editor",
       "name" : "Compositor",
-      "sha256" : "3f6ff8d2111445fcf255f83525a321b2d47613c41ca25e984d8f5c2a39a22ddc",
+      "sha256" : "730fba8d2ed0cd32908a5ca201d3bcc0bb5a5289e65e522bff19d33fdef4c0b4",
       "stats" : {
         "downloadCount" : 0
       },
       "subtitle" : "WYSIWYG LaTeX editor",
-      "version" : "1.20.3",
-      "versionDate" : "2022-11-08T00:00:00Z"
+      "version" : "1.20.4",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -60177,7 +60202,8 @@
         "downloadCount" : 0
       },
       "subtitle" : "Visualize crystal and molecular structures",
-      "version" : "10.8.0"
+      "version" : "10.8.1",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -61692,17 +61718,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "purei-play",
-      "downloadURL" : "https://s3.us-east-2.amazonaws.com/playbuilds/094bce99/Play.dmg",
+      "downloadURL" : "https://s3.us-east-2.amazonaws.com/playbuilds/9b6efac3/Play.dmg",
       "homepage" : "https://purei.org/",
       "localizedDescription" : "PlayStation 2 emulator",
       "name" : "Play!",
-      "sha256" : "df729a599c0cad89e978b5021ee73ccecd1a45433c930432ddf357b31446e45a",
+      "sha256" : "03aa3e5e38371714061368b94b85d7b81abcc0ee96b3c4a2d6b673b24d5eb45f",
       "stats" : {
         "downloadCount" : 0
       },
       "subtitle" : "PlayStation 2 emulator",
-      "version" : "2022-11-03,094bce99",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "2022-11-07,9b6efac3",
+      "versionDate" : "2022-11-08T21:35:31Z"
     },
     {
       "beta" : false,
@@ -62171,356 +62197,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "session",
-      "caption" : "Session updated from 1.10.3 to 1.10.4",
-      "date" : "2022-11-07T17:42:43Z",
-      "identifier" : "release-session-1.10.4",
-      "title" : "New Release: Session 1.10.4"
-    },
-    {
-      "appID" : "simplemind",
-      "caption" : "SimpleMind updated from 1.32.0,b2585 to 1.32.1,b2610",
-      "date" : "2022-11-07T17:42:43Z",
-      "identifier" : "release-simplemind-1.32.1,b2610",
-      "title" : "New Release: SimpleMind 1.32.1,b2610"
-    },
-    {
-      "appID" : "swifty",
-      "caption" : "Swifty updated from 0.6.8 to 0.6.9",
-      "date" : "2022-11-07T17:42:43Z",
-      "identifier" : "release-swifty-0.6.9",
-      "title" : "New Release: Swifty 0.6.9"
-    },
-    {
-      "appID" : "kitty",
-      "caption" : "kitty updated from 0.26.4 to 0.26.5",
-      "date" : "2022-11-07T17:42:44Z",
-      "identifier" : "release-kitty-0.26.5",
-      "title" : "New Release: kitty 0.26.5"
-    },
-    {
-      "appID" : "metasploit",
-      "caption" : "Metasploit Framework updated from 6.2.26,20221106112913 to 6.2.26,20221107112952",
-      "date" : "2022-11-07T17:42:44Z",
-      "identifier" : "release-metasploit-6.2.26,20221107112952",
-      "title" : "New Release: Metasploit Framework 6.2.26,20221107112952"
-    },
-    {
-      "appID" : "deepl",
-      "caption" : "DeepL updated from 3.7.277083 to 3.7.292629",
-      "date" : "2022-11-07T17:42:44Z",
-      "identifier" : "release-deepl-3.7.292629",
-      "title" : "New Release: DeepL 3.7.292629"
-    },
-    {
-      "appID" : "neovide",
-      "caption" : "neovide updated from 0.10.2 to 0.10.3",
-      "date" : "2022-11-07T17:42:45Z",
-      "identifier" : "release-neovide-0.10.3",
-      "title" : "New Release: neovide 0.10.3"
-    },
-    {
-      "appID" : "pritunl",
-      "caption" : "Pritunl updated from 1.3.3329.81 to 1.3.3343.50",
-      "date" : "2022-11-07T17:42:45Z",
-      "identifier" : "release-pritunl-1.3.3343.50",
-      "title" : "New Release: Pritunl 1.3.3343.50"
-    },
-    {
-      "appID" : "duckduckgo",
-      "caption" : "DuckDuckGo updated from 0.30.5 to 0.30.6",
-      "date" : "2022-11-07T17:42:45Z",
-      "identifier" : "release-duckduckgo-0.30.6",
-      "title" : "New Release: DuckDuckGo 0.30.6"
-    },
-    {
-      "appID" : "mqttx",
-      "caption" : "MQTTX updated from 1.8.3 to 1.9.0",
-      "date" : "2022-11-07T17:42:46Z",
-      "identifier" : "release-mqttx-1.9.0",
-      "title" : "New Release: MQTTX 1.9.0"
-    },
-    {
-      "appID" : "feishu",
-      "caption" : "feishu updated from 5.23.7,547c7bd7 to 5.24.9,25896b26",
-      "date" : "2022-11-07T17:42:46Z",
-      "identifier" : "release-feishu-5.24.9,25896b26",
-      "title" : "New Release: feishu 5.24.9,25896b26"
-    },
-    {
-      "appID" : "hackintool",
-      "caption" : "Hackintool updated from 3.9.0 to 3.9.1",
-      "date" : "2022-11-07T17:42:46Z",
-      "identifier" : "release-hackintool-3.9.1",
-      "title" : "New Release: Hackintool 3.9.1"
-    },
-    {
-      "appID" : "cog",
-      "caption" : "Cog updated from 2713,c627a9fc to 2714,364f1333",
-      "date" : "2022-11-07T17:42:47Z",
-      "identifier" : "release-cog-2714,364f1333",
-      "title" : "New Release: Cog 2714,364f1333"
-    },
-    {
-      "appID" : "geogebra",
-      "caption" : "GeoGebra updated from 6.0.741.0 to 6.0.742.0",
-      "date" : "2022-11-07T17:42:47Z",
-      "identifier" : "release-geogebra-6.0.742.0",
-      "title" : "New Release: GeoGebra 6.0.742.0"
-    },
-    {
-      "appID" : "freeplane",
-      "caption" : "Freeplane updated from 1.10.4 to 1.10.5",
-      "date" : "2022-11-07T17:42:48Z",
-      "identifier" : "release-freeplane-1.10.5",
-      "title" : "New Release: Freeplane 1.10.5"
-    },
-    {
-      "appID" : "gzdoom",
-      "caption" : "GZDoom updated from 4.8.2 to 4.9.0",
-      "date" : "2022-11-07T17:42:48Z",
-      "identifier" : "release-gzdoom-4.9.0",
-      "title" : "New Release: GZDoom 4.9.0"
-    },
-    {
-      "appID" : "mi",
-      "caption" : "mi updated from 3.7,1190 to 3.7.1,1200",
-      "date" : "2022-11-07T17:42:48Z",
-      "identifier" : "release-mi-3.7.1,1200",
-      "title" : "New Release: mi 3.7.1,1200"
-    },
-    {
-      "appID" : "postman-cli",
-      "caption" : "Postman CLI updated from 1.0.6 to 1.0.7",
-      "date" : "2022-11-07T17:42:49Z",
-      "identifier" : "release-postman-cli-1.0.7",
-      "title" : "New Release: Postman CLI 1.0.7"
-    },
-    {
-      "appID" : "portfolioperformance",
-      "caption" : "Portfolio Performance updated from 0.59.2 to 0.59.3",
-      "date" : "2022-11-07T17:42:49Z",
-      "identifier" : "release-portfolioperformance-0.59.3",
-      "title" : "New Release: Portfolio Performance 0.59.3"
-    },
-    {
-      "appID" : "bettermouse",
-      "caption" : "BetterMouse updated from 1.4.2677 to 1.4.2762",
-      "date" : "2022-11-07T17:42:49Z",
-      "identifier" : "release-bettermouse-1.4.2762",
-      "title" : "New Release: BetterMouse 1.4.2762"
-    },
-    {
-      "appID" : "glyphs",
-      "caption" : "Glyphs updated from 3.1.1,3143 to 3.1.1,3144",
-      "date" : "2022-11-07T17:42:50Z",
-      "identifier" : "release-glyphs-3.1.1,3144",
-      "title" : "New Release: Glyphs 3.1.1,3144"
-    },
-    {
-      "appID" : "balsamiq-wireframes",
-      "caption" : "Balsamiq Wireframes updated from 4.6.1 to 4.6.2",
-      "date" : "2022-11-07T17:42:50Z",
-      "identifier" : "release-balsamiq-wireframes-4.6.2",
-      "title" : "New Release: Balsamiq Wireframes 4.6.2"
-    },
-    {
-      "appID" : "ringcentral",
-      "caption" : "RingCentral updated from 22.3.30 to 22.3.35",
-      "date" : "2022-11-07T17:42:50Z",
-      "identifier" : "release-ringcentral-22.3.35",
-      "title" : "New Release: RingCentral 22.3.35"
-    },
-    {
-      "appID" : "insync",
-      "caption" : "Insync updated from 3.7.14.50440 to 3.8.0.50453",
-      "date" : "2022-11-07T17:42:50Z",
-      "identifier" : "release-insync-3.8.0.50453",
-      "title" : "New Release: Insync 3.8.0.50453"
-    },
-    {
-      "appID" : "adobe-connect",
-      "caption" : "Adobe Connect updated from 11,2022.7.183 to 11,2022.10.42",
-      "date" : "2022-11-07T17:42:51Z",
-      "identifier" : "release-adobe-connect-11,2022.10.42",
-      "title" : "New Release: Adobe Connect 11,2022.10.42"
-    },
-    {
-      "appID" : "appgate-sdp-client",
-      "caption" : "AppGate SDP Client for macOS updated from 6.0.2 to 6.0.3",
-      "date" : "2022-11-07T17:42:51Z",
-      "identifier" : "release-appgate-sdp-client-6.0.3",
-      "title" : "New Release: AppGate SDP Client for macOS 6.0.3"
-    },
-    {
-      "appID" : "gpxsee",
-      "caption" : "GPXSee updated from 11.6 to 11.7",
-      "date" : "2022-11-07T17:42:51Z",
-      "identifier" : "release-gpxsee-11.7",
-      "title" : "New Release: GPXSee 11.7"
-    },
-    {
-      "appID" : "publii",
-      "caption" : "Publii updated from 0.41.0 to 0.41.1",
-      "date" : "2022-11-07T17:42:52Z",
-      "identifier" : "release-publii-0.41.1",
-      "title" : "New Release: Publii 0.41.1"
-    },
-    {
-      "appID" : "pitch",
-      "caption" : "Pitch updated from 1.99.0,stable.4,4847989 to 1.99.0,stable.5,4853186",
-      "date" : "2022-11-07T17:42:52Z",
-      "identifier" : "release-pitch-1.99.0,stable.5,4853186",
-      "title" : "New Release: Pitch 1.99.0,stable.5,4853186"
-    },
-    {
-      "appID" : "asciidocfx",
-      "caption" : "AsciidocFX updated from 1.8.1 to 1.8.2",
-      "date" : "2022-11-07T17:42:52Z",
-      "identifier" : "release-asciidocfx-1.8.2",
-      "title" : "New Release: AsciidocFX 1.8.2"
-    },
-    {
-      "appID" : "oxygen-xml-editor",
-      "caption" : "oXygen XML Editor updated from 25.0,2022101006 to 25.0,2022110706",
-      "date" : "2022-11-07T17:42:53Z",
-      "identifier" : "release-oxygen-xml-editor-25.0,2022110706",
-      "title" : "New Release: oXygen XML Editor 25.0,2022110706"
-    },
-    {
-      "appID" : "jumpshare",
-      "caption" : "Jumpshare updated from 3.2.4,138 to 3.2.5,140",
-      "date" : "2022-11-07T17:42:53Z",
-      "identifier" : "release-jumpshare-3.2.5,140",
-      "title" : "New Release: Jumpshare 3.2.5,140"
-    },
-    {
-      "appID" : "fmail2",
-      "caption" : "fmail2 updated from 1.3.0,31 to 1.3.1,32",
-      "date" : "2022-11-07T17:42:53Z",
-      "identifier" : "release-fmail2-1.3.1,32",
-      "title" : "New Release: fmail2 1.3.1,32"
-    },
-    {
-      "appID" : "logmein-client",
-      "caption" : "LogMeIn Client updated from 4.1.7806,4.1.0.7806 to 4.1.7818,4.1.0.7818",
-      "date" : "2022-11-07T17:42:54Z",
-      "identifier" : "release-logmein-client-4.1.7818,4.1.0.7818",
-      "title" : "New Release: LogMeIn Client 4.1.7818,4.1.0.7818"
-    },
-    {
-      "appID" : "slite",
-      "caption" : "Slite updated from 1.2.15 to 1.2.16",
-      "date" : "2022-11-07T17:42:54Z",
-      "identifier" : "release-slite-1.2.16",
-      "title" : "New Release: Slite 1.2.16"
-    },
-    {
-      "appID" : "archy",
-      "caption" : "Archy updated from 2.14.0 to 2.15.0",
-      "date" : "2022-11-07T17:42:54Z",
-      "identifier" : "release-archy-2.15.0",
-      "title" : "New Release: Archy 2.15.0"
-    },
-    {
-      "appID" : "bankid",
-      "caption" : "BankID updated from 7.13.0 to 7.13.1",
-      "date" : "2022-11-07T17:42:54Z",
-      "identifier" : "release-bankid-7.13.1",
-      "title" : "New Release: BankID 7.13.1"
-    },
-    {
-      "appID" : "alfaview",
-      "caption" : "Alfaview updated from 8.56.0 to 8.57.0",
-      "date" : "2022-11-07T17:42:54Z",
-      "identifier" : "release-alfaview-8.57.0",
-      "title" : "New Release: Alfaview 8.57.0"
-    },
-    {
-      "appID" : "pichon",
-      "caption" : "Pichon updated from 1.2.1,25 to 1.2.2,26",
-      "date" : "2022-11-07T17:42:55Z",
-      "identifier" : "release-pichon-1.2.2,26",
-      "title" : "New Release: Pichon 1.2.2,26"
-    },
-    {
-      "appID" : "polkadot-js",
-      "caption" : "polkadot{.js} updated from 0.121.1 to 0.122.2",
-      "date" : "2022-11-07T17:42:55Z",
-      "identifier" : "release-polkadot-js-0.122.2",
-      "title" : "New Release: polkadot{.js} 0.122.2"
-    },
-    {
-      "appID" : "roboform",
-      "caption" : "RoboForm updated from 9.3.7 to 9.3.8",
-      "date" : "2022-11-07T17:42:56Z",
-      "identifier" : "release-roboform-9.3.8",
-      "title" : "New Release: RoboForm 9.3.8"
-    },
-    {
-      "appID" : "lrtimelapse",
-      "caption" : "LRTimelapse updated from 6.2.0 to 6.2.1",
-      "date" : "2022-11-07T17:42:56Z",
-      "identifier" : "release-lrtimelapse-6.2.1",
-      "title" : "New Release: LRTimelapse 6.2.1"
-    },
-    {
-      "appID" : "mixed-in-key-live",
-      "caption" : "Mixed In Key Live updated from 10.0.1.248 to 10.0.2.253",
-      "date" : "2022-11-07T17:42:56Z",
-      "identifier" : "release-mixed-in-key-live-10.0.2.253",
-      "title" : "New Release: Mixed In Key Live 10.0.2.253"
-    },
-    {
-      "appID" : "etrecheckpro",
-      "caption" : "EtreCheck updated from 6.7.1 to 6.7.2",
-      "date" : "2022-11-07T19:32:16Z",
-      "identifier" : "release-etrecheckpro-6.7.2",
-      "title" : "New Release: EtreCheck 6.7.2"
-    },
-    {
-      "appID" : "lens",
-      "caption" : "Lens updated from 2022.11.41813 to 2022.11.71638",
-      "date" : "2022-11-07T20:40:14Z",
-      "identifier" : "release-lens-2022.11.71638",
-      "title" : "New Release: Lens 2022.11.71638"
-    },
-    {
-      "appID" : "messenger",
-      "caption" : "Facebook Messenger updated from 167.0.0.18.104,413536004 to 168.0.0.24.90,415453343",
-      "date" : "2022-11-07T20:40:15Z",
-      "identifier" : "release-messenger-168.0.0.24.90,415453343",
-      "title" : "New Release: Facebook Messenger 168.0.0.24.90,415453343"
-    },
-    {
-      "appID" : "unison",
-      "caption" : "Unison updated from 2.52.1,4.14.0 to 2.53.0,4.14.0",
-      "date" : "2022-11-07T21:36:23Z",
-      "identifier" : "release-unison-2.53.0,4.14.0",
-      "title" : "New Release: Unison 2.53.0,4.14.0"
-    },
-    {
-      "appID" : "usenapp",
-      "caption" : "Usenapp updated from 1.23,361 to 1.24,362",
-      "date" : "2022-11-07T21:36:23Z",
-      "identifier" : "release-usenapp-1.24,362",
-      "title" : "New Release: Usenapp 1.24,362"
-    },
-    {
-      "appID" : "zoom",
-      "caption" : "Zoom.us updated from 5.12.3.11845 to 5.12.6.12435",
-      "date" : "2022-11-07T21:36:24Z",
-      "identifier" : "release-zoom-5.12.6.12435",
-      "title" : "New Release: Zoom.us 5.12.6.12435"
-    },
-    {
-      "appID" : "switchresx",
-      "caption" : "SwitchResX updated from 4.12.1 to 4.12.2",
-      "date" : "2022-11-07T21:36:24Z",
-      "identifier" : "release-switchresx-4.12.2",
-      "title" : "New Release: SwitchResX 4.12.2"
-    },
-    {
       "appID" : "tiger-trade",
       "caption" : "Tiger Trade updated from 8.0.2,9C95FD to 8.0.3,A87D08",
       "date" : "2022-11-07T21:36:25Z",
@@ -62717,13 +62393,6 @@
       "title" : "New Release: Prowlarr 0.4.8.2072"
     },
     {
-      "appID" : "clay",
-      "caption" : "clay updated from 2.1.5 to 2.1.7",
-      "date" : "2022-11-08T06:45:00Z",
-      "identifier" : "release-clay-2.1.7",
-      "title" : "New Release: clay 2.1.7"
-    },
-    {
       "appID" : "jquake",
       "caption" : "JQuake updated from 1.8.1 to 1.8.2",
       "date" : "2022-11-08T06:45:00Z",
@@ -62771,13 +62440,6 @@
       "date" : "2022-11-08T06:45:01Z",
       "identifier" : "release-photo-supreme-single-user-7.4.1.4621",
       "title" : "New Release: Photo Supreme Single User 7.4.1.4621"
-    },
-    {
-      "appID" : "compositor",
-      "caption" : "Compositor updated from 1.20.2 to 1.20.3",
-      "date" : "2022-11-08T06:45:02Z",
-      "identifier" : "release-compositor-1.20.3",
-      "title" : "New Release: Compositor 1.20.3"
     },
     {
       "appID" : "aircall",
@@ -62869,6 +62531,370 @@
       "date" : "2022-11-08T19:41:22Z",
       "identifier" : "release-fsnotes-6.0.3",
       "title" : "New Release: FSNotes 6.0.3"
+    },
+    {
+      "appID" : "telegram-desktop",
+      "caption" : "Telegram Desktop updated from 4.3.0 to 4.3.1",
+      "date" : "2022-11-08T21:35:32Z",
+      "identifier" : "release-telegram-desktop-4.3.1",
+      "title" : "New Release: Telegram Desktop 4.3.1"
+    },
+    {
+      "appID" : "visual-studio",
+      "caption" : "Microsoft Visual Studio updated from 17.3.8.4 to 17.4.0.445,2d54b9b7-b1ca-46a5-b018-1e368bc5a574,ddadd52e7c6e8a15b6d7c57531bc1375",
+      "date" : "2022-11-08T21:35:32Z",
+      "identifier" : "release-visual-studio-17.4.0.445,2d54b9b7-b1ca-46a5-b018-1e368bc5a574,ddadd52e7c6e8a15b6d7c57531bc1375",
+      "title" : "New Release: Microsoft Visual Studio 17.4.0.445,2d54b9b7-b1ca-46a5-b018-1e368bc5a574,ddadd52e7c6e8a15b6d7c57531bc1375"
+    },
+    {
+      "appID" : "surfshark",
+      "caption" : "Surfshark updated from 4.4.2,1423 to 4.5.0,1436",
+      "date" : "2022-11-08T21:35:32Z",
+      "identifier" : "release-surfshark-4.5.0,1436",
+      "title" : "New Release: Surfshark 4.5.0,1436"
+    },
+    {
+      "appID" : "wifi-explorer",
+      "caption" : "WiFi Explorer updated from 3.3.6,51 to 3.4,53",
+      "date" : "2022-11-08T21:35:33Z",
+      "identifier" : "release-wifi-explorer-3.4,53",
+      "title" : "New Release: WiFi Explorer 3.4,53"
+    },
+    {
+      "appID" : "shadow",
+      "caption" : "Shadow updated from 5.0.1168.9369 to 8.0.10018.10014",
+      "date" : "2022-11-08T21:35:34Z",
+      "identifier" : "release-shadow-8.0.10018.10014",
+      "title" : "New Release: Shadow 8.0.10018.10014"
+    },
+    {
+      "appID" : "sonic-visualiser",
+      "caption" : "Sonic Visualiser updated from 4.5,2824 to 4.5.1,2843",
+      "date" : "2022-11-08T21:35:34Z",
+      "identifier" : "release-sonic-visualiser-4.5.1,2843",
+      "title" : "New Release: Sonic Visualiser 4.5.1,2843"
+    },
+    {
+      "appID" : "siyuan",
+      "caption" : "SiYuan updated from 2.4.10 to 2.4.11",
+      "date" : "2022-11-08T21:35:34Z",
+      "identifier" : "release-siyuan-2.4.11",
+      "title" : "New Release: SiYuan 2.4.11"
+    },
+    {
+      "appID" : "swifty",
+      "caption" : "Swifty updated from 0.6.9 to 0.6.10",
+      "date" : "2022-11-08T21:35:35Z",
+      "identifier" : "release-swifty-0.6.10",
+      "title" : "New Release: Swifty 0.6.10"
+    },
+    {
+      "appID" : "webex",
+      "caption" : "Webex Teams updated from 42.10.0.23814 to 42.11.0.24187",
+      "date" : "2022-11-08T21:35:35Z",
+      "identifier" : "release-webex-42.11.0.24187",
+      "title" : "New Release: Webex Teams 42.11.0.24187"
+    },
+    {
+      "appID" : "xmind",
+      "caption" : "XMind updated from 22.10.0636 to 22.10.0927",
+      "date" : "2022-11-08T21:35:35Z",
+      "identifier" : "release-xmind-22.10.0927",
+      "title" : "New Release: XMind 22.10.0927"
+    },
+    {
+      "appID" : "figma",
+      "caption" : "Figma updated from 116.5.15 to 116.5.17",
+      "date" : "2022-11-08T21:35:35Z",
+      "identifier" : "release-figma-116.5.17",
+      "title" : "New Release: Figma 116.5.17"
+    },
+    {
+      "appID" : "dotnet-sdk",
+      "caption" : ".NET SDK updated from 6.0.402,f55a179b-7084-41b9-98e3-408a3c317158,5445f9e747fa29ce0be3240017d28322 to 7.0.100,11810c49-a615-40ec-b869-2eb2eae30f7b,4b0b7700fa0e8307b5f99c1d372d95bb",
+      "date" : "2022-11-08T21:35:36Z",
+      "identifier" : "release-dotnet-sdk-7.0.100,11810c49-a615-40ec-b869-2eb2eae30f7b,4b0b7700fa0e8307b5f99c1d372d95bb",
+      "title" : "New Release: .NET SDK 7.0.100,11810c49-a615-40ec-b869-2eb2eae30f7b,4b0b7700fa0e8307b5f99c1d372d95bb"
+    },
+    {
+      "appID" : "dotnet",
+      "caption" : ".Net Runtime updated from 6.0.10,1cf60908-695c-4d98-a502-47ba21c9f9bf,8163b98d2c2a4f725af448adbe1047a7 to 7.0.0,79e87fe7-1e4d-4128-b655-2af302df2d3f,30f2bbf3f79f6b790cd918c425b9e1ea",
+      "date" : "2022-11-08T21:35:36Z",
+      "identifier" : "release-dotnet-7.0.0,79e87fe7-1e4d-4128-b655-2af302df2d3f,30f2bbf3f79f6b790cd918c425b9e1ea",
+      "title" : "New Release: .Net Runtime 7.0.0,79e87fe7-1e4d-4128-b655-2af302df2d3f,30f2bbf3f79f6b790cd918c425b9e1ea"
+    },
+    {
+      "appID" : "metasploit",
+      "caption" : "Metasploit Framework updated from 6.2.26,20221107112952 to 6.2.26,20221108112941",
+      "date" : "2022-11-08T21:35:36Z",
+      "identifier" : "release-metasploit-6.2.26,20221108112941",
+      "title" : "New Release: Metasploit Framework 6.2.26,20221108112941"
+    },
+    {
+      "appID" : "browserosaurus",
+      "caption" : "Browserosaurus updated from 19.1.0 to 19.2.0",
+      "date" : "2022-11-08T21:35:36Z",
+      "identifier" : "release-browserosaurus-19.2.0",
+      "title" : "New Release: Browserosaurus 19.2.0"
+    },
+    {
+      "appID" : "lunar",
+      "caption" : "Lunar updated from 5.7.9 to 5.8.0",
+      "date" : "2022-11-08T21:35:36Z",
+      "identifier" : "release-lunar-5.8.0",
+      "title" : "New Release: Lunar 5.8.0"
+    },
+    {
+      "appID" : "rider",
+      "caption" : "JetBrains Rider updated from 2022.2.3,222.4167.23 to 2022.2.4,222.4459.9",
+      "date" : "2022-11-08T21:35:37Z",
+      "identifier" : "release-rider-2022.2.4,222.4459.9",
+      "title" : "New Release: JetBrains Rider 2022.2.4,222.4459.9"
+    },
+    {
+      "appID" : "parallels-virtualization-sdk",
+      "caption" : "Parallels Virtualization SDK updated from 18.0.2-53077 to 18.1.0-53311",
+      "date" : "2022-11-08T21:35:37Z",
+      "identifier" : "release-parallels-virtualization-sdk-18.1.0-53311",
+      "title" : "New Release: Parallels Virtualization SDK 18.1.0-53311"
+    },
+    {
+      "appID" : "unity",
+      "caption" : "Unity Editor updated from 2022.1.20f1,01d83b40d570 to 2022.1.21f1,9ac1ff5ca45b",
+      "date" : "2022-11-08T21:35:37Z",
+      "identifier" : "release-unity-2022.1.21f1,9ac1ff5ca45b",
+      "title" : "New Release: Unity Editor 2022.1.21f1,9ac1ff5ca45b"
+    },
+    {
+      "appID" : "nomachine",
+      "caption" : "NoMachine updated from 8.1.2_1 to 8.2.3_12",
+      "date" : "2022-11-08T21:35:37Z",
+      "identifier" : "release-nomachine-8.2.3_12",
+      "title" : "New Release: NoMachine 8.2.3_12"
+    },
+    {
+      "appID" : "chirp",
+      "caption" : "CHIRP updated from 20221025 to 20221108",
+      "date" : "2022-11-08T21:35:38Z",
+      "identifier" : "release-chirp-20221108",
+      "title" : "New Release: CHIRP 20221108"
+    },
+    {
+      "appID" : "parallels-toolbox",
+      "caption" : "Parallels Toolbox updated from 6.0.0-4536 to 6.0.1-4541",
+      "date" : "2022-11-08T21:35:39Z",
+      "identifier" : "release-parallels-toolbox-6.0.1-4541",
+      "title" : "New Release: Parallels Toolbox 6.0.1-4541"
+    },
+    {
+      "appID" : "gns3",
+      "caption" : "GNS3 updated from 2.2.34 to 2.2.35",
+      "date" : "2022-11-08T21:35:39Z",
+      "identifier" : "release-gns3-2.2.35",
+      "title" : "New Release: GNS3 2.2.35"
+    },
+    {
+      "appID" : "remote-desktop-manager",
+      "caption" : "Remote Desktop Manager updated from 2022.3.5.0 to 2022.3.6.0",
+      "date" : "2022-11-08T21:35:39Z",
+      "identifier" : "release-remote-desktop-manager-2022.3.6.0",
+      "title" : "New Release: Remote Desktop Manager 2022.3.6.0"
+    },
+    {
+      "appID" : "bootstrap-studio",
+      "caption" : "Bootstrap Studio updated from 6.2.0 to 6.2.1",
+      "date" : "2022-11-08T21:35:39Z",
+      "identifier" : "release-bootstrap-studio-6.2.1",
+      "title" : "New Release: Bootstrap Studio 6.2.1"
+    },
+    {
+      "appID" : "nordpass",
+      "caption" : "NordPass updated from 4.33.7 to 4.33.9",
+      "date" : "2022-11-08T21:35:40Z",
+      "identifier" : "release-nordpass-4.33.9",
+      "title" : "New Release: NordPass 4.33.9"
+    },
+    {
+      "appID" : "launchbar",
+      "caption" : "LaunchBar updated from 6.15 to 6.16",
+      "date" : "2022-11-08T21:35:40Z",
+      "identifier" : "release-launchbar-6.16",
+      "title" : "New Release: LaunchBar 6.16"
+    },
+    {
+      "appID" : "browserstacklocal",
+      "caption" : "BrowserStack Local Testing updated from 3.5.4 to 3.5.5",
+      "date" : "2022-11-08T21:35:40Z",
+      "identifier" : "release-browserstacklocal-3.5.5",
+      "title" : "New Release: BrowserStack Local Testing 3.5.5"
+    },
+    {
+      "appID" : "clamxav",
+      "caption" : "ClamXAV updated from 3.5,9386 to 3.5.1,9488",
+      "date" : "2022-11-08T21:35:41Z",
+      "identifier" : "release-clamxav-3.5.1,9488",
+      "title" : "New Release: ClamXAV 3.5.1,9488"
+    },
+    {
+      "appID" : "cycling74-max",
+      "caption" : "Cycling ‘74 Max updated from 8.5.0_221101 to 8.5.1_221108",
+      "date" : "2022-11-08T21:35:41Z",
+      "identifier" : "release-cycling74-max-8.5.1_221108",
+      "title" : "New Release: Cycling ‘74 Max 8.5.1_221108"
+    },
+    {
+      "appID" : "craftmanager",
+      "caption" : "CraftManager updated from 1.2.9,462 to 1.3.0,465",
+      "date" : "2022-11-08T21:35:42Z",
+      "identifier" : "release-craftmanager-1.3.0,465",
+      "title" : "New Release: CraftManager 1.3.0,465"
+    },
+    {
+      "appID" : "nomachine-enterprise-client",
+      "caption" : "NoMachine Enterprise Client updated from 8.1.2_1 to 8.2.3_12",
+      "date" : "2022-11-08T21:35:42Z",
+      "identifier" : "release-nomachine-enterprise-client-8.2.3_12",
+      "title" : "New Release: NoMachine Enterprise Client 8.2.3_12"
+    },
+    {
+      "appID" : "languagetool",
+      "caption" : "LanguageTool for Desktop updated from 0.2.4,31 to 0.3,32",
+      "date" : "2022-11-08T21:35:42Z",
+      "identifier" : "release-languagetool-0.3,32",
+      "title" : "New Release: LanguageTool for Desktop 0.3,32"
+    },
+    {
+      "appID" : "xamarin-android",
+      "caption" : "Xamarin.Android updated from 13.0.0.0 to 13.1.0.1",
+      "date" : "2022-11-08T21:35:42Z",
+      "identifier" : "release-xamarin-android-13.1.0.1",
+      "title" : "New Release: Xamarin.Android 13.1.0.1"
+    },
+    {
+      "appID" : "ditto",
+      "caption" : "Ditto updated from 1.10.0,1713 to 1.10.1,1722",
+      "date" : "2022-11-08T21:35:42Z",
+      "identifier" : "release-ditto-1.10.1,1722",
+      "title" : "New Release: Ditto 1.10.1,1722"
+    },
+    {
+      "appID" : "rapidminer-studio",
+      "caption" : "RapidMiner Studio updated from 9.10.11 to 10.0.0",
+      "date" : "2022-11-08T21:35:43Z",
+      "identifier" : "release-rapidminer-studio-10.0.0",
+      "title" : "New Release: RapidMiner Studio 10.0.0"
+    },
+    {
+      "appID" : "puzzles",
+      "caption" : "Simon Tatham's Portable Puzzle Collection updated from 20221102.289342e to 20221108.fba22f0",
+      "date" : "2022-11-08T21:35:43Z",
+      "identifier" : "release-puzzles-20221108.fba22f0",
+      "title" : "New Release: Simon Tatham's Portable Puzzle Collection 20221108.fba22f0"
+    },
+    {
+      "appID" : "pitch",
+      "caption" : "Pitch updated from 1.99.0,stable.5,4853186 to 1.100.0,stable.1,4857576",
+      "date" : "2022-11-08T21:35:44Z",
+      "identifier" : "release-pitch-1.100.0,stable.1,4857576",
+      "title" : "New Release: Pitch 1.100.0,stable.1,4857576"
+    },
+    {
+      "appID" : "clay",
+      "caption" : "clay updated from 2.1.7 to 2.1.8",
+      "date" : "2022-11-08T21:35:45Z",
+      "identifier" : "release-clay-2.1.8",
+      "title" : "New Release: clay 2.1.8"
+    },
+    {
+      "appID" : "direqual",
+      "caption" : "DirEqual updated from 4.5,45002 to 4.5,45010",
+      "date" : "2022-11-08T21:35:46Z",
+      "identifier" : "release-direqual-4.5,45010",
+      "title" : "New Release: DirEqual 4.5,45010"
+    },
+    {
+      "appID" : "jumpshare",
+      "caption" : "Jumpshare updated from 3.2.5,140 to 3.2.5,142",
+      "date" : "2022-11-08T21:35:46Z",
+      "identifier" : "release-jumpshare-3.2.5,142",
+      "title" : "New Release: Jumpshare 3.2.5,142"
+    },
+    {
+      "appID" : "archy",
+      "caption" : "Archy updated from 2.15.0 to 2.15.1",
+      "date" : "2022-11-08T21:35:46Z",
+      "identifier" : "release-archy-2.15.1",
+      "title" : "New Release: Archy 2.15.1"
+    },
+    {
+      "appID" : "beeper",
+      "caption" : "Beeper updated from 3.31.14 to 3.32.15",
+      "date" : "2022-11-08T21:35:46Z",
+      "identifier" : "release-beeper-3.32.15",
+      "title" : "New Release: Beeper 3.32.15"
+    },
+    {
+      "appID" : "zoho-workdrive",
+      "caption" : "Zoho WorkDrive updated from 2.6.53 to 2.6.57",
+      "date" : "2022-11-08T21:35:47Z",
+      "identifier" : "release-zoho-workdrive-2.6.57",
+      "title" : "New Release: Zoho WorkDrive 2.6.57"
+    },
+    {
+      "appID" : "mailbutler",
+      "caption" : "Mailbutler updated from 5728,2536752 to 5808,2552558",
+      "date" : "2022-11-08T21:35:47Z",
+      "identifier" : "release-mailbutler-5808,2552558",
+      "title" : "New Release: Mailbutler 5808,2552558"
+    },
+    {
+      "appID" : "foxglove-studio",
+      "caption" : "Foxglove Studio updated from 1.30.0 to 1.31.0",
+      "date" : "2022-11-08T21:35:48Z",
+      "identifier" : "release-foxglove-studio-1.31.0",
+      "title" : "New Release: Foxglove Studio 1.31.0"
+    },
+    {
+      "appID" : "remotion",
+      "caption" : "remotion updated from 1.97.2 to 1.98.1",
+      "date" : "2022-11-08T21:35:48Z",
+      "identifier" : "release-remotion-1.98.1",
+      "title" : "New Release: remotion 1.98.1"
+    },
+    {
+      "appID" : "fme",
+      "caption" : "FME Desktop updated from 2022.1.3,22630 to 2022.2,22765",
+      "date" : "2022-11-08T21:35:49Z",
+      "identifier" : "release-fme-2022.2,22765",
+      "title" : "New Release: FME Desktop 2022.2,22765"
+    },
+    {
+      "appID" : "gifox",
+      "caption" : "gifox updated from 2.4.2,020402.00 to 2.5.0,020500.00",
+      "date" : "2022-11-08T21:35:49Z",
+      "identifier" : "release-gifox-2.5.0,020500.00",
+      "title" : "New Release: gifox 2.5.0,020500.00"
+    },
+    {
+      "appID" : "compositor",
+      "caption" : "Compositor updated from 1.20.3 to 1.20.4",
+      "date" : "2022-11-08T21:35:50Z",
+      "identifier" : "release-compositor-1.20.4",
+      "title" : "New Release: Compositor 1.20.4"
+    },
+    {
+      "appID" : "crystalmaker",
+      "caption" : "CrystalMaker updated from 10.8.0 to 10.8.1",
+      "date" : "2022-11-08T21:35:50Z",
+      "identifier" : "release-crystalmaker-10.8.1",
+      "title" : "New Release: CrystalMaker 10.8.1"
+    },
+    {
+      "appID" : "purei-play",
+      "caption" : "Play! updated from 2022-11-03,094bce99 to 2022-11-07,9b6efac3",
+      "date" : "2022-11-08T21:35:50Z",
+      "identifier" : "release-purei-play-2022-11-07,9b6efac3",
+      "title" : "New Release: Play! 2022-11-07,9b6efac3"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

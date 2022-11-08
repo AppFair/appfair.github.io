@@ -25,8 +25,8 @@
       "sha256" : "603440a63e23e411e750a96a9668e5cba5493656bee623add22161cd7d4e2ef9",
       "stats" : {
         "downloadCount" : 2095,
-        "impressionCount" : 11617,
-        "viewCount" : 1313
+        "impressionCount" : 11623,
+        "viewCount" : 1314
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -58,7 +58,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8498,
-        "impressionCount" : 9158,
+        "impressionCount" : 9164,
         "viewCount" : 785
       },
       "subtitle" : "Multimedia player",
@@ -83,7 +83,7 @@
       ],
       "stats" : {
         "downloadCount" : 8321,
-        "impressionCount" : 9671,
+        "impressionCount" : 9679,
         "viewCount" : 721
       },
       "subtitle" : "Music streaming service",
@@ -112,7 +112,7 @@
       "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
       "stats" : {
         "downloadCount" : 3564,
-        "impressionCount" : 10066,
+        "impressionCount" : 10073,
         "viewCount" : 659
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -140,7 +140,7 @@
       ],
       "stats" : {
         "downloadCount" : 2625,
-        "impressionCount" : 7816,
+        "impressionCount" : 7823,
         "viewCount" : 477
       },
       "subtitle" : "Video game digital distribution service",
@@ -170,7 +170,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 223,
-        "impressionCount" : 6132,
+        "impressionCount" : 6140,
         "viewCount" : 492
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -196,7 +196,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 213,
-        "impressionCount" : 5291,
+        "impressionCount" : 5299,
         "viewCount" : 385
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -223,7 +223,7 @@
       "sha256" : "da2692e0b7d486e16288f4a36d68840239af7aec8cd1e0bcd2c7034c59c0c4e0",
       "stats" : {
         "downloadCount" : 131,
-        "impressionCount" : 4353,
+        "impressionCount" : 4361,
         "viewCount" : 370
       },
       "subtitle" : "File synchronizer",
@@ -254,8 +254,8 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4424,
-        "viewCount" : 349
+        "impressionCount" : 4429,
+        "viewCount" : 350
       },
       "subtitle" : "Create DMGs and other archives",
       "version" : "3.6.5",
@@ -299,7 +299,7 @@
       "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
       "stats" : {
         "downloadCount" : 5811,
-        "impressionCount" : 2760,
+        "impressionCount" : 2761,
         "viewCount" : 141
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -367,7 +367,7 @@
       "sha256" : "30b3f4ad58c093f27da7e07da99f351ef7b81acb5f528f95ec095315c6f4fcf9",
       "stats" : {
         "downloadCount" : 2803,
-        "impressionCount" : 2762,
+        "impressionCount" : 2763,
         "viewCount" : 201
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -413,7 +413,7 @@
       "sha256" : "50bb0c7382d0281121d942e458f64f0fb64202792462e5ff88c8b8125b8e1e12",
       "stats" : {
         "downloadCount" : 2305,
-        "impressionCount" : 4496,
+        "impressionCount" : 4497,
         "viewCount" : 435
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -485,7 +485,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1643,
-        "impressionCount" : 3790
+        "impressionCount" : 3796
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -522,7 +522,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1591,
-        "impressionCount" : 3956
+        "impressionCount" : 3961
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -611,8 +611,8 @@
       "sha256" : "a696766c219ba2f7487bf6054b6c94af78bd49e9d4a7a210fc007193ef85c6f1",
       "stats" : {
         "downloadCount" : 958,
-        "impressionCount" : 2369,
-        "viewCount" : 162
+        "impressionCount" : 2375,
+        "viewCount" : 165
       },
       "subtitle" : "PDF reader and note-taking application",
       "tintColor" : "CCB774",
@@ -724,7 +724,7 @@
       "sha256" : "8757600d471ed0cac2cc4242c44f1a3c6f1fffe934037845d23392fc5eb81712",
       "stats" : {
         "downloadCount" : 423,
-        "impressionCount" : 2092,
+        "impressionCount" : 2093,
         "viewCount" : 95
       },
       "subtitle" : "Screen capture tool with mark up and sharing features",
@@ -754,7 +754,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 4306
+        "impressionCount" : 4311
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -776,7 +776,7 @@
       "sha256" : "17fffaddfa3a75c0901af015fcc6ca162fd5a88ab5535e2a6ac976d8d9ccf299",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 2591,
+        "impressionCount" : 2592,
         "viewCount" : 165
       },
       "subtitle" : "Newsreader and Usenet client",
@@ -847,7 +847,7 @@
       "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
       "stats" : {
         "downloadCount" : 32883,
-        "impressionCount" : 1968
+        "impressionCount" : 1969
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -1169,7 +1169,7 @@
       "sha256" : "08c93f3968292d5654a6d3434773600e562a696dbeae063b6d8db921f5d96f75",
       "stats" : {
         "downloadCount" : 652,
-        "impressionCount" : 1311
+        "impressionCount" : 1312
       },
       "subtitle" : "Xcode Extension for reformatting Swift code",
       "tintColor" : "44424D",
@@ -1373,7 +1373,7 @@
       "sha256" : "5f23210321c9508d0a3e25d878d24f81ad820371eae03a46ffe031a45e65597e",
       "stats" : {
         "downloadCount" : 402,
-        "impressionCount" : 930
+        "impressionCount" : 931
       },
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
@@ -2322,7 +2322,7 @@
       "sha256" : "8350c16bfcaabe8eef252e7c39994d8f7ed2d99c3a1a133f25d3917ae050aabb",
       "stats" : {
         "downloadCount" : 103,
-        "impressionCount" : 657
+        "impressionCount" : 658
       },
       "subtitle" : "Remote pair programming app",
       "tintColor" : "616CBA",
@@ -2442,7 +2442,7 @@
       "sha256" : "0d8b6005609fc274da11ca2e0f5b327ce4d998be88dbb670d9b3428de5995ae0",
       "stats" : {
         "downloadCount" : 92,
-        "impressionCount" : 618
+        "impressionCount" : 625
       },
       "subtitle" : "View Spaces / Virtual Desktops in the menu bar",
       "tintColor" : "8279C0",
@@ -2742,7 +2742,7 @@
       "sha256" : "58fea8995b37b69ebe6cc6a91cc4688e74f303614243d89bd0e4028e56646029",
       "stats" : {
         "downloadCount" : 74,
-        "impressionCount" : 957
+        "impressionCount" : 958
       },
       "subtitle" : "MSLA/DLP, file analysis, calibration, repair, conversion and manipulation",
       "tintColor" : "761E76",
@@ -3432,7 +3432,7 @@
       "sha256" : "b841e4e9ad1e8a377c603fe0db90739562c86b650bc93418c6ab1eff7a22506e",
       "stats" : {
         "downloadCount" : 45,
-        "impressionCount" : 510
+        "impressionCount" : 512
       },
       "subtitle" : "Cloud knowledge base",
       "tintColor" : "86DB97",
@@ -4120,7 +4120,7 @@
       "sha256" : "7f0270ce3db17cfa14a8a111de9fbf39fbdd330d9784796daf13019d08cac140",
       "stats" : {
         "downloadCount" : 34,
-        "impressionCount" : 390
+        "impressionCount" : 395
       },
       "subtitle" : "Tool for liberating data tables trapped inside PDF files",
       "tintColor" : "02A286",
@@ -4161,7 +4161,7 @@
       "sha256" : "828ac3d191f5a3770543ad74526948c631279b6749ba96609040286c563c337a",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 340
+        "impressionCount" : 342
       },
       "subtitle" : "Per-app audio controls",
       "tintColor" : "676764",
@@ -4699,7 +4699,7 @@
       "sha256" : "75c36fda5de742e9df129c52b7f85be999053bb95bfff2433622d008cf55f316",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 310
+        "impressionCount" : 311
       },
       "subtitle" : "Website downloader tool",
       "tintColor" : "E3DDE0",
@@ -5165,7 +5165,7 @@
       "sha256" : "bc8bf077a504cdb2d09d7adee313e408d40063e66e2c0d8722c6678e4ee5cc20",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 295
+        "impressionCount" : 299
       },
       "subtitle" : "PDF presentation tool",
       "tintColor" : "469DF0",
@@ -7375,7 +7375,7 @@
       "name" : "VipRiser",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 207
+        "impressionCount" : 213
       },
       "subtitle" : "Produce a PDF from any application that can print",
       "tintColor" : "A4B6BF",
@@ -7964,7 +7964,7 @@
       "sha256" : "3c4738a9ccd2eb52d0c832829ce5cecb8be14b4dfdaa3e7b64ff02d33fe07e3c",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 478
+        "impressionCount" : 480
       },
       "subtitle" : "Cycling training system",
       "tintColor" : "E04D42",
@@ -8875,7 +8875,7 @@
       "sha256" : "742b5ddc5d171c4bcc8281f4469df8ca62a59c71a7b318ff29ad9a664b80f2b8",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 191
+        "impressionCount" : 196
       },
       "subtitle" : "Dual-head presentation of PDF slides",
       "tintColor" : "88909C",
@@ -12453,7 +12453,7 @@
       "sha256" : "285b5ea4c099543e0cb7732380d985a30a040eeea80e5f9426fea3c3c81058f3",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 136
+        "impressionCount" : 143
       },
       "subtitle" : "PDF editor",
       "tintColor" : "4BAE87",
@@ -13716,7 +13716,7 @@
       "sha256" : "7a9247e8623da5b6c74b65ad6d9e0be7667b832816134393e871e584c00eee64",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 89
+        "impressionCount" : 95
       },
       "subtitle" : "Displays folders and archives of images and PDF files",
       "tintColor" : "8A969D",
@@ -13912,7 +13912,7 @@
       "sha256" : "a3eed85b5d9b3ce2f4f888f9273874b55f374d99045f970d9b6cfd219fa5614f",
       "stats" : {
         "downloadCount" : 8,
-        "impressionCount" : 174
+        "impressionCount" : 175
       },
       "subtitle" : "MIDI and OSC Controller Software",
       "tintColor" : "434343",
@@ -14285,7 +14285,7 @@
       "sha256" : "9a5c37bad02a9dea7448e4ebe6fc6b0887efa05b0530603b9be1e5b0b3db2542",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 104
+        "impressionCount" : 110
       },
       "subtitle" : "Overlays text and graphics on PDF documents",
       "tintColor" : "8D8073",
@@ -14739,7 +14739,7 @@
       "sha256" : "95f4f0fdd2926e7cc5f0b81538ceb35c31f01cd65f72d5705ebcb0e8ef1f2bbd",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 108
+        "impressionCount" : 110
       },
       "subtitle" : "Fortran development environment",
       "tintColor" : "FF4E4E",
@@ -15381,7 +15381,7 @@
       },
       "subtitle" : "Collaboration platform for API development",
       "version" : "10.1.2",
-      "versionDate" : "2022-11-08T17:41:38Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20512,7 +20512,7 @@
       },
       "subtitle" : "Home media server",
       "version" : "1.29.2.6364,6d72b0cf6",
-      "versionDate" : "2022-11-08T17:41:38Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57657,7 +57657,7 @@
       },
       "subtitle" : "Academic application",
       "version" : "0.2.30",
-      "versionDate" : "2022-11-08T17:41:38Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,

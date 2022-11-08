@@ -13916,7 +13916,7 @@
       "subtitle" : "MIDI and OSC Controller Software",
       "tintColor" : "434343",
       "version" : "1.1.7,154",
-      "versionDate" : "2022-11-08T04:13:22Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14850,7 +14850,7 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vapor/AppIcon.png",
       "localizedDescription" : "Visualization and analysis platform",
       "name" : "VAPOR",
-      "sha256" : "4d165628a8bd25cfe7c132e7d6018150e98f168ba003e0cf5873929c7d1b7b03",
+      "sha256" : "0fa9939640c164415bd245536763bfda37d1c6df31bb5b1ae456f42058f6d53c",
       "stats" : {
         "downloadCount" : 2,
         "impressionCount" : 75
@@ -16587,17 +16587,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "balenaetcher",
-      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.3/balenaEtcher-1.8.3.dmg",
+      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.4/balenaEtcher-1.8.4.dmg",
       "homepage" : "https://balena.io/etcher",
       "localizedDescription" : "Tool to flash OS images to SD cards & USB drives",
       "name" : "Etcher",
-      "sha256" : "94d31ef78cc4a94018018af5ef69ed72c8a182105401d70412b22b953894dca1",
+      "sha256" : "2d9c17ab28f3e75d3a5b99a857dde7d3b2cba7a15f3373fd00c1a1de63e1f3d4",
       "stats" : {
         "downloadCount" : 1738
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
-      "version" : "1.8.3",
-      "versionDate" : "2022-11-08T04:13:22Z"
+      "version" : "1.8.4",
+      "versionDate" : "2022-11-08T05:45:23Z"
     },
     {
       "beta" : false,
@@ -19809,7 +19809,7 @@
       },
       "subtitle" : "Open source build of Lens Kubernetes IDE",
       "version" : "6.1.16",
-      "versionDate" : "2022-11-08T04:13:22Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23339,7 +23339,7 @@
       },
       "subtitle" : "Remote desktop and second display tool",
       "version" : "3.0.1.0",
-      "versionDate" : "2022-11-08T04:13:22Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -58420,7 +58420,7 @@
       "homepage" : "https://www.cryptool.org/en/jct/downloads",
       "localizedDescription" : "Apply and analyze cryptographic algorithms",
       "name" : "JCrypTool",
-      "sha256" : "6710102ac48fdd12356c557e6c742330458704c2da89fe0c99f9c1ba787fc5c8",
+      "sha256" : "e5f8d538e5e4d570a6b1defc396c47c7b0213b3c47a5f6ccb43c1b6861da4f08",
       "stats" : {
         "downloadCount" : 1
       },
@@ -59990,7 +59990,7 @@
       "homepage" : "https://cellprofiler.org/",
       "localizedDescription" : "Open-source application for biological image analysis",
       "name" : "CellProfiler",
-      "sha256" : "09661c3318496c0e6c3e61450f67d311e24866a861effa344a8462772977e19b",
+      "sha256" : "de2e186f34a0425dfd710c077bb73a4c9f1036c336cdf2d37656ebf9f1a81ecf",
       "stats" : {
         "downloadCount" : 0
       },
@@ -62840,13 +62840,6 @@
       "title" : "New Release: touchosc 1.1.7,154"
     },
     {
-      "appID" : "balenaetcher",
-      "caption" : "Etcher updated from 1.8.0 to 1.8.3",
-      "date" : "2022-11-08T04:13:24Z",
-      "identifier" : "release-balenaetcher-1.8.3",
-      "title" : "New Release: Etcher 1.8.3"
-    },
-    {
       "appID" : "openlens",
       "caption" : "OpenLens updated from 6.1.15 to 6.1.16",
       "date" : "2022-11-08T04:13:24Z",
@@ -62859,6 +62852,13 @@
       "date" : "2022-11-08T04:13:24Z",
       "identifier" : "release-duet-3.0.1.0",
       "title" : "New Release: Duet 3.0.1.0"
+    },
+    {
+      "appID" : "balenaetcher",
+      "caption" : "Etcher updated from 1.8.3 to 1.8.4",
+      "date" : "2022-11-08T05:45:24Z",
+      "identifier" : "release-balenaetcher-1.8.4",
+      "title" : "New Release: Etcher 1.8.4"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

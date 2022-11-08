@@ -1695,7 +1695,7 @@ tr:nth-child(even) {
 | [``Monodraw``](https://monodraw.helftone.com/) | ``1.6.1,111`` | `48` |  |  |  |  |  | `0` |  |
 | [``PDF-Images``](https://sourceforge.net/projects/pdf-images/) | ``1.1`` | `48` |  |  |  |  |  | `0` |  |
 | [``Pennywise``](https://github.com/kamranahmedse/pennywise) | ``0.8.0`` | `48` |  |  |  |  |  | `0` |  |
-| [``rekordbox``](https://rekordbox.com/en/) | ``6.6.6,20221026100428`` | `48` | `2022-11-08T14:39:55Z` |  |  |  |  | `0` |  |
+| [``rekordbox``](https://rekordbox.com/en/) | ``6.6.6,20221026100428`` | `48` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``CleanMyMac X Chinese``](https://www.mycleanmymac.com/) | ``4.11.5,41105.0.221007165`` | `47` |  |  |  |  |  | `0` |  |
 | [``CocoaRestClient``](https://mmattozzi.github.io/cocoa-rest-client/) | ``1.4.7`` | `47` |  |  |  |  |  | `0` |  |
 | [``Google Assistant Unoffic…``](https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client) | ``1.1.0`` | `47` | `2022-10-30T00:00:00Z` |  |  |  |  | `0` |  |

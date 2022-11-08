@@ -40847,17 +40847,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "aircall",
-      "downloadURL" : "https://download-electron.aircall.io/Aircall-2.26.9.zip",
+      "downloadURL" : "https://download-electron.aircall.io/Aircall-2.27.0.zip",
       "homepage" : "https://aircall.io/",
       "localizedDescription" : "Cloud-based call center and phone system software",
       "name" : "Aircall",
-      "sha256" : "c2c56124debe724ae68689ee1f709a5d0d449f625edc6edac06cf73f6daa9587",
+      "sha256" : "5bcfe05fc809d222369aa99158e32efd76e7754c09d0c906c2ac721a68d72c0e",
       "stats" : {
         "downloadCount" : 10
       },
       "subtitle" : "Cloud-based call center and phone system software",
-      "version" : "2.26.9",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "2.27.0",
+      "versionDate" : "2022-11-08T10:46:34Z"
     },
     {
       "beta" : false,
@@ -62225,13 +62225,6 @@
       "title" : "New Release: blobsaver 3.3.0"
     },
     {
-      "appID" : "aircall",
-      "caption" : "Aircall updated from 2.26.6 to 2.26.9",
-      "date" : "2022-11-07T14:06:39Z",
-      "identifier" : "release-aircall-2.26.9",
-      "title" : "New Release: Aircall 2.26.9"
-    },
-    {
       "appID" : "maciasl",
       "caption" : "MaciASL updated from 1.6.2 to 1.6.3",
       "date" : "2022-11-07T16:50:07Z",
@@ -62867,6 +62860,13 @@
       "date" : "2022-11-08T06:45:02Z",
       "identifier" : "release-compositor-1.20.3",
       "title" : "New Release: Compositor 1.20.3"
+    },
+    {
+      "appID" : "aircall",
+      "caption" : "Aircall updated from 2.26.9 to 2.27.0",
+      "date" : "2022-11-08T10:46:35Z",
+      "identifier" : "release-aircall-2.27.0",
+      "title" : "New Release: Aircall 2.27.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -2587,7 +2587,7 @@ tr:nth-child(even) {
 | [``ABBYY FineReader PDF``](https://pdf.abbyy.com/finereader-pdf-for-mac/) | ``1402.14`` | `10` |  |  |  |  |  | `0` |  |
 | [``Ableton Live Intro``](https://www.ableton.com/en/live/) | ``11.2.6`` | `10` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ActiveDock``](https://www.noteifyapp.com/activedock/) | ``2.223,2223`` | `10` |  |  |  |  |  | `0` |  |
-| [``Aircall``](https://aircall.io/) | ``2.26.9`` | `10` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Aircall``](https://aircall.io/) | ``2.27.0`` | `10` | `2022-11-08T10:46:34Z` |  |  |  |  | `0` |  |
 | [``Ansible DK``](https://github.com/omniti-labs/ansible-dk) | ``1.2.0,3`` | `10` |  |  |  |  |  | `0` |  |
 | [``Change Vision Astah Prof…``](https://astah.net/editions/professional) | ``8.5.0,39c620`` | `10` |  |  |  |  |  | `0` |  |
 | [``BatChmod``](https://www.lagentesoft.com/batchmod/) | ``1.7b5,175`` | `10` |  |  |  |  |  | `0` |  |

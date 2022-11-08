@@ -435,9 +435,9 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tor-browser/README.md",
       "sha256" : "2c4abf4af51ee95118ef2f121eb015a005385af6b15744c44eaec01911ca29bc",
       "stats" : {
-        "downloadCount" : 2096,
-        "impressionCount" : 3734,
-        "viewCount" : 179
+        "downloadCount" : 2097,
+        "impressionCount" : 3736,
+        "viewCount" : 180
       },
       "subtitle" : "Web browser focusing on security",
       "tintColor" : "8236A8",
@@ -16588,17 +16588,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "balenaetcher",
-      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.6/balenaEtcher-1.8.6.dmg",
+      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.10/balenaEtcher-1.8.10.dmg",
       "homepage" : "https://balena.io/etcher",
       "localizedDescription" : "Tool to flash OS images to SD cards & USB drives",
       "name" : "Etcher",
-      "sha256" : "87dd9b388cebd769af1039beb5b0de906beb946b07b8d219740b38597280c47b",
+      "sha256" : "46a6e1457575e932ddad377c21ad8b7c6d04fb8e0c37b9671c34a789fbf9ed04",
       "stats" : {
         "downloadCount" : 1738
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
-      "version" : "1.8.6",
-      "versionDate" : "2022-11-08T00:00:00Z"
+      "version" : "1.8.10",
+      "versionDate" : "2022-11-08T11:32:38Z"
     },
     {
       "beta" : false,
@@ -19463,8 +19463,8 @@
         "downloadCount" : 349
       },
       "subtitle" : "Virtual globe",
-      "version" : "7.3.6.9277",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "7.3.6.9285",
+      "versionDate" : "2022-11-08T11:32:38Z"
     },
     {
       "beta" : false,
@@ -40857,7 +40857,7 @@
       },
       "subtitle" : "Cloud-based call center and phone system software",
       "version" : "2.27.0",
-      "versionDate" : "2022-11-08T10:46:34Z"
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60613,7 +60613,7 @@
     {
       "beta" : false,
       "bundleIdentifier" : "funter",
-      "downloadURL" : "https://nektony.com/download/funter/Funter.dmg",
+      "downloadURL" : "https://download.nektony.com/download/funter/Funter.dmg",
       "homepage" : "https://nektony.com/products/funter",
       "localizedDescription" : "Shows hidden files and folders and switches their visibility in Finder",
       "name" : "Funter",
@@ -60621,7 +60621,8 @@
         "downloadCount" : 0
       },
       "subtitle" : "Shows hidden files and folders and switches their visibility in Finder",
-      "version" : "5.4.3,218"
+      "version" : "6.0.1,323",
+      "versionDate" : "2022-11-08T11:32:38Z"
     },
     {
       "beta" : false,
@@ -62169,20 +62170,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "fsnotes",
-      "caption" : "FSNotes updated from 6.0.1 to 6.0.2",
-      "date" : "2022-11-06T23:36:57Z",
-      "identifier" : "release-fsnotes-6.0.2",
-      "title" : "New Release: FSNotes 6.0.2"
-    },
-    {
-      "appID" : "klayout",
-      "caption" : "KLayout updated from 0.27.11 to 0.27.12",
-      "date" : "2022-11-06T23:36:57Z",
-      "identifier" : "release-klayout-0.27.12",
-      "title" : "New Release: KLayout 0.27.12"
-    },
-    {
       "appID" : "principle",
       "caption" : "Principle updated from 6.22,6027 to 6.23,6028",
       "date" : "2022-11-06T23:36:57Z",
@@ -62715,13 +62702,6 @@
       "title" : "New Release: TrainerRoad 2022.40.0.211"
     },
     {
-      "appID" : "balenaetcher",
-      "caption" : "Etcher updated from 1.8.4 to 1.8.6",
-      "date" : "2022-11-08T06:44:57Z",
-      "identifier" : "release-balenaetcher-1.8.6",
-      "title" : "New Release: Etcher 1.8.6"
-    },
-    {
       "appID" : "linearmouse",
       "caption" : "LinearMouse updated from 0.7.4 to 0.7.5",
       "date" : "2022-11-08T06:44:57Z",
@@ -62867,6 +62847,27 @@
       "date" : "2022-11-08T10:46:35Z",
       "identifier" : "release-aircall-2.27.0",
       "title" : "New Release: Aircall 2.27.0"
+    },
+    {
+      "appID" : "balenaetcher",
+      "caption" : "Etcher updated from 1.8.6 to 1.8.10",
+      "date" : "2022-11-08T11:32:39Z",
+      "identifier" : "release-balenaetcher-1.8.10",
+      "title" : "New Release: Etcher 1.8.10"
+    },
+    {
+      "appID" : "google-earth-pro",
+      "caption" : "Google Earth Pro updated from 7.3.6.9277 to 7.3.6.9285",
+      "date" : "2022-11-08T11:32:39Z",
+      "identifier" : "release-google-earth-pro-7.3.6.9285",
+      "title" : "New Release: Google Earth Pro 7.3.6.9285"
+    },
+    {
+      "appID" : "funter",
+      "caption" : "Funter updated from 5.4.3,218 to 6.0.1,323",
+      "date" : "2022-11-08T11:32:39Z",
+      "identifier" : "release-funter-6.0.1,323",
+      "title" : "New Release: Funter 6.0.1,323"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

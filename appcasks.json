@@ -1890,27 +1890,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "snagit",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://download.techsmith.com/snagitmac/releases/2302/snagit.dmg",
-      "homepage" : "https://www.techsmith.com/screen-capture.html",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-snagit/AppIcon.png",
-      "localizedDescription" : "Screen capture software",
-      "name" : "Snagit",
-      "sha256" : "9c5de1f94f76cb0b1791e205cab12d8cc2876cee244a824ca0aca73377e21562",
-      "stats" : {
-        "downloadCount" : 152,
-        "impressionCount" : 663
-      },
-      "subtitle" : "Screen capture software",
-      "tintColor" : "7BAFD7",
-      "version" : "2023.0.2",
-      "versionDate" : "2022-11-04T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "surfshark",
       "categories" : [
         "public.app-category.productivity"
@@ -4270,26 +4249,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "snes9x",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/snes9xgit/snes9x/releases/download/1.61/snes9x-1.61-macos.zip",
-      "homepage" : "https://www.snes9x.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-snes9x/AppIcon.png",
-      "localizedDescription" : "Video game console emulator",
-      "name" : "Snes9x",
-      "sha256" : "dc0fce0eb7db92e6d8827309f595a83e7fa77c84a18fe9c4df541d2dedfd7d1b",
-      "stats" : {
-        "downloadCount" : 30,
-        "impressionCount" : 337
-      },
-      "subtitle" : "Video game console emulator",
-      "tintColor" : "A0A3A2",
-      "version" : "1.61"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "x-swiftformat",
       "categories" : [
         "public.app-category.developer-tools"
@@ -4667,26 +4626,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "slicer",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://slicer-packages.kitware.com/api/v1/item/62cc8ff3aa08d161a31c260a/download",
-      "homepage" : "https://www.slicer.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slicer/AppIcon.png",
-      "localizedDescription" : "Medical image processing and visualization system",
-      "name" : "3D Slicer",
-      "sha256" : "45cafff1d60cf1d225285b1a59260b164062cf5bde802cbadcaef8d00b177270",
-      "stats" : {
-        "downloadCount" : 25,
-        "impressionCount" : 378
-      },
-      "subtitle" : "Medical image processing and visualization system",
-      "tintColor" : "8E8F96",
-      "version" : "5.0.3,62cc8ff3aa08d161a31c260a"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sitesucker-pro",
       "categories" : [
         "public.app-category.utilities"
@@ -4705,6 +4644,26 @@
       "tintColor" : "E3DDE0",
       "version" : "5.0.6",
       "versionDate" : "2022-11-08T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slicer",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://slicer-packages.kitware.com/api/v1/item/62cc8ff3aa08d161a31c260a/download",
+      "homepage" : "https://www.slicer.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-slicer/AppIcon.png",
+      "localizedDescription" : "Medical image processing and visualization system",
+      "name" : "3D Slicer",
+      "sha256" : "45cafff1d60cf1d225285b1a59260b164062cf5bde802cbadcaef8d00b177270",
+      "stats" : {
+        "downloadCount" : 25,
+        "impressionCount" : 378
+      },
+      "subtitle" : "Medical image processing and visualization system",
+      "tintColor" : "8E8F96",
+      "version" : "5.0.3,62cc8ff3aa08d161a31c260a"
     },
     {
       "beta" : false,
@@ -5886,25 +5845,6 @@
       },
       "tintColor" : "F09671",
       "version" : "1.0.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "smooze",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://smooze.co/updates/Smooze.dmg",
-      "homepage" : "https://smooze.co/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smooze/AppIcon.png",
-      "localizedDescription" : "Rediscover your scroll wheel mouse",
-      "name" : "Smooze",
-      "stats" : {
-        "downloadCount" : 15,
-        "impressionCount" : 233
-      },
-      "subtitle" : "Rediscover your scroll wheel mouse",
-      "tintColor" : "8E9FF7",
-      "version" : "2.0.0,600"
     },
     {
       "beta" : false,
@@ -8548,26 +8488,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "smultron",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://www.peterborgapps.com/downloads/Smultron13.zip",
-      "homepage" : "https://www.peterborgapps.com/smultron/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smultron/AppIcon.png",
-      "localizedDescription" : "General-purpose text editor",
-      "name" : "Smultron",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 588
-      },
-      "subtitle" : "General-purpose text editor",
-      "tintColor" : "CB8761",
-      "version" : "13.3.3,13330",
-      "versionDate" : "2022-10-31T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "smartreporter-free",
       "categories" : [
         "public.app-category.utilities"
@@ -8923,23 +8843,22 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "snapndrag",
+      "bundleIdentifier" : "sirimote",
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://yellowmug.com/download/SnapNDrag_4.5.1.dmg",
-      "homepage" : "https://www.yellowmug.com/snapndrag/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-snapndrag/AppIcon.png",
-      "localizedDescription" : "Screen capture application",
-      "name" : "SnapNDrag",
-      "sha256" : "5f46c1e003bf4adad52e3e201d81d6ad26b4eef481106f1ef3799a11ed078a5a",
+      "downloadURL" : "https://eternalstorms.at/sirimote/SiriMote.zip",
+      "homepage" : "https://eternalstorms.at/sirimote",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sirimote/AppIcon.png",
+      "localizedDescription" : "Control your computer with your Apple TV Siri Remote",
+      "name" : "SiriMote",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 177
+        "impressionCount" : 183
       },
-      "subtitle" : "Screen capture application",
-      "tintColor" : "757776",
-      "version" : "4.5.1"
+      "subtitle" : "Control your computer with your Apple TV Siri Remote",
+      "tintColor" : "555555",
+      "version" : "1.4.4,34"
     },
     {
       "beta" : false,
@@ -8977,25 +8896,6 @@
       },
       "tintColor" : "F0DDF2",
       "version" : "latest"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sirimote",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://eternalstorms.at/sirimote/SiriMote.zip",
-      "homepage" : "https://eternalstorms.at/sirimote",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sirimote/AppIcon.png",
-      "localizedDescription" : "Control your computer with your Apple TV Siri Remote",
-      "name" : "SiriMote",
-      "stats" : {
-        "downloadCount" : 3,
-        "impressionCount" : 183
-      },
-      "subtitle" : "Control your computer with your Apple TV Siri Remote",
-      "tintColor" : "555555",
-      "version" : "1.4.4,34"
     },
     {
       "beta" : false,
@@ -9447,43 +9347,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "snapmotion",
-      "categories" : [
-        "public.app-category.video"
-      ],
-      "downloadURL" : "https://neededapps.nyc3.digitaloceanspaces.com/media/public/4d545b9c-091a-4064-b236-dbba3477224e.zip",
-      "homepage" : "https://neededapps.com/snapmotion/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-snapmotion/AppIcon.png",
-      "localizedDescription" : "Extract images from videos",
-      "name" : "SnapMotion",
-      "sha256" : "0074e80f564b6e0477ccbe14339e232938b5d33c8d655c2ba288ec66a06b09d4",
-      "stats" : {
-        "downloadCount" : 2,
-        "impressionCount" : 541
-      },
-      "subtitle" : "Extract images from videos",
-      "tintColor" : "45C1E5",
-      "version" : "5.0.7,4d545b9c-091a-4064-b236-dbba3477224e"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sleipnir",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.fenrir-inc.com/services/download.php?file=Sleipnir.dmg",
-      "homepage" : "https://www.fenrir-inc.com/jp/sleipnir/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sleipnir/AppIcon.png",
-      "name" : "Sleipnir",
-      "stats" : {
-        "downloadCount" : 2,
-        "impressionCount" : 183
-      },
-      "tintColor" : "6E727D",
-      "version" : "4.6.6,4.6.6004"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sitala",
       "categories" : [
         "public.app-category.utilities"
@@ -9501,6 +9364,23 @@
       "subtitle" : "Drum sampler plugin and standalone app",
       "tintColor" : "9C9A9A",
       "version" : "1.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sleipnir",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://www.fenrir-inc.com/services/download.php?file=Sleipnir.dmg",
+      "homepage" : "https://www.fenrir-inc.com/jp/sleipnir/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sleipnir/AppIcon.png",
+      "name" : "Sleipnir",
+      "stats" : {
+        "downloadCount" : 2,
+        "impressionCount" : 183
+      },
+      "tintColor" : "6E727D",
+      "version" : "4.6.6,4.6.6004"
     },
     {
       "beta" : false,
@@ -10687,37 +10567,20 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sneek",
+      "bundleIdentifier" : "sketch-toolbox",
       "categories" : [
-        "public.app-category.productivity"
+        "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://s3-eu-west-1.amazonaws.com/cdn.sneek.io/installers/latest/Sneek.dmg",
-      "homepage" : "https://sneek.io/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sneek/AppIcon.png",
-      "name" : "Sneek",
+      "downloadURL" : "http://sketchtoolbox.com/Sketch%20Toolbox.zip",
+      "homepage" : "http://sketchtoolbox.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sketch-toolbox/AppIcon.png",
+      "name" : "Sketch Toolbox",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 204
+        "impressionCount" : 483
       },
-      "tintColor" : "697611",
-      "version" : "2.0.19"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "snappy",
-      "categories" : [
-        "public.app-category.social-networking"
-      ],
-      "downloadURL" : "http://go-snappy.com/Snappy.zip",
-      "homepage" : "http://go-snappy.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-snappy/AppIcon.png",
-      "name" : "Snappy",
-      "stats" : {
-        "downloadCount" : 0,
-        "impressionCount" : 361
-      },
-      "tintColor" : "DBDA9D",
-      "version" : "1.2.5,315"
+      "tintColor" : "DC6941",
+      "version" : "0.5.1,051"
     },
     {
       "beta" : false,
@@ -10735,23 +10598,6 @@
       },
       "tintColor" : "848B95",
       "version" : "2.1.1,5023"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sketch-toolbox",
-      "categories" : [
-        "public.app-category.graphics-design"
-      ],
-      "downloadURL" : "http://sketchtoolbox.com/Sketch%20Toolbox.zip",
-      "homepage" : "http://sketchtoolbox.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sketch-toolbox/AppIcon.png",
-      "name" : "Sketch Toolbox",
-      "stats" : {
-        "downloadCount" : 0,
-        "impressionCount" : 483
-      },
-      "tintColor" : "DC6941",
-      "version" : "0.5.1,051"
     },
     {
       "beta" : false,
@@ -11568,26 +11414,6 @@
       "subtitle" : "Create, edit, browse SQLite databases",
       "tintColor" : "A9ADBB",
       "version" : "3.3.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "smplayer",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/smplayer-dev/smplayer/releases/download/v22.7.0/smplayer-22.7.0.dmg",
-      "homepage" : "https://www.smplayer.info/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smplayer/AppIcon.png",
-      "localizedDescription" : "Media player with built-in codecs",
-      "name" : "SMPlayer",
-      "sha256" : "f85905d155725fe2a3f642f09c67a95d4cb90f10e4d113a40451a6f5bb0ce88e",
-      "stats" : {
-        "downloadCount" : 133,
-        "impressionCount" : 96
-      },
-      "subtitle" : "Media player with built-in codecs",
-      "tintColor" : "8C909A",
-      "version" : "22.7.0"
     },
     {
       "beta" : false,
@@ -22002,6 +21828,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "snagit",
+      "downloadURL" : "https://download.techsmith.com/snagitmac/releases/2302/snagit.dmg",
+      "homepage" : "https://www.techsmith.com/screen-capture.html",
+      "localizedDescription" : "Screen capture software",
+      "name" : "Snagit",
+      "sha256" : "9c5de1f94f76cb0b1791e205cab12d8cc2876cee244a824ca0aca73377e21562",
+      "stats" : {
+        "downloadCount" : 152
+      },
+      "subtitle" : "Screen capture software",
+      "version" : "2023.0.2",
+      "versionDate" : "2022-11-04T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "carbon-copy-cloner",
       "downloadURL" : "https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-6.1.3.7413.zip",
       "homepage" : "https://bombich.com/",
@@ -22750,6 +22591,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "smplayer",
+      "downloadURL" : "https://github.com/smplayer-dev/smplayer/releases/download/v22.7.0/smplayer-22.7.0.dmg",
+      "homepage" : "https://www.smplayer.info/",
+      "localizedDescription" : "Media player with built-in codecs",
+      "name" : "SMPlayer",
+      "sha256" : "f85905d155725fe2a3f642f09c67a95d4cb90f10e4d113a40451a6f5bb0ce88e",
+      "stats" : {
+        "downloadCount" : 133
+      },
+      "subtitle" : "Media player with built-in codecs",
+      "version" : "22.7.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "dolphin",
       "downloadURL" : "https://dl-mirror.dolphin-emu.org/5.0/dolphin-5.0.dmg",
       "homepage" : "https://dolphin-emu.org/",
@@ -23216,17 +23071,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "camunda-modeler",
-      "downloadURL" : "https://camunda.org/release/camunda-modeler/5.4.2/camunda-modeler-5.4.2-mac.zip",
+      "downloadURL" : "https://camunda.org/release/camunda-modeler/5.5.0/camunda-modeler-5.5.0-mac.zip",
       "homepage" : "https://camunda.org/",
       "localizedDescription" : "Workflow and Decision Automation Platform",
       "name" : "Camunda Modeler",
-      "sha256" : "0b24881dfd77d2d63ed8c37add11fce5ce3ddd296c641a2a7d5c8fd1bd56c739",
+      "sha256" : "2f9d0315becfdb3514438439b38f3447c121b677f92fd8ce5fa4e8adc9b3e794",
       "stats" : {
         "downloadCount" : 121
       },
       "subtitle" : "Workflow and Decision Automation Platform",
-      "version" : "5.4.2",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5.5.0",
+      "versionDate" : "2022-11-08T14:00:32Z"
     },
     {
       "beta" : false,
@@ -31740,6 +31595,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "snes9x",
+      "downloadURL" : "https://github.com/snes9xgit/snes9x/releases/download/1.61/snes9x-1.61-macos.zip",
+      "homepage" : "https://www.snes9x.com/",
+      "localizedDescription" : "Video game console emulator",
+      "name" : "Snes9x",
+      "sha256" : "dc0fce0eb7db92e6d8827309f595a83e7fa77c84a18fe9c4df541d2dedfd7d1b",
+      "stats" : {
+        "downloadCount" : 30
+      },
+      "subtitle" : "Video game console emulator",
+      "version" : "1.61"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "vcv-rack",
       "categories" : [
 
@@ -32282,23 +32151,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "snip",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://snip.qq.com/resources/Snip_V2.0_5771.dmg",
-      "homepage" : "https://snip.qq.com/",
-      "localizedDescription" : "Screen capture tool",
-      "name" : "Snip",
-      "sha256" : "2e9c2863d4412dbfa1323c1f2cb056c6a81b77d520c8b2a732cade1e7b40df00",
-      "stats" : {
-        "downloadCount" : 27
-      },
-      "subtitle" : "Screen capture tool",
-      "version" : "2.0,5771"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "anytype",
       "downloadURL" : "https://at9412003.fra1.cdn.digitaloceanspaces.com/Anytype-0.29.1-mac-x64.dmg",
       "homepage" : "https://anytype.io/",
@@ -32493,6 +32345,20 @@
       },
       "subtitle" : "Print driver for printing documents directly to a pdf file",
       "version" : "2.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "snip",
+      "downloadURL" : "https://snip.qq.com/resources/Snip_V2.0_5771.dmg",
+      "homepage" : "https://snip.qq.com/",
+      "localizedDescription" : "Screen capture tool",
+      "name" : "Snip",
+      "sha256" : "2e9c2863d4412dbfa1323c1f2cb056c6a81b77d520c8b2a732cade1e7b40df00",
+      "stats" : {
+        "downloadCount" : 27
+      },
+      "subtitle" : "Screen capture tool",
+      "version" : "2.0,5771"
     },
     {
       "beta" : false,
@@ -37890,6 +37756,19 @@
         "downloadCount" : 15
       },
       "version" : "1.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "smooze",
+      "downloadURL" : "https://smooze.co/updates/Smooze.dmg",
+      "homepage" : "https://smooze.co/",
+      "localizedDescription" : "Rediscover your scroll wheel mouse",
+      "name" : "Smooze",
+      "stats" : {
+        "downloadCount" : 15
+      },
+      "subtitle" : "Rediscover your scroll wheel mouse",
+      "version" : "2.0.0,600"
     },
     {
       "beta" : false,
@@ -54235,6 +54114,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "smultron",
+      "downloadURL" : "https://www.peterborgapps.com/downloads/Smultron13.zip",
+      "homepage" : "https://www.peterborgapps.com/smultron/",
+      "localizedDescription" : "General-purpose text editor",
+      "name" : "Smultron",
+      "stats" : {
+        "downloadCount" : 3
+      },
+      "subtitle" : "General-purpose text editor",
+      "version" : "13.3.3,13330",
+      "versionDate" : "2022-10-31T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "snapmaker-luban",
       "downloadURL" : "https://github.com/Snapmaker/Luban/releases/download/v4.4.0/Snapmaker-Luban-4.4.0-mac.zip",
       "homepage" : "https://luban.xyz/",
@@ -54246,6 +54139,20 @@
       },
       "subtitle" : "3D printing software",
       "version" : "4.4.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "snapndrag",
+      "downloadURL" : "https://yellowmug.com/download/SnapNDrag_4.5.1.dmg",
+      "homepage" : "https://www.yellowmug.com/snapndrag/",
+      "localizedDescription" : "Screen capture application",
+      "name" : "SnapNDrag",
+      "sha256" : "5f46c1e003bf4adad52e3e201d81d6ad26b4eef481106f1ef3799a11ed078a5a",
+      "stats" : {
+        "downloadCount" : 3
+      },
+      "subtitle" : "Screen capture application",
+      "version" : "4.5.1"
     },
     {
       "beta" : false,
@@ -59673,6 +59580,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "snapmotion",
+      "downloadURL" : "https://neededapps.nyc3.digitaloceanspaces.com/media/public/4d545b9c-091a-4064-b236-dbba3477224e.zip",
+      "homepage" : "https://neededapps.com/snapmotion/",
+      "localizedDescription" : "Extract images from videos",
+      "name" : "SnapMotion",
+      "sha256" : "0074e80f564b6e0477ccbe14339e232938b5d33c8d655c2ba288ec66a06b09d4",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "Extract images from videos",
+      "version" : "5.0.7,4d545b9c-091a-4064-b236-dbba3477224e"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "wirecast",
       "downloadURL" : "https://www.telestream.net/download-files/wirecast/15-1/Wirecast-15.1.2.dmg",
       "homepage" : "https://www.telestream.net/wirecast/",
@@ -61919,6 +61840,28 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "snappy",
+      "downloadURL" : "http://go-snappy.com/Snappy.zip",
+      "homepage" : "http://go-snappy.com/",
+      "name" : "Snappy",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "version" : "1.2.5,315"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sneek",
+      "downloadURL" : "https://s3-eu-west-1.amazonaws.com/cdn.sneek.io/installers/latest/Sneek.dmg",
+      "homepage" : "https://sneek.io/",
+      "name" : "Sneek",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "version" : "2.0.19"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sonic3air",
       "downloadURL" : "https://projects.sappharad.com/s3air_mac/sonic3air_mac_220910.dmg",
       "homepage" : "https://sonic3air.org/",
@@ -62169,13 +62112,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "principle",
-      "caption" : "Principle updated from 6.22,6027 to 6.23,6028",
-      "date" : "2022-11-06T23:36:57Z",
-      "identifier" : "release-principle-6.23,6028",
-      "title" : "New Release: Principle 6.23,6028"
-    },
     {
       "appID" : "dbeaver-community",
       "caption" : "DBeaver Community Edition updated from 22.2.3 to 22.2.4",
@@ -62868,6 +62804,13 @@
       "date" : "2022-11-08T11:32:39Z",
       "identifier" : "release-funter-6.0.1,323",
       "title" : "New Release: Funter 6.0.1,323"
+    },
+    {
+      "appID" : "camunda-modeler",
+      "caption" : "Camunda Modeler updated from 5.4.2 to 5.5.0",
+      "date" : "2022-11-08T14:00:33Z",
+      "identifier" : "release-camunda-modeler-5.5.0",
+      "title" : "New Release: Camunda Modeler 5.5.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

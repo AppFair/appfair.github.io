@@ -1096,26 +1096,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "webstorm",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://download.jetbrains.com/webstorm/WebStorm-2022.2.3.dmg",
-      "homepage" : "https://www.jetbrains.com/webstorm/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-webstorm/AppIcon.png",
-      "localizedDescription" : "JavaScript IDE",
-      "name" : "WebStorm",
-      "sha256" : "e6532a9a840c3508cdf26511200fbba34ec9a275154d717538019f72ebc5fc51",
-      "stats" : {
-        "downloadCount" : 758,
-        "impressionCount" : 952
-      },
-      "subtitle" : "JavaScript IDE",
-      "tintColor" : "2E7991",
-      "version" : "2022.2.3,222.4345.14"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "wechat",
       "categories" : [
         "public.app-category.social-networking"
@@ -3424,19 +3404,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://app.nlark.com/yuque-desktop/1.7.1/Yuque-1.7.1.dmg",
+      "downloadURL" : "https://app.nlark.com/yuque-desktop/1.8.4/Yuque-1.8.4.dmg",
       "homepage" : "https://www.yuque.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-yuque/AppIcon.png",
       "localizedDescription" : "Cloud knowledge base",
       "name" : "Yuque",
-      "sha256" : "ad9169ab1d4d618cf19892d0d661c116fdd3f8c0f6d103c4d3ec9f34893ef8f7",
+      "sha256" : "b841e4e9ad1e8a377c603fe0db90739562c86b650bc93418c6ab1eff7a22506e",
       "stats" : {
         "downloadCount" : 45,
         "impressionCount" : 507
       },
       "subtitle" : "Cloud knowledge base",
       "tintColor" : "86DB97",
-      "version" : "1.7.1"
+      "version" : "1.8.4",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -4157,15 +4138,15 @@
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sound-control/AppIcon.png",
       "localizedDescription" : "Per-app audio controls",
       "name" : "Sound Control",
-      "sha256" : "af7d59f4c6e33a15d852ddd74d4de7ed535bbe2896aee0f993818acddaf9d21d",
+      "sha256" : "828ac3d191f5a3770543ad74526948c631279b6749ba96609040286c563c337a",
       "stats" : {
         "downloadCount" : 32,
         "impressionCount" : 337
       },
       "subtitle" : "Per-app audio controls",
       "tintColor" : "676764",
-      "version" : "2.7.1,5156",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.7.2,5156",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -4690,20 +4671,20 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://ricks-apps.com/osx/sitesucker/archive/5.x/5.0.x/5.0.5/SiteSucker_Pro_5.0.5.dmg",
+      "downloadURL" : "https://ricks-apps.com/osx/sitesucker/archive/5.x/5.0.x/5.0.6/SiteSucker_Pro_5.0.6.dmg",
       "homepage" : "https://ricks-apps.com/osx/sitesucker/index.html",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sitesucker-pro/AppIcon.png",
       "localizedDescription" : "Website downloader tool",
       "name" : "SiteSucker Pro",
-      "sha256" : "acfb4b972408301794be4b7ee18dfc4fbed026435b819f315f517777fec891c4",
+      "sha256" : "75c36fda5de742e9df129c52b7f85be999053bb95bfff2433622d008cf55f316",
       "stats" : {
         "downloadCount" : 25,
         "impressionCount" : 308
       },
       "subtitle" : "Website downloader tool",
       "tintColor" : "E3DDE0",
-      "version" : "5.0.5",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5.0.6",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -7325,23 +7306,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "website-watchman",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://peacockmedia.software/mac/watchman/watchman.dmg",
-      "homepage" : "https://peacockmedia.software/mac/watchman/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-website-watchman/AppIcon.png",
-      "name" : "Website Watchman",
-      "stats" : {
-        "downloadCount" : 6,
-        "impressionCount" : 232
-      },
-      "tintColor" : "8F61C8",
-      "version" : "2.13.0,2.13.01"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "wasabi-wallet",
       "categories" : [
         "public.app-category.finance"
@@ -7955,20 +7919,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2022.39.0.210.dmg",
+      "downloadURL" : "https://trainrdtrcmn01un1softw01.blob.core.windows.net/installers/mac/v001/Production/TrainerRoad-2022.40.0.211.dmg",
       "homepage" : "https://www.trainerroad.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-trainerroad/AppIcon.png",
       "localizedDescription" : "Cycling training system",
       "name" : "TrainerRoad",
-      "sha256" : "ff5f56f58608ec28a7141b9808cdf216b35abc322dfbe393b96a9a2fb05b56c1",
+      "sha256" : "3c4738a9ccd2eb52d0c832829ce5cecb8be14b4dfdaa3e7b64ff02d33fe07e3c",
       "stats" : {
         "downloadCount" : 5,
         "impressionCount" : 474
       },
       "subtitle" : "Cycling training system",
       "tintColor" : "E04D42",
-      "version" : "2022.39.0.210",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2022.40.0.211",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -9692,24 +9656,6 @@
       },
       "tintColor" : "4AB2DF",
       "version" : "latest"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "webrecorder-player",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/webrecorder/webrecorder-player/releases/download/v1.8.0/webrecorder-player-1.8.0.dmg",
-      "homepage" : "https://github.com/webrecorder/webrecorder-player/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-webrecorder-player/AppIcon.png",
-      "name" : "Webrecorder Player",
-      "sha256" : "c7ecc7b19c31814a15a1dc5bff41ac899b239877d5968b057b0946b250aedd3a",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 133
-      },
-      "tintColor" : "1F1FE8",
-      "version" : "1.8.0"
     },
     {
       "beta" : false,
@@ -16587,17 +16533,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "balenaetcher",
-      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.4/balenaEtcher-1.8.4.dmg",
+      "downloadURL" : "https://github.com/balena-io/etcher/releases/download/v1.8.6/balenaEtcher-1.8.6.dmg",
       "homepage" : "https://balena.io/etcher",
       "localizedDescription" : "Tool to flash OS images to SD cards & USB drives",
       "name" : "Etcher",
-      "sha256" : "2d9c17ab28f3e75d3a5b99a857dde7d3b2cba7a15f3373fd00c1a1de63e1f3d4",
+      "sha256" : "87dd9b388cebd769af1039beb5b0de906beb946b07b8d219740b38597280c47b",
       "stats" : {
         "downloadCount" : 1738
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
-      "version" : "1.8.4",
-      "versionDate" : "2022-11-08T05:45:23Z"
+      "version" : "1.8.6",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -17401,17 +17347,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "linearmouse",
-      "downloadURL" : "https://github.com/linearmouse/linearmouse/releases/download/v0.7.4/LinearMouse.dmg",
+      "downloadURL" : "https://github.com/linearmouse/linearmouse/releases/download/v0.7.5/LinearMouse.dmg",
       "homepage" : "https://linearmouse.org/",
       "localizedDescription" : "Customize mouse behavior",
       "name" : "LinearMouse",
-      "sha256" : "7d0fc97e89078ab033aa00abfc6fd23549feb019d73533db3f32059855c2a5af",
+      "sha256" : "bf01a8b322975b95fd057960a614a062e619055df5a63bb957e19133e5d791cf",
       "stats" : {
         "downloadCount" : 871
       },
       "subtitle" : "Customize mouse behavior",
-      "version" : "0.7.4",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "0.7.5",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -17527,6 +17473,20 @@
       },
       "subtitle" : "Word processor",
       "version" : "16.66.22101101"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "webstorm",
+      "downloadURL" : "https://download.jetbrains.com/webstorm/WebStorm-2022.2.3.dmg",
+      "homepage" : "https://www.jetbrains.com/webstorm/",
+      "localizedDescription" : "JavaScript IDE",
+      "name" : "WebStorm",
+      "sha256" : "e6532a9a840c3508cdf26511200fbba34ec9a275154d717538019f72ebc5fc51",
+      "stats" : {
+        "downloadCount" : 758
+      },
+      "subtitle" : "JavaScript IDE",
+      "version" : "2022.2.3,222.4345.14"
     },
     {
       "beta" : false,
@@ -18338,20 +18298,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "webpquicklook",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://raw.githubusercontent.com/emin/WebPQuickLook/master/WebpQuickLook.tar.gz",
-      "homepage" : "https://github.com/emin/WebPQuickLook",
-      "name" : "WebPQuickLook",
-      "stats" : {
-        "downloadCount" : 527
-      },
-      "version" : "1.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "itsycal",
       "downloadURL" : "https://itsycal.s3.amazonaws.com/Itsycal-0.13.3.zip",
       "homepage" : "https://www.mowglii.com/itsycal/",
@@ -18363,6 +18309,17 @@
       },
       "subtitle" : "Menu bar calendar",
       "version" : "0.13.3,2219"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "webpquicklook",
+      "downloadURL" : "https://raw.githubusercontent.com/emin/WebPQuickLook/master/WebpQuickLook.tar.gz",
+      "homepage" : "https://github.com/emin/WebPQuickLook",
+      "name" : "WebPQuickLook",
+      "stats" : {
+        "downloadCount" : 527
+      },
+      "version" : "1.0"
     },
     {
       "beta" : false,
@@ -19583,16 +19540,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "expressvpn",
-      "downloadURL" : "https://www.expressvpn.works/clients/mac/expressvpn_mac_11.10.1.70315_release.pkg",
+      "downloadURL" : "https://www.expressvpn.works/clients/mac/expressvpn_mac_11.12.0.70542_release.pkg",
       "homepage" : "https://www.expressvpn.works/",
       "localizedDescription" : "VPN client for secure internet access and private browsing",
       "name" : "ExpressVPN",
-      "sha256" : "e0a6e0373e74917a77629a761657417f88cd42811b39be6bfc6052df8a445e70",
+      "sha256" : "2e05c668a985e802a5d80848ad9850ce60d445e4e2cc0e11faa2813c68532a6a",
       "stats" : {
         "downloadCount" : 332
       },
       "subtitle" : "VPN client for secure internet access and private browsing",
-      "version" : "11.10.1.70315"
+      "version" : "11.12.0.70542",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -23315,16 +23273,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "4k-video-downloader",
-      "downloadURL" : "https://dl.4kdownload.com/app/4kvideodownloader_4.21.7.dmg",
+      "downloadURL" : "https://dl.4kdownload.com/app/4kvideodownloader_4.22.0.dmg",
       "homepage" : "https://www.4kdownload.com/products/product-videodownloader",
       "localizedDescription" : "Free video downloader",
       "name" : "4K Video Downloader",
-      "sha256" : "a4aeebb6ee4060c2156c8e67b077dd70107ba571af6dd3bea6a3b080daafcf83",
+      "sha256" : "cbd863018458d4d206671ff4a8e9edd454c0f492a437e9ddee52da7129d36f39",
       "stats" : {
         "downloadCount" : 119
       },
       "subtitle" : "Free video downloader",
-      "version" : "4.21.7"
+      "version" : "4.22.0",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -24043,17 +24002,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "wpsoffice-cn",
-      "downloadURL" : "https://package.mac.wpscdn.cn/mac_wps_pkg/5.0.0/WPS_Office_5.0.0(7548)_x64.dmg",
+      "downloadURL" : "https://package.mac.wpscdn.cn/mac_wps_pkg/5.0.0/WPS_Office_5.0.0(7550)_x64.dmg",
       "homepage" : "https://mac.wps.cn/",
       "localizedDescription" : "All-in-one office service platform in Chinese",
       "name" : "WPS Office",
-      "sha256" : "49d63824398ffba37e24ae536b6482e3bfc59d6789317f9001149b2b957161d3",
+      "sha256" : "5d873880aae7983f8007667bc1288682f1fcf502c77fea776df5c512be83960e",
       "stats" : {
         "downloadCount" : 103
       },
       "subtitle" : "All-in-one office service platform in Chinese",
-      "version" : "5.0.0,7548",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "5.0.0,7550",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -26286,16 +26245,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "jetbrains-gateway",
-      "downloadURL" : "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-222.4345.14.dmg",
+      "downloadURL" : "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-222.4459.11.dmg",
       "homepage" : "https://www.jetbrains.com/remote-development/gateway/",
       "localizedDescription" : "Remote development gateway by Jetbrains",
       "name" : "jetbrains-gateway",
-      "sha256" : "f41d9122eb541c48e7f6b48f5fb41b43744bf05d04f913845cd2b0dffdef088a",
+      "sha256" : "29969a48e2cc293f47c77fdbbbc61c71ddf59badb02e7286b2c4e85c5e9e863f",
       "stats" : {
         "downloadCount" : 65
       },
       "subtitle" : "Remote development gateway by Jetbrains",
-      "version" : "222.4345.14"
+      "version" : "222.4459.11",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -29237,17 +29197,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "omnioutliner",
-      "downloadURL" : "https://downloads.omnigroup.com/software/macOS/11/OmniOutliner-5.11.dmg",
+      "downloadURL" : "https://downloads.omnigroup.com/software/macOS/11/OmniOutliner-5.11.1.dmg",
       "homepage" : "https://www.omnigroup.com/omnioutliner/",
       "localizedDescription" : "Note taking application and information organizer",
       "name" : "OmniOutliner",
-      "sha256" : "b31f1c27e03a0bcadf35db0af7e73f50f77a09a74e16bb43d85ac76b39088565",
+      "sha256" : "0117a74bdbca04094931e2c482c80ba3b939f0107d5d2039c6c5ab25ec1e8d9d",
       "stats" : {
         "downloadCount" : 42
       },
       "subtitle" : "Note taking application and information organizer",
-      "version" : "5.11",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5.11.1",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -29629,17 +29589,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "omniplan",
-      "downloadURL" : "https://downloads.omnigroup.com/software/macOS/11/OmniPlan-4.5.dmg",
+      "downloadURL" : "https://downloads.omnigroup.com/software/macOS/11/OmniPlan-4.5.1.dmg",
       "homepage" : "https://www.omnigroup.com/omniplan/",
       "localizedDescription" : "Project planning and management software",
       "name" : "OmniPlan",
-      "sha256" : "be1f131db5ef574d8df352057197b2c3126ee6afe8b5a7ea5a461430ac2d0ce7",
+      "sha256" : "c5ab675ca72dcb87aa121deac291b393fc4c76519717796410d3e52bf56d17ed",
       "stats" : {
         "downloadCount" : 40
       },
       "subtitle" : "Project planning and management software",
-      "version" : "4.5",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "4.5.1",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -33253,17 +33213,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "plex-htpc",
-      "downloadURL" : "https://downloads.plex.tv/htpc/1.28.2.3347-0fac4b28/macos/PlexHTPC-1.28.2.3347-0fac4b28-x86_64.zip",
+      "downloadURL" : "https://downloads.plex.tv/htpc/1.28.3.3355-5ad65b5d/macos/PlexHTPC-1.28.3.3355-5ad65b5d-x86_64.zip",
       "homepage" : "https://www.plex.tv/",
       "localizedDescription" : "Home Theater PC media player",
       "name" : "Plex HTPC",
-      "sha256" : "0cca5a19e7e369474b654438e98c957926684f73ec64032bf78238e31df72f42",
+      "sha256" : "4408cad47dfcd5beac3ea226c575abb2d97efd0ebb8ef177ec71d5b30106c9c4",
       "stats" : {
         "downloadCount" : 25
       },
       "subtitle" : "Home Theater PC media player",
-      "version" : "1.28.2.3347,0fac4b28",
-      "versionDate" : "2022-11-03T00:00:00Z"
+      "version" : "1.28.3.3355,5ad65b5d",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -33798,17 +33758,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "igv",
-      "downloadURL" : "https://data.broadinstitute.org/igv/projects/downloads/2.15/IGV_MacApp_2.15.1.zip",
+      "downloadURL" : "https://data.broadinstitute.org/igv/projects/downloads/2.15/IGV_MacApp_2.15.2.zip",
       "homepage" : "https://software.broadinstitute.org/software/igv/",
       "localizedDescription" : "Visual exploration of genomic data",
       "name" : "Integrative Genomics Viewer (IGV)",
-      "sha256" : "d0d4449e65eb107ff63af7103ebd07430513cd877dbb6a84b33ce8a747fe4c6f",
+      "sha256" : "b0137f1605e0296b7b97b45455597f11ff52a29c93d0b6835a3c77b8aaaf442c",
       "stats" : {
         "downloadCount" : 23
       },
       "subtitle" : "Visual exploration of genomic data",
-      "version" : "2.15.1",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.15.2",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -33955,17 +33915,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "quicken",
-      "downloadURL" : "https://download.quicken.com/mac/Quicken/001/Release/031A96D9-EFE6-4520-8B6A-7F465DDAA3E4/Quicken-610.46306.100/Quicken-610.46306.100.zip",
+      "downloadURL" : "https://download.quicken.com/mac/Quicken/001/Release/031A96D9-EFE6-4520-8B6A-7F465DDAA3E4/Quicken-610.46328.100/Quicken-610.46328.100.zip",
       "homepage" : "https://www.quicken.com/mac",
       "localizedDescription" : "Personal finance manager",
       "name" : "Quicken",
-      "sha256" : "d44fa843c2532671ff53e1ef6f7c5031323f74470e32cb76106131d81fc8f33e",
+      "sha256" : "fded36068b68217fca3831d64667cff8a8638cda6304e76842c5515cf7d171a9",
       "stats" : {
         "downloadCount" : 23
       },
       "subtitle" : "Personal finance manager",
-      "version" : "6.10.2,610.46306.100",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "6.10.3,610.46328.100",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -35354,16 +35314,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "prowlarr",
-      "downloadURL" : "https://github.com/Prowlarr/Prowlarr/releases/download/v0.4.7.2016/Prowlarr.develop.0.4.7.2016.osx-app-core-x64.zip",
+      "downloadURL" : "https://github.com/Prowlarr/Prowlarr/releases/download/v0.4.8.2072/Prowlarr.develop.0.4.8.2072.osx-app-core-x64.zip",
       "homepage" : "https://prowlarr.com/",
       "localizedDescription" : "Indexer manager/proxy for various PVR apps",
       "name" : "Prowlarr",
-      "sha256" : "3eaac28b12e82dd2f8715933981e95a190b2de9d558962d022f329d41f0069a2",
+      "sha256" : "d29f53c8afad628914f9e99e125c09cf1dcaf8e7ddd333f3e44aa40ee97f089c",
       "stats" : {
         "downloadCount" : 20
       },
       "subtitle" : "Indexer manager/proxy for various PVR apps",
-      "version" : "0.4.7.2016"
+      "version" : "0.4.8.2072",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -40926,17 +40887,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "clay",
-      "downloadURL" : "https://assets.clay.earth/desktop/mac/Clay-2.1.5-universal.dmg",
+      "downloadURL" : "https://assets.clay.earth/desktop/mac/Clay-2.1.7-universal.dmg",
       "homepage" : "https://clay.earth/",
       "localizedDescription" : "Private rolodex to remember people better",
       "name" : "clay",
-      "sha256" : "89cc42c2b6d0ee093cb106041b00b8c83acd11444e7ad187ad726db0da6920dc",
+      "sha256" : "947612ed2f7f36c1eee65ac96be06e1c3fecb77b2c3645ed8d3bf8430c9d26d0",
       "stats" : {
         "downloadCount" : 10
       },
       "subtitle" : "Private rolodex to remember people better",
-      "version" : "2.1.5",
-      "versionDate" : "2022-11-01T00:00:00Z"
+      "version" : "2.1.7",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -42631,16 +42592,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "jquake",
-      "downloadURL" : "https://fleneindre.github.io/downloads/JQuake_1.8.1_mac_intel.dmg",
+      "downloadURL" : "https://fleneindre.github.io/downloads/JQuake_1.8.2_mac_intel.dmg",
       "homepage" : "https://jquake.net/",
       "localizedDescription" : "Real-time earthquake monitoring software for Japan",
       "name" : "JQuake",
-      "sha256" : "d981c632467d4cddcff386643557e86972d6d577d38eaaee9b2f219037614ab6",
+      "sha256" : "a36be6dddd8cc4ffa9154bdd6a2ef2d964d0edeec80ca90f0e093e3c0ca18498",
       "stats" : {
         "downloadCount" : 9
       },
       "subtitle" : "Real-time earthquake monitoring software for Japan",
-      "version" : "1.8.1"
+      "version" : "1.8.2",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -43935,16 +43897,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "mcbopomofo",
-      "downloadURL" : "https://github.com/openvanilla/McBopomofo/releases/download/2.4.1/McBopomofo-Installer-2.4.1.zip",
+      "downloadURL" : "https://github.com/openvanilla/McBopomofo/releases/download/2.4.2/McBopomofo-Installer-2.4.2.zip",
       "homepage" : "https://mcbopomofo.openvanilla.org/",
       "localizedDescription" : "Input method for Bopomofo (Phonetic Symbols of Mandarin Chinese)",
       "name" : "McBopomofo",
-      "sha256" : "2ec49489c8d91dcad82eee5b9e9e0207f191015d3eb3fcf563424855cff6f8a3",
+      "sha256" : "2130ec3af669361186f61113d84fda86c4ed5e38987d3be6a9f08b801f73fb56",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "Input method for Bopomofo (Phonetic Symbols of Mandarin Chinese)",
-      "version" : "2.4.1"
+      "version" : "2.4.2",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -44082,17 +44045,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "onekey",
-      "downloadURL" : "https://github.com/OneKeyHQ/app-monorepo/releases/download/v3.16.0/OneKey-Wallet-3.16.0-mac-x64.dmg",
+      "downloadURL" : "https://github.com/OneKeyHQ/app-monorepo/releases/download/v3.17.0/OneKey-Wallet-3.17.0-mac-x64.dmg",
       "homepage" : "https://onekey.so/",
       "localizedDescription" : "Crypto wallet",
       "name" : "OneKey",
-      "sha256" : "abdf03a7292186ba756044337799d68d0ed4d39ed5a44b4e2700859255c8b440",
+      "sha256" : "f000401f3df6c815f56caa34ccd3e54a089e2e7c5a2e92328a086c6875cbdaf8",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "Crypto wallet",
-      "version" : "3.16.0",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "3.17.0",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -47324,6 +47287,17 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "website-watchman",
+      "downloadURL" : "https://peacockmedia.software/mac/watchman/watchman.dmg",
+      "homepage" : "https://peacockmedia.software/mac/watchman/",
+      "name" : "Website Watchman",
+      "stats" : {
+        "downloadCount" : 6
+      },
+      "version" : "2.13.0,2.13.01"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "whist-browser",
       "downloadURL" : "https://whist-browser-macos-x64-prod.s3.amazonaws.com/Whist-latest-x64.dmg",
       "homepage" : "https://www.whist.com/",
@@ -47581,17 +47555,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "akiflow",
-      "downloadURL" : "https://akiflow.com/releases/Akiflow-2.29.13-universal.dmg",
+      "downloadURL" : "https://akiflow.com/releases/Akiflow-2.29.16-universal.dmg",
       "homepage" : "https://akiflow.com/",
       "localizedDescription" : "Time blocking platform to save 2 hours every day",
       "name" : "Akiflow",
-      "sha256" : "4ea93bf4927891461cd10ed1f7455cbeab92905db7cd9ffec7f7c150e5f75490",
+      "sha256" : "93b1ea44fbf83a48ef384e84dff29eaeb519b90eca6df4884d22930efbc4c293",
       "stats" : {
         "downloadCount" : 5
       },
       "subtitle" : "Time blocking platform to save 2 hours every day",
-      "version" : "2.29.13",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "2.29.16",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -51764,16 +51738,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://as.smvm.cn/panther/shimo/release/darwin/x64/%e7%9f%b3%e5%a2%a8%e6%96%87%e6%a1%a3_v3.0.0-release.3fb3ddc0.shimo_darwin-x64.zip",
+      "downloadURL" : "https://as.smvm.cn/panther/shimo/release/darwin/x64/%e7%9f%b3%e5%a2%a8%e6%96%87%e6%a1%a3_v3.1.1-release.6d78b4a.shimo_darwin-x64.zip",
       "homepage" : "https://shimo.im/",
       "localizedDescription" : "Document editor",
       "name" : "Shimonote",
-      "sha256" : "54349b88722dce605cc8e6f254dc4b97822d8d21dce05b27458ea427a30ba769",
+      "sha256" : "13686d576d2fffc6438a803949f8f954613ef5723f0d198308b99b8ac4bdf9ac",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "Document editor",
-      "version" : "3.0.0,3fb3ddc0"
+      "version" : "3.1.1,6d78b4a",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -57104,8 +57079,8 @@
         "downloadCount" : 1
       },
       "subtitle" : "App audio capture",
-      "version" : "3.4.1",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "3.4.2",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -59281,8 +59256,8 @@
         "downloadCount" : 1
       },
       "subtitle" : "Digital Asset Management",
-      "version" : "7.4.1.4619",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "7.4.1.4621",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -59662,6 +59637,18 @@
       },
       "subtitle" : "3D reconstruction of Apple Retail Stores on their opening days",
       "version" : "1.0.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "webrecorder-player",
+      "downloadURL" : "https://github.com/webrecorder/webrecorder-player/releases/download/v1.8.0/webrecorder-player-1.8.0.dmg",
+      "homepage" : "https://github.com/webrecorder/webrecorder-player/",
+      "name" : "Webrecorder Player",
+      "sha256" : "c7ecc7b19c31814a15a1dc5bff41ac899b239877d5968b057b0946b250aedd3a",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "version" : "1.8.0"
     },
     {
       "beta" : false,
@@ -60107,17 +60094,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "compositor",
-      "downloadURL" : "https://compositorapp.com/updates/Compositor_1.20.2.zip",
+      "downloadURL" : "https://compositorapp.com/updates/Compositor_1.20.3.zip",
       "homepage" : "https://compositorapp.com/",
       "localizedDescription" : "WYSIWYG LaTeX editor",
       "name" : "Compositor",
-      "sha256" : "efe36ac76979fad2707fb7583cf5299006907fc8f20a4e0417ae6c5fd0739ddf",
+      "sha256" : "3f6ff8d2111445fcf255f83525a321b2d47613c41ca25e984d8f5c2a39a22ddc",
       "stats" : {
         "downloadCount" : 0
       },
       "subtitle" : "WYSIWYG LaTeX editor",
-      "version" : "1.20.2",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "1.20.3",
+      "versionDate" : "2022-11-08T06:44:55Z"
     },
     {
       "beta" : false,
@@ -62161,174 +62148,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "solar2d",
-      "caption" : "Solar2D updated from 2022.3682 to 2022.3683",
-      "date" : "2022-11-06T12:51:01Z",
-      "identifier" : "release-solar2d-2022.3683",
-      "title" : "New Release: Solar2D 2022.3683"
-    },
-    {
-      "appID" : "xiv-on-mac",
-      "caption" : "XIV on Mac updated from 4.4 to 4.4.1",
-      "date" : "2022-11-06T12:51:01Z",
-      "identifier" : "release-xiv-on-mac-4.4.1",
-      "title" : "New Release: XIV on Mac 4.4.1"
-    },
-    {
-      "appID" : "gyazmail",
-      "caption" : "GyazMail updated from 1.7 to 1.7.1",
-      "date" : "2022-11-06T12:51:02Z",
-      "identifier" : "release-gyazmail-1.7.1",
-      "title" : "New Release: GyazMail 1.7.1"
-    },
-    {
-      "appID" : "mcreator",
-      "caption" : "MCreator updated from 2022.2.34517 to 2022.3.45616",
-      "date" : "2022-11-06T12:51:02Z",
-      "identifier" : "release-mcreator-2022.3.45616",
-      "title" : "New Release: MCreator 2022.3.45616"
-    },
-    {
-      "appID" : "infoflow",
-      "caption" : "Baidu Hi updated from 2.3.21.3,20221031180523 to 2.3.21.4,20221104203943",
-      "date" : "2022-11-06T12:51:02Z",
-      "identifier" : "release-infoflow-2.3.21.4,20221104203943",
-      "title" : "New Release: Baidu Hi 2.3.21.4,20221104203943"
-    },
-    {
-      "appID" : "tidelift",
-      "caption" : "Tidelift CLI updated from 1.12.10 to 1.12.11",
-      "date" : "2022-11-06T12:51:02Z",
-      "identifier" : "release-tidelift-1.12.11",
-      "title" : "New Release: Tidelift CLI 1.12.11"
-    },
-    {
-      "appID" : "go-agent",
-      "caption" : "Go Agent updated from 22.2.0,14697 to 22.3.0,15301",
-      "date" : "2022-11-06T12:51:03Z",
-      "identifier" : "release-go-agent-22.3.0,15301",
-      "title" : "New Release: Go Agent 22.3.0,15301"
-    },
-    {
-      "appID" : "go-server",
-      "caption" : "Go Server updated from 22.2.0,14697 to 22.3.0,15301",
-      "date" : "2022-11-06T12:51:03Z",
-      "identifier" : "release-go-server-22.3.0,15301",
-      "title" : "New Release: Go Server 22.3.0,15301"
-    },
-    {
-      "appID" : "photo-supreme-single-user",
-      "caption" : "Photo Supreme Single User updated from 7.4.1.4613 to 7.4.1.4619",
-      "date" : "2022-11-06T12:51:03Z",
-      "identifier" : "release-photo-supreme-single-user-7.4.1.4619",
-      "title" : "New Release: Photo Supreme Single User 7.4.1.4619"
-    },
-    {
-      "appID" : "stats",
-      "caption" : "Stats updated from 2.7.41 to 2.7.42",
-      "date" : "2022-11-06T14:28:56Z",
-      "identifier" : "release-stats-2.7.42",
-      "title" : "New Release: Stats 2.7.42"
-    },
-    {
-      "appID" : "proxyman",
-      "caption" : "Proxyman updated from 3.12.0,31200 to 3.13.0,31300",
-      "date" : "2022-11-06T14:28:56Z",
-      "identifier" : "release-proxyman-3.13.0,31300",
-      "title" : "New Release: Proxyman 3.13.0,31300"
-    },
-    {
-      "appID" : "coteditor",
-      "caption" : "CotEditor updated from 4.4.0 to 4.4.1",
-      "date" : "2022-11-06T14:28:56Z",
-      "identifier" : "release-coteditor-4.4.1",
-      "title" : "New Release: CotEditor 4.4.1"
-    },
-    {
-      "appID" : "sameboy",
-      "caption" : "SameBoy updated from 0.15.7 to 0.15.8",
-      "date" : "2022-11-06T14:28:57Z",
-      "identifier" : "release-sameboy-0.15.8",
-      "title" : "New Release: SameBoy 0.15.8"
-    },
-    {
-      "appID" : "librewolf",
-      "caption" : "LibreWolf updated from 106.0.3,1,14e3b54ff5708ef4a39f7dca76c65e03 to 106.0.5,1,6ce6e4ac89c01bf56704e9689ab8208e",
-      "date" : "2022-11-06T16:39:45Z",
-      "identifier" : "release-librewolf-106.0.5,1,6ce6e4ac89c01bf56704e9689ab8208e",
-      "title" : "New Release: LibreWolf 106.0.5,1,6ce6e4ac89c01bf56704e9689ab8208e"
-    },
-    {
-      "appID" : "krita",
-      "caption" : "Krita updated from 5.1.2 to 5.1.3",
-      "date" : "2022-11-06T18:39:43Z",
-      "identifier" : "release-krita-5.1.3",
-      "title" : "New Release: Krita 5.1.3"
-    },
-    {
-      "appID" : "busycal",
-      "caption" : "BusyCal updated from 2022.4.4,2022-10-31-09-25 to 2022.4.4,2022-11-06-20-57",
-      "date" : "2022-11-06T18:39:44Z",
-      "identifier" : "release-busycal-2022.4.4,2022-11-06-20-57",
-      "title" : "New Release: BusyCal 2022.4.4,2022-11-06-20-57"
-    },
-    {
-      "appID" : "cookie",
-      "caption" : "Cookie updated from 6.8.2 to 6.8.3",
-      "date" : "2022-11-06T18:39:45Z",
-      "identifier" : "release-cookie-6.8.3",
-      "title" : "New Release: Cookie 6.8.3"
-    },
-    {
-      "appID" : "brewtarget",
-      "caption" : "brewtarget updated from 3.0.2 to 3.0.3",
-      "date" : "2022-11-06T18:39:45Z",
-      "identifier" : "release-brewtarget-3.0.3",
-      "title" : "New Release: brewtarget 3.0.3"
-    },
-    {
-      "appID" : "iconset",
-      "caption" : "Iconset updated from 2.2.0 to 2.3.0",
-      "date" : "2022-11-06T18:39:45Z",
-      "identifier" : "release-iconset-2.3.0",
-      "title" : "New Release: Iconset 2.3.0"
-    },
-    {
-      "appID" : "liclipse",
-      "caption" : "LiClipse updated from 9.0.0,ks1e8pymgewjnrx to 9.0.1,5ao858sjvo8gibh",
-      "date" : "2022-11-06T18:39:45Z",
-      "identifier" : "release-liclipse-9.0.1,5ao858sjvo8gibh",
-      "title" : "New Release: LiClipse 9.0.1,5ao858sjvo8gibh"
-    },
-    {
-      "appID" : "compositor",
-      "caption" : "Compositor updated from 1.19.0 to 1.20.2",
-      "date" : "2022-11-06T18:39:46Z",
-      "identifier" : "release-compositor-1.20.2",
-      "title" : "New Release: Compositor 1.20.2"
-    },
-    {
-      "appID" : "textexpander",
-      "caption" : "TextExpander updated from 6.8.5,685.6 to 7.3.1,731.2",
-      "date" : "2022-11-06T19:25:37Z",
-      "identifier" : "release-textexpander-7.3.1,731.2",
-      "title" : "New Release: TextExpander 7.3.1,731.2"
-    },
-    {
-      "appID" : "tinymediamanager",
-      "caption" : "tinyMediaManager updated from 4.3.4 to 4.3.5",
-      "date" : "2022-11-06T23:36:56Z",
-      "identifier" : "release-tinymediamanager-4.3.5",
-      "title" : "New Release: tinyMediaManager 4.3.5"
-    },
-    {
-      "appID" : "zappy",
-      "caption" : "Zappy updated from 3.1.5 to 3.1.6",
-      "date" : "2022-11-06T23:36:57Z",
-      "identifier" : "release-zappy-3.1.6",
-      "title" : "New Release: Zappy 3.1.6"
-    },
-    {
       "appID" : "fsnotes",
       "caption" : "FSNotes updated from 6.0.1 to 6.0.2",
       "date" : "2022-11-06T23:36:57Z",
@@ -62854,11 +62673,179 @@
       "title" : "New Release: Duet 3.0.1.0"
     },
     {
+      "appID" : "yuque",
+      "caption" : "Yuque updated from 1.7.1 to 1.8.4",
+      "date" : "2022-11-08T06:44:56Z",
+      "identifier" : "release-yuque-1.8.4",
+      "title" : "New Release: Yuque 1.8.4"
+    },
+    {
+      "appID" : "sound-control",
+      "caption" : "Sound Control updated from 2.7.1,5156 to 2.7.2,5156",
+      "date" : "2022-11-08T06:44:56Z",
+      "identifier" : "release-sound-control-2.7.2,5156",
+      "title" : "New Release: Sound Control 2.7.2,5156"
+    },
+    {
+      "appID" : "sitesucker-pro",
+      "caption" : "SiteSucker Pro updated from 5.0.5 to 5.0.6",
+      "date" : "2022-11-08T06:44:57Z",
+      "identifier" : "release-sitesucker-pro-5.0.6",
+      "title" : "New Release: SiteSucker Pro 5.0.6"
+    },
+    {
+      "appID" : "trainerroad",
+      "caption" : "TrainerRoad updated from 2022.39.0.210 to 2022.40.0.211",
+      "date" : "2022-11-08T06:44:57Z",
+      "identifier" : "release-trainerroad-2022.40.0.211",
+      "title" : "New Release: TrainerRoad 2022.40.0.211"
+    },
+    {
       "appID" : "balenaetcher",
-      "caption" : "Etcher updated from 1.8.3 to 1.8.4",
-      "date" : "2022-11-08T05:45:24Z",
-      "identifier" : "release-balenaetcher-1.8.4",
-      "title" : "New Release: Etcher 1.8.4"
+      "caption" : "Etcher updated from 1.8.4 to 1.8.6",
+      "date" : "2022-11-08T06:44:57Z",
+      "identifier" : "release-balenaetcher-1.8.6",
+      "title" : "New Release: Etcher 1.8.6"
+    },
+    {
+      "appID" : "linearmouse",
+      "caption" : "LinearMouse updated from 0.7.4 to 0.7.5",
+      "date" : "2022-11-08T06:44:57Z",
+      "identifier" : "release-linearmouse-0.7.5",
+      "title" : "New Release: LinearMouse 0.7.5"
+    },
+    {
+      "appID" : "expressvpn",
+      "caption" : "ExpressVPN updated from 11.10.1.70315 to 11.12.0.70542",
+      "date" : "2022-11-08T06:44:57Z",
+      "identifier" : "release-expressvpn-11.12.0.70542",
+      "title" : "New Release: ExpressVPN 11.12.0.70542"
+    },
+    {
+      "appID" : "4k-video-downloader",
+      "caption" : "4K Video Downloader updated from 4.21.7 to 4.22.0",
+      "date" : "2022-11-08T06:44:58Z",
+      "identifier" : "release-4k-video-downloader-4.22.0",
+      "title" : "New Release: 4K Video Downloader 4.22.0"
+    },
+    {
+      "appID" : "wpsoffice-cn",
+      "caption" : "WPS Office updated from 5.0.0,7548 to 5.0.0,7550",
+      "date" : "2022-11-08T06:44:58Z",
+      "identifier" : "release-wpsoffice-cn-5.0.0,7550",
+      "title" : "New Release: WPS Office 5.0.0,7550"
+    },
+    {
+      "appID" : "jetbrains-gateway",
+      "caption" : "jetbrains-gateway updated from 222.4345.14 to 222.4459.11",
+      "date" : "2022-11-08T06:44:58Z",
+      "identifier" : "release-jetbrains-gateway-222.4459.11",
+      "title" : "New Release: jetbrains-gateway 222.4459.11"
+    },
+    {
+      "appID" : "omnioutliner",
+      "caption" : "OmniOutliner updated from 5.11 to 5.11.1",
+      "date" : "2022-11-08T06:44:59Z",
+      "identifier" : "release-omnioutliner-5.11.1",
+      "title" : "New Release: OmniOutliner 5.11.1"
+    },
+    {
+      "appID" : "omniplan",
+      "caption" : "OmniPlan updated from 4.5 to 4.5.1",
+      "date" : "2022-11-08T06:44:59Z",
+      "identifier" : "release-omniplan-4.5.1",
+      "title" : "New Release: OmniPlan 4.5.1"
+    },
+    {
+      "appID" : "plex-htpc",
+      "caption" : "Plex HTPC updated from 1.28.2.3347,0fac4b28 to 1.28.3.3355,5ad65b5d",
+      "date" : "2022-11-08T06:44:59Z",
+      "identifier" : "release-plex-htpc-1.28.3.3355,5ad65b5d",
+      "title" : "New Release: Plex HTPC 1.28.3.3355,5ad65b5d"
+    },
+    {
+      "appID" : "igv",
+      "caption" : "Integrative Genomics Viewer (IGV) updated from 2.15.1 to 2.15.2",
+      "date" : "2022-11-08T06:44:59Z",
+      "identifier" : "release-igv-2.15.2",
+      "title" : "New Release: Integrative Genomics Viewer (IGV) 2.15.2"
+    },
+    {
+      "appID" : "quicken",
+      "caption" : "Quicken updated from 6.10.2,610.46306.100 to 6.10.3,610.46328.100",
+      "date" : "2022-11-08T06:45:00Z",
+      "identifier" : "release-quicken-6.10.3,610.46328.100",
+      "title" : "New Release: Quicken 6.10.3,610.46328.100"
+    },
+    {
+      "appID" : "prowlarr",
+      "caption" : "Prowlarr updated from 0.4.7.2016 to 0.4.8.2072",
+      "date" : "2022-11-08T06:45:00Z",
+      "identifier" : "release-prowlarr-0.4.8.2072",
+      "title" : "New Release: Prowlarr 0.4.8.2072"
+    },
+    {
+      "appID" : "clay",
+      "caption" : "clay updated from 2.1.5 to 2.1.7",
+      "date" : "2022-11-08T06:45:00Z",
+      "identifier" : "release-clay-2.1.7",
+      "title" : "New Release: clay 2.1.7"
+    },
+    {
+      "appID" : "jquake",
+      "caption" : "JQuake updated from 1.8.1 to 1.8.2",
+      "date" : "2022-11-08T06:45:00Z",
+      "identifier" : "release-jquake-1.8.2",
+      "title" : "New Release: JQuake 1.8.2"
+    },
+    {
+      "appID" : "mcbopomofo",
+      "caption" : "McBopomofo updated from 2.4.1 to 2.4.2",
+      "date" : "2022-11-08T06:45:01Z",
+      "identifier" : "release-mcbopomofo-2.4.2",
+      "title" : "New Release: McBopomofo 2.4.2"
+    },
+    {
+      "appID" : "onekey",
+      "caption" : "OneKey updated from 3.16.0 to 3.17.0",
+      "date" : "2022-11-08T06:45:01Z",
+      "identifier" : "release-onekey-3.17.0",
+      "title" : "New Release: OneKey 3.17.0"
+    },
+    {
+      "appID" : "akiflow",
+      "caption" : "Akiflow updated from 2.29.13 to 2.29.16",
+      "date" : "2022-11-08T06:45:01Z",
+      "identifier" : "release-akiflow-2.29.16",
+      "title" : "New Release: Akiflow 2.29.16"
+    },
+    {
+      "appID" : "shimonote",
+      "caption" : "Shimonote updated from 3.0.0,3fb3ddc0 to 3.1.1,6d78b4a",
+      "date" : "2022-11-08T06:45:01Z",
+      "identifier" : "release-shimonote-3.1.1,6d78b4a",
+      "title" : "New Release: Shimonote 3.1.1,6d78b4a"
+    },
+    {
+      "appID" : "sound-siphon",
+      "caption" : "SoundSiphon updated from 3.4.1 to 3.4.2",
+      "date" : "2022-11-08T06:45:01Z",
+      "identifier" : "release-sound-siphon-3.4.2",
+      "title" : "New Release: SoundSiphon 3.4.2"
+    },
+    {
+      "appID" : "photo-supreme-single-user",
+      "caption" : "Photo Supreme Single User updated from 7.4.1.4619 to 7.4.1.4621",
+      "date" : "2022-11-08T06:45:01Z",
+      "identifier" : "release-photo-supreme-single-user-7.4.1.4621",
+      "title" : "New Release: Photo Supreme Single User 7.4.1.4621"
+    },
+    {
+      "appID" : "compositor",
+      "caption" : "Compositor updated from 1.20.2 to 1.20.3",
+      "date" : "2022-11-08T06:45:02Z",
+      "identifier" : "release-compositor-1.20.3",
+      "title" : "New Release: Compositor 1.20.3"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

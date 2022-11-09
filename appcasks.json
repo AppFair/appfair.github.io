@@ -118,7 +118,7 @@
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
       "version" : "2.2242.6",
-      "versionDate" : "2022-11-09T20:37:33Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -450,13 +450,13 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.90.0.405.dmg",
+      "downloadURL" : "https://endpoint920510.azureedge.net/s4l/s4l/download/mac/Skype-8.90.0.407.dmg",
       "homepage" : "https://www.skype.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/AppIcon.png",
       "localizedDescription" : "Video chat, voice call and instant messaging application",
       "name" : "Skype",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-skype/README.md",
-      "sha256" : "95dc5ea25d9aa7ddf43b87d88dd38acf0d8ebe039bae7162d456b8a1d3c23990",
+      "sha256" : "dc06f15be81472f7420001e2d7fec464b0f6e7d2d6c05a27205ceba4e9488f29",
       "stats" : {
         "downloadCount" : 1981,
         "impressionCount" : 2234,
@@ -464,8 +464,8 @@
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
       "tintColor" : "21A4E3",
-      "version" : "8.90.0.405",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "8.90.0.407",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -852,7 +852,7 @@
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
       "version" : "1.73.1",
-      "versionDate" : "2022-11-09T20:37:33Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -860,19 +860,19 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://cdn.zoom.us/prod/5.12.6.12435/Zoom.pkg",
+      "downloadURL" : "https://cdn.zoom.us/prod/5.12.7.12529/Zoom.pkg",
       "homepage" : "https://www.zoom.us/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zoom/AppIcon.png",
       "localizedDescription" : "Video communication and virtual meeting platform",
       "name" : "Zoom.us",
-      "sha256" : "7d2b26f953ccc0fe5a67ae7f1a43a2b11e64cf923611464ec3e1ad94b07f37f2",
+      "sha256" : "470921bd7ed457cab6d47d3bd90a2accd6f7301ae4a64edf3141ceb7ac3e294f",
       "stats" : {
         "downloadCount" : 9295,
         "impressionCount" : 1090
       },
       "subtitle" : "Video communication and virtual meeting platform",
-      "version" : "5.12.6.12435",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "5.12.7.12529",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -1264,20 +1264,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://download.sketch.com/sketch-94-156491.zip",
+      "downloadURL" : "https://download.sketch.com/sketch-94.1-156562.zip",
       "homepage" : "https://www.sketch.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sketch/AppIcon.png",
       "localizedDescription" : "Digital design and prototyping platform",
       "name" : "Sketch",
-      "sha256" : "1ccf8a76a27f670f18039fa8d09063ae2f62463dfbd109dbaac5ca475c15f21a",
+      "sha256" : "d25db7744f85566893ee800208fd1abcb25c4b8bb703689ff41c40b6b4c2209d",
       "stats" : {
         "downloadCount" : 456,
         "impressionCount" : 1478
       },
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
-      "version" : "94,156491",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "94.1,156562",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -2294,20 +2294,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-0.99.3-2022-11-03-18adf0001.zip",
+      "downloadURL" : "https://d32ifkf9k9ezcg.cloudfront.net/production/sparkle/tuple-0.99.4-2022-11-09-bdefe5afe.zip",
       "homepage" : "https://tuple.app/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tuple/AppIcon.png",
       "localizedDescription" : "Remote pair programming app",
       "name" : "Tuple",
-      "sha256" : "8350c16bfcaabe8eef252e7c39994d8f7ed2d99c3a1a133f25d3917ae050aabb",
+      "sha256" : "e2cdf6ca03ed807bc9c8ecbd42323e17554afe6da4fde1dd92b23c8bd903da60",
       "stats" : {
         "downloadCount" : 107,
         "impressionCount" : 664
       },
       "subtitle" : "Remote pair programming app",
       "tintColor" : "616CBA",
-      "version" : "0.99.3,2022-11-03,18adf0001",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "0.99.4,2022-11-09,bdefe5afe",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -3144,20 +3144,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://releases.sigmaos.com/SigmaOS-0.28.0.1.dmg",
+      "downloadURL" : "https://releases.sigmaos.com/SigmaOS-0.28.0.2.dmg",
       "homepage" : "https://sigmaos.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sigmaos/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "sigmaos",
-      "sha256" : "9dfcbd0c4a7be7fc89d43a8579861340e8dacd375b1d8737cc4f2458f42304c0",
+      "sha256" : "9f0895cc1ca41c078945ddb8d9fbffb2284cc479d1759a77b54b187f9038c3cc",
       "stats" : {
         "downloadCount" : 54,
         "impressionCount" : 756
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
-      "version" : "0.28.0.1",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "0.28.0.2",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -12339,8 +12339,8 @@
       },
       "subtitle" : "Client for the Tresorit cloud storage service",
       "tintColor" : "CDE8F6",
-      "version" : "3.5.2454.3290",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "3.5.2471.3320",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -12707,19 +12707,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_17_0_20221001_OSX_WithJRE.dmg",
+      "downloadURL" : "https://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_17_0_20221107_OSX_WithJRE.dmg",
       "homepage" : "https://www.visual-paradigm.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-paradigm-ce/AppIcon.png",
       "localizedDescription" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
       "name" : "Visual Paradigm Community Edition",
-      "sha256" : "c727c33b3d55418286882337b3354c0f055ef2e3f6ba61ddebc06422f0eac01f",
+      "sha256" : "4f09cdbe2ad53d9cfb8b3c37a18e1f98a4fddaa00906be9b23a72e0e22d49e20",
       "stats" : {
         "downloadCount" : 26,
         "impressionCount" : 137
       },
       "subtitle" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
       "tintColor" : "DE7A7A",
-      "version" : "17.0,20221001"
+      "version" : "17.0,20221107",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -12787,19 +12788,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp17.0/20221001/Visual_Paradigm_17_0_20221001_OSX_WithJRE.dmg",
+      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp17.0/20221107/Visual_Paradigm_17_0_20221107_OSX_WithJRE.dmg",
       "homepage" : "https://www.visual-paradigm.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-paradigm/AppIcon.png",
       "localizedDescription" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "name" : "Visual Paradigm",
-      "sha256" : "7f3be96a45e17854d9fd825bdb4d9d8737e25d1253aabe9dafd4a2b128bdcb9a",
+      "sha256" : "699d61b9692cce4eae80bf7bd4d9aa1cc360e4558b4a1faee217da856c2c2378",
       "stats" : {
         "downloadCount" : 24,
         "impressionCount" : 153
       },
       "subtitle" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "tintColor" : "DE7A7A",
-      "version" : "17.0,20221001"
+      "version" : "17.0,20221107",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -18282,7 +18284,7 @@
       },
       "subtitle" : "Home media player",
       "version" : "1.57.1.3358,5fd2a504",
-      "versionDate" : "2022-11-09T20:37:33Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20992,17 +20994,17 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://cdn.zoom.us/prod/5.12.6.12435/ZoomInstallerIT.pkg",
+      "downloadURL" : "https://cdn.zoom.us/prod/5.12.7.12529/ZoomInstallerIT.pkg",
       "homepage" : "https://support.zoom.us/hc/en-us/articles/115001799006-Mass-Deployment-with-Preconfigured-Settings-for-Mac",
       "localizedDescription" : "Video communication and virtual meeting platform",
       "name" : "Zoom for IT Admins",
-      "sha256" : "4f3216d5f0c58dc06ae854ab907238d6a7e73b87db1fefadab879c16cdb189cd",
+      "sha256" : "d596838ef2a3f842f6e3c390cd861fb42c9c59d1e1764c16f0254aab6202af27",
       "stats" : {
         "downloadCount" : 199
       },
       "subtitle" : "Video communication and virtual meeting platform",
-      "version" : "5.12.6.12435",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "5.12.7.12529",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -23160,16 +23162,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "okta-advanced-server-access",
-      "downloadURL" : "https://dist.scaleft.com/client-tools/mac/v1.62.3/ScaleFT-1.62.3.pkg",
+      "downloadURL" : "https://dist.scaleft.com/client-tools/mac/v1.64.1/ScaleFT-1.64.1.pkg",
       "homepage" : "https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/sft-osx.htm",
       "localizedDescription" : "Identity and access management",
       "name" : "Okta Advanced Server Access",
-      "sha256" : "15ac485f0c2c9446e6bd9cf44a783dd17eda578abf7f6967e4b407db7f104e41",
+      "sha256" : "b0bc7a148f73b7cab08fd03491cb3d637a0eb63ead5b86d3cddbfbe64a4bb4dc",
       "stats" : {
         "downloadCount" : 126
       },
       "subtitle" : "Identity and access management",
-      "version" : "1.62.3"
+      "version" : "1.64.1",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -29567,8 +29570,8 @@
         "downloadCount" : 41
       },
       "subtitle" : "Interactive media player",
-      "version" : "13.10.5,20221028144900",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "13.10.6,20221109141600",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -33224,17 +33227,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "topaz-video-ai",
-      "downloadURL" : "https://downloads.topazlabs.com/deploy/TopazVideoAI/3.0.2/TopazVideoAI-3.0.2.dmg",
+      "downloadURL" : "https://downloads.topazlabs.com/deploy/TopazVideoAI/3.0.3/TopazVideoAI-3.0.3.dmg",
       "homepage" : "https://www.topazlabs.com/topaz-video-ai",
       "localizedDescription" : "Video upscaler and quality enhancer",
       "name" : "Topaz Video AI",
-      "sha256" : "5bd3abc178a0bfa5865e984d0289b162f5b899a348c8c39530c29a9115bc3093",
+      "sha256" : "afc017b067d4307cbcdf34726ddf3bf80ada2a24214a983313adad61fee6f703",
       "stats" : {
         "downloadCount" : 25
       },
       "subtitle" : "Video upscaler and quality enhancer",
-      "version" : "3.0.2",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "3.0.3",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -36914,17 +36917,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gitfox",
-      "downloadURL" : "https://storage.googleapis.com/gitfox/builds/retail/7526/Gitfox.7526.zip",
+      "downloadURL" : "https://storage.googleapis.com/gitfox/builds/retail/7583/Gitfox.7583.zip",
       "homepage" : "https://www.gitfox.app/",
       "localizedDescription" : "Git client",
       "name" : "Gitfox",
-      "sha256" : "e8d8e118e7d598d6b91f941d14c1caab7610acea05123fde6686921a266c1a3a",
+      "sha256" : "4e6468fea95f95df8e3526b78b94a435360467ea44f9b8861e063a3554dc2c6b",
       "stats" : {
         "downloadCount" : 16
       },
       "subtitle" : "Git client",
-      "version" : "3.0.4,7526",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "3.0.5,7583",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -37432,17 +37435,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "aptakube",
-      "downloadURL" : "https://releases.aptakube.com/Aptakube_0.7.0_universal.dmg",
+      "downloadURL" : "https://releases.aptakube.com/Aptakube_0.7.1_universal.dmg",
       "homepage" : "https://aptakube.com/",
       "localizedDescription" : "Modern, lightweight and multi-cluster Kubernetes desktop client",
       "name" : "Aptakube",
-      "sha256" : "66fe8babf3a3593fc027cb60342edfd9102426b102e8b7dedccb1374130799e0",
+      "sha256" : "f70c591be28e02662c00260463775cb1949f6e3c944944ccef08b51a0974d583",
       "stats" : {
         "downloadCount" : 15
       },
       "subtitle" : "Modern, lightweight and multi-cluster Kubernetes desktop client",
-      "version" : "0.7.0",
-      "versionDate" : "2022-11-05T00:00:00Z"
+      "version" : "0.7.1",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -42147,17 +42150,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "razorsql",
-      "downloadURL" : "https://s3.dualstack.us-east-1.amazonaws.com/downloads.razorsql.com/downloads/10_1_0/razorsql10_1_0.dmg",
+      "downloadURL" : "https://s3.dualstack.us-east-1.amazonaws.com/downloads.razorsql.com/downloads/10_1_1/razorsql10_1_1.dmg",
       "homepage" : "https://razorsql.com/",
       "localizedDescription" : "SQL query tool and SQL editor",
       "name" : "RazorSQL",
-      "sha256" : "858347f558f20c34a4454ac8805b28ab16f590f417dd19e253742929b6c4596d",
+      "sha256" : "9f2cd4c326dc09c0df27e8ed11411a23310e3b93f6ec6e71f09ac53048ee29e1",
       "stats" : {
         "downloadCount" : 10
       },
       "subtitle" : "SQL query tool and SQL editor",
-      "version" : "10.1.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "10.1.1",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -43748,16 +43751,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "freeyourmusic",
-      "downloadURL" : "https://fym-app-production.s3.nl-ams.scw.cloud/FreeYourMusic-7.2.0.dmg",
+      "downloadURL" : "https://fym-app-production.s3.nl-ams.scw.cloud/FreeYourMusic-7.2.1.dmg",
       "homepage" : "https://freeyourmusic.com/",
       "localizedDescription" : "Move playlists, tracks, and albums between music platforms",
       "name" : "FreeYourMusic",
-      "sha256" : "8006f8b15234dbc7969ab5cc0faf7898f3b48bc16fa8b736bdd9025040c3e655",
+      "sha256" : "181099803df40b05b3a1149004960e18efeef8b2b8e4b756f0ae3c696c2dfe85",
       "stats" : {
         "downloadCount" : 8
       },
       "subtitle" : "Move playlists, tracks, and albums between music platforms",
-      "version" : "7.2.0"
+      "version" : "7.2.1",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -54626,17 +54630,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "alfaview",
-      "downloadURL" : "https://assets.alfaview.com/stable/mac/alfaview-mac-production-8.57.0.dmg",
+      "downloadURL" : "https://assets.alfaview.com/stable/mac/alfaview-mac-production-8.58.1.dmg",
       "homepage" : "https://alfaview.com/",
       "localizedDescription" : "Audio video conferencing",
       "name" : "Alfaview",
-      "sha256" : "1f84d55b5e2603df930e862ed3d2f58f4d0a4d93362992b3cce0275c04a40ccd",
+      "sha256" : "05c7dac22137a1843c5149f171bede78e48f8652fc3ad14372b0415790eae5e2",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Audio video conferencing",
-      "version" : "8.57.0",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "8.58.1",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -55263,17 +55267,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "daedalus-mainnet",
-      "downloadURL" : "https://update-cardano-mainnet.iohk.io/daedalus-5.1.0-mainnet-22239-x86_64-darwin.pkg",
+      "downloadURL" : "https://update-cardano-mainnet.iohk.io/daedalus-5.1.1-mainnet-22358-x86_64-darwin.pkg",
       "homepage" : "https://daedaluswallet.io/",
       "localizedDescription" : "Cryptocurrency wallet for ada on the Cardano blockchain",
       "name" : "Daedalus Mainnet",
-      "sha256" : "9c61eb7149106bf9ccc314ec6bb08cace557aeb347a0e76af9406b34f13a00b0",
+      "sha256" : "2f2ade6cb1f944751e1637782e38888cee13fb67ef76b134dcb453aa1cfb8a0d",
       "stats" : {
         "downloadCount" : 2
       },
       "subtitle" : "Cryptocurrency wallet for ada on the Cardano blockchain",
-      "version" : "5.1.0,22239",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5.1.1,22358",
+      "versionDate" : "2022-11-09T21:37:02Z"
     },
     {
       "beta" : false,
@@ -59948,7 +59952,7 @@
       },
       "subtitle" : "Slicer for AnkerMake 3D printers",
       "version" : "2.0.0",
-      "versionDate" : "2022-11-09T20:37:33Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62215,132 +62219,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "wpsoffice-cn",
-      "caption" : "WPS Office updated from 5.0.0,7548 to 5.0.0,7550",
-      "date" : "2022-11-08T06:44:58Z",
-      "identifier" : "release-wpsoffice-cn-5.0.0,7550",
-      "title" : "New Release: WPS Office 5.0.0,7550"
-    },
-    {
-      "appID" : "jetbrains-gateway",
-      "caption" : "jetbrains-gateway updated from 222.4345.14 to 222.4459.11",
-      "date" : "2022-11-08T06:44:58Z",
-      "identifier" : "release-jetbrains-gateway-222.4459.11",
-      "title" : "New Release: jetbrains-gateway 222.4459.11"
-    },
-    {
-      "appID" : "omnioutliner",
-      "caption" : "OmniOutliner updated from 5.11 to 5.11.1",
-      "date" : "2022-11-08T06:44:59Z",
-      "identifier" : "release-omnioutliner-5.11.1",
-      "title" : "New Release: OmniOutliner 5.11.1"
-    },
-    {
-      "appID" : "omniplan",
-      "caption" : "OmniPlan updated from 4.5 to 4.5.1",
-      "date" : "2022-11-08T06:44:59Z",
-      "identifier" : "release-omniplan-4.5.1",
-      "title" : "New Release: OmniPlan 4.5.1"
-    },
-    {
-      "appID" : "plex-htpc",
-      "caption" : "Plex HTPC updated from 1.28.2.3347,0fac4b28 to 1.28.3.3355,5ad65b5d",
-      "date" : "2022-11-08T06:44:59Z",
-      "identifier" : "release-plex-htpc-1.28.3.3355,5ad65b5d",
-      "title" : "New Release: Plex HTPC 1.28.3.3355,5ad65b5d"
-    },
-    {
-      "appID" : "igv",
-      "caption" : "Integrative Genomics Viewer (IGV) updated from 2.15.1 to 2.15.2",
-      "date" : "2022-11-08T06:44:59Z",
-      "identifier" : "release-igv-2.15.2",
-      "title" : "New Release: Integrative Genomics Viewer (IGV) 2.15.2"
-    },
-    {
-      "appID" : "quicken",
-      "caption" : "Quicken updated from 6.10.2,610.46306.100 to 6.10.3,610.46328.100",
-      "date" : "2022-11-08T06:45:00Z",
-      "identifier" : "release-quicken-6.10.3,610.46328.100",
-      "title" : "New Release: Quicken 6.10.3,610.46328.100"
-    },
-    {
-      "appID" : "prowlarr",
-      "caption" : "Prowlarr updated from 0.4.7.2016 to 0.4.8.2072",
-      "date" : "2022-11-08T06:45:00Z",
-      "identifier" : "release-prowlarr-0.4.8.2072",
-      "title" : "New Release: Prowlarr 0.4.8.2072"
-    },
-    {
-      "appID" : "jquake",
-      "caption" : "JQuake updated from 1.8.1 to 1.8.2",
-      "date" : "2022-11-08T06:45:00Z",
-      "identifier" : "release-jquake-1.8.2",
-      "title" : "New Release: JQuake 1.8.2"
-    },
-    {
-      "appID" : "mcbopomofo",
-      "caption" : "McBopomofo updated from 2.4.1 to 2.4.2",
-      "date" : "2022-11-08T06:45:01Z",
-      "identifier" : "release-mcbopomofo-2.4.2",
-      "title" : "New Release: McBopomofo 2.4.2"
-    },
-    {
-      "appID" : "onekey",
-      "caption" : "OneKey updated from 3.16.0 to 3.17.0",
-      "date" : "2022-11-08T06:45:01Z",
-      "identifier" : "release-onekey-3.17.0",
-      "title" : "New Release: OneKey 3.17.0"
-    },
-    {
-      "appID" : "akiflow",
-      "caption" : "Akiflow updated from 2.29.13 to 2.29.16",
-      "date" : "2022-11-08T06:45:01Z",
-      "identifier" : "release-akiflow-2.29.16",
-      "title" : "New Release: Akiflow 2.29.16"
-    },
-    {
-      "appID" : "shimonote",
-      "caption" : "Shimonote updated from 3.0.0,3fb3ddc0 to 3.1.1,6d78b4a",
-      "date" : "2022-11-08T06:45:01Z",
-      "identifier" : "release-shimonote-3.1.1,6d78b4a",
-      "title" : "New Release: Shimonote 3.1.1,6d78b4a"
-    },
-    {
-      "appID" : "sound-siphon",
-      "caption" : "SoundSiphon updated from 3.4.1 to 3.4.2",
-      "date" : "2022-11-08T06:45:01Z",
-      "identifier" : "release-sound-siphon-3.4.2",
-      "title" : "New Release: SoundSiphon 3.4.2"
-    },
-    {
-      "appID" : "photo-supreme-single-user",
-      "caption" : "Photo Supreme Single User updated from 7.4.1.4619 to 7.4.1.4621",
-      "date" : "2022-11-08T06:45:01Z",
-      "identifier" : "release-photo-supreme-single-user-7.4.1.4621",
-      "title" : "New Release: Photo Supreme Single User 7.4.1.4621"
-    },
-    {
-      "appID" : "aircall",
-      "caption" : "Aircall updated from 2.26.9 to 2.27.0",
-      "date" : "2022-11-08T10:46:35Z",
-      "identifier" : "release-aircall-2.27.0",
-      "title" : "New Release: Aircall 2.27.0"
-    },
-    {
-      "appID" : "google-earth-pro",
-      "caption" : "Google Earth Pro updated from 7.3.6.9277 to 7.3.6.9285",
-      "date" : "2022-11-08T11:32:39Z",
-      "identifier" : "release-google-earth-pro-7.3.6.9285",
-      "title" : "New Release: Google Earth Pro 7.3.6.9285"
-    },
-    {
-      "appID" : "funter",
-      "caption" : "Funter updated from 5.4.3,218 to 6.0.1,323",
-      "date" : "2022-11-08T11:32:39Z",
-      "identifier" : "release-funter-6.0.1,323",
-      "title" : "New Release: Funter 6.0.1,323"
-    },
-    {
       "appID" : "camunda-modeler",
       "caption" : "Camunda Modeler updated from 5.4.2 to 5.5.0",
       "date" : "2022-11-08T14:00:33Z",
@@ -62913,6 +62791,132 @@
       "date" : "2022-11-09T20:37:34Z",
       "identifier" : "release-ankerslicer-2.0.0",
       "title" : "New Release: ankerslicer 2.0.0"
+    },
+    {
+      "appID" : "skype",
+      "caption" : "Skype updated from 8.90.0.405 to 8.90.0.407",
+      "date" : "2022-11-09T21:37:03Z",
+      "identifier" : "release-skype-8.90.0.407",
+      "title" : "New Release: Skype 8.90.0.407"
+    },
+    {
+      "appID" : "zoom",
+      "caption" : "Zoom.us updated from 5.12.6.12435 to 5.12.7.12529",
+      "date" : "2022-11-09T21:37:03Z",
+      "identifier" : "release-zoom-5.12.7.12529",
+      "title" : "New Release: Zoom.us 5.12.7.12529"
+    },
+    {
+      "appID" : "sketch",
+      "caption" : "Sketch updated from 94,156491 to 94.1,156562",
+      "date" : "2022-11-09T21:37:03Z",
+      "identifier" : "release-sketch-94.1,156562",
+      "title" : "New Release: Sketch 94.1,156562"
+    },
+    {
+      "appID" : "tuple",
+      "caption" : "Tuple updated from 0.99.3,2022-11-03,18adf0001 to 0.99.4,2022-11-09,bdefe5afe",
+      "date" : "2022-11-09T21:37:04Z",
+      "identifier" : "release-tuple-0.99.4,2022-11-09,bdefe5afe",
+      "title" : "New Release: Tuple 0.99.4,2022-11-09,bdefe5afe"
+    },
+    {
+      "appID" : "sigmaos",
+      "caption" : "sigmaos updated from 0.28.0.1 to 0.28.0.2",
+      "date" : "2022-11-09T21:37:04Z",
+      "identifier" : "release-sigmaos-0.28.0.2",
+      "title" : "New Release: sigmaos 0.28.0.2"
+    },
+    {
+      "appID" : "tresorit",
+      "caption" : "Tresorit updated from 3.5.2454.3290 to 3.5.2471.3320",
+      "date" : "2022-11-09T21:37:04Z",
+      "identifier" : "release-tresorit-3.5.2471.3320",
+      "title" : "New Release: Tresorit 3.5.2471.3320"
+    },
+    {
+      "appID" : "visual-paradigm-ce",
+      "caption" : "Visual Paradigm Community Edition updated from 17.0,20221001 to 17.0,20221107",
+      "date" : "2022-11-09T21:37:04Z",
+      "identifier" : "release-visual-paradigm-ce-17.0,20221107",
+      "title" : "New Release: Visual Paradigm Community Edition 17.0,20221107"
+    },
+    {
+      "appID" : "visual-paradigm",
+      "caption" : "Visual Paradigm updated from 17.0,20221001 to 17.0,20221107",
+      "date" : "2022-11-09T21:37:05Z",
+      "identifier" : "release-visual-paradigm-17.0,20221107",
+      "title" : "New Release: Visual Paradigm 17.0,20221107"
+    },
+    {
+      "appID" : "zoom-for-it-admins",
+      "caption" : "Zoom for IT Admins updated from 5.12.6.12435 to 5.12.7.12529",
+      "date" : "2022-11-09T21:37:05Z",
+      "identifier" : "release-zoom-for-it-admins-5.12.7.12529",
+      "title" : "New Release: Zoom for IT Admins 5.12.7.12529"
+    },
+    {
+      "appID" : "okta-advanced-server-access",
+      "caption" : "Okta Advanced Server Access updated from 1.62.3 to 1.64.1",
+      "date" : "2022-11-09T21:37:05Z",
+      "identifier" : "release-okta-advanced-server-access-1.64.1",
+      "title" : "New Release: Okta Advanced Server Access 1.64.1"
+    },
+    {
+      "appID" : "qiyimedia",
+      "caption" : "iQIYI updated from 13.10.5,20221028144900 to 13.10.6,20221109141600",
+      "date" : "2022-11-09T21:37:06Z",
+      "identifier" : "release-qiyimedia-13.10.6,20221109141600",
+      "title" : "New Release: iQIYI 13.10.6,20221109141600"
+    },
+    {
+      "appID" : "topaz-video-ai",
+      "caption" : "Topaz Video AI updated from 3.0.2 to 3.0.3",
+      "date" : "2022-11-09T21:37:06Z",
+      "identifier" : "release-topaz-video-ai-3.0.3",
+      "title" : "New Release: Topaz Video AI 3.0.3"
+    },
+    {
+      "appID" : "gitfox",
+      "caption" : "Gitfox updated from 3.0.4,7526 to 3.0.5,7583",
+      "date" : "2022-11-09T21:37:06Z",
+      "identifier" : "release-gitfox-3.0.5,7583",
+      "title" : "New Release: Gitfox 3.0.5,7583"
+    },
+    {
+      "appID" : "aptakube",
+      "caption" : "Aptakube updated from 0.7.0 to 0.7.1",
+      "date" : "2022-11-09T21:37:06Z",
+      "identifier" : "release-aptakube-0.7.1",
+      "title" : "New Release: Aptakube 0.7.1"
+    },
+    {
+      "appID" : "razorsql",
+      "caption" : "RazorSQL updated from 10.1.0 to 10.1.1",
+      "date" : "2022-11-09T21:37:07Z",
+      "identifier" : "release-razorsql-10.1.1",
+      "title" : "New Release: RazorSQL 10.1.1"
+    },
+    {
+      "appID" : "freeyourmusic",
+      "caption" : "FreeYourMusic updated from 7.2.0 to 7.2.1",
+      "date" : "2022-11-09T21:37:07Z",
+      "identifier" : "release-freeyourmusic-7.2.1",
+      "title" : "New Release: FreeYourMusic 7.2.1"
+    },
+    {
+      "appID" : "alfaview",
+      "caption" : "Alfaview updated from 8.57.0 to 8.58.1",
+      "date" : "2022-11-09T21:37:08Z",
+      "identifier" : "release-alfaview-8.58.1",
+      "title" : "New Release: Alfaview 8.58.1"
+    },
+    {
+      "appID" : "daedalus-mainnet",
+      "caption" : "Daedalus Mainnet updated from 5.1.0,22239 to 5.1.1,22358",
+      "date" : "2022-11-09T21:37:08Z",
+      "identifier" : "release-daedalus-mainnet-5.1.1,22358",
+      "title" : "New Release: Daedalus Mainnet 5.1.1,22358"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

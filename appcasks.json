@@ -2630,6 +2630,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "waterfox",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://cdn1.waterfox.net/waterfox/releases/G5.0.2/Darwin_x86_64-aarch64/Waterfox%20G5.0.2.dmg",
+      "homepage" : "https://www.waterfox.net/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-waterfox/AppIcon.png",
+      "localizedDescription" : "Web browser",
+      "name" : "Waterfox",
+      "sha256" : "923f5adfd73b07cde3bcc0385481733018fa99f252f47ae43eed15864e62d9f1",
+      "stats" : {
+        "downloadCount" : 80,
+        "impressionCount" : 596
+      },
+      "subtitle" : "Web browser",
+      "tintColor" : "23BAF6",
+      "version" : "5.0.2",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "shuttle",
       "categories" : [
         "public.app-category.developer-tools"
@@ -4872,6 +4893,25 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "waves-central",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://cf-installers.waves.com/WavesCentral/Install_Waves_Central.dmg",
+      "homepage" : "https://www.waves.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-waves-central/AppIcon.png",
+      "localizedDescription" : "Client to install and activate Waves products",
+      "name" : "Waves Central",
+      "stats" : {
+        "downloadCount" : 23,
+        "impressionCount" : 340
+      },
+      "subtitle" : "Client to install and activate Waves products",
+      "tintColor" : "2C2C2C",
+      "version" : "13.3.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "virtualc64",
       "categories" : [
         "public.app-category.entertainment"
@@ -4950,6 +4990,26 @@
       "tintColor" : "8A3C3E",
       "version" : "2.4.11",
       "versionDate" : "2022-11-08T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "waterfox-classic",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://github.com/WaterfoxCo/Waterfox-Classic/releases/download/2022.08-classic/Waterfox.Classic.2022.08.Setup.dmg",
+      "homepage" : "https://classic.waterfox.net/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-waterfox-classic/AppIcon.png",
+      "localizedDescription" : "Web browser",
+      "name" : "Waterfox Classic",
+      "sha256" : "9960899abd24d1802640d1be98d099a5ecf49c9cf18a59f1a98962234b7f92f8",
+      "stats" : {
+        "downloadCount" : 22,
+        "impressionCount" : 375
+      },
+      "subtitle" : "Web browser",
+      "tintColor" : "60B8DF",
+      "version" : "2022.08"
     },
     {
       "beta" : false,
@@ -7051,6 +7111,27 @@
       },
       "tintColor" : "8F61C8",
       "version" : "2.13.0,2.13.01"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wasabi-wallet",
+      "categories" : [
+        "public.app-category.finance"
+      ],
+      "downloadURL" : "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2/Wasabi-2.0.2.dmg",
+      "homepage" : "https://github.com/zkSNACKs/WalletWasabi/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wasabi-wallet/AppIcon.png",
+      "localizedDescription" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
+      "name" : "Wasabi Wallet",
+      "sha256" : "d0401d7b8b34a2f75f289c41e71515ff2581c993ef4df9e1084f427352db11ca",
+      "stats" : {
+        "downloadCount" : 7,
+        "impressionCount" : 935
+      },
+      "subtitle" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
+      "tintColor" : "A8AD40",
+      "version" : "2.0.2",
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12463,6 +12544,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "webcamoid",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/webcamoid/webcamoid/releases/download/9.0.0/webcamoid-portable-mac-9.0.0-x86_64.dmg",
+      "homepage" : "https://webcamoid.github.io/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-webcamoid/AppIcon.png",
+      "name" : "Webcamoid",
+      "sha256" : "420f695e5bafbc1b9760ee5fb9bb06707cb302ff973975374ce7d857093c85dd",
+      "stats" : {
+        "downloadCount" : 30,
+        "impressionCount" : 57
+      },
+      "tintColor" : "8B8B8B",
+      "version" : "9.0.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "texworks",
       "categories" : [
 
@@ -12839,6 +12938,27 @@
       "subtitle" : "Font manager",
       "tintColor" : "25A9EE",
       "version" : "5.9.5.8"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wavebox",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.107.10.2.dmg",
+      "homepage" : "https://wavebox.io/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wavebox/AppIcon.png",
+      "localizedDescription" : "Web browser",
+      "name" : "Wavebox",
+      "sha256" : "c75a63f667ddb9ec70e0f9643584e1e35a62cbb8fe8a61fef8aa8e75f79a00bb",
+      "stats" : {
+        "downloadCount" : 22,
+        "impressionCount" : 254
+      },
+      "subtitle" : "Web browser",
+      "tintColor" : "72BBEC",
+      "version" : "10.107.10.2",
+      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -14074,6 +14194,24 @@
       "subtitle" : "Ham radio app implementing communication protocols for weak-signal conditions",
       "tintColor" : "35607A",
       "version" : "2.5.4"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wavesurfer",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://downloads.sourceforge.net/wavesurfer/wavesurfer-1.8.8p6.1-macos.dmg",
+      "homepage" : "https://sourceforge.net/projects/wavesurfer/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wavesurfer/AppIcon.png",
+      "name" : "WaveSurfer",
+      "sha256" : "ef1aacab25f37d595e87e5638cd9ef5b3b2af22a05c6aa06585795915a8ae6ea",
+      "stats" : {
+        "downloadCount" : 6,
+        "impressionCount" : 88
+      },
+      "tintColor" : "768AA6",
+      "version" : "1.8.8p6.1"
     },
     {
       "beta" : false,
@@ -16339,13 +16477,12 @@
       "homepage" : "https://balena.io/etcher",
       "localizedDescription" : "Tool to flash OS images to SD cards & USB drives",
       "name" : "Etcher",
-      "sha256" : "4c3ca69f01e72c0c0e677cb1572bb887cc3cc146cfbe1aaf198cbab2266ed68d",
       "stats" : {
         "downloadCount" : 1950
       },
       "subtitle" : "Tool to flash OS images to SD cards & USB drives",
-      "version" : "1.8.14",
-      "versionDate" : "2022-11-08T00:00:00Z"
+      "version" : "latest",
+      "versionDate" : "2022-11-09T07:35:39Z"
     },
     {
       "beta" : false,
@@ -25418,21 +25555,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "waterfox",
-      "downloadURL" : "https://cdn1.waterfox.net/waterfox/releases/G5.0.2/Darwin_x86_64-aarch64/Waterfox%20G5.0.2.dmg",
-      "homepage" : "https://www.waterfox.net/",
-      "localizedDescription" : "Web browser",
-      "name" : "Waterfox",
-      "sha256" : "923f5adfd73b07cde3bcc0385481733018fa99f252f47ae43eed15864e62d9f1",
-      "stats" : {
-        "downloadCount" : 78
-      },
-      "subtitle" : "Web browser",
-      "version" : "5.0.2",
-      "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "google-chat-electron",
       "downloadURL" : "https://github.com/ankurk91/google-chat-electron/releases/download/2.19.0/google-chat-electron-2.19.0-darwin-x64.zip",
       "homepage" : "https://github.com/ankurk91/google-chat-electron",
@@ -31753,18 +31875,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "webcamoid",
-      "downloadURL" : "https://github.com/webcamoid/webcamoid/releases/download/9.0.0/webcamoid-portable-mac-9.0.0-x86_64.dmg",
-      "homepage" : "https://webcamoid.github.io/",
-      "name" : "Webcamoid",
-      "sha256" : "420f695e5bafbc1b9760ee5fb9bb06707cb302ff973975374ce7d857093c85dd",
-      "stats" : {
-        "downloadCount" : 30
-      },
-      "version" : "9.0.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "wordpresscom",
       "categories" : [
 
@@ -33971,19 +34081,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "waves-central",
-      "downloadURL" : "https://cf-installers.waves.com/WavesCentral/Install_Waves_Central.dmg",
-      "homepage" : "https://www.waves.com/",
-      "localizedDescription" : "Client to install and activate Waves products",
-      "name" : "Waves Central",
-      "stats" : {
-        "downloadCount" : 23
-      },
-      "subtitle" : "Client to install and activate Waves products",
-      "version" : "13.3.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vlc-webplugin",
       "categories" : [
 
@@ -34497,20 +34594,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "waterfox-classic",
-      "downloadURL" : "https://github.com/WaterfoxCo/Waterfox-Classic/releases/download/2022.08-classic/Waterfox.Classic.2022.08.Setup.dmg",
-      "homepage" : "https://classic.waterfox.net/",
-      "localizedDescription" : "Web browser",
-      "name" : "Waterfox Classic",
-      "sha256" : "9960899abd24d1802640d1be98d099a5ecf49c9cf18a59f1a98962234b7f92f8",
-      "stats" : {
-        "downloadCount" : 22
-      },
-      "subtitle" : "Web browser",
-      "version" : "2022.08"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "symboliclinker",
       "categories" : [
 
@@ -34996,21 +35079,6 @@
       },
       "subtitle" : "App icon replacement utility",
       "version" : "1.4,22"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "wavebox",
-      "downloadURL" : "https://download.wavebox.app/stable/mac/Install%20Wavebox%2010.107.10.2.dmg",
-      "homepage" : "https://wavebox.io/",
-      "localizedDescription" : "Web browser",
-      "name" : "Wavebox",
-      "sha256" : "c75a63f667ddb9ec70e0f9643584e1e35a62cbb8fe8a61fef8aa8e75f79a00bb",
-      "stats" : {
-        "downloadCount" : 21
-      },
-      "subtitle" : "Web browser",
-      "version" : "10.107.10.2",
-      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -45820,21 +45888,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "wasabi-wallet",
-      "downloadURL" : "https://github.com/zkSNACKs/WalletWasabi/releases/download/v2.0.2/Wasabi-2.0.2.dmg",
-      "homepage" : "https://github.com/zkSNACKs/WalletWasabi/",
-      "localizedDescription" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
-      "name" : "Wasabi Wallet",
-      "sha256" : "d0401d7b8b34a2f75f289c41e71515ff2581c993ef4df9e1084f427352db11ca",
-      "stats" : {
-        "downloadCount" : 7
-      },
-      "subtitle" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
-      "version" : "2.0.2",
-      "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "zesarux",
       "categories" : [
 
@@ -47417,18 +47470,6 @@
       },
       "subtitle" : "Linux remote desktop server",
       "version" : "4.14.0_2324"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "wavesurfer",
-      "downloadURL" : "https://downloads.sourceforge.net/wavesurfer/wavesurfer-1.8.8p6.1-macos.dmg",
-      "homepage" : "https://sourceforge.net/projects/wavesurfer/",
-      "name" : "WaveSurfer",
-      "sha256" : "ef1aacab25f37d595e87e5638cd9ef5b3b2af22a05c6aa06585795915a8ae6ea",
-      "stats" : {
-        "downloadCount" : 6
-      },
-      "version" : "1.8.8p6.1"
     },
     {
       "beta" : false,
@@ -49413,6 +49454,23 @@
       },
       "subtitle" : "Extract numerical data from plot images",
       "version" : "4.6"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "webarchiveextractor",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://downloads.sourceforge.net/webarchivext/WebArchiveExtractor.0.2.zip",
+      "homepage" : "https://webarchivext.sourceforge.io/",
+      "localizedDescription" : "Extracts content from webarchive files to a directory",
+      "name" : "Web Archive Extractor",
+      "sha256" : "ff9d0debc9c718b58752c1c8163fea627e461238b7f315bdbe85329d427bd7f4",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Extracts content from webarchive files to a directory",
+      "version" : "0.2"
     },
     {
       "beta" : false,
@@ -51634,20 +51692,6 @@
       },
       "subtitle" : "Combined Ukrainian keyboard layout with typographic symbols",
       "version" : "2.0.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "webarchiveextractor",
-      "downloadURL" : "https://downloads.sourceforge.net/webarchivext/WebArchiveExtractor.0.2.zip",
-      "homepage" : "https://webarchivext.sourceforge.io/",
-      "localizedDescription" : "Extracts content from webarchive files to a directory",
-      "name" : "Web Archive Extractor",
-      "sha256" : "ff9d0debc9c718b58752c1c8163fea627e461238b7f315bdbe85329d427bd7f4",
-      "stats" : {
-        "downloadCount" : 4
-      },
-      "subtitle" : "Extracts content from webarchive files to a directory",
-      "version" : "0.2"
     },
     {
       "beta" : false,
@@ -54310,6 +54354,24 @@
       },
       "subtitle" : "Music creation app",
       "version" : "2.2.2,8612"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "weakauras-companion",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v4.0.9/WeakAuras-Companion-4.0.9-mac-universal.dmg",
+      "homepage" : "https://weakauras.wtf/",
+      "localizedDescription" : "Update your auras from Wago.io and creates regular backups of them",
+      "name" : "WeakAuras Companion",
+      "sha256" : "e241e3ab8bbd645ec9a69734a3ef64f4ac484d066c8e3be263b4ec9a8cde2739",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "subtitle" : "Update your auras from Wago.io and creates regular backups of them",
+      "version" : "4.0.9",
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57005,21 +57067,6 @@
       },
       "subtitle" : "External level editor for VVVVVV",
       "version" : "1.10.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "weakauras-companion",
-      "downloadURL" : "https://github.com/WeakAuras/WeakAuras-Companion/releases/download/v4.0.9/WeakAuras-Companion-4.0.9-mac-universal.dmg",
-      "homepage" : "https://weakauras.wtf/",
-      "localizedDescription" : "Update your auras from Wago.io and creates regular backups of them",
-      "name" : "WeakAuras Companion",
-      "sha256" : "e241e3ab8bbd645ec9a69734a3ef64f4ac484d066c8e3be263b4ec9a8cde2739",
-      "stats" : {
-        "downloadCount" : 2
-      },
-      "subtitle" : "Update your auras from Wago.io and creates regular backups of them",
-      "version" : "4.0.9",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62412,13 +62459,6 @@
       "title" : "New Release: Telegram for macOS 9.1.1,238861"
     },
     {
-      "appID" : "balenaetcher",
-      "caption" : "Etcher updated from 1.8.10 to 1.8.14",
-      "date" : "2022-11-08T19:41:22Z",
-      "identifier" : "release-balenaetcher-1.8.14",
-      "title" : "New Release: Etcher 1.8.14"
-    },
-    {
       "appID" : "fsnotes",
       "caption" : "FSNotes updated from 6.0.2 to 6.0.3",
       "date" : "2022-11-08T19:41:22Z",
@@ -62851,6 +62891,13 @@
       "date" : "2022-11-09T02:41:01Z",
       "identifier" : "release-element-1.11.14",
       "title" : "New Release: Element 1.11.14"
+    },
+    {
+      "appID" : "balenaetcher",
+      "caption" : "Etcher updated from 1.8.14 to latest",
+      "date" : "2022-11-09T07:35:39Z",
+      "identifier" : "release-balenaetcher-latest",
+      "title" : "New Release: Etcher latest"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

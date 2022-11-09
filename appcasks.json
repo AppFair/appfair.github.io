@@ -5114,27 +5114,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "ximalaya",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://nativedl.pcdn.xmcdn.com/storages/b0b5-audiofreehighqps/57/FC/GKwRIRwHMDYJACAAAAG7weKb.dmg?ct=application/octet-stream&filename=Ximalaya_3.1.2_x64_c_99",
-      "homepage" : "https://www.ximalaya.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ximalaya/AppIcon.png",
-      "localizedDescription" : "Platform for podcasting and audio-sharing",
-      "name" : "ximalaya",
-      "sha256" : "09022626655455a161aaa42971aa0e210ab7614be7939182ea90ac1a618f8d01",
-      "stats" : {
-        "downloadCount" : 21,
-        "impressionCount" : 891
-      },
-      "subtitle" : "Platform for podcasting and audio-sharing",
-      "tintColor" : "FB4D2D",
-      "version" : "3.1.2,GKwRIRwHMDYJACAAAAG7weKb,b0b5,57,FC",
-      "versionDate" : "2022-11-06T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "upterm",
       "categories" : [
         "public.app-category.developer-tools"
@@ -8272,46 +8251,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "xlplayer",
-      "categories" : [
-        "public.app-category.video"
-      ],
-      "downloadURL" : "https://down.sandai.net/mac/player_3.1.0.65222.dmg",
-      "homepage" : "https://video.xunlei.com/mac.html",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xlplayer/AppIcon.png",
-      "localizedDescription" : "Video player",
-      "name" : "XLPlayer for Mac",
-      "sha256" : "3142bf118eefa19fc61b21623fea6f0ee022c211d4b3fe73e467831c8be87520",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 353
-      },
-      "subtitle" : "Video player",
-      "tintColor" : "C2D7FB",
-      "version" : "3.1.0.65222"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "xit",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://github.com/Uncommon/Xit/releases/download/1.0b16/Xit.zip",
-      "homepage" : "https://github.com/Uncommon/Xit",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xit/AppIcon.png",
-      "localizedDescription" : "GUI for the git version control system",
-      "name" : "Xit",
-      "sha256" : "0e9897d16a5a613a4da9861c907e1f0922df446cc88628e13271793a6c94b229",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 206
-      },
-      "subtitle" : "GUI for the git version control system",
-      "tintColor" : "6F9D90",
-      "version" : "1.0b16"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "weiyun",
       "categories" : [
         "public.app-category.productivity"
@@ -11069,27 +11008,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "xmind",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://dl3.xmind.net/Xmind-for-macOS-22.10.0927.dmg",
-      "homepage" : "https://www.xmind.net/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xmind/AppIcon.png",
-      "localizedDescription" : "Mind mapping and brainstorming tool",
-      "name" : "XMind",
-      "sha256" : "a6f4317c7c885af05aa493935024941118720462fd5e2ac50745f223604ee53b",
-      "stats" : {
-        "downloadCount" : 340,
-        "impressionCount" : 113
-      },
-      "subtitle" : "Mind mapping and brainstorming tool",
-      "tintColor" : "F64C60",
-      "version" : "22.10.0927",
-      "versionDate" : "2022-11-08T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "soapui",
       "categories" : [
 
@@ -11290,26 +11208,6 @@
       "tintColor" : "F5DFA1",
       "version" : "9.10.0.2210304",
       "versionDate" : "2022-10-31T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "xld",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://downloads.sourceforge.net/xld/xld-20220917.dmg",
-      "homepage" : "https://tmkk.undo.jp/xld/index_e.html",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-xld/AppIcon.png",
-      "localizedDescription" : "Lossless audio decoder",
-      "name" : "X Lossless Decoder",
-      "sha256" : "2c5aff1e6f9bdcc210a3aa238f595b90f7e6dcdb4d2be7f5c337ff3bebfdb71e",
-      "stats" : {
-        "downloadCount" : 252,
-        "impressionCount" : 108
-      },
-      "subtitle" : "Lossless audio decoder",
-      "tintColor" : "A8A3B0",
-      "version" : "20220917,155.1"
     },
     {
       "beta" : false,
@@ -15370,7 +15268,7 @@
       },
       "subtitle" : "Command-line shell and scripting language",
       "version" : "7.3.0",
-      "versionDate" : "2022-11-09T02:40:59Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16254,7 +16152,7 @@
       },
       "subtitle" : "Kubernetes IDE",
       "version" : "2022.11.81921",
-      "versionDate" : "2022-11-09T02:40:59Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19557,7 +19455,7 @@
       },
       "subtitle" : "Matrix collaboration client",
       "version" : "1.11.14",
-      "versionDate" : "2022-11-09T02:40:59Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19584,6 +19482,21 @@
       },
       "subtitle" : "Open source build of Lens Kubernetes IDE",
       "version" : "6.1.16",
+      "versionDate" : "2022-11-08T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "xmind",
+      "downloadURL" : "https://dl3.xmind.net/Xmind-for-macOS-22.10.0927.dmg",
+      "homepage" : "https://www.xmind.net/",
+      "localizedDescription" : "Mind mapping and brainstorming tool",
+      "name" : "XMind",
+      "sha256" : "a6f4317c7c885af05aa493935024941118720462fd5e2ac50745f223604ee53b",
+      "stats" : {
+        "downloadCount" : 340
+      },
+      "subtitle" : "Mind mapping and brainstorming tool",
+      "version" : "22.10.0927",
       "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
@@ -20463,6 +20376,20 @@
       },
       "subtitle" : "Network scanner",
       "version" : "3.8.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "xld",
+      "downloadURL" : "https://downloads.sourceforge.net/xld/xld-20220917.dmg",
+      "homepage" : "https://tmkk.undo.jp/xld/index_e.html",
+      "localizedDescription" : "Lossless audio decoder",
+      "name" : "X Lossless Decoder",
+      "sha256" : "2c5aff1e6f9bdcc210a3aa238f595b90f7e6dcdb4d2be7f5c337ff3bebfdb71e",
+      "stats" : {
+        "downloadCount" : 250
+      },
+      "subtitle" : "Lossless audio decoder",
+      "version" : "20220917,155.1"
     },
     {
       "beta" : false,
@@ -35080,6 +35007,21 @@
       },
       "subtitle" : "App icon replacement utility",
       "version" : "1.4,22"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "ximalaya",
+      "downloadURL" : "https://nativedl.pcdn.xmcdn.com/storages/b0b5-audiofreehighqps/57/FC/GKwRIRwHMDYJACAAAAG7weKb.dmg?ct=application/octet-stream&filename=Ximalaya_3.1.2_x64_c_99",
+      "homepage" : "https://www.ximalaya.com/",
+      "localizedDescription" : "Platform for podcasting and audio-sharing",
+      "name" : "ximalaya",
+      "sha256" : "09022626655455a161aaa42971aa0e210ab7614be7939182ea90ac1a618f8d01",
+      "stats" : {
+        "downloadCount" : 21
+      },
+      "subtitle" : "Platform for podcasting and audio-sharing",
+      "version" : "3.1.2,GKwRIRwHMDYJACAAAAG7weKb,b0b5,57,FC",
+      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -51696,6 +51638,34 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "xit",
+      "downloadURL" : "https://github.com/Uncommon/Xit/releases/download/1.0b16/Xit.zip",
+      "homepage" : "https://github.com/Uncommon/Xit",
+      "localizedDescription" : "GUI for the git version control system",
+      "name" : "Xit",
+      "sha256" : "0e9897d16a5a613a4da9861c907e1f0922df446cc88628e13271793a6c94b229",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "GUI for the git version control system",
+      "version" : "1.0b16"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "xlplayer",
+      "downloadURL" : "https://down.sandai.net/mac/player_3.1.0.65222.dmg",
+      "homepage" : "https://video.xunlei.com/mac.html",
+      "localizedDescription" : "Video player",
+      "name" : "XLPlayer for Mac",
+      "sha256" : "3142bf118eefa19fc61b21623fea6f0ee022c211d4b3fe73e467831c8be87520",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Video player",
+      "version" : "3.1.0.65222"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "yousician",
       "downloadURL" : "https://public.yousician.com/Builds/Yousician.dmg",
       "homepage" : "https://yousician.com/",
@@ -57071,23 +57041,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "xiami",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://files.xiami.com/xiamiMac/30b52410ba8955c21df3c3555fa75f6c/a916a2565fc172a83bc0106f1f4c23d5.zip",
-      "homepage" : "https://www.xiami.com/",
-      "localizedDescription" : "Music content management and distribution",
-      "name" : "Xiami",
-      "sha256" : "6afc939ec54927ef8cee8ab4c015477e3efbda9e638242877bffadd183f39bb2",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "subtitle" : "Music content management and distribution",
-      "version" : "7.5.8,7058,30b52410ba8955c21df3c3555fa75f6c,a916a2565fc172a83bc0106f1f4c23d5"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "xamarin-workbooks",
       "categories" : [
 
@@ -59838,6 +59791,20 @@
       },
       "subtitle" : "Live video streaming production tool",
       "version" : "15.1.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "xiami",
+      "downloadURL" : "https://files.xiami.com/xiamiMac/30b52410ba8955c21df3c3555fa75f6c/a916a2565fc172a83bc0106f1f4c23d5.zip",
+      "homepage" : "https://www.xiami.com/",
+      "localizedDescription" : "Music content management and distribution",
+      "name" : "Xiami",
+      "sha256" : "6afc939ec54927ef8cee8ab4c015477e3efbda9e638242877bffadd183f39bb2",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "Music content management and distribution",
+      "version" : "7.5.8,7058,30b52410ba8955c21df3c3555fa75f6c,a916a2565fc172a83bc0106f1f4c23d5"
     },
     {
       "beta" : false,

@@ -97,7 +97,7 @@
       "categories" : [
         "public.app-category.social-networking"
       ],
-      "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2241.7.zip",
+      "downloadURL" : "https://web.whatsapp.com/desktop/mac/files/release-2.2242.6.zip",
       "homepage" : "https://www.whatsapp.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/AppIcon.png",
       "localizedDescription" : "Desktop client for WhatsApp",
@@ -109,7 +109,7 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_03-mac-1724x1420.png",
         "https://github.com/App-Fair/appcasks/releases/download/cask-whatsapp/screenshot_04-mac-1724x1746.png"
       ],
-      "sha256" : "1a66a64dfe17bd0c7d4fe4efbeb0a40843641302396556e995240cf7358d76eb",
+      "sha256" : "f7cc7fb04d13f8a0adf9e41be58d07d2517f125e3b883629a344b5e11354d553",
       "stats" : {
         "downloadCount" : 3606,
         "impressionCount" : 10089,
@@ -117,8 +117,8 @@
       },
       "subtitle" : "Desktop client for WhatsApp",
       "tintColor" : "5DE26D",
-      "version" : "2.2241.7",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "2.2242.6",
+      "versionDate" : "2022-11-09T20:37:33Z"
     },
     {
       "beta" : false,
@@ -839,20 +839,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://update.code.visualstudio.com/1.73.0/darwin/stable",
+      "downloadURL" : "https://update.code.visualstudio.com/1.73.1/darwin/stable",
       "homepage" : "https://code.visualstudio.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-studio-code/AppIcon.png",
       "localizedDescription" : "Open-source code editor",
       "name" : "Microsoft Visual Studio Code",
-      "sha256" : "080352103c9734ccd38d6836328f6ba56f8ab120a90ab138f0036df00b94fd7a",
+      "sha256" : "f6917ab0e41269d07acd93c75b25f3f429ad10ecd799802c7363cd026e82c0fe",
       "stats" : {
         "downloadCount" : 33378,
         "impressionCount" : 1978
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
-      "version" : "1.73.0",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "1.73.1",
+      "versionDate" : "2022-11-09T20:37:33Z"
     },
     {
       "beta" : false,
@@ -10151,7 +10151,7 @@
       "sha256" : "aa2460bf29ded86ed315f1112cf4aafb4d208d4f13becc0db689246bdf5e0444",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 307
+        "impressionCount" : 309
       },
       "subtitle" : "Unicode, Unihan & emoji utilities",
       "tintColor" : "A7CBD9",
@@ -18272,17 +18272,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "plex",
-      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.56.2.3345-2a4c0924/macos/Plex-1.56.2.3345-2a4c0924-x86_64.zip",
+      "downloadURL" : "https://downloads.plex.tv/plex-desktop/1.57.1.3358-5fd2a504/macos/Plex-1.57.1.3358-5fd2a504-x86_64.zip",
       "homepage" : "https://www.plex.tv/",
       "localizedDescription" : "Home media player",
       "name" : "Plex",
-      "sha256" : "25e2a5c373e3ee9fea18a098707d3db332dc7a96c78e396839727a34996b1330",
+      "sha256" : "74b3f8a9c725b84b5c9717f0dccf83f418e042c557251508b8f261ecc6db569c",
       "stats" : {
         "downloadCount" : 545
       },
       "subtitle" : "Home media player",
-      "version" : "1.56.2.3345,2a4c0924",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "1.57.1.3358,5fd2a504",
+      "versionDate" : "2022-11-09T20:37:33Z"
     },
     {
       "beta" : false,
@@ -59938,6 +59938,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "ankerslicer",
+      "downloadURL" : "https://public-make-moat-us.s3.us-east-2.amazonaws.com/ankermake/slicer/AnkerMake_Installer_Mac_Intel.dmg",
+      "homepage" : "https://www.ankermake.com/software",
+      "localizedDescription" : "Slicer for AnkerMake 3D printers",
+      "name" : "ankerslicer",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "subtitle" : "Slicer for AnkerMake 3D printers",
+      "version" : "2.0.0",
+      "versionDate" : "2022-11-09T20:37:33Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "apk-icon-editor",
       "downloadURL" : "https://github.com/kefir500/apk-icon-editor/releases/download/v2.2.0/apk-icon-editor_2.2.0.dmg",
       "homepage" : "https://kefir500.github.io/apk-icon-editor/",
@@ -62201,34 +62215,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "trainerroad",
-      "caption" : "TrainerRoad updated from 2022.39.0.210 to 2022.40.0.211",
-      "date" : "2022-11-08T06:44:57Z",
-      "identifier" : "release-trainerroad-2022.40.0.211",
-      "title" : "New Release: TrainerRoad 2022.40.0.211"
-    },
-    {
-      "appID" : "linearmouse",
-      "caption" : "LinearMouse updated from 0.7.4 to 0.7.5",
-      "date" : "2022-11-08T06:44:57Z",
-      "identifier" : "release-linearmouse-0.7.5",
-      "title" : "New Release: LinearMouse 0.7.5"
-    },
-    {
-      "appID" : "expressvpn",
-      "caption" : "ExpressVPN updated from 11.10.1.70315 to 11.12.0.70542",
-      "date" : "2022-11-08T06:44:57Z",
-      "identifier" : "release-expressvpn-11.12.0.70542",
-      "title" : "New Release: ExpressVPN 11.12.0.70542"
-    },
-    {
-      "appID" : "4k-video-downloader",
-      "caption" : "4K Video Downloader updated from 4.21.7 to 4.22.0",
-      "date" : "2022-11-08T06:44:58Z",
-      "identifier" : "release-4k-video-downloader-4.22.0",
-      "title" : "New Release: 4K Video Downloader 4.22.0"
-    },
-    {
       "appID" : "wpsoffice-cn",
       "caption" : "WPS Office updated from 5.0.0,7548 to 5.0.0,7550",
       "date" : "2022-11-08T06:44:58Z",
@@ -62899,6 +62885,34 @@
       "date" : "2022-11-09T18:41:46Z",
       "identifier" : "release-raycast-1.43.1",
       "title" : "New Release: Raycast 1.43.1"
+    },
+    {
+      "appID" : "whatsapp",
+      "caption" : "WhatsApp updated from 2.2241.7 to 2.2242.6",
+      "date" : "2022-11-09T20:37:33Z",
+      "identifier" : "release-whatsapp-2.2242.6",
+      "title" : "New Release: WhatsApp 2.2242.6"
+    },
+    {
+      "appID" : "visual-studio-code",
+      "caption" : "Microsoft Visual Studio Code updated from 1.73.0 to 1.73.1",
+      "date" : "2022-11-09T20:37:34Z",
+      "identifier" : "release-visual-studio-code-1.73.1",
+      "title" : "New Release: Microsoft Visual Studio Code 1.73.1"
+    },
+    {
+      "appID" : "plex",
+      "caption" : "Plex updated from 1.56.2.3345,2a4c0924 to 1.57.1.3358,5fd2a504",
+      "date" : "2022-11-09T20:37:34Z",
+      "identifier" : "release-plex-1.57.1.3358,5fd2a504",
+      "title" : "New Release: Plex 1.57.1.3358,5fd2a504"
+    },
+    {
+      "appID" : "ankerslicer",
+      "caption" : "ankerslicer 2.0.0 released",
+      "date" : "2022-11-09T20:37:34Z",
+      "identifier" : "release-ankerslicer-2.0.0",
+      "title" : "New Release: ankerslicer 2.0.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

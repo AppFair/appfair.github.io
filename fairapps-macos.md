@@ -26,7 +26,6 @@ tr:nth-child(even) {
 | [``App Fair``](https://appfair.app) | ``0.8.131`` | `652` | `2022-10-20T00:00:00Z` | `12 MB` | `380` | `54` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `194` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1217` | `93` | `0` | `0` |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `147` | `2022-09-26T00:00:00Z` | `2.4 MB` | `968` | `98` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `145` | `2022-10-30T00:00:00Z` | `5 MB` | `2` | `1` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `44` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5724` | `859` | `1` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `3.2 MB` | `459` | `31` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1497` | `123` | `1` | `0` |  |

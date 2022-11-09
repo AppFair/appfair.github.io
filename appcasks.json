@@ -2686,8 +2686,8 @@
       },
       "subtitle" : "Monitors the computer system and optimizes its performance",
       "tintColor" : "DBE8F9",
-      "version" : "1.5.3,101",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.5.4,102",
+      "versionDate" : "2022-11-09T10:39:24Z"
     },
     {
       "beta" : false,
@@ -62200,13 +62200,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "simply-fortran",
-      "caption" : "Simply Fortran updated from 3.25.3757 to 3.26.3806",
-      "date" : "2022-11-08T02:20:29Z",
-      "identifier" : "release-simply-fortran-3.26.3806",
-      "title" : "New Release: Simply Fortran 3.26.3806"
-    },
-    {
       "appID" : "touchosc",
       "caption" : "touchosc updated from 1.1.6,150 to 1.1.7,154",
       "date" : "2022-11-08T04:13:23Z",
@@ -62898,6 +62891,13 @@
       "date" : "2022-11-09T07:35:39Z",
       "identifier" : "release-balenaetcher-latest",
       "title" : "New Release: Etcher latest"
+    },
+    {
+      "appID" : "sensei",
+      "caption" : "Sensei updated from 1.5.3,101 to 1.5.4,102",
+      "date" : "2022-11-09T10:39:24Z",
+      "identifier" : "release-sensei-1.5.4,102",
+      "title" : "New Release: Sensei 1.5.4,102"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

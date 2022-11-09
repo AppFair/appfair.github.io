@@ -733,6 +733,29 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sabnzbd",
+      "categories" : [
+        "public.app-category.news"
+      ],
+      "downloadURL" : "https://github.com/sabnzbd/sabnzbd/releases/download/3.7.0/SABnzbd-3.7.0-osx.dmg",
+      "homepage" : "https://sabnzbd.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sabnzbd/AppIcon.png",
+      "localizedDescription" : "Binary newsreader",
+      "name" : "SABnzbd",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sabnzbd/README.md",
+      "sha256" : "d663b4eeccbcf8c9d50bacb4f5cd9a8d475371848fe1567dc0c594ca88e0a8e3",
+      "stats" : {
+        "downloadCount" : 35,
+        "impressionCount" : 1796,
+        "viewCount" : 83
+      },
+      "subtitle" : "Binary newsreader",
+      "tintColor" : "B09447",
+      "version" : "3.7.0",
+      "versionDate" : "2022-11-04T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "eaglefiler",
       "categories" : [
         "public.app-category.productivity"
@@ -2391,6 +2414,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "runjs",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://github.com/lukehaas/RunJS/releases/download/v2.7.1/RunJS-2.7.1-universal.dmg",
+      "homepage" : "https://runjs.app/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runjs/AppIcon.png",
+      "localizedDescription" : "JavaScript playground that auto-evaluates as code is typed",
+      "name" : "RunJS",
+      "sha256" : "ce91d5b79eac088d7148373b6bb8f91100a4276a3e2160c122ef2cc510dcac6f",
+      "stats" : {
+        "downloadCount" : 97,
+        "impressionCount" : 596
+      },
+      "subtitle" : "JavaScript playground that auto-evaluates as code is typed",
+      "tintColor" : "E0CB1C",
+      "version" : "2.7.1"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "timer",
       "categories" : [
         "public.app-category.utilities"
@@ -3990,26 +4033,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "seamonkey",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://archive.mozilla.org/pub/seamonkey/releases/2.53.14/mac/en-US/seamonkey-2.53.14.en-US.mac.dmg",
-      "homepage" : "https://www.seamonkey-project.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-seamonkey/AppIcon.png",
-      "localizedDescription" : "Development of SeaMonkey Internet Application Suite",
-      "name" : "SeaMonkey",
-      "sha256" : "c3dc74bebf34666a12526c407c8ac088da58f97f871b42b20b259908a8de790b",
-      "stats" : {
-        "downloadCount" : 38,
-        "impressionCount" : 476
-      },
-      "subtitle" : "Development of SeaMonkey Internet Application Suite",
-      "tintColor" : "4B59D3",
-      "version" : "2.53.14"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "ssh-config-editor",
       "categories" : [
         "public.app-category.utilities"
@@ -4407,26 +4430,6 @@
       "subtitle" : "Share peripherals between computers",
       "tintColor" : "CFCFCF",
       "version" : "6.0.48"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "secure-pipes",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.opoet.com/pyro/index.php/files/download/c67223c50be3604",
-      "homepage" : "https://www.opoet.com/pyro/index.php/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-secure-pipes/AppIcon.png",
-      "localizedDescription" : "Manage SSH tunnels",
-      "name" : "Secure Pipes",
-      "sha256" : "de8b6ad6c42509f2c394997694c13a161dcb4f74edfa87f5a63d7362897538f5",
-      "stats" : {
-        "downloadCount" : 29,
-        "impressionCount" : 288
-      },
-      "subtitle" : "Manage SSH tunnels",
-      "tintColor" : "C7CFDF",
-      "version" : "0.99.11,c67223c50be3604"
     },
     {
       "beta" : false,
@@ -5212,26 +5215,6 @@
       "subtitle" : "Mastodon and Pleroma desktop client",
       "tintColor" : "0EA8F3",
       "version" : "1.1.5"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "seaglass",
-      "categories" : [
-        "public.app-category.social-networking"
-      ],
-      "downloadURL" : "https://github.com/neilalexander/seaglass/releases/download/0.0.525-f5a1376/Seaglass-0.0.525-f5a1376.zip",
-      "homepage" : "https://github.com/neilalexander/seaglass/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-seaglass/AppIcon.png",
-      "localizedDescription" : "Matrix client",
-      "name" : "Seaglass",
-      "sha256" : "ff96050e21abef5e11bba60a3c6e6a98a303239a0c36637c8ceb8fa539c7f93a",
-      "stats" : {
-        "downloadCount" : 21,
-        "impressionCount" : 540
-      },
-      "subtitle" : "Matrix client",
-      "tintColor" : "BAF0EE",
-      "version" : "0.0.525-f5a1376"
     },
     {
       "beta" : false,
@@ -7074,6 +7057,26 @@
       },
       "tintColor" : "149FAF",
       "version" : "0.0.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "safe-exam-browser",
+      "categories" : [
+        "public.app-category.education"
+      ],
+      "downloadURL" : "https://github.com/SafeExamBrowser/seb-mac/releases/download/3.1.1/SafeExamBrowser-3.1.1.dmg",
+      "homepage" : "https://safeexambrowser.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-safe-exam-browser/AppIcon.png",
+      "localizedDescription" : "Web browser environment to carry out e-assessments safely",
+      "name" : "Safe Exam Browser",
+      "sha256" : "b08ae3c718ddb6276ce351bccd2e962102c659b563f0261079ffcc3b5220a9bc",
+      "stats" : {
+        "downloadCount" : 8,
+        "impressionCount" : 674
+      },
+      "subtitle" : "Web browser environment to carry out e-assessments safely",
+      "tintColor" : "71818B",
+      "version" : "3.1.1"
     },
     {
       "beta" : false,
@@ -9604,6 +9607,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "ryver",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://d3vkb1nw20iqfq.cloudfront.net/mac/Ryver-1.3.2.dmg",
+      "homepage" : "https://ryver.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ryver/AppIcon.png",
+      "name" : "Ryver",
+      "sha256" : "949abb92a3df5034fd8c81e1fe78a9c7bd7be2ad699bef9d423ad3a39cd48d54",
+      "stats" : {
+        "downloadCount" : 2,
+        "impressionCount" : 133
+      },
+      "tintColor" : "0097D4",
+      "version" : "1.3.2"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "zeitgeist",
       "categories" : [
         "public.app-category.developer-tools"
@@ -10102,20 +10123,23 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "securityspy",
+      "bundleIdentifier" : "safe-multisig",
       "categories" : [
-        "public.app-category.video"
+        "public.app-category.productivity"
       ],
-      "downloadURL" : "https://www.bensoftware.com/securityspy/SecuritySpy.dmg",
-      "homepage" : "https://www.bensoftware.com/securityspy/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-securityspy/AppIcon.png",
-      "name" : "SecuritySpy",
+      "downloadURL" : "https://github.com/gnosis/safe-react/releases/download/v3.22.1-desktop/Safe-3.22.1.dmg",
+      "homepage" : "https://gnosis-safe.io/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-safe-multisig/AppIcon.png",
+      "localizedDescription" : "Ethereum multisig wallet",
+      "name" : "Gnosis Safe Multisig",
+      "sha256" : "21f8df298f1cfd179f88855297f259b433d624aa29427458746484ce10c80048",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 357
+        "impressionCount" : 175
       },
-      "tintColor" : "646769",
-      "version" : "5.3.2,5.0"
+      "subtitle" : "Ethereum multisig wallet",
+      "tintColor" : "292929",
+      "version" : "3.22.1"
     },
     {
       "beta" : false,
@@ -10882,7 +10906,7 @@
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
       "version" : "6.0.18",
-      "versionDate" : "2022-11-09T16:46:41Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11451,6 +11475,26 @@
       },
       "tintColor" : "958080",
       "version" : "5.18.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sage",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/3-manifolds/Sage_macOS/releases/download/v1.5.1/SageMath-9.7_x86_64.dmg",
+      "homepage" : "https://www.sagemath.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sage/AppIcon.png",
+      "localizedDescription" : "Mathematics software system",
+      "name" : "Sage",
+      "sha256" : "ebed7e3f173880894c14bf7c0355667ebbe9afeb219388e35be1ffccf2580dd6",
+      "stats" : {
+        "downloadCount" : 185,
+        "impressionCount" : 80
+      },
+      "subtitle" : "Mathematics software system",
+      "tintColor" : "9E9EFF",
+      "version" : "9.7,1.5.1"
     },
     {
       "beta" : false,
@@ -13437,6 +13481,23 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "runescape",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://content.runescape.com/downloads/osx/RuneScape.dmg",
+      "homepage" : "https://www.runescape.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runescape/AppIcon.png",
+      "name" : "RuneScape",
+      "stats" : {
+        "downloadCount" : 15,
+        "impressionCount" : 54
+      },
+      "tintColor" : "82878B",
+      "version" : "1.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sdrdx",
       "categories" : [
 
@@ -14256,6 +14317,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sameboy",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/LIJI32/SameBoy/releases/download/v0.15.8/sameboy_cocoa_v0.15.8.zip",
+      "homepage" : "https://sameboy.github.io/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sameboy/AppIcon.png",
+      "localizedDescription" : "Game Boy and Game Boy Color emulator written in C",
+      "name" : "SameBoy",
+      "sha256" : "8df3df469868f77777bc1776f15e95085f0256bec891cf65c5918c01cb16611f",
+      "stats" : {
+        "downloadCount" : 6,
+        "impressionCount" : 285
+      },
+      "subtitle" : "Game Boy and Game Boy Color emulator written in C",
+      "tintColor" : "7D8786",
+      "version" : "0.15.8",
+      "versionDate" : "2022-11-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "writefull",
       "categories" : [
 
@@ -14412,6 +14494,26 @@
       "subtitle" : "Open source divelog program",
       "tintColor" : "4E6897",
       "version" : "5.0.10"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "runway",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://runway-releases.s3.amazonaws.com/Runway-0.19.2.dmg",
+      "homepage" : "https://runwayml.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-runway/AppIcon.png",
+      "localizedDescription" : "Creative toolkit powered by machine learning",
+      "name" : "Runway",
+      "sha256" : "25ef6c07a8c0c3832a35d414cfc11ee12f45a8f7c159dcc45129e1514041c474",
+      "stats" : {
+        "downloadCount" : 5,
+        "impressionCount" : 89
+      },
+      "subtitle" : "Creative toolkit powered by machine learning",
+      "tintColor" : "2C443B",
+      "version" : "0.19.2"
     },
     {
       "beta" : false,
@@ -14589,27 +14691,6 @@
       "tintColor" : "FF4E4E",
       "version" : "3.26.3806",
       "versionDate" : "2022-11-08T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "second-life-viewer",
-      "categories" : [
-
-      ],
-      "downloadURL" : "http://download.cloud.secondlife.com/Viewer_6/Second_Life_6_6_7_576223_x86_64.dmg",
-      "homepage" : "https://secondlife.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-second-life-viewer/AppIcon.png",
-      "localizedDescription" : "3D browsing software for Second Life online virtual world",
-      "name" : "Linden Lab Second Life Viewer",
-      "sha256" : "e0e474a2303f779ce91ea7c60a2d6ae6217cb29f50fc3f4c77cb993cd2bc625f",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 199
-      },
-      "subtitle" : "3D browsing software for Second Life online virtual world",
-      "tintColor" : "0A3341",
-      "version" : "6.6.7.576223",
-      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15149,24 +15230,6 @@
       },
       "tintColor" : "1F2B38",
       "version" : "1.0-beta-7.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "security-growler",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/pirate/security-growler/releases/download/v2.3/Security.Growler.app.zip",
-      "homepage" : "https://github.com/pirate/security-growler",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-security-growler/AppIcon.png",
-      "name" : "Security Growler",
-      "sha256" : "ef00c7effca5fb1001498c3490190f9c923bbefa2a0dd2c21df15374bd23c962",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 85
-      },
-      "tintColor" : "7C683F",
-      "version" : "2.3"
     },
     {
       "beta" : false,
@@ -15806,7 +15869,7 @@
       },
       "subtitle" : "Control your tools with a few keystrokes",
       "version" : "1.43.0",
-      "versionDate" : "2022-11-09T16:46:41Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19583,7 +19646,7 @@
       },
       "subtitle" : "Open source build of Lens Kubernetes IDE",
       "version" : "6.1.17",
-      "versionDate" : "2022-11-09T16:46:41Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20957,23 +21020,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "secretive",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/maxgoedjen/secretive/releases/download/v2.2.0/Secretive.zip",
-      "homepage" : "https://github.com/maxgoedjen/secretive",
-      "localizedDescription" : "Store SSH keys in the Secure Enclave",
-      "name" : "Secretive",
-      "sha256" : "82307c6debf36e0619d46b4054c2be201a7d78ff98efdb3c4612bfb1d83b008f",
-      "stats" : {
-        "downloadCount" : 200
-      },
-      "subtitle" : "Store SSH keys in the Secure Enclave",
-      "version" : "2.2.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "linear-linear",
       "downloadURL" : "https://desktop.linear.app/mac/dmg/x64",
       "homepage" : "https://linear.app/",
@@ -21031,6 +21077,20 @@
       },
       "subtitle" : "Official desktop client for Rocket.Chat",
       "version" : "3.8.12"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "secretive",
+      "downloadURL" : "https://github.com/maxgoedjen/secretive/releases/download/v2.2.0/Secretive.zip",
+      "homepage" : "https://github.com/maxgoedjen/secretive",
+      "localizedDescription" : "Store SSH keys in the Secure Enclave",
+      "name" : "Secretive",
+      "sha256" : "82307c6debf36e0619d46b4054c2be201a7d78ff98efdb3c4612bfb1d83b008f",
+      "stats" : {
+        "downloadCount" : 199
+      },
+      "subtitle" : "Store SSH keys in the Secure Enclave",
+      "version" : "2.2.0"
     },
     {
       "beta" : false,
@@ -21368,20 +21428,6 @@
       "subtitle" : "Share, organize and collaborate on designs",
       "version" : "4.6,1692",
       "versionDate" : "2022-11-04T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sage",
-      "downloadURL" : "https://github.com/3-manifolds/Sage_macOS/releases/download/v1.5.1/SageMath-9.7_x86_64.dmg",
-      "homepage" : "https://www.sagemath.org/",
-      "localizedDescription" : "Mathematics software system",
-      "name" : "Sage",
-      "sha256" : "ebed7e3f173880894c14bf7c0355667ebbe9afeb219388e35be1ffccf2580dd6",
-      "stats" : {
-        "downloadCount" : 185
-      },
-      "subtitle" : "Mathematics software system",
-      "version" : "9.7,1.5.1"
     },
     {
       "beta" : false,
@@ -24443,20 +24489,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "runjs",
-      "downloadURL" : "https://github.com/lukehaas/RunJS/releases/download/v2.7.1/RunJS-2.7.1-universal.dmg",
-      "homepage" : "https://runjs.app/",
-      "localizedDescription" : "JavaScript playground that auto-evaluates as code is typed",
-      "name" : "RunJS",
-      "sha256" : "ce91d5b79eac088d7148373b6bb8f91100a4276a3e2160c122ef2cc510dcac6f",
-      "stats" : {
-        "downloadCount" : 97
-      },
-      "subtitle" : "JavaScript playground that auto-evaluates as code is typed",
-      "version" : "2.7.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "psychopy",
       "downloadURL" : "https://github.com/psychopy/psychopy/releases/download/2022.2.4/StandalonePsychoPy-2022.2.4-macOS.dmg",
       "homepage" : "https://github.com/psychopy/psychopy",
@@ -25246,7 +25278,7 @@
       },
       "subtitle" : "Desktop client for Amazon Music",
       "version" : "9.3.4,23811104_16d501b7e2b92ac49efd7017bb29442b",
-      "versionDate" : "2022-11-09T16:46:41Z"
+      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30037,6 +30069,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "seamonkey",
+      "downloadURL" : "https://archive.mozilla.org/pub/seamonkey/releases/2.53.14/mac/en-US/seamonkey-2.53.14.en-US.mac.dmg",
+      "homepage" : "https://www.seamonkey-project.org/",
+      "localizedDescription" : "Development of SeaMonkey Internet Application Suite",
+      "name" : "SeaMonkey",
+      "sha256" : "c3dc74bebf34666a12526c407c8ac088da58f97f871b42b20b259908a8de790b",
+      "stats" : {
+        "downloadCount" : 38
+      },
+      "subtitle" : "Development of SeaMonkey Internet Application Suite",
+      "version" : "2.53.14"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "4k-youtube-to-mp3",
       "downloadURL" : "https://dl.4kdownload.com/app/4kyoutubetomp3_4.6.7.dmg",
       "homepage" : "https://www.4kdownload.com/products/youtubetomp3/1",
@@ -30821,21 +30867,6 @@
       },
       "subtitle" : "Mach-O disassembler",
       "version" : "1.7,b566"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sabnzbd",
-      "downloadURL" : "https://github.com/sabnzbd/sabnzbd/releases/download/3.7.0/SABnzbd-3.7.0-osx.dmg",
-      "homepage" : "https://sabnzbd.org/",
-      "localizedDescription" : "Binary newsreader",
-      "name" : "SABnzbd",
-      "sha256" : "d663b4eeccbcf8c9d50bacb4f5cd9a8d475371848fe1567dc0c594ca88e0a8e3",
-      "stats" : {
-        "downloadCount" : 34
-      },
-      "subtitle" : "Binary newsreader",
-      "version" : "3.7.0",
-      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32386,6 +32417,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "secure-pipes",
+      "downloadURL" : "https://www.opoet.com/pyro/index.php/files/download/c67223c50be3604",
+      "homepage" : "https://www.opoet.com/pyro/index.php/",
+      "localizedDescription" : "Manage SSH tunnels",
+      "name" : "Secure Pipes",
+      "sha256" : "de8b6ad6c42509f2c394997694c13a161dcb4f74edfa87f5a63d7362897538f5",
+      "stats" : {
+        "downloadCount" : 28
+      },
+      "subtitle" : "Manage SSH tunnels",
+      "version" : "0.99.11,c67223c50be3604"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "xamarin-android",
       "categories" : [
 
@@ -32401,23 +32446,6 @@
       "subtitle" : "Gives .NET developers complete access to Android SDK's",
       "version" : "13.1.0.1",
       "versionDate" : "2022-11-08T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "securid",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://community.rsa.com/yfcdo34327/attachments/yfcdo34327/securid-software-token-macos/9/1/RSASecurIDMac423.dmg.zip",
-      "homepage" : "https://community.rsa.com/t5/securid-software-token-for-macos/tkb-p/securid-software-token-macos",
-      "localizedDescription" : "Authentication software",
-      "name" : "RSA SecurID",
-      "sha256" : "025a8be90e972003809f5ae41aa590f8800d51d66b3a3a3f504e0e56f864acb8",
-      "stats" : {
-        "downloadCount" : 27
-      },
-      "subtitle" : "Authentication software",
-      "version" : "4.2.3"
     },
     {
       "beta" : false,
@@ -32800,6 +32828,20 @@
         "downloadCount" : 27
       },
       "version" : "4.7.0,2.12,20170929"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "securid",
+      "downloadURL" : "https://community.rsa.com/yfcdo34327/attachments/yfcdo34327/securid-software-token-macos/9/1/RSASecurIDMac423.dmg.zip",
+      "homepage" : "https://community.rsa.com/t5/securid-software-token-for-macos/tkb-p/securid-software-token-macos",
+      "localizedDescription" : "Authentication software",
+      "name" : "RSA SecurID",
+      "sha256" : "025a8be90e972003809f5ae41aa590f8800d51d66b3a3a3f504e0e56f864acb8",
+      "stats" : {
+        "downloadCount" : 27
+      },
+      "subtitle" : "Authentication software",
+      "version" : "4.2.3"
     },
     {
       "beta" : false,
@@ -35505,6 +35547,23 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sabaki",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-mac-x64.7z",
+      "homepage" : "https://sabaki.yichuanshen.de/",
+      "localizedDescription" : "Go board and SGF editor",
+      "name" : "Sabaki",
+      "sha256" : "5e1a38772cc6926b1880341df128ae2f6172b29128cbb206782c84df6d7ec743",
+      "stats" : {
+        "downloadCount" : 19
+      },
+      "subtitle" : "Go board and SGF editor",
+      "version" : "0.52.2"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "agenda",
       "downloadURL" : "https://downloads.agenda.com/Agenda_16.0.zip",
       "homepage" : "https://agenda.com/",
@@ -35845,17 +35904,17 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sabaki",
-      "downloadURL" : "https://github.com/SabakiHQ/Sabaki/releases/download/v0.52.2/sabaki-v0.52.2-mac-x64.7z",
-      "homepage" : "https://sabaki.yichuanshen.de/",
-      "localizedDescription" : "Go board and SGF editor",
-      "name" : "Sabaki",
-      "sha256" : "5e1a38772cc6926b1880341df128ae2f6172b29128cbb206782c84df6d7ec743",
+      "bundleIdentifier" : "seaglass",
+      "downloadURL" : "https://github.com/neilalexander/seaglass/releases/download/0.0.525-f5a1376/Seaglass-0.0.525-f5a1376.zip",
+      "homepage" : "https://github.com/neilalexander/seaglass/",
+      "localizedDescription" : "Matrix client",
+      "name" : "Seaglass",
+      "sha256" : "ff96050e21abef5e11bba60a3c6e6a98a303239a0c36637c8ceb8fa539c7f93a",
       "stats" : {
         "downloadCount" : 19
       },
-      "subtitle" : "Go board and SGF editor",
-      "version" : "0.52.2"
+      "subtitle" : "Matrix client",
+      "version" : "0.0.525-f5a1376"
     },
     {
       "beta" : false,
@@ -38053,17 +38112,6 @@
       },
       "subtitle" : "XML editor",
       "version" : "0.9.16"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "runescape",
-      "downloadURL" : "https://content.runescape.com/downloads/osx/RuneScape.dmg",
-      "homepage" : "https://www.runescape.com/",
-      "name" : "RuneScape",
-      "stats" : {
-        "downloadCount" : 15
-      },
-      "version" : "1.0"
     },
     {
       "beta" : false,
@@ -44433,20 +44481,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "safe-exam-browser",
-      "downloadURL" : "https://github.com/SafeExamBrowser/seb-mac/releases/download/3.1.1/SafeExamBrowser-3.1.1.dmg",
-      "homepage" : "https://safeexambrowser.org/",
-      "localizedDescription" : "Web browser environment to carry out e-assessments safely",
-      "name" : "Safe Exam Browser",
-      "sha256" : "b08ae3c718ddb6276ce351bccd2e962102c659b563f0261079ffcc3b5220a9bc",
-      "stats" : {
-        "downloadCount" : 8
-      },
-      "subtitle" : "Web browser environment to carry out e-assessments safely",
-      "version" : "3.1.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "schildichat",
       "downloadURL" : "https://github.com/SchildiChat/schildichat-desktop/releases/download/v1.11.13-sc.1/SchildiChat-1.11.13-sc.1-universal_by_nyantec.dmg",
       "homepage" : "https://schildi.chat/desktop/",
@@ -49368,35 +49402,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "runway",
-      "downloadURL" : "https://runway-releases.s3.amazonaws.com/Runway-0.19.2.dmg",
-      "homepage" : "https://runwayml.com/",
-      "localizedDescription" : "Creative toolkit powered by machine learning",
-      "name" : "Runway",
-      "sha256" : "25ef6c07a8c0c3832a35d414cfc11ee12f45a8f7c159dcc45129e1514041c474",
-      "stats" : {
-        "downloadCount" : 5
-      },
-      "subtitle" : "Creative toolkit powered by machine learning",
-      "version" : "0.19.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sameboy",
-      "downloadURL" : "https://github.com/LIJI32/SameBoy/releases/download/v0.15.8/sameboy_cocoa_v0.15.8.zip",
-      "homepage" : "https://sameboy.github.io/",
-      "localizedDescription" : "Game Boy and Game Boy Color emulator written in C",
-      "name" : "SameBoy",
-      "sha256" : "8df3df469868f77777bc1776f15e95085f0256bec891cf65c5918c01cb16611f",
-      "stats" : {
-        "downloadCount" : 5
-      },
-      "subtitle" : "Game Boy and Game Boy Color emulator written in C",
-      "version" : "0.15.8",
-      "versionDate" : "2022-11-06T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sauce-connect",
       "downloadURL" : "https://saucelabs.com/downloads/sc-4.8.1-osx.zip",
       "homepage" : "https://docs.saucelabs.com/secure-connections/sauce-connect/",
@@ -54270,6 +54275,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "second-life-viewer",
+      "downloadURL" : "http://download.cloud.secondlife.com/Viewer_6/Second_Life_6_6_7_576223_x86_64.dmg",
+      "homepage" : "https://secondlife.com/",
+      "localizedDescription" : "3D browsing software for Second Life online virtual world",
+      "name" : "Linden Lab Second Life Viewer",
+      "sha256" : "e0e474a2303f779ce91ea7c60a2d6ae6217cb29f50fc3f4c77cb993cd2bc625f",
+      "stats" : {
+        "downloadCount" : 3
+      },
+      "subtitle" : "3D browsing software for Second Life online virtual world",
+      "version" : "6.6.7.576223",
+      "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "snapmaker-luban",
       "downloadURL" : "https://github.com/Snapmaker/Luban/releases/download/v4.4.0/Snapmaker-Luban-4.4.0-mac.zip",
       "homepage" : "https://luban.xyz/",
@@ -54566,23 +54586,6 @@
       },
       "subtitle" : "Launchd menu bar app",
       "version" : "0.1.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "securesafe",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.securesafe.com/userdata/downloads/securesafe-2.17.0.pkg",
-      "homepage" : "https://www.securesafe.com/",
-      "localizedDescription" : "Highly secure online storage with password manager",
-      "name" : "SecureSafe",
-      "sha256" : "bc8e0123c92496fa28b716fa57ace41db421c0891a1684c2c7cd214c85f2c906",
-      "stats" : {
-        "downloadCount" : 2
-      },
-      "subtitle" : "Highly secure online storage with password manager",
-      "version" : "2.17.0"
     },
     {
       "beta" : false,
@@ -56989,18 +56992,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "ryver",
-      "downloadURL" : "https://d3vkb1nw20iqfq.cloudfront.net/mac/Ryver-1.3.2.dmg",
-      "homepage" : "https://ryver.com/",
-      "name" : "Ryver",
-      "sha256" : "949abb92a3df5034fd8c81e1fe78a9c7bd7be2ad699bef9d423ad3a39cd48d54",
-      "stats" : {
-        "downloadCount" : 2
-      },
-      "version" : "1.3.2"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "scatter",
       "downloadURL" : "https://github.com/GetScatter/ScatterDesktop/releases/download/12.1.1/mac-scatter-12.1.1.dmg",
       "homepage" : "https://get-scatter.com/",
@@ -57012,6 +57003,20 @@
       },
       "subtitle" : "Desktop wallet for EOS",
       "version" : "12.1.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "securesafe",
+      "downloadURL" : "https://www.securesafe.com/userdata/downloads/securesafe-2.17.0.pkg",
+      "homepage" : "https://www.securesafe.com/",
+      "localizedDescription" : "Highly secure online storage with password manager",
+      "name" : "SecureSafe",
+      "sha256" : "bc8e0123c92496fa28b716fa57ace41db421c0891a1684c2c7cd214c85f2c906",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "subtitle" : "Highly secure online storage with password manager",
+      "version" : "2.17.0"
     },
     {
       "beta" : false,
@@ -59785,17 +59790,26 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "safe-multisig",
-      "downloadURL" : "https://github.com/gnosis/safe-react/releases/download/v3.22.1-desktop/Safe-3.22.1.dmg",
-      "homepage" : "https://gnosis-safe.io/",
-      "localizedDescription" : "Ethereum multisig wallet",
-      "name" : "Gnosis Safe Multisig",
-      "sha256" : "21f8df298f1cfd179f88855297f259b433d624aa29427458746484ce10c80048",
+      "bundleIdentifier" : "security-growler",
+      "downloadURL" : "https://github.com/pirate/security-growler/releases/download/v2.3/Security.Growler.app.zip",
+      "homepage" : "https://github.com/pirate/security-growler",
+      "name" : "Security Growler",
+      "sha256" : "ef00c7effca5fb1001498c3490190f9c923bbefa2a0dd2c21df15374bd23c962",
       "stats" : {
         "downloadCount" : 1
       },
-      "subtitle" : "Ethereum multisig wallet",
-      "version" : "3.22.1"
+      "version" : "2.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "securityspy",
+      "downloadURL" : "https://www.bensoftware.com/securityspy/SecuritySpy.dmg",
+      "homepage" : "https://www.bensoftware.com/securityspy/",
+      "name" : "SecuritySpy",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "version" : "5.3.2,5.0"
     },
     {
       "beta" : false,

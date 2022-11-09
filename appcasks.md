@@ -867,7 +867,7 @@ tr:nth-child(even) {
 | [``Brooklyn``](https://github.com/pedrommcarrasco/Brooklyn) | ``2.1.0`` | `2015` |  |  |  |  |  | `0` |  |
 | [``Microsoft Remote Desktop``](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-mac) | ``10.7.10`` | `1991` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``.NET SDK``](https://www.microsoft.com/net/core#macos) | ``7.0.100,11810c49-a615-40…`` | `1968` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Etcher``](https://balena.io/etcher) | ``latest`` | `1950` | `2022-11-09T07:35:39Z` |  |  |  |  | `0` |  |
+| [``Etcher``](https://balena.io/etcher) | ``latest`` | `1950` | `2022-11-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``DevToys``](https://github.com/ObuchiYuki/DevToysMac) | ``0.0.11`` | `1940` |  |  |  |  |  | `0` |  |
 | [``LibreWolf``](https://librewolf.net/) | ``106.0.5,1,6ce6e4ac89c01b…`` | `1937` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Rancher Desktop``](https://rancherdesktop.io/) | ``1.6.2`` | `1912` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |

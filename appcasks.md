@@ -562,7 +562,7 @@ tr:nth-child(even) {
 | [``Mozilla Firefox``](https://www.mozilla.org/firefox/) | ``106.0.5`` | `19389` | `2022-11-05T00:00:00Z` |  |  |  |  | `0` |  |
 | [``HandBrake``](https://handbrake.fr/) | ``1.5.1`` | `1191` |  |  |  |  |  | `0` |  |
 | [``Real VNC Viewer``](https://www.realvnc.com/) | ``6.22.826`` | `980` |  |  | `164` |  |  | `0` |  |
-| [``Zotero``](https://www.zotero.org/) | ``6.0.17`` | `849` | `2022-11-03T00:00:00Z` |  | `632` |  |  | `0` |  |
+| [``Zotero``](https://www.zotero.org/) | ``6.0.18`` | `849` | `2022-11-09T16:46:41Z` |  | `632` |  |  | `0` |  |
 | [``Vivaldi``](https://vivaldi.com/) | ``5.5.2805.42`` | `816` | `2022-10-28T00:00:00Z` |  | `727` |  |  | `0` |  |
 | [``V2RayX``](https://github.com/Cenmrev/V2RayX) | ``1.5.1`` | `649` |  |  | `63` |  |  | `0` |  |
 | [``Wireshark-ChmodBPF``](https://www.wireshark.org/) | ``4.0.1`` | `561` | `2022-10-28T00:00:00Z` |  | `112` |  |  | `0` |  |
@@ -820,7 +820,7 @@ tr:nth-child(even) {
 | [``JetBrains Toolbox``](https://www.jetbrains.com/toolbox-app/) | ``1.26.5,1.26.5.13419`` | `4215` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Microsoft Auto Update``](https://docs.microsoft.com/officeupdates/release-history-microsoft-autoupdate) | ``4.52.22100900`` | `4067` |  |  |  |  |  | `0` |  |
 | [``Notion``](https://www.notion.so/) | ``2.1.4`` | `4014` |  |  |  |  |  | `0` |  |
-| [``Raycast``](https://raycast.app/) | ``1.42.2`` | `4014` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Raycast``](https://raycast.app/) | ``1.43.0`` | `4014` | `2022-11-09T16:46:41Z` |  |  |  |  | `0` |  |
 | [``Multipass``](https://github.com/canonical/multipass/) | ``1.10.1`` | `3918` |  |  |  |  |  | `0` |  |
 | [``GIMP``](https://www.gimp.org/) | ``2.10.32`` | `3738` |  |  |  |  |  | `0` |  |
 | [``Flutter SDK``](https://flutter.dev/) | ``3.3.7`` | `3731` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1082,7 +1082,7 @@ tr:nth-child(even) {
 | [``ExpressVPN``](https://www.expressvpn.works/) | ``11.12.0.70542`` | `343` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Element``](https://element.io/get-started) | ``1.11.14`` | `341` | `2022-11-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Minishift``](https://github.com/minishift/minishift) | ``1.34.3`` | `341` |  |  |  |  |  | `0` |  |
-| [``OpenLens``](https://github.com/MuhammedKalkan/OpenLens/) | ``6.1.16`` | `341` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
+| [``OpenLens``](https://github.com/MuhammedKalkan/OpenLens/) | ``6.1.17`` | `341` | `2022-11-09T16:46:41Z` |  |  |  |  | `0` |  |
 | [``Eclipse IDE for Java EE …``](https://eclipse.org/) | ``4.25.0,2022-09`` | `339` |  |  |  |  |  | `0` |  |
 | [``KiCad``](https://kicad.org/) | ``6.0.9-0`` | `339` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``QGIS``](https://www.qgis.org/) | ``3.28.0,20221021_123104`` | `339` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1476,7 +1476,7 @@ tr:nth-child(even) {
 | [``Docker Toolbox``](https://www.docker.com/products/docker-toolbox) | ``19.03.1`` | `82` |  |  |  |  |  | `0` |  |
 | [``LÖVE``](https://love2d.org/) | ``11.4`` | `82` |  |  |  |  |  | `0` |  |
 | [``NameChanger``](https://mrrsoftware.com/namechanger/) | ``3.4.4,13`` | `82` |  |  |  |  |  | `0` |  |
-| [``Amazon Music``](https://www.amazon.com/musicapps) | ``9.1.0,23390607_40b7c3a95…`` | `81` |  |  |  |  |  | `0` |  |
+| [``Amazon Music``](https://www.amazon.com/musicapps) | ``9.3.4,23811104_16d501b7e…`` | `81` | `2022-11-09T16:46:41Z` |  |  |  |  | `0` |  |
 | [``Contexts``](https://contexts.co/) | ``3.9.0`` | `81` |  |  |  |  |  | `0` |  |
 | [``DEVONthink``](https://www.devontechnologies.com/apps/devonthink/) | ``3.8.6`` | `81` |  |  |  |  |  | `0` |  |
 | [``eDEX-UI``](https://github.com/GitSquared/edex-ui) | ``2.2.8`` | `81` |  |  |  |  |  | `0` |  |

@@ -26,7 +26,7 @@ tr:nth-child(even) {
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `178` | `2022-08-27T00:00:00Z` | `12.8 MB` | `1213` | `93` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `139` | `2022-10-21T00:00:00Z` | `1.45 GB` | `8` | `1` | `0` | `0` |  |
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `139` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1437` | `63` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `138` | `2022-10-30T00:00:00Z` | `2.7 MB` | `2` | `0` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.97β`` | `138` | `2022-10-30T00:00:00Z` | `2.7 MB` | `2` | `1` | `0` | `0` |  |
 | [``App Fair``](https://appfair.app) | ``0.8.131`` | `79` | `2022-10-20T00:00:00Z` | `8.1 MB` | `378` | `54` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `58` | `2022-09-26T00:00:00Z` | `1.3 MB` | `965` | `98` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4324` | `300` | `0` | `0` |  |

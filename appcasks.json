@@ -2873,26 +2873,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sonic-pi",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://sonic-pi.net/files/releases/v4.3.0/Sonic-Pi-for-Mac-x64-v4-3-0.dmg",
-      "homepage" : "https://sonic-pi.net/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonic-pi/AppIcon.png",
-      "localizedDescription" : "Code-based music creation and performance tool",
-      "name" : "Sonic Pi",
-      "sha256" : "c5646b221d61ba55c8e1025a646718d1244333bd57e2a7bccc8eb71c5a7be585",
-      "stats" : {
-        "downloadCount" : 66,
-        "impressionCount" : 1002
-      },
-      "subtitle" : "Code-based music creation and performance tool",
-      "tintColor" : "E6C4D5",
-      "version" : "4.3.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "smartsvn",
       "categories" : [
         "public.app-category.developer-tools"
@@ -4607,27 +4587,6 @@
       "subtitle" : "Automatic time and productivity tracking app",
       "tintColor" : "404556",
       "version" : "2022.5,345"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sonic-visualiser",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/sonic-visualiser/sonic-visualiser/releases/download/sv_v4.5.1/Sonic.Visualiser-4.5.1.dmg",
-      "homepage" : "https://www.sonicvisualiser.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonic-visualiser/AppIcon.png",
-      "localizedDescription" : "Visualisation, analysis, and annotation of music audio recordings",
-      "name" : "Sonic Visualiser",
-      "sha256" : "c422f8754430ca727523f8ab4d0f712f1850e92c19e3cf93b1cc15f9ee7092fa",
-      "stats" : {
-        "downloadCount" : 26,
-        "impressionCount" : 241
-      },
-      "subtitle" : "Visualisation, analysis, and annotation of music audio recordings",
-      "tintColor" : "7B3400",
-      "version" : "4.5.1,2843",
-      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -7685,26 +7644,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "soqlxplorer",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://www.pocketsoap.com/osx/soqlx/SoqlXplorer_v4.4.zip",
-      "homepage" : "https://www.pocketsoap.com/osx/soqlx/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-soqlxplorer/AppIcon.png",
-      "localizedDescription" : "Desktop client for Salesforce.com platform",
-      "name" : "SoqlXplorer",
-      "sha256" : "f8017f28ffbceafce6c17fefbae24217547eb347d6b6a0596fab0bf6c1c71ed1",
-      "stats" : {
-        "downloadCount" : 6,
-        "impressionCount" : 248
-      },
-      "subtitle" : "Desktop client for Salesforce.com platform",
-      "tintColor" : "A95E56",
-      "version" : "4.4"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "smartsynchronize",
       "categories" : [
         "public.app-category.developer-tools"
@@ -8910,26 +8849,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sonic-lineup",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://code.soundsoftware.ac.uk/attachments/download/2768/Sonic%20Lineup-1.1.dmg",
-      "homepage" : "https://sonicvisualiser.org/sonic-lineup/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonic-lineup/AppIcon.png",
-      "localizedDescription" : "Rapid visualisation of multiple audio files for comparison",
-      "name" : "Sonic Lineup",
-      "sha256" : "ebf5e90dbfd6cc5c3fcdd0004830d5cb7ff8b6f05ad9c7c4cac810d7a7b48c4c",
-      "stats" : {
-        "downloadCount" : 3,
-        "impressionCount" : 190
-      },
-      "subtitle" : "Rapid visualisation of multiple audio files for comparison",
-      "tintColor" : "A9683E",
-      "version" : "1.1,2768"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "softorino-youtube-converter",
       "categories" : [
         "public.app-category.video"
@@ -8965,6 +8884,26 @@
       },
       "tintColor" : "93759F",
       "version" : "1.2.3"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sonic-lineup",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://code.soundsoftware.ac.uk/attachments/download/2768/Sonic%20Lineup-1.1.dmg",
+      "homepage" : "https://sonicvisualiser.org/sonic-lineup/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonic-lineup/AppIcon.png",
+      "localizedDescription" : "Rapid visualisation of multiple audio files for comparison",
+      "name" : "Sonic Lineup",
+      "sha256" : "ebf5e90dbfd6cc5c3fcdd0004830d5cb7ff8b6f05ad9c7c4cac810d7a7b48c4c",
+      "stats" : {
+        "downloadCount" : 3,
+        "impressionCount" : 190
+      },
+      "subtitle" : "Rapid visualisation of multiple audio files for comparison",
+      "tintColor" : "A9683E",
+      "version" : "1.1,2768"
     },
     {
       "beta" : false,
@@ -12108,26 +12047,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "soulseek",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.slsknet.org/SoulseekQt/Mac/SoulseekQt-2021-2-6.dmg",
-      "homepage" : "https://www.slsknet.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-soulseek/AppIcon.png",
-      "localizedDescription" : "File sharing network",
-      "name" : "Soulseek",
-      "sha256" : "8ff0437676f65779e7370478a2de1274a29607c764317ffb13ce697f2373b443",
-      "stats" : {
-        "downloadCount" : 55,
-        "impressionCount" : 64
-      },
-      "subtitle" : "File sharing network",
-      "tintColor" : "3C53D9",
-      "version" : "2021-2-6"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tla-plus-toolbox",
       "categories" : [
 
@@ -14713,26 +14632,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sonic-robo-blast-2",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.10/SRB2-2.2.10-macOS-Installer.dmg",
-      "homepage" : "https://www.srb2.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonic-robo-blast-2/AppIcon.png",
-      "localizedDescription" : "3D open-source Sonic the Hedgehog fangame built using a Doom Legacy port of Doom",
-      "name" : "Sonic Robo Blast 2",
-      "sha256" : "30bf6a96707c9c824b5fb8a4b2ca43431b2109ae1cb80e9adcbbdf0ef531e5c6",
-      "stats" : {
-        "downloadCount" : 3,
-        "impressionCount" : 108
-      },
-      "subtitle" : "3D open-source Sonic the Hedgehog fangame built using a Doom Legacy port of Doom",
-      "tintColor" : "4D49BC",
-      "version" : "2.2.10"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "zdoom",
       "categories" : [
 
@@ -15137,24 +15036,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sonoair",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://sonoair.mihosoft.eu/releases/1.0-beta-7.0/SonoAir.zip",
-      "homepage" : "https://sonoair.mihosoft.eu/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonoair/AppIcon.png",
-      "name" : "SonoAir",
-      "sha256" : "6badaa05917b97f4acc8eb09996f5a7748c04b006376511cdecc72ddb7c28760",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 96
-      },
-      "tintColor" : "1F2B38",
-      "version" : "1.0-beta-7.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "security-growler",
       "categories" : [
 
@@ -15266,27 +15147,6 @@
       },
       "tintColor" : "879FA2",
       "version" : "7.0.9"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sonic-robo-blast-2-kart",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/STJr/Kart-Public/releases/download/v1.6/SRB2Kart-1.6-macOS.dmg",
-      "homepage" : "https://mb.srb2.org/addons/srb2kart.2435/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sonic-robo-blast-2-kart/AppIcon.png",
-      "localizedDescription" : "Classic styled kart racer, complete with beautiful courses, and wacky items",
-      "name" : "Sonic Robo Blast 2 Kart",
-      "sha256" : "d433b8b8662068b7726f31bfd6b372bd9a991019d7c88be6ffc9db380cf3ba9d",
-      "stats" : {
-        "downloadCount" : 0,
-        "impressionCount" : 126
-      },
-      "subtitle" : "Classic styled kart racer, complete with beautiful courses, and wacky items",
-      "tintColor" : "666666",
-      "version" : "1.6",
-      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,
@@ -26662,6 +26522,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sonic-pi",
+      "downloadURL" : "https://sonic-pi.net/files/releases/v4.3.0/Sonic-Pi-for-Mac-x64-v4-3-0.dmg",
+      "homepage" : "https://sonic-pi.net/",
+      "localizedDescription" : "Code-based music creation and performance tool",
+      "name" : "Sonic Pi",
+      "sha256" : "c5646b221d61ba55c8e1025a646718d1244333bd57e2a7bccc8eb71c5a7be585",
+      "stats" : {
+        "downloadCount" : 64
+      },
+      "subtitle" : "Code-based music creation and performance tool",
+      "version" : "4.3.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "avast-security",
       "downloadURL" : "https://bits.avcdn.net/productfamily_ANTIVIRUS/insttype_FREE/platform_MAC/installertype_ONLINE/build_RELEASE",
       "homepage" : "https://www.avast.com/",
@@ -27650,6 +27524,20 @@
       },
       "subtitle" : "Pomodoro timer",
       "version" : "1.1.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "soulseek",
+      "downloadURL" : "https://www.slsknet.org/SoulseekQt/Mac/SoulseekQt-2021-2-6.dmg",
+      "homepage" : "https://www.slsknet.org/",
+      "localizedDescription" : "File sharing network",
+      "name" : "Soulseek",
+      "sha256" : "8ff0437676f65779e7370478a2de1274a29607c764317ffb13ce697f2373b443",
+      "stats" : {
+        "downloadCount" : 55
+      },
+      "subtitle" : "File sharing network",
+      "version" : "2021-2-6"
     },
     {
       "beta" : false,
@@ -32981,6 +32869,21 @@
       },
       "subtitle" : "Customize and maintain app icons",
       "version" : "0.1,13"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sonic-visualiser",
+      "downloadURL" : "https://github.com/sonic-visualiser/sonic-visualiser/releases/download/sv_v4.5.1/Sonic.Visualiser-4.5.1.dmg",
+      "homepage" : "https://www.sonicvisualiser.org/",
+      "localizedDescription" : "Visualisation, analysis, and annotation of music audio recordings",
+      "name" : "Sonic Visualiser",
+      "sha256" : "c422f8754430ca727523f8ab4d0f712f1850e92c19e3cf93b1cc15f9ee7092fa",
+      "stats" : {
+        "downloadCount" : 26
+      },
+      "subtitle" : "Visualisation, analysis, and annotation of music audio recordings",
+      "version" : "4.5.1,2843",
+      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40146,23 +40049,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sonobus",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://sonobus.net/releases/sonobus-1.5.1-mac.dmg",
-      "homepage" : "https://sonobus.net/",
-      "localizedDescription" : "High-quality network audio streaming",
-      "name" : "SonoBus",
-      "sha256" : "49712ce5726b21ffff6bed1070c65eb0cc4d70ba748a96deac62b487a72a9a92",
-      "stats" : {
-        "downloadCount" : 11
-      },
-      "subtitle" : "High-quality network audio streaming",
-      "version" : "1.5.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "serviio",
       "categories" : [
 
@@ -41028,6 +40914,20 @@
       },
       "subtitle" : "3D model creator",
       "version" : "7.23.22282.13002"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sonobus",
+      "downloadURL" : "https://sonobus.net/releases/sonobus-1.5.1-mac.dmg",
+      "homepage" : "https://sonobus.net/",
+      "localizedDescription" : "High-quality network audio streaming",
+      "name" : "SonoBus",
+      "sha256" : "49712ce5726b21ffff6bed1070c65eb0cc4d70ba748a96deac62b487a72a9a92",
+      "stats" : {
+        "downloadCount" : 11
+      },
+      "subtitle" : "High-quality network audio streaming",
+      "version" : "1.5.1"
     },
     {
       "beta" : false,
@@ -47468,6 +47368,20 @@
       "subtitle" : "Sega Master System and Game Gear emulator",
       "version" : "1.3.6",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "soqlxplorer",
+      "downloadURL" : "https://www.pocketsoap.com/osx/soqlx/SoqlXplorer_v4.4.zip",
+      "homepage" : "https://www.pocketsoap.com/osx/soqlx/",
+      "localizedDescription" : "Desktop client for Salesforce.com platform",
+      "name" : "SoqlXplorer",
+      "sha256" : "f8017f28ffbceafce6c17fefbae24217547eb347d6b6a0596fab0bf6c1c71ed1",
+      "stats" : {
+        "downloadCount" : 6
+      },
+      "subtitle" : "Desktop client for Salesforce.com platform",
+      "version" : "4.4"
     },
     {
       "beta" : false,
@@ -54297,6 +54211,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sonic-robo-blast-2",
+      "downloadURL" : "https://github.com/STJr/SRB2/releases/download/SRB2_release_2.2.10/SRB2-2.2.10-macOS-Installer.dmg",
+      "homepage" : "https://www.srb2.org/",
+      "localizedDescription" : "3D open-source Sonic the Hedgehog fangame built using a Doom Legacy port of Doom",
+      "name" : "Sonic Robo Blast 2",
+      "sha256" : "30bf6a96707c9c824b5fb8a4b2ca43431b2109ae1cb80e9adcbbdf0ef531e5c6",
+      "stats" : {
+        "downloadCount" : 3
+      },
+      "subtitle" : "3D open-source Sonic the Hedgehog fangame built using a Doom Legacy port of Doom",
+      "version" : "2.2.10"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "tdr-nova",
       "downloadURL" : "https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova.zip?x24775",
       "homepage" : "https://www.tokyodawn.net/tdr-nova/5/",
@@ -57268,23 +57196,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "soothe2",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v130_Mac.dmg",
-      "homepage" : "https://oeksound.com/plugins/soothe2/",
-      "localizedDescription" : "Dynamic resonance suppressor",
-      "name" : "Soothe 2",
-      "sha256" : "8cf9e5c0d5ba16594b90edf04c434e21250217bdffb5aaba9cc9565186cb8df2",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "subtitle" : "Dynamic resonance suppressor",
-      "version" : "1.3.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "softraid",
       "categories" : [
 
@@ -59828,6 +59739,32 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sonoair",
+      "downloadURL" : "https://sonoair.mihosoft.eu/releases/1.0-beta-7.0/SonoAir.zip",
+      "homepage" : "https://sonoair.mihosoft.eu/",
+      "name" : "SonoAir",
+      "sha256" : "6badaa05917b97f4acc8eb09996f5a7748c04b006376511cdecc72ddb7c28760",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "version" : "1.0-beta-7.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "soothe2",
+      "downloadURL" : "https://oeksound.ams3.cdn.digitaloceanspaces.com/soothe2_v130_Mac.dmg",
+      "homepage" : "https://oeksound.com/plugins/soothe2/",
+      "localizedDescription" : "Dynamic resonance suppressor",
+      "name" : "Soothe 2",
+      "sha256" : "8cf9e5c0d5ba16594b90edf04c434e21250217bdffb5aaba9cc9565186cb8df2",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "Dynamic resonance suppressor",
+      "version" : "1.3.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "v2ray-unofficial",
       "downloadURL" : "https://github.com/Dr-Incognito/V2Ray-Desktop/releases/download/2.3.1/V2Ray-Desktop-v2.3.1-macOS-x86_64.dmg",
       "homepage" : "https://github.com/Dr-Incognito/V2Ray-Desktop",
@@ -61990,6 +61927,21 @@
       },
       "subtitle" : "Desktop application for Sling products",
       "version" : "5.0.92"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sonic-robo-blast-2-kart",
+      "downloadURL" : "https://github.com/STJr/Kart-Public/releases/download/v1.6/SRB2Kart-1.6-macOS.dmg",
+      "homepage" : "https://mb.srb2.org/addons/srb2kart.2435/",
+      "localizedDescription" : "Classic styled kart racer, complete with beautiful courses, and wacky items",
+      "name" : "Sonic Robo Blast 2 Kart",
+      "sha256" : "d433b8b8662068b7726f31bfd6b372bd9a991019d7c88be6ffc9db380cf3ba9d",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "subtitle" : "Classic styled kart racer, complete with beautiful courses, and wacky items",
+      "version" : "1.6",
+      "versionDate" : "2022-11-06T00:00:00Z"
     },
     {
       "beta" : false,

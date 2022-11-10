@@ -305,7 +305,7 @@
       "subtitle" : "Text editor for code, markup and prose",
       "tintColor" : "765B33",
       "version" : "4142",
-      "versionDate" : "2022-11-10T04:58:05Z"
+      "versionDate" : "2022-11-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19358,7 +19358,7 @@
       },
       "subtitle" : "Open source build of Lens Kubernetes IDE",
       "version" : "6.1.18",
-      "versionDate" : "2022-11-10T04:58:05Z"
+      "versionDate" : "2022-11-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23290,7 +23290,7 @@
       },
       "subtitle" : "Identity and access management",
       "version" : "1.64.2",
-      "versionDate" : "2022-11-10T04:58:05Z"
+      "versionDate" : "2022-11-10T00:00:00Z"
     },
     {
       "beta" : false,

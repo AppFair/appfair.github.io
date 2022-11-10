@@ -33,7 +33,7 @@ tr:nth-child(even) {
 | [``Unison``](https://www.cis.upenn.edu/~bcpierce/unison/) | ``2.53.0,4.14.0`` | `137` | `2022-11-07T00:00:00Z` |  | `4381` | `372` |  | `0` | `public.app-category.utilities` |
 | [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `5` | `2022-10-18T00:00:00Z` |  | `4445` | `350` |  | `0` | `public.app-category.developer-tools` |
 | [``Slack``](https://slack.com/) | ``4.29.144`` | `8432` | `2022-10-28T00:00:00Z` |  | `3946` | `278` |  | `0` | `public.app-category.business` |
-| [``Sublime Text``](https://www.sublimetext.com/) | ``4142`` | `5974` | `2022-11-10T04:58:05Z` |  | `2776` | `141` |  | `0` | `public.app-category.productivity` |
+| [``Sublime Text``](https://www.sublimetext.com/) | ``4142`` | `5974` | `2022-11-10T00:00:00Z` |  | `2776` | `141` |  | `0` | `public.app-category.productivity` |
 | [``Stats``](https://github.com/exelban/stats) | ``2.7.42`` | `5594` | `2022-11-06T00:00:00Z` |  | `5936` | `585` |  | `0` | `public.app-category.utilities` |
 | [``Wireshark``](https://www.wireshark.org/) | ``4.0.1`` | `3157` | `2022-10-28T00:00:00Z` |  | `2464` | `141` |  | `0` | `public.app-category.productivity` |
 | [``Telegram for macOS``](https://macos.telegram.org/) | ``9.1.1,238861`` | `3154` | `2022-11-08T00:00:00Z` |  | `2787` | `206` |  | `0` | `public.app-category.social-networking` |
@@ -1066,7 +1066,7 @@ tr:nth-child(even) {
 | [``Mullvad VPN``](https://mullvad.net/) | ``2022.5`` | `376` |  |  |  |  |  | `0` |  |
 | [``MQTTX``](https://mqttx.app/) | ``1.9.0`` | `372` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``OpenInTerminal``](https://github.com/Ji4n1ng/OpenInTerminal) | ``2.3.6`` | `370` |  |  |  |  |  | `0` |  |
-| [``OpenLens``](https://github.com/MuhammedKalkan/OpenLens/) | ``6.1.18`` | `368` | `2022-11-10T04:58:05Z` |  |  |  |  | `0` |  |
+| [``OpenLens``](https://github.com/MuhammedKalkan/OpenLens/) | ``6.1.18`` | `368` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Beekeeper Studio``](https://www.beekeeperstudio.io/) | ``3.6.2`` | `367` |  |  |  |  |  | `0` |  |
 | [``MacPass``](https://macpass.github.io/) | ``0.8.1`` | `367` |  |  |  |  |  | `0` |  |
 | [``Google Earth Pro``](https://www.google.com/earth/) | ``7.3.6.9285`` | `366` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1339,7 +1339,7 @@ tr:nth-child(even) {
 | [``OmniFocus``](https://www.omnigroup.com/omnifocus/) | ``3.14`` | `125` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Proton Mail Bridge``](https://protonmail.com/bridge/) | ``2.3.0`` | `125` |  |  |  |  |  | `0` |  |
 | [``LocationSimulator``](https://github.com/Schlaubischlump/LocationSimulator) | ``0.1.9.5`` | `124` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Okta Advanced Server Acc…``](https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/sft-osx.htm) | ``1.64.2`` | `124` | `2022-11-10T04:58:05Z` |  |  |  |  | `0` |  |
+| [``Okta Advanced Server Acc…``](https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/sft-osx.htm) | ``1.64.2`` | `124` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Keka External Helper``](https://github.com/aonez/Keka/wiki/Default-application) | ``1.1.2,1.2.50`` | `123` |  |  |  |  |  | `0` |  |
 | [``Mendeley Desktop``](https://www.mendeley.com/reference-management/mendeley-desktop) | ``1.19.8`` | `123` |  |  |  |  |  | `0` |  |
 | [``Aliyundrive``](https://www.aliyundrive.com/) | ``3.12.1`` | `122` | `2022-11-03T00:00:00Z` |  |  |  |  | `0` |  |

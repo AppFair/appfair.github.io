@@ -23,7 +23,7 @@
       "size" : 1453833866,
       "stats" : {
         "coreSize" : 67800,
-        "downloadCount" : 185,
+        "downloadCount" : 190,
         "forkCount" : 0,
         "impressionCount" : 8,
         "issueCount" : 0,
@@ -35,6 +35,42 @@
       "version" : "0.0.52",
       "versionDate" : "2022-10-21T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.51...0.0.52"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-iOS.ipa",
+      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
+      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
+      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Sita Sings the Blues",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
+      "screenshotURLs" : [
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-iphone-750x1334.png",
+        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_04-iphone-750x1334.png"
+      ],
+      "sha256" : "2de15f40b08edf482a06a0a973fa72cd24347025ecf83529846ccf708fec8956",
+      "size" : 1458058228,
+      "stats" : {
+        "coreSize" : 67800,
+        "downloadCount" : 185,
+        "forkCount" : 0,
+        "impressionCount" : 1446,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 63,
+        "watcherCount" : 0
+      },
+      "subtitle" : "The movie \"Sita Sings the Blues\"",
+      "version" : "0.0.51",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
     },
     {
       "beta" : false,
@@ -75,42 +111,6 @@
       "version" : "0.0.96",
       "versionDate" : "2022-08-27T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Lottie-Motion/App/compare/0.0.95...0.0.96"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "app.Sita-Sings-the-Blues",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues-iOS.ipa",
-      "iconURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Sita-Sings-the-Blues.png",
-      "localizedDescription" : "The movie \"Sita Sings the Blues\"",
-      "metadataURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Sita Sings the Blues",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/README.md#8a5ce6b643283d0f0e8be100b68af443b831753b74d819247d904c3ebafe84ae",
-      "screenshotURLs" : [
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_02-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_03-iphone-750x1334.png",
-        "https://github.com/Sita-Sings-the-Blues/App/releases/download/0.0.51/screenshot_04-iphone-750x1334.png"
-      ],
-      "sha256" : "2de15f40b08edf482a06a0a973fa72cd24347025ecf83529846ccf708fec8956",
-      "size" : 1458058228,
-      "stats" : {
-        "coreSize" : 67800,
-        "downloadCount" : 182,
-        "forkCount" : 0,
-        "impressionCount" : 1446,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 63,
-        "watcherCount" : 0
-      },
-      "subtitle" : "The movie \"Sita Sings the Blues\"",
-      "version" : "0.0.51",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Sita-Sings-the-Blues/App/compare/0.0.50...0.0.51"
     },
     {
       "beta" : false,
@@ -162,9 +162,9 @@
       "size" : 8081865,
       "stats" : {
         "coreSize" : 169056,
-        "downloadCount" : 124,
+        "downloadCount" : 127,
         "forkCount" : 1,
-        "impressionCount" : 387,
+        "impressionCount" : 389,
         "issueCount" : 7,
         "starCount" : 29,
         "viewCount" : 54,
@@ -193,7 +193,7 @@
       "size" : 1271990,
       "stats" : {
         "coreSize" : 168592,
-        "downloadCount" : 98,
+        "downloadCount" : 101,
         "forkCount" : 0,
         "impressionCount" : 972,
         "issueCount" : 0,

@@ -1141,7 +1141,7 @@ tr:nth-child(even) {
 | [``LyricsX``](https://github.com/ddddxxx/LyricsX) | ``1.6.3,2351`` | `256` |  |  |  |  |  | `0` |  |
 | [``MKVToolNix``](https://mkvtoolnix.download/) | ``71.1.0`` | `255` |  |  |  |  |  | `0` |  |
 | [``Finicky``](https://github.com/johnste/finicky) | ``3.4.0`` | `254` |  |  |  |  |  | `0` |  |
-| [``Loom``](https://www.loom.com/) | ``0.145.0`` | `253` | `2022-11-10T02:26:03Z` |  |  |  |  | `0` |  |
+| [``Loom``](https://www.loom.com/) | ``0.145.0`` | `253` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Parsec``](https://parsecgaming.com/) | ``150.85.0`` | `252` |  |  |  |  |  | `0` |  |
 | [``Squirrel``](https://rime.im/) | ``0.15.2`` | `251` |  |  |  |  |  | `0` |  |
 | [``FortiClient``](https://forticlient.com/) | ``7.0.0.22`` | `251` |  |  |  |  |  | `0` |  |
@@ -2275,7 +2275,7 @@ tr:nth-child(even) {
 | [``GitAhead``](https://github.com/gitahead/gitahead) | ``2.6.3`` | `17` |  |  |  |  |  | `0` |  |
 | [``Gitfox``](https://www.gitfox.app/) | ``3.0.5,7583`` | `17` | `2022-11-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``inSSIDer``](https://www.metageek.com/products/inssider/) | ``0.0.4.5,8`` | `17` |  |  |  |  |  | `0` |  |
-| [``Logos``](https://www.logos.com/) | ``9.17.0.0018`` | `17` | `2022-11-10T02:26:03Z` |  |  |  |  | `0` |  |
+| [``Logos``](https://www.logos.com/) | ``9.17.0.0018`` | `17` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``MacCPUID``](https://software.intel.com/content/www/us/en/develop/download/download-maccpuid) | ``3.1`` | `17` |  |  |  |  |  | `0` |  |
 | [``Media Converter``](https://media-converter.sourceforge.io/) | ``3.0.1`` | `17` |  |  |  |  |  | `0` |  |
 | [``MediaElch``](https://www.kvibes.de/en/mediaelch/) | ``2.8.18,2022-10-28,146c4b…`` | `17` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -2733,7 +2733,7 @@ tr:nth-child(even) {
 | [``Helium``](https://github.com/koush/support-wiki/wiki/Helium-Desktop-Installer-and-Android-App) | ``1.0.0`` | `9` |  |  |  |  |  | `0` |  |
 | [``HMA! Pro VPN``](https://www.hidemyass.com/index) | ``latest`` | `9` |  |  |  |  |  | `0` |  |
 | [``Hearthstone Deck Tracker``](https://hsdecktracker.net/) | ``2.2.9`` | `9` | `2022-11-03T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Iconset``](https://iconset.io/) | ``2.3.1`` | `9` | `2022-11-10T02:26:03Z` |  |  |  |  | `0` |  |
+| [``Iconset``](https://iconset.io/) | ``2.3.1`` | `9` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``iThoughtsX``](https://www.toketaware.com/ithoughts-osx) | ``9.0.0`` | `9` |  |  |  |  |  | `0` |  |
 | [``Jettison``](https://stclairsoft.com/Jettison/) | ``1.8.5,3603`` | `9` |  |  |  |  |  | `0` |  |
 | [``JewelryBox``](https://github.com/remear/jewelrybox) | ``1.5`` | `9` |  |  |  |  |  | `0` |  |
@@ -2958,8 +2958,8 @@ tr:nth-child(even) {
 | [``Yggdrasil``](https://github.com/yggdrasil-network/yggdrasil-go) | ``0.4.6`` | `6` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Xamarin Mac``](https://www.xamarin.com/platform) | ``8.12.0.2`` | `6` |  |  |  |  |  | `0` |  |
 | [``vAmiga``](https://dirkwhoffmann.github.io/vAmiga) | ``2.1`` | `6` |  |  |  |  |  | `0` |  |
-| [``Unity iOS Build Support``](https://unity.com/products) | ``2022.1.22f1,6b6e9fc2adda`` | `6` | `2022-11-10T02:26:03Z` |  |  |  |  | `0` |  |
-| [``Unity Android Build Supp…``](https://unity.com/products) | ``2022.1.22f1,6b6e9fc2adda`` | `6` | `2022-11-10T02:26:03Z` |  |  |  |  | `0` |  |
+| [``Unity iOS Build Support``](https://unity.com/products) | ``2022.1.22f1,6b6e9fc2adda`` | `6` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Unity Android Build Supp…``](https://unity.com/products) | ``2022.1.22f1,6b6e9fc2adda`` | `6` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Tales of Maj'Eyal``](https://te4.org/) | ``1.7.4`` | `6` |  |  |  |  |  | `0` |  |
 | [``Swift Publisher``](https://www.swiftpublisher.com/) | ``5.6.4,4784`` | `6` |  |  |  |  |  | `0` |  |
 | [``StringsFile QuickLook pl…``](https://blog.timac.org/?p=933) | ``1.0`` | `6` |  |  |  |  |  | `0` |  |
@@ -3076,7 +3076,7 @@ tr:nth-child(even) {
 | [``Wings 3D``](http://www.wings3d.com/) | ``2.2.9`` | `5` |  |  |  |  |  | `0` |  |
 | [``WebPlotDigitizer``](https://automeris.io/WebPlotDigitizer/) | ``4.6`` | `5` |  |  |  |  |  | `0` |  |
 | [``VMPK``](https://vmpk.sourceforge.io/) | ``0.8.8`` | `5` |  |  |  |  |  | `0` |  |
-| [``Unity WebGL Build Suppor``](https://unity.com/products) | ``2022.1.22f1,6b6e9fc2adda`` | `5` | `2022-11-10T02:26:03Z` |  |  |  |  | `0` |  |
+| [``Unity WebGL Build Suppor``](https://unity.com/products) | ``2022.1.22f1,6b6e9fc2adda`` | `5` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ultracopier``](https://ultracopier.herman-brule.com/) | ``2.2.6.2`` | `5` |  |  |  |  |  | `0` |  |
 | [``Epubor Ultimate``](https://www.epubor.com/) | ``3.0.14.402`` | `5` |  |  |  |  |  | `0` |  |
 | [``TAU``](https://www.cs.uoregon.edu/research/tau/home.php) | ``latest`` | `5` |  |  |  |  |  | `0` |  |
@@ -3366,7 +3366,7 @@ tr:nth-child(even) {
 | [``wxMacMolPlt``](https://brettbode.github.io/wxmacmolplt) | ``7.7,ijfreodzydtqn214qui3…`` | `3` |  |  |  |  |  | `0` |  |
 | [``WhatSize``](https://www.whatsizemac.com/) | ``7.7.6,7760`` | `3` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``VoiceMac``](https://mrgeckosmedia.com/applications/info/VoiceMac) | ``0.4.1`` | `3` |  |  |  |  |  | `0` |  |
-| [``Unity Windows (Mono) Bui…``](https://unity.com/products) | ``2022.1.22f1,6b6e9fc2adda`` | `3` | `2022-11-10T02:26:03Z` |  |  |  |  | `0` |  |
+| [``Unity Windows (Mono) Bui…``](https://unity.com/products) | ``2022.1.22f1,6b6e9fc2adda`` | `3` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``MMD-QuickLook``](https://github.com/ttscoff/mmd-quicklook) | ``1.2`` | `3` |  |  |  |  |  | `0` |  |
 | [``TREZOR Bridge``](https://wallet.trezor.io/) | ``2.0.27`` | `3` |  |  |  |  |  | `0` |  |
 | [``Tentacle Sync Studio``](https://tentaclesync.com/) | ``1.30`` | `3` |  |  |  |  |  | `0` |  |

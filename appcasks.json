@@ -1419,8 +1419,8 @@
       },
       "subtitle" : "SSH client",
       "tintColor" : "242A48",
-      "version" : "7.51.0",
-      "versionDate" : "2022-11-03T00:00:00Z"
+      "version" : "7.51.1",
+      "versionDate" : "2022-11-10T15:37:50Z"
     },
     {
       "beta" : false,
@@ -15795,8 +15795,8 @@
         "downloadCount" : 4048
       },
       "subtitle" : "Control your tools with a few keystrokes",
-      "version" : "1.43.1",
-      "versionDate" : "2022-11-09T00:00:00Z"
+      "version" : "1.43.2",
+      "versionDate" : "2022-11-10T15:37:50Z"
     },
     {
       "beta" : false,
@@ -27373,17 +27373,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "paper",
-      "downloadURL" : "https://s3.nsns.in/dl/paper-v5.1.3.dmg",
+      "downloadURL" : "https://s3.nsns.in/dl/paper-v5.1.5.dmg",
       "homepage" : "https://paper.photos/",
       "localizedDescription" : "Pap.er, 4K 5K HD Wallpaper Application",
       "name" : "pap.er",
-      "sha256" : "98ae86306a26b238feb1549d6e28674e025bfd080f59730ea1f7299d9cd81357",
+      "sha256" : "bf049976a0fa17d7c9a8b09ce3a0d99fc8430413aef71bdd10cd2481290f7021",
       "stats" : {
         "downloadCount" : 57
       },
       "subtitle" : "Pap.er, 4K 5K HD Wallpaper Application",
-      "version" : "5.1.3",
-      "versionDate" : "2022-11-05T00:00:00Z"
+      "version" : "5.1.5",
+      "versionDate" : "2022-11-10T15:37:50Z"
     },
     {
       "beta" : false,
@@ -42418,7 +42418,7 @@
       },
       "subtitle" : "Cloud-based call center and phone system software",
       "version" : "2.27.2",
-      "versionDate" : "2022-11-10T14:45:41Z"
+      "versionDate" : "2022-11-10T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59600,6 +59600,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "restfox",
+      "downloadURL" : "https://github.com/flawiddsouza/Restfox/releases/download/v0.0.6/Restfox-darwin-x64-0.0.6.zip",
+      "homepage" : "https://restfox.dev/",
+      "localizedDescription" : "Offline-first web HTTP client",
+      "name" : "Restfox",
+      "sha256" : "c855011459615b181efde6d88a82ce7c4c0a5b257a4b8a35e41d2a2de35aba6e",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "Offline-first web HTTP client",
+      "version" : "0.0.6",
+      "versionDate" : "2022-11-10T15:37:50Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "restream-chat",
       "downloadURL" : "https://s3.eu-central-1.amazonaws.com/restream-chat-client/Restream+Chat-2.5.4-beta.dmg",
       "homepage" : "https://restream.io/chat/",
@@ -60879,6 +60894,21 @@
       },
       "subtitle" : "Face-to-face social networking app",
       "version" : "1.14.6,4707"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "icon-shelf",
+      "downloadURL" : "https://github.com/Icon-Shelf/icon-shelf/releases/download/v0.1.17/Icon-Shelf-0.1.17.dmg",
+      "homepage" : "https://icon-shelf.github.io/",
+      "localizedDescription" : "Icon manager for web developers",
+      "name" : "Icon Shelf",
+      "sha256" : "a8814b41812300d157306c91fdc84b763d3cb5c18dc86bce934da2952c62f013",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "subtitle" : "Icon manager for web developers",
+      "version" : "0.1.17",
+      "versionDate" : "2022-11-10T15:37:50Z"
     },
     {
       "beta" : false,
@@ -62227,34 +62257,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "craftmanager",
-      "caption" : "CraftManager updated from 1.2.9,462 to 1.3.0,465",
-      "date" : "2022-11-08T21:35:42Z",
-      "identifier" : "release-craftmanager-1.3.0,465",
-      "title" : "New Release: CraftManager 1.3.0,465"
-    },
-    {
-      "appID" : "nomachine-enterprise-client",
-      "caption" : "NoMachine Enterprise Client updated from 8.1.2_1 to 8.2.3_12",
-      "date" : "2022-11-08T21:35:42Z",
-      "identifier" : "release-nomachine-enterprise-client-8.2.3_12",
-      "title" : "New Release: NoMachine Enterprise Client 8.2.3_12"
-    },
-    {
-      "appID" : "languagetool",
-      "caption" : "LanguageTool for Desktop updated from 0.2.4,31 to 0.3,32",
-      "date" : "2022-11-08T21:35:42Z",
-      "identifier" : "release-languagetool-0.3,32",
-      "title" : "New Release: LanguageTool for Desktop 0.3,32"
-    },
-    {
-      "appID" : "xamarin-android",
-      "caption" : "Xamarin.Android updated from 13.0.0.0 to 13.1.0.1",
-      "date" : "2022-11-08T21:35:42Z",
-      "identifier" : "release-xamarin-android-13.1.0.1",
-      "title" : "New Release: Xamarin.Android 13.1.0.1"
-    },
-    {
       "appID" : "ditto",
       "caption" : "Ditto updated from 1.10.0,1713 to 1.10.1,1722",
       "date" : "2022-11-08T21:35:42Z",
@@ -62442,13 +62444,6 @@
       "date" : "2022-11-09T16:46:43Z",
       "identifier" : "release-amazon-music-9.3.4,23811104_16d501b7e2b92ac49efd7017bb29442b",
       "title" : "New Release: Amazon Music 9.3.4,23811104_16d501b7e2b92ac49efd7017bb29442b"
-    },
-    {
-      "appID" : "raycast",
-      "caption" : "Raycast updated from 1.43.0 to 1.43.1",
-      "date" : "2022-11-09T18:41:46Z",
-      "identifier" : "release-raycast-1.43.1",
-      "title" : "New Release: Raycast 1.43.1"
     },
     {
       "appID" : "whatsapp",
@@ -62925,6 +62920,41 @@
       "date" : "2022-11-10T14:45:42Z",
       "identifier" : "release-aircall-2.27.2",
       "title" : "New Release: Aircall 2.27.2"
+    },
+    {
+      "appID" : "termius",
+      "caption" : "Termius updated from 7.51.0 to 7.51.1",
+      "date" : "2022-11-10T15:37:51Z",
+      "identifier" : "release-termius-7.51.1",
+      "title" : "New Release: Termius 7.51.1"
+    },
+    {
+      "appID" : "raycast",
+      "caption" : "Raycast updated from 1.43.1 to 1.43.2",
+      "date" : "2022-11-10T15:37:52Z",
+      "identifier" : "release-raycast-1.43.2",
+      "title" : "New Release: Raycast 1.43.2"
+    },
+    {
+      "appID" : "paper",
+      "caption" : "pap.er updated from 5.1.3 to 5.1.5",
+      "date" : "2022-11-10T15:37:52Z",
+      "identifier" : "release-paper-5.1.5",
+      "title" : "New Release: pap.er 5.1.5"
+    },
+    {
+      "appID" : "restfox",
+      "caption" : "Restfox 0.0.6 released",
+      "date" : "2022-11-10T15:37:52Z",
+      "identifier" : "release-restfox-0.0.6",
+      "title" : "New Release: Restfox 0.0.6"
+    },
+    {
+      "appID" : "icon-shelf",
+      "caption" : "Icon Shelf 0.1.17 released",
+      "date" : "2022-11-10T15:37:52Z",
+      "identifier" : "release-icon-shelf-0.1.17",
+      "title" : "New Release: Icon Shelf 0.1.17"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

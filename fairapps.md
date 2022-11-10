@@ -23,12 +23,12 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `669` | `2022-10-20T00:00:00Z` | `12 MB` | `380` | `54` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `687` | `2022-10-20T00:00:00Z` | `12 MB` | `380` | `54` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `194` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1218` | `93` | `0` | `0` |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `164` | `2022-09-26T00:00:00Z` | `2.4 MB` | `968` | `98` | `0` | `0` |  |
-| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `52` | `2022-09-20T00:00:00Z` | `3.2 MB` | `459` | `31` | `0` | `0` |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `182` | `2022-09-26T00:00:00Z` | `2.4 MB` | `968` | `98` | `0` | `0` |  |
+| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `70` | `2022-09-20T00:00:00Z` | `3.2 MB` | `459` | `31` | `0` | `0` |  |
+| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `62` | `2022-09-23T00:00:00Z` | `3.2 MB` | `17` | `2` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `44` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5724` | `859` | `1` | `0` |  |
-| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `43` | `2022-09-23T00:00:00Z` | `3.2 MB` | `17` | `2` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1497` | `123` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1293` | `109` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1330` | `91` | `0` | `0` |  |

@@ -967,7 +967,7 @@ tr:nth-child(even) {
 | [``Apache Directory Studio``](https://directory.apache.org/studio/) | ``2.0.0.v20210717-M17`` | `661` |  |  |  |  |  | `0` |  |
 | [``JD-GUI``](http://jd.benow.ca/) | ``1.6.6`` | `656` |  |  |  |  |  | `0` |  |
 | [``LastPass``](https://www.lastpass.com/) | ``4.102.0,1281`` | `656` | `2022-10-18T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Nextcloud``](https://nextcloud.com/) | ``3.6.2`` | `651` | `2022-11-10T17:34:23Z` |  |  |  |  | `0` |  |
+| [``Nextcloud``](https://nextcloud.com/) | ``3.6.2`` | `651` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Microsoft Outlook``](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook) | ``16.66.22101101`` | `650` |  |  |  |  |  | `0` |  |
 | [``Facebook Messenger``](https://www.messenger.com/desktop) | ``168.0.0.24.90,415453343`` | `645` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GTKWave``](https://gtkwave.sourceforge.io/) | ``3.3.107`` | `640` |  |  |  |  |  | `0` |  |

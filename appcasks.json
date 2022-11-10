@@ -290,13 +290,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://download.sublimetext.com/sublime_text_build_4126_mac.zip",
+      "downloadURL" : "https://download.sublimetext.com/sublime_text_build_4142_mac.zip",
       "homepage" : "https://www.sublimetext.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-text/AppIcon.png",
       "localizedDescription" : "Text editor for code, markup and prose",
       "name" : "Sublime Text",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-text/README.md",
-      "sha256" : "06e47f404b3e1c14d505bfbd0b884f8d5a62c9f376a62f735a693dc31d9cc212",
+      "sha256" : "d7c2efbcbe2d74005d84025f5bf95034037a9f0af3ccd45af58b84721d68798a",
       "stats" : {
         "downloadCount" : 5974,
         "impressionCount" : 2776,
@@ -304,7 +304,8 @@
       },
       "subtitle" : "Text editor for code, markup and prose",
       "tintColor" : "765B33",
-      "version" : "4126"
+      "version" : "4142",
+      "versionDate" : "2022-11-10T04:58:05Z"
     },
     {
       "beta" : false,
@@ -19347,17 +19348,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "openlens",
-      "downloadURL" : "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.1.17/OpenLens-6.1.17.dmg",
+      "downloadURL" : "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.1.18/OpenLens-6.1.18.dmg",
       "homepage" : "https://github.com/MuhammedKalkan/OpenLens/",
       "localizedDescription" : "Open source build of Lens Kubernetes IDE",
       "name" : "OpenLens",
-      "sha256" : "25e6348634a02ac6637285fd3223862ad31793bd22e8caa4ef35ab0c35018944",
+      "sha256" : "2e25893479e6910d06ef51808092d3a32a6025918cc3f7687ea2b2f3342eea08",
       "stats" : {
         "downloadCount" : 368
       },
       "subtitle" : "Open source build of Lens Kubernetes IDE",
-      "version" : "6.1.17",
-      "versionDate" : "2022-11-09T00:00:00Z"
+      "version" : "6.1.18",
+      "versionDate" : "2022-11-10T04:58:05Z"
     },
     {
       "beta" : false,
@@ -23279,17 +23280,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "okta-advanced-server-access",
-      "downloadURL" : "https://dist.scaleft.com/client-tools/mac/v1.64.1/ScaleFT-1.64.1.pkg",
+      "downloadURL" : "https://dist.scaleft.com/client-tools/mac/v1.64.2/ScaleFT-1.64.2.pkg",
       "homepage" : "https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/sft-osx.htm",
       "localizedDescription" : "Identity and access management",
       "name" : "Okta Advanced Server Access",
-      "sha256" : "b0bc7a148f73b7cab08fd03491cb3d637a0eb63ead5b86d3cddbfbe64a4bb4dc",
+      "sha256" : "386c7aca9010adfbe0ea8e38bc1cc3767b9962a1c32f6b04474d69dc7b0b9d23",
       "stats" : {
         "downloadCount" : 124
       },
       "subtitle" : "Identity and access management",
-      "version" : "1.64.1",
-      "versionDate" : "2022-11-09T00:00:00Z"
+      "version" : "1.64.2",
+      "versionDate" : "2022-11-10T04:58:05Z"
     },
     {
       "beta" : false,
@@ -62226,13 +62227,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "browserstacklocal",
-      "caption" : "BrowserStack Local Testing updated from 3.5.4 to 3.5.5",
-      "date" : "2022-11-08T21:35:40Z",
-      "identifier" : "release-browserstacklocal-3.5.5",
-      "title" : "New Release: BrowserStack Local Testing 3.5.5"
-    },
-    {
       "appID" : "clamxav",
       "caption" : "ClamXAV updated from 3.5,9386 to 3.5.1,9488",
       "date" : "2022-11-08T21:35:41Z",
@@ -62464,13 +62458,6 @@
       "title" : "New Release: Zotero 6.0.18"
     },
     {
-      "appID" : "openlens",
-      "caption" : "OpenLens updated from 6.1.16 to 6.1.17",
-      "date" : "2022-11-09T16:46:43Z",
-      "identifier" : "release-openlens-6.1.17",
-      "title" : "New Release: OpenLens 6.1.17"
-    },
-    {
       "appID" : "amazon-music",
       "caption" : "Amazon Music updated from 9.1.0,23390607_40b7c3a95de4052b82878a666e5c8cac to 9.3.4,23811104_16d501b7e2b92ac49efd7017bb29442b",
       "date" : "2022-11-09T16:46:43Z",
@@ -62574,13 +62561,6 @@
       "date" : "2022-11-09T21:37:05Z",
       "identifier" : "release-zoom-for-it-admins-5.12.7.12529",
       "title" : "New Release: Zoom for IT Admins 5.12.7.12529"
-    },
-    {
-      "appID" : "okta-advanced-server-access",
-      "caption" : "Okta Advanced Server Access updated from 1.62.3 to 1.64.1",
-      "date" : "2022-11-09T21:37:05Z",
-      "identifier" : "release-okta-advanced-server-access-1.64.1",
-      "title" : "New Release: Okta Advanced Server Access 1.64.1"
     },
     {
       "appID" : "qiyimedia",
@@ -62924,6 +62904,27 @@
       "date" : "2022-11-10T02:26:06Z",
       "identifier" : "release-unity-windows-support-for-editor-2022.1.22f1,6b6e9fc2adda",
       "title" : "New Release: Unity Windows (Mono) Build Support 2022.1.22f1,6b6e9fc2adda"
+    },
+    {
+      "appID" : "sublime-text",
+      "caption" : "Sublime Text updated from 4126 to 4142",
+      "date" : "2022-11-10T04:58:06Z",
+      "identifier" : "release-sublime-text-4142",
+      "title" : "New Release: Sublime Text 4142"
+    },
+    {
+      "appID" : "openlens",
+      "caption" : "OpenLens updated from 6.1.17 to 6.1.18",
+      "date" : "2022-11-10T04:58:06Z",
+      "identifier" : "release-openlens-6.1.18",
+      "title" : "New Release: OpenLens 6.1.18"
+    },
+    {
+      "appID" : "okta-advanced-server-access",
+      "caption" : "Okta Advanced Server Access updated from 1.64.1 to 1.64.2",
+      "date" : "2022-11-10T04:58:06Z",
+      "identifier" : "release-okta-advanced-server-access-1.64.2",
+      "title" : "New Release: Okta Advanced Server Access 1.64.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

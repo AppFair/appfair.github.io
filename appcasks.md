@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Signal``](https://signal.org/) | ``5.63.1`` | `2121` | `2022-11-10T08:46:10Z` |  | `11641` | `1316` |  | `0` | `public.app-category.social-networking` |
+| [``Signal``](https://signal.org/) | ``5.63.1`` | `2121` | `2022-11-10T00:00:00Z` |  | `11641` | `1316` |  | `0` | `public.app-category.social-networking` |
 | [``VLC media player``](https://www.videolan.org/vlc/) | ``3.0.17.3`` | `8555` |  |  | `9184` | `786` |  | `0` | `public.app-category.video` |
 | [``Spotify``](https://www.spotify.com/) | ``1.1.97.962,24733a46,812`` | `8500` | `2022-10-28T00:00:00Z` |  | `9699` | `722` |  | `0` | `public.app-category.music` |
 | [``WhatsApp``](https://www.whatsapp.com/) | ``2.2242.6`` | `3653` | `2022-11-09T00:00:00Z` |  | `10095` | `660` |  | `0` | `public.app-category.social-networking` |

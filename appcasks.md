@@ -33,7 +33,7 @@ tr:nth-child(even) {
 | [``Unison``](https://www.cis.upenn.edu/~bcpierce/unison/) | ``2.53.0,4.14.0`` | `137` | `2022-11-07T00:00:00Z` |  | `4405` | `375` |  | `0` | `public.app-category.utilities` |
 | [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `5` | `2022-10-18T00:00:00Z` |  | `4465` | `351` |  | `0` | `public.app-category.developer-tools` |
 | [``Slack``](https://slack.com/) | ``4.29.144`` | `8432` | `2022-10-28T00:00:00Z` |  | `3964` | `279` |  | `0` | `public.app-category.business` |
-| [``Sublime Text``](https://www.sublimetext.com/) | ``4142`` | `5974` | `2022-11-10T00:00:00Z` |  | `2796` | `143` |  | `0` | `public.app-category.productivity` |
+| [``Sublime Text``](https://www.sublimetext.com/) | ``4142`` | `5974` | `2022-11-10T00:00:00Z` |  | `2797` | `143` |  | `0` | `public.app-category.productivity` |
 | [``Stats``](https://github.com/exelban/stats) | ``2.7.42`` | `5594` | `2022-11-06T00:00:00Z` |  | `5957` | `587` |  | `0` | `public.app-category.utilities` |
 | [``Wireshark``](https://www.wireshark.org/) | ``4.0.1`` | `3157` | `2022-10-28T00:00:00Z` |  | `2481` | `141` |  | `0` | `public.app-category.productivity` |
 | [``Telegram for macOS``](https://macos.telegram.org/) | ``9.1.1,238861`` | `3154` | `2022-11-08T00:00:00Z` |  | `2807` | `210` |  | `0` | `public.app-category.social-networking` |

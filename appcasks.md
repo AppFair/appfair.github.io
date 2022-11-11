@@ -1344,7 +1344,7 @@ tr:nth-child(even) {
 | [``Proton Mail Bridge``](https://protonmail.com/bridge/) | ``2.3.0`` | `123` |  |  |  |  |  | `0` |  |
 | [``Gitify``](https://github.com/manosim/gitify) | ``4.3.1`` | `122` |  |  |  |  |  | `0` |  |
 | [``GnuCash``](https://www.gnucash.org/) | ``4.12-1`` | `122` |  |  |  |  |  | `0` |  |
-| [``Free-GPGMail``](https://github.com/Free-GPGMail/Free-GPGMail) | ``6,2022.2,`` | `121` | `2022-11-11T05:38:26Z` |  |  |  |  | `0` |  |
+| [``Free-GPGMail``](https://github.com/Free-GPGMail/Free-GPGMail) | ``6,2022.2,`` | `121` | `2022-11-11T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Ganache``](https://truffleframework.com/ganache/) | ``2.5.4`` | `121` |  |  |  |  |  | `0` |  |
 | [``BeardedSpice``](https://github.com/beardedspice/beardedspice/) | ``2.2.3`` | `120` |  |  |  |  |  | `0` |  |
 | [``Bob``](https://github.com/ripperhe/Bob) | ``0.10.3`` | `120` |  |  |  |  |  | `0` |  |

@@ -290,13 +290,13 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://download.sublimetext.com/sublime_text_build_4142_mac.zip",
+      "downloadURL" : "https://download.sublimetext.com/sublime_text_build_4143_mac.zip",
       "homepage" : "https://www.sublimetext.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-text/AppIcon.png",
       "localizedDescription" : "Text editor for code, markup and prose",
       "name" : "Sublime Text",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-text/README.md",
-      "sha256" : "d7c2efbcbe2d74005d84025f5bf95034037a9f0af3ccd45af58b84721d68798a",
+      "sha256" : "2bd54babc6b27364e80c4c107ce1b40026662371f56c35e25b29fdebb2942b19",
       "stats" : {
         "downloadCount" : 6106,
         "impressionCount" : 2811,
@@ -304,8 +304,8 @@
       },
       "subtitle" : "Text editor for code, markup and prose",
       "tintColor" : "765B33",
-      "version" : "4142",
-      "versionDate" : "2022-11-10T00:00:00Z"
+      "version" : "4143",
+      "versionDate" : "2022-11-11T11:29:23Z"
     },
     {
       "beta" : false,
@@ -405,13 +405,13 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://github.com/VSCodium/vscodium/releases/download/1.73.0.22306/VSCodium.x64.1.73.0.22306.dmg",
+      "downloadURL" : "https://github.com/VSCodium/vscodium/releases/download/1.73.1.22314/VSCodium.x64.1.73.1.22314.dmg",
       "homepage" : "https://github.com/VSCodium/vscodium",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/AppIcon.png",
       "localizedDescription" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "name" : "VSCodium",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vscodium/README.md",
-      "sha256" : "50bb0c7382d0281121d942e458f64f0fb64202792462e5ff88c8b8125b8e1e12",
+      "sha256" : "58a3ee0c2d06fd710767e592dcbf3016b73a3e637a3032e40c4a15914e916624",
       "stats" : {
         "downloadCount" : 2348,
         "impressionCount" : 4548,
@@ -419,8 +419,8 @@
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
       "tintColor" : "5385DF",
-      "version" : "1.73.0.22306",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "1.73.1.22314",
+      "versionDate" : "2022-11-11T11:29:23Z"
     },
     {
       "beta" : false,
@@ -3854,20 +3854,20 @@
       "categories" : [
         "public.app-category.developer-tools"
       ],
-      "downloadURL" : "https://updates.tryshift.com/v8.1.4/stable/shift-v8.1.4.548-stable-x64.dmg",
+      "downloadURL" : "https://updates.tryshift.com/v8.1.5/stable/shift-v8.1.5.554-stable-x64.dmg",
       "homepage" : "https://tryshift.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-shift/AppIcon.png",
       "localizedDescription" : "Workstation to streamline your accounts, apps, and workflows",
       "name" : "Shift",
-      "sha256" : "d70c449026c9ba398770187c3843dd58e6380316ad2c2a57dc5f9cfe0cc5edac",
+      "sha256" : "cc30c5ad1f15f39e9e0f7a04c8278f56a45f931e7fbea23c8d26908f4a9de301",
       "stats" : {
         "downloadCount" : 39,
         "impressionCount" : 548
       },
       "subtitle" : "Workstation to streamline your accounts, apps, and workflows",
       "tintColor" : "4B4D55",
-      "version" : "8.1.4.548",
-      "versionDate" : "2022-11-03T00:00:00Z"
+      "version" : "8.1.5.554",
+      "versionDate" : "2022-11-11T11:29:23Z"
     },
     {
       "beta" : false,
@@ -15923,17 +15923,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "microsoft-edge",
-      "downloadURL" : "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-107.0.1418.35.pkg",
+      "downloadURL" : "https://officecdn-microsoft-com.akamaized.net/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/MicrosoftEdge-107.0.1418.42.pkg",
       "homepage" : "https://www.microsoft.com/edge",
       "localizedDescription" : "Web browser",
       "name" : "Microsoft Edge",
-      "sha256" : "e7d4e4af9b22b13a905614568fafa08442fbc4145d32fc2db4a1638b391769f0",
+      "sha256" : "91873695bbc651ae5b082107b7f91aa1c6cd4b1c7e56d613be5aa9615aa69b82",
       "stats" : {
         "downloadCount" : 3350
       },
       "subtitle" : "Web browser",
-      "version" : "107.0.1418.35",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "107.0.1418.42",
+      "versionDate" : "2022-11-11T11:29:23Z"
     },
     {
       "beta" : false,
@@ -16242,17 +16242,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "lens",
-      "downloadURL" : "https://api.k8slens.dev/binaries/Lens-2022.11.92045-latest.dmg",
+      "downloadURL" : "https://api.k8slens.dev/binaries/Lens-2022.11.101953-latest.dmg",
       "homepage" : "https://k8slens.dev/",
       "localizedDescription" : "Kubernetes IDE",
       "name" : "Lens",
-      "sha256" : "9f3efc3b843b062b6c509d6ce70c84560ca6d159c4beafb221d4aad729229de2",
+      "sha256" : "f7007cc313f0c394d4943520c2d4848bfaa2a3ce4ee37a76196d9d95000fe97d",
       "stats" : {
         "downloadCount" : 2484
       },
       "subtitle" : "Kubernetes IDE",
-      "version" : "2022.11.92045",
-      "versionDate" : "2022-11-10T00:00:00Z"
+      "version" : "2022.11.101953",
+      "versionDate" : "2022-11-11T11:29:23Z"
     },
     {
       "beta" : false,
@@ -22888,16 +22888,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "gather",
-      "downloadURL" : "https://github.com/gathertown/gather-town-desktop-releases/releases/download/v0.3.17/Gather-0.3.17-mac.zip",
+      "downloadURL" : "https://github.com/gathertown/gather-town-desktop-releases/releases/download/v0.3.20/Gather-0.3.20-mac.zip",
       "homepage" : "https://gather.town/",
       "localizedDescription" : "Virtual video-calling space",
       "name" : "Gather Town",
-      "sha256" : "70f3ce1af659934684b672e745a73298c9c75a5c96746e102462f8da61cdedcd",
+      "sha256" : "1c71acc5f0e5297c5736c60b0f2433c1000a12bec2a74295739b05f58a0fbd95",
       "stats" : {
         "downloadCount" : 133
       },
       "subtitle" : "Virtual video-calling space",
-      "version" : "0.3.17"
+      "version" : "0.3.20",
+      "versionDate" : "2022-11-11T11:29:23Z"
     },
     {
       "beta" : false,
@@ -62296,34 +62297,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "anydo",
-      "caption" : "Any.do updated from 5.0.9 to 5.0.10",
-      "date" : "2022-11-09T22:35:24Z",
-      "identifier" : "release-anydo-5.0.10",
-      "title" : "New Release: Any.do 5.0.10"
-    },
-    {
-      "appID" : "abstract",
-      "caption" : "Abstract updated from 98.2.3 to 98.2.4",
-      "date" : "2022-11-09T22:35:24Z",
-      "identifier" : "release-abstract-98.2.4",
-      "title" : "New Release: Abstract 98.2.4"
-    },
-    {
-      "appID" : "melodics",
-      "caption" : "Melodics updated from 3.0.9035,7EFF0A10-A85D-4364-BF5F-6377F3C44DB9 to 3.0.9083,2FE6C64F-B64F-45FC-970D-FE8A7D03CD60",
-      "date" : "2022-11-09T22:35:25Z",
-      "identifier" : "release-melodics-3.0.9083,2FE6C64F-B64F-45FC-970D-FE8A7D03CD60",
-      "title" : "New Release: Melodics 3.0.9083,2FE6C64F-B64F-45FC-970D-FE8A7D03CD60"
-    },
-    {
-      "appID" : "keet",
-      "caption" : "keet updated from 1.1.0 to 1.2.0",
-      "date" : "2022-11-09T22:35:25Z",
-      "identifier" : "release-keet-1.2.0",
-      "title" : "New Release: keet 1.2.0"
-    },
-    {
       "appID" : "ankama",
       "caption" : "Ankama Launcher updated from 3.8.1 to 3.8.2",
       "date" : "2022-11-09T22:35:25Z",
@@ -62429,13 +62402,6 @@
       "title" : "New Release: Unity Windows (Mono) Build Support 2022.1.22f1,6b6e9fc2adda"
     },
     {
-      "appID" : "sublime-text",
-      "caption" : "Sublime Text updated from 4126 to 4142",
-      "date" : "2022-11-10T04:58:06Z",
-      "identifier" : "release-sublime-text-4142",
-      "title" : "New Release: Sublime Text 4142"
-    },
-    {
       "appID" : "openlens",
       "caption" : "OpenLens updated from 6.1.17 to 6.1.18",
       "date" : "2022-11-10T04:58:06Z",
@@ -62448,13 +62414,6 @@
       "date" : "2022-11-10T08:46:11Z",
       "identifier" : "release-signal-5.63.1",
       "title" : "New Release: Signal 5.63.1"
-    },
-    {
-      "appID" : "lens",
-      "caption" : "Lens updated from 2022.11.81921 to 2022.11.92045",
-      "date" : "2022-11-10T11:30:21Z",
-      "identifier" : "release-lens-2022.11.92045",
-      "title" : "New Release: Lens 2022.11.92045"
     },
     {
       "appID" : "aircall",
@@ -62994,6 +62953,48 @@
       "date" : "2022-11-11T05:38:26Z",
       "identifier" : "release-free-gpgmail-6,2022.2,",
       "title" : "New Release: Free-GPGMail 6,2022.2,"
+    },
+    {
+      "appID" : "sublime-text",
+      "caption" : "Sublime Text updated from 4142 to 4143",
+      "date" : "2022-11-11T11:29:24Z",
+      "identifier" : "release-sublime-text-4143",
+      "title" : "New Release: Sublime Text 4143"
+    },
+    {
+      "appID" : "vscodium",
+      "caption" : "VSCodium updated from 1.73.0.22306 to 1.73.1.22314",
+      "date" : "2022-11-11T11:29:24Z",
+      "identifier" : "release-vscodium-1.73.1.22314",
+      "title" : "New Release: VSCodium 1.73.1.22314"
+    },
+    {
+      "appID" : "shift",
+      "caption" : "Shift updated from 8.1.4.548 to 8.1.5.554",
+      "date" : "2022-11-11T11:29:24Z",
+      "identifier" : "release-shift-8.1.5.554",
+      "title" : "New Release: Shift 8.1.5.554"
+    },
+    {
+      "appID" : "microsoft-edge",
+      "caption" : "Microsoft Edge updated from 107.0.1418.35 to 107.0.1418.42",
+      "date" : "2022-11-11T11:29:24Z",
+      "identifier" : "release-microsoft-edge-107.0.1418.42",
+      "title" : "New Release: Microsoft Edge 107.0.1418.42"
+    },
+    {
+      "appID" : "lens",
+      "caption" : "Lens updated from 2022.11.92045 to 2022.11.101953",
+      "date" : "2022-11-11T11:29:25Z",
+      "identifier" : "release-lens-2022.11.101953",
+      "title" : "New Release: Lens 2022.11.101953"
+    },
+    {
+      "appID" : "gather",
+      "caption" : "Gather Town updated from 0.3.17 to 0.3.20",
+      "date" : "2022-11-11T11:29:25Z",
+      "identifier" : "release-gather-0.3.20",
+      "title" : "New Release: Gather Town 0.3.20"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

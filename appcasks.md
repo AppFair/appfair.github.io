@@ -33,12 +33,12 @@ tr:nth-child(even) {
 | [``Unison``](https://www.cis.upenn.edu/~bcpierce/unison/) | ``2.53.0,4.14.0`` | `128` | `2022-11-07T00:00:00Z` |  | `4420` | `375` |  | `0` | `public.app-category.utilities` |
 | [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `5` | `2022-10-18T00:00:00Z` |  | `4483` | `352` |  | `0` | `public.app-category.developer-tools` |
 | [``Slack``](https://slack.com/) | ``4.29.144`` | `8481` | `2022-10-28T00:00:00Z` |  | `3978` | `279` |  | `0` | `public.app-category.business` |
-| [``Sublime Text``](https://www.sublimetext.com/) | ``4142`` | `6106` | `2022-11-10T00:00:00Z` |  | `2811` | `143` |  | `0` | `public.app-category.productivity` |
+| [``Sublime Text``](https://www.sublimetext.com/) | ``4143`` | `6106` | `2022-11-11T11:29:23Z` |  | `2811` | `143` |  | `0` | `public.app-category.productivity` |
 | [``Stats``](https://github.com/exelban/stats) | ``2.7.42`` | `5558` | `2022-11-06T00:00:00Z` |  | `5969` | `587` |  | `0` | `public.app-category.utilities` |
 | [``Telegram for macOS``](https://macos.telegram.org/) | ``9.1.1,238861`` | `3216` | `2022-11-08T00:00:00Z` |  | `2828` | `216` |  | `0` | `public.app-category.social-networking` |
 | [``Wireshark``](https://www.wireshark.org/) | ``4.0.1`` | `3157` | `2022-10-28T00:00:00Z` |  | `2493` | `142` |  | `0` | `public.app-category.productivity` |
 | [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``4.0.1,20039`` | `2593` | `2022-10-28T00:00:00Z` |  | `3821` | `169` |  | `0` | `public.app-category.developer-tools` |
-| [``VSCodium``](https://github.com/VSCodium/vscodium) | ``1.73.0.22306`` | `2348` | `2022-11-02T00:00:00Z` |  | `4548` | `437` |  | `0` | `public.app-category.developer-tools` |
+| [``VSCodium``](https://github.com/VSCodium/vscodium) | ``1.73.1.22314`` | `2348` | `2022-11-11T11:29:23Z` |  | `4548` | `437` |  | `0` | `public.app-category.developer-tools` |
 | [``Tor Browser``](https://www.torproject.org/) | ``11.5.7`` | `2273` | `2022-11-04T00:00:00Z` |  | `3785` | `181` |  | `0` | `public.app-category.productivity` |
 | [``Skype``](https://www.skype.com/) | ``8.90.0.407`` | `2104` | `2022-11-09T00:00:00Z` |  | `2262` | `67` |  | `0` | `public.app-category.social-networking` |
 | [``Xcodes``](https://github.com/RobotsAndPencils/XcodesApp) | ``1.8.0,16`` | `1675` |  |  | `3855` |  |  | `0` | `public.app-category.developer-tools` |
@@ -205,7 +205,7 @@ tr:nth-child(even) {
 | [``Tad``](https://www.tadviewer.com/) | ``0.10.1`` | `40` |  |  | `336` |  |  | `0` | `public.app-category.developer-tools` |
 | [``Trilium Notes``](https://github.com/zadam/trilium) | ``0.56.2`` | `39` | `2022-10-28T00:00:00Z` |  | `708` |  |  | `0` | `public.app-category.developer-tools` |
 | [``transfer``](https://www.intuitibits.com/products/transfer/) | ``2.1,14`` | `39` |  |  | `193` |  |  | `0` | `public.app-category.utilities` |
-| [``Shift``](https://tryshift.com/) | ``8.1.4.548`` | `39` | `2022-11-03T00:00:00Z` |  | `548` |  |  | `0` | `public.app-category.developer-tools` |
+| [``Shift``](https://tryshift.com/) | ``8.1.5.554`` | `39` | `2022-11-11T11:29:23Z` |  | `548` |  |  | `0` | `public.app-category.developer-tools` |
 | [``SideQuest``](https://sidequestvr.com/) | ``0.10.33`` | `38` | `2022-10-28T00:00:00Z` |  | `465` |  |  | `0` | `public.app-category.utilities` |
 | [``ZOC``](https://www.emtec.com/zoc/) | ``8.04.6`` | `37` |  |  | `430` |  |  | `0` | `public.app-category.utilities` |
 | [``Tweetbot``](https://tapbots.com/tweetbot/mac/) | ``3.5.8,35800`` | `37` |  |  | `457` |  |  | `0` | `public.app-category.social-networking` |
@@ -828,7 +828,7 @@ tr:nth-child(even) {
 | [``1Password``](https://1password.com/) | ``8.9.8`` | `3614` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Alacritty``](https://github.com/alacritty/alacritty/) | ``0.11.0`` | `3540` |  |  |  |  |  | `0` |  |
 | [``Continuum Analytics Mini…``](https://conda.io/miniconda.html) | ``py39_4.12.0`` | `3440` |  |  |  |  |  | `0` |  |
-| [``Microsoft Edge``](https://www.microsoft.com/edge) | ``107.0.1418.35`` | `3350` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Microsoft Edge``](https://www.microsoft.com/edge) | ``107.0.1418.42`` | `3350` | `2022-11-11T11:29:23Z` |  |  |  |  | `0` |  |
 | [``GitHub Desktop``](https://desktop.github.com/) | ``3.1.2-7cd66717`` | `3322` | `2022-10-19T00:00:00Z` |  |  |  |  | `0` |  |
 | [``android-sdk``](https://developer.android.com/studio/releases/sdk-tools) | ``4333796`` | `3278` |  |  |  |  |  | `0` |  |
 | [``IntelliJ IDEA Ultimate``](https://www.jetbrains.com/idea/) | ``2022.2.3,222.4345.14`` | `3254` |  |  |  |  |  | `0` |  |
@@ -850,7 +850,7 @@ tr:nth-child(even) {
 | [``DB Browser for SQLite``](https://sqlitebrowser.org/) | ``3.12.2`` | `2548` |  |  |  |  |  | `0` |  |
 | [``Insomnia``](https://insomnia.rest/) | ``2022.6.0`` | `2527` |  |  |  |  |  | `0` |  |
 | [``OBS``](https://obsproject.com/) | ``28.1.2`` | `2500` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Lens``](https://k8slens.dev/) | ``2022.11.92045`` | `2484` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Lens``](https://k8slens.dev/) | ``2022.11.101953`` | `2484` | `2022-11-11T11:29:23Z` |  |  |  |  | `0` |  |
 | [``Microsoft Office``](https://products.office.com/mac/microsoft-office-for-mac/) | ``16.66.22101101`` | `2457` |  |  |  |  |  | `0` |  |
 | [``Amethyst``](https://ianyh.com/amethyst/) | ``0.16.0`` | `2419` |  |  |  |  |  | `0` |  |
 | [``BasicTeX``](https://www.tug.org/mactex/morepackages.html) | ``2022.0314`` | `2396` |  |  |  |  |  | `0` |  |
@@ -1311,7 +1311,7 @@ tr:nth-child(even) {
 | [``OpenShot Video Editor``](https://openshot.org/) | ``2.6.1`` | `134` |  |  |  |  |  | `0` |  |
 | [``Clash for Windows``](https://github.com/Fndroid/clash_for_windows_pkg) | ``0.20.7`` | `133` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Disk Drill``](https://www.cleverfiles.com/) | ``4.7.382`` | `133` |  |  |  |  |  | `0` |  |
-| [``Gather Town``](https://gather.town/) | ``0.3.17`` | `133` |  |  |  |  |  | `0` |  |
+| [``Gather Town``](https://gather.town/) | ``0.3.20`` | `133` | `2022-11-11T11:29:23Z` |  |  |  |  | `0` |  |
 | [``Affinity Photo``](https://affinity.serif.com/en-us/photo/) | ``1.10.5`` | `132` |  |  |  |  |  | `0` |  |
 | [``AltServer``](https://altstore.io/) | ``1.5.1,70`` | `132` |  |  |  |  |  | `0` |  |
 | [``Duet``](https://www.duetdisplay.com/) | ``3.0.1.0`` | `132` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |

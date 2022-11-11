@@ -112,7 +112,7 @@
       "sha256" : "f7cc7fb04d13f8a0adf9e41be58d07d2517f125e3b883629a344b5e11354d553",
       "stats" : {
         "downloadCount" : 3771,
-        "impressionCount" : 10122,
+        "impressionCount" : 10123,
         "viewCount" : 660
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -460,7 +460,7 @@
       "sha256" : "dc06f15be81472f7420001e2d7fec464b0f6e7d2d6c05a27205ceba4e9488f29",
       "stats" : {
         "downloadCount" : 2104,
-        "impressionCount" : 2258,
+        "impressionCount" : 2259,
         "viewCount" : 67
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -848,7 +848,7 @@
       "sha256" : "f6917ab0e41269d07acd93c75b25f3f429ad10ecd799802c7363cd026e82c0fe",
       "stats" : {
         "downloadCount" : 33337,
-        "impressionCount" : 2002
+        "impressionCount" : 2003
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -869,7 +869,7 @@
       "sha256" : "c1ae7e9c4b7a9f16fc9b25aa8b8c3a7dc708a0258a252ee601f2f9ac67be0011",
       "stats" : {
         "downloadCount" : 9615,
-        "impressionCount" : 1109
+        "impressionCount" : 1110
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "version" : "5.12.8.12565",
@@ -1252,7 +1252,7 @@
       "sha256" : "d25db7744f85566893ee800208fd1abcb25c4b8bb703689ff41c40b6b4c2209d",
       "stats" : {
         "downloadCount" : 483,
-        "impressionCount" : 1497
+        "impressionCount" : 1499
       },
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
@@ -2284,7 +2284,7 @@
       "sha256" : "e2cdf6ca03ed807bc9c8ecbd42323e17554afe6da4fde1dd92b23c8bd903da60",
       "stats" : {
         "downloadCount" : 109,
-        "impressionCount" : 682
+        "impressionCount" : 684
       },
       "subtitle" : "Remote pair programming app",
       "tintColor" : "616CBA",
@@ -2621,7 +2621,7 @@
       "name" : "Sensei",
       "stats" : {
         "downloadCount" : 81,
-        "impressionCount" : 388
+        "impressionCount" : 390
       },
       "subtitle" : "Monitors the computer system and optimizes its performance",
       "tintColor" : "DBE8F9",
@@ -3071,7 +3071,7 @@
       "sha256" : "9f0895cc1ca41c078945ddb8d9fbffb2284cc479d1759a77b54b187f9038c3cc",
       "stats" : {
         "downloadCount" : 58,
-        "impressionCount" : 766
+        "impressionCount" : 768
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
@@ -4524,7 +4524,7 @@
       "sha256" : "bbc6aa3cc047d1d7a0f7c37ad90626aed62b29dd1ac1167143f5e520e1056450",
       "stats" : {
         "downloadCount" : 28,
-        "impressionCount" : 236
+        "impressionCount" : 238
       },
       "subtitle" : "Manual for Seafile server",
       "tintColor" : "ECA974",
@@ -10883,7 +10883,7 @@
       "sha256" : "263a88373a59b3e39d1707d461c49dff8d9cbdf7034131231c94940a63da8a3d",
       "stats" : {
         "downloadCount" : 891,
-        "impressionCount" : 638
+        "impressionCount" : 640
       },
       "subtitle" : "Collect, organize, cite, and share research sources",
       "tintColor" : "B38181",
@@ -12364,7 +12364,7 @@
       "name" : "Tresorit",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 147
+        "impressionCount" : 149
       },
       "subtitle" : "Client for the Tresorit cloud storage service",
       "tintColor" : "CDE8F6",
@@ -12544,7 +12544,7 @@
       "sha256" : "4f09cdbe2ad53d9cfb8b3c37a18e1f98a4fddaa00906be9b23a72e0e22d49e20",
       "stats" : {
         "downloadCount" : 31,
-        "impressionCount" : 141
+        "impressionCount" : 143
       },
       "subtitle" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
       "tintColor" : "DE7A7A",
@@ -12766,7 +12766,7 @@
       "sha256" : "699d61b9692cce4eae80bf7bd4d9aa1cc360e4558b4a1faee217da856c2c2378",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 156
+        "impressionCount" : 158
       },
       "subtitle" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "tintColor" : "DE7A7A",
@@ -24163,16 +24163,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "ipfs",
-      "downloadURL" : "https://github.com/ipfs/ipfs-desktop/releases/download/v0.24.0/IPFS-Desktop-0.24.0.dmg",
+      "downloadURL" : "https://github.com/ipfs/ipfs-desktop/releases/download/v0.24.1/ipfs-desktop-0.24.1-mac.dmg",
       "homepage" : "https://github.com/ipfs/ipfs-desktop",
       "localizedDescription" : "Menu bar application for the IPFS peer-to-peer network",
       "name" : "IPFS Desktop",
-      "sha256" : "3c0ff6787cc1c39520f88ab7e5fb29a7ceb006b03230a636d6cb567fa3f1e566",
+      "sha256" : "9353ce0fdd550c3a9d6c05065c7ed4df37f5fb22b9f8950c864677e0e4f43ebe",
       "stats" : {
         "downloadCount" : 104
       },
       "subtitle" : "Menu bar application for the IPFS peer-to-peer network",
-      "version" : "0.24.0"
+      "version" : "0.24.1",
+      "versionDate" : "2022-11-11T04:05:04Z"
     },
     {
       "beta" : false,
@@ -24917,8 +24918,8 @@
         "downloadCount" : 89
       },
       "subtitle" : "OpenCore EFI bootloader configuration helper",
-      "version" : "2.63.0.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.63.1.0",
+      "versionDate" : "2022-11-11T04:05:04Z"
     },
     {
       "beta" : false,
@@ -27988,7 +27989,7 @@
       },
       "subtitle" : "Web security testing toolkit",
       "version" : "2022.9.6",
-      "versionDate" : "2022-11-11T02:21:49Z"
+      "versionDate" : "2022-11-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42246,7 +42247,7 @@
       },
       "subtitle" : "3D model creator",
       "version" : "7.24.22308.15002",
-      "versionDate" : "2022-11-11T02:21:49Z"
+      "versionDate" : "2022-11-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54457,7 +54458,7 @@
       },
       "subtitle" : "Video and voice calling application",
       "version" : "0.7.3",
-      "versionDate" : "2022-11-11T02:21:49Z"
+      "versionDate" : "2022-11-11T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62295,20 +62296,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "nordlayer",
-      "caption" : "NordLayer updated from 2.5.1,1965 to 2.6.0,1989",
-      "date" : "2022-11-09T22:35:24Z",
-      "identifier" : "release-nordlayer-2.6.0,1989",
-      "title" : "New Release: NordLayer 2.6.0,1989"
-    },
-    {
-      "appID" : "ivpn",
-      "caption" : "IVPN updated from 3.9.43 to 3.9.45",
-      "date" : "2022-11-09T22:35:24Z",
-      "identifier" : "release-ivpn-3.9.45",
-      "title" : "New Release: IVPN 3.9.45"
-    },
-    {
       "appID" : "kotlin-native",
       "caption" : "Kotlin Native updated from 1.7.20 to 1.7.21",
       "date" : "2022-11-09T22:35:24Z",
@@ -62993,6 +62980,20 @@
       "date" : "2022-11-11T02:21:51Z",
       "identifier" : "release-unite-phone-0.7.3",
       "title" : "New Release: Unite Phone 0.7.3"
+    },
+    {
+      "appID" : "ipfs",
+      "caption" : "IPFS Desktop updated from 0.24.0 to 0.24.1",
+      "date" : "2022-11-11T04:05:05Z",
+      "identifier" : "release-ipfs-0.24.1",
+      "title" : "New Release: IPFS Desktop 0.24.1"
+    },
+    {
+      "appID" : "opencore-configurator",
+      "caption" : "OpenCore Configurator updated from 2.63.0.0 to 2.63.1.0",
+      "date" : "2022-11-11T04:05:06Z",
+      "identifier" : "release-opencore-configurator-2.63.1.0",
+      "title" : "New Release: OpenCore Configurator 2.63.1.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -10896,20 +10896,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://downloads.vivaldi.com/stable/Vivaldi.5.5.2805.42.universal.dmg",
+      "downloadURL" : "https://downloads.vivaldi.com/stable/Vivaldi.5.5.2805.44.universal.dmg",
       "homepage" : "https://vivaldi.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vivaldi/AppIcon.png",
       "localizedDescription" : "Web browser with built-in email client focusing on customization and control",
       "name" : "Vivaldi",
-      "sha256" : "bab55ae8fd5f5040def040af2af573214264dab32f421d676f89a773c1874e72",
+      "sha256" : "c940381713e6cacba34e83efbd95abc0ef183f39f6201e4f8d6b42087bab1398",
       "stats" : {
         "downloadCount" : 780,
         "impressionCount" : 728
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
-      "version" : "5.5.2805.42",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5.5.2805.44",
+      "versionDate" : "2022-11-11T17:32:18Z"
     },
     {
       "beta" : false,
@@ -16336,8 +16336,8 @@
         "downloadCount" : 2330
       },
       "subtitle" : "Client for the Dropbox cloud storage service",
-      "version" : "160.4.4703",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "161.4.4923",
+      "versionDate" : "2022-11-11T17:32:18Z"
     },
     {
       "beta" : false,
@@ -19222,17 +19222,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "openlens",
-      "downloadURL" : "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.1.18/OpenLens-6.1.18.dmg",
+      "downloadURL" : "https://github.com/MuhammedKalkan/OpenLens/releases/download/v6.1.19/OpenLens-6.1.19.dmg",
       "homepage" : "https://github.com/MuhammedKalkan/OpenLens/",
       "localizedDescription" : "Open source build of Lens Kubernetes IDE",
       "name" : "OpenLens",
-      "sha256" : "2e25893479e6910d06ef51808092d3a32a6025918cc3f7687ea2b2f3342eea08",
+      "sha256" : "61ed06b2fd2a8f7dcdc4cc7a883167d56cc1806bacaf305f61f1a607db6307d6",
       "stats" : {
         "downloadCount" : 389
       },
       "subtitle" : "Open source build of Lens Kubernetes IDE",
-      "version" : "6.1.18",
-      "versionDate" : "2022-11-10T00:00:00Z"
+      "version" : "6.1.19",
+      "versionDate" : "2022-11-11T17:32:18Z"
     },
     {
       "beta" : false,
@@ -19921,17 +19921,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "diffusionbee",
-      "downloadURL" : "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases/download/1.4.3/DiffusionBee-1.4.3-intel_MPS_SD1.5_FP16.dmg",
+      "downloadURL" : "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases/download/1.5.1/DiffusionBee-1.5.1-intel_MPS_SD1.5_FP16.dmg",
       "homepage" : "https://diffusionbee.com/",
       "localizedDescription" : "Run Stable Diffusion locally",
       "name" : "Diffusion Bee",
-      "sha256" : "70cb545cf923756a2b6e92d962c620bb2db984bf01398e2a053ba7293d59e40a",
+      "sha256" : "2d50404e5a433f87c75329b0f3914e4fa93760702f314d7c406467a212e34c9c",
       "stats" : {
         "downloadCount" : 305
       },
       "subtitle" : "Run Stable Diffusion locally",
-      "version" : "1.4.3",
-      "versionDate" : "2022-10-30T00:00:00Z"
+      "version" : "1.5.1",
+      "versionDate" : "2022-11-11T17:32:18Z"
     },
     {
       "beta" : false,
@@ -24939,17 +24939,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "qownnotes",
-      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.11.4/QOwnNotes.dmg",
+      "downloadURL" : "https://github.com/pbek/QOwnNotes/releases/download/v22.11.5/QOwnNotes.dmg",
       "homepage" : "https://www.qownnotes.org/",
       "localizedDescription" : "Plain-text file notepad and todo-list manager",
       "name" : "QOwnNotes",
-      "sha256" : "17102f85119b8435ba903ddbe063f14d1fac9e6a390cf12a553f3417ecbb6e37",
+      "sha256" : "b632d3357b07e8e7ae363917c04e4f7cd37acdbf0a10448dc8b1e01a7e1da44c",
       "stats" : {
         "downloadCount" : 88
       },
       "subtitle" : "Plain-text file notepad and todo-list manager",
-      "version" : "22.11.4",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "22.11.5",
+      "versionDate" : "2022-11-11T17:32:18Z"
     },
     {
       "beta" : false,
@@ -27301,17 +27301,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "paper",
-      "downloadURL" : "https://s3.nsns.in/dl/paper-v5.1.5.dmg",
+      "downloadURL" : "https://s3.nsns.in/dl/paper-v5.1.6.dmg",
       "homepage" : "https://paper.photos/",
       "localizedDescription" : "Pap.er, 4K 5K HD Wallpaper Application",
       "name" : "pap.er",
-      "sha256" : "bf049976a0fa17d7c9a8b09ce3a0d99fc8430413aef71bdd10cd2481290f7021",
+      "sha256" : "3ef16e7666f3261af8b1f38042ba347010210db3b65de2b6d75028c50b76e05a",
       "stats" : {
         "downloadCount" : 58
       },
       "subtitle" : "Pap.er, 4K 5K HD Wallpaper Application",
-      "version" : "5.1.5",
-      "versionDate" : "2022-11-10T00:00:00Z"
+      "version" : "5.1.6",
+      "versionDate" : "2022-11-11T17:32:18Z"
     },
     {
       "beta" : false,
@@ -62297,34 +62297,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "ankama",
-      "caption" : "Ankama Launcher updated from 3.8.1 to 3.8.2",
-      "date" : "2022-11-09T22:35:25Z",
-      "identifier" : "release-ankama-3.8.2",
-      "title" : "New Release: Ankama Launcher 3.8.2"
-    },
-    {
-      "appID" : "cinderella",
-      "caption" : "Cinderella updated from 3.0b.2058 to 3.0b.2059",
-      "date" : "2022-11-09T22:35:25Z",
-      "identifier" : "release-cinderella-3.0b.2059",
-      "title" : "New Release: Cinderella 3.0b.2059"
-    },
-    {
-      "appID" : "lookingglassbridge",
-      "caption" : "Looking Glass Bridge updated from 2.0.6 to 2.0.9",
-      "date" : "2022-11-09T22:35:26Z",
-      "identifier" : "release-lookingglassbridge-2.0.9",
-      "title" : "New Release: Looking Glass Bridge 2.0.9"
-    },
-    {
-      "appID" : "badlion-client",
-      "caption" : "Badlion Client updated from 3.12.1 to 3.12.2",
-      "date" : "2022-11-09T22:35:26Z",
-      "identifier" : "release-badlion-client-3.12.2",
-      "title" : "New Release: Badlion Client 3.12.2"
-    },
-    {
       "appID" : "tidelift",
       "caption" : "Tidelift CLI updated from 1.12.11 to 1.12.12",
       "date" : "2022-11-09T22:35:26Z",
@@ -62402,13 +62374,6 @@
       "title" : "New Release: Unity Windows (Mono) Build Support 2022.1.22f1,6b6e9fc2adda"
     },
     {
-      "appID" : "openlens",
-      "caption" : "OpenLens updated from 6.1.17 to 6.1.18",
-      "date" : "2022-11-10T04:58:06Z",
-      "identifier" : "release-openlens-6.1.18",
-      "title" : "New Release: OpenLens 6.1.18"
-    },
-    {
       "appID" : "signal",
       "caption" : "Signal updated from 5.63.0 to 5.63.1",
       "date" : "2022-11-10T08:46:11Z",
@@ -62435,13 +62400,6 @@
       "date" : "2022-11-10T15:37:52Z",
       "identifier" : "release-raycast-1.43.2",
       "title" : "New Release: Raycast 1.43.2"
-    },
-    {
-      "appID" : "paper",
-      "caption" : "pap.er updated from 5.1.3 to 5.1.5",
-      "date" : "2022-11-10T15:37:52Z",
-      "identifier" : "release-paper-5.1.5",
-      "title" : "New Release: pap.er 5.1.5"
     },
     {
       "appID" : "restfox",
@@ -62995,6 +62953,48 @@
       "date" : "2022-11-11T11:29:25Z",
       "identifier" : "release-gather-0.3.20",
       "title" : "New Release: Gather Town 0.3.20"
+    },
+    {
+      "appID" : "vivaldi",
+      "caption" : "Vivaldi updated from 5.5.2805.42 to 5.5.2805.44",
+      "date" : "2022-11-11T17:32:19Z",
+      "identifier" : "release-vivaldi-5.5.2805.44",
+      "title" : "New Release: Vivaldi 5.5.2805.44"
+    },
+    {
+      "appID" : "dropbox",
+      "caption" : "Dropbox updated from 160.4.4703 to 161.4.4923",
+      "date" : "2022-11-11T17:32:19Z",
+      "identifier" : "release-dropbox-161.4.4923",
+      "title" : "New Release: Dropbox 161.4.4923"
+    },
+    {
+      "appID" : "openlens",
+      "caption" : "OpenLens updated from 6.1.18 to 6.1.19",
+      "date" : "2022-11-11T17:32:20Z",
+      "identifier" : "release-openlens-6.1.19",
+      "title" : "New Release: OpenLens 6.1.19"
+    },
+    {
+      "appID" : "diffusionbee",
+      "caption" : "Diffusion Bee updated from 1.4.3 to 1.5.1",
+      "date" : "2022-11-11T17:32:20Z",
+      "identifier" : "release-diffusionbee-1.5.1",
+      "title" : "New Release: Diffusion Bee 1.5.1"
+    },
+    {
+      "appID" : "qownnotes",
+      "caption" : "QOwnNotes updated from 22.11.4 to 22.11.5",
+      "date" : "2022-11-11T17:32:20Z",
+      "identifier" : "release-qownnotes-22.11.5",
+      "title" : "New Release: QOwnNotes 22.11.5"
+    },
+    {
+      "appID" : "paper",
+      "caption" : "pap.er updated from 5.1.5 to 5.1.6",
+      "date" : "2022-11-11T17:32:20Z",
+      "identifier" : "release-paper-5.1.6",
+      "title" : "New Release: pap.er 5.1.6"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

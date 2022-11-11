@@ -23355,17 +23355,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "free-gpgmail",
-      "downloadURL" : "https://github.com/Free-GPGMail/Free-GPGMail/releases/download/v2022.1.1/Free-GPGMail_6-2022.1.1.mailbundle.zip",
+      "downloadURL" : "https://github.com/Free-GPGMail/Free-GPGMail/releases/download/v2022.2/Free-GPGMail_6-2022.2.mailbundle.zip",
       "homepage" : "https://github.com/Free-GPGMail/Free-GPGMail",
       "localizedDescription" : "Apple Mail plugin for GnuPG encrypted e-mails",
       "name" : "Free-GPGMail",
-      "sha256" : "c2c0f54b97e10af583b1db007006d4fa56531879390424aa5ab573d8b0ce66cf",
+      "sha256" : "605b292cf10fbbb5fbedefbd0e1a889c616d2d057dd862bed51899d217840489",
       "stats" : {
         "downloadCount" : 121
       },
       "subtitle" : "Apple Mail plugin for GnuPG encrypted e-mails",
-      "version" : "6,2022.1.1,",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "6,2022.2,",
+      "versionDate" : "2022-11-11T05:38:26Z"
     },
     {
       "beta" : false,
@@ -62296,13 +62296,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "kotlin-native",
-      "caption" : "Kotlin Native updated from 1.7.20 to 1.7.21",
-      "date" : "2022-11-09T22:35:24Z",
-      "identifier" : "release-kotlin-native-1.7.21",
-      "title" : "New Release: Kotlin Native 1.7.21"
-    },
-    {
       "appID" : "anydo",
       "caption" : "Any.do updated from 5.0.9 to 5.0.10",
       "date" : "2022-11-09T22:35:24Z",
@@ -62994,6 +62987,13 @@
       "date" : "2022-11-11T04:05:06Z",
       "identifier" : "release-opencore-configurator-2.63.1.0",
       "title" : "New Release: OpenCore Configurator 2.63.1.0"
+    },
+    {
+      "appID" : "free-gpgmail",
+      "caption" : "Free-GPGMail updated from 6,2022.1.1, to 6,2022.2,",
+      "date" : "2022-11-11T05:38:26Z",
+      "identifier" : "release-free-gpgmail-6,2022.2,",
+      "title" : "New Release: Free-GPGMail 6,2022.2,"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

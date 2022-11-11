@@ -1400,7 +1400,7 @@ tr:nth-child(even) {
 | [``HTTP Toolkit``](https://httptoolkit.tech/) | ``1.12.0`` | `105` | `2022-11-03T00:00:00Z` |  |  |  |  | `0` |  |
 | [``CodeQL``](https://codeql.github.com/) | ``2.11.2`` | `104` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Input Source Pro``](https://inputsource.pro/) | ``2.1.10-beta,332`` | `104` |  |  |  |  |  | `0` |  |
-| [``IPFS Desktop``](https://github.com/ipfs/ipfs-desktop) | ``0.24.1`` | `104` | `2022-11-11T04:05:04Z` |  |  |  |  | `0` |  |
+| [``IPFS Desktop``](https://github.com/ipfs/ipfs-desktop) | ``0.24.1`` | `104` | `2022-11-11T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Send to Kindle``](https://www.amazon.com/gp/sendtokindle/mac) | ``1.1.1.253`` | `103` |  |  |  |  |  | `0` |  |
 | [``Sioyek``](https://sioyek.info/) | ``1.5.0`` | `102` |  |  |  |  |  | `0` |  |
 | [``Origin``](https://www.origin.com/) | ``10.5.115.51547`` | `102` |  |  |  |  |  | `0` |  |
@@ -1452,7 +1452,7 @@ tr:nth-child(even) {
 | [``ODBC Manager``](http://www.odbcmanager.net/) | ``1.0.22`` | `90` |  |  |  |  |  | `0` |  |
 | [``Chrysalis``](https://github.com/keyboardio/Chrysalis) | ``0.12.0`` | `89` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Frescobaldi``](https://frescobaldi.org/) | ``3.1.3`` | `89` |  |  |  |  |  | `0` |  |
-| [``OpenCore Configurator``](https://mackie100projects.altervista.org/opencore-configurator/) | ``2.63.1.0`` | `89` | `2022-11-11T04:05:04Z` |  |  |  |  | `0` |  |
+| [``OpenCore Configurator``](https://mackie100projects.altervista.org/opencore-configurator/) | ``2.63.1.0`` | `89` | `2022-11-11T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Resilio Sync``](https://www.resilio.com/) | ``2.7.3`` | `89` |  |  |  |  |  | `0` |  |
 | [``QOwnNotes``](https://www.qownnotes.org/) | ``22.11.4`` | `88` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``구름 입력기``](https://gureum.io/) | ``1.13.0`` | `87` |  |  |  |  |  | `0` |  |

@@ -112,7 +112,7 @@
       "sha256" : "f7cc7fb04d13f8a0adf9e41be58d07d2517f125e3b883629a344b5e11354d553",
       "stats" : {
         "downloadCount" : 3771,
-        "impressionCount" : 10123,
+        "impressionCount" : 10125,
         "viewCount" : 660
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -14466,6 +14466,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "second-life-viewer",
+      "categories" : [
+
+      ],
+      "downloadURL" : "http://download.cloud.secondlife.com/Viewer_6/Second_Life_6_6_7_576223_x86_64.dmg",
+      "homepage" : "https://secondlife.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-second-life-viewer/AppIcon.png",
+      "localizedDescription" : "3D browsing software for Second Life online virtual world",
+      "name" : "Linden Lab Second Life Viewer",
+      "sha256" : "e0e474a2303f779ce91ea7c60a2d6ae6217cb29f50fc3f4c77cb993cd2bc625f",
+      "stats" : {
+        "downloadCount" : 5,
+        "impressionCount" : 202
+      },
+      "subtitle" : "3D browsing software for Second Life online virtual world",
+      "tintColor" : "0A3341",
+      "version" : "6.6.7.576223",
+      "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "youtrack-workflow",
       "categories" : [
 
@@ -14620,27 +14641,6 @@
       },
       "tintColor" : "404040",
       "version" : "2.4.4i"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "second-life-viewer",
-      "categories" : [
-
-      ],
-      "downloadURL" : "http://download.cloud.secondlife.com/Viewer_6/Second_Life_6_6_7_576223_x86_64.dmg",
-      "homepage" : "https://secondlife.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-second-life-viewer/AppIcon.png",
-      "localizedDescription" : "3D browsing software for Second Life online virtual world",
-      "name" : "Linden Lab Second Life Viewer",
-      "sha256" : "e0e474a2303f779ce91ea7c60a2d6ae6217cb29f50fc3f4c77cb993cd2bc625f",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 200
-      },
-      "subtitle" : "3D browsing software for Second Life online virtual world",
-      "tintColor" : "0A3341",
-      "version" : "6.6.7.576223",
-      "versionDate" : "2022-11-02T00:00:00Z"
     },
     {
       "beta" : false,

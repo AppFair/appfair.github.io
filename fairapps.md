@@ -23,11 +23,11 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `754` | `2022-10-20T00:00:00Z` | `12 MB` | `427` | `57` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `212` | `2022-09-26T00:00:00Z` | `2.4 MB` | `1013` | `100` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `755` | `2022-10-20T00:00:00Z` | `12 MB` | `427` | `57` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `214` | `2022-09-26T00:00:00Z` | `2.4 MB` | `1013` | `100` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `194` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1260` | `97` | `0` | `0` |  |
-| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `101` | `2022-09-20T00:00:00Z` | `3.2 MB` | `464` | `31` | `0` | `0` |  |
-| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `93` | `2022-09-23T00:00:00Z` | `3.2 MB` | `17` | `2` | `0` | `0` |  |
+| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `102` | `2022-09-20T00:00:00Z` | `3.2 MB` | `464` | `31` | `0` | `0` |  |
+| [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `94` | `2022-09-23T00:00:00Z` | `3.2 MB` | `17` | `2` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `45` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5765` | `863` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1536` | `124` | `1` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1335` | `112` | `0` | `0` |  |

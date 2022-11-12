@@ -24,15 +24,15 @@ tr:nth-child(even) {
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
 | [``App Fair``](https://appfair.app) | ``0.8.131`` | `747` | `2022-10-20T00:00:00Z` | `12 MB` | `422` | `56` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `209` | `2022-09-26T00:00:00Z` | `2.4 MB` | `1008` | `99` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `194` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1255` | `96` | `0` | `0` |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `209` | `2022-09-26T00:00:00Z` | `2.4 MB` | `1010` | `100` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `194` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1257` | `97` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `97` | `2022-09-20T00:00:00Z` | `3.2 MB` | `464` | `31` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `89` | `2022-09-23T00:00:00Z` | `3.2 MB` | `17` | `2` | `0` | `0` |  |
-| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `45` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5761` | `863` | `1` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1532` | `124` | `1` | `0` |  |
-| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1331` | `112` | `0` | `0` |  |
-| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1365` | `92` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4367` | `301` | `0` | `0` |  |
+| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `45` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5762` | `863` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1533` | `124` | `1` | `0` |  |
+| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `30` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1332` | `112` | `0` | `0` |  |
+| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1366` | `92` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `24` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4368` | `301` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `4624` | `656` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1152` | `98` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `1624` | `105` | `0` | `0` |  |

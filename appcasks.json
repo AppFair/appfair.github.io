@@ -397,7 +397,7 @@
       "subtitle" : "MySQL/MariaDB database management",
       "tintColor" : "A66666",
       "version" : "4.0.3,20042",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1420,7 +1420,7 @@
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
       "version" : "0.2.3",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -1846,7 +1846,7 @@
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
       "version" : "3.23.292",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2108,7 +2108,7 @@
       "subtitle" : "Network toolbox",
       "tintColor" : "DBE3FD",
       "version" : "4.10.0,1927,f009d35c5da9df00cccf818edd74b20d",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2368,7 +2368,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "EACCCC",
       "version" : "22.11.0",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2429,7 +2429,7 @@
       "subtitle" : "Git client",
       "tintColor" : "DADAE7",
       "version" : "22.1.0",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3098,7 +3098,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "333744",
       "version" : "1.0.0.2",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5735,7 +5735,7 @@
       "subtitle" : "Email client",
       "tintColor" : "E7ECF1",
       "version" : "1.5.0",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5816,7 +5816,7 @@
       "subtitle" : "Network diagnostic utility",
       "tintColor" : "BBC8CD",
       "version" : "2.5.6,11810",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6727,7 +6727,7 @@
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
       "version" : "0.12.11",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12656,7 +12656,7 @@
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",
       "version" : "10.20.1c",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15554,7 +15554,7 @@
       },
       "subtitle" : "Rust-based terminal",
       "version" : "0.2022.11.08.08.07.stable_02",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17624,7 +17624,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.27,20221111143441",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18084,7 +18084,7 @@
       },
       "subtitle" : "App for note taking, organizing, task lists, and archiving",
       "version" : "10.48.5,3769,4b156c4353",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18587,7 +18587,7 @@
       },
       "subtitle" : "Cloud storage service",
       "version" : "4.15.0",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19878,7 +19878,7 @@
       },
       "subtitle" : "Grammarly for desktop",
       "version" : "1.15.1.0",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20566,7 +20566,7 @@
       },
       "subtitle" : "Chromium based browser",
       "version" : "0.76.0,35707",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21284,7 +21284,7 @@
       },
       "subtitle" : "Client for NICE DCV remote display protocol",
       "version" : "2022.2.4653",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21742,7 +21742,7 @@
       },
       "subtitle" : "Official desktop client for Rocket.Chat",
       "version" : "3.8.13",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21874,7 +21874,7 @@
       },
       "subtitle" : "Cloud native persistent desktop virtualization",
       "version" : "5.4.0.2613",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22060,7 +22060,7 @@
       },
       "subtitle" : "Download accelerator and organizer",
       "version" : "6.18.1",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22348,7 +22348,7 @@
       },
       "subtitle" : "App wrapper for Postgres",
       "version" : "2.5.12,10-11-12-13-14-15",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23445,7 +23445,7 @@
       },
       "subtitle" : "GUI tool and IDE for MongoDB",
       "version" : "7.1.16",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23649,7 +23649,7 @@
       },
       "subtitle" : "Monitors common persistence locations",
       "version" : "2.1.5",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23900,7 +23900,7 @@
       },
       "subtitle" : "Fork of Nylas Mail",
       "version" : "1.10.6",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23988,7 +23988,7 @@
       },
       "subtitle" : "Semantic code analysis engine",
       "version" : "2.11.3",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24127,7 +24127,7 @@
       },
       "subtitle" : "Open-source image processing package",
       "version" : "20221111-1317",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28095,7 +28095,7 @@
       },
       "subtitle" : "Developer experience toolkit used to check, test, merge, and monitor code",
       "version" : "1.2.3",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28887,7 +28887,7 @@
       },
       "subtitle" : "Design, document and deploy databases",
       "version" : "9.1.3",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29426,7 +29426,7 @@
       },
       "subtitle" : "UI wireframing tool",
       "version" : "4.6.3",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30095,7 +30095,7 @@
       },
       "subtitle" : "Framework used in the development of applications and games",
       "version" : "50.0.1.2",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30513,7 +30513,7 @@
       },
       "subtitle" : "All-In-One Toolkit for Working Remotely",
       "version" : "3,2.3.6",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31097,7 +31097,7 @@
       },
       "subtitle" : "Email client",
       "version" : "13.0.14",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31448,7 +31448,7 @@
       },
       "subtitle" : "Video-encoding and transcoding app",
       "version" : "3.2.6",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32916,7 +32916,7 @@
       },
       "subtitle" : "Capture and access information from anywhere",
       "version" : "0.40.1",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35328,7 +35328,7 @@
       },
       "subtitle" : "Read, annotate, edit, convert, create, OCR, fill forms and sign PDFs",
       "version" : "2.8.19.1",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35357,7 +35357,7 @@
       },
       "subtitle" : "Collection of small computer programs which implement one-player puzzle games",
       "version" : "20221111.22c4cad",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35441,7 +35441,7 @@
       },
       "subtitle" : "Platform for API documentation, debugging, Mock and testing",
       "version" : "7.0.6",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35610,7 +35610,7 @@
       },
       "subtitle" : "Email client",
       "version" : "9.2.1222",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36356,7 +36356,7 @@
       },
       "subtitle" : "Design animated and interactive user interfaces",
       "version" : "6.24,6029",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36616,7 +36616,7 @@
       },
       "subtitle" : "GPS log file viewer and analyzer",
       "version" : "11.8",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37301,7 +37301,7 @@
       },
       "subtitle" : "Collaborative presentation software",
       "version" : "1.100.0,stable.4,4872806",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -38339,7 +38339,7 @@
       },
       "subtitle" : "Tool to scan a website checking for broken links",
       "version" : "12.5.2",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39985,7 +39985,7 @@
       },
       "subtitle" : "Official client for LBRY, a decentralised file-sharing and payment network",
       "version" : "0.53.7",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40013,7 +40013,7 @@
       },
       "subtitle" : "Korean e-book store",
       "version" : "2.45.3",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -40659,7 +40659,7 @@
       },
       "subtitle" : "Data Modeling for NoSQL databases, storage formats, REST APIs, and JSON in RDBMS",
       "version" : "6.6.3",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -42531,7 +42531,7 @@
       },
       "subtitle" : "Private rolodex to remember people better",
       "version" : "2.1.13",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48855,7 +48855,7 @@
       },
       "subtitle" : "Peer-to-peer VPN",
       "version" : "2.77,1.204.171",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -50262,7 +50262,7 @@
       },
       "subtitle" : "Action center for developers",
       "version" : "2.39.3",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53488,7 +53488,7 @@
       },
       "subtitle" : "Online collaborate editor for Word, Excel and PPT documents",
       "version" : "3.7.9,1001",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -53702,7 +53702,7 @@
       },
       "subtitle" : "Software used to make Minecraft Java Edition mods",
       "version" : "2022.3.46416",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54613,7 +54613,7 @@
       },
       "subtitle" : "Update your auras from Wago.io and creates regular backups of them",
       "version" : "4.1.0",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54631,7 +54631,7 @@
       },
       "subtitle" : "Asynchronous video messaging app",
       "version" : "1.1.9",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56799,7 +56799,7 @@
       },
       "subtitle" : "Connect to OpenBCI hardware, visualize and stream physiological data",
       "version" : "5.1.0,2022-11-11_20-28-35",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -57376,7 +57376,7 @@
       },
       "subtitle" : "Tool to interact with the Tidelift system",
       "version" : "1.12.13",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59485,7 +59485,7 @@
       },
       "subtitle" : "Digital Asset Management",
       "version" : "7.4.2.4629",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60126,7 +60126,7 @@
       },
       "subtitle" : "Make a book with this tool and the Blurb printing service",
       "version" : "2.5.1",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61690,7 +61690,7 @@
       },
       "subtitle" : "Cross-platform plugin validator and tester application",
       "version" : "1.0.2",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -61852,7 +61852,7 @@
       },
       "subtitle" : "PlayStation 2 emulator",
       "version" : "2022-11-11,ad3b855c",
-      "versionDate" : "2022-11-12T02:14:33Z"
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,

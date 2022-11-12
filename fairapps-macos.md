@@ -23,7 +23,7 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `758` | `2022-10-20T00:00:00Z` | `12 MB` | `430` | `57` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `758` | `2022-10-20T00:00:00Z` | `12 MB` | `431` | `57` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `214` | `2022-09-26T00:00:00Z` | `2.4 MB` | `1014` | `100` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `194` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1261` | `97` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `102` | `2022-09-20T00:00:00Z` | `3.2 MB` | `464` | `31` | `0` | `0` |  |

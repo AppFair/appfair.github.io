@@ -1536,7 +1536,7 @@ tr:nth-child(even) {
 | [``betterdummy``](https://github.com/waydabber/BetterDummy) | ``1.1.24`` | `70` |  |  |  |  |  | `0` |  |
 | [``ClipGrab``](https://clipgrab.org/) | ``3.9.7,1010`` | `70` |  |  |  |  |  | `0` |  |
 | [``Koodo Reader``](https://koodo.960960.xyz/) | ``1.4.9`` | `70` |  |  |  |  |  | `0` |  |
-| [``NightOwl``](https://nightowl.kramser.xyz/) | ``0.3.0`` | `70` |  |  |  |  |  | `0` |  |
+| [``NightOwl``](https://nightowlapp.co/) | ``0.3.2,16`` | `70` | `2022-11-12T06:37:02Z` |  |  |  |  | `0` |  |
 | [``A Better Finder Rename``](https://www.publicspace.net/ABetterFinderRename/) | ``11.53`` | `69` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``blobsaver``](https://github.com/airsquared/blobsaver) | ``3.3.0`` | `69` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Clockify``](https://clockify.me/mac-time-tracking) | ``2.8.2,444`` | `69` |  |  |  |  |  | `0` |  |
@@ -1659,7 +1659,7 @@ tr:nth-child(even) {
 | [``MachOView``](https://sourceforge.net/projects/machoview/) | ``2.4.9200`` | `53` |  |  |  |  |  | `0` |  |
 | [``Monodraw``](https://monodraw.helftone.com/) | ``1.6.1,111`` | `53` |  |  |  |  |  | `0` |  |
 | [``NordPass``](https://nordpass.com/) | ``4.33.9`` | `53` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Sidekick``](https://www.meetsidekick.com/) | ``104.30.1.25571,90580da`` | `53` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Sidekick``](https://www.meetsidekick.com/) | ``1.0.68`` | `53` | `2022-11-12T06:37:02Z` |  |  |  |  | `0` |  |
 | [``DatWeatherDoe``](https://github.com/inderdhir/DatWeatherDoe) | ``3.0.4`` | `52` |  |  |  |  |  | `0` |  |
 | [``dmenu-mac``](https://github.com/oNaiPs/dmenu-mac) | ``0.7.2`` | `52` |  |  |  |  |  | `0` |  |
 | [``fman``](https://fman.io/) | ``1.7.3`` | `52` |  |  |  |  |  | `0` |  |
@@ -4124,7 +4124,6 @@ tr:nth-child(even) {
 | [``Rowmote Helper``](https://regularrateandrhythm.com/apps/rowmote-pro/) | ``4.2.5`` | `0` |  |  |  |  |  | `0` |  |
 | [``Shortcutor``](https://shortcutor.com/) | ``2021.1.4`` | `0` |  |  |  |  |  | `0` |  |
 | [``Shupapan``](http://sunsky3s.s41.xrea.com/shupapan/) | ``5.9.8.0`` | `0` |  |  |  |  |  | `0` |  |
-| [``Slingplayer Desktop``](https://www.slingbox.com/) | ``5.0.92`` | `0` |  |  |  |  |  | `0` |  |
 | [``Sonic 3 A.I.R.``](https://sonic3air.org/) | ``22.09.10.0`` | `0` |  |  |  |  |  | `0` |  |
 | [``Spatial``](https://documentation.improbable.io/spatialos-overview/docs) | ``latest`` | `0` |  |  |  |  |  | `0` |  |
 | [``Starleaf``](https://www.starleaf.com/) | ``1.0`` | `0` |  |  |  |  |  | `0` |  |

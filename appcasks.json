@@ -26110,15 +26110,16 @@
     {
       "beta" : false,
       "bundleIdentifier" : "nightowl",
-      "downloadURL" : "https://nightowl.kramser.xyz/files/NightOwl.dmg",
-      "homepage" : "https://nightowl.kramser.xyz/",
+      "downloadURL" : "https://nightowlapp.co/files/NightOwl.dmg",
+      "homepage" : "https://nightowlapp.co/",
       "localizedDescription" : "Utility to toggle dark mode",
       "name" : "NightOwl",
       "stats" : {
         "downloadCount" : 70
       },
       "subtitle" : "Utility to toggle dark mode",
-      "version" : "0.3.0"
+      "version" : "0.3.2,16",
+      "versionDate" : "2022-11-12T06:37:02Z"
     },
     {
       "beta" : false,
@@ -27837,17 +27838,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "pushplaylabs-sidekick",
-      "downloadURL" : "https://fast-cdn.meetsidekick.com/builds/sidekick-mac-release-x64-104.30.1.25571-90580da-df.dmg",
+      "downloadURL" : "https://fast-cdn.meetsidekick.com/builds/sidekick-mac-installer-1.0.68.pkg",
       "homepage" : "https://www.meetsidekick.com/",
       "localizedDescription" : "Browser designed for modern work",
       "name" : "Sidekick",
-      "sha256" : "81127b87f19506356070f7a17fb6aeeed8920cfe1670a7e6b4ea00bec3e57967",
+      "sha256" : "5ba0c905bbd9676c2fa712b4a0143af600c8339d4d296e8a2454df14c3109978",
       "stats" : {
         "downloadCount" : 53
       },
       "subtitle" : "Browser designed for modern work",
-      "version" : "104.30.1.25571,90580da",
-      "versionDate" : "2022-10-29T00:00:00Z"
+      "version" : "1.0.68",
+      "versionDate" : "2022-11-12T06:37:02Z"
     },
     {
       "beta" : false,
@@ -62058,20 +62059,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "slingplayer",
-      "downloadURL" : "http://download.slingmedia.com/SlingplayerDesktop/Mac/5.0.92/SlingplayerDesktop-5.0.92.dmg",
-      "homepage" : "https://www.slingbox.com/",
-      "localizedDescription" : "Desktop application for Sling products",
-      "name" : "Slingplayer Desktop",
-      "sha256" : "8abd54ef4525ed31b6da7622ed3198d7963b32ce4f7966fbbd267f43f99f8e39",
-      "stats" : {
-        "downloadCount" : 0
-      },
-      "subtitle" : "Desktop application for Sling products",
-      "version" : "5.0.92"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sonic3air",
       "downloadURL" : "https://projects.sappharad.com/s3air_mac/sonic3air_mac_220910.dmg",
       "homepage" : "https://sonic3air.org/",
@@ -62320,20 +62307,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "listen1",
-      "caption" : "Listen 1 updated from 2.26.2 to 2.27.0",
-      "date" : "2022-11-10T21:31:17Z",
-      "identifier" : "release-listen1-2.27.0",
-      "title" : "New Release: Listen 1 2.27.0"
-    },
-    {
-      "appID" : "centered",
-      "caption" : "Centered updated from 5.3.0 to 5.4.0",
-      "date" : "2022-11-10T21:31:18Z",
-      "identifier" : "release-centered-5.4.0",
-      "title" : "New Release: Centered 5.4.0"
-    },
     {
       "appID" : "pokerstars",
       "caption" : "PokerStars updated from 54.527 to 54.939",
@@ -63019,6 +62992,20 @@
       "date" : "2022-11-12T02:14:45Z",
       "identifier" : "release-purei-play-2022-11-11,ad3b855c",
       "title" : "New Release: Play! 2022-11-11,ad3b855c"
+    },
+    {
+      "appID" : "nightowl",
+      "caption" : "NightOwl updated from 0.3.0 to 0.3.2,16",
+      "date" : "2022-11-12T06:37:03Z",
+      "identifier" : "release-nightowl-0.3.2,16",
+      "title" : "New Release: NightOwl 0.3.2,16"
+    },
+    {
+      "appID" : "pushplaylabs-sidekick",
+      "caption" : "Sidekick updated from 104.30.1.25571,90580da to 1.0.68",
+      "date" : "2022-11-12T06:37:03Z",
+      "identifier" : "release-pushplaylabs-sidekick-1.0.68",
+      "title" : "New Release: Sidekick 1.0.68"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

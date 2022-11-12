@@ -25,7 +25,7 @@
       "sha256" : "0553aaeb6b4be00b5b1aba0efddbb3c7f5b6a61f8da80868ff93206f664e5147",
       "stats" : {
         "downloadCount" : 2265,
-        "impressionCount" : 11702,
+        "impressionCount" : 11703,
         "viewCount" : 1325
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -58,7 +58,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8588,
-        "impressionCount" : 9239,
+        "impressionCount" : 9241,
         "viewCount" : 787
       },
       "subtitle" : "Multimedia player",
@@ -83,7 +83,7 @@
       ],
       "stats" : {
         "downloadCount" : 8491,
-        "impressionCount" : 9763,
+        "impressionCount" : 9764,
         "viewCount" : 724
       },
       "subtitle" : "Music streaming service",
@@ -112,7 +112,7 @@
       "sha256" : "f7cc7fb04d13f8a0adf9e41be58d07d2517f125e3b883629a344b5e11354d553",
       "stats" : {
         "downloadCount" : 3809,
-        "impressionCount" : 10151,
+        "impressionCount" : 10152,
         "viewCount" : 661
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -140,7 +140,7 @@
       ],
       "stats" : {
         "downloadCount" : 2680,
-        "impressionCount" : 7896,
+        "impressionCount" : 7897,
         "viewCount" : 479
       },
       "subtitle" : "Video game digital distribution service",
@@ -170,7 +170,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 252,
-        "impressionCount" : 6221,
+        "impressionCount" : 6222,
         "viewCount" : 496
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -196,7 +196,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 206,
-        "impressionCount" : 5375,
+        "impressionCount" : 5376,
         "viewCount" : 386
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -223,7 +223,7 @@
       "sha256" : "da2692e0b7d486e16288f4a36d68840239af7aec8cd1e0bcd2c7034c59c0c4e0",
       "stats" : {
         "downloadCount" : 119,
-        "impressionCount" : 4442,
+        "impressionCount" : 4443,
         "viewCount" : 376
       },
       "subtitle" : "File synchronizer",
@@ -254,7 +254,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4502,
+        "impressionCount" : 4503,
         "viewCount" : 353
       },
       "subtitle" : "Create DMGs and other archives",
@@ -486,7 +486,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1667,
-        "impressionCount" : 3880
+        "impressionCount" : 3881
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -523,7 +523,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1615,
-        "impressionCount" : 4042
+        "impressionCount" : 4043
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -755,7 +755,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 4391
+        "impressionCount" : 4392
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -908,7 +908,7 @@
       "sha256" : "b28d5e790ffb3efe09044d6b1438185889c89cbc02eb179f37f96fd72903441a",
       "stats" : {
         "downloadCount" : 2580,
-        "impressionCount" : 2616
+        "impressionCount" : 2617
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -1029,7 +1029,7 @@
       "sha256" : "a9d295c5646064813f267aed9bf4b1278fbd93ac5bc26f141784172202dc0b95",
       "stats" : {
         "downloadCount" : 885,
-        "impressionCount" : 1309
+        "impressionCount" : 1310
       },
       "subtitle" : "Terminal emulator, SSH and serial client",
       "tintColor" : "11364B",
@@ -1108,7 +1108,7 @@
       "name" : "WeChat for Mac",
       "stats" : {
         "downloadCount" : 774,
-        "impressionCount" : 1053
+        "impressionCount" : 1054
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
@@ -1252,7 +1252,7 @@
       "sha256" : "d25db7744f85566893ee800208fd1abcb25c4b8bb703689ff41c40b6b4c2209d",
       "stats" : {
         "downloadCount" : 501,
-        "impressionCount" : 1517
+        "impressionCount" : 1518
       },
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
@@ -1374,7 +1374,7 @@
       "sha256" : "ac43c354f4fc9a0b733be80f296844bc7af2caa6bd85139262ed9ba4ebf54c6d",
       "stats" : {
         "downloadCount" : 384,
-        "impressionCount" : 844
+        "impressionCount" : 845
       },
       "subtitle" : "Real time file synchronization software",
       "tintColor" : "48B0DA",
@@ -1456,7 +1456,7 @@
       "sha256" : "a9f481824a6d76c5a53a4443aac57f1fc2f091055742842defd81ed3b5f15d78",
       "stats" : {
         "downloadCount" : 319,
-        "impressionCount" : 831
+        "impressionCount" : 832
       },
       "subtitle" : "GUI for the Neovim text editor",
       "tintColor" : "55A349",
@@ -1595,7 +1595,7 @@
       "sha256" : "c8f5b516ba11590b269852f074a070ac6fb87662345fe390f4a66dd1a6e4faf2",
       "stats" : {
         "downloadCount" : 222,
-        "impressionCount" : 600
+        "impressionCount" : 601
       },
       "subtitle" : "Utility to hide the notch",
       "tintColor" : "9434BE",
@@ -1635,7 +1635,7 @@
       "sha256" : "03f769576fcf575eb6f96fb645a22e399c2daff9ff4d60b3126453a884f8b2a8",
       "stats" : {
         "downloadCount" : 214,
-        "impressionCount" : 897
+        "impressionCount" : 898
       },
       "subtitle" : "To-do & task list manager",
       "tintColor" : "E8E9F0",
@@ -1656,7 +1656,7 @@
       "sha256" : "7565d0c2f8cd4c7aeefc4fd4e623053fb224d33db34cb1bc57f616d1f5c021f4",
       "stats" : {
         "downloadCount" : 211,
-        "impressionCount" : 1817
+        "impressionCount" : 1818
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -1799,7 +1799,7 @@
       "sha256" : "f2515c6b361a42a3f0a8fff53257e20f6c6224015c9fe80a9ff2fe22ef7ff15a",
       "stats" : {
         "downloadCount" : 171,
-        "impressionCount" : 1129
+        "impressionCount" : 1130
       },
       "subtitle" : "Charting and social-networking for investment traders",
       "tintColor" : "3E414A",
@@ -4725,7 +4725,7 @@
       "sha256" : "6e40562a2034b109bfc15fcb7b107d132396f420fe39abed49cc32338489ec29",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 233
+        "impressionCount" : 234
       },
       "subtitle" : "Shows a files cryptographic signing information",
       "tintColor" : "3F4A65",
@@ -11420,7 +11420,7 @@
       "sha256" : "3884fd991cf9aebc52307e19eb1a52dcf63af4a7ee017a8ca628bb922d2e9f27",
       "stats" : {
         "downloadCount" : 215,
-        "impressionCount" : 75
+        "impressionCount" : 76
       },
       "subtitle" : "Snip or pin screenshots",
       "tintColor" : "AD9760",
@@ -13194,7 +13194,7 @@
       "sha256" : "55e4550ced3f1bed413e15229e813443019f335f546b1edd41418744eee8e325",
       "stats" : {
         "downloadCount" : 18,
-        "impressionCount" : 80
+        "impressionCount" : 81
       },
       "subtitle" : "Utility for producing audio feedback when typing",
       "tintColor" : "6EB6A5",
@@ -17599,17 +17599,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "ghidra",
-      "downloadURL" : "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_10.2_build/ghidra_10.2_PUBLIC_20221101.zip",
+      "downloadURL" : "https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_10.2.1_build/ghidra_10.2.1_PUBLIC_20221110.zip",
       "homepage" : "https://www.ghidra-sre.org/",
       "localizedDescription" : "Software reverse engineering (SRE) suite of tools",
       "name" : "Ghidra",
-      "sha256" : "a5163f50bd6ce725c4c8638f7505b64bb603ea6bfe3f7d9ed4e403236716f787",
+      "sha256" : "f683cfbb583641d27f9dca3c1a59b4172ecd10155d8771bbb28a2e0eaa7c80bb",
       "stats" : {
         "downloadCount" : 756
       },
       "subtitle" : "Software reverse engineering (SRE) suite of tools",
-      "version" : "10.2,20221101",
-      "versionDate" : "2022-11-03T00:00:00Z"
+      "version" : "10.2.1,20221110",
+      "versionDate" : "2022-11-12T11:27:24Z"
     },
     {
       "beta" : false,
@@ -62310,13 +62310,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "blockbench",
-      "caption" : "Blockbench updated from 4.4.3 to 4.5.0",
-      "date" : "2022-11-10T21:31:19Z",
-      "identifier" : "release-blockbench-4.5.0",
-      "title" : "New Release: Blockbench 4.5.0"
-    },
-    {
       "appID" : "monal",
       "caption" : "Monal updated from 822 to 829",
       "date" : "2022-11-10T21:31:19Z",
@@ -63008,6 +63001,13 @@
       "date" : "2022-11-12T08:38:11Z",
       "identifier" : "release-netron-6.1.7",
       "title" : "New Release: Netron 6.1.7"
+    },
+    {
+      "appID" : "ghidra",
+      "caption" : "Ghidra updated from 10.2,20221101 to 10.2.1,20221110",
+      "date" : "2022-11-12T11:27:25Z",
+      "identifier" : "release-ghidra-10.2.1,20221110",
+      "title" : "New Release: Ghidra 10.2.1,20221110"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

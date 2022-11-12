@@ -799,7 +799,7 @@ tr:nth-child(even) {
 | [``ChromeDriver``](https://sites.google.com/chromium.org/driver/) | ``107.0.5304.62`` | `8948` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Rectangle``](https://rectangleapp.com/) | ``0.61,67`` | `8710` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``DBeaver Community Editio``](https://dbeaver.io/) | ``22.2.4`` | `8408` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
-| [``fig``](https://fig.io/) | ``2.7.7`` | `7342` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
+| [``fig``](https://fig.io/) | ``2.7.8`` | `7342` | `2022-11-12T07:30:06Z` |  |  |  |  | `0` |  |
 | [``Chromium``](https://www.chromium.org/Home) | ``latest`` | `6661` |  |  |  |  |  | `0` |  |
 | [``macFUSE``](https://osxfuse.github.io/) | ``4.4.1`` | `6589` |  |  |  |  |  | `0` |  |
 | [``Warp``](https://www.warp.dev/) | ``0.2022.11.08.08.07.stabl…`` | `6314` | `2022-11-12T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1536,7 +1536,7 @@ tr:nth-child(even) {
 | [``betterdummy``](https://github.com/waydabber/BetterDummy) | ``1.1.24`` | `70` |  |  |  |  |  | `0` |  |
 | [``ClipGrab``](https://clipgrab.org/) | ``3.9.7,1010`` | `70` |  |  |  |  |  | `0` |  |
 | [``Koodo Reader``](https://koodo.960960.xyz/) | ``1.4.9`` | `70` |  |  |  |  |  | `0` |  |
-| [``NightOwl``](https://nightowlapp.co/) | ``0.3.2,16`` | `70` | `2022-11-12T06:37:02Z` |  |  |  |  | `0` |  |
+| [``NightOwl``](https://nightowlapp.co/) | ``0.3.2,16`` | `70` | `2022-11-12T00:00:00Z` |  |  |  |  | `0` |  |
 | [``A Better Finder Rename``](https://www.publicspace.net/ABetterFinderRename/) | ``11.53`` | `69` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``blobsaver``](https://github.com/airsquared/blobsaver) | ``3.3.0`` | `69` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Clockify``](https://clockify.me/mac-time-tracking) | ``2.8.2,444`` | `69` |  |  |  |  |  | `0` |  |
@@ -1659,7 +1659,7 @@ tr:nth-child(even) {
 | [``MachOView``](https://sourceforge.net/projects/machoview/) | ``2.4.9200`` | `53` |  |  |  |  |  | `0` |  |
 | [``Monodraw``](https://monodraw.helftone.com/) | ``1.6.1,111`` | `53` |  |  |  |  |  | `0` |  |
 | [``NordPass``](https://nordpass.com/) | ``4.33.9`` | `53` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Sidekick``](https://www.meetsidekick.com/) | ``1.0.68`` | `53` | `2022-11-12T06:37:02Z` |  |  |  |  | `0` |  |
+| [``Sidekick``](https://www.meetsidekick.com/) | ``1.0.68`` | `53` | `2022-11-12T00:00:00Z` |  |  |  |  | `0` |  |
 | [``DatWeatherDoe``](https://github.com/inderdhir/DatWeatherDoe) | ``3.0.4`` | `52` |  |  |  |  |  | `0` |  |
 | [``dmenu-mac``](https://github.com/oNaiPs/dmenu-mac) | ``0.7.2`` | `52` |  |  |  |  |  | `0` |  |
 | [``fman``](https://fman.io/) | ``1.7.3`` | `52` |  |  |  |  |  | `0` |  |
@@ -3970,7 +3970,7 @@ tr:nth-child(even) {
 | [``Alva``](https://meetalva.io/) | ``0.9.1`` | `0` |  |  |  |  |  | `0` |  |
 | [``Anka Build Cloud Control…``](https://veertu.com/) | ``1.29.0-49077f79`` | `0` |  |  |  |  |  | `0` |  |
 | [``APK Icon Editor``](https://kefir500.github.io/apk-icon-editor/) | ``2.2.0`` | `0` |  |  |  |  |  | `0` |  |
-| [``Assinador Serpro``](https://www.serpro.gov.br/links-fixos-superiores/assinador-digital/assinador-serpro) | ``4.0.0`` | `0` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Assinador Serpro``](https://www.serpro.gov.br/links-fixos-superiores/assinador-digital/assinador-serpro) | ``4.0.2`` | `0` | `2022-11-12T07:30:06Z` |  |  |  |  | `0` |  |
 | [``AutoMute``](https://github.com/Lorenzo45/AutoMute) | ``1.1`` | `0` |  |  |  |  |  | `0` |  |
 | [``AWIPS Python``](https://www.unidata.ucar.edu/software/awips2/) | ``latest`` | `0` |  |  |  |  |  | `0` |  |
 | [``beaTunes``](https://www.beatunes.com/) | ``5.2.30`` | `0` |  |  |  |  |  | `0` |  |

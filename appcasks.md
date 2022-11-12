@@ -42,7 +42,7 @@ tr:nth-child(even) {
 | [``Tor Browser``](https://www.torproject.org/) | ``11.5.7`` | `2317` | `2022-11-04T00:00:00Z` |  | `3805` | `181` |  | `0` | `public.app-category.productivity` |
 | [``Skype``](https://www.skype.com/) | ``8.90.0.407`` | `2134` | `2022-11-09T00:00:00Z` |  | `2279` | `67` |  | `0` | `public.app-category.social-networking` |
 | [``Xcodes``](https://github.com/RobotsAndPencils/XcodesApp) | ``1.8.0,16`` | `1667` |  |  | `3884` |  |  | `0` | `public.app-category.developer-tools` |
-| [``Transmission``](https://transmissionbt.com/) | ``3.00`` | `1615` |  |  | `4047` |  |  | `0` | `public.app-category.utilities` |
+| [``Transmission``](https://transmissionbt.com/) | ``3.00`` | `1615` |  |  | `4048` |  |  | `0` | `public.app-category.utilities` |
 | [``Mozilla Thunderbird``](https://www.thunderbird.net/) | ``102.4.2`` | `1411` | `2022-11-04T00:00:00Z` |  | `2789` | `131` |  | `0` | `public.app-category.productivity` |
 | [``TablePlus``](https://tableplus.com/) | ``5.1.0,468`` | `1382` | `2022-10-28T00:00:00Z` |  | `3321` | `195` |  | `0` | `public.app-category.developer-tools` |
 | [``Spectacle``](https://www.spectacleapp.com/) | ``1.2,672`` | `1038` |  |  | `2555` | `128` |  | `0` | `public.app-category.utilities` |

@@ -276,7 +276,7 @@
       "sha256" : "3dda93337f730db11d413e45356a66ebe3b65a381986017fadcbf6459a568f65",
       "stats" : {
         "downloadCount" : 8399,
-        "impressionCount" : 3993,
+        "impressionCount" : 3994,
         "viewCount" : 279
       },
       "subtitle" : "Team communication and collaboration software",
@@ -908,7 +908,7 @@
       "sha256" : "b28d5e790ffb3efe09044d6b1438185889c89cbc02eb179f37f96fd72903441a",
       "stats" : {
         "downloadCount" : 2580,
-        "impressionCount" : 2617
+        "impressionCount" : 2618
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -1656,7 +1656,7 @@
       "sha256" : "7565d0c2f8cd4c7aeefc4fd4e623053fb224d33db34cb1bc57f616d1f5c021f4",
       "stats" : {
         "downloadCount" : 211,
-        "impressionCount" : 1818
+        "impressionCount" : 1820
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -1799,7 +1799,7 @@
       "sha256" : "f2515c6b361a42a3f0a8fff53257e20f6c6224015c9fe80a9ff2fe22ef7ff15a",
       "stats" : {
         "downloadCount" : 171,
-        "impressionCount" : 1130
+        "impressionCount" : 1132
       },
       "subtitle" : "Charting and social-networking for investment traders",
       "tintColor" : "3E414A",
@@ -2323,7 +2323,7 @@
       "sha256" : "0959819d66810e092f9d5021536841cb04d7872f5737f2621dc1242ffc5340ea",
       "stats" : {
         "downloadCount" : 103,
-        "impressionCount" : 1587
+        "impressionCount" : 1589
       },
       "subtitle" : "Messaging and calling application",
       "tintColor" : "E4F0F7",
@@ -2484,7 +2484,7 @@
       "sha256" : "04b0b8080e904ed3d17b8e6526ad5e4342befa966866e7fb347d33e0e122039a",
       "stats" : {
         "downloadCount" : 89,
-        "impressionCount" : 1233
+        "impressionCount" : 1234
       },
       "subtitle" : "Handwriting notetaking software",
       "tintColor" : "E5D8CE",
@@ -3399,7 +3399,7 @@
       "sha256" : "599b9e2fe8079bb4bc504aae2597c8f04e651c85e2eb7eb2af8aa90d30ee4781",
       "stats" : {
         "downloadCount" : 49,
-        "impressionCount" : 1197
+        "impressionCount" : 1198
       },
       "subtitle" : "PVR for Usenet and BitTorrent users",
       "tintColor" : "9FB6C0",
@@ -3481,7 +3481,7 @@
       "sha256" : "0032867c2eb6885e1e1f3e24fe24f37fc5a12c3e995825f8eea5630eb8052860",
       "stats" : {
         "downloadCount" : 47,
-        "impressionCount" : 807
+        "impressionCount" : 809
       },
       "subtitle" : "Programs interactive stories, games, and animations",
       "tintColor" : "FBBA4B",
@@ -3823,7 +3823,7 @@
       "sha256" : "a0c0fde038d7a39a22eb4951247ec0a85f4d7c2b87a8bacda9c97e04f54a8593",
       "stats" : {
         "downloadCount" : 39,
-        "impressionCount" : 948
+        "impressionCount" : 950
       },
       "subtitle" : "Tencent cloud gaming platform",
       "tintColor" : "051C20",
@@ -4105,7 +4105,7 @@
       "name" : "ShareMouse",
       "stats" : {
         "downloadCount" : 33,
-        "impressionCount" : 917
+        "impressionCount" : 918
       },
       "subtitle" : "Share peripherals between computers",
       "tintColor" : "CFCFCF",
@@ -4303,7 +4303,7 @@
       "name" : "TOPCAT",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 724
+        "impressionCount" : 725
       },
       "subtitle" : "Interactive graphical viewer and editor for tabular data",
       "tintColor" : "9C9C07",
@@ -4484,7 +4484,7 @@
       "sha256" : "8a081a719d668c41a2cc63ed7e363c0dcecb12b1ce3c68fe123cbcde136d28a0",
       "stats" : {
         "downloadCount" : 27,
-        "impressionCount" : 408
+        "impressionCount" : 410
       },
       "subtitle" : "Screen savers",
       "tintColor" : "9F6467",
@@ -4765,7 +4765,7 @@
       "sha256" : "3fc8ee143bdb708221963ab4fd51905b057bae6fc1ef2342297c95057d706302",
       "stats" : {
         "downloadCount" : 25,
-        "impressionCount" : 1015
+        "impressionCount" : 1017
       },
       "subtitle" : "Media server supporting DLNA, UPnP and HTTP(S)",
       "tintColor" : "71B2CE",
@@ -4846,7 +4846,7 @@
       "sha256" : "869635a5256e7420d704967854c3ad8b51d740f24bba334c5a41f6932191d386",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 587
+        "impressionCount" : 589
       },
       "subtitle" : "Cycle-accurate C64 emulator",
       "tintColor" : "948274",
@@ -5293,7 +5293,7 @@
       "sha256" : "bc52022828df3a818be10d3750e9ba424b01c87484574286b7f386ad027cb734",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 712
+        "impressionCount" : 714
       },
       "subtitle" : "Chinese video streaming and sharing platform",
       "tintColor" : "E4D2E7",
@@ -5831,7 +5831,7 @@
       "name" : "Nektony VSD Viewer",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 935
+        "impressionCount" : 936
       },
       "subtitle" : "Preview .VSD, .VDX, .VSDX file formats of Visio drawings",
       "tintColor" : "86A2C9",
@@ -6187,7 +6187,7 @@
       "sha256" : "3dbe512d4e6dbb25c010917088bf23e868a5695089068098d70379a3f368be2e",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 649
+        "impressionCount" : 650
       },
       "subtitle" : "Connectivity software for the TI-84 Plus family of graphing calculators",
       "tintColor" : "6EAB8C",
@@ -6701,7 +6701,7 @@
       "sha256" : "d0401d7b8b34a2f75f289c41e71515ff2581c993ef4df9e1084f427352db11ca",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 940
+        "impressionCount" : 942
       },
       "subtitle" : "Open-source, non-custodial, privacy focused Bitcoin wallet",
       "tintColor" : "A8AD40",
@@ -6743,7 +6743,7 @@
       "sha256" : "4903b84be837dd7333c49933591aa52f1c13aca3d095b762ff4ceecdedfeaadb",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 703
+        "impressionCount" : 705
       },
       "subtitle" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "tintColor" : "CBA87F",
@@ -7276,7 +7276,7 @@
       "sha256" : "17fe52934f6e1eda80546f7a0045edc31e6555e47475cfda8c80bd6a8fdc619a",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 699
+        "impressionCount" : 700
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "3EA7BB",
@@ -7516,7 +7516,7 @@
       "sha256" : "86c0f5726d084ffa9abb6d60f9069f1e6c42cbe1aa04fcb2148f4b54ed96aa7d",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 813
+        "impressionCount" : 815
       },
       "subtitle" : "Free open-source cross-platform bioinformatics software",
       "tintColor" : "4C5F67",
@@ -7576,7 +7576,7 @@
       "sha256" : "c37926a9612e8a8360490b6b924b1a2922a4374377e428f24b985f45de66ad68",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 380
+        "impressionCount" : 382
       },
       "subtitle" : "Cryptocurrency wallet",
       "tintColor" : "262626",
@@ -7805,7 +7805,7 @@
       "sha256" : "e91c8d39840039393d73a682e14ed5115dfa6f66ac582aeee482597525704fe5",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 519
+        "impressionCount" : 520
       },
       "subtitle" : "Media player",
       "tintColor" : "F7CEB3",
@@ -7845,7 +7845,7 @@
       "sha256" : "9a159f8cd2e16cc4dd31cb3a0f4c30fee20f29cfc77514ac27099561b0893fbd",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 505
+        "impressionCount" : 507
       },
       "subtitle" : "Anime player and list manager",
       "tintColor" : "4A5367",
@@ -8415,7 +8415,7 @@
       "sha256" : "2b7f1c58cfb1ee48bf8c80d2dad1e8e6c676637a9ceb8c218592ae9c066fb6d0",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 568
+        "impressionCount" : 570
       },
       "subtitle" : "Trading platform",
       "tintColor" : "C3AB00",
@@ -8751,7 +8751,7 @@
       "sha256" : "165045e6170fd17a8ef77bd3d75318594dd687b5f51255e5c63c318ab9250cfd",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 616
+        "impressionCount" : 618
       },
       "subtitle" : "Client application for TimeCamp software - track time and change tasks",
       "tintColor" : "25CF60",
@@ -8791,7 +8791,7 @@
       "sha256" : "ece3ba839ecebc21a5e18cd621f97a6094dd3503fb769843994a806f5d1bbc86",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 778
+        "impressionCount" : 780
       },
       "subtitle" : "Helps to organize important files in one place",
       "tintColor" : "3D8BE4",
@@ -8811,7 +8811,7 @@
       "sha256" : "b901b9e64f386d0b2ac4fa3ae6ee1345e8c226acd178e27a311355fbb87450b3",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 868
+        "impressionCount" : 870
       },
       "subtitle" : "Messenger with powerful features for hybrid work",
       "tintColor" : "EDBBA4",
@@ -9374,7 +9374,7 @@
       "sha256" : "2ccab1a0f1dbaa1335d24d3dd4ee2887c947898f65cb3d7f6b452f8489f0bdee",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 579
+        "impressionCount" : 581
       },
       "subtitle" : "Offline viewer for the webcomic Homestuck",
       "tintColor" : "D1D1D1",
@@ -9878,7 +9878,7 @@
       "name" : "Nektony VSDX Annotator",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 782
+        "impressionCount" : 784
       },
       "subtitle" : "Preview, edit and convert Visio drawings",
       "tintColor" : "E396A0",
@@ -10639,7 +10639,7 @@
       "sha256" : "5dc93387bc6026dd44dbf2f88c9bf7730d931663d5b72f382c0a51bc6c57517b",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 640
+        "impressionCount" : 642
       },
       "subtitle" : "Drag and drop Spectacle editor",
       "tintColor" : "5A80C6",
@@ -26787,17 +26787,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "paper",
-      "downloadURL" : "https://s3.nsns.in/dl/paper-v5.1.6.dmg",
+      "downloadURL" : "https://s3.nsns.in/dl/paper-v5.1.7.dmg",
       "homepage" : "https://paper.photos/",
       "localizedDescription" : "Pap.er, 4K 5K HD Wallpaper Application",
       "name" : "pap.er",
-      "sha256" : "3ef16e7666f3261af8b1f38042ba347010210db3b65de2b6d75028c50b76e05a",
+      "sha256" : "b3ea8669e501f41c4a3f5cdfc326cacb3c70c2cd0b5258ac807bda5ed1930fd6",
       "stats" : {
         "downloadCount" : 62
       },
       "subtitle" : "Pap.er, 4K 5K HD Wallpaper Application",
-      "version" : "5.1.6",
-      "versionDate" : "2022-11-11T00:00:00Z"
+      "version" : "5.1.7",
+      "versionDate" : "2022-11-12T14:28:17Z"
     },
     {
       "beta" : false,
@@ -62520,13 +62520,6 @@
       "title" : "New Release: QOwnNotes 22.11.5"
     },
     {
-      "appID" : "paper",
-      "caption" : "pap.er updated from 5.1.5 to 5.1.6",
-      "date" : "2022-11-11T17:32:20Z",
-      "identifier" : "release-paper-5.1.6",
-      "title" : "New Release: pap.er 5.1.6"
-    },
-    {
       "appID" : "spotify",
       "caption" : "Spotify updated from 1.1.97.962,24733a46,812 to 1.1.98.691,f759311c,1417",
       "date" : "2022-11-11T18:41:31Z",
@@ -63008,6 +63001,13 @@
       "date" : "2022-11-12T11:27:25Z",
       "identifier" : "release-ghidra-10.2.1,20221110",
       "title" : "New Release: Ghidra 10.2.1,20221110"
+    },
+    {
+      "appID" : "paper",
+      "caption" : "pap.er updated from 5.1.6 to 5.1.7",
+      "date" : "2022-11-12T14:28:18Z",
+      "identifier" : "release-paper-5.1.7",
+      "title" : "New Release: pap.er 5.1.7"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -944,7 +944,7 @@ tr:nth-child(even) {
 | [``Microsoft Excel``](https://products.office.com/en-US/excel) | ``16.66.22101101`` | `760` |  |  |  |  |  | `0` |  |
 | [``Dash``](https://kapeli.com/dash) | ``6.4.0,1006`` | `758` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``QuickLook Video``](https://github.com/Marginal/QLVideo) | ``1.94`` | `757` |  |  |  |  |  | `0` |  |
-| [``Ghidra``](https://www.ghidra-sre.org/) | ``10.2.1,20221110`` | `756` | `2022-11-12T11:27:24Z` |  |  |  |  | `0` |  |
+| [``Ghidra``](https://www.ghidra-sre.org/) | ``10.2.1,20221110`` | `756` | `2022-11-12T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Metasploit Framework``](https://www.metasploit.com/) | ``6.2.27,20221111143441`` | `756` | `2022-11-12T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Authy Desktop``](https://authy.com/) | ``2.2.1`` | `753` |  |  |  |  |  | `0` |  |
 | [``Microsoft Word``](https://products.office.com/en-US/word) | ``16.66.22101101`` | `751` |  |  |  |  |  | `0` |  |

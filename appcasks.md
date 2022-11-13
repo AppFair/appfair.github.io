@@ -34,7 +34,7 @@ tr:nth-child(even) {
 | [``DropDMG``](https://c-command.com/dropdmg/) | ``3.6.5`` | `5` | `2022-10-18T00:00:00Z` |  | `4537` | `354` |  | `0` | `public.app-category.developer-tools` |
 | [``Slack``](https://slack.com/) | ``4.29.144`` | `8267` | `2022-10-28T00:00:00Z` |  | `4024` | `279` |  | `0` | `public.app-category.business` |
 | [``Sublime Text``](https://www.sublimetext.com/) | ``4143`` | `6219` | `2022-11-11T00:00:00Z` |  | `2859` | `145` |  | `0` | `public.app-category.productivity` |
-| [``Stats``](https://github.com/exelban/stats) | ``2.7.43`` | `5468` | `2022-11-13T17:31:13Z` |  | `6013` | `587` |  | `0` | `public.app-category.utilities` |
+| [``Stats``](https://github.com/exelban/stats) | ``2.7.43`` | `5468` | `2022-11-13T00:00:00Z` |  | `6013` | `587` |  | `0` | `public.app-category.utilities` |
 | [``Telegram for macOS``](https://macos.telegram.org/) | ``9.1.1,238861`` | `3216` | `2022-11-08T00:00:00Z` |  | `2871` | `218` |  | `0` | `public.app-category.social-networking` |
 | [``Wireshark``](https://www.wireshark.org/) | ``4.0.1`` | `3061` | `2022-10-28T00:00:00Z` |  | `2532` | `145` |  | `0` | `public.app-category.productivity` |
 | [``Sequel Ace``](https://github.com/Sequel-Ace/Sequel-Ace) | ``4.0.3,20042`` | `2558` | `2022-11-12T00:00:00Z` |  | `3862` | `171` |  | `0` | `public.app-category.developer-tools` |
@@ -941,7 +941,7 @@ tr:nth-child(even) {
 | [``MarkText``](https://github.com/marktext/marktext) | ``0.17.1`` | `820` |  |  |  |  |  | `0` |  |
 | [``ImageOptim``](https://imageoptim.com/mac) | ``1.8.8`` | `800` |  |  |  |  |  | `0` |  |
 | [``Mockoon``](https://mockoon.com/) | ``1.21.1`` | `789` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``QuickLook Video``](https://github.com/Marginal/QLVideo) | ``1.96`` | `757` | `2022-11-13T17:31:13Z` |  |  |  |  | `0` |  |
+| [``QuickLook Video``](https://github.com/Marginal/QLVideo) | ``1.96`` | `757` | `2022-11-13T00:00:00Z` |  |  |  |  | `0` |  |
 | [``NordVPN``](https://nordvpn.com/) | ``7.12.2,208`` | `751` | `2022-11-10T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Dash``](https://kapeli.com/dash) | ``6.4.0,1006`` | `748` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Authy Desktop``](https://authy.com/) | ``2.2.1`` | `744` |  |  |  |  |  | `0` |  |
@@ -2236,7 +2236,7 @@ tr:nth-child(even) {
 | [``Blockbench``](https://www.blockbench.net/) | ``4.5.1`` | `18` | `2022-11-13T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Bluefish``](http://bluefish.openoffice.nl/index.html) | ``2.2.12`` | `18` |  |  |  |  |  | `0` |  |
 | [``BusyContacts``](https://www.busymac.com/busycontacts/index.html) | ``2022.4.2,2022-10-29-03-3`` | `18` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
-| [``cakebrewjs``](https://sourceforge.net/projects/cakebrewjs) | ``1.3.8`` | `18` | `2022-11-13T17:31:13Z` |  |  |  |  | `0` |  |
+| [``cakebrewjs``](https://sourceforge.net/projects/cakebrewjs) | ``1.3.8`` | `18` | `2022-11-13T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Chai``](https://github.com/lvillani/chai) | ``3.2.0`` | `18` |  |  |  |  |  | `0` |  |
 | [``DiskMaker X``](https://diskmakerx.com/) | ``9.0`` | `18` |  |  |  |  |  | `0` |  |
 | [``Douyin``](https://www.douyin.com/) | ``1.5.1,704414558521708365…`` | `18` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |

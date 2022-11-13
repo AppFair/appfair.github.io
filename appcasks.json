@@ -328,7 +328,7 @@
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
       "version" : "2.7.43",
-      "versionDate" : "2022-11-13T17:31:13Z"
+      "versionDate" : "2022-11-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17567,7 +17567,7 @@
       },
       "subtitle" : "QuickLook generator for video files",
       "version" : "1.96",
-      "versionDate" : "2022-11-13T17:31:13Z"
+      "versionDate" : "2022-11-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35985,7 +35985,7 @@
       },
       "subtitle" : "Homebrew GUI app written in electron",
       "version" : "1.3.8",
-      "versionDate" : "2022-11-13T17:31:13Z"
+      "versionDate" : "2022-11-13T00:00:00Z"
     },
     {
       "beta" : false,

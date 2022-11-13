@@ -937,7 +937,7 @@ tr:nth-child(even) {
 | [``Parallels Desktop``](https://www.parallels.com/products/desktop/) | ``18.1.0-53311`` | `852` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``LibreOffice Language Pac``](https://www.libreoffice.org/) | ``7.4.2`` | `851` |  |  |  |  |  | `0` |  |
 | [``GraphQL Playground``](https://github.com/prisma/graphql-playground) | ``1.8.10`` | `845` |  |  |  |  |  | `0` |  |
-| [``Ungoogled Chromium``](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | ``107.0.5304.88-1.1,166703…`` | `829` | `2022-10-29T00:00:00Z` |  |  |  |  | `0` |  |
+| [``Ungoogled Chromium``](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) | ``107.0.5304.110-1.1,16682…`` | `829` | `2022-11-13T04:03:30Z` |  |  |  |  | `0` |  |
 | [``MarkText``](https://github.com/marktext/marktext) | ``0.17.1`` | `820` |  |  |  |  |  | `0` |  |
 | [``ImageOptim``](https://imageoptim.com/mac) | ``1.8.8`` | `800` |  |  |  |  |  | `0` |  |
 | [``Mockoon``](https://mockoon.com/) | ``1.21.1`` | `789` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |

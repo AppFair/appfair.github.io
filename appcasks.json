@@ -17499,17 +17499,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "eloston-chromium",
-      "downloadURL" : "https://github.com/kramred/ungoogled-chromium-macos/releases/download/107.0.5304.88-1.1_x86-64__1667030894/ungoogled-chromium_107.0.5304.88-1.1_x86-64-macos.dmg",
+      "downloadURL" : "https://github.com/kramred/ungoogled-chromium-macos/releases/download/107.0.5304.110-1.1_x86-64__1668258667/ungoogled-chromium_107.0.5304.110-1.1_x86-64-macos.dmg",
       "homepage" : "https://ungoogled-software.github.io/ungoogled-chromium-binaries/",
       "localizedDescription" : "Google Chromium, sans integration with Google",
       "name" : "Ungoogled Chromium",
-      "sha256" : "25ca9c6b74a41a22ed94880011e3b8cae9fcf9b5f6fa13ca8f5d6c1dd2fd9a0e",
+      "sha256" : "d0cf5f9d653199832702a1a004a8495d1238eef1c5fd2fa833fcd15f771f3d1e",
       "stats" : {
         "downloadCount" : 829
       },
       "subtitle" : "Google Chromium, sans integration with Google",
-      "version" : "107.0.5304.88-1.1,1667030894",
-      "versionDate" : "2022-10-29T00:00:00Z"
+      "version" : "107.0.5304.110-1.1,1668258667",
+      "versionDate" : "2022-11-13T04:03:30Z"
     },
     {
       "beta" : false,
@@ -62336,13 +62336,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "ludwig",
-      "caption" : "ludwig updated from 2.1.3 to 2.1.4",
-      "date" : "2022-11-10T21:31:20Z",
-      "identifier" : "release-ludwig-2.1.4",
-      "title" : "New Release: ludwig 2.1.4"
-    },
-    {
       "appID" : "fmail2",
       "caption" : "fmail2 updated from 1.3.2,33 to 1.3.3,34",
       "date" : "2022-11-10T21:31:20Z",
@@ -63034,6 +63027,13 @@
       "date" : "2022-11-12T23:32:02Z",
       "identifier" : "release-deskreen-2.0.4",
       "title" : "New Release: Deskreen 2.0.4"
+    },
+    {
+      "appID" : "eloston-chromium",
+      "caption" : "Ungoogled Chromium updated from 107.0.5304.88-1.1,1667030894 to 107.0.5304.110-1.1,1668258667",
+      "date" : "2022-11-13T04:03:31Z",
+      "identifier" : "release-eloston-chromium-107.0.5304.110-1.1,1668258667",
+      "title" : "New Release: Ungoogled Chromium 107.0.5304.110-1.1,1668258667"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -313,13 +313,13 @@
       "categories" : [
         "public.app-category.utilities"
       ],
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.42/Stats.dmg",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.43/Stats.dmg",
       "homepage" : "https://github.com/exelban/stats",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/AppIcon.png",
       "localizedDescription" : "System monitor for the menu bar",
       "name" : "Stats",
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "0e3a9215937ba45e1eb7452ae055fc0064090bfd983dd3f5ce3ecb174c26164e",
+      "sha256" : "45e10832da805efcc7db009ad75bb7541e60b3a4c159048b1a50cefe75a324ec",
       "stats" : {
         "downloadCount" : 5468,
         "impressionCount" : 6013,
@@ -327,8 +327,8 @@
       },
       "subtitle" : "System monitor for the menu bar",
       "tintColor" : "3A383C",
-      "version" : "2.7.42",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "2.7.43",
+      "versionDate" : "2022-11-13T17:31:13Z"
     },
     {
       "beta" : false,
@@ -17557,16 +17557,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "qlvideo",
-      "downloadURL" : "https://github.com/Marginal/QLVideo/releases/download/rel-194/QLVideo_194.pkg",
+      "downloadURL" : "https://github.com/Marginal/QLVideo/releases/download/rel-196/QLVideo_196.pkg",
       "homepage" : "https://github.com/Marginal/QLVideo",
       "localizedDescription" : "QuickLook generator for video files",
       "name" : "QuickLook Video",
-      "sha256" : "94db54232f82588b63da78194f407a0dbff690f36e3fc0e9fb4220398b16efa2",
+      "sha256" : "faf117900c1976f3861bb3d2b07d4409a219562f4f098362549baea5b8a3e456",
       "stats" : {
         "downloadCount" : 757
       },
       "subtitle" : "QuickLook generator for video files",
-      "version" : "1.94"
+      "version" : "1.96",
+      "versionDate" : "2022-11-13T17:31:13Z"
     },
     {
       "beta" : false,
@@ -35974,17 +35975,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "cakebrewjs",
-      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.3.6/cakebrewjs-1.3.6-mac.zip",
+      "downloadURL" : "https://downloads.sourceforge.net/cakebrewjs/v1.3.8/cakebrewjs-1.3.8-mac.zip",
       "homepage" : "https://sourceforge.net/projects/cakebrewjs",
       "localizedDescription" : "Homebrew GUI app written in electron",
       "name" : "cakebrewjs",
-      "sha256" : "e5386afe07a7fc775b002b3e599275d528a83e4d8d52664b2a73277090e94d9c",
+      "sha256" : "9832a6817c50c1499e57ad696811004ebfd3319bd87331bf14ab877e1cc4b578",
       "stats" : {
         "downloadCount" : 18
       },
       "subtitle" : "Homebrew GUI app written in electron",
-      "version" : "1.3.6",
-      "versionDate" : "2022-11-07T00:00:00Z"
+      "version" : "1.3.8",
+      "versionDate" : "2022-11-13T17:31:13Z"
     },
     {
       "beta" : false,
@@ -62328,27 +62329,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "ipfs",
-      "caption" : "IPFS Desktop updated from 0.24.0 to 0.24.1",
-      "date" : "2022-11-11T04:05:05Z",
-      "identifier" : "release-ipfs-0.24.1",
-      "title" : "New Release: IPFS Desktop 0.24.1"
-    },
-    {
-      "appID" : "opencore-configurator",
-      "caption" : "OpenCore Configurator updated from 2.63.0.0 to 2.63.1.0",
-      "date" : "2022-11-11T04:05:06Z",
-      "identifier" : "release-opencore-configurator-2.63.1.0",
-      "title" : "New Release: OpenCore Configurator 2.63.1.0"
-    },
-    {
-      "appID" : "free-gpgmail",
-      "caption" : "Free-GPGMail updated from 6,2022.1.1, to 6,2022.2,",
-      "date" : "2022-11-11T05:38:26Z",
-      "identifier" : "release-free-gpgmail-6,2022.2,",
-      "title" : "New Release: Free-GPGMail 6,2022.2,"
-    },
-    {
       "appID" : "sublime-text",
       "caption" : "Sublime Text updated from 4142 to 4143",
       "date" : "2022-11-11T11:29:24Z",
@@ -63026,6 +63006,27 @@
       "date" : "2022-11-13T05:31:08Z",
       "identifier" : "release-plus42-decimal-1.0.13",
       "title" : "New Release: Plus42 Decimal 1.0.13"
+    },
+    {
+      "appID" : "stats",
+      "caption" : "Stats updated from 2.7.42 to 2.7.43",
+      "date" : "2022-11-13T17:31:14Z",
+      "identifier" : "release-stats-2.7.43",
+      "title" : "New Release: Stats 2.7.43"
+    },
+    {
+      "appID" : "qlvideo",
+      "caption" : "QuickLook Video updated from 1.94 to 1.96",
+      "date" : "2022-11-13T17:31:15Z",
+      "identifier" : "release-qlvideo-1.96",
+      "title" : "New Release: QuickLook Video 1.96"
+    },
+    {
+      "appID" : "cakebrewjs",
+      "caption" : "cakebrewjs updated from 1.3.6 to 1.3.8",
+      "date" : "2022-11-13T17:31:15Z",
+      "identifier" : "release-cakebrewjs-1.3.8",
+      "title" : "New Release: cakebrewjs 1.3.8"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

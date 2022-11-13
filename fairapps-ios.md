@@ -23,11 +23,11 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `211` | `2022-10-21T00:00:00Z` | `1.45 GB` | `8` | `1` | `0` | `0` |  |
-| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `205` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1489` | `64` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.52β`` | `215` | `2022-10-21T00:00:00Z` | `1.45 GB` | `8` | `1` | `0` | `0` |  |
+| [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `210` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1489` | `64` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `183` | `2022-08-27T00:00:00Z` | `12.8 MB` | `1266` | `98` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `150` | `2022-10-20T00:00:00Z` | `8.1 MB` | `435` | `57` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `123` | `2022-09-26T00:00:00Z` | `1.3 MB` | `1020` | `102` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `155` | `2022-10-20T00:00:00Z` | `8.1 MB` | `435` | `57` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `128` | `2022-09-26T00:00:00Z` | `1.3 MB` | `1020` | `102` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `54` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4377` | `302` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `464` | `31` | `0` | `0` |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `28` | `2022-09-09T00:00:00Z` | `5.7 MB` | `1344` | `114` | `0` | `0` |  |

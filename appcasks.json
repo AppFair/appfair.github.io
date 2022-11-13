@@ -322,7 +322,7 @@
       "sha256" : "45e10832da805efcc7db009ad75bb7541e60b3a4c159048b1a50cefe75a324ec",
       "stats" : {
         "downloadCount" : 5468,
-        "impressionCount" : 6013,
+        "impressionCount" : 6014,
         "viewCount" : 587
       },
       "subtitle" : "System monitor for the menu bar",
@@ -391,7 +391,7 @@
       "sha256" : "e58875dd6819c173c55fb6266317816498f50a87c35c47e80c26e5c1690f4142",
       "stats" : {
         "downloadCount" : 2558,
-        "impressionCount" : 3862,
+        "impressionCount" : 3863,
         "viewCount" : 171
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -1415,7 +1415,7 @@
       "sha256" : "8dae216fdeff3f9967d93c13847e9b012df69c6f77985f9f01b67d00b684000e",
       "stats" : {
         "downloadCount" : 349,
-        "impressionCount" : 835
+        "impressionCount" : 837
       },
       "subtitle" : "Open source code editor written in Rust",
       "tintColor" : "D7E1E5",
@@ -1841,7 +1841,7 @@
       "sha256" : "53d129f30eef70f086ce7ad0f1b6c85215cfaaf60f9ceddfbda4ab340690c048",
       "stats" : {
         "downloadCount" : 163,
-        "impressionCount" : 886
+        "impressionCount" : 887
       },
       "subtitle" : "Free, open-source, and completely encrypted notes app",
       "tintColor" : "AFCEEE",
@@ -2046,7 +2046,7 @@
       "sha256" : "6af94634da0403a303ae3323a674468c56ee3df1dd90e2844b9c04714f59f8d3",
       "stats" : {
         "downloadCount" : 129,
-        "impressionCount" : 721
+        "impressionCount" : 722
       },
       "subtitle" : "Network toolbox",
       "tintColor" : "DBE3FD",
@@ -2343,7 +2343,7 @@
       "name" : "Yandex.Browser",
       "stats" : {
         "downloadCount" : 102,
-        "impressionCount" : 562
+        "impressionCount" : 564
       },
       "subtitle" : "Web browser",
       "tintColor" : "EACCCC",
@@ -2463,7 +2463,7 @@
       "sha256" : "a6bbaaf0b89a2723c68c601203d7a317e23a50a2d3f311d742fc5f32679c4af2",
       "stats" : {
         "downloadCount" : 89,
-        "impressionCount" : 500
+        "impressionCount" : 501
       },
       "subtitle" : "Git client",
       "tintColor" : "DADAE7",
@@ -3032,7 +3032,7 @@
       "sha256" : "b3e06a80f0eb7377f278fb562c7b14779a99790522bc1ea6ac3203dd09433aca",
       "stats" : {
         "downloadCount" : 57,
-        "impressionCount" : 520
+        "impressionCount" : 521
       },
       "subtitle" : "RSS and Atom reader",
       "tintColor" : "E8DBC7",
@@ -3196,7 +3196,7 @@
       "sha256" : "e75e6798121e487eaeec672e0d81eb0974ea65f670cbc95347ea183d00617975",
       "stats" : {
         "downloadCount" : 55,
-        "impressionCount" : 788
+        "impressionCount" : 790
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
@@ -3664,7 +3664,7 @@
       "sha256" : "cf21de1eeaaa90f39fb5da99cc8c9eb3ef5a83511904b1d22f50e62cf1f3ad32",
       "stats" : {
         "downloadCount" : 41,
-        "impressionCount" : 610
+        "impressionCount" : 612
       },
       "subtitle" : "Turn websites into apps",
       "tintColor" : "DBCAEF",
@@ -5273,7 +5273,7 @@
       "sha256" : "ce470777e1f9a6f5ae328ae77e8de5cefaa82be6175b5435e7dd2f76658f13be",
       "stats" : {
         "downloadCount" : 19,
-        "impressionCount" : 284
+        "impressionCount" : 285
       },
       "subtitle" : "Network diagnostic utility",
       "tintColor" : "BBC8CD",
@@ -5911,7 +5911,7 @@
       "sha256" : "9a4628e8d38b637dd80723f7f389a2ca0b2cc1dc2b454f6f35077c67bcb9851b",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 292
+        "impressionCount" : 293
       },
       "subtitle" : "Email client",
       "tintColor" : "E7ECF1",
@@ -6739,7 +6739,7 @@
       "sha256" : "2c9eac981e0c393806a6a7d0620f203aaccb18fcf63493eba238906a1910a4f9",
       "stats" : {
         "downloadCount" : 9,
-        "impressionCount" : 923
+        "impressionCount" : 924
       },
       "subtitle" : "Video editor",
       "tintColor" : "B8C5F5",
@@ -12612,7 +12612,7 @@
       "name" : "Trader Workstation",
       "stats" : {
         "downloadCount" : 30,
-        "impressionCount" : 197
+        "impressionCount" : 198
       },
       "subtitle" : "Trading software",
       "tintColor" : "8FBAA9",

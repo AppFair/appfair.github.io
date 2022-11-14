@@ -1607,19 +1607,20 @@
       "categories" : [
         "public.app-category.business"
       ],
-      "downloadURL" : "https://updatecdn.meeting.qq.com/cos/617ef62c8bf4be2084b1c3d06bb6a358/TencentMeeting_0300000000_3.11.6.400.publish.x86_64.dmg",
+      "downloadURL" : "https://updatecdn.meeting.qq.com/cos/5c17d5591d2bf914120d01b6aab55ff1/TencentMeeting_0300000000_3.12.7.434.publish.x86_64.dmg",
       "homepage" : "https://meeting.tencent.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tencent-meeting/AppIcon.png",
       "localizedDescription" : "Cloud video conferencing",
       "name" : "Tencent Meeting",
-      "sha256" : "7565d0c2f8cd4c7aeefc4fd4e623053fb224d33db34cb1bc57f616d1f5c021f4",
+      "sha256" : "a833e6f9935fff78e5c342f13a66a0f69c6537ddf944ccb3e9f292ee5ace1e96",
       "stats" : {
         "downloadCount" : 209,
         "impressionCount" : 1846
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
-      "version" : "3.11.6.400,617ef62c8bf4be2084b1c3d06bb6a358"
+      "version" : "3.12.7.434,5c17d5591d2bf914120d01b6aab55ff1",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -5778,8 +5779,8 @@
       },
       "subtitle" : "Remotely access your connected USB devices over the network",
       "tintColor" : "7C7C7C",
-      "version" : "4.4.5",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "4.4.6",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -11000,7 +11001,7 @@
       "subtitle" : "Git client",
       "tintColor" : "406767",
       "version" : "2079",
-      "versionDate" : "2022-11-14T04:54:33Z"
+      "versionDate" : "2022-11-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -22332,17 +22333,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "canva",
-      "downloadURL" : "https://desktop-release.canva-deploy.com/Canva-1.54.0-x64.dmg",
+      "downloadURL" : "https://desktop-release.canva-deploy.com/Canva-1.55.0-x64.dmg",
       "homepage" : "https://www.canva.com/",
       "localizedDescription" : "Design tool",
       "name" : "Canva",
-      "sha256" : "cc08af7d81de5d21f9cc81e0ac85341abd8c57f2bd89a194471830ea72e51a26",
+      "sha256" : "53fa4ee60a50a6c42adf19a459b76bf87291e32431b9edf106ecbccfa950b761",
       "stats" : {
         "downloadCount" : 146
       },
       "subtitle" : "Design tool",
-      "version" : "1.54.0",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "1.55.0",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -26056,16 +26057,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "miaoyan",
-      "downloadURL" : "https://github.com/tw93/MiaoYan/releases/download/V1.7.1/MiaoYan.dmg",
+      "downloadURL" : "https://github.com/tw93/MiaoYan/releases/download/V1.8.0/MiaoYan.dmg",
       "homepage" : "https://miaoyan.app/",
       "localizedDescription" : "Markdown editor",
       "name" : "MiaoYan",
-      "sha256" : "afc7059096ef233faca36e1111574235300e09517770417a02f4fdbca14431b8",
+      "sha256" : "a910c631b77d97c4bd43945f886d55cb30b0414f2aa22df471d09d12441b5201",
       "stats" : {
         "downloadCount" : 69
       },
       "subtitle" : "Markdown editor",
-      "version" : "1.7.1"
+      "version" : "1.8.0",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -26141,17 +26143,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "binance",
-      "downloadURL" : "https://ftp.binance.com/electron-desktop/mac/production/binance-1.40.0.dmg",
+      "downloadURL" : "https://ftp.binance.com/electron-desktop/mac/production/binance-1.41.0-x64.dmg",
       "homepage" : "https://binance.com/",
       "localizedDescription" : "Cryptocurrency exchange",
       "name" : "Binance",
-      "sha256" : "778c1bd5505cce38f209cb2cfca0c87c11ac2f50a9560368b66b4841bca8f342",
+      "sha256" : "6da4a279d4fbccc29f84c0df2cd356a9b432f8f4b73439e3aaaa03cb64893729",
       "stats" : {
         "downloadCount" : 68
       },
       "subtitle" : "Cryptocurrency exchange",
-      "version" : "1.40.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "1.41.0",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -34222,17 +34224,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "jgrennison-openttd",
-      "downloadURL" : "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.49.0/openttd-jgrpp-0.49.0-macos-universal.dmg",
+      "downloadURL" : "https://github.com/JGRennison/OpenTTD-patches/releases/download/jgrpp-0.49.1/openttd-jgrpp-0.49.1-macos-universal.dmg",
       "homepage" : "https://github.com/JGRennison/OpenTTD-patches/",
       "localizedDescription" : "Collection of patches applied to OpenTTD",
       "name" : "JGR's OpenTTD Patchpack",
-      "sha256" : "0c40344e6b0ebb4bf573ba55e455585fbd2cffd9c9d3cbb5a3873098de417eb6",
+      "sha256" : "5c9ff10c0bbd389b70092988a7c772807a1ed0243df80c1fe3feba46f3b03a1a",
       "stats" : {
         "downloadCount" : 22
       },
       "subtitle" : "Collection of patches applied to OpenTTD",
-      "version" : "0.49.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "0.49.1",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -35380,17 +35382,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "busycontacts",
-      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bct-2022.4.2-2022-10-29-03-33.zip",
+      "downloadURL" : "https://7e968b6ce8a839f034d9-23cfb9eddcb7b94cb43ba95f95a76900.ssl.cf1.rackcdn.com/bct-2022.4.3-2022-11-14-08-14.zip",
       "homepage" : "https://www.busymac.com/busycontacts/index.html",
       "localizedDescription" : "Contact manager focusing on efficiency",
       "name" : "BusyContacts",
-      "sha256" : "2d277c3af43893c694cf269c6e52a0f5b94d67b32680485ad44a97a1c500dc05",
+      "sha256" : "042ce2a58a1cf98ee2f8895c97391c7366561cf18f1f42c3371b4c913cde81ab",
       "stats" : {
         "downloadCount" : 19
       },
       "subtitle" : "Contact manager focusing on efficiency",
-      "version" : "2022.4.2,2022-10-29-03-33",
-      "versionDate" : "2022-10-29T00:00:00Z"
+      "version" : "2022.4.3,2022-11-14-08-14",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -37888,8 +37890,8 @@
         "downloadCount" : 15
       },
       "subtitle" : "Email client",
-      "version" : "4.17.7,1303",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "4.17.9,1309",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -42680,17 +42682,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "hepta",
-      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.221.0/Hepta-0.221.0-mac.zip",
+      "downloadURL" : "https://github.com/heptameta/project-meta/releases/download/v0.223.0/Hepta-0.223.0-mac.zip",
       "homepage" : "https://heptabase.com/",
       "localizedDescription" : "Note-taking tool for visual learning",
       "name" : "Hepta",
-      "sha256" : "b102a397b258c7d40d9b840e8b1636c52cdb7942a414a38355d299ca182f0713",
+      "sha256" : "8e2d4e829de8875991194bde01a4c2e04aacb8eee2f9d7df6a24164a42919eab",
       "stats" : {
         "downloadCount" : 9
       },
       "subtitle" : "Note-taking tool for visual learning",
-      "version" : "0.221.0",
-      "versionDate" : "2022-11-06T00:00:00Z"
+      "version" : "0.223.0",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -51018,16 +51020,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "kkbox",
-      "downloadURL" : "https://dl-universal.kfs.io/22.10.4/KKBOX-22.10.4.dmg",
+      "downloadURL" : "https://dl-universal.kfs.io/22.11.10/KKBOX-22.11.10.dmg",
       "homepage" : "https://www.kkbox.com/",
       "localizedDescription" : "Music streaming service",
       "name" : "KKBOX",
-      "sha256" : "4eaefa2e0e2b2532cb1b5d5efc6721102c7ec30052e151ee79e340f418ced4e1",
+      "sha256" : "2d14abca8ea53c9497f448443a3835ad8ec7bfffc7e240caffbbb6c6fd112340",
       "stats" : {
         "downloadCount" : 4
       },
       "subtitle" : "Music streaming service",
-      "version" : "22.10.4"
+      "version" : "22.11.10",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -58282,16 +58285,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "electron-cash",
-      "downloadURL" : "https://electroncash.org/downloads/4.2.11/mac/Electron-Cash-4.2.11-macosx.dmg",
+      "downloadURL" : "https://electroncash.org/downloads/4.2.12/mac/Electron-Cash-4.2.12-macosx.dmg",
       "homepage" : "https://electroncash.org/",
       "localizedDescription" : "Thin client for Bitcoin Cash",
       "name" : "Electron Cash",
-      "sha256" : "e10ee7b1bff75207087c489d1ad868dbc39be292ef6b53daa9b1f1c62d7db4fc",
+      "sha256" : "f0160dcd2138dd5b006b9c1af105ab0357888d7b49de7b1c7462233253bf875c",
       "stats" : {
         "downloadCount" : 1
       },
       "subtitle" : "Thin client for Bitcoin Cash",
-      "version" : "4.2.11"
+      "version" : "4.2.12",
+      "versionDate" : "2022-11-14T05:43:45Z"
     },
     {
       "beta" : false,
@@ -62322,83 +62326,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "nova",
-      "caption" : "Panic Nova updated from 10.1 to 10.2",
-      "date" : "2022-11-11T23:33:06Z",
-      "identifier" : "release-nova-10.2",
-      "title" : "New Release: Panic Nova 10.2"
-    },
-    {
-      "appID" : "after-dark-classic",
-      "caption" : "After Dark Classic Set updated from 1.0 to 1.2",
-      "date" : "2022-11-11T23:33:06Z",
-      "identifier" : "release-after-dark-classic-1.2",
-      "title" : "New Release: After Dark Classic Set 1.2"
-    },
-    {
-      "appID" : "sequel-ace",
-      "caption" : "Sequel Ace updated from 4.0.1,20039 to 4.0.3,20042",
-      "date" : "2022-11-12T02:14:34Z",
-      "identifier" : "release-sequel-ace-4.0.3,20042",
-      "title" : "New Release: Sequel Ace 4.0.3,20042"
-    },
-    {
-      "appID" : "lapce",
-      "caption" : "Lapce updated from 0.2.2 to 0.2.3",
-      "date" : "2022-11-12T02:14:35Z",
-      "identifier" : "release-lapce-0.2.3",
-      "title" : "New Release: Lapce 0.2.3"
-    },
-    {
-      "appID" : "standard-notes",
-      "caption" : "Standard Notes updated from 3.23.273 to 3.23.292",
-      "date" : "2022-11-12T02:14:35Z",
-      "identifier" : "release-standard-notes-3.23.292",
-      "title" : "New Release: Standard Notes 3.23.292"
-    },
-    {
-      "appID" : "surge",
-      "caption" : "Surge updated from 4.9.2,1892,560479ade2ff8f5894dc2257413f3f4d to 4.10.0,1927,f009d35c5da9df00cccf818edd74b20d",
-      "date" : "2022-11-12T02:14:35Z",
-      "identifier" : "release-surge-4.10.0,1927,f009d35c5da9df00cccf818edd74b20d",
-      "title" : "New Release: Surge 4.10.0,1927,f009d35c5da9df00cccf818edd74b20d"
-    },
-    {
-      "appID" : "yandex",
-      "caption" : "Yandex.Browser updated from 22.9.5 to 22.11.0",
-      "date" : "2022-11-12T02:14:35Z",
-      "identifier" : "release-yandex-22.11.0",
-      "title" : "New Release: Yandex.Browser 22.11.0"
-    },
-    {
-      "appID" : "smartgit",
-      "caption" : "SmartGit updated from 21.2.4 to 22.1.0",
-      "date" : "2022-11-12T02:14:35Z",
-      "identifier" : "release-smartgit-22.1.0",
-      "title" : "New Release: SmartGit 22.1.0"
-    },
-    {
-      "appID" : "zoho-mail",
-      "caption" : "Zoho Mail updated from 1.4.1 to 1.5.0",
-      "date" : "2022-11-12T02:14:36Z",
-      "identifier" : "release-zoho-mail-1.5.0",
-      "title" : "New Release: Zoho Mail 1.5.0"
-    },
-    {
-      "appID" : "whatroute",
-      "caption" : "WhatRoute updated from 2.5.5,11809 to 2.5.6,11810",
-      "date" : "2022-11-12T02:14:36Z",
-      "identifier" : "release-whatroute-2.5.6,11810",
-      "title" : "New Release: WhatRoute 2.5.6,11810"
-    },
-    {
-      "appID" : "trader-workstation",
-      "caption" : "Trader Workstation updated from 10.20.1a to 10.20.1c",
-      "date" : "2022-11-12T02:14:36Z",
-      "identifier" : "release-trader-workstation-10.20.1c",
-      "title" : "New Release: Trader Workstation 10.20.1c"
-    },
-    {
       "appID" : "warp",
       "caption" : "Warp updated from 0.2022.11.01.08.03.stable_00 to 0.2022.11.08.08.07.stable_02",
       "date" : "2022-11-12T02:14:36Z",
@@ -63020,6 +62947,83 @@
       "date" : "2022-11-14T04:54:34Z",
       "identifier" : "release-sublime-merge-2079",
       "title" : "New Release: Sublime Merge 2079"
+    },
+    {
+      "appID" : "tencent-meeting",
+      "caption" : "Tencent Meeting updated from 3.11.6.400,617ef62c8bf4be2084b1c3d06bb6a358 to 3.12.7.434,5c17d5591d2bf914120d01b6aab55ff1",
+      "date" : "2022-11-14T05:43:46Z",
+      "identifier" : "release-tencent-meeting-3.12.7.434,5c17d5591d2bf914120d01b6aab55ff1",
+      "title" : "New Release: Tencent Meeting 3.12.7.434,5c17d5591d2bf914120d01b6aab55ff1"
+    },
+    {
+      "appID" : "virtualhereserver",
+      "caption" : "VirtualHereServer updated from 4.4.5 to 4.4.6",
+      "date" : "2022-11-14T05:43:47Z",
+      "identifier" : "release-virtualhereserver-4.4.6",
+      "title" : "New Release: VirtualHereServer 4.4.6"
+    },
+    {
+      "appID" : "canva",
+      "caption" : "Canva updated from 1.54.0 to 1.55.0",
+      "date" : "2022-11-14T05:43:47Z",
+      "identifier" : "release-canva-1.55.0",
+      "title" : "New Release: Canva 1.55.0"
+    },
+    {
+      "appID" : "miaoyan",
+      "caption" : "MiaoYan updated from 1.7.1 to 1.8.0",
+      "date" : "2022-11-14T05:43:47Z",
+      "identifier" : "release-miaoyan-1.8.0",
+      "title" : "New Release: MiaoYan 1.8.0"
+    },
+    {
+      "appID" : "binance",
+      "caption" : "Binance updated from 1.40.0 to 1.41.0",
+      "date" : "2022-11-14T05:43:48Z",
+      "identifier" : "release-binance-1.41.0",
+      "title" : "New Release: Binance 1.41.0"
+    },
+    {
+      "appID" : "jgrennison-openttd",
+      "caption" : "JGR's OpenTTD Patchpack updated from 0.49.0 to 0.49.1",
+      "date" : "2022-11-14T05:43:48Z",
+      "identifier" : "release-jgrennison-openttd-0.49.1",
+      "title" : "New Release: JGR's OpenTTD Patchpack 0.49.1"
+    },
+    {
+      "appID" : "busycontacts",
+      "caption" : "BusyContacts updated from 2022.4.2,2022-10-29-03-33 to 2022.4.3,2022-11-14-08-14",
+      "date" : "2022-11-14T05:43:48Z",
+      "identifier" : "release-busycontacts-2022.4.3,2022-11-14-08-14",
+      "title" : "New Release: BusyContacts 2022.4.3,2022-11-14-08-14"
+    },
+    {
+      "appID" : "mailmaster",
+      "caption" : "NetEase Mail Master updated from 4.17.7,1303 to 4.17.9,1309",
+      "date" : "2022-11-14T05:43:48Z",
+      "identifier" : "release-mailmaster-4.17.9,1309",
+      "title" : "New Release: NetEase Mail Master 4.17.9,1309"
+    },
+    {
+      "appID" : "hepta",
+      "caption" : "Hepta updated from 0.221.0 to 0.223.0",
+      "date" : "2022-11-14T05:43:48Z",
+      "identifier" : "release-hepta-0.223.0",
+      "title" : "New Release: Hepta 0.223.0"
+    },
+    {
+      "appID" : "kkbox",
+      "caption" : "KKBOX updated from 22.10.4 to 22.11.10",
+      "date" : "2022-11-14T05:43:49Z",
+      "identifier" : "release-kkbox-22.11.10",
+      "title" : "New Release: KKBOX 22.11.10"
+    },
+    {
+      "appID" : "electron-cash",
+      "caption" : "Electron Cash updated from 4.2.11 to 4.2.12",
+      "date" : "2022-11-14T05:43:49Z",
+      "identifier" : "release-electron-cash-4.2.12",
+      "title" : "New Release: Electron Cash 4.2.12"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

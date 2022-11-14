@@ -23,17 +23,17 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `817` | `2022-10-20T00:00:00Z` | `12 MB` | `447` | `58` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `818` | `2022-10-20T00:00:00Z` | `12 MB` | `447` | `58` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `247` | `2022-09-26T00:00:00Z` | `2.4 MB` | `1033` | `102` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `195` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1279` | `99` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `135` | `2022-09-20T00:00:00Z` | `3.2 MB` | `464` | `31` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `127` | `2022-09-23T00:00:00Z` | `3.2 MB` | `17` | `2` | `0` | `0` |  |
-| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `58` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1355` | `114` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `50` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4389` | `302` | `0` | `0` |  |
+| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `63` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1355` | `114` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `55` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4389` | `302` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `45` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5787` | `864` | `1` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `36` | `2022-08-27T00:00:00Z` | `2.3 MB` | `18` | `1` | `0` | `0` |  |
+| [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `36` | `2022-07-04T00:00:00Z` | `2 MB` | `1276` | `106` | `0` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1555` | `125` | `1` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `31` | `2022-08-27T00:00:00Z` | `2.3 MB` | `18` | `1` | `0` | `0` |  |
-| [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `31` | `2022-07-04T00:00:00Z` | `2 MB` | `1276` | `106` | `0` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1392` | `94` | `0` | `0` |  |
 | [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `4645` | `657` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1152` | `98` | `0` | `0` |  |

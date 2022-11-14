@@ -25,7 +25,7 @@
       "sha256" : "0553aaeb6b4be00b5b1aba0efddbb3c7f5b6a61f8da80868ff93206f664e5147",
       "stats" : {
         "downloadCount" : 2235,
-        "impressionCount" : 11754,
+        "impressionCount" : 11756,
         "viewCount" : 1339
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -58,7 +58,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8522,
-        "impressionCount" : 9292,
+        "impressionCount" : 9294,
         "viewCount" : 791
       },
       "subtitle" : "Multimedia player",
@@ -82,9 +82,9 @@
         "https://github.com/App-Fair/appcasks/releases/download/cask-spotify/screenshot_02-mac-2642x1926.png"
       ],
       "stats" : {
-        "downloadCount" : 8486,
-        "impressionCount" : 9820,
-        "viewCount" : 727
+        "downloadCount" : 8487,
+        "impressionCount" : 9825,
+        "viewCount" : 728
       },
       "subtitle" : "Music streaming service",
       "tintColor" : "1CB151",
@@ -112,7 +112,7 @@
       "sha256" : "f7cc7fb04d13f8a0adf9e41be58d07d2517f125e3b883629a344b5e11354d553",
       "stats" : {
         "downloadCount" : 3810,
-        "impressionCount" : 10205,
+        "impressionCount" : 10206,
         "viewCount" : 664
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -140,7 +140,7 @@
       ],
       "stats" : {
         "downloadCount" : 2692,
-        "impressionCount" : 7943,
+        "impressionCount" : 7944,
         "viewCount" : 480
       },
       "subtitle" : "Video game digital distribution service",
@@ -170,7 +170,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 253,
-        "impressionCount" : 6269,
+        "impressionCount" : 6270,
         "viewCount" : 500
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -196,7 +196,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 214,
-        "impressionCount" : 5422,
+        "impressionCount" : 5423,
         "viewCount" : 388
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -223,7 +223,7 @@
       "sha256" : "da2692e0b7d486e16288f4a36d68840239af7aec8cd1e0bcd2c7034c59c0c4e0",
       "stats" : {
         "downloadCount" : 113,
-        "impressionCount" : 4496,
+        "impressionCount" : 4497,
         "viewCount" : 380
       },
       "subtitle" : "File synchronizer",
@@ -254,7 +254,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4548,
+        "impressionCount" : 4550,
         "viewCount" : 354
       },
       "subtitle" : "Create DMGs and other archives",
@@ -276,7 +276,7 @@
       "sha256" : "3dda93337f730db11d413e45356a66ebe3b65a381986017fadcbf6459a568f65",
       "stats" : {
         "downloadCount" : 8143,
-        "impressionCount" : 4034,
+        "impressionCount" : 4035,
         "viewCount" : 279
       },
       "subtitle" : "Team communication and collaboration software",
@@ -299,7 +299,7 @@
       "sha256" : "2bd54babc6b27364e80c4c107ce1b40026662371f56c35e25b29fdebb2942b19",
       "stats" : {
         "downloadCount" : 6157,
-        "impressionCount" : 2870,
+        "impressionCount" : 2871,
         "viewCount" : 145
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -322,7 +322,7 @@
       "sha256" : "a25f3ec868fb5f8a18195c375f43f2060d90009274782b48026c60fcea894143",
       "stats" : {
         "downloadCount" : 5331,
-        "impressionCount" : 6025,
+        "impressionCount" : 6027,
         "viewCount" : 588
       },
       "subtitle" : "System monitor for the menu bar",
@@ -345,7 +345,7 @@
       "sha256" : "9548a5484efa8d0ecc8cd0c3f3f0eeda281ca8f75625b3be0ed00ce9bcb50fcf",
       "stats" : {
         "downloadCount" : 3219,
-        "impressionCount" : 2882,
+        "impressionCount" : 2883,
         "viewCount" : 218
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -437,7 +437,7 @@
       "sha256" : "2c4abf4af51ee95118ef2f121eb015a005385af6b15744c44eaec01911ca29bc",
       "stats" : {
         "downloadCount" : 2240,
-        "impressionCount" : 3838,
+        "impressionCount" : 3840,
         "viewCount" : 182
       },
       "subtitle" : "Web browser focusing on security",
@@ -499,7 +499,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1623,
-        "impressionCount" : 4093
+        "impressionCount" : 4094
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -523,7 +523,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1572,
-        "impressionCount" : 3928
+        "impressionCount" : 3930
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -755,7 +755,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 4436
+        "impressionCount" : 4437
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -848,7 +848,7 @@
       "sha256" : "f6917ab0e41269d07acd93c75b25f3f429ad10ecd799802c7363cd026e82c0fe",
       "stats" : {
         "downloadCount" : 31448,
-        "impressionCount" : 2047
+        "impressionCount" : 2048
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -929,7 +929,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2269,
-        "impressionCount" : 1303
+        "impressionCount" : 1305
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -1294,7 +1294,7 @@
       "sha256" : "5f23210321c9508d0a3e25d878d24f81ad820371eae03a46ffe031a45e65597e",
       "stats" : {
         "downloadCount" : 437,
-        "impressionCount" : 999
+        "impressionCount" : 1001
       },
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
@@ -1615,7 +1615,7 @@
       "sha256" : "a833e6f9935fff78e5c342f13a66a0f69c6537ddf944ccb3e9f292ee5ace1e96",
       "stats" : {
         "downloadCount" : 209,
-        "impressionCount" : 1846
+        "impressionCount" : 1848
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -1868,27 +1868,6 @@
       "tintColor" : "2F96A8",
       "version" : "4.5.0,1436",
       "versionDate" : "2022-11-08T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "tg-pro",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.tunabellysoftware.com/resources/TG%20Pro%202.73.dmg",
-      "homepage" : "https://www.tunabellysoftware.com/tgpro/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-tg-pro/AppIcon.png",
-      "localizedDescription" : "Temperature monitoring, fan control and diagnostics",
-      "name" : "TG Pro",
-      "sha256" : "8d4deb95f79df0442e34599f7f540a03c0fbf9fc2bb302f454eb8826f002cf98",
-      "stats" : {
-        "downloadCount" : 159,
-        "impressionCount" : 801
-      },
-      "subtitle" : "Temperature monitoring, fan control and diagnostics",
-      "tintColor" : "3886C2",
-      "version" : "2.73,13643",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2446,7 +2425,7 @@
       "sha256" : "0d8b6005609fc274da11ca2e0f5b327ce4d998be88dbb670d9b3428de5995ae0",
       "stats" : {
         "downloadCount" : 90,
-        "impressionCount" : 687
+        "impressionCount" : 688
       },
       "subtitle" : "View Spaces / Virtual Desktops in the menu bar",
       "tintColor" : "8279C0",
@@ -2563,7 +2542,7 @@
       "sha256" : "0615def60f8c915dff5d350e202511faf5967f3665da3240e2df866c29cdb0ce",
       "stats" : {
         "downloadCount" : 84,
-        "impressionCount" : 793
+        "impressionCount" : 795
       },
       "subtitle" : "Scan, monitor, and troubleshoot wireless networks",
       "tintColor" : "EBBD48",
@@ -3116,7 +3095,7 @@
       "sha256" : "14165c9f11e94ada24b185a438373b4452055896731451b2f726129d0dc9ae79",
       "stats" : {
         "downloadCount" : 55,
-        "impressionCount" : 796
+        "impressionCount" : 797
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
@@ -3224,27 +3203,6 @@
       "subtitle" : "Application for managing SSH tunnels",
       "tintColor" : "724449",
       "version" : "227.006,1478083232"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "textsniper",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://s3.amazonaws.com/textsniper.app/TextSniper1.9.0.dmg",
-      "homepage" : "https://textsniper.app/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-textsniper/AppIcon.png",
-      "localizedDescription" : "Extract text from images and other digital documents in seconds",
-      "name" : "textsniper",
-      "sha256" : "fb7297aafaff8e3d9d300301beda6c40f06988cee6bf93e8e16b033d8701e07a",
-      "stats" : {
-        "downloadCount" : 52,
-        "impressionCount" : 490
-      },
-      "subtitle" : "Extract text from images and other digital documents in seconds",
-      "tintColor" : "6374FF",
-      "version" : "1.9.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3583,7 +3541,7 @@
       "sha256" : "951903493d87a78b5b70446e19ac91d4b59d0f74a66474183d7fd87082bcdb88",
       "stats" : {
         "downloadCount" : 44,
-        "impressionCount" : 410
+        "impressionCount" : 411
       },
       "subtitle" : "Utility to switch between applications",
       "tintColor" : "279DDB",
@@ -3625,7 +3583,7 @@
       "sha256" : "cf21de1eeaaa90f39fb5da99cc8c9eb3ef5a83511904b1d22f50e62cf1f3ad32",
       "stats" : {
         "downloadCount" : 42,
-        "impressionCount" : 617
+        "impressionCount" : 619
       },
       "subtitle" : "Turn websites into apps",
       "tintColor" : "DBCAEF",
@@ -3791,26 +3749,6 @@
       "subtitle" : "Control your data usage on slow or expensive networks",
       "tintColor" : "EBBDBD",
       "version" : "3.1.3,1303"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "textual",
-      "categories" : [
-        "public.app-category.social-networking"
-      ],
-      "downloadURL" : "https://cached.codeux.com/textual/downloads/resources/builds/Textual-9d231fdb0/universal/Textual.zip",
-      "homepage" : "https://www.codeux.com/textual/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-textual/AppIcon.png",
-      "localizedDescription" : "Application for interacting with Internet Relay Chat (IRC) chatrooms",
-      "name" : "Textual",
-      "sha256" : "3e7b1bb5431c356bfd61142486a096707b68fe8afe6243ba41d0e10332b4111a",
-      "stats" : {
-        "downloadCount" : 39,
-        "impressionCount" : 485
-      },
-      "subtitle" : "Application for interacting with Internet Relay Chat (IRC) chatrooms",
-      "tintColor" : "A892CF",
-      "version" : "7.2.1,210711.11,9d231fdb0"
     },
     {
       "beta" : false,
@@ -4871,7 +4809,7 @@
       "sha256" : "7965f3c2c6038fb24d54d3713c5d7924d486258b0b6e463067ee199eb1188299",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 812
+        "impressionCount" : 813
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
@@ -4973,7 +4911,7 @@
       "name" : "Waves Central",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 352
+        "impressionCount" : 353
       },
       "subtitle" : "Client to install and activate Waves products",
       "tintColor" : "2C2C2C",
@@ -5775,7 +5713,7 @@
       "name" : "VirtualHereServer",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 317
+        "impressionCount" : 318
       },
       "subtitle" : "Remotely access your connected USB devices over the network",
       "tintColor" : "7C7C7C",
@@ -5896,7 +5834,7 @@
       "sha256" : "ab2a6fd15c37e78c1571cf5fe0d2ce8d4bdb4cf05c44e3bd876ee098dfcf5497",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 302
+        "impressionCount" : 304
       },
       "subtitle" : "Workspace organizing app",
       "tintColor" : "AA54C2",
@@ -5922,26 +5860,6 @@
       "subtitle" : "Set a Retina display to custom resolutions",
       "tintColor" : "518BA4",
       "version" : "2.5.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "texts",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "http://www.texts.io/Texts-1.5.dmg",
-      "homepage" : "http://www.texts.io/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-texts/AppIcon.png",
-      "localizedDescription" : "Word processor that uses plain text Markdown",
-      "name" : "Texts",
-      "sha256" : "8c3e5c7c761f31abf414d632e6787f95e08ad112bfd43e63f90a925ae0c3fef2",
-      "stats" : {
-        "downloadCount" : 14,
-        "impressionCount" : 282
-      },
-      "subtitle" : "Word processor that uses plain text Markdown",
-      "tintColor" : "BCBCBC",
-      "version" : "1.5"
     },
     {
       "beta" : false,
@@ -6082,26 +6000,6 @@
       "subtitle" : "Minimalist, keyboard-driven to-do manager",
       "tintColor" : "41B13F",
       "version" : "2.4.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "the-battle-for-wesnoth",
-      "categories" : [
-        "public.app-category.strategy-games"
-      ],
-      "downloadURL" : "https://downloads.sourceforge.net/wesnoth/Wesnoth_1.16.6.dmg",
-      "homepage" : "https://wesnoth.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-the-battle-for-wesnoth/AppIcon.png",
-      "localizedDescription" : "Fantasy-themed turn-based strategy game",
-      "name" : "The Battle for Wesnoth",
-      "sha256" : "93261244ed2d636c3114f3dc29e420382a7bf58a05860af500e41030dc754efc",
-      "stats" : {
-        "downloadCount" : 13,
-        "impressionCount" : 198
-      },
-      "subtitle" : "Fantasy-themed turn-based strategy game",
-      "tintColor" : "79715F",
-      "version" : "1.16.6"
     },
     {
       "beta" : false,
@@ -6453,26 +6351,6 @@
       "subtitle" : "Hierarchical spreadsheet and outline application",
       "tintColor" : "DDDDDB",
       "version" : "2022.08.02,20220802020630"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "the-archive-browser",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://dl.devmate.com/cx.c3.thearchivebrowser/111/1504018288/TheArchiveBrowser-111.zip",
-      "homepage" : "https://theunarchiver.com/archive-browser",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-the-archive-browser/AppIcon.png",
-      "localizedDescription" : "Browse the contents of archives",
-      "name" : "The Archive Browser",
-      "sha256" : "a9cffc4d7a4e9869c9b7542dff7b9614c487623fce6404ce779b0c4b654eb72b",
-      "stats" : {
-        "downloadCount" : 11,
-        "impressionCount" : 245
-      },
-      "subtitle" : "Browse the contents of archives",
-      "tintColor" : "B19268",
-      "version" : "1.11.2,111,1504018288"
     },
     {
       "beta" : false,
@@ -8387,26 +8265,6 @@
       "subtitle" : "Tool to display the local times of people in a team",
       "tintColor" : "5EDAFC",
       "version" : "1.8.10"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "the-archive",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://dlyfuw95744jo.cloudfront.net/TheArchive-v1.7.7.dmg",
-      "homepage" : "https://zettelkasten.de/the-archive/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-the-archive/AppIcon.png",
-      "localizedDescription" : "Note Taking: Nimble, Calm, Plain.txt",
-      "name" : "The Archive",
-      "sha256" : "650e68f9a94b925c85d4fdef1189e5cb98814c278c0c4e671f2049c661956a37",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 282
-      },
-      "subtitle" : "Note Taking: Nimble, Calm, Plain.txt",
-      "tintColor" : "D3B89A",
-      "version" : "1.7.7"
     },
     {
       "beta" : false,
@@ -10913,8 +10771,8 @@
       "name" : "Vivaldi",
       "sha256" : "c940381713e6cacba34e83efbd95abc0ef183f39f6201e4f8d6b42087bab1398",
       "stats" : {
-        "downloadCount" : 743,
-        "impressionCount" : 743
+        "downloadCount" : 744,
+        "impressionCount" : 748
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",
@@ -10996,7 +10854,7 @@
       "sha256" : "16004eb1c3ca37a880cb2f12c1876b3596a263c03acaf8eff17e30668c249fb6",
       "stats" : {
         "downloadCount" : 420,
-        "impressionCount" : 97
+        "impressionCount" : 99
       },
       "subtitle" : "Git client",
       "tintColor" : "406767",
@@ -12562,26 +12420,6 @@
       "tintColor" : "DE7A7A",
       "version" : "17.0,20221107",
       "versionDate" : "2022-11-09T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "texworks",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/TeXworks/texworks/releases/download/release-0.6.7/TeXworks-macos10.15-0.6.7-202202261118-git_23c4c74.dmg",
-      "homepage" : "https://www.tug.org/texworks/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-texworks/AppIcon.png",
-      "localizedDescription" : "Main codebase",
-      "name" : "TeXworks",
-      "sha256" : "b802c24a4a3435f704ffcca58b89df175d0fa90e4fea62be2731a489dcf32649",
-      "stats" : {
-        "downloadCount" : 31,
-        "impressionCount" : 67
-      },
-      "subtitle" : "Main codebase",
-      "tintColor" : "828298",
-      "version" : "0.6.7,202202261118,23c4c74"
     },
     {
       "beta" : false,
@@ -21943,6 +21781,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "tg-pro",
+      "downloadURL" : "https://www.tunabellysoftware.com/resources/TG%20Pro%202.73.dmg",
+      "homepage" : "https://www.tunabellysoftware.com/tgpro/",
+      "localizedDescription" : "Temperature monitoring, fan control and diagnostics",
+      "name" : "TG Pro",
+      "sha256" : "8d4deb95f79df0442e34599f7f540a03c0fbf9fc2bb302f454eb8826f002cf98",
+      "stats" : {
+        "downloadCount" : 159
+      },
+      "subtitle" : "Temperature monitoring, fan control and diagnostics",
+      "version" : "2.73,13643",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "fsnotes",
       "downloadURL" : "https://github.com/glushchenko/fsnotes/releases/download/6.0.4/FSNotes_6.0.4.zip",
       "homepage" : "https://fsnot.es/",
@@ -28009,6 +27862,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "textsniper",
+      "downloadURL" : "https://s3.amazonaws.com/textsniper.app/TextSniper1.9.0.dmg",
+      "homepage" : "https://textsniper.app/",
+      "localizedDescription" : "Extract text from images and other digital documents in seconds",
+      "name" : "textsniper",
+      "sha256" : "fb7297aafaff8e3d9d300301beda6c40f06988cee6bf93e8e16b033d8701e07a",
+      "stats" : {
+        "downloadCount" : 51
+      },
+      "subtitle" : "Extract text from images and other digital documents in seconds",
+      "version" : "1.9.0",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "machoview",
       "downloadURL" : "https://downloads.sourceforge.net/machoview/MachOView-2.4.9200.dmg",
       "homepage" : "https://sourceforge.net/projects/machoview/",
@@ -30026,6 +29894,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "textual",
+      "downloadURL" : "https://cached.codeux.com/textual/downloads/resources/builds/Textual-9d231fdb0/universal/Textual.zip",
+      "homepage" : "https://www.codeux.com/textual/",
+      "localizedDescription" : "Application for interacting with Internet Relay Chat (IRC) chatrooms",
+      "name" : "Textual",
+      "sha256" : "3e7b1bb5431c356bfd61142486a096707b68fe8afe6243ba41d0e10332b4111a",
+      "stats" : {
+        "downloadCount" : 38
+      },
+      "subtitle" : "Application for interacting with Internet Relay Chat (IRC) chatrooms",
+      "version" : "7.2.1,210711.11,9d231fdb0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sip",
       "categories" : [
 
@@ -31557,6 +31439,20 @@
       "subtitle" : "Tool for teams to create living documents",
       "version" : "7.72.2",
       "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "texworks",
+      "downloadURL" : "https://github.com/TeXworks/texworks/releases/download/release-0.6.7/TeXworks-macos10.15-0.6.7-202202261118-git_23c4c74.dmg",
+      "homepage" : "https://www.tug.org/texworks/",
+      "localizedDescription" : "Main codebase",
+      "name" : "TeXworks",
+      "sha256" : "b802c24a4a3435f704ffcca58b89df175d0fa90e4fea62be2731a489dcf32649",
+      "stats" : {
+        "downloadCount" : 31
+      },
+      "subtitle" : "Main codebase",
+      "version" : "0.6.7,202202261118,23c4c74"
     },
     {
       "beta" : false,
@@ -38634,6 +38530,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "texts",
+      "downloadURL" : "http://www.texts.io/Texts-1.5.dmg",
+      "homepage" : "http://www.texts.io/",
+      "localizedDescription" : "Word processor that uses plain text Markdown",
+      "name" : "Texts",
+      "sha256" : "8c3e5c7c761f31abf414d632e6787f95e08ad112bfd43e63f90a925ae0c3fef2",
+      "stats" : {
+        "downloadCount" : 14
+      },
+      "subtitle" : "Word processor that uses plain text Markdown",
+      "version" : "1.5"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "workspace-one-intelligent-hub",
       "downloadURL" : "https://packages.vmware.com/wsone/VMwareWorkspaceONEIntelligentHub.pkg",
       "homepage" : "https://www.getwsone.com/",
@@ -40382,6 +40292,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "the-battle-for-wesnoth",
+      "downloadURL" : "https://downloads.sourceforge.net/wesnoth/Wesnoth_1.16.6.dmg",
+      "homepage" : "https://wesnoth.org/",
+      "localizedDescription" : "Fantasy-themed turn-based strategy game",
+      "name" : "The Battle for Wesnoth",
+      "sha256" : "93261244ed2d636c3114f3dc29e420382a7bf58a05860af500e41030dc754efc",
+      "stats" : {
+        "downloadCount" : 12
+      },
+      "subtitle" : "Fantasy-themed turn-based strategy game",
+      "version" : "1.16.6"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "surge-synthesizer",
       "categories" : [
 
@@ -41145,6 +41069,20 @@
       "subtitle" : "Game Boy and Game Boy Color emulator written in C",
       "version" : "0.15.8",
       "versionDate" : "2022-11-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "the-archive-browser",
+      "downloadURL" : "https://dl.devmate.com/cx.c3.thearchivebrowser/111/1504018288/TheArchiveBrowser-111.zip",
+      "homepage" : "https://theunarchiver.com/archive-browser",
+      "localizedDescription" : "Browse the contents of archives",
+      "name" : "The Archive Browser",
+      "sha256" : "a9cffc4d7a4e9869c9b7542dff7b9614c487623fce6404ce779b0c4b654eb72b",
+      "stats" : {
+        "downloadCount" : 11
+      },
+      "subtitle" : "Browse the contents of archives",
+      "version" : "1.11.2,111,1504018288"
     },
     {
       "beta" : false,
@@ -44558,23 +44496,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "texturepacker",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://www.codeandweb.com/download/texturepacker/6.0.2/TexturePacker-6.0.2.dmg",
-      "homepage" : "https://www.codeandweb.com/texturepacker",
-      "localizedDescription" : "Game sprite sheet packer",
-      "name" : "TexturePacker",
-      "sha256" : "cc80d7d2760cb73acc6e335c45cff52f1f88f6f707fd903d152eea059603ae16",
-      "stats" : {
-        "downloadCount" : 7
-      },
-      "subtitle" : "Game sprite sheet packer",
-      "version" : "6.0.2"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tableau-reader",
       "categories" : [
 
@@ -45964,6 +45885,20 @@
       },
       "subtitle" : "Multiplayer & singleplayer first person shooter",
       "version" : "2020.11.29,2020.12.21"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "texturepacker",
+      "downloadURL" : "https://www.codeandweb.com/download/texturepacker/6.0.2/TexturePacker-6.0.2.dmg",
+      "homepage" : "https://www.codeandweb.com/texturepacker",
+      "localizedDescription" : "Game sprite sheet packer",
+      "name" : "TexturePacker",
+      "sha256" : "cc80d7d2760cb73acc6e335c45cff52f1f88f6f707fd903d152eea059603ae16",
+      "stats" : {
+        "downloadCount" : 7
+      },
+      "subtitle" : "Game sprite sheet packer",
+      "version" : "6.0.2"
     },
     {
       "beta" : false,
@@ -51830,6 +51765,20 @@
       },
       "subtitle" : "Zero-conf git repository hub",
       "version" : "5.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "the-archive",
+      "downloadURL" : "https://dlyfuw95744jo.cloudfront.net/TheArchive-v1.7.7.dmg",
+      "homepage" : "https://zettelkasten.de/the-archive/",
+      "localizedDescription" : "Note Taking: Nimble, Calm, Plain.txt",
+      "name" : "The Archive",
+      "sha256" : "650e68f9a94b925c85d4fdef1189e5cb98814c278c0c4e671f2049c661956a37",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Note Taking: Nimble, Calm, Plain.txt",
+      "version" : "1.7.7"
     },
     {
       "beta" : false,

@@ -322,7 +322,7 @@
       "sha256" : "a25f3ec868fb5f8a18195c375f43f2060d90009274782b48026c60fcea894143",
       "stats" : {
         "downloadCount" : 5331,
-        "impressionCount" : 6038,
+        "impressionCount" : 6039,
         "viewCount" : 588
       },
       "subtitle" : "System monitor for the menu bar",
@@ -612,7 +612,7 @@
       "sha256" : "a696766c219ba2f7487bf6054b6c94af78bd49e9d4a7a210fc007193ef85c6f1",
       "stats" : {
         "downloadCount" : 963,
-        "impressionCount" : 2459,
+        "impressionCount" : 2460,
         "viewCount" : 170
       },
       "subtitle" : "PDF reader and note-taking application",
@@ -1444,26 +1444,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "vimr",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://github.com/qvacua/vimr/releases/download/v0.42.2-20220913.230838/VimR-v0.42.2.tar.bz2",
-      "homepage" : "http://vimr.org/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vimr/AppIcon.png",
-      "localizedDescription" : "GUI for the Neovim text editor",
-      "name" : "VimR",
-      "sha256" : "a9f481824a6d76c5a53a4443aac57f1fc2f091055742842defd81ed3b5f15d78",
-      "stats" : {
-        "downloadCount" : 311,
-        "impressionCount" : 853
-      },
-      "subtitle" : "GUI for the Neovim text editor",
-      "tintColor" : "55A349",
-      "version" : "0.42.2,20220913.230838"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "v2rayu",
       "categories" : [
         "public.app-category.utilities"
@@ -1615,7 +1595,7 @@
       "sha256" : "a833e6f9935fff78e5c342f13a66a0f69c6537ddf944ccb3e9f292ee5ace1e96",
       "stats" : {
         "downloadCount" : 209,
-        "impressionCount" : 1857
+        "impressionCount" : 1858
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -2939,27 +2919,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "vienna",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://downloads.sourceforge.net/vienna-rss/v_3.8.4/Vienna3.8.4.tgz",
-      "homepage" : "https://www.vienna-rss.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vienna/AppIcon.png",
-      "localizedDescription" : "RSS and Atom reader",
-      "name" : "Vienna",
-      "sha256" : "b3e06a80f0eb7377f278fb562c7b14779a99790522bc1ea6ac3203dd09433aca",
-      "stats" : {
-        "downloadCount" : 62,
-        "impressionCount" : 533
-      },
-      "subtitle" : "RSS and Atom reader",
-      "tintColor" : "E8DBC7",
-      "version" : "3.8.4",
-      "versionDate" : "2022-11-12T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "utools",
       "categories" : [
         "public.app-category.developer-tools"
@@ -3116,7 +3075,7 @@
       "sha256" : "8ef0cf1cdd3817c866b9df161ed2315c47d95e850b896a53c1cbe2918f19909b",
       "stats" : {
         "downloadCount" : 55,
-        "impressionCount" : 803
+        "impressionCount" : 804
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
@@ -3583,7 +3542,7 @@
       "sha256" : "951903493d87a78b5b70446e19ac91d4b59d0f74a66474183d7fd87082bcdb88",
       "stats" : {
         "downloadCount" : 44,
-        "impressionCount" : 416
+        "impressionCount" : 417
       },
       "subtitle" : "Utility to switch between applications",
       "tintColor" : "279DDB",
@@ -4973,12 +4932,32 @@
       "name" : "Waves Central",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 357
+        "impressionCount" : 358
       },
       "subtitle" : "Client to install and activate Waves products",
       "tintColor" : "2C2C2C",
       "version" : "13.4.1",
       "versionDate" : "2022-11-13T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "versions",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://updates.versionsapp.com/v2/prod/Versions-2.4.1-2032.zip",
+      "homepage" : "https://versionsapp.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-versions/AppIcon.png",
+      "localizedDescription" : "Subversion client",
+      "name" : "Versions",
+      "sha256" : "75521751729563a8df7105fb45763575312fda7c2143bf97a8c4016157c12bdf",
+      "stats" : {
+        "downloadCount" : 21,
+        "impressionCount" : 318
+      },
+      "subtitle" : "Subversion client",
+      "tintColor" : "277C5F",
+      "version" : "2.4.1,2032"
     },
     {
       "beta" : false,
@@ -5000,26 +4979,6 @@
       "tintColor" : "3E3E3E",
       "version" : "3.5.0.7877",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "versions",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://updates.versionsapp.com/v2/prod/Versions-2.4.1-2032.zip",
-      "homepage" : "https://versionsapp.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-versions/AppIcon.png",
-      "localizedDescription" : "Subversion client",
-      "name" : "Versions",
-      "sha256" : "75521751729563a8df7105fb45763575312fda7c2143bf97a8c4016157c12bdf",
-      "stats" : {
-        "downloadCount" : 21,
-        "impressionCount" : 318
-      },
-      "subtitle" : "Subversion client",
-      "tintColor" : "277C5F",
-      "version" : "2.4.1,2032"
     },
     {
       "beta" : false,
@@ -5775,7 +5734,7 @@
       "name" : "VirtualHereServer",
       "stats" : {
         "downloadCount" : 15,
-        "impressionCount" : 324
+        "impressionCount" : 325
       },
       "subtitle" : "Remotely access your connected USB devices over the network",
       "tintColor" : "7C7C7C",
@@ -6970,26 +6929,6 @@
       "tintColor" : "700000",
       "version" : "1.1.0b1",
       "versionDate" : "2022-11-11T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "vine-server",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/stweil/OSXvnc/releases/download/V5_3_1/VineServer-5.3.1.dmg",
-      "homepage" : "https://github.com/stweil/OSXvnc/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vine-server/AppIcon.png",
-      "localizedDescription" : "VNC server",
-      "name" : "Vine Server",
-      "sha256" : "f3e22c807332df25ce2e37d06ff9552c973d69ee54d2ba9a376358d9d9337af2",
-      "stats" : {
-        "downloadCount" : 8,
-        "impressionCount" : 230
-      },
-      "subtitle" : "VNC server",
-      "tintColor" : "A5A757",
-      "version" : "5.3.1"
     },
     {
       "beta" : false,
@@ -10395,26 +10334,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "vimediamanager",
-      "categories" : [
-        "public.app-category.video"
-      ],
-      "downloadURL" : "https://github.com/vidalvanbergen/ViMediaManager/releases/download/v0.7a23/vimediamanager.zip",
-      "homepage" : "https://github.com/vidalvanbergen/ViMediaManager",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vimediamanager/AppIcon.png",
-      "localizedDescription" : "Manage digital artifacts for your movie, television and anime collections",
-      "name" : "ViMediaManager",
-      "sha256" : "e5c1a6960f60936edc0b07cf4b9fdddbf013fa6840162ab3c4b0aa266a17d570",
-      "stats" : {
-        "downloadCount" : 0,
-        "impressionCount" : 379
-      },
-      "subtitle" : "Manage digital artifacts for your movie, television and anime collections",
-      "tintColor" : "B29A77",
-      "version" : "0.7a23"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "uxprotect",
       "categories" : [
         "public.app-category.utilities"
@@ -10996,7 +10915,7 @@
       "sha256" : "16004eb1c3ca37a880cb2f12c1876b3596a263c03acaf8eff17e30668c249fb6",
       "stats" : {
         "downloadCount" : 420,
-        "impressionCount" : 100
+        "impressionCount" : 101
       },
       "subtitle" : "Git client",
       "tintColor" : "406767",
@@ -13613,26 +13532,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "vidl",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://omz-software.com/vidl/ViDL102.zip",
-      "homepage" : "https://omz-software.com/vidl/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-vidl/AppIcon.png",
-      "localizedDescription" : "GUI frontend for youtube-dl",
-      "name" : "ViDL for Mac",
-      "sha256" : "af79d4f190fc9370abbd7c92e61be18b7c7c7bdd6cea235bd5e6c133ea153b2b",
-      "stats" : {
-        "downloadCount" : 12,
-        "impressionCount" : 118
-      },
-      "subtitle" : "GUI frontend for youtube-dl",
-      "tintColor" : "D5626F",
-      "version" : "1.0.2,102000"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "virtualhere",
       "categories" : [
 
@@ -15688,17 +15587,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "alt-tab",
-      "downloadURL" : "https://github.com/lwouis/alt-tab-macos/releases/download/v6.49.0/AltTab-6.49.0.zip",
+      "downloadURL" : "https://github.com/lwouis/alt-tab-macos/releases/download/v6.50.0/AltTab-6.50.0.zip",
       "homepage" : "https://github.com/lwouis/alt-tab-macos",
       "localizedDescription" : "Enable Windows-like alt-tab",
       "name" : "AltTab",
-      "sha256" : "fcd0b512a80bc31e71968a39b2f3688c0bb1b77930c7a6cbe28fe5feb91b9f2d",
+      "sha256" : "fd2fcaff848c2b3182dba97c5b67fdbbd742e7933061e477f22ebc26bd75399b",
       "stats" : {
         "downloadCount" : 4571
       },
       "subtitle" : "Enable Windows-like alt-tab",
-      "version" : "6.49.0",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "6.50.0",
+      "versionDate" : "2022-11-14T19:31:41Z"
     },
     {
       "beta" : false,
@@ -19781,6 +19680,20 @@
       },
       "subtitle" : "Ruby on Rails IDE",
       "version" : "2022.2.3,222.4345.14"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "vimr",
+      "downloadURL" : "https://github.com/qvacua/vimr/releases/download/v0.42.2-20220913.230838/VimR-v0.42.2.tar.bz2",
+      "homepage" : "http://vimr.org/",
+      "localizedDescription" : "GUI for the Neovim text editor",
+      "name" : "VimR",
+      "sha256" : "a9f481824a6d76c5a53a4443aac57f1fc2f091055742842defd81ed3b5f15d78",
+      "stats" : {
+        "downloadCount" : 309
+      },
+      "subtitle" : "GUI for the Neovim text editor",
+      "version" : "0.42.2,20220913.230838"
     },
     {
       "beta" : false,
@@ -26846,6 +26759,21 @@
       "subtitle" : "Time optimising application",
       "version" : "3.1.2.1",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "vienna",
+      "downloadURL" : "https://downloads.sourceforge.net/vienna-rss/v_3.8.4/Vienna3.8.4.tgz",
+      "homepage" : "https://www.vienna-rss.com/",
+      "localizedDescription" : "RSS and Atom reader",
+      "name" : "Vienna",
+      "sha256" : "b3e06a80f0eb7377f278fb562c7b14779a99790522bc1ea6ac3203dd09433aca",
+      "stats" : {
+        "downloadCount" : 61
+      },
+      "subtitle" : "RSS and Atom reader",
+      "version" : "3.8.4",
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -38079,22 +38007,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "videostream",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://cdn.getvideostream.com/videostream-native-updates/macOS/Videostream.pkg",
-      "homepage" : "https://getvideostream.com/",
-      "localizedDescription" : "Stream media from your computer to Chromecast",
-      "name" : "Videostream",
-      "stats" : {
-        "downloadCount" : 14
-      },
-      "subtitle" : "Stream media from your computer to Chromecast",
-      "version" : "0.4.3"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "utterly",
       "categories" : [
 
@@ -38633,6 +38545,19 @@
         "downloadCount" : 14
       },
       "version" : "1.12"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "videostream",
+      "downloadURL" : "https://cdn.getvideostream.com/videostream-native-updates/macOS/Videostream.pkg",
+      "homepage" : "https://getvideostream.com/",
+      "localizedDescription" : "Stream media from your computer to Chromecast",
+      "name" : "Videostream",
+      "stats" : {
+        "downloadCount" : 14
+      },
+      "subtitle" : "Stream media from your computer to Chromecast",
+      "version" : "0.4.3"
     },
     {
       "beta" : false,
@@ -41147,6 +41072,20 @@
       "subtitle" : "Game Boy and Game Boy Color emulator written in C",
       "version" : "0.15.8",
       "versionDate" : "2022-11-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "vidl",
+      "downloadURL" : "https://omz-software.com/vidl/ViDL102.zip",
+      "homepage" : "https://omz-software.com/vidl/",
+      "localizedDescription" : "GUI frontend for youtube-dl",
+      "name" : "ViDL for Mac",
+      "sha256" : "af79d4f190fc9370abbd7c92e61be18b7c7c7bdd6cea235bd5e6c133ea153b2b",
+      "stats" : {
+        "downloadCount" : 11
+      },
+      "subtitle" : "GUI frontend for youtube-dl",
+      "version" : "1.0.2,102000"
     },
     {
       "beta" : false,
@@ -45981,6 +45920,20 @@
       "subtitle" : "Corporate Wi-Fi, VPN, SSO, and HR Application",
       "version" : "0.56.3,9f3c68bdbd5b41228ee3066bba328ec1,451a",
       "versionDate" : "2022-11-02T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "vine-server",
+      "downloadURL" : "https://github.com/stweil/OSXvnc/releases/download/V5_3_1/VineServer-5.3.1.dmg",
+      "homepage" : "https://github.com/stweil/OSXvnc/",
+      "localizedDescription" : "VNC server",
+      "name" : "Vine Server",
+      "sha256" : "f3e22c807332df25ce2e37d06ff9552c973d69ee54d2ba9a376358d9d9337af2",
+      "stats" : {
+        "downloadCount" : 7
+      },
+      "subtitle" : "VNC server",
+      "version" : "5.3.1"
     },
     {
       "beta" : false,
@@ -51943,22 +51896,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "vip-access",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://storage.googleapis.com/sedvip-prd-idcenter-downloads/VIPAccessSecurityCode.dmg",
-      "homepage" : "https://vip.symantec.com/",
-      "localizedDescription" : "Two-step authentication software",
-      "name" : "Symantec VIP Access",
-      "stats" : {
-        "downloadCount" : 3
-      },
-      "subtitle" : "Two-step authentication software",
-      "version" : "1.0.7"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "unity-windows-support-for-editor",
       "categories" : [
 
@@ -54565,6 +54502,19 @@
       },
       "subtitle" : "Combined Ukrainian keyboard layout with typographic symbols",
       "version" : "2.0.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "vip-access",
+      "downloadURL" : "https://storage.googleapis.com/sedvip-prd-idcenter-downloads/VIPAccessSecurityCode.dmg",
+      "homepage" : "https://vip.symantec.com/",
+      "localizedDescription" : "Two-step authentication software",
+      "name" : "Symantec VIP Access",
+      "stats" : {
+        "downloadCount" : 3
+      },
+      "subtitle" : "Two-step authentication software",
+      "version" : "1.0.7"
     },
     {
       "beta" : false,
@@ -62242,6 +62192,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "vimediamanager",
+      "downloadURL" : "https://github.com/vidalvanbergen/ViMediaManager/releases/download/v0.7a23/vimediamanager.zip",
+      "homepage" : "https://github.com/vidalvanbergen/ViMediaManager",
+      "localizedDescription" : "Manage digital artifacts for your movie, television and anime collections",
+      "name" : "ViMediaManager",
+      "sha256" : "e5c1a6960f60936edc0b07cf4b9fdddbf013fa6840162ab3c4b0aa266a17d570",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "subtitle" : "Manage digital artifacts for your movie, television and anime collections",
+      "version" : "0.7a23"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "volanta",
       "downloadURL" : "https://cdn.volanta.app/software/volanta-app/1.3.13-d4988f9f/volanta-1.3.13.dmg",
       "homepage" : "https://volanta.app/",
@@ -62327,13 +62291,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "grammarly-desktop",
-      "caption" : "Grammarly Desktop updated from 1.14.0.4 to 1.15.1.0",
-      "date" : "2022-11-12T02:14:37Z",
-      "identifier" : "release-grammarly-desktop-1.15.1.0",
-      "title" : "New Release: Grammarly Desktop 1.15.1.0"
-    },
     {
       "appID" : "arc",
       "caption" : "Arc updated from 0.75.2,35649 to 0.76.0,35707",
@@ -63026,6 +62983,13 @@
       "date" : "2022-11-14T15:40:37Z",
       "identifier" : "release-boinc-7.20.4",
       "title" : "New Release: Berkeley Open Infrastructure for Network Computing 7.20.4"
+    },
+    {
+      "appID" : "alt-tab",
+      "caption" : "AltTab updated from 6.49.0 to 6.50.0",
+      "date" : "2022-11-14T19:31:41Z",
+      "identifier" : "release-alt-tab-6.50.0",
+      "title" : "New Release: AltTab 6.50.0"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

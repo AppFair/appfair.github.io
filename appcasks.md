@@ -567,7 +567,7 @@ tr:nth-child(even) {
 | [``V2RayX``](https://github.com/Cenmrev/V2RayX) | ``1.5.1`` | `634` |  |  | `64` |  |  | `0` |  |
 | [``Wireshark-ChmodBPF``](https://www.wireshark.org/) | ``4.0.1`` | `509` | `2022-10-28T00:00:00Z` |  | `115` |  |  | `0` |  |
 | [``Webex Teams``](https://www.webex.com/) | ``42.11.0.24187`` | `479` | `2022-11-08T00:00:00Z` |  | `187` |  |  | `0` |  |
-| [``Sublime Merge``](https://www.sublimemerge.com/) | ``2077`` | `420` |  |  | `97` |  |  | `0` |  |
+| [``Sublime Merge``](https://www.sublimemerge.com/) | ``2079`` | `420` | `2022-11-14T04:54:33Z` |  | `97` |  |  | `0` |  |
 | [``UNetbootin``](https://unetbootin.github.io/) | ``702`` | `377` |  |  | `80` |  |  | `0` |  |
 | [``TigerVNC``](https://tigervnc.org/) | ``1.12.0`` | `348` |  |  | `58` |  |  | `0` |  |
 | [``XMind``](https://www.xmind.net/) | ``22.10.0927`` | `331` | `2022-11-08T00:00:00Z` |  | `124` |  |  | `0` |  |

@@ -10987,19 +10987,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://download.sublimetext.com/sublime_merge_build_2077_mac.zip",
+      "downloadURL" : "https://download.sublimetext.com/sublime_merge_build_2079_mac.zip",
       "homepage" : "https://www.sublimemerge.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sublime-merge/AppIcon.png",
       "localizedDescription" : "Git client",
       "name" : "Sublime Merge",
-      "sha256" : "c948b6445401971fdf934697102016204fedb3188d01fc0c224afb26580bbc09",
+      "sha256" : "16004eb1c3ca37a880cb2f12c1876b3596a263c03acaf8eff17e30668c249fb6",
       "stats" : {
         "downloadCount" : 420,
         "impressionCount" : 97
       },
       "subtitle" : "Git client",
       "tintColor" : "406767",
-      "version" : "2077"
+      "version" : "2079",
+      "versionDate" : "2022-11-14T04:54:33Z"
     },
     {
       "beta" : false,
@@ -62321,13 +62322,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "voikkospellservice",
-      "caption" : "VoikkoSpellService updated from 1.0.6b1 to 1.1.0b1",
-      "date" : "2022-11-11T22:32:09Z",
-      "identifier" : "release-voikkospellservice-1.1.0b1",
-      "title" : "New Release: VoikkoSpellService 1.1.0b1"
-    },
-    {
       "appID" : "nova",
       "caption" : "Panic Nova updated from 10.1 to 10.2",
       "date" : "2022-11-11T23:33:06Z",
@@ -63019,6 +63013,13 @@
       "date" : "2022-11-14T02:13:27Z",
       "identifier" : "release-bettertouchtool-3.939,2103",
       "title" : "New Release: BetterTouchTool 3.939,2103"
+    },
+    {
+      "appID" : "sublime-merge",
+      "caption" : "Sublime Merge updated from 2077 to 2079",
+      "date" : "2022-11-14T04:54:34Z",
+      "identifier" : "release-sublime-merge-2079",
+      "title" : "New Release: Sublime Merge 2079"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

@@ -114,6 +114,36 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "app.Media-Res",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res-iOS.ipa",
+      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res.png",
+      "localizedDescription" : "Art imitating Life (imitating Art)",
+      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
+      "name" : "Media Res",
+      "permissions" : [
+
+      ],
+      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
+      "sha256" : "008e1fe8878679db975dfcf1237039ca92ea3413e5b324fe91e9636fcfa77b3a",
+      "size" : 1271990,
+      "stats" : {
+        "coreSize" : 168592,
+        "downloadCount" : 167,
+        "forkCount" : 0,
+        "impressionCount" : 1033,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 102,
+        "watcherCount" : 0
+      },
+      "subtitle" : "Art imitating Life (imitating Art)",
+      "version" : "0.0.30",
+      "versionDate" : "2022-09-26T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.29...0.0.30"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "app.App-Fair",
       "developerName" : "appfairz <appfairz@appfair.net>",
       "downloadURL" : "https://github.com/App-Fair/App/releases/download/0.8.131/App-Fair-iOS.ipa",
@@ -178,36 +208,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "app.Media-Res",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res-iOS.ipa",
-      "iconURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Media-Res.png",
-      "localizedDescription" : "Art imitating Life (imitating Art)",
-      "metadataURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/Info.plist#27abe8e41c39d7eb3bb457c705e3816ee80253ee373e57f7a9c6704d85b542c8",
-      "name" : "Media Res",
-      "permissions" : [
-
-      ],
-      "readmeURL" : "https://github.com/Media-Res/App/releases/download/0.0.30/README.md#c0a4f63787b115e9ad0343a8293c7a7724f4a566891c78273babb85029fc0d26",
-      "sha256" : "008e1fe8878679db975dfcf1237039ca92ea3413e5b324fe91e9636fcfa77b3a",
-      "size" : 1271990,
-      "stats" : {
-        "coreSize" : 168592,
-        "downloadCount" : 149,
-        "forkCount" : 0,
-        "impressionCount" : 1033,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 102,
-        "watcherCount" : 0
-      },
-      "subtitle" : "Art imitating Life (imitating Art)",
-      "version" : "0.0.30",
-      "versionDate" : "2022-09-26T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Media-Res/App/compare/0.0.29...0.0.30"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "app.Hex-Loupe",
       "developerName" : "fairapps <fairapps@appfair.org>",
       "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.20/Hex-Loupe-iOS.ipa",
@@ -231,7 +231,7 @@
       "size" : 5381927,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 64,
+        "downloadCount" : 82,
         "forkCount" : 0,
         "impressionCount" : 4389,
         "issueCount" : 0,
@@ -262,7 +262,7 @@
       "size" : 5665272,
       "stats" : {
         "coreSize" : 170144,
-        "downloadCount" : 38,
+        "downloadCount" : 57,
         "forkCount" : 0,
         "impressionCount" : 1355,
         "issueCount" : 0,
@@ -274,6 +274,45 @@
       "version" : "0.0.10",
       "versionDate" : "2022-09-09T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Huffle-Puff/App/compare/0.0.9...0.0.10"
+    },
+    {
+      "beta" : true,
+      "bundleIdentifier" : "app.Hex-Loupe",
+      "developerName" : "fairapps <fairapps@appfair.org>",
+      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-iOS.ipa",
+      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
+      "localizedDescription" : "A hex viewer",
+      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
+      "name" : "Hex Loupe",
+      "permissions" : [
+        {
+          "identifier" : "com.apple.security.files.user-selected.read-only",
+          "type" : "entitlement",
+          "usageDescription" : "Hex examination requires the file read capability"
+        }
+      ],
+      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
+      "screenshotURLs" : [
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_01-iphone-750x1334.png",
+        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_02-iphone-1334x750.png"
+      ],
+      "sha256" : "0573d15343e0bd01904086d36c7b4f6ff5123423c830e6f554a14ec99cd89f8e",
+      "size" : 5844815,
+      "stats" : {
+        "coreSize" : 170144,
+        "downloadCount" : 48,
+        "forkCount" : 0,
+        "impressionCount" : 18,
+        "issueCount" : 0,
+        "starCount" : 0,
+        "viewCount" : 1,
+        "watcherCount" : 0
+      },
+      "subtitle" : "A hex viewer",
+      "tintColor" : "A008FF",
+      "version" : "0.0.22",
+      "versionDate" : "2022-08-27T00:00:00Z",
+      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
     },
     {
       "beta" : false,
@@ -317,45 +356,6 @@
       "version" : "0.0.48",
       "versionDate" : "2022-09-20T00:00:00Z",
       "versionDescription" : "**Full Changelog**: https://github.com/Net-Skip/App/compare/0.0.47...0.0.48"
-    },
-    {
-      "beta" : true,
-      "bundleIdentifier" : "app.Hex-Loupe",
-      "developerName" : "fairapps <fairapps@appfair.org>",
-      "downloadURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe-iOS.ipa",
-      "iconURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Hex-Loupe.png",
-      "localizedDescription" : "A hex viewer",
-      "metadataURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/Info.plist#0fa563c571f2d2db3fd2b1f4530aae42417ae0dac3dd2a208e210c6f461ed692",
-      "name" : "Hex Loupe",
-      "permissions" : [
-        {
-          "identifier" : "com.apple.security.files.user-selected.read-only",
-          "type" : "entitlement",
-          "usageDescription" : "Hex examination requires the file read capability"
-        }
-      ],
-      "readmeURL" : "https://github.com/Hex-Loupe/App/releases/download/0.0.22/README.md#600fdf6752d8c55b307fbad6d979e58285578294d41bea508d12d6f9f4efad92",
-      "screenshotURLs" : [
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_01-iphone-750x1334.png",
-        "https://github.com/Hex-Loupe/App/releases/download/0.0.22/screenshot_02-iphone-1334x750.png"
-      ],
-      "sha256" : "0573d15343e0bd01904086d36c7b4f6ff5123423c830e6f554a14ec99cd89f8e",
-      "size" : 5844815,
-      "stats" : {
-        "coreSize" : 170144,
-        "downloadCount" : 30,
-        "forkCount" : 0,
-        "impressionCount" : 18,
-        "issueCount" : 0,
-        "starCount" : 0,
-        "viewCount" : 1,
-        "watcherCount" : 0
-      },
-      "subtitle" : "A hex viewer",
-      "tintColor" : "A008FF",
-      "version" : "0.0.22",
-      "versionDate" : "2022-08-27T00:00:00Z",
-      "versionDescription" : "**Full Changelog**: https://github.com/Hex-Loupe/App/compare/0.0.20...0.0.22"
     },
     {
       "beta" : true,

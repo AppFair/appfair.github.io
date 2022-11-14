@@ -122,33 +122,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "steam",
-      "categories" : [
-        "public.app-category.games"
-      ],
-      "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
-      "homepage" : "https://store.steampowered.com/about/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/AppIcon.png",
-      "localizedDescription" : "Video game digital distribution service",
-      "name" : "Steam",
-      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-steam/README.md",
-      "screenshotURLs" : [
-        "https://github.com/App-Fair/appcasks/releases/download/cask-steam/screenshot_01-mac-2660x2034.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-steam/screenshot_02-mac-2500x1736.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-steam/screenshot_03-mac-1572x1262.png",
-        "https://github.com/App-Fair/appcasks/releases/download/cask-steam/screenshot_04-mac-2246x1530.png"
-      ],
-      "stats" : {
-        "downloadCount" : 2692,
-        "impressionCount" : 7950,
-        "viewCount" : 480
-      },
-      "subtitle" : "Video game digital distribution service",
-      "tintColor" : "416082",
-      "version" : "4.0"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tower",
       "categories" : [
         "public.app-category.developer-tools"
@@ -306,29 +279,6 @@
       "tintColor" : "765B33",
       "version" : "4143",
       "versionDate" : "2022-11-11T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "stats",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.43/Stats.dmg",
-      "homepage" : "https://github.com/exelban/stats",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/AppIcon.png",
-      "localizedDescription" : "System monitor for the menu bar",
-      "name" : "Stats",
-      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stats/README.md",
-      "sha256" : "a25f3ec868fb5f8a18195c375f43f2060d90009274782b48026c60fcea894143",
-      "stats" : {
-        "downloadCount" : 5331,
-        "impressionCount" : 6033,
-        "viewCount" : 588
-      },
-      "subtitle" : "System monitor for the menu bar",
-      "tintColor" : "3A383C",
-      "version" : "2.7.43",
-      "versionDate" : "2022-11-13T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2293,26 +2243,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "staruml",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://staruml.io/download/releases-v5/StarUML-5.0.2.dmg",
-      "homepage" : "https://staruml.io/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-staruml/AppIcon.png",
-      "localizedDescription" : "Software modeler",
-      "name" : "StarUML",
-      "sha256" : "0df2006e175e8cfccf17bc3ca27d505177fab2cf7dda97b2299f1841b3bd98fe",
-      "stats" : {
-        "downloadCount" : 106,
-        "impressionCount" : 487
-      },
-      "subtitle" : "Software modeler",
-      "tintColor" : "BF8261",
-      "version" : "5.0.2"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "simplenote",
       "categories" : [
         "public.app-category.social-networking"
@@ -3876,26 +3806,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "start",
-      "categories" : [
-        "public.app-category.entertainment"
-      ],
-      "downloadURL" : "https://imgcdn.start.qq.com/cdn/mac.client/installer/START-Installer-x86-0.301.10519-7.dmg",
-      "homepage" : "https://start.qq.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-start/AppIcon.png",
-      "localizedDescription" : "Tencent cloud gaming platform",
-      "name" : "START",
-      "sha256" : "a0c0fde038d7a39a22eb4951247ec0a85f4d7c2b87a8bacda9c97e04f54a8593",
-      "stats" : {
-        "downloadCount" : 37,
-        "impressionCount" : 967
-      },
-      "subtitle" : "Tencent cloud gaming platform",
-      "tintColor" : "051C20",
-      "version" : "0.301.10519-7"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "spaceid",
       "categories" : [
         "public.app-category.utilities"
@@ -3956,6 +3866,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sqlpro-for-postgres",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://d3fwkemdw8spx3.cloudfront.net/postgres/SQLProPostgres.2022.70.app.zip",
+      "homepage" : "https://www.macpostgresclient.com/SQLProPostgres",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sqlpro-for-postgres/AppIcon.png",
+      "localizedDescription" : "Lightweight PostgreSQL database client",
+      "name" : "SQLPro for Postgres",
+      "sha256" : "8074adb87d955d76cae2688a1db0336ca0d5b4350556242ad77b9340487822f5",
+      "stats" : {
+        "downloadCount" : 35,
+        "impressionCount" : 426
+      },
+      "subtitle" : "Lightweight PostgreSQL database client",
+      "tintColor" : "1E5A8B",
+      "version" : "2022.70"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "ssh-config-editor",
       "categories" : [
         "public.app-category.utilities"
@@ -3974,26 +3904,6 @@
       "tintColor" : "B2733D",
       "version" : "2.5.1,96",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sqlpro-for-postgres",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://d3fwkemdw8spx3.cloudfront.net/postgres/SQLProPostgres.2022.70.app.zip",
-      "homepage" : "https://www.macpostgresclient.com/SQLProPostgres",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sqlpro-for-postgres/AppIcon.png",
-      "localizedDescription" : "Lightweight PostgreSQL database client",
-      "name" : "SQLPro for Postgres",
-      "sha256" : "8074adb87d955d76cae2688a1db0336ca0d5b4350556242ad77b9340487822f5",
-      "stats" : {
-        "downloadCount" : 35,
-        "impressionCount" : 426
-      },
-      "subtitle" : "Lightweight PostgreSQL database client",
-      "tintColor" : "1E5A8B",
-      "version" : "2022.70"
     },
     {
       "beta" : false,
@@ -4453,26 +4363,6 @@
       "subtitle" : "Unofficial Gmail desktop app",
       "tintColor" : "E4D8D3",
       "version" : "2.25.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "stay",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://cordlessdog.com/stay/versions/Stay%201.4.dmg",
-      "homepage" : "https://cordlessdog.com/stay/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stay/AppIcon.png",
-      "localizedDescription" : "Windows manager",
-      "name" : "Stay",
-      "sha256" : "20362f8564cf7384350f19ee39d46db675473cf82417e7b552e2cdabc363fd4b",
-      "stats" : {
-        "downloadCount" : 27,
-        "impressionCount" : 357
-      },
-      "subtitle" : "Windows manager",
-      "tintColor" : "97A9BB",
-      "version" : "1.4,747"
     },
     {
       "beta" : false,
@@ -8447,26 +8337,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "ssdreporter-free",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.corecode.io/downloads/ssdreporter_1.6.0.zip",
-      "homepage" : "https://www.corecode.io/ssdreporter/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ssdreporter-free/AppIcon.png",
-      "localizedDescription" : "SSD health monitoring tool",
-      "name" : "SSDReporter Free",
-      "sha256" : "80ee61922e301cc299dece3f029ddfa6b9c94da6440e76f1eab897992b4a39af",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 235
-      },
-      "subtitle" : "SSD health monitoring tool",
-      "tintColor" : "6B8B6F",
-      "version" : "1.6.0,1575"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sqlpro-for-sqlite",
       "categories" : [
         "public.app-category.developer-tools"
@@ -8484,6 +8354,26 @@
       "subtitle" : "Advanced sqlite editor",
       "tintColor" : "2B7CAE",
       "version" : "2022.40"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "ssdreporter-free",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://www.corecode.io/downloads/ssdreporter_1.6.0.zip",
+      "homepage" : "https://www.corecode.io/ssdreporter/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ssdreporter-free/AppIcon.png",
+      "localizedDescription" : "SSD health monitoring tool",
+      "name" : "SSDReporter Free",
+      "sha256" : "80ee61922e301cc299dece3f029ddfa6b9c94da6440e76f1eab897992b4a39af",
+      "stats" : {
+        "downloadCount" : 4,
+        "impressionCount" : 235
+      },
+      "subtitle" : "SSD health monitoring tool",
+      "tintColor" : "6B8B6F",
+      "version" : "1.6.0,1575"
     },
     {
       "beta" : false,
@@ -8858,26 +8748,6 @@
       "subtitle" : "Multi-platform Atari 2600 Emulator",
       "tintColor" : "7B4D02",
       "version" : "6.7"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "statusfy",
-      "categories" : [
-        "public.app-category.music"
-      ],
-      "downloadURL" : "https://github.com/paulyoung/Statusfy/releases/download/1.4.0/Statusfy.zip",
-      "homepage" : "https://github.com/paulyoung/Statusfy",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-statusfy/AppIcon.png",
-      "localizedDescription" : "Spotify in the status bar",
-      "name" : "Statusfy",
-      "sha256" : "7fcd2bf27000bec59ef76343621fc4c551c68dd5ab338742ca824b2c5fe0771b",
-      "stats" : {
-        "downloadCount" : 3,
-        "impressionCount" : 411
-      },
-      "subtitle" : "Spotify in the status bar",
-      "tintColor" : "9FE060",
-      "version" : "1.4.0"
     },
     {
       "beta" : false,
@@ -9344,26 +9214,6 @@
       "subtitle" : "Browse and search for Swift Package Manager packages",
       "tintColor" : "EA8064",
       "version" : "1.1.10,30"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "startupizer",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://dl.devmate.com/com.gentlebytes.Startupizer2/2060/1527510167/Startupizer2-2060.zip",
-      "homepage" : "http://gentlebytes.com/startupizer/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-startupizer/AppIcon.png",
-      "localizedDescription" : "Login items handler",
-      "name" : "Startupizer2",
-      "sha256" : "56792a52fc91129f6f192cbbc0dbc6a7175d0699f2dab726baaf7d94f30ce150",
-      "stats" : {
-        "downloadCount" : 2,
-        "impressionCount" : 257
-      },
-      "subtitle" : "Login items handler",
-      "tintColor" : "9E9EA2",
-      "version" : "2,2060,1527510167"
     },
     {
       "beta" : false,
@@ -10042,26 +9892,6 @@
       "subtitle" : "SIP application to create high quality Audio over IP (AoIP) connections",
       "tintColor" : "F37802",
       "version" : "21.05.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "stationtv-link",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "http://download.pixela.co.jp/products/tv_capture/stationtv_link/data/stationtvlink_111.dmg",
-      "homepage" : "http://www.pixela.co.jp/products/tv_capture/stationtv_link/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-stationtv-link/AppIcon.png",
-      "localizedDescription" : "DVR and Media Server",
-      "name" : "StationTV® Link",
-      "sha256" : "0254447381c1c41d797180ab373fb426c5143e8bf226d1c4ee09cfe0d19305d9",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 185
-      },
-      "subtitle" : "DVR and Media Server",
-      "tintColor" : "4168C8",
-      "version" : "1.1.1"
     },
     {
       "beta" : false,
@@ -14983,23 +14813,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "startninja",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://dl2.macupdate.com/prod/StartNinjaInstaller.dmg",
-      "homepage" : "https://www.allvu.com/start_ninja",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-startninja/AppIcon.png",
-      "name" : "StartNinja",
-      "stats" : {
-        "downloadCount" : 2,
-        "impressionCount" : 91
-      },
-      "tintColor" : "493E3D",
-      "version" : "1.0.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "shrinkit",
       "categories" : [
 
@@ -15132,26 +14945,6 @@
       "subtitle" : "Font manager",
       "tintColor" : "D69239",
       "version" : "21.4.4"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "starsector",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://s3.amazonaws.com/fractalsoftworks/starsector/starsector_mac-0.95.1a-RC6.zip",
-      "homepage" : "https://fractalsoftworks.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-starsector/AppIcon.png",
-      "localizedDescription" : "Open-world single-player space combat and trading RPG",
-      "name" : "Starsector",
-      "sha256" : "fac284c08fe3905f6a1f37cefcb24c790c7450d2ebc6468bc138f4e47262fcc9",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 92
-      },
-      "subtitle" : "Open-world single-player space combat and trading RPG",
-      "tintColor" : "5A7489",
-      "version" : "0.95.1a-RC6"
     },
     {
       "beta" : false,
@@ -15657,6 +15450,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "stats",
+      "downloadURL" : "https://github.com/exelban/stats/releases/download/v2.7.43/Stats.dmg",
+      "homepage" : "https://github.com/exelban/stats",
+      "localizedDescription" : "System monitor for the menu bar",
+      "name" : "Stats",
+      "sha256" : "a25f3ec868fb5f8a18195c375f43f2060d90009274782b48026c60fcea894143",
+      "stats" : {
+        "downloadCount" : 5272
+      },
+      "subtitle" : "System monitor for the menu bar",
+      "version" : "2.7.43",
+      "versionDate" : "2022-11-13T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "keepassxc",
       "downloadURL" : "https://github.com/keepassxreboot/keepassxc/releases/download/2.7.4/KeePassXC-2.7.4-x86_64.dmg",
       "homepage" : "https://keepassxc.org/",
@@ -16159,6 +15967,19 @@
       },
       "subtitle" : "Standalone app for debugging React Native apps",
       "version" : "0.13.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "steam",
+      "downloadURL" : "https://cdn.cloudflare.steamstatic.com/client/installer/steam.dmg",
+      "homepage" : "https://store.steampowered.com/about/",
+      "localizedDescription" : "Video game digital distribution service",
+      "name" : "Steam",
+      "stats" : {
+        "downloadCount" : 2685
+      },
+      "subtitle" : "Video game digital distribution service",
+      "version" : "4.0"
     },
     {
       "beta" : false,
@@ -23930,6 +23751,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "staruml",
+      "downloadURL" : "https://staruml.io/download/releases-v5/StarUML-5.0.2.dmg",
+      "homepage" : "https://staruml.io/",
+      "localizedDescription" : "Software modeler",
+      "name" : "StarUML",
+      "sha256" : "0df2006e175e8cfccf17bc3ca27d505177fab2cf7dda97b2299f1841b3bd98fe",
+      "stats" : {
+        "downloadCount" : 106
+      },
+      "subtitle" : "Software modeler",
+      "version" : "5.0.2"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "cutter",
       "downloadURL" : "https://github.com/rizinorg/cutter/releases/download/v2.1.2/Cutter-v2.1.2-macOS-x86_64.dmg",
       "homepage" : "https://cutter.re/",
@@ -30245,6 +30080,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "start",
+      "downloadURL" : "https://imgcdn.start.qq.com/cdn/mac.client/installer/START-Installer-x86-0.301.10519-7.dmg",
+      "homepage" : "https://start.qq.com/",
+      "localizedDescription" : "Tencent cloud gaming platform",
+      "name" : "START",
+      "sha256" : "a0c0fde038d7a39a22eb4951247ec0a85f4d7c2b87a8bacda9c97e04f54a8593",
+      "stats" : {
+        "downloadCount" : 36
+      },
+      "subtitle" : "Tencent cloud gaming platform",
+      "version" : "0.301.10519-7"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "apple-juice",
       "downloadURL" : "https://github.com/raphaelhanneken/apple-juice/releases/download/2020.12.0/Apple.Juice.dmg",
       "homepage" : "https://github.com/raphaelhanneken/apple-juice",
@@ -32819,6 +32668,20 @@
       "subtitle" : "Team messaging, video meetings, and business phone",
       "version" : "22.3.35",
       "versionDate" : "2022-11-07T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "stay",
+      "downloadURL" : "https://cordlessdog.com/stay/versions/Stay%201.4.dmg",
+      "homepage" : "https://cordlessdog.com/stay/",
+      "localizedDescription" : "Windows manager",
+      "name" : "Stay",
+      "sha256" : "20362f8564cf7384350f19ee39d46db675473cf82417e7b552e2cdabc363fd4b",
+      "stats" : {
+        "downloadCount" : 26
+      },
+      "subtitle" : "Windows manager",
+      "version" : "1.4,747"
     },
     {
       "beta" : false,
@@ -37125,7 +36988,7 @@
       },
       "subtitle" : "Use Vim in input fields and non input fields",
       "version" : "45.0.0",
-      "versionDate" : "2022-11-14T10:41:29Z"
+      "versionDate" : "2022-11-14T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54524,6 +54387,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "statusfy",
+      "downloadURL" : "https://github.com/paulyoung/Statusfy/releases/download/1.4.0/Statusfy.zip",
+      "homepage" : "https://github.com/paulyoung/Statusfy",
+      "localizedDescription" : "Spotify in the status bar",
+      "name" : "Statusfy",
+      "sha256" : "7fcd2bf27000bec59ef76343621fc4c551c68dd5ab338742ca824b2c5fe0771b",
+      "stats" : {
+        "downloadCount" : 3
+      },
+      "subtitle" : "Spotify in the status bar",
+      "version" : "1.4.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "tdr-nova",
       "downloadURL" : "https://www.tokyodawn.net/labs/Nova/2.1.5/TDR%20Nova.zip?x24775",
       "homepage" : "https://www.tokyodawn.net/tdr-nova/5/",
@@ -57370,6 +57247,31 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "startninja",
+      "downloadURL" : "https://dl2.macupdate.com/prod/StartNinjaInstaller.dmg",
+      "homepage" : "https://www.allvu.com/start_ninja",
+      "name" : "StartNinja",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "version" : "1.0.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "startupizer",
+      "downloadURL" : "https://dl.devmate.com/com.gentlebytes.Startupizer2/2060/1527510167/Startupizer2-2060.zip",
+      "homepage" : "http://gentlebytes.com/startupizer/",
+      "localizedDescription" : "Login items handler",
+      "name" : "Startupizer2",
+      "sha256" : "56792a52fc91129f6f192cbbc0dbc6a7175d0699f2dab726baaf7d94f30ce150",
+      "stats" : {
+        "downloadCount" : 2
+      },
+      "subtitle" : "Login items handler",
+      "version" : "2,2060,1527510167"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "v2ray-unofficial",
       "downloadURL" : "https://github.com/Dr-Incognito/V2Ray-Desktop/releases/download/2.3.1/V2Ray-Desktop-v2.3.1-macOS-x86_64.dmg",
       "homepage" : "https://github.com/Dr-Incognito/V2Ray-Desktop",
@@ -59896,6 +59798,34 @@
       },
       "subtitle" : "3D reconstruction of Apple Retail Stores on their opening days",
       "version" : "1.0.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "starsector",
+      "downloadURL" : "https://s3.amazonaws.com/fractalsoftworks/starsector/starsector_mac-0.95.1a-RC6.zip",
+      "homepage" : "https://fractalsoftworks.com/",
+      "localizedDescription" : "Open-world single-player space combat and trading RPG",
+      "name" : "Starsector",
+      "sha256" : "fac284c08fe3905f6a1f37cefcb24c790c7450d2ebc6468bc138f4e47262fcc9",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "Open-world single-player space combat and trading RPG",
+      "version" : "0.95.1a-RC6"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "stationtv-link",
+      "downloadURL" : "http://download.pixela.co.jp/products/tv_capture/stationtv_link/data/stationtvlink_111.dmg",
+      "homepage" : "http://www.pixela.co.jp/products/tv_capture/stationtv_link/",
+      "localizedDescription" : "DVR and Media Server",
+      "name" : "StationTV® Link",
+      "sha256" : "0254447381c1c41d797180ab373fb426c5143e8bf226d1c4ee09cfe0d19305d9",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "DVR and Media Server",
+      "version" : "1.1.1"
     },
     {
       "beta" : false,

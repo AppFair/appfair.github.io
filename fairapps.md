@@ -28,10 +28,10 @@ tr:nth-child(even) {
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `195` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1291` | `99` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `135` | `2022-09-20T00:00:00Z` | `3.2 MB` | `465` | `31` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `127` | `2022-09-23T00:00:00Z` | `3.2 MB` | `17` | `2` | `0` | `0` |  |
-| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `108` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1368` | `114` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `100` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4402` | `302` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `80` | `2022-08-27T00:00:00Z` | `2.3 MB` | `18` | `1` | `0` | `0` |  |
-| [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `78` | `2022-07-04T00:00:00Z` | `2 MB` | `1277` | `106` | `0` | `0` |  |
+| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `113` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1368` | `114` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `105` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4402` | `302` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `85` | `2022-08-27T00:00:00Z` | `2.3 MB` | `18` | `1` | `0` | `0` |  |
+| [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `83` | `2022-07-04T00:00:00Z` | `2 MB` | `1277` | `106` | `0` | `0` |  |
 | [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `45` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5802` | `864` | `1` | `0` |  |
 | [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1569` | `126` | `1` | `0` |  |
 | [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1406` | `94` | `0` | `0` |  |

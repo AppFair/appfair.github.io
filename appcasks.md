@@ -858,7 +858,7 @@ tr:nth-child(even) {
 | [``BasicTeX``](https://www.tug.org/mactex/morepackages.html) | ``2022.0314`` | `2359` |  |  |  |  |  | `0` |  |
 | [``Microsoft Office``](https://products.office.com/mac/microsoft-office-for-mac/) | ``16.66.22101101`` | `2347` |  |  |  |  |  | `0` |  |
 | [``DB Browser for SQLite``](https://sqlitebrowser.org/) | ``3.12.2`` | `2345` |  |  |  |  |  | `0` |  |
-| [``Keka``](https://www.keka.io/) | ``1.2.58`` | `2308` | `2022-11-15T13:04:10Z` |  |  |  |  | `0` |  |
+| [``Keka``](https://www.keka.io/) | ``1.2.58`` | `2308` | `2022-11-15T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Etcher``](https://balena.io/etcher) | ``latest`` | `2219` | `2022-11-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``MySQL Workbench``](https://www.mysql.com/products/workbench/) | ``8.0.31`` | `2213` |  |  |  |  |  | `0` |  |
 | [``DevToys``](https://github.com/ObuchiYuki/DevToysMac) | ``0.0.11`` | `2172` |  |  |  |  |  | `0` |  |

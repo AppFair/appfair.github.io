@@ -1199,6 +1199,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sketch",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "downloadURL" : "https://download.sketch.com/sketch-94.1-156562.zip",
+      "homepage" : "https://www.sketch.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sketch/AppIcon.png",
+      "localizedDescription" : "Digital design and prototyping platform",
+      "name" : "Sketch",
+      "sha256" : "d25db7744f85566893ee800208fd1abcb25c4b8bb703689ff41c40b6b4c2209d",
+      "stats" : {
+        "downloadCount" : 518,
+        "impressionCount" : 1565
+      },
+      "subtitle" : "Digital design and prototyping platform",
+      "tintColor" : "EFD5A1",
+      "version" : "94.1,156562",
+      "versionDate" : "2022-11-09T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "scroll-reverser",
       "categories" : [
         "public.app-category.utilities"
@@ -4056,6 +4077,26 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sizzy",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://proxy.sizzy.co/updates/download/mac?arch=intel",
+      "homepage" : "https://sizzy.co/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sizzy/AppIcon.png",
+      "localizedDescription" : "Tool to simulate responsive designs on multiple devices",
+      "name" : "Sizzy",
+      "stats" : {
+        "downloadCount" : 34,
+        "impressionCount" : 541
+      },
+      "subtitle" : "Tool to simulate responsive designs on multiple devices",
+      "tintColor" : "9271C5",
+      "version" : "70.2.0",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sim-daltonism",
       "categories" : [
         "public.app-category.graphics-design"
@@ -5057,6 +5098,27 @@
       },
       "tintColor" : "A98E34",
       "version" : "1.8.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "siyuan",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.5.0/siyuan-2.5.0-mac.dmg",
+      "homepage" : "https://github.com/siyuan-note/siyuan",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-siyuan/AppIcon.png",
+      "localizedDescription" : "Local-first personal knowledge management system",
+      "name" : "SiYuan",
+      "sha256" : "ddd1d1ba55b3fb9248566b315b4c05da4dd4d6fb3a1410147b27e47f2fe3542f",
+      "stats" : {
+        "downloadCount" : 21,
+        "impressionCount" : 967
+      },
+      "subtitle" : "Local-first personal knowledge management system",
+      "tintColor" : "8A3C3E",
+      "version" : "2.5.0",
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8996,6 +9058,23 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sketchpacks",
+      "categories" : [
+        "public.app-category.productivity"
+      ],
+      "downloadURL" : "https://sketchpacks-releases.herokuapp.com/download/osx",
+      "homepage" : "https://sketchpacks.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sketchpacks/AppIcon.png",
+      "name" : "Sketchpacks",
+      "stats" : {
+        "downloadCount" : 3,
+        "impressionCount" : 327
+      },
+      "tintColor" : "F0DDF2",
+      "version" : "latest"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "yu-writer",
       "categories" : [
         "public.app-category.productivity"
@@ -9422,26 +9501,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sia-ui",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://sia.tech/releases/Sia-UI-v1.5.9.dmg",
-      "homepage" : "https://sia.tech/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sia-ui/AppIcon.png",
-      "localizedDescription" : "Graphical frontend for Sia",
-      "name" : "Sia-UI",
-      "sha256" : "59fbd274f27676e9b8e81db0a6989b49346fc63d45278bda47a82666d7ded92d",
-      "stats" : {
-        "downloadCount" : 2,
-        "impressionCount" : 248
-      },
-      "subtitle" : "Graphical frontend for Sia",
-      "tintColor" : "D7F0E1",
-      "version" : "1.5.9"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sitala",
       "categories" : [
         "public.app-category.utilities"
@@ -9496,6 +9555,26 @@
       },
       "tintColor" : "ABCC62",
       "version" : "3.0.12,2366"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sia-ui",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://sia.tech/releases/Sia-UI-v1.5.9.dmg",
+      "homepage" : "https://sia.tech/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sia-ui/AppIcon.png",
+      "localizedDescription" : "Graphical frontend for Sia",
+      "name" : "Sia-UI",
+      "sha256" : "59fbd274f27676e9b8e81db0a6989b49346fc63d45278bda47a82666d7ded92d",
+      "stats" : {
+        "downloadCount" : 2,
+        "impressionCount" : 248
+      },
+      "subtitle" : "Graphical frontend for Sia",
+      "tintColor" : "D7F0E1",
+      "version" : "1.5.9"
     },
     {
       "beta" : false,
@@ -10680,6 +10759,23 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sketch-toolbox",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "downloadURL" : "http://sketchtoolbox.com/Sketch%20Toolbox.zip",
+      "homepage" : "http://sketchtoolbox.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sketch-toolbox/AppIcon.png",
+      "name" : "Sketch Toolbox",
+      "stats" : {
+        "downloadCount" : 0,
+        "impressionCount" : 500
+      },
+      "tintColor" : "DC6941",
+      "version" : "0.5.1,051"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "simplelink-msp432-sdk",
       "categories" : [
         "public.app-category.utilities"
@@ -11153,7 +11249,7 @@
       "subtitle" : "Sound and audio controller",
       "tintColor" : "54C1BF",
       "version" : "5.5.6",
-      "versionDate" : "2022-11-15T21:31:18Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -12029,6 +12125,26 @@
       "subtitle" : "Eclipse-based report development tool for JasperReports",
       "tintColor" : "296FB6",
       "version" : "6.20.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sizeup",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://www.irradiatedsoftware.com/downloads/SizeUp_1.7.4.zip",
+      "homepage" : "https://www.irradiatedsoftware.com/sizeup/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sizeup/AppIcon.png",
+      "localizedDescription" : "Utility to resize and position application windows",
+      "name" : "SizeUp",
+      "sha256" : "5f2e9514627c0dc867ece0665fef790f01f3874d7765cc459e3a7676b78a02cf",
+      "stats" : {
+        "downloadCount" : 53,
+        "impressionCount" : 67
+      },
+      "subtitle" : "Utility to resize and position application windows",
+      "tintColor" : "BAB9B6",
+      "version" : "1.7.4,1360"
     },
     {
       "beta" : false,
@@ -15198,17 +15314,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "iterm2",
-      "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_17.zip",
+      "downloadURL" : "https://iterm2.com/downloads/stable/iTerm2-3_4_18.zip",
       "homepage" : "https://www.iterm2.com/",
       "localizedDescription" : "Terminal emulator as alternative to Apple's Terminal app",
       "name" : "iTerm2",
-      "sha256" : "583bc015015cdace7d90e9a717a79e6d7ddb5091556ae64c8ec1abb55f243543",
+      "sha256" : "76727347acb1f2856f9b6702c6ba486594da87f857afec3ee4cba48f7cac219c",
       "stats" : {
         "downloadCount" : 30021
       },
       "subtitle" : "Terminal emulator as alternative to Apple's Terminal app",
-      "version" : "3.4.17",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "3.4.18",
+      "versionDate" : "2022-11-15T22:34:03Z"
     },
     {
       "beta" : false,
@@ -15389,7 +15505,7 @@
       },
       "subtitle" : "Rust-based terminal",
       "version" : "0.2022.11.14.14.55.stable_01",
-      "versionDate" : "2022-11-15T21:31:18Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15745,7 +15861,7 @@
       },
       "subtitle" : "Provides updates to various Microsoft products",
       "version" : "4.53.22111300",
-      "versionDate" : "2022-11-15T21:31:18Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16743,7 +16859,7 @@
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
       "version" : "3.941,2106",
-      "versionDate" : "2022-11-15T21:31:18Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -18328,21 +18444,6 @@
       },
       "subtitle" : "GUI client for PostgreSQL databases",
       "version" : "1.5.21"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sketch",
-      "downloadURL" : "https://download.sketch.com/sketch-94.1-156562.zip",
-      "homepage" : "https://www.sketch.com/",
-      "localizedDescription" : "Digital design and prototyping platform",
-      "name" : "Sketch",
-      "sha256" : "d25db7744f85566893ee800208fd1abcb25c4b8bb703689ff41c40b6b4c2209d",
-      "stats" : {
-        "downloadCount" : 513
-      },
-      "subtitle" : "Digital design and prototyping platform",
-      "version" : "94.1,156562",
-      "versionDate" : "2022-11-09T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20009,7 +20110,7 @@
       },
       "subtitle" : "Minecraft launcher",
       "version" : "5.2",
-      "versionDate" : "2022-11-15T21:31:18Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21950,17 +22051,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "local",
-      "downloadURL" : "https://cdn.localwp.com/releases-stable/6.5.1+6195/local-6.5.1-mac.dmg",
+      "downloadURL" : "https://cdn.localwp.com/releases-stable/6.5.2+6204/local-6.5.2-mac.dmg",
       "homepage" : "https://localwp.com/",
       "localizedDescription" : "WordPress local development tool by Flywheel",
       "name" : "Local",
-      "sha256" : "ea914e78055aeaeb7577e5e604dc9bb9cb29cf6fad491926d65316a86d3c154d",
+      "sha256" : "9e3a3a2646ac5f0ea18827be402387f4c2c78e3b94a9c7ed19d78f3bb2d2a29c",
       "stats" : {
         "downloadCount" : 159
       },
       "subtitle" : "WordPress local development tool by Flywheel",
-      "version" : "6.5.1,6195",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "6.5.2,6204",
+      "versionDate" : "2022-11-15T22:34:03Z"
     },
     {
       "beta" : false,
@@ -25113,7 +25214,7 @@
       },
       "subtitle" : "Plain-text file notepad and todo-list manager",
       "version" : "22.11.6",
-      "versionDate" : "2022-11-15T21:31:18Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -27777,20 +27878,6 @@
       "subtitle" : "CLI for command-line API management on Postman",
       "version" : "1.0.7",
       "versionDate" : "2022-11-07T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sizeup",
-      "downloadURL" : "https://www.irradiatedsoftware.com/downloads/SizeUp_1.7.4.zip",
-      "homepage" : "https://www.irradiatedsoftware.com/sizeup/",
-      "localizedDescription" : "Utility to resize and position application windows",
-      "name" : "SizeUp",
-      "sha256" : "5f2e9514627c0dc867ece0665fef790f01f3874d7765cc459e3a7676b78a02cf",
-      "stats" : {
-        "downloadCount" : 53
-      },
-      "subtitle" : "Utility to resize and position application windows",
-      "version" : "1.7.4,1360"
     },
     {
       "beta" : false,
@@ -30888,20 +30975,6 @@
       },
       "subtitle" : "Batch file renamer application",
       "version" : "6.1.0,61000",
-      "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sizzy",
-      "downloadURL" : "https://proxy.sizzy.co/updates/download/mac?arch=intel",
-      "homepage" : "https://sizzy.co/",
-      "localizedDescription" : "Tool to simulate responsive designs on multiple devices",
-      "name" : "Sizzy",
-      "stats" : {
-        "downloadCount" : 34
-      },
-      "subtitle" : "Tool to simulate responsive designs on multiple devices",
-      "version" : "70.2.0",
       "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
@@ -34897,21 +34970,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "siyuan",
-      "downloadURL" : "https://github.com/siyuan-note/siyuan/releases/download/v2.5.0/siyuan-2.5.0-mac.dmg",
-      "homepage" : "https://github.com/siyuan-note/siyuan",
-      "localizedDescription" : "Local-first personal knowledge management system",
-      "name" : "SiYuan",
-      "sha256" : "ddd1d1ba55b3fb9248566b315b4c05da4dd4d6fb3a1410147b27e47f2fe3542f",
-      "stats" : {
-        "downloadCount" : 21
-      },
-      "subtitle" : "Local-first personal knowledge management system",
-      "version" : "2.5.0",
-      "versionDate" : "2022-11-15T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "spline",
       "downloadURL" : "https://cdn.spline.design/_assets/Spline-0.9.0-x64.osx_update.zip",
       "homepage" : "https://spline.design/",
@@ -34957,6 +35015,23 @@
       },
       "subtitle" : "Service that allows users to make symbolic links in the Finder",
       "version" : "2.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sketchbook",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://download.autodesk.com/us/support/files/sketchbook/sketchbook_2019/sketchbook_v8.7.1_mac.dmg",
+      "homepage" : "https://www.sketchbook.com/",
+      "localizedDescription" : "Draw, paint, & sketch application",
+      "name" : "Autodesk Sketchbook",
+      "sha256" : "a96042dc95483cd6fac849a9f60a22980204ee4ee0a26b0804b0aa6ab23b842a",
+      "stats" : {
+        "downloadCount" : 20
+      },
+      "subtitle" : "Draw, paint, & sketch application",
+      "version" : "8.7.1,2019"
     },
     {
       "beta" : false,
@@ -35254,20 +35329,6 @@
       },
       "subtitle" : "SCAP Scanner And Tailoring Graphical User Interface",
       "version" : "1.2.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sketchbook",
-      "downloadURL" : "https://download.autodesk.com/us/support/files/sketchbook/sketchbook_2019/sketchbook_v8.7.1_mac.dmg",
-      "homepage" : "https://www.sketchbook.com/",
-      "localizedDescription" : "Draw, paint, & sketch application",
-      "name" : "Autodesk Sketchbook",
-      "sha256" : "a96042dc95483cd6fac849a9f60a22980204ee4ee0a26b0804b0aa6ab23b842a",
-      "stats" : {
-        "downloadCount" : 20
-      },
-      "subtitle" : "Draw, paint, & sketch application",
-      "version" : "8.7.1,2019"
     },
     {
       "beta" : false,
@@ -36968,17 +37029,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "accurics",
-      "downloadURL" : "https://downloads.accurics.com/cli/1.0.43/accurics-cli.dmg",
+      "downloadURL" : "https://downloads.accurics.com/cli/1.0.44/accurics-cli.dmg",
       "homepage" : "https://www.accurics.com/",
       "localizedDescription" : "Security and compliance for Infrastructure as Code",
       "name" : "Accurics CLI",
-      "sha256" : "545cb2c75c9dfd7c91e7a7ac822e6e72723bb27234df9f1b213ffb8c437d310a",
+      "sha256" : "a60455a985157ee12caa14e268651fc42d99e1f1759f13ce0a37fdd913ea4825",
       "stats" : {
         "downloadCount" : 16
       },
       "subtitle" : "Security and compliance for Infrastructure as Code",
-      "version" : "1.0.43",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "1.0.44",
+      "versionDate" : "2022-11-15T22:34:03Z"
     },
     {
       "beta" : false,
@@ -53179,7 +53240,7 @@
       "homepage" : "https://gifox.io/",
       "localizedDescription" : "App to record the screen",
       "name" : "gifox",
-      "sha256" : "2321f5bfe47a3b0f10abab379745b2078e65f4b997497f9789fac2c8f15cf348",
+      "sha256" : "ff7bc7539e26a7115111e0c7375b6b072a12bd2e352cd1e7c662d7491ef7996a",
       "stats" : {
         "downloadCount" : 3
       },
@@ -54433,17 +54494,6 @@
       },
       "subtitle" : "Screenshot tool with cloud storage",
       "version" : "1.6"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sketchpacks",
-      "downloadURL" : "https://sketchpacks-releases.herokuapp.com/download/osx",
-      "homepage" : "https://sketchpacks.com/",
-      "name" : "Sketchpacks",
-      "stats" : {
-        "downloadCount" : 3
-      },
-      "version" : "latest"
     },
     {
       "beta" : false,
@@ -57527,6 +57577,40 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sketchup",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://www.sketchup.com/sketchup/2017/en/sketchupmake-2017-3-116-90851-en-dmg",
+      "homepage" : "https://www.sketchup.com/",
+      "localizedDescription" : "3D design software",
+      "name" : "SketchUp",
+      "sha256" : "a534d77d1ea9622b19463258abf21768cb8bb8126734bd40329dd4088b04d79f",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "3D design software",
+      "version" : "2017,3-116-90851"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "skala-preview",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://bjango.s3.amazonaws.com/files/skalapreview/skalapreview2.0.zip",
+      "homepage" : "https://bjango.com/mac/skalapreview/",
+      "localizedDescription" : "Design preview tool",
+      "name" : "Skala Preview",
+      "sha256" : "4dd88357012c75216dc9bac018b789db37e150608fc1078da00b9c2c36bb7f94",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "Design preview tool",
+      "version" : "2.0"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "simplediagrams",
       "categories" : [
 
@@ -59925,34 +60009,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "skala-preview",
-      "downloadURL" : "https://bjango.s3.amazonaws.com/files/skalapreview/skalapreview2.0.zip",
-      "homepage" : "https://bjango.com/mac/skalapreview/",
-      "localizedDescription" : "Design preview tool",
-      "name" : "Skala Preview",
-      "sha256" : "4dd88357012c75216dc9bac018b789db37e150608fc1078da00b9c2c36bb7f94",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "subtitle" : "Design preview tool",
-      "version" : "2.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sketchup",
-      "downloadURL" : "https://www.sketchup.com/sketchup/2017/en/sketchupmake-2017-3-116-90851-en-dmg",
-      "homepage" : "https://www.sketchup.com/",
-      "localizedDescription" : "3D design software",
-      "name" : "SketchUp",
-      "sha256" : "a534d77d1ea9622b19463258abf21768cb8bb8126734bd40329dd4088b04d79f",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "subtitle" : "3D design software",
-      "version" : "2017,3-116-90851"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tdr-kotelnikov",
       "downloadURL" : "https://www.tokyodawn.net/labs/Kotelnikov/1.6.4/TDR%20Kotelnikov.zip?x24775",
       "homepage" : "https://www.tokyodawn.net/tdr-kotelnikov/",
@@ -62086,17 +62142,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sketch-toolbox",
-      "downloadURL" : "http://sketchtoolbox.com/Sketch%20Toolbox.zip",
-      "homepage" : "http://sketchtoolbox.com/",
-      "name" : "Sketch Toolbox",
-      "stats" : {
-        "downloadCount" : 0
-      },
-      "version" : "0.5.1,051"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "spatial",
       "downloadURL" : "https://console.improbable.io/toolbelt/download/latest/mac",
       "homepage" : "https://documentation.improbable.io/spatialos-overview/docs",
@@ -62307,27 +62352,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "netron",
-      "caption" : "Netron updated from 6.1.5 to 6.1.7",
-      "date" : "2022-11-12T08:38:11Z",
-      "identifier" : "release-netron-6.1.7",
-      "title" : "New Release: Netron 6.1.7"
-    },
-    {
-      "appID" : "ghidra",
-      "caption" : "Ghidra updated from 10.2,20221101 to 10.2.1,20221110",
-      "date" : "2022-11-12T11:27:25Z",
-      "identifier" : "release-ghidra-10.2.1,20221110",
-      "title" : "New Release: Ghidra 10.2.1,20221110"
-    },
-    {
-      "appID" : "vienna",
-      "caption" : "Vienna updated from 3.8.3 to 3.8.4",
-      "date" : "2022-11-12T17:30:06Z",
-      "identifier" : "release-vienna-3.8.4",
-      "title" : "New Release: Vienna 3.8.4"
-    },
     {
       "appID" : "opensoundmeter",
       "caption" : "Open Sound Meter 1.2.1 released",
@@ -63006,6 +63030,27 @@
       "date" : "2022-11-15T21:31:20Z",
       "identifier" : "release-qownnotes-22.11.6",
       "title" : "New Release: QOwnNotes 22.11.6"
+    },
+    {
+      "appID" : "iterm2",
+      "caption" : "iTerm2 updated from 3.4.17 to 3.4.18",
+      "date" : "2022-11-15T22:34:04Z",
+      "identifier" : "release-iterm2-3.4.18",
+      "title" : "New Release: iTerm2 3.4.18"
+    },
+    {
+      "appID" : "local",
+      "caption" : "Local updated from 6.5.1,6195 to 6.5.2,6204",
+      "date" : "2022-11-15T22:34:04Z",
+      "identifier" : "release-local-6.5.2,6204",
+      "title" : "New Release: Local 6.5.2,6204"
+    },
+    {
+      "appID" : "accurics",
+      "caption" : "Accurics CLI updated from 1.0.43 to 1.0.44",
+      "date" : "2022-11-15T22:34:04Z",
+      "identifier" : "release-accurics-1.0.44",
+      "title" : "New Release: Accurics CLI 1.0.44"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

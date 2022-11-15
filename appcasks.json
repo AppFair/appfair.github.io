@@ -25,8 +25,8 @@
       "sha256" : "0553aaeb6b4be00b5b1aba0efddbb3c7f5b6a61f8da80868ff93206f664e5147",
       "stats" : {
         "downloadCount" : 2279,
-        "impressionCount" : 11795,
-        "viewCount" : 1346
+        "impressionCount" : 11797,
+        "viewCount" : 1347
       },
       "subtitle" : "Instant messaging application focusing on security",
       "tintColor" : "80A6F4",
@@ -58,7 +58,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8572,
-        "impressionCount" : 9333,
+        "impressionCount" : 9334,
         "viewCount" : 793
       },
       "subtitle" : "Multimedia player",
@@ -83,7 +83,7 @@
       ],
       "stats" : {
         "downloadCount" : 8689,
-        "impressionCount" : 9863,
+        "impressionCount" : 9864,
         "viewCount" : 730
       },
       "subtitle" : "Music streaming service",
@@ -112,7 +112,7 @@
       "sha256" : "f7cc7fb04d13f8a0adf9e41be58d07d2517f125e3b883629a344b5e11354d553",
       "stats" : {
         "downloadCount" : 3832,
-        "impressionCount" : 10246,
+        "impressionCount" : 10248,
         "viewCount" : 665
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -140,7 +140,7 @@
       ],
       "stats" : {
         "downloadCount" : 2673,
-        "impressionCount" : 7973,
+        "impressionCount" : 7974,
         "viewCount" : 481
       },
       "subtitle" : "Video game digital distribution service",
@@ -170,7 +170,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 261,
-        "impressionCount" : 6308,
+        "impressionCount" : 6311,
         "viewCount" : 502
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -196,7 +196,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 224,
-        "impressionCount" : 5461,
+        "impressionCount" : 5463,
         "viewCount" : 389
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -223,7 +223,7 @@
       "sha256" : "da2692e0b7d486e16288f4a36d68840239af7aec8cd1e0bcd2c7034c59c0c4e0",
       "stats" : {
         "downloadCount" : 117,
-        "impressionCount" : 4534,
+        "impressionCount" : 4536,
         "viewCount" : 383
       },
       "subtitle" : "File synchronizer",
@@ -254,7 +254,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4584,
+        "impressionCount" : 4587,
         "viewCount" : 355
       },
       "subtitle" : "Create DMGs and other archives",
@@ -276,13 +276,13 @@
       "sha256" : "13462738f9da5857b5ee00a9172c31bb9b87b35a4492d035b54bb842abca858c",
       "stats" : {
         "downloadCount" : 8372,
-        "impressionCount" : 4056,
+        "impressionCount" : 4059,
         "viewCount" : 280
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "DEDFDA",
       "version" : "4.29.149",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -299,7 +299,7 @@
       "sha256" : "2bd54babc6b27364e80c4c107ce1b40026662371f56c35e25b29fdebb2942b19",
       "stats" : {
         "downloadCount" : 6410,
-        "impressionCount" : 2897,
+        "impressionCount" : 2899,
         "viewCount" : 145
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -322,7 +322,7 @@
       "sha256" : "a25f3ec868fb5f8a18195c375f43f2060d90009274782b48026c60fcea894143",
       "stats" : {
         "downloadCount" : 5498,
-        "impressionCount" : 6056,
+        "impressionCount" : 6058,
         "viewCount" : 588
       },
       "subtitle" : "System monitor for the menu bar",
@@ -345,7 +345,7 @@
       "sha256" : "9548a5484efa8d0ecc8cd0c3f3f0eeda281ca8f75625b3be0ed00ce9bcb50fcf",
       "stats" : {
         "downloadCount" : 3282,
-        "impressionCount" : 2906,
+        "impressionCount" : 2908,
         "viewCount" : 218
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -368,7 +368,7 @@
       "sha256" : "ebcd964f791b59734559ba3859cd58ba354d36d51d59f13fda710197f057355b",
       "stats" : {
         "downloadCount" : 3077,
-        "impressionCount" : 2561,
+        "impressionCount" : 2562,
         "viewCount" : 145
       },
       "subtitle" : "Network protocol analyzer",
@@ -391,7 +391,7 @@
       "sha256" : "e58875dd6819c173c55fb6266317816498f50a87c35c47e80c26e5c1690f4142",
       "stats" : {
         "downloadCount" : 2609,
-        "impressionCount" : 3898,
+        "impressionCount" : 3899,
         "viewCount" : 174
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -414,7 +414,7 @@
       "sha256" : "58a3ee0c2d06fd710767e592dcbf3016b73a3e637a3032e40c4a15914e916624",
       "stats" : {
         "downloadCount" : 2282,
-        "impressionCount" : 4632,
+        "impressionCount" : 4634,
         "viewCount" : 440
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -437,7 +437,7 @@
       "sha256" : "2c4abf4af51ee95118ef2f121eb015a005385af6b15744c44eaec01911ca29bc",
       "stats" : {
         "downloadCount" : 2255,
-        "impressionCount" : 3863,
+        "impressionCount" : 3865,
         "viewCount" : 182
       },
       "subtitle" : "Web browser focusing on security",
@@ -460,7 +460,7 @@
       "sha256" : "dc06f15be81472f7420001e2d7fec464b0f6e7d2d6c05a27205ceba4e9488f29",
       "stats" : {
         "downloadCount" : 2189,
-        "impressionCount" : 2332,
+        "impressionCount" : 2334,
         "viewCount" : 69
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -486,7 +486,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1626,
-        "impressionCount" : 3966
+        "impressionCount" : 3968
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -523,7 +523,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1620,
-        "impressionCount" : 4128
+        "impressionCount" : 4130
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -544,7 +544,7 @@
       "sha256" : "16160a9f5e29426fa3c2083f1fd5962c629db9b28105ad0027faf4b427defe76",
       "stats" : {
         "downloadCount" : 1373,
-        "impressionCount" : 2843,
+        "impressionCount" : 2844,
         "viewCount" : 133
       },
       "subtitle" : "Customizable email client",
@@ -567,7 +567,7 @@
       "sha256" : "1e3eddc61fd9821ba3acd73d046cf1e5965da1a189b3f8ca99026166a3da55ab",
       "stats" : {
         "downloadCount" : 1293,
-        "impressionCount" : 3369,
+        "impressionCount" : 3371,
         "viewCount" : 198
       },
       "subtitle" : "Native GUI tool for relational databases",
@@ -590,7 +590,7 @@
       "sha256" : "766d5bf3b404ec567110a25de1d221290bc829302283b28ed0fbe73b9557f30c",
       "stats" : {
         "downloadCount" : 1048,
-        "impressionCount" : 2603,
+        "impressionCount" : 2604,
         "viewCount" : 133
       },
       "subtitle" : "Move and resize windows with ease",
@@ -634,7 +634,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 858,
-        "impressionCount" : 2310,
+        "impressionCount" : 2312,
         "viewCount" : 152
       },
       "subtitle" : "Application for inspecting installer packages",
@@ -703,7 +703,7 @@
       "sha256" : "7b34fd63c13e9e9ca4f87d548241ff9df9a266b554af23549efd7be006f387c6",
       "stats" : {
         "downloadCount" : 561,
-        "impressionCount" : 2216,
+        "impressionCount" : 2217,
         "viewCount" : 104
       },
       "subtitle" : "MySQL/MariaDB database management platform",
@@ -755,7 +755,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 4470
+        "impressionCount" : 4471
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -848,7 +848,7 @@
       "sha256" : "f6917ab0e41269d07acd93c75b25f3f429ad10ecd799802c7363cd026e82c0fe",
       "stats" : {
         "downloadCount" : 31920,
-        "impressionCount" : 2068
+        "impressionCount" : 2069
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -889,7 +889,7 @@
       "sha256" : "f270dac14cf355026268d2a5a00d903c5102b69e0d2db2a7e47142f7eb76e025",
       "stats" : {
         "downloadCount" : 8340,
-        "impressionCount" : 1096
+        "impressionCount" : 1097
       },
       "subtitle" : "Open-source version of the X.Org X Window System",
       "version" : "2.8.2"
@@ -908,7 +908,7 @@
       "sha256" : "b28d5e790ffb3efe09044d6b1438185889c89cbc02eb179f37f96fd72903441a",
       "stats" : {
         "downloadCount" : 2578,
-        "impressionCount" : 2666
+        "impressionCount" : 2668
       },
       "subtitle" : "Virtual machines UI using QEMU",
       "tintColor" : "5974D2",
@@ -929,7 +929,7 @@
       "sha256" : "9446452c552fef4ca62066de7d73de697c2fb0517a2093ec463525c0b9a51c88",
       "stats" : {
         "downloadCount" : 2322,
-        "impressionCount" : 1325
+        "impressionCount" : 1327
       },
       "subtitle" : "Graphical client for Git version control",
       "tintColor" : "2E5DE3",
@@ -948,7 +948,7 @@
       "name" : "TeamViewer",
       "stats" : {
         "downloadCount" : 2139,
-        "impressionCount" : 753
+        "impressionCount" : 755
       },
       "subtitle" : "Remote access and connectivity software focused on security",
       "tintColor" : "B5B0A3",
@@ -1049,7 +1049,7 @@
       "sha256" : "ad10795f36a2c0977ec8e278082f1f66624cc3b16f837dc72c0f1c063fefb4de",
       "stats" : {
         "downloadCount" : 831,
-        "impressionCount" : 829
+        "impressionCount" : 830
       },
       "tintColor" : "5DABD9",
       "version" : "2.7.1"
@@ -1516,7 +1516,7 @@
       "sha256" : "a833e6f9935fff78e5c342f13a66a0f69c6537ddf944ccb3e9f292ee5ace1e96",
       "stats" : {
         "downloadCount" : 236,
-        "impressionCount" : 1867
+        "impressionCount" : 1868
       },
       "subtitle" : "Cloud video conferencing",
       "tintColor" : "2C8FFE",
@@ -2426,7 +2426,7 @@
       "sha256" : "04b0b8080e904ed3d17b8e6526ad5e4342befa966866e7fb347d33e0e122039a",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 1262
+        "impressionCount" : 1264
       },
       "subtitle" : "Handwriting notetaking software",
       "tintColor" : "E5D8CE",
@@ -2446,7 +2446,7 @@
       "sha256" : "0959819d66810e092f9d5021536841cb04d7872f5737f2621dc1242ffc5340ea",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 1629
+        "impressionCount" : 1631
       },
       "subtitle" : "Messaging and calling application",
       "tintColor" : "E4F0F7",
@@ -2644,12 +2644,12 @@
       "sha256" : "752330ca27bc16156d5985940ebdd915f5350eed1563a27151a04dd80f919bd1",
       "stats" : {
         "downloadCount" : 78,
-        "impressionCount" : 636
+        "impressionCount" : 637
       },
       "subtitle" : "Web browser",
       "tintColor" : "23BAF6",
       "version" : "5.1",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3319,12 +3319,12 @@
       "sha256" : "110de287fabd3625776f97123c90ce741dc52b92f81969bc531b815dd7e24807",
       "stats" : {
         "downloadCount" : 51,
-        "impressionCount" : 440
+        "impressionCount" : 442
       },
       "subtitle" : "File syncing client",
       "tintColor" : "F8C679",
       "version" : "8.0.9",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3402,7 +3402,7 @@
       "sha256" : "0032867c2eb6885e1e1f3e24fe24f37fc5a12c3e995825f8eea5630eb8052860",
       "stats" : {
         "downloadCount" : 49,
-        "impressionCount" : 826
+        "impressionCount" : 828
       },
       "subtitle" : "Programs interactive stories, games, and animations",
       "tintColor" : "FBBA4B",
@@ -3968,7 +3968,7 @@
       "name" : "ShareMouse",
       "stats" : {
         "downloadCount" : 36,
-        "impressionCount" : 940
+        "impressionCount" : 942
       },
       "subtitle" : "Share peripherals between computers",
       "tintColor" : "CFCFCF",
@@ -4205,7 +4205,7 @@
       "name" : "TOPCAT",
       "stats" : {
         "downloadCount" : 32,
-        "impressionCount" : 740
+        "impressionCount" : 742
       },
       "subtitle" : "Interactive graphical viewer and editor for tabular data",
       "tintColor" : "9C9C07",
@@ -4228,8 +4228,8 @@
       },
       "subtitle" : "Online editor for Word, Excel and PPT documents",
       "tintColor" : "5D9AFE",
-      "version" : "2.3.22",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.3.25",
+      "versionDate" : "2022-11-15T04:43:15Z"
     },
     {
       "beta" : false,
@@ -4771,12 +4771,12 @@
       "sha256" : "487d4952d6e66dffe765a826a44ad714c3627c346a65b542976734350562d68e",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 817
+        "impressionCount" : 820
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
       "version" : "5.260.0.4372",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -5113,12 +5113,12 @@
       "sha256" : "ddd1d1ba55b3fb9248566b315b4c05da4dd4d6fb3a1410147b27e47f2fe3542f",
       "stats" : {
         "downloadCount" : 21,
-        "impressionCount" : 964
+        "impressionCount" : 966
       },
       "subtitle" : "Local-first personal knowledge management system",
       "tintColor" : "8A3C3E",
       "version" : "2.5.0",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6051,12 +6051,12 @@
       "sha256" : "ae3b75c4beca8ea2e201052ada529b2be62bc8e9f1b84796411561f5f6628adf",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 306
+        "impressionCount" : 308
       },
       "subtitle" : "Email client",
       "tintColor" : "E7ECF1",
       "version" : "1.5.1",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6152,7 +6152,7 @@
       "sha256" : "3dbe512d4e6dbb25c010917088bf23e868a5695089068098d70379a3f368be2e",
       "stats" : {
         "downloadCount" : 13,
-        "impressionCount" : 657
+        "impressionCount" : 658
       },
       "subtitle" : "Connectivity software for the TI-84 Plus family of graphing calculators",
       "tintColor" : "6EAB8C",
@@ -6287,7 +6287,7 @@
       "name" : "Nektony VSD Viewer",
       "stats" : {
         "downloadCount" : 12,
-        "impressionCount" : 950
+        "impressionCount" : 952
       },
       "subtitle" : "Preview .VSD, .VDX, .VSDX file formats of Visio drawings",
       "tintColor" : "86A2C9",
@@ -7282,7 +7282,7 @@
       "sha256" : "4903b84be837dd7333c49933591aa52f1c13aca3d095b762ff4ceecdedfeaadb",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 722
+        "impressionCount" : 724
       },
       "subtitle" : "VPN client: IPsec, L2TP, OpenVPN, PPTP, SSTP, SonicWALL/AnyConnect/Fortinet SSL",
       "tintColor" : "CBA87F",
@@ -7303,7 +7303,7 @@
       "sha256" : "86c0f5726d084ffa9abb6d60f9069f1e6c42cbe1aa04fcb2148f4b54ed96aa7d",
       "stats" : {
         "downloadCount" : 7,
-        "impressionCount" : 822
+        "impressionCount" : 825
       },
       "subtitle" : "Free open-source cross-platform bioinformatics software",
       "tintColor" : "4C5F67",
@@ -7619,7 +7619,7 @@
       "sha256" : "17fe52934f6e1eda80546f7a0045edc31e6555e47475cfda8c80bd6a8fdc619a",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 715
+        "impressionCount" : 716
       },
       "subtitle" : "Team communication and collaboration software",
       "tintColor" : "3EA7BB",
@@ -8070,7 +8070,7 @@
       "sha256" : "692b0c27a596d049dd64e158a543b768f7d4bd9df869b4365c9d8efc36b59b8e",
       "stats" : {
         "downloadCount" : 5,
-        "impressionCount" : 309
+        "impressionCount" : 310
       },
       "tintColor" : "668EB1",
       "version" : "1.1.0"
@@ -8403,7 +8403,7 @@
       "sha256" : "165045e6170fd17a8ef77bd3d75318594dd687b5f51255e5c63c318ab9250cfd",
       "stats" : {
         "downloadCount" : 4,
-        "impressionCount" : 634
+        "impressionCount" : 635
       },
       "subtitle" : "Client application for TimeCamp software - track time and change tasks",
       "tintColor" : "25CF60",
@@ -8874,12 +8874,12 @@
       "sha256" : "5f1fdf6d4067257a8f7b081102b54e0ec98bdbedcf12fd3c3b1709f612d8243b",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 800
+        "impressionCount" : 802
       },
       "subtitle" : "Helps to organize important files in one place",
       "tintColor" : "3D8BE4",
       "version" : "5.3.32,mD6rt6vOQd6czZDabkYK",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -8895,7 +8895,7 @@
       "sha256" : "b901b9e64f386d0b2ac4fa3ae6ee1345e8c226acd178e27a311355fbb87450b3",
       "stats" : {
         "downloadCount" : 3,
-        "impressionCount" : 888
+        "impressionCount" : 890
       },
       "subtitle" : "Messenger with powerful features for hybrid work",
       "tintColor" : "EDBBA4",
@@ -9201,7 +9201,7 @@
       "name" : "Nektony VSDX Annotator",
       "stats" : {
         "downloadCount" : 2,
-        "impressionCount" : 798
+        "impressionCount" : 799
       },
       "subtitle" : "Preview, edit and convert Visio drawings",
       "tintColor" : "E396A0",
@@ -10154,7 +10154,7 @@
       "sha256" : "5dc93387bc6026dd44dbf2f88c9bf7730d931663d5b72f382c0a51bc6c57517b",
       "stats" : {
         "downloadCount" : 1,
-        "impressionCount" : 661
+        "impressionCount" : 662
       },
       "subtitle" : "Drag and drop Spectacle editor",
       "tintColor" : "5A80C6",
@@ -10645,7 +10645,7 @@
       "sha256" : "a3a9971413e74091aafce45d7e054a8e70f692d5731acfc8cd585ca34dc97ead",
       "stats" : {
         "downloadCount" : 0,
-        "impressionCount" : 281
+        "impressionCount" : 282
       },
       "subtitle" : "SQL database design tool",
       "tintColor" : "C4D3C2",
@@ -11419,19 +11419,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.7.2-Beta.dmg",
+      "downloadURL" : "https://bitbucket.org/liule/snipaste/downloads/Snipaste-2.8-Beta.dmg",
       "homepage" : "https://www.snipaste.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-snipaste/AppIcon.png",
       "localizedDescription" : "Snip or pin screenshots",
       "name" : "Snipaste",
-      "sha256" : "3884fd991cf9aebc52307e19eb1a52dcf63af4a7ee017a8ca628bb922d2e9f27",
+      "sha256" : "67aa5e6c8b7abbfa154d33ba2ded91ddb0e325d0136c6067014697634676a66e",
       "stats" : {
         "downloadCount" : 220,
         "impressionCount" : 77
       },
       "subtitle" : "Snip or pin screenshots",
       "tintColor" : "AD9760",
-      "version" : "2.7.2-Beta"
+      "version" : "2.8-Beta",
+      "versionDate" : "2022-11-15T04:43:15Z"
     },
     {
       "beta" : false,
@@ -17430,7 +17431,7 @@
       },
       "subtitle" : "Tool to prevent the system from going into sleep mode",
       "version" : "1.6.4",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17633,7 +17634,7 @@
       },
       "subtitle" : "Penetration testing framework",
       "version" : "6.2.27,20221114112906",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19802,17 +19803,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "grammarly-desktop",
-      "downloadURL" : "https://download-mac.grammarly.com/versions/1.15.1.0/Grammarly.dmg",
+      "downloadURL" : "https://download-mac.grammarly.com/versions/1.15.1.1/Grammarly.dmg",
       "homepage" : "https://www.grammarly.com/desktop",
       "localizedDescription" : "Grammarly for desktop",
       "name" : "Grammarly Desktop",
-      "sha256" : "428d6c502d13240e1ce9f02876c1b00e46c025864685cdf131dd40e49f0bef35",
+      "sha256" : "780cc1a0c9724860034ed62484f71b77dc160c71552144d7ac8b99b8ddee2b52",
       "stats" : {
         "downloadCount" : 318
       },
       "subtitle" : "Grammarly for desktop",
-      "version" : "1.15.1.0",
-      "versionDate" : "2022-11-12T00:00:00Z"
+      "version" : "1.15.1.1",
+      "versionDate" : "2022-11-15T04:43:15Z"
     },
     {
       "beta" : false,
@@ -19850,16 +19851,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "beekeeper-studio",
-      "downloadURL" : "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.6.2/Beekeeper-Studio-3.6.2.dmg",
+      "downloadURL" : "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.7.4/Beekeeper-Studio-3.7.4.dmg",
       "homepage" : "https://www.beekeeperstudio.io/",
       "localizedDescription" : "Cross platform SQL editor and database management app",
       "name" : "Beekeeper Studio",
-      "sha256" : "cdbeb8c32e11cd9c76360e17e0692d95d548464fbb414cfc0a1a84d802624a6f",
+      "sha256" : "aa676d65bd9c622c6229c60070164260a68b35909bc07cbdafb16c06950e8cbe",
       "stats" : {
         "downloadCount" : 314
       },
       "subtitle" : "Cross platform SQL editor and database management app",
-      "version" : "3.6.2"
+      "version" : "3.7.4",
+      "versionDate" : "2022-11-15T04:43:15Z"
     },
     {
       "beta" : false,
@@ -21092,7 +21094,7 @@
       },
       "subtitle" : "Scientific and technical publishing system built on Pandoc",
       "version" : "1.2.269",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21596,8 +21598,8 @@
         "downloadCount" : 176
       },
       "subtitle" : "Track and update to the latest versions of installed software",
-      "version" : "2.3.1,14158",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.3.1,14190",
+      "versionDate" : "2022-11-15T04:43:15Z"
     },
     {
       "beta" : false,
@@ -22789,16 +22791,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "racket",
-      "downloadURL" : "https://mirror.racket-lang.org/installers/8.6/racket-8.6-x86_64-macosx-cs.dmg",
+      "downloadURL" : "https://mirror.racket-lang.org/installers/8.7/racket-8.7-x86_64-macosx-cs.dmg",
       "homepage" : "https://racket-lang.org/",
       "localizedDescription" : "Modern programming language in the Lisp/Scheme family",
       "name" : "Racket",
-      "sha256" : "10c5d35239fe4737cc643633f1802ae309b227c1a055f990d4cc0d76f3317b66",
+      "sha256" : "be418a90772b9a8b2dc3d8a3345ff445a4f50edeaceef574a356eb896c285521",
       "stats" : {
         "downloadCount" : 138
       },
       "subtitle" : "Modern programming language in the Lisp/Scheme family",
-      "version" : "8.6"
+      "version" : "8.7",
+      "versionDate" : "2022-11-15T04:43:15Z"
     },
     {
       "beta" : false,
@@ -23082,7 +23085,7 @@
       },
       "subtitle" : "Free video downloader",
       "version" : "4.22.1",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24245,7 +24248,7 @@
       },
       "subtitle" : "Play PC games and connect with your friends",
       "version" : "10.5.116.52122",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25547,7 +25550,7 @@
       },
       "subtitle" : "Hex editor for reverse engineers",
       "version" : "1.25.0",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25705,7 +25708,7 @@
       },
       "subtitle" : "Pap.er, 4K 5K HD Wallpaper Application",
       "version" : "5.1.8",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25720,7 +25723,7 @@
       },
       "subtitle" : "Centralizes all remote connections on a single platform",
       "version" : "2022.3.8.0",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29548,7 +29551,7 @@
       },
       "subtitle" : "Font editor",
       "version" : "3.1.1,3146",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -29711,7 +29714,7 @@
       },
       "subtitle" : "Organize all your reference images in one place",
       "version" : "3.0,26",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30280,7 +30283,7 @@
       },
       "subtitle" : "Framework used in the development of applications and games",
       "version" : "50.0.1.3",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -31873,7 +31876,7 @@
       },
       "subtitle" : "Catalogue of hi-res music for streaming and download",
       "version" : "6.1.3,011",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -32329,7 +32332,7 @@
       },
       "subtitle" : "Team messaging, video meetings, and business phone",
       "version" : "22.4.10",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34403,7 +34406,7 @@
       },
       "subtitle" : "Collection of small computer programs which implement one-player puzzle games",
       "version" : "20221114.a90bb4a",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34961,7 +34964,7 @@
       },
       "subtitle" : "Font manager that helps preview, install, sync and manage fonts",
       "version" : "6.3,3112",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35428,7 +35431,7 @@
       },
       "subtitle" : "Contact manager focusing on efficiency",
       "version" : "2022.4.3,2022-11-14-19-21",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -37529,7 +37532,7 @@
       },
       "subtitle" : "Collaborative presentation software",
       "version" : "1.100.0,stable.5,4878480",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -39006,7 +39009,7 @@
       },
       "subtitle" : "Game engine for development of desktop, mobile and web games",
       "version" : "1.4.0",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -41245,7 +41248,7 @@
       },
       "subtitle" : "Powerful runtime view debugging for iOS developers",
       "version" : "41,17801",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43943,7 +43946,7 @@
       },
       "subtitle" : "Open-source, cross-platform game engine designed to be used by everyone",
       "version" : "5.1.150",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46368,7 +46371,7 @@
       },
       "subtitle" : "Portal to download Ankama's PC games",
       "version" : "3.8.3",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -54240,7 +54243,7 @@
       },
       "subtitle" : "Instant messaging platform",
       "version" : "3.60.0",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -55219,7 +55222,7 @@
       },
       "subtitle" : "Word processor with markdown formatting and select themes",
       "version" : "2.0.48",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -56735,7 +56738,7 @@
       },
       "subtitle" : "Crypto wallet",
       "version" : "3.18.0",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59525,7 +59528,7 @@
       },
       "subtitle" : "Manage all your tasks, files, and notes",
       "version" : "10,20221114",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59823,7 +59826,7 @@
       },
       "subtitle" : "Read articles or text highlights distraction free",
       "version" : "0.41.0",
-      "versionDate" : "2022-11-15T02:18:35Z"
+      "versionDate" : "2022-11-15T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62348,48 +62351,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "holavpn",
-      "caption" : "Hola VPN updated from 2.76,1.203.708 to 2.77,1.204.171",
-      "date" : "2022-11-12T02:14:43Z",
-      "identifier" : "release-holavpn-2.77,1.204.171",
-      "title" : "New Release: Hola VPN 2.77,1.204.171"
-    },
-    {
-      "appID" : "catlight",
-      "caption" : "catlight updated from 2.39.2 to 2.39.3",
-      "date" : "2022-11-12T02:14:44Z",
-      "identifier" : "release-catlight-2.39.3",
-      "title" : "New Release: catlight 2.39.3"
-    },
-    {
-      "appID" : "kdocs",
-      "caption" : "金山文档 updated from 3.7.7,1001 to 3.7.9,1001",
-      "date" : "2022-11-12T02:14:44Z",
-      "identifier" : "release-kdocs-3.7.9,1001",
-      "title" : "New Release: 金山文档 3.7.9,1001"
-    },
-    {
-      "appID" : "mcreator",
-      "caption" : "MCreator updated from 2022.3.45616 to 2022.3.46416",
-      "date" : "2022-11-12T02:14:44Z",
-      "identifier" : "release-mcreator-2022.3.46416",
-      "title" : "New Release: MCreator 2022.3.46416"
-    },
-    {
-      "appID" : "weakauras-companion",
-      "caption" : "WeakAuras Companion updated from 4.0.9 to 4.1.0",
-      "date" : "2022-11-12T02:14:44Z",
-      "identifier" : "release-weakauras-companion-4.1.0",
-      "title" : "New Release: WeakAuras Companion 4.1.0"
-    },
-    {
-      "appID" : "openbci",
-      "caption" : "OpenBCI updated from 5.1.0,2022-05-27_17-35-19 to 5.1.0,2022-11-11_20-28-35",
-      "date" : "2022-11-12T02:14:44Z",
-      "identifier" : "release-openbci-5.1.0,2022-11-11_20-28-35",
-      "title" : "New Release: OpenBCI 5.1.0,2022-11-11_20-28-35"
-    },
-    {
       "appID" : "volley",
       "caption" : "Volley updated from 1.0.75 to 1.1.9",
       "date" : "2022-11-12T02:14:44Z",
@@ -63046,6 +63007,48 @@
       "date" : "2022-11-15T02:18:42Z",
       "identifier" : "release-quiet-reader-0.41.0",
       "title" : "New Release: Quiet Reader 0.41.0"
+    },
+    {
+      "appID" : "tencent-docs",
+      "caption" : "Tencent Docs updated from 2.3.22 to 2.3.25",
+      "date" : "2022-11-15T04:43:16Z",
+      "identifier" : "release-tencent-docs-2.3.25",
+      "title" : "New Release: Tencent Docs 2.3.25"
+    },
+    {
+      "appID" : "snipaste",
+      "caption" : "Snipaste updated from 2.7.2-Beta to 2.8-Beta",
+      "date" : "2022-11-15T04:43:16Z",
+      "identifier" : "release-snipaste-2.8-Beta",
+      "title" : "New Release: Snipaste 2.8-Beta"
+    },
+    {
+      "appID" : "grammarly-desktop",
+      "caption" : "Grammarly Desktop updated from 1.15.1.0 to 1.15.1.1",
+      "date" : "2022-11-15T04:43:16Z",
+      "identifier" : "release-grammarly-desktop-1.15.1.1",
+      "title" : "New Release: Grammarly Desktop 1.15.1.1"
+    },
+    {
+      "appID" : "beekeeper-studio",
+      "caption" : "Beekeeper Studio updated from 3.6.2 to 3.7.4",
+      "date" : "2022-11-15T04:43:16Z",
+      "identifier" : "release-beekeeper-studio-3.7.4",
+      "title" : "New Release: Beekeeper Studio 3.7.4"
+    },
+    {
+      "appID" : "macupdater",
+      "caption" : "MacUpdater updated from 2.3.1,14158 to 2.3.1,14190",
+      "date" : "2022-11-15T04:43:17Z",
+      "identifier" : "release-macupdater-2.3.1,14190",
+      "title" : "New Release: MacUpdater 2.3.1,14190"
+    },
+    {
+      "appID" : "racket",
+      "caption" : "Racket updated from 8.6 to 8.7",
+      "date" : "2022-11-15T04:43:17Z",
+      "identifier" : "release-racket-8.7",
+      "title" : "New Release: Racket 8.7"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

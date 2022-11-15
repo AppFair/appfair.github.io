@@ -437,7 +437,7 @@
       "sha256" : "2c4abf4af51ee95118ef2f121eb015a005385af6b15744c44eaec01911ca29bc",
       "stats" : {
         "downloadCount" : 2255,
-        "impressionCount" : 3865,
+        "impressionCount" : 3867,
         "viewCount" : 182
       },
       "subtitle" : "Web browser focusing on security",
@@ -5894,7 +5894,7 @@
       "sha256" : "ab2a6fd15c37e78c1571cf5fe0d2ce8d4bdb4cf05c44e3bd876ee098dfcf5497",
       "stats" : {
         "downloadCount" : 14,
-        "impressionCount" : 311
+        "impressionCount" : 312
       },
       "subtitle" : "Workspace organizing app",
       "tintColor" : "AA54C2",
@@ -14004,6 +14004,26 @@
       },
       "tintColor" : "2EBF51",
       "version" : "0.3.17"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "zettelkasten",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/Zettelkasten-Team/Zettelkasten/releases/download/v3.2022.8/Package.dmg.zip",
+      "homepage" : "http://zettelkasten.danielluedecke.de/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zettelkasten/AppIcon.png",
+      "localizedDescription" : "Note box according to Luhmann",
+      "name" : "Zettelkasten",
+      "sha256" : "62917c18dfd2dd2d8acd7d2ce4db6a4b036fc92a03877da108e85f8c5efcaeea",
+      "stats" : {
+        "downloadCount" : 7,
+        "impressionCount" : 102
+      },
+      "subtitle" : "Note box according to Luhmann",
+      "tintColor" : "C19314",
+      "version" : "3.2022.8"
     },
     {
       "beta" : false,
@@ -46062,20 +46082,6 @@
       },
       "subtitle" : "Weekly planner app focused on privacy",
       "version" : "1.9.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "zettelkasten",
-      "downloadURL" : "https://github.com/Zettelkasten-Team/Zettelkasten/releases/download/v3.2022.8/Package.dmg.zip",
-      "homepage" : "http://zettelkasten.danielluedecke.de/",
-      "localizedDescription" : "Note box according to Luhmann",
-      "name" : "Zettelkasten",
-      "sha256" : "62917c18dfd2dd2d8acd7d2ce4db6a4b036fc92a03877da108e85f8c5efcaeea",
-      "stats" : {
-        "downloadCount" : 7
-      },
-      "subtitle" : "Note box according to Luhmann",
-      "version" : "3.2022.8"
     },
     {
       "beta" : false,

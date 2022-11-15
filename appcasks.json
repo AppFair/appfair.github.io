@@ -2,6 +2,39 @@
   "apps" : [
     {
       "beta" : false,
+      "bundleIdentifier" : "signal",
+      "categories" : [
+        "public.app-category.social-networking"
+      ],
+      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.63.1.dmg",
+      "homepage" : "https://signal.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/AppIcon.png",
+      "localizedDescription" : "Instant messaging application focusing on security",
+      "name" : "Signal",
+      "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signal/README.md",
+      "screenshotURLs" : [
+        "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_01-mac-2030x1618.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_03-mac-1624x1624.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_02-mac-1624x1624.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_05-mac-1624x1624.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_04-mac-1624x1624.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_06-mac-1624x1624.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_07-mac-1624x1624.png",
+        "https://github.com/App-Fair/appcasks/releases/download/cask-signal/screenshot_08-mac-1958x1532.png"
+      ],
+      "sha256" : "0553aaeb6b4be00b5b1aba0efddbb3c7f5b6a61f8da80868ff93206f664e5147",
+      "stats" : {
+        "downloadCount" : 2279,
+        "impressionCount" : 11798,
+        "viewCount" : 1347
+      },
+      "subtitle" : "Instant messaging application focusing on security",
+      "tintColor" : "80A6F4",
+      "version" : "5.63.1",
+      "versionDate" : "2022-11-10T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "vlc",
       "categories" : [
         "public.app-category.video"
@@ -50,7 +83,7 @@
       ],
       "stats" : {
         "downloadCount" : 8689,
-        "impressionCount" : 9865,
+        "impressionCount" : 9866,
         "viewCount" : 730
       },
       "subtitle" : "Music streaming service",
@@ -904,21 +937,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "signal",
-      "downloadURL" : "https://updates.signal.org/desktop/signal-desktop-mac-x64-5.63.1.dmg",
-      "homepage" : "https://signal.org/",
-      "localizedDescription" : "Instant messaging application focusing on security",
-      "name" : "Signal",
-      "sha256" : "0553aaeb6b4be00b5b1aba0efddbb3c7f5b6a61f8da80868ff93206f664e5147",
-      "stats" : {
-        "downloadCount" : 2236
-      },
-      "subtitle" : "Instant messaging application focusing on security",
-      "version" : "5.63.1",
-      "versionDate" : "2022-11-10T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "teamviewer",
       "categories" : [
         "public.app-category.developer-tools"
@@ -1296,7 +1314,7 @@
       "sha256" : "5f23210321c9508d0a3e25d878d24f81ad820371eae03a46ffe031a45e65597e",
       "stats" : {
         "downloadCount" : 443,
-        "impressionCount" : 1018
+        "impressionCount" : 1020
       },
       "subtitle" : "Collection of apps available by subscription",
       "tintColor" : "DEE3D8",
@@ -1956,6 +1974,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "silentknight",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2022/11/silentknight203.zip",
+      "homepage" : "https://eclecticlight.co/lockrattler-systhist/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silentknight/AppIcon.png",
+      "localizedDescription" : "Automatically checks computer's security",
+      "name" : "SilentKnight",
+      "sha256" : "44cbf2a45c76bc9a4e6ad3b496de030a75a58edb787e2c3c3270137b5a21c542",
+      "stats" : {
+        "downloadCount" : 136,
+        "impressionCount" : 1104
+      },
+      "subtitle" : "Automatically checks computer's security",
+      "tintColor" : "618BA5",
+      "version" : "2.03,2022.11",
+      "versionDate" : "2022-11-05T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "ytmdesktop-youtube-music",
       "categories" : [
         "public.app-category.music"
@@ -2474,6 +2513,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "wifi-explorer",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://www.intuitibits.com/downloads/WiFiExplorer_3.4.dmg",
+      "homepage" : "https://www.intuitibits.com/products/wifi-explorer/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wifi-explorer/AppIcon.png",
+      "localizedDescription" : "Scan, monitor, and troubleshoot wireless networks",
+      "name" : "WiFi Explorer",
+      "sha256" : "0615def60f8c915dff5d350e202511faf5967f3665da3240e2df866c29cdb0ce",
+      "stats" : {
+        "downloadCount" : 89,
+        "impressionCount" : 808
+      },
+      "subtitle" : "Scan, monitor, and troubleshoot wireless networks",
+      "tintColor" : "EBBD48",
+      "version" : "3.4,53",
+      "versionDate" : "2022-11-08T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sensiblesidebuttons",
       "categories" : [
         "public.app-category.utilities"
@@ -2876,6 +2936,27 @@
       "subtitle" : "Video player and streaming platform",
       "tintColor" : "156CF7",
       "version" : "1.4.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "silicon",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/DigiDNA/Silicon/releases/download/1.0.5/Silicon.app.zip",
+      "homepage" : "https://github.com/DigiDNA/Silicon",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silicon/AppIcon.png",
+      "localizedDescription" : "Identify Intel-only apps",
+      "name" : "Silicon",
+      "sha256" : "f8f6acfdc8378bca0429d52e34d48275c22213617dbe09055798132921c10586",
+      "stats" : {
+        "downloadCount" : 65,
+        "impressionCount" : 1018
+      },
+      "subtitle" : "Identify Intel-only apps",
+      "tintColor" : "D3DBDD",
+      "version" : "1.0.5",
+      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3529,6 +3610,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "windows95",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://github.com/felixrieseberg/windows95/releases/download/v3.1.1/windows95-darwin-x64-3.1.1.zip",
+      "homepage" : "https://github.com/felixrieseberg/windows95",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-windows95/AppIcon.png",
+      "localizedDescription" : "Electron Windows 95",
+      "name" : "Windows 95",
+      "sha256" : "574198aa286094be84a1dab896d1a5d23a7f4173ec212bddcad3c9830a36fe31",
+      "stats" : {
+        "downloadCount" : 42,
+        "impressionCount" : 327
+      },
+      "subtitle" : "Electron Windows 95",
+      "tintColor" : "3E2F1E",
+      "version" : "3.1.1",
+      "versionDate" : "2022-10-18T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "unite",
       "categories" : [
         "public.app-category.utilities"
@@ -3992,6 +4094,26 @@
       "tintColor" : "9271C5",
       "version" : "70.2.0",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sim-daltonism",
+      "categories" : [
+        "public.app-category.graphics-design"
+      ],
+      "downloadURL" : "https://littoral.michelf.ca/apps/sim-daltonism/sim-daltonism-2.0.5.zip",
+      "homepage" : "https://michelf.ca/projects/mac/sim-daltonism/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sim-daltonism/AppIcon.png",
+      "localizedDescription" : "Color blindness simulator for videos and images",
+      "name" : "Sim Daltonism",
+      "sha256" : "f094aa0fbcd7b9b29c4a0af34f1e6b4789467946d3b1eadcacb1085fccb6da72",
+      "stats" : {
+        "downloadCount" : 34,
+        "impressionCount" : 740
+      },
+      "subtitle" : "Color blindness simulator for videos and images",
+      "tintColor" : "D1AF52",
+      "version" : "2.0.5"
     },
     {
       "beta" : false,
@@ -4649,7 +4771,7 @@
       "sha256" : "487d4952d6e66dffe765a826a44ad714c3627c346a65b542976734350562d68e",
       "stats" : {
         "downloadCount" : 24,
-        "impressionCount" : 821
+        "impressionCount" : 823
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
@@ -5000,6 +5122,46 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "wifispoof",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://sweetpproductions.com/products/wifispoof3/WiFiSpoof3.dmg",
+      "homepage" : "https://wifispoof.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wifispoof/AppIcon.png",
+      "localizedDescription" : "Change your computer's MAC address",
+      "name" : "WiFiSpoof",
+      "sha256" : "aad9f195108e1ab0329ebacc04d1c69a90a8ca1c08f28ee4ffe8d0ecf4312a3c",
+      "stats" : {
+        "downloadCount" : 20,
+        "impressionCount" : 320
+      },
+      "subtitle" : "Change your computer's MAC address",
+      "tintColor" : "7BCA8F",
+      "version" : "3.8.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "wifi-explorer-pro",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://www.intuitibits.com/downloads/WiFiExplorerPro_3.5.pkg",
+      "homepage" : "https://www.intuitibits.com/products/wifi-explorer/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-wifi-explorer-pro/AppIcon.png",
+      "localizedDescription" : "Scan, monitor, and troubleshoot wireless networks",
+      "name" : "WiFi Explorer Pro",
+      "sha256" : "c8810ec7172587aea0b62c7c5fa339d170182d0218af59508fdb297ec64aa653",
+      "stats" : {
+        "downloadCount" : 20,
+        "impressionCount" : 207
+      },
+      "subtitle" : "Scan, monitor, and troubleshoot wireless networks",
+      "tintColor" : "E4BB52",
+      "version" : "3.5,28"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "whatroute",
       "categories" : [
         "public.app-category.utilities"
@@ -5076,6 +5238,26 @@
       "subtitle" : "Database management tool",
       "tintColor" : "E5E0DE",
       "version" : "2022.77"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "silicon-info",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://github.com/billycastelli/Silicon-Info/releases/download/1.0.3/Silicon.Info.app.zip",
+      "homepage" : "https://github.com/billycastelli/Silicon-Info",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-silicon-info/AppIcon.png",
+      "localizedDescription" : "View the architecture of the running application",
+      "name" : "Silicon Info",
+      "sha256" : "ada6ba4665e2aa2973e2faef59f312cc82ae689505236c4c2d412bc3ae18d0f9",
+      "stats" : {
+        "downloadCount" : 20,
+        "impressionCount" : 378
+      },
+      "subtitle" : "View the architecture of the running application",
+      "tintColor" : "C7C3C3",
+      "version" : "1.0.3"
     },
     {
       "beta" : false,
@@ -6710,6 +6892,26 @@
       "subtitle" : "Desktop client for Salesforce.com platform",
       "tintColor" : "A95E56",
       "version" : "4.4"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sim-genie",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://d1b3av25dd6jdq.cloudfront.net/releases/macos/SimGenie.2022.3.292.zip",
+      "homepage" : "https://simgenie.app/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sim-genie/AppIcon.png",
+      "localizedDescription" : "Easier access to Xcode Simulator functionality",
+      "name" : "Sim Genie",
+      "sha256" : "8454d4a869728cc19bb14e21be685f51ac23ee3967d037ecb9bd3504853070d7",
+      "stats" : {
+        "downloadCount" : 9,
+        "impressionCount" : 337
+      },
+      "subtitle" : "Easier access to Xcode Simulator functionality",
+      "tintColor" : "6680BA",
+      "version" : "2022.3,292"
     },
     {
       "beta" : false,
@@ -9338,6 +9540,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "simpholders",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://simpholders.com/site/assets/files/2366/simpholders_3_0_12.dmg",
+      "homepage" : "https://simpholders.com/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-simpholders/AppIcon.png",
+      "name" : "SimPholders",
+      "sha256" : "0f74633bd6bd9723063af0be550364882b93fbb5cd67bac6e2066083174e5f0d",
+      "stats" : {
+        "downloadCount" : 2,
+        "impressionCount" : 239
+      },
+      "tintColor" : "ABCC62",
+      "version" : "3.0.12,2366"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sia-ui",
       "categories" : [
         "public.app-category.developer-tools"
@@ -9979,6 +10199,26 @@
       "subtitle" : "Video converter",
       "tintColor" : "73B3CE",
       "version" : "3.1.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "signet",
+      "categories" : [
+        "public.app-category.utilities"
+      ],
+      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2020/09/signet13.zip",
+      "homepage" : "https://eclecticlight.co/taccy-signet-precize-alifix-utiutility-alisma/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-signet/AppIcon.png",
+      "localizedDescription" : "Scans and checks bundle signatures",
+      "name" : "Signet",
+      "sha256" : "ea48e77577e46848d5a3861782ddaaf05a725e6a4f14802ee29bc20bd88aeb50",
+      "stats" : {
+        "downloadCount" : 1,
+        "impressionCount" : 202
+      },
+      "subtitle" : "Scans and checks bundle signatures",
+      "tintColor" : "A7AD9D",
+      "version" : "1.3,2020.09"
     },
     {
       "beta" : false,
@@ -13571,6 +13811,27 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "widelands",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://github.com/widelands/widelands/releases/download/v1.1/Widelands-1.1-MacOS11.dmg",
+      "homepage" : "https://www.widelands.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-widelands/AppIcon.png",
+      "localizedDescription" : "Free real-time strategy game like Settlers II",
+      "name" : "Widelands",
+      "sha256" : "d31b8532a1d506d9b8ac39988479da0919ed43a87b4ef8d4f001734fb98c8120",
+      "stats" : {
+        "downloadCount" : 9,
+        "impressionCount" : 122
+      },
+      "subtitle" : "Free real-time strategy game like Settlers II",
+      "tintColor" : "394024",
+      "version" : "1.1",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "virtual-ii",
       "categories" : [
 
@@ -13743,26 +14004,6 @@
       },
       "tintColor" : "2EBF51",
       "version" : "0.3.17"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "zettelkasten",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/Zettelkasten-Team/Zettelkasten/releases/download/v3.2022.8/Package.dmg.zip",
-      "homepage" : "http://zettelkasten.danielluedecke.de/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-zettelkasten/AppIcon.png",
-      "localizedDescription" : "Note box according to Luhmann",
-      "name" : "Zettelkasten",
-      "sha256" : "62917c18dfd2dd2d8acd7d2ce4db6a4b036fc92a03877da108e85f8c5efcaeea",
-      "stats" : {
-        "downloadCount" : 7,
-        "impressionCount" : 102
-      },
-      "subtitle" : "Note box according to Luhmann",
-      "tintColor" : "C19314",
-      "version" : "3.2022.8"
     },
     {
       "beta" : false,
@@ -14611,6 +14852,23 @@
       },
       "tintColor" : "438F71",
       "version" : "8.0.2.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "window-switch",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://xpra.org/dists/osx/x86/Window-Switch.dmg",
+      "homepage" : "https://xpra.org/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-window-switch/AppIcon.png",
+      "name" : "Window Switch",
+      "stats" : {
+        "downloadCount" : 2,
+        "impressionCount" : 107
+      },
+      "tintColor" : "646BD2",
+      "version" : "0.12"
     },
     {
       "beta" : false,
@@ -22768,21 +23026,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "silentknight",
-      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2022/11/silentknight203.zip",
-      "homepage" : "https://eclecticlight.co/lockrattler-systhist/",
-      "localizedDescription" : "Automatically checks computer's security",
-      "name" : "SilentKnight",
-      "sha256" : "44cbf2a45c76bc9a4e6ad3b496de030a75a58edb787e2c3c3270137b5a21c542",
-      "stats" : {
-        "downloadCount" : 132
-      },
-      "subtitle" : "Automatically checks computer's security",
-      "version" : "2.03,2022.11",
-      "versionDate" : "2022-11-05T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "lyx",
       "downloadURL" : "https://ftp.lip6.fr/pub/lyx/bin/2.3.6/LyX-2.3.6.2+qt5-12-x86_64-cocoa.dmg",
       "homepage" : "https://www.lyx.org/",
@@ -24907,21 +25150,6 @@
       "subtitle" : "CLI to create, run, and deploy Slack apps",
       "version" : "1.15.0",
       "versionDate" : "2022-11-04T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "wifi-explorer",
-      "downloadURL" : "https://www.intuitibits.com/downloads/WiFiExplorer_3.4.dmg",
-      "homepage" : "https://www.intuitibits.com/products/wifi-explorer/",
-      "localizedDescription" : "Scan, monitor, and troubleshoot wireless networks",
-      "name" : "WiFi Explorer",
-      "sha256" : "0615def60f8c915dff5d350e202511faf5967f3665da3240e2df866c29cdb0ce",
-      "stats" : {
-        "downloadCount" : 85
-      },
-      "subtitle" : "Scan, monitor, and troubleshoot wireless networks",
-      "version" : "3.4,53",
-      "versionDate" : "2022-11-08T00:00:00Z"
     },
     {
       "beta" : false,
@@ -28297,21 +28525,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "silicon",
-      "downloadURL" : "https://github.com/DigiDNA/Silicon/releases/download/1.0.5/Silicon.app.zip",
-      "homepage" : "https://github.com/DigiDNA/Silicon",
-      "localizedDescription" : "Identify Intel-only apps",
-      "name" : "Silicon",
-      "sha256" : "f8f6acfdc8378bca0429d52e34d48275c22213617dbe09055798132921c10586",
-      "stats" : {
-        "downloadCount" : 47
-      },
-      "subtitle" : "Identify Intel-only apps",
-      "version" : "1.0.5",
-      "versionDate" : "2022-11-04T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "steamcmd",
       "categories" : [
 
@@ -29390,21 +29603,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "windows95",
-      "downloadURL" : "https://github.com/felixrieseberg/windows95/releases/download/v3.1.1/windows95-darwin-x64-3.1.1.zip",
-      "homepage" : "https://github.com/felixrieseberg/windows95",
-      "localizedDescription" : "Electron Windows 95",
-      "name" : "Windows 95",
-      "sha256" : "574198aa286094be84a1dab896d1a5d23a7f4173ec212bddcad3c9830a36fe31",
-      "stats" : {
-        "downloadCount" : 41
-      },
-      "subtitle" : "Electron Windows 95",
-      "version" : "3.1.1",
-      "versionDate" : "2022-10-18T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "adguard-vpn",
       "downloadURL" : "https://static.adguard-vpn.com/mac/release/AdGuardVPN-1.2.3.208.dmg",
       "homepage" : "https://adguard-vpn.com/",
@@ -29648,6 +29846,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "silnite",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2022/10/silnite9.zip",
+      "homepage" : "https://eclecticlight.co/lockrattler-systhist/",
+      "localizedDescription" : "Checks EFI firmware and security data file updates",
+      "name" : "silnite",
+      "sha256" : "2622c7f4b382bf830f8dc884d4cb2a6cb676212b9b212c6c0dd87324e753f7c0",
+      "stats" : {
+        "downloadCount" : 38
+      },
+      "subtitle" : "Checks EFI firmware and security data file updates",
+      "version" : "9,2022.10",
+      "versionDate" : "2022-10-18T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "amitv87-pip",
       "downloadURL" : "https://github.com/amitv87/PiP/releases/download/v2.40/PiP-2.40.dmg",
       "homepage" : "https://github.com/amitv87/PiP",
@@ -29838,21 +30054,6 @@
       },
       "subtitle" : "PSP emulator",
       "version" : "1.13.2"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "silnite",
-      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2022/10/silnite9.zip",
-      "homepage" : "https://eclecticlight.co/lockrattler-systhist/",
-      "localizedDescription" : "Checks EFI firmware and security data file updates",
-      "name" : "silnite",
-      "sha256" : "2622c7f4b382bf830f8dc884d4cb2a6cb676212b9b212c6c0dd87324e753f7c0",
-      "stats" : {
-        "downloadCount" : 38
-      },
-      "subtitle" : "Checks EFI firmware and security data file updates",
-      "version" : "9,2022.10",
-      "versionDate" : "2022-10-18T00:00:00Z"
     },
     {
       "beta" : false,
@@ -30753,20 +30954,6 @@
       "subtitle" : "Batch file renamer application",
       "version" : "6.1.0,61000",
       "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "sim-daltonism",
-      "downloadURL" : "https://littoral.michelf.ca/apps/sim-daltonism/sim-daltonism-2.0.5.zip",
-      "homepage" : "https://michelf.ca/projects/mac/sim-daltonism/",
-      "localizedDescription" : "Color blindness simulator for videos and images",
-      "name" : "Sim Daltonism",
-      "sha256" : "f094aa0fbcd7b9b29c4a0af34f1e6b4789467946d3b1eadcacb1085fccb6da72",
-      "stats" : {
-        "downloadCount" : 34
-      },
-      "subtitle" : "Color blindness simulator for videos and images",
-      "version" : "2.0.5"
     },
     {
       "beta" : false,
@@ -35123,20 +35310,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "wifispoof",
-      "downloadURL" : "https://sweetpproductions.com/products/wifispoof3/WiFiSpoof3.dmg",
-      "homepage" : "https://wifispoof.com/",
-      "localizedDescription" : "Change your computer's MAC address",
-      "name" : "WiFiSpoof",
-      "sha256" : "aad9f195108e1ab0329ebacc04d1c69a90a8ca1c08f28ee4ffe8d0ecf4312a3c",
-      "stats" : {
-        "downloadCount" : 20
-      },
-      "subtitle" : "Change your computer's MAC address",
-      "version" : "3.8.5"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "vb-cable",
       "categories" : [
 
@@ -35756,34 +35929,6 @@
       },
       "subtitle" : "Chess toolkit",
       "version" : "4.23"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "silicon-info",
-      "downloadURL" : "https://github.com/billycastelli/Silicon-Info/releases/download/1.0.3/Silicon.Info.app.zip",
-      "homepage" : "https://github.com/billycastelli/Silicon-Info",
-      "localizedDescription" : "View the architecture of the running application",
-      "name" : "Silicon Info",
-      "sha256" : "ada6ba4665e2aa2973e2faef59f312cc82ae689505236c4c2d412bc3ae18d0f9",
-      "stats" : {
-        "downloadCount" : 19
-      },
-      "subtitle" : "View the architecture of the running application",
-      "version" : "1.0.3"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "wifi-explorer-pro",
-      "downloadURL" : "https://www.intuitibits.com/downloads/WiFiExplorerPro_3.5.pkg",
-      "homepage" : "https://www.intuitibits.com/products/wifi-explorer/",
-      "localizedDescription" : "Scan, monitor, and troubleshoot wireless networks",
-      "name" : "WiFi Explorer Pro",
-      "sha256" : "c8810ec7172587aea0b62c7c5fa339d170182d0218af59508fdb297ec64aa653",
-      "stats" : {
-        "downloadCount" : 19
-      },
-      "subtitle" : "Scan, monitor, and troubleshoot wireless networks",
-      "version" : "3.5,28"
     },
     {
       "beta" : false,
@@ -40208,6 +40353,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "winclone",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://twocanoes-software-updates.s3.amazonaws.com/Winclone10.dmg",
+      "homepage" : "https://twocanoes.com/products/mac/winclone",
+      "localizedDescription" : "Boot Camp cloning and backup solution",
+      "name" : "Winclone",
+      "sha256" : "e7f5f5d5370d9a4bbfaffb034a8c3b38823d98621126adbcfbd76a29cffeb53b",
+      "stats" : {
+        "downloadCount" : 11
+      },
+      "subtitle" : "Boot Camp cloning and backup solution",
+      "version" : "10.2,50072",
+      "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "typinator",
       "categories" : [
 
@@ -41066,21 +41229,6 @@
       "subtitle" : "Powerful runtime view debugging for iOS developers",
       "version" : "41,17801",
       "versionDate" : "2022-11-15T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "winclone",
-      "downloadURL" : "https://twocanoes-software-updates.s3.amazonaws.com/Winclone10.dmg",
-      "homepage" : "https://twocanoes.com/products/mac/winclone",
-      "localizedDescription" : "Boot Camp cloning and backup solution",
-      "name" : "Winclone",
-      "sha256" : "e7f5f5d5370d9a4bbfaffb034a8c3b38823d98621126adbcfbd76a29cffeb53b",
-      "stats" : {
-        "downloadCount" : 11
-      },
-      "subtitle" : "Boot Camp cloning and backup solution",
-      "version" : "10.2,50072",
-      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -43147,21 +43295,6 @@
       },
       "subtitle" : "Eliminate noise in your images",
       "version" : "3.7.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "widelands",
-      "downloadURL" : "https://github.com/widelands/widelands/releases/download/v1.1/Widelands-1.1-MacOS11.dmg",
-      "homepage" : "https://www.widelands.org/",
-      "localizedDescription" : "Free real-time strategy game like Settlers II",
-      "name" : "Widelands",
-      "sha256" : "d31b8532a1d506d9b8ac39988479da0919ed43a87b4ef8d4f001734fb98c8120",
-      "stats" : {
-        "downloadCount" : 9
-      },
-      "subtitle" : "Free real-time strategy game like Settlers II",
-      "version" : "1.1",
       "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
@@ -45903,20 +46036,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sim-genie",
-      "downloadURL" : "https://d1b3av25dd6jdq.cloudfront.net/releases/macos/SimGenie.2022.3.292.zip",
-      "homepage" : "https://simgenie.app/",
-      "localizedDescription" : "Easier access to Xcode Simulator functionality",
-      "name" : "Sim Genie",
-      "sha256" : "8454d4a869728cc19bb14e21be685f51ac23ee3967d037ecb9bd3504853070d7",
-      "stats" : {
-        "downloadCount" : 7
-      },
-      "subtitle" : "Easier access to Xcode Simulator functionality",
-      "version" : "2022.3,292"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "squash",
       "downloadURL" : "https://dl.devant-cdn.io/v1/app/4ad73d1f-7ab7-4f7f-b9df-8d2d906ef718/Squash-896.zip/Squash.zip",
       "homepage" : "https://www.realmacsoftware.com/squash/",
@@ -45943,6 +46062,20 @@
       },
       "subtitle" : "Weekly planner app focused on privacy",
       "version" : "1.9.0"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "zettelkasten",
+      "downloadURL" : "https://github.com/Zettelkasten-Team/Zettelkasten/releases/download/v3.2022.8/Package.dmg.zip",
+      "homepage" : "http://zettelkasten.danielluedecke.de/",
+      "localizedDescription" : "Note box according to Luhmann",
+      "name" : "Zettelkasten",
+      "sha256" : "62917c18dfd2dd2d8acd7d2ce4db6a4b036fc92a03877da108e85f8c5efcaeea",
+      "stats" : {
+        "downloadCount" : 7
+      },
+      "subtitle" : "Note box according to Luhmann",
+      "version" : "3.2022.8"
     },
     {
       "beta" : false,
@@ -57145,18 +57278,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "simpholders",
-      "downloadURL" : "https://simpholders.com/site/assets/files/2366/simpholders_3_0_12.dmg",
-      "homepage" : "https://simpholders.com/",
-      "name" : "SimPholders",
-      "sha256" : "0f74633bd6bd9723063af0be550364882b93fbb5cd67bac6e2066083174e5f0d",
-      "stats" : {
-        "downloadCount" : 2
-      },
-      "version" : "3.0.12,2366"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "tqsl",
       "downloadURL" : "https://www.arrl.org/tqsl/tqsl-2.6.5.pkg",
       "homepage" : "https://www.arrl.org/tqsl-download",
@@ -57196,17 +57317,6 @@
       },
       "subtitle" : "External level editor for VVVVVV",
       "version" : "1.10.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "window-switch",
-      "downloadURL" : "https://xpra.org/dists/osx/x86/Window-Switch.dmg",
-      "homepage" : "https://xpra.org/",
-      "name" : "Window Switch",
-      "stats" : {
-        "downloadCount" : 2
-      },
-      "version" : "0.12"
     },
     {
       "beta" : false,
@@ -57507,6 +57617,24 @@
       },
       "subtitle" : "Diagramming app",
       "version" : "4.0.28"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "silo",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://nevercenter.com/silo/download/filearchive/Install_Silo_2023_00_mac.dmg",
+      "homepage" : "https://nevercenter.com/silo/",
+      "localizedDescription" : "3D polygonal modeler and UV mapper",
+      "name" : "Silo",
+      "sha256" : "a46416e77d56c0ed0cf922d96a992310bda26a70bc803b9110ead828e062452f",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "3D polygonal modeler and UV mapper",
+      "version" : "2023.0.0",
+      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -59870,35 +59998,6 @@
       },
       "subtitle" : "3D reconstruction of Apple Retail Stores on their opening days",
       "version" : "1.0.1"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "signet",
-      "downloadURL" : "https://eclecticlightdotcom.files.wordpress.com/2020/09/signet13.zip",
-      "homepage" : "https://eclecticlight.co/taccy-signet-precize-alifix-utiutility-alisma/",
-      "localizedDescription" : "Scans and checks bundle signatures",
-      "name" : "Signet",
-      "sha256" : "ea48e77577e46848d5a3861782ddaaf05a725e6a4f14802ee29bc20bd88aeb50",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "subtitle" : "Scans and checks bundle signatures",
-      "version" : "1.3,2020.09"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "silo",
-      "downloadURL" : "https://nevercenter.com/silo/download/filearchive/Install_Silo_2023_00_mac.dmg",
-      "homepage" : "https://nevercenter.com/silo/",
-      "localizedDescription" : "3D polygonal modeler and UV mapper",
-      "name" : "Silo",
-      "sha256" : "a46416e77d56c0ed0cf922d96a992310bda26a70bc803b9110ead828e062452f",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "subtitle" : "3D polygonal modeler and UV mapper",
-      "version" : "2023.0.0",
-      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,

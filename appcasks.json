@@ -2173,26 +2173,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sloth",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://sveinbjorn.org/files/software/sloth/sloth-3.2.zip",
-      "homepage" : "https://sveinbjorn.org/sloth",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sloth/AppIcon.png",
-      "localizedDescription" : "Displays all open files and sockets in use by all running processes",
-      "name" : "Sloth",
-      "sha256" : "f3fc7c23bebd57c906c6cb43b975d468cb46be0d379f6be1acabe66a5b52212a",
-      "stats" : {
-        "downloadCount" : 120,
-        "impressionCount" : 581
-      },
-      "subtitle" : "Displays all open files and sockets in use by all running processes",
-      "tintColor" : "E59112",
-      "version" : "3.2,300"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "yesplaymusic",
       "categories" : [
         "public.app-category.music"
@@ -2369,27 +2349,6 @@
       "subtitle" : "Web browser",
       "tintColor" : "EACCCC",
       "version" : "22.11.0",
-      "versionDate" : "2022-11-12T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "smartgit",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://www.syntevo.com/downloads/smartgit/smartgit-x86_64-22_1_0.dmg",
-      "homepage" : "https://www.syntevo.com/smartgit/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smartgit/AppIcon.png",
-      "localizedDescription" : "Git client",
-      "name" : "SmartGit",
-      "sha256" : "a6bbaaf0b89a2723c68c601203d7a317e23a50a2d3f311d742fc5f32679c4af2",
-      "stats" : {
-        "downloadCount" : 99,
-        "impressionCount" : 535
-      },
-      "subtitle" : "Git client",
-      "tintColor" : "DADAE7",
-      "version" : "22.1.0",
       "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
@@ -2957,26 +2916,6 @@
       "tintColor" : "D3DBDD",
       "version" : "1.0.5",
       "versionDate" : "2022-11-04T00:00:00Z"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "smartsvn",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://www.smartsvn.com/downloads/smartsvn/smartsvn-x86_64-14_2_1.dmg",
-      "homepage" : "https://www.smartsvn.com/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smartsvn/AppIcon.png",
-      "localizedDescription" : "Subversion client",
-      "name" : "SmartSVN",
-      "sha256" : "65be0f560c929e4ba747bb09778ea4ad6b104477d81c226459909905846df0c0",
-      "stats" : {
-        "downloadCount" : 63,
-        "impressionCount" : 424
-      },
-      "subtitle" : "Subversion client",
-      "tintColor" : "D9DFE3",
-      "version" : "14.2.1"
     },
     {
       "beta" : false,
@@ -4077,26 +4016,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "sizzy",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://proxy.sizzy.co/updates/download/mac?arch=intel",
-      "homepage" : "https://sizzy.co/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sizzy/AppIcon.png",
-      "localizedDescription" : "Tool to simulate responsive designs on multiple devices",
-      "name" : "Sizzy",
-      "stats" : {
-        "downloadCount" : 34,
-        "impressionCount" : 540
-      },
-      "subtitle" : "Tool to simulate responsive designs on multiple devices",
-      "tintColor" : "9271C5",
-      "version" : "70.2.0",
-      "versionDate" : "2022-10-28T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "sim-daltonism",
       "categories" : [
         "public.app-category.graphics-design"
@@ -4114,6 +4033,26 @@
       "subtitle" : "Color blindness simulator for videos and images",
       "tintColor" : "D1AF52",
       "version" : "2.0.5"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "sizzy",
+      "categories" : [
+        "public.app-category.developer-tools"
+      ],
+      "downloadURL" : "https://proxy.sizzy.co/updates/download/mac?arch=intel",
+      "homepage" : "https://sizzy.co/",
+      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sizzy/AppIcon.png",
+      "localizedDescription" : "Tool to simulate responsive designs on multiple devices",
+      "name" : "Sizzy",
+      "stats" : {
+        "downloadCount" : 34,
+        "impressionCount" : 540
+      },
+      "subtitle" : "Tool to simulate responsive designs on multiple devices",
+      "tintColor" : "9271C5",
+      "version" : "70.2.0",
+      "versionDate" : "2022-10-28T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4152,25 +4091,6 @@
       },
       "tintColor" : "3F4651",
       "version" : "0.7.0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "smoothscroll",
-      "categories" : [
-        "public.app-category.productivity"
-      ],
-      "downloadURL" : "https://www.smoothscroll.net/mac/download/SmoothScroll.app.zip",
-      "homepage" : "https://www.smoothscroll.net/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smoothscroll/AppIcon.png",
-      "localizedDescription" : "Smooth mouse scrolling utility",
-      "name" : "SmoothScroll",
-      "stats" : {
-        "downloadCount" : 33,
-        "impressionCount" : 347
-      },
-      "subtitle" : "Smooth mouse scrolling utility",
-      "tintColor" : "EBF8E6",
-      "version" : "1.5.7,10507.1"
     },
     {
       "beta" : false,
@@ -8137,26 +8057,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "smartsynchronize",
-      "categories" : [
-        "public.app-category.developer-tools"
-      ],
-      "downloadURL" : "https://www.syntevo.com/downloads/smartsynchronize/smartsynchronize-x86_64-4_3_1.dmg",
-      "homepage" : "https://www.syntevo.com/smartsynchronize/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smartsynchronize/AppIcon.png",
-      "localizedDescription" : "File and directory compare tool",
-      "name" : "SmartSynchronize",
-      "sha256" : "a35c74d2f0965a4471888bde7e962569f85bd62a6707dd6ab0dff4e99265a287",
-      "stats" : {
-        "downloadCount" : 5,
-        "impressionCount" : 280
-      },
-      "subtitle" : "File and directory compare tool",
-      "tintColor" : "E7E0D8",
-      "version" : "4.3.1"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "simplefloatingclock",
       "categories" : [
         "public.app-category.utilities"
@@ -8566,26 +8466,6 @@
       "subtitle" : "Delete local Time Machine backups",
       "tintColor" : "A78C68",
       "version" : "0.6"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "smartreporter-free",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "https://www.corecode.io/downloads/smartreporter_3.2.0.zip",
-      "homepage" : "https://www.corecode.io/smartreporter/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smartreporter-free/AppIcon.png",
-      "localizedDescription" : "Drive failure monitoring tool",
-      "name" : "SMARTReporter Free",
-      "sha256" : "5e22b45fea538245d2100b77d45180e3ff978a473e81a8e624bd497a94adefce",
-      "stats" : {
-        "downloadCount" : 4,
-        "impressionCount" : 234
-      },
-      "subtitle" : "Drive failure monitoring tool",
-      "tintColor" : "708E74",
-      "version" : "3.2.0,2576"
     },
     {
       "beta" : false,
@@ -10182,26 +10062,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "smart-converter-pro",
-      "categories" : [
-        "public.app-category.video"
-      ],
-      "downloadURL" : "https://download.shedworx.com/scp3/SmartConverterPro-3.1.2.dmg",
-      "homepage" : "https://shedworx.com/smart-converter-pro",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smart-converter-pro/AppIcon.png",
-      "localizedDescription" : "Video converter",
-      "name" : "Smart Converter Pro",
-      "sha256" : "c3f92558e1d3b6f6311288c1d480a3f7c11be21262ac477a936aaff0a406eb68",
-      "stats" : {
-        "downloadCount" : 1,
-        "impressionCount" : 408
-      },
-      "subtitle" : "Video converter",
-      "tintColor" : "73B3CE",
-      "version" : "3.1.2"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "signet",
       "categories" : [
         "public.app-category.utilities"
@@ -11392,26 +11252,6 @@
       "subtitle" : "Apache distribution containing MySQL, PHP, and Perl",
       "tintColor" : "B27C65",
       "version" : "8.1.6-0"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "smcfancontrol",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://github.com/hholtmann/smcFanControl/releases/download/2.6/smcfancontrol_2_6.zip",
-      "homepage" : "https://github.com/hholtmann/smcFanControl",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-smcfancontrol/AppIcon.png",
-      "localizedDescription" : "Sets a minimum speed for built-in fans",
-      "name" : "smcFanControl",
-      "sha256" : "7662058e618537eb466307e3b12e540b857e61392646a5b09df51bec9ad6da38",
-      "stats" : {
-        "downloadCount" : 225,
-        "impressionCount" : 76
-      },
-      "subtitle" : "Sets a minimum speed for built-in fans",
-      "tintColor" : "6F644B",
-      "version" : "2.6"
     },
     {
       "beta" : false,
@@ -20716,6 +20556,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "smcfancontrol",
+      "downloadURL" : "https://github.com/hholtmann/smcFanControl/releases/download/2.6/smcfancontrol_2_6.zip",
+      "homepage" : "https://github.com/hholtmann/smcFanControl",
+      "localizedDescription" : "Sets a minimum speed for built-in fans",
+      "name" : "smcFanControl",
+      "sha256" : "7662058e618537eb466307e3b12e540b857e61392646a5b09df51bec9ad6da38",
+      "stats" : {
+        "downloadCount" : 225
+      },
+      "subtitle" : "Sets a minimum speed for built-in fans",
+      "version" : "2.6"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "arc",
       "downloadURL" : "https://releases.arc.net/release/Arc-0.76.0-35707.zip",
       "homepage" : "https://arc.net/",
@@ -21197,23 +21051,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "smlnj",
-      "categories" : [
-
-      ],
-      "downloadURL" : "http://smlnj.cs.uchicago.edu/dist/working/110.99.3/smlnj-amd64-110.99.3.pkg",
-      "homepage" : "https://www.smlnj.org/",
-      "localizedDescription" : "Compiler for the Standard ML '97 programming language",
-      "name" : "Standard ML of New Jersey",
-      "sha256" : "f874cff64458dc4009c836719dfe270906884c2106d486a0a56efeeff3966e46",
-      "stats" : {
-        "downloadCount" : 190
-      },
-      "subtitle" : "Compiler for the Standard ML '97 programming language",
-      "version" : "110.99.3"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "geany",
       "downloadURL" : "https://download.geany.org/geany-1.38_osx-4.dmg",
       "homepage" : "https://www.geany.org/",
@@ -21240,6 +21077,20 @@
       "subtitle" : "Document editor",
       "version" : "7.2.1",
       "versionDate" : "2022-10-28T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "smlnj",
+      "downloadURL" : "http://smlnj.cs.uchicago.edu/dist/working/110.99.3/smlnj-amd64-110.99.3.pkg",
+      "homepage" : "https://www.smlnj.org/",
+      "localizedDescription" : "Compiler for the Standard ML '97 programming language",
+      "name" : "Standard ML of New Jersey",
+      "sha256" : "f874cff64458dc4009c836719dfe270906884c2106d486a0a56efeeff3966e46",
+      "stats" : {
+        "downloadCount" : 190
+      },
+      "subtitle" : "Compiler for the Standard ML '97 programming language",
+      "version" : "110.99.3"
     },
     {
       "beta" : false,
@@ -23484,6 +23335,20 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "sloth",
+      "downloadURL" : "https://sveinbjorn.org/files/software/sloth/sloth-3.2.zip",
+      "homepage" : "https://sveinbjorn.org/sloth",
+      "localizedDescription" : "Displays all open files and sockets in use by all running processes",
+      "name" : "Sloth",
+      "sha256" : "f3fc7c23bebd57c906c6cb43b975d468cb46be0d379f6be1acabe66a5b52212a",
+      "stats" : {
+        "downloadCount" : 118
+      },
+      "subtitle" : "Displays all open files and sockets in use by all running processes",
+      "version" : "3.2,300"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "betterdiscord-installer",
       "downloadURL" : "https://github.com/BetterDiscord/Installer/releases/download/v1.1.2/BetterDiscord-Mac.zip",
       "homepage" : "https://betterdiscord.app/",
@@ -24509,6 +24374,21 @@
       "subtitle" : "OpenCore EFI bootloader configuration helper",
       "version" : "2.63.1.0",
       "versionDate" : "2022-11-11T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "smartgit",
+      "downloadURL" : "https://www.syntevo.com/downloads/smartgit/smartgit-x86_64-22_1_0.dmg",
+      "homepage" : "https://www.syntevo.com/smartgit/",
+      "localizedDescription" : "Git client",
+      "name" : "SmartGit",
+      "sha256" : "a6bbaaf0b89a2723c68c601203d7a317e23a50a2d3f311d742fc5f32679c4af2",
+      "stats" : {
+        "downloadCount" : 99
+      },
+      "subtitle" : "Git client",
+      "version" : "22.1.0",
+      "versionDate" : "2022-11-12T00:00:00Z"
     },
     {
       "beta" : false,
@@ -25698,17 +25578,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "paper",
-      "downloadURL" : "https://s3.nsns.in/dl/paper-v5.1.8.dmg",
+      "downloadURL" : "https://s3.nsns.in/dl/paper-v5.1.9.dmg",
       "homepage" : "https://paper.photos/",
       "localizedDescription" : "Pap.er, 4K 5K HD Wallpaper Application",
       "name" : "pap.er",
-      "sha256" : "e8c40ad230b78be686ccf8efcac3731c3567fb7c82dbe4fee2df0d0c80d54534",
+      "sha256" : "5b22c760262cfb41be40d867ccc92470c7808d4d3c752009d1c190db5eb179cf",
       "stats" : {
         "downloadCount" : 77
       },
       "subtitle" : "Pap.er, 4K 5K HD Wallpaper Application",
-      "version" : "5.1.8",
-      "versionDate" : "2022-11-15T00:00:00Z"
+      "version" : "5.1.9",
+      "versionDate" : "2022-11-15T11:30:17Z"
     },
     {
       "beta" : false,
@@ -26738,6 +26618,20 @@
       },
       "subtitle" : "Home media player",
       "version" : "2.58.0.1076-38e019da"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "smartsvn",
+      "downloadURL" : "https://www.smartsvn.com/downloads/smartsvn/smartsvn-x86_64-14_2_1.dmg",
+      "homepage" : "https://www.smartsvn.com/",
+      "localizedDescription" : "Subversion client",
+      "name" : "SmartSVN",
+      "sha256" : "65be0f560c929e4ba747bb09778ea4ad6b104477d81c226459909905846df0c0",
+      "stats" : {
+        "downloadCount" : 63
+      },
+      "subtitle" : "Subversion client",
+      "version" : "14.2.1"
     },
     {
       "beta" : false,
@@ -31132,6 +31026,19 @@
       "subtitle" : "Binary newsreader",
       "version" : "3.7.0",
       "versionDate" : "2022-11-04T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "smoothscroll",
+      "downloadURL" : "https://www.smoothscroll.net/mac/download/SmoothScroll.app.zip",
+      "homepage" : "https://www.smoothscroll.net/",
+      "localizedDescription" : "Smooth mouse scrolling utility",
+      "name" : "SmoothScroll",
+      "stats" : {
+        "downloadCount" : 33
+      },
+      "subtitle" : "Smooth mouse scrolling utility",
+      "version" : "1.5.7,10507.1"
     },
     {
       "beta" : false,
@@ -46274,24 +46181,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "slite",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://download.todesktop.com/20062929x31pwfi/Slite%201.2.16-x64-mac.zip",
-      "homepage" : "https://slite.com/",
-      "localizedDescription" : "Team communication and collaboration software",
-      "name" : "Slite",
-      "sha256" : "7de3fe3355bd657ba9513169f08526a4e8bb6306686f468d91de4ad4a2d0da62",
-      "stats" : {
-        "downloadCount" : 6
-      },
-      "subtitle" : "Team communication and collaboration software",
-      "version" : "1.2.16",
-      "versionDate" : "2022-11-07T00:00:00Z"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "simplistic",
       "categories" : [
 
@@ -47840,6 +47729,21 @@
       "subtitle" : "Matrix client based on Element with a more traditional IM experience",
       "version" : "1.11.13-sc.1",
       "versionDate" : "2022-11-06T00:00:00Z"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "slite",
+      "downloadURL" : "https://download.todesktop.com/20062929x31pwfi/Slite%201.2.16-x64-mac.zip",
+      "homepage" : "https://slite.com/",
+      "localizedDescription" : "Team communication and collaboration software",
+      "name" : "Slite",
+      "sha256" : "7de3fe3355bd657ba9513169f08526a4e8bb6306686f468d91de4ad4a2d0da62",
+      "stats" : {
+        "downloadCount" : 6
+      },
+      "subtitle" : "Team communication and collaboration software",
+      "version" : "1.2.16",
+      "versionDate" : "2022-11-07T00:00:00Z"
     },
     {
       "beta" : false,
@@ -49744,6 +49648,20 @@
       },
       "subtitle" : "Creative toolkit powered by machine learning",
       "version" : "0.19.2"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "smartsynchronize",
+      "downloadURL" : "https://www.syntevo.com/downloads/smartsynchronize/smartsynchronize-x86_64-4_3_1.dmg",
+      "homepage" : "https://www.syntevo.com/smartsynchronize/",
+      "localizedDescription" : "File and directory compare tool",
+      "name" : "SmartSynchronize",
+      "sha256" : "a35c74d2f0965a4471888bde7e962569f85bd62a6707dd6ab0dff4e99265a287",
+      "stats" : {
+        "downloadCount" : 5
+      },
+      "subtitle" : "File and directory compare tool",
+      "version" : "4.3.1"
     },
     {
       "beta" : false,
@@ -51847,6 +51765,20 @@
       },
       "subtitle" : "Video conferencing, screen sharing, and team messaging platform",
       "version" : "latest"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "smartreporter-free",
+      "downloadURL" : "https://www.corecode.io/downloads/smartreporter_3.2.0.zip",
+      "homepage" : "https://www.corecode.io/smartreporter/",
+      "localizedDescription" : "Drive failure monitoring tool",
+      "name" : "SMARTReporter Free",
+      "sha256" : "5e22b45fea538245d2100b77d45180e3ff978a473e81a8e624bd497a94adefce",
+      "stats" : {
+        "downloadCount" : 4
+      },
+      "subtitle" : "Drive failure monitoring tool",
+      "version" : "3.2.0,2576"
     },
     {
       "beta" : false,
@@ -57575,6 +57507,24 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "silo",
+      "categories" : [
+
+      ],
+      "downloadURL" : "https://nevercenter.com/silo/download/filearchive/Install_Silo_2023_00_mac.dmg",
+      "homepage" : "https://nevercenter.com/silo/",
+      "localizedDescription" : "3D polygonal modeler and UV mapper",
+      "name" : "Silo",
+      "sha256" : "a46416e77d56c0ed0cf922d96a992310bda26a70bc803b9110ead828e062452f",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "3D polygonal modeler and UV mapper",
+      "version" : "2023.0.0",
+      "versionDate" : "2022-11-04T00:00:00Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "sketchup",
       "categories" : [
 
@@ -57623,24 +57573,6 @@
       },
       "subtitle" : "Diagramming app",
       "version" : "4.0.28"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "silo",
-      "categories" : [
-
-      ],
-      "downloadURL" : "https://nevercenter.com/silo/download/filearchive/Install_Silo_2023_00_mac.dmg",
-      "homepage" : "https://nevercenter.com/silo/",
-      "localizedDescription" : "3D polygonal modeler and UV mapper",
-      "name" : "Silo",
-      "sha256" : "a46416e77d56c0ed0cf922d96a992310bda26a70bc803b9110ead828e062452f",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "subtitle" : "3D polygonal modeler and UV mapper",
-      "version" : "2023.0.0",
-      "versionDate" : "2022-11-04T00:00:00Z"
     },
     {
       "beta" : false,
@@ -60004,6 +59936,20 @@
       },
       "subtitle" : "3D reconstruction of Apple Retail Stores on their opening days",
       "version" : "1.0.1"
+    },
+    {
+      "beta" : false,
+      "bundleIdentifier" : "smart-converter-pro",
+      "downloadURL" : "https://download.shedworx.com/scp3/SmartConverterPro-3.1.2.dmg",
+      "homepage" : "https://shedworx.com/smart-converter-pro",
+      "localizedDescription" : "Video converter",
+      "name" : "Smart Converter Pro",
+      "sha256" : "c3f92558e1d3b6f6311288c1d480a3f7c11be21262ac477a936aaff0a406eb68",
+      "stats" : {
+        "downloadCount" : 1
+      },
+      "subtitle" : "Video converter",
+      "version" : "3.1.2"
     },
     {
       "beta" : false,
@@ -62876,13 +62822,6 @@
       "title" : "New Release: Remote Desktop Manager 2022.3.8.0"
     },
     {
-      "appID" : "paper",
-      "caption" : "pap.er updated from 5.1.7 to 5.1.8",
-      "date" : "2022-11-15T02:18:39Z",
-      "identifier" : "release-paper-5.1.8",
-      "title" : "New Release: pap.er 5.1.8"
-    },
-    {
       "appID" : "glyphs",
       "caption" : "Glyphs updated from 3.1.1,3145 to 3.1.1,3146",
       "date" : "2022-11-15T02:18:39Z",
@@ -63049,6 +62988,13 @@
       "date" : "2022-11-15T04:43:17Z",
       "identifier" : "release-racket-8.7",
       "title" : "New Release: Racket 8.7"
+    },
+    {
+      "appID" : "paper",
+      "caption" : "pap.er updated from 5.1.8 to 5.1.9",
+      "date" : "2022-11-15T11:30:18Z",
+      "identifier" : "release-paper-5.1.9",
+      "title" : "New Release: pap.er 5.1.9"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

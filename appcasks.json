@@ -1091,8 +1091,8 @@
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
-      "version" : "3.6.0.18,24191",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "3.6.1.17,24205",
+      "versionDate" : "2022-11-16T07:32:43Z"
     },
     {
       "beta" : false,
@@ -1683,7 +1683,7 @@
       "subtitle" : "To-do & task list manager",
       "tintColor" : "E8E9F0",
       "version" : "4.3.20,239",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -3224,7 +3224,7 @@
       "subtitle" : "Web browser",
       "tintColor" : "333744",
       "version" : "1.0.0.9",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -17360,7 +17360,7 @@
       },
       "subtitle" : "Command-line tools for building and debugging Android apps",
       "version" : "9123335",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -19661,7 +19661,7 @@
       },
       "subtitle" : "Cross platform SQL editor and database management app",
       "version" : "3.7.9",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -23868,7 +23868,7 @@
       },
       "subtitle" : "Music player",
       "version" : "5.30.370-rc.0",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24114,7 +24114,7 @@
       },
       "subtitle" : "Open-source image processing package",
       "version" : "20221115-2117",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35407,7 +35407,7 @@
       },
       "subtitle" : "Doing phonetics by computer",
       "version" : "6.3,6300",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35799,7 +35799,7 @@
       },
       "subtitle" : "Open-source node-graph based video compositing software",
       "version" : "2.4.4",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -38151,7 +38151,7 @@
       },
       "subtitle" : "Organize your ideas and projects into visual boards",
       "version" : "3.3.20",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -47234,7 +47234,7 @@
       },
       "subtitle" : "Real-time earthquake monitoring software for Japan",
       "version" : "1.8.3",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62047,7 +62047,7 @@
       },
       "subtitle" : "HTTP client that helps testing and describing APIs",
       "version" : "4.0.0,4000000007",
-      "versionDate" : "2022-11-16T06:39:53Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62359,13 +62359,6 @@
   "identifier" : "net.appfair.appcasks",
   "name" : "Homebrew Casks",
   "news" : [
-    {
-      "appID" : "keka",
-      "caption" : "Keka updated from 1.2.57 to 1.2.58",
-      "date" : "2022-11-15T13:04:11Z",
-      "identifier" : "release-keka-1.2.58",
-      "title" : "New Release: Keka 1.2.58"
-    },
     {
       "appID" : "stats",
       "caption" : "Stats updated from 2.7.43 to 2.7.44",
@@ -63058,6 +63051,13 @@
       "date" : "2022-11-16T06:39:56Z",
       "identifier" : "release-rapidapi-4.0.0,4000000007",
       "title" : "New Release: RapidAPI 4.0.0,4000000007"
+    },
+    {
+      "appID" : "wechat",
+      "caption" : "WeChat for Mac updated from 3.6.0.18,24191 to 3.6.1.17,24205",
+      "date" : "2022-11-16T07:32:44Z",
+      "identifier" : "release-wechat-3.6.1.17,24205",
+      "title" : "New Release: WeChat for Mac 3.6.1.17,24205"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

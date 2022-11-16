@@ -1670,20 +1670,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.3.10_238.dmg",
+      "downloadURL" : "https://appest-public.s3.amazonaws.com/download/mac/TickTick_4.3.20_239.dmg",
       "homepage" : "https://www.ticktick.com/home",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-ticktick/AppIcon.png",
       "localizedDescription" : "To-do & task list manager",
       "name" : "TickTick",
-      "sha256" : "03f769576fcf575eb6f96fb645a22e399c2daff9ff4d60b3126453a884f8b2a8",
+      "sha256" : "9aab2844f3fc743c8be1a3e17c6acd4679850e9d9a2dba1ef5b97cb9f5438572",
       "stats" : {
         "downloadCount" : 208,
         "impressionCount" : 937
       },
       "subtitle" : "To-do & task list manager",
       "tintColor" : "E8E9F0",
-      "version" : "4.3.10,238",
-      "versionDate" : "2022-10-31T00:00:00Z"
+      "version" : "4.3.20,239",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -3211,20 +3211,20 @@
       "categories" : [
         "public.app-category.productivity"
       ],
-      "downloadURL" : "https://releases.sigmaos.com/SigmaOS-1.0.0.8.dmg",
+      "downloadURL" : "https://releases.sigmaos.com/SigmaOS-1.0.0.9.dmg",
       "homepage" : "https://sigmaos.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-sigmaos/AppIcon.png",
       "localizedDescription" : "Web browser",
       "name" : "sigmaos",
-      "sha256" : "ee28078ae7edc551e7ca60de087edde6d72ae722b60cbd7c325a2349a5bf343a",
+      "sha256" : "a59886a6e64657026f2fe1b939aa9141f4fd7952d7782f7edd159a7a640f741c",
       "stats" : {
         "downloadCount" : 54,
         "impressionCount" : 817
       },
       "subtitle" : "Web browser",
       "tintColor" : "333744",
-      "version" : "1.0.0.8",
-      "versionDate" : "2022-11-16T00:00:00Z"
+      "version" : "1.0.0.9",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -7760,26 +7760,6 @@
       "subtitle" : "App to edit markdown files in place",
       "tintColor" : "D1D3DC",
       "version" : "1.4.0,65"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "subnetcalc",
-      "categories" : [
-        "public.app-category.utilities"
-      ],
-      "downloadURL" : "http://subnetcalc.free.fr/download/subnetcalc-2.5.dmg",
-      "homepage" : "http://subnetcalc.free.fr/",
-      "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-subnetcalc/AppIcon.png",
-      "localizedDescription" : "Tool to calculate IP subnets",
-      "name" : "SubnectCalc",
-      "sha256" : "4a8c6f05cab779340acd566659327506a0793db9c24b55f320dfca4c53bd0f23",
-      "stats" : {
-        "downloadCount" : 6,
-        "impressionCount" : 219
-      },
-      "subtitle" : "Tool to calculate IP subnets",
-      "tintColor" : "A2BFCB",
-      "version" : "2.5"
     },
     {
       "beta" : false,
@@ -17370,16 +17350,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "android-commandlinetools",
-      "downloadURL" : "https://dl.google.com/android/repository/commandlinetools-mac-8512546_latest.zip",
+      "downloadURL" : "https://dl.google.com/android/repository/commandlinetools-mac-9123335_latest.zip",
       "homepage" : "https://developer.android.com/studio",
       "localizedDescription" : "Command-line tools for building and debugging Android apps",
       "name" : "Android SDK Command-line Tools",
-      "sha256" : "f810107f9e8907edc83859eb2560a62e9c3c87f2d1ae4a3d517f80234fff3f11",
+      "sha256" : "d0192807f7e1cd4a001d13bb1e5904fc287b691211648877258aa44d1fa88275",
       "stats" : {
         "downloadCount" : 948
       },
       "subtitle" : "Command-line tools for building and debugging Android apps",
-      "version" : "8512546"
+      "version" : "9123335",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -19670,17 +19651,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "beekeeper-studio",
-      "downloadURL" : "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.7.4/Beekeeper-Studio-3.7.4.dmg",
+      "downloadURL" : "https://github.com/beekeeper-studio/beekeeper-studio/releases/download/v3.7.9/Beekeeper-Studio-3.7.9.dmg",
       "homepage" : "https://www.beekeeperstudio.io/",
       "localizedDescription" : "Cross platform SQL editor and database management app",
       "name" : "Beekeeper Studio",
-      "sha256" : "aa676d65bd9c622c6229c60070164260a68b35909bc07cbdafb16c06950e8cbe",
+      "sha256" : "7285c6f611417007d0c3d8e564e16b23e7ffc9c467512c816f4147d51e7b3743",
       "stats" : {
         "downloadCount" : 340
       },
       "subtitle" : "Cross platform SQL editor and database management app",
-      "version" : "3.7.4",
-      "versionDate" : "2022-11-15T00:00:00Z"
+      "version" : "3.7.9",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -23877,17 +23858,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "deezer",
-      "downloadURL" : "https://www.deezer.com/desktop/download/artifact/darwin/x64/5.30.360",
+      "downloadURL" : "https://www.deezer.com/desktop/download/artifact/darwin/x64/5.30.370-rc.0",
       "homepage" : "https://www.deezer.com/download",
       "localizedDescription" : "Music player",
       "name" : "Deezer",
-      "sha256" : "29ee10643b998ea8330e8374b45500da2f109f2a0053e2c1db18082289642e6f",
+      "sha256" : "3b3cd805573f1e7d69734456115e3e72b923c40507d233e3f97d78867c16a29a",
       "stats" : {
         "downloadCount" : 110
       },
       "subtitle" : "Music player",
-      "version" : "5.30.360",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "5.30.370-rc.0",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -24123,17 +24104,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "fiji",
-      "downloadURL" : "https://downloads.imagej.net/fiji/archive/20221111-1317/fiji-macosx.zip",
+      "downloadURL" : "https://downloads.imagej.net/fiji/archive/20221115-2117/fiji-macosx.zip",
       "homepage" : "https://fiji.sc/",
       "localizedDescription" : "Open-source image processing package",
       "name" : "Fiji",
-      "sha256" : "c41d1ca9b4f192b75ed1e40f57a810f890c12cce13bbc87f90d9921fa71219d7",
+      "sha256" : "d03c895acfb690c1a94b094bd5851be30466ab7647fec6e0e51effcbf13d6797",
       "stats" : {
         "downloadCount" : 106
       },
       "subtitle" : "Open-source image processing package",
-      "version" : "20221111-1317",
-      "versionDate" : "2022-11-12T00:00:00Z"
+      "version" : "20221115-2117",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -35416,16 +35397,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "praat",
-      "downloadURL" : "https://github.com/praat/praat/releases/download/v6.2.23/praat6223_mac.dmg",
+      "downloadURL" : "https://github.com/praat/praat/releases/download/v6.3/praat6300_mac.dmg",
       "homepage" : "https://www.fon.hum.uva.nl/praat/",
       "localizedDescription" : "Doing phonetics by computer",
       "name" : "Praat",
-      "sha256" : "5dcf08d7d89e1dd64a32eefe04cd305e776285edf2699030ea0a424d21406736",
+      "sha256" : "4230b6945a0fb90af66bb7168749202d3dfeb94e2b11cdff38ba646755fc1783",
       "stats" : {
         "downloadCount" : 20
       },
       "subtitle" : "Doing phonetics by computer",
-      "version" : "6.2.23"
+      "version" : "6.3,6300",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -35807,16 +35789,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "natron",
-      "downloadURL" : "https://github.com/NatronGitHub/Natron/releases/download/v2.4.3/Natron-2.4.3-macOS12-x86_64.dmg",
+      "downloadURL" : "https://github.com/NatronGitHub/Natron/releases/download/v2.4.4/Natron-2.4.4-macOS12-x86_64.dmg",
       "homepage" : "https://NatronGitHub.github.io/",
       "localizedDescription" : "Open-source node-graph based video compositing software",
       "name" : "Natron",
-      "sha256" : "7b4e6aac31e507f9be3eb38468fbcc5dd9b2bdbcb4b2de4a4fca67346da5bb20",
+      "sha256" : "798fa4bbf3027070dcfcef725e218c1c1e9c7d0967055a326fae0b1bfa544e88",
       "stats" : {
         "downloadCount" : 19
       },
       "subtitle" : "Open-source node-graph based video compositing software",
-      "version" : "2.4.3"
+      "version" : "2.4.4",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -38158,17 +38141,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "milanote",
-      "downloadURL" : "https://milanote-app-releases.s3.amazonaws.com/Milanote-3.3.19.dmg",
+      "downloadURL" : "https://milanote-app-releases.s3.amazonaws.com/Milanote-3.3.20.dmg",
       "homepage" : "https://www.milanote.com/",
       "localizedDescription" : "Organize your ideas and projects into visual boards",
       "name" : "Milanote",
-      "sha256" : "572a61f52d4508b34a0db211a3a2f5d47e2849c350ec5c45c156d1d6b58c6601",
+      "sha256" : "7c5347a6b82c8b176afd32ac58c880a2202586984bf288edd58715f96c005244",
       "stats" : {
         "downloadCount" : 15
       },
       "subtitle" : "Organize your ideas and projects into visual boards",
-      "version" : "3.3.19",
-      "versionDate" : "2022-11-16T00:00:00Z"
+      "version" : "3.3.20",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -41544,20 +41527,6 @@
       },
       "subtitle" : "Configuration and network monitoring software",
       "version" : "5.2.0.185"
-    },
-    {
-      "beta" : false,
-      "bundleIdentifier" : "diskwave",
-      "downloadURL" : "https://diskwave.barthe.ph/download/DiskWave_0.4-3.dmg",
-      "homepage" : "https://diskwave.barthe.ph/",
-      "localizedDescription" : "Utility to determine what files and folders consume the most disk space",
-      "name" : "DiskWave",
-      "sha256" : "733ac81464bf66928e6e6eb59bb7f2c15e32ff38694c42a0fa7808a1a4a7a295",
-      "stats" : {
-        "downloadCount" : 10
-      },
-      "subtitle" : "Utility to determine what files and folders consume the most disk space",
-      "version" : "0.4-3"
     },
     {
       "beta" : false,
@@ -47255,17 +47224,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "jquake",
-      "downloadURL" : "https://fleneindre.github.io/downloads/JQuake_1.8.2_mac_intel.dmg",
+      "downloadURL" : "https://fleneindre.github.io/downloads/JQuake_1.8.3_mac_intel.dmg",
       "homepage" : "https://jquake.net/",
       "localizedDescription" : "Real-time earthquake monitoring software for Japan",
       "name" : "JQuake",
-      "sha256" : "a36be6dddd8cc4ffa9154bdd6a2ef2d964d0edeec80ca90f0e093e3c0ca18498",
+      "sha256" : "cd9c9fbe4222d4489a67159da27cabfa38ddffe1eb5ddda406b69dd964d7398f",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "Real-time earthquake monitoring software for Japan",
-      "version" : "1.8.2",
-      "versionDate" : "2022-11-08T00:00:00Z"
+      "version" : "1.8.3",
+      "versionDate" : "2022-11-16T06:39:53Z"
     },
     {
       "beta" : false,
@@ -62067,6 +62036,21 @@
     },
     {
       "beta" : false,
+      "bundleIdentifier" : "rapidapi",
+      "downloadURL" : "https://cdn-builds.paw.cloud/paw/RapidAPI-4.0.0.zip",
+      "homepage" : "https://paw.cloud/",
+      "localizedDescription" : "HTTP client that helps testing and describing APIs",
+      "name" : "RapidAPI",
+      "sha256" : "581f0a769247c0b7ba633fe4c5f4b6cb647014d6f400a8bcd5e9ff8ca6fbab9d",
+      "stats" : {
+        "downloadCount" : 0
+      },
+      "subtitle" : "HTTP client that helps testing and describing APIs",
+      "version" : "4.0.0,4000000007",
+      "versionDate" : "2022-11-16T06:39:53Z"
+    },
+    {
+      "beta" : false,
       "bundleIdentifier" : "recut",
       "downloadURL" : "https://updates.getrecut.com/Recut-2.1.7.dmg",
       "homepage" : "https://getrecut.com/",
@@ -62376,69 +62360,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "popo",
-      "caption" : "NetEase POPO updated from 3.59.1 to 3.60.0",
-      "date" : "2022-11-15T02:18:41Z",
-      "identifier" : "release-popo-3.60.0",
-      "title" : "New Release: NetEase POPO 3.60.0"
-    },
-    {
-      "appID" : "calmly-writer",
-      "caption" : "Calmly Writer updated from 2.0.47 to 2.0.48",
-      "date" : "2022-11-15T02:18:41Z",
-      "identifier" : "release-calmly-writer-2.0.48",
-      "title" : "New Release: Calmly Writer 2.0.48"
-    },
-    {
-      "appID" : "pagico",
-      "caption" : "Pagico updated from 10,20221024 to 10,20221114",
-      "date" : "2022-11-15T02:18:41Z",
-      "identifier" : "release-pagico-10,20221114",
-      "title" : "New Release: Pagico 10,20221114"
-    },
-    {
-      "appID" : "quiet-reader",
-      "caption" : "Quiet Reader 0.41.0 released",
-      "date" : "2022-11-15T02:18:42Z",
-      "identifier" : "release-quiet-reader-0.41.0",
-      "title" : "New Release: Quiet Reader 0.41.0"
-    },
-    {
-      "appID" : "tencent-docs",
-      "caption" : "Tencent Docs updated from 2.3.22 to 2.3.25",
-      "date" : "2022-11-15T04:43:16Z",
-      "identifier" : "release-tencent-docs-2.3.25",
-      "title" : "New Release: Tencent Docs 2.3.25"
-    },
-    {
-      "appID" : "grammarly-desktop",
-      "caption" : "Grammarly Desktop updated from 1.15.1.0 to 1.15.1.1",
-      "date" : "2022-11-15T04:43:16Z",
-      "identifier" : "release-grammarly-desktop-1.15.1.1",
-      "title" : "New Release: Grammarly Desktop 1.15.1.1"
-    },
-    {
-      "appID" : "beekeeper-studio",
-      "caption" : "Beekeeper Studio updated from 3.6.2 to 3.7.4",
-      "date" : "2022-11-15T04:43:16Z",
-      "identifier" : "release-beekeeper-studio-3.7.4",
-      "title" : "New Release: Beekeeper Studio 3.7.4"
-    },
-    {
-      "appID" : "racket",
-      "caption" : "Racket updated from 8.6 to 8.7",
-      "date" : "2022-11-15T04:43:17Z",
-      "identifier" : "release-racket-8.7",
-      "title" : "New Release: Racket 8.7"
-    },
-    {
-      "appID" : "paper",
-      "caption" : "pap.er updated from 5.1.8 to 5.1.9",
-      "date" : "2022-11-15T11:30:18Z",
-      "identifier" : "release-paper-5.1.9",
-      "title" : "New Release: pap.er 5.1.9"
-    },
-    {
       "appID" : "keka",
       "caption" : "Keka updated from 1.2.57 to 1.2.58",
       "date" : "2022-11-15T13:04:11Z",
@@ -62626,13 +62547,6 @@
       "date" : "2022-11-16T02:16:24Z",
       "identifier" : "release-workflowy-4.0.2211151019",
       "title" : "New Release: WorkFlowy 4.0.2211151019"
-    },
-    {
-      "appID" : "sigmaos",
-      "caption" : "sigmaos updated from 1.0.0.4 to 1.0.0.8",
-      "date" : "2022-11-16T02:16:25Z",
-      "identifier" : "release-sigmaos-1.0.0.8",
-      "title" : "New Release: sigmaos 1.0.0.8"
     },
     {
       "appID" : "tutanota",
@@ -62929,13 +62843,6 @@
       "title" : "New Release: Gitfox 3.0.6,7635"
     },
     {
-      "appID" : "milanote",
-      "caption" : "Milanote updated from 3.3.16 to 3.3.19",
-      "date" : "2022-11-16T02:16:33Z",
-      "identifier" : "release-milanote-3.3.19",
-      "title" : "New Release: Milanote 3.3.19"
-    },
-    {
       "appID" : "origami-studio",
       "caption" : "Origami Studio updated from 127.0.0.3.212,414398732 to 128.0.0.8.212,416820679",
       "date" : "2022-11-16T02:16:33Z",
@@ -63074,6 +62981,83 @@
       "date" : "2022-11-16T02:16:37Z",
       "identifier" : "release-photo-supreme-single-user-7.4.2.4639",
       "title" : "New Release: Photo Supreme Single User 7.4.2.4639"
+    },
+    {
+      "appID" : "ticktick",
+      "caption" : "TickTick updated from 4.3.10,238 to 4.3.20,239",
+      "date" : "2022-11-16T06:39:54Z",
+      "identifier" : "release-ticktick-4.3.20,239",
+      "title" : "New Release: TickTick 4.3.20,239"
+    },
+    {
+      "appID" : "sigmaos",
+      "caption" : "sigmaos updated from 1.0.0.8 to 1.0.0.9",
+      "date" : "2022-11-16T06:39:55Z",
+      "identifier" : "release-sigmaos-1.0.0.9",
+      "title" : "New Release: sigmaos 1.0.0.9"
+    },
+    {
+      "appID" : "android-commandlinetools",
+      "caption" : "Android SDK Command-line Tools updated from 8512546 to 9123335",
+      "date" : "2022-11-16T06:39:55Z",
+      "identifier" : "release-android-commandlinetools-9123335",
+      "title" : "New Release: Android SDK Command-line Tools 9123335"
+    },
+    {
+      "appID" : "beekeeper-studio",
+      "caption" : "Beekeeper Studio updated from 3.7.4 to 3.7.9",
+      "date" : "2022-11-16T06:39:55Z",
+      "identifier" : "release-beekeeper-studio-3.7.9",
+      "title" : "New Release: Beekeeper Studio 3.7.9"
+    },
+    {
+      "appID" : "deezer",
+      "caption" : "Deezer updated from 5.30.360 to 5.30.370-rc.0",
+      "date" : "2022-11-16T06:39:55Z",
+      "identifier" : "release-deezer-5.30.370-rc.0",
+      "title" : "New Release: Deezer 5.30.370-rc.0"
+    },
+    {
+      "appID" : "fiji",
+      "caption" : "Fiji updated from 20221111-1317 to 20221115-2117",
+      "date" : "2022-11-16T06:39:55Z",
+      "identifier" : "release-fiji-20221115-2117",
+      "title" : "New Release: Fiji 20221115-2117"
+    },
+    {
+      "appID" : "praat",
+      "caption" : "Praat updated from 6.2.23 to 6.3,6300",
+      "date" : "2022-11-16T06:39:56Z",
+      "identifier" : "release-praat-6.3,6300",
+      "title" : "New Release: Praat 6.3,6300"
+    },
+    {
+      "appID" : "natron",
+      "caption" : "Natron updated from 2.4.3 to 2.4.4",
+      "date" : "2022-11-16T06:39:56Z",
+      "identifier" : "release-natron-2.4.4",
+      "title" : "New Release: Natron 2.4.4"
+    },
+    {
+      "appID" : "milanote",
+      "caption" : "Milanote updated from 3.3.19 to 3.3.20",
+      "date" : "2022-11-16T06:39:56Z",
+      "identifier" : "release-milanote-3.3.20",
+      "title" : "New Release: Milanote 3.3.20"
+    },
+    {
+      "appID" : "jquake",
+      "caption" : "JQuake updated from 1.8.2 to 1.8.3",
+      "date" : "2022-11-16T06:39:56Z",
+      "identifier" : "release-jquake-1.8.3",
+      "title" : "New Release: JQuake 1.8.3"
+    },
+    {
+      "appID" : "rapidapi",
+      "caption" : "RapidAPI 4.0.0,4000000007 released",
+      "date" : "2022-11-16T06:39:56Z",
+      "identifier" : "release-rapidapi-4.0.0,4000000007",
+      "title" : "New Release: RapidAPI 4.0.0,4000000007"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

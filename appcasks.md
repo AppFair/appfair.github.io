@@ -1451,7 +1451,7 @@ tr:nth-child(even) {
 | [``LosslessCut``](https://github.com/mifi/lossless-cut) | ``3.47.1`` | `91` |  |  |  |  |  | `0` |  |
 | [``Modern CSV``](https://www.moderncsv.com/) | ``1.3.36`` | `91` |  |  |  |  |  | `0` |  |
 | [``NoxAppPlayer``](https://www.bignox.com/) | ``3.8.5.7,20211216,23d583d…`` | `91` |  |  |  |  |  | `0` |  |
-| [``portx``](https://portx.online/) | ``2.1.7,10.35`` | `91` | `2022-11-16T09:34:36Z` |  |  |  |  | `0` |  |
+| [``portx``](https://portx.online/) | ``2.1.7,10.35`` | `91` | `2022-11-16T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GeoGebra``](https://www.geogebra.org/) | ``6.0.744.0`` | `90` | `2022-11-16T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Frescobaldi``](https://frescobaldi.org/) | ``3.1.3`` | `89` |  |  |  |  |  | `0` |  |
 | [``Codeship Jet``](https://docs.cloudbees.com/docs/cloudbees-codeship/latest/) | ``2.11.0`` | `89` |  |  |  |  |  | `0` |  |

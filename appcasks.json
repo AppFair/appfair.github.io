@@ -25,7 +25,7 @@
       "sha256" : "0553aaeb6b4be00b5b1aba0efddbb3c7f5b6a61f8da80868ff93206f664e5147",
       "stats" : {
         "downloadCount" : 2318,
-        "impressionCount" : 11811,
+        "impressionCount" : 11812,
         "viewCount" : 1349
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -58,7 +58,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8619,
-        "impressionCount" : 9350,
+        "impressionCount" : 9351,
         "viewCount" : 794
       },
       "subtitle" : "Multimedia player",
@@ -170,7 +170,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 267,
-        "impressionCount" : 6324,
+        "impressionCount" : 6325,
         "viewCount" : 502
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -523,7 +523,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1628,
-        "impressionCount" : 4144
+        "impressionCount" : 4145
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -612,7 +612,7 @@
       "sha256" : "a696766c219ba2f7487bf6054b6c94af78bd49e9d4a7a210fc007193ef85c6f1",
       "stats" : {
         "downloadCount" : 988,
-        "impressionCount" : 2479,
+        "impressionCount" : 2480,
         "viewCount" : 170
       },
       "subtitle" : "PDF reader and note-taking application",
@@ -634,7 +634,7 @@
       "readmeURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-suspicious-package/README.md",
       "stats" : {
         "downloadCount" : 874,
-        "impressionCount" : 2325,
+        "impressionCount" : 2326,
         "viewCount" : 153
       },
       "subtitle" : "Application for inspecting installer packages",
@@ -1092,7 +1092,7 @@
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
       "version" : "3.6.1.17,24205",
-      "versionDate" : "2022-11-16T07:32:43Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2932,7 +2932,7 @@
       "sha256" : "f8f6acfdc8378bca0429d52e34d48275c22213617dbe09055798132921c10586",
       "stats" : {
         "downloadCount" : 65,
-        "impressionCount" : 1021
+        "impressionCount" : 1022
       },
       "subtitle" : "Identify Intel-only apps",
       "tintColor" : "D3DBDD",
@@ -4813,7 +4813,7 @@
       "sha256" : "6e40562a2034b109bfc15fcb7b107d132396f420fe39abed49cc32338489ec29",
       "stats" : {
         "downloadCount" : 23,
-        "impressionCount" : 252
+        "impressionCount" : 253
       },
       "subtitle" : "Shows a files cryptographic signing information",
       "tintColor" : "3F4A65",
@@ -7678,7 +7678,7 @@
       "sha256" : "2097bafa9cfe648c259e5c81f98137e3e38217838deccfe262460773807dd8df",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 611
+        "impressionCount" : 612
       },
       "subtitle" : "Utility to notify about the latest Apple tool releases (including Beta releases)",
       "tintColor" : "65678E",
@@ -11986,7 +11986,7 @@
       "sha256" : "6a7085474f60648cf73bf02fdaba7985deb27b4501a2b1806097196b50ccd9ef",
       "stats" : {
         "downloadCount" : 61,
-        "impressionCount" : 92
+        "impressionCount" : 93
       },
       "subtitle" : "Tool to explore all the running tasks (processes)",
       "tintColor" : "3B402D",

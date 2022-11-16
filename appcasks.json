@@ -25,7 +25,7 @@
       "sha256" : "0553aaeb6b4be00b5b1aba0efddbb3c7f5b6a61f8da80868ff93206f664e5147",
       "stats" : {
         "downloadCount" : 2318,
-        "impressionCount" : 11816,
+        "impressionCount" : 11817,
         "viewCount" : 1349
       },
       "subtitle" : "Instant messaging application focusing on security",
@@ -58,7 +58,7 @@
       "sha256" : "cca267f2c51ae568e02f3b4d8a6adba87b2bde5f011a2b87c595c102d89f11d8",
       "stats" : {
         "downloadCount" : 8619,
-        "impressionCount" : 9354,
+        "impressionCount" : 9355,
         "viewCount" : 794
       },
       "subtitle" : "Multimedia player",
@@ -83,7 +83,7 @@
       ],
       "stats" : {
         "downloadCount" : 8823,
-        "impressionCount" : 9893,
+        "impressionCount" : 9894,
         "viewCount" : 734
       },
       "subtitle" : "Music streaming service",
@@ -112,7 +112,7 @@
       "sha256" : "f7cc7fb04d13f8a0adf9e41be58d07d2517f125e3b883629a344b5e11354d553",
       "stats" : {
         "downloadCount" : 3820,
-        "impressionCount" : 10265,
+        "impressionCount" : 10267,
         "viewCount" : 666
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -140,7 +140,7 @@
       ],
       "stats" : {
         "downloadCount" : 2674,
-        "impressionCount" : 7989,
+        "impressionCount" : 7990,
         "viewCount" : 481
       },
       "subtitle" : "Video game digital distribution service",
@@ -170,7 +170,7 @@
       "sha256" : "3db6e2b22ac59fdf40dfc879d01c9c461c408cb8f9b102f6794f00a03e35e497",
       "stats" : {
         "downloadCount" : 267,
-        "impressionCount" : 6331,
+        "impressionCount" : 6333,
         "viewCount" : 503
       },
       "subtitle" : "Git client focusing on power and productivity",
@@ -196,7 +196,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 235,
-        "impressionCount" : 5483,
+        "impressionCount" : 5485,
         "viewCount" : 391
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -223,7 +223,7 @@
       "sha256" : "da2692e0b7d486e16288f4a36d68840239af7aec8cd1e0bcd2c7034c59c0c4e0",
       "stats" : {
         "downloadCount" : 118,
-        "impressionCount" : 4554,
+        "impressionCount" : 4555,
         "viewCount" : 384
       },
       "subtitle" : "File synchronizer",
@@ -254,7 +254,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4603,
+        "impressionCount" : 4605,
         "viewCount" : 357
       },
       "subtitle" : "Create DMGs and other archives",
@@ -276,7 +276,7 @@
       "sha256" : "13462738f9da5857b5ee00a9172c31bb9b87b35a4492d035b54bb842abca858c",
       "stats" : {
         "downloadCount" : 8819,
-        "impressionCount" : 4075,
+        "impressionCount" : 4077,
         "viewCount" : 280
       },
       "subtitle" : "Team communication and collaboration software",
@@ -299,7 +299,7 @@
       "sha256" : "2bd54babc6b27364e80c4c107ce1b40026662371f56c35e25b29fdebb2942b19",
       "stats" : {
         "downloadCount" : 6605,
-        "impressionCount" : 2917,
+        "impressionCount" : 2918,
         "viewCount" : 146
       },
       "subtitle" : "Text editor for code, markup and prose",
@@ -322,7 +322,7 @@
       "sha256" : "dcb28779727b8905673a0183def373b94a366a718fb924d00a58a2b87e617b8f",
       "stats" : {
         "downloadCount" : 5603,
-        "impressionCount" : 6077,
+        "impressionCount" : 6078,
         "viewCount" : 589
       },
       "subtitle" : "System monitor for the menu bar",
@@ -345,7 +345,7 @@
       "sha256" : "9548a5484efa8d0ecc8cd0c3f3f0eeda281ca8f75625b3be0ed00ce9bcb50fcf",
       "stats" : {
         "downloadCount" : 3318,
-        "impressionCount" : 2922,
+        "impressionCount" : 2924,
         "viewCount" : 218
       },
       "subtitle" : "Messaging app with a focus on speed and security",
@@ -368,7 +368,7 @@
       "sha256" : "ebcd964f791b59734559ba3859cd58ba354d36d51d59f13fda710197f057355b",
       "stats" : {
         "downloadCount" : 3141,
-        "impressionCount" : 2578,
+        "impressionCount" : 2579,
         "viewCount" : 145
       },
       "subtitle" : "Network protocol analyzer",
@@ -391,7 +391,7 @@
       "sha256" : "e58875dd6819c173c55fb6266317816498f50a87c35c47e80c26e5c1690f4142",
       "stats" : {
         "downloadCount" : 2701,
-        "impressionCount" : 3916,
+        "impressionCount" : 3917,
         "viewCount" : 175
       },
       "subtitle" : "MySQL/MariaDB database management",
@@ -414,7 +414,7 @@
       "sha256" : "58a3ee0c2d06fd710767e592dcbf3016b73a3e637a3032e40c4a15914e916624",
       "stats" : {
         "downloadCount" : 2357,
-        "impressionCount" : 4651,
+        "impressionCount" : 4653,
         "viewCount" : 441
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -437,7 +437,7 @@
       "sha256" : "2c4abf4af51ee95118ef2f121eb015a005385af6b15744c44eaec01911ca29bc",
       "stats" : {
         "downloadCount" : 2271,
-        "impressionCount" : 3883,
+        "impressionCount" : 3885,
         "viewCount" : 182
       },
       "subtitle" : "Web browser focusing on security",
@@ -460,7 +460,7 @@
       "sha256" : "dc06f15be81472f7420001e2d7fec464b0f6e7d2d6c05a27205ceba4e9488f29",
       "stats" : {
         "downloadCount" : 2219,
-        "impressionCount" : 2349,
+        "impressionCount" : 2350,
         "viewCount" : 69
       },
       "subtitle" : "Video chat, voice call and instant messaging application",
@@ -486,7 +486,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1691,
-        "impressionCount" : 3987
+        "impressionCount" : 3988
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -523,7 +523,7 @@
       "sha256" : "f9984b6ba51a02bb8f880c538b28e2c7d6a3b7a22257a166cc3e1d55a133ab34",
       "stats" : {
         "downloadCount" : 1628,
-        "impressionCount" : 4149
+        "impressionCount" : 4150
       },
       "subtitle" : "Open-source BitTorrent client",
       "tintColor" : "958080",
@@ -544,7 +544,7 @@
       "sha256" : "71048994210ade890150919b653a9741d8654d5c498c230f61a86fd59d22401c",
       "stats" : {
         "downloadCount" : 1386,
-        "impressionCount" : 2863,
+        "impressionCount" : 2865,
         "viewCount" : 134
       },
       "subtitle" : "Customizable email client",
@@ -567,7 +567,7 @@
       "sha256" : "1e3eddc61fd9821ba3acd73d046cf1e5965da1a189b3f8ca99026166a3da55ab",
       "stats" : {
         "downloadCount" : 1309,
-        "impressionCount" : 3385,
+        "impressionCount" : 3386,
         "viewCount" : 199
       },
       "subtitle" : "Native GUI tool for relational databases",
@@ -755,7 +755,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 4490
+        "impressionCount" : 4491
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -2186,8 +2186,8 @@
       "name" : "Sloth",
       "sha256" : "f3fc7c23bebd57c906c6cb43b975d468cb46be0d379f6be1acabe66a5b52212a",
       "stats" : {
-        "downloadCount" : 120,
-        "impressionCount" : 586
+        "downloadCount" : 121,
+        "impressionCount" : 587
       },
       "subtitle" : "Displays all open files and sockets in use by all running processes",
       "tintColor" : "E59112",
@@ -2447,7 +2447,7 @@
       "sha256" : "04b0b8080e904ed3d17b8e6526ad5e4342befa966866e7fb347d33e0e122039a",
       "stats" : {
         "downloadCount" : 93,
-        "impressionCount" : 1272
+        "impressionCount" : 1274
       },
       "subtitle" : "Handwriting notetaking software",
       "tintColor" : "E5D8CE",

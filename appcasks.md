@@ -1163,12 +1163,12 @@ tr:nth-child(even) {
 | [``mambaforge``](https://github.com/conda-forge/miniforge) | ``22.9.0-1`` | `221` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
 | [``qutebrowser``](https://www.qutebrowser.org/) | ``2.5.2`` | `220` |  |  |  |  |  | `0` |  |
 | [``BlackHole 64ch``](https://existential.audio/blackhole/) | ``0.4.0`` | `219` |  |  |  |  |  | `0` |  |
-| [``Krisp``](https://krisp.ai/) | ``1.42.13`` | `219` | `2022-11-16T15:36:11Z` |  |  |  |  | `0` |  |
+| [``Krisp``](https://krisp.ai/) | ``1.42.13`` | `219` | `2022-11-16T00:00:00Z` |  |  |  |  | `0` |  |
 | [``TomatoBar``](https://github.com/ivoronin/TomatoBar) | ``3.4.0`` | `217` |  |  |  |  |  | `0` |  |
 | [``Deluge``](https://deluge-torrent.org/) | ``1.3.15.1`` | `215` |  |  |  |  |  | `0` |  |
 | [``Kodi``](https://kodi.tv/) | ``19.4-Matrix`` | `215` |  |  |  |  |  | `0` |  |
 | [``Parallels Virtualization…``](https://www.parallels.com/products/desktop/download/) | ``18.1.0-53311`` | `215` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Webex Meetings``](https://www.webex.com/) | ``2211.1005.4212.1`` | `214` | `2022-11-16T15:36:11Z` |  |  |  |  | `0` |  |
+| [``Webex Meetings``](https://www.webex.com/) | ``2211.1005.4212.1`` | `214` | `2022-11-16T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Piriform CCleaner``](https://www.ccleaner.com/ccleaner-mac) | ``2.07.166`` | `214` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
 | [``VMware Horizon Client``](https://www.vmware.com/) | ``2209-8.7.0-20615470,CART…`` | `212` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``PicGo``](https://github.com/Molunerfinn/PicGo) | ``2.3.1`` | `211` | `2022-11-13T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1764,7 +1764,7 @@ tr:nth-child(even) {
 | [``PDF-Images``](https://sourceforge.net/projects/pdf-images/) | ``1.1`` | `43` |  |  |  |  |  | `0` |  |
 | [``Yo Scheduler``](https://github.com/sheagcraig/yo) | ``2.0.1`` | `42` |  |  |  |  |  | `0` |  |
 | [``ActivityWatch``](https://activitywatch.net/) | ``0.12.1`` | `42` |  |  |  |  |  | `0` |  |
-| [``Caprine``](https://github.com/sindresorhus/caprine) | ``2.57.0`` | `42` | `2022-11-16T15:36:11Z` |  |  |  |  | `0` |  |
+| [``Caprine``](https://github.com/sindresorhus/caprine) | ``2.57.0`` | `42` | `2022-11-16T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Cardhop``](https://flexibits.com/cardhop) | ``2.2.2,1112`` | `42` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Duplicati``](https://www.duplicati.com/) | ``2.0.6.3_beta_2021-06-17`` | `42` |  |  |  |  |  | `0` |  |
 | [``fman``](https://fman.io/) | ``1.7.3`` | `42` |  |  |  |  |  | `0` |  |

@@ -112,7 +112,7 @@
       "sha256" : "f7cc7fb04d13f8a0adf9e41be58d07d2517f125e3b883629a344b5e11354d553",
       "stats" : {
         "downloadCount" : 3820,
-        "impressionCount" : 10270,
+        "impressionCount" : 10271,
         "viewCount" : 667
       },
       "subtitle" : "Desktop client for WhatsApp",
@@ -196,7 +196,7 @@
       "sha256" : "f54fe4892b2df4853f76bdbb94ffe24b3e9878884333da90c3681a52d184cca2",
       "stats" : {
         "downloadCount" : 235,
-        "impressionCount" : 5486,
+        "impressionCount" : 5487,
         "viewCount" : 391
       },
       "subtitle" : "App wrapper for music.youtube.com",
@@ -254,7 +254,7 @@
       "sha256" : "43f871e4e597e5adde5cc3733cbaf975f42c8cb3ac83127666fdf139bc9cf331",
       "stats" : {
         "downloadCount" : 6,
-        "impressionCount" : 4607,
+        "impressionCount" : 4608,
         "viewCount" : 357
       },
       "subtitle" : "Create DMGs and other archives",
@@ -368,7 +368,7 @@
       "sha256" : "ebcd964f791b59734559ba3859cd58ba354d36d51d59f13fda710197f057355b",
       "stats" : {
         "downloadCount" : 3141,
-        "impressionCount" : 2581,
+        "impressionCount" : 2582,
         "viewCount" : 145
       },
       "subtitle" : "Network protocol analyzer",
@@ -414,7 +414,7 @@
       "sha256" : "58a3ee0c2d06fd710767e592dcbf3016b73a3e637a3032e40c4a15914e916624",
       "stats" : {
         "downloadCount" : 2357,
-        "impressionCount" : 4655,
+        "impressionCount" : 4656,
         "viewCount" : 441
       },
       "subtitle" : "Binary releases of VS Code without MS branding/telemetry/licensing",
@@ -486,7 +486,7 @@
       "sha256" : "1d2240f5574ea42d8f8d8fa11aec0fb30d31771c9f76242834235315c3f56504",
       "stats" : {
         "downloadCount" : 1691,
-        "impressionCount" : 3990
+        "impressionCount" : 3991
       },
       "subtitle" : "Install and switch between multiple versions of Xcode",
       "tintColor" : "8D263D",
@@ -755,7 +755,7 @@
       "sha256" : "52218067e46eec17d134824c17cb7ea86aabf0d85caf4075e64960d51b47cadb",
       "stats" : {
         "downloadCount" : 11,
-        "impressionCount" : 4493
+        "impressionCount" : 4494
       },
       "subtitle" : "Organize files, archive e-mails, save Web pages and notes, search everything",
       "version" : "1.9.9",
@@ -869,7 +869,7 @@
       "sha256" : "c1ae7e9c4b7a9f16fc9b25aa8b8c3a7dc708a0258a252ee601f2f9ac67be0011",
       "stats" : {
         "downloadCount" : 10286,
-        "impressionCount" : 1196
+        "impressionCount" : 1197
       },
       "subtitle" : "Video communication and virtual meeting platform",
       "version" : "5.12.8.12565",
@@ -889,7 +889,7 @@
       "sha256" : "f270dac14cf355026268d2a5a00d903c5102b69e0d2db2a7e47142f7eb76e025",
       "stats" : {
         "downloadCount" : 8408,
-        "impressionCount" : 1111
+        "impressionCount" : 1112
       },
       "subtitle" : "Open-source version of the X.Org X Window System",
       "version" : "2.8.2"
@@ -1068,7 +1068,7 @@
       "sha256" : "05642ce3e12f6a45789aa161670a09cb2ef344f453bb5ea0d8c57f2afa3bce2c",
       "stats" : {
         "downloadCount" : 840,
-        "impressionCount" : 1050
+        "impressionCount" : 1051
       },
       "subtitle" : "GPU-accelerated cross-platform terminal emulator and multiplexer",
       "tintColor" : "293154",
@@ -1087,7 +1087,7 @@
       "name" : "WeChat for Mac",
       "stats" : {
         "downloadCount" : 790,
-        "impressionCount" : 1106
+        "impressionCount" : 1107
       },
       "subtitle" : "Free messaging and calling application",
       "tintColor" : "4BE394",
@@ -3326,7 +3326,7 @@
       "subtitle" : "Companion app for the Trezor hardware wallet",
       "tintColor" : "36A06B",
       "version" : "22.11.1",
-      "versionDate" : "2022-11-16T19:30:49Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -4702,20 +4702,20 @@
       "categories" : [
         "public.app-category.graphics-design"
       ],
-      "downloadURL" : "https://download.shapr3d.com/mac/Shapr3D-5.260.0.4372.dmg",
+      "downloadURL" : "https://download.shapr3d.com/mac/Shapr3D-5.261.0.4383.dmg",
       "homepage" : "https://www.shapr3d.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-shapr3d/AppIcon.png",
       "localizedDescription" : "3D CAD software",
       "name" : "Shapr3D",
-      "sha256" : "487d4952d6e66dffe765a826a44ad714c3627c346a65b542976734350562d68e",
+      "sha256" : "a7393928626141e7c42a27619a99ce6bcca8f4baff7cbe848fb9444f9564996e",
       "stats" : {
         "downloadCount" : 25,
         "impressionCount" : 828
       },
       "subtitle" : "3D CAD software",
       "tintColor" : "8ADBEF",
-      "version" : "5.260.0.4372",
-      "versionDate" : "2022-11-15T00:00:00Z"
+      "version" : "5.261.0.4383",
+      "versionDate" : "2022-11-16T20:35:53Z"
     },
     {
       "beta" : false,
@@ -8781,7 +8781,7 @@
       "subtitle" : "Time tracking app",
       "tintColor" : "171715",
       "version" : "2022.17,4446",
-      "versionDate" : "2022-11-16T19:30:49Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16059,8 +16059,8 @@
         "downloadCount" : 2878
       },
       "subtitle" : "Client for the Google Drive storage service",
-      "version" : "66.0.3",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "67.0.2",
+      "versionDate" : "2022-11-16T20:35:53Z"
     },
     {
       "beta" : false,
@@ -24380,17 +24380,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "apifox",
-      "downloadURL" : "https://cdn.apifox.cn/download/2.2.8/Apifox-2.2.8.dmg",
+      "downloadURL" : "https://cdn.apifox.cn/download/2.2.9/Apifox-2.2.9.dmg",
       "homepage" : "https://www.apifox.cn/",
       "localizedDescription" : "Platform for API documentation, debugging, Mock and testing",
       "name" : "Apifox",
-      "sha256" : "4101b8c0f73d2c4398980aab6937ca9361149a4a4e026b1b5cf355e22266aae9",
+      "sha256" : "78d74bdfd603f560ddc0755af9a244be2d315fc2f3a44217dce3d26507872caa",
       "stats" : {
         "downloadCount" : 102
       },
       "subtitle" : "Platform for API documentation, debugging, Mock and testing",
-      "version" : "2.2.8",
-      "versionDate" : "2022-11-13T00:00:00Z"
+      "version" : "2.2.9",
+      "versionDate" : "2022-11-16T20:35:53Z"
     },
     {
       "beta" : false,
@@ -34704,17 +34704,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "anydo",
-      "downloadURL" : "https://electron-app.any.do/Anydo-5.0.10.dmg",
+      "downloadURL" : "https://electron-app.any.do/Anydo-5.0.11.dmg",
       "homepage" : "https://www.any.do/",
       "localizedDescription" : "Reminder, planner & calendar",
       "name" : "Any.do",
-      "sha256" : "86b2dda20d9d05532b75ba10100121b5eb885a509efb4f7983a5f0d59da23207",
+      "sha256" : "ce2f8ed0fa4a87508e73bff78c66b8c563b3a3ff8adecbaed57ef1bad8280616",
       "stats" : {
         "downloadCount" : 21
       },
       "subtitle" : "Reminder, planner & calendar",
-      "version" : "5.0.10",
-      "versionDate" : "2022-11-09T00:00:00Z"
+      "version" : "5.0.11",
+      "versionDate" : "2022-11-16T20:35:53Z"
     },
     {
       "beta" : false,
@@ -38352,17 +38352,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "abstract",
-      "downloadURL" : "https://downloads.goabstract.com/mac/Abstract-98.2.4.zip",
+      "downloadURL" : "https://downloads.goabstract.com/mac/Abstract-98.2.5.zip",
       "homepage" : "https://www.goabstract.com/",
       "localizedDescription" : "Collaborative design tool with support for Sketch files",
       "name" : "Abstract",
-      "sha256" : "d9e55cd26f6b8a6cbfe7218917675d8b7fd6555fd7f2ac9b699807ddac5f9df5",
+      "sha256" : "7bed69e96875ef298088131031984323022263755ecbfd3a9866419f4ff80fd8",
       "stats" : {
         "downloadCount" : 14
       },
       "subtitle" : "Collaborative design tool with support for Sketch files",
-      "version" : "98.2.4",
-      "versionDate" : "2022-11-09T00:00:00Z"
+      "version" : "98.2.5",
+      "versionDate" : "2022-11-16T20:35:53Z"
     },
     {
       "beta" : false,
@@ -60370,7 +60370,7 @@
       },
       "subtitle" : "3D viewer and converter for CAD and mesh files",
       "version" : "1.6.0,2021-10-06",
-      "versionDate" : "2022-11-16T19:30:49Z"
+      "versionDate" : "2022-11-16T00:00:00Z"
     },
     {
       "beta" : false,
@@ -62377,41 +62377,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "microsoft-auto-update",
-      "caption" : "Microsoft Auto Update updated from 4.52.22100900 to 4.53.22111300",
-      "date" : "2022-11-15T21:31:19Z",
-      "identifier" : "release-microsoft-auto-update-4.53.22111300",
-      "title" : "New Release: Microsoft Auto Update 4.53.22111300"
-    },
-    {
-      "appID" : "prismlauncher",
-      "caption" : "Prism Launcher updated from 5.1 to 5.2",
-      "date" : "2022-11-15T21:31:20Z",
-      "identifier" : "release-prismlauncher-5.2",
-      "title" : "New Release: Prism Launcher 5.2"
-    },
-    {
-      "appID" : "qownnotes",
-      "caption" : "QOwnNotes updated from 22.11.5 to 22.11.6",
-      "date" : "2022-11-15T21:31:20Z",
-      "identifier" : "release-qownnotes-22.11.6",
-      "title" : "New Release: QOwnNotes 22.11.6"
-    },
-    {
-      "appID" : "iterm2",
-      "caption" : "iTerm2 updated from 3.4.17 to 3.4.18",
-      "date" : "2022-11-15T22:34:04Z",
-      "identifier" : "release-iterm2-3.4.18",
-      "title" : "New Release: iTerm2 3.4.18"
-    },
-    {
-      "appID" : "local",
-      "caption" : "Local updated from 6.5.1,6195 to 6.5.2,6204",
-      "date" : "2022-11-15T22:34:04Z",
-      "identifier" : "release-local-6.5.2,6204",
-      "title" : "New Release: Local 6.5.2,6204"
-    },
-    {
       "appID" : "accurics",
       "caption" : "Accurics CLI updated from 1.0.43 to 1.0.44",
       "date" : "2022-11-15T22:34:04Z",
@@ -63075,6 +63040,41 @@
       "date" : "2022-11-16T19:30:50Z",
       "identifier" : "release-cad-assistant-1.6.0,2021-10-06",
       "title" : "New Release: CAD Assistant 1.6.0,2021-10-06"
+    },
+    {
+      "appID" : "shapr3d",
+      "caption" : "Shapr3D updated from 5.260.0.4372 to 5.261.0.4383",
+      "date" : "2022-11-16T20:35:54Z",
+      "identifier" : "release-shapr3d-5.261.0.4383",
+      "title" : "New Release: Shapr3D 5.261.0.4383"
+    },
+    {
+      "appID" : "google-drive",
+      "caption" : "Google Drive updated from 66.0.3 to 67.0.2",
+      "date" : "2022-11-16T20:35:54Z",
+      "identifier" : "release-google-drive-67.0.2",
+      "title" : "New Release: Google Drive 67.0.2"
+    },
+    {
+      "appID" : "apifox",
+      "caption" : "Apifox updated from 2.2.8 to 2.2.9",
+      "date" : "2022-11-16T20:35:54Z",
+      "identifier" : "release-apifox-2.2.9",
+      "title" : "New Release: Apifox 2.2.9"
+    },
+    {
+      "appID" : "anydo",
+      "caption" : "Any.do updated from 5.0.10 to 5.0.11",
+      "date" : "2022-11-16T20:35:54Z",
+      "identifier" : "release-anydo-5.0.11",
+      "title" : "New Release: Any.do 5.0.11"
+    },
+    {
+      "appID" : "abstract",
+      "caption" : "Abstract updated from 98.2.4 to 98.2.5",
+      "date" : "2022-11-16T20:35:54Z",
+      "identifier" : "release-abstract-98.2.5",
+      "title" : "New Release: Abstract 98.2.5"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

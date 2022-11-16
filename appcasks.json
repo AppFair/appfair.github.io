@@ -848,7 +848,7 @@
       "sha256" : "f6917ab0e41269d07acd93c75b25f3f429ad10ecd799802c7363cd026e82c0fe",
       "stats" : {
         "downloadCount" : 32389,
-        "impressionCount" : 2080
+        "impressionCount" : 2082
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -2524,7 +2524,7 @@
       "sha256" : "0615def60f8c915dff5d350e202511faf5967f3665da3240e2df866c29cdb0ce",
       "stats" : {
         "downloadCount" : 90,
-        "impressionCount" : 811
+        "impressionCount" : 812
       },
       "subtitle" : "Scan, monitor, and troubleshoot wireless networks",
       "tintColor" : "EBBD48",
@@ -10896,8 +10896,8 @@
       "name" : "Vivaldi",
       "sha256" : "c940381713e6cacba34e83efbd95abc0ef183f39f6201e4f8d6b42087bab1398",
       "stats" : {
-        "downloadCount" : 776,
-        "impressionCount" : 756
+        "downloadCount" : 777,
+        "impressionCount" : 758
       },
       "subtitle" : "Web browser with built-in email client focusing on customization and control",
       "tintColor" : "F17179",

@@ -23,19 +23,19 @@ tr:nth-child(even) {
 
 | name | version | dls | date | size | imps | views | stars | issues | category |
 | ---: | :------ | --: | ---- | :--- | ---: | ----: | -----:| -----: | :------- |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `836` | `2022-10-20T00:00:00Z` | `12 MB` | `477` | `60` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
-| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `247` | `2022-09-26T00:00:00Z` | `2.4 MB` | `1063` | `104` | `0` | `0` |  |
-| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `195` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1304` | `100` | `0` | `0` |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `836` | `2022-10-20T00:00:00Z` | `12 MB` | `478` | `60` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``Media Res``](https://Media-Res.github.io/App/) | ``0.0.30`` | `247` | `2022-09-26T00:00:00Z` | `2.4 MB` | `1065` | `104` | `0` | `0` |  |
+| [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `195` | `2022-08-27T00:00:00Z` | `4.2 MB` | `1305` | `100` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `135` | `2022-09-20T00:00:00Z` | `3.2 MB` | `473` | `31` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.49β`` | `127` | `2022-09-23T00:00:00Z` | `3.2 MB` | `17` | `2` | `0` | `0` |  |
-| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `122` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1385` | `117` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `113` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4417` | `302` | `0` | `0` |  |
-| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `93` | `2022-08-27T00:00:00Z` | `2.3 MB` | `18` | `1` | `0` | `0` |  |
-| [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `91` | `2022-07-04T00:00:00Z` | `2 MB` | `1282` | `106` | `0` | `0` |  |
-| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `45` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5818` | `866` | `1` | `0` |  |
-| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1582` | `128` | `1` | `0` |  |
-| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1418` | `96` | `0` | `0` |  |
-| [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `4674` | `657` | `0` | `0` |  |
+| [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `126` | `2022-09-09T00:00:00Z` | `2.2 MB` | `1386` | `117` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `117` | `2022-07-20T00:00:00Z` | `2.1 MB` | `4418` | `302` | `0` | `0` |  |
+| [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `97` | `2022-08-27T00:00:00Z` | `2.3 MB` | `18` | `1` | `0` | `0` |  |
+| [``Silly Little App``](https://Silly-Little-App.github.io/App/) | ``0.0.1β`` | `96` | `2022-07-04T00:00:00Z` | `2 MB` | `1282` | `106` | `0` | `0` |  |
+| [``Blunder Busq``](https://www.blunderbusq.app) | ``0.1.7`` | `45` | `2022-05-24T00:00:00Z` | `4.5 MB` | `5819` | `866` | `1` | `0` |  |
+| [``Stanza Redux``](https://Stanza-Redux.github.io/App/) | ``0.3.59`` | `31` | `2022-08-27T00:00:00Z` | `4 MB` | `1583` | `129` | `1` | `0` |  |
+| [``Fair Skies``](http://Fair-Skies.github.io/App) | ``0.0.5`` | `26` | `2022-09-02T00:00:00Z` | `2.6 MB` | `1419` | `96` | `0` | `0` |  |
+| [``Next Edit``](https://Next-Edit.github.io/App/) | ``0.4.18`` | `24` | `2022-01-20T00:00:00Z` | `6.7 MB` | `4675` | `657` | `0` | `0` |  |
 | [``App Title``](https://App-Title.github.io/App/) | ``0.0.1β`` | `23` | `2022-05-19T00:00:00Z` | `2.4 MB` | `1159` | `98` | `0` | `0` |  |
 | [``Crazy Glue``](https://Crazy-Glue.github.io/App/) | ``0.0.7`` | `19` | `2022-08-24T00:00:00Z` | `2.3 MB` | `1677` | `107` | `0` | `0` |  |
 | [``Bon Mot``](https://Bon-Mot.github.io/App/) | ``0.2.53`` | `16` | `2022-09-23T00:00:00Z` | `3.6 MB` | `1134` | `46` | `2` | `0` |  |

@@ -1,3 +1,7 @@
+---
+name: Comparison
+---
+
 Comparison of App Fair with other app distribution networks
 ===========================================================
 

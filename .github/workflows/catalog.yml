@@ -214,7 +214,18 @@ jobs:
         id: pages
         uses: actions/configure-pages@v2
 
+      - name: Run Jekyll
+        id: jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: .
+          destination: ./_site
+          future: false
+          verbose: true
+
       - name: Build with Jekyll
+        # trying old actions/jekyll-build-pages@v1 first
+        if: false
         # Outputs to the './_site' directory by default
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
@@ -223,6 +234,8 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./_site
 
   # Deployment job (which must be in a separate job)
   deploy:

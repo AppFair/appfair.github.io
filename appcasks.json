@@ -848,7 +848,7 @@
       "sha256" : "f6917ab0e41269d07acd93c75b25f3f429ad10ecd799802c7363cd026e82c0fe",
       "stats" : {
         "downloadCount" : 32100,
-        "impressionCount" : 2090
+        "impressionCount" : 2091
       },
       "subtitle" : "Open-source code editor",
       "tintColor" : "B8D9EF",
@@ -1231,7 +1231,7 @@
       "sha256" : "d25db7744f85566893ee800208fd1abcb25c4b8bb703689ff41c40b6b4c2209d",
       "stats" : {
         "downloadCount" : 509,
-        "impressionCount" : 1572
+        "impressionCount" : 1573
       },
       "subtitle" : "Digital design and prototyping platform",
       "tintColor" : "EFD5A1",
@@ -1440,7 +1440,7 @@
       "subtitle" : "Calling and messaging application focusing on security",
       "tintColor" : "8E7FF3",
       "version" : "18.9.0,1895",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -2610,7 +2610,7 @@
       "subtitle" : "TeX previewer",
       "tintColor" : "9AAAAE",
       "version" : "5.04",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -6475,7 +6475,7 @@
       "subtitle" : "Offline, open-source, document manager with tagging support",
       "tintColor" : "9EA2A9",
       "version" : "5.0.6",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -11574,7 +11574,7 @@
       "subtitle" : "Create, edit, browse SQLite databases",
       "tintColor" : "A9ADBB",
       "version" : "3.4.0",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -15685,7 +15685,7 @@
       },
       "subtitle" : "Enable Windows-like alt-tab",
       "version" : "6.51.0",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -16614,7 +16614,7 @@
       },
       "subtitle" : "Web browser",
       "version" : "107.0,1,6ab1312437711aa7347c5910494e07be",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20171,7 +20171,7 @@
       },
       "subtitle" : "Download manager",
       "version" : "47060",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -20648,7 +20648,7 @@
       },
       "subtitle" : "Build desktop apps with JavaScript, HTML, and CSS",
       "version" : "21.3.0",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -21598,7 +21598,7 @@
       },
       "subtitle" : "Data analysis and visualization application",
       "version" : "5.11.0",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -24105,7 +24105,7 @@
       },
       "subtitle" : "Desktop client for Amazon Music",
       "version" : "9.4.0,23861115_85d5deb94597adc2d891a921c0bf51c9",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -34643,7 +34643,7 @@
       },
       "subtitle" : "Home Theater PC media player",
       "version" : "1.29.1.3369,1f58e00d",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -35213,7 +35213,7 @@
       },
       "subtitle" : "Build, render, and create LEGO instructions",
       "version" : "2.22.11_1",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -36666,7 +36666,7 @@
       },
       "subtitle" : "Vim Inspired Electron Browser",
       "version" : "9.4.0",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -46397,7 +46397,7 @@
       },
       "subtitle" : "iOS target support for Unity",
       "version" : "2022.1.23f1,9636b062134a",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48092,7 +48092,7 @@
       },
       "subtitle" : "WebGL target support for Unity",
       "version" : "2022.1.23f1,9636b062134a",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -48110,7 +48110,7 @@
       },
       "subtitle" : "Android target support for Unity",
       "version" : "2022.1.23f1,9636b062134a",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -52054,7 +52054,7 @@
       },
       "subtitle" : "Windows (Mono) target support for Unity",
       "version" : "2022.1.23f1,9636b062134a",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,
@@ -58180,7 +58180,7 @@
       },
       "subtitle" : "Wallet GUI for decred autonomous digital currency",
       "version" : "1.7.6",
-      "versionDate" : "2022-11-17T02:13:00Z"
+      "versionDate" : "2022-11-17T00:00:00Z"
     },
     {
       "beta" : false,

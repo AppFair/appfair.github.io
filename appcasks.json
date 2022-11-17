@@ -12256,20 +12256,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp17.0/20221107/Visual_Paradigm_17_0_20221107_OSX_WithJRE.dmg",
+      "downloadURL" : "https://www.visual-paradigm.com/downloads/vp17.0/20221123/Visual_Paradigm_17_0_20221123_OSX_WithJRE.dmg",
       "homepage" : "https://www.visual-paradigm.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-paradigm/AppIcon.png",
       "localizedDescription" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "name" : "Visual Paradigm",
-      "sha256" : "699d61b9692cce4eae80bf7bd4d9aa1cc360e4558b4a1faee217da856c2c2378",
+      "sha256" : "83a919e67909104540324dfcbab7b7839106e25b388838aa370d28f80f7cef78",
       "stats" : {
         "downloadCount" : 44,
         "impressionCount" : 169
       },
       "subtitle" : "UML CASE Tool supporting UML 2, SysML and Business Process Modeling Notation",
       "tintColor" : "DE7A7A",
-      "version" : "17.0,20221107",
-      "versionDate" : "2022-11-09T00:00:00Z"
+      "version" : "17.0,20221123",
+      "versionDate" : "2022-11-17T06:39:31Z"
     },
     {
       "beta" : false,
@@ -12436,20 +12436,20 @@
       "categories" : [
 
       ],
-      "downloadURL" : "https://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_17_0_20221107_OSX_WithJRE.dmg",
+      "downloadURL" : "https://www.visual-paradigm.com/downloads/vpce/Visual_Paradigm_CE_17_0_20221123_OSX_WithJRE.dmg",
       "homepage" : "https://www.visual-paradigm.com/",
       "iconURL" : "https://github.com/App-Fair/appcasks/releases/download/cask-visual-paradigm-ce/AppIcon.png",
       "localizedDescription" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
       "name" : "Visual Paradigm Community Edition",
-      "sha256" : "4f09cdbe2ad53d9cfb8b3c37a18e1f98a4fddaa00906be9b23a72e0e22d49e20",
+      "sha256" : "ed1217adcd2a2a3bb3e1e64f9499f08066f22c701d0d44c0f73ff225e2b53ae5",
       "stats" : {
         "downloadCount" : 36,
         "impressionCount" : 153
       },
       "subtitle" : "All-in-one UML, SysML, BPMN Modeling Platform for Agile",
       "tintColor" : "DE7A7A",
-      "version" : "17.0,20221107",
-      "versionDate" : "2022-11-09T00:00:00Z"
+      "version" : "17.0,20221123",
+      "versionDate" : "2022-11-17T06:39:31Z"
     },
     {
       "beta" : false,
@@ -21875,17 +21875,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "rectangle-pro",
-      "downloadURL" : "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%202.7.1.dmg",
+      "downloadURL" : "https://rectangleapp.com/pro/downloads/Rectangle%20Pro%202.7.3.dmg",
       "homepage" : "https://rectangleapp.com/pro",
       "localizedDescription" : "Window snapping tool",
       "name" : "Rectangle Pro",
-      "sha256" : "13465bcf5344ac778bd058c248f80557180fd5a92c98af98a57798b9f20029e2",
+      "sha256" : "4bc5d6d55248700c465a2c1722372e8e44242e22f57a2200169bbfd63fea1af5",
       "stats" : {
         "downloadCount" : 169
       },
       "subtitle" : "Window snapping tool",
-      "version" : "2.7.1,127",
-      "versionDate" : "2022-11-05T00:00:00Z"
+      "version" : "2.7.3,129",
+      "versionDate" : "2022-11-17T06:39:31Z"
     },
     {
       "beta" : false,
@@ -23598,17 +23598,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "p4",
-      "downloadURL" : "https://cdist2.perforce.com/perforce/r22.1/bin.macosx1015x86_64/p4",
+      "downloadURL" : "https://cdist2.perforce.com/perforce/r22.2/bin.macosx1015x86_64/p4",
       "homepage" : "https://www.perforce.com/products/helix-core-apps/command-line-client",
       "localizedDescription" : "Use it to gain instant access to operations and complete control over the system",
       "name" : "Perforce Helix Command-Line Client (P4)",
-      "sha256" : "cc8967c23348f9c06a44af2a8ab36b7c75df6a8a98e1cc7723fb132df41dcc18",
+      "sha256" : "920a64afa88e781bc7cc1494ad42a46f136a5e1e6804469c626fb3554faa9829",
       "stats" : {
         "downloadCount" : 118
       },
       "subtitle" : "Use it to gain instant access to operations and complete control over the system",
-      "version" : "2022.1,2361553",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "2022.2,2369846",
+      "versionDate" : "2022-11-17T06:39:31Z"
     },
     {
       "beta" : false,
@@ -29790,16 +29790,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "lark",
-      "downloadURL" : "https://sf16-va.larksuitecdn.com/obj/lark-artifact-storage/23ea9d/Lark-darwin_x64-5.20.10-signed.dmg",
+      "downloadURL" : "https://sf16-va.larksuitecdn.com/obj/lark-artifact-storage/e42953/Lark-darwin_x64-5.23.14-signed.dmg",
       "homepage" : "https://www.larksuite.com/",
       "localizedDescription" : "Project management software",
       "name" : "Lark",
-      "sha256" : "caba67db9b14184f20b373c6b06d88341a7830f676fd79f5e710bb6575cc1010",
+      "sha256" : "68082315db66e25db66b50f992364e77127c1947019a1699c6e469d758cf35d0",
       "stats" : {
         "downloadCount" : 40
       },
       "subtitle" : "Project management software",
-      "version" : "5.20.10,23ea9d"
+      "version" : "5.23.14,e42953",
+      "versionDate" : "2022-11-17T06:39:31Z"
     },
     {
       "beta" : false,
@@ -47363,17 +47364,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "jquake",
-      "downloadURL" : "https://fleneindre.github.io/downloads/JQuake_1.8.3_mac_intel.dmg",
+      "downloadURL" : "https://fleneindre.github.io/downloads/JQuake_1.8.4_mac_intel.dmg",
       "homepage" : "https://jquake.net/",
       "localizedDescription" : "Real-time earthquake monitoring software for Japan",
       "name" : "JQuake",
-      "sha256" : "cd9c9fbe4222d4489a67159da27cabfa38ddffe1eb5ddda406b69dd964d7398f",
+      "sha256" : "6e357ba4ce46e35e628118fbaa530d26e1bb8a8a0f1a19aa160a788facaeeed4",
       "stats" : {
         "downloadCount" : 6
       },
       "subtitle" : "Real-time earthquake monitoring software for Japan",
-      "version" : "1.8.3",
-      "versionDate" : "2022-11-16T00:00:00Z"
+      "version" : "1.8.4",
+      "versionDate" : "2022-11-17T06:39:31Z"
     },
     {
       "beta" : false,
@@ -53091,17 +53092,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "elephicon",
-      "downloadURL" : "https://github.com/sprout2000/elephicon/releases/download/v2.1.5/Elephicon-2.1.5-darwin-x64.dmg",
+      "downloadURL" : "https://github.com/sprout2000/elephicon/releases/download/v2.1.6/Elephicon-2.1.6-darwin-x64.dmg",
       "homepage" : "https://github.com/sprout2000/elephicon/",
       "localizedDescription" : "Create Apple ICNS and Microsoft ICO files from PNG",
       "name" : "Elephicon",
-      "sha256" : "9f7db3cc45311ad381eb16cebb02c71ce6334709cd6649ed111a715c2160e60c",
+      "sha256" : "9129d61030b2069a6b928f010c0eddc38af6bda95f5c305252cbcd8a36cc38f7",
       "stats" : {
         "downloadCount" : 3
       },
       "subtitle" : "Create Apple ICNS and Microsoft ICO files from PNG",
-      "version" : "2.1.5",
-      "versionDate" : "2022-11-02T00:00:00Z"
+      "version" : "2.1.6",
+      "versionDate" : "2022-11-17T06:39:31Z"
     },
     {
       "beta" : false,
@@ -58892,18 +58893,6 @@
     },
     {
       "beta" : false,
-      "bundleIdentifier" : "lacona",
-      "downloadURL" : "https://download.lacona.io/packages/1.1.8/Lacona.zip",
-      "homepage" : "https://www.lacona.io/",
-      "name" : "Lacona",
-      "sha256" : "df2886d3553ef8cf9936af3d944963c8e61c83479bcb0e7617a7a367816e9399",
-      "stats" : {
-        "downloadCount" : 1
-      },
-      "version" : "1.1.8"
-    },
-    {
-      "beta" : false,
       "bundleIdentifier" : "leap-motion",
       "downloadURL" : "https://warehouse.leapmotion.com/apps/4184/download",
       "homepage" : "https://www.leapmotion.com/setup",
@@ -62400,48 +62389,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "aircall",
-      "caption" : "Aircall updated from 2.27.2 to 2.27.3",
-      "date" : "2022-11-16T02:16:34Z",
-      "identifier" : "release-aircall-2.27.3",
-      "title" : "New Release: Aircall 2.27.3"
-    },
-    {
-      "appID" : "archy",
-      "caption" : "Archy updated from 2.15.1 to 2.15.2",
-      "date" : "2022-11-16T02:16:34Z",
-      "identifier" : "release-archy-2.15.2",
-      "title" : "New Release: Archy 2.15.2"
-    },
-    {
-      "appID" : "feed-the-beast",
-      "caption" : "Feed the Beast updated from 202211021238,4322c4d8d1 to 202211151621,329441ed6d",
-      "date" : "2022-11-16T02:16:34Z",
-      "identifier" : "release-feed-the-beast-202211151621,329441ed6d",
-      "title" : "New Release: Feed the Beast 202211151621,329441ed6d"
-    },
-    {
-      "appID" : "opgg",
-      "caption" : "OP.GG Desktop updated from 1.0.15 to 1.0.50",
-      "date" : "2022-11-16T02:16:35Z",
-      "identifier" : "release-opgg-1.0.50",
-      "title" : "New Release: OP.GG Desktop 1.0.50"
-    },
-    {
-      "appID" : "missive",
-      "caption" : "Missive updated from 10.34.0 to 10.36.0",
-      "date" : "2022-11-16T02:16:35Z",
-      "identifier" : "release-missive-10.36.0",
-      "title" : "New Release: Missive 10.36.0"
-    },
-    {
-      "appID" : "gdevelop",
-      "caption" : "GDevelop updated from 5.1.150 to 5.1.151",
-      "date" : "2022-11-16T02:16:35Z",
-      "identifier" : "release-gdevelop-5.1.151",
-      "title" : "New Release: GDevelop 5.1.151"
-    },
-    {
       "appID" : "foxglove-studio",
       "caption" : "Foxglove Studio updated from 1.31.0 to 1.31.1",
       "date" : "2022-11-16T02:16:35Z",
@@ -62559,13 +62506,6 @@
       "date" : "2022-11-16T06:39:56Z",
       "identifier" : "release-milanote-3.3.20",
       "title" : "New Release: Milanote 3.3.20"
-    },
-    {
-      "appID" : "jquake",
-      "caption" : "JQuake updated from 1.8.2 to 1.8.3",
-      "date" : "2022-11-16T06:39:56Z",
-      "identifier" : "release-jquake-1.8.3",
-      "title" : "New Release: JQuake 1.8.3"
     },
     {
       "appID" : "rapidapi",
@@ -63098,6 +63038,55 @@
       "date" : "2022-11-17T02:13:04Z",
       "identifier" : "release-decrediton-1.7.6",
       "title" : "New Release: Decrediton 1.7.6"
+    },
+    {
+      "appID" : "visual-paradigm",
+      "caption" : "Visual Paradigm updated from 17.0,20221107 to 17.0,20221123",
+      "date" : "2022-11-17T06:39:32Z",
+      "identifier" : "release-visual-paradigm-17.0,20221123",
+      "title" : "New Release: Visual Paradigm 17.0,20221123"
+    },
+    {
+      "appID" : "visual-paradigm-ce",
+      "caption" : "Visual Paradigm Community Edition updated from 17.0,20221107 to 17.0,20221123",
+      "date" : "2022-11-17T06:39:32Z",
+      "identifier" : "release-visual-paradigm-ce-17.0,20221123",
+      "title" : "New Release: Visual Paradigm Community Edition 17.0,20221123"
+    },
+    {
+      "appID" : "rectangle-pro",
+      "caption" : "Rectangle Pro updated from 2.7.1,127 to 2.7.3,129",
+      "date" : "2022-11-17T06:39:33Z",
+      "identifier" : "release-rectangle-pro-2.7.3,129",
+      "title" : "New Release: Rectangle Pro 2.7.3,129"
+    },
+    {
+      "appID" : "p4",
+      "caption" : "Perforce Helix Command-Line Client (P4) updated from 2022.1,2361553 to 2022.2,2369846",
+      "date" : "2022-11-17T06:39:33Z",
+      "identifier" : "release-p4-2022.2,2369846",
+      "title" : "New Release: Perforce Helix Command-Line Client (P4) 2022.2,2369846"
+    },
+    {
+      "appID" : "lark",
+      "caption" : "Lark updated from 5.20.10,23ea9d to 5.23.14,e42953",
+      "date" : "2022-11-17T06:39:33Z",
+      "identifier" : "release-lark-5.23.14,e42953",
+      "title" : "New Release: Lark 5.23.14,e42953"
+    },
+    {
+      "appID" : "jquake",
+      "caption" : "JQuake updated from 1.8.3 to 1.8.4",
+      "date" : "2022-11-17T06:39:33Z",
+      "identifier" : "release-jquake-1.8.4",
+      "title" : "New Release: JQuake 1.8.4"
+    },
+    {
+      "appID" : "elephicon",
+      "caption" : "Elephicon updated from 2.1.5 to 2.1.6",
+      "date" : "2022-11-17T06:39:33Z",
+      "identifier" : "release-elephicon-2.1.6",
+      "title" : "New Release: Elephicon 2.1.6"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

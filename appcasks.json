@@ -15465,17 +15465,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "rectangle",
-      "downloadURL" : "https://github.com/rxhanson/Rectangle/releases/download/v0.61/Rectangle0.61.dmg",
+      "downloadURL" : "https://github.com/rxhanson/Rectangle/releases/download/v0.63/Rectangle0.63.dmg",
       "homepage" : "https://rectangleapp.com/",
       "localizedDescription" : "Move and resize windows using keyboard shortcuts or snap areas",
       "name" : "Rectangle",
-      "sha256" : "445351c52f9719b8780ce0c2acead954ded895a3a791b748284dd5dde17d58de",
+      "sha256" : "c603bd7ea7fc3d7d12c04b0c55e7f7a4189a2db953828f5936ba87527d3e2488",
       "stats" : {
         "downloadCount" : 8823
       },
       "subtitle" : "Move and resize windows using keyboard shortcuts or snap areas",
-      "version" : "0.61,67",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "0.63,69",
+      "versionDate" : "2022-11-17T18:40:48Z"
     },
     {
       "beta" : false,
@@ -19770,17 +19770,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "arduino-ide",
-      "downloadURL" : "https://downloads.arduino.cc/arduino-ide/arduino-ide_2.0.1_macOS_64bit.dmg",
+      "downloadURL" : "https://downloads.arduino.cc/arduino-ide/arduino-ide_2.0.2_macOS_64bit.dmg",
       "homepage" : "https://www.arduino.cc/en/software",
       "localizedDescription" : "Electronics prototyping platform",
       "name" : "Arduino IDE",
-      "sha256" : "fc8c2452f3f056f8a1ff649a6e798ccd0e9760e347cb3cbb15704388255b5f68",
+      "sha256" : "ecedcab3f4e9c67bfe19830a45789d052d2b4e63d91666e9346b420386b6c90a",
       "stats" : {
         "downloadCount" : 329
       },
       "subtitle" : "Electronics prototyping platform",
-      "version" : "2.0.1",
-      "versionDate" : "2022-10-28T00:00:00Z"
+      "version" : "2.0.2",
+      "versionDate" : "2022-11-17T18:40:48Z"
     },
     {
       "beta" : false,
@@ -62391,20 +62391,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "compositor",
-      "caption" : "Compositor updated from 1.20.4 to 1.20.6",
-      "date" : "2022-11-16T02:16:36Z",
-      "identifier" : "release-compositor-1.20.6",
-      "title" : "New Release: Compositor 1.20.6"
-    },
-    {
-      "appID" : "qth",
-      "caption" : "QTH updated from 0.8.5 to 0.8.7",
-      "date" : "2022-11-16T02:16:36Z",
-      "identifier" : "release-qth-0.8.7",
-      "title" : "New Release: QTH 0.8.7"
-    },
-    {
       "appID" : "coin-wallet",
       "caption" : "Coin Wallet updated from 5.9.1 to 5.9.2",
       "date" : "2022-11-16T02:16:37Z",
@@ -63089,6 +63075,20 @@
       "date" : "2022-11-17T16:44:48Z",
       "identifier" : "release-protonvpn-3.0.6",
       "title" : "New Release: ProtonVPN 3.0.6"
+    },
+    {
+      "appID" : "rectangle",
+      "caption" : "Rectangle updated from 0.61,67 to 0.63,69",
+      "date" : "2022-11-17T18:40:49Z",
+      "identifier" : "release-rectangle-0.63,69",
+      "title" : "New Release: Rectangle 0.63,69"
+    },
+    {
+      "appID" : "arduino-ide",
+      "caption" : "Arduino IDE updated from 2.0.1 to 2.0.2",
+      "date" : "2022-11-17T18:40:49Z",
+      "identifier" : "release-arduino-ide-2.0.2",
+      "title" : "New Release: Arduino IDE 2.0.2"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

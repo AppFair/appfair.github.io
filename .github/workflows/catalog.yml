@@ -85,7 +85,7 @@ jobs:
         run: |
           cp fairapps-macos.json fairapps-macos_old.json && touch fairapps-macos_old.json || echo "no existing fairapps-macos.json"
           # TODO: save casks to https://github.com/appfair/homebrew-app/tree/main/Casks
-          mkdir -p homebrew-app/
+          mkdir -p homebrew-app/Casks/
           $FAIRTOOL fair catalog \
             --verbose \
             --hub github.com/appfair \

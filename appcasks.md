@@ -630,7 +630,7 @@ tr:nth-child(even) {
 | [``SuperCollider``](https://supercollider.github.io/) | ``3.12.2`` | `46` |  |  | `76` |  |  | `0` |  |
 | [``TuxGuitar``](https://sourceforge.net/projects/tuxguitar/) | ``1.5.6`` | `45` |  |  | `71` |  |  | `0` |  |
 | [``GNU TeXmacs``](https://www.texmacs.org/) | ``2.1.2`` | `45` |  |  | `70` |  |  | `0` |  |
-| [``Visual Paradigm``](https://www.visual-paradigm.com/) | ``17.0,20221123`` | `44` | `2022-11-17T06:39:31Z` |  | `169` |  |  | `0` |  |
+| [``Visual Paradigm``](https://www.visual-paradigm.com/) | ``17.0,20221123`` | `44` | `2022-11-17T00:00:00Z` |  | `169` |  |  | `0` |  |
 | [``TortoiseHg``](https://tortoisehg.bitbucket.io/) | ``6.2.3`` | `44` |  |  | `114` |  |  | `0` |  |
 | [``TikZiT``](https://tikzit.github.io/) | ``2.1.6`` | `44` |  |  | `69` |  |  | `0` |  |
 | [``Wolfram Engine``](https://www.wolfram.com/engine/) | ``13.1.0.0`` | `43` |  |  | `55` |  |  | `0` |  |
@@ -639,7 +639,7 @@ tr:nth-child(even) {
 | [``USB Overdrive``](https://www.usboverdrive.com/) | ``5.1`` | `38` |  |  | `69` |  |  | `0` |  |
 | [``Tiled``](https://www.mapeditor.org/) | ``1.9.2`` | `37` |  |  | `90` |  |  | `0` |  |
 | [``SpeedCrunch``](https://www.speedcrunch.org/) | ``0.12`` | `37` |  |  | `58` |  |  | `0` |  |
-| [``Visual Paradigm Communit…``](https://www.visual-paradigm.com/) | ``17.0,20221123`` | `36` | `2022-11-17T06:39:31Z` |  | `153` |  |  | `0` |  |
+| [``Visual Paradigm Communit…``](https://www.visual-paradigm.com/) | ``17.0,20221123`` | `36` | `2022-11-17T00:00:00Z` |  | `153` |  |  | `0` |  |
 | [``Sync``](https://www.sync.com/) | ``2.1.4`` | `36` | `2022-11-02T00:00:00Z` |  | `155` |  |  | `0` |  |
 | [``Vial``](https://get.vial.today/) | ``0.6`` | `35` |  |  | `67` |  |  | `0` |  |
 | [``Tresorit``](https://tresorit.com/) | ``3.5.2471.3320`` | `35` | `2022-11-09T00:00:00Z` |  | `158` |  |  | `0` |  |
@@ -1238,7 +1238,7 @@ tr:nth-child(even) {
 | [``Airflow``](https://airflowapp.com/) | ``3.3.3`` | `170` |  |  |  |  |  | `0` |  |
 | [``Microsoft Build of OpenJ…``](https://microsoft.com/openjdk) | ``17.0.5`` | `170` | `2022-10-31T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Lando``](https://lando.dev/) | ``3.6.4`` | `169` |  |  |  |  |  | `0` |  |
-| [``Rectangle Pro``](https://rectangleapp.com/pro) | ``2.7.3,129`` | `169` | `2022-11-17T06:39:31Z` |  |  |  |  | `0` |  |
+| [``Rectangle Pro``](https://rectangleapp.com/pro) | ``2.7.3,129`` | `169` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``MuseScore``](https://musescore.org/) | ``3.6.2.548020600`` | `168` |  |  |  |  |  | `0` |  |
 | [``ClickUp``](https://clickup.com/) | ``3.1.2`` | `167` |  |  |  |  |  | `0` |  |
 | [``Free Download Manager``](https://www.freedownloadmanager.org/) | ``6.18.1`` | `167` | `2022-11-12T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1358,7 +1358,7 @@ tr:nth-child(even) {
 | [``Ace Link``](https://github.com/blaise-io/acelink) | ``2.0.2`` | `119` |  |  |  |  |  | `0` |  |
 | [``Jitsi Meet``](https://github.com/jitsi/jitsi-meet-electron/) | ``2022.10.1`` | `118` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``NoMachine``](https://www.nomachine.com/) | ``8.2.3_12`` | `118` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Perforce Helix Command-L…``](https://www.perforce.com/products/helix-core-apps/command-line-client) | ``2022.2,2369846`` | `118` | `2022-11-17T06:39:31Z` |  |  |  |  | `0` |  |
+| [``Perforce Helix Command-L…``](https://www.perforce.com/products/helix-core-apps/command-line-client) | ``2022.2,2369846`` | `118` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Panda``](https://github.com/pablosproject/Panda-Mac-app) | ``1.4.2`` | `118` |  |  |  |  |  | `0` |  |
 | [``Deezer``](https://www.deezer.com/download) | ``5.30.370-rc.0`` | `117` | `2022-11-16T00:00:00Z` |  |  |  |  | `0` |  |
 | [``FreeTube``](https://github.com/FreeTubeApp/FreeTube) | ``0.18.0`` | `117` | `2022-11-02T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1794,7 +1794,7 @@ tr:nth-child(even) {
 | [``fman``](https://fman.io/) | ``1.7.3`` | `40` |  |  |  |  |  | `0` |  |
 | [``FontBase``](https://fontba.se/) | ``2.18.1`` | `40` | `2022-11-09T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Key Codes``](https://manytricks.com/keycodes/) | ``2.2.1,2027`` | `40` |  |  |  |  |  | `0` |  |
-| [``Lark``](https://www.larksuite.com/) | ``5.23.14,e42953`` | `40` | `2022-11-17T06:39:31Z` |  |  |  |  | `0` |  |
+| [``Lark``](https://www.larksuite.com/) | ``5.23.14,e42953`` | `40` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``MacGesture``](https://github.com/MacGesture/MacGesture) | ``3.1.0`` | `40` |  |  |  |  |  | `0` |  |
 | [``MailTrackerBlocker``](https://apparition47.github.io/MailTrackerBlocker/) | ``0.7.7`` | `40` | `2022-11-03T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Nano``](https://nano.org/) | ``23.3`` | `40` |  |  |  |  |  | `0` |  |
@@ -3046,7 +3046,7 @@ tr:nth-child(even) {
 | [``iStat Server``](https://bjango.com/istatserver/) | ``3.03`` | `6` |  |  |  |  |  | `0` |  |
 | [``iThoughtsX``](https://www.toketaware.com/ithoughts-osx) | ``9.0.0`` | `6` |  |  |  |  |  | `0` |  |
 | [``JANDI``](https://www.jandi.com/landing/) | ``1.4.6,201106`` | `6` |  |  |  |  |  | `0` |  |
-| [``JQuake``](https://jquake.net/) | ``1.8.4`` | `6` | `2022-11-17T06:39:31Z` |  |  |  |  | `0` |  |
+| [``JQuake``](https://jquake.net/) | ``1.8.4`` | `6` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``KeyCast``](https://github.com/cho45/KeyCast) | ``1.1`` | `6` |  |  |  |  |  | `0` |  |
 | [``KLatexFormula``](https://klatexformula.sourceforge.io/) | ``4.1.0`` | `6` |  |  |  |  |  | `0` |  |
 | [``Knuff``](https://github.com/KnuffApp/Knuff) | ``1.3`` | `6` |  |  |  |  |  | `0` |  |
@@ -3460,7 +3460,7 @@ tr:nth-child(even) {
 | [``cd_to``](https://github.com/ealeksandrov/cdto) | ``2.8.0`` | `3` |  |  |  |  |  | `0` |  |
 | [``ebi.BookReader``](https://www.ebookjapan.jp/ebj/reader/mac/) | ``1.3.6.0`` | `3` |  |  |  |  |  | `0` |  |
 | [``Editaro``](https://editaro.com/) | ``1.7.1`` | `3` |  |  |  |  |  | `0` |  |
-| [``Elephicon``](https://github.com/sprout2000/elephicon/) | ``2.1.6`` | `3` | `2022-11-17T06:39:31Z` |  |  |  |  | `0` |  |
+| [``Elephicon``](https://github.com/sprout2000/elephicon/) | ``2.1.6`` | `3` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``EV3 Classroom``](https://education.lego.com/en-us/downloads/mindstorms-ev3/software) | ``1.50`` | `3` |  |  |  |  |  | `0` |  |
 | [``Fenix``](http://fenixwebserver.com/) | ``2.0.0`` | `3` |  |  |  |  |  | `0` |  |
 | [``firebird``](https://github.com/nspire-emus/firebird) | ``1.5`` | `3` |  |  |  |  |  | `0` |  |

@@ -1113,7 +1113,7 @@ tr:nth-child(even) {
 | [``Paw``](https://paw.cloud/) | ``3.4.0,3004000012`` | `303` |  |  |  |  |  | `0` |  |
 | [``Platypus``](https://sveinbjorn.org/platypus) | ``5.4.1,1240`` | `302` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Motrix``](https://motrix.app/) | ``1.6.11`` | `300` |  |  |  |  |  | `0` |  |
-| [``NVIDIA GeForce NOW``](https://www.nvidia.com/en-us/geforce-now/download/) | ``2.0.46.135`` | `297` | `2022-11-17T09:33:44Z` |  |  |  |  | `0` |  |
+| [``NVIDIA GeForce NOW``](https://www.nvidia.com/en-us/geforce-now/download/) | ``2.0.46.135`` | `297` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Paintbrush``](https://paintbrush.sourceforge.io/) | ``2.6.0,20210402`` | `297` |  |  |  |  |  | `0` |  |
 | [``Fuse Studio``](https://fuse-open.github.io/) | ``1.9.0`` | `294` |  |  |  |  |  | `0` |  |
 | [``Diffusion Bee``](https://diffusionbee.com/) | ``1.5.1`` | `293` | `2022-11-11T00:00:00Z` |  |  |  |  | `0` |  |

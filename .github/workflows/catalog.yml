@@ -46,7 +46,7 @@ jobs:
         uses: ruby/setup-ruby@v1.123.0
         with:
           ruby-version: '3.0'
-          bundler-cache: false
+          bundler-cache: true
           cache-version: 0
 
       - name: Set up Homebrew

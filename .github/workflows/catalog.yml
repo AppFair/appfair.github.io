@@ -31,7 +31,8 @@ on:
 
 concurrency: 
   group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  #cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -121,7 +122,7 @@ jobs:
             --news-items 10 \
             -o fairapps-macos_new.json
 
-          mv fairapps-macos_new.json fairapps-macos.json
+          mv fairapps-macos_new.json fairapps-macos.json || echo "No fairapps-macos_new.json"
 
       - name: Generate iOS catalog
         run: |
@@ -163,7 +164,7 @@ jobs:
             --news-items 0 \
             -o fairapps-ios_new.json
 
-          mv fairapps-ios_new.json fairapps-ios.json
+          mv fairapps-ios_new.json fairapps-ios.json || echo "No fairapps-ios_new.json"
 
       - name: Generate appcasks catalog
         run: |
@@ -208,7 +209,7 @@ jobs:
             --news-items 100 \
             -o appcasks_new.json
 
-          mv appcasks_new.json appcasks.json
+          mv appcasks_new.json appcasks.json || echo "No appcasks_new.json"
 
       - name: Setup Pages
         id: pages

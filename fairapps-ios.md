@@ -28,7 +28,7 @@ tr:nth-child(even) {
 | [``Sita Sings the Blues``](https://Sita-Sings-the-Blues.github.io/App/) | ``0.0.51`` | `224` | `2022-08-27T00:00:00Z` | `1.46 GB` | `1555` | `65` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.20`` | `184` | `2022-07-20T00:00:00Z` | `5.4 MB` | `4442` | `305` | `0` | `0` |  |
 | [``Lottie Motion``](https://lottie-motion.appfair.net) | ``0.0.96`` | `183` | `2022-08-27T00:00:00Z` | `12.8 MB` | `1328` | `104` | `0` | `0` |  |
-| [``App Fair``](https://appfair.app) | ``0.8.131`` | `166` | `2022-10-20T00:00:00Z` | `8.1 MB` | `510` | `63` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
+| [``App Fair``](https://appfair.app) | ``0.8.131`` | `166` | `2022-10-20T00:00:00Z` | `8.1 MB` | `512` | `63` | `29` | [``7``](https://github.com/App-Fair/App/issues) |  |
 | [``Huffle Puff``](https://Huffle-Puff.github.io/App/) | ``0.0.10`` | `161` | `2022-09-09T00:00:00Z` | `5.7 MB` | `1413` | `121` | `0` | `0` |  |
 | [``Hex Loupe``](https://Hex-Loupe.github.io/App/) | ``0.0.22β`` | `150` | `2022-08-27T00:00:00Z` | `5.8 MB` | `20` | `1` | `0` | `0` |  |
 | [``Net Skip``](https://Net-Skip.github.io/App/) | ``0.0.48`` | `35` | `2022-09-20T00:00:00Z` | `7.7 MB` | `477` | `31` | `0` | `0` |  |

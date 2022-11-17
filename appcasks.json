@@ -15314,17 +15314,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "docker",
-      "downloadURL" : "https://desktop.docker.com/mac/main/amd64/91374/Docker.dmg",
+      "downloadURL" : "https://desktop.docker.com/mac/main/amd64/91661/Docker.dmg",
       "homepage" : "https://www.docker.com/products/docker-desktop",
       "localizedDescription" : "App to build and share containerized applications and microservices",
       "name" : "Docker Desktop",
-      "sha256" : "f554d67e1189efdc5e85e4c28bc4b82a979914016bfb5cc83cde719d557ce062",
+      "sha256" : "c70534abce8e288178fdff9fa89d110a93257b008e1e69c69465f6b41d26155f",
       "stats" : {
         "downloadCount" : 29034
       },
       "subtitle" : "App to build and share containerized applications and microservices",
-      "version" : "4.14.0,91374",
-      "versionDate" : "2022-11-10T00:00:00Z"
+      "version" : "4.14.1,91661",
+      "versionDate" : "2022-11-17T16:44:47Z"
     },
     {
       "beta" : false,
@@ -16576,16 +16576,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "adobe-acrobat-reader",
-      "downloadURL" : "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2200320258/AcroRdrDC_2200320258_MUI.dmg",
+      "downloadURL" : "https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/2200320281/AcroRdrDC_2200320281_MUI.dmg",
       "homepage" : "https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html",
       "localizedDescription" : "View, print, and comment on PDF documents",
       "name" : "Adobe Acrobat Reader",
-      "sha256" : "f23d3f6a6c10e2df540c2345d8b1c90e28b9ef6de7b9d63739ed9b715b2b7ecc",
+      "sha256" : "43ccafc2cd8321119720b21c5b2821ac9d7e71c7eeb4eb85f09687ebceb0eefe",
       "stats" : {
         "downloadCount" : 1775
       },
       "subtitle" : "View, print, and comment on PDF documents",
-      "version" : "22.003.20258"
+      "version" : "22.003.20281",
+      "versionDate" : "2022-11-17T16:44:47Z"
     },
     {
       "beta" : false,
@@ -16835,17 +16836,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "bettertouchtool",
-      "downloadURL" : "https://folivora.ai/releases/btt3.942-2107.zip",
+      "downloadURL" : "https://folivora.ai/releases/btt3.943-2108.zip",
       "homepage" : "https://folivora.ai/",
       "localizedDescription" : "Tool to customize input devices and automate computer systems",
       "name" : "BetterTouchTool",
-      "sha256" : "229bdd6adcba27b374238b9c29f001fb82dc07c490cb60bb849dfa9c3888bcf4",
+      "sha256" : "b318cb894dd67ee8216023ca7c302dbac9a716864e00a50f98bca3eaa0ce3971",
       "stats" : {
         "downloadCount" : 1306
       },
       "subtitle" : "Tool to customize input devices and automate computer systems",
-      "version" : "3.942,2107",
-      "versionDate" : "2022-11-16T00:00:00Z"
+      "version" : "3.943,2108",
+      "versionDate" : "2022-11-17T16:44:47Z"
     },
     {
       "beta" : false,
@@ -17803,17 +17804,17 @@
     {
       "beta" : false,
       "bundleIdentifier" : "protonvpn",
-      "downloadURL" : "https://protonvpn.com/download/ProtonVPN_mac_v3.0.5.dmg",
+      "downloadURL" : "https://protonvpn.com/download/ProtonVPN_mac_v3.0.6.dmg",
       "homepage" : "https://protonvpn.com/",
       "localizedDescription" : "VPN client focusing on security",
       "name" : "ProtonVPN",
-      "sha256" : "3a3da25721bfd1fcdb32c85b3fa83bb5d8d83f20031afc5a0e99a5476b899f89",
+      "sha256" : "173c14b7a44ddece2a95d4ed9eed6e8aa6ce54742c5e0192bd64bdca2486cf6d",
       "stats" : {
         "downloadCount" : 694
       },
       "subtitle" : "VPN client focusing on security",
-      "version" : "3.0.5",
-      "versionDate" : "2022-11-04T00:00:00Z"
+      "version" : "3.0.6",
+      "versionDate" : "2022-11-17T16:44:47Z"
     },
     {
       "beta" : false,
@@ -62390,34 +62391,6 @@
   "name" : "Homebrew Casks",
   "news" : [
     {
-      "appID" : "hype",
-      "caption" : "Tumult Hype updated from 4.1.11,746 to 4.1.12,748",
-      "date" : "2022-11-16T02:16:35Z",
-      "identifier" : "release-hype-4.1.12,748",
-      "title" : "New Release: Tumult Hype 4.1.12,748"
-    },
-    {
-      "appID" : "quickbooks",
-      "caption" : "QuickBooks Desktop updated from 21.0.7.1244,2022 to 21.0.7.1246,2022",
-      "date" : "2022-11-16T02:16:36Z",
-      "identifier" : "release-quickbooks-21.0.7.1246,2022",
-      "title" : "New Release: QuickBooks Desktop 21.0.7.1246,2022"
-    },
-    {
-      "appID" : "cloudash",
-      "caption" : "cloudash updated from 1.18.0 to 1.19.1",
-      "date" : "2022-11-16T02:16:36Z",
-      "identifier" : "release-cloudash-1.19.1",
-      "title" : "New Release: cloudash 1.19.1"
-    },
-    {
-      "appID" : "weakauras-companion",
-      "caption" : "WeakAuras Companion updated from 4.1.0 to 4.1.1",
-      "date" : "2022-11-16T02:16:36Z",
-      "identifier" : "release-weakauras-companion-4.1.1",
-      "title" : "New Release: WeakAuras Companion 4.1.1"
-    },
-    {
       "appID" : "compositor",
       "caption" : "Compositor updated from 1.20.4 to 1.20.6",
       "date" : "2022-11-16T02:16:36Z",
@@ -63088,6 +63061,34 @@
       "date" : "2022-11-17T13:01:49Z",
       "identifier" : "release-tuxera-ntfs-2022",
       "title" : "New Release: Tuxera NTFS 2022"
+    },
+    {
+      "appID" : "docker",
+      "caption" : "Docker Desktop updated from 4.14.0,91374 to 4.14.1,91661",
+      "date" : "2022-11-17T16:44:47Z",
+      "identifier" : "release-docker-4.14.1,91661",
+      "title" : "New Release: Docker Desktop 4.14.1,91661"
+    },
+    {
+      "appID" : "adobe-acrobat-reader",
+      "caption" : "Adobe Acrobat Reader updated from 22.003.20258 to 22.003.20281",
+      "date" : "2022-11-17T16:44:48Z",
+      "identifier" : "release-adobe-acrobat-reader-22.003.20281",
+      "title" : "New Release: Adobe Acrobat Reader 22.003.20281"
+    },
+    {
+      "appID" : "bettertouchtool",
+      "caption" : "BetterTouchTool updated from 3.942,2107 to 3.943,2108",
+      "date" : "2022-11-17T16:44:48Z",
+      "identifier" : "release-bettertouchtool-3.943,2108",
+      "title" : "New Release: BetterTouchTool 3.943,2108"
+    },
+    {
+      "appID" : "protonvpn",
+      "caption" : "ProtonVPN updated from 3.0.5 to 3.0.6",
+      "date" : "2022-11-17T16:44:48Z",
+      "identifier" : "release-protonvpn-3.0.6",
+      "title" : "New Release: ProtonVPN 3.0.6"
     }
   ],
   "sourceURL" : "https://appfair.net/appcasks.json"

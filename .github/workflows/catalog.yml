@@ -33,51 +33,30 @@ concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   build:
-    #runs-on: macos-12
-    #runs-on: ubuntu-22.04
-    runs-on: ubuntu-latest
-
+    runs-on: ubuntu-22.04
     timeout-minutes: 30
+
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Set up Homebrew
+        if: false
         id: set-up-homebrew
         uses: Homebrew/actions/setup-homebrew@master
 
       - name: "Install ${{ env.FAIRTOOL }}"
+        if: false
         run: |
           brew install fair-ground/tool/$FAIRTOOL
           $FAIRTOOL version
-
-      - name: Checkout Catalog
-        uses: actions/checkout@v2
-        with:
-          repository: appfair/appfair.github.io.git
-          ref: main
-          path: appfair.github.io/
-
-      - name: Checkout Casks
-        env:
-          GITHUB_TOKEN: ${{ secrets.APP_FAIR_BOT_TOKEN }}
-        run: |
-          git clone https://user:$GITHUB_TOKEN@github.com/appfair/homebrew-app
-
-      - name: Clear Casks
-        run: |
-          rm -rf homebrew-app/Casks/
-          mkdir -p homebrew-app/Casks/
-          rm -f fairapps-macos.json fairapps-macos.md
-          rm -f fairapps-ios.json fairapps-ios.md
-
-      - name: Setup appfair.github.io repo
-        run: |
-          cd appfair.github.io/
-          git config credential.username "appfairbot"
-          git config credential.password "${{ secrets.APP_FAIR_BOT_TOKEN }}"
-          git config user.name "appfairbot"
-          git config user.email "appfairbot@appfair.net"
-          cd -
 
       - name: "Configure posting auth"
         run: |
@@ -89,8 +68,9 @@ jobs:
           echo "FAIRTOOL_TWITTER_TOKEN_SECRET=${{ secrets.APP_FAIR_TWITTER_TOKEN_SECRET }}" >> $GITHUB_ENV
 
       - name: Generate macOS catalog
+        if: false
         run: |
-          cp appfair.github.io/fairapps-macos.json appfair.github.io/fairapps-macos_old.json && touch appfair.github.io/fairapps-macos_old.json
+          cp fairapps-macos.json fairapps-macos_old.json && touch fairapps-macos_old.json
           $FAIRTOOL fair catalog \
             --verbose \
             --hub github.com/appfair \
@@ -108,13 +88,13 @@ jobs:
             --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
             --cask-folder homebrew-app/Casks/ \
-            -o appfair.github.io/fairapps-macos.json
+            -o fairapps-macos.json
 
           # update the catalog to generate the markdown and news items 
           $FAIRTOOL source postrelease \
-            --from-catalog appfair.github.io/fairapps-macos_old.json \
-            --to-catalog appfair.github.io/fairapps-macos.json \
-            --markdown-index appfair.github.io/fairapps-macos.md \
+            --from-catalog fairapps-macos_old.json \
+            --to-catalog fairapps-macos.json \
+            --markdown-index fairapps-macos.md \
             --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
             --tweet-body 'New App Release (macOS): #(appname) #(appversion) - https://appfair.app/fair?app=#(appname_hyphenated)' \
             --post-body 'New Release on the App Fair: #(appname) #(appversion) - https://appfair.app/fair?app=#(appname_hyphenated)' \
@@ -124,27 +104,14 @@ jobs:
             --post-caption "#(appname) #(appversion) released" \
             --post-caption-update "#(appname) updated from #(oldappversion) to #(appversion)" \
             --news-items 10 \
-            -o appfair.github.io/fairapps-macos_new.json
+            -o fairapps-macos_new.json
 
-          mv appfair.github.io/fairapps-macos_new.json appfair.github.io/fairapps-macos.json
-
-          cd appfair.github.io/
-
-          git add fairapps-macos.md fairapps-macos.json
-
-          # TODO: deprecate legacy endpoints
-          cp fairapps-macos.md fairapps.md
-          cp fairapps-macos.json fairapps.json
-          git add fairapps.md fairapps.json 
-
-          git pull
-          git commit -m "macOS catalog update" || echo "nothing to commit"
-          git push
-          cd -
+          mv fairapps-macos_new.json fairapps-macos.json
 
       - name: Generate iOS catalog
+        if: false
         run: |
-          cp appfair.github.io/fairapps-ios.json appfair.github.io/fairapps-ios_old.json && touch appfair.github.io/appcasks_old.json
+          cp fairapps-ios.json fairapps-ios_old.json && touch appcasks_old.json
           $FAIRTOOL fair catalog \
             --verbose \
             --hub github.com/appfair \
@@ -161,19 +128,17 @@ jobs:
             --deny-name "${{ secrets.APP_FAIR_DENY_NAME }}" \
             --allow-from "${{ secrets.APP_FAIR_ALLOW_FROM }}" \
             --deny-from "${{ secrets.APP_FAIR_DENY_FROM }}" \
-            -o appfair.github.io/fairapps-ios.json
+            -o fairapps-ios.json
 
           # generate AltStore-specific catalog
-          cd appfair.github.io/
           cat fairapps-ios.json | jq '.apps |= map(select(.bundleIdentifier|match("${{ secrets.APP_FAIR_ALTSTORE_APPS }}")))' | jq '.sourceURL |= "https://www.appfair.net/fairapps-altstore.json"' > fairapps-altstore.json
 
-          cd -
 
           # update the catalog to generate the markdown and news items 
           $FAIRTOOL source postrelease \
-            --from-catalog appfair.github.io/fairapps-ios_old.json \
-            --to-catalog appfair.github.io/fairapps-ios.json \
-            --markdown-index appfair.github.io/fairapps-ios.md \
+            --from-catalog fairapps-ios_old.json \
+            --to-catalog fairapps-ios.json \
+            --markdown-index fairapps-ios.md \
             --post-url 'https://appfair.app/fair?app=#(appname_hyphenated)' \
             --post-body 'New Release on the App Fair: #(appname) #(appversion) - https://appfair.app/fair?app=#(appname_hyphenated)' \
             --post-title 'New Release: #(appname) #(appversion)' \
@@ -182,20 +147,14 @@ jobs:
             --post-caption "#(appname) #(appversion) released" \
             --post-caption-update "#(appname) updated from #(oldappversion) to #(appversion)" \
             --news-items 0 \
-            -o appfair.github.io/fairapps-ios_new.json
+            -o fairapps-ios_new.json
 
-          mv appfair.github.io/fairapps-ios_new.json appfair.github.io/fairapps-ios.json
-
-          cd appfair.github.io/
-          git add fairapps-ios.md fairapps-ios.json fairapps-altstore.json
-          git pull
-          git commit -m "iOS catalog update" || echo "nothing to commit"
-          git push
-          cd -
+          mv fairapps-ios_new.json fairapps-ios.json
 
       - name: Generate appcasks catalog
+        if: false
         run: |
-          cp appfair.github.io/appcasks.json appfair.github.io/appcasks_old.json && touch appfair.github.io/appcasks_old.json
+          cp appcasks.json appcasks_old.json && touch appcasks_old.json
           $FAIRTOOL brew appcasks \
             --verbose \
             --hub github.com/appfair \
@@ -210,7 +169,7 @@ jobs:
             --merge-cask-stats "https://formulae.brew.sh/api/analytics/cask-install/homebrew-cask/30d.json" \
             --boost-apps "${{ secrets.APP_FAIR_BOOSTED_CASKS }}" \
             --boost-factor 100000 \
-            -o appfair.github.io/appcasks.json
+            -o appcasks.json
 
             #--cask-query-count 9 --release-query-count 9 --asset-query-count 9
 
@@ -220,9 +179,9 @@ jobs:
 
           # update the catalog to generate the markdown and news items 
           $FAIRTOOL source postrelease \
-            --from-catalog appfair.github.io/appcasks_old.json \
-            --to-catalog appfair.github.io/appcasks.json \
-            --markdown-index appfair.github.io/appcasks.md \
+            --from-catalog appcasks_old.json \
+            --to-catalog appcasks.json \
+            --markdown-index appcasks.md \
             --post-url 'https://appfair.app/fair?cask=#(apptoken)' \
             --tweet-body 'New App Release (macOS): #(appname) #(appversion) - https://appfair.app/fair?cask=#(apptoken)' \
             --post-body 'New Release on the App Fair: #(appname) #(appversion) - https://appfair.app/fair?cask=#(apptoken)' \
@@ -233,24 +192,25 @@ jobs:
             --post-caption-update "#(appname) updated from #(oldappversion) to #(appversion)" \
             --update-version-date \
             --news-items 100 \
-            -o appfair.github.io/appcasks_new.json
+            -o appcasks_new.json
 
-          mv appfair.github.io/appcasks_new.json appfair.github.io/appcasks.json
+          mv appcasks_new.json appcasks.json
 
-          cd appfair.github.io/
-          git add appcasks.json appcasks.md
-          git pull
-          git commit -m "casks catalog update" || echo "nothing to commit"
-          git push
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v2
 
-      - name: Update casks inventory
-        run: |
-          cd homebrew-app/
-          git config user.name "appfairbot"
-          git config user.email "appfairbot@appfair.net"
-          git pull
-          git add .
-          git commit -m "cask update" || echo "nothing to commit"
-          git push
-          cd -
+      - name: Build with Jekyll
+        # Outputs to the './_site' directory by default
+        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload artifact
+        # Automatically uploads an artifact from the './_site' directory by default
+        uses: actions/upload-pages-artifact@v1
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
 

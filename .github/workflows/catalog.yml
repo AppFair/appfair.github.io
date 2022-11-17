@@ -21,7 +21,7 @@ env:
   FAIRTOOL: "fairtool"
   # fairtool-head will build from source, which adds a few minutes
   #FAIRTOOL: "fairtool-head"
-  
+
 on:
   push:
     branches: [ main ]
@@ -82,9 +82,10 @@ jobs:
           echo "FAIRTOOL_TWITTER_TOKEN_SECRET=${{ secrets.APP_FAIR_TWITTER_TOKEN_SECRET }}" >> $GITHUB_ENV
 
       - name: Generate macOS catalog
-        if: true
         run: |
           cp fairapps-macos.json fairapps-macos_old.json && touch fairapps-macos_old.json || echo "no existing fairapps-macos.json"
+          # TODO: save casks to https://github.com/appfair/homebrew-app/tree/main/Casks
+          mkdir -p homebrew-app/
           $FAIRTOOL fair catalog \
             --verbose \
             --hub github.com/appfair \
@@ -123,7 +124,6 @@ jobs:
           mv fairapps-macos_new.json fairapps-macos.json
 
       - name: Generate iOS catalog
-        if: true
         run: |
           cp fairapps-ios.json fairapps-ios_old.json && touch appcasks_old.json || echo "no existing fairapps-ios.json"
           $FAIRTOOL fair catalog \
@@ -166,9 +166,9 @@ jobs:
           mv fairapps-ios_new.json fairapps-ios.json
 
       - name: Generate appcasks catalog
-        if: true
         run: |
-          cp appcasks.json appcasks_old.json && touch appcasks_old.json
+          cp appcasks.json appcasks_old.json && touch appcasks_old.json || echo "no existing appcasks.json"
+
           $FAIRTOOL brew appcasks \
             --verbose \
             --hub github.com/appfair \

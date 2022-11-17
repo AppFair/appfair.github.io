@@ -67,7 +67,7 @@ jobs:
           brew install-bundler-gems
 
       - name: "Install ${{ env.FAIRTOOL }}"
-        if: false
+        if: true
         run: |
           brew install fair-ground/tool/$FAIRTOOL
           $FAIRTOOL version
@@ -82,7 +82,7 @@ jobs:
           echo "FAIRTOOL_TWITTER_TOKEN_SECRET=${{ secrets.APP_FAIR_TWITTER_TOKEN_SECRET }}" >> $GITHUB_ENV
 
       - name: Generate macOS catalog
-        if: false
+        if: true
         run: |
           cp fairapps-macos.json fairapps-macos_old.json && touch fairapps-macos_old.json || echo "no existing fairapps-macos.json"
           $FAIRTOOL fair catalog \
@@ -123,7 +123,7 @@ jobs:
           mv fairapps-macos_new.json fairapps-macos.json
 
       - name: Generate iOS catalog
-        if: false
+        if: true
         run: |
           cp fairapps-ios.json fairapps-ios_old.json && touch appcasks_old.json || echo "no existing fairapps-ios.json"
           $FAIRTOOL fair catalog \
@@ -166,7 +166,7 @@ jobs:
           mv fairapps-ios_new.json fairapps-ios.json
 
       - name: Generate appcasks catalog
-        if: false
+        if: true
         run: |
           cp appcasks.json appcasks_old.json && touch appcasks_old.json
           $FAIRTOOL brew appcasks \

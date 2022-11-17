@@ -796,7 +796,7 @@ tr:nth-child(even) {
 | [``Oracle VirtualBox``](https://www.virtualbox.org/) | ``7.0.2,154219`` | `9891` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Warp``](https://www.warp.dev/) | ``0.2022.11.14.14.55.stabl…`` | `9654` | `2022-11-15T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Google Cloud SDK``](https://cloud.google.com/sdk/) | ``latest`` | `9593` |  |  |  |  |  | `0` |  |
-| [``Rectangle``](https://rectangleapp.com/) | ``0.63,69`` | `8823` | `2022-11-17T18:40:48Z` |  |  |  |  | `0` |  |
+| [``Rectangle``](https://rectangleapp.com/) | ``0.63,69`` | `8823` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ChromeDriver``](https://sites.google.com/chromium.org/driver/) | ``107.0.5304.62`` | `8658` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``DBeaver Community Editio``](https://dbeaver.io/) | ``22.2.4`` | `8514` | `2022-11-07T00:00:00Z` |  |  |  |  | `0` |  |
 | [``fig``](https://fig.io/) | ``2.7.9`` | `7748` | `2022-11-16T00:00:00Z` |  |  |  |  | `0` |  |
@@ -1093,7 +1093,7 @@ tr:nth-child(even) {
 | [``LaunchControl``](https://www.soma-zone.com/LaunchControl/) | ``2.0.1,2277`` | `334` | `2022-11-01T00:00:00Z` |  |  |  |  | `0` |  |
 | [``QLPrettyPatch``](https://github.com/atnan/QLPrettyPatch) | ``1.0`` | `330` |  |  |  |  |  | `0` |  |
 | [``TimeMachineEditor``](https://tclementdev.com/timemachineeditor/) | ``5.2.1,218`` | `329` |  |  |  |  |  | `0` |  |
-| [``Arduino IDE``](https://www.arduino.cc/en/software) | ``2.0.2`` | `329` | `2022-11-17T18:40:48Z` |  |  |  |  | `0` |  |
+| [``Arduino IDE``](https://www.arduino.cc/en/software) | ``2.0.2`` | `329` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``LICEcap``](https://www.cockos.com/licecap/) | ``1.32`` | `329` |  |  |  |  |  | `0` |  |
 | [``micromamba``](https://mamba.readthedocs.io/en/latest/installation.html#micromamba) | ``1.0.0,1`` | `328` | `2022-11-06T00:00:00Z` |  |  |  |  | `0` |  |
 | [``RubyMine``](https://www.jetbrains.com/ruby/) | ``2022.2.3,222.4345.14`` | `327` |  |  |  |  |  | `0` |  |

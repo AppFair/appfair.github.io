@@ -786,7 +786,7 @@ tr:nth-child(even) {
 | [``Today Scripts``](https://github.com/SamRothCA/Today-Scripts) | ``1.1`` | `0` |  |  | `93` |  |  | `0` |  |
 | [``Sonic Robo Blast 2 Kart``](https://mb.srb2.org/addons/srb2kart.2435/) | ``1.6`` | `0` | `2022-11-06T00:00:00Z` |  | `134` |  |  | `0` |  |
 | [``iTerm2``](https://www.iterm2.com/) | ``3.4.18`` | `30899` | `2022-11-15T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Docker Desktop``](https://www.docker.com/products/docker-desktop) | ``4.14.1,91661`` | `29034` | `2022-11-17T16:44:47Z` |  |  |  |  | `0` |  |
+| [``Docker Desktop``](https://www.docker.com/products/docker-desktop) | ``4.14.1,91661`` | `29034` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Google Chrome``](https://www.google.com/chrome/) | ``107.0.5304.110`` | `20073` | `2022-11-08T00:00:00Z` |  |  |  |  | `0` |  |
 | [``ngrok``](https://ngrok.com/) | ``3.1.0,gMHPWQMhW1J,a`` | `17365` |  |  |  |  |  | `0` |  |
 | [``Android SDK Platform-Too…``](https://developer.android.com/studio/releases/platform-tools) | ``33.0.3`` | `15532` |  |  |  |  |  | `0` |  |
@@ -872,7 +872,7 @@ tr:nth-child(even) {
 | [``BloomRPC``](https://github.com/uw-labs/bloomrpc) | ``1.5.3`` | `1882` |  |  |  |  |  | `0` |  |
 | [``draw.io Desktop``](https://www.diagrams.net/) | ``20.3.0`` | `1854` |  |  |  |  |  | `0` |  |
 | [``Oracle VirtualBox Extens…``](https://www.virtualbox.org/) | ``7.0.2`` | `1794` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``Adobe Acrobat Reader``](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) | ``22.003.20281`` | `1775` | `2022-11-17T16:44:47Z` |  |  |  |  | `0` |  |
+| [``Adobe Acrobat Reader``](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html) | ``22.003.20281`` | `1775` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``calibre``](https://calibre-ebook.com/) | ``6.8.0`` | `1758` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
 | [``LibreWolf``](https://librewolf.net/) | ``107.0,1,6ab1312437711aa7…`` | `1745` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Bitwarden``](https://bitwarden.com/) | ``2022.10.1`` | `1735` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
@@ -890,7 +890,7 @@ tr:nth-child(even) {
 | [``Audacity``](https://www.audacityteam.org/) | ``3.2.1`` | `1369` |  |  |  |  |  | `0` |  |
 | [``AdoptOpenJDK Java Develo…``](https://adoptopenjdk.net/) | ``16.0.1,9`` | `1352` |  |  |  |  |  | `0` |  |
 | [``coconutBattery``](https://www.coconut-flavour.com/coconutbattery/) | ``3.9.10,8CB62F0B`` | `1339` | `2022-11-04T00:00:00Z` |  |  |  |  | `0` |  |
-| [``BetterTouchTool``](https://folivora.ai/) | ``3.943,2108`` | `1306` | `2022-11-17T16:44:47Z` |  |  |  |  | `0` |  |
+| [``BetterTouchTool``](https://folivora.ai/) | ``3.943,2108`` | `1306` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``GPG Suite``](https://gpgtools.org/) | ``2022.2`` | `1304` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Hidden Bar``](https://github.com/dwarvesf/hidden/) | ``1.9`` | `1297` |  |  |  |  |  | `0` |  |
 | [``CocoaPods.app``](https://cocoapods.org/) | ``1.5.2`` | `1234` |  |  |  |  |  | `0` |  |
@@ -957,7 +957,7 @@ tr:nth-child(even) {
 | [``GraphiQL App``](https://github.com/skevy/graphiql-app) | ``0.7.2`` | `702` |  |  |  |  |  | `0` |  |
 | [``GCC ARM Embedded``](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain) | ``11.3.rel1`` | `696` |  |  |  |  |  | `0` |  |
 | [``Kap``](https://getkap.co/) | ``3.6.0`` | `695` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |
-| [``ProtonVPN``](https://protonvpn.com/) | ``3.0.6`` | `694` | `2022-11-17T16:44:47Z` |  |  |  |  | `0` |  |
+| [``ProtonVPN``](https://protonvpn.com/) | ``3.0.6`` | `694` | `2022-11-17T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Evernote``](https://evernote.com/) | ``10.49.4,3782,127ce42593`` | `692` | `2022-11-16T00:00:00Z` |  |  |  |  | `0` |  |
 | [``LastPass``](https://www.lastpass.com/) | ``4.103.0,1284`` | `688` | `2022-11-16T00:00:00Z` |  |  |  |  | `0` |  |
 | [``Miro``](https://miro.com/) | ``0.7.22`` | `677` | `2022-10-28T00:00:00Z` |  |  |  |  | `0` |  |

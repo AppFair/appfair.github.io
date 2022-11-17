@@ -43,7 +43,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Setup Ruby
-        if: false
         uses: ruby/setup-ruby@v1.123.0
         with:
           ruby-version: '3.0'
@@ -82,9 +81,8 @@ jobs:
           echo "FAIRTOOL_TWITTER_TOKEN_SECRET=${{ secrets.APP_FAIR_TWITTER_TOKEN_SECRET }}" >> $GITHUB_ENV
 
       - name: Generate macOS catalog
-        if: false
         run: |
-          cp fairapps-macos.json fairapps-macos_old.json && touch fairapps-macos_old.json
+          cp fairapps-macos.json fairapps-macos_old.json && touch fairapps-macos_old.json || echo "no existing fairapps-macos.json"
           $FAIRTOOL fair catalog \
             --verbose \
             --hub github.com/appfair \
@@ -123,9 +121,8 @@ jobs:
           mv fairapps-macos_new.json fairapps-macos.json
 
       - name: Generate iOS catalog
-        if: false
         run: |
-          cp fairapps-ios.json fairapps-ios_old.json && touch appcasks_old.json
+          cp fairapps-ios.json fairapps-ios_old.json && touch appcasks_old.json || echo "no existing fairapps-ios.json"
           $FAIRTOOL fair catalog \
             --verbose \
             --hub github.com/appfair \

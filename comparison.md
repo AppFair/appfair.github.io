@@ -17,8 +17,8 @@ The following table attempts to summarize some of the similarities and differenc
 
 | Tech  | F-Droid | The App Fair |
 | --- | --- | --- |
-| Platforms | Google Android | Apple iPhone, iPad, macOS |
-| Primary App Dev Languages | Java, Kotlin, + | Swift, Objective-C, C |
+| Platforms | Android | iPhone, iPad, macOS |
+| Primary App Dev Languages | Java, Kotlin | Swift, Objective-C, C |
 | App UI Framework | Any Android | SwiftUI and UIKit |
 | Catalog Input Metadata | YAML | YAML |
 | Catalog Output Metadata | JSON[^8] | JSON[^9] |

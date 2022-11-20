@@ -553,7 +553,7 @@ Finally, the `App-Name` organization's public contact must be a valid e-mail add
 An AppSource catalog is a JSON file that lists the apps available in a collection.
 This catalog format is designed to provide interoperable metadata about an
 app, including its name, download location, size, and optional metadata
-such as screenshots and funding links.
+such as screenshots and localized versions of the strings.
 
 The JSON Schema for the appsource catalog format can be found at
 [https://appfair.net/appsource-schema.json](https://appfair.net/appsource-schema.json).
@@ -577,36 +577,27 @@ An example of an app source catalog with a single app is as follows:
   "apps": [
     {
       "name": "App Name",
-      "subtitle": "A brief and informative description of the app",      
+      "subtitle": "A brief 30char app description",
       "localizedDescription": "A longer (max 1000 char) description of the app. Limited markdown permitted.",
-      
+
       "developerName": "Developer Name <developer@example.net>",
       "bundleIdentifier": "net.example.bundle.identifier.from.info.plist",
       "iconURL": "https://app.example.net/assets/app-icon_512x512.png",
       "tintColor": "RGBHEX",
-      
+
       "version": "1.8.1",
       "versionDate": "2022-03-12T10:31:59Z",
       "versionDescription": "A description (max 1000 char) of what has changed in this release. Limited markdown permitted.",
-      
+
       "downloadURL": "https://app.example.net/releases/download/1.8.1/app-archive.ipa",
       "sha256": "74247c3e_sha_256_checksum_of_downloadURL_8a3b671143404681da26b96f",
       "size": 3503022,
-      
+
       "screenshotURLs": [
         "https://app.example.net/releases/download/1.8.1/screenshot_01-iphone-light-750x1334.png",
         "https://app.example.net/releases/download/1.8.1/screenshot_02-iphone-dark-750x1334.png"
       ],
-      
-      "fundingLinks": [
-        {
-          "platform": "GITHUB",
-          "url": "https://github.com/App-Org",
-          "localizedTitle": "Support the development of this app",
-          "localizedDescription": "Help support new features and improvements to this app."
-        }
-      ],
-      
+
       "permissions": [
         {
           "type": "usage",
@@ -628,7 +619,14 @@ An example of an app source catalog with a single app is as follows:
           "identifier": "com.vendor.developer.networking.multicast",
           "usageDescription": "Attestation of this app's multicast entitlement purpose."
         }
-      ]
+      ],
+
+      "localizations": {
+        "fr-FR": {
+          "name": "Le Nom d'App",
+          "subtitle": "Une app fantastique!",
+        }
+      }
     }
   ]
 }
@@ -667,28 +665,16 @@ An element of the "apps" array will contain the following properties:
  - `version`: The semantic version string for this version of the app. Must match the value of the `CFBundleShortVersionString` property in the `Info.plist`. Required.
  - `versionDate`: An ISO-8601 date string for this version of the app. Required.
  - `versionDescription`: A description of the changes made to this version of the app. Required.
-  
+
  - `downloadURL`: The URL of the `.ipa` or `.zip` archive of the app. Required.
  - `sha256`: The SHA256 checksum of the contents of the `downloadURL`. Optional, but may be required by client applications.
  - `size`: The size, in bytes, of the contents of the `downloadURL`. Optional, but may be required by client applications.
  
  - `screenshotURLs`: An array of URL strings pointing to a PNG screenshot of the app. Optional.
- - `fundingLinks`: An array of links to supported funding links. See [Funding Links](#funding-links).
  - `permissions`: An array of permission definitions, one for each entitlement, background mode, and feature `*UsageDescription` in use by the app. Optional only if there are no permissions, entitlements, or background modes used by the app. See [Permission Types](#permission-types).
 
-#### Funding Links
- 
- The properties of the elements of the `fundingLinks` array will contain 
- these mandatory properties:
+ - `localizations`: An object with keys as languages named ("en-US", "fr-FR", etc.) and whose values contain the same app item as the container, but with localized string values.
 
- - `platform`: A supported funding platform. e.g., "GITHUB" or "PATREON".
- - `url`: A valid link to the funding platform's landing page for the account. e.g., "https://github.com/Some-App" or "https://patreon.com/app-creators-united".
-
-Elements can also include the following optional properties:
-
- - `localizedTitle`: The brief title describing the funding option.
- - `localizedDescription`: A longer description of the funding goal.
-  
 #### Permission Types
   
   The properties of the elements of the `permissions` array will vary depending on what `type`

@@ -3,6 +3,156 @@ name: AppFair
 title: The App Fair
 ---
 
+A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, enabling users of iPhones and other devices to choose the sources of the applications and extensions they want to use. The App Fair (appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperarable federation of trusted software repositories. 
+
+Anyone can create an app for the App Fair, just as anyone can create a Fairground as their own app store.
+
+### Background: The Monolithic App Store Model
+
+The current model of how an app gets from a developer to a consumer/user is to have a single intermediary “store” that serves as the clearinghouse for all apps that can be installed on a certain vendor's device. The user generally trusts the vendor (colored gold in the diagram), and thereby transitively trusts any app creator (colored orange) whose app makes it through to the storefront. 
+
+The App Store vendor does not require access to the source code of the app creator, and so trust is maintained through the contractual relationship between the two parties that provide economoic and legal consequence to the App Creator for discovered bad behavior (such as malware, viruses, spyware, etc.). 
+
+Such remediation is often effective but can be unevenly applied due to subjective factors and priorities on the part of the App Store vendor. The consequence is that many applications advertised in the centralized stores and untrustworthy or outright malicious.
+
+```mermaid
+flowchart LR
+    DEV((Developer\nOrganization)) --  Design\nBuild\nDocument\nTest --> PREP(Prepare\nRelease)
+    PREP -- Package\nRelease --> D(Tools\nIDE\nXcode)
+    D -- App.ipa\nmetadata --> PubAppStore[(App Store Connect\nSearch\nBrowse\nBuy\nDownload)]
+    PubAppStore <-- App 1.0.ipa --> AppStoreApp([App Store.app])
+    PubAppStore <-- App 1.1β.ipa --> TestFlight([TestFlight.app])
+    AppStoreApp <-.-> CONSUMER((Consumer))
+    TestFlight <-.-> CONSUMER
+    PubAppStore <-- https://appstore/UnlistedApp.ipa --> CONSUMER
+    PubAppStore <-- SchoolApp.ipa\nEnterpriseApp.ipa --> MDM{MDM}
+    MDM <-.-> CONSUMER
+    DEV <== Contract ==> PubAppStore
+    
+    classDef untrusted fill:orange,stroke:#333,stroke-width:2px;
+    classDef neutral fill:skyblue,stroke:#333,stroke-width:2px;
+    classDef trusted fill:lightgreen,stroke:#000,stroke-width:2px;
+    classDef vendor fill:gold,stroke:#000,stroke-width:2px;
+
+    class DEV,e untrusted
+    class PREP,e untrusted
+    class CONSUMER,e neutral
+    class PubAppStore,e vendor
+    class TestFlight,e vendor
+    class AppStoreApp,e vendor
+    class MDM,e vendor
+    class D,e untrusted
+```
+
+### The Federated App Index Repository (FAIR) Model
+
+In countrast, a Fairground is a part of a federation of app creators who are able to establish trust by opening the source code of their apps to public scrutiny and review. 
+
+Rather that having a contractual relationship between the Fairground and the App Creator, as with the App Store model, the Fairground instead confers trust on apps that it vends by guaranteeing that the published source code is the exact same code that was used to create the application binary that is installed on the end user's device. This prevents many classes of malware and dark patterns by ensuring that the public has the ability to review the blueprints of the apps that they trust with their personal and intimate information.
+
+Fairgrounds use modern techniques and best practices such as reproducible builds and cryptographic signatures to notarize apps as being trustworthy. Remediation of bad behavior is be accomplished through de-listing and banning by the community.
+
+```mermaid
+flowchart LR
+    DEV((Developer\nOrganization)) --  Design\nBuild\nDocument\nTest --> PREP(Prepare\nRelease)
+    PREP -- Submit Merge\nPull Request --- C>Replication\nAutomation]
+    PREP -- Create\nRelease --- D>Build\nAutomation]
+    D -- App.ipa --> RELDL[(Web Site\nApp1.ipa\nDownloads)]
+    C -- App2.ipa ---> VERIFY{{Match\nScan\nIndex\nSign}}
+    RELDL <-.-> VERIFY
+    VERIFY -- Publish Seal\nMetadata --> PAC[(AppSource\nCatalog\nJSON)]
+    RELDL <-.-> AppFairApp([App Fair.app])
+    PAC <--> AppFairApp
+    AppFairApp <--> CONSUMER((Consumer))
+    
+    classDef untrusted fill:orange,stroke:#333,stroke-width:2px;
+    classDef neutral fill:skyblue,stroke:#333,stroke-width:2px;
+    classDef trusted fill:lightgreen,stroke:#000,stroke-width:2px;
+    classDef vendor fill:gold,stroke:#000,stroke-width:2px;
+
+    class DEV,e untrusted
+    class PREP,e untrusted
+    class CONSUMER,e neutral
+    class PubAppStore,e vendor
+    class TestFlight,e vendorg
+    class AppStoreApp,e vendor
+    class MDM,e vendor
+    class D,e untrusted
+
+    class DEV,e untrusted
+    class PREP,e untrusted
+    class CONSUMER,e neutral
+    class PubAppStore,e trusted
+    class TestFlight,e trusted
+    class AppStoreApp,e trusted
+    class MDM,e trusted
+    class D,e untrusted
+    class VERIFY,e trusted
+    class C,e trusted
+    class PAC,e trusted
+    class AppFairApp,e trusted
+    class RELDL,e untrusted
+```
+
+### FAIR + App Store Tandem
+
+```mermaid
+flowchart LR
+    DEV((Developer\nOrganization)) --  Design\nBuild\nDocument\nTest --> PREP(Prepare\nRelease)
+
+    PREP -- Submit Merge\nPull Request --- C>Replication\nAutomation]
+    PREP -- Create\nRelease --- D>Build\nAutomation]
+    D -- App.ipa --> RELDL[(Web Site\nApp1.ipa\nDownloads)]
+    C -- App2.ipa ---> VERIFY{{Match\nScan\nIndex\nSign}}
+
+    RELDL <-.-> VERIFY
+    RELDL <-.-> AppFairApp([App Fair.app])
+
+    VERIFY --  Publish Seal\nMetadata ---> PAC[(AppSource\nCatalog\nJSON)]
+    VERIFY -- Signed\nApp.ipa --> ValidatedApp{{Validate App\nfor Publication}}
+
+    PAC <--> AppFairApp
+
+    ValidatedApp -- fastlane --> PubAppStore[(App Store\nConnect)]
+
+    PubAppStore <--> AppStoreApp([App Store.app\nTestFlight.app])
+    AppFairApp <--> CONSUMER((Consumer))
+    AppStoreApp <--> CONSUMER
+    DEV <== Contract ==> PubAppStore
+
+    classDef untrusted fill:orange,stroke:#333,stroke-width:2px;
+    classDef neutral fill:skyblue,stroke:#333,stroke-width:2px;
+    classDef trusted fill:lightgreen,stroke:#000,stroke-width:2px;
+    classDef vendor fill:gold,stroke:#000,stroke-width:2px;
+
+    class DEV,e untrusted
+    class PREP,e untrusted
+    class CONSUMER,e neutral
+    class PubAppStore,e vendor
+    class TestFlight,e vendor
+    class AppStoreApp,e vendor
+    class MDM,e vendor
+    class D,e untrusted
+
+    class DEV,e untrusted
+    class PREP,e untrusted
+    class CONSUMER,e neutral
+
+    class PubAppStore,e trusted
+    class ValidatedApp,e trusted
+    class TestFlight,e trusted
+    class AppStoreApp,e trusted
+    class MDM,e trusted
+    class D,e untrusted
+    class VERIFY,e trusted
+    class C,e trusted
+    class PAC,e trusted
+    class AppFairApp,e trusted
+    class RELDL,e untrusted
+```
+
+## The macOS App
+
 <p align="center">
 <a alt="Download the App Fair app for macOS 12" href="https://appfair.app"><img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" /></a>
 <h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to appfair.net</h1>

@@ -46,9 +46,9 @@ flowchart LR
     class D,e untrusted
 ```
 
-Because the App Store vendor does not mandate access to the underlying source code of any of the apps it re-distributes, trust is only maintained through a contractual agreement between the two parties that compels a dependent economic relationship and legal consequence to the app creator for any publicized indicents of bad behavior (such as malware, virus transmission, information exfiltration, illicit tracking and spyware, exploitative behavior, etc.). 
+Because the App Store vendor does not require access to the underlying source code of the apps it re-distributes, trust is only maintained through a contractual agreement between the two parties that assigns a dependent economic relationship and legal consequence to the app creator for any flagrant violations or indicents of bad behavior (such as malware, virus transmission, information exfiltration, illicit tracking and spyware, exploitative behavior, etc.).
 
-Such remediation is often effective but can be unevenly applied due to subjective factors, priorities, and legal obligations on the part of the App Store vendor. The result is that many applications advertised and promoted in the centralized App Stores are untrustworthy or outright malicious. In addition, the App Store vendor may enact policies that are hostile to both the end-user as well as the app creator, such as advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domain.
+Such remediation can be effective but is unevenly enforced due to subjective factors, corporate priorities, and legal obligations on the part of the App Store vendor. The result is that many applications advertised and promoted in the centralized App Stores are untrustworthy or outright malicious, while many other potentially useful apps are blocked from distirbution to the public due to policy. In addition, the App Store vendor may enact policies that are outright hostile to both the end-user as well as the app creator, such as injected advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domain.
 
 
 ### The Federated App Index Repository (FAIR) Model

@@ -53,7 +53,7 @@ Such remediation can be effective but is unevenly enforced due to subjective fac
 
 ### The Federated App Index Repository (FAIR) Model
 
-In countrast, a “fairground” is a part of a federation of app creators and distributors who establish mutual trust by opening the source code of their apps to public scrutiny and security review. 
+In contrast, a “fairground” is a part of a federation of app creators and distributors who establish mutual trust by opening the source code of their apps to public scrutiny and security review. 
 
 Rather that having a contractual relationship between the Fairground and the App Creator, as with the App Store model, the Fairground instead confers trust on apps that it vends by guaranteeing that the published source code is the exact same code that was used to create the application binary that is installed on the end user's device. This prevents many classes of malware and dark patterns by ensuring that the public has the ability to review the blueprints of the apps that they trust with their personal and intimate information.
 

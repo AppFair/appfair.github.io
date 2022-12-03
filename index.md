@@ -3,6 +3,10 @@ name: AppFair
 title: The App Fair
 ---
 
+<p align="center">
+<img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" />
+</p>
+
 A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, enabling users of iPhones and other devices to choose the sources of the applications and extensions they want to use. The App Fair (appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperarable federation of trusted software repositories. 
 
 Anyone can create an app for the App Fair, just as anyone can create a Fairground as their own app store.
@@ -50,7 +54,7 @@ In countrast, a Fairground is a part of a federation of app creators who are abl
 
 Rather that having a contractual relationship between the Fairground and the App Creator, as with the App Store model, the Fairground instead confers trust on apps that it vends by guaranteeing that the published source code is the exact same code that was used to create the application binary that is installed on the end user's device. This prevents many classes of malware and dark patterns by ensuring that the public has the ability to review the blueprints of the apps that they trust with their personal and intimate information.
 
-Fairgrounds use modern techniques and best practices such as reproducible builds and cryptographic signatures to notarize apps as being trustworthy. Remediation of bad behavior is be accomplished through de-listing and banning by the community.
+All Fairground apps are open-source, enabling the use of modern techniques and best practices such as reproducible builds, transitive source scanning, and cryptographic signatures to notarize apps as being trustworthy. Remediation of bad behavior is accomplished through de-listing.
 
 ```mermaid
 flowchart LR
@@ -153,17 +157,7 @@ flowchart LR
 
 ## The macOS App
 
-<p align="center">
-<a alt="Download the App Fair app for macOS 12" href="https://appfair.app"><img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" /></a>
-<h1 style="text-align: center; font-family: ui-rounded, Arial Rounded MT Bold, Helvetica Rounded, Arial, sans-serif;">Welcome to appfair.net</h1>
-</p>
-
-appfair.net is an autonomous distribution network of free and
-open-source macOS and iOS applications.
-App Fair apps use modern native frameworks and user-interface
-elements with a focus on performance, efficiency, and accessibility.
-
-The app catalog can be accessed using `App Fair.app`, which is a native app for macOS 12.5 that can be downloaded from [appfair.app](https://appfair.app).
+The App Fair app catalog can be accessed using `App Fair.app`, which is a native app for macOS 12.5 that can be downloaded from [appfair.app](https://appfair.app).
 New users should start by downloading this app and exploring its features and capabilities.
 For help and assistance with the App Fair application itself,
 visit the [project discussions](https://github.com/App-Fair/App/discussions),

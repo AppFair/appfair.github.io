@@ -7,13 +7,15 @@ title: The App Fair
 <img alt="The App Fair icon" align="center" style="height: 20vh;" src="appfair-icon.svg" />
 </p>
 
-A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, providing users of iPhones and other devices a choice of trusted sources for the applications and extensions they want to use. The App Fair (appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperarable federation of trusted software repositories. 
+A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, providing users of iPhones and other devices a choice of trusted sources for the applications and extensions they want to use. 
+
+The App Fair (appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperarable federation of trusted software repositories.
 
 Anyone can create an app for the App Fair, just as anyone can create their own App Store using the fairground tools.
 
 ### Background: The Monolithic App Store Model
 
-The current model of how an app gets from a developer to a consumer/user is to have a single intermediary “store” that serves as the clearinghouse for all apps that can be installed on a certain vendor's device. The user generally trusts the vendor (colored gold in the diagram), and thereby transitively trusts any app creator (colored orange) whose app makes it through to the storefront. 
+The dominant commercial model for how an app gets from a developer to a consumer/user is to have a single intermediary “store” that serves as the clearinghouse for all apps that can be installed on a certain vendor's device. A user that trusts the App Store vendor (colored gold in the diagram) will thereby transitively trust the app creator (colored orange) whose app makes it through to the storefront.
 
 ```mermaid
 flowchart LR
@@ -46,7 +48,7 @@ flowchart LR
 
 The commercial App Store vendor does not require access to the source code of the app creator, and so trust is maintained through a contractual agreement between the two parties that compels a dependent economic relationship and legal consequence to the app creator for any demonstration of bad behavior (such as malware, virus transmission, spyware, information exfilitration, illicit tracking, etc.). 
 
-Such remediation is often effective but can be unevenly applied due to subjective factors and priorities on the part of the App Store vendor. The result is that many applications advertised and promoted in the centralized App Stores are untrustworthy or outright malicious. In addition, the App Store vendor may enact policies that are hostile to both the end-user as well as the app creator, such as advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domains.
+Such remediation is often effective but can be unevenly applied due to subjective factors and priorities on the part of the App Store vendor. The result is that many applications advertised and promoted in the centralized App Stores are untrustworthy or outright malicious. In addition, the App Store vendor may enact policies that are hostile to both the end-user as well as the app creator, such as advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domain.
 
 
 ### The Federated App Index Repository (FAIR) Model

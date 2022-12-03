@@ -9,7 +9,7 @@ title: The App Fair
 
 A Federated App Index Repository (FAIR) is part of a decentralized network of app stores, providing users of iPhones and other devices a choice of trusted sources for the applications and extensions they want to use. 
 
-The App Fair (https://appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperable federation of trusted software repositories.
+The App Fair (https://appfair.net) is one such "Fairground", and provides a set of open-source [tools](https://github.com/fair-ground/Fair.git), runtime libraries, specifications, and documentation to support this interoperable federation of trusted software repositories. The App Fair is managed by the non-profit [App Fair Project (https://appfair.org)](https://appfair.org) Corporation of Boston, Massachusetts.
 
 Anyone can create an app for the App Fair, just as anyone can create their own App Store using the fairground tools.
 
@@ -48,7 +48,7 @@ flowchart LR
 
 Because the App Store vendor does not require access to the underlying source code of the apps it re-distributes, trust is only maintained through a contractual agreement between the two parties that assigns a dependent economic relationship and legal consequence to the app creator for any flagrant violations or indicents of bad behavior (such as malware, virus transmission, information exfiltration, illicit tracking and spyware, exploitative behavior, etc.).
 
-Such remediation can be effective but is unevenly enforced due to subjective factors, corporate priorities, and legal obligations on the part of the App Store vendor. The result is that many applications advertised and promoted in the centralized App Stores are untrustworthy or outright malicious, while many other potentially useful apps are blocked from distirbution to the public due to policy. In addition, the App Store vendor may enact policies that are outright hostile to both the end-user as well as the app creator, such as injected advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domain.
+Such remediation can be effective but is unevenly enforced due to subjective factors, corporate priorities, and legal obligations on the part of the App Store vendor. The result is that many applications advertised and promoted in the centralized App Stores are untrustworthy or outright malicious, while many other potentially useful apps are blocked from distribution to the public over policy or competitive differences. In addition, the App Store vendor may enact practices that are outright hostile to both the end-user as well as the app creator, such as injected advertising, tracking, and the imposition of economic rents or “taxes” on all commerce that flows through their domain.
 
 
 ### The Federated App Index Repository (FAIR) Model
